@@ -1,7 +1,5 @@
 # Bill C-63: A second Act to implement certain provisions of the budget tabled in Parliament on March 22, 2017 and other measures
 
-**Sponsor**: MINISTER OF FINANCE
-
 Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*A second Act to implement certain provisions of the budget tabled in Parliament on March 22, 2017 and other measures*".
 
 ## Summary
@@ -425,9 +423,9 @@ This Act may be cited as the `Budget Implementation Act, 2017, No. 2`.
 
   **(2)** Subparagraphs 12(1)(z.7)(i) and (ii) of the Act are replaced by the following:
 
-    if the taxpayer acquires a property under a derivative forward agreement in the year, **the portion of** the amount by which the fair market value of the property at the time it is acquired by the taxpayer exceeds the cost to the taxpayer of the property **that is attributable to an underlying interest other than an underlying interest referred to in subparagraphs (b)(i) to (iii) of the definition derivative forward agreement in subsection 248(1)**, or
+    if the taxpayer acquires a property under a derivative forward agreement in the year, the portion of the amount by which the fair market value of the property at the time it is acquired by the taxpayer exceeds the cost to the taxpayer of the property that is attributable to an underlying interest other than an underlying interest referred to in subparagraphs (b)(i) to (iii) of the definition derivative forward agreement in subsection 248(1), or
 
-    if the taxpayer disposes of a property under a derivative forward agreement in the year, **the portion of** the amount by which the proceeds of disposition (within the meaning assigned by subdivision c) of the property exceeds the fair market value of the property at the time the agreement is entered into by the taxpayer **that is attributable to an underlying interest other than an underlying interest referred to in clauses (c)(i)(A) to (C) of the definition derivative forward agreement in subsection 248(1)**.
+    if the taxpayer disposes of a property under a derivative forward agreement in the year, the portion of the amount by which the proceeds of disposition (within the meaning assigned by subdivision c) of the property exceeds the fair market value of the property at the time the agreement is entered into by the taxpayer that is attributable to an underlying interest other than an underlying interest referred to in clauses (c)(i)(A) to (C) of the definition derivative forward agreement in subsection 248(1).
 
   **(3)** Subsection (1) applies in respect of bonds issued after 2000.
 
@@ -437,11 +435,11 @@ This Act may be cited as the `Budget Implementation Act, 2017, No. 2`.
 
   **(1)** Paragraph 18(12)(b) of the Act is replaced by the following:
 
-    **if** the conditions set out in subparagraph (a)(i) or (ii) are met, the amount for the work space that is deductible in computing the individual's income for the year from the business shall not exceed the individual's income for the year from the business, computed without reference to the amount and **section** 34.1; and
+    if the conditions set out in subparagraph (a)(i) or (ii) are met, the amount for the work space that is deductible in computing the individual's income for the year from the business shall not exceed the individual's income for the year from the business, computed without reference to the amount and section 34.1; and
 
   **(2)** Paragraph 18(14)(c) of the Act is replaced by the following:
 
-    the disposition is not a disposition that is deemed to have occurred by **subsection 10.1(6) or (7)**, section 70, subsection 104(4), section 128.1, paragraph 132.2(3)(a) or (c) or subsection 138(11.3) or 149(10);
+    the disposition is not a disposition that is deemed to have occurred by subsection 10.1(6) or (7), section 70, subsection 104(4), section 128.1, paragraph 132.2(3)(a) or (c) or subsection 138(11.3) or 149(10);
 
   **(3)** Paragraph 18(14)(c) of the Act, as enacted by subsection (2), is replaced by the following:
 
@@ -665,9 +663,9 @@ This Act may be cited as the `Budget Implementation Act, 2017, No. 2`.
 
   **(2)** Clauses (i)(A) and (B) of the description of A in paragraph 20(1)(xx) of the Act are replaced by the following:
 
-    if the taxpayer acquires a property under the agreement in the year or a preceding taxation year, **the portion of** the amount by which the cost to the taxpayer of the property exceeds the fair market value of the property at the time it is acquired by the taxpayer **that is attributable to an underlying interest other than an underlying interest referred to in subparagraphs (b)(i) to (iii) of the definition derivative forward agreement in subsection 248(1)**, or
+    if the taxpayer acquires a property under the agreement in the year or a preceding taxation year, the portion of the amount by which the cost to the taxpayer of the property exceeds the fair market value of the property at the time it is acquired by the taxpayer that is attributable to an underlying interest other than an underlying interest referred to in subparagraphs (b)(i) to (iii) of the definition derivative forward agreement in subsection 248(1), or
 
-    if the taxpayer disposes of a property under the agreement in the year or a preceding taxation year, **the portion of** the amount by which the fair market value of the property at the time the agreement is entered into by the taxpayer exceeds the proceeds of disposition (within the meaning assigned by subdivision c) of the property **that is attributable to an underlying interest other than an underlying interest referred to in clauses (c)(i)(A) to (C) of the definition derivative forward agreement in subsection 248(1),** and
+    if the taxpayer disposes of a property under the agreement in the year or a preceding taxation year, the portion of the amount by which the fair market value of the property at the time the agreement is entered into by the taxpayer exceeds the proceeds of disposition (within the meaning assigned by subdivision c) of the property that is attributable to an underlying interest other than an underlying interest referred to in clauses (c)(i)(A) to (C) of the definition derivative forward agreement in subsection 248(1), and
 
   **(3)** Subsection (1) applies in respect of bonds issued after 2000.
 
@@ -677,7 +675,7 @@ This Act may be cited as the `Budget Implementation Act, 2017, No. 2`.
 
   **(1)** Paragraph 34(a) of the Act is replaced by the following:
 
-    **if** the taxpayer so elects in the taxpayer's return of income under this Part for the year **and the year begins before March 22, 2017**, there shall not be included any amount in respect of work in progress at the end of the year; and
+    if the taxpayer so elects in the taxpayer's return of income under this Part for the year and the year begins before March 22, 2017, there shall not be included any amount in respect of work in progress at the end of the year; and
 
   **(2)** Section 34 of the Act, as amended by subsection (1), is repealed.
 
@@ -689,13 +687,13 @@ This Act may be cited as the `Budget Implementation Act, 2017, No. 2`.
 
   **(1)** Subclause 37(8)(a)(ii)(B)(II) of the English version of the Act is replaced by the following:
 
-    an expenditure of a current nature **for** the prosecution of scientific research and experimental development in Canada directly undertaken on behalf of the taxpayer,
+    an expenditure of a current nature for the prosecution of scientific research and experimental development in Canada directly undertaken on behalf of the taxpayer,
 
   **(2)** Subsection 37(11) of the Act is replaced by the following:
 
-    **(11)** A prescribed form **must be filed by a taxpayer** with the Minister in respect of any expenditure, that would be incurred by **the** taxpayer in a taxation year that begins after 1995 if this Act were read without reference to subsection 78(4), **that is claimed by the taxpayer for the year as a deduction under this section,** on or before the day that is 12 months after the taxpayer's filing due-date for the taxation year, containing
+    **(11)** A prescribed form must be filed by a taxpayer with the Minister in respect of any expenditure, that would be incurred by the taxpayer in a taxation year that begins after 1995 if this Act were read without reference to subsection 78(4), that is claimed by the taxpayer for the year as a deduction under this section, on or before the day that is 12 months after the taxpayer's filing due-date for the taxation year, containing
 
-      prescribed information in respect of the expenditure; **and**
+      prescribed information in respect of the expenditure; and
 
       claim preparer information, as defined in subsection 162(5.3).
 
@@ -711,21 +709,21 @@ This Act may be cited as the `Budget Implementation Act, 2017, No. 2`.
 
   **(2)** Subsection 39(2.1) of the Act is replaced by the following:
 
-    **(2.1)** If at any time a corporation resident in Canada or a partnership of which such a corporation is a member (such corporation or partnership referred to in this subsection **and subsections (2.2) and (2.3)** as the "borrowing party") has received a loan from, or become indebted to, a creditor that is a foreign affiliate (referred to in this subsection **and subsections (2.2) and (2.3)** as a "creditor affiliate") **of a qualifying entity**, or that is a partnership (referred to in this subsection **and subsection (2.3)** as a "creditor partnership") of which such an affiliate is a member, **and** the loan or indebtedness is at a later time repaid, in whole or in part, then the **amount of the** borrowing party's capital gain or capital loss determined, **in the absence of this subsection, under subsection (2) in respect of the repayment**, is to be reduced
+    **(2.1)** If at any time a corporation resident in Canada or a partnership of which such a corporation is a member (such corporation or partnership referred to in this subsection and subsections (2.2) and (2.3) as the "borrowing party") has received a loan from, or become indebted to, a creditor that is a foreign affiliate (referred to in this subsection and subsections (2.2) and (2.3) as a "creditor affiliate") of a qualifying entity, or that is a partnership (referred to in this subsection and subsection (2.3) as a "creditor partnership") of which such an affiliate is a member, and the loan or indebtedness is at a later time repaid, in whole or in part, then the amount of the borrowing party's capital gain or capital loss determined, in the absence of this subsection, under subsection (2) in respect of the repayment, is to be reduced
 
       in the case of a capital gain
 
-      if the creditor is a creditor affiliate, by an amount, not exceeding that capital gain, that is equal to twice the amount that would — in the absence of **subparagraph 40(2)(g)(ii) and** paragraph 95(2)(g.04) and on the assumption that the creditor affiliate's capital loss in respect of the repayment of the loan or indebtedness were a capital gain of the creditor affiliate, the creditor affiliate had no other income, loss, capital gain or capital loss for any taxation year, and no other foreign affiliate of **a qualifying entity** had any income, loss, capital gain or capital loss for any taxation year — be **the total of all amounts each of which is an amount that would be** included in computing **a qualifying entity's** income under subsection 91(1) for its taxation year that includes the last day of the taxation year of the creditor affiliate that includes the later time, or
+      if the creditor is a creditor affiliate, by an amount, not exceeding that capital gain, that is equal to twice the amount that would — in the absence of subparagraph 40(2)(g)(ii) and paragraph 95(2)(g.04) and on the assumption that the creditor affiliate's capital loss in respect of the repayment of the loan or indebtedness were a capital gain of the creditor affiliate, the creditor affiliate had no other income, loss, capital gain or capital loss for any taxation year, and no other foreign affiliate of a qualifying entity had any income, loss, capital gain or capital loss for any taxation year — be the total of all amounts each of which is an amount that would be included in computing a qualifying entity's income under subsection 91(1) for its taxation year that includes the last day of the taxation year of the creditor affiliate that includes the later time, or
 
-      if the creditor is a creditor partnership, by an amount, not exceeding that capital gain, that is equal to twice the amount that is the total of each amount, determined in respect of a particular member of the creditor partnership that is a foreign affiliate of **a qualifying entity**, that would — in the absence of **subparagraph 40(2)(g)(ii) and** paragraph 95(2)(g.04) and on the assumption that the creditor partnership's capital loss in respect of the repayment of the loan or indebtedness were a capital gain of the creditor partnership, the particular member had no other income, loss, capital gain or capital loss for any taxation year, and no other foreign affiliate of **a qualifying entity** had any income, loss, capital gain or capital loss for any taxation year — be **the total of all amounts each of which is an amount that would be** included in computing **a qualifying entity's** income under subsection 91(1) for its taxation year that includes the last day of the taxation year of the particular member that includes the last day of the creditor partnership's fiscal period that includes that later time; and
+      if the creditor is a creditor partnership, by an amount, not exceeding that capital gain, that is equal to twice the amount that is the total of each amount, determined in respect of a particular member of the creditor partnership that is a foreign affiliate of a qualifying entity, that would — in the absence of subparagraph 40(2)(g)(ii) and paragraph 95(2)(g.04) and on the assumption that the creditor partnership's capital loss in respect of the repayment of the loan or indebtedness were a capital gain of the creditor partnership, the particular member had no other income, loss, capital gain or capital loss for any taxation year, and no other foreign affiliate of a qualifying entity had any income, loss, capital gain or capital loss for any taxation year — be the total of all amounts each of which is an amount that would be included in computing a qualifying entity's income under subsection 91(1) for its taxation year that includes the last day of the taxation year of the particular member that includes the last day of the creditor partnership's fiscal period that includes that later time; and
 
       in the case of a capital loss
 
-      if the creditor is a creditor affiliate, by an amount, not exceeding that capital loss, that is equal to twice the amount, in respect of the creditor affiliate's capital gain in respect of the repayment of the loan or indebtedness, that would — in the absence of paragraph 95(2)(g.04) and on the assumption that the creditor affiliate had no other income, loss, capital gain or capital loss for any taxation year, and no other foreign affiliate of **a qualifying entity** had any income, loss, capital gain or capital loss for any taxation year — be **the total of all amounts each of which is an amount that would be** included in computing **a qualifying entity's** income under subsection 91(1) for its taxation year that includes the last day of the taxation year of the creditor affiliate that includes the later time, or
+      if the creditor is a creditor affiliate, by an amount, not exceeding that capital loss, that is equal to twice the amount, in respect of the creditor affiliate's capital gain in respect of the repayment of the loan or indebtedness, that would — in the absence of paragraph 95(2)(g.04) and on the assumption that the creditor affiliate had no other income, loss, capital gain or capital loss for any taxation year, and no other foreign affiliate of a qualifying entity had any income, loss, capital gain or capital loss for any taxation year — be the total of all amounts each of which is an amount that would be included in computing a qualifying entity's income under subsection 91(1) for its taxation year that includes the last day of the taxation year of the creditor affiliate that includes the later time, or
 
-      if the creditor is a creditor partnership, by an amount, not exceeding that capital loss, that is equal to twice the amount, in respect of the creditor partnership's capital gain in respect of the repayment of the loan or indebtedness, that is the total of each amount, determined in respect of a particular member of the creditor partnership that is a foreign affiliate of **a qualifying entity**, that would — in the absence of paragraph 95(2)(g.04) and on the assumption that the particular member had no other income, loss, capital gain or capital loss for any taxation year, and no other foreign affiliate of a qualifying entity had any income, loss, capital gain or capital loss for any taxation year — be **the total of all amounts each of which is an amount that would be** included in computing **a qualifying entity's** income under subsection 91(1) for its taxation year that includes the last day of the taxation year of the particular member that includes the last day of the creditor partnership's fiscal period that includes the later time.
+      if the creditor is a creditor partnership, by an amount, not exceeding that capital loss, that is equal to twice the amount, in respect of the creditor partnership's capital gain in respect of the repayment of the loan or indebtedness, that is the total of each amount, determined in respect of a particular member of the creditor partnership that is a foreign affiliate of a qualifying entity, that would — in the absence of paragraph 95(2)(g.04) and on the assumption that the particular member had no other income, loss, capital gain or capital loss for any taxation year, and no other foreign affiliate of a qualifying entity had any income, loss, capital gain or capital loss for any taxation year — be the total of all amounts each of which is an amount that would be included in computing a qualifying entity's income under subsection 91(1) for its taxation year that includes the last day of the taxation year of the particular member that includes the last day of the creditor partnership's fiscal period that includes the later time.
 
-    **(2.2)** **For purposes of subsections (2.1) and (2.3), **qualifying entity** means**
+    **(2.2)** For purposes of subsections (2.1) and (2.3), **qualifying entity** means
 
       in the case of a borrowing party that is a corporation,
 
@@ -795,17 +793,17 @@ This Act may be cited as the `Budget Implementation Act, 2017, No. 2`.
 
   **(2)** Paragraphs 40(3)(d) and (e) of the Act are replaced by the following:
 
-    for the purposes of section 93 **and subsections 116(6) and (6.1)**, the property is deemed to have been disposed of by the taxpayer at that time, and
+    for the purposes of section 93 and subsections 116(6) and (6.1), the property is deemed to have been disposed of by the taxpayer at that time, and
 
-    for the purposes of **subsection 2(3) and sections** 110.6 **and 150**, the property is deemed to have been disposed of by the taxpayer in the year.
+    for the purposes of subsection 2(3) and sections 110.6 and 150, the property is deemed to have been disposed of by the taxpayer in the year.
 
   **(3)** Paragraph 40(3.1)(b) of the Act is replaced by the following:
 
-    for the **purposes** of **subsection 2(3)**, section 110.6, **subsections 116(6) and (6.1) and section 150**, the interest is deemed to have been disposed of by the member at that time.
+    for the purposes of subsection 2(3), section 110.6, subsections 116(6) and (6.1) and section 150, the interest is deemed to have been disposed of by the member at that time.
 
   **(4)** The portion of subsection 40(6) of the Act before paragraph (a) is replaced by the following:
 
-    **(6)** **Subject to subsection (6.1), if** a property was owned by a taxpayer, whether jointly with another person or otherwise, at the end of 1981 and continuously **from the beginning of 1982** until disposed of by the taxpayer, the amount of the gain determined under paragraph (2)(b) in respect of the disposition shall not exceed the amount, if any, by which the total of
+    **(6)** Subject to subsection (6.1), if a property was owned by a taxpayer, whether jointly with another person or otherwise, at the end of 1981 and continuously from the beginning of 1982 until disposed of by the taxpayer, the amount of the gain determined under paragraph (2)(b) in respect of the disposition shall not exceed the amount, if any, by which the total of
 
   **(5)** Section 40 of the Act is amended by adding the following after subsection (6):
 
@@ -837,7 +835,7 @@ This Act may be cited as the `Budget Implementation Act, 2017, No. 2`.
 
   **(1)** The portion of subsection 43(2) of the Act before the formula in paragraph (a) is replaced by the following:
 
-    **(2)** For the purposes of subsection (1) and section 53, if at any time a taxpayer disposes of a covenant or an easement to which land is subject or, in the case of land in the Province of Quebec, a real **or personal** servitude, in circumstances where subsection 110.1(5) or 118.1(12) applies,
+    **(2)** For the purposes of subsection (1) and section 53, if at any time a taxpayer disposes of a covenant or an easement to which land is subject or, in the case of land in the Province of Quebec, a real or personal servitude, in circumstances where subsection 110.1(5) or 118.1(12) applies,
 
       the portion of the adjusted cost base to the taxpayer of the land immediately before the disposition that can reasonably be regarded as attributable to the covenant, easement or servitude, as the case may be, is deemed to be equal to the amount determined by the formula
 
@@ -847,7 +845,7 @@ This Act may be cited as the `Budget Implementation Act, 2017, No. 2`.
 
   **(1)** Clause 53(2)(c)(i)(C) of the Act is replaced by the following:
 
-    subsections 100(4), 112(3.1), **(4)**, (4.2) as it read in its application to dispositions of property that occurred before April 27, 1995 **and (5.2)**,
+    subsections 100(4), 112(3.1), (4), (4.2) as it read in its application to dispositions of property that occurred before April 27, 1995 and (5.2),
 
   **(2)** Subsection (1) is deemed to have come into force on September 16, 2016.
 
@@ -893,7 +891,7 @@ This Act may be cited as the `Budget Implementation Act, 2017, No. 2`.
 
   **(2)** Paragraph (c) of the definition **superficial loss** in section 54 of the Act is replaced by the following:
 
-    a disposition deemed to have been made by subsection 45(1), section 48 as it read in its application before 1993, section 50 or 70, subsection 104(4), section 128.1, paragraph 132.2(3)(a) or (c), subsection 138(11.3) **or 138.2(4) or** 142.5(2), section 142.6 or any of subsections 144(4.1) and (4.2) and 149(10),
+    a disposition deemed to have been made by subsection 45(1), section 48 as it read in its application before 1993, section 50 or 70, subsection 104(4), section 128.1, paragraph 132.2(3)(a) or (c), subsection 138(11.3) or 138.2(4) or 142.5(2), section 142.6 or any of subsections 144(4.1) and (4.2) and 149(10),
 
   **(3)** Subsection (2) applies to taxation years that begin after 2017.
 
@@ -901,7 +899,7 @@ This Act may be cited as the `Budget Implementation Act, 2017, No. 2`.
 
   **(1)** Paragraph 56(1)(z.3) of the Act is replaced by the following:
 
-    any amount required by section 147.5 to be included in computing the taxpayer's income for the year **other than an amount distributed under a PRPP as a return of all or a portion of a contribution to the plan to the extent that the amount**
+    any amount required by section 147.5 to be included in computing the taxpayer's income for the year other than an amount distributed under a PRPP as a return of all or a portion of a contribution to the plan to the extent that the amount
 
     is a payment described under clause 147.5(3)(d)(ii)(A) or (B), and
 
@@ -913,17 +911,17 @@ This Act may be cited as the `Budget Implementation Act, 2017, No. 2`.
 
   **(1)** Clause 56.4(7)(b)(ii)(A) of the Act is replaced by the following:
 
-    under which the vendor or the vendor's eligible corporation disposes of property (other than property described in clause (B) **or subparagraph (i)**) to the purchaser, or the purchaser's eligible corporation, for consideration that is received or receivable by the vendor, or the vendor's eligible corporation, as the case may be, or
+    under which the vendor or the vendor's eligible corporation disposes of property (other than property described in clause (B) or subparagraph (i)) to the purchaser, or the purchaser's eligible corporation, for consideration that is received or receivable by the vendor, or the vendor's eligible corporation, as the case may be, or
 
   **(2)** Subclause 56.4(7)(c)(i)(B)(I) of the Act is replaced by the following:
 
-    under which the vendor or the vendor's eligible corporation disposes of property (other than property described in subclause (II) **or clause (A))** to the eligible individual, or **the** eligible individual's corporation, for consideration that is received or receivable by the vendor, or the vendor's eligible corporation, as the case may be, or
+    under which the vendor or the vendor's eligible corporation disposes of property (other than property described in subclause (II) or clause (A)) to the eligible individual, or the eligible individual's corporation, for consideration that is received or receivable by the vendor, or the vendor's eligible corporation, as the case may be, or
 
   **(3)** Subparagraphs 56.4(7)(g)(i) and (ii) of the Act are replaced by the following:
 
-    in the case of subparagraph (b)(i), the vendor, or the vendor's eligible corporation**,** if it is required to include the goodwill amount in computing its income, and the purchaser, or the purchaser's eligible corporation**,** if it incurs the expenditure that is the goodwill amount to the vendor or the vendor's eligible corporation, as the case may be, or
+    in the case of subparagraph (b)(i), the vendor, or the vendor's eligible corporation, if it is required to include the goodwill amount in computing its income, and the purchaser, or the purchaser's eligible corporation, if it incurs the expenditure that is the goodwill amount to the vendor or the vendor's eligible corporation, as the case may be, or
 
-    in the case of clause (c)(i)(A), the vendor, or the vendor's eligible corporation**,** if it is required to include the goodwill amount in computing its income, and the eligible individual, or the eligible individual's eligible corporation**,** if it incurs the expenditure that is the goodwill amount to the vendor or the vendor's eligible corporation, as the case may be.
+    in the case of clause (c)(i)(A), the vendor, or the vendor's eligible corporation, if it is required to include the goodwill amount in computing its income, and the eligible individual, or the eligible individual's eligible corporation, if it incurs the expenditure that is the goodwill amount to the vendor or the vendor's eligible corporation, as the case may be.
 
   **(4)** Subsections (1) to (3) apply in respect of restrictive covenants granted after September 15, 2016.
 
@@ -943,7 +941,7 @@ This Act may be cited as the `Budget Implementation Act, 2017, No. 2`.
 
   **(1)** Subsection 62(2) of the Act is replaced by the following:
 
-    **(2)** There may be deducted in computing a taxpayer's income for a taxation year the amount, if any, that the taxpayer would be entitled to deduct under subsection (1) if the definition eligible relocation in subsection 248(1) were read without reference to subparagraph (a)(i) of that definition and if the word "both" in paragraph **(c)** of that definition were read as "either or both".
+    **(2)** There may be deducted in computing a taxpayer's income for a taxation year the amount, if any, that the taxpayer would be entitled to deduct under subsection (1) if the definition eligible relocation in subsection 248(1) were read without reference to subparagraph (a)(i) of that definition and if the word "both" in paragraph (c) of that definition were read as "either or both".
 
   **(2)** Subsection (1) applies to taxation years that end after October 2011.
 
@@ -951,7 +949,7 @@ This Act may be cited as the `Budget Implementation Act, 2017, No. 2`.
 
   **(1)** The portion of clause (i)(B) of the description of C in paragraph 63(2)(b) of the Act before subclause (I) is replaced by the following:
 
-    a person certified in writing by a medical doctor **or a nurse practitioner** to be a person who
+    a person certified in writing by a medical doctor or a nurse practitioner to be a person who
 
   **(2)** Subsection (1) applies in respect of certifications made after September 7, 2017.
 
@@ -959,7 +957,7 @@ This Act may be cited as the `Budget Implementation Act, 2017, No. 2`.
 
   **(1)** Paragraph 66(12.601)(b) of the Act is replaced by the following:
 
-    during the period beginning on the particular day the agreement was entered into and ending on **the earlier of December 31, 2018 and** the day that is 24 months after the end of the month that included that particular day, the corporation incurred Canadian development expenses **(excluding expenses that are deemed by subsection (12.66) to have been incurred on December 31, 2018)** described in paragraph (a) or (b) of the definition Canadian development expense in subsection 66.2(5) or that would be described in paragraph (f) of that definition if the words "paragraphs (a) to (e)" in that paragraph were read as "paragraphs (a) and (b)",
+    during the period beginning on the particular day the agreement was entered into and ending on the earlier of December 31, 2018 and the day that is 24 months after the end of the month that included that particular day, the corporation incurred Canadian development expenses (excluding expenses that are deemed by subsection (12.66) to have been incurred on December 31, 2018) described in paragraph (a) or (b) of the definition Canadian development expense in subsection 66.2(5) or that would be described in paragraph (f) of that definition if the words "paragraphs (a) to (e)" in that paragraph were read as "paragraphs (a) and (b)",
 
   **(2)** Subsection (1) comes into force on the day on which this Act receives royal assent except that, in its application in respect of agreements entered into after 2016 and before March 22, 2017, paragraph 66(12.601)(b) of the Act, as enacted by subsection (1), is to be read without reference to the phrase "the earlier of December 31, 2018 and".
 
@@ -977,7 +975,7 @@ before 2019 (excluding an expense that is deemed by subsection 66(12.66) to have
 
   **(1)** Paragraph 75(3)(d) of the Act is replaced by the following:
 
-    by a trust **if**
+    by a trust if
 
     the trust acquired the property, or other property for which the property is a substitute, from a particular individual,
 
@@ -1005,7 +1003,7 @@ before 2019 (excluding an expense that is deemed by subsection 66(12.66) to have
 
   **(2)** The portion of paragraph 85(2)(a) of the Act before subparagraph (i) is replaced by the following:
 
-    a partnership has disposed, to a taxable Canadian corporation for consideration that includes shares of the corporation's capital stock, of any partnership property **(other than an eligible derivative, as defined in subsection 10.1(5), of the partnership if subsection 10.1(6) applies to the partnership)** that was
+    a partnership has disposed, to a taxable Canadian corporation for consideration that includes shares of the corporation's capital stock, of any partnership property (other than an eligible derivative, as defined in subsection 10.1(5), of the partnership if subsection 10.1(6) applies to the partnership) that was
 
   **(3)** Subsections (1) and (2) apply to taxation years that begin after March 21, 2017.
 
@@ -1069,7 +1067,7 @@ before 2019 (excluding an expense that is deemed by subsection 66(12.66) to have
 
   **(3)** The portion of subsection 87(10) of the Act after paragraph (f) is replaced by the following:
 
-    the new share is deemed, for the purposes of subsection 116(6), the definitions qualified investment in subsections 146(1), 146.1(1), 146.3(1) and **146.4(1)**, in section 204 and in **subsection** 207.01(1), and the definition taxable Canadian property in subsection 248(1), to be listed on the exchange until the earliest time at which it is so redeemed, acquired or cancelled.
+    the new share is deemed, for the purposes of subsection 116(6), the definitions qualified investment in subsections 146(1), 146.1(1), 146.3(1) and 146.4(1), in section 204 and in subsection 207.01(1), and the definition taxable Canadian property in subsection 248(1), to be listed on the exchange until the earliest time at which it is so redeemed, acquired or cancelled.
 
   **(4)** Subsection (1) applies to taxation years that begin after March 21, 2017.
 
@@ -1081,7 +1079,7 @@ before 2019 (excluding an expense that is deemed by subsection 66(12.66) to have
 
   **(1)** The portion of paragraph 88(1)(e.2) of the Act before subparagraph (i) is replaced by the following:
 
-    paragraphs 87(2)(c), (d.1), (e.1), (e.3), (g) to (l), (l.**21**) to (u), (x), (z.1), (z.2), (aa), (cc), (ll), (nn), (pp), (rr) and (tt) to (ww), subsection 87(6) and, subject to section 78, subsection 87(7) apply to the winding-up as if the references in those provisions to
+    paragraphs 87(2)(c), (d.1), (e.1), (e.3), (g) to (l), (l.21) to (u), (x), (z.1), (z.2), (aa), (cc), (ll), (nn), (pp), (rr) and (tt) to (ww), subsection 87(6) and, subject to section 78, subsection 87(7) apply to the winding-up as if the references in those provisions to
 
   **(2)** The portion of paragraph 88(1)(e.2) of the Act before subparagraph (i), as enacted by subsection (1), is replaced by the following:
 
@@ -1099,7 +1097,7 @@ before 2019 (excluding an expense that is deemed by subsection 66(12.66) to have
 
   **(1)** The portion of paragraph (a) of the definition **capital dividend account** in subsection 89(1) of the Act before subparagraph (i) is replaced by the following:
 
-    the amount, if any, by which **the total of**
+    the amount, if any, by which the total of
 
   **(2)** Paragraph (a) of the definition **capital dividend account** in subsection 89(1) of the Act is amended by adding "and" at the end of subparagraph (i) and by adding the following after that subparagraph:
 
@@ -1121,7 +1119,7 @@ before 2019 (excluding an expense that is deemed by subsection 66(12.66) to have
 
   **(3)** The portion of paragraph (f) of the definition **capital dividend account** in subsection 89(1) of the Act before subparagraph (i) is replaced by the following:
 
-    all amounts each of which is an amount in respect of a distribution made, in the period **and before September 16, 2016**, by a trust to the corporation in respect of capital gains of the trust equal to the lesser of
+    all amounts each of which is an amount in respect of a distribution made, in the period and before September 16, 2016, by a trust to the corporation in respect of capital gains of the trust equal to the lesser of
 
 ### Section 27
 
@@ -1173,11 +1171,11 @@ before 2019 (excluding an expense that is deemed by subsection 66(12.66) to have
 
   **(2)** The portion of subsection 90(7) of the Act before paragraph (a) is replaced by the following:
 
-    **(7)** For the purposes of this subsection and subsections (6), (8) to (15) **and 39(2.1) and (2.2) and paragraph 95(2)(g.04)**, if at any time a person or partnership (referred to in this subsection as the "intermediate lender") makes a loan to another person or partnership (in this subsection referred to as the "intended borrower") because the intermediate lender received a loan from another person or partnership (in this subsection referred to as the "initial lender")
+    **(7)** For the purposes of this subsection and subsections (6), (8) to (15) and 39(2.1) and (2.2) and paragraph 95(2)(g.04), if at any time a person or partnership (referred to in this subsection as the "intermediate lender") makes a loan to another person or partnership (in this subsection referred to as the "intended borrower") because the intermediate lender received a loan from another person or partnership (in this subsection referred to as the "initial lender")
 
   **(3)** Subparagraph 90(9)(a)(ii) of the Act is replaced with the following:
 
-    the income of the corporation under subsection 91(5), in respect of the taxable surplus of a foreign affiliate of the corporation, **unless** the specified debtor is a person or partnership described in subclause (i)(D)(I) or (II);
+    the income of the corporation under subsection 91(5), in respect of the taxable surplus of a foreign affiliate of the corporation, unless the specified debtor is a person or partnership described in subclause (i)(D)(I) or (II);
 
   **(4)** Paragraph (b) of the definition **specified debtor** in subsection 90(15) of the Act is replaced by the following:
 
@@ -1329,7 +1327,7 @@ before 2019 (excluding an expense that is deemed by subsection 66(12.66) to have
 
   **(3)** Subsection 91(4.5) of the Act is replaced by the following:
 
-    **(4.5)** For the purposes of subparagraph (4.1)(a)(i), a specified owner in respect of the taxpayer is not to be considered, under the relevant foreign tax law, to own less than all of the shares of the capital stock of a corporation that are considered to be owned for the purposes of this Act solely because the specified owner **or the corporation** is not treated as a corporation under the relevant foreign tax law.
+    **(4.5)** For the purposes of subparagraph (4.1)(a)(i), a specified owner in respect of the taxpayer is not to be considered, under the relevant foreign tax law, to own less than all of the shares of the capital stock of a corporation that are considered to be owned for the purposes of this Act solely because the specified owner or the corporation is not treated as a corporation under the relevant foreign tax law.
 
   **(4)** Subsection (1) is deemed to have come into force on July 12, 2013, except that
 
@@ -1407,7 +1405,7 @@ before 2019 (excluding an expense that is deemed by subsection 66(12.66) to have
 
   **(1)** Clause 94(3)(b)(ii)(A) of the Act is replaced by the following:
 
-    the trust's income for the particular taxation year **(other than income — not including dividends or interest — from sources in Canada)** is deemed to be from sources in that country and not to be from any other source, and
+    the trust's income for the particular taxation year (other than income — not including dividends or interest — from sources in Canada) is deemed to be from sources in that country and not to be from any other source, and
 
   **(2)** Subsection (1) applies to taxation years that end after September 15, 2016.
 
@@ -1419,11 +1417,11 @@ before 2019 (excluding an expense that is deemed by subsection 66(12.66) to have
 
   **(2)** The portion of paragraph 95(2)(a.1) of the Act after subparagraph (ii) and before subparagraph (iii) is replaced by the following:
 
-    unless more than 90% of the gross revenue of the affiliate for the year from the sale of property **(other than a property the income from the sale of which is not included in computing the income from a business other than an active business of the affiliate under this paragraph because of subsection (2.31))** is derived from the sale of such property (other than a property described in subparagraph (ii) the cost of which to any person is a cost referred to in subparagraph (i)) to persons with whom the affiliate deals at arm's length (which, for this purpose, includes a sale of property to a non-resident corporation with which the affiliate does not deal at arm's length for sale to persons with whom the affiliate deals at arm's length) and, where this paragraph applies to include income of the affiliate from the sale of property in the income of the affiliate from a business other than an active business,
+    unless more than 90% of the gross revenue of the affiliate for the year from the sale of property (other than a property the income from the sale of which is not included in computing the income from a business other than an active business of the affiliate under this paragraph because of subsection (2.31)) is derived from the sale of such property (other than a property described in subparagraph (ii) the cost of which to any person is a cost referred to in subparagraph (i)) to persons with whom the affiliate deals at arm's length (which, for this purpose, includes a sale of property to a non-resident corporation with which the affiliate does not deal at arm's length for sale to persons with whom the affiliate deals at arm's length) and, where this paragraph applies to include income of the affiliate from the sale of property in the income of the affiliate from a business other than an active business,
 
   **(3)** The portion of paragraph 95(2)(a.23) of the Act before subparagraph (i) is replaced by the following:
 
-    for the purposes of paragraphs (a.2), (a.21) and **(a.24)**, **specified Canadian risk** means a risk in respect of
+    for the purposes of paragraphs (a.2), (a.21) and (a.24), **specified Canadian risk** means a risk in respect of
 
   **(4)** Subsection 95(2) of the Act is amended by adding the following after paragraph (a.23):
 
@@ -1445,21 +1443,21 @@ before 2019 (excluding an expense that is deemed by subsection 66(12.66) to have
 
   **(5)** Paragraph 95(2)(f.13) of the Act is replaced by the following:
 
-    where the calculating currency of a foreign affiliate of a taxpayer is a currency other than Canadian currency, the foreign affiliate shall determine the amount included in computing its foreign accrual property income, in respect of the taxpayer for a taxation year of the foreign affiliate, attributable to its capital gain or taxable capital gain, from the disposition of an excluded property in the taxation year, in Canadian currency by converting the amount of the capital gain, or taxable capital gain, otherwise determined under subparagraph (f.12)(i) using its calculating currency for the taxation year into Canadian currency using the rate of exchange quoted by the Bank of Canada on the day on which the disposition was made**, or another rate of exchange that is acceptable to the Minister**;
+    where the calculating currency of a foreign affiliate of a taxpayer is a currency other than Canadian currency, the foreign affiliate shall determine the amount included in computing its foreign accrual property income, in respect of the taxpayer for a taxation year of the foreign affiliate, attributable to its capital gain or taxable capital gain, from the disposition of an excluded property in the taxation year, in Canadian currency by converting the amount of the capital gain, or taxable capital gain, otherwise determined under subparagraph (f.12)(i) using its calculating currency for the taxation year into Canadian currency using the rate of exchange quoted by the Bank of Canada on the day on which the disposition was made, or another rate of exchange that is acceptable to the Minister;
 
   **(6)** Paragraph 95(2)(*f.15*) of the Act is replaced by the following:
 
     for the purposes of applying subparagraph (f)(i), the references in subsection 39(2) to "Canadian currency" are to be read as "the taxpayer's calculating currency"
 
-    in respect of a debt obligation owing by a foreign affiliate of a taxpayer, or a partnership of which the foreign affiliate is a member, that is a debt referred to in subparagraph (i)(i) or (ii), **and**
+    in respect of a debt obligation owing by a foreign affiliate of a taxpayer, or a partnership of which the foreign affiliate is a member, that is a debt referred to in subparagraph (i)(i) or (ii), and
 
     in respect of an agreement described in subparagraph (i)(iii) entered into by a foreign affiliate of a taxpayer, or a partnership of which the foreign affiliate is a member;
 
   **(7)** Paragraph 95(2)(g.04) of the Act is replaced by the following:
 
-    if at any time a corporation resident in Canada or a partnership of which such a corporation is a member (such corporation or partnership referred to in this paragraph as the "borrowing party") has received a loan from, or become indebted to, a creditor that is a foreign affiliate (referred to in this paragraph as a "creditor affiliate") of **a qualifying entity (in this paragraph within the meaning assigned by subsection 39(2.2))**, or that is a partnership (referred to in this paragraph as a "creditor partnership") of which such an affiliate is a member, **and** the loan or indebtedness is at a later time repaid, in whole or in part, **then the amount of the creditor affiliate's or creditor partnership's capital gain or capital loss, as the case may be, determined in the absence of this paragraph, in respect of the repayment, is to be reduced**
+    if at any time a corporation resident in Canada or a partnership of which such a corporation is a member (such corporation or partnership referred to in this paragraph as the "borrowing party") has received a loan from, or become indebted to, a creditor that is a foreign affiliate (referred to in this paragraph as a "creditor affiliate") of a qualifying entity (in this paragraph within the meaning assigned by subsection 39(2.2)), or that is a partnership (referred to in this paragraph as a "creditor partnership") of which such an affiliate is a member, and the loan or indebtedness is at a later time repaid, in whole or in part, then the amount of the creditor affiliate's or creditor partnership's capital gain or capital loss, as the case may be, determined in the absence of this paragraph, in respect of the repayment, is to be reduced
 
-    **in the case of a capital loss**
+    in the case of a capital loss
 
     if the creditor is a creditor affiliate, by an amount, not exceeding the amount of that capital loss so determined, that is determined by the formula
 
@@ -1483,7 +1481,7 @@ before 2019 (excluding an expense that is deemed by subsection 66(12.66) to have
 
     neither the creditor partnership nor any foreign affiliate of a qualifying entity had any other income, gain or loss for any taxation year, and
 
-    **in the case of a capital gain,**
+    in the case of a capital gain,
 
     if the creditor is a creditor affiliate, by an amount, not exceeding that capital gain so determined, that is equal to the amount determined by the formula
 
@@ -1515,7 +1513,7 @@ before 2019 (excluding an expense that is deemed by subsection 66(12.66) to have
 
   **(1)** The portion of subsection 96(3) of the Act before paragraph (a) is replaced by the following:
 
-    **(3)** If a taxpayer who was a member of a partnership at any time in a fiscal period has, for any purpose relevant to the computation of the taxpayer's income from the partnership for the fiscal period, made or executed an agreement, designation or election under or in respect of the application of any of subsections **10.1(1)**, 13(4), (4.2) and (16), section 15.2, subsections 20(9) and 21(1) to (4), section 22, subsection 29(1), section 34, clause 37(8)(a)(ii)(B), subsections 44(1) and (6), 50(1) and 80(5) and (9) to (11), section 80.04, subsections 86.1(2), 88(3.1), (3.3) and (3.5) and 90(3), the definition relevant cost base in subsection 95(4) and subsections 97(2), 139.1(16) and (17) and 249.1(4) and (6) that, if this Act were read without reference to this subsection, would be a valid agreement, designation or election,
+    **(3)** If a taxpayer who was a member of a partnership at any time in a fiscal period has, for any purpose relevant to the computation of the taxpayer's income from the partnership for the fiscal period, made or executed an agreement, designation or election under or in respect of the application of any of subsections 10.1(1), 13(4), (4.2) and (16), section 15.2, subsections 20(9) and 21(1) to (4), section 22, subsection 29(1), section 34, clause 37(8)(a)(ii)(B), subsections 44(1) and (6), 50(1) and 80(5) and (9) to (11), section 80.04, subsections 86.1(2), 88(3.1), (3.3) and (3.5) and 90(3), the definition relevant cost base in subsection 95(4) and subsections 97(2), 139.1(16) and (17) and 249.1(4) and (6) that, if this Act were read without reference to this subsection, would be a valid agreement, designation or election,
 
   **(2)** Subsection (1) applies to taxation years that begin after March 21, 2017.
 
@@ -1523,7 +1521,7 @@ before 2019 (excluding an expense that is deemed by subsection 66(12.66) to have
 
   **(1)** The portion of subsection 97(2) of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** Notwithstanding any other provision of this Act other than subsections (3) and 13(21.2), where a taxpayer at any time disposes of any property **(other than an eligible derivative, as defined in subsection 10.1(5), of the taxpayer if subsection 10.1(6) applies to the taxpayer)** that is a capital property, Canadian resource property, foreign resource property or inventory of the taxpayer to a partnership that immediately after that time is a Canadian partnership of which the taxpayer is a member, if the taxpayer and all the other members of the partnership jointly so elect in prescribed form within the time referred to in subsection 96(4),
+    **(2)** Notwithstanding any other provision of this Act other than subsections (3) and 13(21.2), where a taxpayer at any time disposes of any property (other than an eligible derivative, as defined in subsection 10.1(5), of the taxpayer if subsection 10.1(6) applies to the taxpayer) that is a capital property, Canadian resource property, foreign resource property or inventory of the taxpayer to a partnership that immediately after that time is a Canadian partnership of which the taxpayer is a member, if the taxpayer and all the other members of the partnership jointly so elect in prescribed form within the time referred to in subsection 96(4),
 
   **(2)** Subsection (1) applies to taxation years that begin after March 21, 2017.
 
@@ -1539,7 +1537,7 @@ before 2019 (excluding an expense that is deemed by subsection 66(12.66) to have
 
   **(1)** Paragraph 100(1)(a) of the Act is replaced by the following:
 
-    1/2 of such portion of the taxpayer's capital gain for the year from the disposition as may reasonably be regarded as attributable to increases in the value of any partnership property of the partnership that is capital property **(**other than depreciable property**)** held directly by the partnership or held indirectly by the partnership through one or more other partnerships, and
+    1/2 of such portion of the taxpayer's capital gain for the year from the disposition as may reasonably be regarded as attributable to increases in the value of any partnership property of the partnership that is capital property (other than depreciable property) held directly by the partnership or held indirectly by the partnership through one or more other partnerships, and
 
   **(2)** Subsection (1) applies in respect of dispositions made after August 13, 2012.
 
@@ -1559,7 +1557,7 @@ before 2019 (excluding an expense that is deemed by subsection 66(12.66) to have
 
   **(1)** The portion of subsection 107(4.1) of the Act before paragraph (a) is replaced by the following:
 
-    **(4.1)** Subsection (2.1) applies (and subsection (2) does not apply) in respect of a distribution of any property of a particular personal trust or prescribed trust **(other than an excluded property of the particular trust)** by the particular trust to a taxpayer who was a beneficiary under the particular trust where
+    **(4.1)** Subsection (2.1) applies (and subsection (2) does not apply) in respect of a distribution of any property of a particular personal trust or prescribed trust (other than an excluded property of the particular trust) by the particular trust to a taxpayer who was a beneficiary under the particular trust where
 
   **(2)** Subsection (1) applies to taxation years that begin after 2016.
 
@@ -1583,7 +1581,7 @@ before 2019 (excluding an expense that is deemed by subsection 66(12.66) to have
 
   **(3)** Subsection 108(4) of the Act is replaced by the following:
 
-    **(4)** For the purposes of the definition pre-1972 spousal trust in subsection (1), subparagraphs 70(6)(b)(ii) and (6.1)(b)(ii) and paragraphs 73(1.01)(c) and 104(4)(a), **if** a trust was created by a taxpayer whether by the taxpayer's will or otherwise, no person is deemed to have received or otherwise obtained or to be entitled to receive or otherwise obtain the use of any income or capital of the trust solely because of
+    **(4)** For the purposes of the definition pre-1972 spousal trust in subsection (1), subparagraphs 70(6)(b)(ii) and (6.1)(b)(ii) and paragraphs 73(1.01)(c) and 104(4)(a), if a trust was created by a taxpayer whether by the taxpayer's will or otherwise, no person is deemed to have received or otherwise obtained or to be entitled to receive or otherwise obtain the use of any income or capital of the trust solely because of
 
       the payment, or provision for payment, as the case may be, by the trust of
 
@@ -1613,19 +1611,19 @@ before 2019 (excluding an expense that is deemed by subsection 66(12.66) to have
 
   **(1)** The portion of paragraph 110(1)(d) of the Act before subparagraph (ii) is replaced by the following:
 
-    an amount equal to 1/2 of the amount of the benefit deemed by subsection 7(1) to have been received by the taxpayer in the year in respect of a security that a particular qualifying person has agreed after February 15, 1984 to sell or issue under an agreement**,** in respect of the transfer or other disposition of rights under the agreement **or as a result of the death of the taxpayer because the taxpayer immediately before death owned a right to acquire the security under the agreement**, if
+    an amount equal to 1/2 of the amount of the benefit deemed by subsection 7(1) to have been received by the taxpayer in the year in respect of a security that a particular qualifying person has agreed after February 15, 1984 to sell or issue under an agreement, in respect of the transfer or other disposition of rights under the agreement or as a result of the death of the taxpayer because the taxpayer immediately before death owned a right to acquire the security under the agreement, if
 
     the security was acquired under the agreement
 
     by the taxpayer or a person not dealing at arm's length with the taxpayer in circumstances described in paragraph 7(1)(c), or
 
-    **in the case of a benefit deemed by paragraph 7(1)(e) to have been received by the taxpayer, within the first taxation year of the graduated rate estate of the taxpayer, by**
+    in the case of a benefit deemed by paragraph 7(1)(e) to have been received by the taxpayer, within the first taxation year of the graduated rate estate of the taxpayer, by
 
-    **the graduated rate estate of the taxpayer,**
+    the graduated rate estate of the taxpayer,
 
-    **a person who is a beneficiary (as defined in subsection 108(1)) under the graduated rate estate of the taxpayer, or**
+    a person who is a beneficiary (as defined in subsection 108(1)) under the graduated rate estate of the taxpayer, or
 
-    **a person in whom the rights of the taxpayer under the agreement have vested as a result of the death,**
+    a person in whom the rights of the taxpayer under the agreement have vested as a result of the death,
 
     the security
 
@@ -1643,17 +1641,17 @@ before 2019 (excluding an expense that is deemed by subsection 66(12.66) to have
 
     those units issued by the trust that were not identical to the security had not been issued, or
 
-    **in the case of a benefit deemed by paragraph 7(1)(e) to have been received by the taxpayer, would have been a unit of a mutual fund trust if**
+    in the case of a benefit deemed by paragraph 7(1)(e) to have been received by the taxpayer, would have been a unit of a mutual fund trust if
 
-    **it were issued or sold to the taxpayer immediately before the death of the taxpayer, and**
+    it were issued or sold to the taxpayer immediately before the death of the taxpayer, and
 
-    **those units issued by the trust that were not identical to the security had not been issued,**
+    those units issued by the trust that were not identical to the security had not been issued,
 
   **(2)** Paragraphs 110(1.1)(c) and (d) of the Act are replaced by the following:
 
-    the particular qualifying person provides the taxpayer **or, if the taxpayer is deceased, the graduated rate estate of the taxpayer,** with evidence in writing of the election; and
+    the particular qualifying person provides the taxpayer or, if the taxpayer is deceased, the graduated rate estate of the taxpayer, with evidence in writing of the election; and
 
-    the taxpayer **or, if the taxpayer is deceased, the graduated rate estate of the taxpayer,** files the evidence with the Minister with the taxpayer's return of income for the year in which a deduction under paragraph (1)(d) is claimed.
+    the taxpayer or, if the taxpayer is deceased, the graduated rate estate of the taxpayer, files the evidence with the Minister with the taxpayer's return of income for the year in which a deduction under paragraph (1)(d) is claimed.
 
   **(3)** Subsections (1) and (2) apply in respect of acquisitions of securities and transfers or dispositions of rights occurring after 4:00 pm Eastern Standard Time on March 4, 2010, except that for taxation years ending before 2016, the references to "graduated rate estate" in paragraphs 110(1)(d) and (1.1)(c) and (d) of the Act, as enacted by subsections (1) and (2), are to be read as "estate".
 
@@ -1661,19 +1659,19 @@ before 2019 (excluding an expense that is deemed by subsection 66(12.66) to have
 
   **(1)** The portion of paragraph 110.1(1)(d) of the Act before subparagraph (i) is replaced by the following:
 
-    the total of all amounts each of which is the eligible amount of a gift of land (including a covenant or an easement to which land is subject or, in the case of land in the Province of Quebec, **a personal servitude (the rights to which the land is subject and which has a term of not less than 100 years) or** a real servitude) if
+    the total of all amounts each of which is the eligible amount of a gift of land (including a covenant or an easement to which land is subject or, in the case of land in the Province of Quebec, a personal servitude (the rights to which the land is subject and which has a term of not less than 100 years) or a real servitude) if
 
   **(2)** Clauses 110.1(1)(d)(iii)(B) to (D) of the Act are replaced by the following:
 
-    a municipality in Canada **that is approved by that Minister or the designated person in respect of the gift**,
+    a municipality in Canada that is approved by that Minister or the designated person in respect of the gift,
 
-    a municipal or public body performing a function of government in Canada **that is approved by that Minister or the designated person in respect of the gift**, or
+    a municipal or public body performing a function of government in Canada that is approved by that Minister or the designated person in respect of the gift, or
 
-    a registered charity (**other than a private foundation**) one of the main purposes of which is, in the opinion of that Minister, the conservation and protection of Canada's environmental heritage, and that is approved by that Minister or the designated person in respect of the gift.
+    a registered charity (other than a private foundation) one of the main purposes of which is, in the opinion of that Minister, the conservation and protection of Canada's environmental heritage, and that is approved by that Minister or the designated person in respect of the gift.
 
   **(3)** The portion of paragraph 110.1(5)(b) of the Act before subparagraph (i) is replaced by the following:
 
-    where the gift is a covenant or an easement to which land is subject or, in the case of land in the Province of Quebec, a real **or personal** servitude, the greater of
+    where the gift is a covenant or an easement to which land is subject or, in the case of land in the Province of Quebec, a real or personal servitude, the greater of
 
   **(4)** Subsections (1) to (3) apply in respect of gifts made after March 21, 2017.
 
@@ -1711,9 +1709,9 @@ before 2019 (excluding an expense that is deemed by subsection 66(12.66) to have
 
     $2,000, and
 
-    **the total of**
+    the total of
 
-    the eligible pension income of the individual for the taxation year, **and**
+    the eligible pension income of the individual for the taxation year, and
 
     the total of all amounts received by the individual in the year on account of a retirement income security benefit payable to the individual under Part 2 of the `Canadian Forces Members and Veterans Re-establishment and Compensation Act`.
 
@@ -1723,15 +1721,15 @@ before 2019 (excluding an expense that is deemed by subsection 66(12.66) to have
 
   **(1)** The portion of paragraph (a) of the definition **total ecological gifts** in subsection 118.1(1) of the Act before subparagraph (i) is replaced by the following:
 
-    of land (including a covenant or an easement to which land is subject or, in the case of land in the Province of Quebec, **a personal servitude (the rights to which the land is subject and which has a term of not less than 100 years)** or a real servitude)
+    of land (including a covenant or an easement to which land is subject or, in the case of land in the Province of Quebec, a personal servitude (the rights to which the land is subject and which has a term of not less than 100 years) or a real servitude)
 
   **(2)** Subparagraphs (b)(i) and (ii) of the definition **total ecological gifts** in subsection 118.1(1) of the Act are replaced by the following:
 
     Her Majesty in right of Canada or of a province,
 
-    a municipality in Canada, or a municipal or public body performing a function of government in Canada, **that is approved by that Minister or the designated person in respect of the gift**, or
+    a municipality in Canada, or a municipal or public body performing a function of government in Canada, that is approved by that Minister or the designated person in respect of the gift, or
 
-    a registered charity (**other than a private foundation**) one of the main purposes of which is, in the opinion of that Minister, the conservation and protection of Canada's environmental heritage, and that is approved by that Minister or the designated person in respect of the gift, and
+    a registered charity (other than a private foundation) one of the main purposes of which is, in the opinion of that Minister, the conservation and protection of Canada's environmental heritage, and that is approved by that Minister or the designated person in respect of the gift, and
 
   **(3)** Paragraph 118.1(20)(b) of the Act is replaced by the following:
 
@@ -1745,21 +1743,21 @@ before 2019 (excluding an expense that is deemed by subsection 66(12.66) to have
 
   **(1)** Clauses 118.2(2)(l.9)(ii)(A) and (B) of the Act are replaced by the following:
 
-    a medical doctor, **a nurse practitioner** or a psychologist, in the case of mental impairment, and
+    a medical doctor, a nurse practitioner or a psychologist, in the case of mental impairment, and
 
-    a medical doctor, **a nurse practitioner** or an occupational therapist, in the case of a physical impairment,
+    a medical doctor, a nurse practitioner or an occupational therapist, in the case of a physical impairment,
 
   **(2)** Clauses 118.2(2)(l.92)(ii)(A) and (B) of the Act are replaced by the following:
 
-    a medical doctor, **a nurse practitioner** or a psychologist, in the case of mental impairment, or
+    a medical doctor, a nurse practitioner or a psychologist, in the case of mental impairment, or
 
-    a medical doctor, **a nurse practitioner** or an occupational therapist, in the case of a physical impairment,
+    a medical doctor, a nurse practitioner or an occupational therapist, in the case of a physical impairment,
 
   **(3)** Clauses 118.2(2)(l.92)(iii)(A) and (B) of the Act are replaced by the following:
 
-    a medical doctor, **a nurse practitioner** or a psychologist, in the case of mental impairment, or
+    a medical doctor, a nurse practitioner or a psychologist, in the case of mental impairment, or
 
-    a medical doctor, **a nurse practitioner** or an occupational therapist, in the case of a physical impairment, and
+    a medical doctor, a nurse practitioner or an occupational therapist, in the case of a physical impairment, and
 
   **(4)** Subsection 118.2(2) of the Act is amended by striking out "or" at the end of paragraph (t), by adding "or" at the end of paragraph (u) and by adding the following after paragraph (u):
 
@@ -1787,19 +1785,19 @@ before 2019 (excluding an expense that is deemed by subsection 66(12.66) to have
 
   **(1)** Paragraph 118.6(3)(b) of the Act is replaced by the following:
 
-    the individual has in the year a mental or physical impairment the effects of which on the individual have been certified in writing, to be such that the individual cannot reasonably be expected to be enrolled as a full-time student while so impaired, by a medical doctor, **a nurse practitioner** or, where the impairment is
+    the individual has in the year a mental or physical impairment the effects of which on the individual have been certified in writing, to be such that the individual cannot reasonably be expected to be enrolled as a full-time student while so impaired, by a medical doctor, a nurse practitioner or, where the impairment is
 
-    an impairment of sight, by a medical doctor, **a nurse practitioner** or an optometrist,
+    an impairment of sight, by a medical doctor, a nurse practitioner or an optometrist,
 
-    a speech impairment, by a medical doctor, **a nurse practitioner** or a speech-language pathologist,
+    a speech impairment, by a medical doctor, a nurse practitioner or a speech-language pathologist,
 
-    a hearing impairment, by a medical doctor, **a nurse practitioner** or an audiologist,
+    a hearing impairment, by a medical doctor, a nurse practitioner or an audiologist,
 
-    an impairment with respect to the individual's ability in feeding or dressing themself, by a medical doctor, **a nurse practitioner** or an occupational therapist,
+    an impairment with respect to the individual's ability in feeding or dressing themself, by a medical doctor, a nurse practitioner or an occupational therapist,
 
-    an impairment with respect to the individual's ability in walking, by a medical doctor, **a nurse practitioner**, an occupational therapist or a physiotherapist, or
+    an impairment with respect to the individual's ability in walking, by a medical doctor, a nurse practitioner, an occupational therapist or a physiotherapist, or
 
-    an impairment with respect to the individual's ability in mental functions necessary for everyday life (within the meaning assigned by paragraph 118.4(1)(c.1)), by a medical doctor, **a nurse practitioner** or a psychologist.
+    an impairment with respect to the individual's ability in mental functions necessary for everyday life (within the meaning assigned by paragraph 118.4(1)(c.1)), by a medical doctor, a nurse practitioner or a psychologist.
 
   **(2)** Subsection (1) applies in respect of certifications made after September 7, 2017.
 
@@ -1823,7 +1821,7 @@ before 2019 (excluding an expense that is deemed by subsection 66(12.66) to have
 
   **(1)** The portion of subparagraph (a)(i) of the definition **specified corporate income** in subsection 125(7) of the Act before clause (A) is replaced by the following:
 
-    the total of all amounts each of which is income **(other than specified cooperative income)** from an active business of the corporation for the year from the provision of services or property to a private corporation (directly or indirectly, in any manner whatever) if
+    the total of all amounts each of which is income (other than specified cooperative income) from an active business of the corporation for the year from the provision of services or property to a private corporation (directly or indirectly, in any manner whatever) if
 
   **(2)** Subsection 125(7) of the Act is amended by adding the following in alphabetical order:
 
@@ -1855,7 +1853,7 @@ before 2019 (excluding an expense that is deemed by subsection 66(12.66) to have
 
   **(1)** Paragraph 126(4.4)(a) of the Act is replaced by the following:
 
-    a disposition or acquisition of property deemed to be made by subsection 10(12) or (13) or 45(1), section 70, 128.1 or 132.2, subsections 138(11.3), **138.2(4)** or 142.5(2), paragraph 142.6(1)(b) or subsections 142.6(1.1) or (1.2) or 149(10) is not a disposition or acquisition, as the case may be; and
+    a disposition or acquisition of property deemed to be made by subsection 10(12) or (13) or 45(1), section 70, 128.1 or 132.2, subsections 138(11.3), 138.2(4) or 142.5(2), paragraph 142.6(1)(b) or subsections 142.6(1.1) or (1.2) or 149(10) is not a disposition or acquisition, as the case may be; and
 
   **(2)** Subsection (1) applies to taxation years that begin after 2017.
 
@@ -1865,9 +1863,9 @@ before 2019 (excluding an expense that is deemed by subsection 66(12.66) to have
 
   **(2)** Subparagraph (f.1)(i) of the definition **specified percentage** in subsection 127(9) of the Act is replaced by the following:
 
-    a qualified expenditure **of a** taxpayer under any of subsections (18) to (20), **for the qualified expenditure** incurred
+    a qualified expenditure of a taxpayer under any of subsections (18) to (20), for the qualified expenditure incurred
 
-    **before 2015,** 20%, **and**
+    before 2015, 20%, and
 
     after 2014, 15%,
 
@@ -1889,15 +1887,15 @@ before 2019 (excluding an expense that is deemed by subsection 66(12.66) to have
 
     **qualifying exchange** means a transfer at any time (in this section referred to as the "transfer time") if
 
-    **the transfer is a transfer** of all or substantially all of the property **(including an exchange of a unit of a mutual fund trust for another unit of that trust)** of
+    the transfer is a transfer of all or substantially all of the property (including an exchange of a unit of a mutual fund trust for another unit of that trust) of
 
-    a mutual fund corporation (other than a SIFT wind-up corporation) **to one or more mutual fund trusts,** or
+    a mutual fund corporation (other than a SIFT wind-up corporation) to one or more mutual fund trusts, or
 
     a mutual fund trust to a mutual fund trust;
 
-    all or substantially all of the shares issued by the **mutual fund corporation referred to in subparagraph (a)(i) or the first mutual fund trust referred to in subparagraph (a)(ii) (in this section referred to as the**"transferor"**)** and outstanding immediately before the transfer time are within 60 days after the transfer time disposed of to the transferor;
+    all or substantially all of the shares issued by the mutual fund corporation referred to in subparagraph (a)(i) or the first mutual fund trust referred to in subparagraph (a)(ii) (in this section referred to as the"transferor") and outstanding immediately before the transfer time are within 60 days after the transfer time disposed of to the transferor;
 
-    no person disposing of shares of the transferor to the transferor within that 60-day period (otherwise than pursuant to the exercise of a statutory right of dissent) receives any consideration for the shares other than units of **one or more mutual fund trusts referred to in subparagraph (a)(i) or the second mutual fund trust referred to in subparagraph (a)(ii) (in this section referred to as a "transferee" and, together with the transferor, as the "funds")**;
+    no person disposing of shares of the transferor to the transferor within that 60-day period (otherwise than pursuant to the exercise of a statutory right of dissent) receives any consideration for the shares other than units of one or more mutual fund trusts referred to in subparagraph (a)(i) or the second mutual fund trust referred to in subparagraph (a)(ii) (in this section referred to as a "transferee" and, together with the transferor, as the "funds");
 
     if property of the transferor has been transferred to more than one transferee,
 
@@ -1909,7 +1907,7 @@ before 2019 (excluding an expense that is deemed by subsection 66(12.66) to have
 
   **(2)** The portion of paragraph 132.2(3)(a) of the Act before subparagraph (i) is replaced by the following:
 
-    each property of a fund, other than property disposed of by the transferor to **a** transferee at the transfer time and depreciable property, is deemed to have been disposed of, and to have been reacquired by the fund, at the first intervening time, for an amount equal to the lesser of
+    each property of a fund, other than property disposed of by the transferor to a transferee at the transfer time and depreciable property, is deemed to have been disposed of, and to have been reacquired by the fund, at the first intervening time, for an amount equal to the lesser of
 
   **(3)** Subsection 132.2(3) of the Act is amended by adding the following after paragraph (a):
 
@@ -1917,37 +1915,37 @@ before 2019 (excluding an expense that is deemed by subsection 66(12.66) to have
 
   **(4)** The portion of paragraph 132.2(3)(e) of the Act before subparagraph (i) is replaced by the following:
 
-    except as provided in paragraph (m), the transferor's cost of any particular property received by the transferor from **a** transferee as consideration for the disposition of the property is deemed to be
+    except as provided in paragraph (m), the transferor's cost of any particular property received by the transferor from a transferee as consideration for the disposition of the property is deemed to be
 
   **(5)** Paragraph 132.2(3)(f) of the Act is replaced by the following:
 
-    the transferor's proceeds of disposition of any units of **a** transferee that were disposed of by the transferor at any particular time that is within 60 days after the transfer time in exchange for shares of the transferor, are deemed to be equal to the cost amount of the units to the transferor immediately before the particular time;
+    the transferor's proceeds of disposition of any units of a transferee that were disposed of by the transferor at any particular time that is within 60 days after the transfer time in exchange for shares of the transferor, are deemed to be equal to the cost amount of the units to the transferor immediately before the particular time;
 
   **(6)** The portion of paragraph 132.2(3)(g) of the Act before subparagraph (i) is replaced by the following:
 
-    if, at any particular time that is within 60 days after the transfer time, a taxpayer disposes of shares of the transferor to the transferor in exchange for units of **a** transferee
+    if, at any particular time that is within 60 days after the transfer time, a taxpayer disposes of shares of the transferor to the transferor in exchange for units of a transferee
 
   **(7)** The portion of subparagraph 132.2(3)(g)(vi) of the Act before clause (A) is replaced by the following:
 
-    **if** the taxpayer is at the particular time affiliated with the **transferor or the transferee**,
+    if the taxpayer is at the particular time affiliated with the transferor or the transferee,
 
   **(8)** Paragraph 132.2(3)(h) of the Act is replaced by the following:
 
-    where a share to which paragraph (g) applies would, if this Act were read without reference to this paragraph, cease to be a qualified investment (within the meaning assigned by subsection 146(1), 146.1(1), 146.3(1) or **146.4(1)**, section 204 or subsection 207.01(1)) as a consequence of the qualifying exchange, the share is deemed to be a qualified investment until the earlier of the day that is 60 days after the day that includes the transfer time and the time at which it is disposed of in accordance with paragraph (g);
+    where a share to which paragraph (g) applies would, if this Act were read without reference to this paragraph, cease to be a qualified investment (within the meaning assigned by subsection 146(1), 146.1(1), 146.3(1) or 146.4(1), section 204 or subsection 207.01(1)) as a consequence of the qualifying exchange, the share is deemed to be a qualified investment until the earlier of the day that is 60 days after the day that includes the transfer time and the time at which it is disposed of in accordance with paragraph (g);
 
   **(9)** Paragraphs 132.2(3)(i) and (j) of the Act are replaced by the following:
 
-    there shall be added to the amount determined under the description of A in the definition refundable capital gains tax on hand in subsection 132(4) in respect of **a** transferee for its taxation years that begin after the transfer time the amount **determined by the formula**
+    there shall be added to the amount determined under the description of A in the definition refundable capital gains tax on hand in subsection 132(4) in respect of a transferee for its taxation years that begin after the transfer time the amount determined by the formula
 
-    **is** the transferor's refundable capital gains tax on hand (within the meaning assigned by subsection 131(6) or 132(4), as the case may be) at the end of its taxation year that includes the transfer time,
+    is the transferor's refundable capital gains tax on hand (within the meaning assigned by subsection 131(6) or 132(4), as the case may be) at the end of its taxation year that includes the transfer time,
 
-    **is** the transferor's capital gains refund (within the meaning assigned by paragraph 131(2)(a) or 132(1)(a), as the case may be) for that year,
+    is the transferor's capital gains refund (within the meaning assigned by paragraph 131(2)(a) or 132(1)(a), as the case may be) for that year,
 
     is the total fair market value of property of the transferor disposed of to, net of liabilities assumed by, the transferee on the qualifying exchange, and
 
     is the total fair market value of property of the transferor disposed of to, net of liabilities assumed by, all transferees on the qualifying exchange;
 
-    no amount in respect of a non-capital loss, net capital loss, restricted farm loss, farm loss or limited partnership loss of a fund for a taxation year that began before the transfer time is deductible in computing the taxable income of **any** of the funds for a taxation year that begins after the transfer time;
+    no amount in respect of a non-capital loss, net capital loss, restricted farm loss, farm loss or limited partnership loss of a fund for a taxation year that began before the transfer time is deductible in computing the taxable income of any of the funds for a taxation year that begins after the transfer time;
 
   **(10)** Paragraph 132.2(3)(l) of the Act is amended by striking out "and" at the end of subparagraph (i), by adding "and" at the end of subparagraph (ii) and by adding the following after subparagraph (ii):
 
@@ -1955,7 +1953,7 @@ before 2019 (excluding an expense that is deemed by subsection 66(12.66) to have
 
   **(11)** Subparagraph 132.2(3)(m)(ii) of the Act is replaced by the following:
 
-    **a** transferee is deemed not to have acquired any property that was transferred to it on the qualifying exchange; and
+    a transferee is deemed not to have acquired any property that was transferred to it on the qualifying exchange; and
 
   **(12)** Paragraph 132.2(3)(m) of the Act is amended by striking out "and" at the end of subparagraph (i) and by adding the following after subparagraph (ii):
 
@@ -1963,11 +1961,11 @@ before 2019 (excluding an expense that is deemed by subsection 66(12.66) to have
 
   **(13)** Paragraph 132.2(3)(n) of the Act is replaced by the following:
 
-    except as provided in subparagraph (l)(i), the transferor is, notwithstanding subsections 131(8) **and (8.01)** and 132(6), deemed to be neither a mutual fund corporation nor a mutual fund trust for taxation years that begin after the transfer time.
+    except as provided in subparagraph (l)(i), the transferor is, notwithstanding subsections 131(8) and (8.01) and 132(6), deemed to be neither a mutual fund corporation nor a mutual fund trust for taxation years that begin after the transfer time.
 
   **(14)** Clause 132.2(4)(b)(ii)(B) of the Act is replaced by the following:
 
-    the amount that the **transferor and the transferee** agree on in respect of the property in their election, and
+    the amount that the transferor and the transferee agree on in respect of the property in their election, and
 
   **(15)** Subsection 132.2(4) of the Act is amended by striking out "and" at the end of paragraph (a), by adding "and" at the end of paragraph (b) and by adding the following after paragraph (b):
 
@@ -1975,11 +1973,11 @@ before 2019 (excluding an expense that is deemed by subsection 66(12.66) to have
 
   **(16)** Clause 132.2(5)(c)(ii)(B) of the Act is replaced by the following:
 
-    the amount that the **transferor and the transferee** agree on in respect of the property in their election, and
+    the amount that the transferor and the transferee agree on in respect of the property in their election, and
 
   **(17)** Subsection 132.2(7) of the Act is replaced by the following:
 
-    **(7)** The Minister may, on joint application by the funds on or before the due date of an election referred to in paragraph (**e**) of the definition qualifying exchange in subsection (1), grant permission to amend or revoke the election.
+    **(7)** The Minister may, on joint application by the funds on or before the due date of an election referred to in paragraph (e) of the definition qualifying exchange in subsection (1), grant permission to amend or revoke the election.
 
   **(18)** Subsections (1) to (7), (9) to (11) and (13) to (17) apply in respect of transfers that occur after March 21, 2017.
 
@@ -2067,7 +2065,7 @@ before 2019 (excluding an expense that is deemed by subsection 66(12.66) to have
 
   **(2)** Paragraph 138(11.91)(d) of the Act is replaced by the following:
 
-    for the purposes of paragraph (4)(a), subsection (9), the definition designated insurance property in subsection (12) and paragraphs 12(1)(d), **(d.1)** and (e), the insurer is deemed to have carried on the business in Canada in that preceding year and to have claimed the maximum amounts to which it would have been entitled under paragraphs (3)(a) (other than under subparagraph (3)(a)(ii.1), (iii) or (v)), 20(1)(l) and (l.1) and 20(7)(c) for that year,
+    for the purposes of paragraph (4)(a), subsection (9), the definition designated insurance property in subsection (12) and paragraphs 12(1)(d), (d.1) and (e), the insurer is deemed to have carried on the business in Canada in that preceding year and to have claimed the maximum amounts to which it would have been entitled under paragraphs (3)(a) (other than under subparagraph (3)(a)(ii.1), (iii) or (v)), 20(1)(l) and (l.1) and 20(7)(c) for that year,
 
   **(3)** Subsection 138(12) of the Act is amended by adding the following in alphabetical order:
 
@@ -2083,15 +2081,15 @@ before 2019 (excluding an expense that is deemed by subsection 66(12.66) to have
 
   **(1)** The portion of paragraph 138.1(1)(a) of the Act before subparagraph (i) is replaced by the following:
 
-    a trust (in this section **and section 138.2** referred to as the "related segregated fund trust") is deemed to be created at the time that is the later of
+    a trust (in this section and section 138.2 referred to as the "related segregated fund trust") is deemed to be created at the time that is the later of
 
   **(2)** Paragraph 138.1(1)(f) of the Act is replaced by the following:
 
-    the **taxable** income of the related segregated fund trust is deemed for the purposes of subsections 104(6), (13) and (24) to be an amount that has become payable in the year to the beneficiaries under the segregated fund trust and the amount therefor in respect of any particular beneficiary is equal to the amount determined by reference to the terms and conditions of the segregated fund policy;
+    the taxable income of the related segregated fund trust is deemed for the purposes of subsections 104(6), (13) and (24) to be an amount that has become payable in the year to the beneficiaries under the segregated fund trust and the amount therefor in respect of any particular beneficiary is equal to the amount determined by reference to the terms and conditions of the segregated fund policy;
 
   **(3)** Section 138.1 of the Act is amended by adding the following after subsection (2):
 
-    ****(2.1)**** **For the purpose of determining the taxable income of a related segregated fund trust for a taxation year that begins after 2017, the non-capital losses of the related segregated fund trust that arise in a taxation year that begins before 2018 are deemed to be nil.**
+    **(2.1)** For the purpose of determining the taxable income of a related segregated fund trust for a taxation year that begins after 2017, the non-capital losses of the related segregated fund trust that arise in a taxation year that begins before 2018 are deemed to be nil.
 
   **(4)** Subsections (1) and (2) apply to taxation years that begin after 2017.
 
@@ -2165,7 +2163,7 @@ before 2019 (excluding an expense that is deemed by subsection 66(12.66) to have
 
   **(2)** Subsection 146(21.2) of the Act is replaced by the following:
 
-    **(21.2)** For the purposes of paragraph (8.2)(b), subsection (8.21), paragraphs (16)(a) and (b) and 18(1)(u), subparagraph (a)(i) of the definition excluded right or interest in subsection 128.1(10), paragraph (b) of the definition excluded premium in subsection 146.01(1), paragraph (c) of the definition excluded premium in subsection 146.02(1), subsections 146.3(14) and 147(19), section 147.3 and **paragraphs** 147.5(21)(c) **and 212(1)(j.1) and (m)** and for the purposes of any regulations made under subsection 147.1(18), an individual's account under a specified pension plan is deemed to be a registered retirement savings plan under which the individual is the annuitant.
+    **(21.2)** For the purposes of paragraph (8.2)(b), subsection (8.21), paragraphs (16)(a) and (b) and 18(1)(u), subparagraph (a)(i) of the definition excluded right or interest in subsection 128.1(10), paragraph (b) of the definition excluded premium in subsection 146.01(1), paragraph (c) of the definition excluded premium in subsection 146.02(1), subsections 146.3(14) and 147(19), section 147.3 and paragraphs 147.5(21)(c) and 212(1)(j.1) and (m) and for the purposes of any regulations made under subsection 147.1(18), an individual's account under a specified pension plan is deemed to be a registered retirement savings plan under which the individual is the annuitant.
 
   **(3)** Subsection (1) is deemed to have come into force on October 24, 2001.
 
@@ -2175,7 +2173,7 @@ before 2019 (excluding an expense that is deemed by subsection 66(12.66) to have
 
   **(1)** Paragraph (b) of the definition **education savings plan** in subsection 146.1(1) of the Act is replaced by the following:
 
-    a person (in this **definition** referred to as **the** "promoter")
+    a person (in this definition referred to as the "promoter")
 
   **(2)** Subsection 146.1(1) of the Act is amended by adding the following in alphabetical order:
 
@@ -2195,11 +2193,11 @@ before 2019 (excluding an expense that is deemed by subsection 66(12.66) to have
 
   **(5)** Subsection 146.1(7) of the Act is replaced by the following:
 
-    **(7)** There shall be included in computing an individual's income for a taxation year the total of all educational assistance payments paid out of registered education savings plans to or for the individual in the year **that exceeds the total of all excluded amounts in respect of those plans and the individual for the year**.
+    **(7)** There shall be included in computing an individual's income for a taxation year the total of all educational assistance payments paid out of registered education savings plans to or for the individual in the year that exceeds the total of all excluded amounts in respect of those plans and the individual for the year.
 
   **(6)** Paragraph 146.1(7.1)(a) of the Act is replaced by the following:
 
-    each accumulated income payment (other than an accumulated income payment made under subsection (1.2)) received in the year by the taxpayer under a registered education savings plan **that exceeds the total of all excluded amounts in respect of those plans and the individual for the year**; and
+    each accumulated income payment (other than an accumulated income payment made under subsection (1.2)) received in the year by the taxpayer under a registered education savings plan that exceeds the total of all excluded amounts in respect of those plans and the individual for the year; and
 
   **(7)** Subsection 146.1(7.2) of the Act is replaced by the following:
 
@@ -2235,7 +2233,7 @@ before 2019 (excluding an expense that is deemed by subsection 66(12.66) to have
 
   **(2)** The portion of subparagraph (a)(i) of the definition **disability savings plan** in subsection 146.4(1) of the Act before clause (A) is replaced by the following:
 
-    a corporation (in this **definition** referred to as the "issuer")
+    a corporation (in this definition referred to as the "issuer")
 
   **(3)** The description of A in the definition **specified maximum amount** in subsection 146.4(1) of the Act is replaced by the following:
 
@@ -2247,7 +2245,7 @@ before 2019 (excluding an expense that is deemed by subsection 66(12.66) to have
 
   **(5)** The portion of the definition **specified year** in subsection 146.4(1) of the Act before paragraph (a) is replaced by the following:
 
-    **specified year**, for a disability savings plan of a beneficiary means the particular calendar year in which a medical doctor **or a nurse practitioner** licensed to practise under the laws of a province (or of the place where the beneficiary resides) certifies in writing that the beneficiary's state of health is such that, in the professional opinion of the medical doctor **or the nurse practitioner**, the beneficiary is not likely to survive more than five years and
+    **specified year**, for a disability savings plan of a beneficiary means the particular calendar year in which a medical doctor or a nurse practitioner licensed to practise under the laws of a province (or of the place where the beneficiary resides) certifies in writing that the beneficiary's state of health is such that, in the professional opinion of the medical doctor or the nurse practitioner, the beneficiary is not likely to survive more than five years and
 
   **(6)** Subsection 146.4(1) of the Act is amended by adding the following in alphabetical order:
 
@@ -2291,11 +2289,11 @@ before 2019 (excluding an expense that is deemed by subsection 66(12.66) to have
 
   **(7)** Subsection 146.4(1.1) of the Act is replaced by the following:
 
-    **(1.1)** If, in respect of a beneficiary under a registered disability savings plan, a medical doctor **or a nurse practitioner** licensed to practise under the laws of a province (or of the place where the beneficiary resides) certifies in writing that the beneficiary's state of health is such that, in the professional opinion of the medical doctor **or the nurse practitioner**, the beneficiary is not likely to survive more than five years, the holder of the plan elects in prescribed form and provides the election and the medical certification in respect of the beneficiary to the issuer of the plan, and the issuer notifies the specified Minister of the election in a manner and format acceptable to the specified Minister, then the plan becomes a specified disability savings plan at the time the notification is received by the specified Minister.
+    **(1.1)** If, in respect of a beneficiary under a registered disability savings plan, a medical doctor or a nurse practitioner licensed to practise under the laws of a province (or of the place where the beneficiary resides) certifies in writing that the beneficiary's state of health is such that, in the professional opinion of the medical doctor or the nurse practitioner, the beneficiary is not likely to survive more than five years, the holder of the plan elects in prescribed form and provides the election and the medical certification in respect of the beneficiary to the issuer of the plan, and the issuer notifies the specified Minister of the election in a manner and format acceptable to the specified Minister, then the plan becomes a specified disability savings plan at the time the notification is received by the specified Minister.
 
   **(8)** Subparagraph 146.4(4)(f)(i) of the Act is replaced by the following:
 
-    the beneficiary is not a DTC-eligible individual in respect of the taxation year that includes that time, **unless the contribution is a specified RDSP payment in respect of the beneficiary and, at that time, there is a valid election referred to in subsection (4.1) in respect of the beneficiary, or**
+    the beneficiary is not a DTC-eligible individual in respect of the taxation year that includes that time, unless the contribution is a specified RDSP payment in respect of the beneficiary and, at that time, there is a valid election referred to in subsection (4.1) in respect of the beneficiary, or
 
   **(9)** The description of A in paragraph 146.4(4)(l) of the Act is replaced by the following:
 
@@ -2307,7 +2305,7 @@ before 2019 (excluding an expense that is deemed by subsection 66(12.66) to have
 
   **(11)** Paragraph 146.4(4.1)(a) of the Act is replaced by the following:
 
-    a medical doctor **or a nurse practitioner** licensed to practise under the laws of a province certifies in writing that the nature of the beneficiary's condition is such that, in the professional opinion of the medical doctor **or the nurse practitioner**, the beneficiary is likely to become a DTC-eligible individual for a future taxation year;
+    a medical doctor or a nurse practitioner licensed to practise under the laws of a province certifies in writing that the nature of the beneficiary's condition is such that, in the professional opinion of the medical doctor or the nurse practitioner, the beneficiary is likely to become a DTC-eligible individual for a future taxation year;
 
   **(12)** The portion of paragraph 146.4(5)(b) of the Act before subparagraph (i) is replaced by the following:
 
@@ -2325,9 +2323,9 @@ before 2019 (excluding an expense that is deemed by subsection 66(12.66) to have
 
       exceeds
 
-      the total of all amounts each of which is **the amount that would be** the non-taxable portion of a disability assistance payment made before the particular time from any registered disability savings plan of the beneficiary, **if the formula in this subsection were read without reference to the description of D**;
+      the total of all amounts each of which is the amount that would be the non-taxable portion of a disability assistance payment made before the particular time from any registered disability savings plan of the beneficiary, if the formula in this subsection were read without reference to the description of D;
 
-      is the amount by which the fair market value of the property held by the plan trust immediately before the payment exceeds the assistance holdback amount in relation to the plan; **and**
+      is the amount by which the fair market value of the property held by the plan trust immediately before the payment exceeds the assistance holdback amount in relation to the plan; and
 
       is the amount in respect of which a holder of the plan pays a tax under section 207.05 in respect of the plan, or another plan for which the plan was substituted by the holder, that
 
@@ -2347,7 +2345,7 @@ before 2019 (excluding an expense that is deemed by subsection 66(12.66) to have
 
   **(1)** Subparagraph 147.3(13.1)(a)(i) of the Act is replaced by the following:
 
-    the total of all amounts each of which is an amount included under **clause 56(1)(a)(i)(C), paragraph 56(1)(z.3)**, subsections 146(8), (8.3) or (12) or 146.3(5), (5.1) or (11) in computing the individual's income for the year, to the extent that the amount is not a prescribed withdrawal,
+    the total of all amounts each of which is an amount included under clause 56(1)(a)(i)(C), paragraph 56(1)(z.3), subsections 146(8), (8.3) or (12) or 146.3(5), (5.1) or (11) in computing the individual's income for the year, to the extent that the amount is not a prescribed withdrawal,
 
   **(2)** Subsection (1) is deemed to have come into force on January 1, 2010, except that in its application before December 14, 2012, subparagraph 147.3(13.1)(a)(i) of the Act, as enacted by subsection (1), is to be read without reference to "paragraph 56(1)(z.3)".
 
@@ -2355,7 +2353,7 @@ before 2019 (excluding an expense that is deemed by subsection 66(12.66) to have
 
   **(1)** Subsection 147.5(12) of the English version of the Act is replaced by the following:
 
-    **(12)** For the purposes of paragraph 18(1)(u), subparagraph (a)(i) of the definition excluded right or interest in subsection 128.1(10), paragraph 146(8.2)(b), subsection 146(8.21), paragraphs 146(16)(a) and (b), subparagraph 146(21)(a)(i), paragraph (b) of the definition excluded premium in subsection 146.01(1), paragraph (c) of the definition excluded premium in subsection 146.02(1), subsections 146.3(14) and 147(19) to (21), section 147.3 and paragraphs 212(1)(j.1) and (m), and of regulations made under **subsection** 147.1(18), a member's account under a PRPP is deemed to be a registered retirement savings plan under which the member is the annuitant.
+    **(12)** For the purposes of paragraph 18(1)(u), subparagraph (a)(i) of the definition excluded right or interest in subsection 128.1(10), paragraph 146(8.2)(b), subsection 146(8.21), paragraphs 146(16)(a) and (b), subparagraph 146(21)(a)(i), paragraph (b) of the definition excluded premium in subsection 146.01(1), paragraph (c) of the definition excluded premium in subsection 146.02(1), subsections 146.3(14) and 147(19) to (21), section 147.3 and paragraphs 212(1)(j.1) and (m), and of regulations made under subsection 147.1(18), a member's account under a PRPP is deemed to be a registered retirement savings plan under which the member is the annuitant.
 
   **(2)** Section 147.5 of the Act is amended by adding the following after subsection (32):
 
@@ -2367,57 +2365,57 @@ before 2019 (excluding an expense that is deemed by subsection 66(12.66) to have
 
   **(1)** Paragraph 148(2)(e) of the Act is replaced by the following:
 
-    a policyholder with an interest in a life insurance policy, issued after 2016, that gives rise to an entitlement (of the policyholder, beneficiary or assignee, as the case may be) to receive all or a portion of an excess **described in subparagraph (iv)** is deemed, at a **particular** time, to dispose of a part of the interest and to be entitled to receive proceeds of the disposition equal to that excess or portion, as the case may be, if
+    a policyholder with an interest in a life insurance policy, issued after 2016, that gives rise to an entitlement (of the policyholder, beneficiary or assignee, as the case may be) to receive all or a portion of an excess described in subparagraph (iv) is deemed, at a particular time, to dispose of a part of the interest and to be entitled to receive proceeds of the disposition equal to that excess or portion, as the case may be, if
 
-    **the policy** is an exempt policy,
+    the policy is an exempt policy,
 
     a benefit on death (as defined in subsection 1401(3) of the `Income Tax Regulations`) under a coverage (as defined in section 310 of the `Income Tax Regulations` for the purposes of section 306 of the `Income Tax Regulations`) under the policy is paid at the particular time,
 
     the payment results in the termination of the coverage but not the policy, and
 
-    the amount of the fund value benefit (as defined in subsection 1401(3) of the `Income Tax Regulations`) paid **at the particular time** in respect of the coverage exceeds the amount
+    the amount of the fund value benefit (as defined in subsection 1401(3) of the `Income Tax Regulations`) paid at the particular time in respect of the coverage exceeds the amount
 
-    **in the case where there is no** policy anniversary (as defined in section 310 of the `Income Tax Regulations`) **before** the date of death of the individual whose life is insured under the coverage, that would be determined — on the policy anniversary **that is on or that first follows that date of death and as though the coverage were not terminated** — in respect of the coverage under subclause (A)(I) of the description of B in subparagraph 306(4)(a)(iii) of the `Income Tax Regulations`, and
+    in the case where there is no policy anniversary (as defined in section 310 of the `Income Tax Regulations`) before the date of death of the individual whose life is insured under the coverage, that would be determined — on the policy anniversary that is on or that first follows that date of death and as though the coverage were not terminated — in respect of the coverage under subclause (A)(I) of the description of B in subparagraph 306(4)(a)(iii) of the `Income Tax Regulations`, and
 
     in any other case, that is determined — on the last policy anniversary before the date of the death of the individual whose life is insured under the coverage — in respect of the coverage under subclause (A)(I) of the description of B in subparagraph 306(4)(a)(iii) of the `Income Tax Regulations` as it applies for the purpose of subparagraph 306(1)(b)(ii) of the `Income Tax Regulations`.
 
   **(2)** The portion of subsection 148(4.01) of the Act before paragraph (a) is replaced by the following:
 
-    **(4.01)** For the purposes of the definition adjusted cost basis in subsection (9) and paragraph 60(s), a particular amount is deemed to be a repayment made **immediately before** a particular time by a taxpayer in respect of a policy loan in respect of a life insurance policy if
+    **(4.01)** For the purposes of the definition adjusted cost basis in subsection (9) and paragraph 60(s), a particular amount is deemed to be a repayment made immediately before a particular time by a taxpayer in respect of a policy loan in respect of a life insurance policy if
 
   **(3)** Paragraph 148(4.01)(b) of the Act is replaced by the following:
 
-    the taxpayer disposes of a part of the taxpayer's interest in the policy **at** the particular time;
+    the taxpayer disposes of a part of the taxpayer's interest in the policy at the particular time;
 
   **(4)** Subparagraph 148(4.01)(d)(ii) of the Act is replaced by the following:
 
-    described in subparagraph (i) of the description of C in **paragraph (a) of** the definition proceeds of the disposition in subsection (9); and
+    described in subparagraph (i) of the description of C in paragraph (a) of the definition proceeds of the disposition in subsection (9); and
 
   **(5)** Paragraph (b) of the description of E.1 in the definition **adjusted cost basis** in subsection 148(9) of the Act is replaced by the following:
 
-    if the policy is issued after 2016 (and, in the case where the particular time at which the policy is issued is determined under subsection (11), the repayment is at or after the particular time), the portion of the loan applied, immediately after the loan, to pay a premium under the policy as provided for under the terms and conditions of the policy (except to the extent that the portion is described in subparagraph (i) of the description of C in **paragraph (a) of** the definition proceeds of the disposition in this subsection), and
+    if the policy is issued after 2016 (and, in the case where the particular time at which the policy is issued is determined under subsection (11), the repayment is at or after the particular time), the portion of the loan applied, immediately after the loan, to pay a premium under the policy as provided for under the terms and conditions of the policy (except to the extent that the portion is described in subparagraph (i) of the description of C in paragraph (a) of the definition proceeds of the disposition in this subsection), and
 
   **(6)** The portion of the description of O in the definition **adjusted cost basis** in subsection 148(9) of the Act before the formula is replaced by the following:
 
-    is, in the case of a policy that is issued after 2016 and is not an annuity contract, the total of all amounts each of which is — if a benefit on death (as defined in subsection 1401(3) of the `Income Tax Regulations`) under a coverage (as defined in section **310** of the `Income Tax Regulations` **for the purposes of section 306 of the `Income Tax Regulations`**) under the policy is paid before that time **as a consequence of the death of an individual whose life is insured under the coverage** (and, in the case where the particular time at which the policy is issued is determined under subsection (11), at or after the particular time) and the payment results in the termination of the coverage — the amount, if any, determined with respect to the coverage by the formula
+    is, in the case of a policy that is issued after 2016 and is not an annuity contract, the total of all amounts each of which is — if a benefit on death (as defined in subsection 1401(3) of the `Income Tax Regulations`) under a coverage (as defined in section 310 of the `Income Tax Regulations` for the purposes of section 306 of the `Income Tax Regulations`) under the policy is paid before that time as a consequence of the death of an individual whose life is insured under the coverage (and, in the case where the particular time at which the policy is issued is determined under subsection (11), at or after the particular time) and the payment results in the termination of the coverage — the amount, if any, determined with respect to the coverage by the formula
 
   **(7)** The portion of the definition **adjusted cost basis** in subsection 148(9) of the Act after the description of P is replaced by the following:
 
-    is the amount of the fund value benefit (as defined in subsection 1401(3) of the `Income Tax Regulations`) under the policy paid in respect of the coverage **(as defined in section 310 of the `Income Tax Regulations` for the purposes of section 306 of the `Income Tax Regulations`)** on the termination,
+    is the amount of the fund value benefit (as defined in subsection 1401(3) of the `Income Tax Regulations`) under the policy paid in respect of the coverage (as defined in section 310 of the `Income Tax Regulations` for the purposes of section 306 of the `Income Tax Regulations`) on the termination,
 
-    is the total of all amounts — **each of which is in respect of a coverage (as defined in subsection 1401(3) of the `Income Tax Regulations`) in respect of a specific life or two or more specific lives jointly insured under the coverage referred to in the description of O** — that would be the present value, determined for the purposes of section 307 of the `Income Tax Regulations`, on the last policy anniversary (as defined in section 310 of the `Income Tax Regulations`) on or before the termination, of the fund value of the coverage (as defined in subsection 1401(3) of the `Income Tax Regulations`) if the fund value of the coverage on that policy anniversary were equal to the fund value of the coverage on the termination,
+    is the total of all amounts — each of which is in respect of a coverage (as defined in subsection 1401(3) of the `Income Tax Regulations`) in respect of a specific life or two or more specific lives jointly insured under the coverage referred to in the description of O — that would be the present value, determined for the purposes of section 307 of the `Income Tax Regulations`, on the last policy anniversary (as defined in section 310 of the `Income Tax Regulations`) on or before the termination, of the fund value of the coverage (as defined in subsection 1401(3) of the `Income Tax Regulations`) if the fund value of the coverage on that policy anniversary were equal to the fund value of the coverage on the termination,
 
-    is the **total of all amounts — each of which is in respect of a coverage (as defined in subsection 1401(3) of the `Income Tax Regulations` and referred to in this description as a "particular coverage") in respect of a specific life or two or more specific lives jointly insured under the coverage referred to in the description of O** — that would be determined, on that policy anniversary, for paragraph (a) of the description of C in the definition net premium reserve in subsection 1401(3) of the `Income Tax Regulations` in respect of the **particular** coverage, if the benefit on death under the **particular** coverage, and the fund value of the coverage **(as defined in subsection 1401(3) of the `Income Tax Regulations`)**, on that policy anniversary were equal to the benefit on death under the particular coverage and the fund value of the coverage, as the case may be, on the termination,
+    is the total of all amounts — each of which is in respect of a coverage (as defined in subsection 1401(3) of the `Income Tax Regulations` and referred to in this description as a "particular coverage") in respect of a specific life or two or more specific lives jointly insured under the coverage referred to in the description of O — that would be determined, on that policy anniversary, for paragraph (a) of the description of C in the definition net premium reserve in subsection 1401(3) of the `Income Tax Regulations` in respect of the particular coverage, if the benefit on death under the particular coverage, and the fund value of the coverage (as defined in subsection 1401(3) of the `Income Tax Regulations`), on that policy anniversary were equal to the benefit on death under the particular coverage and the fund value of the coverage, as the case may be, on the termination,
 
-    is the amount that would be, on that policy anniversary, the net premium reserve (as defined in subsection 1401(3) of the `Income Tax Regulations`) in respect of the policy for the purposes of section 307 of the `Income Tax Regulations`, if the fund value benefit **(as defined in subsection 1401(3) of the `Income Tax Regulations`)** under the policy, the benefit on death under each coverage **(as defined in subsection 1401(3) of the `Income Tax Regulations`)** and the fund value of each coverage **(as defined in subsection 1401(3) of the `Income Tax Regulations`)** on that policy anniversary were equal to the fund value benefit, the benefit on death under each coverage and the fund value of each coverage, as the case may be, under the policy on the termination, and
+    is the amount that would be, on that policy anniversary, the net premium reserve (as defined in subsection 1401(3) of the `Income Tax Regulations`) in respect of the policy for the purposes of section 307 of the `Income Tax Regulations`, if the fund value benefit (as defined in subsection 1401(3) of the `Income Tax Regulations`) under the policy, the benefit on death under each coverage (as defined in subsection 1401(3) of the `Income Tax Regulations`) and the fund value of each coverage (as defined in subsection 1401(3) of the `Income Tax Regulations`) on that policy anniversary were equal to the fund value benefit, the benefit on death under each coverage and the fund value of each coverage, as the case may be, under the policy on the termination, and
 
-    is the amount, if any, determined under subsection (4) in respect of a disposition before that time of the interest because of paragraph (2)(e) in respect of the payment in respect of the fund value benefit under the policy paid in respect of the coverage **(as defined in section 310 of the `Income Tax Regulations` for the purposes of section 306 of the `Income Tax Regulations`)** on the termination; (**coût de base rajusté**)
+    is the amount, if any, determined under subsection (4) in respect of a disposition before that time of the interest because of paragraph (2)(e) in respect of the payment in respect of the fund value benefit under the policy paid in respect of the coverage (as defined in section 310 of the `Income Tax Regulations` for the purposes of section 306 of the `Income Tax Regulations`) on the termination; (**coût de base rajusté**)
 
   **(8)** The portion of subsection 148(11) of the Act before paragraph (b) is replaced by the following:
 
-    **(11)** For the purposes of determining at and after a particular time whether a life insurance policy (other than an annuity contract) issued before 2017 is treated as issued after 2016 under this section (other than this subsection) and sections 306 (other than subsections (9) **and (10)**), 307, 308, 310, 1401 and 1403 of the `Income Tax Regulations` (except as they apply for the purposes of subsection 211.1(3)), the policy is deemed to be a policy issued at the particular time if the particular time is the first time after 2016 at which life insurance — in respect of a life, or two or more lives jointly insured, and in respect of which a particular schedule of premium or cost of insurance rates applies — is
+    **(11)** For the purposes of determining at and after a particular time whether a life insurance policy (other than an annuity contract) issued before 2017 is treated as issued after 2016 under this section (other than this subsection) and sections 306 (other than subsections (9) and (10)), 307, 308, 310, 1401 and 1403 of the `Income Tax Regulations` (except as they apply for the purposes of subsection 211.1(3)), the policy is deemed to be a policy issued at the particular time if the particular time is the first time after 2016 at which life insurance — in respect of a life, or two or more lives jointly insured, and in respect of which a particular schedule of premium or cost of insurance rates applies — is
 
-      **if the insurance is term insurance**, converted **to permanent** life insurance **within the policy**; or
+      if the insurance is term insurance, converted to permanent life insurance within the policy; or
 
 ### Section 62
 
@@ -2441,7 +2439,7 @@ before 2019 (excluding an expense that is deemed by subsection 66(12.66) to have
 
   **(2)** The portion of subsection 152(4.01) of the Act before paragraph (a) is replaced by the following:
 
-    **(4.01)** Notwithstanding subsections (4) and (5), an assessment, reassessment or additional assessment to which paragraph (4)(a), (b), (b.1), **(b.3)** or (c) applies in respect of a taxpayer for a taxation year may be made after the taxpayer's normal reassessment period in respect of the year to the extent that, but only to the extent that, it can reasonably be regarded as relating to,
+    **(4.01)** Notwithstanding subsections (4) and (5), an assessment, reassessment or additional assessment to which paragraph (4)(a), (b), (b.1), (b.3) or (c) applies in respect of a taxpayer for a taxation year may be made after the taxpayer's normal reassessment period in respect of the year to the extent that, but only to the extent that, it can reasonably be regarded as relating to,
 
   **(3)** Subsection 152(4.01) of the Act is amended by striking out "and" at the end of paragraph (a), by adding "and" at the end of paragraph (b) and by adding the following after paragraph (b):
 
@@ -2469,7 +2467,7 @@ before 2019 (excluding an expense that is deemed by subsection 66(12.66) to have
 
   **(1)** Paragraph (a) of the description of J in subsection 204.2(1.2) of the Act is replaced by the following:
 
-    the total of all amounts each of which is an amount (other than the portion of it that reduces the amount on which tax is payable by the individual under subsection 204.1(1)) received by the individual in the year and before that time out of or under a pooled registered pension plan, a registered retirement savings plan, a registered retirement income fund or **a specified pension plan** and included in computing the individual's income for the year
+    the total of all amounts each of which is an amount (other than the portion of it that reduces the amount on which tax is payable by the individual under subsection 204.1(1)) received by the individual in the year and before that time out of or under a pooled registered pension plan, a registered retirement savings plan, a registered retirement income fund or a specified pension plan and included in computing the individual's income for the year
 
   **(2)** Subsection (1) is deemed to have come into force on January 1, 2010, except that in its application before December 14, 2012, paragraph (a) of the description of J in subsection 204.2(1.2) of the Act, as enacted by subsection (1), is to be read without reference to "a pooled registered pension plan".
 
@@ -2494,7 +2492,7 @@ before 2019 (excluding an expense that is deemed by subsection 66(12.66) to have
 
 ### Section 207.01
 
-      **(1)** The following definitions and the definitions in subsections 146(1) (other than the definition benefit), **146.1(1)**, 146.2(1), 146.3(1) and **146.4(1)** apply in this Part and Part XLIX of the `Income Tax Regulations`.
+      **(1)** The following definitions and the definitions in subsections 146(1) (other than the definition benefit), 146.1(1), 146.2(1), 146.3(1) and 146.4(1) apply in this Part and Part XLIX of the `Income Tax Regulations`.
 
   **(2)** The definition **RRSP strip** in subsection 207.01(1) of the Act is repealed.
 
@@ -2510,9 +2508,9 @@ before 2019 (excluding an expense that is deemed by subsection 66(12.66) to have
 
     the annuitant of a RRIF or RRSP. (**particulier contrôlant**)
 
-    **registered plan** means a **RDSP, RESP**, RRIF, RRSP or TFSA. (**régime enregistré**)
+    **registered plan** means a RDSP, RESP, RRIF, RRSP or TFSA. (**régime enregistré**)
 
-    **transitional prohibited property**, at any time for a particular trust governed by a **registered plan (other than a TFSA)** of a controlling individual, means a property that is held by the particular trust at that time, that was held
+    **transitional prohibited property**, at any time for a particular trust governed by a registered plan (other than a TFSA) of a controlling individual, means a property that is held by the particular trust at that time, that was held
 
     on March 22, 2011 by a trust governed by a RRIF or RRSP of the controlling individual and that was a prohibited investment for that trust on March 23, 2011; or
 
@@ -2520,19 +2518,19 @@ before 2019 (excluding an expense that is deemed by subsection 66(12.66) to have
 
   **(4)** Subparagraphs (a)(iii) and (iv) of the definition **advantage** in subsection 207.01(1) of the Act are replaced by the following:
 
-    a payment out of or under the registered plan in satisfaction of all or part of a **beneficiary's or** controlling individual's interest in the registered plan,
+    a payment out of or under the registered plan in satisfaction of all or part of a beneficiary's or controlling individual's interest in the registered plan,
 
-    the payment or allocation of any amount to the registered plan by the issuer, carrier **or promoter**,
+    the payment or allocation of any amount to the registered plan by the issuer, carrier or promoter,
 
     an amount paid under or because of the `Canada Disability Savings Act`, the `Canada Education Savings Act` or under a designated provincial program, and
 
   **(5)** The portion of subparagraph (c)(ii) of the definition **advantage** in subsection 207.01(1) of the Act before clause (A) is replaced by the following:
 
-    in the case of **a registered plan that is not a TFSA**, an amount received by the controlling individual of the registered plan, or by a person who does not deal at arm's length with the controlling individual (if it is reasonable to consider, having regard to all the circumstances, that the amount was paid in relation to, or would not have been paid but for, property held in connection with the registered plan) and the amount was paid as, on account or in lieu of, or in satisfaction of, a payment
+    in the case of a registered plan that is not a TFSA, an amount received by the controlling individual of the registered plan, or by a person who does not deal at arm's length with the controlling individual (if it is reasonable to consider, having regard to all the circumstances, that the amount was paid in relation to, or would not have been paid but for, property held in connection with the registered plan) and the amount was paid as, on account or in lieu of, or in satisfaction of, a payment
 
   **(6)** Paragraph (d) of the definition **advantage** in subsection 207.01(1) of the Act is replaced by the following:
 
-    a **registered plan** strip in respect of the registered plan; and
+    a registered plan strip in respect of the registered plan; and
 
   **(7)** Paragraph (b) of the definition **swap transaction** in subsection 207.01(1) of the Act is replaced by the following:
 
@@ -2570,53 +2568,53 @@ before 2019 (excluding an expense that is deemed by subsection 66(12.66) to have
 
   **(10)** Subsection 207.01(5) of the Act is replaced by the following:
 
-    **(5)** The issuer, carrier **or promoter** of a registered plan shall exercise the care, diligence and skill of a reasonably prudent person to minimize the possibility that a trust governed by the registered plan holds a non-qualified investment.
+    **(5)** The issuer, carrier or promoter of a registered plan shall exercise the care, diligence and skill of a reasonably prudent person to minimize the possibility that a trust governed by the registered plan holds a non-qualified investment.
 
   **(11)** Subsection 207.01(7) of the Act is replaced by the following:
 
-    **(7)** For the purpose of computing the adjusted cost base to a trust governed by a **registered plan (other than a TFSA)** of a property that is a transitional prohibited property for the trust, the cost to the trust of the property until the property is disposed of by the trust is deemed to be equal to the fair market value of the property,
+    **(7)** For the purpose of computing the adjusted cost base to a trust governed by a registered plan (other than a TFSA) of a property that is a transitional prohibited property for the trust, the cost to the trust of the property until the property is disposed of by the trust is deemed to be equal to the fair market value of the property,
 
-      **in the case of a RRIF or RRSP**, at the end of March 22, 2011; **and**
+      in the case of a RRIF or RRSP, at the end of March 22, 2011; and
 
       in the case of a RDSP or RESP, at the end of March 22, 2017.
 
   **(12)** Paragraph 207.01(8)(a) of the Act is replaced by the following:
 
-    the property would, in the absence of subsection (9), have ceased at any time (in this subsection and subsection (9) referred to as the "relevant time") to be a prohibited investment for a trust governed by a **registered plan (other than a TFSA)** of a controlling individual;
+    the property would, in the absence of subsection (9), have ceased at any time (in this subsection and subsection (9) referred to as the "relevant time") to be a prohibited investment for a trust governed by a registered plan (other than a TFSA) of a controlling individual;
 
   **(13)** Paragraph 207.01(8)(c) of the Act is replaced by the following:
 
-    **in the case of a property held under a RRIF or RRSP,** the controlling individual elected under subsection 207.05(4); and
+    in the case of a property held under a RRIF or RRSP, the controlling individual elected under subsection 207.05(4); and
 
   **(14)** Subsection 207.01(9) of the Act is replaced by the following:
 
-    **(9)** If this subsection applies in respect of a property, the property is deemed to be a prohibited investment at and after the relevant time for every trust governed by a **registered plan (other than a TFSA)** of the controlling individual referred to in paragraph (8)(a).
+    **(9)** If this subsection applies in respect of a property, the property is deemed to be a prohibited investment at and after the relevant time for every trust governed by a registered plan (other than a TFSA) of the controlling individual referred to in paragraph (8)(a).
 
   **(15)** Paragraph 207.01(12)(a) of the Act is replaced by the following:
 
-    the property is acquired at any time (in this subsection and subsection (13) referred to as the "exchange time") by a trust (in this section and subsection (13) referred to as the "exchanging trust") governed by a **registered plan (other than a TFSA)** of a controlling individual in exchange for another property (in this subsection referred to as the "exchanged property") in a transaction to which any of section 51, subsection 85(1) and sections 85.1, 86 and 87 apply;
+    the property is acquired at any time (in this subsection and subsection (13) referred to as the "exchange time") by a trust (in this section and subsection (13) referred to as the "exchanging trust") governed by a registered plan (other than a TFSA) of a controlling individual in exchange for another property (in this subsection referred to as the "exchanged property") in a transaction to which any of section 51, subsection 85(1) and sections 85.1, 86 and 87 apply;
 
   **(16)** Paragraph 207.01(12)(d) of the Act is replaced by the following:
 
-    **in the case of a property held under a RRIF or RRSP,** the controlling individual elected under subsection 207.05(4).
+    in the case of a property held under a RRIF or RRSP, the controlling individual elected under subsection 207.05(4).
 
   **(17)** Paragraphs 207.01(13)(a) and (b) of the Act are replaced by the following:
 
     other than for the purposes of subsection (7), the property is deemed to be, at and after the exchange time, a property,
 
-    **in the case of a trust governed by a RRIF or RRSP**, that was
+    in the case of a trust governed by a RRIF or RRSP, that was
 
     held on March 22, 2011 by a trust governed by a RRIF or RRSP of the controlling individual referred to in subsection (12), and
 
-    a prohibited investment for the trust on March 23, 2011, **and**
+    a prohibited investment for the trust on March 23, 2011, and
 
-    **in the case of a trust governed by a RDSP or RESP, that was**
+    in the case of a trust governed by a RDSP or RESP, that was
 
     held on March 22, 2017 by a trust governed by a RDSP or RESP of the controlling individual referred to in subsection (12), and
 
     a prohibited investment for the trust on March 23, 2017; and
 
-    **if** the property would, in the absence of this paragraph, not be a prohibited investment for the exchanging trust immediately after the exchange time, the property is deemed to be a prohibited investment at and after the exchange time for every trust governed by a **registered plan (other than a TFSA)** of the controlling individual.
+    if the property would, in the absence of this paragraph, not be a prohibited investment for the exchanging trust immediately after the exchange time, the property is deemed to be a prohibited investment at and after the exchange time for every trust governed by a registered plan (other than a TFSA) of the controlling individual.
 
   **(18)** Subsections (1) to (6) and (9) apply to transactions and events occurring, income earned, capital gains accruing and investments acquired after March 22, 2017.
 
@@ -2634,7 +2632,7 @@ before 2019 (excluding an expense that is deemed by subsection 66(12.66) to have
 
   **(1)** Subsection 207.04(3) of the Act is replaced by the following:
 
-    **(3)** For the purposes of this section and subsections 146(10.1), **146.1(5)**, 146.2(6), 146.3(9), **146.4(5)** and 207.01(6), if a trust governed by a registered plan holds property at any time that is, for the trust, both a prohibited investment and a non-qualified investment, the property is deemed at that time not to be a non-qualified investment, but remains a prohibited investment, for the trust.
+    **(3)** For the purposes of this section and subsections 146(10.1), 146.1(5), 146.2(6), 146.3(9), 146.4(5) and 207.01(6), if a trust governed by a registered plan holds property at any time that is, for the trust, both a prohibited investment and a non-qualified investment, the property is deemed at that time not to be a non-qualified investment, but remains a prohibited investment, for the trust.
 
   **(2)** Section 207.04 of the Act is amended by adding the following after subsection (4):
 
@@ -2648,11 +2646,11 @@ before 2019 (excluding an expense that is deemed by subsection 66(12.66) to have
 
   **(1)** Paragraph 207.05(2)(c) of the Act is replaced by the following:
 
-    in the case of **a registered plan** strip, the amount of the **registered plan** strip.
+    in the case of a registered plan strip, the amount of the registered plan strip.
 
   **(2)** Subsection 207.05(3) of the Act is replaced by the following:
 
-    **(3)** **Each** controlling individual of a registered plan in connection with which a tax is imposed under subsection (1) is **jointly and severally, or solidarily**, liable to pay the tax except that, if the advantage is extended by the issuer, carrier **or promoter** of the registered plan or by a person with whom the issuer, carrier **or promoter** is not dealing at arm's length, the issuer, carrier **or promoter**, and not the controlling individual, is liable to pay the tax.
+    **(3)** Each controlling individual of a registered plan in connection with which a tax is imposed under subsection (1) is jointly and severally, or solidarily, liable to pay the tax except that, if the advantage is extended by the issuer, carrier or promoter of the registered plan or by a person with whom the issuer, carrier or promoter is not dealing at arm's length, the issuer, carrier or promoter, and not the controlling individual, is liable to pay the tax.
 
   **(3)** Subsections (1) and (2) are deemed to have come into force on March 23, 2017.
 
@@ -2684,19 +2682,19 @@ before 2019 (excluding an expense that is deemed by subsection 66(12.66) to have
 
 ### Section 207.31
 
-      **(1)** A charity, municipality in Canada or municipal or public body performing a function of government in Canada (**each of which is** referred to in this section as the "recipient") shall, **in respect** of a property, pay a tax under this Part in respect of a taxation year if
+      **(1)** A charity, municipality in Canada or municipal or public body performing a function of government in Canada (each of which is referred to in this section as the "recipient") shall, in respect of a property, pay a tax under this Part in respect of a taxation year if
 
         at any time in the year, the recipient
 
         disposes of the property, or
 
-        **in the opinion of** the Minister of the Environment, or a person designated by that Minister, changes the use of the property;
+        in the opinion of the Minister of the Environment, or a person designated by that Minister, changes the use of the property;
 
-        the property **is** described in paragraph 110.1(1)(d) or in the definition total ecological gifts in subsection 118.1(1); and
+        the property is described in paragraph 110.1(1)(d) or in the definition total ecological gifts in subsection 118.1(1); and
 
-        the disposition or change **is made** without the authorization **of the Minister of the Environment or a person designated by that Minister**.
+        the disposition or change is made without the authorization of the Minister of the Environment or a person designated by that Minister.
 
-      ****(2)**** The amount of tax to be paid under subsection (1) is equal to 50% of the amount that would be determined for the purposes of section 110.1 or 118.1, if this Act were read without reference to subsections 110.1(3) and 118.1(6), to be the fair market value of the property **referred to in subsection (1)** if the property were given to the recipient immediately before the disposition or change **referred to in paragraph (1)(a)**.
+      **(2)** The amount of tax to be paid under subsection (1) is equal to 50% of the amount that would be determined for the purposes of section 110.1 or 118.1, if this Act were read without reference to subsections 110.1(3) and 118.1(6), to be the fair market value of the property referred to in subsection (1) if the property were given to the recipient immediately before the disposition or change referred to in paragraph (1)(a).
 
   **(2)** Subsection (1) applies in respect of dispositions made, and changes of use that occur, after March 21, 2017.
 
@@ -2704,7 +2702,7 @@ before 2019 (excluding an expense that is deemed by subsection 66(12.66) to have
 
   **(1)** The portion of subparagraph 212(1)(h)(iii.1) of the Act before clause (A) is replaced by the following:
 
-    the portion of the payment that is transferred by the payer on behalf of the non-resident person, pursuant to an authorization in prescribed form, to a pooled registered pension plan, registered pension plan, registered retirement savings plan, registered retirement income fund or **specified pension plan** and that
+    the portion of the payment that is transferred by the payer on behalf of the non-resident person, pursuant to an authorization in prescribed form, to a pooled registered pension plan, registered pension plan, registered retirement savings plan, registered retirement income fund or specified pension plan and that
 
   **(2)** Subsection (1) is deemed to have come into force on January 1, 2010, except that in its application before December 14, 2012, the portion of subparagraph 212(1)(h)(iii.1) of the Act before clause (A), as enacted by subsection (1), is to be read without reference to "pooled registered pension plan".
 
@@ -2714,19 +2712,19 @@ before 2019 (excluding an expense that is deemed by subsection 66(12.66) to have
 
     the subject corporation is immediately after the investment time, or becomes as part of a transaction or event or series of transactions or events that includes the making of the investment, a foreign affiliate of
 
-    the CRIC, **or**
+    the CRIC, or
 
     a corporation that does not deal at arm's length with the CRIC (if the condition in this paragraph is satisfied because of this subparagraph and not because of subparagraph (i), such a corporation is referred to in paragraph (b) as an "other Canadian corporation");
 
   **(2)** The portion of paragraph 212.3(1)(b) of the Act before subparagraph (ii) is replaced by the following:
 
-    the CRIC **or an other Canadian corporation** is immediately after the investment time, or becomes after the investment time and as part of a transaction or event or series of transactions or events that includes the making of the investment, controlled by a non-resident corporation (in this section referred to as the "parent"), and any of the following conditions is satisfied:
+    the CRIC or an other Canadian corporation is immediately after the investment time, or becomes after the investment time and as part of a transaction or event or series of transactions or events that includes the making of the investment, controlled by a non-resident corporation (in this section referred to as the "parent"), and any of the following conditions is satisfied:
 
-    if, at the investment time, the parent owned all shares of the capital stock of the CRIC **and the other Canadian corporation, if applicable**, that are owned — determined without reference to paragraph (25)(b) in the case of partnerships referred to in this subparagraph and as if all rights referred to in paragraph 251(5)(b), of the parent, each person that does not deal at arm's length with the parent and all of those partnerships, were immediate and absolute and the parent and each of the other persons and partnerships had exercised those rights at the investment time — by the parent, persons that are not dealing at arm's length with the parent and partnerships of which the parent or a non-resident person that is not dealing at arm's length with the parent is a member (other than a limited partner within the meaning assigned by subsection 96(2.4)), the parent would own shares of the capital stock of the CRIC **or the other Canadian corporation** that
+    if, at the investment time, the parent owned all shares of the capital stock of the CRIC and the other Canadian corporation, if applicable, that are owned — determined without reference to paragraph (25)(b) in the case of partnerships referred to in this subparagraph and as if all rights referred to in paragraph 251(5)(b), of the parent, each person that does not deal at arm's length with the parent and all of those partnerships, were immediate and absolute and the parent and each of the other persons and partnerships had exercised those rights at the investment time — by the parent, persons that are not dealing at arm's length with the parent and partnerships of which the parent or a non-resident person that is not dealing at arm's length with the parent is a member (other than a limited partner within the meaning assigned by subsection 96(2.4)), the parent would own shares of the capital stock of the CRIC or the other Canadian corporation that
 
-    give the holders of those shares 25% or more of all of the votes that could be cast at any annual meeting of the shareholders in respect of all shares of the capital stock of the CRIC **or the other Canadian corporation, as the case may be**, or
+    give the holders of those shares 25% or more of all of the votes that could be cast at any annual meeting of the shareholders in respect of all shares of the capital stock of the CRIC or the other Canadian corporation, as the case may be, or
 
-    have a fair market value of 25% or more of the fair market value of all of the issued and outstanding shares of the capital stock of the CRIC **or the other Canadian corporation, as the case may be**,
+    have a fair market value of 25% or more of the fair market value of all of the issued and outstanding shares of the capital stock of the CRIC or the other Canadian corporation, as the case may be,
 
   **(3)** Section 212.3 of the Act is amended by adding the following after subsection (7):
 
@@ -2820,7 +2818,7 @@ before 2019 (excluding an expense that is deemed by subsection 66(12.66) to have
 
   **(1)** The definition **designated provisions** in subsection 259(5) of the Act is replaced by the following:
 
-    **designated provisions** means sections 146 and 146.1 to 146.4 and Parts X, **XI.01** and XI.1, as they apply in respect of investments that are not qualified investments for a trust, and Part X.2; (**dispositions désignées**)
+    **designated provisions** means sections 146 and 146.1 to 146.4 and Parts X, XI.01 and XI.1, as they apply in respect of investments that are not qualified investments for a trust, and Part X.2; (**dispositions désignées**)
 
   **(2)** Subsection (1) is deemed to have come into force on March 23, 2017.
 
@@ -2830,9 +2828,9 @@ before 2019 (excluding an expense that is deemed by subsection 66(12.66) to have
 
     **relevant spot rate**, for a particular day, means, in respect of a conversion of an amount from a particular currency to another currency,
 
-    if the particular currency or the other currency is Canadian currency, the rate quoted by the Bank of Canada on the particular day (or, if **the Bank of Canada ordinarily quotes such a rate, but** there is no such rate quoted for the particular day, the closest preceding day for which such a rate is quoted) for the exchange of the particular currency for the other currency, or, in applying paragraphs (2)(b) and (5)(c), another rate of exchange that is acceptable to the Minister; and
+    if the particular currency or the other currency is Canadian currency, the rate quoted by the Bank of Canada on the particular day (or, if the Bank of Canada ordinarily quotes such a rate, but there is no such rate quoted for the particular day, the closest preceding day for which such a rate is quoted) for the exchange of the particular currency for the other currency, or, in applying paragraphs (2)(b) and (5)(c), another rate of exchange that is acceptable to the Minister; and
 
-    if neither the particular currency nor the other currency is Canadian currency, the rate — calculated by reference to the rates quoted by the Bank of Canada on the particular day (or, if **the Bank of Canada ordinarily quotes such rates, but** either of such rates is not quoted for the particular day, the closest preceding day for which both such rates are quoted) for the exchange of Canadian currency for each of those currencies — for the exchange of the particular currency for the other currency, or, in applying paragraphs (2)(b) and (5)(c), another rate of exchange that is acceptable to the Minister. (**taux de change au comptant**)
+    if neither the particular currency nor the other currency is Canadian currency, the rate — calculated by reference to the rates quoted by the Bank of Canada on the particular day (or, if the Bank of Canada ordinarily quotes such rates, but either of such rates is not quoted for the particular day, the closest preceding day for which both such rates are quoted) for the exchange of Canadian currency for each of those currencies — for the exchange of the particular currency for the other currency, or, in applying paragraphs (2)(b) and (5)(c), another rate of exchange that is acceptable to the Minister. (**taux de change au comptant**)
 
   **(2)** Subparagraph 261(5)(h)(ii) of the Act is replaced by the following:
 
@@ -2858,7 +2856,7 @@ the references in paragraph 60(4)(b) of that Act to "2005" and "2006" are to be 
 
   **(1)** Subsection 221(2) of the `Income Tax Regulations` is replaced by the following:
 
-    **(2)** Where in any taxation year a reporting person (other than a registered investment) claims that a share of its capital stock issued by it, or an interest as a beneficiary under it, is a qualified investment under section 146, 146.1, 146.3, **146.4**, 204 or 207.01 of the Act, the reporting person shall, in respect of the year and within 90 days after the end of the year, make an information return in prescribed form.
+    **(2)** Where in any taxation year a reporting person (other than a registered investment) claims that a share of its capital stock issued by it, or an interest as a beneficiary under it, is a qualified investment under section 146, 146.1, 146.3, 146.4, 204 or 207.01 of the Act, the reporting person shall, in respect of the year and within 90 days after the end of the year, make an information return in prescribed form.
 
   **(2)** Subsection (1) is deemed to have come into force on March 23, 2017.
 
@@ -2914,11 +2912,11 @@ the references in paragraph 60(4)(b) of that Act to "2005" and "2006" are to be 
 
     in the case where the particular time at which the policy is issued is determined under subsection 148(11) of the Act and the policy's third preceding policy anniversary is before the particular time, the accumulating fund (computed without regard to any amount payable in respect of a policy loan and as though the policy were issued after 2016) in respect of the policy on that third preceding policy anniversary, and
 
-    **in any other case**, the accumulating fund (computed without regard to any amount payable in respect of a policy loan) in respect of the policy on its third preceding policy anniversary; and
+    in any other case, the accumulating fund (computed without regard to any amount payable in respect of a policy loan) in respect of the policy on its third preceding policy anniversary; and
 
   **(9)** Subparagraph 306(7)(a)(ii) of the Regulations is replaced by the following:
 
-    the date on which it was deemed by subsection (3) **or (10), as the case may be,** to be issued (determined immediately before that time); and
+    the date on which it was deemed by subsection (3) or (10), as the case may be, to be issued (determined immediately before that time); and
 
   **(10)** Subsection 306(10) of the Regulations is replaced by the following:
 
@@ -2954,19 +2952,19 @@ the references in paragraph 60(4)(b) of that Act to "2005" and "2006" are to be 
 
 ### Section 404
 
-      **(1)** Malgré les paragraphes 402(3) et (4), le montant de revenu imposable qu'une banque est réputée avoir gagné au cours d'une année d'imposition dans une province où elle avait un établissement stable correspond au tiers **du total des sommes suivantes** :
+      **(1)** Malgré les paragraphes 402(3) et (4), le montant de revenu imposable qu'une banque est réputée avoir gagné au cours d'une année d'imposition dans une province où elle avait un établissement stable correspond au tiers du total des sommes suivantes :
 
   **(2)** Paragraphs 404(1)(a) and (b) of the Regulations are replaced by the following:
 
-    **the** proportion of its taxable income for the year that the **total** of the salaries and wages paid in the year by the bank to employees of its permanent establishment in the province is of the **total** of all salaries and wages paid in the year by the bank; and
+    the proportion of its taxable income for the year that the total of the salaries and wages paid in the year by the bank to employees of its permanent establishment in the province is of the total of all salaries and wages paid in the year by the bank; and
 
-    twice **the** proportion of its taxable income for the year that the **total** amount of loans and deposits of its permanent establishment in the province for the year is of the **total** amount of all loans and deposits of the bank for the year.
+    twice the proportion of its taxable income for the year that the total amount of loans and deposits of its permanent establishment in the province for the year is of the total amount of all loans and deposits of the bank for the year.
 
   **(3)** Subsections 404(2) and (3) of the Regulations are replaced by the following:
 
-    **(2)** For the purposes of subsection (1), the amount of loans for a taxation year is 1/12 of the **total** of the amounts outstanding, on the loans made by the bank, at the close of business on the last day of each month in the year.
+    **(2)** For the purposes of subsection (1), the amount of loans for a taxation year is 1/12 of the total of the amounts outstanding, on the loans made by the bank, at the close of business on the last day of each month in the year.
 
-    **(3)** For the purposes of subsection (1), the amount of deposits for a taxation year is 1/12 of the **total** of the amounts on deposit with the bank at the close of business on the last day of each month in the year.
+    **(3)** For the purposes of subsection (1), the amount of deposits for a taxation year is 1/12 of the total of the amounts on deposit with the bank at the close of business on the last day of each month in the year.
 
   **(4)** Subsections (1) to (3) are deemed to have come into force on September 16, 2016.
 
@@ -2996,7 +2994,7 @@ the references in paragraph 60(4)(b) of that Act to "2005" and "2006" are to be 
 
 ### Section 412
 
-    **If** part of the business of a corporation for a taxation year, other than a corporation described in **any of sections** 403, 404, **404.1**, 405, 406, 407, 408, 409, 410 **and** 411, consisted of operations normally conducted by a corporation described in one of those sections, the corporation and the Minister may agree to determine the amount of taxable income deemed to have been earned in the year in a particular province to be the **total** of the amounts computed
+    If part of the business of a corporation for a taxation year, other than a corporation described in any of sections 403, 404, 404.1, 405, 406, 407, 408, 409, 410 and 411, consisted of operations normally conducted by a corporation described in one of those sections, the corporation and the Minister may agree to determine the amount of taxable income deemed to have been earned in the year in a particular province to be the total of the amounts computed
 
   **(2)** Subsection (1) is deemed to have come into force on September 16, 2016.
 
@@ -3004,7 +3002,7 @@ the references in paragraph 60(4)(b) of that Act to "2005" and "2006" are to be 
 
   **(1)** Paragraph 600(b) of the Regulations is replaced by the following:
 
-    subsections 13(4), (7.4) and (29), 20(24), 44(1) and (6), 45(2) and (3), 50(1), 53(2.1), 56.4(13), 70(6.2), (9.01), (9.11), (9.21) and (9.31), 72(2), 73(1), 80.1(1), 82(3), 83(2), **91(1.4)**, 104(14), 107(2.001), 143(2), 146.01(7), 146.02(7), 164(6) and (6.1), 184(3), 251.2(6) and 256(9) of the Act;
+    subsections 13(4), (7.4) and (29), 20(24), 44(1) and (6), 45(2) and (3), 50(1), 53(2.1), 56.4(13), 70(6.2), (9.01), (9.11), (9.21) and (9.31), 72(2), 73(1), 80.1(1), 82(3), 83(2), 91(1.4), 104(14), 107(2.001), 143(2), 146.01(7), 146.02(7), 164(6) and (6.1), 184(3), 251.2(6) and 256(9) of the Act;
 
   **(2)** Subsection (1) is deemed to have come into force on July 12, 2013.
 
@@ -3014,7 +3012,7 @@ the references in paragraph 60(4)(b) of that Act to "2005" and "2006" are to be 
 
 ### Section 806
 
-    For the purposes of **paragraph (c) of the definition fully exempt interest in subsection 212(3)** of the Act, the Bank for International Settlements and the European Bank for Reconstruction and Development are prescribed.
+    For the purposes of paragraph (c) of the definition fully exempt interest in subsection 212(3) of the Act, the Bank for International Settlements and the European Bank for Reconstruction and Development are prescribed.
 
   **(2)** Subsection (1) is deemed to have come into force on January 1, 2008.
 
@@ -3022,7 +3020,7 @@ the references in paragraph 60(4)(b) of that Act to "2005" and "2006" are to be 
 
   **(1)** Paragraph 1104(17)(a) of the Regulations is replaced by the following:
 
-    the property is included in Class 43.1 because of its subparagraph (c)(i) or is described in any of subparagraphs **d(vii) to** (ix), (xi), (xiii), (xiv) and (xvi) of Class 43.1 and paragraph (a) of Class 43.2; and
+    the property is included in Class 43.1 because of its subparagraph (c)(i) or is described in any of subparagraphs d(vii) to (ix), (xi), (xiii), (xiv) and (xvi) of Class 43.1 and paragraph (a) of Class 43.2; and
 
   **(2)** Subsection (1) applies in respect of property acquired for use after March 21, 2017 that has not been used or acquired for use before March 22, 2017.
 
@@ -3032,7 +3030,7 @@ the references in paragraph 60(4)(b) of that Act to "2005" and "2006" are to be 
 
     for the drilling or completion of a well for the project, other than
 
-    a well that is, or can reasonably be expected to be, used for the installation of underground piping that is included in paragraph (d) of Class 43.1 or paragraph (b) of Class 43.2 in Schedule II, **or**
+    a well that is, or can reasonably be expected to be, used for the installation of underground piping that is included in paragraph (d) of Class 43.1 or paragraph (b) of Class 43.2 in Schedule II, or
 
     a well referred to in paragraph (h);
 
@@ -3046,13 +3044,13 @@ the references in paragraph 60(4)(b) of that Act to "2005" and "2006" are to be 
 
   **(3)** Subparagraphs 1219(2)(b)(iv) and (v) of the Regulations are replaced by the following:
 
-    included in the capital cost of property that, but for this section, would be depreciable property (other than property that would be included in Class 14.1 of Schedule II), except as provided by paragraph (1)(b), (d), (e), (f), (g) or **(h)**,
+    included in the capital cost of property that, but for this section, would be depreciable property (other than property that would be included in Class 14.1 of Schedule II), except as provided by paragraph (1)(b), (d), (e), (f), (g) or (h),
 
-    included in the capital cost of property that, but for this section, would be property included in Class 14.1 of Schedule II, except as provided by any of paragraphs (1)(a) to (e) **or subparagraph (h)(ii)**,
+    included in the capital cost of property that, but for this section, would be property included in Class 14.1 of Schedule II, except as provided by any of paragraphs (1)(a) to (e) or subparagraph (h)(ii),
 
   **(4)** Clause 1219(2)(b)(xi)(A) of the Regulations is replaced by the following:
 
-    the construction, renovation or alteration of the property, except as provided by paragraph (1)(b), (f), (g) **or (h)**, or
+    the construction, renovation or alteration of the property, except as provided by paragraph (1)(b), (f), (g) or (h), or
 
   **(5)** Section 1219 of the Regulations is amended by adding the following after subsection (4):
 
@@ -3074,15 +3072,15 @@ the references in paragraph 60(4)(b) of that Act to "2005" and "2006" are to be 
 
 The portion of paragraph 1401(5)(b) of the Regulations before subparagraph (i) is replaced by the following:
 
-if the policy is issued before 2017 and at a particular time after 2016 life insurance — in respect of a life, or two or more lives jointly insured, and in respect of which a particular schedule of premium or cost of insurance rates applies — is added to the policy or is **term** insurance **that** is converted into **permanent** life insurance **within** the policy, then that insurance is deemed to be a separate life insurance policy issued at the particular time unless
+if the policy is issued before 2017 and at a particular time after 2016 life insurance — in respect of a life, or two or more lives jointly insured, and in respect of which a particular schedule of premium or cost of insurance rates applies — is added to the policy or is term insurance that is converted into permanent life insurance within the policy, then that insurance is deemed to be a separate life insurance policy issued at the particular time unless
 
 ### Section 94
 
 The definitions **official receipt** and **other recipient of a gift** in section 3500 of the Regulations are replaced by the following:
 
-**official receipt** means a receipt for the purposes of **paragraph** 110.1(2)(**a**) or 118.1(2)(**a**) of the Act, containing information required by section 3501 or 3502; (**reçu officiel**)
+**official receipt** means a receipt for the purposes of paragraph 110.1(2)(a) or 118.1(2)(a) of the Act, containing information required by section 3501 or 3502; (**reçu officiel**)
 
-**other recipient of a gift** means a person, to whom a gift is made by a taxpayer, referred to in any of paragraph 110.1(1)(c), subparagraph **110.1(2.1)(a)(ii)** **and paragraphs (a) and (d) of the definition qualified donee in subsection 149.1(1)** of the Act; (**autre bénéficiaire d'un don**)
+**other recipient of a gift** means a person, to whom a gift is made by a taxpayer, referred to in any of paragraph 110.1(1)(c), subparagraph 110.1(2.1)(a)(ii) and paragraphs (a) and (d) of the definition qualified donee in subsection 149.1(1) of the Act; (**autre bénéficiaire d'un don**)
 
 ### Section 95
 
@@ -3090,7 +3088,7 @@ The definitions **official receipt** and **other recipient of a gift** in sectio
 
 ### Section 4900
 
-      **(1)** For the purposes of paragraph (d) of the definition qualified investment in subsection 146(1) of the Act, paragraph (e) of the definition qualified investment in subsection 146.1(1) of the Act, paragraph (c) of the definition qualified investment in subsection 146.3(1) of the Act, **paragraph (d) of the definition qualified investment in subsection 146.4(1) of the Act**, paragraph (h) of the definition qualified investment in section 204 of the Act and paragraph (c) of the definition qualified investment in subsection 207.01(1) of the Act, each of the following investments is prescribed as a qualified investment for a plan trust at a particular time if at that time it is
+      **(1)** For the purposes of paragraph (d) of the definition qualified investment in subsection 146(1) of the Act, paragraph (e) of the definition qualified investment in subsection 146.1(1) of the Act, paragraph (c) of the definition qualified investment in subsection 146.3(1) of the Act, paragraph (d) of the definition qualified investment in subsection 146.4(1) of the Act, paragraph (h) of the definition qualified investment in section 204 of the Act and paragraph (c) of the definition qualified investment in subsection 207.01(1) of the Act, each of the following investments is prescribed as a qualified investment for a plan trust at a particular time if at that time it is
 
   **(2)** The portion of paragraph 4900(1)(g) of the Regulations before subparagraph (i) is replaced by the following:
 
@@ -3098,11 +3096,11 @@ The definitions **official receipt** and **other recipient of a gift** in sectio
 
   **(3)** Subsection 4900(5) of the Regulations is replaced by the following:
 
-    **(5)** For the purposes of paragraph (e) of the definition qualified investment in subsection 146.1(1) of the Act, paragraph (d) of the definition qualified investment in subsection **146.4(1)** of the Act and paragraph (c) of the definition qualified investment in subsection 207.01(1) of the Act, a property is prescribed as a qualified investment for a trust governed by a registered disability savings plan, a registered education savings plan or a TFSA at any time if at that time the property is an interest in a trust or a share of the capital stock of a corporation that was a registered investment for a trust governed by a registered retirement savings plan during the calendar year in which that time occurs or during the preceding year.
+    **(5)** For the purposes of paragraph (e) of the definition qualified investment in subsection 146.1(1) of the Act, paragraph (d) of the definition qualified investment in subsection 146.4(1) of the Act and paragraph (c) of the definition qualified investment in subsection 207.01(1) of the Act, a property is prescribed as a qualified investment for a trust governed by a registered disability savings plan, a registered education savings plan or a TFSA at any time if at that time the property is an interest in a trust or a share of the capital stock of a corporation that was a registered investment for a trust governed by a registered retirement savings plan during the calendar year in which that time occurs or during the preceding year.
 
   **(4)** The portion of subsection 4900(6) of the Regulations before paragraph (b) is replaced by the following:
 
-    **(6)** Subject to **subsection** (9), for the purposes of paragraph (d) of the definition qualified investment in subsection 146(1) of the Act, paragraph (e) of the definition qualified investment in subsection 146.1(1) of the Act and paragraph (c) of the definition qualified investment in subsection 146.3(1) of the Act, a property is prescribed as a qualified investment for a trust governed by a registered retirement savings plan, a registered education savings plan and a registered retirement income fund at any time if at that time the property is not a prohibited investment for the trust and is
+    **(6)** Subject to subsection (9), for the purposes of paragraph (d) of the definition qualified investment in subsection 146(1) of the Act, paragraph (e) of the definition qualified investment in subsection 146.1(1) of the Act and paragraph (c) of the definition qualified investment in subsection 146.3(1) of the Act, a property is prescribed as a qualified investment for a trust governed by a registered retirement savings plan, a registered education savings plan and a registered retirement income fund at any time if at that time the property is not a prohibited investment for the trust and is
 
       a share of the capital stock of an eligible corporation (as defined in subsection 5100(1));
 
@@ -3112,15 +3110,15 @@ The definitions **official receipt** and **other recipient of a gift** in sectio
 
   **(7)** The portion of subsection 4900(14) of the Regulations before paragraph (a) is replaced by the following:
 
-    **(14)** For the purposes of paragraph (d) of the definition qualified investment in subsection 146(1) of the Act, **paragraph (e) of the definition qualified investment in subsection 146.1(1) of the Act**, paragraph (c) of the definition qualified investment in subsection 146.3(1) of the Act and paragraph (c) of the definition qualified investment in subsection 207.01(1) of the Act, a property is prescribed as a qualified investment for a trust governed by a **RESP**, RRIF, RRSP or TFSA at any time if, at the time the property was acquired by the trust, the property
+    **(14)** For the purposes of paragraph (d) of the definition qualified investment in subsection 146(1) of the Act, paragraph (e) of the definition qualified investment in subsection 146.1(1) of the Act, paragraph (c) of the definition qualified investment in subsection 146.3(1) of the Act and paragraph (c) of the definition qualified investment in subsection 207.01(1) of the Act, a property is prescribed as a qualified investment for a trust governed by a RESP, RRIF, RRSP or TFSA at any time if, at the time the property was acquired by the trust, the property
 
   **(8)** Subparagraph 4900(14)(a)(iii) of the Regulations is replaced by the following:
 
-    a qualifying share in respect of a specified cooperative corporation and the **RESP**, RRIF, RRSP or TFSA; and
+    a qualifying share in respect of a specified cooperative corporation and the RESP, RRIF, RRSP or TFSA; and
 
   **(9)** Subsection 4900(15) of the Regulations is replaced by the following:
 
-    **(15)** For the purposes of the definition prohibited investment in subsection 207.01(1) of the Act, property that is a qualified investment for a trust governed by a **RESP**, RRIF, RRSP or TFSA solely because of subsection (14) is prescribed property for the trust at any time if, at that time, the property is not described in any of subparagraphs (14)(a)(i) to (iii).
+    **(15)** For the purposes of the definition prohibited investment in subsection 207.01(1) of the Act, property that is a qualified investment for a trust governed by a RESP, RRIF, RRSP or TFSA solely because of subsection (14) is prescribed property for the trust at any time if, at that time, the property is not described in any of subparagraphs (14)(a)(i) to (iii).
 
   **(10)** Subsections (1) and (3) are deemed to have come into force on March 23, 2017.
 
@@ -3140,21 +3138,21 @@ the distribution by BHP Billiton Limited, on May 24, 2015 to its common sharehol
 
   **(1)** Subsection 5907(1.07) of the Regulations is replaced by the following:
 
-    **(1.07)** For the purposes of paragraph (1.03)(a), a specified owner in respect of the particular corporation is not to be considered, under the relevant foreign tax law, to own less than all of the shares of the capital stock of another corporation that are considered to be owned for the purposes of the Act solely because the specified owner **or the other corporation** is not treated as a corporation under the relevant foreign tax law.
+    **(1.07)** For the purposes of paragraph (1.03)(a), a specified owner in respect of the particular corporation is not to be considered, under the relevant foreign tax law, to own less than all of the shares of the capital stock of another corporation that are considered to be owned for the purposes of the Act solely because the specified owner or the other corporation is not treated as a corporation under the relevant foreign tax law.
 
   **(2)** Subsection 5907(8) of the Regulations is replaced by the following:
 
     **(8)** For the purposes of computing the various amounts referred to in this section,
 
-      the first taxation year of a foreign affiliate, of a corporation resident in Canada, that is formed as a result of a foreign merger (within the meaning assigned by subsection 87(8.1) of the Act) is deemed to have commenced at the time of the merger, and a taxation year of a predecessor corporation (within the meaning assigned by subsection 5905(3)) that would otherwise have ended after that time is deemed to have ended immediately before that time; **and**
+      the first taxation year of a foreign affiliate, of a corporation resident in Canada, that is formed as a result of a foreign merger (within the meaning assigned by subsection 87(8.1) of the Act) is deemed to have commenced at the time of the merger, and a taxation year of a predecessor corporation (within the meaning assigned by subsection 5905(3)) that would otherwise have ended after that time is deemed to have ended immediately before that time; and
 
-      **if subsection 91(1.2) of the Act applies at any particular time in respect of a foreign affiliate of a corporation, the various amounts are to be computed, in respect of attributed amounts for the stub period in respect of the particular time, as if**
+      if subsection 91(1.2) of the Act applies at any particular time in respect of a foreign affiliate of a corporation, the various amounts are to be computed, in respect of attributed amounts for the stub period in respect of the particular time, as if
 
       the affiliate's taxation year that would have included the particular time ended at the stub-period end time in respect of the particular time, and
 
       all transactions or events, giving rise to attributed amounts, that occurred at the particular time, occurred at the stub-period end time in respect of the particular time.
 
-    ****(8.1)**** **The following definitions apply in paragraph 5907(8)(b).**
+    **(8.1)** The following definitions apply in paragraph 5907(8)(b).
 
       **attributed amounts**, for a stub period, in respect of a particular time referred to in paragraph (8)(b), of a foreign affiliate of a corporation, means
 
@@ -3182,7 +3180,7 @@ the distribution by BHP Billiton Limited, on May 24, 2015 to its common sharehol
 
 ### Section 6204
 
-      **(1)** For the purposes of subparagraph **110(1)(d)(i.1)** of the Act, a share is a prescribed share of the capital stock of a corporation at the time of its sale or issue, as the case may be, if, at that time,
+      **(1)** For the purposes of subparagraph 110(1)(d)(i.1) of the Act, a share is a prescribed share of the capital stock of a corporation at the time of its sale or issue, as the case may be, if, at that time,
 
   **(2)** Subsection (1) applies in respect of acquisitions of securities and transfers or dispositions of rights that occur after 4:00 pm Eastern Standard Time on March 4, 2010.
 
@@ -3192,7 +3190,7 @@ the distribution by BHP Billiton Limited, on May 24, 2015 to its common sharehol
 
 ### Section 6503
 
-    For the purposes of paragraphs 60(*j.02*) to (*j.04*) of the Act, **subsection 41(5) of the `Canadian Forces Superannuation Act`**, subsections 39(7) and 42(8) of the `Public Service Superannuation Act` and subsection 24(6) of the `Royal Canadian Mounted Police Superannuation Act` are prescribed.
+    For the purposes of paragraphs 60(*j.02*) to (*j.04*) of the Act, subsection 41(5) of the `Canadian Forces Superannuation Act`, subsections 39(7) and 42(8) of the `Public Service Superannuation Act` and subsection 24(6) of the `Royal Canadian Mounted Police Superannuation Act` are prescribed.
 
   **(2)** Subsection (1) applies in respect of repayments made after March 2007.
 
@@ -3208,7 +3206,7 @@ the distribution by BHP Billiton Limited, on May 24, 2015 to its common sharehol
 
   **(1)** Subparagraph 8302(4)(b)(i) of the Regulations is replaced by the following:
 
-    the election may be made only if the life expectancy of the individual is significantly shorter than normal and has been so certified in writing by a medical doctor **or a nurse practitioner** licensed to practise under the laws of a province or of the place where the individual resides, and
+    the election may be made only if the life expectancy of the individual is significantly shorter than normal and has been so certified in writing by a medical doctor or a nurse practitioner licensed to practise under the laws of a province or of the place where the individual resides, and
 
   **(2)** Subsection (1) applies in respect of certifications made after September 7, 2017.
 
@@ -3216,7 +3214,7 @@ the distribution by BHP Billiton Limited, on May 24, 2015 to its common sharehol
 
   **(1)** Clause 8503(3)(a)(v)(A) of the Regulations is replaced by the following:
 
-    **both**
+    both
 
     subparagraph (v.1) does not apply, and
 
@@ -3232,9 +3230,9 @@ the distribution by BHP Billiton Limited, on May 24, 2015 to its common sharehol
 
   **(3)** Paragraphs 8503(4)(e) and (f) of the Regulations are replaced by the following:
 
-    where additional lifetime retirement benefits are provided under the provision to a member because the member is totally and permanently disabled, the additional benefits are not paid before the plan administrator has received from a medical doctor **or a nurse practitioner** who is licensed to practise under the laws of a province or of the place where the member resides a written report providing the information on the medical condition of the member taken into account by the administrator in determining that the member is totally and permanently disabled; and
+    where additional lifetime retirement benefits are provided under the provision to a member because the member is totally and permanently disabled, the additional benefits are not paid before the plan administrator has received from a medical doctor or a nurse practitioner who is licensed to practise under the laws of a province or of the place where the member resides a written report providing the information on the medical condition of the member taken into account by the administrator in determining that the member is totally and permanently disabled; and
 
-    where lifetime retirement benefits are provided under the provision to a member in respect of a period of disability of the member, the benefits, to the extent that they would not be in accordance with paragraph (3)(a) if that paragraph were read without reference to subparagraph (iv) thereof, are not paid before the plan administrator has received from a medical doctor **or a nurse practitioner** who is licensed to practise under the laws of a province or of the place where the member resides a written report providing the information on the medical condition of the member taken into account by the administrator in determining that the period is a period of disability.
+    where lifetime retirement benefits are provided under the provision to a member in respect of a period of disability of the member, the benefits, to the extent that they would not be in accordance with paragraph (3)(a) if that paragraph were read without reference to subparagraph (iv) thereof, are not paid before the plan administrator has received from a medical doctor or a nurse practitioner who is licensed to practise under the laws of a province or of the place where the member resides a written report providing the information on the medical condition of the member taken into account by the administrator in determining that the period is a period of disability.
 
   **(4)** Subsections (1) and (2) apply in respect of transfers of property that occur after 2012.
 
@@ -3244,7 +3242,7 @@ the distribution by BHP Billiton Limited, on May 24, 2015 to its common sharehol
 
   **(1)** Clause 8517(6)(b)(ii)(A) of the Regulations is replaced by the following:
 
-    the election may be made only if the life expectancy of the person is significantly shorter than normal and has been so certified in writing by a medical doctor **or a nurse practitioner** licensed to practise under the laws of a province or of the place where the person resides, and
+    the election may be made only if the life expectancy of the person is significantly shorter than normal and has been so certified in writing by a medical doctor or a nurse practitioner licensed to practise under the laws of a province or of the place where the person resides, and
 
   **(2)** Subsection (1) applies in respect of certifications made after September 7, 2017.
 
@@ -3252,15 +3250,15 @@ the distribution by BHP Billiton Limited, on May 24, 2015 to its common sharehol
 
   **(1)** Subparagraph (d)(iv) of Class 43.1 in Schedule II to the Regulations is replaced by the following:
 
-    heat recovery equipment used by the taxpayer, or by a lessee of the taxpayer, primarily for the purpose of conserving energy, reducing the requirement to acquire energy **or extracting heat for sale**, by extracting for reuse thermal waste that is generated directly in an industrial process (other than an industrial process that generates or processes electrical energy), including such equipment that consists of heat exchange equipment, compressors used to upgrade low pressure steam, vapour or gas, waste heat boilers and other ancillary equipment such as control panels, fans, instruments or pumps, but not including property that is employed in re-using the recovered heat (such as property that is part of the internal heating or cooling system of a building or electrical generating equipment), is a building or is equipment that recovers heat primarily for use for heating water in a swimming pool,
+    heat recovery equipment used by the taxpayer, or by a lessee of the taxpayer, primarily for the purpose of conserving energy, reducing the requirement to acquire energy or extracting heat for sale, by extracting for reuse thermal waste that is generated directly in an industrial process (other than an industrial process that generates or processes electrical energy), including such equipment that consists of heat exchange equipment, compressors used to upgrade low pressure steam, vapour or gas, waste heat boilers and other ancillary equipment such as control panels, fans, instruments or pumps, but not including property that is employed in re-using the recovered heat (such as property that is part of the internal heating or cooling system of a building or electrical generating equipment), is a building or is equipment that recovers heat primarily for use for heating water in a swimming pool,
 
   **(2)** Subparagraph (d)(vii) of Class 43.1 in Schedule II to the Regulations is replaced by the following:
 
-    equipment used by the taxpayer, or by a lessee of the taxpayer, primarily for the purpose of generating electrical energy **or heat energy, or both electrical and heat energy**, solely from geothermal energy, including such equipment that consists of piping (including above or below ground piping and the cost of **completing** a well **(including the wellhead and production string)**, or trenching, for the purpose of installing that piping), pumps, heat exchangers, steam separators, electrical generating equipment and ancillary equipment used to collect the geothermal heat, but not including buildings, distribution equipment, equipment **used to heat water for use in a swimming pool, equipment described in subclause (i)(A)(II)**, property otherwise included in Class 10 and property that would be included in Class 17 if that Class were read without reference to its **paragraph** (a.1),
+    equipment used by the taxpayer, or by a lessee of the taxpayer, primarily for the purpose of generating electrical energy or heat energy, or both electrical and heat energy, solely from geothermal energy, including such equipment that consists of piping (including above or below ground piping and the cost of completing a well (including the wellhead and production string), or trenching, for the purpose of installing that piping), pumps, heat exchangers, steam separators, electrical generating equipment and ancillary equipment used to collect the geothermal heat, but not including buildings, distribution equipment, equipment used to heat water for use in a swimming pool, equipment described in subclause (i)(A)(II), property otherwise included in Class 10 and property that would be included in Class 17 if that Class were read without reference to its paragraph (a.1),
 
   **(3)** Clause (d)(xv)(B) of Class 43.1 in Schedule II to the Regulations is replaced by the following:
 
-    is part of a district energy system that uses thermal energy that is primarily supplied by equipment that is described in subparagraphs (i), (iv), **(vii)** or (ix) or would be described in those subparagraphs if owned by the taxpayer, and
+    is part of a district energy system that uses thermal energy that is primarily supplied by equipment that is described in subparagraphs (i), (iv), (vii) or (ix) or would be described in those subparagraphs if owned by the taxpayer, and
 
   **(4)** Subsection (1) applies to property acquired after March 3, 2010.
 
@@ -3285,15 +3283,15 @@ The reference in subsection 29(14) of the `Regulations Amending the Income Tax R
 
   **(2)** The definition **credit union** in subsection 123(1) of the Act is replaced by the following:
 
-    **credit union** has the meaning assigned by subsection 137(6) of the `Income Tax Act` and includes a corporation described in **paragraph (a) of the definition deposit insurance corporation in subsection 137.1(5)** of that Act; (**caisse de crédit**)
+    **credit union** has the meaning assigned by subsection 137(6) of the `Income Tax Act` and includes a corporation described in paragraph (a) of the definition deposit insurance corporation in subsection 137.1(5) of that Act; (**caisse de crédit**)
 
   **(3)** The definition **coopérative** in subsection 123(1) of the French version of the Act is replaced by the following:
 
-    **coopérative** S'entend d'une coopérative d'habitation ou de toute autre **société** coopérative, au sens du paragraphe 136(2) de la `Loi de l'impôt sur le revenu`. (**cooperative corporation**)
+    **coopérative** S'entend d'une coopérative d'habitation ou de toute autre société coopérative, au sens du paragraphe 136(2) de la `Loi de l'impôt sur le revenu`. (**cooperative corporation**)
 
   **(4)** Paragraph (a) of the definition **pension entity** in subsection 123(1) of the Act is replaced by the following:
 
-    a **trust governed by** the pension plan,
+    a trust governed by the pension plan,
 
   **(5)** Paragraph (a) of the definition **pension plan** in subsection 123(1) of the Act is replaced by the following:
 
@@ -3343,17 +3341,17 @@ The reference in subsection 29(14) of the `Regulations Amending the Income Tax R
 
   **(1)** The portion of subsection 141.01(1.2) of the French version of the Act before paragraph (a) is replaced by the following:
 
-    **(1.2)** Pour l'application du présent article, le montant d'aide — prime, subvention, prêt à remboursement conditionnel ou autre montant semblable — qu'un inscrit reçoit d'une des personnes suivantes et qui n'est pas la contrepartie d'une fourniture, mais qu'il est raisonnable de considérer comme étant accordé en vue de financer une activité de l'inscrit comportant la réalisation de fournitures taxables **sans contrepartie**, est réputé être la contrepartie de ces fournitures :
+    **(1.2)** Pour l'application du présent article, le montant d'aide — prime, subvention, prêt à remboursement conditionnel ou autre montant semblable — qu'un inscrit reçoit d'une des personnes suivantes et qui n'est pas la contrepartie d'une fourniture, mais qu'il est raisonnable de considérer comme étant accordé en vue de financer une activité de l'inscrit comportant la réalisation de fournitures taxables sans contrepartie, est réputé être la contrepartie de ces fournitures :
 
   **(2)** The portion of subsection 141.01(4) of the French version of the Act before paragraph (a) is replaced by the following:
 
-    **(4)** Lorsqu'un fournisseur effectue, dans le cadre de son initiative, la fourniture taxable (appelée « fourniture gratuite » au présent paragraphe) d'un bien ou d'un service **sans contrepartie** ou pour une contrepartie symbolique et qu'il est raisonnable de considérer que la fourniture gratuite a pour objet notamment de faciliter, de favoriser ou de promouvoir soit une initiative, soit l'acquisition, la consommation ou l'utilisation d'autres biens ou services par une autre personne, les présomptions suivantes s'appliquent :
+    **(4)** Lorsqu'un fournisseur effectue, dans le cadre de son initiative, la fourniture taxable (appelée « fourniture gratuite » au présent paragraphe) d'un bien ou d'un service sans contrepartie ou pour une contrepartie symbolique et qu'il est raisonnable de considérer que la fourniture gratuite a pour objet notamment de faciliter, de favoriser ou de promouvoir soit une initiative, soit l'acquisition, la consommation ou l'utilisation d'autres biens ou services par une autre personne, les présomptions suivantes s'appliquent :
 
   **(3)** Subsections 141.01(6) and (7) of the French version of the Act are replaced by the following:
 
-    **(6)** Lorsqu'une présomption de faits ou de circonstances prévue par une disposition de la présente partie, sauf les paragraphes (2) à (4), s'applique à la condition qu'un bien ou un service soit, ou ait été, consommé ou utilisé, ou acquis, importé ou transféré dans une province participante pour consommation ou utilisation, dans une certaine mesure dans le cadre des activités, commerciales ou autres, d'une personne, ou hors de ce cadre, cette mesure est déterminée en conformité avec les paragraphes (2) ou (3) en vue d'établir si la condition est remplie. Toutefois, si cette condition est ainsi remplie et que les autres conditions d'application de la disposition **sont** réunies, la présomption prévue par cette disposition s'applique malgré les paragraphes (2) et (3).
+    **(6)** Lorsqu'une présomption de faits ou de circonstances prévue par une disposition de la présente partie, sauf les paragraphes (2) à (4), s'applique à la condition qu'un bien ou un service soit, ou ait été, consommé ou utilisé, ou acquis, importé ou transféré dans une province participante pour consommation ou utilisation, dans une certaine mesure dans le cadre des activités, commerciales ou autres, d'une personne, ou hors de ce cadre, cette mesure est déterminée en conformité avec les paragraphes (2) ou (3) en vue d'établir si la condition est remplie. Toutefois, si cette condition est ainsi remplie et que les autres conditions d'application de la disposition sont réunies, la présomption prévue par cette disposition s'applique malgré les paragraphes (2) et (3).
 
-    **(7)** Les dispositions de la présente partie portant que la contrepartie d'une fourniture est réputée ne pas en être une, qu'une fourniture est réputée effectuée **sans contrepartie** ou qu'une personne est réputée ne pas avoir effectué une fourniture ne s'appliquent pas aux paragraphes (1) à (4).
+    **(7)** Les dispositions de la présente partie portant que la contrepartie d'une fourniture est réputée ne pas en être une, qu'une fourniture est réputée effectuée sans contrepartie ou qu'une personne est réputée ne pas avoir effectué une fourniture ne s'appliquent pas aux paragraphes (1) à (4).
 
 ### Section 109
 
@@ -3369,13 +3367,13 @@ The reference in subsection 29(14) of the `Regulations Amending the Income Tax R
 
   **(4)** Paragraphs 149(5)(b) to (e) of the French version of the Act are replaced by the following:
 
-    la **société** de placement, au sens de cette loi;
+    la société de placement, au sens de cette loi;
 
-    la **société** de **placement hypothécaire**, au sens de cette loi;
+    la société de placement hypothécaire, au sens de cette loi;
 
-    la **société** de **placement à capital variable**, au sens de cette loi;
+    la société de placement à capital variable, au sens de cette loi;
 
-    la **société** de placement appartenant à des non-résidents, au sens de cette loi;
+    la société de placement appartenant à des non-résidents, au sens de cette loi;
 
   **(5)** Paragraph 149(5)(g) of the Act is replaced by the following:
 
@@ -3391,7 +3389,7 @@ Subsection 155(1) of the French version of the Act is replaced by the following:
 
 ### Section 155
 
-  **(1)** Pour l'application de la présente partie, **les règles ci-après s'appliquent lorsque la** fourniture **d'un bien ou d'un service est** effectuée entre personnes ayant entre elles un lien de dépendance, **sans contrepartie** ou pour une **contrepartie** inférieure à la juste valeur marchande du bien ou du service au moment de la fourniture, et **que** l'acquéreur n'est pas un inscrit qui acquiert le bien ou le service pour le consommer, l'utiliser ou le fournir exclusivement dans le cadre de ses activités commerciales :
+  **(1)** Pour l'application de la présente partie, les règles ci-après s'appliquent lorsque la fourniture d'un bien ou d'un service est effectuée entre personnes ayant entre elles un lien de dépendance, sans contrepartie ou pour une contrepartie inférieure à la juste valeur marchande du bien ou du service au moment de la fourniture, et que l'acquéreur n'est pas un inscrit qui acquiert le bien ou le service pour le consommer, l'utiliser ou le fournir exclusivement dans le cadre de ses activités commerciales :
 
     si la fourniture est effectuée sans contrepartie, la fourniture est réputée être effectuée pour une contrepartie, payée au moment de la fourniture, égale à la juste valeur marchande du bien ou du service à ce moment;
 
@@ -3421,35 +3419,35 @@ Subsection 155(1) of the French version of the Act is replaced by the following:
 
       a supply made in prescribed circumstances or made by a prescribed person.
 
-    **(4)** The persons that have jointly made an election under subsection (2) **or (2.1)** may jointly revoke the election.
+    **(4)** The persons that have jointly made an election under subsection (2) or (2.1) may jointly revoke the election.
 
   **(3)** The portion of subsection 157(5) of the Act before paragraph (a) is replaced by the following:
 
-    **(5)** An election under subsection (2) **or (2.1)** and a revocation of an election under subsection (4) must
+    **(5)** An election under subsection (2) or (2.1) and a revocation of an election under subsection (4) must
 
   **(4)** Subsections 157(6) to (10) of the Act are replaced by the following:
 
-    **(6)** An election made jointly under subsection (2) **or (2.1)** by a **person that is** a participating employer of a pension plan and **by another person that is** a pension entity of the pension plan **or a master pension entity of the pension plan** ceases to have effect on the earliest of
+    **(6)** An election made jointly under subsection (2) or (2.1) by a person that is a participating employer of a pension plan and by another person that is a pension entity of the pension plan or a master pension entity of the pension plan ceases to have effect on the earliest of
 
-      the day on which the **person** ceases to be a participating employer of the pension plan,
+      the day on which the person ceases to be a participating employer of the pension plan,
 
-      the day on which **the other person** ceases to be a pension entity of the pension plan **or a master pension entity of the pension plan, as the case may be**,
+      the day on which the other person ceases to be a pension entity of the pension plan or a master pension entity of the pension plan, as the case may be,
 
-      the day on which a joint revocation of the election **under subsection (4)** becomes effective,
+      the day on which a joint revocation of the election under subsection (4) becomes effective,
 
-      the day specified in a notice of revocation of the election sent to the **person** under subsection (9), and
+      the day specified in a notice of revocation of the election sent to the person under subsection (9), and
 
       in the case of an election under subsection (2.1), the first day of a fiscal year of the other person for which
 
       is the total of all percentages, each of which is a master pension factor in respect of a pension plan of which the person is a participating employer for the fiscal year.
 
-    **(7)** If an election made jointly under subsection (2) **or (2.1)** by a participating employer of a pension plan and **by** a pension entity of the pension plan **or a master pension entity of the pension plan** is in effect at any time in a fiscal year of the participating employer and if the participating employer fails to account for, as and when required under this Part, any tax deemed to have been collected by the participating employer on the last day of the fiscal year under **any of subsections** 172.1(5) **to (6.1)** in respect of the pension plan, the Minister may send a notice in writing (in this section referred to as a "notice of intent") to the participating employer and to the pension entity **or the master pension entity, as the case may be**, that the Minister proposes to revoke the election as of the first day of the fiscal year.
+    **(7)** If an election made jointly under subsection (2) or (2.1) by a participating employer of a pension plan and by a pension entity of the pension plan or a master pension entity of the pension plan is in effect at any time in a fiscal year of the participating employer and if the participating employer fails to account for, as and when required under this Part, any tax deemed to have been collected by the participating employer on the last day of the fiscal year under any of subsections 172.1(5) to (6.1) in respect of the pension plan, the Minister may send a notice in writing (in this section referred to as a "notice of intent") to the participating employer and to the pension entity or the master pension entity, as the case may be, that the Minister proposes to revoke the election as of the first day of the fiscal year.
 
-    **(8)** Upon receipt of a notice of intent, a participating employer must establish to the satisfaction of the Minister that the participating employer did not fail to account for, as and when required under this Part, tax deemed to have been collected by the participating employer under **any of subsections** 172.1(5) **to (6.1)** in respect of the pension plan.
+    **(8)** Upon receipt of a notice of intent, a participating employer must establish to the satisfaction of the Minister that the participating employer did not fail to account for, as and when required under this Part, tax deemed to have been collected by the participating employer under any of subsections 172.1(5) to (6.1) in respect of the pension plan.
 
-    **(9)** If, after 60 days after the day on which the notice of intent was sent by the Minister to the participating employer, the Minister is not satisfied that the participating employer did not fail to account for, as and when required under this Part, tax deemed to have been collected by the participating employer on the last day of a particular fiscal year under **any of subsections** 172.1(5) **to (6.1)** in respect of the pension plan, the Minister may send a notice in writing (in this section referred to as a "notice of revocation") to the participating employer and to the pension entity **or master pension entity** with which the participating employer made the election that the election is revoked as of the day specified in the notice of revocation, and that day is not to be earlier than the day specified in the notice of intent and must be the first day of any particular fiscal year.
+    **(9)** If, after 60 days after the day on which the notice of intent was sent by the Minister to the participating employer, the Minister is not satisfied that the participating employer did not fail to account for, as and when required under this Part, tax deemed to have been collected by the participating employer on the last day of a particular fiscal year under any of subsections 172.1(5) to (6.1) in respect of the pension plan, the Minister may send a notice in writing (in this section referred to as a "notice of revocation") to the participating employer and to the pension entity or master pension entity with which the participating employer made the election that the election is revoked as of the day specified in the notice of revocation, and that day is not to be earlier than the day specified in the notice of intent and must be the first day of any particular fiscal year.
 
-    **(10)** For the purposes of this Part, an election under subsection (2) **or (2.1)** that has been revoked by the Minister under subsection (9) is deemed never to have been in effect on any day on or after the day specified in the notice of revocation.
+    **(10)** For the purposes of this Part, an election under subsection (2) or (2.1) that has been revoked by the Minister under subsection (9) is deemed never to have been in effect on any day on or after the day specified in the notice of revocation.
 
   **(5)** Subsections (1) to (4) apply in respect of supplies made after July 21, 2016, other than
 
@@ -3461,13 +3459,13 @@ Subsection 155(1) of the French version of the Act is replaced by the following:
 
 The portion of subsection 167(1.1) of the French version of the Act before paragraph (a) is replaced by the following:
 
-**(1.1)** **Dans le cas où un fournisseur** et un acquéreur **font conjointement le** choix **prévu** au paragraphe (1) **et que ce dernier, s'il** est un inscrit, présente le choix au ministre au plus tard le jour où il est tenu de produire aux termes de la section V la déclaration visant sa première période de déclaration au cours de laquelle une taxe serait, sans le présent paragraphe, devenue payable relativement à la fourniture d'un bien ou d'un service effectuée aux termes de la convention portant sur la fourniture de l'entreprise ou de la partie d'entreprise visée par le choix, ou à la date ultérieure fixée par le ministre sur demande de l'acquéreur, les règles suivantes s'appliquent :
+**(1.1)** Dans le cas où un fournisseur et un acquéreur font conjointement le choix prévu au paragraphe (1) et que ce dernier, s'il est un inscrit, présente le choix au ministre au plus tard le jour où il est tenu de produire aux termes de la section V la déclaration visant sa première période de déclaration au cours de laquelle une taxe serait, sans le présent paragraphe, devenue payable relativement à la fourniture d'un bien ou d'un service effectuée aux termes de la convention portant sur la fourniture de l'entreprise ou de la partie d'entreprise visée par le choix, ou à la date ultérieure fixée par le ministre sur demande de l'acquéreur, les règles suivantes s'appliquent :
 
 ### Section 113
 
 Subsection 168(9) of the French version of the Act is replaced by the following:
 
-**(9)** Pour l'application du présent article, **un dépôt** (sauf **celui afférent** à une enveloppe ou un contenant auxquels l'article 137 s'applique), **remboursable** ou non, **versé** au titre d'une fourniture **n'est considéré** comme la contrepartie payée à ce titre que lorsque le fournisseur **le** considère ainsi.
+**(9)** Pour l'application du présent article, un dépôt (sauf celui afférent à une enveloppe ou un contenant auxquels l'article 137 s'applique), remboursable ou non, versé au titre d'une fourniture n'est considéré comme la contrepartie payée à ce titre que lorsque le fournisseur le considère ainsi.
 
 ### Section 114
 
@@ -3475,7 +3473,7 @@ Subsection 168(9) of the French version of the Act is replaced by the following:
 
 ### Section 172.1
 
-      **(1)** The following definitions apply in this section **and in section 172.2**.
+      **(1)** The following definitions apply in this section and in section 172.2.
 
   **(2)** The definition **excluded activity** in subsection 172.1(1) of the Act is replaced by the following:
 
@@ -3483,13 +3481,13 @@ Subsection 168(9) of the French version of the Act is replaced by the following:
 
     for compliance by a participating employer of the pension plan as an issuer, or prospective issuer, of securities with reporting requirements under a law of Canada or of a province in respect of the regulation of securities;
 
-    **for** evaluating the feasibility or financial impact on a participating employer of the pension plan of establishing, altering or winding-up the pension plan, other than an activity that relates to the preparation of an actuarial report in respect of the plan required under a law of Canada or of a province;
+    for evaluating the feasibility or financial impact on a participating employer of the pension plan of establishing, altering or winding-up the pension plan, other than an activity that relates to the preparation of an actuarial report in respect of the plan required under a law of Canada or of a province;
 
-    **for** evaluating the financial impact of the pension plan on the assets and liabilities of a participating employer of the pension plan;
+    for evaluating the financial impact of the pension plan on the assets and liabilities of a participating employer of the pension plan;
 
-    **for** negotiating changes to the benefits under the pension plan with a union or similar organization of employees;
+    for negotiating changes to the benefits under the pension plan with a union or similar organization of employees;
 
-    if the pension plan is a pooled registered pension plan, **for** compliance by a participating employer of the pension plan as a PRPP administrator of the pension plan with requirements under the `Pooled Registered Pension Plans Act` or a similar law of a province, provided the activity is undertaken exclusively for the purpose of making a taxable supply of a service to a pension entity of the pension plan that is to be made
+    if the pension plan is a pooled registered pension plan, for compliance by a participating employer of the pension plan as a PRPP administrator of the pension plan with requirements under the `Pooled Registered Pension Plans Act` or a similar law of a province, provided the activity is undertaken exclusively for the purpose of making a taxable supply of a service to a pension entity of the pension plan that is to be made
 
     for consideration that is not less than the fair market value of the service, and
 
@@ -3497,21 +3495,21 @@ Subsection 168(9) of the French version of the Act is replaced by the following:
 
     in relation to a part of the pension plan that is a defined contribution pension plan or that is a defined benefits pension plan, if no pension entity of the pension plan administers that part of the pension plan or holds assets in respect of that part of the pension plan; or
 
-    **for** prescribed purposes. (**activité exclue**)
+    for prescribed purposes. (**activité exclue**)
 
   **(3)** Paragraphs (a) and (b) of the definition **pension activity** in subsection 172.1(1) of the Act are replaced by the following:
 
-    the establishment, management or administration of the pension plan or **of** a pension entity **or master pension entity** of the pension plan; or
+    the establishment, management or administration of the pension plan or of a pension entity or master pension entity of the pension plan; or
 
-    the management or administration of assets in respect of the pension plan, **including assets held by a pension entity or master pension entity of the pension plan**. (**activité de pension**)
+    the management or administration of assets in respect of the pension plan, including assets held by a pension entity or master pension entity of the pension plan. (**activité de pension**)
 
   **(4)** Paragraphs (a) to (c) of the definition **specified supply** in subsection 172.1(1) of the Act are replaced by the following:
 
-    a taxable supply deemed to have been made under subsection (5) **or (5.1)** of all or part of property or a service that the participating employer acquired for the purpose of making a supply of all or part of the property or service to a pension entity **or master pension entity** of the pension plan;
+    a taxable supply deemed to have been made under subsection (5) or (5.1) of all or part of property or a service that the participating employer acquired for the purpose of making a supply of all or part of the property or service to a pension entity or master pension entity of the pension plan;
 
-    a taxable supply deemed to have been made under subsection (6) **or (6.1)** of an employer resource of the participating employer that the participating employer consumed or used for the purpose of making a supply of property or a service to a pension entity **or master pension entity** of the pension plan; or
+    a taxable supply deemed to have been made under subsection (6) or (6.1) of an employer resource of the participating employer that the participating employer consumed or used for the purpose of making a supply of property or a service to a pension entity or master pension entity of the pension plan; or
 
-    a taxable supply deemed to have been made under subsection (7) **or (7.1)** of an employer resource of the participating employer that the participating employer consumed or used in the course of pension activities in respect of the pension plan. (**fourniture déterminée**)
+    a taxable supply deemed to have been made under subsection (7) or (7.1) of an employer resource of the participating employer that the participating employer consumed or used in the course of pension activities in respect of the pension plan. (**fourniture déterminée**)
 
   **(5)** Subsection 172.1(1) of the Act is amended by adding the following in alphabetical order:
 
@@ -3529,15 +3527,15 @@ Subsection 168(9) of the French version of the Act is replaced by the following:
 
   **(6)** Paragraph 172.1(2)(a) of the Act is replaced by the following:
 
-    for each pension entity **and master pension entity** of the pension plan, no tax would become payable under this Part in respect of the supply if
+    for each pension entity and master pension entity of the pension plan, no tax would become payable under this Part in respect of the supply if
 
-    the supply were made by the other person to the pension entity **or to the master pension entity, as the case may be**, and not to the particular person, and
+    the supply were made by the other person to the pension entity or to the master pension entity, as the case may be, and not to the particular person, and
 
-    the pension entity **or the master pension entity, as the case may be**, and the other person were dealing at arm's length; and
+    the pension entity or the master pension entity, as the case may be, and the other person were dealing at arm's length; and
 
   **(7)** The portion of subsection 172.1(4) of the Act before paragraph (a) is replaced by the following:
 
-    **(4)** **For the purposes of this section**, if a person is a participating employer of a pension plan and the pension plan has,
+    **(4)** For the purposes of this section, if a person is a participating employer of a pension plan and the pension plan has,
 
   **(8)** The portion of subsection 172.1(5) of the Act before paragraph (a) is replaced by the following:
 
@@ -3545,13 +3543,13 @@ Subsection 168(9) of the French version of the Act is replaced by the following:
 
   **(9)** Subparagraph 172.1(5)(d)(ii) of the Act is replaced by the following:
 
-    to have paid tax in respect of that supply on that day equal to **the amount determined by the formula**
+    to have paid tax in respect of that supply on that day equal to the amount determined by the formula
 
     is
 
     if the pension entity is a selected listed financial institution on that day, the amount determined for A in paragraph (c), and
 
-    in any other case, the amount of tax determined under paragraph (c), **and**
+    in any other case, the amount of tax determined under paragraph (c), and
 
     is the total of all amounts, each of which is a part of the amount determined for A
 
@@ -3607,13 +3605,13 @@ Subsection 168(9) of the French version of the Act is replaced by the following:
 
   **(11)** Subparagraph 172.1(6)(d)(ii) of the Act is replaced by the following:
 
-    to have paid tax in respect of that supply on that day equal to **the amount determined by the formula**
+    to have paid tax in respect of that supply on that day equal to the amount determined by the formula
 
     is
 
     if the pension entity is a selected listed financial institution on that day, the amount determined for A in paragraph (c), and
 
-    in any other case, the amount of tax determined under paragraph (c), **and**
+    in any other case, the amount of tax determined under paragraph (c), and
 
     is the total of all amounts, each of which is a part of the amount determined for A
 
@@ -3673,7 +3671,7 @@ Subsection 168(9) of the French version of the Act is replaced by the following:
 
   **(13)** The portion of subsection 172.1(7) of the Act before paragraph (a) is replaced by the following:
 
-    **(7)** If a person is both a registrant and a participating employer of a pension plan at any time in a particular fiscal year of the person and is not a qualifying employer of the pension plan at that time, if the person consumes or uses at that time an employer resource of the person in the course of pension activities in respect of the pension plan (**other than the establishment, management or administration of a master pension entity of the pension plan and the management or administration of assets in respect of the pension plan that are held by a master pension entity of the pension plan**), if the employer resource is not an excluded resource of the person in respect of the pension plan and if subsection (6) does not apply to that consumption or use, the following rules apply:
+    **(7)** If a person is both a registrant and a participating employer of a pension plan at any time in a particular fiscal year of the person and is not a qualifying employer of the pension plan at that time, if the person consumes or uses at that time an employer resource of the person in the course of pension activities in respect of the pension plan (other than the establishment, management or administration of a master pension entity of the pension plan and the management or administration of assets in respect of the pension plan that are held by a master pension entity of the pension plan), if the employer resource is not an excluded resource of the person in respect of the pension plan and if subsection (6) does not apply to that consumption or use, the following rules apply:
 
   **(14)** The portion of subsection 172.1(7) of the Act before paragraph (a), as enacted by subsection (13), is replaced by the following:
 
@@ -3681,13 +3679,13 @@ Subsection 168(9) of the French version of the Act is replaced by the following:
 
   **(15)** Paragraph 172.1(7)(d) of the Act is replaced by the following:
 
-    for the purposes of determining, under section 261.01, an eligible amount of the specified pension entity of the pension plan in respect of the person for the particular fiscal year, the specified pension entity is deemed to have paid tax on the last day of the particular fiscal year equal to **the amount determined by the formula**
+    for the purposes of determining, under section 261.01, an eligible amount of the specified pension entity of the pension plan in respect of the person for the particular fiscal year, the specified pension entity is deemed to have paid tax on the last day of the particular fiscal year equal to the amount determined by the formula
 
     is
 
     if the specified pension entity is a selected listed financial institution on that day, the amount determined for A in paragraph (c), and
 
-    in any other case, the amount of tax determined under paragraph (c), **and**
+    in any other case, the amount of tax determined under paragraph (c), and
 
     is the total of all amounts, each of which is a part of the amount determined for A
 
@@ -3727,7 +3725,7 @@ Subsection 168(9) of the French version of the Act is replaced by the following:
 
       for each pension plan in the master pension group, the specified pension entity of the pension plan is deemed — for the purposes of determining, under section 261.01, an eligible amount of the specified pension entity of the pension plan in respect of the person for the particular fiscal year — to have paid tax on the last day of the particular fiscal year equal to the amount determined by the formula
 
-      **is**
+      is
 
       if the specified pension entity is a selected listed financial institution on that day, the amount determined for the pension plan under the description of A in paragraph (c), and
 
@@ -3739,59 +3737,59 @@ Subsection 168(9) of the French version of the Act is replaced by the following:
 
       that the person has recovered or is entitled to recover by way of rebate, refund or remission, or otherwise, under this or any other Act of Parliament.
 
-    **(8)** If **any of subsections** (5) **to (7.1)** applies in respect of a person that is a participating employer of a pension plan, the person shall, in prescribed form and in a manner satisfactory to the Minister, provide prescribed information to the pension entity of the pension plan that is deemed to have paid tax under that subsection.
+    **(8)** If any of subsections (5) to (7.1) applies in respect of a person that is a participating employer of a pension plan, the person shall, in prescribed form and in a manner satisfactory to the Minister, provide prescribed information to the pension entity of the pension plan that is deemed to have paid tax under that subsection.
 
     **(8.1)** A master pension entity of a pension plan shall, in a manner satisfactory to the Minister, provide the master pension factor in respect of the pension plan for a fiscal year of the master pension entity, and any other information that the Minister may specify, to each participating employer of the pension plan on or before the day that is 30 days after the first day of the fiscal year.
 
   **(17)** The portion of subsection 172.1(9) of the Act before the formula is replaced by the following:
 
-    **(9)** For the purposes of this section, a particular participating employer of a pension plan is a selected qualifying employer of the pension plan for a particular fiscal year of the particular participating employer if no election under subsection 157(2) made jointly by the particular participating employer and a pension entity of the pension plan is in effect in the particular fiscal year, **if no election under subsection 157(2.1) made jointly by the particular participating employer and a master pension entity of the pension plan is in effect in the particular fiscal year**, if the particular participating employer did not become a participating employer of the pension plan in the particular fiscal year, if the amount determined for A in the following formula is less than $5,000 and if the amount (expressed as a percentage) determined by the following formula is less than 10%:
+    **(9)** For the purposes of this section, a particular participating employer of a pension plan is a selected qualifying employer of the pension plan for a particular fiscal year of the particular participating employer if no election under subsection 157(2) made jointly by the particular participating employer and a pension entity of the pension plan is in effect in the particular fiscal year, if no election under subsection 157(2.1) made jointly by the particular participating employer and a master pension entity of the pension plan is in effect in the particular fiscal year, if the particular participating employer did not become a participating employer of the pension plan in the particular fiscal year, if the amount determined for A in the following formula is less than $5,000 and if the amount (expressed as a percentage) determined by the following formula is less than 10%:
 
   **(18)** Paragraphs (a) to (f) of the description of A in subsection 172.1(9) of the Act are replaced by the following:
 
-    an amount of tax deemed to have been collected under **any of subsections** (5) **to (7.1)** by the particular participating employer in respect of a specified supply of the particular participating employer to the pension plan during the fiscal year (in this subsection referred to as the "preceding fiscal year") of the particular participating employer preceding the particular fiscal year less the amount, if any, determined for B under paragraph (c) **of** whichever **of those subsections** is applicable in determining that amount of tax,
+    an amount of tax deemed to have been collected under any of subsections (5) to (7.1) by the particular participating employer in respect of a specified supply of the particular participating employer to the pension plan during the fiscal year (in this subsection referred to as the "preceding fiscal year") of the particular participating employer preceding the particular fiscal year less the amount, if any, determined for B under paragraph (c) of whichever of those subsections is applicable in determining that amount of tax,
 
-    if the particular participating employer is a selected qualifying employer of the pension plan for the preceding fiscal year, an amount of tax that would have been deemed to have been collected under **any of subsections** (5) **to (6.1)** by the particular participating employer during the preceding fiscal year in respect of a supply that would have been deemed to have been made under **whichever of those subsections is applicable** and that would be a specified supply of the particular participating employer to the pension plan, if the particular participating employer were not a selected qualifying employer, less the amount, if any, that would be determined for B under paragraph (c) **of** whichever **of those subsections** is applicable in determining that amount of tax,
+    if the particular participating employer is a selected qualifying employer of the pension plan for the preceding fiscal year, an amount of tax that would have been deemed to have been collected under any of subsections (5) to (6.1) by the particular participating employer during the preceding fiscal year in respect of a supply that would have been deemed to have been made under whichever of those subsections is applicable and that would be a specified supply of the particular participating employer to the pension plan, if the particular participating employer were not a selected qualifying employer, less the amount, if any, that would be determined for B under paragraph (c) of whichever of those subsections is applicable in determining that amount of tax,
 
-    if the particular participating employer is a qualifying employer of the pension plan for the preceding fiscal year, an amount of tax that would have been deemed to have been collected under subsection (7) **or (7.1)** by the particular participating employer during the preceding fiscal year in respect of a supply that would have been deemed to have been made under **whichever of those subsections is applicable** and that would be a specified supply of the particular participating employer to the pension plan, if the particular participating employer were not a qualifying employer, less the amount, if any, that would be determined for B under paragraph (c) **of whichever of those subsections is applicable** in determining that amount of tax,
+    if the particular participating employer is a qualifying employer of the pension plan for the preceding fiscal year, an amount of tax that would have been deemed to have been collected under subsection (7) or (7.1) by the particular participating employer during the preceding fiscal year in respect of a supply that would have been deemed to have been made under whichever of those subsections is applicable and that would be a specified supply of the particular participating employer to the pension plan, if the particular participating employer were not a qualifying employer, less the amount, if any, that would be determined for B under paragraph (c) of whichever of those subsections is applicable in determining that amount of tax,
 
-    an amount of tax deemed to have been collected under **any of subsections** (5) **to (7.1)** by another participating employer of the pension plan in respect of a specified supply of the other participating employer to the pension plan during a fiscal year of the other participating employer that ends in the preceding fiscal year, provided that the other participating employer is related at any time in the preceding fiscal year to the particular participating employer, less the amount, if any, determined for B under paragraph (c) **of** whichever **of those subsections** is applicable in determining that amount of tax,
+    an amount of tax deemed to have been collected under any of subsections (5) to (7.1) by another participating employer of the pension plan in respect of a specified supply of the other participating employer to the pension plan during a fiscal year of the other participating employer that ends in the preceding fiscal year, provided that the other participating employer is related at any time in the preceding fiscal year to the particular participating employer, less the amount, if any, determined for B under paragraph (c) of whichever of those subsections is applicable in determining that amount of tax,
 
-    an amount of tax that would have been deemed to have been collected under **any of subsections** (5) **to (6.1)** by another participating employer of the pension plan during a fiscal year of the other participating employer that ends in the preceding fiscal year in respect of a supply that would have been deemed to have been made under **whichever of those subsections is applicable** and that would be a specified supply of the other participating employer to the pension plan if the other participating employer were not a selected qualifying employer, provided that the other participating employer is related at any time in the preceding fiscal year to the particular participating employer and is a selected qualifying employer of the pension plan for that fiscal year of the other participating employer, less the amount, if any, that would be determined for B under paragraph (c) **of** whichever **of those subsections** is applicable in determining that amount of tax, or
+    an amount of tax that would have been deemed to have been collected under any of subsections (5) to (6.1) by another participating employer of the pension plan during a fiscal year of the other participating employer that ends in the preceding fiscal year in respect of a supply that would have been deemed to have been made under whichever of those subsections is applicable and that would be a specified supply of the other participating employer to the pension plan if the other participating employer were not a selected qualifying employer, provided that the other participating employer is related at any time in the preceding fiscal year to the particular participating employer and is a selected qualifying employer of the pension plan for that fiscal year of the other participating employer, less the amount, if any, that would be determined for B under paragraph (c) of whichever of those subsections is applicable in determining that amount of tax, or
 
-    an amount of tax that would have been deemed to have been collected under subsection (7) **or (7.1)** by another participating employer of the pension plan during a fiscal year of the other participating employer that ends in the preceding fiscal year in respect of a supply that would have been deemed to have been made under **whichever of those subsections is applicable** and that would be a specified supply of the other participating employer to the pension plan if the other participating employer were not a qualifying employer, provided that the other participating employer is related at any time in the preceding fiscal year to the particular participating employer and is a qualifying employer of the pension plan for that fiscal year of the other participating employer, less the amount, if any, that would be determined for B under paragraph (c) **of whichever of those subsections is applicable** in determining that amount of tax;
+    an amount of tax that would have been deemed to have been collected under subsection (7) or (7.1) by another participating employer of the pension plan during a fiscal year of the other participating employer that ends in the preceding fiscal year in respect of a supply that would have been deemed to have been made under whichever of those subsections is applicable and that would be a specified supply of the other participating employer to the pension plan if the other participating employer were not a qualifying employer, provided that the other participating employer is related at any time in the preceding fiscal year to the particular participating employer and is a qualifying employer of the pension plan for that fiscal year of the other participating employer, less the amount, if any, that would be determined for B under paragraph (c) of whichever of those subsections is applicable in determining that amount of tax;
 
   **(19)** Paragraph (b) of the description of B in subsection 172.1(9) of the Act is replaced by the following:
 
-    an amount of tax deemed to have been collected under **any of subsections** (5) **to (7.1)** by a participating employer of the pension plan, including the particular participating employer, during a fiscal year of the participating employer that ends in the preceding fiscal year in respect of a specified supply of the participating employer to the pension plan less the amount, if any, determined for B under paragraph (c) **of** whichever **of those subsections** is applicable in determining that amount of tax, or
+    an amount of tax deemed to have been collected under any of subsections (5) to (7.1) by a participating employer of the pension plan, including the particular participating employer, during a fiscal year of the participating employer that ends in the preceding fiscal year in respect of a specified supply of the participating employer to the pension plan less the amount, if any, determined for B under paragraph (c) of whichever of those subsections is applicable in determining that amount of tax, or
 
   **(20)** Paragraph (b) of the description of C in subsection 172.1(9) of the Act is replaced by the following:
 
-    a recoverable amount (as defined in subsection 261.01(1)) of a pension entity of the pension plan in respect of a claim period ending in a fiscal year of the pension entity that ends in the preceding fiscal year but only to the extent that the recoverable amount is in respect of an amount determined for A under paragraph (c) **of** whichever **of subsections (5) to (7.1)** is applicable in determining an amount of tax deemed to have been paid by the pension entity under this section for the purposes of section 261.01.
+    a recoverable amount (as defined in subsection 261.01(1)) of a pension entity of the pension plan in respect of a claim period ending in a fiscal year of the pension entity that ends in the preceding fiscal year but only to the extent that the recoverable amount is in respect of an amount determined for A under paragraph (c) of whichever of subsections (5) to (7.1) is applicable in determining an amount of tax deemed to have been paid by the pension entity under this section for the purposes of section 261.01.
 
   **(21)** Paragraphs (a) to (d) of the description of A in subsection 172.1(10) of the Act are replaced by the following:
 
-    an amount of tax deemed to have been collected under subsection (7) **or (7.1)** by the particular participating employer in respect of a specified supply of the particular participating employer to the pension plan during the fiscal year (in this subsection referred to as the "preceding fiscal year") of the particular participating employer preceding the particular fiscal year less the amount, if any, determined for B under paragraph (c) **of whichever of those subsections is applicable** in determining that amount of tax,
+    an amount of tax deemed to have been collected under subsection (7) or (7.1) by the particular participating employer in respect of a specified supply of the particular participating employer to the pension plan during the fiscal year (in this subsection referred to as the "preceding fiscal year") of the particular participating employer preceding the particular fiscal year less the amount, if any, determined for B under paragraph (c) of whichever of those subsections is applicable in determining that amount of tax,
 
-    if the particular participating employer is a qualifying employer of the pension plan for the preceding fiscal year, an amount of tax that would have been deemed to have been collected under subsection (7) **or (7.1)** by the particular participating employer during the preceding fiscal year in respect of a supply that would have been deemed to have been made under **whichever of those subsections is applicable** and that would be a specified supply of the particular participating employer to the pension plan, if the particular participating employer were not a qualifying employer, less the amount, if any, that would be determined for B under paragraph (c) **of whichever of those subsections is applicable** in determining that amount of tax,
+    if the particular participating employer is a qualifying employer of the pension plan for the preceding fiscal year, an amount of tax that would have been deemed to have been collected under subsection (7) or (7.1) by the particular participating employer during the preceding fiscal year in respect of a supply that would have been deemed to have been made under whichever of those subsections is applicable and that would be a specified supply of the particular participating employer to the pension plan, if the particular participating employer were not a qualifying employer, less the amount, if any, that would be determined for B under paragraph (c) of whichever of those subsections is applicable in determining that amount of tax,
 
-    an amount of tax deemed to have been collected under subsection (7) **or (7.1)** by another participating employer of the pension plan in respect of a specified supply of the other participating employer to the pension plan during a fiscal year of the other participating employer that ends in the preceding fiscal year, provided that the other participating employer is related at any time in the preceding fiscal year to the particular participating employer, less the amount, if any, determined for B under paragraph (c) **of whichever of those subsections is applicable** in determining that amount of tax, or
+    an amount of tax deemed to have been collected under subsection (7) or (7.1) by another participating employer of the pension plan in respect of a specified supply of the other participating employer to the pension plan during a fiscal year of the other participating employer that ends in the preceding fiscal year, provided that the other participating employer is related at any time in the preceding fiscal year to the particular participating employer, less the amount, if any, determined for B under paragraph (c) of whichever of those subsections is applicable in determining that amount of tax, or
 
-    an amount of tax that would have been deemed to have been collected under subsection (7) **or (7.1)** by another participating employer of the pension plan during a fiscal year of the other participating employer that ends in the preceding fiscal year in respect of a supply that would have been deemed to have been made under **whichever of those subsections is applicable** and that would be a specified supply of the other participating employer to the pension plan if the other participating employer were not a qualifying employer, provided that the other participating employer is related at any time in the preceding fiscal year to the particular participating employer and is a qualifying employer of the pension plan for that fiscal year of the other participating employer, less the amount, if any, that would be determined for B under paragraph (c) **of whichever of those subsections is applicable** in determining that amount of tax;
+    an amount of tax that would have been deemed to have been collected under subsection (7) or (7.1) by another participating employer of the pension plan during a fiscal year of the other participating employer that ends in the preceding fiscal year in respect of a supply that would have been deemed to have been made under whichever of those subsections is applicable and that would be a specified supply of the other participating employer to the pension plan if the other participating employer were not a qualifying employer, provided that the other participating employer is related at any time in the preceding fiscal year to the particular participating employer and is a qualifying employer of the pension plan for that fiscal year of the other participating employer, less the amount, if any, that would be determined for B under paragraph (c) of whichever of those subsections is applicable in determining that amount of tax;
 
   **(22)** Paragraph (b) of the description of B in subsection 172.1(10) of the Act is replaced by the following:
 
-    an amount of tax deemed to have been collected under **any of subsections** (5) **to (7.1)** by a participating employer of the pension plan, including the particular participating employer, during a fiscal year of the participating employer that ends in the preceding fiscal year in respect of a specified supply of the participating employer to the pension plan less the amount, if any, determined for B under paragraph (c) **of** whichever **of those subsections** is applicable in determining that amount of tax, or
+    an amount of tax deemed to have been collected under any of subsections (5) to (7.1) by a participating employer of the pension plan, including the particular participating employer, during a fiscal year of the participating employer that ends in the preceding fiscal year in respect of a specified supply of the participating employer to the pension plan less the amount, if any, determined for B under paragraph (c) of whichever of those subsections is applicable in determining that amount of tax, or
 
   **(23)** Paragraph (b) of the description of C in subsection 172.1(10) of the Act is replaced by the following:
 
-    a recoverable amount (as defined in subsection 261.01(1)) of a pension entity of the pension plan in respect of a claim period ending in a fiscal year of the pension entity that ends in the preceding fiscal year but only to the extent that the recoverable amount is in respect of an amount determined for A under paragraph (c) **of** whichever **of subsections (5) to (7.1)** is applicable in determining an amount of tax deemed to have been paid by the pension entity under this section for the purposes of section 261.01.
+    a recoverable amount (as defined in subsection 261.01(1)) of a pension entity of the pension plan in respect of a claim period ending in a fiscal year of the pension entity that ends in the preceding fiscal year but only to the extent that the recoverable amount is in respect of an amount determined for A under paragraph (c) of whichever of subsections (5) to (7.1) is applicable in determining an amount of tax deemed to have been paid by the pension entity under this section for the purposes of section 261.01.
 
   **(24)** Paragraphs 172.1(12)(b) and (c) of the Act are replaced by the following:
 
-    any amount of tax deemed to have been collected under any of subsections (5) **to (7.1)** by a predecessor, or that would have been deemed to have been collected under any of those subsections if the predecessor were neither a selected qualifying employer nor a qualifying employer, at any time during the period of 365 days preceding the first fiscal year of the new corporation is deemed to have been collected under the same subsection by the new corporation, and not by a predecessor, on the last day of the prior fiscal year of the new corporation;
+    any amount of tax deemed to have been collected under any of subsections (5) to (7.1) by a predecessor, or that would have been deemed to have been collected under any of those subsections if the predecessor were neither a selected qualifying employer nor a qualifying employer, at any time during the period of 365 days preceding the first fiscal year of the new corporation is deemed to have been collected under the same subsection by the new corporation, and not by a predecessor, on the last day of the prior fiscal year of the new corporation;
 
-    any specified supply of a predecessor to the pension plan in respect of a taxable supply deemed to have been made under any of subsections (5) **to (7.1)**, or that would have been deemed to have been made under any of those subsections if the predecessor were neither a selected qualifying employer nor a qualifying employer, at any time during the period of 365 days preceding the first fiscal year of the new corporation is deemed to be a specified supply of the new corporation to the pension plan and not of the predecessor; and
+    any specified supply of a predecessor to the pension plan in respect of a taxable supply deemed to have been made under any of subsections (5) to (7.1), or that would have been deemed to have been made under any of those subsections if the predecessor were neither a selected qualifying employer nor a qualifying employer, at any time during the period of 365 days preceding the first fiscal year of the new corporation is deemed to be a specified supply of the new corporation to the pension plan and not of the predecessor; and
 
   **(25)** Subsections (1), (3) and (4) and the definitions **master pension group** and **specified resource**, as enacted by subsection (5), are deemed to have come into force on July 22, 2016.
 
@@ -3883,49 +3881,49 @@ Subsection 168(9) of the French version of the Act is replaced by the following:
 
 Paragraph 178(18)(c) of the French version of the Act is replaced by the following:
 
-la fourniture est effectuée **sans contrepartie** ou pour une contrepartie inférieure à la juste valeur marchande du bien ou du service,
+la fourniture est effectuée sans contrepartie ou pour une contrepartie inférieure à la juste valeur marchande du bien ou du service,
 
 ### Section 117
 
 Subparagraphs 178.3(4)(b)(ii) and (iii) of the French version of the Act are replaced by the following:
 
-fournit le produit à une personne autre qu'un entrepreneur indépendant du démarcheur pour une contrepartie non **symbolique** mais inférieure à son prix de vente au détail suggéré au moment donné et sur laquelle est calculée la taxe payée par la personne,
+fournit le produit à une personne autre qu'un entrepreneur indépendant du démarcheur pour une contrepartie non symbolique mais inférieure à son prix de vente au détail suggéré au moment donné et sur laquelle est calculée la taxe payée par la personne,
 
-fournit le produit à une personne autre qu'un entrepreneur indépendant du démarcheur **sans contrepartie** ou pour une contrepartie **symbolique** ou réserve le produit pour sa consommation ou son utilisation personnelles;
+fournit le produit à une personne autre qu'un entrepreneur indépendant du démarcheur sans contrepartie ou pour une contrepartie symbolique ou réserve le produit pour sa consommation ou son utilisation personnelles;
 
 ### Section 118
 
 Subparagraphs 178.4(4)(b)(ii) and (iii) of the French version of the Act are replaced by the following:
 
-fournit le produit à une personne autre qu'un entrepreneur indépendant du démarcheur pour une contrepartie non **symbolique** mais inférieure à son prix de vente au détail suggéré au moment donné et sur laquelle est calculée la taxe payée par la personne,
+fournit le produit à une personne autre qu'un entrepreneur indépendant du démarcheur pour une contrepartie non symbolique mais inférieure à son prix de vente au détail suggéré au moment donné et sur laquelle est calculée la taxe payée par la personne,
 
-fournit le produit à une personne autre qu'un entrepreneur indépendant du démarcheur **sans contrepartie** ou pour une contrepartie **symbolique** ou réserve le produit pour sa consommation ou son utilisation personnelles;
+fournit le produit à une personne autre qu'un entrepreneur indépendant du démarcheur sans contrepartie ou pour une contrepartie symbolique ou réserve le produit pour sa consommation ou son utilisation personnelles;
 
 ### Section 119
 
 Paragraph 178.5(8)(a) of the French version of the Act is replaced by the following:
 
-la fourniture est effectuée **sans contrepartie** ou pour une contrepartie inférieure à la juste valeur marchande du bien ou du service;
+la fourniture est effectuée sans contrepartie ou pour une contrepartie inférieure à la juste valeur marchande du bien ou du service;
 
 ### Section 120
 
 Paragraph 178.6(5)(d) of the English version of the Act is replaced by the following:
 
-**despite** paragraph (c), the person and the ultimate recipient are jointly and severally, **or solidarily**, liable for the payment of the tax in respect of the supply made by the original supplier; and
+despite paragraph (c), the person and the ultimate recipient are jointly and severally, or solidarily, liable for the payment of the tax in respect of the supply made by the original supplier; and
 
 ### Section 121
 
   **(1)** Subparagraph 179(1)(a)(i) of the Act is replaced by the following:
 
-    makes a taxable supply in Canada of tangible personal property by way of sale, or a taxable supply in Canada of a service of manufacturing or producing tangible personal property, to the non-resident person, or acquires physical possession of tangible personal property (other than property of a person **that** is resident in Canada) for the purpose of making a taxable supply **in Canada** of a commercial service in respect of the property to the non-resident person, and
+    makes a taxable supply in Canada of tangible personal property by way of sale, or a taxable supply in Canada of a service of manufacturing or producing tangible personal property, to the non-resident person, or acquires physical possession of tangible personal property (other than property of a person that is resident in Canada) for the purpose of making a taxable supply in Canada of a commercial service in respect of the property to the non-resident person, and
 
   **(2)** Paragraph 179(1)(c) of the Act is replaced by the following:
 
-    the registrant is deemed to have made a taxable supply **in Canada** of the property to the non-resident person and the non-resident person is deemed to have received **that supply** from the registrant,
+    the registrant is deemed to have made a taxable supply in Canada of the property to the non-resident person and the non-resident person is deemed to have received that supply from the registrant,
 
   **(3)** Subparagraph 179(2)(a)(i) of the Act is replaced by the following:
 
-    makes a taxable supply in Canada of tangible personal property by way of sale, or a taxable supply in Canada of a service of manufacturing or producing tangible personal property, to the non-resident person, or acquires physical possession of tangible personal property (other than property of a person **that** is resident in Canada) for the purpose of making a taxable supply **in Canada** of a commercial service in respect of the property to the non-resident person, and
+    makes a taxable supply in Canada of tangible personal property by way of sale, or a taxable supply in Canada of a service of manufacturing or producing tangible personal property, to the non-resident person, or acquires physical possession of tangible personal property (other than property of a person that is resident in Canada) for the purpose of making a taxable supply in Canada of a commercial service in respect of the property to the non-resident person, and
 
   **(4)** Subsection 179(2) of the Act is amended by striking out "and" at the end of paragraph (b) and by replacing paragraph (c) with the following:
 
@@ -3955,7 +3953,7 @@ Paragraph 178.6(5)(d) of the English version of the Act is replaced by the follo
 
     acknowledges that the consignee, on taking physical possession of the property, is assuming liability to pay or remit any amount that is or may become payable or remittable by the consignee
 
-    under Division IV in respect of the property, **or**
+    under Division IV in respect of the property, or
 
     under this Part in respect of a supply, deemed under paragraph (1)(c) to have been made by the consignee, of the property or of the other tangible personal property referred to in either of subparagraphs (b.1)(ii) or (iv),
 
@@ -4019,29 +4017,29 @@ Paragraph 178.6(5)(d) of the English version of the Act is replaced by the follo
 
   **(7)** Subparagraph 179(3)(a)(iii) of the Act is replaced by the following:
 
-    acquires physical possession of tangible personal property (other than property of a person **that** is resident in Canada) for the purpose of making a taxable supply **in Canada** of a commercial service in respect of the property to the non-resident person,
+    acquires physical possession of tangible personal property (other than property of a person that is resident in Canada) for the purpose of making a taxable supply in Canada of a commercial service in respect of the property to the non-resident person,
 
   **(8)** The portion of subsection 179(4) of the Act before paragraph (a) is replaced by the following:
 
-    **(4)** For the purposes of this section, section 180 and the definition imported taxable supply in section 217, **if**
+    **(4)** For the purposes of this section, section 180 and the definition imported taxable supply in section 217, if
 
   **(9)** Subparagraph 179(4)(b)(i) of the English version of the Act is replaced by the following:
 
-    transferring physical possession of the property to the non-resident person, a person (in this **subsection** referred to as a "subsequent purchaser") **that** subsequently acquires ownership of the property or a person designated by the non-resident person or a subsequent purchaser,
+    transferring physical possession of the property to the non-resident person, a person (in this subsection referred to as a "subsequent purchaser") that subsequently acquires ownership of the property or a person designated by the non-resident person or a subsequent purchaser,
 
   **(10)** Subparagraph 179(4)(b)(ii) of the Act is replaced by the following:
 
-    making a **taxable** supply **in Canada** of a commercial service in respect of the property to the non-resident person or a subsequent purchaser, or
+    making a taxable supply in Canada of a commercial service in respect of the property to the non-resident person or a subsequent purchaser, or
 
   **(11)** Paragraphs 179(4)(c) and (d) of the Act are replaced by the following:
 
-    **if** the particular registrant so retains physical possession of the property after that time,
+    if the particular registrant so retains physical possession of the property after that time,
 
-    the particular registrant **is** deemed to have, **under the agreement referred to in paragraph (a), caused** at that time physical possession of the property **to be** transferred, **at a place in Canada,** to another **person that is a** registrant,
+    the particular registrant is deemed to have, under the agreement referred to in paragraph (a), caused at that time physical possession of the property to be transferred, at a place in Canada, to another person that is a registrant,
 
-    the other **person referred to in subparagraph (i) is deemed** to have **given to the particular** registrant a certificate described in paragraph (2)(c) **in respect of that transfer of physical possession of the property**,
+    the other person referred to in subparagraph (i) is deemed to have given to the particular registrant a certificate described in paragraph (2)(c) in respect of that transfer of physical possession of the property,
 
-    **if subparagraph (b)(i) or (ii) applies, the particular registrant is deemed**
+    if subparagraph (b)(i) or (ii) applies, the particular registrant is deemed
 
     except if clause (B) applies, to have acquired, at that time, physical possession of the property, under the agreement referred to in paragraph (a), for the purpose of making a taxable supply in Canada to the non-resident person of a commercial service in respect of the property that is not a storage service, or
 
@@ -4055,13 +4053,13 @@ Paragraph 178.6(5)(d) of the English version of the Act is replaced by the follo
 
     the particular registrant is deemed to have given to the other person referred to in clause (A) a certificate described in paragraph (2)(c) in respect of that acquisition of physical possession of the property, and
 
-    **if** another registrant so retains physical possession of the property after that time,
+    if another registrant so retains physical possession of the property after that time,
 
-    **if subparagraph (b)(i) or (ii) applies,**
+    if subparagraph (b)(i) or (ii) applies,
 
-    the particular registrant **is** deemed to have, **under the agreement referred to in paragraph (a), caused** at that time physical possession of the property **to be** transferred **at a place in Canada** to the other registrant, and
+    the particular registrant is deemed to have, under the agreement referred to in paragraph (a), caused at that time physical possession of the property to be transferred at a place in Canada to the other registrant, and
 
-    the other registrant **is** deemed
+    the other registrant is deemed
 
     except if subclause (II) applies, to have acquired, at that time, physical possession of the property, under an agreement between the other registrant and the non-resident person, for the purpose of making a taxable supply in Canada to the non-resident person of a commercial service in respect of the property that is not a storage service, or
 
@@ -4077,11 +4075,11 @@ Paragraph 178.6(5)(d) of the English version of the Act is replaced by the follo
 
   **(12)** The portion of subsection 179(5) of the Act before paragraph (a) is replaced by the following:
 
-    **(5)** For the purposes of this section, section 180 and the definition imported taxable supply in section 217, **if** a registrant at any time transfers physical possession of tangible personal property to a bailee solely for the purpose of storing or shipping the property and either
+    **(5)** For the purposes of this section, section 180 and the definition imported taxable supply in section 217, if a registrant at any time transfers physical possession of tangible personal property to a bailee solely for the purpose of storing or shipping the property and either
 
   **(13)** The portion of subsection 179(6) of the Act before paragraph (a) is replaced by the following:
 
-    **(6)** For the purposes of this section, section 180 and the definition imported taxable supply in section 217, **if** a non-resident person **that** is not registered under Subdivision D of Division V transfers physical possession of tangible personal property to a bailee **that** is a registrant for the sole purpose of storing or shipping the property and the bailee
+    **(6)** For the purposes of this section, section 180 and the definition imported taxable supply in section 217, if a non-resident person that is not registered under Subdivision D of Division V transfers physical possession of tangible personal property to a bailee that is a registrant for the sole purpose of storing or shipping the property and the bailee
 
   **(14)** Section 179 of the Act, as amended by subsections (1) to (13), is replaced by the following:
 
@@ -4505,7 +4503,7 @@ Paragraph 178.6(5)(d) of the English version of the Act is replaced by the follo
 
   **(1)** Subparagraph 180(a)(ii) of the Act is replaced by the following:
 
-    **if** the particular person is a registrant, causes physical possession of tangible personal property **(other than property of a person that is resident in Canada)** to be transferred in Canada to the particular person in circumstances in which the particular person is acquiring physical possession of the property for the purpose of making a taxable supply **in Canada** of a commercial service in respect of the property to the non-resident person,
+    if the particular person is a registrant, causes physical possession of tangible personal property (other than property of a person that is resident in Canada) to be transferred in Canada to the particular person in circumstances in which the particular person is acquiring physical possession of the property for the purpose of making a taxable supply in Canada of a commercial service in respect of the property to the non-resident person,
 
   **(2)** Subsection (1) applies in respect of supplies made after July 22, 2016.
 
@@ -4513,27 +4511,27 @@ Paragraph 178.6(5)(d) of the English version of the Act is replaced by the follo
 
   **(1)** Paragraph 183(1)(b) of the French version of the Act is replaced by the following:
 
-    pour l'application de la présente partie, sauf les articles 193 et 257, cette fourniture est réputée avoir été effectuée **sans contrepartie**;
+    pour l'application de la présente partie, sauf les articles 193 et 257, cette fourniture est réputée avoir été effectuée sans contrepartie;
 
   **(2)** Paragraph 183(10.1)(d) of the French version of the Act is replaced by the following:
 
-    le rachat du bien est réputé en être une fourniture par vente effectuée **sans contrepartie** par l'acquéreur de la première fourniture au profit du débiteur;
+    le rachat du bien est réputé en être une fourniture par vente effectuée sans contrepartie par l'acquéreur de la première fourniture au profit du débiteur;
 
 ### Section 124
 
 Paragraph 184(1)(b) of the French version of the Act is replaced by the following:
 
-pour l'application de la présente partie, sauf les articles 193 et 257, cette fourniture est réputée avoir été effectuée **sans contrepartie**;
+pour l'application de la présente partie, sauf les articles 193 et 257, cette fourniture est réputée avoir été effectuée sans contrepartie;
 
 ### Section 125
 
   **(1)** Paragraph (b) of the definition **imported taxable supply** in section 217 of the Act is replaced by the following:
 
-    a taxable supply (other than a zero-rated or prescribed supply) of tangible personal property made by a non-resident person **that** is not registered under Subdivision D of Division V to a recipient **that** is a registrant **if**
+    a taxable supply (other than a zero-rated or prescribed supply) of tangible personal property made by a non-resident person that is not registered under Subdivision D of Division V to a recipient that is a registrant if
 
-    the recipient gives to another registrant a certificate described in paragraph 179(2)**(d) in respect of an acquisition of physical possession of the property by the recipient**, and
+    the recipient gives to another registrant a certificate described in paragraph 179(2)(d) in respect of an acquisition of physical possession of the property by the recipient, and
 
-    the recipient is not acquiring the property for consumption, use or supply exclusively in the course of **its** commercial activities or the property is a passenger vehicle that the recipient is acquiring for use in Canada as capital property in **its** commercial activities and that has a capital cost to the recipient exceeding the amount deemed under paragraph 13(7)(g) or (h) of the `Income Tax Act` to be the capital cost of the vehicle to the recipient for the purposes of section 13 of that Act;
+    the recipient is not acquiring the property for consumption, use or supply exclusively in the course of its commercial activities or the property is a passenger vehicle that the recipient is acquiring for use in Canada as capital property in its commercial activities and that has a capital cost to the recipient exceeding the amount deemed under paragraph 13(7)(g) or (h) of the `Income Tax Act` to be the capital cost of the vehicle to the recipient for the purposes of section 13 of that Act;
 
   **(2)** The definition **imported taxable supply** in section 217 of the Act is amended by adding the following after paragraph (b):
 
@@ -4549,7 +4547,7 @@ pour l'application de la présente partie, sauf les articles 193 et 257, cette f
 
   **(4)** Paragraph (b.1) of the definition **imported taxable supply** in section 217 of the Act is replaced by the following:
 
-    a taxable supply (other than a zero-rated or prescribed supply) of tangible personal property made **by way of sale** at a particular time by a non-resident person **that** is not registered under Subdivision D of Division V to a recipient **that is a registrant if**
+    a taxable supply (other than a zero-rated or prescribed supply) of tangible personal property made by way of sale at a particular time by a non-resident person that is not registered under Subdivision D of Division V to a recipient that is a registrant if
 
     the recipient acquires physical possession of the property as the recipient of another supply of the property made by way of lease, licence or similar arrangement and either
 
@@ -4561,7 +4559,7 @@ pour l'application de la présente partie, sauf les articles 193 et 257, cette f
 
   **(5)** Paragraph (f) of the definition **permitted deduction** in section 217 of the English version of the Act is replaced by the following:
 
-    qualifying compensation of an employee of the qualifying taxpayer that is paid in the specified year by the qualifying taxpayer if the employee was primarily in Canada while performing **the employee's** duties during the specified year;
+    qualifying compensation of an employee of the qualifying taxpayer that is paid in the specified year by the qualifying taxpayer if the employee was primarily in Canada while performing the employee's duties during the specified year;
 
   **(6)** Subsections (1), (3) and (4) apply in respect of supplies made after the day on which this Act receives royal assent.
 
@@ -4571,11 +4569,11 @@ pour l'application de la présente partie, sauf les articles 193 et 257, cette f
 
   **(1)** The portion of subsection 217.1(6) of the Act before paragraph (a) is replaced by the following:
 
-    **(6)** If an amount (in this subsection referred to as a "qualifying expenditure") of qualifying consideration, or of an external charge, of a qualifying taxpayer in respect of an outlay made, or expense incurred, outside Canada is greater than zero and, during a reporting period of the qualifying taxpayer during which the qualifying taxpayer is a registrant, tax under section 218.01 or subsection 218.1(1.2) in respect of the qualifying expenditure becomes payable by the qualifying taxpayer or is paid by the qualifying taxpayer without having become payable, the following rules apply for the purpose of determining an input tax credit **or an eligible amount, as defined in subsection 261.01(1)**, of the qualifying taxpayer:
+    **(6)** If an amount (in this subsection referred to as a "qualifying expenditure") of qualifying consideration, or of an external charge, of a qualifying taxpayer in respect of an outlay made, or expense incurred, outside Canada is greater than zero and, during a reporting period of the qualifying taxpayer during which the qualifying taxpayer is a registrant, tax under section 218.01 or subsection 218.1(1.2) in respect of the qualifying expenditure becomes payable by the qualifying taxpayer or is paid by the qualifying taxpayer without having become payable, the following rules apply for the purpose of determining an input tax credit or an eligible amount, as defined in subsection 261.01(1), of the qualifying taxpayer:
 
   **(2)** The portion of subsection 217.1(7) of the Act before paragraph (a) is replaced by the following:
 
-    **(7)** If tax (in this subsection referred to as "internal tax") under section 218.01 or subsection 218.1(1.2) in respect of an internal charge becomes payable by a qualifying taxpayer, or is paid by the qualifying taxpayer without having become payable, and the internal charge is determined based in whole or in part on the inclusion of an outlay made, or an expense incurred, outside Canada by the qualifying taxpayer, the following rules apply for the purpose of determining an input tax credit **or an eligible amount, as defined in subsection 261.01(1)**, of the qualifying taxpayer:
+    **(7)** If tax (in this subsection referred to as "internal tax") under section 218.01 or subsection 218.1(1.2) in respect of an internal charge becomes payable by a qualifying taxpayer, or is paid by the qualifying taxpayer without having become payable, and the internal charge is determined based in whole or in part on the inclusion of an outlay made, or an expense incurred, outside Canada by the qualifying taxpayer, the following rules apply for the purpose of determining an input tax credit or an eligible amount, as defined in subsection 261.01(1), of the qualifying taxpayer:
 
   **(3)** Subsections (1) and (2) apply in respect of any claim period of a person, as defined in subsection 259(1) of the Act, that begins after September 22, 2009.
 
@@ -4603,7 +4601,7 @@ pour l'application de la présente partie, sauf les articles 193 et 257, cette f
 
   **(3)** Subparagraph 218.1(1)(b)(ii) of the Act is replaced by the following:
 
-    is the recipient of a supply, included in any of paragraphs **(b.01)** to (b.3) of the definition imported taxable supply in section 217, of property that is delivered or made available to the person in a particular participating province and is either resident in that province or is a registrant, or
+    is the recipient of a supply, included in any of paragraphs (b.01) to (b.3) of the definition imported taxable supply in section 217, of property that is delivered or made available to the person in a particular participating province and is either resident in that province or is a registrant, or
 
   **(4)** Clause (B) of the description of C in paragraph 218.1(1)(b) of the Act is replaced by the following:
 
@@ -4675,7 +4673,7 @@ pour l'application de la présente partie, sauf les articles 193 et 257, cette f
 
   **(1)** Paragraph (c) of the description of A in subsection 225.2(2) of the Act is replaced by the following:
 
-    all amounts each of which is an amount, in respect of a supply made during the particular reporting period of property or a service to which the financial institution and another person have elected to have this paragraph apply, equal to tax calculated **at the rate set out in subsection 165(1)** on the cost to the other person of supplying the property or service to the financial institution excluding any remuneration to employees of the other person, the cost of financial services and tax under this Part;
+    all amounts each of which is an amount, in respect of a supply made during the particular reporting period of property or a service to which the financial institution and another person have elected to have this paragraph apply, equal to tax calculated at the rate set out in subsection 165(1) on the cost to the other person of supplying the property or service to the financial institution excluding any remuneration to employees of the other person, the cost of financial services and tax under this Part;
 
   **(2)** Paragraph (c) of the description of A in subsection 225.2(2) of the Act, as enacted by subsection (1), is replaced by the following:
 
@@ -4683,19 +4681,19 @@ pour l'application de la présente partie, sauf les articles 193 et 257, cette f
 
   **(3)** Paragraph (b) of the description of F in subsection 225.2(2) of the Act is replaced by the following:
 
-    all amounts each of which is an amount — in respect of a supply of property or a service **that is** made during the particular reporting period **by** another person **to the financial institution and** to which the financial institution **has** elected to have paragraph (c) of the description of A apply — equal to tax payable by the other person under any of subsection 165(2), sections 212.1 and 218.1 and Division IV.1 that is included in the cost to the other person of supplying the property or service to the financial institution; and
+    all amounts each of which is an amount — in respect of a supply of property or a service that is made during the particular reporting period by another person to the financial institution and to which the financial institution has elected to have paragraph (c) of the description of A apply — equal to tax payable by the other person under any of subsection 165(2), sections 212.1 and 218.1 and Division IV.1 that is included in the cost to the other person of supplying the property or service to the financial institution; and
 
   **(4)** Subsections 225.2(4) and (5) of the Act are replaced by the following:
 
-    **(4)** If a person, other than a prescribed person or a person of a prescribed class, and a selected listed financial institution have made jointly an election under section 150, the financial institution may make an election, **in prescribed form containing prescribed information**, to have paragraph (c) of the description of A in subsection (2) apply to every supply to which subsection 150(1) applies that is made by the person to the financial institution at a time the election made under this subsection is in effect.
+    **(4)** If a person, other than a prescribed person or a person of a prescribed class, and a selected listed financial institution have made jointly an election under section 150, the financial institution may make an election, in prescribed form containing prescribed information, to have paragraph (c) of the description of A in subsection (2) apply to every supply to which subsection 150(1) applies that is made by the person to the financial institution at a time the election made under this subsection is in effect.
 
   **(5)** The portion of subsection 225.2(6) of the Act before paragraph (a) is replaced by the following:
 
-    **(6)** An election made under subsection (4) by a selected listed financial institution **in respect of supplies made by a person to the financial institution** shall be effective for the period beginning on the day specified in the election and ending on the earliest of
+    **(6)** An election made under subsection (4) by a selected listed financial institution in respect of supplies made by a person to the financial institution shall be effective for the period beginning on the day specified in the election and ending on the earliest of
 
   **(6)** Paragraph 225.2(6)(b) of the Act is replaced by the following:
 
-    **the** day **specified in** a revocation **of the election made under subsection (6.1)**,
+    the day specified in a revocation of the election made under subsection (6.1),
 
   **(7)** Section 225.2 of the Act is amended by adding the following after subsection (6):
 
@@ -4717,23 +4715,23 @@ pour l'application de la présente partie, sauf les articles 193 et 257, cette f
 
   **(1)** Subsection 232.01(3) of the Act is replaced by the following:
 
-    **(3)** A person may, on a particular day, issue to a pension entity **of a pension plan** a note (in this section referred to as a "tax adjustment note") in respect of all or part of a specified resource, specifying an amount determined in accordance with paragraph (4)(a) (in this section referred to as the "federal component amount" of the tax adjustment note) and an amount determined in accordance with paragraph (4)(b) (in this section referred to as the "provincial component amount" of the tax adjustment note), if
+    **(3)** A person may, on a particular day, issue to a pension entity of a pension plan a note (in this section referred to as a "tax adjustment note") in respect of all or part of a specified resource, specifying an amount determined in accordance with paragraph (4)(a) (in this section referred to as the "federal component amount" of the tax adjustment note) and an amount determined in accordance with paragraph (4)(b) (in this section referred to as the "provincial component amount" of the tax adjustment note), if
 
-      the person is deemed under paragraph 172.1(5)(b) **or (5.1)(b)** to have collected tax, on or before the particular day, in respect of a taxable supply of the specified resource or part deemed to have been made by the person under paragraph 172.1(5)(a) **or (5.1)(a)**;
+      the person is deemed under paragraph 172.1(5)(b) or (5.1)(b) to have collected tax, on or before the particular day, in respect of a taxable supply of the specified resource or part deemed to have been made by the person under paragraph 172.1(5)(a) or (5.1)(a);
 
-      a supply of the specified resource or part is deemed to have been received by the pension entity under subparagraph 172.1(5)(d)(i) or **(5.1)(d)(i)** and tax in respect of that supply is deemed to have been paid under subparagraph 172.1(5)(d)(ii) **or (5.1)(d)(ii)** by the pension entity; and
+      a supply of the specified resource or part is deemed to have been received by the pension entity under subparagraph 172.1(5)(d)(i) or (5.1)(d)(i) and tax in respect of that supply is deemed to have been paid under subparagraph 172.1(5)(d)(ii) or (5.1)(d)(ii) by the pension entity; and
 
       an amount of tax becomes payable, or is paid without having become payable, on or before the particular day to the person (otherwise than by the operation of section 172.1) in respect of a taxable supply of the specified resource or part
 
-      by the pension entity, **if the taxable supply referred to in paragraph (a) is deemed to have been made under paragraph 172.1(5)(a), or**
+      by the pension entity, if the taxable supply referred to in paragraph (a) is deemed to have been made under paragraph 172.1(5)(a), or
 
-      **by a master pension entity of the pension plan, if the taxable supply referred to in paragraph (a) is deemed to have been made under paragraph 172.1(5.1)(a)**.
+      by a master pension entity of the pension plan, if the taxable supply referred to in paragraph (a) is deemed to have been made under paragraph 172.1(5.1)(a).
 
   **(2)** The description of A in paragraph 232.01(4)(a) of the Act is replaced by the following:
 
     is
 
-    **if the taxable supply referred to in paragraph (3)(a) is deemed to have been made under paragraph 172.1(5)(a)**, the lesser of
+    if the taxable supply referred to in paragraph (3)(a) is deemed to have been made under paragraph 172.1(5)(a), the lesser of
 
     the amount determined for A in paragraph 172.1(5)(c) in respect of the specified resource or part, and
 
@@ -4753,7 +4751,7 @@ pour l'application de la présente partie, sauf les articles 193 et 257, cette f
 
     is
 
-    **if the taxable supply referred to in paragraph (3)(a) is deemed to have been made under paragraph 172.1(5)(a)**, the lesser of
+    if the taxable supply referred to in paragraph (3)(a) is deemed to have been made under paragraph 172.1(5)(a), the lesser of
 
     the amount determined for B in paragraph 172.1(5)(c) in respect of the specified resource or part, and
 
@@ -4771,11 +4769,11 @@ pour l'application de la présente partie, sauf les articles 193 et 257, cette f
 
   **(4)** The portion of subsection 232.01(5) of the Act before paragraph (a) is replaced by the following:
 
-    **(5)** If a person issues a tax adjustment note to a pension entity under subsection (3) in respect of all or part of a specified resource, a supply of the specified resource or part is deemed to have been received by the pension entity under subparagraph 172.1(5)(d)(i) **or (5.1)(d)(i)** and tax (in this subsection referred to as "deemed tax") in respect of that supply is deemed to have been paid on a particular day under subparagraph 172.1(5)(d)(ii) **or (5.1)(d)(ii)** by the pension entity, the following rules apply:
+    **(5)** If a person issues a tax adjustment note to a pension entity under subsection (3) in respect of all or part of a specified resource, a supply of the specified resource or part is deemed to have been received by the pension entity under subparagraph 172.1(5)(d)(i) or (5.1)(d)(i) and tax (in this subsection referred to as "deemed tax") in respect of that supply is deemed to have been paid on a particular day under subparagraph 172.1(5)(d)(ii) or (5.1)(d)(ii) by the pension entity, the following rules apply:
 
   **(5)** The portion of paragraph 232.01(5)(c) of the Act before the formula is replaced by the following:
 
-    if any part of the amount of the deemed tax is **included in the determination of the pension rebate amount** of the pension entity for a particular claim period of the pension entity, the pension entity shall pay to the Receiver General — on or before the last day of its claim period that immediately follows its claim period that includes the day on which the tax adjustment note is issued — the amount determined by the formula
+    if any part of the amount of the deemed tax is included in the determination of the pension rebate amount of the pension entity for a particular claim period of the pension entity, the pension entity shall pay to the Receiver General — on or before the last day of its claim period that immediately follows its claim period that includes the day on which the tax adjustment note is issued — the amount determined by the formula
 
   **(6)** The portion of paragraph 232.01(5)(c) of the Act before the description of A, as amended by subsection (5), is replaced by the following:
 
@@ -4783,13 +4781,13 @@ pour l'application de la présente partie, sauf les articles 193 et 257, cette f
 
   **(7)** The descriptions of E and F in paragraph 232.01(5)(c) of the Act are replaced by the following:
 
-    is the amount of the **rebate determined for** the pension entity **under subsection 261.01(2)** for the particular claim period, and
+    is the amount of the rebate determined for the pension entity under subsection 261.01(2) for the particular claim period, and
 
-    is the **pension rebate amount** of the pension entity for the particular claim period; and
+    is the pension rebate amount of the pension entity for the particular claim period; and
 
   **(8)** The portion of paragraph 232.01(5)(d) of the Act before the formula is replaced by the following:
 
-    if any part of the amount of the deemed tax is **included in the determination of the pension rebate amount** of the pension entity for a claim period of the pension entity **and if** the pension entity **makes** an election for **the claim period** under any of subsections 261.01(5), (6) or (9) jointly with all participating employers of the pension plan that **are**, for the calendar year that includes the last day of the claim period, qualifying employers of the pension plan, each of those participating employers shall add, in determining its net tax for its reporting period that includes the day on which the tax adjustment note is issued, the amount determined by the formula
+    if any part of the amount of the deemed tax is included in the determination of the pension rebate amount of the pension entity for a claim period of the pension entity and if the pension entity makes an election for the claim period under any of subsections 261.01(5), (6) or (9) jointly with all participating employers of the pension plan that are, for the calendar year that includes the last day of the claim period, qualifying employers of the pension plan, each of those participating employers shall add, in determining its net tax for its reporting period that includes the day on which the tax adjustment note is issued, the amount determined by the formula
 
   **(9)** The portion of paragraph 232.01(5)(d) of the Act before the formula, as enacted by subsection (8), is replaced by the following:
 
@@ -4825,23 +4823,23 @@ pour l'application de la présente partie, sauf les articles 193 et 257, cette f
 
   **(1)** Subsection 232.02(2) of the Act is replaced by the following:
 
-    **(2)** A person may, on a particular day, issue to a pension entity **of a pension plan** a note (in this section referred to as a "tax adjustment note") in respect of employer resources consumed or used for the purpose of making a supply (in this section referred to as the "actual pension supply") of property or a service to the pension entity **or to a master pension entity of the pension plan**, specifying an amount determined in accordance with paragraph (3)(a) (in this section referred to as the "federal component amount" of the tax adjustment note) and an amount determined in accordance with paragraph (3)(b) (in this section referred to as the "provincial component amount" of the tax adjustment note), if
+    **(2)** A person may, on a particular day, issue to a pension entity of a pension plan a note (in this section referred to as a "tax adjustment note") in respect of employer resources consumed or used for the purpose of making a supply (in this section referred to as the "actual pension supply") of property or a service to the pension entity or to a master pension entity of the pension plan, specifying an amount determined in accordance with paragraph (3)(a) (in this section referred to as the "federal component amount" of the tax adjustment note) and an amount determined in accordance with paragraph (3)(b) (in this section referred to as the "provincial component amount" of the tax adjustment note), if
 
-      the person is deemed under paragraph 172.1(6)(b) **or (6.1)(b)** to have collected tax, on or before the particular day, in respect of one or more taxable supplies, deemed to have been made by the person under paragraph 172.1(6)(a) **or (6.1)(a)**, of the employer resources;
+      the person is deemed under paragraph 172.1(6)(b) or (6.1)(b) to have collected tax, on or before the particular day, in respect of one or more taxable supplies, deemed to have been made by the person under paragraph 172.1(6)(a) or (6.1)(a), of the employer resources;
 
-      a supply of each of those employer resources is deemed to have been received by the pension entity under subparagraph 172.1(6)(d)(i) **or (6.1)(d)(i)** and tax in respect of each of those supplies is deemed to have been paid under subparagraph 172.1(6)(d)(ii) **or (6.1)(d)(ii)** by the pension entity; and
+      a supply of each of those employer resources is deemed to have been received by the pension entity under subparagraph 172.1(6)(d)(i) or (6.1)(d)(i) and tax in respect of each of those supplies is deemed to have been paid under subparagraph 172.1(6)(d)(ii) or (6.1)(d)(ii) by the pension entity; and
 
       an amount of tax becomes payable, or is paid without having become payable, on or before the particular day, to the person (otherwise than by the operation of section 172.1) in respect of the actual pension supply
 
       by the pension entity, if the taxable supplies referred to in paragraph (a) are deemed to have been made under paragraph 172.1(6)(a), or,
 
-      **by the master pension entity, if the taxable supplies referred to in paragraph (a) are deemed to have been made under paragraph 172.1(6.1)(a)**.
+      by the master pension entity, if the taxable supplies referred to in paragraph (a) are deemed to have been made under paragraph 172.1(6.1)(a).
 
   **(2)** The description of A in paragraph 232.02(3)(a) of the Act is replaced by the following:
 
     is
 
-    **if the taxable supplies referred to in paragraph (2)(a) are deemed to have been made under paragraph 172.1(6)(a),** the lesser of
+    if the taxable supplies referred to in paragraph (2)(a) are deemed to have been made under paragraph 172.1(6)(a), the lesser of
 
     the total of all amounts, each of which is an amount determined for A in paragraph 172.1(6)(c) in determining an amount of tax that is in respect of one of those employer resources and that is deemed under paragraph 172.1(6)(b) to have become payable and to have been collected on or before the particular day, and
 
@@ -4861,7 +4859,7 @@ pour l'application de la présente partie, sauf les articles 193 et 257, cette f
 
     is
 
-    **if the taxable supplies referred to in paragraph (2)(a) are deemed to have been made under paragraph 172.1(6)(a)**, the lesser of
+    if the taxable supplies referred to in paragraph (2)(a) are deemed to have been made under paragraph 172.1(6)(a), the lesser of
 
     the total of all amounts, each of which is an amount determined for B in paragraph 172.1(6)(c) in determining an amount of tax that is in respect of one of those employer resources and that is deemed under paragraph 172.1(6)(b) to have become payable and to have been collected on or before the particular day, and
 
@@ -4879,11 +4877,11 @@ pour l'application de la présente partie, sauf les articles 193 et 257, cette f
 
   **(4)** The portion of subsection 232.02(4) of the Act before paragraph (a) is replaced by the following:
 
-    **(4)** If a person issues a tax adjustment note to a pension entity under subsection (2) in respect of particular employer resources consumed or used for the purpose of making an actual pension supply, a supply of each of those particular employer resources (each of which in this subsection is referred to as a "particular supply") is deemed to have been received by the pension entity under subparagraph 172.1(6)(d)(i) **or (6.1)(d)(i)** and tax (in this subsection referred to as "deemed tax") in respect of each of the particular supplies is deemed to have been paid under subparagraph 172.1(6)(d)(ii) **or (6.1)(d)(ii)** by the pension entity, the following rules apply:
+    **(4)** If a person issues a tax adjustment note to a pension entity under subsection (2) in respect of particular employer resources consumed or used for the purpose of making an actual pension supply, a supply of each of those particular employer resources (each of which in this subsection is referred to as a "particular supply") is deemed to have been received by the pension entity under subparagraph 172.1(6)(d)(i) or (6.1)(d)(i) and tax (in this subsection referred to as "deemed tax") in respect of each of the particular supplies is deemed to have been paid under subparagraph 172.1(6)(d)(ii) or (6.1)(d)(ii) by the pension entity, the following rules apply:
 
   **(5)** The portion of paragraph 232.02(4)(c) of the Act before the formula is replaced by the following:
 
-    for each particular claim period of the pension entity for which any part of an amount of deemed tax in respect of a particular supply is **included in the determination of the pension rebate amount** of the pension entity, the pension entity shall pay to the Receiver General — on or before the last day of its claim period that immediately follows its claim period that includes the day on which the tax adjustment note is issued — the amount determined by the formula
+    for each particular claim period of the pension entity for which any part of an amount of deemed tax in respect of a particular supply is included in the determination of the pension rebate amount of the pension entity, the pension entity shall pay to the Receiver General — on or before the last day of its claim period that immediately follows its claim period that includes the day on which the tax adjustment note is issued — the amount determined by the formula
 
   **(6)** The portion of paragraph 232.02(4)(c) of the Act before the description of A, as amended by subsection (5), is replaced by the following:
 
@@ -4891,13 +4889,13 @@ pour l'application de la présente partie, sauf les articles 193 et 257, cette f
 
   **(7)** The descriptions of E and F in paragraph 232.02(4)(c) of the Act are replaced by the following:
 
-    is **the amount of the rebate determined for** the pension entity **under subsection 261.01(2)** for the particular claim period, and
+    is the amount of the rebate determined for the pension entity under subsection 261.01(2) for the particular claim period, and
 
-    is the **pension rebate amount** of the pension entity for the particular claim period; and
+    is the pension rebate amount of the pension entity for the particular claim period; and
 
   **(8)** The portion of paragraph 232.02(4)(d) of the Act before the formula is replaced by the following:
 
-    for each claim period of the pension entity for which any part of an amount of deemed tax in respect of a particular supply is **included in the determination of the pension rebate amount** of the pension entity and for which an election under any of subsections 261.01(5), (6) or (9) **is** made jointly by the pension entity and all participating employers of the pension plan that **are**, for the calendar year that includes the last day of the claim period, qualifying employers of the pension plan, each of those participating employers shall add, in determining its net tax for its reporting period that includes the day on which the tax adjustment note is issued, the amount determined by the formula
+    for each claim period of the pension entity for which any part of an amount of deemed tax in respect of a particular supply is included in the determination of the pension rebate amount of the pension entity and for which an election under any of subsections 261.01(5), (6) or (9) is made jointly by the pension entity and all participating employers of the pension plan that are, for the calendar year that includes the last day of the claim period, qualifying employers of the pension plan, each of those participating employers shall add, in determining its net tax for its reporting period that includes the day on which the tax adjustment note is issued, the amount determined by the formula
 
   **(9)** The portion of paragraph 232.02(4)(d) of the Act before the formula, as enacted by subsection (8), is replaced by the following:
 
@@ -4935,7 +4933,7 @@ pour l'application de la présente partie, sauf les articles 193 et 257, cette f
 
 ### Section 235
 
-      **(1)** Lorsque la taxe relative aux fournitures d'une voiture de tourisme, effectuées aux termes d'un bail, devient payable par un inscrit, ou est payée par lui sans être devenue payable, au cours de son année d'imposition, et que le total de la contrepartie des fournitures qui serait déductible dans le calcul du revenu de l'inscrit pour l'année pour l'application de la `Loi de l'impôt sur le revenu` s'il était un contribuable aux termes de cette loi et **s'il n'était pas tenu compte de l'article 67.3 de cette loi**, excède le montant, relatif à cette contrepartie, qui **serait** déductible dans le calcul du revenu de l'inscrit pour l'année pour l'application de cette loi **s'il** était un contribuable aux termes de cette loi et s'il n'était pas tenu compte de l'élément B des formules figurant aux alinéas 7307(1)b) et (3)b) du `Règlement de l'impôt sur le revenu`, le montant obtenu par la formule ci-après est ajouté dans le calcul de la taxe nette de l'inscrit pour la période de déclaration indiquée :
+      **(1)** Lorsque la taxe relative aux fournitures d'une voiture de tourisme, effectuées aux termes d'un bail, devient payable par un inscrit, ou est payée par lui sans être devenue payable, au cours de son année d'imposition, et que le total de la contrepartie des fournitures qui serait déductible dans le calcul du revenu de l'inscrit pour l'année pour l'application de la `Loi de l'impôt sur le revenu` s'il était un contribuable aux termes de cette loi et s'il n'était pas tenu compte de l'article 67.3 de cette loi, excède le montant, relatif à cette contrepartie, qui serait déductible dans le calcul du revenu de l'inscrit pour l'année pour l'application de cette loi s'il était un contribuable aux termes de cette loi et s'il n'était pas tenu compte de l'élément B des formules figurant aux alinéas 7307(1)b) et (3)b) du `Règlement de l'impôt sur le revenu`, le montant obtenu par la formule ci-après est ajouté dans le calcul de la taxe nette de l'inscrit pour la période de déclaration indiquée :
 
   **(2)** Subsection (1) applies in respect of reporting periods that end after November 27, 2006 and in respect of any reporting period that ends on or before that day unless
 
@@ -4949,25 +4947,25 @@ pour l'application de la présente partie, sauf les articles 193 et 257, cette f
 
 Subsection 252.41(3) of the English version of the Act is replaced by the following:
 
-**(3)** **If**, under subsection (2), a supplier pays to, or credits in favour of, a person an amount on account of a rebate and the supplier knows or ought to know that the person is not entitled to the rebate or that the amount paid or credited exceeds the rebate to which the person is entitled, the supplier and the person are jointly and severally, **or solidarily**, liable to pay to the Receiver General under section 264 the amount that was paid or credited on account of the rebate or the excess amount, as the case may be.
+**(3)** If, under subsection (2), a supplier pays to, or credits in favour of, a person an amount on account of a rebate and the supplier knows or ought to know that the person is not entitled to the rebate or that the amount paid or credited exceeds the rebate to which the person is entitled, the supplier and the person are jointly and severally, or solidarily, liable to pay to the Receiver General under section 264 the amount that was paid or credited on account of the rebate or the excess amount, as the case may be.
 
 ### Section 136
 
 Paragraph 252.5(c) of the English version of the Act is replaced by the following:
 
-**if**, at the particular time, the registrant knows or ought to know that the person does not satisfy the eligibility condition or that the amount paid or credited exceeds the rebate to which the person is entitled, the registrant and the person are jointly and severally, **or solidarily**, liable to pay to the Receiver General under section 264 the amount or excess amount, as the case may be, as if it had been paid at the particular time as a rebate under this Division to the registrant and the person, and
+if, at the particular time, the registrant knows or ought to know that the person does not satisfy the eligibility condition or that the amount paid or credited exceeds the rebate to which the person is entitled, the registrant and the person are jointly and severally, or solidarily, liable to pay to the Receiver General under section 264 the amount or excess amount, as the case may be, as if it had been paid at the particular time as a rebate under this Division to the registrant and the person, and
 
 ### Section 137
 
 Subsection 254(6) of the English version of the Act is replaced by the following:
 
-**(6)** **If** the builder of a single unit residential complex or a residential condominium unit pays or credits a rebate to or in favour of an individual under subsection (4) and the builder knows or ought to know that the individual is not entitled to the rebate or that the amount paid or credited exceeds the rebate to which the individual is entitled, the builder and the individual are jointly and severally, **or solidarily**, liable to pay the amount of the rebate or excess to the Receiver General under section 264.
+**(6)** If the builder of a single unit residential complex or a residential condominium unit pays or credits a rebate to or in favour of an individual under subsection (4) and the builder knows or ought to know that the individual is not entitled to the rebate or that the amount paid or credited exceeds the rebate to which the individual is entitled, the builder and the individual are jointly and severally, or solidarily, liable to pay the amount of the rebate or excess to the Receiver General under section 264.
 
 ### Section 138
 
 Subsection 254.1(6) of the English version of the Act is replaced by the following:
 
-**(6)** **If** the builder of a residential complex pays or credits a rebate under subsection (4) and the builder knows or ought to know that the individual is not entitled to the rebate or that the amount paid or credited exceeds the rebate to which the individual is entitled, the builder and the individual are jointly and severally, **or solidarily**, liable to pay the amount of the rebate or excess to the Receiver General under section 264.
+**(6)** If the builder of a residential complex pays or credits a rebate under subsection (4) and the builder knows or ought to know that the individual is not entitled to the rebate or that the amount paid or credited exceeds the rebate to which the individual is entitled, the builder and the individual are jointly and severally, or solidarily, liable to pay the amount of the rebate or excess to the Receiver General under section 264.
 
 ### Section 139
 
@@ -5003,13 +5001,13 @@ Subsection 254.1(6) of the English version of the Act is replaced by the followi
 
   **(1)** Paragraph (b) of the definition **eligible amount** in subsection 261.01(1) of the Act is replaced by the following:
 
-    is deemed to have been paid by the pension entity under section 172.1 **or 172.2** during the claim period. (**montant admissible**)
+    is deemed to have been paid by the pension entity under section 172.1 or 172.2 during the claim period. (**montant admissible**)
 
   **(2)** The description of B in the definition **pension rebate amount** in subsection 261.01(1) of the Act is replaced by the following:
 
-    is **the amount determined by the formula**
+    is the amount determined by the formula
 
-    **is** the total of all amounts, each of which is an eligible amount of the pension entity for the claim period **that is described in paragraph (a) of the definition eligible amount, and**
+    is the total of all amounts, each of which is an eligible amount of the pension entity for the claim period that is described in paragraph (a) of the definition eligible amount, and
 
     is
 
@@ -5031,7 +5029,7 @@ Subsection 254.1(6) of the English version of the Act is replaced by the followi
 
     be filed by the pension entity with the Minister in prescribed manner
 
-    at the same time the application for the rebate under subsection (2) for the claim period is filed by the pension entity, **and**
+    at the same time the application for the rebate under subsection (2) for the claim period is filed by the pension entity, and
 
     within two years after the day that is
 
@@ -5057,55 +5055,55 @@ Subsection 254.1(6) of the English version of the Act is replaced by the followi
 
 Subsection 261.31(7) of the English version of the Act is replaced by the following:
 
-**(7)** **If** an insurer, in determining its net tax for a reporting period, deducts an amount under subsection 234(5) that the insurer paid or credited to a segregated fund of the insurer on account of a rebate under subsection (2) and the insurer knows or ought to know that the segregated fund is not entitled to the rebate or that the amount paid or credited exceeds the rebate to which the segregated fund is entitled, the insurer and the segregated fund are jointly and severally, **or solidarily**, liable to pay the amount of the rebate or excess to the Receiver General under section 264.
+**(7)** If an insurer, in determining its net tax for a reporting period, deducts an amount under subsection 234(5) that the insurer paid or credited to a segregated fund of the insurer on account of a rebate under subsection (2) and the insurer knows or ought to know that the segregated fund is not entitled to the rebate or that the amount paid or credited exceeds the rebate to which the segregated fund is entitled, the insurer and the segregated fund are jointly and severally, or solidarily, liable to pay the amount of the rebate or excess to the Receiver General under section 264.
 
 ### Section 142
 
   **(1)** The portion of paragraph 266(2)(d) of the English version of the Act before subparagraph (i) is replaced by the following:
 
-    the person and the receiver are jointly and severally, **or solidarily**, liable for the payment or remittance of all amounts that become payable or remittable by the person under this Part before or during the period during which the receiver is acting as receiver of the person to the extent that the amounts can reasonably be considered to relate to the relevant assets of the receiver or to the businesses, properties, affairs or assets of the person that would have been the relevant assets of the receiver if the receiver had been acting as receiver of the person at the time the amounts became payable or remittable, as the case may be, except that
+    the person and the receiver are jointly and severally, or solidarily, liable for the payment or remittance of all amounts that become payable or remittable by the person under this Part before or during the period during which the receiver is acting as receiver of the person to the extent that the amounts can reasonably be considered to relate to the relevant assets of the receiver or to the businesses, properties, affairs or assets of the person that would have been the relevant assets of the receiver if the receiver had been acting as receiver of the person at the time the amounts became payable or remittable, as the case may be, except that
 
   **(2)** Subparagraph 266(2)(d)(iii) of the Act is replaced by the following:
 
-    the payment or remittance by the person or the receiver of an amount in respect of the liability shall discharge **their** liability to the extent of that amount;
+    the payment or remittance by the person or the receiver of an amount in respect of the liability shall discharge their liability to the extent of that amount;
 
 ### Section 143
 
   **(1)** The portion of subsection 267.1(3) of the English version of the Act before paragraph (a) is replaced by the following:
 
-    **(3)** A trustee of a trust is jointly and severally, **or solidarily**, liable with the trust and each of the other trustees, if any, for the payment or remittance of all amounts that become payable or remittable by the trust under this Part before or during the period during which the trustee acts as trustee of the trust except that
+    **(3)** A trustee of a trust is jointly and severally, or solidarily, liable with the trust and each of the other trustees, if any, for the payment or remittance of all amounts that become payable or remittable by the trust under this Part before or during the period during which the trustee acts as trustee of the trust except that
 
   **(2)** Paragraph 267.1(3)(b) of the Act is replaced by the following:
 
-    the payment or remittance by the trust or the trustee of an amount in respect of the liability discharges **their** liability to the extent of that amount.
+    the payment or remittance by the trust or the trustee of an amount in respect of the liability discharges their liability to the extent of that amount.
 
 ### Section 144
 
   **(1)** The portion of subsection 272.1(5) of the English version of the Act before paragraph (a) is replaced by the following:
 
-    **(5)** A partnership and each member or former member (each of which is referred to in this subsection as the "member") of the partnership (other than a member who is a limited partner and is not a general partner) are jointly and severally, **or solidarily**, liable for
+    **(5)** A partnership and each member or former member (each of which is referred to in this subsection as the "member") of the partnership (other than a member who is a limited partner and is not a general partner) are jointly and severally, or solidarily, liable for
 
   **(2)** Subparagraph 272.1(5)(a)(ii) of the Act is replaced by the following:
 
-    the payment or remittance by the partnership or by any member thereof of an amount in respect of the liability discharges **their** liability to the extent of that amount; and
+    the payment or remittance by the partnership or by any member thereof of an amount in respect of the liability discharges their liability to the extent of that amount; and
 
 ### Section 145
 
 Subsection 273.1(6) of the French version of the Act is replaced by the following:
 
-**(6)** Lorsqu'il s'agit de déterminer le pourcentage de recettes d'exportation d'une personne donnée ou l'un des montants prévus aux paragraphes (2) à (5) relativement à des stocks finis d'une personne donnée ou à des produits de clients qui la concernent, dans le cas où une fourniture est effectuée **sans contrepartie** ou pour une contrepartie inférieure à la juste valeur marchande entre la personne donnée et une autre personne avec laquelle elle a un lien de dépendance et où tout ou partie de la contrepartie de la fourniture serait incluse dans le calcul du revenu tiré d'une entreprise de la personne donnée pour une année, la fourniture est réputée avoir été effectuée pour une contrepartie égale à la juste valeur marchande, et cette contrepartie est réputée être incluse dans le calcul du revenu en question.
+**(6)** Lorsqu'il s'agit de déterminer le pourcentage de recettes d'exportation d'une personne donnée ou l'un des montants prévus aux paragraphes (2) à (5) relativement à des stocks finis d'une personne donnée ou à des produits de clients qui la concernent, dans le cas où une fourniture est effectuée sans contrepartie ou pour une contrepartie inférieure à la juste valeur marchande entre la personne donnée et une autre personne avec laquelle elle a un lien de dépendance et où tout ou partie de la contrepartie de la fourniture serait incluse dans le calcul du revenu tiré d'une entreprise de la personne donnée pour une année, la fourniture est réputée avoir été effectuée pour une contrepartie égale à la juste valeur marchande, et cette contrepartie est réputée être incluse dans le calcul du revenu en question.
 
 ### Section 146
 
 The portion of subsection 289(3) of the Act before paragraph (a) is replaced by the following:
 
-**(3)** A judge of the Federal Court may, on application by the Minister and subject to any conditions that the judge considers appropriate, authorize the Minister to impose on a third party a requirement under subsection (1) relating to an unnamed person or more than one unnamed person (in this **subsection** referred to as the "group") if the judge is satisfied by information on oath that
+**(3)** A judge of the Federal Court may, on application by the Minister and subject to any conditions that the judge considers appropriate, authorize the Minister to impose on a third party a requirement under subsection (1) relating to an unnamed person or more than one unnamed person (in this subsection referred to as the "group") if the judge is satisfied by information on oath that
 
 ### Section 147
 
   **(1)** Paragraph 296(1)(d) of the Act is replaced by the following:
 
-    any amount payable by a person under any of paragraphs 228(2.1)(b) and (2.3)(d), section 230.1 and **paragraphs 232.01(5)(c) and 232.02(4)(c)**, and
+    any amount payable by a person under any of paragraphs 228(2.1)(b) and (2.3)(d), section 230.1 and paragraphs 232.01(5)(c) and 232.02(4)(c), and
 
   **(2)** Subsection (1) is deemed to have come into force on September 23, 2009.
 
@@ -5113,7 +5111,7 @@ The portion of subsection 289(3) of the Act before paragraph (a) is replaced by 
 
   **(1)** Paragraph 298(1)(a.1) of the Act is replaced by the following:
 
-    in the case of an assessment of an amount payable under paragraph 228(2.1)(b) or (2.3)(d), **232.01(5)(c) or 232.02(4)(c)** that a person is required to pay on or before a day, more than four years after that day;
+    in the case of an assessment of an amount payable under paragraph 228(2.1)(b) or (2.3)(d), 232.01(5)(c) or 232.02(4)(c) that a person is required to pay on or before a day, more than four years after that day;
 
   **(2)** Subsection (1) is deemed to have come into force on September 23, 2009.
 
@@ -5127,61 +5125,61 @@ Subparagraph 304(5)(b)(iv) of the French version of the Act is repealed.
 
 ### Section 324
 
-      **(1)** **If** any amount is required to be paid or remitted or any other thing is required to be done by or under this Part or the regulations made under this Part by a person (in this section referred to as the "body") that is not an individual, corporation, partnership, trust or estate, it shall be the joint and several, **or solidary**, liability and responsibility of
+      **(1)** If any amount is required to be paid or remitted or any other thing is required to be done by or under this Part or the regulations made under this Part by a person (in this section referred to as the "body") that is not an individual, corporation, partnership, trust or estate, it shall be the joint and several, or solidary, liability and responsibility of
 
   **(2)** Paragraphs 324(3)(a) to (c) of the English version of the Act are replaced by the following:
 
-    include any amount that the body was liable to pay or remit before the day the person became jointly and severally, **or solidarily**, liable;
+    include any amount that the body was liable to pay or remit before the day the person became jointly and severally, or solidarily, liable;
 
-    include any amount that the body became liable to pay or remit after the day the person ceased to be jointly and severally, **or solidarily**, liable; or
+    include any amount that the body became liable to pay or remit after the day the person ceased to be jointly and severally, or solidarily, liable; or
 
-    be made more than two years after the day the person ceased to be jointly and severally, **or solidarily**, liable unless the person was grossly negligent in the carrying out of any duty or obligation imposed on the body by or under this Part or made, or participated in, assented to or acquiesced in the making of, a false statement or omission in a return, application, form, certificate, statement, invoice or answer made by the body.
+    be made more than two years after the day the person ceased to be jointly and severally, or solidarily, liable unless the person was grossly negligent in the carrying out of any duty or obligation imposed on the body by or under this Part or made, or participated in, assented to or acquiesced in the making of, a false statement or omission in a return, application, form, certificate, statement, invoice or answer made by the body.
 
 ### Section 151
 
   **(1)** The portion of subsection 325(1) of the English version of the Act after paragraph (c) and before paragraph (d) is replaced by the following:
 
-    the transferee and transferor are jointly and severally, **or solidarily**, liable to pay under this Part an amount equal to the lesser of
+    the transferee and transferor are jointly and severally, or solidarily, liable to pay under this Part an amount equal to the lesser of
 
   **(2)** Subsection 325(2) of the French version of the Act is replaced by the following:
 
-    **(2)** Le ministre peut, **en tout temps**, établir une cotisation à l'égard d'un cessionnaire pour **tout** montant payable en application du présent article. Dès lors, les articles 296 à 311 s'appliquent, compte tenu des adaptations de circonstance.
+    **(2)** Le ministre peut, en tout temps, établir une cotisation à l'égard d'un cessionnaire pour tout montant payable en application du présent article. Dès lors, les articles 296 à 311 s'appliquent, compte tenu des adaptations de circonstance.
 
   **(3)** The portion of subsection 325(3) of the Act before paragraph (b) is replaced by the following:
 
-    **(3)** **If** a transferor and transferee have, by reason of subsection (1), become jointly and severally, **or solidarily**, liable in respect of part or all of the liability of the transferor under this Part, the following rules apply:
+    **(3)** If a transferor and transferee have, by reason of subsection (1), become jointly and severally, or solidarily, liable in respect of part or all of the liability of the transferor under this Part, the following rules apply:
 
-      a payment by the transferee on account of the transferee's liability shall, to the extent **of the payment**, discharge **their** liability; and
+      a payment by the transferee on account of the transferee's liability shall, to the extent of the payment, discharge their liability; and
 
   **(4)** Paragraph 325(3)(b) of the English version of the Act is replaced by the following:
 
-    a payment by the transferor on account of the transferor's liability only discharges the transferee's liability to the extent that the payment operates to reduce the transferor's liability to an amount less than the amount in respect of which the transferee was, by subsection (1), made jointly and severally, **or solidarily**, liable.
+    a payment by the transferor on account of the transferor's liability only discharges the transferee's liability to the extent that the payment operates to reduce the transferor's liability to an amount less than the amount in respect of which the transferee was, by subsection (1), made jointly and severally, or solidarily, liable.
 
 ### Section 152
 
   **(1)** Subsections 335(6) and (7) of the Act are replaced by the following:
 
-    **(6)** An affidavit of an officer of the **Canada Revenue** Agency or the Canada Border Services Agency, sworn before a commissioner or other person authorized to take affidavits, setting out that the officer has charge of the appropriate records and has knowledge of the practice of the **Canada Revenue** Agency or the Canada Border Services Agency, as the case may be, and that an examination of the records shows that a notice of assessment was mailed or otherwise sent to a person on a particular day under this Part and that, after careful examination and search of the records, the officer has been unable to find that a notice of objection or of appeal from the assessment, as the case may be, was received within the time allowed, is evidence of the statements contained in the affidavit.
+    **(6)** An affidavit of an officer of the Canada Revenue Agency or the Canada Border Services Agency, sworn before a commissioner or other person authorized to take affidavits, setting out that the officer has charge of the appropriate records and has knowledge of the practice of the Canada Revenue Agency or the Canada Border Services Agency, as the case may be, and that an examination of the records shows that a notice of assessment was mailed or otherwise sent to a person on a particular day under this Part and that, after careful examination and search of the records, the officer has been unable to find that a notice of objection or of appeal from the assessment, as the case may be, was received within the time allowed, is evidence of the statements contained in the affidavit.
 
-    **(7)** **If** evidence is offered under this section by an affidavit from which it appears that the person making the affidavit is an officer of the **Canada Revenue** Agency or the Canada Border Services Agency, as the case may be, it is not necessary to prove the signature of the person or that the person is such an officer, nor is it necessary to prove the signature or official character of the person before whom the affidavit was sworn.
+    **(7)** If evidence is offered under this section by an affidavit from which it appears that the person making the affidavit is an officer of the Canada Revenue Agency or the Canada Border Services Agency, as the case may be, it is not necessary to prove the signature of the person or that the person is such an officer, nor is it necessary to prove the signature or official character of the person before whom the affidavit was sworn.
 
   **(2)** Subsection 335(10) of the Act is replaced by the following:
 
-    **(10)** **For the purposes of this Part**, if any notice or demand that the Minister is required or authorized under this Part to send to a person is mailed, or sent electronically, to the person, the day of mailing or sending, as the case may be, shall be presumed to be the date of the notice or demand.
+    **(10)** For the purposes of this Part, if any notice or demand that the Minister is required or authorized under this Part to send to a person is mailed, or sent electronically, to the person, the day of mailing or sending, as the case may be, shall be presumed to be the date of the notice or demand.
 
   **(3)** Subsection 335(10.1) of the French version of the Act is replaced by the following:
 
-    **(10.1)** Pour l'application de la présente partie, tout avis ou autre communication concernant une personne qui est rendu disponible sous une forme électronique pouvant être lue ou perçue par une personne ou par un système informatique ou un dispositif semblable est **présumé** être envoyé à la personne, et être reçu par elle, à la date où un message électronique est envoyé — à l'adresse électronique la plus récente que la personne a fournie **avant cette date** au ministre pour l'application du présent paragraphe — pour l'informer qu'un avis ou une autre communication nécessitant son attention immédiate se trouve dans son compte électronique sécurisé. Un avis ou une autre communication est considéré comme étant rendu disponible s'il est affiché par le ministre sur le compte électronique sécurisé de la personne et si celle-ci a donné son autorisation pour que des avis ou d'autres communications soient rendus disponibles de cette manière et n'a pas retiré cette autorisation avant cette date selon les modalités fixées par le ministre.
+    **(10.1)** Pour l'application de la présente partie, tout avis ou autre communication concernant une personne qui est rendu disponible sous une forme électronique pouvant être lue ou perçue par une personne ou par un système informatique ou un dispositif semblable est présumé être envoyé à la personne, et être reçu par elle, à la date où un message électronique est envoyé — à l'adresse électronique la plus récente que la personne a fournie avant cette date au ministre pour l'application du présent paragraphe — pour l'informer qu'un avis ou une autre communication nécessitant son attention immédiate se trouve dans son compte électronique sécurisé. Un avis ou une autre communication est considéré comme étant rendu disponible s'il est affiché par le ministre sur le compte électronique sécurisé de la personne et si celle-ci a donné son autorisation pour que des avis ou d'autres communications soient rendus disponibles de cette manière et n'a pas retiré cette autorisation avant cette date selon les modalités fixées par le ministre.
 
 ### Section 153
 
   **(1)** The definitions **municipal transit service** and **transit authority** in section 1 of Part VI of Schedule V to the Act are replaced by the following:
 
-    **municipal transit service** means a public passenger transportation service (other than a charter service or a service that is part of a tour), **or a right that exclusively entitles an individual to use the service**, that is supplied by a transit authority;
+    **municipal transit service** means a public passenger transportation service (other than a charter service or a service that is part of a tour), or a right that exclusively entitles an individual to use the service, that is supplied by a transit authority;
 
-    **transit authority** means **an entity that meets the following conditions**:
+    **transit authority** means an entity that meets the following conditions:
 
-    **the entity is**
+    the entity is
 
     a division, department or agency of a government, municipality or school authority, the primary purpose of which is to supply public passenger transportation services, or
 
@@ -5189,7 +5187,7 @@ Subparagraph 304(5)(b)(iv) of the French version of the Act is repealed.
 
     receives funding from a government, municipality or school authority to support the supply of public passenger transportation services, or
 
-    is established and operated for the purpose of providing public passenger transportation services to individuals with a disability, **and**
+    is established and operated for the purpose of providing public passenger transportation services to individuals with a disability, and
 
     all or substantially all of the supplies made by the entity are
 
@@ -5207,25 +5205,25 @@ Subparagraph 304(5)(b)(iv) of the French version of the Act is repealed.
 
 Paragraphs 20(f) to (i) of Part VI of Schedule V to the French version of the Act are replaced by the following:
 
-**la fourniture de** services qui consistent à donner des renseignements en vertu de la `Loi sur la protection des renseignements personnels`, de la `Loi sur l'accès à l'information` ou d'une loi provinciale semblable;
+la fourniture de services qui consistent à donner des renseignements en vertu de la `Loi sur la protection des renseignements personnels`, de la `Loi sur l'accès à l'information` ou d'une loi provinciale semblable;
 
-**la fourniture de** services de police ou d'incendie effectuée au profit d'un gouvernement ou d'une municipalité, ou d'une commission ou autre organisme établi par ceux-ci;
+la fourniture de services de police ou d'incendie effectuée au profit d'un gouvernement ou d'une municipalité, ou d'une commission ou autre organisme établi par ceux-ci;
 
-**la fourniture de** services de collecte des ordures, y compris les matières recyclables;
+la fourniture de services de collecte des ordures, y compris les matières recyclables;
 
-**la fourniture d'un** droit de laisser des ordures à un lieu destiné à les recevoir.
+la fourniture d'un droit de laisser des ordures à un lieu destiné à les recevoir.
 
 ### Section 155
 
   **(1)** Section 24 of Part VI of Schedule V to the Act is replaced by the following:
 
-    A supply (**other than a supply made to a transit authority**) of
+    A supply (other than a supply made to a transit authority) of
 
     a municipal transit service;
 
     a right that exclusively entitles an individual to use a public passenger transportation service (other than a charter service or a service that is part of a tour) that is operated by a transit authority;
 
-    a public passenger transportation service designated by the Minister to be a municipal transit service; **or**
+    a public passenger transportation service designated by the Minister to be a municipal transit service; or
 
     a right that exclusively entitles an individual to use a public passenger transportation service referred to in paragraph (c).
 
@@ -5245,37 +5243,37 @@ Paragraphs 20(f) to (i) of Part VI of Schedule V to the French version of the Ac
 
 Section 26 of Part VI of Schedule V to the French version of the Act is replaced by the following:
 
-Une fourniture, effectuée par un organisme **à** but **non** lucratif constitué principalement au profit d'une organisation syndicale, au profit d'un des organismes suivants ou une fourniture effectuée par un de ceux-ci au profit d'un tel organisme **à** but **non** lucratif :
+Une fourniture, effectuée par un organisme à but non lucratif constitué principalement au profit d'une organisation syndicale, au profit d'un des organismes suivants ou une fourniture effectuée par un de ceux-ci au profit d'un tel organisme à but non lucratif :
 
-un syndicat, une association ou un organisme, visé aux alinéas 189a) à c) de la loi, qui est membre de l'organisme **à** but **non** lucratif ou y est affilié;
+un syndicat, une association ou un organisme, visé aux alinéas 189a) à c) de la loi, qui est membre de l'organisme à but non lucratif ou y est affilié;
 
-un autre organisme **à** but **non** lucratif constitué principalement au profit d'une organisation syndicale.
+un autre organisme à but non lucratif constitué principalement au profit d'une organisation syndicale.
 
 ### Section 157
 
 Paragraph 3(b) of Schedule VII to the French version of the Act is replaced by the following:
 
-sont importés par une chambre de commerce, une association municipale, une association d'automobilistes ou un organisme semblable auxquels ils ont été fournis **sans contrepartie**, mis à part les frais d'expédition et de manutention.
+sont importés par une chambre de commerce, une association municipale, une association d'automobilistes ou un organisme semblable auxquels ils ont été fournis sans contrepartie, mis à part les frais d'expédition et de manutention.
 
 ### Section 158
 
 Sections 5 and 5.1 of Schedule VII to the French version of the Act are replaced by the following:
 
-Les produits importés par une personne, qui lui sont fournis par une personne non-résidente **sans contrepartie**, mis à part les frais de manutention et d'expédition, et qui sont des pièces de rechange ou des biens de remplacement visés par une garantie.
+Les produits importés par une personne, qui lui sont fournis par une personne non-résidente sans contrepartie, mis à part les frais de manutention et d'expédition, et qui sont des pièces de rechange ou des biens de remplacement visés par une garantie.
 
-Les produits importés dans l'unique but de remplir une obligation, prévue par une garantie, de réparer ou de remplacer les produits défectueux, à condition que les produits de remplacement soient fournis **sans contrepartie**, mis à part les frais d'expédition et de manutention, et exportés sans être consommés ou utilisés au Canada, sauf dans la mesure qu'il est raisonnable de considérer comme nécessaire ou accessoire à leur transport.
+Les produits importés dans l'unique but de remplir une obligation, prévue par une garantie, de réparer ou de remplacer les produits défectueux, à condition que les produits de remplacement soient fournis sans contrepartie, mis à part les frais d'expédition et de manutention, et exportés sans être consommés ou utilisés au Canada, sauf dans la mesure qu'il est raisonnable de considérer comme nécessaire ou accessoire à leur transport.
 
 ### Section 159
 
 Paragraph 12(b) of Part I of Schedule X to the French version of the Act is replaced by the following:
 
-par une chambre de commerce, une association municipale, une association d'automobilistes ou un organisme semblable auxquels ils ont été fournis **sans contrepartie**, mis à part les frais de manutention et d'expédition.
+par une chambre de commerce, une association municipale, une association d'automobilistes ou un organisme semblable auxquels ils ont été fournis sans contrepartie, mis à part les frais de manutention et d'expédition.
 
 ### Section 160
 
 Section 14 of Part I of Schedule X to the French version of the Act is replaced by the following:
 
-Les biens transférés dans une province participante par une personne, qui lui sont fournis **sans contrepartie**, mis à part les frais de manutention et d'expédition, et qui sont des pièces de rechange ou des biens de remplacement visés par une garantie.
+Les biens transférés dans une province participante par une personne, qui lui sont fournis sans contrepartie, mis à part les frais de manutention et d'expédition, et qui sont des pièces de rechange ou des biens de remplacement visés par une garantie.
 
 ### Section 161
 
@@ -5342,9 +5340,9 @@ section 1 and the heading before it.
 
   **(1)** The definition **beer** or **malt liquor** in section 4 of the Act is replaced by the following:
 
-    **beer** or **malt liquor** means **any product (other than** wine, as defined in section 2 of the `Excise Act, 2001`) that is
+    **beer** or **malt liquor** means any product (other than wine, as defined in section 2 of the `Excise Act, 2001`) that is
 
-    **a** fermented liquor that is brewed in whole or in part from malt, grain or any saccharine matter without any process of distillation and that has an alcoholic strength not in excess of 11.9% absolute ethyl alcohol by volume, **or**
+    a fermented liquor that is brewed in whole or in part from malt, grain or any saccharine matter without any process of distillation and that has an alcoholic strength not in excess of 11.9% absolute ethyl alcohol by volume, or
 
     beer concentrate; (**bière** ou **liqueur de malt**)
 
@@ -5376,7 +5374,7 @@ section 1 and the heading before it.
 
 ### Section 170
 
-      **(1)** There shall be imposed, levied and collected on every hectolitre of beer or malt liquor, **other than beer concentrate**, the duties of excise set out in Part II of the schedule, which duties shall be paid to the collector as provided in this Act.
+      **(1)** There shall be imposed, levied and collected on every hectolitre of beer or malt liquor, other than beer concentrate, the duties of excise set out in Part II of the schedule, which duties shall be paid to the collector as provided in this Act.
 
       **(1.1)** There shall be imposed, levied and collected, and paid to the collector as provided in this Act, on beer concentrate the duties of excise determined by the following formula:
 
@@ -5454,11 +5452,11 @@ Despite any other Act, the payments paid under a coordinated cannabis taxation a
 
   **(1)** Paragraph 40(b) of the Act is replaced by the following:
 
-    respecting the calculation and payment to a province of advances on account of any amount that may become payable to the province under this Act, an administration agreement, a reciprocal taxation agreement, a sales tax harmonization agreement or **a coordinated cannabis taxation agreement** and the adjustment, by way of reduction or set off, of other payments to the province because of those advances;
+    respecting the calculation and payment to a province of advances on account of any amount that may become payable to the province under this Act, an administration agreement, a reciprocal taxation agreement, a sales tax harmonization agreement or a coordinated cannabis taxation agreement and the adjustment, by way of reduction or set off, of other payments to the province because of those advances;
 
   **(2)** Paragraph 40(d) of the Act is replaced by the following:
 
-    prescribing the time and manner of making any payment under this Act, an administration agreement, a sales tax harmonization agreement or **a coordinated cannabis taxation agreement**;
+    prescribing the time and manner of making any payment under this Act, an administration agreement, a sales tax harmonization agreement or a coordinated cannabis taxation agreement;
 
 
 ## Various Measures
@@ -5472,9 +5470,9 @@ Subsection 8(1) of the `Bretton Woods and Related Agreements Act` is replaced by
 
 ### Section 8
 
-  **(1)** The Minister of Finance may provide financial assistance to the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation and the Multilateral Investment Guarantee Agency, **directly or through any trust or body established by those institutions**, by way of
+  **(1)** The Minister of Finance may provide financial assistance to the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation and the Multilateral Investment Guarantee Agency, directly or through any trust or body established by those institutions, by way of
 
-    direct payments, **grants and loans**;
+    direct payments, grants and loans;
 
     the issuance of non-interest bearing, non-negotiable demand notes;
 
@@ -5490,13 +5488,13 @@ Subsection 8(1) of the `Bretton Woods and Related Agreements Act` is replaced by
 
 ### Section 8.1
 
-      **(1)** The Minister of Finance may lend to the International Monetary Fund, at **any** rate of interest and on **any** other terms and conditions **that** the Governor in Council may approve, **any** sum or sums of money **that** may be required for funding any trust or body established by the Fund to assist in fulfilling the purposes of the Fund, **at no time** exceeding **one billion Special Drawing Rights**, or **any other** amount **that** may be fixed by the Governor in Council.
+      **(1)** The Minister of Finance may lend to the International Monetary Fund, at any rate of interest and on any other terms and conditions that the Governor in Council may approve, any sum or sums of money that may be required for funding any trust or body established by the Fund to assist in fulfilling the purposes of the Fund, at no time exceeding one billion Special Drawing Rights, or any other amount that may be fixed by the Governor in Council.
 
       **(1.1)** The Minister of Finance may lend to the International Monetary Fund, at any rate of interest and on any other terms and conditions that the Governor in Council may approve, any sum or sums of money that may be required to assist the Fund in fulfilling the purpose of safeguarding global economic and financial stability, at no time exceeding 13 billion Special Drawing Rights, or any other amount that may be fixed by the Governor in Council.
 
   **(2)** Subsection 8.1(3) of the Act is replaced by the following:
 
-    **(3)** The Minister of Finance may make payments out of the Consolidated Revenue Fund for the purposes mentioned in subsections (1), **(1.1)** and (2).
+    **(3)** The Minister of Finance may make payments out of the Consolidated Revenue Fund for the purposes mentioned in subsections (1), (1.1) and (2).
 
     **(4)** The Minister of Finance may direct the reassignment of funds subscribed or contributed by Canada to the International Monetary Fund, or owed to Canada by the Fund, for a similar purpose within the Fund, subject to any terms and conditions that the Minister considers appropriate.
 
@@ -5514,7 +5512,7 @@ Section 14 of the Act is replaced by the following:
 
 ### Section 14
 
-The Minister of Finance shall cause to be laid before **each House of** Parliament the communiqués issued by the **International Monetary and Financial** Committee of the International Monetary Fund and the Development Committee of the International Bank for Reconstruction and Development and the International Monetary Fund.
+The Minister of Finance shall cause to be laid before each House of Parliament the communiqués issued by the International Monetary and Financial Committee of the International Monetary Fund and the Development Committee of the International Bank for Reconstruction and Development and the International Monetary Fund.
 
 
 ### Asian Infrastructure Investment Bank Agreement Act
@@ -5588,11 +5586,11 @@ This Division comes into force on a day to be fixed by order of the Governor in 
 
   **(1)** Subsection 39.15(4) of the English version of the `Canada Deposit Insurance Corporation Act` is replaced by the following:
 
-    **(4)** A federal member institution in respect of which an order is made under subsection 39.13(1) may not enforce against a person a right to receive an amount against which the person, but for paragraph (1)(d), would have a right of set-off **or compensation**.
+    **(4)** A federal member institution in respect of which an order is made under subsection 39.13(1) may not enforce against a person a right to receive an amount against which the person, but for paragraph (1)(d), would have a right of set-off or compensation.
 
   **(2)** Paragraph 39.15(7)(c) of the Act is replaced by the following:
 
-    the exercise of remedies for a failure to **satisfy an obligation** under or in connection with the contract, **including the payment** of an amount payable — **or the delivery of property deliverable — under or in connection with the contract**;
+    the exercise of remedies for a failure to satisfy an obligation under or in connection with the contract, including the payment of an amount payable — or the delivery of property deliverable — under or in connection with the contract;
 
   **(3)** Subsection 39.15(7) of the Act is amended by striking out "or" at the end of paragraph (d) and by replacing paragraph (e) with the following:
 
@@ -5604,7 +5602,7 @@ This Division comes into force on a day to be fixed by order of the Governor in 
 
     as a remedy for a failure described in paragraph (c); or
 
-    any dealing with financial collateral, **other than a dealing set out in paragraph (e)**.
+    any dealing with financial collateral, other than a dealing set out in paragraph (e).
 
   **(4)** Subsection 39.15(7.01) of the Act is replaced by the following:
 
@@ -5616,11 +5614,11 @@ This Division comes into force on a day to be fixed by order of the Governor in 
 
   **(5)** The portion of subsection 39.15(7.1) of the Act before paragraph (a) is replaced by the following:
 
-    **(7.1)** If an order **is** made under subsection 39.13(1), the actions referred to in paragraphs (7)(a), (b) and (**f**) are not to be taken by reason only of
+    **(7.1)** If an order is made under subsection 39.13(1), the actions referred to in paragraphs (7)(a), (b) and (f) are not to be taken by reason only of
 
   **(6)** Subsections 39.15(7.101) and (7.102) of the Act are replaced by the following:
 
-    **(7.101)** If the **Corporation** considers that all or substantially all of the federal member institution's assets will be transferred to a third party **and that an** eligible financial contract **of that institution will not be assigned to a third party, it** may **give notice to that effect to the parties to that contract, in which case paragraphs** (7.1)**(a) and (c) cease** to apply in respect of **that contract at the date and time the notice is issued**.
+    **(7.101)** If the Corporation considers that all or substantially all of the federal member institution's assets will be transferred to a third party and that an eligible financial contract of that institution will not be assigned to a third party, it may give notice to that effect to the parties to that contract, in which case paragraphs (7.1)(a) and (c) cease to apply in respect of that contract at the date and time the notice is issued.
 
     **(7.102)** Paragraph (7.1)(a) and, if the order made under subsection 39.13(1) directs the incorporation of a bridge institution, paragraph (7.1)(c) cease to apply to an eligible financial contract at 5:00 p.m. at the location of the Corporation's head office on the second business day after the day on which the order is made under subsection 39.13(1), unless the Corporation has undertaken, before that time, to assign the contract to a bridge institution.
 
@@ -5638,15 +5636,15 @@ This Division comes into force on a day to be fixed by order of the Governor in 
 
   **(8)** Subsection 39.15(7.12) of the Act is replaced by the following:
 
-    **(7.12)** **Subsection** (7.1) **does** not apply in respect of an eligible financial contract between the federal member institution and a clearing house unless the Corporation has given the undertaking referred to in subsection (3.3) in respect of the institution.
+    **(7.12)** Subsection (7.1) does not apply in respect of an eligible financial contract between the federal member institution and a clearing house unless the Corporation has given the undertaking referred to in subsection (3.3) in respect of the institution.
 
   **(9)** Paragraph 39.15(7.21)(d) of the Act is replaced by the following:
 
-    its creditworthiness, **taking into account any credit support or guarantee in respect of its obligations under the assigned contracts,** is at least as good as the federal member institution's creditworthiness was immediately before the order was made under subsection 39.13(1), **taking into account any credit support or guarantee in respect of the federal member institution's obligations under those contracts**.
+    its creditworthiness, taking into account any credit support or guarantee in respect of its obligations under the assigned contracts, is at least as good as the federal member institution's creditworthiness was immediately before the order was made under subsection 39.13(1), taking into account any credit support or guarantee in respect of the federal member institution's obligations under those contracts.
 
   **(10)** The definition **business day** in subsection 39.15(9) of the Act is replaced by the following:
 
-    **business day** means a day, other than a Saturday or a **holiday at the location of** the head office of the federal member institution. (**jour ouvrable**)
+    **business day** means a day, other than a Saturday or a holiday at the location of the head office of the federal member institution. (**jour ouvrable**)
 
 ### Section 181
 
@@ -5654,7 +5652,7 @@ This Division comes into force on a day to be fixed by order of the Governor in 
 
 ### Section 39.18
 
-      **(1)** **Subject to subsection (2)**, sections 39.14 and 39.15 cease to apply in respect of a federal member institution
+      **(1)** Subject to subsection (2), sections 39.14 and 39.15 cease to apply in respect of a federal member institution
 
   **(2)** The portion of subsection 39.18(2) of the Act before paragraph (a) is replaced by the following:
 
@@ -5662,7 +5660,7 @@ This Division comes into force on a day to be fixed by order of the Governor in 
 
   **(3)** Paragraph 39.18(2)(b) of the Act is replaced by the following:
 
-    subsections 39.15(7.1) to (**7.3**) continue to apply.
+    subsections 39.15(7.1) to (7.3) continue to apply.
 
 
 #### Consequential Amendments to the Payment Clearing and Settlement Act
@@ -5671,19 +5669,19 @@ This Division comes into force on a day to be fixed by order of the Governor in 
 
 Paragraph 8(3.1)(a) of the `Payment Clearing and Settlement Act` is replaced by the following:
 
-no action may be taken in respect of an eligible financial contract, as defined in subsection 39.15(9) of the `Canada Deposit Insurance Corporation Act`, if it is prevented by subsection 39.15(7.1), **(7.104)**, (7.11), (7.12) or (7.2) or section 39.152 of that Act; and
+no action may be taken in respect of an eligible financial contract, as defined in subsection 39.15(9) of the `Canada Deposit Insurance Corporation Act`, if it is prevented by subsection 39.15(7.1), (7.104), (7.11), (7.12) or (7.2) or section 39.152 of that Act; and
 
 ### Section 183
 
 Subsection 13(1.2) of the Act is replaced by the following:
 
-**(1.2)** Despite subsections (1) and (1.1), no action may be taken in respect of an eligible financial contract, as defined in subsection 39.15(9) of the `Canada Deposit Insurance Corporation Act`, if it is prevented by subsection 39.15(7.1), **(7.104)**, (7.11), (7.12) or (7.2) or section 39.152 of that Act.
+**(1.2)** Despite subsections (1) and (1.1), no action may be taken in respect of an eligible financial contract, as defined in subsection 39.15(9) of the `Canada Deposit Insurance Corporation Act`, if it is prevented by subsection 39.15(7.1), (7.104), (7.11), (7.12) or (7.2) or section 39.152 of that Act.
 
 ### Section 184
 
 Subsection 13.1(1.1) of the Act is replaced by the following:
 
-**(1.1)** Despite subsection (1), no action may be taken in respect of an eligible financial contract, as defined in subsection 39.15(9) of the `Canada Deposit Insurance Corporation Act`, if it is prevented by subsection 39.15(7.1), **(7.104)**, (7.11), (7.12) or (7.2) or section 39.152 of that Act.
+**(1.1)** Despite subsection (1), no action may be taken in respect of an eligible financial contract, as defined in subsection 39.15(9) of the `Canada Deposit Insurance Corporation Act`, if it is prevented by subsection 39.15(7.1), (7.104), (7.11), (7.12) or (7.2) or section 39.152 of that Act.
 
 
 ### Bank of Canada Act
@@ -5695,9 +5693,9 @@ Subsection 13.1(1.1) of the Act is replaced by the following:
 
 Paragraph 18(h) of the `Bank of Canada Act` is replaced by the following:
 
-make loans or advances for periods **of not more than** six months to **any member** of the Canadian Payments Association on taking
+make loans or advances for periods of not more than six months to any member of the Canadian Payments Association on taking
 
-security in any property, **including in any real property or immovable situated in Canada, or**
+security in any property, including in any real property or immovable situated in Canada, or
 
 an assignment or transfer of the member's right, title or interest in any real property or immovable situated in Canada, including any mortgage or hypothec on that real property or immovable;
 
@@ -5708,7 +5706,7 @@ an assignment or transfer of the member's right, title or interest in any real p
 
   **(1)** The portion of subsection 39.15(6) of the `Canada Deposit Insurance Corporation Act` before paragraph (a) is replaced by the following:
 
-    **(6)** Paragraphs (1)(b) to (e) and subsection (2) do not apply in respect of a remedy under, or a stipulation of, a security agreement creating a security interest in assets of a federal member institution **or an agreement assigning or transferring the institution's right, title or interest in any real property or immovable situated in Canada, including any mortgage or hypothec on that real property or immovable**, if
+    **(6)** Paragraphs (1)(b) to (e) and subsection (2) do not apply in respect of a remedy under, or a stipulation of, a security agreement creating a security interest in assets of a federal member institution or an agreement assigning or transferring the institution's right, title or interest in any real property or immovable situated in Canada, including any mortgage or hypothec on that real property or immovable, if
 
   **(2)** Paragraph 39.15(6)(a) of the English version of the Act is replaced by the following:
 
@@ -5720,9 +5718,9 @@ an assignment or transfer of the member's right, title or interest in any real p
 
   **(4)** Subparagraphs 39.15(6)(b)(i) and (ii) of the Act are replaced by the following:
 
-    to ensure that the obligations secured by the security interest **or the assignment or transfer** will be assumed by a bridge institution or a third party, or
+    to ensure that the obligations secured by the security interest or the assignment or transfer will be assumed by a bridge institution or a third party, or
 
-    to provide the federal member institution with the financial assistance that it needs to discharge the obligations secured by the security interest **or the assignment or transfer** as they become due.
+    to provide the federal member institution with the financial assistance that it needs to discharge the obligations secured by the security interest or the assignment or transfer as they become due.
 
 
 #### Coordinating Amendment
@@ -5752,9 +5750,9 @@ The definition **participant** in section 2 of the `Payment Clearing and Settlem
 
 ### Section 6
 
-      **(1)** The Governor of the Bank may issue a directive in writing to a clearing house of a designated clearing and settlement system that requires the clearing house, within any period that may be specified in the directive, to take  — and to have the participants take — any corrective measures that the Governor considers necessary, if the Governor is of the opinion that systemic risk or payments system risk **could** be inadequately controlled because of
+      **(1)** The Governor of the Bank may issue a directive in writing to a clearing house of a designated clearing and settlement system that requires the clearing house, within any period that may be specified in the directive, to take  — and to have the participants take — any corrective measures that the Governor considers necessary, if the Governor is of the opinion that systemic risk or payments system risk could be inadequately controlled because of
 
-        the **design or** operation of the clearing and settlement system;
+        the design or operation of the clearing and settlement system;
 
         the ownership or control of the clearing and settlement system;
 
@@ -5768,15 +5766,15 @@ The definition **participant** in section 2 of the `Payment Clearing and Settlem
 
 ### Section (2)
 
-    The Governor of the Bank may issue a directive in writing to a participant that requires the participant, within any period that may be specified in the directive, to take any corrective measures that the Governor considers necessary if the Governor has formed an opinion referred to in subsection (1) that systemic risk or payments system risk **could be** inadequately controlled and
+    The Governor of the Bank may issue a directive in writing to a participant that requires the participant, within any period that may be specified in the directive, to take any corrective measures that the Governor considers necessary if the Governor has formed an opinion referred to in subsection (1) that systemic risk or payments system risk could be inadequately controlled and
 
   **(3)** Paragraph 6(2)(c) of the Act is replaced by the following:
 
     in the opinion of the Governor,
 
-    the risk **could be** inadequately controlled because of an **actual or anticipated** act or omission by a participant, and
+    the risk could be inadequately controlled because of an actual or anticipated act or omission by a participant, and
 
-    the **actual or anticipated** act or omission is not subject to the by-laws, agreements, rules, procedures, guides or other documentation governing the designated clearing and settlement system.
+    the actual or anticipated act or omission is not subject to the by-laws, agreements, rules, procedures, guides or other documentation governing the designated clearing and settlement system.
 
   **(4)** Section 6 of the Act is amended by adding the following after subsection (2):
 
@@ -5797,23 +5795,23 @@ The Act is amended by adding the following after section 6:
 Section 9 of the Act and the heading before it are replaced by the following:
 
 
-### Notice **and Approvals**
+### Notice and Approvals
 
-### Section **9**
+### Section 9
 
   **(1)** For the purposes of this section, a change is significant if it could reasonably be expected to have a material impact on the efficiency, safety or soundness of the designated clearing and settlement system.
 
-  **(2)** **A** clearing house shall provide the Bank with reasonable notice **before making**
+  **(2)** A clearing house shall provide the Bank with reasonable notice before making
 
-    any **significant** change in relation to the designated clearing and settlement system;
+    any significant change in relation to the designated clearing and settlement system;
 
-    any change in **relation to** the **design or** operation of **the system or to** the by-laws, agreements, rules, procedures, guides or other documentation governing the system; **or**
+    any change in relation to the design or operation of the system or to the by-laws, agreements, rules, procedures, guides or other documentation governing the system; or
 
-    **any change to** the constating documents and by-laws of the clearing house.
+    any change to the constating documents and by-laws of the clearing house.
 
   **(3)** If the Governor of the Bank is of the opinion that a significant change that the clearing house intends to make in relation to the designated clearing and settlement system would have an effect on the control of risk for the system, the clearing house, the participants or the financial system in Canada, that change shall not take effect unless it is approved in writing by the Governor, subject to any conditions that the Governor considers appropriate.
 
-  ****(4)**** **A** clearing house shall, **without delay** after it makes any **change** in relation to the designated clearing and settlement system, **other than a change referred to in subsection (2)**, provide the Bank with written notice of the change, **including** any change affecting
+  **(4)** A clearing house shall, without delay after it makes any change in relation to the designated clearing and settlement system, other than a change referred to in subsection (2), provide the Bank with written notice of the change, including any change affecting
 
     the composition of a board of directors of the clearing house due to resignation or otherwise; or
 
@@ -5829,7 +5827,7 @@ the exercise of the Bank's powers and the performance of its duties and function
 
 Subsection 22.1(2) of the Act is replaced by the following:
 
-**(2)** The Governor **of the Bank** may prohibit the authorized foreign bank or foreign institution from being a participant in the designated clearing and settlement system or may require it to comply with any conditions with respect to its participation that the Governor considers necessary if the Governor is of the opinion, on the basis of the information provided under subsection (1) or of any other information that the Governor considers relevant, that its participation **could** pose a systemic risk or a payments system risk or **could** pose an unacceptable risk to the Bank in guaranteeing settlement of the authorized foreign bank's or foreign institution's obligations.
+**(2)** The Governor of the Bank may prohibit the authorized foreign bank or foreign institution from being a participant in the designated clearing and settlement system or may require it to comply with any conditions with respect to its participation that the Governor considers necessary if the Governor is of the opinion, on the basis of the information provided under subsection (1) or of any other information that the Governor considers relevant, that its participation could pose a systemic risk or a payments system risk or could pose an unacceptable risk to the Bank in guaranteeing settlement of the authorized foreign bank's or foreign institution's obligations.
 
 
 ### Northern Pipeline Act
@@ -5840,11 +5838,11 @@ Section 29 of the `Northern Pipeline Act` is replaced by the following:
 
 ### Section 29
 
-  **(1)** Every certificate of public convenience and necessity declared to be issued by **subsection 21(1)** to a company is subject to the condition that the company shall **annually** pay to the Receiver General an amount **equal to the** costs **that are attributable** to the **Agency's responsibilities under this Act** and **that are** incurred by the Agency in the **previous fiscal year with** respect **to that company.**
+  **(1)** Every certificate of public convenience and necessity declared to be issued by subsection 21(1) to a company is subject to the condition that the company shall annually pay to the Receiver General an amount equal to the costs that are attributable to the Agency's responsibilities under this Act and that are incurred by the Agency in the previous fiscal year with respect to that company.
 
   **(2)** The Agency shall, no later than November 15 in each year, issue to each company an invoice for the amount payable under subsection (1).
 
-  **(3)** **Any** amount that is payable under subsection (1) shall be paid no later than the 30th day after the date of the invoice.
+  **(3)** Any amount that is payable under subsection (1) shall be paid no later than the 30th day after the date of the invoice.
 
   **(4)** If a company fails to pay any amount invoiced within the required period, the company shall pay interest on the outstanding amount at a rate of 1.5% per month, compounded monthly, beginning on the 31st day after the date of the invoice.
 
@@ -5860,11 +5858,11 @@ Section 29 of the `Northern Pipeline Act` is replaced by the following:
 
 ### Section 170
 
-      **(1)** An employer may, in respect of **one or more** employees subject to a collective agreement, establish, modify or cancel a work schedule under which the hours exceed the standard hours of work set out in paragraph 169(1)(a) if
+      **(1)** An employer may, in respect of one or more employees subject to a collective agreement, establish, modify or cancel a work schedule under which the hours exceed the standard hours of work set out in paragraph 169(1)(a) if
 
   **(2)** The portion of subsection 170(2) of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** Subject to subsection (3), an employer may, in respect **of one or more** employees not subject to a collective agreement, establish, modify or cancel a work schedule under which the hours exceed the standard hours of work set out in paragraph 169(1)(a) if
+    **(2)** Subject to subsection (3), an employer may, in respect of one or more employees not subject to a collective agreement, establish, modify or cancel a work schedule under which the hours exceed the standard hours of work set out in paragraph 169(1)(a) if
 
   **(3)** Paragraph 170(2)(b) of the Act is replaced by the following:
 
@@ -5872,7 +5870,7 @@ Section 29 of the `Northern Pipeline Act` is replaced by the following:
 
     in the case of one employee's schedule, in writing by that employee, or
 
-    **in the case of more than one employee's schedule**, by at least 70% of the affected employees.
+    in the case of more than one employee's schedule, by at least 70% of the affected employees.
 
   **(4)** Section 170 of the Act is amended by adding the following after subsection (3):
 
@@ -5884,11 +5882,11 @@ Section 29 of the `Northern Pipeline Act` is replaced by the following:
 
 ### Section 172
 
-      **(1)** An employer may, in respect of **one or more** employees subject to a collective agreement, establish, modify or cancel a work schedule under which the hours exceed the maximum set out in section 171 or in regulations made under section 175 if
+      **(1)** An employer may, in respect of one or more employees subject to a collective agreement, establish, modify or cancel a work schedule under which the hours exceed the maximum set out in section 171 or in regulations made under section 175 if
 
   **(2)** The portion of subsection 172(2) of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** Subject to subsection (3), an employer may, in respect of **one or more** employees not subject to a collective agreement, establish, modify or cancel a work schedule under which the hours exceed the maximum set out in section 171 or in regulations made under section 175 if
+    **(2)** Subject to subsection (3), an employer may, in respect of one or more employees not subject to a collective agreement, establish, modify or cancel a work schedule under which the hours exceed the maximum set out in section 171 or in regulations made under section 175 if
 
   **(3)** Paragraph 172(2)(b) of the Act is replaced by the following:
 
@@ -5896,7 +5894,7 @@ Section 29 of the `Northern Pipeline Act` is replaced by the following:
 
     in the case of one employee's schedule, in writing by that employee, or
 
-    **in the case of more than one employee's schedule**, by at least 70% of the affected employees.
+    in the case of more than one employee's schedule, by at least 70% of the affected employees.
 
   **(4)** Section 172 of the Act is amended by adding the following after subsection (3):
 
@@ -5926,9 +5924,9 @@ Section 174 of the Act is replaced by the following:
 
 ### Section 174
 
-  ****(1)**** Subject to any regulations made **under** section 175, when an employee is required or permitted to work **overtime**, **they are entitled to**
+  **(1)** Subject to any regulations made under section 175, when an employee is required or permitted to work overtime, they are entitled to
 
-    be paid for the overtime at a rate of wages not less than one and one-half times **their** regular rate of wages; **or**
+    be paid for the overtime at a rate of wages not less than one and one-half times their regular rate of wages; or
 
     be granted not less than one and one-half hours of time off with pay for each hour of overtime worked, subject to subsections (2) to (5).
 
@@ -5946,7 +5944,7 @@ Section 174 of the Act is replaced by the following:
 
   **(4)** If the employee does not take all or part of the time off within the applicable period referred to in paragraph (2)(b), the employer shall, within 30 days after the day on which that period ends, pay the employee's wages for the overtime for which the time off was not taken, at a rate of wages not less than one and one-half times the employee's regular rate of wages on the day on which they worked the overtime.
 
-  **(5)** If an employee ceases to be employed before the employee takes all or part of the time off referred to in paragraph (1)(b), the employer shall, within 30 days after the day on which the employee ceases to be employed, pay the employee's wages for the overtime for which the time off was not taken, at a rate of wages not less than one and one-half times **the employee's** regular rate of wages on the day on which the employee worked the overtime.
+  **(5)** If an employee ceases to be employed before the employee takes all or part of the time off referred to in paragraph (1)(b), the employer shall, within 30 days after the day on which the employee ceases to be employed, pay the employee's wages for the overtime for which the time off was not taken, at a rate of wages not less than one and one-half times the employee's regular rate of wages on the day on which the employee worked the overtime.
 
   **(6)** Section 189 applies for the purposes of this section.
 
@@ -6049,9 +6047,9 @@ A vacation granted to an employee under this Division is to be taken only in one
 
 Paragraph 185(b) of the Act is replaced by the following:
 
-shall, at **any** time **that** is prescribed by the regulations, pay to the employee
+shall, at any time that is prescribed by the regulations, pay to the employee
 
-**if the vacation is taken in one period**, the vacation pay to which the employee is entitled in respect of that vacation, **or**
+if the vacation is taken in one period, the vacation pay to which the employee is entitled in respect of that vacation, or
 
 if the vacation is taken in more than one period, for each period, the proportion of the vacation pay that the vacation taken is of the annual vacation to which the employee is entitled.
 
@@ -6087,17 +6085,17 @@ The Act is amended by adding the following after section 187:
 
 ### Section 195
 
-      **(1)** An employer may, in respect of **one or more** employees subject to a collective agreement, substitute any other **day** for a general holiday if the substitution is agreed to in writing by the employer and the trade union, and the substituted **day** shall, for **that employee or** those employees, be deemed to be a general holiday for the purposes of this Part.
+      **(1)** An employer may, in respect of one or more employees subject to a collective agreement, substitute any other day for a general holiday if the substitution is agreed to in writing by the employer and the trade union, and the substituted day shall, for that employee or those employees, be deemed to be a general holiday for the purposes of this Part.
 
-      **(2)** Subject to subsection (3), an employer may, in respect of **one or more** employees not subject to a collective agreement, substitute any other **day** for a general holiday and the substituted **day** shall, for **that employee or** those employees, be deemed to be a general holiday for the purposes of this Part, if the substitution has been approved
+      **(2)** Subject to subsection (3), an employer may, in respect of one or more employees not subject to a collective agreement, substitute any other day for a general holiday and the substituted day shall, for that employee or those employees, be deemed to be a general holiday for the purposes of this Part, if the substitution has been approved
 
         in the case of a substitution that affects one employee, by that employee in writing; or
 
-        **in the case of a substitution that affects more than one employee**, by at least 70% of the affected employees.
+        in the case of a substitution that affects more than one employee, by at least 70% of the affected employees.
 
   **(2)** Subsection 195(3) of the English version of the Act is replaced by the following:
 
-    **(3)** **If** any other **day** is to be substituted for a general holiday **under** subsection (2), the employer shall post a notice of the substitution in readily accessible places where it is likely to be seen by the affected employees, for at least 30 days before the substitution takes effect.
+    **(3)** If any other day is to be substituted for a general holiday under subsection (2), the employer shall post a notice of the substitution in readily accessible places where it is likely to be seen by the affected employees, for at least 30 days before the substitution takes effect.
 
   **(3)** Section 195 of the Act is amended by adding the following after subsection (3):
 
@@ -6107,14 +6105,14 @@ The Act is amended by adding the following after section 187:
 
 Paragraph 203(2)(b) of the Act is replaced by the following:
 
-modifying, to **the** extent **that** the Governor in Council **considers** necessary, the provisions of Division **I.1**, IV, V, VII, VIII, X, XI, XIII or XIV so that, as far as practicable, employees engaged in multi-employer employment will be entitled to the same rights and benefits under that Division as employees employed by one employer.
+modifying, to the extent that the Governor in Council considers necessary, the provisions of Division I.1, IV, V, VII, VIII, X, XI, XIII or XIV so that, as far as practicable, employees engaged in multi-employer employment will be entitled to the same rights and benefits under that Division as employees employed by one employer.
 
 ### Section 205
 
 The heading of Division VII of Part III of the Act is replaced by the following:
 
 
-### Reassignment, Maternity Leave, Parental Leave, Compassionate Care Leave, Leave Related to Critical Illness, Leave Related to Death or Disappearance, **Family Responsibility Leave, Leave for Victims of Family Violence** and **Leave for Traditional Aboriginal Practices**
+### Reassignment, Maternity Leave, Parental Leave, Compassionate Care Leave, Leave Related to Critical Illness, Leave Related to Death or Disappearance, Family Responsibility Leave, Leave for Victims of Family Violence and Leave for Traditional Aboriginal Practices
 
 ### Section 206
 
@@ -6191,27 +6189,27 @@ The Act is amended by adding the following after section 206.5:
 
 ### Section 207.3
 
-      **(1)** Every employee who takes a leave of absence from employment under any of sections 206.3 to **206.8** shall, as soon as possible, provide the employer with a notice in writing of the reasons for the leave, and the length of the leave that they intend to take.
+      **(1)** Every employee who takes a leave of absence from employment under any of sections 206.3 to 206.8 shall, as soon as possible, provide the employer with a notice in writing of the reasons for the leave, and the length of the leave that they intend to take.
 
   **(2)** Subsection 207.3(2) of the English version of the Act is replaced by the following:
 
-    **(2)** Every employee who is on a leave of absence from employment under any of sections 206.3 to **206.8** shall, as soon as possible, provide the employer with a notice in writing of any change in the length of the leave that they intend to take.
+    **(2)** Every employee who is on a leave of absence from employment under any of sections 206.3 to 206.8 shall, as soon as possible, provide the employer with a notice in writing of any change in the length of the leave that they intend to take.
 
 ### Section 208
 
 Subsection 209.3(2) of the Act is replaced by the following:
 
-**(2)** The prohibitions set out in subsection (1) also apply in respect of an employee who has taken a leave of absence under any of sections 206.3 to **206.8**.
+**(2)** The prohibitions set out in subsection (1) also apply in respect of an employee who has taken a leave of absence under any of sections 206.3 to 206.8.
 
 ### Section 209
 
   **(1)** Paragraph 209.4(a) of the Act is replaced by the following:
 
-    specifying the absences from employment that are **considered** not to have interrupted continuous employment referred to in **any of** sections 206, 206.1, 206.4 **to 206.6** and **206.8**;
+    specifying the absences from employment that are considered not to have interrupted continuous employment referred to in any of sections 206, 206.1, 206.4 to 206.6 and 206.8;
 
   **(2)** Paragraph 209.4(g) of the Act is replaced by the following:
 
-    prescribing shorter periods of continuous employment for the purposes of subsections 206.4(2), 206.5(2) and (3), **206.6(1)** and **206.8(1)**;
+    prescribing shorter periods of continuous employment for the purposes of subsections 206.4(2), 206.5(2) and (3), 206.6(1) and 206.8(1);
 
   **(3)** Section 209.4 of the Act is amended by adding the following after paragraph (h):
 
@@ -6227,7 +6225,7 @@ Subsections 210(1) and (2) of the Act are replaced by the following:
 
 ### Section 210
 
-  **(1)** Every employee is entitled to and shall be granted, in the event of the death of a member of **their** immediate family, a leave **of absence from employment** of up to **five** days that **may be taken during the period that begins on** the day **on which** the death occurs **and ends six weeks after the latest of the days on which any funeral, burial or memorial service of that immediate family member occurs**.
+  **(1)** Every employee is entitled to and shall be granted, in the event of the death of a member of their immediate family, a leave of absence from employment of up to five days that may be taken during the period that begins on the day on which the death occurs and ends six weeks after the latest of the days on which any funeral, burial or memorial service of that immediate family member occurs.
 
   **(1.1)** At the request of the employee, the employer may extend, in writing, the period during which the leave of absence from employment may be taken.
 
@@ -6235,7 +6233,7 @@ Subsections 210(1) and (2) of the Act are replaced by the following:
 
   **(1.3)** Every employee who takes the leave of absence shall, as soon as possible, provide the employer with written notice of the beginning of any period of leave of absence and of the length of that leave.
 
-  **(2)** **If the** employee has completed three consecutive months of continuous employment **with the** employer, **the employee** is entitled to **the first three** days **of the** leave with pay at **their** regular rate of wages for **their** normal hours of work, and such pay shall for all purposes be **considered** to be wages.
+  **(2)** If the employee has completed three consecutive months of continuous employment with the employer, the employee is entitled to the first three days of the leave with pay at their regular rate of wages for their normal hours of work, and such pay shall for all purposes be considered to be wages.
 
 ### Section 211
 
@@ -6245,7 +6243,7 @@ Section 247.9 of the Act is repealed.
 
 Paragraph 247.97(h) of the Act is replaced by the following:
 
-specifying the circumstances in which section 247.7, subsection 247.8(1) or subsection 247.91(2) **does** not apply;
+specifying the circumstances in which section 247.7, subsection 247.8(1) or subsection 247.91(2) does not apply;
 
 ### Section 213
 
@@ -6289,17 +6287,17 @@ Subsection 175(2) of the `Canada Labour Code` continues to apply in respect of t
 
 Section 89 of the `Economic Action Plan 2015 Act, No. 1` is amended by replacing the subsection 167(1.2) that it enacts with the following:
 
-**(1.2)** Except to the extent provided for in the regulations, this Part does not apply to a person referred to in subsection (1.1) or, in relation to **the** person, the employer, if the person performs the activities to fulfil the requirements of a program **that is** offered by a secondary or post-secondary educational institution, vocational school, or equivalent educational institution outside Canada, **specified or** described in the regulations.
+**(1.2)** Except to the extent provided for in the regulations, this Part does not apply to a person referred to in subsection (1.1) or, in relation to the person, the employer, if the person performs the activities to fulfil the requirements of a program that is offered by a secondary or post-secondary educational institution, vocational school, or equivalent educational institution outside Canada, specified or described in the regulations.
 
 ### Section 218
 
 Subsection 92(1) of the Act is amended by replacing the paragraphs 264(a.2) to (a.9) that it enacts with the following:
 
-respecting the information that an employer must provide to the Minister for the purpose of establishing that the performance of activities referred to in **subsection 167(1.2)** fulfils the requirements of a program referred to in that **subsection**, and the circumstances in which an employer must provide it;
+respecting the information that an employer must provide to the Minister for the purpose of establishing that the performance of activities referred to in subsection 167(1.2) fulfils the requirements of a program referred to in that subsection, and the circumstances in which an employer must provide it;
 
-specifying the circumstances in which a person who performs activities referred to in **subsection 167(1.2)** must provide to an employer the information referred to in paragraph (a.2);
+specifying the circumstances in which a person who performs activities referred to in subsection 167(1.2) must provide to an employer the information referred to in paragraph (a.2);
 
-for the purpose of **subsection 167(1.2)**, specifying or describing secondary or post-secondary educational institutions, vocational schools, or equivalent educational institutions outside Canada;
+for the purpose of subsection 167(1.2), specifying or describing secondary or post-secondary educational institutions, vocational schools, or equivalent educational institutions outside Canada;
 
 
 ### Trade within Canada and Harmonization of Energy Efficiency Requirements
@@ -6511,11 +6509,11 @@ Section 26 of the Act is repealed.
 Section 89.3 of the `Financial Administration Act` and the heading before it are replaced by the following:
 
 
-#### Implementation of **`Canadian Free Trade Agreement`**
+#### Implementation of `Canadian Free Trade Agreement`
 
 ### Section 89.3
 
-**Despite** subsections 85(1) to (1.2), the Governor in Council may give a directive **under** subsection 89(1) to any parent Crown corporation for the purpose of implementing any provision of the Agreement, as defined in section 2 of the `**`Canadian Free Trade Agreement Implementation Act`**`, that pertains to that Crown corporation.
+Despite subsections 85(1) to (1.2), the Governor in Council may give a directive under subsection 89(1) to any parent Crown corporation for the purpose of implementing any provision of the Agreement, as defined in section 2 of the ``Canadian Free Trade Agreement Implementation Act``, that pertains to that Crown corporation.
 
 
 ##### `Department of Public Works and Government Services Act`
@@ -6524,7 +6522,7 @@ Section 89.3 of the `Financial Administration Act` and the heading before it are
 
   **(1)** Paragraph 22.1(3)(b) of the `Department of Public Works and Government Services Act` is replaced by the following:
 
-    review any complaint respecting the compliance with any regulations made under the `Financial Administration Act` of the award of a contract for the acquisition of materiel or services by a department to which the Agreement, as defined in section 2 of the **`Canadian Free Trade Agreement Implementation Act`**, would apply if the value of the contract were not less than the amount referred to in Article **504** of that Agreement.
+    review any complaint respecting the compliance with any regulations made under the `Financial Administration Act` of the award of a contract for the acquisition of materiel or services by a department to which the Agreement, as defined in section 2 of the `Canadian Free Trade Agreement Implementation Act`, would apply if the value of the contract were not less than the amount referred to in Article 504 of that Agreement.
 
   **(2)** Paragraph 22.1(3)(c) of the French version of the Act is replaced by the following:
 
@@ -6536,7 +6534,7 @@ Subsection 22.2(1) of the Act is replaced by the following:
 
 ### Section 22.2
 
-  **(1)** A person may only file a complaint referred to in paragraph 22.1(3)(b) or (c) if that person is a Canadian supplier within the meaning of article **521** of the agreement referred to in paragraph 22.1(3)(b) and meets any requirements prescribed by the regulations.
+  **(1)** A person may only file a complaint referred to in paragraph 22.1(3)(b) or (c) if that person is a Canadian supplier within the meaning of article 521 of the agreement referred to in paragraph 22.1(3)(b) and meets any requirements prescribed by the regulations.
 
 
 ##### `Procurement Ombudsman Regulations`
@@ -6545,7 +6543,7 @@ Subsection 22.2(1) of the Act is replaced by the following:
 
 Paragraph 9(1)(a) of the `Procurement Ombudsman Regulations` is replaced by the following:
 
-the contract, the award of which is the subject of the complaint, is not covered by any of the exceptions in the **Agreement, as defined in section 2 of the `Canadian Free Trade Agreement Implementation Act`**, including those made under articles **800**, **801**, **802**, **809** and **1205.1** of **that** Agreement, and is one to which **that** Agreement would apply if its value, as determined under article 505 of **that** Agreement, were not less than the amount set out in article **504** of **that** Agreement;
+the contract, the award of which is the subject of the complaint, is not covered by any of the exceptions in the Agreement, as defined in section 2 of the `Canadian Free Trade Agreement Implementation Act`, including those made under articles 800, 801, 802, 809 and 1205.1 of that Agreement, and is one to which that Agreement would apply if its value, as determined under article 505 of that Agreement, were not less than the amount set out in article 504 of that Agreement;
 
 
 #### Repeals
@@ -6581,21 +6579,21 @@ The definition **judge** in section 2 of the `Judges Act` is replaced by the fol
 
 Paragraph 20(c) of the Act is replaced by the following:
 
-the Chief Justice and the **two** Associate Chief **Justices** of the Court of Queen's Bench, $344,400 each; and
+the Chief Justice and the two Associate Chief Justices of the Court of Queen's Bench, $344,400 each; and
 
 ### Section 232
 
   **(1)** Paragraph 22(1)(a) of the Act is replaced by the following:
 
-    the **Chief Justice**, $344,400; and
+    the Chief Justice, $344,400; and
 
   **(2)** Paragraph 22(2)(a) of the Act is replaced by the following:
 
-    the **Chief Justice**, $344,400; and
+    the Chief Justice, $344,400; and
 
   **(3)** Paragraph 22(2.1)(a) of the Act is replaced by the following:
 
-    the **Chief Justice**, $344,400; and
+    the Chief Justice, $344,400; and
 
   **(4)** Subsection 22(3) of the Act is repealed.
 
@@ -6613,7 +6611,7 @@ the Chief Justice and the **two** Associate Chief **Justices** of the Court of Q
 
   **(1)** Paragraph 29(3)(b) of the Act is replaced by the following:
 
-    in the case of a supernumerary judge of the Supreme Court of Yukon, the Supreme Court of the Northwest Territories or the Nunavut Court of Justice, by the **Chief Justice** of that Court.
+    in the case of a supernumerary judge of the Supreme Court of Yukon, the Supreme Court of the Northwest Territories or the Nunavut Court of Justice, by the Chief Justice of that Court.
 
   **(2)** Subsection 29(4) of the English version of the Act is replaced by the following:
 
@@ -6634,22 +6632,22 @@ The heading before section 31 of the Act is replaced by the following:
 
 ### Section 32.1
 
-      **(1)** If the **Chief Justice** of the Supreme Court of Yukon, the Supreme Court of the Northwest Territories or the Nunavut Court of Justice has notified the Minister of Justice of Canada and the attorney general of the territory of his or her election to cease to perform the duties of **chief justice** and to perform only the duties of a judge, he or she shall then hold only the office of a judge, other than the **chief justice**, of that court and shall be paid the salary annexed to the office of a judge, other than the **chief justice**, of **that** court until he or she reaches the age of retirement, resigns or is removed from or otherwise ceases to hold office.
+      **(1)** If the Chief Justice of the Supreme Court of Yukon, the Supreme Court of the Northwest Territories or the Nunavut Court of Justice has notified the Minister of Justice of Canada and the attorney general of the territory of his or her election to cease to perform the duties of chief justice and to perform only the duties of a judge, he or she shall then hold only the office of a judge, other than the chief justice, of that court and shall be paid the salary annexed to the office of a judge, other than the chief justice, of that court until he or she reaches the age of retirement, resigns or is removed from or otherwise ceases to hold office.
 
-      **(2)** **A chief justice** may make the election referred to in subsection (1) only if he or she has continued in that **office** for at least five years.
+      **(2)** A chief justice may make the election referred to in subsection (1) only if he or she has continued in that office for at least five years.
 
-      **(3)** **A chief justice** who has made the election referred to in subsection (1) shall perform all of the judicial duties normally performed by a judge, other than the **chief justice**, of the applicable court.
+      **(3)** A chief justice who has made the election referred to in subsection (1) shall perform all of the judicial duties normally performed by a judge, other than the chief justice, of the applicable court.
 
   **(2)** Subsection 32.1(4) of the English version of the Act is replaced by the following:
 
-    **(4)** The salary of a **chief justice** who has made the election referred to in subsection (1) is the salary annexed to the office of a judge, other than the **chief justice**, of the applicable court.
+    **(4)** The salary of a chief justice who has made the election referred to in subsection (1) is the salary annexed to the office of a judge, other than the chief justice, of the applicable court.
 
 ### Section 237
 
 The heading before section 42 of the English version of the Act is replaced by the following:
 
 
-### Annuities **for** Judges
+### Annuities for Judges
 
 ### Section 238
 
@@ -6657,25 +6655,25 @@ The heading before section 42 of the English version of the Act is replaced by t
 
 ### Section 42
 
-      **(1)** A judge shall **be paid** an annuity equal to two thirds of the salary annexed to the office held by the judge at the time of his or her resignation, removal or attaining the age of retirement, as the case may be, **if the judge**
+      **(1)** A judge shall be paid an annuity equal to two thirds of the salary annexed to the office held by the judge at the time of his or her resignation, removal or attaining the age of retirement, as the case may be, if the judge
 
-        has continued in judicial office for at least 15 years, **has a** combined age and number of years in judicial office **that** is not less than 80 and resigns from office;
+        has continued in judicial office for at least 15 years, has a combined age and number of years in judicial office that is not less than 80 and resigns from office;
 
         has attained the age of retirement and has held judicial office for at least 10 years; or
 
         has continued in judicial office on the Supreme Court of Canada for at least 10 years and resigns from office.
 
-      **(**1.1**)** The Governor in Council shall grant to a judge an annuity equal to two thirds of the salary annexed to the office held by the judge at the time of his or her resignation, removal or attaining the age of retirement, as the case may be, **if the judge**
+      **(1.1)** The Governor in Council shall grant to a judge an annuity equal to two thirds of the salary annexed to the office held by the judge at the time of his or her resignation, removal or attaining the age of retirement, as the case may be, if the judge
 
-        has continued in judicial office for at least 15 years and resigns his or her office, if in the opinion of the Governor in Council the resignation is conducive to the better administration of justice or is in the national interest; **or**
+        has continued in judicial office for at least 15 years and resigns his or her office, if in the opinion of the Governor in Council the resignation is conducive to the better administration of justice or is in the national interest; or
 
         has become afflicted with a permanent infirmity disabling him or her from the due execution of the office of judge and resigns his or her office or by reason of that infirmity is removed from office.
 
   **(2)** Subsections 42(2) and (3) of the English version of the Act are replaced by the following:
 
-    **(2)** **If** a judge who has attained the age of retirement has held judicial office for less than 10 years, an annuity shall **be paid** to that judge that bears the same ratio to the annuity described in subsection (1) as the number of years the judge has held judicial office, to the nearest one tenth of a year, bears to 10 years.
+    **(2)** If a judge who has attained the age of retirement has held judicial office for less than 10 years, an annuity shall be paid to that judge that bears the same ratio to the annuity described in subsection (1) as the number of years the judge has held judicial office, to the nearest one tenth of a year, bears to 10 years.
 
-    **(3)** An annuity granted **or paid** to a judge under this section shall commence on the day of his or her resignation, removal or attaining the age of retirement and shall continue during the life of the judge.
+    **(3)** An annuity granted or paid to a judge under this section shall commence on the day of his or her resignation, removal or attaining the age of retirement and shall continue during the life of the judge.
 
 ### Section 239
 
@@ -6683,7 +6681,7 @@ The heading before section 42 of the English version of the Act is replaced by t
 
 ### Section 43
 
-      **(1)** If a supernumerary judge, before becoming **one**, held the office of chief justice, senior associate chief justice or associate chief justice, the annuity payable to the judge under section 42 is an annuity equal to two thirds of the salary annexed, at the time of his or her resignation, removal or attaining the age of retirement, to the office of chief justice, senior associate chief justice or associate chief justice previously held by him or her.
+      **(1)** If a supernumerary judge, before becoming one, held the office of chief justice, senior associate chief justice or associate chief justice, the annuity payable to the judge under section 42 is an annuity equal to two thirds of the salary annexed, at the time of his or her resignation, removal or attaining the age of retirement, to the office of chief justice, senior associate chief justice or associate chief justice previously held by him or her.
 
   **(2)** Subsection 43(1.1) of the English version of the Act is replaced by the following:
 
@@ -6691,7 +6689,7 @@ The heading before section 42 of the English version of the Act is replaced by t
 
   **(3)** Subsection 43(2) of the Act is replaced by the following:
 
-    **(2)** If the Chief Justice of the Federal Court of Appeal or the Federal Court or the Chief Justice or Associate Chief Justice of the Tax Court of Canada, in accordance with section 31, or a chief justice of a superior court of a province, in accordance with section 32, or **the Chief Justice** of the Supreme Court of Yukon, the Supreme Court of the Northwest Territories or the Nunavut Court of Justice, in accordance with section 32.1, has elected to cease to perform his or her duties and to perform only the duties of a judge, the annuity payable to him or her under section 42 is an annuity equal to two thirds of the salary annexed, at the time of his or her resignation, removal or attaining the age of retirement, to the office held by him or her immediately before his or her election.
+    **(2)** If the Chief Justice of the Federal Court of Appeal or the Federal Court or the Chief Justice or Associate Chief Justice of the Tax Court of Canada, in accordance with section 31, or a chief justice of a superior court of a province, in accordance with section 32, or the Chief Justice of the Supreme Court of Yukon, the Supreme Court of the Northwest Territories or the Nunavut Court of Justice, in accordance with section 32.1, has elected to cease to perform his or her duties and to perform only the duties of a judge, the annuity payable to him or her under section 42 is an annuity equal to two thirds of the salary annexed, at the time of his or her resignation, removal or attaining the age of retirement, to the office held by him or her immediately before his or her election.
 
   **(4)** Subsection 43(2.2) of the Act is replaced by the following:
 
@@ -6703,24 +6701,24 @@ The heading before section 42 of the English version of the Act is replaced by t
 
 ### Section 43.1
 
-      **(1)** A judge who has attained the age of 55 years, has continued in judicial office for at least 10 years and elects early retirement shall **be paid** an immediate annuity or a deferred annuity, at the option of the judge, calculated in accordance with this section.
+      **(1)** A judge who has attained the age of 55 years, has continued in judicial office for at least 10 years and elects early retirement shall be paid an immediate annuity or a deferred annuity, at the option of the judge, calculated in accordance with this section.
 
   **(2)** Paragraph 43.1(2)(b) of the Act is replaced by the following:
 
-    the denominator is the number of years, to the nearest one tenth of a year, during which the judge would have been required to continue in judicial office in order to be eligible to **be paid** an annuity under paragraph 42(1)(a) or (**b**).
+    the denominator is the number of years, to the nearest one tenth of a year, during which the judge would have been required to continue in judicial office in order to be eligible to be paid an annuity under paragraph 42(1)(a) or (b).
 
   **(3)** Subsections 43.1(4) and (5) of the Act are replaced by the following:
 
-    **(4)** A judge whose option was to receive a deferred annuity may, between the date of that option and the date on which the deferred annuity would be payable, opt for an immediate annuity. An immediate annuity shall **be paid** to the judge from the date of the second option.
+    **(4)** A judge whose option was to receive a deferred annuity may, between the date of that option and the date on which the deferred annuity would be payable, opt for an immediate annuity. An immediate annuity shall be paid to the judge from the date of the second option.
 
-    **(5)** On the death of a judge who has been **paid** an immediate annuity or a deferred annuity under subsection (1) or (4), the annuity **paid** to a survivor under subsection 44(2) shall be determined as if the judge were in receipt of a deferred annuity.
+    **(5)** On the death of a judge who has been paid an immediate annuity or a deferred annuity under subsection (1) or (4), the annuity paid to a survivor under subsection 44(2) shall be determined as if the judge were in receipt of a deferred annuity.
 
 ### Section 241
 
 The heading before section 44 of the English version of the Act is replaced by the following:
 
 
-### Annuities **for** Survivors
+### Annuities for Survivors
 
 
 
@@ -6730,27 +6728,27 @@ The heading before section 44 of the English version of the Act is replaced by t
 
 ### Section 44
 
-      **(1)** Subject to this section, if a judge of a superior court while holding office died or dies after July 10, 1955, the survivor of the judge shall **be paid**, commencing on July 18, 1983 or immediately after the death of the judge, whichever is later, and continuing during the life of the survivor, an annuity equal to one third of
+      **(1)** Subject to this section, if a judge of a superior court while holding office died or dies after July 10, 1955, the survivor of the judge shall be paid, commencing on July 18, 1983 or immediately after the death of the judge, whichever is later, and continuing during the life of the survivor, an annuity equal to one third of
 
   **(2)** The portion of subsection 44(1) of the English version of the Act after paragraph (b) is repealed.
 
   **(3)** The portion of subsection 44(2) of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** Subject to this section, **if** a judge who, before, on or after July 11, 1955, was granted **or paid** a pension or annuity under this Act or any other Act of Parliament providing for pensions or annuities **to be granted or paid** to judges, died or dies after July 10, 1955, the survivor of the judge shall **be paid**
+    **(2)** Subject to this section, if a judge who, before, on or after July 11, 1955, was granted or paid a pension or annuity under this Act or any other Act of Parliament providing for pensions or annuities to be granted or paid to judges, died or dies after July 10, 1955, the survivor of the judge shall be paid
 
   **(4)** Paragraph 44(2)(a) of the English version of the Act is replaced by the following:
 
-    an annuity equal to one half of the pension or annuity granted **or paid** to the judge, commencing on July 18, 1983 or immediately after the death of the judge, whichever is later, and continuing during the life of the survivor; or
+    an annuity equal to one half of the pension or annuity granted or paid to the judge, commencing on July 18, 1983 or immediately after the death of the judge, whichever is later, and continuing during the life of the survivor; or
 
   **(5)** Paragraph 44(2)(b) of the Act is replaced by the following:
 
-    if a division of the judge's annuity benefits has been made under section 52.14, an annuity equal to one half of the annuity that would have been granted **or paid** to the judge had the annuity benefits not been divided, commencing immediately after the death of the judge and continuing during the life of the survivor.
+    if a division of the judge's annuity benefits has been made under section 52.14, an annuity equal to one half of the annuity that would have been granted or paid to the judge had the annuity benefits not been divided, commencing immediately after the death of the judge and continuing during the life of the survivor.
 
   **(6)** Subsections 44(3) and (4) of the English version of the Act are replaced by the following:
 
-    **(3)** No annuity shall be **paid** under this section to the survivor of a prothonotary of the Federal Court if the prothonotary ceased to hold the office of prothonotary before the day on which this subsection comes into force.
+    **(3)** No annuity shall be paid under this section to the survivor of a prothonotary of the Federal Court if the prothonotary ceased to hold the office of prothonotary before the day on which this subsection comes into force.
 
-    **(4)** No annuity shall be **paid** under this section to the survivor of a judge if the survivor became the spouse or began to cohabit with the judge in a conjugal relationship after the judge ceased to hold office.
+    **(4)** No annuity shall be paid under this section to the survivor of a judge if the survivor became the spouse or began to cohabit with the judge in a conjugal relationship after the judge ceased to hold office.
 
 ### Section 243
 
@@ -6758,11 +6756,11 @@ The heading before section 44 of the English version of the Act is replaced by t
 
 ### Section 44.01
 
-      **(1)** Subject to the regulations, a judge may elect to have the annuity to be **paid** to his or her survivor increased so that it is calculated as if the reference to "one half" in subsection 44(2) were read as a reference to "60%" or "75%".
+      **(1)** Subject to the regulations, a judge may elect to have the annuity to be paid to his or her survivor increased so that it is calculated as if the reference to "one half" in subsection 44(2) were read as a reference to "60%" or "75%".
 
   **(2)** Subsection 44.01(2) of the Act is replaced by the following:
 
-    **(2)** If a judge makes the election, the amount of the annuity granted **or paid** to the judge shall be reduced in accordance with the regulations as of the date the election takes effect, but the combined actuarial present value of the reduced annuity and the annuity that would be **paid** to the survivor **must** not be less than the combined actuarial present value of the annuity granted **or paid** to the judge and the annuity that would be **paid** to the survivor, immediately before the reduction is made.
+    **(2)** If a judge makes the election, the amount of the annuity granted or paid to the judge shall be reduced in accordance with the regulations as of the date the election takes effect, but the combined actuarial present value of the reduced annuity and the annuity that would be paid to the survivor must not be less than the combined actuarial present value of the annuity granted or paid to the judge and the annuity that would be paid to the survivor, immediately before the reduction is made.
 
 ### Section 244
 
@@ -6770,28 +6768,28 @@ Subsections 44.2(1) to (3) of the Act are replaced by the following:
 
 ### Section 44.2
 
-  **(1)** Subject to the regulations, a judge to whom an annuity has been granted **or paid** may elect to reduce his or her annuity so that an annuity may be paid to a person who, at the time of the election, is the spouse or common-law partner of the judge but to whom an annuity under section 44 **must** not be **paid**.
+  **(1)** Subject to the regulations, a judge to whom an annuity has been granted or paid may elect to reduce his or her annuity so that an annuity may be paid to a person who, at the time of the election, is the spouse or common-law partner of the judge but to whom an annuity under section 44 must not be paid.
 
-  **(2)** If a judge makes the election, the amount of the annuity granted **or paid** to the judge shall be reduced in accordance with the regulations, but the combined actuarial present value of the reduced annuity and the annuity that would be **paid** to the spouse or common-law partner under subsection (3) **must** not be less than the actuarial present value of the annuity granted **or paid** to the judge immediately before the reduction is made.
+  **(2)** If a judge makes the election, the amount of the annuity granted or paid to the judge shall be reduced in accordance with the regulations, but the combined actuarial present value of the reduced annuity and the annuity that would be paid to the spouse or common-law partner under subsection (3) must not be less than the actuarial present value of the annuity granted or paid to the judge immediately before the reduction is made.
 
-  **(3)** When the judge dies, the spouse or common-law partner in respect of whom an election was made shall **be paid** an annuity in an amount determined in accordance with the election, subsection (2) and the regulations.
+  **(3)** When the judge dies, the spouse or common-law partner in respect of whom an election was made shall be paid an annuity in an amount determined in accordance with the election, subsection (2) and the regulations.
 
 ### Section 245
 
 The heading before section 47 of the English version of the Act is replaced by the following:
 
 
-### Annuities **for** Surviving Children
+### Annuities for Surviving Children
 
 ### Section 246
 
   **(1)** Subsection 47(3) of the Act is replaced by the following:
 
-    **(3)** If a judge of a superior or county court dies while holding office, or a judge who was granted **or paid** an annuity after October 5, 1971 dies, an annuity shall be **paid** to each surviving child of that judge as provided in subsections (4) **and (5)**.
+    **(3)** If a judge of a superior or county court dies while holding office, or a judge who was granted or paid an annuity after October 5, 1971 dies, an annuity shall be paid to each surviving child of that judge as provided in subsections (4) and (5).
 
   **(2)** The portion of subsection 47(4) of the Act before paragraph (a) is replaced by the following:
 
-    **(4)** Each child of a judge described in subsection (3) shall **be paid**
+    **(4)** Each child of a judge described in subsection (3) shall be paid
 
 ### Section 247
 
@@ -6799,11 +6797,11 @@ The heading before section 47 of the English version of the Act is replaced by t
 
 ### Section 48
 
-      **(1)** **If**, in computing the annuities to be paid under subsection 47(3) to the children of a judge referred to in that subsection, it is determined that there are more than four children of the judge to whom an annuity shall be **paid**, the total amount of the annuities **paid** shall be apportioned among the children in **the** shares **that** the Minister of Justice **of Canada considers** just and proper under the circumstances.
+      **(1)** If, in computing the annuities to be paid under subsection 47(3) to the children of a judge referred to in that subsection, it is determined that there are more than four children of the judge to whom an annuity shall be paid, the total amount of the annuities paid shall be apportioned among the children in the shares that the Minister of Justice of Canada considers just and proper under the circumstances.
 
   **(2)** Subsection 48(2) of the Act is replaced by the following:
 
-    **(2)** **If** an annuity under this Act is **paid to** a child of a judge, payment shall, if the child is less than 18 years of age, be made to the person having the custody and control of the child or, **if** there is no person having the custody and control of the child, to **any** person **that** the Minister of Justice **of Canada directs** and, for the purposes of this subsection, the survivor of the judge, except **if** the child is living apart from the survivor, shall be presumed, in the absence of evidence to the contrary, to be the person having the custody and control of the child.
+    **(2)** If an annuity under this Act is paid to a child of a judge, payment shall, if the child is less than 18 years of age, be made to the person having the custody and control of the child or, if there is no person having the custody and control of the child, to any person that the Minister of Justice of Canada directs and, for the purposes of this subsection, the survivor of the judge, except if the child is living apart from the survivor, shall be presumed, in the absence of evidence to the contrary, to be the person having the custody and control of the child.
 
 ### Section 248
 
@@ -6811,7 +6809,7 @@ Section 49 of the English version of the Act is replaced by the following:
 
 ### Section 49
 
-The Governor in Council may make regulations providing for the payment out of the Consolidated Revenue Fund, on the **payment** of an annuity under this Act to the survivor or children of a judge or a retired judge, of the whole or any part of **the** portion of any estate, legacy, succession or inheritance duties or taxes that are payable by the survivor or children with respect to the annuity, as is determined in accordance with the regulations to be attributable to that annuity, and prescribing the amount by which and the manner in which **the** annuity in **that** case shall be reduced.
+The Governor in Council may make regulations providing for the payment out of the Consolidated Revenue Fund, on the payment of an annuity under this Act to the survivor or children of a judge or a retired judge, of the whole or any part of the portion of any estate, legacy, succession or inheritance duties or taxes that are payable by the survivor or children with respect to the annuity, as is determined in accordance with the regulations to be attributable to that annuity, and prescribing the amount by which and the manner in which the annuity in that case shall be reduced.
 
 ### Section 249
 
@@ -6819,35 +6817,35 @@ Subsections 51(1) and (2) of the English version of the Act are replaced by the 
 
 ### Section 51
 
-  **(1)** If a judge has ceased to hold office otherwise than by reason of death and, at the time he or she ceased to hold office, no annuity under this Act was granted or could be **paid** to that judge, there shall be paid to the judge, in respect of his or her having ceased to hold that office, an amount equal to the total contributions made by him or her under subsection 50(1) or paragraph 50(2)(a), together with interest, if any, calculated **in accordance with** subsection (4).
+  **(1)** If a judge has ceased to hold office otherwise than by reason of death and, at the time he or she ceased to hold office, no annuity under this Act was granted or could be paid to that judge, there shall be paid to the judge, in respect of his or her having ceased to hold that office, an amount equal to the total contributions made by him or her under subsection 50(1) or paragraph 50(2)(a), together with interest, if any, calculated in accordance with subsection (4).
 
-  **(2)** **If** a judge to whom subsection 50(1) applies has ceased to hold office otherwise than by reason of death and that judge is granted **or paid** an annuity under this Act, there shall be paid to the judge in respect of his or her having ceased to hold that office an amount equal to the total contributions made by the judge under subsection 50(1), together with interest, if any, calculated **in accordance with** subsection (4), if,
+  **(2)** If a judge to whom subsection 50(1) applies has ceased to hold office otherwise than by reason of death and that judge is granted or paid an annuity under this Act, there shall be paid to the judge in respect of his or her having ceased to hold that office an amount equal to the total contributions made by the judge under subsection 50(1), together with interest, if any, calculated in accordance with subsection (4), if,
 
-    at the time the judge ceased to hold office, there is no person to whom an annuity under this Act could be **paid** in respect of the judge on his or her death; or
+    at the time the judge ceased to hold office, there is no person to whom an annuity under this Act could be paid in respect of the judge on his or her death; or
 
-    at any time after the judge ceased to hold office but before his or her death, all persons to whom an annuity under this Act could be **paid** in respect of the judge on his or her death have died or ceased to be eligible to be **paid** an annuity.
+    at any time after the judge ceased to hold office but before his or her death, all persons to whom an annuity under this Act could be paid in respect of the judge on his or her death have died or ceased to be eligible to be paid an annuity.
 
 ### Section 250
 
 The definition **judge** in section 52.1 of the English version of the Act is replaced by the following:
 
-**judge** includes a former judge who has been granted **or paid** an annuity. (**juge**)
+**judge** includes a former judge who has been granted or paid an annuity. (**juge**)
 
 ### Section 251
 
   **(1)** The portion of subsection 52.14(3) of the English version of the Act before paragraph (a) is replaced by the following:
 
-    **(3)** Subject to subsections (3.1) and (4), **if** the Minister approves the division of the annuity benefits of a judge who was not eligible to be **paid** an annuity at the end of the period subject to division, the spouse, former spouse or former common-law partner shall be accorded a share of the annuity benefits consisting of
+    **(3)** Subject to subsections (3.1) and (4), if the Minister approves the division of the annuity benefits of a judge who was not eligible to be paid an annuity at the end of the period subject to division, the spouse, former spouse or former common-law partner shall be accorded a share of the annuity benefits consisting of
 
   **(2)** The portion of subsection 52.14(3.1) of the English version of the Act before paragraph (a) is replaced by the following:
 
-    **(3.1)** Subject to subsection (4), **if** the Minister approves the division of the annuity benefits of a judge who had been granted an annuity by reason of an infirmity but was not otherwise eligible to be **paid** an annuity at the end of the period subject to division, the spouse, former spouse or former common-law partner shall be accorded a share of the annuity benefits consisting of
+    **(3.1)** Subject to subsection (4), if the Minister approves the division of the annuity benefits of a judge who had been granted an annuity by reason of an infirmity but was not otherwise eligible to be paid an annuity at the end of the period subject to division, the spouse, former spouse or former common-law partner shall be accorded a share of the annuity benefits consisting of
 
   **(3)** Subsections 52.14(4) and (5) of the English version of the Act are replaced by the following:
 
-    **(4)** A judge's spouse, former spouse or former common-law partner who is entitled to be accorded a share of the judge's annuity benefits under subsection (3) or (3.1) may elect in the manner prescribed by the regulations, in lieu of receiving that share, to receive — at the time the judge becomes eligible to be granted **or paid** an annuity, or at the time the judge would have become eligible to be **paid** an annuity had the judge not resigned or been removed from office by reason of an infirmity — a share of the annuity benefits for which the judge is or would have been eligible, determined as provided in subsection (1).
+    **(4)** A judge's spouse, former spouse or former common-law partner who is entitled to be accorded a share of the judge's annuity benefits under subsection (3) or (3.1) may elect in the manner prescribed by the regulations, in lieu of receiving that share, to receive — at the time the judge becomes eligible to be granted or paid an annuity, or at the time the judge would have become eligible to be paid an annuity had the judge not resigned or been removed from office by reason of an infirmity — a share of the annuity benefits for which the judge is or would have been eligible, determined as provided in subsection (1).
 
-    **(5)** **If** an election has been made under subsection (4) and, before becoming eligible to be **paid** an annuity, the judge dies, resigns, is removed from office or otherwise ceases to hold office, the spouse, former spouse or former common-law partner shall instead be paid immediately the portion of the judge's contributions to which the spouse was otherwise entitled under subsection (3) or (3.1).
+    **(5)** If an election has been made under subsection (4) and, before becoming eligible to be paid an annuity, the judge dies, resigns, is removed from office or otherwise ceases to hold office, the spouse, former spouse or former common-law partner shall instead be paid immediately the portion of the judge's contributions to which the spouse was otherwise entitled under subsection (3) or (3.1).
 
 ### Section 252
 
@@ -6888,11 +6886,11 @@ Subsection 59(1) of the Act is amended by adding "and" at the end of paragraph (
 
   **(1)** Paragraph 188(4)(c) of the `Criminal Code` is replaced by the following:
 
-    in the Provinces of Nova Scotia, British Columbia **and** Prince Edward Island, **and in the Yukon and the Northwest Territories**, the Chief Justice of the Supreme Court;
+    in the Provinces of Nova Scotia, British Columbia and Prince Edward Island, and in the Yukon and the Northwest Territories, the Chief Justice of the Supreme Court;
 
   **(2)** Paragraph 188(4)(f) of the Act is replaced by the following:
 
-    in Nunavut, the **Chief Justice** of **the Nunavut Court of Justice**.
+    in Nunavut, the Chief Justice of the Nunavut Court of Justice.
 
 
 ##### `Nunavut Act`
@@ -6903,7 +6901,7 @@ Section 10 of the `Nunavut Act` is replaced by the following:
 
 ### Section 10
 
-If both the Commissioner and the Deputy Commissioner are absent, ill or unable to act or both those offices are vacant, the **Chief Justice** of the Nunavut Court of Justice has and may exercise and perform all of the powers, duties and functions of the Commissioner.
+If both the Commissioner and the Deputy Commissioner are absent, ill or unable to act or both those offices are vacant, the Chief Justice of the Nunavut Court of Justice has and may exercise and perform all of the powers, duties and functions of the Commissioner.
 
 
 ##### `Yukon Act`
@@ -6912,7 +6910,7 @@ If both the Commissioner and the Deputy Commissioner are absent, ill or unable t
 
 Subsection 5(2) of the `Yukon Act` is replaced by the following:
 
-**(2)** The **Chief Justice** of the Supreme Court of Yukon may act as Administrator during the Administrator's absence or illness or other inability or when that office is vacant.
+**(2)** The Chief Justice of the Supreme Court of Yukon may act as Administrator during the Administrator's absence or illness or other inability or when that office is vacant.
 
 
 ##### `Northwest Territories Act`
@@ -6921,7 +6919,7 @@ Subsection 5(2) of the `Yukon Act` is replaced by the following:
 
 Subsection 5(2) of the `Northwest Territories Act` is replaced by the following:
 
-**(2)** The **Chief Justice** of the Supreme Court of the Northwest Territories is authorized to act as Deputy Commissioner during the Deputy Commissioner's absence or inability or when that office is vacant.
+**(2)** The Chief Justice of the Supreme Court of the Northwest Territories is authorized to act as Deputy Commissioner during the Deputy Commissioner's absence or inability or when that office is vacant.
 
 
 #### Coming into Force
@@ -6941,7 +6939,7 @@ Subsection 23(1) of the `Business Development Bank of Canada Act` is replaced by
 
 ### Section 23
 
-  **(1)** The authorized capital of the Bank consists of an unlimited number of common shares with a par value of $100 each and an unlimited number of preferred shares without par value, but the paid-in capital of the Bank, together with any contributed surplus relating to it and any proceeds referred to in paragraph 30(2)(d) that have been prescribed as equity, must not at any time exceed $**4,500,000,000**.
+  **(1)** The authorized capital of the Bank consists of an unlimited number of common shares with a par value of $100 each and an unlimited number of preferred shares without par value, but the paid-in capital of the Bank, together with any contributed surplus relating to it and any proceeds referred to in paragraph 30(2)(d) that have been prescribed as equity, must not at any time exceed $4,500,000,000.
 
 
 ### Financial Administration Act
@@ -6952,11 +6950,11 @@ Subsection 32(1) of the `Financial Administration Act` is replaced by the follow
 
 ### Section 32
 
-  **(1)** No contract or other arrangement providing for a payment shall be entered into unless, to discharge any debt that will be **due** under the contract or other arrangement during the fiscal year in which the contract or other arrangement is entered into, there is a sufficient unencumbered balance available out of
+  **(1)** No contract or other arrangement providing for a payment shall be entered into unless, to discharge any debt that will be due under the contract or other arrangement during the fiscal year in which the contract or other arrangement is entered into, there is a sufficient unencumbered balance available out of
 
     an appropriation by Parliament to which the payment will be charged;
 
-    an item included in estimates then before the House of Commons **to which the payment will relate**;
+    an item included in estimates then before the House of Commons to which the payment will relate;
 
     a commitment limit in an appropriation Act to which the payment will relate; or
 
