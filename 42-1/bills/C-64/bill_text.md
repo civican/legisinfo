@@ -355,6 +355,8 @@ When assurance of compliance complied with
 
 When assurance of compliance not complied with
 
+Manner of service
+
 Request for review
 
 Return of security
@@ -572,11 +574,11 @@ The purpose of this Act is to promote the protection of the public, of the envir
 
   **(2)** This Act, other than Parts 3 and 4, does not apply in respect of
 
-    a vessel that is owned or operated by Her Majesty in right of Canada or of a province or by a foreign state while that vessel is being used exclusively for non-commercial governmental purposes;
-
-    wrecks considered as having heritage value under an Act of Parliament or of the legislature of a province; and
+    a vessel that is owned or operated by Her Majesty in right of Canada or of a province or by a foreign state while that vessel is being used exclusively for non-commercial governmental purposes; and
 
     vessels that are on location for the purposes of engaging in the exploration, exploitation or production of mineral resources or that, as a result of an accident or incident, have drifted from that location.
+
+  ****(3)**** **This Act, other than Parts 3 and 4 and section 131, does not apply in respect of** wrecks considered as having heritage value under an Act of Parliament or of the legislature of a province.
 
 
 ## Powers, Duties and Functions of Ministers
@@ -1004,7 +1006,7 @@ a vessel or wreck that was the subject of measures under section `36` or subsect
 
     the Minister of Fisheries and Oceans
 
-    in respect of measures taken under paragraph `36`(a) (including any costs and expenses incurred by the Minister of Fisheries and Oceans in determining whether a wreck poses a hazard, if he or she determined that it posed one) or `37`(3)(a) or subsection `37`(4) and any loss or damage caused by those measures,
+    in respect of measures taken under paragraph `36`(a) (including any costs and expenses incurred by the Minister of Fisheries and Oceans in determining whether a **vessel or** wreck poses a hazard, if he or she determined that it posed one) or `37`(3)(a) or subsection `37`(4) and any loss or damage caused by those measures,
 
     in respect of any monitoring under paragraph `36`(b) or `37`(3)(b) or subsection `37`(4),
 
@@ -1658,6 +1660,46 @@ any security deposited under subparagraph `91`(1)(a)(ii) must be returned to the
 
   **(3)** On the service of a notice of default, the person or vessel served has no right of set-off against any amount spent by the person or vessel under the assurance of compliance.
 
+### Section 94.1
+
+  **(1)** A notice referred to in any of sections 91, 93, 94 and 108 is to be served
+
+    in the case of an individual,
+
+    by leaving a copy of it with the individual at any place or with someone who appears to be an adult member of the same household at the individual's last known address or usual place of residence or, in the case of an individual under the age of 18, with a parent or other person having custody of them or exercising parental authority over them, or
+
+    by sending a copy of it by registered mail, cour­ier or fax or other electronic means to the individ­ual's last known address or usual place of residence;
+
+    in the case of a person other than an individual,
+
+    by leaving a copy of it with their representative or with an officer or other individual who appears to control or manage the person's or representative's head office or place of business, or
+
+    by sending a copy of it by registered mail, cour­ier or fax or other electronic means to their representative, to an individual referred to in subparagraph (i) or to the person's or representative's head office or place of business;
+
+    in the case of a vessel,
+
+    by delivering a copy of it personally to the master or another individual who is, or appears to be, in charge of the vessel,
+
+    by posting a copy of it on any conspicuous part of the vessel,
+
+    by leaving a copy of it with the owner or oper­ator of the vessel, with the owner's or operator's representative or with an officer or other individual who appears to control or manage the owner's, operator's or representative's head office or place of business, or
+
+    by sending a copy of it by registered mail, courier or fax or other electronic means to the vessel or to a person referred to in subparagraph (i) or (iii) or to their head office or place of business.
+
+  **(2)** Service may be proved by
+
+    an acknowledgement of service signed by or on behalf of the person or vessel served, specifying the date and location of service;
+
+    a certificate of service, signed by the person who effected the service, indicating the name of the person or vessel served and the means by which and day on which service was effected; or
+
+    a record of electronic transmission setting out the date and time of transmission.
+
+  **(3)** In the absence of an acknowledgement of service or a certificate of service, service is considered effective,
+
+    in the case of service by registered mail or courier, on the 10th day after the day on which the notice is sent, as indicated on the receipt issued by the postal or courier service; or
+
+    in the case of service by fax or other electronic means, on the day on which it is sent, as indicated on the record of transmission.
+
 ### Section 95
 
   **(1)** A person or vessel served with a notice under subsection `94`(1) may, no later than the date specified in the notice or within any further time that the Transportation Appeal Tribunal on application may allow, file a written request for a review of the Minister's decision made under that subsection with the Tribunal.
@@ -1779,7 +1821,7 @@ A document that purports to have been issued by the enforcement officer and that
 
 ### Section 107
 
-The Minister may keep a public record of notices of violation or default, including, with respect to each violation or default, the nature of the violation or default, the name of the person or vessel that committed it and the amount of the penalty.
+The Minister **must** keep a public record of notices of violation or default, including, with respect to each violation or default, the nature of the violation or default, the name of the person or vessel that committed it and the amount of the penalty.
 
 ### Section 108
 
@@ -1836,7 +1878,7 @@ respecting persons who can request a review on behalf of a vessel in relation to
 
     subsection `24`(2) or `26`(2);
 
-    subsection `19`(1), section `20`, `31` or `33`, subsection `58`(1) or (3), section `60` or `78` or subsection `82`(7) or (8);
+    subsection `19`(1), section `20`, `31` or `33`, subsection `58`(1) or (3), section 60 or subsection `82`(7) or (8);
 
     subsection `30`(1), `32`(1) or `34`(1) or section `70`, `78`, `83`, `87` or `88`;
 
@@ -1928,7 +1970,7 @@ in the case of a direction that cannot be given to any person referred to in par
 
 ### Section 119
 
-  **(1)** A person must not be found guilty of an offence under this Act, other than in relation to a contravention of subsection `34`(1) or `60`(2) or section `70`, `83` or `88`, if they establish that they exercised due diligence to prevent its commission.
+  **(1)** A person must not be found guilty of an offence under this Act, other than in relation to a contravention of subsection 34(1) or 60(2) or section 70, **78,** 83 or 88, if they establish that they exercised due diligence to prevent its commission.
 
   **(2)** A vessel must not be found guilty of an offence under this Act if the person that committed the act or omission that constitutes the offence establishes that they exercised due diligence to prevent its commission.
 
@@ -2019,11 +2061,17 @@ A direction or detention order under this Act is not a statutory instrument for 
 
 ### Section 129
 
-  **(1)** The amount of the costs and expenses incurred by the Minister or the Minister of Fisheries and Oceans, in respect of measures taken under any of subsections `21`(2) and (3), section `22`, paragraphs `30`(3)(a) to (c), section `35`, paragraphs `36`(a) to (c) and subsection `37`(3) and (4), constitutes a debt due to Her Majesty in right of Canada that may be recovered
+  **(1)** The amount of the costs and expenses incurred by the Minister or the Minister of Fisheries and Oceans, in respect of measures taken under any of subsections `21`(2) and (3), section 22, paragraphs 30(3)(a) to (c), section 35, paragraphs 36(a) to (c) and subsection 37(3) and (4) **or in relation to the use of property under subsection 86(5)**, constitutes a debt due to Her Majesty in right of Canada that may be recovered
 
-    in the case of measures taken under subsection `21`(2) or (3) or section `22`, from the person that was the owner of the vessel at the time of the maritime casualty that resulted in the wreck; or
+    in the case of measures taken under subsection `21`(2) or (3) or section `22`, from the person that was the owner of the vessel at the time of the maritime casualty that resulted in the wreck;
 
-    in the case of measures taken under any of paragraphs `30`(3)(a) to (c), section `35`, paragraphs `36`(a) to (c) and subsections `37`(3) and (4), from the person that was the owner of the vessel or wreck at the time the costs and expenses were incurred.
+    in the case of measures taken under any of paragraphs `30`(3)(a) to (c), section `35`, paragraphs `36`(a) to (c) and subsections `37`(3) and (4), from the person that was the owner of the vessel or wreck at the time the costs and expenses were incurred; or
+
+    in the case of property used under subsection 86(5),
+
+    if a wreck is subject to Part 1, from the person that was the owner of the vessel at the time of the maritime casualty that resulted in the wreck, or
+
+    in all other cases, from the person that was the owner of the vessel or wreck at the time the costs and expenses were incurred.
 
   **(2)** If more than one person was the owner of the vessel referred to in subsection (1), the owners are jointly and severally, or solidarily, liable for the costs and expenses referred to in that subsection.
 
@@ -2151,23 +2199,13 @@ Subsection 41(1) of the `Oceans Act` is amended by adding the following after pa
 response to wrecks and hazardous or dilapidated ships;
 
 
-> **Explanatory Note**:
-> New.
-
-
 #### Canada National Marine Conservation Areas Act
 
 ### Section 134
 
 Subsection 16(5) of the `Canada National Marine Conservation Areas Act` is replaced by the following:
 
-**(5)** Regulations referred to in subsection (2), (3) or (4) prevail over regulations made under the `Fisheries Act`, the `Coastal Fisheries Protection Act`, the `Canada Shipping Act, 2001`, the `Arctic Waters Pollution Prevention Act`, the `Navigation Protection Act`, the `Aeronautics Act` or **the `Wrecked, Abandoned or Hazardous Vessels Act`** to the extent of any conflict between them.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 16(5):
-> *Existing Text*:
-> > Regulations referred to in subsection (2), (3) or (4) prevail over regulations made under the `Fisheries Act`, the `Coastal Fisheries Protection Act`, the `Canada Shipping Act, 2001`, the `Arctic Waters Pollution Prevention Act`, the `Navigation Protection Act` or the `Aeronautics Act` to the extent of any conflict between them.
+**(5)** Regulations referred to in subsection (2), (3) or (4) prevail over regulations made under the `Fisheries Act`, the `Coastal Fisheries Protection Act`, the `Canada Shipping Act, 2001`, the `Arctic Waters Pollution Prevention Act`, the `Navigation Protection Act`, the `Aeronautics Act` or the `Wrecked, Abandoned or Hazardous Vessels Act` to the extent of any conflict between them.
 
 
 ### Consequential Amendments
@@ -2179,13 +2217,7 @@ Subsection 16(5) of the `Canada National Marine Conservation Areas Act` is repla
 
 The definition **Crown ship** in section 2 of the `Crown Liability and Proceedings Act` is replaced by the following:
 
-**Crown ship** means a Crown vessel as defined in **subsection `48`(1)** of the `**Wrecked, Abandoned or Hazardous Vessels** Act`; (**navire de l'État**)
-
-
-> **Explanatory Note**:
-> Existing text of the definition:
-> *Existing Text*:
-> > **Crown ship** means a Crown vessel as defined in section 140 of the `Canada Shipping Act, 2001`; (**navire de l'État**)
+**Crown ship** means a Crown vessel as defined in subsection `48`(1) of the `Wrecked, Abandoned or Hazardous Vessels Act`; (**navire de l'État**)
 
 ### Section 136
 
@@ -2193,13 +2225,7 @@ Subsection 7(1) of the Act is replaced by the following:
 
 ### Section 7
 
-  **(1)** Section **`53`** of the `**Wrecked, Abandoned or Hazardous Vessels** Act` applies in respect of salvage services rendered to Crown ships or aircraft as it applies in respect of salvage services rendered to other ships or aircraft.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 7(1):
-> *Existing Text*:
-> > Section 145 of the `Canada Shipping Act, 2001` applies in respect of salvage services rendered to Crown ships or aircraft as it applies in respect of salvage services rendered to other ships or aircraft.
+  **(1)** Section `53` of the `Wrecked, Abandoned or Hazardous Vessels Act` applies in respect of salvage services rendered to Crown ships or aircraft as it applies in respect of salvage services rendered to other ships or aircraft.
 
 
 #### Navigation Protection Act
@@ -2212,19 +2238,9 @@ The `Navigation Protection Act` is amended by adding the following before sectio
 
 Sections 15 to 19 do not apply in respect of a wreck to which Part 1 of the `Wrecked, Abandoned or Hazardous Vessels Act` applies.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 138
 
 Section 20 of the Act is repealed.
-
-
-> **Explanatory Note**:
-> Existing text of section 20:
-> *Existing Text*:
-> > If any vessel or thing is wrecked, sunk, partially sunk, lying ashore, grounded or abandoned in any navigable water — other than in any minor water — that is listed in the schedule, the Minister may, under the restrictions that he or she considers appropriate, authorize any person to take possession of and remove the vessel, part of the vessel or thing for that person's own benefit, on that person's giving to the registered owner or other owner of the vessel or to the owner of the thing, if known, one month's notice or, if the registered owner or other owner of the vessel or owner of the thing is not known, public notice for the same period in a publication specified by the Minister.
 
 ### Section 139
 
@@ -2237,13 +2253,7 @@ The schedule to the Act is amended by replacing the references after the heading
 
 The portion of subsection 16(2) of the `Customs Act` before paragraph (a) is replaced by the following:
 
-**(2)** If any wreck that has come into Canada from outside Canada is released to a person under section **`61`** of the `**Wrecked, Abandoned or Hazardous Vessels** Act`, that person
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 16(2):
-> *Existing Text*:
-> > If any wreck that has come into Canada from outside Canada is released to a person under section 158 of the `Canada Shipping Act, 2001`, that person
+**(2)** If any wreck that has come into Canada from outside Canada is released to a person under section `61` of the `Wrecked, Abandoned or Hazardous Vessels Act`, that person
 
 
 #### Canada Shipping Act, 2001
@@ -2254,30 +2264,15 @@ Paragraphs 35(1)(e) to (g) of the `Canada Shipping Act, 2001` are replaced by th
 
 respecting record keeping, information management and reporting for the purposes of this Part or Part 2 (Registration, Listing and Recording), 3 (Personnel), 4 (Safety), 6 (Incidents, Accidents and Casualties), 8 (Pollution Prevention and Response — Department of Transport and Department of Fisheries and Oceans) to the extent that the Minister of Transport is responsible for that Part, 9 (Pollution Prevention — Department of Transport), 10 (Pleasure Craft) or 11 (Enforcement — Department of Transport) or the regulations made under subsection 136(1);
 
-respecting the form and manner of giving notice under this Part or Part 2 (Registration, Listing and Recording), 3 (Personnel), 4 (Safety), 8 (Pollution Prevention and Response — Department of Transport and Department of Fisheries and Oceans) to the extent that the Minister of Transport is responsible for that Part, 9 (Pollution Prevention — Department of Transport), 10 (Pleasure Craft) or 11 (Enforcement — Department of Transport) or the regulations made under subsection 136(1);
+respecting the form and manner of giving notice under this Part or Part 2 (Registration, Listing and Recording), 3 (Personnel), 4 (Safety), 8 (Pollution Prevention and Response — Department of Transport and Department of Fisheries and Oceans) to the extent that the Minister of Transport is responsible for that Part, 9 (Pollution Prevention — Department of Transport), 10 (Pleasure Craft) or 11 (Enforcement — Department of Transport) or the regulations made under subsection 136(1);
 
 respecting the setting and payment of fees for services provided in the administration of this Part or Part 2 (Registration, Listing and Recording), 3 (Personnel), 4 (Safety), 6 (Incidents, Accidents and Casualties), 8 (Pollution Prevention and Response — Department of Transport and Department of Fisheries and Oceans) to the extent that the Minister of Transport is responsible for that Part, 9 (Pollution Prevention — Department of Transport), 10 (Pleasure Craft) or 11 (Enforcement — Department of Transport) or the regulations made under any of those Parts or under subsection 136(1);
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 35(1):
-> *Existing Text*:
-> > The Governor in Council may, on the recommendation of the Minister of Transport, make regulations
-> > 
-> > respecting record keeping, information management and reporting for the purposes of this Part or Part 2 (Registration, Listing and Recording), 3 (Personnel), 4 (Safety), 6 (Incidents, Accidents and Casualties), 7 (Wreck), 8 (Pollution Prevention and Response — Department of Transport and Department of Fisheries and Oceans) to the extent that the Minister of Transport is responsible for that Part, 9 (Pollution Prevention — Department of Transport), 10 (Pleasure Craft) or 11 (Enforcement — Department of Transport) or the regulations made under subsection 136(1);
-> > respecting the form and manner of giving notice under this Part or Part 2 (Registration, Listing and Recording), 3 (Personnel), 4 (Safety), 7 (Wreck), 8 (Pollution Prevention and Response — Department of Transport and Department of Fisheries and Oceans) to the extent that the Minister of Transport is responsible for that Part, 9 (Pollution Prevention — Department of Transport), 10 (Pleasure Craft) or 11 (Enforcement — Department of Transport) or the regulations made under subsection 136(1);
-> > respecting the setting and payment of fees for services provided in the administration of this Part or Part 2 (Registration, Listing and Recording), 3 (Personnel), 4 (Safety), 6 (Incidents, Accidents and Casualties), 7 (Wreck) other than section 163, 8 (Pollution Prevention and Response — Department of Transport and Department of Fisheries and Oceans) to the extent that the Minister of Transport is responsible for that Part, 9 (Pollution Prevention — Department of Transport), 10 (Pleasure Craft) or 11 (Enforcement — Department of Transport) or the regulations made under any of those Parts or under subsection 136(1);
 
 ### Section 142
 
 The heading before section 140 of the French version of the Act is replaced by the following:
 
 
-
-
-> **Explanatory Note**:
-> Existing text of the heading:
-> *Existing Text*:
 
 ### Section 143
 
@@ -2286,30 +2281,6 @@ Sections 140 to 147 of the Act are replaced by the following:
 ### Section 140
 
 In this Part, **Minister** means the Minister of Transport.
-
-
-> **Explanatory Note**:
-> Existing text of sections 140 to 147:
-> *Existing Text*:
-> > The definitions in this section apply in this Part.
-> > **Crown vessel** means a vessel that is owned by or is in the exclusive possession of Her Majesty in right of Canada. (**bâtiment appartenant à Sa Majesté**)
-> > **Minister** means the Minister of Transport. (**ministre**)
-> > This Part applies in respect of vessels registered, listed, recorded or licensed under this Act, wherever they are, and in respect of all other vessels in Canadian waters.
-> > Subject to the reservations that Canada made and that are set out in Part 2 of Schedule 3, the International Convention on Salvage, 1989, signed at London on April 28, 1989 and set out in Part 1 of Schedule 3, is approved and declared to have the force of law in Canada.
-> > In the event of an inconsistency between the Convention and this Act or the regulations, the Convention prevails to the extent of the inconsistency.
-> > In the case of salvage services rendered by or with the aid of a Crown vessel, Her Majesty in right of Canada and the master and crew members may claim salvage for salvage services only if the vessel is a tug or is specially equipped with a salvage plant.
-> > In respect of salvage services that may be claimed under subsection (1),
-> > Her Majesty has the same rights and remedies in respect of salvage services as any other salvor would have had if the vessel had belonged to that other salvor; and
-> > no claim for salvage services by the master or a crew member of a Crown vessel may be finally adjudicated unless the consent of the Governor in Council to the prosecution of the claim is proved.
-> > For the purpose of paragraph (2)(b), the consent of the Governor in Council may be given at any time before final adjudication.
-> > Any document that purports to give the consent of the Governor in Council for the purpose of paragraph (2)(b) is evidence of that consent.
-> > If a claim by the master or a crew member is prosecuted and the consent of the Governor in Council is not proved, the claim must be dismissed with costs.
-> > The Governor in Council may, on the recommendation of the Attorney General of Canada, accept, on behalf of Her Majesty in right of Canada and the master or a crew member, offers of settlement made with respect to claims for salvage services rendered by Crown vessels.
-> > The proceeds of a settlement made under subsection (1) must be distributed in the manner that the Governor in Council specifies.
-> > No action in respect of salvage services may be commenced more than two years after the date that the salvage services were rendered.
-> > The court having jurisdiction to deal with an action to which this section relates may, in accordance with the rules of court, extend the period described in subsection (1) to the extent and on the conditions that it thinks fit.
-> > The provisions of this Part with respect to salvage apply in respect of aircraft on or over Canadian waters as they apply in respect of vessels, with any modifications that the circumstances require.
-> > Compliance with section 130 (direction of rescue coordinator), 131 (distress signals) or 132 (assisting a person found at sea) does not affect the right of a master or of any other person to salvage.
 
 ### Section 144
 
@@ -2323,112 +2294,25 @@ Paragraph 152(1)(b) of the Act is replaced by the following:
 
 a provision of the regulations made under paragraph 150(1)(c).
 
-
-> **Explanatory Note**:
-> Relevant portion of subsection 152(1):
-> *Existing Text*:
-> > Every person commits an offence who contravenes
-> > 
-> > a provision of the regulations made under paragraph 150(1)(c) or subsection 150(2).
-
 ### Section 146
 
 Part 7 of the Act is repealed.
-
-
-> **Explanatory Note**:
-> Existing text of Part 7:
-> *Existing Text*:
-> > The definitions in this section apply in this Part.
-> > **Minister** means the Minister of Transport. (**ministre**)
-> > **wreck** includes
-> > jetsam, flotsam, lagan and derelict and any other thing that was part of or was on a vessel wrecked, stranded or in distress; and
-> > aircraft wrecked in waters and anything that was part of or was on an aircraft wrecked, stranded or in distress in waters. (**épave**)
-> > The Minister may designate persons or classes of persons as receivers of wreck.
-> > A receiver of wreck may authorize any person or class of persons to exercise any of their powers and perform any of their duties.
-> > Receivers of wreck, and persons authorized or within a class of persons authorized under subsection (2), are not personally liable for anything they do or omit to do in good faith under this Part.
-> > Any person who finds and takes possession of wreck in Canada, or who brings wreck into Canada, the owner of which is not known, shall, as soon as feasible,
-> > report it to a receiver of wreck and provide the information and documents requested; and
-> > take any measures with respect to the wreck that the receiver of wreck directs, including
-> > delivering it to the receiver of wreck within the period specified by the receiver, or
-> > keeping it in their possession in accordance with the instructions of the receiver.
-> > If wreck has been reported under paragraph (1)(a), a receiver of wreck may take the action that the receiver considers reasonable to determine the owner of the wreck, including giving notice of the wreck in the manner that the receiver considers appropriate.
-> > A receiver of wreck is not required to take any measures, or to direct that any measures be taken, with respect to wreck.
-> > A person who is referred to in subsection 155(1) and who has complied with that subsection is entitled to a salvage award determined by the receiver.
-> > The salvage award may be the wreck, part of the wreck or all or part of the proceeds of its disposition.
-> > No person shall possess, conceal, destroy, sell or otherwise dispose of wreck that the person knows has not been reported to a receiver of wreck under paragraph 155(1)(a) or use any means to disguise or conceal the fact that anything is such wreck.
-> > A receiver of wreck must release wreck or pay the proceeds of its disposition under subsection 160(1) to a person who claims ownership of the wreck and
-> > submits, in the form and manner specified by the Minister, a claim to the receiver within 90 days after the wreck was reported under paragraph 155(1)(a);
-> > establishes their claim to the satisfaction of the receiver; and
-> > pays or delivers the salvage award determined by the receiver, and pays the receiver's fees and expenses.
-> > When two or more persons claim wreck or proceeds of wreck, or when a person disputes the amount or value of the salvage award determined by the receiver, any court having jurisdiction in civil matters to the value or amount in question may hear and determine the matter.
-> > A salvage award that a court makes under subsection (1) may not exceed the value of the wreck.
-> > A receiver of wreck may dispose of or destroy wreck, or authorize its disposition or destruction,
-> > after 90 days following the date that the wreck was reported under paragraph 155(1)(a); or
-> > at any time if, in the receiver's opinion, the value of the wreck is less than $5,000, the storage costs would likely exceed the value of the wreck or the wreck is perishable or poses a threat to public health or safety.
-> > The proceeds, if any, of a disposition under paragraph (1)(b) must be held by the receiver of wreck for not less than 90 days after the date that the wreck was reported under paragraph 155(1)(a).
-> > The proceeds of a disposition under subsection (1) must be paid, less the salvage award, fees and expenses, to the Receiver General, to form part of the Consolidated Revenue Fund
-> > if no claim has been submitted in accordance with paragraph 158(a); or
-> > if a claim has not been established within the period that the receiver of wreck considers appropriate.
-> > If a person has established a claim to wreck, but has not paid or delivered the salvage award and has not paid the fees and expenses due within 30 days after notice is given by the receiver of wreck, the receiver may dispose of or destroy all or part of the wreck and, if it is disposed of, must pay, from the proceeds of the disposition, the expenses of the disposition and the salvage award, fees and expenses, and release any remaining wreck and pay any proceeds to that person.
-> > On disposal or release of wreck or payment of the proceeds of its disposition by a receiver of wreck under this Part, the receiver, and any person authorized or a member of a class of persons authorized under subsection 154(2), is discharged from all liability in respect of the wreck.
-> > The Governor in Council may, on the recommendation of the Minister, make regulations
-> > exempting any geographical area from the application of this Part; and
-> > for carrying out the purposes and provisions of this Part.
-> > The Governor in Council may, on the joint recommendation of the Minister and the Minister responsible for the Parks Canada Agency, make regulations
-> > specifying wreck or classes of wreck that have heritage value;
-> > respecting the protection and preservation of wreck or classes of wreck that have heritage value, and providing for issuing permits to access such wreck;
-> > authorizing the designation of enforcement officers to ensure compliance with the regulations made under this Part and specifying their powers and duties;
-> > authorizing the Minister and the Minister responsible for the Parks Canada Agency to jointly enter into agreements or arrangements respecting the administration or enforcement of any provision of the regulations made under this subsection and to authorize any person or organization with whom an agreement or arrangement is entered into to exercise the powers or perform the duties under those regulations that are specified in the agreement or arrangement;
-> > exempting wreck or any class of wreck that has heritage value from the application of any provision of this Part;
-> > exempting any geographical area from the application of regulations made under paragraph (b) or (c); and
-> > respecting the setting and payment of fees, and the determination and payment of expenses, for services provided in the administration of regulations made under this subsection.
-> > All fees and expenses set under paragraph (2)(g) and interest payable on those fees and expenses constitute a debt due to Her Majesty in right of Canada and may be recovered in any court of competent jurisdiction.
-> > Every person commits an offence who contravenes
-> > paragraph 155(1)(a) (report wreck);
-> > paragraph 155(1)(b) (take directed measures regarding wreck);
-> > section 157 (possessing, concealing, destroying or disposing of wreck); or
-> > a provision of the regulations made under this Part.
-> > Every person who commits an offence under subsection (1) is liable on summary conviction to a fine of not more than $100,000 or to imprisonment for a term of not more than one year, or to both.
-> > In a prosecution under this Part, it is not necessary to identify the wreck as the property of a particular person or as coming from a particular vessel.
 
 ### Section 147
 
 Paragraphs (a) and (b) of the definition **relevant provision** in section 210 of the Act are replaced with the following:
 
-subsection 40(1) with respect to a provision of **the** regulations made under paragraph 35(1)(e) in relation to Part 10 (Pleasure Craft); and
+subsection 40(1) with respect to a provision of the regulations made under paragraph 35(1)(e) in relation to Part 10 (Pleasure Craft); and
 
-a provision of **Part** 5 (Navigation Services) **or** 10 (Pleasure Craft) or a provision of any regulation made under **either** of those Parts, except a provision of the regulations made under paragraph 136(1)(f) in so far as it applies in respect of Canadian vessels or foreign vessels. (**disposition visée**)
-
-
-> **Explanatory Note**:
-> Existing text of the definition:
-> *Existing Text*:
-> > **relevant provision** means a provision of this Act or the regulations that the Minister is responsible for administering, other than
-> > subsection 40(1) with respect to a provision of regulations made under paragraph 35(1)(e) in relation to Part 7 (Wreck) or 10 (Pleasure Craft); and
-> > a provision of any of Parts 5 (Navigation Services), 7 (Wreck) and 10 (Pleasure Craft) or a provision of any regulation made under any of those Parts, except a provision of the regulations made under paragraph 136(1)(f) in so far as it applies in respect of Canadian vessels or foreign vessels. (**disposition visée**)
+a provision of Part 5 (Navigation Services) or 10 (Pleasure Craft) or a provision of any regulation made under either of those Parts, except a provision of the regulations made under paragraph 136(1)(f) in so far as it applies in respect of Canadian vessels or foreign vessels. (**disposition visée**)
 
 ### Section 148
 
 Subsection 226(1) of the Act is repealed.
 
-
-> **Explanatory Note**:
-> Existing text of subsection 226(1):
-> *Existing Text*:
-> > The Minister may sell a vessel that is deemed abandoned under the regulations and may, by bill of sale, give the purchaser a valid title to it free from any mortgage or other claim on the vessel that exists at the time of the sale.
-
 ### Section 149
 
 Paragraph 244(d) of the Act is repealed.
-
-
-> **Explanatory Note**:
-> Relevant portion of section 244:
-> *Existing Text*:
-> > The Governor in Council may, on the recommendation of the Minister, make regulations for carrying out the purposes and provisions of this Part, including regulations
-> > 
-> > specifying the circumstances in which a vessel is deemed abandoned;
 
 ### Section 150
 
@@ -2436,13 +2320,7 @@ Section 268.1 of the Act is replaced by the following:
 
 ### Section 268.1
 
-Subsections 11(5) and 12(5), section 45 and **subsection** 195(3) do not, by reason of section 10 of the `Crown Liability and Proceedings Act`, relieve the Crown of liability in respect of a tort or extracontractual civil liability to which the Crown would otherwise be subject.
-
-
-> **Explanatory Note**:
-> Existing text of section 268.1:
-> *Existing Text*:
-> > Subsections 11(5) and 12(5), section 45 and subsections 154(3) and 195(3) do not, by reason of section 10 of the `Crown Liability and Proceedings Act`, relieve the Crown of liability in respect of atort or extracontractual civil liability to which the Crown would otherwise be subject.
+Subsections 11(5) and 12(5), section 45 and subsection 195(3) do not, by reason of section 10 of the `Crown Liability and Proceedings Act`, relieve the Crown of liability in respect of a tort or extracontractual civil liability to which the Crown would otherwise be subject.
 
 ### Section 151
 
@@ -2455,13 +2333,7 @@ Schedule 3 to the Act is repealed.
 
 Subsection 2(2) of the `Transportation Appeal Tribunal of Canada Act` is replaced by the following:
 
-**(2)** The Tribunal has jurisdiction in respect of reviews and appeals as expressly provided for under **the `Wrecked, Abandoned or Hazardous Vessels Act`**, the `Aeronautics Act`, the `Canada Shipping Act, 2001`, the `Marine Transportation Security Act`, the `Railway Safety Act` and any other federal Act regarding transportation.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 2(2):
-> *Existing Text*:
-> > The Tribunal has jurisdiction in respect of reviews and appeals as expressly provided for under the `Aeronautics Act`, the `Canada Shipping Act, 2001`, the `Marine Transportation Security Act`, the `Railway Safety Act` and any other federal Act regarding transportation.
+**(2)** The Tribunal has jurisdiction in respect of reviews and appeals as expressly provided for under the `Wrecked, Abandoned or Hazardous Vessels Act`, the `Aeronautics Act`, the `Canada Shipping Act, 2001`, the `Marine Transportation Security Act`, the `Railway Safety Act` and any other federal Act regarding transportation.
 
 
 ## Review
