@@ -1,7 +1,5 @@
 # Bill C-61: An Act to give effect to the Anishinabek Nation Education Agreement and to make consequential amendments to other Acts
 
-**Sponsor**: MINISTER OF CROWN-INDIGENOUS RELATIONS AND NORTHERN AFFAIRS
-
 ## Summary
 
 This enactment gives effect to the Anishinabek Nation Education Agreement and makes consequential amendments to other Acts.
@@ -133,19 +131,13 @@ Subsection 13(3) of the `Access to Information Act` is amended by striking out "
 the council of a participating First Nation, as defined in section 2 of the `Anishinabek Nation Education Agreement Act`.
 
 
-> **Explanatory Note**:
-> Relevant portion of subsection 13(3):
-> *Existing Text*:
-> > The expression **aboriginal government** in paragraph (1)(e) means
-
-
 ### Privacy Act
 
 ### Section 18
 
   **(1)** Paragraph 8(2)(f) of the `Privacy Act` is replaced by the following:
 
-    under an agreement or arrangement between the Government of Canada or **any of its institutions** and the government of a province, the council of the Westbank First Nation, the council of a participating First Nation as defined in subsection 2(1) of the `First Nations Jurisdiction over Education in British Columbia Act`, **the council of a participating First Nation as defined in section 2 of the `Anishinabek Nation Education Agreement Act`**, the government of a foreign state, an international organization of states or an international organization established by the governments of states, or any institution of any such government or organization, for the purpose of administering or enforcing any law or carrying out a lawful investigation;
+    under an agreement or arrangement between the Government of Canada or any of its institutions and the government of a province, the council of the Westbank First Nation, the council of a participating First Nation as defined in subsection 2(1) of the `First Nations Jurisdiction over Education in British Columbia Act`, the council of a participating First Nation as defined in section 2 of the `Anishinabek Nation Education Agreement Act`, the government of a foreign state, an international organization of states or an international organization established by the governments of states, or any institution of any such government or organization, for the purpose of administering or enforcing any law or carrying out a lawful investigation;
 
   **(2)** Subsection 8(7) of the Act is amended by striking out "or" at the end of paragraph (g), by adding "or" at the end of paragraph (h) and by adding the following after paragraph (h):
 
