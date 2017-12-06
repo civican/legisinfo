@@ -1,7 +1,5 @@
 # Bill C-58: An Act to amend the Access to Information Act and the Privacy Act and to make consequential amendments to other Acts
 
-**Sponsor**: PRESIDENT OF THE TREASURY BOARD
-
 ## Summary
 
 This enactment amends the `Access to Information Act` to, among other things,
@@ -112,23 +110,17 @@ the period for which the record is being requested or the date of the record.
 
 ### Section 6.1
 
-  **(1)** **With the Information Commissioner's written approval**, the head of a government institution may, before giving a person access to a record or refusing to do so, decline to act on the person's request if, in the opinion of the head of the institution,
+  **(1)** With the Information Commissioner's written approval, the head of a government institution may, before giving a person access to a record or refusing to do so, decline to act on the person's request if, in the opinion of the head of the institution,
 
-    [*Deleted*]
-
-    the person has already been given access to **an identical** record or the record may **reasonably be accessed** by other means;
+    the person has already been given access to an identical record or the record may reasonably be accessed by other means;
 
     the request is for such a large number of records or necessitates a search through such a large number of records that acting on the request would unreasonably interfere with the operations of the government institution, even with a reasonable extension of the time limit set out in section 7; or
 
     the request is vexatious, is made in bad faith or is otherwise an abuse of the right to make a request for access to records.
 
-  **(1.1)** The head of a government institution is not author­ized under paragraph (1)(b) to decline to act on a person's request for a record for the sole reason that the information contained in it has been published under Part 2.
+  **(1.1)** The head of a government institution is not author­ized under paragraph (1)(a) to decline to act on a person's request for a record for the sole reason that the information contained in it has been published under Part 2.
 
   **(2)** If the head of a government institution declines to act on the person's request, they shall give the person written notice of their decision to decline to act on the request and their reasons for doing so.
-
-    [*Deleted*]
-
-    [*Deleted*]
 
 ### Section 7
 
@@ -194,8 +186,6 @@ Section 29 of the Act is repealed.
 ### Section 13
 
   **(1)** Paragraph 30(1)(b) of the Act is replaced by the following:
-
-    [*Deleted*]
 
     from persons who have been required to pay an amount under subsection 11(2) that they consider unreasonable;
 
@@ -492,7 +482,7 @@ In carrying out an investigation under this Act and in any report published unde
 
 ### Section 31
 
-The portion of section 68 of the Act before paragraph **(b)** is replaced by the following:
+The portion of section 68 of the Act before paragraph (b) is replaced by the following:
 
 ### Section 68
 
@@ -802,7 +792,7 @@ The following definitions apply in sections `73` to `80`.
 
 ### Section 73
 
-The Prime Minister shall cause to be published in electronic form any letter or revised letter in which he or she establishes the mandate of any other minister **within 30 days after the issuance of the letter or revised letter**.
+The Prime Minister shall cause to be published in electronic form any letter or revised letter in which he or she establishes the mandate of any other minister within 30 days after the issuance of the letter or revised letter.
 
 ### Section 74
 
@@ -890,7 +880,7 @@ Within 120 days after the end of each fiscal year, a minister shall cause to be 
 
   **(1)** A minister is not required to cause to be published any of the information, any part of the information, any of the materials or any part of the materials referred to in any of sections `74` to `78` if that information, that part of the information, those materials or that part of those materials were set out in a record and, in dealing with a request for access to that record, a head of a government institution could under Part 1 refuse to disclose that record, in whole or in part, for a reason that is set out in that Part.
 
-  **(2)** A **minister** shall not cause to be published any of the information, any part of the information, any of the materials or any part of the materials referred to in any of sections **74** to **78** if that information, that part of the information, those materials or that part of those materials were set out in a record and, in dealing with a request for access to that record, **a head of a government institution** would be required under Part 1 to refuse to disclose that record, in whole or in part, for a reason that is set out in that Part or because that Part does not apply to the information or materials in question.
+  **(2)** A minister shall not cause to be published any of the information, any part of the information, any of the materials or any part of the materials referred to in any of sections 74 to 78 if that information, that part of the information, those materials or that part of those materials were set out in a record and, in dealing with a request for access to that record, a head of a government institution would be required under Part 1 to refuse to disclose that record, in whole or in part, for a reason that is set out in that Part or because that Part does not apply to the information or materials in question.
 
   **(3)** For the purposes of this section, information that must be published under section `75` or `76` is not personal information.
 
@@ -995,9 +985,9 @@ any other information that, in accordance with Treasury Board policies, must be 
 
     any other information that, in accordance with Treasury Board policies, must be published.
 
-  **(2)** Within 30 days after the end of the quarter in which a contract that has been entered into in relation to the activities of a government entity and that has a value of $10,000 or less is amended so that its value exceeds $10,000, **or within 60 days after the end of that quarter if that quarter is the fourth quarter**, the head of the government entity shall cause to be published in electronic form the information referred to in paragraphs (1)(a) to (f) with respect to the contract as amended.
+  **(2)** Within 30 days after the end of the quarter in which a contract that has been entered into in relation to the activities of a government entity and that has a value of $10,000 or less is amended so that its value exceeds $10,000, or within 60 days after the end of that quarter if that quarter is the fourth quarter, the head of the government entity shall cause to be published in electronic form the information referred to in paragraphs (1)(a) to (f) with respect to the contract as amended.
 
-  **(3)** Within 30 days after the end of the quarter in which a contract referred to in subsection (1) or (2) is amended so that its value is increased or decreased, **or within 60 days after the end of that quarter if that quarter is the fourth quarter**, the head of the government entity shall cause to be published in electronic form the value of the contract as amended.
+  **(3)** Within 30 days after the end of the quarter in which a contract referred to in subsection (1) or (2) is amended so that its value is increased or decreased, or within 60 days after the end of that quarter if that quarter is the fourth quarter, the head of the government entity shall cause to be published in electronic form the value of the contract as amended.
 
 ### Section 87
 
@@ -1046,7 +1036,7 @@ within 120 days after an appearance before a committee of Parliament, the packag
 
 ### Section 91
 
-  ****(1)**** The Information Commissioner shall not exercise any powers or perform any duties or functions in **relation** to the **proactive publication** of information under this Part, including **receiving** and **investigating complaints** or **exercising** any **other powers, duties** or **functions** under Part 1.
+  **(1)** The Information Commissioner shall not exercise any powers or perform any duties or functions in relation to the proactive publication of information under this Part, including receiving and investigating complaints or exercising any other powers, duties or functions under Part 1.
 
   **(2)** Nothing in subsection (1) shall be construed as preventing the Information Commissioner from exercising his or her powers or performing his or her duties and functions under Part 1 with respect to a record that, although subject to Part 2, is subject to a request for access under Part 1.
 
@@ -1583,8 +1573,6 @@ section 22;
 subsection 22.1(1);
 
 subsection 24(1);
-
-[*Deleted*]
 
 subsections 27(1) and (4);
 
