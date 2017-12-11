@@ -1,7 +1,5 @@
 # Bill C-51: An Act to amend the Criminal Code and the Department of Justice Act and to make consequential amendments to another Act
 
-**Sponsor**: MINISTER OF JUSTICE
-
 ## Summary
 
 This enactment amends the `Criminal Code` to amend, remove or repeal passages and provisions that have been ruled unconstitutional or that raise risks with regard to the `Canadian Charter of Rights and Freedoms`, as well as passages and provisions that are obsolete, redundant or that no longer have a place in criminal law. It also modifies certain provisions of the Code relating to sexual assault in order to clarify their application and to provide a procedure applicable to the admissibility and use of a complainant's record when in the possession of the accused.
@@ -121,17 +119,17 @@ Section 143 of the Act is repealed.
 
 ### Section 10
 
-  **(1)** **Section 153.1 of the Act is amended by adding the following after subsection (2):**
+  **(1)** Section 153.1 of the Act is amended by adding the following after subsection (2):
 
     **(2.1)** Consent must be present at the time the sexual activity in question takes place.
 
     **(2.2)** The question of whether no consent is obtained under subsection (3) or (4) or 265(3) is a question of law.
 
-    ****(2)**** The portion of subsection 153.1(3) of the Act before paragraph (a) is replaced by the following:
+    **(2)** The portion of subsection 153.1(3) of the Act before paragraph (a) is replaced by the following:
 
     **(3)** For the purposes of this section, no consent is obtained if
 
-  **(2)** Paragraph 153.1(3)(b) of the Act is replaced by the following:
+  **(2.1)** Paragraph 153.1(3)(b) of the Act is replaced by the following:
 
     the complainant is unconscious;
 
@@ -151,7 +149,7 @@ Section 143 of the Act is repealed.
 
   **(5)** Paragraph 153.1(5)(a) of the Act is amended by adding the following after subparagraph (ii):
 
-    any circumstance referred to in subsection (3) or **(4) or** 265(3) in which no consent is obtained;
+    any circumstance referred to in subsection (3) or (4) or 265(3) in which no consent is obtained;
 
   **(6)** Subsection 153.1(5) of the Act is amended by adding "or" at the end of paragraph (b) and by adding the following after that paragraph:
 
@@ -207,11 +205,9 @@ assaults or offers any violence to them, or
 
 arrests them on a civil process, or under the pretence of executing a civil process,
 
-is guilty of an indictable offence and liable to imprisonment for a term not exceeding two years.
-
 ### Section 14
 
-Sections **177 and** 178 of the Act are replaced by the following:
+Sections 177 and 178 of the Act are replaced by the following:
 
 ### Section 177
 
@@ -255,17 +251,17 @@ The portion of subsection 215(2) of the Act before paragraph (a) is replaced by 
 
 ### Section 19
 
-  **(1)** **Section 273.1 of the Act is amended by adding the following after subsection (1):**
+  **(1)** Section 273.1 of the Act is amended by adding the following after subsection (1):
 
     **(1.1)** Consent must be present at the time the sexual activity in question takes place.
 
     **(1.2)** The question of whether no consent is obtained under subsection 265(3) or subsection (2) or (3) is a question of law.
 
-    ****(2)**** The portion of subsection 273.1(2) of the Act before paragraph (a) is replaced by the following:
+    **(2)** The portion of subsection 273.1(2) of the Act before paragraph (a) is replaced by the following:
 
     **(2)** For the purpose of subsection (1), no consent is obtained if
 
-  **(2)** Paragraph 273.1(2)(b) of the Act is replaced by the following:
+  **(2.1)** Paragraph 273.1(2)(b) of the Act is replaced by the following:
 
     the complainant is unconscious;
 
@@ -287,7 +283,7 @@ The portion of subsection 215(2) of the Act before paragraph (a) is replaced by 
 
   **(2)** Paragraph 273.2(a) of the Act is amended by adding the following after subparagraph (ii):
 
-    any circumstance referred to in subsection 265(3) or 273.1(2) **or (3)** in which no consent is obtained;
+    any circumstance referred to in subsection 265(3) or 273.1(2) or (3) in which no consent is obtained;
 
   **(3)** Section 273.2 of the Act is amended by adding "or" at the end of paragraph (b) and by adding the following after that paragraph:
 
