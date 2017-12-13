@@ -1,7 +1,5 @@
 # Bill C-66: An Act to establish a procedure for expunging certain historically unjust convictions and to make related amendments to other Acts
 
-**Sponsor**: MINISTER OF PUBLIC SAFETY AND EMERGENCY PREPAREDNESS
-
 Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act to establish a procedure for expunging certain historically unjust convictions and to make related amendments to other Acts*".
 
 ## Summary
@@ -315,25 +313,13 @@ For the purposes of section `25`, consent means the voluntary agreement of the p
 
 Subsection 7(6) of the `Criminal Code` is replaced by the following:
 
-**(6)** **If** a person is alleged to have committed an act or omission that is an offence by virtue of this section and that person has been tried and dealt with outside Canada in respect of the offence in such a manner that, if that person had been tried and dealt with in Canada, they would be able to plead *autrefois acquit*,*autrefois convict,* pardon or **an expungement order under the `Expungement of Historically Unjust Convictions Act`**, that person shall be deemed to have been so tried and dealt with in Canada.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 7(6):
-> *Existing Text*:
-> > Where a person is alleged to have committed an act or omission that is an offence by virtue of this section and that person has been tried and dealt with outside Canada in respect of the offence in such a manner that, if that person had been tried and dealt with in Canada, he would be able to plead *autrefois acquit*,*autrefois convict* or pardon, that person shall be deemed to have been so tried and dealt with in Canada.
+**(6)** If a person is alleged to have committed an act or omission that is an offence by virtue of this section and that person has been tried and dealt with outside Canada in respect of the offence in such a manner that, if that person had been tried and dealt with in Canada, they would be able to plead *autrefois acquit*,*autrefois convict,* pardon or an expungement order under the `Expungement of Historically Unjust Convictions Act`, that person shall be deemed to have been so tried and dealt with in Canada.
 
 ### Section 28
 
 Subsection 465(7) of the Act is replaced by the following:
 
-**(7)** **If** a person is alleged to have conspired to do anything that is an offence by virtue of subsection (3) or (4) and that person has been tried and dealt with outside Canada in respect of the offence in such a manner that, if the person had been tried and dealt with in Canada, they would be able to plead *autrefois acquit*, *autrefois convict,* pardon or **an expungement order under the `Expungement of Historically Unjust Convictions Act`**, the person shall be deemed to have been so tried and dealt with in Canada.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 465(7):
-> *Existing Text*:
-> > Where a person is alleged to have conspired to do anything that is an offence by virtue of subsection (3) or (4) and that person has been tried and dealt with outside Canada in respect of the offence in such a manner that, if the person had been tried and dealt with in Canada, he would be able to plead *autrefois acquit*, *autrefois convict* or pardon, the person shall be deemed to have been so tried and dealt with in Canada.
+**(7)** If a person is alleged to have conspired to do anything that is an offence by virtue of subsection (3) or (4) and that person has been tried and dealt with outside Canada in respect of the offence in such a manner that, if the person had been tried and dealt with in Canada, they would be able to plead *autrefois acquit*, *autrefois convict,* pardon or an expungement order under the `Expungement of Historically Unjust Convictions Act`, the person shall be deemed to have been so tried and dealt with in Canada.
 
 ### Section 29
 
@@ -343,7 +329,7 @@ Subsection 465(7) of the Act is replaced by the following:
 
   **(2)** Subsection 607(3) of the Act is replaced by the following:
 
-    **(3)** The pleas of *autrefois acquit*, *autrefois convict*, pardon and **an expungement order under the `Expungement of Historically Unjust Convictions Act`** shall be disposed of by the judge without a jury before the accused is called on to plead further.
+    **(3)** The pleas of *autrefois acquit*, *autrefois convict*, pardon and an expungement order under the `Expungement of Historically Unjust Convictions Act` shall be disposed of by the judge without a jury before the accused is called on to plead further.
 
 
 ### Sex Offender Information Registration Act
@@ -352,11 +338,11 @@ Subsection 465(7) of the Act is replaced by the following:
 
   **(1)** Paragraph 15(2)(a) of the `Sex Offender Information Registration Act` is replaced by the following:
 
-    the person who is subject to the order is finally acquitted of every offence in connection with which the order was made or receives a free pardon granted under Her Majesty's royal prerogative of mercy or under section 748 of the `Criminal Code` for every such offence **or is the subject of an expungement order under the `Expungement of Historically Unjust Convictions Act` for every such offence**; or
+    the person who is subject to the order is finally acquitted of every offence in connection with which the order was made or receives a free pardon granted under Her Majesty's royal prerogative of mercy or under section 748 of the `Criminal Code` for every such offence or is the subject of an expungement order under the `Expungement of Historically Unjust Convictions Act` for every such offence; or
 
   **(2)** Paragraph 15(3)(a) of the Act is replaced by the following:
 
-    the person who is subject to the obligation is finally acquitted of every offence to which it relates or receives a free pardon granted under Her Majesty's royal prerogative of mercy or under section 748 of the `Criminal Code` for every such offence **or is the subject of an expungement order under the `Expungement of Historically Unjust Convictions Act` for every such offence**;
+    the person who is subject to the obligation is finally acquitted of every offence to which it relates or receives a free pardon granted under Her Majesty's royal prerogative of mercy or under section 748 of the `Criminal Code` for every such offence or is the subject of an expungement order under the `Expungement of Historically Unjust Convictions Act` for every such offence;
 
 the offence of gross indecency or an attempt to commit gross indecency under any of the following:
 
