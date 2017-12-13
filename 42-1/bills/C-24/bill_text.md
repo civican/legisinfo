@@ -1,7 +1,5 @@
 # Bill C-24: An Act to amend the Salaries Act and to make a consequential amendment to the Financial Administration Act
 
-**Sponsor**: LEADER OF THE GOVERNMENT IN THE HOUSE OF COMMONS
-
 His Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act to amend the Salaries Act and to make a consequential amendment to the Financial Administration Act*".
 
 ## Summary
@@ -19,10 +17,6 @@ The `Salaries Act` is amended by adding the following after section 1:
 
 
 ## Salaries
-
-
-> **Explanatory Note**:
-> New.
 
 ### Section 2
 
@@ -80,10 +74,6 @@ The Act is amended by adding the following after section 4.2:
     **appropriate Minister** has the same meaning as in section 2 of the `Financial Administration Act`. (**ministre compétent**)
 
     **department** means a department named in Schedule I to the `Financial Administration Act`, a division or branch of the federal public administration set out in column I of Schedule I.1 to that Act and a corporation named in Schedule II to that Act. (**ministère**)
-
-
-> **Explanatory Note**:
-> New.
 
 
 ## Transitional Provision
