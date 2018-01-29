@@ -72,19 +72,19 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ### Amendments to the Act
 
+### Section 0.1
+
+Subsection 122(1) of the `Canada Labour Code` is amended by adding the following in alphabet­ical order:
+
+**harassment and violence** means any action, conduct or comment, including of a sexual nature, that can reasonably be expected to cause offence, humiliation or other physical or psychological injury or illness to an employee, including any prescribed action, conduct or comment; (**harcèlement et violence**)
+
 ### Section 1
 
-Section 122.1 of the `Canada Labour Code` is replaced by the following:
+Section 122.1 of the Act is replaced by the following:
 
 ### Section 122.1
 
-The purpose of this Part is to prevent accidents and **physical or psychological injuries** and **illnesses** arising out of, linked with or occurring in the course of employment to which this Part applies.
-
-
-> **Explanatory Note**:
-> Existing text of section 122.1:
-> *Existing Text*:
-> > The purpose of this Part is to prevent accidents and injury to health arising out of, linked with or occurring in the course of employment to which this Part applies.
+The purpose of this Part is to prevent accidents, **occurrences of harassment and violence** and physical or psychological injuries and illnesses arising out of, linked with or occurring in the course of employment to which this Part applies.
 
 ### Section 2
 
@@ -92,69 +92,73 @@ Section 123 of the Act is amended by adding the following after subsection (2):
 
 **(2.1)** This Part applies to persons appointed under subsection 128(1) of the `Public Service Employment Act`, other than persons appointed by a person holding the recognized position of Leader of the Opposition in the Senate or Leader of the Opposition in the House of Commons, and to their employer.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 3
 
   **(1)** Paragraphs 125(1)(c) to (e) of the Act are replaced by the following:
 
-    **except as provided for in the regulations**, investigate, record and report, **in accordance with the regulations**, all accidents, **occurrences of harassment or violence**, occupational **illnesses** and other hazardous occurrences known to the employer;
+    except as provided for in the regulations, investigate, record and report, in accordance with the regulations, all accidents, occurrences of harassment **and** violence, occupational illnesses and other hazardous occurrences known to the employer;
 
-    make readily available to employees, in printed or electronic form,
+    make readily available to employees, in printed **and** electronic form,
 
-    a copy of this Part **and** a copy of the regulations made under this Part that apply to the work place,
+    a copy of this Part and a copy of the regulations made under this Part that apply to the work place,
 
     a statement of the employer's general policy concerning the health and safety at work of employees, and
 
-    any other **information** related to health and safety that is prescribed or that may be **specified** by the Minister;
+    any other information related to health and safety that is prescribed or that may be specified by the Minister;
 
   **(2)** Paragraph 125(1)(f) of the Act is replaced by the following:
 
-    if the **information referred to in any of subparagraphs (d)(i) to (iii)** is made available in electronic form, **ensure that** employees **receive** appropriate training to enable them to have access to the **information** and, on the request of an employee, make a printed copy of the **information** available;
+    if the information referred to in any of subparagraphs (d)(i) to (iii) is made available in electronic form, ensure that employees receive appropriate training to enable them to have access to the information and, on the request of an employee, make a printed copy of the information available;
 
   **(3)** Paragraph 125(1)(z.16) of the Act is replaced by the following:
 
-    take the prescribed **measures** to prevent and protect against **harassment and** violence in the work place, **respond to occurrences of harassment and violence in the work place and offer support to employees affected by harassment and violence in the work place**;
+    take the prescribed measures to prevent and protect against harassment and violence in the work place, respond to occurrences of harassment and violence in the work place and offer support to employees affected by harassment and violence in the work place;
+
+    ensure that employees, including those who have supervisory or managerial responsibilities, receive training in the prevention of harassment and violence in the work place and are informed of their rights and obligations under this Part in relation to harassment and violence;
+
+    undergo training in the prevention of harassment and violence in the work place;
 
   **(4)** Section 125 of the Act is amended by adding the following after subsection (2):
 
     **(3)** The Governor in Council may make regulations respecting the investigations, records and reports referred to in paragraph (1)(c).
 
+    **(4)** Except as provided for in the regulations, the obligations set out in paragraphs (1)(c) and (z.16) apply to an employer in respect of a former employee in relation to an occurrence of harassment and violence in the work place if the occurrence becomes known to the employer within three months after the day on which the former employee ceases to be employed by the employer.
+
+    **(5)** On application by a former employee, the Minister may, in the prescribed circumstances, extend the time period referred to in subsection (4).
+
+    **(6)** For the purpose of subsection (4), the Governor in Council may make regulations respecting an employer's obligations in respect of former employees.
+
 ### Section 4
 
 Paragraph 126(1)(h) of the French version of the Act is replaced by the following:
 
-de signaler, selon les modalités réglementaires, tout accident ou autre **incident** ayant causé, dans le cadre de son travail, une blessure à lui-même ou à une autre personne;
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 126(1):
-> *Existing Text*:
-> > While at work, every employee shall
-> > 
-> > report in the prescribed manner every accident or other occurrence arising in the course of or in connection with the employee's work that has caused injury to the employee or to any other person;
+de signaler, selon les modalités réglementaires, tout accident ou autre incident ayant causé, dans le cadre de son travail, une blessure à lui-même ou à une autre personne;
 
 ### Section 5
 
-  **(1)** Subsection 127.1(1) of the Act is replaced by the following:
+  **(1)** **Subsections** 127.1(1) **and (2)** of the Act **are** replaced by the following:
 
 ### Section 127.1
 
-      **(1)** An employee who believes on reasonable grounds that there has been a contravention of this Part or that there is likely to be an accident, injury **or illness** arising out of, linked with or occurring in the course of employment shall, before exercising any other recourse available under this Part, except the rights conferred by sections 128, 129 and 132, make a complaint to the employee's supervisor.
+      **(1)** An employee who believes on reasonable grounds that there has been a contravention of this Part or that there is likely to be an accident, injury or illness arising out of, linked with or occurring in the course of employment shall, before exercising any other recourse available under this Part, except the rights conferred by sections 128, 129 and 132, make a complaint to the employee's supervisor.
+
+      **(1.1)** However, in the case of a complaint relating to an occurrence of harassment and violence, the employee may make the complaint to the employee's supervisor or to the person designated in the employer's work place harassment and violence prevention policy.
+
+      **(1.2)** The complaint may be made orally or in writing.
+
+      **(2)** The employee and the supervisor or designated person, as the case may be, shall try to resolve the complaint between themselves as soon as possible.
 
   **(2)** The portion of subsection 127.1(3) of the Act before paragraph (a) is replaced by the following:
 
-    **(3)** The employee or the supervisor may refer an unresolved complaint, **other than a complaint relating to an occurrence of harassment or violence**, to a chairperson of the work place committee or to the health and safety representative to be investigated jointly
+    **(3)** The employee or the supervisor may refer an unresolved complaint, other than a complaint relating to an occurrence of harassment **and** violence, to a chairperson of the work place committee or to the health and safety representative to be investigated jointly
 
   **(3)** Subsection 127.1(8) of the Act is amended by striking out "or" at the end of paragraph (b), by adding "or" at the end of paragraph (c) and by adding the following after paragraph (c):
 
-    in the case of a complaint relating to an occurrence of harassment or violence, the employee and the supervisor failed to resolve the complaint between themselves.
+    in the case of a complaint relating to an occurrence of harassment **and** violence, the employee and the supervisor **or designated person, as the case may be**, failed to resolve the complaint between themselves.
 
   **(4)** Subsection 127.1(9) of the Act is replaced by the following:
 
-    **(9)** The Minister shall investigate the complaint referred to in subsection (8) **unless it relates to an occurrence of harassment or violence and the Minister is of the opinion that**
+    **(9)** The Minister shall investigate the complaint referred to in subsection (8) unless it relates to an occurrence of harassment **and** violence and the Minister is of the opinion that
 
       the complaint has been adequately dealt with according to a procedure provided for under this Act, any other Act of Parliament or a collective agreement; or
 
@@ -162,17 +166,19 @@ de signaler, selon les modalités réglementaires, tout accident ou autre **inci
 
     **(9.1)** If the Minister is of the opinion that the conditions described in paragraph (9)(a) or (b) are met, the Minister shall inform the employer and the employee in writing, as soon as feasible, that the Minister will not investigate.
 
-    **(9.2)** The Minister may combine an investigation into a complaint relating to an occurrence of harassment or violence with an ongoing investigation relating to the same employer and involving substantially the same issues and, in that case, the Minister may issue a single decision.
+    **(9.2)** The Minister may combine an investigation into a complaint relating to an occurrence of harassment **and** violence with an ongoing investigation relating to the same employer and involving substantially the same issues and, in that case, the Minister may issue a single decision.
+
+  **(5)** Section 127.1 of the Act is amended by adding the following after subsection (11):
+
+    **(12)** A former employee may, within the prescribed time, make a complaint under subsection (1) relating to an occurrence of harassment and violence in the work place, in which case this Part applies to the former employee and to the employer as if the former employee were an employee, to the extent necessary to finally dispose of the complaint.
+
+    **(13)** On application by a former employee, the Minister may, in the prescribed circumstances, extend the time period referred to in subsection (12).
 
 ### Section 6
 
 Section 134.1 of the Act is amended by adding the following after subsection (4):
 
-**(4.1)** Despite paragraph (4)(d), a policy committee shall not participate in an investigation, other than an investigation under section 128 or 129, relating to an occurrence of harassment or violence in the work place.
-
-
-> **Explanatory Note**:
-> New.
+**(4.1)** Despite paragraph (4)(d), a policy committee shall not participate in an investigation, other than an investigation under section 128 or 129, relating to an occurrence of harassment **and** violence in the work place.
 
 ### Section 7
 
@@ -180,7 +186,7 @@ Section 134.1 of the Act is amended by adding the following after subsection (4)
 
   **(2)** Paragraph 135(6)(a) of the Act is replaced by the following:
 
-    **at an employer's request**, the Minister may, in writing, exempt the employer from the requirements of subsection (1) in respect of that work place;
+    at an employer's request, the Minister may, in writing, exempt the employer from the requirements of subsection (1) in respect of that work place;
 
   **(3)** Section 135 of the Act is amended by adding the following after subsection (6):
 
@@ -188,7 +194,7 @@ Section 134.1 of the Act is amended by adding the following after subsection (4)
 
   **(4)** Section 135 of the Act is amended by adding the following after subsection (7):
 
-    **(7.1)** Despite paragraph (7)(e), a work place committee shall not participate in an investigation, other than an investigation under section 128 or 129, relating to an occurrence of harassment or violence in the work place.
+    **(7.1)** Despite paragraph (7)(e), a work place committee shall not participate in an investigation, other than an investigation under section 128 or 129, relating to an occurrence of harassment **and** violence in the work place.
 
 ### Section 8
 
@@ -196,7 +202,7 @@ The Act is amended by adding the following after section 135.1:
 
 ### Section 135.11
 
-  **(1)** Neither the Minister nor an employer shall, without the person's consent, provide, under this Part, a policy committee or a work place committee with any information that is likely to reveal the identity of a person who was involved in an occurrence of harassment or violence in the work place. Neither a policy committee nor a work place committee shall have access to that information without the person's consent.
+  **(1)** Neither the Minister nor an employer shall, without the person's consent, provide, under this Part, a policy committee or a work place committee with any information that is likely to reveal the identity of a person who was involved in an occurrence of harassment **and** violence in the work place. Neither a policy committee nor a work place committee shall have access to that information without the person's consent.
 
   **(2)** Subsection (1) does not apply with respect to
 
@@ -204,33 +210,17 @@ The Act is amended by adding the following after section 135.1:
 
     a decision, reasons or a direction referred to in subsection 146.1(2).
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 9
 
 Paragraph 135.2(1)(g) of the Act is replaced by the following:
 
-requiring a committee to submit an annual report of its activities, **containing the prescribed information**, to a specified person in the prescribed **manner and** within the prescribed time; and
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 135.2(1):
-> *Existing Text*:
-> > The Governor in Council may make regulations
-> > 
-> > requiring a committee to submit an annual report of its activities to a specified person in the prescribed form within the prescribed time; and
+requiring a committee to submit an annual report of its activities, containing the prescribed information, to a specified person in the prescribed manner and within the prescribed time; and
 
 ### Section 10
 
 Section 136 of the Act is amended by adding the following after subsection (5):
 
-**(5.1)** Despite paragraph (5)(g), a health and safety representative shall not participate in an investigation, other than an investigation under section 128 or 129, relating to an occurrence of harassment or violence in the work place.
-
-
-> **Explanatory Note**:
-> New.
+**(5.1)** Despite paragraph (5)(g), a health and safety representative shall not participate in an investigation, other than an investigation under section 128 or 129, relating to an occurrence of harassment **and** violence in the work place.
 
 ### Section 11
 
@@ -238,7 +228,7 @@ The Act is amended by adding the following after section 136:
 
 ### Section 136.1
 
-  **(1)** Neither the Minister nor an employer shall, without the person's consent, provide, under this Part, a health and safety representative with any information that is likely to reveal the identity of a person who was involved in an occurrence of harassment or violence in the work place. A health and safety representative shall not have access to that information without the person's consent.
+  **(1)** Neither the Minister nor an employer shall, without the person's consent, provide, under this Part, a health and safety representative with any information that is likely to reveal the identity of a person who was involved in an occurrence of harassment **and** violence in the work place. A health and safety representative shall not have access to that information without the person's consent.
 
   **(2)** Subsection (1) does not apply with respect to
 
@@ -246,9 +236,19 @@ The Act is amended by adding the following after section 136:
 
     a decision, reasons or a direction referred to in subsection 146.1(2).
 
+### Section 11.1
 
-> **Explanatory Note**:
-> New.
+The Act is amended by adding the following after section 139:
+
+### Section 139.1
+
+The Minister shall prepare and publish an annual report that contains statistical data relating to harassment and violence in work places to which this Part applies. The report shall not contain any information that is likely to reveal the identity of a person who was involved in an occurrence of harassment and violence.
+
+### Section 139.2
+
+  **(1)** Five years after the day on which this section comes into force and every five years after that, the Minister shall commence a review of the provisions of this Part relating to harassment and violence. At the conclusion of the review, the Minister shall prepare a report on the review.
+
+  **(2)** The Minister shall cause the report to be tabled in each House of Parliament on any of the first 15 days on which that House is sitting after the day on which the report is completed.
 
 ### Section 12
 
@@ -256,33 +256,17 @@ Subsection 140(3) of the Act is replaced by the following:
 
 **(3)** The powers, duties or functions of the Minister provided for in section 130, subsections 137.1(1) to (2.1) and (7) to (9), 137.2(4), 138(1) to (2) and (4) to (6), 140(1), (2) and (4), 144(1) and 149(1), sections 152 and 155 and subsections 156.1(1), 157(3) and 159(2) shall not be the subject of an agreement under subsection (2).
 
-
-> **Explanatory Note**:
-> Existing text of subsection 140(3):
-> *Existing Text*:
-> > The powers, duties or functions of the Minister provided for in section 130, subsections 135(3), 137.1(1) to (2.1), and (7) to (9), 137.2(4), 138(1) to (2) and (4) to (6), 140(1), (2) and (4), 144(1) and 149(1), sections 152 and 155 and subsections 156.1(1), 157(3) and 159(2), shall not be the subject of an agreement under subsection (2).
-
 ### Section 13
 
 Subsection 145.1(2) of the Act is replaced by the following:
 
 **(2)** For the purposes of sections 146 to 146.5, an appeals officer has all of the powers, duties and functions of the Minister under this Part, except for those referred to in subsection (1), section 130, subsections 137.1(1) to (2.1) and (7) to (9), 137.2(4), 138(1) to (2) and (4) to (6), 140(1), (2) and (4), 144(1) and 149(1), sections 152 and 155 and subsections 156.1(1), 157(3) and 159(2).
 
-
-> **Explanatory Note**:
-> Existing text of subsection 145.1(2):
-> *Existing Text*:
-> > For the purposes of sections 146 to 146.5, an appeals officer has all of the powers, duties and functions of the Minister under this Part, except for those referred to in subsection (1), section 130, subsections 135(3), 137.1(1) to (2.1), and (7) to (9), 137.2(4), 138(1) to (2) and (4) to (6), 140(1), (2) and (4), 144(1) and 149(1), sections 152 and 155 and subsections 156.1(1), 157(3) and 159(2).
-
 ### Section 14
 
 Subsection 157(1) of the Act is amended by adding the following after paragraph (a):
 
 defining the expressions "harassment" and "violence" for the purposes of this Part;
-
-
-> **Explanatory Note**:
-> New.
 
 ### Section 15
 
@@ -296,33 +280,9 @@ Despite anything in this Part, the Governor in Council may make any regulations 
 
 Unless they are repealed earlier, regulations made under section 161 are repealed on the fifth anniversary of the day on which they come into force.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 16
 
 Division XV.1 of Part III of the Act is repealed.
-
-
-> **Explanatory Note**:
-> Existing text of Division XV.1:
-> *Existing Text*:
-> > In this Division, **sexual harassment** means any conduct, comment, gesture or contact of a sexual nature
-> > that is likely to cause offence or humiliation to any employee; or
-> > that might, on reasonable grounds, be perceived by that employee as placing a condition of a sexual nature on employment or on any opportunity for training or promotion.
-> > Every employee is entitled to employment free of sexual harassment.
-> > Every employer shall make every reasonable effort to ensure that no employee is subjected to sexual harassment.
-> > Every employer shall, after consulting with the employees or their representatives, if any, issue a policy statement concerning sexual harassment.
-> > The policy statement required by subsection (1) may contain any term consistent with the tenor of this Division the employer considers appropriate but must contain the following:
-> > a definition of sexual harassment that is substantially the same as the definition in section 247.1;
-> > a statement to the effect that every employee is entitled to employment free of sexual harassment;
-> > a statement to the effect that the employer will make every reasonable effort to ensure that no employee is subjected to sexual harassment;
-> > a statement to the effect that the employer will take such disciplinary measures as the employer deems appropriate against any person under the employer's direction who subjects any employee to sexual harassment;
-> > a statement explaining how complaints of sexual harassment may be brought to the attention of the employer;
-> > a statement to the effect that the employer will not disclose the name of a complainant or the circumstances related to the complaint to any person except where disclosure is necessary for the purposes of investigating the complaint or taking disciplinary measures in relation thereto; and
-> > a statement informing employees of the discriminatory practices provisions of the `Canadian Human Rights Act` that pertain to rights of persons to seek redress under that Act in respect of sexual harassment.
-> > Every employer shall make each person under the employer's direction aware of the policy statement required by subsection (1).
 
 ### Section 17
 
@@ -338,10 +298,6 @@ Despite anything in this Part, the Governor in Council may make any regulations 
 ### Section 297
 
 Unless they are repealed earlier, regulations made under section 296 are repealed on the fifth anniversary of the day on which they come into force.
-
-
-> **Explanatory Note**:
-> New.
 
 
 ### Transitional Provision
@@ -380,7 +336,7 @@ A request for an exemption under subsection 135(3) of the `Canada Labour Code`, 
 
 ### Section 20
 
-  **(1)** Sections `1` to `16` and `18` come into force on a day to be fixed by order of the Governor in Council.
+  **(1)** Sections **0.1** to 16 and 18 come into force on a day to be fixed by order of the Governor in Council.
 
   **(2)** Section `17` comes into force on a day to be fixed by order of the Governor in Council but that day must not be earlier than the day on which section 377 of the `Budget Implementation Act, 2017, No. 1` comes into force.
 
@@ -416,7 +372,7 @@ Part III of the `Parliamentary Employment and Staff Relations Act` is replaced b
 
     the Library of Parliament as represented by the Parliamentary Librarian acting, subject to subsection 74(1) of the `Parliament of Canada Act`, on behalf of both Houses of Parliament;
 
-    the office of the Senate Ethics Officer as represented by the Ethics Officer;
+    the office of the Senate Ethics Officer as represented by the Senate Ethics Officer;
 
     the office of the Conflict of Interest and Ethics Commissioner as represented by the Conflict of Interest and Ethics Commissioner;
 
@@ -437,23 +393,29 @@ Part III of the `Parliamentary Employment and Staff Relations Act` is replaced b
 
 ### Section 88
 
-  ****(1)**** Part II of the `Canada Labour Code`, **other than subsections 134(2) and (3) and sections 152 and 153**, applies to and in respect of an employer and employees, in the same manner and to the same extent as if the employer were a federal work, undertaking or business and the **employees** were **employees to and in respect of which** that Part applies except that, for the purpose of **that** application,
+  **(1)** Part II of the `Canada Labour Code`, other than subsections 134(2) and (3) and sections 152 and 153, applies to and in respect of an employer and employees, in the same manner and to the same extent as if the employer were a federal work, undertaking or business and the employees were employees to and in respect of which that Part applies except that, for the purpose of that application,
 
     any reference in that Part to
 
-    "arbitration" **is to** be read as a reference to adjudication within the meaning of Part I of this Act,
+    "arbitration" is to be read as a reference to adjudication within the meaning of Part I of this Act,
 
-    "Board" and "collective agreement" **are to** be read as references to those expressions as defined in section 3 of this Act,
+    "Board" and "collective agreement" are to be read as references to those expressions as defined in section 3 of this Act,
 
-    **"employee" and "employer" are to be read as references to those expressions as defined in subsection 87(1) of this Act, and**
+    "employee" and "employer" are to be read as references to those expressions as defined in subsection 87(1) of this Act, and
 
-    "trade union" **is to** be read as a reference to an employee organization **as defined in** section 3 of this Act;
+    "trade union" is to be read as a reference to an employee organization as defined in section 3 of this Act;
 
-    Part I of this Act applies, with **any** modifications **that** the circumstances require, in respect of matters brought before the Board **under** Part II of the `Canada Labour Code` to the extent necessary to give effect to that purpose; and
+    Part I of this Act applies, with any modifications that the circumstances require, in respect of matters brought before the Board under Part II of the `Canada Labour Code` to the extent necessary to give effect to that purpose; and
 
     matters brought before the Board under Part II of the `Canada Labour Code` may be heard and determined only by a member as defined in section 3 of this Act.
 
   **(2)** This Part also applies to any person who is not an employee but who performs for an employer activities whose primary purpose is to enable the person to acquire knowledge or experience, and to the employer, as if that person were an employee of the employer.
+
+### Section 88.01
+
+  **(1)** For the purposes of this Part, the Deputy Minister of Labour shall exercise the powers and perform the duties and functions of the Minister of Labour under this Part and under Part II of the `Canada Labour Code` involving a member of the Senate or their staff or a member of the House of Commons or their employees.
+
+  **(2)** If the Deputy Minister of Labour exercises the powers or performs the duties and functions set out in section 88.3 or paragraph 88.4(b), he or she shall provide the direction referred to in that section or that paragraph to the Speaker of the Senate or the Speaker of the House of Commons, or both, who shall each table the direction in the House over which he or she presides.
 
 ### Section 88.1
 
@@ -497,18 +459,15 @@ The Board shall, at the request of the Minister of Labour or any person affected
 
 For greater certainty, nothing in this Part shall be construed as limiting in any way the powers, privileges and immunities of the Senate and the House of Commons and their members or as authorizing the exercise of a power or the performance of a function or duty by virtue of this Part if the exercise of that power or the performance of that function or duty would interfere, directly or indirectly, with the business of the Senate or the House of Commons.
 
+### Section 88.7
 
-> **Explanatory Note**:
-> Existing text of Part III:
-> *Existing Text*:
-> > In this Part, **employer** has the same meaning as in section 85.
-> > Part II of the `Canada Labour Code` applies to and in respect of persons employed by an employer and, to the extent that the employer controls the work place at which the persons are employed, to and in respect of the employer, in the same manner and to the same extent as if the employer were a federal work, undertaking or business and the persons were engaged in employment to and in respect of which the provisions of that Part apply except that, for the purpose of such application,
-> > any reference in that Part to
-> > "arbitration" shall be read as a reference to adjudication within the meaning of Part I of this Act,
-> > the "Board" and "collective agreement" shall be read as references to those expressions as defined in section 3 of this Act, and
-> > a "trade union" shall be read as a reference to an employee organization within the meaning of section 3 of this Act;
-> > section 156 of that Part does not apply in respect of the Board in exercising or carrying out its powers, duties and functions in relation to that Part; and
-> > the provisions of Part I of this Act apply, with such modifications as the circumstances require, in respect of matters brought before the Board pursuant to Part II of the `Canada Labour Code` to the extent necessary to give effect to that purpose.
+The Board shall, as soon as possible after the end of each year, submit a report for that year on its activities under this Part and under Part II of the `Canada Labour Code`, as it applies to employers and employees, to the Minister designated as the Minister for the purposes of the `Federal Public Sector Labour Relations and Employment Board Act`. The Minister shall cause the report to be tabled in each House of Parliament on any of the first 15 days on which that House is sitting after the day on which the Minister receives it.
+
+### Section 88.8
+
+  **(1)** Five years after the day on which this Part comes into force and every five years after that, the Minister designated as the Minister for the purposes of this Act shall commence a review of the application, in relation to harassment and violence, of the provisions of this Part. At the conclusion of the review, the Minister shall prepare a report on the review.
+
+  **(2)** The Minister shall cause the report to be tabled in each House of Parliament on any of the first 15 days on which that House is sitting after the day on which the report is completed.
 
 
 ### Coordinating Amendment
@@ -533,11 +492,5 @@ Section 382 of the `Budget Implementation Act, 2017, No. 1` is replaced by the f
 
 ### Section 382
 
-The `Canada Labour Code`, as it read immediately before the day on which this section comes into force, applies with respect to any appeal made before that day under subsection **129(7) or** 146(1) of that Act.
-
-
-> **Explanatory Note**:
-> Existing text of section 382:
-> *Existing Text*:
-> > The `Canada Labour Code`, as it read immediately before the day on which this section comes into force, applies with respect to any appeal made before that day under subsection 146(1) of that Act.
+The `Canada Labour Code`, as it read immediately before the day on which this section comes into force, applies with respect to any appeal made before that day under subsection 129(7) or 146(1) of that Act.
 
