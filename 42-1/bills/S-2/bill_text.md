@@ -1,7 +1,5 @@
 # Bill S-2: An Act to amend the Motor Vehicle Safety Act and to make a consequential amendment to another Act
 
-**Sponsor**: THE HONOURABLE SENATOR HARDER, P.C.
-
 ## Summary
 
 This enactment amends the `Motor Vehicle Safety Act` for the purpose of strengthening the enforcement and compliance regime to further protect the safety of Canadians and to provide additional flexibility to support advanced safety technologies and other vehicle innovations. It provides the Minister of Transport with the authority to order companies to correct a defect or non-compliance and establishes a tiered penalty structure for offences committed under the Act. The enactment also makes a consequential amendment to the `Transportation Appeal Tribunal of Canada Act`.
@@ -23,10 +21,6 @@ This Act may be cited as the `Strengthening Motor Vehicle Safety for Canadians A
 Section 2 of the `Motor Vehicle Safety Act` is amended by adding the following in alphabetical order:
 
 **Tribunal** means the Transportation Appeal Tribunal of Canada established by subsection 2(1) of the `Transportation Appeal Tribunal of Canada Act`; (**Tribunal**)
-
-
-> **Explanatory Note**:
-> New.
 
 ### Section 3
 
@@ -53,10 +47,6 @@ The Minister may enter into an agreement to further the purposes of this Act.
 
 A company designated by the Minister that applies a national safety mark to any vehicle or equipment, sells any vehicle or equipment to which a national safety mark has been applied or imports into Canada any vehicle or equipment of a class for which standards are prescribed is required to provide the Minister, for a purpose related to verifying compliance with this Act, with the contact information for a person for the purpose of correspondence.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 4
 
 Section 5 of the Act is amended by adding the following after subsection (1):
@@ -65,17 +55,13 @@ Section 5 of the Act is amended by adding the following after subsection (1):
 
 **(2.1)** The Governor in Council may make regulations defining, for the purposes of subsection (2), any term used in it.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 5
 
 Section 8 of the Act is replaced by the following:
 
 ### Section 8
 
-A company that applies a national safety mark to any vehicle or equipment, **sells any vehicle or equipment to which a national safety mark has been applied** or imports any vehicle or equipment of a class for which standards are prescribed shall, on the Minister's request, provide the Minister with the means to retrieve **or** analyze information created or recorded by the vehicle or equipment.
+A company that applies a national safety mark to any vehicle or equipment, sells any vehicle or equipment to which a national safety mark has been applied or imports any vehicle or equipment of a class for which standards are prescribed shall, on the Minister's request, provide the Minister with the means to retrieve or analyze information created or recorded by the vehicle or equipment.
 
 ### Section 8.1
 
@@ -87,67 +73,34 @@ A company that applies a national safety mark to any vehicle or equipment, **sel
 
   **(2)** The `Statutory Instruments Act` does not apply to an order made under subsection (1).
 
-
-> **Explanatory Note**:
-> Existing text of section 8:
-> *Existing Text*:
-> > A company that applies a national safety mark to any vehicle or equipment or that imports any vehicle or equipment of a class for which standards are prescribed shall, on the Minister' request, provide the Minister with the means to retrieve and analyse information created or recorded by the vehicle or equipment.
-
 ### Section 6
 
 Subsections 9(1) to (4) of the Act are replaced by the following:
 
 ### Section 9
 
-  **(1)** On application by a company as provided for in the regulations, the **Minister** may, by order, grant an exemption for a specified period, in accordance with any conditions specified in the order, for any model of vehicle manufactured or imported by the company from conformity with any prescribed standard if **the exemption from** that standard would, in the opinion of the **Minister**, **promote** the development of
+  **(1)** On application by a company as provided for in the regulations, the Minister may, by order, grant an exemption for a specified period, in accordance with any conditions specified in the order, for any model of vehicle manufactured or imported by the company from conformity with any prescribed standard if the exemption from that standard would, in the opinion of the Minister, promote the development of
 
     new safety features that are equivalent to or superior to those that conform to prescribed standards; or
 
-    new kinds of vehicles, **technologies**, vehicle systems or components.
+    new kinds of vehicles, technologies, vehicle systems or components.
 
-  **(2)** An exemption **must only** be granted for a model if the exemption would **not** substantially diminish the **overall safety** performance of the model.
+  **(2)** An exemption must only be granted for a model if the exemption would not substantially diminish the overall safety performance of the model.
 
   **(3)** Each exemption order must, as soon as feasible, be published through the Internet or by any other means that the Minister considers appropriate.
-
-
-> **Explanatory Note**:
-> Existing text of subsections 9(1) to (4):
-> *Existing Text*:
-> > On application by a company as provided for in the regulations, the Governor in Council may, by order, grant an exemption for a specified period, in accordance with any conditions specified in the order, for any model of vehicle manufactured or imported by the company from conformity with any prescribed standard if conformity with that standard would, in the opinion of the Governor in Council,
-> > create substantial financial hardship for the company;
-> > impede the development of new safety features that are equivalent to or superior to those that conform to prescribed standards; or
-> > impede the development of new kinds of vehicles, vehicle systems or components.
-> > An exemption for a model may be granted for a period not exceeding
-> > three years, where paragraph (1)(a) applies; or
-> > two years, in respect of a stated number of units of that model not exceeding one thousand units, where paragraph (1)(b) or (c) applies.
-> > An exemption may not be granted for a model if the exemption would substantially diminish the safe performance of the model or if the company applying for the exemption has not attempted in good faith to bring the model into conformity with all prescribed standards applicable to it.
-> > An exemption applied for by a company for any period may not be granted on the basis referred to in paragraph (1)(a) where
-> > the world production of vehicles manufactured by the company or by the manufacturer of the model that is the subject of the application exceeded ten thousand vehicles in the twelve month period beginning two years before the beginning of that period; or
-> > the total number of vehicles manufactured for, or imported into, the Canadian market by the company exceeded one thousand vehicles in that twelve month period.
 
 ### Section 7
 
 The heading before section 10 of the Act is replaced by the following:
 
 
-## Notices of Defect and of Non-Compliance **and Orders**
-
-
-> **Explanatory Note**:
-> Existing text of the heading:
-> *Existing Text*:
+## Notices of Defect and of Non-Compliance and Orders
 
 ### Section 8
 
 Subsection 10.1(7) of the English version of the Act is replaced by the following:
 
-**(7)** The Minister may, by order, require any company that applies a national safety mark to any vehicle or equipment, sells any vehicle or equipment to which a national safety mark has been applied or imports any vehicle or equipment of a class for which standards are prescribed to give a notice of non-compliance in the manner specified **in the order**, if the Minister considers that it is in the interest of safety.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 10.1(7):
-> *Existing Text*:
-> > The Minister may, by order, require any company that applies a national safety mark to any vehicle or equipment, sells any vehicle or equipment to which a national safety mark has been applied or imports any vehicle or equipment of a class for which standards are prescribed to give a notice of non-compliance in the manner specified by the Minister, if the Minister considers that it is in the interest of safety.
+**(7)** The Minister may, by order, require any company that applies a national safety mark to any vehicle or equipment, sells any vehicle or equipment to which a national safety mark has been applied or imports any vehicle or equipment of a class for which standards are prescribed to give a notice of non-compliance in the manner specified in the order, if the Minister considers that it is in the interest of safety.
 
 ### Section 9
 
@@ -155,7 +108,7 @@ Section 10.3 of the Act is replaced by the following:
 
 ### Section 10.3
 
-A company **designated by the Minister** that gives notice to the Minister in respect of a vehicle or equipment shall, as provided for in **the** regulations, make information available for the vehicle **or equipment** in respect of which the notice was given.
+A company designated by the Minister that gives notice to the Minister in respect of a vehicle or equipment shall, as provided for in the regulations, make information available for the vehicle or equipment in respect of which the notice was given.
 
 ### Section 10.4
 
@@ -184,6 +137,22 @@ by reimbursing
 the reasonable cost of repairs to the vehicle or equipment that have already been undertaken before a notice of defect or non-compliance has been given, or
 
 the sale price of the vehicle or equipment, less reasonable depreciation, on return of the vehicle or equipment.
+
+### Section 10.52
+
+  **(1)** In this section, **dealer**  means a person who is engaged in the business of purchasing vehicles or equipment directly from a company and reselling it to another person who purchases it for a purpose other than resale.
+
+  **(2)** If, on the date on which an order is made under section 10.5 or 10.61, a dealer still owns a vehicle or equipment that it purchased from a company that is the subject of the order, the company shall, without delay, either
+
+    provide the dealer, at the company's expense, with the materials, parts or components required to correct a defect or non-compliance in the vehicle or equipment, in accordance with any terms and conditions specified in the order; or
+
+    repurchase the vehicle or equipment from the dealer at the price paid by the dealer, plus transportation costs, and compensate the dealer with an amount equivalent to at least one percent per month of the price paid by the dealer, prorated from the date on which the order was made to the date of purchase.
+
+  **(3)** If the company provides materials, parts or components in accordance with paragraph (2)(a),
+
+    the dealer shall install the materials, parts or components in the vehicle or equipment without delay after it has received them; and
+
+    the company shall compensate the dealer for the cost of installation and with an amount equivalent to at least one percent per month of the price paid by the dealer, prorated from the date on which the order was made to the date the dealer has received the materials, parts or components.
 
 ### Section 10.6
 
@@ -221,25 +190,13 @@ The Minister may vary or revoke an order if new relevant information becomes ava
 
 The `Statutory Instruments Act` does not apply to an order made under section 10.4, 10.5, 10.6 or 10.61.
 
-
-> **Explanatory Note**:
-> Existing text of section 10.3:
-> *Existing Text*:
-> > A company that gives notice to the Minister in respect of a vehicle shall, as provided for in regulations, make information available for the vehicle in respect of which the notice was given.
-
 ### Section 10
 
 Subsection 13(1) of the Act is replaced by the following:
 
 ### Section 13
 
-  **(1)** **If** an enactment of a foreign government corresponds to regulations made under this Act and that enactment is amended by that government or its operation is affected by a decision of a foreign court, the Minister may issue an order, effective for a period not exceeding **three years**, suspending or modifying the operation of the regulations to the extent that they are inconsistent with the enactment as amended or given effect. **The Minister may renew the order for a further period not exceeding three years**.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 13(1):
-> *Existing Text*:
-> > Where an enactment of a foreign government corresponds to regulations made under this Act and that enactment is amended by that government or its operation is affected by a decision of a foreign court, the Minister may issue an order, effective for a period not exceeding one year, suspending or modifying the operation of the regulations to the extent that they are inconsistent with the enactment as amended or given effect.
+  **(1)** If an enactment of a foreign government corresponds to regulations made under this Act and that enactment is amended by that government or its operation is affected by a decision of a foreign court, the Minister may issue an order, effective for a period not exceeding three years, suspending or modifying the operation of the regulations to the extent that they are inconsistent with the enactment as amended or given effect. The Minister may renew the order for a further period not exceeding three years.
 
 ### Section 11
 
@@ -249,19 +206,11 @@ The Act is amended by adding the following after section 13:
 
 The Minister may issue an order, effective for a period not exceeding three years, that suspends, modifies or adapts a regulation, in whole or in part, if the Minister is of the opinion that it is in the public interest to do so, including to promote innovation or for reasons of safety.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 12
 
 Section 14 of the Act is amended by adding the following after subsection (1):
 
 **(1.1)** For greater certainty, the Minister may designate as a collision investigator any person whom the Minister considers qualified, and that person may collect information with respect to an investigation of any motor vehicle collision.
-
-
-> **Explanatory Note**:
-> New.
 
 ### Section 13
 
@@ -269,11 +218,11 @@ Section 14 of the Act is amended by adding the following after subsection (1):
 
 ### Section 15
 
-      **(1)** For **a** purpose **related to** verifying compliance with this Act, an inspector may at any reasonable time enter any place, **other than a dwelling-house but including a collision site**, in which the inspector believes on reasonable grounds there is
+      **(1)** For a purpose related to verifying compliance with this Act, an inspector may at any reasonable time enter any place, other than a dwelling-house but including a collision site, in which the inspector believes on reasonable grounds there is
 
         any vehicle or equipment of a class for which standards are prescribed;
 
-        any component **that is used** or intended to be used in the manufacture of a vehicle or equipment for which safety standards are prescribed; or
+        any component that is used or intended to be used in the manufacture of a vehicle or equipment for which safety standards are prescribed; or
 
   **(2)** Subsections 15(2) to (4) of the Act are replaced by the following:
 
@@ -301,7 +250,7 @@ Section 14 of the Act is amended by adding the following after subsection (1):
 
       remove any vehicle, equipment or component from the place for the purpose of examination or conducting tests.
 
-    **(5)** Any person who owns or has charge of a place entered by an inspector **under** subsection (1) and every person present there **shall answer all of the inspector's reasonable questions related to the inspection, provide access to all electronic data that the inspector may reasonably require,** provide all reasonable assistance in their power to enable the inspector to carry out his or her duties and furnish **any** information **that** the inspector reasonably requires for the purposes of the administration of this Act.
+    **(5)** Any person who owns or has charge of a place entered by an inspector under subsection (1) and every person present there shall answer all of the inspector's reasonable questions related to the inspection, provide access to all electronic data that the inspector may reasonably require, provide all reasonable assistance in their power to enable the inspector to carry out his or her duties and furnish any information that the inspector reasonably requires for the purposes of the administration of this Act.
 
     **(6)** An inspector may seize and, subject to sections 489.1 to 491.2 of the `Criminal Code`, detain any vehicle, equipment or component described in subsection (1)
 
@@ -321,7 +270,7 @@ An inspector may, for a purpose related to verifying compliance with this Act, o
 
 ### Section 16
 
-No person shall obstruct or hinder, or make any false or misleading statement either orally or in writing to, an inspector **who is** engaged in carrying out his or her functions.
+No person shall obstruct or hinder, or make any false or misleading statement either orally or in writing to, an inspector who is engaged in carrying out his or her functions.
 
 
 ## Consent Agreement
@@ -339,14 +288,6 @@ No person shall obstruct or hinder, or make any false or misleading statement ei
   **(5)** The Minister and any party to the consent agreement may modify its terms at the request of either at any time and the amended agreement replaces the original agreement and must be filed and registered accordingly.
 
   **(6)** On registration, the Minister shall cause each consent agreement to be published through the Internet or by any other means that the Minister considers appropriate.
-
-
-> **Explanatory Note**:
-> Existing text of section 16:
-> *Existing Text*:
-> > Any person who owns or has charge of a place entered by an inspector pursuant to subsection 15(1) and every person present there shall provide all reasonable assistance in their power to enable the inspector to carry out the inspector's duties, and shall furnish such information as the inspector reasonably requires for purposes of the administration of this Act.
-> > No person shall knowingly obstruct or hinder, or make any false or misleading statement either orally or in writing to, an inspector engaged in carrying out functions under this Act.
-> > Except with the authorization of an inspector, no person shall remove, alter or otherwise interfere with any vehicle, equipment or component seized by an inspector pursuant to subsection 15(4).
 
 ### Section 15
 
@@ -513,10 +454,6 @@ At any time after a notice of violation is issued and served, the Minister may m
 
   **(10)** The appeal panel of the Tribunal that is assigned to hear an appeal may dismiss it or refer the matter back to the Minister for reconsideration.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 16
 
   **(1)** Section 17 of the Act is amended by adding the following after subsection (2):
@@ -545,23 +482,13 @@ The Act is amended by adding the following after section 19:
 If the owner of a seized vehicle, equipment or component consents to its forfeiture, the seized vehicle, equipment or component is forfeited to Her Majesty in right of Canada and may be stored and disposed of at the owner's expense.
 
 
-> **Explanatory Note**:
-> New.
-
-
 ## Consequential Amendment to the Transportation Appeal Tribunal of Canada Act
 
 ### Section 18
 
 Subsection 2(3) of the `Transportation Appeal Tribunal of Canada Act` is replaced by the following:
 
-**(3)** The Tribunal also has jurisdiction in respect of reviews and appeals in connection with administrative monetary penalties provided for under sections 177 to 181 of the `Canada Transportation Act`, sections 43 to 55 of the `International Bridges and Tunnels Act`, sections 129.01 to 129.19 of the `Canada Marine Act`, **sections `16.1` to `16.25` of the `Motor Vehicle Safety Act`** and sections 39.1 to 39.26 of the `Navigation Protection Act`.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 2(3):
-> *Existing Text*:
-> > The Tribunal also has jurisdiction in respect of reviews and appeals in connection with administrative monetary penalties provided for under sections 177 to 181 of the `Canada Transportation Act`, sections 43 to 55 of the `International Bridges and Tunnels Act`, sections 129.01 to 129.19 of the `Canada Marine Act` and sections 39.1 to 39.26 of the `Navigation Protection Act`.
+**(3)** The Tribunal also has jurisdiction in respect of reviews and appeals in connection with administrative monetary penalties provided for under sections 177 to 181 of the `Canada Transportation Act`, sections 43 to 55 of the `International Bridges and Tunnels Act`, sections 129.01 to 129.19 of the `Canada Marine Act`, sections `16.1` to `16.25` of the `Motor Vehicle Safety Act` and sections 39.1 to 39.26 of the `Navigation Protection Act`.
 
 
 ## Coming into Force
