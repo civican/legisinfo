@@ -1,0 +1,1776 @@
+<Bills>
+  <Bill>
+    <Id>9630814</Id>
+    <NumberCode>C-68</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>68</Number>
+    <LongTitleEn>An Act to amend the Fisheries Act and other Acts in consequence</LongTitleEn>
+    <LongTitleFr>Loi modifiant la Loi sur les pêches et d'autres lois en conséquence</LongTitleFr>
+    <LongTitle>An Act to amend the Fisheries Act and other Acts in consequence</LongTitle>
+    <ShortTitleEn>
+    </ShortTitleEn>
+    <ShortTitleFr>
+    </ShortTitleFr>
+    <ShortTitle>
+    </ShortTitle>
+    <StatusId>357</StatusId>
+    <StatusNameEn>Royal assent received</StatusNameEn>
+    <StatusNameFr>Sanction royale reçue</StatusNameFr>
+    <StatusName>Royal assent received</StatusName>
+    <LatestCompletedMajorStageId>60046</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>Royal assent</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Sanction royale</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>Royal assent</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>Royal assent</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>2</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>Senate</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Sénat</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>Senate</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60050</OngoingStageId>
+    <OngoingStageNameEn>Royal assent</OngoingStageNameEn>
+    <OngoingStageNameFr>Sanction royale</OngoingStageNameFr>
+    <OngoingStageName>Royal assent</OngoingStageName>
+    <LatestCompletedBillStageId>60050</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Royal assent</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Sanction royale</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Royal assent</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>2</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>Senate</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Sénat</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>Senate</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2019-06-21T00:00:00</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>42</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>1813</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Dominic</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>LeBlanc</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Dominic LeBlanc</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Fisheries, Oceans and the Canadian Coast Guard</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre des Pêches, des Océans et de la Garde côtière canadienne</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Fisheries, Oceans and the Canadian Coast Guard</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>4</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Minister</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>ministre</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Minister</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>628</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Beauséjour</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Beauséjour</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Beauséjour</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60149</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Royal assent</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Sanction royale</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60050</LatestBillEventStageId>
+    <LatestBillEventTypeName>Royal assent</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2019-06-21T13:30:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>2</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>Senate</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Sénat</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>Senate</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>308</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2018-02-06T10:05:03.25</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime>2018-04-16T19:15:59</PassedHouseSecondReadingDateTime>
+    <PassedHouseThirdReadingDateTime>2018-06-20T15:30:50</PassedHouseThirdReadingDateTime>
+    <PassedSenateFirstReadingDateTime>2018-06-20T16:00:00</PassedSenateFirstReadingDateTime>
+    <PassedSenateSecondReadingDateTime>2018-12-11T20:15:00</PassedSenateSecondReadingDateTime>
+    <PassedSenateThirdReadingDateTime>2019-06-06T16:46:00</PassedSenateThirdReadingDateTime>
+    <ReceivedRoyalAssentDateTime>2019-06-21T00:00:00</ReceivedRoyalAssentDateTime>
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>true</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>true</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>true</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>true</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>true</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn>&lt;div&gt;The pre-release version of this Legislative Summary is now available. Parliamentarians and their staff can obtain a copy by submitting a request or contacting the Library of Parliament. Members of the public can obtain a copy by contacting the Information Service at the Library of Parliament at Info@parl.gc.ca.&lt;br/&gt;&lt;br/&gt;On 6 February 2018, the Minister of Fisheries, Oceans and the Canadian Coast Guard introduced Bill C-68, An Act to amend the Fisheries Act and other Acts in consequence, in the House of Commons and it was given first reading.&lt;br/&gt;&lt;br/&gt;Bill C-68 amends the Fisheries Act to, among other things, &lt;br/&gt;(a) require that, when making a decision under that Act, the Minister shall consider any adverse effects that the decision may have on the rights of the Indigenous peoples of Canada recognized and affirmed by section 35 of the Constitution Act, 1982, include provisions respecting the consideration and protection of traditional knowledge of the Indigenous peoples of Canada, and authorize the making of agreements with Indigenous governing bodies to further the purpose of the Fisheries Act;&lt;br/&gt;(b) add a purpose clause and considerations for decision-making under that Act;&lt;br/&gt;(c) empower the Minister to establish advisory panels and to set fees, including for the provision of regulatory processes;&lt;br/&gt;(d) provide measures for the protection of fish and fish habitat with respect to works, undertakings or activities that may result in the death of fish or the harmful alteration, disruption or destruction of fish habitat, including in ecologically significant areas, as well as measures relating to the modernization of the regulatory framework such as authorization of projects, establishment of standards and codes of practice, creation of fish habitat banks by a proponent of a project and establishment of a public registry;&lt;br/&gt;(e) empower the Governor in Council to make new regulations, including regulations respecting the rebuilding of fish stocks and importation of fish;&lt;br/&gt;(f) empower the Minister to make regulations for the purposes of the conservation and protection of marine biodiversity;&lt;br/&gt;(g) empower the Minister to make fisheries management orders prohibiting or limiting fishing for a period of 45 days to address a threat to the proper management and control of fisheries and the conservation and protection of fish;&lt;br/&gt;(h) prohibit the fishing of a cetacean with the intent to take it into captivity, unless authorized by the Minister, including when the cetacean is injured, in distress or in need of care; and&lt;br/&gt;(i) update and strengthen enforcement powers, as well as establish an alternative measures agreements regime.&lt;br/&gt;The enactment also makes consequential amendments to other Acts.&lt;/div&gt;</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>&lt;div&gt;La version préliminaire du présent résumé législatif est maintenant disponible. Les parlementaires et les membres de leur personnel peuvent en obtenir un exemplaire en présentant une demande ou en communiquant avec la Bibliothèque du Parlement. Les membres du public peuvent en obtenir un exemplaire auprès du Service de renseignements de la Bibliothèque du Parlement à Info@parl.gc.ca.&lt;br/&gt;&lt;br/&gt;Le 6 février 2018, le Ministre des Pêches, des Océans et de la Garde côtière canadienne a déposé le projet de loi C-68, Loi modifiant la Loi sur les pêches et d'autres lois en conséquence, à la Chambre des communes en première lecture. &lt;br/&gt;&lt;br/&gt;Le projet de loi C-68 modifie la Loi sur les pêches afin, notamment?: &lt;br/&gt;a) d'exiger que le ministre prenne toute décision sous le régime de cette loi en tenant compte des effets préjudiciables que la décision peut avoir sur les droits des peuples autochtones du Canada reconnus et confirmés par l'article 35 de la Loi constitutionnelle de 1982, d'y inclure des dispositions concernant la prise en considération et la protection des connaissances traditionnelles de ces peuples et de permettre la conclusion d'accords avec les corps dirigeants autochtones en vue de la réalisation de l'objet de la Loi sur les pêches;&lt;br/&gt;b) d'y ajouter une disposition d'objet et des éléments à prendre en considération dans la prise de décisions au titre de cette loi;&lt;br/&gt;c) d'autoriser le ministre à constituer des comités consultatifs et à fixer des frais, notamment pour la fourniture de procédés réglementaires;&lt;br/&gt;d) de prévoir des mesures de protection du poisson et de son habitat relativement à des ouvrages, entreprises et activités pouvant causer la mort du poisson ou la détérioration, la destruction ou la perturbation de son habitat, notamment dans des zones d'importance écologique, en plus d'autres mesures liées à la modernisation du cadre réglementaire, tel que l'autorisation de projets, l'établissement de normes et codes de conduite, la mise en place de réserves d'habitats par les promoteurs de projets et l'établissement d'un registre public;&lt;br/&gt;e) de conférer au gouverneur en conseil le pouvoir de prendre de nouveaux règlements, notamment concernant le rétablissement des stocks de poissons et l'importation de poisson;&lt;br/&gt;f) de conférer au ministre le pouvoir de prendre des règlements en vue de la conservation et de la protection de la biodiversité marine;&lt;br/&gt;g) de conférer au ministre le pouvoir de prendre des arrêtés de gestion des pêches interdisant ou limitant la pêche pour une période de quarante-cinq jours en vue de parer à une menace à la gestion et la surveillance judicieuses des pêches et à la conservation et la protection du poisson;&lt;br/&gt;h) d'interdire la pêche de cétacés lorsqu'elle a pour but leur mise en captivité, sauf si le ministre l'autorise notamment parce qu'ils sont blessés, en détresse ou ont besoin de soins;&lt;br/&gt;i) de mettre à jour et de renforcer les pouvoirs d'application de la loi et d'établir un régime d'accords sur les mesures de rechange.&lt;br/&gt;En outre, le texte modifie d'autres lois en conséquence.&lt;/div&gt;</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>&lt;div&gt;The pre-release version of this Legislative Summary is now available. Parliamentarians and their staff can obtain a copy by submitting a request or contacting the Library of Parliament. Members of the public can obtain a copy by contacting the Information Service at the Library of Parliament at Info@parl.gc.ca.&lt;br/&gt;&lt;br/&gt;On 6 February 2018, the Minister of Fisheries, Oceans and the Canadian Coast Guard introduced Bill C-68, An Act to amend the Fisheries Act and other Acts in consequence, in the House of Commons and it was given first reading.&lt;br/&gt;&lt;br/&gt;Bill C-68 amends the Fisheries Act to, among other things, &lt;br/&gt;(a) require that, when making a decision under that Act, the Minister shall consider any adverse effects that the decision may have on the rights of the Indigenous peoples of Canada recognized and affirmed by section 35 of the Constitution Act, 1982, include provisions respecting the consideration and protection of traditional knowledge of the Indigenous peoples of Canada, and authorize the making of agreements with Indigenous governing bodies to further the purpose of the Fisheries Act;&lt;br/&gt;(b) add a purpose clause and considerations for decision-making under that Act;&lt;br/&gt;(c) empower the Minister to establish advisory panels and to set fees, including for the provision of regulatory processes;&lt;br/&gt;(d) provide measures for the protection of fish and fish habitat with respect to works, undertakings or activities that may result in the death of fish or the harmful alteration, disruption or destruction of fish habitat, including in ecologically significant areas, as well as measures relating to the modernization of the regulatory framework such as authorization of projects, establishment of standards and codes of practice, creation of fish habitat banks by a proponent of a project and establishment of a public registry;&lt;br/&gt;(e) empower the Governor in Council to make new regulations, including regulations respecting the rebuilding of fish stocks and importation of fish;&lt;br/&gt;(f) empower the Minister to make regulations for the purposes of the conservation and protection of marine biodiversity;&lt;br/&gt;(g) empower the Minister to make fisheries management orders prohibiting or limiting fishing for a period of 45 days to address a threat to the proper management and control of fisheries and the conservation and protection of fish;&lt;br/&gt;(h) prohibit the fishing of a cetacean with the intent to take it into captivity, unless authorized by the Minister, including when the cetacean is injured, in distress or in need of care; and&lt;br/&gt;(i) update and strengthen enforcement powers, as well as establish an alternative measures agreements regime.&lt;br/&gt;The enactment also makes consequential amendments to other Acts.&lt;/div&gt;</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear>2019</StatuteYear>
+    <StatuteChapter>14</StatuteChapter>
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2018-02-06T10:05:03.25</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>258</Number>
+          <Date>2018-02-06T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2018-02-06T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2018-02-06T10:05:03.25</EventStartDateTime>
+          <EventEndDateTime>2018-02-06T10:05:03.25</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2018-02-06T10:05:03.25</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2018-04-16T19:15:59</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>21441</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Fisheries and Oceans</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des pêches et des océans</CommitteeNameFr>
+          <CommitteeAcronym>FOPO</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Fisheries and Oceans</CommitteeName>
+          <StudyActivityId>10051939</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>263</Number>
+          <Date>2018-02-13T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>278</Number>
+          <Date>2018-03-29T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Second reading and referral to committee</NameEn>
+          <NameFr>Deuxième lecture et renvoi en comité</NameFr>
+          <Name>Second reading and referral to committee</Name>
+          <Number>279</Number>
+          <Date>2018-04-16T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>10049613</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>9638039</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>2nd reading and referral to committee - FOPO</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>2e lecture et renvoi en comité - FOPO</DecisionMotionTitleFr>
+          <DecisionMotionTitle>2nd reading and referral to committee - FOPO</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>10</DecisionMethodId>
+          <DecisionMethodNameEn>On recorded division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Suivant un vote par appel nominal</DecisionMethodNameFr>
+          <DecisionMethodName>On recorded division</DecisionMethodName>
+          <DivisionNumber>647</DivisionNumber>
+          <DivisionVotesYeas>185</DivisionVotesYeas>
+          <DivisionVotesNays>78</DivisionVotesNays>
+          <DivisionVotePaired>0</DivisionVotePaired>
+          <DecisionSittingDate>2018-04-16T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>279</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60121</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading and referral to committee</EventNameEn>
+          <EventNameFr>Deuxième lecture et renvoi en comité</EventNameFr>
+          <EventName>Second reading and referral to committee</EventName>
+          <EventDateTime>2018-04-16T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60121</EventTypeId>
+          <EventTypeNameEn>Second reading and referral to committee</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture et renvoi en comité</EventTypeNameFr>
+          <EventTypeName>Second reading and referral to committee</EventTypeName>
+          <EventStartDateTime>2018-04-16T19:15:59</EventStartDateTime>
+          <EventEndDateTime>2018-04-16T19:15:59</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2018-04-16T19:15:59</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>9970654</InterventionEventId>
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>1813</PersonId>
+          <PersonOfficialFirstName>Dominic</PersonOfficialFirstName>
+          <PersonOfficialLastName>LeBlanc</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Dominic LeBlanc</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>42</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>263</MeetingNumber>
+          <SpeechDateTime>2018-02-13T10:09:45</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>9971128</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>69488</PersonId>
+          <PersonOfficialFirstName>Robert</PersonOfficialFirstName>
+          <PersonOfficialLastName>Sopuck</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Robert Sopuck</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>42</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>263</MeetingNumber>
+          <SpeechDateTime>2018-02-13T10:39:47</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>9971429</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>63592</PersonId>
+          <PersonOfficialFirstName>Fin</PersonOfficialFirstName>
+          <PersonOfficialLastName>Donnelly</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Fin Donnelly</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>NDP</CaucusShortNameEn>
+          <CaucusShortNameFr>NPD</CaucusShortNameFr>
+          <CaucusShortName>NDP</CaucusShortName>
+          <ParliamentNumber>42</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>263</MeetingNumber>
+          <SpeechDateTime>2018-02-13T11:09:46</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2018-05-30T10:49:09.683</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>21441</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Fisheries and Oceans</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des pêches et des océans</CommitteeNameFr>
+          <CommitteeAcronym>FOPO</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Fisheries and Oceans</CommitteeName>
+          <StudyActivityId>10051939</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented with amendments</NameEn>
+          <NameFr>Présentation du rapport de comité avec des amendements</NameFr>
+          <Name>Committee report presented with amendments</Name>
+          <Number>304</Number>
+          <Date>2018-05-30T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21441</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Fisheries and Oceans</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des pêches et des océans</CommitteeNameFr>
+          <CommitteeAcronym>FOPO</CommitteeAcronym>
+          <Number>95</Number>
+          <Date>2018-04-24T00:00:00</Date>
+          <CommitteeName>Standing Committee on Fisheries and Oceans</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21441</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Fisheries and Oceans</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des pêches et des océans</CommitteeNameFr>
+          <CommitteeAcronym>FOPO</CommitteeAcronym>
+          <Number>96</Number>
+          <Date>2018-04-24T00:00:00</Date>
+          <CommitteeName>Standing Committee on Fisheries and Oceans</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21441</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Fisheries and Oceans</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des pêches et des océans</CommitteeNameFr>
+          <CommitteeAcronym>FOPO</CommitteeAcronym>
+          <Number>97</Number>
+          <Date>2018-04-26T00:00:00</Date>
+          <CommitteeName>Standing Committee on Fisheries and Oceans</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21441</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Fisheries and Oceans</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des pêches et des océans</CommitteeNameFr>
+          <CommitteeAcronym>FOPO</CommitteeAcronym>
+          <Number>98</Number>
+          <Date>2018-05-01T00:00:00</Date>
+          <CommitteeName>Standing Committee on Fisheries and Oceans</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21441</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Fisheries and Oceans</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des pêches et des océans</CommitteeNameFr>
+          <CommitteeAcronym>FOPO</CommitteeAcronym>
+          <Number>99</Number>
+          <Date>2018-05-02T00:00:00</Date>
+          <CommitteeName>Standing Committee on Fisheries and Oceans</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21441</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Fisheries and Oceans</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des pêches et des océans</CommitteeNameFr>
+          <CommitteeAcronym>FOPO</CommitteeAcronym>
+          <Number>100</Number>
+          <Date>2018-05-03T00:00:00</Date>
+          <CommitteeName>Standing Committee on Fisheries and Oceans</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21441</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Fisheries and Oceans</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des pêches et des océans</CommitteeNameFr>
+          <CommitteeAcronym>FOPO</CommitteeAcronym>
+          <Number>102</Number>
+          <Date>2018-05-22T00:00:00</Date>
+          <CommitteeName>Standing Committee on Fisheries and Oceans</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21441</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Fisheries and Oceans</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des pêches et des océans</CommitteeNameFr>
+          <CommitteeAcronym>FOPO</CommitteeAcronym>
+          <Number>103</Number>
+          <Date>2018-05-24T00:00:00</Date>
+          <CommitteeName>Standing Committee on Fisheries and Oceans</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented with amendments</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité avec des amendements</EventNameFr>
+          <EventName>Committee report presented with amendments</EventName>
+          <EventDateTime>2018-05-30T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId>9874299</CommitteeReportId>
+          <CommitteeReportNumber>13</CommitteeReportNumber>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2018-05-30T10:49:09.683</EventStartDateTime>
+          <EventEndDateTime>2018-05-30T10:49:09.683</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2018-05-30T10:49:09.683</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2018-06-13T16:05:49</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>310</Number>
+          <Date>2018-06-07T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>312</Number>
+          <Date>2018-06-11T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>313</Number>
+          <Date>2018-06-12T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Concurrence at report stage</NameEn>
+          <NameFr>Adoption à l'étape du rapport</NameFr>
+          <Name>Concurrence at report stage</Name>
+          <Number>314</Number>
+          <Date>2018-06-13T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60285</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Concurrence at report stage</EventNameEn>
+          <EventNameFr>Adoption à l'étape du rapport</EventNameFr>
+          <EventName>Concurrence at report stage</EventName>
+          <EventDateTime>2018-06-13T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60285</EventTypeId>
+          <EventTypeNameEn>Concurrence at report stage</EventTypeNameEn>
+          <EventTypeNameFr>Adoption à l'étape du rapport</EventTypeNameFr>
+          <EventTypeName>Concurrence at report stage</EventTypeName>
+          <EventStartDateTime>2018-06-13T16:05:49</EventStartDateTime>
+          <EventEndDateTime>2018-06-13T16:05:49</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2018-06-13T16:55:17</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2018-06-20T15:30:50</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>318</Number>
+          <Date>2018-06-20T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>10230356</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>9638041</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>3rd reading</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>3e lecture</DecisionMotionTitleFr>
+          <DecisionMotionTitle>3rd reading</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>9</DecisionMethodId>
+          <DecisionMethodNameEn>On division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Avec dissidence</DecisionMethodNameFr>
+          <DecisionMethodName>On division</DecisionMethodName>
+          <DivisionNumber />
+          <DivisionVotesYeas />
+          <DivisionVotesNays />
+          <DivisionVotePaired />
+          <DecisionSittingDate>2018-06-20T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>318</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2018-06-20T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2018-06-20T15:30:50</EventStartDateTime>
+          <EventEndDateTime>2018-06-20T15:30:50</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2018-06-20T15:30:50</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2018-06-20T16:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>First reading</NameEn>
+          <NameFr>Première lecture</NameFr>
+          <Name>First reading</Name>
+          <Number>224</Number>
+          <Date>2018-06-20T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60111</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>First reading</EventNameEn>
+          <EventNameFr>Première lecture</EventNameFr>
+          <EventName>First reading</EventName>
+          <EventDateTime>2018-06-20T16:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60111</EventTypeId>
+          <EventTypeNameEn>First reading</EventTypeNameEn>
+          <EventTypeNameFr>Première lecture</EventTypeNameFr>
+          <EventTypeName>First reading</EventTypeName>
+          <EventStartDateTime>2018-06-20T16:00:00</EventStartDateTime>
+          <EventEndDateTime>2018-06-20T16:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2018-06-20T16:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2018-12-11T20:15:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16097</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Fisheries and Oceans</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des pêches et des océans</CommitteeNameFr>
+          <CommitteeAcronym>POFO</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Fisheries and Oceans</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>237</Number>
+          <Date>2018-10-18T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>246</Number>
+          <Date>2018-11-08T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>248</Number>
+          <Date>2018-11-21T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>252</Number>
+          <Date>2018-11-27T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>254</Number>
+          <Date>2018-11-29T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>255</Number>
+          <Date>2018-12-03T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>257</Number>
+          <Date>2018-12-05T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>258</Number>
+          <Date>2018-12-06T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>261</Number>
+          <Date>2018-12-11T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60120</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading</EventNameEn>
+          <EventNameFr>Deuxième lecture</EventNameFr>
+          <EventName>Second reading</EventName>
+          <EventDateTime>2018-12-11T20:15:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <SignificantEvents>
+          <EventTypeId>60123</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Referral to committee</EventNameEn>
+          <EventNameFr>Renvoi en comité</EventNameFr>
+          <EventName>Referral to committee</EventName>
+          <EventDateTime>2018-12-11T20:20:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60120</EventTypeId>
+          <EventTypeNameEn>Second reading</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture</EventTypeNameFr>
+          <EventTypeName>Second reading</EventTypeName>
+          <EventStartDateTime>2018-12-11T20:15:00</EventStartDateTime>
+          <EventEndDateTime>2018-12-11T20:15:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2018-12-11T20:20:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>95529</PersonId>
+          <PersonOfficialFirstName>Daniel</PersonOfficialFirstName>
+          <PersonOfficialLastName>Christmas</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Daniel Christmas</PersonName>
+          <SenateSystemAffiliationId>208172</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Independent Senators Group</CaucusShortNameEn>
+          <CaucusShortNameFr>Groupe des sénateurs indépendants</CaucusShortNameFr>
+          <CaucusShortName>Independent Senators Group</CaucusShortName>
+          <ParliamentNumber>42</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>237</MeetingNumber>
+          <SpeechDateTime>2018-10-18T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/421/debates/237db_2018-10-18-e#41</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/421/debates/237db_2018-10-18-f#41</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/421/debates/237db_2018-10-18-e#41</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>19501</PersonId>
+          <PersonOfficialFirstName>Donald Neil</PersonOfficialFirstName>
+          <PersonOfficialLastName>Plett</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Donald Neil Plett</PersonName>
+          <SenateSystemAffiliationId>2858</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>42</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>246</MeetingNumber>
+          <SpeechDateTime>2018-11-08T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/421/debates/246db_2018-11-08-e#53</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/421/debates/246db_2018-11-08-f#53</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/421/debates/246db_2018-11-08-e#53</Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>true</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2019-05-27T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16097</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Fisheries and Oceans</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des pêches et des océans</CommitteeNameFr>
+          <CommitteeAcronym>POFO</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Fisheries and Oceans</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented with amendments</NameEn>
+          <NameFr>Présentation du rapport de comité avec des amendements</NameFr>
+          <Name>Committee report presented with amendments</Name>
+          <Number>291</Number>
+          <Date>2019-05-27T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16097</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Fisheries and Oceans</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des pêches et des océans</CommitteeNameFr>
+          <CommitteeAcronym>POFO</CommitteeAcronym>
+          <Number>82</Number>
+          <Date>2019-04-02T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Fisheries and Oceans</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16097</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Fisheries and Oceans</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des pêches et des océans</CommitteeNameFr>
+          <CommitteeAcronym>POFO</CommitteeAcronym>
+          <Number>83</Number>
+          <Date>2019-04-04T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Fisheries and Oceans</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16097</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Fisheries and Oceans</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des pêches et des océans</CommitteeNameFr>
+          <CommitteeAcronym>POFO</CommitteeAcronym>
+          <Number>84</Number>
+          <Date>2019-04-09T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Fisheries and Oceans</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16097</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Fisheries and Oceans</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des pêches et des océans</CommitteeNameFr>
+          <CommitteeAcronym>POFO</CommitteeAcronym>
+          <Number>85</Number>
+          <Date>2019-04-11T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Fisheries and Oceans</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16097</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Fisheries and Oceans</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des pêches et des océans</CommitteeNameFr>
+          <CommitteeAcronym>POFO</CommitteeAcronym>
+          <Number>86</Number>
+          <Date>2019-04-30T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Fisheries and Oceans</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16097</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Fisheries and Oceans</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des pêches et des océans</CommitteeNameFr>
+          <CommitteeAcronym>POFO</CommitteeAcronym>
+          <Number>87</Number>
+          <Date>2019-05-02T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Fisheries and Oceans</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16097</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Fisheries and Oceans</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des pêches et des océans</CommitteeNameFr>
+          <CommitteeAcronym>POFO</CommitteeAcronym>
+          <Number>88</Number>
+          <Date>2019-05-07T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Fisheries and Oceans</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16097</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Fisheries and Oceans</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des pêches et des océans</CommitteeNameFr>
+          <CommitteeAcronym>POFO</CommitteeAcronym>
+          <Number>89</Number>
+          <Date>2019-05-09T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Fisheries and Oceans</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16097</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Fisheries and Oceans</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des pêches et des océans</CommitteeNameFr>
+          <CommitteeAcronym>POFO</CommitteeAcronym>
+          <Number>90</Number>
+          <Date>2019-05-14T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Fisheries and Oceans</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16097</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Fisheries and Oceans</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des pêches et des océans</CommitteeNameFr>
+          <CommitteeAcronym>POFO</CommitteeAcronym>
+          <Number>91</Number>
+          <Date>2019-05-16T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Fisheries and Oceans</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented with amendments</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité avec des amendements</EventNameFr>
+          <EventName>Committee report presented with amendments</EventName>
+          <EventDateTime>2019-05-27T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2019-05-27T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2019-05-27T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2019-05-27T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2019-05-29T15:52:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at consideration of committee report</NameEn>
+          <NameFr>Débat à l'étape de l'étude du rapport de comité</NameFr>
+          <Name>Debate at consideration of committee report</Name>
+          <Number>293</Number>
+          <Date>2019-05-29T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60130</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report adopted</EventNameEn>
+          <EventNameFr>Adoption du rapport de comité</EventNameFr>
+          <EventName>Committee report adopted</EventName>
+          <EventDateTime>2019-05-29T15:52:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60130</EventTypeId>
+          <EventTypeNameEn>Committee report adopted</EventTypeNameEn>
+          <EventTypeNameFr>Adoption du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report adopted</EventTypeName>
+          <EventStartDateTime>2019-05-29T15:52:00</EventStartDateTime>
+          <EventEndDateTime>2019-05-29T15:52:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2019-05-29T15:52:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2019-06-06T16:46:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>294</Number>
+          <Date>2019-05-30T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>296</Number>
+          <Date>2019-06-04T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>298</Number>
+          <Date>2019-06-06T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2019-06-06T16:46:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>Bill passed by the Senate with amendments</AdditionalInformationEn>
+          <AdditionalInformationFr>Projet de loi adopté par le Sénat avec des amendements</AdditionalInformationFr>
+          <AdditionalInformation>Bill passed by the Senate with amendments</AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2019-06-06T16:46:00</EventStartDateTime>
+          <EventEndDateTime>2019-06-06T16:46:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2019-06-06T16:46:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <RoyalAssent>
+        <BillStageId>60050</BillStageId>
+        <BillStageNameEn>Royal assent</BillStageNameEn>
+        <BillStageNameFr>Sanction royale</BillStageNameFr>
+        <BillStageName>Royal assent</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>0</State>
+        <StateNameEn />
+        <StateNameFr />
+        <StateAsOfDate />
+        <StateName />
+        <Committee />
+        <Sittings>
+          <NameEn>Royal assent</NameEn>
+          <NameFr>Sanction royale</NameFr>
+          <Name>Royal assent</Name>
+          <Number>308</Number>
+          <Date>2019-06-21T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60149</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Royal assent</EventNameEn>
+          <EventNameFr>Sanction royale</EventNameFr>
+          <EventName>Royal assent</EventName>
+          <EventDateTime>2019-06-21T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60149</EventTypeId>
+          <EventTypeNameEn>Royal assent</EventTypeNameEn>
+          <EventTypeNameFr>Sanction royale</EventTypeNameFr>
+          <EventTypeName>Royal assent</EventTypeName>
+          <EventStartDateTime>2019-06-21T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2019-06-21T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2019-06-21T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </RoyalAssent>
+      <InterChamberMessages>
+        <EventNameEn>Message sent to the House of Commons</EventNameEn>
+        <EventNameFr>Message envoyé à la Chambre des communes</EventNameFr>
+        <EventName>Message sent to the House of Commons</EventName>
+        <Date>2019-06-06T18:35:00</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>298</MeetingNumber>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Consideration of Senate amendments</EventNameEn>
+        <EventNameFr>Étude des amendements du Sénat</EventNameFr>
+        <EventName>Consideration of Senate amendments</EventName>
+        <Date>2019-06-11T12:31:05.43</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>431</MeetingNumber>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Consideration of Senate amendments</EventNameEn>
+        <EventNameFr>Étude des amendements du Sénat</EventNameFr>
+        <EventName>Consideration of Senate amendments</EventName>
+        <Date>2019-06-14T12:33:41</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>434</MeetingNumber>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Consideration of Senate amendments</EventNameEn>
+        <EventNameFr>Étude des amendements du Sénat</EventNameFr>
+        <EventName>Consideration of Senate amendments</EventName>
+        <Date>2019-06-17T15:10:49</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>435</MeetingNumber>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Concurrence in the motion respecting Senate amendments</EventNameEn>
+        <EventNameFr>Adoption de la motion relative aux amendements du Sénat</EventNameFr>
+        <EventName>Concurrence in the motion respecting Senate amendments</EventName>
+        <Date>2019-06-17T15:20:12</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>435</MeetingNumber>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Message sent to the Senate</EventNameEn>
+        <EventNameFr>Message envoyé au Sénat</EventNameFr>
+        <EventName>Message sent to the Senate</EventName>
+        <Date>2019-06-17T19:00:00</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>435</MeetingNumber>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Consideration of House of Commons amendments</EventNameEn>
+        <EventNameFr>Étude des amendements de la Chambre des communes</EventNameFr>
+        <EventName>Consideration of House of Commons amendments</EventName>
+        <Date>2019-06-18T17:57:00</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>305</MeetingNumber>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>The Senate does not insist on its amendment(s)</EventNameEn>
+        <EventNameFr>Le Sénat n'insiste pas sur ses amendements</EventNameFr>
+        <EventName>The Senate does not insist on its amendment(s)</EventName>
+        <Date>2019-06-18T20:45:00</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>305</MeetingNumber>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+      </InterChamberMessages>
+    </BillStages>
+    <Publications>
+      <PublicationId>9638631</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>9912616</PublicationId>
+      <PublicationTypeId>80702</PublicationTypeId>
+      <PublicationTypeNameEn>As amended by committee</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel que modifié par le comité</PublicationTypeNameFr>
+      <PublicationTypeName>As amended by committee</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>9999590</PublicationId>
+      <PublicationTypeId>80703</PublicationTypeId>
+      <PublicationTypeNameEn>As passed by the House of Commons</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel qu'adopté par la Chambre des communes</PublicationTypeNameFr>
+      <PublicationTypeName>As passed by the House of Commons</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>10593554</PublicationId>
+      <PublicationTypeId>80704</PublicationTypeId>
+      <PublicationTypeNameEn>Royal Assent</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Royal Assent</PublicationTypeNameFr>
+      <PublicationTypeName>Royal Assent</PublicationTypeName>
+    </Publications>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>639</DivisionNumber>
+      <DivisionSubjectEn>Time allocation for Bill C-68, An Act to amend the Fisheries Act and other Acts in consequence</DivisionSubjectEn>
+      <DivisionSubjectFr>Attribution de temps pour le projet de loi C-68, Loi modifiant la Loi sur les pêches et d'autres lois en conséquence</DivisionSubjectFr>
+      <DivisionSubject>Time allocation for Bill C-68, An Act to amend the Fisheries Act and other Acts in consequence</DivisionSubject>
+      <DivisionVotesYeas>165</DivisionVotesYeas>
+      <DivisionVotesNays>119</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>284</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2018-03-26T11:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>647</DivisionNumber>
+      <DivisionSubjectEn>2nd reading of Bill C-68, An Act to amend the Fisheries Act and other Acts in consequence</DivisionSubjectEn>
+      <DivisionSubjectFr>2e lecture du projet de loi C-68, Loi modifiant la Loi sur les pêches et d'autres lois en conséquence</DivisionSubjectFr>
+      <DivisionSubject>2nd reading of Bill C-68, An Act to amend the Fisheries Act and other Acts in consequence</DivisionSubject>
+      <DivisionVotesYeas>185</DivisionVotesYeas>
+      <DivisionVotesNays>78</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>263</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2018-04-16T11:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>753</DivisionNumber>
+      <DivisionSubjectEn>Time allocation for Bill C-68, An Act to amend the Fisheries Act and other Acts in consequence</DivisionSubjectEn>
+      <DivisionSubjectFr>Attribution de temps pour le projet de loi C-68, Loi modifiant la Loi sur les pêches et d'autres lois en conséquence</DivisionSubjectFr>
+      <DivisionSubject>Time allocation for Bill C-68, An Act to amend the Fisheries Act and other Acts in consequence</DivisionSubject>
+      <DivisionVotesYeas>169</DivisionVotesYeas>
+      <DivisionVotesNays>80</DivisionVotesNays>
+      <DivisionVotePaired>2</DivisionVotePaired>
+      <DivisionVoteTotal>251</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2018-06-11T11:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>759</DivisionNumber>
+      <DivisionSubjectEn>Bill C-68, An Act to amend the Fisheries Act and other Acts in consequence (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-68, Loi modifiant la Loi sur les pêches et d'autres lois en conséquence (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-68, An Act to amend the Fisheries Act and other Acts in consequence (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>84</DivisionVotesYeas>
+      <DivisionVotesNays>210</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>294</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2018-06-13T14:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>760</DivisionNumber>
+      <DivisionSubjectEn>Concurrence at report stage of Bill C-68, An Act to amend the Fisheries Act and other Acts in consequence</DivisionSubjectEn>
+      <DivisionSubjectFr>Adoption à l'étape du rapport du projet de loi C-68, Loi modifiant la Loi sur les pêches et d'autres lois en conséquence</DivisionSubjectFr>
+      <DivisionSubject>Concurrence at report stage of Bill C-68, An Act to amend the Fisheries Act and other Acts in consequence</DivisionSubject>
+      <DivisionVotesYeas>201</DivisionVotesYeas>
+      <DivisionVotesNays>92</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>293</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2018-06-13T14:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>1355</DivisionNumber>
+      <DivisionSubjectEn>Time allocation for Bill C-68, An Act to amend the Fisheries Act and other Acts in consequence</DivisionSubjectEn>
+      <DivisionSubjectFr>Attribution de temps pour le projet de loi C-68, Loi modifiant la Loi sur les pêches et d'autres lois en conséquence</DivisionSubjectFr>
+      <DivisionSubject>Time allocation for Bill C-68, An Act to amend the Fisheries Act and other Acts in consequence</DivisionSubject>
+      <DivisionVotesYeas>154</DivisionVotesYeas>
+      <DivisionVotesNays>104</DivisionVotesNays>
+      <DivisionVotePaired>4</DivisionVotePaired>
+      <DivisionVoteTotal>262</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2019-06-13T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>1362</DivisionNumber>
+      <DivisionSubjectEn>Motion respecting Senate amendments to Bill C-68, An Act to amend the Fisheries Act and other Acts in consequence (amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Motion relative aux amendements du Sénat au projet de loi C-68,Loi modifiant la Loi sur les pêches et d'autres lois en conséquence (amendement)</DivisionSubjectFr>
+      <DivisionSubject>Motion respecting Senate amendments to Bill C-68, An Act to amend the Fisheries Act and other Acts in consequence (amendment)</DivisionSubject>
+      <DivisionVotesYeas>77</DivisionVotesYeas>
+      <DivisionVotesNays>198</DivisionVotesNays>
+      <DivisionVotePaired>2</DivisionVotePaired>
+      <DivisionVoteTotal>277</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2019-06-17T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>1363</DivisionNumber>
+      <DivisionSubjectEn>Motion respecting Senate amendments to Bill C-68, An Act to amend the Fisheries Act and other Acts in consequence</DivisionSubjectEn>
+      <DivisionSubjectFr>Motion relative aux amendements du Sénat au projet de loi C-68,Loi modifiant la Loi sur les pêches et d'autres lois en conséquence</DivisionSubjectFr>
+      <DivisionSubject>Motion respecting Senate amendments to Bill C-68, An Act to amend the Fisheries Act and other Acts in consequence</DivisionSubject>
+      <DivisionVotesYeas>193</DivisionVotesYeas>
+      <DivisionVotesNays>81</DivisionVotesNays>
+      <DivisionVotePaired>2</DivisionVotePaired>
+      <DivisionVoteTotal>276</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2019-06-17T11:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>A stronger, modernized Fisheries Act becomes law</TitleEn>
+      <TitleFr>Une Loi sur les pêches plus forte et modernisée devient loi</TitleFr>
+      <Title>A stronger, modernized Fisheries Act becomes law</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/fisheries-oceans/news/2019/06/a-stronger-modernized-fisheries-act-becomes-law.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/peches-oceans/nouvelles/2019/06/une-loi-sur-les-peches-plus-forte-et-modernisee-devient-loi.html</UrlFr>
+      <Url>https://www.canada.ca/en/fisheries-oceans/news/2019/06/a-stronger-modernized-fisheries-act-becomes-law.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Government of Canada bans shark finning</TitleEn>
+      <TitleFr>Le gouvernement du Canada interdit l'amputation des ailerons de requin</TitleFr>
+      <Title>Government of Canada bans shark finning</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/fisheries-oceans/news/2019/06/government-of-canada-bans-shark-finning.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/peches-oceans/nouvelles/2019/06/le-gouvernement-du-canada-interdit-lamputation-des-ailerons-de-requin.html</UrlFr>
+      <Url>https://www.canada.ca/en/fisheries-oceans/news/2019/06/government-of-canada-bans-shark-finning.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>The modernized Fisheries Act, Bill C-68 passes Parliament</TitleEn>
+      <TitleFr>Le projet de loi C-68  - Loi sur les pêches modernisée  - a été adopté au Parlement</TitleFr>
+      <Title>The modernized Fisheries Act, Bill C-68 passes Parliament</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/fisheries-oceans/news/2019/06/the-modernized-fisheries-act-bill-c-68-passes-parliament.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/peches-oceans/nouvelles/2019/06/le-projet-de-loi-c-68--loi-sur-les-peches-modernisee--a-ete-adopte-au-parlement.html</UrlFr>
+      <Url>https://www.canada.ca/en/fisheries-oceans/news/2019/06/the-modernized-fisheries-act-bill-c-68-passes-parliament.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Government of Canada introduces new protections for fish and their habitat</TitleEn>
+      <TitleFr>Le gouvernement du Canada présente de nouvelles protections pour le poisson et son habitat</TitleFr>
+      <Title>Government of Canada introduces new protections for fish and their habitat</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/fisheries-oceans/news/2018/02/government_of_canadaintroducesnewprotectionsforfishandtheirhabit.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/peches-oceans/nouvelles/2018/02/le_gouvernement_ducanadapresentedenouvellesprotectionspourlepois.html</UrlFr>
+      <Url>https://www.canada.ca/en/fisheries-oceans/news/2018/02/government_of_canadaintroducesnewprotectionsforfishandtheirhabit.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Comparing proposed changes</TitleEn>
+      <TitleFr>Comparons les modifications proposées</TitleFr>
+      <Title>Comparing proposed changes</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/fisheries-oceans/news/2018/02/comparing_proposedchanges.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/peches-oceans/nouvelles/2018/02/comparons_les_modificationsproposees.html</UrlFr>
+      <Url>https://www.canada.ca/en/fisheries-oceans/news/2018/02/comparing_proposedchanges.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>A Fisheries Act for the future (Fisheries and Oceans Canada)</TitleEn>
+      <TitleFr>Une Loi sur les pêches pour l'avenir (Pêches et Océans Canada)</TitleFr>
+      <Title>A Fisheries Act for the future (Fisheries and Oceans Canada)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://www.dfo-mpo.gc.ca/campaign-campagne/fisheries-act-loi-sur-les-peches/index-eng.html</UrlEn>
+      <UrlFr>http://www.dfo-mpo.gc.ca/campaign-campagne/fisheries-act-loi-sur-les-peches/index-fra.html</UrlFr>
+      <Url>http://www.dfo-mpo.gc.ca/campaign-campagne/fisheries-act-loi-sur-les-peches/index-eng.html</Url>
+    </WebReferences>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
