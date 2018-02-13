@@ -1,7 +1,5 @@
 # Bill C-50: An Act to amend the Canada Elections Act (political financing)
 
-**Sponsor**: MINISTER OF DEMOCRATIC INSTITUTIONS
-
 ## Summary
 
 This enactment amends the `Canada Elections Act` to
@@ -41,7 +39,7 @@ The Act is amended by adding the following after section 384:
 
     that is attended by
 
-    a leader, interim leader or leadership contestant of **the** registered party **for whose financial benefit the event is organized or the registered party** described in subparagraph (a)(**ii**), or a minister of the Crown or minister of state **who is** a **member of the registered party for whose financial benefit the event is organized or the registered party described in that subparagraph**, and
+    a leader, interim leader or leadership contestant of the registered party for whose financial benefit the event is organized or the registered party described in subparagraph (a)(ii), or a minister of the Crown or minister of state who is a member of the registered party for whose financial benefit the event is organized or the registered party described in that subparagraph, and
 
     at least one person who, in order to attend it, is required
 
@@ -130,13 +128,13 @@ The Act is amended by adding the following after section 384:
 
   **(4.1)** If a person or entity referred to in subsection (4) becomes aware, after providing information to a registered party under that subsection or this subsection, of any change to that information, the person or entity shall provide the new information to the registered party as soon as feasible after becoming aware of the change.
 
-  **(5)** No person or entity referred to in subsection (4) **or (4.1)** shall include in the information provided to the registered party under that subsection the name of any person referred to in paragraphs (3)(a) to (d) who attended the regulated fundraising event, nor the name of their municipality or its equivalent, their province or their postal code.
+  **(5)** No person or entity referred to in subsection (4) or (4.1) shall include in the information provided to the registered party under that subsection the name of any person referred to in paragraphs (3)(a) to (d) who attended the regulated fundraising event, nor the name of their municipality or its equivalent, their province or their postal code.
 
   **(6)** If at least one person or entity referred to in subsection (4) complies with the obligation under that subsection — to provide information to the registered party in time for the registered party's chief agent to be able to provide the Chief Electoral Officer with the report — that chief agent shall provide the Chief Electoral Officer with a report, in the prescribed form, on the regulated fundraising event setting out that information.
 
-  ****(6.1)**** **The registered party's chief agent shall provide the Chief Electoral Officer with the reports referred to in subsections (1) and (6)** within 30 days after the day the **regulated fundraising** event takes place.
+  **(6.1)** The registered party's chief agent shall provide the Chief Electoral Officer with the reports referred to in subsections (1) and (6) within 30 days after the day the regulated fundraising event takes place.
 
-  **(7)** Subsections (1) to (**6.1**) do not apply in respect of a regulated fundraising event that takes place during the election period of a general election.
+  **(7)** Subsections (1) to (6.1) do not apply in respect of a regulated fundraising event that takes place during the election period of a general election.
 
   **(8)** A registered party's chief agent shall provide the Chief Electoral Officer with a single report, in the prescribed form, on all the regulated fundraising events that were held during the election period for a general election and
 
@@ -144,13 +142,13 @@ The Act is amended by adding the following after section 384:
 
     in respect of which at least one person or entity that organized the event or any part of it complied with the obligation under subsection (9).
 
-  ****(8.1)**** **The registered party's chief agent shall provide the Chief Electoral Officer with the report referred to in subsection (8)** within 60 days after polling day at **the** general election.
+  **(8.1)** The registered party's chief agent shall provide the Chief Electoral Officer with the report referred to in subsection (8) within 60 days after polling day at the general election.
 
   **(9)** If a regulated fundraising event that was held during the election period for a general election was organized entirely by one or more persons or entities other than the registered party for whose financial benefit the event was organized, or for the financial benefit of whose registered association, nomination contestant, candidate or leadership contestant the event was organized, each person or entity that organized the event or any part of it shall, subject to subsection (10), provide the information set out in subsection (2) to the registered party in time for the registered party's chief agent to be able to provide the Chief Electoral Officer with the report as required under subsection (8).
 
   **(9.1)** If a person or entity referred to in subsection (9) becomes aware, after providing information to a registered party under that subsection or this subsection, of any change to that information, the person or entity shall provide the new information to the registered party as soon as feasible after becoming aware of the change.
 
-  **(10)** No person or entity referred to in subsection (9) **or (9.1)** shall include in the information provided to the registered party under that subsection the name of any person referred to in paragraphs (3)(a) to (d) who attended the regulated fundraising event, nor the name of their municipality or its equivalent, their province or their postal code.
+  **(10)** No person or entity referred to in subsection (9) or (9.1) shall include in the information provided to the registered party under that subsection the name of any person referred to in paragraphs (3)(a) to (d) who attended the regulated fundraising event, nor the name of their municipality or its equivalent, their province or their postal code.
 
   **(11)** Subject to subsection (12), the report referred to in subsection (8) shall set out the information referred to in subsection (2) for each regulated fundraising event referred to in subsection (8).
 
@@ -347,15 +345,15 @@ being a registered party, contravenes subsection 384.2(5) or (7) (failure to rep
 
 being a person or entity, contravenes subsection 384.2(6) (failure to provide new information about regulated fundraising event);
 
-being a chief agent, contravenes subsection 384.3(1), (6) or **(6.1)** (failure to provide report on regulated fundraising event);
+being a chief agent, contravenes subsection 384.3(1), (6) or (6.1) (failure to provide report on regulated fundraising event);
 
 being a chief agent, contravenes subsection 384.3(3) (including prohibited name or address in report on regulated fundraising event);
 
-being a person or entity, contravenes subsection 384.3(4), **(4.1)**, (9) or **(9.1)** (failure to provide information about regulated fundraising event);
+being a person or entity, contravenes subsection 384.3(4), (4.1), (9) or (9.1) (failure to provide information about regulated fundraising event);
 
 being a person or entity, contravenes subsection 384.3(5) or (10) (including prohibited name or address in information about regulated fundraising event);
 
-being a chief agent, contravenes subsection 384.3(8) **or (8.1)** (failure to provide report on all regulated fundraising events);
+being a chief agent, contravenes subsection 384.3(8) or (8.1) (failure to provide report on all regulated fundraising events);
 
 being a chief agent, contravenes subsection 384.3(12) (including prohibited name or address in report on all regulated fundraising events);
 
