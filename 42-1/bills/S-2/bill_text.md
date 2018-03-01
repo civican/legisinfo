@@ -126,33 +126,29 @@ The Minister may, by order, require any company that applies a national safety m
 
 ### Section 10.51
 
-A company that is subject to an order made under section 10.5 may correct a defect or non-compliance
+A company that is subject to an order made under section 10.5 may correct a defect or non-compliance by doing one of the following:
 
-by repairing the vehicle or equipment, including by adding to, removing anything from or modifying the vehicle or equipment, as the circumstances require;
+repairing the vehicle or equipment, including by adding to, removing anything from or modifying the vehicle or equipment, as the circumstances require;
 
-by replacing the vehicle or equipment with a reasonable equivalent; or
+replacing the vehicle or equipment with a reasonable equivalent;
 
-by reimbursing
+reimbursing
 
 the reasonable cost of repairs to the vehicle or equipment that have already been undertaken before a notice of defect or non-compliance has been given, or
 
-the sale price of the vehicle or equipment, less reasonable depreciation, on return of the vehicle or equipment.
+the sale price of the vehicle or equipment, less reasonable depreciation in the case where the vehicle or equipment has been sold to the first retail purchaser, on return of the vehicle or equipment.
 
 ### Section 10.52
 
-  **(1)** In this section, **dealer**  means a person who is engaged in the business of purchasing vehicles or equipment directly from a company and reselling it to another person who purchases it for a purpose other than resale.
+For greater certainty, any person, including an automobile dealer, may benefit from any measure referred to in section 10.51 and any payment of costs under subsection 10.6(1).
 
-  **(2)** If, on the date on which an order is made under section 10.5 or 10.61, a dealer still owns a vehicle or equipment that it purchased from a company that is the subject of the order, the company shall, without delay, either
+### Section 10.53
 
-    provide the dealer, at the company's expense, with the materials, parts or components required to correct a defect or non-compliance in the vehicle or equipment, in accordance with any terms and conditions specified in the order; or
+For greater certainty, nothing prevents a company that is subject to an order under subsection 10.1(7) or 10.4(4), section 10.5 or subsection 10.6(1) from entering into an agreement with any person, including an automobile dealer, in respect of any matter related to the order — including, in the case of a vehicle or equipment that has not been sold to the first retail purchaser, in respect of the reimbursement of reasonable costs incurred — in addition to complying with any terms and conditions specified in the order.
 
-    repurchase the vehicle or equipment from the dealer at the price paid by the dealer, plus transportation costs, and compensate the dealer with an amount equivalent to at least one percent per month of the price paid by the dealer, prorated from the date on which the order was made to the date of purchase.
+### Section 10.54
 
-  **(3)** If the company provides materials, parts or components in accordance with paragraph (2)(a),
-
-    the dealer shall install the materials, parts or components in the vehicle or equipment without delay after it has received them; and
-
-    the company shall compensate the dealer for the cost of installation and with an amount equivalent to at least one percent per month of the price paid by the dealer, prorated from the date on which the order was made to the date the dealer has received the materials, parts or components.
+For greater certainty, a correction to a vehicle or equipment in accordance with section 10.51 does not affect the right of any person, including an automobile dealer, to exercise any other right or remedy available at law, including a right or remedy to recover reasonable costs incurred as a result of an order under section 10.5.
 
 ### Section 10.6
 
