@@ -1,0 +1,2533 @@
+<Bills>
+  <Bill>
+    <Id>9630600</Id>
+    <NumberCode>C-69</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>69</Number>
+    <LongTitleEn>An Act to enact the Impact Assessment Act and the Canadian Energy Regulator Act, to amend the Navigation Protection Act and to make consequential amendments to other Acts</LongTitleEn>
+    <LongTitleFr>Loi édictant la Loi sur l'évaluation d'impact et la Loi sur la Régie canadienne de l'énergie, modifiant la Loi sur la protection de la navigation et apportant des modifications corrélatives à d'autres lois</LongTitleFr>
+    <LongTitle>An Act to enact the Impact Assessment Act and the Canadian Energy Regulator Act, to amend the Navigation Protection Act and to make consequential amendments to other Acts</LongTitle>
+    <ShortTitleEn>
+    </ShortTitleEn>
+    <ShortTitleFr>
+    </ShortTitleFr>
+    <ShortTitle>
+    </ShortTitle>
+    <StatusId>357</StatusId>
+    <StatusNameEn>Royal assent received</StatusNameEn>
+    <StatusNameFr>Sanction royale reçue</StatusNameFr>
+    <StatusName>Royal assent received</StatusName>
+    <LatestCompletedMajorStageId>60046</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>Royal assent</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Sanction royale</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>Royal assent</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>Royal assent</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>2</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>Senate</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Sénat</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>Senate</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60050</OngoingStageId>
+    <OngoingStageNameEn>Royal assent</OngoingStageNameEn>
+    <OngoingStageNameFr>Sanction royale</OngoingStageNameFr>
+    <OngoingStageName>Royal assent</OngoingStageName>
+    <LatestCompletedBillStageId>60050</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Royal assent</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Sanction royale</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Royal assent</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>2</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>Senate</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Sénat</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>Senate</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2019-06-21T00:00:00</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>42</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>88892</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Catherine</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>McKenna</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Catherine McKenna</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Environment and Climate Change</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre de l'Environnement et du Changement climatique</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Environment and Climate Change</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>4</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Minister</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>ministre</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Minister</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>789</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Ottawa Centre</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Ottawa-Centre</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Ottawa Centre</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60149</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Royal assent</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Sanction royale</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60050</LatestBillEventStageId>
+    <LatestBillEventTypeName>Royal assent</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2019-06-21T13:30:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>2</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>Senate</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Sénat</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>Senate</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>308</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2018-02-08T10:03:55.117</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime>2018-03-19T19:00:47</PassedHouseSecondReadingDateTime>
+    <PassedHouseThirdReadingDateTime>2018-06-20T15:50:26</PassedHouseThirdReadingDateTime>
+    <PassedSenateFirstReadingDateTime>2018-06-20T16:00:00</PassedSenateFirstReadingDateTime>
+    <PassedSenateSecondReadingDateTime>2018-12-12T16:50:00</PassedSenateSecondReadingDateTime>
+    <PassedSenateThirdReadingDateTime>2019-06-06T19:30:00</PassedSenateThirdReadingDateTime>
+    <ReceivedRoyalAssentDateTime>2019-06-21T00:00:00</ReceivedRoyalAssentDateTime>
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>true</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>true</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>true</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>true</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>true</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn>&lt;div&gt;The pre-release version of this Legislative Summary is now available. Parliamentarians and their staff can obtain a copy by submitting a request or contacting the Library of Parliament. Members of the public can obtain a copy by contacting the Information Service at the Library of Parliament at Info@parl.gc.ca.&lt;br/&gt;&lt;br/&gt;On 8 February 2018, the Minister of Environment and Climate Change introduced Bill C-69, An Act to enact the Impact Assessment Act and the Canadian Energy Regulator Act, to amend the Navigation Protection Act and to make consequential amendments to other Acts, in the House of Commons and it was given first reading.&lt;br/&gt;&lt;br/&gt;Bill C-69 Part 1 enacts the Impact Assessment Act and repeals the Canadian Environmental Assessment Act, 2012. Among other things, the Impact Assessment Act&lt;br/&gt;(a) names the Impact Assessment Agency of Canada as the authority responsible for impact assessments;&lt;br/&gt;(b) provides for a process for assessing the environmental, health, social and economic effects of designated projects with a view to preventing certain adverse effects and fostering sustainability;&lt;br/&gt;(c) prohibits proponents, subject to certain conditions, from carrying out a designated project if the designated project is likely to cause certain environmental, health, social or economic effects, unless the Minister of the Environment or Governor in Council determines that those effects are in the public interest, taking into account the impacts on the rights of the Indigenous peoples of Canada, all effects that may be caused by the carrying out of the project, the extent to which the project contributes to sustainability and other factors;&lt;br/&gt;(d) establishes a planning phase for a possible impact assessment of a designated project, which includes requirements to cooperate with and consult certain persons and entities and requirements with respect to public participation;&lt;br/&gt;(e) authorizes the Minister to refer an impact assessment of a designated project to a review panel if he or she considers it in the public interest to do so, and requires that an impact assessment be referred to a review panel if the designated project includes physical activities that are regulated under the Nuclear Safety and Control Act, the Canadian Energy Regulator Act, the Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act and the Canada–Newfoundland and Labrador Atlantic Accord Implementation Act;&lt;br/&gt;(f) establishes time limits with respect to the planning phase, to impact assessments and to certain decisions, in order to ensure that impact assessments are conducted in a timely manner;&lt;br/&gt;(g) provides for public participation and for funding to allow the public to participate in a meaningful manner;&lt;br/&gt;(h) sets out the factors to be taken into account in conducting an impact assessment, including the impacts on the rights of the Indigenous peoples of Canada;&lt;br/&gt;(i) provides for cooperation with certain jurisdictions, including Indigenous governing bodies, through the delegation of any part of an impact assessment, the joint establishment of a review panel or the substitution of another process for the impact assessment;&lt;br/&gt;(j) provides for transparency in decision-making by requiring that the scientific and other information taken into account in an impact assessment, as well as the reasons for decisions, be made available to the public through a registry that is accessible via the Internet;&lt;br/&gt;(k) provides that the Minister may set conditions, including with respect to mitigation measures, that must be implemented by the proponent of a designated project;&lt;br/&gt;(l) provides for the assessment of cumulative effects of existing or future activities in a specific region through regional assessments and of federal policies, plans and programs, and of issues, that are relevant to the impact assessment of designated projects through strategic assessments; and&lt;br/&gt;(m) sets out requirements for an assessment of environmental effects of non-designated projects that are on federal lands or that are to be carried out outside Canada.&lt;br/&gt;Part 2 enacts the Canadian Energy Regulator Act, which establishes the Canadian Energy Regulator and sets out its composition, mandate and powers. The role of the Regulator is to regulate the exploitation, development and transportation of energy within Parliament's jurisdiction.&lt;br/&gt;The Canadian Energy Regulator Act, among other things,&lt;br/&gt;(a) provides for the establishment of a Commission that is responsible for the adjudicative functions of the Regulator;&lt;br/&gt;(b) ensures the safety and security of persons, energy facilities and abandoned facilities and the protection of property and the environment;&lt;br/&gt;(c) provides for the regulation of pipelines, abandoned pipelines, and traffic, tolls and tariffs relating to the transmission of oil or gas through pipelines;&lt;br/&gt;(d) provides for the regulation of international power lines and certain interprovincial power lines;&lt;br/&gt;(e) provides for the regulation of renewable energy projects and power lines in Canada's offshore;&lt;br/&gt;(f) provides for the regulation of access to lands;&lt;br/&gt;(g) provides for the regulation of the exportation of oil, gas and electricity and the interprovincial oil and gas trade; and&lt;br/&gt;(h) sets out the process the Commission must follow before making, amending or revoking a declaration of a significant discovery or a commercial discovery under the Canada Oil and Gas Operations Act and the process for appealing a decision made by the Chief Conservation Officer or the Chief Safety Officer under that Act.&lt;br/&gt;Part 2 also repeals the National Energy Board Act.&lt;br/&gt;Part 3 amends the Navigation Protection Act to, among other things,&lt;br/&gt;(a) rename it the Canadian Navigable Waters Act;&lt;br/&gt;(b) provide a comprehensive definition of navigable water;&lt;br/&gt;(c) require that, when making a decision under that Act, the Minister must consider any adverse effects that the decision may have on the rights of the Indigenous peoples of Canada;&lt;br/&gt;(d) require that an owner apply for an approval for a major work in any navigable water;&lt;br/&gt;(e)  set out the factors that the Minister must consider when deciding whether to issue an approval;&lt;br/&gt;(f) provide a process for addressing navigation-related concerns when an owner proposes to carry out a work in navigable waters that are not listed in the schedule;&lt;br/&gt;(g) provide the Minister with powers to address obstructions in any navigable water;&lt;br/&gt;(h) amend the criteria and process for adding a reference to a navigable water to the schedule;&lt;br/&gt;(i) require that the Minister establish a registry; and&lt;br/&gt;(j) provide for new measures for the administration and enforcement of the Act.&lt;br/&gt;Part 4 makes consequential amendments to Acts of Parliament and regulations.&lt;/div&gt;</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>&lt;div&gt;La version préliminaire du présent résumé législatif est maintenant disponible. Les parlementaires et les membres de leur personnel peuvent en obtenir un exemplaire en présentant une demande ou en communiquant avec la Bibliothèque du Parlement. Les membres du public peuvent en obtenir un exemplaire auprès du Service de renseignements de la Bibliothèque du Parlement à Info@parl.gc.ca.&lt;br/&gt;&lt;br/&gt;Le 8 février 2018, le Ministre de l'Environnement et du Changement climatique a déposé le projet de loi C-69, Loi édictant la Loi sur l'évaluation d'impact et la Loi sur la Régie canadienne de l'énergie, modifiant la Loi sur la protection de la navigation et apportant des modifications corrélatives à d'autres lois, à la Chambre des communes en première lecture.&lt;br/&gt;&lt;br/&gt;La partie 1 édicte la Loi sur l'évaluation d'impact et abroge la Loi canadienne sur l'évaluation environnementale (2012). La Loi sur l'évaluation d'impact, notamment?: &lt;br/&gt;a) nomme l'Agence canadienne d'évaluation d'impact à titre d'organisme responsable des évaluations d'impact;&lt;br/&gt;b) prévoit un processus d'évaluation des effets environnementaux, sanitaires, sociaux et économiques des projets désignés en vue de la prévention de certains effets négatifs et de favoriser la durabilité;&lt;br/&gt;c) interdit aux promoteurs, sous réserve de certaines conditions, de réaliser un projet désigné si celui-ci est susceptible de causer certains effets sur l'environnement, la santé, la société ou l'économie, à moins que le ministre ou le gouverneur en conseil décide que ces effets sont dans l'intérêt public, compte tenu, notamment, des répercussions que le projet peut avoir sur les droits des peuples autochtones du Canada, des effets qui peuvent être entraînés par sa réalisation et de la mesure dans laquelle le projet contribue à la durabilité;&lt;br/&gt;d) établit une étape préparatoire pour l'évaluation d'impact éventuelle des projets désignés, qui comprend des exigences de consulter certaines personnes et entités et de collaborer avec elles et des exigences liées à la participation du public;&lt;br/&gt;e) autorise le ministre de l'Environnement à renvoyer l'évaluation d'impact d'un projet désigné à une commission s'il estime qu'il est dans l'intérêt public de le faire et exige que l'évaluation d'impact soit renvoyée à une commission dans les cas où le projet comprend des activités concrètes régies par la Loi sur la sûreté et la réglementation nucléaires, la Loi sur la Régie canadienne de l'énergie, la Loi de mise en œuvre de l'Accord Canada?—?Nouvelle-Écosse sur les hydrocarbures extracôtiers et la Loi de mise en œuvre de l'Accord atlantique Canada?—?Terre-Neuve-et-Labrador;&lt;br/&gt;f) établit des délais à l'égard de l'étape préparatoire, des évaluations d'impact et de la prise de décision, et ce, afin de garantir que les évaluations d'impact sont réalisées en temps opportun;&lt;br/&gt;g) prévoit la participation du public ainsi qu'une aide financière permettant une participation significative;&lt;br/&gt;h) définit les éléments à prendre en compte dans la réalisation d'une évaluation d'impact, notamment les répercussions sur les droits des peuples autochtones du Canada;&lt;br/&gt;i) prévoit la collaboration avec certaines instances, notamment avec les corps dirigeants autochtones, au moyen de la délégation de tout ou partie d'une évaluation d'impact, de la constitution conjointe d'une commission ou de la substitution d'un autre processus à l'évaluation d'impact;&lt;br/&gt;j) prévoit des dispositions assurant la transparence des prises de décision en exigeant que l'information scientifique et d'autres renseignements pris en compte dans l'évaluation d'impact, ainsi que les motifs sur lesquels se fondent les décisions, soient mis à la disposition du public au moyen d'un registre accessible sur Internet;&lt;br/&gt;k) accorde au ministre le pouvoir d'établir des conditions, y compris à l'égard des mesures d'atténuation, que le promoteur d'un projet désigné doit mettre en œuvre;&lt;br/&gt;l) prévoit l'évaluation des effets cumulatifs d'activités existantes ou futures dans une région au moyen d'évaluations régionales et l'évaluation des politiques, plans, programmes fédéraux ou des questions liés aux évaluations de projets désignés au moyen d'évaluations stratégiques;&lt;br/&gt;m) établit les exigences relatives à l'évaluation des effets environnementaux des projets non désignés sur le territoire domanial et à l'étranger.&lt;br/&gt;La partie 2 édicte la Loi sur la Régie canadienne de l'énergie, qui constitue la Régie canadienne de l'énergie et en prévoit la composition, le mandat et les pouvoirs. Le rôle de la Régie consiste à régir l'exploitation, le développement et le transport de produits énergétiques qui relèvent de la compétence du Parlement.&lt;br/&gt;La Loi sur la Régie canadienne de l'énergie, notamment?: &lt;br/&gt;a) prévoit la création d'une Commission chargée des fonctions quasi judiciaires de la Régie;&lt;br/&gt;b) assure la sécurité des personnes, la sûreté et la sécurité des installations énergétiques et des installations abandonnées et la protection des biens et de l'environnement;&lt;br/&gt;c) prévoit la régie des pipelines, des pipelines abandonnés ainsi que du transport du pétrole ou du gaz par pipeline et des droits et tarifs afférents;&lt;br/&gt;d) prévoit la régie des lignes internationales de transport d'électricité ainsi que la régie de certaines lignes de transport d'électricité interprovinciales;&lt;br/&gt;e) prévoit la régie de projets d'énergie renouvelable et de lignes de transport d'électricité se trouvant dans la zone extracôtière canadienne;&lt;br/&gt;f) prévoit la régie de l'accès à des terrains;&lt;br/&gt;g) prévoit la régie de l'exportation du pétrole, du gaz et de l'électricité et celle du marché interprovincial du pétrole et du gaz;&lt;br/&gt;h) prévoit la procédure que la Commission doit observer avant de faire, de modifier ou d'annuler une déclaration de découverte importante ou de découverte exploitable en vertu de la Loi sur les opérations pétrolières au Canada et la procédure d'appel d'une décision rendue par le délégué à l'exploitation ou le délégué à la sécurité.&lt;br/&gt;De plus, la partie 2 abroge la Loi sur l'Office national de l'énergie.&lt;br/&gt;La partie 3 modifie la Loi sur la protection de la navigation afin, notamment?: &lt;br/&gt;a) de la renommer la Loi sur les eaux navigables canadiennes;&lt;br/&gt;b) de fournir une définition exhaustive de eaux navigables;&lt;br/&gt;c) d'exiger que le ministre prenne toute décision sous le régime de cette loi en tenant compte des effets préjudiciables qu'elle peut avoir sur les droits des peuples autochtones du Canada;&lt;br/&gt;d) d'exiger qu'un propriétaire présente une demande d'approbation relativement à un ouvrage majeur dans des eaux navigables;&lt;br/&gt;e) de préciser les facteurs dont le ministre doit tenir compte pour décider s'il y a lieu de délivrer une approbation;&lt;br/&gt;f) d'établir un processus pour résoudre les problèmes relatifs à la navigation lorsqu'un propriétaire se propose d'effectuer des travaux dans des eaux navigables non mentionnées à l'annexe;&lt;br/&gt;g) de conférer au ministre des pouvoirs en ce qui concerne la réglementation d'obstacles dans des eaux navigables;&lt;br/&gt;h) de modifier les critères et le processus pour l'ajout d'une mention d'eaux navigables à l'annexe;&lt;br/&gt;i) d'exiger que le ministre établisse un registre;&lt;br/&gt;j) de fournir de nouvelles mesures d'exécution et de contrôle d'application de cette loi.&lt;br/&gt;La partie 4 apporte des modifications corrélatives à des lois fédérales et à des règlements.&lt;/div&gt;</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>&lt;div&gt;The pre-release version of this Legislative Summary is now available. Parliamentarians and their staff can obtain a copy by submitting a request or contacting the Library of Parliament. Members of the public can obtain a copy by contacting the Information Service at the Library of Parliament at Info@parl.gc.ca.&lt;br/&gt;&lt;br/&gt;On 8 February 2018, the Minister of Environment and Climate Change introduced Bill C-69, An Act to enact the Impact Assessment Act and the Canadian Energy Regulator Act, to amend the Navigation Protection Act and to make consequential amendments to other Acts, in the House of Commons and it was given first reading.&lt;br/&gt;&lt;br/&gt;Bill C-69 Part 1 enacts the Impact Assessment Act and repeals the Canadian Environmental Assessment Act, 2012. Among other things, the Impact Assessment Act&lt;br/&gt;(a) names the Impact Assessment Agency of Canada as the authority responsible for impact assessments;&lt;br/&gt;(b) provides for a process for assessing the environmental, health, social and economic effects of designated projects with a view to preventing certain adverse effects and fostering sustainability;&lt;br/&gt;(c) prohibits proponents, subject to certain conditions, from carrying out a designated project if the designated project is likely to cause certain environmental, health, social or economic effects, unless the Minister of the Environment or Governor in Council determines that those effects are in the public interest, taking into account the impacts on the rights of the Indigenous peoples of Canada, all effects that may be caused by the carrying out of the project, the extent to which the project contributes to sustainability and other factors;&lt;br/&gt;(d) establishes a planning phase for a possible impact assessment of a designated project, which includes requirements to cooperate with and consult certain persons and entities and requirements with respect to public participation;&lt;br/&gt;(e) authorizes the Minister to refer an impact assessment of a designated project to a review panel if he or she considers it in the public interest to do so, and requires that an impact assessment be referred to a review panel if the designated project includes physical activities that are regulated under the Nuclear Safety and Control Act, the Canadian Energy Regulator Act, the Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act and the Canada–Newfoundland and Labrador Atlantic Accord Implementation Act;&lt;br/&gt;(f) establishes time limits with respect to the planning phase, to impact assessments and to certain decisions, in order to ensure that impact assessments are conducted in a timely manner;&lt;br/&gt;(g) provides for public participation and for funding to allow the public to participate in a meaningful manner;&lt;br/&gt;(h) sets out the factors to be taken into account in conducting an impact assessment, including the impacts on the rights of the Indigenous peoples of Canada;&lt;br/&gt;(i) provides for cooperation with certain jurisdictions, including Indigenous governing bodies, through the delegation of any part of an impact assessment, the joint establishment of a review panel or the substitution of another process for the impact assessment;&lt;br/&gt;(j) provides for transparency in decision-making by requiring that the scientific and other information taken into account in an impact assessment, as well as the reasons for decisions, be made available to the public through a registry that is accessible via the Internet;&lt;br/&gt;(k) provides that the Minister may set conditions, including with respect to mitigation measures, that must be implemented by the proponent of a designated project;&lt;br/&gt;(l) provides for the assessment of cumulative effects of existing or future activities in a specific region through regional assessments and of federal policies, plans and programs, and of issues, that are relevant to the impact assessment of designated projects through strategic assessments; and&lt;br/&gt;(m) sets out requirements for an assessment of environmental effects of non-designated projects that are on federal lands or that are to be carried out outside Canada.&lt;br/&gt;Part 2 enacts the Canadian Energy Regulator Act, which establishes the Canadian Energy Regulator and sets out its composition, mandate and powers. The role of the Regulator is to regulate the exploitation, development and transportation of energy within Parliament's jurisdiction.&lt;br/&gt;The Canadian Energy Regulator Act, among other things,&lt;br/&gt;(a) provides for the establishment of a Commission that is responsible for the adjudicative functions of the Regulator;&lt;br/&gt;(b) ensures the safety and security of persons, energy facilities and abandoned facilities and the protection of property and the environment;&lt;br/&gt;(c) provides for the regulation of pipelines, abandoned pipelines, and traffic, tolls and tariffs relating to the transmission of oil or gas through pipelines;&lt;br/&gt;(d) provides for the regulation of international power lines and certain interprovincial power lines;&lt;br/&gt;(e) provides for the regulation of renewable energy projects and power lines in Canada's offshore;&lt;br/&gt;(f) provides for the regulation of access to lands;&lt;br/&gt;(g) provides for the regulation of the exportation of oil, gas and electricity and the interprovincial oil and gas trade; and&lt;br/&gt;(h) sets out the process the Commission must follow before making, amending or revoking a declaration of a significant discovery or a commercial discovery under the Canada Oil and Gas Operations Act and the process for appealing a decision made by the Chief Conservation Officer or the Chief Safety Officer under that Act.&lt;br/&gt;Part 2 also repeals the National Energy Board Act.&lt;br/&gt;Part 3 amends the Navigation Protection Act to, among other things,&lt;br/&gt;(a) rename it the Canadian Navigable Waters Act;&lt;br/&gt;(b) provide a comprehensive definition of navigable water;&lt;br/&gt;(c) require that, when making a decision under that Act, the Minister must consider any adverse effects that the decision may have on the rights of the Indigenous peoples of Canada;&lt;br/&gt;(d) require that an owner apply for an approval for a major work in any navigable water;&lt;br/&gt;(e)  set out the factors that the Minister must consider when deciding whether to issue an approval;&lt;br/&gt;(f) provide a process for addressing navigation-related concerns when an owner proposes to carry out a work in navigable waters that are not listed in the schedule;&lt;br/&gt;(g) provide the Minister with powers to address obstructions in any navigable water;&lt;br/&gt;(h) amend the criteria and process for adding a reference to a navigable water to the schedule;&lt;br/&gt;(i) require that the Minister establish a registry; and&lt;br/&gt;(j) provide for new measures for the administration and enforcement of the Act.&lt;br/&gt;Part 4 makes consequential amendments to Acts of Parliament and regulations.&lt;/div&gt;</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear>2019</StatuteYear>
+    <StatuteChapter>28</StatuteChapter>
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2018-02-08T10:03:55.117</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>260</Number>
+          <Date>2018-02-08T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2018-02-08T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2018-02-08T10:03:55.117</EventStartDateTime>
+          <EventEndDateTime>2018-02-08T10:03:55.117</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2018-02-08T10:03:55.117</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2018-03-19T19:00:47</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>21436</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Environment and Sustainable Development</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'environnement et du développement durable</CommitteeNameFr>
+          <CommitteeAcronym>ENVI</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Environment and Sustainable Development</CommitteeName>
+          <StudyActivityId>10011131</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>264</Number>
+          <Date>2018-02-14T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>267</Number>
+          <Date>2018-02-27T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>270</Number>
+          <Date>2018-03-02T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Second reading and referral to committee</NameEn>
+          <NameFr>Deuxième lecture et renvoi en comité</NameFr>
+          <Name>Second reading and referral to committee</Name>
+          <Number>271</Number>
+          <Date>2018-03-19T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>10007661</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>9698251</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>2nd reading and referral to committee - Part 3 regarding the Navigation Protection Act and clauses 85, 186, 187 and 195 of Part 4</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>2e lecture et renvoi en comité - Partie 3 concernant la Loi sur la protection de la navigation et les articles 85, 186, 187 et 195 de la partie 4</DecisionMotionTitleFr>
+          <DecisionMotionTitle>2nd reading and referral to committee - Part 3 regarding the Navigation Protection Act and clauses 85, 186, 187 and 195 of Part 4</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>10</DecisionMethodId>
+          <DecisionMethodNameEn>On recorded division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Suivant un vote par appel nominal</DecisionMethodNameFr>
+          <DecisionMethodName>On recorded division</DecisionMethodName>
+          <DivisionNumber>461</DivisionNumber>
+          <DivisionVotesYeas>205</DivisionVotesYeas>
+          <DivisionVotesNays>97</DivisionVotesNays>
+          <DivisionVotePaired>0</DivisionVotePaired>
+          <DecisionSittingDate>2018-03-19T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>271</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60121</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading and referral to committee</EventNameEn>
+          <EventNameFr>Deuxième lecture et renvoi en comité</EventNameFr>
+          <EventName>Second reading and referral to committee</EventName>
+          <EventDateTime>2018-03-19T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60121</EventTypeId>
+          <EventTypeNameEn>Second reading and referral to committee</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture et renvoi en comité</EventTypeNameFr>
+          <EventTypeName>Second reading and referral to committee</EventTypeName>
+          <EventStartDateTime>2018-03-19T19:00:47</EventStartDateTime>
+          <EventEndDateTime>2018-03-19T19:00:47</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2018-03-19T19:00:47</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>9977090</InterventionEventId>
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>88892</PersonId>
+          <PersonOfficialFirstName>Catherine</PersonOfficialFirstName>
+          <PersonOfficialLastName>McKenna</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Catherine McKenna</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>42</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>264</MeetingNumber>
+          <SpeechDateTime>2018-02-14T16:56:16</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>9977409</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>35904</PersonId>
+          <PersonOfficialFirstName>Ed</PersonOfficialFirstName>
+          <PersonOfficialLastName>Fast</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Ed Fast</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>42</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>264</MeetingNumber>
+          <SpeechDateTime>2018-02-14T17:26:38</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>9977560</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>58775</PersonId>
+          <PersonOfficialFirstName>Alexandre</PersonOfficialFirstName>
+          <PersonOfficialLastName>Boulerice</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Alexandre Boulerice</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>NDP</CaucusShortNameEn>
+          <CaucusShortNameFr>NPD</CaucusShortNameFr>
+          <CaucusShortName>NDP</CaucusShortName>
+          <ParliamentNumber>42</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>264</MeetingNumber>
+          <SpeechDateTime>2018-02-14T17:54:17</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2018-05-29T10:19:40.253</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>21436</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Environment and Sustainable Development</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'environnement et du développement durable</CommitteeNameFr>
+          <CommitteeAcronym>ENVI</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Environment and Sustainable Development</CommitteeName>
+          <StudyActivityId>10011131</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented with amendments</NameEn>
+          <NameFr>Présentation du rapport de comité avec des amendements</NameFr>
+          <Name>Committee report presented with amendments</Name>
+          <Number>303</Number>
+          <Date>2018-05-29T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21436</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Environment and Sustainable Development</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'environnement et du développement durable</CommitteeNameFr>
+          <CommitteeAcronym>ENVI</CommitteeAcronym>
+          <Number>99</Number>
+          <Date>2018-03-22T00:00:00</Date>
+          <CommitteeName>Standing Committee on Environment and Sustainable Development</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21436</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Environment and Sustainable Development</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'environnement et du développement durable</CommitteeNameFr>
+          <CommitteeAcronym>ENVI</CommitteeAcronym>
+          <Number>101</Number>
+          <Date>2018-03-28T00:00:00</Date>
+          <CommitteeName>Standing Committee on Environment and Sustainable Development</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21436</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Environment and Sustainable Development</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'environnement et du développement durable</CommitteeNameFr>
+          <CommitteeAcronym>ENVI</CommitteeAcronym>
+          <Number>102</Number>
+          <Date>2018-03-29T00:00:00</Date>
+          <CommitteeName>Standing Committee on Environment and Sustainable Development</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21436</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Environment and Sustainable Development</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'environnement et du développement durable</CommitteeNameFr>
+          <CommitteeAcronym>ENVI</CommitteeAcronym>
+          <Number>103</Number>
+          <Date>2018-04-17T00:00:00</Date>
+          <CommitteeName>Standing Committee on Environment and Sustainable Development</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21436</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Environment and Sustainable Development</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'environnement et du développement durable</CommitteeNameFr>
+          <CommitteeAcronym>ENVI</CommitteeAcronym>
+          <Number>104</Number>
+          <Date>2018-04-18T00:00:00</Date>
+          <CommitteeName>Standing Committee on Environment and Sustainable Development</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21436</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Environment and Sustainable Development</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'environnement et du développement durable</CommitteeNameFr>
+          <CommitteeAcronym>ENVI</CommitteeAcronym>
+          <Number>105</Number>
+          <Date>2018-04-19T00:00:00</Date>
+          <CommitteeName>Standing Committee on Environment and Sustainable Development</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21436</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Environment and Sustainable Development</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'environnement et du développement durable</CommitteeNameFr>
+          <CommitteeAcronym>ENVI</CommitteeAcronym>
+          <Number>106</Number>
+          <Date>2018-04-24T00:00:00</Date>
+          <CommitteeName>Standing Committee on Environment and Sustainable Development</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21436</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Environment and Sustainable Development</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'environnement et du développement durable</CommitteeNameFr>
+          <CommitteeAcronym>ENVI</CommitteeAcronym>
+          <Number>107</Number>
+          <Date>2018-04-25T00:00:00</Date>
+          <CommitteeName>Standing Committee on Environment and Sustainable Development</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21436</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Environment and Sustainable Development</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'environnement et du développement durable</CommitteeNameFr>
+          <CommitteeAcronym>ENVI</CommitteeAcronym>
+          <Number>108</Number>
+          <Date>2018-04-26T00:00:00</Date>
+          <CommitteeName>Standing Committee on Environment and Sustainable Development</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21436</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Environment and Sustainable Development</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'environnement et du développement durable</CommitteeNameFr>
+          <CommitteeAcronym>ENVI</CommitteeAcronym>
+          <Number>110</Number>
+          <Date>2018-05-03T00:00:00</Date>
+          <CommitteeName>Standing Committee on Environment and Sustainable Development</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21436</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Environment and Sustainable Development</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'environnement et du développement durable</CommitteeNameFr>
+          <CommitteeAcronym>ENVI</CommitteeAcronym>
+          <Number>111</Number>
+          <Date>2018-05-08T00:00:00</Date>
+          <CommitteeName>Standing Committee on Environment and Sustainable Development</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21436</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Environment and Sustainable Development</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'environnement et du développement durable</CommitteeNameFr>
+          <CommitteeAcronym>ENVI</CommitteeAcronym>
+          <Number>112</Number>
+          <Date>2018-05-09T00:00:00</Date>
+          <CommitteeName>Standing Committee on Environment and Sustainable Development</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21436</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Environment and Sustainable Development</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'environnement et du développement durable</CommitteeNameFr>
+          <CommitteeAcronym>ENVI</CommitteeAcronym>
+          <Number>113</Number>
+          <Date>2018-05-10T00:00:00</Date>
+          <CommitteeName>Standing Committee on Environment and Sustainable Development</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21436</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Environment and Sustainable Development</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'environnement et du développement durable</CommitteeNameFr>
+          <CommitteeAcronym>ENVI</CommitteeAcronym>
+          <Number>114</Number>
+          <Date>2018-05-22T00:00:00</Date>
+          <CommitteeName>Standing Committee on Environment and Sustainable Development</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented with amendments</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité avec des amendements</EventNameFr>
+          <EventName>Committee report presented with amendments</EventName>
+          <EventDateTime>2018-05-29T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId>9872105</CommitteeReportId>
+          <CommitteeReportNumber>15</CommitteeReportNumber>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2018-05-29T10:19:40.253</EventStartDateTime>
+          <EventEndDateTime>2018-05-29T10:19:40.253</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2018-05-29T10:19:40.253</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2018-06-11T21:15:02</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>308</Number>
+          <Date>2018-06-05T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>309</Number>
+          <Date>2018-06-06T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>310</Number>
+          <Date>2018-06-07T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>312</Number>
+          <Date>2018-06-11T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60285</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Concurrence at report stage</EventNameEn>
+          <EventNameFr>Adoption à l'étape du rapport</EventNameFr>
+          <EventName>Concurrence at report stage</EventName>
+          <EventDateTime>2018-06-11T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60285</EventTypeId>
+          <EventTypeNameEn>Concurrence at report stage</EventTypeNameEn>
+          <EventTypeNameFr>Adoption à l'étape du rapport</EventTypeNameFr>
+          <EventTypeName>Concurrence at report stage</EventTypeName>
+          <EventStartDateTime>2018-06-11T21:15:02</EventStartDateTime>
+          <EventEndDateTime>2018-06-11T21:15:02</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2018-06-11T21:15:02</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2018-06-20T15:50:26</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>313</Number>
+          <Date>2018-06-12T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>316</Number>
+          <Date>2018-06-18T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>317</Number>
+          <Date>2018-06-19T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Third reading</NameEn>
+          <NameFr>Troisième lecture</NameFr>
+          <Name>Third reading</Name>
+          <Number>318</Number>
+          <Date>2018-06-20T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>10230656</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>9990808</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>3rd reading - Part 3 regarding the Navigation Protection Act and clauses 85, 186, 187 and 195 of Part 4</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>3e lecture - Partie 3 concernant la Loi sur la protection de la navigation et les articles 85, 186, 187 et 195 de la partie 4</DecisionMotionTitleFr>
+          <DecisionMotionTitle>3rd reading - Part 3 regarding the Navigation Protection Act and clauses 85, 186, 187 and 195 of Part 4</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>10</DecisionMethodId>
+          <DecisionMethodNameEn>On recorded division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Suivant un vote par appel nominal</DecisionMethodNameFr>
+          <DecisionMethodName>On recorded division</DecisionMethodName>
+          <DivisionNumber>878</DivisionNumber>
+          <DivisionVotesYeas>169</DivisionVotesYeas>
+          <DivisionVotesNays>131</DivisionVotesNays>
+          <DivisionVotePaired>0</DivisionVotePaired>
+          <DecisionSittingDate>2018-06-20T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>318</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2018-06-20T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2018-06-20T15:50:26</EventStartDateTime>
+          <EventEndDateTime>2018-06-20T15:50:26</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2018-06-20T15:50:26</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2018-06-20T16:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>First reading</NameEn>
+          <NameFr>Première lecture</NameFr>
+          <Name>First reading</Name>
+          <Number>224</Number>
+          <Date>2018-06-20T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60111</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>First reading</EventNameEn>
+          <EventNameFr>Première lecture</EventNameFr>
+          <EventName>First reading</EventName>
+          <EventDateTime>2018-06-20T16:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60111</EventTypeId>
+          <EventTypeNameEn>First reading</EventTypeNameEn>
+          <EventTypeNameFr>Première lecture</EventTypeNameFr>
+          <EventTypeName>First reading</EventTypeName>
+          <EventStartDateTime>2018-06-20T16:00:00</EventStartDateTime>
+          <EventEndDateTime>2018-06-20T16:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2018-06-20T16:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2018-12-12T16:50:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16096</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'énergie, de l'environnement et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>ENEV</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>226</Number>
+          <Date>2018-09-18T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>230</Number>
+          <Date>2018-09-26T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>234</Number>
+          <Date>2018-10-04T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>238</Number>
+          <Date>2018-10-23T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>239</Number>
+          <Date>2018-10-24T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>241</Number>
+          <Date>2018-10-30T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>242</Number>
+          <Date>2018-10-31T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>245</Number>
+          <Date>2018-11-07T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>246</Number>
+          <Date>2018-11-08T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>252</Number>
+          <Date>2018-11-27T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>259</Number>
+          <Date>2018-12-07T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>262</Number>
+          <Date>2018-12-12T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60120</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading</EventNameEn>
+          <EventNameFr>Deuxième lecture</EventNameFr>
+          <EventName>Second reading</EventName>
+          <EventDateTime>2018-12-12T16:50:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <SignificantEvents>
+          <EventTypeId>60123</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Referral to committee</EventNameEn>
+          <EventNameFr>Renvoi en comité</EventNameFr>
+          <EventName>Referral to committee</EventName>
+          <EventDateTime>2018-12-12T16:55:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60120</EventTypeId>
+          <EventTypeNameEn>Second reading</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture</EventTypeNameFr>
+          <EventTypeName>Second reading</EventTypeName>
+          <EventStartDateTime>2018-12-12T16:50:00</EventStartDateTime>
+          <EventEndDateTime>2018-12-12T16:50:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2018-12-12T16:55:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>35201</PersonId>
+          <PersonOfficialFirstName>Grant</PersonOfficialFirstName>
+          <PersonOfficialLastName>Mitchell</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Grant Mitchell</PersonName>
+          <SenateSystemAffiliationId>2778</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Non-affiliated</CaucusShortNameEn>
+          <CaucusShortNameFr>Non affilié(e)</CaucusShortNameFr>
+          <CaucusShortName>Non-affiliated</CaucusShortName>
+          <ParliamentNumber>42</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>226</MeetingNumber>
+          <SpeechDateTime>2018-09-18T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/421/debates/226db_2018-09-18-e#52</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/421/debates/226db_2018-09-18-f#53</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/421/debates/226db_2018-09-18-e#52</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>95530</PersonId>
+          <PersonOfficialFirstName>Rosa</PersonOfficialFirstName>
+          <PersonOfficialLastName>Galvez</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Rosa Galvez</PersonName>
+          <SenateSystemAffiliationId>208170</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Independent Senators Group</CaucusShortNameEn>
+          <CaucusShortNameFr>Groupe des sénateurs indépendants</CaucusShortNameFr>
+          <CaucusShortName>Independent Senators Group</CaucusShortName>
+          <ParliamentNumber>42</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>230</MeetingNumber>
+          <SpeechDateTime>2018-09-26T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/421/debates/230db_2018-09-26-e#43</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/421/debates/230db_2018-09-26-f#43</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/421/debates/230db_2018-09-26-e#43</Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>true</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2019-05-28T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16096</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'énergie, de l'environnement et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>ENEV</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented with amendments</NameEn>
+          <NameFr>Présentation du rapport de comité avec des amendements</NameFr>
+          <Name>Committee report presented with amendments</Name>
+          <Number>292</Number>
+          <Date>2019-05-28T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16096</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'énergie, de l'environnement et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>ENEV</CommitteeAcronym>
+          <Number>106</Number>
+          <Date>2019-02-06T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16096</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'énergie, de l'environnement et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>ENEV</CommitteeAcronym>
+          <Number>107</Number>
+          <Date>2019-02-07T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16096</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'énergie, de l'environnement et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>ENEV</CommitteeAcronym>
+          <Number>108</Number>
+          <Date>2019-02-19T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16096</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'énergie, de l'environnement et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>ENEV</CommitteeAcronym>
+          <Number>109</Number>
+          <Date>2019-02-21T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16096</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'énergie, de l'environnement et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>ENEV</CommitteeAcronym>
+          <Number>110</Number>
+          <Date>2019-02-26T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16096</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'énergie, de l'environnement et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>ENEV</CommitteeAcronym>
+          <Number>111</Number>
+          <Date>2019-02-28T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16096</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'énergie, de l'environnement et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>ENEV</CommitteeAcronym>
+          <Number>112</Number>
+          <Date>2019-03-19T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16096</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'énergie, de l'environnement et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>ENEV</CommitteeAcronym>
+          <Number>113</Number>
+          <Date>2019-03-21T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16096</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'énergie, de l'environnement et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>ENEV</CommitteeAcronym>
+          <Number>114</Number>
+          <Date>2019-04-01T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16096</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'énergie, de l'environnement et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>ENEV</CommitteeAcronym>
+          <Number>115</Number>
+          <Date>2019-04-02T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16096</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'énergie, de l'environnement et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>ENEV</CommitteeAcronym>
+          <Number>116</Number>
+          <Date>2019-04-04T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16096</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'énergie, de l'environnement et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>ENEV</CommitteeAcronym>
+          <Number>117</Number>
+          <Date>2019-04-08T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16096</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'énergie, de l'environnement et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>ENEV</CommitteeAcronym>
+          <Number>118</Number>
+          <Date>2019-04-08T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16096</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'énergie, de l'environnement et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>ENEV</CommitteeAcronym>
+          <Number>119</Number>
+          <Date>2019-04-09T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16096</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'énergie, de l'environnement et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>ENEV</CommitteeAcronym>
+          <Number>120</Number>
+          <Date>2019-04-09T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16096</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'énergie, de l'environnement et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>ENEV</CommitteeAcronym>
+          <Number>121</Number>
+          <Date>2019-04-10T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16096</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'énergie, de l'environnement et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>ENEV</CommitteeAcronym>
+          <Number>122</Number>
+          <Date>2019-04-10T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16096</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'énergie, de l'environnement et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>ENEV</CommitteeAcronym>
+          <Number>123</Number>
+          <Date>2019-04-11T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16096</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'énergie, de l'environnement et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>ENEV</CommitteeAcronym>
+          <Number>124</Number>
+          <Date>2019-04-11T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16096</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'énergie, de l'environnement et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>ENEV</CommitteeAcronym>
+          <Number>125</Number>
+          <Date>2019-04-12T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16096</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'énergie, de l'environnement et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>ENEV</CommitteeAcronym>
+          <Number>126</Number>
+          <Date>2019-04-12T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16096</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'énergie, de l'environnement et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>ENEV</CommitteeAcronym>
+          <Number>127</Number>
+          <Date>2019-04-23T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16096</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'énergie, de l'environnement et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>ENEV</CommitteeAcronym>
+          <Number>128</Number>
+          <Date>2019-04-23T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16096</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'énergie, de l'environnement et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>ENEV</CommitteeAcronym>
+          <Number>129</Number>
+          <Date>2019-04-24T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16096</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'énergie, de l'environnement et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>ENEV</CommitteeAcronym>
+          <Number>130</Number>
+          <Date>2019-04-24T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16096</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'énergie, de l'environnement et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>ENEV</CommitteeAcronym>
+          <Number>131</Number>
+          <Date>2019-04-25T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16096</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'énergie, de l'environnement et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>ENEV</CommitteeAcronym>
+          <Number>132</Number>
+          <Date>2019-04-25T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16096</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'énergie, de l'environnement et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>ENEV</CommitteeAcronym>
+          <Number>133</Number>
+          <Date>2019-04-26T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16096</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'énergie, de l'environnement et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>ENEV</CommitteeAcronym>
+          <Number>134</Number>
+          <Date>2019-04-26T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16096</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'énergie, de l'environnement et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>ENEV</CommitteeAcronym>
+          <Number>135</Number>
+          <Date>2019-04-29T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16096</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'énergie, de l'environnement et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>ENEV</CommitteeAcronym>
+          <Number>136</Number>
+          <Date>2019-04-30T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16096</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'énergie, de l'environnement et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>ENEV</CommitteeAcronym>
+          <Number>137</Number>
+          <Date>2019-05-02T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16096</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'énergie, de l'environnement et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>ENEV</CommitteeAcronym>
+          <Number>138</Number>
+          <Date>2019-05-07T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16096</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'énergie, de l'environnement et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>ENEV</CommitteeAcronym>
+          <Number>139</Number>
+          <Date>2019-05-09T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16096</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'énergie, de l'environnement et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>ENEV</CommitteeAcronym>
+          <Number>140</Number>
+          <Date>2019-05-13T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16096</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'énergie, de l'environnement et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>ENEV</CommitteeAcronym>
+          <Number>141</Number>
+          <Date>2019-05-14T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16096</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'énergie, de l'environnement et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>ENEV</CommitteeAcronym>
+          <Number>142</Number>
+          <Date>2019-05-16T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented with amendments</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité avec des amendements</EventNameFr>
+          <EventName>Committee report presented with amendments</EventName>
+          <EventDateTime>2019-05-28T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2019-05-28T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2019-05-28T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2019-05-28T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2019-05-30T15:30:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at consideration of committee report</NameEn>
+          <NameFr>Débat à l'étape de l'étude du rapport de comité</NameFr>
+          <Name>Debate at consideration of committee report</Name>
+          <Number>293</Number>
+          <Date>2019-05-29T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at consideration of committee report</NameEn>
+          <NameFr>Débat à l'étape de l'étude du rapport de comité</NameFr>
+          <Name>Debate at consideration of committee report</Name>
+          <Number>294</Number>
+          <Date>2019-05-30T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60130</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report adopted</EventNameEn>
+          <EventNameFr>Adoption du rapport de comité</EventNameFr>
+          <EventName>Committee report adopted</EventName>
+          <EventDateTime>2019-05-30T15:30:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60130</EventTypeId>
+          <EventTypeNameEn>Committee report adopted</EventTypeNameEn>
+          <EventTypeNameFr>Adoption du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report adopted</EventTypeName>
+          <EventStartDateTime>2019-05-30T15:30:00</EventStartDateTime>
+          <EventEndDateTime>2019-05-30T15:30:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2019-05-30T15:30:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2019-06-06T19:30:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>295</Number>
+          <Date>2019-06-03T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>296</Number>
+          <Date>2019-06-04T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>298</Number>
+          <Date>2019-06-06T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2019-06-06T19:30:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>Bill passed by the Senate with amendments</AdditionalInformationEn>
+          <AdditionalInformationFr>Projet de loi adopté par le Sénat avec des amendements</AdditionalInformationFr>
+          <AdditionalInformation>Bill passed by the Senate with amendments</AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2019-06-06T19:30:00</EventStartDateTime>
+          <EventEndDateTime>2019-06-06T19:30:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2019-06-06T19:30:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <RoyalAssent>
+        <BillStageId>60050</BillStageId>
+        <BillStageNameEn>Royal assent</BillStageNameEn>
+        <BillStageNameFr>Sanction royale</BillStageNameFr>
+        <BillStageName>Royal assent</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>0</State>
+        <StateNameEn />
+        <StateNameFr />
+        <StateAsOfDate />
+        <StateName />
+        <Committee />
+        <Sittings>
+          <NameEn>Royal assent</NameEn>
+          <NameFr>Sanction royale</NameFr>
+          <Name>Royal assent</Name>
+          <Number>308</Number>
+          <Date>2019-06-21T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60149</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Royal assent</EventNameEn>
+          <EventNameFr>Sanction royale</EventNameFr>
+          <EventName>Royal assent</EventName>
+          <EventDateTime>2019-06-21T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60149</EventTypeId>
+          <EventTypeNameEn>Royal assent</EventTypeNameEn>
+          <EventTypeNameFr>Sanction royale</EventTypeNameFr>
+          <EventTypeName>Royal assent</EventTypeName>
+          <EventStartDateTime>2019-06-21T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2019-06-21T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2019-06-21T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </RoyalAssent>
+      <InterChamberMessages>
+        <EventNameEn>Message sent to the House of Commons</EventNameEn>
+        <EventNameFr>Message envoyé à la Chambre des communes</EventNameFr>
+        <EventName>Message sent to the House of Commons</EventName>
+        <Date>2019-06-06T19:31:00</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>298</MeetingNumber>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Consideration of Senate amendments</EventNameEn>
+        <EventNameFr>Étude des amendements du Sénat</EventNameFr>
+        <EventName>Consideration of Senate amendments</EventName>
+        <Date>2019-06-12T15:30:32</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>432</MeetingNumber>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Consideration of Senate amendments</EventNameEn>
+        <EventNameFr>Étude des amendements du Sénat</EventNameFr>
+        <EventName>Consideration of Senate amendments</EventName>
+        <Date>2019-06-13T20:30:38</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>433</MeetingNumber>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Concurrence in the motion respecting Senate amendments</EventNameEn>
+        <EventNameFr>Adoption de la motion relative aux amendements du Sénat</EventNameFr>
+        <EventName>Concurrence in the motion respecting Senate amendments</EventName>
+        <Date>2019-06-13T20:40:02</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>433</MeetingNumber>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Message sent to the Senate</EventNameEn>
+        <EventNameFr>Message envoyé au Sénat</EventNameFr>
+        <EventName>Message sent to the Senate</EventName>
+        <Date>2019-06-13T21:00:00</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>433</MeetingNumber>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Consideration of House of Commons amendments</EventNameEn>
+        <EventNameFr>Étude des amendements de la Chambre des communes</EventNameFr>
+        <EventName>Consideration of House of Commons amendments</EventName>
+        <Date>2019-06-17T00:00:00</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>304</MeetingNumber>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Consideration of House of Commons amendments</EventNameEn>
+        <EventNameFr>Étude des amendements de la Chambre des communes</EventNameFr>
+        <EventName>Consideration of House of Commons amendments</EventName>
+        <Date>2019-06-20T21:00:00</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>307</MeetingNumber>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>The Senate does not insist on its amendment(s)</EventNameEn>
+        <EventNameFr>Le Sénat n'insiste pas sur ses amendements</EventNameFr>
+        <EventName>The Senate does not insist on its amendment(s)</EventName>
+        <Date>2019-06-20T21:05:00</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>307</MeetingNumber>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+      </InterChamberMessages>
+    </BillStages>
+    <Publications>
+      <PublicationId>9649021</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>9901003</PublicationId>
+      <PublicationTypeId>80702</PublicationTypeId>
+      <PublicationTypeNameEn>As amended by committee</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel que modifié par le comité</PublicationTypeNameFr>
+      <PublicationTypeName>As amended by committee</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>9999393</PublicationId>
+      <PublicationTypeId>80703</PublicationTypeId>
+      <PublicationTypeNameEn>As passed by the House of Commons</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel qu'adopté par la Chambre des communes</PublicationTypeNameFr>
+      <PublicationTypeName>As passed by the House of Commons</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>10593664</PublicationId>
+      <PublicationTypeId>80704</PublicationTypeId>
+      <PublicationTypeNameEn>Royal Assent</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Royal Assent</PublicationTypeNameFr>
+      <PublicationTypeName>Royal Assent</PublicationTypeName>
+    </Publications>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>455</DivisionNumber>
+      <DivisionSubjectEn>Time allocation for Bill C-69, An Act to enact the Impact Assessment Act and the Canadian Energy Regulator Act, to amend the Navigation Protection Act and to make consequential amendments to other Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>Attribution de temps pour le projet de loi C-69, Loi édictant la Loi sur l'évaluation d'impact et la Loi sur la Régie canadienne de l'énergie, modifiant la Loi sur la protection de la navigation et apportant des modifications corrélatives à d'autres lois</DivisionSubjectFr>
+      <DivisionSubject>Time allocation for Bill C-69, An Act to enact the Impact Assessment Act and the Canadian Energy Regulator Act, to amend the Navigation Protection Act and to make consequential amendments to other Acts</DivisionSubject>
+      <DivisionVotesYeas>156</DivisionVotesYeas>
+      <DivisionVotesNays>121</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>277</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2018-02-27T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>460</DivisionNumber>
+      <DivisionSubjectEn>2nd reading of Bill C-69, An Act to enact the Impact Assessment Act and the Canadian Energy Regulator Act, to amend the Navigation Protection Act and to make consequential amendments to other Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>2e lecture du projet de loi C-69, Loi édictant la Loi sur l'évaluation d'impact et la Loi sur la Régie canadienne de l'énergie, modifiant la Loi sur la protection de la navigation et apportant des modifications corrélatives à d'autres lois</DivisionSubjectFr>
+      <DivisionSubject>2nd reading of Bill C-69, An Act to enact the Impact Assessment Act and the Canadian Energy Regulator Act, to amend the Navigation Protection Act and to make consequential amendments to other Acts</DivisionSubject>
+      <DivisionVotesYeas>204</DivisionVotesYeas>
+      <DivisionVotesNays>97</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>301</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2018-03-19T11:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>461</DivisionNumber>
+      <DivisionSubjectEn>2nd reading of Bill C-69, An Act to enact the Impact Assessment Act and the Canadian Energy Regulator Act, to amend the Navigation Protection Act and to make consequential amendments to other Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>2e lecture du projet de loi C-69, Loi édictant la Loi sur l'évaluation d'impact et la Loi sur la Régie canadienne de l'énergie, modifiant la Loi sur la protection de la navigation et apportant des modifications corrélatives à d'autres lois</DivisionSubjectFr>
+      <DivisionSubject>2nd reading of Bill C-69, An Act to enact the Impact Assessment Act and the Canadian Energy Regulator Act, to amend the Navigation Protection Act and to make consequential amendments to other Acts</DivisionSubject>
+      <DivisionVotesYeas>205</DivisionVotesYeas>
+      <DivisionVotesNays>97</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>302</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2018-03-19T11:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>736</DivisionNumber>
+      <DivisionSubjectEn>Time allocation for Bill C-69, An Act to enact the Impact Assessment Act and the Canadian Energy Regulator Act, to amend the Navigation Protection Act and to make consequential amendments to other Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>Attribution de temps pour le projet de loi C-69, Loi édictant la Loi sur l'évaluation d'impact et la Loi sur la Régie canadienne de l'énergie, modifiant la Loi sur la protection de la navigation et apportant des modifications corrélatives à d'autres lois</DivisionSubjectFr>
+      <DivisionSubject>Time allocation for Bill C-69, An Act to enact the Impact Assessment Act and the Canadian Energy Regulator Act, to amend the Navigation Protection Act and to make consequential amendments to other Acts</DivisionSubject>
+      <DivisionVotesYeas>150</DivisionVotesYeas>
+      <DivisionVotesNays>65</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>215</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2018-06-06T14:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>739</DivisionNumber>
+      <DivisionSubjectEn>Bill C-69, An Act to enact the Impact Assessment Act and the Canadian Energy Regulator Act, to amend the Navigation Protection Act and to make consequential amendments to other Acts (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-69, Loi édictant la Loi sur l'évaluation d'impact et la Loi sur la Régie canadienne de l'énergie, modifiant la Loi sur la protection de la navigation et apportant des modifications corrélatives à d'autres lois (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-69, An Act to enact the Impact Assessment Act and the Canadian Energy Regulator Act, to amend the Navigation Protection Act and to make consequential amendments to other Acts (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>80</DivisionVotesYeas>
+      <DivisionVotesNays>211</DivisionVotesNays>
+      <DivisionVotePaired>2</DivisionVotePaired>
+      <DivisionVoteTotal>293</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2018-06-11T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>740</DivisionNumber>
+      <DivisionSubjectEn>Bill C-69, An Act to enact the Impact Assessment Act and the Canadian Energy Regulator Act, to amend the Navigation Protection Act and to make consequential amendments to other Acts (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-69, Loi édictant la Loi sur l'évaluation d'impact et la Loi sur la Régie canadienne de l'énergie, modifiant la Loi sur la protection de la navigation et apportant des modifications corrélatives à d'autres lois (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-69, An Act to enact the Impact Assessment Act and the Canadian Energy Regulator Act, to amend the Navigation Protection Act and to make consequential amendments to other Acts (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>44</DivisionVotesYeas>
+      <DivisionVotesNays>247</DivisionVotesNays>
+      <DivisionVotePaired>2</DivisionVotePaired>
+      <DivisionVoteTotal>293</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2018-06-11T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>741</DivisionNumber>
+      <DivisionSubjectEn>Bill C-69, An Act to enact the Impact Assessment Act and the Canadian Energy Regulator Act, to amend the Navigation Protection Act and to make consequential amendments to other Acts (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-69, Loi édictant la Loi sur l'évaluation d'impact et la Loi sur la Régie canadienne de l'énergie, modifiant la Loi sur la protection de la navigation et apportant des modifications corrélatives à d'autres lois (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-69, An Act to enact the Impact Assessment Act and the Canadian Energy Regulator Act, to amend the Navigation Protection Act and to make consequential amendments to other Acts (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>44</DivisionVotesYeas>
+      <DivisionVotesNays>247</DivisionVotesNays>
+      <DivisionVotePaired>2</DivisionVotePaired>
+      <DivisionVoteTotal>293</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2018-06-11T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>742</DivisionNumber>
+      <DivisionSubjectEn>Bill C-69, An Act to enact the Impact Assessment Act and the Canadian Energy Regulator Act, to amend the Navigation Protection Act and to make consequential amendments to other Acts (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-69, Loi édictant la Loi sur l'évaluation d'impact et la Loi sur la Régie canadienne de l'énergie, modifiant la Loi sur la protection de la navigation et apportant des modifications corrélatives à d'autres lois (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-69, An Act to enact the Impact Assessment Act and the Canadian Energy Regulator Act, to amend the Navigation Protection Act and to make consequential amendments to other Acts (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>44</DivisionVotesYeas>
+      <DivisionVotesNays>247</DivisionVotesNays>
+      <DivisionVotePaired>2</DivisionVotePaired>
+      <DivisionVoteTotal>293</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2018-06-11T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>743</DivisionNumber>
+      <DivisionSubjectEn>Bill C-69, An Act to enact the Impact Assessment Act and the Canadian Energy Regulator Act, to amend the Navigation Protection Act and to make consequential amendments to other Acts (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-69, Loi édictant la Loi sur l'évaluation d'impact et la Loi sur la Régie canadienne de l'énergie, modifiant la Loi sur la protection de la navigation et apportant des modifications corrélatives à d'autres lois (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-69, An Act to enact the Impact Assessment Act and the Canadian Energy Regulator Act, to amend the Navigation Protection Act and to make consequential amendments to other Acts (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>44</DivisionVotesYeas>
+      <DivisionVotesNays>247</DivisionVotesNays>
+      <DivisionVotePaired>2</DivisionVotePaired>
+      <DivisionVoteTotal>293</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2018-06-11T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>744</DivisionNumber>
+      <DivisionSubjectEn>Bill C-69, An Act to enact the Impact Assessment Act and the Canadian Energy Regulator Act, to amend the Navigation Protection Act and to make consequential amendments to other Acts (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-69, Loi édictant la Loi sur l'évaluation d'impact et la Loi sur la Régie canadienne de l'énergie, modifiant la Loi sur la protection de la navigation et apportant des modifications corrélatives à d'autres lois (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-69, An Act to enact the Impact Assessment Act and the Canadian Energy Regulator Act, to amend the Navigation Protection Act and to make consequential amendments to other Acts (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>80</DivisionVotesYeas>
+      <DivisionVotesNays>211</DivisionVotesNays>
+      <DivisionVotePaired>2</DivisionVotePaired>
+      <DivisionVoteTotal>293</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2018-06-11T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>745</DivisionNumber>
+      <DivisionSubjectEn>Concurrence at report stage of Bill C-69, An Act to enact the Impact Assessment Act and the Canadian Energy Regulator Act, to amend the Navigation Protection Act and to make consequential amendments to other Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>Adoption à l'étape du rapport du projet de loi C-69, Loi édictant la Loi sur l'évaluation d'impact et la Loi sur la Régie canadienne de l'énergie, modifiant la Loi sur la protection de la navigation et apportant des modifications corrélatives à d'autres lois</DivisionSubjectFr>
+      <DivisionSubject>Concurrence at report stage of Bill C-69, An Act to enact the Impact Assessment Act and the Canadian Energy Regulator Act, to amend the Navigation Protection Act and to make consequential amendments to other Acts</DivisionSubject>
+      <DivisionVotesYeas>166</DivisionVotesYeas>
+      <DivisionVotesNays>125</DivisionVotesNays>
+      <DivisionVotePaired>2</DivisionVotePaired>
+      <DivisionVoteTotal>293</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2018-06-11T11:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>870</DivisionNumber>
+      <DivisionSubjectEn>3rd reading and adoption of Bill C-69, An Act to enact the Impact Assessment Act and the Canadian Energy Regulator Act, to amend the Navigation Protection Act and to make consequential amendments to other Acts (previous question)</DivisionSubjectEn>
+      <DivisionSubjectFr>3e lecture et adoption du projet de loi C-69, Loi édictant la Loi sur l'évaluation d'impact et la Loi sur la Régie canadienne de l'énergie, modifiant la Loi sur la protection de la navigation et apportant des modifications corrélatives à d'autres lois (question préalable)</DivisionSubjectFr>
+      <DivisionSubject>3rd reading and adoption of Bill C-69, An Act to enact the Impact Assessment Act and the Canadian Energy Regulator Act, to amend the Navigation Protection Act and to make consequential amendments to other Acts (previous question)</DivisionSubject>
+      <DivisionVotesYeas>171</DivisionVotesYeas>
+      <DivisionVotesNays>136</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>307</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2018-06-19T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>877</DivisionNumber>
+      <DivisionSubjectEn>3rd reading and adoption of Bill C-69, An Act to enact the Impact Assessment Act and the Canadian Energy Regulator Act, to amend the Navigation Protection Act and to make consequential amendments to other Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>3e lecture et adoption du projet de loi C-69, Loi édictant la Loi sur l'évaluation d'impact et la Loi sur la Régie canadienne de l'énergie, modifiant la Loi sur la protection de la navigation et apportant des modifications corrélatives à d'autres lois</DivisionSubjectFr>
+      <DivisionSubject>3rd reading and adoption of Bill C-69, An Act to enact the Impact Assessment Act and the Canadian Energy Regulator Act, to amend the Navigation Protection Act and to make consequential amendments to other Acts</DivisionSubject>
+      <DivisionVotesYeas>168</DivisionVotesYeas>
+      <DivisionVotesNays>132</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>300</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2018-06-20T14:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>878</DivisionNumber>
+      <DivisionSubjectEn>3rd reading and adoption of Bill C-69, An Act to enact the Impact Assessment Act and the Canadian Energy Regulator Act, to amend the Navigation Protection Act and to make consequential amendments to other Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>3e lecture et adoption du projet de loi C-69, Loi édictant la Loi sur l'évaluation d'impact et la Loi sur la Régie canadienne de l'énergie, modifiant la Loi sur la protection de la navigation et apportant des modifications corrélatives à d'autres lois</DivisionSubjectFr>
+      <DivisionSubject>3rd reading and adoption of Bill C-69, An Act to enact the Impact Assessment Act and the Canadian Energy Regulator Act, to amend the Navigation Protection Act and to make consequential amendments to other Acts</DivisionSubject>
+      <DivisionVotesYeas>169</DivisionVotesYeas>
+      <DivisionVotesNays>131</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>300</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2018-06-20T14:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>1357</DivisionNumber>
+      <DivisionSubjectEn>Motion for closure</DivisionSubjectEn>
+      <DivisionSubjectFr>Motion de clôture</DivisionSubjectFr>
+      <DivisionSubject>Motion for closure</DivisionSubject>
+      <DivisionVotesYeas>147</DivisionVotesYeas>
+      <DivisionVotesNays>72</DivisionVotesNays>
+      <DivisionVotePaired>4</DivisionVotePaired>
+      <DivisionVoteTotal>223</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2019-06-13T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>1358</DivisionNumber>
+      <DivisionSubjectEn>Motion respecting Senate amendments to Bill C-69, An Act to enact the Impact Assessment Act and the Canadian Energy Regulator Act, to amend the Navigation Protection Act and to make consequential amendments to other Acts (amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Motion relative aux amendements du Sénat au projet de loi C-69,Loi édictant la Loi sur l'évaluation d'impact et la Loi sur la Régie canadienne de l'énergie, modifiant la Loi sur la protection de la navigation et apportant des modifications corrélatives à d'autres lois (amendement)</DivisionSubjectFr>
+      <DivisionSubject>Motion respecting Senate amendments to Bill C-69, An Act to enact the Impact Assessment Act and the Canadian Energy Regulator Act, to amend the Navigation Protection Act and to make consequential amendments to other Acts (amendment)</DivisionSubject>
+      <DivisionVotesYeas>54</DivisionVotesYeas>
+      <DivisionVotesNays>166</DivisionVotesNays>
+      <DivisionVotePaired>4</DivisionVotePaired>
+      <DivisionVoteTotal>224</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2019-06-13T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>1359</DivisionNumber>
+      <DivisionSubjectEn>Motion respecting Senate amendments to Bill C-69, An Act to enact the Impact Assessment Act and the Canadian Energy Regulator Act, to amend the Navigation Protection Act and to make consequential amendments to other Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>Motion relative aux amendements du Sénat au projet de loi C-69,Loi édictant la Loi sur l'évaluation d'impact et la Loi sur la Régie canadienne de l'énergie, modifiant la Loi sur la protection de la navigation et apportant des modifications corrélatives à d'autres lois</DivisionSubjectFr>
+      <DivisionSubject>Motion respecting Senate amendments to Bill C-69, An Act to enact the Impact Assessment Act and the Canadian Energy Regulator Act, to amend the Navigation Protection Act and to make consequential amendments to other Acts</DivisionSubject>
+      <DivisionVotesYeas>164</DivisionVotesYeas>
+      <DivisionVotesNays>56</DivisionVotesNays>
+      <DivisionVotePaired>4</DivisionVotePaired>
+      <DivisionVoteTotal>224</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2019-06-13T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseRulingAndStatements>
+      <EventTypeId>60154</EventTypeId>
+      <EventTypeNameEn>Major Speaker's Rulings and Statements</EventTypeNameEn>
+      <EventTypeNameFr>Décisions et déclarations importantes de la présidence</EventTypeNameFr>
+      <EventTypeName>Major Speaker's Rulings and Statements</EventTypeName>
+      <ParliamentNumber>42</ParliamentNumber>
+      <SessionNumber>1</SessionNumber>
+      <MeetingNumber>272</MeetingNumber>
+      <HansardNumber>10016104</HansardNumber>
+      <RulingStatementDateTime>2018-03-20T15:08:50</RulingStatementDateTime>
+      <ChamberOrganizationId>1</ChamberOrganizationId>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+    </HouseRulingAndStatements>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Government of Canada takes steps to ensure a clean environment and strong economy</TitleEn>
+      <TitleFr>Le gouvernement du Canada prend des mesures en vue d'assurer un environnement sain et une économie prospère</TitleFr>
+      <Title>Government of Canada takes steps to ensure a clean environment and strong economy</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/environment-climate-change/news/2018/02/government_of_canadatakesstepstoensureacleanenvironmentandstrong.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/environnement-changement-climatique/nouvelles/2018/02/le_gouvernement_ducanadaprenddesmesuresenvuedassurerunenvironnem.html</UrlFr>
+      <Url>https://www.canada.ca/en/environment-climate-change/news/2018/02/government_of_canadatakesstepstoensureacleanenvironmentandstrong.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Benefits for Canadians infographic</TitleEn>
+      <TitleFr>Infographie : avantages pour les Canadiens</TitleFr>
+      <Title>Benefits for Canadians infographic</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/content/dam/themes/environment/conservation/environmental-reviews/infographic-canadians-e.png</UrlEn>
+      <UrlFr>https://www.canada.ca/content/dam/themes/environment/conservation/environmental-reviews/infographic-canadians-f.png</UrlFr>
+      <Url>https://www.canada.ca/content/dam/themes/environment/conservation/environmental-reviews/infographic-canadians-e.png</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Benefits for Indigenous peoples</TitleEn>
+      <TitleFr>Avantages pour les peuples autochtones</TitleFr>
+      <Title>Benefits for Indigenous peoples</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/content/dam/themes/environment/conservation/environmental-reviews/indigenous-e.pdf</UrlEn>
+      <UrlFr>https://www.canada.ca/content/dam/themes/environment/conservation/environmental-reviews/indigenous-f.pdf</UrlFr>
+      <Url>https://www.canada.ca/content/dam/themes/environment/conservation/environmental-reviews/indigenous-e.pdf</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Benefits for companies</TitleEn>
+      <TitleFr>Avantages pour les entreprises</TitleFr>
+      <Title>Benefits for companies</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/content/dam/themes/environment/conservation/environmental-reviews/companies-e.pdf</UrlEn>
+      <UrlFr>https://www.canada.ca/content/dam/themes/environment/conservation/environmental-reviews/companies-f.pdf</UrlFr>
+      <Url>https://www.canada.ca/content/dam/themes/environment/conservation/environmental-reviews/companies-e.pdf</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Better rules to protect Canada's environment and grow the economy</TitleEn>
+      <TitleFr>De meilleures règles pour protéger l'environnement au Canada et favoriser la croissance économique</TitleFr>
+      <Title>Better rules to protect Canada's environment and grow the economy</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/services/environment/conservation/assessments/environmental-reviews.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/services/environnement/conservation/evaluation/examens-environnementaux.html</UrlFr>
+      <Url>https://www.canada.ca/en/services/environment/conservation/assessments/environmental-reviews.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Government of Canada Moves to Restore Trust in Environmental Assessment</TitleEn>
+      <TitleFr>Le gouvernement du Canada agit pour restaurer la confiance dans les évaluations environnementales</TitleFr>
+      <Title>Government of Canada Moves to Restore Trust in Environmental Assessment</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/natural-resources-canada/news/2016/01/government-of-canada-moves-to-restore-trust-in-environmental-assessment.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/ressources-naturelles-canada/nouvelles/2016/01/le-gouvernement-du-canada-agit-pour-restaurer-la-confiance-dans-les-evaluations-environnementales.html</UrlFr>
+      <Url>https://www.canada.ca/en/natural-resources-canada/news/2016/01/government-of-canada-moves-to-restore-trust-in-environmental-assessment.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>The Honourable Jim Carr, Minister of Natural Resources, announces a new federal energy regulator as part of the Government of Canada's new Environmental Assessments and Regulatory Review</TitleEn>
+      <TitleFr>Le ministre des Ressources naturelles du Canada, l'honorable Jim Carr, annonce la mise sur pied d'un nouvel organisme fédéral de réglementation de l'énergie dans le cadre du renouvellement du processus d'évaluation environnementale et des examens réglementaires du gouvernement du Canada</TitleFr>
+      <Title>The Honourable Jim Carr, Minister of Natural Resources, announces a new federal energy regulator as part of the Government of Canada's new Environmental Assessments and Regulatory Review</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/natural-resources-canada/news/2018/02/the_honourable_jimcarrministerofnaturalresourcesannouncesanewfed.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/ressources-naturelles-canada/nouvelles/2018/02/le_ministre_des_ressourcesnaturellesducanadalhonorablejimcarrann.html</UrlFr>
+      <Url>https://www.canada.ca/en/natural-resources-canada/news/2018/02/the_honourable_jimcarrministerofnaturalresourcesannouncesanewfed.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Better rules for major projects become law in Canada: Canada's new approach to impact assessments is designed to protect the environment and grow the economy</TitleEn>
+      <TitleFr>De meilleures règles pour les grands projets ont maintenant force de loi au Canada : La nouvelle approche du Canada en matière d'évaluations d'impact est conçue pour protéger l'environnement et stimuler l'économie</TitleFr>
+      <Title>Better rules for major projects become law in Canada: Canada's new approach to impact assessments is designed to protect the environment and grow the economy</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/environmental-assessment-agency/news/2019/06/better-rules-for-major-projects-become-law-in-canada-canadas-new-approach-to-impact-assessments-is-designed-to-protect-the-environment-and-grow-the.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/agence-evaluation-environnementale/nouvelles/2019/06/de-meilleures-regles-pour-les-grands-projets-ont-maintenant-force-de-loi-au-canada--la-nouvelle-approche-du-canada-en-matiere-devaluations-dimpact-.html</UrlFr>
+      <Url>https://www.canada.ca/en/environmental-assessment-agency/news/2019/06/better-rules-for-major-projects-become-law-in-canada-canadas-new-approach-to-impact-assessments-is-designed-to-protect-the-environment-and-grow-the.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Better Rules to Protect Canada's Environment and Grow the Economy: Benefits for Canadians</TitleEn>
+      <TitleFr>Des meilleures règles pour protéger l'environnement au Canada et assurer la croissance de l'économie : Avantages pour les Canadiens</TitleFr>
+      <Title>Better Rules to Protect Canada's Environment and Grow the Economy: Benefits for Canadians</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/environmental-assessment-agency/news/2019/06/better-rules-to-protect-canadas-environment-and-grow-the-economybenefits-for-canadians.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/agence-evaluation-environnementale/nouvelles/2019/06/des-meilleures-regles-pour-proteger-lenvironnement-aucanada-et-assurer-la-croissance-de-leconomieavantages-pour-les-canadiens.html</UrlFr>
+      <Url>https://www.canada.ca/en/environmental-assessment-agency/news/2019/06/better-rules-to-protect-canadas-environment-and-grow-the-economybenefits-for-canadians.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Better rules to protect Canada's environment and grow the economy: Partnering with Indigenous peoples and advancing reconciliation</TitleEn>
+      <TitleFr>De meilleures règles pour protéger l'environnement au Canada et assurer la croissance de l'économie : Partenariat avec les peuples autochtones afin de soutenir l'initiative de réconciliation</TitleFr>
+      <Title>Better rules to protect Canada's environment and grow the economy: Partnering with Indigenous peoples and advancing reconciliation</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/environmental-assessment-agency/news/2019/06/better-rules-to-protect-canadas-environment-and-grow-the-economy-partnering-with-indigenous-peoples-and-advancing-reconciliation.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/agence-evaluation-environnementale/nouvelles/2019/06/de-meilleures-regles-pour-proteger-lenvironnement-au-canada-et-assurer-la-croissance-de-leconomie--partenariat-avec-les-peuples-autochtones-afin-de.html</UrlFr>
+      <Url>https://www.canada.ca/en/environmental-assessment-agency/news/2019/06/better-rules-to-protect-canadas-environment-and-grow-the-economy-partnering-with-indigenous-peoples-and-advancing-reconciliation.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Better rules to protect Canada's environment and grow the economy: Delivering certainty and investor confidence for companies</TitleEn>
+      <TitleFr>De meilleures règles pour protéger l'environnement au Canada et assurer la croissance de l'économie : Offrir de la certitude aux entreprises et un climat de confiance pour les investisseurs</TitleFr>
+      <Title>Better rules to protect Canada's environment and grow the economy: Delivering certainty and investor confidence for companies</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/environmental-assessment-agency/news/2019/06/better-rules-to-protect-canadas-environment-and-grow-the-economy-delivering-certainty-and-investor-confidence-for-companies.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/agence-evaluation-environnementale/nouvelles/2019/06/de-meilleures-regles-pour-proteger-lenvironnement-au-canada-et-assurer-la-croissance-de-leconomie--offrir-de-la-certitude-aux-entreprises-et-un-cli.html</UrlFr>
+      <Url>https://www.canada.ca/en/environmental-assessment-agency/news/2019/06/better-rules-to-protect-canadas-environment-and-grow-the-economy-delivering-certainty-and-investor-confidence-for-companies.html</Url>
+    </WebReferences>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3279</BibliographicNoticeId>
+      <Title>Public Interest Versus Indigenous Confidence: Indigenous Engagement, Consultation and "Consideration" in the Impact Assessment Act</Title>
+      <Author>David V Wright</Author>
+      <Publication>Journal of environmental law and practice</Publication>
+      <VolumePage>Vol.33 (3), p.185-210</VolumePage>
+      <PublicationDate>2020</PublicationDate>
+      <Classification>Radar 20200901</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3280</BibliographicNoticeId>
+      <Title>Canada's Climate Change Mitigation Commitments and the Role of the Federal Impact Assessment Act</Title>
+      <Author>Flavia Vieira De Castro</Author>
+      <Publication>Journal of environmental law and practice</Publication>
+      <VolumePage>Vol.33 (3), p.211-255</VolumePage>
+      <PublicationDate>2020</PublicationDate>
+      <Classification>Radar 20200901</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3143</BibliographicNoticeId>
+      <Title>Canada's Impact Assessment Act : boon or boondoggle?</Title>
+      <Author>Rick Lindgren</Author>
+      <Publication>The Lawyer's Daily</Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>2018</PublicationDate>
+      <Classification>Radar 27733140</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3197</BibliographicNoticeId>
+      <Title>Drawing lines in the sand : Parliament's jurisdiction to consider upstream and downstream greenhouse gas emissions in interprovincial pipeline project reviews</Title>
+      <Author>Nathalie J. Chalifour</Author>
+      <Publication>Review of Constitutional Studies</Publication>
+      <VolumePage>23(1):129-174</VolumePage>
+      <PublicationDate>2018</PublicationDate>
+      <Classification>Radar 3063416</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3214</BibliographicNoticeId>
+      <Title>The role of science in contemporary Canadian environmental decision making : the example of environmental assessment</Title>
+      <Author>Arthur Richard Westwood, Martin Olszynski, Caroline Fox, Adam T. Ford, Aerin L. Jacob, Jonathan W. Moore, Wendy Jill Palen,</Author>
+      <Publication>University of British Columbia Law Review</Publication>
+      <VolumePage>52(1):243-292</VolumePage>
+      <PublicationDate>January 2019</PublicationDate>
+      <Classification>Radar 31445537</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3166</BibliographicNoticeId>
+      <Title>Projets énergétiques : réduire l'incertitude pour relancer l'investissement</Title>
+      <Author>Alexandre Moreau et Germain Belzile</Author>
+      <Publication>Institut économique de Montréal</Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>Octobre 2018</PublicationDate>
+      <Classification>Radar 29470371</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3169</BibliographicNoticeId>
+      <Title>Energy projects: boosting investment by reducing uncertaintly</Title>
+      <Author>Alexandre Moreau and Germain Belzile</Author>
+      <Publication>Montreal Economic Institute</Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>October 2018</PublicationDate>
+      <Classification>Radar 29469773</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
