@@ -2,7 +2,7 @@
 
 ## Summary
 
-This enactment amends the `Criminal Code` to require that a presentence report contain information on any mental disorder from which the offender suffers.
+This enactment amends the `Criminal Code` to require that a presentence report contain information on any aspect of the offender's mental condition that is relevant for sentencing purposes.
 
 Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
@@ -10,5 +10,5 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 Subsection 721(3) of the `Criminal Code` is amended by adding the following after paragraph (a):
 
-any mental disorder from which the offender suffers as well as any mental health care programs available to them;
+any **aspect of** the offender's mental **condition that is relevant for sentencing purposes,** as well as any mental health **services or support** available to **the offender**;
 
