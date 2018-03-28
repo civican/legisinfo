@@ -38,27 +38,33 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ### Section 1
 
-Subsection 2(2) of the `Firearms Act` is replaced by the following:
+  ****(1)**** Subsection 2(2) of the `Firearms Act` is replaced by the following:
 
-**(2)** Unless otherwise provided, words and expressions used in this Act have the meanings assigned to them by section 2 or 84 of the `Criminal Code`.
+    **(2)** Unless otherwise provided, words and expressions used in this Act have the meanings assigned to them by section 2 or 84 of the `Criminal Code`.
 
+    **(2)** Section 2 of the Act is amended by adding the following after subsection (3):
 
-> **Explanatory Note**:
-> Existing text of subsection 2(2):
-> *Existing Text*:
-> > Unless otherwise provided, words and expressions used in this Act have the meanings assigned to them by section 2 or 84 of the `Criminal Code`. Subsections 117.15(3) and (4) of that Act apply to those words and expressions.
+      **(4)** For greater certainty, nothing in this Act shall be construed so as to permit or require the registration of non-restricted firearms.
 
 ### Section 2
 
-The portion of subsection 5(2) of the Act before paragraph (a) is replaced by the following:
+  ****(1)**** The portion of subsection 5(2) of the Act before paragraph (a) is replaced by the following:
 
-**(2)** In determining whether a person is eligible to hold a licence under subsection (1), a chief firearms officer or, on a reference under section `74`, a provincial court judge shall have regard to whether the person
+    **(2)** In determining whether a person is eligible to hold a licence under subsection (1), a chief firearms officer or, on a reference under section `74`, a provincial court judge shall have regard to whether the person
 
+    **(2)** Subsection 5(2) of the Act is amended by striking out "or" at the end of paragraph (b) and by replacing paragraph (c) with the following:
 
-> **Explanatory Note**:
-> Relevant portion of subsection 5(2):
-> *Existing Text*:
-> > In determining whether a person is eligible to hold a licence under subsection (1), a chief firearms officer or, on a reference under section 74, a provincial court judge shall have regard to whether the person, within the previous five years,
+      has a history of behaviour that includes violence or threatened or attempted violence or threatening conduct on the part of the person against any person;
+
+      is or was previously prohibited by an order — made in the interests of the safety and security of any person — from communicating with an identified person or from being at a specified place or within a specified distance of that place, and presently poses a threat or risk to the safety and security of any person;
+
+      in respect of an offence in the commission of which violence was used, threatened or attempted against the person's intimate partner or former intim­ate partner, was previously prohibited by a prohibition order from possessing any firearm, cross-bow, prohibited weapon, restricted weapon, prohibited device or prohibited ammunition; or
+
+      for any other reason, poses a risk of harm to any person.
+
+    **(3)** Section 5 of the Act is amended by adding the following after subsection (2):
+
+      **(2.1)** For greater certainty, for the purposes of paragraph (2)(c), threatened violence and threatening conduct include threats or conduct communicated by the person to a person by means of the Internet or other digital network.
 
 ### Section 3
 
@@ -164,21 +170,21 @@ The portion of subsection 5(2) of the Act before paragraph (a) is replaced by th
 
   **(1)** Subsections 19(1.1) and (2) of the Act are replaced by the following:
 
-    **(1.1)** In the case of an authorization to transport issued for a reason referred to in paragraph (1)(a) within the province where the holder of the authorization resides, the specified places must — **except in the case of an authorization that is issued for a prohibited firearm referred to in subsection 12(9)** — include all shooting clubs and shooting ranges that are approved under section 29 and that are located in that province.
+    **(1.1)** In the case of an authorization to transport issued for a reason referred to in paragraph (1)(a) within the province where the holder of the authorization resides, the specified places must — except in the case of an authorization that is issued for a prohibited firearm referred to in subsection 12(9) — include all shooting clubs and shooting ranges that are approved under section 29 and that are located in that province.
 
-    **(2)** Despite subsection (1), an individual must not be authorized to transport a prohibited firearm — other than a handgun referred to in subsection 12(6.1) **or a prohibited firearm referred to in subsection 12(9)** — between specified places except for the purposes referred to in paragraph (1)(b).
+    **(2)** Despite subsection (1), an individual must not be authorized to transport a prohibited firearm — other than a handgun referred to in subsection 12(6.1) or a prohibited firearm referred to in subsection 12(9) — between specified places except for the purposes referred to in paragraph (1)(b).
 
   **(2)** Subsections 19(1.1) and (2) of the Act are replaced by the following:
 
-    **(1.1)** In the case of an authorization to transport issued for a reason referred to in paragraph (1)(a) within the province where the holder of the authorization resides, the specified places must — except in the case of an authorization that is issued for a prohibited firearm referred to in subsection 12(9), **(11) or (14)** — include all shooting clubs and shooting ranges that are approved under section 29 and that are located in that province.
+    **(1.1)** In the case of an authorization to transport issued for a reason referred to in paragraph (1)(a) within the province where the holder of the authorization resides, the specified places must — except in the case of an authorization that is issued for a prohibited firearm referred to in subsection 12(9), (11) or (14) — include all shooting clubs and shooting ranges that are approved under section 29 and that are located in that province.
 
-    **(2)** Despite subsection (1), an individual must not be authorized to transport a prohibited firearm — other than a handgun referred to in subsection 12(6.1) or a prohibited firearm referred to in subsection 12(9), **(11) or (14)** — between specified places except for the purposes referred to in paragraph (1)(b).
+    **(2)** Despite subsection (1), an individual must not be authorized to transport a prohibited firearm — other than a handgun referred to in subsection 12(6.1) or a prohibited firearm referred to in subsection 12(9), (11) or (14) — between specified places except for the purposes referred to in paragraph (1)(b).
 
   **(3)** Subsections 19(2.1) to (2.3) of the Act are replaced by the following:
 
-    **(2.1)** An individual who holds a licence authorizing the individual to possess restricted firearms or **handguns referred to in subsection 12(6.1)** must, if the licence is renewed, be authorized to transport them within the individual's province of residence to and from all shooting clubs and shooting ranges that are approved under section 29. **However, the authorization does not apply to a restricted firearm or a handgun referred to in subsection 12(6.1) whose transfer to the individual was approved, in accordance with subparagraph 28(b)(ii), for the purpose of having it form part of a gun collection**.
+    **(2.1)** An individual who holds a licence authorizing the individual to possess restricted firearms or handguns referred to in subsection 12(6.1) must, if the licence is renewed, be authorized to transport them within the individual's province of residence to and from all shooting clubs and shooting ranges that are approved under section 29. However, the authorization does not apply to a restricted firearm or a handgun referred to in subsection 12(6.1) whose transfer to the individual was approved, in accordance with subparagraph 28(b)(ii), for the purpose of having it form part of a gun collection.
 
-    **(2.2)** If a chief firearms officer has authorized the transfer of a prohibited firearm or a restricted firearm to an individual who holds a licence authorizing the individual to possess prohibited firearms or restricted firearms, the individual must be authorized to transport the firearm within the individual's province of residence from the place where **they acquire** it to the place where they may possess it under section 17.
+    **(2.2)** If a chief firearms officer has authorized the transfer of a prohibited firearm or a restricted firearm to an individual who holds a licence authorizing the individual to possess prohibited firearms or restricted firearms, the individual must be authorized to transport the firearm within the individual's province of residence from the place where they acquire it to the place where they may possess it under section 17.
 
     **(2.3)** If a chief firearms officer has authorized the transfer of a restricted firearm or a handgun referred to in subsection 12(6.1) to an individual who holds a licence authorizing the individual to possess a restricted firearm or such a handgun, the individual must be authorized to transport their restricted firearm or handgun within the individual's province of residence to and from all shooting clubs and shooting ranges that are approved under section 29, unless the transfer of the restricted firearm or handgun was approved, in accordance with subparagraph 28(b)(ii), for the purpose of having it form part of a gun collection.
 
@@ -188,9 +194,9 @@ Sections 23 and 23.1 of the Act are replaced by the following:
 
 ### Section 23
 
-  ****(1)**** A person may transfer a non-restricted firearm if, at the time of the transfer,
+  **(1)** A person may transfer **one or more** non-restricted **firearms** if, at the time of the transfer,
 
-    the transferee holds a licence authorizing the transferee to acquire and possess **a non-restricted** firearm;
+    the transferee holds a licence authorizing the transferee to acquire and possess a non-restricted firearm;
 
     the Registrar has, at the transferor's request, issued a reference number for the transfer and provided it to the transferor; and
 
@@ -204,29 +210,13 @@ Sections 23 and 23.1 of the Act are replaced by the following:
 
   **(5)** If the Registrar is not satisfied as set out in subsection (3), he or she may so inform the transferor.
 
-
-> **Explanatory Note**:
-> Existing text of sections 23 and 23.1:
-> *Existing Text*:
-> > A person may transfer a non-restricted firearm if, at the time of the transfer,
-> > the transferee holds a licence authorizing the transferee to acquire and possess that kind of firearm; and
-> > the transferor has no reason to believe that the transferee is not authorized to acquire and possess that kind of firearm.
-> > A transferor referred to in section 23 may request that the Registrar inform the transferor as to whether the transferee, at the time of the transfer, holds and is still eligible to hold the licence referred to in paragraph 23(a), and if such a request is made, the Registrar or his or her delegate, or any other person that the federal Minister may designate, shall so inform the transferor.
-> > Despite sections 12 and 13 of the `Library and Archives of Canada Act` and subsections 6(1) and (3) of the `Privacy Act`, neither the Registrar or his or her delegate nor a designated person shall retain any record of a request made under subsection (1).
-
 ### Section 6
 
 Subsection 54(1) of the Act is replaced by the following:
 
 ### Section 54
 
-  **(1)** A licence, registration certificate or authorization, other than an authorization referred to in subsection 19(2.1), (2.2) or **(2.3)**, may be issued only on application made in the prescribed form — which form may be in writing or electronic — or in the prescribed manner. The application must set out the prescribed information and be accompanied by payment of the prescribed fees.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 54(1):
-> *Existing Text*:
-> > A licence, registration certificate or authorization, other than an authorization referred to in subsection 19(2.1) or (2.2), may be issued only on application made in the prescribed form — which form may be in writing or electronic — or in the prescribed manner. The application must set out the prescribed information and be accompanied by payment of the prescribed fees.
+  **(1)** A licence, registration certificate or authorization, other than an authorization referred to in subsection 19(2.1), (2.2) or (2.3), may be issued only on application made in the prescribed form — which form may be in writing or electronic — or in the prescribed manner. The application must set out the prescribed information and be accompanied by payment of the prescribed fees.
 
 ### Section 7
 
@@ -252,34 +242,17 @@ The Act is amended by adding the following after section 58:
 
   **(2)** The prescribed official may destroy the records transmitted to them under paragraph (1)(c) at the times and in the circumstances that may be prescribed.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 8
 
 Subsection 61(3.1) of the Act is replaced by the following:
 
-**(3.1)** An authorization to transport referred to in subsection 19(1.1), (2.1), (2.2) or **(2.3)** must take the form of a condition attached to a licence.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 61(3.1):
-> *Existing Text*:
-> > An authorization to transport referred to in subsection 19(1.1), (2.1) or (2.2) must take the form of a condition attached to a licence.
+**(3.1)** An authorization to transport referred to in subsection 19(1.1), (2.1), (2.2) or (2.3) must take the form of a condition attached to a licence.
 
 ### Section 9
 
 Paragraph 70(1)(a) of the Act is amended by adding the following after subparagraph (i):
 
 transfers, as defined in section 21, a non-restricted firearm other than in accordance with section 23,
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 70(1):
-> *Existing Text*:
-> > A chief firearms officer may revoke a licence, an authorization to carry or an authorization to transport for any good and sufficient reason including, without limiting the generality of the foregoing,
-> > where the holder of the licence or authorization
 
 ### Section 10
 
@@ -293,7 +266,7 @@ transfers, as defined in section 21, a non-restricted firearm other than in acco
 
   **(2)** Paragraph 85(1)(b) of the French version of the Act is replaced by the following:
 
-    **des armes à feu** acquises ou détenues par des particuliers sous les ordres et pour le compte des forces policières ou d'un ministère fédéral ou provincial;
+    des armes à feu acquises ou détenues par des particuliers sous les ordres et pour le compte des forces policières ou d'un ministère fédéral ou provincial;
 
   **(3)** Subsection 85(1) of the Act is amended by striking out "and" at the end of paragraph (a) and by adding the following after paragraph (b):
 
@@ -303,17 +276,11 @@ transfers, as defined in section 21, a non-restricted firearm other than in acco
 
   **(4)** Subsection 85(2) of the Act is replaced by the following:
 
-    **(2)** A person referred to in **paragraph** (1)**(a) or (b)** who acquires or transfers a firearm shall have the Registrar informed of the acquisition or transfer.
+    **(2)** A person referred to in paragraph (1)(a) or (b) who acquires or transfers a firearm shall have the Registrar informed of the acquisition or transfer.
 
 ### Section 11
 
 Section 90.1 of the Act is repealed.
-
-
-> **Explanatory Note**:
-> Existing text of section 90.1:
-> *Existing Text*:
-> > For the purpose of subsection 23.1(1), the person responding to a request made under that subsection has a right of access to records kept by a chief firearms officer under section 87.
 
 ### Section 12
 
@@ -321,13 +288,7 @@ The portion of section 109 of the Act before paragraph (a) is replaced by the fo
 
 ### Section 109
 
-Every person who commits an offence under section 106, 107 or 108, who contravenes subsection 29(1) or who contravenes a regulation made under paragraph 117(d), (e), (f), (g), (i), (j), **(k.2)**, (l), (m) or (n) the contravention of which has been made an offence under paragraph 117(o)
-
-
-> **Explanatory Note**:
-> Relevant portion of section 109:
-> *Existing Text*:
-> > Every person who commits an offence under section 106, 107 or 108, who contravenes subsection 29(1) or who contravenes a regulation made under paragraph 117(d), (e), (f), (g), (i), (j), (l), (m) or (n) the contravention of which has been made an offence under paragraph 117(o)
+Every person who commits an offence under section 106, 107 or 108, who contravenes subsection 29(1) or who contravenes a regulation made under paragraph 117(d), (e), (f), (g), (i), (j), (k.2), (l), (m) or (n) the contravention of which has been made an offence under paragraph 117(o)
 
 ### Section 13
 
@@ -337,7 +298,7 @@ Every person who commits an offence under section 106, 107 or 108, who contraven
 
   **(2)** Paragraph 117(m) of the Act is replaced by the following:
 
-    regulating the keeping, **transmission** and destruction of records in relation to firearms, prohibited weapons, restricted weapons, prohibited devices and prohibited ammunition;
+    regulating the keeping, transmission and destruction of records in relation to firearms, prohibited weapons, restricted weapons, prohibited devices and prohibited ammunition;
 
   **(3)** Section 117 of the Act is amended by adding the following after paragraph (n):
 
@@ -350,10 +311,6 @@ The Act is amended by adding the following after section 126:
 ### Section 126.1
 
 Every licence of a business that is valid on the commencement day is deemed to include the conditions set out in paragraphs 58.1(1)(a) to (c).
-
-
-> **Explanatory Note**:
-> New.
 
 ### Section 15
 
@@ -368,10 +325,6 @@ authorizations issued under any of paragraphs 19(2.1)(b) to (e), as those paragr
 authorizations issued under paragraph 19(2.2)(b), as that paragraph read immediately before the commencement day, in respect of transportation to and from the places referred to in any of the paragraphs that are set out in paragraph (a).
 
 
-> **Explanatory Note**:
-> New.
-
-
 ### `Criminal Code`
 
 ### Section 16
@@ -380,38 +333,17 @@ The definition **non-restricted firearm** in subsection 84(1) of the `Criminal C
 
 **non-restricted firearm** means a firearm that is neither a prohibited firearm nor a restricted firearm; (**arme à feu sans restriction**)
 
-
-> **Explanatory Note**:
-> Existing text of the definition:
-> *Existing Text*:
-> > **non-restricted firearm** means
-> > a firearm that is neither a prohibited firearm nor a restricted firearm, or
-> > a firearm that is prescribed to be a non-restricted firearm; (**arme à feu sans restriction**)
-
 ### Section 17
 
 Subsection 115(1) of the Act is replaced by the following:
 
 ### Section 115
 
-  **(1)** Unless a prohibition order against a person specifies otherwise, every thing the possession of which is prohibited by the order is forfeited to Her Majesty **if**, on the commencement of the order, **the thing** is in the **person's** possession **or has been seized and detained by, or surrendered to, a peace officer**.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 115(1):
-> *Existing Text*:
-> > Unless a prohibition order against a person specifies otherwise, every thing the possession of which is prohibited by the order that, on the commencement of the order, is in the possession of the person is forfeited to Her Majesty.
+  **(1)** Unless a prohibition order against a person specifies otherwise, every thing the possession of which is prohibited by the order is forfeited to Her Majesty if, on the commencement of the order, the thing is in the person's possession or has been seized and detained by, or surrendered to, a peace officer.
 
 ### Section 18
 
 Subsections 117.15(3) and (4) of the Act are repealed.
-
-
-> **Explanatory Note**:
-> Existing text of subsections 117.15(3) and (4):
-> *Existing Text*:
-> > Despite the definitions prohibited firearm and restricted firearm in subsection 84(1), a firearm that is prescribed to be a non-restricted firearm is deemed not to be a prohibited firearm or a restricted firearm.
-> > Despite the definition prohibited firearm in subsection 84(1), a firearm that is prescribed to be a restricted firearm is deemed not to be a prohibited firearm.
 
 
 ### `Regulations Prescribing Certain Firearms and Other Weapons, Components and Parts of Weapons, Accessories, Cartridge Magazines, Ammunition and Projectiles as Prohibited, Restricted or Non-Restricted`
@@ -420,49 +352,13 @@ Subsections 117.15(3) and (4) of the Act are repealed.
 
 The title of the `Regulations Prescribing Certain Firearms and Other Weapons, Components and Parts of Weapons, Accessories, Cartridge Magazines, Ammunition and Projectiles as Prohibited, Restricted or Non-Restricted` is replaced by the following:
 
-
-> **Explanatory Note**:
-> Existing text of the title:
-> *Existing Text*:
-
 ### Section 20
 
 Sections 3.1 and 3.2 of the Regulations are repealed.
 
-
-> **Explanatory Note**:
-> Existing text of sections 3.1 and 3.2:
-> *Existing Text*:
-> > The firearms listed in Part 2.1 of the schedule that have a barrel that is less than 470 mm in length, and firearms listed in items 3, 4, 6, 7, 9 and 10 of that Part that do not have a barrel, are restricted firearms for the purposes of paragraph (d) of the definition restricted firearm in subsection 84(1) of the `Criminal Code`, except for those firearms that
-> > discharge projectiles in rapid succession during one pressure of the trigger; or
-> > are prohibited firearms within the meaning of paragraph (b) of the definition prohibited firearm in subsection 84(1) of the `Criminal Code`.
-> > The firearms listed in Part 2.1 of the schedule that have a barrel that is at least 470 mm in length, and the firearms listed in items 1, 2, 5, 8 and 11 to 15 of that Part that do not have a barrel, are non-restricted firearms for the purposes of paragraph (b) of the definition non-restricted firearm in subsection 84(1) of the `Criminal Code`, except for those firearms that
-> > discharge projectiles in rapid succession during one pressure of the trigger; or
-> > are prohibited firearms within the meaning of paragraph (b) of the definition prohibited firearm in subsection 84(1) of the `Criminal Code`.
-
 ### Section 21
 
 Part 2.1 of the schedule to the Regulations is repealed.
-
-
-> **Explanatory Note**:
-> Existing text of Part 2.1 of the schedule to the Regulations:
-> *Existing Text*:
-> > Ceská Zbrojovka (CZ) Model CZ858 Tactical-2P rifle
-> > Ceská Zbrojovka (CZ) Model CZ858 Tactical-2V rifle
-> > Ceská Zbrojovka (CZ) Model CZ858 Tactical-4P rifle
-> > Ceská Zbrojovka (CZ) Model CZ858 Tactical-4V rifle
-> > SAN Swiss Arms Model Classic Green rifle
-> > SAN Swiss Arms Model Classic Green carbine
-> > SAN Swiss Arms Model Classic Green CQB rifle
-> > SAN Swiss Arms Model Black Special rifle
-> > SAN Swiss Arms Model Black Special carbine
-> > SAN Swiss Arms Model Black Special CQB rifle
-> > SAN Swiss Arms Model Black Special Target rifle
-> > SAN Swiss Arms Model Blue Star rifle
-> > SAN Swiss Arms Model Heavy Metal rifle
-> > SAN Swiss Arms Model Red Devil rifle
-> > SAN Swiss Arms Model Swiss Arms Edition rifle
 
 
 ### Coming into Force
@@ -494,14 +390,6 @@ Part 2.1 of the schedule to the Regulations is repealed.
 ### Section 24
 
 Section 30 of the `Ending the Long-gun Registry Act` is deemed never to have come into force and is repealed.
-
-
-> **Explanatory Note**:
-> Existing text of section 30:
-> *Existing Text*:
-> > *No administrative, civil or criminal proceedings lie against the Crown, a Crown servant, the Commissioner of Firearms or a chief firearms officer, or any person acting on behalf of or under the direction of any of them, with respect to the destruction, on or after April 5, 2012, of the records and copies referred to in subsections 29(1) and (2).*
-> > *No administrative, civil or criminal proceedings lie against the Crown, a Crown servant, the Commissioner of Firearms, a chief firearms officer, a government institution or the head of a government institution, or any person acting on behalf of or under the direction of any of them, for any act or omission done, during the period beginning on October 25, 2011 and ending on the day on which this subsection comes into force, in purported compliance with the `Access to Information Act` or the `Privacy Act` in relation to any of the records and copies referred to in subsections 29(1) and (2).*
-> > *In subsection (2), "government institution" and "head" have the same meanings as in section 3 of the `Access to Information Act` or the same meanings as in section 3 of the `Privacy Act`, as the case may be.*
 
 
 ### Transitional Provisions
