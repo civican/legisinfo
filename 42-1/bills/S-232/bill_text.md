@@ -1,7 +1,5 @@
 # Bill S-232: An Act respecting Canadian Jewish Heritage Month
 
-**Sponsor**: Senator Frum
-
 ## Summary
 
 This enactment designates the month of May in each and every year as "Canadian Jewish Heritage Month".
