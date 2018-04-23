@@ -265,6 +265,8 @@ Charge — diversion by registered user
 
 Charge — diversion by a farmer
 
+Charge — delivery in a listed province
+
 Charge — combustible waste
 
 Charge — regulations
@@ -1114,7 +1116,7 @@ This Act may be cited as the `Budget Implementation Act, 2018, No. 1`.
 
     the total of all amounts received by the taxpayer in the year on account of
 
-    an earnings loss benefit, **an income replacement benefit (other than an amount determined under subsection 19.1(1), paragraph 23(1)(b) or subsection 26.1(1) of the `Veterans Well-being Act`, as modified, where applicable, under Part 5 of that Act)**, a supplementary retirement benefit or a career impact allowance payable to the taxpayer under Part 2 of the `Veterans Well-being Act`, **or**
+    an earnings loss benefit, an income replacement benefit (other than an amount determined under subsection 19.1(1), paragraph 23(1)(b) or subsection 26.1(1) of the `Veterans Well-being Act`, as modified, where applicable, under Part 5 of that Act), a supplementary retirement benefit or a career impact allowance payable to the taxpayer under Part 2 of the `Veterans Well-being Act`, or
 
     an amount payable under any of subsections 99(6), 109(1) and 115(5) and sections 124 to 126 of the `Veterans Well-being Act`;
 
@@ -1134,7 +1136,7 @@ This Act may be cited as the `Budget Implementation Act, 2018, No. 1`.
 
     the total of all amounts received by the individual in the year on account of
 
-    a retirement income security benefit payable to the individual under Part 2 of the **`Veterans Well-being Act`, or**
+    a retirement income security benefit payable to the individual under Part 2 of the `Veterans Well-being Act`, or
 
     an income replacement benefit payable to the individual under Part 2 of the `Veterans Well-being Act`, if the amount is determined under subsection 19.1(1), paragraph 23(1)(b) or subsection 26.1(1) of that Act (as modified, where applicable, under Part 5 of that Act), and
 
@@ -1148,9 +1150,9 @@ This Act may be cited as the `Budget Implementation Act, 2018, No. 1`.
 
     a Canadian Forces income support benefit payable to the taxpayer under Part 2 of the `Veterans Well-being Act`,
 
-    **pain and suffering compensation, additional pain and suffering compensation** or a critical injury benefit, disability award, death benefit, clothing allowance or detention benefit payable to the taxpayer under Part 3 of **the `Veterans Well-being Act`**,
+    pain and suffering compensation, additional pain and suffering compensation or a critical injury benefit, disability award, death benefit, clothing allowance or detention benefit payable to the taxpayer under Part 3 of the `Veterans Well-being Act`,
 
-    a family caregiver relief benefit or caregiver recognition benefit payable to the taxpayer under Part 3.1 of **the `Veterans Well-being Act`**, or
+    a family caregiver relief benefit or caregiver recognition benefit payable to the taxpayer under Part 3.1 of the `Veterans Well-being Act`, or
 
     an amount payable to the taxpayer under subsection 132(1) of the `Veterans Well-being Act`;
 
@@ -1184,11 +1186,11 @@ This Act may be cited as the `Budget Implementation Act, 2018, No. 1`.
 
   **(1)** Paragraph 87(2)(aa) of the Act is replaced by the following:
 
-    **if** the new corporation was a private corporation immediately after the amalgamation, **the following rules apply**:
+    if the new corporation was a private corporation immediately after the amalgamation, the following rules apply:
 
-    for the purpose of computing the **eligible** refundable dividend tax on hand**and non-eligible refundable dividend tax on hand** (**as defined in** subsection **129(4)**) of the new corporation at the end of its first taxation year there shall be added to the total determined under **those definitions** in respect of the new corporation for the year
+    for the purpose of computing the eligible refundable dividend tax on handand non-eligible refundable dividend tax on hand (as defined in subsection 129(4)) of the new corporation at the end of its first taxation year there shall be added to the total determined under those definitions in respect of the new corporation for the year
 
-    **in respect of the new corporation's eligible refundable dividend tax on hand**, the total of all amounts each of which is the amount, if any, by which the **eligible** refundable dividend tax on hand of a predecessor corporation at the end of its last taxation year exceeds **the total of all amounts each of which is the portion, if any, of** its dividend refund for its last taxation year **from its eligible refundable dividend tax on hand determined under subparagraph 129(1)(a)(i) or clause 129(1)(a)(ii)(B), and**
+    in respect of the new corporation's eligible refundable dividend tax on hand, the total of all amounts each of which is the amount, if any, by which the eligible refundable dividend tax on hand of a predecessor corporation at the end of its last taxation year exceeds the total of all amounts each of which is the portion, if any, of its dividend refund for its last taxation year from its eligible refundable dividend tax on hand determined under subparagraph 129(1)(a)(i) or clause 129(1)(a)(ii)(B), and
 
     in respect of the new corporation's non-eligible refundable dividend tax on hand, the total of all amounts each of which is the amount, if any, by which the non-eligible refundable dividend tax on hand of a predecessor corporation at the end of its last taxation year exceeds the portion, if any, of its dividend refund for its last taxation year from its non-eligible refundable dividend tax on hand determined under clause 129(1)(a)(ii)(A), and
 
@@ -1204,7 +1206,7 @@ This Act may be cited as the `Budget Implementation Act, 2018, No. 1`.
 
   **(1)** The portion of paragraph 104(21.2)(b) of the Act before subparagraph (i) is replaced by the following:
 
-    the beneficiary is, **for the purposes of section 120.4 and** for the purposes of sections 3, 74.3 and 111 as they apply for the purposes of section 110.6,
+    the beneficiary is, for the purposes of section 120.4 and for the purposes of sections 3, 74.3 and 111 as they apply for the purposes of section 110.6,
 
   **(2)** Subsection (1) applies to the 2018 and subsequent taxation years.
 
@@ -1212,9 +1214,9 @@ This Act may be cited as the `Budget Implementation Act, 2018, No. 1`.
 
   **(1)** Clauses 110(1)(f)(v)(A) and (B) of the Act are replaced by the following:
 
-    the employment income earned by the taxpayer as a member of the Canadian Forces, or as a police officer, while serving on a deployed **international** operational mission (as determined by the **Minister** of National Defence **or by a person designated by that Minister**), and
+    the employment income earned by the taxpayer as a member of the Canadian Forces, or as a police officer, while serving on a deployed international operational mission (as determined by the Minister of National Defence or by a person designated by that Minister), and
 
-    the employment income that would have been so earned by the taxpayer if the taxpayer had been paid at the maximum rate of pay that applied, from time to time during the mission, to a **Lieutenant-Colonel (General Service Officers)** of the Canadian Forces,
+    the employment income that would have been so earned by the taxpayer if the taxpayer had been paid at the maximum rate of pay that applied, from time to time during the mission, to a Lieutenant-Colonel (General Service Officers) of the Canadian Forces,
 
   **(2)** Subsection 110(1.3) of the Act is repealed.
 
@@ -1226,7 +1228,7 @@ This Act may be cited as the `Budget Implementation Act, 2018, No. 1`.
 
 ### Section 117.1
 
-      **(1)** The amount of $1,000 referred to in the formula in paragraph 8(1)(s), each of the amounts expressed in dollars in subparagraph 6(1)(b)(v.1), subsection 117(2), the description of B in subsection 118(1), subsection 118(2), paragraph (a) of the description of B in subsection 118(10), subsection 118.01(2), the descriptions of C and F in subsection 118.2(1) and subsections 118.3(1), 122.5(3) and 122.51(1) and (2), the amount of $400,000 referred to in the formula in paragraph 110.6(2)(a), the amounts of **$1,355** and **$2,335** referred to in the description of A, and the amounts of **$12,820** and **$17,025** referred to in the description of B, in the formula in subsection 122.7(2), the amount of **$700** referred to in the description of C, and the amounts of **$24,111** and **$36,483** referred to in the description of D, in the formula in subsection 122.7(3), and each of the amounts expressed in dollars in Part I.2 in relation to tax payable under this Part or Part I.2 for a taxation year shall be adjusted so that the amount to be used under those provisions for the year is the total of
+      **(1)** The amount of $1,000 referred to in the formula in paragraph 8(1)(s), each of the amounts expressed in dollars in subparagraph 6(1)(b)(v.1), subsection 117(2), the description of B in subsection 118(1), subsection 118(2), paragraph (a) of the description of B in subsection 118(10), subsection 118.01(2), the descriptions of C and F in subsection 118.2(1) and subsections 118.3(1), 122.5(3) and 122.51(1) and (2), the amount of $400,000 referred to in the formula in paragraph 110.6(2)(a), the amounts of $1,355 and $2,335 referred to in the description of A, and the amounts of $12,820 and $17,025 referred to in the description of B, in the formula in subsection 122.7(2), the amount of $700 referred to in the description of C, and the amounts of $24,111 and $36,483 referred to in the description of D, in the formula in subsection 122.7(3), and each of the amounts expressed in dollars in Part I.2 in relation to tax payable under this Part or Part I.2 for a taxation year shall be adjusted so that the amount to be used under those provisions for the year is the total of
 
   **(2)** Subsection (1) applies to the 2019 and subsequent taxation years, except that the adjustment provided for in subsection 117.1(1) of the Act, as amended by subsection (1), does not apply for the 2019 taxation year in respect of the amounts of $1,355, $2,335, $12,820, $17,025, $700, $24,111 and $36,483.
 
@@ -1234,11 +1236,11 @@ This Act may be cited as the `Budget Implementation Act, 2018, No. 1`.
 
   **(1)** The description of B in subsection 118(2) of the Act is replaced by the following:
 
-    is 15% of the amount, if any, by which the individual's income for the year would exceed $25,921 if, in computing that income, no amount were included in respect of a gain from a disposition of property to which section 79 applies **and no amount were deductible under paragraph 20(1)(ww)**.
+    is 15% of the amount, if any, by which the individual's income for the year would exceed $25,921 if, in computing that income, no amount were included in respect of a gain from a disposition of property to which section 79 applies and no amount were deductible under paragraph 20(1)(ww).
 
   **(2)** Paragraph (b) of the description of B in subsection 118(3) of the Act is amended by striking out "and" at the end of subparagraph (i) and by replacing subparagraph (ii) with the following:
 
-    the total of all amounts received by the individual in the year on account of a retirement income security benefit under Part 2 of the `**Veterans Well-being Act**`, and
+    the total of all amounts received by the individual in the year on account of a retirement income security benefit under Part 2 of the `Veterans Well-being Act`, and
 
     the total of all amounts received by the individual in the year on account of an income replacement benefit payable to the individual under Part 2 of the `Veterans Well-being Act`, if the amount is determined under subsection 19.1(1), paragraph 23(1)(b) or subsection 26.1(1) of that Act (as modified, where applicable, under Part 5 of that Act).
 
@@ -1254,15 +1256,15 @@ This Act may be cited as the `Budget Implementation Act, 2018, No. 1`.
 
   **(1)** The portion of paragraph 118.2(2)(l) of the Act before subparagraph (ii) is replaced by the following:
 
-    on behalf of the patient who is blind or profoundly deaf or has severe autism, severe diabetes, severe epilepsy, **severe mental impairment** or a severe and prolonged impairment that markedly restricts the use of the patient's arms or legs,
+    on behalf of the patient who is blind or profoundly deaf or has severe autism, severe diabetes, severe epilepsy, severe mental impairment or a severe and prolonged impairment that markedly restricts the use of the patient's arms or legs,
 
-    for an animal **that is**
+    for an animal that is
 
     specially trained to
 
     in the case of severe mental impairment, perform specific tasks (excluding, for greater certainty, the provision of emotional support) that assist the patient in coping with the impairment, and
 
-    **in all other cases**, assist the patient in coping with the impairment, and
+    in all other cases, assist the patient in coping with the impairment, and
 
     provided by a person or organization one of whose main purposes is such training of animals,
 
@@ -1272,9 +1274,9 @@ This Act may be cited as the `Budget Implementation Act, 2018, No. 1`.
 
   **(1)** The definitions **excluded amount** and **specified individual** in subsection 120.4(1) of the Act are replaced by the following:
 
-    **excluded amount**, in respect of an individual for a taxation year, means an amount that is the **individual's** income **for the year** from, or the **individual's** taxable capital gain or profit for the year from the disposition of, a property **to the extent that** the amount
+    **excluded amount**, in respect of an individual for a taxation year, means an amount that is the individual's income for the year from, or the individual's taxable capital gain or profit for the year from the disposition of, a property to the extent that the amount
 
-    **if the individual has not attained the age of 24 years before the year, is from** a property **that was** acquired by, or for the benefit of, the individual as a consequence of the death of **a person who is**
+    if the individual has not attained the age of 24 years before the year, is from a property that was acquired by, or for the benefit of, the individual as a consequence of the death of a person who is
 
     a parent of the individual, or
 
@@ -1284,7 +1286,7 @@ This Act may be cited as the `Budget Implementation Act, 2018, No. 1`.
 
     an individual in respect of whom an amount may be deducted under section 118.3 in computing a taxpayer's tax payable under this Part for the year;
 
-    **is from a property acquired by the individual under a transfer described in subsection 160(4);**
+    is from a property acquired by the individual under a transfer described in subsection 160(4);
 
     is a taxable capital gain that arises because of subsection 70(5);
 
@@ -1308,7 +1310,7 @@ This Act may be cited as the `Budget Implementation Act, 2018, No. 1`.
 
     a reasonable return in respect of the individual. (**montant exclu**)
 
-    **specified individual**, **for** a taxation year, means an individual (**other than a trust**) who
+    **specified individual**, for a taxation year, means an individual (other than a trust) who
 
     is resident in Canada
 
@@ -1316,11 +1318,11 @@ This Act may be cited as the `Budget Implementation Act, 2018, No. 1`.
 
     in any other case, at the end of the year; and
 
-    **if the individual has** not attained the age of 17 years before the year, has a parent resident in Canada at any time in the year. (**particulier déterminé**)
+    if the individual has not attained the age of 17 years before the year, has a parent resident in Canada at any time in the year. (**particulier déterminé**)
 
   **(2)** Subparagraph (b)(ii) of the definition **split income** in subsection 120.4(1) of the Act is replaced by the following:
 
-    can reasonably be considered to be income derived **directly or indirectly from**
+    can reasonably be considered to be income derived directly or indirectly from
 
     one or more related businesses in respect of the individual for the year, or
 
@@ -1332,7 +1334,7 @@ This Act may be cited as the `Budget Implementation Act, 2018, No. 1`.
 
   **(3)** Clauses (c)(ii)(C) and (D) of the definition **split income** in subsection 120.4(1) of the Act are replaced by the following:
 
-    to be income derived **directly or indirectly** from **one or more related businesses in respect of the individual for the year**, or
+    to be income derived directly or indirectly from one or more related businesses in respect of the individual for the year, or
 
     to be income derived from the rental of property by a particular partnership or trust, if a person who is related to the individual at any time in the year is actively engaged on a regular basis in the activities of the particular partnership or trust related to the rental of property,
 
@@ -1512,19 +1514,19 @@ This Act may be cited as the `Budget Implementation Act, 2018, No. 1`.
 
   **(7)** Subsections 120.4(3) to (5) of the Act are replaced by the following:
 
-    **(3)** Notwithstanding any other provision of this Act, **if** an individual is a specified individual **for** a taxation year, the individual's tax payable under this Part for the year shall not be less than the amount by which the amount added under subsection (2) to the individual's tax payable under this Part for the year exceeds **the amount determined by the formula**
+    **(3)** Notwithstanding any other provision of this Act, if an individual is a specified individual for a taxation year, the individual's tax payable under this Part for the year shall not be less than the amount by which the amount added under subsection (2) to the individual's tax payable under this Part for the year exceeds the amount determined by the formula
 
       is the amount deducted under section 118.3 in computing the individual's tax payable under this Part for the year; and
 
-      **is** the total of all amounts each of which is the amount that
+      is the total of all amounts each of which is the amount that
 
       may be deducted under section 121 or 126 in computing the individual's tax payable under this Part for the year, and
 
       can reasonably be considered to be in respect of an amount included in computing the individual's split income for the year.
 
-    **(4)** If a specified individual **who has not attained the age of 17 years before a taxation year** would have for **the** taxation year, if this Act were read without reference to this section, a taxable capital gain (other than an excluded amount) from a disposition of shares (other than shares of a class listed on a designated stock exchange or shares of a mutual fund corporation) that are transferred, either directly or indirectly, in any manner whatever, to a person with whom the specified individual does not deal at arm's length, then the amount of that taxable capital gain is deemed not to be a taxable capital gain and twice the amount is deemed to be received by the specified individual in the year as a taxable dividend that is not an eligible dividend.
+    **(4)** If a specified individual who has not attained the age of 17 years before a taxation year would have for the taxation year, if this Act were read without reference to this section, a taxable capital gain (other than an excluded amount) from a disposition of shares (other than shares of a class listed on a designated stock exchange or shares of a mutual fund corporation) that are transferred, either directly or indirectly, in any manner whatever, to a person with whom the specified individual does not deal at arm's length, then the amount of that taxable capital gain is deemed not to be a taxable capital gain and twice the amount is deemed to be received by the specified individual in the year as a taxable dividend that is not an eligible dividend.
 
-    **(5)** If a specified individual **who has not attained the age of 17 years before a the taxation year** would be, if this Act were read without reference to this section, required under **subsection** 104(13) or 105(2) to include an amount in computing the specified individual's income for **the** taxation year, then to the extent that the amount can reasonably be considered to be attributable to a taxable capital gain (other than an excluded amount) of a trust from a disposition of shares (other than shares of a class listed on a designated stock exchange or shares of a mutual fund corporation) that are transferred, either directly or indirectly, in any manner whatever, to a person with whom the specified individual does not deal at arm's length, **subsections** 104(13) and 105(2) do not apply in respect of the amount and twice the amount is deemed to be received by the specified individual in the year as a taxable dividend that is not an eligible dividend.
+    **(5)** If a specified individual who has not attained the age of 17 years before a the taxation year would be, if this Act were read without reference to this section, required under subsection 104(13) or 105(2) to include an amount in computing the specified individual's income for the taxation year, then to the extent that the amount can reasonably be considered to be attributable to a taxable capital gain (other than an excluded amount) of a trust from a disposition of shares (other than shares of a class listed on a designated stock exchange or shares of a mutual fund corporation) that are transferred, either directly or indirectly, in any manner whatever, to a person with whom the specified individual does not deal at arm's length, subsections 104(13) and 105(2) do not apply in respect of the amount and twice the amount is deemed to be received by the specified individual in the year as a taxable dividend that is not an eligible dividend.
 
   **(8)** Subsections (1) to (7) apply to the 2018 and subsequent taxation years. For the 2018 taxation year, the portion of paragraph (b) of the definition excluded shares in subsection 120.4(1) of the Act before subparagraph (i), as enacted by subsection (5), is to be read as follows:
 
@@ -1546,7 +1548,7 @@ This Act may be cited as the `Budget Implementation Act, 2018, No. 1`.
 
   **(1)** Paragraph (b) of the definition **adjusted income** in subsection 122.5(1) of the Act is replaced by the following:
 
-    deductible under paragraph **20(1)(ww) or** 60(y) or (z). (**revenu rajusté**)
+    deductible under paragraph 20(1)(ww) or 60(y) or (z). (**revenu rajusté**)
 
   **(2)** Subsection (1) applies to the 2018 and subsequent taxation years.
 
@@ -1554,7 +1556,7 @@ This Act may be cited as the `Budget Implementation Act, 2018, No. 1`.
 
   **(1)** Paragraph (b) of the definition **adjusted income** in section 122.6 of the Act is replaced by the following:
 
-    deductible under paragraph **20(1)(ww) or** 60(y) or (z); (**revenu modifié**)
+    deductible under paragraph 20(1)(ww) or 60(y) or (z); (**revenu modifié**)
 
   **(2)** Subsection (1) applies to the 2018 and subsequent taxation years.
 
@@ -1562,14 +1564,14 @@ This Act may be cited as the `Budget Implementation Act, 2018, No. 1`.
 
 The portion of subsection 122.61(5) of the Act before paragraph (a) is replaced by the following:
 
-**(5)** Each amount expressed in dollars in subsection (1) shall be adjusted so that, where the base taxation year in relation to a particular month is after **2016**, the amount to be used under that subsection for the month is the total of
+**(5)** Each amount expressed in dollars in subsection (1) shall be adjusted so that, where the base taxation year in relation to a particular month is after 2016, the amount to be used under that subsection for the month is the total of
 
 ### Section 18
 
   **(1)** The heading of Subdivision A.2 of Division E of Part I of the Act is replaced by the following:
 
 
-#### **Canada Workers Benefit**
+#### Canada Workers Benefit
 
   **(2)** Subsection (1) comes into force on January 1, 2019.
 
@@ -1577,33 +1579,33 @@ The portion of subsection 122.61(5) of the Act before paragraph (a) is replaced 
 
   **(1)** Paragraph (c) of the definition **adjusted net income** in subsection 122.7(1) of the Act is replaced by the following:
 
-    in computing that income, no amount were deductible under paragraph **20(1)(ww) or** 60(y) or (z). (**revenu net rajusté**)
+    in computing that income, no amount were deductible under paragraph 20(1)(ww) or 60(y) or (z). (**revenu net rajusté**)
 
   **(2)** The descriptions of A and B in subsection 122.7(2) of the Act are replaced by the following:
 
     is
 
-    if the individual had neither an eligible spouse nor an eligible dependant, for the taxation year, the lesser of **$1,355** and **26%** of the amount, if any, by which the individual's working income for the taxation year exceeds $3,000, or
+    if the individual had neither an eligible spouse nor an eligible dependant, for the taxation year, the lesser of $1,355 and 26% of the amount, if any, by which the individual's working income for the taxation year exceeds $3,000, or
 
-    if the individual had an eligible spouse or an eligible dependant, for the taxation year, the lesser of **$2,335** and **26%** of the amount, if any, by which the total of the working incomes of the individual and, if applicable, of the eligible spouse, for the taxation year, exceeds $3,000; and
+    if the individual had an eligible spouse or an eligible dependant, for the taxation year, the lesser of $2,335 and 26% of the amount, if any, by which the total of the working incomes of the individual and, if applicable, of the eligible spouse, for the taxation year, exceeds $3,000; and
 
     is
 
-    if the individual had neither an eligible spouse nor an eligible dependant, for the taxation year, **12%** of the amount, if any, by which the adjusted net income of the individual for the taxation year exceeds **$12,820**, or
+    if the individual had neither an eligible spouse nor an eligible dependant, for the taxation year, 12% of the amount, if any, by which the adjusted net income of the individual for the taxation year exceeds $12,820, or
 
-    if the individual had an eligible spouse or an eligible dependant, for the taxation year, **12%** of the amount, if any, by which the total of the adjusted net incomes of the individual and, if applicable, of the eligible spouse, for the taxation year, exceeds **$17,025**.
+    if the individual had an eligible spouse or an eligible dependant, for the taxation year, 12% of the amount, if any, by which the total of the adjusted net incomes of the individual and, if applicable, of the eligible spouse, for the taxation year, exceeds $17,025.
 
   **(3)** The descriptions of C and D in subsection 122.7(3) of the Act are replaced by the following:
 
-    is the lesser of **$700** and **26%** of the amount, if any, by which the individual's working income for the taxation year exceeds $1,150; and
+    is the lesser of $700 and 26% of the amount, if any, by which the individual's working income for the taxation year exceeds $1,150; and
 
     is
 
-    if the individual had neither an eligible spouse nor an eligible dependant, for the taxation year, **12%** of the amount, if any, by which the individual's adjusted net income for the taxation year exceeds **$24,111**,
+    if the individual had neither an eligible spouse nor an eligible dependant, for the taxation year, 12% of the amount, if any, by which the individual's adjusted net income for the taxation year exceeds $24,111,
 
-    if the individual had an eligible spouse for the taxation year who was not entitled to deduct an amount under subsection 118.3(1) for the taxation year, or had an eligible dependant for the taxation year, **12%** of the amount, if any, by which the total of the adjusted net incomes of the individual and, if applicable, of the eligible spouse, for the taxation year, exceeds **$36,483**, or
+    if the individual had an eligible spouse for the taxation year who was not entitled to deduct an amount under subsection 118.3(1) for the taxation year, or had an eligible dependant for the taxation year, 12% of the amount, if any, by which the total of the adjusted net incomes of the individual and, if applicable, of the eligible spouse, for the taxation year, exceeds $36,483, or
 
-    if the individual had an eligible spouse for the taxation year who was entitled to deduct an amount under subsection 118.3(1) for the taxation year, **6%** of the amount, if any, by which the total of the adjusted net incomes of the individual and of the eligible spouse, for the taxation year, exceeds **$36,483**.
+    if the individual had an eligible spouse for the taxation year who was entitled to deduct an amount under subsection 118.3(1) for the taxation year, 6% of the amount, if any, by which the total of the adjusted net incomes of the individual and of the eligible spouse, for the taxation year, exceeds $36,483.
 
   **(4)** Subsection (1) applies to the 2018 and subsequent taxation years.
 
@@ -1613,19 +1615,19 @@ The portion of subsection 122.61(5) of the Act before paragraph (a) is replaced 
 
   **(1)** Paragraphs 125(1.1)(a) and (b) of the Act are replaced by the following:
 
-    that proportion of **17.5%** that the number of days in the taxation year that are **before 2018** is of the number of days in the taxation year,
+    that proportion of 17.5% that the number of days in the taxation year that are before 2018 is of the number of days in the taxation year,
 
-    that proportion of **18%** that the number of days in the taxation year that are **in 2018** is of the number of days in the taxation year, and
+    that proportion of 18% that the number of days in the taxation year that are in 2018 is of the number of days in the taxation year, and
 
     that proportion of 19% that the number of days in the taxation year that are after 2018 is of the number of days in the taxation year.
 
   **(2)** Subsection 125(5.1) of the Act is replaced by the following:
 
-    **(5.1)** Notwithstanding subsections (2), (3), (4) and (5), a Canadian-controlled private corporation's business limit for a particular taxation year ending in a calendar year is the amount, if any, by which its business limit otherwise determined for the particular **taxation** year exceeds **the greater of**
+    **(5.1)** Notwithstanding subsections (2), (3), (4) and (5), a Canadian-controlled private corporation's business limit for a particular taxation year ending in a calendar year is the amount, if any, by which its business limit otherwise determined for the particular taxation year exceeds the greater of
 
       the amount determined by the formula
 
-      is the amount that would, but for this subsection, be the corporation's business limit for the particular **taxation** year, and
+      is the amount that would, but for this subsection, be the corporation's business limit for the particular taxation year, and
 
       is the amount determined by the formula
 
@@ -1677,7 +1679,7 @@ The portion of subsection 122.61(5) of the Act before paragraph (a) is replaced 
 
     **adjusted aggregate investment income**, of a corporation (other than a corporation that is deemed not to be a private corporation by subsection 136(1) or 137(7) or section 141.1) for a taxation year, means the amount that would be the aggregate investment income (as defined in subsection 129(4)) of the corporation for the year, if
 
-    **paragraph (a) of that definition read as follows:**
+    paragraph (a) of that definition read as follows:
 
     the amount, if any, by which
 
@@ -1715,13 +1717,13 @@ The portion of subsection 122.61(5) of the Act before paragraph (a) is replaced 
 
   **(1)** Paragraph (a) of the definition **flow-through mining expenditure** in subsection 127(9) of the Act is replaced by the following:
 
-    that is a Canadian exploration expense incurred by a corporation after March **2018** and before **2020** (including, for greater certainty, an expense that is deemed by subsection 66(12.66) to be incurred before **2020**) in conducting mining exploration activity from or above the surface of the earth for the purpose of determining the existence, location, extent or quality of a mineral resource described in paragraph (a) or (d) of the definition mineral resource in subsection 248(1),
+    that is a Canadian exploration expense incurred by a corporation after March 2018 and before 2020 (including, for greater certainty, an expense that is deemed by subsection 66(12.66) to be incurred before 2020) in conducting mining exploration activity from or above the surface of the earth for the purpose of determining the existence, location, extent or quality of a mineral resource described in paragraph (a) or (d) of the definition mineral resource in subsection 248(1),
 
   **(2)** Paragraphs (c) and (d) of the definition **flow-through mining expenditure** in subsection 127(9) of the Act are replaced by the following:
 
-    an amount in respect of which is renounced in accordance with subsection 66(12.6) by the corporation to the taxpayer (or a partnership of which the taxpayer is a member) under an agreement described in that subsection and made after March **2018** and before April **2019**, and
+    an amount in respect of which is renounced in accordance with subsection 66(12.6) by the corporation to the taxpayer (or a partnership of which the taxpayer is a member) under an agreement described in that subsection and made after March 2018 and before April 2019, and
 
-    that is not an expense that was renounced under subsection 66(12.6) to the corporation (or a partnership of which the corporation is a member), unless that renunciation was under an agreement described in that subsection and made after March **2018** and before April **2019**; (**dépense minière déterminée**)
+    that is not an expense that was renounced under subsection 66(12.6) to the corporation (or a partnership of which the corporation is a member), unless that renunciation was under an agreement described in that subsection and made after March 2018 and before April 2019; (**dépense minière déterminée**)
 
   **(3)** Subsections (1) and (2) apply in respect of expenses renounced under a flow-through share agreement entered into after March 2018.
 
@@ -1729,7 +1731,7 @@ The portion of subsection 122.61(5) of the Act before paragraph (a) is replaced 
 
   **(1)** Paragraph 129(1)(a) of the Act is replaced by the following:
 
-    may, on sending the notice of assessment for the year, refund without application an amount (in this Act referred to as its "dividend refund" for the year) **in respect of taxable dividends paid by the corporation on shares of its capital stock in the year, and at a time when it was a private corporation, equal to the total of**
+    may, on sending the notice of assessment for the year, refund without application an amount (in this Act referred to as its "dividend refund" for the year) in respect of taxable dividends paid by the corporation on shares of its capital stock in the year, and at a time when it was a private corporation, equal to the total of
 
     in respect of eligible dividends, an amount equal to the lesser of
 
@@ -1757,7 +1759,7 @@ The portion of subsection 122.61(5) of the Act before paragraph (a) is replaced 
 
   **(2)** The portion of subsection 129(1.1) of the Act before paragraph (a) is replaced by the following:
 
-    **(1.1)** In determining the dividend refund for a taxation year ending after 1977 of a particular corporation, no amount may be included **under clause (1)(a)(i)(A), subclause (1)(a)(ii)(A)(I) or sub-subclause (1)(a)(ii)(B)(I)1** in respect of a taxable dividend paid to a shareholder that
+    **(1.1)** In determining the dividend refund for a taxation year ending after 1977 of a particular corporation, no amount may be included under clause (1)(a)(i)(A), subclause (1)(a)(ii)(A)(I) or sub-subclause (1)(a)(ii)(B)(I)1 in respect of a taxable dividend paid to a shareholder that
 
   **(3)** Subsection 129(3) of the Act is repealed.
 
@@ -1865,11 +1867,11 @@ The portion of subsection 122.61(5) of the Act before paragraph (a) is replaced 
 
   **(1)** Paragraph 131(5)(a) of the Act is replaced by the following:
 
-    is deemed for the purposes of paragraph 87(2)(aa) and section 129 to have been a private corporation throughout the year, except that its **non-eligible** refundable dividend tax on hand (**as defined in** subsection **129(4)**) at the end of the year shall be determined without reference to paragraph **(a) of that definition**; and
+    is deemed for the purposes of paragraph 87(2)(aa) and section 129 to have been a private corporation throughout the year, except that its non-eligible refundable dividend tax on hand (as defined in subsection 129(4)) at the end of the year shall be determined without reference to paragraph (a) of that definition; and
 
   **(2)** Paragraph 131(11)(a) of the Act is replaced by the following:
 
-    for the purposes of subparagraphs (a)(i) and (ii) **of the definition non-eligible refundable dividend tax on hand in subsection 129(4)**, the amount deducted under paragraph 111(1)(b) from the corporation's income for each taxation year ending after that time shall be deemed to be nil;
+    for the purposes of subparagraphs (a)(i) and (ii) of the definition non-eligible refundable dividend tax on hand in subsection 129(4), the amount deducted under paragraph 111(1)(b) from the corporation's income for each taxation year ending after that time shall be deemed to be nil;
 
   **(3)** Subject to subsection `20`(5), subsections (1) and (2) apply to taxation years that begin after 2018.
 
@@ -1877,13 +1879,13 @@ The portion of subsection 122.61(5) of the Act before paragraph (a) is replaced 
 
 Clause (a)(ii)(B.1) of the definition **disability savings plan** in subsection 146.4(1) of the Act is replaced by the following:
 
-if the arrangement is entered into before **2024**, a qualifying family member in relation to the beneficiary who, at the time the arrangement is entered into, is a qualifying person in relation to the beneficiary,
+if the arrangement is entered into before 2024, a qualifying family member in relation to the beneficiary who, at the time the arrangement is entered into, is a qualifying person in relation to the beneficiary,
 
 ### Section 25
 
   **(1)** Subparagraph (a)(iv) of the definition **qualified donee** in subsection 149.1(1) of the Act is replaced by the following:
 
-    a university outside Canada, the student body of which ordinarily includes students from Canada, **that has applied for registration**, or
+    a university outside Canada, the student body of which ordinarily includes students from Canada, that has applied for registration, or
 
   **(2)** Subsection (1) is deemed to have come into force on February 27, 2018, except that
 
@@ -1895,9 +1897,9 @@ if the arrangement is entered into before **2024**, a qualifying family member i
 
   **(1)** Subsection 160(1.2) of the Act is replaced by the following:
 
-    **(1.2)** **If an** amount is required to be added because of subsection 120.4(2) in computing a specified individual's tax payable under this Part for a taxation year **and the specified individual has not attained the age of 24 years before the start of the year, the following rules apply**:
+    **(1.2)** If an amount is required to be added because of subsection 120.4(2) in computing a specified individual's tax payable under this Part for a taxation year and the specified individual has not attained the age of 24 years before the start of the year, the following rules apply:
 
-      **subject to paragraph (b)**, a **particular individual** is jointly and severally, or solidarily, liable with the **specified** individual for the amount if
+      subject to paragraph (b), a particular individual is jointly and severally, or solidarily, liable with the specified individual for the amount if
 
       where the specified individual has not attained the age of 17 years before the year, the particular individual is a parent of the specified individual, and
 
@@ -1915,7 +1917,7 @@ if the arrangement is entered into before **2024**, a qualifying family member i
 
       the specified individual under any other provision of this Act, or
 
-      **the particular individual** for the interest that the **particular individual** is liable to pay under this Act on an assessment in respect of the amount that the **particular individual** is liable to pay because of this subsection.
+      the particular individual for the interest that the particular individual is liable to pay under this Act on an assessment in respect of the amount that the particular individual is liable to pay because of this subsection.
 
   **(2)** Subsection (1) applies to the 2018 and subsequent taxation years.
 
@@ -1923,7 +1925,7 @@ if the arrangement is entered into before **2024**, a qualifying family member i
 
   **(1)** The portion of subsection 162(6) of the Act before paragraph (a) is replaced by the following:
 
-    **(6)** Every person or partnership who fails to provide on request their business number, their Social Insurance Number, **their trust account number** or their U.S. federal taxpayer identifying number to a person required under this Act or **the Regulations** to make an information return requiring the number is liable to a penalty of $100 for each such failure, unless
+    **(6)** Every person or partnership who fails to provide on request their business number, their Social Insurance Number, their trust account number or their U.S. federal taxpayer identifying number to a person required under this Act or the Regulations to make an information return requiring the number is liable to a penalty of $100 for each such failure, unless
 
   **(2)** Subsection (1) applies to the 2018 and subsequent taxation years.
 
@@ -1931,7 +1933,7 @@ if the arrangement is entered into before **2024**, a qualifying family member i
 
   **(1)** Paragraph (b) of the definition **adjusted income** in subsection 180.2(1) of the Act is replaced by the following:
 
-    deductible under paragraph **20(1)(ww) or** 60(w), (y) or (z); (**revenu modifié**)
+    deductible under paragraph 20(1)(ww) or 60(w), (y) or (z); (**revenu modifié**)
 
   **(2)** Subsection (1) applies to the 2018 and subsequent taxation years.
 
@@ -1939,7 +1941,7 @@ if the arrangement is entered into before **2024**, a qualifying family member i
 
   **(1)** Subsection 186(5) of the Act is replaced by the following:
 
-    **(5)** A corporation that is at any time in a taxation year a subject corporation shall, for the purposes of paragraph 87(2)(aa) and section 129, be deemed to be a private corporation at that time, except that its **non-eligible** refundable dividend tax on hand (**as defined in** subsection **129(4)**) at the end of the year shall be determined without reference to paragraph (a) **of that definition**.
+    **(5)** A corporation that is at any time in a taxation year a subject corporation shall, for the purposes of paragraph 87(2)(aa) and section 129, be deemed to be a private corporation at that time, except that its non-eligible refundable dividend tax on hand (as defined in subsection 129(4)) at the end of the year shall be determined without reference to paragraph (a) of that definition.
 
   **(2)** Subject to subsection `20`(5), subsection (1) applies to taxation years that begin after 2018.
 
@@ -1959,9 +1961,9 @@ if the arrangement is entered into before **2024**, a qualifying family member i
 
       that has filed all information returns required by subsection 149.1(14), and
 
-      that is not the subject of a certificate under subsection 5(1) of the `Charities Registration (Security Information) Act` or, if it is the subject of such a certificate, the certificate has been determined under subsection 7(1) of that Act not to be reasonable; **or**
+      that is not the subject of a certificate under subsection 5(1) of the `Charities Registration (Security Information) Act` or, if it is the subject of such a certificate, the certificate has been determined under subsection 7(1) of that Act not to be reasonable; or
 
-      **a municipality in Canada that is approved by the Minister in respect of a transfer of property from the particular charity.**
+      a municipality in Canada that is approved by the Minister in respect of a transfer of property from the particular charity.
 
   **(2)** Subsection (1) applies in respect of transfers of property made after February 26, 2018.
 
@@ -1969,7 +1971,7 @@ if the arrangement is entered into before **2024**, a qualifying family member i
 
   **(1)** The portion of subsection 189(6.3) of the Act before paragraph (a) is replaced by the following:
 
-    **(6.3)** If the Minister has assessed a particular person in respect of the particular person's liability for penalties under section 188.1 for a taxation year, and that liability exceeds $1,000, that liability is, at any particular time, reduced by the total of all amounts, each of which is an amount, in respect of a property transferred by the particular person after the day on which the Minister first assessed that liability and before the particular time to another person that was at the time of the transfer an eligible donee **described in paragraph 188(1.3)(a)** in respect of the particular person, equal to the amount, if any, by which the fair market value of the property, when transferred, exceeds the total of
+    **(6.3)** If the Minister has assessed a particular person in respect of the particular person's liability for penalties under section 188.1 for a taxation year, and that liability exceeds $1,000, that liability is, at any particular time, reduced by the total of all amounts, each of which is an amount, in respect of a property transferred by the particular person after the day on which the Minister first assessed that liability and before the particular time to another person that was at the time of the transfer an eligible donee described in paragraph 188(1.3)(a) in respect of the particular person, equal to the amount, if any, by which the fair market value of the property, when transferred, exceeds the total of
 
   **(2)** Subsection (1) applies in respect of transfers of property made on or after February 27, 2018.
 
@@ -1977,7 +1979,7 @@ if the arrangement is entered into before **2024**, a qualifying family member i
 
   **(1)** Paragraph 221(1)(d.1) of the Act is replaced by the following:
 
-    requiring any person or partnership to provide any information — including their name, address, business number, Social Insurance Number **or trust account number** — to any class of persons required to make an information return containing that information;
+    requiring any person or partnership to provide any information — including their name, address, business number, Social Insurance Number or trust account number — to any class of persons required to make an information return containing that information;
 
   **(2)** Subsection (1) applies to the 2018 and subsequent taxation years.
 
@@ -1985,11 +1987,11 @@ if the arrangement is entered into before **2024**, a qualifying family member i
 
   **(1)** Subsections 237(1.1) to (3) of the Act are replaced by the following:
 
-    **(1.1)** Every person and partnership shall provide **their designated number**
+    **(1.1)** Every person and partnership shall provide their designated number
 
       in any return filed under this Act; and
 
-      **to another** person or partnership at the request of **the other** person **or partnership, if the other person or partnership** is required to make an information return pursuant to this Act or the Regulations requiring the designated **number**.
+      to another person or partnership at the request of the other person or partnership, if the other person or partnership is required to make an information return pursuant to this Act or the Regulations requiring the designated number.
 
     **(1.2)** For the purpose of subsection (1.1), **designated number**, of a person or partnership, means
 
@@ -1999,17 +2001,17 @@ if the arrangement is entered into before **2024**, a qualifying family member i
 
       in any other case, the person's or partnership's business number.
 
-    **(2)** For the purposes of this Act and the **Regulations**, a person **or partnership** required to make an information return requiring a business number, Social Insurance Number or **trust account number** of **another** person or partnership
+    **(2)** For the purposes of this Act and the Regulations, a person or partnership required to make an information return requiring a business number, Social Insurance Number or trust account number of another person or partnership
 
-      shall make a reasonable effort to obtain the number from the **other** person or partnership; and
+      shall make a reasonable effort to obtain the number from the other person or partnership; and
 
-      shall not knowingly use, communicate or allow to be communicated, otherwise than as required or authorized under this Act or a regulation, the number without the written consent of the **other** person or partnership.
+      shall not knowingly use, communicate or allow to be communicated, otherwise than as required or authorized under this Act or a regulation, the number without the written consent of the other person or partnership.
 
-    **(3)** A particular person may communicate, or allow to be communicated, a business number, Social Insurance Number or **trust account number** to another person related to the particular person where the other person is required, by this Act or the Regulations, to make an information return that requires the number.
+    **(3)** A particular person may communicate, or allow to be communicated, a business number, Social Insurance Number or trust account number to another person related to the particular person where the other person is required, by this Act or the Regulations, to make an information return that requires the number.
 
   **(2)** The portion of subsection 237(4) of the Act before paragraph (a) is replaced by the following:
 
-    **(4)** An insurance corporation may communicate, or allow to be communicated, to another person the business number, Social Insurance Number or **trust account number** of a particular person or partnership **if**
+    **(4)** An insurance corporation may communicate, or allow to be communicated, to another person the business number, Social Insurance Number or trust account number of a particular person or partnership if
 
   **(3)** Paragraph 237(4)(c) of the Act is replaced by the following:
 
@@ -2021,7 +2023,7 @@ if the arrangement is entered into before **2024**, a qualifying family member i
 
   **(1)** Paragraph 237.1(7)(a) of the Act is replaced by the following:
 
-    the name, address and the business number, Social Insurance Number or **trust account number** of each person who so acquires or otherwise invests in the tax shelter in the year,
+    the name, address and the business number, Social Insurance Number or trust account number of each person who so acquires or otherwise invests in the tax shelter in the year,
 
   **(2)** Subsection (1) applies to the 2018 and subsequent taxation years.
 
@@ -2029,7 +2031,7 @@ if the arrangement is entered into before **2024**, a qualifying family member i
 
   **(1)** Subsection 239(2.3) of the Act is replaced by the following:
 
-    **(2.3)** Every person to whom the business number of a taxpayer or partnership, to whom the Social Insurance Number of an individual or **to whom the trust account number of a trust** has been provided under this Act or **the Regulations**, and every officer, employee and agent of such a person, who without written consent of the individual, taxpayer, partnership **or trust**, as the case may be, knowingly uses, communicates or allows to be communicated the number (otherwise than as required or authorized by law, in the course of duties in connection with the administration or enforcement of this Act or for a purpose for which it was provided by the individual, taxpayer, partnership **or trust**, as the case may be) is guilty of an offence and liable on summary conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months, or to both.
+    **(2.3)** Every person to whom the business number of a taxpayer or partnership, to whom the Social Insurance Number of an individual or to whom the trust account number of a trust has been provided under this Act or the Regulations, and every officer, employee and agent of such a person, who without written consent of the individual, taxpayer, partnership or trust, as the case may be, knowingly uses, communicates or allows to be communicated the number (otherwise than as required or authorized by law, in the course of duties in connection with the administration or enforcement of this Act or for a purpose for which it was provided by the individual, taxpayer, partnership or trust, as the case may be) is guilty of an offence and liable on summary conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months, or to both.
 
   **(2)** Subsection (1) applies to the 2018 and subsequent taxation years.
 
@@ -2039,7 +2041,7 @@ if the arrangement is entered into before **2024**, a qualifying family member i
 
     provide taxpayer information to an official or a designated person solely for the purpose of permitting the making of an adjustment to a social assistance payment made on the basis of a means, needs or income test if the purpose of the adjustment is to take into account
 
-    the amount determined in respect of a person for C in subsection 122.61(1), **as it read before July 2018, in respect of a base taxation year (as defined in section 122.6) before 2017, or**
+    the amount determined in respect of a person for C in subsection 122.61(1), as it read before July 2018, in respect of a base taxation year (as defined in section 122.6) before 2017, or
 
     an amount determined in respect of a person under subsection 122.61(1) or (1.1) in respect of a base taxation year (as defined in section 122.6) after 2014;
 
@@ -2049,7 +2051,7 @@ if the arrangement is entered into before **2024**, a qualifying family member i
 
   **(1)** The portion of the definition **business number** in subsection 248(1) of the Act before paragraph (a) is replaced by the following:
 
-    **business number** means the number (other than a Social Insurance Number **or trust account number**) used by the Minister to identify
+    **business number** means the number (other than a Social Insurance Number or trust account number) used by the Minister to identify
 
   **(2)** Subsection 248(1) of the Act is amended by adding the following in alphabetical order:
 
@@ -2097,11 +2099,11 @@ Section 69 of the Act is repealed.
 
     in respect of
 
-    money on loan to **an** association, corporation, institution, organization, **partnership** or **trust**,
+    money on loan to an association, corporation, institution, organization, partnership or trust,
 
-    money on deposit with **an** association, corporation, institution, organization, **partnership** or **trust**, or
+    money on deposit with an association, corporation, institution, organization, partnership or trust, or
 
-    property deposited or placed with **an** association, corporation, institution, organization, **partnership** or **trust**,
+    property deposited or placed with an association, corporation, institution, organization, partnership or trust,
 
   **(2)** Subsection (1) applies to the 2018 and subsequent taxation years.
 
@@ -2109,13 +2111,13 @@ Section 69 of the Act is repealed.
 
   **(1)** Paragraph 229(1)(b) of the Regulations is replaced by the following:
 
-    **in respect of** each member of the partnership who is entitled to a share referred to in paragraph (c) or (d) for the fiscal period, **the member's**
+    in respect of each member of the partnership who is entitled to a share referred to in paragraph (c) or (d) for the fiscal period, the member's
 
     name,
 
     address, and
 
-    **business number**, Social Insurance Number **or trust account number, as the case may be**;
+    business number, Social Insurance Number or trust account number, as the case may be;
 
   **(2)** Subsection (1) applies to the 2018 and subsequent taxation years.
 
@@ -2129,7 +2131,7 @@ Section 69 of the Act is repealed.
 
 The portion of Class 43.2 in Schedule II to the Regulations before paragraph (a) is replaced by the following:
 
-Property that is acquired after February 22, 2005 and before **2025** (other than property that was included, before it was acquired, in another class in this Schedule by any taxpayer) and that is property that would otherwise be included in Class 43.1
+Property that is acquired after February 22, 2005 and before 2025 (other than property that was included, before it was acquired, in another class in this Schedule by any taxpayer) and that is property that would otherwise be included in Class 43.1
 
 ### Section 46
 
@@ -2151,17 +2153,17 @@ Property that is acquired after February 22, 2005 and before **2025** (other tha
 
       **(1)** In this section, **inflationary adjusted year** means 2019 and every year after that year.
 
-      **(2)** Each rate of duty set out in sections 1 to 4 of Schedule 1 and paragraph (a) of Schedule 2 in respect of a tobacco product is to be adjusted on **April** 1 of **an** inflationary adjusted year so that the rate is equal to the greater of
+      **(2)** Each rate of duty set out in sections 1 to 4 of Schedule 1 and paragraph (a) of Schedule 2 in respect of a tobacco product is to be adjusted on April 1 of an inflationary adjusted year so that the rate is equal to the greater of
 
         the rate determined by the formula
 
-        is the rate of duty applicable to the tobacco product on **March 31** of the inflationary adjusted year, and
+        is the rate of duty applicable to the tobacco product on March 31 of the inflationary adjusted year, and
 
         is the amount, rounded to the nearest one-thousandth, or, if the amount is equidistant from two consecutive one-thousandths, rounded to the higher one-thousandth, determined by the formula
 
-        is the Consumer Price Index for the 12-month period ending on September 30 **of the particular year preceding the inflationary adjusted year**, and
+        is the Consumer Price Index for the 12-month period ending on September 30 of the particular year preceding the inflationary adjusted year, and
 
-        is the Consumer Price Index for the 12-month period ending on September 30 **of the year preceding the particular year**; and
+        is the Consumer Price Index for the 12-month period ending on September 30 of the year preceding the particular year; and
 
         the rate of duty referred to in the description of A in paragraph (a).
 
@@ -2173,11 +2175,11 @@ Property that is acquired after February 22, 2005 and before **2025** (other tha
 
     February 28, 2018; or
 
-    in the case of an inflationary adjusted year, **April** 1 of that year. (**date d'ajustement**)
+    in the case of an inflationary adjusted year, April 1 of that year. (**date d'ajustement**)
 
   **(2)** The portion of the definition **taxed cigarettes** in section 58.1 of the Act before paragraph (a) is replaced by the following:
 
-    **taxed cigarettes** of a person means cigarettes in respect of which duty has been imposed under section 42 **or 53** at the rate **applicable on the day before an adjustment day**, and that, at the beginning of **the adjustment day**,
+    **taxed cigarettes** of a person means cigarettes in respect of which duty has been imposed under section 42 or 53 at the rate applicable on the day before an adjustment day, and that, at the beginning of the adjustment day,
 
   **(3)** Subsections (1) and (2) are deemed to have come into force on February 28, 2018.
 
@@ -2187,19 +2189,19 @@ Property that is acquired after February 22, 2005 and before **2025** (other tha
 
     **(1.1)** Subject to section 58.3, every person shall pay to Her Majesty a tax on all taxed cigarettes of the person held at the beginning of February 28, 2018 at the rate of $0.011468 per cigarette.
 
-    **(2)** Subject to section 58.3, every person shall pay to Her Majesty a tax on all taxed cigarettes of the person held at the beginning of **April** 1 of an inflationary adjusted year at a rate per cigarette equal to
+    **(2)** Subject to section 58.3, every person shall pay to Her Majesty a tax on all taxed cigarettes of the person held at the beginning of April 1 of an inflationary adjusted year at a rate per cigarette equal to
 
       in the case of cigarettes in respect of which duty has been imposed under section 42, the amount determined by the formula
 
-      is the rate of duty applicable under **section** 1 of Schedule 1 for each five cigarettes on **April** 1 of the inflationary adjusted year, and
+      is the rate of duty applicable under section 1 of Schedule 1 for each five cigarettes on April 1 of the inflationary adjusted year, and
 
-      is the rate of duty applicable under section 1 of Schedule 1 for each five cigarettes on **March 31** of the inflationary adjusted year; and
+      is the rate of duty applicable under section 1 of Schedule 1 for each five cigarettes on March 31 of the inflationary adjusted year; and
 
       in the case of cigarettes in respect of which duty has been imposed under section 53, the amount determined by the formula
 
-      is the rate of duty applicable under paragraph 1(a) of Schedule 3 per cigarette on **April** 1 of the inflationary adjusted year, and
+      is the rate of duty applicable under paragraph 1(a) of Schedule 3 per cigarette on April 1 of the inflationary adjusted year, and
 
-      is the rate of duty applicable under paragraph 1(a) of Schedule 3 per cigarette on **March 31** of the inflationary adjusted year.
+      is the rate of duty applicable under paragraph 1(a) of Schedule 3 per cigarette on March 31 of the inflationary adjusted year.
 
   **(2)** Subsection (1) is deemed to have come into force on February 28, 2018.
 
@@ -2227,39 +2229,39 @@ Property that is acquired after February 22, 2005 and before **2025** (other tha
 
   **(1)** Subparagraphs 216(2)(a)(i) to (iv) of the Act are replaced by the following:
 
-    $**0.24** multiplied by the number of cigarettes to which the offence relates,
+    $0.24 multiplied by the number of cigarettes to which the offence relates,
 
-    $**0.24** multiplied by the number of tobacco sticks to which the offence relates,
+    $0.24 multiplied by the number of tobacco sticks to which the offence relates,
 
-    $**0.30** multiplied by the number of grams of manufactured tobacco other than cigarettes or tobacco sticks to which the offence relates, and
+    $0.30 multiplied by the number of grams of manufactured tobacco other than cigarettes or tobacco sticks to which the offence relates, and
 
-    $**0.47** multiplied by the number of cigars to which the offence relates, and
+    $0.47 multiplied by the number of cigars to which the offence relates, and
 
   **(2)** Subparagraphs 216(3)(a)(i) to (iv) of the Act are replaced by the following:
 
-    $**0.36** multiplied by the number of cigarettes to which the offence relates,
+    $0.36 multiplied by the number of cigarettes to which the offence relates,
 
-    $**0.36** multiplied by the number of tobacco sticks to which the offence relates,
+    $0.36 multiplied by the number of tobacco sticks to which the offence relates,
 
-    $**0.45** multiplied by the number of grams of manufactured tobacco other than cigarettes or tobacco sticks to which the offence relates, and
+    $0.45 multiplied by the number of grams of manufactured tobacco other than cigarettes or tobacco sticks to which the offence relates, and
 
-    $**0.93** multiplied by the number of cigars to which the offence relates, and
+    $0.93 multiplied by the number of cigars to which the offence relates, and
 
 ### Section 53
 
 Paragraphs 240(a) to (c) of the Act are replaced by the following:
 
-$**0.43** per cigarette that was removed in contravention of that subsection,
+$0.43 per cigarette that was removed in contravention of that subsection,
 
-$**0.43** per tobacco stick that was removed in contravention of that subsection, and
+$0.43 per tobacco stick that was removed in contravention of that subsection, and
 
-$**537.48** per kilogram of manufactured tobacco, other than cigarettes and tobacco sticks, that was removed in contravention of that subsection.
+$537.48 per kilogram of manufactured tobacco, other than cigarettes and tobacco sticks, that was removed in contravention of that subsection.
 
 ### Section 54
 
   **(1)** Paragraph 1(a) of Schedule 1 to the Act is replaced by the following:
 
-    $**0.59634**; or
+    $0.59634; or
 
   **(2)** Subsection (1) is deemed to have come into force on February 28, 2018.
 
@@ -2267,7 +2269,7 @@ $**537.48** per kilogram of manufactured tobacco, other than cigarettes and toba
 
   **(1)** Paragraph 2(a) of Schedule 1 to the Act is replaced by the following:
 
-    $**0.11927**; or
+    $0.11927; or
 
   **(2)** Subsection (1) is deemed to have come into force on February 28, 2018.
 
@@ -2275,7 +2277,7 @@ $**537.48** per kilogram of manufactured tobacco, other than cigarettes and toba
 
   **(1)** Paragraph 3(a) of Schedule 1 to the Act is replaced by the following:
 
-    $**7.45425**; or
+    $7.45425; or
 
   **(2)** Subsection (1) is deemed to have come into force on February 28, 2018.
 
@@ -2283,7 +2285,7 @@ $**537.48** per kilogram of manufactured tobacco, other than cigarettes and toba
 
   **(1)** Paragraph 4(a) of Schedule 1 to the Act is replaced by the following:
 
-    $**25.95832**; or
+    $25.95832; or
 
   **(2)** Subsection (1) is deemed to have come into force on February 28, 2018.
 
@@ -2291,11 +2293,11 @@ $**537.48** per kilogram of manufactured tobacco, other than cigarettes and toba
 
   **(1)** Subparagraph (a)(i) of Schedule 2 to the Act is replaced by the following:
 
-    $**0.09331**, or
+    $0.09331, or
 
   **(2)** Paragraph (b) of Schedule 2 to the Act is replaced by the following:
 
-    the amount obtained by multiplying the sale price, in the case of cigars manufactured in Canada, or the duty-paid value, in the case of imported cigars, by **88**%.
+    the amount obtained by multiplying the sale price, in the case of cigars manufactured in Canada, or the duty-paid value, in the case of imported cigars, by 88%.
 
   **(3)** Subsections (1) and (2) are deemed to have come into force on February 28, 2018.
 
@@ -2306,31 +2308,31 @@ $**537.48** per kilogram of manufactured tobacco, other than cigarettes and toba
 
 Subsection 76(5) of the `Economic Action Plan 2014 Act, No. 1` is replaced by the following:
 
-**(5)** Subsections (2) and (4) come into force on **April** 1, 2019.
+**(5)** Subsections (2) and (4) come into force on April 1, 2019.
 
 ### Section 60
 
 Subsection 78(3) of the Act is replaced by the following:
 
-**(3)** Subsection (2) comes into force on **April** 1, 2019.
+**(3)** Subsection (2) comes into force on April 1, 2019.
 
 ### Section 61
 
 Subsection 79(4) of the Act is replaced by the following:
 
-**(4)** Subsection (2) comes into force on **April** 1, 2019.
+**(4)** Subsection (2) comes into force on April 1, 2019.
 
 ### Section 62
 
 Subsection 80(4) of the Act is replaced by the following:
 
-**(4)** Subsection (2) comes into force on **April** 1, 2019.
+**(4)** Subsection (2) comes into force on April 1, 2019.
 
 ### Section 63
 
 Subsection 81(4) of the Act is replaced by the following:
 
-**(4)** Subsection (2) comes into force on **April** 1, 2019.
+**(4)** Subsection (2) comes into force on April 1, 2019.
 
 
 ### Economic Action Plan 2014 Act, No. 2
@@ -2339,13 +2341,13 @@ Subsection 81(4) of the Act is replaced by the following:
 
 Subsection 100(4) of the `Economic Action Plan 2014 Act, No. 2` is replaced by the following:
 
-**(4)** Subsection (2) **is deemed to have come** into force on **February 28, 2018**.
+**(4)** Subsection (2) is deemed to have come into force on February 28, 2018.
 
 ### Section 65
 
 Subsection 101(2) of the Act is replaced by the following:
 
-**(2)** Subsection (1) **is deemed to have come** into force on **February 28, 2018**.
+**(2)** Subsection (1) is deemed to have come into force on February 28, 2018.
 
 
 ### Budget Implementation Act, 2017, No. 1
@@ -2386,27 +2388,27 @@ For the purposes of applying the provisions of the `Customs Act` that provide fo
 
   **(1)** The definitions **container**, **excise stamp**, **non-duty-paid**, **stamped** and **take for use** in section 2 of the `Excise Act, 2001` are replaced by the following:
 
-    **container**, in respect of a tobacco product **or a cannabis product**, means a wrapper, package, carton, box, crate, **bottle, vial** or other container that contains the tobacco product **or cannabis product**. (**contenant**)
+    **container**, in respect of a tobacco product or a cannabis product, means a wrapper, package, carton, box, crate, bottle, vial or other container that contains the tobacco product or cannabis product. (**contenant**)
 
-    **excise stamp** means a **tobacco excise** stamp **or a cannabis excise stamp**. (**timbre d'accise**)
+    **excise stamp** means a tobacco excise stamp or a cannabis excise stamp. (**timbre d'accise**)
 
-    **non-duty-paid**, in respect of packaged alcohol **or a cannabis product**, means that duty (other than special duty **in the case of alcohol**) has not been paid on the alcohol **or cannabis product**. (**non acquitté**)
+    **non-duty-paid**, in respect of packaged alcohol or a cannabis product, means that duty (other than special duty in the case of alcohol) has not been paid on the alcohol or cannabis product. (**non acquitté**)
 
     **stamped** means
 
-    in respect of a tobacco product, that **a tobacco** excise stamp, and all prescribed information in a prescribed format **in respect of the tobacco product**, are stamped, impressed, printed or marked on, indented into or affixed to the **tobacco** product or its container in the prescribed manner to indicate that duty, other than special duty, has been paid on the **tobacco** product; **and**
+    in respect of a tobacco product, that a tobacco excise stamp, and all prescribed information in a prescribed format in respect of the tobacco product, are stamped, impressed, printed or marked on, indented into or affixed to the tobacco product or its container in the prescribed manner to indicate that duty, other than special duty, has been paid on the tobacco product; and
 
     in respect of a cannabis product, that a cannabis excise stamp, and all prescribed information in a prescribed format in respect of the cannabis product, are stamped, impressed, printed or marked on, indented into or affixed to the cannabis product or its container in the prescribed manner to indicate that duty has been paid on the cannabis product. (**estampillé**)
 
     **take for use** means
 
-    in respect of alcohol, to consume, analyze or destroy alcohol or to use alcohol for any purpose that results in a product other than alcohol; **and**
+    in respect of alcohol, to consume, analyze or destroy alcohol or to use alcohol for any purpose that results in a product other than alcohol; and
 
     in respect of a cannabis product, to consume, analyze or destroy the cannabis product. (**utilisation pour soi**)
 
   **(2)** Paragraph (a) of the definition **packaged** in section 2 of the Act is replaced by the following:
 
-    in respect of raw leaf tobacco, a tobacco product or **a cannabis product**, packaged in a prescribed package; or
+    in respect of raw leaf tobacco, a tobacco product or a cannabis product, packaged in a prescribed package; or
 
   **(3)** The definition **produce** in section 2 of the Act is amended by striking out "or" at the end of paragraph (a), by adding "or" at the end of paragraph (b) and by adding the following after paragraph (b):
 
@@ -2504,11 +2506,11 @@ For the purposes of applying the provisions of the `Customs Act` that provide fo
 
 ### Section 5
 
-      **(1)** For the purposes of section 25.2, subsections 25.3(1), 30(1), 32(1) and 32.1(1), section 61, subsections 70(1) and 88(1), **section 158.04, subsections 158.05(1) and 158.11(1) and (2)**, sections 230 and 231 and subsection 238.1(1), if one of two or more persons, with the knowledge and consent of the rest of them, has anything in the person's possession, it is deemed to be in the custody and possession of each and all of them.
+      **(1)** For the purposes of section 25.2, subsections 25.3(1), 30(1), 32(1) and 32.1(1), section 61, subsections 70(1) and 88(1), section 158.04, subsections 158.05(1) and 158.11(1) and (2), sections 230 and 231 and subsection 238.1(1), if one of two or more persons, with the knowledge and consent of the rest of them, has anything in the person's possession, it is deemed to be in the custody and possession of each and all of them.
 
   **(2)** The portion of subsection 5(2) of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** In this section and in section 25.2, subsections 25.3(1), 30(1), 32(1) and 32.1(1), section 61, subsections 70(1) and 88(1), **section 158.04 and subsections 158.05(1), 158.11(1) and (2)** and 238.1(1), **possession** means not only having in one's own personal possession but also knowingly
+    **(2)** In this section and in section 25.2, subsections 25.3(1), 30(1), 32(1) and 32.1(1), section 61, subsections 70(1) and 88(1), section 158.04 and subsections 158.05(1), 158.11(1) and (2) and 238.1(1), **possession** means not only having in one's own personal possession but also knowingly
 
 ### Section 71
 
@@ -2526,7 +2528,7 @@ Section 14 of the Act is amended by adding the following after subsection (1):
 
   **(2)** Paragraph 23(3)(b) of the Act is replaced by the following:
 
-    shall, in the case of a spirits licence, a tobacco licence or **a cannabis licence**, require security in a form satisfactory to the Minister and in an amount determined in accordance with the regulations; and
+    shall, in the case of a spirits licence, a tobacco licence or a cannabis licence, require security in a form satisfactory to the Minister and in an amount determined in accordance with the regulations; and
 
 ### Section 73
 
@@ -2995,7 +2997,7 @@ in prescribed circumstances.
 
 ### Section 159
 
-      **(1)** The fiscal months of a person **other than a cannabis licensee** shall be determined in accordance with the following rules:
+      **(1)** The fiscal months of a person other than a cannabis licensee shall be determined in accordance with the following rules:
 
   **(2)** Section 159 of the Act is amended by adding the following after subsection (1):
 
@@ -3007,7 +3009,7 @@ Section 180 of the Act is replaced by the following:
 
 ### Section 180
 
-Subject to this Act, the duty paid on any tobacco product, **cannabis product** or alcohol entered into the duty-paid market shall not be refunded on the exportation of the tobacco product, **cannabis product** or alcohol.
+Subject to this Act, the duty paid on any tobacco product, cannabis product or alcohol entered into the duty-paid market shall not be refunded on the exportation of the tobacco product, cannabis product or alcohol.
 
 ### Section 76
 
@@ -3021,7 +3023,7 @@ The Minister may refund to a cannabis licensee the duty paid on a cannabis produ
 
   **(1)** Paragraph 206(1)(d) of the Act is replaced by the following:
 
-    every person **that** transports a tobacco product **or cannabis product** that is not stamped or non-duty-paid packaged alcohol.
+    every person that transports a tobacco product or cannabis product that is not stamped or non-duty-paid packaged alcohol.
 
   **(2)** Section 206 of the Act is amended by adding the following after subsection (2):
 
@@ -3039,7 +3041,7 @@ to an official solely for the administration or enforcement of the `Cannabis Act
 
 ### Section 214
 
-    Every person **that** contravenes any of sections 25, 25.2 to 25.4, 27 and 29, subsection 32.1(1) and sections 60, 62, **158.04 to 158.06 and 158.08** is guilty of an offence and liable
+    Every person that contravenes any of sections 25, 25.2 to 25.4, 27 and 29, subsection 32.1(1) and sections 60, 62, 158.04 to 158.06 and 158.08 is guilty of an offence and liable
 
   **(2)** The portion of section 214 of the Act before paragraph (a), as enacted by subsection (1), is replaced by the following:
 
@@ -3103,13 +3105,13 @@ The Act is amended by adding the following after section 218:
 
 Paragraph 230(1)(a) of the Act is replaced by the following:
 
-the commission of an offence under section 214 or subsection 216(1), 218(1), **218.1(1)** or 231(1); or
+the commission of an offence under section 214 or subsection 216(1), 218(1), 218.1(1) or 231(1); or
 
 ### Section 82
 
 Paragraph 231(1)(a) of the Act is replaced by the following:
 
-the commission of an offence under section 214 or subsection 216(1), 218(1) or **218.1(1)**; or
+the commission of an offence under section 214 or subsection 216(1), 218(1) or 218.1(1); or
 
 ### Section 83
 
@@ -3117,7 +3119,7 @@ Subsection 232(1) of the Act is replaced by the following:
 
 ### Section 232
 
-  **(1)** Sections 462.3 and 462.32 to 462.5 of the `Criminal Code` apply, with any modifications that the circumstances require, in respect of proceedings for an offence under section 214, subsection 216(1), 218(1) or **218.1(1)** or section 230 or 231.
+  **(1)** Sections 462.3 and 462.32 to 462.5 of the `Criminal Code` apply, with any modifications that the circumstances require, in respect of proceedings for an offence under section 214, subsection 216(1), 218(1) or 218.1(1) or section 230 or 231.
 
 ### Section 84
 
@@ -3151,7 +3153,7 @@ in any other case, 0.
 
 ### Section 234
 
-      **(1)** Every person **that** contravenes section 38, 40, 49, 61, 62.1, 99, 149, 151 or **158.15** is liable to a penalty of not more than $25,000.
+      **(1)** Every person that contravenes section 38, 40, 49, 61, 62.1, 99, 149, 151 or 158.15 is liable to a penalty of not more than $25,000.
 
   **(2)** Section 234 of the Act is amended by adding the following after subsection (2):
 
@@ -3191,13 +3193,13 @@ in any other case, 0.
 
   **(1)** Paragraph 238.1(1)(a) of the Act is replaced by the following:
 
-    the person can demonstrate that the stamps were affixed to tobacco products, **cannabis products** or their containers in the manner prescribed for the purposes of the definition stamped in section 2 and that duty, other than special duty, has been paid on the **tobacco** products **or cannabis products**; or
+    the person can demonstrate that the stamps were affixed to tobacco products, cannabis products or their containers in the manner prescribed for the purposes of the definition stamped in section 2 and that duty, other than special duty, has been paid on the tobacco products or cannabis products; or
 
   **(2)** Subsection 238.1(2) of the Act is replaced by the following:
 
     **(2)** The amount of the penalty for each excise stamp that cannot be accounted for is equal to
 
-      **in the case of a tobacco excise stamp**, the duty that would be imposed on a tobacco product for which the stamp was issued under subsection 25.1(1); **or**
+      in the case of a tobacco excise stamp, the duty that would be imposed on a tobacco product for which the stamp was issued under subsection 25.1(1); or
 
       in the case of a cannabis excise stamp, five times the total of the following amounts:
 
@@ -3213,7 +3215,7 @@ in any other case, 0.
 
 ### Section 239
 
-    Unless section 237 applies, every person is liable to a penalty equal to 200% of the duty that was imposed on packaged alcohol, a tobacco product **or a cannabis product** if
+    Unless section 237 applies, every person is liable to a penalty equal to 200% of the duty that was imposed on packaged alcohol, a tobacco product or a cannabis product if
 
   **(2)** Paragraph 239(a) of the French version of the Act is replaced by the following:
 
@@ -3225,7 +3227,7 @@ Section 264 of the Act is replaced by the following:
 
 ### Section 264
 
-Despite **any other provision of** this Act, any alcohol, specially denatured alcohol, restricted formulation, raw leaf tobacco, excise stamp, tobacco product or **cannabis product** that is seized under section 260 must not be returned to the person from whom it was seized or any other person unless it was seized in error.
+Despite any other provision of this Act, any alcohol, specially denatured alcohol, restricted formulation, raw leaf tobacco, excise stamp, tobacco product or cannabis product that is seized under section 260 must not be returned to the person from whom it was seized or any other person unless it was seized in error.
 
 ### Section 90
 
@@ -3241,11 +3243,11 @@ a seized cannabis product only to a cannabis licensee.
 
   **(2)** Paragraph 304(1)(f) of the Act is replaced by the following:
 
-    respecting the information to be provided on tobacco products, packaged alcohol and **cannabis products** and **on** containers of tobacco products, packaged alcohol and **cannabis products**;
+    respecting the information to be provided on tobacco products, packaged alcohol and cannabis products and on containers of tobacco products, packaged alcohol and cannabis products;
 
   **(3)** Paragraph 304(1)(n) of the Act is replaced by the following:
 
-    respecting the sale under section 266 of alcohol, tobacco products, raw leaf tobacco, specially denatured alcohol, restricted formulations or **cannabis products** seized under section 260;
+    respecting the sale under section 266 of alcohol, tobacco products, raw leaf tobacco, specially denatured alcohol, restricted formulations or cannabis products seized under section 260;
 
 ### Section 92
 
@@ -3330,7 +3332,7 @@ paragraph 25.5(a).
 
 The definition **excisable goods** in subsection 123(1) of the `Excise Tax Act` is replaced by the following:
 
-**excisable goods** means beer or malt liquor (within the meaning assigned by section 4 of the `Excise Act`) and spirits, wine, tobacco products and **cannabis products** (within the meaning assigned by section 2 of the `Excise Act, 2001`); (**produit soumis à l'accise**)
+**excisable goods** means beer or malt liquor (within the meaning assigned by section 4 of the `Excise Act`) and spirits, wine, tobacco products and cannabis products (within the meaning assigned by section 2 of the `Excise Act, 2001`); (**produit soumis à l'accise**)
 
 ### Section 96
 
@@ -3338,7 +3340,7 @@ The portion of section 4 of Part VI of Schedule V to the Act before paragraph (a
 
 ### Section 4
 
-A supply of tangible personal property (other than **excisable goods**) made by way of sale by a public sector body where
+A supply of tangible personal property (other than excisable goods) made by way of sale by a public sector body where
 
 ### Section 97
 
@@ -3350,33 +3352,33 @@ cannabis products, as defined in section 2 of the `Excise Act, 2001`;
 
   **(1)** Section 2 of Part IV of Schedule VI to the French version of the Act is replaced by the following:
 
-    La fourniture de graines et de semences **(autres que les graines viables qui constituent du cannabis au sens du paragraphe 2(1) de la `Loi sur le cannabis`)** à leur état naturel, traitées pour l'ensemencement ou irradiées pour l'entreposage, de foin, de produits d'ensilage ou d'autres produits de fourrage, fournis en quantités plus importantes que celles qui sont habituellement vendues ou offertes pour vente aux consommateurs, et servant habituellement d'aliments pour la consommation humaine ou animale ou à la production de tels aliments, à l'exclusion des graines, des semences et des mélanges de celles-ci emballés, préparés ou vendus pour servir de nourriture aux oiseaux sauvages ou aux animaux domestiques.
+    La fourniture de graines et de semences (autres que les graines viables qui constituent du cannabis au sens du paragraphe 2(1) de la `Loi sur le cannabis`) à leur état naturel, traitées pour l'ensemencement ou irradiées pour l'entreposage, de foin, de produits d'ensilage ou d'autres produits de fourrage, fournis en quantités plus importantes que celles qui sont habituellement vendues ou offertes pour vente aux consommateurs, et servant habituellement d'aliments pour la consommation humaine ou animale ou à la production de tels aliments, à l'exclusion des graines, des semences et des mélanges de celles-ci emballés, préparés ou vendus pour servir de nourriture aux oiseaux sauvages ou aux animaux domestiques.
 
   **(2)** Paragraph 2(a) of Part IV of Schedule VI to the English version of the Act is replaced by the following:
 
-    grains or seeds **(other than viable seeds that are cannabis as defined in subsection 2(1) of the `Cannabis Act`)** in their natural state, treated for seeding purposes or irradiated for storage purposes,
+    grains or seeds (other than viable seeds that are cannabis as defined in subsection 2(1) of the `Cannabis Act`) in their natural state, treated for seeding purposes or irradiated for storage purposes,
 
 ### Section 99
 
 Paragraphs 3.1(b) and (c) of Part IV of Schedule VI to the Act are replaced by the following:
 
-in the case of viable grain or seeds, they are included in the definition industrial hemp in section 1 of the `Industrial Hemp Regulations` made under the `Controlled Drugs and Substances Act` **or they are industrial hemp for the purposes of the `Cannabis Act`**; and
+in the case of viable grain or seeds, they are included in the definition industrial hemp in section 1 of the `Industrial Hemp Regulations` made under the `Controlled Drugs and Substances Act` or they are industrial hemp for the purposes of the `Cannabis Act`; and
 
-the supply is made in accordance with **the `Controlled Drugs and Substances Act` or the `Cannabis Act`**, if applicable.
+the supply is made in accordance with the `Controlled Drugs and Substances Act` or the `Cannabis Act`, if applicable.
 
 ### Section 100
 
 Paragraphs 12(b) and (c) of Schedule VII to the Act are replaced by the following:
 
-in the case of viable grain or seeds, they are included in the definition industrial hemp in section 1 of the `Industrial Hemp Regulations` made under the `Controlled Drugs and Substances Act` **or they are industrial hemp for the purposes of the `Cannabis Act`**; and
+in the case of viable grain or seeds, they are included in the definition industrial hemp in section 1 of the `Industrial Hemp Regulations` made under the `Controlled Drugs and Substances Act` or they are industrial hemp for the purposes of the `Cannabis Act`; and
 
-the importation is in accordance with **the `Controlled Drugs and Substances Act` or the `Cannabis Act`**, if applicable.
+the importation is in accordance with the `Controlled Drugs and Substances Act` or the `Cannabis Act`, if applicable.
 
 ### Section 101
 
 Section 6 of Part I of Schedule X to the Act is replaced by the following:
 
-Property (other than advertising matter **or excisable goods**) that is a casual donation sent by a person in a non-participating province to a person in a participating province, or brought into a particular participating province by a person who is not resident in the participating provinces as a gift to a person in that participating province, where the fair market value of the property does not exceed $60, under such regulations as the Minister of Public Safety and Emergency Preparedness may make for purposes of heading No. 98.16 of Schedule I to the `Customs Tariff`.
+Property (other than advertising matter or excisable goods) that is a casual donation sent by a person in a non-participating province to a person in a participating province, or brought into a particular participating province by a person who is not resident in the participating provinces as a gift to a person in that participating province, where the fair market value of the property does not exceed $60, under such regulations as the Minister of Public Safety and Emergency Preparedness may make for purposes of heading No. 98.16 of Schedule I to the `Customs Tariff`.
 
 
 ### Amendments to Various Regulations
@@ -3388,7 +3390,7 @@ Property (other than advertising matter **or excisable goods**) that is a casual
 
   **(1)** Paragraph (a) of the definition **goods** in section 2 of the `Postal Imports Remission Order` is replaced by the following:
 
-    alcoholic beverages, **cannabis products**, cigars, cigarettes and manufactured tobacco;
+    alcoholic beverages, cannabis products, cigars, cigarettes and manufactured tobacco;
 
   **(2)** Section 2 of the Order is amended by adding the following in alphabetical order:
 
@@ -3401,7 +3403,7 @@ Property (other than advertising matter **or excisable goods**) that is a casual
 
   **(1)** Paragraph (a) of the definition **goods** in section 2 of the `Courier Imports Remission Order` is replaced by the following:
 
-    alcoholic beverages, **cannabis products**, cigars, cigarettes and manufactured tobacco;
+    alcoholic beverages, cannabis products, cigars, cigarettes and manufactured tobacco;
 
   **(2)** Section 2 of the Order is amended by adding the following in alphabetical order:
 
@@ -3414,7 +3416,7 @@ Property (other than advertising matter **or excisable goods**) that is a casual
 
 Paragraph 4(1)(e) of the `Public Service Body Rebate (GST/HST) Regulations` is replaced by the following:
 
-**excisable goods** that **are** acquired by the particular person for the purpose of making a supply of the **excisable goods** for consideration that is not included as part of the consideration for a meal supplied together with the **excisable goods**, except where tax is payable in respect of the supply by the particular person of the **excisable goods**;
+excisable goods that are acquired by the particular person for the purpose of making a supply of the excisable goods for consideration that is not included as part of the consideration for a meal supplied together with the excisable goods, except where tax is payable in respect of the supply by the particular person of the excisable goods;
 
 
 #### `Regulations Respecting Excise Licences and Registrations`
@@ -3425,11 +3427,11 @@ Paragraph 4(1)(e) of the `Public Service Body Rebate (GST/HST) Regulations` is r
 
 ### Section 5
 
-      **(1)** For the purposes of paragraph 23(3)(b) of the Act, the amount of security to be provided by an applicant for a spirits licence, a tobacco licence or **a cannabis licence** is an amount of not less than $5,000 and
+      **(1)** For the purposes of paragraph 23(3)(b) of the Act, the amount of security to be provided by an applicant for a spirits licence, a tobacco licence or a cannabis licence is an amount of not less than $5,000 and
 
   **(2)** Paragraph 5(1)(b) of the Regulations is replaced by the following:
 
-    in the case of a tobacco licence **or a cannabis licence**, be sufficient to ensure payment of the amount of duty referred to in paragraph 160(b) of the Act up to a maximum amount of $5 million.
+    in the case of a tobacco licence or a cannabis licence, be sufficient to ensure payment of the amount of duty referred to in paragraph 160(b) of the Act up to a maximum amount of $5 million.
 
 
 #### `Regulations Respecting the Possession of Tobacco Products That Are Not Stamped`
@@ -3473,7 +3475,7 @@ a cannabis product is packaged in a prescribed package when it is packaged in th
 
 Subsection 4(2) of the Regulations is replaced by the following:
 
-**(2)** For the purposes of paragraph 25.3(2)(d) of the Act, a prescribed person is a person who transports **a tobacco** excise stamp on behalf of a person described in paragraph 25.3(2)(a) or (b) of the Act.
+**(2)** For the purposes of paragraph 25.3(2)(d) of the Act, a prescribed person is a person who transports a tobacco excise stamp on behalf of a person described in paragraph 25.3(2)(a) or (b) of the Act.
 
 **(3)** For the purposes of paragraph 158.05(2)(c) of the Act, a prescribed person is a person who transports a cannabis excise stamp on behalf of a person described in paragraph 158.05(2)(a) or (b) of the Act.
 
@@ -3481,9 +3483,9 @@ Subsection 4(2) of the Regulations is replaced by the following:
 
 Subparagraphs 4.1(1)(a)(i) and (ii) of the Regulations are replaced by the following:
 
-the unaffixed **tobacco** excise stamps in the applicant's possession at the time of application, and
+the unaffixed tobacco excise stamps in the applicant's possession at the time of application, and
 
-the **tobacco** excise stamps to be issued in respect of the application; and
+the tobacco excise stamps to be issued in respect of the application; and
 
 ### Section 112
 
@@ -3491,7 +3493,7 @@ The portion of section 4.2 of the Regulations before paragraph (a) is replaced b
 
 ### Section 4.2
 
-For the purposes of the definition stamped in section 2 of the Act and **subsections** 25.3(1) **and 158.05(1)** of the Act, the prescribed manner of affixing an excise stamp to a package is by affixing the stamp
+For the purposes of the definition stamped in section 2 of the Act and subsections 25.3(1) and 158.05(1) of the Act, the prescribed manner of affixing an excise stamp to a package is by affixing the stamp
 
 
 #### `Tobacco Products Labelling Regulations (Cigarettes and Little Cigars)`
@@ -3514,7 +3516,7 @@ section 11.
 
   **(1)** Subparagraph (g)(i) of the definition **offence** in section 183 of the `Criminal Code` is replaced by the following:
 
-    section 214 (unlawful production, sale, etc., of tobacco, alcohol or **cannabis**),
+    section 214 (unlawful production, sale, etc., of tobacco, alcohol or cannabis),
 
   **(2)** Paragraph (g) of the definition **offence** in section 183 of the Act is amended by adding the following after subparagraph (iii):
 
@@ -3527,7 +3529,7 @@ section 11.
 
   **(1)** The definition **excise stamp** in subsection 2(1) of the `Customs Act` is replaced by the following:
 
-    **excise stamp** **has the same meaning as in section 2 of** the `Excise Act, 2001`; (**timbre d'accise**)
+    **excise stamp** has the same meaning as in section 2 of the `Excise Act, 2001`; (**timbre d'accise**)
 
   **(2)** Subsection 2(1) of the Act is amended by adding the following in alphabetical order:
 
@@ -3537,13 +3539,13 @@ section 11.
 
 Subsection 109.2(2) of the Act is replaced by the following:
 
-**(2)** Every person **that**
+**(2)** Every person that
 
-  removes tobacco products, **cannabis products** or designated goods or causes tobacco products, **cannabis products** or designated goods to be removed from a customs office, sufferance warehouse, bonded warehouse or duty free shop in contravention of this Act or the `Customs Tariff` or the regulations made under those Acts, or
+  removes tobacco products, cannabis products or designated goods or causes tobacco products, cannabis products or designated goods to be removed from a customs office, sufferance warehouse, bonded warehouse or duty free shop in contravention of this Act or the `Customs Tariff` or the regulations made under those Acts, or
 
   sells or uses tobacco products or designated goods designated as ships' stores in contravention of this Act or the `Customs Tariff` or the regulations made under those Acts,
 
-  is liable to a penalty equal to double the total of the duties that would be payable on like tobacco products, **cannabis products** or designated goods released in like condition at the rates of duties applicable to like tobacco products, **cannabis products** or designated goods at the time the penalty is assessed, or to such lesser amount as the Minister may direct.
+  is liable to a penalty equal to double the total of the duties that would be payable on like tobacco products, cannabis products or designated goods released in like condition at the rates of duties applicable to like tobacco products, cannabis products or designated goods at the time the penalty is assessed, or to such lesser amount as the Minister may direct.
 
 
 ### Application
@@ -3586,7 +3588,7 @@ Subsection 109.2(2) of the Act is replaced by the following:
 
   **(1)** The definition **accord de coordination de la taxation du cannabis** in subsection 2(1) of the French version of the `Federal-Provincial Fiscal Arrangements Act` is replaced by the following:
 
-    **accord de coordination de la taxation du cannabis** Accord ou arrangement conclu par le ministre pour le compte du gouvernement du Canada en vertu de la partie III.2, y compris les modifications à l'accord ou à l'arrangement effectuées en vertu de **cette** partie. (**coordinated cannabis taxation agreement**)
+    **accord de coordination de la taxation du cannabis** Accord ou arrangement conclu par le ministre pour le compte du gouvernement du Canada en vertu de la partie III.2, y compris les modifications à l'accord ou à l'arrangement effectuées en vertu de cette partie. (**coordinated cannabis taxation agreement**)
 
   **(2)** Subsection (1) is deemed to have come into force on December 14, 2017.
 
@@ -3600,7 +3602,7 @@ Subsection 109.2(2) of the Act is replaced by the following:
 
 Subsection 35(1.2) of the `Pension Act` is replaced by the following:
 
-**(1.2)** Any disability assessments under the `Veterans Well-being Act`, **in respect of a disability award or pain and suffering compensation**, shall be taken into account for the purpose of determining whether the extent of disability exceeds 100%.
+**(1.2)** Any disability assessments under the `Veterans Well-being Act`, in respect of a disability award or pain and suffering compensation, shall be taken into account for the purpose of determining whether the extent of disability exceeds 100%.
 
 ### Section 121
 
@@ -3614,7 +3616,7 @@ Subsection 35(1.2) of the `Pension Act` is replaced by the following:
 
   **(2)** The portion of subparagraph 72(1)(a)(ii) of the Act before clause (A) is replaced by the following:
 
-    a pension in a lesser amount than the amount set out in Class 1 of Schedule I as well as compensation paid under this Act or a disability award **or pain and suffering compensation** paid under the `Veterans Well-being Act`, if the aggregate of the following percentages is equal to or greater than 98%:
+    a pension in a lesser amount than the amount set out in Class 1 of Schedule I as well as compensation paid under this Act or a disability award or pain and suffering compensation paid under the `Veterans Well-being Act`, if the aggregate of the following percentages is equal to or greater than 98%:
 
   **(3)** Subparagraph 72(1)(a)(ii) of the Act is amended by striking out "and" at the end of clause (B) and by adding the following after clause (C):
 
@@ -3622,7 +3624,7 @@ Subsection 35(1.2) of the `Pension Act` is replaced by the following:
 
   **(4)** Paragraph 72(1)(b) of the Act is replaced by the following:
 
-    **the member of the forces** is suffering an exceptional incapacity that is a consequence of or caused in whole or in part by the disability for which the member is receiving a pension or a disability award **or pain and suffering compensation** under that Act;
+    the member of the forces is suffering an exceptional incapacity that is a consequence of or caused in whole or in part by the disability for which the member is receiving a pension or a disability award or pain and suffering compensation under that Act;
 
     the member of the forces is not in receipt of additional pain and suffering compensation under that Act; and
 
@@ -3634,7 +3636,7 @@ Subsection 35(1.2) of the `Pension Act` is replaced by the following:
 
     **(1.2)** For greater certainty, a member of the forces who is not released from the Canadian Forces is not entitled to additional pain and suffering compensation for the purposes of paragraph (1)(d).
 
-    **(2)** Without restricting the generality of paragraph (1)(b), in determining whether the incapacity suffered by a member of the forces is exceptional, account shall be taken of the extent to which the disability for which the member is receiving a pension or a disability award **or pain and suffering compensation** under the `Veterans Well-being Act` has left the member in a helpless condition or in continuing pain and discomfort, has resulted in loss of enjoyment of life or has shortened the member's life expectancy.
+    **(2)** Without restricting the generality of paragraph (1)(b), in determining whether the incapacity suffered by a member of the forces is exceptional, account shall be taken of the extent to which the disability for which the member is receiving a pension or a disability award or pain and suffering compensation under the `Veterans Well-being Act` has left the member in a helpless condition or in continuing pain and discomfort, has resulted in loss of enjoyment of life or has shortened the member's life expectancy.
 
 ### Section 122
 
@@ -3667,9 +3669,9 @@ The Act is amended by adding the following after section 80:
 
   **(1)** The definitions **compensation** and **rehabilitation services** in subsection 2(1) of the `Veterans Well-being Act` are replaced by the following:
 
-    **compensation** means any of the following benefits under this Act, namely, an education and training benefit, an education and training completion bonus, an income **replacement** benefit, a Canadian Forces income support benefit, a critical injury benefit, a disability award, **pain and suffering compensation, additional pain and suffering compensation**, a death benefit, a clothing allowance, a detention benefit or a caregiver recognition benefit. (**indemnisation**)
+    **compensation** means any of the following benefits under this Act, namely, an education and training benefit, an education and training completion bonus, an income replacement benefit, a Canadian Forces income support benefit, a critical injury benefit, a disability award, pain and suffering compensation, additional pain and suffering compensation, a death benefit, a clothing allowance, a detention benefit or a caregiver recognition benefit. (**indemnisation**)
 
-    **rehabilitation services** means all services related to the medical rehabilitation, psycho-social rehabilitation **or** vocational rehabilitation of a person. (**services de réadaptation**)
+    **rehabilitation services** means all services related to the medical rehabilitation, psycho-social rehabilitation or vocational rehabilitation of a person. (**services de réadaptation**)
 
   **(2)** Subsection 2(1) of the Act is amended by adding the following in alphabetical order:
 
@@ -3693,11 +3695,11 @@ The Minister is not permitted to pay an education and training benefit to a vete
 
   **(1)** The portion of subsection 8(2) of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** **For the purposes of subsections (1) and 18(1)**, in deciding whether a veteran has a physical or a mental health problem that is creating a barrier to re-establishment in civilian life, and whether that health problem resulted primarily from service in the Canadian Forces, the Minister may consider any factors that the Minister considers relevant, including
+    **(2)** For the purposes of subsections (1) and 18(1), in deciding whether a veteran has a physical or a mental health problem that is creating a barrier to re-establishment in civilian life, and whether that health problem resulted primarily from service in the Canadian Forces, the Minister may consider any factors that the Minister considers relevant, including
 
   **(2)** Subsection 8(3) of the Act is replaced by the following:
 
-    **(3)** **For the purposes of subsections (1) and 18(1)**, a veteran's physical or mental health problem is deemed to have resulted primarily from service in the Canadian Forces if, as a result of the health problem, the veteran suffers from a disability for which a disability award has been **granted, pain and suffering compensation has been granted** under section 45 or a pension has been granted under the `Pension Act`.
+    **(3)** For the purposes of subsections (1) and 18(1), a veteran's physical or mental health problem is deemed to have resulted primarily from service in the Canadian Forces if, as a result of the health problem, the veteran suffers from a disability for which a disability award has been granted, pain and suffering compensation has been granted under section 45 or a pension has been granted under the `Pension Act`.
 
 ### Section 127
 
@@ -3705,7 +3707,7 @@ Subsection 9(1) of the Act is replaced by the following:
 
 ### Section 9
 
-  **(1)** The Minister may, on application, provide services **related to medical rehabilitation** or **psycho-social** rehabilitation to a veteran who has been released on medical grounds in accordance with chapter 15 of the `Queen's Regulations and Orders for the Canadian Forces` **if the physical or mental health problem for which the veteran was released did not result primarily from service in the Canadian Forces**.
+  **(1)** The Minister may, on application, provide services related to medical rehabilitation or psycho-social rehabilitation to a veteran who has been released on medical grounds in accordance with chapter 15 of the `Queen's Regulations and Orders for the Canadian Forces` if the physical or mental health problem for which the veteran was released did not result primarily from service in the Canadian Forces.
 
 ### Section 128
 
@@ -3719,9 +3721,9 @@ Section 9 of the Act is repealed.
 
       **(1)** The Minister shall,
 
-        on approving an application made under section 8, assess the veteran's medical **rehabilitation**, psycho-social **rehabilitation** and vocational rehabilitation needs; and
+        on approving an application made under section 8, assess the veteran's medical rehabilitation, psycho-social rehabilitation and vocational rehabilitation needs; and
 
-        **on approving an application made** under section 9, assess the veteran's **medical rehabilitation and psycho-social** rehabilitation needs.
+        on approving an application made under section 9, assess the veteran's medical rehabilitation and psycho-social rehabilitation needs.
 
   **(2)** Subsection 10(1) of the Act is replaced by the following:
 
@@ -3731,9 +3733,9 @@ Section 9 of the Act is repealed.
 
   **(3)** Paragraphs 10(3)(a) and (b) of the Act are replaced by the following:
 
-    in the case of a veteran **for whom an application made under section 8 was approved**, a physical or a mental health problem resulting primarily from service in the Canadian Forces that is creating a barrier to re-establishment in civilian life; or
+    in the case of a veteran for whom an application made under section 8 was approved, a physical or a mental health problem resulting primarily from service in the Canadian Forces that is creating a barrier to re-establishment in civilian life; or
 
-    **in the** case **of a veteran for whom an application made under section 9 was approved**, the physical or mental health problem for which the veteran was released.
+    in the case of a veteran for whom an application made under section 9 was approved, the physical or mental health problem for which the veteran was released.
 
   **(4)** Subsection 10(3) of the Act is replaced by the following:
 
@@ -3741,23 +3743,23 @@ Section 9 of the Act is repealed.
 
   **(5)** Subsections 10(4) and (5) of the Act are replaced by the following:
 
-    **(4)** In developing a rehabilitation plan, the Minister shall have regard to any prescribed principles and factors and be guided by current research in the **field** of rehabilitation.
+    **(4)** In developing a rehabilitation plan, the Minister shall have regard to any prescribed principles and factors and be guided by current research in the field of rehabilitation.
 
 ### Section 130
 
 Paragraph 11(1)(a) of the Act is replaced by the following:
 
-has approved an application for rehabilitation services made by the veteran **under section 8**; and
+has approved an application for rehabilitation services made by the veteran under section 8; and
 
 ### Section 131
 
 Section 18 of the Act and the heading before it are replaced by the following:
 
 
-### **Income Replacement** Benefit
+### Income Replacement Benefit
 
 
-#### **Veterans**
+#### Veterans
 
 ### Section 18
 
@@ -3769,7 +3771,7 @@ Section 18 of the Act and the heading before it are replaced by the following:
 
     if the Minister determines, as a result of that assessment, that a rehabilitation plan should be developed for the veteran, to participate in the development and implementation of the plan.
 
-  **(3)** **Subject to subsection (4)**, the **income replacement** benefit begins to be payable on the later of
+  **(3)** Subject to subsection (4), the income replacement benefit begins to be payable on the later of
 
     the first day of the month in which the Minister determines that the veteran has provided all the prescribed information, and
 
@@ -3783,25 +3785,25 @@ Section 18 of the Act and the heading before it are replaced by the following:
 
     the day on which the veteran attains the age of 65 years.
 
-  ****(6)**** Subject to **subsections (7)** and **20(2) and** section 21, the **income replacement** benefit **ceases to be** payable **on** the earlier of
+  **(6)** Subject to subsections (7) and 20(2) and section 21, the income replacement benefit ceases to be payable on the earlier of
 
     the first day of the month after the month in which the Minister determines, as a result of an assessment of the veteran's needs under subsection 10(1), that a rehabilitation plan should not be developed for the veteran,
 
-    the **first** day **of** the **month after the month in** which **the** veteran completes the rehabilitation plan **referred to in subsection (5) or the rehabilitation** plan is cancelled,
+    the first day of the month after the month in which the veteran completes the rehabilitation plan referred to in subsection (5) or the rehabilitation plan is cancelled,
 
-    the **first** day **of** the **month after the month in** which **the veteran attains the age of 65 years, and**
+    the first day of the month after the month in which the veteran attains the age of 65 years, and
 
     the first day of the month after the month in which the veteran dies.
 
-  ****(7)**** If the Minister determines **under subsection (5)** that the veteran has a diminished earning capacity that is due to the physical or mental health problem **referred to in subsection (1)**, the **income replacement** benefit continues to be payable to the veteran **even if** the rehabilitation plan has been completed or cancelled **or the veteran has attained the age of 65 years, but the benefit ceases to be payable on** the earlier of
+  **(7)** If the Minister determines under subsection (5) that the veteran has a diminished earning capacity that is due to the physical or mental health problem referred to in subsection (1), the income replacement benefit continues to be payable to the veteran even if the rehabilitation plan has been completed or cancelled or the veteran has attained the age of 65 years, but the benefit ceases to be payable on the earlier of
 
-    the **first** day **of** the **month after the month in which** the Minister determines that the veteran no longer has a diminished earning capacity that is due to that **health** problem, and
+    the first day of the month after the month in which the Minister determines that the veteran no longer has a diminished earning capacity that is due to that health problem, and
 
-    the **first** day **of the month after the month in** which the veteran **dies**.
+    the first day of the month after the month in which the veteran dies.
 
   **(8)** If the Minister makes the determination referred to in subsection (5) after the day on which the veteran attains the age of 65 years because the Minister was of the opinion that the reasons for delaying the determination were reasonable in the circumstances, that determination is deemed, for the purposes of subsection (7), to have been made before that day.
 
-  **(9)** Subsection (2) does not apply to a veteran if the Minister determines **under subsection (5)** that the veteran has a diminished earning capacity that is due to the physical or mental health problem.
+  **(9)** Subsection (2) does not apply to a veteran if the Minister determines under subsection (5) that the veteran has a diminished earning capacity that is due to the physical or mental health problem.
 
   **(10)** Paragraph (7)(a) does not apply to a veteran who has attained the age of 65 years.
 
@@ -3811,15 +3813,15 @@ Section 18 of the Act and the heading before it are replaced by the following:
 
 ### Section 19
 
-      **(1)** Subject to the regulations, the monthly amount of the **income replacement** benefit that is payable under section 18 to a veteran **who is under the age of 65 years — or to a veteran who has attained the age of 65 years, for the month in which the veteran attained that age** — shall be determined by the formula
+      **(1)** Subject to the regulations, the monthly amount of the income replacement benefit that is payable under section 18 to a veteran who is under the age of 65 years — or to a veteran who has attained the age of 65 years, for the month in which the veteran attained that age — shall be determined by the formula
 
   **(2)** Paragraphs 19(2)(a) to (d) of the Act are replaced by the following:
 
-    respecting, for the purposes of subsection (1), the determination of the imputed income in respect of a class of veterans, **including the periodic adjustment — including in accordance with a career progression factor — of the monthly military salary used in that determination**;
+    respecting, for the purposes of subsection (1), the determination of the imputed income in respect of a class of veterans, including the periodic adjustment — including in accordance with a career progression factor — of the monthly military salary used in that determination;
 
-    **providing for** a minimum amount of imputed income in respect of a class of veterans **and for the periodic adjustment of that minimum amount**; and
+    providing for a minimum amount of imputed income in respect of a class of veterans and for the periodic adjustment of that minimum amount; and
 
-    respecting the determination, for the purpose of the **description** of B in subsection (1), of an amount payable to a **class of veterans** for a month.
+    respecting the determination, for the purpose of the description of B in subsection (1), of an amount payable to a class of veterans for a month.
 
   **(3)** Section 19 of the Act is amended by adding the following after subsection (2):
 
@@ -3849,36 +3851,36 @@ Sections 20 to 22 of the Act are replaced by the following:
 
 ### Section 20
 
-  **(1)** The Minister may, for the purpose of determining whether a veteran **continues to be entitled** to an **income replacement** benefit under section 18, require the veteran to undergo a medical examination or an assessment by a person specified by the Minister.
+  **(1)** The Minister may, for the purpose of determining whether a veteran continues to be entitled to an income replacement benefit under section 18, require the veteran to undergo a medical examination or an assessment by a person specified by the Minister.
 
-  **(2)** If a veteran who is required by the Minister to undergo a medical examination or an assessment fails without reasonable excuse to do so, the Minister may **suspend the payment of** the **income replacement** benefit. **If the veteran continues to fail to undergo the medical examination or the assessment for a period of 30 days after the day on which payment of the benefit is suspended, the Minister may** cancel the benefit.
+  **(2)** If a veteran who is required by the Minister to undergo a medical examination or an assessment fails without reasonable excuse to do so, the Minister may suspend the payment of the income replacement benefit. If the veteran continues to fail to undergo the medical examination or the assessment for a period of 30 days after the day on which payment of the benefit is suspended, the Minister may cancel the benefit.
 
 ### Section 21
 
-The Minister may, in the prescribed circumstances, **suspend the payment of** an **income replacement** benefit that is payable under section 18 **or** cancel **the benefit**.
+The Minister may, in the prescribed circumstances, suspend the payment of an income replacement benefit that is payable under section 18 or cancel the benefit.
 
 
-#### **Survivors and Orphans**
+#### Survivors and Orphans
 
 ### Section 22
 
-  **(1)** The Minister may, on application, pay, in accordance with section 23, an **income replacement** benefit to a member's or a veteran's survivor or orphan if the member or veteran dies **before the day on which they attain the age of 65 years** as the result of
+  **(1)** The Minister may, on application, pay, in accordance with section 23, an income replacement benefit to a member's or a veteran's survivor or orphan if the member or veteran dies before the day on which they attain the age of 65 years as the result of
 
     a service-related injury or disease; or
 
     a non-service-related injury or disease that was aggravated by service.
 
-  **(2)** The **income replacement** benefit begins to be payable on the later of
+  **(2)** The income replacement benefit begins to be payable on the later of
 
-    the **first** day of the **month after** the month **in which** the member or veteran **dies**, and
+    the first day of the month after the month in which the member or veteran dies, and
 
-    the day that is one year before the **first** day **of the month in** which the **Minister determines that** the survivor or orphan is **entitled** to the benefit.
+    the day that is one year before the first day of the month in which the Minister determines that the survivor or orphan is entitled to the benefit.
 
-  **(3)** Subject to section 26.2, the **income replacement** benefit ceases to be payable, as the case may be,
+  **(3)** Subject to section 26.2, the income replacement benefit ceases to be payable, as the case may be,
 
-    to the survivor, on the **first** day **of the month after the month in** which the **survivor dies; and**
+    to the survivor, on the first day of the month after the month in which the survivor dies; and
 
-    **to the orphan, on the earlier of**
+    to the orphan, on the earlier of
 
     the first day of the month after the month in which the orphan is no longer an orphan, and
 
@@ -3890,39 +3892,39 @@ The Minister may, in the prescribed circumstances, **suspend the payment of** an
 
 ### Section 23
 
-      **(1)** Subject to the regulations, the monthly amount of **the income replacement** benefit that is payable under section 22 in respect of a member or a veteran is
+      **(1)** Subject to the regulations, the monthly amount of the income replacement benefit that is payable under section 22 in respect of a member or a veteran is
 
-        **for the month in which the member or veteran, if alive, would have attained the age of 65 years and any month before that month**, 90% of the member's or veteran's imputed income for a month; and
+        for the month in which the member or veteran, if alive, would have attained the age of 65 years and any month before that month, 90% of the member's or veteran's imputed income for a month; and
 
         for any month after the month in which the member or veteran, if alive, would have attained the age of 65 years, 70% of the amount determined by the formula
 
         is 70%; and
 
-        **is 90% of the member's or veteran's imputed income for a month.**
+        is 90% of the member's or veteran's imputed income for a month.
 
-      **(2)** If **the income replacement** benefit is payable to a survivor or an orphan, the following rules apply:
+      **(2)** If the income replacement benefit is payable to a survivor or an orphan, the following rules apply:
 
-        if there is a survivor but no orphans, the survivor is entitled to 100% of the **income replacement** benefit;
+        if there is a survivor but no orphans, the survivor is entitled to 100% of the income replacement benefit;
 
         if there is a survivor and one or more orphans,
 
-        the survivor is entitled to **50%** of the **income replacement** benefit, and
+        the survivor is entitled to 50% of the income replacement benefit, and
 
-        the orphans are entitled, as a class, to **50%** of the **income replacement** benefit, divided equally among them;
+        the orphans are entitled, as a class, to 50% of the income replacement benefit, divided equally among them;
 
-        if there are one or more orphans but no survivor, each **of those orphans** is entitled to the amount obtained by dividing the **income replacement** benefit by the number of those orphans.
+        if there are one or more orphans but no survivor, each of those orphans is entitled to the amount obtained by dividing the income replacement benefit by the number of those orphans.
 
-      **(3)** Subject to the regulations, the monthly amount of the **income replacement** benefit that is payable to a survivor **is to** be reduced by an amount that is payable to the survivor for a month — in respect of the member or veteran — from prescribed sources.
+      **(3)** Subject to the regulations, the monthly amount of the income replacement benefit that is payable to a survivor is to be reduced by an amount that is payable to the survivor for a month — in respect of the member or veteran — from prescribed sources.
 
   **(2)** Paragraphs 23(4)(a) to (d) of the Act are replaced by the following:
 
-    respecting, for the purposes of **paragraphs (1)(a) and (b)**, the determination of the imputed income in respect of a class of members or veterans, **including the periodic adjustment — including in accordance with a career progression factor — of the monthly military salary used in that determination**;
+    respecting, for the purposes of paragraphs (1)(a) and (b), the determination of the imputed income in respect of a class of members or veterans, including the periodic adjustment — including in accordance with a career progression factor — of the monthly military salary used in that determination;
 
-    **providing for** a minimum amount of imputed income in respect of a class of members or veterans **and for the periodic adjustment of that minimum amount**;
+    providing for a minimum amount of imputed income in respect of a class of members or veterans and for the periodic adjustment of that minimum amount;
 
-    providing for the periodic adjustment of **the amount of the income replacement** benefit calculated in accordance with subsection (1); and
+    providing for the periodic adjustment of the amount of the income replacement benefit calculated in accordance with subsection (1); and
 
-    respecting the determination, for the purpose of subsection (3), of an amount payable to a **class of survivors** for a month.
+    respecting the determination, for the purpose of subsection (3), of an amount payable to a class of survivors for a month.
 
   **(3)** Section 23 of the Act is amended by adding the following after subsection (4):
 
@@ -3940,7 +3942,7 @@ Sections 24 to 26 of the Act are replaced by the following:
 
   **(1)** The Minister may, on application, pay, in accordance with section 25, an income replacement benefit to a veteran's survivor or orphan if the veteran
 
-    dies **before the day on which they attain the age of 65 years** as the result of an injury or a disease other than
+    dies before the day on which they attain the age of 65 years as the result of an injury or a disease other than
 
     a service-related injury or disease, or
 
@@ -3958,33 +3960,33 @@ Sections 24 to 26 of the Act are replaced by the following:
 
     if the veteran was entitled to the income replacement benefit at the time of their death as a result of section 99, 24 times the amount of the income replacement benefit that the veteran would have been entitled to for the month in which they died had subsections 99(3) to (5) never applied to the veteran and had any amounts that were payable to the veteran from prescribed sources referred to in subsection 19(1) not been taken into account.
 
-  **(2)** If the **income replacement** benefit is payable to a survivor or an orphan, the following rules apply:
+  **(2)** If the income replacement benefit is payable to a survivor or an orphan, the following rules apply:
 
-    if there is a survivor but no orphans, the survivor is entitled to 100% of the **income replacement** benefit;
+    if there is a survivor but no orphans, the survivor is entitled to 100% of the income replacement benefit;
 
     if there is a survivor and one or more orphans,
 
-    the survivor is entitled to **50%** of the **income replacement** benefit, and
+    the survivor is entitled to 50% of the income replacement benefit, and
 
-    the orphans are entitled, as a class, to **50%** of the **income replacement** benefit, divided equally among them;
+    the orphans are entitled, as a class, to 50% of the income replacement benefit, divided equally among them;
 
-    if there are one or more orphans but no survivor, each **of those orphans** is entitled to the amount obtained by dividing the **income replacement** benefit by the number of those orphans.
+    if there are one or more orphans but no survivor, each of those orphans is entitled to the amount obtained by dividing the income replacement benefit by the number of those orphans.
 
 ### Section 26
 
   **(1)** The Minister may, on application, pay, in accordance with section 26.1, an income replacement benefit to a veteran's survivor or orphan if the veteran dies on or after the day on which they attain the age of 65 years and the veteran was entitled to the income replacement benefit at the time of their death.
 
-  **(2)** The **income replacement** benefit begins to be payable on the later of
+  **(2)** The income replacement benefit begins to be payable on the later of
 
-    the **first** day of the **month after** the month **in which** the veteran **dies**, and
+    the first day of the month after the month in which the veteran dies, and
 
-    the day that is one year before the **first** day **of the month in** which the **Minister determines** that the survivor or orphan **is entitled to** the benefit.
+    the day that is one year before the first day of the month in which the Minister determines that the survivor or orphan is entitled to the benefit.
 
-  **(3)** Subject to section 26.2, the **income replacement** benefit ceases to be payable, as the case may be,
+  **(3)** Subject to section 26.2, the income replacement benefit ceases to be payable, as the case may be,
 
-    to the survivor, on the **first** day **of the month after the month in** which the **survivor dies; and**
+    to the survivor, on the first day of the month after the month in which the survivor dies; and
 
-    **to the orphan, on the earlier of**
+    to the orphan, on the earlier of
 
     the first day of the month after the month in which the orphan is no longer an orphan, and
 
@@ -3992,25 +3994,25 @@ Sections 24 to 26 of the Act are replaced by the following:
 
 ### Section 26.1
 
-  **(1)** Subject to the regulations, the monthly amount of the **income replacement** benefit that is payable under section 26 in respect of a veteran is
+  **(1)** Subject to the regulations, the monthly amount of the income replacement benefit that is payable under section 26 in respect of a veteran is
 
     70% of the income replacement benefit that the veteran would have been entitled to for the month in which they died — or, if the veteran died in the month in which they attained the age of 65 years, for the month after the month in which they died — had any amounts that were payable to the veteran from prescribed sources referred to in subsection 19.1(1) not been taken into account; or
 
     if the veteran was entitled to the income replacement benefit at the time of their death as a result of section 99, 70% of the income replacement benefit that the veteran would have been entitled to for the month in which they died — or, if the veteran died in the month in which they attained the age of 65 years, for the month after the month in which they died — had subsections 99(3) to (5) never applied to the veteran and had any amounts that were payable to the veteran from prescribed sources referred to in subsection 19.1(1) not been taken into account.
 
-  **(2)** If the **income replacement** benefit is payable to a survivor or an orphan, the following rules apply:
+  **(2)** If the income replacement benefit is payable to a survivor or an orphan, the following rules apply:
 
-    if there is a survivor but no orphans, the survivor is entitled to 100% of the **income replacement** benefit;
+    if there is a survivor but no orphans, the survivor is entitled to 100% of the income replacement benefit;
 
     if there is a survivor and one or more orphans,
 
-    the survivor is entitled to **50%** of the **income replacement** benefit, and
+    the survivor is entitled to 50% of the income replacement benefit, and
 
-    the orphans are entitled, as a class, to **50%** of the **income replacement** benefit, divided equally among them;
+    the orphans are entitled, as a class, to 50% of the income replacement benefit, divided equally among them;
 
-    if there are one or more orphans but no survivor, each **of those orphans** is entitled to the amount obtained by dividing the **income replacement** benefit by the number of those orphans.
+    if there are one or more orphans but no survivor, each of those orphans is entitled to the amount obtained by dividing the income replacement benefit by the number of those orphans.
 
-  **(3)** Subject to the regulations, the monthly amount of the **income replacement** benefit that is payable to a survivor is to be reduced by an amount that is payable to the survivor for a month — in respect of the veteran — from prescribed sources.
+  **(3)** Subject to the regulations, the monthly amount of the income replacement benefit that is payable to a survivor is to be reduced by an amount that is payable to the survivor for a month — in respect of the veteran — from prescribed sources.
 
   **(4)** The Governor in Council may make regulations
 
@@ -4028,9 +4030,9 @@ The portion of section 27 of the Act before paragraph (b) is replaced by the fol
 
 ### Section 27
 
-The Minister may, on application made within the prescribed time, pay a Canadian Forces income support benefit to a veteran who has been in receipt of an **income replacement** benefit under section 18 — or would, but for their level of income, have been in receipt of it — if
+The Minister may, on application made within the prescribed time, pay a Canadian Forces income support benefit to a veteran who has been in receipt of an income replacement benefit under section 18 — or would, but for their level of income, have been in receipt of it — if
 
-the veteran is no longer entitled to the **income replacement** benefit;
+the veteran is no longer entitled to the income replacement benefit;
 
 ### Section 137
 
@@ -4040,7 +4042,7 @@ The heading before section 38 and sections 38 to 40.6 of the Act are repealed.
 
   **(1)** Paragraphs 41(a) and (b) of the Act are replaced by the following:
 
-    providing for the notification of the Minister, by persons who are **entitled to** an **income replacement** benefit or a Canadian Forces income support benefit, of any changes in income or benefits, or in an amount payable for a month from a prescribed source for the purposes of subsection 19(1), **19.1(1),** 23(3) or **26.1(3)**, requiring the provision of statements of estimated income, benefits or amounts payable and providing for the effect of those changes on the calculation of the amount of the compensation payable;
+    providing for the notification of the Minister, by persons who are entitled to an income replacement benefit or a Canadian Forces income support benefit, of any changes in income or benefits, or in an amount payable for a month from a prescribed source for the purposes of subsection 19(1), 19.1(1), 23(3) or 26.1(3), requiring the provision of statements of estimated income, benefits or amounts payable and providing for the effect of those changes on the calculation of the amount of the compensation payable;
 
     respecting what constitutes a diminished earning capacity;
 
@@ -4055,7 +4057,7 @@ The heading before section 38 and sections 38 to 40.6 of the Act are repealed.
 The heading of Part 3 of the Act is replaced by the following:
 
 
-## Critical Injury, **Pain and Suffering**, Death and Detention
+## Critical Injury, Pain and Suffering, Death and Detention
 
 ### Section 140
 
@@ -4063,7 +4065,7 @@ Section 42 of the Act is replaced by the following:
 
 ### Section 42
 
-This Part, other than sections 44.1, 44.2 and **56.6 to 56.8**, does not apply in respect of an injury or a disease, or the aggravation of an injury or a disease, if the injury or disease, or the aggravation, is one for which a pension may be granted under the `Pension Act`.
+This Part, other than sections 44.1, 44.2 and 56.6 to 56.8, does not apply in respect of an injury or a disease, or the aggravation of an injury or a disease, if the injury or disease, or the aggravation, is one for which a pension may be granted under the `Pension Act`.
 
 ### Section 141
 
@@ -4078,17 +4080,17 @@ The heading before section 45 of the Act is replaced by the following:
 
 ### Section 45
 
-      **(1)** The Minister may, on application, pay **pain and suffering compensation** to a member or a veteran who establishes that they are suffering from a disability resulting from
+      **(1)** The Minister may, on application, pay pain and suffering compensation to a member or a veteran who establishes that they are suffering from a disability resulting from
 
   **(2)** Subsection 45(2) of the Act is replaced by the following:
 
-    **(2)** **Pain and suffering compensation** may be paid under paragraph (1)(b) only in respect of that fraction of a disability, measured in fifths, that represents the extent to which the injury or disease was aggravated by service.
+    **(2)** Pain and suffering compensation may be paid under paragraph (1)(b) only in respect of that fraction of a disability, measured in fifths, that represents the extent to which the injury or disease was aggravated by service.
 
 ### Section 143
 
 Subsection 46(2) of the Act is replaced by the following:
 
-**(2)** If a disability results from an injury or a disease that is deemed to be a service-related injury or disease, **pain and suffering compensation** may be paid under subsection 45(1) only in respect of that fraction of the disability, measured in fifths, that represents the extent to which that injury or disease is a consequence of another injury or disease that is, or is deemed to be, a service-related injury or disease.
+**(2)** If a disability results from an injury or a disease that is deemed to be a service-related injury or disease, pain and suffering compensation may be paid under subsection 45(1) only in respect of that fraction of the disability, measured in fifths, that represents the extent to which that injury or disease is a consequence of another injury or disease that is, or is deemed to be, a service-related injury or disease.
 
 ### Section 144
 
@@ -4096,33 +4098,33 @@ Sections 47 to 56 of the Act are replaced by the following:
 
 ### Section 47
 
-  **(1)** The Minister may, on application, pay **pain and suffering compensation** to a member or a veteran who has **been paid** a disability award **or pain and suffering compensation or to whom pain and suffering compensation is payable** on account of the loss of, or the permanent loss of the use of, one of their paired organs or limbs if the member or veteran suffers, either before or after that loss or loss of use, the loss of, the permanent loss of the use of or the impairment of the other paired organ or limb from any cause whatever.
+  **(1)** The Minister may, on application, pay pain and suffering compensation to a member or a veteran who has been paid a disability award or pain and suffering compensation or to whom pain and suffering compensation is payable on account of the loss of, or the permanent loss of the use of, one of their paired organs or limbs if the member or veteran suffers, either before or after that loss or loss of use, the loss of, the permanent loss of the use of or the impairment of the other paired organ or limb from any cause whatever.
 
-  **(2)** The member's or veteran's extent of disability in respect of that other paired organ or limb shall be considered to be 50% of the extent of disability at which the member or veteran would have been assessed if the loss of, the permanent loss of the use of or the impairment of that paired organ or limb had occurred in circumstances in which **pain and suffering compensation** would have been payable under section 45.
+  **(2)** The member's or veteran's extent of disability in respect of that other paired organ or limb shall be considered to be 50% of the extent of disability at which the member or veteran would have been assessed if the loss of, the permanent loss of the use of or the impairment of that paired organ or limb had occurred in circumstances in which pain and suffering compensation would have been payable under section 45.
 
 ### Section 48
 
-  **(1)** If a member or a veteran **who** has been paid a disability award **or pain and suffering compensation or** to whom **pain and suffering compensation is payable** establishes that their extent of disability, **for which** a disability award **or pain and suffering compensation was paid or is payable**, has subsequently increased, the Minister may, on application, pay **pain and suffering compensation** to the member or veteran.
+  **(1)** If a member or a veteran who has been paid a disability award or pain and suffering compensation or to whom pain and suffering compensation is payable establishes that their extent of disability, for which a disability award or pain and suffering compensation was paid or is payable, has subsequently increased, the Minister may, on application, pay pain and suffering compensation to the member or veteran.
 
-  **(2)** In the case of a non-service related injury or disease that was aggravated by service, **pain and suffering compensation** may be paid under subsection (1) only in respect of that fraction of the disability that has been determined in accordance with subsection 45(2).
+  **(2)** In the case of a non-service related injury or disease that was aggravated by service, pain and suffering compensation may be paid under subsection (1) only in respect of that fraction of the disability that has been determined in accordance with subsection 45(2).
 
-  **(3)** In the case of an injury or a disease that is a consequence of another injury or disease, **pain and suffering compensation** may be paid under subsection (1) only in respect of that fraction of the disability that has been determined in accordance with subsection 46(2).
+  **(3)** In the case of an injury or a disease that is a consequence of another injury or disease, pain and suffering compensation may be paid under subsection (1) only in respect of that fraction of the disability that has been determined in accordance with subsection 46(2).
 
 ### Section 49
 
-  ****(1)**** The assessment of the extent of a disability shall be based on the instructions and a table of disabilities to be made by the Minister for the guidance of persons making those assessments.
+  **(1)** The assessment of the extent of a disability shall be based on the instructions and a table of disabilities to be made by the Minister for the guidance of persons making those assessments.
 
-  ****(2)**** The instructions and table of disabilities are exempt from the application of sections 3, 5 and 11 of the `Statutory Instruments Act`.
+  **(2)** The instructions and table of disabilities are exempt from the application of sections 3, 5 and 11 of the `Statutory Instruments Act`.
 
 ### Section 50
 
-  **(1)** Subject to section **56.4**, the **monthly** amount of **pain and suffering compensation that is** payable **under section 45, 47 or 48 to** a member or a veteran shall be determined by the formula
+  **(1)** Subject to section 56.4, the monthly amount of pain and suffering compensation that is payable under section 45, 47 or 48 to a member or a veteran shall be determined by the formula
 
-    is the amount set out in column 3 of Schedule 3 that corresponds to the extent of disability, as set out in column 2 of that Schedule, **that is the total of the member's or veteran's extent of disability for which a disability award has been paid or for which pain and suffering compensation is payable or has been paid as a lump sum**; and
+    is the amount set out in column 3 of Schedule 3 that corresponds to the extent of disability, as set out in column 2 of that Schedule, that is the total of the member's or veteran's extent of disability for which a disability award has been paid or for which pain and suffering compensation is payable or has been paid as a lump sum; and
 
-    is the amount set out in column 3 of Schedule 3 that corresponds to the extent of disability, as set out in column 2 of that Schedule, **that is the total of the member's or veteran's** extent of disability **for which a** disability award **has been paid** or **for which pain** and **suffering compensation has been paid as a lump sum**.
+    is the amount set out in column 3 of Schedule 3 that corresponds to the extent of disability, as set out in column 2 of that Schedule, that is the total of the member's or veteran's extent of disability for which a disability award has been paid or for which pain and suffering compensation has been paid as a lump sum.
 
-  **(2)** For the purpose of determining the extent of disability in subsection (1), if a disability award **or pain and suffering compensation was paid or** may be paid only in respect of a fraction of a disability, then only that fraction of the disability shall be taken into account.
+  **(2)** For the purpose of determining the extent of disability in subsection (1), if a disability award or pain and suffering compensation was paid or may be paid only in respect of a fraction of a disability, then only that fraction of the disability shall be taken into account.
 
 ### Section 51
 
@@ -4154,7 +4156,7 @@ The Minister may, in the prescribed circumstances, suspend the payment of pain a
 
   **(2)** The amount of the pain and suffering compensation that is payable as a lump sum shall be determined by the formula
 
-    is the amount set out in column 4 of Schedule 3 that corresponds to the extent of disability, as set out in column 2 of that Schedule, **that is the total of the member's or veteran's extent of disability for which pain and suffering compensation is payable**; and
+    is the amount set out in column 4 of Schedule 3 that corresponds to the extent of disability, as set out in column 2 of that Schedule, that is the total of the member's or veteran's extent of disability for which pain and suffering compensation is payable; and
 
     is the sum of the amounts obtained — in respect of each pain and suffering compensation that began to be payable to the member or veteran, other than pain and suffering compensation for which the member or veteran previously made an election under this section — by multiplying the amount determined in accordance with paragraph (a) by the number determined in accordance with paragraph (b):
 
@@ -4162,7 +4164,7 @@ The Minister may, in the prescribed circumstances, suspend the payment of pain a
 
     the number of months for which the member or veteran was paid that pain and suffering compensation.
 
-  **(3)** An election made under subsection (1) is irrevocable and applies in respect of the member's or veteran's **total** extent of disability for which pain and suffering compensation is payable when the election is made.
+  **(3)** An election made under subsection (1) is irrevocable and applies in respect of the member's or veteran's total extent of disability for which pain and suffering compensation is payable when the election is made.
 
 ### Section 54
 
@@ -4170,47 +4172,47 @@ If a member or a veteran to whom pain and suffering compensation is payable unde
 
 ### Section 55
 
-  ****(1)**** If a member or a veteran who made an application for **pain and suffering compensation** under section 45, 47 or 48 dies before the Minister makes a **determination** in respect of the application, the Minister may pay **as a lump sum**, in accordance with section **56.1**, to a survivor or a person who was, at the time of the member's or veteran's death, a dependent child, **pain and suffering compensation in an amount equal to the amount, set out in column 4 of Schedule 3, that corresponds to the monthly amount of pain and suffering compensation, set out in column 3 of that Schedule, that** would have been **payable** to the member or veteran under section 45, 47 or 48, had they lived, as **a result of** the **application**.
+  **(1)** If a member or a veteran who made an application for pain and suffering compensation under section 45, 47 or 48 dies before the Minister makes a determination in respect of the application, the Minister may pay as a lump sum, in accordance with section 56.1, to a survivor or a person who was, at the time of the member's or veteran's death, a dependent child, pain and suffering compensation in an amount equal to the amount, set out in column 4 of Schedule 3, that corresponds to the monthly amount of pain and suffering compensation, set out in column 3 of that Schedule, that would have been payable to the member or veteran under section 45, 47 or 48, had they lived, as a result of the application.
 
-  ****(2)**** The survivor or **dependent** child has, in respect of the application referred to in subsection (**1**), all of the rights that the member or veteran would have had had they lived.
+  **(2)** The survivor or dependent child has, in respect of the application referred to in subsection (1), all of the rights that the member or veteran would have had had they lived.
 
 ### Section 56
 
-If a member or a veteran dies before they **make an application for pain and suffering compensation** under section 45, 47 or 48, the Minister may, on application, pay **as a lump sum**, in accordance with section **56.1**, to a survivor or a person who was, at the time of the member's or veteran's death, a dependent child, **pain and suffering compensation in an amount equal to** the **amount, set out in column 4 of Schedule 3, that corresponds** to the **monthly amount of pain and suffering compensation, set out in column 3 of that Schedule, that** would have been **payable** to the member or veteran under section 45, 47 or 48 if the **member or veteran had lived and had made the application**.
+If a member or a veteran dies before they make an application for pain and suffering compensation under section 45, 47 or 48, the Minister may, on application, pay as a lump sum, in accordance with section 56.1, to a survivor or a person who was, at the time of the member's or veteran's death, a dependent child, pain and suffering compensation in an amount equal to the amount, set out in column 4 of Schedule 3, that corresponds to the monthly amount of pain and suffering compensation, set out in column 3 of that Schedule, that would have been payable to the member or veteran under section 45, 47 or 48 if the member or veteran had lived and had made the application.
 
-### Section **56.1**
+### Section 56.1
 
-If **pain and suffering compensation** is payable to a survivor or a person who was, at the time of a member's or veteran's death, a dependent child, the following rules apply:
+If pain and suffering compensation is payable to a survivor or a person who was, at the time of a member's or veteran's death, a dependent child, the following rules apply:
 
-if there is a survivor but no person who was a dependent child, the survivor is entitled to 100% of the **pain and suffering compensation**;
+if there is a survivor but no person who was a dependent child, the survivor is entitled to 100% of the pain and suffering compensation;
 
 if there is a survivor and one or more persons who were dependent children,
 
-the survivor is entitled to 50% of the **pain and suffering compensation**, and
+the survivor is entitled to 50% of the pain and suffering compensation, and
 
-the persons who were dependent children are entitled, as a class, to 50% of the **pain and suffering compensation**, divided equally among them;
+the persons who were dependent children are entitled, as a class, to 50% of the pain and suffering compensation, divided equally among them;
 
-if there are one or more persons who were dependent children but no survivor, each of those children is entitled to the amount obtained by dividing the **pain and suffering compensation** by the number of those children.
+if there are one or more persons who were dependent children but no survivor, each of those children is entitled to the amount obtained by dividing the pain and suffering compensation by the number of those children.
 
-### Section **56.2**
+### Section 56.2
 
-**For the purposes of sections 55 and 56**, if a member or a veteran dies as a result of an injury or a disease for which a disability award has been paid **or for which pain and suffering compensation has been paid, is payable** or would be payable and their death occurs more than 30 days after the day on which the injury occurred or the disease was contracted or the injury or disease was aggravated, the member or veteran is deemed to have been assessed, **on** the **day before** their death, as having an extent of disability of 100% **in respect of** that **injury or disease**.
+For the purposes of sections 55 and 56, if a member or a veteran dies as a result of an injury or a disease for which a disability award has been paid or for which pain and suffering compensation has been paid, is payable or would be payable and their death occurs more than 30 days after the day on which the injury occurred or the disease was contracted or the injury or disease was aggravated, the member or veteran is deemed to have been assessed, on the day before their death, as having an extent of disability of 100% in respect of that injury or disease.
 
-### Section **56.3**
+### Section 56.3
 
-If an amount is paid or payable to a person from a prescribed source in respect of a death or disability for which **pain and suffering compensation** is payable, the Minister may reduce the **pain and suffering compensation that is** payable to the person by **an** amount **determined in accordance with the regulations**.
+If an amount is paid or payable to a person from a prescribed source in respect of a death or disability for which pain and suffering compensation is payable, the Minister may reduce the pain and suffering compensation that is payable to the person by an amount determined in accordance with the regulations.
 
-### Section **56.4**
+### Section 56.4
 
-  ****(1)**** If a member's or a veteran's extent of disability, in respect of the aggregate of all of the member's or veteran's disability assessments and deemed disability assessments under **this Act — in relation to the disability award or pain and suffering compensation — and** under the `Pension Act`, exceeds 100%, no **pain and suffering compensation is to be paid** for any percentage points exceeding 100%.
+  **(1)** If a member's or a veteran's extent of disability, in respect of the aggregate of all of the member's or veteran's disability assessments and deemed disability assessments under this Act — in relation to the disability award or pain and suffering compensation — and under the `Pension Act`, exceeds 100%, no pain and suffering compensation is to be paid for any percentage points exceeding 100%.
 
-  ****(2)**** For the purpose of determining the extent of disability, if a disability award **or pain and suffering compensation was paid or** may be paid only in respect of a fraction of a disability, or if only a fraction of a disability is pensionable under the `Pension Act`, then only that fraction of the disability shall be taken into account.
+  **(2)** For the purpose of determining the extent of disability, if a disability award or pain and suffering compensation was paid or may be paid only in respect of a fraction of a disability, or if only a fraction of a disability is pensionable under the `Pension Act`, then only that fraction of the disability shall be taken into account.
 
-### Section **56.5**
+### Section 56.5
 
-  ****(1)**** **No pain and suffering compensation** shall be granted in respect of an injury or a disease, or the aggravation of an injury or a disease, if the injury or disease, or the aggravation, has been the subject of an application for a pension under the `Pension Act` and the Minister, or the Commission as defined in section 79 of that Act, has rendered a decision in respect of the application.
+  **(1)** No pain and suffering compensation shall be granted in respect of an injury or a disease, or the aggravation of an injury or a disease, if the injury or disease, or the aggravation, has been the subject of an application for a pension under the `Pension Act` and the Minister, or the Commission as defined in section 79 of that Act, has rendered a decision in respect of the application.
 
-  ****(2)**** **No pain and suffering compensation** shall be granted in respect of an injury or a disease, or the aggravation of an injury or a disease, if the Minister determines that the injury or disease, or the aggravation, is inseparable — for the purpose of assessing the extent of disability — from an injury or a disease, or the aggravation of an injury or a disease, for which a pension has been granted under the `Pension Act`.
+  **(2)** No pain and suffering compensation shall be granted in respect of an injury or a disease, or the aggravation of an injury or a disease, if the Minister determines that the injury or disease, or the aggravation, is inseparable — for the purpose of assessing the extent of disability — from an injury or a disease, or the aggravation of an injury or a disease, for which a pension has been granted under the `Pension Act`.
 
 
 ### Additional Pain and Suffering Compensation
@@ -4241,7 +4243,7 @@ If an amount is paid or payable to a person from a prescribed source in respect 
 
   **(7)** If there has been a change in circumstances relating to a veteran to whom additional pain and suffering compensation is payable, the Minister may, on application, reassess the extent of the veteran's permanent and severe impairment. The Minister may, on his or her own initiative, reassess the extent of the veteran's permanent and severe impairment.
 
-  **(8)** If, as a result of the reassessment, a determination is made that the extent of the veteran's permanent and severe impairment has changed, **the resulting additional pain and suffering compensation** begins to be payable,
+  **(8)** If, as a result of the reassessment, a determination is made that the extent of the veteran's permanent and severe impairment has changed, the resulting additional pain and suffering compensation begins to be payable,
 
     if the reassessment is conducted on application and the veteran's extent of impairment has worsened, on the later of
 
@@ -4273,19 +4275,19 @@ The Minister may, in the prescribed circumstances, suspend the payment of additi
 
 ### Section 60
 
-      **(1)** The Minister may, on application, pay to a member or a veteran who has received a disability award **or pain and suffering compensation** on account of an amputation of their leg at or above a Symes' amputation a clothing allowance in respect of **their** amputation that causes wear and tear of clothing.
+      **(1)** The Minister may, on application, pay to a member or a veteran who has received a disability award or pain and suffering compensation on account of an amputation of their leg at or above a Symes' amputation a clothing allowance in respect of their amputation that causes wear and tear of clothing.
 
-      **(2)** The Minister may, on application, pay to a member or a veteran who has received a disability award **or pain and suffering compensation** on account of an amputation of the arm at or above the wrist a clothing allowance in respect of **their** amputation that causes wear and tear of clothing.
+      **(2)** The Minister may, on application, pay to a member or a veteran who has received a disability award or pain and suffering compensation on account of an amputation of the arm at or above the wrist a clothing allowance in respect of their amputation that causes wear and tear of clothing.
 
   **(2)** Subsection 60(3) of the English version of the Act is replaced by the following:
 
-    **(3)** If a member or a veteran has received a disability award **or pain and suffering compensation** on account of two amputations of a kind described in subsection (1) or (2), the Minister may, on application, in addition to the allowances that may be payable under that subsection, pay a clothing allowance in respect of the second amputation equal to 50% of the allowance payable in respect of that amputation.
+    **(3)** If a member or a veteran has received a disability award or pain and suffering compensation on account of two amputations of a kind described in subsection (1) or (2), the Minister may, on application, in addition to the allowances that may be payable under that subsection, pay a clothing allowance in respect of the second amputation equal to 50% of the allowance payable in respect of that amputation.
 
   **(3)** Subsections 60(4) and (5) of the Act are replaced by the following:
 
-    **(4)** If a member or a veteran has received a disability award **or pain and suffering compensation** for a disability other than a disability described in subsection (1) or (2) that causes wear and tear of clothing, the Minister may, on application, pay a clothing allowance.
+    **(4)** If a member or a veteran has received a disability award or pain and suffering compensation for a disability other than a disability described in subsection (1) or (2) that causes wear and tear of clothing, the Minister may, on application, pay a clothing allowance.
 
-    **(5)** If a member or a veteran has received a disability award **or pain and suffering compensation** for a disability that requires the wearing of specially made apparel, the Minister may, on application, in addition to any other allowance that may be payable under this section, pay a clothing allowance on account of the purchase of the apparel.
+    **(5)** If a member or a veteran has received a disability award or pain and suffering compensation for a disability that requires the wearing of specially made apparel, the Minister may, on application, in addition to any other allowance that may be payable under this section, pay a clothing allowance on account of the purchase of the apparel.
 
 ### Section 146
 
@@ -4295,7 +4297,7 @@ Section 63 of the Act is replaced by the following:
 
 The Governor in Council may make regulations
 
-respecting the rules of evidence and evidentiary presumptions relating to applications for a critical injury benefit, **pain and suffering compensation** or a death benefit;
+respecting the rules of evidence and evidentiary presumptions relating to applications for a critical injury benefit, pain and suffering compensation or a death benefit;
 
 respecting the determination, for the purpose of section 56.3, of an amount by which pain and suffering compensation may be reduced; and
 
@@ -4305,11 +4307,11 @@ respecting what constitutes a permanent and severe impairment, the manner of det
 
   **(1)** Paragraph 65.1(1)(a) of the Act is replaced by the following:
 
-    the veteran has had an application for a disability award **or pain and suffering compensation** approved;
+    the veteran has had an application for a disability award or pain and suffering compensation approved;
 
   **(2)** Paragraph 65.1(1)(b) of the English version of the Act is replaced by the following:
 
-    as a result of the disability for which the application for a disability award **or pain and suffering compensation** was approved, the veteran requires ongoing care;
+    as a result of the disability for which the application for a disability award or pain and suffering compensation was approved, the veteran requires ongoing care;
 
 ### Section 148
 
@@ -4317,7 +4319,7 @@ Subsection 74(1) of the English version of the Act is replaced by the following:
 
 ### Section 74
 
-  **(1)** The Minister may pay to a person who undergoes **a** medical examination or **an** assessment **at** the **Minister's request** a reasonable amount for their travel and living expenses incurred by reason of the medical examination or the assessment.
+  **(1)** The Minister may pay to a person who undergoes a medical examination or an assessment at the Minister's request a reasonable amount for their travel and living expenses incurred by reason of the medical examination or the assessment.
 
 ### Section 149
 
@@ -4325,23 +4327,23 @@ The portion of section 82 of the Act before paragraph (a) is replaced by the fol
 
 ### Section 82
 
-The Minister may, for the purpose of determining whether a person is entitled to an income **replacement** benefit or a Canadian Forces income support benefit under this Act,
+The Minister may, for the purpose of determining whether a person is entitled to an income replacement benefit or a Canadian Forces income support benefit under this Act,
 
 ### Section 150
 
   **(1)** The portion of subsection 88(4) of the English version of the Act before paragraph (a) is replaced by the following:
 
-    **(4)** Despite anything in this Act, the Minister may continue the payment of an education and training benefit, **an** income **replacement** benefit, a Canadian Forces income support benefit, **pain and suffering compensation, additional pain and suffering compensation**, a clothing allowance or a caregiver recognition benefit, in whole or in part, to a person who is not entitled to it, or not entitled to a portion of it, if
+    **(4)** Despite anything in this Act, the Minister may continue the payment of an education and training benefit, an income replacement benefit, a Canadian Forces income support benefit, pain and suffering compensation, additional pain and suffering compensation, a clothing allowance or a caregiver recognition benefit, in whole or in part, to a person who is not entitled to it, or not entitled to a portion of it, if
 
   **(2)** Paragraphs 88(4)(c) and (d) of the English version of the Act are replaced by the following:
 
-    the cancellation or reduction of the benefit, allowance, **pain and suffering compensation** or **additional pain and suffering compensation** would, in the opinion of the Minister, cause undue hardship to the person; and
+    the cancellation or reduction of the benefit, allowance, pain and suffering compensation or additional pain and suffering compensation would, in the opinion of the Minister, cause undue hardship to the person; and
 
-    the benefit, allowance, **pain and suffering compensation** or **additional pain and suffering compensation** has been paid to the person for five years or more or, in the case of an education and training benefit, for three years or more.
+    the benefit, allowance, pain and suffering compensation or additional pain and suffering compensation has been paid to the person for five years or more or, in the case of an education and training benefit, for three years or more.
 
   **(3)** Subsection 88(4) of the French version of the Act is replaced by the following:
 
-    **(4)** Malgré les autres dispositions de la présente loi, le ministre peut continuer de verser à la personne, bien que celle-ci n'y ait pas droit, tout ou partie de l'allocation pour études et formation, de la **prestation** de **remplacement** du revenu, de l'allocation de soutien du revenu, de **l'indemnité** pour **douleur et souffrance**, de **l'indemnité supplémentaire** pour **douleur et souffrance**, de l'allocation vestimentaire ou de l'allocation de reconnaissance pour aidant dont le montant résulte d'une erreur, d'un retard ou d'un oubli de la part d'un cadre ou fonctionnaire de l'administration publique fédérale et a fait l'objet d'une remise au motif prévu à l'alinéa (3)d), s'il estime que le versement, fait depuis au moins cinq ans, ou depuis au moins trois ans dans le cas de l'allocation pour études et formation, ne résulte pas d'une déclaration trompeuse ou de la dissimulation de faits importants de la part de cette personne et que son annulation ou sa réduction lui causerait un préjudice abusif.
+    **(4)** Malgré les autres dispositions de la présente loi, le ministre peut continuer de verser à la personne, bien que celle-ci n'y ait pas droit, tout ou partie de l'allocation pour études et formation, de la prestation de remplacement du revenu, de l'allocation de soutien du revenu, de l'indemnité pour douleur et souffrance, de l'indemnité supplémentaire pour douleur et souffrance, de l'allocation vestimentaire ou de l'allocation de reconnaissance pour aidant dont le montant résulte d'une erreur, d'un retard ou d'un oubli de la part d'un cadre ou fonctionnaire de l'administration publique fédérale et a fait l'objet d'une remise au motif prévu à l'alinéa (3)d), s'il estime que le versement, fait depuis au moins cinq ans, ou depuis au moins trois ans dans le cas de l'allocation pour études et formation, ne résulte pas d'une déclaration trompeuse ou de la dissimulation de faits importants de la part de cette personne et que son annulation ou sa réduction lui causerait un préjudice abusif.
 
 ### Section 151
 
@@ -4359,11 +4361,11 @@ No interest shall be paid in respect of any compensation that is payable under t
 
   **(2)** Paragraph 94(c) of the Act is replaced by the following:
 
-    providing for the periodic adjustment of the amounts set out in Schedules 1 to **4**;
+    providing for the periodic adjustment of the amounts set out in Schedules 1 to 4;
 
   **(3)** Paragraph 94(e) of the Act is replaced by the following:
 
-    respecting the provision of any information, declaration or document to the Minister by any person who applies for or is in receipt of career transition services, an education and training benefit, an education and training completion bonus, rehabilitation services, vocational assistance, an **income replacement** benefit, a Canadian Forces income support benefit, **pain and suffering compensation, additional pain and suffering compensation** or a clothing allowance under this Act, and authorizing the Minister to suspend delivery of the services or assistance or payment of the benefit, bonus, allowance, **pain and suffering compensation** or **additional pain and suffering compensation** until the information, declaration or document is provided;
+    respecting the provision of any information, declaration or document to the Minister by any person who applies for or is in receipt of career transition services, an education and training benefit, an education and training completion bonus, rehabilitation services, vocational assistance, an income replacement benefit, a Canadian Forces income support benefit, pain and suffering compensation, additional pain and suffering compensation or a clothing allowance under this Act, and authorizing the Minister to suspend delivery of the services or assistance or payment of the benefit, bonus, allowance, pain and suffering compensation or additional pain and suffering compensation until the information, declaration or document is provided;
 
   **(4)** Paragraphs 94(i.1) and (i.2) of the Act are repealed.
 
@@ -4394,14 +4396,14 @@ The heading before section 95 of the Act is replaced by the following:
 The Act is amended by adding the following after section 95:
 
 
-### **Special Duty Areas and Special Duty Operations**
+### Special Duty Areas and Special Duty Operations
 
 ### Section 157
 
 Sections 98 to 117 of the Act are replaced by the following:
 
 
-### **Transitional Provisions Relating to Income Replacement Benefit**
+### Transitional Provisions Relating to Income Replacement Benefit
 
 
 #### Definitions
@@ -4419,10 +4421,10 @@ The following definitions apply in this section and in sections 99 to 129.
 **new Act** means this Act as it reads on April 1, 2019. (**nouvelle loi**)
 
 
-#### **Earnings Loss Benefit**
+#### Earnings Loss Benefit
 
 
-##### **Members and Veterans**
+##### Members and Veterans
 
 ### Section 99
 
@@ -4523,7 +4525,7 @@ If, before April 1, 2019, the Minister made a determination in respect of an app
 If, before April 1, 2019, a member made an application for an earnings loss benefit under subsection 18(1) of the former Act but the Minister did not make a determination in respect of the application before that date and the member was not released from the Canadian Forces before March 31, 2019, then the application is deemed not to have been made.
 
 
-##### **Survivors and Orphans**
+##### Survivors and Orphans
 
 ### Section 106
 
@@ -4539,7 +4541,7 @@ If, before April 1, 2019, a member made an application for an earnings loss bene
 
     is 70%; and
 
-    **is 70% of the amount of the earnings loss benefit that was payable to the survivor under section 22 of the former Act for the month of March 2019 and that was determined under section 23 of that Act, not taking into account any reduction under subsection 23(3) of that Act.**
+    is 70% of the amount of the earnings loss benefit that was payable to the survivor under section 22 of the former Act for the month of March 2019 and that was determined under section 23 of that Act, not taking into account any reduction under subsection 23(3) of that Act.
 
   **(4)** Subsections (2) and (3) cease to apply to a survivor on the first day of the month after the month in which the facts that were used to determine the percentage of the income replacement benefit payable to them in accordance with subsection 23(2) of the new Act are different from those used to determine the percentage of the earnings loss benefit that was payable to them in accordance with subsection 23(2) of the former Act for the month of March 2019.
 
@@ -4721,11 +4723,11 @@ the day after the day on which the veteran was released from the Canadian Forces
 
     subsection 26.1(2) of the new Act does not apply.
 
-  **(2)** The monthly amount of the **income replacement** benefit that is payable under section 26 of the new Act and that is determined under paragraph 26.1(1)(a) of that Act is to be determined by the formula
+  **(2)** The monthly amount of the income replacement benefit that is payable under section 26 of the new Act and that is determined under paragraph 26.1(1)(a) of that Act is to be determined by the formula
 
     is 70%; and
 
-    **is 70% of the income replacement benefit that the veteran would have been entitled to for the month of March 2019 if the benefit had been payable to the veteran for that month, if the veteran had attained the age of 65 years in that month and if any amounts that were payable to the veteran from prescribed sources referred to in subsection 19(1) had not been taken into account.**
+    is 70% of the income replacement benefit that the veteran would have been entitled to for the month of March 2019 if the benefit had been payable to the veteran for that month, if the veteran had attained the age of 65 years in that month and if any amounts that were payable to the veteran from prescribed sources referred to in subsection 19(1) had not been taken into account.
 
   **(3)** If the amount of the income replacement benefit that is payable to a survivor under section 26 of the new Act for a given month and that is determined under section 26.1 of that Act — not taking into account any reduction under subsection 26.1(3) of that Act — is less than the amount determined for A in subsection 40.3(4) of the former Act that was used to calculate the retirement income security benefit that was payable to the survivor under section 40.3 of that Act for the month of March 2019, then the former amount is to be replaced by the latter amount.
 
@@ -5063,7 +5065,7 @@ Any review, appeal or reconsideration that is continued on or commenced on or af
 
 Subparagraphs (f)(ii) and (iii) of the definition **student** in section 2 of the `Children of Deceased Veterans Education Assistance Act` are replaced by the following:
 
-a disability award **or pain and suffering compensation** has been granted under that Act in respect of the member or veteran, and
+a disability award or pain and suffering compensation has been granted under that Act in respect of the member or veteran, and
 
 the member's or veteran's extent of disability, in respect of the aggregate of all of the member's or veteran's disability assessments under that Act and, if applicable, the `Pension Act`, is equal to or greater than the lowest extent of disability set out in column 2 of Schedule 3 to the `Veterans Well-being Act` in respect of a rate of 50%. (**étudiant**)
 
@@ -5074,7 +5076,7 @@ the member's or veteran's extent of disability, in respect of the aggregate of a
 
 Subparagraph 5(g.1)(i.1) of the `Department of Veterans Affairs Act` is replaced by the following:
 
-the person died of an injury or a disease for which a disability award, **pain and suffering compensation** or a death benefit was payable under the `Veterans Well-being Act`,
+the person died of an injury or a disease for which a disability award, pain and suffering compensation or a death benefit was payable under the `Veterans Well-being Act`,
 
 
 #### Veterans Review and Appeal Board Act
@@ -5083,7 +5085,7 @@ the person died of an injury or a disease for which a disability award, **pain a
 
 Subsection 19(2) of the `Veterans Review and Appeal Board Act` is replaced by the following:
 
-**(2)** The Chairperson, or any member to whom the Chairperson has delegated the authority, may refuse to establish a review panel to hear an application for review of a decision concerning the amount of an award under the `Pension Act`, or the amount of a critical injury benefit, **pain and suffering compensation, additional pain and suffering compensation**, a death benefit, a clothing allowance or a detention benefit under Part 3 of the `Veterans Well-being Act`, if the Chairperson or member, as the case may be, considers the application to be such that no reasonable review panel could dispose of it in a manner favourable to the applicant.
+**(2)** The Chairperson, or any member to whom the Chairperson has delegated the authority, may refuse to establish a review panel to hear an application for review of a decision concerning the amount of an award under the `Pension Act`, or the amount of a critical injury benefit, pain and suffering compensation, additional pain and suffering compensation, a death benefit, a clothing allowance or a detention benefit under Part 3 of the `Veterans Well-being Act`, if the Chairperson or member, as the case may be, considers the application to be such that no reasonable review panel could dispose of it in a manner favourable to the applicant.
 
 ### Section 181
 
@@ -5091,11 +5093,11 @@ Subsection 19(2) of the `Veterans Review and Appeal Board Act` is replaced by th
 
 ### Section 34
 
-      **(1)** A person who has been refused an award under the `Pension Act` or a critical injury benefit, a disability award, **pain and suffering compensation, additional pain and suffering compensation**, a death benefit, a clothing allowance or a detention benefit under Part 3 of the `Veterans Well-being Act`, and who has exhausted all procedures for review and appeal under this Act may apply to the Board for a compassionate award.
+      **(1)** A person who has been refused an award under the `Pension Act` or a critical injury benefit, a disability award, pain and suffering compensation, additional pain and suffering compensation, a death benefit, a clothing allowance or a detention benefit under Part 3 of the `Veterans Well-being Act`, and who has exhausted all procedures for review and appeal under this Act may apply to the Board for a compassionate award.
 
   **(2)** Subsection 34(3) of the Act is replaced by the following:
 
-    **(3)** A panel may grant a compassionate award if it considers the case to be specially meritorious and the applicant is unqualified to receive an award under the `Pension Act` or a critical injury benefit, a disability award, **pain and suffering compensation, additional pain and suffering compensation**, a death benefit, a clothing allowance or a detention benefit under Part 3 of the `Veterans Well-being Act`.
+    **(3)** A panel may grant a compassionate award if it considers the case to be specially meritorious and the applicant is unqualified to receive an award under the `Pension Act` or a critical injury benefit, a disability award, pain and suffering compensation, additional pain and suffering compensation, a death benefit, a clothing allowance or a detention benefit under Part 3 of the `Veterans Well-being Act`.
 
 
 #### Economic Action Plan 2014 Act, No. 1
@@ -5106,11 +5108,11 @@ Subsection 19(2) of the `Veterans Review and Appeal Board Act` is replaced by th
 
 ### Section 102
 
-      **(1)** A person who received an earnings loss benefit under subsection 18(1) or 22(1) of the `Veterans Well-being Act`, **as it read immediately before April 1, 2019**, for the period that began on May 29, 2012 and ended on September 30, 2012 — or who would have been eligible to receive that benefit if the disability pension paid to the person under the `Pension Act` for that period had not been taken into account  —  is entitled to receive an amount determined in accordance with the formula
+      **(1)** A person who received an earnings loss benefit under subsection 18(1) or 22(1) of the `Veterans Well-being Act`, as it read immediately before April 1, 2019, for the period that began on May 29, 2012 and ended on September 30, 2012 — or who would have been eligible to receive that benefit if the disability pension paid to the person under the `Pension Act` for that period had not been taken into account  —  is entitled to receive an amount determined in accordance with the formula
 
   **(2)** Subsection 102(2) of the Act is replaced by the following:
 
-    **(2)** Any amount paid or payable under subsection (1) is deemed to be an **income replacement** benefit paid or payable under the `Veterans Well-being Act`.
+    **(2)** Any amount paid or payable under subsection (1) is deemed to be an income replacement benefit paid or payable under the `Veterans Well-being Act`.
 
 
 #### Budget Implementation Act, 2016, No. 1
@@ -5131,7 +5133,7 @@ Section 111 of the Act is replaced by the following:
 
 ### Section 111
 
-An amount paid or payable under any of sections 100 to 103 is deemed, for the purposes of paragraph 81(1)(d.1) of the `Income Tax Act`, to be **pain and suffering compensation** or a death benefit, as the case may be, payable to the taxpayer under Part 3 of the Act.
+An amount paid or payable under any of sections 100 to 103 is deemed, for the purposes of paragraph 81(1)(d.1) of the `Income Tax Act`, to be pain and suffering compensation or a death benefit, as the case may be, payable to the taxpayer under Part 3 of the Act.
 
 
 ### Coming into Force
@@ -5341,6 +5343,10 @@ property that is used for the purpose of providing heating or cooling to a build
 
 prescribed property. (**machinerie agricole admissible**)
 
+**eligible fishing activity** means the operation of an eligible fishing vessel for the purposes of fishing or a prescribed activity. (**activité de pêche admissible**)
+
+**eligible fishing vessel** means property that is primarily used for the purposes of fishing and that is a fishing vessel or prescribed property, but does not include prescribed property. (**navire de pêche admissible**)
+
 **excluded air journey** means a journey by aircraft that
 
 begins or ends in a listed province other than
@@ -5365,6 +5371,10 @@ is a prescribed journey or a journey meeting prescribed conditions. (**itinérai
 
 **farming** includes tillage of the soil, livestock raising or exhibiting, maintaining of horses for racing, raising of poultry, fur farming, dairy farming, fruit growing and the keeping of bees, but does not include an office or employment under a person engaged in the business of farming. (**agriculture**)
 
+**fisher** means a person that carries on a fishing business with a reasonable expectation of profit. (**pêcheur**)
+
+**fishing** includes fishing for or catching shellfish, crustaceans and marine animals but does not include an office or employment under a person engaged in the business of fishing. (**pêche**)
+
 **fuel** means
 
 a substance, material or thing set out in column 2 of any table in Schedule 2, other than
@@ -5387,7 +5397,7 @@ analyzed to assess composition, or
 
 processed into separate identifiable fuels; and
 
-is not a mixture of ethane, propane, butane or pent­anes plus created after the ethane, propane, butane or pentanes plus have been processed into separate identifiable fuels and subsequently remixed into a blend of one or more of the fuels. (**liquides de gaz**)
+is not a mixture of ethane, propane, butane or pentanes plus created after the ethane, propane, butane or pentanes plus have been processed into separate identifiable fuels and subsequently remixed into a blend of one or more of the fuels. (**liquides de gaz**)
 
 **gasoline** means a substance, including biogasoline, that is suitable for generating power by means of an internal combustion engine other than a diesel engine and that is not any other type of fuel. (**essence**)
 
@@ -5512,6 +5522,8 @@ using any means of altering the chemical or physical properties of a substance, 
 **qualifying aviation fuel** means a type of fuel that is aviation gasoline, aviation turbo fuel or a prescribed type of fuel. (**combustible d'aviation admissible**)
 
 **qualifying farming fuel** means a type of fuel that is gasoline, light fuel oil or a prescribed type of fuel. (**combustible agricole admissible**)
+
+**qualifying fishing fuel** means a type of fuel that is gasoline, light fuel oil or a prescribed type of fuel. (**combustible de pêche admissible**)
 
 **qualifying marine fuel** means a type of fuel that is heavy fuel oil, light fuel oil, marketable natural gas or a prescribed type of fuel. (**combustible maritime admissible**)
 
@@ -5714,7 +5726,9 @@ If a substance, material or thing is not fuel but is sold, represented or market
 
     a registered emitter,
 
-    a farmer, if the fuel is a qualifying farming fuel, or
+    a farmer, if the fuel is a qualifying farming fuel,
+
+    a fisher, if the fuel is a qualifying fishing fuel and the listed province is prescribed, or
 
     a prescribed person, a person of a prescribed class or a person meeting prescribed conditions, if prescribed circumstances exist; and
 
@@ -5950,6 +5964,36 @@ If a substance, material or thing is not fuel but is sold, represented or market
 
     prescribed circumstances exist or prescribed conditions are met.
 
+### Section 24.1
+
+  **(1)** Subject to this Part, if at any time fuel is delivered in a listed province by a registered distributor in respect of that type of fuel to a particular person that is a fisher and an exemption certificate applies in respect of the delivery in accordance with section 36, the particular person must pay to Her Majesty in right of Canada a charge in respect of the fuel and the listed province in the amount determined under section 40 to the extent that, at a later time, the fuel is
+
+    used by the particular person in the listed province otherwise than in eligible fishing activities; or
+
+    delivered by the particular person to another person unless the other person is a registered distributor in respect of that type of fuel and an exemption certificate applies in respect of the delivery in accordance with section 36.
+
+  **(2)** The charge under subsection (1) becomes payable at the later time referred to in that subsection.
+
+  **(3)** The charge under subsection (1) is not payable if
+
+    at the later time referred to in that subsection, the particular person is not a fisher;
+
+    a charge is payable under section 37 in respect of the fuel; or
+
+    prescribed circumstances exist or prescribed conditions are met.
+
+  **(4)** Subject to this Part, if at any time fuel is delivered in a listed province by a registered distributor in respect of that type of fuel to a particular person that is a fisher, if an exemption certificate applies in respect of the delivery in accordance with section 36 and if the particular person ceases, at a later time, to be a fisher, the particular person must pay to Her Majesty in right of Canada a charge in respect of the fuel and the listed province in the amount determined under section 40 to the extent that, at the later time, the fuel is held by the particular person in the listed province. The charge becomes payable at the later time.
+
+  **(5)** The charge under subsection (4) is not payable if
+
+    at the later time referred to in that subsection, the particular person is registered as a distributor in respect of that type of fuel;
+
+    at the later time referred to in that subsection, the particular person is a registered emitter, but only to the extent that, at the later time, the fuel is held at, or is in transit to, a covered facility of the person;
+
+    a charge is payable under section 37 in respect of the fuel; or
+
+    prescribed circumstances exist or prescribed conditions are met.
+
 ### Section 25
 
 Subject to this Part, every person that, at a particular time, burns combustible waste in a listed province for the purposes of producing heat or energy must pay to Her Majesty in right of Canada a charge in respect of the combustible waste and the listed province in the amount determined under section `41`. The charge becomes payable at the particular time.
@@ -6152,13 +6196,17 @@ If the annual net fuel adjustment, determined under section `33`, of a person fo
 
     that the person is a registered user in respect of that type of fuel and that the fuel is for use in a non-covered activity,
 
-    that the person is a farmer, that the location at which the fuel is delivered is a farm, that the fuel is for use exclusively in the operation of eligible farming machinery or of an auxiliary component of eligible farming machinery and that all or substantially all of the fuel is for use in the course of eligible farming activities, or
+    that the person is a farmer, that the location at which the fuel is delivered is a farm, that the fuel is for use exclusively in the operation of eligible farming machinery or of an auxiliary component of eligible farming machinery and that all or substantially all of the fuel is for use in the course of eligible farming activities,
+
+    that the person is a fisher, that the fuel is for use exclusively in the operation of an eligible fishing vessel and that all or substantially all of the fuel is for use in the course of eligible fishing activities, or
 
     that the person is a prescribed person, a person of a prescribed class or a person meeting prescribed conditions and that prescribed circumstances exist;
 
     the person provides, in a manner satisfactory to the Minister, the certificate in respect of the delivery to the other person; and
 
     the other person retains the certificate and indicates to the person, in a manner satisfactory to the Minister, that the delivery is subject to the certificate.
+
+  **(1.1)** Despite subsection (1), if fuel is delivered to a fisher in a listed province that is not prescribed for the purposes of subparagraph 17(2)(a)(iii.1), an exemption certificate does not apply in respect of the delivery.
 
   **(2)** Despite subsection (1), if prescribed circumstances exist or prescribed conditions are met, an exemption certificate applies, for the purposes of this Part, in respect of a delivery of fuel in accordance with prescribed rules.
 
@@ -6193,9 +6241,11 @@ If the annual net fuel adjustment, determined under section `33`, of a person fo
 
     the person is a registered emitter and the fuel is held at, or is in transit to, a covered facility of the person;
 
-    the person is a registered user in respect of that type of fuel and an exemption certificate applies in respect of the delivery in accordance with section `36`; or
+    the person is a registered user in respect of that type of fuel and an exemption certificate applies in respect of the delivery in accordance with section `36`;
 
-    the person is a farmer, the fuel is a qualifying farming fuel, and an exemption certificate applies in respect of the delivery in accordance with section `36`.
+    the person is a farmer, the fuel is a qualifying farming fuel, and an exemption certificate applies in respect of the delivery in accordance with section `36`; or
+
+    the person is a fisher, the fuel is a qualifying fishing fuel, and an exemption certificate applies in respect of the delivery in accordance with section 36.
 
   **(3)** The charge under subsection (1) becomes payable on the adjustment day.
 
@@ -6494,6 +6544,8 @@ If a trustee is appointed under the `Bankruptcy and Insolvency Act` to act in th
     to a registered distributor in respect of that type of fuel,
 
     to a farmer at a farm if the fuel is qualifying farming fuel,
+
+    to a fisher if the fuel is qualifying fishing fuel,
 
     to a registered specified air carrier in respect of that type of fuel if the fuel is qualifying aviation fuel,
 
@@ -8689,7 +8741,7 @@ For the purpose of collecting debts owed by a person to Her Majesty in right of 
 
   **(2)** For the purpose of ensuring that the pricing of greenhouse gas emissions is applied broadly in Canada at levels that the Governor in Council considers appropriate, the Governor in Council may, by regulation, amend Part 1 of Schedule 1, including by adding, deleting, varying or replacing any item or table.
 
-  **(3)** In making a regulation under subsection (2), the Governor in Council may take into account any factor that the Governor in Council considers appropriate, including the stringency of provincial pricing mechanisms for greenhouse gas emissions.
+  **(3)** In making a regulation under subsection (2), the Governor in Council **shall** take into account, **as the primary** factor, the stringency of provincial pricing mechanisms for greenhouse gas emissions.
 
   **(4)** The Governor in Council may, by regulation, amend Schedule 2 respecting the application of the fuel charge under this Part including by adding, deleting, varying or replacing a table.
 
@@ -8987,7 +9039,7 @@ any other transaction specified in the regulations.
 
   **(1)** For the purpose of ensuring that the pricing of greenhouse gas emissions is applied broadly in Canada at levels that the Governor in Council considers appropriate, the Governor in Council may, by order, amend Part 2 of Schedule 1 by adding, deleting or amending the name of a province or the description of an area.
 
-  **(2)** In making an order under subsection (1), the Governor in Council may take into account any factor that the Governor in Council considers appropriate, including the stringency of provincial pricing mechanisms for greenhouse gas emissions.
+  **(2)** In making an order under subsection (1), the Governor in Council **shall** take into account, **as the primary** factor, the stringency of provincial pricing mechanisms for greenhouse gas emissions.
 
   **(3)** For greater certainty, an area referred to in subsection (1) may include a part of the exclusive economic zone of Canada or the continental shelf of Canada.
 
@@ -10085,13 +10137,13 @@ and a corresponding reference to "section 107 and subsection 255(3)".
 
 ### Section 12
 
-      **(1)** The Court has exclusive original jurisdiction to hear and determine references and appeals to the Court on matters arising under the `Air Travellers Security Charge Act`, the `Canada Pension Plan`, the `Cultural Property Export and Import Act`, Part V.1 of the `Customs Act`, the `Employment Insurance Act`, the `Excise Act, 2001`, Part IX of the `Excise Tax Act`, **Part 1 of the `Greenhouse Gas Pollution Pricing Act`**, the `Income Tax Act`, the `Old Age Security Act`, the `Petroleum and Gas Revenue Tax Act` and the `Softwood Lumber Products Export Charge Act, 2006` when references or appeals to the Court are provided for in those Acts.
+      **(1)** The Court has exclusive original jurisdiction to hear and determine references and appeals to the Court on matters arising under the `Air Travellers Security Charge Act`, the `Canada Pension Plan`, the `Cultural Property Export and Import Act`, Part V.1 of the `Customs Act`, the `Employment Insurance Act`, the `Excise Act, 2001`, Part IX of the `Excise Tax Act`, Part 1 of the `Greenhouse Gas Pollution Pricing Act`, the `Income Tax Act`, the `Old Age Security Act`, the `Petroleum and Gas Revenue Tax Act` and the `Softwood Lumber Products Export Charge Act, 2006` when references or appeals to the Court are provided for in those Acts.
 
   **(2)** Subsections 12(3) and (4) of the Act are replaced by the following:
 
-    **(3)** The Court has exclusive original jurisdiction to hear and determine questions referred to it under section 51 or 52 of the `Air Travellers Security Charge Act`, section 97.58 of the `Customs Act`, section 204 or 205 of the `Excise Act, 2001`, section 310 or 311 of the `Excise Tax Act`, **section 121 or 122 of the `Greenhouse Gas Pollution Pricing Act`**, section 173 or 174 of the `Income Tax Act` or section 62 or 63 of the `Softwood Lumber Products Export Charge Act, 2006`.
+    **(3)** The Court has exclusive original jurisdiction to hear and determine questions referred to it under section 51 or 52 of the `Air Travellers Security Charge Act`, section 97.58 of the `Customs Act`, section 204 or 205 of the `Excise Act, 2001`, section 310 or 311 of the `Excise Tax Act`, section 121 or 122 of the `Greenhouse Gas Pollution Pricing Act`, section 173 or 174 of the `Income Tax Act` or section 62 or 63 of the `Softwood Lumber Products Export Charge Act, 2006`.
 
-    **(4)** The Court has exclusive original jurisdiction to hear and determine applications for extensions of time under section 45 or 47 of the `Air Travellers Security Charge Act`, subsection 28(1) of the `Canada Pension Plan`, section 33.2 of the `Cultural Property Export and Import Act`, section 97.51 or 97.52 of the `Customs Act`, subsection 103(1) of the `Employment Insurance Act`, section 197 or 199 of the `Excise Act, 2001`, section 304 or 305 of the `Excise Tax Act`, **section 115 or 117 of the `Greenhouse Gas Pollution Pricing Act`** or section 166.2 or 167 of the `Income Tax Act`.
+    **(4)** The Court has exclusive original jurisdiction to hear and determine applications for extensions of time under section 45 or 47 of the `Air Travellers Security Charge Act`, subsection 28(1) of the `Canada Pension Plan`, section 33.2 of the `Cultural Property Export and Import Act`, section 97.51 or 97.52 of the `Customs Act`, subsection 103(1) of the `Employment Insurance Act`, section 197 or 199 of the `Excise Act, 2001`, section 304 or 305 of the `Excise Tax Act`, section 115 or 117 of the `Greenhouse Gas Pollution Pricing Act` or section 166.2 or 167 of the `Income Tax Act`.
 
 ### Section 190
 
@@ -10103,13 +10155,13 @@ section 115 or 117 of the `Greenhouse Gas Pollution Pricing Act`,
 
 Subsection 18.31(2) of the Act is replaced by the following:
 
-**(2)** If it is agreed under section 51 of the `Air Travellers Security Charge Act`, section 97.58 of the `Customs Act`, section 204 of the `Excise Act, 2001`, section 310 of the `Excise Tax Act`, **section 121 of the `Greenhouse Gas Pollution Pricing Act`** or section 62 of the `Softwood Lumber Products Export Charge Act, 2006` that a question should be determined by the Court, sections 17.1, 17.2 and 17.4 to 17.8 apply, with any modifications that the circumstances require, in respect of the determination of the question.
+**(2)** If it is agreed under section 51 of the `Air Travellers Security Charge Act`, section 97.58 of the `Customs Act`, section 204 of the `Excise Act, 2001`, section 310 of the `Excise Tax Act`, section 121 of the `Greenhouse Gas Pollution Pricing Act` or section 62 of the `Softwood Lumber Products Export Charge Act, 2006` that a question should be determined by the Court, sections 17.1, 17.2 and 17.4 to 17.8 apply, with any modifications that the circumstances require, in respect of the determination of the question.
 
 ### Section 192
 
 Subsection 18.32(2) of the Act is replaced by the following:
 
-**(2)** If an application has been made under section 52 of the `Air Travellers Security Charge Act`, section 205 of the `Excise Act, 2001`, section 311 of the `Excise Tax Act`, **section 122 of the `Greenhouse Gas Pollution Pricing Act`** or section 63 of the `Softwood Lumber Products Export Charge Act, 2006` for the determination of a question, the application or determination of the question must, subject to section 18.33, be determined in accordance with sections 17.1, 17.2 and 17.4 to 17.8, with any modifications that the circumstances require.
+**(2)** If an application has been made under section 52 of the `Air Travellers Security Charge Act`, section 205 of the `Excise Act, 2001`, section 311 of the `Excise Tax Act`, section 122 of the `Greenhouse Gas Pollution Pricing Act` or section 63 of the `Softwood Lumber Products Export Charge Act, 2006` for the determination of a question, the application or determination of the question must, subject to section 18.33, be determined in accordance with sections 17.1, 17.2 and 17.4 to 17.8, with any modifications that the circumstances require.
 
 
 #### Canada Revenue Agency Act
@@ -10118,7 +10170,7 @@ Subsection 18.32(2) of the Act is replaced by the following:
 
 Paragraph (a) of the definition **program legislation** in section 2 of the `Canada Revenue Agency Act` is replaced by the following:
 
-that the Governor in Council or Parliament authorizes the Minister, the Agency, the Commissioner or an employee of the Agency to administer or enforce, including the `Air Travellers Security Charge Act`, the `Customs Act`, the `Excise Act`, the `Excise Act, 2001`, the `Excise Tax Act`, **the `Greenhouse Gas Pollution Pricing Act`**, the `Income Tax Act` and the `Softwood Lumber Products Export Charge Act, 2006`; or
+that the Governor in Council or Parliament authorizes the Minister, the Agency, the Commissioner or an employee of the Agency to administer or enforce, including the `Air Travellers Security Charge Act`, the `Customs Act`, the `Excise Act`, the `Excise Act, 2001`, the `Excise Tax Act`, the `Greenhouse Gas Pollution Pricing Act`, the `Income Tax Act` and the `Softwood Lumber Products Export Charge Act, 2006`; or
 
 
 #### Environmental Violations Administrative Monetary Penalties Act
@@ -10131,11 +10183,11 @@ The long title of the `Environmental Violations Administrative Monetary Penaltie
 
   **(1)** The definition **Environmental Act** in section 2 of the Act is replaced by the following:
 
-    **Environmental Act** means the `Antarctic Environmental Protection Act`, the `Canada National Marine Conservation Areas Act`, the `Canada National Parks Act`, the `Canada Water Act`, the `Canada Wildlife Act`, the `Canadian Environmental Assessment Act, 2012`, the `Canadian Environmental Protection Act, 1999`, **the `Greenhouse Gas Pollution Pricing Act`**, the `International River Improvements Act`, the `Migratory Birds Convention Act, 1994`, the `Rouge National Urban Park Act`, the `Saguenay-St. Lawrence Marine Park Act` or the `Wild Animal and Plant Protection and Regulation of International and Interprovincial Trade Act`. (**loi environnementale**)
+    **Environmental Act** means the `Antarctic Environmental Protection Act`, the `Canada National Marine Conservation Areas Act`, the `Canada National Parks Act`, the `Canada Water Act`, the `Canada Wildlife Act`, the `Canadian Environmental Assessment Act, 2012`, the `Canadian Environmental Protection Act, 1999`, the `Greenhouse Gas Pollution Pricing Act`, the `International River Improvements Act`, the `Migratory Birds Convention Act, 1994`, the `Rouge National Urban Park Act`, the `Saguenay-St. Lawrence Marine Park Act` or the `Wild Animal and Plant Protection and Regulation of International and Interprovincial Trade Act`. (**loi environnementale**)
 
   **(2)** Paragraph (a) of the definition Minister in section 2 of the Act is replaced by the following:
 
-    with respect to violations that relate to the `Antarctic Environmental Protection Act`, the `Canada Water Act`, the `Canada Wildlife Act`, the `Canadian Environmental Assessment Act, 2012`, the `Canadian Environmental Protection Act, 1999`, **the `Greenhouse Gas Pollution Pricing Act`**, the `International River Improvements Act`, the `Migratory Birds Convention Act, 1994` or the `Wild Animal and Plant Protection and Regulation of International and Interprovincial Trade Act`, the Minister of the Environment; and
+    with respect to violations that relate to the `Antarctic Environmental Protection Act`, the `Canada Water Act`, the `Canada Wildlife Act`, the `Canadian Environmental Assessment Act, 2012`, the `Canadian Environmental Protection Act, 1999`, the `Greenhouse Gas Pollution Pricing Act`, the `International River Improvements Act`, the `Migratory Birds Convention Act, 1994` or the `Wild Animal and Plant Protection and Regulation of International and Interprovincial Trade Act`, the Minister of the Environment; and
 
 ### Section 196
 
@@ -10178,11 +10230,11 @@ On the first day on which both section 11 of the `Disability Tax Credit Promoter
 
     **(4.11)** The Treasury Board may, subject to any terms and conditions that it considers appropriate, delegate to the Chief Information Officer of Canada any of the powers or functions that it is authorized to exercise under any Act of Parliament or by any order made by the Governor in Council, including powers or functions in relation to information technology.
 
-    **(4.2)** The President of the Treasury Board is responsible and accountable for the coordination of the activities of the Secretary of the Treasury Board, the Chief Human Resources Officer, the Comptroller General of Canada and **the Chief Information Officer of Canada** and may, subject to any terms and conditions that the President of the Treasury Board considers appropriate, delegate that responsibility to the Secretary of the Treasury Board or to any person under the President of the Treasury Board's jurisdiction.
+    **(4.2)** The President of the Treasury Board is responsible and accountable for the coordination of the activities of the Secretary of the Treasury Board, the Chief Human Resources Officer, the Comptroller General of Canada and the Chief Information Officer of Canada and may, subject to any terms and conditions that the President of the Treasury Board considers appropriate, delegate that responsibility to the Secretary of the Treasury Board or to any person under the President of the Treasury Board's jurisdiction.
 
-    **(5)** Subsections (4), (4.1) and **(4.11)** do not apply in respect of the Treasury Board's power to delegate under those subsections or to its power to make regulations.
+    **(5)** Subsections (4), (4.1) and (4.11) do not apply in respect of the Treasury Board's power to delegate under those subsections or to its power to make regulations.
 
-    **(6)** Any person to whom powers or functions are delegated under subsection (4), (4.1) or **(4.11)** may, subject to and in accordance with the delegation, sub-delegate any of those powers or functions to any person under their jurisdiction.
+    **(6)** Any person to whom powers or functions are delegated under subsection (4), (4.1) or (4.11) may, subject to and in accordance with the delegation, sub-delegate any of those powers or functions to any person under their jurisdiction.
 
 ### Section 200
 
@@ -10309,11 +10361,11 @@ Section 1 of the schedule to the Act is amended by adding the following in alpha
 
   **(4)** The schedule to the Act is amended by replacing the portion of subsection 2(5) before paragraph (a) by the following:
 
-    **(5)** **Despite** subsection (1), for the purposes of deposit insurance with the Corporation, **if** moneys are or were received by a member institution on or after April 1, 1977 for which the institution has issued or is obligated to issue an instrument evidencing a deposit, other than a draft, certified draft or cheque, prepaid letter of credit or money order,
+    **(5)** Despite subsection (1), for the purposes of deposit insurance with the Corporation, if moneys are or were received by a member institution on or after April 1, 1977 for which the institution has issued or is obligated to issue an instrument evidencing a deposit, other than a draft, certified draft or cheque, prepaid letter of credit or money order,
 
   **(5)** The schedule to the Act is amended by replacing subsection 2(6) with the following:
 
-    **(6)** **Despite** subsection (1), moneys received by a member institution on or after January 1, 1977, for which the institution has issued or is obligated to issue an instrument of indebtedness, other than a draft, certified draft or cheque, prepaid letter of credit or money order, do not constitute a deposit where the instrument is payable outside Canada.
+    **(6)** Despite subsection (1), moneys received by a member institution on or after January 1, 1977, for which the institution has issued or is obligated to issue an instrument of indebtedness, other than a draft, certified draft or cheque, prepaid letter of credit or money order, do not constitute a deposit where the instrument is payable outside Canada.
 
 ### Section 212
 
@@ -10506,7 +10558,7 @@ respecting the provision of information to trustees under subsection 6(5).
 
 The definition **Minister** in subsection 2(1) of the `Federal-Provincial Fiscal Arrangements Act` is replaced by the following:
 
-**Minister**, **other than in sections 25 to 25.5**, means the Minister of Finance; (**ministre**)
+**Minister**, other than in sections 25 to 25.5, means the Minister of Finance; (**ministre**)
 
 ### Section 215
 
@@ -10514,7 +10566,7 @@ Section 3 of the Act is replaced by the following:
 
 ### Section 3
 
-Subject to the other provisions of this Act, there may be paid to a province a fiscal equalization payment not exceeding the amounts determined under this Part for each fiscal year in the period beginning on April 1, 2007 and ending on March 31, **2024**.
+Subject to the other provisions of this Act, there may be paid to a province a fiscal equalization payment not exceeding the amounts determined under this Part for each fiscal year in the period beginning on April 1, 2007 and ending on March 31, 2024.
 
 ### Section 216
 
@@ -10522,7 +10574,7 @@ Subsection 4.1(1) of the Act is replaced by the following:
 
 ### Section 4.1
 
-  **(1)** Subject to the other provisions of this Act, there may be paid to a territory a territorial formula financing payment not exceeding the amounts determined under this Part for each fiscal year in the period beginning on April 1, 2014 and ending on March 31, **2024**.
+  **(1)** Subject to the other provisions of this Act, there may be paid to a territory a territorial formula financing payment not exceeding the amounts determined under this Part for each fiscal year in the period beginning on April 1, 2014 and ending on March 31, 2024.
 
 ### Section 217
 
@@ -10545,7 +10597,7 @@ The portion of section 25 of the Act before paragraph (a) is replaced by the fol
 
 ### Section 25
 
-**Subject to section 25.01**, the cash contribution that may be provided to a province under section 24.2, 24.21, 24.5 or 24.51 is to be reduced or withheld for the purposes of giving effect to
+Subject to section 25.01, the cash contribution that may be provided to a province under section 24.2, 24.21, 24.5 or 24.51 is to be reduced or withheld for the purposes of giving effect to
 
 ### Section 219
 
@@ -10577,7 +10629,7 @@ The Act is amended by adding the following after section 25:
 
 Paragraph 18(d) of the `Bank of Canada Act` is replaced by the following:
 
-buy and sell securities issued or guaranteed by the government of the United States, **of** Japan, **of the United Kingdom** or of a **member state of** the European Union;
+buy and sell securities issued or guaranteed by the government of the United States, of Japan, of the United Kingdom or of a member state of the European Union;
 
 
 #### Coming into Force
@@ -10602,11 +10654,11 @@ Section 17 of the Act is replaced by the following:
 
 ### Section 17
 
-  ****(1)**** The special account in the name of the Minister known as the Exchange Fund Account is continued, and all assets acquired and held by or on behalf of the Minister in the Exchange Fund Account continue to be so held.
+  **(1)** The special account in the name of the Minister known as the Exchange Fund Account is continued, and all assets acquired and held by or on behalf of the Minister in the Exchange Fund Account continue to be so held.
 
-  ****(2)**** **The purposes of the Exchange Fund Account are**
+  **(2)** The purposes of the Exchange Fund Account are
 
-    to aid in the control and protection of the external value of the monetary unit of Canada; **and**
+    to aid in the control and protection of the external value of the monetary unit of Canada; and
 
     to provide a source of liquidity for the Government of Canada.
 
@@ -10616,9 +10668,9 @@ Section 19 of the Act is replaced by the following:
 
 ### Section 19
 
-The Minister may, on any terms and conditions that **he or she** considers appropriate, authorize
+The Minister may, on any terms and conditions that he or she considers appropriate, authorize
 
-advances to the Exchange Fund Account out of the Consolidated Revenue Fund; **and**
+advances to the Exchange Fund Account out of the Consolidated Revenue Fund; and
 
 payments out of the Exchange Fund Account into the Consolidated Revenue Fund.
 
@@ -10633,7 +10685,7 @@ payments out of the Exchange Fund Account into the Consolidated Revenue Fund.
 The heading before section 25 of the `Bank of Canada Act` is replaced by the following:
 
 
-## Note Issue **and Removal**
+## Note Issue and Removal
 
 ### Section 226
 
@@ -10641,7 +10693,7 @@ Subsection 25(2) of the Act is replaced by the following:
 
 **(2)** It is the duty of the Bank to make adequate arrangements for
 
-  the issue of its notes in Canada and **the** supply **of** those notes as required for circulation in Canada; and
+  the issue of its notes in Canada and the supply of those notes as required for circulation in Canada; and
 
   the removal from circulation in Canada of
 
@@ -10657,7 +10709,7 @@ Subsection 25(2) of the Act is replaced by the following:
 The heading before section 7 of the `Currency Act` is replaced by the following:
 
 
-### Current Coins **and Notes**
+### Current Coins and Notes
 
 ### Section 228
 
@@ -10673,19 +10725,19 @@ A note is current for the amount of its denomination in the currency of Canada i
 
 ### Section 8
 
-      **(1)** Sous réserve des autres dispositions du présent article, **les offres de paiement** ont pouvoir libératoire **si elles sont effectuées avec** :
+      **(1)** Sous réserve des autres dispositions du présent article, les offres de paiement ont pouvoir libératoire si elles sont effectuées avec :
 
   **(2)** Paragraph 8(1)(b) of the Act is replaced by the following:
 
-    in notes **that are current under section 7.1**.
+    in notes that are current under section 7.1.
 
   **(3)** The portion of subsection 8(2) of the English version of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** A **tender of** payment in coins referred to in subsection (1) is a legal tender for no more than the following amounts for the following denominations of coins:
+    **(2)** A tender of payment in coins referred to in subsection (1) is a legal tender for no more than the following amounts for the following denominations of coins:
 
   **(4)** Subsection 8(2.1) of the English version of the Act is replaced by the following:
 
-    **(2.1)** In the case of coins of a denomination greater than ten dollars, a **tender of** payment referred to in subsection (1) may consist of not more than one coin, and the **tender of** payment is a legal tender for no more than the value of a single coin of that denomination.
+    **(2.1)** In the case of coins of a denomination greater than ten dollars, a tender of payment referred to in subsection (1) may consist of not more than one coin, and the tender of payment is a legal tender for no more than the value of a single coin of that denomination.
 
 ### Section 230
 
@@ -10695,11 +10747,11 @@ Section 9 of the Act is replaced by the following:
 
   **(1)** The Governor in Council may, by order, call in
 
-    coins of any date and denomination **that are current under section 7**; **and**
+    coins of any date and denomination that are current under section 7; and
 
     any notes that are current under section 7.1.
 
-  **(2)** **Despite sections 7 and 7.1**, a coin **or note** that has been called in is not current.
+  **(2)** Despite sections 7 and 7.1, a coin or note that has been called in is not current.
 
 
 ### Payment Clearing and Settlement
@@ -10714,7 +10766,7 @@ Section 9 of the Act is replaced by the following:
 
 The fourth paragraph of the preamble to the `Payment Clearing and Settlement Act` is replaced by the following:
 
-And whereas Parliament recognizes that it is desirable and in the national interest to provide for the supervision and regulation of such clearing and settlement systems, **including by providing for their resolution while minimizing the exposure of public moneys to loss**, in order to control risk to the financial system in Canada and promote its efficiency and stability;
+And whereas Parliament recognizes that it is desirable and in the national interest to provide for the supervision and regulation of such clearing and settlement systems, including by providing for their resolution while minimizing the exposure of public moneys to loss, in order to control risk to the financial system in Canada and promote its efficiency and stability;
 
 ### Section 232
 
@@ -10736,7 +10788,7 @@ The portion of subsection 8(1) of the Act before paragraph (a) is replaced by th
 
 ### Section 8
 
-  **(1)** **Despite** anything in any statute or other law of Canada or a province, **but subject to paragraph 11.07(1)(a) and subject to an order made under section 11.11**,
+  **(1)** Despite anything in any statute or other law of Canada or a province, but subject to paragraph 11.07(1)(a) and subject to an order made under section 11.11,
 
 ### Section 234
 
@@ -11110,7 +11162,7 @@ a bridge clearing house incorporated under that Act.
     the designation of the corporation as a bridge clearing house terminates.
 
 
-### **Funding**
+### Funding
 
 ### Section 11.18
 
@@ -11186,7 +11238,7 @@ The Bank may, in accordance with the regulations, recover the costs of the resol
 If the Bank considers that the exit plan has been substantially implemented, it shall cause a notice to that effect to be published in the `Canada Gazette`. The notice must specify the day on which the clearing and settlement system or clearing house is no longer in resolution.
 
 
-### **Compensation**
+### Compensation
 
 ### Section 11.25
 
@@ -11245,11 +11297,11 @@ If a clearing and settlement system is operated by a clearing house that is not 
 Section 19 of the Act and the heading before it are replaced by the following:
 
 
-### **Statutory Instruments Act**
+### Statutory Instruments Act
 
 ### Section 19
 
-A designation under subsection 4(1), a directive issued under this Act, **a declaration of non-viability made under subsection 11.06(1), a direction given under subsection 11.1(6)** or **an order made under subsection 11.09(1) or 11.11(1)** is not a statutory instrument for the purposes of the `Statutory Instruments Act`.
+A designation under subsection 4(1), a directive issued under this Act, a declaration of non-viability made under subsection 11.06(1), a direction given under subsection 11.1(6) or an order made under subsection 11.09(1) or 11.11(1) is not a statutory instrument for the purposes of the `Statutory Instruments Act`.
 
 ### Section 237
 
@@ -11294,9 +11346,9 @@ Section 32 of the `Canadian Payments Act` is replaced by the following:
 
 ### Section 32
 
-  ****(1)**** No law relating to the insolvency of any body corporate, **except Part I.1 of the `Payment Clearing and Settlement Act`**, applies to the Association.
+  **(1)** No law relating to the insolvency of any body corporate, except Part I.1 of the `Payment Clearing and Settlement Act`, applies to the Association.
 
-  ****(2)**** **No law relating to the** winding-up **of any body corporate applies to the Association** and in no case shall **its** affairs be wound up unless Parliament so provides.
+  **(2)** No law relating to the winding-up of any body corporate applies to the Association and in no case shall its affairs be wound up unless Parliament so provides.
 
 
 ##### Coming into Force
@@ -11416,11 +11468,11 @@ This Subdivision, other than section `243`, comes into force on a day to be fixe
 
 ### Section 3
 
-      **(1)** There is established a tribunal, to be known as the Canadian International Trade Tribunal, consisting of **up to seven** permanent members, **including** a Chairperson and **a Vice-chairperson**, to be appointed by the Governor in Council.
+      **(1)** There is established a tribunal, to be known as the Canadian International Trade Tribunal, consisting of up to seven permanent members, including a Chairperson and a Vice-chairperson, to be appointed by the Governor in Council.
 
   **(2)** Subsection 3(5) of the Act is replaced by the following:
 
-    **(5)** A permanent member **or former permanent member** is eligible to be re-appointed **as a permanent member** for one further term in the same **capacity as in the previous term** or **in** another capacity, **but may hold office as a permanent member for no more than ten years**.
+    **(5)** A permanent member or former permanent member is eligible to be re-appointed as a permanent member for one further term in the same capacity as in the previous term or in another capacity, but may hold office as a permanent member for no more than ten years.
 
     **(5.1)** For greater certainty, a change during a permanent member's term of office in the capacity to which the member is appointed — whether as Chairperson, Vice-chairperson or one of the other permanent members — is not a re-appointment to a further term of office for the purposes of subsection (5).
 
@@ -11430,7 +11482,7 @@ Section 8 of the Act is replaced by the following:
 
 ### Section 8
 
-  **(1)** In the event of the absence or incapacity of the Chairperson or if the office of Chairperson is vacant, the **Vice-chairperson shall** act as Chairperson and may exercise all the powers and perform **all the** duties and functions of the Chairperson.
+  **(1)** In the event of the absence or incapacity of the Chairperson or if the office of Chairperson is vacant, the Vice-chairperson shall act as Chairperson and may exercise all the powers and perform all the duties and functions of the Chairperson.
 
   **(1.1)** If subsection (1) does not apply owing to the absence or incapacity of the Vice-chairperson or to the office of Vice-chairperson being vacant, the Minister may authorize another permanent member to act as Chairperson, and that member may exercise all the powers and perform all the duties and functions of the Chairperson.
 
@@ -11438,7 +11490,7 @@ Section 8 of the Act is replaced by the following:
 
   **(1.3)** No permanent member may be authorized by the Minister to act under subsection (1.1) or (1.2) for a period exceeding 60 days without the approval of the Governor in Council.
 
-  **(2)** In the event of the absence or incapacity of a temporary member or a permanent member other than the Chairperson **or Vice-chairperson**, the Governor in Council may appoint a person, on **any** terms and conditions **that** the Governor in Council **specifies**, to act as a substitute member for the time being.
+  **(2)** In the event of the absence or incapacity of a temporary member or a permanent member other than the Chairperson or Vice-chairperson, the Governor in Council may appoint a person, on any terms and conditions that the Governor in Council specifies, to act as a substitute member for the time being.
 
 
 ### Canadian High Arctic Research Station and Application of an Order in Nunavut
@@ -11466,9 +11518,9 @@ Section 2 of the `Canadian High Arctic Research Station Act` is amended by addin
 
   **(3)** Paragraphs 6(4)(a) to (c) of the Act are replaced by the following:
 
-    lease **of real property** or **of an immovable**; or
+    lease of real property or of an immovable; or
 
-    disposition to a public utility or municipality of **an easement** or **any** other **interest** in real property, **other than a fee simple**, or **of a servitude** or **any** other immovable real **right, other than the ownership of an immovable**, if the disposition is necessary for the utility or municipality to carry out its activities, including the construction or maintenance of a public work.
+    disposition to a public utility or municipality of an easement or any other interest in real property, other than a fee simple, or of a servitude or any other immovable real right, other than the ownership of an immovable, if the disposition is necessary for the utility or municipality to carry out its activities, including the construction or maintenance of a public work.
 
   **(4)** Section 6 of the Act is amended by adding the following after subsection (4):
 
@@ -11492,11 +11544,11 @@ Subsections 7(1) to (3) of the `Canadian Institutes of Health Research Act` are 
 
 ### Section 7
 
-  **(1)** The Governing Council of the CIHR **shall consist** of not more than 18 members, **including the Chairperson appointed under subsection (3.1)**.
+  **(1)** The Governing Council of the CIHR shall consist of not more than 18 members, including the Chairperson appointed under subsection (3.1).
 
-  **(2)** **Subject to section 8, e**ach initial member of the Governing Council shall be appointed by the Governor in Council to hold office for any term of not more than three years that will ensure, as far as possible, the expiry in any one year of the terms of office of not more than one third of the members. Subsequently appointed members shall be appointed by the Governor in Council for a three-year term.
+  **(2)** Subject to section 8, each initial member of the Governing Council shall be appointed by the Governor in Council to hold office for any term of not more than three years that will ensure, as far as possible, the expiry in any one year of the terms of office of not more than one third of the members. Subsequently appointed members shall be appointed by the Governor in Council for a three-year term.
 
-  **(3)** **Except for the Chairperson appointed under subsection (3.1)**, the members shall be appointed to hold office during pleasure and may be appointed to no more than two consecutive terms.
+  **(3)** Except for the Chairperson appointed under subsection (3.1), the members shall be appointed to hold office during pleasure and may be appointed to no more than two consecutive terms.
 
   **(3.1)** Subject to subsection (3.2), the Governor in Council shall appoint a Chairperson to hold office during pleasure for a term of not more than five years. The Chairperson is eligible for reappointment.
 
@@ -11508,13 +11560,13 @@ Sections 8 and 9 of the Act are replaced by the following:
 
 ### Section 8
 
-The **President and the** Deputy Minister of Health are *ex officio* and non-voting **members** of the Governing Council.
+The President and the Deputy Minister of Health are *ex officio* and non-voting members of the Governing Council.
 
-### Section **9**
+### Section 9
 
-  ****(1)**** **The Governing Council shall elect a Vice-Chairperson from among its members, other than the President and the Deputy Minister of Health.**
+  **(1)** The Governing Council shall elect a Vice-Chairperson from among its members, other than the President and the Deputy Minister of Health.
 
-  ****(2)**** In the event of the absence or incapacity of the Chairperson or if the office of the Chairperson is vacant, the Vice-Chairperson has and may exercise all the powers and perform all the duties and functions of the Chairperson.
+  **(2)** In the event of the absence or incapacity of the Chairperson or if the office of the Chairperson is vacant, the Vice-Chairperson has and may exercise all the powers and perform all the duties and functions of the Chairperson.
 
 ### Section 252
 
@@ -11522,13 +11574,13 @@ The portion of section 12 of the French version of the Act before paragraph (a) 
 
 ### Section 12
 
-Le président **d'IRSC** :
+Le président d'IRSC :
 
 ### Section 253
 
   **(1)** Paragraph 14(a) of the Act is replaced by the following:
 
-    developing its strategic directions **and** goals;
+    developing its strategic directions and goals;
 
   **(2)** Paragraph 14(g) of the Act is replaced by the following:
 
@@ -11540,7 +11592,7 @@ Section 15 of the Act is replaced by the following:
 
 ### Section 15
 
-  ****(1)**** **Subject to subsection (2),** the Governing Council may delegate its powers, duties and functions to its members or committees **or** to the President.
+  **(1)** Subject to subsection (2), the Governing Council may delegate its powers, duties and functions to its members or committees or to the President.
 
   **(2)** The Governing Council shall not delegate its powers, duties and functions under any of paragraphs 14(a) and (c), sections 16 and 19 to 21 and subsections 22(3) and 32(1).
 
@@ -11548,7 +11600,7 @@ Section 15 of the Act is replaced by the following:
 
 Paragraph 20(1)(a) of the Act is replaced by the following:
 
-establish, maintain and terminate Health Research Institutes, and determine the mandate of each **one**;
+establish, maintain and terminate Health Research Institutes, and determine the mandate of each one;
 
 ### Section 256
 
@@ -11556,9 +11608,9 @@ Section 23 of the French version of the Act is replaced by the following:
 
 ### Section 23
 
-  **(1)** Le président d'IRSC **en** est le premier dirigeant; à ce titre, il assure la direction de ses affaires courantes et contrôle la gestion de son personnel.
+  **(1)** Le président d'IRSC en est le premier dirigeant; à ce titre, il assure la direction de ses affaires courantes et contrôle la gestion de son personnel.
 
-  **(2)** En cas d'absence ou d'empêchement du président **d'IRSC** ou de vacance de son poste, le conseil d'administration peut autoriser un dirigeant d'IRSC à assurer l'intérim; cependant, l'intérim ne peut dépasser quatre-vingt-dix jours sans l'approbation du gouverneur en conseil.
+  **(2)** En cas d'absence ou d'empêchement du président d'IRSC ou de vacance de son poste, le conseil d'administration peut autoriser un dirigeant d'IRSC à assurer l'intérim; cependant, l'intérim ne peut dépasser quatre-vingt-dix jours sans l'approbation du gouverneur en conseil.
 
 
 ### Red Tape Reduction Act
@@ -11570,11 +11622,11 @@ Section 23 of the French version of the Act is replaced by the following:
 
   **(1)** The first paragraph of the French version of the preamble to the `Red Tape Reduction Act` is replaced by the following:
 
-    que les Canadiens et les petites entreprises ont exprimé des préoccupations devant l'incidence de l'augmentation du fardeau administratif imposé par **règlement** sur le coût des affaires;
+    que les Canadiens et les petites entreprises ont exprimé des préoccupations devant l'incidence de l'augmentation du fardeau administratif imposé par règlement sur le coût des affaires;
 
   **(2)** The second paragraph of the preamble to the Act is replaced by the following:
 
-    Whereas on April 1, 2012 the Government of Canada established a rule that each increase in the administrative burden **that is imposed by regulations** on businesses must be offset with a corresponding decrease, one-for-one, and considers that it is desirable to establish that rule in legislation;
+    Whereas on April 1, 2012 the Government of Canada established a rule that each increase in the administrative burden that is imposed by regulations on businesses must be offset with a corresponding decrease, one-for-one, and considers that it is desirable to establish that rule in legislation;
 
     Whereas the one-for-one rule should take into account regulatory cooperation between the Government of Canada and other jurisdictions;
 
@@ -11582,7 +11634,7 @@ Section 23 of the French version of the Act is replaced by the following:
 
   **(1)** The definition **administrative burden** in section 2 of the Act is replaced by the following:
 
-    **administrative burden** means anything that is necessary to demonstrate compliance with a regulation **or a regulatory instrument**, including the collecting, processing, reporting and retaining of information and the completing of forms. (**fardeau administratif**)
+    **administrative burden** means anything that is necessary to demonstrate compliance with a regulation or a regulatory instrument, including the collecting, processing, reporting and retaining of information and the completing of forms. (**fardeau administratif**)
 
   **(2)** Section 2 of the Act is amended by adding the following in alphabetical order:
 
@@ -11604,7 +11656,7 @@ Section 4 of the French version of the Act is replaced by the following:
 
 ### Section 4
 
-La présente loi a pour objet de limiter le fardeau administratif que **les règlements imposent** aux entreprises.
+La présente loi a pour objet de limiter le fardeau administratif que les règlements imposent aux entreprises.
 
 ### Section 260
 
@@ -11612,7 +11664,7 @@ Subsection 5(1) of the English version of the Act is replaced by the following:
 
 ### Section 5
 
-  **(1)** If a regulation is made that imposes a new administrative burden on a business, one or more regulations must be amended or repealed to offset the cost of that new burden against the cost of an existing administrative burden **imposed by a regulation** on a business.
+  **(1)** If a regulation is made that imposes a new administrative burden on a business, one or more regulations must be amended or repealed to offset the cost of that new burden against the cost of an existing administrative burden imposed by a regulation on a business.
 
 ### Section 261
 
@@ -11632,25 +11684,25 @@ Sections 6 and 7 of the Act are replaced by the following:
 
 ### Section 6
 
-The President of the Treasury Board may establish policies or issue directives respecting the manner in which **sections** 5 **and 5.1 are** to be applied.
+The President of the Treasury Board may establish policies or issue directives respecting the manner in which sections 5 and 5.1 are to be applied.
 
 ### Section 7
 
 The Governor in Council may make regulations respecting
 
-the manner of calculating, for the purpose of section 5 **or 5.1**, the cost of an administrative burden;
+the manner of calculating, for the purpose of section 5 or 5.1, the cost of an administrative burden;
 
-the **periods** within which measures must be taken to comply with section **5**;
+the periods within which measures must be taken to comply with section 5;
 
 the periods within which the cost of all or a portion of a new administrative burden imposed by a regulation may be offset under section 5.1;
 
-the taking into account of regulations that are amended or repealed — **or regulatory instruments that are made, amended or repealed** — before a new administrative burden is imposed **by a regulation**;
+the taking into account of regulations that are amended or repealed — or regulatory instruments that are made, amended or repealed — before a new administrative burden is imposed by a regulation;
 
-the application of section **5** to any regulation made, amended or repealed on or after April 1, 2012;
+the application of section 5 to any regulation made, amended or repealed on or after April 1, 2012;
 
 the application of section 5.1 to any regulation made or amended before the day on which that section comes into force; and
 
-the regulations that the Treasury Board may exempt from the application of section **5** and the categories for which, and the circumstances in which, such an exemption may be granted.
+the regulations that the Treasury Board may exempt from the application of section 5 and the categories for which, and the circumstances in which, such an exemption may be granted.
 
 ### Section 263
 
@@ -11658,7 +11710,7 @@ Section 9 of the Act is replaced by the following:
 
 ### Section 9
 
-The President of the Treasury Board must prepare and make public each year a report on the application of **sections** 5 **and 5.1** during the 12-month period ending on March 31 of the year in which the report is to be made public.
+The President of the Treasury Board must prepare and make public each year a report on the application of sections 5 and 5.1 during the 12-month period ending on March 31 of the year in which the report is to be made public.
 
 
 #### Coming into Force
@@ -11764,9 +11816,9 @@ The Act is amended by adding the following after section 5:
 
 Paragraphs 6(a) and (b) of the Act are replaced by the following:
 
-subject to the `Statistics Act`, collect, analyze, interpret, publish and distribute information relating to human resources and skills development, social development or **service delivery to the public**; and
+subject to the `Statistics Act`, collect, analyze, interpret, publish and distribute information relating to human resources and skills development, social development or service delivery to the public; and
 
-cooperate with provincial authorities with a view to coordinating efforts for human resources and skills development, social development, or **service delivery to the public**.
+cooperate with provincial authorities with a view to coordinating efforts for human resources and skills development, social development, or service delivery to the public.
 
 ### Section 272
 
@@ -11774,7 +11826,7 @@ Section 7 of the Act is replaced by the following:
 
 ### Section 7
 
-The Minister may, in exercising the powers and performing the duties and functions assigned by this Act, establish and implement programs designed to support projects or other activities that contribute to the development of the human resources of Canada and the skills of Canadians, to the social development of Canada or **to service delivery to the public**, and the Minister may make grants and contributions in support of the programs.
+The Minister may, in exercising the powers and performing the duties and functions assigned by this Act, establish and implement programs designed to support projects or other activities that contribute to the development of the human resources of Canada and the skills of Canadians, to the social development of Canada or to service delivery to the public, and the Minister may make grants and contributions in support of the programs.
 
 ### Section 8
 
@@ -11838,7 +11890,7 @@ The Act is amended by adding the following after section 34:
 
 Subsection 37(2) of the Act is replaced by the following:
 
-**(2)** The Minister shall, prior to the disclosure, notify the Privacy Commissioner appointed under section 53 of the `Privacy Act` **and any affected partner entity** in writing of any disclosure of information under subsection (1) **if it is** reasonably practicable or in any other case without delay after the disclosure. The Privacy Commissioner may, if he or she **considers** it appropriate, notify the individual to whom the information relates of the disclosure.
+**(2)** The Minister shall, prior to the disclosure, notify the Privacy Commissioner appointed under section 53 of the `Privacy Act` and any affected partner entity in writing of any disclosure of information under subsection (1) if it is reasonably practicable or in any other case without delay after the disclosure. The Privacy Commissioner may, if he or she considers it appropriate, notify the individual to whom the information relates of the disclosure.
 
 ### Section 279
 
@@ -11846,7 +11898,7 @@ Section 70.1 of the Act is replaced by the following:
 
 ### Section 70.1
 
-This Part applies to any **Act, program** or **activity whose** administration or enforcement is the responsibility of the Minister, the **Minister of Labour or** the **Commission**.
+This Part applies to any Act, program or activity whose administration or enforcement is the responsibility of the Minister, the Minister of Labour or the Commission.
 
 ### Section 280
 
@@ -11854,7 +11906,7 @@ The portion of subsection 71(1) of the Act before paragraph (a) is replaced by t
 
 ### Section 71
 
-  **(1)** Subject to the regulations, **if** the Minister, the Minister of Labour **or** the Commission **is responsible for an Act, program or activity, that responsible Minister or Commission** may administer or enforce **it** electronically, including for the purposes of
+  **(1)** Subject to the regulations, if the Minister, the Minister of Labour or the Commission is responsible for an Act, program or activity, that responsible Minister or Commission may administer or enforce it electronically, including for the purposes of
 
 ### Section 281
 
@@ -11872,13 +11924,13 @@ The portion of subsection 71(1) of the Act before paragraph (a) is replaced by t
 
   **(3)** The portion of subsection 72(4) of the Act before paragraph (a) is replaced by the following:
 
-    **(4)** A requirement under a provision of an Act or a regulation, or a term or condition of a program, **to provide** a signature is satisfied by an electronic signature if the electronic signature
+    **(4)** A requirement under a provision of an Act or a regulation, or a term or condition of a program, to provide a signature is satisfied by an electronic signature if the electronic signature
 
 ### Section 282
 
 Paragraph 73(1)(g) of the Act is replaced by the following:
 
-respecting the establishment and operation of electronic systems or any other technology to be used in the administration or enforcement of an Act **or** regulation to **which this Part applies** or **in the administration or enforcement** of a program **or activity** to **which this Part applies**, and respecting the manner in which and the extent to which any provision of that Act or regulation, or any term or condition of that program applies to the electronic systems; and
+respecting the establishment and operation of electronic systems or any other technology to be used in the administration or enforcement of an Act or regulation to which this Part applies or in the administration or enforcement of a program or activity to which this Part applies, and respecting the manner in which and the extent to which any provision of that Act or regulation, or any term or condition of that program applies to the electronic systems; and
 
 
 #### Coming into Force
@@ -11915,35 +11967,35 @@ The `Employment Insurance Act` is amended by adding the following after section 
 
 Subsection 19(2) of the Act is replaced by the following:
 
-**(2)** Subject to subsections (3), (4), **21(3)** and **22(5)**, if the claimant has earnings during any other week of unemployment, there shall be deducted from benefits payable in that week the amount **equal to** the **total** of
+**(2)** Subject to subsections (3), (4), 21(3) and 22(5), if the claimant has earnings during any other week of unemployment, there shall be deducted from benefits payable in that week the amount equal to the total of
 
-  **50% of the earnings that are** less than **or equivalent to 90%** of the claimant's weekly **insurable earnings, and**
+  50% of the earnings that are less than or equivalent to 90% of the claimant's weekly insurable earnings, and
 
-  **100%** of **the earnings** that **are greater than 90%** of the claimant's weekly **insurable earnings**.
+  100% of the earnings that are greater than 90% of the claimant's weekly insurable earnings.
 
 ### Section 286
 
 Subsection 21(3) of the Act is replaced by the following:
 
-**(3)** **Subject** to subsection 19(3), **if, as a result** of illness, injury or quarantine, **benefits are payable to** a claimant for a week of unemployment, **there** shall be deducted from **those** benefits **any allowances, money or other benefits** payable **to the claimant** for that week **under a plan that covers insured persons employed by an employer and in respect of which the employer's premium has been reduced in accordance with regulations made under** subsection **69(1)**.
+**(3)** Subject to subsection 19(3), if, as a result of illness, injury or quarantine, benefits are payable to a claimant for a week of unemployment, there shall be deducted from those benefits any allowances, money or other benefits payable to the claimant for that week under a plan that covers insured persons employed by an employer and in respect of which the employer's premium has been reduced in accordance with regulations made under subsection 69(1).
 
 ### Section 287
 
 Subsection 22(5) of the Act is replaced by the following:
 
-**(5)** **Subject** to subsection 19(3), **if** benefits are payable under this section to a major attachment claimant for a week **of unemployment, there** shall be deducted from **those** benefits **any allowances, money or other benefits payable to the claimant** for that week **under a plan that covers insured persons employed by an employer and in respect of which the employer's premium has been reduced in accordance with regulations made under** subsection **69(1)**.
+**(5)** Subject to subsection 19(3), if benefits are payable under this section to a major attachment claimant for a week of unemployment, there shall be deducted from those benefits any allowances, money or other benefits payable to the claimant for that week under a plan that covers insured persons employed by an employer and in respect of which the employer's premium has been reduced in accordance with regulations made under subsection 69(1).
 
 ### Section 288
 
 Subsection 152.03(3) of the Act is replaced by the following:
 
-**(3)** **Subject** to subsection 152.18(3), **if** benefits are payable under this section to a self-employed person for a week of unemployment, **there** shall be deducted from **those** benefits **any allowances, money or other benefits** payable **to** the person for that week **under a plan that covers insured persons employed by an employer and in respect of which the employer's premium has been reduced in accordance with regulations made under** subsection **69(1)**.
+**(3)** Subject to subsection 152.18(3), if benefits are payable under this section to a self-employed person for a week of unemployment, there shall be deducted from those benefits any allowances, money or other benefits payable to the person for that week under a plan that covers insured persons employed by an employer and in respect of which the employer's premium has been reduced in accordance with regulations made under subsection 69(1).
 
 ### Section 289
 
 Subsection 152.04(4) of the Act is replaced by the following:
 
-**(4)** **Subject** to subsection 152.18(3), **if** benefits are payable under this section to a self-employed person for a week **of unemployment, there** shall be deducted from **those** benefits **any allowances, money or other benefits payable to the person** for that week **under a plan that covers insured persons employed by an employer and in respect of which the employer's premium has been reduced in accordance with regulations made under** subsection **69(1)**.
+**(4)** Subject to subsection 152.18(3), if benefits are payable under this section to a self-employed person for a week of unemployment, there shall be deducted from those benefits any allowances, money or other benefits payable to the person for that week under a plan that covers insured persons employed by an employer and in respect of which the employer's premium has been reduced in accordance with regulations made under subsection 69(1).
 
 ### Section 290
 
@@ -11967,11 +12019,11 @@ The Act is amended by adding the following after section 152.15:
 
 Subsection 152.18(2) of the Act is replaced by the following:
 
-**(2)** Subject to **subsections** (3), **152.03(3) and 152.04(4)**, if the self-employed person has earnings during any other week of unemployment, there shall be deducted from benefits payable in that week the amount **equal to the total of**
+**(2)** Subject to subsections (3), 152.03(3) and 152.04(4), if the self-employed person has earnings during any other week of unemployment, there shall be deducted from benefits payable in that week the amount equal to the total of
 
-  **50% of the earnings that are less than or equal to 90% of the result obtained by dividing the aggregate of the amounts referred to in paragraphs 152.16(1)(a) and (b) by 52, and**
+  50% of the earnings that are less than or equal to 90% of the result obtained by dividing the aggregate of the amounts referred to in paragraphs 152.16(1)(a) and (b) by 52, and
 
-  **100% of the earnings that are greater than 90% of the result obtained by dividing the aggregate of the amounts referred to in paragraphs 152.16(1)(a) and (b) by 52.**
+  100% of the earnings that are greater than 90% of the result obtained by dividing the aggregate of the amounts referred to in paragraphs 152.16(1)(a) and (b) by 52.
 
 **(2.1)** Only the portion of the aggregate of the amounts referred to in paragraphs 152.16(1)(a) and (b) that does not exceed the maximum yearly insurable earnings as calculated under section 4 is to be taken into account for the purpose of subsection (2).
 
@@ -12047,35 +12099,35 @@ This Division comes into force on August 12, 2018.
 
 Paragraph 10(c) of the `Judges Act` is replaced by the following:
 
-the Chief Justice **and the Associate Chief Justice** of the Federal Court, $344,400 **each**; and
+the Chief Justice and the Associate Chief Justice of the Federal Court, $344,400 each; and
 
 ### Section 298
 
 Paragraph 12(d) of the Act is replaced by the following:
 
-the **198** other judges of the Superior Court of Justice, $314,100 each.
+the 198 other judges of the Superior Court of Justice, $314,100 each.
 
 ### Section 299
 
 Paragraph 19(b) of the Act is replaced by the following:
 
-the **seven** Judges of Appeal, $314,100 each;
+the seven Judges of Appeal, $314,100 each;
 
 ### Section 300
 
 The portion of subsection 24(4) of the Act before paragraph (a) is replaced by the following:
 
-**(4)** For the purposes of assisting the establishment of unified family courts in the provinces, a further number of salaries not greater than **75** at any one time may be paid in the case of judges appointed to courts described in paragraph (3)(b)
+**(4)** For the purposes of assisting the establishment of unified family courts in the provinces, a further number of salaries not greater than 75 at any one time may be paid in the case of judges appointed to courts described in paragraph (3)(b)
 
 ### Section 301
 
   **(1)** Paragraph 28(3)(a) of the English version of the Act is replaced by the following:
 
-    by the Chief Justice of the Federal Court of Appeal, if the judge is a **judge** of **that** Court;
+    by the Chief Justice of the Federal Court of Appeal, if the judge is a judge of that Court;
 
   **(2)** Paragraph 28(3)(b) of the Act is replaced by the following:
 
-    by the Chief Justice **or the Associate Chief Justice** of the Federal Court, if the judge is a **judge** of **that** Court; or
+    by the Chief Justice or the Associate Chief Justice of the Federal Court, if the judge is a judge of that Court; or
 
 ### Section 302
 
@@ -12083,21 +12135,21 @@ The portion of subsection 24(4) of the Act before paragraph (a) is replaced by t
 
 ### Section 31
 
-      **(1)** If the Chief Justice of the Federal Court of Appeal or the Chief Justice **or Associate Chief Justice** of the Federal Court or the Tax Court of Canada has notified the Minister of Justice of Canada of his or her election to cease to perform the duties of that office and to perform only the duties of a judge, he or she shall then hold only the office of a judge of the Federal Court of Appeal, the Federal Court or the Tax Court of Canada, as the case may be, and shall be paid the salary annexed to the office of a judge of that Court, until he or she reaches the age of retirement, resigns or is removed from or otherwise ceases to hold office.
+      **(1)** If the Chief Justice of the Federal Court of Appeal or the Chief Justice or Associate Chief Justice of the Federal Court or the Tax Court of Canada has notified the Minister of Justice of Canada of his or her election to cease to perform the duties of that office and to perform only the duties of a judge, he or she shall then hold only the office of a judge of the Federal Court of Appeal, the Federal Court or the Tax Court of Canada, as the case may be, and shall be paid the salary annexed to the office of a judge of that Court, until he or she reaches the age of retirement, resigns or is removed from or otherwise ceases to hold office.
 
-      **(2)** The Chief Justice of the Federal Court of Appeal or the Chief Justice **or Associate Chief Justice** of the Federal Court or the Tax Court of Canada may make the election referred to in subsection (1) only if he or she has continued in the office for at least five years or has continued in the office and another office referred to in this subsection for a total of at least five years.
+      **(2)** The Chief Justice of the Federal Court of Appeal or the Chief Justice or Associate Chief Justice of the Federal Court or the Tax Court of Canada may make the election referred to in subsection (1) only if he or she has continued in the office for at least five years or has continued in the office and another office referred to in this subsection for a total of at least five years.
 
   **(2)** Subsections 31(3) and (4) of the English version of the Act are replaced by the following:
 
-    **(3)** The Chief Justice of the Federal Court of Appeal or the Chief Justice **or Associate Chief Justice** of the Federal Court or the Tax Court of Canada who has made the election referred to in subsection (1) shall perform all of the judicial duties normally performed by a judge of **the Federal Court of Appeal, the Federal Court or the Tax Court of Canada, as the case may be**.
+    **(3)** The Chief Justice of the Federal Court of Appeal or the Chief Justice or Associate Chief Justice of the Federal Court or the Tax Court of Canada who has made the election referred to in subsection (1) shall perform all of the judicial duties normally performed by a judge of the Federal Court of Appeal, the Federal Court or the Tax Court of Canada, as the case may be.
 
-    **(4)** The salary of the Chief Justice of the Federal Court of Appeal or the Chief Justice **or Associate Chief Justice** of the Federal Court or the Tax Court of Canada who has made the election referred to in subsection (1) is the salary annexed to the office of **a** judge (other than the Chief Justice) of the Federal Court of Appeal, **a** judge (other than the Chief Justice **or the Associate Chief Justice**) of the Federal Court or **a** judge (other than the Chief Justice or the Associate Chief Justice) of the Tax Court of Canada, as the case may be.
+    **(4)** The salary of the Chief Justice of the Federal Court of Appeal or the Chief Justice or Associate Chief Justice of the Federal Court or the Tax Court of Canada who has made the election referred to in subsection (1) is the salary annexed to the office of a judge (other than the Chief Justice) of the Federal Court of Appeal, a judge (other than the Chief Justice or the Associate Chief Justice) of the Federal Court or a judge (other than the Chief Justice or the Associate Chief Justice) of the Tax Court of Canada, as the case may be.
 
 ### Section 303
 
 Subsection 43(2) of the Act is replaced by the following:
 
-**(2)** If the Chief Justice of the Federal Court of Appeal or the Chief Justice **or Associate Chief Justice** of the Federal Court or the Tax Court of Canada, in accordance with section 31, or a chief justice of a superior court of a province, in accordance with section 32, or a senior judge, as defined in subsection 22(3), of the Supreme Court of Yukon, the Supreme Court of the Northwest Territories or the Nunavut Court of Justice, in accordance with section 32.1, has elected to cease to perform his or her duties as such and to perform only the duties of a judge, the annuity payable to him or her under section 42 is an annuity equal to two thirds of the salary annexed, at the time of his or her resignation, removal or **attainment of** the age of retirement, to the office or position held by him or her immediately before his or her election.
+**(2)** If the Chief Justice of the Federal Court of Appeal or the Chief Justice or Associate Chief Justice of the Federal Court or the Tax Court of Canada, in accordance with section 31, or a chief justice of a superior court of a province, in accordance with section 32, or a senior judge, as defined in subsection 22(3), of the Supreme Court of Yukon, the Supreme Court of the Northwest Territories or the Nunavut Court of Justice, in accordance with section 32.1, has elected to cease to perform his or her duties as such and to perform only the duties of a judge, the annuity payable to him or her under section 42 is an annuity equal to two thirds of the salary annexed, at the time of his or her resignation, removal or attainment of the age of retirement, to the office or position held by him or her immediately before his or her election.
 
 
 #### Consequential Amendments to the `Federal Courts Act`
@@ -12108,11 +12160,11 @@ Subsection 43(2) of the Act is replaced by the following:
 
 ### Section 5.1
 
-      **(1)** The Federal Court consists of a chief justice called the Chief Justice of the Federal Court, who is the president of the Federal Court, **an associate chief justice called the Associate Chief Justice of the Federal Court** and 36 other judges.
+      **(1)** The Federal Court consists of a chief justice called the Chief Justice of the Federal Court, who is the president of the Federal Court, an associate chief justice called the Associate Chief Justice of the Federal Court and 36 other judges.
 
   **(2)** Subsection 5.1(3) of the Act is replaced by the following:
 
-    **(3)** For each **of** the **offices** of Chief Justice of the Federal Court **and Associate Chief Justice of the Federal Court**, there is an additional office of judge that the Chief Justice **and Associate Chief Justice** may elect under the `Judges Act` to hold.
+    **(3)** For each of the offices of Chief Justice of the Federal Court and Associate Chief Justice of the Federal Court, there is an additional office of judge that the Chief Justice and Associate Chief Justice may elect under the `Judges Act` to hold.
 
 ### Section 305
 
@@ -12126,7 +12178,7 @@ Subsection 43(2) of the Act is replaced by the following:
 
       the judge of the Federal Court of Appeal who has been designated for that purpose by the Chief Justice of that Court; or
 
-      if no judge has been designated **under paragraph (a)**, or if the judge so designated is absent from Canada or is unable or unwilling to act, the senior judge of **that** court who is in Canada and is able and willing to act and who has not elected to hold office as a supernumerary judge under section 28 of the `Judges Act`.
+      if no judge has been designated under paragraph (a), or if the judge so designated is absent from Canada or is unable or unwilling to act, the senior judge of that court who is in Canada and is able and willing to act and who has not elected to hold office as a supernumerary judge under section 28 of the `Judges Act`.
 
     **(2.1)** If the office of Chief Justice of the Federal Court is vacant, or the Chief Justice is absent from Canada or is for any reason unable to act, the powers and duties of the Chief Justice shall be exercised and performed
 
@@ -12140,7 +12192,7 @@ Subsection 43(2) of the Act is replaced by the following:
 
 Subsection 10(4) of the Act is replaced by the following:
 
-**(4)** A person who acts as a judge of a court under subsection (1) or (1.1) shall be paid a salary for the period that the judge acts, at the rate fixed by the `Judges Act` for a judge of the court other than the Chief Justice **and the Associate Chief Justice** of the court, less any amount otherwise payable to him or her under that Act in respect of that period, and shall also be paid the travel allowances that a judge is entitled to be paid under the `Judges Act`.
+**(4)** A person who acts as a judge of a court under subsection (1) or (1.1) shall be paid a salary for the period that the judge acts, at the rate fixed by the `Judges Act` for a judge of the court other than the Chief Justice and the Associate Chief Justice of the court, less any amount otherwise payable to him or her under that Act in respect of that period, and shall also be paid the travel allowances that a judge is entitled to be paid under the `Judges Act`.
 
 ### Section 307
 
@@ -12148,7 +12200,7 @@ Paragraph 45.1(1)(a) of the Act is replaced by the following:
 
 the Chief Justice of the Federal Court of Appeal;
 
-the Chief Justice **or the Associate Chief Justice** of the Federal Court;
+the Chief Justice or the Associate Chief Justice of the Federal Court;
 
 
 #### Coordinating Amendment
@@ -12181,15 +12233,15 @@ Section `300` comes into force on April 1, 2019.
 
     subject to sections 416 and 417 and the regulations, engage in any activity that relates to the provision of financial services by the company or any of its affiliates;
 
-    **subject to the regulations**, engage in any of the following activities:
+    subject to the regulations, engage in any of the following activities:
 
     collecting, manipulating and transmitting information, and
 
-    designing, developing, manufacturing, selling **and** otherwise **dealing** with **technology, if those activities relate to**
+    designing, developing, manufacturing, selling and otherwise dealing with technology, if those activities relate to
 
-    **an activity referred to in this subsection that is engaged in by the company or any of its affiliates, or**
+    an activity referred to in this subsection that is engaged in by the company or any of its affiliates, or
 
-    **the provision of financial services by any other entity,**
+    the provision of financial services by any other entity,
 
   **(2)** Subsection 410(1) of the Act is amended by striking out "and" at the end of paragraph (f), by adding "and" at the end of paragraph (g) and by adding the following after paragraph (g):
 
@@ -12197,15 +12249,15 @@ Section `300` comes into force on April 1, 2019.
 
   **(3)** Paragraph 410(3)(a) of the Act is replaced by the following:
 
-    respecting what a company may or may not do with respect to the carrying on of the activities referred to in paragraphs (1)**(b.1)**, (c) and (d.1);
+    respecting what a company may or may not do with respect to the carrying on of the activities referred to in paragraphs (1)(b.1), (c) and (d.1);
 
   **(4)** Paragraph 410(3)(b) of the English version of the Act is replaced by the following:
 
-    imposing terms and conditions in respect of the provision of the services referred to in paragraphs (1)(a) and 409(2)(c) and the carrying on of the activities referred to in paragraphs (1)**(b.1)**, (c) and (d.1); and
+    imposing terms and conditions in respect of the provision of the services referred to in paragraphs (1)(a) and 409(2)(c) and the carrying on of the activities referred to in paragraphs (1)(b.1), (c) and (d.1); and
 
   **(5)** Paragraph 410(3)(c) of the Act is replaced by the following:
 
-    respecting the circumstances in which **a company** may **engage in an activity referred to in paragraphs (1)(b.1) and (c), including the circumstances in which it may collect, manipulate and transmit information under subparagraph (1)(c)(i)**.
+    respecting the circumstances in which a company may engage in an activity referred to in paragraphs (1)(b.1) and (c), including the circumstances in which it may collect, manipulate and transmit information under subparagraph (1)(c)(i).
 
 ### Section 311
 
@@ -12213,17 +12265,17 @@ Section 411 of the Act is replaced by the following:
 
 ### Section 411
 
-  ****(1)**** Subject to section 416 **and the regulations**, a company may
+  **(1)** Subject to section 416 and the regulations, a company may
 
     act as agent for any person in respect of
 
-    **the carrying on of any activity referred to in subsection 410(1) that is engaged in** by a financial institution, **by** a permitted entity as defined in subsection 449(1), **if that definition were read without reference to the requirements of subsections 453(4) to (6)**, or **by** a prescribed entity, **and**
+    the carrying on of any activity referred to in subsection 410(1) that is engaged in by a financial institution, by a permitted entity as defined in subsection 449(1), if that definition were read without reference to the requirements of subsections 453(4) to (6), or by a prescribed entity, and
 
-    the provision of any service **that relates to financial services and that is provided by an institution or entity referred to in subparagraph (i)**;
+    the provision of any service that relates to financial services and that is provided by an institution or entity referred to in subparagraph (i);
 
-    enter into an arrangement with any person in respect of **the carrying on of an activity referred to in subparagraph (a)(i) or the provision of a service referred to in subparagraph (a)(ii); and**
+    enter into an arrangement with any person in respect of the carrying on of an activity referred to in subparagraph (a)(i) or the provision of a service referred to in subparagraph (a)(ii); and
 
-    refer any person to **another person**.
+    refer any person to another person.
 
   **(2)** The Governor in Council may make regulations
 
@@ -12251,13 +12303,13 @@ The Governor in Council may, for the purposes of section 409 and subsection 411(
 
   **(2)** Subparagraph 453(3)(f)(ii) of the Act is replaced by the following:
 
-    in the case of an entity that is not controlled by the company, the company itself would be permitted to acquire a substantial investment in the other entity under subsection (1), (2) or **(2.1)** or 451(2), paragraph 451(3)(b) or (c) or subsection 451(4); or
+    in the case of an entity that is not controlled by the company, the company itself would be permitted to acquire a substantial investment in the other entity under subsection (1), (2) or (2.1) or 451(2), paragraph 451(3)(b) or (c) or subsection 451(4); or
 
   **(3)** Subsection 453(5) of the Act is amended by adding "or" at the end of paragraph (c) and by repealing paragraphs (5)(d) and (d.1).
 
   **(4)** Paragraph 453(7)(a) of the Act is replaced by the following:
 
-    the company is acquiring control of an entity, other than a specialized financing entity, **under subsection (2) or (2.1)** and the only reason for which the company would, but for this subsection, require approval for the acquisition is that the entity carries on activities referred to in paragraph (2)(b);
+    the company is acquiring control of an entity, other than a specialized financing entity, under subsection (2) or (2.1) and the only reason for which the company would, but for this subsection, require approval for the acquisition is that the entity carries on activities referred to in paragraph (2)(b);
 
 ### Section 313
 
@@ -12275,7 +12327,7 @@ imposing terms and conditions in respect of the acquisition of control of, or ac
 
 Paragraph 483(1)(c) of the Act is replaced by the following:
 
-consists of a written contract with the related party **for the purpose of having either one of them act as an agent or make referrals**;
+consists of a written contract with the related party for the purpose of having either one of them act as an agent or make referrals;
 
 ### Section 315
 
@@ -12294,11 +12346,11 @@ Subsection 529.2(1) of the Act is replaced by the following:
 
     subject to sections 416 and 417 and the regulations, engage in any activity that relates to the provision of financial services by the bank or any of its affiliates;
 
-    **subject to the regulations**, engage in any of the following activities:
+    subject to the regulations, engage in any of the following activities:
 
     collecting, manipulating and transmitting information, and
 
-    designing, developing, manufacturing, selling **and** otherwise **dealing** with **technology, if those activities relate to**
+    designing, developing, manufacturing, selling and otherwise dealing with technology, if those activities relate to
 
     an activity referred to in this subsection that is engaged in by the bank or any of its affiliates, or
 
@@ -12310,15 +12362,15 @@ Subsection 529.2(1) of the Act is replaced by the following:
 
   **(3)** Paragraph 410(3)(a) of the Act is replaced by the following:
 
-    respecting what a bank may or may not do with respect to the carrying on of the activities referred to in paragraphs (1)**(b.1)**, (c) **and** (c.2);
+    respecting what a bank may or may not do with respect to the carrying on of the activities referred to in paragraphs (1)(b.1), (c) and (c.2);
 
   **(4)** Subparagraph 410(3)(b)(iii) of the English version of the Act is replaced by the following:
 
-    the carrying on of the activities referred to in paragraphs (1)**(b.1)**, (c) **and** (c.2); and
+    the carrying on of the activities referred to in paragraphs (1)(b.1), (c) and (c.2); and
 
   **(5)** Paragraph 410(3)(c) of the Act is replaced by the following:
 
-    respecting the circumstances in which **a bank** may **engage in the activities referred to in paragraphs (1)(b.1) and (c), including the circumstances in which banks may collect, manipulate and transmit information under subparagraph (1)(c)(i)**.
+    respecting the circumstances in which a bank may engage in the activities referred to in paragraphs (1)(b.1) and (c), including the circumstances in which banks may collect, manipulate and transmit information under subparagraph (1)(c)(i).
 
 ### Section 317
 
@@ -12326,23 +12378,23 @@ Section 411 of the Act is replaced by the following:
 
 ### Section 411
 
-  **(1)** Subject to section 416 **and the regulations**, a bank may
+  **(1)** Subject to section 416 and the regulations, a bank may
 
     act as agent for any person in respect of
 
-    **the carrying on of any activity referred to in subsection 410(1) that is engaged in** by a financial institution, **by** a permitted entity as defined in subsection 464(1), **if that definition were read without reference to the requirements of subsections 468(4) to (6)**, or **by** a prescribed entity, **or**
+    the carrying on of any activity referred to in subsection 410(1) that is engaged in by a financial institution, by a permitted entity as defined in subsection 464(1), if that definition were read without reference to the requirements of subsections 468(4) to (6), or by a prescribed entity, or
 
-    the provision of any service **that relates to financial services and that is provided by an institution or entity referred to in subparagraph (i)**;
+    the provision of any service that relates to financial services and that is provided by an institution or entity referred to in subparagraph (i);
 
-    enter into an arrangement with any person in respect of **the carrying on of an activity referred to in subparagraph (a)(i) or the provision of a service referred to in subparagraph (a)(ii); and**
+    enter into an arrangement with any person in respect of the carrying on of an activity referred to in subparagraph (a)(i) or the provision of a service referred to in subparagraph (a)(ii); and
 
-    refer any person to **another person**.
+    refer any person to another person.
 
   **(2)** The Governor in Council may make regulations
 
-    respecting the disclosure of the name of the **person** for whom a bank is acting as agent **under** subsection (1);
+    respecting the disclosure of the name of the person for whom a bank is acting as agent under subsection (1);
 
-    **respecting the disclosure of** any commission being earned by a bank when acting as agent **under** subsection (1);
+    respecting the disclosure of any commission being earned by a bank when acting as agent under subsection (1);
 
     respecting the circumstances in which a bank may act as an agent, enter into an arrangement or refer a person under subsection (1); and
 
@@ -12368,13 +12420,13 @@ The Governor in Council may, for the purposes of section 409 and subsection 411(
 
   **(2)** Subparagraph 468(3)(d)(ii) of the Act is replaced by the following:
 
-    in the case of an entity that is not controlled by the bank, the bank itself would be permitted to acquire a substantial investment in the other entity under subsection (1), (2) or **(2.1)** or 466(2), paragraph 466(3)(b) or (c) or subsection 466(4); or
+    in the case of an entity that is not controlled by the bank, the bank itself would be permitted to acquire a substantial investment in the other entity under subsection (1), (2) or (2.1) or 466(2), paragraph 466(3)(b) or (c) or subsection 466(4); or
 
   **(3)** Subsection 468(5) of the Act is amended by adding "or" at the end of paragraph (c) and by repealing paragraphs (d) and (d.1).
 
   **(4)** Paragraph 468(7)(a) of the Act is replaced by the following:
 
-    the bank is acquiring control of an entity, other than a specialized financing entity, **under subsection (2) or (2.1)** and the only reason for which the bank would, but for this subsection, require approval for the acquisition is that the entity carries on activities referred to in paragraph (2)(b);
+    the bank is acquiring control of an entity, other than a specialized financing entity, under subsection (2) or (2.1) and the only reason for which the bank would, but for this subsection, require approval for the acquisition is that the entity carries on activities referred to in paragraph (2)(b);
 
 ### Section 319
 
@@ -12392,7 +12444,7 @@ imposing terms and conditions in respect of the acquisition of control of, or ac
 
 Paragraph 495(1)(c) of the Act is replaced by the following:
 
-consists of a written contract with the related party **for the purpose of having either one of them act as an agent or make referrals**;
+consists of a written contract with the related party for the purpose of having either one of them act as an agent or make referrals;
 
 ### Section 321
 
@@ -12426,13 +12478,13 @@ Paragraphs 522.22(1)(d) and (d.1) of the Act are repealed.
 
   **(1)** Paragraphs 539(1)(b.1) and (b.2) of the Act are replaced by the following:
 
-    **subject to sections 549 and 550 and the regulations, engage in any activity that relates to the provision of financial services by the authorized foreign bank or any of its affiliates;**
+    subject to sections 549 and 550 and the regulations, engage in any activity that relates to the provision of financial services by the authorized foreign bank or any of its affiliates;
 
-    **subject to the regulations**, engage in any of the following activities:
+    subject to the regulations, engage in any of the following activities:
 
     collecting, manipulating and transmitting information, and
 
-    designing, developing, manufacturing, selling **and** otherwise **dealing** with **technology, if those activities relate to**
+    designing, developing, manufacturing, selling and otherwise dealing with technology, if those activities relate to
 
     an activity referred to in this subsection that is engaged in by the authorized foreign bank or any of its affiliates, or
 
@@ -12444,7 +12496,7 @@ Paragraphs 522.22(1)(d) and (d.1) of the Act are repealed.
 
   **(3)** Paragraph 539(3)(c) of the Act is replaced by the following:
 
-    respecting the circumstances in which **an** authorized foreign **bank** may **engage in an activity** referred to in **paragraphs** (1)(b.1) **and** (b.2), **including the circumstances in which it may collect, manipulate and transmit information under subparagraph (1)(b.2)(i)**.
+    respecting the circumstances in which an authorized foreign bank may engage in an activity referred to in paragraphs (1)(b.1) and (b.2), including the circumstances in which it may collect, manipulate and transmit information under subparagraph (1)(b.2)(i).
 
 ### Section 325
 
@@ -12452,23 +12504,23 @@ Section 543 of the Act is replaced by the following:
 
 ### Section 543
 
-  **(1)** Subject to sections 540, 546 and 549 **and the regulations**, an authorized foreign bank may, in Canada,
+  **(1)** Subject to sections 540, 546 and 549 and the regulations, an authorized foreign bank may, in Canada,
 
     act as agent for any person in respect of
 
-    **the carrying on of any activity referred to in subsection 410(1) or 539(1) that is engaged in** by a financial institution, **by** an entity in which a bank is permitted to acquire a substantial investment under section 468, **if that section were read without reference to the requirements of subsections 468(4) to (6)**, or **by** a Canadian entity acquired or held under section 522.08, or
+    the carrying on of any activity referred to in subsection 410(1) or 539(1) that is engaged in by a financial institution, by an entity in which a bank is permitted to acquire a substantial investment under section 468, if that section were read without reference to the requirements of subsections 468(4) to (6), or by a Canadian entity acquired or held under section 522.08, or
 
-    the provision of any service **that relates to financial services and that is provided by an institution or entity referred to in subparagraph (i)**;
+    the provision of any service that relates to financial services and that is provided by an institution or entity referred to in subparagraph (i);
 
-    enter into an arrangement with any person in respect of **the carrying on of an activity referred to in subparagraph (a)(i) or the provision of a service referred to in subparagraph (a)(ii); and**
+    enter into an arrangement with any person in respect of the carrying on of an activity referred to in subparagraph (a)(i) or the provision of a service referred to in subparagraph (a)(ii); and
 
-    refer any person to **another person**.
+    refer any person to another person.
 
   **(2)** The Governor in Council may make regulations
 
-    respecting the disclosure of the name of the **person** for whom an authorized foreign bank is acting as agent **under** subsection (1);
+    respecting the disclosure of the name of the person for whom an authorized foreign bank is acting as agent under subsection (1);
 
-    **respecting the disclosure of** any commission being earned by an authorized foreign bank when acting as agent **under** subsection (1);
+    respecting the disclosure of any commission being earned by an authorized foreign bank when acting as agent under subsection (1);
 
     respecting the circumstances in which an authorized foreign bank may act as an agent, enter into an arrangement or refer a person under subsection (1); and
 
@@ -12492,13 +12544,13 @@ The Governor in Council may, for the purposes of section 538 and subsection 543(
 
   **(2)** Subparagraph 930(3)(d)(ii) of the Act is replaced by the following:
 
-    in the case of an entity that is not controlled by the bank holding company, a bank would be permitted to acquire a substantial investment in the other entity under subsection 466(2), paragraph 466(3)(b) or (c) or subsection 466(4) or 468(1), (2) or **(2.1)**; or
+    in the case of an entity that is not controlled by the bank holding company, a bank would be permitted to acquire a substantial investment in the other entity under subsection 466(2), paragraph 466(3)(b) or (c) or subsection 466(4) or 468(1), (2) or (2.1); or
 
   **(3)** Subsection 930(5) of the Act is amended by adding "or" at the end of paragraph (c) and by repealing paragraphs (5)(d) and (d.1).
 
   **(4)** Paragraph 930(7)(a) of the Act is replaced by the following:
 
-    the bank holding company is acquiring control of an entity, other than a specialized financing entity, **under subsection (2) or (2.1)** and the only reason for which the bank holding company would, but for this subsection, require approval for the acquisition is that the entity carries on activities referred to in paragraph (2)(b);
+    the bank holding company is acquiring control of an entity, other than a specialized financing entity, under subsection (2) or (2.1) and the only reason for which the bank holding company would, but for this subsection, require approval for the acquisition is that the entity carries on activities referred to in paragraph (2)(b);
 
 ### Section 327
 
@@ -12529,11 +12581,11 @@ Subsection 976.1(1) of the Act is replaced by the following:
 
     subject to sections 475 and 478 and the regulations, engage in any activity that relates to the provision of financial services by the company or any of its affiliates;
 
-    **subject to the regulations**, engage in any of the following activities:
+    subject to the regulations, engage in any of the following activities:
 
     collecting, manipulating and transmitting information, and
 
-    designing, developing, manufacturing, selling **and** otherwise **dealing** with **technology, if those activities relate to**
+    designing, developing, manufacturing, selling and otherwise dealing with technology, if those activities relate to
 
     an activity referred to in this subsection or subsection (1.1) that is engaged in by the company or any of its affiliates, or
 
@@ -12545,15 +12597,15 @@ Subsection 976.1(1) of the Act is replaced by the following:
 
   **(3)** Paragraph 441(4)(a) of the Act is replaced by the following:
 
-    respecting what a company may or may not do with respect to the carrying on of the activities referred to in any of paragraphs (1)**(c.1)** and (d) and subsection (1.1);
+    respecting what a company may or may not do with respect to the carrying on of the activities referred to in any of paragraphs (1)(c.1) and (d) and subsection (1.1);
 
   **(4)** Subparagraph 441(4)(b)(ii) of the English version of the Act is replaced by the following:
 
-    the carrying on of the activities referred to in any of paragraphs (1)**(c.1)** and (d) and subsection (1.1); and
+    the carrying on of the activities referred to in any of paragraphs (1)(c.1) and (d) and subsection (1.1); and
 
   **(5)** Paragraph 441(4)(c) of the Act is replaced by the following:
 
-    respecting the circumstances in which **a company** may **engage in the activities referred to in paragraphs (1)(c.1) and (d), including the circumstances in which a company may collect, manipulate and transmit information under subparagraph (1)(d)(i)**.
+    respecting the circumstances in which a company may engage in the activities referred to in paragraphs (1)(c.1) and (d), including the circumstances in which a company may collect, manipulate and transmit information under subparagraph (1)(d)(i).
 
 ### Section 330
 
@@ -12561,23 +12613,23 @@ Section 442 of the Act is replaced by the following:
 
 ### Section 442
 
-  **(1)** **Subject to the regulations**, a company may
+  **(1)** Subject to the regulations, a company may
 
     act as agent for any person in respect of
 
-    **the carrying on of any activity referred to in subsection 441(1) or (1.1) that is engaged in** by a financial institution, **by** a permitted entity as defined in subsection 490(1), **if that definition were read without reference to the requirements of subsections 495(6) to (8)**, or **by** a prescribed entity, **or**
+    the carrying on of any activity referred to in subsection 441(1) or (1.1) that is engaged in by a financial institution, by a permitted entity as defined in subsection 490(1), if that definition were read without reference to the requirements of subsections 495(6) to (8), or by a prescribed entity, or
 
-    the provision of any service **that relates to financial services and that is provided by an institution or entity referred to in subparagraph (i)**;
+    the provision of any service that relates to financial services and that is provided by an institution or entity referred to in subparagraph (i);
 
-    enter into an arrangement with any person in respect of **the carrying on of an activity referred to in subparagraph (a)(i) or** the provision of **a service referred to in subparagraph (a)(ii); and**
+    enter into an arrangement with any person in respect of the carrying on of an activity referred to in subparagraph (a)(i) or the provision of a service referred to in subparagraph (a)(ii); and
 
-    refer any person to **another person**.
+    refer any person to another person.
 
   **(2)** The Governor in Council may make regulations
 
-    respecting the disclosure of the name of the **person** for whom a company is acting as agent **under** subsection (1);
+    respecting the disclosure of the name of the person for whom a company is acting as agent under subsection (1);
 
-    **respecting the disclosure of** any commission being earned by a company when acting as agent **under** subsection (1);
+    respecting the disclosure of any commission being earned by a company when acting as agent under subsection (1);
 
     respecting the circumstances in which a company may act as an agent, enter into an arrangement or refer a person under subsection (1); and
 
@@ -12603,7 +12655,7 @@ The Governor in Council may, for the purposes of section 440 and subsection 442(
 
   **(2)** Subparagraph 495(3)(d)(ii) of the Act is replaced by the following:
 
-    in the case of an entity that is not controlled by the company, the company itself would be permitted to acquire a substantial investment in the other entity under subsection (1), (2) or **(2.1)** or 493(2), paragraph 493(3)(b) or (c) or subsection 493(4); or
+    in the case of an entity that is not controlled by the company, the company itself would be permitted to acquire a substantial investment in the other entity under subsection (1), (2) or (2.1) or 493(2), paragraph 493(3)(b) or (c) or subsection 493(4); or
 
   **(3)** Section 495 of the Act is amended by adding the following after subsection (4):
 
@@ -12617,13 +12669,13 @@ The Governor in Council may, for the purposes of section 440 and subsection 442(
 
   **(4)** Subparagraph 495(5)(d)(ii) of the Act is replaced by the following:
 
-    in the case of an entity that is not controlled by the company, the company itself would be permitted to acquire a substantial investment in the other entity under subsection (1), (4) or **(4.1)** or 493(2) or paragraph 493(3)(b) or (c); or
+    in the case of an entity that is not controlled by the company, the company itself would be permitted to acquire a substantial investment in the other entity under subsection (1), (4) or (4.1) or 493(2) or paragraph 493(3)(b) or (c); or
 
   **(5)** Subsection 495(7) of the Act is amended by adding "or" at the end of paragraph (c) and by repealing paragraphs (d) and (d.1).
 
   **(6)** Paragraph 495(9)(a) of the Act is replaced by the following:
 
-    the company is acquiring control of an entity, other than a specialized financing entity, **under subsection (2), (2.1), (4) or (4.1)** and the only reason for which the company would, but for this subsection, require approval for the acquisition is that the entity carries on activities referred to in paragraph (2)(b) or (4)(b);
+    the company is acquiring control of an entity, other than a specialized financing entity, under subsection (2), (2.1), (4) or (4.1) and the only reason for which the company would, but for this subsection, require approval for the acquisition is that the entity carries on activities referred to in paragraph (2)(b) or (4)(b);
 
 ### Section 332
 
@@ -12641,19 +12693,19 @@ imposing terms and conditions in respect of the acquisition of control of, or ac
 
 Paragraph 528(1)(c) of the Act is replaced by the following:
 
-consists of a written contract with the related party **for the purpose of having either one of them act as an agent or make referrals**;
+consists of a written contract with the related party for the purpose of having either one of them act as an agent or make referrals;
 
 ### Section 334
 
   **(1)** Paragraphs 542(2)(d) and (e) of the Act are replaced by the following:
 
-    **subject to the regulations**, act as an agent for a person, or enter into any other arrangement with a person, in respect of the provision of a service by
+    subject to the regulations, act as an agent for a person, or enter into any other arrangement with a person, in respect of the provision of a service by
 
     a financial institution that is primarily engaged in an insurance business, or
 
-    **an entity** in which a society is permitted to **acquire** a substantial investment **under** section 554, **if that section were read without reference to the requirements of subsections 554(4) and (5)**; and
+    an entity in which a society is permitted to acquire a substantial investment under section 554, if that section were read without reference to the requirements of subsections 554(4) and (5); and
 
-    refer **any person** to **another person**.
+    refer any person to another person.
 
   **(2)** Section 542 of the Act is amended by adding the following after subsection (5):
 
@@ -12681,11 +12733,11 @@ consists of a written contract with the related party **for the purpose of havin
 
   **(2)** Subparagraph 554(3)(d)(ii) of the Act is replaced by the following:
 
-    in the case of an entity that is not controlled by the society, the society itself would be permitted to acquire a substantial investment in the other entity under subsection (1), (2) or **(2.1)** or 552(2) or paragraph 552(3)(b) or (c); or
+    in the case of an entity that is not controlled by the society, the society itself would be permitted to acquire a substantial investment in the other entity under subsection (1), (2) or (2.1) or 552(2) or paragraph 552(3)(b) or (c); or
 
   **(3)** Subsection 554(5) of the Act is replaced by the following:
 
-    **(5)** Subject to the regulations, a society may not, without the prior written approval of the Minister, acquire control of, or acquire or increase a substantial investment in, a permitted entity **other than an entity that a society may acquire control of, or acquire or increase a substantial investment in, under subsection (2.1) or an entity whose activities are limited to activities that a property and casualty company is permitted to engage in under paragraph 441(1)(c.1) or (d)**.
+    **(5)** Subject to the regulations, a society may not, without the prior written approval of the Minister, acquire control of, or acquire or increase a substantial investment in, a permitted entity other than an entity that a society may acquire control of, or acquire or increase a substantial investment in, under subsection (2.1) or an entity whose activities are limited to activities that a property and casualty company is permitted to engage in under paragraph 441(1)(c.1) or (d).
 
 ### Section 336
 
@@ -12715,13 +12767,13 @@ imposing terms and conditions in respect of the acquisition of control of, or ac
 
   **(2)** Subparagraph 971(3)(d)(ii) of the Act is replaced by the following:
 
-    in the case of an entity that is not controlled by the insurance holding company, a company would be permitted to acquire a substantial investment in the other entity under subsection 493(2), paragraph 493(3)(b) or (c) or subsection 493(4) or 495(1), (2) or **(2.1)**; or
+    in the case of an entity that is not controlled by the insurance holding company, a company would be permitted to acquire a substantial investment in the other entity under subsection 493(2), paragraph 493(3)(b) or (c) or subsection 493(4) or 495(1), (2) or (2.1); or
 
   **(3)** Subsection 971(5) of the Act is amended by adding "or" at the end of paragraph (c) and by repealing paragraphs (5)(d) and (d.1).
 
   **(4)** Paragraph 971(7)(a) of the Act is replaced by the following:
 
-    the insurance holding company is acquiring control of an entity, other than a specialized financing entity, **under subsection (2) or (2.1)** and the only reason for which the insurance holding company would, but for this subsection, require approval for the acquisition is that the entity carries on activities referred to in paragraph (2)(b);
+    the insurance holding company is acquiring control of an entity, other than a specialized financing entity, under subsection (2) or (2.1) and the only reason for which the insurance holding company would, but for this subsection, require approval for the acquisition is that the entity carries on activities referred to in paragraph (2)(b);
 
 ### Section 338
 
@@ -12739,7 +12791,7 @@ imposing terms and conditions in respect of the acquisition of control of, or ac
 
   **(1)** Paragraphs 1019.1(1)(a) and (b) of the Act are replaced by the following:
 
-    **paragraph** 441(1)(h);
+    paragraph 441(1)(h);
 
     paragraphs 495(7)(b.1) and (c);
 
@@ -12754,7 +12806,7 @@ imposing terms and conditions in respect of the acquisition of control of, or ac
 
   **(1)** Paragraph 17(1)(f) of the `Green Shield Canada Act` is replaced by the following:
 
-    **paragraphs** 441(1)(d) **and (i)**, subsection 441(3) and sections 448, 450, 465 to 472 and 476 to 478 of Part VIII;
+    paragraphs 441(1)(d) and (i), subsection 441(3) and sections 448, 450, 465 to 472 and 476 to 478 of Part VIII;
 
   **(2)** Paragraph 17(1)(f) of the Act is replaced by the following:
 
@@ -12803,13 +12855,13 @@ conditions applicable to investments made and other activities carried out by pe
 
   **(2)** The portion of subsection 495(3) of the Act before paragraph (a) is replaced by the following:
 
-    **(3)** A life company may not acquire control of, or acquire or increase a substantial investment in, an entity whose business includes any activity referred to in any of paragraphs (2)(a) to (e), **or in any regulation made under paragraph 2.2(b)**, if the entity engages in the business of accepting deposit liabilities or if the activities of the entity include
+    **(3)** A life company may not acquire control of, or acquire or increase a substantial investment in, an entity whose business includes any activity referred to in any of paragraphs (2)(a) to (e), or in any regulation made under paragraph 2.2(b), if the entity engages in the business of accepting deposit liabilities or if the activities of the entity include
 
   **(3)** Subparagraphs 495(3)(d)(i) and (ii) of the Act are replaced by the following:
 
-    in the case of an entity, **other than a permitted infrastructure entity**, that is controlled by the company, the company itself would be permitted under this Part to acquire a substantial investment in the other entity,
+    in the case of an entity, other than a permitted infrastructure entity, that is controlled by the company, the company itself would be permitted under this Part to acquire a substantial investment in the other entity,
 
-    in the case of an entity, **other than a permitted infrastructure entity**, that is not controlled by the company, the company itself would be permitted to acquire a substantial investment in the other entity under subsection (1), (2) or **(2.1)** or 493(2), paragraph 493(3)(b) or (c) or subsection 493(4), or
+    in the case of an entity, other than a permitted infrastructure entity, that is not controlled by the company, the company itself would be permitted to acquire a substantial investment in the other entity under subsection (1), (2) or (2.1) or 493(2), paragraph 493(3)(b) or (c) or subsection 493(4), or
 
     in the case of a permitted infrastructure entity, whether or not that entity is controlled by the company, the company itself would be permitted to acquire a substantial investment in the other entity under subsection (2.1); or
 
@@ -12831,19 +12883,19 @@ for the purposes of subsection 495(2.1), establishing terms and conditions respe
 
   **(2)** The portion of subsection 554(3) of the Act before paragraph (a) is replaced by the following:
 
-    **(3)** A society may not acquire control of, or acquire or increase a substantial investment in, an entity whose business includes any activity referred to in any of paragraphs (2)(a) to (e), **or in any regulation made under paragraph 2.2(b)**, if the entity engages in the business of accepting deposit liabilities or if the activities of the entity include
+    **(3)** A society may not acquire control of, or acquire or increase a substantial investment in, an entity whose business includes any activity referred to in any of paragraphs (2)(a) to (e), or in any regulation made under paragraph 2.2(b), if the entity engages in the business of accepting deposit liabilities or if the activities of the entity include
 
   **(3)** Subparagraphs 554(3)(d)(i) and (ii) of the Act are replaced by the following:
 
-    in the case of an entity, **other than a permitted infrastructure entity**, that is controlled by the society, the society itself would be permitted under this Part to acquire a substantial investment in the other entity,
+    in the case of an entity, other than a permitted infrastructure entity, that is controlled by the society, the society itself would be permitted under this Part to acquire a substantial investment in the other entity,
 
-    in the case of an entity, **other than a permitted infrastructure entity**, that is not controlled by the society, the society itself would be permitted to acquire a substantial investment in the other entity under subsection (1), (2) or **(2.1)** or 552(2) or paragraph 552(3)(b) or (c), or
+    in the case of an entity, other than a permitted infrastructure entity, that is not controlled by the society, the society itself would be permitted to acquire a substantial investment in the other entity under subsection (1), (2) or (2.1) or 552(2) or paragraph 552(3)(b) or (c), or
 
     in the case of a permitted infrastructure entity, whether or not that entity is controlled by the society, the society itself would be permitted to acquire a substantial investment in the other entity under subsection (2.1); or
 
   **(4)** Subsection 554(5) of the Act is replaced by the following:
 
-    **(5)** Subject to the regulations, a society may not, without the prior written approval of the Minister, acquire control of, or acquire or increase a substantial investment in, a permitted entity **other than a permitted infrastructure entity or an entity whose activities are limited to acquiring or holding shares of, or ownership interests in, permitted infrastructure entities**.
+    **(5)** Subject to the regulations, a society may not, without the prior written approval of the Minister, acquire control of, or acquire or increase a substantial investment in, a permitted entity other than a permitted infrastructure entity or an entity whose activities are limited to acquiring or holding shares of, or ownership interests in, permitted infrastructure entities.
 
   **(5)** Subsection 554(9) of the Act is amended by striking out "and" at the end of paragraph (a), by adding "and" at the end of paragraph (b) and by adding the following after paragraph (b):
 
@@ -12857,13 +12909,13 @@ for the purposes of subsection 495(2.1), establishing terms and conditions respe
 
   **(2)** The portion of subsection 971(3) of the Act before paragraph (a) is replaced by the following:
 
-    **(3)** An insurance holding company may not acquire control of, or acquire or increase a substantial investment in, an entity whose business includes any activity referred to in any of paragraphs (2)(a) to (e), **or in any regulation made under paragraph 2.2(b)**, if the entity engages in the business of accepting deposit liabilities or if the activities of the entity include
+    **(3)** An insurance holding company may not acquire control of, or acquire or increase a substantial investment in, an entity whose business includes any activity referred to in any of paragraphs (2)(a) to (e), or in any regulation made under paragraph 2.2(b), if the entity engages in the business of accepting deposit liabilities or if the activities of the entity include
 
   **(3)** Subparagraphs 971(3)(d)(i) and (ii) of the Act are replaced by the following:
 
-    in the case of an entity, **other than a permitted infrastructure entity**, that is controlled by the insurance holding company, a company would be permitted under Part IX to acquire a substantial investment in the other entity,
+    in the case of an entity, other than a permitted infrastructure entity, that is controlled by the insurance holding company, a company would be permitted under Part IX to acquire a substantial investment in the other entity,
 
-    in the case of an entity, **other than a permitted infrastructure entity**, that is not controlled by the insurance holding company, a company would be permitted to acquire a substantial investment in the other entity under subsection 493(2), paragraph 493(3)(b) or (c) or subsection 493(4) or 495(1), (2) or **(2.1)**, or
+    in the case of an entity, other than a permitted infrastructure entity, that is not controlled by the insurance holding company, a company would be permitted to acquire a substantial investment in the other entity under subsection 493(2), paragraph 493(3)(b) or (c) or subsection 493(4) or 495(1), (2) or (2.1), or
 
     in the case of a permitted infrastructure entity, whether or not that entity is controlled by the insurance holding company, a company would be permitted to acquire a substantial investment in the other entity under subsection 495(2.1); or
 
@@ -12950,13 +13002,13 @@ After proceedings in respect of a violation in relation to section 983 of the `B
 
   **(1)** Subsection 983(2) of the `Bank Act` is replaced by the following:
 
-    **(2)** Subject to the regulations and subsections (4) to (5.1), (6) and (12), every entity, other than a bank, that acquires, adopts or retains a name, **a domain name or an identifying mark** that includes the word "bank", "banker" or "banking", either alone or in combination with other words, to indicate or describe a business in Canada or any part of a business in Canada, without being authorized to do so by this Act or any other Act of Parliament, is guilty of an offence.
+    **(2)** Subject to the regulations and subsections (4) to (5.1), (6) and (12), every entity, other than a bank, that acquires, adopts or retains a name, a domain name or an identifying mark that includes the word "bank", "banker" or "banking", either alone or in combination with other words, to indicate or describe a business in Canada or any part of a business in Canada, without being authorized to do so by this Act or any other Act of Parliament, is guilty of an offence.
 
   **(2)** Subsection 983(2.1) of the Act is replaced by the following:
 
-    **(2.1)** Subject to the regulations and subsections (4) to (5.1), (6) and (12), every person, other than a bank, who uses the word "bank", "banker" or "banking", without being authorized to do so by this Act or any other Act of Parliament, to indicate or describe a business in Canada or any part of a business in Canada, **including any of its products or services or the means by which any of those products or services may be obtained**, is guilty of an offence.
+    **(2.1)** Subject to the regulations and subsections (4) to (5.1), (6) and (12), every person, other than a bank, who uses the word "bank", "banker" or "banking", without being authorized to do so by this Act or any other Act of Parliament, to indicate or describe a business in Canada or any part of a business in Canada, including any of its products or services or the means by which any of those products or services may be obtained, is guilty of an offence.
 
-    **(2.11)** Subject to the regulations and subsections (4) to (5.1), (6) and (12), every person, other than a bank, who, in respect of their own business, causes or authorizes another person to use the word "bank", "banker" or "banking", without being authorized to do so by this Act or any other Act of Parliament, to indicate or describe **that** business in Canada, or any part of **that** business in Canada, including any of its products or services or the means by which any of those products or services may be obtained, is guilty of an offence.
+    **(2.11)** Subject to the regulations and subsections (4) to (5.1), (6) and (12), every person, other than a bank, who, in respect of their own business, causes or authorizes another person to use the word "bank", "banker" or "banking", without being authorized to do so by this Act or any other Act of Parliament, to indicate or describe that business in Canada, or any part of that business in Canada, including any of its products or services or the means by which any of those products or services may be obtained, is guilty of an offence.
 
   **(3)** Section 983 of the Act is amended by adding the following after subsection (4.1):
 
@@ -12992,7 +13044,7 @@ After proceedings in respect of a violation in relation to section 983 of the `B
 
   **(4)** Subsection 983(5) of the Act is replaced by the following:
 
-    **(5)** No subsidiary of a bank commits an offence by reason only that it uses the name of the bank of which it is a subsidiary in its corporate name or a name under which it carries on business or by reason only that it uses any identifying mark **or domain name** of that bank in carrying on its business.
+    **(5)** No subsidiary of a bank commits an offence by reason only that it uses the name of the bank of which it is a subsidiary in its corporate name or a name under which it carries on business or by reason only that it uses any identifying mark or domain name of that bank in carrying on its business.
 
   **(5)** Subsection 983(5.3) of the French version of the Act is replaced by the following:
 
@@ -13022,7 +13074,7 @@ After proceedings in respect of a violation in relation to section 983 of the `B
 
   **(11)** Subsection 983(18) of the Act is replaced by the following:
 
-    **(18)** The Governor in Council may make regulations for the purposes of subsections (1) to (3), paragraphs (4)(b), (g) and (h) and subsections **(4.2), (4.3)**, (5.3), (8) and (9.1) to (11).
+    **(18)** The Governor in Council may make regulations for the purposes of subsections (1) to (3), paragraphs (4)(b), (g) and (h) and subsections (4.2), (4.3), (5.3), (8) and (9.1) to (11).
 
 ### Section 353
 
@@ -13064,11 +13116,11 @@ The Superintendent may direct an entity to provide him or her with the informati
 
 ### Section 20
 
-      **(1)** Subject to subsections (2) and (4), companies shall not carry on business after **the fifth anniversary of the day on which the `Budget Implementation Act, 2018, No. 1` receives royal assent**.
+      **(1)** Subject to subsections (2) and (4), companies shall not carry on business after the fifth anniversary of the day on which the `Budget Implementation Act, 2018, No. 1` receives royal assent.
 
   **(2)** Subsection 20(4) of the Act is replaced by the following:
 
-    **(4)** If Parliament dissolves on **the fifth anniversary of the day on which the `Budget Implementation Act, 2018, No. 1` receives royal assent** or on any day within the six-month period before that **anniversary** or on any day within an extension ordered under subsection (2), companies may continue to carry on business until the end of the 180th day after the first day of the first session of the next Parliament.
+    **(4)** If Parliament dissolves on the fifth anniversary of the day on which the `Budget Implementation Act, 2018, No. 1` receives royal assent or on any day within the six-month period before that anniversary or on any day within an extension ordered under subsection (2), companies may continue to carry on business until the end of the 180th day after the first day of the first session of the next Parliament.
 
 
 ##### Bank Act
@@ -13079,11 +13131,11 @@ The Superintendent may direct an entity to provide him or her with the informati
 
 ### Section 21
 
-      **(1)** Subject to subsections (2) and (4), banks shall not carry on business, and authorized foreign banks shall not carry on business in Canada, after **the fifth anniversary of the day on which the `Budget Implementation Act, 2018, No. 1` receives royal assent**.
+      **(1)** Subject to subsections (2) and (4), banks shall not carry on business, and authorized foreign banks shall not carry on business in Canada, after the fifth anniversary of the day on which the `Budget Implementation Act, 2018, No. 1` receives royal assent.
 
   **(2)** Subsection 21(4) of the Act is replaced by the following:
 
-    **(4)** If Parliament dissolves on **the fifth anniversary of the day on which the `Budget Implementation Act, 2018, No. 1` receives royal assent** or on any day within the six-month period before that **anniversary** or on any day within an extension ordered under subsection (2), banks may continue to carry on business, and authorized foreign banks may continue to carry on business in Canada, until the end of the 180th day after the first day of the first session of the next Parliament.
+    **(4)** If Parliament dissolves on the fifth anniversary of the day on which the `Budget Implementation Act, 2018, No. 1` receives royal assent or on any day within the six-month period before that anniversary or on any day within an extension ordered under subsection (2), banks may continue to carry on business, and authorized foreign banks may continue to carry on business in Canada, until the end of the 180th day after the first day of the first session of the next Parliament.
 
 ### Section 356
 
@@ -13091,11 +13143,11 @@ The Superintendent may direct an entity to provide him or her with the informati
 
 ### Section 670
 
-      **(1)** Subject to subsections (2) and (4), bank holding companies shall not carry on business after **the fifth anniversary of the day on which the `Budget Implementation Act, 2018, No. 1` receives royal assent**.
+      **(1)** Subject to subsections (2) and (4), bank holding companies shall not carry on business after the fifth anniversary of the day on which the `Budget Implementation Act, 2018, No. 1` receives royal assent.
 
   **(2)** Subsection 670(4) of the Act is replaced by the following:
 
-    **(4)** If Parliament dissolves on **the fifth anniversary of the day on which the `Budget Implementation Act, 2018, No. 1` receives royal assent** or on any day within the six-month period before that **anniversary** or on any day within an extension ordered under subsection (2), bank holding companies may continue to carry on business until the end of the 180th day after the first day of the first session of the next Parliament.
+    **(4)** If Parliament dissolves on the fifth anniversary of the day on which the `Budget Implementation Act, 2018, No. 1` receives royal assent or on any day within the six-month period before that anniversary or on any day within an extension ordered under subsection (2), bank holding companies may continue to carry on business until the end of the 180th day after the first day of the first session of the next Parliament.
 
 
 ##### Insurance Companies Act
@@ -13106,11 +13158,11 @@ The Superintendent may direct an entity to provide him or her with the informati
 
 ### Section 21
 
-      **(1)** Subject to subsections (2) and (4), companies and societies shall not carry on business, and foreign companies shall not carry on business in Canada, after **the fifth anniversary of the day on which the `Budget Implementation Act, 2018, No. 1` receives royal assent**.
+      **(1)** Subject to subsections (2) and (4), companies and societies shall not carry on business, and foreign companies shall not carry on business in Canada, after the fifth anniversary of the day on which the `Budget Implementation Act, 2018, No. 1` receives royal assent.
 
   **(2)** Subsection 21(4) of the Act is replaced by the following:
 
-    **(4)** If Parliament dissolves on **the fifth anniversary of the day on which the `Budget Implementation Act, 2018, No. 1` receives royal assent** or on any day within the six-month period before that **anniversary** or on any day within an extension ordered under subsection (2), companies and societies may continue to carry on business, and foreign companies may continue to carry on business in Canada, until the end of the 180th day after the first day of the first session of the next Parliament.
+    **(4)** If Parliament dissolves on the fifth anniversary of the day on which the `Budget Implementation Act, 2018, No. 1` receives royal assent or on any day within the six-month period before that anniversary or on any day within an extension ordered under subsection (2), companies and societies may continue to carry on business, and foreign companies may continue to carry on business in Canada, until the end of the 180th day after the first day of the first session of the next Parliament.
 
 ### Section 358
 
@@ -13118,11 +13170,11 @@ The Superintendent may direct an entity to provide him or her with the informati
 
 ### Section 707
 
-      **(1)** Subject to subsections (2) and (4), insurance holding companies shall not carry on business after **the fifth anniversary of the day on which the `Budget Implementation Act, 2018, No. 1` receives royal assent**.
+      **(1)** Subject to subsections (2) and (4), insurance holding companies shall not carry on business after the fifth anniversary of the day on which the `Budget Implementation Act, 2018, No. 1` receives royal assent.
 
   **(2)** Subsection 707(4) of the Act is replaced by the following:
 
-    **(4)** If Parliament dissolves on **the fifth anniversary of the day on which the `Budget Implementation Act, 2018, No. 1` receives royal assent** or on any day within the six-month period before that **anniversary** or on any day within an extension ordered under subsection (2), insurance holding companies may continue to carry on business until the end of the 180th day after the first day of the first session of the next Parliament.
+    **(4)** If Parliament dissolves on the fifth anniversary of the day on which the `Budget Implementation Act, 2018, No. 1` receives royal assent or on any day within the six-month period before that anniversary or on any day within an extension ordered under subsection (2), insurance holding companies may continue to carry on business until the end of the 180th day after the first day of the first session of the next Parliament.
 
 
 ### Western Economic Diversification Act
@@ -13131,7 +13183,7 @@ The Superintendent may direct an entity to provide him or her with the informati
 
 Paragraph 6(1)(f) of the `Western Economic Diversification Act` is replaced by the following:
 
-enter into any agreement with the government of any province, or with any agency of such **a** government, respecting the **exercise** of the **Minister's** powers **and** the carrying out of the **Minister's** duties and functions; and
+enter into any agreement with the government of any province, or with any agency of such a government, respecting the exercise of the Minister's powers and the carrying out of the Minister's duties and functions; and
 
 
 ### Parliament of Canada Act
@@ -13160,7 +13212,7 @@ caring for a new-born or newly-adopted child of the member or for a child placed
 
   **(2)** The portion of subsection 2(2) of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** For the purposes of any provision of this Act in which reference is made to the reaching by a person of a specified age — other than a reference in paragraph 13(1)(c) or (e) or (1.2)(c), 17(c), 17.1(c), 19(c) or (d) or 44(3)(a), section 70 or paragraph **72(c)** — the person is deemed to have reached the specified age at the beginning of the month following the month in which the person actually reached that age, and in computing
+    **(2)** For the purposes of any provision of this Act in which reference is made to the reaching by a person of a specified age — other than a reference in paragraph 13(1)(c) or (e) or (1.2)(c), 17(c), 17.1(c), 19(c) or (d) or 44(3)(a), section 70 or paragraph 72(c) — the person is deemed to have reached the specified age at the beginning of the month following the month in which the person actually reached that age, and in computing
 
   **(3)** The portion of subsection 2(2) of the Act before paragraph (a) is replaced by the following:
 
@@ -13170,17 +13222,17 @@ caring for a new-born or newly-adopted child of the member or for a child placed
 
   **(1)** Paragraph 8(1)(b) of the Act is replaced by the following:
 
-    the employee's maximum contributory earnings for the year, minus **the** amount, if any, **that** is determined in **the** prescribed manner to be the employee's salary and wages paid by the employer on which a **base** contribution has been made for the year by the employee under a provincial pension plan.
+    the employee's maximum contributory earnings for the year, minus the amount, if any, that is determined in the prescribed manner to be the employee's salary and wages paid by the employer on which a base contribution has been made for the year by the employee under a provincial pension plan.
 
   **(2)** Paragraph 8(1.1)(b) of the Act is replaced by the following:
 
-    the employee's maximum contributory earnings for the year, minus the amount, if any, that is determined in the prescribed manner to be the employee's salary and wages paid by the employer on which a **first additional** contribution has been made for the year by the employee under a provincial pension plan.
+    the employee's maximum contributory earnings for the year, minus the amount, if any, that is determined in the prescribed manner to be the employee's salary and wages paid by the employer on which a first additional contribution has been made for the year by the employee under a provincial pension plan.
 
   **(3)** Subsection 8(1.2) of the Act is replaced by the following:
 
-    **(1.2)** For 2024 and each subsequent year, an employee referred to in subsection (1) shall also, by deduction as provided in this Act from the remuneration in respect of the pensionable employment paid to the employee by the employer, make an employee's second additional contribution for the year in which the remuneration is paid to the employee of an amount equal to the product obtained when the second additional contribution rate for employees for the year is multiplied by the amount **equal to**
+    **(1.2)** For 2024 and each subsequent year, an employee referred to in subsection (1) shall also, by deduction as provided in this Act from the remuneration in respect of the pensionable employment paid to the employee by the employer, make an employee's second additional contribution for the year in which the remuneration is paid to the employee of an amount equal to the product obtained when the second additional contribution rate for employees for the year is multiplied by the amount equal to
 
-      **the amount** by which the employee's contributory salary and wages for the year paid by the employer  —  not exceeding the employee's additional maximum pensionable earnings for the year  —  exceeds the employee's maximum pensionable earnings for the year,
+      the amount by which the employee's contributory salary and wages for the year paid by the employer  —  not exceeding the employee's additional maximum pensionable earnings for the year  —  exceeds the employee's maximum pensionable earnings for the year,
 
       minus
 
@@ -13188,23 +13240,23 @@ caring for a new-born or newly-adopted child of the member or for a child placed
 
   **(4)** Paragraphs 8(2)(a.1) and (a.2) of the Act are replaced by the following:
 
-    for 2019 and each subsequent year, the product obtained when the first additional contribution rate for employees for the year **under this Act** is multiplied by the lesser of
+    for 2019 and each subsequent year, the product obtained when the first additional contribution rate for employees for the year under this Act is multiplied by the lesser of
 
-    the employee's contributory salary and wages for the year in respect of pensionable employment to which the provisions of this Act relating to the making of contributions apply, plus the employee's contributory self-employed earnings for the year in the case of an individual who is described in section 10 and to whom the provisions of this Act relating to the making of contributions apply, minus the **prorated portion of the** employee's basic exemption for the year **calculated under subsection (4)**, and
+    the employee's contributory salary and wages for the year in respect of pensionable employment to which the provisions of this Act relating to the making of contributions apply, plus the employee's contributory self-employed earnings for the year in the case of an individual who is described in section 10 and to whom the provisions of this Act relating to the making of contributions apply, minus the prorated portion of the employee's basic exemption for the year calculated under subsection (4), and
 
-    **the prorated portion of** the employee's maximum contributory earnings for the year **calculated under subsection (5)**;
+    the prorated portion of the employee's maximum contributory earnings for the year calculated under subsection (5);
 
-    for 2024 and each subsequent year, the product obtained when the second additional contribution rate for employees for the year **under this Act** is multiplied by the amount by which
+    for 2024 and each subsequent year, the product obtained when the second additional contribution rate for employees for the year under this Act is multiplied by the amount by which
 
-    the employee's contributory salary and wages for the year in respect of pensionable employment to which the provisions of this Act relating to the making of contributions apply, plus the employee's contributory self-employed earnings for the year in the case of an individual who is described in section 10 and to whom the provisions of this Act relating to the making of contributions apply  —  not exceeding **the prorated portion of** the employee's additional maximum pensionable earnings for the year **calculated under subsection (8)**,
+    the employee's contributory salary and wages for the year in respect of pensionable employment to which the provisions of this Act relating to the making of contributions apply, plus the employee's contributory self-employed earnings for the year in the case of an individual who is described in section 10 and to whom the provisions of this Act relating to the making of contributions apply  —  not exceeding the prorated portion of the employee's additional maximum pensionable earnings for the year calculated under subsection (8),
 
     exceeds
 
-    **the prorated portion of** the employee's maximum pensionable earnings for the year **calculated under subsection (9)**;
+    the prorated portion of the employee's maximum pensionable earnings for the year calculated under subsection (9);
 
   **(5)** The portion of paragraph 8(2)(b) of the Act before subparagraph (i) is replaced by the following:
 
-    the product obtained when the **base** contribution rate for employees for the year under a provincial pension plan is multiplied by the lesser of
+    the product obtained when the base contribution rate for employees for the year under a provincial pension plan is multiplied by the lesser of
 
   **(6)** Subsection 8(2) of the Act is amended by adding the following after paragraph (b):
 
@@ -13224,17 +13276,17 @@ caring for a new-born or newly-adopted child of the member or for a child placed
 
   **(7)** Subsections 8(3) to (7) of the Act are replaced by the following:
 
-    **(3)** The overpayment made by the employee on account of **the** employee's **contributions** for the year under this Act is **the lesser of**
+    **(3)** The overpayment made by the employee on account of the employee's contributions for the year under this Act is the lesser of
 
       the aggregate of all amounts deducted as required from the remuneration of that employee on account of the employee's contributions under this Act for the year, minus the sum of the amounts determined under paragraphs (2)(a) to (a.2), and
 
-      the excess amount **calculated in accordance with** subsection (2).
+      the excess amount calculated in accordance with subsection (2).
 
-    **(4)** For the purposes of **subparagraphs** (2)(a)(i) **and (a.1)(i)**, the prorated portion of the employee's basic exemption for the year is the product obtained when the employee's basic exemption is multiplied by the ratio that
+    **(4)** For the purposes of subparagraphs (2)(a)(i) and (a.1)(i), the prorated portion of the employee's basic exemption for the year is the product obtained when the employee's basic exemption is multiplied by the ratio that
 
       the employee's contributory salary and wages for the year in respect of pensionable employment to which the provisions of this Act relating to the making of contributions apply, subject to
 
-      **for each year before 2024**, the maximum pensionable earnings in respect of each pensionable employment, **and**
+      for each year before 2024, the maximum pensionable earnings in respect of each pensionable employment, and
 
       for 2024 and each subsequent year, the additional maximum pensionable earnings in respect of each pensionable employment,
 
@@ -13242,15 +13294,15 @@ caring for a new-born or newly-adopted child of the member or for a child placed
 
       the aggregate of the employee's contributory salary and wages for the year in respect of pensionable employment to which the provisions of this Act relating to the making of contributions apply or to which the provisions of a provincial pension plan apply, subject to
 
-      **for each year before 2024**, the maximum pensionable earnings in respect of each pensionable employment, **and**
+      for each year before 2024, the maximum pensionable earnings in respect of each pensionable employment, and
 
       for 2024 and each subsequent year, the additional maximum pensionable earnings in respect of each pensionable employment.
 
-    **(5)** For the purposes of **subparagraphs** (2)(a)(ii) **and (a.1)(ii)**, the prorated portion of the employee's maximum contributory earnings for the year is the product obtained when the employee's maximum contributory earnings is multiplied by the ratio that
+    **(5)** For the purposes of subparagraphs (2)(a)(ii) and (a.1)(ii), the prorated portion of the employee's maximum contributory earnings for the year is the product obtained when the employee's maximum contributory earnings is multiplied by the ratio that
 
       the employee's contributory salary and wages for the year in respect of pensionable employment to which the provisions of this Act relating to the making of contributions apply, subject to
 
-      **for each year before 2024**, the maximum pensionable earnings in respect of each pensionable employment, **and**
+      for each year before 2024, the maximum pensionable earnings in respect of each pensionable employment, and
 
       for 2024 and each subsequent year, the additional maximum pensionable earnings in respect of each pensionable employment,
 
@@ -13258,15 +13310,15 @@ caring for a new-born or newly-adopted child of the member or for a child placed
 
       the aggregate of the employee's contributory salary and wages for the year in respect of pensionable employment to which the provisions of this Act relating to the making of contributions apply or to which the provisions of a provincial pension plan apply, subject to
 
-      **for each year before 2024**, the maximum pensionable earnings in respect of each pensionable employment, **and**
+      for each year before 2024, the maximum pensionable earnings in respect of each pensionable employment, and
 
       for 2024 and each subsequent year, the additional maximum pensionable earnings in respect of each pensionable employment.
 
-    **(6)** For the purposes of **subparagraphs** (2)(b)(i) **and (c)(i)**, the prorated portion of the employee's basic exemption for the year is the difference between the employee's basic exemption, determined without taking into account paragraphs 19(b) and (c), and the prorated portion calculated under subsection (4).
+    **(6)** For the purposes of subparagraphs (2)(b)(i) and (c)(i), the prorated portion of the employee's basic exemption for the year is the difference between the employee's basic exemption, determined without taking into account paragraphs 19(b) and (c), and the prorated portion calculated under subsection (4).
 
-    **(7)** For the purposes of **subparagraphs** (2)(b)(ii) **and (c)(ii)**, the prorated portion of the employee's maximum contributory earnings for the year is the difference between the employee's maximum contributory earnings, determined without taking into account paragraphs 17(b) and (c) and 19(b) and (c), and the prorated portion calculated under subsection (5).
+    **(7)** For the purposes of subparagraphs (2)(b)(ii) and (c)(ii), the prorated portion of the employee's maximum contributory earnings for the year is the difference between the employee's maximum contributory earnings, determined without taking into account paragraphs 17(b) and (c) and 19(b) and (c), and the prorated portion calculated under subsection (5).
 
-    **(8)** For the purposes of subparagraph (2)(a.2)(i), the prorated portion **of** the employee's additional maximum pensionable earnings for the year is the product obtained when the employee's additional maximum pensionable earnings is multiplied by the ratio that
+    **(8)** For the purposes of subparagraph (2)(a.2)(i), the prorated portion of the employee's additional maximum pensionable earnings for the year is the product obtained when the employee's additional maximum pensionable earnings is multiplied by the ratio that
 
       the employee's contributory salary and wages for the year in respect of pensionable employment to which the provisions of this Act relating to the making of contributions apply, subject to the additional maximum pensionable earnings in respect of each pensionable employment,
 
@@ -13274,7 +13326,7 @@ caring for a new-born or newly-adopted child of the member or for a child placed
 
       the aggregate of the employee's contributory salary and wages for the year in respect of pensionable employment to which the provisions of this Act relating to the making of contributions apply or to which the provisions of a provincial pension plan apply, subject to the additional maximum pensionable earnings in respect of each pensionable employment.
 
-    **(9)** For the purposes of subparagraph (2)(a.2)(ii), the prorated portion **of** the employee's maximum pensionable earnings for the year is the product obtained when the employee's maximum pensionable earnings for the year is multiplied by the ratio that
+    **(9)** For the purposes of subparagraph (2)(a.2)(ii), the prorated portion of the employee's maximum pensionable earnings for the year is the product obtained when the employee's maximum pensionable earnings for the year is multiplied by the ratio that
 
       the employee's contributory salary and wages for the year in respect of pensionable employment to which the provisions of this Act relating to the making of contributions apply, subject to the additional maximum pensionable earnings in respect of each pensionable employment,
 
@@ -13290,17 +13342,17 @@ caring for a new-born or newly-adopted child of the member or for a child placed
 
   **(1)** Paragraph 9(1)(b) of the Act is replaced by the following:
 
-    the maximum contributory earnings of the employee for the year, minus **the** amount, if any, **that** is determined in **the** prescribed manner to be the **employee's** salary and wages on which a **base** contribution has been made for the year by the employer with respect to the employee under a provincial pension plan.
+    the maximum contributory earnings of the employee for the year, minus the amount, if any, that is determined in the prescribed manner to be the employee's salary and wages on which a base contribution has been made for the year by the employer with respect to the employee under a provincial pension plan.
 
   **(2)** Paragraph 9(1.1)(b) of the Act is replaced by the following:
 
-    the employee's maximum contributory earnings for the year, minus the amount, if any, that is determined in the prescribed manner to be the employee's salary and wages on which a **first additional** contribution has been made for the year by the employer with respect to the employee under a provincial pension plan.
+    the employee's maximum contributory earnings for the year, minus the amount, if any, that is determined in the prescribed manner to be the employee's salary and wages on which a first additional contribution has been made for the year by the employer with respect to the employee under a provincial pension plan.
 
   **(3)** Subsection 9(1.2) of the Act is replaced by the following:
 
-    **(1.2)** For 2024 and each subsequent year, an employer referred to in subsection (1) shall also, in respect of each employee employed by the employer in pensionable employment, make an employer's second additional contribution for the year in which remuneration in respect of the pensionable employment is paid to the employee of an amount equal to the product obtained when the second additional contribution rate for employers for the year is multiplied by the amount **equal to**
+    **(1.2)** For 2024 and each subsequent year, an employer referred to in subsection (1) shall also, in respect of each employee employed by the employer in pensionable employment, make an employer's second additional contribution for the year in which remuneration in respect of the pensionable employment is paid to the employee of an amount equal to the product obtained when the second additional contribution rate for employers for the year is multiplied by the amount equal to
 
-      **the amount** by which the employee's contributory salary and wages for the year paid by the employer  —  not exceeding the employee's additional maximum pensionable earnings for the year — exceeds the employee's maximum pensionable earnings for the year,
+      the amount by which the employee's contributory salary and wages for the year paid by the employer  —  not exceeding the employee's additional maximum pensionable earnings for the year — exceeds the employee's maximum pensionable earnings for the year,
 
       minus
 
@@ -13310,7 +13362,7 @@ caring for a new-born or newly-adopted child of the member or for a child placed
 
   **(1)** Paragraph 10(1)(b) of the Act is replaced by the following:
 
-    the individual's maximum contributory earnings for the year, minus the individual's salary and wages, if any, on which a base contribution has been made for the year and the amount, if any, that is determined in the prescribed manner to be the individual's salary and wages on which a **base** contribution has been made for the year by the individual under a provincial pension plan.
+    the individual's maximum contributory earnings for the year, minus the individual's salary and wages, if any, on which a base contribution has been made for the year and the amount, if any, that is determined in the prescribed manner to be the individual's salary and wages on which a base contribution has been made for the year by the individual under a provincial pension plan.
 
   **(2)** Paragraphs 10(1.1)(a) and (b) of the Act are replaced by the following:
 
@@ -13320,11 +13372,11 @@ caring for a new-born or newly-adopted child of the member or for a child placed
 
     all amounts deducted as prescribed by or under a provincial pension plan on account of any like exemption for the year whether by one or more employers under that plan, and
 
-    the individual's maximum contributory earnings for the year, minus the individual's salary and wages, if any, on which a first additional contribution has been made for the year **and the amount, if any, that is determined in the prescribed manner to be the individual's salary and wages on which a first additional contribution has been made for the year by the individual under a provincial pension plan.**
+    the individual's maximum contributory earnings for the year, minus the individual's salary and wages, if any, on which a first additional contribution has been made for the year and the amount, if any, that is determined in the prescribed manner to be the individual's salary and wages on which a first additional contribution has been made for the year by the individual under a provincial pension plan.
 
   **(3)** Paragraph 10(1.2)(b) of the Act is replaced by the following:
 
-    the individual's salary and wages, if any, on which a second additional contribution has been made for the year **and the amount, if any, that is determined in the prescribed manner to be the individual's salary and wages on which a second additional contribution has been made for the year by the individual under a provincial pension plan.**
+    the individual's salary and wages, if any, on which a second additional contribution has been made for the year and the amount, if any, that is determined in the prescribed manner to be the individual's salary and wages on which a second additional contribution has been made for the year by the individual under a provincial pension plan.
 
 ### Section 365
 
@@ -13338,7 +13390,7 @@ The portion of subsection 12(1) of the Act before paragraph (a) is replaced by t
 
   **(1)** Subparagraph 13(3)(b)(i) of the Act is replaced by the following:
 
-    the person's salary and wages on which a base contribution has been made for the year and the amount, if any, that is determined in the prescribed manner to be the person's salary and wages on which a **base** contribution has been made for the year by the person under a provincial pension plan, and
+    the person's salary and wages on which a base contribution has been made for the year and the amount, if any, that is determined in the prescribed manner to be the person's salary and wages on which a base contribution has been made for the year by the person under a provincial pension plan, and
 
   **(2)** Subparagraph 13(3.1)(a)(i) of the Act is replaced by the following:
 
@@ -13346,11 +13398,11 @@ The portion of subsection 12(1) of the Act before paragraph (a) is replaced by t
 
   **(3)** Subparagraph 13(3.1)(b)(i) of the Act is replaced by the following:
 
-    the person's salary and wages on which a first additional contribution has been made for the year and **the amount, if any, that is determined in the prescribed manner to be the person's salary and wages on which a first additional contribution has been made for the year by the person under a provincial pension plan, and**
+    the person's salary and wages on which a first additional contribution has been made for the year and the amount, if any, that is determined in the prescribed manner to be the person's salary and wages on which a first additional contribution has been made for the year by the person under a provincial pension plan, and
 
   **(4)** Clause 13(3.1)(b)(ii)(A) of the Act is replaced by the following:
 
-    the aggregate of all amounts deducted as prescribed on account of the person's basic exemption for the year by one or more employers under section 8 and **all amounts deducted as prescribed by or under a provincial pension plan on account of any like exemption for the year by one or more employers under that plan**, and
+    the aggregate of all amounts deducted as prescribed on account of the person's basic exemption for the year by one or more employers under section 8 and all amounts deducted as prescribed by or under a provincial pension plan on account of any like exemption for the year by one or more employers under that plan, and
 
   **(5)** Subparagraph 13(3.2)(a)(i) of the Act is replaced by the following:
 
@@ -13362,7 +13414,7 @@ The portion of subsection 12(1) of the Act before paragraph (a) is replaced by t
 
   **(7)** Clause 13(3.2)(b)(ii)(A) of the Act is replaced by the following:
 
-    the aggregate of all amounts deducted as prescribed on account of the person's basic exemption for the year by one or more employers under section 8 and **all amounts deducted as prescribed by or under a provincial pension plan on account of any like exemption for the year by one or more employers under that plan**, and
+    the aggregate of all amounts deducted as prescribed on account of the person's basic exemption for the year by one or more employers under section 8 and all amounts deducted as prescribed by or under a provincial pension plan on account of any like exemption for the year by one or more employers under that plan, and
 
 ### Section 367
 
@@ -13370,13 +13422,13 @@ Subsection 15(1) of the Act is replaced by the following:
 
 ### Section 15
 
-  **(1)** The amount of **a person's** salary and wages on which a base contribution has been made for a year is the **greater** of the following amounts, divided by the contribution rate for employees for the year:
+  **(1)** The amount of a person's salary and wages on which a base contribution has been made for a year is the greater of the following amounts, divided by the contribution rate for employees for the year:
 
-    the aggregate of all amounts deducted as required from the remuneration of that person on account of the employee's base contribution for the year **under this Act**, minus the **portion of those** amounts that **exceeds the amount** determined under **paragraph** 8(2)(a), and
+    the aggregate of all amounts deducted as required from the remuneration of that person on account of the employee's base contribution for the year under this Act, minus the portion of those amounts that exceeds the amount determined under paragraph 8(2)(a), and
 
     an amount equal to
 
-    **the aggregate of all amounts deducted** as required from the remuneration of that person on account of the employee's base contribution for the year **under this Act or under a provincial pension plan**,
+    the aggregate of all amounts deducted as required from the remuneration of that person on account of the employee's base contribution for the year under this Act or under a provincial pension plan,
 
     minus
 
@@ -13386,7 +13438,7 @@ Subsection 15(1) of the Act is replaced by the following:
 
     the aggregate of all amounts deducted as required from the remuneration of that person on account of the employee's base contribution for the year under this Act or under a provincial pension plan, minus the sum of the amounts determined under paragraphs 8(2)(a) and (b).
 
-  ****(1.1)**** **For the purposes of subsection (1),** if an employer has failed to deduct an amount as required from the **person's remuneration on account of the employee's base contribution for the year and that person has, before June** 30 **of** the following year, notified the Minister of the employer's failure to so deduct that amount, an amount equal to the amount that should have been so deducted by the employer on account of that contribution **is added to the aggregate of all amounts deducted as required from the remuneration of that person on account of the employee's base contribution for the year.**
+  **(1.1)** For the purposes of subsection (1), if an employer has failed to deduct an amount as required from the person's remuneration on account of the employee's base contribution for the year and that person has, before June 30 of the following year, notified the Minister of the employer's failure to so deduct that amount, an amount equal to the amount that should have been so deducted by the employer on account of that contribution is added to the aggregate of all amounts deducted as required from the remuneration of that person on account of the employee's base contribution for the year.
 
 ### Section 368
 
@@ -13394,9 +13446,9 @@ Subsection 15.1(1) of the Act is replaced by the following:
 
 ### Section 15.1
 
-  **(1)** The amount of **a person's** salary and wages on which a first additional contribution has been made for a year is the **greater** of the following amounts, divided by the first additional contribution rate for employees for the year:
+  **(1)** The amount of a person's salary and wages on which a first additional contribution has been made for a year is the greater of the following amounts, divided by the first additional contribution rate for employees for the year:
 
-    the aggregate of all amounts deducted as required from the remuneration of that person on account of the employee's first additional contribution for the year **under this Act**, minus the portion of those amounts that exceeds the amount determined under paragraph 8(2)(a.1), and
+    the aggregate of all amounts deducted as required from the remuneration of that person on account of the employee's first additional contribution for the year under this Act, minus the portion of those amounts that exceeds the amount determined under paragraph 8(2)(a.1), and
 
     an amount equal to
 
@@ -13410,7 +13462,7 @@ Subsection 15.1(1) of the Act is replaced by the following:
 
     the aggregate of all amounts deducted as required from the remuneration of that person on account of the employee's first additional contribution for the year under this Act or under a provincial pension plan, minus the sum of the amounts determined under paragraphs 8(2)(a.1) and (c).
 
-  ****(1.1)**** **For the purposes of subsection (1),** if an employer has failed to deduct an amount as required from the **person's** remuneration on account of the employee's first additional contribution for the year and that person has, before **June** 30 **of** the following year, notified the Minister of the employer's failure to so deduct that amount, an amount equal to the amount that should have been so deducted by the employer on account of that contribution **is added to the aggregate of all amounts deducted as required from the remuneration of that person on account of the employee's first additional contribution for the year.**
+  **(1.1)** For the purposes of subsection (1), if an employer has failed to deduct an amount as required from the person's remuneration on account of the employee's first additional contribution for the year and that person has, before June 30 of the following year, notified the Minister of the employer's failure to so deduct that amount, an amount equal to the amount that should have been so deducted by the employer on account of that contribution is added to the aggregate of all amounts deducted as required from the remuneration of that person on account of the employee's first additional contribution for the year.
 
 ### Section 369
 
@@ -13418,27 +13470,27 @@ Subsection 15.2(1) of the Act is replaced by the following:
 
 ### Section 15.2
 
-  **(1)** The amount of **a person's** salary and wages on which a second additional contribution has been made for a year is an amount equal to the **product obtained when the ratio referred to in subsection 8(8) is multiplied by** the following **amount**, divided by the second additional contribution rate for employees for the year:
+  **(1)** The amount of a person's salary and wages on which a second additional contribution has been made for a year is an amount equal to the product obtained when the ratio referred to in subsection 8(8) is multiplied by the following amount, divided by the second additional contribution rate for employees for the year:
 
-    the aggregate of all amounts deducted as required from the remuneration of that person on account of the employee's second additional contribution for the year **under this Act or under a provincial pension plan** and the **amounts** determined under **clauses 15(1)(b)(ii)(B) and 15.1(1)(b)(ii)(B)**,
+    the aggregate of all amounts deducted as required from the remuneration of that person on account of the employee's second additional contribution for the year under this Act or under a provincial pension plan and the amounts determined under clauses 15(1)(b)(ii)(B) and 15.1(1)(b)(ii)(B),
 
     minus
 
-    the amount determined under subsection **8(2)**.
+    the amount determined under subsection 8(2).
 
-  ****(1.1)**** **For the purposes of subsection (1),** if an employer has failed to deduct an amount as required from the **person's** remuneration on account of the employee's second additional contribution for the year and that person has, before **June** 30 **of** the following year, notified the Minister of the employer's failure to so deduct that amount, an amount equal to the amount that should have been so deducted by the employer on account of that contribution **is added to the aggregate of all amounts deducted as required from the remuneration of that person on account of the employee's second additional contribution for the year.**
+  **(1.1)** For the purposes of subsection (1), if an employer has failed to deduct an amount as required from the person's remuneration on account of the employee's second additional contribution for the year and that person has, before June 30 of the following year, notified the Minister of the employer's failure to so deduct that amount, an amount equal to the amount that should have been so deducted by the employer on account of that contribution is added to the aggregate of all amounts deducted as required from the remuneration of that person on account of the employee's second additional contribution for the year.
 
 ### Section 370
 
 Subsection 21(3.1) of the Act is replaced by the following:
 
-**(3.1)** Once the decision under subsection 27.2(3) or section 28 is communicated to the employer, the employer is liable without interest or penalties under this Act to pay any contribution required to be paid by the employer with respect to the employee. On payment by the employer of any amount as or on account of that contribution, the employee is deemed to have notified the Minister as required by **subsection** 15(**1.1**), 15.1(**1.1**) or 15.2(**1.1**) of the employer's failure to deduct the amount of that contribution from the remuneration of the employee.
+**(3.1)** Once the decision under subsection 27.2(3) or section 28 is communicated to the employer, the employer is liable without interest or penalties under this Act to pay any contribution required to be paid by the employer with respect to the employee. On payment by the employer of any amount as or on account of that contribution, the employee is deemed to have notified the Minister as required by subsection 15(1.1), 15.1(1.1) or 15.2(1.1) of the employer's failure to deduct the amount of that contribution from the remuneration of the employee.
 
 ### Section 371
 
 Paragraph 40(1)(f) of the Act is replaced by the following:
 
-respecting the manner in which any provision of this Act that applies or extends to an employer of an employee shall apply or extend to any person by whom the remuneration of an employee in **respect of** pensionable employment is paid either wholly or in part, and to the employer of any such employee;
+respecting the manner in which any provision of this Act that applies or extends to an employer of an employee shall apply or extend to any person by whom the remuneration of an employee in respect of pensionable employment is paid either wholly or in part, and to the employer of any such employee;
 
 ### Section 372
 
@@ -13446,7 +13498,7 @@ respecting the manner in which any provision of this Act that applies or extends
 
     a survivor's pension shall be paid
 
-    **before 2019**, to the survivor of a deceased contributor who has made base contributions for not less than the minimum qualifying period, if the survivor
+    before 2019, to the survivor of a deceased contributor who has made base contributions for not less than the minimum qualifying period, if the survivor
 
     has reached 65 years of age, or
 
@@ -13456,19 +13508,19 @@ respecting the manner in which any provision of this Act that applies or extends
 
     was at the time of the death of the contributor a survivor with dependent children, or
 
-    is disabled, **and**
+    is disabled, and
 
     after 2018, to the survivor of a deceased contributor who has made base contributions for not less than the minimum qualifying period;
 
   **(2)** Subparagraphs 44(1)(e)(ii) and (iii) of the Act are replaced by the following:
 
-    is a contributor to whom a disability pension **or a post-retirement disability benefit** would have been payable at the time the contributor is deemed to have become disabled if an application for a disability pension **or a post-retirement disability benefit** had been received before **the** application was actually received, or
+    is a contributor to whom a disability pension or a post-retirement disability benefit would have been payable at the time the contributor is deemed to have become disabled if an application for a disability pension or a post-retirement disability benefit had been received before the application was actually received, or
 
-    is a contributor to whom a disability pension **or a post-retirement disability benefit** would have been payable at the time the contributor is deemed to have become disabled if a division of unadjusted pensionable earnings that was made under section 55 or 55.1, had not been made;
+    is a contributor to whom a disability pension or a post-retirement disability benefit would have been payable at the time the contributor is deemed to have become disabled if a division of unadjusted pensionable earnings that was made under section 55 or 55.1, had not been made;
 
   **(3)** Subsection 44(1) of the Act is amended by striking out "and" at the end of paragraph (f) and by replacing paragraph (g) with the following:
 
-    a post-retirement benefit shall be paid to a beneficiary of a retirement pension under this Act or under a provincial pension plan **who has made a contribution in respect of the post-retirement benefit; and**
+    a post-retirement benefit shall be paid to a beneficiary of a retirement pension under this Act or under a provincial pension plan who has made a contribution in respect of the post-retirement benefit; and
 
   **(4)** Subsection 44(1) of the Act is amended by adding the following after paragraph (g):
 
@@ -13484,7 +13536,7 @@ respecting the manner in which any provision of this Act that applies or extends
 
   **(6)** The portion of subsection 44(2) of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** For the purposes of **paragraph** (1)(b) and, **if a disability pension is payable to a contributor, paragraph** (1)(e),
+    **(2)** For the purposes of paragraph (1)(b) and, if a disability pension is payable to a contributor, paragraph (1)(e),
 
   **(7)** Section 44 of the Act is amended by adding the following after subsection (3):
 
@@ -13504,7 +13556,7 @@ is
 
 in the case of pensionable earnings, earnings for which the contributor is deemed by section 52 to have made a base contribution for the particular month;
 
-in the case of first additional pensionable earnings, earnings for which the contributor is deemed by section 52.1 to have made a first additional contribution for the particular month, **except in the case where the contributor is considered to be disabled for the purposes of this Act or a provincial pension plan during the particular month, for the calculation of a pension or benefit other than a disability pension, the greatest of the following amounts:**
+in the case of first additional pensionable earnings, earnings for which the contributor is deemed by section 52.1 to have made a first additional contribution for the particular month, except in the case where the contributor is considered to be disabled for the purposes of this Act or a provincial pension plan during the particular month, for the calculation of a pension or benefit other than a disability pension, the greatest of the following amounts:
 
 the value determined in accordance with section 51.1 multiplied by the Year's Maximum Pensionable Earnings for the year that includes the particular month, divided by 12,
 
@@ -13512,7 +13564,7 @@ the highest of any value determined in accordance with section 51.1 for any of t
 
 the earnings for which the contributor is deemed by section 52.1 to have made a first additional contribution for the particular month; or
 
-in the case of second additional pensionable earnings, earnings for which the contributor is deemed by section 52.2 to have made a second additional contribution for the particular month **except in the case where the contributor is considered to be disabled for the purposes of this Act or a provincial pension plan during the particular month, for the calculation of a pension or benefit other than a disability pension, the greatest of the following amounts:**
+in the case of second additional pensionable earnings, earnings for which the contributor is deemed by section 52.2 to have made a second additional contribution for the particular month except in the case where the contributor is considered to be disabled for the purposes of this Act or a provincial pension plan during the particular month, for the calculation of a pension or benefit other than a disability pension, the greatest of the following amounts:
 
 the value determined in accordance with section 51.2 multiplied by the Year's Maximum Pensionable Earnings for the year that includes the particular month, divided by 12,
 
@@ -13680,23 +13732,23 @@ For the purposes of sections 51.1 and 51.2 and despite paragraph 42(2)(b), a con
 
 Paragraph 52.1(1)(b) of the Act is replaced by the following:
 
-for a year in which the contributor reaches 70 years of age or dies or in which a retirement pension becomes payable to them under this Act **or under a provincial pension plan**, the first additional contribution is deemed to have been made for earnings for the months in the year before they reached 70 years of age or died or before the retirement pension became payable, as the case may be.
+for a year in which the contributor reaches 70 years of age or dies or in which a retirement pension becomes payable to them under this Act or under a provincial pension plan, the first additional contribution is deemed to have been made for earnings for the months in the year before they reached 70 years of age or died or before the retirement pension became payable, as the case may be.
 
 ### Section 376
 
 Paragraph 52.2(1)(b) of the Act is replaced by the following:
 
-for a year in which the contributor reaches 70 years of age or dies or in which a retirement pension becomes payable to them under this Act **or under a provincial pension plan**, the second additional contribution is deemed to have been made for earnings for the months in the year before they reached 70 years of age or died or before the retirement pension became payable, as the case may be.
+for a year in which the contributor reaches 70 years of age or dies or in which a retirement pension becomes payable to them under this Act or under a provincial pension plan, the second additional contribution is deemed to have been made for earnings for the months in the year before they reached 70 years of age or died or before the retirement pension became payable, as the case may be.
 
 ### Section 377
 
 Subparagraph 53(1)(b)(ii) of the Act is replaced by the following:
 
-**the contributor's** earnings on which a **base** contribution has been made for the year under a provincial pension plan, calculated as the aggregate of
+the contributor's earnings on which a base contribution has been made for the year under a provincial pension plan, calculated as the aggregate of
 
-**the** amount **that** is determined in **the** prescribed manner to be **the contributor's** salary and wages on which a **base** contribution has been made for the year by **the contributor** under a provincial pension plan, and
+the amount that is determined in the prescribed manner to be the contributor's salary and wages on which a base contribution has been made for the year by the contributor under a provincial pension plan, and
 
-the amount of any **base** contribution required to be made by the contributor for the year under a provincial pension plan in respect of the contrib-utor's self-employed earnings divided by the contribution rate for self-employed persons for the year, and
+the amount of any base contribution required to be made by the contributor for the year under a provincial pension plan in respect of the contributor's self-employed earnings divided by the contribution rate for self-employed persons for the year, and
 
 ### Section 378
 
@@ -13704,7 +13756,7 @@ the amount of any **base** contribution required to be made by the contributor f
 
 ### Section 53.1
 
-      **(1)** Subject to **sections 53.5 and** 54.1, for 2019 and each subsequent year, the first additional unadjusted pensionable earnings of a contributor for a year are an amount equal to the least of
+      **(1)** Subject to sections 53.5 and 54.1, for 2019 and each subsequent year, the first additional unadjusted pensionable earnings of a contributor for a year are an amount equal to the least of
 
   **(2)** Paragraph 53.1(1)(b) of the Act is amended by striking out "and" at the end of subparagraph (i) and by replacing subparagraph (ii) with the following:
 
@@ -13722,7 +13774,7 @@ the amount of any **base** contribution required to be made by the contributor f
 
 ### Section 53.2
 
-      **(1)** Subject to **sections 53.6 and** 54.2, for 2024 and each subsequent year, the second additional unadjusted pensionable earnings of a contributor for a year are an amount equal to the least of
+      **(1)** Subject to sections 53.6 and 54.2, for 2024 and each subsequent year, the second additional unadjusted pensionable earnings of a contributor for a year are an amount equal to the least of
 
   **(2)** Paragraph 53.2(1)(b) of the Act is amended by striking out "and" at the end of subparagraph (i) and by replacing subparagraph (ii) with the following:
 
@@ -13856,25 +13908,25 @@ For each year in which there is an attribution of an amount under section 53.4, 
 
 ### Section 54
 
-The amount of the base unadjusted pensionable earnings of a contributor for a year determined under section 53 is to be adjusted for each year in which there is a division of **base** unadjusted pensionable earnings under section 55 or 55.1 and under a provincial pension plan.
+The amount of the base unadjusted pensionable earnings of a contributor for a year determined under section 53 is to be adjusted for each year in which there is a division of base unadjusted pensionable earnings under section 55 or 55.1 and under a provincial pension plan.
 
 ### Section 54.1
 
-The amount of the first additional unadjusted pensionable earnings of a contributor for a year determined under section 53.1 is to be adjusted for each year in which there is a division of those earnings under section 55.1 **and under a provincial pension plan**.
+The amount of the first additional unadjusted pensionable earnings of a contributor for a year determined under section 53.1 is to be adjusted for each year in which there is a division of those earnings under section 55.1 and under a provincial pension plan.
 
 ### Section 54.2
 
-The amount of the second additional unadjusted pensionable earnings of a contributor for a year determined under section 53.2 is to be adjusted for each year in which there is a division of those earnings under section 55.1 **and under a provincial pension plan**.
+The amount of the second additional unadjusted pensionable earnings of a contributor for a year determined under section 53.2 is to be adjusted for each year in which there is a division of those earnings under section 55.1 and under a provincial pension plan.
 
 ### Section 381
 
   **(1)** Subsections 55.2(5.1) to (7) of the Act are replaced by the following:
 
-    **(5.1)** If there is a division under section 55.1, **the** first additional unadjusted pensionable earnings for each person subject to the division for the period of cohabitation **attributable to first additional contributions made under this Act, determined in the same manner as the total first additional pensionable earnings of a contributor attributable to first additional contributions made under this Act are determined in section 78.1,** are to be added and then divided equally, and the first additional unadjusted pensionable earnings so divided are to be attributed to each person.
+    **(5.1)** If there is a division under section 55.1, the first additional unadjusted pensionable earnings for each person subject to the division for the period of cohabitation attributable to first additional contributions made under this Act, determined in the same manner as the total first additional pensionable earnings of a contributor attributable to first additional contributions made under this Act are determined in section 78.1, are to be added and then divided equally, and the first additional unadjusted pensionable earnings so divided are to be attributed to each person.
 
-    **(5.2)** If there is a division under section 55.1, **the** second additional unadjusted pensionable earnings for each person subject to the division for the period of cohabitation **attributable to second additional contributions made under this Act, determined in the same manner as the total second additional pensionable earnings of a contributor attributable to second additional contributions made under this Act are determined in section 78.2,** are to be added and then divided equally, and the second additional unadjusted pensionable earnings so divided are to be attributed to each person.
+    **(5.2)** If there is a division under section 55.1, the second additional unadjusted pensionable earnings for each person subject to the division for the period of cohabitation attributable to second additional contributions made under this Act, determined in the same manner as the total second additional pensionable earnings of a contributor attributable to second additional contributions made under this Act are determined in section 78.2, are to be added and then divided equally, and the second additional unadjusted pensionable earnings so divided are to be attributed to each person.
 
-    **(6)** If there is a division of base unadjusted pensionable earnings under section 55.1 and under a provincial pension plan, for the purposes of benefit calculation and payment under this Act, the total **base** unadjusted pensionable earnings of a contributor for a year of division are the aggregate of their base unadjusted pensionable earnings attributed under subsection (5) and their **base** unadjusted pensionable earnings attributed under a provincial pension plan.
+    **(6)** If there is a division of base unadjusted pensionable earnings under section 55.1 and under a provincial pension plan, for the purposes of benefit calculation and payment under this Act, the total base unadjusted pensionable earnings of a contributor for a year of division are the aggregate of their base unadjusted pensionable earnings attributed under subsection (5) and their base unadjusted pensionable earnings attributed under a provincial pension plan.
 
     **(6.1)** If there is a division of first additional unadjusted pensionable earnings under section 55.1 and under a provincial pension plan, for the purposes of benefit calculation and payment under this Act, the total first additional unadjusted pensionable earnings of a contributor for a year of division are the aggregate of their first additional unadjusted pensionable earnings attributed under subsection (5.1) and their first additional unadjusted pensionable earnings attributed under a provincial pension plan.
 
@@ -13884,11 +13936,11 @@ The amount of the second additional unadjusted pensionable earnings of a contrib
 
   **(2)** Paragraph 55.2(8.1)(c) of the Act is replaced by the following:
 
-    for the period in which one of the persons was a beneficiary of a retirement pension under this Act **or under a provincial pension plan**.
+    for the period in which one of the persons was a beneficiary of a retirement pension under this Act or under a provincial pension plan.
 
   **(3)** Paragraph 55.2(8.2)(b) of the Act is replaced by the following:
 
-    for the period in which one of the persons was a beneficiary of a retirement pension under this Act **or under a provincial pension plan**.
+    for the period in which one of the persons was a beneficiary of a retirement pension under this Act or under a provincial pension plan.
 
 ### Section 382
 
@@ -13898,25 +13950,25 @@ The amount of the second additional unadjusted pensionable earnings of a contrib
 
       **(1)** A death benefit payable to the estate or succession of a contributor is a lump sum amount equal to
 
-        **if** the contributor's death occurs **before January 1, 2019,** the lesser **of**
+        if the contributor's death occurs before January 1, 2019, the lesser of
 
-        six times the amount of the contributor's retirement pension, calculated as provided in subsection (2), **and**
+        six times the amount of the contributor's retirement pension, calculated as provided in subsection (2), and
 
-        ten per cent of the Year's Maximum Pensionable Earnings for the year in which the contributor died; **or**
+        ten per cent of the Year's Maximum Pensionable Earnings for the year in which the contributor died; or
 
         if the contributor's death occurs after December 31, 2018, $2,500.
 
-      **(1.1)** **Despite paragraph 57(1)(a), when** the contributor's death occurs after December 31, 1997, the lump sum referred to in **that paragraph** shall not exceed $2,500.
+      **(1.1)** Despite paragraph 57(1)(a), when the contributor's death occurs after December 31, 1997, the lump sum referred to in that paragraph shall not exceed $2,500.
 
   **(2)** The portion of subsection 57(2) of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** The amount of the contributor's retirement pension to be used for the purposes of **paragraph (1)(a)** is
+    **(2)** The amount of the contributor's retirement pension to be used for the purposes of paragraph (1)(a) is
 
 ### Section 383
 
   **(1)** The portion of paragraph 58(1)(a) of the Act before subparagraph (i) is replaced by the following:
 
-    in the case of a survivor who has not reached 65 years of age and to whom no retirement pension is payable under this Act or a provincial pension plan, **for any month before January 2019**, a basic monthly amount consisting of
+    in the case of a survivor who has not reached 65 years of age and to whom no retirement pension is payable under this Act or a provincial pension plan, for any month before January 2019, a basic monthly amount consisting of
 
   **(2)** Subsection 58(1) of the Act is amended by striking out "and" at the end of paragraph (a) and by adding the following after paragraph (a):
 
@@ -13934,11 +13986,11 @@ The amount of the second additional unadjusted pensionable earnings of a contrib
 
   **(3)** The portion of subsection 58(1.1) of the Act before paragraph (a) is replaced by the following:
 
-    **(1.1)** The amount of the flat rate benefit referred to in **subparagraphs** (1)(a)(i) and **(a.1)(i)** is
+    **(1.1)** The amount of the flat rate benefit referred to in subparagraphs (1)(a)(i) and (a.1)(i) is
 
   **(4)** Clause 58(2)(a)(i)(A) of the Act is replaced by the following:
 
-    a flat rate benefit, calculated as provided in subsection (1.1), **or, if a post-retirement disability benefit is payable to the survivor, the greater of**
+    a flat rate benefit, calculated as provided in subsection (1.1), or, if a post-retirement disability benefit is payable to the survivor, the greater of
 
     the flat rate benefit, and
 
@@ -13946,7 +13998,7 @@ The amount of the second additional unadjusted pensionable earnings of a contrib
 
   **(5)** Clause 58(6)(a)(i)(A) of the Act is replaced by the following:
 
-    the flat rate benefit payable under subparagraph (1)(a)(i) **or (a.1)(i)**, and
+    the flat rate benefit payable under subparagraph (1)(a)(i) or (a.1)(i), and
 
   **(6)** Clause 58(6)(a)(ii)(A) of the Act is replaced by the following:
 
@@ -13954,7 +14006,7 @@ The amount of the second additional unadjusted pensionable earnings of a contrib
 
     the greater of
 
-    the amount that would have been payable under subparagraph (1)(a)(ii) **or (a.1)(ii)** if the amounts referred to in clauses (1)(a)(ii)(B) and (C) **or (a.1)(ii)(B) and (C)** had not been included in the calculation made under that subparagraph, and
+    the amount that would have been payable under subparagraph (1)(a)(ii) or (a.1)(ii) if the amounts referred to in clauses (1)(a)(ii)(B) and (C) or (a.1)(ii)(B) and (C) had not been included in the calculation made under that subparagraph, and
 
     the amount that would have been payable under paragraph 56(1)(b) if the amounts referred to in subparagraphs 56(1)(b)(ii) and (iii) had not been included in the calculation made under that paragraph, and
 
@@ -13966,7 +14018,7 @@ The amount of the second additional unadjusted pensionable earnings of a contrib
 
     the greater of
 
-    the amount that would have been payable under subparagraph (1)(a)(ii) **or (a.1)(ii)** if the amounts referred to in clauses (1)(a)(ii)(A) and (C) **or (a.1)(ii)(A) and (C)** had not been included in the calculation made under that subparagraph, and
+    the amount that would have been payable under subparagraph (1)(a)(ii) or (a.1)(ii) if the amounts referred to in clauses (1)(a)(ii)(A) and (C) or (a.1)(ii)(A) and (C) had not been included in the calculation made under that subparagraph, and
 
     the amount that would have been payable under paragraph 56(1)(b) if the amounts referred to in subparagraphs 56(1)(b)(i) and (iii) had not been included in the calculation made under that paragraph, and
 
@@ -13976,7 +14028,7 @@ The amount of the second additional unadjusted pensionable earnings of a contrib
 
     the greater of
 
-    the amount that would have been payable under subparagraph (1)(a)(ii) **or (a.1)(ii)** if the amounts referred to in clauses (1)(a)(ii)(A) and (B) **or (a.1)(ii)(A) and (B)** had not been included in the calculation made under that subparagraph, and
+    the amount that would have been payable under subparagraph (1)(a)(ii) or (a.1)(ii) if the amounts referred to in clauses (1)(a)(ii)(A) and (B) or (a.1)(ii)(A) and (B) had not been included in the calculation made under that subparagraph, and
 
     the amount that would have been payable under paragraph 56(1)(b) if the amounts referred to in subparagraphs 56(1)(b)(i) and (ii) had not been included in the calculation made under that paragraph, and
 
@@ -13984,21 +14036,21 @@ The amount of the second additional unadjusted pensionable earnings of a contrib
 
   **(8)** Subparagraph 58(6.2)(a)(i) of the Act is replaced by the following:
 
-    the flat rate benefit payable under subparagraph (1)(a)(i) **or (a.1)(i)**, and
+    the flat rate benefit payable under subparagraph (1)(a)(i) or (a.1)(i), and
 
   **(9)** Subparagraph 58(6.2)(b)(i) of the Act is replaced by the following:
 
-    the aggregate of the amounts payable under subparagraph (1)(a)(ii) **or (a.1)(ii)** and paragraph 56(1)(b), and
+    the aggregate of the amounts payable under subparagraph (1)(a)(ii) or (a.1)(ii) and paragraph 56(1)(b), and
 
   **(10)** Paragraphs 58(8)(a) to (c) of the Act are replaced by the following:
 
-    **the aggregate of**
+    the aggregate of
 
     the greater of
 
-    the flat rate benefit payable under subparagraph (1)(a)(i) **or (a.1)(i)**, and
+    the flat rate benefit payable under subparagraph (1)(a)(i) or (a.1)(i), and
 
-    the flat rate benefit payable under the provincial pension plan in respect of disability, **and**
+    the flat rate benefit payable under the provincial pension plan in respect of disability, and
 
     the lesser of
 
@@ -14006,11 +14058,11 @@ The amount of the second additional unadjusted pensionable earnings of a contrib
 
     the greater of
 
-    the amount **that would have been** payable under subparagraph (1)(a)(ii) **or (a.1)(ii), as the case may be, if the amounts referred to in clauses (1)(a)(ii)(B) and (C) or (a.1)(ii)(B) and (C), as the case may be, had not been included in the calculation made under that subparagraph**, and
+    the amount that would have been payable under subparagraph (1)(a)(ii) or (a.1)(ii), as the case may be, if the amounts referred to in clauses (1)(a)(ii)(B) and (C) or (a.1)(ii)(B) and (C), as the case may be, had not been included in the calculation made under that subparagraph, and
 
-    the **base** portion of the contributor's retirement pension payable to the survivor under the provincial pension plan in respect of disability, and
+    the base portion of the contributor's retirement pension payable to the survivor under the provincial pension plan in respect of disability, and
 
-    60% of the lesser of the amount described in subclause **(I)(1)** and the amount described in subclause **(I)(2)**, and
+    60% of the lesser of the amount described in subclause (I)(1) and the amount described in subclause (I)(2), and
 
     75% of the amount of a benefit of 25% of 1/12 of the survivor's Maximum Pensionable Earnings Average for the later of the year in which the survivor first became qualified to receive the survivor's pension and the year in which the survivor's disability pension commenced to be payable, adjusted in accordance with subsection 45(2) as if the benefit had commenced to be payable in the later of the year in which the survivor first became qualified to receive the survivor's pension and the year in which the survivor's disability pension commenced to be payable,
 
@@ -14036,11 +14088,11 @@ The amount of the second additional unadjusted pensionable earnings of a contrib
 
   **(11)** Subparagraph 58(8.1)(a)(i) of the Act is replaced by the following:
 
-    the flat rate benefit payable under subparagraph (1)(a)(i) **or (a.1)(i)**, and
+    the flat rate benefit payable under subparagraph (1)(a)(i) or (a.1)(i), and
 
   **(12)** Clause 58(8.1)(b)(i)(A) of the Act is replaced by the following:
 
-    the amounts payable under subparagraph (1)(a)(ii) **or (a.1)(ii)**, and
+    the amounts payable under subparagraph (1)(a)(ii) or (a.1)(ii), and
 
 ### Section 384
 
@@ -14095,20 +14147,20 @@ the ratio that the Pension Index for the year in which the benefit is payable be
 
 Subsection 60(2.1) of the Act is replaced by the following:
 
-**(2.1)** An application referred to in subsection (2) is not **to** be approved **if it is made** in respect of **a post-retirement disability benefit** or, if the application is received after December 31, 1997, a disability **pension**.
+**(2.1)** An application referred to in subsection (2) is not to be approved if it is made in respect of a post-retirement disability benefit or, if the application is received after December 31, 1997, a disability pension.
 
 ### Section 387
 
 Subsection 65(3) of the Act is replaced by the following:
 
-**(3)** **Despite** subsections (1) and (1.1), **if** an administrator of a disability income program who is approved by the Minister makes a payment under that program to a person for a month or any portion of a month that would not have been made if a benefit under paragraph 44(1)(b) **or (h)** had been paid to that person for that period and subsequently a benefit becomes payable or payment of a benefit may be made under this Act to that person for that period, the Minister may, in accordance with any terms and conditions that may be prescribed, deduct from that benefit and pay to the administrator an amount not exceeding the amount of the payment made under that program.
+**(3)** Despite subsections (1) and (1.1), if an administrator of a disability income program who is approved by the Minister makes a payment under that program to a person for a month or any portion of a month that would not have been made if a benefit under paragraph 44(1)(b) or (h) had been paid to that person for that period and subsequently a benefit becomes payable or payment of a benefit may be made under this Act to that person for that period, the Minister may, in accordance with any terms and conditions that may be prescribed, deduct from that benefit and pay to the administrator an amount not exceeding the amount of the payment made under that program.
 
 ### Section 388
 
 The heading before section 69 of the Act is replaced by the following:
 
 
-#### Disability Pension **and Post-retirement Disability Benefit**
+#### Disability Pension and Post-retirement Disability Benefit
 
 ### Section 389
 
@@ -14116,7 +14168,7 @@ The Act is amended by adding the following after section 70:
 
 ### Section 70.01
 
-Subject to section 62, if payment of a post-retirement disability benefit is approved, the benefit is payable for each month commencing with the fourth month following the month after December 2018 in which the applicant became disabled, except that if the applicant was, at any time during the five-year period next before the month in which the applicant became disabled as a result of which the payment is approved, in receipt of a disability pension payable under this Act or under a provincial pension plan **or a post-retirement disability benefit**,
+Subject to section 62, if payment of a post-retirement disability benefit is approved, the benefit is payable for each month commencing with the fourth month following the month after December 2018 in which the applicant became disabled, except that if the applicant was, at any time during the five-year period next before the month in which the applicant became disabled as a result of which the payment is approved, in receipt of a disability pension payable under this Act or under a provincial pension plan or a post-retirement disability benefit,
 
 the benefit is payable for each month commencing with the month next following the month after December 2018 in which the applicant became disabled as a result of which the payment is approved; and
 
@@ -14138,39 +14190,39 @@ for the month in which the beneficiary dies.
 
 ### Section 70.1
 
-      **(1)** Subject to this section, a person who has ceased to receive a disability pension **or a post-retirement disability benefit** because they have returned to work is entitled to have that pension **or benefit** reinstated if, within two years after the month in which they ceased to receive **it**, they become incapable again of working.
+      **(1)** Subject to this section, a person who has ceased to receive a disability pension or a post-retirement disability benefit because they have returned to work is entitled to have that pension or benefit reinstated if, within two years after the month in which they ceased to receive it, they become incapable again of working.
 
-      **(2)** A request by a person for reinstatement of a disability pension **or a post-retirement disability benefit** shall be made to the Minister in accordance with the regulations. Subsections 60(2), (4), (5) and (8) to (12) apply to the request, with any modifications that the circumstances require.
+      **(2)** A request by a person for reinstatement of a disability pension or a post-retirement disability benefit shall be made to the Minister in accordance with the regulations. Subsections 60(2), (4), (5) and (8) to (12) apply to the request, with any modifications that the circumstances require.
 
   **(2)** Paragraphs 70.1(3)(a) to (c) of the Act are replaced by the following:
 
-    the person has a severe and prolonged mental or physical disability that is the same as, or is related to, the disability that entitled the person to receive the disability pension **or post-retirement disability benefit** that is the subject of the request;
+    the person has a severe and prolonged mental or physical disability that is the same as, or is related to, the disability that entitled the person to receive the disability pension or post-retirement disability benefit that is the subject of the request;
 
-    not more than two years have elapsed from the month in which the person ceased to receive the disability pension **or post-retirement disability benefit** to the month when they became incapable again of working; and
+    not more than two years have elapsed from the month in which the person ceased to receive the disability pension or post-retirement disability benefit to the month when they became incapable again of working; and
 
-    the person had not reached 65 years of age and, **if the request is for reinstatement of a disability pension**, was not receiving a retirement pension in the month in which they became incapable again of working.
+    the person had not reached 65 years of age and, if the request is for reinstatement of a disability pension, was not receiving a retirement pension in the month in which they became incapable again of working.
 
   **(3)** Subsections 70.1(4) to (8) of the Act are replaced by the following:
 
-    **(4)** On reinstatement of a pension **or benefit** under subsection (3), the Minister shall approve the reinstatement of a disabled contributor's child benefit that had been payable to the child of the person whose pension **or benefit** is reinstated if the Minister is satisfied that the child meets the requirements under this Act for payment of a disabled contributor's child benefit.
+    **(4)** On reinstatement of a pension or benefit under subsection (3), the Minister shall approve the reinstatement of a disabled contributor's child benefit that had been payable to the child of the person whose pension or benefit is reinstated if the Minister is satisfied that the child meets the requirements under this Act for payment of a disabled contributor's child benefit.
 
-    **(5)** The Minister shall in writing inform a person who makes **the** request for reinstatement of a pension **or benefit** of the Minister's decision whether or not to approve the request.
+    **(5)** The Minister shall in writing inform a person who makes the request for reinstatement of a pension or benefit of the Minister's decision whether or not to approve the request.
 
-    **(6)** The Minister shall in writing inform **the** person who has made **the** request for reinstatement of a pension **or benefit**, a child of that person or, in relation to that child, a person or agency referred to in section 75 of the Minister's decision whether or not to approve a disabled contributor's child benefit.
+    **(6)** The Minister shall in writing inform the person who has made the request for reinstatement of a pension or benefit, a child of that person or, in relation to that child, a person or agency referred to in section 75 of the Minister's decision whether or not to approve a disabled contributor's child benefit.
 
-    **(7)** The provisions of this Act that apply to a disability pension **or a post-retirement disability benefit, as the case may be**, except paragraphs 42(2)(b), 44(1)(b) **and (h)** and (2)(a) **and subsection 44(4)** and **sections** 69 **and 70.01**, apply to a pension **or benefit** that is reinstated under this section, with any modifications that the circumstances require.
+    **(7)** The provisions of this Act that apply to a disability pension or a post-retirement disability benefit, as the case may be, except paragraphs 42(2)(b), 44(1)(b) and (h) and (2)(a) and subsection 44(4) and sections 69 and 70.01, apply to a pension or benefit that is reinstated under this section, with any modifications that the circumstances require.
 
-    **(8)** The provisions of this Act that apply to a disabled contributor's child benefit, except paragraphs 44(1)(e) and 44(2)(a) and **subsections 44(4)** and 74(2), apply to a disabled contributor's child benefit that is reinstated under this section, with such modifications as the circumstances require.
+    **(8)** The provisions of this Act that apply to a disabled contributor's child benefit, except paragraphs 44(1)(e) and 44(2)(a) and subsections 44(4) and 74(2), apply to a disabled contributor's child benefit that is reinstated under this section, with such modifications as the circumstances require.
 
   **(4)** Subsection 70.1(10) of the Act is replaced by the following:
 
-    **(10)** A disability pension, **post-retirement disability benefit** or **disabled** contributor's child benefit that is reinstated pursuant to a request under this section is payable commencing with the month following the month in which the person who made the request under this section became incapable again of working.
+    **(10)** A disability pension, post-retirement disability benefit or disabled contributor's child benefit that is reinstated pursuant to a request under this section is payable commencing with the month following the month in which the person who made the request under this section became incapable again of working.
 
 ### Section 391
 
 Paragraph 71(2)(c) of the Act is replaced by the following:
 
-**if the contributor's death occurs before January 1, 2019**, the amount of the death benefit is less than the prescribed amount.
+if the contributor's death occurs before January 1, 2019, the amount of the death benefit is less than the prescribed amount.
 
 ### Section 392
 
@@ -14178,7 +14230,7 @@ Paragraph 71(2)(c) of the Act is replaced by the following:
 
 ### Section 72
 
-    Subject to section 62, **if** payment of a survivor's pension is approved, the pension is payable for each month commencing with the month following
+    Subject to section 62, if payment of a survivor's pension is approved, the pension is payable for each month commencing with the month following
 
     the month in which the contributor died, in the case of a survivor who at the time of the death of the contributor had reached thirty-five years of age or was a survivor with dependent children,
 
@@ -14186,7 +14238,7 @@ Paragraph 71(2)(c) of the Act is replaced by the following:
 
     the month in which the survivor reached sixty-five years of age, in the case of a survivor other than a survivor described in paragraph (a) or (b).
 
-    **However**, in no case **is the pension payable** earlier than **for** the twelfth-month preceding the month following the month in which the application was received.
+    However, in no case is the pension payable earlier than for the twelfth-month preceding the month following the month in which the application was received.
 
   **(2)** Section 72 of the Act is replaced by the following:
 
@@ -14210,29 +14262,29 @@ Paragraph 71(2)(c) of the Act is replaced by the following:
 
 Subparagraph 74(2)(a)(i) of the Act is replaced by the following:
 
-the month commencing with which a disability pension is payable to the contributor under this Act or under a provincial pension plan **or a post-retirement disability benefit is payable under this Act**, and
+the month commencing with which a disability pension is payable to the contributor under this Act or under a provincial pension plan or a post-retirement disability benefit is payable under this Act, and
 
 ### Section 394
 
 Paragraph 76(1)(c) of the Act is replaced by the following:
 
-the contributor's disability **pension or post-retirement disability benefit** ceases to be payable;
+the contributor's disability pension or post-retirement disability benefit ceases to be payable;
 
 ### Section 395
 
 Paragraphs 77(a) and (b) of the Act are replaced by the following:
 
-the **aggregate of the contributor's** total pensionable earnings, **total first additional pensionable earnings and total second additional pensionable earnings** attributable to contributions made under this Act,
+the aggregate of the contributor's total pensionable earnings, total first additional pensionable earnings and total second additional pensionable earnings attributable to contributions made under this Act,
 
-**is to**
+is to
 
-the **aggregate of the contributor's** total pensionable earnings, total **first additional pensionable earnings and total second additional pensionable earnings**.
+the aggregate of the contributor's total pensionable earnings, total first additional pensionable earnings and total second additional pensionable earnings.
 
 ### Section 396
 
 Paragraph 78(b) of the Act is replaced by the following:
 
-the aggregate of the amount mentioned in paragraph (a) and the contributor's earnings on which a **base** contribution has been made for the year under a provincial pension plan, calculated as provided in subparagraph 53(1)(b)(ii).
+the aggregate of the amount mentioned in paragraph (a) and the contributor's earnings on which a base contribution has been made for the year under a provincial pension plan, calculated as provided in subparagraph 53(1)(b)(ii).
 
 ### Section 397
 
@@ -14286,7 +14338,7 @@ their total second additional unadjusted pensionable earnings for the year deter
 
   **(1)** Paragraph 89(1)(b.1) of the Act is replaced by the following:
 
-    prescribing the time and manner for making requests for reinstatement of a disability pension **or post-retirement disability benefit** under section 70.1, and the information and evidence to be furnished in connection with requests;
+    prescribing the time and manner for making requests for reinstatement of a disability pension or post-retirement disability benefit under section 70.1, and the information and evidence to be furnished in connection with requests;
 
   **(2)** Paragraph 89(1)(k) of the Act is repealed.
 
@@ -14294,15 +14346,15 @@ their total second additional unadjusted pensionable earnings for the year deter
 
 The definition **additional Canada Pension Plan** in section 91 of the Act is replaced by the following:
 
-**additional Canada Pension Plan** means the part of the Canada Pension Plan relating to the portions of benefits that are referred to in paragraphs 46(1)(b) and (c), subparagraphs 56(1)(b)(ii) and (iii), clauses 58(1)(a)(ii)(B) and (C) **and (a.1)(ii)(B) and (C)**, subparagraphs 58(1)(b)(ii) and (iii) and subsections 59.1(3) and (5) and all contributions in respect of those portions of benefits. (**régime de pensions supplémentaire du Canada**)
+**additional Canada Pension Plan** means the part of the Canada Pension Plan relating to the portions of benefits that are referred to in paragraphs 46(1)(b) and (c), subparagraphs 56(1)(b)(ii) and (iii), clauses 58(1)(a)(ii)(B) and (C) and (a.1)(ii)(B) and (C), subparagraphs 58(1)(b)(ii) and (iii) and subsections 59.1(3) and (5) and all contributions in respect of those portions of benefits. (**régime de pensions supplémentaire du Canada**)
 
 ### Section 401
 
   **(1)** Subsections 113.1(11.141) and (11.142) of the Act are replaced by the following:
 
-    **(11.141)** Subject to subsection (11.143), if, at October 1 of the year before a three-year period for which a review is required by subsection (1), **any** of the following conditions **is** met, Schedule 2 is deemed to have been amended as of the next day after that October 1 to change the first additional contribution rates or second additional contribution rates **for each year after that October 1**, if required, in accordance with the calculations set out in the regulations:
+    **(11.141)** Subject to subsection (11.143), if, at October 1 of the year before a three-year period for which a review is required by subsection (1), any of the following conditions is met, Schedule 2 is deemed to have been amended as of the next day after that October 1 to change the first additional contribution rates or second additional contribution rates for each year after that October 1, if required, in accordance with the calculations set out in the regulations:
 
-      the difference **obtained by subtracting** the first additional contribution rate **specified in the most recent report prepared for the purpose of subsection 115(1) from** the first additional contribution rate for self-employed persons set out in Schedule 2, for **the** year **after that October 1, is** within a range set out in the regulations **for the purpose of this paragraph**;
+      the difference obtained by subtracting the first additional contribution rate specified in the most recent report prepared for the purpose of subsection 115(1) from the first additional contribution rate for self-employed persons set out in Schedule 2, for the year after that October 1, is within a range set out in the regulations for the purpose of this paragraph;
 
       the following differences are within the same range set out in the regulations for the purpose of this paragraph:
 
@@ -14310,7 +14362,7 @@ The definition **additional Canada Pension Plan** in section 91 of the Act is re
 
       the difference obtained by subtracting the first additional contribution rate specified in the report prepared for the purpose of section 115 that precedes the report referred to in subparagraph (i), from the first additional contribution rate for self-employed persons set out in Schedule 2, for the year that is two years before that October 1;
 
-      the difference **obtained by subtracting** the second additional contribution rate **specified in the most recent report prepared for the purpose of subsection 115(1) from** the second additional contribution rate for self-employed persons set out in Schedule 2, for **the** year **after that October 1, is** within a range set out in the regulations **for the purpose of this paragraph; or**
+      the difference obtained by subtracting the second additional contribution rate specified in the most recent report prepared for the purpose of subsection 115(1) from the second additional contribution rate for self-employed persons set out in Schedule 2, for the year after that October 1, is within a range set out in the regulations for the purpose of this paragraph; or
 
       the following differences are within the same range set out in the regulations for the purpose of this paragraph:
 
@@ -14318,11 +14370,11 @@ The definition **additional Canada Pension Plan** in section 91 of the Act is re
 
       the difference obtained by subtracting the second additional contribution rate specified in the report prepared for the purpose of section 115 that precedes the report referred to in subparagraph (i), from the second additional contribution rate for self-employed persons set out in Schedule 2, for the year that is two years before that October 1.
 
-    **(11.142)** Subject to subsection (11.143), if, at October 1 of the year before a three-year period for which a review is required by subsection (1), **any** of the conditions set out in paragraphs (11.141)(a) **to (d)** is met, the portions of benefits under this Act in respect of the additional Canada Pension Plan, **for each year after that October 1**, shall be determined in accordance with the regulations.
+    **(11.142)** Subject to subsection (11.143), if, at October 1 of the year before a three-year period for which a review is required by subsection (1), any of the conditions set out in paragraphs (11.141)(a) to (d) is met, the portions of benefits under this Act in respect of the additional Canada Pension Plan, for each year after that October 1, shall be determined in accordance with the regulations.
 
   **(2)** Paragraph 113.1(11.144)(b) of the Act is replaced by the following:
 
-    the determination of the ranges referred to in paragraphs (11.141)(a) **to (d)**; and
+    the determination of the ranges referred to in paragraphs (11.141)(a) to (d); and
 
   **(3)** Section 113.1 of the Act is amended by adding the following after subsection (11.145):
 
@@ -14349,14 +14401,14 @@ The portion of subsection 2.2(1) of the `Criminal Code` before paragraph (a) is 
 
 ### Section 2.2
 
-  **(1)** For the purposes of sections 606, 672.5, **715.37**, 722, 737.1 and 745.63, any of the following individuals may act on the victim's behalf if the victim is dead or incapable of acting on their own behalf:
+  **(1)** For the purposes of sections 606, 672.5, 715.37, 722, 737.1 and 745.63, any of the following individuals may act on the victim's behalf if the victim is dead or incapable of acting on their own behalf:
 
 ### Section 404
 
 The Act is amended by adding the following before Part XXIII:
 
 
-## Remediation Agreement
+## Remediation Agreements
 
 ### Section 715.3
 
@@ -14508,11 +14560,7 @@ A candidate for appointment as an independent monitor must notify the prosecutor
 
 ### Section 715.36
 
-  **(1)** The prosecutor must take reasonable steps to inform any victim, or any third party that is acting on the victim's behalf, of the following:
-
-    as soon as practicable after an organization has accepted the offer to negotiate according to the terms of the notice referred to in section 715.33, that such negotiations are taking place; or
-
-    as soon as practicable after the parties have agreed to the terms of a remediation agreement and before applying for court approval, that the parties have arrived at an agreement.
+  **(1)** After an organization has accepted the offer to negotiate according to the terms of the notice referred to in section 715.33, the prosecutor must take reasonable steps to inform any victim, or any third party that is acting on the victim's behalf, that a remediation agreement may be entered into.
 
   **(2)** The duty to inform any victim is to be construed and applied in a manner that is reasonable in the circumstances and not likely to interfere with the proper administration of justice, including by causing interference with prosecutorial discretion or compromising, hindering or causing excessive delay to the negotiation of an agreement or its conclusion.
 
@@ -14758,6 +14806,8 @@ section 400 (false prospectus);
 section 418 (selling defective stores to Her Majesty); and
 
 section 426 (secret commissions).
+
+section 462.31 (laundering proceeds of crime).
 
 ### Section 2
 
