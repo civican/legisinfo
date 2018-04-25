@@ -1,7 +1,5 @@
 # Bill C-55: An Act to amend the Oceans Act and the Canada Petroleum Resources Act
 
-**Sponsor**: MINISTER OF FISHERIES, OCEANS AND THE CANADIAN COAST GUARD
-
 His Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act to amend the Oceans Act and the Canada Petroleum Resources Act*".
 
 ## Summary
@@ -85,7 +83,7 @@ The Act is amended by adding the following before section 35:
 
   **(2)** Subsection 35(2) of the Act is replaced by the following:
 
-    **(2)** For the purposes of integrated management plans referred to in sections 31 and 32, the Minister shall lead and coordinate the development and implementation of a national network of **marine** protected areas on behalf of the Government of Canada.
+    **(2)** For the purposes of integrated management plans referred to in sections 31 and 32, the Minister shall lead and coordinate the development and implementation of a national network of marine protected areas on behalf of the Government of Canada.
 
     **(2.1)** In performing his or her duties and functions under subsection (2), the Minister shall ensure that:
 
@@ -121,11 +119,11 @@ The Act is amended by adding the following after section 35:
 
     was not carried out before the day on which the order comes into force, but was authorized and continues to be authorized, including by a permit or licence, under any applicable federal laws or laws of a province. (**en cours**)
 
-  **(2)** The Minister may, by order, designate a marine protected area in any area of the sea that is not designated as a marine protected area under paragraph 35(3)(a), in **a manner that is not inconsistent with a land claims agreement that has been given effect and has been ratified or approved by an Act of Parliament and, in** that order, the Minister
+  **(2)** The Minister may, by order, designate a marine protected area in any area of the sea that is not designated as a marine protected area under paragraph 35(3)(a), in a manner that is not inconsistent with a land claims agreement that has been given effect and has been ratified or approved by an Act of Parliament and, in that order, the Minister
 
     shall list the classes of activities that are ongoing activities in the marine protected area;
 
-    shall prohibit, in the marine protected area, any activity that is not part of a class of activities set out in paragraph (a) and that disturbs, damages, destroys or removes from that marine protected area any **unique geological or archeological features or any** living marine organism or any part of its habitat or is likely to do so;
+    shall prohibit, in the marine protected area, any activity that is not part of a class of activities set out in paragraph (a) and that disturbs, damages, destroys or removes from that marine protected area any unique geological or archeological features or any living marine organism or any part of its habitat or is likely to do so;
 
     may prohibit, in the marine protected area, any activity that is part of a class of activities set out in paragraph (a) and that is governed by an Act of Parliament under which the Minister is responsible for the management, conservation or protection of fisheries resources; and
 
