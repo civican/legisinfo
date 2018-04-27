@@ -1,10 +1,8 @@
 # Bill S-5: An Act to amend the Tobacco Act and the Non-smokers' Health Act and to make consequential amendments to other Acts
 
-**Sponsor**: THE HONOURABLE SENATOR HARDER, P.C.
-
 ## Summary
 
-Part 1 of this enactment amends the `Tobacco Act.` In order to respond to the report of the House of Commons' Standing Committee on Health entitled `Vaping: Toward a Regulatory Framework for E-Cigarettes`, it amends the Act to regulate the manufacture, sale, labelling and promotion of vaping products and changes the title of the Act accordingly. It also amends certain provisions of the Act relating to tobacco products, including with respect to product standards, disclosure of product information, product sale, sending and delivery and product promotion. As well, it adds new provisions to the Act, including in respect of inspection and seizure.
+Part 1 of this enactment amends the `Tobacco Act.` In order to respond to the report of the House of Commons' Standing Committee on Health entitled `Vaping: Toward a Regulatory Framework for E-Cigarettes`, it amends the Act to regulate the manufacture, sale, labelling and promotion of vaping products and changes the title of the Act accordingly. It also amends certain provisions of the Act relating to tobacco products, including with respect to product standards, disclosure of product information, product sale, sending and delivery and product promotion. The schedule to the Act is amended to add menthol and cloves as prohibited additives in all tobacco products. As well, it adds new provisions to the Act, including in respect of inspection and seizure.
 
 Part 1 also makes consequential amendments to the `Food and Drugs Act` and the `Canada Consumer Product Safety Act`.
 
@@ -67,50 +65,39 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 The long title of the `Tobacco Act` is replaced by the following:
 
-
-> **Explanatory Note**:
-> Existing text of the long title:
-> *Existing Text*:
-
 ### Section 2
 
 Section 1 of the Act is replaced by the following:
 
 ### Section 1
 
-This Act may be cited as the `Tobacco **and Vaping Products** Act`.
-
-
-> **Explanatory Note**:
-> Existing text of section 1:
-> *Existing Text*:
-> > This Act may be cited as the `Tobacco Act`.
+This Act may be cited as the `Tobacco and Vaping Products Act`.
 
 ### Section 3
 
   **(1)** The definitions **accessory**, **additive**, **emission**, **ingredient**, **manufacture**, **manufacturer**, **retailer**, **sell** and **tobacco product** in section 2 of the Act are replaced by the following:
 
-    **accessory** means a product that may be used in the consumption of a tobacco product, including a pipe, cigarette holder, cigar clip, lighter and matches, **and also means a water pipe**. (**accessoire**)
+    **accessory** means a product that may be used in the consumption of a tobacco product, including a pipe, cigarette holder, cigar clip, lighter and matches, and also means a water pipe. (**accessoire**)
 
-    **additive**, **in respect of tobacco products**, means an ingredient other than tobacco leaves. (**additif**)
+    **additive**, in respect of tobacco products, means an ingredient other than tobacco leaves. (**additif**)
 
-    **emission** means a substance that is produced when a tobacco product **or vaping product** is used. (**émission**)
+    **emission** means a substance that is produced when a tobacco product or vaping product is used. (**émission**)
 
-    **ingredient** means any substance used in the manufacture of a tobacco product, **vaping product** or **their** components, including any substance used in the manufacture of that substance, **and, in respect of a tobacco product, also includes** tobacco leaves. (**ingrédient**)
+    **ingredient** means any substance used in the manufacture of a tobacco product, vaping product or their components, including any substance used in the manufacture of that substance, and, in respect of a tobacco product, also includes tobacco leaves. (**ingrédient**)
 
-    **manufacture**, in respect of **a** tobacco **product or vaping product**, includes the **manufacture of a tobacco product or vaping product for export, as well as the** packaging, labelling, distributing and importing of **a tobacco or vaping product** for sale in Canada. (**fabriquer**)
+    **manufacture**, in respect of a tobacco product or vaping product, includes the manufacture of a tobacco product or vaping product for export, as well as the packaging, labelling, distributing and importing of a tobacco or vaping product for sale in Canada. (**fabriquer**)
 
-    **manufacturer**, in respect of **a** tobacco **product or vaping product**, includes any entity that is associated with a manufacturer, including an entity that controls or is controlled by the manufacturer or that is controlled by the same entity that controls the manufacturer. (**fabricant**)
+    **manufacturer**, in respect of a tobacco product or vaping product, includes any entity that is associated with a manufacturer, including an entity that controls or is controlled by the manufacturer or that is controlled by the same entity that controls the manufacturer. (**fabricant**)
 
-    **retailer** means a person who is engaged in a business that includes the sale of tobacco **products or vaping products** to consumers. (**détaillant**)
+    **retailer** means a person who is engaged in a business that includes the sale of tobacco products or vaping products to consumers. (**détaillant**)
 
-    **sell** includes offer for sale, expose for sale **and sell for export**. (**vendre**)
+    **sell** includes offer for sale, expose for sale and sell for export. (**vendre**)
 
-    **tobacco product** means a product **made** in whole or in part of tobacco **and** includes papers, tubes and filters **intended for use with that product, a device, other than a water pipe, that is necessary for the use of that product and the parts that may be used with the device**. (**produit du tabac**)
+    **tobacco product** means a product made in whole or in part of tobacco, including tobacco leaves. It includes papers, tubes and filters intended for use with that product, a device, other than a water pipe, that is necessary for the use of that product and the parts that may be used with the device. (**produit du tabac**)
 
   **(2)** The portion of the definition **little cigar** in section 2 of the English version of the Act after paragraph (d) is replaced by the following:
 
-    It includes any tobacco product that is **designated by the regulations to be** a little cigar. (**petit cigare**)
+    It includes any tobacco product that is designated by the regulations to be a little cigar. (**petit cigare**)
 
   **(3)** Section 2 of the Act is amended by adding the following in alphabetical order:
 
@@ -136,17 +123,11 @@ Subsection 2.1(1) of the Act is replaced by the following:
 
   **(1)** The Governor in Council may make regulations
 
-    **designating** any tobacco product to be a little cigar for the purpose of the definition **little cigar**;
+    designating any tobacco product to be a little cigar for the purpose of the definition **little cigar**;
 
     designating any device to be a vaping product or not to be a vaping product for the purpose of the definition **vaping product**; and
 
     designating any substance or mixture of substances not to be a vaping product for the purpose of the definition **vaping product**.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 2.1(1):
-> *Existing Text*:
-> > The Governor in Council may make regulations prescribing any tobacco product to be a little cigar for the purpose of the definition **little cigar**.
 
 ### Section 5
 
@@ -154,9 +135,9 @@ Section 4 of the Act is replaced by the following:
 
 ### Section 4
 
-  ****(1)**** The purpose of this Act is to provide a legislative response to a national public health problem of substantial and pressing concern and to protect the health of Canadians in light of conclusive evidence implicating tobacco use in the incidence of numerous debilitating and fatal diseases.
+  **(1)** The purpose of this Act is to provide a legislative response to a national public health problem of substantial and pressing concern and to protect the health of Canadians in light of conclusive evidence implicating tobacco use in the incidence of numerous debilitating and fatal diseases.
 
-  ****(2)**** **The purpose of this Act with respect to tobacco products is to support the objectives set out in subsection (1) and, in particular,**
+  **(2)** The purpose of this Act with respect to tobacco products is to support the objectives set out in subsection (1) and, in particular,
 
     to protect young persons and others from inducements to use tobacco products and the consequent dependence on them;
 
@@ -164,7 +145,7 @@ Section 4 of the Act is replaced by the following:
 
     to prevent the public from being deceived or misled with respect to the health hazards of using tobacco products; and
 
-    to enhance public awareness of **those** hazards.
+    to enhance public awareness of those hazards.
 
   **(3)** The purpose of this Act with respect to vaping products is to support the objectives set out in subsection (1), to prevent vaping product use from leading to the use of tobacco products by young persons and non-users of tobacco products and, in particular,
 
@@ -178,29 +159,13 @@ Section 4 of the Act is replaced by the following:
 
     to enhance public awareness of those hazards.
 
-
-> **Explanatory Note**:
-> Existing text of section 4:
-> *Existing Text*:
-> > The purpose of this Act is to provide a legislative response to a national public health problem of substantial and pressing concern and, in particular,
-> > to protect the health of Canadians in light of conclusive evidence implicating tobacco use in the incidence of numerous debilitating and fatal diseases;
-> > to protect young persons and others from inducements to use tobacco products and the consequent dependence on them;
-> > to protect the health of young persons by restricting access to tobacco products; and
-> > to enhance public awareness of the health hazards of using tobacco products.
-
 ### Section 6
 
 Section 5 of the Act is replaced by the following:
 
 ### Section 5
 
-No **manufacturer** shall manufacture **or sell** a tobacco product that does not conform with the standards established by the regulations.
-
-
-> **Explanatory Note**:
-> Existing text of section 5:
-> *Existing Text*:
-> > No person shall manufacture a tobacco product that does not conform with the standards established by the regulations.
+No manufacturer shall manufacture or sell a tobacco product that does not conform with the standards established by the regulations.
 
 ### Section 7
 
@@ -208,7 +173,7 @@ No **manufacturer** shall manufacture **or sell** a tobacco product that does no
 
 ### Section 5.1
 
-      **(1)** No **manufacturer** shall use an additive set out in column 1 of the schedule in the manufacture of a tobacco product set out in column 2.
+      **(1)** No manufacturer shall use an additive set out in column 1 of the schedule in the manufacture of a tobacco product set out in column 2.
 
   **(2)** Subsection 5.1(2) of the Act is repealed.
 
@@ -218,7 +183,7 @@ Section 5.2 of the Act is replaced by the following:
 
 ### Section 5.2
 
-No **manufacturer** shall sell a tobacco product set out in column 2 of **Schedule 1** that contains an additive set out in column 1.
+No manufacturer shall sell a tobacco product set out in column 2 of Schedule 1 that contains an additive set out in column 1.
 
 ### Section 5.3
 
@@ -228,22 +193,15 @@ No **manufacturer** shall sell a tobacco product set out in column 2 of **Schedu
 
   **(3)** Despite sections 5.1 and 5.2, a manufacturer may use a prescribed additive to display on a tobacco product a marking that is authorized by the regulations or that is required under an Act of the legislature of a province and may sell a tobacco product that displays such a marking.
 
-
-> **Explanatory Note**:
-> Existing text of section 5.2:
-> *Existing Text*:
-> > No person shall sell a tobacco product set out in column 2 of the schedule that contains an additive set out in column 1.
-> > Subsection (1) does not prohibit the sale of a tobacco product by reason only that the product contains a colouring agent used for a purpose referred to in subsection 5.1(2).
-
 ### Section 9
 
 Section 6 of the Act is replaced by the following:
 
 ### Section 6
 
-  **(1)** Every manufacturer shall submit to the Minister, in the prescribed **form and** manner and within the prescribed time, information that is required by the regulations about tobacco products, their emissions and any research and development related to tobacco products and their emissions, whether the tobacco products are for sale or not.
+  **(1)** Every manufacturer shall submit to the Minister, in the prescribed form and manner and within the prescribed time, information that is required by the regulations about tobacco products, their emissions and any research and development related to tobacco products and their emissions, whether the tobacco products are for sale or not.
 
-  **(2)** The Minister may, subject to the regulations, request supplementary information relating to the information referred to in subsection (1), and every manufacturer shall submit the requested information **in the form and manner and within the time specified by the Minister**.
+  **(2)** The Minister may, subject to the regulations, request supplementary information relating to the information referred to in subsection (1), and every manufacturer shall submit the requested information in the form and manner and within the time specified by the Minister.
 
 ### Section 6.1
 
@@ -257,13 +215,6 @@ The Minister shall make available to the public, in the prescribed manner and wi
 
 Sections 6.1 and 6.2 do not apply in respect of tobacco products that have never been for sale in Canada.
 
-
-> **Explanatory Note**:
-> Existing text of section 6:
-> *Existing Text*:
-> > Every manufacturer shall submit to the Minister, in the prescribed manner and within the prescribed time, information that is required by the regulations about tobacco products, their emissions and any research and development related to tobacco products and their emissions, whether the tobacco products are for sale or not.
-> > The Minister may, subject to the regulations, request supplementary information relating to the information referred to in subsection (1), and every manufacturer shall submit the requested information.
-
 ### Section 10
 
 The Act is amended by adding the following after section 6:
@@ -272,15 +223,11 @@ The Act is amended by adding the following after section 6:
 
 Subject to the regulations, no manufacturer shall sell a tobacco product unless the information required under subsection 6(1) with respect to that product is submitted to the Minister.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 11
 
   **(1)** Paragraph 7(a) of the Act is replaced by the following:
 
-    establishing standards **respecting the characteristics of** tobacco products **and their emissions**, including **the sensory attributes — such as appearance and shape — of the products and their emissions, the dimensions, weight, components and performance of the products, and** the amounts **and concentrations** of substances that may be contained in the **products** or **their** emissions;
+    establishing standards respecting the characteristics of tobacco products and their emissions, including the sensory attributes — such as appearance and shape — of the products and their emissions, the dimensions, weight, components and performance of the products, and the amounts and concentrations of substances that may be contained in the products or their emissions;
 
   **(2)** Section 7 of the Act is amended by adding the following after paragraph (b):
 
@@ -288,9 +235,9 @@ Subject to the regulations, no manufacturer shall sell a tobacco product unless 
 
   **(3)** Paragraphs 7(c) and (c.1) of the Act are replaced by the following:
 
-    prescribing information that manufacturers must submit to the Minister about tobacco products and their emissions, including sales data and information on market research, product composition, ingredients, **materials**, health effects, hazardous properties and brand elements;
+    prescribing information that manufacturers must submit to the Minister about tobacco products and their emissions, including sales data and information on market research, product composition, ingredients, materials, health effects, hazardous properties and brand elements;
 
-    prescribing information that manufacturers must submit to the Minister about research and development related to tobacco products and their emissions, including information on market research, product composition, ingredients, **materials**, health effects, hazardous properties and brand elements;
+    prescribing information that manufacturers must submit to the Minister about research and development related to tobacco products and their emissions, including information on market research, product composition, ingredients, materials, health effects, hazardous properties and brand elements;
 
   **(4)** Paragraph 7(c.3) of the Act is repealed.
 
@@ -363,10 +310,6 @@ prescribing anything that by this Part is to be prescribed; and
 
 generally for carrying out the purposes of this Part.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 13
 
 The Act is amended by adding the following after section 7.2:
@@ -397,21 +340,17 @@ No manufacturer shall sell a vaping product set out in column 2 of Schedule 2 th
 
     no other amendment to Schedule 2 is to come into force.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 14
 
   **(1)** Subsection 8(1) of the Act is replaced by the following:
 
 ### Section 8
 
-      **(1)** No person shall furnish a tobacco product **or vaping product** to a young person in a public place or in a place to which the public has access.
+      **(1)** No person shall furnish a tobacco product or vaping product to a young person in a public place or in a place to which the public has access.
 
   **(2)** Subsection 8(2) of the Act is replaced by the following:
 
-    **(2)** A person shall not be found **guilty of having** contravened subsection (1) if it is established that **they** attempted to verify, **in accordance with the regulations**, that the person was at least 18 years of age.
+    **(2)** A person shall not be found guilty of having contravened subsection (1) if it is established that they attempted to verify, in accordance with the regulations, that the person was at least 18 years of age.
 
 ### Section 15
 
@@ -419,7 +358,7 @@ No manufacturer shall sell a vaping product set out in column 2 of Schedule 2 th
 
 ### Section 9
 
-      **(1)** No person shall send or deliver a tobacco product **or vaping product** to a young person.
+      **(1)** No person shall send or deliver a tobacco product or vaping product to a young person.
 
       **(2)** A person shall not be found guilty of having contravened subsection (1) for having sent a tobacco product or vaping product to a young person if it is established that the person
 
@@ -453,25 +392,13 @@ Section 10 of the Act is amended by adding the following after subsection (2):
 
 **(3)** No person shall import for sale in Canada, package, distribute or sell a vaping product that is prescribed for the purposes of this subsection, except in a package that contains a number or quantity of the vaping product that meets the prescribed requirements.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 17
 
 Section 12 of the Act is replaced by the following:
 
 ### Section 12
 
-**Subject to the regulations**, no person shall furnish or permit the furnishing of a tobacco product **or vaping product** by means of a **dispensing** device.
-
-
-> **Explanatory Note**:
-> Existing text of section 12:
-> *Existing Text*:
-> > No person shall furnish or permit the furnishing of a tobacco product by means of a device that dispenses tobacco products except where the device is in
-> > a place to which the public does not reasonably have access; or
-> > a bar, tavern or beverage room and has a prescribed security mechanism.
+Subject to the regulations, no person shall furnish or permit the furnishing of a tobacco product or vaping product by means of a dispensing device.
 
 ### Section 18
 
@@ -491,13 +418,6 @@ Section 13 of the Act is replaced by the following:
 
     is the subject of an authorization issued under that Act authorizing its sale.
 
-
-> **Explanatory Note**:
-> Existing text of section 13:
-> *Existing Text*:
-> > No person shall, for consideration, cause a tobacco product to be delivered from one province to another or to be sent by mail unless the delivery or mailing is between manufacturers or retailers or the person is otherwise exempted by the regulations.
-> > No person shall advertise an offer to deliver a tobacco product from one province to another or to mail a tobacco product.
-
 ### Section 19
 
   **(1)** Paragraph 14(a) of the Act is replaced by the following:
@@ -508,11 +428,11 @@ Section 13 of the Act is replaced by the following:
 
     respecting exemptions to the prohibition under subsection 9.1(1);
 
-    prescribing tobacco products for the purposes of subsection 10(2) **and prescribing vaping products for the purposes of subsection 10(3)**;
+    prescribing tobacco products for the purposes of subsection 10(2) and prescribing vaping products for the purposes of subsection 10(3);
 
     respecting, for the purposes of subsection 10(3), the number or quantity of a vaping product that a package must contain, including minimum and maximum numbers or quantities;
 
-    exempting persons from the application of **section** 11;
+    exempting persons from the application of section 11;
 
   **(3)** Paragraph 14(e) of the Act is replaced by the following:
 
@@ -524,7 +444,7 @@ Section 13 of the Act is replaced by the following:
 
 ### Section 15
 
-      **(1)** No manufacturer or retailer shall sell a tobacco product unless the package containing it displays, in the prescribed form and manner, the information required by the regulations about the product and its emissions, and about the health hazards and health effects arising from the use of the product **and** from its emissions.
+      **(1)** No manufacturer or retailer shall sell a tobacco product unless the package containing it displays, in the prescribed form and manner, the information required by the regulations about the product and its emissions, and about the health hazards and health effects arising from the use of the product and from its emissions.
 
   **(2)** Section 15 of the Act is amended by adding the following after subsection (1):
 
@@ -532,7 +452,7 @@ Section 13 of the Act is replaced by the following:
 
   **(3)** Subsections 15(2) and (3) of the Act are replaced by the following:
 
-    **(2)** If required by the regulations, every manufacturer or retailer shall provide **with a tobacco product**, in the prescribed form and manner, a leaflet that displays the information required by the regulations about **the** product and its emissions and about the health hazards and health effects arising from the use of the product and from its emissions.
+    **(2)** If required by the regulations, every manufacturer or retailer shall provide with a tobacco product, in the prescribed form and manner, a leaflet that displays the information required by the regulations about the product and its emissions and about the health hazards and health effects arising from the use of the product and from its emissions.
 
 ### Section 21
 
@@ -544,7 +464,7 @@ Section 16 of the Act is replaced by the following:
 
   **(2)** No person shall manufacture a vaping product unless the product displays, in the prescribed form and manner, the information required by the regulations about the product and its emissions and about the health hazards and health effects arising from the use of the product and from its emissions.
 
-  **(3)** No person shall **package** a vaping product unless the package containing it displays, in the prescribed form and manner, the information required by the regulations about the product and its emissions and about the health hazards and health effects arising from the use of the product and from its emissions.
+  **(3)** No person shall package a vaping product unless the package containing it displays, in the prescribed form and manner, the information required by the regulations about the product and its emissions and about the health hazards and health effects arising from the use of the product and from its emissions.
 
   **(4)** If required by the regulations, every manufacturer or retailer shall provide with a vaping product, in the prescribed form and manner, a leaflet or tag that displays the information required by the regulations about the product and its emissions and about the health hazards and health effects arising from the use of the product and from its emissions.
 
@@ -560,40 +480,27 @@ The information referred to in sections 15 and 15.1 may be attributed to a perso
 
 ### Section 16
 
-**For greater certainty,** this Part does not affect any obligation of a manufacturer or retailer at law or under an Act of Parliament or of **the** legislature **of a province** to warn consumers of the health hazards and health effects arising from the use of tobacco products **or vaping products and** from their emissions.
-
-
-> **Explanatory Note**:
-> Existing text of section 16:
-> *Existing Text*:
-> > This Part does not affect any obligation of a manufacturer or retailer at law or under an Act of Parliament or of a provincial legislature to warn consumers of the health hazards and health effects arising from the use of tobacco products or from their emissions.
+For greater certainty, this Part does not affect any obligation of a manufacturer or retailer at law or under an Act of Parliament or of the legislature of a province to warn consumers of the health hazards and health effects arising from the use of tobacco products or vaping products and from their emissions.
 
 ### Section 22
 
 Paragraph 17(a) of the Act is replaced by the following:
 
-respecting the information that must appear on **tobacco product** packages and in leaflets about tobacco products and their emissions and **about** the health hazards and health effects arising from the use of the products and from their emissions;
+respecting the information that must appear on tobacco product packages and in leaflets about tobacco products and their emissions and about the health hazards and health effects arising from the use of the products and from their emissions;
 
-respecting the information that must appear on **vaping products or** on vaping product packages and in leaflets or on tags about **vaping** products and their emissions and about the health hazards and health effects arising from the use of the products and from their emissions;
+respecting the information that must appear on vaping products or on vaping product packages and in leaflets or on tags about vaping products and their emissions and about the health hazards and health effects arising from the use of the products and from their emissions;
 
 respecting, for the purposes of section 15.3, the manner of displaying or providing information, including the form and placement of the information;
-
-
-> **Explanatory Note**:
-> Relevant portion of section 17:
-> *Existing Text*:
-> > The Governor in Council may make regulations
-> > respecting the information that must appear on packages and in leaflets about tobacco products and their emissions and the health hazards and health effects arising from the use of the products and from their emissions;
 
 ### Section 23
 
   **(1)** The portion of subsection 18(2) of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** **Division 1 of** this Part does not apply to
+    **(2)** Division 1 of this Part does not apply to
 
   **(2)** Paragraph 18(2)(a) of the English version of the Act is replaced by the following:
 
-    a literary, dramatic, musical, cinematographic, scientific, educational or artistic work, production or performance that uses or depicts a tobacco product or tobacco product-related brand element, whatever the mode or form of its expression, if no consideration is given **by a manufacturer or retailer**, directly or indirectly, for that use or depiction in the work, production or performance;
+    a literary, dramatic, musical, cinematographic, scientific, educational or artistic work, production or performance that uses or depicts a tobacco product or tobacco product-related brand element, whatever the mode or form of its expression, if no consideration is given by a manufacturer or retailer, directly or indirectly, for that use or depiction in the work, production or performance;
 
   **(3)** Section 18 of the Act is amended by adding the following after subsection (2):
 
@@ -612,23 +519,13 @@ The Act is amended by adding the following after section 18:
 
 ### Tobacco Products
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 25
 
 Section 19 of the Act is replaced by the following:
 
 ### Section 19
 
-No person shall promote a tobacco product or a tobacco product-related brand element, **including by means of the packaging**, except as authorized by **the provisions of** this Act or **of** the regulations.
-
-
-> **Explanatory Note**:
-> Existing text of section 19:
-> *Existing Text*:
-> > No person shall promote a tobacco product or a tobacco product-related brand element except as authorized by this Act or the regulations.
+No person shall promote a tobacco product or a tobacco product-related brand element, including by means of the packaging, except as authorized by the provisions of this Act or of the regulations.
 
 ### Section 26
 
@@ -636,15 +533,9 @@ Section 20 of the Act is replaced by the following:
 
 ### Section 20
 
-  **(1)** No person shall promote a tobacco product, including by means of the packaging, **in a manner** that **is** false, misleading or deceptive **with respect to**, or that **is** likely to create an erroneous impression about, the characteristics, health effects or health hazards of the tobacco product or its emissions.
+  **(1)** No person shall promote a tobacco product, including by means of the packaging, in a manner that is false, misleading or deceptive with respect to, or that is likely to create an erroneous impression about, the characteristics, health effects or health hazards of the tobacco product or its emissions.
 
   **(2)** The general impression conveyed by a promotion and the literal meaning of any statement contained in a promotion shall be taken into account in determining whether a promotion is made in a manner that is misleading or deceptive with respect to, or is likely to create an erroneous impression about, the characteristics, health effects or health hazards of the tobacco product or its emissions.
-
-
-> **Explanatory Note**:
-> Existing text of section 20:
-> *Existing Text*:
-> > No person shall promote a tobacco product by any means, including by means of the packaging, that are false, misleading or deceptive or that are likely to create an erroneous impression about the characteristics, health effects or health hazards of the tobacco product or its emissions.
 
 ### Section 27
 
@@ -658,17 +549,13 @@ in a manner that could cause a person to believe that the product or its emissio
 
 by using terms, expressions, logos, symbols or illustrations that are prohibited by the regulations.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 28
 
   **(1)** Subsection 21(1) of the Act is replaced by the following:
 
 ### Section 21
 
-      **(1)** No person shall promote a tobacco product **through** a testimonial or an endorsement, however displayed or communicated, **including by means of the packaging**.
+      **(1)** No person shall promote a tobacco product through a testimonial or an endorsement, however displayed or communicated, including by means of the packaging.
 
   **(2)** Subsection 21(3) of the Act is repealed.
 
@@ -678,15 +565,15 @@ by using terms, expressions, logos, symbols or illustrations that are prohibited
 
 ### Section 22
 
-      **(1)** Subject to this section, no person shall promote a tobacco product by means of **advertising** that depicts, in whole or in part, a tobacco product, its package or a **tobacco product-related** brand element or that evokes a tobacco product or a **tobacco product-related** brand element.
+      **(1)** Subject to this section, no person shall promote a tobacco product by means of advertising that depicts, in whole or in part, a tobacco product, its package or a tobacco product-related brand element or that evokes a tobacco product or a tobacco product-related brand element.
 
   **(2)** Paragraph 22(2)(a) of the Act is replaced by the following:
 
-    a publication that is addressed and **sent** to an adult who is identified by name; or
+    a publication that is addressed and sent to an adult who is identified by name; or
 
   **(3)** Subsection 22(3) of the Act is replaced by the following:
 
-    **(3)** Subsection (2) does not apply to lifestyle advertising or advertising **for which there** are reasonable grounds to **believe** that **it could** be appealing to young persons.
+    **(3)** Subsection (2) does not apply to lifestyle advertising or advertising for which there are reasonable grounds to believe that it could be appealing to young persons.
 
   **(4)** The definition **lifestyle advertising** in subsection 22(4) of the Act is repealed.
 
@@ -696,15 +583,9 @@ Section 23 of the Act is replaced by the following:
 
 ### Section 23
 
-  ****(1)**** No person shall package a tobacco product in a manner that is contrary to **the provisions of** this Act or **of** the regulations.
+  **(1)** No person shall package a tobacco product in a manner that is contrary to the provisions of this Act or of the regulations.
 
   **(2)** No person shall sell a tobacco product that is packaged in a manner that is contrary to the provisions of this Act or of the regulations.
-
-
-> **Explanatory Note**:
-> Existing text of section 23:
-> *Existing Text*:
-> > No person shall package a tobacco product in a manner that is contrary to this Act or the regulations.
 
 ### Section 31
 
@@ -712,13 +593,7 @@ Subsection 23.1(1) of the Act is replaced by the following:
 
 ### Section 23.1
 
-  **(1)** No person shall package a tobacco product set out in column 2 of **Schedule 1** in a manner, including **by means of a brand element, that could cause a person to believe** that it contains an additive set out in column 1.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 23.1(1):
-> *Existing Text*:
-> > No person shall package a tobacco product set out in column 2 of the schedule in a manner that suggests, including through illustrations, that it contains an additive set out in column 1.
+  **(1)** No person shall package a tobacco product set out in column 2 of Schedule 1 in a manner, including by means of a brand element, that could cause a person to believe that it contains an additive set out in column 1.
 
 ### Section 32
 
@@ -730,10 +605,6 @@ The Act is amended by adding the following after section 23.1:
 
   **(2)** No person shall sell a tobacco product if a vaping product-related brand element is displayed on its package.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 33
 
 Sections 24 and 25 of the Act are replaced by the following:
@@ -742,18 +613,11 @@ Sections 24 and 25 of the Act are replaced by the following:
 
   **(1)** No person shall promote a tobacco product-related brand element or the name of a tobacco product manufacturer in a manner that is likely to create an association between the brand element or the name and a person, entity, event, activity or permanent facility.
 
-  ****(2)**** No person **shall use**, directly or indirectly, a tobacco product-related brand element or the name of a tobacco **product** manufacturer in **the promotional material related to** a person, entity, event, activity or permanent facility.
+  **(2)** No person shall use, directly or indirectly, a tobacco product-related brand element or the name of a tobacco product manufacturer in the promotional material related to a person, entity, event, activity or permanent facility.
 
 ### Section 25
 
-No person **shall** display a tobacco product-related brand element or the name of a tobacco **product** manufacturer on a permanent facility, as part of the name of the facility or otherwise, if the **facility is used for** a sports or cultural event or activity.
-
-
-> **Explanatory Note**:
-> Existing text of sections 24 and 25:
-> *Existing Text*:
-> > No person may display a tobacco product-related brand element or the name of a tobacco manufacturer in a promotion that is used, directly or indirectly, in the sponsorship of a person, entity, event, activity or permanent facility.
-> > No person may display a tobacco product-related brand element or the name of a tobacco manufacturer on a permanent facility, as part of the name of the facility or otherwise, if the tobacco product-related brand element or name is thereby associated with a sports or cultural event or activity.
+No person shall display a tobacco product-related brand element or the name of a tobacco product manufacturer on a permanent facility, as part of the name of the facility or otherwise, if the facility is used for a sports or cultural event or activity.
 
 ### Section 34
 
@@ -761,29 +625,19 @@ Sections 27 and 28 of the Act are replaced by the following:
 
 ### Section 27
 
-No person shall furnish or promote a tobacco product if any of its brand elements is displayed on a **thing,** other than **a tobacco** product **or** an accessory, or is used with a service, **and**
+No person shall furnish or promote a tobacco product if any of its brand elements is displayed on a thing, other than a tobacco product or an accessory, or is used with a service, and
 
-the **thing** or service is associated with young persons;
+the thing or service is associated with young persons;
 
-**there are** reasonable grounds to **believe that the thing or service** could be appealing to young persons; or
+there are reasonable grounds to believe that the thing or service could be appealing to young persons; or
 
-**the thing or service** is associated with a way of life such as one that includes glamour, recreation, excitement, vitality, risk or daring.
+the thing or service is associated with a way of life such as one that includes glamour, recreation, excitement, vitality, risk or daring.
 
 ### Section 28
 
-  **(1)** Subject to the regulations, a person may sell a tobacco product, or advertise a tobacco product in accordance with section 22, if any of its brand elements is displayed on a **thing**, other than **a tobacco** product **or** an accessory, or **is** used with a service, **and** the **thing** or service does not fall within the criteria described in paragraphs 27(a) **to (c)**.
+  **(1)** Subject to the regulations, a person may sell a tobacco product, or advertise a tobacco product in accordance with section 22, if any of its brand elements is displayed on a thing, other than a tobacco product or an accessory, or is used with a service, and the thing or service does not fall within the criteria described in paragraphs 27(a) to (c).
 
-  **(2)** Subject to the regulations, a person may promote a **thing**, other than a **tobacco** product **or** an accessory, that displays a tobacco product-related brand element, or a service that uses a tobacco product-related brand element, **if the thing or service** does not **fall within the criteria described in paragraphs 27(a) to (c)**.
-
-
-> **Explanatory Note**:
-> Existing text of sections 27 and 28:
-> *Existing Text*:
-> > No person shall furnish or promote a tobacco product if any of its brand elements is displayed on a non-tobacco product, other than an accessory, or is used with a service, if the non-tobacco product or service
-> > is associated with young persons or could be construed on reasonable grounds to be appealing to young persons; or
-> > is associated with a way of life such as one that includes glamour, recreation, excitement, vitality, risk or daring.
-> > Subject to the regulations, a person may sell a tobacco product, or advertise a tobacco product in accordance with section 22, if any of its brand elements is displayed on a non-tobacco product, other than an accessory, or used with a service, if the non-tobacco product or service does not fall within the criteria described in paragraphs 27(a) and (b).
-> > Subject to the regulations, a person may promote a non-tobacco product, other than an accessory, that displays a tobacco product-related brand element, or a service that uses a tobacco product-related brand element, to which section 27 does not apply.
+  **(2)** Subject to the regulations, a person may promote a thing, other than a tobacco product or an accessory, that displays a tobacco product-related brand element, or a service that uses a tobacco product-related brand element, if the thing or service does not fall within the criteria described in paragraphs 27(a) to (c).
 
 ### Section 35
 
@@ -791,15 +645,15 @@ the **thing** or service is associated with young persons;
 
 ### Section 29
 
-    Il est interdit au fabricant et au détaillant **de faire ou d'offrir de faire l'une des actions suivantes** :
+    Il est interdit au fabricant et au détaillant de faire ou d'offrir de faire l'une des actions suivantes :
 
   **(2)** Paragraphs 29(a) to (c) of the Act are replaced by the following:
 
-    provide **or offer to provide** any consideration, for the purchase of a tobacco product, including a gift to a purchaser or a third party, bonus, premium, cash rebate or right to participate in a game, **draw**, lottery or contest;
+    provide or offer to provide any consideration, for the purchase of a tobacco product, including a gift to a purchaser or a third party, bonus, premium, cash rebate or right to participate in a game, draw, lottery or contest;
 
-    furnish **or offer to furnish** a tobacco product without monetary consideration or in consideration of the purchase of a product or service or the performance of a service; or
+    furnish or offer to furnish a tobacco product without monetary consideration or in consideration of the purchase of a product or service or the performance of a service; or
 
-    furnish **or offer to furnish** an accessory that **displays** a tobacco product-related brand element without monetary consideration or in consideration of the purchase of a product or service or the performance of a service.
+    furnish or offer to furnish an accessory that displays a tobacco product-related brand element without monetary consideration or in consideration of the purchase of a product or service or the performance of a service.
 
 ### Section 36
 
@@ -807,14 +661,14 @@ Section 30 of the Act is replaced by the following:
 
 ### Section 30
 
-  **(1)** Subject to the regulations, **a** person may display, at **the point of sale**, a tobacco product or an accessory that displays a tobacco product-related brand element.
+  **(1)** Subject to the regulations, a person may display, at the point of sale, a tobacco product or an accessory that displays a tobacco product-related brand element.
 
-  **(2)** A retailer of tobacco products may post, **subject to** the regulations, signs at **the point of sale** that indicate the availability of tobacco products and their price.
+  **(2)** A retailer of tobacco products may post, subject to the regulations, signs at the point of sale that indicate the availability of tobacco products and their price.
 
   **(3)** For greater certainty, subsection (1) does not authorize the display of a tobacco product that is packaged in a manner that is contrary to the provisions of this Act or of the regulations.
 
 
-### **Vaping Products**
+### Vaping Products
 
 ### Section 30.1
 
@@ -842,7 +696,17 @@ No person shall display a vaping product-related brand element or the name of a 
 
 ### Section 30.5
 
-No manufacturer or retailer shall give or offer to give a vaping product.
+Subject to the regulations, no manufacturer or retailer shall give or offer to give
+
+a vaping product; or
+
+a thing that displays a vaping product-related brand element if
+
+the thing is associated with young persons,
+
+there are reasonable grounds to believe that the thing could be appealing to young persons, or
+
+the thing is associated with a way of life such as one that includes glamour, recreation, excitement, vitality, risk or daring.
 
 ### Section 30.6
 
@@ -862,19 +726,16 @@ No manufacturer or retailer shall give or offer to give a vaping product.
 
 No person shall promote a vaping product or a vaping product-related brand element by means of advertising unless it conveys, in the prescribed form and manner, the information required by the regulations about the product and its emissions and about the health hazards and health effects arising from the use of the product and from its emissions.
 
+### Section 30.701
+
+No person shall promote a vaping product or a vaping product-related brand element by means of advertising done in a manner that is contrary to the regulations.
+
 ### Section 30.8
 
 No person shall promote, at the point of sale, a vaping product or a vaping product-related brand element, including by means of the packaging, in a manner that is contrary to the regulations.
 
 
 ### Miscellaneous Provisions
-
-
-> **Explanatory Note**:
-> Existing text of section 30:
-> *Existing Text*:
-> > Subject to the regulations, any person may display, at retail, a tobacco product or an accessory that displays a tobacco product-related brand element.
-> > A retailer of tobacco products may post, in accordance with the regulations, signs at retail that indicate the availability of tobacco products and their price.
 
 ### Section 37
 
@@ -885,10 +746,6 @@ The Act is amended by adding the following after section 30.2:
   **(1)** No person shall promote a vaping product through a testimonial or an endorsement, however displayed or communicated, including by means of the packaging.
 
   **(2)** For the purposes of subsection (1), the depiction of a person, character or animal, whether real or fictional, is considered to be a testimonial for, or an endorsement of, the product.
-
-
-> **Explanatory Note**:
-> New.
 
 ### Section 38
 
@@ -912,9 +769,9 @@ No person shall promote or sell a vaping product that has an appearance, shape o
 
 ### Section 30.43
 
-  **(1)** No person shall promote a vaping product, including by means of the packaging, in a manner that could cause a person to believe that health benefits may be derived from the use of the product or from its emissions.
+  **(1)** Subject to subsection (3) and the regulations, no person shall promote a vaping product, including by means of the packaging, in a manner that could cause a person to believe that health benefits may be derived from the use of the product or from its emissions.
 
-  **(2)** No person shall promote a vaping product, including by means of the packaging, by comparing the health effects arising from the use of the product or from its emissions with those arising from the use of a tobacco product or from its emissions.
+  **(2)** Subject to subsection (3) and the regulations, no person shall promote a vaping product, including by means of the packaging, by comparing the health effects arising from the use of the product or from its emissions with those arising from the use of a tobacco product or from its emissions.
 
   **(3)** Subsections (1) and (2) do not apply in respect of a vaping product that is the subject of an authorization, including a licence, issued under the `Food and Drugs Act` authorizing its sale.
 
@@ -964,41 +821,27 @@ No person shall promote a vaping product, including by means of the packaging, i
 
     no other amendment to Schedule 3 is to come into force.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 39
 
 Subsection 30.43(1) of the Act is replaced by the following:
 
 ### Section 30.43
 
-  **(1)** No person shall promote a vaping product, including by means of the packaging, in a manner that could cause a person to believe that **health benefits**, within the meaning of the regulations, may be derived from the use of the product or from its emissions.
+  **(1)** Subject to subsection (3) and the regulations, no person shall promote a vaping product, including by means of the packaging, in a manner that could cause a person to believe that **health benefits**, within the meaning of the regulations, may be derived from the use of the product or from its emissions.
 
 ### Section 40
 
-The Act is amended by adding the following after section 30.7:
+The Act is amended by adding the following after section 30.701:
 
 ### Section 30.71
 
 No person shall furnish or promote a vaping product if a tobacco product-related brand element is displayed on the vaping product, on its package or in the advertising of the vaping product.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 41
 
 Subsection 31(3) of the Act is replaced by the following:
 
-**(3)** No person in Canada shall, by means of a publication that is published outside Canada, a broadcast that originates outside Canada or any communication other than a publication or broadcast that originates outside Canada, promote any product the promotion of which is regulated under this Part, or disseminate promotional material that contains a tobacco product-related brand element **or a vaping product-related brand element** in a **manner** that is contrary to this Part.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 31(3):
-> *Existing Text*:
-> > No person in Canada shall, by means of a publication that is published outside Canada, a broadcast that originates outside Canada or any communication other than a publication or broadcast that originates outside Canada, promote any product the promotion of which is regulated under this Part, or disseminate promotional material that contains a tobacco product-related brand element in a way that is contrary to this Part.
+**(3)** No person in Canada shall, by means of a publication that is published outside Canada, a broadcast that originates outside Canada or any communication other than a publication or broadcast that originates outside Canada, promote any product the promotion of which is regulated under this Part, or disseminate promotional material that contains a tobacco product-related brand element or a vaping product-related brand element in a manner that is contrary to this Part.
 
 ### Section 42
 
@@ -1006,30 +849,19 @@ Section 32 of the Act is replaced by the following:
 
 ### Section 32
 
-  ****(1)**** Every manufacturer shall **submit to** the Minister, in the prescribed **form and** manner and within the prescribed time, information **that is required by the regulations about any promotion referred to in paragraph 18(2)(c) or (3)(c) and** about any promotion **referred to in Division 1 or 2**.
+  **(1)** Every manufacturer shall submit to the Minister, in the prescribed form and manner and within the prescribed time, information that is required by the regulations about any promotion referred to in paragraph 18(2)(c) or (3)(c) and about any promotion referred to in Division 1 or 2.
 
   **(2)** The Minister may, subject to the regulations, request supplementary information relating to the information referred to in subsection (1), and every manufacturer shall submit the requested information in the form and manner and within the time specified by the Minister.
-
-
-> **Explanatory Note**:
-> Existing text of section 32:
-> *Existing Text*:
-> > Every manufacturer shall provide the Minister, in the prescribed manner and within the prescribed time, with the prescribed information about any promotion under this Part.
 
 ### Section 43
 
 The heading before section 33 of the Act is repealed.
 
-
-> **Explanatory Note**:
-> Existing text of the heading:
-> *Existing Text*:
-
 ### Section 44
 
   **(1)** Paragraph 33(a) of the Act is replaced by the following:
 
-    respecting the promotion of tobacco products, **the use and promotion of** tobacco product-related brand elements and the packaging of tobacco products, including the form, manner and conditions of the promotion and packaging, and the promotion of services and **things** for the purposes of section 28;
+    respecting the promotion of tobacco products, the use and promotion of tobacco product-related brand elements and the packaging of tobacco products, including the form, manner and conditions of the promotion and packaging, and the promotion of services and things for the purposes of section 28;
 
   **(2)** Section 33 of the Act is amended by adding the following after paragraph (a):
 
@@ -1037,23 +869,27 @@ The heading before section 33 of the Act is repealed.
 
   **(3)** Paragraph 33(b) of the English version of the Act is replaced by the following:
 
-    respecting the **advertising** of tobacco products for the purposes of subsection 22(2);
+    respecting the advertising of tobacco products for the purposes of subsection 22(2);
 
   **(4)** Paragraphs 33(e) to (j) of the Act are replaced by the following:
 
     respecting, for the purposes of subsection 26(1), the manner in which a tobacco product-related brand element may appear on an accessory;
 
-    respecting the display of tobacco products and accessories at **the point of sale**;
+    respecting the display of tobacco products and accessories at the point of sale;
 
     respecting signs that a retailer may post under subsection 30(2), including the placement of the signs and their number, size and content;
 
     respecting, for the purposes of subsection 30.2(2), the promotion of vaping products and vaping product-related brand elements;
 
+    respecting exceptions to the prohibition under section 30.5;
+
     respecting, for the purposes of section 30.7, the information about vaping products and their emissions and about the health hazards and health effects arising from the use of the products and from their emissions that must be conveyed in advertising;
+
+    respecting, for the purposes of section 30.701, the advertising of vaping products and vaping product-related brand elements;
 
     respecting, for the purposes of section 30.8, the promotion, at the point of sale, of vaping products and vaping product-related brand elements, including their display;
 
-    requiring manufacturers to disclose the particulars of their tobacco product-related **and vaping product-related** brand elements and promotional activities;
+    requiring manufacturers to disclose the particulars of their tobacco product-related and vaping product-related brand elements and promotional activities;
 
     respecting requests for supplementary information under subsection 32(2);
 
@@ -1065,57 +901,59 @@ The heading before section 33 of the Act is repealed.
 
     for the purposes of section 30.42, prohibiting or respecting the use of terms, expressions, logos, symbols or illustrations in order to prevent the public from being deceived or misled with respect to the health effects or health hazards of vaping products or their emissions;
 
+    respecting exceptions to the prohibitions under subsections 30.43(1) and (2);
+
     respecting, for the purposes of section 30.45, the packaging of vaping products, including by prohibiting the display of terms, expressions, logos, symbols or illustrations on the package that could be appealing to young persons;
 
-  **(6)** Section 33 of the Act is amended by adding the following after paragraph (f.1):
+  **(6)** Paragraph 33(f.2) of the Act is replaced by the following:
 
-    respecting, for the purposes of subsection 30.43(1), what constitutes a health benefit;
+    respecting exceptions to the prohibitions under subsections 30.43(1) and (2) and, for the purposes of subsection 30.43(1), what constitutes a health benefit;
 
 ### Section 45
 
 The headings before section 34 and sections 34 to 36 of the Act are replaced by the following:
 
 
-## **Administration and** Enforcement
+## Administration and Enforcement
 
 
-### Inspection **and Analysis**
+### Inspection and Analysis
 
 ### Section 34
 
-  **(1)** The Minister may designate any person or class of persons as an inspector or analyst for the **purpose of the administration and enforcement** of this Act.
+  **(1)** The Minister may designate any person or class of persons as an inspector or analyst for the purpose of the administration and enforcement of this Act.
 
-  **(2)** Every inspector and analyst **shall be given** a certificate, **in a form established by the Minister, attesting to the inspector or analyst's designation**.
+  **(2)** Every inspector and analyst shall be given a certificate, in a form established by the Minister, attesting to the inspector or analyst's designation.
 
-  ****(3)**** An inspector entering a place under this Act **shall**, on request, **produce** the certificate to the person in charge of **that** place.
+  **(3)** An inspector entering a place under this Act shall, on request, produce the certificate to the person in charge of that place.
 
 ### Section 35
 
-  **(1)** For **a** purpose **related to verifying** compliance with this Act, an inspector may, subject to section 36, enter any place, **including** a **conveyance**, in which the inspector believes on reasonable grounds
+  **(1)** For a purpose related to verifying compliance with this Act, an inspector may, subject to section 36, enter any place, including a conveyance, in which the inspector believes on reasonable grounds
 
-    a tobacco product **or vaping product** is manufactured, tested, stored, **promoted, transported** or **furnished**;
+    a tobacco product or vaping product is manufactured, tested, stored, promoted, transported or furnished;
 
-    there is anything used in the manufacture, testing, promotion or **furnishing** of a tobacco product **or vaping product**; or
+    there is anything used in the manufacture, testing, promotion or furnishing of a tobacco product or vaping product; or
 
-    there is any information relating to the manufacture, testing, **storage**, promotion, **transporting** or **furnishing** of a tobacco product **or vaping product**.
+    there is any information relating to the manufacture, testing, storage, promotion, transporting or furnishing of a tobacco product or vaping product.
 
-  **(2)** An inspector may, **for the purpose referred to in subsection (1)**,
+  **(2)** An inspector may, for the purpose referred to in subsection (1),
 
-    examine a tobacco product, **vaping product** or thing referred to in paragraph (1)(b) **that is found in the place**;
+    examine a tobacco product, vaping product or thing referred to in paragraph (1)(b) that is found in the place;
 
-    **order** any person to produce for **examination**, in the manner and form requested by the inspector, the tobacco product, **vaping product** or thing;
+    order any person to produce for examination, in the manner and form requested by the inspector, the tobacco product, vaping product or thing;
 
-    open or **order** any person to open any container or package found in the place that the inspector believes on reasonable grounds contains the tobacco product, **vaping product** or thing;
+    open or order any person to open any container or package found in the place that the inspector believes on reasonable grounds contains the tobacco product, vaping product or thing;
 
-    take or **order** any person to **take**, **free of charge**, a sample of the tobacco product, **vaping product** or thing;
+    take or order any person to take, free of charge, a sample of the tobacco product, vaping product or thing;
 
     conduct any test or analysis or take any measurements;
 
-    **order** any person **found in the place** to produce for **examination** or copying any written or electronic information;
+    order any person found in the place to produce for examination or copying any written or electronic information;
 
     take photographs and make recordings and sketches;
 
-    order the owner or person having possession, care or control of the tobacco product, **vaping product** or thing — or of the conveyance — to move it or, for any time that may be necessary, not to move it or to restrict its movement;
+    order the owner or person having possession, care or control of the tobacco product, vaping product or thing — or of the conveyance — to move it or, for any time that may be necessary, not to move it or to restrict its movement;
 
     order the owner or person in charge of the place or a person who manufactures, tests, stores, promotes, transports or furnishes a tobacco product or vaping product at the place to establish their identity to the inspector's satisfaction;
 
@@ -1133,47 +971,19 @@ The headings before section 34 and sections 34 to 36 of the Act are replaced by 
 
 ### Section 36
 
-  **(1)** **If the place is a dwelling-house**, an inspector may enter **it without** the **occupant's** consent **only** under the authority of a warrant issued under subsection (2).
+  **(1)** If the place is a dwelling-house, an inspector may enter it without the occupant's consent only under the authority of a warrant issued under subsection (2).
 
-  **(2)** On ex parte application, a justice **of the peace** may issue a warrant authorizing the inspector named in the warrant to enter a **dwelling-house**, subject to any conditions specified in the warrant, if the justice is satisfied by information on oath that
+  **(2)** On ex parte application, a justice of the peace may issue a warrant authorizing the inspector named in the warrant to enter a dwelling-house, subject to any conditions specified in the warrant, if the justice is satisfied by information on oath that
 
-    the **dwelling-house** is a place referred to in subsection 35(1);
+    the dwelling-house is a place referred to in subsection 35(1);
 
-    entry to the **dwelling-house** is necessary for **a purpose referred to in that subsection**; and
+    entry to the dwelling-house is necessary for a purpose referred to in that subsection; and
 
-    entry to the **dwelling-house was** refused **by the** occupant or there are reasonable grounds **to believe** that **entry** will be refused **by, or that** consent to entry **cannot be obtained from, the occupant**.
+    entry to the dwelling-house was refused by the occupant or there are reasonable grounds to believe that entry will be refused by, or that consent to entry cannot be obtained from, the occupant.
 
-  **(3)** **In executing a warrant issued under subsection (2),** an inspector **may** use force **only if** the use of force **has been** specifically authorized in the warrant and **they are** accompanied by a peace officer.
+  **(3)** In executing a warrant issued under subsection (2), an inspector may use force only if the use of force has been specifically authorized in the warrant and they are accompanied by a peace officer.
 
   **(4)** If an inspector believes that it would not be practical to appear personally to make an application for a warrant under subsection (2), a warrant may be issued by telephone or other means of telecommunication on information submitted by telephone or other means of telecommunication, and section 487.1 of the `Criminal Code` applies for that purpose, with any necessary modifications.
-
-
-> **Explanatory Note**:
-> Existing text of the headings and sections 34 to 36:
-> *Existing Text*:
-> > The Minister may designate any person or class of persons as an inspector or analyst for the purposes of this Act and must provide every inspector and analyst with a certificate of designation, in the form determined by the Minister.
-> > An inspector entering a place under this Act must, on request, show the certificate to the person in charge of the place.
-> > For the purpose of ensuring compliance with this Act, an inspector may, subject to section 36, at any reasonable time, enter any place, other than a means of transportation, in which the inspector believes on reasonable grounds
-> > a tobacco product is manufactured, tested, stored, packaged, labelled or sold;
-> > there is anything used in the manufacture, testing, packaging, labelling, promotion or sale of a tobacco product; or
-> > there is any information relating to the manufacture, testing, packaging, labelling, promotion or sale of a tobacco product.
-> > In carrying out an inspection, an inspector may
-> > examine a tobacco product or thing referred to in paragraph (1)(b);
-> > require any person in the place to produce for inspection, in the manner and form requested by the inspector, the tobacco product or thing;
-> > open or require any person in the place to open any container or package found in the place that the inspector believes on reasonable grounds contains the tobacco product or thing;
-> > take or require any person in the place to produce a sample of the tobacco product or thing;
-> > conduct any test or analysis or take any measurements; or
-> > require any person found in the place to produce for inspection or copying any written or electronic information that is relevant to the administration or enforcement of this Act.
-> > In carrying out an inspection, an inspector may
-> > use or cause to be used any computer system in the place to examine data contained in or available to the computer system that is relevant to the administration or enforcement of this Act;
-> > reproduce the data in the form of a print-out or other intelligible output and take it for examination or copying; and
-> > use or cause to be used any copying equipment in the place to make copies of any data, record or document.
-> > An inspector may not enter a dwelling-place except with the consent of the occupant or under the authority of a warrant issued under subsection (2).
-> > On ex parte application, a justice, as defined in section 2 of the `Criminal Code`, may issue a warrant authorizing the inspector named in the warrant to enter and inspect a dwelling-place, subject to any conditions specified in the warrant, if the justice is satisfied by information on oath
-> > that the dwelling-place is a place referred to in subsection 35(1);
-> > that entry to the dwelling-place is necessary for the administration or enforcement of this Act; and
-> > that the occupant does not consent to the entry, or that entry has been refused or there are reasonable grounds for believing that it will be refused.
-> > An inspector executing the warrant shall not use force unless the inspector is accompanied by a peace officer and the use of force is specifically authorized in the warrant.
 
 ### Section 46
 
@@ -1181,18 +991,9 @@ Section 38 of the Act is replaced by the following:
 
 ### Section 38
 
-  **(1)** The owner **or** person in charge of **a** place **referred to in subsection 35(1)** and every person found in **that** place shall **give** all assistance **that is reasonably required** to enable the inspector to **exercise their powers or perform their duties or functions under this Act, including by providing them** with **any documents or** information, **and access to any data**, that **they may** reasonably require **for that purpose and by complying with any order made by the inspector under subsection 35(2) or paragraph 39(2)(b)**.
+  **(1)** The owner or person in charge of a place referred to in subsection 35(1) and every person found in that place shall give all assistance that is reasonably required to enable the inspector to exercise their powers or perform their duties or functions under this Act, including by providing them with any documents or information, and access to any data, that they may reasonably require for that purpose and by complying with any order made by the inspector under subsection 35(2) or paragraph 39(2)(b).
 
-  **(2)** No person shall obstruct or hinder, or make a false or misleading statement **either orally or in writing** to, an inspector who is **exercising their powers or performing their** duties **or functions** under this Act.
-
-
-> **Explanatory Note**:
-> Existing text of section 38:
-> *Existing Text*:
-> > The owner of a place inspected by an inspector under this Act, the person in charge of the place and every person found in the place shall
-> > provide all reasonable assistance to enable the inspector to carry out the inspector's duties under this Act; and
-> > furnish the inspector with the information that the inspector reasonably requires for that purpose.
-> > No person shall obstruct or hinder, or knowingly make a false or misleading statement to, an inspector who is carrying out duties under this Act.
+  **(2)** No person shall obstruct or hinder, or make a false or misleading statement either orally or in writing to, an inspector who is exercising their powers or performing their duties or functions under this Act.
 
 ### Section 47
 
@@ -1200,23 +1001,15 @@ Section 39 of the Act is replaced by the following:
 
 ### Section 39
 
-  **(1)** An inspector may seize any thing — **including a** tobacco product or **vaping product — found in a place referred to in subsection 35(1), or a conveyance referred to in that subsection, that they have** reasonable grounds **to believe was used in the contravention of** this Act or **is something** in relation to which **the Act was** contravened.
+  **(1)** An inspector may seize any thing — including a tobacco product or vaping product — found in a place referred to in subsection 35(1), or a conveyance referred to in that subsection, that they have reasonable grounds to believe was used in the contravention of this Act or is something in relation to which the Act was contravened.
 
-  **(2)** **An** inspector **who seizes a thing or a conveyance** may
+  **(2)** An inspector who seizes a thing or a conveyance may
 
     on notice to and at the expense of its owner or the person having possession, care or control of it at the time of its seizure, store it or move it; or
 
     order its owner or the person having possession, care or control of it at the time of its seizure to, at their expense, store it or move it.
 
-  **(3)** Unless authorized by an inspector, no person shall remove, alter or interfere in any way with any thing or **conveyance** seized.
-
-
-> **Explanatory Note**:
-> Existing text of section 39:
-> *Existing Text*:
-> > During an inspection under this Act, an inspector may seize any tobacco product or other thing by means of which or in relation to which the inspector believes on reasonable grounds that this Act has been contravened.
-> > The inspector may direct that any tobacco product or thing seized be kept or stored in the place where it was seized or that it be removed to another place.
-> > Unless authorized by an inspector, no person shall remove, alter or interfere in any way with any tobacco product or other thing seized.
+  **(3)** Unless authorized by an inspector, no person shall remove, alter or interfere in any way with any thing or conveyance seized.
 
 ### Section 48
 
@@ -1224,21 +1017,21 @@ Section 39 of the Act is replaced by the following:
 
 ### Section 40
 
-      **(1)** Any person from whom a thing or **conveyance** was seized may, within 60 days after the date of seizure, apply to a provincial court judge within whose jurisdiction the seizure was made for an order of restoration, if the person sends a notice containing the prescribed information to the Minister within the prescribed time and in the prescribed manner.
+      **(1)** Any person from whom a thing or conveyance was seized may, within 60 days after the date of seizure, apply to a provincial court judge within whose jurisdiction the seizure was made for an order of restoration, if the person sends a notice containing the prescribed information to the Minister within the prescribed time and in the prescribed manner.
 
-      **(2)** The provincial court judge may order that the thing or **conveyance** be restored immediately to the applicant if, on hearing the application, the judge is satisfied
+      **(2)** The provincial court judge may order that the thing or conveyance be restored immediately to the applicant if, on hearing the application, the judge is satisfied
 
-        that the applicant is entitled to possession of the thing or **conveyance** seized; and
+        that the applicant is entitled to possession of the thing or conveyance seized; and
 
-        that the thing or **conveyance** seized is not and will not be required as evidence in any proceedings in respect of an offence under this Act.
+        that the thing or conveyance seized is not and will not be required as evidence in any proceedings in respect of an offence under this Act.
 
   **(2)** The portion of subsection 40(3) of the Act before paragraph (a) is replaced by the following:
 
-    **(3)** **If**, on hearing an application made under subsection (1), the provincial court judge is satisfied that the applicant is entitled to possession of the thing or **conveyance** seized but is not satisfied with respect to the matters mentioned in paragraph (2)(b), the judge may order that the thing or **conveyance** seized be restored to the applicant
+    **(3)** If, on hearing an application made under subsection (1), the provincial court judge is satisfied that the applicant is entitled to possession of the thing or conveyance seized but is not satisfied with respect to the matters mentioned in paragraph (2)(b), the judge may order that the thing or conveyance seized be restored to the applicant
 
   **(3)** Subsection 40(4) of the Act is replaced by the following:
 
-    **(4)** The provincial court judge **shall** not make an order under this section for restoration of a thing or **conveyance** if it has been forfeited by consent under subsection 41(3).
+    **(4)** The provincial court judge shall not make an order under this section for restoration of a thing or conveyance if it has been forfeited by consent under subsection 41(3).
 
 ### Section 49
 
@@ -1246,11 +1039,11 @@ Section 41 of the Act is replaced by the following:
 
 ### Section 41
 
-  **(1)** **If** no application has been made under subsection 40(1) for the restoration of a thing **or conveyance** seized under this Act within 60 days after the date of the seizure, or an application has been made but on the hearing of the application no order of restoration is made, the thing **or conveyance** is forfeited to Her Majesty **in right of Canada**.
+  **(1)** If no application has been made under subsection 40(1) for the restoration of a thing or conveyance seized under this Act within 60 days after the date of the seizure, or an application has been made but on the hearing of the application no order of restoration is made, the thing or conveyance is forfeited to Her Majesty in right of Canada.
 
-  **(2)** **If** a person has been convicted of an offence under this Act, any thing or **conveyance** seized under this Act by means of or in respect of which the offence was committed is forfeited to Her Majesty **in right of Canada**.
+  **(2)** If a person has been convicted of an offence under this Act, any thing or conveyance seized under this Act by means of or in respect of which the offence was committed is forfeited to Her Majesty in right of Canada.
 
-  **(3)** **If** an inspector has seized a thing or **conveyance** and the owner or the person in whose possession it was at the time of seizure consents in writing to its forfeiture, the thing or **conveyance** is forfeited to Her Majesty **in right of Canada**.
+  **(3)** If an inspector has seized a thing or conveyance and the owner or the person in whose possession it was at the time of seizure consents in writing to its forfeiture, the thing or conveyance is forfeited to Her Majesty in right of Canada.
 
   **(4)** A seized thing or conveyance that is forfeited may be disposed of, as the Minister directs, at the expense of its owner or the person who was entitled to possess it at the time of its seizure.
 
@@ -1266,38 +1059,18 @@ Section 41 of the Act is replaced by the following:
 
   **(2)** On production to the Federal Court, a certificate made under subsection (1) shall be registered in that Court and, when registered, has the same force and effect, and all proceedings may be taken on the certificate, as if it were a judgment obtained in that Court for a debt of the amount specified in the certificate and all reasonable costs and charges attendant in the registration of the certificate.
 
-
-> **Explanatory Note**:
-> Existing text of section 41:
-> *Existing Text*:
-> > Where no application has been made under subsection 40(1) for the restoration of a tobacco product or thing seized under this Act within sixty days after the date of the seizure, or an application has been made but on the hearing of the application no order of restoration is made, the product or thing is forfeited to Her Majesty and may be disposed of as the Minister directs.
-> > Where a person has been convicted of an offence under this Act, any tobacco product or thing seized under this Act by means of or in respect of which the offence was committed is forfeited to Her Majesty and may be disposed of as the Minister directs.
-> > Where an inspector has seized a tobacco product or thing and the owner or the person in whose possession it was at the time of seizure consents in writing to its forfeiture, the product or thing is forfeited to Her Majesty and may be destroyed or disposed of as the Minister directs.
-
 ### Section 50
 
 Section 42 of the Act is amended by adding the following after paragraph (b):
 
 respecting the costs in relation to anything required or authorized under section 39 or subsection 41(4);
 
-
-> **Explanatory Note**:
-> Relevant portion of section 42:
-> *Existing Text*:
-> > The Governor in Council may make regulations
-> > 
-
 ### Section 51
 
 The heading of Part V.1 of the Act is replaced by the following:
 
 
-## **Miscellaneous Provisions**
-
-
-> **Explanatory Note**:
-> Existing text of the heading:
-> *Existing Text*:
+## Miscellaneous Provisions
 
 ### Section 52
 
@@ -1305,11 +1078,11 @@ The heading of Part V.1 of the Act is replaced by the following:
 
 ### Section 42.1
 
-      **(1)** The Governor in Council **shall** not make a regulation **concerning tobacco products** under section 7, 14, 17, 33 or 42 unless the Minister has first laid the proposed regulation before the House of Commons.
+      **(1)** The Governor in Council shall not make a regulation concerning tobacco products under section 7, 14, 17, 33 or 42 unless the Minister has first laid the proposed regulation before the House of Commons.
 
   **(2)** The portion of subsection 42.1(3) of the Act before paragraph (a) is replaced by the following:
 
-    **(3)** The Governor in Council may make a regulation **concerning tobacco products** under section 7, 14, 17, 33 or 42 only if
+    **(3)** The Governor in Council may make a regulation concerning tobacco products under section 7, 14, 17, 33 or 42 only if
 
 ### Section 53
 
@@ -1339,10 +1112,6 @@ generally for carrying out the purposes of this Part.
 
 The limitation set out in paragraph 18.1(2)(a) of the `Statutory Instruments Act` to the effect that a document must be incorporated as it exists on a particular date does not apply to the powers to make regulations under sections 7, 7.8, 14, 17, 33, 42 and 42.4.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 54
 
 The Act is amended by adding the following after section 42.3:
@@ -1353,21 +1122,17 @@ The Act is amended by adding the following after section 42.3:
 
   **(2)** The manufacturer shall keep the documents at their place of business in Canada or at any prescribed place and shall, on written request, provide them to the Minister.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 55
 
 Sections 43 to 44 of the Act are replaced by the following:
 
 ### Section 43
 
-  **(1)** Every **manufacturer** who contravenes section 5, **7.2** or 19 is guilty of an offence and liable
+  **(1)** Every manufacturer who contravenes section 5, 7.2 or 19 is guilty of an offence and liable
 
-    on summary conviction to a fine not exceeding **$500,000** or to imprisonment for a term not exceeding one year, or to both; or
+    on summary conviction to a fine not exceeding $500,000 or to imprisonment for a term not exceeding one year, or to both; or
 
-    on conviction on indictment to a fine not exceeding **$1,000,000** or to imprisonment for a term not exceeding two years, or to both.
+    on conviction on indictment to a fine not exceeding $1,000,000 or to imprisonment for a term not exceeding two years, or to both.
 
   **(2)** Every person, other than a manufacturer, who contravenes section 19 is guilty of an offence and liable on summary conviction to a fine not exceeding $500,000.
 
@@ -1377,26 +1142,15 @@ Every manufacturer who contravenes subsection 5.1(1) or 5.2(1) is guilty of an o
 
 ### Section 43.2
 
-Every person, **other than a manufacturer**, who contravenes subsection 5.2(1) is guilty of an offence and liable on summary conviction to a fine not exceeding $50,000.
+Every person, other than a manufacturer, who contravenes subsection 5.2(1) is guilty of an offence and liable on summary conviction to a fine not exceeding $50,000.
 
 ### Section 44
 
-Every person who contravenes subsection 6(1) or (2), **section 6.1, subsection 7.3(1) or (2), section 7.5, subsection** 10(1), (2) or **(3) or** 26(1) or (2), **section 30.7** or subsection 31(1) or (3), **32(1) or (2)** or 38(1) or (2) is guilty of an offence and liable on summary conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding six months, or to both.
+Every person who contravenes subsection 6(1) or (2), section 6.1, subsection 7.3(1) or (2), section 7.5, subsection 10(1), (2) or (3) or 26(1) or (2), section 30.7 or subsection 31(1) or (3), 32(1) or (2) or 38(1) or (2) is guilty of an offence and liable on summary conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding six months, or to both.
 
 ### Section 44.1
 
-Every manufacturer who contravenes section **7.4** is guilty of an offence and liable on summary conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding six months, or to both.
-
-
-> **Explanatory Note**:
-> Existing text of sections 43 to 44:
-> *Existing Text*:
-> > Every person who contravenes section 5 or 19 is guilty of an offence and liable
-> > on summary conviction, to a fine not exceeding $100,000 or to imprisonment for a term not exceeding one year, or to both; or
-> > on conviction on indictment, to a fine not exceeding $300,000 or to imprisonment for a term not exceeding two years, or to both.
-> > Every manufacturer who contravenes subsection 5.1(1), 5.2(1) or 23.1(1) or (2) is guilty of an offence and liable on summary conviction to a fine not exceeding $300,000 or to imprisonment for a term not exceeding two years, or to both.
-> > Every retailer who contravenes subsection 5.2(1) or 23.1(2) is guilty of an offence and liable on summary conviction to a fine not exceeding $50,000.
-> > Every person who contravenes subsection 6(1) or (2), 10(1) or (2), 26(1) or (2) or 31(1) or (3), section 32 or subsection 38(1) or (2) is guilty of an offence and liable on summary conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding six months, or to both.
+Every manufacturer who contravenes section 7.4 is guilty of an offence and liable on summary conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding six months, or to both.
 
 ### Section 56
 
@@ -1440,13 +1194,7 @@ The portion of section 45 of the Act before paragraph (a) is replaced by the fol
 
 ### Section 45
 
-Every person who contravenes **subsection 8(1) or 9(1)** or section 11 or 12, or **every** retailer who contravenes section 29 **or 30.5 or subsection 30.6(1) or (2)**, is guilty of an offence and liable on summary conviction
-
-
-> **Explanatory Note**:
-> Relevant portion of section 45:
-> *Existing Text*:
-> > Every person who contravenes section 8, 9, 11 or 12, or any retailer who contravenes section 29, is guilty of an offence and liable on summary conviction
+Every person who contravenes subsection 8(1) or 9(1) or section 11 or 12, or every retailer who contravenes section 29 or 30.5 or subsection 30.6(1) or (2), is guilty of an offence and liable on summary conviction
 
 ### Section 61
 
@@ -1454,23 +1202,15 @@ Sections 46 and 47 of the Act are replaced by the following:
 
 ### Section 46
 
-  **(1)** Every retailer who contravenes subsection 15(1) or (2), **15.1(1) or (4) or 15.3(1) or (2)** is guilty of an offence and liable on summary conviction to a fine not exceeding $50,000.
+  **(1)** Every retailer who contravenes subsection 15(1) or (2), 15.1(1) or (4) or 15.3(1) or (2) is guilty of an offence and liable on summary conviction to a fine not exceeding $50,000.
 
-  **(2)** Every manufacturer who contravenes subsection 15(1) or (2), **15.1(1) or (4) or 15.3(1) or (2)**, section 29 **or 30.5 or subsection 30.6(1) or (2)** is guilty of an offence and liable on summary conviction to a fine not exceeding **$500,000** or to imprisonment for a term not exceeding two years, or to both.
+  **(2)** Every manufacturer who contravenes subsection 15(1) or (2), 15.1(1) or (4) or 15.3(1) or (2), section 29 or 30.5 or subsection 30.6(1) or (2) is guilty of an offence and liable on summary conviction to a fine not exceeding $500,000 or to imprisonment for a term not exceeding two years, or to both.
 
-  **(3)** Every person who contravenes subsection 15.1(2) or (3) is guilty of an offence and liable on summary conviction to a fine not exceeding **$500,000** or to imprisonment for a term not exceeding two years, or to both.
+  **(3)** Every person who contravenes subsection 15.1(2) or (3) is guilty of an offence and liable on summary conviction to a fine not exceeding $500,000 or to imprisonment for a term not exceeding two years, or to both.
 
 ### Section 47
 
-Every person who contravenes subsection **9.1**(1) or (2), 20**(1)**, 21(1), 22(1), **23(1) or (2), 23.1(1) or (2) or 24(1) or (2)**, section **25**, 27 **or 30.1, subsection 30.2(1) or 30.3(1) or (2) or section 30.4** is guilty of an offence and liable on summary conviction to a fine not exceeding **$500,000** or to imprisonment for a term not exceeding two years, or to both.
-
-
-> **Explanatory Note**:
-> Existing text of sections 46 and 47:
-> *Existing Text*:
-> > Every retailer who contravenes subsection 15(1) or (2) is guilty of an offence and liable on summary conviction to a fine not exceeding $50,000.
-> > Every manufacturer who contravenes subsection 15(1) or (2) or section 29 is guilty of an offence and liable on summary conviction to a fine not exceeding $300,000 or to imprisonment for a term not exceeding two years, or to both.
-> > Every person who contravenes subsection 13(1) or (2), section 20, subsection 21(1) or 22(1) or section 23 or 27 is guilty of an offence and liable on summary conviction to a fine not exceeding $300,000 or to imprisonment for a term not exceeding two years, or to both.
+Every person who contravenes subsection 9.1(1) or (2), 20(1), 21(1), 22(1), 23(1) or (2), 23.1(1) or (2) or 24(1) or (2), section 25, 27 or 30.1, subsection 30.2(1) or 30.3(1) or (2), section 30.4 or 30.701 is guilty of an offence and liable on summary conviction to a fine not exceeding $500,000 or to imprisonment for a term not exceeding two years, or to both.
 
 ### Section 62
 
@@ -1484,7 +1224,7 @@ Section 47 of the Act is replaced by the following:
 
 ### Section 47
 
-Every person who contravenes subsection 9.1(1) or (2) or 20(1), section 20.1, subsection 21(1), 22(1), 23(1) or (2), 23.1(1) or (2), 23.2(1) or (2) or 24(1) or (2), section 25, 27 or 30.1, subsection 30.2(1), 30.21(1) or 30.3(1) or (2), section 30.4 or 30.41, subsection 30.42(1) or 30.43(1) or (2), section 30.44, subsection 30.45(1) or (2), 30.46(1) or (2), 30.47(1) or (2) or 30.48(1) or (2) or section 30.71 is guilty of an offence and liable on summary conviction to a fine not exceeding $500,000 or to imprisonment for a term not exceeding two years, or to both.
+Every person who contravenes subsection 9.1(1) or (2) or 20(1), section 20.1, subsection 21(1), 22(1), 23(1) or (2), 23.1(1) or (2), 23.2(1) or (2) or 24(1) or (2), section 25, 27 or 30.1, subsection 30.2(1), 30.21(1) or 30.3(1) or (2), section 30.4 or 30.41, subsection 30.42(1) or 30.43(1) or (2), section 30.44, subsection 30.45(1) or (2), 30.46(1) or (2), 30.47(1) or (2) or 30.48(1) or (2) or section 30.701 or 30.71 is guilty of an offence and liable on summary conviction to a fine not exceeding $500,000 or to imprisonment for a term not exceeding two years, or to both.
 
 ### Section 64
 
@@ -1494,35 +1234,23 @@ The Act is amended by adding the following after section 48:
 
 A person is not to be found guilty of an offence under this Act if they establish that they exercised due diligence to prevent the commission of the offence.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 65
 
 Paragraphs 57(a) and (b) of the Act are replaced by the following:
 
-information on a package indicating that it contains a tobacco product **or vaping product** is, in the absence of evidence to the contrary, proof that the package contains **that** product; and
+information on a package indicating that it contains a tobacco product or vaping product is, in the absence of evidence to the contrary, proof that the package contains that product; and
 
-a name or address on a package purporting to be the name or address of the person by whom the tobacco product **or vaping product** was manufactured is, in the absence of evidence to the contrary, proof that it was manufactured by that person.
-
-
-> **Explanatory Note**:
-> Existing text of section 57:
-> *Existing Text*:
-> > In a prosecution for a contravention of this Act,
-> > information on a package indicating that it contains a tobacco product is, in the absence of evidence to the contrary, proof that the package contains a tobacco product; and
-> > a name or address on a package purporting to be the name or address of the person by whom the tobacco product was manufactured is, in the absence of evidence to the contrary, proof that it was manufactured by that person.
+a name or address on a package purporting to be the name or address of the person by whom the tobacco product or vaping product was manufactured is, in the absence of evidence to the contrary, proof that it was manufactured by that person.
 
 ### Section 66
 
   **(1)** Paragraph 59(b) of the Act is replaced by the following:
 
-    prohibiting the offender from selling tobacco products **and vaping products** for a period of not more than one year, in the case of a subsequent offence **for the contravention of subsection 8(1)** or section 11, 12, 29, **30.5 or 30.6**;
+    prohibiting the offender from selling tobacco products and vaping products for a period of not more than one year, in the case of a subsequent offence for the contravention of subsection 8(1) or section 11, 12, 29, 30.5 or 30.6;
 
   **(2)** Paragraph 59(f) of the Act is replaced by the following:
 
-    directing the offender to pay an amount for the purposes of conducting research into any matters relating to tobacco products **and vaping products** that the court considers appropriate.
+    directing the offender to pay an amount for the purposes of conducting research into any matters relating to tobacco products and vaping products that the court considers appropriate.
 
 ### Section 67
 
@@ -1530,19 +1258,44 @@ Subsection 60(1) of the Act is replaced by the following:
 
 ### Section 60
 
-  **(1)** The Minister may enter into agreements with provinces or other bodies respecting the administration and enforcement of this Act **or any provision of this Act**, including the designation of provincial or other officials and bodies as inspectors under this Act and the appointment of federal officials as inspectors under provincial legislation in respect of tobacco **and vaping products**.
+  **(1)** The Minister may enter into agreements with provinces or other bodies respecting the administration and enforcement of this Act or any provision of this Act, including the designation of provincial or other officials and bodies as inspectors under this Act and the appointment of federal officials as inspectors under provincial legislation in respect of tobacco and vaping products.
+
+### Section 67.1
+
+The Act is amended by adding the following after section 60:
 
 
-> **Explanatory Note**:
-> Existing text of subsection 60(1):
-> *Existing Text*:
-> > The Minister may enter into agreements with provinces or other bodies respecting the administration and enforcement of this Act, including the designation of provincial or other officials and bodies as inspectors under this Act and the appointment of federal officials as inspectors under provincial legislation in respect of tobacco.
+## Review of the Act
+
+### Section 60.1
+
+  **(1)** The Minister must, three years after the day on which this section comes into force and every two years after that, undertake a review of the provisions and operation of this Act.
+
+  **(2)** The Minister must, no later than one year after the day on which the review is undertaken, cause a report on the review to be tabled in each House of Parliament.
 
 ### Section 68
 
   **(1)** The schedule to the Act is renumbered as Schedule 1.
 
   **(2)** Schedule 1 to the French version of the Act is amended by replacing "Item" with "Article".
+
+  **(3)** Schedule 1 to the Act is amended
+
+    in Column 1 of item 1, by adding "(other than those set out in Column 1 of item 1.2)" after the word "flavour";
+
+    by adding item 1.2 after item 1.1;
+
+    in Column 1 in relation to item 1.2, by adding "Menthol, including l-menthol, and menthone, including l-menthone";
+
+    in Column 2 in relation to item 1.2, by adding "Tobacco products";
+
+    in Column 1 of item 9, by adding "(other than those set out in Column 1 of item 9.1)" after the word "herbs";
+
+    by adding item 9.1 after item 9;
+
+    in Column 1 in relation to item 9.1, by adding "Cloves"; and
+
+    in Column 2 in relation to item 9.1, by adding "Tobacco products".
 
 ### Section 69
 
@@ -1571,12 +1324,7 @@ section 23.1.
 The heading before section 2 of the `Food and Drugs Act` is replaced by the following:
 
 
-## Interpretation **and Application**
-
-
-> **Explanatory Note**:
-> Existing text of the heading:
-> *Existing Text*:
+## Interpretation and Application
 
 ### Section 72
 
@@ -1593,33 +1341,15 @@ This Act does not apply to a **tobacco product** as defined in section 2 of the 
   **(2)** Despite the definition **device** in section 2, this Act does not apply to a **vaping product** as defined in section 2 of the `Tobacco and Vaping Products Act` by reason that it is manufactured, sold or represented for use with a substance or mixture of substances that contains nicotine, unless the vaping product is manufactured, sold or represented for use in the diagnosis, treatment, mitigation or prevention of a disease, disorder or abnormal physical state, or its symptoms, in human beings.
 
 
-> **Explanatory Note**:
-> New.
-
-
 ### An Act to amend the Tobacco Act
 
 ### Section 73
 
 Section 7 of `An Act to amend the Tobacco Act`, chapter 27 of the Statutes of Canada, 2009, is repealed.
 
-
-> **Explanatory Note**:
-> Text of section 7:
-> *Existing Text*:
-> > *The Act is amended by adding the following after section 6*:
-> > Subject to the regulations, no manufacturer shall manufacture or sell a tobacco product unless all of the information required under section 6 that relates to the product's composition and ingredients is submitted to the Minister.
-
 ### Section 74
 
 Section 16 of the Act is repealed.
-
-
-> **Explanatory Note**:
-> Text of section 16:
-> *Existing Text*:
-> > *The Act is amended by adding the following after section 44*:
-> > Every manufacturer who contravenes section 6.1 is guilty of an offence and liable on summary conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding six months, or to both.
 
 
 ### Canada Consumer Product Safety Act
@@ -1628,27 +1358,21 @@ Section 16 of the Act is repealed.
 
 Subsection 4(2) of the `Canada Consumer Product Safety Act` is replaced by the following:
 
-**(2)** This Act **does not apply** to **a** **tobacco product** as defined in section 2 of the `Tobacco **and Vaping Products** Act`, **except** in respect of
+**(2)** This Act does not apply to a **tobacco product** as defined in section 2 of the `Tobacco and Vaping Products Act`, except in respect of
 
-  **the** ignition propensity of **that product; and**
+  the ignition propensity of that product; and
 
   the devices and parts referred to in that definition.
 
 **(2.1)** For greater certainty, the devices and parts referred to in paragraph (2)(b) do not include those made in whole or in part of tobacco.
 
-
-> **Explanatory Note**:
-> Existing text of subsection 4(2):
-> *Existing Text*:
-> > This Act applies to tobacco products as defined in section 2 of the `Tobacco Act` but only in respect of their ignition propensity.
-
 ### Section 76
 
 Items 3 and 4 of Schedule 1 to the Act are replaced by the following:
 
-**Devices** within the meaning of section 2 of the `Food and Drugs Act`, **except a **vaping product** within the meaning of section 2 of the `Tobacco and Vaping Products Act` that is not subject to the `Food and Drugs Act`**.
+**Devices** within the meaning of section 2 of the `Food and Drugs Act`, except a **vaping product** within the meaning of section 2 of the `Tobacco and Vaping Products Act` that is not subject to the `Food and Drugs Act`.
 
-**Drugs** within the meaning of section 2 of the `Food and Drugs Act`, **except a **vaping product** within the meaning of section 2 of the `Tobacco and Vaping Products Act` that is not subject to the `Food and Drugs Act`**.
+**Drugs** within the meaning of section 2 of the `Food and Drugs Act`, except a **vaping product** within the meaning of section 2 of the `Tobacco and Vaping Products Act` that is not subject to the `Food and Drugs Act`.
 
 
 ## Terminology
@@ -1748,18 +1472,13 @@ Items 3 and 4 of Schedule 1 to the Act are replaced by the following:
 
 The long title of the `Non-smokers' Health Act` is replaced by the following:
 
-
-> **Explanatory Note**:
-> Existing text of the long title:
-> *Existing Text*:
-
 ### Section 82
 
   **(1)** The definition **usage du tabac** in subsection 2(1) of the French version of the Act is repealed.
 
   **(2)** The definition **smoke** in subsection 2(1) of the English version of the Act is replaced by the following:
 
-    **smoke** means to smoke, hold or otherwise have control over an ignited tobacco product **or to vape using a vaping product**; (**fumer**)
+    **smoke** means to smoke, hold or otherwise have control over an ignited tobacco product or to vape using a vaping product; (**fumer**)
 
   **(3)** Subsection 2(1) of the Act is amended by adding the following in alphabetical order:
 
@@ -1779,13 +1498,7 @@ Section 6 of the Act is replaced by the following:
 
 ### Section 6
 
-Nothing in section 4 or 5 affects the operation of any other Act of Parliament, **any** regulations **made under any Act of Parliament,** or any rule of law in relation to the protection of persons from exposure to tobacco smoke **or any emission from a vaping product**.
-
-
-> **Explanatory Note**:
-> Existing text of section 6:
-> *Existing Text*:
-> > Nothing in section 4 or 5 affects the operation of any other Act of Parliament or regulations thereunder or any rule of law in relation to the protection of persons from exposure to tobacco smoke.
+Nothing in section 4 or 5 affects the operation of any other Act of Parliament, any regulations made under any Act of Parliament, or any rule of law in relation to the protection of persons from exposure to tobacco smoke or any emission from a vaping product.
 
 ### Section 84
 
@@ -1793,23 +1506,11 @@ Subsection 7(1) of the Act is amended by adding the following after paragraph (a
 
 designating any device to be a vaping product for the purpose of the definition **vaping product**;
 
-
-> **Explanatory Note**:
-> Relevant portion of subsection 7(1):
-> *Existing Text*:
-> > The Governor in Council may make regulations
-
 ### Section 85
 
 Subsection 8.2(2) of the Act is replaced by the following:
 
-**(2)** On the recommendation of the Minister of Labour, the Governor in Council may make regulations respecting **smoking** in a workplace at which is carried on employment that is subject to a regulation made **under** subsection (1).
-
-
-> **Explanatory Note**:
-> Existing text of subsection 8.2(2):
-> *Existing Text*:
-> > On the recommendation of the Minister of Labour, the Governor in Council may make regulations respecting the use of tobacco in a workplace at which is carried on employment that is subject to a regulation made pursuant to subsection (1).
+**(2)** On the recommendation of the Minister of Labour, the Governor in Council may make regulations respecting smoking in a workplace at which is carried on employment that is subject to a regulation made under subsection (1).
 
 In column 2, **prescription** has the same meaning as in subsection 13(2).
 
