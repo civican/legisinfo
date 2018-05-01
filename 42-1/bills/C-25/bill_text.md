@@ -188,7 +188,13 @@ anyone who is incapable;
 
   **(2)** Subsections 106(6) to (8) of the Act are replaced by the following:
 
-    **(6)** Despite subsections (2), (3) to (3.2) and (5), if directors are not elected at a meeting of shareholders, the incumbent directors continue in office until their successors are elected.
+    **(6)** Despite subsections (2), (3) to (3.2) and (5) and subject to subsection (6.1), if directors are not elected at a meeting of shareholders, the incumbent directors continue in office until their successors are elected.
+
+    **(6.1)** If an incumbent director who was a candidate in an election held in accordance with subsection (3.4) was not elected during the election, the director may continue in office until the earlier of
+
+      the 90th day after the day of the election; and
+
+      the day on which their successor is appointed or elected.
 
     **(7)** If, for either of the following reasons, a meeting of shareholders fails to elect the number or the minimum number of directors required by the articles, the directors elected at that meeting may exercise all the powers of the directors if the number of directors so elected constitutes a quorum:
 
@@ -309,7 +315,9 @@ The Act is amended by adding the following after section 172:
 
   **(1)** The directors of a prescribed corporation shall place before the shareholders, at every annual meeting, the prescribed information respecting diversity among the directors and among the **members of senior management** as defined by regulation.
 
-  **(2)** The corporation shall send the information referred to in subsection (1), along with the notice referred to in subsection 135(1), to each shareholder, except to a shareholder who has informed the corporation in writing that they do not want to receive that information. The corporation shall concurrently send the information to the Director.
+  **(2)** The corporation shall provide the information referred to in subsection (1) to each shareholder, except to a shareholder who has informed the corporation in writing that they do not want to receive that information, by sending the information along with the notice referred to in subsection 135(1) or by making the information available along with a proxy circular referred to in subsection 150(1).
+
+  **(3)** The corporation shall concurrently send the information referred to in subsection (1) to the Director.
 
 ### Section 25
 
@@ -649,6 +657,12 @@ is incapable; or
   **(1)** Section 83 of the Act is amended by adding the following after subsection (10):
 
     **(10.1)** If, at a meeting of persons who are entitled to elect or appoint directors of a distributing cooperative — other than in the case of a prescribed class of distributing cooperatives — at which an election of directors is required, there is only one candidate nominated for each position available on the board, each candidate is elected only if the number of votes cast in their favour represents a majority of the votes cast for and against them by those persons who are present in person or represented by proxy, unless the articles require a greater number of votes.
+
+    **(10.2)** Despite subsection (3) and paragraph 84(1)(b), if an incumbent director who was a candidate in an election held in accordance with subsection (10.1) was not elected during the election, the director may continue in office until the earlier of
+
+      the 90th day after the day of the election; and
+
+      the day on which their successor is appointed or elected.
 
   **(2)** Section 83 of the Act is amended by adding the following after subsection (11):
 
