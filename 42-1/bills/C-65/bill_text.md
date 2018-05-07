@@ -1,7 +1,5 @@
 # Bill C-65: An Act to amend the Canada Labour Code (harassment and violence), the Parliamentary Employment and Staff Relations Act and the Budget Implementation Act, 2017, No. 1
 
-**Sponsor**: MINISTER OF EMPLOYMENT, WORKFORCE DEVELOPMENT AND LABOUR
-
 ## Summary
 
 Part 1 of this enactment amends the `Canada Labour Code` to strengthen the existing framework for the prevention of harassment and violence, including sexual harassment and sexual violence, in the work place.
@@ -84,7 +82,7 @@ Section 122.1 of the Act is replaced by the following:
 
 ### Section 122.1
 
-The purpose of this Part is to prevent accidents, **occurrences of harassment and violence** and physical or psychological injuries and illnesses arising out of, linked with or occurring in the course of employment to which this Part applies.
+The purpose of this Part is to prevent accidents, occurrences of harassment and violence and physical or psychological injuries and illnesses arising out of, linked with or occurring in the course of employment to which this Part applies.
 
 ### Section 2
 
@@ -96,9 +94,9 @@ Section 123 of the Act is amended by adding the following after subsection (2):
 
   **(1)** Paragraphs 125(1)(c) to (e) of the Act are replaced by the following:
 
-    except as provided for in the regulations, investigate, record and report, in accordance with the regulations, all accidents, occurrences of harassment **and** violence, occupational illnesses and other hazardous occurrences known to the employer;
+    except as provided for in the regulations, investigate, record and report, in accordance with the regulations, all accidents, occurrences of harassment and violence, occupational illnesses and other hazardous occurrences known to the employer;
 
-    make readily available to employees, in printed **and** electronic form,
+    make readily available to employees, in printed and electronic form,
 
     a copy of this Part and a copy of the regulations made under this Part that apply to the work place,
 
@@ -136,7 +134,7 @@ de signaler, selon les modalités réglementaires, tout accident ou autre incide
 
 ### Section 5
 
-  **(1)** **Subsections** 127.1(1) **and (2)** of the Act **are** replaced by the following:
+  **(1)** Subsections 127.1(1) and (2) of the Act are replaced by the following:
 
 ### Section 127.1
 
@@ -150,15 +148,15 @@ de signaler, selon les modalités réglementaires, tout accident ou autre incide
 
   **(2)** The portion of subsection 127.1(3) of the Act before paragraph (a) is replaced by the following:
 
-    **(3)** The employee or the supervisor may refer an unresolved complaint, other than a complaint relating to an occurrence of harassment **and** violence, to a chairperson of the work place committee or to the health and safety representative to be investigated jointly
+    **(3)** The employee or the supervisor may refer an unresolved complaint, other than a complaint relating to an occurrence of harassment and violence, to a chairperson of the work place committee or to the health and safety representative to be investigated jointly
 
   **(3)** Subsection 127.1(8) of the Act is amended by striking out "or" at the end of paragraph (b), by adding "or" at the end of paragraph (c) and by adding the following after paragraph (c):
 
-    in the case of a complaint relating to an occurrence of harassment **and** violence, the employee and the supervisor **or designated person, as the case may be**, failed to resolve the complaint between themselves.
+    in the case of a complaint relating to an occurrence of harassment and violence, the employee and the supervisor or designated person, as the case may be, failed to resolve the complaint between themselves.
 
   **(4)** Subsection 127.1(9) of the Act is replaced by the following:
 
-    **(9)** The Minister shall investigate the complaint referred to in subsection (8) unless it relates to an occurrence of harassment **and** violence and the Minister is of the opinion that
+    **(9)** The Minister shall investigate the complaint referred to in subsection (8) unless it relates to an occurrence of harassment and violence and the Minister is of the opinion that
 
       the complaint has been adequately dealt with according to a procedure provided for under this Act, any other Act of Parliament or a collective agreement; or
 
@@ -166,7 +164,7 @@ de signaler, selon les modalités réglementaires, tout accident ou autre incide
 
     **(9.1)** If the Minister is of the opinion that the conditions described in paragraph (9)(a) or (b) are met, the Minister shall inform the employer and the employee in writing, as soon as feasible, that the Minister will not investigate.
 
-    **(9.2)** The Minister may combine an investigation into a complaint relating to an occurrence of harassment **and** violence with an ongoing investigation relating to the same employer and involving substantially the same issues and, in that case, the Minister may issue a single decision.
+    **(9.2)** The Minister may combine an investigation into a complaint relating to an occurrence of harassment and violence with an ongoing investigation relating to the same employer and involving substantially the same issues and, in that case, the Minister may issue a single decision.
 
   **(5)** Section 127.1 of the Act is amended by adding the following after subsection (11):
 
@@ -178,7 +176,7 @@ de signaler, selon les modalités réglementaires, tout accident ou autre incide
 
 Section 134.1 of the Act is amended by adding the following after subsection (4):
 
-**(4.1)** Despite paragraph (4)(d), a policy committee shall not participate in an investigation, other than an investigation under section 128 or 129, relating to an occurrence of harassment **and** violence in the work place.
+**(4.1)** Despite paragraph (4)(d), a policy committee shall not participate in an investigation, other than an investigation under section 128 or 129, relating to an occurrence of harassment and violence in the work place.
 
 ### Section 7
 
@@ -194,7 +192,7 @@ Section 134.1 of the Act is amended by adding the following after subsection (4)
 
   **(4)** Section 135 of the Act is amended by adding the following after subsection (7):
 
-    **(7.1)** Despite paragraph (7)(e), a work place committee shall not participate in an investigation, other than an investigation under section 128 or 129, relating to an occurrence of harassment **and** violence in the work place.
+    **(7.1)** Despite paragraph (7)(e), a work place committee shall not participate in an investigation, other than an investigation under section 128 or 129, relating to an occurrence of harassment and violence in the work place.
 
 ### Section 8
 
@@ -202,7 +200,7 @@ The Act is amended by adding the following after section 135.1:
 
 ### Section 135.11
 
-  **(1)** Neither the Minister nor an employer shall, without the person's consent, provide, under this Part, a policy committee or a work place committee with any information that is likely to reveal the identity of a person who was involved in an occurrence of harassment **and** violence in the work place. Neither a policy committee nor a work place committee shall have access to that information without the person's consent.
+  **(1)** Neither the Minister nor an employer shall, without the person's consent, provide, under this Part, a policy committee or a work place committee with any information that is likely to reveal the identity of a person who was involved in an occurrence of harassment and violence in the work place. Neither a policy committee nor a work place committee shall have access to that information without the person's consent.
 
   **(2)** Subsection (1) does not apply with respect to
 
@@ -220,7 +218,7 @@ requiring a committee to submit an annual report of its activities, containing t
 
 Section 136 of the Act is amended by adding the following after subsection (5):
 
-**(5.1)** Despite paragraph (5)(g), a health and safety representative shall not participate in an investigation, other than an investigation under section 128 or 129, relating to an occurrence of harassment **and** violence in the work place.
+**(5.1)** Despite paragraph (5)(g), a health and safety representative shall not participate in an investigation, other than an investigation under section 128 or 129, relating to an occurrence of harassment and violence in the work place.
 
 ### Section 11
 
@@ -228,7 +226,7 @@ The Act is amended by adding the following after section 136:
 
 ### Section 136.1
 
-  **(1)** Neither the Minister nor an employer shall, without the person's consent, provide, under this Part, a health and safety representative with any information that is likely to reveal the identity of a person who was involved in an occurrence of harassment **and** violence in the work place. A health and safety representative shall not have access to that information without the person's consent.
+  **(1)** Neither the Minister nor an employer shall, without the person's consent, provide, under this Part, a health and safety representative with any information that is likely to reveal the identity of a person who was involved in an occurrence of harassment and violence in the work place. A health and safety representative shall not have access to that information without the person's consent.
 
   **(2)** Subsection (1) does not apply with respect to
 
@@ -336,7 +334,7 @@ A request for an exemption under subsection 135(3) of the `Canada Labour Code`, 
 
 ### Section 20
 
-  **(1)** Sections **0.1** to 16 and 18 come into force on a day to be fixed by order of the Governor in Council.
+  **(1)** Sections 0.1 to 16 and 18 come into force on a day to be fixed by order of the Governor in Council.
 
   **(2)** Section `17` comes into force on a day to be fixed by order of the Governor in Council but that day must not be earlier than the day on which section 377 of the `Budget Implementation Act, 2017, No. 1` comes into force.
 
