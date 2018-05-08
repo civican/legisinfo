@@ -1,5 +1,7 @@
 # Bill C-374: An Act to amend the Historic Sites and Monuments Act (composition of the Board)
 
+Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act to amend the Historic Sites and Monuments Act (composition of the Board)*".
+
 ## Summary
 
 This enactment amends the `Historic Sites and Monuments Act` to increase the number of members of the Historic Sites and Monuments Board of Canada and to provide for First Nations, Inuit and Métis representation on the Board. It also modifies the en­titlements of Board members.
@@ -12,19 +14,19 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ### Section 4
 
-      **(1)** There is established a Board, to be called the Historic Sites and Monuments Board of Canada, consisting of **up to** 19 members as follows:
+      **(1)** There is established a Board, to be called the Historic Sites and Monuments Board of Canada, consisting of up to 19 members as follows:
 
-      **(2)** Subsection 4(1) of the Act is amended by striking out "and" at the end of paragraph (c) and by **replacing** paragraph (d) **with** the following:
+      **(2)** Subsection 4(1) of the Act is amended by striking out "and" at the end of paragraph (c) and by replacing paragraph (d) with the following:
 
         one representative — who may be a person referred to in any of paragraphs (a) to (c) or a person appointed under paragraph (e) — for each province or territory, to be appointed by the Governor in Council; and
 
-        **one representative — who may be a person referred to in any of paragraphs (a) to (c) or a person appointed under paragraph (d) — for each of the following**, to be appointed by the Governor in Council:
+        one representative — who may be a person referred to in any of paragraphs (a) to (c) or a person appointed under paragraph (d) — for each of the following, to be appointed by the Governor in Council:
 
-        First **Nations**,
+        First Nations,
 
-        **the** Inuit, and
+        the Inuit, and
 
-        **the** Métis.
+        the Métis.
 
       **(3)** Section 4 of the Act is amended by adding the following after subsection (2):
 
@@ -52,7 +54,7 @@ Section 8 of the Act is replaced by the following:
 
   **(1)** Each member of the Board appointed by the Governor in Council is to be paid the remuneration that is fixed by the Governor in Council.
 
-  **(2)** Members of the Board are to be paid, in accordance with Treasury Board directives, travel and living expenses incurred **in connection with the business of the Board** while absent from their ordinary place of residence.
+  **(2)** Members of the Board are to be paid, in accordance with Treasury Board directives, travel and living expenses incurred in connection with the business of the Board while absent from their ordinary place of residence.
 
-  **(3)** The Chair of the Board and each member of the Board appointed by the Governor in Council are to **be paid expenses** fixed by the Governor in Council that are incurred **for** administrative **assistance in connection with the business of the Board**.
+  **(3)** The Chair of the Board and each member of the Board appointed by the Governor in Council are to be paid expenses fixed by the Governor in Council that are incurred for administrative assistance in connection with the business of the Board.
 
