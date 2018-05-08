@@ -1,7 +1,5 @@
 # Bill C-48: An Act respecting the regulation of vessels that transport crude oil or persistent oil to or from ports or marine installations located along British Columbia's north coast
 
-**Sponsor**: MINISTER OF TRANSPORT
-
 ## Summary
 
 This enactment enacts the `Oil Tanker Moratorium Act`, which prohibits oil tankers that are carrying more than 12 500 metric tons of crude oil or persistent oil as cargo from stopping, or unloading crude oil or persistent oil, at ports or marine installations located along British Columbia's north coast from the northern tip of Vancouver Island to the Alaska border. The Act prohibits loading if it would result in the oil tanker carrying more than 12 500 metric tons of those oils as cargo.
