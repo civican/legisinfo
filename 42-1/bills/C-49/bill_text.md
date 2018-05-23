@@ -457,7 +457,7 @@ a corporation or entity that is incorporated or formed under the laws of Canada 
 
 no more than 25% of the voting interests are owned directly or indirectly by any single non-Canadian, either individually or in affiliation with another person, and
 
-no more than 25% of the voting interests are owned by one or more non-Canadians authorized to provide an air service in any jurisdiction, either individually or in affiliation with another person; (**Canadien**)
+no more than 25% of the voting interests are owned directly or indirectly by one or more non-Canadians authorized to provide an air service in any jurisdiction, either individually or in affiliation with another person; (**Canadien**)
 
 ### Section 16
 
@@ -587,7 +587,9 @@ The heading before section 106 and sections 106 to 110 of the Act are repealed.
 
   **(2)** Section 116 of the Act is amended by adding the following after subsection (1):
 
-    **(1.1)** The Agency shall allow a company at least 20 days to file an answer and at least 10 days for a complainant to file a reply.
+    **(1.1)** For the purpose of an investigation conducted under subsection (1), the Agency shall allow a company at least 20 days to file an answer and at least 10 days for a complainant to file a reply.
+
+    **(1.11)** The Agency may, with the authorization of the Minister and subject to any terms and conditions that the Minister considers appropriate, of its own motion, conduct an investigation to determine whether a railway company is fulfilling its service obligations. The Agency shall conduct the investigation as expeditiously as possible and make its determination within 90 days after the investigation begins.
 
     **(1.2)** The Agency shall determine that a company is fulfilling its service obligations if it is satisfied that the company provides the highest level of service in respect of those obligations that it can reasonably provide in the circumstances, having regard to the following considerations:
 
@@ -712,7 +714,7 @@ No later than August 31 of every year, a railway company shall provide to the Ag
 
   **(1)** A shipper may apply to the Agency for a long-haul interswitching order against a railway company that is a class 1 rail carrier if
 
-    the shipper has access to the lines of only that railway company at the point of origin or destination of the movement of the shipper's traffic;
+    the shipper has access to the lines of only that railway company at the point of origin or destination of the movement of the shipper's traffic in the reasonable direction of the traffic and its destination;
 
     a continuous route between those points is operated by two or more railway companies;
 
@@ -724,7 +726,7 @@ No later than August 31 of every year, a railway company shall provide to the Ag
 
   **(3)** A shipper is not entitled to apply to the Agency for a long-haul interswitching order
 
-    if the point of origin or destination that is served exclusively by the local carrier is within a radius of 30 km, or a prescribed greater distance, of an interchange in Canada;
+    if the point of origin or destination that is served exclusively by the local carrier is within a radius of 30 km, or a prescribed greater distance, of an interchange in Canada that is in the reasonable direction of the shipper's traffic and its destination;
 
     if the point of origin or destination that is served exclusively by the local carrier or the nearest interchange is located within the Quebec–Windsor corridor or the Vancouver–Kamloops corridor;
 
@@ -1263,6 +1265,14 @@ subsections 155.7(1) and (2); and
 
 paragraph 155.84(1)(c).
 
+### Section 59.1
+
+  **(1)** Schedule II to the Act is amended by replacing "Bean (except soybean) derivatives (flour, protein, isolates, fibre)" with "Bean (including soybean) derivatives (flour, protein, isolates, fibre)".
+
+  **(2)** Schedule II to the Act is amended by replacing "Beans (except soybeans), including faba beans, splits and screenings" with "Beans, including soybeans, faba beans, splits and screenings".
+
+  **(3)** Schedule II to the Act is amended by adding, in alphabetical order, "Meal, soybean", "Meal, oil cake, soybean", "Oil, soybean" and "Oil cake, soybean".
+
 
 ## CN Commercialization Act
 
@@ -1370,7 +1380,7 @@ The Act is amended by adding the following after section 17.9:
 
     respecting the recording instruments with which the railway equipment is to be fitted, including their specifications, installation and maintenance;
 
-    respecting the information that companies record using those instruments, including the recording of that information, its collection, its preservation, its use, its communication — including on request by the Minister — its selection and access to it; and
+    respecting the information that companies record using those instruments, including the recording of that information, its collection, its preservation, its destruction, its use, its communication — including on request by the Minister — its selection and access to it; and
 
     prescribing threats to the safety of railway operations for the purpose of subsection 17.91(3).
 
@@ -1781,7 +1791,7 @@ Subsection 15(1) of the Act is replaced by the following:
 
     paragraph 129(3)(a) of the `Canada Transportation Act` is replaced by the following:
 
-    if the point of origin or destination that is served exclusively by the local carrier is within a radius of 30 km of an interchange in Canada;
+    if the point of origin or destination that is served exclusively by the local carrier is within a radius of 30 km of an interchange in Canada that is in the reasonable direction of the shipper's traffic and its destination;
 
     paragraph 135(1)(a) of the `Canada Transportation Act` is replaced by the following:
 
