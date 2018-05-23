@@ -43,6 +43,8 @@ Replacement of "`Tobacco Act`" — Act
 
 *2014, c. 20*
 
+Bill C-45
+
 
 ### Coming into Force
 
@@ -412,11 +414,15 @@ Section 13 of the Act is replaced by the following:
 
     a **device**, within the meaning of section 2 of the `Food and Drugs Act,` that is the subject of an authorization issued under that Act authorizing its sale for use with a prescription vaping product.
 
-  **(2)** In this section, **prescription**, in respect of a vaping product, means that the product
+  **(2)** In this section, **prescription**, in respect of a vaping product, means
 
-    contains a drug that is set out in the prescription drug list, as amended from time to time, established under subsection 29.1(1) of the `Food and Drugs Act`, or a drug that is part of a class of drugs that is set out in that list; and
+    that the product
 
-    is the subject of an authorization issued under that Act authorizing its sale.
+    contains a drug that is set out in the prescription drug list, as amended from time to time, established under subsection 29.1(1) of the `Food and Drugs Act`, or a drug that is part of a class of drugs that is set out in that list, and
+
+    is the subject of an authorization issued under that Act authorizing its sale; or
+
+    that the product contains a **controlled substance**, as defined in subsection 2(1) of the `Controlled Drugs and Substances Act`, the sale or provision of which is authorized under that Act.
 
 ### Section 19
 
@@ -444,11 +450,11 @@ Section 13 of the Act is replaced by the following:
 
 ### Section 15
 
-      **(1)** No manufacturer or retailer shall sell a tobacco product unless the package containing it displays, in the prescribed form and manner, the information required by the regulations about the product and its emissions, and about the health hazards and health effects arising from the use of the product and from its emissions.
+      **(1)** No manufacturer or retailer shall sell a tobacco product unless the product and the  package containing it display, in the prescribed form and manner, the information required by the regulations about the product and its emissions, and about the health hazards and health effects arising from the use of the product and from its emissions.
 
   **(2)** Section 15 of the Act is amended by adding the following after subsection (1):
 
-    **(1.1)** No manufacturer shall package a tobacco product unless the package containing it displays, in the prescribed form and manner, the information required by the regulations about the product and its emissions and about the health hazards and health effects arising from the use of the product and from its emissions.
+    **(1.1)** No manufacturer shall package a tobacco product unless the product and the package containing it display, in the prescribed form and manner, the information required by the regulations about the product and its emissions and about the health hazards and health effects arising from the use of the product and from its emissions.
 
   **(3)** Subsections 15(2) and (3) of the Act are replaced by the following:
 
@@ -486,7 +492,7 @@ For greater certainty, this Part does not affect any obligation of a manufacture
 
 Paragraph 17(a) of the Act is replaced by the following:
 
-respecting the information that must appear on tobacco product packages and in leaflets about tobacco products and their emissions and about the health hazards and health effects arising from the use of the products and from their emissions;
+respecting the information that must appear on tobacco products and tobacco product packages and in leaflets about tobacco products and their emissions and about the health hazards and health effects arising from the use of the products and from their emissions;
 
 respecting the information that must appear on vaping products or on vaping product packages and in leaflets or on tags about vaping products and their emissions and about the health hazards and health effects arising from the use of the products and from their emissions;
 
@@ -605,6 +611,10 @@ The Act is amended by adding the following after section 23.1:
 
   **(2)** No person shall sell a tobacco product if a vaping product-related brand element is displayed on its package.
 
+### Section 23.3
+
+No person shall promote or sell a device that is a tobacco product or a part that may be used with such a device, whether or not the device or part contains tobacco, if the device or part has an appearance, shape or other sensory attribute or a function for which there are reasonable grounds to believe that it could make the device or part appealing to young persons.
+
 ### Section 33
 
 Sections 24 and 25 of the Act are replaced by the following:
@@ -676,13 +686,7 @@ No person shall promote a vaping product, a vaping product-related brand element
 
 ### Section 30.2
 
-  **(1)** No person shall promote a vaping product, a vaping product-related brand element or a thing that displays a vaping product-related brand element by means of lifestyle advertising.
-
-  **(2)** Subject to the regulations, a person may promote a vaping product, a vaping product-related brand element or a thing that displays a vaping product-related brand element by means of lifestyle advertising that is in
-
-    a publication that is addressed and sent to an adult who is identified by name; or
-
-    places where young persons are not permitted by law.
+No person shall promote a vaping product, a vaping product-related brand element or a thing that displays a vaping product-related brand element by means of lifestyle advertising.
 
 ### Section 30.3
 
@@ -879,8 +883,6 @@ The heading before section 33 of the Act is repealed.
 
     respecting signs that a retailer may post under subsection 30(2), including the placement of the signs and their number, size and content;
 
-    respecting, for the purposes of subsection 30.2(2), the promotion of vaping products and vaping product-related brand elements;
-
     respecting exceptions to the prohibition under section 30.5;
 
     respecting, for the purposes of section 30.7, the information about vaping products and their emissions and about the health hazards and health effects arising from the use of the products and from their emissions that must be conveyed in advertising;
@@ -897,7 +899,7 @@ The heading before section 33 of the Act is repealed.
 
     generally for carrying out the purposes of this Part.
 
-  **(5)** Section 33 of the Act is amended by adding the following after paragraph (f):
+  **(5)** Section 33 of the Act is amended by adding the following after paragraph (e):
 
     for the purposes of section 30.42, prohibiting or respecting the use of terms, expressions, logos, symbols or illustrations in order to prevent the public from being deceived or misled with respect to the health effects or health hazards of vaping products or their emissions;
 
@@ -905,7 +907,7 @@ The heading before section 33 of the Act is repealed.
 
     respecting, for the purposes of section 30.45, the packaging of vaping products, including by prohibiting the display of terms, expressions, logos, symbols or illustrations on the package that could be appealing to young persons;
 
-  **(6)** Paragraph 33(f.2) of the Act is replaced by the following:
+  **(6)** Paragraph 33(e.2) of the Act is replaced by the following:
 
     respecting exceptions to the prohibitions under subsections 30.43(1) and (2) and, for the purposes of subsection 30.43(1), what constitutes a health benefit;
 
@@ -1074,25 +1076,17 @@ The heading of Part V.1 of the Act is replaced by the following:
 
 ### Section 52
 
-  **(1)** Subsection 42.1(1) of the Act is replaced by the following:
-
-### Section 42.1
-
-      **(1)** The Governor in Council shall not make a regulation concerning tobacco products under section 7, 14, 17, 33 or 42 unless the Minister has first laid the proposed regulation before the House of Commons.
-
-  **(2)** The portion of subsection 42.1(3) of the Act before paragraph (a) is replaced by the following:
-
-    **(3)** The Governor in Council may make a regulation concerning tobacco products under section 7, 14, 17, 33 or 42 only if
+Section 42.1 of the Act is repealed.
 
 ### Section 53
 
-The Act is amended by adding the following after section 42.1:
+The Act is amended by adding the following before Part VI:
 
 ### Section 42.2
 
-  **(1)** The Governor in Council may make regulations providing that this Act or any provision of this Act does not apply in respect of some or all of the vaping products regulated under the `Food and Drugs Act`.
+  **(1)** The Governor in Council may make regulations providing that this Act or any provision of this Act does not apply in respect of some or all of the vaping products that are regulated under the `Food and Drugs Act` or that contain a **controlled substance**, as defined in subsection 2(1) of the `Controlled Drugs and Substances Act`.
 
-  **(2)** For greater certainty, the regulations may distinguish between vaping products on the basis of type of authorization, including type of licence, issued under the `Food and Drugs Act`.
+  **(2)** For greater certainty, the regulations may distinguish between vaping products on the basis of type of authorization, including type of licence, issued under the `Food  and Drugs Act`, or on the basis of type of licence, permit, authorization or exemption issued or granted under the `Controlled Drugs and Substances Act`.
 
 ### Section 42.3
 
@@ -1210,7 +1204,7 @@ Sections 46 and 47 of the Act are replaced by the following:
 
 ### Section 47
 
-Every person who contravenes subsection 9.1(1) or (2), 20(1), 21(1), 22(1), 23(1) or (2), 23.1(1) or (2) or 24(1) or (2), section 25, 27 or 30.1, subsection 30.2(1) or 30.3(1) or (2), section 30.4 or 30.701 is guilty of an offence and liable on summary conviction to a fine not exceeding $500,000 or to imprisonment for a term not exceeding two years, or to both.
+Every person who contravenes subsection 9.1(1) or (2), 20(1), 21(1), 22(1), 23(1) or (2), 23.1(1) or (2) or 24(1) or (2), section 25, 27, 30.1 or 30.2, subsection 30.3(1) or (2), section 30.4 or 30.701 is guilty of an offence and liable on summary conviction to a fine not exceeding $500,000 or to imprisonment for a term not exceeding two years, or to both.
 
 ### Section 62
 
@@ -1224,7 +1218,7 @@ Section 47 of the Act is replaced by the following:
 
 ### Section 47
 
-Every person who contravenes subsection 9.1(1) or (2) or 20(1), section 20.1, subsection 21(1), 22(1), 23(1) or (2), 23.1(1) or (2), 23.2(1) or (2) or 24(1) or (2), section 25, 27 or 30.1, subsection 30.2(1), 30.21(1) or 30.3(1) or (2), section 30.4 or 30.41, subsection 30.42(1) or 30.43(1) or (2), section 30.44, subsection 30.45(1) or (2), 30.46(1) or (2), 30.47(1) or (2) or 30.48(1) or (2) or section 30.701 or 30.71 is guilty of an offence and liable on summary conviction to a fine not exceeding $500,000 or to imprisonment for a term not exceeding two years, or to both.
+Every person who contravenes subsection 9.1(1) or (2) or 20(1), section 20.1, subsection 21(1), 22(1), 23(1) or (2), 23.1(1) or (2) or 23.2(1) or (2), section 23.3, subsection 24(1) or (2), section 25, 27, 30.1 or 30.2, subsection 30.21(1) or 30.3(1) or (2), section 30.4 or 30.41, subsection 30.42(1) or 30.43(1) or (2), section 30.44, subsection 30.45(1) or (2), 30.46(1) or (2), 30.47(1) or (2) or 30.48(1) or (2) or section 30.701 or 30.71 is guilty of an offence and liable on summary conviction to a fine not exceeding $500,000 or to imprisonment for a term not exceeding two years, or to both.
 
 ### Section 64
 
@@ -1287,7 +1281,7 @@ The Act is amended by adding the following after section 60:
 
     in Column 1 in relation to item 1.2, by adding "Menthol, including l-menthol, and menthone, including l-menthone";
 
-    in Column 2 in relation to item 1.2, by adding "Tobacco products";
+    in Column 2 in relation to item 1.2, by adding "Tobacco products, except those that are manufactured or sold for export";
 
     in Column 1 of item 9, by adding "(other than those set out in Column 1 of item 9.1)" after the word "herbs";
 
@@ -1295,7 +1289,183 @@ The Act is amended by adding the following after section 60:
 
     in Column 1 in relation to item 9.1, by adding "Cloves"; and
 
-    in Column 2 in relation to item 9.1, by adding "Tobacco products".
+    in Column 2 in relation to item 9.1, by adding "Tobacco products, except those that are manufactured or sold for export".
+
+  **(4)** The schedule to the Act is amended by replacing the portion of items 1 to 13 in column 2 with the following:
+
+    *1*
+
+    Except those that are manufactured or sold for export, the following:
+
+    *(1)* Cigarettes
+
+    *(2)* Cigars that have a wrapper that is not fitted in spiral form, cigars that have tipping paper and little cigars
+
+    *(3)* Blunt wraps
+
+    *1.1*
+
+    Cigars that have a wrapper fitted in spiral form and that weigh more than 1.4 g but not more than 6 g, excluding the weight of any mouthpiece or tip, other than those referred to in item 1 and those that are manufactured or sold for export
+
+    *2*
+
+    Except those that are manufactured or sold for export, the following:
+
+    *(1)* Cigarettes
+
+    *(2)* Little cigars
+
+    *(3)* All other cigars, except those that weigh more than 6 g excluding the weight of any mouthpiece or tip, have a wrapper fitted in spiral form and do not have tipping paper
+
+    *(4)* Blunt wraps
+
+    *3*
+
+    Except those that are manufactured or sold for export, the following:
+
+    *(1)* Cigarettes
+
+    *(2)* Little cigars
+
+    *(3)* All other cigars, except those that weigh more than 6 g excluding the weight of any mouthpiece or tip, have a wrapper fitted in spiral form and do not have tipping paper
+
+    *(4)* Blunt wraps
+
+    *4*
+
+    Cigarettes, except those that are manufactured or sold for export
+
+    *4.1*
+
+    Blunt wraps, except those that are manufactured or sold for export
+
+    *4.2*
+
+    Cigars, except the following:
+
+    *(1)* Little cigars
+
+    *(2)* Cigars that have tipping paper
+
+    *(3)* Cigars that weigh more than 6 g excluding the weight of any mouthpiece or tip, have a wrapper fitted in spiral form and do not have tipping paper
+
+    *(4)* Cigars that are manufactured or sold for export
+
+    *4.3*
+
+    Little cigars, except those that are manufactured or sold for export
+
+    *4.4*
+
+    Cigars that have tipping paper, except those that are manufactured or sold for export and little cigars
+
+    *5*
+
+    Except those that are manufactured or sold for export, the following:
+
+    *(1)* Cigarettes
+
+    *(2)* Little cigars
+
+    *(3)* All other cigars, except those that weigh more than 6 g excluding the weight of any mouthpiece or tip, have a wrapper fitted in spiral form and do not have tipping paper
+
+    *(4)* Blunt wraps
+
+    *6*
+
+    Except those that are manufactured or sold for export, the following:
+
+    *(1)* Cigarettes
+
+    *(2)* Little cigars
+
+    *(3)* All other cigars, except those that weigh more than 6 g excluding the weight of any mouthpiece or tip, have a wrapper fitted in spiral form and do not have tipping paper
+
+    *(4)* Blunt wraps
+
+    *7*
+
+    Except those that are manufactured or sold for export, the following:
+
+    *(1)* Cigarettes
+
+    *(2)* Little cigars
+
+    *(3)* All other cigars, except those that weigh more than 6 g excluding the weight of any mouthpiece or tip, have a wrapper fitted in spiral form and do not have tipping paper
+
+    *(4)* Blunt wraps
+
+    *8*
+
+    Except those that are manufactured or sold for export, the following:
+
+    *(1)* Cigarettes
+
+    *(2)* Little cigars
+
+    *(3)* All other cigars, except those that weigh more than 6 g excluding the weight of any mouthpiece or tip, have a wrapper fitted in spiral form and do not have tipping paper
+
+    *(4)* Blunt wraps
+
+    *9*
+
+    Except those that are manufactured or sold for export, the following:
+
+    *(1)* Cigarettes
+
+    *(2)* Little cigars
+
+    *(3)* All other cigars, except those that weigh more than 6 g excluding the weight of any mouthpiece or tip, have a wrapper fitted in spiral form and do not have tipping paper
+
+    *(4)* Blunt wraps
+
+    *10*
+
+    Except those that are manufactured or sold for export, the following:
+
+    *(1)* Cigarettes
+
+    *(2)* Little cigars
+
+    *(3)* All other cigars, except those that weigh more than 6 g excluding the weight of any mouthpiece or tip, have a wrapper fitted in spiral form and do not have tipping paper
+
+    *(4)* Blunt wraps
+
+    *11*
+
+    Except those that are manufactured or sold for export, the following:
+
+    *(1)* Cigarettes
+
+    *(2)* Little cigars
+
+    *(3)* All other cigars, except those that weigh more than 6 g excluding the weight of any mouthpiece or tip, have a wrapper fitted in spiral form and do not have tipping paper
+
+    *(4)* Blunt wraps
+
+    *12*
+
+    Except those that are manufactured or sold for export, the following:
+
+    *(1)* Cigarettes
+
+    *(2)* Little cigars
+
+    *(3)* All other cigars, except those that weigh more than 6 g excluding the weight of any mouthpiece or tip, have a wrapper fitted in spiral form and do not have tipping paper
+
+    *(4)* Blunt wraps
+
+    *13*
+
+    Except those that are manufactured or sold for export, the following:
+
+    *(1)* Cigarettes
+
+    *(2)* Little cigars
+
+    *(3)* All other cigars, except those that weigh more than 6 g excluding the weight of any mouthpiece or tip, have a wrapper fitted in spiral form and do not have tipping paper
+
+    *(4)* Blunt wraps
 
 ### Section 69
 
@@ -1356,15 +1526,21 @@ Section 16 of the Act is repealed.
 
 ### Section 75
 
-Subsection 4(2) of the `Canada Consumer Product Safety Act` is replaced by the following:
+  **(1)** Subsection 4(2) of the `Canada Consumer Product Safety Act` is replaced by the following:
 
-**(2)** This Act does not apply to a **tobacco product** as defined in section 2 of the `Tobacco and Vaping Products Act`, except in respect of
+    **(2)** This Act does not apply to a **tobacco product** as defined in section 2 of the `Tobacco and Vaping Products Act`, except in respect of
 
-  the ignition propensity of that product; and
+      the ignition propensity of that product; and
 
-  the devices and parts referred to in that definition.
+      the devices and parts referred to in that definition.
 
-**(2.1)** For greater certainty, the devices and parts referred to in paragraph (2)(b) do not include those made in whole or in part of tobacco.
+    **(2.1)** For greater certainty, the devices and parts referred to in paragraph (2)(b) do not include those made in whole or in part of tobacco.
+
+  **(2)** Section 4 of the Act is amended by adding the following after subsection (3):
+
+    **(4)** The `Consumer Chemicals and Containers Regulations, 2001` do not apply in respect of vaping products, within the meaning of paragraphs (a) to (c) of the definition **vaping product** in section 2 of the `Tobacco and Vaping Products Act`, unless those regulations are amended to expressly provide that they apply in respect of those products.
+
+  **(3)** Subsection 4(4) of the Act is repealed.
 
 ### Section 76
 
@@ -1446,6 +1622,18 @@ Items 3 and 4 of Schedule 1 to the Act are replaced by the following:
 
   **(3)** If section 366 of the other Act comes into force on the same day as section `53` of this Act, then that section `53` is deemed to have come into force before that section 366.
 
+### Section 79.1
+
+If Bill C-45, introduced in the 1st session of the 42nd Parliament and entitled `An Act respecting cannabis and to amend the Controlled Drugs and Substances Act, the Criminal Code and other Acts`, receives royal assent, then, on the first day on which both subsection 204(1) of that Act and section 3 of this Act are in force,
+
+the definition **accessory** in section 2 of the `Tobacco and Vaping Products Act` is replaced by the following:
+
+**accessory** means a product that may be used in the consumption of a tobacco product, including a pipe, cigarette holder, cigar clip, lighter and matches, and also means a water pipe. It does not include **cannabis accessories**, as defined in subsection 2(1) of the `Cannabis Act`. (**accessoire**)
+
+the portion of the definition **vaping product** in section 2 of the `Tobacco and Vaping Products Act` after paragraph (d) is replaced by the following:
+
+It does not include devices and substances or mixtures of substances that are excluded by the regulations, **cannabis**, as defined in subsection 2(1) of the `Cannabis Act`, **cannabis accessories**, as defined in that subsection, tobacco products or their accessories. (**produit de vapotage**)
+
 
 ## Coming into Force
 
@@ -1455,7 +1643,7 @@ Items 3 and 4 of Schedule 1 to the Act are replaced by the following:
 
   **(2)** Section `10`, subsection `11`(5) and section `59` come into force on a day to be fixed by order of the Governor in Council, but that day must be after the day on which this Act receives royal assent.
 
-  **(3)** Section `13`, subsection `20`(2), sections `27`, `32`, `37`, `38` and `40`, subsections `44`(2) and (5) and sections `56`, `62`, `63` and `68` to `70` come into force on the 180th day after the day on which this Act receives royal assent.
+  **(3)** Section `13`, subsection `20`(2), sections `27`, `32`, `37`, `38` and `40`, subsections `44`(2) and (5), sections `56`, `62` and `63`, subsections `68`(1) to (3) and sections `69` and `70` come into force on the 180th day after the day on which this Act receives royal assent.
 
   **(4)** Subsections `14`(2), `15`(2) and (3) and `19`(1) come into force on a day to be fixed by order of the Governor in Council, but that day must be after the day on which this Act receives royal assent.
 
@@ -1464,6 +1652,8 @@ Items 3 and 4 of Schedule 1 to the Act are replaced by the following:
   **(6)** Section `39` and subsection `44`(6) come into force on a day to be fixed by order of the Governor in Council, but that day must be after the 180th day after the day on which this Act receives royal assent.
 
   **(7)** Sections `54` and `58` come into force on a day to be fixed by order of the Governor in Council, but that day must be after the day on which this Act receives royal assent.
+
+  **(8)** Subsection `75`(3) comes into force on a day to be fixed by order of the Governor in Council.
 
 
 ## Non-smokers' Health Act
