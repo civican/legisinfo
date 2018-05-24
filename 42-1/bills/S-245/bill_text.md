@@ -1,5 +1,7 @@
 # Bill S-245: An Act to declare the Trans Mountain Pipeline Project and related works to be for the general advantage of Canada
 
+**Sponsor**: Senator Black
+
 ## Summary
 
 This enactment declares the Trans Mountain Pipeline Project and related works to be works for the general advantage of Canada.
