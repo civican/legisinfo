@@ -1,7 +1,5 @@
 # Bill C-57: An Act to amend the Federal Sustainable Development Act
 
-**Sponsor**: MINISTER OF ENVIRONMENT AND CLIMATE CHANGE
-
 His Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act to amend the Federal Sustainable Development Act*".
 
 ## Summary
@@ -57,15 +55,9 @@ is a continually evolving concept,
 
 may be achieved by, among other things, the protection of ecosystems, prevention of pollution, protection of human health, promotion of equity, conservation of cultural heritage, respect for domestic and international obligations relating to sustainable development and recognition of the present generation's responsibility to provide future generations with a healthy and ecologically sound environment, and
 
-**may be advanced by, among other things, taking into account** the precautionary principle, the "polluter pays" principle, the principle of internalization of costs and **the principle of continuous improvement**;
+may be advanced by, among other things, taking into account the precautionary principle, the "polluter pays" principle, the principle of internalization of costs and the principle of continuous improvement;
 
 the principle of intergenerational equity, which is the principle that it is important to meet the needs of the present generation without compromising the ability of future generations to meet their own needs;
-
-[*Deleted*]
-
-[*Deleted*]
-
-[*Deleted*]
 
 the principle of openness and transparency, which is the principle that the release of information should be encouraged to support accountability and public engagement;
 
@@ -85,7 +77,7 @@ Subsection 7(2) of the Act is replaced by the following:
 
 **(4)** The Minister shall cause the report to be tabled in each House of Parliament on any of the first 15 days on which that House is sitting after the Minister receives it.
 
-**(5)** A report that is tabled in a House of Parliament is deemed to be referred to the standing committee of that House that normally considers matters relating to **sustainable development**.
+**(5)** A report that is tabled in a House of Parliament is deemed to be referred to the standing committee of that House that normally considers matters relating to sustainable development.
 
 ### Section 5
 
@@ -103,11 +95,11 @@ Subsection 7(2) of the Act is replaced by the following:
 
     **(2.1)** The mandate of the Sustainable Development Advisory Council is to advise the Minister on any matter related to sustainable development that is referred to it by the Minister.
 
-    **(3)** The representatives appointed to the Sustainable Development Advisory Council may be paid **reasonable** expenses **incurred by them in connection with the business of the Council, subject to applicable Treasury Board dir­****ectives**.
+    **(3)** The representatives appointed to the Sustainable Development Advisory Council may be paid reasonable expenses incurred by them in connection with the business of the Council, subject to applicable Treasury Board dir­ectives.
 
 ### Section 6
 
-  ****(1)**** Subsections 9(1) and (2) of the Act are replaced by the following:
+  **(1)** Subsections 9(1) and (2) of the Act are replaced by the following:
 
 ### Section 9
 
@@ -127,7 +119,7 @@ Subsections 10(2) and (3) of the Act are replaced by the following:
 
 **(2)** The Minister shall cause the official Federal Sustainable Development Strategy to be tabled in each House of Parliament within the period referred to in subsection 9(1) or on any of the first 15 days on which that House is sitting after that period.
 
-**(3)** The Federal Sustainable Development Strategy that is tabled in a House of Parliament is deemed to be referred to the standing committee of that House that normally considers matters relating to **sustainable development**.
+**(3)** The Federal Sustainable Development Strategy that is tabled in a House of Parliament is deemed to be referred to the standing committee of that House that normally considers matters relating to sustainable development.
 
 ### Section 8
 
@@ -135,7 +127,7 @@ Sections 11 and 12 of the Act are replaced by the following:
 
 ### Section 10.1
 
-The Treasury Board may establish policies or issue directives applicable to one or more of the designated entities in relation to the **sustainable development** impact of their operations.
+The Treasury Board may establish policies or issue directives applicable to one or more of the designated entities in relation to the sustainable development impact of their operations.
 
 
 ## Sustainable Development Strategies of Designated Entities
@@ -184,7 +176,7 @@ The Treasury Board may establish policies or issue directives applicable to one 
 
 ### Section 12.1
 
-A sustainable development strategy or report that is tabled in a House of Parliament under section 11 or 12 is deemed to be referred to the standing committee of that House that normally considers matters relating to **sustainable development**.
+A sustainable development strategy or report that is tabled in a House of Parliament under section 11 or 12 is deemed to be referred to the standing committee of that House that normally considers matters relating to sustainable development.
 
 ### Section 12.2
 
@@ -207,7 +199,7 @@ The Act is amended by adding the following after section 13:
 
 ### Section 13.1
 
-  **(1)** The administration of this Act shall, every five years after the day on which this section comes into force, stand referred to any committee of the Senate or the House of Commons that normally considers matters relating to **sustainable development**, or of both Houses of Parliament, that may be designated or established for that purpose.
+  **(1)** The administration of this Act shall, every five years after the day on which this section comes into force, stand referred to any committee of the Senate or the House of Commons that normally considers matters relating to sustainable development, or of both Houses of Parliament, that may be designated or established for that purpose.
 
   **(2)** The committee designated or established for the purpose of subsection (1) shall, as soon as feasible, undertake a comprehensive review of the provisions and operation of this Act and shall, within one year after the review is undertaken or within any further time that the House of Commons, the Senate or both Houses of Parliament, as the case may be, may authorize, submit a report to Parliament, including a statement of any changes to this Act or its administration that the committee would recommend.
 
