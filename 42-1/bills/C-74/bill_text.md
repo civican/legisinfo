@@ -1,7 +1,5 @@
 # Bill C-74: An Act to implement certain provisions of the budget tabled in Parliament on February 27, 2018 and other measures
 
-**Sponsor**: MINISTER OF FINANCE
-
 Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act to implement certain provisions of the budget tabled in Parliament on February 27, 2018 and other measures*".
 
 ## Summary
@@ -8741,7 +8739,7 @@ For the purpose of collecting debts owed by a person to Her Majesty in right of 
 
   **(2)** For the purpose of ensuring that the pricing of greenhouse gas emissions is applied broadly in Canada at levels that the Governor in Council considers appropriate, the Governor in Council may, by regulation, amend Part 1 of Schedule 1, including by adding, deleting, varying or replacing any item or table.
 
-  **(3)** In making a regulation under subsection (2), the Governor in Council **shall** take into account, **as the primary** factor, the stringency of provincial pricing mechanisms for greenhouse gas emissions.
+  **(3)** In making a regulation under subsection (2), the Governor in Council shall take into account, as the primary factor, the stringency of provincial pricing mechanisms for greenhouse gas emissions.
 
   **(4)** The Governor in Council may, by regulation, amend Schedule 2 respecting the application of the fuel charge under this Part including by adding, deleting, varying or replacing a table.
 
@@ -9039,7 +9037,7 @@ any other transaction specified in the regulations.
 
   **(1)** For the purpose of ensuring that the pricing of greenhouse gas emissions is applied broadly in Canada at levels that the Governor in Council considers appropriate, the Governor in Council may, by order, amend Part 2 of Schedule 1 by adding, deleting or amending the name of a province or the description of an area.
 
-  **(2)** In making an order under subsection (1), the Governor in Council **shall** take into account, **as the primary** factor, the stringency of provincial pricing mechanisms for greenhouse gas emissions.
+  **(2)** In making an order under subsection (1), the Governor in Council shall take into account, as the primary factor, the stringency of provincial pricing mechanisms for greenhouse gas emissions.
 
   **(3)** For greater certainty, an area referred to in subsection (1) may include a part of the exclusive economic zone of Canada or the continental shelf of Canada.
 
