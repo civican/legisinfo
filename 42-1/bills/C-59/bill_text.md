@@ -8,7 +8,9 @@ His Excellency the Governor General recommends to the House of Commons the appro
 
 Part 1 enacts the `National Security and Intelligence Review Agency Act`, which establishes the National Security and Intelligence Review Agency and sets out its composition, mandate and powers. It repeals the provisions of the `Canadian Security Intelligence Service Act` establishing the Security Intelligence Review Committee and amends that Act and other Acts in order to transfer certain powers, duties and functions to the new Agency. It also makes related and consequential amendments to other Acts.
 
-Part 2 enacts the `Intelligence Commissioner Act`, which provides that the duties and functions of the Intelligence Commissioner are to review the conclusions on the basis of which certain authorizations are issued or amended, and determinations are made, under the `Communications Security Establishment Act` and the `Canadian Security Intelligence Service Act` and to approve those authorizations, admendments and determinations if those conclusions are reasonable. This Part also abolishes the position of the Commissioner of the Communications Security Establishment, provides for that Commissioner to become the Intelligence Commissioner, transfers the employees of the former Commissioner to the office of the new Commissioner and makes related and consequential amendments to other Acts.
+Part 1.1 enacts the `Avoiding Complicity in Mistreatment by Foreign Entities Act` to authorize the issuance of directions respecting the disclosure of and request for information that would result in a substantial risk of mistreatment of an individual by a foreign entity and the use of information that is likely to have been obtained as the result of mistreatment of an individual by a foreign entity.
+
+Part 2 enacts the `Intelligence Commissioner Act`, which provides that the duties and functions of the Intelligence Commissioner are to review the conclusions on the basis of which certain authorizations are issued or amended, and determinations are made, under the `Communications Security Establishment Act` and the `Canadian Security Intelligence Service Act` and to approve those authorizations, amendments and determinations if those conclusions are reasonable. This Part also abolishes the position of the Commissioner of the Communications Security Establishment, provides for that Commissioner to become the Intelligence Commissioner, transfers the employees of the former Commissioner to the office of the new Commissioner and makes related and consequential amendments to other Acts.
 
 Part 3 enacts the `Communications Security Establishment Act`, which establishes the Communications Security Establishment and, among other things, sets out the Establishment's mandate as well as the regime for authorizing its activities. It also amends the `National Defence Act` and makes consequential amendments to other Acts.
 
@@ -147,6 +149,19 @@ Commencement of proceedings
 Part 3 of the Act
 
 Bill C-22
+
+
+## `Avoiding Complicity in Mistreatment by Foreign Entities`
+
+
+### Avoiding Complicity in Mistreatment by Foreign Entities Act
+
+Enactment of Act
+
+
+## Coordinating Amendments
+
+Part 1.1 of this Act
 
 
 ## `Intelligence Commissioner`
@@ -320,6 +335,11 @@ Proceedings continued
 No report for year before coming into force
 
 
+### Section 83.3 of the Criminal Code
+
+Application
+
+
 ### Consequential Amendment to the `Corrections and Conditional Release Act`
 
 Amendment
@@ -347,11 +367,15 @@ Order in council
 
 Order in council
 
+Order in council
+
 Whereas a fundamental responsibility of the Government of Canada is to protect Canada's national security and the safety of Canadians;
 
 Whereas that responsibility must be carried out in accordance with the rule of law and in a manner that safeguards the rights and freedoms of Canadians and that respects the `Canadian Charter of Rights and Freedoms`;
 
 Whereas the Government of Canada is committed to enhancing Canada's national security framework in order to keep Canadians safe while safeguarding their rights and freedoms;
+
+Whereas the Government of Canada, by carrying out its national security and information activities in a manner that respects rights and freedoms, encourages the international community to do the same;
 
 Whereas enhanced accountability and transparency are vital to ensuring public trust and confidence in Government of Canada institutions that carry out national security or intelligence activities;
 
@@ -408,7 +432,7 @@ with respect to a parent Crown corporation as defined in subsection 83(1) of the
 
 with respect to the Canadian Forces, the Minister of National Defence. (**ministre compétent**)
 
-**department** means, other than in subsections `42`(2) and `48`(2), a department named in Schedule I to the `Financial Administration Act`, a division or branch of the federal public administration  —  other than a review body and the office of the Intelligence Commissioner —  set out in column I of Schedule I.‍1 to that Act, a corporation named in Schedule II to that Act, a parent Crown corporation as defined in subsection 83(1) of that Act or the Canadian Forces. (**ministère**)
+**department** means, other than in **subsection** 42(2), a department named in Schedule I to the `Financial Administration Act`, a division or branch of the federal public administration  —  other than a review body and the office of the Intelligence Commissioner —  set out in column I of Schedule I.‍1 to that Act, a corporation named in Schedule II to that Act, a parent Crown corporation as defined in subsection 83(1) of that Act or the Canadian Forces. (**ministère**)
 
 **deputy head** means, except in section `42`,
 
@@ -477,6 +501,10 @@ The National Security and Intelligence Review Agency is established, consisting 
 
 Each member of the Review Agency is deemed to be an employee for the purposes of the `Government Employees Compensation Act` and to be employed in the federal public administration for the purposes of any regulations made under section 9 of the `Aeronautics Act`. Each full-time member of the Agency is also deemed to be employed in the public service for the purposes of the `Public Service Superannuation Act`.
 
+### Section 7.1
+
+Subject to this Act, the Review Agency may determine the procedure to be followed in the exercise of its powers or the performance of any of its duties or functions.
+
 
 ## Mandate
 
@@ -502,6 +530,14 @@ Each member of the Review Agency is deemed to be an employee for the purposes of
 
   **(2)** In the course of its review of activities carried out by the Canadian Security Intelligence Service, the Review Agency must, each calendar year, review at least one aspect of the Service's performance in taking measures to reduce threats to the security of Canada.
 
+  **(2.1)** The Review Agency must review the implementation of significant aspects of every new or modified ministerial direction that is issued to any of the following:
+
+    the Canadian Security Intelligence Service;
+
+    the Communications Security Establishment; and
+
+    any other department if the ministerial direction relates to national security or intelligence.
+
   **(3)** In the course of its reviews, the Review Agency may make any finding or recommendation that it considers appropriate, including findings and recommendations relating to
 
     a department's compliance with the law and any applicable ministerial directions; and
@@ -515,13 +551,13 @@ Each member of the Review Agency is deemed to be an employee for the purposes of
 
   **(1)** Despite any other Act of Parliament and subject to section `12`, the Review Agency is entitled, in relation to its reviews, to have access in a timely manner to any information that is in the possession or under the control of any department.
 
-  **(2)** Under subsection (1), the Review Agency is entitled to have access to information that is subject to solicitor-client privilege or the professional secrecy of advocates and notaries or to litigation privilege.
+  **(2)** Under subsection (1), the Review Agency is entitled to have access to information that is subject to **any priv­ilege under the law of evidence**, solicitor-client privilege or the professional secrecy of advocates and notaries or to litigation privilege.
 
   **(3)** For greater certainty, the disclosure to the Review Agency under this section of any information that is subject to solicitor-client privilege or the professional secrecy of advocates and notaries or to litigation privilege does not constitute a waiver of those privileges or that secrecy.
 
 ### Section 10
 
-Despite any other Act of Parliament and subject to section `12`, the Review Agency is entitled to have access in a timely manner to the following information:
+Despite any other Act of Parliament **and any privilege under the law of evidence** and subject to section 12, the Review Agency is entitled to have access in a timely manner to the following information:
 
 in relation to a complaint made under subsection `16`(1), any information that relates to the complaint and that is in the possession or under the control of the Canadian Security Intelligence Service or the Communications Security Establishment;
 
@@ -561,6 +597,15 @@ The Review Agency and the review body are to take all reasonable steps to cooper
   **(1)** The Review Agency may provide to the review body information that is obtained from — or that is created by the Agency from information obtained from — the Royal Canadian Mounted Police and that is related, in the Agency's opinion, to the fulfilment of the review body's mandate under subsection 45.34(1) of the `Royal Canadian Mounted Police Act`.
 
   **(2)** The Review Agency must not provide to the review body information that is referred to in subsection 45.42(1) of the `Royal Canadian Mounted Police Act`.
+
+
+## Coordination
+
+### Section 15.1
+
+  **(1)** When fulfilling its mandate under any of paragraphs 8(1)(a) to (c), the Review Agency may coordinate its activities with those of the Privacy Commissioner under subsection 37(1) of the `Privacy Act` to avoid any unnecessary duplication of work.
+
+  **(2)** The Review Agency may, to the extent that it considers it necessary for the purpose of subsection (1), provide the Privacy Commissioner with information concerning its reviews under any of paragraphs 8(1)(a) to (c).
 
 
 ## Complaints
@@ -650,6 +695,10 @@ to summon and enforce the appearance of persons before the Agency and to compel 
 to administer oaths; and
 
 to receive and accept the evidence and other information, whether on oath or by affidavit or otherwise, that the Agency considers appropriate, whether or not that evidence or information is or would be admissible in a court of law.
+
+### Section 27.1
+
+Despite any provision of this Act, the Review Agency must suspend an investigation if, after consultation with the appropriate department, the Agency is of the opinion that continuing the investigation would compromise or seriously hinder an ongoing criminal investigation or proceeding.
 
 ### Section 28
 
@@ -785,9 +834,7 @@ If the executive director is absent or incapacitated or the office of executive 
 
   **(2)** Nothing in the `Federal Public Sector Labour Relations Act` is to be construed so as to affect the right or authority of the executive director to deal with the matters referred to in subsection (1).
 
-  **(3)** The `Public Service Employment Act` does not apply with respect to the Secretariat, except for Part 7 of that Act.
-
-  **(4)** For the purposes of Part 7 of the `Public Service Employment Act`, the executive director is deemed to be a deputy head, and the Secretariat's employees are deemed to be employees, as defined in subsection 2(1) of that Act.
+  **(3)** Part 7 of the `Public Service Employment Act` **applies** to the executive director **and** the **Secretariat's employees**. For the purposes of that Part, the **executive director** is deemed to be a deputy head, and the Secretariat's employees are deemed to be employees, as defined in subsection 2(1) of that Act.
 
 ### Section 46
 
@@ -819,11 +866,7 @@ Before entering into collective bargaining with the bargaining agent for a barga
 
 ### Section 48
 
-  **(1)** For the purpose of deployments, appointments or advertised internal appointment processes under the `Public Service Employment Act`, employees of the Secretariat must be treated as if they were employees as defined in subsection 2(1) of that Act and had the rights of recourse provided by that Act.
-
-  **(2)** The Public Service Commission may, in consultation with the Treasury Board, set terms and conditions for the deployment of Secretariat employees to departments and agencies under the `Public Service Employment Act` if, in the opinion of the Commission, the principles governing the Secretariat's staffing program are incompatible with those governing staffing under that Act.
-
-  **(3)** When the Secretariat considers employees as defined in subsection 2(1) of the `Public Service Employment Act` for employment, it must treat them as if they were Secretariat employees and had the same rights of recourse.
+[*Deleted*]
 
 ### Section 49
 
@@ -867,6 +910,13 @@ A member or former member of the Review Agency, the executive director or a form
 ### Section 54
 
 The Review Agency must, if appropriate, consult with the department concerned in preparing any report referred to in sections `32` to `34` and `38` to `40` to ensure that the report does not contain information relating to the alleged contravention of any law of Canada or a province that, if it were to be disclosed to any Minister, may be seen to jeopardize the independence of a peace officer having jurisdiction to investigate the alleged contravention.
+
+
+## General
+
+### Section 54.1
+
+Nothing in this Act is to be construed as limiting the power of any body or person that is authorized under an Act of Parliament to conduct a review or investigation in relation to any activity of a department.
 
 
 ## Governor in Council Powers
@@ -985,7 +1035,7 @@ Schedule I to the Act is amended by adding the following in alphabetical order u
 
 Item 18 of the schedule to the `Canada Evidence Act` is replaced by the following:
 
-The National Security and Intelligence Review Agency, for the purposes of sections **16 to 19** of **the `National Security and Intelligence Review Agency Act`**, with the exception of any information provided to the **Agency** by the complainant or an individual who has been denied a security clearance
+The National Security and Intelligence Review Agency, for the purposes of sections 16 to 19 of the `National Security and Intelligence Review Agency Act`, with the exception of any information provided to the Agency by the complainant or an individual who has been denied a security clearance
 
 
 #### `Canadian Security Intelligence Service Act`
@@ -1025,15 +1075,15 @@ subsection 20(4).
 
 ### Section 19
 
-      **(1)** **The following definitions apply in** this section and sections 19.1, 19.2 and 20.
+      **(1)** The following definitions apply in this section and sections 19.1, 19.2 and 20.
 
-        **Review Agency** **means the National Security and Intelligence Review Agency**. (**Office de surveillance**)
+        **Review Agency** means the National Security and Intelligence Review Agency. (**Office de surveillance**)
 
-        **threats to the security of Canada** **has** the same **meaning** as in **section 2 of** the `Canadian Security Intelligence Service Act`. (**menaces envers la sécurité du Canada**)
+        **threats to the security of Canada** has the same meaning as in section 2 of the `Canadian Security Intelligence Service Act`. (**menaces envers la sécurité du Canada**)
 
   **(2)** Subsection 19(4) of the Act is replaced by the following:
 
-    **(4)** Where a report is made to the Review **Agency** pursuant to subsection (2), the Review **Agency** shall investigate the grounds on which it is based and for that purpose sections **10 to 12, 20, 25 to 28 and 30** of the **`National Security and Intelligence Review Agency Act`** apply, with **any necessary** modifications, to the investigation as if the investigation were conducted in relation to a complaint made **under subsection 18(3)** of that Act, except that a reference in any of those provisions to "deputy head" shall be read as a reference to the Minister.
+    **(4)** Where a report is made to the Review Agency pursuant to subsection (2), the Review Agency shall investigate the grounds on which it is based and for that purpose sections 10 to 12, 20, 25 to 28 and 30 of the `National Security and Intelligence Review Agency Act` apply, with any necessary modifications, to the investigation as if the investigation were conducted in relation to a complaint made under subsection 18(3) of that Act, except that a reference in any of those provisions to "deputy head" shall be read as a reference to the Minister.
 
 ### Section 25
 
@@ -1097,13 +1147,13 @@ and a corresponding reference in column II to "executive director".
 
 ### Section 45
 
-      **(1)** In this section and section 46, **Review Agency****means the National Security and Intelligence Review Agency**.
+      **(1)** In this section and section 46, **Review Agency** means the National Security and Intelligence Review Agency.
 
   **(2)** The Act is amended by replacing "Committee" with "Agency" in subsections 45(2) and (4).
 
   **(3)** Subsection 45(5) of the Act is replaced by the following:
 
-    **(5)** **If** a matter is referred to the Review **Agency under** paragraph (2)(b), sections **10 to 12, 20, 24 to 28 and 30** of the **`National Security and Intelligence Review Agency Act`** apply, with **any necessary** modifications, to the matter as if the referral were a complaint made **under subsection 18(3)** of that Act, except that a reference in any of those provisions to "deputy head" **is to be** read as a reference to the minister referred to in subsection (2).
+    **(5)** If a matter is referred to the Review Agency under paragraph (2)(b), sections 10 to 12, 20, 24 to 28 and 30 of the `National Security and Intelligence Review Agency Act` apply, with any necessary modifications, to the matter as if the referral were a complaint made under subsection 18(3) of that Act, except that a reference in any of those provisions to "deputy head" is to be read as a reference to the minister referred to in subsection (2).
 
   **(4)** The Act is amended by replacing "Committee" with "Agency" in subsection 45(6).
 
@@ -1113,7 +1163,7 @@ Subsection 46(1) of the Act is replaced by the following:
 
 ### Section 46
 
-  **(1)** On completion of its investigation under section 45, the Review **Agency** shall, not later than **90** days after the matter is referred to it **under** paragraph 45(2)(b), provide the Commission, the minister referred to in subsection 45(2), **the Director of the Canadian Security Intelligence Service** and the complainant with a report containing **the Agency's** findings. **On request of the Agency, the Commission may extend the time for providing a report.**
+  **(1)** On completion of its investigation under section 45, the Review Agency shall, not later than 90 days after the matter is referred to it under paragraph 45(2)(b), provide the Commission, the minister referred to in subsection 45(2), the Director of the Canadian Security Intelligence Service and the complainant with a report containing the Agency's findings. On request of the Agency, the Commission may extend the time for providing a report.
 
 
 #### `Security of Information Act`
@@ -1136,7 +1186,7 @@ Subsection 46(1) of the Act is replaced by the following:
 
 Paragraph 15(5)(b) of the Act is replaced by the following:
 
-the person has, if he or she has not received a response from the deputy head or the Deputy Attorney General of Canada, as the case may be, within a reasonable time, brought his or her concern to and provided all relevant information in the person's possession to the **National** Security **and** Intelligence Review **Agency**, if the person's concern relates to an alleged offence that has been, is being or is about to be committed by another person in the purported performance of that person's duties and functions of service for, or on behalf of, the Government of Canada and he or she has not received a response from **that Agency** within a reasonable time.
+the person has, if he or she has not received a response from the deputy head or the Deputy Attorney General of Canada, as the case may be, within a reasonable time, brought his or her concern to and provided all relevant information in the person's possession to the National Security and Intelligence Review Agency, if the person's concern relates to an alleged offence that has been, is being or is about to be committed by another person in the purported performance of that person's duties and functions of service for, or on behalf of, the Government of Canada and he or she has not received a response from that Agency within a reasonable time.
 
 ### Section 37
 
@@ -1145,9 +1195,21 @@ The schedule to the Act is amended by adding the following in alphabetical order
 
 #### `Privacy Act`
 
+### Section 37.1
+
+Section 37 of the `Privacy Act` is amended by adding the following after subsection (4):
+
+**(5)** The Privacy Commissioner may coordinate his or her activities under subsection (1) with those of the National Security and Intelligence Review Agency under any of paragraphs 8(1)(a) to (c) of the `National Security and Intelligence Review Agency Act` to avoid any unnecessary duplication of work.
+
+### Section 37.2
+
+Section 64 of the Act is amended by adding the following after subsection (2):
+
+**(3)** The Privacy Commissioner may disclose or may authorize any person acting on behalf or under the direction of the Commissioner to disclose — to the extent that the Commissioner or the authorized person, as the case may be, considers necessary for the purpose of subsection 37(5) — information concerning the Commissioner's activities under subsection 37(1) to the National Security and Intelligence Review Agency.
+
 ### Section 38
 
-The schedule to the `Privacy Act` is amended by deleting, under the heading "Other Government Institutions", the reference to
+The schedule to the Act is amended by deleting, under the heading "Other Government Institutions", the reference to
 
 ### Section 39
 
@@ -1179,15 +1241,19 @@ Section 45.53 of the Act is amended by adding the following after subsection (4)
 
 **(4.1)** The Commission shall refuse to deal with a complaint concerning an activity that is closely related to national security and shall refer such a complaint to the National Security and Intelligence Review Agency.
 
+**(4.2)** The Commission shall notify the Commissioner if it refers a complaint to the National Security and Intelligence Review Agency. After doing so, it shall also notify the complainant of the referral.
+
 ### Section 43
 
 Subsections 45.67(3) and (4) of the Act are replaced by the following:
 
 **(2.1)** The Commission shall discontinue an investigation of a complaint if subsection 45.53(4.1) applies and shall refer the complaint to the National Security and Intelligence Review Agency.
 
-**(3)** If the Commission discontinues an investigation of a complaint, the Commission shall give notice in writing of the discontinuance and the reasons for it **and, if applicable, of the referral made under subsection (2.1)** to the complainant and the Commissioner.
+**(3)** **Subject to subsection (3.1)**, if the Commission discontinues an investigation of a complaint, the Commission shall give notice in writing of the discontinuance and the reasons for it to the complainant and the Commissioner.
 
-**(4)** After receiving the notice, the Commissioner shall notify the member or other person whose conduct is the subject matter of the complaint of the discontinuance of the investigation of the complaint **and, if applicable, of the referral made under subsection (2.1)**.
+****(3.1)**** If **the investigation of a complaint is discontinued** under subsection (2.1), **the Commission shall give to the Commissioner notice in writing of the investigation's discontinuance** and the referral of **the complaint to the National Security and Intelligence Review Agency. After doing so, the Commission shall give notice in writing of the discontinuance and the referral to the complainant.**
+
+**(4)** After receiving the notice, the Commissioner shall notify the member or other person whose conduct is the subject matter of the complaint of the discontinuance of the investigation of the complaint and, if applicable, of the referral made under subsection (2.1).
 
 
 #### `Public Sector Compensation Act`
@@ -1217,7 +1283,7 @@ The portion of subsection 55(1) of the Act before paragraph (a) is replaced by t
 
 ### Section 55
 
-  **(1)** Subject to subsections (3) and (6.1), sections 52, **53.4**, 55.1, 56.1 and 56.2, subsection 58(1) and sections 65 to 65.1 and 68.1 of this Act and to subsection 12(1) of the `Privacy Act`, the Centre shall not disclose the following:
+  **(1)** Subject to subsections (3) and (6.1), sections 52, 53.4, 55.1, 56.1 and 56.2, subsection 58(1) and sections 65 to 65.1 and 68.1 of this Act and to subsection 12(1) of the `Privacy Act`, the Centre shall not disclose the following:
 
 
 ### Coordinating Amendments
@@ -1290,7 +1356,7 @@ On the first day on which both sections `2` and `76` of this Act are in force, s
 
 ### Section 15.1
 
-      **(1)** The Review Agency may provide to National Security and Intelligence Committee of Parliamentarians information that is related, in the Agency's opinion, to the fulfilment of that review body's mandate under section 8 of the `National Security and Intelligence Committee of Parliamentarians Act`.
+      **(1)** The Review Agency may provide to the National Security and Intelligence Committee of Parliamentarians information that is related, in the Agency's opinion, to the fulfilment of that review body's mandate under section 8 of the `National Security and Intelligence Committee of Parliamentarians Act`.
 
       **(2)** The Review Agency must not provide to the review body
 
@@ -1325,6 +1391,176 @@ On the first day on which both sections `2` and `76` of this Act are in force, s
 ### Section 55
 
       **(1)** Subject to subsections (3) and (6.1), sections 52, 53.4, 53.5, 55.1, 56.1 and 56.2, subsection 58(1) and sections 65 to 65.1 and 68.1 of this Act and to subsection 12(1) of the `Privacy Act`, the Centre shall not disclose the following:
+
+
+## Avoiding Complicity in Mistreatment by Foreign Entities
+
+
+### Avoiding Complicity in Mistreatment by Foreign Entities Act
+
+### Section 49.1
+
+The `Avoiding Complicity in Mistreatment by Foreign Entities Act`, whose text is as follows and whose schedule is set out in the schedule to this Act, is enacted as follows:
+
+Whereas a fundamental responsibility of the Government of Canada is to protect Canada's national security and the safety of Canadians;
+
+Whereas Parliament recognizes that information needs to be disclosed, requested or used in order to enable the Government to fulfill that responsibility;
+
+Whereas that responsibility must be fulfilled in ac­cordance with the rule of law and in a manner that safeguards the rights and freedoms of Canadians and that respects the `Canadian Charter of Rights and Freedoms`;
+
+Whereas Canada is a party to a number of international agreements that prohibit torture and other cruel, inhuman or degrading treatment or punishment, including the Geneva Conventions, the `International Covenant on Civil and Political Rights` and the Convention Against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment;
+
+Whereas torture is an offence under the `Criminal Code`, which Act also prohibits aiding and abetting the commission of torture, counselling the commission of torture, conspiring to commit torture, attempting to commit torture and being an accessory after the fact to torture;
+
+And whereas torture and other cruel, inhuman or degrading treatment or punishment of individuals are an affront to Canadian values and are opposed by the Government of Canada in the strongest terms;
+
+Now therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+## Short Title
+
+### Section 1
+
+This Act may be cited as the `Avoiding Complicity in Mistreatment by Foreign Entities Act`.
+
+
+## Definitions
+
+### Section 2
+
+The following definitions apply in this Act.
+
+**appropriate Minister** means
+
+with respect to a department named in Schedule I to the `Financial Administration Act`, the Minister presiding over the department;
+
+with respect to a division or branch of the federal public administration set out in column I of Schedule I.1 to the `Financial Administration Act`, the Minister set out in column II of that Schedule;
+
+with respect to a corporation named in Schedule II to the `Financial Administration Act`, the Minister designated as the appropriate Minister by order of the Governor in Council made under that Act;
+
+with respect to a parent Crown corporation as defined in subsection 83(1) of the `Financial Administration Act`, the appropriate Minister as defined in that subsection; or
+
+with respect to the Canadian Forces, the Minister of National Defence. (**ministre compétent**)
+
+**department** means a department named in Schedule I to the `Financial Administration Act`, a division or branch of the federal public administration set out in column I of Schedule I.1 to that Act, a corporation named in Schedule II to that Act, a parent Crown corporation as defined in subsection 83(1) of that Act or the Canadian Forces. (**ministère**)
+
+**deputy head** means
+
+with respect to a department named in Schedule I to the `Financial Administration Act`, the deputy minister of that department;
+
+with respect to the Canadian Forces, the Chief of the Defence Staff;
+
+with respect to the Royal Canadian Mounted Police, the Commissioner of the Royal Canadian Mounted Police;
+
+with respect to the Canadian Security Intelligence Service, the Director;
+
+with respect to the Canada Border Services Agency, the President;
+
+with respect to the Communications Security Establishment, the Chief; and
+
+with respect to any other portion of the federal public administration, the person designated by order of the Governor in Council to be the deputy head of that portion of the federal public administration for the purposes of this Act. (**administrateur général**)
+
+**mistreatment** means torture or other cruel, inhuman or degrading treatment or punishment, within the meaning of the Convention Against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment, signed at New York on December 10, 1984. (**mauvais traitements**)
+
+**review body** means
+
+the Civilian Review and Complaints Commission for the Royal Canadian Mounted Police established by subsection 45.29(1) of the `Royal Canadian Mounted Police Act`;
+
+the Commissioner of the Communications Security Establishment appointed under subsection 273.63(1) of the `National Defence Act`; or
+
+the Security Intelligence Review Committee established by subsection 34(1) of the `Canadian Security Intelligence Service Act`. (**organisme de surveillance**)
+
+
+## Directions
+
+### Section 3
+
+  **(1)** The Governor in Council may, on the recommendation of the appropriate Minister, issue written directions to any deputy head in respect of
+
+    the disclosure of information to any foreign entity that would result in a substantial risk of mistreatment of an individual;
+
+    the making of requests to any foreign entity for information that would result in a substantial risk of mistreatment of an individual; and
+
+    the use of information that is likely to have been obtained through the mistreatment of an individual by a foreign entity.
+
+  **(2)** The Governor in Council must issue written directions in respect of the matters referred to in subsection (1) to the following deputy heads:
+
+    the Chief of the Defence Staff;
+
+    the Deputy Minister of National Defence;
+
+    the Deputy Minister of Foreign Affairs;
+
+    the Commissioner of the Royal Canadian Mounted Police;
+
+    the Director of the Canadian Security Intelligence Service;
+
+    the President of the Canada Border Services Agency; and
+
+    the Chief of the Communications Security Establishment.
+
+  **(3)** Directions are not statutory instruments within the meaning of the `Statutory Instruments Act`.
+
+### Section 4
+
+The Governor in Council may, by order, amend the schedule to add a reference to each deputy head to whom directions have been issued under section 3 or to delete any such reference if the directions that were issued to the deputy head have been repealed or if the deputy head's position has ceased to exist or has changed name.
+
+
+## Deputy Heads
+
+### Section 5
+
+Every deputy head to whom directions have been issued under section 3 must, as soon as feasible after receiving them, make them available to the public.
+
+### Section 6
+
+Every deputy head to whom directions have been issued under section 3 must, as soon as feasible after receiving them, provide a copy of the directions to the National Security and Intelligence Committee of Parliamentarians and, if applicable, to the relevant review body.
+
+### Section 7
+
+  **(1)** Every deputy head to whom directions have been issued under section 3 must, before March 1 of each year, submit to the appropriate Minister a report in respect of the implementation of those directions during the previous calendar year.
+
+  **(2)** Every deputy head must, as soon as feasible after submitting a report under subsection (1), make a version of it available to the public that does not contain information
+
+    the disclosure of which would be injurious to national security, national defence or international relations or compromise an ongoing operation or investigation; or
+
+    that is subject to solicitor-client privilege or the professional secrecy of advocates and notaries or to litigation privilege.
+
+
+## Appropriate Ministers
+
+### Section 8
+
+  **(1)** As soon as feasible after receiving a report under section 7, the appropriate Minister must provide a copy of it to the National Security and Intelligence Committee of Parliamentarians and, if applicable, to the relevant review body.
+
+  **(2)** The copy must not contain any information that the Committee or the relevant review body is not entitled to receive.
+
+
+## Coordinating Amendments
+
+### Section 49.2
+
+On the first day on which both sections 2 and 49.1 of this Act are in force,
+
+section 8 of the `National Security and Intelligence Review Agency Act` is amended by adding the following after subsection (2.1):
+
+**(2.2)** In the course of its review of activities carried out by departments, the Review Agency must, each calendar year, review the implementation of all directions issued under the `Avoiding Complicity in Mistreatment by Foreign Entities Act`.
+
+the definition review body in section 2 of the `Avoiding Complicity in Mistreatment by Foreign Entities Act` is repealed;
+
+section 6 of the `Avoiding Complicity in Mistreatment by Foreign Entities Act` is replaced by the following:
+
+### Section 6
+
+Every deputy head to whom directions have been issued under section 3 must, as soon as feasible after receiving them, provide a copy of the directions to the National Security and Intelligence Committee of Parliamentarians, the National Security and Intelligence Review Agency and, if applicable, the Civilian Review and Complaints Commission for the Royal Canadian Mounted Police.
+
+section 8 of the `Avoiding Complicity in Mistreatment by Foreign Entities Act` is replaced by the following:
+
+### Section 8
+
+  **(1)** As soon as feasible after receiving a report under section 7, the appropriate Minister must provide a copy of it to the National Security and Intelligence Committee of Parliamentarians, the National Security and Intelligence Review Agency and, if applicable, the Civilian Review and Complaints Commission for the Royal Canadian Mounted Police.
+
+  **(2)** The copy must not contain any information that the Committee, the Agency or the Commission is not entitled to receive.
 
 
 ## Intelligence Commissioner
@@ -1390,9 +1626,7 @@ The Commissioner has the rank and all the powers of a deputy head of a departmen
 
   **(2)** Nothing in the `Federal Public Sector Labour Relations Act` is to be construed so as to affect the Commissioner's right or authority to deal with the matters referred to in subsection (1).
 
-  **(3)** The `Public Service Employment Act` does not apply to the employees of the Commissioner, except for Part 7 of that Act.
-
-  **(4)** For the purposes of Part 7 of that Act, the Commissioner is deemed to be a deputy head, and his or her employees are deemed to be employees, as those terms are defined in subsection 2(1) of that Act.
+  **(3)** Part 7 of the `Public Service Employment Act` **applies** to the Commissioner and to his or her employees. For the purposes of that Part, the **Commissioner** is deemed to be a deputy head, and his or her employees are deemed to be employees, as those terms are defined in subsection 2(1) of that Act.
 
 ### Section 7
 
@@ -1424,11 +1658,7 @@ Before entering into collective bargaining with the bargaining agent for a barga
 
 ### Section 9
 
-  **(1)** For the purpose of deployments, appointments or advertised internal appointment processes under the `Public Service Employment Act`, employees of the Commissioner must be treated as if they were employees as defined in subsection 2(1) of that Act and had the rights of recourse provided by that Act.
-
-  **(2)** The Public Service Commission may, in consultation with the Treasury Board, set terms and conditions for the deployment of the Commissioner's employees to departments and agencies under the `Public Service Employment Act` if, in that Commission's opinion, the principles governing the Commissioner's staffing program are incompatible with those governing staffing under that Act.
-
-  **(3)** When the Commissioner considers employees as defined in subsection 2(1) of the `Public Service Employment Act` for employment, the Commissioner must treat them as if they were his or her employees and had the same rights of recourse.
+[*Deleted*]
 
 ### Section 10
 
@@ -1489,13 +1719,13 @@ The Commissioner must review whether the conclusions — made under subsecti
 
   **(1)** After conducting a review under any of sections `14` to `17`, `19` and `20`, the Commissioner, in a written decision,
 
-    must approve the authorization, amendment or determination if he or she is satisfied that the conclusions at issue are reasonable; or
+    must approve the authorization, amendment or determination if he or she is satisfied that the conclusions at issue are reasonable, **and must set out his or her reasons for doing so**; or
 
     must not approve the authorization, amendment or determination if he or she is not so satisfied, and must set out his or her reasons for doing so.
 
   **(2)** After conducting a review under section `18`, the Commissioner, in a written decision,
 
-    must approve the authorization if he or she is satisfied that the conclusions at issue are reasonable;
+    must approve the authorization if he or she is satisfied that the conclusions at issue are reasonable, **and must set out his or her reasons for doing so**;
 
     must approve the authorization with conditions — respecting the querying or exploitation of the foreign dataset or the retention or destruction of the dataset or of a portion of it — and provide reasons for doing so, if he or she is satisfied that those conclusions are reasonable once the conditions are attached; or
 
@@ -1514,11 +1744,22 @@ The Commissioner must review whether the conclusions — made under subsecti
 The Commissioner must provide a copy of every decision made by him or her under section `21` to the National Security and Intelligence Review Agency for the purpose of assisting that Agency in fulfilling its mandate under paragraphs 8(1)(a) to (c) of the `National Security and Intelligence Review Agency Act`.
 
 
+## Public Report
+
+### Section 22.1
+
+  **(1)** The Commissioner must, each calendar year, submit to the Prime Minister a report with respect to the Commissioner's activities during the previous calendar year. The report must include statistics, that the Commissioner considers appropriate, relating to the authorizations, amendments and determinations that were approved and not approved.
+
+  **(2)** The Commissioner must consult with the Director of the Canadian Security Intelligence Service and the Chief of the Communications Security Establishment in preparing the report in order to ensure that it does not contain information the disclosure of which would be injurious to national security, national defence or international relations or information that is subject to solicitor-client privilege or the professional secrecy of advocates and notaries or to litigation privilege.
+
+  **(3)** The Prime Minister must cause to be laid before each House of Parliament, on any of the first 15 days on which that House is sitting after a report is submitted under subsection (1), a copy of the report.
+
+
 ## Information
 
 ### Section 23
 
-  **(1)** Despite any other Act of Parliament and subject to section `26`, the person whose conclusions are being reviewed by the Commissioner under any of sections `14` to `20` must, for the purposes of the Commissioner's review, provide the Commissioner with all information that was before the person in issuing or amending the authorization or making the determination at issue, including information that is subject to solicitor-client privilege or the professional secrecy of advocates and notaries or to litigation privilege.
+  **(1)** Despite any other Act of Parliament and subject to section `26`, the person whose conclusions are being reviewed by the Commissioner under any of sections `14` to `20` must, for the purposes of the Commissioner's review, provide the Commissioner with all information that was before the person in issuing or amending the authorization or making the determination at issue, including information that is subject to **any privilege under the law of evidence**, solicitor-client privilege or the professional secrecy of advocates and notaries or to litigation privilege.
 
   **(2)** For greater certainty, the disclosure to the Commissioner under this section of any information that is subject to solicitor-client privilege or the professional secrecy of advocates and notaries or to litigation privilege does not constitute a waiver of those privileges or that secrecy.
 
@@ -1528,7 +1769,7 @@ The Commissioner is entitled to receive a copy of a report, or part of one, subm
 
 ### Section 25
 
-Despite any other Act of Parliament and subject to section `26`, the following persons or bodies may — for the purpose of assisting the Commissioner in the exercise of his or her powers and the performance of his or her duties and functions — disclose to the Commissioner any information that is not directly related to a specific review under any of sections `14` to `20`:
+Despite any other Act of Parliament and **any privilege under the law of evidence and** subject to section 26, the following persons or bodies may — for the purpose of assisting the Commissioner in the exercise of his or her powers and the performance of his or her duties and functions — disclose to the Commissioner any information that is not directly related to a specific review under any of sections `14` to `20`:
 
 the Minister of Public Safety and Emergency Preparedness;
 
@@ -1728,6 +1969,14 @@ Schedule 2 to the `Security of Canada Information Disclosure Act` is amended by 
 
 The `Communications Security Establishment Act` is enacted as follows:
 
+Whereas the protection of Canada's national security and of the security of Canadians is a fundamental responsibility of the Government of Canada;
+
+Whereas it is essential, to discharge that responsibility, for Canada to have a communications security establishment;
+
+And whereas it is important that the communications security establishment carry out its activities in ac­cordance with the rule of law and in a manner that respects the `Canadian Charter of Rights and Freedoms`;
+
+Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
 
 ## Short Title
 
@@ -1772,13 +2021,13 @@ a Crown corporation established by or under an Act of Parliament; and
 
 any other body that is specified by an Act of Parliament to be an agent of Her Majesty in right of Canada or to be subject to the direction of the Governor in Council or a federal minister. (**institutions fédérales**)
 
-**foreign intelligence** means information or intelligence about the capabilities, intentions or activities of a foreign individual, state, organization or terrorist group, as they relate to international affairs, defence or security. (**renseignements étrangers**)
+**foreign intelligence** means information or intelligence about the capabilities, intentions or activities of a foreign individual, state, organization or terrorist group, as they relate to international affairs, defence or security. (**renseignement étranger**)
 
 **global information infrastructure** includes electromagnetic emissions, any equipment producing such emissions, communications systems, information technology systems and networks, and any data or technical information carried on, contained in or relating to those emissions, that equipment, those systems or those networks. (**infrastructure mondiale de l'information**)
 
 **Minister** means the Minister of National Defence or, if another federal minister is designated under section `4`, that minister. (**ministre**)
 
-**publicly available information** means information that has been published or broadcast for public consumption, is accessible to the public on the global information infrastructure or otherwise or is available to the public on request, by subscription or by purchase. (**information accessible au public**)
+**publicly available information** means information that has been published or broadcast for public consumption, is accessible to the public on the global information infrastructure or otherwise or is available to the public on request, by subscription or by purchase. **It does not include information in respect of which a Canadian or a person in Canada has a reasonable expectation of privacy**. (**information accessible au public**)
 
 **Review Agency** means the National Security and Intelligence Review Agency established under section 3 of the `National Security and Intelligence Review Agency Act`. (**Office de surveillance**)
 
@@ -1866,9 +2115,9 @@ The powers, duties and functions of the Establishment may be exercised or perfor
 
   **(2)** Nothing in the `Federal Public Sector Labour Relations Act` is to be construed so as to affect the right or authority of the Chief to deal with the matters referred to in subsection (1).
 
-  **(3)** The `Public Service Employment Act` does not apply with respect to the Establishment, except for Part 7 of that Act.
+  **(3)** [*Deleted*]
 
-  **(4)** For the purposes of Part 7 of that Act, the Chief is deemed to be a deputy head, and the Establishment's employees are deemed to be employees, as defined in subsection 2(1) of that Act.
+  **(4)** [*Deleted*]
 
 ### Section 13
 
@@ -1900,11 +2149,7 @@ Before entering into collective bargaining with the bargaining agent for a barga
 
 ### Section 15
 
-  **(1)** For the purpose of deployments or appointments made, or advertised internal appointment processes, under the `Public Service Employment Act`, the Establishment's employees must be treated as if they were employees as defined in subsection 2(1) of that Act and had the rights of recourse provided by that Act.
-
-  **(2)** The Public Service Commission may, in consultation with the Treasury Board, set terms and conditions for the deployment of the Establishment's employees to departments and agencies under the `Public Service Employment Act` if, in the Commission's opinion, the principles governing the Establishment's staffing program are incompatible with those governing staffing under that Act.
-
-  **(3)** When the Establishment considers employees as defined in subsection 2(1) of the `Public Service Employment Act` for employment within the Establishment, it must treat them as if they were the Establishment's employees and had their rights of recourse.
+[*Deleted*]
 
 
 ## Mandate
@@ -1958,7 +2203,7 @@ The technical and operational assistance aspect of the Establishment's mandate i
 
 ### Section 23
 
-  **(1)** Activities carried out by the Establishment in furtherance of the foreign intelligence, cybersecurity and information assurance, defensive cyber operations or active cyber operations aspects of its mandate must not be directed at a Canadian or at any person in Canada.
+  **(1)** Activities carried out by the Establishment in furtherance of the foreign intelligence, cybersecurity and information assurance, defensive cyber operations or active cyber operations aspects of its mandate must not be directed at a Canadian or at any person in Canada **and must not infringe the `Canadian Charter of Rights and Freedoms`**.
 
   **(2)** Activities carried out by the Establishment in furtherance of the defensive cyber operations or active cyber operations aspects of its mandate
 
@@ -1966,9 +2211,9 @@ The technical and operational assistance aspect of the Establishment's mandate i
 
     must not be carried out except under an authorization issued under subsection `30`(1) or `31`(1).
 
-  **(3)** Activities carried out by the Establishment in furtherance of the foreign intelligence aspect of its mandate must not contravene any other Act of Parliament unless they are carried out under an authorization issued under subsection `27`(1) or `41`(1).
+  **(3)** Activities carried out by the Establishment in furtherance of the foreign intelligence aspect of its mandate must not contravene any other Act of Parliament — **or involve the acquisition by the Establishment of information from or through the global information infrastructure that interferes with the reasonable expectation of privacy of a Canadian or a person in Canada** — unless they are carried out under an authorization issued under subsection 27(1) or 41(1).
 
-  **(4)** Activities carried out by the Establishment in furtherance of the cybersecurity and information assurance aspect of its mandate must not contravene any other Act of Parliament unless they are carried out under an authorization issued under subsection `28`(1) or (2) or `41`(1).
+  **(4)** Activities carried out by the Establishment in furtherance of the cybersecurity and information assurance aspect of its mandate must not contravene any other Act of Parliament — **or involve the acquisition by the Establishment of information from the global information infrastructure that interferes with the reasonable expectation of privacy of a Canadian or a person in Canada** — unless they are carried out under an authorization issued under subsection 28(1) or (2) or 41(1).
 
 ### Section 24
 
@@ -2154,7 +2399,7 @@ the day on which the authorization is issued;
 
 the day on which the authorization expires; and
 
-anything else reasonable in the circumstances and reasonably necessary in aid of any other activity, or class or activities, authorized by the authorization.
+anything else reasonable in the circumstances and reasonably necessary in aid of any other activity, or class of activities, authorized by the authorization.
 
 ### Section 37
 
@@ -2163,6 +2408,8 @@ anything else reasonable in the circumstances and reasonably necessary in aid of
   **(2)** The Minister may extend the period of validity of an authorization issued under subsection `27`(1) or `28`(1) or (2) by up to a period not exceeding one year from the day referred to in paragraph `36`(h).
 
   **(3)** The Minister's decision to extend a period of validity is not subject to review by the Commissioner under the `Intelligence Commissioner Act`.
+
+  **(4)** The Minister must, as soon as feasible, notify the Commissioner of any extension of an authorization.
 
 
 ### Repeal and Amendment
@@ -2227,11 +2474,11 @@ An authorization issued under subsection `41`(1) may be valid for a period not e
 
 ### Section 44
 
-The Establishment may disclose, to persons or classes of persons designated under section `46`, information that could be used to identify a Canadian or a person in Canada and that has been used, analysed or retained under an authorization issued under subsection `27`(1), if the Establishment concludes that the disclosure is essential to international affairs, defence, security or cybersecurity.
+The Establishment may disclose, to persons or classes of persons designated under section `46`, information that could be used to identify a Canadian or a person in Canada and that has been used, analysed or retained under an authorization issued under subsection 27(1) **or 41(1)**, if the Establishment concludes that the disclosure is essential to international affairs, defence, security or cybersecurity.
 
 ### Section 45
 
-  **(1)** The Establishment may disclose, to persons or classes of persons designated under section `46`, information that has been acquired, used or analysed in the course of activities carried out under the cybersecurity and information assurance aspect of its mandate, if the Establishment concludes that the disclosure is necessary to help protect
+  **(1)** The Establishment may disclose, to persons or classes of persons designated under section 46, information **relating to a Canadian or a person in Canada** that has been acquired, used or analysed in the course of activities carried out under the cybersecurity and information assurance aspect of its mandate, if the Establishment concludes that the disclosure is necessary to help protect
 
     federal institutions' electronic information and information infrastructures; or
 
@@ -2428,6 +2675,8 @@ Any arrangement entered into by the former department before the day on which se
 
     the `Intelligence Commissioner Act`.
 
+  **(1.1)** Unless the context requires otherwise, every reference to the former department in any Act of Parliament, other than an Act referred to in subsection (1), or in any order, regulation or other instrument made under an Act of Parliament is deemed to be a reference to the new department.
+
   **(2)** The designation of a person as deputy head of the former department in any order of the Governor in Council made under section 55 of the `National Security and Intelligence Review Agency Act` is deemed to be a designation of the Chief of the new department as deputy head of that department.
 
 
@@ -2437,11 +2686,11 @@ Any arrangement entered into by the former department before the day on which se
 
   **(1)** Paragraph 273.64(1)(c) of the `National Defence Act` is replaced by the following:
 
-    to provide technical and operational assistance to federal law enforcement and security agencies, **the Canadian Forces and the Department of National Defence**.
+    to provide technical and operational assistance to federal law enforcement and security agencies, the Canadian Forces and the Department of National Defence.
 
   **(2)** Subsection 273.64(3) of the Act is replaced by the following:
 
-    **(3)** Activities carried out under paragraph (1)(c) are subject to any limitations imposed by law on federal law enforcement and security agencies, **the Canadian Forces and the Department of National Defence**.
+    **(3)** Activities carried out under paragraph (1)(c) are subject to any limitations imposed by law on federal law enforcement and security agencies, the Canadian Forces and the Department of National Defence.
 
 
 ### Consequential Amendments
@@ -2479,7 +2728,7 @@ Schedule I to the Act is amended by adding, in alphabetical order, the following
 
 Paragraph 55(3)(f) of the `Proceeds of Crime (Money Laundering) and Terrorist Financing Act` is replaced by the following:
 
-the Communications Security Establishment, if the Centre also determines that the information is relevant to the **foreign intelligence aspect** of the Communications Security Establishment's mandate, referred to in **section 17** of the **`Communications Security Establishment Act`**; and
+the Communications Security Establishment, if the Centre also determines that the information is relevant to the foreign intelligence aspect of the Communications Security Establishment's mandate, referred to in section 17 of the `Communications Security Establishment Act`; and
 
 
 #### `Security of Canada Information Disclosure Act`
@@ -2488,7 +2737,7 @@ the Communications Security Establishment, if the Centre also determines that th
 
 Paragraph (g) of the definition activity that undermines the security of Canada in subsection 2(1) of the `Security of Canada Information Disclosure Act` is replaced by the following:
 
-significant or widespread interference with the global information infrastructure, as defined in section **2** of the **`Communications Security Establishment Act`**; and
+significant or widespread interference with the global information infrastructure, as defined in section 2 of the `Communications Security Establishment Act`; and
 
 
 ### Coordinating Amendments
@@ -2525,7 +2774,9 @@ Whereas the protection of Canada's national security and of the security of Cana
 
 Whereas it is essential, to discharge that responsibility, for Canada to have a civilian intelligence service;
 
-And whereas it is important that the civilian intelligence service perform its duties and functions in accordance with the rule of law and in a manner that respects the `Canadian Charter of Rights and Freedoms`;
+Whereas it is important that the civilian intelligence service perform its duties and functions in accord­ance with the rule of law and in a manner that respects the `Canadian Charter of Rights and Freedoms`;
+
+And whereas the Government of Canada, by carrying out its national security and information activities in a manner that respects rights and freedoms, encourages the international community to do the same;
 
 ### Section 93
 
@@ -2695,9 +2946,11 @@ Sections 11.01 to 11.25 apply to every dataset that contains personal informatio
 
   **(2)** If the Service removes the information from the dataset under paragraph (1)(c), the information that was removed shall
 
-    be destroyed without delay; or
+    be destroyed without delay;
 
-    be collected as a dataset under section 11.05.
+    be collected as a dataset under section 11.05; or
+
+    be added as an update to a Canadian dataset if the addition is permitted under that Canadian dataset's judicial authorization.
 
   **(3)** The dataset collected under paragraph (2)(b) shall be deemed to have been collected on the day on which it was removed and its evaluation period under subsection 11.07(1) begins on the same day on which it was removed.
 
@@ -2773,7 +3026,7 @@ Sections 11.01 to 11.25 apply to every dataset that contains personal informatio
 
 ### Section 11.16
 
-  **(1)** The Minister may designate a person for the purpose of section 11.17.
+  **(1)** The Minister may designate a person, **including the Director or an employee**, for the purpose of section 11.17.
 
   **(2)** At any given time, only one designated person may give an authorization under subsection 11.17(1).
 
@@ -2831,7 +3084,7 @@ The Minister or the designated person shall notify the Commissioner of the Minis
 
   **(2)** A designated employee may, to the extent that it is strictly necessary, query or exploit a Canadian dataset that is subject to a judicial authorization issued under section 11.13 to assist the Service in the performance of its duties and functions under sections 12 and 12.1.
 
-  **(3)** A designated employee may, to the extent that it is strictly necessary, query or exploit a foreign dataset that is the subject of an authorization under section 11.17 that has been approved by the Commissioner under the `Intelligence Commissioner Act`, to assist the Service in the performance its duties and functions under sections 12, 12.1 and 15.
+  **(3)** A designated employee may, to the extent that it is strictly necessary, query or exploit a foreign dataset that is the subject of an authorization under section 11.17 that has been approved by the Commissioner under the `Intelligence Commissioner Act`, to assist the Service in the performance of its duties and functions under sections 12, 12.1 and 15.
 
   **(4)** A designated employee may query or exploit a Canadian dataset that is subject to a judicial authorization issued under section 11.13 or a foreign dataset that is the subject of an authorization under section 11.17 that has been approved by the Commissioner under the `Intelligence Commissioner Act`, if the query or exploitation is required to assist the Minister of National Defence or the Minister of Foreign Affairs in accordance with section 16.
 
@@ -2865,7 +3118,17 @@ The Minister or the designated person shall notify the Commissioner of the Minis
 
     a description of the dataset to be queried; and
 
-    the grounds on which the Director concludes that the query would produce the intelligence referred to in subparagraph (1)(b)(i) or (ii).
+    the grounds on which the Director concludes that the query **is likely to** produce the intelligence referred to in subparagraph (1)(b)(i) or (ii).
+
+  **(2.1)** The Service may retain the results of a query of a dataset performed under subsection (1) if
+
+    the collection, analysis and retention of the results are carried out under section 12;
+
+    the retention is strictly necessary to assist the Service in the performance of its duties and functions under section 12.1; or
+
+    the retention is required to assist the Minister of National Defence or the Minister of Foreign Affairs in accordance with section 16.
+
+  **(2.2)** The Service shall, without delay, destroy the results that it cannot retain under subsection (2.1).
 
   **(3)** For greater certainty, an authorization by the Director under subsection (1) is not a statutory instrument within the meaning of the `Statutory Instruments Act`.
 
@@ -2893,7 +3156,7 @@ An authorization issued under section 11.22 is valid when — if it is appro
 
     verify, periodically and on a random basis, if
 
-    the querying and exploitation of those datasets were carried out in accordance with section 11.2; and
+    the querying and exploitation of those datasets were carried out in accordance with section 11.2, and
 
     the results obtained from the querying and exploitation of those datasets were retained in accordance with section 11.21.
 
@@ -2911,13 +3174,13 @@ in the case of a query of a dataset performed on the basis of exigent circumstan
 
 Subsections 12.1(2) and (3) of the Act are replaced by the following:
 
-**(2)** The measures shall be reasonable and proportional in the circumstances, having regard to the nature of the threat, the nature of the measures, the reasonable availability of other means to reduce the threat **and the reasonably foreseeable effects on third parties, including on their right to privacy**.
+**(2)** The measures shall be reasonable and proportional in the circumstances, having regard to the nature of the threat, the nature of the measures, the reasonable availability of other means to reduce the threat and the reasonably foreseeable effects on third parties, including on their right to privacy.
 
 **(3)** Before taking measures under subsection (1), the Service shall consult, as appropriate, with other federal departments or agencies as to whether they are in a position to reduce the threat.
 
 **(3.1)** The `Canadian Charter of Rights and Freedoms` is part of the supreme law of Canada and all measures taken by the Service under subsection (1) shall comply with it.
 
-****(3.2)**** The Service **may** take measures **under subsection (1) that would limit** a right or freedom guaranteed by the `Canadian Charter of Rights and Freedoms`**only if a judge, on an application made** under section 21.1, **issues** a warrant **authorizing the taking of those measures**.
+**(3.2)** The Service may take measures under subsection (1) that would limit a right or freedom guaranteed by the `Canadian Charter of Rights and Freedoms` only if a judge, on an application made under section 21.1, issues a warrant authorizing the taking of those measures.
 
 **(3.3)** The judge may issue the warrant referred to in subsection (3.2) only if he or she is satisfied that the measures, as authorized by the warrant, comply with the `Canadian Charter of Rights and Freedoms`.
 
@@ -3103,6 +3366,13 @@ The Act is amended by adding the following after section 20:
 
   **(27)** For greater certainty, designations, authorizations and directions referred to in this section are not statutory instruments within the meaning of the `Statutory Instruments Act`.
 
+
+### Report to Parliament
+
+### Section 20.2
+
+  **(1)** The Service shall, within three months after the end of each calendar year, submit to the Minister a report of the activities of the Service during the preceding calendar year, and the Minister shall cause the report to be laid before each House of Parliament on any of the first 15 days on which that House is sitting after the Minister receives it.
+
 ### Section 102
 
   **(1)** Section 21 of the Act is amended by adding the following after subsection (1):
@@ -3131,7 +3401,7 @@ The Act is amended by adding the following after section 20:
 
 ### Section 21.1
 
-      **(1)** If the Director or any employee who is designated by the Minister for the purpose believes on reasonable grounds that a warrant under this section is required to enable the Service to take measures **referred to in *subsection* (1.1)**, within or outside Canada, to reduce a threat to the security of Canada, the Director or employee may, after having obtained the Minister's approval, make an application in accordance with subsection (2) to a judge for a warrant under this section.
+      **(1)** If the Director or any employee who is designated by the Minister for the purpose believes on reasonable grounds that a warrant under this section is required to enable the Service to take measures referred to in *subsection* (1.1), within or outside Canada, to reduce a threat to the security of Canada, the Director or employee may, after having obtained the Minister's approval, make an application in accordance with subsection (2) to a judge for a warrant under this section.
 
       **(1.1)** For the purpose of subsection (1), the measures are the following:
 
@@ -3145,19 +3415,19 @@ The Act is amended by adding the following after section 20:
 
         interrupting or redirecting, directly or indirectly, any financial transaction that involves currency or a monetary instrument;
 
-        interfering with the movement of any person; and
+        interfering with the movement of any person, **excluding the detention of an individual**; and
 
         personating a person, other than a police officer, in order to take a measure referred to in any of paragraphs (a) to (f).
 
   **(2)** Paragraph 21.1(2)(c) of the Act is replaced by the following:
 
-    the reasonableness and proportionality, in the circumstances, of the proposed measures, having regard to the nature of the threat, the nature of the measures, the reasonable availability of other means to reduce the threat **and the reasonably foreseeable effects on third parties, including on their right to privacy**;
+    the reasonableness and proportionality, in the circumstances, of the proposed measures, having regard to the nature of the threat, the nature of the measures, the reasonable availability of other means to reduce the threat and the reasonably foreseeable effects on third parties, including on their right to privacy;
 
 ### Section 104
 
 Paragraph 22.1(1)(b) of the Act is replaced by the following:
 
-the continued reasonableness and proportionality, in the circumstances, of the measures specified in the warrant, having regard to the nature of the threat, the nature of the measures, the reasonable availability of other means to reduce the threat **and the reasonably foreseeable effects on third parties, including on their right to privacy**.
+the continued reasonableness and proportionality, in the circumstances, of the measures specified in the warrant, having regard to the nature of the threat, the nature of the measures, the reasonable availability of other means to reduce the threat and the reasonably foreseeable effects on third parties, including on their right to privacy.
 
 ### Section 105
 
@@ -3165,7 +3435,7 @@ Section 22.2 of the Act is replaced by the following:
 
 ### Section 22.2
 
-A person to whom — or a person who is included in a class of persons to whom — a warrant issued under section 21.1 is directed may take the measures specified in it only if, at the time that they take them, they believe on reasonable grounds that the measures are reasonable and proportional in the circumstances, having regard to the nature of the threat to the security of Canada, the nature of the measures, the reasonable availability of other means to reduce the threat **and the reasonably foreseeable effects on third parties, including on their right to privacy**.
+A person to whom — or a person who is included in a class of persons to whom — a warrant issued under section 21.1 is directed may take the measures specified in it only if, at the time that they take them, they believe on reasonable grounds that the measures are reasonable and proportional in the circumstances, having regard to the nature of the threat to the security of Canada, the nature of the measures, the reasonable availability of other means to reduce the threat and the reasonably foreseeable effects on third parties, including on their right to privacy.
 
 ### Section 106
 
@@ -3173,7 +3443,7 @@ Subsection 24.1(1) of the Act is replaced by the following:
 
 ### Section 24.1
 
-  **(1)** A person to whom — or a person who is included in a class of persons to whom — a warrant issued under section 21.1 is directed may request that another person assist them in taking any measure that the requester is authorized to take under the warrant if the requester believes on reasonable grounds that the measure is reasonable and proportional in the circumstances, having regard to the nature of the threat to the security of Canada, the nature of the measure, the reasonable availability of other means to reduce the threat **and the reasonably foreseeable effects on third parties, including on their right to privacy**.
+  **(1)** A person to whom — or a person who is included in a class of persons to whom — a warrant issued under section 21.1 is directed may request that another person assist them in taking any measure that the requester is authorized to take under the warrant if the requester believes on reasonable grounds that the measure is reasonable and proportional in the circumstances, having regard to the nature of the threat to the security of Canada, the nature of the measure, the reasonable availability of other means to reduce the threat and the reasonably foreseeable effects on third parties, including on their right to privacy.
 
 ### Section 107
 
@@ -3181,9 +3451,9 @@ Section 27 of the Act is replaced by the following:
 
 ### Section 27
 
-**An application under section 11.12 for a judicial authorization**, an application under section 21, 21.1 or 23 for a warrant, an application under section 22 or 22.1 for the renewal of a warrant or an application for an order under section 22.3 shall be heard in private in accordance with regulations made under section 28.
+An application for a judicial authorization under section **11.13**, an application under section 21, 21.1 or 23 for a warrant, an application under section 22 or 22.1 for the renewal of a warrant or an application for an order under section 22.3 shall be heard in private in accordance with regulations made under section 28.
 
-### Section **27.1**
+### Section 27.1
 
   **(1)** For the purposes of this section, if the Review Agency is of the view that the querying and exploitation of a dataset under sections 11.11 and 11.2 may not be in compliance with the law, the Review Agency may provide to the Director the relevant portions of a report pre-pared under section 35 of the `National Security and Intelligence Review Agency Act`, as well as any other information that the Review Agency believes may assist the Federal Court in making  its determination under subsection (4).
 
@@ -3207,9 +3477,9 @@ Section 27 of the Act is replaced by the following:
 
 Paragraphs 28(a) and (b) of the Act are replaced by the following:
 
-**prescribing the form of judicial authorizations that may be issued under section 11.13 and** of warrants that may be issued under section 21, 21.1 or 23;
+prescribing the form of judicial authorizations that may be issued under section 11.13 and of warrants that may be issued under section 21, 21.1 or 23;
 
-governing the practice and procedure of, and security requirements applicable to, **hearings of applications for judicial authorization under section 11.13,** for warrants **that may be issued under section 21, 21.1 or 23**, for renewals of those warrants and for orders that may be made under section 22.3;
+governing the practice and procedure of, and security requirements applicable to, hearings of applications for judicial authorization under section 11.13, for warrants that may be issued under section 21, 21.1 or 23, for renewals of those warrants and for orders that may be made under section 22.3;
 
 governing the practice and procedure of, and security requirements applicable to, other matters that arise out of the performance by the Service of its duties and functions under this Act and over which the Chief Justice of the Federal Court or a judge is presiding; and
 
@@ -3256,11 +3526,11 @@ The long title of the English version of the `Security of Canada Information Sha
 
   **(1)** The sixth paragraph of the preamble of the English version of the Act is replaced by the following:
 
-    Whereas Parliament recognizes that information needs to be **disclosed** — and disparate information needs to be collated — in order to enable the Government to protect Canada and its people against activities that undermine the security of Canada;
+    Whereas Parliament recognizes that information needs to be disclosed — and disparate information needs to be collated — in order to enable the Government to protect Canada and its people against activities that undermine the security of Canada;
 
   **(2)** The seventh and eighth paragraphs of the preamble of the Act are replaced by the following:
 
-    Whereas Government of Canada institutions are accountable for the effective and responsible **disclosure** of information in a manner that respects the `Canadian Charter of Rights and Freedoms`, **the `Privacy Act` and other laws regarding** the protection of privacy;
+    Whereas Government of Canada institutions are accountable for the effective and responsible disclosure of information in a manner that respects the `Canadian Charter of Rights and Freedoms`, the `Privacy Act` and other laws regarding the protection of privacy;
 
     And whereas an explicit authority will facilitate the effective and responsible disclosure of information to protect the security of Canada;
 
@@ -3270,7 +3540,7 @@ Section 1 of the English version of the Act is replaced by the following:
 
 ### Section 1
 
-This Act may be cited as the `Security of Canada Information **Disclosure** Act`.
+This Act may be cited as the `Security of Canada Information Disclosure Act`.
 
 ### Section 115
 
@@ -3278,17 +3548,17 @@ This Act may be cited as the `Security of Canada Information **Disclosure** Act`
 
   **(2)** The portion of the definition **activity that undermines the security of Canada** in section 2 of the Act before paragraph (b) is replaced by the following:
 
-    **activity that undermines the security of Canada** means any activity that undermines the sovereignty, security or territorial integrity of Canada or **threatens** the lives or the security of people **in** Canada **or of any individual who has a connection to Canada and who is outside Canada. For greater certainty, it includes**
+    **activity that undermines the security of Canada** means any activity that undermines the sovereignty, security or territorial integrity of Canada or threatens the lives or the security of people in Canada or of any individual who has a connection to Canada and who is outside Canada. For greater certainty, it includes
 
     interference with the capability of the Government of Canada in relation to intelligence, defence, border operations or public safety;
 
   **(3)** The portion of the definition **activity that undermines the security of Canada** in section 2 of the Act after paragraph (e) is replaced by the following:
 
-    **significant or widespread** interference with critical infrastructure;
+    significant or widespread interference with critical infrastructure;
 
-    **significant or widespread** interference with the global information infrastructure, as defined in section 273.61 of the `National Defence Act`; and
+    significant or widespread interference with the global information infrastructure, as defined in section 273.61 of the `National Defence Act`; and
 
-    **conduct** that takes place in Canada and **that** undermines the security of another state. (**activité portant atteinte à la sécurité du Canada)**
+    conduct that takes place in Canada and that undermines the security of another state. (**activité portant atteinte à la sécurité du Canada)**
 
   **(4)** Section 2 of the Act is renumbered as subsection 2(1) and is amended by adding the following:
 
@@ -3300,7 +3570,7 @@ Section 3 of the English version of the Act is replaced by the following:
 
 ### Section 3
 
-The purpose of this Act is to encourage and facilitate the **disclosure** of information **between** Government of Canada institutions in order to protect Canada against activities that undermine the security of Canada.
+The purpose of this Act is to encourage and facilitate the disclosure of information between Government of Canada institutions in order to protect Canada against activities that undermine the security of Canada.
 
 ### Section 117
 
@@ -3308,19 +3578,19 @@ The purpose of this Act is to encourage and facilitate the **disclosure** of inf
 
 ### Section 4
 
-    **The disclosure of** information under this Act is to be guided by the following principles:
+    The disclosure of information under this Act is to be guided by the following principles:
 
-    effective and responsible **disclosure of** information protects Canada and Canadians;
+    effective and responsible disclosure of information protects Canada and Canadians;
 
-    respect for caveats on and originator control over **disclosed** information is consistent with effective and responsible **disclosure of** information;
+    respect for caveats on and originator control over disclosed information is consistent with effective and responsible disclosure of information;
 
   **(2)** Paragraph 4(c) of the Act is replaced by the following:
 
-    entry into **an** information-sharing **arrangement** is appropriate when **a** Government of Canada **institution** regularly **discloses** information **to the same Government of Canada institution**;
+    entry into an information-sharing arrangement is appropriate when a Government of Canada institution regularly discloses information to the same Government of Canada institution;
 
   **(3)** Paragraph 4(d) of the English version of the Act is replaced by the following:
 
-    the provision of feedback as to how **disclosed** information is used and as to whether it is useful in protecting against activities that undermine the security of Canada facilitates effective and responsible information **disclosure**; and
+    the provision of feedback as to how disclosed information is used and as to whether it is useful in protecting against activities that undermine the security of Canada facilitates effective and responsible information disclosure; and
 
 ### Section 118
 
@@ -3328,17 +3598,33 @@ Sections 5 and 6 of the Act are replaced by the following:
 
 ### Section 5
 
-  **(1)** Subject to any provision of any other Act of Parliament, or of any regulation made under such an Act, that prohibits or restricts the disclosure of information, a Government of Canada institution may, on its own initiative or on request, disclose information to the head of a recipient Government of Canada institution whose title is listed in Schedule 3, or to **a person designated by the head of that recipient institution, if the disclosing institution is satisfied that**
+  **(1)** Subject to any provision of any other Act of Parliament, or of any regulation made under such an Act, that prohibits or restricts the disclosure of information, a Government of Canada institution may, on its own initiative or on request, disclose information to the head of a recipient Government of Canada institution whose title is listed in Schedule 3, or to a person designated by the head of that recipient institution, if the disclosing institution is satisfied that
 
-    **the disclosure will contribute to the exercise** of the recipient institution's jurisdiction, or the carrying out of its responsibilities, under an Act of Parliament or another lawful authority, in respect of activities that undermine the security of Canada; **and**
+    the disclosure will contribute to the exercise of the recipient institution's jurisdiction, or the carrying out of its responsibilities, under an Act of Parliament or another lawful authority, in respect of activities that undermine the security of Canada; and
 
     the disclosure will not affect any person's privacy interest more than is reasonably necessary in the circumstances.
 
   **(2)** An institution that discloses information under subsection (1) must, at the time of the disclosure, also provide information regarding its accuracy and the reliability of the manner in which it was obtained.
 
-### Section 6.
+### Section 5.1
 
-Nothing in section 5 is to be construed as authorizing the collection or use of, or the retention or disposal of any record that contains, information that is disclosed under that section.
+  **(1)** A Government of Canada institution must, as soon as feasible after receiving it under section 5, destroy or return any personal information, as defined in section 3 of the `Privacy Act`, that is not necessary for the institution to exercise its jurisdiction, or to carry out its responsibilities, under an Act of Parliament or another lawful authority, in respect of activities that undermine the security of Canada.
+
+  **(2)** Subsection (1) does not apply if the retention of the information is required by law.
+
+  **(3)** Subsection (1) does not apply to the Canadian Security Intelligence Service in respect of any information that relates to the performance of its duties and functions under section 12 of the `Canadian Security Intelligence Service Act`.
+
+### Section 6
+
+Nothing in section 5 **or 5.1** is to be construed as authorizing the collection or use of any information that is disclosed under section **5**.
+
+### Section 118.1
+
+The Act is amended by adding the following after section 7:
+
+### Section 7.1
+
+For greater certainty, for the purpose of paragraph 8(2)(b) of the `Privacy Act`, the authority in this Act to disclose information includes the authority to disclose personal information, as defined in section 3 of the `Privacy Act`.
 
 ### Section 119
 
@@ -3349,39 +3635,53 @@ Nothing in section 5 is to be construed as authorizing the collection or use of,
 
 ### Section 9
 
-    Every Government of Canada institution that discloses information under this Act must prepare and keep records that set out
+      ****(1)**** Every Government of Canada institution that discloses information under this Act must prepare and keep records that set out
 
-    a description of the information;
+        a description of the information;
 
-    the name of the individual who authorized its disclosure;
+        the name of the individual who authorized its disclosure;
 
-    the name of the recipient Government of Canada institution;
+        the name of the recipient Government of Canada institution;
 
-    the date on which it was disclosed;
+        the date on which it was disclosed;
 
-    a description of the information that was relied on to satisfy the disclosing institution that the disclosure was authorized under this Act; and
+        a description of the information that was relied on to satisfy the disclosing institution that the disclosure was authorized under this Act; and
 
-    any other information specified by the regulations.
+        any other information specified by the regulations.
 
-  **(2)** Section 9 of the Act is renumbered as subsection 9(1) and is amended by adding the following:
+      **(2)** Every Government of Canada institution that receives information under this Act must prepare and keep records that set out
 
-    **(2)** Within 30 days after the end of each calendar year, the Government of Canada institution must provide the National Security and Intelligence Review Agency with a copy of every record it prepared under subsection (1) with respect to a disclosure made during the year.
+        a description of the information;
+
+        the name of the institution that disclosed it;
+
+        the name or position of the head of the recipient institution — or of the person designated by the head — who received the information;
+
+        the date on which it was received by the recipient institution;
+
+        whether the information has been destroyed or returned under subsection 5.1(1);
+
+        if the information has been destroyed under subsection 5.1(1), the date on which it was destroyed;
+
+        if the information was returned under subsection 5.1(1) to the institution that disclosed it, the date on which it was returned; and
+
+        any other information specified by the regulations.
+
+### Section 2
+
+Section 9 of the Act is amended by adding the following **after subsection (2)**:
+
+****(3)**** Within 30 days after the end of each calendar year, **every** Government of Canada institution **that disclosed information under section 5** during the year **and every Government of Canada institution that received such information** must provide the National Security and Intelligence Review Agency with a copy of every record it prepared under subsection (1) **or (2), as the case may be**, with respect to the **information**.
 
 ### Section 120
 
   **(1)** Paragraphs 10(1)(b) and (c) of the Act are replaced by the following:
 
-    specifying information for the purposes of paragraph 9(f); and
+    specifying information for the purposes of paragraph 9(1)(f) **or (2)(f)**; and
 
-    respecting the manner in which records **that are required by section 9 are to be prepared and** kept **and specifying the period during which they are to be kept**.
+    respecting the manner in which records that are required by subsection 9(1) **or (2)** are to be prepared and kept and specifying the period during which they are to be kept.
 
-  **(2)** Paragraphs 10(1)(b) and (c) of the Act are replaced by the following:
-
-    specifying information for the purposes of paragraph 9(1)(f); and
-
-    respecting the manner in which records that are required by subsection 9(1) are to be prepared and kept and specifying the period during which they are to be kept.
-
-  **(3)** Subsection 10(3) of the Act is replaced by the following:
+  **(2)** Subsection 10(3) of the Act is replaced by the following:
 
     **(3)** The Governor in Council may make an order adding the name of a Government of Canada institution and the title of its head to Schedule 3, deleting the name of an institution and the title of its head from that Schedule or amending the name of an institution or the title of a head that is listed in that Schedule. An addition is authorized only if the institution has jurisdiction or responsibilities under an Act of Parliament or another lawful authority in respect of activities that undermine the security of Canada.
 
@@ -3395,7 +3695,7 @@ Nothing in section 5 is to be construed as authorizing the collection or use of,
 
 The portion of subsection 295(5.05) of the `Excise Tax Act` before paragraph (a) is replaced by the following:
 
-**(5.05)** An official may provide to the head of a recipient Government of Canada institution listed in Schedule 3 to the `Security of Canada Information **Disclosure** Act,`**or to an official designated for the purposes of that Act by the head of that recipient institution**,
+**(5.05)** An official may provide to the head of a recipient Government of Canada institution listed in Schedule 3 to the `Security of Canada Information Disclosure Act,`or to an official designated for the purposes of that Act by the head of that recipient institution,
 
 
 #### `Department of Fisheries and Oceans Act`
@@ -3404,7 +3704,7 @@ The portion of subsection 295(5.05) of the `Excise Tax Act` before paragraph (a)
 
 Paragraph 4(3)(a) of the `Department of Fisheries and Oceans Act` is replaced by the following:
 
-relates to **an activity** that undermines the security of Canada, as defined in **subsection** 2(**1**) of the `Security of Canada Information **Disclosure** Act`; and
+relates to an activity that undermines the security of Canada, as defined in subsection 2(1) of the `Security of Canada Information Disclosure Act`; and
 
 
 #### `Customs Act`
@@ -3413,7 +3713,7 @@ relates to **an activity** that undermines the security of Canada, as defined in
 
 Paragraph 107(4)(i) of the English version of the `Customs Act` is replaced by the following:
 
-is disclosed in accordance with the `Security of Canada Information **Disclosure** Act`.
+is disclosed in accordance with the `Security of Canada Information Disclosure Act`.
 
 
 #### `Income Tax Act`
@@ -3422,7 +3722,7 @@ is disclosed in accordance with the `Security of Canada Information **Disclosure
 
 The portion of subsection 241(9) of the `Income Tax Act` before paragraph (a) is replaced by the following:
 
-**(9)** An official may provide to the head of a recipient Government of Canada institution listed in Schedule 3 to the `Security of Canada Information **Disclosure** Act,`**or to an official designated for the purposes of that Act by the head of that recipient institution**,
+**(9)** An official may provide to the head of a recipient Government of Canada institution listed in Schedule 3 to the `Security of Canada Information Disclosure Act,`or to an official designated for the purposes of that Act by the head of that recipient institution,
 
 
 #### `Chemical Weapons Convention Implementation Act`
@@ -3431,7 +3731,7 @@ The portion of subsection 241(9) of the `Income Tax Act` before paragraph (a) is
 
 Paragraph 17(3)(c) of the English version of the `Chemical Weapons Convention Implementation Act` is replaced by the following:
 
-in the case where the information or documents are disclosed in accordance with the `Security of Canada Information **Disclosure** Act`.
+in the case where the information or documents are disclosed in accordance with the `Security of Canada Information Disclosure Act`.
 
 
 #### `Excise Act, 2001`
@@ -3440,7 +3740,7 @@ in the case where the information or documents are disclosed in accordance with 
 
 The portion of subsection 211(6.5) of the `Excise Act, 2001` before paragraph (a) is replaced by the following:
 
-**(6.5)** An official may provide to the head of a recipient Government of Canada institution listed in Schedule 3 to the `Security of Canada Information **Disclosure** Act,`**or to an official designated for the purposes of that Act by the head of that recipient institution**,
+**(6.5)** An official may provide to the head of a recipient Government of Canada institution listed in Schedule 3 to the `Security of Canada Information Disclosure Act,`or to an official designated for the purposes of that Act by the head of that recipient institution,
 
 
 ## `Secure Air Travel Act`
@@ -3452,7 +3752,7 @@ The portion of subsection 211(6.5) of the `Excise Act, 2001` before paragraph (a
 
 Subsection 6(2) of the `Secure Air Travel Act` is replaced by the following:
 
-**(2)** An air carrier must **provide** to the Minister **within** any **time and in any manner** that **may be prescribed by regulation, the following** information **about each person** who is on board or expected to be on board an aircraft for any flight **prescribed by regulation, if that** information is in **the air carrier's** control:
+**(2)** An air carrier must provide to the Minister within any time and in any manner that may be prescribed by regulation, the following information about each person who is on board or expected to be on board an aircraft for any flight prescribed by regulation, if that information is in the air carrier's control:
 
   their surname, first name and middle names;
 
@@ -3464,7 +3764,7 @@ Subsection 6(2) of the `Secure Air Travel Act` is replaced by the following:
 
 **(3)** If the information that an air carrier is required to provide under subsection (2) is provided to the Minister by an operator of an aviation reservation system, within any time and in any manner that may be prescribed for the purpose of that subsection, the air carrier is deemed to have provided that information to the Minister under that subsection.
 
-**(4)** An air carrier or **an** operator of an aviation reservation system, as the case may be, must provide to the Minister or the Minister of Transport, or to any person or entity referred to in any of paragraphs 10(b) to (f) who is prescribed by regulation, the information that is requested by that Minister, person or entity about any person who is on board or expected to be on board an aircraft for any flight prescribed by regulation, if the information is in the air carrier's or operator's control.
+**(4)** An air carrier or an operator of an aviation reservation system, as the case may be, must provide to the Minister or the Minister of Transport, or to any person or entity referred to in any of paragraphs 10(b) to (f) who is prescribed by regulation, the information that is requested by that Minister, person or entity about any person who is on board or expected to be on board an aircraft for any flight prescribed by regulation, if the information is in the air carrier's or operator's control.
 
 **(5)** The Minister or the Minister of Transport may request, under subsection (4), only information that is set out in the schedule to the `Aeronautics Act` or is prescribed by regulation, and he or she may request that information only in respect of a listed person or a person who he or she has reason to believe is a listed person.
 
@@ -3494,7 +3794,7 @@ The Minister may, by order, for any period and on any terms that may be specifie
 
 ### Section 8
 
-      **(1)** The Minister may establish a list on which is placed the surname, **first** name **and middle names**, any alias, the date of birth and the gender of any person, **and any other information that is prescribed by regulation that serves to identify the person, if** the Minister has reasonable grounds to suspect **that the person** will
+      **(1)** The Minister may establish a list on which is placed the surname, first name and middle names, any alias, the date of birth and the gender of any person, and any other information that is prescribed by regulation that serves to identify the person, if the Minister has reasonable grounds to suspect that the person will
 
   **(2)** Section 8 of the Act is amended by adding the following after subsection (3):
 
@@ -3528,11 +3828,11 @@ collect the information that is provided under subsection 6(4).
 
 ### Section 11
 
-Subject to section 12, the Minister may, for the **purpose** of **ensuring** transportation security or **preventing** the travel referred to in paragraph 8(1)(b), disclose information **that is** obtained in the exercise or performance of **his or her** powers, duties or functions under this Act, **other than information that is provided under subsection 6(2) or deemed to have been provided under subsection 6(3)**.
+Subject to section 12, the Minister may, for the purpose of ensuring transportation security or preventing the travel referred to in paragraph 8(1)(b), disclose information that is obtained in the exercise or performance of his or her powers, duties or functions under this Act, other than information that is provided under subsection 6(2) or deemed to have been provided under subsection 6(3).
 
 ### Section 12
 
-The Minister may enter into a written arrangement with the government of a foreign state, an institution of such a government or an international organization relating to the disclosure of **any** information **that he or she is, under subsection 10.3(2) or** section 11, **permitted to disclose**, and may disclose the list, in whole or in part, to the state, institution or organization **only** in accordance with the arrangement.
+The Minister may enter into a written arrangement with the government of a foreign state, an institution of such a government or an international organization relating to the disclosure of any information that he or she is, under subsection 10.3(2) or section 11, permitted to disclose, and may disclose the list, in whole or in part, to the state, institution or organization only in accordance with the arrangement.
 
 ### Section 131
 
@@ -3546,7 +3846,7 @@ The Minister may disclose to a child's parent, or to a child's guardian or tutor
 
 Paragraph 13(b) of the Act is replaced by the following:
 
-collect from air carriers and operators of aviation reservation systems any information **that is provided under subsection 6(4)**;
+collect from air carriers and operators of aviation reservation systems any information that is provided under subsection 6(4);
 
 ### Section 133
 
@@ -3554,13 +3854,13 @@ Section 14 of the Act is replaced by the following:
 
 ### Section 14
 
-The Canada Border Services Agency may assist the Minister in the administration and enforcement of this Act, including by disclosing to **him or her** and to any other person or entity referred to in section 10 information that is collected from air carriers and operators of aviation reservation systems in respect of a listed person or **of** a person **about whom the Minister or the Minister of Transport has informed that Agency that he or she has reason to believe that the person is a listed person**.
+The Canada Border Services Agency may assist the Minister in the administration and enforcement of this Act, including by disclosing to him or her and to any other person or entity referred to in section 10 information that is collected from air carriers and operators of aviation reservation systems in respect of a listed person or of a person about whom the Minister or the Minister of Transport has informed that Agency that he or she has reason to believe that the person is a listed person.
 
 ### Section 134
 
 Subsection 15(6) of the Act is replaced by the following:
 
-**(6)** If the Minister does not make a decision in respect of the application within **a period of 120** days after the day on which the application is received — or within **a** further period **of 120 days,** if the Minister **does not have sufficient information to make a decision** and **he or she notifies** the applicant **of the extension within the first 120-day period** — the Minister is deemed to have decided to remove the applicant's name from the list.
+**(6)** If the Minister does not make a decision in respect of the application within a period of 120 days after the day on which the application is received — or within a further period of 120 days, if the Minister does not have sufficient information to make a decision and he or she notifies the applicant of the extension within the first 120-day period — the Minister is deemed to have decided to remove the applicant's name from the list.
 
 ### Section 135
 
@@ -3574,13 +3874,13 @@ Sections 18 and 19 of the Act are replaced by the following:
 
 ### Section 18
 
-  ****(1)**** Despite any other Act of Parliament, including the `Access to Information Act` and the `Privacy Act`, the Minister must, within seven days after the day on which a flight prescribed by regulation departs or, if the flight is cancelled, within seven days after the day on which it is cancelled, destroy **any document or record containing** the following information about a person who is or was on board or was expected to be on board an aircraft for the flight, unless that information is reasonably required for the purposes of this Act:
+  **(1)** Despite any other Act of Parliament, including the `Access to Information Act` and the `Privacy Act`, the Minister must, within seven days after the day on which a flight prescribed by regulation departs or, if the flight is cancelled, within seven days after the day on which it is cancelled, destroy any document or record containing the following information about a person who is or was on board or was expected to be on board an aircraft for the flight, unless that information is reasonably required for the purposes of this Act:
 
-    any information **that is provided to the Minister under subsection 6(2) or is deemed to have been provided to the Minister under subsection 6(3)**;
+    any information that is provided to the Minister under subsection 6(2) or is deemed to have been provided to the Minister under subsection 6(3);
 
-    **any information that is provided to the Minister under subsection 6(4); and**
+    any information that is provided to the Minister under subsection 6(4); and
 
-    **any information that is disclosed to the Minister under paragraph 13(d), if that information was originally provided to the Minister of Transport under subsection 6(4).**
+    any information that is disclosed to the Minister under paragraph 13(d), if that information was originally provided to the Minister of Transport under subsection 6(4).
 
   **(2)** Despite any other Act of Parliament, including the `Access to Information Act` and the `Privacy Act`, the Minister of Transport and any person or entity who is prescribed by regulation for the purpose of subsection 6(4) must, within seven days after the day on which a flight prescribed by regulation departs or, if the flight is cancelled, within seven days after the day on which it is cancelled, destroy any document or record containing information about a person who is or was on board or was expected to be on board an aircraft for the flight that is provided to that Minister, person or entity under subsection 6(4), unless that information is reasonably required for the purposes of this Act.
 
@@ -3592,7 +3892,7 @@ Sections 18 and 19 of the Act are replaced by the following:
 
 ### Section 19
 
-For greater certainty, nothing in this Act limits or prohibits the collection, use, disclosure or **retention** of any information if that collection, use, disclosure or **retention** is otherwise lawful.
+For greater certainty, nothing in this Act limits or prohibits the collection, use, disclosure or retention of any information if that collection, use, disclosure or retention is otherwise lawful.
 
 ### Section 137
 
@@ -3600,15 +3900,15 @@ For greater certainty, nothing in this Act limits or prohibits the collection, u
 
 ### Section 20
 
-      **(1)** It is prohibited to disclose the list, except as required for the purposes of sections 10, **11, 12 and 13**.
+      **(1)** It is prohibited to disclose the list, except as required for the purposes of sections 10, 11, 12 and 13.
 
   **(2)** The portion of subsection 20(2) of the French version of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** Il est interdit de communiquer le fait qu'une personne est, a été, **n'est pas ou n'a pas été** une personne inscrite, sauf :
+    **(2)** Il est interdit de communiquer le fait qu'une personne est, a été, n'est pas ou n'a pas été une personne inscrite, sauf :
 
   **(3)** Paragraph 20(2)(a) of the Act is replaced by the following:
 
-    for the purposes of sections 10 **and 10.3** to 16;
+    for the purposes of sections 10 and 10.3 to 16;
 
   **(4)** Subsection 20(2) of the Act is amended by striking out "or" at the end of paragraph (c), by adding "or" at the end of paragraph (d) and by adding the following after paragraph (d):
 
@@ -3616,7 +3916,7 @@ For greater certainty, nothing in this Act limits or prohibits the collection, u
 
   **(5)** The portion of subsection 20(3) of the French version of the Act before paragraph (a) is replaced by the following:
 
-    **(3)** Malgré le paragraphe (2), il est interdit à tout transporteur aérien et à tout exploitant de systèmes de réservation de services aériens de communiquer tout renseignement relatif à une personne inscrite ou le fait qu'une personne est, a été, **n'est pas ou n'a pas été** une personne inscrite, sauf :
+    **(3)** Malgré le paragraphe (2), il est interdit à tout transporteur aérien et à tout exploitant de systèmes de réservation de services aériens de communiquer tout renseignement relatif à une personne inscrite ou le fait qu'une personne est, a été, n'est pas ou n'a pas été une personne inscrite, sauf :
 
   **(6)** Paragraph 20(3)(a) of the Act is replaced by the following:
 
@@ -3630,7 +3930,7 @@ For greater certainty, nothing in this Act limits or prohibits the collection, u
 
 Paragraph 32(b) of the Act is replaced by the following:
 
-respecting the use and protection of directions made under section 9 and the use and protection of information **that is** provided by the Minister or the Minister of Transport to air carriers and to operators of aviation reservation systems;
+respecting the use and protection of directions made under section 9 and the use and protection of information that is provided by the Minister or the Minister of Transport to air carriers and to operators of aviation reservation systems;
 
 
 ### Transitional Provision
@@ -3655,7 +3955,7 @@ with respect to proceedings under section 83.13, 83.14, 83.222, 83.223 or 83.3, 
 
   **(1)** Paragraph 83.05(1)(b) of the Act is replaced by the following:
 
-    the entity **has** knowingly **acted** on behalf of, at the direction of or in association with an entity referred to in paragraph (a).
+    the entity has knowingly acted on behalf of, at the direction of or in association with an entity referred to in paragraph (a).
 
   **(2)** Subsections 83.05(2) and (3) of the Act are replaced by the following:
 
@@ -3665,13 +3965,13 @@ with respect to proceedings under section 83.13, 83.14, 83.222, 83.223 or 83.3, 
 
       delete from the list any other name by which a listed entity may also have been known, if the entity is no longer using that name.
 
-    **(2)** On application in writing by a listed entity **to be removed from the list**, the Minister shall decide whether there are reasonable grounds, **as set out in subsection (1)**, to recommend to the Governor in Council that the applicant **remain a** listed entity.
+    **(2)** On application in writing by a listed entity to be removed from the list, the Minister shall decide whether **the applicant should** remain a listed entity **or whether the Minister should** recommend to the Governor in Council that the applicant **be removed from the list, taking into account the** grounds set out in subsection (1).
 
-    **(3)** If the Minister does not make a decision on the application referred to in subsection (2) within **90** days after receipt of the application, **or within any longer period that may be agreed to in writing by the Minister and the applicant**, the Minister is deemed to have decided to recommend that the applicant remain a listed entity.
+    **(3)** If the Minister does not make a decision on the application referred to in subsection (2) within 90 days after receipt of the application, or within any longer period that may be agreed to in writing by the Minister and the applicant, the Minister is deemed to have decided that the applicant **should** remain a listed entity.
 
   **(3)** Paragraph 83.05(6)(a) of the Act is replaced by the following:
 
-    examine, in private, any security or criminal intelligence reports considered in **the making of the decision on whether the applicant should remain a listed entity** and hear any other evidence or information that may be presented by or on behalf of the Minister and may, at his or her request, hear all or part of that evidence or information in the absence of the applicant and any counsel representing the applicant, if the judge is of the opinion that the disclosure of the information would injure national security or endanger the safety of any person;
+    examine, in private, any security or criminal intelligence reports considered in the making of the decision on whether the applicant should remain a listed entity and hear any other evidence or information that may be presented by or on behalf of the Minister and may, at his or her request, hear all or part of that evidence or information in the absence of the applicant and any counsel representing the applicant, if the judge is of the opinion that the disclosure of the information would injure national security or endanger the safety of any person;
 
   **(4)** Subsections 83.05(8) to (10) of the Act are replaced by the following:
 
@@ -3679,9 +3979,9 @@ with respect to proceedings under section 83.13, 83.14, 83.222, 83.223 or 83.3, 
 
       there has been a material change in its circumstances; or
 
-      the Minister has completed **a** review under subsection **(8.1) with respect to that entity**.
+      the Minister has completed a review under subsection (8.1) with respect to that entity.
 
-    ****(8.1)**** The Minister shall review whether there are still reasonable grounds, as set out in subsection (1), for an entity to be a listed entity and make a recommendation to the Governor in Council as to whether the entity should remain a listed entity
+    **(8.1)** The Minister shall review whether there are still reasonable grounds, as set out in subsection (1), for an entity to be a listed entity and make a recommendation to the Governor in Council as to whether the entity should remain a listed entity
 
       within five years after
 
@@ -3691,9 +3991,9 @@ with respect to proceedings under section 83.13, 83.14, 83.222, 83.223 or 83.3, 
 
       subsequently, within five years after the most recent recommendation made under this subsection with respect to the entity.
 
-    **(9)** **Reviews undertaken under subsection (8.1) do** not affect the validity of the list.
+    **(9)** Reviews undertaken under subsection (8.1) do not affect the validity of the list.
 
-    **(10)** The Minister shall cause notice of **the results of every** review **of a listed entity undertaken under subsection (8.1)** to be published in the `Canada Gazette`**within five years after** the review **is completed**.
+    **(10)** The Minister shall cause notice of the results of every review of a listed entity undertaken under subsection (8.1) to be published in the `Canada Gazette`within five years after the review is completed.
 
 ### Section 142
 
@@ -3701,9 +4001,9 @@ Section 83.07 of the Act is replaced by the following:
 
 ### Section 83.07
 
-  **(1)** An entity **whose name is the same as or similar to a name, appearing on the list, of** a listed entity **and who claims not to be that listed entity** may apply **in writing** to the Minister of Public Safety and Emergency Preparedness for a certificate stating that it is not **that** listed entity.
+  **(1)** An entity whose name is the same as or similar to a name, appearing on the list, of a listed entity and who claims not to be that listed entity may apply in writing to the Minister of Public Safety and Emergency Preparedness for a certificate stating that it is not that listed entity.
 
-  **(2)** The Minister shall, within **30** days after receiving the application, issue a certificate if he or she is satisfied that the applicant is not **that** listed entity.
+  **(2)** The Minister shall, within 30 days after receiving the application, issue a certificate if he or she is satisfied that the applicant is not that listed entity.
 
 ### Section 143
 
@@ -3711,19 +4011,15 @@ Section 83.221 of the Act is replaced by the following:
 
 ### Section 83.221
 
-  **(1)** Every person who **counsels another person to commit a** terrorism **offence** — other than an offence under this section — is guilty of an indictable offence and is liable to imprisonment for a term of not more than five years.
+  **(1)** Every person who counsels another person to commit a terrorism offence **without identifying a specific terrorism** offence is guilty of an indictable offence and is liable to imprisonment for a term of not more than five years.
 
-  **(2)** An offence may be committed under subsection (1) whether or not
-
-    a terrorism offence is committed; and
-
-    the person counsels the commission of a specific terrorism offence.
+  **(2)** An offence may be committed under subsection (1) whether or not a terrorism offence is committed **by** the person **who is counselled**.
 
 ### Section 144
 
 The definition **terrorist propaganda** in subsection 83.222(8) of the Act is replaced by the following:
 
-**terrorist propaganda** means any writing, sign, visible representation or audio recording that counsels the commission of a terrorism offence, other than an offence under **section** 83.221. (**propagande terroriste**)
+**terrorist propaganda** means any writing, sign, visible representation or audio recording that counsels the commission of a terrorism offence. (**propagande terroriste**)
 
 ### Section 145
 
@@ -3733,15 +4029,15 @@ The heading before section 83.28 and sections 83.28 and 83.29 of the Act are rep
 
   **(1)** Paragraph 83.3(2)(b) of the Act is replaced by the following:
 
-    suspects on reasonable grounds that the imposition of a recognizance with conditions on a person, or the arrest of a person, is **necessary** to prevent the carrying out of the terrorist activity.
+    suspects on reasonable grounds that the imposition of a recognizance with conditions on a person, or the arrest of a person, is necessary to prevent the carrying out of the terrorist activity.
 
   **(2)** The portion of subsection 83.3(4) of the French version of the Act before paragraph (a) is replaced by the following:
 
-    **(4)** Par dérogation aux paragraphes (2) et (3), l'agent de la paix, s'il a des motifs raisonnables de soupçonner que la mise sous garde de la personne **est nécessaire** pour empêcher **qu'**une activité terroriste **ne soit entreprise**, peut, sans mandat, arrêter la personne et la faire mettre sous garde en vue de la conduire devant un juge de la cour provinciale en conformité avec le paragraphe (6) dans l'un ou l'autre des cas suivants :
+    **(4)** Par dérogation aux paragraphes (2) et (3), l'agent de la paix, s'il a des motifs raisonnables de soupçonner que la mise sous garde de la personne est nécessaire pour empêcher qu'une activité terroriste ne soit entreprise, peut, sans mandat, arrêter la personne et la faire mettre sous garde en vue de la conduire devant un juge de la cour provinciale en conformité avec le paragraphe (6) dans l'un ou l'autre des cas suivants :
 
   **(3)** Paragraph 83.3(4)(b) of the English version of the Act is replaced by the following:
 
-    the peace officer suspects on reasonable grounds that the detention of the person in custody is **necessary** to prevent a terrorist activity.
+    the peace officer suspects on reasonable grounds that the detention of the person in custody is necessary to prevent a terrorist activity.
 
 ### Section 147
 
@@ -3753,11 +4049,11 @@ Subsections 83.31(1) and (1.1) of the Act are repealed.
 
 ### Section 83.32
 
-      **(1)** **Section** 83.3 **ceases** to have effect at the end of the fifth anniversary **of the day on which the `National Security Act, 2017` receives royal assent** unless, before the end of that **fifth anniversary**, the operation of **that section** is extended by resolution — whose text is established under subsection (2) — passed by both Houses of Parliament in accordance with the rules set out in subsection (3).
+      **(1)** Section 83.3 ceases to have effect at the end of the fifth anniversary of the day on which the `National Security Act, 2017` receives royal assent unless, before the end of that fifth anniversary, the operation of that section is extended by resolution — whose text is established under subsection (2) — passed by both Houses of Parliament in accordance with the rules set out in subsection (3).
 
-      **(1.1)** A comprehensive review of **section** 83.3 and **its** operation shall be undertaken by any committee of the Senate, of the House of Commons or of both Houses of Parliament that may be designated or established by the Senate or the House of Commons, or by both Houses of Parliament, as the case may be, for that purpose.
+      **(1.1)** A comprehensive review of section 83.3 and its operation shall be undertaken by any committee of the Senate, of the House of Commons or of both Houses of Parliament that may be designated or established by the Senate or the House of Commons, or by both Houses of Parliament, as the case may be, for that purpose.
 
-      **(1.2)** The committee shall, **no later than one year before the fifth anniversary referred to** subsection **(1)**, submit a report on the review to **the appropriate House of** Parliament, or to both **Houses**, as the case may be, including its recommendation with respect to extending the operation of section 83.3.
+      **(1.2)** The committee shall, no later than one year before the fifth anniversary referred to subsection (1), submit a report on the review to the appropriate House of Parliament, or to both Houses, as the case may be, including its recommendation with respect to extending the operation of section 83.3.
 
       **(2)** The Governor in Council may, by order, establish the text of a resolution that provides for the extension of the operation of section 83.3 and that specifies the period of the extension, which may not exceed five years from the first day on which the resolution has been passed by both Houses of Parliament.
 
@@ -3765,7 +4061,7 @@ Subsections 83.31(1) and (1.1) of the Act are repealed.
 
     **(4)** The operation of section 83.3 may be further extended in accordance with this section, but
 
-      the reference to "**at the end of** the fifth anniversary of the **day on which the `National Security Act, 2017` receives royal assent unless, before the end of that fifth anniversary**" in subsection (1) is to be read as a reference to "**on** the expiry of the most recent extension under this section **unless, before that extension expires**"; **and**
+      the reference to "at the end of the fifth anniversary of the day on which the `National Security Act, 2017` receives royal assent unless, before the end of that fifth anniversary" in subsection (1) is to be read as a reference to "on the expiry of the most recent extension under this section unless, before that extension expires"; and
 
       the reference to "the fifth anniversary referred to subsection (1)" in subsection (1.2) is to be read as a reference to "the expiry of the most recent extension under this section".
 
@@ -3777,7 +4073,7 @@ Subsection 83.33(1) of the Act is repealed.
 
 Subparagraph (a)(xii.81) of the definition **offence** in section 183 of the Act is replaced by the following:
 
-**section** 83.221 (**counselling** commission of terrorism offence),
+section 83.221 (counselling commission of terrorism offence),
 
 ### Section 151
 
@@ -3785,13 +4081,13 @@ Subsection 486.6(1) of the Act is replaced by the following:
 
 ### Section 486.6
 
-  **(1)** Every person who fails to comply with an order made under **any of subsections** 486.4(1) **to** (3) or **subsection** 486.5(1) or (2) is guilty of an offence punishable on summary conviction.
+  **(1)** Every person who fails to comply with an order made under any of subsections 486.4(1) to (3) or subsection 486.5(1) or (2) is guilty of an offence punishable on summary conviction.
 
 ### Section 152
 
 Subparagraph (a.1)(i.091) of the definition **primary designated offence** in section 487.04 of the Act is replaced by the following:
 
-**section** 83.221 (**counselling** commission of terrorism offence),
+section 83.221 (counselling commission of terrorism offence),
 
 ### Section 153
 
@@ -3825,13 +4121,20 @@ Proceedings commenced under sections 83.28 and 83.29 of the `Criminal Code`, as 
 No report is to be prepared under subsection 810.011(15) of the `Criminal Code` with respect to the year that precedes the coming into force of that subsection.
 
 
+### Section 83.3 of the Criminal Code
+
+### Section 157.1
+
+If section 83.3 of the `Criminal Code` has ceased to have effect in accordance with section 83.32 of that Act before the day on which this section comes into force, then that section 83.3 becomes effective again as of the day on which this section comes into force and sections 146 and 148 of this Act apply in respect of that section 83.3.
+
+
 ### Consequential Amendment to the `Corrections and Conditional Release Act`
 
 ### Section 158
 
 Paragraph (a.92) of section 1 of Schedule I to the `Corrections and Conditional Release Act` is replaced by the following:
 
-**section** 83.221 (**counselling** commission of terrorism offence);
+section 83.221 (counselling commission of terrorism offence);
 
 
 ## `Youth Criminal Justice Act`
@@ -3840,13 +4143,13 @@ Paragraph (a.92) of section 1 of Schedule I to the `Corrections and Conditional 
 
 Subsection 14(2) of the `Youth Criminal Justice Act` is replaced by the following:
 
-**(2)** A youth justice court has **exclusive** jurisdiction to make orders against a young person under sections 83.3 (recognizance — terrorist activity), 810 (recognizance —fear of injury or damage), 810.01 (recognizance — fear of certain offences), 810.011 (recognizance — fear of terrorism offence), 810.02 (recognizance — fear of forced marriage or marriage under age of 16 years) and 810.2 (recognizance — fear of serious personal injury offence) of the `Criminal Code` **and the provisions of this Act apply, with any modifications that the circumstances require**. If the young person fails or refuses to enter into a recognizance referred to in any of those sections, the court may impose any one of the sanctions set out in subsection 42(2) (youth sentences) except that, in the case of an order under paragraph 42(2)(n) (custody and supervision order), it shall not exceed 30 days.
+**(2)** A youth justice court has exclusive jurisdiction to make orders against a young person under sections 83.3 (recognizance — terrorist activity), 810 (recognizance —fear of injury or damage), 810.01 (recognizance — fear of certain offences), 810.011 (recognizance — fear of terrorism offence), 810.02 (recognizance — fear of forced marriage or marriage under age of 16 years) and 810.2 (recognizance — fear of serious personal injury offence) of the `Criminal Code` and the provisions of this Act apply, with any modifications that the circumstances require. If the young person fails or refuses to enter into a recognizance referred to in any of those sections, the court may impose any one of the sanctions set out in subsection 42(2) (youth sentences) except that, in the case of an order under paragraph 42(2)(n) (custody and supervision order), it shall not exceed 30 days.
 
 ### Section 160
 
 Subsection 20(2) of the Act is replaced by the following:
 
-**(2)** **Despite subsection 14(2)**, a justice has jurisdiction to make an order under section 810 (recognizance — fear of injury or damage) of the `Criminal Code` in respect of a young person. If the young person fails or refuses to enter into a recognizance referred to in that section, the justice shall refer the matter to a youth justice court.
+**(2)** Despite subsection 14(2), a justice has jurisdiction to make an order under section 810 (recognizance — fear of injury or damage) of the `Criminal Code` in respect of a young person. If the young person fails or refuses to enter into a recognizance referred to in that section, the justice shall refer the matter to a youth justice court.
 
 ### Section 161
 
@@ -3858,14 +4161,14 @@ Subsection 20(2) of the Act is replaced by the following:
 
   **(2)** The portion of subsection 25(6) of the Act before paragraph (a) is replaced by the following:
 
-    **(6)** When a young person, at a hearing referred to in paragraph (3)(a) **or (a.1)** that is held before a justice who is not a youth justice court judge, wishes to obtain counsel but is unable to do so, the justice shall
+    **(6)** When a young person, at a hearing referred to in paragraph (3)(a) or (a.1) that is held before a justice who is not a youth justice court judge, wishes to obtain counsel but is unable to do so, the justice shall
 
 ### Section 162
 
 The heading before section 28 of the Act is replaced by the following:
 
 
-### Detention **and Release**
+### Detention and Release
 
 ### Section 163
 
@@ -3881,14 +4184,14 @@ Subsection 30(1) of the Act is replaced by the following:
 
 ### Section 30
 
-  **(1)** Subject to subsection (7), a young person who is detained in **custody in relation to any proceedings against the young person** shall be detained in a **safe, fair and humane manner in** any place of temporary detention that may be designated by the lieutenant governor in council of the province or his or her delegate or in a place within a class of places so designated.
+  **(1)** Subject to subsection (7), a young person who is detained in custody in relation to any proceedings against the young person shall be detained in a safe, fair and humane manner in any place of temporary detention that may be designated by the lieutenant governor in council of the province or his or her delegate or in a place within a class of places so designated.
 
 ### Section 165
 
 The heading before section 33 of the Act is replaced by the following:
 
 
-### **Application for** Release from or Detention in Custody
+### Application for Release from or Detention in Custody
 
 ### Section 166
 
@@ -3939,6 +4242,10 @@ The heading before section 33 of the Act is replaced by the following:
 ### Section 169
 
 Parts 1 and 2, other than sections `48`, `49`, `74` and `75`, come into force on a day to be fixed by order of the Governor in Council.
+
+### Section 169.1
+
+Part 1.1, other than section 49.2, comes into force on a day to be fixed by order of the Governor in Council.
 
 ### Section 170
 
