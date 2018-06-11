@@ -1,7 +1,5 @@
 # Bill C-47: An Act to amend the Export and Import Permits Act and the Criminal Code (amendments permitting the accession to the Arms Trade Treaty and other amendments)
 
-**Sponsor**: MINISTER OF FOREIGN AFFAIRS
-
 ## Summary
 
 This enactment amends the `Export and Import Permits Act` to
@@ -112,7 +110,7 @@ The Act is amended by adding the following after section 7:
 
 ### Section 7.2
 
-In deciding whether to issue a permit under subsection 7(1) or 7.1(1), the Minister may, in addition to any other matter that the Minister may consider, **take into consideration** whether the goods or technology specified in **the** application for the permit may be used for a purpose prejudicial to the safety or interests of the State by being used to do anything referred to in paragraphs 3(1)(a) to (n) of the `Security of Information Act`.
+In deciding whether to issue a permit under subsection 7(1) or 7.1(1), the Minister may, in addition to any other matter that the Minister may consider, take into consideration whether the goods or technology specified in the application for the permit may be used for a purpose prejudicial to the safety or interests of the State by being used to do anything referred to in paragraphs 3(1)(a) to (n) of the `Security of Information Act`.
 
 ### Section 7.3
 
@@ -184,9 +182,9 @@ An export permit, import permit or brokering permit issued under this Act may, i
 
   **(1)** Paragraph 12(b) of the Act is replaced by the following:
 
-    **specifying, for** the **purposes of subsection 7.3(2)**, considerations that the Minister **shall** take into **consideration** when deciding whether to issue an export permit under subsection 7(1) in respect of goods or technology included in the Export Control List;
+    specifying, for the purposes of subsection 7.3(2), considerations that the Minister shall take into consideration when deciding whether to issue an export permit under subsection 7(1) in respect of goods or technology included in the Export Control List;
 
-    **specifying, for** the **purposes of subsection 7.3(2)**, considerations that the Minister **shall** take into **con­sideration** when deciding whether to issue a brokering permit under subsection 7.1(1) in respect of goods or technology included in a Brokering Control List;
+    specifying, for the purposes of subsection 7.3(2), considerations that the Minister shall take into con­sideration when deciding whether to issue a brokering permit under subsection 7.1(1) in respect of goods or technology included in a Brokering Control List;
 
     respecting information to be supplied by persons and organizations that have been issued or granted permits, import allocations, export allocations, certificates or other authorizations under this Act and any other matter associated with their use;
 
