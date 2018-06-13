@@ -18,5 +18,5 @@ The `Department of Public Works and Government Services Act` is amended by addin
 
   **(3)** A contracting party shall, upon request by the Minister, provide the Minister with an assessment as to whether community benefits have derived from the project.
 
-  **(4)** The Minister shall cause to be tabled before each House of Parliament, within **90** days after the end of each fiscal  year  or,  if  Parliament  is not then sitting, on any ofthe first 90 days next thereafter that Parliament is sitting, a report on community benefits provided by construction, maintenance or repair projects.
+  **(4)** The Minister shall cause to be tabled before each House of Parliament, within 90 days after the end of each fiscal  year  or,  if  Parliament  is not then sitting, on any ofthe first 90 days next thereafter that Parliament is sitting, a report on community benefits provided by construction, maintenance or repair projects.
 
