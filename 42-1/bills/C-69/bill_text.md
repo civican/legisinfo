@@ -1,7 +1,5 @@
 # Bill C-69: An Act to enact the Impact Assessment Act and the Canadian Energy Regulator Act, to amend the Navigation Protection Act and to make consequential amendments to other Acts
 
-**Sponsor**: MINISTER OF ENVIRONMENT AND CLIMATE CHANGE
-
 Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act to enact the Impact Assessment Act and the Canadian Energy Regulator Act, to amend the Navigation Protection Act and to make consequential amendments to other Acts*".
 
 ## Summary
@@ -2086,7 +2084,7 @@ Whereas the Government of Canada is committed to enhancing Canada's global compe
 
 Whereas the Government of Canada is committed to achieving reconciliation with First Nations, the Métis and the Inuit through renewed nation-to-nation, government-to-government and Inuit-Crown relationships based on recognition of rights, respect, co-operation and partnership;
 
-Whereas the Government of Canada is committed to using transparent processes that are built on early engagement and inclusive participation and under which the best available scientific information and data and the **Indigenous** knowledge of the Indigen­ous peoples of Canada are taken into account in decision-making;
+Whereas the Government of Canada is committed to using transparent processes that are built on early engagement and inclusive participation and under which the best available scientific information and data and the Indigenous knowledge of the Indigen­ous peoples of Canada are taken into account in decision-making;
 
 And whereas the Government of Canada is committed to assessing how groups of women, men and gender-diverse people may experience policies, programs and projects and to taking actions that contribute to an inclusive and democratic society and allow all Canadians to participate fully in all spheres of their lives;
 
@@ -2160,7 +2158,7 @@ It includes any physical activity that is incidental to those physical activitie
 
 **direct or incidental effects** means effects that are directly linked or necessarily incidental to a federal authority's exercise of a power or performance of a duty or function that would permit the carrying out, in whole or in part, of a physical activity or designated project, or to a federal authority's provision of financial assistance to a person for the purpose of enabling that activity or project to be carried out, in whole or in part. (**effets directs ou accessoires**)
 
-**effects** means, unless the context requires otherwise, changes to the environment or to health, social or economic conditions and the **positive and negative** consequences of these changes. (**effets**)
+**effects** means, unless the context requires otherwise, changes to the environment or to health, social or economic conditions and the positive and negative consequences of these changes. (**effets**)
 
 **effects within federal jurisdiction** means, with respect to a physical activity or a designated project,
 
@@ -2254,7 +2252,7 @@ the government of a province;
 
 any agency or body that is established under an Act of the legislature of a province and that has powers, duties or functions in relation to an assessment of the environmental effects of a designated project;
 
-any body — including a co-management body — established under a land claim agreement referred to in section 35 of the `Constitution Act, 1982` and that has powers, duties or functions in relation to an assessment of the environmental effects of a designated project;
+any body — including a co-management body — established under a land claim agreement referred to in section 35 of the `Constitution Act, 1982` and that has powers, duties or functions in relation to an assessment of the environmental effects of a designated project;
 
 an Indigenous governing body that has powers, duties or functions in relation to an assessment of the environmental effects of a designated project
 
@@ -2347,7 +2345,7 @@ This Act is binding on Her Majesty in right of Canada or a province.
 
     to encourage improvements to impact assessments through the use of follow-up programs.
 
-  **(2)** The Government of Canada, the Minister, the Agency and federal authorities, in the administration of this Act, must exercise their powers in a manner that fosters sustainability, **respects the Government's commitments with respect to the rights of the Indigenous peoples of Canada** and applies the precautionary principle.
+  **(2)** The Government of Canada, the Minister, the Agency and federal authorities, in the administration of this Act, must exercise their powers in a manner that fosters sustainability, respects the Government's commitments with respect to the rights of the Indigenous peoples of Canada and applies the precautionary principle.
 
   **(3)** The Government of Canada, the Minister, the Agency and federal authorities must, in the administration of this Act, exercise their powers in a manner that adheres to the principles of scientific integrity, honesty, objectivity, thoroughness and accuracy.
 
@@ -2445,7 +2443,7 @@ the decision statement with respect to the designated project that is issued to 
 
 ### Section 11
 
-The Agency must ensure that the public is provided with an opportunity to participate **meaningfully** in its preparations for a possible impact assessment of a designated project, including by inviting the public to provide comments within the period that it specifies.
+The Agency must ensure that the public is provided with an opportunity to participate meaningfully in its preparations for a possible impact assessment of a designated project, including by inviting the public to provide comments within the period that it specifies.
 
 ### Section 12
 
@@ -2489,7 +2487,7 @@ For the purpose of preparing for a possible impact assessment of a designated pr
 
     any adverse impact that the designated project may have on the rights of the Indigenous peoples of Canada recognized and affirmed by section 35 of the `Constitution Act, 1982`;
 
-    any comments received **within the time period specified by the Agency** from the public **and from any jurisdiction or Indigenous group that is consulted under section 12**;
+    any comments received within the time period specified by the Agency from the public and from any jurisdiction or Indigenous group that is consulted under section 12;
 
     any relevant assessment referred to in section `92`, `93` or `95`;
 
@@ -2500,13 +2498,13 @@ For the purpose of preparing for a possible impact assessment of a designated pr
   **(3)** The Agency must post a notice of its decision and the reasons for it on the Internet site.
 
 
-#### Minister's **Notice**
+#### Minister's Notice
 
 ### Section 17
 
-  **(1)** If, before the Agency provides the proponent of a designated project with a notice of the commencement of the impact assessment of the designated project under subsection 18(1), a federal authority advises the Minister that it will not be exercising a power conferred on it under an Act of Parliament other than this Act that must be exercised for the project to be carried out in whole or in part, or the Minister is of the opinion that it is clear that the designated project would cause unacceptable **environmental** effects within federal jurisdiction, the Minister **must provide the proponent with a written notice that he or she has been so advised or is of that opinion. The written notice must set out the reasons why the federal authority will not exercise its power or the basis for the Minister's opinion**.
+  **(1)** If, before the Agency provides the proponent of a designated project with a notice of the commencement of the impact assessment of the designated project under subsection 18(1), a federal authority advises the Minister that it will not be exercising a power conferred on it under an Act of Parliament other than this Act that must be exercised for the project to be carried out in whole or in part, or the Minister is of the opinion that it is clear that the designated project would cause unacceptable environmental effects within federal jurisdiction, the Minister must provide the proponent with a written notice that he or she has been so advised or is of that opinion. The written notice must set out the reasons why the federal authority will not exercise its power or the basis for the Minister's opinion.
 
-  **(2)** The Agency must post a copy of the **notice** on the Internet site.
+  **(2)** The Agency must post a copy of the notice on the Internet site.
 
 
 ### Information Gathering
@@ -2517,7 +2515,7 @@ For the purpose of preparing for a possible impact assessment of a designated pr
 
     a notice of the commencement of the impact assessment of the project that sets out the information or studies that the Agency considers necessary for it to conduct the impact assessment; and
 
-    any documents that are prescribed by regulations made under paragraph 112(a), **including tailored guidelines regarding the information or studies referred to in paragraph (a) and plans for cooperation with other jurisdictions, for engagement and partnership with the Indigenous peoples of Canada, for public participation and for the issuance of permits**.
+    any documents that are prescribed by regulations made under paragraph 112(a), including tailored guidelines regarding the information or studies referred to in paragraph (a) and plans for cooperation with other jurisdictions, for engagement and partnership with the Indigenous peoples of Canada, for public participation and for the issuance of permits.
 
   **(1.1)** The Agency must take into account the factors set out in subsection 22(1) in determining what information or which studies it considers necessary for it to conduct the impact assessment.
 
@@ -2568,9 +2566,9 @@ any jurisdiction referred to in paragraphs (c) to (i) of that definition if the 
 
 ### Section 22
 
-  **(1)** The impact assessment of a designated project, **whether it is conducted by the Agency or a review panel**, must take into account the following factors:
+  **(1)** The impact assessment of a designated project, whether it is conducted by the Agency or a review panel, must take into account the following factors:
 
-    the **changes to the environment or to health, social or economic conditions and the positive and negative consequences of these changes that are likely to be caused by the carrying out** of the designated project, including
+    the changes to the environment or to health, social or economic conditions and the positive and negative consequences of these changes that are likely to be caused by the carrying out of the designated project, including
 
     the effects of malfunctions or accidents that may occur in connection with the designated project,
 
@@ -2586,7 +2584,7 @@ any jurisdiction referred to in paragraphs (c) to (i) of that definition if the 
 
     alternative means of carrying out the designated project that are technically and economically feasible, including through the use of best available technologies, and the effects of those means;
 
-    any alternatives to the designated project **that are technically and economically feasible and are directly related to the designated project**;
+    any alternatives to the designated project that are technically and economically feasible and are directly related to the designated project;
 
     Indigenous knowledge provided with respect to the designated project;
 
@@ -2610,13 +2608,13 @@ any jurisdiction referred to in paragraphs (c) to (i) of that definition if the 
 
     any assessment of the effects of the designated project that is conducted by or on behalf of an Indigenous governing body and that is provided with respect to the designated project;
 
-    any study or plan that is conducted or prepared by a jurisdiction — **or an Indigenous governing body not referred to in paragraph (f) or (g) of the definition jurisdiction in section 2** — that is in respect of a region related to the designated project and that has been provided with respect to the project;
+    any study or plan that is conducted or prepared by a jurisdiction — or an Indigenous governing body not referred to in paragraph (f) or (g) of the definition jurisdiction in section 2 — that is in respect of a region related to the designated project and that has been provided with respect to the project;
 
     the intersection of sex and gender with other identity factors; and
 
     any other matter relevant to the impact assessment that the Agency or — if the impact assessment is referred to a review panel — the Minister requires to be taken into account.
 
-  **(2)** The scope of the factors to be taken into account under paragraphs (1)(a) to **(f), (h) to** (l) and (s) and (t) is determined by
+  **(2)** The scope of the factors to be taken into account under paragraphs (1)(a) to (f), (h) to (l) and (s) and (t) is determined by
 
     the Agency; or
 
@@ -2661,7 +2659,7 @@ a report is prepared with respect to that impact assessment.
 
 ### Section 27
 
-The Agency must ensure that the public is provided with an opportunity to participate **meaningfully, within the time period specified by the Agency**, in the impact assessment of a designated project.
+The Agency must ensure that the public is provided with an opportunity to participate meaningfully, within the time period specified by the Agency, in the impact assessment of a designated project.
 
 ### Section 28
 
@@ -2742,7 +2740,7 @@ that includes activities that are regulated under the `Canada Oil and Gas Operat
 
     the process to be substituted will include consultations with any Indigenous group that may be affected by the carrying out of the designated project;
 
-    the public will be given an opportunity to participate **meaningfully** in the assessment and to provide comments on a draft report;
+    the public will be given an opportunity to participate meaningfully in the assessment and to provide comments on a draft report;
 
     the public will have access to records in relation to the assessment to enable its meaningful participation;
 
@@ -2784,7 +2782,7 @@ If, after taking into account the report with respect to the impact assessment o
 
     public concerns related to those effects;
 
-    opportunities for cooperation with any jurisdiction that has powers, duties or functions in relation to an assessment of the environmental effects of the designated project or any part of it; **and**
+    opportunities for cooperation with any jurisdiction that has powers, duties or functions in relation to an assessment of the environmental effects of the designated project or any part of it; and
 
     any adverse impact that the designated project may have on the rights of the Indigenous peoples of Canada recognized and affirmed by section 35 of the `Constitution Act, 1982`.
 
@@ -2834,11 +2832,11 @@ When the Minister refers the impact assessment of a designated project to a revi
 
   **(1)** When the Minister refers the impact assessment of a designated project to a review panel, he or she may enter into an agreement or arrangement with any jurisdiction referred to in paragraphs (a) to (g) of the definition jurisdiction in section `2` that has powers, duties or functions in relation to an assessment of the environmental effects of the designated project, respecting the joint establishment of a review panel and the manner in which the impact assessment of the designated project is to be conducted by that panel.
 
-  **(2)** However, the Minister is not authorized to enter into an agreement or arrangement referred to in subsection (1) **with**
+  **(2)** However, the Minister is not authorized to enter into an agreement or arrangement referred to in subsection (1) with
 
-    **the Canadian Nuclear Safety Commission** if the designated project includes physical activities that are regulated under the `Nuclear Safety and Control Act`; or
+    the Canadian Nuclear Safety Commission if the designated project includes physical activities that are regulated under the `Nuclear Safety and Control Act`; or
 
-    **the Canadian Energy Regulator if the designated project includes physical activities that are regulated under** the `Canadian Energy Regulator Act`.
+    the Canadian Energy Regulator if the designated project includes physical activities that are regulated under the `Canadian Energy Regulator Act`.
 
   **(3)** When the Minister refers the impact assessment of a designated project to a review panel, the Minister and the Minister of Foreign Affairs may enter into an agreement or arrangement with any jurisdiction referred to in paragraph (h) or (i) of the definition jurisdiction in section `2` that has powers, duties or functions in relation to an assessment of the environmental effects of the designated project respecting the joint establishment of a review panel and the manner in which the impact assessment of the designated project is to be conducted by that panel.
 
@@ -2862,7 +2860,7 @@ When the Minister refers the impact assessment of a designated project to a revi
 
 ### Section 41
 
-  **(1)** If the impact assessment of a designated project is referred to a review panel, the Minister must — **within 45 days after the day on which the notice referred to in subsection 19(4) with respect to the designated project is posted on the Internet site** — establish the panel's terms of reference and appoint as a member one or more persons who are unbiased and free from any conflict of interest relative to the designated project and who have knowledge or experience relevant to the designated project's anticipated effects or have knowledge of the interests and concerns of the Indigenous peoples of Canada that are relevant to the assessment.
+  **(1)** If the impact assessment of a designated project is referred to a review panel, the Minister must — within 45 days after the day on which the notice referred to in subsection 19(4) with respect to the designated project is posted on the Internet site — establish the panel's terms of reference and appoint as a member one or more persons who are unbiased and free from any conflict of interest relative to the designated project and who have knowledge or experience relevant to the designated project's anticipated effects or have knowledge of the interests and concerns of the Indigenous peoples of Canada that are relevant to the assessment.
 
   **(2)** Subsection (1) is subject to the following sections:
 
@@ -2876,11 +2874,11 @@ When the Minister refers the impact assessment of a designated project to a revi
 
 When there is an agreement or arrangement to jointly establish a review panel under subsection `39`(1) or (3), or when there is a document jointly establishing a review panel under subsection `40`(2), the agreement, arrangement or document must provide that the impact assessment of the designated project includes a consideration of the factors set out in subsection `22`(1) and is conducted in accordance with any additional requirements and procedures set out in it and provide that
 
-the Minister must — **within 45 days after the day on which the notice referred to in subsection 19(4) with respect to the designated project is posted on the Internet site** — establish or approve the review panel's terms of reference, which are to include the time limit set out in subsection `37`(1) or established by the Minister under subsection `37`(2);
+the Minister must — within 45 days after the day on which the notice referred to in subsection 19(4) with respect to the designated project is posted on the Internet site — establish or approve the review panel's terms of reference, which are to include the time limit set out in subsection `37`(1) or established by the Minister under subsection `37`(2);
 
 the Minister may, at any time, modify the terms of reference in order to reflect an extension of the time limit granted under subsection `37`(3) or (4);
 
-the Minister must — **within 45 days after the day on which the notice referred to in subsection 19(4) with respect to the designated project is posted on the Internet site** — appoint the chairperson, or a co-chairperson, and at least one other member of the review panel; and
+the Minister must — within 45 days after the day on which the notice referred to in subsection 19(4) with respect to the designated project is posted on the Internet site — appoint the chairperson, or a co-chairperson, and at least one other member of the review panel; and
 
 the members of the panel must be unbiased and free from any conflict of interest relative to the designated project and must have knowledge or experience relevant to the designated project's anticipated effects or have knowledge of the interests and concerns of the Indigenous peoples of Canada that are relevant to the assessment.
 
@@ -2894,7 +2892,7 @@ the `Canadian Energy Regulator Act.`
 
 ### Section 44
 
-  **(1)** When the Minister refers an impact assessment of a designated project that includes activities regulated under the `Nuclear Safety and Control Act` to a review panel, the Minister must — **within 45 days after the day on which the notice referred to in subsection 19(4) with respect to the designated project is posted on the Internet site** — establish the panel's terms of reference and appoint the chairperson and at least two other members.
+  **(1)** When the Minister refers an impact assessment of a designated project that includes activities regulated under the `Nuclear Safety and Control Act` to a review panel, the Minister must — within 45 days after the day on which the notice referred to in subsection 19(4) with respect to the designated project is posted on the Internet site — establish the panel's terms of reference and appoint the chairperson and at least two other members.
 
   **(2)** The persons appointed to the review panel under subsection (1) must be unbiased and free from any conflict of interest relative to the designated project and must have knowledge or experience relevant to the designated project's anticipated effects or have knowledge of the interests and concerns of the Indigenous peoples of Canada that are relevant to the assessment.
 
@@ -2912,7 +2910,7 @@ For the purpose of conducting an impact assessment of a designated project that 
 
 ### Section 47
 
-  **(1)** When the Minister refers an impact assessment of a designated project that includes activities regulated under the `Canadian Energy Regulator Act` to a review panel, the Minister must — **within 45 days after the day on which the notice referred to in subsection 19(4) with respect to the designated project is posted on the Internet site** — establish the panel's terms of reference and appoint the chairperson and at least two other members.
+  **(1)** When the Minister refers an impact assessment of a designated project that includes activities regulated under the `Canadian Energy Regulator Act` to a review panel, the Minister must — within 45 days after the day on which the notice referred to in subsection 19(4) with respect to the designated project is posted on the Internet site — establish the panel's terms of reference and appoint the chairperson and at least two other members.
 
   **(2)** The persons appointed to the review panel under subsection (1) must be unbiased and free from any conflict of interest relative to the designated project and must have knowledge or experience relevant to the designated project's anticipated effects or have knowledge of the interests and concerns of the Indigenous peoples of Canada that are relevant to the assessment.
 
@@ -2922,7 +2920,7 @@ For the purpose of conducting an impact assessment of a designated project that 
 
 ### Section 48
 
-For the purpose of conducting an impact assessment of a designated project that includes activities regulated under the `Canadian Energy Regulator Act`, including preparing a report with respect to that impact assessment, the review panel may exercise the powers conferred on the Commission that is referred to in subsection **26**(1) of that Act.
+For the purpose of conducting an impact assessment of a designated project that includes activities regulated under the `Canadian Energy Regulator Act`, including preparing a report with respect to that impact assessment, the review panel may exercise the powers conferred on the Commission that is referred to in subsection 26(1) of that Act.
 
 ### Section 49
 
@@ -2944,7 +2942,7 @@ an agreement, arrangement or document referred to in section `42`;
 
 a roster of persons who are members of the Canadian Nuclear Safety Commission and who may be appointed as members of a review panel established under subsection `44`(1);
 
-a roster **of** persons who are commissioners under the `Canadian Energy Regulator Act` and who may be appointed as members of a review panel established under subsection `47`(1).
+a roster of persons who are commissioners under the `Canadian Energy Regulator Act` and who may be appointed as members of a review panel established under subsection `47`(1).
 
 ### Section 51
 
@@ -2954,7 +2952,7 @@ a roster **of** persons who are commissioners under the `Canadian Energy Regulat
 
     ensure that the information that it uses when conducting the impact assessment is made available to the public;
 
-    hold hearings in a manner that offers the public an opportunity to participate **meaningfully, within the time period specified by the review panel**, in the impact assessment;
+    hold hearings in a manner that offers the public an opportunity to participate meaningfully, within the time period specified by the review panel, in the impact assessment;
 
     prepare a report with respect to the impact assessment that
 
@@ -3065,7 +3063,7 @@ If the Agency is of the opinion that, in respect of a review panel to which it i
 
     refer to the Governor in Council the matter of whether these effects are, in light of the factors referred to in section `63`, in the public interest.
 
-  **(2)** If the Minister refers the matter to the Governor in Council, he or she must ensure that a notice of the referral **and the reasons for it are** posted on the Internet site.
+  **(2)** If the Minister refers the matter to the Governor in Council, he or she must ensure that a notice of the referral and the reasons for it are posted on the Internet site.
 
 ### Section 61
 
@@ -3077,7 +3075,7 @@ If the matter is referred to the Governor in Council under paragraph `60`(1)(b) 
 
 ### Section 63
 
-The Minister's determination under paragraph `60`(1)(a) in respect of a designated project referred to in that subsection, and the Governor in Council's determination under section `62` in respect of a designated project referred to in that subsection, must **be based on the report with respect to the impact assessment** and a consideration of the following factors:
+The Minister's determination under paragraph `60`(1)(a) in respect of a designated project referred to in that subsection, and the Governor in Council's determination under section `62` in respect of a designated project referred to in that subsection, must be based on the report with respect to the impact assessment and a consideration of the following factors:
 
 the extent to which the designated project contributes to sustainability;
 
@@ -3101,7 +3099,7 @@ the extent to which the effects of the designated project hinder or contribute t
 
     the implementation of the mitigation measures that the Minister takes into account in making a determination under paragraph `60`(1)(a), or that the Governor in Council takes into account in making a determination under section `62`, other than those the implementation of which the Minister is satisfied will be ensured by another person or by a jurisdiction; and
 
-    the implementation of a follow-up program **and, if the Minister considers it appropriate, an adaptive management plan**.
+    the implementation of a follow-up program and, if the Minister considers it appropriate, an adaptive management plan.
 
 
 ### Decision Statement
@@ -3118,7 +3116,7 @@ the extent to which the effects of the designated project hinder or contribute t
 
     includes a description of the designated project.
 
-  **(2)** The reasons for the determination must demonstrate that the Minister or the Governor in Council, as the case may be, **based the determination on the report with respect to the impact assessment of the designated project** and considered **each of** the factors referred to in section 63.
+  **(2)** The reasons for the determination must demonstrate that the Minister or the Governor in Council, as the case may be, based the determination on the report with respect to the impact assessment of the designated project and considered each of the factors referred to in section 63.
 
   **(3)** When the Minister makes a determination under paragraph `60`(1)(a), he or she must issue the decision statement no later than 30 days after the day on which the report with respect to the impact assessment of the designated project, or a summary of that report, is posted on the Internet site.
 
@@ -3166,9 +3164,9 @@ The Agency must post on the Internet site any decision statement that the Minist
 
 ### Section 70
 
-  **(1)** The Minister must, **after considering any views provided by the proponent on the matter**, establish the period within which the proponent must substantially begin to carry out the designated project.
+  **(1)** The Minister must, after considering any views provided by the proponent on the matter, establish the period within which the proponent must substantially begin to carry out the designated project.
 
-  **(2)** The Minister may, **after considering any views provided by the proponent on the matter**, extend the period by any period that the Minister considers reasonable and, in that case, must ensure that a notice of the extension and the reasons for the extension are posted on the Internet site.
+  **(2)** The Minister may, after considering any views provided by the proponent on the matter, extend the period by any period that the Minister considers reasonable and, in that case, must ensure that a notice of the extension and the reasons for the extension are posted on the Internet site.
 
   **(3)** If the proponent does not substantially begin to carry out the designated project within the period established by the Minister, or any extension of that period, the decision statement expires on the expiry of that period or any extension of that period.
 
@@ -3293,7 +3291,7 @@ the federal authority determines that the carrying out of the project is likely 
 
 ### Section 84
 
-  ****(1)**** An authority's determination regarding whether the carrying out of the project is likely to cause significant adverse environmental effects must **be based on** a consideration of the following factors:
+  **(1)** An authority's determination regarding whether the carrying out of the project is likely to cause significant adverse environmental effects must be based on a consideration of the following factors:
 
     any adverse impact that the project may have on the rights of the Indigenous peoples of Canada recognized and affirmed by section 35 of the `Constitution Act, 1982`;
 
@@ -3315,25 +3313,25 @@ Every federal authority that is in possession of specialist or expert informatio
 
   **(1)** Before making a determination under section `82` or `83`, an authority must post on the Internet site a notice that indicates that it intends to make such a determination and that invites the public to provide comments respecting that determination.
 
-  **(2)** No sooner than **30** days after the day on which it posts the notice referred to in subsection (1), the authority must post on the Internet site a notice of its determination, including any mitigation measures that it took into account in making the determination.
+  **(2)** No sooner than 30 days after the day on which it posts the notice referred to in subsection (1), the authority must post on the Internet site a notice of its determination, including any mitigation measures that it took into account in making the determination.
 
 ### Section 87
 
-**The Minister** may, **by order**, designate a physical activity, or a class of physical activities, carried out on federal lands or outside Canada that is not in relation to a physical work and is not a designated project, but that, in the **Minister's** opinion, may cause significant adverse environmental effects.
+The Minister may, by order, designate a physical activity, or a class of physical activities, carried out on federal lands or outside Canada that is not in relation to a physical work and is not a designated project, but that, in the Minister's opinion, may cause significant adverse environmental effects.
 
 ### Section 88
 
-  **(1)** **The Minister** may, **by order**, designate a class of projects if, in **the Minister's** opinion, the carrying out of a project that is a part of the class will cause only insignificant adverse environmental effects.
+  **(1)** The Minister may, by order, designate a class of projects if, in the Minister's opinion, the carrying out of a project that is a part of the class will cause only insignificant adverse environmental effects.
 
   **(2)** Sections `82` and `83` do not apply to an authority in respect of a project that is part of a class of projects that is designated under subsection (1).
 
 ### Section 89
 
-  **(1)** **If the Minister** intends to designate a physical activity, or a class of physical activities, under section 87 or a class of projects under subsection 88(1), **the Agency** must post on the Internet site a notice that invites the public to provide comments respecting the designation within 30 days after the day on which the notice is posted.
+  **(1)** If the Minister intends to designate a physical activity, or a class of physical activities, under section 87 or a class of projects under subsection 88(1), the Agency must post on the Internet site a notice that invites the public to provide comments respecting the designation within 30 days after the day on which the notice is posted.
 
-  **(2)** The **Minister** must consider any comments received from the public in deciding whether to make the designation.
+  **(2)** The Minister must consider any comments received from the public in deciding whether to make the designation.
 
-  **(3)** **If the Minister** designates a physical activity, or a class of physical activities, under section 87 or a class of projects under subsection 88(1), **the Agency** must post on the Internet site a notice that includes a description of the physical activity, the class of physical activities or the class of projects, as the case may be, and **the Minister's** reasons for making the designation.
+  **(3)** If the Minister designates a physical activity, or a class of physical activities, under section 87 or a class of projects under subsection 88(1), the Agency must post on the Internet site a notice that includes a description of the physical activity, the class of physical activities or the class of projects, as the case may be, and the Minister's reasons for making the designation.
 
 ### Section 90
 
@@ -3403,17 +3401,17 @@ any issue that is relevant to conducting impact assessments of designated projec
 
 ### Section 97
 
-  ****(1)**** The Minister must respond, with reasons and within the prescribed time limit, to any request that an assessment referred to in section `92`, `93` or `95` be conducted. The Minister must ensure that his or her response is posted on the Internet site.
+  **(1)** The Minister must respond, with reasons and within the prescribed time limit, to any request that an assessment referred to in section `92`, `93` or `95` be conducted. The Minister must ensure that his or her response is posted on the Internet site.
 
   **(2)** When conducting an assessment referred to in section 92, 93 or 95, the Agency or committee, as the case may be, must take into account any scientific information and Indigenous knowledge provided with respect to the assessment.
 
 ### Section 98
 
-**Subject to section 119**, the Agency, or the committee, must ensure that the information that it uses when conducting an assessment referred to in section `92`, `93` or `95` is made available to the public.
+Subject to section 119, the Agency, or the committee, must ensure that the information that it uses when conducting an assessment referred to in section `92`, `93` or `95` is made available to the public.
 
 ### Section 99
 
-The Agency, or the committee, must ensure that the public is provided with an opportunity to participate **meaningfully, within the time period specified by the Agency or committee, as the case may be**, in any assessment referred to in section `92`, `93` or `95` that it conducts.
+The Agency, or the committee, must ensure that the public is provided with an opportunity to participate meaningfully, within the time period specified by the Agency or committee, as the case may be, in any assessment referred to in section `92`, `93` or `95` that it conducts.
 
 ### Section 100
 
@@ -3425,7 +3423,7 @@ Section `53` applies, with any necessary modifications, to a committee establish
 
 ### Section 102
 
-  ****(1)**** On completion of the assessment that it conducts, the committee established under section `92` or `95` or under an agreement or arrangement entered into under subparagraph `93`(1)(a)(i) or paragraph `93`(1)(b) or the Agency, as the case may be, must provide a report to the Minister.
+  **(1)** On completion of the assessment that it conducts, the committee established under section `92` or `95` or under an agreement or arrangement entered into under subparagraph `93`(1)(a)(i) or paragraph `93`(1)(b) or the Agency, as the case may be, must provide a report to the Minister.
 
   **(2)** Subject to section 119, the report must set out how the Agency or committee, as the case may be, took into account and used any Indigenous knowledge provided with respect to the assessment.
 
@@ -3454,7 +3452,7 @@ The Agency must post a copy of the report on the Internet site.
 
   **(1)** The Agency must establish and maintain an Internet site that is available to the public.
 
-  **(2)** The Agency must ensure that the following records and information relating to the impact assessment of the designated project that it conducts are posted **and, subject to paragraph (4)(c), maintained** on the Internet site:
+  **(2)** The Agency must ensure that the following records and information relating to the impact assessment of the designated project that it conducts are posted and, subject to paragraph (4)(c), maintained on the Internet site:
 
     any public notice that is issued by the Agency to request the participation of the public in the impact assessment;
 
@@ -3470,11 +3468,11 @@ The Agency must post a copy of the report on the Internet site.
 
     any other information that the Agency considers appropriate, including information in the form of a list of relevant records and an indication of how a copy of them may be obtained;
 
-    **any public comments received during the impact assessment**; and
+    any public comments received during the impact assessment; and
 
     any other record or information prescribed by regulations made under paragraph `112`(f).
 
-  **(3)** The Agency must ensure that, in the case of an assessment conducted by a review panel or an impact assessment completed under section `59`, the following records or information are posted **and, subject to paragraph (4)(c), maintained** on the Internet site:
+  **(3)** The Agency must ensure that, in the case of an assessment conducted by a review panel or an impact assessment completed under section `59`, the following records or information are posted and, subject to paragraph (4)(c), maintained on the Internet site:
 
     the review panel's terms of reference;
 
@@ -3492,7 +3490,7 @@ The Agency must post a copy of the report on the Internet site.
 
     any other information that the Agency considers appropriate, including information in the form of a list of relevant documents and an indication of how a copy of them may be obtained;
 
-    **any public comments received in the course of the impact assessment**; and
+    any public comments received in the course of the impact assessment; and
 
     any other record or information prescribed by regulations made under paragraph `112`(f).
 
@@ -3514,8 +3512,6 @@ The Agency must post a copy of the report on the Internet site.
   **(2)** The obligation set out in subsection (1) ends on the earliest of the following days:
 
     the day on which the Agency under subsection `16`(1) decides that an impact assessment in respect of the designated project is not required;
-
-    [*Deleted*]
 
     the day on which the impact assessment in respect of the designated project is terminated under subsection `20`(1) or section `73`;
 
@@ -3613,7 +3609,7 @@ respecting the form and format of a description referred to in subsection 10(1),
 
 respecting the procedures, requirements and time periods relating to impact assessments, including the manner of designing a follow-up program;
 
-prescribing, for the purposes of **any of** subsections 9(5), 18(6), 28(9), 36(3) and 37(6), **any activity** in respect of which **a** time **limit** may be suspended **and respecting circumstances, in relation to an activity, in which a time limit may be suspended**;
+prescribing, for the purposes of any of subsections 9(5), 18(6), 28(9), 36(3) and 37(6), any activity in respect of which a time limit may be suspended and respecting circumstances, in relation to an activity, in which a time limit may be suspended;
 
 respecting a participant funding program established under section `75`;
 
@@ -3710,22 +3706,22 @@ An order made under subsection `9`(1) or `115`(1) or (2) is not a statutory inst
 
   **(1)** The advisory council must meet at least once a year.
 
-  **(2)** Within three months after the end of the fiscal year during which the first anniversary of the coming into force of this Act occurs, the advisory council must submit to the Minister a report setting out the advice it provided during the period beginning on the day on which this Act comes into force and ending on the day on which that fiscal year ends, **including the advice with respect to regional and strategic assessments to be given priority**.
+  **(2)** Within three months after the end of the fiscal year during which the first anniversary of the coming into force of this Act occurs, the advisory council must submit to the Minister a report setting out the advice it provided during the period beginning on the day on which this Act comes into force and ending on the day on which that fiscal year ends, including the advice with respect to regional and strategic assessments to be given priority.
 
-  **(3)** Within three months after the end of each period of two fiscal years not addressed by the previous report, the advisory council must provide to the Minister a report setting out the advice it provided during that period of two fiscal years, **including the advice with respect to regional and strategic assessments to be given priority**.
+  **(3)** Within three months after the end of each period of two fiscal years not addressed by the previous report, the advisory council must provide to the Minister a report setting out the advice it provided during that period of two fiscal years, including the advice with respect to regional and strategic assessments to be given priority.
 
   **(4)** The Minister must cause a copy of the report to be tabled in each House of Parliament on any of the first 15 days on which that House is sitting after the Minister receives the report and then ensure the report is posted on the Internet site.
 
-  **(5)** Within 90 days after the day on which he or she receives the report, the Minister must provide his or her comments on the report to the advisory council, **including with respect to the advice the council provided about regional and strategic assessments**, and then ensure they are posted on the Internet site.
+  **(5)** Within 90 days after the day on which he or she receives the report, the Minister must provide his or her comments on the report to the advisory council, including with respect to the advice the council provided about regional and strategic assessments, and then ensure they are posted on the Internet site.
 
 
 ## Indigenous Knowledge
 
 ### Section 119
 
-  **(1)** Any Indigenous knowledge that is provided to the Minister, the Agency, **a committee referred to in section 92, 93 or 95** or a review panel under this Act in confidence is confidential and must not knowingly be, or be permitted to be, disclosed without written consent.
+  **(1)** Any Indigenous knowledge that is provided to the Minister, the Agency, a committee referred to in section 92, 93 or 95 or a review panel under this Act in confidence is confidential and must not knowingly be, or be permitted to be, disclosed without written consent.
 
-  **(2)** Despite subsection (1), the **Indigenous** knowledge referred to in that subsection may be disclosed if
+  **(2)** Despite subsection (1), the Indigenous knowledge referred to in that subsection may be disclosed if
 
     it is publicly available;
 
@@ -3735,9 +3731,9 @@ An order made under subsection `9`(1) or `115`(1) or (2) is not a statutory inst
 
   **(2.1)** Before disclosing Indigenous knowledge under paragraph 2(b) for the purposes of procedural fairness and natural justice, the Minister, the Agency, the committee or the review panel, as the case may be, must consult the person or entity who provided the Indigenous knowledge and the person or entity to whom it is proposed to be disclosed about the scope of the proposed disclosure and potential conditions under subsection (3).
 
-  **(3)** The Minister, the Agency, **the committee** or the review panel, as the case may be, may, **having regard to the consultation referred to in subsection (2.1)**, impose conditions with respect to the disclosure of **Indigenous** knowledge by any person **or entity** to whom it is disclosed under paragraph (2)(b) for the purposes of procedural fairness and natural justice.
+  **(3)** The Minister, the Agency, the committee or the review panel, as the case may be, may, having regard to the consultation referred to in subsection (2.1), impose conditions with respect to the disclosure of Indigenous knowledge by any person or entity to whom it is disclosed under paragraph (2)(b) for the purposes of procedural fairness and natural justice.
 
-  **(4)** The person **or entity** referred to in subsection (3) must comply with any conditions imposed under that subsection.
+  **(4)** The person or entity referred to in subsection (3) must comply with any conditions imposed under that subsection.
 
 
 ## Administration and Enforcement
@@ -3831,7 +3827,7 @@ No action or other proceeding of a civil nature lies against an enforcement offi
 
     the name of the person or entity to whom it is directed;
 
-    the provision of this Act or the regulations, or the condition established under section 64, **amended under subsection 68(1) or added to a decision statement under that subsection**, that is alleged to have been contravened;
+    the provision of this Act or the regulations, or the condition established under section 64, amended under subsection 68(1) or added to a decision statement under that subsection, that is alleged to have been contravened;
 
     the relevant facts surrounding the alleged contravention; and
 
@@ -4141,11 +4137,11 @@ to engage in consultation with the Indigenous peoples of Canada on policy issues
 
     negotiate agreements or arrangements referred to in paragraphs `114`(1)(c) to (f) on the Minister's behalf; and
 
-    establish research and advisory bodies for matters related to impact assessment **and monitoring committees for matters related to the implementation of follow-up programs and adaptive management plans**, including with respect to the interests and concerns of Indigenous peoples of Canada, and appoint as a member of any such bodies one or more persons.
+    establish research and advisory bodies for matters related to impact assessment and monitoring committees for matters related to the implementation of follow-up programs and adaptive management plans, including with respect to the interests and concerns of Indigenous peoples of Canada, and appoint as a member of any such bodies one or more persons.
 
 ### Section 157
 
-  **(1)** The Agency must establish an expert committee to advise it on issues related to impact assessments **and regional and strategic assessments**, including scientific, environmental, health, social or economic issues.
+  **(1)** The Agency must establish an expert committee to advise it on issues related to impact assessments and regional and strategic assessments, including scientific, environmental, health, social or economic issues.
 
   **(2)** The Agency may appoint any person with relevant knowledge or experience as a member of the expert committee. The membership of the committee must include at least one Indigenous person.
 
@@ -4294,15 +4290,15 @@ If the proponent of a designated project provided the former Agency with a descr
 
 ### Section 181
 
-  **(1)** Any environmental assessment of a designated project by the former Agency commenced under the 2012 Act before the day on which this Act comes into force, in respect of which the former Agency has **posted** the notice of commencement under **section 17** of the **2012 Act** before that day, is continued under the 2012 Act as **if that Act had** not **been repealed**.
+  **(1)** Any environmental assessment of a designated project by the former Agency commenced under the 2012 Act before the day on which this Act comes into force, in respect of which the former Agency has posted the notice of commencement under section 17 of the 2012 Act before that day, is continued under the 2012 Act as if that Act had not been repealed.
 
-  **(2)** The **proponent** of a **designated project referred** to in subsection (1) **must provide the Agency with any information or studies required by** the **Agency or the former Agency** under subsection **23(2)** of the 2012 Act **within three years after the day on which this Act comes into force**.
+  **(2)** The proponent of a designated project referred to in subsection (1) must provide the Agency with any information or studies required by the Agency or the former Agency under subsection 23(2) of the 2012 Act within three years after the day on which this Act comes into force.
 
   **(2.1)** At the proponent's request, the Agency may, before the time limit referred to in subsection (2) has expired, extend the time limit by any period that is necessary for the proponent to provide the Agency with the information or studies.
 
-  **(3)** **If** the **proponent fails to provide** the information or studies **within** the **time limit referred to in** subsection **(2) or within** any **extension** of **that time limit**, the environmental assessment is terminated. The Agency **must post a notice of** the **termination** on the Internet site.
+  **(3)** If the proponent fails to provide the information or studies within the time limit referred to in subsection (2) or within any extension of that time limit, the environmental assessment is terminated. The Agency must post a notice of the termination on the Internet site.
 
-  **(4)** Despite subsection (**1**), at the request of the proponent of a designated project referred to in that subsection **that is** made within 60 days after the day on which this Act comes into force, the Agency may **offer to continue** the environmental assessment **as an impact assessment** under this Act by providing, **within 90 days after the day on which the request is made**, the **proponent with**
+  **(4)** Despite subsection (1), at the request of the proponent of a designated project referred to in that subsection that is made within 60 days after the day on which this Act comes into force, the Agency may offer to continue the environmental assessment as an impact assessment under this Act by providing, within 90 days after the day on which the request is made, the proponent with
 
     a written direction that sets out any information and studies that the Agency considers necessary for it to conduct the impact assessment, other than any information and studies already provided by the proponent with respect to the environmental assessment; and
 
@@ -4328,21 +4324,17 @@ Any environmental assessment of a designated project by the Canadian Nuclear Saf
 
 ### Section 183
 
-  **(1)** Any environmental assessment of a designated project referred to a review panel under section 38 of the 2012 Act before the day on which this Act comes into force is continued under the 2012 Act **as if that Act had not been repealed**.
+  **(1)** Any environmental assessment of a designated project referred to a review panel under section 38 of the 2012 Act before the day on which this Act comes into force is continued under the 2012 Act as if that Act had not been repealed.
 
-  **(2)** Despite subsection (**1), on** request **made** to the Minister by the proponent of a designated project referred to in that subsection, the environmental assessment is continued as an impact assessment under this Act as if the impact assessment had been referred by the Minister to a review panel under **subsection 36(1)** of this Act.
+  **(2)** Despite subsection (1), on request made to the Minister by the proponent of a designated project referred to in that subsection, the environmental assessment is continued as an impact assessment under this Act as if the impact assessment had been referred by the Minister to a review panel under subsection 36(1) of this Act.
 
-  ****(3)**** The following rules apply in respect of an impact assessment referred to in subsection (**2**):
+  **(3)** The following rules apply in respect of an impact assessment referred to in subsection (2):
 
     if, before the day on which this Act comes into force, a review panel was established under subsection 42(1) of the 2012 Act, that review panel is deemed to have been established — and its members are deemed to have been appointed — under section `41` of this Act;
 
     if, before that day, an agreement or arrangement was entered into under section 40 of the 2012 Act, that agreement or arrangement is deemed to have been entered into under section `39` of this Act; and
 
     if, before that day, a review panel was established by an agreement or arrangement entered into under section 40 of the 2012 Act or by document referred to in subsection 41(2) of the 2012 Act, it is deemed to have been established by — and its members are deemed to have been appointed under — an agreement or arrangement entered into under section `39` of this Act or by document referred to in subsection `40`(2) of this Act.
-
-  **(3)** [*Deleted*]
-
-  **(4)** [*Deleted*]
 
 ### Section 184
 
@@ -4391,7 +4383,7 @@ The Governor in Council may make any regulations that the Governor in Council co
 
   **(3)** Section 2 of the Act is amended by adding the following in alphabetical order:
 
-    **Canada-Nova Scotia Offshore Petroleum Board** has the meaning assigned by the definition Board in section 2 of the `Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act`. (**Office Canada — Nouvelle-Écosse des hydrocarbures extracôtiers**)
+    **Canada-Nova Scotia Offshore Petroleum Board** has the meaning assigned by the definition Board in section 2 of the `Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act`. (**Office Canada Nouvelle-Écosse des hydrocarbures extracôtiers**)
 
   **(4)** Section 2 of the Act is amended by adding the following in alphabetical order:
 
@@ -4401,11 +4393,11 @@ The Governor in Council may make any regulations that the Governor in Council co
 
   **(1)** Subsection 39(2) of the Act is amended by adding the following after paragraph (a):
 
-    **the Canada-Nova Scotia Offshore Petroleum Board if the designated project includes physical activities that are regulated under** the `Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act`;
+    the Canada-Nova Scotia Offshore Petroleum Board if the designated project includes physical activities that are regulated under the `Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act`;
 
   **(2)** Subsection 39(2) of the Act is amended by adding the following after paragraph (b):
 
-    **the Canada-Newfoundland and Labrador Offshore Petroleum Board if the designated project includes physical activities that are regulated under** the `Canada–Newfoundland and Labrador Atlantic Accord Implementation Act`.
+    the Canada-Newfoundland and Labrador Offshore Petroleum Board if the designated project includes physical activities that are regulated under the `Canada–Newfoundland and Labrador Atlantic Accord Implementation Act`.
 
 ### Section 4
 
@@ -4433,7 +4425,7 @@ The Act is amended by adding the following after section 46:
 
 ### Section 46.1
 
-  **(1)** When the Minister refers an impact assessment of a designated project that includes activities regulated under the `Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act` to a review panel, the Minister must — **within 45 days after the day on which the notice referred to in subsection 19(4) with respect to the designated project is posted on the Internet site** — establish the panel's terms of reference and appoint the chairperson and at least four other members.
+  **(1)** When the Minister refers an impact assessment of a designated project that includes activities regulated under the `Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act` to a review panel, the Minister must — within 45 days after the day on which the notice referred to in subsection 19(4) with respect to the designated project is posted on the Internet site — establish the panel's terms of reference and appoint the chairperson and at least four other members.
 
   **(2)** The persons appointed to the review panel under subsection (1) must be unbiased and free from any conflict of interest relative to the designated project and must have knowledge or experience relevant to the designated project's anticipated effects or have knowledge of the interests and concerns of the Indigenous peoples of Canada that are relevant to the assessment.
 
@@ -4447,7 +4439,7 @@ The Act is amended by adding the following after section 48:
 
 ### Section 48.1
 
-  **(1)** When the Minister refers an impact assessment of a designated project that includes activities regulated under the `Canada–Newfoundland and Labrador Atlantic Accord Implementation Act` to a review panel, the Minister must — **within 45 days after the day on which the notice referred to in subsection 19(4) with respect to the designated project is posted on the Internet site** — establish the panel's terms of reference and appoint the chairperson and at least four other members.
+  **(1)** When the Minister refers an impact assessment of a designated project that includes activities regulated under the `Canada–Newfoundland and Labrador Atlantic Accord Implementation Act` to a review panel, the Minister must — within 45 days after the day on which the notice referred to in subsection 19(4) with respect to the designated project is posted on the Internet site — establish the panel's terms of reference and appoint the chairperson and at least four other members.
 
   **(2)** The persons appointed to the review panel under subsection (1) must be unbiased and free from any conflict of interest relative to the designated project and must have knowledge or experience relevant to the designated project's anticipated effects or have knowledge of the interests and concerns of the Indigenous peoples of Canada that are relevant to the assessment.
 
@@ -4500,7 +4492,7 @@ Whereas the Government of Canada is committed to achieving reconciliation with F
 
 Whereas the Government of Canada is committed to implementing the United Nations Declaration on the Rights of Indigenous Peoples;
 
-Whereas the Government of Canada is committed to using transparent processes that are built on early engagement and inclusive participation and under which the best available scientific information and data **as well as** Indigenous knowledge are taken into account in decision-making;
+Whereas the Government of Canada is committed to using transparent processes that are built on early engagement and inclusive participation and under which the best available scientific information and data as well as Indigenous knowledge are taken into account in decision-making;
 
 And whereas the Government of Canada is committed to assessing how groups of women, men and gender-diverse people may experience policies, programs and projects and to taking actions that contribute to an inclusive and democratic society and allow all Canadians to participate fully in all spheres of their lives;
 
@@ -5070,7 +5062,7 @@ If a commissioner resigns or their term expires, the Lead Commissioner may, on a
 
     a certificate issued in respect of a pipeline that has not been brought into commercial operation under the certificate.
 
-  **(3)** The Commission may hold a public hearing in respect of any other matter if the Commission considers it appropriate to do so **and shall make public its reasons for holding the hearing**.
+  **(3)** The Commission may hold a public hearing in respect of any other matter if the Commission considers it appropriate to do so and shall make public its reasons for holding the hearing.
 
   **(4)** For greater certainty, subsection (1) does not affect the operation of subsection `241`(3).
 
@@ -5111,7 +5103,7 @@ The Chief Executive Officer is responsible for apportioning among the designated
 
 ### Section 57
 
-  ****(1)**** The Regulator **must** establish **an advisory** committee for the purpose of enhancing the involvement, under Part 2, of the Indigenous peoples of Canada and Indigenous organizations in respect of pipelines, power lines and offshore renewable energy projects as well as abandoned pipelines.
+  **(1)** The Regulator must establish an advisory committee for the purpose of enhancing the involvement, under Part 2, of the Indigenous peoples of Canada and Indigenous organizations in respect of pipelines, power lines and offshore renewable energy projects as well as abandoned pipelines.
 
   **(2)** The membership of the advisory committee must include at least
 
@@ -5125,7 +5117,7 @@ The Chief Executive Officer is responsible for apportioning among the designated
 
   **(1)** Any Indigenous knowledge that is provided in confidence to the Regulator under this Act or any other Act of Parliament that confers powers, duties or functions on the Regulator is confidential and must not knowingly be, or be permitted to be, disclosed without written consent.
 
-  **(2)** Despite subsection (1), the **Indigenous** knowledge referred to in that subsection may be disclosed if
+  **(2)** Despite subsection (1), the Indigenous knowledge referred to in that subsection may be disclosed if
 
     it is publicly available;
 
@@ -5135,9 +5127,9 @@ The Chief Executive Officer is responsible for apportioning among the designated
 
   **(2.1)** Before disclosing Indigenous knowledge under paragraph 2(b) for the purposes of procedural fairness and natural justice, the Regulator must consult the person or entity who provided the Indigenous knowledge and the person or entity to whom it is proposed to be disclosed about the scope of the proposed disclosure and potential conditions under subsection (3).
 
-  **(3)** The Regulator may, **having regard to the consultation referred to in subsection (2.1)**, impose conditions with respect to the disclosure of **Indigenous** knowledge by any person **or entity** to whom it is disclosed under paragraph (2)(b) for the purposes of procedural fairness and natural justice.
+  **(3)** The Regulator may, having regard to the consultation referred to in subsection (2.1), impose conditions with respect to the disclosure of Indigenous knowledge by any person or entity to whom it is disclosed under paragraph (2)(b) for the purposes of procedural fairness and natural justice.
 
-  **(4)** The person **or entity** referred to in subsection (3) must comply with any conditions imposed by the Regulator under that subsection.
+  **(4)** The person or entity referred to in subsection (3) must comply with any conditions imposed by the Regulator under that subsection.
 
   **(5)** Despite any other Act of Parliament, no civil or criminal proceedings lie against the Regulator or the Minister — or any person acting on behalf of, or under the direction of, either of them — and no proceedings lie against the Crown or the Regulator, for the disclosure in good faith of any Indigenous knowledge under this Act or any other Act of Parliament that confers powers, duties or functions on the Regulator or for any consequences that flow from that disclosure.
 
@@ -5198,7 +5190,7 @@ The Commission or a designated officer may take any measures and make any orders
 
 ### Section 65
 
-A decision or order made by the Commission, a designated officer or **an inspection officer** under this Act may include any conditions that the Commission, designated officer or **inspection officer** considers appropriate.
+A decision or order made by the Commission, a designated officer or an inspection officer under this Act may include any conditions that the Commission, designated officer or inspection officer considers appropriate.
 
 ### Section 66
 
@@ -5283,11 +5275,11 @@ An appeal from a decision or order of a designated officer or an inspection offi
 
 ### Section 74
 
-The Regulator **must** establish processes that the Regulator considers appropriate to engage **meaningfully** with the public — and, in particular, the Indigenous peoples of Canada and Indigenous organizations — **when public hearings are held under section 52 or subsection 241(3)**.
+The Regulator must establish processes that the Regulator considers appropriate to engage meaningfully with the public — and, in particular, the Indigenous peoples of Canada and Indigenous organizations — when public hearings are held under section 52 or subsection 241(3).
 
 ### Section 75
 
-For the purposes of this Act, the Regulator **must** establish a participant funding program to facilitate the participation of the public — and, in particular, the Indigenous peoples of Canada and Indigenous organizations — in public hearings under section `52` or subsection `241`(3) and any steps leading to those hearings.
+For the purposes of this Act, the Regulator must establish a participant funding program to facilitate the participation of the public — and, in particular, the Indigenous peoples of Canada and Indigenous organizations — in public hearings under section `52` or subsection `241`(3) and any steps leading to those hearings.
 
 
 ### Collaborative Processes and Ministerial Arrangements
@@ -5387,7 +5379,7 @@ The `Service Fees Act` does not apply to the fees, levies and charges referred t
 
 ### Section 89
 
-  **(1)** In this section, **certified document** means a document purporting to be certified by **an** employee of the Regulator who is authorized by the Chief Executive Officer to certify documents for the purposes of this section and sealed with the Regulator's seal.
+  **(1)** In this section, **certified document** means a document purporting to be certified by an employee of the Regulator who is authorized by the Chief Executive Officer to certify documents for the purposes of this section and sealed with the Regulator's seal.
 
   **(2)** In any action or proceedings, a certified document that states that it is a true copy of all or any part of another document — including a minute, decision, document of authorization, order, instruction, book of reference, book entry, plan or drawing — is, without proof of the signature or of the official character of the person appearing to have signed the certified document, evidence
 
@@ -5445,7 +5437,7 @@ a person, company or other entity authorized to operate a pipeline under a Speci
 
 a company that has been granted leave under Part 3 to abandon a pipeline;
 
-**a person, company or other entity that has been granted leave under Part 4 to abandon an international power line or interprovincial power line; or**
+a person, company or other entity that has been granted leave under Part 4 to abandon an international power line or interprovincial power line; or
 
 the holder of an authorization issued under Part 5 in respect of a work or activity. (**titulaire**)
 
@@ -5477,7 +5469,7 @@ The holder must take all reasonable care to ensure the safety and security of pe
 
     a local authority.
 
-  **(3)** If a person or body does not comply with an order under subsection (2) or an order under section `109` in relation to **an abandoned facility or to** the abandonment of a pipeline, an offshore power line or any facility, equipment or system that is related to an offshore renewable energy project, the Commission may
+  **(3)** If a person or body does not comply with an order under subsection (2) or an order under section `109` in relation to an abandoned facility or to the abandonment of a pipeline, an offshore power line or any facility, equipment or system that is related to an offshore renewable energy project, the Commission may
 
     take any action or measure the Commission considers necessary;
 
@@ -5507,7 +5499,7 @@ providing for the elements to be included in those management systems — in
 
 ### Section 97
 
-The Commission may make orders exempting holders, on any conditions that the Commission considers appropriate, from any or all provisions of a regulation made under section 96 or 312, **in order to, among other things, ensure the safety and security of persons, the safety and security of regulated facilities or abandoned facilities or the protection of property or the environment**.
+The Commission may make orders exempting holders, on any conditions that the Commission considers appropriate, from any or all provisions of a regulation made under section 96 or 312, in order to, among other things, ensure the safety and security of persons, the safety and security of regulated facilities or abandoned facilities or the protection of property or the environment.
 
 ### Section 98
 
@@ -5641,17 +5633,17 @@ It is prohibited to knowingly make a false or misleading statement or knowingly 
 
 ### Section 108
 
-  **(1)** If an inspection officer has reasonable grounds to believe that a **person** has contravened this Part, any of Parts 3 to 5 or section `335`, he or she may issue a notice of non-compliance to the **person**.
+  **(1)** If an inspection officer has reasonable grounds to believe that a person has contravened this Part, any of Parts 3 to 5 or section `335`, he or she may issue a notice of non-compliance to the person.
 
   **(2)** A notice must be made in writing and must set out
 
-    the name of the **person** to whom the notice is directed;
+    the name of the person to whom the notice is directed;
 
     the provision of this Part, any of Parts 3 to 5 or section `335` or any of their regulations that is alleged to have been contravened, the order or decision that is alleged to have been contravened, or the condition of any certificate, order or decision, permit or authorization, leave or exemption that is alleged to have been contravened;
 
     the relevant facts surrounding the alleged contravention; and
 
-    the period within which the **person** may provide comments in response to the notice.
+    the period within which the person may provide comments in response to the notice.
 
 ### Section 109
 
@@ -5786,7 +5778,7 @@ An inspection officer must not disclose to any person any information regarding 
 
     establish, in respect of each violation, a short-form description to be used in notices of violation.
 
-  ****(1.1)**** **The Commission may** designate persons or classes of persons to conduct reviews under section 128.
+  **(1.1)** The Commission may designate persons or classes of persons to conduct reviews under section 128.
 
   **(2)** The Chief Executive Officer may designate persons or classes of persons who are authorized to issue notices of violation.
 
@@ -5857,7 +5849,7 @@ No notice of violation in respect of a violation may be issued more than two yea
 
 ### Section 125
 
-A person who is served with a notice of violation may, within 30 days after the day on which it is served, or within any longer period that the **Commission** allows, make a request to the Commission for a review of the amount of the penalty or the facts of the violation, or both.
+A person who is served with a notice of violation may, within 30 days after the day on which it is served, or within any longer period that the Commission allows, make a request to the Commission for a review of the amount of the penalty or the facts of the violation, or both.
 
 ### Section 126
 
@@ -5865,9 +5857,9 @@ At any time before a request for a review in respect of a notice of violation is
 
 ### Section 127
 
-  **(1)** On receipt of a request made under section `125`, the Commission must conduct the review or cause the review to be conducted by a person designated under **subsection** 116(**1.1**).
+  **(1)** On receipt of a request made under section `125`, the Commission must conduct the review or cause the review to be conducted by a person designated under subsection 116(1.1).
 
-  **(2)** The Commission must conduct the review if the notice of violation was issued by a person designated under **subsection** 116(**1.1**).
+  **(2)** The Commission must conduct the review if the notice of violation was issued by a person designated under subsection 116(1.1).
 
 ### Section 128
 
@@ -6533,7 +6525,7 @@ If a person is found guilty of an offence under this Act and a fine that is impo
 
     the financial resources, financial responsibility and financial structure of the applicant, the methods of financing the pipeline and the extent to which Canadians will have an opportunity to participate in the financing, engineering and construction of the pipeline;
 
-    **the extent to which the effects of the pipeline hinder or contribute to** the Government of **Canada's ability to meet its** environmental **obligations and its commitments in respect of climate change**;
+    the extent to which the effects of the pipeline hinder or contribute to the Government of Canada's ability to meet its environmental obligations and its commitments in respect of climate change;
 
     any relevant assessment referred to in section 92, 93 or 95 of the `Impact Assessment Act`; and
 
@@ -6625,7 +6617,7 @@ subsection `189`(1) applies with respect to the review panel.
 
     direct the Commission, by order, to dismiss the application for a certificate.
 
-  **(2)** An order made under subsection (1) must set out the reasons for making the order. **The reasons must demonstrate that the Governor in Council took into account all the considerations referred to in subsection 183(2) that appeared to the Governor in Council to be relevant and directly related to the pipeline**.
+  **(2)** An order made under subsection (1) must set out the reasons for making the order. The reasons must demonstrate that the Governor in Council took into account all the considerations referred to in subsection 183(2) that appeared to the Governor in Council to be relevant and directly related to the pipeline.
 
   **(3)** An order made under subsection (1) must be made within 90 days after the day on which the report under section `183` is submitted. The Governor in Council may, on the recommendation of the Minister, by order, grant one or more extensions of the time limit. If the Governor in Council makes an order under subsection `184`(1) or (9), the period that is taken to complete the reconsideration and to submit the report is to be excluded from the calculation of the time limit.
 
@@ -6722,7 +6714,7 @@ copies, certified by the Regulator, of the approved plan, profile and book of re
 
 ### Section 199
 
-  **(1)** The company must submit the plan, profile and book of reference **referred to in paragraph 198(c)** to the Regulator.
+  **(1)** The company must submit the plan, profile and book of reference referred to in paragraph 198(c) to the Regulator.
 
   **(2)** The plan and profile must include any details that the Commission may require.
 
@@ -7384,7 +7376,7 @@ The applicant for or holder of a permit or certificate may file with the Regulat
 
     the effects on the rights of the Indigenous peoples of Canada recognized and affirmed by section 35 of the `Constitution Act, 1982`;
 
-    **the extent to which the effects of the power line hinder or contribute to** the Government of **Canada's ability to meet its** environmental **obligations and its commitments in respect of climate change**; and
+    the extent to which the effects of the power line hinder or contribute to the Government of Canada's ability to meet its environmental obligations and its commitments in respect of climate change; and
 
     any relevant assessment referred to in section 92, 93 or 95 of the `Impact Assessment Act`.
 
@@ -7455,7 +7447,7 @@ copies, certified by the Regulator, of the approved plan, profile and book of re
 
     a pipeline were a reference to the international or interprovincial power line; and
 
-    hydrocarbons **or any other commodity** were a reference to electricity.
+    hydrocarbons or any other commodity were a reference to electricity.
 
   **(2)** If a deviation is required to be made to a part of an international power line by the holder of a permit or certificate issued in respect of the power line and the deviation passes in, on, over, under, through or across a navigable water, section `211` also applies to that part as if each reference in that section to
 
@@ -7780,7 +7772,7 @@ prescribing the circumstances referred to in subsection `262`(6).
 
     a pipeline were a reference to the international power line; and
 
-    hydrocarbons **or any other commodity** were a reference to electricity.
+    hydrocarbons or any other commodity were a reference to electricity.
 
   **(2)** A reference to an abandoned pipeline in the provisions referred to in subsection (1) is not a reference to an abandoned international or interprovincial power line.
 
@@ -7841,7 +7833,7 @@ carry on any work or activity to construct, operate or abandon any part of an of
 
     the effects on the rights of the Indigenous peoples of Canada recognized and affirmed by section 35 of the `Constitution Act, 1982`;
 
-    **the extent to which the effects of the project or power line hinder or contribute to** the Government of **Canada's ability to meet its** environmental **obligations and its commitments in respect of climate change**; and
+    the extent to which the effects of the project or power line hinder or contribute to the Government of Canada's ability to meet its environmental obligations and its commitments in respect of climate change; and
 
     any relevant assessment referred to in section 92, 93 or 95 of the `Impact Assessment Act`.
 
@@ -7977,7 +7969,7 @@ subsections `298`(3) and (6) to (8) do not apply with respect to the application
 
     a pipeline or line were a reference to that part of the power line; and
 
-    hydrocarbons **or any other commodity** were a reference to electricity.
+    hydrocarbons or any other commodity were a reference to electricity.
 
   **(2)** Subsection `224`(1) applies in respect of any part of an offshore power line that is in a province as if the reference to "any of the circumstances referred to in subsection (2)" were a reference to any of the following circumstances:
 
@@ -8085,7 +8077,7 @@ construct, maintain and operate branch lines and for that purpose exercise all t
 
 alter, repair or discontinue the works mentioned in this section, or any of them, and substitute others in their stead;
 
-transmit hydrocarbons **or any other commodity** by pipeline and regulate the time and manner in which hydrocarbons **or any other commodity** are to be transmitted and the tolls to be charged; and
+transmit hydrocarbons or any other commodity by pipeline and regulate the time and manner in which hydrocarbons or any other commodity are to be transmitted and the tolls to be charged; and
 
 do all other acts necessary for the construction, maintenance, operation and abandonment of its pipeline or the maintenance of its abandoned pipeline.
 
@@ -8116,7 +8108,7 @@ A company operating a pipeline from a place in Canada to a place on the internat
 
     any section or part of the pipeline that passes in, on, over, under, through or across a navigable water if a certificate has been issued, or an order has been made under section `214`, in respect of the pipeline; and
 
-    anything done under any leave obtained under section 108 of the `National Energy Board Act` at any time before **July 3, 2013**, as that section read from time to time before that day.
+    anything done under any leave obtained under section 108 of the `National Energy Board Act` at any time before July 3, 2013, as that section read from time to time before that day.
 
 
 ### Certain Lands for Which Consent Required
@@ -8729,7 +8721,7 @@ The period of validity of a permit or licence must not exceed 30 years.
 
   **(1)** The Commission may, by order, suspend or revoke a permit or licence issued in respect of the exportation of electricity if the holder applies for or consents to the revocation or suspension or the holder has contravened a condition of the permit or licence.
 
-  **(2)** The Commission must not make an order under subsection (1) for a contravention unless the Commission provides the holder of the permit or licence with notice of the **alleged** contravention and gives the holder an opportunity to be heard.
+  **(2)** The Commission must not make an order under subsection (1) for a contravention unless the Commission provides the holder of the permit or licence with notice of the alleged contravention and gives the holder an opportunity to be heard.
 
 
 #### Regulations
@@ -9416,11 +9408,11 @@ Except in accordance with this Act, it is prohibited to construct, place, alter,
 
 ### Section 6
 
-If the Minister is of the opinion that a work that is the subject of an application made under subsection `5`(1), or its construction, placement, alteration, rebuilding, removal or decommissioning, would not interfere with navigation, **including by changing the water level or water flow of a navigable water**, he or she must inform the owner, in writing, of that opinion and no approval is required under subsection 7(6) for that work — or its construction, placement, alteration, rebuilding, removal or decommissioning.
+If the Minister is of the opinion that a work that is the subject of an application made under subsection `5`(1), or its construction, placement, alteration, rebuilding, removal or decommissioning, would not interfere with navigation, including by changing the water level or water flow of a navigable water, he or she must inform the owner, in writing, of that opinion and no approval is required under subsection 7(6) for that work — or its construction, placement, alteration, rebuilding, removal or decommissioning.
 
 ### Section 7
 
-  **(1)** If the Minister is of the opinion that a work that is the subject of an application made under subsection `5`(1), or its construction, placement, alteration, rebuilding, removal or decommissioning, may interfere with navigation, **including by changing the water level or water flow of a navigable water**, he or she must inform the owner, in writing, of that opinion and the owner may only construct, place, alter, rebuild, remove or decommission that work if the Minister issues an approval for the work.
+  **(1)** If the Minister is of the opinion that a work that is the subject of an application made under subsection `5`(1), or its construction, placement, alteration, rebuilding, removal or decommissioning, may interfere with navigation, including by changing the water level or water flow of a navigable water, he or she must inform the owner, in writing, of that opinion and the owner may only construct, place, alter, rebuild, remove or decommission that work if the Minister issues an approval for the work.
 
   **(2)** The owner must deposit any information specified by the Minister in any place specified by the Minister.
 
@@ -9454,7 +9446,7 @@ If the Minister is of the opinion that a work that is the subject of an applicat
 
   **(8)** For the purpose of determining whether to issue the approval, the Minister may require from the owner any additional information that the Minister considers appropriate.
 
-  **(9)** The Minister may attach any term or condition that he or she considers appropriate to an approval including **one** that **requires** the owner **to**
+  **(9)** The Minister may attach any term or condition that he or she considers appropriate to an approval including one that requires the owner to
 
     maintain the water level or water flow necessary for navigation purposes in a navigable water; or
 
@@ -9673,7 +9665,7 @@ If the person in charge of an obstruction or a potential obstruction in a naviga
 
 ### Section 17
 
-  **(1)** **If a person in charge of an obstruction or potential obstruction in a navigable water fails to comply with paragraph 15(2)(a) or (b) or is not known or cannot be located, or if a person to whom an order is given under subsection 15(3), 15.1(1) or 16(1) fails to comply with the order**, the Minister may sell by auction or otherwise, as he or she considers appropriate, **the** obstruction or potential obstruction or **the** thing referred to in subsection `16`(1). The Minister may apply the proceeds of the sale to make good the costs incurred by the Minister while acting under subsection 15(4) or 15.1(2) or section 15.2 or subsection 16(2), **as the case may be**.
+  **(1)** If a person in charge of an obstruction or potential obstruction in a navigable water fails to comply with paragraph 15(2)(a) or (b) or is not known or cannot be located, or if a person to whom an order is given under subsection 15(3), 15.1(1) or 16(1) fails to comply with the order, the Minister may sell by auction or otherwise, as he or she considers appropriate, the obstruction or potential obstruction or the thing referred to in subsection `16`(1). The Minister may apply the proceeds of the sale to make good the costs incurred by the Minister while acting under subsection 15(4) or 15.1(2) or section 15.2 or subsection 16(2), as the case may be.
 
   **(2)** The Minister must pay all or any portion of the surplus of the proceeds of the sale to the person in charge of the obstruction or potential obstruction sold or to any other person that is entitled to the proceeds.
 
@@ -9787,7 +9779,7 @@ The Minister may undertake any study and collect any information that, in his or
 
   **(1)** Any Indigenous knowledge that is provided to the Minister under this Act in confidence is confidential and must not knowingly be, or be permitted to be, disclosed without written consent.
 
-  **(2)** Despite subsection (1), the **Indigenous** knowledge referred to in that subsection may be disclosed if
+  **(2)** Despite subsection (1), the Indigenous knowledge referred to in that subsection may be disclosed if
 
     it is publicly available;
 
@@ -9797,9 +9789,9 @@ The Minister may undertake any study and collect any information that, in his or
 
   **(2.1)** Before disclosing Indigenous knowledge under paragraph 2(b) for the purposes of procedural fairness and natural justice, the Minister must consult the person or entity who provided the Indigenous knowledge and the person or entity to whom it is proposed to be disclosed about the scope of the proposed disclosure and potential conditions under subsection (3).
 
-  **(3)** The Minister may, **having regard to the consultation referred to in subsection (2.1)**, impose conditions with respect to the disclosure of **Indigenous** knowledge by any person **or entity** to whom it is disclosed under paragraph (2)(b) for the purposes of procedural fairness and natural justice.
+  **(3)** The Minister may, having regard to the consultation referred to in subsection (2.1), impose conditions with respect to the disclosure of Indigenous knowledge by any person or entity to whom it is disclosed under paragraph (2)(b) for the purposes of procedural fairness and natural justice.
 
-  **(4)** The person **or entity** referred to in subsection (3) must comply with any conditions imposed by the Minister under that subsection.
+  **(4)** The person or entity referred to in subsection (3) must comply with any conditions imposed by the Minister under that subsection.
 
   **(5)** Despite any other Act of Parliament, no civil or criminal proceedings lie against the Minister — or any person acting on behalf of, or under the direction of, him or her — and no proceedings lie against the Crown, for the disclosure in good faith of any Indigenous knowledge under this Act or for any consequences that flow from that disclosure.
 
@@ -9852,7 +9844,7 @@ The Act is amended by adding the following after section 27.1:
 
   **(3)** Subsection 28(1) of the Act is amended by adding the following after paragraph (g):
 
-    excluding any body of water **that the Governor in Council considers to be small** from the definition navigable water in section 2;
+    excluding any body of water that the Governor in Council considers to be small from the definition navigable water in section 2;
 
     prescribing the circumstances in which the Indigenous knowledge that is provided to the Minister under this Act in confidence may be disclosed without written consent;
 
@@ -10561,17 +10553,17 @@ Subsection 5.001(3) of the Act is replaced by the following:
 
 ### Section 128
 
-Section 5.002 of the Act is **replaced by the following**:
+Section 5.002 of the Act is replaced by the following:
 
 ### Section 5.002
 
-The **Canadian Energy Regulator** may establish a participant funding program to facilitate the participation of the public in the **impact** assessment, as defined in **section** 2 of the `**Impact** Assessment Act`, of any designated project, as defined in that **section, if**
+The Canadian Energy Regulator may establish a participant funding program to facilitate the participation of the public in the impact assessment, as defined in section 2 of the `Impact Assessment Act`, of any designated project, as defined in that section, if
 
-the **Canadian Energy Regulator has responsibilities for the project under that Act**;
+the Canadian Energy Regulator has responsibilities for the project under that Act;
 
-**the project includes physical activities that are designated by regulations made under paragraph 112(e) of that Act or that are part of a class of activities designated by those regulations**; and
+the project includes physical activities that are designated by regulations made under paragraph 112(e) of that Act or that are part of a class of activities designated by those regulations; and
 
-**the project** is the subject of an application for an authorization under subsection 5(1) **of this Act**.
+the project is the subject of an application for an authorization under subsection 5(1) of this Act.
 
 ### Section 129
 
