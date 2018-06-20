@@ -1,7 +1,5 @@
 # Bill C-64: An Act respecting wrecks, abandoned, dilapidated or hazardous vessels and salvage operations
 
-**Sponsor**: MINISTER OF TRANSPORT
-
 Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act respecting wrecks, abandoned, dilapidated or hazardous vessels and salvage operations*".
 
 ## Summary
@@ -527,7 +525,7 @@ The following definitions apply in this Act.
 
 **master** has the same meaning as in section 2 of the `Canada Shipping Act, 2001`. (**capitaine**)
 
-**Minister** means, subject to section `89`, the Minister of Transport. (**ministre**)
+**Minister** means, subject to section `89`, the Minister of Transport. (**ministre**)
 
 **owner**, except in Part 1, means, in relation to a vessel, a person that
 
@@ -537,7 +535,7 @@ is a holder of a pleasure craft licence; or
 
 has, either by law or by contract, the rights of an owner of the vessel in respect of its possession and use. (**propriétaire**)
 
-**person** includes a partnership, an unincorporated organization, an association and a trust. (**personne**)
+**person** includes a partnership, an unincorporated organization, an association and a trust. (**personne**)
 
 **person in charge** means, in relation to a vessel or a wreck, the owner, master or authorized representative of the vessel, and any person that is or appears to be in command, control or charge of the vessel or that has management of the vessel, but does not include a licensed pilot, as defined in section 1.1 of the `Pilotage Act`, while the pilot is exercising their powers or performing their duties or functions under that Act. (**responsable**)
 
@@ -578,7 +576,7 @@ The purpose of this Act is to promote the protection of the public, of the envir
 
     vessels that are on location for the purposes of engaging in the exploration, exploitation or production of mineral resources or that, as a result of an accident or incident, have drifted from that location.
 
-  ****(3)**** **This Act, other than Parts 3 and 4 and section 131, does not apply in respect of** wrecks considered as having heritage value under an Act of Parliament or of the legislature of a province.
+  **(3)** This Act, other than Parts 3 and 4 and section 131, does not apply in respect of wrecks considered as having heritage value under an Act of Parliament or of the legislature of a province.
 
 
 ## Powers, Duties and Functions of Ministers
@@ -680,7 +678,7 @@ Subject to any conditions that the Minister considers appropriate, he or she may
 
     **owner**, in relation to a vessel, has the meaning assigned by the definition registered owner in Article 1 of the Wreck Removal Convention. (**propriétaire**)
 
-    **vessel** has the meaning assigned by the definition ship in Article 1 of the Wreck Removal Convention, but includes non-seagoing vessels. (**bâtiment**)
+    **vessel** has the meaning assigned by the definition ship in Article 1 of the Wreck Removal Convention, but includes non-seagoing vessels. (**bâtiment**)
 
   **(2)** For the purposes of this Part, unless otherwise provided, words and expressions used in this Part have the same meaning as in the Wreck Removal Convention.
 
@@ -1006,7 +1004,7 @@ a vessel or wreck that was the subject of measures under section `36` or subsect
 
     the Minister of Fisheries and Oceans
 
-    in respect of measures taken under paragraph `36`(a) (including any costs and expenses incurred by the Minister of Fisheries and Oceans in determining whether a **vessel or** wreck poses a hazard, if he or she determined that it posed one) or `37`(3)(a) or subsection `37`(4) and any loss or damage caused by those measures,
+    in respect of measures taken under paragraph `36`(a) (including any costs and expenses incurred by the Minister of Fisheries and Oceans in determining whether a vessel or wreck poses a hazard, if he or she determined that it posed one) or `37`(3)(a) or subsection `37`(4) and any loss or damage caused by those measures,
 
     in respect of any monitoring under paragraph `36`(b) or `37`(3)(b) or subsection `37`(4),
 
@@ -1821,7 +1819,7 @@ A document that purports to have been issued by the enforcement officer and that
 
 ### Section 107
 
-The Minister **must** keep a public record of notices of violation or default, including, with respect to each violation or default, the nature of the violation or default, the name of the person or vessel that committed it and the amount of the penalty.
+The Minister must keep a public record of notices of violation or default, including, with respect to each violation or default, the nature of the violation or default, the name of the person or vessel that committed it and the amount of the penalty.
 
 ### Section 108
 
@@ -1970,7 +1968,7 @@ in the case of a direction that cannot be given to any person referred to in par
 
 ### Section 119
 
-  **(1)** A person must not be found guilty of an offence under this Act, other than in relation to a contravention of subsection 34(1) or 60(2) or section 70, **78,** 83 or 88, if they establish that they exercised due diligence to prevent its commission.
+  **(1)** A person must not be found guilty of an offence under this Act, other than in relation to a contravention of subsection 34(1) or 60(2) or section 70, 78, 83 or 88, if they establish that they exercised due diligence to prevent its commission.
 
   **(2)** A vessel must not be found guilty of an offence under this Act if the person that committed the act or omission that constitutes the offence establishes that they exercised due diligence to prevent its commission.
 
@@ -2061,7 +2059,7 @@ A direction or detention order under this Act is not a statutory instrument for 
 
 ### Section 129
 
-  **(1)** The amount of the costs and expenses incurred by the Minister or the Minister of Fisheries and Oceans, in respect of measures taken under any of subsections `21`(2) and (3), section 22, paragraphs 30(3)(a) to (c), section 35, paragraphs 36(a) to (c) and subsection 37(3) and (4) **or in relation to the use of property under subsection 86(5)**, constitutes a debt due to Her Majesty in right of Canada that may be recovered
+  **(1)** The amount of the costs and expenses incurred by the Minister or the Minister of Fisheries and Oceans, in respect of measures taken under any of subsections `21`(2) and (3), section 22, paragraphs 30(3)(a) to (c), section 35, paragraphs 36(a) to (c) and subsection 37(3) and (4) or in relation to the use of property under subsection 86(5), constitutes a debt due to Her Majesty in right of Canada that may be recovered
 
     in the case of measures taken under subsection `21`(2) or (3) or section `22`, from the person that was the owner of the vessel at the time of the maritime casualty that resulted in the wreck;
 
@@ -2217,7 +2215,7 @@ Subsection 16(5) of the `Canada National Marine Conservation Areas Act` is repla
 
 The definition **Crown ship** in section 2 of the `Crown Liability and Proceedings Act` is replaced by the following:
 
-**Crown ship** means a Crown vessel as defined in subsection `48`(1) of the `Wrecked, Abandoned or Hazardous Vessels Act`; (**navire de l'État**)
+**Crown ship** means a Crown vessel as defined in subsection `48`(1) of the `Wrecked, Abandoned or Hazardous Vessels Act`; (**navire de l'État**)
 
 ### Section 136
 
