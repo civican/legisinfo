@@ -1,0 +1,1563 @@
+<Bills>
+  <Bill>
+    <Id>9990870</Id>
+    <NumberCode>C-81</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>81</Number>
+    <LongTitleEn>An Act to ensure a barrier-free Canada</LongTitleEn>
+    <LongTitleFr>Loi visant à faire du Canada un pays exempt d'obstacles</LongTitleFr>
+    <LongTitle>An Act to ensure a barrier-free Canada</LongTitle>
+    <ShortTitleEn>Accessible Canada Act</ShortTitleEn>
+    <ShortTitleFr>Loi canadienne sur l'accessibilité</ShortTitleFr>
+    <ShortTitle>Accessible Canada Act</ShortTitle>
+    <StatusId>357</StatusId>
+    <StatusNameEn>Royal assent received</StatusNameEn>
+    <StatusNameFr>Sanction royale reçue</StatusNameFr>
+    <StatusName>Royal assent received</StatusName>
+    <LatestCompletedMajorStageId>60046</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>Royal assent</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Sanction royale</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>Royal assent</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>Royal assent</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>2</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>Senate</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Sénat</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>Senate</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60050</OngoingStageId>
+    <OngoingStageNameEn>Royal assent</OngoingStageNameEn>
+    <OngoingStageNameFr>Sanction royale</OngoingStageNameFr>
+    <OngoingStageName>Royal assent</OngoingStageName>
+    <LatestCompletedBillStageId>60050</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Royal assent</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Sanction royale</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Royal assent</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>2</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>Senate</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Sénat</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>Senate</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2019-06-21T00:00:00</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>42</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>89272</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Carla</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Qualtrough</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Carla Qualtrough</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Public Services and Procurement and Accessibility</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre des Services publics et de l'Approvisionnement et de l'Accessibilité</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Public Services and Procurement and Accessibility</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>96</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>HansardDisplay</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>HansardDisplay</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>HansardDisplay</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>908</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Delta</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Delta</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Delta</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60149</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Royal assent</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Sanction royale</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60050</LatestBillEventStageId>
+    <LatestBillEventTypeName>Royal assent</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2019-06-21T13:30:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>2</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>Senate</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Sénat</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>Senate</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>308</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2018-06-20T15:49:53.823</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime>2018-09-26T16:28:36.637</PassedHouseSecondReadingDateTime>
+    <PassedHouseThirdReadingDateTime>2018-11-27T19:35:00</PassedHouseThirdReadingDateTime>
+    <PassedSenateFirstReadingDateTime>2018-11-29T00:00:00</PassedSenateFirstReadingDateTime>
+    <PassedSenateSecondReadingDateTime>2019-03-20T14:35:00</PassedSenateSecondReadingDateTime>
+    <PassedSenateThirdReadingDateTime>2019-05-13T00:01:00</PassedSenateThirdReadingDateTime>
+    <ReceivedRoyalAssentDateTime>2019-06-21T00:00:00</ReceivedRoyalAssentDateTime>
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>true</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>true</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>true</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>true</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>true</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn>&lt;div&gt;The pre-release version of this Legislative Summary is now available. Parliamentarians and their staff can obtain a copy by submitting a request or contacting the Library of Parliament. Members of the public can obtain a copy by contacting the Information Service at the Library of Parliament at Info@parl.gc.ca.&lt;br/&gt;&lt;br/&gt;On 20 June 2018, the Minister of Public Services and Procurement and Accessibility introduced Bill C-81, An Act to ensure a barrier-free Canada (Accessible Canada Act), in the House of Commons and it was given first reading. &lt;br/&gt;&lt;br/&gt;Bill C-81 enacts the Accessible Canada Act in order to enhance the full and equal participation of all persons, especially persons with disabilities, in society. This is to be achieved through the progressive realization, within the purview of matters coming within the legislative authority of Parliament, of a Canada without barriers, particularly by the identification, removal and prevention of barriers.&lt;br/&gt;&lt;br/&gt;Part 1 of the Act establishes the Minister's mandate, powers, duties and functions.&lt;br/&gt;&lt;br/&gt;Part 2 of the Act establishes the Canadian Accessibility Standards Development Organization and provides for its mandate and structure and its powers, duties and functions.&lt;br/&gt;&lt;br/&gt;Part 3 of the Act authorizes the Accessibility Commissioner to provide the Minister with information, advice and written reports in respect of the administration and enforcement of the Act. It also requires the Accessibility Commissioner to submit an annual report on his or her activities under the Act to the Minister for tabling in Parliament.&lt;br/&gt;&lt;br/&gt;Part 4 of the Act imposes duties on regulated entities that include the duty to prepare accessibility plans and progress reports in consultation with persons with disabilities, the duty to publish those plans and reports and the duty to establish a feedback process and to publish a description of it.&lt;br/&gt;&lt;br/&gt;Part 5 of the Act provides for the Accessibility Commissioner's inspection and other powers, including the power to make production orders and compliance orders and the power to impose administrative monetary penalties.&lt;br/&gt;&lt;br/&gt;Part 6 of the Act provides for a complaints process for, and the awarding of compensation to, individuals that have suffered physical or psychological harm, property damage or economic loss as the result of?—?or that have otherwise been adversely affected by?—?the contravention of provisions of the regulations.&lt;br/&gt;&lt;br/&gt;Part 7 of the Act provides for the appointment of the Chief Accessibility Officer and sets out that officer's duties and functions, including the duty to advise the Minister in respect of systemic or emerging accessibility issues.&lt;br/&gt;&lt;br/&gt;Part 8 of the Act authorizes the Governor in Council to make regulations, including regulations to establish accessibility standards and to specify the form of accessibility plans and progress reports. It also provides, among other things, for the designation of the week starting on the last Sunday in May as National AccessAbility Week.&lt;br/&gt;&lt;br/&gt;Part 9 of the Act provides for the application of certain provisions of the Act to parliamentary entities, without limiting the powers, privileges and immunities of the Senate, the House of Commons and the members of those Houses.&lt;br/&gt;&lt;br/&gt;Parts 10 and 11 of the Act make related and consequential amendments to certain Acts.&lt;/div&gt;</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>&lt;div&gt;La version préliminaire du présent résumé législatif est maintenant disponible. Les parlementaires et les membres de leur personnel peuvent en obtenir un exemplaire en présentant une demande ou en communiquant avec la Bibliothèque du Parlement. Les membres du public peuvent en obtenir un exemplaire auprès du Service de renseignements de la Bibliothèque du Parlement à Info@parl.gc.ca.&lt;br/&gt;&lt;br/&gt;Le 20 juin 2018, le Ministre des Services publics et de l'Approvisionnement et de l'Accessibilité a déposé le projet de loi C-81, Loi visant à faire du Canada un pays exempt d'obstacles (Loi canadienne sur l'accessibilité), à la Chambre des communes en première lecture. &lt;br/&gt;&lt;br/&gt;Le projet de loi C-81 édicte la Loi canadienne sur l'accessibilité afin de favoriser la participation pleine et égale dans la société de toutes les personnes, en particulier les personnes handicapées. La loi vise à parvenir à cette fin par la transformation graduelle du Canada, dans le champ de compétence législative du Parlement, en un pays exempt d'obstacles, particulièrement par la reconnaissance, l'élimination et la prévention d'obstacles.&lt;br/&gt;&lt;br/&gt;La partie 1 de la loi prévoit le mandat et les attributions du ministre.&lt;br/&gt;&lt;br/&gt;La partie 2 de la loi constitue l'Organisation canadienne d'élaboration de normes d'accessibilité et prévoit sa mission, sa structure et ses attributions.&lt;br/&gt;&lt;br/&gt;La partie 3 de la loi autorise le commissaire à l'accessibilité à fournir au ministre des renseignements, conseils et rapports sur des questions liées à l'exécution et au contrôle d'application de la loi et à lui faire rapport sur ces questions. En outre, elle impose l'obligation au commissaire à l'accessibilité de fournir au ministre, pour dépôt au Parlement, un rapport annuel sur les activités qu'il a exercées en vertu de la loi.&lt;br/&gt;&lt;br/&gt;La partie 4 de la loi impose des obligations aux entités réglementées, particulièrement, la préparation, en consultation avec des personnes handicapées, de plans sur l'accessibilité et de rapports d'étape ainsi que l'établissement de processus de rétroaction. Elle impose aussi l'obligation de publier ces plans, rapports et descriptions de ces processus.&lt;br/&gt;&lt;br/&gt;La partie 5 de la loi prévoit le pouvoir pour le commissaire à l'accessibilité de procéder à des inspections et d'autres pouvoirs, notamment de donner des ordres de communication ou de conformité ou encore d'imposer des sanctions administratives pécuniaires.&lt;br/&gt;&lt;br/&gt;La partie 6 de la loi prévoit un processus de plaintes?—?et d'indemnisation?—?pour les individus qui ont subi des préjudices physiques ou psychologiques, des dommages matériels ou des pertes économiques ou ont été autrement lésés par suite d'une contravention à une disposition des règlements.&lt;br/&gt;&lt;br/&gt;La partie 7 de la loi prévoit la nomination du dirigeant principal de l'accessibilité et ses attributions, notamment celle de conseiller le ministre sur les questions systémiques ou émergentes en matière d'accessibilité.&lt;br/&gt;&lt;br/&gt;La partie 8 de la loi autorise le gouverneur en conseil à prendre des règlements, notamment pour établir des normes d'accessibilité et préciser la forme des plans sur l'accessibilité et des rapports d'étape. Aussi, elle désigne la semaine commençant le dernier dimanche du mois de mai comme la Semaine nationale de l'accessibilité.&lt;br/&gt;&lt;br/&gt;La partie 9 de la loi prévoit l'application aux entités parlementaires de certaines dispositions de la loi sans restreindre de quelque façon les pouvoirs, privilèges et immunités du Sénat, de la Chambre des communes, des sénateurs et des députés.&lt;br/&gt;&lt;br/&gt;Les parties 10 et 11 de la loi prévoient des modifications connexes et corrélatives à d'autres lois.&lt;/div&gt;</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>&lt;div&gt;The pre-release version of this Legislative Summary is now available. Parliamentarians and their staff can obtain a copy by submitting a request or contacting the Library of Parliament. Members of the public can obtain a copy by contacting the Information Service at the Library of Parliament at Info@parl.gc.ca.&lt;br/&gt;&lt;br/&gt;On 20 June 2018, the Minister of Public Services and Procurement and Accessibility introduced Bill C-81, An Act to ensure a barrier-free Canada (Accessible Canada Act), in the House of Commons and it was given first reading. &lt;br/&gt;&lt;br/&gt;Bill C-81 enacts the Accessible Canada Act in order to enhance the full and equal participation of all persons, especially persons with disabilities, in society. This is to be achieved through the progressive realization, within the purview of matters coming within the legislative authority of Parliament, of a Canada without barriers, particularly by the identification, removal and prevention of barriers.&lt;br/&gt;&lt;br/&gt;Part 1 of the Act establishes the Minister's mandate, powers, duties and functions.&lt;br/&gt;&lt;br/&gt;Part 2 of the Act establishes the Canadian Accessibility Standards Development Organization and provides for its mandate and structure and its powers, duties and functions.&lt;br/&gt;&lt;br/&gt;Part 3 of the Act authorizes the Accessibility Commissioner to provide the Minister with information, advice and written reports in respect of the administration and enforcement of the Act. It also requires the Accessibility Commissioner to submit an annual report on his or her activities under the Act to the Minister for tabling in Parliament.&lt;br/&gt;&lt;br/&gt;Part 4 of the Act imposes duties on regulated entities that include the duty to prepare accessibility plans and progress reports in consultation with persons with disabilities, the duty to publish those plans and reports and the duty to establish a feedback process and to publish a description of it.&lt;br/&gt;&lt;br/&gt;Part 5 of the Act provides for the Accessibility Commissioner's inspection and other powers, including the power to make production orders and compliance orders and the power to impose administrative monetary penalties.&lt;br/&gt;&lt;br/&gt;Part 6 of the Act provides for a complaints process for, and the awarding of compensation to, individuals that have suffered physical or psychological harm, property damage or economic loss as the result of?—?or that have otherwise been adversely affected by?—?the contravention of provisions of the regulations.&lt;br/&gt;&lt;br/&gt;Part 7 of the Act provides for the appointment of the Chief Accessibility Officer and sets out that officer's duties and functions, including the duty to advise the Minister in respect of systemic or emerging accessibility issues.&lt;br/&gt;&lt;br/&gt;Part 8 of the Act authorizes the Governor in Council to make regulations, including regulations to establish accessibility standards and to specify the form of accessibility plans and progress reports. It also provides, among other things, for the designation of the week starting on the last Sunday in May as National AccessAbility Week.&lt;br/&gt;&lt;br/&gt;Part 9 of the Act provides for the application of certain provisions of the Act to parliamentary entities, without limiting the powers, privileges and immunities of the Senate, the House of Commons and the members of those Houses.&lt;br/&gt;&lt;br/&gt;Parts 10 and 11 of the Act make related and consequential amendments to certain Acts.&lt;/div&gt;</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear>2019</StatuteYear>
+    <StatuteChapter>10</StatuteChapter>
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2018-06-20T15:49:53.823</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>318</Number>
+          <Date>2018-06-20T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2018-06-20T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2018-06-20T15:49:53.823</EventStartDateTime>
+          <EventEndDateTime>2018-06-20T15:49:53.823</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2018-06-20T15:49:53.823</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2018-09-26T16:28:36.637</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>21443</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des ressources humaines, du développement des compétences, du développement social et de la condition des personnes handicapées</CommitteeNameFr>
+          <CommitteeAcronym>HUMA</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities</CommitteeName>
+          <StudyActivityId>10268658</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>321</Number>
+          <Date>2018-09-19T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>324</Number>
+          <Date>2018-09-24T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>326</Number>
+          <Date>2018-09-26T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>10264914</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>9999096</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>2nd reading and referral to committee - HUMA</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>2e lecture et renvoi en comité - HUMA</DecisionMotionTitleFr>
+          <DecisionMotionTitle>2nd reading and referral to committee - HUMA</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId />
+          <DecisionMethodNameEn>
+          </DecisionMethodNameEn>
+          <DecisionMethodNameFr>
+          </DecisionMethodNameFr>
+          <DecisionMethodName>
+          </DecisionMethodName>
+          <DivisionNumber />
+          <DivisionVotesYeas />
+          <DivisionVotesNays />
+          <DivisionVotePaired />
+          <DecisionSittingDate>2018-09-26T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>326</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60121</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading and referral to committee</EventNameEn>
+          <EventNameFr>Deuxième lecture et renvoi en comité</EventNameFr>
+          <EventName>Second reading and referral to committee</EventName>
+          <EventDateTime>2018-09-26T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60121</EventTypeId>
+          <EventTypeNameEn>Second reading and referral to committee</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture et renvoi en comité</EventTypeNameFr>
+          <EventTypeName>Second reading and referral to committee</EventTypeName>
+          <EventStartDateTime>2018-09-26T16:28:36.637</EventStartDateTime>
+          <EventEndDateTime>2018-09-26T16:28:36.637</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2018-09-26T16:28:36.637</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>10245487</InterventionEventId>
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>89272</PersonId>
+          <PersonOfficialFirstName>Carla</PersonOfficialFirstName>
+          <PersonOfficialLastName>Qualtrough</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Carla Qualtrough</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>42</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>321</MeetingNumber>
+          <SpeechDateTime>2018-09-19T15:25:02</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>10245691</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>88679</PersonId>
+          <PersonOfficialFirstName>Alexander</PersonOfficialFirstName>
+          <PersonOfficialLastName>Nuttall</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Alexander Nuttall</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>42</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>321</MeetingNumber>
+          <SpeechDateTime>2018-09-19T15:50:36</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>10246135</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>89012</PersonId>
+          <PersonOfficialFirstName>Cheryl</PersonOfficialFirstName>
+          <PersonOfficialLastName>Hardcastle</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Cheryl Hardcastle</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>NDP</CaucusShortNameEn>
+          <CaucusShortNameFr>NPD</CaucusShortNameFr>
+          <CaucusShortName>NDP</CaucusShortName>
+          <ParliamentNumber>42</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>321</MeetingNumber>
+          <SpeechDateTime>2018-09-19T16:20:20</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2018-11-19T13:54:35.62</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>21443</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des ressources humaines, du développement des compétences, du développement social et de la condition des personnes handicapées</CommitteeNameFr>
+          <CommitteeAcronym>HUMA</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities</CommitteeName>
+          <StudyActivityId>10268658</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented with amendments</NameEn>
+          <NameFr>Présentation du rapport de comité avec des amendements</NameFr>
+          <Name>Committee report presented with amendments</Name>
+          <Number>353</Number>
+          <Date>2018-11-19T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21443</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des ressources humaines, du développement des compétences, du développement social et de la condition des personnes handicapées</CommitteeNameFr>
+          <CommitteeAcronym>HUMA</CommitteeAcronym>
+          <Number>112</Number>
+          <Date>2018-10-02T00:00:00</Date>
+          <CommitteeName>Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21443</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des ressources humaines, du développement des compétences, du développement social et de la condition des personnes handicapées</CommitteeNameFr>
+          <CommitteeAcronym>HUMA</CommitteeAcronym>
+          <Number>113</Number>
+          <Date>2018-10-04T00:00:00</Date>
+          <CommitteeName>Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21443</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des ressources humaines, du développement des compétences, du développement social et de la condition des personnes handicapées</CommitteeNameFr>
+          <CommitteeAcronym>HUMA</CommitteeAcronym>
+          <Number>115</Number>
+          <Date>2018-10-18T00:00:00</Date>
+          <CommitteeName>Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21443</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des ressources humaines, du développement des compétences, du développement social et de la condition des personnes handicapées</CommitteeNameFr>
+          <CommitteeAcronym>HUMA</CommitteeAcronym>
+          <Number>116</Number>
+          <Date>2018-10-22T00:00:00</Date>
+          <CommitteeName>Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21443</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des ressources humaines, du développement des compétences, du développement social et de la condition des personnes handicapées</CommitteeNameFr>
+          <CommitteeAcronym>HUMA</CommitteeAcronym>
+          <Number>117</Number>
+          <Date>2018-10-23T00:00:00</Date>
+          <CommitteeName>Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21443</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des ressources humaines, du développement des compétences, du développement social et de la condition des personnes handicapées</CommitteeNameFr>
+          <CommitteeAcronym>HUMA</CommitteeAcronym>
+          <Number>118</Number>
+          <Date>2018-10-24T00:00:00</Date>
+          <CommitteeName>Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21443</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des ressources humaines, du développement des compétences, du développement social et de la condition des personnes handicapées</CommitteeNameFr>
+          <CommitteeAcronym>HUMA</CommitteeAcronym>
+          <Number>119</Number>
+          <Date>2018-10-25T00:00:00</Date>
+          <CommitteeName>Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21443</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des ressources humaines, du développement des compétences, du développement social et de la condition des personnes handicapées</CommitteeNameFr>
+          <CommitteeAcronym>HUMA</CommitteeAcronym>
+          <Number>123</Number>
+          <Date>2018-11-07T00:00:00</Date>
+          <CommitteeName>Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21443</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des ressources humaines, du développement des compétences, du développement social et de la condition des personnes handicapées</CommitteeNameFr>
+          <CommitteeAcronym>HUMA</CommitteeAcronym>
+          <Number>124</Number>
+          <Date>2018-11-08T00:00:00</Date>
+          <CommitteeName>Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented with amendments</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité avec des amendements</EventNameFr>
+          <EventName>Committee report presented with amendments</EventName>
+          <EventDateTime>2018-11-19T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId>10176473</CommitteeReportId>
+          <CommitteeReportNumber>13</CommitteeReportNumber>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2018-11-19T13:54:35.62</EventStartDateTime>
+          <EventEndDateTime>2018-11-19T13:54:35.62</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2018-11-19T13:54:35.62</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2018-11-21T15:10:58</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>355</Number>
+          <Date>2018-11-21T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60285</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Concurrence at report stage</EventNameEn>
+          <EventNameFr>Adoption à l'étape du rapport</EventNameFr>
+          <EventName>Concurrence at report stage</EventName>
+          <EventDateTime>2018-11-21T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60285</EventTypeId>
+          <EventTypeNameEn>Concurrence at report stage</EventTypeNameEn>
+          <EventTypeNameFr>Adoption à l'étape du rapport</EventTypeNameFr>
+          <EventTypeName>Concurrence at report stage</EventTypeName>
+          <EventStartDateTime>2018-11-21T15:10:58</EventStartDateTime>
+          <EventEndDateTime>2018-11-21T15:10:58</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2018-11-21T15:10:58</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2018-11-27T19:35:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>355</Number>
+          <Date>2018-11-21T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>356</Number>
+          <Date>2018-11-22T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>359</Number>
+          <Date>2018-11-27T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>10403068</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>9999098</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>3rd reading</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>3e lecture</DecisionMotionTitleFr>
+          <DecisionMotionTitle>3rd reading</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>10</DecisionMethodId>
+          <DecisionMethodNameEn>On recorded division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Suivant un vote par appel nominal</DecisionMethodNameFr>
+          <DecisionMethodName>On recorded division</DecisionMethodName>
+          <DivisionNumber>960</DivisionNumber>
+          <DivisionVotesYeas>278</DivisionVotesYeas>
+          <DivisionVotesNays>0</DivisionVotesNays>
+          <DivisionVotePaired>0</DivisionVotePaired>
+          <DecisionSittingDate>2018-11-27T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>359</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2018-11-27T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2018-11-27T19:35:00</EventStartDateTime>
+          <EventEndDateTime>2018-11-27T19:35:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2018-11-27T19:35:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2018-11-29T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>First reading</NameEn>
+          <NameFr>Première lecture</NameFr>
+          <Name>First reading</Name>
+          <Number>254</Number>
+          <Date>2018-11-29T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60111</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>First reading</EventNameEn>
+          <EventNameFr>Première lecture</EventNameFr>
+          <EventName>First reading</EventName>
+          <EventDateTime>2018-11-29T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60111</EventTypeId>
+          <EventTypeNameEn>First reading</EventTypeNameEn>
+          <EventTypeNameFr>Première lecture</EventTypeNameFr>
+          <EventTypeName>First reading</EventTypeName>
+          <EventStartDateTime>2018-11-29T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2018-11-29T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2018-11-29T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2019-03-20T14:35:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16104</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires sociales, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>SOCI</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>264</Number>
+          <Date>2019-02-19T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>270</Number>
+          <Date>2019-03-18T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>271</Number>
+          <Date>2019-03-19T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>272</Number>
+          <Date>2019-03-20T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Referral to committee</NameEn>
+          <NameFr>Renvoi en comité</NameFr>
+          <Name>Referral to committee</Name>
+          <Number>273</Number>
+          <Date>2019-03-21T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60120</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading</EventNameEn>
+          <EventNameFr>Deuxième lecture</EventNameFr>
+          <EventName>Second reading</EventName>
+          <EventDateTime>2019-03-20T14:35:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <SignificantEvents>
+          <EventTypeId>60123</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Referral to committee</EventNameEn>
+          <EventNameFr>Renvoi en comité</EventNameFr>
+          <EventName>Referral to committee</EventName>
+          <EventDateTime>2019-03-21T14:40:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60120</EventTypeId>
+          <EventTypeNameEn>Second reading</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture</EventTypeNameFr>
+          <EventTypeName>Second reading</EventTypeName>
+          <EventStartDateTime>2019-03-20T14:35:00</EventStartDateTime>
+          <EventEndDateTime>2019-03-20T14:35:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2019-03-21T14:40:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>35202</PersonId>
+          <PersonOfficialFirstName>Jim</PersonOfficialFirstName>
+          <PersonOfficialLastName>Munson</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Jim Munson</PersonName>
+          <SenateSystemAffiliationId>2760</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>42</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>264</MeetingNumber>
+          <SpeechDateTime>2019-02-19T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/421/debates/264db_2019-02-19-e#126</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/421/debates/264db_2019-02-19-f#126</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/421/debates/264db_2019-02-19-e#126</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>20868</PersonId>
+          <PersonOfficialFirstName>Marilou</PersonOfficialFirstName>
+          <PersonOfficialLastName>McPhedran</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Marilou McPhedran</PersonName>
+          <SenateSystemAffiliationId>207818</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Independent Senators Group</CaucusShortNameEn>
+          <CaucusShortNameFr>Groupe des sénateurs indépendants</CaucusShortNameFr>
+          <CaucusShortName>Independent Senators Group</CaucusShortName>
+          <ParliamentNumber>42</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>270</MeetingNumber>
+          <SpeechDateTime>2019-03-18T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/421/debates/270db_2019-03-18-e#46</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/421/debates/270db_2019-03-18-f#46</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/421/debates/270db_2019-03-18-e#46</Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>true</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2019-05-07T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16104</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires sociales, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>SOCI</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented with amendments</NameEn>
+          <NameFr>Présentation du rapport de comité avec des amendements</NameFr>
+          <Name>Committee report presented with amendments</Name>
+          <Number>284</Number>
+          <Date>2019-05-07T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16104</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires sociales, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>SOCI</CommitteeAcronym>
+          <Number>131</Number>
+          <Date>2019-04-03T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16104</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires sociales, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>SOCI</CommitteeAcronym>
+          <Number>133</Number>
+          <Date>2019-04-10T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16104</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires sociales, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>SOCI</CommitteeAcronym>
+          <Number>134</Number>
+          <Date>2019-04-11T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16104</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires sociales, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>SOCI</CommitteeAcronym>
+          <Number>135</Number>
+          <Date>2019-05-01T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16104</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires sociales, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>SOCI</CommitteeAcronym>
+          <Number>136</Number>
+          <Date>2019-05-02T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented with amendments</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité avec des amendements</EventNameFr>
+          <EventName>Committee report presented with amendments</EventName>
+          <EventDateTime>2019-05-07T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2019-05-07T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2019-05-07T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2019-05-07T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2019-05-08T15:05:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at consideration of committee report</NameEn>
+          <NameFr>Débat à l'étape de l'étude du rapport de comité</NameFr>
+          <Name>Debate at consideration of committee report</Name>
+          <Number>285</Number>
+          <Date>2019-05-08T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60130</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report adopted</EventNameEn>
+          <EventNameFr>Adoption du rapport de comité</EventNameFr>
+          <EventName>Committee report adopted</EventName>
+          <EventDateTime>2019-05-08T15:05:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60130</EventTypeId>
+          <EventTypeNameEn>Committee report adopted</EventTypeNameEn>
+          <EventTypeNameFr>Adoption du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report adopted</EventTypeName>
+          <EventStartDateTime>2019-05-08T15:05:00</EventStartDateTime>
+          <EventEndDateTime>2019-05-08T15:05:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2019-05-08T15:05:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2019-05-13T00:01:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>287</Number>
+          <Date>2019-05-13T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2019-05-13T00:01:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>Bill passed by the Senate with amendments</AdditionalInformationEn>
+          <AdditionalInformationFr>Projet de loi adopté par le Sénat avec des amendements</AdditionalInformationFr>
+          <AdditionalInformation>Bill passed by the Senate with amendments</AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2019-05-13T00:01:00</EventStartDateTime>
+          <EventEndDateTime>2019-05-13T00:01:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2019-05-13T00:01:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <RoyalAssent>
+        <BillStageId>60050</BillStageId>
+        <BillStageNameEn>Royal assent</BillStageNameEn>
+        <BillStageNameFr>Sanction royale</BillStageNameFr>
+        <BillStageName>Royal assent</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>0</State>
+        <StateNameEn />
+        <StateNameFr />
+        <StateAsOfDate />
+        <StateName />
+        <Committee />
+        <Sittings>
+          <NameEn>Royal assent</NameEn>
+          <NameFr>Sanction royale</NameFr>
+          <Name>Royal assent</Name>
+          <Number>308</Number>
+          <Date>2019-06-21T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60149</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Royal assent</EventNameEn>
+          <EventNameFr>Sanction royale</EventNameFr>
+          <EventName>Royal assent</EventName>
+          <EventDateTime>2019-06-21T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60149</EventTypeId>
+          <EventTypeNameEn>Royal assent</EventTypeNameEn>
+          <EventTypeNameFr>Sanction royale</EventTypeNameFr>
+          <EventTypeName>Royal assent</EventTypeName>
+          <EventStartDateTime>2019-06-21T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2019-06-21T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2019-06-21T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </RoyalAssent>
+      <InterChamberMessages>
+        <EventNameEn>Message sent to the House of Commons</EventNameEn>
+        <EventNameFr>Message envoyé à la Chambre des communes</EventNameFr>
+        <EventName>Message sent to the House of Commons</EventName>
+        <Date>2019-05-13T00:55:00</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>287</MeetingNumber>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Consideration of Senate amendments</EventNameEn>
+        <EventNameFr>Étude des amendements du Sénat</EventNameFr>
+        <EventName>Consideration of Senate amendments</EventName>
+        <Date>2019-05-28T22:30:52</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>421</MeetingNumber>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Consideration of Senate amendments</EventNameEn>
+        <EventNameFr>Étude des amendements du Sénat</EventNameFr>
+        <EventName>Consideration of Senate amendments</EventName>
+        <Date>2019-05-29T18:31:54</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>422</MeetingNumber>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Concurrence in the motion respecting Senate amendments</EventNameEn>
+        <EventNameFr>Adoption de la motion relative aux amendements du Sénat</EventNameFr>
+        <EventName>Concurrence in the motion respecting Senate amendments</EventName>
+        <Date>2019-05-29T19:27:31.073</Date>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>422</MeetingNumber>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+      </InterChamberMessages>
+    </BillStages>
+    <Publications>
+      <PublicationId>9999385</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>10187448</PublicationId>
+      <PublicationTypeId>80702</PublicationTypeId>
+      <PublicationTypeNameEn>As amended by committee</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel que modifié par le comité</PublicationTypeNameFr>
+      <PublicationTypeName>As amended by committee</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>10220875</PublicationId>
+      <PublicationTypeId>80703</PublicationTypeId>
+      <PublicationTypeNameEn>As passed by the House of Commons</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel qu'adopté par la Chambre des communes</PublicationTypeNameFr>
+      <PublicationTypeName>As passed by the House of Commons</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>10593548</PublicationId>
+      <PublicationTypeId>80704</PublicationTypeId>
+      <PublicationTypeNameEn>Royal Assent</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Royal Assent</PublicationTypeNameFr>
+      <PublicationTypeName>Royal Assent</PublicationTypeName>
+    </Publications>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>959</DivisionNumber>
+      <DivisionSubjectEn>Bill C-81, An Act to ensure a barrier-free Canada (recommittal to a committee)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-81, Loi visant à faire du Canada un pays exempt d'obstacles (nouveau renvoi à un comité)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-81, An Act to ensure a barrier-free Canada (recommittal to a committee)</DivisionSubject>
+      <DivisionVotesYeas>115</DivisionVotesYeas>
+      <DivisionVotesNays>163</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>278</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2018-11-27T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>960</DivisionNumber>
+      <DivisionSubjectEn>3rd reading and adoption of Bill C-81, An Act to ensure a barrier-free Canada</DivisionSubjectEn>
+      <DivisionSubjectFr>3e lecture et adoption du projet de loi C-81, Loi visant à faire du Canada un pays exempt d'obstacles</DivisionSubjectFr>
+      <DivisionSubject>3rd reading and adoption of Bill C-81, An Act to ensure a barrier-free Canada</DivisionSubject>
+      <DivisionVotesYeas>278</DivisionVotesYeas>
+      <DivisionVotesNays>0</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>278</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2018-11-27T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Minister Duncan introduces the proposed Accessible Canada Act</TitleEn>
+      <TitleFr>La ministre Duncan dépose le projet de Loi canadienne sur l'accessibilité</TitleFr>
+      <Title>Minister Duncan introduces the proposed Accessible Canada Act</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/employment-social-development/news/2018/06/minister-duncan-introduces-the-proposed-accessible-canada-act.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/emploi-developpement-social/nouvelles/2018/06/la-ministre-duncan-depose-le-projet-de-loi-canadienne-sur-laccessibilite.html</UrlFr>
+      <Url>https://www.canada.ca/en/employment-social-development/news/2018/06/minister-duncan-introduces-the-proposed-accessible-canada-act.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Proposed Accessible Canada Act - Plain Language Summary of the Bill</TitleEn>
+      <TitleFr>Loi canadienne sur l'accessibilité proposée - Résumé du projet de loi en langage simple et clair</TitleFr>
+      <Title>Proposed Accessible Canada Act - Plain Language Summary of the Bill</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/employment-social-development/programs/accessible-people-disabilities/act-plain-language-summary.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/emploi-developpement-social/programmes/accessible-personnes-handicapees/loi-langage-clair-resume.html</UrlFr>
+      <Url>https://www.canada.ca/en/employment-social-development/programs/accessible-people-disabilities/act-plain-language-summary.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Backgrounder: Tabling the proposed Accessible Canada Act – Engagement</TitleEn>
+      <TitleFr>Document d'information : Présentation du projet de Loi canadienne sur l'accessibilité – Mobilisation</TitleFr>
+      <Title>Backgrounder: Tabling the proposed Accessible Canada Act – Engagement</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/employment-social-development/news/2018/06/backgrounder-tabling-the-proposed-accessible-canada-act--engagement.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/emploi-developpement-social/nouvelles/2018/06/document-dinformation--presentation-du-projet-de-loi-canadienne-sur-laccessibilite--mobilisation.html</UrlFr>
+      <Url>https://www.canada.ca/en/employment-social-development/news/2018/06/backgrounder-tabling-the-proposed-accessible-canada-act--engagement.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Backgrounder: Accessible Government</TitleEn>
+      <TitleFr>Document d'information : Un Gouvernement accessible</TitleFr>
+      <Title>Backgrounder: Accessible Government</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/employment-social-development/news/2018/06/backgrounder-accessible-government.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/emploi-developpement-social/nouvelles/2018/06/document-dinformation-un-gouvernement-accessible.html</UrlFr>
+      <Url>https://www.canada.ca/en/employment-social-development/news/2018/06/backgrounder-accessible-government.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Backgrounder: Opportunities Fund enhancements support recruitment and retention of persons with disabilities</TitleEn>
+      <TitleFr>Document d'information: Des améliorations au Fonds d'intégration pour soutenir le recrutement et le maintien en poste des personnes handicapées</TitleFr>
+      <Title>Backgrounder: Opportunities Fund enhancements support recruitment and retention of persons with disabilities</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/employment-social-development/news/2018/06/backgrounder-opportunities-fund-enhancements-support-recruitment-and-retention-of-persons-with-disabilities.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/emploi-developpement-social/nouvelles/2018/06/document-dinformation-des-ameliorations-au-fonds-dintegration-pour-soutenir-le-recrutement-et-le-maintien-en-poste-des-personnes-handicapees.html</UrlFr>
+      <Url>https://www.canada.ca/en/employment-social-development/news/2018/06/backgrounder-opportunities-fund-enhancements-support-recruitment-and-retention-of-persons-with-disabilities.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Making an accessible Canada for people with disabilities (Government of Canada)</TitleEn>
+      <TitleFr>Bâtir un Canada accessible pour les personnes handicapées (Gouvernement du Canada)</TitleFr>
+      <Title>Making an accessible Canada for people with disabilities (Government of Canada)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/employment-social-development/programs/accessible-people-disabilities.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/emploi-developpement-social/programmes/accessible-personnes-handicapees.html</UrlFr>
+      <Url>https://www.canada.ca/en/employment-social-development/programs/accessible-people-disabilities.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Creating new federal accessibility legislation: What we learned (Government of Canada)</TitleEn>
+      <TitleFr>Élaborer une loi fédérale sur l'accessibilité : ce que nous avons appris (Gouvernement du Canada)</TitleFr>
+      <Title>Creating new federal accessibility legislation: What we learned (Government of Canada)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/employment-social-development/programs/accessible-people-disabilities/reports/consultations-what-we-learned.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/emploi-developpement-social/programmes/accessible-personnes-handicapees/rapports/consultations-ce-que-nous-avons-appris.html</UrlFr>
+      <Url>https://www.canada.ca/en/employment-social-development/programs/accessible-people-disabilities/reports/consultations-what-we-learned.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Charter Statement - Bill C-81: An Act to ensure a barrier-free Canada</TitleEn>
+      <TitleFr>Énoncé concernant la Charte - Projet de loi C-81 : Loi visant à faire du Canada un pays exempt d'obstacles</TitleFr>
+      <Title>Charter Statement - Bill C-81: An Act to ensure a barrier-free Canada</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>http://www.justice.gc.ca/eng/csj-sjc/pl/charter-charte/c81.html</UrlEn>
+      <UrlFr>http://www.justice.gc.ca/fra/sjc-csj/pl/charte-charter/c81.html</UrlFr>
+      <Url>http://www.justice.gc.ca/eng/csj-sjc/pl/charter-charte/c81.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Canadian Transportation Agency announces plans to enhance accessibility of Canada's national transportation system</TitleEn>
+      <TitleFr>L'Office des transports du Canada annonce des plans visant à améliorer l'accessibilité du réseau de transport national du Canada</TitleFr>
+      <Title>Canadian Transportation Agency announces plans to enhance accessibility of Canada's national transportation system</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/transportation-agency/news/2019/06/canadian-transportation-agency-announces-plans-to-enhance-accessibility-of-canadas-national-transportation-system.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/office-transports/nouvelles/2019/06/loffice-des-transports-du-canada-annonce-des-plans-visant-a-ameliorer-laccessibilite-du-reseau-de-transport-national-du-canada.html</UrlFr>
+      <Url>https://www.canada.ca/en/transportation-agency/news/2019/06/canadian-transportation-agency-announces-plans-to-enhance-accessibility-of-canadas-national-transportation-system.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Canada's first federal accessibility legislation receives Royal Assent</TitleEn>
+      <TitleFr>La première loi fédérale sur l'accessibilité reçoit la sanction royale</TitleFr>
+      <Title>Canada's first federal accessibility legislation receives Royal Assent</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/employment-social-development/news/2019/06/canadas-first-federal-accessibility-legislation-receives-royal-assent.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/emploi-developpement-social/nouvelles/2019/06/la-premiere-loi-federale-sur-laccessibilite-recoit-la-sanction-royale.html</UrlFr>
+      <Url>https://www.canada.ca/en/employment-social-development/news/2019/06/canadas-first-federal-accessibility-legislation-receives-royal-assent.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Statement by the Prime Minister on the International Day of Persons with Disabilities</TitleEn>
+      <TitleFr>Déclaration du premier ministre à l'occasion de la Journée internationale des personnes handicapées</TitleFr>
+      <Title>Statement by the Prime Minister on the International Day of Persons with Disabilities</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://pm.gc.ca/eng/news/2018/12/03/statement-prime-minister-international-day-persons-disabilities</UrlEn>
+      <UrlFr>https://pm.gc.ca/fra/nouvelles/2018/12/03/declaration-du-premier-ministre-loccasion-de-la-journee-internationale-des</UrlFr>
+      <Url>https://pm.gc.ca/eng/news/2018/12/03/statement-prime-minister-international-day-persons-disabilities</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Canada's first federal accessibility legislation comes into force</TitleEn>
+      <TitleFr>La première loi fédérale sur l'accessibilité entre en vigueur</TitleFr>
+      <Title>Canada's first federal accessibility legislation comes into force</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/employment-social-development/news/2019/07/canadas-first-federal-accessibility-legislation-comes-into-force.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/emploi-developpement-social/nouvelles/2019/07/la-premiere-loi-federale-sur-laccessibilite-entre-en-vigueur.html</UrlFr>
+      <Url>https://www.canada.ca/en/employment-social-development/news/2019/07/canadas-first-federal-accessibility-legislation-comes-into-force.html</Url>
+    </WebReferences>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
