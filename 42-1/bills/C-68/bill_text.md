@@ -1,7 +1,5 @@
 # Bill C-68: An Act to amend the Fisheries Act and other Acts in consequence
 
-**Sponsor**: MINISTER OF FISHERIES, OCEANS AND THE CANADIAN COAST GUARD
-
 Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act to amend the Fisheries Act and other Acts in consequence*".
 
 ## Summary
@@ -49,11 +47,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
   **(5)** The definition **fish habitat** in subsection 2(1) of the Act is replaced by the following:
 
-    **fish habitat** means water frequented by fish and any other areas on which fish depend directly or indirectly to carry out their life processes, including spawning grounds and nursery, rearing, food supply and migration areas; (**habitat**)
+    **fish habitat** means water frequented by fish and any other areas on which fish depend directly or indirectly to carry out their life processes, including spawning grounds and nursery, rearing, food supply and migration areas; (**habitat**)
 
   **(6)** The definition **fishery** in subsection 2(1) of the English version of the Act is replaced by the following:
 
-    **fishery** with respect to any fish, includes,
+    **fishery** with respect to any fish, includes,
 
     any of its species, populations, assemblages and stocks, whether the fish is fished or not,
 
@@ -67,23 +65,23 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
   **(7)** The definitions **autochtone** and **pêche** in subsection 2(1) of the French version of the Act are replaced by the following:
 
-    **autochtone** Se dit, à l'égard de la pêche pratiquée par une organisation autochtone ou ses membres, de celle pratiquée à des fins de consommation personnelle, à des fins sociales ou cérémoniales ou à des fins prévues dans un accord sur des revendications territoriales conclu avec l'organisation autochtone. (**Indigenous**)
+    **autochtone** Se dit, à l'égard de la pêche pratiquée par une organisation autochtone ou ses membres, de celle pratiquée à des fins de consommation personnelle, à des fins sociales ou cérémoniales ou à des fins prévues dans un accord sur des revendications territoriales conclu avec l'organisation autochtone. (**Indigenous**)
 
-    **pêche** S'entend de l'action de capturer ou de tenter de capturer du poisson par tout moyen et, en outre, notamment des espèces, populations, assemblages et stocks de poissons pêchés ou non, du lieu ou de la période où il est permis de pêcher ou de la méthode ou des types d'engins, d'équipements ou de bateaux de pêche utilisés. (**fishery** et **fishing**)
+    **pêche** S'entend de l'action de capturer ou de tenter de capturer du poisson par tout moyen et, en outre, notamment des espèces, populations, assemblages et stocks de poissons pêchés ou non, du lieu ou de la période où il est permis de pêcher ou de la méthode ou des types d'engins, d'équipements ou de bateaux de pêche utilisés. (**fishery** et **fishing**)
 
   **(8)** Subsection 2(1) of the Act is amended by adding the following in alphabetical order:
 
     **Indigenous governing body** means a council, government or other entity that is authorized to act on behalf of an Indigenous group, community or people that holds rights recognized and affirmed by section 35 of the `Constitution Act, 1982`; (**corps dirigeant autochtone**)
 
-    **Indigenous peoples of Canada** has the meaning assigned by the definition aboriginal peoples of Canada in subsection 35(2) of the `Constitution Act, 1982`; (**peuples autochtones du Canada**)
+    **Indigenous peoples of Canada** has the meaning assigned by the definition aboriginal peoples of Canada in subsection 35(2) of the `Constitution Act, 1982`; (**peuples autochtones du Canada**)
 
-    **laws** includes the by-laws made by an Indigenous governing body; (**lois**)
+    **laws** includes the by-laws made by an Indigenous governing body; (**lois**)
 
   **(9)** Subsection 2(1) of the English version of the Act is amended by adding the following in alphabetical order:
 
     **Indigenous**, in relation to a fishery, means that fish is harvested by an Indigenous organization or any of its members for the purpose of using the fish as food, for social or ceremonial purposes or for purposes set out in a land claims agreement entered into with the Indigenous organization; (**autochtone**)
 
-  **(10)** Subsection 2(2) of the Act is **replaced by the following:**
+  **(10)** Subsection 2(2) of the Act is replaced by the following:
 
     **(2)** For the purposes of this Act, the quantity, timing and quality of the water flow that are necessary to sustain the freshwater or estuarine ecosystems of a fish habitat are deemed to be a fish habitat.
 
@@ -143,7 +141,7 @@ the sustainability of fisheries;
 
 scientific information;
 
-**Indigenous** knowledge of the Indigenous peoples of Canada that has been provided to the Minister;
+Indigenous knowledge of the Indigenous peoples of Canada that has been provided to the Minister;
 
 community knowledge;
 
@@ -453,13 +451,13 @@ The heading before section 34 of the Act is replaced by the following:
 
   **(2)** Subsection 34(1) of the Act is amended by adding the following in alphabetical order:
 
-    **designated project** means a project that is designated by regulations made under paragraph 43(1)(i.5) or that belongs to a class of projects that is designated by those regulations and that consists of works, undertakings or activities, including any works, undertakings or activities that the Minister designates to be associated with the project; (**projet désigné**)
+    **designated project** means a project that is designated by regulations made under paragraph 43(1)(i.5) or that belongs to a class of projects that is designated by those regulations and that consists of works, undertakings or activities, including any works, undertakings or activities that the Minister designates to be associated with the project; (**projet désigné**)
 
     **ecologically significant area** means an area designated by regulations made under subsection 35.2(2); (**zone d'importance écologique**)
 
   **(3)** Section 34 of the Act is amended by adding the following after subsection (2):
 
-    **(3)** Any provision of this Act that applies to works, undertakings or activities **also** applies to the works, undertakings or activities of a designated project, **except** paragraphs 34.4(2)(a) to (c) and (e) and 35(2)(a) to (c) and (e).
+    **(3)** Any provision of this Act that applies to works, undertakings or activities also applies to the works, undertakings or activities of a designated project, except paragraphs 34.4(2)(a) to (c) and (e) and 35(2)(a) to (c) and (e).
 
 ### Section 21
 
@@ -485,7 +483,7 @@ The Act is amended by adding the following after section 34:
 
     whether any measures and standards to offset the harmful alteration, disruption or destruction of fish habitat give priority to the restoration of degraded fish habitat;
 
-    **Indigenous** knowledge of the Indigenous peoples of Canada that has been provided to the Minister; and
+    Indigenous knowledge of the Indigenous peoples of Canada that has been provided to the Minister; and
 
     any other factor that the Minister considers relevant.
 
@@ -523,13 +521,13 @@ The Act is amended by adding the following after section 34:
 
     install a fish guard, a screen, a covering, netting or any other device to prevent the passage of fish into any water intake, ditch, channel or canal;
 
-    maintain the flow of water **necessary** to permit the free passage of fish; or
+    maintain the flow of water necessary to permit the free passage of fish; or
 
-    **maintain** at all times the characteristics of the water and **the** water flow **upstream and downstream of** the obstruction or thing that **are necessary** for the conservation and protection of the fish and fish habitat, including
+    maintain at all times the characteristics of the water and the water flow upstream and downstream of the obstruction or thing that are necessary for the conservation and protection of the fish and fish habitat, including
 
     the water temperature, and
 
-    the physical characteristics and chemical composition of the water **flow**.
+    the physical characteristics and chemical composition of the water flow.
 
   **(3)** On the Minister's order, the owner or person referred to in subsection (2) shall
 
@@ -565,7 +563,7 @@ The Act is amended by adding the following after section 34:
 
     the work, undertaking or activity is a prescribed work, undertaking or activity or belongs to a prescribed class of works, undertakings or activities, as the case may be, or is carried on in or around prescribed Canadian fisheries waters, and the work, undertaking or activity is carried on in accordance with the prescribed conditions;
 
-    the carrying on of the work, undertaking or activity is authorized by the Minister and the work, undertaking or activity is carried on in accordance with the conditions established by **the Minister**;
+    the carrying on of the work, undertaking or activity is authorized by the Minister and the work, undertaking or activity is carried on in accordance with the conditions established by the Minister;
 
     the carrying on of the work, undertaking or activity is authorized by a prescribed person or prescribed entity and the work, undertaking or activity is carried on in accordance with the conditions set out in the authorization;
 
@@ -845,11 +843,11 @@ The Act is amended by adding the following after section 42:
 
 The following definitions apply in this section and sections 42.02 to 42.04.
 
-**conservation project** means a work, undertaking or activity that is carried on by a proponent for the purpose of creating, restoring or enhancing fish habitat within a service area in order to acquire habitat credits. (**projet de conservation**)
+**conservation project** means a work, undertaking or activity that is carried on by a proponent for the purpose of creating, restoring or enhancing fish habitat within a service area in order to acquire habitat credits. (**projet de conservation**)
 
 **fish habitat bank** means an area of a fish habitat that has been created, restored or enhanced by the carrying on of one or more conservation projects within a service area and in respect of which area the Minister has certified any habitat credit under paragraph 42.02(1)(b). (**réserve d'habitats**)
 
-**habitat credit** means a unit of measure that is agreed to between any proponent and the Minister under section 42.02 that quantifies the benefits of a conservation project. (**crédit d'habitat**)
+**habitat credit** means a unit of measure that is agreed to between any proponent and the Minister under section 42.02 that quantifies the benefits of a conservation project. (**crédit d'habitat**)
 
 **proponent** means a person who proposes the carrying on of a conservation project and any other work, undertaking or activity within a proposed service area. (**promoteur**)
 
@@ -929,9 +927,9 @@ The Minister shall establish a public registry for the purpose of facilitating a
 
     any agreements referred to in section 4.1 that are entered into by him or her and that establish the circumstances and manner referred to in paragraph 4.1(2)(h);
 
-    any standards and codes of practice established by **the Minister** under section 34.2;
+    any standards and codes of practice established by the Minister under section 34.2;
 
-    any orders made by **the Minister** under sections 34.3 and 37;
+    any orders made by the Minister under sections 34.3 and 37;
 
     any authorizations given under paragraphs 34.4(2)(b) and (c) and 35(2)(b) and (c) and subsection 35.2(7);
 
@@ -1035,7 +1033,7 @@ Despite any other Act of Parliament, civil or criminal proceedings shall not be 
 
     respecting the import or export of fish;
 
-    prescribing the circumstances in which the **Indigenous** knowledge of the Indigenous peoples of Canada that is provided to the Minister under this Act in confidence may be disclosed without written consent;
+    prescribing the circumstances in which the Indigenous knowledge of the Indigenous peoples of Canada that is provided to the Minister under this Act in confidence may be disclosed without written consent;
 
   **(8)** Paragraph 43(1)(m) of the Act is replaced by the following:
 
@@ -1063,7 +1061,7 @@ Despite any other Act of Parliament, civil or criminal proceedings shall not be 
 
     requiring any person to keep any record, book or other document containing any information relevant to the control of those species, and respecting where, how and how long it is to be kept; and
 
-  **(12)** Subsection 43(4) of the Act is **replaced by the following:**
+  **(12)** Subsection 43(4) of the Act is replaced by the following:
 
     **(4)** Regulations made under paragraph (1)(i.5) may include as a criterion for designation the fact that a decision has been made under an Act of Parliament to subject the project to an impact assessment.
 
@@ -1193,7 +1191,7 @@ The Act is amended by adding the following after section 61:
 
   **(1)** The Minister may, for the purpose of conducting research, creating an inventory of data, establishing objectives and codes of practice, issuing guidelines or assessing or reporting on the state of fisheries, fish or fish habitat, require any specified person to provide him or her with any document and other information that is in that person's possession, or to which the person may reasonably be expected to have access.
 
-  **(2)** The Minister shall not require any **Indigenous** knowledge of the Indigenous peoples of Canada to be provided to him or her by any person under subsection (1).
+  **(2)** The Minister shall not require any Indigenous knowledge of the Indigenous peoples of Canada to be provided to him or her by any person under subsection (1).
 
   **(3)** The Minister may, in accordance with an agreement entered into under section 4.1, require the person to submit the document and other information to the entity that is a party to that agreement.
 
@@ -1208,13 +1206,13 @@ The Act is amended by adding the following after section 61:
   **(8)** If there is an inconsistency between any requirements made by the Minister under this section and any provision of the regulations made under paragraphs 43(1)(g.1) and (g.2), the requirements prevail to the extent of the inconsistency.
 
 
-## **Indigenous** Knowledge of the Indigenous Peoples of Canada
+## Indigenous Knowledge of the Indigenous Peoples of Canada
 
 ### Section 61.2
 
-  **(1)** Any **Indigenous** knowledge of the Indigenous peoples of Canada that is provided to the Minister under this Act in confidence is confidential and shall not knowingly be, or be permitted to be, disclosed without written consent.
+  **(1)** Any Indigenous knowledge of the Indigenous peoples of Canada that is provided to the Minister under this Act in confidence is confidential and shall not knowingly be, or be permitted to be, disclosed without written consent.
 
-  **(2)** Despite subsection (1), the **Indigenous** knowledge referred to in that subsection may be disclosed if
+  **(2)** Despite subsection (1), the Indigenous knowledge referred to in that subsection may be disclosed if
 
     it is publicly available;
 
@@ -1224,11 +1222,11 @@ The Act is amended by adding the following after section 61:
 
   **(2.1)** Before disclosing Indigenous knowledge under paragraph (2)(b) for the purposes of procedural fairness and natural justice, the Minister shall consult the person or entity who provided the Indigenous knowledge and the person or entity to whom it is proposed to be disclosed about the scope of the proposed disclosure and potential conditions under subsection (3).
 
-  **(3)** The Minister may, **having regard to the consultation referred to in subsection (2.1)**, impose conditions with respect to the disclosure of **Indigenous** knowledge by any person **or entity** to whom it is disclosed under paragraph (2)(b) for the purposes of procedural fairness and natural justice.
+  **(3)** The Minister may, having regard to the consultation referred to in subsection (2.1), impose conditions with respect to the disclosure of Indigenous knowledge by any person or entity to whom it is disclosed under paragraph (2)(b) for the purposes of procedural fairness and natural justice.
 
-  **(4)** The person **or entity** referred to in subsection (3) shall comply with any conditions imposed by the Minister under that subsection.
+  **(4)** The person or entity referred to in subsection (3) shall comply with any conditions imposed by the Minister under that subsection.
 
-  **(5)** Despite any other Act of Parliament, civil or criminal proceedings shall not be brought against Her Majesty in right of Canada, the Minister and any person acting on behalf of or under the direction of the Minister for the full or partial disclosure of the **Indigenous** knowledge referred to in subsection (1) made in good faith under this Act or for any consequences of the disclosure.
+  **(5)** Despite any other Act of Parliament, civil or criminal proceedings shall not be brought against Her Majesty in right of Canada, the Minister and any person acting on behalf of or under the direction of the Minister for the full or partial disclosure of the Indigenous knowledge referred to in subsection (1) made in good faith under this Act or for any consequences of the disclosure.
 
 ### Section 41
 
@@ -1549,7 +1547,7 @@ Any authorization issued by the Minister under paragraph 35(2)(b) of the `Fisher
 
 ### Section 53
 
-  **(1)** **If** an application **for the issuance of** an authorization under paragraph 35(2)(b) of the `Fisheries Act` **is** made **in accordance with the `Applications for Authorization under Paragraph 35(2)(b) of the Fisheries Act Regulations`** before the day on which section 22 of this Act comes into force, **and** the applicant has received **notification** from the Minister that the application is complete **in accordance with the requirements of those regulations, then** the `Fisheries Act` as it read immediately before the day on which this Act **receives royal assent**, applies to **the exercise of the Minister's power under that Act to author­ize the carrying on of the work, undertaking or activity that is referred to in the application. Any** authorization issued **by** the Minister is deemed to be an authorization **that** was issued under paragraphs 34.4(2)(b) and 35(2)(b) **of that Act**, as those paragraphs read after the day on which section 22 of this Act comes into force.
+  **(1)** If an application for the issuance of an authorization under paragraph 35(2)(b) of the `Fisheries Act` is made in accordance with the `Applications for Authorization under Paragraph 35(2)(b) of the Fisheries Act Regulations` before the day on which section 22 of this Act comes into force, and the applicant has received notification from the Minister that the application is complete in accordance with the requirements of those regulations, then the `Fisheries Act` as it read immediately before the day on which this Act receives royal assent, applies to the exercise of the Minister's power under that Act to author­ize the carrying on of the work, undertaking or activity that is referred to in the application. Any authorization issued by the Minister is deemed to be an authorization that was issued under paragraphs 34.4(2)(b) and 35(2)(b) of that Act, as those paragraphs read after the day on which section 22 of this Act comes into force.
 
   **(2)** If the Minister notifies the applicant in ac­cordance with the `Applications for Authorization under Paragraph 35(2)(b) of the Fisheries Act Regulations`, that the application is incomplete, then the applicant shall provide the Minister with the required information or documentation
 
