@@ -1,7 +1,5 @@
 # Bill C-21: An Act to amend the Customs Act
 
-**Sponsor**: MINISTER OF PUBLIC SAFETY AND EMERGENCY PREPAREDNESS
-
 ## Summary
 
 This enactment amends the `Customs Act` to authorize the Canada Border Services Agency to collect, from prescribed persons and prescribed sources, personal information on all persons who are leaving or have left Canada. It also amends the Act to authorize an officer, as defined in that Act, to require that goods that are to be exported from Canada are to be reported despite any exemption under that Act. In addition, it amends the Act to provide officers with the power to examine any goods that are to be exported. Finally, it amends the Act to authorize the disclosure of information collected under the `Customs Act` to an official of the Department of Employment and Social Development for the purposes of administering or enforcing the `Old Age Security Act`.
