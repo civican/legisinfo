@@ -63,6 +63,8 @@ Designation of Minister
 
 `Youth Criminal Justice Act`
 
+For greater certainty
+
 
 ## Her Majesty
 
@@ -203,6 +205,8 @@ Consequences of being convicted
 Consequences of failing to pay fine
 
 Imprisonment
+
+Licences, permits, etc.
 
 Exclusion of laying information
 
@@ -527,6 +531,8 @@ Records, reports, etc.
 
 `Industrial Hemp Regulations` — licences and authorizations
 
+Definitions
+
 Regulations
 
 
@@ -639,9 +645,9 @@ This Act may be cited as the `Cannabis Act`.
 
     **cannabis accessory** means
 
-    a thing, including rolling papers or wraps, holders, pipes, water pipes, bongs and vaporizers, that is represented to be used in the consumption of cannabis or a thing that is represented to be used in the production of cannabis; or
+    a thing, including rolling papers or wraps, holders, pipes, water pipes, bongs and vaporizers, that is represented to be used in the consumption of cannabis; or
 
-    a thing that is deemed under subsection (3) to be represented to be used in the consumption or production of cannabis. (**accessoire**)
+    a thing that is deemed under subsection (3) to be represented to be used in the consumption of cannabis. (**accessoire**)
 
     **cannabis plant** means a plant that belongs to the genus Cannabis. (**plante de cannabis**)
 
@@ -667,7 +673,7 @@ This Act may be cited as the `Cannabis Act`.
 
     a conspiracy or an attempt to commit, being an accessory after the fact in relation to, or any counselling in relation to, an offence referred to in paragraph (a). (**infraction désignée**)
 
-    **distribute** includes administering, giving, transferring, transporting, sending, delivering, providing or otherwise making available in any manner, whether directly or indirectly, and offering to distribute. (**distribuer**)
+    **distribute** includes administering, giving, transferring, transporting, sending, delivering, providing or otherwise making available in any manner, whether directly or indirectly, and offering to distribute. (**distribuer**)
 
     **dried cannabis** means any part of a cannabis plant that has been subjected to a drying process, other than seeds. (**cannabis séché**)
 
@@ -707,7 +713,7 @@ This Act may be cited as the `Cannabis Act`.
 
     **label** includes a legend, word or mark that is, or is to be, applied or attached to or included in, or that accompanies or is to accompany, cannabis or a cannabis accessory or a package. (**étiquette**)
 
-    **Minister** means the member of the Queen's Privy Council for Canada who is designated as the Minister under section `4`. (**ministre**)
+    **Minister** means the member of the Queen's Privy Council for Canada who is designated as the Minister under section `4`. (**ministre**)
 
     **non-chemical offence-related property** means offence-related property that is not chemical offence-related property. (**bien infractionnel non chimique**)
 
@@ -721,11 +727,11 @@ This Act may be cited as the `Cannabis Act`.
 
     **organization** has the same meaning as in section 2 of the `Criminal Code`. (**organisation**)
 
-    **package** means any inner or outer container or covering. (**emballage**)
+    **package** means any inner or outer container or covering. (**emballage**)
 
     **person** means an individual or organization. (**personne**)
 
-    **possession** has the same meaning as in subsection 4(3) of the `Criminal Code`. (**possession**)
+    **possession** has the same meaning as in subsection 4(3) of the `Criminal Code`. (**possession**)
 
     **prescribed** means prescribed by the regulations. (Version anglaise seulement)
 
@@ -741,7 +747,7 @@ This Act may be cited as the `Cannabis Act`.
 
     **promote**, in respect of a thing or service, means to make, for the purpose of selling the thing or service, a representation — other than a representation on a package or label — about the thing or service by any means, whether directly or indirectly, that is likely to influence and shape attitudes, beliefs and behaviours about the thing or service. (**promotion**)
 
-    **public place** includes any place to which the public has access as of right or by invitation, express or implied, and any motor vehicle located in a public place or in any place open to public view. (**lieu public**)
+    **public place** includes any place to which the public has access as of right or by invitation, express or implied, and any motor vehicle located in a public place or in any place open to public view. (**lieu public**)
 
     **sell** includes offer for sale, expose for sale and have in possession for sale. (**vente**)
 
@@ -753,7 +759,7 @@ This Act may be cited as the `Cannabis Act`.
 
   **(2)** For the purposes of this Act, dried cannabis is a class of cannabis.
 
-  **(3)** For the purposes of the definition cannabis accessory, a thing that is commonly used in the consumption or production of cannabis is deemed to be represented to be used in the consumption or production of cannabis if the thing is sold at the same point of sale as cannabis.
+  **(3)** For the purposes of the definition cannabis accessory, a thing that is commonly used in the consumption of cannabis is deemed to be represented to be used in the consumption of cannabis if the thing is sold at the same point of sale as cannabis.
 
   **(4)** For the purposes of this Act, a quantity referred to in column 2 of Schedule 3 in respect of any class of cannabis referred to in column 1 of that Schedule is deemed to be equivalent to 1 g of dried cannabis.
 
@@ -771,6 +777,10 @@ The Governor in Council may, by order, designate a member of the Queen's Privy C
 ### Section 5
 
 The `Youth Criminal Justice Act` applies in respect of contraventions of provisions of this Act or of the regulations.
+
+### Section 5.1
+
+For greater certainty, nothing in this Act is to be construed as limiting the operation of the extrajudicial measures that are provided for under the `Youth Criminal Justice Act`.
 
 
 ## Her Majesty
@@ -948,7 +958,7 @@ enhance public awareness of the health risks associated with cannabis use.
 
     in the case of an individual, to a fine of not more than $5,000 or imprisonment for a term of not more than six months, or to both, or
 
-    in the case of an organization, to a fine of not more than $100,000.
+    in the case of an organization, to a fine of not more than $300,000.
 
 ### Section 12
 
@@ -1391,9 +1401,13 @@ Proceedings in respect of an offence in relation to a contravention of any provi
 
     the manner in which and period within which the amount is to be paid;
 
-    a statement that if the accused pays the amount within the period set out in the ticket,
+    a lesser amount than the amount determined under subsection (4) that may be paid for the offence if it is paid within a specified period that is shorter than the period referred to in paragraph (d);
 
-    a conviction will be entered against the accused but the judicial record of the accused in respect of the offence will be kept separate and apart from other judicial records and will not be used for any purpose that would identify the accused as a person dealt with under this Act, and
+    a statement that if the accused pays the amount within the period referred to in paragraph (d) or (d.1),
+
+    a finding of guilt will be entered in the judicial record of the accused and the accused will be deemed to have received an absolute discharge and not to have been convicted of the offence,
+
+    the judicial record of the accused in respect of the offence will not be used for any purpose that would identify the accused as a person dealt with under this Act, and
 
     if cannabis has been seized in relation to the offence, the cannabis will be forfeited to Her Majesty;
 
@@ -1401,7 +1415,7 @@ Proceedings in respect of an offence in relation to a contravention of any provi
 
     a statement that if the accused pleads not guilty, he or she will be given an opportunity to indicate in which official language he or she wishes to be tried; and
 
-    a statement that if the accused does not enter a plea and does not pay the amount within the period set out in the ticket
+    a statement that if the accused does not enter a plea and does not pay the amount within the period referred to in paragraph (d) or (d.1)
 
     a conviction will be entered in the judicial record of the accused, and
 
@@ -1415,11 +1429,11 @@ Proceedings in respect of an offence in relation to a contravention of any provi
 
 ### Section 52
 
-Payment of the amount set out in the ticket by the accused within the period set out in the ticket constitutes a plea of guilty to the offence described in the ticket and, following the payment,
+Payment of the amount set out in the ticket by the accused within the period referred to in paragraph 51(3)(d) or (d.1) constitutes a plea of guilty to the offence described in the ticket and, following the payment,
 
-a conviction is to be entered in the judicial record of the accused;
+a finding of guilt is to be entered in the judicial record of the accused and the accused is deemed to have received an absolute discharge and not to have been convicted of the offence;
 
-the judicial record of the accused in relation to the offence must be kept separate and apart from other judicial records and it must not be used for any purpose that would identify the accused as a person dealt with under this Act; and
+the judicial record of the accused in relation to the offence must not be used for any purpose that would identify the accused as a person dealt with under this Act; and
 
 if cannabis has been seized in relation to the offence, the cannabis is forfeited to Her Majesty.
 
@@ -1429,11 +1443,11 @@ if cannabis has been seized in relation to the offence, the cannabis is forfeite
 
   **(1.1)** If the accused is convicted of the offence, no order is to be made under section 731 of the `Criminal Code` in respect of that conviction.
 
-  **(2)** If the accused is convicted of the offence and the accused pays the amount owing in respect of the conviction, the judicial record of the accused in relation to the offence must be kept separate and apart from other judicial records and it must not be used for any purpose that would identify the accused as a person dealt with under this Act.
+  **(2)** If the accused is convicted of the offence and the accused pays the amount owing in respect of the conviction, the judicial record of the accused in relation to the offence must not be used for any purpose that would identify the accused as a person dealt with under this Act.
 
 ### Section 54
 
-  **(1)** If an accused fails to pay the amount set out in the ticket within the period set out in the ticket, the accused is liable for that amount and
+  **(1)** If an accused fails to pay the amount set out in the ticket within the period referred to in paragraph 51(3)(d) or (d.1), the accused is liable for that amount and
 
     a conviction is to be entered in the judicial record of the accused;
 
@@ -1441,15 +1455,19 @@ if cannabis has been seized in relation to the offence, the cannabis is forfeite
 
     if cannabis has been seized in relation to the offence, the cannabis is forfeited to Her Majesty;
 
-    the accused has 30 days after the day of the conviction to pay the amount set out in the ticket; and
+    the accused has 60 days after the day of the conviction to pay the amount set out in the ticket; and
 
     the amount set out in the ticket, other than the amount in relation to the applicable fees, is deemed to be the fine imposed by the court.
 
-  **(2)** If, after being convicted, the accused pays the amount set out in the ticket or, if the accused is an individual, the accused has served, in full, any period of imprisonment imposed as a result of a default in payment of the amount of the fine imposed by the court, the judicial record of the accused in relation to the offence must be kept separate and apart from other judicial records and it must not be used for any purpose that would identify the accused as a person dealt with under this Act.
+  **(2)** If, after being convicted, the accused pays the amount set out in the ticket or, if the accused is an individual, the accused has served, in full, any period of imprisonment imposed as a result of a default in payment of the amount of the fine imposed by the court, the judicial record of the accused in relation to the offence must not be used for any purpose that would identify the accused as a person dealt with under this Act.
 
 ### Section 55
 
 Only an individual who is unwilling though able to pay a fine or the amount of a victim surcharge imposed in respect of a conviction referred to in subsection `53`(1) or a fine imposed in respect of a conviction referred to in section `54` may be imprisoned in default of its payment.
+
+### Section 55.1
+
+If the amount to be paid under this Part is owed to Her Majesty in right of Canada, the person responsible, by or under an Act or ordinance of the legislature of a territory, for issuing or renewing a licence, permit or other similar instrument in relation to the offender may refuse to issue or renew or may suspend the licence, permit or other instrument until the fine or fee is paid in full, proof of which lies on the offender.
 
 ### Section 56
 
@@ -1469,13 +1487,17 @@ Except where otherwise provided by this Part, Part XXVII of the `Criminal Code` 
 
     the manner in which and period within which the amount is to be paid;
 
-    a statement that if the accused pays the amount within the period referred to in paragraph (b),
+    a lesser amount than the amount determined under paragraph 51(4)(a) or (b), as the case may be, that may be paid for the offence if it is paid within a specified period that is shorter than the period referred to in paragraph (b);
 
-    a conviction will be entered against the accused but the judicial record of the accused in respect of the offence will be kept separate and apart from other judicial records and will not be used for any purpose that would identify the accused as a person dealt with under this Act, and
+    a statement that if the accused pays the amount within the period referred to in paragraph (b) or (b.1),
+
+    a finding of guilt will be entered in the judicial record of the accused and the accused will be deemed to have received an absolute discharge and not to have been convicted of the offence,
+
+    the judicial record of the accused in respect of the offence will not be used for any purpose that would identify the accused as a person dealt with under this Act, and
 
     if cannabis has been seized in relation to the offence, the cannabis will be forfeited to Her Majesty;
 
-    a statement that if the accused wishes to plead not guilty or fails to pay the amount within the period referred to in paragraph (b), the accused must appear in the court at the place, day and time set out in the notice; and
+    a statement that if the accused wishes to plead not guilty or fails to pay the amount within the period referred to in paragraph (b) or (b.1), the accused must appear in the court at the place, day and time set out in the notice; and
 
     a statement that if the accused pleads not guilty, an opportunity will be provided for the accused to indicate in which official language the accused wishes to be tried.
 
@@ -1570,7 +1592,7 @@ the discharge and enforcement of fines and fees referred to in this Part in resp
 
   **(9)** Every licence or permit is subject to the conditions set out in regulations made under paragraph `139`(1)(g).
 
-  **(10)** The Minister may make a licence or permit subject to any additional conditions that he or she considers appropriate.
+  **(10)** Subject to the regulations, the Minister may make a licence or permit subject to any conditions that he or she considers appropriate.
 
 ### Section 63
 
@@ -1580,7 +1602,11 @@ the discharge and enforcement of fines and fees referred to in this Part in resp
 
 ### Section 64
 
-  **(1)** Subject to the regulations, the Minister may suspend a licence or permit without prior notice to its holder in respect of any or all authorized activities in relation to any cannabis specified by the Minister if the Minister has reasonable grounds to believe that the suspension is necessary to protect public health or public safety, including to prevent cannabis from being diverted to an illicit market or activity.
+  **(1)** Subject to the regulations, the Minister may suspend a licence or permit without prior notice to its holder in respect of any or all authorized activities in relation to any cannabis specified by the Minister if
+
+    the Minister has reasonable grounds to believe that the suspension is necessary to protect public health or public safety, including to prevent cannabis from being diverted to an illicit market or activity; or
+
+    any prescribed circumstance exists.
 
   **(2)** If a licence or permit is suspended under subsection (1), the suspension takes effect as soon as the Minister provides the holder with a notice in writing of the suspension. The notice must also set out the reasons for the suspension.
 
@@ -1606,7 +1632,7 @@ information received from a peace officer, a competent authority or an internati
 
 the holder is an individual who has, since its issuance, ceased to be ordinarily resident in Canada;
 
-since the issuance of the licence or permit, a security clearance in respect of the licence or permit has been revoked;
+since the issuance of the licence or permit, a security clearance in respect of the licence or permit has been cancelled;
 
 the Minister is of the opinion that it is in the public interest to revoke it; or
 
@@ -1618,7 +1644,15 @@ If the Minister proposes to revoke a licence or permit, he or she must, in accor
 
 ### Section 67
 
-Subject to the regulations, the Minister may grant or refuse to grant a security clearance or suspend or cancel a security clearance.
+  **(1)** Subject to the regulations, the Minister may grant or refuse to grant a security clearance or suspend or cancel a security clearance.
+
+  **(2)** The Minister may specify, by name or position, any person — other than a person specified in the regulations — who must hold a security clearance if the Minister is of the opinion that the person
+
+    performs, has performed or is about to perform activities related to a licence or permit that is issued under this Part or that is the subject of an application under this Part; or
+
+    has, has had or is about to have custody, management or control of the place where activities related to a licence or permit that is issued under this Part or that is the subject of an application under this Part, are being or will be performed.
+
+  **(3)** If the Minister specifies that a person must hold a security clearance under subsection (2), the Minister must provide the applicant for, or the holder of, the licence or permit related to that person with a notice to that effect in writing.
 
 ### Section 68
 
@@ -1657,13 +1691,17 @@ Subject to the regulations, the Minister may grant or refuse to grant a security
 
   **(1)** Unless the regulations provide otherwise, every employee of a person that is authorized under this Act to possess, sell, distribute or produce cannabis may do anything that is prohibited by any provision of Division 1 of Part 1 if they do so as part of their employment duties and functions and in a manner that is consistent with the conditions that apply to their employer's authorization.
 
-  **(2)** Unless the regulations provide otherwise, every individual who is acting as the agent or mandatary of a person that is authorized under this Act to possess, sell, distribute or produce cannabis may do anything that is prohibited by any provision of Division 1 of Part 1 if they do so as part of their role as agent or mandatary and in a manner that is consistent with the conditions that apply to their principal's or mandator's authorization.
+  **(2)** Unless the regulations provide otherwise, every person who is acting as the agent or mandatary of a person that is authorized under this Act to possess, sell, distribute or produce cannabis may do anything that is prohibited by any provision of Division 1 of Part 1 if they do so as part of their role as agent or mandatary and in a manner that is consistent with the conditions that apply to their principal's or mandator's authorization.
+
+  **(3)** Unless the regulations provide otherwise, every person who is acting under a contract with a person that is authorized under this Act to possess, sell, distribute or produce cannabis — other than an employee or an agent or mandatary of the authorized person — may do anything that is prohibited by any provision of Division 1 of Part 1 if they do so in the performance of their contract and in a manner that is consistent with the conditions that apply to the authorized person's authorization.
 
 ### Section 72
 
-  **(1)** Every employee of a person that is authorized under a provincial Act to sell cannabis may do anything that is prohibited by any of sections `8` to `10` if they do so as part of their employment duties and functions and in a manner that is consistent with the conditions that apply to their employer's authorization.
+  **(1)** Every employee of a person that is authorized under a provincial Act to sell cannabis may do anything that is prohibited by section 8, 9 or 10 if they do so as part of their employment duties and functions and in a manner that is consistent with the conditions that apply to their employer's authorization.
 
-  **(2)** Every individual who is acting as the agent or mandatary of a person that is authorized under a provincial Act to sell cannabis may do anything that is prohibited by any of sections `8` to `10` if they do so as part of their role as agent or mandatary and in a manner that is consistent with the conditions that apply to their principal's or mandator's authorization.
+  **(2)** Every person who is acting as the agent or mandatary of a person that is authorized under a provincial Act to sell cannabis may do anything that is prohibited by section 8, 9 or 10 if they do so as part of their role as agent or mandatary and in a manner that is consistent with the conditions that apply to their principal's or mandator's authorization.
+
+  **(3)** Every person who is acting under a contract with a person that is authorized under a provincial Act to sell cannabis — other than an employee or an agent or mandatary of the authorized person — may do anything that is prohibited by section 8, 9 or 10 if they do so in the performance of their contract and in a manner that is consistent with the conditions that apply to the authorized person's authorization.
 
 
 ## Ministerial Orders
@@ -2733,11 +2771,15 @@ If any record, report, electronic data or other document is examined or seized u
 
   **(1)** The Minister may, on any terms and conditions that the Minister considers necessary, by order, exempt any person, or any cannabis or any class of cannabis in relation to a person, from the application of all or any of the provisions of this Act or of the regulations if, in the opinion of the Minister, the exemption is necessary for a medical or scientific purpose or is otherwise in the public interest.
 
+  **(1.1)** For greater certainty, the Minister may, by order, amend or revoke an order made under subsection (1) or suspend its application in whole or in part.
+
   **(2)** The Minister may, on any terms and conditions that the Minister considers necessary, by order, exempt any class of persons, or any cannabis or any class of cannabis in relation to any class of persons, from the application of all or any of the provisions of this Act or of the regulations if, in the opinion of the Minister, the exemption is necessary for a medical or scientific purpose or is otherwise in the public interest.
+
+  **(2.1)** The Minister may, by order, suspend, in whole or in part, the application of an order made under subsection (2).
 
 ### Section 141
 
-An order made under subsection `140`(1) is not a statutory instrument within the meaning of subsection 2(1) of the `Statutory Instruments Act`.
+An order made under subsection 140(1) or (1.1) is not a statutory instrument within the meaning of subsection 2(1) of the `Statutory Instruments Act`.
 
 
 ### Fees
@@ -2770,7 +2812,7 @@ Before making an order under subsection `142`(1), the Minister must consult with
 
 ### Section 145
 
-The Minister may withdraw or withhold a service, the use of a facility, regulatory process, approval, authorization, exemption, product, right or privilege under this Act from any person who fails to pay the fee for it fixed under subsection `142`(1).
+The Minister may, by notice in writing and for a period that he or she specifies, withdraw or withhold a service, the use of a facility, a regulatory process, approval, authorization, exemption, product, right or privilege under this Act from any person who fails to pay the fee for it fixed under subsection `142`(1).
 
 ### Section 146
 
@@ -2826,9 +2868,9 @@ The Minister may engage the services of persons having technical or specialized 
 
 ### Section 151.1
 
-  **(1)** Three years after this section comes into force, the Minister must cause a review of this Act and its administration and operation to be conducted.
+  **(1)** Three years after this section comes into force, the Minister must cause a review of this Act and its administration and operation to be conducted, including a review of the impact of this Act on public health and, in particular, on the health and consumption habits of young persons in respect of cannabis use, the impact of cannabis on Indigenous persons and communities, and the impact of the cultivation of cannabis plants in a dwelling-house.
 
-  **(2)** The Minister must cause a report of the review to be laid before each House of Parliament on any of the first fifteen days on which that House is sitting after the review is completed.
+  **(2)** No later than 18 months after the day on which the review begins, the Minister must cause a report on the review, including any findings or recommendations resulting from it, to be laid before each House of Parliament.
 
 
 ## Transitional Provisions and Related, Consequential and Coordinating Amendments
@@ -2944,13 +2986,63 @@ Subject to regulations made under subsection `161`(1), all records, reports, ele
 
   **(1)** Subject to regulations made under subsection `161`(1), every licence or authorization issued under section 9 of the `Industrial Hemp Regulations` that is in force immediately before the commencement day is deemed to be a licence issued under section `62` of this Act and it continues in force until it is revoked or, if it is expressed to expire on a particular date, it continues in force until it expires, unless it is revoked before that date.
 
-  **(2)** Subject to regulations made under subsection `161`(1), every permit issued under section 22 or 27 of the `Industrial Hemp Regulations` that is in force immediately before the commencement day is deemed to be a licence issued under section `62` of this Act and it continues in force until it is revoked or, if it is expressed to expire on a particular date, it continues in force until it expires, unless it is revoked before that date.
+  **(2)** Subject to regulations made under subsection `161`(1), every permit issued under section 22 or 27 of the `Industrial Hemp Regulations` that is in force immediately before the commencement day is deemed to be a permit issued under section `62` of this Act and it continues in force until it is revoked or, if it is expressed to expire on a particular date, it continues in force until it expires, unless it is revoked before that date.
 
   **(3)** Subject to regulations made under subsection `161`(1), every licence, authorization or permit that is continued under subsection (1) or (2) is subject to the conditions set out in regulations made under paragraph `139`(1)(g).
 
   **(4)** Subject to regulations made under subsection `161`(1), every application for a licence or authorization under section 9 of the `Industrial Hemp Regulations`, or for a permit under section 22 or 27 of those Regulations, in respect of which no final decision has been made before the commencement day is deemed to be an application for a licence or a permit, as the case may be, made under section `62` of this Act.
 
   **(5)** Subject to regulations made under subsection `161`(1), if regulations made under subsection `139`(1) that come into force on the commencement day refer to approved cultivars, every variety of industrial hemp, as defined in section 1 of the `Industrial Hemp Regulations`, that immediately before the commencement day is an approved cultivar for a region by reason of a designation made under subsection 39(1) of the `Industrial Hemp Regulations` is deemed to be an approved cultivar under the regulations made under subsection `139`(1).
+
+### Section 160.1
+
+  **(1)** The following definitions apply in this section.
+
+    **cannabis** means fresh marihuana, dried marihuana and cannabis oil, as those terms are defined in subsection 1(1) of the `Access to Cannabis for Medical Purposes Regulations`, and marihuana plants or seeds, within the meaning of those Regulations. (**cannabis**)
+
+    **licensed producer** means a licensed producer, as defined in subsection 1(1) of the `Access to Cannabis for Medical Purposes Regulations`, who holds a licence that has not been suspended under section 43 of those Regulations. (**producteur autorisé**)
+
+    **provide** has the same meaning as in subsection 2(1) of the `Controlled Drugs and Substances Act`. (**fournir**)
+
+    **sell** has the same meaning as in subsection 2(1) of the `Controlled Drugs and Substances Act`. (**vente**)
+
+  **(2)** During the period that begins on the day on which this section comes into force and that ends on the day on which subsection 204(1) comes into force, a licensed producer may, despite the prohibitions set out in sections 4, 5, 7 and 7.1 of the `Controlled Drugs and Substances Act`, sell, provide, send or deliver cannabis to a person authorized under subsection (5), transport cannabis for the purpose of selling, providing, sending or delivering it to such a person or offer to perform any of those activities.
+
+  **(3)** A licensed producer may perform an activity under subsection (2) only if the activity is
+
+    performed in respect of fresh marihuana, dried marihuana, cannabis oil and marihuana plants or seeds that are cannabis and that are indicated in their licence issued under section 35 of the `Access to Cannabis for Medical Purposes Regulations`; and
+
+    authorized under their licence.
+
+  **(4)** During the period that begins on the day on which this section comes into force and that ends on the day on which subsection 204(1) comes into force, paragraphs 18(1)(b) and 19(1)(b) of the `Access to Cannabis for Medical Purposes Regulations` do not apply to a licensed producer acting under subsection (2).
+
+  **(5)** During the period that begins on the day on which this section comes into force and that ends on the day on which subsection 204(1) comes into force, despite the prohibitions set out in sections 4, 5, 7 and 7.1 of the `Controlled Drugs and Substances Act`, a person may, if a province authorizes them to do so and subject to subsection (6), possess, sell, provide, send, deliver or transport cannabis or offer to perform any of those activities.
+
+  **(6)** Subsection (5) applies only if the person meets the following conditions:
+
+    they possess or sell only cannabis that has been sold or provided to them by a licensed producer under subsection (2) or by a person authorized under subsection (5) to sell, provide, send, deliver or transport cannabis;
+
+    they sell, provide, send or deliver cannabis — or transport it for the purpose of selling, providing, sending or delivering it — only
+
+    to a person authorized under subsection (5), or
+
+    for the purpose of testing, to a licensed producer or a licensed dealer, as defined in subsection 2(1) of the `Narcotic Control Regulations`, who holds a licence in respect of cannabis;
+
+    they keep appropriate records respecting their activities in relation to cannabis that they possess for commercial purposes; and
+
+    they take adequate measures to reduce the risk of cannabis that they possess for commercial purposes being diverted to an illicit market or activity.
+
+  **(7)** Subsection 8(1) of the `Narcotic Control Regulations` does not apply to:
+
+    a licensed producer acting under subsection (2) in respect of the production, making or assembly of cannabis; or
+
+    a licensed producer acting under subsection (2) or a person authorized to sell or provide cannabis under subsection (5) in respect of the sale, provision, transport, sending or delivery of cannabis.
+
+  **(8)** Every employee or agent or mandatary of a person that is authorized to perform or to offer to perform an activity under this section may, despite the prohibitions set out in sections 4, 5, 7 and 7.1 of the `Controlled Drugs and Substances Act`, perform or offer to perform that activity if they do so as part of their employment duties and functions or their role as agent or mandatary and in a manner that is consistent with the conditions that apply to their employer's or principal's or mandator's authorization, as the case may be.
+
+  **(9)** Every person who is acting under a contract with a person that is authorized to perform or to offer to perform an activity under this section — other than an employee or an agent or mandatary of the authorized person — may, despite the prohibitions set out in sections 4, 5, 7 and 7.1 of the `Controlled Drugs and Substances Act`, perform or offer to perform that activity if they do so in the performance of their contract and in a manner that is consistent with the conditions that apply to the authorized person's authorization.
+
+  **(10)** For greater certainty, this section does not authorize the retail sale of cannabis.
 
 ### Section 161
 
@@ -2982,7 +3074,7 @@ Subject to regulations made under subsection `161`(1), all records, reports, ele
 
   **(4)** Subsection 2(1) of the French version of the Act is amended by adding the following in alphabetical order:
 
-    **fumer** Fumer un produit à base de tabac ou du cannabis ou avoir par-devers soi un produit à base de tabac allumé ou du cannabis allumé. (**smoke**)
+    **fumer** Fumer un produit à base de tabac ou du cannabis ou avoir par-devers soi un produit à base de tabac allumé ou du cannabis allumé. (**smoke**)
 
 ### Section 163
 
@@ -3279,7 +3371,7 @@ The definition **offence** in section 2 of the `Canadian Victims Bill of Rights`
 
       **(1)** The definition smoke in subsection 2(1) of the `Non-smokers' Health Act` is replaced by the following:
 
-        **smoke** means to smoke, hold or otherwise have control over an ignited tobacco product or ignited cannabis or to vape using a vaping product; (**fumer**)
+        **smoke** means to smoke, hold or otherwise have control over an ignited tobacco product or ignited cannabis or to vape using a vaping product; (**fumer**)
 
       **(2)** Subsection 2(1) of the Act is amended by adding the following in alphabetical order:
 
@@ -3299,7 +3391,7 @@ The definition **offence** in section 2 of the `Canadian Victims Bill of Rights`
 
     subsection 2(1) of the `Non-smokers' Health Act` is amended by adding the following in alphabetical order:
 
-    **vaping product** means
+    **vaping product** means
 
     a device that is intended to be used to simulate the act of smoking a tobacco product or cannabis and that emits an aerosol that is intended to be inhaled, including an electronic cigarette, an electronic cigar and an electronic pipe; and
 
@@ -3680,7 +3772,7 @@ On the first day on which both section 4 of `An Act to amend the Criminal Code (
 
 ### Section 226
 
-  **(1)** Subject to subsection (2), the provisions of this Act, except sections 161, 188 to 193, 194, 199 to 202, 206 and 225, come into force on a day or days to be fixed by order of the Governor in Council.
+  **(1)** Subject to subsection (2), the provisions of this Act, except sections 160.1, 161, 188 to 193, 194, 199 to 202, 206 and 225, come into force on a day or days to be fixed by order of the Governor in Council.
 
   **(2)** If section 193.1 does not come into force by order before the first anniversary of the day on which section 33 comes into force, section 193.1 comes into force on the first anniversary of the day on which section 33 comes into force.
 
