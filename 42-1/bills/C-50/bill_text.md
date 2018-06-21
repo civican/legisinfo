@@ -172,9 +172,9 @@ The Chief Electoral Officer may correct a report referred to in subsection 384.3
 
 ### Section 384.6
 
-  **(1)** The Chief Electoral Officer, on the written application of a registered party's chief agent or, if the chief agent is absent or unable to perform their duties, its leader, shall authorize the extension of the period referred to in subsection 384.3(1), (6) or (8) unless he or she is satisfied that the chief agent's failure to provide the report was deliberate or was the result of the chief agent's failure to exercise due diligence.
+  **(1)** The Chief Electoral Officer, on the written application of a registered party's chief agent or, if the chief agent is absent or unable to perform their duties, its leader, shall authorize the extension of the period referred to in subsection 384.3(6.1) or (8.1) unless he or she is satisfied that the chief agent's failure to provide the report was deliberate or was the result of the chief agent's failure to exercise due diligence.
 
-  **(2)** The application may be made within the period referred to in subsection 384.3(1), (6) or (8) or within two weeks after the end of that period.
+  **(2)** The application may be made within the period referred to in subsection 384.3(6.1) or (8.1) or within two weeks after the end of that period.
 
 ### Section 384.7
 
