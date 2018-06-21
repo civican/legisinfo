@@ -38,7 +38,7 @@ Whereas it is important to deter persons from consuming alcohol or drugs after d
 
 Whereas it is important that federal and provincial laws work together to promote the safe operation of motor vehicles;
 
-And whereas the Parliament of Canada is committed to deterring the commission of offences relating to the operation of conveyances, particularly dangerous driving and impaired driving;
+And whereas the Parliament of Canada is committed to adopting a precautionary approach in relation to driving and the consumption of drugs, and to deterring the commission of offences relating to the operation of conveyances, particularly dangerous driving and impaired driving;
 
 Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
@@ -676,7 +676,7 @@ Samples of a person's blood that are taken for the purposes of this Part may be 
 
     a calculation based on the evidence referred to in paragraphs (a) and (b) of what their blood alcohol concentration or blood drug concentration would have been at the time the sample was taken.
 
-  **(4)** For the purpose of paragraphs 320.14(1)(b) and (d), if the first of the samples of breath was taken, or the sample of blood was taken, more than two hours after the person ceased to operate the conveyance and the person's blood alcohol concentration exceeds 20 mg of alcohol in 100 mL of blood, the person's blood alcohol concentration is conclusively presumed to be the concentration established in accordance with subsection (1) or (2), as the case may be, plus an additional 5 mg of alcohol in 100 mL of blood for every interval of 30 minutes in excess of those two hours.
+  **(4)** For the purpose of paragraphs 320.14(1)(b) and (d), if the first of the samples of breath was taken, or the sample of blood was taken, more than two hours after the person ceased to operate the conveyance and the person's blood alcohol concentration was equal to or exceeded 20 mg of alcohol in 100 mL of blood, the person's blood alcohol concentration within those two hours is conclusively presumed to be the concentration established in accordance with subsection (1) or (2), as the case may be, plus an additional 5 mg of alcohol in 100 mL of blood for every interval of 30 minutes in excess of those two hours.
 
   **(5)** An evaluating officer's opinion relating to the impairment, by a type of drug that they identified, or by a combination of alcohol and that type of drug, of a person's ability to operate a conveyance is admissible in evidence without qualifying the evaluating officer as an expert.
 
@@ -686,7 +686,7 @@ Samples of a person's blood that are taken for the purposes of this Part may be 
 
   **(8)** Unless a person is required to provide a sample of a bodily substance under this Part, evidence that they failed or refused to provide a sample for analysis or that a sample was not taken is not admissible and the failure, refusal or fact that a sample was not taken shall not be the subject of comment by any person in any proceedings under this Part.
 
-  **(9)** A statement made by a person to a peace officer, including a statement compelled under a provincial Act, is admissible in evidence for the purpose of justifying a demand made under section 320.27.
+  **(9)** A statement made by a person to a peace officer, including a statement compelled under a provincial Act, is admissible in evidence for the purpose of justifying a demand made under section 320.27 or 320.28.
 
   **(10)** In any proceedings in respect of an offence under section 320.14, evidence that the accused, without reasonable excuse, failed or refused to comply with a demand made under section 320.27 or 320.28 is admissible and the court may draw an inference adverse to the accused from that evidence.
 
@@ -722,7 +722,7 @@ A document that is printed out from an approved instrument and signed by a quali
 
     the results of the system calibration checks;
 
-    any messages produced by the approved instrument at the time the samples were taken;
+    any error or exception messages produced by the approved instrument at the time the samples were taken;
 
     the results of the analysis of the accused's breath samples; and
 
@@ -992,7 +992,7 @@ Signature of the peace officer or other person
 
 ### Section 31.1
 
-  **(1)** Within three years after the day on which this section comes into force, the Minister of Justice and Attorney General of Canada must undertake a comprehensive review of the implementation and operation of the provisions enacted by this Act, and prepare a report setting out his or her conclusions and recommendations and including robust data sets collected by government and non-government agencies on the effectiveness of these provisions and the impacts resulting from them.
+  **(1)** Within three years after the day on which this section comes into force, the Minister of Justice and Attorney General of Canada must undertake a comprehensive review of the implementation and operation of the provisions enacted by this Act, including an evaluation of whether their implementation and operation have resulted in differential treatment of any particular group based on a prohibited ground of discrimination. The Minister of Justice and Attorney General of Canada must prepare a report setting out his or her conclusions and recommendations and including robust data sets collected by government and non-government agencies on the effectiveness of these provisions and the impacts resulting from them.
 
   **(2)** The Minister of Justice and Attorney General of Canada must cause a report on the review to be laid before each House of Parliament on any of the first 15 days on which that House is sitting after it is completed.
 
@@ -1029,7 +1029,7 @@ Any person who is designated as a qualified technician within the meaning of par
 
 ### Section 38
 
-Any person who is designated as an analyst within the meaning of the definition **analyst** under subsection 254(1) of the `Criminal Code`, as it read immediately before the day on which section `14` of this Act comes into force, is deemed to be designated as an **analyst** under subparagraph 320.4(b)(ii) of the `Criminal Code` as enacted by section `15` of this Act.
+Any person who is designated as an analyst within the meaning of the definition **analyst** under subsection 254(1) of the `Criminal Code`, as it read immediately before the day on which section `14` of this Act comes into force, is deemed to be designated as an **analyst** under subparagraph 320.4(b)(ii) and paragraph 320.4(c) of the `Criminal Code` as enacted by section `15` of this Act.
 
 
 ### Consequential Amendments
