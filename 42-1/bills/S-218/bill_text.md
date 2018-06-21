@@ -1,7 +1,5 @@
 # Bill S-218: An Act respecting Latin American Heritage Month
 
-**Sponsor**: ENVERGA
-
 ## Summary
 
 This enactment designates the month of October in each and every year as "Latin American Heritage Month".
