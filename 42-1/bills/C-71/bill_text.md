@@ -1,7 +1,5 @@
 # Bill C-71: An Act to amend certain Acts and Regulations in relation to firearms
 
-**Sponsor**: MINISTER OF PUBLIC SAFETY AND EMERGENCY PREPAREDNESS
-
 ## Summary
 
 Part 1 of this Act amends the `Firearms Act` to, among other things,
@@ -38,7 +36,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ### Section 1
 
-  ****(1)**** Subsection 2(2) of the `Firearms Act` is replaced by the following:
+  **(1)** Subsection 2(2) of the `Firearms Act` is replaced by the following:
 
     **(2)** Unless otherwise provided, words and expressions used in this Act have the meanings assigned to them by section 2 or 84 of the `Criminal Code`.
 
@@ -48,7 +46,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ### Section 2
 
-  ****(1)**** The portion of subsection 5(2) of the Act before paragraph (a) is replaced by the following:
+  **(1)** The portion of subsection 5(2) of the Act before paragraph (a) is replaced by the following:
 
     **(2)** In determining whether a person is eligible to hold a licence under subsection (1), a chief firearms officer or, on a reference under section `74`, a provincial court judge shall have regard to whether the person
 
@@ -194,7 +192,7 @@ Sections 23 and 23.1 of the Act are replaced by the following:
 
 ### Section 23
 
-  **(1)** A person may transfer **one or more** non-restricted **firearms** if, at the time of the transfer,
+  **(1)** A person may transfer one or more non-restricted firearms if, at the time of the transfer,
 
     the transferee holds a licence authorizing the transferee to acquire and possess a non-restricted firearm;
 
@@ -331,7 +329,7 @@ authorizations issued under paragraph 19(2.2)(b), as that paragraph read immedia
 
 The definition **non-restricted firearm** in subsection 84(1) of the `Criminal Code` is replaced by the following:
 
-**non-restricted firearm** means a firearm that is neither a prohibited firearm nor a restricted firearm; (**arme à feu sans restriction**)
+**non-restricted firearm** means a firearm that is neither a prohibited firearm nor a restricted firearm; (**arme à feu sans restriction**)
 
 ### Section 17
 
@@ -400,13 +398,13 @@ The following definitions apply in this section and in sections `26` to `28`.
 
 **commencement day** means the day on which this Act receives royal assent. (**date d'entrée en vigueur**)
 
-**copy** means a copy referred to in subsection 29(1) or (2) of the `Ending the Long-gun Registry Act`. (**copie**)
+**copy** means a copy referred to in subsection 29(1) or (2) of the `Ending the Long-gun Registry Act`. (**copie**)
 
-**personal information** means any personal information, as defined in section 3 of the `Privacy Act`, that is contained in a record or copy. (**renseignements personnels**)
+**personal information** means any personal information, as defined in section 3 of the `Privacy Act`, that is contained in a record or copy. (**renseignements personnels**)
 
-**record** means, other than in section `28`, a record referred to in subsection 29(1) or (2) of the `Ending the Long-gun Registry Act`. (**registres**)
+**record** means, other than in section `28`, a record referred to in subsection 29(1) or (2) of the `Ending the Long-gun Registry Act`. (**registres**)
 
-**specified proceeding** means any request, complaint, investigation, application, judicial review, appeal or other proceeding under the `Access to Information Act` or the `Privacy Act` that is with respect to a record or copy or to personal information and that
+**specified proceeding** means any request, complaint, investigation, application, judicial review, appeal or other proceeding under the `Access to Information Act` or the `Privacy Act` that is with respect to a record or copy or to personal information and that
 
 was made or initiated on or before June 22, 2015 and was not concluded, or in respect of which no decision was made, on or before that day; or
 
