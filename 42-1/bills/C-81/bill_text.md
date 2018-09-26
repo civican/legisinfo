@@ -6,7 +6,7 @@ Her Excellency the Governor General recommends to the House of Commons the appro
 
 ## Summary
 
-This enactment enacts the `Accessible Canada Act` in order to enhance the full and equal participation of all persons, especially persons with disabilities, in society. This is to be achieved through the progressive realization, within the purview of matters coming within the legislative authority of Parliament, of a Canada without barriers, particularly by the identification, removal and prevention of barriers.
+This enactment enacts the `Accessible Canada Act` in order to enhance the full and equal participation of all persons, especially persons with disabilities, in society. This is to be achieved through the realization, within the purview of matters coming within the legislative authority of Parliament, of a Canada without barriers, particularly by the identification, removal and prevention of barriers.
 
 Part 1 of the Act establishes the Minister's mandate, powers, duties and functions.
 
@@ -60,6 +60,8 @@ Designation of Minister
 ## Purpose of Act
 
 Purpose
+
+Clarification
 
 
 ## Principles
@@ -611,9 +613,9 @@ Whereas a proactive and systemic approach for identifying, removing and preventi
 
 Whereas Canada is a State Party to the United Nations Convention on the Rights of Persons with Disabilities and Canada has agreed to take appropriate measures respecting accessibility and to develop and monitor minimum accessibility standards;
 
-Whereas barriers to accessibility can impact all Canadians, in particular those with disabilities and their families, and can prevent persons with disabilities from achieving their full and equal participation in society;
+Whereas barriers to accessibility can impact all **persons in Canada**, in particular those with disabilities and their families, and can prevent persons with disabilities from achieving their full and equal participation in society;
 
-And whereas Parliament considers that it is essential to ensure the economic, social and civic participation of all Canadians, regardless of their abilities or disabilities, and to allow them to fully exercise their rights and responsibilities in a barrier-free Canada;
+And whereas Parliament considers that it is essential to ensure the economic, social and civic participation of all **persons in Canada**, regardless of their disabilities, and to allow them to fully exercise their rights and responsibilities in a barrier-free Canada;
 
 Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
@@ -633,13 +635,13 @@ The following definitions apply in this Act.
 
 **Accessibility Commissioner** means the member of the Canadian Human Rights Commission that is appointed under subsection 26(1) of the `Canadian Human Rights Act` and that is referred to in that Act as the "Accessibility Commissioner". (**commissaire à l'accessibilité**)
 
-**barrier** means anything — including anything physical, architectural, technological or attitudinal, anything that is based on information or communications or anything that is the result of a policy or a practice — that hinders the full and equal participation in society of persons with a physical, mental, intellectual, learning, communication or sensory impairment or a functional limitation. (**obstacle**)
+**barrier** means anything — including anything physical, architectural, technological or attitudinal, anything that is based on information or communications or anything that is the result of a policy or a practice — that hinders the full and equal participation in society of persons with **an impairment, including** a physical, mental, intellectual, **cognitive**, learning, communication or sensory impairment or a functional limitation. (**obstacle**)
 
 **broadcasting undertaking** has the same meaning as in subsection 2(1) of the `Broadcasting Act`. (**entreprise de radiodiffusion**)
 
 **Canadian carrier** has the same meaning as in subsection 2(1) of the `Telecommunications Act`. (**entreprise canadienne**)
 
-**disability** means a physical, mental, intellectual, learning, communication or sensory impairment — or a functional limitation — whether permanent, temporary or episodic in nature, that, in interaction with a barrier, hinders a person's full and equal participation in society. (**handicap**)
+**disability** means **any impairment, including** a physical, mental, intellectual, **cognitive**, learning, communication or sensory impairment — or a functional limitation — whether permanent, temporary or episodic in nature, **or evident or not**, that, in interaction with a barrier, hinders a person's full and equal participation in society. (**handicap**)
 
 **Minister** means the member of the Queen's Privy Council for Canada designated under section `4`. (**ministre**)
 
@@ -670,7 +672,7 @@ The Governor in Council may, by order, designate a member of the Queen's Privy C
 
 ### Section 5
 
-The purpose of this Act is to benefit all persons, especially persons with disabilities, through the progressive realization, within the purview of matters coming within the legislative authority of Parliament, of a Canada without barriers, particularly by the identification and removal of barriers, and the prevention of new barriers, in the following areas:
+The purpose of this Act is to benefit all persons, especially persons with disabilities, through the realization, within the purview of matters coming within the legislative authority of Parliament, of a Canada without barriers, particularly by the identification and removal of barriers, and the prevention of new barriers, in the following areas:
 
 employment;
 
@@ -678,13 +680,19 @@ the built environment;
 
 information and communication technologies;
 
-the procurement of goods and services;
+communication, other than information and communication technologies;
 
-the delivery of programs and services;
+the procurement of goods, services and **facilities**;
+
+the **design and** delivery of programs and services;
 
 transportation; and
 
 areas designated under regulations made under paragraph `117`(1)(b).
+
+### Section 5.1
+
+The area of communication referred to in paragraph 5(c.1) does not include broadcasting as defined in subsection 2(1) of the `Broadcasting Act` or telecommunications as defined in subsection 2(1) of the `Telecommunications Act`.
 
 
 ## Principles
@@ -693,15 +701,17 @@ areas designated under regulations made under paragraph `117`(1)(b).
 
 This Act is to be carried out in recognition of, and in accordance with, the following principles:
 
-all persons must be treated with dignity regardless of their abilities or disabilities;
+all persons must be treated with dignity regardless of their disabilities;
 
-all persons must have the same opportunity to make for themselves the lives that they are able and wish to have regardless of their abilities or disabilities or of how their disabilities interact with their personal and social characteristics;
+all persons must have the same opportunity to make for themselves the lives that they are able and wish to have regardless of their disabilities or of how their disabilities interact with their personal and social characteristics;
 
-all persons must have barrier-free access to full and equal participation in society, regardless of their abilities or disabilities;
+all persons must have barrier-free access to full and equal participation in society, regardless of their disabilities;
 
-all persons must have meaningful options and be free to make their own choices, with support if they desire, regardless of their abilities or disabilities; and
+all persons must have meaningful options and be free to make their own choices, with support if they desire, regardless of their disabilities;
 
-laws, policies, programs, services and structures must take into account the abilities and disabilities of persons and the different ways that persons interact with their environments, and persons with disabilities must be involved in their development or design.
+laws, policies, programs, services and structures must take into account the disabilities of persons and the different ways that persons interact with their environments, and persons with disabilities must be involved in their development or design; and
+
+the development and revision of accessibility standards and the making of regulations must be done with the objective of achieving the highest level of accessibility for persons with disabilities.
 
 
 ## Application
@@ -743,7 +753,7 @@ Nothing in this Act is to be construed as affecting the principle that certain p
 
 ### Section 11
 
-  **(1)** The Minister's mandate is the progressive realization of a Canada without barriers.
+  **(1)** The Minister's mandate is the realization of a Canada without barriers.
 
   **(2)** In carrying out his or her mandate, the Minister may, among other things,
 
@@ -769,7 +779,7 @@ Subject to the `Statistics Act`, the Minister may collect, analyse, interpret, p
 
 ### Section 16
 
-The Minister may work with provincial or territorial authorities with a view to coordinating efforts in relation to matters relating to accessibility.
+The Minister **must make every reasonable effort to collaborate** with provincial or territorial authorities with a view to coordinating efforts in relation to matters relating to accessibility.
 
 
 ## Canadian Accessibility Standards Development Organization
@@ -790,7 +800,7 @@ The Minister may work with provincial or territorial authorities with a view to 
 
 ### Section 18
 
-The Standards Organization's mandate is to contribute to the progressive realization of a Canada without barriers by, among other things,
+The Standards Organization's mandate is to contribute to the realization of a Canada without barriers **through**, among other things,
 
 the development and revision of accessibility standards;
 
@@ -851,9 +861,11 @@ The Standards Organization is to have a board of directors consisting of not mor
 
   **(2)** The appointment of directors is to be made having regard to the following considerations:
 
-    that at all times, as far as possible, the majority of the directors are persons with disabilities; and
+    that at all times, as far as possible, the majority of the directors are persons with disabilities;
 
-    the importance of having directors that are representative of the diversity of Canadian society.
+    the importance of having directors that are representative of the diversity of Canadian society; and
+
+    the importance of having directors that are representative of the diversity of disabilities faced by Canadians.
 
   **(3)** A person is not eligible to be appointed or to continue as a director if the person
 
@@ -1024,7 +1036,7 @@ No action or other proceeding of a civil nature lies against the Accessibility C
 
   **(1)** A regulated entity that carries on a broadcasting undertaking must, before the expiry of one year after the day fixed or determined by regulations made under subsection `45`(1) that apply to that regulated entity, prepare and publish, in accordance with this Act and regulations made under that subsection, an accessibility plan respecting
 
-    its policies, programs, practices and services in relation to the identification and removal of barriers, and the prevention of new barriers, in the areas referred to in paragraphs `5`(c) to (e) and, if it is not subject to the `Employment Equity Act`, employment equity;
+    its policies, programs, practices and services in relation to the identification and removal of barriers, and the prevention of new barriers, in the areas referred to in paragraphs 5(c), **(d) and** (e), **the area referred to in paragraph 5(c.1) as it relates to the areas referred to in paragraphs (d) and (e)** and, if it is not subject to the `Employment Equity Act`, employment equity;
 
     the conditions of the regulated entity's licence issued under Part II of the `Broadcasting Act` that relate to the identification and removal of barriers and the prevention of new barriers;
 
@@ -1045,6 +1057,8 @@ No action or other proceeding of a civil nature lies against the Accessibility C
   **(7)** If a person makes a request in accordance with subsection (8), the regulated entity must, within the time prescribed by regulations made under subsection `45`(1), make its accessibility plan available to the person in the format prescribed by regulations made under that subsection that is indicated in the request.
 
   **(8)** The request must be made in the form and manner prescribed by regulations made under subsection `45`(1) and must indicate the format prescribed by regulations made under that subsection in which the accessibility plan is to be made available to the person making the request.
+
+  **(9)** The regulated entity must take into account the principles set out in section 6 when it prepares an accessibility plan or an updated version of its accessibility plan.
 
 
 #### Feedback
@@ -1087,15 +1101,19 @@ No action or other proceeding of a civil nature lies against the Accessibility C
 
   **(1)** The Canadian Radio-television and Telecommunications Commission may make regulations
 
-    fixing or determining, for the purposes of subsection `42`(1), a day in respect of a regulated entity referred to in that subsection;
+    fixing or determining, for the purposes of subsection 42(1), a day in respect of a regulated entity;
 
     specifying the form in which accessibility plans required by subsections `42`(1) and (2) are to be prepared and the manner in which they are to be published;
+
+    respecting the feedback process required by subsection 43(1);
 
     specifying the form and manner in which descriptions of the feedback process required by subsection `43`(1) are to be published;
 
     specifying the form in which progress reports required by subsection `44`(1) are to be prepared and the time and manner in which they are to be published; and
 
     prescribing anything that is to be prescribed by any of subsections `42`(3), (7) and (8), `43`(3) and `44`(2), (6) and (7).
+
+  **(1.1)** The Canadian Radio-television and Telecommunications Commission must make at least one regulation under subsection (1) within the period of two years that begins on the day on which this subsection comes into force.
 
   **(2)** Regulations made under subsection (1) may distinguish among different classes of regulated entities.
 
@@ -1104,9 +1122,9 @@ No action or other proceeding of a civil nature lies against the Accessibility C
 
 ### Section 46
 
-  **(1)** The Canadian Radio-television and Telecommunications Commission may, by order, exempt any regulated entity or class of regulated entities from the application of all or any part of sections `42` to `44`, on any terms that the Commission considers necessary.
+  **(1)** The Canadian Radio-television and Telecommunications Commission may, by order, exempt any regulated entity or class of regulated entities from the application of all or any part of sections `42` to `44`, on any terms that the Commission considers necessary. **The order ceases to have effect on the earlier of the end of the period of three years that begins on the day on which the order is made and the end of any shorter period specified in the order.**
 
-  **(2)** The `Statutory Instruments Act` does not apply to an order made under subsection (1) in respect of a regulated entity, but the order must be published in the `Canada Gazette`.
+  **(2)** The `Statutory Instruments Act` does not apply to an order made under subsection (1) in respect of a regulated entity, but the order must be published in the `Canada Gazette` **and the reasons for the making of the order must be made available to the public**.
 
 
 #### Accessibility Plans — Regulations Under This Act
@@ -1115,7 +1133,7 @@ No action or other proceeding of a civil nature lies against the Accessibility C
 
   **(1)** A regulated entity referred to in subsection `42`(1) must, before the expiry of one year after the day fixed or determined by regulations made under subsection `117`(1) that apply to that regulated entity, prepare and publish, in accordance with this Act and regulations made under subsection `117`(1), an accessibility plan respecting
 
-    its policies, programs, practices and services in relation to the identification and removal of barriers, and the prevention of new barriers, in the areas referred to in paragraphs `5`(a), (b), (f) and (g); and
+    its policies, programs, practices and services in relation to the identification and removal of barriers, and the prevention of new barriers, in the areas referred to in paragraphs 5(a), (b), (f) and (g) **and in the area referred to in paragraph 5(c.1) as that paragraph applies in respect of the areas referred to in those paragraphs**; and
 
     the provisions of regulations made under subsection `117`(1) that apply to it.
 
@@ -1132,6 +1150,8 @@ No action or other proceeding of a civil nature lies against the Accessibility C
   **(7)** If a person makes a request in accordance with subsection (8), the regulated entity must, within the time prescribed by regulations made under subsection `117`(1), make its accessibility plan available to the person in the format prescribed by regulations made under that subsection that is indicated in the request.
 
   **(8)** The request must be made in the form and manner prescribed by regulations made under subsection `117`(1) and must indicate the format prescribed by regulations made under that subsection in which the accessibility plan is to be made available to the person making the request.
+
+  **(9)** The regulated entity must take into account the principles set out in section 6 when it prepares an accessibility plan or an updated version of its accessibility plan.
 
 
 #### Feedback
@@ -1172,11 +1192,11 @@ No action or other proceeding of a civil nature lies against the Accessibility C
 
 ### Section 50
 
-  **(1)** The Minister may, by order, exempt any regulated entity or class of regulated entities from the application of all or any part of sections `47` to `49`, on any terms that the Minister considers necessary.
+  **(1)** The Minister may, by order, exempt any regulated entity or class of regulated entities from the application of all or any part of sections `47` to `49`, on any terms that the Minister considers necessary. **The order ceases to have effect on the earlier of the end of the period of three years that begins on the day on which the order is made and the end of any shorter period specified in the order.**
 
   **(2)** The Minister must provide the Accessibility Commissioner with a copy of every order made under subsection (1).
 
-  **(3)** The `Statutory Instruments Act` does not apply to an order made under subsection (1) in respect of a regulated entity, but the order must be published in the `Canada Gazette`.
+  **(3)** The `Statutory Instruments Act` does not apply to an order made under subsection (1) in respect of a regulated entity, but the order must be published in the `Canada Gazette` **and the reasons for the making of the order must be made available to the public**.
 
 
 ### Regulated Entities That Are Canadian Carriers or Telecommunications Service Providers
@@ -1188,7 +1208,7 @@ No action or other proceeding of a civil nature lies against the Accessibility C
 
   **(1)** A regulated entity that is a Canadian carrier or a telecommunications service provider must, before the expiry of one year after the day fixed or determined by regulations made under subsection `54`(1) that apply to that regulated entity, prepare and publish, in accordance with this Act and regulations made under that subsection, an accessibility plan respecting
 
-    its policies, programs, practices and services in relation to the identification and removal of barriers, and the prevention of new barriers, in the areas referred to in paragraphs `5`(c) to (e);
+    its policies, programs, practices and services in relation to the identification and removal of barriers, and the prevention of new barriers, in the areas referred to in paragraphs 5(c), **(d) and** (e) **and the area referred to in paragraph 5(c.1) as it relates to the areas referred to in paragraphs (d) and (e)**;
 
     the conditions imposed under section 24 or 24.1 of the `Telecommunications Act` to which the regulated entity is subject that relate to the identification and removal of barriers and the prevention of new barriers; and
 
@@ -1207,6 +1227,8 @@ No action or other proceeding of a civil nature lies against the Accessibility C
   **(7)** If a person makes a request in accordance with subsection (8), the regulated entity must, within the time prescribed by regulations made under subsection `54`(1), make its accessibility plan available to the person in the format prescribed by regulations made under that subsection that is indicated in the request.
 
   **(8)** The request must be made in the form and manner prescribed by regulations made under subsection `54`(1) and must indicate the format prescribed by regulations made under that subsection in which the accessibility plan is to be made available to the person making the request.
+
+  **(9)** The regulated entity must take into account the principles set out in section 6 when it prepares an accessibility plan or an updated version of its accessibility plan.
 
 
 #### Feedback
@@ -1249,15 +1271,19 @@ No action or other proceeding of a civil nature lies against the Accessibility C
 
   **(1)** The Canadian Radio-television and Telecommunications Commission may make regulations
 
-    fixing or determining, for the purposes of subsection `51`(1), a day in respect of a regulated entity referred to in that subsection;
+    fixing or determining, for the purposes of subsection 5(1), a day in respect of a regulated entity;
 
     specifying the form in which accessibility plans required by subsections `51`(1) and (2) are to be prepared and the manner in which they are to be published;
+
+    respecting the feedback process required by subsection 52(1);
 
     specifying the form and manner in which descriptions of the feedback process required by subsection `52`(1) are to be published;
 
     specifying the form in which progress reports required by subsection `53`(1) are to be prepared and the time and manner in which they are to be published; and
 
     prescribing anything that is to be prescribed by any of subsections `51`(3), (7) and (8), `52`(3) and `53`(2), (6) and (7).
+
+  **(1.1)** The Canadian Radio-television and Telecommunications Commission must make at least one regulation under subsection (1) within the period of two years that begins on the day on which this subsection comes into force.
 
   **(2)** Regulations made under subsection (1) may distinguish among different classes of regulated entities.
 
@@ -1266,9 +1292,9 @@ No action or other proceeding of a civil nature lies against the Accessibility C
 
 ### Section 55
 
-  **(1)** The Canadian Radio-television and Telecommunication Commission may, by order, exempt any regulated entity or class of regulated entities from the application of all or any part of sections `51` to `53`, on any terms that the Commission considers necessary.
+  **(1)** The Canadian Radio-television and Telecommunication Commission may, by order, exempt any regulated entity or class of regulated entities from the application of all or any part of sections `51` to `53`, on any terms that the Commission considers necessary. **The order ceases to have effect on the earlier of the end of the period of three years that begins on the day on which the order is made and the end of any shorter period specified in the order.**
 
-  **(2)** The `Statutory Instruments Act` does not apply to an order made under subsection (1) in respect of a regulated entity, but the order must be published in the `Canada Gazette`.
+  **(2)** The `Statutory Instruments Act` does not apply to an order made under subsection (1) in respect of a regulated entity, but the order must be published in the `Canada Gazette` **and the reasons for the making of the order must be made available to the public**.
 
 
 #### Accessibility Plans — Regulations Under This Act
@@ -1277,7 +1303,7 @@ No action or other proceeding of a civil nature lies against the Accessibility C
 
   **(1)** A regulated entity referred to in subsection `51`(1) must, before the expiry of one year after the day fixed or determined by regulations made under subsection `117`(1) that apply to that regulated entity, prepare and publish, in accordance with this Act and regulations made under subsection `117`(1), an accessibility plan respecting
 
-    its policies, programs, practices and services in relation to the identification and removal of barriers, and the prevention of new barriers, in the areas referred to in paragraphs `5`(a), (b), (f) and (g); and
+    its policies, programs, practices and services in relation to the identification and removal of barriers, and the prevention of new barriers, in the areas referred to in paragraphs 5(a), (b), (f) and (g) **and in the area referred to in paragraph 5(c.1) as it relates to the areas referred to in those paragraphs**; and
 
     the provisions of regulations made under subsection `117`(1) that apply to it.
 
@@ -1294,6 +1320,8 @@ No action or other proceeding of a civil nature lies against the Accessibility C
   **(7)** If a person makes a request in accordance with subsection (8), the regulated entity must, within the time prescribed by regulations made under subsection `117`(1), make its accessibility plan available to the person in the format prescribed by regulations made under that subsection that is indicated in the request.
 
   **(8)** The request must be made in the form and manner prescribed by regulations made under subsection `117`(1) and must indicate the format prescribed by regulations made under that subsection in which the accessibility plan is to be made available to the person making the request.
+
+  **(9)** The regulated entity must take into account the principles set out in section 6 when it prepares an accessibility plan or an updated version of its accessibility plan.
 
 
 #### Feedback
@@ -1334,11 +1362,11 @@ No action or other proceeding of a civil nature lies against the Accessibility C
 
 ### Section 59
 
-  **(1)** The Minister may, by order, exempt any regulated entity or class of regulated entities from the application of all or any part of sections `56` to `58`, on any terms that the Minister considers necessary.
+  **(1)** The Minister may, by order, exempt any regulated entity or class of regulated entities from the application of all or any part of sections `56` to `58`, on any terms that the Minister considers necessary. **The order ceases to have effect on the earlier of the end of the period of three years that begins on the day on which the order is made and the end of any shorter period specified in the order.**
 
   **(2)** The Minister must provide the Accessibility Commissioner with a copy of every order made under subsection (1).
 
-  **(3)** The `Statutory Instruments Act` does not apply to an order made under subsection (1) in respect of a regulated entity, but the order must be published in the `Canada Gazette`.
+  **(3)** The `Statutory Instruments Act` does not apply to an order made under subsection (1) in respect of a regulated entity, but the order must be published in the `Canada Gazette` **and the reasons for the making of the order must be made available to the public**.
 
 
 ### Regulated Entities in the Transportation Network
@@ -1350,7 +1378,13 @@ No action or other proceeding of a civil nature lies against the Accessibility C
 
   **(1)** A regulated entity that is required to comply with any provision of regulations made under subsection 170(1) of the `Canada Transportation Act` must, before the expiry of one year after the day fixed or determined by regulations made under subsection `63`(1) that apply to that regulated entity, prepare and publish, in accordance with this Act and regulations made under subsection `63`(1), an accessibility plan respecting
 
-    its policies, programs, practices and services in relation to the identification and removal of barriers, and the prevention of new barriers, in the areas referred to in paragraphs `5`(c) to (f) and the built environment, to the extent that the built environment is a passenger aircraft, passenger train, passenger bus, passenger vessel, aerodrome passenger terminal, railway passenger station, bus passenger station or marine passenger terminal; and
+    its policies, programs, practices and services in relation to the identification and removal of barriers, and the prevention of new barriers, in
+
+    the areas referred to in paragraphs 5(c) **and (d)** to (f),
+
+    the built environment, to the extent that the built environment is a passenger aircraft, passenger train, passenger bus, passenger vessel, aerodrome passenger terminal, railway passenger station, bus passenger station or marine passenger terminal, **and**
+
+    the area referred to in paragraph 5(c.1) as it relates to the areas referred to in paragraphs 5(c) and (d) to (f) and to the built environment referred to in subparagraph (ii); and
 
     the provisions of regulations made under subsection 170(1) of the `Canada Transportation Act` that apply to it.
 
@@ -1367,6 +1401,8 @@ No action or other proceeding of a civil nature lies against the Accessibility C
   **(7)** If a person makes a request in accordance with subsection (8), the regulated entity must, within the time prescribed by regulations made under subsection `63`(1), make its accessibility plan available to the person in the format prescribed by regulations made under that subsection that is indicated in the request.
 
   **(8)** The request must be made in the form and manner prescribed by regulations made under subsection `63`(1) and must indicate the format prescribed by regulations made under that subsection in which the accessibility plan is to be made available to the person making the request.
+
+  **(9)** The regulated entity must take into account the principles set out in section 6 when it prepares an accessibility plan or an updated version of its accessibility plan.
 
 
 #### Feedback
@@ -1413,11 +1449,15 @@ No action or other proceeding of a civil nature lies against the Accessibility C
 
     specifying the form in which accessibility plans required by subsections `60`(1) and (2) are to be prepared and the manner in which they are to be published;
 
-    specifying the manner in which the description of the feedback process required by subsection `61`(1) is to be published;
+    respecting the feedback process required by subsection 61(1);
+
+    specifying the **form and** manner in which **descriptions** of the feedback process required by subsection 61(1) **are** to be published;
 
     specifying the form in which progress reports required by subsection `62`(1) are to be prepared and the time and manner in which they are to be published; and
 
     prescribing anything that is to be prescribed by any of subsections `60`(2), (3), (7) and (8), `61`(3) and `62`(2), (6) and (7).
+
+  **(1.1)** The Canadian Transportation Agency must make at least one regulation under subsection (1) within the period of two years that begins on the day on which this subsection comes into force.
 
   **(2)** Regulations made under subsection (1) may distinguish among different classes of regulated entities.
 
@@ -1426,9 +1466,9 @@ No action or other proceeding of a civil nature lies against the Accessibility C
 
 ### Section 64
 
-  **(1)** The Canadian Transportation Agency, with the approval of the Minister of Transport, may, by order, exempt any regulated entity or class of regulated entities from the application of all or any part of sections `60` to `62`, on any terms that the Agency considers necessary.
+  **(1)** The Canadian Transportation Agency, with the approval of the Minister of Transport, may, by order, exempt any regulated entity or class of regulated entities from the application of all or any part of sections `60` to `62`, on any terms that the Agency considers necessary. **The order ceases to have effect on the earlier of the end of the period of three years that begins on the day on which the order is made and the end of any shorter period specified in the order.**
 
-  **(2)** The `Statutory Instruments Act` does not apply to an order made under subsection (1) in respect of a regulated entity, but the order must be published in the `Canada Gazette`.
+  **(2)** The `Statutory Instruments Act` does not apply to an order made under subsection (1) in respect of a regulated entity, but the order must be published in the `Canada Gazette` **and the reasons for the making of the order must be made available to the public**.
 
 
 #### Accessibility Plans — Regulations Under This Act
@@ -1437,7 +1477,13 @@ No action or other proceeding of a civil nature lies against the Accessibility C
 
   **(1)** A regulated entity referred to in subsection `60`(1) must, before the expiry of one year after the day fixed or determined by regulations made under subsection `117`(1) that apply to that regulated entity, prepare and publish, in accordance with this Act and regulations made under subsection `117`(1), an accessibility plan respecting
 
-    its policies, programs, practices and services in relation to the identification and removal of barriers, and the prevention of new barriers, in the areas referred to in paragraphs `5`(a) and (g) and the built environment, other than passenger aircrafts, passenger trains, passenger buses, passenger vessels, aerodrome passenger terminals, railway passenger stations, bus passenger stations or marine passenger terminals; and
+    its policies, programs, practices and services in relation to the identification and removal of barriers, and the prevention of new barriers, in
+
+    the areas referred to in paragraphs 5(a) and (g),
+
+    the built environment, other than passenger aircraft, passenger trains, passenger buses, passenger vessels, aerodrome passenger terminals, railway passenger stations, bus passenger stations or marine passenger terminals, and
+
+    the area referred to in paragraph 5(c.1) as it relates to the areas referred to in paragraphs 5(a) and (g) and to the built environment referred to in subparagraph (ii); and
 
     the provisions of regulations made under subsection `117`(1) that apply to it.
 
@@ -1454,6 +1500,8 @@ No action or other proceeding of a civil nature lies against the Accessibility C
   **(7)** If a person makes a request in accordance with subsection (8), the regulated entity must, within the time prescribed by regulations made under subsection `117`(1), make its accessibility plan available to the person in the format prescribed by regulations made under that subsection that is indicated in the request.
 
   **(8)** The request must be made in the form and manner prescribed by regulations made under subsection `117`(1) and must indicate the format prescribed by regulations made under that subsection in which the accessibility plan is to be made available to the person making the request.
+
+  **(9)** The regulated entity must take into account the principles set out in section 6 when it prepares an accessibility plan or an updated version of its accessibility plan.
 
 
 #### Feedback
@@ -1494,11 +1542,11 @@ No action or other proceeding of a civil nature lies against the Accessibility C
 
 ### Section 68
 
-  **(1)** The Minister may, by order, exempt any regulated entity or class of regulated entities from the application of all or any part of sections `65` to `67`, on any terms that the Minister considers necessary.
+  **(1)** The Minister may, by order, exempt any regulated entity or class of regulated entities from the application of all or any part of sections `65` to `67`, on any terms that the Minister considers necessary. **The order ceases to have effect on the earlier of the end of the period of three years that begins on the day on which the order is made and the end of any shorter period specified in the order.**
 
   **(2)** The Minister must provide the Accessibility Commissioner with a copy of every order made under subsection (1).
 
-  **(3)** The `Statutory Instruments Act` does not apply to an order made under subsection (1) in respect of a regulated entity, but the order must be published in the `Canada Gazette`.
+  **(3)** The `Statutory Instruments Act` does not apply to an order made under subsection (1) in respect of a regulated entity, but the order must be published in the `Canada Gazette` **and the reasons for the making of the order must be made available to the public**.
 
 
 ### Other Regulated Entities
@@ -1527,6 +1575,8 @@ No action or other proceeding of a civil nature lies against the Accessibility C
   **(7)** If a person makes a request in accordance with subsection (8), the regulated entity must, within the time prescribed by regulations made under subsection `117`(1), make its accessibility plan available to the person in the format prescribed by regulations made under that subsection that is indicated in the request.
 
   **(8)** The request must be made in the form and manner prescribed by regulations made under subsection `117`(1) and must indicate the format prescribed by regulations made under that subsection in which the accessibility plan is to be made available to the person making the request.
+
+  **(9)** The regulated entity must take into account the principles set out in section 6 when it prepares an accessibility plan or an updated version of its accessibility plan.
 
 
 #### Feedback
@@ -1567,11 +1617,11 @@ No action or other proceeding of a civil nature lies against the Accessibility C
 
 ### Section 72
 
-  **(1)** The Minister may, by order, exempt any regulated entity or class of regulated entities from the application of all or any part of sections `69` to `71`, on any terms that the Minister considers necessary.
+  **(1)** The Minister may, by order, exempt any regulated entity or class of regulated entities from the application of all or any part of sections `69` to `71`, on any terms that the Minister considers necessary. **The order ceases to have effect on the earlier of the end of the per­iod of three years that begins on the day on which the order is made and the end of any shorter period specified in the order.**
 
   **(2)** The Minister must provide the Accessibility Commissioner with a copy of every order made under subsection (1).
 
-  **(3)** The `Statutory Instruments Act` does not apply to an order made under subsection (1) in respect of a regulated entity, but the order must be published in the `Canada Gazette`.
+  **(3)** The `Statutory Instruments Act` does not apply to an order made under subsection (1) in respect of a regulated entity, but the order must be published in the `Canada Gazette` **and the reasons for the making of the order must be made available to the public**.
 
 
 ## Administration and Enforcement
@@ -1885,7 +1935,7 @@ the complaint is beyond the jurisdiction of the Accessibility Commissioner;
 
 the complaint is trivial, frivolous, vexatious or made in bad faith; or
 
-the complaint is based on acts or omissions the last of which occurred more than one year, or any longer period of time that the Accessibility Commissioner considers appropriate in the circumstances, before the filing of the complaint.
+the complaint is based on acts or omissions the **complainant became aware** of more than one year, or any longer period of time that the Accessibility Commissioner considers appropriate in the circumstances, before the filing of the complaint.
 
 ### Section 96
 
@@ -1975,6 +2025,8 @@ The Accessibility Commissioner may attempt to resolve complaints by means of a d
 
   **(1)** The Accessibility Commissioner may, on application made within the time and in the manner specified in the notice served under section `96` or `100`, as the case may be, review a decision under section `95` not to investigate a complaint or a decision under section `100` to discontinue an investigation.
 
+  **(1.1)** The complainant must be given the opportunity to make representations to the officer or employee conducting the review in a manner that is accessible to the complainant.
+
   **(2)** After concluding the review, the Accessibility Commissioner must
 
     confirm the decision not to investigate the complaint;
@@ -1991,9 +2043,11 @@ The Accessibility Commissioner may attempt to resolve complaints by means of a d
 
 ### Section 104
 
-  **(1)** A complainant or regulated entity that is affected by a decision made under section `101` or an order made under subsection `102`(1) may appeal the decision or order to the Canadian Human Rights Tribunal, in writing, within 30 days after the day on which a copy of the order or notice of the decision is served.
+  **(1)** A complainant or regulated entity that is affected by a decision made under section `101` or an order made under subsection `102`(1) may appeal the decision or order to the Canadian Human Rights Tribunal, in writing, within 30 days after the day on which a copy of the order or notice of the decision is served **or any longer per­iod — that is not more than 60 days after that day — that the Canadian Human Rights Tribunal considers appropriate in the circumstances**.
 
-  **(2)** The request for appeal must contain a statement of the grounds of appeal.
+  **(1.1)** The appeal lies on any ground of appeal that involves a question of law or fact alone, or a question of mixed law and fact, including a principle of natural justice.
+
+  **(2)** The request for appeal must contain a statement of the grounds of appeal **and set out the evidence that supports those grounds**.
 
 ### Section 105
 
@@ -2003,9 +2057,15 @@ The Accessibility Commissioner may attempt to resolve complaints by means of a d
 
 ### Section 106
 
-  **(1)** The member or panel of members of the Canadian Human Rights Tribunal assigned to hear the appeal may, by order, confirm, vary or rescind the decision or order to which the appeal relates.
+  **(1)** The member or panel of members of the Canadian Human Rights Tribunal assigned to hear the appeal may, by order, confirm, vary, **give the decision that the Accessibility Commissioner should have given** or rescind the decision or order to which the appeal relates **or refer the complaint back to the Accessibility Commissioner for reconsideration in accordance with any direction the Canadian Human Rights Tribunal may give**.
+
+  **(1.1)** An appeal shall be on the merits based on the record of the proceedings before the Accessibility Commissioner, but the member or panel of members of the Canadian Human Rights Tribunal shall allow arguments and, if he, she or it considers it necessary for the purposes of the appeal, shall hear evidence not previously available.
 
   **(2)** A decision made by a majority of the members of the panel is the decision of the panel or, if no decision is supported by the majority, the decision of the panel's chair is the decision of the panel.
+
+  **(3)** A copy of the order made by the member or panel of members of the Canadian Human Rights Tribunal must be provided to the Accessibility Commissioner and the parties to the appeal.
+
+  **(4)** Every decision made under subsection (1) is final and is not to be questioned or reviewed in any court.
 
 ### Section 107
 
@@ -2060,7 +2120,7 @@ For the purpose of the administration of Part III of the `Canadian Human Rights 
 
 ### Section 113
 
-The Chief Accessibility Officer may — or, if requested to do so by the Minister, must — advise the Minister in respect of systemic or emerging accessibility issues.
+The Chief Accessibility Officer may — or, if requested to do so by the Minister, must — **provide information or advice** to the Minister in respect of systemic or emerging accessibility issues.
 
 ### Section 114
 
@@ -2104,7 +2164,9 @@ The Accessibility Commissioner, the Canadian Transportation Agency, the Canadian
 
     specifying the form in which the accessibility plans required by subsections `47`(1) and (2), `56`(1) and (2), `65`(1) and (2) and `69`(1) and (2) are to be prepared and the manner in which they are to be published;
 
-    specifying the manner in which the description of a feedback process required by `48`(1), `57`(1), `66`(1) and `70`(1) is to be published;
+    respecting the feedback process required by subsections 48(1), 57(1), 66(1) and 70(1);
+
+    specifying the **form and** manner in which **descriptions** of **the** feedback process required by **subsections** 48(1), 57(1), 66(1) and 70(1) **are** to be published;
 
     specifying the form in which progress reports required by subsections `49`(1), `58`(1), `67`(1) and `71`(1) are to be prepared and the time and manner in which they are to be published;
 
@@ -2134,6 +2196,8 @@ The Accessibility Commissioner, the Canadian Transportation Agency, the Canadian
 
     prescribing anything that is to be prescribed by any of sections `39`, `47` to `49`, `56` to `58`, `65` to `67` and `69` to `71`.
 
+  **(1.1)** The Governor in Council must make at least one regulation under any of paragraphs (1)(e) to (h) within the period of two years that begins on the day on which this subsection comes into force.
+
   **(2)** Regulations made under subsection (1) may distinguish among different classes of regulated entities.
 
   **(3)** A standard established in regulations made under paragraph (1)(c) may be general or specific in its application and may be limited as to time and location.
@@ -2142,7 +2206,7 @@ The Accessibility Commissioner, the Canadian Transportation Agency, the Canadian
 
 ### Section 118
 
-  **(1)** Subject to subsections (2) and (3), regulations made under subsection `117`(1) apply in respect of a regulated entity that carries on a broadcasting undertaking only if the regulations relate to the identification, prevention and removal of barriers in the areas referred to in paragraphs `5`(a), (b), (f) and (g).
+  **(1)** Subject to subsections (2) and (3), regulations made under subsection `117`(1) apply in respect of a regulated entity that carries on a broadcasting undertaking only if the regulations relate to the identification, prevention and removal of barriers in the areas referred to in paragraphs 5(a), (b), (f) and (g) **and in the area referred to in paragraph 5(c.1) as it relates to the areas referred to in those paragraphs**.
 
   **(2)** Regulations made under subsection `117`(1) that are in relation to employment do not apply in respect of a regulated entity that carries on a broadcasting undertaking and that is not subject to the `Employment Equity Act`.
 
@@ -2156,7 +2220,7 @@ The Accessibility Commissioner, the Canadian Transportation Agency, the Canadian
 
 ### Section 119
 
-  **(1)** Subject to subsection (2), regulations made under subsection `117`(1) apply in respect of a regulated entity that is a Canadian carrier or a telecommunications service provider only if the regulations relate to the identification, prevention and removal of barriers in the areas referred to in paragraphs `5`(a), (b), (f) and (g).
+  **(1)** Subject to subsection (2), regulations made under subsection `117`(1) apply in respect of a regulated entity that is a Canadian carrier or a telecommunications service provider only if the regulations relate to the identification, prevention and removal of barriers in the areas referred to in paragraphs 5(a), (b), (f) and (g) **and in the area referred to in paragraph 5(c.1) as it relates to the areas referred to in those paragraphs**.
 
   **(2)** Regulations made under subsection `117`(1) that are in relation to the identification, prevention and removal of barriers in an area referred to in paragraph `5`(g) do not apply in respect of a regulated entity that is a Canadian carrier or telecommunications service provider if requirements in relation to the identification, prevention and removal of barriers in that area apply to the regulated entity under a condition imposed under section 24 or 24.1 of the `Telecommunications Act` or a regulation made under that Act.
 
@@ -2168,9 +2232,11 @@ employment;
 
 the built environment, other than a passenger aircraft, passenger train, passenger bus, passenger vessel, aerodrome passenger terminal, railway passenger station, bus passenger station or marine passenger terminal;
 
-the procurement of goods and services that are not related to the mobility of persons with disabilities; and
+the procurement of goods, services and **facilities** that are not related to the mobility of persons with disabilities;
 
-areas designated under regulations made under paragraph `117`(1)(b).
+areas designated under regulations made under paragraph 117(1)(b); and
+
+the area referred to in paragraph 5(c.1) as it relates to the areas referred to paragraphs (a) to (d).
 
 ### Section 121
 
@@ -2180,9 +2246,11 @@ areas designated under regulations made under paragraph `117`(1)(b).
 
     exempt a class of regulated entities from the application of any provision of regulations made under subsection `117`(1) if the Minister is satisfied that all the members of the class have taken or will take measures that will result in an equivalent or greater level of accessibility for persons with disabilities.
 
+    The order ceases to have effect on the earlier of the end of the period of three years that begins on the day on which the order is made and the end of any shorter period speci­fied in the order.
+
   **(2)** The Minister must provide the Accessibility Commissioner with a copy of every order made under subsection (1).
 
-  **(3)** The `Statutory Instruments Act` does not apply to an order made under paragraph (1)(a), but the order must be published in the `Canada Gazette`.
+  **(3)** The `Statutory Instruments Act` does not apply to an order made under paragraph (1)(a), but the order must be published in the `Canada Gazette` **and the reasons for the making of the order must be made available to the public**.
 
 
 ### Miscellaneous
@@ -2259,7 +2327,7 @@ An order made under subsection `75`(1) or amended under subsection `76`(4) and a
 
   **(1)** Five years after the first day on which a report is submitted under subsection `131`(2) to either House of Parliament and every tenth anniversary of that day, the Minister must cause an independent review of the provisions and operation of this Act to be conducted, and must cause a report on the review to be laid before each House of Parliament on any of the first 15 days on which that House is sitting after the review is completed.
 
-  **(2)** The person conducting the review must consult the public, persons with disabilities, organizations that represent the interests of persons with disabilities, regulated entities and organizations that represent the interests of regulated entities.
+  **(2)** The person **or persons** conducting the review must consult the public, persons with disabilities, organizations that represent the interests of persons with disabilities, regulated entities and organizations that represent the interests of regulated entities.
 
 
 ### National AccessAbility Week
@@ -2492,10 +2560,6 @@ Section 13 of the `Canadian Radio-television and Telecommunications Commission A
 **(6)** In this section, **barrier** has the same meaning as in section `2` of the `Accessible Canada Act`.
 
 
-> **Explanatory Note**:
-> New.
-
-
 ### `Canadian Human Rights Act`
 
 ### Section 148
@@ -2504,16 +2568,9 @@ Subsections 26(1) and (2) of the `Canadian Human Rights Act` are replaced by the
 
 ### Section 26
 
-  **(1)** A commission is established to be known as the Canadian Human Rights Commission, in this **Act** referred to as the "Commission", consisting of a Chief Commissioner, a Deputy Chief Commissioner, **a member referred to as the "Accessibility Commissioner"** and not less than three or more than six other members, to be appointed by the Governor in Council.
+  **(1)** A commission is established to be known as the Canadian Human Rights Commission, in this Act referred to as the "Commission", consisting of a Chief Commissioner, a Deputy Chief Commissioner, a member referred to as the "Accessibility Commissioner" and not less than three or more than six other members, to be appointed by the Governor in Council.
 
-  **(2)** The Chief Commissioner, **the** Deputy Chief Commissioner and **the Accessibility Commissioner** are full-time members of the Commission and the other members may be appointed as full-time or part-time members of the Commission.
-
-
-> **Explanatory Note**:
-> Existing text of subsections 26(1) and (2):
-> *Existing Text*:
-> > A commission is hereby established to be known as the Canadian Human Rights Commission, in this Part and Part III referred to as the "Commission", consisting of a Chief Commissioner, a Deputy Chief Commissioner and not less than three or more than six other members, to be appointed by the Governor in Council.
-> > The Chief Commissioner and Deputy Chief Commissioner are full-time members of the Commission and the other members may be appointed as full-time or part-time members of the Commission.
+  **(2)** The Chief Commissioner, the Deputy Chief Commissioner and the Accessibility Commissioner are full-time members of the Commission and the other members may be appointed as full-time or part-time members of the Commission.
 
 ### Section 149
 
@@ -2523,15 +2580,11 @@ The Act is amended by adding the following after section 28:
 
 The Commission is, for the purposes of paragraph 2 of article 33 of the Convention on the Rights of Persons with Disabilities, adopted by the General Assembly of the United Nations on December 13, 2006, designated as a body responsible for monitoring the Government of Canada's implementation of that Convention.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 150
 
 Subsection 31(3) of the Act is replaced by the following:
 
-**(3)** In the event of the absence or incapacity of the Chief Commissioner and the Deputy Chief Commissioner, or if those offices are vacant, the full-time member, **other than the Accessibility Commissioner**, with the most seniority has all the powers and may perform all the duties and functions of the Chief Commissioner.
+**(3)** In the event of the absence or incapacity of the Chief Commissioner and the Deputy Chief Commissioner, or if those offices are vacant, the full-time member, other than the Accessibility Commissioner, with the most seniority has all the powers and may perform all the duties and functions of the Chief Commissioner.
 
 ### Section 151
 
@@ -2540,10 +2593,6 @@ The Act is amended by adding the following after section 32:
 ### Section 32.1
 
 The officers and employees of the Commission that support the Accessibility Commissioner in the exercise of his or her powers and the performance of his or her duties and functions under the `Accessible Canada Act` may be referred to as the "Accessibility Unit".
-
-
-> **Explanatory Note**:
-> New.
 
 ### Section 152
 
@@ -2560,10 +2609,6 @@ In addition to being a member of the Commission, the Accessibility Commissioner 
 
 In the event of the absence or incapacity of the Accessibility Commissioner, or if the office of Accessibility Commissioner is vacant, the Chief Commissioner may authorize any member of the Commission, other than himself or herself, to exercise the powers and perform the duties and functions of the Accessibility Commissioner, but no member may be so authorized for a term of more than 90 days without the Governor in Council's approval.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 153
 
 The Act is amended by adding the following after section 40:
@@ -2571,10 +2616,6 @@ The Act is amended by adding the following after section 40:
 ### Section 40.01
 
 For the purpose of the administration of the `Accessible Canada Act`, an officer or employee of the Commission may disclose to the Accessibility Commissioner any personal information that is contained in a complaint filed with the Commission.
-
-
-> **Explanatory Note**:
-> New.
 
 
 ### `Parliamentary Employment and Staff Relations Act`
@@ -2585,24 +2626,13 @@ The `Parliamentary Employment and Staff Relations Act` is amended by adding the 
 
 ### Section 2.1
 
-For greater certainty, a person who is referred to in section 2 and who is not entitled to present a grievance under section 62 may file a complaint under subsection `94`(1) of the `Accessible Canada Act` with respect to a contravention of an applicable provision of regulations made under subsection `117`(1) of that Act if the person has suffered physical or emotional harm, property damage or economic loss as a result of — or has otherwise been adversely affected by — that contravention.
-
-
-> **Explanatory Note**:
-> New.
+For greater certainty, a person who is referred to in section 2 and who is not entitled to present a grievance under section 62 may file a complaint under subsection `94`(1) of the `Accessible Canada Act` with respect to a contravention of an applicable provision of regulations made under subsection `117`(1) of that Act if the person has suffered physical or **psychological** harm, property damage or economic loss as a result of — or has otherwise been adversely affected by — that contravention.
 
 ### Section 155
 
 Subsection 63(1) of the Act is amended by striking out "or" at the end of paragraph (e), by adding "or" at the end of paragraph (f) and by adding the following after paragraph (f):
 
-the contravention by the employer of any applicable provision of regulations made under subsection `117`(1) of the `Accessible Canada Act`, if the employee has suffered physical or emotional harm, property damage or economic loss as a result of — or has otherwise been adversely affected by — the contravention,
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 63(1):
-> *Existing Text*:
-> > Where an employee has presented a grievance, up to and including the final level in the grievance process, with respect to and the grievance has not been dealt with to the satisfaction of the employee, the employee may refer the grievance to adjudication.
-> > 
+the contravention by the employer of any applicable provision of regulations made under subsection `117`(1) of the `Accessible Canada Act`, if the employee has suffered physical or **psychological** harm, property damage or economic loss as a result of — or has otherwise been adversely affected by — the contravention,
 
 ### Section 156
 
@@ -2614,19 +2644,11 @@ The Act is amended by adding the following after section 63:
 
   **(2)** If the Accessibility Commissioner is notified of an issue under subsection (1), he or she may make submissions during the adjudication with respect to that issue.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 157
 
 Section 66 of the Act is amended by adding the following after subsection (4):
 
 **(5)** Despite section 65 and subsections (1) and (2), only members of the Board may adjudicate grievances respecting a matter referred to in paragraph 63(1)(g).
-
-
-> **Explanatory Note**:
-> New.
 
 ### Section 158
 
@@ -2634,13 +2656,7 @@ Section 66.1 of the Act is replaced by the following:
 
 ### Section 66.1
 
-An adjudicator has, for the purposes of the adjudication of a grievance respecting a matter referred to in **any of paragraphs** 63(1)(a) **to** (c) **and (g)** that is referred to adjudication, the powers that the Board has under paragraph 15(d) of this Act and paragraphs 20(a) and (d) to (f) of the `Federal Public Sector Labour Relations and Employment Board Act`, in relation to the hearing or determination of a proceeding before it.
-
-
-> **Explanatory Note**:
-> Existing text of section 66.1:
-> *Existing Text*:
-> > An adjudicator has, for the purposes of the adjudication of a grievance respecting a matter referred to in paragraph 63(1)(a), (b) or (c) that is referred to adjudication, the powers that the Board has under paragraph 15(d) of this Act and paragraphs 20(a) and (d) to (f) of the `Federal Public Sector Labour Relations and Employment Board Act`, in relation to the hearing or determination of a proceeding before it.
+An adjudicator has, for the purposes of the adjudication of a grievance respecting a matter referred to in any of paragraphs 63(1)(a) to (c) and (g) that is referred to adjudication, the powers that the Board has under paragraph 15(d) of this Act and paragraphs 20(a) and (d) to (f) of the `Federal Public Sector Labour Relations and Employment Board Act`, in relation to the hearing or determination of a proceeding before it.
 
 ### Section 159
 
@@ -2654,21 +2670,11 @@ interpret and apply the `Accessible Canada Act`; and
 
 give relief in accordance with section `102` of that Act.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 160
 
 Subsection 71(3) of the Act is amended by adding the following after paragraph (a):
 
 the manner of giving notice of an issue to the Accessibility Commissioner under section 63.1;
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 71(3):
-> *Existing Text*:
-> > The Board may make regulations in relation to the adjudication of grievances, including regulations respecting
 
 
 ### `Broadcasting Act`
@@ -2681,7 +2687,7 @@ the manner of giving notice of an issue to the Accessibility Commissioner under 
 
   **(2)** Subsection 12(2) of the Act is replaced by the following:
 
-    **(2)** The Commission may, by order, require any person to do, without delay or within or at any time and in any manner specified by the Commission, any act or thing that the person is or may be required to do under this Part, **under** any regulation, licence, decision or order made or issued by the Commission under this Part **or under any of sections `42` to `44` of the `Accessible Canada Act`** and may, by order, forbid the doing or continuing of any act or thing that is contrary to this Part, to any such regulation, licence, decision or order, to section 34.1 **or to any of sections `42` to `44` of the `Accessible Canada Act`**.
+    **(2)** The Commission may, by order, require any person to do, without delay or within or at any time and in any manner specified by the Commission, any act or thing that the person is or may be required to do under this Part, under any regulation, licence, decision or order made or issued by the Commission under this Part or under any of sections `42` to `44` of the `Accessible Canada Act` and may, by order, forbid the doing or continuing of any act or thing that is contrary to this Part, to any such regulation, licence, decision or order, to section 34.1 or to any of sections `42` to `44` of the `Accessible Canada Act`.
 
 
 ### `Telecommunications Act`
@@ -2692,23 +2698,13 @@ Section 48 of the `Telecommunications Act` is amended by adding the following af
 
 **(1.1)** The Commission may, on application by any interested person or on its own motion, inquire into and make a determination in respect of anything prohibited, required or permitted to be done under sections `51` to `53` of the `Accessible Canada Act`.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 163
 
 Section 51 of the Act is replaced by the following:
 
 ### Section 51
 
-The Commission may order a person, at or within any time and subject to any conditions that it determines, to do anything the person is required to do under this Act, **under sections `51` to `53` of the `Accessible Canada Act`** or **under** any special Act, and may forbid a person to do anything that the person is prohibited from doing under this Act, **under those sections of the `Accessible Canada Act`** or **under** any special Act.
-
-
-> **Explanatory Note**:
-> Existing text of section 51:
-> *Existing Text*:
-> > The Commission may order a person, at or within any time and subject to any conditions that it determines, to do anything the person is required to do under this Act or any special Act, and may forbid a person to do anything that the person is prohibited from doing under this Act or any special Act.
+The Commission may order a person, at or within any time and subject to any conditions that it determines, to do anything the person is required to do under this Act, under sections `51` to `53` of the `Accessible Canada Act` or under any special Act, and may forbid a person to do anything that the person is prohibited from doing under this Act, under those sections of the `Accessible Canada Act` or under any special Act.
 
 ### Section 164
 
@@ -2716,15 +2712,15 @@ The Commission may order a person, at or within any time and subject to any cond
 
 ### Section 71
 
-      **(1)** The Commission may designate any qualified person as an inspector for the purpose of verifying compliance or preventing non-compliance with the provisions of this Act or any special Act for which the Commission is responsible, with the provisions of Division 1.1 of Part 16.1 of the `Canada Elections Act`, with **sections `51` to `53` of the `Accessible Canada Act`** and with the decisions of the Commission under this Act.
+      **(1)** The Commission may designate any qualified person as an inspector for the purpose of verifying compliance or preventing non-compliance with the provisions of this Act or any special Act for which the Commission is responsible, with the provisions of Division 1.1 of Part 16.1 of the `Canada Elections Act`, with sections `51` to `53` of the `Accessible Canada Act` and with the decisions of the Commission under this Act.
 
   **(2)** Paragraph 71(4)(a) of the Act is replaced by the following:
 
-    enter, at any reasonable time, any place in which they believe on reasonable grounds there is any document, information or thing relevant to the purpose of verifying compliance or preventing non-compliance with this Act, any special Act, Division 1.1 of Part 16.1 of the `Canada Elections Act` **or sections `51` to `53` of the `Accessible Canada Act`**, and examine the document, information or thing or remove it for examination or reproduction;
+    enter, at any reasonable time, any place in which they believe on reasonable grounds there is any document, information or thing relevant to the purpose of verifying compliance or preventing non-compliance with this Act, any special Act, Division 1.1 of Part 16.1 of the `Canada Elections Act` or sections `51` to `53` of the `Accessible Canada Act`, and examine the document, information or thing or remove it for examination or reproduction;
 
   **(3)** Subsection 71(9) of the Act is replaced by the following:
 
-    **(9)** An inspector who believes that a person is in possession of information that the inspector considers necessary for the purpose of verifying compliance or preventing non-compliance with this Act, any special Act, Division 1.1 of Part 16.1 of the `Canada Elections Act` **or sections `51` to `53` of the `Accessible Canada Act`** may, by notice, require that person to submit the information to the inspector in the form and manner and within the reasonable time that is stipulated in the notice.
+    **(9)** An inspector who believes that a person is in possession of information that the inspector considers necessary for the purpose of verifying compliance or preventing non-compliance with this Act, any special Act, Division 1.1 of Part 16.1 of the `Canada Elections Act` or sections `51` to `53` of the `Accessible Canada Act` may, by notice, require that person to submit the information to the inspector in the form and manner and within the reasonable time that is stipulated in the notice.
 
 ### Section 165
 
@@ -2732,13 +2728,7 @@ The portion of section 72.001 of the Act before paragraph (a) is replaced by the
 
 ### Section 72.001
 
-Every contravention of a provision of this Act, other than section 17 or 69.2, every contravention of a regulation or decision made by the Commission under this Act, other than a prohibition or a requirement of the Commission made under section 41, and **every contravention of any of subsections `51`(1) to (4) and (7), `52`(1) to (3) and `53`(1) to (3) and (6) of the `Accessible Canada Act`** constitutes a violation and the person who commits the violation is liable
-
-
-> **Explanatory Note**:
-> Relevant portion of section 72.001:
-> *Existing Text*:
-> > Every contravention of a provision of this Act, other than section 17 or 69.2, and every contravention of a regulation or decision made by the Commission under this Act, other than a prohibition or a requirement of the Commission made under section 41, constitutes a violation and the person who commits the violation is liable
+Every contravention of a provision of this Act, other than section 17 or 69.2, every contravention of a regulation or decision made by the Commission under this Act, other than a prohibition or a requirement of the Commission made under section 41, and every contravention of any of subsections `51`(1) to (4) and (7), `52`(1) to (3) and `53`(1) to (3) and (6) of the `Accessible Canada Act` constitutes a violation and the person who commits the violation is liable
 
 
 ### `Canada Transportation Act`
@@ -2747,17 +2737,9 @@ Every contravention of a provision of this Act, other than section 17 or 69.2, e
 
 Paragraph 5(d) of the `Canada Transportation Act` is replaced by the following:
 
-the transportation system is accessible without undue obstacle to the mobility of **all** persons;
+the transportation system is accessible without undue obstacle to the mobility of all persons;
 
 the transportation system is accessible without barriers to persons with disabilities; and
-
-
-> **Explanatory Note**:
-> Relevant portion of section 5:
-> *Existing Text*:
-> > It is declared that a competitive, economic and efficient national transportation system that meets the highest practicable safety and security standards and contributes to a sustainable environment and makes the best use of all modes of transportation at the lowest total cost is essential to serve the needs of its users, advance the well-being of Canadians and enable competitiveness and economic growth in both urban and rural areas throughout Canada. Those objectives are most likely to be achieved when
-> > 
-> > the transportation system is accessible without undue obstacle to the mobility of persons, including persons with disabilities; and
 
 ### Section 167
 
@@ -2785,23 +2767,12 @@ Subsection 42(2) of the Act is replaced by the following:
 
 **(2.01)** For the purpose of paragraph (2)(d), the Governor in Council may make regulations prescribing information about any matter or thing that concerns transportation to which the legislative authority of Parliament extends and that relates to the mobility of persons with disabilities.
 
-
-> **Explanatory Note**:
-> Existing text of subsection 42(2):
-> *Existing Text*:
-> > The Agency shall include in every report referred to in subsection (1) the Agency's assessment of the operation of this Act and any difficulties observed in the administration of this Act.
-
 ### Section 168
 
 The heading of Part V of the French version of the Act is replaced by the following:
 
 
-## Transport des personnes **handicapées**
-
-
-> **Explanatory Note**:
-> Existing text of the heading:
-> *Existing Text*:
+## Transport des personnes handicapées
 
 ### Section 169
 
@@ -2811,13 +2782,9 @@ The Act is amended by adding the following before section 170:
 
 The following definitions apply in paragraph 5(d.1) and this Part.
 
-**barrier** means anything — including anything physical, architectural, technological or attitudinal, anything that is based on information or communications or anything that is the result of a policy or a practice — that hinders the full and equal participation in society of persons with a physical, mental, intellectual, learning, communication or sensory impairment or a functional limitation. (**obstacle**)
+**barrier** means anything — including anything physical, architectural, technological or attitudinal, anything that is based on information or communications or anything that is the result of a policy or a practice — that hinders the full and equal participation in society of persons with **an impairment, including** a physical, mental, intellectual, **cognitive**, learning, communication or sensory impairment or a functional limitation. (**obstacle**)
 
-**disability** means a physical, mental, intellectual, learning, communication or sensory impairment — or a functional limitation — whether permanent, temporary or episodic in nature, that, in interaction with a barrier, hinders a person's full and equal participation in society. (**handicap**)
-
-
-> **Explanatory Note**:
-> New.
+**disability** means **any impairment, including** a physical, mental, intellectual, **cognitive**, learning, communication or sensory impairment — or a functional limitation — whether permanent, temporary or episodic in nature, **or evident or not**, that, in interaction with a barrier, hinders a person's full and equal participation in society. (**handicap**)
 
 ### Section 170
 
@@ -2825,11 +2792,11 @@ The following definitions apply in paragraph 5(d.1) and this Part.
 
 ### Section 170
 
-      **(1)** The Agency may, **after consulting with the Minister**, make regulations for the purpose of **identifying or removing barriers or preventing new barriers — particularly barriers in the built environment, information and communication technologies and the delivery of programs and services** — in the transportation network under the legislative authority of Parliament to the mobility of persons with disabilities, including regulations respecting
+      **(1)** The Agency may, after consulting with the Minister, make regulations for the purpose of identifying or removing barriers or preventing new barriers — particularly barriers in the built environment, information and communication technologies and the **design and** delivery of programs and services — in the transportation network under the legislative authority of Parliament to the mobility of persons with disabilities, including regulations respecting
 
   **(2)** Paragraph 170(1)(c) of the French version of the Act is replaced by the following:
 
-    toute mesure concernant les tarifs, taux, prix, frais et autres conditions de transport applicables au transport et aux services connexes offerts aux personnes **handicapées**;
+    toute mesure concernant les tarifs, taux, prix, frais et autres conditions de transport applicables au transport et aux services connexes offerts aux personnes handicapées;
 
   **(3)** Section 170 of the Act is amended by adding the following after subsection (3):
 
@@ -2839,19 +2806,15 @@ The following definitions apply in paragraph 5(d.1) and this Part.
 
       exempt a class of persons from the application of regulations made under subsection (1) if the Agency is satisfied that all the members of the class have taken or will take measures — at least equivalent to those that must be taken under the provisions of the regulations for which an exemption is to be granted — to remove barriers or to prevent new barriers.
 
+      The order ceases to have effect on the earlier of the end of the period of three years that begins on the day on which the order is made and the end of any shorter period specified in the order.
+
 ### Section 171
 
 Section 171 of the French version of the Act is replaced by the following:
 
 ### Section 171
 
-L'Office et la Commission canadienne des droits de la personne sont tenus de veiller à la coordination de leur action en matière de transport des personnes **handicapées** pour favoriser l'adoption de lignes de conduite complémentaires et éviter les conflits de compétence.
-
-
-> **Explanatory Note**:
-> Existing text of section 171:
-> *Existing Text*:
-> > The Agency and the Canadian Human Rights Commission shall coordinate their activities in relation to the transportation of persons with disabilities in order to foster complementary policies and practices and to avoid jurisdictional conflicts.
+L'Office et la Commission canadienne des droits de la personne sont tenus de veiller à la coordination de leur action en matière de transport des personnes handicapées pour favoriser l'adoption de lignes de conduite complémentaires et éviter les conflits de compétence.
 
 ### Section 172
 
@@ -2859,21 +2822,21 @@ L'Office et la Commission canadienne des droits de la personne sont tenus de vei
 
 ### Section 172
 
-      **(1)** The Agency may, on application, inquire into a matter in relation to which a regulation could be made under subsection 170(1), regardless of whether such a regulation has been made, in order to determine whether there is an undue **barrier** to the mobility of persons with disabilities.
+      **(1)** The Agency may, on application, inquire into a matter in relation to which a regulation could be made under subsection 170(1), regardless of whether such a regulation has been made, in order to determine whether there is an undue barrier to the mobility of persons with disabilities.
 
   **(2)** Subsection 172(2) of the English version of the Act is replaced by the following:
 
-    **(2)** **If** the Agency is satisfied that regulations made under subsection 170(1) that are applicable in relation to a matter have been complied with or have not been contravened, the Agency shall determine that there is no undue **barrier** to the mobility of persons with disabilities.
+    **(2)** If the Agency is satisfied that regulations made under subsection 170(1) that are applicable in relation to a matter have been complied with or have not been contravened, the Agency shall determine that there is no undue barrier to the mobility of persons with disabilities.
 
   **(3)** Subsection 172(3) of the Act is replaced by the following:
 
-    **(3)** On determining that there is an undue **barrier** to the mobility of persons with disabilities, the Agency may **do one** or **more of the following**:
+    **(3)** On determining that there is an undue barrier to the mobility of persons with disabilities, the Agency may do one or more of the following:
 
       require the taking of appropriate corrective measures;
 
-      direct that compensation be paid for any expense incurred by a person with a disability arising out of the **barrier, including for any costs of obtaining alternative goods, services or accommodation**;
+      direct that compensation be paid for any expense incurred by a person with a disability arising out of the barrier, including for any costs of obtaining alternative goods, services or accommodation;
 
-      direct that compensation be paid for any wages that a person with a disability was deprived of as a result of the **barrier;**
+      direct that compensation be paid for any wages that a person with a disability was deprived of as a result of the barrier;
 
       direct that compensation be paid up to a maximum amount of — subject to the annual adjustments made under section 172.2 — $20,000, for any pain and suffering experienced by a person with a disability arising out of the barrier;
 
@@ -2921,19 +2884,11 @@ The Agency may on its own initiative, with the Minister's approval and on any te
 
 The Agency may establish a participant funding program to facilitate the participation of persons with disabilities in hearings that are held for the purposes of inquiries made under section 172, 172.1 or 172.3.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 174
 
 Section 177 of the Act is amended by adding the following after subsection (2.2):
 
 **(3)** The contravention of any provision of any regulation made under subsection 170(1) — or the contravention of any of subsections `60`(1) to (4) and (7), `61`(1) to (3) and `62`(1) to (3) and (6) of the `Accessible Canada Act` — may be proceeded with as a violation in accordance with sections 179 and 180. The maximum amount payable for each violation is $250,000.
-
-
-> **Explanatory Note**:
-> New.
 
 ### Section 175
 
@@ -2941,13 +2896,13 @@ Section 177 of the Act is amended by adding the following after subsection (2.2)
 
 ### Section 178
 
-      **(1)** The Agency, in respect of a violation referred to in subsection 177(1), (2.1) or **(3)**, or the Minister, in respect of a violation referred to in subsection 177(2), (2.01) or (2.2), may
+      **(1)** The Agency, in respect of a violation referred to in subsection 177(1), (2.1) or (3), or the Minister, in respect of a violation referred to in subsection 177(2), (2.01) or (2.2), may
 
   **(2)** Subsections 178(4) and (5) of the Act are replaced by the following:
 
-    **(4)** For the purposes of determining whether a violation referred to in section 177 has been committed, a person designated as an enforcement officer **under** paragraph (1)(a) may require any person to produce for examination or reproduction all or part of any document or electronically stored data that the enforcement officer believes on reasonable grounds contain any information relevant to the enforcement of this Act **or any of sections `60` to `62` of the `Accessible Canada Act`**.
+    **(4)** For the purposes of determining whether a violation referred to in section 177 has been committed, a person designated as an enforcement officer under paragraph (1)(a) may require any person to produce for examination or reproduction all or part of any document or electronically stored data that the enforcement officer believes on reasonable grounds contain any information relevant to the enforcement of this Act or any of sections `60` to `62` of the `Accessible Canada Act`.
 
-    **(5)** Any person from whom documents or data are requested **under** subsection (4) shall provide all reasonable assistance in their power to enable the enforcement officer making the request to carry out the enforcement officer's duties and shall furnish **any** information **that** the enforcement officer reasonably requires for the purposes of this Act **or any of sections `60` to `62` of the `Accessible Canada Act`**.
+    **(5)** Any person from whom documents or data are requested under subsection (4) shall provide all reasonable assistance in their power to enable the enforcement officer making the request to carry out the enforcement officer's duties and shall furnish any information that the enforcement officer reasonably requires for the purposes of this Act or any of sections `60` to `62` of the `Accessible Canada Act`.
 
 ### Section 176
 
@@ -2991,23 +2946,13 @@ The Act is amended by adding the following after section 178:
 
   **(6)** The owner or other person in charge of a place entered by an enforcement officer for the purpose referred to in subsection (1) and every individual found in the place must give the enforcement officer all reasonable assistance in the individual's power and provide the enforcement officer with any information that the enforcement officer may reasonably require.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 177
 
 Subsection 179(1) of the Act is replaced by the following:
 
 ### Section 179
 
-  **(1)** Every person who contravenes a provision, requirement or condition designated under section 177 commits a violation and is liable to a penalty fixed **under** that section **or, in the case of a contravention referred to in subsection 177(3), either a penalty fixed under that subsection or a warning under subparagraph 180(b)(i)**.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 179(1):
-> *Existing Text*:
-> > Every person who contravenes a provision, requirement or condition designated under section 177 commits a violation and is liable to a penalty fixed pursuant to that section.
+  **(1)** Every person who contravenes a provision, requirement or condition designated under section 177 commits a violation and is liable to a penalty fixed under that section or, in the case of a contravention referred to in subsection 177(3), either a penalty fixed under that subsection or a warning under subparagraph 180(b)(i).
 
 ### Section 178
 
@@ -3015,9 +2960,9 @@ Sections 180 to 180.2 of the Act are replaced by the following:
 
 ### Section 180
 
-If a person designated as an enforcement officer under paragraph 178(1)(a) believes that a person has committed a violation, the enforcement officer may issue, and **shall** serve on the person, a notice of violation that names the person, identifies the violation and
+If a person designated as an enforcement officer under paragraph 178(1)(a) believes that a person has committed a violation, the enforcement officer may issue, and shall serve on the person, a notice of violation that names the person, identifies the violation and
 
-**in the case of a contravention other than one referred to in paragraph (b), sets out** the penalty for the violation that the person is liable to pay;
+in the case of a contravention other than one referred to in paragraph (b), sets out the penalty for the violation that the person is liable to pay;
 
 in the case of a contravention of any provision of any regulation made under subsection 170(1) or a contravention of any of subsections `60`(1) to (4) and (7), `61`(1) to (3) and `62`(1) to (3) and (6) of the `Accessible Canada Act`
 
@@ -3025,15 +2970,15 @@ contains a warning, or
 
 sets out the penalty for the violation that the person is liable to pay, and a lesser amount that may be paid in complete satisfaction of the amount of the penalty if paid within the time and in the manner set out in the notice; and
 
-**sets out** the particulars concerning the time for paying and the manner of paying the penalty, **if there is one**.
+sets out the particulars concerning the time for paying and the manner of paying the penalty, if there is one.
 
 ### Section 180.1
 
-  ****(1)**** **Subject to subsections (2) and (3), a** person who has been served with a notice of violation must either pay the amount of the penalty specified in the notice or file with the Tribunal a written request for a review of the facts of the alleged contravention or of the amount of the penalty.
+  **(1)** Subject to subsections (2) and (3), a person who has been served with a notice of violation must either pay the amount of the penalty specified in the notice or file with the Tribunal a written request for a review of the facts of the alleged contravention or of the amount of the penalty.
 
   **(2)** A person who has been served with a notice of violation that contains a warning may file with the Agency a written request for a review of the facts of the alleged contravention.
 
-  **(3)** A person who has been served with a notice of violation **that identifies a violation referred to in subsection 177(3) and that sets out a penalty for the violation must**
+  **(3)** A person who has been served with a notice of violation that identifies a violation referred to in subsection 177(3) and that sets out a penalty for the violation must
 
     pay the amount of the penalty — or the lesser amount — specified in the notice;
 
@@ -3043,17 +2988,7 @@ sets out the penalty for the violation that the person is liable to pay, and a l
 
 ### Section 180.2
 
-If a person who is served with a notice of violation **that sets out a penalty** pays the amount **of the penalty — or, in the case of a person to whom subsection 180.1(3) applies, the lesser amount — specified in the notice** in accordance with the particulars set out in it, the Minister shall accept the amount in complete satisfaction of the amount of the penalty and no further proceedings under this Part shall be taken against the person in respect of **the** contravention.
-
-
-> **Explanatory Note**:
-> Existing text of sections 180 to 180.2:
-> *Existing Text*:
-> > If a person designated as an enforcement officer under paragraph 178(1)(a) believes that a person has committed a violation, the enforcement officer may issue and serve on the person a notice of violation that names the person, identifies the violation and sets out
-> > the penalty, established in accordance with the regulations made under section 177, for the violation that the person is liable to pay; and
-> > the particulars concerning the time for paying and the manner of paying the penalty.
-> > A person who has been served with a notice of violation must either pay the amount of the penalty specified in the notice or file with the Tribunal a written request for a review of the facts of the alleged contravention or of the amount of the penalty.
-> > If a person who is served with a notice of violation pays the amount specified in the notice in accordance with the particulars set out in it, the Minister shall accept the amount as and in complete satisfaction of the amount of the penalty for the contravention by that person of the designated provision and no further proceedings under this Part shall be taken against the person in respect of that contravention.
+If a person who is served with a notice of violation that sets out a penalty pays the amount of the penalty — or, in the case of a person to whom subsection 180.1(3) applies, the lesser amount — specified in the notice in accordance with the particulars set out in it, the Minister shall accept the amount in complete satisfaction of the amount of the penalty and no further proceedings under this Part shall be taken against the person in respect of the contravention.
 
 ### Section 179
 
@@ -3061,23 +2996,11 @@ Subsection 180.3(1) of the Act is replaced by the following:
 
 ### Section 180.3
 
-  **(1)** A person who is served with a notice of violation **that sets out a penalty** and who wishes to have the facts of the alleged contravention or the amount of the penalty reviewed shall, on or before the date specified in the notice or within any further time that the Tribunal on application may allow, file a written request for a review with the Tribunal at the address set out in the notice.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 180.3(1):
-> *Existing Text*:
-> > A person who is served with a notice of violation and who wishes to have the facts of the alleged contravention or the amount of the penalty reviewed shall, on or before the date specified in the notice or within any further time that the Tribunal on application may allow, file a written request for a review with the Tribunal at the address set out in the notice.
+  **(1)** A person who is served with a notice of violation that sets out a penalty and who wishes to have the facts of the alleged contravention or the amount of the penalty reviewed shall, on or before the date specified in the notice or within any further time that the Tribunal on application may allow, file a written request for a review with the Tribunal at the address set out in the notice.
 
 ### Section 180
 
 Section 180.4 of the Act is repealed.
-
-
-> **Explanatory Note**:
-> Existing text of section 180.4:
-> *Existing Text*:
-> > If a person neither pays the amount of the penalty in accordance with the particulars set out in the notice of violation nor files a request for a review under subsection 180.3(1), the person is deemed to have committed the contravention alleged in the notice, and the Minister may obtain from the Tribunal a certificate in the form that may be established by the Governor in Council that indicates the amount of the penalty specified in the notice.
 
 ### Section 181
 
@@ -3151,23 +3074,13 @@ The Act is amended by adding the following after section 180.6:
 
   **(4)** If the Agency refuses a person's request under paragraph 180.1(3)(c) to enter into a compliance agreement, and the person does not pay the amount of the penalty specified in the notice of violation within the time and in the manner required by subsection 180.63(1), the Agency may obtain from the Tribunal a certificate in the form that may be established by the Governor in Council that indicates the amount of the penalty specified in that notice.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 182
 
 Subsection 180.7(1) of the Act is replaced by the following:
 
 ### Section 180.7
 
-  **(1)** If the time limit for the payment of **the** amount **of a penalty specified** in a notice of violation has expired, **the time limit for the payment of an amount specified in a notice of default has expired, the time limit specified for payment of an amount under subsection 180.63(1) has expired**, the time limit for the request for a review has expired, the time limit for an appeal has expired, or an appeal has been disposed of, **as the case may be**, on production in any superior court, a certificate issued under paragraph 180.5(b), subsection 180.6(4) or section **180.64** shall be registered in the court. When it is registered, a certificate has the same force and effect, and proceedings may be taken in connection with it, as if it were a judgment in that court obtained by Her Majesty in right of Canada against the person named in the certificate for a debt of the amount set out in the certificate.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 180.7(1):
-> *Existing Text*:
-> > If the time limit for the payment of an amount determined by the Minister in a notice of violation has expired, the time limit for the request for a review has expired, the time limit for an appeal has expired, or an appeal has been disposed of, on production in any superior court, a certificate issued under section 180.4, paragraph 180.5(b) or subsection 180.6(4) shall be registered in the court. When it is registered, a certificate has the same force and effect, and proceedings may be taken in connection with it, as if it were a judgment in that court obtained by Her Majesty in right of Canada against the person named in the certificate for a debt of the amount set out in the certificate.
+  **(1)** If the time limit for the payment of the amount of a penalty specified in a notice of violation has expired, the time limit for the payment of an amount specified in a notice of default has expired, the time limit specified for payment of an amount under subsection 180.63(1) has expired, the time limit for the request for a review has expired, the time limit for an appeal has expired, or an appeal has been disposed of, as the case may be, on production in any superior court, a certificate issued under paragraph 180.5(b), subsection 180.6(4) or section 180.64 shall be registered in the court. When it is registered, a certificate has the same force and effect, and proceedings may be taken in connection with it, as if it were a judgment in that court obtained by Her Majesty in right of Canada against the person named in the certificate for a debt of the amount set out in the certificate.
 
 ### Section 183
 
@@ -3175,13 +3088,7 @@ Subsection 180.8(1) of the Act is replaced by the following:
 
 ### Section 180.8
 
-  **(1)** In the case of a violation referred to in subsection 177(1) or **(3)**, every reference to the "Minister" in sections 180.3 to 180.7 shall be read as a reference to the Agency or to a person designated by the Agency.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 180.8(1):
-> *Existing Text*:
-> > In the case of a violation referred to in subsection 177(1) or (1.1), every reference to the "Minister" in sections 180.3 to 180.7 shall be read as a reference to the Agency or to a person designated by the Agency.
+  **(1)** In the case of a violation referred to in subsection 177(1) or (3), every reference to the "Minister" in sections 180.3 to 180.7 shall be read as a reference to the Agency or to a person designated by the Agency.
 
 ### Section 184
 
@@ -3209,10 +3116,6 @@ The Agency may publish information about any violation referred to in section 17
   **(4)** Each person to whom powers are delegated under subsection (3) must be provided with a certificate of delegation in a form established by the Agency.
 
 
-> **Explanatory Note**:
-> New.
-
-
 ### `Federal Public Sector Labour Relations Act`
 
 ### Section 185
@@ -3222,10 +3125,6 @@ The `Federal Public Sector Labour Relations Act` is amended by adding the follow
 ### Section 209.1
 
 In addition to his or her rights under section 209, an employee, other than an employee who occupies a managerial or confidential position or who is not otherwise represented by a bargaining agent, may refer to adjudication an individual grievance that has been presented up to and including the final level in the grievance process and that has not been dealt with to the employee's satisfaction if the employee has suffered physical or psychological harm, property damage or economic loss as the result of — or has otherwise been adversely affected by — the contravention of a provision of regulations made under subsection `117`(1) of the `Accessible Canada Act`, and the grievance is related to that contravention.
-
-
-> **Explanatory Note**:
-> New.
 
 ### Section 186
 
@@ -3237,23 +3136,13 @@ The Act is amended by adding the following before section 211:
 
   **(2)** The Accessibility Commissioner has standing in adjudication proceedings for the purpose of making submissions regarding an issue referred to in subsection (1).
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 187
 
 The portion of section 211 of the Act before paragraph (a) is replaced by the following:
 
 ### Section 211
 
-Nothing in section 209 **or 209.1** is to be construed or applied as permitting the referral to adjudication of an individual grievance with respect to
-
-
-> **Explanatory Note**:
-> Relevant portion of section 211:
-> *Existing Text*:
-> > Nothing in section 209 is to be construed or applied as permitting the referral to adjudication of an individual grievance with respect to
+Nothing in section 209 or 209.1 is to be construed or applied as permitting the referral to adjudication of an individual grievance with respect to
 
 ### Section 188
 
@@ -3261,13 +3150,7 @@ Section 214 of the Act is replaced by the following:
 
 ### Section 214
 
-If an individual grievance has been presented up to and including the final level in the grievance process and it is not one that under section 209, **209.1** or 238.25 may be referred to adjudication, the decision on the grievance taken at the final level in the grievance process is final and binding for all purposes of this Act and no further action under this Act may be taken on it.
-
-
-> **Explanatory Note**:
-> Existing text of section 214:
-> *Existing Text*:
-> > If an individual grievance has been presented up to and including the final level in the grievance process and it is not one that under section 209 or 238.25 may be referred to adjudication, the decision on the grievance taken at the final level in the grievance process is final and binding for all purposes of this Act and no further action under this Act may be taken on it.
+If an individual grievance has been presented up to and including the final level in the grievance process and it is not one that under section 209, 209.1 or 238.25 may be referred to adjudication, the decision on the grievance taken at the final level in the grievance process is final and binding for all purposes of this Act and no further action under this Act may be taken on it.
 
 ### Section 189
 
@@ -3279,10 +3162,6 @@ The Act is amended by adding the following before section 218:
 
   **(2)** The Accessibility Commissioner has standing in adjudication proceedings for the purpose of making submissions regarding an issue referred to in subsection (1).
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 190
 
 The Act is amended by adding the following before section 223:
@@ -3292,10 +3171,6 @@ The Act is amended by adding the following before section 223:
   **(1)** When a policy grievance has been referred to adjudication and a party to the grievance raises an issue involving the contravention of a provision of regulations made under subsection `117`(1) of the `Accessible Canada Act`, that party must, in accordance with the regulations, give notice of the issue to the Accessibility Commissioner, as defined in section `2` of that Act.
 
   **(2)** The Accessibility Commissioner has standing in adjudication proceedings for the purpose of making submissions regarding an issue referred to in subsection (1).
-
-
-> **Explanatory Note**:
-> New.
 
 ### Section 191
 
@@ -3313,33 +3188,17 @@ Subsection 237(1) of the Act is amended by adding the following after paragraph 
 
 the manner of giving notice of an issue to the Accessibility Commissioner under this Part;
 
-
-> **Explanatory Note**:
-> Relevant portion of subsection 237(1):
-> *Existing Text*:
-> > The Board may make regulations respecting the processes for dealing with grievances, including regulations concerning
-
 ### Section 193
 
 Subsection 238.02(2) of the Act is replaced by the following:
 
-**(2)** Without limiting the generality of subsection (1), section 58, subsections 208(1) and 209(1) and (2) **and section 209.1** are inconsistent with this Part.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 238.02(2):
-> *Existing Text*:
-> > Without limiting the generality of subsection (1), section 58 and subsections 208(1) and 209(1) and (2) are inconsistent with this Part.
+**(2)** Without limiting the generality of subsection (1), section 58, subsections 208(1) and 209(1) and (2) and section 209.1 are inconsistent with this Part.
 
 ### Section 194
 
 Section 238.25 of the Act is amended by adding the following after subsection (2):
 
 **(3)** If a grievance referred to in subsection (1) is related to the contravention of a provision of regulations made under subsection `117`(1) of the `Accessible Canada Act`, an employee who is an RCMP member may refer the grievance to adjudication only if the employee has suffered physical or psychological harm, property damage or economic loss as a result of — or has otherwise been adversely affected by — the contravention.
-
-
-> **Explanatory Note**:
-> New.
 
 
 ### `Public Service Employment Act`
@@ -3356,10 +3215,6 @@ Section 65 of the `Public Service Employment Act` is amended by adding the follo
 
 **(12)** Corrective action may include an order for relief in accordance with section `102` of the `Accessible Canada Act`.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 196
 
 The Act is amended by adding the following after section 78:
@@ -3368,19 +3223,11 @@ The Act is amended by adding the following after section 78:
 
 If a complaint raises an issue involving the contravention of a provision of regulations made under subsection `117`(1) of the `Accessible Canada Act`, the complainant shall, in accordance with the regulations of the Board, notify the Accessibility Commissioner, as defined in section `2` of that Act.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 197
 
 Section 79 of the Act is amended by adding the following after subsection (2):
 
 **(3)** If the Accessibility Commissioner is notified of an issue under section 78.1, he or she may make submissions to the Board with respect to that issue.
-
-
-> **Explanatory Note**:
-> New.
 
 ### Section 198
 
@@ -3390,31 +3237,17 @@ The Act is amended by adding the following after section 80:
 
 In considering whether a complaint under section 77 is substantiated, the Board may interpret and apply the `Accessible Canada Act`.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 199
 
 Section 81 of the Act is amended by adding the following after subsection (2):
 
 **(3)** Corrective action taken under subsection (1) may include an order for relief in accordance with section `102` of the `Accessible Canada Act`.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 200
 
 Section 109 of the Act is amended by striking out "and" at the end of paragraph (d) and by adding the following after that paragraph:
 
 the manner of giving notice of an issue to the Accessibility Commissioner under subsection 65(9) or section 78.1; and
-
-
-> **Explanatory Note**:
-> Relevant portion of section 109:
-> *Existing Text*:
-> > The Board may make regulations respecting
 
 
 ## Consequential and Coordinating Amendments
