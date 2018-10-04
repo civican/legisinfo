@@ -55,13 +55,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
   **(3)** The definition **provincial child support service** in subsection 2(1) of the Act is replaced by the following:
 
-    **provincial child support service** means any service, agency or body designated in an agreement with a province under subsection **25.01(1) or** 25.1(1); (**service provincial des aliments pour enfants**)
+    **provincial child support service** means any service, agency or body designated in an agreement with a province under subsection 25.01(1) or 25.1(1); (**service provincial des aliments pour enfants**)
 
   **(4)** The definitions **corollary relief proceeding**, **divorce proceeding** and **spouse** in subsection 2(1) of the Act are replaced by the following:
 
-    **corollary relief proceeding** means a proceeding in a court in which either or both former spouses seek a child support order, a spousal support order or a **parenting** order; (**action en mesures accessoires**)
+    **corollary relief proceeding** means a proceeding in a court in which either or both former spouses seek a child support order, a spousal support order or a parenting order; (**action en mesures accessoires**)
 
-    **divorce proceeding** means a proceeding in a court in which either or both spouses seek a divorce alone or together with a child support order, a spousal support order or a **parenting** order; (**action en divorce**)
+    **divorce proceeding** means a proceeding in a court in which either or both spouses seek a divorce alone or together with a child support order, a spousal support order or a parenting order; (**action en divorce**)
 
     **spouse** includes, in subsection 6(1) and sections 15.1 to 16.96, 21.1, 25.01 and 25.1, a former spouse; (**époux**)
 
@@ -71,7 +71,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
   **(6)** Paragraph (a) of the definition **applicable guidelines** in subsection 2(1) of the Act is replaced by the following:
 
-    **if** both spouses or former spouses are **habitually** resident in the same province at the time an application is made for a child support order or **for** a variation order in respect of a child support order or the amount of a child support is to be **calculated or** recalculated **under** section **25.01 or** 25.1, and that province has been designated by an order made under subsection (5), the laws of the province specified in the order, and
+    if both spouses or former spouses are habitually resident in the same province at the time an application is made for a child support order or for a variation order in respect of a child support order or the amount of a child support is to be calculated or recalculated under section 25.01 or 25.1, and that province has been designated by an order made under subsection (5), the laws of the province specified in the order, and
 
   **(7)** Subsection 2(1) of the Act is amended by adding the following in alphabetical order:
 
@@ -89,11 +89,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
     significant extra-curricular activities; (**responsabilités décisionnelles**)
 
-    **family dispute resolution process** means a process outside of court that is used by parties to a family law dispute to attempt to resolve any matters in dispute, including negotiation, mediation and collaborative law; (**mécanisme de règlement des différends familiaux**)
+    **family dispute resolution process** means a process outside of court that is used by parties to a family law dispute to attempt to resolve any matters in dispute, including negotiation, mediation and collaborative law; (**mécanisme de règlement des différends familiaux**)
 
     **family justice services** means public or private services intended to help persons deal with issues arising from separation or divorce; (**services de justice familiale**)
 
-    **family member** includes a member of the household of a child of the marriage or of a spouse or former spouse as well as a dating partner of a spouse or former spouse who participates in the activities of the household; (**membre de la famille**)
+    **family member** includes a member of the household of a child of the marriage or of a spouse or former spouse as well as a dating partner of a spouse or former spouse who participates in the activities of the household; (**membre de la famille**)
 
     **family violence** means any conduct, whether or not the conduct constitutes a criminal offence, by a family member towards another family member, that is violent or threatening or that constitutes a pattern of coercive and controlling behaviour or that causes that other family member to fear for their own safety or for that of another person — and in the case of a child, the direct or indirect exposure to such conduct — and includes
 
@@ -133,9 +133,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 Subsections 3(2) and (3) of the Act are replaced by the following:
 
-**(2)** **If** divorce proceedings between the same spouses are pending in two courts that would otherwise have jurisdiction under subsection (1) and were commenced on different days, and the proceeding that was commenced first is not discontinued, the court in which a divorce proceeding was commenced first has exclusive jurisdiction to hear and determine any divorce proceeding then pending between the spouses and the second divorce proceeding **is** deemed to be discontinued.
+**(2)** If divorce proceedings between the same spouses are pending in two courts that would otherwise have jurisdiction under subsection (1) and were commenced on different days, and the proceeding that was commenced first is not discontinued, the court in which a divorce proceeding was commenced first has exclusive jurisdiction to hear and determine any divorce proceeding then pending between the spouses and the second divorce proceeding is deemed to be discontinued.
 
-**(3)** **If** divorce proceedings between the same spouses are pending in two courts that would otherwise have jurisdiction under subsection (1) and were commenced on the same day, and neither proceeding is discontinued within **40** days after it was commenced, the Federal Court **shall, on application by either or both spouses, determine which court retains jurisdiction by applying the following rules**:
+**(3)** If divorce proceedings between the same spouses are pending in two courts that would otherwise have jurisdiction under subsection (1) and were commenced on the same day, and neither proceeding is discontinued within 40 days after it was commenced, the Federal Court shall, on application by either or both spouses, determine which court retains jurisdiction by applying the following rules:
 
   if at least one of the proceedings includes an application for a parenting order, the court that retains jurisdiction is the court in the province in which the child is habitually resident;
 
@@ -143,20 +143,13 @@ Subsections 3(2) and (3) of the Act are replaced by the following:
 
   in any other case, the court that retains jurisdiction is the court that the Federal Court determines to be the most appropriate.
 
-
-> **Explanatory Note**:
-> Existing text of subsections 3(2) and (3):
-> *Existing Text*:
-> > Where divorce proceedings between the same spouses are pending in two courts that would otherwise have jurisdiction under subsection (1) and were commenced on different days and the proceeding that was commenced first is not discontinued within thirty days after it was commenced, the court in which a divorce proceeding was commenced first has exclusive jurisdiction to hear and determine any divorce proceeding then pending between the spouses and the second divorce proceeding shall be deemed to be discontinued.
-> > Where divorce proceedings between the same spouses are pending in two courts that would otherwise have jurisdiction under subsection (1) and were commenced on the same day and neither proceeding is discontinued within thirty days after it was commenced, the Federal Court has exclusive jurisdiction to hear and determine any divorce proceeding then pending between the spouses and the divorce proceedings in those courts shall be transferred to the Federal Court on the direction of that Court.
-
 ### Section 3
 
 Subsections 4(2) and (3) of the Act are replaced by the following:
 
-**(2)** **If** corollary relief proceedings between the same former spouses and in respect of the same matter are pending in two courts that would otherwise have jurisdiction under subsection (1) and were commenced on different days, and the proceeding that was commenced first is not discontinued, the court in which a corollary relief proceeding was commenced first has exclusive jurisdiction to hear and determine any corollary relief proceeding then pending between the former spouses in respect of that matter and the second corollary relief proceeding **is** deemed to be discontinued.
+**(2)** If corollary relief proceedings between the same former spouses and in respect of the same matter are pending in two courts that would otherwise have jurisdiction under subsection (1) and were commenced on different days, and the proceeding that was commenced first is not discontinued, the court in which a corollary relief proceeding was commenced first has exclusive jurisdiction to hear and determine any corollary relief proceeding then pending between the former spouses in respect of that matter and the second corollary relief proceeding is deemed to be discontinued.
 
-**(3)** **If** corollary relief proceedings between the same former spouses and in respect of the same matter are pending in two courts that would otherwise have jurisdiction under subsection (1) and were commenced on the same day, and neither proceeding is discontinued within **40** days after it was commenced, the Federal Court **shall, on application by either or both former spouses**, determine **which court retains** jurisdiction **by applying the following rules**:
+**(3)** If corollary relief proceedings between the same former spouses and in respect of the same matter are pending in two courts that would otherwise have jurisdiction under subsection (1) and were commenced on the same day, and neither proceeding is discontinued within 40 days after it was commenced, the Federal Court shall, on application by either or both former spouses, determine which court retains jurisdiction by applying the following rules:
 
   if at least one of the proceedings includes an application for a parenting order, the court that retains jurisdiction is the court in the province in which the child is habitually resident;
 
@@ -164,20 +157,13 @@ Subsections 4(2) and (3) of the Act are replaced by the following:
 
   in any other case, the court that retains jurisdiction is the court that the Federal Court determines to be the most appropriate.
 
-
-> **Explanatory Note**:
-> Existing text of subsections 4(2) and (3):
-> *Existing Text*:
-> > Where corollary relief proceedings between the same former spouses and in respect of the same matter are pending in two courts that would otherwise have jurisdiction under subsection (1) and were commenced on different days and the proceeding that was commenced first is not discontinued within thirty days after it was commenced, the court in which a corollary relief proceeding was commenced first has exclusive jurisdiction to hear and determine any corollary relief proceeding then pending between the former spouses in respect of that matter and the second corollary relief proceeding shall be deemed to be discontinued.
-> > Where proceedings between the same former spouses and in respect of the same matter are pending in two courts that would otherwise have jurisdiction under subsection (1) and were commenced on the same day and neither proceeding is discontinued within thirty days after it was commenced, the Federal Court has exclusive jurisdiction to hear and determine any corollary relief proceeding then pending between the former spouses in respect of that matter and the corollary relief proceedings in those courts shall be transferred to the Federal Court on the direction of that Court.
-
 ### Section 4
 
 Subsections 5(2) and (3) of the Act are replaced by the following:
 
-**(2)** **If** variation proceedings between the same former spouses and in respect of the same matter are pending in two courts that would otherwise have jurisdiction under subsection (1) and were commenced on different days, and the proceeding that was commenced first is not discontinued, the court in which a variation proceeding was commenced first has exclusive jurisdiction to hear and determine any variation proceeding then pending between the former spouses in respect of that matter and the second variation proceeding **is** deemed to be discontinued.
+**(2)** If variation proceedings between the same former spouses and in respect of the same matter are pending in two courts that would otherwise have jurisdiction under subsection (1) and were commenced on different days, and the proceeding that was commenced first is not discontinued, the court in which a variation proceeding was commenced first has exclusive jurisdiction to hear and determine any variation proceeding then pending between the former spouses in respect of that matter and the second variation proceeding is deemed to be discontinued.
 
-**(3)** **If** variation proceedings between the same former spouses and in respect of the same matter are pending in two courts that would otherwise have jurisdiction under subsection (1) and were commenced on the same day, and neither proceeding is discontinued within **40** days after it was commenced, the Federal Court **shall, on application by either or both former spouses**, determine **which court retains** jurisdiction **by applying the following rules**:
+**(3)** If variation proceedings between the same former spouses and in respect of the same matter are pending in two courts that would otherwise have jurisdiction under subsection (1) and were commenced on the same day, and neither proceeding is discontinued within 40 days after it was commenced, the Federal Court shall, on application by either or both former spouses, determine which court retains jurisdiction by applying the following rules:
 
   if at least one of the proceedings includes an application for a variation order in respect of a parenting order, the court that retains jurisdiction is the court in the province in which the child is habitually resident;
 
@@ -185,30 +171,15 @@ Subsections 5(2) and (3) of the Act are replaced by the following:
 
   in any other case, the court that retains jurisdiction is the court that the Federal Court determines to be the most appropriate.
 
-
-> **Explanatory Note**:
-> Existing text of subsections 5(2) and (3):
-> *Existing Text*:
-> > Where variation proceedings between the same former spouses and in respect of the same matter are pending in two courts that would otherwise have jurisdiction under subsection (1) and were commenced on different days and the proceeding that was commenced first is not discontinued within thirty days after it was commenced, the court in which a variation proceeding was commenced first has exclusive jurisdiction to hear and determine any variation proceeding then pending between the former spouses in respect of that matter and the second variation proceeding shall be deemed to be discontinued.
-> > Where variation proceedings between the same former spouses and in respect of the same matter are pending in two courts that would otherwise have jurisdiction under subsection (1) and were commenced on the same day and neither proceeding is discontinued within thirty days after it was commenced, the Federal Court has exclusive jurisdiction to hear and determine any variation proceeding then pending between the former spouses in respect of that matter and the variation proceedings in those courts shall be transferred to the Federal Court on the direction of that Court.
-
 ### Section 5
 
 Subsections 6(1) to (3) of the Act are replaced by the following:
 
 ### Section 6
 
-  **(1)** **If** an application for an order under section **16.1** is made in a divorce proceeding **or corollary relief proceeding** to a court in a province and the child of the marriage in respect of whom the order is sought is **habitually resident in** another province, the court may, on application by a spouse or on its own motion, transfer the proceeding to a court in that other province.
+  **(1)** If an application for an order under section 16.1 is made in a divorce proceeding or corollary relief proceeding to a court in a province and the child of the marriage in respect of whom the order is sought is habitually resident in another province, the court may, on application by a spouse or on its own motion, transfer the proceeding to a court in that other province.
 
-  **(2)** **If** an application for a variation order in respect of a **parenting** order is made in a variation proceeding to a court in a province and the child of the marriage in respect of whom the variation order is sought is **habitually resident in** another province, the court may, on application by a former spouse or on its own motion, transfer the variation proceeding to a court in that other province.
-
-
-> **Explanatory Note**:
-> Existing text of subsections 6(1) to (3):
-> *Existing Text*:
-> > Where an application for an order under section 16 is made in a divorce proceeding to a court in a province and is opposed and the child of the marriage in respect of whom the order is sought is most substantially connected with another province, the court may, on application by a spouse or on its own motion, transfer the divorce proceeding to a court in that other province.
-> > Where an application for an order under section 16 is made in a corollary relief proceeding to a court in a province and is opposed and the child of the marriage in respect of whom the order is sought is most substantially connected with another province, the court may, on application by a former spouse or on its own motion, transfer the corollary relief proceeding to a court in that other province.
-> > Where an application for a variation order in respect of a custody order is made in a variation proceeding to a court in a province and is opposed and the child of the marriage in respect of whom the variation order is sought is most substantially connected with another province, the court may, on application by a former spouse or on its own motion, transfer the variation proceeding to a court in that other province.
+  **(2)** If an application for a variation order in respect of a parenting order is made in a variation proceeding to a court in a province and the child of the marriage in respect of whom the variation order is sought is habitually resident in another province, the court may, on application by a former spouse or on its own motion, transfer the variation proceeding to a court in that other province.
 
 ### Section 6
 
@@ -253,10 +224,6 @@ The Act is amended by adding the following after section 6:
     the importance of avoiding a multiplicity of proceedings and inconsistent decisions; and
 
     the importance of discouraging child abduction.
-
-
-> **Explanatory Note**:
-> New.
 
 ### Section 7
 
@@ -321,7 +288,7 @@ Every document that formally commences a proceeding under this Act, or that resp
 
     in complying with any order or decision made under this Act; and
 
-    to inform the person of their duties under this Act.
+    to inform the person of **the parties'** duties under this Act.
 
   **(3)** Every document that formally commences a proceeding under this Act, or that responds to such a document, that is filed with a court by a legal adviser shall contain a statement by the legal adviser certifying that they have complied with this section.
 
@@ -360,46 +327,19 @@ Every document that formally commences a proceeding under this Act, or that resp
 
     engaging in family violence.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 9
 
 Section 9 of the Act is repealed.
-
-
-> **Explanatory Note**:
-> Existing text of section 9:
-> *Existing Text*:
-> > It is the duty of every barrister, solicitor, lawyer or advocate who undertakes to act on behalf of a spouse in a divorce proceeding
-> > to draw to the attention of the spouse the provisions of this Act that have as their object the reconciliation of spouses, and
-> > to discuss with the spouse the possibility of the reconciliation of the spouses and to inform the spouse of the marriage counselling or guidance facilities known to him or her that might be able to assist the spouses to achieve a reconciliation,
-> > unless the circumstances of the case are of such a nature that it would clearly not be appropriate to do so.
-> > It is the duty of every barrister, solicitor, lawyer or advocate who undertakes to act on behalf of a spouse in a divorce proceeding to discuss with the spouse the advisability of negotiating the matters that may be the subject of a support order or a custody order and to inform the spouse of the mediation facilities known to him or her that might be able to assist the spouses in negotiating those matters.
-> > Every document presented to a court by a barrister, solicitor, lawyer or advocate that formally commences a divorce proceeding shall contain a statement by him or her certifying that he or she has complied with this section.
 
 ### Section 10
 
 Subsection 11(4) of the Act is replaced by the following:
 
-**(4)** In this section, **collusion** means an agreement or conspiracy to which an applicant for a divorce is either directly or indirectly a party for the purpose of subverting the administration of justice, and includes any agreement, understanding or arrangement to fabricate or suppress evidence or to deceive the court, but does not include an agreement to the extent that it provides for separation between the parties, financial support, division of property or the **exercise of parenting time or decision-making responsibility**.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 11(4):
-> *Existing Text*:
-> > In this section, **collusion** means an agreement or conspiracy to which an applicant for a divorce is either directly or indirectly a party for the purpose of subverting the administration of justice, and includes any agreement, understanding or arrangement to fabricate or suppress evidence or to deceive the court, but does not include an agreement to the extent that it provides for separation between the parties, financial support, division of property or the custody of any child of the marriage.
+**(4)** In this section, **collusion** means an agreement or conspiracy to which an applicant for a divorce is either directly or indirectly a party for the purpose of subverting the administration of justice, and includes any agreement, understanding or arrangement to fabricate or suppress evidence or to deceive the court, but does not include an agreement to the extent that it provides for separation between the parties, financial support, division of property or the exercise of parenting time or decision-making responsibility.
 
 ### Section 11
 
 Section 15 of the Act and the heading "Interpretation" before it are repealed.
-
-
-> **Explanatory Note**:
-> Existing text of the heading and section 15:
-> *Existing Text*:
-> > In sections 15.1 to 16, **spouse** has the meaning assigned by subsection 2(1), and includes a former spouse.
 
 ### Section 12
 
@@ -424,7 +364,7 @@ Section 16 of the Act and the heading before it are replaced by the following:
 
     the history of care of the child;
 
-    the child's views and preferences, by giving due weight to the child's age and maturity, unless they cannot be ascertained;
+    the child's views and preferences, giving due weight to the child's age and maturity, unless they cannot be ascertained;
 
     the child's cultural, linguistic, religious and spiritual upbringing and heritage, including Indigenous upbringing and heritage;
 
@@ -462,7 +402,9 @@ Section 16 of the Act and the heading before it are replaced by the following:
 
   **(5)** In determining what is in the best interests of the child, the court shall not take into consideration the past conduct of any person unless the conduct is relevant to the exercise of their parenting time, decision-making responsibility or contact with the child under a contact order.
 
-  **(6)** In this section, a parenting order includes an interim parenting order and a variation order in respect of a parenting order, and a contact order includes an interim contact order and a variation order in respect of a contact order.
+  **(6)** In allocating parenting time, the court shall give effect to the principle that a child should have as much time with each spouse as is consistent with the best interests of the child.
+
+  ****(7)**** In this section, a parenting order includes an interim parenting order and a variation order in respect of a parenting order, and a contact order includes an interim contact order and a variation order in respect of a contact order.
 
 
 ### Parenting Orders
@@ -501,11 +443,9 @@ Section 16 of the Act and the heading before it are replaced by the following:
 
 ### Section 16.2
 
-  **(1)** In allocating parenting time under paragraph 16.1(4)(a), the court shall give effect to the principle that a child should have as much time with each spouse as is consistent with the best interests of the child.
+  **(1)** Parenting time may be allocated by way of a schedule.
 
-  **(2)** Parenting time may be allocated by way of a schedule.
-
-  **(3)** Unless the court orders otherwise, a person to whom parenting time is allocated under paragraph 16.1(4)(a) has exclusive authority to make, during that time, day-to-day decisions affecting the child.
+  **(2)** Unless the court orders otherwise, a person to whom parenting time is allocated under paragraph 16.1(4)(a) has exclusive authority to make, during that time, day-to-day decisions affecting the child.
 
 ### Section 16.3
 
@@ -570,34 +510,54 @@ Section 16.8 does not apply to a change in the place of residence that is a relo
 
   **(3)** Despite subsections (1) and (2), the court may, on application, provide that the requirements in those subsections do not apply or may modify them, including where there is a risk of family violence.
 
+  **(4)** An application referred to in subsection (3) may be made without notice to any other party.
+
 
 ### Relocation
 
 ### Section 16.9
 
-  **(1)** A person who has parenting time or decision-making responsibility in respect of a child of the marriage and who intends to undertake a relocation shall notify any other person who has parenting time, decision-making responsibility or contact under a contact order in respect of that child of their intention.
+  **(1)** A person who has parenting time or decision-making responsibility in respect of a child of the marriage and who intends to undertake a relocation shall notify, **at least 60 days before the expected date of the proposed relocation and in the form prescribed by the regulations**, any other person who has parenting time, decision-making responsibility or contact under a contact order in respect of that child of their intention.
 
-  **(2)** The notice must be given in writing at least 60 days before the expected date of the proposed relocation and must set out
+  **(2)** The notice must set out
 
     the expected date of the relocation;
 
-    the address of the new place of residence and contact information of the person or child, as the case may be; and
+    the address of the new place of residence and contact information of the person or child, as the case may be;
 
-    a proposal as to how parenting time, decision-making responsibility or contact, as the case may be, could be exercised.
+    a proposal as to how parenting time, decision-making responsibility or contact, as the case may be, could be exercised; and
 
-  **(3)** Despite subsections (1) and (2), the court may, on application, provide that the requirements in those subsections do not apply or may modify them, including where there is a risk of family violence.
+    any other information prescribed by the regulations.
+
+  **(3)** Despite subsections (1) and (2), the court may, on application, provide that the requirements in those subsections, **or in the regulations made for the purposes of those subsections**, do not apply or may modify them, including where there is a risk of family violence.
+
+  **(4)** An application referred to in subsection (3) may be made without notice to any other party.
 
 ### Section 16.91
 
-A person who has given notice under section 16.9 and who intends to relocate a child may do so as of the date referred to in the notice if
+  ****(1)**** A person who has given notice under section 16.9 and who intends to relocate a child may do so as of the date referred to in the notice if
 
-the relocation is authorized by a court; or
+    the relocation is authorized by a court; or
 
-the following conditions are satisfied:
+    the following conditions are satisfied:
 
-the person with parenting time or decision-making responsibility in respect of the child who has received a notice under subsection 16.9(1) does not object, by application under subsection 16.1(1) or paragraph 17(1)(b), to the relocation within 30 days after the day on which the notice is received, and
+    the person with parenting time or decision-making responsibility in respect of the child who has received a notice under subsection 16.9(1) does not object to the relocation within 30 days after the day on which the notice is received, by **setting out their objection in**
 
-there is no order prohibiting the relocation.
+    a form prescribed by the regulations, or
+
+    **an** application **made** under subsection 16.1(1) or paragraph 17(1)(b), and
+
+    there is no order prohibiting the relocation.
+
+  **(2)** The form must set out
+
+    a statement that the person objects to the proposed relocation;
+
+    the reasons for the objection;
+
+    the person's views on the proposal for the exercise of parenting time, decision-making responsibility or contact, as the case may be, that is set out in the notice referred to in subsection 16.9(1); and
+
+    any other information prescribed by the regulations.
 
 ### Section 16.92
 
@@ -617,7 +577,7 @@ there is no order prohibiting the relocation.
 
     whether each person who has parenting time or decision-making responsibility or a pending application for a parenting order has complied with their obligations under family law legislation, an order, arbitral award, or agreement, and the likelihood of future compliance.
 
-  **(2)** In deciding whether to authorize a relocation of the child, the court shall not consider whether the person who intends to relocate the child would relocate without the child if the child's relocation was prohibited.
+  **(2)** In deciding whether to authorize a relocation of the child, the court shall not consider, if the child's relocation was prohibited, whether the person who intends to relocate the child would relocate without the child **or not relocate**.
 
 ### Section 16.93
 
@@ -639,24 +599,11 @@ If a court authorizes the relocation of a child of the marriage, it may provide 
 
   **(1)** A person who has contact with a child of the marriage under a contact order shall notify, in writing, any person with parenting time or decision-making responsibility in respect of that child of their intention to change their place of residence, the date on which the change is expected to occur, the address of their new place of residence and their contact information.
 
-  **(2)** If the change is likely to have a significant impact on the child's relationship with the person, the notice shall be given at least 60 days before the change in place of residence and shall set out, in addition to the information required in subsection (1), a proposal as to how contact could be exercised in light of the change.
+  **(2)** If the change is likely to have a significant impact on the child's relationship with the person, the notice shall be given at least 60 days before the change in place of residence, **in the form prescribed by the regulations**, and shall set out, in addition to the information required in subsection (1), a proposal as to how contact could be exercised in light of the change **and any other information prescribed by the regulations**.
 
-  **(3)** Despite subsections (1) and (2), the court may, on application, order that the requirements in those subsections do not apply or modify them if the court is of the opinion that it is appropriate to do so, including where there is a risk of family violence.
+  **(3)** Despite subsections (1) and (2), the court may, on application, order that the requirements in those subsections, **or in the regulations made for the purposes of those subsections**, do not apply or modify them, if the court is of the opinion that it is appropriate to do so, including where there is a risk of family violence.
 
-
-> **Explanatory Note**:
-> Existing text of the heading and section 16:
-> *Existing Text*:
-> > A court of competent jurisdiction may, on application by either or both spouses or by any other person, make an order respecting the custody of or the access to, or the custody of and access to, any or all children of the marriage.
-> > Where an application is made under subsection (1), the court may, on application by either or both spouses or by any other person, make an interim order respecting the custody of or the access to, or the custody of and access to, any or all children of the marriage pending determination of the application under subsection (1).
-> > A person, other than a spouse, may not make an application under subsection (1) or (2) without leave of the court.
-> > The court may make an order under this section granting custody of, or access to, any or all children of the marriage to any one or more persons.
-> > Unless the court orders otherwise, a spouse who is granted access to a child of the marriage has the right to make inquiries, and to be given information, as to the health, education and welfare of the child.
-> > The court may make an order under this section for a definite or indefinite period or until the happening of a specified event and may impose such other terms, conditions or restrictions in connection therewith as it thinks fit and just.
-> > Without limiting the generality of subsection (6), the court may include in an order under this section a term requiring any person who has custody of a child of the marriage and who intends to change the place of residence of that child to notify, at least thirty days before the change or within such other period before the change as the court may specify, any person who is granted access to that child of the change, the time at which the change will be made and the new place of residence of the child.
-> > In making an order under this section, the court shall take into consideration only the best interests of the child of the marriage as determined by reference to the condition, means, needs and other circumstances of the child.
-> > In making an order under this section, the court shall not take into consideration the past conduct of any person unless the conduct is relevant to the ability of that person to act as a parent of a child.
-> > In making an order under this section, the court shall give effect to the principle that a child of the marriage should have as much contact with each spouse as is consistent with the best interests of the child and, for that purpose, shall take into consideration the willingness of the person for whom custody is sought to facilitate such contact.
+  **(4)** An application referred to in subsection (3) may be made without notice to any other party.
 
 ### Section 13
 
@@ -666,29 +613,29 @@ If a court authorizes the relocation of a child of the marriage, it may provide 
 
       **(1)** A court of competent jurisdiction may make an order varying, rescinding or suspending, retroactively or prospectively,
 
-        a support order or any provision **of one**, on application by either or both former spouses;
+        a support order or any provision of one, on application by either or both former spouses;
 
-        a **parenting** order or any provision **of one**, on application by
+        a parenting order or any provision of one, on application by
 
-        either or both former spouses, **or**
+        either or both former spouses, or
 
         a person, other than a former spouse, who is a parent of the child, stands in the place of a parent or intends to stand in the place of a parent; or
 
         a contact order or any provision of one, on application by a person to whom the order relates.
 
-      **(2)** A person **to whom the parenting order in question does not relate** may make an application under **subparagraph** (1)(b)**(ii) only with** leave of the court.
+      **(2)** A person to whom the parenting order in question does not relate may make an application under subparagraph (1)(b)(ii) only with leave of the court.
 
       **(2.1)** If the court makes a variation order in respect of a contact order, it may make an order varying the parenting order to take into account that variation order, and subsections (3) and (11) apply as a consequence with any necessary modifications.
 
       **(2.2)** If the court makes a variation order in respect of a parenting order, it may make an order varying any contact order to take into account that variation order, and subsections (3) and (11) apply as a consequence with any necessary modifications.
 
-      **(3)** The court may include in a variation order any provision that under this Act could have been included in the order in respect of which the variation order is sought, **and the court has the same powers and obligations that it would have when making that order**.
+      **(3)** The court may include in a variation order any provision that under this Act could have been included in the order in respect of which the variation order is sought, and the court has the same powers and obligations that it would have when making that order.
 
   **(2)** Subsections 17(5) and (5.1) of the Act are replaced by the following:
 
-    **(5)** Before the court makes a variation order in respect of a **parenting** order **or contact order**, the court shall satisfy itself that there has been a change in the circumstances of the child since the making of the order **or** the last variation order made in respect of **the** order, **or of an order made under subsection 16.5(9)**.
+    **(5)** Before the court makes a variation order in respect of a parenting order or contact order, the court shall satisfy itself that there has been a change in the circumstances of the child since the making of the order or the last variation order made in respect of the order, or of an order made under subsection 16.5(9).
 
-    **(5.1)** For the purposes of subsection (5), a former spouse's terminal illness or critical condition shall be considered a change **in the** circumstances of the child, and the court shall make a variation order in respect of **a parenting order with regard to the allocation of parenting time**.
+    **(5.1)** For the purposes of subsection (5), a former spouse's terminal illness or critical condition shall be considered a change in the circumstances of the child, and the court shall make a variation order in respect of a parenting order with regard to the allocation of parenting time.
 
     **(5.2)** The relocation of a child is deemed to constitute a change in the circumstances of the child for the purposes of subsection (5).
 
@@ -702,7 +649,7 @@ If a court authorizes the relocation of a child of the marriage, it may provide 
 
   **(5)** Subsection 17(11) of the Act is replaced by the following:
 
-    **(11)** Where a court makes a variation order in respect of a support order, **parenting** order or **contact order** made by another court, it shall send a copy of the variation order, certified by a judge or officer of the court, to that other court.
+    **(11)** Where a court makes a variation order in respect of a support order, parenting order or contact order made by another court, it shall send a copy of the variation order, certified by a judge or officer of the court, to that other court.
 
 ### Section 14
 
@@ -722,7 +669,7 @@ The following definitions apply in this section and in sections 18.1 to 19.1.
 
 **designated authority** means a person or entity that is designated by a province to exercise the powers or perform the duties and functions set out in sections 18.1 to 19.1 within the province. (**autorité désignée**)
 
-**designated jurisdiction** means a jurisdiction outside Canada — whether a country or a political subdivision of a country — that is designated under an Act that relates to the reciprocal enforcement of orders relating to support, of the province in which either of the former spouses reside. (**État désigné**)
+**designated jurisdiction** means a jurisdiction outside Canada — whether a country or a political subdivision of a country — that is designated under an Act that relates to the reciprocal enforcement of orders relating to support, of the province in which either of the former spouses **resides**. (**État désigné**)
 
 **responsible authority** means a person or entity that, in a designated jurisdiction, performs functions that are similar to those performed by the designated authority under subsection 19(4). (**autorité responsable**)
 
@@ -859,51 +806,6 @@ The following definitions apply in this section and in sections 18.1 to 19.1.
 
 ### Legal Effect, Enforcement, Compliance and Assignment
 
-
-> **Explanatory Note**:
-> Existing text of sections 17.1 to 19:
-> *Existing Text*:
-> > Where both former spouses are ordinarily resident in different provinces, a court of competent jurisdiction may, in accordance with any applicable rules of the court, make a variation order pursuant to subsection 17(1) on the basis of the submissions of the former spouses, whether presented orally before the court or by means of affidavits or any means of telecommunication, if both former spouses consent thereto.
-> > In this section and section 19,
-> > **Attorney General**, in respect of a province, means
-> > for Yukon, the member of the Executive Council of Yukon designated by the Commissioner of Yukon,
-> > for the Northwest Territories, the member of the Executive Council of the Northwest Territories designated by the Commissioner of the Northwest Territories,
-> > for Nunavut, the member of the Executive Council of Nunavut designated by the Commissioner of Nunavut, and
-> > for the other provinces, the Attorney General of the province,
-> > and includes any person authorized in writing by the member or Attorney General to act for the member or Attorney General in the performance of a function under this section or section 19;
-> > **provisional order** means an order made pursuant to subsection (2).
-> > Notwithstanding paragraph 5(1)(a) and subsection 17(1), where an application is made to a court in a province for a variation order in respect of a support order and
-> > the respondent in the application is ordinarily resident in another province and has not accepted the jurisdiction of the court, or both former spouses have not consented to the application of section 17.1 in respect of the matter, and
-> > in the circumstances of the case, the court is satisfied that the issues can be adequately determined by proceeding under this section and section 19,
-> > the court shall make a variation order with or without notice to and in the absence of the respondent, but such order is provisional only and has no legal effect until it is confirmed in a proceeding under section 19 and, where so confirmed, it has legal effect in accordance with the terms of the order confirming it.
-> > Where a court in a province makes a provisional order, it shall send to the Attorney General for the province
-> > three copies of the provisional order certified by a judge or officer of the court;
-> > a certified or sworn document setting out or summarizing the evidence given to the court; and
-> > a statement giving any available information respecting the identification, location, income and assets of the respondent.
-> > On receipt of the documents referred to in subsection (3), the Attorney General shall send the documents to the Attorney General for the province in which the respondent is ordinarily resident.
-> > Where, during a proceeding under section 19, a court in a province remits the matter back for further evidence to the court that made the provisional order, the court that made the order shall, after giving notice to the applicant, receive further evidence.
-> > Where evidence is received under subsection (5), the court that received the evidence shall forward to the court that remitted the matter back a certified or sworn document setting out or summarizing the evidence, together with such recommendations as the court that received the evidence considers appropriate.
-> > On receipt of any documents sent pursuant to subsection 18(4), the Attorney General for the province in which the respondent is ordinarily resident shall send the documents to a court in the province.
-> > Subject to subsection (3), where documents have been sent to a court pursuant to subsection (1), the court shall serve on the respondent a copy of the documents and a notice of a hearing respecting confirmation of the provisional order and shall proceed with the hearing, in the absence of the applicant, taking into consideration the certified or sworn document setting out or summarizing the evidence given to the court that made the provisional order.
-> > Where documents have been sent to a court pursuant to subsection (1) and the respondent apparently is outside the province and is not likely to return, the court shall send the documents to the Attorney General for that province, together with any available information respecting the location and circumstances of the respondent.
-> > On receipt of any documents and information sent pursuant to subsection (3), the Attorney General shall send the documents and information to the Attorney General for the province of the court that made the provisional order.
-> > In a proceeding under this section, the respondent may raise any matter that might have been raised before the court that made the provisional order.
-> > Where, in a proceeding under this section, the respondent satisfies the court that for the purpose of taking further evidence or for any other purpose it is necessary to remit the matter back to the court that made the provisional order, the court may so remit the matter and adjourn the proceeding for that purpose.
-> > Subject to subsection (7.1), at the conclusion of a proceeding under this section, the court shall make an order
-> > confirming the provisional order without variation;
-> > confirming the provisional order with variation; or
-> > refusing confirmation of the provisional order.
-> > A court making an order under subsection (7) in respect of a child support order shall do so in accordance with the applicable guidelines.
-> > The court, before making an order confirming the provisional order with variation or an order refusing confirmation of the provisional order, shall decide whether to remit the matter back for further evidence to the court that made the provisional order.
-> > Where a court remits a matter pursuant to this section in relation to a child support order, the court may, pending the making of an order under subsection (7), make an interim order in accordance with the applicable guidelines requiring a spouse to pay for the support of any or all children of the marriage.
-> > Where a court remits a matter pursuant to this section in relation to a spousal support order, the court may make an interim order requiring a spouse to secure or pay, or to secure and pay, such lump sum or periodic sums, or such lump sum and periodic sums, as the court thinks reasonable for the support of the other spouse, pending the making of an order under subsection (7).
-> > The court may make an order under subsection (9) or (9.1) for a definite or indefinite period or until a specified event occurs, and may impose terms, conditions or restrictions in connection with the order as it thinks fit and just.
-> > Subsections 17(4), (4.1) and (6) to (7) apply, with such modifications as the circumstances require, in respect of an order made under subsection (9) or (9.1) as if it were a variation order referred to in those subsections.
-> > On making an order under subsection (7), the court in a province shall
-> > send a copy of the order, certified by a judge or officer of the court, to the Attorney General for that province, to the court that made the provisional order and, where that court is not the court that made the support order in respect of which the provisional order was made, to the court that made the support order;
-> > where an order is made confirming the provisional order with or without variation, file the order in the court; and
-> > where an order is made confirming the provisional order with variation or refusing confirmation of the provisional order, give written reasons to the Attorney General for that province and to the court that made the provisional order.
-
 ### Section 15
 
   **(1)** Subsection 20(2) of the Act is replaced by the following:
@@ -912,7 +814,7 @@ The following definitions apply in this section and in sections 18.1 to 19.1.
 
   **(2)** The portion of subsection 20(3) of the Act before paragraph (a) is replaced by the following:
 
-    **(3)** An order **or decision** that has legal effect throughout Canada **under** subsection (2) may be
+    **(3)** An order or decision that has legal effect throughout Canada under subsection (2) may be
 
 ### Section 16
 
@@ -922,7 +824,7 @@ The following definitions apply in this section and in sections 18.1 to 19.1.
 
   **(2)** Subsection 20.1(2) of the French version of the Act is replaced by the following:
 
-    **(2)** Le ministre, **le député,** le membre ou l'administration à qui la créance alimentaire octroyée par une ordonnance a été cédée a droit aux **sommes dues** au titre de l'ordonnance et a le droit, dans le cadre **de toute procédure relative** à la modification, l'annulation, la suspension ou l'exécution de l'ordonnance, d'en être avisé ou d'y participer au même titre que la personne qui aurait autrement eu droit à ces **sommes**.
+    **(2)** Le ministre, le député, le membre ou l'administration à qui la créance alimentaire octroyée par une ordonnance a été cédée a droit aux sommes dues au titre de l'ordonnance et a le droit, dans le cadre de toute procédure relative à la modification, l'annulation, la suspension ou l'exécution de l'ordonnance, d'en être avisé ou d'y participer au même titre que la personne qui aurait autrement eu droit à ces sommes.
 
   **(3)** Section 20.1 of the Act is amended by adding the following after subsection (2):
 
@@ -934,28 +836,15 @@ The following definitions apply in this section and in sections 18.1 to 19.1.
 
 Subsection 21.1(1) of the Act is repealed.
 
-
-> **Explanatory Note**:
-> Existing text of subsection 21.1(1):
-> *Existing Text*:
-> > In this section, **spouse** has the meaning assigned by subsection 2(1) and includes a former spouse.
-
 ### Section 18
 
 Subsections 22(1) and (2) of the Act are replaced by the following:
 
 ### Section 22
 
-  **(1)** A divorce granted, on or after the coming into force of this Act, by a **competent** authority shall be recognized for **the purpose** of determining the marital status in Canada of any person, if either former spouse was **habitually** resident in the country or subdivision **of the competent authority** for at least one year immediately preceding the commencement of proceedings for the divorce.
+  **(1)** A divorce granted, on or after the coming into force of this Act, by a competent authority shall be recognized for the purpose of determining the marital status in Canada of any person, if either former spouse was habitually resident in the country or subdivision of the competent authority for at least one year immediately preceding the commencement of proceedings for the divorce.
 
-  **(2)** A divorce granted after July 1, 1968 by a **competent** authority, on the basis of the domicile of the wife in the country or subdivision **of the competent authority**, determined as if she were unmarried and, if she was a minor, as if she had attained the age of majority, shall be recognized for **the purpose** of determining the marital status in Canada of any person.
-
-
-> **Explanatory Note**:
-> Existing text of subsections 22(1) and (2):
-> *Existing Text*:
-> > A divorce granted, on or after the coming into force of this Act, pursuant to a law of a country or subdivision of a country other than Canada by a tribunal or other authority having jurisdiction to do so shall be recognized for all purposes of determining the marital status in Canada of any person, if either former spouse was ordinarily resident in that country or subdivision for at least one year immediately preceding the commencement of proceedings for the divorce.
-> > A divorce granted, after July 1, 1968, pursuant to a law of a country or subdivision of a country other than Canada by a tribunal or other authority having jurisdiction to do so, on the basis of the domicile of the wife in that country or subdivision determined as if she were unmarried and, if she was a minor, as if she had attained the age of majority, shall be recognized for all purposes of determining the marital status in Canada of any person.
+  **(2)** A divorce granted after July 1, 1968 by a competent authority, on the basis of the domicile of the wife in the country or subdivision of the competent authority, determined as if she were unmarried and, if she was a minor, as if she had attained the age of majority, shall be recognized for the purpose of determining the marital status in Canada of any person.
 
 ### Section 19
 
@@ -979,10 +868,6 @@ The Act is amended by adding the following after section 22:
 
   **(3)** The court's decision refusing to recognize the competent authority's decision has legal effect throughout Canada.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 20
 
 The portion of subsection 22.1(1) of the Act before paragraph (a) is replaced by the following:
@@ -997,12 +882,6 @@ Subsection 23(2) of the Act is replaced by the following:
 
 **(2)** The `Canada Evidence Act` applies in respect of a proceeding before the Federal Court to determine, under subsection 3(3), 4(3), 5(3) or 6.2(3), which court retains jurisdiction.
 
-
-> **Explanatory Note**:
-> Existing text of subsection 23(2):
-> *Existing Text*:
-> > For the purposes of this section, where any proceedings are transferred to the Federal Court under subsection 3(3) or 5(3), the proceedings shall be deemed to have been taken in the province specified in the direction of the Court to be the province with which both spouses or former spouses, as the case may be, are or have been most substantially connected.
-
 ### Section 22
 
 The Act is amended by adding the following after section 23:
@@ -1011,23 +890,45 @@ The Act is amended by adding the following after section 23:
 
 If the parties to a proceeding are habitually resident in different provinces, a court of competent jurisdiction may, in accordance with any applicable rules regulating the practice and procedure in that court, make an order on the basis of the evidence and the submissions of the parties, whether presented orally before the court or by affidavit or any means of telecommunication permitted by the rules regulating the practice and procedure in that court.
 
+### Section 22.1
 
-> **Explanatory Note**:
-> New.
+The Act is amended by adding the following after section 23:
+
+### Section 23.2
+
+  **(1)** A proceeding under this Act may be conducted in English or French, or in both official languages of Canada.
+
+  **(2)** In any proceeding under this Act,
+
+    any person has the right to use either official language, including to
+
+    file pleadings or other documents,
+
+    give evidence, or
+
+    make submissions;
+
+    the court shall, at the request of any person, provide simultaneous interpretation from one official language into the other;
+
+    any party to that proceeding has the right to a judge who speaks the same official language as that party or both official languages, as the case may be;
+
+    any party to that proceeding has the right to request a transcript or recording, as the case may be, of
+
+    what was said during that proceeding in the official language in which it was said, if what was said was taken down by a stenographer or a sound recording apparatus, and
+
+    any interpretation into the other official language of what was said; and
+
+    the court shall, at the request of any party to that proceeding, make available in that party's official language of choice any judgment or order that is rendered or made under this Act and that relates to that party.
+
+  **(3)** In the case of a discrepancy between the original version of a document referred to in paragraph (2)(a) or (e) and the translated text, the original version shall prevail.
+
+  **(4)** The court forms relating to any proceedings under this Act shall be made available in both official languages.
 
 ### Section 23
 
 Paragraph 25(2)(b.1) of the Act is replaced by the following:
 
-respecting the application of section **23.1**;
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 25(2):
-> *Existing Text*:
-> > Subject to subsection (3), the competent authority may make rules applicable to any proceedings under this Act in a court, or appellate court, in a province, including, without limiting the generality of the foregoing, rules
-> > 
-> > respecting the application of section 17.1 in respect of proceedings for a variation order;
+respecting the application of section 23.1;
 
 ### Section 24
 
@@ -1043,15 +944,11 @@ The Act is amended by adding the following after section 25:
 
   **(4)** A spouse who is subject to a provincial child support service decision becomes liable to pay the amount of child support calculated under this section on the day, or on the expiry of a period, specified by the law of the province or, if no day or period is specified, on the expiry of the period prescribed by the regulations.
 
-  **(5)** Either or both spouses who do not agree with the amount of the child support calculated under this section may apply to a court of competent jurisdiction for an order under section 15.1 before the day or within the period specified by the law of the province or, if no day or period is specified, within the period prescribed by the regulations.
+  **(5)** Either or both spouses who do not agree with the amount of the child support calculated under this section may apply to a court of competent jurisdiction for an order under section 15.1 before the day or within the per­iod specified by the law of the province or, if no day or period is specified, within the period prescribed by the regulations.
 
   **(6)** The liability to pay the amount of child support under subsection (4) continues while the determination of the application under subsection (5) is pending.
 
   **(7)** After a spouse subject to a provincial child support service decision becomes liable to pay an amount of child support under subsection (4), either or both spouses may have the amount of child support recalculated under section 25.1 or apply to a court of competent jurisdiction for an order under section 15.1.
-
-
-> **Explanatory Note**:
-> New.
 
 ### Section 25
 
@@ -1069,7 +966,7 @@ The Act is amended by adding the following after section 25:
 
     **(2.1)** Subject to subsection (5), the income determined under subsection (1.2) shall be deemed to be the spouse's income for the purposes of the child support order.
 
-    **(3)** The spouse against whom a child support order was made becomes liable to pay the recalculated amount **on the day, or on the expiry of the period specified by the law of the province or, if no day or period is specified, on the expiry of the period prescribed by the regulations**.
+    **(3)** The spouse against whom a child support order was made becomes liable to pay the recalculated amount on the day, or on the expiry of the period specified by the law of the province or, if no day or period is specified, on the expiry of the period prescribed by the regulations.
 
     **(4)** If either or both spouses do not agree with the recalculated amount of the child support order, either or both of them may, before the day or within the period specified by the law of the province or, if no day or period is specified, within the period prescribed by the regulations, apply to a court of competent jurisdiction
 
@@ -1081,7 +978,7 @@ The Act is amended by adding the following after section 25:
 
   **(3)** Subsection 25.1(6) of the Act is replaced by the following:
 
-    **(6)** **If** an application made under subsection (4) is withdrawn before **it is determined**, the spouse against whom the **child support** order was made becomes liable to pay the recalculated amount on the day on which the spouse would have become liable had the application not been made.
+    **(6)** If an application made under subsection (4) is withdrawn before it is determined, the spouse against whom the child support order was made becomes liable to pay the recalculated amount on the day on which the spouse would have become liable had the application not been made.
 
     **(7)** In this section, **child support order** has the same meaning as in subsection 2(1) and also means an interim order made under subsection 15.1(2), a provincial child support service decision made under section 25.01 and a variation order made under paragraph 17(1)(a).
 
@@ -1093,23 +990,19 @@ The Act is amended by adding the following after section 25.1:
 
 The Minister of Justice may conduct activities related to matters governed by this Act, including undertaking research.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 27
 
   **(1)** The portion of subsection 26(1) of the French version of the Act before paragraph (a) is replaced by the following:
 
 ### Section 26
 
-      **(1)** Le gouverneur en conseil peut prendre **des règlements pour** l'application de la présente loi, notamment **des règlements** :
+      **(1)** Le gouverneur en conseil peut prendre des règlements pour l'application de la présente loi, notamment des règlements :
 
   **(2)** Paragraphs 26(1)(a) and (b) of the Act are replaced by the following:
 
-    respecting the establishment, **mandate** and operation of a central registry of divorce proceedings;
+    respecting the establishment, mandate and operation of a central registry of divorce proceedings;
 
-    providing for uniformity in the rules made **under** section 25;
+    providing for uniformity in the rules made under section 25;
 
     respecting the framework for the calculation or recalculation of the amount of child support by the provincial child support service under section 25.01 or 25.1; and
 
@@ -1117,7 +1010,7 @@ The Minister of Justice may conduct activities related to matters governed by th
 
   **(3)** Subsection 26(2) of the Act is replaced by the following:
 
-    **(2)** Regulations made **under paragraph (1)(b)** prevail over rules **made under section 25**.
+    **(2)** Regulations made under paragraph (1)(b) prevail over rules made under section 25.
 
 ### Section 28
 
@@ -1129,11 +1022,11 @@ The Minister of Justice may conduct activities related to matters governed by th
 
   **(2)** Paragraph 26.1(1)(h) of the Act is replaced by the following:
 
-    respecting the production of information **relevant to an order for child support** and providing for sanctions **and other consequences** when that information is not provided.
+    respecting the production of information relevant to an order for child support and providing for sanctions and other consequences when that information is not provided.
 
   **(3)** Paragraph 26.1(3)(c) of the Act is replaced by the following:
 
-    an order made under **subsection 18.1(15) or 19(13) in respect of a child support order**.
+    an order made under subsection 18.1(15) or 19(13) in respect of a child support order.
 
   **(4)** Subsection 26.1(3) of the Act is amended by striking out "or" at the end of paragraph (b), by adding "or" at the end of paragraph (c) and by adding the following after paragraph (c):
 
@@ -1142,12 +1035,6 @@ The Minister of Justice may conduct activities related to matters governed by th
 ### Section 29
 
 Section 28 of the Act is repealed.
-
-
-> **Explanatory Note**:
-> Existing text of section 28:
-> *Existing Text*:
-> > The Minister of Justice shall undertake a comprehensive review of the provisions and operation of the Federal Child Support Guidelines and the determination of child support under this Act and shall cause a report on the review to be laid before each House of Parliament within five years after the coming into force of this section.
 
 ### Section 30
 
@@ -1305,10 +1192,6 @@ If Canada declares under Article 2 of the 2007 Convention that the application o
 
     the decision cannot be recognized or declared enforceable in the province in which the debtor is habitually resident.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 31
 
 The Act is amended by adding the following before the heading before section 32:
@@ -1418,21 +1301,11 @@ For the purposes of Article 26 of the 1996 Convention, a measure taken by a comp
 
 be declared to be enforceable by a court in the province and enforced in that province as an order of that court; or
 
-registered for the purposes of enforcement in the court in that province and enforced in that province as an order of that court.
-
-
-> **Explanatory Note**:
-> New.
+**be** registered for the purposes of enforcement in the court in that province and enforced in that province as an order of that court.
 
 ### Section 32
 
 Section 33 of the Act is repealed.
-
-
-> **Explanatory Note**:
-> Existing text of section 33:
-> *Existing Text*:
-> > Proceedings commenced under the `Divorce Act`, chapter D-8 of the Revised Statutes of Canada, 1970, before the day on which this Act comes into force and not finally disposed of before that day shall be dealt with and disposed of in accordance with that Act as it read immediately before that day, as though it had not been repealed.
 
 ### Section 33
 
@@ -1440,15 +1313,15 @@ Section 33 of the Act is repealed.
 
 ### Section 34
 
-      **(1)** Subject to subsection (1.1), any order made under subsection 11(1) of the `Divorce Act`, chapter D-8 of the Revised Statutes of Canada, 1970, and any order to the like effect made corollary to a decree of divorce granted in Canada before July 2, 1968 or granted on or after that day **under** subsection 22(2) of that Act may be varied, rescinded, suspended or enforced in accordance with sections 17 to 20, other than subsection 17(10), of this Act as if
+      **(1)** Subject to subsection (1.1), any order made under subsection 11(1) of the `Divorce Act`, chapter D-8 of the Revised Statutes of Canada, 1970, and any order to the like effect made corollary to a decree of divorce granted in Canada before July 2, 1968 or granted on or after that day under subsection 22(2) of that Act may be varied, rescinded, suspended or enforced in accordance with sections 17 to 20, other than subsection 17(10), of this Act as if
 
-        the order were a support order, **parenting** order or **contact order**, as the case may be; and
+        the order were a support order, parenting order or contact order, as the case may be; and
 
   **(2)** Subsections 34(2) and (3) of the Act are replaced by the following:
 
-    **(2)** Any order made under section 10 of the `Divorce Act`, chapter D-8 of the Revised Statutes of Canada, 1970, may be enforced in accordance with section 20 of this Act as if it were an order made under subsection 15.1(1) or 15.2(1) or section **16.1 or 16.5** of this Act, as the case may be.
+    **(2)** Any order made under section 10 of the `Divorce Act`, chapter D-8 of the Revised Statutes of Canada, 1970, may be enforced in accordance with section 20 of this Act as if it were an order made under subsection 15.1(1) or 15.2(1) or section 16.1 or 16.5 of this Act, as the case may be.
 
-    **(3)** Any order for the maintenance of a spouse, **former spouse** or child of the marriage made under section 10 or 11 of the `Divorce Act`, chapter D-8 of the Revised Statutes of Canada, 1970, and any order to the like effect made corollary to a decree of divorce granted in Canada before July 2, 1968 or granted on or after that day **under** subsection 22(2) of that Act may be assigned to any minister, member or agency designated **under** section 20.1.
+    **(3)** Any order for the maintenance of a spouse, former spouse or child of the marriage made under section 10 or 11 of the `Divorce Act`, chapter D-8 of the Revised Statutes of Canada, 1970, and any order to the like effect made corollary to a decree of divorce granted in Canada before July 2, 1968 or granted on or after that day under subsection 22(2) of that Act may be assigned to any minister, member or agency designated under section 20.1.
 
 ### Section 34
 
@@ -1489,10 +1362,6 @@ An order made before the day on which this section comes into force under subsec
 ### Section 35.9
 
 If, before the day on which this section comes into force, a provisional order was made under subsection 18(2) as it read immediately before that day, the provisional order is deemed, as of that day, to be an application made under in subsection 18.1(3) and shall be dealt with and disposed of as such.
-
-
-> **Explanatory Note**:
-> New.
 
 ### Section 35
 
@@ -1537,24 +1406,19 @@ The reference to "the schedule" in the definition **1996 Convention** in section
 
 The long title of the `Family Orders and Agreements Enforcement Assistance Act` is replaced by the following:
 
-
-> **Explanatory Note**:
-> Existing text of the long title:
-> *Existing Text*:
-
 ### Section 43
 
   **(1)** The definitions access right, court, order and provincial information bank in section 2 of the Act are repealed.
 
   **(2)** The definitions **custody provision**, family provision, information bank director, provincial enforcement service and **support provision** in section 2 of the Act are replaced by the following:
 
-    **custody provision** means a provision of an order **providing for** custody of a child; (**disposition de garde**)
+    **custody provision** means a provision of an order providing for custody of a child; (**disposition de garde**)
 
-    **family provision** means a support provision, **a parenting provision, a contact provision,** a custody provision or an access **provision**; (**disposition familiale**)
+    **family provision** means a support provision, a parenting provision, a contact provision, a custody provision or an access provision; (**disposition familiale**)
 
     **information bank director** means a person who is designated by the regulations as the information bank director for a given information bank; (**directeur de fichier**)
 
-    **provincial enforcement service** means any **entity** that is entitled under the laws of a province to enforce family provisions **and that is** designated in an agreement with **the** province **entered into** under section 3; (**autorité provinciale**)
+    **provincial enforcement service** means any entity that is entitled under the laws of a province to enforce family provisions and that is designated in an agreement with the province entered into under section 3; (**autorité provinciale**)
 
     **support provision** means a provision of an order for maintenance, alimony or support; (**disposition alimentaire**)
 
@@ -1582,33 +1446,19 @@ The long title of the `Family Orders and Agreements Enforcement Assistance Act` 
 
 Paragraph 4(b) of the Act is repealed.
 
-
-> **Explanatory Note**:
-> Relevant portion of section 4:
-> *Existing Text*:
-> > Every agreement with a province under section 3 must provide for
-> > 
-> > the designation of the provincial information bank or banks that, subject to this Part, must be searched before information may be released under this Part.
-
 ### Section 45
 
 Section 5 of the Act is replaced by the following:
 
 ### Section 5
 
-The Minister and a province may designate, in an agreement made under section 3, one or more **provincial child support services,** provincial enforcement services, **designated authorities and central authorities** for the purposes of this Part.
+The Minister and a province may designate, in an agreement made under section 3, one or more provincial child support services, provincial enforcement services, designated authorities and central authorities for the purposes of this Part.
 
 ### Section 5.1
 
   **(1)** The Minister may, on behalf of the Government of Canada, enter into an agreement with any police force in Canada for the search for and the release of information under this Part.
 
   **(2)** The agreement must provide for the establishment of safeguards for the protection of information released under this Part.
-
-
-> **Explanatory Note**:
-> Existing text of section 5:
-> *Existing Text*:
-> > The Minister and a province may designate in an agreement made under section 3 one or more provincial enforcement services for the purposes of this Part.
 
 ### Section 46
 
@@ -1633,11 +1483,11 @@ For the purposes of this Part, a provincial enforcement service may act on behal
 
 ### Section 7
 
-Any person, body or service **that is seeking to have a support provision established or varied or that is** entitled to have a family provision enforced may, **on** application, **which may be made** ex parte, request that **a** court **authorize an official of the court to make an application** under section 12.
+Any person, body or service that is seeking to have a support provision established or varied or that is entitled to have a family provision enforced may, on application, which may be made ex parte, request that a court authorize an official of the court to make an application under section 12.
 
 ### Section 8
 
-  **(1)** The application under section 7 in relation to **the establishment or variation of a support** provision must be accompanied by
+  **(1)** The application under section 7 in relation to the establishment or variation of a support provision must be accompanied by
 
     an affidavit that sets out the reasons for the making of the application; and
 
@@ -1665,21 +1515,21 @@ Any person, body or service **that is seeking to have a support provision establ
 
 ### Section 9
 
-  ****(1)**** **The** application under section 7 in relation to **the enforcement of** a family provision must be accompanied by
+  **(1)** The application under section 7 in relation to the enforcement of a family provision must be accompanied by
 
     an affidavit that
 
-    **sets out the reasons for the making of the application,**
+    sets out the reasons for the making of the application,
 
-    **alleges** a breach of the family provision, **and**
+    alleges a breach of the family provision, and
 
-    **sets** out particulars of the breach and identifies the person who
+    sets out particulars of the breach and identifies the person who
 
-    **if** the family provision is a support provision, is in arrears, or
+    if the family provision is a support provision, is in arrears, or
 
-    **if** the family provision is a parenting provision, contact provision, custody provision or access **provision**, is believed to have with them the child or children who is or are the subject of **the provision**; and
+    if the family provision is a parenting provision, contact provision, custody provision or access provision, is believed to have with them the child or children who is or are the subject of the provision; and
 
-    a copy of the order containing the **family provision**.
+    a copy of the order containing the family provision.
 
   **(2)** If the application is made ex parte, the affidavit referred to in paragraph (1)(a) must also
 
@@ -1701,9 +1551,9 @@ Any person, body or service **that is seeking to have a support provision establ
 
     state whether or not the applicant has been charged with or found guilty of an offence against the person, child or children.
 
-### Section **10**
+### Section 10
 
-A court seized of a valid application under section 7 **may make an order** in writing authorizing **an official of the court** to **make an application under section 12**, if **the court** is satisfied
+A court seized of a valid application under section 7 may make an order in writing authorizing an official of the court to make an application under section 12, if the court is satisfied
 
 that the sole purpose of the application is to obtain information for the establishment or variation of a support provision or the enforcement of a family provision;
 
@@ -1713,17 +1563,17 @@ in the case of an ex parte application, that the steps referred to in paragraph 
 
 ### Section 11
 
-In the case of an application made **ex parte** by an individual, the court may order that the Minister shall not, under section 12.1, send to the person referred to in subparagraph 8(2)(a) or 9(2)(a), as the case may be, a copy of the order that authorizes the making of the application and a notice informing them that information will be released.
+In the case of an application made ex parte by an individual, the court may order that the Minister shall not, under section 12.1, send to the person referred to in paragraph 8(2)(a) or 9(2)(a), as the case may be, a copy of the order that authorizes the making of the application and a notice informing them that information will be released.
 
 ### Section 12
 
-  ****(1)**** **An official who is authorized to do so under section 10** may apply to the Minister, in the **time and** manner prescribed by the regulations, to have the information banks searched **in order to** release **the** information **prescribed by the regulations to the official**.
+  **(1)** An official who is authorized to do so under section 10 may apply to the Minister, in the time and manner prescribed by the regulations, to have the information banks searched in order to release the information prescribed by the regulations to the official.
 
-  **(2)** The application must be accompanied by **a copy of** the **order made** under section **10 that authorizes the making of the application.**
+  **(2)** The application must be accompanied by a copy of the order made under section 10 that authorizes the making of the application.
 
 ### Section 12.1
 
-Unless the court orders otherwise, if the application is made **ex parte by an individual**, the Minister shall release information under this Part to the official who made the application only if the Minister has sent to the person referred to in paragraph 8(2)(a) or 9(2)(a) a copy of the order that authorizes the making of the application and a notice informing them that information will be released.
+Unless the court orders otherwise, if the application is made ex parte by an individual, the Minister shall release information under this Part to the official who made the application only if the Minister has sent to the person referred to in paragraph 8(2)(a) or 9(2)(a) a copy of the order that authorizes the making of the application and a notice informing them that information will be released.
 
 ### Section 13
 
@@ -1738,7 +1588,7 @@ Unless the court orders otherwise, if the application is made **ex parte by an i
 
 ### Section 14
 
-  **(1)** A peace officer who is investigating a child abduction under section 282 or 283 of the `Criminal Code` may apply to the Minister, in the time and manner prescribed by the regulations, to have the information banks searched **in order to** release the information **prescribed by the regulations** **to the peace officer**.
+  **(1)** A peace officer who is investigating a child abduction under section 282 or 283 of the `Criminal Code` may apply to the Minister, in the time and manner prescribed by the regulations, to have the information banks searched in order to release the information prescribed by the regulations to the peace officer.
 
   **(2)** The application must be accompanied by an affidavit submitted by the peace officer in accordance with subsection (3).
 
@@ -1748,22 +1598,22 @@ Unless the court orders otherwise, if the application is made **ex parte by an i
 
     state that the information will be used in the investigation of the offence;
 
-    **identify the person who is believed to have committed the offence and the child or children** who is or are alleged to have been abducted; and
+    identify the person who is believed to have committed the offence and the child or children who is or are alleged to have been abducted; and
 
-    state that reasonable steps have been taken to locate the person, child or children and that the person, child or children has or have not been located, **and** set out particulars of **those** reasonable steps.
+    state that reasonable steps have been taken to locate the person, child or children and that the person, child or children has or have not been located, and set out particulars of those reasonable steps.
 
 
 #### Provincial Enforcement Service
 
 ### Section 15
 
-  **(1)** A provincial enforcement service may, for a purpose described in subsection (2), apply to the Minister, in the time and manner prescribed by the regulations, to have the information banks searched **in order to** release the information **prescribed by the regulations to the provincial enforcement service.**
+  **(1)** A provincial enforcement service may, for a purpose described in subsection (2), apply to the Minister, in the time and manner prescribed by the regulations, to have the information banks searched in order to release the information prescribed by the regulations to the provincial enforcement service.
 
   **(2)** An application may be made
 
     to obtain information about a person who is in arrears under a support provision in order to enforce the provision;
 
-    to locate a person who is in breach of **a parenting provision, a contact provision,** a custody provision or an access **provision** and who is believed to have with them the child or children who is or are the subject of **the provision**; or
+    to locate a person who is in breach of a parenting provision, a contact provision, a custody provision or an access provision and who is believed to have with them the child or children who is or are the subject of the provision; or
 
     to locate a creditor or debtor under a support provision.
 
@@ -1772,14 +1622,14 @@ Unless the court orders otherwise, if the application is made **ex parte by an i
 
 ### Section 15.1
 
-A provincial child support service may, in order to calculate or recalculate the amount of child support, apply to the Minister, in the time and manner prescribed by the regulations, to have the information banks searched **in order to** release the information **prescribed by the regulations to the provincial child support service**.
+A provincial child support service may, in order to calculate or recalculate the amount of child support, apply to the Minister, in the time and manner prescribed by the regulations, to have the information banks searched in order to release the information prescribed by the regulations to the provincial child support service.
 
 
 #### Designated Authority
 
 ### Section 16
 
-  **(1)** A designated authority may, for a purpose described in subsection (2), apply to the Minister, in the time and manner prescribed by the regulations, to have the information banks searched **in order to** release the information **prescribed by the regulations to the designated authority.**
+  **(1)** A designated authority may, for a purpose described in subsection (2), apply to the Minister, in the time and manner prescribed by the regulations, to have the information banks searched in order to release the information prescribed by the regulations to the designated authority.
 
   **(2)** An application may be made
 
@@ -1813,9 +1663,9 @@ A provincial child support service may, in order to calculate or recalculate the
 
 ### Section 17
 
-  ****(1)**** On the receipt of an application under **this Part**, the Minister shall **immediately** transmit a search request to the information bank directors.
+  **(1)** On the receipt of an application under this Part, the Minister shall immediately transmit a search request to the information bank directors.
 
-  **(2)** On the Minister's own initiative and for a purpose described in subsection (3), the Minister may transmit a search request to the information bank directors **in order to** release the information **prescribed by the regulations to the Minister.**
+  **(2)** On the Minister's own initiative and for a purpose described in subsection (3), the Minister may transmit a search request to the information bank directors in order to release the information prescribed by the regulations to the Minister.
 
   **(3)** A request may be made
 
@@ -1823,73 +1673,7 @@ A provincial child support service may, in order to calculate or recalculate the
 
     to locate a person named in an application made under a convention that is prescribed by the regulations for the purpose of this paragraph.
 
-  ****(4)**** **On the receipt of a search request, the information bank directors** shall, in accordance with the regulations, cause their designated information banks to be searched **immediately** and **then** periodically during the 12-month period following the receipt **of the request**.
-
-
-> **Explanatory Note**:
-> Existing text of the heading and sections 7 to 17:
-> *Existing Text*:
-> > Any person, service, agency or body entitled to have a family provision enforced may, by ex parte application, request that the court apply for the release to the court of information under this Part.
-> > An application under section 7 in relation to a family provision must be accompanied by
-> > a certified copy of the order, or a copy of the agreement, containing the support provision, custody provision or access right to which the application relates;
-> > an affidavit in accordance with section 9; and
-> > subject to subsection (2), proof, as supplied by the province where the court seized of the application has jurisdiction, that the provincial information banks designated with respect to that province have been searched for information helpful in locating, as the case may be, the person who is in arrears under the support provision or the child or children who is or are the object of the custody provision or access right.
-> > The proof referred to in paragraph (1)(c) is not necessary where the affidavit in support of the application discloses that there are reasonable grounds to believe that the person, child or children referred to in that paragraph has or have left the province of the court seized of the application.
-> > An affidavit in support of an application under section 7 in relation to a family provision must
-> > allege a breach of the family provision;
-> > set out particulars of the breach and identify the person who
-> > where the family provision is a support provision, is in arrears, or
-> > where the family provision is a custody provision or access right, is believed to have possession of the child or children who is or are the object of the custody provision or access right;
-> > disclose that reasonable steps have been taken to locate the person who is in arrears or the child or children who is or are the object of the custody provision or access right and that the person, child or children have not been located;
-> > set out particulars of the reasonable steps referred to in paragraph (c); and
-> > where the affidavit is not accompanied by the proof referred to in paragraph 8(1)(c), disclose that there are reasonable grounds to believe that the person, child or children referred to in paragraph (c) has or have left the province of the court seized of the application to which the affidavit relates and set out information in support of that belief.
-> > [Repealed, 1993, c. 8, s. 7]
-> > A court seized of a valid application under section 7 shall, if it is satisfied
-> > that reasonable steps have been taken to locate the person, child or children to whom the application relates, and
-> > where it is alleged that the person, child or children to whom the application relates has or have left the province of the court, that the allegation is based on reasonable grounds,
-> > grant an authorization in writing authorizing any judge of that court or any officer thereof, as the case may be, to apply for the release of information under this Part.
-> > Subject to this Part, the following, namely,
-> > a judge of a court or any officer thereof, if authorized to do so under section 12,
-> > a provincial enforcement service, or
-> > a peace officer investigating a child abduction pursuant to section 282 or 283 of the `Criminal Code`,
-> > 
-> > may apply to the Minister, in the manner prescribed by the regulations, to have the information banks referred to in section 15 searched for the information referred to in section 16 and to have any such information found in those information banks released on a confidential basis.
-> > An application under section 13 for the release of information must contain the information and be in the form prescribed by the regulations.
-> > Where an application under section 13 is made by a person referred to in paragraph 13(a), the application must be accompanied by
-> > a copy of the family provision to which the application relates;
-> > the applicant's authorization under section 12;
-> > a copy of the affidavit submitted in support of the application for the authorization; and
-> > where the applicant's affidavit does not contain the allegation referred to in paragraph 9(e), proof, as supplied by the province where the court that granted the authorization has jurisdiction, that the provincial information banks designated with respect to that province have been searched for information helpful in locating the person, child or children to whom the application relates.
-> > Where an application under section 13 is made by a provincial enforcement service, the application must be accompanied by an affidavit submitted by an officer of the provincial enforcement service in accordance with subsection (4).
-> > Where an application under section 13 is made by a peace officer investigating a child abduction pursuant to section 282 or 283 of the `Criminal Code`, the application must be accompanied by
-> > a copy of the information to which the application relates; and
-> > an affidavit, submitted by the peace officer in accordance with subsection (5).
-> > An affidavit submitted by an officer of a provincial enforcement service must
-> > allege a breach of the family provision;
-> > set out particulars of the breach and identify the person who
-> > where the family provision is a support provision, is in arrears, or
-> > where the family provision is a custody provision or an access right, is believed to have possession of the child or children who is or are the object of the custody provision or access right;
-> > disclose that reasonable steps have been taken to locate the person who is in arrears or the child or children who is or are the object of the custody provision or access right and that the person, child or children has or have not been located;
-> > set out particulars of the reasonable steps referred to in paragraph (c); and
-> > disclose
-> > that the provincial information banks designated with respect to the province of the provincial enforcement service have been searched for information helpful in locating the person who is in arrears or the child or children who is or are the object of the custody provision or access right, or
-> > that there are reasonable grounds to believe that the person, child or children referred to in subparagraph (i) has or have left the province of the provincial enforcement service, and set out information in support of that belief.
-> > An affidavit submitted by a peace officer must
-> > disclose that reasonable steps have been taken to locate the person against whom the information was laid and the child or children alleged to have been abducted and that the person, child or children has or have not been located;
-> > set out particulars of the reasonable steps referred to in paragraph (a); and
-> > disclose
-> > that the provincial information banks designated with respect to the province where the information was laid have been searched for information helpful in locating the person, child or children referred to in paragraph (a), or
-> > that there are reasonable grounds to believe that the person, child or children referred to in paragraph (a) has or have left the province where the information was laid, and set out information in support of that belief.
-> > The information banks that may be searched under this Part are the information banks designated by the regulations from among the information banks controlled by the Department of Employment and Social Development, the Canada Revenue Agency and the Canada Employment Insurance Commission.
-> > The information that may be searched for and released under this Part is
-> > the address of the person who, as the case may be,
-> > is in arrears under the support provision to which the application relates,
-> > is believed to have possession of the child or children who is or are the object of the custody provision or access right to which the application relates, or
-> > is believed to have possession of the child or children who is or are the object of the investigation pursuant to section 282 or 283 of the `Criminal Code` to which the application relates;
-> > the name and address of the employer of the person referred to in paragraph (a);
-> > the address of the child or children to whom the application relates; and
-> > the name and address of the employer of every child to whom the application relates.
-> > Forthwith on the receipt of an application under section 13, the Minister shall transmit a search request to the information bank directors who shall, in accordance with the regulations, cause their designated information banks to be searched forthwith and periodically during the twelve month period immediately following the receipt by the Minister of the application.
+  **(4)** On the receipt of a search request, the information bank directors shall, in accordance with the regulations, cause their designated information banks to be searched immediately and then periodically during the 12-month period following the receipt of the request.
 
 ### Section 47
 
@@ -1897,23 +1681,15 @@ Sections 18 to 19.1 of the Act are replaced by the following:
 
 ### Section 18
 
-Subject to the regulations, information in **an** information **bank** may be released by one information bank director to **another** information bank director **or to the Minister** to assist in conducting a search under this Part.
+Subject to the regulations, information in an information bank may be released by one information bank director to another information bank director or to the Minister to assist in conducting a search under this Part.
 
 ### Section 19
 
-**If** information requested under **this Part** is found in an information bank, the information bank director of that information bank shall cause to be transmitted to the Minister, in accordance with the regulations, all information obtained during **the** search.
+If information requested under this Part is found in an information bank, the information bank director of that information bank shall cause to be transmitted to the Minister, in accordance with the regulations, all information obtained during the search.
 
 ### Section 19.1
 
 Subject to section 20, the Minister shall release to the applicant the information transmitted to the Minister under this Part.
-
-
-> **Explanatory Note**:
-> Existing text of sections 18 to 19.1:
-> *Existing Text*:
-> > Subject to the regulations, information in any information banks that may be searched under this Part may be released by one information bank director to the other information bank director to assist that other director in conducting a search under this Part.
-> > Where information requested in an application under section 13 is found in an information bank that may be searched under this Part, the information bank director of that information bank shall cause to be transmitted to the Minister, in accordance with the regulations, all information obtained during any search conducted pursuant to section 17.
-> > Where new information is obtained during a periodic search, the Minister shall not release the information to an applicant under section 13 unless the Minister is satisfied that the applicant still requires the information for the reasons set out in the application.
 
 ### Section 48
 
@@ -1921,7 +1697,7 @@ Section 20 of the Act is replaced by the following:
 
 ### Section 20
 
-  ****(1)**** The Minister shall release information under this Part to an applicant **that is a provincial enforcement service, a provincial child support service, a designated authority or a central authority** only if the **province of the applicant has entered into an agreement** under section 3 **and the** Minister is satisfied that the safeguards **provided for in** the agreement are in place.
+  **(1)** The Minister shall release information under this Part to an applicant that is a provincial enforcement service, a provincial child support service, a designated authority or a central authority only if the province of the applicant has entered into an agreement under section 3 and the Minister is satisfied that the safeguards provided for in the agreement are in place.
 
   **(2)** The Minister shall release information under this Part to an applicant who is a peace officer only if the police force to which the officer belongs has entered into an agreement under section 5.1 and the Minister is satisfied that the safeguards provided for in the agreement are in place.
 
@@ -1929,43 +1705,37 @@ Section 20 of the Act is replaced by the following:
 
 If a search request is made by the Minister on the Minister's own initiative under subsection 17(2), the Minister may release the information to a person that the Minister considers appropriate.
 
-
-> **Explanatory Note**:
-> Existing text of section 20:
-> *Existing Text*:
-> > The Minister shall release information under this Part to an applicant under section 13 only if the Minister is satisfied that the safeguards established by the agreement under section 3 with the province of that applicant are in place.
-
 ### Section 49
 
   **(1)** The portion of section 22 of the Act before paragraph (a.1) is replaced by the following:
 
 ### Section 22
 
-    **Subject to subsection (2)**, the Governor in Council may make regulations
+    Subject to subsection (2), the Governor in Council may make regulations
 
-    prescribing the information that must be contained **in** an application for the release of information under this Part;
+    prescribing the information that must be contained in an application for the release of information under this Part;
 
   **(2)** Paragraph 22(a.1) of the English version of the Act is replaced by the following:
 
-    prescribing the **time and** manner in which an application for the searching of information banks and the release of information under this Part may be made;
+    prescribing the time and manner in which an application for the searching of information banks and the release of information under this Part may be made;
 
   **(3)** Paragraph 22(b) of the Act is replaced by the following:
 
-    designating the information banks that may be searched under this Part **and the information bank directors for those information banks**;
+    designating the information banks that may be searched under this Part and the information bank directors for those information banks;
 
   **(4)** Paragraph 22(c) of the English version of the Act is replaced by the following:
 
-    setting out the **time and** manner in which searches for information under this Part are to be conducted;
+    setting out the time and manner in which searches for information under this Part are to be conducted;
 
   **(5)** Paragraph 22(d) of the Act is replaced by the following:
 
-    prescribing the conditions under which information may be released under section 18 by one information bank director to **another or to the Minister**;
+    prescribing the conditions under which information may be released under section 18 by one information bank director to another or to the Minister;
 
     prescribing the information that is released to an applicant under this Part, which information may vary according to the applicant to whom the information is released;
 
   **(6)** Section 22 of the Act is amended by striking out "and" at the end of paragraph (e) and by adding the following after paragraph (e):
 
-    **respecting** the time and manner in which the Minister must send a copy of an order and a notice under section 12.1;
+    respecting the time and manner in which the Minister must send a copy of an order and a notice under section 12.1;
 
     prescribing or providing for anything that by this Part is to be prescribed or provided for by the regulations; and
 
@@ -1980,18 +1750,13 @@ The heading of Part II of the Act is replaced by the following:
 
 ## Garnishment of Federal Moneys to Satisfy Orders
 
-
-> **Explanatory Note**:
-> Existing text of the heading:
-> *Existing Text*:
-
 ### Section 51
 
   **(1)** The definitions support order and **support provision** in subsection 23(1) of the Act are repealed.
 
   **(2)** The definitions garnishee summons and provincial garnishment law in subsection 23(1) of the Act are replaced by the following:
 
-    **garnishee summons** includes any document **that is** of **a** similar nature **to a garnishee summons, including a** court order **and a document in respect of maintenance, alimony or support issued by a provincial enforcement service**; (**bref de saisie-arrêt**)
+    **garnishee summons** includes any document that is of a similar nature to a garnishee summons, including a court order and a document in respect of maintenance, alimony or support issued by a provincial enforcement service; (**bref de saisie-arrêt**)
 
     **provincial garnishment law** means the law of a province relating to garnishment as it applies to the enforcement of orders; (**droit provincial en matière de saisie-arrêt**)
 
@@ -2015,13 +1780,7 @@ Section 24 of the Act is replaced by the following:
 
 ### Section 24
 
-**Despite** any other Act of Parliament preventing the garnishment of Her Majesty, Her Majesty may, for the enforcement of orders, be garnisheed in accordance with this Part in respect of all garnishable moneys.
-
-
-> **Explanatory Note**:
-> Existing text of section 24:
-> *Existing Text*:
-> > Notwithstanding any other Act of Parliament preventing the garnishment of Her Majesty, Her Majesty may, for the enforcement of support orders and support provisions, be garnisheed in accordance with this Part in respect of all garnishable moneys.
+Despite any other Act of Parliament preventing the garnishment of Her Majesty, Her Majesty may, for the enforcement of orders, be garnisheed in accordance with this Part in respect of all garnishable moneys.
 
 ### Section 53
 
@@ -2029,13 +1788,7 @@ Section 27 of the Act is replaced by the following:
 
 ### Section 27
 
-For the purposes of this Part, garnishable moneys are deemed to be located in the **province in which** a garnishee summons **is issued** in respect **of the moneys**.
-
-
-> **Explanatory Note**:
-> Existing text of section 27:
-> *Existing Text*:
-> > For the purposes of this Part, garnishable moneys are deemed to be located in the jurisdiction of every court requested to issue a garnishee summons in respect thereof.
+For the purposes of this Part, garnishable moneys are deemed to be located in the province in which a garnishee summons is issued in respect of the moneys.
 
 ### Section 54
 
@@ -2043,23 +1796,11 @@ Sections 28 and 29 of the Act are replaced by the following:
 
 ### Section 28
 
-Subject to **the provisions of** this Part and the regulations, service on the Minister of an application in the form **approved by the Minister that contains the information** prescribed by the regulations and of a garnishee summons binds Her Majesty for **12** years in respect of all garnishable moneys payable to the judgment debtor named in the garnishee summons.
+Subject to the provisions of this Part and the regulations, service on the Minister of an application in the form approved by the Minister that contains the information prescribed by the regulations and of a garnishee summons binds Her Majesty for 12 years in respect of all garnishable moneys payable to the judgment debtor named in the garnishee summons.
 
 ### Section 29
 
-For the purposes of section 28, the **12**-year period **begins** on the **expiry** of the period prescribed by the regulations that immediately follows the service of the garnishee summons on the Minister.
-
-
-> **Explanatory Note**:
-> Existing text of sections 28 and 29:
-> *Existing Text*:
-> > Subject to this Part and the regulations, service of the following documents on the Minister, namely,
-> > a garnishee summons, and
-> > [Repealed, 1997, c. 1, s. 21]
-> > an application in the form prescribed by the regulations,
-> > 
-> > binds Her Majesty for five years in respect of all garnishable moneys payable to the judgment debtor named in the garnishee summons.
-> > For the purposes of section 28, the five year period referred to in that section commences on the expiration of the period prescribed by the regulations that immediately follows the service of the garnishee summons on the Minister.
+For the purposes of section 28, the 12-year period begins on the expiry of the period prescribed by the regulations that immediately follows the service of the garnishee summons on the Minister.
 
 ### Section 55
 
@@ -2069,27 +1810,13 @@ Sections 30 and 31 of the Act are replaced by the following:
 
 A garnishee summons against a judgment debtor ceases to bind Her Majesty after the periods and in the circumstances specified in the regulations.
 
-
-> **Explanatory Note**:
-> Existing text of sections 30 and 31:
-> *Existing Text*:
-> > Subject to section 31, where a garnishee summons of continuing effect is served on the Minister under this Part and garnishable moneys become payable to the judgment debtor in the five year period during which Her Majesty is bound by the garnishee summons, Her Majesty shall, at the expiration of that period, continue to be bound in accordance with the garnishee summons in respect of all subsequent payments of garnishable moneys to the judgment debtor that are authorized by the same Act of Parliament, provision thereof or program thereunder that authorized the payments of the garnishable moneys to the judgment debtor in the period during which Her Majesty was originally bound by the garnishee summons.
-> > Her Majesty shall cease to be bound under section 30 in respect of any garnishable moneys authorized by any particular Act of Parliament, provision thereof or program thereunder if no such moneys become payable to the judgment debtor for any period of one hundred and eighty consecutive days.
-
 ### Section 56
 
 Sections 34 and 35 of the Act are replaced by the following:
 
 ### Section 34
 
-In addition to any method of service permitted in accordance with provincial garnishment law, service of documents on the Minister under this Part may be effected by any method prescribed **by the regulations**.
-
-
-> **Explanatory Note**:
-> Existing text of sections 34 and 35:
-> *Existing Text*:
-> > In addition to any method of service permitted in accordance with provincial garnishment law, service of documents on the Minister under this Part may be effected by registered mail or by any other method prescribed in the regulations.
-> > Where service of a document on the Minister under this Part is effected by registered mail, the document shall be deemed to be served on the day of its receipt by the Minister.
+In addition to any method of service permitted in accordance with provincial garnishment law, service of documents on the Minister under this Part may be effected by any method prescribed by the regulations.
 
 ### Section 57
 
@@ -2097,22 +1824,15 @@ Sections 36 and 37 of the Act are replaced by the following:
 
 ### Section 36
 
-**Immediately** after **being served with** the documents referred to in section 28, the Minister shall notify every minister **who is** responsible for garnishable moneys of the service **of the documents** and **shall** provide **them** with **the** information **that** may be necessary to assist **them** in determining whether any garnishable moneys are payable to the judgment debtor.
+Immediately after being served with the documents referred to in section 28, the Minister shall notify every minister who is responsible for garnishable moneys of the service of the documents and shall provide them with the information that may be necessary to assist them in determining whether any garnishable moneys are payable to the judgment debtor.
 
 ### Section 37
 
-**Immediately** after being notified **under** section 36, each minister **who is** responsible for garnishable moneys shall report to the Minister on whether **those** moneys are payable or are foreseeably payable to the judgment debtor.
+Immediately after being notified under section 36, each minister who is responsible for garnishable moneys shall report to the Minister on whether those moneys are payable or are foreseeably payable to the judgment debtor.
 
 ### Section 37.1
 
 For the purposes of section 37, if the Minister of National Revenue knows or suspects that garnishable moneys would be payable to a judgment debtor were the debtor to file a return of income for a taxation year, that Minister may, in accordance with subsection 150(2) of the `Income Tax Act`, demand that the debtor file a return of income for that taxation year.
-
-
-> **Explanatory Note**:
-> Existing text of sections 36 and 37:
-> *Existing Text*:
-> > Forthwith after receipt of the documents referred to in section 28, the Minister shall notify every minister responsible for garnishable moneys of the service thereof and provide each such minister with such information as may be necessary to assist that other minister in determining whether any garnishable moneys are payable to the judgment debtor.
-> > Forthwith after being notified pursuant to section 36, each minister responsible for garnishable moneys shall report to the Minister on whether such moneys are payable or are foreseeably payable to the judgment debtor.
 
 ### Section 58
 
@@ -2120,13 +1840,7 @@ Section 40 of the Act is replaced by the following:
 
 ### Section 40
 
-Subject to the regulations, **the Minister and** every minister responsible for garnishable moneys is entitled to have any of the information banks that may be searched under Part I searched for any information necessary to confirm the identity of any judgment debtor.
-
-
-> **Explanatory Note**:
-> Existing text of section 40:
-> *Existing Text*:
-> > Subject to the regulations, every minister responsible for garnishable moneys is entitled to have any of the information banks that may be searched under Part I searched for any information that minister deems necessary to confirm the identity of any judgment debtor.
+Subject to the regulations, the Minister and every minister responsible for garnishable moneys is entitled to have any of the information banks that may be searched under Part I searched for any information necessary to confirm the identity of any judgment debtor.
 
 ### Section 59
 
@@ -2137,13 +1851,7 @@ Section 41 of the French version of the Act and the heading before it are replac
 
 ### Section 41
 
-Le ministre **donne suite au bref de saisie-arrêt**, au nom de Sa Majesté, dans le délai réglementaire.
-
-
-> **Explanatory Note**:
-> Existing text of the heading and section 41:
-> *Existing Text*:
-> > The Minister, on behalf of Her Majesty, shall respond to every garnishee summons within the time prescribed by the regulations.
+Le ministre donne suite au bref de saisie-arrêt, au nom de Sa Majesté, dans le délai réglementaire.
 
 ### Section 60
 
@@ -2153,37 +1861,19 @@ Section 42 of the Act is replaced by the following:
 
 In addition to any method of responding to a garnishee summons permitted by provincial garnishment law, the Minister may respond to a garnishee summons by any method prescribed by the regulations.
 
-
-> **Explanatory Note**:
-> Existing text of section 42:
-> *Existing Text*:
-> > In addition to any method of responding to a garnishee summons permitted by provincial garnishment law, the Minister may respond to a garnishee summons by registered mail or by any other method prescribed by the regulations.
-
 ### Section 61
 
 Section 43 of the French version of the Act is replaced by the following:
 
 ### Section 43
 
-**Si** le ministre **donne suite à un bref de saisie-arrêt par courrier recommandé**, le récépissé conforme aux règlements pris, en matière de courrier recommandé, en vertu de la `Loi sur la Société canadienne des postes` est admissible en preuve et établit, sauf preuve contraire, que **le ministre y a donné suite**.
-
-
-> **Explanatory Note**:
-> Existing text of section 43:
-> *Existing Text*:
-> > Where the Minister responds to a garnishee summons by registered mail, the receipt issued in accordance with regulations relating to registered mail made under the `Canada Post Corporation Act` shall be received in evidence and is, unless the contrary is shown, proof that the Minister has responded to the garnishee summons.
+Si le ministre donne suite à un bref de saisie-arrêt par courrier recommandé, le récépissé conforme aux règlements pris, en matière de courrier recommandé, en vertu de la `Loi sur la Société canadienne des postes` est admissible en preuve et établit, sauf preuve contraire, que le ministre y a donné suite.
 
 ### Section 62
 
 Subsection 44(2) of the Act is replaced by the following:
 
-**(2)** If provincial garnishment law **permits** a payment to **a** provincial enforcement service of the province, a payment to the provincial enforcement service by the Minister is, to the extent of the payment, a good and sufficient discharge of Her Majesty's liability under this Part and under the legislation governing the garnishable moneys.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 44(2):
-> *Existing Text*:
-> > Where a payment to a provincial enforcement service as defined in section 2 is permitted under the provincial garnishment law of the province of a provincial enforcement service, a payment to the provincial enforcement service by the Minister is, to the extent of the payment, a good and sufficient discharge of Her Majesty's liability under this Part and under the legislation governing the garnishable moneys.
+**(2)** If provincial garnishment law permits a payment to a provincial enforcement service of the province, a payment to the provincial enforcement service by the Minister is, to the extent of the payment, a good and sufficient discharge of Her Majesty's liability under this Part and under the legislation governing the garnishable moneys.
 
 ### Section 63
 
@@ -2191,30 +1881,18 @@ Section 45 of the Act is replaced by the following:
 
 ### Section 45
 
-**If** a garnishee summons is served on the Minister under this Part, the Minister **may** notify the judgment debtor named in the garnishee summons of that service.
-
-
-> **Explanatory Note**:
-> Existing text of section 45:
-> *Existing Text*:
-> > Where a garnishee summons is served on the Minister under this Part, the Minister shall, in the form, within the time and in the manner prescribed by the regulations, notify the judgment debtor named in the garnishee summons of that service.
+If a garnishee summons is served on the Minister under this Part, the Minister may notify the judgment debtor named in the garnishee summons of that service.
 
 ### Section 64
 
 Section 49 of the English version of the Act and the heading before it are replaced by the following:
 
 
-### Recovery of **Excess** Payments
+### Recovery of Excess Payments
 
 ### Section 49
 
-**If** a judgment debtor is paid any garnishable moneys to which **the judgment debtor** is not entitled by reason of garnishment proceedings permitted under this Part, the amount **that is paid** is a debt due to Her Majesty by the judgment debtor and may be recovered as such in accordance with the `Financial Administration Act` or the legislation governing the particular garnishable moneys paid to the judgment debtor.
-
-
-> **Explanatory Note**:
-> Existing text of the heading and section 49:
-> *Existing Text*:
-> > Where a judgment debtor is paid any garnishable moneys to which he is not entitled by reason of garnishment proceedings permitted under this Part, the amount thereof is a debt due to Her Majesty by the judgment debtor and may be recovered as such in accordance with the `Financial Administration Act` or the legislation governing the particular garnishable moneys paid to the judgment debtor.
+If a judgment debtor is paid any garnishable moneys to which the judgment debtor is not entitled by reason of garnishment proceedings permitted under this Part, the amount that is paid is a debt due to Her Majesty by the judgment debtor and may be recovered as such in accordance with the `Financial Administration Act` or the legislation governing the particular garnishable moneys paid to the judgment debtor.
 
 ### Section 65
 
@@ -2222,13 +1900,7 @@ Section 50 of the Act is replaced by the following:
 
 ### Section 50
 
-Subject to section 51, **if** garnishable moneys are paid under this Part to or for the benefit of a party that instituted garnishment proceedings permitted under this Part in excess of the amount that should be paid to or for the benefit of that party, **the excess** is a debt due to Her Majesty by that party and may be recovered as such in accordance with the `Financial Administration Act` or by **way of** deduction **from,** or set-off **or compensation** against any garnishable moneys payable to or for the benefit of that party under this Part.
-
-
-> **Explanatory Note**:
-> Existing text of section 50:
-> *Existing Text*:
-> > Subject to section 51, where garnishable moneys are paid under this Part to or for the benefit of a party that instituted garnishment proceedings permitted under this Part in excess of the amount that should be paid to or for the benefit of that party, the amount thereof is a debt due to Her Majesty by that party and may be recovered as such in accordance with the `Financial Administration Act` or by deduction or set-off against any garnishable moneys payable to or for the benefit of that party under this Part.
+Subject to section 51, if garnishable moneys are paid under this Part to or for the benefit of a party that instituted garnishment proceedings permitted under this Part in excess of the amount that should be paid to or for the benefit of that party, the excess is a debt due to Her Majesty by that party and may be recovered as such in accordance with the `Financial Administration Act` or by way of deduction from, or set-off or compensation against, any garnishable moneys payable to or for the benefit of that party under this Part.
 
 ### Section 66
 
@@ -2236,13 +1908,7 @@ Section 53 of the Act is replaced by the following:
 
 ### Section 53
 
-**If** more than one garnishee summons is served on the Minister under this Part in respect of the same judgment debtor, the garnishee summonses shall be **honoured in the manner specified in the regulations.**
-
-
-> **Explanatory Note**:
-> Existing text of section 53:
-> *Existing Text*:
-> > Where more than one garnishee summons is served on the Minister under this Part in respect of the same judgment debtor and the garnishable moneys payable to the judgment debtor are insufficient to satisfy all the garnishee summonses, payment shall be made on a proportional basis.
+If more than one garnishee summons is served on the Minister under this Part in respect of the same judgment debtor, the garnishee summonses shall be honoured in the manner specified in the regulations.
 
 ### Section 67
 
@@ -2250,13 +1916,7 @@ Section 59 of the Act is replaced by the following:
 
 ### Section 59
 
-Subject to any regulations respecting the remittance **of** the fee referred to in section 58, **it** is a debt due to Her Majesty by the judgment debtor and may, subject to section 60, be recovered by **way of** deduction **from**, set-off **or compensation** against any garnishable moneys payable to the judgment debtor.
-
-
-> **Explanatory Note**:
-> Existing text of section 59:
-> *Existing Text*:
-> > Subject to any regulations respecting the remittance thereof, the fee referred to in section 58 is a debt due to Her Majesty by the judgment debtor and may, subject to section 60, be recovered by deduction or set-off against any garnishable moneys payable to the judgment debtor.
+Subject to any regulations respecting the remittance of the fee referred to in section 58, it is a debt due to Her Majesty by the judgment debtor and may, subject to section 60, be recovered by way of deduction from, **or** set-off or compensation against, any garnishable moneys payable to the judgment debtor.
 
 ### Section 68
 
@@ -2264,23 +1924,17 @@ Section 60 of the French version of the Act is replaced by the following:
 
 ### Section 60
 
-Les frais **visés à** l'article 58 ne peuvent être recouvrés sur les sommes saisissables à verser en exécution d'un bref de saisie-arrêt.
-
-
-> **Explanatory Note**:
-> Existing text of section 60:
-> *Existing Text*:
-> > The fee referred to in section 58 may not be recovered out of any garnishable moneys to be used to honour a garnishee summons.
+Les frais visés à l'article 58 ne peuvent être recouvrés sur les sommes saisissables à verser en exécution d'un bref de saisie-arrêt.
 
 ### Section 69
 
   **(1)** Paragraph 61(a.1) of the Act is replaced by the following:
 
-    prescribing the percentage of the amount of garnishable moneys, in relation to the Act of Parliament, **the** provision **of that Act** or **the** program **under that Act** by or under which the garnishable moneys are authorized to be paid, that is to be exempt from the enforcement of orders;
+    prescribing the percentage of the amount of garnishable moneys, in relation to the Act of Parliament, the provision of that Act or the program under that Act by or under which the garnishable moneys are authorized to be paid, that is to be exempt from the enforcement of orders;
 
   **(2)** Subsection 61(b) of the Act is replaced by the following:
 
-    prescribing **the information that must be contained in an** application referred to in **section** 28;
+    prescribing the information that must be contained in an application referred to in section 28;
 
   **(3)** Section 61 of the Act is amended by adding the following after paragraph (c):
 
@@ -2288,11 +1942,11 @@ Les frais **visés à** l'article 58 ne peuvent être recouvrés sur les sommes 
 
   **(4)** Paragraph 61(e) of the Act is replaced by the following:
 
-    **respecting the** methods **of** service of documents **and providing for the day on which service of documents on** the Minister **is deemed to** be effected;
+    respecting the methods of service of documents and providing for the day on which service of documents on the Minister is deemed to be effected;
 
   **(5)** Paragraph 61(g) of the Act is replaced by the following:
 
-    **respecting** the methods by which the Minister **may** respond to garnishee summonses and prescribing the time within which **the Minister must do so**;
+    respecting the methods by which the Minister may respond to garnishee summonses and prescribing the time within which the Minister must do so;
 
   **(6)** Paragraph 61(h) of the Act is replaced by the following:
 
@@ -2300,7 +1954,7 @@ Les frais **visés à** l'article 58 ne peuvent être recouvrés sur les sommes 
 
   **(7)** Paragraph 61(i) of the English version of the Act is replaced by the following:
 
-    prescribing a fee in respect of the processing of garnishee summonses and the **time and** manner of collecting the fee;
+    prescribing a fee in respect of the processing of garnishee summonses and the time and manner of collecting the fee;
 
 ### Section 70
 
@@ -2324,13 +1978,7 @@ Section 63 of the Act is replaced by the following:
 
 ### Section 63
 
-The Governor in Council may, by order, **amend** the schedule to add to or delete any type or class of licence that may be issued to an individual under an Act of Parliament or under a prerogative of the Crown.
-
-
-> **Explanatory Note**:
-> Existing text of section 63:
-> *Existing Text*:
-> > The Governor in Council may, by order, add to or delete from the schedule any type or class of licence that may be issued to an individual under an Act of Parliament or under an order made pursuant to a prerogative of the Crown.
+The Governor in Council may, by order, amend the schedule to add to or delete any type or class of licence that may be issued to an individual under an Act of Parliament or under a prerogative of the Crown.
 
 ### Section 72
 
@@ -2340,27 +1988,21 @@ Section 64 of the Act is replaced by the following:
 
 The purpose of this Part is to help provincial enforcement services enforce support orders by providing for the denial of certain licences to debtors who are in persistent arrears.
 
-
-> **Explanatory Note**:
-> Existing text of section 64:
-> *Existing Text*:
-> > The purpose of this Part is to help provincial enforcement services enforce support orders and support provisions by providing for the denial of certain licences to debtors who are in persistent arrears.
-
 ### Section 73
 
   **(1)** The portion of subsection 67(1) of the English version of the Act before paragraph (a) is replaced by the following:
 
 ### Section 67
 
-      **(1)** **If** a debtor is in persistent arrears, a provincial enforcement service may apply to the Minister **requesting** that the following actions be taken:
+      **(1)** If a debtor is in persistent arrears, a provincial enforcement service may apply to the Minister requesting that the following actions be taken:
 
   **(2)** Subsection 67(2) of the Act is replaced by the following:
 
-    **(2)** An application must be in the form **approved by the Minister** and must contain **the** prescribed information.
+    **(2)** An application must be in the form approved by the Minister and must contain the prescribed information.
 
   **(3)** The portion of subsection 67(3) of the Act before paragraph (a) is replaced by the following:
 
-    **(3)** An application must **contain a statement** by an officer of the provincial enforcement service **confirming** the following:
+    **(3)** An application must contain a statement by an officer of the provincial enforcement service confirming the following:
 
   **(4)** Paragraph 67(3)(a) of the English version of the Act is replaced by the following:
 
@@ -2380,13 +2022,7 @@ Section 68 of the Act and the heading before it are replaced by the following:
 
 ### Section 68
 
-Immediately on the receipt of a licence denial application, the Minister shall **notify** each appropriate Minister of the receipt of the application, and shall provide **them** with **any** information **that** may be necessary to **assist them in determining** whether the debtor to whom the application relates is the holder of a schedule licence.
-
-
-> **Explanatory Note**:
-> Existing text of the heading and section 68:
-> *Existing Text*:
-> > Immediately on the receipt of a licence denial application and the affidavit referred to in subsection 67(3), the Minister shall inform each appropriate Minister of the receipt of the application, and shall provide the appropriate Minister with such information as may be necessary to help the appropriate Minister determine whether the debtor to whom the application relates is the holder of a schedule licence.
+Immediately on the receipt of a licence denial application, the Minister shall notify each appropriate Minister of the receipt of the application, and shall provide them with any information that may be necessary to assist them in determining whether the debtor to whom the application relates is the holder of a schedule licence.
 
 ### Section 75
 
@@ -2396,35 +2032,25 @@ The Act is amended by adding the following after section 68:
 
 Subject to the regulations, the Minister and the appropriate Minister are entitled to have any of the information banks that may be searched under Part I searched for any information necessary to confirm the identity of the debtor.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 76
 
   **(1)** Subparagraphs 72(1)(a)(i) and (ii) of the Act are replaced by the following:
 
-    is no longer in arrears under all support orders against the debtor that **are** enforced by a licence denial application,
+    is no longer in arrears under all support orders against the debtor that are enforced by a licence denial application,
 
-    is complying, in respect of **those** support orders, with a payment plan that the provincial enforcement service considers reasonable, or
+    is complying, in respect of those support orders, with a payment plan that the provincial enforcement service considers reasonable, or
 
   **(2)** Paragraph 72(1)(b) of the Act is replaced by the following:
 
-    the provincial enforcement service ceases to enforce **those** support orders against the debtor.
+    the provincial enforcement service ceases to enforce those support orders against the debtor.
 
   **(3)** Subsection 72(2) of the Act is replaced by the following:
 
-    **(2)** A request under subsection (1) must be made to the Minister in the prescribed manner **and in the form approved by the Minister**.
+    **(2)** A request under subsection (1) must be made to the Minister in the prescribed manner and in the form approved by the Minister.
 
 ### Section 77
 
 Section 77 of the Act and the heading before it are repealed.
-
-
-> **Explanatory Note**:
-> Existing text of the heading and section 77:
-> *Existing Text*:
-> > No action lies against Her Majesty in right of Canada, any Minister of the Crown in right of Canada or any officer or employee of Her Majesty in right of Canada for anything done or omitted to be done, or purported to be done or omitted to be done, in good faith in the administration of this Part or the discharge of any obligation, power or duty under this Part.
 
 ### Section 78
 
@@ -2437,12 +2063,6 @@ The Governor in Council may make regulations
 respecting the conducting of searches for the purposes of this Part of the information banks that may be searched under Part I;
 
 prescribing anything that by this Part is to be or may be prescribed.
-
-
-> **Explanatory Note**:
-> Existing text of section 78:
-> *Existing Text*:
-> > The Governor in Council may make regulations prescribing anything that by this Part is to be or may be prescribed.
 
 ### Section 79
 
@@ -2465,24 +2085,13 @@ No action lies against Her Majesty in right of Canada, any Minister of the Crown
 
 The Minister may undertake research related to matters governed by this Act.
 
-
-> **Explanatory Note**:
-> Existing text of the heading:
-> *Existing Text*:
-
 ### Section 80
 
 Section 80 of the Act is replaced by the following:
 
 ### Section 80
 
-**An** officer or employee of, **or** person who is hired on a contractual basis by, Her Majesty **in right of Canada** who obtains **personal** information, **as defined in section 3 of the `Privacy Act`, under** this Act shall **not**, except **in performing their duties under** this Act **or if so authorized under another Act of Parliament**, knowingly communicate the information or allow **it** to be communicated to any person, or knowingly allow any person to inspect or have access to any statement or other writing containing the information.
-
-
-> **Explanatory Note**:
-> Existing text of section 80:
-> *Existing Text*:
-> > No officer or employee of Her Majesty, and no person who is hired on a contractual basis by Her Majesty to assist in the administration of this Act, who obtains any information pursuant to this Act shall, except as provided in this Act, knowingly communicate or knowingly allow the information to be communicated to any person, or knowingly allow any person to inspect or have access to any statement or other writing containing the information.
+An officer or employee of, or person who is hired on a contractual basis by, Her Majesty in right of Canada who obtains personal information, as defined in section 3 of the `Privacy Act`, under this Act shall not, except in performing their duties under this Act or if so authorized under another Act of Parliament, knowingly communicate the information or allow it to be communicated to any person, or knowingly allow any person to inspect or have access to any statement or other writing containing the information.
 
 
 ## Garnishment, Attachment and Pension Diversion Act
@@ -2491,16 +2100,11 @@ Section 80 of the Act is replaced by the following:
 
 The long title of the `Garnishment, Attachment and Pension Diversion Act` is replaced by the following:
 
-
-> **Explanatory Note**:
-> Existing text of the long title:
-> *Existing Text*:
-
 ### Section 82
 
   **(1)** The definition Minister in section 2 of the Act is replaced by the following:
 
-    **Minister** means the Minister or Ministers designated **under section 48**; (**ministre**)
+    **Minister** means the Minister or Ministers designated under section 48; (**ministre**)
 
   **(2)** Section 2 of the Act is amended by adding the following in alphabetical order:
 
@@ -2533,17 +2137,11 @@ Section 3 of the Act and the heading before it are replaced by the following:
 
 ### Section 3
 
-**Despite** any **law** preventing the garnishment of Her Majesty **or a parliamentary entity, both** may be garnisheed **under** this Part.
+Despite any law preventing the garnishment of Her Majesty or a parliamentary entity, both may be garnisheed under this Part.
 
 ### Section 3.1
 
 For greater certainty, Her Majesty and parliamentary entities are bound by the law relating to garnishment provided under any Act of Parliament.
-
-
-> **Explanatory Note**:
-> Existing text of the heading and section 3:
-> *Existing Text*:
-> > Notwithstanding any provision of any other Act of Parliament preventing the garnishment of Her Majesty, Her Majesty may be garnisheed, subject to and in accordance with this Part and any regulation made thereunder.
 
 ### Section 84
 
@@ -2551,9 +2149,9 @@ For greater certainty, Her Majesty and parliamentary entities are bound by the l
 
   **(2)** The definitions garnishee summons and pay period in section 4 of the Act are replaced by the following:
 
-    **garnishee summons** includes any document **that is of a similar nature to a garnishee summons, including a** court order **and a document in respect of maintenance, alimony or support issued by a provincial enforcement service**;  (**bref de saisie-arrêt**)
+    **garnishee summons** includes any document that is of a similar nature to a garnishee summons, including a court order and a document in respect of maintenance, alimony or support issued by a provincial enforcement service;  (**bref de saisie-arrêt**)
 
-    **pay period** means, in respect of any particular person, the period **beginning** on the day **after** the **day that is the regular pay-day of the** person and ending on the day **that is their next regular pay-day**; (**période de paye**)
+    **pay period** means, in respect of any particular person, the period beginning on the day after the day that is the regular pay-day of the person and ending on the day that is their next regular pay-day; (**période de paye**)
 
 ### Section 85
 
@@ -2561,18 +2159,11 @@ Section 6 of the Act is replaced by the following:
 
 ### Section 6
 
-  **(1)** Subject to this Division, service on Her Majesty of a garnishee summons, together with a copy of the order against **a** debtor and an application in the prescribed form, binds Her Majesty **15** days after the day on which those documents are served.
+  **(1)** Subject to this Division, service on Her Majesty of a garnishee summons, together with a copy of the order against a debtor and an application in the prescribed form, binds Her Majesty 15 days after the day on which those documents are served.
 
-  **(2)** A garnishee summons served on Her Majesty is of no effect unless it is served on Her Majesty in the first **45** days following the first day on which it could have been validly served on Her Majesty.
+  **(2)** A garnishee summons served on Her Majesty is of no effect unless it is served on Her Majesty in the first 45 days following the first day on which it could have been validly served on Her Majesty.
 
   **(3)** The garnishee summons ceases to bind Her Majesty after the periods and in the circumstances specified in the regulations.
-
-
-> **Explanatory Note**:
-> Existing text of section 6:
-> *Existing Text*:
-> > Subject to this Division, service on Her Majesty of a garnishee summons, together with a copy of the judgment or order against the debtor and an application in the prescribed form, binds Her Majesty fifteen days after the day on which those documents are served.
-> > A garnishee summons served on Her Majesty is of no effect unless it is served on Her Majesty in the first thirty days following the first day on which it could have been validly served on Her Majesty.
 
 ### Section 86
 
@@ -2580,7 +2171,7 @@ Section 6 of the Act is replaced by the following:
 
 ### Section 7
 
-      **(1)** Les **documents** relatifs à une saisie-arrêt prévue par la présente section doivent être signifiés à Sa Majesté au lieu indiqué dans les règlements.
+      **(1)** Les documents relatifs à une saisie-arrêt prévue par la présente section doivent être signifiés à Sa Majesté au lieu indiqué dans les règlements.
 
   **(2)** Subsections 7(2) and (3) of the Act are replaced by the following:
 
@@ -2590,15 +2181,7 @@ Section 6 of the Act is replaced by the following:
 
 Subparagraph 8(a)(i) of the Act is replaced by the following:
 
-the salary to be paid, **no later than** the last day of the second pay period following the pay period in which Her Majesty is bound by the garnishee summons, and
-
-
-> **Explanatory Note**:
-> Relevant portion of section 8:
-> *Existing Text*:
-> > For the purposes of garnishment proceedings permitted by this Division, service of a garnishee summons binds Her Majesty in respect of the following money to be paid by Her Majesty to the debtor named in the garnishee summons:
-> > in the case of a salary,
-> > the salary to be paid on the last day of the second pay period next following the pay period in which Her Majesty is bound by the garnishee summons, and
+the salary to be paid, no later than the last day of the second pay period following the pay period in which Her Majesty is bound by the garnishee summons, and
 
 ### Section 88
 
@@ -2606,13 +2189,7 @@ The portion of section 10 of the French version of the Act before paragraph (a) 
 
 ### Section 10
 
-Sa Majesté dispose, pour **donner suite au bref de saisie-arrêt**, des délais suivants :
-
-
-> **Explanatory Note**:
-> Relevant portion of section 10:
-> *Existing Text*:
-> > Her Majesty has the following time period within which to respond to a garnishee summons:
+Sa Majesté dispose, pour donner suite au bref de saisie-arrêt, des délais suivants :
 
 ### Section 89
 
@@ -2624,17 +2201,17 @@ Sa Majesté dispose, pour **donner suite au bref de saisie-arrêt**, des délais
 
   **(2)** Subsection 11(2) of the French version of the Act is replaced by the following:
 
-    **(2)** **Si** Sa Majesté **donne suite à un bref de saisie-arrêt par courrier recommandé**, le récépissé conforme aux règlements pris, en matière de courrier recommandé, en vertu de la `Loi sur la Société canadienne des postes` est admissible en preuve et établit, sauf preuve contraire, **qu'elle y** a **donné suite**.
+    **(2)** Si Sa Majesté donne suite à un bref de saisie-arrêt par courrier recommandé, le récépissé conforme aux règlements pris, en matière de courrier recommandé, en vertu de la `Loi sur la Société canadienne des postes` est admissible en preuve et établit, sauf preuve contraire, qu'elle y a donné suite.
 
   **(3)** Subsections 11(3) and (4) of the Act are replaced by the following:
 
-    **(3)** A payment into court by Her Majesty is a good and sufficient discharge of **Her Majesty's** liability, to the extent of the payment.
+    **(3)** A payment into court by Her Majesty is a good and sufficient discharge of Her Majesty's liability, to the extent of the payment.
 
     **(3.1)** If provincial garnishment law permits a payment to a provincial enforcement service of the province, a payment to the provincial enforcement service by Her Majesty is a good and sufficient discharge of Her Majesty's liability, to the extent of the payment.
 
-    **(4)** **If**, in honouring a garnishee summons, Her Majesty, through error, pays to a debtor by way of salary or remuneration an amount in excess of the amount that Her Majesty should have paid to that debtor, the excess **is** a debt due to Her Majesty by that debtor and may be recovered from the debtor by **way of deduction from,** set-off **or compensation** against future moneys payable to the debtor as salary or remuneration.
+    **(4)** If, in honouring a garnishee summons, Her Majesty, through error, pays to a debtor by way of salary or remuneration an amount in excess of the amount that Her Majesty should have paid to that debtor, the excess is a debt due to Her Majesty by that debtor and may be recovered from the debtor by way of deduction from, **or** set-off or compensation against, future moneys payable to the debtor as salary or remuneration.
 
-    **(5)** If moneys are paid by Her Majesty to or for the benefit of a party who instituted garnishment proceedings permitted by this Division in excess of the amount that should be paid to or for the benefit of that party, the excess is a debt due to Her Majesty by that party and may be recovered from the party by way of deduction from, set-off or compensation against moneys payable to or for the benefit of that party under this Division.
+    **(5)** If moneys are paid by Her Majesty to or for the benefit of a party who instituted garnishment proceedings permitted by this Division in excess of the amount that should be paid to or for the benefit of that party, the excess is a debt due to Her Majesty by that party and may be recovered from the party by way of deduction from, **or** set-off or compensation against, moneys payable to or for the benefit of that party under this Division.
 
 ### Section 90
 
@@ -2652,13 +2229,7 @@ Section 15 of the Act is replaced by the following:
 
 ### Section 15
 
-In respect of pay and allowances payable to members of the Canadian Forces, Her Majesty is bound by provincial garnishment law to the extent, in the manner, and subject to the terms and conditions that may be provided by or under regulations made **under** the `National Defence Act`.
-
-
-> **Explanatory Note**:
-> Existing text of section 15:
-> *Existing Text*:
-> > In respect of pay and allowances payable to members of the Canadian Forces, Her Majesty is bound by provincial garnishment law to the extent, in the manner, and subject to the terms and conditions that may be provided by or under regulations made by the Governor in Council pursuant to the `National Defence Act`.
+In respect of pay and allowances payable to members of the Canadian Forces, Her Majesty is bound by provincial garnishment law to the extent, in the manner, and subject to the terms and conditions that may be provided by or under regulations made under the `National Defence Act`.
 
 ### Section 92
 
@@ -2667,24 +2238,19 @@ The heading of Division IV of Part I of the Act is replaced by the following:
 
 ### Parliamentary Entities
 
-
-> **Explanatory Note**:
-> Existing text of the heading:
-> *Existing Text*:
-
 ### Section 93
 
   **(1)** The definition prescrit ou réglementaire in section 16 of the French version of the Act is repealed.
 
   **(2)** The definitions garnishee summons and pay period in section 16 of the Act are replaced by the following:
 
-    **garnishee summons** includes any document **that is of a similar nature to a garnishee summons, including a** court order **and a document in respect of maintenance, alimony or support issued by a provincial enforcement service**;  (**bref de saisie-arrêt**)
+    **garnishee summons** includes any document that is of a similar nature to a garnishee summons, including a court order and a document in respect of maintenance, alimony or support issued by a provincial enforcement service;  (**bref de saisie-arrêt**)
 
-    **pay period** means, in respect of any particular person, the period **beginning** on the day **after** the **day that is the regular pay-day of the** person and ending on the day **that is their next regular pay-day**; (**période de paye**)
+    **pay period** means, in respect of any particular person, the period beginning on the day after the day that is the regular pay-day of the person and ending on the day that is their next regular pay-day; (**période de paye**)
 
   **(3)** The portion of paragraph (b) of the definition **salary** in section 16 of the Act before subparagraph (i) is replaced by the following:
 
-    in the case of the staff of **a parliamentary entity** or the staff of members of the Senate or House of Commons, or in the case of any other person paid out of moneys appropriated by Parliament for use by **a parliamentary entity**,
+    in the case of the staff of a parliamentary entity or the staff of members of the Senate or House of Commons, or in the case of any other person paid out of moneys appropriated by Parliament for use by a parliamentary entity,
 
 ### Section 94
 
@@ -2692,13 +2258,7 @@ The portion of section 17 of the Act before paragraph (a) is replaced by the fol
 
 ### Section 17
 
-**Each parliamentary entity is**, subject to this Division and any regulation made under it, bound by provincial garnishment law in respect of
-
-
-> **Explanatory Note**:
-> Relevant portion of section 17:
-> *Existing Text*:
-> > The Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service and office of the Parliamentary Budget Officer are, subject to this Division and any regulation made under it, bound by provincial garnishment law in respect of
+Each parliamentary entity is, subject to this Division and any regulation made under it, bound by provincial garnishment law in respect of
 
 ### Section 95
 
@@ -2706,27 +2266,17 @@ Sections 18 and 19 of the Act are replaced by the following:
 
 ### Section 18
 
-  **(1)** Subject to this Division, service on **a parliamentary entity** of a garnishee summons, together with a copy of the order against **a** debtor and an application in the prescribed form, binds the **parliamentary entity**, 15 days after the day on which those documents are served.
+  **(1)** Subject to this Division, service on a parliamentary entity of a garnishee summons, together with a copy of the order against a debtor and an application in the prescribed form, binds the parliamentary entity, 15 days after the day on which those documents are served.
 
-  **(2)** **A** garnishee summons served on **the parliamentary entity** is of no effect unless it is served in the first **45** days following the first day on which it could have been validly served.
+  **(2)** A garnishee summons served on the parliamentary entity is of no effect unless it is served in the first 45 days following the first day on which it could have been validly served.
 
   **(3)** The garnishee summons ceases to bind the parliamentary entity after the periods and in the circumstances specified in the regulations.
 
 ### Section 19
 
-  **(1)** Service of documents on **a parliamentary entity** in connection with garnishment proceedings permitted by this Division must be effected at the place specified in the regulations.
+  **(1)** Service of documents on a parliamentary entity in connection with garnishment proceedings permitted by this Division must be effected at the place specified in the regulations.
 
   **(2)** In addition to any method of service permitted by the law of a province, service of documents under subsection (1) may be effected by any prescribed method.
-
-
-> **Explanatory Note**:
-> Existing text of sections 18 and 19:
-> *Existing Text*:
-> > Subject to this Division, service on the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or office of the Parliamentary Budget Officer of a garnishee summons, together with a copy of the judgment or order against the debtor and an application in the prescribed form, binds the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or office of the Parliamentary Budget Officer, as the case may be, 15 days after the day on which those documents are served.
-> > A garnishee summons served on the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or office of the Parliamentary Budget Officer is of no effect unless it is served on the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or office of the Parliamentary Budget Officer, as the case may be, in the first 30 days following the first day on which it could have been validly served on the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or office of the Parliamentary Budget Officer, as the case may be.
-> > Service of documents on the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or office of the Parliamentary Budget Officer in connection with garnishment proceedings permitted by this Division must be effected at the place specified in the regulations.
-> > In addition to any method of service permitted by the law of a province, service of documents on the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Office, office of the Conflict of Interest and Ethics Commissioner or Parliamentary Protective Service under subsection (1) may be effected by registered mail, whether within or outside the province, or by any other method prescribed.
-> > If service of a document on the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner or Parliamentary Protective Service is effected by registered mail, the document shall be deemed to be served on the day of its receipt by the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner or Parliamentary Protective Service, as the case may be.
 
 ### Section 96
 
@@ -2734,23 +2284,23 @@ Sections 18 and 19 of the Act are replaced by the following:
 
 ### Section 21
 
-    Pour les besoins de toute procédure de saisie-arrêt prévue par la présente section, la signification **à une entité parlementaire** du bref de saisie-arrêt frappe d'indisponibilité les sommes suivantes dont **l'entité en question** est redevable envers le débiteur mentionné dans le bref :
+    Pour les besoins de toute procédure de saisie-arrêt prévue par la présente section, la signification à une entité parlementaire du bref de saisie-arrêt frappe d'indisponibilité les sommes suivantes dont l'entité en question est redevable envers le débiteur mentionné dans le bref :
 
   **(2)** Subparagraph 21(a)(i) of the Act is replaced by the following:
 
-    the salary to be paid, **no later than** the last day of the second pay period following the pay period in which the **parliamentary entity** is bound by the garnishee summons, and
+    the salary to be paid, no later than the last day of the second pay period following the pay period in which the parliamentary entity is bound by the garnishee summons, and
 
   **(3)** Paragraph 21(b) of the English version of the Act is replaced by the following:
 
     in the case of remuneration described in paragraph 17(b),
 
-    the remuneration payable on the 15th day following the day on which the **parliamentary entity** is bound by the garnishee summons, and
+    the remuneration payable on the 15th day following the day on which the parliamentary entity is bound by the garnishee summons, and
 
     either
 
-    any remuneration becoming payable in the 30 days following the 15th day after the day on which the **parliamentary entity** is bound by the garnishee summons that is owing on that 15th day or that becomes owing in the 14 days following that 15th day, or
+    any remuneration becoming payable in the 30 days following the 15th day after the day on which the parliamentary entity is bound by the garnishee summons that is owing on that 15th day or that becomes owing in the 14 days following that 15th day, or
 
-    if the garnishee summons has continuing effect under the law of the province, any remuneration becoming payable subsequent to the 15th day after the day on which the **parliamentary entity** is bound by the garnishee summons.
+    if the garnishee summons has continuing effect under the law of the province, any remuneration becoming payable subsequent to the 15th day after the day on which the parliamentary entity is bound by the garnishee summons.
 
 ### Section 97
 
@@ -2758,11 +2308,11 @@ Sections 18 and 19 of the Act are replaced by the following:
 
 ### Section 22
 
-    The **parliamentary entity** has the following time period within which to respond to a garnishee summons:
+    The parliamentary entity has the following time period within which to respond to a garnishee summons:
 
   **(2)** Paragraph 22(a) of the English version of the Act is replaced by the following:
 
-    in the case of a salary, 15 days, or any lesser number of days that is prescribed, after the last day of the second pay period next following the pay period in which the **parliamentary entity** is bound by the garnishee summons; or
+    in the case of a salary, 15 days, or any lesser number of days that is prescribed, after the last day of the second pay period next following the pay period in which the parliamentary entity is bound by the garnishee summons; or
 
 ### Section 98
 
@@ -2770,32 +2320,23 @@ Section 23 of the Act is replaced by the following:
 
 ### Section 23
 
-  **(1)** In addition to any method of responding to a garnishee summons permitted by provincial garnishment law, the **parliamentary entity** may respond to a garnishee summons by any prescribed method.
+  **(1)** In addition to any method of responding to a garnishee summons permitted by provincial garnishment law, the parliamentary entity may respond to a garnishee summons by any prescribed method.
 
-  **(2)** If the **parliamentary entity** responds to a garnishee summons by registered mail, the receipt issued in accordance with regulations relating to registered mail made under the `Canada Post Corporation Act` shall be received in evidence and is, unless the contrary is shown, proof that the **entity** has responded to the garnishee summons.
+  **(2)** If the parliamentary entity responds to a garnishee summons by registered mail, the receipt issued in accordance with regulations relating to registered mail made under the `Canada Post Corporation Act` shall be received in evidence and is, unless the contrary is shown, proof that the entity has responded to the garnishee summons.
 
-  **(3)** A payment into court by the **parliamentary entity** is a good and sufficient discharge of **its** liability, to the extent of the payment.
+  **(3)** A payment into court by the parliamentary entity is a good and sufficient discharge of its liability, to the extent of the payment.
 
   **(3.1)** If provincial garnishment law permits a payment to a provincial enforcement service of the province, a payment to the provincial enforcement service by the parliamentary entity is a good and sufficient discharge of its liability, to the extent of the payment.
 
-  **(4)** If, in honouring a garnishee summons, **a parliamentary entity**, through error, pays to a debtor by way of salary or remuneration an amount in excess of the amount that it should have paid to that debtor, the excess **is** a debt due to the **entity** by that debtor and may be recovered from the debtor by **way of deduction from,** set-off **or compensation** against future moneys payable to the debtor as salary or remuneration.
+  **(4)** If, in honouring a garnishee summons, a parliamentary entity, through error, pays to a debtor by way of salary or remuneration an amount in excess of the amount that it should have paid to that debtor, the excess is a debt due to the entity by that debtor and may be recovered from the debtor by way of deduction from, **or** set-off or compensation against, future moneys payable to the debtor as salary or remuneration.
 
-  **(5)** If moneys are paid by a parliamentary entity to or for the benefit of a party who instituted garnishment proceedings permitted by this Division in excess of the amount that should be paid to or for the benefit of that party, the excess is a debt due to the entity by that party and may be recovered from the party by way of deduction from, set-off or compensation against moneys payable to or for the benefit of that party under this Division.
-
-
-> **Explanatory Note**:
-> Existing text of section 23:
-> *Existing Text*:
-> > In addition to any method of responding to a garnishee summons permitted by provincial garnishment law, the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or office of the Parliamentary Budget Officer may respond to a garnishee summons by registered mail or by any other method prescribed.
-> > If the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or office of the Parliamentary Budget Officer responds to a garnishee summons by registered mail, the receipt issued in accordance with regulations relating to registered mail made under the `Canada Post Corporation Act` shall be received in evidence and is, unless the contrary is shown, proof that the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or office of the Parliamentary Budget Officer, as the case may be, has responded to the garnishee summons.
-> > A payment into court by the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or office of the Parliamentary Budget Officer under this section is a good and sufficient discharge of liability, to the extent of the payment.
-> > If, in honouring a garnishee summons, the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or office of the Parliamentary Budget Officer, through error, pays to a debtor by way of salary or remuneration an amount in excess of the amount that it should have paid to that debtor, the excess becomes a debt due to the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or office of the Parliamentary Budget Officer, as the case may be, by that debtor and may be recovered from the debtor at any time by set-off against future moneys payable to the debtor as salary or remuneration.
+  **(5)** If moneys are paid by a parliamentary entity to or for the benefit of a party who instituted garnishment proceedings permitted by this Division in excess of the amount that should be paid to or for the benefit of that party, the excess is a debt due to the entity by that party and may be recovered from the party by way of deduction from, **or** set-off or compensation against, moneys payable to or for the benefit of that party under this Division.
 
 ### Section 99
 
   **(1)** Subsection 24(a) of the Act is replaced by the following:
 
-    specifying the place where service of documents on **the parliamentary entities** must be effected in connection with garnishment proceedings permitted by this Division;
+    specifying the place where service of documents on the parliamentary entities must be effected in connection with garnishment proceedings permitted by this Division;
 
     respecting methods of service of documents and providing for the day on which service of documents on the parliamentary entities is deemed to be effected;
 
@@ -2809,13 +2350,7 @@ Section 26 of the Act is replaced by the following:
 
 ### Section 26
 
-No execution shall issue on an **order made** against **a parliamentary entity** in garnishment proceedings permitted by this Part.
-
-
-> **Explanatory Note**:
-> Existing text of section 26:
-> *Existing Text*:
-> > No execution shall issue on a judgment given against the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service or office of the Parliamentary Budget Officer in garnishment proceedings permitted by this Part.
+No execution shall issue on an order made against a parliamentary entity in garnishment proceedings permitted by this Part.
 
 ### Section 101
 
@@ -2835,13 +2370,7 @@ Subject to section 27.1, in the application of this Part, a garnishee summons fo
 
 ### Section 28
 
-No execution shall issue on **an order made** against Her Majesty in garnishment proceedings permitted by this Part.
-
-
-> **Explanatory Note**:
-> Existing text of section 28:
-> *Existing Text*:
-> > No execution shall issue on a judgment given against Her Majesty in garnishment proceedings permitted by this Part.
+No execution shall issue on an order made against Her Majesty in garnishment proceedings permitted by this Part.
 
 ### Section 102
 
@@ -2849,25 +2378,14 @@ Section 30 of the English version of the Act is replaced by the following:
 
 ### Section 30
 
-No employee **shall** be dismissed, suspended or laid off solely on the ground that garnishment proceedings permitted by this Part may be or have been taken with respect to **that employee**.
-
-
-> **Explanatory Note**:
-> Existing text of section 30:
-> *Existing Text*:
-> > No employee may be dismissed, suspended or laid off solely on the ground that garnishment proceedings permitted by this Part may be or have been taken with respect to him.
+No employee shall be dismissed, suspended or laid off solely on the ground that garnishment proceedings permitted by this Part may be or have been taken with respect to that employee.
 
 ### Section 103
 
 The heading of Part II of the French version of the Act is replaced by the following:
 
 
-## Distraction de prestations de pension pour l'exécution d'ordonnances de soutien **financier**
-
-
-> **Explanatory Note**:
-> Existing text of the heading:
-> *Existing Text*:
+## Distraction de prestations de pension pour l'exécution d'ordonnances de soutien financier
 
 ### Section 104
 
@@ -2875,13 +2393,7 @@ Section 31 of the Act is replaced by the following:
 
 ### Section 31
 
-This Part applies only in respect of the enforcement of financial support orders against pension benefits **that are** payable **under** the enactments **listed** in the schedule.
-
-
-> **Explanatory Note**:
-> Existing text of section 31:
-> *Existing Text*:
-> > This Part applies only in respect of the enforcement of financial support orders against pension benefits payable pursuant to the superannuation Acts and like enactments referred to in the schedule.
+This Part applies only in respect of the enforcement of financial support orders against pension benefits that are payable under the enactments listed in the schedule.
 
 ### Section 105
 
@@ -2891,39 +2403,39 @@ This Part applies only in respect of the enforcement of financial support orders
 
   **(3)** The definitions **financial support order**, Minister, pension benefit and recipient in subsection 32(1) of the Act are replaced by the following:
 
-    **financial support order** means, subject to subsection (2), an order, judgment, **decision** or **agreement** for maintenance, alimony or support — **whether interim or final** — that is enforceable in a province; (**ordonnance de soutien financier**)
+    **financial support order** means, subject to subsection (2), an order, judgment, decision or agreement for maintenance, alimony or support — whether interim or final — that is enforceable in a province; (**ordonnance de soutien financier**)
 
-    **Minister** **means** the Minister or Ministers designated **under section 40.2**; (**ministre**)
+    **Minister** means the Minister or Ministers designated under section 40.2; (**ministre**)
 
     **pension benefit** means
 
-    any **of the following benefits** payable **under** an enactment **that is listed** in the schedule:
+    any of the following benefits payable under an enactment that is listed in the schedule:
 
-    **a** pension,
+    a pension,
 
-    **an** annual allowance,
+    an annual allowance,
 
-    **an** annuity,
+    an annuity,
 
-    **a** lump sum return of pension contributions, including interest, if any,
+    a lump sum return of pension contributions, including interest, if any,
 
-    **a** gratuity,
+    a gratuity,
 
-    **a** cash termination allowance,
+    a cash termination allowance,
 
-    **a** withdrawal allowance, including interest, if any,
+    a withdrawal allowance, including interest, if any,
 
-    **a** transfer value, or
+    a transfer value, or
 
     a bridge benefit, and
 
-    any benefit payable under the `Supplementary Retirement Benefits Act` or the `Public Service Pension Adjustment Act`, chapter P-33 of the Revised Statutes of Canada, 1970, in respect of **a** pension, annual allowance or annuity **referred to in paragraph (a)**; (**prestation de pension**)
+    any benefit payable under the `Supplementary Retirement Benefits Act` or the `Public Service Pension Adjustment Act`, chapter P-33 of the Revised Statutes of Canada, 1970, in respect of a pension, annual allowance or annuity referred to in paragraph (a); (**prestation de pension**)
 
     **recipient** means
 
-    in respect of a benefit referred to in any of **subparagraphs** (a)**(i)** to **(vii)** of the definition pension benefit, a child or other person to whom the benefit is immediately payable, but does not include a child or other person whose entitlement to the benefit is based on **their** status as a survivor of the person who was originally entitled to the benefit or would have been entitled to it had death not intervened, or
+    in respect of a benefit referred to in any of subparagraphs (a)(i) to (vii) of the definition pension benefit, a child or other person to whom the benefit is immediately payable, but does not include a child or other person whose entitlement to the benefit is based on their status as a survivor of the person who was originally entitled to the benefit or would have been entitled to it had death not intervened, or
 
-    in respect of a benefit referred to in **subparagraph (a)(viii) or (ix)** of the definition pension benefit, a person who is entitled to the benefit. (**prestataire**)
+    in respect of a benefit referred to in subparagraph (a)(viii) or (ix) of the definition pension benefit, a person who is entitled to the benefit. (**prestataire**)
 
   **(4)** Subsection 32(1) of the Act is amended by adding the following in alphabetical order:
 
@@ -2937,15 +2449,15 @@ This Part applies only in respect of the enforcement of financial support orders
 
 ### Section 33
 
-      **(1)** Subject to this Part and the regulations, a person named in **a** financial support order may make an application to the Minister for diversion of a pension benefit payable to **a** recipient **if**
+      **(1)** Subject to this Part and the regulations, a person named in a financial support order may make an application to the Minister for diversion of a pension benefit payable to a recipient if
 
         the order is valid and subsisting; and
 
         the person against whom the order has been made is a recipient.
 
-      **(2)** **The** application may be made, in accordance with the regulations, on behalf of **a** person by **any other** person **or by a provincial enforcement service**.
+      **(2)** The application may be made, in accordance with the regulations, on behalf of a person by any other person or by a provincial enforcement service.
 
-      **(3)** The Minister shall, not later than the first day of the fourth month **after** the month in which **the Minister receives** the duly completed application, divert an amount or amounts computed in accordance with sections 36 to 40 and the regulations from any net pension benefit that is payable to the recipient named in the application, and any amount so diverted shall be paid, subject to subsection (4), to the applicant, to **any** other person designated **for that purpose** in the financial support order **or to a provincial enforcement service if the law of the province permits payment to it**.
+      **(3)** The Minister shall, not later than the first day of the fourth month after the month in which the Minister receives the duly completed application, divert an amount or amounts computed in accordance with sections 36 to 40 and the regulations from any net pension benefit that is payable to the recipient named in the application, and any amount so diverted shall be paid, subject to subsection (4), to the applicant, to any other person designated for that purpose in the financial support order or to a provincial enforcement service if the law of the province permits payment to it.
 
   **(2)** Section 33 of the Act is amended by adding the following after subsection (2):
 
@@ -2967,7 +2479,7 @@ This Part applies only in respect of the enforcement of financial support orders
 
   **(2)** The portion of subsection 35.1(2) of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** A court to **which an** application is made under subsection (1) **or (1.1)** may make an order deeming the person against whom there is a valid and subsisting financial support order to have exercised an option under any of sections 12 to 13.001 of the `Public Service Superannuation Act`, **section 18 of the `Canadian Forces Superannuation Act` or section 45 of the `Reserve Force Pension Plan Regulations`** in favour of an annual allowance payable as of the date of the making of the order under this subsection if the court is satisfied that
+    **(2)** A court to which an application is made under subsection (1) or (1.1) may make an order deeming the person against whom there is a valid and subsisting financial support order to have exercised an option under any of sections 12 to 13.001 of the `Public Service Superannuation Act`, section 18 of the `Canadian Forces Superannuation Act` or section 45 of the `Reserve Force Pension Plan Regulations` in favour of an annual allowance payable as of the date of the making of the order under this subsection if the court is satisfied that
 
 ### Section 108
 
@@ -2975,56 +2487,35 @@ Sections 35.3 and 35.4 of the Act are replaced by the following:
 
 ### Section 35.3
 
-On application by a person **who is** entitled to support under a valid and subsisting financial support order, the Minister shall, in accordance with the regulations, provide the person with the prescribed information concerning any matter related to the making of an application under **section** 35.1.
+On application by a person who is entitled to support under a valid and subsisting financial support order, the Minister shall, in accordance with the regulations, provide the person with the prescribed information concerning any matter related to the making of an application under section 35.1.
 
 ### Section 35.4
 
 An application under section 35.1 or 35.3 may be made on behalf of a person by any other person or by a provincial enforcement service.
 
-
-> **Explanatory Note**:
-> Existing text of sections 35.3 and 35.4:
-> *Existing Text*:
-> > On application by a person entitled to support under a valid and subsisting financial support order, the Minister shall, in accordance with the regulations, provide the person with the prescribed information concerning any matter related to the making of an application under subsection 35.1(1).
-> > An application under subsection 35.1(1) or section 35.3 may be made on behalf of a person by any other person or by a provincial enforcement service, within the meaning of section 2 of the `Family Orders and Agreements Enforcement Assistance Act`.
-
 ### Section 109
 
 Paragraphs 36(c) to (g) of the English version of the Act are replaced by the following:
 
-**if** the recipient is domiciled in Canada and **habitually** resident in a province in which there is in force a law of general application permitting garnishment, attachment or diversion of pensions for the enforcement of financial support orders, the amount to be diverted shall be determined in accordance with the law of that province in force at the time of the diversion payment,
+if the recipient is domiciled in Canada and habitually resident in a province in which there is in force a law of general application permitting garnishment, attachment or diversion of pensions for the enforcement of financial support orders, the amount to be diverted shall be determined in accordance with the law of that province in force at the time of the diversion payment,
 
-**if** the recipient is domiciled in Canada and **habitually** resident elsewhere than in a province described in paragraph (c), the amount to be diverted shall be the amount required to satisfy the financial support order, up to a maximum of 50% of the recipient's net pension benefit,
+if the recipient is domiciled in Canada and habitually resident elsewhere than in a province described in paragraph (c), the amount to be diverted shall be the amount required to satisfy the financial support order, up to a maximum of 50% of the recipient's net pension benefit,
 
-**if** the recipient is domiciled outside Canada and the applicant is **habitually** resident in a province described in paragraph (c), the amount to be diverted shall be determined in accordance with the law of that province in force at the time of the diversion payment,
+if the recipient is domiciled outside Canada and the applicant is habitually resident in a province described in paragraph (c), the amount to be diverted shall be determined in accordance with the law of that province in force at the time of the diversion payment,
 
-**if** the recipient is domiciled outside Canada and the applicant is **habitually** resident in a province other than one described in paragraph (c), the amount to be diverted shall be the amount required to satisfy the financial support order, up to a maximum of 50% of the recipient's net pension benefit, or
+if the recipient is domiciled outside Canada and the applicant is habitually resident in a province other than one described in paragraph (c), the amount to be diverted shall be the amount required to satisfy the financial support order, up to a maximum of 50% of the recipient's net pension benefit, or
 
-**if** the recipient and the applicant are domiciled outside Canada and are **habitually** resident outside Canada, the amount to be diverted shall be the amount required to satisfy the financial support order, up to a maximum of 50% of the recipient's net pension benefit.
-
-
-> **Explanatory Note**:
-> Relevant portion of section 36:
-> *Existing Text*:
-> > Where
-> > a financial support order provides only for periodic payments and the recipient's pension benefit consists only of periodic payments, or
-> > a financial support order provides only for a lump sum payment and the recipient's pension benefit consists only of a lump sum payment,
-> > where the recipient is domiciled in Canada and ordinarily resident in a province in which there is in force a law of general application permitting garnishment, attachment or diversion of pensions for the enforcement of financial support orders, the amount to be diverted shall be determined in accordance with the law of that province in force at the time of the diversion payment,
-> > the amount to be diverted from the recipient's net pension benefit shall be governed by the following rules:
-> > where the recipient is domiciled in Canada and ordinarily resident elsewhere than in a province described in paragraph (c), the amount to be diverted shall be the amount required to satisfy the financial support order, up to a maximum of fifty per cent of the recipient's net pension benefit,
-> > where the recipient is domiciled outside Canada and the applicant is ordinarily resident in a province described in paragraph (c), the amount to be diverted shall be determined in accordance with the law of that province in force at the time of the diversion payment,
-> > where the recipient is domiciled outside Canada and the applicant is ordinarily resident in a province other than one described in paragraph (c), the amount to be diverted shall be the amount required to satisfy the financial support order, up to a maximum of fifty per cent of the recipient's net pension benefit, or
-> > where the recipient and the applicant are domiciled outside Canada and are ordinarily resident outside Canada, the amount to be diverted shall be the amount required to satisfy the financial support order, up to a maximum of fifty per cent of the recipient's net pension benefit.
+if the recipient and the applicant are domiciled outside Canada and are habitually resident outside Canada, the amount to be diverted shall be the amount required to satisfy the financial support order, up to a maximum of 50% of the recipient's net pension benefit.
 
 ### Section 110
 
   **(1)** The portion of subsection 37(2) of the French version of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** Si le ministre estime que l'ordonnance visée au paragraphe (1) ne peut être modifiée afin d'y prévoir des **versements** périodiques ou qu'il n'est pas pratique de le faire, et qu'il l'a notifié au requérant et au prestataire, il est, sous réserve du paragraphe (3), procédé à une distraction de cinquante pour cent de la prestation **mensuelle** nette de pension revenant au prestataire jusqu'à ce que l'une des conditions suivantes soit remplie :
+    **(2)** Si le ministre estime que l'ordonnance visée au paragraphe (1) ne peut être modifiée afin d'y prévoir des versements périodiques ou qu'il n'est pas pratique de le faire, et qu'il l'a notifié au requérant et au prestataire, il est, sous réserve du paragraphe (3), procédé à une distraction de cinquante pour cent de la prestation mensuelle nette de pension revenant au prestataire jusqu'à ce que l'une des conditions suivantes soit remplie :
 
   **(2)** Subsection 37(3) of the French version of the Act is replaced by the following:
 
-    **(3)** Lorsque la distraction est faite en vertu du paragraphe (2), le requérant dépose annuellement auprès du ministre, dans le délai réglementaire, une déclaration écrite attestant qu'il est encore habilité à recevoir les sommes distraites, comportant les renseignements réglementaires et signée par lui en présence d'une personne appartenant à une catégorie **réglementaire**.
+    **(3)** Lorsque la distraction est faite en vertu du paragraphe (2), le requérant dépose annuellement auprès du ministre, dans le délai réglementaire, une déclaration écrite attestant qu'il est encore habilité à recevoir les sommes distraites, comportant les renseignements réglementaires et signée par lui en présence d'une personne appartenant à une catégorie réglementaire.
 
 ### Section 111
 
@@ -3032,19 +2523,19 @@ Paragraphs 36(c) to (g) of the English version of the Act are replaced by the fo
 
 ### Section 39
 
-      **(1)** **If** a financial support order provides only for periodic payments and the recipient's pension benefit consists only of a lump sum, the Minister shall, **immediately** after receiving a duly completed application,
+      **(1)** If a financial support order provides only for periodic payments and the recipient's pension benefit consists only of a lump sum, the Minister shall, immediately after receiving a duly completed application,
 
   **(2)** Paragraph 39(1)(b) of the Act is replaced by the following:
 
-    cause the applicant to be notified **in accordance with the regulations** that, unless the financial support order is varied in accordance with this section, it will be treated as a financial support order for a lump sum payment of an amount equal to one periodic payment under the original financial support order.
+    cause the applicant to be notified in accordance with the regulations that, unless the financial support order is varied in accordance with this section, it will be treated as a financial support order for a lump sum payment of an amount equal to one periodic payment under the original financial support order.
 
   **(3)** Subsection 39(3) of the Act is repealed.
 
   **(4)** Subsections 39(5) and (6) of the Act are replaced by the following:
 
-    **(5)** **If**, within **90** days after receiving the evidence referred to in subsection (2), the Minister receives a copy of a varied financial support order providing in whole or in part for a lump sum payment, the Minister shall proceed with the application for diversion in accordance with this Part.
+    **(5)** If, within 90 days after receiving the evidence referred to in subsection (2), the Minister receives a copy of a varied financial support order providing in whole or in part for a lump sum payment, the Minister shall proceed with the application for diversion in accordance with this Part.
 
-    **(6)** **If** a copy of the varied financial support order referred to in subsection (5) is not received by the Minister within the period mentioned in that subsection, the Minister shall treat the application for diversion as an application based on a financial support order for the payment of a lump sum equal to the amount of one periodic payment under the original financial support order.
+    **(6)** If a copy of the varied financial support order referred to in subsection (5) is not received by the Minister within the period mentioned in that subsection, the Minister shall treat the application for diversion as an application based on a financial support order for the payment of a lump sum equal to the amount of one periodic payment under the original financial support order.
 
 ### Section 112
 
@@ -3052,13 +2543,7 @@ Section 40.1 of the Act is replaced by the following:
 
 ### Section 40.1
 
-**In the case of** a financial support order **that** is an order or judgment for arrears of payments, **despite** paragraph 36(d), (f) or (g), subsection 37(2) or section 38, 39 or 40, the amount to be diverted may exceed 50% of the recipient's net pension benefit.
-
-
-> **Explanatory Note**:
-> Existing text of section 40.1:
-> *Existing Text*:
-> > Notwithstanding paragraph 36(d), (f) or (g), subsection 37(2) or section 38, 39 or 40, where the financial support order is an order or judgment for arrears of payments, the amount to be diverted may exceed fifty per cent of the recipient's net pension benefit.
+In the case of a financial support order that is an order or judgment for arrears of payments, despite paragraph 36(d), (f) or (g), subsection 37(2) or section 38, 39 or 40, the amount to be diverted may exceed 50% of the recipient's net pension benefit.
 
 ### Section 113
 
@@ -3070,26 +2555,19 @@ The Governor in Council may, by order, designate one or more federal ministers a
 
 ### Section 41
 
-  **(1)** **When** a diversion is being carried out, either the applicant or the recipient may at any time apply to the Minister, in accordance with the regulations, for a variation in the amount being diverted or for termination of the diversion.
+  **(1)** When a diversion is being carried out, either the applicant or the recipient may at any time apply to the Minister, in accordance with the regulations, for a variation in the amount being diverted or for termination of the diversion.
 
-  **(2)** **Despite** a recipient's entitlement under an enactment **listed** in the schedule, **the** variation or termination of a diversion is effective only as of the first day of the month **after** the month in which the Minister receives the duly completed application for variation or termination, as the case may be.
-
-
-> **Explanatory Note**:
-> Existing text of section 41:
-> *Existing Text*:
-> > Where a diversion is being carried out, either the applicant or the recipient may at any time apply to the Minister, in accordance with the regulations made under paragraph 46(c), for a variation in the amount being diverted or for termination of the diversion.
-> > Notwithstanding a recipient's entitlement under an enactment referred to in the schedule, a variation or termination of a diversion pursuant to an application under subsection (1) is effective only as of the first day of the month following the month in which the Minister receives the duly completed application for variation or termination, as the case may be.
+  **(2)** Despite a recipient's entitlement under an enactment listed in the schedule, the variation or termination of a diversion is effective only as of the first day of the month after the month in which the Minister receives the duly completed application for variation or termination, as the case may be.
 
 ### Section 114
 
   **(1)** Paragraph 42(1)(a) of the Act is replaced by the following:
 
-    to the extent that it was in error paid to the recipient, **is** a debt due to Her Majesty by the recipient, and may be recovered from the recipient by **way of deduction from**, set-off **or compensation** against future pension benefits to be paid to the recipient; and
+    to the extent that it was in error paid to the recipient, is a debt due to Her Majesty by the recipient, and may be recovered from the recipient by way of deduction from, **or** set-off or compensation against, future pension benefits to be paid to the recipient; and
 
   **(2)** Subsection 42(2) of the Act is replaced by the following:
 
-    **(2)** **If** a diversion payment made to an applicant is greater than the amount that should have been paid to the applicant **under** this Part, the amount of the excess **is** a debt due to Her Majesty by the applicant and may be recovered from the applicant by **way of deduction from**, set-off **or compensation** against future diversion payments to be paid to the applicant under this Part.
+    **(2)** If a diversion payment made to an applicant is greater than the amount that should have been paid to the applicant under this Part, the amount of the excess is a debt due to Her Majesty by the applicant and may be recovered from the applicant by way of deduction from, **or** set-off or compensation against, future diversion payments to be paid to the applicant under this Part.
 
 ### Section 115
 
@@ -3097,13 +2575,13 @@ The Governor in Council may, by order, designate one or more federal ministers a
 
 ### Section 46
 
-    Le gouverneur en conseil peut, sur recommandation du ministre, **prendre des règlements** :
+    Le gouverneur en conseil peut, sur recommandation du ministre, prendre des règlements :
 
   **(2)** Paragraphs 46(a) and (b) of the Act are replaced by the following:
 
-    respecting the making of applications on behalf of **a** person by another **person or by a provincial enforcement service under section 33**, and respecting the payment of diverted amounts to **a** person for the benefit of another **person or to a provincial enforcement service**;
+    respecting the making of applications on behalf of a person by another person or by a provincial enforcement service under section 33, and respecting the payment of diverted amounts to a person for the benefit of another person or to a provincial enforcement service;
 
-    respecting the amount or amounts to be diverted from a recipient's net pension benefit, and **respecting** the procedure to be followed in any situation not dealt with in sections 36 to 40;
+    respecting the amount or amounts to be diverted from a recipient's net pension benefit, and respecting the procedure to be followed in any situation not dealt with in sections 36 to 40;
 
   **(3)** Section 46 of the Act is amended by adding the following after subsection (a):
 
@@ -3113,13 +2591,13 @@ The Governor in Council may, by order, designate one or more federal ministers a
 
   **(4)** Paragraphs 46(b.1) to (e) of the French version of the Act are replaced by the following:
 
-    **concernant** la communication des renseignements visés à l'article 35.3;
+    concernant la communication des renseignements visés à l'article 35.3;
 
-    **concernant** les motifs entraînant la modification **de la somme distraite** ou la cessation de la distraction, ainsi que les procédures s'y rapportant;
+    concernant les motifs entraînant la modification de la somme distraite ou la cessation de la distraction, ainsi que les procédures s'y rapportant;
 
-    **prévoyant** toute mesure d'ordre réglementaire prévue par la présente partie;
+    prévoyant toute mesure d'ordre réglementaire prévue par la présente partie;
 
-    **prévoyant** toute autre mesure d'application de la présente partie.
+    prévoyant toute autre mesure d'application de la présente partie.
 
   **(5)** Section 46 of the Act is amended by adding the following after paragraph (b.1):
 
@@ -3154,10 +2632,6 @@ An officer or employee of, or person who is hired on a contractual basis by, Her
 
 Every person who contravenes section 50 is guilty of an offence and liable on summary conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding six months, or to both.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 117
 
 The schedule to the Act is amended by replacing the reference after the heading "SCHEDULE" with the following:
@@ -3166,7 +2640,7 @@ The schedule to the Act is amended by replacing the reference after the heading 
 
 Item 10 of the schedule to the Act is replaced by the following:
 
-`Royal Canadian Mounted Police Superannuation Act`, **Parts** I **and III**.
+`Royal Canadian Mounted Police Superannuation Act`, Parts I and III.
 
 ### Section 119
 
@@ -3194,18 +2668,7 @@ Subsections 6(2) and 18(2) of the `Garnishment, Attachment and Pension Diversion
 
 Subparagraph (a)(li) of the definition offence in section 183 of the `Criminal Code` is replaced by the following:
 
-section 282 (abduction in contravention of custody order **or parenting order**),
-
-
-> **Explanatory Note**:
-> Relevant portion of the definition:
-> *Existing Text*:
-> > **offence** means an offence contrary to, any conspiracy or attempt to commit or being an accessory after the fact in relation to an offence contrary to, or any counselling in relation to an offence contrary to
-> > any of the following provisions of this Act, namely,
-> > 
-> > section 282 (abduction in contravention of custody order),
-> > 
-> > and includes any other offence that there are reasonable grounds to believe is a criminal organization offence or any other offence that there are reasonable grounds to believe is an offence described in paragraph (b) or (c) of the definition terrorism offence in section 2; (**infraction**)
+section 282 (abduction in contravention of custody order or parenting order),
 
 ### Section 123
 
@@ -3213,22 +2676,13 @@ Section 282 of the Act is replaced by the following:
 
 ### Section 282
 
-  **(1)** Every one who, being the parent, guardian or person having the lawful care or charge of a **child** under the age of **14** years, takes, entices away, conceals, detains, receives or harbours that **child**, in contravention of a custody order **or a parenting order** made by a court anywhere in Canada, with intent to deprive a parent or guardian, or any other person who has the lawful care or charge of that **child**, of the possession of that **child** is guilty of
+  **(1)** Every one who, being the parent, guardian or person having the lawful care or charge of a child under the age of 14 years, takes, entices away, conceals, detains, receives or harbours that child, in contravention of a custody order or a parenting order made by a court anywhere in Canada, with intent to deprive a parent or guardian, or any other person who has the lawful care or charge of that child, of the possession of that child is guilty of
 
     an indictable offence and is liable to imprisonment for a term not exceeding ten years; or
 
     an offence punishable on summary conviction.
 
-  **(2)** **If** a count charges an offence under subsection (1) and the offence is not proven only because the accused did not believe that there was a valid custody order **or parenting order** but the evidence does prove an offence under section 283, the accused may be convicted of an offence under **that** section.
-
-
-> **Explanatory Note**:
-> Existing text of section 282:
-> *Existing Text*:
-> > Every one who, being the parent, guardian or person having the lawful care or charge of a person under the age of fourteen years, takes, entices away, conceals, detains, receives or harbours that person, in contravention of the custody provisions of a custody order in relation to that person made by a court anywhere in Canada, with intent to deprive a parent or guardian, or any other person who has the lawful care or charge of that person, of the possession of that person is guilty of
-> > an indictable offence and is liable to imprisonment for a term not exceeding ten years; or
-> > an offence punishable on summary conviction.
-> > Where a count charges an offence under subsection (1) and the offence is not proven only because the accused did not believe that there was a valid custody order but the evidence does prove an offence under section 283, the accused may be convicted of an offence under section 283.
+  **(2)** If a count charges an offence under subsection (1) and the offence is not proven only because the accused did not believe that there was a valid custody order or parenting order but the evidence does prove an offence under section 283, the accused may be convicted of an offence under that section.
 
 ### Section 124
 
@@ -3236,15 +2690,7 @@ The portion of subsection 283(1) of the Act before paragraph (a) is replaced by 
 
 ### Section 283
 
-  **(1)** Everyone who, being the parent, guardian or person having the lawful care or charge of a **child** under the age of 14 years, takes, entices away, conceals, detains, receives or harbours that **child**, whether or not there is **an** order **referred to in subsection 282(1) in respect of the child** , with intent to deprive a parent, guardian or **any other** person who has the lawful care or charge of that **child**, of the possession of that **child**, is guilty of
-
-
-> **Explanatory Note**:
-> Existing text of subsection 283(1):
-> *Existing Text*:
-> > Every one who, being the parent, guardian or person having the lawful care or charge of a person under the age of fourteen years, takes, entices away, conceals, detains, receives or harbours that person, whether or not there is a custody order in relation to that person made by a court anywhere in Canada, with intent to deprive a parent or guardian, or any other person who has the lawful care or charge of that person, of the possession of that person, is guilty of
-> > an indictable offence and is liable to imprisonment for a term not exceeding ten years; or
-> > an offence punishable on summary conviction.
+  **(1)** Everyone who, being the parent, guardian or person having the lawful care or charge of a child under the age of 14 years, takes, entices away, conceals, detains, receives or harbours that child, whether or not there is an order referred to in subsection 282(1) in respect of the child , with intent to deprive a parent, guardian or any other person who has the lawful care or charge of that child, of the possession of that child, is guilty of
 
 
 ## Coordinating Amendments
@@ -3278,11 +2724,13 @@ The portion of subsection 283(1) of the Act before paragraph (a) is replaced by 
 
 ### Section 126
 
-  **(1)** Subsections `1`(1) to (4), (6) and (7), sections `2` to `6`, `8` to `15`, subsection `16`(2), sections `17` to `19` and `21` to `25`, subsection `28`(3) and sections `32` to `35` come into force on a day to be fixed by order of the Governor in Council.
+  **(1)** Subsections `1`(1) to (4), (6) and (7), sections `2` to `6`, `8` to `15`, subsection `16`(2), sections `17` to 19, 21, **22** and **23** to 25, subsection 28(3) and sections 32 to `35` come into force on a day to be fixed by order of the Governor in Council.
 
   **(2)** Subsections `16`(1) and (3) and `28`(4) and sections `30` and `36` come into force on a day to be fixed by order of the Governor in Council, but that day must not be before the day fixed in accordance with subsection (1).
 
   **(3)** Subsection `1`(5) and sections `7`, `20`, `31` and `37` to `41` come into force on a day to be fixed by order of the Governor in Council, but that day must not be before the day fixed in accordance with subsection (1).
+
+  **(3.1)** Section 22.1 comes into force in one or more provinces on a day or days to be fixed by order of the Governor in Council.
 
   **(4)** Sections `43`, `45`, `46` and `48` and subsections `49`(1), (3) and (5) to (7) come into force on a day to be fixed by order of the Governor in Council.
 
@@ -3312,7 +2760,7 @@ the parent(s) or others responsible for the child have the primary responsibilit
 
 States Parties should take all appropriate measures, including the conclusion of international agreements, to secure the recovery of maintenance for the child from the parent(s) or other responsible persons, in particular where such persons live in a State different from that of the child,
 
-Have resolved to conclude this Convention and have agreed upon the following provisions –
+Have resolved to conclude this Convention and have agreed upon the following provisions
 
 The object of the present Convention is to ensure the effective international recovery of child support and other forms of family maintenance, in particular by –
 
@@ -3348,7 +2796,7 @@ For the purposes of this Convention –
 
 "agreement in writing" means an agreement recorded in any medium, the information contained in which is accessible so as to be usable for subsequent reference;
 
-"maintenance arrangement" means an agreement in writing relating to the payment of maintenance which –
+"maintenance arrangement" means an agreement in writing relating to the payment of maintenance which
 
 has been formally drawn up or registered as an authentic instrument by a competent authority, or
 
@@ -3576,7 +3024,7 @@ If the State addressed is unable to recognise or enforce the whole of the decisi
 
 Partial recognition or enforcement of a decision can always be applied for.
 
-Recognition and enforcement of a decision may be refused if –
+Recognition and enforcement of a decision may be refused if –
 
 recognition and enforcement of the decision is manifestly incompatible with the public policy ("ordre public") of the State addressed;
 
@@ -3586,7 +3034,7 @@ proceedings between the same parties and having the same purpose are pending bef
 
 the decision is incompatible with a decision rendered between the same parties and having the same purpose, either in the State addressed or in another State, provided that this latter decision fulfils the conditions necessary for its recognition and enforcement in the State addressed;
 
-in a case where the respondent has neither appeared nor was represented in proceedings in the State of origin –
+in a case where the respondent has neither appeared nor was represented in proceedings in the State of origin
 
 when the law of the State of origin provides for notice of proceedings, the respondent did not have proper notice of the proceedings and an opportunity to be heard; or
 
@@ -3644,7 +3092,7 @@ Any appeal, if permitted by the law of the State addressed, shall not have the e
 
 In taking any decision on recognition and enforcement, including any appeal, the competent authority shall act expeditiously.
 
-An application for recognition and enforcement under Article 23 or Article 24 shall be accompanied by the following –
+An application for recognition and enforcement under Article 23 or Article 24 shall be accompanied by the following
 
 a complete text of the decision;
 
@@ -3816,7 +3264,7 @@ The cost of translation arising from the application of paragraph 1 shall be bor
 
 Notwithstanding Article 8, the requesting Central Authority may charge an applicant for the costs of translation of an application and related documents, except in so far as those costs may be covered by its system of legal assistance.
 
-In relation to a State in which two or more systems of law or sets of rules of law with regard to any matter dealt with in this Convention apply in different territorial units –
+In relation to a State in which two or more systems of law or sets of rules of law with regard to any matter dealt with in this Convention apply in different territorial units
 
 any reference to the law or procedure of a State shall be construed as referring, where appropriate, to the law or procedure in force in the relevant territorial unit;
 
