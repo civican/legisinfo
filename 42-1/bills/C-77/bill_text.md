@@ -52,12 +52,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 The heading before section 2 of the French version of the `National Defence Act` is replaced by the following:
 
 
-## Définitions **et interprétation**
-
-
-> **Explanatory Note**:
-> Existing text of the heading:
-> *Existing Text*:
+## Définitions et interprétation
 
 ### Section 2
 
@@ -65,7 +60,7 @@ The heading before section 2 of the French version of the `National Defence Act`
 
   **(2)** The definition infraction d'ordre militaire in subsection 2(1) of the French version of the Act is replaced by the following:
 
-    **infraction d'ordre militaire**  Infraction — à la présente loi, au `Code criminel` ou à une autre loi fédérale — **commise par un justiciable du code** de discipline militaire. (**service offence**)
+    **infraction d'ordre militaire**  Infraction — à la présente loi, au `Code criminel` ou à une autre loi fédérale — commise par un justiciable du code de discipline militaire. (**service offence**)
 
   **(3)** Subsection 2(1) of the Act is amended by adding the following in alphabetical order:
 
@@ -131,14 +126,7 @@ The heading before section 2 of the French version of the `National Defence Act`
 
 Paragraph 30(4)(a) of the Act is replaced by the following:
 
-an officer or non-commissioned member has been released from the Canadian Forces or transferred from one component to another by reason of a sentence of dismissal or a finding of guilty by a **court martial** or any **civil** court, and
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 30(4):
-> *Existing Text*:
-> > Subject to regulations made by the Governor in Council, where
-> > an officer or non-commissioned member has been released from the Canadian Forces or transferred from one component to another by reason of a sentence of dismissal or a finding of guilty by a service tribunal or any court, and
+an officer or non-commissioned member has been released from the Canadian Forces or transferred from one component to another by reason of a sentence of dismissal or a finding of guilty by a court martial or any civil court, and
 
 ### Section 4
 
@@ -153,23 +141,19 @@ The Act is amended by adding the following after the heading of Part III:
 
   **(2)** For greater certainty, the behaviour of persons who are subject to the Code of Service Discipline relates to the discipline, efficiency and morale of the Canadian Forces even when those persons are not on duty, in uniform or on a defence establishment.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 5
 
   **(1)** Paragraphs 66(1)(a) and (b) of the Act are replaced by the following:
 
-    has been found not guilty by a **court martial**, civil court or court of a foreign state on a charge of having committed that offence; or
+    has been found not guilty by a court martial, civil court or court of a foreign state on a charge of having committed that offence; or
 
-    has been found guilty by a **court martial**, civil court or court of a foreign state on a charge of having committed that offence.
+    has been found guilty by a court martial, civil court or court of a foreign state on a charge of having committed that offence.
 
   **(2)** Subsections 66(2) and (3) of the Act are replaced by the following:
 
-    **(2)** Nothing in subsection (1) affects the validity of a new trial held **under** section **249** or a new trial directed by a court having jurisdiction to do so.
+    **(2)** Nothing in subsection (1) affects the validity of a new trial held under section 249 or a new trial directed by a court having jurisdiction to do so.
 
-    **(3)** A person who, under section 194, has been sentenced in respect of a service offence admitted by that person may not be tried by a **court martial** or civil court in respect of that offence.
+    **(3)** A person who, under section 194, has been sentenced in respect of a service offence admitted by that person may not be tried by a court martial or civil court in respect of that offence.
 
 ### Section 6
 
@@ -177,13 +161,7 @@ The portion of section 70 of the Act before paragraph (a) is replaced by the fol
 
 ### Section 70
 
-A **court martial does** not **have jurisdiction to** try any person charged with any of the following offences committed in Canada:
-
-
-> **Explanatory Note**:
-> Relevant portion of section 70:
-> *Existing Text*:
-> > A service tribunal shall not try any person charged with any of the following offences committed in Canada:
+A court martial does not have jurisdiction to try any person charged with any of the following offences committed in Canada:
 
 ### Section 7
 
@@ -297,7 +275,7 @@ Every victim in whose favour a restitution order is made has the right, if they 
 
     while the offence is being investigated or prosecuted or the charge is being referred;
 
-    while the offender is serving a punishment in relation to the offence, unless the offender is a service prisoner or service convict who has been committed to a civil prison or penitentiary; and
+    while the offender is serving a punishment in relation to the offence, unless the offender is a service prisoner or service convict who has been committed to a penitentiary or civil prison; and
 
     while the accused person is, in relation to the offence, under the jurisdiction of a court martial or a Review Board, as defined in section 197, if they are found unfit to stand trial or not responsible on account of mental disorder.
 
@@ -396,23 +374,13 @@ No cause of action or right to damages arises from an infringement or denial of 
 
 No appeal lies from any decision or order solely on the grounds that a right under this Division has been infringed or denied.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 8
 
 Subsection 118(1) of the Act is replaced by the following:
 
 ### Section 118
 
-  **(1)** For the purposes of this section and section 119, **tribunal** includes a **court martial, a military judge, an officer conducting a summary hearing**, the Grievances Committee, the Military Judges Inquiry Committee, the Military Police Complaints Commission, a board of inquiry, a commissioner taking evidence under this Act and any inquiry committee established under regulations.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 118(1):
-> *Existing Text*:
-> > For the purposes of this section and section 119, **tribunal** includes, in addition to a service tribunal, the Grievances Committee, the Military Judges Inquiry Committee, the Military Police Complaints Commission, a board of inquiry, a commissioner taking evidence under this Act and any inquiry committee established under regulations.
+  **(1)** For the purposes of this section and section 119, **tribunal** includes a court martial, a military judge, an officer conducting a summary hearing, the Grievances Committee, the Military Judges Inquiry Committee, the Military Police Complaints Commission, a board of inquiry, a commissioner taking evidence under this Act and any inquiry committee established under regulations.
 
 ### Section 9
 
@@ -420,34 +388,21 @@ Section 118.1 of the Act is replaced by the following:
 
 ### Section 118.1
 
-Every person who, being duly summoned or ordered to appear before a **court martial or a military judge**, as an accused, **or before an officer conducting a summary hearing, as a person charged with having committed a service infraction**, fails, without lawful excuse, the proof of which lies on the person, to appear as summoned or ordered, or to remain in attendance, is guilty of an offence and on conviction is liable to imprisonment for less than two years or to less punishment.
-
-
-> **Explanatory Note**:
-> Existing text of section 118.1:
-> *Existing Text*:
-> > Every person who, being duly summoned or ordered to appear as an accused before a service tribunal, fails, without lawful excuse, the proof of which lies on the person, to appear as summoned or ordered, or to remain in attendance, is guilty of an offence and on conviction is liable to imprisonment for less than two years or to less punishment.
+Every person who, being duly summoned or ordered to appear before a court martial or a military judge, as an accused, or before an officer conducting a summary hearing, as a person charged with having committed a service infraction, fails, without lawful excuse, the proof of which lies on the person, to appear as summoned or ordered, or to remain in attendance, is guilty of an offence and on conviction is liable to imprisonment for less than two years or to less punishment.
 
 ### Section 10
 
   **(1)** The portion of subsection 130(1) of the French version of the Act after paragraph (b) is replaced by the following:
 
-    Quiconque en est **condamné** encourt la peine prévue au paragraphe (2).
+    Quiconque en est condamné encourt la peine prévue au paragraphe (2).
 
   **(2)** The portion of subsection 130(2) of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** Subject to subsection (3), **if** a **court martial** convicts a person under subsection (1), **it** shall,
+    **(2)** Subject to subsection (3), if a court martial convicts a person under subsection (1), it shall,
 
 ### Section 11
 
 Subsections 137(2) and (3) of the Act are repealed.
-
-
-> **Explanatory Note**:
-> Existing text of subsections 137(2) and (3):
-> *Existing Text*:
-> > If, in the case of a summary trial, an attempt to commit an offence is charged but the evidence establishes the commission of the complete offence, the accused person is not entitled to be acquitted, but may be found guilty of the attempt unless the officer presiding at the trial does not make a finding on the charge and directs that the accused person be charged with the complete offence.
-> > An accused person who is found guilty under subsection (2) of an attempt to commit an offence is not liable to be tried again for the offence that they were charged with attempting to commit.
 
 ### Section 12
 
@@ -455,22 +410,13 @@ Section 138 of the Act is replaced by the following:
 
 ### Section 138
 
-A **court martial** may, instead of making a finding of not guilty, make a special finding of guilty if it concludes that
+A court martial may, instead of making a finding of not guilty, make a special finding of guilty if it concludes that
 
 the facts proved in respect of an offence being tried by it differ materially from the facts alleged in the statement of particulars but are sufficient to establish the commission of the offence charged; and
 
-the difference between the facts proved and the facts alleged in the statement of particulars has not prejudiced the accused person in **their** defence.
+the difference between the facts proved and the facts alleged in the statement of particulars has not prejudiced the accused person in their defence.
 
-**If** the **court martial makes a special finding of guilty, it** shall state the differences between the facts proved and the facts alleged in the statement of particulars.
-
-
-> **Explanatory Note**:
-> Existing text of section 138:
-> *Existing Text*:
-> > Where a service tribunal concludes that
-> > the facts proved in respect of an offence being tried by it differ materially from the facts alleged in the statement of particulars but are sufficient to establish the commission of the offence charged, and
-> > the difference between the facts proved and the facts alleged in the statement of particulars has not prejudiced the accused person in his defence,
-> > the tribunal may, instead of making a finding of not guilty, make a special finding of guilty and, in doing so, shall state the differences between the facts proved and the facts alleged in the statement of particulars.
+If the court martial makes a special finding of guilty, it shall state the differences between the facts proved and the facts alleged in the statement of particulars.
 
 ### Section 13
 
@@ -478,13 +424,7 @@ Subsection 141(1) of the English version of the Act is replaced by the following
 
 ### Section 141
 
-  **(1)** **If** a **court martial** imposes a punishment of dismissal with disgrace from Her Majesty's service on an officer or non-commissioned member, **it** may, in addition, **despite** any other provision of this Division, impose a punishment of imprisonment for less than two years.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 141(1):
-> *Existing Text*:
-> > Where a service tribunal imposes a punishment of dismissal with disgrace from Her Majesty's service on an officer or non-commissioned member, the service tribunal may in addition, notwithstanding any other provision of this Division, impose a punishment of imprisonment for less than two years.
+  **(1)** If a court martial imposes a punishment of dismissal with disgrace from Her Majesty's service on an officer or non-commissioned member, it may, in addition, despite any other provision of this Division, impose a punishment of imprisonment for less than two years.
 
 ### Section 14
 
@@ -492,21 +432,9 @@ Subsection 145(3) of the Act is replaced by the following:
 
 **(3)** The terms of payment of a fine may be varied by the military judge who imposed the fine or a military judge designated by the Chief Military Judge.
 
-
-> **Explanatory Note**:
-> Existing text of subsection 145(3):
-> *Existing Text*:
-> > The terms of payment of a fine may be varied, in the case of a summary trial, by the officer who conducted the trial, and in the case of a court martial, by the military judge who imposed the fine or a military judge designated by the Chief Military Judge.
-
 ### Section 15
 
 Section 147 of the Act is repealed.
-
-
-> **Explanatory Note**:
-> Existing text of section 147:
-> *Existing Text*:
-> > The authority of a service tribunal to impose punishments may be limited in accordance with regulations made by the Governor in Council.
 
 ### Section 16
 
@@ -541,25 +469,21 @@ The Act is amended by adding the following after section 147.5:
 
   **(5)** Every decision of a commanding officer to make or not make an order under subsection (3) must be reviewed as soon as feasible by a military judge. The military judge may, at the conclusion of the review, amend any order that was made and, if none was made, make any order under that subsection.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 17
 
   **(1)** The portion of subsection 157(1) of the Act before paragraph (a) is replaced by the following:
 
 ### Section 157
 
-      **(1)** Subject to subsection (2), every commanding officer, and every officer to whom a **commanding officer** has, under **section 162.94**, delegated the power to **conduct a summary hearing**, may by a warrant under his **or her** hand authorize any person to arrest any person **subject to** the Code of Service Discipline who
+      **(1)** Subject to subsection (2), every commanding officer, and every officer to whom a commanding officer  has, under section 162.94, delegated the power to conduct a summary hearing, may by a warrant under his or her hand authorize any person to arrest any person subject to the Code of Service Discipline who
 
   **(2)** Paragraphs 157(1)(a) to (c) of the English version of the Act are replaced by the following:
 
     has committed a service offence;
 
-    is believed on reasonable grounds to have committed **a service offence**; or
+    is believed on reasonable grounds to have committed a service offence; or
 
-    is charged under this Act with having committed **a service offence**.
+    is charged under this Act with having committed a service offence.
 
   **(3)** The portion of subsection 157(1) of the English version of the Act after paragraph (c) is repealed.
 
@@ -571,11 +495,11 @@ The Act is amended by adding the following after section 147.5:
 
   **(1)** Paragraph 158(1)(d) of the Act is replaced by the following:
 
-    the need to ensure that the person under arrest will appear before a **court martial** or civil court to be dealt with according to law;
+    the need to ensure that the person under arrest will appear before a court martial or civil court to be dealt with according to law;
 
   **(2)** Paragraph 158(1)(f) of the Act is replaced by the following:
 
-    the necessity to ensure the safety **and security** of the person under arrest, **any victim of the offence**, or any other person.
+    the necessity to ensure the safety and security of the person under arrest, any victim of the offence, or any other person.
 
 ### Section 19
 
@@ -587,7 +511,7 @@ The Act is amended by adding the following after section 147.5:
 
   **(2)** Subsection 158.6(3) of the Act is replaced by the following:
 
-    **(3)** After giving a representative of the Canadian Forces and the released person an opportunity to be heard, the officer conducting the review may make any direction that a custody review officer may make under subsection (1). **If he or she makes a direction, subsections (1.1) and (1.2) apply with any necessary modifications**.
+    **(3)** After giving a representative of the Canadian Forces and the released person an opportunity to be heard, the officer conducting the review may make any direction that a custody review officer may make under subsection (1). If he or she makes a direction, subsections (1.1) and (1.2) apply with any necessary modifications.
 
 ### Section 20
 
@@ -597,22 +521,11 @@ The Act is amended by adding the following after section 158.6:
 
 If a custody review officer directs that a person be retained in custody, the custody review officer may also direct that the person abstain from communicating, directly or indirectly, with any victim, witness or other person specified in the direction except in accordance with any conditions specified in the direction that the officer considers necessary.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 21
 
 Paragraph 159.2(a) of the Act is replaced by the following:
 
-custody is necessary to ensure the person's attendance before a **court martial** or civil court to be dealt with according to law;
-
-
-> **Explanatory Note**:
-> Relevant portion of section 159.2:
-> *Existing Text*:
-> > For the purposes of sections 159.1 and 159.3, the retention of a person in custody is only justified when one or more of the following grounds have been established to the satisfaction of the military judge:
-> > custody is necessary to ensure the person's attendance before a service tribunal or a civil court to be dealt with according to law;
+custody is necessary to ensure the person's attendance before a court martial or civil court to be dealt with according to law;
 
 ### Section 22
 
@@ -622,10 +535,6 @@ The Act is amended by adding the following after section 159.3:
 
 If a military judge directs that a person be retained in custody, the military judge may also direct that the person abstain from communicating, directly or indirectly, with any victim, witness or other person specified in the direction, except in accordance with any conditions specified in the direction that the military judge considers necessary.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 23
 
 Section 159.7 of the Act is renumbered as subsection 159.7(1) and is amended by adding the following:
@@ -634,24 +543,20 @@ Section 159.7 of the Act is renumbered as subsection 159.7(1) and is amended by 
 
 **(3)** The military judge shall, on request by a victim of the alleged offence, cause a copy of the direction to be given to the victim.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 24
 
 Sections 160 to 161.1 of the Act are replaced by the following:
 
 ### Section 160
 
-In this Division, **commanding officer**, in respect of **a** person **charged with having committed a service offence or a service infraction**, means the commanding officer of the person and includes an officer who is empowered by regulations made by the Governor in Council to act as the commanding officer of the person.
+In this Division, **commanding officer**, in respect of a person charged with having committed a service offence or a service infraction, means the commanding officer of the person and includes an officer who is empowered by regulations made by the Governor in Council to act as the commanding officer of the person.
 
 
 #### Laying of Charge
 
 ### Section 161
 
-  ****(1)**** Proceedings against a person who is alleged to have committed a service offence **or a service infraction** are commenced by the laying of a charge in accordance with regulations made by the Governor in Council.
+  **(1)** Proceedings against a person who is alleged to have committed a service offence or a service infraction are commenced by the laying of a charge in accordance with regulations made by the Governor in Council.
 
   **(2)** If the person is retained in custody or released from custody with conditions, a charge must be laid as expeditiously as the circumstances permit.
 
@@ -661,35 +566,27 @@ In this Division, **commanding officer**, in respect of **a** person **charged w
 
   **(2)** After a person is charged with having committed a service infraction, the charge must be referred, in accordance with regulations made by the Governor in Council, to an officer who is a commanding officer in respect of the person.
 
-
-> **Explanatory Note**:
-> Existing text of sections 160 to 161.1:
-> *Existing Text*:
-> > In this Division, **commanding officer**, in respect of an accused person, means the commanding officer of the accused person and includes an officer who is empowered by regulations made by the Governor in Council to act as the commanding officer of the accused person.
-> > Proceedings against a person who is alleged to have committed a service offence are commenced by the laying of a charge in accordance with regulations made by the Governor in Council.
-> > After a charge is laid, it shall be referred to an officer who is a commanding officer in respect of the accused person.
-
 ### Section 25
 
 The heading before section 162.1 and sections 162.1 to 164.2 of the Act are replaced by the following:
 
 
-### Summary **Hearings**
+### Summary Hearings
 
 
 #### Interpretation
 
 ### Section 162.3
 
-The **following** definitions apply in this Division.
+The following definitions apply in this Division.
 
-**commanding officer**, in respect of **a** person **charged with having committed a service infraction**, means an officer who is a commanding officer **as defined in** section 160. (**commandant**)
+**commanding officer**, in respect of a person charged with having committed a service infraction, means an officer who is a commanding officer as defined in section 160. (**commandant**)
 
 **delegated officer** means an officer to whom a commanding officer has, under section 162.94, delegated the power to conduct a summary hearing. (**officier délégué**)
 
 **scale of sanctions** means the scale of sanctions set out in subsection 162.7. (**échelle des sanctions**)
 
-**superior commander** means an officer of or above the rank of **colonel**, or any other officer appointed by the Chief of the Defence Staff as a superior commander. (**commandant supérieur**)
+**superior commander** means an officer of or above the rank of colonel, or any other officer appointed by the Chief of the Defence Staff as a superior commander. (**commandant supérieur**)
 
 
 #### Service Infractions
@@ -795,7 +692,7 @@ refer the charge, subject to and in accordance with regulations made by the Gove
 
   **(1)** A superior commander, commanding officer or delegated officer may conduct a hearing in respect of a charge alleging the commission of a service infraction if all of the following conditions are satisfied:
 
-    the person charged is an officer or non-commissioned member who is at least one rank below the rank of the superior commander, commanding officer or delegated officer;
+    the person charged is an officer who is at least one rank below the rank of the superior commander, commanding officer or delegated officer, or **is a** non-commissioned member;
 
     having regard to the gravity of the facts that gave rise to the charge, the powers of the superior commander, commanding officer or delegated officer to impose a sanction are adequate;
 
@@ -883,7 +780,7 @@ Every person alleged to have committed a service infraction may be charged under
 
   **(1)** A review authority may substitute for any invalid sanction imposed by an officer who conducted a summary hearing any new sanction or sanctions that it considers appropriate.
 
-  **(2)** **If a new sanction is substituted, the new sanction may not be higher in the scale of sanctions than that other sanction.**
+  **(2)** If a new sanction is substituted, the new sanction may not be higher in the scale of sanctions than that other sanction.
 
 
 #### Commutation, Mitigation and Remission of Sanctions
@@ -900,96 +797,26 @@ Every person alleged to have committed a service infraction may be charged under
 
     **remit** means to exempt a person from the requirement to undergo the whole or any part of a sanction. (**remettre**)
 
-
-> **Explanatory Note**:
-> Existing text of the heading and sections 162.1 to 164.2:
-> *Existing Text*:
-> > Except in the circumstances prescribed in regulations made by the Governor in Council, an accused person who is triable by summary trial has the right to elect to be tried by court martial.
-> > When an accused person elects to be tried by court martial, the charge in respect of the accused person shall be referred to the Director of Military Prosecutions in accordance with regulations made by the Governor in Council.
-> > The definitions in this section apply in this Division.
-> > **commanding officer**, in respect of an accused person, means an officer who is a commanding officer within the meaning of section 160. (**commandant**)
-> > **superior commander** means an officer of or above the rank of brigadier-general, or any other officer appointed by the Chief of the Defence Staff as a superior commander. (**commandant supérieur**)
-> > A commanding officer may try an accused person by summary trial if all of the following conditions are satisfied:
-> > the accused person is either an officer cadet or a non-commissioned member below the rank of warrant officer;
-> > having regard to the gravity of the offence, the commanding officer considers that his or her powers of punishment are adequate;
-> > if the accused person has the right to elect to be tried by court martial, the accused person has not elected to be so tried;
-> > the offence is not one that, according to regulations made by the Governor in Council, the commanding officer is precluded from trying; and
-> > the commanding officer does not have reasonable grounds to believe that the accused person is unfit to stand trial or was suffering from a mental disorder at the time of the commission of the alleged offence.
-> > A commanding officer may not try an accused person by summary trial unless the summary trial commences within one year after the day on which the service offence is alleged to have been committed.
-> > Unless it is not practical, having regard to all the circumstances, for any other commanding officer to conduct the summary trial, a commanding officer may not preside at the summary trial of a person charged with an offence if
-> > the commanding officer carried out or directly supervised the investigation of the offence;
-> > the summary trial relates to an offence in respect of which a warrant was issued under section 273.3 by the commanding officer; or
-> > the commanding officer laid the charge or caused it to be laid.
-> > Subject to the conditions set out in Division 2 relating to punishments, a commanding officer at a summary trial may pass a sentence in which any one or more of the following punishments may be included:
-> > detention for a period not exceeding thirty days;
-> > reduction in rank by one rank;
-> > severe reprimand,
-> > reprimand,
-> > a fine not exceeding basic pay for one month, and
-> > minor punishments.
-> > A commanding officer may, subject to regulations made by the Governor in Council and to the extent that the commanding officer deems fit, delegate powers to try an accused person by summary trial to any officer under the commanding officer's command, but an officer to whom powers are delegated may not be authorized to impose punishments other than the following:
-> > detention not exceeding fourteen days;
-> > severe reprimand;
-> > reprimand;
-> > a fine not exceeding basic pay for fifteen days; and
-> > minor punishments.
-> > A commanding officer who determines that a charge is to proceed but who does not try the accused person by summary trial shall refer the charge, in accordance with regulations made by the Governor in Council, to
-> > another officer who has jurisdiction to try the accused person by summary trial; or
-> > an officer who is authorized by regulations made by the Governor in Council to refer charges to the Director of Military Prosecutions.
-> > A decision of a commanding officer that a charge should not proceed does not preclude proceeding with the charge at any subsequent time.
-> > If a commanding officer decides that a charge should not be proceeded with, the person who laid the charge may, in circumstances prescribed by the Governor in Council in regulations, refer it to an officer referred to in paragraph (1)(b).
-> > A superior commander may try an accused person by summary trial if all of the following conditions are satisfied:
-> > the accused person is an officer below the rank of lieutenant-colonel or a non-commissioned member above the rank of sergeant;
-> > having regard to the gravity of the offence, the superior commander considers that his or her powers of punishment are adequate;
-> > if the accused person has the right to elect to be tried by court martial, the accused person has not elected to be so tried;
-> > the offence is not one that, according to regulations made by the Governor in Council, the superior commander is precluded from trying; and
-> > the superior commander does not have reasonable grounds to believe that the accused person is unfit to stand trial or was suffering from a mental disorder at the time of the commission of the alleged offence.
-> > A superior commander may not try an accused person by summary trial unless the summary trial commences within one year after the day on which the service offence is alleged to have been committed.
-> > Unless it is not practical, having regard to all the circumstances, for any other superior commander to conduct the summary trial, a superior commander may not preside at the summary trial of a person charged with an offence if
-> > the superior commander carried out or directly supervised the investigation of the offence;
-> > the summary trial relates to an offence in respect of which a warrant was issued under section 273.3 by the superior commander as a commanding officer; or
-> > the superior commander laid the charge or caused it to be laid.
-> > A superior commander may try an accused person who is of the rank of lieutenant-colonel by summary trial in any circumstances that are prescribed by the Governor in Council in regulations.
-> > Subject to the conditions set out in Division 2 relating to punishments, a superior commander at a summary trial may pass a sentence in which any one or more of the following punishments may be included:
-> > severe reprimand;
-> > reprimand; and
-> > fine.
-> > A superior commander who determines that a charge should proceed but who does not try an accused person by summary trial shall refer the charge, in accordance with regulations made by the Governor in Council, to
-> > another officer who has jurisdiction to try the accused person by summary trial; or
-> > an officer who is authorized by regulations made by the Governor in Council to refer charges to the Director of Military Prosecutions.
-> > A decision by a superior commander that a charge should not proceed does not preclude proceeding with the charge at any subsequent time.
-> > If a superior commander decides that a charge should not be proceeded with, the person who laid the charge may, in circumstances prescribed by the Governor in Council in regulations, refer it to an officer referred to in paragraph (1)(b).
-> > Subject to subsection (2), an officer to whom a charge is referred under paragraph 163.1(1)(b), subsection 163.1(3), paragraph 164.1(1)(b) or subsection 164.1(3) shall forward it to the Director of Military Prosecutions, with any recommendations regarding its disposal that the officer considers appropriate.
-> > Where the charge was referred by a commanding officer or superior commander, the officer to whom the charge was referred may direct the commanding officer or superior commander to try the accused by summary trial if
-> > the charge was referred because the commanding officer or superior commander did not consider his or her powers of punishment to be adequate to try the accused person by summary trial; and
-> > the officer is of the opinion that the commanding officer or superior commander has adequate powers of punishment to try the accused by summary trial.
-
 ### Section 26
 
 Section 165.13 of the Act is replaced by the following:
 
 ### Section 165.13
 
-If the Director of Military Prosecutions **decides** that a charge should not be proceeded with by **a trial** by court martial, **he or she shall communicate the decision and the reasons** for it, **in writing**, to the officer **or non-commissioned member** who **referred the charge to him or her, and to the commanding officer** of the accused person.
-
-
-> **Explanatory Note**:
-> Existing text of section 165.13:
-> *Existing Text*:
-> > If the Director of Military Prosecutions is satisfied that a charge should not be proceeded with by court martial, the Director of Military Prosecutions may refer it for disposal by an officer who has jurisdiction to try the accused person by summary trial.
+If the Director of Military Prosecutions decides that a charge should not be proceeded with by a trial by court martial, he or she shall communicate the decision and the reasons for it, in writing, to the officer or non-commissioned member who referred the charge to him or her, and to the commanding officer of the accused person.
 
 ### Section 27
 
 Section 180 of the Act and the heading before it are replaced by the following:
 
 
-#### Admission to Courts Martial **and Certain Proceedings Before Military Judges**
+#### Admission to Courts Martial and Certain Proceedings Before Military Judges
 
 ### Section 180
 
-  **(1)** **Unless this Act provides otherwise, court** martial **proceedings and proceedings before a military judge under any of sections 147.6, 159, 187 and 248.81 must** be public and, to the extent that accommodation permits, the public **must** be admitted to the proceedings.
+  **(1)** Unless this Act provides otherwise, court martial proceedings and proceedings before a military judge under any of sections 147.6, 159, 187 and 248.81 must be public and, to the extent that accommodation permits, the public must be admitted to the proceedings.
 
-  **(2)** **A military judge or, if** a court martial **has been convened, the military judge assigned to preside at the** court martial may, **on application of the prosecutor or a witness or on the military judges's own motion**, order that the public be excluded during the whole or any part of **the** proceedings or **order that the witness testify behind a screen or other device that would allow the witness not to be seen by members of the public**, if the **military judge** considers that it is necessary in the interests of public safety, public morals, the maintenance of order or the proper administration of military justice, or to prevent injury to international relations, **national defence or national security**.
+  **(2)** A military judge or, if a court martial has been convened, the military judge assigned to preside at the court martial may, on application of the prosecutor or a witness or on the military judges's own motion, order that the public be excluded during the whole or any part of the proceedings or order that the witness testify behind a screen or other device that would allow the witness not to be seen by members of the public, if the military judge considers that it is necessary in the interests of public safety, public morals, the maintenance of order or the proper administration of military justice, or to prevent injury to international relations, national defence or national security.
 
   **(3)** In determining whether making the order is in the interest of the proper administration of military justice, the military judge shall consider
 
@@ -1013,12 +840,12 @@ Section 180 of the Act and the heading before it are replaced by the following:
 
   **(5)** If a person is charged with an offence punishable under section 130 that is an offence under section 151, 152, 153, 153.1 or 155, subsection 160(2) or (3) or section 163.1, 170, 171, 171.1, 172, 172.1, 172.2, 173, 271, 272, 273, 279.01, 279.011, 279.02, 279.03, 286.1, 286.2 or 286.3 of the `Criminal Code` and the prosecutor or the person applies for an order under subsection (2), the military judge shall, if no such order is made, state, by reference to the circumstances of the case, the reasons for not making an order.
 
-  ****(6)**** Witnesses are not to be admitted to the proceedings except when under examination or by leave of the **military judge**.
+  **(6)** Witnesses are not to be admitted to the proceedings except when under examination or by leave of the military judge.
 
-  ****(7)**** For the purpose of any deliberation, the **military judge** may cause the place where the proceedings are being held to be cleared.
+  **(7)** For the purpose of any deliberation, the military judge may cause the place where the proceedings are being held to be cleared.
 
 
-#### **Production of certain records**
+#### Production of certain records
 
 ### Section 180.01
 
@@ -1034,7 +861,7 @@ For the purposes of sections 180.02 to 180.08, **record** means any form of reco
 
   **(2)** Section 180.01, this section and sections 180.03 to 180.08 and 303 apply in respect of a record relating to the complainant or a witness that is in the possession or control of any person, including the prosecutor in the proceedings, unless, in the case of a record in the possession or control of the prosecutor, the complainant or witness, as the case may be, has expressly waived the application of those sections.
 
-  **(3)** In the case of a record in respect of which this section applies that is in the possession or control of the prosecutor, the prosecutor shall notify the accused person that the record is in the prosecutor's possession, but, in doing so, the prosecutor shall not disclose the record's contents.
+  **(3)** In the case of a record in respect of which this section applies that is in the possession or control of the prosecutor, the prosecutor shall notify the accused person that the record is in the prosecutor's possession **or control**, but, in doing so, the prosecutor shall not disclose the record's contents.
 
 ### Section 180.03
 
@@ -1149,18 +976,6 @@ For the purposes of sections 180.02 to 180.08, **record** means any form of reco
 ### Section 180.08
 
 The military judge shall provide reasons in writing for ordering or not ordering the production of the record or a part of the record under subsection 180.05(1) or 180.07(1).
-
-
-> **Explanatory Note**:
-> Existing text of the heading and section 180:
-> *Existing Text*:
-> > Subject to subsections (2) and (3), courts martial shall be public and, to the extent that accommodation permits, the public shall be admitted to the proceedings.
-> > A court martial may order that the public be excluded during the whole or any part of its proceedings if the court martial considers that it is necessary
-> > in the interests of public safety, defence or public morals;
-> > for the maintenance of order or the proper administration of military justice; or
-> > to prevent injury to international relations.
-> > Witnesses are not to be admitted to the proceedings of a court martial except when under examination or by specific leave of the court martial.
-> > For the purpose of any deliberation, a court martial may cause the place where the proceedings are being held to be cleared.
 
 ### Section 28
 
@@ -1396,10 +1211,6 @@ The Act is amended by adding the following after section 183:
 
   **(3)** No adverse inference may be drawn from the fact that an order is, or is not, made under this section.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 29
 
 The Act is amended by adding the following after section 189:
@@ -1407,7 +1218,7 @@ The Act is amended by adding the following after section 189:
 
 #### Pleas
 
-### Section **189.1**
+### Section 189.1
 
   **(1)** An accused person who makes an application under subsection (2) or who, after the commencement of the trial, is called on to plead may plead guilty or not guilty, or any other plea authorized by regulations made by the Governor in Council.
 
@@ -1451,34 +1262,15 @@ The Act is amended by adding the following after section 189:
 
     an offence punishable under section 130 that is an offence under section 151, 152, 153, 153.1, 155, 160, 170, 171, 172, 271, 272 or 273 of the `Criminal Code`, or an attempt to commit such an offence.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 30
 
 Section 191.1 of the Act is repealed.
-
-
-> **Explanatory Note**:
-> Existing text of section 191.1:
-> *Existing Text*:
-> > At any time after a General Court Martial is convened but before the panel of the court martial assembles, the military judge assigned to preside at the court martial may, on application, receive the accused person's plea of guilty in respect of any charge and, if there are no other charges remaining before the court martial to which pleas of not guilty have been recorded, determine the sentence.
 
 ### Section 31
 
 The portion of subsection 196.14(3) of the Act after paragraph (b) is replaced by the following:
 
 In deciding whether to make the order, the court martial shall consider the nature of the offence and the circumstances surrounding its commission, any previous convictions, any previous finding of not responsible on account of mental disorder for a designated offence and the impact that such an order would have on the person's privacy and security and shall give reasons for the decision.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 196.14(3):
-> *Existing Text*:
-> > A court martial may, on application by the prosecutor and if it is satisfied that it is in the best interests of the administration of military justice to do so, make such an order in the prescribed form in relation to
-> > a person who is found not responsible on account of mental disorder for an offence committed at any time, including before June 30, 2000, if that offence is a designated offence when the finding is made; or
-> > a person who is found guilty of an offence committed at any time, including before June 30, 2000, if that offence is a secondary designated offence when the person is sentenced.
-> > In deciding whether to make the order, the court martial shall consider the nature of the offence and the circumstances surrounding its commission, any previous convictions by a service tribunal or civil court, any previous finding of not responsible on account of mental disorder for a designated offence and the impact such an order would have on the person's privacy and security of the person and shall give reasons for the decision.
 
 ### Section 32
 
@@ -1488,25 +1280,9 @@ Section 196.29 of the Act is replaced by the following:
 
 Fingerprints, photographs and other measurements that are taken under subsection 196.27(1) from a person who is charged with a designated offence shall be destroyed without delay, on application by the person, if the charge has not been proceeded with in the three years after the charge is laid.
 
-
-> **Explanatory Note**:
-> Existing text of section 196.29:
-> *Existing Text*:
-> > Fingerprints, photographs and other measurements that are taken under subsection 196.27(1) from a person who is charged with a designated offence shall be destroyed without delay
-> > if the person is tried by summary trial in respect of that charge; or
-> > on application by the person, if the charge has not been proceeded with in the three years after the charge is laid.
-
 ### Section 33
 
 Paragraph 202.14(2)(f) of the Act is repealed.
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 202.14(2):
-> *Existing Text*:
-> > Where a finding of not responsible on account of mental disorder is made, the accused person shall not be found guilty or convicted of the offence, but
-> > 
-> > the finding may be considered in determining, under section 249.13 or 249.14, whether to substitute, mitigate, commute or remit a punishment included in a sentence imposed against that person for any other offence;
 
 ### Section 34
 
@@ -1514,39 +1290,27 @@ Section 215 of the Act is replaced by the following:
 
 ### Section 215
 
-  ****(1)**** **If** an offender has been sentenced to imprisonment or detention, the carrying into effect of the punishment may be suspended by the **court martial** that imposed the punishment.
+  **(1)** If an offender has been sentenced to imprisonment or detention, the carrying into effect of the punishment may be suspended by the court martial that imposed the punishment.
 
   **(2)** If the court martial makes a decision that the carrying into effect of the punishment be suspended, it shall include in the decision a statement that it has considered the safety and security of every victim of the offence.
 
   **(3)** The court martial shall, on request by a victim of the offence, cause a copy of the decision to be given to the victim.
 
-
-> **Explanatory Note**:
-> Existing text of section 215:
-> *Existing Text*:
-> > Where an offender has been sentenced to imprisonment or detention, the carrying into effect of the punishment may be suspended by the service tribunal that imposed the punishment.
-
 ### Section 35
 
 Subsection 222(2) of the Act is replaced by the following:
 
-**(2)** **If** the punishment of a service convict undergoing punishment in a penitentiary or **of** a service prisoner undergoing punishment in a civil prison is not suspended under this Act within six months after the date of the committal of that convict or prisoner to that penitentiary or civil prison, the Parole Board of Canada has, subject to Part II of the `Corrections and Conditional Release Act`, exclusive jurisdiction and absolute discretion to grant, refuse to grant, or revoke the parole of that convict or prisoner.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 222(2):
-> *Existing Text*:
-> > Where the punishment of a service convict undergoing punishment in a penitentiary or a service prisoner undergoing punishment in a civil prison is not suspended, mitigated, commuted or remitted under this Act within six months after the date of the committal of that convict or prisoner to that penitentiary or civil prison, the Parole Board of Canada has, subject to Part II of the `Corrections and Conditional Release Act`, exclusive jurisdiction and absolute discretion to grant, refuse to grant or revoke the parole of that convict or prisoner.
+**(2)** If the punishment of a service convict undergoing punishment in a penitentiary or of a service prisoner undergoing punishment in a civil prison is not suspended under this Act within six months after the date of the committal of that convict or prisoner to that penitentiary or civil prison, the Parole Board of Canada has, subject to Part II of the `Corrections and Conditional Release Act`, exclusive jurisdiction and absolute discretion to grant, refuse to grant, or revoke the parole of that convict or prisoner.
 
 ### Section 36
 
   **(1)** Paragraph 227.19(2)(a) of the Act is replaced by the following:
 
-    to the officer **conducting** the **summary hearing** and to a person who provides legal advice to the officer with respect to the **hearing**, in the case of a summary **hearing**; or
+    to the officer conducting the summary hearing and to a person who provides legal advice to the officer with respect to the hearing, in the case of a summary hearing; or
 
   **(2)** Subsections 227.19(3) and (4) of the Act are replaced by the following:
 
-    **(4)** The officer who **conducted** the summary **hearing** may disclose the information to a review authority, and to a person who provides legal advice to the review authority, with respect to a review of a finding **that** a **person has committed** a **service infraction** or of **any sanction** imposed **by that officer**, if the information is relevant to the review.
+    **(4)** The officer who conducted the summary hearing may disclose the information to a review authority, and to a person who provides legal advice to the review authority, with respect to a review of a finding that a person has committed a service infraction or of any sanction imposed by that officer, if the information is relevant to the review.
 
 ### Section 37
 
@@ -1554,23 +1318,11 @@ Section 230 of the Act is amended by striking out "or" at the end of paragraph (
 
 the legality of a decision not to make an order under subsection 180.05(1) or of a decision to make or not to make an order under subsection 180.07(1).
 
-
-> **Explanatory Note**:
-> Relevant portion of section 230:
-> *Existing Text*:
-> > Every person subject to the Code of Service Discipline has, subject to subsection 232(3), the right to appeal to the Court Martial Appeal Court from a court martial in respect of any of the following matters:
-
 ### Section 38
 
 Section 230.1 of the Act is amended by striking out "or" at the end of paragraph (g), by adding "or" after paragraph (h) and by adding the following after paragraph (h):
 
 the legality of a decision to make an order under subsection 180.05(1) or 180.07(1).
-
-
-> **Explanatory Note**:
-> Relevant portion of section 230.1:
-> *Existing Text*:
-> > The Minister, or counsel instructed by the Minister for that purpose, has, subject to subsection 232(3), the right to appeal to the Court Martial Appeal Court from a court martial in respect of any of the following matters:
 
 ### Section 39
 
@@ -1578,13 +1330,7 @@ Section 242 of the Act is replaced by the following:
 
 ### Section 242
 
-**If** a punishment included in a sentence has been dealt with **under** subsection 238(3), 239(2) or 239.1(3) or section 240 or 240.1, the new punishment is subject to suspension in the same manner and to the same extent as if it had been imposed by the court martial that tried the appellant.
-
-
-> **Explanatory Note**:
-> Existing text of section 242:
-> *Existing Text*:
-> > Where a punishment included in a sentence has been dealt with pursuant to subsection 238(3), 239(2) or 239.1(3) or section 240 or 240.1, the new punishment is subject to mitigation, commutation, remission or suspension in the same manner and to the same extent as if it had been imposed by the court martial that tried the appellant.
+If a punishment included in a sentence has been dealt with under subsection 238(3), 239(2) or 239.1(3) or section 240 or 240.1, the new punishment is subject to suspension in the same manner and to the same extent as if it had been imposed by the court martial that tried the appellant.
 
 ### Section 40
 
@@ -1594,16 +1340,12 @@ Section 248.3 of the Act is renumbered as subsection 248.3(1) and is amended by 
 
 **(3)** The court martial, military judge or judge, as the case may be, shall, on request by a victim of the alleged offence, cause a copy of the direction to be given to the victim.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 41
 
 Division 11 of Part III of the Act is replaced by the following:
 
 
-### **Petition for New Trial**
+### Petition for New Trial
 
 ### Section 249
 
@@ -1611,7 +1353,7 @@ Division 11 of Part III of the Act is replaced by the following:
 
   **(2)** The Minister may refer a petition to the Court Martial Appeal Court for a hearing and determination by that Court as if it were an appeal by the petitioner.
 
-  **(3)** The Minister may refer a petition or any question relating to a petition to the Court Martial Appeal Court for its opinion, and **that** Court shall furnish its opinion accordingly.
+  **(3)** The Minister may refer a petition or any question relating to a petition to the Court Martial Appeal Court for its opinion, and that Court shall furnish its opinion accordingly.
 
   **(4)** If the Minister is of the opinion that a petition should be granted, the Minister may order a new trial and the petitioner may be tried again as if no trial had been held.
 
@@ -1619,46 +1361,13 @@ Division 11 of Part III of the Act is replaced by the following:
 
 Nothing in this Division in any manner limits or affects Her Majesty's royal prerogative of mercy.
 
-
-> **Explanatory Note**:
-> Existing text of Division 11:
-> *Existing Text*:
-> > The review authority in respect of findings of guilty made and punishments imposed by courts martial is the Governor in Council.
-> > The review of a finding of guilty made and any punishment imposed by a court martial must be on application of the person found guilty or the Chief of the Defence Staff.
-> > The review authorities in respect of findings of guilty made and punishments imposed by persons presiding at summary trials are the Chief of the Defence Staff and such other military authorities as are prescribed by the Governor in Council in regulations.
-> > A review authority in respect of any finding of guilty made and any punishment imposed by a person presiding at a summary trial may act on its own initiative or on application of the person found guilty made in accordance with regulations made by the Governor in Council.
-> > Nothing in this Division in any manner limits or affects Her Majesty's royal prerogative of mercy.
-> > Any finding of guilty made by a service tribunal may be quashed by a review authority.
-> > Where no other finding of guilty remains after a finding of guilty has been quashed under subsection (1), the whole of the sentence ceases to have force and effect and the person who had been found guilty may be tried as if no previous trial had been held.
-> > Where another finding of guilty remains after a finding of guilty has been quashed under subsection (1) and any punishment included in the sentence is in excess of the punishment authorized in respect of any remaining finding of guilty or is, in the opinion of the review authority that made the decision to quash, unduly severe, the review authority shall substitute for that punishment any new punishment or punishments that it considers appropriate.
-> > A review authority may substitute a new finding for any finding of guilty that is made by a service tribunal and that is illegal or cannot be supported by the evidence if the new finding could validly have been made on the charge to which the new finding relates and it appears that the service tribunal was satisfied of the facts establishing the offence specified or involved in the new finding.
-> > A review authority may substitute for a finding of guilty made by a service tribunal a new finding of guilty of an offence, other than that of which the service tribunal found the offender guilty, if it appears that the facts proved the offender guilty of the other offence and the service tribunal could have found the offender guilty of the other offence on the charge under section 133, 134 or 136 or on any alternative charge that was laid.
-> > Where a new finding has been substituted under this section for a finding made by a service tribunal and any punishment included in the sentence passed by the service tribunal is in excess of the punishment authorized in respect of the new finding or is, in the opinion of the review authority that substituted the new finding, unduly severe, the review authority shall substitute for that punishment any new punishment or punishments that it considers appropriate.
-> > A review authority may substitute for a sentence passed by a service tribunal in which is included an illegal punishment any new punishment or punishments that it considers appropriate.
-> > A review authority may mitigate, commute or remit any or all of the punishments included in a sentence passed by a service tribunal.
-> > The following conditions apply where a new punishment under this Division replaces, by way of substitution or commutation, a punishment imposed by a service tribunal:
-> > the new punishment may not be a punishment that could not legally have been imposed on the charges of which the offender was found guilty and in respect of which the findings have not been quashed or set aside by way of substitution;
-> > the new punishment may not be higher in the scale of punishments than the punishment imposed in the first instance and, if the sentence passed included a punishment of incarceration, the new punishment may not involve a period of incarceration exceeding the period of incarceration included in that sentence;
-> > where the new punishment is detention and the punishment that it replaces is imprisonment, the term of the detention after the date of alteration may in no case exceed the term of the imprisonment remaining to be served and, in any event, may not exceed ninety days; and
-> > where the offence of which a person has been found guilty is an offence for which the punishment of imprisonment for life is mandatory under section 73, 74, 75 or 76, for which the punishment of dismissal with disgrace from Her Majesty's service or dismissal from Her Majesty's service is mandatory under section 92 or to which paragraph 130(2)(a) applies, the punishment may, subject to this section, be altered to any one or more of the punishments lower in the scale of punishments than the punishment provided for in that section or any other enactment prescribing the offence.
-> > Every person who has been tried and found guilty by a court martial has a right, on grounds of new evidence discovered subsequent to the trial, to petition the Minister for a new trial.
-> > The Minister may refer a petition to the Court Martial Appeal Court for a hearing and determination by that Court as if it were an appeal by the petitioner.
-> > The Minister may refer a petition or any question relating to a petition to the Court Martial Appeal Court for its opinion and the Court shall furnish its opinion accordingly.
-> > If the Minister is of the opinion that a petition should be granted, the Minister may order a new trial and the petitioner may be tried again as if no trial had been held.
-
 ### Section 42
 
 Section 249.24 of the Act is replaced by the following:
 
 ### Section 249.24
 
-**If** a new punishment **is substituted for** a punishment imposed by a **court martial**, the new punishment has force and effect as if it had been imposed by the **court martial** in the first instance and the provisions of the Code of Service Discipline apply accordingly. **However, if** the new punishment involves incarceration, the term of the new punishment is to be reckoned from the date of substitution.
-
-
-> **Explanatory Note**:
-> Existing text of section 249.24:
-> *Existing Text*:
-> > Where a new punishment, by reason of substitution or commutation, replaces a punishment imposed by a service tribunal, the new punishment has force and effect as if it had been imposed by the service tribunal in the first instance and the provisions of the Code of Service Discipline apply accordingly but, where the new punishment involves incarceration, the term of the new punishment shall be reckoned from the date of substitution or commutation, as the case may be.
+If a new punishment is substituted for a punishment imposed by a court martial, the new punishment has force and effect as if it had been imposed by the court martial in the first instance and the provisions of the Code of Service Discipline apply accordingly. However, if the new punishment involves incarceration, the term of the new punishment is to be reckoned from the date of substitution.
 
 ### Section 43
 
@@ -1666,30 +1375,15 @@ The portion of section 251 of the Act before paragraph (b) is replaced by the fo
 
 ### Section 251
 
-At summary **hearings** and courts martial, and at proceedings before a **military judge**, board of inquiry or commissioner taking evidence under this Act, an oath **must** be taken by or administered to the following persons in the manner and in the forms prescribed in regulations made by the Governor in Council:
+At summary hearings and courts martial, and at proceedings before a military judge, board of inquiry or commissioner taking evidence under this Act, an oath must be taken by or administered to the following persons in the manner and in the forms prescribed in regulations made by the Governor in Council:
 
-the officer **conducting** the summary **hearing**;
-
-
-> **Explanatory Note**:
-> Relevant portion of section 251:
-> *Existing Text*:
-> > At summary trials and courts martial, and at proceedings before a board of inquiry or a commissioner taking evidence under this Act, an oath shall be taken by or administered to the following persons in the manner and in the forms prescribed in regulations made by the Governor in Council:
-> > the officer presiding at the summary trial;
+the officer conducting the summary hearing;
 
 ### Section 44
 
 Paragraph 302(d) of the Act is replaced by the following:
 
-prints observations or uses words likely to bring a proceeding under Part II, III or IV into disrepute or likely to influence improperly a board of inquiry, the Grievances Committee, the Military Judges Inquiry Committee, a **court martial, a military judge, an officer conducting a summary hearing**, a commissioner taking evidence under this Act, the Military Police Complaints Commission, an inquiry committee established under the regulations or a witness at a proceeding under Part II, III or IV; or
-
-
-> **Explanatory Note**:
-> Relevant portion of section 302:
-> *Existing Text*:
-> > Every person is guilty of an offence and liable, on summary conviction, to a fine of not more than five hundred dollars or to imprisonment for a term of not more than six months or to both, where the person
-> > 
-> > prints observations or uses words likely to bring a proceeding under Part II, III or IV into disrepute or likely to influence improperly a board of inquiry, the Grievances Committee, the Military Judges Inquiry Committee, a service tribunal, a commissioner taking evidence under this Act, the Military Police Complaints Commission, an inquiry committee established under the regulations or a witness at a proceeding under Part II, III or IV; or
+prints observations or uses words likely to bring a proceeding under Part II, III or IV into disrepute or likely to influence improperly a board of inquiry, the Grievances Committee, the Military Judges Inquiry Committee, a court martial, a military judge, an officer conducting a summary hearing, a commissioner taking evidence under this Act, the Military Police Complaints Commission, an inquiry committee established under the regulations or a witness at a proceeding under Part II, III or IV; or
 
 ### Section 45
 
@@ -1714,10 +1408,6 @@ The Act is amended by adding the following after section 302:
   **(1)** Every person who fails to comply with an order made under section 183.5 or 183.6 is guilty of an offence punishable on summary conviction.
 
   **(2)** For greater certainty, an order referred to in subsection (1) applies to prohibit, in relation to proceedings taken against any person who fails to comply with the order, the publication in any document or the broadcasting or transmission in any way of information that could identify a victim, witness or military justice system participant whose identity is protected by the order.
-
-
-> **Explanatory Note**:
-> New.
 
 ### Section 46
 
@@ -1746,7 +1436,7 @@ subsections 249.25(1), (2) and (4).
 
   **(1)** Paragraph 423.1(1)(b) of the `Criminal Code` is replaced by the following:
 
-    a justice system participant **or military justice system participant** in order to impede him or her in the performance of his or her duties; or
+    a justice system participant or military justice system participant in order to impede him or her in the performance of his or her duties; or
 
   **(2)** Section 423.1 of the Act is amended by adding the following after subsection (3):
 
@@ -1762,80 +1452,49 @@ subsections 249.25(1), (2) and (4).
 
 Subsection 38.01(5) of the `Canada Evidence Act` is replaced by the following:
 
-**(5)** In the case of a proceeding under Part III of the `National Defence Act`, **other than a summary hearing as defined in subsection 2(1) of that Act**, notice under any of subsections (1) to (4) shall be given to both the Attorney General of Canada and the Minister of National Defence.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 38.01(5):
-> *Existing Text*:
-> > In the case of a proceeding under Part III of the `National Defence Act`, notice under any of subsections (1) to (4) shall be given to both the Attorney General of Canada and the Minister of National Defence.
+**(5)** In the case of a proceeding under Part III of the `National Defence Act`, other than a summary hearing as defined in subsection 2(1) of that Act, notice under any of subsections (1) to (4) shall be given to both the Attorney General of Canada and the Minister of National Defence.
 
 ### Section 49
 
 Subsection 38.03(2) of the Act is replaced by the following:
 
-**(2)** In the case of a proceeding under Part III of the `National Defence Act`, **other than a summary hearing as defined in subsection 2(1) of that Act**, the Attorney General of Canada may authorize disclosure only with the agreement of the Minister of National Defence.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 38.03(2):
-> *Existing Text*:
-> > In the case of a proceeding under Part III of the `National Defence Act`, the Attorney General of Canada may authorize disclosure only with the agreement of the Minister of National Defence.
+**(2)** In the case of a proceeding under Part III of the `National Defence Act`, other than a summary hearing as defined in subsection 2(1) of that Act, the Attorney General of Canada may authorize disclosure only with the agreement of the Minister of National Defence.
 
 ### Section 50
 
   **(1)** Paragraph 38.04(5)(a) of the Act is replaced by the following:
 
-    shall hear the representations of the Attorney General of Canada and, in the case of a proceeding under Part III of the `National Defence Act`, **other than a summary hearing as defined in subsection 2(1) of that Act**, the Minister of National Defence, with respect to making the application public;
+    shall hear the representations of the Attorney General of Canada and, in the case of a proceeding under Part III of the `National Defence Act`, other than a summary hearing as defined in subsection 2(1) of that Act, the Minister of National Defence, with respect to making the application public;
 
   **(2)** Paragraph 38.04(5)(a.2) of the Act is replaced by the following:
 
-    shall hear the representations of the Attorney General of Canada and, in the case of a proceeding under Part III of the `National Defence Act`, **other than a summary hearing as defined in subsection 2(1) of that Act**, the Minister of National Defence, concerning the identity of all parties or witnesses whose interests may be affected by either the prohibition of disclosure or the conditions to which disclosure is subject, and concerning the persons who should be given notice of any hearing of the matter;
+    shall hear the representations of the Attorney General of Canada and, in the case of a proceeding under Part III of the `National Defence Act`, other than a summary hearing as defined in subsection 2(1) of that Act, the Minister of National Defence, concerning the identity of all parties or witnesses whose interests may be affected by either the prohibition of disclosure or the conditions to which disclosure is subject, and concerning the persons who should be given notice of any hearing of the matter;
 
 ### Section 51
 
 Subsections 38.11(1.1) and (2) of the Act are replaced by the following:
 
-**(1.1)** A hearing under subsection 38.04(5) or an appeal or review of an order made under any of subsections 38.06(1) to (3) shall, at the request of either the Attorney General of Canada or, in the case of a proceeding under Part III of the `National Defence Act`, **other than a summary hearing as defined in subsection 2(1) of that Act**, the Minister of National Defence, be held or heard, as the case may be, in the National Capital Region, as described in the schedule to the `National Capital Act`.
+**(1.1)** A hearing under subsection 38.04(5) or an appeal or review of an order made under any of subsections 38.06(1) to (3) shall, at the request of either the Attorney General of Canada or, in the case of a proceeding under Part III of the `National Defence Act`, other than a summary hearing as defined in subsection 2(1) of that Act, the Minister of National Defence, be held or heard, as the case may be, in the National Capital Region, as described in the schedule to the `National Capital Act`.
 
-**(2)** The judge conducting a hearing under subsection 38.04(5) or the court hearing an appeal or review of an order made under any of subsections 38.06(1) to (3) may give any person who makes representations under paragraph 38.04(5)(d), and shall give the Attorney General of Canada and, in the case of a proceeding under Part III of the `National Defence Act`, **other than a summary hearing as defined in subsection 2(1) of that Act**, the Minister of National Defence, the opportunity to make representations ex parte.
-
-
-> **Explanatory Note**:
-> Existing text of subsections 38.11(1.1) and (2):
-> *Existing Text*:
-> > A hearing under subsection 38.04(5) or an appeal or review of an order made under any of subsections 38.06(1) to (3) shall, at the request of either the Attorney General of Canada or, in the case of a proceeding under Part III of the `National Defence Act`, the Minister of National Defence, be held or heard, as the case may be, in the National Capital Region, as described in the schedule to the `National Capital Act`.
-> > The judge conducting a hearing under subsection 38.04(5) or the court hearing an appeal or review of an order made under any of subsections 38.06(1) to (3) may give any person who makes representations under paragraph 38.04(5)(d), and shall give the Attorney General of Canada and, in the case of a proceeding under Part III of the `National Defence Act`, the Minister of National Defence, the opportunity to make representations ex parte.
+**(2)** The judge conducting a hearing under subsection 38.04(5) or the court hearing an appeal or review of an order made under any of subsections 38.06(1) to (3) may give any person who makes representations under paragraph 38.04(5)(d), and shall give the Attorney General of Canada and, in the case of a proceeding under Part III of the `National Defence Act`, other than a summary hearing as defined in subsection 2(1) of that Act, the Minister of National Defence, the opportunity to make representations ex parte.
 
 ### Section 52
 
 Subsection 38.13(2) of the Act is replaced by the following:
 
-**(2)** In the case of a proceeding under Part III of the `National Defence Act`, **other than a summary hearing as defined in subsection 2(1) of that Act**, the Attorney General of Canada may issue the certificate only with the agreement, given personally, of the Minister of National Defence.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 38.13(2):
-> *Existing Text*:
-> > In the case of a proceeding under Part III of the `National Defence Act`, the Attorney General of Canada may issue the certificate only with the agreement, given personally, of the Minister of National Defence.
+**(2)** In the case of a proceeding under Part III of the `National Defence Act`, other than a summary hearing as defined in subsection 2(1) of that Act, the Attorney General of Canada may issue the certificate only with the agreement, given personally, of the Minister of National Defence.
 
 ### Section 53
 
 Subsection 38.131(3) of the Act is replaced by the following:
 
-**(3)** In the case of proceedings under Part III of the `National Defence Act`, **other than a summary hearing as defined in subsection 2(1) of that Act**, notice under subsection (2) shall be given to both the Attorney General of Canada and the Minister of National Defence.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 38.131(3):
-> *Existing Text*:
-> > In the case of proceedings under Part III of the `National Defence Act`, notice under subsection (2) shall be given to both the Attorney General of Canada and the Minister of National Defence.
+**(3)** In the case of proceedings under Part III of the `National Defence Act`, other than a summary hearing as defined in subsection 2(1) of that Act, notice under subsection (2) shall be given to both the Attorney General of Canada and the Minister of National Defence.
 
 ### Section 54
 
 Item 10 of the schedule to the Act is replaced by the following:
 
-A **court martial** or a military judge for the purposes of Part III of the `National Defence Act`
+A court martial or a military judge for the purposes of Part III of the `National Defence Act`
 
 
 ### `Federal Courts Act`
@@ -1844,13 +1503,7 @@ A **court martial** or a military judge for the purposes of Part III of the `Nat
 
 Subsection 18.3(2) of the `Federal Courts Act` is replaced by the following:
 
-**(2)** The Attorney General of Canada may, at any stage of the proceedings of a federal board, commission or other tribunal, other than a **court martial and an officer conducting a summary hearing**, as **defined in subsection 2(1)** of the `National Defence Act`, refer any question or issue of the constitutional validity, applicability or operability of an Act of Parliament or of regulations made under an Act of Parliament to the Federal Court for hearing and determination.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 18.3(2):
-> *Existing Text*:
-> > The Attorney General of Canada may, at any stage of the proceedings of a federal board, commission or other tribunal, other than a service tribunal within the meaning of the `National Defence Act`, refer any question or issue of the constitutional validity, applicability or operability of an Act of Parliament or of regulations made under an Act of Parliament to the Federal Court for hearing and determination.
+**(2)** The Attorney General of Canada may, at any stage of the proceedings of a federal board, commission or other tribunal, other than a court martial and an officer conducting a summary hearing, as defined in subsection 2(1) of the `National Defence Act`, refer any question or issue of the constitutional validity, applicability or operability of an Act of Parliament or of regulations made under an Act of Parliament to the Federal Court for hearing and determination.
 
 ### Section 56
 
@@ -1858,13 +1511,7 @@ Subsection 57(1) of the Act is replaced by the following:
 
 ### Section 57
 
-  **(1)** If the constitutional validity, applicability or operability of an Act of Parliament or of the legislature of a province, or of regulations made under such an Act, is in question before the Federal Court of Appeal or the Federal Court or a federal board, commission or other tribunal, other than a **court martial and an officer conducting a summary hearing**, as **defined in subsection 2(1)** of the `National Defence Act`, the Act or regulation shall not be judged to be invalid, inapplicable or inoperable unless notice has been served on the Attorney General of Canada and the attorney general of each province in accordance with subsection (2).
-
-
-> **Explanatory Note**:
-> Existing text of subsection 57(1):
-> *Existing Text*:
-> > If the constitutional validity, applicability or operability of an Act of Parliament or of the legislature of a province, or of regulations made under such an Act, is in question before the Federal Court of Appeal or the Federal Court or a federal board, commission or other tribunal, other than a service tribunal within the meaning of the `National Defence Act`, the Act or regulation shall not be judged to be invalid, inapplicable or inoperable unless notice has been served on the Attorney General of Canada and the attorney general of each province in accordance with subsection (2).
+  **(1)** If the constitutional validity, applicability or operability of an Act of Parliament or of the legislature of a province, or of regulations made under such an Act, is in question before the Federal Court of Appeal or the Federal Court or a federal board, commission or other tribunal, other than a court martial and an officer conducting a summary hearing, as defined in subsection 2(1) of the `National Defence Act`, the Act or regulation shall not be judged to be invalid, inapplicable or inoperable unless notice has been served on the Attorney General of Canada and the attorney general of each province in accordance with subsection (2).
 
 
 ### `Geneva Conventions Act`
@@ -1873,13 +1520,7 @@ Subsection 57(1) of the Act is replaced by the following:
 
 Subsection 3(4) of the `Geneva Conventions Act` is replaced by the following:
 
-**(4)** Proceedings with respect to an offence referred to in subsection (1), other than proceedings before a **court martial**, as defined in **subsection** 2**(1)** of the `National Defence Act`, may only be commenced with the personal consent in writing of the Attorney General of Canada or the Deputy Attorney General of Canada and be conducted by the Attorney General of Canada or **by** counsel acting on behalf **of the Attorney General of Canada**.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 3(4):
-> *Existing Text*:
-> > Proceedings with respect to an offence referred to in subsection (1), other than proceedings before a service tribunal as defined in section 2 of the `National Defence Act`, may only be commenced with the personal consent in writing of the Attorney General of Canada or the Deputy Attorney General of Canada and be conducted by the Attorney General of Canada, or counsel acting on behalf thereof.
+**(4)** Proceedings with respect to an offence referred to in subsection (1), other than proceedings before a court martial, as defined in subsection 2(1) of the `National Defence Act`, may only be commenced with the personal consent in writing of the Attorney General of Canada or the Deputy Attorney General of Canada and be conducted by the Attorney General of Canada or by counsel acting on behalf of the Attorney General of Canada.
 
 
 ### `Visiting Forces Act`
@@ -1890,13 +1531,7 @@ Section 8 of the `Visiting Forces Act` is replaced by the following:
 
 ### Section 8
 
-The members of a service court of a visiting force, exercising jurisdiction by virtue of this Act, and witnesses appearing before such a service court have the **same** immunities and privileges as a **court martial** exercising jurisdiction under the `National Defence Act` and witnesses appearing before **a court martial**.
-
-
-> **Explanatory Note**:
-> Existing text of section 8:
-> *Existing Text*:
-> > The members of a service court of a visiting force, exercising jurisdiction by virtue of this Act, and witnesses appearing such a service court, have the like immunities and privileges as a service tribunal exercising jurisdiction under the `National Defence Act` and witnesses appearing before any such service tribunal.
+The members of a service court of a visiting force, exercising jurisdiction by virtue of this Act, and witnesses appearing before such a service court have the same immunities and privileges as a court martial exercising jurisdiction under the `National Defence Act` and witnesses appearing before a court martial.
 
 
 ### `Sex Offender Information Registration Act`
@@ -1905,13 +1540,13 @@ The members of a service court of a visiting force, exercising jurisdiction by v
 
   **(1)** Subparagraph 16(4)(h)(i) of the `Sex Offender Information Registration Act` is replaced by the following:
 
-    to a prosecutor in connection with a proceeding that results from an investigation referred to in paragraph (c) and that is before a court of criminal jurisdiction or a superior court of criminal jurisdiction, **as defined in** section 2 of the `Criminal Code`, or a **court martial, as defined** in subsection 2(1) of the `National Defence Act`,
+    to a prosecutor in connection with a proceeding that results from an investigation referred to in paragraph (c) and that is before a court of criminal jurisdiction or a superior court of criminal jurisdiction, as defined in section 2 of the `Criminal Code`, or a court martial, as defined in subsection 2(1) of the `National Defence Act`,
 
   **(2)** Subparagraphs 16(4)(h)(iii) and (iv) of the Act are replaced by the following:
 
-    to the court or **military judge** presiding over the proceeding or appeal, or
+    to the court or military judge presiding over the proceeding or appeal, or
 
-    to a review authority **referred to in** section **163.6** of the `National Defence Act` **for its review under that section** and to a person who provides legal advice to the review authority in connection with **that** review;
+    to a review authority referred to in section 163.6 of the `National Defence Act` for its review under that section and to a person who provides legal advice to the review authority in connection with that review;
 
 
 ### `Prohibiting Cluster Munitions Act`
@@ -1922,13 +1557,7 @@ Section 18 of the `Prohibiting Cluster Munitions Act` is replaced by the followi
 
 ### Section 18
 
-Proceedings for an offence under section 17 or under a regulation made under section 23, other than proceedings before a **court martial** as defined in subsection 2(1) of the `National Defence Act`, may only be commenced with the personal consent in writing of the Attorney General of Canada.
-
-
-> **Explanatory Note**:
-> Existing text of section 18:
-> *Existing Text*:
-> > Proceedings for an offence under section 17 or under a regulation made under section 23, other than proceedings before a service tribunal as defined in subsection 2(1) of the `National Defence Act`, may only be commenced with the personal consent in writing of the Attorney General of Canada.
+Proceedings for an offence under section 17 or under a regulation made under section 23, other than proceedings before a court martial as defined in subsection 2(1) of the `National Defence Act`, may only be commenced with the personal consent in writing of the Attorney General of Canada.
 
 
 ### ``Canadian Victims Bill of Rights``
@@ -1937,27 +1566,15 @@ Proceedings for an offence under section 17 or under a regulation made under sec
 
 Subsection 18(3) of the `Canadian Victims Bill of Rights` is replaced by the following:
 
-**(3)** **Subject to subsection (4)**, this Act does not apply in respect of offences that are service offences, as defined in subsection 2(1) of the `National Defence Act`, that are investigated or proceeded with under that Act.
+**(3)** Subject to subsection (4), this Act does not apply in respect of offences that are service offences, as defined in subsection 2(1) of the `National Defence Act`, that are investigated or proceeded with under that Act.
 
 **(4)** This Act applies in respect of an offender who is convicted of a service offence, as defined in subsection 2(1) of the `National Defence Act` and who is committed to a penitentiary or a civil prison, as those terms are defined in that subsection.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 18(3):
-> *Existing Text*:
-> > This Act does not apply in respect of offences that are service offences, as defined in subsection 2(1) of the `National Defence Act`, that are investigated or proceeded with under that Act.
 
 ### Section 62
 
 Subsection 22(2) of the Act is replaced by the following:
 
-**(2)** Subsection (1) does not apply in respect of the `Canadian Bill of Rights`, the `Canadian Human Rights Act`, the `Official Languages Act`, the `Access to Information Act` and the `Privacy Act` and in respect of orders, rules and regulations made under any of those Acts. **It also does not apply in respect of Division 1.1 of Part III of the `National Defence Act` and in respect of any orders, rules and regulations made under that Act to the extent that they apply in relation to that Division**.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 22(2):
-> *Existing Text*:
-> > Subsection (1) does not apply in respect of the `Canadian Bill of Rights`, the `Canadian Human Rights Act`, the `Official Languages Act`, the `Access to Information Act` and the `Privacy Act` and orders, rules and regulations made under any of those Acts.
+**(2)** Subsection (1) does not apply in respect of the `Canadian Bill of Rights`, the `Canadian Human Rights Act`, the `Official Languages Act`, the `Access to Information Act` and the `Privacy Act` and in respect of orders, rules and regulations made under any of those Acts. It also does not apply in respect of Division 1.1 of Part III of the `National Defence Act` and in respect of any orders, rules and regulations made under that Act to the extent that they apply in relation to that Division.
 
 
 ## Related and Coordinating Amendments
@@ -2256,7 +1873,7 @@ Subsection 22(2) of the Act is replaced by the following:
 
       **(1.1)** If the court martial or the Court Martial Appeal Court, as the case may be, makes a decision that the execution of the punishment be suspended, it shall include in the decision a statement that it has considered the safety and security of every victim of the offence.
 
-      **(1.2)** The court martial tribunal or the Court Martial Appeal Court, as the case may be, shall, on request by a victim of the offence, cause a copy of the decision to be given to the victim.
+      **(1.2)** The court martial or the Court Martial Appeal Court, as the case may be, shall, on request by a victim of the offence, cause a copy of the decision to be given to the victim.
 
       **(2)** In suspending the execution of a punishment, the court martial or the Court Martial Appeal Court, as the case may be, shall impose the following conditions on the offender:
 
