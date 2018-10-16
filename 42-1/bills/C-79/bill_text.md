@@ -1,7 +1,5 @@
 # Bill C-79: An Act to implement the Comprehensive and Progressive Agreement for Trans-Pacific Partnership between Canada, Australia, Brunei, Chile, Japan, Malaysia, Mexico, New Zealand, Peru, Singapore and Vietnam
 
-**Sponsor**: MINISTER OF INTERNATIONAL TRADE
-
 Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act to implement the Comprehensive and Progressive Agreement for Trans-Pacific Partnership between Canada, Australia, Brunei, Chile, Japan, Malaysia, Mexico, New Zealand, Peru, Singapore and Vietnam*".
 
 ## Summary
@@ -288,10 +286,6 @@ Section 6.2 of the Act is amended by adding the following after subsection (3):
 **(4)** The Minister, in relation to an allocation method established under paragraph (2)(a) or an import allocation issued under paragraph (2)(b), may accept payments and may receive any securities specified by the Minister.
 
 
-> **Explanatory Note**:
-> New.
-
-
 #### `Financial Administration Act`
 
 ### Section 16
@@ -309,13 +303,7 @@ Subsection 53(1) of the `Trade-marks Act` is replaced by the following:
 
 ### Section 53
 
-  **(1)** Where a court is satisfied, on application of any interested person, that any registered trade-mark, **any trade-mark that is confusing with a registered trade-mark** or any trade-name has been applied to any goods that have been imported into Canada or are about to be distributed in Canada in such a manner that the distribution of the goods would be contrary to this Act, or that any indication of a place of origin has been unlawfully applied to any goods, the court may make an order for the interim custody of the goods, pending a final determination of the legality of their importation or distribution in an action commenced within such time as is prescribed by the order.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 53(1):
-> *Existing Text*:
-> > Where a court is satisfied, on application of any interested person, that any registered trade-mark or any trade-name has been applied to any goods that have been imported into Canada or are about to be distributed in Canada in such a manner that the distribution of the goods would be contrary to this Act, or that any indication of a place of origin has been unlawfully applied to any goods, the court may make an order for the interim custody of the goods, pending a final determination of the legality of their importation or distribution in an action commenced within such time as is prescribed by the order.
+  **(1)** Where a court is satisfied, on application of any interested person, that any registered trade-mark, any trade-mark that is confusing with a registered trade-mark or any trade-name has been applied to any goods that have been imported into Canada or are about to be distributed in Canada in such a manner that the distribution of the goods would be contrary to this Act, or that any indication of a place of origin has been unlawfully applied to any goods, the court may make an order for the interim custody of the goods, pending a final determination of the legality of their importation or distribution in an action commenced within such time as is prescribed by the order.
 
 ### Section 18
 
@@ -323,13 +311,7 @@ The portion of subsection 53.1(1) of the Act before paragraph (a) is replaced by
 
 ### Section 53.1
 
-  **(1)** Where a court is satisfied, on application by the owner of a registered trade-mark, that any goods to which the **registered** trade-mark **or a trade-mark that is confusing with the registered trade-mark** has been applied are about to be imported into Canada or have been imported into Canada but have not yet been released, and that the distribution of the goods in Canada would be contrary to this Act, the court may make an order
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 53.1(1):
-> *Existing Text*:
-> > Where a court is satisfied, on application by the owner of a registered trade-mark, that any goods to which the trade-mark has been applied are about to be imported into Canada or have been imported into Canada but have not yet been released, and that the distribution of the goods in Canada would be contrary to this Act, the court may make an order
+  **(1)** Where a court is satisfied, on application by the owner of a registered trade-mark, that any goods to which the registered trade-mark or a trade-mark that is confusing with the registered trade-mark has been applied are about to be imported into Canada or have been imported into Canada but have not yet been released, and that the distribution of the goods in Canada would be contrary to this Act, the court may make an order
 
 
 #### `Investment Canada Act`
@@ -349,31 +331,17 @@ Subsection 2(1) of the `Customs Act` is amended by adding the following in alpha
 
 **CPTPP country** has the same meaning as in subsection 2(1) of the `Customs Tariff`; (**pays PTPGP**)
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 21
 
 Section 35.1 of the Act is amended by adding the following after subsection (3):
 
 **(3.1)** If an importer of goods for which preferential tariff treatment under the CPTPP will be claimed is the person who certifies that the goods meet the rules of origin set out in, or contemplated by, the CPTPP, the importer shall do so in writing, in the prescribed form and containing the prescribed information, and on the basis of supporting documents that the importer has or supporting documents that are provided by the exporter or producer.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 22
 
 Subsection 42.1(2) of the Act is replaced by the following:
 
-**(2)** If an exporter, producer **or prescribed importer** of goods that are subject to a verification of origin under paragraph (1)(a) fails to comply with the prescribed requirements or, in the case of a verification of origin under subparagraph (1)(a)(i), does not consent to the verification of origin in the prescribed manner and within the prescribed time, preferential tariff treatment under a free trade agreement, other than a free trade agreement referred to in subsection (1.1), may be denied or withdrawn from the goods.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 42.1(2):
-> *Existing Text*:
-> > If an exporter or producer of goods that are subject to a verification of origin under paragraph (1)(a) fails to comply with the prescribed requirements or, in the case of a verification of origin under subparagraph (1)(a)(i), does not consent to the verification of origin in the prescribed manner and within the prescribed time, preferential tariff treatment under a free trade agreement, other than a free trade agreement referred to in subsection (1.1), may be denied or withdrawn from the goods.
+**(2)** If an exporter, producer or prescribed importer of goods that are subject to a verification of origin under paragraph (1)(a) fails to comply with the prescribed requirements or, in the case of a verification of origin under subparagraph (1)(a)(i), does not consent to the verification of origin in the prescribed manner and within the prescribed time, preferential tariff treatment under a free trade agreement, other than a free trade agreement referred to in subsection (1.1), may be denied or withdrawn from the goods.
 
 ### Section 23
 
@@ -381,25 +349,13 @@ Subsection 42.2(1) of the Act is replaced by the following:
 
 ### Section 42.2
 
-  **(1)** On completion of a verification of origin under paragraph 42.1(1)(a), an officer designated under subsection 42.1(1) shall provide the exporter, producer **or prescribed importer** whose goods are subject to the verification of origin with a statement as to whether the goods are eligible, under the `Customs Tariff`, for the preferential tariff treatment that was claimed.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 42.2(1):
-> *Existing Text*:
-> > On completion of a verification of origin under paragraph 42.1(1)(a), an officer designated under subsection 42.1(1) shall provide the exporter or producer whose goods are subject to the verification of origin with a statement as to whether the goods are eligible, under the `Customs Tariff`, for the preferential tariff treatment that was claimed.
+  **(1)** On completion of a verification of origin under paragraph 42.1(1)(a), an officer designated under subsection 42.1(1) shall provide the exporter, producer or prescribed importer whose goods are subject to the verification of origin with a statement as to whether the goods are eligible, under the `Customs Tariff`, for the preferential tariff treatment that was claimed.
 
 ### Section 24
 
 Subsection 42.4(2) of the Act is replaced by the following:
 
-**(2)** **Despite** section 24 of the `Customs Tariff`, the Minister may, subject to any prescribed conditions, deny or withdraw preferential tariff treatment under an agreement set out in column 1 of Part 2 of the schedule in respect of goods for which that treatment is claimed if the exporter, producer **or prescribed importer** of the goods has made false representations that identical goods exported, produced **or imported** by that exporter, producer or **prescribed importer** and for which that treatment was claimed were eligible for that treatment.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 42.4(2):
-> *Existing Text*:
-> > Notwithstanding section 24 of the `Customs Tariff`, the Minister may, subject to any prescribed conditions, deny or withdraw preferential tariff treatment under an agreement set out in column 1 of Part 2 of the schedule in respect of goods for which that treatment is claimed if the exporter or producer of the goods has made false representations that identical goods exported or produced by that exporter or producer and for which that treatment was claimed were eligible for that treatment.
+**(2)** Despite section 24 of the `Customs Tariff`, the Minister may, subject to any prescribed conditions, deny or withdraw preferential tariff treatment under an agreement set out in column 1 of Part 2 of the schedule in respect of goods for which that treatment is claimed if the exporter, producer or prescribed importer of the goods has made false representations that identical goods exported, produced or imported by that exporter, producer or prescribed importer and for which that treatment was claimed were eligible for that treatment.
 
 ### Section 25
 
@@ -413,9 +369,9 @@ Subsection 42.4(2) of the Act is replaced by the following:
 
   **(2)** Subsections 97.1(2) and (3) of the English version of the Act are replaced by the following:
 
-    **(2)** Every exporter or producer of goods who, for the purpose of enabling any person to comply with the applicable laws relating to customs of a free trade partner, completes and signs a certificate in accordance with subsection (1) **or (1.1)** shall, at the request of an officer, provide the officer with a copy of the certificate.
+    **(2)** Every exporter or producer of goods who, for the purpose of enabling any person to comply with the applicable laws relating to customs of a free trade partner, completes and signs a certificate in accordance with subsection (1) or (1.1) shall, at the request of an officer, provide the officer with a copy of the certificate.
 
-    **(3)** A person who has completed and signed a certificate in accordance with subsection (1) **or (1.1)** and who has reason to believe that it contains incorrect information shall immediately notify **each** person **and CPTPP country** to whom the certificate was given of the correct information.
+    **(3)** A person who has completed and signed a certificate in accordance with subsection (1) or (1.1) and who has reason to believe that it contains incorrect information shall immediately notify each person and CPTPP country to whom the certificate was given of the correct information.
 
 ### Section 26
 
@@ -423,13 +379,7 @@ Subsection 97.2(1) of the Act is replaced by the following:
 
 ### Section 97.2
 
-  **(1)** Every person who exports goods or causes them to be exported for sale or for any industrial, occupational, commercial, institutional or other like use or any other use that may be prescribed, and every other person who has completed and signed a certificate in accordance with subsection 97.1(1) **or (1.1)**, shall keep at the person's place of business in Canada or at any other place that may be designated by the Minister any records in respect of those goods in the manner and for the period that may be prescribed and shall, if an officer requests, make them available to the officer, within the time specified by the officer, and answer any questions asked by the officer in respect of the records.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 97.2(1):
-> *Existing Text*:
-> > Every person who exports goods or causes them to be exported for sale or for any industrial, occupational, commercial, institutional or other like use or any other use that may be prescribed, and every other person who has completed and signed a certificate in accordance with subsection 97.1(1), shall keep at the person's place of business in Canada or at any other place that may be designated by the Minister any records in respect of those goods in the manner and for the period that may be prescribed and shall, if an officer requests, make them available to the officer, within the time specified by the officer, and answer any questions asked by the officer in respect of the records.
+  **(1)** Every person who exports goods or causes them to be exported for sale or for any industrial, occupational, commercial, institutional or other like use or any other use that may be prescribed, and every other person who has completed and signed a certificate in accordance with subsection 97.1(1) or (1.1), shall keep at the person's place of business in Canada or at any other place that may be designated by the Minister any records in respect of those goods in the manner and for the period that may be prescribed and shall, if an officer requests, make them available to the officer, within the time specified by the officer, and answer any questions asked by the officer in respect of the records.
 
 ### Section 27
 
@@ -461,7 +411,7 @@ Schedule 2 to the `Commercial Arbitration Act` is amended by adding, at the end 
 
   **(1)** The definition **textile and apparel goods** in subsection 2(1) of the `Canadian International Trade Tribunal Act` is replaced by the following:
 
-    **textile and apparel goods** means the textile and apparel goods set out in Appendix 1.1 of Annex 300-B of the Agreement, in Appendix 1.1 of Annex C-00-B of the CCFTA, in Appendix III.1.1.1 of Annex III.1 of the CCRFTA, in section 1 of Annex 3.1 of the CHFTA **or in Annex 4-A or Appendix 1 to Annex 4-A of the TPP**, as the case may be; (**produits textiles et vêtements**)
+    **textile and apparel goods** means the textile and apparel goods set out in Appendix 1.1 of Annex 300-B of the Agreement, in Appendix 1.1 of Annex C-00-B of the CCFTA, in Appendix III.1.1.1 of Annex III.1 of the CCRFTA, in section 1 of Annex 3.1 of the CHFTA or in Annex 4-A or Appendix 1 to Annex 4-A of the TPP, as the case may be; (**produits textiles et vêtements**)
 
   **(2)** Section 2 of the Act is amended by adding the following after subsection (4.6):
 
@@ -493,10 +443,6 @@ The Act is amended by adding the following after section 19.0192:
 
   **(5)** The Tribunal shall cause notice of the submission of a report to be published in the `Canada Gazette`.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 34
 
 Section 23 of the Act is amended by adding the following after subsection (1.081):
@@ -504,10 +450,6 @@ Section 23 of the Act is amended by adding the following after subsection (1.081
 **(1.082)** Any domestic producer of goods that are like or directly competitive with any goods being imported into Canada and that are entitled to a CPTPP tariff, or any person or association acting on behalf of such a domestic producer, may file a written complaint with the Tribunal alleging that, as a result of that entitlement, the imported goods of a CPTPP country, alone or together with the imported goods of other CPTPP countries, are being imported in such increased quantities, in absolute terms or relative to the domestic production of like or directly competitive goods, and under such conditions as to constitute a cause of serious injury, or threat of serious injury, to domestic producers of like or directly competitive goods.
 
 **(1.083)** Any domestic producer of any textile and apparel goods that are like or directly competitive with any textile and apparel goods being imported into Canada and that are entitled under the `Customs Tariff` to a CPTPP tariff, or any person or association acting on behalf of such a domestic producer, may file a written complaint with the Tribunal alleging that, as a result of that entitlement, the imported goods of a CPTPP country, alone or together with the imported goods of other CPTPP countries are being imported in such increased quantities, in absolute terms or relative to the domestic market in Canada for the goods, and under such conditions as to cause serious damage, or actual threat thereof, to domestic producers of like or directly competitive textile or apparel goods.
-
-
-> **Explanatory Note**:
-> New.
 
 ### Section 35
 
@@ -519,16 +461,7 @@ Subsection 25(2) of the Act is replaced by the following:
 
   notify each other interested party in writing of the receipt of the complaint and that the complaint is properly documented; and
 
-  in the case of a complaint filed under subsection 23(1.03), (1.06), (1.08), **(1.083)**, (1.09), (1.091), (1.092) or (1.096), send to the Minister a copy of the complaint and the information examined by the Tribunal in making its determination.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 25(2):
-> *Existing Text*:
-> > Where the Tribunal determines under subsection (1) that a complaint is properly documented, it shall forthwith
-> > notify the complainant in writing that the complaint is properly documented;
-> > notify each other interested party in writing of the receipt of the complaint and that the complaint is properly documented; and
-> > in the case of a complaint filed under subsection 23(1.03), (1.06), (1.08), (1.09), (1.091), (1.092) or (1.096), send to the Minister a copy of the complaint and the information examined by the Tribunal in making its determination.
+  in the case of a complaint filed under subsection 23(1.03), (1.06), (1.08), (1.083), (1.09), (1.091), (1.092) or (1.096), send to the Minister a copy of the complaint and the information examined by the Tribunal in making its determination.
 
 ### Section 36
 
@@ -538,10 +471,6 @@ in the case of a complaint filed under subsection 23(1.082), the goods that are 
 
 in the case of a complaint filed under subsection 23(1.083), the textile and apparel goods that are entitled to a CPTPP tariff are as a result of that entitlement, being imported in such increased quantities, in absolute terms or relative to the market in Canada for the goods, and under such conditions as to cause serious damage, or actual threat thereof, to domestic producers of like or directly competitive textile and apparel goods,
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 37
 
 Subsection 27(1) of the Act is amended by adding the following after paragraph (a.81):
@@ -550,17 +479,13 @@ in the case of a complaint filed under subsection 23(1.082), the goods that are 
 
 in the case of a complaint filed under subsection 23(1.083), the textile and apparel goods that are entitled to a CPTPP tariff are, as a result of that entitlement, being imported in such increased quantities, in absolute terms or relative to the market in Canada for the goods, and under such conditions as to cause serious damage, or actual threat thereof, to domestic producers of like or directly competitive textile and apparel goods;
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 38
 
   **(1)** The portion of subsection 30.03(1) of the Act before paragraph (a) is replaced by the following:
 
 ### Section 30.03
 
-      **(1)** The Tribunal shall cause to be published in the `Canada Gazette` a notice of the expiry date of any order that imposes a surtax on any goods under subsection 55(1), section 60, subsection 63(1), 74(1) or (2), **76(1) or 77(1)** of the `Customs Tariff` or includes any goods on the Import Control List under subsection 5(3), (3.2) or (4.1) of the `Export and Import Permits Act`, but no notice shall be published if
+      **(1)** The Tribunal shall cause to be published in the `Canada Gazette` a notice of the expiry date of any order that imposes a surtax on any goods under subsection 55(1), section 60, subsection 63(1), 74(1) or (2), 76(1) or 77(1) of the `Customs Tariff` or includes any goods on the Import Control List under subsection 5(3), (3.2) or (4.1) of the `Export and Import Permits Act`, but no notice shall be published if
 
   **(2)** Subsection 30.03(1) of the Act is amended by striking out "or" at the end of paragraph (b) and by adding the following after paragraph (c):
 
@@ -574,13 +499,7 @@ Subsection 30.04(1) of the Act is replaced by the following:
 
 ### Section 30.04
 
-  **(1)** Any domestic producer of goods that are like or directly competitive with any goods that are subject to an order referred to in subsection 30.03(1), or any person or association acting on behalf of any such domestic producer, may file with the Tribunal a written request that an extension order be made under subsection 63(1), 74(7), **76(3)** or **77(3)** of the `Customs Tariff` or subsection 5(3.2) of the `Export and Import Permits Act` because an order continues to be necessary to prevent or remedy serious injury to domestic producers of like or directly competitive goods.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 30.04(1):
-> *Existing Text*:
-> > Any domestic producer of goods that are like or directly competitive with any goods that are subject to an order referred to in subsection 30.03(1), or any person or association acting on behalf of any such domestic producer, may file with the Tribunal a written request that an extension order be made under subsection 63(1) or 74(7) of the `Customs Tariff` or subsection 5(3.2) of the `Export and Import Permits Act` because an order continues to be necessary to prevent or remedy serious injury to domestic producers of like or directly competitive goods.
+  **(1)** Any domestic producer of goods that are like or directly competitive with any goods that are subject to an order referred to in subsection 30.03(1), or any person or association acting on behalf of any such domestic producer, may file with the Tribunal a written request that an extension order be made under subsection 63(1), 74(7), 76(3) or 77(3) of the `Customs Tariff` or subsection 5(3.2) of the `Export and Import Permits Act` because an order continues to be necessary to prevent or remedy serious injury to domestic producers of like or directly competitive goods.
 
 
 #### `Customs Tariff`
@@ -589,7 +508,7 @@ Subsection 30.04(1) of the Act is replaced by the following:
 
 Subsection 2(1) of the `Customs Tariff` is amended by adding the following in alphabetical order:
 
-**Comprehensive and Progressive Agreement for Trans-Pacific Partnership** has the meaning assigned by the definition Agreement in section `2` of the `Comprehensive and Progressive Agreement for Trans-Pacific Partnership Implementation Act`. (**Accord de Partenariat transpacifique global et progressiste**)
+**Comprehensive and Progressive Agreement for Trans-Pacific Partnership** has the meaning assigned by the definition Agreement in section `2` of the `Comprehensive and Progressive Agreement for Trans-Pacific Partnership Implementation Act`. (**Accord de partenariat transpacifique global et progressiste**)
 
 **CPTPP country** means a party to the Comprehensive and Progressive Agreement for Trans-Pacific Partnership. (**pays PTPGP**)
 
@@ -617,10 +536,6 @@ the Comprehensive and Progressive Singapore Tariff; and
 
 the Comprehensive and Progressive Vietnam Tariff. (**tarif PTPGP**)
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 41
 
 Subparagraph 14(2)(c)(xvii) of the Act is replaced by the following:
@@ -630,16 +545,6 @@ subsection 76(1),
 subsection 77(1),
 
 subsection 5(3), (3.2) or (4.1) of the `Export and Import Permits Act`.
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 14(2):
-> *Existing Text*:
-> > The Governor in Council may, on the recommendation of the Minister, by order, amend the schedule to reduce a rate of customs duty on goods imported from a country, and to make consequential amendments,
-> > 
-> > by way of compensation for any action taken under any of the following provisions:
-> > 
-> > subsection 5(3), (3.2) or (4.1) of the `Export and Import Permits Act`.
 
 ### Section 42
 
@@ -666,10 +571,6 @@ Section 27 of the Act is amended by adding the following in alphabetical order:
 **CPTPT** refers to the Comprehensive and Progressive Trans-Pacific Partnership Tariff. (**TPTGP**)
 
 **CPVNT**  refers to the Comprehensive and Progressive Vietnam Tariff. (**TVNGP**)
-
-
-> **Explanatory Note**:
-> New.
 
 ### Section 43
 
@@ -2072,10 +1973,6 @@ The Act is amended by adding the following after section 52.5:
 
     may exempt goods from the conditions set out in subsection 24(1) and prescribe any conditions that apply.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 44
 
 The Act is amended by adding the following after section 75:
@@ -2144,19 +2041,11 @@ The Act is amended by adding the following after section 75:
 
   **(5)** When an order made under subsection (1) ceases to have effect, the rate of customs duty applicable to the goods is the rate of customs duty that is applicable in accordance with the provision of this Act that gives effect to the CPTPP Tariff to which the goods are entitled.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 45
 
 Section 87 of the Act is amended by adding the following after subsection (6):
 
 **(7)** Despite subsection 20(2), the value for duty of goods of tariff item No. 9971.00.00 that are entitled to a CPTPP tariff is the value of the repairs or alterations made to those goods in a CPTPP country.
-
-
-> **Explanatory Note**:
-> New.
 
 ### Section 46
 
@@ -2302,7 +2191,7 @@ Section 87 of the Act is amended by adding the following after subsection (6):
 
   **(13)** Note 1 to the Description of Goods of tariff item No. 9971.00.00 in the List of Tariff Provisions set out in the schedule to the Act is replaced by the following:
 
-    Note 1: The Canada-European Union Tariff, Iceland Tariff, Korea Tariff, Norway Tariff, Switzerland-Liechtenstein Tariff and **the CPTPP tariff** rate of customs duty applicable to goods classified under this tariff item shall be, in respect of the value of the repair or alteration to the goods carried out only in an EU country or other CETA beneficiary, Iceland, Korea, Norway, Switzerland, Liechtenstein, **or a CPTPP country**, respectively, determined under section 87 of this Act, in accordance with their classification in Chapters 1 to 97.
+    Note 1: The Canada-European Union Tariff, Iceland Tariff, Korea Tariff, Norway Tariff, Switzerland-Liechtenstein Tariff and the CPTPP tariff rate of customs duty applicable to goods classified under this tariff item shall be, in respect of the value of the repair or alteration to the goods carried out only in an EU country or other CETA beneficiary, Iceland, Korea, Norway, Switzerland, Liechtenstein, or a CPTPP country, respectively, determined under section 87 of this Act, in accordance with their classification in Chapters 1 to 97.
 
   **(14)** The Description of Goods of tariff item No. 9990.00.00 in the List of Tariff Provisions set out in the schedule to the Act is amended by adding, in alphabetical order, a reference to "CPTPP country" in the list of countries.
 
