@@ -33,33 +33,21 @@ Subsection 2(1) of the `Corrections and Conditional Release Act` is amended by a
 
 **Indigenous**, in respect of a person, includes a First Nation person, an Inuit or a Métis person; (**autochtone**)
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 2
 
-Paragraph 4(g) of the Act is replaced by the following:
+  ****(1)**** **Paragraph 4(c) of the Act is replaced by the following:**
 
-correctional policies, programs and practices respect gender, ethnic, cultural and linguistic differences and are responsive to the special needs of women, **Indigenous persons**, persons requiring mental health care and other groups;
+    the Service uses the least restrictive measures consistent with the protection of society, staff members and offenders;
 
+  ****(2)**** Paragraph 4(g) of the Act is replaced by the following:
 
-> **Explanatory Note**:
-> Relevant portion of section 4:
-> *Existing Text*:
-> > The principles that guide the Service in achieving the purpose referred to in section 3 are as follows:
-> > 
-> > correctional policies, programs and practices respect gender, ethnic, cultural and linguistic differences and are responsive to the special needs of women, aboriginal peoples, persons requiring mental health care and other groups;
+    correctional policies, programs and practices respect gender, ethnic, cultural, **religious** and linguistic differences, **sexual orientation and gender identity and expression**, and are responsive to the special needs of women, Indigenous persons, **visible minorities**, persons requiring mental health care and other groups;
 
 ### Section 3
 
 Section 15.1 of the Act is amended by adding the following after subsection (2):
 
-**(2.1)** If an offender is in a structured intervention unit and a determination is made under paragraph 37.3(1)(a) or (c) or section 37.4 that the offender should remain in the unit, the institutional head shall, as soon as practicable after the determination, cause the offender's correctional plan to be updated, in consultation with the offender, in order to ensure that they receive the most effective programs at the appropriate time during their confinement in the unit and to prepare them for reintegration into the mainstream inmate population.
-
-
-> **Explanatory Note**:
-> New.
+**(2.1)** If an offender is in a structured intervention unit and a determination is made under **subsection 29.01(2)**, paragraph 37.3(1)**(b)** or section 37.4 that the offender should remain in the **structured intervention** unit, the institutional head shall, as soon as practicable after the determination, cause the offender's correctional plan to be updated, in consultation with the offender, in order to ensure that they receive the most effective programs at the appropriate time during their confinement in the **structured intervention** unit and to prepare them for reintegration into the mainstream inmate population **as soon as possible**.
 
 ### Section 4
 
@@ -67,13 +55,13 @@ Section 15.1 of the Act is amended by adding the following after subsection (2):
 
     **(1.1)** Subsection (1) does not apply to
 
-      a death that results from an inmate receiving medical assistance in dying, as defined in section 241.1 of the `Criminal Code`, in accordance with section 241.2 of that Act; **or**
+      a death that results from an inmate receiving medical assistance in dying, as defined in section 241.1 of the `Criminal Code`, in accordance with section 241.2 of that Act; or
 
       if a registered health care professional advises the Service in writing that the registered health care professional has reasonable grounds to believe that an inmate's death is from a natural cause.
 
   **(2)** Subsection 19(2) of the French version of the Act is replaced by the following:
 
-    **(2)** Le Service remet à l'enquêteur correctionnel, **au sens de la partie III**, une copie du rapport.
+    **(2)** Le Service remet à l'enquêteur correctionnel, au sens de la partie III, une copie du rapport.
 
 ### Section 5
 
@@ -85,23 +73,17 @@ The Act is amended by adding the following after section 19:
 
   **(2)** The Service shall give the Correctional Investigator, as defined in Part III, a copy of its report referred to in subsection (1).
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 6
 
-Paragraph 28(c) of the French version of the Act is replaced by the following:
+  ****(1)**** **The portion of section 28 of the Act before paragraph (a) is replaced by the following:**
 
-l'existence de programmes et **de** services qui lui conviennent et sa volonté d'y participer **ou d'en bénéficier**.
+### Section 28
 
+    If a person is or is to be confined in a penitentiary, the Service shall take all reasonable steps to ensure that the penitentiary in which they are confined is one that provides them with the least restrictive environment for that person, taking into account
 
-> **Explanatory Note**:
-> Relevant portion of section 28:
-> *Existing Text*:
-> > If a person is or is to be confined in a penitentiary, the Service shall take all reasonable steps to ensure that the penitentiary in which they are confined is one that provides them with an environment that contains only the necessary restrictions, taking into account
-> > 
-> > the availability of appropriate programs and services and the person's willingness to participate in those programs.
+  ****(2)**** Paragraph 28(c) of the French version of the Act is replaced by the following:
+
+    l'existence de programmes et de services qui lui conviennent et sa volonté d'y participer ou d'en bénéficier.
 
 ### Section 7
 
@@ -113,19 +95,15 @@ The Commissioner may authorize the transfer of a person who is sentenced, transf
 
 within a penitentiary, from an area that has been assigned a security classification under section 29.1 to another area that has been assigned a security classification under that section, in accordance with the regulations made under paragraph 96(d), subject to section 28;
 
-into a structured intervention unit in the penitentiary or in another penitentiary, in accordance with the regulations made under paragraph 96(d), subject to section 28;
-
 to another penitentiary, in accordance with the regulations made under paragraph 96(d), subject to section 28; or
 
-**to** a provincial correctional facility or hospital, in accordance with an agreement entered into under paragraph 16(1)(a) and any applicable regulations.
+to a provincial correctional facility or hospital, in accordance with an agreement entered into under paragraph 16(1)(a) and any applicable regulations.
 
+### Section 29.01
 
-> **Explanatory Note**:
-> Existing text of section 29:
-> *Existing Text*:
-> > The Commissioner may authorize the transfer of a person who is sentenced, transferred or committed to a penitentiary to
-> > another penitentiary in accordance with the regulations made under paragraph 96(d), subject to section 28; or
-> > a provincial correctional facility or hospital in accordance with an agreement entered into under paragraph 16(1)(a) and any applicable regulations.
+  **(1)** A staff member who holds a position lower in rank than that of institutional head and who is designated by the Commissioner may, in accordance with the regulations made under paragraph 96(g), and subject to section 28, authorize the transfer of a person who is sentenced, transferred or committed to a penitentiary into a structured intervention unit in the penitentiary or in another penitentiary.
+
+  **(2)** The institutional head shall determine, in accordance with regulations made under paragraph 96(g), whether an inmate should remain in a structured intervention unit within the period of five working days that begins on the first working day on which the inmate is confined in the unit.
 
 ### Section 8
 
@@ -135,26 +113,15 @@ The Act is amended by adding the following before section 30:
 
 The Commissioner may assign the security classification of "minimum security", "medium security", "maximum security" or "multi-level security", or any other prescribed security classification, to each penitentiary or to any area in a penitentiary.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 9
 
 Subsections 30(1) and (2) of the French version of the Act are replaced by the following:
 
 ### Section 30
 
-  **(1)** Le Service **attribue** une cote de sécurité selon les catégories dites maximale, moyenne et minimale à chaque détenu conformément aux règlements d'application de l'alinéa 96z.6).
+  **(1)** Le Service attribue une cote de sécurité selon les catégories dites maximale, moyenne et minimale à chaque détenu conformément aux règlements d'application de l'alinéa 96z.6).
 
-  **(2)** Le Service doit donner, par écrit, à chaque détenu les motifs à l'appui de l'**attribution** d'une cote de sécurité ou du changement de celle-ci.
-
-
-> **Explanatory Note**:
-> Existing text of subsections 30(1) and (2):
-> *Existing Text*:
-> > The Service shall assign a security classification of maximum, medium or minimum to each inmate in accordance with the regulations made under paragraph 96(z.6).
-> > The Service shall give each inmate reasons, in writing, for assigning a particular security classification or for changing that classification.
+  **(2)** Le Service doit donner, par écrit, à chaque détenu les motifs à l'appui de l'attribution d'une cote de sécurité ou du changement de celle-ci.
 
 ### Section 10
 
@@ -169,11 +136,15 @@ The Commissioner may designate a penitentiary or any area in a penitentiary to b
 
 ### Section 32
 
-The purpose of a structured intervention unit is to
+  ****(1)**** The purpose of a structured intervention unit is to
 
-provide an appropriate living environment for an inmate who cannot be maintained in the mainstream inmate population for security or other reasons; and
+    provide an appropriate living environment for an inmate who cannot be maintained in the mainstream inmate population for security or other reasons; and
 
-provide the inmate with an opportunity for meaningful human contact and an opportunity to participate in programs and to have access to services that respond to the inmate's specific needs and the risks posed by the inmate.
+    provide the inmate with an opportunity for meaningful human contact and an opportunity to participate in programs and to have access to services that respond to the inmate's specific needs and the risks posed by the inmate.
+
+  **(2)** For the purposes of paragraph (1)(b), every reasonable effort shall be made to ensure that the opportunity to interact through human contact is not mediated or interposed by physical barriers such as bars, security glass, door hatches or screens.
+
+  **(3)** The Service shall maintain a record of every instance of an interaction referred to in paragraph (1)(b) that is mediated or interposed by such physical barriers.
 
 ### Section 33
 
@@ -181,13 +152,17 @@ An inmate's confinement in a structured intervention unit is to end as soon as p
 
 ### Section 34
 
-The Commissioner may authorize the transfer of an inmate into a structured intervention unit under section 29 only if the Commissioner is satisfied that there is no reasonable alternative to the inmate's confinement in a structured intervention unit and the Commissioner believes on reasonable grounds that
+  ****(1)**** **A staff member** may authorize the transfer of an inmate into a structured intervention unit under **subsection 29.01(1)** only if the **staff member** is satisfied that there is no reasonable alternative to the inmate's confinement in a structured intervention unit and the **staff member** believes on reasonable grounds that
 
-the inmate has acted, has attempted to act or intends to act in a manner that jeopardizes the safety of any person or the security of a penitentiary and allowing the inmate to be in the mainstream inmate population would jeopardize the safety of any person or the security of the penitentiary;
+    the inmate has acted, has attempted to act or intends to act in a manner that jeopardizes the safety of any person or the security of a penitentiary and allowing the inmate to be in the mainstream inmate population would jeopardize the safety of any person or the security of the penitentiary;
 
-allowing the inmate to be in the mainstream inmate population would jeopardize the inmate's safety; or
+    allowing the inmate to be in the mainstream inmate population would jeopardize the inmate's safety; or
 
-allowing the inmate to be in the mainstream inmate population would interfere with an investigation that could lead to a criminal charge or a charge under subsection 41(2) of a serious disciplinary offence.
+    allowing the inmate to be in the mainstream inmate population would interfere with an investigation that could lead to a criminal charge or a charge under subsection 41(2) of a serious disciplinary offence.
+
+  **(2)** The Service shall maintain a record of every instance in which an inmate is transferred into a structured intervention unit indicating the reasons for the transfer and any alternative considered in the making of the decision.
+
+  **(3)** No later than one working day after the transfer, the Service shall provide the inmate, in writing, with the reasons for the decision.
 
 ### Section 35
 
@@ -195,11 +170,11 @@ An inmate in a structured intervention unit has the same rights as other inmates
 
 ### Section 36
 
-  **(1)** The Service shall provide an inmate in a structured intervention unit
+  **(1)** The Service shall, **every day, between the hours of 7:00 a.m. and 10:00 p.m.**, provide an inmate in a structured intervention unit
 
-    an opportunity to spend a minimum of four hours a day outside the inmate's cell; and
+    an opportunity to spend a minimum of four hours outside the inmate's cell; and
 
-    an opportunity to interact, for a minimum of two hours a day, with others, through activities including, but not limited to,
+    an opportunity to interact, for a minimum of two hours, with others, through activities including, but not limited to,
 
     programs, interventions and services that encourage the inmate to make progress towards the objectives of their correctional plan or that support the inmate's reintegration into the mainstream inmate population, and
 
@@ -217,9 +192,9 @@ An inmate in a structured intervention unit has the same rights as other inmates
 
     if the inmate, at the time the opportunity referred to in that paragraph is provided to them, does not comply with reasonable instructions to ensure their safety or that of any other person or the security of the penitentiary; or
 
-    in the prescribed circumstances, and those circumstances must be limited to what is reasonably required for security purposes.
+    in the prescribed circumstances, **which circumstances may include, among other things, natural disasters, fires, riots and work refusals under section 128 of the `Canada Labour Code`**, and those circumstances must be limited to what is reasonably required for security purposes.
 
-  **(2)** The Service shall maintain a record of every instance that an inmate has refused to avail themselves of any opportunity referred to in paragraph 36(1)(a) or (b) or has not been given such an opportunity by reason of paragraph (1)(b) or (c).
+  **(2)** The Service shall maintain a record of every instance that an inmate has **been offered an** opportunity referred to in paragraph 36(1)(a) or (b) **that the inmate** refused, **indicating the specific opportunity and any reason given for the refusal**, or has not been given such an opportunity by reason of paragraph (1)(b) or (c).
 
 ### Section 37.1
 
@@ -227,19 +202,29 @@ An inmate in a structured intervention unit has the same rights as other inmates
 
   **(2)** The Service shall ensure that the measures include a visit to the inmate at least once every day by a registered health care professional employed or engaged by the Service.
 
+### Section 37.11
+
+A staff member or a person engaged by the Service may recommend to a registered health care professional employed or engaged by the Service that the professional assess the mental health of an inmate, if the inmate
+
+refuses to interact with others for a prescribed per­iod;
+
+exhibits a tendency to self-harm;
+
+is showing signs of an adverse drug reaction; or
+
+is showing signs of emotional distress or exhibiting behaviour that suggests that the inmate is in urgent need of mental health care.
+
 ### Section 37.2
 
 A registered health care professional employed or engaged by the Service may, for health reasons, recommend to the institutional head that the conditions of confinement of the inmate in a structured intervention unit be altered or that the inmate not remain in the unit.
 
 ### Section 37.3
 
-  **(1)** The institutional head shall determine, in the prescribed manner, whether an inmate should remain in a structured intervention unit
-
-    within the period of five working days that begins on the first working day on which the inmate is confined in the unit;
+  **(1)** The institutional head shall determine, in **accordance with regulations made under paragraph 96(g)**, whether an inmate should remain in a structured intervention unit
 
     as soon as practicable after a registered health care professional recommends under section 37.2, for health reasons, that the inmate not remain in the unit;
 
-    within the period that begins on the day on which the determination under paragraph (a) is made and that ends on the expiry of the period of 30 days that begins on the first day on which the inmate is confined in the unit;
+    within the period that begins on the day on which the determination under **subsection 29.01(2)** is made and that ends on the expiry of the period of 30 days that begins on the first day on which the inmate is confined in the unit;
 
     as soon as practicable, if the inmate has refused to avail themselves of the opportunity referred to in paragraph 36(1)(a) or (b), or the inmate has not been given such an opportunity by reason of paragraph 37(1)(b), for
 
@@ -249,13 +234,41 @@ A registered health care professional employed or engaged by the Service may, fo
 
     as soon as practicable in any of the prescribed circumstances.
 
-  **(2)** The institutional head may determine that the inmate should remain in the unit only if the institutional head believes on reasonable grounds that allowing the inmate's reintegration into the mainstream inmate population
+  **(1.1)** Before making the determination, the institutional head shall visit the inmate.
+
+  **(1.2)** The institutional head shall maintain a record indicating the circumstances surrounding every instance in which, because of security requirements, a visit was not face to face or took place through a door hatch.
+
+  **(2)** As soon as practicable after the registered health care professional referred to in section 37.2 has recommended, for health reasons, that the conditions of confinement be altered, the institutional head shall determine whether the inmate's conditions of confinement in the structured intervention unit should be altered.
+
+  **(3)** No later than one working day after the visit, the institutional head shall provide the inmate, in writing, with the reasons for the decision.
+
+### Section 37.31
+
+  **(1)** If the institutional head determines under paragraph 37.3(1)(a) that an inmate should remain in a structured intervention unit or the institutional head determines under subsection 37.3(2) that an inmate's conditions of confinement in the structured intervention unit should not be altered in accordance with the recommendations of a registered health care professional, another registered health care professional shall, as soon as practicable, review the inmate's case and may, for health reasons, recommend to the committee established under subsection (3) that the inmate's conditions of confinement in the unit be altered or that the inmate not remain in the unit.
+
+  **(2)** The registered health care professional conducting the review must be a senior registered health care professional employed by the Service or a registered health care professional engaged by the Service as an expert advisor.
+
+  **(3)** The Commissioner shall establish a committee consisting of staff members who hold a position higher in rank than that of institutional head for the purpose of reviewing recommendations made under subsection (1) and making determinations under section 37.32.
+
+### Section 37.32
+
+  **(1)** As soon as practicable after a registered health care professional recommends under subsection 37.31(1), for health reasons, that an inmate's conditions of confinement in a structured intervention unit be altered, the committee established under subsection 37.31(3) shall, in accordance with regulations made under paragraph 96(g), determine whether the inmate's conditions of confinement in the unit should be altered.
+
+  **(2)** As soon as practicable after a registered health care professional recommends under subsection 37.31(1), for health reasons, that an inmate should not remain in a structured intervention unit, the committee established under subsection 37.31(3) shall, in accordance with regulations made under paragraph 96(g), determine whether the inmate should remain in the unit.
+
+### Section 37.4
+
+Thirty days after the institutional head's determination under paragraph 37.3(1)**(b) that an** inmate **should remain** in a structured intervention **unit**, the Commissioner shall, in **accordance with regulations made under paragraph 96(g)**, determine whether the inmate should remain in **the** unit. The Commissioner shall also make such a determination in the prescribed circumstances and every 30 days after the Commissioner's last determination under this section **that** the inmate **should remain in the unit**.
+
+### Section **37.41**
+
+  ****(1)**** The institutional head, **the Commissioner or the committee established under subsection 37.31(3)** may determine that **an** inmate should remain in **a structured intervention** unit only if **they believe** on reasonable grounds that allowing the inmate's reintegration into the mainstream inmate population
 
     would jeopardize the safety of the inmate or any other person or the security of the penitentiary; or
 
     would interfere with an investigation that could lead to a criminal charge or a charge under subsection 41(2) of a serious disciplinary offence.
 
-  **(3)** In making the determination, the institutional head shall take into account
+  ****(2)**** In making the determination, the institutional head, **the Commissioner or the committee, as the case may be**, shall take into account
 
     the inmate's correctional plan;
 
@@ -264,12 +277,6 @@ A registered health care professional employed or engaged by the Service may, fo
     the appropriateness of the inmate's security classification; and
 
     any other consideration that he or she considers relevant.
-
-  **(4)** As soon as practicable after the registered health care professional referred to in section 37.2 has recommended, for health reasons, that the conditions of confinement be altered, the institutional head shall determine whether the inmate's conditions of confinement in the structured intervention unit should be altered.
-
-### Section 37.4
-
-Thirty days after the institutional head's determination under paragraph 37.3(1)(c) in respect of the inmate, the Commissioner shall determine, in the prescribed manner, whether the inmate should remain in a structured intervention unit. The Commissioner shall also make such a determination in the prescribed circumstances and every 30 days after the Commissioner's last determination under this section in respect of the inmate.
 
 ### Section 37.5
 
@@ -283,50 +290,9 @@ If an inmate has been authorized to be transferred to a structured intervention 
 
   **(3)** Subsection (1) does not apply if the transfer is to a structured intervention unit in the penitentiary where the inmate is confined at the time the authorization is given.
 
-
-> **Explanatory Note**:
-> Existing text of the heading and sections 31 to 37:
-> *Existing Text*:
-> > The purpose of administrative segregation is to maintain the security of the penitentiary or the safety of any person by not allowing an inmate to associate with other inmates.
-> > The inmate is to be released from administrative segregation at the earliest appropriate time.
-> > The institutional head may order that an inmate be confined in administrative segregation if the institutional head is satisfied that there is no reasonable alternative to administrative segregation and he or she believes on reasonable grounds that
-> > the inmate has acted, has attempted to act or intends to act in a manner that jeopardizes the security of the penitentiary or the safety of any person and allowing the inmate to associate with other inmates would jeopardize the security of the penitentiary or the safety of any person;
-> > allowing the inmate to associate with other inmates would interfere with an investigation that could lead to a criminal charge or a charge under subsection 41(2) of a serious disciplinary offence; or
-> > allowing the inmate to associate with other inmates would jeopardize the inmate's safety.
-> > All recommendations to the institutional head referred to in paragraph 33(1)(c) and all decisions by the institutional head to release or not to release an inmate from administrative segregation shall be based on the considerations set out in section 31.
-> > Where an inmate is involuntarily confined in administrative segregation, a person or persons designated by the institutional head shall
-> > conduct, at the prescribed time and in the prescribed manner, a hearing to review the inmate's case;
-> > conduct, at prescribed times and in the prescribed manner, further regular hearings to review the inmate's case; and
-> > recommend to the institutional head, after the hearing mentioned in paragraph (a) and after each hearing mentioned in paragraph (b), whether or not the inmate should be released from administrative segregation.
-> > A hearing mentioned in paragraph (1)(a) shall be conducted with the inmate present unless
-> > the inmate is voluntarily absent;
-> > the person or persons conducting the hearing believe on reasonable grounds that the inmate's presence would jeopardize the safety of any person present at the hearing; or
-> > the inmate seriously disrupts the hearing.
-> > Where the institutional head does not intend to accept a recommendation made under section 33 to release an inmate from administrative segregation, the institutional head shall, as soon as is practicable, meet with the inmate
-> > to explain the reasons for not intending to accept the recommendation; and
-> > to give the inmate an opportunity to make oral or written representations.
-> > Where an inmate requests to be placed in, or continue in, administrative segregation and the institutional head does not intend to grant the request, the institutional head shall, as soon as is practicable, meet with the inmate
-> > to explain the reasons for not intending to grant the request; and
-> > to give the inmate an opportunity to make oral or written representations.
-> > An inmate in administrative segregation shall be visited at least once every day by a registered health care professional.
-> > The institutional head shall visit the administrative segregation area at least once every day and meet with individual inmates on request.
-> > An inmate in administrative segregation has the same rights and conditions of confinement as other inmates, except for those that
-> > can only be enjoyed in association with other inmates; or
-> > cannot be enjoyed due to
-> > limitations specific to the administrative segregation area, or
-> > security requirements.
-
 ### Section 11
 
 Subsection 44(1) of the Act is amended by adding "and" after paragraph (d), by striking out "and" after paragraph (e) and by repealing paragraph (f).
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 44(1):
-> *Existing Text*:
-> > An inmate who is found guilty of a disciplinary offence is liable, in accordance with the regulations made under paragraphs 96(i) and (j), to one or more of the following:
-> > 
-> > in the case of a serious disciplinary offence, segregation from other inmates — with or without restrictions on visits with family, friends and other persons from outside the penitentiary — for a maximum of 30 days.
 
 ### Section 12
 
@@ -334,23 +300,13 @@ Section 46 of the Act is amended by adding the following in alphabetical order:
 
 **body scan search** means a search of a body by means of a prescribed body scanner that is conducted in the prescribed manner. (**fouille par balayage corporel**)
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 13
 
 Subsection 47(1) of the French version of the Act is replaced by the following:
 
 ### Section 47
 
-  **(1)** Dans les cas prévus par règlement et justifiés par des raisons de sécurité, l'agent peut, sans soupçon précis, procéder à **la fouille discrète** ou **à la fouille** par palpation **ordinaires** des détenus.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 47(1):
-> *Existing Text*:
-> > A staff member may conduct routine non-intrusive searches or routine frisk searches of inmates, without individualized suspicion, in the prescribed circumstances, which circumstances must be limited to what is reasonably required for security purposes.
+  **(1)** Dans les cas prévus par règlement et justifiés par des raisons de sécurité, l'agent peut, sans soupçon précis, procéder à la fouille discrète ou à la fouille par palpation ordinaires des détenus.
 
 ### Section 14
 
@@ -362,15 +318,7 @@ A staff member of the same sex as the inmate may conduct a routine strip search 
 
 in the prescribed circumstances in situations in which the inmate has been in a place where there was a likelihood of access to contraband that is capable of being hidden on or in the body; or
 
-when the inmate is entering or leaving a **structured intervention unit**.
-
-
-> **Explanatory Note**:
-> Existing text of section 48:
-> *Existing Text*:
-> > A staff member of the same sex as the inmate may conduct a routine strip search of an inmate, without individualized suspicion,
-> > in the prescribed circumstances, which circumstances must be limited to situations in which the inmate has been in a place where there was a likelihood of access to contraband that is capable of being hidden on or in the body; or
-> > when the inmate is entering or leaving a segregation area.
+when the inmate is entering or leaving a structured intervention unit.
 
 ### Section 15
 
@@ -380,27 +328,15 @@ The Act is amended by adding the following after section 48:
 
 A staff member may, in the prescribed circumstances, conduct a body scan search of an inmate, and those circumstances must be limited to what is reasonably required for security purposes.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 16
 
 Section 51 of the Act is replaced by the following:
 
 ### Section 51
 
-  ****(1)**** **If** the institutional head is satisfied that there are reasonable grounds to believe that an inmate has ingested contraband or is carrying contraband in a body cavity, the institutional head may authorize in writing the detention of the inmate in a cell without plumbing fixtures on the expectation that the contraband will be expelled.
+  **(1)** If the institutional head is satisfied that there are reasonable grounds to believe that an inmate has ingested contraband or is carrying contraband in a body cavity, the institutional head may authorize in writing the detention of the inmate in a cell without plumbing fixtures on the expectation that the contraband will be expelled.
 
   **(2)** The inmate must be visited at least once every day by a registered health care professional.
-
-
-> **Explanatory Note**:
-> Existing text of section 51:
-> *Existing Text*:
-> > Where the institutional head is satisfied that there are reasonable grounds to believe that an inmate has ingested contraband or is carrying contraband in a body cavity, the institutional head may authorize in writing one or both of the following:
-> > the use of an X-ray machine by a qualified X-ray technician to find the contraband, if the consent of the inmate and of a qualified medical practitioner is obtained; and
-> > the detention of the inmate in a cell without plumbing fixtures, with notice to the penitentiary's medical staff, on the expectation that the contraband will be expelled.
 
 ### Section 17
 
@@ -408,13 +344,7 @@ Section 59 of the French version of the Act is replaced by the following:
 
 ### Section 59
 
-Dans les cas prévus par règlement et justifiés par des raisons de sécurité, l'agent peut, sans soupçon précis, procéder à la fouille discrète ou **à la fouille** par palpation **ordinaires** des visiteurs.
-
-
-> **Explanatory Note**:
-> Existing text of section 59:
-> *Existing Text*:
-> > A staff member may conduct routine non-intrusive searches or routine frisk searches of visitors, without individualized suspicion, in the prescribed circumstances, which circumstances must be limited to what is reasonably required for security purposes.
+Dans les cas prévus par règlement et justifiés par des raisons de sécurité, l'agent peut, sans soupçon précis, procéder à la fouille discrète ou à la fouille par palpation ordinaires des visiteurs.
 
 ### Section 18
 
@@ -424,23 +354,13 @@ The Act is amended by adding the following after section 60:
 
 A staff member may, in the prescribed circumstances, conduct a body scan search of a visitor, and those circumstances must be limited to what is reasonably required for security purposes.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 19
 
 Subsection 61(1) of the French version of the Act is replaced by the following:
 
 ### Section 61
 
-  **(1)** Dans les cas prévus par règlement et justifiés par des raisons de sécurité, l'agent peut, sans soupçon précis et selon les modalités réglementaires, procéder à la fouille **ordinaire** des véhicules qui se trouvent au pénitencier.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 61(1):
-> *Existing Text*:
-> > A staff member may, in the prescribed manner, conduct routine searches of vehicles at a penitentiary, without individualized suspicion, in the prescribed circumstances, which circumstances must be limited to what is reasonably required for security purposes.
+  **(1)** Dans les cas prévus par règlement et justifiés par des raisons de sécurité, l'agent peut, sans soupçon précis et selon les modalités réglementaires, procéder à la fouille ordinaire des véhicules qui se trouvent au pénitencier.
 
 ### Section 20
 
@@ -448,13 +368,7 @@ Section 63 of the French version of the Act is replaced by the following:
 
 ### Section 63
 
-Dans les cas prévus par règlement et justifiés par des raisons de sécurité, l'agent peut, sans soupçon précis, procéder à la fouille discrète ou **à la fouille** par palpation **ordinaires** d'autres agents.
-
-
-> **Explanatory Note**:
-> Existing text of section 63:
-> *Existing Text*:
-> > A staff member may conduct routine non-intrusive searches or routine frisk searches of other staff members, without individualized suspicion, in the prescribed circumstances, which circumstances must be limited to what is reasonably required for security purposes.
+Dans les cas prévus par règlement et justifiés par des raisons de sécurité, l'agent peut, sans soupçon précis, procéder à la fouille discrète ou à la fouille par palpation ordinaires d'autres agents.
 
 ### Section 21
 
@@ -464,64 +378,48 @@ The Act is amended by adding the following after section 64:
 
 A staff member may, in the prescribed circumstances, conduct a body scan search of another staff member, and those circumstances must be limited to what is reasonably required for security purposes.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 22
 
 Subsection 65(1) of the Act is replaced by the following:
 
 ### Section 65
 
-  **(1)** A staff member may seize contraband, or evidence relating to a disciplinary or criminal offence, found in the course of a search conducted **under** sections 47 to 64, except a body cavity search or a **body scan** search.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 65(1):
-> *Existing Text*:
-> > Subject to section 50, a staff member may seize contraband, or evidence relating to a disciplinary or criminal offence, found in the course of a search conducted pursuant to sections 47 to 64, except a body cavity search or a search described in paragraph 51(a).
+  **(1)** A staff member may seize contraband, or evidence relating to a disciplinary or criminal offence, found in the course of a search conducted under sections 47 to 64, except a body cavity search or a body scan search.
 
 ### Section 23
 
 The heading before section 79 and sections 79 and 80 of the Act are replaced by the following:
 
 
-### **Indigenous** Offenders
+### Indigenous Offenders
 
 ### Section 79
 
-In sections **79.1** to **84.1**,
+In sections 79.1 to 84.1,
 
-**correctional services** means services or programs for offenders, including their care, custody and **supervision**. (**services correctionnels**)
+**correctional services** means services or programs for offenders, including their care, custody and supervision. (**services correctionnels**)
 
-**Indigenous governing body** means a council, government or other entity that is authorized to act on behalf of an Indigenous group, community or people that holds rights recognized and affirmed by section 35 of the `Constitution Act, 1982`. (**corps dirigeant autochtone**)
+**Indigenous governing body** means a council, government or other entity that is authorized to act on behalf of an Indigenous group, community or people that holds rights recognized and affirmed by section 35 of the `Constitution Act, 1982`. (**corps dirigeant autochtone**)
+
+**Indigenous organization** means an organization with predominately Indigenous leadership. (**organisme autochtone**)
 
 **Indigenous peoples of Canada** has the meaning assigned by the definition aboriginal peoples of Canada in subsection 35(2) of the `Constitution Act, 1982`.‍ (**peuples autochtones du Canada**)
 
 ### Section 79.1
 
-In making decisions under this Act affecting an Indigenous offender, the Service shall take the following into consideration:
+  ****(1)**** In making decisions under this Act affecting an Indigenous offender, the Service shall take the following into consideration:
 
-systemic and background factors affecting Indigenous peoples of Canada;
+    systemic and background factors affecting Indigenous peoples of Canada;
 
-systemic and background factors that have contributed to the overrepresentation of Indigenous persons in the criminal justice system and that may have contributed to the offender's involvement in the criminal justice system; and
+    systemic and background factors that have contributed to the overrepresentation of Indigenous persons in the criminal justice system and that may have contributed to the offender's involvement in the criminal justice system; and
 
-the Indigenous culture and identity of the offender.
+    the Indigenous culture and identity of the offender.
+
+  **(2)** The factors described in paragraphs (1)(a) to (c) are not to be taken into consideration for decisions respecting the assessment of the risk posed by an Indigenous inmate.
 
 ### Section 80
 
-Without limiting the generality of section 76, the Service shall provide programs designed particularly to address the needs of **Indigenous** offenders.
-
-
-> **Explanatory Note**:
-> Existing text of the heading and sections 79 and 80:
-> *Existing Text*:
-> > In sections 80 to 84,
-> > **aboriginal** means Indian, Inuit or Métis; (autochtone)
-> > **aboriginal community** means a first nation, tribal council, band, community, organization or other group with a predominantly aboriginal leadership; (collectivité autochtone)
-> > **correctional services** means services or programs for offenders, including their care and custody. (services correctionnels)
-> > Without limiting the generality of section 76, the Service shall provide programs designed particularly to address the needs of aboriginal offenders.
+Without limiting the generality of section 76, the Service shall provide programs designed particularly to address the needs of Indigenous offenders.
 
 ### Section 24
 
@@ -537,23 +435,25 @@ Sections 82 to 84.1 of the Act are replaced by the following:
 
 ### Section 82
 
-  **(1)** The Service shall establish a **national Indigenous** advisory committee, and may establish regional and local **Indigenous** advisory committees, which shall provide advice to the Service on the provision of correctional services to **Indigenous** offenders.
+  **(1)** The Service shall establish a national Indigenous advisory committee, and may establish regional and local Indigenous advisory committees, which shall provide advice to the Service on the provision of correctional services to Indigenous offenders.
 
-  **(2)** For the purpose of carrying out their function under subsection (1), all committees shall consult regularly with **Indigenous** communities, **Indigenous governing bodies, Indigenous organizations** and other appropriate persons with knowledge of **Indigenous** matters.
+  **(2)** For the purpose of carrying out their function under subsection (1), all committees shall consult regularly with Indigenous communities, Indigenous governing bodies, Indigenous organizations and other appropriate persons with knowledge of Indigenous matters.
 
 ### Section 83
 
-  **(1)** For greater certainty, **Indigenous** spirituality and **Indigenous** spiritual leaders and elders have the same status as other religions and other religious leaders.
+  **(1)** For greater certainty, Indigenous spirituality and Indigenous spiritual leaders and elders have the same status as other religions and other religious leaders.
 
-  **(2)** The Service shall take all reasonable steps to make available to **Indigenous** inmates the services of an **Indigenous** spiritual leader or elder after consultation with
+  **(1.1)** If the Service considers it appropriate in the circumstance, it shall seek advice from an Indigenous spirit­ual leader or elder when providing correctional services to an Indigenous inmate, particularly in matters of mental health and behaviour.
 
-    the **national Indigenous** advisory committee **established under** section 82; and
+  **(2)** The Service shall take all reasonable steps to make available to Indigenous inmates the services of an Indigenous spiritual leader or elder after consultation with
 
-    the appropriate regional and local **Indigenous** advisory committees.
+    the national Indigenous advisory committee established under section 82; and
+
+    the appropriate regional and local Indigenous advisory committees.
 
 ### Section 84
 
-If an inmate expresses an interest in being released into an **Indigenous** community, the Service shall, with the inmate's consent, give the **community's Indigenous governing body**
+If an inmate expresses an interest in being released into an Indigenous community, the Service shall, with the inmate's consent, give the community's Indigenous governing body
 
 adequate notice of the inmate's parole review or their statutory release date, as the case may be; and
 
@@ -561,54 +461,23 @@ an opportunity to propose a plan for the inmate's release and integration into t
 
 ### Section 84.1
 
-**If** an offender who is required to be supervised by a long-term supervision order has expressed an interest in being supervised in an **Indigenous** community, the Service shall, **with** the **offender's consent**, give the **community's Indigenous governing body**
+If an offender who is required to be supervised by a long-term supervision order has expressed an interest in being supervised in an Indigenous community, the Service shall, with the offender's consent, give the commun­ity's Indigenous governing body
 
 adequate notice of the order; and
 
-an opportunity to propose a plan for the offender's release on supervision, and integration, into **that** community.
-
-
-> **Explanatory Note**:
-> Existing text of sections 82 to 84.1:
-> *Existing Text*:
-> > The Service shall establish a National Aboriginal Advisory Committee, and may establish regional and local aboriginal advisory committees, which shall provide advice to the Service on the provision of correctional services to aboriginal offenders.
-> > For the purpose of carrying out their function under subsection (1), all committees shall consult regularly with aboriginal communities and other appropriate persons with knowledge of aboriginal matters.
-> > For greater certainty, aboriginal spirituality and aboriginal spiritual leaders and elders have the same status as other religions and other religious leaders.
-> > The Service shall take all reasonable steps to make available to aboriginal inmates the services of an aboriginal spiritual leader or elder after consultation with
-> > the National Aboriginal Advisory Committee mentioned in section 82; and
-> > the appropriate regional and local aboriginal advisory committees, if such committees have been established pursuant to that section.
-> > If an inmate expresses an interest in being released into an aboriginal community, the Service shall, with the inmate's consent, give the aboriginal community
-> > adequate notice of the inmate's parole review or their statutory release date, as the case may be; and
-> > an opportunity to propose a plan for the inmate's release and integration into that community.
-> > Where an offender who is required to be supervised by a long-term supervision order has expressed an interest in being supervised in an aboriginal community, the Service shall, if the offender consents, give the aboriginal community
-> > adequate notice of the order; and
-> > an opportunity to propose a plan for the offender's release on supervision, and integration, into the aboriginal community.
+an opportunity to propose a plan for the offender's release on supervision, and integration, into that community.
 
 ### Section 26
 
 The definition health care in section 85 of the Act is replaced by the following:
 
-**health care** means medical care, dental care and mental health care, provided by registered health care professionals **or by persons acting under the supervision of registered health care professionals**; (**soins de santé**)
-
-
-> **Explanatory Note**:
-> Existing text of the definition:
-> *Existing Text*:
-> > **health care** means medical care, dental care and mental health care, provided by registered health care professionals; (**soins de santé**)
+**health care** means medical care, dental care and mental health care, provided by registered health care professionals or by persons acting under the supervision of registered health care professionals; (**soins de santé**)
 
 ### Section 27
 
 Paragraph 86(1)(b) of the Act is replaced by the following:
 
 reasonable access to non-essential health care.
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 86(1):
-> *Existing Text*:
-> > The Service shall provide every inmate with
-> > 
-> > reasonable access to non-essential mental health care that will contribute to the inmate's rehabilitation and successful reintegration into the community.
 
 ### Section 28
 
@@ -636,22 +505,11 @@ The purpose of a health care unit is to provide an appropriate living environmen
 
 The admission of inmates to and the discharge of inmates from health care units must be in accordance with regulations made under paragraph 96(g.1).
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 29
 
 Paragraph 87(a) of the Act is replaced by the following:
 
-in all decisions affecting the offender, including decisions relating to placement, transfer, **confinement in a structured intervention unit** and disciplinary matters; and
-
-
-> **Explanatory Note**:
-> Relevant portion of section 87:
-> *Existing Text*:
-> > The Service shall take into consideration an offender's state of health and health care needs
-> > in all decisions affecting the offender, including decisions relating to placement, transfer, administrative segregation and disciplinary matters; and
+in all decisions affecting the offender, including decisions relating to placement, transfer, confinement in a structured intervention unit and disciplinary matters; and
 
 ### Section 30
 
@@ -663,25 +521,25 @@ The Service shall provide, in respect of inmates in penitentiaries designated by
 
 to support inmates in relation to their health care matters; and
 
-to enable inmates and their families to understand the rights and responsibilities of inmates related to health care.
-
-
-> **Explanatory Note**:
-> New.
+to enable inmates and their families **or an individual  identified by the inmate as a support person** to understand the rights and responsibilities of inmates related to health care.
 
 ### Section 31
 
   **(1)** Paragraph 96(g) of the Act is replaced by the following:
 
-    respecting the **confinement** of inmates **in a structured intervention unit**;
+    respecting the confinement of inmates in a structured intervention unit, **including respecting the making of a determination by an institutional head, the Commissioner or the committee established under subsection 37.31(3) as to whether the conditions of confinement of an inmate in a structured intervention unit should be altered or as to whether an inmate should remain in such a unit**;
 
   **(2)** Section 96 of the Act is amended by adding the following after paragraph (g):
 
     respecting the admission of inmates to and the discharge of inmates from health care units;
 
+  **(2.1)** Paragraph 96(l) of the French version of the Act is replaced by the following:
+
+    précisant la manière d'effectuer les inspections lors d'une *fouille à nu*, d'une *fouille discrète* ou d'une *fouille par palpation*, au sens de l'article 46;
+
   **(3)** Paragraph 96(z.6) of the French version of the Act is replaced by the following:
 
-    concernant l'**attribution** d'une cote de sécurité au détenu et le classement de celui-ci dans une sous-catégorie au titre de l'article 30 ainsi que les critères de détermination de la cote et de la sous-catégorie;
+    concernant l'attribution d'une cote de sécurité au détenu et le classement de celui-ci dans une sous-catégorie au titre de l'article 30 ainsi que les critères de détermination de la cote et de la sous-catégorie;
 
 ### Section 32
 
@@ -693,19 +551,17 @@ to enable inmates and their families to understand the rights and responsibiliti
 
     **Indigenous** has the same meaning as in Part I; (**autoch­tone**)
 
+### Section 32.1
+
+Paragraph 101(c) of the Act is replaced by the following:
+
+parole boards make the least restrictive determin­ations that are consistent with the protection of society;
+
 ### Section 33
 
 Paragraph 116(1)(b) of the English version of Act is replaced by the following:
 
-it is desirable for the offender to be absent from **the** penitentiary for medical, administrative, community service, family contact, including parental responsibilities, personal development for rehabilitative purposes or compassionate reasons;
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 116(1):
-> *Existing Text*:
-> > The Board may authorize the unescorted temporary absence of an offender referred to in paragraph 107(1)(e) where, in the opinion of the Board,
-> > 
-> > it is desirable for the offender to be absent from penitentiary for medical, administrative, community service, family contact, personal development for rehabilitative purposes, or compassionate reasons, including parental responsibilities;
+it is desirable for the offender to be absent from the penitentiary for medical, administrative, community service, family contact, including parental responsibilities, personal development for rehabilitative purposes or compassionate reasons;
 
 ### Section 34
 
@@ -717,33 +573,15 @@ Subsection 140(13) of the Act is replaced by the following:
 
   should not be heard by the victim or a person referred to in subsection 142(3) because the privacy interests of any person clearly outweighs the interest of the victim or person referred to in that subsection.
 
-
-> **Explanatory Note**:
-> Existing text of subsection 140(13):
-> *Existing Text*:
-> > Subject to any conditions specified by the Board, a victim, or a person referred to in subsection 142(3), who does not attend a hearing in respect of a review referred to in paragraph (1)(a) or (b) as an observer is entitled, after the hearing, on request, to listen to an audio recording of the hearing, other than portions of the hearing that the Board considers could reasonably be expected to jeopardize the safety of any person or to reveal a source of information obtained in confidence.
-
 ### Section 35
 
 Subsection 151(3) of the Act is replaced by the following:
 
-**(3)** Policies adopted under paragraph (2)(a) must respect gender, ethnic, cultural and linguistic differences and be responsive to the special needs of women and **of Indigenous persons**, as well as to the needs of other groups of offenders with special requirements.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 151(3):
-> *Existing Text*:
-> > Policies adopted under paragraph (2)(a) must respect gender, ethnic, cultural and linguistic differences and be responsive to the special needs of women and aboriginal peoples, as well as to the needs of other groups of offenders with special requirements.
+**(3)** Policies adopted under paragraph (2)(a) must respect gender, ethnic, cultural and linguistic differences and be responsive to the special needs of women and of Indigenous persons, as well as to the needs of other groups of offenders with special requirements.
 
 ### Section 36
 
 Section 220 of the Act is repealed.
-
-
-> **Explanatory Note**:
-> Existing text of section 220:
-> *Existing Text*:
-> > All matters relating to administrative segregation and disciplinary offences shall, on the coming into force of section 214, be dealt with in accordance with Part I of this Act.
 
 
 ## Criminal Records Act
@@ -752,15 +590,7 @@ Section 220 of the Act is repealed.
 
 Paragraph 6.1(1)(b) of the English version of the `Criminal Records Act` is replaced by the following:
 
-more than three years have elapsed since **the day on which** the offender was **ordered** discharged on the conditions prescribed in a probation order.
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 6.1(1):
-> *Existing Text*:
-> > No record of a discharge under section 730 of the `Criminal Code` that is in the custody of the Commissioner or of any department or agency of the Government of Canada shall be disclosed to any person, nor shall the existence of the record or the fact of the discharge be disclosed to any person, without the prior approval of the Minister, if
-> > 
-> > more than three years have elapsed since the offender was discharged on the conditions prescribed in a probation order.
+more than three years have elapsed since the day on which the offender was ordered discharged on the conditions prescribed in a probation order.
 
 
 ## Transitional Provisions
@@ -771,11 +601,20 @@ Unless the context otherwise requires, words and expressions used in sections `3
 
 ### Section 39
 
-If an inmate is in administrative segregation immediately before the coming into force of section `10`, on the day on which that section comes into force that inmate is deemed to have been authorized to be transferred to a structured intervention unit under an authorization given under paragraph 29(b) of the `Corrections and Conditional Release Act`, as enacted by section `7`.
+If an inmate is in administrative segregation immediately before the coming into force of section `10`, on the day on which that section comes into force that inmate is deemed to have been authorized to be transferred to a structured intervention unit under an authorization given under **subsection 29.01(1)** of the `Corrections and Conditional Release Act`, as enacted by section `7`.
 
 ### Section 40
 
 An inmate who is subject to a disciplinary sanction referred to in paragraph 44(1)(f) of the `Corrections and Conditional Release Act` immediately before the coming into force of section `11` ceases to be subject to that sanction on the day on which that section comes into force.
+
+
+## Review and Report
+
+### Section 40.1
+
+  **(1)** At the start of the fifth year after the day on which this section comes into force, a comprehensive review of the provisions enacted by this Act must be undertaken by the committee of the Senate, of the House of Commons or of both Houses of Parliament that may be designated or established for that purpose.
+
+  **(2)** The committee referred to in subsection (1) must, within one year after the review is undertaken under that subsection, submit a report to the House or Houses of Parliament of which it is a committee, including a statement setting out any changes to the provisions that the committee recommends.
 
 
 ## Coming into Force
