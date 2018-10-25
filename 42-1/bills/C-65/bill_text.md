@@ -90,6 +90,14 @@ Section 123 of the Act is amended by adding the following after subsection (2):
 
 **(2.1)** This Part applies to persons appointed under subsection 128(1) of the `Public Service Employment Act`, other than persons appointed by a person holding the recognized position of Leader of the Opposition in the Senate or Leader of the Opposition in the House of Commons, and to their employer.
 
+### Section 2.1
+
+The Act is amended by adding the following after section 123:
+
+### Section 123.1
+
+For greater certainty, nothing in this Part shall be construed so as to abrogate or derogate from the rights provided for under the `Canadian Human Rights Act`.
+
 ### Section 3
 
   **(1)** Paragraphs 125(1)(c) to (e) of the Act are replaced by the following:
@@ -115,6 +123,8 @@ Section 123 of the Act is amended by adding the following after subsection (2):
     ensure that employees, including those who have supervisory or managerial responsibilities, receive training in the prevention of harassment and violence in the work place and are informed of their rights and obligations under this Part in relation to harassment and violence;
 
     undergo training in the prevention of harassment and violence in the work place;
+
+    ensure that the person designated by the employer to receive complaints relating to occurrences of harassment and violence has knowledge, training and experience in issues relating to harassment and violence and has knowledge of relevant legislation;
 
   **(4)** Section 125 of the Act is amended by adding the following after subsection (2):
 
@@ -160,7 +170,7 @@ de signaler, selon les modalités réglementaires, tout accident ou autre incide
 
       the complaint has been adequately dealt with according to a procedure provided for under this Act, any other Act of Parliament or a collective agreement; or
 
-      the matter is trivial, frivolous or vexatious.
+      the matter is otherwise an abuse of process.
 
     **(9.1)** If the Minister is of the opinion that the conditions described in paragraph (9)(a) or (b) are met, the Minister shall inform the employer and the employee in writing, as soon as feasible, that the Minister will not investigate.
 
@@ -240,7 +250,9 @@ The Act is amended by adding the following after section 139:
 
 ### Section 139.1
 
-The Minister shall prepare and publish an annual report that contains statistical data relating to harassment and violence in work places to which this Part applies. The report shall not contain any information that is likely to reveal the identity of a person who was involved in an occurrence of harassment and violence.
+  **(1)** The Minister shall prepare and publish an annual report that contains statistical data relating to harassment and violence in work places to which this Part applies. The report shall not contain any information that is likely to reveal the identity of a person who was involved in an occurrence of harassment and violence.
+
+  **(2)** The statistical data contained in the report shall include information that is categorized according to prohibited grounds of discrimination under the `Canadian Human Rights Act`.
 
 ### Section 139.2
 
@@ -408,6 +420,8 @@ Part III of the `Parliamentary Employment and Staff Relations Act` is replaced b
     matters brought before the Board under Part II of the `Canada Labour Code` may be heard and determined only by a member as defined in section 3 of this Act.
 
   **(2)** This Part also applies to any person who is not an employee but who performs for an employer activities whose primary purpose is to enable the person to acquire knowledge or experience, and to the employer, as if that person were an employee of the employer.
+
+  **(3)** For greater certainty, subject to section 2, nothing in this Part shall be construed so as to abrogate or derogate from the rights provided for under the `Canadian Human Rights Act`.
 
 ### Section 88.01
 
