@@ -25,41 +25,41 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 Section 160 of the `Criminal Code` is amended by adding the following after subsection (3):
 
-**(4)** In this section, **bestiality** means any contact, for a sexual purpose, with an animal.
+**(4)** The court may, in addition to any other sentence that it may impose under any of subsections (1) to (3),
 
+  make an order prohibiting the accused from owning, having the custody or control of or residing in the same premises as an animal during any period that the court considers appropriate but, in the case of a second or subsequent offence, for a minimum of five years; and
 
-> **Explanatory Note**:
-> New.
+  on application of the Attorney General or on its own motion, order that the accused pay to a person or an organization that has taken care of an animal as a result of the commission of the offence the reasonable costs that the person or organization incurred in respect of the animal, if the costs are readily ascertainable.
+
+**(5)** Every person who contravenes an order made under paragraph (4)(a) is guilty of an offence punishable on summary conviction.
+
+**(6)** Sections 740 to 741.2 apply, with any modifications that the circumstances require, to orders made under paragraph (4)(b).
+
+****(7)**** In this section, **bestiality** means any contact, for a sexual purpose, with an animal.
 
 ### Section 2
 
 Paragraph 445.1(1)(b) of the Act is replaced by the following:
 
-in any manner encourages, aids, **promotes, arranges**, assists at, **receives money for or takes part in**
+in any manner encourages, aids, promotes, arranges, assists at, receives money for or takes part in
 
 the fighting or baiting of animals or birds, or
 
 the training, transporting or breeding of animals or birds for the purposes of subparagraph (i);
 
-
-> **Explanatory Note**:
-> Relevant portion of subsection 445.1(1):
-> *Existing Text*:
-> > Every one commits an offence who
-> > 
-> > in any manner encourages, aids or assists at the fighting or baiting of animals or birds;
-
 ### Section 3
 
-Subsection 447(1) of the Act is replaced by the following:
+  ****(1)**** Subsection 447(1) of the Act is replaced by the following:
 
 ### Section 447
 
-  **(1)** Everyone commits an offence who builds, makes, maintains or keeps **an arena for animal fighting** on premises that he or she owns or occupies, or allows **such an arena** to be built, made, maintained or kept on such premises.
+      **(1)** Everyone commits an offence who builds, makes, maintains or keeps an arena for animal fighting on premises that he or she owns or occupies, or allows such an arena to be built, made, maintained or kept on such premises.
 
+  **(2)** Subsection 447(3) of the Act is repealed.
 
-> **Explanatory Note**:
-> Existing text of subsection 447(1):
-> *Existing Text*:
-> > Every one commits an offence who builds, makes, maintains or keeps a cockpit on premises that he or she owns or occupies, or allows a cockpit to be built, made, maintained or kept on such premises.
+### Section 4
+
+The definition **designated offence** in subsection 490.011(1) of the Act is amended by adding the following after subparagraph (a)(vi):
+
+subsection 160(1) (bestiality),
 
