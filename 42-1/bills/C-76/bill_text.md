@@ -1,7 +1,5 @@
 # Bill C-76: An Act to amend the Canada Elections Act and other Acts and to make certain consequential amendments
 
-**Sponsor**: MINISTER OF DEMOCRATIC INSTITUTIONS
-
 Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act to amend the Canada Elections Act and other Acts and to make certain consequential amendments*".
 
 ## Summary
@@ -242,7 +240,7 @@ This Act may be cited as the `Elections Modernization Act`.
 
 ### Section 3
 
-Sections **3 to** 5 of the Act are **replaced by the following**:
+Sections 3 to 5 of the Act are replaced by the following:
 
 ### Section 3
 
@@ -621,7 +619,7 @@ Subsection 45(1) of the Act is replaced by the following:
 
 ### Section 45
 
-  **(1)** By November 15 in each year, the Chief Electoral Officer shall make available to the member for each electoral district and, on request, to each registered party that endorsed a candidate in the electoral district in the last election, a copy — taken from the Register of Electors — **in electronic form, or in formats that include electronic form**, of the lists of electors for the electoral district.
+  **(1)** By November 15 in each year, the Chief Electoral Officer shall make available to the member for each electoral district and, on request, to each registered party that endorsed a candidate in the electoral district in the last election, a copy — taken from the Register of Electors — in electronic form, or in formats that include electronic form, of the lists of electors for the electoral district.
 
 ### Section 38
 
@@ -1042,7 +1040,7 @@ Subsections 93(1) and (1.1) of the Act are replaced by the following:
 
   **(1)** As soon as possible after the issue of a writ, the Chief Electoral Officer shall prepare a preliminary list of electors for each polling division in an electoral district, and shall make it available to the returning officer for the electoral district along with all the other information in the Register of Electors that relates to the electors of that electoral district.
 
-  **(1.1)** The Chief Electoral Officer shall make available **in electronic form or in formats that include electronic form**, to each registered party or eligible party that requests them, the preliminary lists of electors for an electoral district in respect of which a writ has been issued.
+  **(1.1)** The Chief Electoral Officer shall make available in electronic form or in formats that include electronic form, to each registered party or eligible party that requests them, the preliminary lists of electors for an electoral district in respect of which a writ has been issued.
 
 ### Section 63
 
@@ -1112,7 +1110,7 @@ Each returning officer shall, on the 19th day before polling day, make available
 
 ### Section 104.2
 
-The Chief Electoral Officer shall, on the 19th day before polling day, make available **in electronic form or in formats that include electronic form** the most current preliminary lists of electors for each electoral district to each registered party that has endorsed a candidate in that electoral district and that requests them.
+The Chief Electoral Officer shall, on the 19th day before polling day, make available in electronic form or in formats that include electronic form the most current preliminary lists of electors for each electoral district to each registered party that has endorsed a candidate in that electoral district and that requests them.
 
 ### Section 70
 
@@ -1124,13 +1122,13 @@ Each returning officer shall, without delay after the 7th day before polling day
 
 ### Section 107
 
-  **(1)** The revised list of electors for each polling division and official list of electors for each polling station shall be in the form established by the Chief Electoral Officer. **The official list of electors shall indicate each elector's polling division number**.
+  **(1)** The revised list of electors for each polling division and official list of electors for each polling station shall be in the form established by the Chief Electoral Officer. The official list of electors shall indicate each elector's polling division number.
 
   **(2)** Each returning officer shall make available to election officers the revised list of electors or official list of electors, as the case may be, that the election officers need to conduct the vote in the advance polling station or polling station to which they are assigned. The list shall indicate each elector's year of birth.
 
   **(3)** Each returning officer shall make available to each candidate a version of the revised lists of electors and the official lists of electors that does not indicate an elector's year of birth.
 
-  **(4)** The Chief Electoral Officer shall make available **in electronic form or in formats that include electronic form**, for each electoral district, a version of the revised lists of electors and the official lists of electors that does not indicate an elector's year of birth to each registered party that has endorsed a candidate in that electoral district.
+  **(4)** The Chief Electoral Officer shall make available in electronic form or in formats that include electronic form, for each electoral district, a version of the revised lists of electors and the official lists of electors that does not indicate an elector's year of birth to each registered party that has endorsed a candidate in that electoral district.
 
 ### Section 71
 
@@ -1140,7 +1138,7 @@ Subsection 108(2) of the Act is repealed.
 
 Subsections 109(2) and (3) of the Act are replaced by the following:
 
-**(2)** The Chief Electoral Officer shall make available **in electronic form, or in formats that include electronic form**, the final lists of electors for each electoral district to each registered party that has endorsed a candidate in the electoral district and to the member who was elected for the electoral district in the last election.
+**(2)** The Chief Electoral Officer shall make available in electronic form, or in formats that include electronic form, the final lists of electors for each electoral district to each registered party that has endorsed a candidate in the electoral district and to the member who was elected for the electoral district in the last election.
 
 ### Section 73
 
@@ -1261,7 +1259,7 @@ Each returning officer shall, for polling day, establish polling stations and as
 
 ### Section 84
 
-Subsections 121(1) **to (3)** of the Act are replaced by the following:
+Subsections 121(1) to (3) of the Act are replaced by the following:
 
 ### Section 121
 
@@ -1383,7 +1381,7 @@ An election officer who is assigned to the polling station shall ensure that eve
 
   **(5)** Subsection 143(3) of the Act is replaced by the following:
 
-    **(3)** An elector may instead prove his or her identity and residence by making the solemn declaration referred to in subsection 549.1(1) in writing if he or she is accompanied by another elector whose name appears on the list of electors for the same polling **station** and who
+    **(3)** An elector may instead prove his or her identity and residence by making the solemn declaration referred to in subsection 549.1(1) in writing if he or she is accompanied by another elector whose name appears on the list of electors for the same polling station and who
 
       provides the election officer referred to in subsection (1) with the piece or pieces of identification referred to in paragraph (2)(a) or (b), respectively; and
 
@@ -1453,7 +1451,7 @@ Section 150 of the Act is replaced by the following:
 
 ### Section 150
 
-  **(1)** Every elector who is admitted to vote shall be given a ballot by the election officer referred to in subsection 143(1),**after that election officer has placed on the back of the ballot, in the space indicated in Form 3 of Schedule 1, the number of the elector's polling division**.
+  **(1)** Every elector who is admitted to vote shall be given a ballot by the election officer referred to in subsection 143(1), after that election officer has placed on the back of the ballot, in the space indicated in Form 3 of Schedule 1, the number of the elector's polling division.
 
   **(2)** The election officer shall explain to each elector how to indicate his or her choice and fold the ballot so that its serial number and the initials of the election officer who initialed the ballot are visible and shall direct the elector to return the marked and folded ballot.
 
@@ -1465,7 +1463,7 @@ Section 150 of the Act is replaced by the following:
 
   **(2)** Paragraph 151(1)(d) of the English version of the Act is replaced by the following:
 
-    return the ballot to the election officer **who provided it**.
+    return the ballot to the election officer who provided it.
 
   **(3)** The portion of subsection 151(2) of the Act before paragraph (a) is replaced by the following:
 
@@ -1535,7 +1533,7 @@ An election officer who is assigned to a polling station may appoint a language 
 
 ### Section 157
 
-      **(1)** At a polling station that has been established in **an institution** for **seniors** or **persons with** a **disability**, when an election officer who is assigned to the polling station considers it necessary, the election officer shall
+      **(1)** At a polling station that has been established in an institution for seniors or persons with a disability, when an election officer who is assigned to the polling station considers it necessary, the election officer shall
 
   **(1.1)** Paragraph 157(1)(b) of the French version of the Act is replaced by the following:
 
@@ -1549,7 +1547,7 @@ An election officer who is assigned to a polling station may appoint a language 
 
 Subsections 158(2) and (3) of the Act are replaced by the following:
 
-**(2)** An election officer who is assigned to a polling station shall issue a transfer certificate to any person — other than himself or herself — whose name appears on the official list of electors for the polling station and who has been appointed to act as an election officer for another polling station **in the same electoral district**.
+**(2)** An election officer who is assigned to a polling station shall issue a transfer certificate to any person — other than himself or herself — whose name appears on the official list of electors for the polling station and who has been appointed to act as an election officer for another polling station in the same electoral district.
 
 **(3)** A transfer certificate issued under subsection (2) authorizes the person to vote at the polling station named in it only if, on polling day, the person exercises the power or performs the duty specified in the certificate at the place mentioned in the certificate.
 
@@ -1591,7 +1589,7 @@ Section 159 of the Act is replaced by the following:
 
   **(3)** Paragraph 161(1)(b) of the Act is replaced by the following:
 
-    proves his or her identity and residence by making the solemn declaration referred to in subsection 549.1(1) in writing and is accompanied by another elector whose name appears on the list of electors for the same polling **station** and who
+    proves his or her identity and residence by making the solemn declaration referred to in subsection 549.1(1) in writing and is accompanied by another elector whose name appears on the list of electors for the same polling station and who
 
     provides the piece or pieces of identification referred to in paragraph 143(2)(a) or (b), respectively, the piece or one of those pieces containing either an address that proves that other elector's residence or an address that is consistent with information related to that other elector that appears on the list of electors, and
 
@@ -1749,7 +1747,7 @@ if possible, send a copy of the certificate to an election officer who is assign
 
   **(3)** Paragraph 169(2)(b) of the Act is replaced by the following:
 
-    proves his or her identity and residence by making the solemn declaration referred to in subsection 549.1(1) in writing and is accompanied by another elector whose name appears on the list of electors for the same polling **station** and who
+    proves his or her identity and residence by making the solemn declaration referred to in subsection 549.1(1) in writing and is accompanied by another elector whose name appears on the list of electors for the same polling station and who
 
     provides the piece or pieces of identification referred to in paragraph 143(2)(a) or (b), respectively, the piece or one of those pieces containing either an address that proves that other elector's residence or an address that is consistent with information related to that other elector that appears on the list of electors, and
 
@@ -1799,7 +1797,7 @@ Subsection 171(2) of the Act is replaced by the following:
 
   **(3)** Section 172 of the Act is renumbered as subsection 172(1) and is amended by adding the following:
 
-    **(2)** The Chief Electoral Officer shall, not later than Saturday, the 16th day before polling day, make available to each registered party maps of each electoral district — **in electronic form or in formats that include electronic form** — indicating the boundaries of each advance polling district within the electoral district and the location of each advance polling station.
+    **(2)** The Chief Electoral Officer shall, not later than Saturday, the 16th day before polling day, make available to each registered party maps of each electoral district — in electronic form or in formats that include electronic form — indicating the boundaries of each advance polling district within the electoral district and the location of each advance polling station.
 
 ### Section 121
 
@@ -2815,13 +2813,13 @@ No person shall
 
 vote or attempt to vote at an election knowing that he or she
 
-is not a Canadian citizen **when he or she votes**, or
+is not a Canadian citizen when he or she votes, or
 
 is not 18 years of age or older — or will not be 18 years of age or older — on polling day; or
 
 induce or attempt to induce another person to vote at an election knowing that the other person
 
-is not a Canadian citizen — or will not be a Canadian citizen — **when he or she votes**, or
+is not a Canadian citizen — or will not be a Canadian citizen — when he or she votes, or
 
 is not 18 years of age or older — or will not be 18 years of age or older — on polling day.
 
@@ -2871,7 +2869,7 @@ induce or attempt to induce another person to vote at an election in a particula
 
     have a ballot or special ballot in his or her possession when not authorized under this Act to do so;
 
-    alter, deface or destroy a ballot, the initials of the election officer that are signed on a ballot **or the number of the polling division or advance polling district that is marked on a ballot**;
+    alter, deface or destroy a ballot, the initials of the election officer that are signed on a ballot or the number of the polling division or advance polling district that is marked on a ballot;
 
     put or cause to be put into a ballot box a ballot, special ballot or other paper otherwise than as provided by this Act or by instructions of the Chief Electoral Officer;
 
@@ -2917,7 +2915,7 @@ make a false statement in a declaration signed by him or her before an election 
 
 ### Section 282.1
 
-  **(1)** No person shall vouch for more than one person at an election, **except in the cases referred to in subsections 143(3.01), 161(2) and 169(2.01)**.
+  **(1)** No person shall vouch for more than one person at an election, except in the cases referred to in subsections 143(3.01), 161(2) and 169(2.01).
 
   **(2)** No person shall vouch for another person if
 
@@ -2925,7 +2923,10 @@ make a false statement in a declaration signed by him or her before an election 
 
     the person who vouches does not personally know the other person; or
 
-    the person who vouches does not reside in the same polling division as the other person **or, in the cases referred to in subsections 143(3.01), 161(2) and 169(2.01), in a polling division in the other person's electoral district or an adjacent electoral district**.
+    the person who vouches does not reside
+in a polling division assigned to the same
+polling station as the polling division in which
+the other person resides or, in the cases referred to in subsections 143(3.01), 161(2) and 169(2.01), in a polling division in the other person's electoral district or an adjacent electoral district.
 
   **(3)** No person who has been vouched for at an election shall vouch for another person at that election.
 
@@ -2943,7 +2944,7 @@ Subject to section 141, no election officer, unit election officer or member of 
 
     an individual who is not a Canadian citizen or a permanent resident as defined in subsection 2(1) of the `Immigration and Refugee Protection Act` and who does not reside in Canada;
 
-    a corporation or entity incorporated, formed or otherwise organized outside Canada that does not carry on business in Canada or whose **primary purpose** in Canada during an election period **is** to influence electors during that period to vote or refrain from voting, or to vote or refrain from voting for a particular candidate or registered party, at the election;
+    a corporation or entity incorporated, formed or otherwise organized outside Canada that does not carry on business in Canada or whose primary purpose in Canada during an election period is to influence electors during that period to vote or refrain from voting, or to vote or refrain from voting for a particular candidate or registered party, at the election;
 
     a trade union that does not hold bargaining rights for employees in Canada;
 
@@ -2954,8 +2955,6 @@ Subject to section 141, no election officer, unit election officer or member of 
   **(2)** For the purposes of subsection (1), a person or entity unduly influences an elector to vote or refrain from voting, or to vote or refrain from voting for a particular candidate or registered party, at an election if
 
     they knowingly incur any expense to directly promote or oppose a candidate in that election, a registered party that has endorsed a candidate in that election or the leader of such a registered party;
-
-    [*Deleted*]
 
     one of the things done by them to influence the elector is an offence under an Act of Parliament or a regulation made under any such Act, or under an Act of the legislature of a province or a regulation made under any such Act.
 
@@ -2969,7 +2968,7 @@ Subject to section 141, no election officer, unit election officer or member of 
 
   **(4)** No person or entity shall act in collusion with a person or entity to whom subsection (1) applies for the purpose of contravening that subsection.
 
-  **(5)** No person or entity shall sell any advertising space to a person or entity to whom subsection (1) applies for the purpose of enabling that person or entity to**transmit an election advertising message or to cause an election advertising message to be transmitted**.
+  **(5)** No person or entity shall sell any advertising space to a person or entity to whom subsection (1) applies for the purpose of enabling that person or entity to transmit an election advertising message or to cause an election advertising message to be transmitted.
 
 ### Section 282.5
 
@@ -3031,7 +3030,7 @@ by any pretence or contrivance, including by representing that the ballot or spe
 
   **(2)** Subsections 284(2) and (3) of the Act are replaced by the following:
 
-    **(2)** No ballot shall be rejected by reason only that an election officer placed on it any writing, number or mark, or failed to remove the counterfoil **or to write the elector's polling division number on the back of the ballot**.
+    **(2)** No ballot shall be rejected by reason only that an election officer placed on it any writing, number or mark, or failed to remove the counterfoil or to write the elector's polling division number on the back of the ballot.
 
     **(3)** If a ballot is found with the counterfoil attached, the election officer who counts the votes shall, while concealing the number on it from all persons present and without examining it, remove and destroy the counterfoil.
 
@@ -3119,15 +3118,11 @@ One of the election officers referred to in subsection 283(1) shall place a copy
 
 ### Section 198
 
-**Section** 290 of the Act **is** replaced by the following:
+Section 290 of the Act is replaced by the following:
 
 ### Section 290
 
 An election officer who is assigned to a polling station or an advance polling station shall, without delay after sealing the ballot box, send to the returning officer the box, with the envelope that contains the original statement of the vote, the envelope that contains the registration certificates, the envelope referred to in section 288.01 and, in the case of an election officer who is assigned to a polling station, the envelope referred to in section 288.1.
-
-### Section 291
-
-[*Deleted*]
 
 ### Section 199
 
@@ -3205,7 +3200,7 @@ deliver to the returning officer the reports created in the course of the recoun
 
 ### Section 206
 
-  ****(1)**** The definitions **election advertising** and **election survey** in section 319 of the Act are repealed.
+  **(1)** The definitions **election advertising** and **election survey** in section 319 of the Act are repealed.
 
   **(2)** Section 319 of the Act is amended by adding the following in alphabetical order:
 
@@ -3469,9 +3464,6 @@ The Act is amended by adding the following after section 349:
 
 ### Prohibition on Use of Foreign Funds by Third Parties
 
-
-## Interpretation
-
 ### Section 349.01
 
   **(1)** The following definitions apply in this Div­ision.
@@ -3601,7 +3593,7 @@ A third party shall not circumvent, or attempt to circumvent, a maximum amount s
 
 ### Section 349.5
 
-A third party shall **include — in a manner that is clearly visible or otherwise accessible —**in any partisan advertising message placed by it **its name, its telephone number, either its civic or its Internet address** and **an indication** in or on the message that it has authorized its transmission.
+A third party shall include — in a manner that is clearly visible or otherwise accessible — in any partisan advertising message placed by it its name, its telephone number, either its civic or its Internet address and an indication in or on the message that it has authorized its transmission.
 
 ### Section 349.6
 
@@ -3811,10 +3803,6 @@ a partisan advertising message that is transmitted during that period; and
 
 an election survey that is conducted during that period and whose results the third party takes into account in its decisions concerning whether or not to organize and carry out partisan activities during that period or to transmit partisan advertising messages during that period.
 
-### Section 349.95
-
-[*Deleted*]
-
 
 ### Partisan Activities, Election Advertising and Election Surveys During Election Period
 
@@ -3890,7 +3878,7 @@ A third party shall not circumvent, or attempt to circumvent, a maximum amount s
 
     if the third party is a corporation or entity,
 
-    it does not carry on business in Canada, or its **primary purpose** in Canada during an election period **is** to influence electors during that period to vote or refrain from voting, or to vote or refrain from voting for a particular candidate or registered party, at the election, and
+    it does not carry on business in Canada, or its primary purpose in Canada during an election period is to influence electors during that period to vote or refrain from voting, or to vote or refrain from voting for a particular candidate or registered party, at the election, and
 
     it was incorporated, formed or otherwise organized outside Canada; and
 
@@ -3904,7 +3892,7 @@ A third party shall not circumvent, or attempt to circumvent, a maximum amount s
 
 ### Section 352
 
-A third party shall **include — in a manner that is clearly visible or otherwise accessible —**in any election advertising message placed by it **its name, its telephone number, either its civic or its Internet address** and **an indication** in or on the message that it has authorized its transmission.
+A third party shall include — in a manner that is clearly visible or otherwise accessible — in any election advertising message placed by it its name, its telephone number, either its civic or its Internet address and an indication in or on the message that it has authorized its transmission.
 
 ### Section 226
 
@@ -4128,7 +4116,7 @@ an election survey that is conducted during that period and whose results the th
 
 ### Section 232
 
-Section 358 of the Act is **repealed**.
+Section 358 of the Act is repealed.
 
 ### Section 233
 
@@ -4319,7 +4307,7 @@ Section 361 of the Act is replaced by the following:
 
 Section 362 of the Act is amended by striking out "and" at the end of paragraph (a) and by replacing paragraph (b) with the following:
 
-publish, as soon as feasible, returns filed under subsection 349.91(1), 349.92(1), **357.01(1)** or **357.02(1)**;
+publish, as soon as feasible, returns filed under subsection 349.91(1), 349.92(1), 357.01(1) or 357.02(1);
 
 publish, within one year after the issue of the writ, returns filed under subsection 359(1); and
 
@@ -4337,7 +4325,7 @@ publish, as soon as feasible, a corrected or revised version of a return filed u
 
       subsection 478.72(1), in the case of a leadership contestant.
 
-  **(2)** **Section 364** of the Act is **amended** by **adding** the following **after subsection (8)**:
+  **(2)** Section 364 of the Act is amended by adding the following after subsection (8):
 
     **(9)** No person or entity other than an individual who is a Canadian citizen or a permanent resident as defined in subsection 2(1) of the `Immigration and Refugee Protection Act` shall pay fees to attend an annual or biennial convention or leadership convention of a particular registered party, or pay fees on behalf of another individual for them to attend such a convention.
 
@@ -4726,7 +4714,7 @@ The Act is amended by adding the following after section 429:
 
 ### Section 429.1
 
-  **(1)** The maximum amount that is allowed for partisan advertising expenses of a registered party for a pre-election period is **$1,400,000**.
+  **(1)** The maximum amount that is allowed for partisan advertising expenses of a registered party for a pre-election period is $1,400,000.
 
   **(2)** The amount referred to in subsection (1) shall be multiplied by the inflation adjustment factor referred to in section 384 that is in effect on the first day of the pre-election period.
 
@@ -4740,7 +4728,7 @@ The Act is amended by adding the following after section 429:
 
     the party's partisan advertising expenses.
 
-  **(3)** No third party, within the meaning of paragraph (**a.1**) of the definition third party in section 349, shall act in collusion with a registered party for the purpose of the registered party's circumventing that maximum amount.
+  **(3)** No third party, within the meaning of paragraph (a.1) of the definition third party in section 349, shall act in collusion with a registered party for the purpose of the registered party's circumventing that maximum amount.
 
 ### Section 429.3
 
@@ -4782,7 +4770,7 @@ Subsection 433(1) of the Act is replaced by the following:
 
 ### Section 433
 
-  **(1)** If a registered party's candidates for the most recent general election received at that election at least 2% of the number of valid votes cast, or at least 5% of the number of valid votes cast in the electoral districts in which the registered party endorsed a candidate, the registered party's chief agent shall, for each quarter — in respect of a fiscal period of the registered party — that follows that general election, beginning with the quarter that immediately follows that general election and ending with the quarter in which **polling day at** the next general election is held, provide the Chief Electoral Officer with a return that includes the information required under paragraphs 432(2)(a) to (d), (i) and (l).
+  **(1)** If a registered party's candidates for the most recent general election received at that election at least 2% of the number of valid votes cast, or at least 5% of the number of valid votes cast in the electoral districts in which the registered party endorsed a candidate, the registered party's chief agent shall, for each quarter — in respect of a fiscal period of the registered party — that follows that general election, beginning with the quarter that immediately follows that general election and ending with the quarter in which polling day at the next general election is held, provide the Chief Electoral Officer with a return that includes the information required under paragraphs 432(2)(a) to (d), (i) and (l).
 
 ### Section 267
 
@@ -4808,8 +4796,6 @@ The heading before section 437 of the Act is replaced by the following:
     the accessibility expenses incurred by the registered party; and
 
     in the case of a general election held on a day set in accordance with subsection 56.1(2) or section 56.2, the partisan advertising expenses incurred by the registered party in relation to partisan advertising messages transmitted during the pre-election period.
-
-  **(3)** [*Deleted*]
 
 ### Section 269
 
@@ -5582,17 +5568,17 @@ Sections 481 and 482 of the Act are replaced by the following:
 
 ### Section 481
 
-  **(1)** Every person or entity is guilty of an offence that, during an election period, distributes, transmits or publishes any material, regardless of its form, that purports to be made, distributed, transmitted or published by or under the authority of **the Chief Electoral Officer, or a returning officer**, political party, candidate or prospective candidate if
+  **(1)** Every person or entity is guilty of an offence that, during an election period, distributes, transmits or publishes any material, regardless of its form, that purports to be made, distributed, transmitted or published by or under the authority of the Chief Electoral Officer, or a returning officer, political party, candidate or prospective candidate if
 
-    the person or entity was not authorized by **the Chief Electoral Officer or** that **returning officer**, political party, candidate or prospective candidate to distribute, transmit or publish it; and
+    the person or entity was not authorized by the Chief Electoral Officer or that returning officer, political party, candidate or prospective candidate to distribute, transmit or publish it; and
 
-    the person or entity distributes, transmits or publishes it with the intent of misleading the public into believing that it was made, distributed, transmitted or published by or under the authority of **the Chief Electoral Officer, or** that **returning officer**, political party, candidate or prospective candidate.
+    the person or entity distributes, transmits or publishes it with the intent of misleading the public into believing that it was made, distributed, transmitted or published by or under the authority of the Chief Electoral Officer, or that returning officer, political party, candidate or prospective candidate.
 
   **(2)** In determining whether a person or entity has committed an offence under subsection (1) the court may consider whether the material included the use of
 
-    a name, logo, social media account identifier, username or domain name that is distinctive and commonly associated with **the Chief Electoral Officer, a returning officer, or** the political party, candidate or prospective candidate, **as the case may be**; or
+    a name, logo, social media account identifier, username or domain name that is distinctive and commonly associated with the Chief Electoral Officer, a returning officer, or the political party, candidate or prospective candidate, as the case may be; or
 
-    the name, voice, image or signature of the **Chief Electoral Officer, a returning officer, or** the candidate or prospective candidate or of a public figure who is associated with the political party.
+    the name, voice, image or signature of the Chief Electoral Officer, a returning officer, or the candidate or prospective candidate or of a public figure who is associated with the political party.
 
   **(3)** A person or entity does not commit an offence under subsection (1) if they establish that the material was manifestly distributed, transmitted or published for the purpose of parody or satire.
 
@@ -5913,9 +5899,9 @@ The heading before section 496 of the Act is replaced by the following:
 
     knowingly contravenes subsection 349.7(2) or 349.8(3) (ineligible person acting as financial agent or auditor);
 
-    **being a third party**, knowingly contravenes subsection 349.91(1) or 349.92(1) (failure to file interim third-party expenses return); or
+    being a third party, knowingly contravenes subsection 349.91(1) or 349.92(1) (failure to file interim third-party expenses return); or
 
-    **being a third party**, contravenes paragraph 349.93(a) or knowingly contravenes paragraph 349.93(b) (filing interim third-party expenses return that contains false or misleading information or one that is incomplete).
+    being a third party, contravenes paragraph 349.93(a) or knowingly contravenes paragraph 349.93(b) (filing interim third-party expenses return that contains false or misleading information or one that is incomplete).
 
 
 ##### Offences under Division 2 of Part 17 (Partisan Activities, Election Advertising and Election Surveys During Election Period)
@@ -5995,7 +5981,7 @@ The Act is amended by adding the following after section 496:
 
   **(1)** Subsection 497(1) of the Act is amended by adding the following after paragraph (b):
 
-    being a person or entity, contravenes subsection 364(**9**) (paying convention fees while ineligible);
+    being a person or entity, contravenes subsection 364(9) (paying convention fees while ineligible);
 
   **(2)** Paragraph 497(2)(g) of the Act is replaced by the following:
 
@@ -6017,13 +6003,11 @@ The Act is amended by adding the following after section 496:
 
     being a third party, contravenes subsection 431(2) (colluding to circumvent election expenses limit);
 
-  **(2)** [*Deleted*]
-
-  **(3)** Paragraph 497.1(3)(f) of the Act is replaced by the following:
+  **(2)** Paragraph 497.1(3)(f) of the Act is replaced by the following:
 
     contravenes subsection 408(5) (making false or misleading declaration);
 
-  **(4)** Subsection 497.1(3) of the Act is amended by adding the following after paragraph (h):
+  **(3)** Subsection 497.1(3) of the Act is amended by adding the following after paragraph (h):
 
     being a registered agent other than the chief agent, knowingly contravenes subsection 426(2.1) (failure to obtain written authorization to incur registered party's expenses or incurring them contrary to authorization);
 
@@ -6032,8 +6016,6 @@ The Act is amended by adding the following after section 496:
     being a registered party, knowingly contravenes subsection 429.2(2) (circumventing partisan advertising expenses limit);
 
     being a third party, knowingly contravenes subsection 429.2(3) (colluding to circumvent partisan advertising expenses limit);
-
-  **(5)** [*Deleted*]
 
 ### Section 341
 
@@ -6163,19 +6145,19 @@ knowingly contravenes subsection 549(3) (making false declaration in solemn decl
 
 ### Section 500
 
-      **(1)** Every person who is guilty of an offence under any of subsections 484(1), 489(1), 491(1), 492(1), 495(1), 495.1(1), 495.2(1), **495.21(1)**, 495.3(1), 496(1), 496.1(1), 497(1), 497.1(1), 497.2(1), 497.3(1), 497.4(1), 497.5(1), **498(1)** and 499(1) is liable on summary conviction to a fine of not more than $2,000 or to imprisonment for a term of not more than three months, or to both.
+      **(1)** Every person who is guilty of an offence under any of subsections 484(1), 489(1), 491(1), 492(1), 495(1), 495.1(1), 495.2(1), 495.21(1), 495.3(1), 496(1), 496.1(1), 497(1), 497.1(1), 497.2(1), 497.3(1), 497.4(1), 497.5(1), 498(1) and 499(1) is liable on summary conviction to a fine of not more than $2,000 or to imprisonment for a term of not more than three months, or to both.
 
       **(2)** Every person who is guilty of an offence under any of subsections 484(2) and 486(2), paragraph 487(1)(a), subsections 488(1) and 489(2), sections 491.1 and 493 and subsections 495(2) and (3), 497.1(2) and 497.2(2) is liable on summary conviction to a fine of not more than $5,000 or to imprisonment for a term of not more than six months, or to both.
 
   **(2)** The portion of subsection 500(5) of the Act before paragraph (a) is replaced by the following:
 
-    **(5)** Every person who is guilty of an offence under any of subsections 480(1) and (2), 480.1(1), 481(1) and 482(1), section 482.1, subsections 484(3), 485(2), 486(3) and (4), 487(2), 488(2) and 489(3), section 490, subsection 491(3), section 491.2, subsection 492(2), section 494, subsections 495(5), 495.1(2), 495.2(2), **495.21(2)**, 495.3(2), 496(2), 496.1(2), 497(2), 497.1(3), 497.2(3), 497.3(2), 497.4(2), 497.5(2), 498**(2)** and 499(2) is liable
+    **(5)** Every person who is guilty of an offence under any of subsections 480(1) and (2), 480.1(1), 481(1) and 482(1), section 482.1, subsections 484(3), 485(2), 486(3) and (4), 487(2), 488(2) and 489(3), section 490, subsection 491(3), section 491.2, subsection 492(2), section 494, subsections 495(5), 495.1(2), 495.2(2), 495.21(2), 495.3(2), 496(2), 496.1(2), 497(2), 497.1(3), 497.2(3), 497.3(2), 497.4(2), 497.5(2), 498(2) and 499(2) is liable
 
   **(3)** Subsection 500(6) of the Act is replaced by the following:
 
     **(5.1)** Every third party that is guilty of an offence under paragraph 495.21(1)(a) or (b) or subsection 495.21(2) is, in addition to the punishment provided under subsection (1) or (5), liable to a fine of up to five times the amount of the funds whose source was a foreign entity that were used, or the amount of the funds that were used to circumvent the prohibition on using funds whose source is a foreign entity.
 
-    **(**5.2**)** Every third party that is guilty of an offence under paragraph 495.3(1)(a) or (2)(a) is, in addition to the punishment provided under subsection (1) or (5), liable to a fine of up to five times the amount by which the third party exceeded the pre-election period expenses limit in question.
+    **(5.2)** Every third party that is guilty of an offence under paragraph 495.3(1)(a) or (2)(a) is, in addition to the punishment provided under subsection (1) or (5), liable to a fine of up to five times the amount by which the third party exceeded the pre-election period expenses limit in question.
 
     **(6)** Every third party that is guilty of an offence under paragraph 496(1)(a) or (2)(a) is, in addition to the punishment provided under subsection (1) or (5), liable to a fine of up to five times the amount by which the third party exceeded the election period expenses limit in question.
 
@@ -6227,9 +6209,9 @@ Section 505 of the Act is replaced by the following:
 
 ### Section 505
 
-  **(1)** If a third party that is a group commits an offence under **paragraph 495(1)(a.2) or 495(5)(a.1) or** section **495.21**, 495.3, 496 or 496.1, the person who is responsible for the group or its financial agent commits the offence if the person or financial agent authorized, consented to or participated in the act or omission that constitutes the offence.
+  **(1)** If a third party that is a group commits an offence under paragraph 495(1)(a.2) or 495(5)(a.1) or section 495.21, 495.3, 496 or 496.1, the person who is responsible for the group or its financial agent commits the offence if the person or financial agent authorized, consented to or participated in the act or omission that constitutes the offence.
 
-  **(2)** For the purpose of a prosecution brought against a third party under **paragraph 495(1)(a.2) or 495(5)(a.1) or** section **495.21**, 495.3, 496 or 496.1, the third party is deemed to be a person and any act or omission of the person who signed the application for registration in respect of the third party — or, in the absence of an application, the person who would have signed it — or the third party's financial agent, within the scope of that person's or financial agent's authority, is deemed to be an act or omission of the third party.
+  **(2)** For the purpose of a prosecution brought against a third party under paragraph 495(1)(a.2) or 495(5)(a.1) or section 495.21, 495.3, 496 or 496.1, the third party is deemed to be a person and any act or omission of the person who signed the application for registration in respect of the third party — or, in the absence of an application, the person who would have signed it — or the third party's financial agent, within the scope of that person's or financial agent's authority, is deemed to be an act or omission of the third party.
 
   **(3)** If a third party that is a group or corporation commits an offence under paragraph 495.3(1)(d) or 496(1)(c), the third party is liable on conviction to a fine of not more than $50,000 instead of the punishment set out in subsection 500(1).
 
@@ -6896,7 +6878,7 @@ The Act is amended by adding the following after section 541:
 
 ### Section 541.1
 
-The Chief Electoral Officer shall, **within 180 days after the return of the writ, make available** in electronic form, **or in formats that include electronic form, to each candidate and to each registered** party **that endorsed** a candidate **in an** electoral district a **statement, prepared using** documents prepared under paragraph 162(i.1), **of electors who exercised their right to vote in** the electoral district **on polling day who can be identified using those documents**.
+The Chief Electoral Officer shall, within 180 days after the return of the writ, make available in electronic form, or in formats that include electronic form, to each candidate and to each registered party that endorsed a candidate in an electoral district a statement, prepared using documents prepared under paragraph 162(i.1), of electors who exercised their right to vote in the electoral district on polling day who can be identified using those documents.
 
 ### Section 372
 
@@ -6929,15 +6911,15 @@ Section 549 of the Act and the heading before it are replaced by the following:
 
   **(2)** For the purposes of paragraph 143(3)(b) and subparagraphs 161(1)(b)(ii) and 169(2)(b)(ii), the solemn declaration by which an elector vouches for another elector shall be in the prescribed form, which shall include the statements that
 
-    the other elector resides in **a** polling division **assigned to the polling station**;
+    the other elector resides in a polling division assigned to the polling station;
 
     to the best of the elector's knowledge, the other elector has not previously voted at the election;
 
     the elector knows the other elector;
 
-    the elector is a Canadian citizen **when the other elector votes**;
+    the elector is a Canadian citizen when the other elector votes;
 
-    **except in a case referred to in subsection 143(3.01), 161(2) or 169(2.01)**, the elector has not previously vouched for any other elector at the election; and
+    except in a case referred to in subsection 143(3.01), 161(2) or 169(2.01), the elector has not previously vouched for any other elector at the election; and
 
     the elector has not been vouched for by another elector at the election.
 
@@ -6983,7 +6965,7 @@ Schedule 3 to the Act is amended by replacing "Western Arctic", under the headin
 
 ### Section 378
 
-**Section** 31 of the `Parliament of Canada Act` is **amended** by **adding** the following **after subsection (1)**:
+Section 31 of the `Parliament of Canada Act` is amended by adding the following after subsection (1):
 
 **(1.1)** Despite subsection (1), no writ for the election of a member of the House shall be issued if the vacancy occurs in the House of Commons less than nine months before the date fixed under subsection 56.1(2) of the `Canada Elections Act` for the holding of a general election.
 
@@ -7029,11 +7011,11 @@ If, before the day on which section `153` comes into force, an application for r
 
 ### Section 384
 
-  **(1)** If section **1** comes into force during an election period, the `Canada Elections Act`, as it read immediately before the day on which that section comes into force, applies with respect to that election and all related obligations and rights, including obligations to report and rights to reimbursement of election expenses.
+  **(1)** If section 1 comes into force during an election period, the `Canada Elections Act`, as it read immediately before the day on which that section comes into force, applies with respect to that election and all related obligations and rights, including obligations to report and rights to reimbursement of election expenses.
 
-  **(2)** All obligations and rights arising out of any election that took place before the day on which section **1** comes into force and that are still outstanding on that day, including obligations to report and rights to reimbursement of election expenses, are subject to the `Canada Elections Act` as it read immediately before the day on which the writ is issued for that election.
+  **(2)** All obligations and rights arising out of any election that took place before the day on which section 1 comes into force and that are still outstanding on that day, including obligations to report and rights to reimbursement of election expenses, are subject to the `Canada Elections Act` as it read immediately before the day on which the writ is issued for that election.
 
-  **(3)** Despite subsection (1), if Bill C-50, introduced in the 1st session of the 42nd Parliament and entitled `An Act to amend the Canada Elections Act (political financing)` (in this subsection referred to as the "other Act") receives royal assent, and if the other Act comes into force before the day on which section **1** comes into force but both the other Act and that section come into force during the same election period, then the `Canada Elections Act`, as it read immediately before the day on which the other Act comes into force, applies with respect to that election and all related obligations and rights, including obligations to report and rights to reimbursement of election expenses.
+  **(3)** Despite subsection (1), if Bill C-50, introduced in the 1st session of the 42nd Parliament and entitled `An Act to amend the Canada Elections Act (political financing)` (in this subsection referred to as the "other Act") receives royal assent, and if the other Act comes into force before the day on which section 1 comes into force but both the other Act and that section come into force during the same election period, then the `Canada Elections Act`, as it read immediately before the day on which the other Act comes into force, applies with respect to that election and all related obligations and rights, including obligations to report and rights to reimbursement of election expenses.
 
 ### Section 385
 
