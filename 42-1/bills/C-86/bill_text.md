@@ -788,7 +788,7 @@ Establishment of pay equity plan — group of employers
 
 Obligation to increase compensation
 
-Date payable — plan posted under subsection `55`(1) or paragraph `94`(1)(b)
+Date payable — plan posted under section `55` or paragraph `94`(1)(b)
 
 Date payable — plan posted under subsection `57`(2)
 
@@ -1348,7 +1348,7 @@ This Act may be cited as the `Budget Implementation Act, 2018, No. 2`.
 
   **(1)** Subparagraph (a)(ii) of the definition **equity amount** in subsection 18(5) of the Act is replaced by the following:
 
-    the average of all amounts each of which is the corporation's contributed surplus (other than any portion of that contributed surplus that arose **at a time when the corporation was non-resident, or that arose** in connection with **a disposition to which subsection 212.1(1.1) applies or** an investment, as defined in subsection 212.3(10), to which subsection 212.3(2) applies) at the beginning of a calendar month that ends in the year, to the extent that it was contributed by a specified non-resident shareholder of the corporation, and
+    the average of all amounts each of which is the corporation's contributed surplus (other than any portion of that contributed surplus that arose at a time when the corporation was non-resident, or that arose in connection with a disposition to which subsection 212.1(1.1) applies or an investment, as defined in subsection 212.3(10), to which subsection 212.3(2) applies) at the beginning of a calendar month that ends in the year, to the extent that it was contributed by a specified non-resident shareholder of the corporation, and
 
   **(2)** Subsection (1) applies in respect of transactions or events that occur after February 26, 2018.
 
@@ -1356,7 +1356,7 @@ This Act may be cited as the `Budget Implementation Act, 2018, No. 2`.
 
   **(1)** Paragraph (k) of the definition **proceeds of disposition** in section 54 of the Act is replaced by the following:
 
-    any amount that would otherwise be proceeds of disposition of property of a taxpayer to the extent that the amount is deemed by subsection 84.1(1), 212.1(1.1) or 212.2(2) to be a dividend paid to the taxpayer **or, if the taxpayer is a partnership, to a member of the taxpayer**; (**produit de disposition**)
+    any amount that would otherwise be proceeds of disposition of property of a taxpayer to the extent that the amount is deemed by subsection 84.1(1), 212.1(1.1) or 212.2(2) to be a dividend paid to the taxpayer or, if the taxpayer is a partnership, to a member of the taxpayer; (**produit de disposition**)
 
   **(2)** Subsection (1) applies in respect of dispositions that occur after February 26, 2018.
 
@@ -1364,15 +1364,15 @@ This Act may be cited as the `Budget Implementation Act, 2018, No. 2`.
 
   **(1)** Paragraphs 84(1)(c.1) and (c.2) of the Act are replaced by the following:
 
-    if the corporation is an insurance corporation, any action by which it converts contributed surplus related to its insurance business (other than any portion of that contributed surplus that arose **at a time when it was non-resident, or that arose** in connection with **a disposition to which subsection 212.1(1.1) applies or** an investment, as defined in subsection 212.3(10), to which subsection 212.3(2) applies) into paid-up capital in respect of the shares of its capital stock,
+    if the corporation is an insurance corporation, any action by which it converts contributed surplus related to its insurance business (other than any portion of that contributed surplus that arose at a time when it was non-resident, or that arose in connection with a disposition to which subsection 212.1(1.1) applies or an investment, as defined in subsection 212.3(10), to which subsection 212.3(2) applies) into paid-up capital in respect of the shares of its capital stock,
 
-    if the corporation is a bank, any action by which it converts any of its contributed surplus that arose on the issuance of shares of its capital stock (other than any portion of that contributed surplus that arose **at a time when it was non-resident, or that arose** in connection with **a disposition to which subsection 212.1(1.1) applies or** an investment, as defined in subsection 212.3(10), to which subsection 212.3(2) applies) into paid-up capital in respect of shares of its capital stock, or
+    if the corporation is a bank, any action by which it converts any of its contributed surplus that arose on the issuance of shares of its capital stock (other than any portion of that contributed surplus that arose at a time when it was non-resident, or that arose in connection with a disposition to which subsection 212.1(1.1) applies or an investment, as defined in subsection 212.3(10), to which subsection 212.3(2) applies) into paid-up capital in respect of shares of its capital stock, or
 
   **(2)** The portion of paragraph 84(1)(c.3) of the Act before subparagraph (ii) is replaced by the following:
 
-    if the corporation is neither an insurance corporation nor a bank, any action by which it converts into paid-up capital in respect of a class of shares of its capital stock any of its contributed surplus that arose after March 31, 1977 (other than any portion of that contributed surplus that arose **at a time when it was non-resident, or that arose** in connection with **a disposition to which subsection 212.1(1.1) applies or** an investment, as defined in subsection 212.3(10), to which subsection 212.3(2) applies)
+    if the corporation is neither an insurance corporation nor a bank, any action by which it converts into paid-up capital in respect of a class of shares of its capital stock any of its contributed surplus that arose after March 31, 1977 (other than any portion of that contributed surplus that arose at a time when it was non-resident, or that arose in connection with a disposition to which subsection 212.1(1.1) applies or an investment, as defined in subsection 212.3(10), to which subsection 212.3(2) applies)
 
-    on the issuance of shares of that class or shares of another class for which the shares of that class were substituted (other than an issuance to which section 51, 66.3, 84.1, 85, 85.1, 86 or 87 or subsection 192(4.1) **or** 194(4.1) applied),
+    on the issuance of shares of that class or shares of another class for which the shares of that class were substituted (other than an issuance to which section 51, 66.3, 84.1, 85, 85.1, 86 or 87 or subsection 192(4.1) or 194(4.1) applied),
 
   **(3)** Subsections (1) and (2) apply in respect of transactions or events that occur after February 26, 2018.
 
@@ -1380,7 +1380,7 @@ This Act may be cited as the `Budget Implementation Act, 2018, No. 2`.
 
   **(1)** Paragraph 93.1(1.1)(d) of the Act is replaced by the following:
 
-    paragraph 95(2)(g.04), **subsections** 95(2.2) **and (8) to (12)** and section 126.
+    paragraph 95(2)(g.04), subsections 95(2.2) and (8) to (12) and section 126.
 
   **(2)** Subsection (1) is deemed to have come into force on February 27, 2018.
 
@@ -1388,17 +1388,17 @@ This Act may be cited as the `Budget Implementation Act, 2018, No. 2`.
 
   **(1)** The portion of paragraph 95(2)(l) of the Act after subparagraph (ii) and before subparagraph (iii) is replaced by the following:
 
-    unless **it is established by the taxpayer or the foreign affiliate that, throughout the period in the taxation year during which the business was carried on by the affiliate**,
+    unless it is established by the taxpayer or the foreign affiliate that, throughout the period in the taxation year during which the business was carried on by the affiliate,
 
   **(2)** The portion of subparagraph 95(2)(l)(iii) of the Act before clause (A) is replaced by the following:
 
-    the business **(other than any business conducted principally with persons with whom the affiliate does not deal at arm's length)** is carried on by the affiliate as a foreign bank, a trust company, a credit union, an insurance corporation or a trader or dealer in securities or commodities, the activities of which are regulated under the laws
+    the business (other than any business conducted principally with persons with whom the affiliate does not deal at arm's length) is carried on by the affiliate as a foreign bank, a trust company, a credit union, an insurance corporation or a trader or dealer in securities or commodities, the activities of which are regulated under the laws
 
   **(3)** Paragraph 95(2)(l) of the Act is amended by striking out "and" at the end of subparagraph (iii) and by repealing subparagraph (iv).
 
   **(4)** The portion of subsection 95(2.11) of the Act before paragraph (a) is replaced by the following:
 
-    **(2.11)** A taxpayer or a foreign affiliate of the taxpayer, as the case may be, is deemed not to have established that the conditions in subparagraph (a)(i) of the definition investment business in subsection (1), **or in subparagraph (2)(l)(iii)**, have been satisfied throughout a period in a particular taxation year of the affiliate unless
+    **(2.11)** A taxpayer or a foreign affiliate of the taxpayer, as the case may be, is deemed not to have established that the conditions in subparagraph (a)(i) of the definition investment business in subsection (1), or in subparagraph (2)(l)(iii), have been satisfied throughout a period in a particular taxation year of the affiliate unless
 
   **(5)** Section 95 of the Act is amended by adding the following after subsection (7):
 
@@ -1476,19 +1476,19 @@ This Act may be cited as the `Budget Implementation Act, 2018, No. 2`.
 
   **(1)** Section 96 of the Act is amended by adding the following after subsection (2):
 
-    ****(2.01)**** **For the purposes of this section, a taxpayer includes a partnership.**
+    **(2.01)** For the purposes of this section, a taxpayer includes a partnership.
 
   **(2)** Subsection 96(2.1) of the Act is amended by striking out "and" at the end of paragraph (d) and by replacing paragraph (e) with the following:
 
-    **if the taxpayer is not a partnership**, be deemed to be the taxpayer's limited partnership loss in respect of the partnership for the year, and
+    if the taxpayer is not a partnership, be deemed to be the taxpayer's limited partnership loss in respect of the partnership for the year, and
 
     if the taxpayer is a partnership, reduce the taxpayer's share of any loss of the partnership for a fiscal period of the partnership ending in the taxation year of the taxpayer from a business (other than a farming business) or from property.
 
   **(3)** Section 96 of the Act is amended by adding the following after subsection (2.1):
 
-    ****(2.11)**** **The following rules apply to taxation years of a taxpayer that end after February 26, 2018:**
+    **(2.11)** The following rules apply to taxation years of a taxpayer that end after February 26, 2018:
 
-      **for the purpose of applying section 111, the taxpayer's non-capital loss, or limited partnership loss in respect of a partnership, for a preceding taxation year shall be determined as if subsection (2.01) and paragraph (2.1)(f) applied in respect of taxation years that end before February 27, 2018; and**
+      for the purpose of applying section 111, the taxpayer's non-capital loss, or limited partnership loss in respect of a partnership, for a preceding taxation year shall be determined as if subsection (2.01) and paragraph (2.1)(f) applied in respect of taxation years that end before February 27, 2018; and
 
       in computing the adjusted cost base to the taxpayer of the taxpayer's interest in a partnership after February 26, 2018, there shall be added an amount equal to the portion of the amount of any reduction because of paragraph (a) in a non-capital loss of the taxpayer that can reasonably be considered to relate to the amount of a loss deducted under subparagraph 53(2)(c)(i) in computing the adjusted cost base of that interest.
 
@@ -1498,7 +1498,7 @@ This Act may be cited as the `Budget Implementation Act, 2018, No. 2`.
 
   **(1)** Clause 110(1)(f)(v)(A) of the Act is replaced by the following:
 
-    the employment income earned by the taxpayer as a member of the Canadian Forces, or as a police officer, while serving on a deployed operational mission (as determined by the Department of National Defence **or the Department of Public Safety and Emergency Preparedness**) **that is**
+    the employment income earned by the taxpayer as a member of the Canadian Forces, or as a police officer, while serving on a deployed operational mission (as determined by the Department of National Defence or the Department of Public Safety and Emergency Preparedness) that is
 
     assessed for risk allowance at level 3 or higher (as determined by the Department of National Defence), or
 
@@ -1520,19 +1520,19 @@ This Act may be cited as the `Budget Implementation Act, 2018, No. 2`.
 
   **(2)** Subparagraph 112(2.32)(a)(ii) of the Act is replaced by the following:
 
-    all or substantially all of its risk of loss and opportunity for gain or profit in respect of the share during the particular period referred to in subsection (2.31) **has not been eliminated and cannot reasonably be expected by it to be eliminated**;
+    all or substantially all of its risk of loss and opportunity for gain or profit in respect of the share during the particular period referred to in subsection (2.31) has not been eliminated and cannot reasonably be expected by it to be eliminated;
 
   **(3)** Clause 112(2.32)(b)(iii)(B) of the Act is replaced by the following:
 
-    all or substantially all of its risk of loss and opportunity for gain or profit in respect of the share during the particular period referred to in subsection (2.31) **has not been eliminated and cannot reasonably be expected by it to be eliminated**;
+    all or substantially all of its risk of loss and opportunity for gain or profit in respect of the share during the particular period referred to in subsection (2.31) has not been eliminated and cannot reasonably be expected by it to be eliminated;
 
   **(4)** Clause 112(2.32)(c)(iii)(B) of the Act is replaced by the following:
 
-    all or substantially all of its risk of loss and opportunity for gain or profit in respect of the share during the particular period referred to in subsection (2.31) **has not been eliminated and cannot reasonably be expected by it to be eliminated**; or
+    all or substantially all of its risk of loss and opportunity for gain or profit in respect of the share during the particular period referred to in subsection (2.31) has not been eliminated and cannot reasonably be expected by it to be eliminated; or
 
   **(5)** Subsection 112(2.33) of the Act is replaced by the following:
 
-    **(2.33)** If, at a time during a particular period referred to in subsection (2.31), a counterparty, specified counterparty, affiliated counterparty or affiliated specified counterparty reasonably expects to become a tax-indifferent investor or — if it has provided a representation described by subparagraph (2.32)(a)(ii) or clause (2.32)(b)(iii)(B) or (c)(iii)(B) in respect of a share — **that all or substantially all of its risk of loss and opportunity for gain or profit in respect of the share will be eliminated**, the particular period for which it has provided a representation in respect of the share is deemed to end at that time.
+    **(2.33)** If, at a time during a particular period referred to in subsection (2.31), a counterparty, specified counterparty, affiliated counterparty or affiliated specified counterparty reasonably expects to become a tax-indifferent investor or — if it has provided a representation described by subparagraph (2.32)(a)(ii) or clause (2.32)(b)(iii)(B) or (c)(iii)(B) in respect of a share — that all or substantially all of its risk of loss and opportunity for gain or profit in respect of the share will be eliminated, the particular period for which it has provided a representation in respect of the share is deemed to end at that time.
 
   **(6)** The description of B in subsection 112(5.2) of the Act is replaced by the following:
 
@@ -1540,7 +1540,7 @@ This Act may be cited as the `Budget Implementation Act, 2018, No. 2`.
 
     if the taxpayer received a dividend under subsection 84(3) in respect of the share, the total determined under subparagraph (b)(ii), and
 
-    **in any other case,** the lesser of
+    in any other case, the lesser of
 
     the loss, if any, from the disposition of the share that would be determined before the application of this subsection if the cost of the share to any taxpayer were determined without reference to
 
@@ -1562,7 +1562,7 @@ This Act may be cited as the `Budget Implementation Act, 2018, No. 2`.
 
   **(7)** Paragraph (c) of the description of C in subsection 112(5.2) of the Act is replaced by the following:
 
-    where the taxpayer is a partnership, a loss of a member of the partnership on a deemed disposition of the share before that time was reduced because of subsection (3.1) or **(4)**, and
+    where the taxpayer is a partnership, a loss of a member of the partnership on a deemed disposition of the share before that time was reduced because of subsection (3.1) or (4), and
 
   **(8)** The portion of subsection 112(5.21) of the Act before paragraph (a) is replaced by the following:
 
@@ -1570,7 +1570,7 @@ This Act may be cited as the `Budget Implementation Act, 2018, No. 2`.
 
   **(9)** Section 112 of the Act is amended by adding the following after subsection (9):
 
-    ****(9.1)**** **Subsection (8) does not apply for the purpose of paragraph (5.21)(b) in respect of a dividend received on a share, referred to in paragraph (a) of the description of B in subsection (5.2), during a synthetic disposition period of a synthetic disposition arrangement in respect of that share.**
+    **(9.1)** Subsection (8) does not apply for the purpose of paragraph (5.21)(b) in respect of a dividend received on a share, referred to in paragraph (a) of the description of B in subsection (5.2), during a synthetic disposition period of a synthetic disposition arrangement in respect of that share.
 
   **(10)** Subsections (1) to (5) apply in respect of dividends that are paid or become payable after February 26, 2018.
 
@@ -1777,7 +1777,7 @@ This Act may be cited as the `Budget Implementation Act, 2018, No. 2`.
 
   **(3)** Paragraph (a) of the definition **charitable organization** in subsection 149.1(1) of the Act is replaced by the following:
 
-    **constituted and operated exclusively for charitable purposes**,
+    constituted and operated exclusively for charitable purposes,
 
     all the resources of which are devoted to charitable activities carried on by the organization itself,
 
@@ -1787,7 +1787,7 @@ This Act may be cited as the `Budget Implementation Act, 2018, No. 2`.
 
   **(5)** The portion of subsection 149.1(1.1) of the Act before paragraph (a) is replaced by the following:
 
-    **(1.1)** For the purposes of paragraphs (2)(b), (3)(b) **and** (4)(b) and **subsection** (21), the following shall be deemed to be neither an amount expended in a taxation year on charitable activities nor a gift made to a qualified donee:
+    **(1.1)** For the purposes of paragraphs (2)(b), (3)(b) and (4)(b) and subsection (21), the following shall be deemed to be neither an amount expended in a taxation year on charitable activities nor a gift made to a qualified donee:
 
   **(6)** Subsection 149.1(1.1) of the Act is amended by adding "and" at the end of paragraph (a) and by repealing paragraph (b).
 
@@ -1837,11 +1837,11 @@ This Act may be cited as the `Budget Implementation Act, 2018, No. 2`.
 
   **(1)** Paragraph 152(1)(b) of the Act is replaced by the following:
 
-    the amount of tax, if any, deemed by subsection 120(2) or (2.2), 122.5(3), 122.51(2), 122.7(2) or (3), **122.8(4)**, 122.9(2), 125.4(3), 125.5(3), 127.1(1), 127.41(3) or 210.2(3) or (4) to be paid on account of the taxpayer's tax payable under this Part for the year.
+    the amount of tax, if any, deemed by subsection 120(2) or (2.2), 122.5(3), 122.51(2), 122.7(2) or (3), 122.8(4), 122.9(2), 125.4(3), 125.5(3), 127.1(1), 127.41(3) or 210.2(3) or (4) to be paid on account of the taxpayer's tax payable under this Part for the year.
 
   **(2)** Subparagraph 152(4)(b)(iii) of the French version of the Act is replaced by the following:
 
-    est établie par suite de la conclusion d'une opération **impliquant** le contribuable et une personne non-résidente avec laquelle il avait un lien de dépendance,
+    est établie par suite de la conclusion d'une opération impliquant le contribuable et une personne non-résidente avec laquelle il avait un lien de dépendance,
 
   **(3)** Subparagraph 152(4)(b)(iii) of the Act is replaced by the following:
 
@@ -1863,11 +1863,11 @@ This Act may be cited as the `Budget Implementation Act, 2018, No. 2`.
 
   **(5)** The portion of subsection 152(4.01) of the Act before paragraph (a) is replaced by the following:
 
-    **(4.01)** Notwithstanding subsections (4) and (5), an assessment, reassessment or additional assessment to which paragraph (4)(a), (b), (b.1), (b.3), **(b.4)** or (c) applies in respect of a taxpayer for a taxation year may be made after the taxpayer's normal reassessment period in respect of the year to the extent that, but only to the extent that, it can reasonably be regarded as relating to,
+    **(4.01)** Notwithstanding subsections (4) and (5), an assessment, reassessment or additional assessment to which paragraph (4)(a), (b), (b.1), (b.3), (b.4) or (c) applies in respect of a taxpayer for a taxation year may be made after the taxpayer's normal reassessment period in respect of the year to the extent that, but only to the extent that, it can reasonably be regarded as relating to,
 
   **(6)** Subparagraph 152(4.01)(b)(iii) of the Act is replaced by the following:
 
-    the transaction, **income, loss or other amount** referred to in subparagraph (4)(b)(iii),
+    the transaction, income, loss or other amount referred to in subparagraph (4)(b)(iii),
 
   **(7)** Subsection 152(4.01) of the Act is amended by striking out "and" at the end of paragraph (b), by adding "and" at the end of paragraph (c) and by adding the following after paragraph (c):
 
@@ -1875,7 +1875,7 @@ This Act may be cited as the `Budget Implementation Act, 2018, No. 2`.
 
   **(8)** Paragraph 152(4.2)(b) of the Act is replaced by the following:
 
-    redetermine the amount, if any, deemed by subsection 120(2) or (2.2), 122.5(3), 122.51(2), 122.7(2) or (3), **122.8(4)**, 122.9(2), 127.1(1), 127.41(3) or 210.2(3) or (4) to be paid on account of the taxpayer's tax payable under this Part for the year or deemed by subsection 122.61(1) to be an overpayment on account of the taxpayer's liability under this Part for the year.
+    redetermine the amount, if any, deemed by subsection 120(2) or (2.2), 122.5(3), 122.51(2), 122.7(2) or (3), 122.8(4), 122.9(2), 127.1(1), 127.41(3) or 210.2(3) or (4) to be paid on account of the taxpayer's tax payable under this Part for the year or deemed by subsection 122.61(1) to be an overpayment on account of the taxpayer's liability under this Part for the year.
 
   **(9)** Subsections (1) and (8) apply to the 2018 and subsequent taxation years.
 
@@ -1917,15 +1917,15 @@ This Act may be cited as the `Budget Implementation Act, 2018, No. 2`.
 
 ### Section 212.1
 
-      **(1)** Subsection (1.1) applies if a non-resident person disposes of shares (in this section referred to as the "subject shares") of any class of the capital stock of a corporation resident in Canada (in this section referred to as the "subject corporation") to another corporation resident in Canada (in this section referred to as the "purchaser corporation") with which the non-resident person does not (otherwise than because of a right referred to in paragraph 251(5)(b)) deal at arm's length and, immediately after the disposition, the subject corporation is connected (within the meaning that would be assigned by subsection 186(4) if the references in that subsection to "payer corporation" and "particular corporation" were read as "subject corporation" and "purchaser corporation", respectively, **and if section 186 were read without reference to its subsection (6)**) with the purchaser corporation.
+      **(1)** Subsection (1.1) applies if a non-resident person disposes of shares (in this section referred to as the "subject shares") of any class of the capital stock of a corporation resident in Canada (in this section referred to as the "subject corporation") to another corporation resident in Canada (in this section referred to as the "purchaser corporation") with which the non-resident person does not (otherwise than because of a right referred to in paragraph 251(5)(b)) deal at arm's length and, immediately after the disposition, the subject corporation is connected (within the meaning that would be assigned by subsection 186(4) if the references in that subsection to "payer corporation" and "particular corporation" were read as "subject corporation" and "purchaser corporation", respectively, and if section 186 were read without reference to its subsection (6)) with the purchaser corporation.
 
   **(2)** The portion of paragraph 212.1(1.1)(a) of the Act before subparagraph (i) is replaced by the following:
 
-    the amount, if any, by which the fair market value of any consideration (other than any share of the capital stock of the purchaser corporation) received by the non-resident person **referred to in subsection (1)** from the purchaser corporation for the subject shares exceeds the paid-up capital in respect of the subject shares immediately before the disposition shall, for the purposes of this Act, be deemed to be a dividend
+    the amount, if any, by which the fair market value of any consideration (other than any share of the capital stock of the purchaser corporation) received by the non-resident person referred to in subsection (1) from the purchaser corporation for the subject shares exceeds the paid-up capital in respect of the subject shares immediately before the disposition shall, for the purposes of this Act, be deemed to be a dividend
 
   **(3)** Subsection 212.1(1.2) of the Act is replaced by the following:
 
-    **(1.2)** For the purposes of subsections (1) and (1.1), if, in the absence of this subsection, no consideration would be received by the non-resident person **referred to in subsection (1)** from the purchaser corporation for the subject shares, the non-resident person is deemed to receive consideration other than shares of the capital stock of the purchaser corporation from the purchaser corporation for the subject shares, the fair market value of which is equal to the amount, if any, by which the fair market value of the subject shares disposed of by the non-resident person exceeds the amount of any increase because of the disposition in the fair market value of the shares of the capital stock of the purchaser corporation.
+    **(1.2)** For the purposes of subsections (1) and (1.1), if, in the absence of this subsection, no consideration would be received by the non-resident person referred to in subsection (1) from the purchaser corporation for the subject shares, the non-resident person is deemed to receive consideration other than shares of the capital stock of the purchaser corporation from the purchaser corporation for the subject shares, the fair market value of which is equal to the amount, if any, by which the fair market value of the subject shares disposed of by the non-resident person exceeds the amount of any increase because of the disposition in the fair market value of the shares of the capital stock of the purchaser corporation.
 
   **(4)** The portion of paragraph 212.1(3)(a) of the Act before subparagraph (i) is replaced by the following:
 
@@ -1933,15 +1933,15 @@ This Act may be cited as the `Budget Implementation Act, 2018, No. 2`.
 
   **(5)** Paragraph 212.1(3)(b) of the Act is replaced by the following:
 
-    for the purposes of determining whether or not a non-resident person referred to in paragraph (a) was a member of a group of less than six persons that controlled a corporation at any time, any shares of the capital stock of that corporation owned at that time by **any of the following persons shall be deemed to be owned at that time by the non-resident person and not by the person who actually owned the shares at that time**:
+    for the purposes of determining whether or not a non-resident person referred to in paragraph (a) was a member of a group of less than six persons that controlled a corporation at any time, any shares of the capital stock of that corporation owned at that time by any of the following persons shall be deemed to be owned at that time by the non-resident person and not by the person who actually owned the shares at that time:
 
-    the **non-resident person's** child (within the meaning assigned by subsection 70(10)), who is under 18 years of age, or the **non-resident person's** spouse or common-law partner,
+    the non-resident person's child (within the meaning assigned by subsection 70(10)), who is under 18 years of age, or the non-resident person's spouse or common-law partner,
 
-    a trust of which the **non-resident** person, a person described in subparagraph (i) or a corporation described in subparagraph (iii) is a beneficiary,
+    a trust of which the non-resident person, a person described in subparagraph (i) or a corporation described in subparagraph (iii) is a beneficiary,
 
-    a corporation controlled by the **non-resident person**, a person described in subparagraph (i), a trust described in subparagraph (ii) or any combination thereof, and
+    a corporation controlled by the non-resident person, a person described in subparagraph (i), a trust described in subparagraph (ii) or any combination thereof, and
 
-    a partnership of which the **non-resident person** or a person described in one of subparagraphs (i) to (iii) is a majority-interest partner or a member of a majority-interest group of partners (as defined in subsection 251.1(3));
+    a partnership of which the non-resident person or a person described in one of subparagraphs (i) to (iii) is a majority-interest partner or a member of a majority-interest group of partners (as defined in subsection 251.1(3));
 
   **(6)** Subsection 212.1(3) of the Act is amended by adding "and" at the end of paragraph (d) and by repealing paragraph (e).
 
@@ -1949,7 +1949,7 @@ This Act may be cited as the `Budget Implementation Act, 2018, No. 2`.
 
     it is not the case that, at the time of the disposition, or as part of a transaction or event or series of transactions or events that includes the disposition, a non-resident person
 
-    **holds**, directly or indirectly, shares of the capital stock of the purchaser corporation, and
+    holds, directly or indirectly, shares of the capital stock of the purchaser corporation, and
 
   **(8)** Section 212.1 of the Act is amended by adding the following after subsection (4):
 
@@ -2035,13 +2035,13 @@ The portion of section 231 of the Act before the first definition is replaced by
 
 ### Section 231
 
-In sections 231.1 to **231.8**,
+In sections 231.1 to 231.8,
 
 ### Section 23
 
 The portion of subsection 231.6(7) of the Act before paragraph (a) is replaced by the following:
 
-**(7)** The period of time between the day on which an application for review of a requirement is made pursuant to subsection (4) and the day on which the **application is finally disposed of** shall not be counted in the computation of
+**(7)** The period of time between the day on which an application for review of a requirement is made pursuant to subsection (4) and the day on which the application is finally disposed of shall not be counted in the computation of
 
 ### Section 24
 
@@ -2059,7 +2059,7 @@ where an application is commenced by the Minister under subsection 231.7(1) to o
 
   **(1)** Subsection 233.4(4) of the Act is replaced by the following:
 
-    **(4)** A reporting entity for a taxation year or fiscal period shall file with the Minister for the year or period a return in prescribed form in respect of each foreign affiliate of the entity in the year or period within **12** months after the end of the year or period.
+    **(4)** A reporting entity for a taxation year or fiscal period shall file with the Minister for the year or period a return in prescribed form in respect of each foreign affiliate of the entity in the year or period within 12 months after the end of the year or period.
 
   **(2)** Subsection 233.4(4) of the Act is replaced by the following:
 
@@ -2085,7 +2085,7 @@ a bilateral agreement for mutual legal assistance in criminal matters to which C
 
     **SLA compensation payment** means an amount paid pursuant to
 
-    a securities lending arrangement as compensation for an underlying payment; **or**
+    a securities lending arrangement as compensation for an underlying payment; or
 
     a specified securities lending arrangement as compensation for an underlying payment, including, if the property transferred or lent is described in subparagraph (a)(ii) of the definition specified securities lending arrangement, as compensation for a taxable dividend paid on a share described in subparagraph (a)(i) of that definition; (**paiement compensatoire (MPVM)**)
 
@@ -2113,11 +2113,11 @@ a bilateral agreement for mutual legal assistance in criminal matters to which C
 
   **(3)** The portion of subsection 260(5) of the Act before paragraph (a) is replaced by the following:
 
-    **(5)** Subsection (5.1) applies to a taxpayer for a taxation year in respect of a particular amount (other than an amount received as proceeds of disposition or an amount received by a person under an arrangement where it may reasonably be considered that one of the main reasons for the person entering into the arrangement was to enable the person to receive an SLA compensation payment **pursuant to a securities lending arrangement**, or a dealer compensation payment, that would be deductible in computing the taxable income, or not included in computing the income, for any taxation year of the person) received by the taxpayer in the taxation year
+    **(5)** Subsection (5.1) applies to a taxpayer for a taxation year in respect of a particular amount (other than an amount received as proceeds of disposition or an amount received by a person under an arrangement where it may reasonably be considered that one of the main reasons for the person entering into the arrangement was to enable the person to receive an SLA compensation payment pursuant to a securities lending arrangement, or a dealer compensation payment, that would be deductible in computing the taxable income, or not included in computing the income, for any taxation year of the person) received by the taxpayer in the taxation year
 
   **(4)** Paragraph 260(6)(a) of the Act is replaced by the following:
 
-    if the taxpayer is a registered securities dealer and the particular amount is deemed by subsection (5.1) to have been received as a taxable dividend, no more than 2/3 of the particular amount **(unless, for greater certainty, the particular amount is an amount for which a deduction in computing income may be claimed under subsection (6.1) by the taxpayer)**; or
+    if the taxpayer is a registered securities dealer and the particular amount is deemed by subsection (5.1) to have been received as a taxable dividend, no more than 2/3 of the particular amount (unless, for greater certainty, the particular amount is an amount for which a deduction in computing income may be claimed under subsection (6.1) by the taxpayer); or
 
   **(5)** The portion of subsection 260(6.1) of the Act before paragraph (a) is replaced by the following:
 
@@ -2132,7 +2132,7 @@ a bilateral agreement for mutual legal assistance in criminal matters to which C
 
 Paragraph 462.48(2)(c) of the `Criminal Code` is replaced by the following:
 
-the type of information or book, record, writing, return or other document obtained by or on behalf of the Minister of National Revenue for the purposes of the `Income Tax Act`, **Part IX of the `Excise Tax Act` or the `Excise Act, 2001`** to which access is sought or that is proposed to be examined or communicated; and
+the type of information or book, record, writing, return or other document obtained by or on behalf of the Minister of National Revenue for the purposes of the `Income Tax Act`, Part IX of the `Excise Tax Act` or the `Excise Act, 2001` to which access is sought or that is proposed to be examined or communicated; and
 
 
 ### Mutual Legal Assistance in Criminal Matters Act
@@ -2143,7 +2143,7 @@ The definition **agreement** in subsection 2(1) of the `Mutual Legal Assistance 
 
 **agreement** means
 
-a treaty, convention or other international agreement that is in force, to which Canada is a party and that contains a provision respecting mutual legal assistance in criminal matters, **or**
+a treaty, convention or other international agreement that is in force, to which Canada is a party and that contains a provision respecting mutual legal assistance in criminal matters, or
 
 to the extent of their application to criminal investigations or prosecutions and except for the purposes of Parts II and III of this Act, the Convention on Mutual Administrative Assistance in Tax Matters, concluded at Strasbourg on January 25, 1988, as amended from time to time by a protocol or other international instrument, as ratified by Canada, or a comprehensive tax information exchange agreement that has effect and to which Canada is a party or a tax treaty, as defined in subsection 248(1) of the `Income Tax Act`; (**accord**)
 
@@ -2153,7 +2153,7 @@ Subsection 5(1) of the Act is replaced by the following:
 
 ### Section 5
 
-  **(1)** Unless the agreement has been published under subsection (2), an agreement **referred to in paragraph (a) of the definition agreement in subsection 2(1)** — or the provisions respecting mutual legal assistance in criminal matters contained in a convention or other international agreement — must be published in the `Canada Gazette` no later than 60 days after it comes into force.
+  **(1)** Unless the agreement has been published under subsection (2), an agreement referred to in paragraph (a) of the definition agreement in subsection 2(1) — or the provisions respecting mutual legal assistance in criminal matters contained in a convention or other international agreement — must be published in the `Canada Gazette` no later than 60 days after it comes into force.
 
 ### Section 31
 
@@ -2161,9 +2161,9 @@ Section 7 of the Act is replaced by the following:
 
 ### Section 7
 
-  **(1)** The Minister is responsible for the implementation of every agreement **referred to in paragraph (a) of the definition agreement in subsection 2(1)** and **for** the administration of this Act.
+  **(1)** The Minister is responsible for the implementation of every agreement referred to in paragraph (a) of the definition agreement in subsection 2(1) and for the administration of this Act.
 
-  **(2)** When a request is **made** to the Minister **under an agreement referred to in paragraph (a) of the definition agreement in subsection 2(1)** by a state or entity or a Canadian competent authority, the Minister shall deal with the request in accordance with the agreement and this Act.
+  **(2)** When a request is made to the Minister under an agreement referred to in paragraph (a) of the definition agreement in subsection 2(1) by a state or entity or a Canadian competent authority, the Minister shall deal with the request in accordance with the agreement and this Act.
 
   **(3)** When a request made by a state or entity under an agreement referred to in paragraph (b) of the definition agreement in subsection 2(1) is presented to the Minister by the Minister of National Revenue, the Minister shall deal with the request in accordance with the agreement and this Act.
 
@@ -2196,11 +2196,11 @@ Subsection 66(1) of `An Act to amend the Canada Pension Plan, the Canada Pension
 
 amended by replacing the clause 60(e)(ii)(A) that it enacts with the following:
 
-the total of all amounts each of which is an amount payable by the taxpayer in respect of self-employed earnings for the year as a contribution under subsection 10(1.‍1) or (1.‍2) of the `Canada Pension Plan` **or as a like contribution under a provincial pension plan, as defined in section 3 of that Act**, and
+the total of all amounts each of which is an amount payable by the taxpayer in respect of self-employed earnings for the year as a contribution under subsection 10(1.‍1) or (1.‍2) of the `Canada Pension Plan` or as a like contribution under a provincial pension plan, as defined in section 3 of that Act, and
 
 amended by replacing the subparagraph 60(e.1)(i) that it enacts with the following:
 
-the total of all amounts each of which is an amount payable by the taxpayer for the year as an employee's contribution under subsection 8(1.‍1) or (1.‍2) of the `Canada Pension Plan` **or as a like contribution under a provincial pension plan, as defined in section 3 of that Act**, and
+the total of all amounts each of which is an amount payable by the taxpayer for the year as an employee's contribution under subsection 8(1.‍1) or (1.‍2) of the `Canada Pension Plan` or as a like contribution under a provincial pension plan, as defined in section 3 of that Act, and
 
 
 ### Income Tax Regulations
@@ -2233,11 +2233,11 @@ the total of all amounts each of which is an amount payable by the taxpayer for 
 
 ### Section 209
 
-      **(1)** A person who is required by section 200, 201, 202, **203**, 204, 212, 214, 215, 217 or 218, subsection 223(2) or section 228, 229, 230, 232, 233 or 234 to make an information return shall forward to each taxpayer to whom the return relates two copies of the portion of the return that relates to that taxpayer.
+      **(1)** A person who is required by section 200, 201, 202, 203, 204, 212, 214, 215, 217 or 218, subsection 223(2) or section 228, 229, 230, 232, 233 or 234 to make an information return shall forward to each taxpayer to whom the return relates two copies of the portion of the return that relates to that taxpayer.
 
   **(2)** Subsection 209(5) of the Regulations is replaced by the following:
 
-    **(5)** A person may provide a Statement of Remuneration Paid (T4) information return **or a Tuition and Enrolment Certificate**, as required under subsection (1), as a single document in an electronic format (instead of the two copies required under subsection (1)) to the taxpayer to whom the return relates, on or before the date on which the return is to be filed with the Minister, unless
+    **(5)** A person may provide a Statement of Remuneration Paid (T4) information return or a Tuition and Enrolment Certificate, as required under subsection (1), as a single document in an electronic format (instead of the two copies required under subsection (1)) to the taxpayer to whom the return relates, on or before the date on which the return is to be filed with the Minister, unless
 
       the specified criteria referred to in section 221.01 of the Act are not met;
 
@@ -2245,7 +2245,7 @@ the total of all amounts each of which is an amount payable by the taxpayer for 
 
       at the time the return is required to be issued,
 
-      **if the return is a T4**, the taxpayer is on extended leave or is no longer an employee of the person, or
+      if the return is a T4, the taxpayer is on extended leave or is no longer an employee of the person, or
 
       the taxpayer cannot reasonably be expected to have access to the information return in electronic format.
 
@@ -2269,11 +2269,11 @@ the total of all amounts each of which is an amount payable by the taxpayer for 
 
   **(2)** The portion of subparagraph 5907(2)(f)(ii) of the Regulations before clause (A) is replaced by the following:
 
-    subject to **subsections** (2.01) **and (2.011)**, does not arise with respect to a disposition (other than a disposition to which subsection (9) applies), of property by the affiliate,
+    subject to subsections (2.01) and (2.011), does not arise with respect to a disposition (other than a disposition to which subsection (9) applies), of property by the affiliate,
 
   **(3)** The portion of subparagraph 5907(2)(j)(iii) of the Regulations before clause (A) is replaced by the following:
 
-    subject to **subsections** (2.01) **and (2.011)**, does not arise with respect to a disposition (other than a disposition to which subsection (9) applies), of property by the affiliate,
+    subject to subsections (2.01) and (2.011), does not arise with respect to a disposition (other than a disposition to which subsection (9) applies), of property by the affiliate,
 
   **(4)** Section 5907 of the Regulations is amended by adding the following after subsection (2.01):
 
@@ -2300,11 +2300,11 @@ the total of all amounts each of which is an amount payable by the taxpayer for 
 
     clause 60(e)(ii)(A) of the `Income Tax Act` is replaced by the following:
 
-    the total of all amounts each of which is an amount payable by the taxpayer in respect of self-employed earnings for the year as a contribution under subsection 10(1.‍1) or (1.‍2) of the `Canada Pension Plan` **or as a like contribution under a provincial pension plan, as defined in section 3 of that Act**, and
+    the total of all amounts each of which is an amount payable by the taxpayer in respect of self-employed earnings for the year as a contribution under subsection 10(1.‍1) or (1.‍2) of the `Canada Pension Plan` or as a like contribution under a provincial pension plan, as defined in section 3 of that Act, and
 
     subparagraph 60(e.1)(i) of the Act is replaced by the following:
 
-    the total of all amounts each of which is an amount payable by the taxpayer for the year as an employee's contribution under subsection 8(1.‍1) or (1.‍2) of the `Canada Pension Plan` **or as a like contribution under a provincial pension plan, as defined in section 3 of that Act**, and
+    the total of all amounts each of which is an amount payable by the taxpayer for the year as an employee's contribution under subsection 8(1.‍1) or (1.‍2) of the `Canada Pension Plan` or as a like contribution under a provincial pension plan, as defined in section 3 of that Act, and
 
   **(2)** If subsection 66(1) of the other Act comes into force on the same day as section `34` of this Act, that section `34` is deemed to have come into force before that subsection 66(1).
 
@@ -2392,7 +2392,7 @@ the total of all amounts each of which is an amount payable by the taxpayer for 
 
   **(1)** The portion of subsection 228(4) of the Act before paragraph (a) is replaced by the following:
 
-    **(4)** **If** tax under Division II is payable by a person in respect of a supply of **property that is** real property **or an emission allowance** and the supplier is not required to collect the tax and is not deemed to have collected the tax,
+    **(4)** If tax under Division II is payable by a person in respect of a supply of property that is real property or an emission allowance and the supplier is not required to collect the tax and is not deemed to have collected the tax,
 
   **(2)** Subsection (1) is deemed to have come into force on June 27, 2018 but also applies in respect of any supply of an emission allowance made before that day if any amount of tax under Division II of Part IX of the Act that is payable in respect of the supply was not collected before that day, except that in respect of those supplies subsection 228(4) of the Act, as amended by subsection (1), is to be read as follows:
 
@@ -2430,15 +2430,15 @@ the total of all amounts each of which is an amount payable by the taxpayer for 
 
   **(1)** Paragraphs 259.1(2)(a) and (b) of the Act are replaced by the following:
 
-    in the case of a specified person described in paragraph (f) of the definition specified person in subsection (1), the person **does not acquire** or **import** the specified property for
+    in the case of a specified person described in paragraph (f) of the definition specified person in subsection (1), the person does not acquire or import the specified property for
 
-    the purpose of **making a** supply by way of sale **of the specified property** for consideration, **or**
+    the purpose of making a supply by way of sale of the specified property for consideration, or
 
     the purpose of transferring ownership of the specified property to another person in the course of supplying another property or a service for consideration; and
 
-    in any other case, the person **does not acquire** or **import** the specified property for
+    in any other case, the person does not acquire or import the specified property for
 
-    the purpose of **making a** supply by way of sale **of the specified property, or**
+    the purpose of making a supply by way of sale of the specified property, or
 
     the purpose of transferring ownership of the specified property to another person in the course of supplying another property or a service.
 
@@ -2452,7 +2452,7 @@ the total of all amounts each of which is an amount payable by the taxpayer for 
 
   **(1)** The portion of subsection 261(1) of the English version of the Act after paragraph (b) is replaced by the following:
 
-    tax, net tax, penalty, interest or other obligation under this Part in circumstances where the amount was not payable or remittable by the person, whether the amount was paid by mistake or otherwise, the Minister shall, subject to subsections (2) **to** (3), pay a rebate of that amount to the person.
+    tax, net tax, penalty, interest or other obligation under this Part in circumstances where the amount was not payable or remittable by the person, whether the amount was paid by mistake or otherwise, the Minister shall, subject to subsections (2) to (3), pay a rebate of that amount to the person.
 
   **(2)** Section 261 of the Act is amended by adding the following after subsection (2):
 
@@ -2536,7 +2536,7 @@ if an application is commenced by the Minister under subsection 289.1(1) to orde
 
 The portion of subsection 292(7) of the Act before paragraph (a) is replaced by the following:
 
-**(7)** The period of time between the day **on which** an application for the review of a requirement is made under subsection (4) and the day **on which** the **application** is **finally disposed of** shall not be counted in the computation of
+**(7)** The period of time between the day on which an application for the review of a requirement is made under subsection (4) and the day on which the application is finally disposed of shall not be counted in the computation of
 
 ### Section 52
 
@@ -2556,13 +2556,13 @@ The portion of subsection 292(7) of the Act before paragraph (a) is replaced by 
 
   **(2)** Paragraph 295(5)(n) of the Act is replaced by the following:
 
-    provide confidential information, or allow the inspection of or access to confidential information, as the case may be, solely for the purposes of a provision contained **in a tax treaty (as defined in subsection 248(1) of the `Income Tax Act`) or** in a listed international agreement; or
+    provide confidential information, or allow the inspection of or access to confidential information, as the case may be, solely for the purposes of a provision contained in a tax treaty (as defined in subsection 248(1) of the `Income Tax Act`) or in a listed international agreement; or
 
 ### Section 53
 
   **(1)** Paragraph 298(1)(b) of the Act is replaced by the following:
 
-    in the case of an assessment of tax payable by the person under Division II in respect of a supply to which subsection 221(2) **or (2.1)** applies, more than four years after the later of the day on or before which the person was required to file the return in which that tax was required to be reported and the day the return was filed;
+    in the case of an assessment of tax payable by the person under Division II in respect of a supply to which subsection 221(2) or (2.1) applies, more than four years after the later of the day on or before which the person was required to file the return in which that tax was required to be reported and the day the return was filed;
 
   **(2)** Subsection (1) is deemed to have come into force on June 27, 2018.
 
@@ -2597,15 +2597,15 @@ The portion of subsection 292(7) of the Act before paragraph (a) is replaced by 
 
   **(2)** The definition **permanent establishment** in subsection 1(1) of the Regulations is amended by adding "and" at the end of paragraph (b) and by replacing paragraphs (c) and (d) by the following:
 
-    in the case of a partnership **that is not an investment plan**,
+    in the case of a partnership that is not an investment plan,
 
-    **if** all the members of **the partnership** are individuals or trusts, any permanent establishment that would be a permanent establishment of the partnership under subsection 2600(2) of the `Income Tax Regulations` if the partnership were an individual, and
+    if all the members of the partnership are individuals or trusts, any permanent establishment that would be a permanent establishment of the partnership under subsection 2600(2) of the `Income Tax Regulations` if the partnership were an individual, and
 
-    **if subparagraph (i)** does not apply, any permanent establishment that would be a permanent establishment of the partnership under subsection 400(2) of the `Income Tax Regulations` if the partnership were a corporation. (**établissement stable**)
+    if subparagraph (i) does not apply, any permanent establishment that would be a permanent establishment of the partnership under subsection 400(2) of the `Income Tax Regulations` if the partnership were a corporation. (**établissement stable**)
 
   **(3)** The portion of paragraph (b) of the definition **provincial series** in subsection 1(1) of the Regulations before subparagraph (i) is replaced by the following:
 
-    under the terms of the prospectus, registration statement, **partnership agreement** or other similar document for the series, or under the laws of Canada or a province, the conditions for a person owning or acquiring units of the series include the following:
+    under the terms of the prospectus, registration statement, partnership agreement or other similar document for the series, or under the laws of Canada or a province, the conditions for a person owning or acquiring units of the series include the following:
 
   **(4)** The definition **series** in subsection 1(1) of the Regulations is amended by striking out "and" at the end of paragraph (a), by adding "and" at the end of paragraph (b) and by adding the following after paragraph (b):
 
@@ -2631,7 +2631,7 @@ The portion of subsection 292(7) of the Act before paragraph (a) is replaced by 
 
 ### Section 2
 
-    For the purposes of these Regulations, a partnership **that is not an investment plan** is a qualifying partnership during a taxation year of the partnership if, at any time in the taxation year, the partnership has
+    For the purposes of these Regulations, a partnership that is not an investment plan is a qualifying partnership during a taxation year of the partnership if, at any time in the taxation year, the partnership has
 
   **(2)** Subsection (1) is deemed to have come into force on September 8, 2017.
 
@@ -2639,7 +2639,7 @@ The portion of subsection 292(7) of the Act before paragraph (a) is replaced by 
 
   **(1)** The portion of paragraph 11(b) of the Regulations before subparagraph (i) is replaced by the following:
 
-    under the terms of the prospectus, registration statement, **partnership agreement** or other similar document for the financial institution, or under the laws of Canada or a province, the conditions for a person owning or acquiring units of the financial institution include
+    under the terms of the prospectus, registration statement, partnership agreement or other similar document for the financial institution, or under the laws of Canada or a province, the conditions for a person owning or acquiring units of the financial institution include
 
   **(2)** Subsection (1) is deemed to have come into force on September 8, 2017.
 
@@ -2647,11 +2647,11 @@ The portion of subsection 292(7) of the Act before paragraph (a) is replaced by 
 
   **(1)** The portion of the definition **plan merger** in subsection 16(1) of the Regulations before paragraph (a) is replaced by the following:
 
-    **plan merger** means the merger or combination of two or more trusts, corporations or **partnerships**, each of which was, immediately before the merger or combination, a distributed investment plan and each of which is referred to in this definition as a "predecessor", to form one trust, corporation or **partnership** (referred to in this definition as the "continuing plan") in such a manner that
+    **plan merger** means the merger or combination of two or more trusts, corporations or partnerships, each of which was, immediately before the merger or combination, a distributed investment plan and each of which is referred to in this definition as a "predecessor", to form one trust, corporation or partnership (referred to in this definition as the "continuing plan") in such a manner that
 
   **(2)** Paragraph (c) of the definition **plan merger** in subsection 16(1) of the Regulations is replaced by the following:
 
-    the merger or combination is otherwise than as a result of the acquisition of property of a **particular** trust, corporation or **partnership** by another trust, corporation or **partnership**, pursuant to the purchase of that property by the other trust, corporation or **partnership** or as a result of the distribution of that property to the other trust, corporation or **partnership** on the winding-up of the **particular** trust, corporation or **partnership**. (**fusion de régimes**)
+    the merger or combination is otherwise than as a result of the acquisition of property of a particular trust, corporation or partnership by another trust, corporation or partnership, pursuant to the purchase of that property by the other trust, corporation or partnership or as a result of the distribution of that property to the other trust, corporation or partnership on the winding-up of the particular trust, corporation or partnership. (**fusion de régimes**)
 
   **(3)** Subsections (1) and (2) are deemed to have come into force on September 8, 2017.
 
@@ -2775,11 +2775,11 @@ The portion of subsection 292(7) of the Act before paragraph (a) is replaced by 
 
   **(2)** Paragraph 68.01(1)(b) of the Act is replaced by the following:
 
-    to a purchaser **that** applies for the payment and **that** uses the diesel fuel to generate electricity (**other than** in or by a vehicle, including a conveyance attached to the vehicle, of any mode of transportation), **if no application in respect of the diesel fuel can be made by the vendor under subparagraph (a)(i.1)**.
+    to a purchaser that applies for the payment and that uses the diesel fuel to generate electricity (other than in or by a vehicle, including a conveyance attached to the vehicle, of any mode of transportation), if no application in respect of the diesel fuel can be made by the vendor under subparagraph (a)(i.1).
 
   **(3)** Paragraph 68.01(3)(a) of the Act is replaced by the following:
 
-    the vendor described in subparagraph (1)(a)(i) **or (i.1)** applies for it within two years after the vendor sells the diesel fuel to the purchaser described in **subparagraph (1)(a)(i) or (i.1), as the case may be**; or
+    the vendor described in subparagraph (1)(a)(i) or (i.1) applies for it within two years after the vendor sells the diesel fuel to the purchaser described in subparagraph (1)(a)(i) or (i.1), as the case may be; or
 
 
 ### Air Travellers Security Charge Act
@@ -2788,7 +2788,7 @@ The portion of subsection 292(7) of the Act before paragraph (a) is replaced by 
 
 The portion of subsection 38(6) of the `Air Travellers Security Charge Act` before paragraph (a) is replaced by the following:
 
-**(6)** The period between the day on which an application for the review of a requirement is made and the day on which the **application** is **finally disposed of** shall not be counted in the computation of
+**(6)** The period between the day on which an application for the review of a requirement is made and the day on which the application is finally disposed of shall not be counted in the computation of
 
 
 ### Excise Act, 2001
@@ -2823,7 +2823,7 @@ if an application is commenced by the Minister under subsection 209(1) to order 
 
 The portion of subsection 210(7) of the Act before paragraph (a) is replaced by the following:
 
-**(7)** The period between the day on which an application for the review of a requirement is made and the day on which the **application** is **finally disposed of** shall not be counted in the computation of
+**(7)** The period between the day on which an application for the review of a requirement is made and the day on which the application is finally disposed of shall not be counted in the computation of
 
 ### Section 66
 
@@ -2843,27 +2843,27 @@ The portion of subsection 210(7) of the Act before paragraph (a) is replaced by 
 
   **(2)** Paragraph 211(6)(l) of the Act is replaced by the following:
 
-    provide confidential information, or allow the inspection of or access to confidential information, as the case may be, solely for the purposes of a provision contained **in a tax treaty (as defined in subsection 248(1) of the `Income Tax Act`) or** in a listed international agreement;
+    provide confidential information, or allow the inspection of or access to confidential information, as the case may be, solely for the purposes of a provision contained in a tax treaty (as defined in subsection 248(1) of the `Income Tax Act`) or in a listed international agreement;
 
 ### Section 67
 
   **(1)** Paragraph (a) of the description of B in section 233.1 of the Act is replaced by the following:
 
-    if the **contravention** occurred in a specified province, 300% of the amount determined for A, and
+    if the contravention occurred in a specified province, 300% of the amount determined for A, and
 
   **(2)** Paragraph (a) of the description of C in section 233.1 of the Act is replaced by the following:
 
-    if the **contravention** occurred in a prescribed specified province, 200% of the amount determined for paragraph (b) of the description of A, and
+    if the contravention occurred in a prescribed specified province, 200% of the amount determined for paragraph (b) of the description of A, and
 
 ### Section 68
 
   **(1)** Paragraph (a) of the description of B in section 234.1 of the Act is replaced by the following:
 
-    if the **contravention** occurred in a specified province, 300% of the amount determined for A, and
+    if the contravention occurred in a specified province, 300% of the amount determined for A, and
 
   **(2)** Paragraph (a) of the description of C in section 234.1 of the Act is replaced by the following:
 
-    if the **contravention** occurred in a prescribed specified province, 200% of the amount determined for paragraph (b) of the description of A, and
+    if the contravention occurred in a prescribed specified province, 200% of the amount determined for paragraph (b) of the description of A, and
 
 
 ## Various Measures
@@ -2878,79 +2878,79 @@ The portion of subsection 210(7) of the Act before paragraph (a) is replaced by 
 
   **(1)** The definitions **beer** or **malt liquor** and **wine** in section 21 of the `Customs Tariff` are replaced by the following:
 
-    **beer** or **malt liquor** means beer or malt liquor, within the meaning of section 4 of the `Excise Act`, of tariff item No. **2202.91.00** or heading 22.03, that is classified under that heading or tariff item or with the container in which it is imported. (**bière** ou **liqueur de malt**)
+    **beer** or **malt liquor** means beer or malt liquor, within the meaning of section 4 of the `Excise Act`, of tariff item No. 2202.91.00 or heading 22.03, that is classified under that heading or tariff item or with the container in which it is imported. (**bière** ou **liqueur de malt**)
 
-    **wine** means wine, as defined in section 2 of the `Excise Act, 2001`, of heading 22.04, 22.05 or 22.06, other than of tariff item No. 2204.10.90, 2204.21.32, 2204.21.49, **2204.22.32**, **2204.22.49**, 2204.29.32, 2204.29.49, 2204.30.90, 2205.10.30, 2205.90.30, 2206.00.19, 2206.00.22, 2206.00.39, 2206.00.49, 2206.00.72 or 2206.00.93, that is classified under that heading or with the container in which it is imported. (**vin**)
+    **wine** means wine, as defined in section 2 of the `Excise Act, 2001`, of heading 22.04, 22.05 or 22.06, other than of tariff item No. 2204.10.90, 2204.21.32, 2204.21.49, 2204.22.32, 2204.22.49, 2204.29.32, 2204.29.49, 2204.30.90, 2205.10.30, 2205.90.30, 2206.00.19, 2206.00.22, 2206.00.39, 2206.00.49, 2206.00.72 or 2206.00.93, that is classified under that heading or with the container in which it is imported. (**vin**)
 
   **(2)** Paragraph (a) of the definition **spirits** in section 21 of the Act is replaced by the following:
 
-    of an alcoholic strength by volume exceeding 22.9%, of tariff item No. 2204.10.90, 2204.21.32, 2204.21.49, **2204.22.32**, **2204.22.49**, 2204.29.32, 2204.29.49, 2204.30.90, 2205.10.30, 2205.90.30, 2206.00.19, 2206.00.22, 2206.00.39, 2206.00.49, 2206.00.72 or 2206.00.93, that are classified under that tariff item or with the container in which they are imported;
+    of an alcoholic strength by volume exceeding 22.9%, of tariff item No. 2204.10.90, 2204.21.32, 2204.21.49, 2204.22.32, 2204.22.49, 2204.29.32, 2204.29.49, 2204.30.90, 2205.10.30, 2205.90.30, 2206.00.19, 2206.00.22, 2206.00.39, 2206.00.49, 2206.00.72 or 2206.00.93, that are classified under that tariff item or with the container in which they are imported;
 
 ### Section 70
 
 Paragraph 69(5)(b) of the Act is replaced by the following:
 
-in respect of a fresh fruit, the rate of customs duty applicable to that fruit set out in the applicable tariff item referred to in Supplementary Note **3**(b) in Chapter 8 of the List of Tariff Provisions.
+in respect of a fresh fruit, the rate of customs duty applicable to that fruit set out in the applicable tariff item referred to in Supplementary Note 3(b) in Chapter 8 of the List of Tariff Provisions.
 
 ### Section 71
 
 Paragraph 70(7)(b) of the Act is replaced by the following:
 
-in respect of a fresh fruit, the rate of customs duty applicable to that fruit set out in the applicable tariff item referred to in Supplementary Note **3**(b) in Chapter 8 of the List of Tariff Provisions.
+in respect of a fresh fruit, the rate of customs duty applicable to that fruit set out in the applicable tariff item referred to in Supplementary Note 3(b) in Chapter 8 of the List of Tariff Provisions.
 
 ### Section 72
 
 Paragraph 71(7)(b) of the Act is replaced by the following:
 
-in respect of a fresh fruit, the rate of customs duty applicable to that fruit set out in the applicable tariff item referred to in Supplementary Note **3**(b) in Chapter 8 of the List of Tariff Provisions.
+in respect of a fresh fruit, the rate of customs duty applicable to that fruit set out in the applicable tariff item referred to in Supplementary Note 3(b) in Chapter 8 of the List of Tariff Provisions.
 
 ### Section 73
 
 Paragraph 71.1(8)(b) of the Act is replaced by the following:
 
-in respect of a fresh fruit, the rate of customs duty applicable to that fruit set out in the applicable tariff item referred to in Supplementary Note **3**(b) in Chapter 8 of the List of Tariff Provisions.
+in respect of a fresh fruit, the rate of customs duty applicable to that fruit set out in the applicable tariff item referred to in Supplementary Note 3(b) in Chapter 8 of the List of Tariff Provisions.
 
 ### Section 74
 
   **(1)** Paragraph 71.2(3)(a) of the Act is replaced by the following:
 
-    may not, in the case of tariff item Nos. 8901.20.90, 8902.00.10, **8905.20.11**, **8905.20.19**, 8905.20.20, **8905.90.11**, **8905.90.19** and 8906.90.99, be made more than once during the period beginning on the day that is three years after the day on which this subsection comes into force and ending on the day before the day that is 10 years after the day on which this subsection comes into force in respect of goods of a particular kind and, if made during that period, remains in effect for the period, not exceeding three years, specified in the order; and
+    may not, in the case of tariff item Nos. 8901.20.90, 8902.00.10, 8905.20.11, 8905.20.19, 8905.20.20, 8905.90.11, 8905.90.19 and 8906.90.99, be made more than once during the period beginning on the day that is three years after the day on which this subsection comes into force and ending on the day before the day that is 10 years after the day on which this subsection comes into force in respect of goods of a particular kind and, if made during that period, remains in effect for the period, not exceeding three years, specified in the order; and
 
   **(2)** Paragraph 71.2(7)(b) of the Act is replaced by the following:
 
-    in respect of a fresh fruit, the rate of customs duty applicable to that fruit set out in the applicable tariff item referred to in Supplementary Note **3**(b) in Chapter 8 of the List of Tariff Provisions.
+    in respect of a fresh fruit, the rate of customs duty applicable to that fruit set out in the applicable tariff item referred to in Supplementary Note 3(b) in Chapter 8 of the List of Tariff Provisions.
 
 ### Section 75
 
   **(1)** Paragraph 71.3(3)(a) of the Act is replaced by the following:
 
-    may not, in the case of tariff item Nos. 8901.20.90, 8902.00.10, **8905.20.11**, **8905.20.19**, 8905.20.20, **8905.90.11**, **8905.90.19** and 8906.90.99, be made more than once during the period beginning on the day that is three years after the day on which this subsection comes into force and ending on the day before the day that is 10 years after the day on which this subsection comes into force in respect of goods of a particular kind and, if made during that period, remains in effect for the period, not exceeding three years, specified in the order; and
+    may not, in the case of tariff item Nos. 8901.20.90, 8902.00.10, 8905.20.11, 8905.20.19, 8905.20.20, 8905.90.11, 8905.90.19 and 8906.90.99, be made more than once during the period beginning on the day that is three years after the day on which this subsection comes into force and ending on the day before the day that is 10 years after the day on which this subsection comes into force in respect of goods of a particular kind and, if made during that period, remains in effect for the period, not exceeding three years, specified in the order; and
 
   **(2)** Paragraph 71.3(7)(b) of the Act is replaced by the following:
 
-    in respect of a fresh fruit, the rate of customs duty applicable to that fruit set out in the applicable tariff item referred to in Supplementary Note **3**(b) in Chapter 8 of the List of Tariff Provisions.
+    in respect of a fresh fruit, the rate of customs duty applicable to that fruit set out in the applicable tariff item referred to in Supplementary Note 3(b) in Chapter 8 of the List of Tariff Provisions.
 
 ### Section 76
 
   **(1)** Paragraph 71.4(3)(a) of the Act is replaced by the following:
 
-    may not, in the case of tariff item Nos. 8901.20.90, 8902.00.10, **8905.20.11**, **8905.20.19**, 8905.20.20, **8905.90.11**, **8905.90.19** and 8906.90.99, be made more than once during the period beginning on the day that is three years after the day on which this subsection comes into force and ending on the day before the day that is 10 years after the day on which this subsection comes into force in respect of goods of a particular kind and, if made during that period, remains in effect for the period, not exceeding three years, specified in the order; and
+    may not, in the case of tariff item Nos. 8901.20.90, 8902.00.10, 8905.20.11, 8905.20.19, 8905.20.20, 8905.90.11, 8905.90.19 and 8906.90.99, be made more than once during the period beginning on the day that is three years after the day on which this subsection comes into force and ending on the day before the day that is 10 years after the day on which this subsection comes into force in respect of goods of a particular kind and, if made during that period, remains in effect for the period, not exceeding three years, specified in the order; and
 
   **(2)** Paragraph 71.4(7)(b) of the Act is replaced by the following:
 
-    in respect of a fresh fruit, the rate of customs duty applicable to that fruit set out in the applicable tariff item referred to in Supplementary Note **3**(b) in Chapter 8 of the List of Tariff Provisions.
+    in respect of a fresh fruit, the rate of customs duty applicable to that fruit set out in the applicable tariff item referred to in Supplementary Note 3(b) in Chapter 8 of the List of Tariff Provisions.
 
 ### Section 77
 
 Paragraph 71.6(6)(b) of the Act is replaced by the following:
 
-in respect of a fresh fruit, the rate of customs duty applicable to that fruit set out in the applicable tariff item referred to in Supplementary Note **3**(b) in Chapter 8 of the List of Tariff Provisions.
+in respect of a fresh fruit, the rate of customs duty applicable to that fruit set out in the applicable tariff item referred to in Supplementary Note 3(b) in Chapter 8 of the List of Tariff Provisions.
 
 ### Section 78
 
 Subsection 134(2) of the Act is replaced by the following:
 
-**(2)** The Minister of Public Safety and Emergency Preparedness or President of the Canada Border Services Agency may, by order, suspend for a specified period a tariff item referred to in Supplementary Note **3**(c) of Chapter 8 of the List of Tariff Provisions, and bring into force for the period one or more tariff items referred to in Supplementary Note **3**(b) of that Chapter, in respect of goods that are imported through a customs office in a region or part of Canada specified in the order during that period.
+**(2)** The Minister of Public Safety and Emergency Preparedness or President of the Canada Border Services Agency may, by order, suspend for a specified period a tariff item referred to in Supplementary Note 3(c) of Chapter 8 of the List of Tariff Provisions, and bring into force for the period one or more tariff items referred to in Supplementary Note 3(b) of that Chapter, in respect of goods that are imported through a customs office in a region or part of Canada specified in the order during that period.
 
 ### Section 79
 
@@ -3110,7 +3110,7 @@ The Description of Goods of tariff item No. 8539.90.10 in the List of Tariff Pro
 
 ### Section 112
 
-The Description of Goods of heading 85.48 in the List of Tariff Provisions set out in the schedule to the French version of the Act is amended by replacing the reference to "éléctrique" with a reference to "éléctriques".
+The Description of Goods of heading 85.48 in the List of Tariff Provisions set out in the schedule to the French version of the Act is amended by replacing the reference to "éléctrique" with a reference to "électriques".
 
 ### Section 113
 
@@ -3597,7 +3597,7 @@ The Act is amended by adding the following after section 450:
 
 ### Section 451
 
-      **(1)** Subject to subsections (2) to (**4.4**), no company shall acquire control of, or hold, acquire or increase a substantial investment in, any entity other than a permitted entity.
+      **(1)** Subject to subsections (2) to (4.4), no company shall acquire control of, or hold, acquire or increase a substantial investment in, any entity other than a permitted entity.
 
   **(2)** Section 451 of the Act is amended by adding the following after subsection (4):
 
@@ -3648,7 +3648,7 @@ The Act is amended by adding the following after section 465:
 
 ### Section 466
 
-      **(1)** Subject to subsections (2) to (**4.4**), no bank shall acquire control of, or hold, acquire or increase a substantial investment in, any entity other than a permitted entity.
+      **(1)** Subject to subsections (2) to (4.4), no bank shall acquire control of, or hold, acquire or increase a substantial investment in, any entity other than a permitted entity.
 
   **(2)** Section 466 of the Act is amended by adding the following after subsection (4):
 
@@ -3730,7 +3730,7 @@ The Act is amended by adding the following after section 927:
 
 ### Section 928
 
-      **(1)** Subject to subsections (2) **to (3.4)**, no bank holding company shall acquire control of, or hold, acquire or increase a substantial investment in, any entity other than a permitted entity.
+      **(1)** Subject to subsections (2) to (3.4), no bank holding company shall acquire control of, or hold, acquire or increase a substantial investment in, any entity other than a permitted entity.
 
   **(2)** Section 928 of the Act is amended by adding the following after subsection (3):
 
@@ -3781,7 +3781,7 @@ The Act is amended by adding the following after section 492:
 
 ### Section 493
 
-      **(1)** Subject to subsections (2) to (**4.4**), no company shall acquire control of, or hold, acquire or increase a substantial investment in, any entity other than a permitted entity.
+      **(1)** Subject to subsections (2) to (4.4), no company shall acquire control of, or hold, acquire or increase a substantial investment in, any entity other than a permitted entity.
 
   **(2)** Section 493 of the Act is amended by adding the following after subsection (4):
 
@@ -3823,7 +3823,7 @@ The Act is amended by adding the following after section 551:
 
 ### Section 552
 
-      **(1)** Subject to subsections (2) **to (3.4)**, no society shall acquire control of, or hold, acquire or increase a substantial investment in, any entity other than a permitted entity.
+      **(1)** Subject to subsections (2) to (3.4), no society shall acquire control of, or hold, acquire or increase a substantial investment in, any entity other than a permitted entity.
 
   **(2)** Section 552 of the Act is amended by adding the following after subsection (3):
 
@@ -3865,7 +3865,7 @@ The Act is amended by adding the following after section 968:
 
 ### Section 969
 
-      **(1)** Subject to subsections (2) **to (3.4)**, no insurance holding company shall acquire control of, or hold, acquire or increase a substantial investment in, any entity other than a permitted entity.
+      **(1)** Subject to subsections (2) to (3.4), no insurance holding company shall acquire control of, or hold, acquire or increase a substantial investment in, any entity other than a permitted entity.
 
   **(2)** Section 969 of the Act is amended by adding the following after subsection (3):
 
@@ -3931,9 +3931,9 @@ Section 1037 of the `Insurance Companies Act` is amended by adding the following
 
 Subsection 331(3) of the English version of the `Budget Implementation Act, 2018, No. 1` is amended by replacing the paragraphs 495(4.2)(a) and (b) that it enacts with the following:
 
-imposing terms and conditions in respect of the acquisition of control of, or acquisition or increase of a substantial investment in, an entity that a property and casualty company, or a marine company, may acquire control of, or acquire or increase a substantial investment in, under subsection (**4.1**); and
+imposing terms and conditions in respect of the acquisition of control of, or acquisition or increase of a substantial investment in, an entity that a property and casualty company, or a marine company, may acquire control of, or acquire or increase a substantial investment in, under subsection (4.1); and
 
-respecting the circumstances in which a property and casualty company, or a marine company, may acquire control of, or acquire or increase a substantial investment in, an entity under subsection (**4.1**).
+respecting the circumstances in which a property and casualty company, or a marine company, may acquire control of, or acquire or increase a substantial investment in, an entity under subsection (4.1).
 
 
 ###### Coordinating Amendments
@@ -3972,7 +3972,7 @@ guarantee the payment of the fees of, and the costs incurred by any person as, t
 
 The portion of subsection 10.1(3) of the Act before paragraph (a) is replaced by the following:
 
-**(3)** The total principal indebtedness outstanding at any time in respect of borrowings **by the Corporation** under subsections (1) and (2), **excluding the borrowings under paragraph 60.2(2)(c) of the `Financial Administration Act`**, shall not exceed
+**(3)** The total principal indebtedness outstanding at any time in respect of borrowings by the Corporation under subsections (1) and (2), excluding the borrowings under paragraph 60.2(2)(c) of the `Financial Administration Act`, shall not exceed
 
 ### Section 159
 
@@ -3986,7 +3986,7 @@ Section 12.1 of the Act is amended by adding the following after subsection (4):
 
 ### Section 13
 
-      **(1)** **When** a person has deposits with two or more member institutions that amalgamate and continue in operation as one member institution, in this section referred to as the "amalgamated institution", a deposit of that person with an amalgamating institution on the day on which the amalgamated institution is formed, less any withdrawals from the deposit, shall, for the **purposes** of deposit insurance with the Corporation, be deemed to be and continue to be separate from any deposit of that person on that day with the other amalgamating institution or institutions that become part of the amalgamated institution **for a period of two years or, in the case of a term deposit with a remaining term exceeding two years, to the maturity of the term deposit**.
+      **(1)** When a person has deposits with two or more member institutions that amalgamate and continue in operation as one member institution, in this section referred to as the "amalgamated institution", a deposit of that person with an amalgamating institution on the day on which the amalgamated institution is formed, less any withdrawals from the deposit, shall, for the purposes of deposit insurance with the Corporation, be deemed to be and continue to be separate from any deposit of that person on that day with the other amalgamating institution or institutions that become part of the amalgamated institution for a period of two years or, in the case of a term deposit with a remaining term exceeding two years, to the maturity of the term deposit.
 
   **(2)** Section 13 of the Act is amended by adding the following after subsection (4):
 
@@ -4004,13 +4004,13 @@ Section 20 of the Act is replaced by the following:
 
 ### Section 20
 
-The Corporation shall maintain **funds for the purpose of carrying out its objects**.
+The Corporation shall maintain funds for the purpose of carrying out its objects.
 
 ### Section 163
 
 Subsection 21(5) of the Act is replaced by the following:
 
-**(5)** For the purposes of this section, a member institution may use any method approved by the Corporation **for that premium year** to determine or estimate the aggregate amount of its deposits that are considered to be insured by the Corporation.
+**(5)** For the purposes of this section, a member institution may use any method approved by the Corporation for that premium year to determine or estimate the aggregate amount of its deposits that are considered to be insured by the Corporation.
 
 ### Section 164
 
@@ -4263,7 +4263,7 @@ Section 29.3 of the `Canada–Newfoundland and Labrador Atlantic Accord Implemen
 
 ### Section 29.3
 
-  ****(1)**** **Subject to subsection (2)**, one half of the amounts of the fees and charges obtained in accordance with regulations made under section 29.1 shall be paid to the credit of the Receiver General and the other half shall be paid to the credit of Her Majesty in right of the Province, in the time and manner prescribed under those regulations.
+  **(1)** Subject to subsection (2), one half of the amounts of the fees and charges obtained in accordance with regulations made under section 29.1 shall be paid to the credit of the Receiver General and the other half shall be paid to the credit of Her Majesty in right of the Province, in the time and manner prescribed under those regulations.
 
   **(2)** If the fees and charges referred to in subsection (1) are related to the powers, duties or functions of the Board for the administration of the pricing mechanisms for greenhouse gas emissions referred to in subsection 164.3(1), they shall be paid in their entirety to the credit of Her Majesty in right of the Province.
 
@@ -4328,13 +4328,13 @@ Despite section 164.2 of the `Canada–Newfoundland and Labrador Atlantic Accord
 
 Subsection 53(5) of the `Offshore Health and Safety Act` is replaced by the following:
 
-**(5)** Unless repealed on an earlier date, the `Canada–Newfoundland and Labrador Offshore Marine Installations and Structures Occupational Health and Safety Transitional Regulations`, the `Canada–Newfoundland and Labrador Offshore Marine Installations and Structures Transitional Regulations` and the `Canada–Newfoundland and Labrador Offshore Area Diving Operations Safety Transitional Regulations` are repealed on the expiry of **six** years after the day on which this section comes into force.
+**(5)** Unless repealed on an earlier date, the `Canada–Newfoundland and Labrador Offshore Marine Installations and Structures Occupational Health and Safety Transitional Regulations`, the `Canada–Newfoundland and Labrador Offshore Marine Installations and Structures Transitional Regulations` and the `Canada–Newfoundland and Labrador Offshore Area Diving Operations Safety Transitional Regulations` are repealed on the expiry of six years after the day on which this section comes into force.
 
 ### Section 180
 
 Subsection 92(5) of the Act is replaced by the following:
 
-**(5)** Unless repealed on an earlier date, the `Canada–Nova Scotia Offshore Marine Installations and Structures Occupational Health and Safety Transitional Regulations`, the `Canada–Nova Scotia Offshore Marine Installations and Structures Transitional Regulations` and the `Canada–Nova Scotia Offshore Area Diving Operations Safety Transitional Regulations` are repealed on the expiry of **six** years after the day on which this section comes into force.
+**(5)** Unless repealed on an earlier date, the `Canada–Nova Scotia Offshore Marine Installations and Structures Occupational Health and Safety Transitional Regulations`, the `Canada–Nova Scotia Offshore Marine Installations and Structures Transitional Regulations` and the `Canada–Nova Scotia Offshore Area Diving Operations Safety Transitional Regulations` are repealed on the expiry of six years after the day on which this section comes into force.
 
 
 #### Coming into Force
@@ -4373,7 +4373,7 @@ The `Canada Business Corporations Act` is amended by adding the following after 
 
     an interest or right, or a combination of interests or rights, referred to in paragraph (1)(a) is held jointly by those individuals; or
 
-    a right, or combination of rights referred to in paragraph (1)(a), is subject to any agreement or arrangement under which the right or rights are to be exercised jointly or in concert by those individuals.
+    a right, or combination of rights**,** referred to in paragraph (1)(a) is subject to any agreement or arrangement under which the right or rights are to be exercised jointly or in concert by those individuals.
 
   **(3)** For the purposes of this section, a significant number of shares of a corporation is
 
@@ -4399,7 +4399,7 @@ The Act is amended by adding the following after section 21:
 
     any other prescribed information; and
 
-    a description of each step taken in accordance with subsection (**2**).
+    a description of each step taken in accordance with subsection (2).
 
   **(2)** At least once during each financial year of the corporation, the corporation shall take reasonable steps to ensure that it has identified all individuals with significant control over the corporation and that the information in the register is accurate, complete and up-to-date.
 
@@ -4497,23 +4497,23 @@ Sections `182` to `185` come into force on the day that, in the sixth month afte
 
 ### Section 10
 
-      **(1)** Subject to subsections (2) to (6) and section 20, all patents, applications for patents and documents **relating to** patents or applications for patents **that are** in **the possession of the Patent Office** shall be open to public inspection at the Patent Office, under **any** conditions **that** may be prescribed.
+      **(1)** Subject to subsections (2) to (6) and section 20, all patents, applications for patents and documents relating to patents or applications for patents that are in the possession of the Patent Office shall be open to public inspection at the Patent Office, under any conditions that may be prescribed.
 
   **(2)** Subsection 10(2) of the English version of the Act is replaced by the following:
 
-    **(2)** Except with the approval of the applicant, an application for a patent, or a document **relating to** the application, shall not be open to public inspection before a confidentiality period of **18** months has expired.
+    **(2)** Except with the approval of the applicant, an application for a patent, or a document relating to the application, shall not be open to public inspection before a confidentiality period of 18 months has expired.
 
 ### Section 188
 
 Subsection 27(5) of the Act is replaced by the following:
 
-**(5)** For greater certainty, **if** a claim defines the subject-matter of an invention in the alternative, each alternative is a separate claim for the purposes of sections 2, 28.1 to 28.3, **56** and 78.3.
+**(5)** For greater certainty, if a claim defines the subject-matter of an invention in the alternative, each alternative is a separate claim for the purposes of sections 2, 28.1 to 28.3, 56 and 78.3.
 
 ### Section 189
 
 Subsection 36(4) of the Act is replaced by the following:
 
-**(4)** A divisional application shall be deemed to be a separate and distinct application under this Act, to which its provisions apply as fully as may be, and separate fees shall be paid on the divisional application and, **except for the purposes of subsections 27(6) and (7)**, it shall have the same filing date as the original application.
+**(4)** A divisional application shall be deemed to be a separate and distinct application under this Act, to which its provisions apply as fully as may be, and separate fees shall be paid on the divisional application and, except for the purposes of subsections 27(6) and (7), it shall have the same filing date as the original application.
 
 ### Section 190
 
@@ -4665,9 +4665,9 @@ Section 78.2 of the Act is replaced by the following:
 
 ### Section 78.2
 
-  **(1)** Subject to **subsections (2) and** (3), any matter arising on or after **the day on which this subsection comes into force** in respect of a patent issued on the basis of an application **whose filing date is** before October 1, 1989 shall be dealt with and disposed of in accordance with sections 38.1, 45, 46 and 48.1 to 48.5 and with the provisions of this Act, other than **sections** 46 **and 56**, as they read immediately before October 1, 1989.
+  **(1)** Subject to subsections (2) and (3), any matter arising on or after the day on which this subsection comes into force in respect of a patent issued on the basis of an application whose filing date is before October 1, 1989 shall be dealt with and disposed of in accordance with sections 38.1, 45, 46 and 48.1 to 48.5 and with the provisions of this Act, other than sections 46 and 56, as they read immediately before October 1, 1989.
 
-  **(2)** The provisions of this Act that apply as provided in **subsection** (1) shall be read subject to any amendments to this Act, other than the amendments that came into force on October 1, 1989 or October 1, 1996 **or that were made by sections `188`, `189`, and `195` of the `Budget Implementation Act, 2018, No 2`**.
+  **(2)** The provisions of this Act that apply as provided in subsection (1) shall be read subject to any amendments to this Act, other than the amendments that came into force on October 1, 1989 or October 1, 1996 or that were made by sections `188`, `189`, and `195` of the `Budget Implementation Act, 2018, No 2`.
 
   **(3)** Section 56 of the `Patent Act`, as it read immediately before October 1, 1989, applies in respect of a purchase, construction or acquisition made before October 1, 1996 of an invention for which a patent is issued on the basis of an application filed before October 1, 1989.
 
@@ -4730,7 +4730,7 @@ Section 55.3 and paragraph 124(1)(f) of the `Patent Act` apply in respect of any
 
 Subsection 118(5) of the `Economic Action Plan 2014 Act, No. 2` is amended by replacing the paragraph 12(1)(j.75) that it enacts with the following:
 
-establishing a period for the purposes of **subsections** 55.11(3), **(7) and (9)**;
+establishing a period for the purposes of subsections 55.11(3), (7) and (9);
 
 ### Section 205
 
@@ -4740,7 +4740,7 @@ Section 119 of the Act is amended by repealing the section 15.1 that it enacts.
 
 Subsection 125(1) of the Act is amended by replacing the subsection 28.4(2.1) that it enacts with the following:
 
-**(2.1)** **Except for the purposes of subsection 10(3)**, a request for priority is deemed never to have been made if the request is not made in accordance with the regulations or if the applicant does not submit the information, other than the number of each previously regularly filed application, required under subsection (2).
+**(2.1)** Except for the purposes of subsection 10(3), a request for priority is deemed never to have been made if the request is not made in accordance with the regulations or if the applicant does not submit the information, other than the number of each previously regularly filed application, required under subsection (2).
 
 ### Section 207
 
@@ -4748,13 +4748,13 @@ Subsection 125(1) of the Act is amended by replacing the subsection 28.4(2.1) th
 
 ### Section 55.11
 
-      **(1)** This section applies only in respect of the following patents **and certificates of supplementary protection that set out the following patents**:
+      **(1)** This section applies only in respect of the following patents and certificates of supplementary protection that set out the following patents:
 
   **(2)** Section 136 of the Act is amended by replacing the subsections 55.11(2) to (4) that it enacts with the following:
 
-    **(2)** **If**, during a period that is established by regulations made under paragraph 12(1)(j.74) **that relates to a patent**, a person, in good faith, committed an act that would otherwise constitute an infringement of **that** patent, that act **is not an** infringement of the patent.
+    **(2)** If, during a period that is established by regulations made under paragraph 12(1)(j.74) that relates to a patent, a person, in good faith, committed an act that would otherwise constitute an infringement of that patent, that act is not an infringement of the patent.
 
-    **(3)** **Subject to subsection (4)**, if — during a period established by regulations made under paragraph 12(1)(j.75) **that relates to a patent** — a person, in good faith, committed an act that would otherwise constitute an infringement of **that** patent or made serious and effective preparations to commit that act, **it is not an** infringement of **the** patent **or any certificate of supplementary protection that sets out the patent** if the person commits **the act after that period**.
+    **(3)** Subject to subsection (4), if — during a period established by regulations made under paragraph 12(1)(j.75) that relates to a patent — a person, in good faith, committed an act that would otherwise constitute an infringement of that patent or made serious and effective preparations to commit that act, it is not an infringement of the patent or any certificate of supplementary protection that sets out the patent if the person commits the act after that period.
 
     **(4)** If the act referred to in subsection (3) is committed or the preparations to commit it are made in the course of a business and that business, or the part of that business in the course of which the act was committed or the preparations were made, is subsequently transferred,
 
@@ -4762,7 +4762,7 @@ Subsection 125(1) of the Act is amended by replacing the subsection 28.4(2.1) th
 
       it is not an infringement of the patent or any certificate of supplementary protection that sets out the patent if the transferee commits the act after the transfer.
 
-    **(**5**)** The use or sale of an article **is not an** infringement of a patent **or any certificate of supplementary protection that sets out the patent** if **that article** was acquired, directly or indirectly, from a person **who, at the time they disposed of it, could, under** subsection (2) or (3) **or paragraph (4)(b), sell the article without infringing the patent or the certificate**.
+    **(5)** The use or sale of an article is not an infringement of a patent or any certificate of supplementary protection that sets out the patent if that article was acquired, directly or indirectly, from a person who, at the time they disposed of it, could, under subsection (2) or (3) or paragraph (4)(b), sell the article without infringing the patent or the certificate.
 
     **(6)** The use of a service is not an infringement of a patent if the service is provided by a person who, under subsection (2) or (3) or paragraph (4)(b), is able to provide it without infringing the patent.
 
@@ -4790,7 +4790,7 @@ Section 140 of the Act is amended by replacing the section 78.53 that it enacts 
 
   **(1)** Subject to subsection 78.55(2), any matter arising on or after the coming-into-force date, in respect of a patent granted on the basis of an application whose filing date is before October 1, 1989, shall be dealt with and disposed of in accordance with
 
-    the provisions of this Act, other than the definitions claim date, filing date and request for priority in section 2, sections 10, 27 to 28.4, 34.1 to 36, 38.2 and 55, paragraphs 55.11(1)(a) and (b) and **section 56**; and
+    the provisions of this Act, other than the definitions claim date, filing date and request for priority in section 2, sections 10, 27 to 28.4, 34.1 to 36, 38.2 and 55, paragraphs 55.11(1)(a) and (b) and section 56; and
 
     sections 10 and 55 and subsections 61(1) and (3), as they read immediately before October 1, 1989.
 
@@ -4854,7 +4854,7 @@ Subsection 135(11) of the `Canada–European Union Comprehensive Economic and Tr
 
     subsections 55.11(2) to (10) of the `Patent Act` are replaced by the following:
 
-    **(2)** If, during a period that is established by regulations made under paragraph 12(1)(j.74) that relates to a patent, a person, in good faith, committed an act that would otherwise constitute an infringement of **that** patent, that act **is not an** infringement of the patent.
+    **(2)** If, during a period that is established by regulations made under paragraph 12(1)(j.74) that relates to a patent, a person, in good faith, committed an act that would otherwise constitute an infringement of that patent, that act is not an infringement of the patent.
 
     **(3)** Subject to subsection (4), if — during a period established by regulations made under paragraph 12(1)(j.75) that relates to a patent — a person, in good faith, committed an act that would otherwise constitute an infringement of that patent or made serious and effective preparations to commit that act, it is not an infringement of the patent or any certificate of supplementary protection that sets out the patent if the person commits the act after that period.
 
@@ -4953,7 +4953,7 @@ Subsection 135(11) of the `Canada–European Union Comprehensive Economic and Tr
 
 Paragraph (a) of the definition **pays d'origine** in section 2 of the French version of the `Trade-marks Act` is replaced by the following:
 
-Le pays de l'Union où l'auteur d'une demande d'enregistrement d'une marque de commerce avait, à la date de la demande, un établissement industriel ou commercial effectif et **sérieux**;
+Le pays de l'Union où l'auteur d'une demande d'enregistrement d'une marque de commerce avait, à la date de la demande, un établissement industriel ou commercial effectif et sérieux;
 
 ### Section 215
 
@@ -5068,13 +5068,13 @@ Section 53.2 of the Act is amended by adding the following after subsection (1):
 
 Subsection 56(5) of the Act is replaced by the following:
 
-**(5)** **If**, on an appeal under subsection (1), **the Federal Court grants leave to adduce** evidence in addition to that adduced before the Registrar, the Court may exercise, **with respect to that additional evidence**, any discretion vested in the Registrar.
+**(5)** If, on an appeal under subsection (1), the Federal Court grants leave to adduce evidence in addition to that adduced before the Registrar, the Court may exercise, with respect to that additional evidence, any discretion vested in the Registrar.
 
 ### Section 227
 
 Section 65 of the Act is amended by striking out "and" at the end of paragraph (m) and by replacing paragraph (n) with the following:
 
-**respecting the awarding of costs under subsections 11.13(9), 38.1(1) and 45(4.1);**
+respecting the awarding of costs under subsections 11.13(9), 38.1(1) and 45(4.1);
 
 respecting requests made under subsection 45.1(1); and
 
@@ -5102,7 +5102,7 @@ No person shall oppose an application for registration of a trademark on the gro
 
 Subsection 70(2) of the Act is replaced by the following:
 
-**(2)** For greater certainty, a regulation made under **this Act** applies to an application referred to in subsection (1), unless the regulation provides otherwise.
+**(2)** For greater certainty, a regulation made under this Act applies to an application referred to in subsection (1), unless the regulation provides otherwise.
 
 
 ##### Economic Action Plan 2014 Act, No. 1
@@ -5111,7 +5111,7 @@ Subsection 70(2) of the Act is replaced by the following:
 
 Subsection 326(4) of the `Economic Action Plan 2014 Act, No. 1` is amended by replacing the subsection 12(3) that it enacts with the following:
 
-**(3)** A trademark that is not registrable by reason of paragraph (1)(a) or (b) is registrable if it is distinctive at the filing date of an application for its registration, **determined without taking into account subsection 34(1)**, having regard to all the circumstances of the case including the length of time during which it has been used.
+**(3)** A trademark that is not registrable by reason of paragraph (1)(a) or (b) is registrable if it is distinctive at the filing date of an application for its registration, determined without taking into account subsection 34(1), having regard to all the circumstances of the case including the length of time during which it has been used.
 
 ### Section 232
 
@@ -5119,23 +5119,23 @@ Section 339 of the Act is amended by replacing the portion of subsection 32(1) b
 
 ### Section 32
 
-  **(1)** An applicant shall furnish the Registrar with any evidence that the Registrar may require establishing that the trademark is distinctive at the filing date of the application for its registration, **determined without taking into account subsection 34(1)**, if any of the following apply:
+  **(1)** An applicant shall furnish the Registrar with any evidence that the Registrar may require establishing that the trademark is distinctive at the filing date of the application for its registration, determined without taking into account subsection 34(1), if any of the following apply:
 
 ### Section 233
 
 Subsection 343(2) of the Act is amended by replacing the paragraphs 38(2)(e) and (f) that it enacts with the following:
 
-that, at the filing date of the application in Canada, **determined without taking into account subsection 34(1)**, the applicant was not using and did not propose to use the trademark in Canada in association with the goods or services specified in the application; or
+that, at the filing date of the application in Canada, determined without taking into account subsection 34(1), the applicant was not using and did not propose to use the trademark in Canada in association with the goods or services specified in the application; or
 
-that, at the filing date of the application in Canada, **determined without taking into account subsection 34(1)**, the applicant was not entitled to use the trademark in Canada in association with those goods or services.
+that, at the filing date of the application in Canada, determined without taking into account subsection 34(1), the applicant was not entitled to use the trademark in Canada in association with those goods or services.
 
 ### Section 234
 
 Section 344 of the Act is amended by replacing the paragraphs 39(1)(a) and (b) that it enacts with the following:
 
-within the scope of the original application on its filing date, **determined without taking into account subsection 34(1)**; and
+within the scope of the original application on its filing date, determined without taking into account subsection 34(1); and
 
-within the scope of the original application **on the day on which the divisional application is filed**, if the divisional application is filed on or after the day on which the **original** application is advertised under subsection 37(1).
+within the scope of the original application on the day on which the divisional application is filed, if the divisional application is filed on or after the day on which the original application is advertised under subsection 37(1).
 
 ### Section 235
 
@@ -5152,7 +5152,7 @@ within the scope of the original application on the day on which the divisional 
 
 Subsection 15(4) of the `Combating Counterfeit Products Act` is amended by replacing the subsection 12(3) that it enacts with the following:
 
-**(3)** A trade-mark that is not registrable by reason of paragraph (1)(a) or (b) is registrable if it is distinctive at the filing date of an application for its registration, **determined without taking into account subsection 34(1)**, having regard to all the circumstances of the case including the length of time during which it has been used.
+**(3)** A trade-mark that is not registrable by reason of paragraph (1)(a) or (b) is registrable if it is distinctive at the filing date of an application for its registration, determined without taking into account subsection 34(1), having regard to all the circumstances of the case including the length of time during which it has been used.
 
 ### Section 237
 
@@ -5160,15 +5160,15 @@ Section 31 of the Act is amended by replacing the portion of subsection 32(1) be
 
 ### Section 32
 
-  **(1)** An applicant shall furnish the Registrar with any evidence that the Registrar may require establishing that the trade-mark is distinctive at the filing date of the application for its registration, **determined without taking into account subsection 34(1)**, if any of the following apply:
+  **(1)** An applicant shall furnish the Registrar with any evidence that the Registrar may require establishing that the trade-mark is distinctive at the filing date of the application for its registration, determined without taking into account subsection 34(1), if any of the following apply:
 
 ### Section 238
 
 Section 36 of the Act is amended by replacing the paragraphs 39.1(1)(a) and (b) that it enacts with the following:
 
-within the scope of the original application on its filing date, **determined without taking into account subsection 34(1)**; and
+within the scope of the original application on its filing date, determined without taking into account subsection 34(1); and
 
-within the scope of the original application **on the day on which the divisional application is filed**, if the divisional application is filed on or after the day on which the **original** application is advertised under subsection 37(1).
+within the scope of the original application on the day on which the divisional application is filed, if the divisional application is filed on or after the day on which the original application is advertised under subsection 37(1).
 
 
 ##### Coordinating Amendments
@@ -5299,19 +5299,19 @@ The portion of subsection 41.26(1) of the Act before paragraph (a) is replaced b
 
 ### Section 41.26
 
-  **(1)** A person described in paragraph 41.25(1)(a) or (b) who receives a notice of claimed infringement that complies with **subsections** 41.25(2) **and (3)** shall, on being paid any fee that the person has lawfully charged for doing so,
+  **(1)** A person described in paragraph 41.25(1)(a) or (b) who receives a notice of claimed infringement that complies with subsections 41.25(2) and (3) shall, on being paid any fee that the person has lawfully charged for doing so,
 
 ### Section 245
 
 Subsection 41.27(3) of the Act is replaced by the following:
 
-**(3)** If the provider receives a notice of claimed infringement, relating to a work or other subject-matter, that complies with **subsections** 41.25(2) **and (3)** after the work or other subject-matter has been removed from the electronic location set out in the notice, then subsection (1) applies, with respect to reproductions made from that electronic location, only to infringements that occurred before the day that is 30 days — or the period that may be prescribed by regulation — after the day on which the provider receives the notice.
+**(3)** If the provider receives a notice of claimed infringement, relating to a work or other subject-matter, that complies with subsections 41.25(2) and (3) after the work or other subject-matter has been removed from the electronic location set out in the notice, then subsection (1) applies, with respect to reproductions made from that electronic location, only to infringements that occurred before the day that is 30 days — or the period that may be prescribed by regulation — after the day on which the provider receives the notice.
 
 ### Section 246
 
 Paragraph 62(1)(c) of the Act is replaced by the following:
 
-prescribing the form of a notice of claimed infringement referred to in **section** 41.25 and prescribing **the** information **that must** be **and that is not permitted to be** contained in it;
+prescribing the form of a notice of claimed infringement referred to in section 41.25 and prescribing the information that must be and that is not permitted to be contained in it;
 
 
 #### College of Patent Agents and Trade-mark Agents Act
@@ -5430,7 +5430,7 @@ have the status of bankrupt;
 
 are a member of an association whose primary purpose is to represent the interests of persons who provide advice on patents or trade-marks;
 
-were, within the preceding 12 months, a member of a governing body or a committee of an association referred to in paragraph (c);
+were, within the preceding 12 months, a member of a governing body or a **steering** committee of an association referred to in paragraph (c);
 
 in the case of an appointment to the Board,
 
@@ -5476,7 +5476,7 @@ become bankrupt;
 
 become a member of an association whose primary purpose is to represent the interests of persons who provide advice on patents or trade-marks;
 
-become a member of a governing body or a committee of an association referred to in paragraph (d);
+become a member of a governing body or a **steering** committee of an association referred to in paragraph (d);
 
 are removed from office under section `16`;
 
@@ -6292,13 +6292,13 @@ Sections 15 and 16 of the Act are repealed.
 
   **(1)** Paragraph 16.1(1)(a) of the Act is replaced by the following:
 
-    it is between **a** patent **agent** and **their** client;
+    it is between a patent agent and their client;
 
   **(2)** Subsections 16.1(4) and (5) of the Act are replaced by the following:
 
-    **(4)** A communication between an individual who is authorized to act as **the equivalent of** a patent agent under the law of a country other than Canada and that individual's client that is privileged under the law of that other country and that would be privileged under subsection (1) had it been made between **a** patent **agent** and **their** client is deemed to be a communication that meets the conditions set out in paragraphs (1)(a) to (c).
+    **(4)** A communication between an individual who is authorized to act as the equivalent of a patent agent under the law of a country other than Canada and that individual's client that is privileged under the law of that other country and that would be privileged under subsection (1) had it been made between a patent agent and their client is deemed to be a communication that meets the conditions set out in paragraphs (1)(a) to (c).
 
-    **(5)** For the purposes of this section, **a patent agent** or an individual who is authorized to act as **the equivalent of** a patent agent under the law of a country other than Canada includes an individual acting on their behalf and a client includes an individual acting on the client's behalf.
+    **(5)** For the purposes of this section, a patent agent or an individual who is authorized to act as the equivalent of a patent agent under the law of a country other than Canada includes an individual acting on their behalf and a client includes an individual acting on the client's behalf.
 
 ### Section 253
 
@@ -6306,7 +6306,7 @@ Section 78.1 of the Act is replaced by the following:
 
 ### Section 78.1
 
-Applications for patents in Canada filed before October 1, 1989 shall be dealt with and disposed of in accordance with section 38.1 and with the provisions of this Act, **other than section 15**, as they read immediately before October 1, 1989.
+Applications for patents in Canada filed before October 1, 1989 shall be dealt with and disposed of in accordance with section 38.1 and with the provisions of this Act, other than section 15, as they read immediately before October 1, 1989.
 
 
 ###### Privacy Act
@@ -6328,19 +6328,19 @@ Section 28 of the `Trade-marks Act` is repealed.
 
   **(2)** Subsection 29(2) of the Act is replaced by the following:
 
-    **(2)** The Registrar shall, on request and on payment of the prescribed fee, furnish a copy certified by the Registrar of any entry in the register or **list**, or of any of those applications, requests or documents.
+    **(2)** The Registrar shall, on request and on payment of the prescribed fee, furnish a copy certified by the Registrar of any entry in the register or list, or of any of those applications, requests or documents.
 
 ### Section 257
 
   **(1)** Paragraph 51.13(1)(a) of the Act is replaced by the following:
 
-    it is between **a** trade-mark **agent** and **their** client;
+    it is between a trade-mark agent and their client;
 
   **(2)** Subsections 51.13(4) and (5) of the Act are replaced by the following:
 
-    **(4)** A communication between an individual who is authorized to act as **the equivalent of** a trade-mark agent under the law of a country other than Canada and that individual's client that is privileged under the law of that other country and that would be privileged under subsection (1) had it been made between **a** trade-mark **agent** and **their** client is deemed to be a communication that meets the conditions set out in paragraphs (1)(a) to (c).
+    **(4)** A communication between an individual who is authorized to act as the equivalent of a trade-mark agent under the law of a country other than Canada and that individual's client that is privileged under the law of that other country and that would be privileged under subsection (1) had it been made between a trade-mark agent and their client is deemed to be a communication that meets the conditions set out in paragraphs (1)(a) to (c).
 
-    **(5)** For the purposes of this section, **a** trade-mark **agent** or an individual who is authorized to act as **the equivalent of** a trade-mark agent under the law of a country other than Canada includes an individual acting on their behalf and a client includes an individual acting on the client's behalf.
+    **(5)** For the purposes of this section, a trade-mark agent or an individual who is authorized to act as the equivalent of a trade-mark agent under the law of a country other than Canada includes an individual acting on their behalf and a client includes an individual acting on the client's behalf.
 
   **(3)** Section 51.13 of the Act is amended by adding the following after subsection (6):
 
@@ -6530,7 +6530,7 @@ section `249`, subsections `250`(1) and (3), sections `251` to `253` and `255` t
 
 Subsection 65.11(7) of the French version of the `Bankruptcy and Insolvency Act` is replaced by the following:
 
-**(7)** Si le débiteur a autorisé par contrat une personne à utiliser un droit de propriété intellectuelle, la résiliation n'empêche pas la personne de l'utiliser ni d'en faire respecter l'utilisation exclusive, à condition qu'elle respecte ses obligations contractuelles à l'égard de l'utilisation de ce droit, et ce, pour la période prévue au contrat et pour toute **prolongation de celle-ci** dont elle se **prévaut** de **plein droit**.
+**(7)** Si le débiteur a autorisé par contrat une personne à utiliser un droit de propriété intellectuelle, la résiliation n'empêche pas la personne de l'utiliser ni d'en faire respecter l'utilisation exclusive, à condition qu'elle respecte ses obligations contractuelles à l'égard de l'utilisation de ce droit, et ce, pour la période prévue au contrat et pour toute prolongation de celle-ci dont elle se prévaut de plein droit.
 
 ### Section 266
 
@@ -6617,7 +6617,7 @@ The head of a government institution may refuse to disclose any personal informa
 
 Paragraph 42(2)(g) of the `Pest Control Products Act` is replaced by the following:
 
-any advice from a person or body referred to in paragraph 44(1)(f), unless disclosure of the advice may be refused under section 23 **or 23.1** of the `Access to Information Act`;
+any advice from a person or body referred to in paragraph 44(1)(f), unless disclosure of the advice may be refused under section 23 or 23.1 of the `Access to Information Act`;
 
 
 ##### Coordinating Amendments
@@ -6645,7 +6645,7 @@ The head of a government institution may refuse to disclose any record requested
 
 Subsection 3(2) of the `National Research Council Act` is replaced by the following:
 
-**(2)** The Council is a **corporation** that has power to acquire, hold, **sell or otherwise dispose of and loan or lease** real, personal, movable and immovable property for the purposes of and subject to this Act.
+**(2)** The Council is a corporation that has power to acquire, hold, sell or otherwise dispose of and loan or lease real, personal, movable and immovable property for the purposes of and subject to this Act.
 
 ### Section 279
 
@@ -6667,75 +6667,75 @@ Subsection 3(2) of the `National Research Council Act` is replaced by the follow
 
 Paragraph (b) of the definition **collective society** in section 2 of the `Copyright Act` is replaced by the following:
 
-carries on the business of collecting and distributing royalties or levies payable **under** this Act **in relation to a repertoire of works, performer's performances, sound recordings or communication signals of more than one author, performer, sound recording maker or broadcaster**; (**société de gestion**)
+carries on the business of collecting and distributing royalties or levies payable under this Act in relation to a repertoire of works, performer's performances, sound recordings or communication signals of more than one author, performer, sound recording maker or broadcaster; (**société de gestion**)
 
 ### Section 281
 
 Paragraph 19(2)(a) of the Act is replaced by the following:
 
-in the case of a sound recording of a musical work, to the collective society authorized under Part **VII.1** to collect them; or
+in the case of a sound recording of a musical work, to the collective society authorized under Part VII.1 to collect them; or
 
 ### Section 282
 
 Paragraph 29.9(2)(c) of the Act is replaced by the following:
 
-respecting the sending of information to collective societies **that carry on the business of collecting royalties referred to in subsection 29.7(2) or (3)**.
+respecting the sending of information to collective societies that carry on the business of collecting royalties referred to in subsection 29.7(2) or (3).
 
 ### Section 283
 
 Paragraph 30.02(4)(b) of the Act is replaced by the following:
 
-there is a tariff **approved** under section **70** that is applicable to the digital reproduction of the work, to the communication of the digital reproduction by telecommunication to persons acting under the authority of the institution and to the printing by those persons of at least one copy of the work; or
+there is a tariff approved under section 70 that is applicable to the digital reproduction of the work, to the communication of the digital reproduction by telecommunication to persons acting under the authority of the institution and to the printing by those persons of at least one copy of the work; or
 
 ### Section 284
 
   **(1)** Subparagraphs 30.03(2)(a)(i) and (ii) of the English version of the Act are replaced by the following:
 
-    the amount of royalties that the institution would have had to pay for the digital reproduction of that work if the tariff had been **approved** on the day on which the institution first made a digital reproduction under paragraph 30.02(1)(a), and
+    the amount of royalties that the institution would have had to pay for the digital reproduction of that work if the tariff had been approved on the day on which the institution first made a digital reproduction under paragraph 30.02(1)(a), and
 
-    the amount of royalties that the institution paid to the society under paragraph 30.02(3)(a) for the digital reproduction of that work from the day on which that paragraph comes into force until the day on which the tariff is **approved**; and
+    the amount of royalties that the institution paid to the society under paragraph 30.02(3)(a) for the digital reproduction of that work from the day on which that paragraph comes into force until the day on which the tariff is approved; and
 
   **(2)** Subparagraphs 30.03(2)(b)(i) and (ii) of the English version of the Act are replaced by the following:
 
-    the amount of royalties that the institution paid to the society under paragraph 30.02(3)(a) for the digital reproduction of that work from the day on which that paragraph comes into force until the day on which the tariff is **approved**, and
+    the amount of royalties that the institution paid to the society under paragraph 30.02(3)(a) for the digital reproduction of that work from the day on which that paragraph comes into force until the day on which the tariff is approved, and
 
-    the amount of royalties that the institution would have had to pay for the digital reproduction of that work if the tariff had been **approved** on the day on which the institution first made a digital reproduction under paragraph 30.02(1)(a).
+    the amount of royalties that the institution would have had to pay for the digital reproduction of that work if the tariff had been approved on the day on which the institution first made a digital reproduction under paragraph 30.02(1)(a).
 
 ### Section 285
 
 Paragraphs 30.3(2)(b) to (d) of the Act are replaced by the following:
 
-the Board has, in accordance with **subsection 71(2)**, fixed the **royalty rates** and related terms and conditions;
+the Board has, in accordance with subsection 71(2), fixed the royalty rates and related terms and conditions;
 
-a tariff has been approved in accordance with section **70**; or
+a tariff has been approved in accordance with section 70; or
 
-a collective society has filed a proposed tariff in accordance with section **68**.
+a collective society has filed a proposed tariff in accordance with section 68.
 
 ### Section 286
 
 Subparagraphs 34(4)(c)(i) and (ii) of the Act are replaced by the following:
 
-a tariff **approved** by the Board under Part **VII.1** or VIII, or
+a tariff approved by the Board under Part VII.1 or VIII, or
 
-agreements referred to in **subsection 67(3)**.
+agreements referred to in subsection 67(3).
 
 ### Section 287
 
 Subsection 38.1(4) of the Act is replaced by the following:
 
-**(4)** A collective society or copyright owner who has authorized a collective society to act on their behalf may make an election under this section with respect to an act set out in subsection (4.1) only if applicable royalties are set out in an approved tariff or fixed under subsection 71(2) and the defendant has not paid them. **If they make the election, the collective society or copyright owner may only recover, in lieu of any other remedy of a monetary nature provided by this Act, an award of statutory damages in respect of such acts in a sum of not less than three and not more than ten times the amount of the applicable royalties, as the court considers just.**
+**(4)** A collective society or copyright owner who has authorized a collective society to act on their behalf may make an election under this section with respect to an act set out in subsection (4.1) only if applicable royalties are set out in an approved tariff or fixed under subsection 71(2) and the defendant has not paid them. If they make the election, the collective society or copyright owner may only recover, in lieu of any other remedy of a monetary nature provided by this Act, an award of statutory damages in respect of such acts in a sum of not less than three and not more than ten times the amount of the applicable royalties, as the court considers just.
 
 **(4.1)** Subsection (4) applies with respect to the following acts:
 
-  the performance in public of musical works or dramatico-musical works or of performer's performances of such works; and
+  the performance in public of musical works or dramatico-musical works, of performer's performances of such works, or **of sound recordings embodying such works or performances**; and
 
-  the communication to the public by telecommunication of musical works or dramatico-musical works, other than as described in subsection 31(2), or of performer's performances of such works.
+  the communication to the public by telecommunication of musical works or dramatico-musical works, other than as described in subsection 31(2), of performer's performances of such works, or **of sound recordings embodying such works or performances**.
 
 ### Section 288
 
 Paragraph 38.2(1)(b) of the Act is replaced by the following:
 
-under a tariff **approved** by the Board **under** section **70**.
+under a tariff approved by the Board under section 70.
 
 ### Section 289
 
@@ -6750,15 +6750,15 @@ The headings before section 66 of the Act are replaced by the following:
 
 ### Section 66
 
-      **(1)** There is established a Board to be known as the Copyright Board, consisting of not more than five members, including a **Chair** and a **Vice-chair**, to be appointed by the Governor in Council.
+      **(1)** There is established a Board to be known as the Copyright Board, consisting of not more than five members, including a Chair and a Vice-chair, to be appointed by the Governor in Council.
 
   **(2)** Subsection 66(3) of the Act is replaced by the following:
 
-    **(3)** The **Chair** must be a judge, either sitting or retired, of a superior court.
+    **(3)** The Chair must be a judge, either sitting or retired, of a superior court.
 
   **(3)** The portion of subsection 66(7) of the English version of the Act before paragraph (a) is replaced by the following:
 
-    **(7)** A full-time member of the Board, other than the **Chair**, **is** deemed to be employed in
+    **(7)** A full-time member of the Board, other than the Chair, is deemed to be employed in
 
 ### Section 291
 
@@ -6766,11 +6766,11 @@ Section 66.1 of the English version of the Act is replaced by the following:
 
 ### Section 66.1
 
-  **(1)** The **Chair** shall direct the work of the Board and apportion its work among **its** members.
+  **(1)** The Chair shall direct the work of the Board and apportion its work among its members.
 
-  **(2)** If the **Chair** is absent or incapacitated or if the office of **Chair** is vacant, the **Vice-chair** has all the powers and functions of the **Chair** during the absence, incapacity or vacancy.
+  **(2)** If the Chair is absent or incapacitated or if the office of Chair is vacant, the Vice-chair has all the powers and functions of the Chair during the absence, incapacity or vacancy.
 
-  **(3)** The **Vice-chair** is the chief executive officer of the Board and has supervision over and direction of the Board and its staff.
+  **(3)** The Vice-chair is the chief executive officer of the Board and has supervision over and direction of the Board and its staff.
 
 ### Section 292
 
@@ -6818,7 +6818,7 @@ Section 66.52 of the Act is replaced by the following:
 
 ### Section 66.52
 
-A decision of the Board respecting royalties or their related terms and conditions that is made under subsection **70**(1), **71**(2), **76.1**(1) or 83(8) may, on application, be varied by the Board if, in its opinion, there has been a material change in circumstances since the decision was made.
+A decision of the Board respecting royalties or their related terms and conditions that is made under subsection 70(1), 71(2), 76.1(1) or 83(8) may, on application, be varied by the Board if, in its opinion, there has been a material change in circumstances since the decision was made.
 
 ### Section 294
 
@@ -6830,7 +6830,7 @@ Subsection 66.6(2) of the Act is replaced by the following:
 
   authorizing a case manager to give a direction or make an order that adapts, restricts or excludes the application of any provision of regulations made under subsection (1) to a matter or any step in a matter.
 
-**(2)** A copy of each regulation that the Board proposes to make under subsection (1) **or (1.1)** shall be published in the `Canada Gazette` at least 60 days before **the regulation's** proposed effective date, and a reasonable opportunity shall be given to interested persons to make representations with respect **to the regulation**.
+**(2)** A copy of each regulation that the Board proposes to make under subsection (1) or (1.1) shall be published in the `Canada Gazette` at least 60 days before the regulation's proposed effective date, and a reasonable opportunity shall be given to interested persons to make representations with respect to the regulation.
 
 ### Section 295
 
@@ -6842,7 +6842,7 @@ Section 66.91 of the Act is renumbered as subsection 66.91(1) and is amended by 
 
   establishing the minimum length of the effective period for the purposes of subsections `68.1`(2) and 83(4);
 
-  establishing a day for the purposes of paragraph `73.4`(b)**; and**
+  establishing a day for the purposes of paragraph `73.4`(b); and
 
   authorizing the Board or a case manager to give a direction or make an order that adapts, restricts or excludes the application of any provision of regulations made under any of paragraphs (a) to (c) to a matter or any step in a matter.
 
@@ -7020,7 +7020,7 @@ any other person or entity that, in the Board's opinion, ought to receive the co
 The Board shall not proceed with an application under section `71` in respect of any matter in issue on which an agreement has been reached, if a notice is filed with the Board that such an agreement has been reached.
 
 
-### **Special Rules Related to Royalty Rates**
+### Special Rules Related to Royalty Rates
 
 ### Section 72
 
@@ -7102,7 +7102,7 @@ An approved tariff and any royalty rates and related terms and conditions fixed 
 
 ### Claim by Copyright Owner — Particular Royalties
 
-### Section **75**
+### Section 75
 
   **(1)** An owner of copyright who does not authorize a collective society to collect, for that person's benefit, royalties referred to in paragraph 31(2)(d) is, if the work is communicated to the public by telecommunication during a period when an approved tariff that is applicable to that kind of work is effective, entitled to be paid those royalties by the collective society that is designated by the Board, of its own motion or on application, subject to the same conditions as those to which a person who has so authorized that collective society is subject.
 
@@ -7170,11 +7170,11 @@ Subsections 83(2) to (10) of the Act are replaced by the following:
 
 **(7.1)** The Board shall provide a copy of the filed reply to the person or entity that filed the objection.
 
-**(8)** **The Board shall, within the period that is established under regulations made under subsection 66.91(2),**
+**(8)** The Board shall, within the period that is established under regulations made under subsection 66.91(2),
 
   approve a proposed tariff, after making any alterations to the levy rates and the related terms and conditions, or fixing any new related terms and conditions, that the Board considers appropriate; and
 
-  **subject to subsection (8.2)**, designate as the collecting body the collective society or other society, association or corporation that, in the Board's opinion, will best fulfil the objects of sections 82, 84 and 86.
+  subject to subsection (8.2), designate as the collecting body the collective society or other society, association or corporation that, in the Board's opinion, will best fulfil the objects of sections 82, 84 and 86.
 
 **(8.1)** The related terms and conditions may include terms and conditions such as the form, content and frequency of the statements of account referred to in subsection 82(1), measures for the protection of confidential information contained in those statements, and the times at which the levies are payable.
 
@@ -7248,29 +7248,29 @@ This Subdivision comes into force on the later of the day on which this Act rece
 
     for the care of one or more new-born or adopted children as a result of a single pregnancy or placement is,
 
-    **if the maximum number of weeks that has been elected under subsection 23(1.1) is established under subparagraph (3)(b)(i)**, 35 **or, if the weeks for which benefits may be paid are divided in accordance with section 23, 40**, or
+    if the maximum number of weeks that has been elected under subsection 23(1.1) is established under subparagraph (3)(b)(i), 35 or, if the weeks for which benefits may be paid are divided in accordance with section 23, 40, or
 
-    **if the maximum number of weeks that has been elected under subsection 23(1.1) is established under subparagraph (3)(b)(ii)**, 61 **or, if the weeks for which benefits may be paid are divided in accordance with section 23, 69**.
+    if the maximum number of weeks that has been elected under subsection 23(1.1) is established under subparagraph (3)(b)(ii), 61 or, if the weeks for which benefits may be paid are divided in accordance with section 23, 69.
 
   **(2)** Subsection 12(4.01) of the Act is replaced by the following:
 
     **(4.01)** If a claim is made under this Part in respect of a child or children referred to in paragraph (4)(b) and a claim is made under section 152.05 in respect of the same child or children, the maximum number of weeks of benefits payable under this Act in respect of the child or children is,
 
-      **if the maximum number of weeks that has been elected under subsection 23(1.1) is established under subparagraph (3)(b)(i)**, 35 **or, if the weeks for which benefits may be paid are divided in accordance with section 23, 40**; or
+      if the maximum number of weeks that has been elected under subsection 23(1.1) is established under subparagraph (3)(b)(i), 35 or, if the weeks for which benefits may be paid are divided in accordance with section 23, 40; or
 
-      **if the maximum number of weeks that has been elected under subsection 23(1.1) is established under subparagraph (3)(b)(ii)**, 61 **or, if the weeks for which benefits may be paid are divided in accordance with section 23, 69**.
+      if the maximum number of weeks that has been elected under subsection 23(1.1) is established under subparagraph (3)(b)(ii), 61 or, if the weeks for which benefits may be paid are divided in accordance with section 23, 69.
 
 ### Section 304
 
 Subsections 23(4) and (4.1) of the Act are replaced by the following:
 
-**(4)** If two major attachment claimants each make a claim for benefits under this section — or if one major attachment claimant makes a claim for benefits under this section and an individual makes a claim for benefits under section 152.05 — in respect of the same child or children, **the** weeks of benefits payable under this section, under section 152.05 or under both those sections may be divided between them up to a maximum of **40**, if the maximum number of weeks **that has been elected under subsection (1.1) or 152.05(1.1)** is established under subparagraph 12(3)(b)(i) or 152.14(1)(b)(i), or up to a maximum of **69**, if that number of weeks is established under subparagraph 12(3)(b)(ii) or 152.14(1)(b)(ii). If they cannot agree, the weeks of benefits are to be divided in accordance with the prescribed rules.
+**(4)** If two major attachment claimants each make a claim for benefits under this section — or if one major attachment claimant makes a claim for benefits under this section and an individual makes a claim for benefits under section 152.05 — in respect of the same child or children, the weeks of benefits payable under this section, under section 152.05 or under both those sections may be divided between them up to a maximum of 40, if the maximum number of weeks that has been elected under subsection (1.1) or 152.05(1.1) is established under subparagraph 12(3)(b)(i) or 152.14(1)(b)(i), or up to a maximum of 69, if that number of weeks is established under subparagraph 12(3)(b)(ii) or 152.14(1)(b)(ii). If they cannot agree, the weeks of benefits are to be divided in accordance with the prescribed rules.
 
-**(4.1)** For greater certainty, if, in respect of the same child **or children**, a major attachment claimant makes a claim for benefits under this section and an individual makes a claim for benefits under section 152.05, the total number of weeks of benefits payable under this section and section 152.05 that may be divided between them may not exceed
+**(4.1)** For greater certainty, if, in respect of the same child or children, a major attachment claimant makes a claim for benefits under this section and an individual makes a claim for benefits under section 152.05, the total number of weeks of benefits payable under this section and section 152.05 that may be divided between them may not exceed
 
-  **40**, if the maximum number of weeks **that has been elected under subsection (1.1) or 152.05(1.1)** is established under subparagraph 12(3)(b)(i) or 152.14(1)(b)(i); or
+  40, if the maximum number of weeks that has been elected under subsection (1.1) or 152.05(1.1) is established under subparagraph 12(3)(b)(i) or 152.14(1)(b)(i); or
 
-  **69**, if that number of weeks is established under subparagraph 12(3)(b)(ii) or 152.14(1)(b)(ii).
+  69, if that number of weeks is established under subparagraph 12(3)(b)(ii) or 152.14(1)(b)(ii).
 
 **(4.11)** Even if the weeks of benefits payable are divided in accordance with subsections (4) and (4.1), the maximum number of weeks for which benefits may be paid to a claimant is 35 or 61 weeks, in accordance with the election made under subsection (1.1) or 152.05(1.1).
 
@@ -7278,13 +7278,13 @@ Subsections 23(4) and (4.1) of the Act are replaced by the following:
 
 Subsections 152.05(12) and (13) of the Act are replaced by the following:
 
-**(12)** If two self-employed persons each make a claim for benefits under this section — or if one self-employed person makes a claim for benefits under this section and another person makes a claim for benefits under section 23 — in respect of the same child or children, the weeks of benefits payable under this section, under section 23 or under both those sections may be divided between them up to a maximum of **40**, if the maximum number of weeks **that has been elected under subsection (1.1) or 23(1.1)** is established under subparagraph 152.14(1)(b)(i) or 12(3)(b)(i), or up to a maximum of **69**, if that number of weeks is established under subparagraph 152.14(1)(b)(ii) or 12(3)(b)(ii). If they cannot agree, the weeks of benefits are to be divided in accordance with the prescribed rules.
+**(12)** If two self-employed persons each make a claim for benefits under this section — or if one self-employed person makes a claim for benefits under this section and another person makes a claim for benefits under section 23 — in respect of the same child or children, the weeks of benefits payable under this section, under section 23 or under both those sections may be divided between them up to a maximum of 40, if the maximum number of weeks that has been elected under subsection (1.1) or 23(1.1) is established under subparagraph 152.14(1)(b)(i) or 12(3)(b)(i), or up to a maximum of 69, if that number of weeks is established under subparagraph 152.14(1)(b)(ii) or 12(3)(b)(ii). If they cannot agree, the weeks of benefits are to be divided in accordance with the prescribed rules.
 
 **(13)** For greater certainty, if, in respect of the same child or children, a self-employed person makes a claim for benefits under this section and another person makes a claim for benefits under section 23, the total number of weeks of benefits payable under this section and section 23 that may be divided between them may not exceed
 
-  **40**, if the maximum number of weeks **that has been elected under subsection (1.1) or 23(1.1)** is established under subparagraph 152.14(1)(b)(i) or 12(3)(b)(i); or
+  40, if the maximum number of weeks that has been elected under subsection (1.1) or 23(1.1) is established under subparagraph 152.14(1)(b)(i) or 12(3)(b)(i); or
 
-  **69**, if that number of weeks is established under subparagraph 152.14(1)(b)(ii) or 12(3)(b)(ii).
+  69, if that number of weeks is established under subparagraph 152.14(1)(b)(ii) or 12(3)(b)(ii).
 
 **(13.01)** Even if the weeks of benefits payable are divided in accordance with subsections (12) and (13), the maximum number of weeks for which benefits may be paid to a claimant is 35 or 61 weeks, in accordance with the election made under subsection (1.1) or 23(1.1).
 
@@ -7298,17 +7298,17 @@ Subsections 152.05(12) and (13) of the Act are replaced by the following:
 
     for the care of one or more new-born or adopted children as a result of a single pregnancy or placement is,
 
-    **if the maximum number of weeks that has been elected under subsection 152.05(1.1) is established under subparagraph (1)(b)(i)**, 35 **or, if the weeks for which benefits may be paid are divided in accordance with section 152.05, 40**, or
+    if the maximum number of weeks that has been elected under subsection 152.05(1.1) is established under subparagraph (1)(b)(i), 35 or, if the weeks for which benefits may be paid are divided in accordance with section 152.05, 40, or
 
-    **if the maximum number of weeks that has been elected under subsection 152.05(1.1) is established under subparagraph (1)(b)(ii)**, 61 **or, if the weeks for which benefits may be paid are divided in accordance with section 152.05, 69**.
+    if the maximum number of weeks that has been elected under subsection 152.05(1.1) is established under subparagraph (1)(b)(ii), 61 or, if the weeks for which benefits may be paid are divided in accordance with section 152.05, 69.
 
   **(3)** Subsection 152.14(4) of the Act is replaced by the following:
 
     **(4)** If a claim is made under this Part in respect of a child or children referred to in paragraph (2)(b) and a claim is made under section 23 in respect of the same child or children, the maximum number of weeks of benefits payable under this Act in respect of the child or children is,
 
-      **if the maximum number of weeks that has been elected under subsection 152.05(1.1) is established under subparagraph (1)(b)(i)**, 35 **or, if the weeks for which benefits may be paid are divided in accordance with section 152.05, 40**; or
+      if the maximum number of weeks that has been elected under subsection 152.05(1.1) is established under subparagraph (1)(b)(i), 35 or, if the weeks for which benefits may be paid are divided in accordance with section 152.05, 40; or
 
-      **if the maximum number of weeks that has been elected under subsection 152.05(1.1) is established under subparagraph (1)(b)(ii)**, 61 **or, if the weeks for which benefits may be paid are divided in accordance with section 152.05, 69**.
+      if the maximum number of weeks that has been elected under subsection 152.05(1.1) is established under subparagraph (1)(b)(ii), 61 or, if the weeks for which benefits may be paid are divided in accordance with section 152.05, 69.
 
 
 ##### Transitional Provision
@@ -7352,7 +7352,7 @@ The `Employment Insurance Act`, as it read immediately before the day on which t
 
 Subsection 206.1(3) of the `Canada Labour Code` is replaced by the following:
 
-**(3)** The aggregate amount of leave that may be taken by **more than one employee** under this section in respect of the same birth or adoption shall not exceed **71** weeks, **but the amount of leave that may be taken by one employee under this section in respect of the same birth or adoption shall not exceed 63 weeks**.
+**(3)** The aggregate amount of leave that may be taken by more than one employee under this section in respect of the same birth or adoption shall not exceed 71 weeks, but the amount of leave that may be taken by one employee under this section in respect of the same birth or adoption shall not exceed 63 weeks.
 
 ### Section 311
 
@@ -7360,7 +7360,7 @@ Section 206.2 of the Act is replaced by the following:
 
 ### Section 206.2
 
-The aggregate amount of leave that may be taken by **more than** one **employee** under sections 206 and 206.1 in respect of the same birth shall not exceed **86** weeks, **but the aggregate amount of leave that may be taken by one employee under those sections in respect of the same birth shall not exceed 78 weeks**.
+The aggregate amount of leave that may be taken by more than one employee under sections 206 and 206.1 in respect of the same birth shall not exceed 86 weeks, but the aggregate amount of leave that may be taken by one employee under those sections in respect of the same birth shall not exceed 78 weeks.
 
 
 ##### Coordinating Amendment
@@ -7445,13 +7445,13 @@ Once a year, the President of the Treasury Board must make available to the publ
 
 The definition **external complaints body** in section 2 of the `Bank Act` is replaced by the following:
 
-**external complaints body** means a body corporate approved under subsection **627.48(1)** or designated under subsection **627.51(1)**; (**organisme externe de traitement des plaintes**)
+**external complaints body** means a body corporate approved under subsection 627.48(1) or designated under subsection 627.51(1); (**organisme externe de traitement des plaintes**)
 
 ### Section 316
 
 Paragraphs 157(2)(e) and (f) of the Act are replaced by the following:
 
-designate a committee of the board of directors to **perform the duties set out in section 195.1**; and
+designate a committee of the board of directors to perform the duties set out in section 195.1; and
 
 ### Section 317
 
@@ -7483,7 +7483,7 @@ Subsection 330(1) of the Act is replaced by the following:
 
 ### Section 330
 
-  **(1)** The auditors of a bank are entitled to receive notice of every meeting of **the committee designated under paragraph 157(2)(e), if that committee is to perform the duties set out in section 195.1 in that meeting**, **of** the audit committee and **of** the conduct review committee and, at the expense of the bank, to attend and be heard at that meeting.
+  **(1)** The auditors of a bank are entitled to receive notice of every meeting of the committee designated under paragraph 157(2)(e), if that committee is to perform the duties set out in section 195.1 in that meeting, of the audit committee and of the conduct review committee and, at the expense of the bank, to attend and be heard at that meeting.
 
 ### Section 319
 
@@ -7504,7 +7504,7 @@ The heading before section 439.1 and sections 439.1 to 459.5 of the Act are repl
 
 Subsection 524(2) of the Act is replaced by the following:
 
-**(2)** The order may be made subject to the restrictions referred to in **subsection** 540(1) and **the** requirements **referred to in section 627.74**.
+**(2)** The order may be made subject to the restrictions referred to in subsection 540(1) and the requirements referred to in section 627.74.
 
 ### Section 323
 
@@ -7514,7 +7514,7 @@ Subsections 540(2) and (3) of the Act are repealed.
 
 Paragraph 541(2)(b) of the Act is replaced by the following:
 
-sections **627.68** to **627.72 and 627.85**.
+sections 627.68 to 627.72 and 627.85.
 
 ### Section 325
 
@@ -7539,7 +7539,7 @@ Section 611 of the Act is replaced by the following:
 
 ### Section 611
 
-Subject to any regulations made under **paragraph 627.998(n)**, information obtained by an authorized foreign bank regarding any of its customers shall not be disclosed or made available under subsection 609(1) or section 610.
+Subject to any regulations made under paragraph 627.998(n), information obtained by an authorized foreign bank regarding any of its customers shall not be disclosed or made available under subsection 609(1) or section 610.
 
 ### Section 329
 
@@ -7573,7 +7573,7 @@ The Act is amended by adding the following after section 627:
 
     a variable rate of interest that is calculated on the basis of the institution's prime lending rate or bankers' acceptance rate. (**instrument de type dépôt**)
 
-    **eligible enterprise** means a business with authorized credit of less than $1,000**,000**, fewer than 500 employees and annual revenues of less than $50,000,000. (**entreprise admissible**)
+    **eligible enterprise** means a business with authorized credit of less than $1,000,000, fewer than 500 employees and annual revenues of less than $50,000,000. (**entreprise admissible**)
 
     **institution** means a bank or an authorized foreign bank. (**institution**)
 
@@ -9051,7 +9051,7 @@ Section 641 of the Act is replaced by the following:
 
 ### Section 641
 
-Subject to any regulations made under **paragraph 627.998(n)**, no information obtained by a bank regarding any of its customers shall be disclosed or made available under subsection 639(1) or section 640.
+Subject to any regulations made under paragraph 627.998(n), no information obtained by a bank regarding any of its customers shall be disclosed or made available under subsection 639(1) or section 640.
 
 ### Section 331
 
@@ -9065,11 +9065,11 @@ Subject to any regulations made under **paragraph 627.998(n)**, no information o
 
   **(2)** The portion of subsection 659(2) of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** The Commissioner, or a person acting under the Commissioner's direction, in carrying out his or her duties under **this section**
+    **(2)** The Commissioner, or a person acting under the Commissioner's direction, in carrying out his or her duties under this section
 
   **(3)** Paragraph 659(2)(b) of the Act is replaced by the following:
 
-    may require the directors or officers of a bank, authorized foreign bank or external complaints body to provide information and explanations, to the extent that they are reasonably able to do so, in respect of any matter subject to examination, inquiry **or audit** under **this section**.
+    may require the directors or officers of a bank, authorized foreign bank or external complaints body to provide information and explanations, to the extent that they are reasonably able to do so, in respect of any matter subject to examination, inquiry or audit under this section.
 
 ### Section 332
 
@@ -9097,7 +9097,7 @@ Section 974 of the Act is replaced by the following:
 
 ### Section 974
 
-An instrument issued or made under this Act and directed to a single bank, bank holding company, authorized foreign bank or person, other than a regulation made under **paragraph 627.998(o) or (p)** or an order referred to in section 499, is not a statutory instrument for the purposes of the `Statutory Instruments Act`.
+An instrument issued or made under this Act and directed to a single bank, bank holding company, authorized foreign bank or person, other than a regulation made under paragraph 627.998(o) or (p) or an order referred to in section 499, is not a statutory instrument for the purposes of the `Statutory Instruments Act`.
 
 ### Section 334
 
@@ -9162,7 +9162,7 @@ A body corporate that has been approved under section 455.01 of the `Bank Act`, 
 
   **(2)** Paragraph (a) of the definition **consumer provision** in section 2 of the Act is replaced by the following:
 
-    **paragraph** 157(2)(e), sections **195.1**, 273.1, **627.02 to 627.998** and **979.1 to 979.4** of the `Bank Act` together with any regulations made under or for the purposes of those provisions;
+    paragraph 157(2)(e), sections 195.1, 273.1, 627.02 to 627.998 and 979.1 to 979.4 of the `Bank Act` together with any regulations made under or for the purposes of those provisions;
 
 ### Section 337
 
@@ -9183,13 +9183,13 @@ The purpose of this Act is to ensure that financial institutions, external compl
 
   **(2)** Paragraphs 3(2)(b.1) to (d) of the Act are replaced by the following:
 
-    promote the adoption by financial institutions of policies and procedures designed to implement **provisions, terms and conditions, undertakings or directions referred to in paragraph (a) — as well as** voluntary codes of conduct that are adopted by financial institutions, and any public commitments made by them, that are designed to protect the **rights and** interests of their customers — **and** monitor the implementation of **those** voluntary codes and public commitments;
+    promote the adoption by financial institutions of policies and procedures designed to implement provisions, terms and conditions, undertakings or directions referred to in paragraph (a) — as well as voluntary codes of conduct that are adopted by financial institutions, and any public commitments made by them, that are designed to protect the rights and interests of their customers — and monitor the implementation of those voluntary codes and public commitments;
 
     promote the adoption by external complaints bodies of policies and procedures designed to implement the provisions, terms and conditions, undertakings or directions referred to in paragraph (a);
 
-    monitor and evaluate trends and emerging issues that may have an impact on consumers of financial products and services, **and make information on those trends and issues public**;
+    monitor and evaluate trends and emerging issues that may have an impact on consumers of financial products and services, and make information on those trends and issues public;
 
-    **strengthen the financial literacy of Canadians and** promote consumer awareness about the obligations of financial institutions and of external complaints bodies under **the** consumer provisions applicable to them and about all matters connected with the protection of consumers of financial products and services; and
+    strengthen the financial literacy of Canadians and promote consumer awareness about the obligations of financial institutions and of external complaints bodies under the consumer provisions applicable to them and about all matters connected with the protection of consumers of financial products and services; and
 
   **(3)** Paragraphs 3(2)(f) and (g) of the Act are repealed.
 
@@ -9235,7 +9235,7 @@ Section 6.1 of the Act is repealed.
 
   **(2)** Subsection 19(2) of the Act is replaced by the following:
 
-    **(2)** The maximum penalty for a violation is **$1,000,000** in the case of a violation that is committed by a natural person, and **$10,000,000** in the case of a violation that is committed by a financial institution or a payment card network operator.
+    **(2)** The maximum penalty for a violation is $1,000,000 in the case of a violation that is committed by a natural person, and $10,000,000 in the case of a violation that is committed by a financial institution or a payment card network operator.
 
 ### Section 345
 
@@ -9263,7 +9263,7 @@ Section 31 of the Act is replaced by the following:
 
 ### Section 31
 
-  ****(1)**** **Subject to any regulations,** the Commissioner **shall** make public the nature of a violation, the name of the person who committed it and the amount of the penalty imposed.
+  **(1)** Subject to any regulations, the Commissioner shall make public the nature of a violation, the name of the person who committed it and the amount of the penalty imposed.
 
   **(2)** In making public the nature of a violation, the Commissioner may include the reasons for his or her decision, including the relevant facts, analysis and considerations that formed part of the decision.
 
@@ -9310,15 +9310,15 @@ Schedule 1 to the Act is amended by replacing the references after the heading "
 
   **(2)** The preamble to the Act is amended by adding the following after the second paragraph:
 
-    **AND WHEREAS the Government of Canada is committed to implementing the `United Nations Declaration on the Rights of Indigenous Peoples`;**
+    AND WHEREAS the Government of Canada is committed to implementing the `United Nations Declaration on the Rights of Indigenous Peoples`;
 
 ### Section 353
 
   **(1)** The definitions **First Nation** and **First Nation land** in subsection 2(1) of the Act are replaced by the following:
 
-    **First Nation** means a band named in Schedule **1**. (**première nation)**
+    **First Nation** means a band named in Schedule 1. (**première nation)**
 
-    **First Nation land** means reserve land **or lands set aside** to which a land code applies. It includes all the interests or rights in, and resources of, the land that are within the legislative authority of Parliament. (**terres de la première nation**)
+    **First Nation land** means reserve land or lands set aside to which a land code applies. It includes all the interests or rights in, and resources of, the land that are within the legislative authority of Parliament. (**terres de la première nation**)
 
   **(2)** Subsection 2(1) of the Act is amended by adding the following in alphabetical order:
 
@@ -9328,9 +9328,9 @@ Schedule 1 to the Act is amended by replacing the references after the heading "
 
   **(1)** Paragraphs 5(b) and (c) of the Act are replaced by the following:
 
-    **reserve** land **to which a land code applies** continues to be set apart for the use and benefit of the First Nation for which it was set apart; and
+    reserve land to which a land code applies continues to be set apart for the use and benefit of the First Nation for which it was set apart; and
 
-    **reserve** land **to which a land code applies** continues to be land reserved for the Indians within the meaning of Class 24 of section 91 of the `Constitution Act, 1867`.
+    reserve land to which a land code applies continues to be land reserved for the Indians within the meaning of Class 24 of section 91 of the `Constitution Act, 1867`.
 
   **(2)** The Act is amended by adding the following after section 5:
 
@@ -9344,7 +9344,7 @@ Schedule 1 to the Act is amended by replacing the references after the heading "
 
 ### Section 6
 
-      **(1)** A First Nation that wishes to establish a land management regime in accordance with the Framework Agreement and this Act shall adopt a land code applicable to all land in a reserve of, **or in a parcel of lands set aside for**, the First Nation **and that** land code **shall** include the following matters:
+      **(1)** A First Nation that wishes to establish a land management regime in accordance with the Framework Agreement and this Act shall adopt a land code applicable to all land in a reserve of, or in a parcel of lands set aside for, the First Nation and that land code shall include the following matters:
 
   **(2)** Paragraph 6(1)(f) of the Act is repealed.
 
@@ -9356,7 +9356,7 @@ Schedule 1 to the Act is amended by replacing the references after the heading "
 
   **(4)** Subsection 6(2) of the Act is replaced by the following:
 
-    **(2)** For greater certainty, a First Nation may establish a land management regime for any or all of its reserves **or parcels of lands set aside**.
+    **(2)** For greater certainty, a First Nation may establish a land management regime for any or all of its reserves or parcels of lands set aside.
 
 ### Section 356
 
@@ -9388,7 +9388,7 @@ Section 6.1 of the Act is replaced by the following:
 
 ### Section 6.1
 
-If the Surveyor General prepares or causes to be prepared a description of lands under paragraph 6(1)(a) **or 6.01(1)(b)**, the Surveyor General may, if he or she considers it appropriate, survey or have those lands surveyed in accordance with the `Canada Lands Surveys Act`.
+If the Surveyor General prepares or causes to be prepared a description of lands under paragraph 6(1)(a) or 6.01(1)(b), the Surveyor General may, if he or she considers it appropriate, survey or have those lands surveyed in accordance with the `Canada Lands Surveys Act`.
 
 ### Section 357
 
@@ -9396,11 +9396,11 @@ If the Surveyor General prepares or causes to be prepared a description of lands
 
 ### Section 7
 
-      **(1)** Despite **subsections** 6(1) **and 6.01(1)**, a portion of a reserve **or of a parcel of lands set aside** may be excluded from the application of a land code if
+      **(1)** Despite subsections 6(1) and 6.01(1), a portion of a reserve or of a parcel of lands set aside may be excluded from the application of a land code if
 
   **(2)** Subsection 7(2) of the English version of the Act is replaced by the following:
 
-    **(2)** A portion of a reserve **or of a parcel of lands set aside shall** not be excluded from a land code if the exclusion would have the effect of placing the administration of a lease, other interest or a right in that land in more than one land management regime.
+    **(2)** A portion of a reserve or of a parcel of lands set aside shall not be excluded from a land code if the exclusion would have the effect of placing the administration of a lease, other interest or a right in that land in more than one land management regime.
 
 ### Section 358
 
@@ -9408,11 +9408,11 @@ If the Surveyor General prepares or causes to be prepared a description of lands
 
 ### Section 7.1
 
-      **(1)** Despite **subsections** 6(1) and **6.01(1)**, land may be excluded from the application of a land code if it is uncertain whether the land is located within the boundaries of the reserve **or of the parcel of lands set aside**.
+      **(1)** Despite subsections 6(1) and 6.01(1), land may be excluded from the application of a land code if it is uncertain whether the land is located within the boundaries of the reserve or of the parcel of lands set aside.
 
   **(2)** Subsection 7.1(3) of the Act is replaced by the following:
 
-    **(3)** The exclusion of the land does not preclude the First Nation or Her Majesty from asserting in an action, a lawsuit or other proceeding that the land is part of the reserve **or of the parcel of lands set aside**.
+    **(3)** The exclusion of the land does not preclude the First Nation or Her Majesty from asserting in an action, a lawsuit or other proceeding that the land is part of the reserve or of the parcel of lands set aside.
 
 ### Section 359
 
@@ -9420,17 +9420,17 @@ Section 7.2 of the Act is replaced by the following:
 
 ### Section 7.2
 
-A First Nation shall amend the description of First Nation land in its land code to include a portion of a reserve **or of a parcel of lands set aside that was** excluded under subsection 7(1) or land **that was** excluded under subsection 7.1(1) if the First Nation and the Minister agree that the condition that justified the exclusion no longer exists, and the individual agreement shall be amended accordingly.
+A First Nation shall amend the description of First Nation land in its land code to include a portion of a reserve or of a parcel of lands set aside that was excluded under subsection 7(1) or land that was excluded under subsection 7.1(1) if the First Nation and the Minister agree that the condition that justified the exclusion no longer exists, and the individual agreement shall be amended accordingly.
 
 ### Section 360
 
   **(1)** Paragraph 8(1)(b) of the Act is replaced by the following:
 
-    determine whether the conduct of a community approval process is in accordance with the process confirmed under paragraph (a), **unless a ratification officer is appointed under section 8.1**; and
+    determine whether the conduct of a community approval process is in accordance with the process confirmed under paragraph (a), unless a ratification officer is appointed under section 8.1; and
 
   **(2)** Subsection 8(2) of the Act is replaced by the following:
 
-    **(2)** The verifier shall determine any dispute arising between a First Nation and the Minister before a land code comes into force regarding the terms of the transfer of administration of land or the exclusion of a portion of a reserve **or of a parcel of lands set aside** from the application of a land code.
+    **(2)** The verifier shall determine any dispute arising between a First Nation and the Minister before a land code comes into force regarding the terms of the transfer of administration of land or the exclusion of a portion of a reserve or of a parcel of lands set aside from the application of a land code.
 
 ### Section 361
 
@@ -9444,9 +9444,9 @@ A First Nation may appoint a ratification officer who shall determine whether th
 
 Subsections 10(2) and (3) of the Act are replaced by the following:
 
-**(2)** Every person who is **18** years of age or over and **who is** a First Nation member, whether or not resident **on the land that is subject to the proposed land code**, is eligible to vote in the community approval process.
+**(2)** Every person who is 18 years of age or over and who is a First Nation member, whether or not resident on the land that is subject to the proposed land code, is eligible to vote in the community approval process.
 
-**(3)** The council shall, before proceeding to obtain community approval, take reasonable measures, such as those described in the Framework Agreement, to locate voters and inform them of their right to vote, the means of exercising that right and the content of the Framework Agreement, this Act, **any resolutions made under subsection 12(2)**, the proposed land code and the individual agreement.
+**(3)** The council shall, before proceeding to obtain community approval, take reasonable measures, such as those described in the Framework Agreement, to locate voters and inform them of their right to vote, the means of exercising that right and the content of the Framework Agreement, this Act, any resolutions made under subsection 12(2), the proposed land code and the individual agreement.
 
 **(3.1)** The council may conduct a vote by electronic means.
 
@@ -9460,7 +9460,7 @@ If a ratification officer is appointed under section 8.1, he or she shall perfor
 
 ### Section 12
 
-  **(1)** **Subject to subsection (2)**, a proposed land code and an individual agreement that have been submitted for community approval are approved if a majority of eligible voters who participated in the vote voted to approve them.
+  **(1)** Subject to subsection (2), a proposed land code and an individual agreement that have been submitted for community approval are approved if a majority of eligible voters who participated in the vote voted to approve them.
 
   **(2)** A council may, by resolution,
 
@@ -9496,11 +9496,11 @@ If a ratification officer is appointed under section 8.1, he or she shall perfor
 
 ### Section 15
 
-      **(1)** Subject to subsection (1.1), a land code comes into force and has the force of law on the day **that is** specified in the land code, and judicial notice shall be taken of the land code in any proceedings from the date of the coming into force of that land code.
+      **(1)** Subject to subsection (1.1), a land code comes into force and has the force of law on the day that is specified in the land code, and judicial notice shall be taken of the land code in any proceedings from the date of the coming into force of that land code.
 
   **(2)** Subsection 15(2) of the Act is replaced by the following:
 
-    **(2)** **Without delay after the coming into force** of the land code of a First Nation **or of any amendment to the land code, the First Nation** shall **publish the land code on its website, if it has one**. The **First Nation shall also make a copy of it available, on request, to any person**.
+    **(2)** Without delay after the coming into force of the land code of a First Nation or of any amendment to the land code, the First Nation shall publish the land code on its website, if it has one. The First Nation shall also make a copy of it available, on request, to any person.
 
 ### Section 367
 
@@ -9518,7 +9518,7 @@ Section 19 of the Act is replaced by the following:
 
 ### Section 19
 
-  ****(1)**** **Subject to section 46.1**, on the coming into force of the land code of a First Nation, all revenue moneys **and capital moneys** held by Her Majesty for the use and benefit of the First Nation or its First Nation members cease to be Indian moneys and shall be transferred to the First Nation. **All revenue moneys and capital moneys** collected or received **by Her Majesty for the use and benefit of the First Nation or its First Nation members after the transfer are not Indian moneys and shall be transferred to the First Nation**.
+  **(1)** Subject to section 46.1, on the coming into force of the land code of a First Nation, all revenue moneys and capital moneys held by Her Majesty for the use and benefit of the First Nation or its First Nation members cease to be Indian moneys and shall be transferred to the First Nation. All revenue moneys and capital moneys collected or received by Her Majesty for the use and benefit of the First Nation or its First Nation members after the transfer are not Indian moneys and shall be transferred to the First Nation.
 
   **(2)** Her Majesty is not liable in respect of anything done or omitted to be done in relation to the management of revenue moneys or capital moneys transferred to a First Nation under this Act by the First Nation or any person or body authorized by the First Nation to act in relation to those moneys.
 
@@ -9536,7 +9536,7 @@ Section 19 of the Act is replaced by the following:
 
     limits on the liability of, and defences and immunities for, any person or body in respect of an act or omission occurring in the exercise of a power or the performance of a duty or function under a First Nation law or the land code; and
 
-    any matter arising out of or ancillary to the exercise of **the** power **to enact laws under paragraphs (a) to (d)**.
+    any matter arising out of or ancillary to the exercise of the power to enact laws under paragraphs (a) to (d).
 
   **(2)** Subsection 20(3) of the Act is replaced by the following:
 
@@ -9548,7 +9548,7 @@ Section 19 of the Act is replaced by the following:
 
     **(2.4)** A First Nation law enacted under paragraph (1)(d) shall not provide for greater limits on liability, defences and immunities than those that would apply to a person or body exercising a similar power or performing a similar duty or function under the laws of the province in which the First Nation land is situated.
 
-    **(3)** A First Nation law may provide for enforcement measures, consistent with federal laws **or the laws of the province in which the First Nation land is situated**, such as the power to inspect, search and seize and to order compulsory sampling, testing and the production of information.
+    **(3)** A First Nation law may provide for enforcement measures, consistent with federal laws or the laws of the province in which the First Nation land is situated, such as the power to inspect, search and seize and to order compulsory sampling, testing and the production of information.
 
     **(3.1)** If a First Nation has, under another Act of Parliament, enacted laws or made by-laws respecting the enforcement of laws or by-laws respecting the taxation for local purposes of reserve lands, interests or rights in reserve lands or rights to occupy, possess or use reserve lands, the First Nation may use the enforcement measures provided for in those laws or by-laws to enforce the payment of any amount payable to the First Nation under its First Nation laws or its land code.
 
@@ -9580,7 +9580,7 @@ Section 23 of the Act is replaced by the following:
 
 ### Section 23
 
-In any proceedings, a copy of a First Nation law appearing to be certified as a true copy by an officer of the First Nation — **or, in the case of a First Nation law that applies to First Nation land that is a reserve referred to in subsection 6.01(1), by an officer of any of the First Nations for whose use and benefit the reserve has been set apart** — is, without proof of the officer's signature or official character, evidence of its enactment on the date specified in the law.
+In any proceedings, a copy of a First Nation law appearing to be certified as a true copy by an officer of the First Nation — or, in the case of a First Nation law that applies to First Nation land that is a reserve referred to in subsection 6.01(1), by an officer of any of the First Nations for whose use and benefit the reserve has been set apart — is, without proof of the officer's signature or official character, evidence of its enactment on the date specified in the law.
 
 ### Section 373
 
@@ -9629,13 +9629,13 @@ The Act is amended by adding the following after section 25:
 
 Paragraph 27(1)(a) of the Act is replaced by the following:
 
-compensation for the First Nation land includes land that Her Majesty has agreed will be set apart as a reserve **or set aside as a parcel of lands set aside** and that is to become First Nation land; and
+compensation for the First Nation land includes land that Her Majesty has agreed will be set apart as a reserve or set aside as a parcel of lands set aside and that is to become First Nation land; and
 
 ### Section 376
 
 Subsection 31(2) of the Act is replaced by the following:
 
-**(2)** Land provided to a First Nation as compensation may be of an area that is less than the area of the land in which an interest or right has been expropriated if the total area of the land comprised in a reserve of **or in the lands set aside for** the First Nation is not less following the expropriation than at the coming into force of its land code.
+**(2)** Land provided to a First Nation as compensation may be of an area that is less than the area of the land in which an interest or right has been expropriated if the total area of the land comprised in a reserve of or in the lands set aside for the First Nation is not less following the expropriation than at the coming into force of its land code.
 
 ### Section 377
 
@@ -9643,15 +9643,15 @@ Sections 35 and 36 of the Act are replaced by the following:
 
 ### Section 35
 
-No criminal or civil proceedings lie against an arbitrator, mediator, neutral evaluator, verifier **or ratification officer** appointed under the Framework Agreement or this Act or any member of a board established by section 38 of the Framework Agreement who is, in good faith, exercising a power or performing a duty or function in accordance with the Framework Agreement or this Act for anything done or omitted to be done during the course of the exercise or purported exercise of any power or the performance or purported performance of any duty or function of that person in accordance with the Framework Agreement or this Act.
+No criminal or civil proceedings lie against an arbitrator, mediator, neutral evaluator, verifier or ratification officer appointed under the Framework Agreement or this Act or any member of a board established by section 38 of the Framework Agreement who is, in good faith, exercising a power or performing a duty or function in accordance with the Framework Agreement or this Act for anything done or omitted to be done during the course of the exercise or purported exercise of any power or the performance or purported performance of any duty or function of that person in accordance with the Framework Agreement or this Act.
 
 ### Section 36
 
-  **(1)** Every determination under this Act or the Framework Agreement by a verifier, **ratification officer** or arbitrator is final, and no order shall be made, process entered or proceedings taken in any court, whether by way of injunction, certiorari, prohibition, mandamus, quo warranto or otherwise, to question, review or prohibit such a determination.
+  **(1)** Every determination under this Act or the Framework Agreement by a verifier, ratification officer or arbitrator is final, and no order shall be made, process entered or proceedings taken in any court, whether by way of injunction, certiorari, prohibition, mandamus, quo warranto or otherwise, to question, review or prohibit such a determination.
 
-  **(2)** No order shall be made, process entered or proceedings taken in any court, whether by way of injunction, certiorari, prohibition, mandamus, quo warranto or otherwise, to question, review or prohibit any other action under this Act or the Framework Agreement by a verifier, **ratification officer** or arbitrator or any action under the Framework Agreement by a neutral evaluator.
+  **(2)** No order shall be made, process entered or proceedings taken in any court, whether by way of injunction, certiorari, prohibition, mandamus, quo warranto or otherwise, to question, review or prohibit any other action under this Act or the Framework Agreement by a verifier, ratification officer or arbitrator or any action under the Framework Agreement by a neutral evaluator.
 
-  **(3)** **Despite** subsections (1) and (2), the Attorney General of Canada or anyone directly affected by the matter in respect of which relief is sought may make an application under the `Federal Courts Act` on any of the grounds referred to in paragraph 18.1(4)(a) or (b) of that Act for any relief against a verifier, **ratification officer**, arbitrator or neutral evaluator by way of an injunction or declaration or by way of an order in the nature of certiorari, prohibition, mandamus or quo warranto.
+  **(3)** Despite subsections (1) and (2), the Attorney General of Canada or anyone directly affected by the matter in respect of which relief is sought may make an application under the `Federal Courts Act` on any of the grounds referred to in paragraph 18.1(4)(a) or (b) of that Act for any relief against a verifier, ratification officer, arbitrator or neutral evaluator by way of an injunction or declaration or by way of an order in the nature of certiorari, prohibition, mandamus or quo warranto.
 
 ### Section 378
 
@@ -9665,7 +9665,7 @@ No criminal or civil proceedings lie against an arbitrator, mediator, neutral ev
 
   **(3)** Subsection 38(3) of the Act is replaced by the following:
 
-    **(3)** A land code may extend the application of subsection 89(1.1) of the `Indian Act`, or any portion of it, to other leasehold interests or leases in **reserve land to which a land code applies**.
+    **(3)** A land code may extend the application of subsection 89(1.1) of the `Indian Act`, or any portion of it, to other leasehold interests or leases in reserve land to which a land code applies.
 
 ### Section 379
 
@@ -9675,37 +9675,37 @@ No criminal or civil proceedings lie against an arbitrator, mediator, neutral ev
 
       **(1)** The `Indian Oil and Gas Act`
 
-        continues to apply in respect of any **reserve** land **to which a land code applies** that was subject to that Act on the coming into force of the land code; and
+        continues to apply in respect of any reserve land to which a land code applies that was subject to that Act on the coming into force of the land code; and
 
-        applies in respect of an interest or right in **reserve** land **to which a land code applies** that is granted to Her Majesty for the exploitation of oil and gas **under the** land code.
+        applies in respect of an interest or right in reserve land to which a land code applies that is granted to Her Majesty for the exploitation of oil and gas under the land code.
 
   **(2)** Subsection 39(2) of the English version of the Act is replaced by the following:
 
-    **(2)** For greater certainty, the provisions of the `Indian Oil and Gas Act` respecting the payment of royalties to Her Majesty in trust for a First Nation apply, **despite** any other provision of this Act, in respect of **reserve** land referred to in subsection (1).
+    **(2)** For greater certainty, the provisions of the `Indian Oil and Gas Act` respecting the payment of royalties to Her Majesty in trust for a First Nation apply, despite any other provision of this Act, in respect of reserve land referred to in subsection (1).
 
 ### Section 380
 
 Section 45 of the Act and the heading before it are replaced by the following:
 
 
-## Amendment of **Schedules**
+## Amendment of Schedules
 
 ### Section 45
 
-  **(1)** The **Minister** may, by order, add the name of a band to Schedule **1** if he or she is satisfied that the signing of the Framework Agreement on the band's behalf has been duly authorized and that the Framework Agreement has been signed.
+  **(1)** The Minister may, by order, add the name of a band to Schedule 1 if he or she is satisfied that the signing of the Framework Agreement on the band's behalf has been duly authorized and that the Framework Agreement has been signed.
 
-  **(2)** The Minister may, by order, add to Schedule **2 the name of a First Nation that has a land code in force** and the date on which **the** land code comes into force with respect to First Nation **land**.
+  **(2)** The Minister may, by order, add to Schedule 2 the name of a First Nation that has a land code in force and the date on which the land code comes into force with respect to First Nation land.
 
   **(3)** The Minister may, by order, amend Schedule 1 or 2 to amend the name of a First Nation.
 
-  ****(4)**** The **Minister** may, by order, delete from Schedule **1 or 2** the name of a First Nation and **delete from Schedule 2** the date on which a land code comes into force with respect to the First Nation's lands, if that First Nation is no longer subject to this Act under the terms of a land claims agreement or a self-government agreement.
+  **(4)** The Minister may, by order, delete from Schedule 1 or 2 the name of a First Nation and delete from Schedule 2 the date on which a land code comes into force with respect to the First Nation's lands, if that First Nation is no longer subject to this Act under the terms of a land claims agreement or a self-government agreement.
 
 ### Section 381
 
 The heading before section 46 of the Act is replaced by the following:
 
 
-## Transitional **Provisions**
+## Transitional Provisions
 
 ### Section 382
 
@@ -9713,7 +9713,7 @@ The heading after section 46 of the Act is replaced by the following:
 
 ### Section 46.1
 
-  ****(1)**** **If a First Nation's land code comes into force before the day on which this section comes into force, all capital moneys held by Her Majesty for the use and benefit of the First Nation or its First Nation members cease to be Indian moneys and shall be transferred to the First Nation if the individual agreement between the First Nation and the Minister is amended to provide for it. All capital moneys collected or received by Her Majesty for the use and benefit of the First Nation or its First Nation members after the transfer are not Indian moneys and shall be transferred to the First Nation.**
+  **(1)** If a First Nation's land code comes into force before the day on which this section comes into force, all capital moneys held by Her Majesty for the use and benefit of the First Nation or its First Nation members cease to be Indian moneys and shall be transferred to the First Nation if the individual agreement between the First Nation and the Minister is amended to provide for it. All capital moneys collected or received by Her Majesty for the use and benefit of the First Nation or its First Nation members after the transfer are not Indian moneys and shall be transferred to the First Nation.
 
   **(2)** The council of the First Nation shall, at least 30 days before the individual agreement is amended, inform the First Nation members of the council's intention to amend the individual agreement and of the amount of capital moneys held by Her Majesty for the use and benefit of the First Nation or its First Nation members.
 
@@ -9728,7 +9728,7 @@ The schedule to the Act is replaced by the Schedules 1 and 2 set out in Schedule
 
 Paragraph 12(2)(b) of the `Family Homes on Reserves and Matrimonial Interests or Rights Act` is replaced by the following:
 
-the First Nation laws that it enacts under section 7 of this Act or **paragraph 20(1)(c)** of that Act are not in force.
+the First Nation laws that it enacts under section 7 of this Act or paragraph 20(1)(c) of that Act are not in force.
 
 
 ### First Nations Fiscal Management Act
@@ -9753,19 +9753,19 @@ the First Nation laws that it enacts under section 7 of this Act or **paragraph 
 
 ### Section 5
 
-      **(1)** Subject to subsections (2) to (**5**), sections 4 and 6 and any regulations made under paragraph 36(1)(d), the council of a **First Nation** may make laws
+      **(1)** Subject to subsections (2) to (5), sections 4 and 6 and any regulations made under paragraph 36(1)(d), the council of a First Nation may make laws
 
-        respecting taxation for local purposes of reserve lands **and** interests or rights in reserve lands, including
+        respecting taxation for local purposes of reserve lands and interests or rights in reserve lands, including
 
-        the assessment of the value of those lands and interests **or** rights, the requisition of any information necessary to conduct the assessment and the inspection, in accordance with procedures prescribed by regulation, for assessment purposes of any reserve lands that are subject to taxation for local purposes,
+        the assessment of the value of those lands and interests or rights, the requisition of any information necessary to conduct the assessment and the inspection, in accordance with procedures prescribed by regulation, for assessment purposes of any reserve lands that are subject to taxation for local purposes,
 
   **(2)** Subparagraph 5(1)(a)(ii) of the English version of the Act is replaced by the following:
 
-    a mechanism to establish tax rates and apply them to the assessed value of those lands and interests **or** rights,
+    a mechanism to establish tax rates and apply them to the assessed value of those lands and interests or rights,
 
   **(3)** Subparagraph 5(1)(e)(i) of the Act is replaced by the following:
 
-    the creation of liens **or, in Quebec, prior claims or legal hypothecs** on reserve lands and **on** interests **or rights** in reserve lands,
+    the creation of liens or, in Quebec, prior claims or legal hypothecs on reserve lands and on interests or rights in reserve lands,
 
   **(4)** Subparagraph 5(1)(e)(iii) of the French version of the Act is replaced by the following:
 
@@ -9773,11 +9773,11 @@ the First Nation laws that it enacts under section 7 of this Act or **paragraph 
 
   **(5)** Subparagraph 5(1)(e)(iv) of the Act is replaced by the following:
 
-    the seizure and sale of personal **or movable** property located on reserve lands, other than property located in a dwelling,
+    the seizure and sale of personal or movable property located on reserve lands, other than property located in a dwelling,
 
   **(6)** Subsections 5(6) and (7) of the Act are replaced by the following:
 
-    **(7)** **Despite** the `Indian Act` or any instrument **or act** conferring **an** interest or right in reserve lands, if there are outstanding taxes payable **under** a law made under paragraph (1)(a) for more than two years, the **First Nation** may assign the interest or right in accordance with the conditions and procedures prescribed by regulation.
+    **(7)** Despite the `Indian Act` or any instrument or act conferring an interest or right in reserve lands, if there are outstanding taxes payable under a law made under paragraph (1)(a) for more than two years, the First Nation may assign the interest or right in accordance with the conditions and procedures prescribed by regulation.
 
 ### Section 387
 
@@ -9785,15 +9785,15 @@ The portion of section 7 of the Act before paragraph (a) is replaced by the foll
 
 ### Section 7
 
-When the council of a **First Nation** sends a law made under paragraph 5(1)**(a), (a.1) or** (c), **other than a law referred to in subsection 10(1)**, to the First Nations Tax Commission for its approval, the council shall
+When the council of a First Nation sends a law made under paragraph 5(1)(a), (a.1) or (c), other than a law referred to in subsection 10(1), to the First Nations Tax Commission for its approval, the council shall
 
 ### Section 388
 
 Paragraphs 8(1)(a) and (b) of the Act are replaced by the following:
 
-a description of the lands **and** interests or rights subject to the law;
+a description of the lands and interests or rights subject to the law;
 
-a description of the assessment practices to be applied to each class of land **and** interest or right;
+a description of the assessment practices to be applied to each class of land and interest or right;
 
 ### Section 389
 
@@ -9801,23 +9801,23 @@ Subsection 10(1) of the Act is replaced by the following:
 
 ### Section 10
 
-  **(1)** A council of a **First Nation** that makes a property taxation law that requires a rate of tax to be set annually shall also make a law under paragraph 5(1)(a) setting the rate of tax to be applied to the assessed value of each class of lands **and** interests or rights at least once each year on or before the date prescribed by regulation or, if none is so prescribed, on or before the date fixed by standards established under subsection 35(1).
+  **(1)** A council of a First Nation that makes a property taxation law that requires a rate of tax to be set annually shall also make a law under paragraph 5(1)(a) setting the rate of tax to be applied to the assessed value of each class of lands and interests or rights at least once each year on or before the date prescribed by regulation or, if none is so prescribed, on or before the date fixed by standards established under subsection 35(1).
 
 ### Section 390
 
 Paragraph 14(2)(b) of the Act is replaced by the following:
 
-any other persons who have an interest **or** right in the **First Nation**'s reserve lands;
+any other persons who have an interest or right in the First Nation's reserve lands;
 
 ### Section 391
 
   **(1)** The portion of subsection 17(2) of the French version of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** La Commission a la capacité d'une personne physique **et les droits, pouvoirs et privilèges de celle-ci**; elle peut notamment :
+    **(2)** La Commission a la capacité d'une personne physique et les droits, pouvoirs et privilèges de celle-ci; elle peut notamment :
 
   **(2)** Paragraph 17(2)(b) of the Act is replaced by the following:
 
-    acquire, hold and dispose of property or an interest **or right** in property, **or lease property**;
+    acquire, hold and dispose of property or an interest or right in property, or lease property;
 
 ### Section 392
 
@@ -9825,13 +9825,13 @@ Subsection 26(1) of the Act is replaced by the following:
 
 ### Section 26
 
-  **(1)** The head office of the Commission shall be on the reserve lands of the **Tk'emlúps te Secwépemc** or at any other location that the Governor in Council determines.
+  **(1)** The head office of the Commission shall be on the reserve lands of the Tk'emlúps te Secwépemc or at any other location that the Governor in Council determines.
 
 ### Section 393
 
 Subsection 31(2) of the Act is replaced by the following:
 
-**(2)** Before approving a law **made under paragraph 5(1)(a), (a.1) or (c), other than a law referred to in subsection 10(1)**, the Commission shall consider, in accordance with any regulations made under paragraph 36(1)(b), any representations made to it under paragraph 7(b) in respect of the law.
+**(2)** Before approving a law made under paragraph 5(1)(a), (a.1) or (c), other than a law referred to in subsection 10(1), the Commission shall consider, in accordance with any regulations made under paragraph 36(1)(b), any representations made to it under paragraph 7(b) in respect of the law.
 
 ### Section 394
 
@@ -9839,15 +9839,15 @@ Subsection 31(2) of the Act is replaced by the following:
 
 ### Section 32
 
-      **(1)** The Commission shall not approve a law made under paragraph 5(1)(d) for financing **of capital assets** for the provision of local services on reserve lands unless
+      **(1)** The Commission shall not approve a law made under paragraph 5(1)(d) for financing of capital assets for the provision of local services on reserve lands unless
 
   **(2)** The portion of subsection 32(2) of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** On approving a law made by a **First Nation** under paragraph 5(1)(d) for financing **of capital assets** for the provision of local services on reserve lands, the Commission shall provide the First Nations Finance Authority with
+    **(2)** On approving a law made by a First Nation under paragraph 5(1)(d) for financing of capital assets for the provision of local services on reserve lands, the Commission shall provide the First Nations Finance Authority with
 
   **(3)** Subsection 32(3) of the Act is replaced by the following:
 
-    **(3)** If the Commission becomes aware that judicial review proceedings have been undertaken in respect of a law made by a **First Nation** under paragraph 5(1)(d) for financing **of capital assets** for the provision of local services on reserve lands, the Commission shall without delay inform the First Nations Finance Authority of those proceedings.
+    **(3)** If the Commission becomes aware that judicial review proceedings have been undertaken in respect of a law made by a First Nation under paragraph 5(1)(d) for financing of capital assets for the provision of local services on reserve lands, the Commission shall without delay inform the First Nations Finance Authority of those proceedings.
 
 ### Section 395
 
@@ -9855,29 +9855,29 @@ The portion of subsection 33(1) of the Act before paragraph (a) is replaced by t
 
 ### Section 33
 
-  **(1)** On the request in writing by a member of a **First Nation**, or by a person who holds an interest or right in reserve lands, who
+  **(1)** On the request in writing by a member of a First Nation, or by a person who holds an interest or right in reserve lands, who
 
 ### Section 396
 
   **(1)** Paragraph 35(1)(c) of the Act is replaced by the following:
 
-    criteria for the approval of laws made under paragraph 5(1)(d) **or (f)**;
+    criteria for the approval of laws made under paragraph 5(1)(d) or (f);
 
     criteria for the approval of local revenue laws respecting reserve lands that have been set apart for the use and benefit of more than one First Nation, including criteria in relation to the First Nations entering into agreements in relation to the administration of those local revenue laws and criteria in respect of those agreements;
 
   **(2)** Paragraph 35(2)(d) of the Act is replaced by the following:
 
-    resolution of disputes with **First Nations** concerning the taxation of interests **or** rights on reserve lands.
+    resolution of disputes with First Nations concerning the taxation of interests or rights on reserve lands.
 
 ### Section 397
 
   **(1)** The portion of subsection 38(2) of the French version of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** Le Conseil a la capacité d'une personne physique **et les droits, pouvoirs et privilèges de celle-ci**; il peut notamment :
+    **(2)** Le Conseil a la capacité d'une personne physique et les droits, pouvoirs et privilèges de celle-ci; il peut notamment :
 
   **(2)** Paragraph 38(2)(b) of the Act is replaced by the following:
 
-    acquire, hold and dispose of property or an interest **or right** in property, **or lease property**;
+    acquire, hold and dispose of property or an interest or right in property, or lease property;
 
 ### Section 398
 
@@ -9919,19 +9919,19 @@ The Act is amended by adding the following after section 50:
 
 Paragraphs 53(2)(b) to (e) of the Act are replaced by the following:
 
-act in the place of the council of the **First Nation** to
+act in the place of the council of the First Nation to
 
-**exercise** any powers and fulfil any obligations of the council under this Act, **the regulations made under this Act or** any laws made under paragraphs 5(1)(a) to (e),
+exercise any powers and fulfil any obligations of the council under this Act, the regulations made under this Act or any laws made under paragraphs 5(1)(a) to (e),
 
-manage the **First Nation**'s local **revenues, including the local** revenue account,
+manage the First Nation's local revenues, including the local revenue account,
 
-**undertake** any necessary borrowing **for the purpose of remedying the situation for which third-party management was required, and**
+undertake any necessary borrowing for the purpose of remedying the situation for which third-party management was required, and
 
-provide for the delivery of programs and services that are paid for out of local revenues, **manage assets related to those programs and services and enter into or terminate agreements in respect of those programs, services and assets**;
+provide for the delivery of programs and services that are paid for out of local revenues, manage assets related to those programs and services and enter into or terminate agreements in respect of those programs, services and assets;
 
 assign interests or rights under subsection 5(7); and
 
-exercise any powers **or fulfil any obligations** delegated to the Board under a law of the **First Nation** or an agreement between the **First Nation** and the Board or between the **First Nation** and the First Nations Finance Authority.
+exercise any powers or fulfil any obligations delegated to the Board under a law of the First Nation or an agreement between the First Nation and the Board or between the First Nation and the First Nations Finance Authority.
 
 ### Section 400
 
@@ -9951,29 +9951,29 @@ Subsections 61(1) and (2) of the Act are replaced by the following:
 
 ### Section 61
 
-  **(1)** The Authority shall be managed by a board of directors, consisting of from 5 to 11 directors, including a Chairperson and Deputy Chairperson, **elected from among the representatives of borrowing members**.
+  **(1)** The Authority shall be managed by a board of directors, consisting of from 5 to 11 directors, including a Chairperson and Deputy Chairperson, elected from among the representatives of borrowing members.
 
-  **(2)** A representative of a borrowing member may nominate a representative of a borrowing member for election as Chairperson or Deputy Chairperson **or** as a director other than the Chairperson or Deputy Chairperson.
+  **(2)** A representative of a borrowing member may nominate a representative of a borrowing member for election as Chairperson or Deputy Chairperson or as a director other than the Chairperson or Deputy Chairperson.
 
 ### Section 402
 
   **(1)** Paragraph 63(3)(a) of the Act is replaced by the following:
 
-    the person ceases to hold office as a chief or councillor of a **First Nation** that is a borrowing member;
+    the person ceases to hold office as a chief or councillor of a First Nation that is a borrowing member;
 
   **(2)** Paragraph 63(3)(b) of the English version of the Act is replaced by the following:
 
-    the person's designation as a representative of a borrowing member is revoked by a resolution of the council of that **First Nation**; or
+    the person's designation as a representative of a borrowing member is revoked by a resolution of the council of that First Nation; or
 
 ### Section 403
 
   **(1)** Subparagraphs 74(a)(i) and (ii) of the Act are replaced by the following:
 
-    long-term financing or lease financing of **capital assets** for the provision of local services on reserve lands, or
+    long-term financing or lease financing of capital assets for the provision of local services on reserve lands, or
 
   **(2)** Paragraph 74(d) of the Act is replaced by the following:
 
-    provide investment services to **First Nations and entities referred to in any of paragraphs 50.1(1)(a) to (e); and**
+    provide investment services to First Nations and entities referred to in any of paragraphs 50.1(1)(a) to (e); and
 
 ### Section 404
 
@@ -9981,7 +9981,7 @@ Subsection 78(1) of the French version of the Act is replaced by the following:
 
 ### Section 78
 
-  **(1)** L'Administration a priorité sur tous les autres créanciers d'une première nation insolvable pour les sommes dont le versement à l'Administration est autorisé par un texte législatif pris en vertu des alinéas 5(1)b) ou d), par un accord régissant un compte de recettes garanties en fiducie **ou en fidéicommis** ou par la présente loi, en ce qui concerne toute créance qui prend naissance à la date à laquelle la première nation reçoit le versement initial du premier prêt qu'elle a obtenu auprès de l'Administration ou après cette date.
+  **(1)** L'Administration a priorité sur tous les autres créanciers d'une première nation insolvable pour les sommes dont le versement à l'Administration est autorisé par un texte législatif pris en vertu des alinéas 5(1)b) ou d), par un accord régissant un compte de recettes garanties en fiducie ou en fidéicommis ou par la présente loi, en ce qui concerne toute créance qui prend naissance à la date à laquelle la première nation reçoit le versement initial du premier prêt qu'elle a obtenu auprès de l'Administration ou après cette date.
 
 ### Section 405
 
@@ -9989,13 +9989,13 @@ Section 79 of the Act is replaced by the following:
 
 ### Section 79
 
-The Authority shall not make a long-term loan to a borrowing member for the purpose of financing **capital assets** for the provision of local services on reserve lands unless the First Nations Tax Commission has approved a law made by the borrowing member under paragraph 5(1)(d).
+The Authority shall not make a long-term loan to a borrowing member for the purpose of financing capital assets for the provision of local services on reserve lands unless the First Nations Tax Commission has approved a law made by the borrowing member under paragraph 5(1)(d).
 
 ### Section 406
 
 Paragraphs 84(5)(a) and (b) of the Act are replaced by the following:
 
-by less than 50% of the total amount contributed by borrowing members who have obtained financing for which that debt reserve fund was established, the Authority may, in accordance with the regulations, require those borrowing members to pay **without delay** amounts sufficient to replenish the debt reserve fund; and
+by less than 50% of the total amount contributed by borrowing members who have obtained financing for which that debt reserve fund was established, the Authority may, in accordance with the regulations, require those borrowing members to pay without delay amounts sufficient to replenish the debt reserve fund; and
 
 by 50% or more of the total amount contributed by borrowing members who have obtained financing for which that debt reserve fund was established, the Authority shall, in accordance with the regulations, require those borrowing members to pay without delay amounts sufficient to replenish the debt reserve fund.
 
@@ -10082,7 +10082,7 @@ Subsection 125(1) of the English version of the Act is replaced by the following
 
 ### Section 125
 
-  **(1)** At the request of the auditor or examiner of an institution, the present or former commissioners, directors, officers, employees or agents **or mandataries** of the institution shall provide any information and explanations, and give access to any records, documents, books, accounts and vouchers of the institution that are under their control, that the auditor or examiner considers necessary to prepare a report required under this Act.
+  **(1)** At the request of the auditor or examiner of an institution, the present or former commissioners, directors, officers, employees or agents or mandataries of the institution shall provide any information and explanations, and give access to any records, documents, books, accounts and vouchers of the institution that are under their control, that the auditor or examiner considers necessary to prepare a report required under this Act.
 
 ### Section 410
 
@@ -10090,15 +10090,15 @@ Section 136 of the Act is replaced by the following:
 
 ### Section 136
 
-No civil proceedings lie against a commissioner or employee of the First Nations Tax Commission, **a** director or employee of the First Nations Financial Management Board or **a person acting on behalf of the Commission or Board** for anything done, or omitted to be done, in the exercise or purported exercise in good faith of any power, or in the performance or purported performance in good faith of any duty, of that person in accordance with this Act **or regulations made under this Act**.
+No civil proceedings lie against a commissioner or employee of the First Nations Tax Commission, a director or employee of the First Nations Financial Management Board or a person acting on behalf of the Commission or Board for anything done, or omitted to be done, in the exercise or purported exercise in good faith of any power, or in the performance or purported performance in good faith of any duty, of that person in accordance with this Act or regulations made under this Act.
 
 ### Section 136.1
 
-**Despite anything in federal or provincial law,** if the First Nations Financial Management Board has required a First Nation to enter into a co-management arrangement in respect of the First Nation's local revenues in accordance with section 52 or has assumed management of a First Nation's local revenues in accordance with section 53, neither the Board nor any director or employee of the Board or **person acting on behalf of the Board** is by reason of that fact liable for any liability of the First Nation.
+Despite anything in federal or provincial law, if the First Nations Financial Management Board has required a First Nation to enter into a co-management arrangement in respect of the First Nation's local revenues in accordance with section 52 or has assumed management of a First Nation's local revenues in accordance with section 53, neither the Board nor any director or employee of the Board or person acting on behalf of the Board is by reason of that fact liable for any liability of the First Nation.
 
 ### Section 136.2
 
-No director or employee of the First Nations Financial Management Board or **person acting on behalf of the Board is personally liable for costs**
+No director or employee of the First Nations Financial Management Board or person acting on behalf of the Board is personally liable for costs
 
 awarded in any civil proceedings brought against any of them in relation to anything done, or omitted to be done, in the exercise or purported exercise of any power, or in the performance or purported performance of any duty, of that person or the Board in accordance with this Act or the regulations made under this Act, unless a court otherwise directs; or
 
@@ -10223,7 +10223,7 @@ Subsection 6.2(1) of the `Export and Import Permits Act` is replaced by the foll
 
 ### Section 6.2
 
-  **(1)** **If** any goods have been included on the Import Control List **under subsection 5(6) or** for the purpose of implementing an intergovernmental arrangement or commitment, the Minister may determine import access quantities, or the basis for calculating them, for the purposes of subsection (2) and section 8.3 of this Act and for the purposes of the `Customs Tariff`.
+  **(1)** If any goods have been included on the Import Control List under subsection 5(6) or for the purpose of implementing an intergovernmental arrangement or commitment, the Minister may determine import access quantities, or the basis for calculating them, for the purposes of subsection (2) and section 8.3 of this Act and for the purposes of the `Customs Tariff`.
 
 
 ### Pay Equity
@@ -10294,6 +10294,12 @@ The purpose of this Act is to achieve pay equity through proactive means by redr
 
     a student employed by the employer solely during the student's vacation periods;
 
+    a person employed by an employer referred to in paragraph (2)(e.1), other than
+
+    a person employed under a program designated by the employer as a student employment program, or
+
+    a student employed by the employer solely during the student's vacation periods;
+
     in respect of an employer referred to in paragraph (2)(f), a dependent contractor;
 
     a person employed by the government of Yukon;
@@ -10339,6 +10345,8 @@ The purpose of this Act is to achieve pay equity through proactive means by redr
     in respect of a separate agency, as defined in subsection 11(1) of the `Financial Administration Act`, Her Majesty in right of Canada as represented by the separate agency;
 
     each person who employs employees in connection with the operation of any federal work, undertaking or business, as defined in section 2 of the `Canada Labour Code`, other than a work, undertaking or business of a local or private nature in Yukon, the Northwest Territories or Nunavut;
+
+    a corporation established to perform any duty or function on behalf of the Government of Canada, other than a corporation named in Schedule IV or V of the `Financial Administration Act`;
 
     in respect of a dependent contractor, an employer as defined in paragraph (b) of that expression in subsection 3(1) of the `Canada Labour Code`;
 
@@ -11417,7 +11425,7 @@ A group of employers is deemed to have updated a pay equity plan on the day on w
 
 ### Section 92
 
-If a federal work, undertaking or business, as defined in section 2 of the `Canada Labour Code`, or any part of it, is leased or transferred by sale, merger or otherwise from one employer, in this section referred to as the "former employer", to another employer, in this section referred to as the "new employer", and the former employer had posted, or is deemed to be the employer that had posted, as the case may be, a pay equity plan in accordance with section `55`, subsection `57`(2), section `83` or subsection `85`(2),
+If a federal work, undertaking or business, as defined in section 2 of the `Canada Labour Code`, or any part of it — **or a corporation established to perform any duty or function on behalf of the Government of Canada, or any part of the corporation, other than a corporation named in Schedule IV or V of the `Financial Administration Act`** — is leased or transferred by sale, merger or other­wise from one employer, in this section referred to as the "former employer", to another employer, in this section referred to as the "new employer", and the former employer had posted, or is deemed to be the employer that had posted, as the case may be, a pay equity plan in accordance with section `55`, subsection `57`(2), section `83` or subsection `85`(2),
 
 the new employer is deemed to be the employer that posted the pay equity plan;
 
@@ -12399,9 +12407,9 @@ Subsections 26(1) and (2) of the `Canadian Human Rights Act` are replaced by the
 
 ### Section 26
 
-  **(1)** A commission is established to be known as the Canadian Human Rights Commission, in this **Act** referred to as the "Commission", consisting of a Chief Commissioner, a Deputy Chief Commissioner, **a member referred to as the "Pay Equity Commissioner"** and not less than three or more than six other members, to be appointed by the Governor in Council.
+  **(1)** A commission is established to be known as the Canadian Human Rights Commission, in this Act referred to as the "Commission", consisting of a Chief Commissioner, a Deputy Chief Commissioner, a member referred to as the "Pay Equity Commissioner" and not less than three or more than six other members, to be appointed by the Governor in Council.
 
-  **(2)** The Chief Commissioner, **the** Deputy Chief Commissioner and **the Pay Equity Commissioner** are full-time members of the Commission and the other members may be appointed as full-time or part-time members of the Commission.
+  **(2)** The Chief Commissioner, the Deputy Chief Commissioner and the Pay Equity Commissioner are full-time members of the Commission and the other members may be appointed as full-time or part-time members of the Commission.
 
   **(2.1)** The Governor in Council must take into consideration, in appointing the Pay Equity Commissioner, knowledge and experience in relation to pay equity matters.
 
@@ -12419,7 +12427,7 @@ Subsection 36(1) of the Act is replaced by the following:
 
 ### Section 36
 
-  **(1)** **Subject to section 36.1, for** the purposes of the affairs of the Commission, the Chief Commissioner may establish divisions of the Commission and all or any of the powers, duties and functions of the Commission, except the making of by-laws, may, as directed by the Commission, be exercised or performed by all or any of those divisions.
+  **(1)** Subject to section 36.1, for the purposes of the affairs of the Commission, the Chief Commissioner may establish divisions of the Commission and all or any of the powers, duties and functions of the Commission, except the making of by-laws, may, as directed by the Commission, be exercised or performed by all or any of those divisions.
 
 ### Section 422
 
@@ -12436,13 +12444,13 @@ The Act is amended by adding the following after section 36:
 The Act is amended by adding the following after section 38:
 
 
-### **Pay Equity Commissioner**
+### Pay Equity Commissioner
 
 ### Section 38.1
 
 In addition to being a member of the Commission, the Pay Equity Commissioner must exercise the powers and perform the duties and functions assigned to him or her by the `Pay Equity Act`.
 
-### Section **38.2**
+### Section 38.2
 
   **(1)** In the event of the absence or incapacity of the Pay Equity Commissioner, or if the office of Pay Equity Commissioner is vacant, the Chief Commissioner may authorize any member of the Commission, other than himself or herself, to exercise the powers and perform the duties and functions of the Pay Equity Commissioner, but no member may be so authorized for a term of more than 90 days without the Governor in Council's approval.
 
@@ -12482,7 +12490,7 @@ Section 40 of the Act is amended by adding the following after subsection (4):
 
 ### Section 48.1
 
-      **(1)** There is hereby established a tribunal to be known as the Canadian Human Rights Tribunal consisting, subject to subsection (6), of a maximum of **18** members, including a Chairperson and a Vice-chairperson, as may be appointed by the Governor in Council.
+      **(1)** There is hereby established a tribunal to be known as the Canadian Human Rights Tribunal consisting, subject to subsection (6), of a maximum of 18 members, including a Chairperson and a Vice-chairperson, as may be appointed by the Governor in Council.
 
   **(2)** Section 48.1 of the Act is amended by adding the following after subsection (4):
 
@@ -12680,15 +12688,15 @@ Section 395 of the Act is repealed.
 
 ### Section 396
 
-      **(1)** The following complaints with respect to employees that are before the Canadian Human Rights Commission on the day on which this Act receives royal assent, or that are filed with that Commission during the period beginning on that day and ending on the day on which on **subsection `425`(1) of the `Budget Implementation Act 2018, No. 2`** comes into force, shall, despite section 44 of the `Canadian Human Rights Act`, without delay, be referred by the Commission to the Board:
+      **(1)** The following complaints with respect to employees that are before the Canadian Human Rights Commission on the day on which this Act receives royal assent, or that are filed with that Commission during the period beginning on that day and ending on the day on which subsection `425`(1) of the `Budget Implementation Act, 2018, No. 2` comes into force, shall, despite section 44 of the `Canadian Human Rights Act`, without delay, be referred by the Commission to the Board:
 
   **(2)** Subsection 396(3) of the Act is replaced by the following:
 
-    **(3)** The Board has, in relation to a complaint referred to it, in addition to the powers conferred on it under the `Federal Public Sector Labour Relations Act`, the power to interpret and apply sections 7, 10 and 11 of the `Canadian Human Rights Act`, and the `Equal Wages Guidelines, 1986`, in respect of employees, even after the coming into force of **subsection `425`(1) of the `Budget Implementation Act 2018, No. 2`**.
+    **(3)** The Board has, in relation to a complaint referred to it, in addition to the powers conferred on it under the `Federal Public Sector Labour Relations Act`, the power to interpret and apply sections 7, 10 and 11 of the `Canadian Human Rights Act`, and the `Equal Wages Guidelines, 1986`, in respect of employees, even after the coming into force of subsection `425`(1) of the `Budget Implementation Act 2018, No. 2`.
 
   **(3)** Subsection 396(9) of the Act is replaced by the following:
 
-    **(9)** The Board has, in relation to complaints referred to in this section, the power to make any order that a member or panel may make under section 53 of the `Canadian Human Rights Act`, except that no monetary remedy may be granted by the Board in respect of the complaint other than a lump sum payment, and the payment may be only in respect of a period that ends on or before the day on which **subsection `425`(1) of the `Budget Implementation Act, 2018, No. 2`** comes into force.
+    **(9)** The Board has, in relation to complaints referred to in this section, the power to make any order that a member or panel may make under section 53 of the `Canadian Human Rights Act`, except that no monetary remedy may be granted by the Board in respect of the complaint other than a lump sum payment, and the payment may be only in respect of a period that ends on or before the day on which subsection `425`(1) of the `Budget Implementation Act, 2018, No. 2` comes into force.
 
   **(4)** Section 396 of the Act is repealed.
 
@@ -12770,9 +12778,9 @@ Section 445 of the Act is repealed.
 
 Subsections 132(2) and (3) of the `Canada Labour Code` are replaced by the following:
 
-**(2)** The employee must consult with a **health care** practitioner, as defined in section 166, of her choice as soon as possible to establish whether continuing any of her current job functions poses a risk to her health or to that of the foetus or child.
+**(2)** The employee must consult with a health care practitioner, as defined in section 166, of her choice as soon as possible to establish whether continuing any of her current job functions poses a risk to her health or to that of the foetus or child.
 
-**(3)** Without prejudice to any other right conferred by this Act, by a collective agreement or other agreement or by any terms and conditions of employment, once the **health care** practitioner has established whether there is a risk as described in subsection (1), the employee may no longer cease to perform her job under subsection (1).
+**(3)** Without prejudice to any other right conferred by this Act, by a collective agreement or other agreement or by any terms and conditions of employment, once the health care practitioner has established whether there is a risk as described in subsection (1), the employee may no longer cease to perform her job under subsection (1).
 
 ### Section 442
 
@@ -12852,11 +12860,11 @@ The Act is amended by adding the following after section 173:
 
   **(1)** The portion of paragraph 175(1)(a) of the Act before subparagraph (i) is replaced by the following:
 
-    modifying **any provision** of **this Division** for the purpose of the application of this Division to classes of employees who are employed in or in connection with the operation of any industrial establishment **if**, in the opinion of the Governor in Council, the application of those sections without modification
+    modifying any provision of this Division for the purpose of the application of this Division to classes of employees who are employed in or in connection with the operation of any industrial establishment if, in the opinion of the Governor in Council, the application of those sections without modification
 
   **(2)** Paragraph 175(1)(b) of the Act is replaced by the following:
 
-    exempting any class of employees from the application of any **provision of this Division if** the Governor in Council is satisfied that **it** cannot reasonably be applied to that class of employees;
+    exempting any class of employees from the application of any provision of this Division if the Governor in Council is satisfied that it cannot reasonably be applied to that class of employees;
 
   **(3)** Subsection 175(1) of the Act is amended by adding the following after paragraph (b):
 
@@ -12867,7 +12875,7 @@ The Act is amended by adding the following after section 173:
 The heading of Division II of Part III of the Act is replaced by the following:
 
 
-### Minimum **Wage and Age of Employment**
+### Minimum Wage and Age of Employment
 
 ### Section 448
 
@@ -12875,17 +12883,17 @@ The heading of Division II of Part III of the Act is replaced by the following:
 
 ### Section 179
 
-    An employer may employ a person under the age of **18** years only
+    An employer may employ a person under the age of 18 years only
 
   **(2)** Paragraph 179(a) of the French version of the Act is replaced by the following:
 
-    **que pour exercer les** activités prévues par règlement;
+    que pour exercer les activités prévues par règlement;
 
 ### Section 449
 
 Paragraph 181(f) of the Act is replaced by the following:
 
-specifying, for the purposes of section 179, the occupations in which persons under the age of **18** years, **or any class of persons under that age**, may be employed in an industrial establishment and fixing the conditions of that employment; and
+specifying, for the purposes of section 179, the occupations in which persons under the age of 18 years, or any class of persons under that age, may be employed in an industrial establishment and fixing the conditions of that employment; and
 
 ### Section 450
 
@@ -12921,7 +12929,7 @@ respecting additional information to be included in a certificate required under
 The heading of Division III of Part III of the Act is replaced by the following:
 
 
-### Equal **Treatment**
+### Equal Treatment
 
 ### Section 452
 
@@ -12987,7 +12995,7 @@ exempting any class of employees from the application of section 182.1 or 182.2.
 
 The definition **vacation pay** in section 183 of the Act is replaced by the following:
 
-**vacation pay** means **the amount** an employee **is entitled to under section 184.01**. (**indemnité de congé annuel**)
+**vacation pay** means the amount an employee is entitled to under section 184.01. (**indemnité de congé annuel**)
 
 ### Section 454
 
@@ -12997,9 +13005,9 @@ Section 184 of the Act is replaced by the following:
 
 Except as otherwise provided by or under this Division, in respect of every year of employment by an employer, every employee is entitled to and shall be granted a vacation with vacation pay of
 
-at least two weeks **if they have completed at least one year of employment**;
+at least two weeks if they have completed at least one year of employment;
 
-at least three weeks **if they have completed at least five** consecutive years of employment **with the same** employer; and
+at least three weeks if they have completed at least five consecutive years of employment with the same employer; and
 
 at least four weeks if they have completed at least 10 consecutive years of employment with the same employer.
 
@@ -13017,13 +13025,13 @@ An employee is entitled to vacation pay equal to:
 
 Subsection 187.1(2) of the Act is replaced by the following:
 
-**(2)** If an employee interrupts a vacation to take leave under any of sections 205.1, 206, 206.1 and 206.3 to **206.9** and resumes the vacation immediately at the end of that leave, section 209.1 applies to them as if they did not resume the vacation before returning to work.
+**(2)** If an employee interrupts a vacation to take leave under any of sections 205.1, 206, 206.1 and 206.3 to 206.9 and resumes the vacation immediately at the end of that leave, section 209.1 applies to them as if they did not resume the vacation before returning to work.
 
 ### Section 456
 
 Paragraph 188(b) of the Act is replaced by the following:
 
-**the applicable percentage, under section 184.01**, of the wages of the employee during any part of the completed portion of their year of employment in respect of which vacation pay has not been paid to **them**.
+the applicable percentage, under section 184.01, of the wages of the employee during any part of the completed portion of their year of employment in respect of which vacation pay has not been paid to them.
 
 ### Section 457
 
@@ -13031,7 +13039,7 @@ Paragraph 188(b) of the Act is replaced by the following:
 
 ### Section 189
 
-      **(1)** **Despite** the lease **or** transfer of **a** work, undertaking or business, or **any** part **of a work, undertaking or business**, from one employer to another employer by sale, merger or otherwise, the employment of the employee, before and after the lease or transfer, **who** is employed in or in connection with the operation of **that work, undertaking or business, is**, for the purposes of this Division, deemed to be continuous with one employer **if the work, undertaking or business**
+      **(1)** Despite the lease or transfer of a work, undertaking or business, or any part of a work, undertaking or business, from one employer to another employer by sale, merger or otherwise, the employment of the employee, before and after the lease or transfer, who is employed in or in connection with the operation of that work, undertaking or business, is, for the purposes of this Division, deemed to be continuous with one employer if the work, undertaking or business
 
         is a federal work, undertaking or business; or
 
@@ -13063,7 +13071,7 @@ Paragraph 188(b) of the Act is replaced by the following:
 
 ### Section 196
 
-      **(1)** Subject to subsections (2) **and** (4), an **employer** shall, for each general holiday, **pay an** employee holiday pay equal to at least one twentieth of the wages, excluding overtime pay, that the **employee** earned **with the employer** in the four-week period immediately preceding the week in which the general holiday occurs.
+      **(1)** Subject to subsections (2) and (4), an employer shall, for each general holiday, pay an employee holiday pay equal to at least one twentieth of the wages, excluding overtime pay, that the employee earned with the employer in the four-week period immediately preceding the week in which the general holiday occurs.
 
   **(2)** Subsections 196(3) and (5) of the Act are repealed.
 
@@ -13075,7 +13083,7 @@ Subsection 197(3) of the Act is repealed.
 
 Paragraph 203(2)(b) of the Act is replaced by the following:
 
-modifying, to the extent that the Governor in Council considers necessary, the provisions of Division I.1, IV, V, VII, VIII, **IX**, X, XI, XIII or XIV so that, as far as practicable, employees engaged in multi-employer employment will be entitled to the same rights and benefits under that Division as employees employed by one employer.
+modifying, to the extent that the Governor in Council considers necessary, the provisions of Division I.1, IV, V, VII, VIII, IX, X, XI, XIII or XIV so that, as far as practicable, employees engaged in multi-employer employment will be entitled to the same rights and benefits under that Division as employees employed by one employer.
 
 ### Section 461
 
@@ -13173,15 +13181,15 @@ The heading of Division VII of Part III of the Act is replaced by the following:
 
 Subsection 204(2) of the Act is replaced by the following:
 
-**(2)** An employee's request under subsection (1) must be accompanied by a certificate **from** a **health care** practitioner of the employee's choice indicating the expected duration of the potential risk and the activities or conditions to avoid in order to eliminate the risk.
+**(2)** An employee's request under subsection (1) must be accompanied by a certificate from a health care practitioner of the employee's choice indicating the expected duration of the potential risk and the activities or conditions to avoid in order to eliminate the risk.
 
 ### Section 464
 
   **(1)** Subsections 205(3) and (4) of the Act are replaced by the following:
 
-    **(3)** The onus is on the employer to show that a modification of job functions or a reassignment that would avoid the activities or conditions indicated in the certificate **issued under subsection 204(2)** is not reasonably practicable.
+    **(3)** The onus is on the employer to show that a modification of job functions or a reassignment that would avoid the activities or conditions indicated in the certificate issued under subsection 204(2) is not reasonably practicable.
 
-    **(4)** **If** the employer concludes that a modification of job functions or a reassignment that would avoid the activities or conditions indicated in the certificate is not reasonably practicable, the employer shall so inform the employee in writing.
+    **(4)** If the employer concludes that a modification of job functions or a reassignment that would avoid the activities or conditions indicated in the certificate is not reasonably practicable, the employer shall so inform the employee in writing.
 
   **(2)** Subsection 205(6) of the Act is replaced by the following:
 
@@ -13193,11 +13201,11 @@ Sections 205.1 and 205.2 of the Act are replaced by the following:
 
 ### Section 205.1
 
-An employee who is pregnant or nursing is entitled to and shall be granted a leave of absence during the period from the beginning of the pregnancy to the end of the twenty-fourth week following the birth, if she provides the employer with a certificate **issued by** a **health care** practitioner of her choice indicating that she is unable to work by reason of the pregnancy or nursing and indicating the duration of that inability.
+An employee who is pregnant or nursing is entitled to and shall be granted a leave of absence during the period from the beginning of the pregnancy to the end of the twenty-fourth week following the birth, if she provides the employer with a certificate issued by a health care practitioner of her choice indicating that she is unable to work by reason of the pregnancy or nursing and indicating the duration of that inability.
 
 ### Section 205.2
 
-An employee whose job functions have been modified, who has been reassigned or who is on a leave of absence shall give at least two weeks' notice in writing to the employer of any change in the duration of the risk or in the inability as indicated in the certificate **issued by a health care practitioner**, unless there is a valid reason why that notice cannot be given, and **the** notice must be accompanied by a new certificate.
+An employee whose job functions have been modified, who has been reassigned or who is on a leave of absence shall give at least two weeks' notice in writing to the employer of any change in the duration of the risk or in the inability as indicated in the certificate issued by a health care practitioner, unless there is a valid reason why that notice cannot be given, and the notice must be accompanied by a new certificate.
 
 ### Section 466
 
@@ -13205,7 +13213,7 @@ Subsection 206(1) of the Act is replaced by the following:
 
 ### Section 206
 
-  **(1)** Every employee is entitled to and shall be granted a leave of absence from employment of up to 17 weeks, which leave may begin not earlier than 13 weeks prior to the estimated date of her confinement and end not later than 17 weeks following the actual date of her confinement, if the employee provides her employer with a certificate of a **health care** practitioner certifying that she is pregnant.
+  **(1)** Every employee is entitled to and shall be granted a leave of absence from employment of up to 17 weeks, which leave may begin not earlier than 13 weeks prior to the estimated date of her confinement and end not later than 17 weeks following the actual date of her confinement, if the employee provides her employer with a certificate of a health care practitioner certifying that she is pregnant.
 
 ### Section 467
 
@@ -13217,15 +13225,15 @@ Subsection 206(1) of the Act is replaced by the following:
 
   **(2)** Subsection 206.1(2.1) of the Act is replaced by the following:
 
-    **(2.1)** The period referred to in subsection (2) is extended by the number of weeks during which the employee is on leave under any of sections 206.3 to 206.5 **and 206.9**, is absent due to a reason referred to in subsection 239(1) or 239.1(1) or is on leave under any of paragraphs 247.5(1)(a), (b) and (d) to (g).
+    **(2.1)** The period referred to in subsection (2) is extended by the number of weeks during which the employee is on leave under any of sections 206.3 to 206.5 and 206.9, is absent due to a reason referred to in subsection 239(1) or 239.1(1) or is on leave under any of paragraphs 247.5(1)(a), (b) and (d) to (g).
 
   **(3)** Subsection 206.1(2.4) of the Act is replaced by the following:
 
-    **(2.4)** The employee may interrupt the leave referred to in subsection (1) in order to permit the employee to take leave under any of sections 206.3 to 206.5 **and 206.9**, to be absent due to a reason referred to in subsection 239(1) or 239.1(1) or to take leave under any of paragraphs 247.5(1)(a), (b) and (d) to (g).
+    **(2.4)** The employee may interrupt the leave referred to in subsection (1) in order to permit the employee to take leave under any of sections 206.3 to 206.5 and 206.9, to be absent due to a reason referred to in subsection 239(1) or 239.1(1) or to take leave under any of paragraphs 247.5(1)(a), (b) and (d) to (g).
 
   **(4)** Subsection 206.1(4) of the Act is replaced by the following:
 
-    **(4)** Except to the extent that it is inconsistent with subsection 239(**7**), section 209.1 applies to an employee who interrupted the leave referred to in subsection (1) in order to be absent due to a reason referred to in subsection 239(1).
+    **(4)** Except to the extent that it is inconsistent with subsection 239(7), section 209.1 applies to an employee who interrupted the leave referred to in subsection (1) in order to be absent due to a reason referred to in subsection 239(1).
 
 ### Section 468
 
@@ -13237,13 +13245,13 @@ Subsection 206(1) of the Act is replaced by the following:
 
   **(2)** The portion of subsection 206.3(2) of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** Subject to subsections (3) to (8), every employee is entitled to and shall be granted a leave of absence from employment of up to 28 weeks to provide care or support to a family member of the employee if a **health care** practitioner issues a certificate stating that the family member has a serious medical condition with a significant risk of death within 26 weeks from
+    **(2)** Subject to subsections (3) to (8), every employee is entitled to and shall be granted a leave of absence from employment of up to 28 weeks to provide care or support to a family member of the employee if a health care practitioner issues a certificate stating that the family member has a serious medical condition with a significant risk of death within 26 weeks from
 
   **(3)** Subsection 206.3(2.1) of the Act is repealed.
 
   **(4)** Subsection 206.3(3.1) of the English version of the Act is replaced by the following:
 
-    **(3.1)** For greater certainty, but subject to subsection (3), for leave under this section to be taken after the end of the period of 26 weeks set out in subsection (2), it is not necessary for a **health care** practitioner to issue an additional certificate under that subsection (2).
+    **(3.1)** For greater certainty, but subject to subsection (3), for leave under this section to be taken after the end of the period of 26 weeks set out in subsection (2), it is not necessary for a health care practitioner to issue an additional certificate under that subsection (2).
 
 ### Section 469
 
@@ -13255,17 +13263,17 @@ Subsection 206(1) of the Act is replaced by the following:
 
   **(2)** The portion of subsection 206.4(2) of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** Every employee who is a family member of a critically ill child is entitled to and shall be granted a leave of absence from employment of up to 37 weeks in order to care for or support that child if a **health care** practitioner has issued a certificate that
+    **(2)** Every employee who is a family member of a critically ill child is entitled to and shall be granted a leave of absence from employment of up to 37 weeks in order to care for or support that child if a health care practitioner has issued a certificate that
 
   **(3)** The portion of subsection 206.4(2.1) of the Act before paragraph (a) is replaced by the following:
 
-    **(2.1)** Every employee who is a family member of a critically ill adult is entitled to and shall be granted a leave of absence from employment of up to 17 weeks in order to care for or support that adult if a **health care** practitioner has issued a certificate that
+    **(2.1)** Every employee who is a family member of a critically ill adult is entitled to and shall be granted a leave of absence from employment of up to 17 weeks in order to care for or support that adult if a health care practitioner has issued a certificate that
 
   **(4)** Subsection 206.4(3) of the Act is repealed.
 
   **(5)** Subparagraph 206.4(4)(a)(ii) of the Act is replaced by the following:
 
-    if the leave begins before the day on which the certificate is issued, the day from which the **health care** practitioner certifies that the child or adult, as the case may be, is critically ill; and
+    if the leave begins before the day on which the certificate is issued, the day from which the health care practitioner certifies that the child or adult, as the case may be, is critically ill; and
 
 ### Section 470
 
@@ -13296,13 +13304,13 @@ participate in a jury selection process.
 
 Subsection 207.02(3) of the Act is replaced by the following:
 
-**(3)** Except to the extent that it is inconsistent with subsection 239(**7**), section 209.1 applies to an employee who interrupted the leave in order to be absent due to a reason referred to in subsection 239(1).
+**(3)** Except to the extent that it is inconsistent with subsection 239(7), section 209.1 applies to an employee who interrupted the leave in order to be absent due to a reason referred to in subsection 239(1).
 
 ### Section 473
 
 Subsection 207.2(4) of the Act is replaced by the following:
 
-**(4)** The employer may, in writing and no later than 15 days after an employee's return to work, require the employee to provide a certificate issued by a **health care practitioner** attesting to the child's hospitalization.
+**(4)** The employer may, in writing and no later than 15 days after an employee's return to work, require the employee to provide a certificate issued by a health care practitioner attesting to the child's hospitalization.
 
 ### Section 474
 
@@ -13310,17 +13318,17 @@ Subsection 207.2(4) of the Act is replaced by the following:
 
 ### Section 207.3
 
-      **(1)** Every employee who takes a leave of absence from employment under any of sections 206.3 to **206.9** shall, as soon as possible, provide the employer with a notice in writing of the reasons for the leave and the length of the leave that they intend to take.
+      **(1)** Every employee who takes a leave of absence from employment under any of sections 206.3 to 206.9 shall, as soon as possible, provide the employer with a notice in writing of the reasons for the leave and the length of the leave that they intend to take.
 
   **(2)** Subsection 207.3(2) of the English version of the Act is replaced by the following:
 
-    **(2)** Every employee who is on a leave of absence from employment under any of sections 206.3 to **206.9** shall, as soon as possible, provide the employer with a notice in writing of any change in the length of the leave that they intend to take.
+    **(2)** Every employee who is on a leave of absence from employment under any of sections 206.3 to 206.9 shall, as soon as possible, provide the employer with a notice in writing of any change in the length of the leave that they intend to take.
 
   **(3)** Subsections 207.3(3) and (4) of the Act are replaced by the following:
 
-    **(3)** If the length of the leave taken under any of sections 206.3 to 206.5 **and 206.9** is more than four weeks, the notice in writing of any change in the length of the leave shall be provided on at least four weeks' notice, unless there is a valid reason why that cannot be done.
+    **(3)** If the length of the leave taken under any of sections 206.3 to 206.5 and 206.9 is more than four weeks, the notice in writing of any change in the length of the leave shall be provided on at least four weeks' notice, unless there is a valid reason why that cannot be done.
 
-    **(4)** The employer may require the employee to provide documentation in support of the reasons for the leave taken under section 206.4, 206.5 or **206.9** and of any change in the length of leave that the employee intends to take.
+    **(4)** The employer may require the employee to provide documentation in support of the reasons for the leave taken under section 206.4, 206.5 or 206.9 and of any change in the length of leave that the employee intends to take.
 
 ### Section 475
 
@@ -13328,19 +13336,19 @@ Section 209.22 of the Act is replaced by the following:
 
 ### Section 209.22
 
-A certificate **issued by a health care practitioner under** this Division is conclusive proof of the statements contained **in it**.
+A certificate issued by a health care practitioner under this Division is conclusive proof of the statements contained in it.
 
 ### Section 476
 
 Subsection 209.3(2) of the Act is replaced by the following:
 
-**(2)** The prohibitions set out in subsection (1) also apply in respect of an employee who has taken a leave of absence under any of sections 206.3 to **206.9**.
+**(2)** The prohibitions set out in subsection (1) also apply in respect of an employee who has taken a leave of absence under any of sections 206.3 to 206.9.
 
 ### Section 477
 
   **(1)** Paragraph 209.4(a) of the Act is replaced by the following:
 
-    specifying the absences from employment that are deemed not to have interrupted continuous employment referred to in any of sections **206.6** to **206.8**;
+    specifying the absences from employment that are deemed not to have interrupted continuous employment referred to in any of sections 206.6 to 206.8;
 
   **(2)** Paragraphs 209.4(e) and (e.1) of the Act are replaced by the following:
 
@@ -13350,13 +13358,13 @@ Subsection 209.3(2) of the Act is replaced by the following:
 
   **(3)** Paragraph 209.4(g) of the Act is replaced by the following:
 
-    prescribing shorter periods of consecutive months of continuous employment for the purposes of subsections **206.6(2)**, **206.7(2.1)** and **206.8(1)**;
+    prescribing shorter periods of consecutive months of continuous employment for the purposes of subsections 206.6(2), 206.7(2.1) and 206.8(1);
 
 ### Section 478
 
   **(1)** The definition **redundant employee** in section 211 of the Act is replaced by the following:
 
-    **redundant employee** means an employee whose employment is terminated in a **group termination of employment or whose employment is to be terminated in accordance with a notice under subsection 212(1)**. (**surnuméraire**)
+    **redundant employee** means an employee whose employment is terminated in a group termination of employment or whose employment is to be terminated in accordance with a notice under subsection 212(1). (**surnuméraire**)
 
   **(2)** Section 211 of the Act is amended by adding the following in alphabetical order:
 
@@ -13376,13 +13384,13 @@ Subsections 212(1) and (2) of the Act are replaced by the following:
 
 ### Section 212
 
-  **(1)** An employer **must** give notice to the Minister, in writing, of **any group termination of employment** at least **16** weeks before the first date of termination of employment of an employee in the group.
+  **(1)** An employer must give notice to the Minister, in writing, of any group termination of employment at least 16 weeks before the first date of termination of employment of an employee in the group.
 
   **(1.1)** If an employer terminates the employment of at least 50 employees — or any lesser number that is prescribed by regulations that are applicable to the employer — on the same day and pays them at least 16 weeks' wages under paragraph 212.1(1)(b), the group notice period is deemed to begin on that day and the notice referred to in subsection (1) is to be given at least 48 hours before that date.
 
-  **(2)** A copy of any notice given under **this section** must be given immediately by the employer to the Minister of Employment and Social Development and the Canada Employment Insurance Commission.
+  **(2)** A copy of any notice given under this section must be given immediately by the employer to the Minister of Employment and Social Development and the Canada Employment Insurance Commission.
 
-  **(2.1)** Subject to subsection (2.2), the employer must immediately give a copy of any notice given under subsection (1) to any trade union representing a redundant employee, and **if** any redundant employee is not represented by a trade union, a copy of that notice must be given immediately to the employee or immediately posted by the employer in a conspicuous place within the industrial establishment in which that employee is employed.
+  **(2.1)** Subject to subsection (2.2), the employer must immediately give a copy of any notice given under subsection (1) to any trade union representing a redundant employee, and if any redundant employee is not represented by a trade union, a copy of that notice must be given immediately to the employee or immediately posted by the employer in a conspicuous place within the industrial establishment in which that employee is employed.
 
   **(2.2)** If subsection (1.1) applies, the employer must give a copy of the notice to any trade union representing a redundant employee referred to in that subsection on the date of the group termination of employment.
 
@@ -13424,7 +13432,7 @@ Section 213 of the Act is replaced by the following:
 
     it is an individual termination of employment and the employer complies with Division X.
 
-  **(8)** An employer must give each redundant employee whose employment is terminated a statement in writing that sets out their vacation benefits, wages, severance pay and any other benefits and pay arising from their employment with the employer as at the date **of the statement. The statement must be given to the employee**
+  **(8)** An employer must give each redundant employee whose employment is terminated a statement in writing that sets out their vacation benefits, wages, severance pay and any other benefits and pay arising from their employment with the employer as at the date of the statement. The statement must be given to the employee
 
     in the case of an employee who receives notice under paragraph (1)(a), as soon as possible, but not later than two weeks before the date of the termination of their employment;
 
@@ -13434,7 +13442,7 @@ Section 213 of the Act is replaced by the following:
 
 ### Section 213
 
-An employer who **carries out a group termination** and any trade union **representing a redundant employee must** give the Canada Employment Insurance Commission any information requested by it for the purpose of assisting any redundant employee and **must** cooperate with the Commission to facilitate the re-establishment in employment of that employee.
+An employer who carries out a group termination and any trade union representing a redundant employee must give the Canada Employment Insurance Commission any information requested by it for the purpose of assisting any redundant employee and must cooperate with the Commission to facilitate the re-establishment in employment of that employee.
 
 ### Section 213.1
 
@@ -13490,11 +13498,11 @@ Subsections 230(1) and (2) of the Act are replaced by the following:
 
 ### Section 230
 
-  **(1)** An employer who terminates the employment of an employee **must** give the employee
+  **(1)** An employer who terminates the employment of an employee must give the employee
 
-    notice in writing of the employer's intention to terminate **their** employment on **a** date **specified in the notice, at least the applicable number of weeks set out in subsection (1.1) before that date**;
+    notice in writing of the employer's intention to terminate their employment on a date specified in the notice, at least the applicable number of weeks set out in subsection (1.1) before that date;
 
-    wages in lieu of notice, at **their** regular rate of wages for **their** regular hours of work, **for at least the applicable number of weeks set out in subsection (1.1)**; **or**
+    wages in lieu of notice, at their regular rate of wages for their regular hours of work, for at least the applicable number of weeks set out in subsection (1.1); or
 
     any combination of notice and amounts of wages in lieu of notice so that the total of the number of weeks of notice in writing and the number of weeks for which wages are paid in lieu of notice is equivalent to at least the applicable number of weeks set out in subsection (1.1).
 
@@ -13514,7 +13522,7 @@ Subsections 230(1) and (2) of the Act are replaced by the following:
 
     eight weeks, if the employee has completed at least eight consecutive years of continuous employment with the employer.
 
-  **(2)** **If** an employer is bound by a collective agreement that contains a provision authorizing an employee whose position becomes redundant to displace another employee on the basis of seniority, and the position of an employee who is so authorized becomes redundant, the employer **must** give at least **the applicable number of weeks'** notice **set out in subsection (1.1)** in writing to the trade union that is a party to the collective agreement and to the employee that the **employee's** position has become redundant.
+  **(2)** If an employer is bound by a collective agreement that contains a provision authorizing an employee whose position becomes redundant to displace another employee on the basis of seniority, and the position of an employee who is so authorized becomes redundant, the employer must give at least the applicable number of weeks' notice set out in subsection (1.1) in writing to the trade union that is a party to the collective agreement and to the employee that the employee's position has become redundant.
 
   **(2.1)** For greater certainty, any employee who is displaced and whose employment is terminated is entitled to and shall be given notice or wages in lieu of notice under subsection (1).
 
@@ -13562,7 +13570,7 @@ The Governor in Council may make regulations for the purposes of this Division i
 Section 239 of the Act and the heading of Division XIII before it are replaced by the following:
 
 
-### **Medical** Leave
+### Medical Leave
 
 ### Section 239
 
@@ -13584,19 +13592,19 @@ Section 239 of the Act and the heading of Division XIII before it are replaced b
 
   **(6)** Subject to subsection (7), an employer is prohibited from dismissing, suspending, laying off, demoting or disciplining an employee because the employee intends to take or has taken a medical leave of absence or taking such an intention or absence into account in any decision to promote or train the employee.
 
-  **(**7**)** An employer may assign to a different position, with different terms and conditions of employment, any employee who, after a **medical leave of** absence, is unable to perform the work performed by the employee prior to the absence.
+  **(7)** An employer may assign to a different position, with different terms and conditions of employment, any employee who, after a medical leave of absence, is unable to perform the work performed by the employee prior to the absence.
 
-  **(**8**)** The pension, health and disability benefits and the seniority of an employee who is absent from work due to **medical leave under this Division** accumulate during the entire period of the **medical leave of** absence.
+  **(8)** The pension, health and disability benefits and the seniority of an employee who is absent from work due to medical leave under this Division accumulate during the entire period of the medical leave of absence.
 
-  **(**9**)** **If** contributions are required from an employee in order for the employee to be entitled to a benefit referred to in subsection (**8**), the employee is responsible for and must, within a reasonable time, pay those contributions for the period of any **medical leave of** absence unless, at the commencement of the absence or within a reasonable time after, the employee notifies the employer of the employee's intention to discontinue contributions during that period.
+  **(9)** If contributions are required from an employee in order for the employee to be entitled to a benefit referred to in subsection (8), the employee is responsible for and must, within a reasonable time, pay those contributions for the period of any medical leave of absence unless, at the commencement of the absence or within a reasonable time after, the employee notifies the employer of the employee's intention to discontinue contributions during that period.
 
-  **(**10**)** An employer who pays contributions in respect of a benefit referred to in subsection (**8**) must continue to pay those contributions during an employee's **medical leave of** absence in at least the same proportion as if the employee were not absent, unless the employee does not pay the employee's contributions, if any, within a reasonable time.
+  **(10)** An employer who pays contributions in respect of a benefit referred to in subsection (8) must continue to pay those contributions during an employee's medical leave of absence in at least the same proportion as if the employee were not absent, unless the employee does not pay the employee's contributions, if any, within a reasonable time.
 
-  **(**11**)** For the purposes of calculating the pension, health and disability benefits of an employee in respect of whom contributions have not been paid as required by subsections (**9**) and (**10**), the benefits do not accumulate during the medical leave of absence and employment on the employee's return to work is deemed to be continuous with employment before the employee's absence.
+  **(11)** For the purposes of calculating the pension, health and disability benefits of an employee in respect of whom contributions have not been paid as required by subsections (9) and (10), the benefits do not accumulate during the medical leave of absence and employment on the employee's return to work is deemed to be continuous with employment before the employee's absence.
 
-  **(**12**)** For the purposes of calculating benefits, other than benefits referred to in subsection (**8**), of an employee who is absent from work due to **medical leave under this Division**, employment on the employee's return to work shall be deemed to be continuous with employment before the employee's absence.
+  **(12)** For the purposes of calculating benefits, other than benefits referred to in subsection (8), of an employee who is absent from work due to medical leave under this Division, employment on the employee's return to work shall be deemed to be continuous with employment before the employee's absence.
 
-  **(**13**)** The Governor in Council may make regulations defining terms for the purposes of this Division.
+  **(13)** The Governor in Council may make regulations defining terms for the purposes of this Division.
 
 ### Section 488
 
@@ -13608,7 +13616,7 @@ Section 239 of the Act and the heading of Division XIII before it are replaced b
 
     **(3)** The Minister may extend the period set out in subsection (2)
 
-      **if** the Minister is satisfied that a complaint was made within that period to a government official who had no authority to deal with the complaint and that the person making the complaint believed the official had that authority; **or**
+      if the Minister is satisfied that a complaint was made within that period to a government official who had no authority to deal with the complaint and that the person making the complaint believed the official had that authority; or
 
       in any circumstances that are prescribed by regulation.
 
@@ -13660,7 +13668,7 @@ The Act is amended by adding the following after section 241:
 
 Paragraph 242(3.1)(b) of the Act is replaced by the following:
 
-a procedure for redress has been provided **under Part I or Part II** of this Act or under any other Act of Parliament.
+a procedure for redress has been provided under Part I or Part II of this Act or under any other Act of Parliament.
 
 ### Section 492
 
@@ -13684,7 +13692,7 @@ prescribing the conditions that are to be met before a complaint may be deemed t
 
 Paragraph 246.1(1)(a) of the Act is replaced by the following:
 
-the employer has taken action against the employee in contravention of subsection 173.01(5), 174.1(4), 177.1(7), **182.2(3)** or **203.3(3)** or section 208, 209.3, 238, 239, 239.1 or 247.96;
+the employer has taken action against the employee in contravention of subsection 173.01(5), 174.1(4), 177.1(7), 182.2(3) or 203.3(3) or section 208, 209.3, 238, 239, 239.1 or 247.96;
 
 ### Section 494
 
@@ -13692,7 +13700,7 @@ the employer has taken action against the employee in contravention of subsectio
 
 ### Section 247.5
 
-      **(1)** An employee who is a member of the reserve force and has completed **at least three** consecutive months of continuous employment with an employer — or a shorter period that is prescribed for a class of employees to which the employee belongs — is entitled to and shall be granted a leave of absence from employment to take part in the following operations or activities:
+      **(1)** An employee who is a member of the reserve force and has completed at least three consecutive months of continuous employment with an employer — or a shorter period that is prescribed for a class of employees to which the employee belongs — is entitled to and shall be granted a leave of absence from employment to take part in the following operations or activities:
 
   **(2)** Paragraph 247.5(1)(c) of the Act is replaced by the following:
 
@@ -13712,7 +13720,7 @@ the employer has taken action against the employee in contravention of subsectio
 
   **(1)** Paragraph 247.97(d) of the Act is replaced by the following:
 
-    defining "**military skills** training" for the purposes of paragraph 247.5(1)(c);
+    defining "military skills training" for the purposes of paragraph 247.5(1)(c);
 
   **(2)** Paragraphs 247.97(j) and (k) of the Act are repealed.
 
@@ -13726,17 +13734,17 @@ the employer has taken action against the employee in contravention of subsectio
 
     **(3)** The Minister may extend the period set out in subsection (2)
 
-      **if** the Minister is satisfied that a complaint was made within that period to a government official who had no authority to deal with the complaint and that the person making the complaint believed the official had that authority; **or**
+      if the Minister is satisfied that a complaint was made within that period to a government official who had no authority to deal with the complaint and that the person making the complaint believed the official had that authority; or
 
       in any circumstances that are prescribed by regulation.
 
   **(3)** The portion of subsection 247.99(5) of the Act before paragraph (a) is replaced by the following:
 
-    **(5)** **If** a complaint is not settled under subsection (4) within **the** period **that** the inspector endeavouring to assist the parties **under** that subsection considers to be reasonable in the circumstances, the inspector shall, on the written request of the employee who made the complaint that the complaint be referred to **the Board**,
+    **(5)** If a complaint is not settled under subsection (4) within the period that the inspector endeavouring to assist the parties under that subsection considers to be reasonable in the circumstances, the inspector shall, on the written request of the employee who made the complaint that the complaint be referred to the Board,
 
   **(4)** Paragraph 247.99(5)(b) of the Act is replaced by the following:
 
-    deliver to the **Board** the complaint made under subsection (1) and any other statements or documents **that** the inspector has that relate to the complaint.
+    deliver to the Board the complaint made under subsection (1) and any other statements or documents that the inspector has that relate to the complaint.
 
   **(5)** Subsection 247.99(6) of the Act is replaced by the following:
 
@@ -13776,17 +13784,17 @@ the employer has taken action against the employee in contravention of subsectio
 
   **(6)** The portion of subsection 247.99(7) of the Act before paragraph (a) is replaced by the following:
 
-    **(7)** **The Board, after** a complaint has been referred **to it**, shall
+    **(7)** The Board, after a complaint has been referred to it, shall
 
   **(7)** The portion of subsection 247.99(8) of the Act before paragraph (a) is replaced by the following:
 
-    **(8)** If **the Board** decides **under** subsection (7) that an employer has contravened subsection 247.98(4), the **Board** may, by order, require the employer to cease contravening that subsection and may, if applicable, by order, require the employer to
+    **(8)** If the Board decides under subsection (7) that an employer has contravened subsection 247.98(4), the Board may, by order, require the employer to cease contravening that subsection and may, if applicable, by order, require the employer to
 
   **(8)** Paragraphs 247.99(8)(c) and (d) of the Act are replaced by the following:
 
-    pay to the employee or former employee compensation not exceeding the sum that, in the **Board's** opinion, is equivalent to the remuneration that would, but for the contravention, have been paid by the employer to the employee or former employee;
+    pay to the employee or former employee compensation not exceeding the sum that, in the Board's opinion, is equivalent to the remuneration that would, but for the contravention, have been paid by the employer to the employee or former employee;
 
-    rescind any disciplinary action taken in respect of the contravention and pay compensation to the employee, not exceeding the sum that, in the **Board's** opinion, is equivalent to any financial or other penalty imposed on the employee by the employer; and
+    rescind any disciplinary action taken in respect of the contravention and pay compensation to the employee, not exceeding the sum that, in the Board's opinion, is equivalent to any financial or other penalty imposed on the employee by the employer; and
 
   **(9)** Subsection 247.99(9) of the Act is repealed.
 
@@ -13834,7 +13842,7 @@ prescribing the conditions that are to be met before a complaint may be deemed t
 
   **(3)** The portion of subsection 251.01(3) of the Act before paragraph (a) is replaced by the following:
 
-    **(3)** The Minister may, subject to the regulations, extend the period set out in subsection (2) **or (2.1)**
+    **(3)** The Minister may, subject to the regulations, extend the period set out in subsection (2) or (2.1)
 
   **(4)** Subsection 251.01(4) of the Act is replaced by the following:
 
@@ -13852,13 +13860,13 @@ Subsection 251.02(1) of the Act is replaced by the following:
 
 ### Section 251.02
 
-  **(1)** If **an inspector is** satisfied that the employee must take measures before the inspector may **continue to deal** with **the** complaint made under section 251.01, **the inspector** may, **at any time,** suspend consideration of the complaint, in whole or in part.
+  **(1)** If an inspector is satisfied that the employee must take measures before the inspector may continue to deal with the complaint made under section 251.01, the inspector may, at any time, suspend consideration of the complaint, in whole or in part.
 
 ### Section 500
 
   **(1)** Subparagraph 251.05(1)(a)(iii) of the Act is replaced by the following:
 
-    that the complaint has been settled **in writing** between the employer and the employee,
+    that the complaint has been settled in writing between the employer and the employee,
 
   **(2)** Subsection 251.05(1) of the Act is amended by striking out "or" at the end of paragraph (a), by adding "or" at the end of paragraph (b) and by adding the following after paragraph (b):
 
@@ -13905,11 +13913,11 @@ Section 260 of the Act is replaced by the following:
 
 ### Section 260
 
-  **(**1**)** **If** a person makes a complaint **under this Part and** requests that **their** name and identity be withheld, **their** name and identity **must** not be disclosed **unless**
+  **(1)** If a person makes a complaint under this Part and requests that their name and identity be withheld, their name and identity must not be disclosed unless
 
-    **the disclosure** is necessary for the purposes of a prosecution;
+    the disclosure is necessary for the purposes of a prosecution;
 
-    the Minister **determines that the disclosure is** in the public interest; or
+    the Minister determines that the disclosure is in the public interest; or
 
     an inspector determines that the disclosure is necessary for the investigation of the complaint to be carried out and the complainant consents to the disclosure in writing.
 
@@ -13938,7 +13946,7 @@ Unless they are repealed earlier, regulations made under section 263 are repeale
 
   **(2)** Paragraph 264(e.1) of the Act is replaced by the following:
 
-    respecting the calculation and payment of the wages and other amounts to which an employee whose wages are paid on a commission basis, on a salary plus commission basis or on any other basis other than time is entitled to **under** Divisions V, **VII**, VIII, X and XI;
+    respecting the calculation and payment of the wages and other amounts to which an employee whose wages are paid on a commission basis, on a salary plus commission basis or on any other basis other than time is entitled to under Divisions V, VII, VIII, X and XI;
 
   **(3)** Paragraph 264(1)(e.1) of the Act is replaced by the following:
 
@@ -13961,23 +13969,23 @@ Unless they are repealed earlier, regulations made under section 263 are repeale
 
   **(1)** Subsection 356(1) of the `Budget Implementation Act, 2017, No. 1` is amended by replacing the subsection 246.1(2) that it enacts with the following:
 
-    **(2)** An employee shall not make a complaint under subsection (1) if they have made a complaint that is based on **substantially** the same facts under either subsection 240(1) or 247.99(1), unless that complaint has been withdrawn.
+    **(2)** An employee shall not make a complaint under subsection (1) if they have made a complaint that is based on substantially the same facts under either subsection 240(1) or 247.99(1), unless that complaint has been withdrawn.
 
   **(2)** Subsection 356(1) of the Act is amended by replacing the subsection 246.2(1) that it enacts with the following:
 
 ### Section 246.2
 
-      **(1)** If the Board **is** satisfied that the employee must take measures before the Board may **continue to deal with** the complaint made under subsection 246.1(1), **it** may, **at any time**, suspend consideration of the complaint, in whole or in part.
+      **(1)** If the Board is satisfied that the employee must take measures before the Board may continue to deal with the complaint made under subsection 246.1(1), it may, at any time, suspend consideration of the complaint, in whole or in part.
 
   **(3)** Subsection 356(1) of the Act is amended by replacing the subparagraph 246.3(1)(a)(iii) that it enacts with the following:
 
-    the complaint has been settled **in writing** between the employer and the employee,
+    the complaint has been settled in writing between the employer and the employee,
 
 ### Section 507
 
 Section 357 of the Act is amended by replacing the subsection 251(1.1) that it enacts with the following:
 
-**(1.1)** For greater certainty, the inspector may, when exercising the powers referred to in subsection (1), make any finding necessary to determine whether an employee is entitled to any wages or other amounts under this Part, including a finding that the employee was dismissed for just cause for the purposes of **Division X** or **XI**.
+**(1.1)** For greater certainty, the inspector may, when exercising the powers referred to in subsection (1), make any finding necessary to determine whether an employee is entitled to any wages or other amounts under this Part, including a finding that the employee was dismissed for just cause for the purposes of Division X or XI.
 
 ### Section 508
 
@@ -13987,7 +13995,7 @@ Section 359 of the Act is repealed.
 
 Section 360 of the Act is amended by replacing the subsection 251.06(2) that it enacts with the following:
 
-**(2)** An inspector shall not issue a compliance order under subsection (1) to take any measure that could be set out in an order made under subsection 242(4) or section 246.4 **or to make any payment that may be the subject of an order made** under **subsection 251.1(1)**.
+**(2)** An inspector shall not issue a compliance order under subsection (1) to take any measure that could be set out in an order made under subsection 242(4) or section 246.4 or to make any payment that may be the subject of an order made under subsection 251.1(1).
 
 ### Section 510
 
@@ -14002,7 +14010,7 @@ Section 197 of the `Budget Implementation Act, 2017, No. 2` is amended by replac
 
 ### Section 174.1
 
-  **(1)** Subject to subsections (2) and (3), an employee may refuse to work the overtime requested by the employer in order to **carry out the employee's** family responsibilities **referred to in paragraph 206.6(1)(b) or (c)**.
+  **(1)** Subject to subsections (2) and (3), an employee may refuse to work the overtime requested by the employer in order to carry out the employee's family responsibilities referred to in paragraph 206.6(1)(b) or (c).
 
 ### Section 512
 
@@ -14067,11 +14075,11 @@ Section 205 of the Act is repealed.
 
   **(2)** Subsection 209(2) of the Act is amended by replacing the paragraph 209.4(g) that it enacts with the following:
 
-    prescribing shorter periods of consecutive months of continuous employment for the purposes of subsections 206(1), 206.1(1), 206.4(2) and (2.1), 206.5(2) and (3), 206.6(**2**), **206.7(2.1)** and 206.8(1);
+    prescribing shorter periods of consecutive months of continuous employment for the purposes of subsections 206(1), 206.1(1), 206.4(2) and (2.1), 206.5(2) and (3), 206.6(2), 206.7(2.1) and 206.8(1);
 
   **(3)** Subsection 209(3) of the Act is amended by replacing the paragraph 209.4(h.3) that it enacts with the following:
 
-    prescribing documentation that the employer may request under any of subsections 206.6(**4**), 206.7(5) and 206.8(3);
+    prescribing documentation that the employer may request under any of subsections 206.6(4), 206.7(5) and 206.8(3);
 
 ### Section 516
 
@@ -14079,7 +14087,7 @@ Section 205 of the Act is repealed.
 
   **(2)** Subsection 215(2) of the Act is amended by replacing the paragraph 246.1(1)(a) that it enacts with the following:
 
-    the employer has taken action against the employee in contravention of subsection **173.01(5)**, 174.1(4) or 177.1(7) or of section 208, 209.3, 238, 239, 239.1 or 247.96;
+    the employer has taken action against the employee in contravention of subsection 173.01(5), 174.1(4) or 177.1(7) or of section 208, 209.3, 238, 239, 239.1 or 247.96;
 
 
 ##### Transitional Provisions
@@ -14415,17 +14423,17 @@ The Act is amended by adding the following after section 122.2:
 
   **(1)** Subparagraph 125(1)(d)(iii) of the Act is replaced by the following:
 
-    any other printed material related to health and safety that is prescribed or that may be directed by the **Head**;
+    any other printed material related to health and safety that is prescribed or that may be directed by the Head;
 
   **(2)** Paragraph 125(1)(x) of the Act is replaced by the following:
 
-    comply with every oral or written direction given to the employer by the **Head** or the Board concerning the health and safety of employees;
+    comply with every oral or written direction given to the employer by the Head or the Board concerning the health and safety of employees;
 
 ### Section 538
 
 Paragraph 126(1)(i) of the Act is replaced by the following:
 
-comply with every oral or written direction of the **Head** or the Board concerning the health and safety of employees; and
+comply with every oral or written direction of the Head or the Board concerning the health and safety of employees; and
 
 ### Section 539
 
@@ -14433,37 +14441,37 @@ The portion of subsection 127(1) of the Act before paragraph (a) is replaced by 
 
 ### Section 127
 
-  **(1)** Subject to subsection (2), if an employee is killed or seriously injured in a work place, no person shall, unless authorized to do so by the **Head**, remove or in any way interfere with or disturb any wreckage, article or thing related to the incident except to the extent necessary to
+  **(1)** Subject to subsection (2), if an employee is killed or seriously injured in a work place, no person shall, unless authorized to do so by the Head, remove or in any way interfere with or disturb any wreckage, article or thing related to the incident except to the extent necessary to
 
 ### Section 540
 
   **(1)** The portion of subsection 127.1(8) of the Act before paragraph (a) is replaced by the following:
 
-    **(8)** The employee or employer may refer a complaint that there has been a contravention of this Part to the **Head** in the following circumstances:
+    **(8)** The employee or employer may refer a complaint that there has been a contravention of this Part to the Head in the following circumstances:
 
   **(2)** Subsection 127.1(9) of the Act is replaced by the following:
 
-    **(9)** The **Head** shall investigate the complaint referred to in subsection (8).
+    **(9)** The Head shall investigate the complaint referred to in subsection (8).
 
   **(3)** The portion of subsection 127.1(10) of the Act before paragraph (a) is replaced by the following:
 
-    **(10)** On completion of the investigation, the **Head**
+    **(10)** On completion of the investigation, the Head
 
   **(4)** Paragraphs 127.1(10)(b) and (c) of the Act are replaced by the following:
 
-    may, if in the **Head's** opinion it is appropriate, recommend that the employee and employer resolve the matter between themselves; or
+    may, if in the Head's opinion it is appropriate, recommend that the employee and employer resolve the matter between themselves; or
 
-    shall, if the **Head** concludes that a danger exists as described in subsection 128(1), issue directions under subsection 145(2).
+    shall, if the Head concludes that a danger exists as described in subsection 128(1), issue directions under subsection 145(2).
 
   **(5)** Subsection 127.1(11) of the Act is replaced by the following:
 
-    **(11)** For greater certainty, nothing in this section limits the **Head's** authority under section 145.
+    **(11)** For greater certainty, nothing in this section limits the Head's authority under section 145.
 
 ### Section 541
 
 Subsection 128(16) of the Act is replaced by the following:
 
-**(16)** If the employee continues the refusal under subsection (15), the employer shall immediately inform the **Head** and the work place committee or the health and safety representative of its decision and the continued refusal. The employer shall also provide a copy of the report on the matter prepared under subsection (7.1) to the **Head** along with a copy of any report referred to in subsection (10.1) or (10.2).
+**(16)** If the employee continues the refusal under subsection (15), the employer shall immediately inform the Head and the work place committee or the health and safety representative of its decision and the continued refusal. The employer shall also provide a copy of the report on the matter prepared under subsection (7.1) to the Head along with a copy of any report referred to in subsection (10.1) or (10.2).
 
 ### Section 542
 
@@ -14471,45 +14479,45 @@ Subsection 128(16) of the Act is replaced by the following:
 
 ### Section 129
 
-      **(1)** If the **Head** is informed of the employer's decision and the continued refusal under subsection 128(16), the **Head** shall investigate the matter unless the **Head** is of the opinion that
+      **(1)** If the Head is informed of the employer's decision and the continued refusal under subsection 128(16), the Head shall investigate the matter unless the Head is of the opinion that
 
   **(2)** Subsections 129(1.1) to (1.3) of the Act are replaced by the following:
 
-    **(1.1)** If the **Head** does not proceed with an investigation, the **Head** shall inform the employer and the employee in writing, as soon as feasible, of that decision. The employer shall then inform in writing, as the case may be, the members of the work place committee who were designated under subsection 128(10) or the health and safety representative and the person who is designated by the employer under that subsection of the **Head's** decision.
+    **(1.1)** If the Head does not proceed with an investigation, the Head shall inform the employer and the employee in writing, as soon as feasible, of that decision. The employer shall then inform in writing, as the case may be, the members of the work place committee who were designated under subsection 128(10) or the health and safety representative and the person who is designated by the employer under that subsection of the Head's decision.
 
-    **(1.2)** On being informed of the **Head's** decision not to proceed with an investigation, the employee is no longer entitled to continue their refusal under subsection 128(15).
+    **(1.2)** On being informed of the Head's decision not to proceed with an investigation, the employee is no longer entitled to continue their refusal under subsection 128(15).
 
-    **(1.3)** If the **Head** proceeds with an investigation, the employee may continue to refuse, for the duration of the investigation, to use or operate the machine or thing, to work in the place or to perform the activity that may constitute a danger.
+    **(1.3)** If the Head proceeds with an investigation, the employee may continue to refuse, for the duration of the investigation, to use or operate the machine or thing, to work in the place or to perform the activity that may constitute a danger.
 
   **(3)** The portion of subsection 129(1.4) of the Act before paragraph (a) is replaced by the following:
 
-    **(1.4)** If the **Head** proceeds with an investigation, the **Head** may do so in the presence of the employer, the employee and one other person who is
+    **(1.4)** If the Head proceeds with an investigation, the Head may do so in the presence of the employer, the employee and one other person who is
 
   **(4)** Subsection 129(3) of the Act is replaced by the following:
 
-    **(3)** The **Head** may proceed with an investigation in the absence of any person mentioned in subsection (1.4) or (2) if that person chooses not to be present.
+    **(3)** The Head may proceed with an investigation in the absence of any person mentioned in subsection (1.4) or (2) if that person chooses not to be present.
 
   **(5)** The portion of subsection 129(3.1) of the Act before paragraph (a) is replaced by the following:
 
-    **(3.1)** During the **Head's** investigation, the **Head** shall verify if there are previous or ongoing investigations in relation to the same employer that involve substantially the same issues and may
+    **(3.1)** During the Head's investigation, the Head shall verify if there are previous or ongoing investigations in relation to the same employer that involve substantially the same issues and may
 
   **(6)** Paragraph 129(3.1)(b) of the Act is replaced by the following:
 
-    if there is an ongoing investigation, combine that investigation with the investigation the **Head** is conducting and issue a single decision.
+    if there is an ongoing investigation, combine that investigation with the investigation the Head is conducting and issue a single decision.
 
   **(7)** Subsection 129(4) of the Act is replaced by the following:
 
-    **(4)** The **Head** shall, on completion of an investigation made under subsection (1), make one of the decisions referred to in paragraphs 128(13)(a) to (c) and shall immediately give written notification of the decision to the employer and the employee.
+    **(4)** The Head shall, on completion of an investigation made under subsection (1), make one of the decisions referred to in paragraphs 128(13)(a) to (c) and shall immediately give written notification of the decision to the employer and the employee.
 
   **(8)** The portion of subsection 129(5) of the Act before paragraph (a) is replaced by the following:
 
-    **(5)** If the employee has exercised their right under subsection (1.3), the employer may, during the investigation and until the **Head** has issued a decision, require that the employee concerned remain at a safe location near the place in respect of which the investigation is being made or assign the employee reasonable alternative work, and shall not assign any other employee to use or operate the machine or thing, work in that place or perform the activity referred to in subsection (1) unless
+    **(5)** If the employee has exercised their right under subsection (1.3), the employer may, during the investigation and until the Head has issued a decision, require that the employee concerned remain at a safe location near the place in respect of which the investigation is being made or assign the employee reasonable alternative work, and shall not assign any other employee to use or operate the machine or thing, work in that place or perform the activity referred to in subsection (1) unless
 
   **(9)** Subsections 129(6) and (7) of the Act are replaced by the following:
 
-    **(6)** If the **Head** makes a decision referred to in paragraph 128(13)(a), the **Head** shall issue the directions under subsection 145(2) that the **Head** considers appropriate, and an employee may continue to refuse to use or operate the machine or thing, work in that place or perform that activity until the directions are complied with or until they are varied or rescinded under this Part.
+    **(6)** If the Head makes a decision referred to in paragraph 128(13)(a), the Head shall issue the directions under subsection 145(2) that the Head considers appropriate, and an employee may continue to refuse to use or operate the machine or thing, work in that place or perform that activity until the directions are complied with or until they are varied or rescinded under this Part.
 
-    **(7)** If the **Head** makes a decision referred to in paragraph 128(13)(b) or (c), the employee is not entitled under section 128 or this section to continue to refuse to use or operate the machine or thing, work in that place or perform that activity, but the employee, or a person designated by the employee for the purpose, may appeal the decision, in writing, to the Board within 10 days after receiving notice of the decision.
+    **(7)** If the Head makes a decision referred to in paragraph 128(13)(b) or (c), the employee is not entitled under section 128 or this section to continue to refuse to use or operate the machine or thing, work in that place or perform that activity, but the employee, or a person designated by the employee for the purpose, may appeal the decision, in writing, to the Board within 10 days after receiving notice of the decision.
 
 ### Section 543
 
@@ -14517,57 +14525,57 @@ Section 130 of the Act is replaced by the following:
 
 ### Section 130
 
-The **Head** may, on the joint application of the parties to a collective agreement, if the **Head** is satisfied that the agreement contains provisions that are at least as effective as those under sections 128 and 129 in protecting the employees to whom the agreement relates from danger to their health or safety, exclude the employees from the application of those sections for the period during which the agreement remains in force.
+The Head may, on the joint application of the parties to a collective agreement, if the Head is satisfied that the agreement contains provisions that are at least as effective as those under sections 128 and 129 in protecting the employees to whom the agreement relates from danger to their health or safety, exclude the employees from the application of those sections for the period during which the agreement remains in force.
 
 ### Section 544
 
 Subsection 133(3) of the Act is replaced by the following:
 
-**(3)** A complaint in respect of the exercise of a right under section 128 or 129 may not be made unless the employee has complied with subsection 128(6) or the **Head** has received the reports referred to in subsection 128(16), as the case may be, in relation to the matter that is the subject-matter of the complaint.
+**(3)** A complaint in respect of the exercise of a right under section 128 or 129 may not be made unless the employee has complied with subsection 128(6) or the Head has received the reports referred to in subsection 128(16), as the case may be, in relation to the matter that is the subject-matter of the complaint.
 
 ### Section 545
 
 Subsection 134(2) of the Act is replaced by the following:
 
-**(2)** Any person affected by an order of the Board under subsection (1), or the **Head** on the request of such a person, may, after 14 days from the day on which the order is made, or from the day provided in the order for compliance, whichever is later, file in the Federal Court a copy of the order, exclusive of reasons.
+**(2)** Any person affected by an order of the Board under subsection (1), or the Head on the request of such a person, may, after 14 days from the day on which the order is made, or from the day provided in the order for compliance, whichever is later, file in the Federal Court a copy of the order, exclusive of reasons.
 
 ### Section 546
 
 Paragraph 134.1(4)(f) of the Act is replaced by the following:
 
-shall cooperate with the **Head**;
+shall cooperate with the Head;
 
 ### Section 547
 
   **(1)** The portion of subsection 135(6) of the Act before paragraph (b) is replaced by the following:
 
-    **(6)** If, under a collective agreement or any other agreement between an employer and the employer's employees, a committee of persons has been appointed and the committee has, in the opinion of the **Head**, a responsibility for matters relating to health and safety in the work place to such an extent that a work place committee established under subsection (1) for that work place would not be necessary,
+    **(6)** If, under a collective agreement or any other agreement between an employer and the employer's employees, a committee of persons has been appointed and the committee has, in the opinion of the Head, a responsibility for matters relating to health and safety in the work place to such an extent that a work place committee established under subsection (1) for that work place would not be necessary,
 
-      the **Head** may, in writing, exempt the employer from the requirements of subsection (1) in respect of that work place;
+      the Head may, in writing, exempt the employer from the requirements of subsection (1) in respect of that work place;
 
   **(2)** Paragraph 135(7)(h) of the Act is replaced by the following:
 
-    shall cooperate with the **Head**;
+    shall cooperate with the Head;
 
 ### Section 548
 
   **(1)** Subsection 135.1(4) of the Act is replaced by the following:
 
-    **(4)** If a trade union fails to select a person under subparagraph (1)(b)(ii), the **Head** may notify in writing the local branch of the trade union, and shall send a copy of any such notification to the trade union's national or international headquarters and to the employer, indicating that the committee is not established until a person is selected in accordance with that subparagraph.
+    **(4)** If a trade union fails to select a person under subparagraph (1)(b)(ii), the Head may notify in writing the local branch of the trade union, and shall send a copy of any such notification to the trade union's national or international headquarters and to the employer, indicating that the committee is not established until a person is selected in accordance with that subparagraph.
 
   **(2)** Subsection 135.1(9) of the Act is replaced by the following:
 
-    **(9)** A committee shall ensure that accurate records are kept of all of the matters that come before it and that minutes are kept of its meetings. The committee shall make the minutes and records available to the **Head** at the **Head's** request.
+    **(9)** A committee shall ensure that accurate records are kept of all of the matters that come before it and that minutes are kept of its meetings. The committee shall make the minutes and records available to the Head at the Head's request.
 
 ### Section 549
 
   **(1)** Subsection 136(3) of the Act is replaced by the following:
 
-    **(3)** If a trade union fails to select a person under subsection (2), the **Head** may so notify in writing the local branch of the trade union. The **Head** shall send a copy of the notification to the trade union's national or international headquarters and to the employer.
+    **(3)** If a trade union fails to select a person under subsection (2), the Head may so notify in writing the local branch of the trade union. The Head shall send a copy of the notification to the trade union's national or international headquarters and to the employer.
 
   **(2)** Paragraph 136(5)(h) of the Act is replaced by the following:
 
-    shall cooperate with the **Head**;
+    shall cooperate with the Head;
 
 ### Section 550
 
@@ -14575,13 +14583,13 @@ Section 137 of the Act is replaced by the following:
 
 ### Section 137
 
-Despite sections 135 and 136, if an employer controls more than one work place or the size or nature of the operations of the employer or those of the work place precludes the effective functioning of a single work place committee or health and safety representative, as the case may be, for those work places, the employer shall, subject to the approval or in accordance with the direction of the **Head**, establish or appoint in accordance with section 135 or 136, as the case may be, a work place committee or health and safety representative for the work places that are specified in the approval or direction.
+Despite sections 135 and 136, if an employer controls more than one work place or the size or nature of the operations of the employer or those of the work place precludes the effective functioning of a single work place committee or health and safety representative, as the case may be, for those work places, the employer shall, subject to the approval or in accordance with the direction of the Head, establish or appoint in accordance with section 135 or 136, as the case may be, a work place committee or health and safety representative for the work places that are specified in the approval or direction.
 
 ### Section 551
 
 Subsection 137.1(5) of the Act is replaced by the following:
 
-**(5)** No person to whom powers, duties or functions have been delegated under subsection 140(1) **or (1.1)**, or under an agreement entered into under subsection 140(2), is eligible to be appointed to the Commission or as alternate chairperson under subsection (2.1), or to be designated for the purposes of subsection 137.2(1) or (2).
+**(5)** No person to whom powers, duties or functions have been delegated under subsection 140(1) or (1.1), or under an agreement entered into under subsection 140(2), is eligible to be appointed to the Commission or as alternate chairperson under subsection (2.1), or to be designated for the purposes of subsection 137.2(1) or (2).
 
 ### Section 552
 
@@ -14598,15 +14606,15 @@ The heading before section 140 of the Act is replaced by the following:
 
   **(2)** Subsections 140(2) and (3) of the Act are replaced by the following:
 
-    **(2)** Subject to subsection (3), the Minister may, with the approval of the Governor in Council, enter into an agreement with any province or any provincial body specifying the terms and conditions under which the Minister may delegate to a person employed by that province or provincial body the powers, duties or functions that the Minister **or the Head** is authorized to exercise or perform for the purposes of this Part.
+    **(2)** Subject to subsection (3), the Minister may, with the approval of the Governor in Council, enter into an agreement with any province or any provincial body specifying the terms and conditions under which the Minister may delegate to a person employed by that province or provincial body the powers, duties or functions that the Minister or the Head is authorized to exercise or perform for the purposes of this Part.
 
-    **(3)** The powers, duties or functions provided for in section 130, subsections 135(3), 137.1(1) to (2.1), and (7) to (9), 137.2(4), 138(1) to (2) and (4) to (6), 140(1) **to** (2) and (4), 144(1) and 149(1), sections 152 and 155 and subsections 156.1(1), 157(3) and 159(2), shall not be the subject of an agreement under subsection (2).
+    **(3)** The powers, duties or functions provided for in section 130, subsections 135(3), 137.1(1) to (2.1), and (7) to (9), 137.2(4), 138(1) to (2) and (4) to (6), 140(1) to (2) and (4), 144(1) and 149(1), sections 152 and 155 and subsections 156.1(1), 157(3) and 159(2), shall not be the subject of an agreement under subsection (2).
 
   **(3)** Subsection 140(5) of the Act is replaced by the following:
 
     **(4.1)** The Head may provide any person to whom powers, duties or functions have been delegated under subsection (1.1), or under an agreement entered into under subsection (2), with a certificate of authority and, when exercising those powers or performing those duties or functions, that person shall show the certificate to any person who asks to see it.
 
-    **(5)** A person to whom powers, duties or functions have been delegated under subsection (1) **or (1.1)**, or under an agreement entered into under subsection (2), is not personally liable for anything done or omitted to be done by them in good faith in the actual or purported exercise of those powers or performance of those duties or functions.
+    **(5)** A person to whom powers, duties or functions have been delegated under subsection (1) or (1.1), or under an agreement entered into under subsection (2), is not personally liable for anything done or omitted to be done by them in good faith in the actual or purported exercise of those powers or performance of those duties or functions.
 
 ### Section 554
 
@@ -14614,39 +14622,39 @@ The heading before section 140 of the Act is replaced by the following:
 
 ### Section 141
 
-      **(1)** Subject to section 143.2, the **Head** may, in carrying out the **Head's** duties and at any reasonable time, enter any work place controlled by an employer and, in respect of any work place, may
+      **(1)** Subject to section 143.2, the Head may, in carrying out the Head's duties and at any reasonable time, enter any work place controlled by an employer and, in respect of any work place, may
 
   **(2)** Paragraph 141(1)(c) of the English version of the Act is replaced by the following:
 
-    be accompanied or assisted by any person and bring any equipment that the **Head** deems necessary to carry out the **Head's** duties;
+    be accompanied or assisted by any person and bring any equipment that the Head deems necessary to carry out the Head's duties;
 
   **(3)** Paragraphs 141(1)(f) to (j) of the Act are replaced by the following:
 
-    direct the employer to ensure that any place or thing specified by the **Head** not be disturbed for a reasonable period pending an examination, test, inquiry, investigation or inspection in relation to the place or thing;
+    direct the employer to ensure that any place or thing specified by the Head not be disturbed for a reasonable period pending an examination, test, inquiry, investigation or inspection in relation to the place or thing;
 
-    direct any person not to disturb any place or thing specified by the **Head** for a reasonable period pending an examination, test, inquiry, investigation or inspection in relation to the place or thing;
+    direct any person not to disturb any place or thing specified by the Head for a reasonable period pending an examination, test, inquiry, investigation or inspection in relation to the place or thing;
 
-    direct the employer to produce documents and information relating to the health and safety of the employer's employees or the safety of the work place and to permit the **Head** to examine and make copies of or take extracts from those documents and that information;
+    direct the employer to produce documents and information relating to the health and safety of the employer's employees or the safety of the work place and to permit the Head to examine and make copies of or take extracts from those documents and that information;
 
-    direct the employer or an employee to make or provide statements, in the form and manner that the **Head** may specify, respecting working conditions and material and equipment that affect the health or safety of employees;
+    direct the employer or an employee to make or provide statements, in the form and manner that the Head may specify, respecting working conditions and material and equipment that affect the health or safety of employees;
 
-    direct the employer or an employee or a person designated by either of them to accompany the **Head** while the **Head**, is in the work place; and
+    direct the employer or an employee or a person designated by either of them to accompany the Head while the Head, is in the work place; and
 
   **(4)** Subsection 141(2) of the Act is replaced by the following:
 
-    **(2)** The **Head** may issue a direction under subsection (1) whether or not the **Head** is in the work place at the time the direction is issued.
+    **(2)** The Head may issue a direction under subsection (1) whether or not the Head is in the work place at the time the direction is issued.
 
   **(5)** Subsection 141(3) of the English version of the Act is replaced by the following:
 
-    **(3)** On request by the person from whom material or equipment was taken or removed for testing under paragraph (1)(d), the **Head** shall return that material or equipment to the person after testing is completed unless it is required for the purposes of a prosecution under this Part.
+    **(3)** On request by the person from whom material or equipment was taken or removed for testing under paragraph (1)(d), the Head shall return that material or equipment to the person after testing is completed unless it is required for the purposes of a prosecution under this Part.
 
   **(6)** Subsections 141(4) to (6) of the Act are replaced by the following:
 
-    **(4)** The **Head** shall investigate every death of an employee that occurred in the work place or while the employee was working, or that was the result of an injury that occurred in the work place or while the employee was working.
+    **(4)** The Head shall investigate every death of an employee that occurred in the work place or while the employee was working, or that was the result of an injury that occurred in the work place or while the employee was working.
 
-    **(5)** If the death results from a motor vehicle accident on a public road, as part of the investigation the **Head** shall obtain a copy of any police report as soon as possible after the accident.
+    **(5)** If the death results from a motor vehicle accident on a public road, as part of the investigation the Head shall obtain a copy of any police report as soon as possible after the accident.
 
-    **(6)** Within 10 days after completing a written report on the findings of an inquiry or investigation, the **Head** shall provide the employer and the work place committee or the health and safety representative with a copy of the report.
+    **(6)** Within 10 days after completing a written report on the findings of an inquiry or investigation, the Head shall provide the employer and the work place committee or the health and safety representative with a copy of the report.
 
 ### Section 555
 
@@ -14654,41 +14662,41 @@ The heading before section 140 of the Act is replaced by the following:
 
 ### Section 141.1
 
-      **(1)** If the **Head** conducts an inspection of the work place at the work place, it shall be done in the presence of
+      **(1)** If the Head conducts an inspection of the work place at the work place, it shall be done in the presence of
 
   **(2)** Subsection 141.1(2) of the Act is replaced by the following:
 
-    **(2)** The **Head** may proceed with an inspection in the absence of any person mentioned in subsection (1) if that person chooses not to be present.
+    **(2)** The Head may proceed with an inspection in the absence of any person mentioned in subsection (1) if that person chooses not to be present.
 
 ### Section 556
 
   **(1)** Paragraph 142(a) of the Act is replaced by the following:
 
-    the **Head** to enable him or her to exercise his or her powers or to perform his or her duties or functions under this Part;
+    the Head to enable him or her to exercise his or her powers or to perform his or her duties or functions under this Part;
 
   **(2)** Paragraph 142(b) of the Act is replaced by the following:
 
-    every person to whom powers, duties or functions have been delegated under subsection 140(1) **or (1.1)**, or under an agreement entered into under subsection 140(2), who is exercising those powers or performing those duties or functions.
+    every person to whom powers, duties or functions have been delegated under subsection 140(1) or (1.1), or under an agreement entered into under subsection 140(2), who is exercising those powers or performing those duties or functions.
 
 ### Section 557
 
   **(1)** Paragraph 143(a) of the Act is replaced by the following:
 
-    the **Head** in the exercise of his or her powers, or in the performance of his or her duties or functions, under this Part;
+    the Head in the exercise of his or her powers, or in the performance of his or her duties or functions, under this Part;
 
   **(2)** Paragraph 143(b) of the Act is replaced by the following:
 
-    any person to whom powers, duties or functions have been delegated under subsection 140(1) **or (1.1)**, or under an agreement entered into under subsection 140(2), who is exercising those powers or performing those duties or functions.
+    any person to whom powers, duties or functions have been delegated under subsection 140(1) or (1.1), or under an agreement entered into under subsection 140(2), who is exercising those powers or performing those duties or functions.
 
 ### Section 558
 
   **(1)** Paragraph 143.1(a) of the Act is replaced by the following:
 
-    the **Head** in the exercise of his or her powers, or in the performance of his or her duties or functions under this Part;
+    the Head in the exercise of his or her powers, or in the performance of his or her duties or functions under this Part;
 
   **(2)** Paragraph 143.1(b) of the Act is replaced by the following:
 
-    any person to whom powers, duties or functions have been delegated under subsection 140(1) **or (1.1)**, or under an agreement entered into under subsection 140(2), who is exercising those powers or performing those duties or functions.
+    any person to whom powers, duties or functions have been delegated under subsection 140(1) or (1.1), or under an agreement entered into under subsection 140(2), who is exercising those powers or performing those duties or functions.
 
 ### Section 559
 
@@ -14696,19 +14704,19 @@ The heading before section 140 of the Act is replaced by the following:
 
 ### Section 144
 
-      **(1)** No person to whom powers, duties or functions have been delegated under subsection 140(1) **or (1.1)**, or under an agreement entered into under subsection 140(2), and no person who has accompanied or assisted that person in exercising those powers or performing those duties or functions may be required to give testimony in civil or administrative proceedings, other than proceedings under this Part, with regard to information obtained in exercising those powers or performing those duties or functions, except with the written permission of the **Head**, in which case subsection (5) does not apply to restrict the disclosure of the information.
+      **(1)** No person to whom powers, duties or functions have been delegated under subsection 140(1) or (1.1), or under an agreement entered into under subsection 140(2), and no person who has accompanied or assisted that person in exercising those powers or performing those duties or functions may be required to give testimony in civil or administrative proceedings, other than proceedings under this Part, with regard to information obtained in exercising those powers or performing those duties or functions, except with the written permission of the Head, in which case subsection (5) does not apply to restrict the disclosure of the information.
 
-      **(1.1)** The **Head** shall not be required to give testimony in civil or administrative proceedings, other than proceedings under this Part, with regard to information obtained in the exercise of powers or the performance of duties or functions the **Head** is authorized to exercise or perform under this Part, except for those powers, duties or functions that shall not be the subject of an agreement entered into under subsection 140(2).
+      **(1.1)** The Head shall not be required to give testimony in civil or administrative proceedings, other than proceedings under this Part, with regard to information obtained in the exercise of powers or the performance of duties or functions the Head is authorized to exercise or perform under this Part, except for those powers, duties or functions that shall not be the subject of an agreement entered into under subsection 140(2).
 
   **(2)** Subsection 144(3) of the Act is replaced by the following:
 
-    **(3)** Subject to subsection (4), the **Head**, an external adjudicator or a member of the Board who is admitted to a work place under the powers conferred by section 141 — or a person who is admitted to a work place under the powers conferred by section 141 that are delegated to them under subsection 140**(1.1)** or under an agreement entered into under subsection 140(2) — and any person accompanying them, shall not disclose to any person any information obtained in the work place by the **Head**, external adjudicator or member or person with regard to any secret process or trade secret, except for the purposes of this Part or as required by law.
+    **(3)** Subject to subsection (4), the Head, an external adjudicator or a member of the Board who is admitted to a work place under the powers conferred by section 141 — or a person who is admitted to a work place under the powers conferred by section 141 that are delegated to them under subsection 140(1.1) or under an agreement entered into under subsection 140(2) — and any person accompanying them, shall not disclose to any person any information obtained in the work place by the Head, external adjudicator or member or person with regard to any secret process or trade secret, except for the purposes of this Part or as required by law.
 
   **(3)** Subsections 144(5) and (5.01) of the Act are replaced by the following:
 
-    **(5)** No person shall, except for the purposes of this Part or for the purposes of a prosecution under this Part or unless the **Head** is satisfied that the publication or disclosure is in the interest of occupational health and safety or the public interest, publish or disclose any information obtained as a result of activities carried out under section 141.
+    **(5)** No person shall, except for the purposes of this Part or for the purposes of a prosecution under this Part or unless the Head is satisfied that the publication or disclosure is in the interest of occupational health and safety or the public interest, publish or disclose any information obtained as a result of activities carried out under section 141.
 
-    **(5.01)** Situations in which the **Head** may be so satisfied include, but are not limited to, situations in which the publication or disclosure is for the purposes of a coroner's inquiry, the administration or enforcement of a federal or provincial law or the administration of a foreign law or international agreement.
+    **(5.01)** Situations in which the Head may be so satisfied include, but are not limited to, situations in which the publication or disclosure is for the purposes of a coroner's inquiry, the administration or enforcement of a federal or provincial law or the administration of a foreign law or international agreement.
 
 ### Section 560
 
@@ -14716,49 +14724,49 @@ The heading before section 140 of the Act is replaced by the following:
 
 ### Section 145
 
-      **(1)** If the **Head** is of the opinion that a provision of this Part is being contravened or has recently been contravened, the **Head** may direct the employer or employee concerned, or both, to
+      **(1)** If the Head is of the opinion that a provision of this Part is being contravened or has recently been contravened, the Head may direct the employer or employee concerned, or both, to
 
   **(2)** Paragraph 145(1)(b) of the English version of the Act is replaced by the following:
 
-    take steps, as specified by the **Head** and within the time that the **Head** may specify, to ensure that the contravention does not continue or re-occur.
+    take steps, as specified by the Head and within the time that the Head may specify, to ensure that the contravention does not continue or re-occur.
 
   **(3)** The portion of subsection 145(1.1) of the English version of Act before paragraph (b) is replaced by the following:
 
-    **(1.1)** If the **Head** has issued a direction orally, the **Head** shall provide a written version of it
+    **(1.1)** If the Head has issued a direction orally, the Head shall provide a written version of it
 
-      before the **Head** leaves the work place, if the **Head** was in the work place when the direction was issued; or
+      before the Head leaves the work place, if the Head was in the work place when the direction was issued; or
 
   **(4)** The portion of subsection 145(2) of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** If the **Head** considers that the use or operation of a machine or thing, a condition in a place or the performance of an activity constitutes a danger to an employee while at work,
+    **(2)** If the Head considers that the use or operation of a machine or thing, a condition in a place or the performance of an activity constitutes a danger to an employee while at work,
 
   **(5)** The portion of paragraph 145(2)(a) of the English version of the Act before subparagraph (i) is replaced by the following:
 
-    the **Head** shall notify the employer of the danger and issue directions in writing to the employer directing the employer, immediately or within the period that the **Head** specifies, to take measures to
+    the Head shall notify the employer of the danger and issue directions in writing to the employer directing the employer, immediately or within the period that the Head specifies, to take measures to
 
   **(6)** Paragraph 145(2)(b) of the English version of the Act is replaced by the following:
 
-    the **Head** may, if the **Head** considers that the danger or the hazard, condition or activity that constitutes the danger cannot otherwise be corrected, altered or protected against immediately, issue a direction in writing to the employer directing that the place, machine, thing or activity in respect of which the direction is issued not be used, operated or performed, as the case may be, until the **Head's** directions are complied with, but nothing in this paragraph prevents the doing of anything necessary for the proper compliance with the direction.
+    the Head may, if the Head considers that the danger or the hazard, condition or activity that constitutes the danger cannot otherwise be corrected, altered or protected against immediately, issue a direction in writing to the employer directing that the place, machine, thing or activity in respect of which the direction is issued not be used, operated or performed, as the case may be, until the Head's directions are complied with, but nothing in this paragraph prevents the doing of anything necessary for the proper compliance with the direction.
 
   **(7)** Subsections 145(2.1) to (4) of the Act are replaced by the following:
 
-    **(2.1)** If the **Head** considers that the use or operation of a machine or thing by an employee, a condition in a place or the performance of an activity by an employee constitutes a danger to the employee or to another employee, the **Head** shall, in addition to the directions issued under paragraph (2)(a), issue a direction in writing to the employee to discontinue the use, operation or activity or cease to work in that place until the employer has complied with the directions issued under that paragraph.
+    **(2.1)** If the Head considers that the use or operation of a machine or thing by an employee, a condition in a place or the performance of an activity by an employee constitutes a danger to the employee or to another employee, the Head shall, in addition to the directions issued under paragraph (2)(a), issue a direction in writing to the employee to discontinue the use, operation or activity or cease to work in that place until the employer has complied with the directions issued under that paragraph.
 
-    **(3)** If the **Head** issues a direction under paragraph (2)(a), the **Head** shall affix or cause to be affixed to or near the place, machine or thing in respect of which the direction is issued, or in the area in which the activity in respect of which the direction is issued is performed, a notice of danger in the form and containing the information that the **Head** may specify, and no person shall remove the notice unless authorized to do so by the **Head**.
+    **(3)** If the Head issues a direction under paragraph (2)(a), the Head shall affix or cause to be affixed to or near the place, machine or thing in respect of which the direction is issued, or in the area in which the activity in respect of which the direction is issued is performed, a notice of danger in the form and containing the information that the Head may specify, and no person shall remove the notice unless authorized to do so by the Head.
 
-    **(4)** If the **Head** issues a direction under paragraph (2)(b) in respect of a place, machine, thing or activity, the employer shall cause the use of the place, the use or operation of the machine or thing or the performance of the activity to be discontinued, and no person shall use or operate the machine or thing, work in that place or perform the activity until the measures directed by the **Head** have been taken.
+    **(4)** If the Head issues a direction under paragraph (2)(b) in respect of a place, machine, thing or activity, the employer shall cause the use of the place, the use or operation of the machine or thing or the performance of the activity to be discontinued, and no person shall use or operate the machine or thing, work in that place or perform the activity until the measures directed by the Head have been taken.
 
   **(8)** The portion of subsection 145(5) of the Act before paragraph (a) is replaced by the following:
 
-    **(5)** If the **Head** issues a direction in writing under subsection (1) or (2) or makes a report in writing to an employer on any matter under this Part, the employer shall without delay
+    **(5)** If the Head issues a direction in writing under subsection (1) or (2) or makes a report in writing to an employer on any matter under this Part, the employer shall without delay
 
   **(9)** Subsections 145(6) to (8) of the Act are replaced by the following:
 
-    **(6)** If the **Head** issues a direction under subsection (1), (2) or (2.1) or makes a report referred to in subsection (5) in respect of an investigation made by the **Head** following a complaint, the **Head** shall immediately provide a copy of the direction or report to each person, if any, whose complaint led to the investigation.
+    **(6)** If the Head issues a direction under subsection (1), (2) or (2.1) or makes a report referred to in subsection (5) in respect of an investigation made by the Head following a complaint, the Head shall immediately provide a copy of the direction or report to each person, if any, whose complaint led to the investigation.
 
-    **(7)** If the **Head** issues a direction to an employee under subsection (1) or (2.1), the **Head** shall immediately provide a copy of the direction to the employee's employer.
+    **(7)** If the Head issues a direction to an employee under subsection (1) or (2.1), the Head shall immediately provide a copy of the direction to the employee's employer.
 
-    **(8)** If the **Head** issues a direction under subsection (1), (2) or (2.1) or makes a report referred to in subsection (5), the **Head** may require the employer or the employee to whom the direction is issued or to whom the report relates to respond in writing to the direction or report, within the time that the **Head** may specify. The employer or employee shall provide a copy of the response to the policy committee and a copy to the work place committee or the health and safety representative.
+    **(8)** If the Head issues a direction under subsection (1), (2) or (2.1) or makes a report referred to in subsection (5), the Head may require the employer or the employee to whom the direction is issued or to whom the report relates to respond in writing to the direction or report, within the time that the Head may specify. The employer or employee shall provide a copy of the response to the policy committee and a copy to the work place committee or the health and safety representative.
 
 ### Section 561
 
@@ -14766,7 +14774,7 @@ Section 145.1 of the Act is replaced by the following:
 
 ### Section 145.1
 
-For the purposes of sections 146 to 146.5, the Board has all of the powers, duties and functions of the Minister **and the Head** under this Part, except for those referred to in section 130, subsections 135(3) and (6), 137.1(1) to (2.1) and (7) to (9), 137.2(4), 138(1) to (2) and (4) to (6), section 139, subsections 140(1) **to** (2) and (4) and 144(1), section 146.01, subsection 149(1), sections 152 and 155 and subsections 156.1(1), 157(3) and 159(2).
+For the purposes of sections 146 to 146.5, the Board has all of the powers, duties and functions of the Minister and the Head under this Part, except for those referred to in section 130, subsections 135(3) and (6), 137.1(1) to (2.1) and (7) to (9), 137.2(4), 138(1) to (2) and (4) to (6), section 139, subsections 140(1) to (2) and (4) and 144(1), section 146.01, subsection 149(1), sections 152 and 155 and subsections 156.1(1), 157(3) and 159(2).
 
 ### Section 562
 
@@ -14774,7 +14782,7 @@ Subsection 146(1) of the Act is replaced by the following:
 
 ### Section 146
 
-  **(1)** An employer, employee or trade union that feels aggrieved by a direction issued by the **Head** under this Part may appeal the direction to the Board, in writing, within 30 days after the day on which the direction was issued or confirmed in writing.
+  **(1)** An employer, employee or trade union that feels aggrieved by a direction issued by the Head under this Part may appeal the direction to the Board, in writing, within 30 days after the day on which the direction was issued or confirmed in writing.
 
 ### Section 563
 
@@ -14782,19 +14790,19 @@ Section 146.01 of the Act is replaced by the following:
 
 ### Section 146.01
 
-  **(1)** The Board shall inform the **Head** in writing when an appeal is brought under subsection 129(7) or section 146 and provide him or her with a copy of the request for appeal.
+  **(1)** The Board shall inform the Head in writing when an appeal is brought under subsection 129(7) or section 146 and provide him or her with a copy of the request for appeal.
 
-  **(2)** The **Head** shall, on request of the Board, provide to the Board a copy of any document that the **Head** relied on for the purpose of making the decision or issuing the direction being appealed.
+  **(2)** The Head shall, on request of the Board, provide to the Board a copy of any document that the Head relied on for the purpose of making the decision or issuing the direction being appealed.
 
-  **(3)** The Board shall, on request of the **Head**, provide to the **Head** a copy of any document that is filed with the Board in the appeal.
+  **(3)** The Board shall, on request of the Head, provide to the Head a copy of any document that is filed with the Board in the appeal.
 
-  **(4)** The **Head** may, in an appeal, present evidence and make representations to the Board.
+  **(4)** The Head may, in an appeal, present evidence and make representations to the Board.
 
 ### Section 564
 
 Subsection 146.1(2) of the Act is replaced by the following:
 
-**(2)** The Board shall provide a written decision, with reasons, and a copy of any direction to the employer, employee or trade union concerned and to the **Head**, and the employer shall, without delay, give a copy of the decision, the reasons, and any direction to the work place committee or health and safety representative.
+**(2)** The Board shall provide a written decision, with reasons, and a copy of any direction to the employer, employee or trade union concerned and to the Head, and the employer shall, without delay, give a copy of the decision, the reasons, and any direction to the work place committee or health and safety representative.
 
 ### Section 565
 
@@ -14802,7 +14810,7 @@ Section 152 of the Act is replaced by the following:
 
 ### Section 152
 
-The **Head** may apply or cause an application to be made to a judge of a superior court for an order enjoining any person from contravening a provision of this Part, whether or not a prosecution has been instituted for an offence under this Part, or enjoining any person from continuing any act or default for which the person was convicted of an offence under this Part.
+The Head may apply or cause an application to be made to a judge of a superior court for an order enjoining any person from contravening a provision of this Part, whether or not a prosecution has been instituted for an offence under this Part, or enjoining any person from continuing any act or default for which the person was convicted of an offence under this Part.
 
 ### Section 566
 
@@ -14810,7 +14818,7 @@ Section 154.1 of the Act is replaced by the following:
 
 ### Section 154.1
 
-The **Head** may, subject to the regulations, make public the name of an employer convicted of an offence under this Part, the nature of the offence, the punishment imposed and any other prescribed information.
+The Head may, subject to the regulations, make public the name of an employer convicted of an offence under this Part, the nature of the offence, the punishment imposed and any other prescribed information.
 
 ### Section 567
 
@@ -14818,21 +14826,21 @@ The **Head** may, subject to the regulations, make public the name of an employe
 
 ### Section 155
 
-      **(1)** **If** a person is required to provide information for the purposes of this Part, the **Head** may require the information to be provided by a notice to that effect served personally or sent by registered mail addressed to the latest known address of the person, and the person shall comply with the notice within such reasonable time as is specified **in it**.
+      **(1)** If a person is required to provide information for the purposes of this Part, the Head may require the information to be provided by a notice to that effect served personally or sent by registered mail addressed to the latest known address of the person, and the person shall comply with the notice within such reasonable time as is specified in it.
 
   **(2)** The portion of subsection 155(2) of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** A certificate purporting to be signed by the **Head** or by a person authorized by the **Head**,
+    **(2)** A certificate purporting to be signed by the Head or by a person authorized by the Head,
 
   **(3)** Paragraph 155(2)(b) of the English version of the Act is replaced by the following:
 
-    certifying that the information has not been provided as requested in the notice sent by the **Head**,
+    certifying that the information has not been provided as requested in the notice sent by the Head,
 
 ### Section 568
 
 Subsection 157(6) of the Act is replaced by the following:
 
-**(6)** Regulations made under this section that prescribe or incorporate a standard but that require the standard to be complied with only to the extent that compliance is practicable or reasonably practicable in circumstances governed by the standard may require the employer to report to the **Head** the reason that full compliance is not practicable or reasonably practicable in particular circumstances.
+**(6)** Regulations made under this section that prescribe or incorporate a standard but that require the standard to be complied with only to the extent that compliance is practicable or reasonably practicable in circumstances governed by the standard may require the employer to report to the Head the reason that full compliance is not practicable or reasonably practicable in particular circumstances.
 
 ### Section 569
 
@@ -14844,21 +14852,21 @@ The definitions **inspector** and **regional director** in section 166 of the Ac
 
 ### Section 172.1
 
-      **(1)** **If** a work schedule is established, modified or cancelled **under** subsection 170(2) or 172(2), any affected employee may, within ninety days after the new schedule or its modification or cancellation takes effect, request **that the Head** conduct a vote to determine whether seventy per cent of the affected employees approve the new schedule or its modification or cancellation.
+      **(1)** If a work schedule is established, modified or cancelled under subsection 170(2) or 172(2), any affected employee may, within ninety days after the new schedule or its modification or cancellation takes effect, request that the Head conduct a vote to determine whether seventy per cent of the affected employees approve the new schedule or its modification or cancellation.
 
-      **(2)** **If** a request **is** made under subsection (1), the **Head must** conduct a secret vote to determine the percentage of the affected employees that approves the new schedule or the modification or cancellation.
+      **(2)** If a request is made under subsection (1), the Head must conduct a secret vote to determine the percentage of the affected employees that approves the new schedule or the modification or cancellation.
 
   **(2)** Subsection 172.1(4) to (6) of the Act are replaced by the following:
 
-    **(4)** The **Head must** count the ballots in the presence of a representative chosen by the affected employees and a representative chosen by the employer.
+    **(4)** The Head must count the ballots in the presence of a representative chosen by the affected employees and a representative chosen by the employer.
 
-    **(5)** The **Head must** inform the employer, by written notice, of the result.
+    **(5)** The Head must inform the employer, by written notice, of the result.
 
-    **(6)** **If** the result of the vote indicates that less than **70%** of the affected employees approve the new schedule or its modification or cancellation, the employer **must** comply with the result of the vote within **30** days after being informed of that result by the **Head**.
+    **(6)** If the result of the vote indicates that less than 70% of the affected employees approve the new schedule or its modification or cancellation, the employer must comply with the result of the vote within 30 days after being informed of that result by the Head.
 
   **(3)** Subsection 172.1(8) of the Act is replaced by the following:
 
-    **(8)** The `Statutory Instruments Act` does not apply in respect of the written notice given by the **Head** to the employer **under** subsection (5).
+    **(8)** The `Statutory Instruments Act` does not apply in respect of the written notice given by the Head to the employer under subsection (5).
 
 ### Section 571
 
@@ -14866,31 +14874,31 @@ The definitions **inspector** and **regional director** in section 166 of the Ac
 
 ### Section 176
 
-      **(1)** On the application of an employer or an employer's organization, the **Head**, having regard to the conditions of employment in any industrial establishment and the welfare of the employees, may, by a permit in writing, authorize hours to be worked by any class of employees **set out in the permit** in excess of the maximum hours of work specified in or prescribed under section 171, established **under** section 172 or prescribed by regulations made under section 175.
+      **(1)** On the application of an employer or an employer's organization, the Head, having regard to the conditions of employment in any industrial establishment and the welfare of the employees, may, by a permit in writing, authorize hours to be worked by any class of employees set out in the permit in excess of the maximum hours of work specified in or prescribed under section 171, established under section 172 or prescribed by regulations made under section 175.
 
-      **(2)** No permit may be issued under subsection (1) unless the applicant has satisfied the **Head**
+      **(2)** No permit may be issued under subsection (1) unless the applicant has satisfied the Head
 
-        that exceptional circumstances **exist that** justify the working of additional hours;
+        that exceptional circumstances exist that justify the working of additional hours;
 
-        that the employer had posted a notice of the application for **the** permit, for at least **30** days before its proposed effective date, in places readily accessible to the affected class of employees where they were likely to see it; and
+        that the employer had posted a notice of the application for the permit, for at least 30 days before its proposed effective date, in places readily accessible to the affected class of employees where they were likely to see it; and
 
         that the employer had informed the trade union in writing of the application for the permit, if those employees are represented by a trade union.
 
   **(2)** Subsection 176(5) of the Act is replaced by the following:
 
-    **(5)** **If** a permit has been issued under this section, the employer for whom or on whose behalf the permit was issued shall report in writing to the **Head**, within **15** days after the expiration of the period specified in the permit or within such time as the **Head** may fix in the permit, stating the number of employees who worked in excess of the maximum hours specified in or prescribed under section 171 or by regulations made under section 175 and the number of additional hours each of them worked.
+    **(5)** If a permit has been issued under this section, the employer for whom or on whose behalf the permit was issued shall report in writing to the Head, within 15 days after the expiration of the period specified in the permit or within such time as the Head may fix in the permit, stating the number of employees who worked in excess of the maximum hours specified in or prescribed under section 171 or by regulations made under section 175 and the number of additional hours each of them worked.
 
 ### Section 572
 
 Subsection 177(2) of the Act is replaced by the following:
 
-**(2)** Where the maximum hours of work in an industrial establishment have been exceeded under the authority of subsection (1), the employer shall report in writing to the **Head**, and also to the trade union if the affected employees are subject to a collective agreement, within **15** days after the end of the month in which the maximum was exceeded, stating the nature of the circumstances in which the maximum was exceeded, the number of employees who worked in excess of the maximum and the number of additional hours each of them worked.
+**(2)** Where the maximum hours of work in an industrial establishment have been exceeded under the authority of subsection (1), the employer shall report in writing to the Head, and also to the trade union if the affected employees are subject to a collective agreement, within 15 days after the end of the month in which the maximum was exceeded, stating the nature of the circumstances in which the maximum was exceeded, the number of employees who worked in excess of the maximum and the number of additional hours each of them worked.
 
 ### Section 573
 
 Subsection 182(2) of the Act is replaced by the following:
 
-**(2)** **If the Head** has reasonable grounds at any time for believing that an employer is engaging or has engaged in a discriminatory practice described in subsection (1), the **Head** may notify the Canadian Human Rights Commission or file a complaint with that Commission under section 40 of the `Canadian Human Rights Act`.
+**(2)** If the Head has reasonable grounds at any time for believing that an employer is engaging or has engaged in a discriminatory practice described in subsection (1), the Head may notify the Canadian Human Rights Commission or file a complaint with that Commission under section 40 of the `Canadian Human Rights Act`.
 
 ### Section 574
 
@@ -14898,11 +14906,11 @@ Subsection 182(2) of the Act is replaced by the following:
 
 ### Section 212
 
-      **(1)** Any employer who terminates, either simultaneously or within any period not exceeding four weeks, the employment of a group of 50 or more employees employed by the employer within a particular industrial establishment, or of such lesser number of employees as prescribed by regulations applicable to the employer made under paragraph 227(b), shall, in addition to any notice required to be given under section 230, give notice to the **Head**, in writing, of his intention to so terminate at least 16 weeks before the date of termination of the employment of the employee in the group whose employment is first to be terminated.
+      **(1)** Any employer who terminates, either simultaneously or within any period not exceeding four weeks, the employment of a group of 50 or more employees employed by the employer within a particular industrial establishment, or of such lesser number of employees as prescribed by regulations applicable to the employer made under paragraph 227(b), shall, in addition to any notice required to be given under section 230, give notice to the Head, in writing, of his intention to so terminate at least 16 weeks before the date of termination of the employment of the employee in the group whose employment is first to be terminated.
 
   **(2)** Subsection 212(2) of the Act is replaced by the following:
 
-    **(2)** A copy of any notice given to the **Head** under subsection (1) must be given immediately by the employer to the Minister of Employment and Social Development and the Canada Employment Insurance Commission and any trade union representing a redundant employee, and **if** any redundant employee is not represented by a trade union, a copy of that notice **must** be given to the employee or immediately posted by the employer in a conspicuous place within the industrial establishment in which that employee is employed.
+    **(2)** A copy of any notice given to the Head under subsection (1) must be given immediately by the employer to the Minister of Employment and Social Development and the Canada Employment Insurance Commission and any trade union representing a redundant employee, and if any redundant employee is not represented by a trade union, a copy of that notice must be given to the employee or immediately posted by the employer in a conspicuous place within the industrial establishment in which that employee is employed.
 
 ### Section 575
 
@@ -14910,9 +14918,9 @@ Section 213 of the Act is replaced by the following:
 
 ### Section 213
 
-  **(1)** An employer who gives notice to the **Head** under section 212 and any trade union to which a copy of that notice is given must give the Canada Employment Insurance Commission any information requested by it for the purpose of assisting any redundant employee and **must** cooperate with the Commission to facilitate the re-establishment in employment of that employee.
+  **(1)** An employer who gives notice to the Head under section 212 and any trade union to which a copy of that notice is given must give the Canada Employment Insurance Commission any information requested by it for the purpose of assisting any redundant employee and must cooperate with the Commission to facilitate the re-establishment in employment of that employee.
 
-  **(2)** An employer who gives notice to the **Head** under section 212 shall give each redundant employee, as soon as possible after the notice is so given but in any case not later than two weeks before the date of the termination of the employment of the employee, a statement in writing setting out, as at **the** date **of the statement**, his vacation benefits, wages, severance pay and any other benefits and pay arising from his employment with that employer.
+  **(2)** An employer who gives notice to the Head under section 212 shall give each redundant employee, as soon as possible after the notice is so given but in any case not later than two weeks before the date of the termination of the employment of the employee, a statement in writing setting out, as at the date of the statement, his vacation benefits, wages, severance pay and any other benefits and pay arising from his employment with that employer.
 
 ### Section 576
 
@@ -14920,7 +14928,7 @@ Subsection 214(1) of the Act is replaced by the following:
 
 ### Section 214
 
-  **(1)** An employer who gives notice to the **Head** under section 212 **must, as soon as possible after giving the notice,** establish a joint planning committee consisting of **any** number of members **that** is required or permitted by this section and sections 215 and 217.
+  **(1)** An employer who gives notice to the Head under section 212 must, as soon as possible after giving the notice, establish a joint planning committee consisting of any number of members that is required or permitted by this section and sections 215 and 217.
 
 ### Section 577
 
@@ -14928,17 +14936,17 @@ Sections 216 and 217 of the Act are replaced by the following:
 
 ### Section 216
 
-The members of a joint planning committee **must** be appointed and **must** convene for their first sitting within two weeks after the date of the notice given to the **Head** under section 212.
+The members of a joint planning committee must be appointed and must convene for their first sitting within two weeks after the date of the notice given to the Head under section 212.
 
 ### Section 217
 
-**If** a trade union fails, or redundant employees fail, to appoint a member to a joint planning committee as provided in sections 214 and 215, the **Head** may, on application of any redundant employee, appoint a member to the committee in lieu of that trade union or those employees, as the case may be, and **that** member **is** a representative of the redundant employees represented by the trade union or of the redundant employees who failed to appoint the member, as the case may be.
+If a trade union fails, or redundant employees fail, to appoint a member to a joint planning committee as provided in sections 214 and 215, the Head may, on application of any redundant employee, appoint a member to the committee in lieu of that trade union or those employees, as the case may be, and that member is a representative of the redundant employees represented by the trade union or of the redundant employees who failed to appoint the member, as the case may be.
 
 ### Section 578
 
 The portion of subsection 222(2) of the Act before paragraph (a) is replaced by the following:
 
-**(2)** **The Head** may
+**(2)** The Head may
 
 ### Section 579
 
@@ -14946,17 +14954,17 @@ The portion of subsection 222(2) of the Act before paragraph (a) is replaced by 
 
 ### Section 240
 
-      **(1)** Subject to subsections (2) and 242(3.1), a person who has been dismissed and considers the dismissal to be unjust may make a complaint in writing to **the Head** if the employee
+      **(1)** Subject to subsections (2) and 242(3.1), a person who has been dismissed and considers the dismissal to be unjust may make a complaint in writing to the Head if the employee
 
-        has completed **12** consecutive months of continuous employment by an employer; and
+        has completed 12 consecutive months of continuous employment by an employer; and
 
         is not a member of a group of employees subject to a collective agreement.
 
   **(2)** The portion of subsection 240(3) of the Act before paragraph (b) is replaced by the following:
 
-    **(3)** The **Head** may extend the period set out in subsection (2)
+    **(3)** The Head may extend the period set out in subsection (2)
 
-      if the **Head** is satisfied that a complaint was made in that period to a government official who had no authority to deal with the complaint but that the person making the complaint believed the official had that authority; or
+      if the Head is satisfied that a complaint was made in that period to a government official who had no authority to deal with the complaint but that the person making the complaint believed the official had that authority; or
 
 ### Section 580
 
@@ -14964,15 +14972,15 @@ Section 241 of the Act is replaced by the following:
 
 ### Section 241
 
-  **(1)** **If** an employer dismisses a person described in subsection 240(1), the person who was dismissed or **the Head** may make a request in writing to the employer to provide a written statement giving the reasons for the dismissal, and any employer who receives such a request **must** provide the person who made the request with such a statement within **15** days after the request is made.
+  **(1)** If an employer dismisses a person described in subsection 240(1), the person who was dismissed or the Head may make a request in writing to the employer to provide a written statement giving the reasons for the dismissal, and any employer who receives such a request must provide the person who made the request with such a statement within 15 days after the request is made.
 
-  **(2)** On receipt of a complaint made under subsection 240(1), **the Head must** endeavour to assist the parties to the complaint to settle the complaint.
+  **(2)** On receipt of a complaint made under subsection 240(1), the Head must endeavour to assist the parties to the complaint to settle the complaint.
 
-  **(3)** If a complaint is not settled under subsection (2) within the period that **the Head** considers to be reasonable in the circumstances, the **Head must**, on the written request of the person who made the complaint that the complaint be referred to the Board, deliver to the Board the complaint made under subsection 240(1), any written statement giving the reasons for the dismissal provided under subsection (1) and any other statements or documents that the **Head** has that relate to the complaint.
+  **(3)** If a complaint is not settled under subsection (2) within the period that the Head considers to be reasonable in the circumstances, the Head must, on the written request of the person who made the complaint that the complaint be referred to the Board, deliver to the Board the complaint made under subsection 240(1), any written statement giving the reasons for the dismissal provided under subsection (1) and any other statements or documents that the Head has that relate to the complaint.
 
-  **(4)** If the person who made the complaint does not reply to a written communication from the **Head** within a period that the **Head** considers to be reasonable in the circumstances and a period of at least 30 days, or any longer period that may be prescribed by regulation, have elapsed from the day on which the complaint was made, the **Head** may give written notice to the person who made the complaint that they have the period of 30 days, or any longer period that may be prescribed by regulation, set out in the notice to make a written request that the complaint be referred to the Board.
+  **(4)** If the person who made the complaint does not reply to a written communication from the Head within a period that the Head considers to be reasonable in the circumstances and a period of at least 30 days, or any longer period that may be prescribed by regulation, have elapsed from the day on which the complaint was made, the Head may give written notice to the person who made the complaint that they have the period of 30 days, or any longer period that may be prescribed by regulation, set out in the notice to make a written request that the complaint be referred to the Board.
 
-  **(5)** Subject to the regulations, if the person who made the complaint does not, within the period set out in the notice, make a written request that the complaint be referred to the Board, the **Head** may deem the complaint to be withdrawn.
+  **(5)** Subject to the regulations, if the person who made the complaint does not, within the period set out in the notice, make a written request that the complaint be referred to the Board, the Head may deem the complaint to be withdrawn.
 
 ### Section 581
 
@@ -14980,13 +14988,13 @@ Subsection 244(1) of the Act is replaced by the following:
 
 ### Section 244
 
-  **(1)** Any person affected by an order of the Board under subsection 242(4), or the **Head** on the request of such a person, may, after 14 days from the day on which the order is made, or from the day provided in the order for compliance, whichever is later, file in the Federal Court a copy of the order, exclusive of reasons.
+  **(1)** Any person affected by an order of the Board under subsection 242(4), or the Head on the request of such a person, may, after 14 days from the day on which the order is made, or from the day provided in the order for compliance, whichever is later, file in the Federal Court a copy of the order, exclusive of reasons.
 
 ### Section 582
 
 Subparagraph 246.1(1)(b)(ii) of the Act is replaced by the following:
 
-has provided information regarding the wages, hours of work, annual vacation or conditions of work of any employee **to the Head** or provided any other assistance to the Minister or **the Head** in the exercise or performance of the Minister's or the **Head's** powers, duties and functions under this Part
+has provided information regarding the wages, hours of work, annual vacation or conditions of work of any employee to the Head or provided any other assistance to the Minister or the Head in the exercise or performance of the Minister's or the Head's powers, duties and functions under this Part
 
 ### Section 583
 
@@ -14994,13 +15002,13 @@ Subsection 246.6(1) of the Act is replaced by the following:
 
 ### Section 246.6
 
-  **(1)** Any person affected by an order of the Board under section 246.4, or the **Head** on the request of such a person, may, after 14 days from the day on which the order is made, or from the day provided in the order for compliance, whichever is later, file in the Federal Court a copy of the order, exclusive of reasons.
+  **(1)** Any person affected by an order of the Board under section 246.4, or the Head on the request of such a person, may, after 14 days from the day on which the order is made, or from the day provided in the order for compliance, whichever is later, file in the Federal Court a copy of the order, exclusive of reasons.
 
 ### Section 584
 
 Subsection 247.5(4) of the Act is replaced by the following:
 
-**(4)** Despite subsection (1), an employee is not entitled to a leave of absence under this Division if, in the opinion of the **Head**, it would adversely affect public health or safety or would cause undue hardship to the employer if the employee, as an individual or as a member of a class of employees, were to take leave.
+**(4)** Despite subsection (1), an employee is not entitled to a leave of absence under this Division if, in the opinion of the Head, it would adversely affect public health or safety or would cause undue hardship to the employer if the employee, as an individual or as a member of a class of employees, were to take leave.
 
 ### Section 585
 
@@ -15008,65 +15016,65 @@ Subsection 247.5(4) of the Act is replaced by the following:
 
 ### Section 247.99
 
-      **(1)** An employee who alleges that an employer has taken action against the employee in contravention of subsection 247.98(4) may make a complaint in writing to **the Head**.
+      **(1)** An employee who alleges that an employer has taken action against the employee in contravention of subsection 247.98(4) may make a complaint in writing to the Head.
 
-      **(2)** Subject to subsection (3), the complaint shall be made to the **Head** not later than 90 days after the day on which the complainant knew, or in the **Head's** opinion ought to have known, of the action or circumstances giving rise to the complaint.
+      **(2)** Subject to subsection (3), the complaint shall be made to the Head not later than 90 days after the day on which the complainant knew, or in the Head's opinion ought to have known, of the action or circumstances giving rise to the complaint.
 
-      **(3)** The **Head** may extend the period of time referred to in subsection (2)
+      **(3)** The Head may extend the period of time referred to in subsection (2)
 
-        if the **Head** is satisfied that a complaint was made in that period to a government official who had no authority to deal with the complaint but that the employee making the complaint believed the official had that authority; or
+        if the Head is satisfied that a complaint was made in that period to a government official who had no authority to deal with the complaint but that the employee making the complaint believed the official had that authority; or
 
         in any other circumstance that is prescribed by regulation.
 
-      **(4)** On receipt of a complaint made under subsection (1), **the Head** shall endeavour to assist the parties to the complaint to settle the complaint.
+      **(4)** On receipt of a complaint made under subsection (1), the Head shall endeavour to assist the parties to the complaint to settle the complaint.
 
-      **(5)** **If** a complaint is not settled under subsection (4) within **the** period that the **Head** considers to be reasonable in the circumstances, the **Head must**, on the written request of the employee who made the complaint that the complaint be referred to **the Board**, deliver to the **Board** the complaint made under subsection (1) and any other statements or documents that the **Head** has that relate to the complaint.
+      **(5)** If a complaint is not settled under subsection (4) within the period that the Head considers to be reasonable in the circumstances, the Head must, on the written request of the employee who made the complaint that the complaint be referred to the Board, deliver to the Board the complaint made under subsection (1) and any other statements or documents that the Head has that relate to the complaint.
 
-      **(6)** If the employee who made the complaint does not reply to a written communication from the **Head** within a period that the **Head** considers to be reasonable in the circumstances and a period of at least 30 days, or any longer period that may be prescribed by regulation, have elapsed from the day on which the complaint was made, the **Head** may give written notice to the employee that they have the period of 30 days, or any longer period that may be prescribed by regulation, set out in the notice to make a written request that the complaint be referred to the Board.
+      **(6)** If the employee who made the complaint does not reply to a written communication from the Head within a period that the Head considers to be reasonable in the circumstances and a period of at least 30 days, or any longer period that may be prescribed by regulation, have elapsed from the day on which the complaint was made, the Head may give written notice to the employee that they have the period of 30 days, or any longer period that may be prescribed by regulation, set out in the notice to make a written request that the complaint be referred to the Board.
 
-      **(6.1)** Subject to the regulations, if the employee to whom notice is given under subsection (6) does not, within the period set out in the notice, make a written request that the complaint be referred to the Board, the **Head** may deem the complaint to be withdrawn.
+      **(6.1)** Subject to the regulations, if the employee to whom notice is given under subsection (6) does not, within the period set out in the notice, make a written request that the complaint be referred to the Board, the Head may deem the complaint to be withdrawn.
 
   **(2)** Paragraph 247.99(7)(b) of the Act is replaced by the following:
 
-    send a copy of the decision with the reasons for the decision to each party to the complaint and to the **Head**.
+    send a copy of the decision with the reasons for the decision to each party to the complaint and to the Head.
 
 ### Section 586
 
 Subsection 247.991(3) of the Act is replaced by the following:
 
-**(3)** Any person affected by an order of the Board under subsection 247.99(8), or the **Head** on the request of such a person, may, after 14 days from the day on which the order is made, or from the day provided in the order for compliance, whichever is later, file a copy of the order in the Federal Court, exclusive of reasons.
+**(3)** Any person affected by an order of the Board under subsection 247.99(8), or the Head on the request of such a person, may, after 14 days from the day on which the order is made, or from the day provided in the order for compliance, whichever is later, file a copy of the order in the Federal Court, exclusive of reasons.
 
 ### Section 587
 
   **(1)** Subsection 249(1) of the Act is replaced by the following:
 
-### Section **249**
+### Section 249
 
       **(1)** Subject to any terms and conditions specified by the Minister, the Head may delegate to any qualified person or class of persons any of the powers the Head is authorized to exercise or any of the duties or functions the Head is authorized to perform for the purposes of this Part. The Head may make the delegation subject to any terms and conditions that the Head considers appropriate.
 
-      **(**1.1**)** The **Head** shall furnish **to** every **person to whom powers, duties or functions are delegated under subsection (1)** a certificate of **authority** and, **when** entering any place used in connection with a federal work, undertaking or business **the person**, shall, **when requested, show** the certificate to the person in charge of that place.
+      **(1.1)** The Head shall furnish to every person to whom powers, duties or functions are delegated under subsection (1) a certificate of authority and, when entering any place used in connection with a federal work, undertaking or business the person, shall, when requested, show the certificate to the person in charge of that place.
 
   **(2)** The portion of subsection 249(2) of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** For the purposes of this Part and the regulations, **the Head** may
+    **(2)** For the purposes of this Part and the regulations, the Head may
 
   **(3)** Paragraph 249(2)(d) of the English version of the Act is replaced by the following:
 
-    require an employee to make full disclosure, production and delivery to the **Head** of all records, documents, statements, writings, books, papers, extracts therefrom or copies thereof or of other information, either orally or in writing, that are in the possession or under the control of the employee and that in any way relate to the wages, hours of work or conditions of his employment; and
+    require an employee to make full disclosure, production and delivery to the Head of all records, documents, statements, writings, books, papers, extracts therefrom or copies thereof or of other information, either orally or in writing, that are in the possession or under the control of the employee and that in any way relate to the wages, hours of work or conditions of his employment; and
 
   **(4)** Subsections 249(3) to (8) of the Act are replaced by the following:
 
-    **(3)** **The Head** may, at any reasonable time, enter on any place used in connection with a federal work, undertaking or business for the purpose of making an inspection authorized under subsection (2), and may, for that purpose, question any employee apart from his employer.
+    **(3)** The Head may, at any reasonable time, enter on any place used in connection with a federal work, undertaking or business for the purpose of making an inspection authorized under subsection (2), and may, for that purpose, question any employee apart from his employer.
 
-    **(4)** The person in charge of any federal work, undertaking or business and every person employed **in it** or in connection with **its** operation shall give **the Head** all reasonable assistance to enable the **Head** to carry out **the Head's** duties and functions under this Part or the regulations.
+    **(4)** The person in charge of any federal work, undertaking or business and every person employed in it or in connection with its operation shall give the Head all reasonable assistance to enable the Head to carry out the Head's duties and functions under this Part or the regulations.
 
-    **(**5**)** **The Head** may, in carrying out the **Head's** duties and functions, be accompanied or assisted by **any** persons **that** the **Head** considers necessary.
+    **(5)** The Head may, in carrying out the Head's duties and functions, be accompanied or assisted by any persons that the Head considers necessary.
 
     **(6)** The Head shall not be required to give testimony in any civil suit or civil proceedings, or in any proceeding under section 242, with regard to information obtained in carrying out those duties and functions.
 
-    **(7)** No **person to whom powers, duties or functions have been delegated under subsection (1)**, and no person who has accompanied or assisted **such a person or the Head** in carrying out **their** duties and functions, shall be required to give testimony in any civil suit or civil proceedings, or in any proceeding under section 242, with regard to information obtained in carrying out those duties and functions or in accompanying or assisting the **person**, except with the written permission of the **Head**.
+    **(7)** No person to whom powers, duties or functions have been delegated under subsection (1), and no person who has accompanied or assisted such a person or the Head in carrying out their duties and functions, shall be required to give testimony in any civil suit or civil proceedings, or in any proceeding under section 242, with regard to information obtained in carrying out those duties and functions or in accompanying or assisting the person, except with the written permission of the Head.
 
-    **(8)** **Neither the Head nor a person to whom powers, duties or functions have been delegated under subsection (1)** is personally liable for anything done or omitted to be done by **them** in good faith under the authority or purported authority of this Part.
+    **(8)** Neither the Head nor a person to whom powers, duties or functions have been delegated under subsection (1) is personally liable for anything done or omitted to be done by them in good faith under the authority or purported authority of this Part.
 
 ### Section 588
 
@@ -15074,7 +15082,7 @@ Section 250 of the Act is replaced by the following:
 
 ### Section 250
 
-**The Head** may administer all oaths and take and receive all affidavits and statutory declarations required with respect to the **Head's** powers set out in subsection 249(2) and certify to the administration, taking or receiving **of them**.
+The Head may administer all oaths and take and receive all affidavits and statutory declarations required with respect to the Head's powers set out in subsection 249(2) and certify to the administration, taking or receiving of them.
 
 ### Section 589
 
@@ -15082,19 +15090,19 @@ Subsections 251(1) to (3) of the Act are replaced by the following:
 
 ### Section 251
 
-  **(1)** **If the Head** finds that an employer has failed to pay an employee any wages or other amounts to which the employee is entitled under this Part, the **Head** may determine the difference between the wages or other amounts actually paid to the employee under this Part and the wages or other amounts to which the employee is entitled under this Part.
+  **(1)** If the Head finds that an employer has failed to pay an employee any wages or other amounts to which the employee is entitled under this Part, the Head may determine the difference between the wages or other amounts actually paid to the employee under this Part and the wages or other amounts to which the employee is entitled under this Part.
 
-  **(1.1)** For greater certainty, the **Head** may, when exercising the powers referred to in subsection (1), make any finding necessary to determine whether an employee is entitled to any wages or other amounts under this Part, including a finding that the employee was dismissed for just cause for the purposes of Division X or XI.
+  **(1.1)** For greater certainty, the Head may, when exercising the powers referred to in subsection (1), make any finding necessary to determine whether an employee is entitled to any wages or other amounts under this Part, including a finding that the employee was dismissed for just cause for the purposes of Division X or XI.
 
-  **(1.2)** If the employer fails to make or keep any record in respect of an employee that the employer is required to make or keep under this Part — or fails to allow the **Head** to examine, take extracts from or make copies of such a record — the **Head** may, when exercising the powers referred to in subsection (1), rely on any other available evidence.
+  **(1.2)** If the employer fails to make or keep any record in respect of an employee that the employer is required to make or keep under this Part — or fails to allow the Head to examine, take extracts from or make copies of such a record — the Head may, when exercising the powers referred to in subsection (1), rely on any other available evidence.
 
-  **(2)** **If, under** subsection (1), **the Head** determines that there is a difference between the wages or other amounts actually paid to an employee and the wages or other amounts to which the employee is entitled and the amount of that difference is agreed to in writing by the employee and his **or her** employer, the employer **must**, within five days after the date of the agreement, pay the amount
+  **(2)** If, under subsection (1), the Head determines that there is a difference between the wages or other amounts actually paid to an employee and the wages or other amounts to which the employee is entitled and the amount of that difference is agreed to in writing by the employee and his or her employer, the employer must, within five days after the date of the agreement, pay the amount
 
-    to the employee on the direction of the **Head**; or
+    to the employee on the direction of the Head; or
 
-    to the **Head**.
+    to the Head.
 
-  **(3)** **If** an employer pays the amount under subsection (2) to the **Head**, the **Head must**, **without delay after** receiving **it**, pay it over to the employee who is entitled to the amount.
+  **(3)** If an employer pays the amount under subsection (2) to the Head, the Head must, without delay after receiving it, pay it over to the employee who is entitled to the amount.
 
 ### Section 590
 
@@ -15102,23 +15110,23 @@ Subsections 251(1) to (3) of the Act are replaced by the following:
 
 ### Section 251.001
 
-      **(1)** Subject to the regulations, the **Head** may, in writing, for the purpose of verifying compliance or preventing non-compliance with this Part, order an employer to, in accordance with the order,
+      **(1)** Subject to the regulations, the Head may, in writing, for the purpose of verifying compliance or preventing non-compliance with this Part, order an employer to, in accordance with the order,
 
   **(2)** Paragraph 251.001(1)(b) of the Act is replaced by the following:
 
-    provide a report of the results of the audit to the **Head**.
+    provide a report of the results of the audit to the Head.
 
   **(3)** The portion of subsection 251.001(2) of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** The **Head** shall, in the internal audit order, specify
+    **(2)** The Head shall, in the internal audit order, specify
 
   **(4)** Subsection 251.001(3) of the Act is replaced by the following:
 
-    **(3)** The **Head** may also specify in the order that the report is to contain any information that the **Head** considers appropriate.
+    **(3)** The Head may also specify in the order that the report is to contain any information that the Head considers appropriate.
 
   **(5)** Subsection 251.001(5) of the Act is replaced by the following:
 
-    **(5)** A certificate purporting to be signed by the **Head** certifying that a document referred to in subsection (4) was sent by registered mail or by any other means prescribed by regulation to the addressee, accompanied by a true copy of the document and by an identifying post office certificate of the registration or other proof, prescribed by regulation, that the document has been sent or received, is admissible in evidence and is proof of the statements contained in the certificate, without proof of the signature or official character of the person appearing to have signed the certificate.
+    **(5)** A certificate purporting to be signed by the Head certifying that a document referred to in subsection (4) was sent by registered mail or by any other means prescribed by regulation to the addressee, accompanied by a true copy of the document and by an identifying post office certificate of the registration or other proof, prescribed by regulation, that the document has been sent or received, is admissible in evidence and is proof of the statements contained in the certificate, without proof of the signature or official character of the person appearing to have signed the certificate.
 
 ### Section 591
 
@@ -15126,13 +15134,13 @@ Subsections 251(1) to (3) of the Act are replaced by the following:
 
 ### Section 251.01
 
-      **(1)** Any employee may make a complaint in writing to **the Head** if they believe that the employer has contravened
+      **(1)** Any employee may make a complaint in writing to the Head if they believe that the employer has contravened
 
   **(2)** The portion of subsection 251.01(3) of the Act before paragraph (b) is replaced by the following:
 
-    **(3)** The **Head** may, subject to the regulations, extend the period set out in subsection (2)
+    **(3)** The Head may, subject to the regulations, extend the period set out in subsection (2)
 
-      if the **Head** is satisfied that a complaint was made within that period to a government official who had no authority to deal with the complaint and that the person making the complaint believed the official had that authority;
+      if the Head is satisfied that a complaint was made within that period to a government official who had no authority to deal with the complaint and that the person making the complaint believed the official had that authority;
 
 ### Section 592
 
@@ -15140,19 +15148,19 @@ Subsections 251(1) to (3) of the Act are replaced by the following:
 
 ### Section 251.02
 
-      **(1)** If the **Head** is satisfied that the employee must take measures before the **Head** may continue to deal with the complaint made under section 251.01, the **Head** may, at any time, suspend consideration of the complaint, in whole or in part.
+      **(1)** If the Head is satisfied that the employee must take measures before the Head may continue to deal with the complaint made under section 251.01, the Head may, at any time, suspend consideration of the complaint, in whole or in part.
 
   **(2)** The portion of subsection 251.02(2) of the English version of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** If the **Head** suspends consideration of a complaint, the **Head** must notify the employee in writing and specify in the notice
+    **(2)** If the Head suspends consideration of a complaint, the Head must notify the employee in writing and specify in the notice
 
   **(3)** Subsection 251.02(3) of the English version of the Act is replaced by the following:
 
-    **(3)** The **Head** may, upon request, extend the time period specified in the notice.
+    **(3)** The Head may, upon request, extend the time period specified in the notice.
 
   **(4)** Subsection 251.02(4) of the Act is replaced by the following:
 
-    **(4)** The suspension ends when, in the **Head's** opinion, the measures specified in the notice have been taken.
+    **(4)** The suspension ends when, in the Head's opinion, the measures specified in the notice have been taken.
 
 ### Section 593
 
@@ -15160,15 +15168,15 @@ Sections 251.03 and 251.04 of the Act are replaced by the following:
 
 ### Section 251.03
 
-After receipt of a complaint, **the Head** may assist the parties to the complaint to settle the complaint.
+After receipt of a complaint, the Head may assist the parties to the complaint to settle the complaint.
 
 ### Section 251.04
 
-  **(1)** If an employer and an employee who has made a complaint relating to the non-payment of wages or other amounts to which they are entitled under this Part reach a settlement in writing on the wages or other amounts to be paid, the employer may pay those amounts to the employee or to the **Head**.
+  **(1)** If an employer and an employee who has made a complaint relating to the non-payment of wages or other amounts to which they are entitled under this Part reach a settlement in writing on the wages or other amounts to be paid, the employer may pay those amounts to the employee or to the Head.
 
-  **(2)** If an employer pays the amounts to the **Head**, the **Head must**, without delay after receiving them, pay them over to the employee who is entitled to the amounts.
+  **(2)** If an employer pays the amounts to the Head, the Head must, without delay after receiving them, pay them over to the employee who is entitled to the amounts.
 
-  **(3)** No prosecution for failure to pay an employee the wages or other amounts that were the subject of the complaint may be instituted against an employer, without the written consent of the Minister, if the employer has paid the amounts referred to in subsection (1) to the employee or the **Head**.
+  **(3)** No prosecution for failure to pay an employee the wages or other amounts that were the subject of the complaint may be instituted against an employer, without the written consent of the Minister, if the employer has paid the amounts referred to in subsection (1) to the employee or the Head.
 
 ### Section 594
 
@@ -15176,33 +15184,33 @@ After receipt of a complaint, **the Head** may assist the parties to the complai
 
 ### Section 251.05
 
-      **(1)** **The Head** may reject a complaint made under section 251.01, in whole or in part,
+      **(1)** The Head may reject a complaint made under section 251.01, in whole or in part,
 
   **(2)** The portion of paragraph 251.05(1)(a) of the English version of the Act before subparagraph (i) is replaced by the following:
 
-    if the **Head** is satisfied
+    if the Head is satisfied
 
   **(3)** Subparagraph 251.05(1)(a)(iv) of the English version of the Act is replaced by the following:
 
-    that there are other means available to the employee to resolve the subject-matter of the complaint that the **Head** considers should be pursued,
+    that there are other means available to the employee to resolve the subject-matter of the complaint that the Head considers should be pursued,
 
   **(4)** Paragraph 251.05(1)(b) of the English version of the Act is replaced by the following:
 
-    if consideration of the complaint was suspended under subsection 251.02(1) and if, in the **Head's** opinion, the other measures specified in the notice under subsection 251.02(2) were not taken within the specified time period.
+    if consideration of the complaint was suspended under subsection 251.02(1) and if, in the Head's opinion, the other measures specified in the notice under subsection 251.02(2) were not taken within the specified time period.
 
   **(5)** Subsections 251.05(1.1) to (6) of the Act are replaced by the following:
 
-    **(1.1)** If the employee does not reply to a written communication from the **Head** within a period that the **Head** considers to be reasonable in the circumstances and a period of at least 30 days, or any longer period that may be prescribed by regulation, have elapsed from the day on which the complaint was made, the **Head** may give written notice to the employee that they have the period of 30 days, or any longer period that may be prescribed by regulation, set out in the notice to indicate in writing that they wish to pursue their complaint.
+    **(1.1)** If the employee does not reply to a written communication from the Head within a period that the Head considers to be reasonable in the circumstances and a period of at least 30 days, or any longer period that may be prescribed by regulation, have elapsed from the day on which the complaint was made, the Head may give written notice to the employee that they have the period of 30 days, or any longer period that may be prescribed by regulation, set out in the notice to indicate in writing that they wish to pursue their complaint.
 
-    **(2)** If a complaint has been rejected, the **Head** shall notify the employee in writing, with reasons.
+    **(2)** If a complaint has been rejected, the Head shall notify the employee in writing, with reasons.
 
-    **(3)** The employee may, within 15 days after the day on which the employee is notified of the rejection, request in writing, with reasons, that the **Head** review **the Head's** decision.
+    **(3)** The employee may, within 15 days after the day on which the employee is notified of the rejection, request in writing, with reasons, that the Head review the Head's decision.
 
-    **(4)** The **Head** may confirm the decision, or rescind it and **re-examine** the complaint.
+    **(4)** The Head may confirm the decision, or rescind it and re-examine the complaint.
 
-    **(5)** The **Head** shall notify the employee in writing of the **Head's** decision.
+    **(5)** The Head shall notify the employee in writing of the Head's decision.
 
-    **(6)** The **Head's** confirmation or rescission is final and conclusive and is not subject to appeal to or review by any court.
+    **(6)** The Head's confirmation or rescission is final and conclusive and is not subject to appeal to or review by any court.
 
 ### Section 595
 
@@ -15214,13 +15222,13 @@ The heading before section 251.06 of the Act is repealed.
 
 ### Section 251.06
 
-      **(1)** If **the Head** is of the opinion that an employer is contravening or has contravened a provision of this Part, its regulations or any condition of a permit issued under subsection 176(1), the **Head** may issue a compliance order in writing requiring the employer to terminate the contravention within the time that the **Head** may specify and take any step, as specified by the **Head** and within the time that the **Head** may specify, to ensure that the contravention does not continue or reoccur.
+      **(1)** If the Head is of the opinion that an employer is contravening or has contravened a provision of this Part, its regulations or any condition of a permit issued under subsection 176(1), the Head may issue a compliance order in writing requiring the employer to terminate the contravention within the time that the Head may specify and take any step, as specified by the Head and within the time that the Head may specify, to ensure that the contravention does not continue or reoccur.
 
-      **(2)** **The Head** shall not issue a compliance order under subsection (1) to take any measure that could be set out in an order made under subsection 242(4) or section 246.4 or to make any payment that may be the subject of an order made under subsection 251.1(1).
+      **(2)** The Head shall not issue a compliance order under subsection (1) to take any measure that could be set out in an order made under subsection 242(4) or section 246.4 or to make any payment that may be the subject of an order made under subsection 251.1(1).
 
   **(2)** Subsection 251.06(4) of the Act is replaced by the following:
 
-    **(4)** A certificate purporting to be signed by the **Head** certifying that a document referred to in subsection (3) was sent by registered mail or by any other means prescribed by regulation to the addressee, accompanied by a true copy of the document and by an identifying post office certificate of the registration or other proof, prescribed by regulation, that the document has been sent or received, is admissible in evidence and is proof of the statements contained in the certificate, without proof of the signature or official character of the person appearing to have signed the certificate.
+    **(4)** A certificate purporting to be signed by the Head certifying that a document referred to in subsection (3) was sent by registered mail or by any other means prescribed by regulation to the addressee, accompanied by a true copy of the document and by an identifying post office certificate of the registration or other proof, prescribed by regulation, that the document has been sent or received, is admissible in evidence and is proof of the statements contained in the certificate, without proof of the signature or official character of the person appearing to have signed the certificate.
 
 ### Section 597
 
@@ -15228,29 +15236,29 @@ The heading before section 251.06 of the Act is repealed.
 
 ### Section 251.1
 
-      **(1)** **If the Head** finds that an employer has not paid an employee wages or other amounts to which the employee is entitled under this Part, the **Head** may issue a written payment order to the employer, or, subject to section 251.18, to a director of a corporation referred to in that section, ordering the employer or director to pay the amount in question, and the **Head** shall send a copy of any such payment order to the employee at the employee's latest known address.
+      **(1)** If the Head finds that an employer has not paid an employee wages or other amounts to which the employee is entitled under this Part, the Head may issue a written payment order to the employer, or, subject to section 251.18, to a director of a corporation referred to in that section, ordering the employer or director to pay the amount in question, and the Head shall send a copy of any such payment order to the employee at the employee's latest known address.
 
   **(2)** Paragraph 251.1(1.1)(a) of the English version of the Act is replaced by the following:
 
-    in the case where the employee made a complaint under subsection 251.01(1) that was not rejected under subsection 251.05(1), the 24 months, plus any extension of the period for making the complaint that is granted by the **Head** under subsection 251.01(3), immediately before the day on which the complaint was made or, if there was a termination of employment prior to the complaint being made, the 24 months immediately before the date of termination;
+    in the case where the employee made a complaint under subsection 251.01(1) that was not rejected under subsection 251.05(1), the 24 months, plus any extension of the period for making the complaint that is granted by the Head under subsection 251.01(3), immediately before the day on which the complaint was made or, if there was a termination of employment prior to the complaint being made, the 24 months immediately before the date of termination;
 
   **(3)** Paragraph 251.1(1.1)(b) of the Act is replaced by the following:
 
-    in any other case, the 24 months immediately before the day on which an inspection under this Part, during the course of which the **Head** made the finding referred to in subsection (1), began.
+    in any other case, the 24 months immediately before the day on which an inspection under this Part, during the course of which the Head made the finding referred to in subsection (1), began.
 
   **(4)** Subsections 251.1(2) and (2.1) of the Act are replaced by the following:
 
-    **(2)** **If the Head deals** with a complaint of non-payment of wages or other amounts to which an employee is entitled under this Part, **the Head must** notify the employee in writing that their complaint is unfounded if the **Head** concludes that the employer has paid to the employee all wages and other amounts to which the employee is entitled under this Part for the period of six months, plus any extension of the period for making the complaint that is granted by the **Head** under subsection 251.01(3), immediately before the day on which the complaint was made.
+    **(2)** If the Head deals with a complaint of non-payment of wages or other amounts to which an employee is entitled under this Part, the Head must notify the employee in writing that their complaint is unfounded if the Head concludes that the employer has paid to the employee all wages and other amounts to which the employee is entitled under this Part for the period of six months, plus any extension of the period for making the complaint that is granted by the Head under subsection 251.01(3), immediately before the day on which the complaint was made.
 
-    **(2.1)** **If the Head deals** with a complaint of non-payment of wages or other amounts to which an employee is entitled under this Part, **the Head** shall notify the employee in writing that the employer has voluntarily paid to the employee all wages and other amounts owing if
+    **(2.1)** If the Head deals with a complaint of non-payment of wages or other amounts to which an employee is entitled under this Part, the Head shall notify the employee in writing that the employer has voluntarily paid to the employee all wages and other amounts owing if
 
-      the **Head** concludes that the employer has, since the complaint was made, paid to the employee all wages and other amounts owing for the period of 24 months, plus any extension of the period for making the complaint that is granted by the **Head** under subsection 251.01(3), immediately before the day on which the complaint was made and for any subsequent period specified by the **Head**; and
+      the Head concludes that the employer has, since the complaint was made, paid to the employee all wages and other amounts owing for the period of 24 months, plus any extension of the period for making the complaint that is granted by the Head under subsection 251.01(3), immediately before the day on which the complaint was made and for any subsequent period specified by the Head; and
 
-      the **Head** has not issued a payment order or a notice of unfounded complaint with respect to the complaint.
+      the Head has not issued a payment order or a notice of unfounded complaint with respect to the complaint.
 
   **(5)** Subsection 251.1(4) of the Act is replaced by the following:
 
-    **(4)** A certificate purporting to be signed by the **Head** certifying that a document referred to in subsection (3) was sent by registered mail or by any other means prescribed by regulation to the addressee, accompanied by a true copy of the document and by an identifying post office certificate of the registration or other proof, prescribed by regulation, that the document has been sent or received, is admissible in evidence and is proof of the statements contained in the certificate, without proof of the signature or official character of the person appearing to have signed the certificate.
+    **(4)** A certificate purporting to be signed by the Head certifying that a document referred to in subsection (3) was sent by registered mail or by any other means prescribed by regulation to the addressee, accompanied by a true copy of the document and by an identifying post office certificate of the registration or other proof, prescribed by regulation, that the document has been sent or received, is admissible in evidence and is proof of the statements contained in the certificate, without proof of the signature or official character of the person appearing to have signed the certificate.
 
 ### Section 598
 
@@ -15265,35 +15273,35 @@ The heading before section 251.101 of the Act is replaced by the following:
 
 ### Section 251.101
 
-      **(1)** An employer to whom a compliance order has been issued or a person who is affected by a payment order, a notice of unfounded complaint or a notice of voluntary compliance may send a written request with reasons to the **Head** for a **review** of the **Head's** decision
+      **(1)** An employer to whom a compliance order has been issued or a person who is affected by a payment order, a notice of unfounded complaint or a notice of voluntary compliance may send a written request with reasons to the Head for a review of the Head's decision
 
   **(2)** Subsections 251.101(2) to (3) of the Act are replaced by the following:
 
-    **(2)** An employer or a director of a corporation is not permitted to request a review of a payment order unless the employer or director pays to the **Head** the amount indicated in the payment order and, in the case of an employer, the administrative fee specified in the payment order in accordance with subsection 251.131(1), subject to, in the case of a director, the maximum amount of the director's liability under section 251.18.
+    **(2)** An employer or a director of a corporation is not permitted to request a review of a payment order unless the employer or director pays to the Head the amount indicated in the payment order and, in the case of an employer, the administrative fee specified in the payment order in accordance with subsection 251.131(1), subject to, in the case of a director, the maximum amount of the director's liability under section 251.18.
 
-    **(2.1)** The **Head** may allow an employer or a director of a corporation to give security, in a form satisfactory to the **Head** and on any conditions specified by the **Head**, for all or part of the amount and fee referred to in subsection (2).
+    **(2.1)** The Head may allow an employer or a director of a corporation to give security, in a form satisfactory to the Head and on any conditions specified by the Head, for all or part of the amount and fee referred to in subsection (2).
 
-    **(3)** On receipt of the request for review, the **Head** may, in writing,
+    **(3)** On receipt of the request for review, the Head may, in writing,
 
       confirm, rescind or vary, in whole or in part, the payment order or the compliance order; or
 
-      confirm the notice of unfounded complaint or the notice of voluntary compliance, or rescind the notice, in which case the **Head** shall re-examine the complaint.
+      confirm the notice of unfounded complaint or the notice of voluntary compliance, or rescind the notice, in which case the Head shall re-examine the complaint.
 
   **(3)** Subsection 251.101(5) of the Act is replaced by the following:
 
-    **(5)** A certificate purporting to be signed by the **Head** certifying that a decision referred to in subsection (4) was sent by registered mail or by any other means prescribed by regulation to the addressee, accompanied by a true copy of the decision and by an identifying post office certificate of the registration or other proof, prescribed by regulation, that the decision has been sent or received, is admissible in evidence and is proof of the statements contained in the certificate, without proof of the signature or official character of the person appearing to have signed the certificate.
+    **(5)** A certificate purporting to be signed by the Head certifying that a decision referred to in subsection (4) was sent by registered mail or by any other means prescribed by regulation to the addressee, accompanied by a true copy of the decision and by an identifying post office certificate of the registration or other proof, prescribed by regulation, that the decision has been sent or received, is admissible in evidence and is proof of the statements contained in the certificate, without proof of the signature or official character of the person appearing to have signed the certificate.
 
   **(4)** Subsection 251.101(7) of the Act is replaced by the following:
 
-    **(7)** The **Head** may, if the **Head** considers it appropriate in the circumstances, treat the request for review as an appeal of **their** decision, in which case the **Head** shall so inform any person who is affected by the payment order, the notice of unfounded complaint or the notice of voluntary compliance — or, in the case of a compliance order, the employer — and shall refer the request for review to the Board, and the Board shall be considered to have an appeal before it for the purposes of section 251.12.
+    **(7)** The Head may, if the Head considers it appropriate in the circumstances, treat the request for review as an appeal of their decision, in which case the Head shall so inform any person who is affected by the payment order, the notice of unfounded complaint or the notice of voluntary compliance — or, in the case of a compliance order, the employer — and shall refer the request for review to the Board, and the Board shall be considered to have an appeal before it for the purposes of section 251.12.
 
 ### Section 600
 
 Subsections 251.11(3) and (3.1) of the Act are replaced by the following:
 
-**(3)** An employer or director of a corporation is not permitted to appeal a decision confirming or varying a payment order unless the employer or director pays to the **Head** the amount indicated in the decision — and, in the case of an employer, the administrative fee specified in the decision in accordance with subsection 251.131(1) — less any amount and administrative fee paid under subsection 251.101(2).
+**(3)** An employer or director of a corporation is not permitted to appeal a decision confirming or varying a payment order unless the employer or director pays to the Head the amount indicated in the decision — and, in the case of an employer, the administrative fee specified in the decision in accordance with subsection 251.131(1) — less any amount and administrative fee paid under subsection 251.101(2).
 
-**(3.1)** The **Head** may allow an employer or a director of a corporation to give security, in a form satisfactory to the **Head** and on any conditions specified by the **Head**, for all or part of the amount and fee referred to in subsection (3).
+**(3.1)** The Head may allow an employer or a director of a corporation to give security, in a form satisfactory to the Head and on any conditions specified by the Head, for all or part of the amount and fee referred to in subsection (3).
 
 ### Section 601
 
@@ -15301,21 +15309,21 @@ Section 251.111 of the Act is replaced by the following:
 
 ### Section 251.111
 
-  **(1)** The Board shall inform the **Head** in writing when an appeal is brought under subsection 251.11(1) and provide **the Head** with a copy of the request for appeal.
+  **(1)** The Board shall inform the Head in writing when an appeal is brought under subsection 251.11(1) and provide the Head with a copy of the request for appeal.
 
-  **(2)** In an appeal under this Part, the **Head** shall, on request of the Board, provide to the Board a copy of any document that the **Head** relied on for the purpose of making the decision being appealed.
+  **(2)** In an appeal under this Part, the Head shall, on request of the Board, provide to the Board a copy of any document that the Head relied on for the purpose of making the decision being appealed.
 
-  **(3)** In an appeal under subsection 251.101(7), the **Head** shall, on request of the Board, provide to the Board a copy of any document that the **Head** relied on for the purpose of issuing the order or notice being appealed.
+  **(3)** In an appeal under subsection 251.101(7), the Head shall, on request of the Board, provide to the Board a copy of any document that the Head relied on for the purpose of issuing the order or notice being appealed.
 
-  **(4)** The Board shall, on request of the **Head**, provide to the **Head** a copy of any document that is filed with the Board in the appeal.
+  **(4)** The Board shall, on request of the Head, provide to the Head a copy of any document that is filed with the Board in the appeal.
 
-  **(5)** The **Head** may, in an appeal under this Part, present evidence and make representations to the Board.
+  **(5)** The Head may, in an appeal under this Part, present evidence and make representations to the Board.
 
 ### Section 602
 
 Subsection 251.12(2) of the Act is replaced by the following:
 
-**(2)** The Board shall send a copy of the decision, with reasons, to each party to the appeal and to the **Head**.
+**(2)** The Board shall send a copy of the decision, with reasons, to each party to the appeal and to the Head.
 
 ### Section 603
 
@@ -15323,15 +15331,15 @@ Subsections 251.13(1) and (1.1) of the Act are replaced by the following:
 
 ### Section 251.13
 
-  **(1)** **The Head** may issue a written order to a person who is or is about to become indebted to an employer to whom a payment order has been issued under subsection 251.1(1), to pay any amount owing to the employer, up to the amount and the administrative fee indicated in the payment order, directly to the **Head** within 15 days, in satisfaction of the payment order.
+  **(1)** The Head may issue a written order to a person who is or is about to become indebted to an employer to whom a payment order has been issued under subsection 251.1(1), to pay any amount owing to the employer, up to the amount and the administrative fee indicated in the payment order, directly to the Head within 15 days, in satisfaction of the payment order.
 
-  **(1.1)** **The Head** may issue a written order to a person who is or is about to become indebted to a director of a corporation to whom a payment order has been issued under subsection 251.1(1) to pay any amount owing to the director of the corporation, up to the amount indicated in the payment order, directly to the **Head** within 15 days, in satisfaction of the payment order.
+  **(1.1)** The Head may issue a written order to a person who is or is about to become indebted to a director of a corporation to whom a payment order has been issued under subsection 251.1(1) to pay any amount owing to the director of the corporation, up to the amount indicated in the payment order, directly to the Head within 15 days, in satisfaction of the payment order.
 
 ### Section 604
 
 Subsection 251.131(2) of the Act is replaced by the following:
 
-**(2)** The employer is liable only for the administrative fee that is specified in a final decision and shall pay it — less any administrative fee paid under subsection 251.101(2) or 251.11(3) — to the **Head**. In the case of any overpayment, the employer is entitled to its reimbursement.
+**(2)** The employer is liable only for the administrative fee that is specified in a final decision and shall pay it — less any administrative fee paid under subsection 251.101(2) or 251.11(3) — to the Head. In the case of any overpayment, the employer is entitled to its reimbursement.
 
 ### Section 605
 
@@ -15339,7 +15347,7 @@ The portion of section 251.132 of the Act before paragraph (a) is replaced by th
 
 ### Section 251.132
 
-The **Head**, after a final decision has been made in respect of which security was given,
+The Head, after a final decision has been made in respect of which security was given,
 
 ### Section 606
 
@@ -15347,11 +15355,11 @@ Section 251.14 of the Act is replaced by the following:
 
 ### Section 251.14
 
-  **(1)** If the **Head** receives moneys under this Division, the **Head** shall deposit those moneys to the credit of the Receiver General in the account known as the "Labour Standards Suspense Account" or in any other special account created for the purposes of this section and may authorize payments out of that account to any employee or other person who is entitled to that money.
+  **(1)** If the Head receives moneys under this Division, the Head shall deposit those moneys to the credit of the Receiver General in the account known as the "Labour Standards Suspense Account" or in any other special account created for the purposes of this section and may authorize payments out of that account to any employee or other person who is entitled to that money.
 
-  **(1.1)** The moneys that are equal to the administrative fees paid to the **Head** under this Part with respect to matters that are the subject of a final decision shall be debited from the account referred to in subsection (1) and credited to the Consolidated Revenue Fund no later than the fiscal year following the fiscal year in which the final decision is made.
+  **(1.1)** The moneys that are equal to the administrative fees paid to the Head under this Part with respect to matters that are the subject of a final decision shall be debited from the account referred to in subsection (1) and credited to the Consolidated Revenue Fund no later than the fiscal year following the fiscal year in which the final decision is made.
 
-  **(2)** The **Head** shall maintain a detailed record of all transactions relating to the account.
+  **(2)** The Head shall maintain a detailed record of all transactions relating to the account.
 
 ### Section 607
 
@@ -15359,11 +15367,11 @@ Section 251.14 of the Act is replaced by the following:
 
 ### Section 251.15
 
-      **(1)** Any person who is affected by a payment order issued under subsection 251.1(1) or confirmed or varied under subsection 251.101(3) or by an order of the Board made under subsection 251.12(1), or the **Head**, may, after the day provided in the order for compliance or after 15 days following the day on which the order is issued, made, confirmed or varied, whichever is later, file in the Federal Court a copy of the payment order, or a copy of the order of the Board, exclusive of reasons.
+      **(1)** Any person who is affected by a payment order issued under subsection 251.1(1) or confirmed or varied under subsection 251.101(3) or by an order of the Board made under subsection 251.12(1), or the Head, may, after the day provided in the order for compliance or after 15 days following the day on which the order is issued, made, confirmed or varied, whichever is later, file in the Federal Court a copy of the payment order, or a copy of the order of the Board, exclusive of reasons.
 
   **(2)** Subsection 251.15(2) of the Act is replaced by the following:
 
-    **(2)** After the expiration of the 15 day period specified in an order to a debtor of the employer or of the director of a corporation made under section 251.13, the **Head** may file a copy of the order in the Federal Court.
+    **(2)** After the expiration of the 15 day period specified in an order to a debtor of the employer or of the director of a corporation made under section 251.13, the Head may file a copy of the order in the Federal Court.
 
 ### Section 608
 
@@ -15371,9 +15379,9 @@ Subsections 252(1) and (2) of the Act are replaced by the following:
 
 ### Section 252
 
-  **(1)** Every employer shall furnish any information that the **Head** may require **that relate** to **their** employees, **including their** wages, their hours of work and their general holidays, annual vacations and conditions of work **as well as any returns that the Head may require.**
+  **(1)** Every employer shall furnish any information that the Head may require that relate to their employees, including their wages, their hours of work and their general holidays, annual vacations and conditions of work as well as any returns that the Head may require.
 
-  **(2)** Every employer shall make and keep for a period of at least 36 months after work is performed the records required to be kept by regulations made under paragraph 264(1)(a) and those records shall be available at all reasonable times for examination by **the Head**.
+  **(2)** Every employer shall make and keep for a period of at least 36 months after work is performed the records required to be kept by regulations made under paragraph 264(1)(a) and those records shall be available at all reasonable times for examination by the Head.
 
 ### Section 609
 
@@ -15381,29 +15389,29 @@ Subsections 253(1) to (5) of the Act are replaced by the following:
 
 ### Section 253
 
-  **(1)** Where the **Head** is authorized to require a person to furnish information under this Part or the regulations, the **Head** may require the information to be furnished by a notice to that effect served by personal service, by registered mail addressed to the latest known address of the addressee, or by any other means prescribed by regulation, and that person
+  **(1)** Where the Head is authorized to require a person to furnish information under this Part or the regulations, the Head may require the information to be furnished by a notice to that effect served by personal service, by registered mail addressed to the latest known address of the addressee, or by any other means prescribed by regulation, and that person
 
-    if the notice is sent by registered mail, **is** deemed to have received the notice on the seventh day after the day on which it was mailed; and
+    if the notice is sent by registered mail, is deemed to have received the notice on the seventh day after the day on which it was mailed; and
 
     shall furnish the information within such reasonable time as is specified in the notice.
 
-  **(2)** A certificate purporting to be signed by the **Head** certifying that a notice was sent by registered mail or by any other means prescribed by regulation to the addressee, accompanied by a true copy of the notice and by an identifying post office certificate of the registration or other proof, prescribed by regulation, that the notice has been sent or received, is admissible in evidence and is proof of the statements contained in the certificate, without proof of the signature or official character of the person appearing to have signed the certificate.
+  **(2)** A certificate purporting to be signed by the Head certifying that a notice was sent by registered mail or by any other means prescribed by regulation to the addressee, accompanied by a true copy of the notice and by an identifying post office certificate of the registration or other proof, prescribed by regulation, that the notice has been sent or received, is admissible in evidence and is proof of the statements contained in the certificate, without proof of the signature or official character of the person appearing to have signed the certificate.
 
-  **(3)** Where the **Head** is authorized to require a person to furnish information under this Part or the regulations, a certificate of the **Head** certifying that the information has not been furnished is admissible in evidence and in the absence of any evidence to the contrary is proof of the statements contained **in it**.
+  **(3)** Where the Head is authorized to require a person to furnish information under this Part or the regulations, a certificate of the Head certifying that the information has not been furnished is admissible in evidence and in the absence of any evidence to the contrary is proof of the statements contained in it.
 
-  **(4)** A certificate of the **Head** certifying that a document annexed **to it** is a document or a true copy of the document made by or on behalf of the **Head** shall be admitted in evidence and has the same force and effect as if it had been proven in the ordinary way.
+  **(4)** A certificate of the Head certifying that a document annexed to it is a document or a true copy of the document made by or on behalf of the Head shall be admitted in evidence and has the same force and effect as if it had been proven in the ordinary way.
 
-  **(5)** A certificate under this section signed or purporting to be signed by the **Head** is admissible in evidence without proof of the **Head's** appointment or signature.
+  **(5)** A certificate under this section signed or purporting to be signed by the Head is admissible in evidence without proof of the Head's appointment or signature.
 
 ### Section 610
 
   **(1)** Subparagraph 256(1)(c)(ii) of the Act is replaced by the following:
 
-    has given any information to the Minister or **the Head** regarding the wages, hours of work, annual vacation or conditions of work of an employee.
+    has given any information to the Minister or the Head regarding the wages, hours of work, annual vacation or conditions of work of an employee.
 
   **(2)** Paragraph 256(3)(b) of the Act is replaced by the following:
 
-    refuses to make available for examination by **the Head** at any reasonable time any such record kept by the employer,
+    refuses to make available for examination by the Head at any reasonable time any such record kept by the employer,
 
 ### Section 611
 
@@ -15411,50 +15419,50 @@ Section 259.2 of the Act is replaced by the following:
 
 ### Section 259.2
 
-The **Head** may, subject to the regulations, make public the name of an employer convicted of an offence under this Part, the nature of the offence, the punishment imposed and any other information prescribed by regulation.
+The Head may, subject to the regulations, make public the name of an employer convicted of an offence under this Part, the nature of the offence, the punishment imposed and any other information prescribed by regulation.
 
 ### Section 612
 
   **(1)** Paragraphs 260(1)(b) and (c) of the Act are replaced by the following:
 
-    the **Head** determines that the disclosure is in the public interest; or
+    the Head determines that the disclosure is in the public interest; or
 
-    **the Head** determines that the disclosure is necessary for the investigation of the complaint to be carried out and the complainant consents to the disclosure in writing.
+    the Head determines that the disclosure is necessary for the investigation of the complaint to be carried out and the complainant consents to the disclosure in writing.
 
   **(2)** Subsection 260(2) of the Act is replaced by the following:
 
-    **(2)** If a determination is made under paragraph (1)(c) and the complainant refuses to provide their consent after being requested to do so in writing, the **Head** may deem the complaint to be withdrawn.
+    **(2)** If a determination is made under paragraph (1)(c) and the complainant refuses to provide their consent after being requested to do so in writing, the Head may deem the complaint to be withdrawn.
 
 ### Section 613
 
   **(1)** Paragraph 264(1)(a.2) of the Act is replaced by the following:
 
-    respecting the information that an employer must provide to the **Head** for the purpose of establishing that the performance of activities referred to in subsection 167(1.2) fulfils the requirements of a program referred to in that subsection, and the circumstances in which an employer must provide it;
+    respecting the information that an employer must provide to the Head for the purpose of establishing that the performance of activities referred to in subsection 167(1.2) fulfils the requirements of a program referred to in that subsection, and the circumstances in which an employer must provide it;
 
   **(2)** Paragraph 264(1)(i) of the Act is replaced by the following:
 
-    providing for the payment of any wages of an employee to the **Head** or to another person in the event that the employee cannot be found or in any other case;
+    providing for the payment of any wages of an employee to the Head or to another person in the event that the employee cannot be found or in any other case;
 
 ### Section 614
 
 The heading before section 271 and sections 271 and 272 of the Act are replaced by the following:
 
 
-### **Head's** Powers
+### Head's Powers
 
 ### Section 271
 
-The **Head** may
+The Head may
 
 establish the form of notices of violation;
 
 designate persons, or classes of persons, who are authorized to issue notices of violation; and
 
-establish a short-form description **for** each violation to be used in notices of violation.
+establish a short-form description for each violation to be used in notices of violation.
 
 ### Section 272
 
-Subject to any terms and conditions specified by the Minister, the **Head** may delegate to any qualified person or class of persons any of the powers the **Head** is authorized to exercise or any of the duties or functions the **Head** is authorized to perform for the purposes of this Part. **The Head may make the delegation subject to any terms and conditions that the Head considers appropriate.**
+Subject to any terms and conditions specified by the Minister, the Head may delegate to any qualified person or class of persons any of the powers the Head is authorized to exercise or any of the duties or functions the Head is authorized to perform for the purposes of this Part. The Head may make the delegation subject to any terms and conditions that the Head considers appropriate.
 
 ### Section 615
 
@@ -15462,19 +15470,19 @@ Sections 281 to 283 of the Act are replaced by the following:
 
 ### Section 281
 
-A person or a department that is served with a notice of violation may, within 30 days after the day on which the notice is served, or within any longer period that the **Head** allows, make a request, in the manner prescribed by regulation, to the **Head** for a review of the penalty or the facts of the alleged violation, or both.
+A person or a department that is served with a notice of violation may, within 30 days after the day on which the notice is served, or within any longer period that the Head allows, make a request, in the manner prescribed by regulation, to the Head for a review of the penalty or the facts of the alleged violation, or both.
 
 ### Section 282
 
-At any time before a request for review in respect of a notice of violation comes before the **Head**, a person designated under paragraph 271(b) may cancel the notice of violation or correct an error in it.
+At any time before a request for review in respect of a notice of violation comes before the Head, a person designated under paragraph 271(b) may cancel the notice of violation or correct an error in it.
 
 ### Section 283
 
-  **(1)** On receipt of a request for review made under section 281, the **Head** shall conduct the review of the notice of violation.
+  **(1)** On receipt of a request for review made under section 281, the Head shall conduct the review of the notice of violation.
 
-  **(2)** The **Head** may make rules governing the procedure with respect to reviews under this Part.
+  **(2)** The Head may make rules governing the procedure with respect to reviews under this Part.
 
-  **(3)** The **Head** may, if the **Head** considers it appropriate in the circumstances, treat the request for review as an appeal, in which case the **Head** shall so inform the applicant and refer the request for review to the Board, and the Board shall be considered to have an appeal before it for the purposes of this Part.
+  **(3)** The Head may, if the Head considers it appropriate in the circumstances, treat the request for review as an appeal, in which case the Head shall so inform the applicant and refer the request for review to the Board, and the Board shall be considered to have an appeal before it for the purposes of this Part.
 
 ### Section 616
 
@@ -15482,15 +15490,15 @@ At any time before a request for review in respect of a notice of violation come
 
 ### Section 284
 
-      **(1)** The **Head** shall determine, as the case may be, whether the amount of the penalty for the violation was determined in accordance with the regulations or whether the applicant committed the violation, or both.
+      **(1)** The Head shall determine, as the case may be, whether the amount of the penalty for the violation was determined in accordance with the regulations or whether the applicant committed the violation, or both.
 
-      **(2)** If the **Head** determines that the amount of the penalty for the violation was not determined in accordance with the regulations, the **Head** shall correct the amount of the penalty.
+      **(2)** If the Head determines that the amount of the penalty for the violation was not determined in accordance with the regulations, the Head shall correct the amount of the penalty.
 
-      **(3)** The **Head** shall make a decision in writing and serve the applicant with a copy of the decision, with reasons.
+      **(3)** The Head shall make a decision in writing and serve the applicant with a copy of the decision, with reasons.
 
   **(2)** Subsection 284(5) of the English version of the Act is replaced by the following:
 
-    **(5)** If the **Head** determines that the applicant committed the violation, the applicant is liable for the penalty that is set out in the decision.
+    **(5)** If the Head determines that the applicant committed the violation, the applicant is liable for the penalty that is set out in the decision.
 
 ### Section 617
 
@@ -15498,7 +15506,7 @@ Subsection 285(1) of the French version of the Act is replaced by the following:
 
 ### Section 285
 
-  **(1)** L'auteur présumé de la violation peut, par écrit, dans les quinze jours suivant la signification de la décision rendue par le **chef** en application de l'article 284, interjeter appel de celle-ci auprès du Conseil.
+  **(1)** L'auteur présumé de la violation peut, par écrit, dans les quinze jours suivant la signification de la décision rendue par le chef en application de l'article 284, interjeter appel de celle-ci auprès du Conseil.
 
 ### Section 618
 
@@ -15506,19 +15514,19 @@ Section 286 of the Act is replaced by the following:
 
 ### Section 286
 
-  **(1)** The Board shall inform the **Head** in writing when an appeal is brought under subsection 285(1) and provide **the Head** with a copy of the request for appeal.
+  **(1)** The Board shall inform the Head in writing when an appeal is brought under subsection 285(1) and provide the Head with a copy of the request for appeal.
 
-  **(2)** The **Head** shall, on request of the Board, provide to the Board a copy of any document that the **Head** relied on for the purpose of making the decision being appealed.
+  **(2)** The Head shall, on request of the Board, provide to the Board a copy of any document that the Head relied on for the purpose of making the decision being appealed.
 
-  **(3)** The Board shall, on request of the **Head**, provide to the **Head** a copy of any document that is filed with the Board in the appeal.
+  **(3)** The Board shall, on request of the Head, provide to the Head a copy of any document that is filed with the Board in the appeal.
 
-  **(4)** The **Head** may, in an appeal, present evidence and make representations to the Board.
+  **(4)** The Head may, in an appeal, present evidence and make representations to the Board.
 
 ### Section 619
 
 Subsection 287(3) of the Act is replaced by the following:
 
-**(3)** The Board shall make a decision in writing and provide the appellant and the **Head** with a copy of the decision, with reasons.
+**(3)** The Board shall make a decision in writing and provide the appellant and the Head with a copy of the decision, with reasons.
 
 ### Section 620
 
@@ -15526,7 +15534,7 @@ Subsection 292(1) of the Act is replaced by the following:
 
 ### Section 292
 
-  **(1)** The **Head** may issue a certificate certifying the unpaid amount of any debt referred to in subsection 291(1).
+  **(1)** The Head may issue a certificate certifying the unpaid amount of any debt referred to in subsection 291(1).
 
 ### Section 621
 
@@ -15534,7 +15542,7 @@ Section 295 of the Act is replaced by the following:
 
 ### Section 295
 
-The **Head** may, subject to the regulations, make public the name of an employer who committed a violation under this Part, the nature of the violation, the amount of the penalty imposed and any other information prescribed by regulation.
+The Head may, subject to the regulations, make public the name of an employer who committed a violation under this Part, the nature of the violation, the amount of the penalty imposed and any other information prescribed by regulation.
 
 
 ##### Coordinating Amendments
@@ -15623,13 +15631,13 @@ The **Head** may, subject to the regulations, make public the name of an employe
 
 ### Section 135.‍11
 
-      **(1)** Neither the **Head** nor an employer shall, without the person's consent, provide, under this Part, a policy committee or a work place committee with any information that is likely to reveal the identity of a person who was involved in an occurrence of harassment and violence in the work place. Neither a policy committee nor a work place committee shall have access to that information without the person's consent.
+      **(1)** Neither the Head nor an employer shall, without the person's consent, provide, under this Part, a policy committee or a work place committee with any information that is likely to reveal the identity of a person who was involved in an occurrence of harassment and violence in the work place. Neither a policy committee nor a work place committee shall have access to that information without the person's consent.
 
   **(11)** On the first day on which both section 11 of the other Act and section `535` of this Act are in force, subsection 136.1(1) of the `Canada Labour Code` is replaced by the following:
 
 ### Section 136.1
 
-      **(1)** Neither the **Head** nor an employer shall, without the person's consent, provide, under this Part, a health and safety representative with any information that is likely to reveal the identity of a person who was involved in an occurrence of harassment and violence in the work place. A health and safety representative shall not have access to that information without the person's consent.
+      **(1)** Neither the Head nor an employer shall, without the person's consent, provide, under this Part, a health and safety representative with any information that is likely to reveal the identity of a person who was involved in an occurrence of harassment and violence in the work place. A health and safety representative shall not have access to that information without the person's consent.
 
   **(12)** On the first day on which both section 12 of the other Act and subsection `553`(2) of this Act are in force, subsection 140(3) of the `Canada Labour Code` is replaced by the following:
 
@@ -15674,19 +15682,19 @@ The long title of the `Wage Earner Protection Program Act` is replaced by the fo
 
   **(1)** Subparagraph (a)(ii) of the definition **eligible wages** in subsection 2(1) of the Act is replaced by the following:
 
-    the period beginning on the day that is six months before **one of the following days** and ending on the date of the bankruptcy or the first day on which there was a receiver in relation to the former employer:
+    the period beginning on the day that is six months before one of the following days and ending on the date of the bankruptcy or the first day on which there was a receiver in relation to the former employer:
 
-    the day on which a proposal is filed by or in respect of the employer under Division I of Part III of the `Bankruptcy and Insolvency Act` **or, if a notice of intention to make a proposal is filed by or in respect of the employer under that Division, the day on which the notice of intention is filed**,
+    the day on which a proposal is filed by or in respect of the employer under Division I of Part III of the `Bankruptcy and Insolvency Act` or, if a notice of intention to make a proposal is filed by or in respect of the employer under that Division, the day on which the notice of intention is filed,
 
-    the day on which **the most recent** proceedings under the `Companies' Creditors Arrangement Act` are commenced; and
+    the day on which the most recent proceedings under the `Companies' Creditors Arrangement Act` are commenced; and
 
   **(2)** Paragraph (a) of the definition **eligible wages** in subsection 2(1) of the Act is amended by striking out "and" at the end of subparagraph (i) and by adding the following after subparagraph (ii):
 
     the period beginning on the day that is six months before one of the following days and ending on the day on which a court makes a determination under subsection 5(5):
 
-    the day on which a proposal is filed by or in respect of the employer under Division I of Part III of the `Bankruptcy and Insolvency Act` **or, if a notice of intention to make a proposal is filed by or in respect of the employer under that Division, the day on which the notice of intention is filed**,
+    the day on which a proposal is filed by or in respect of the employer under Division I of Part III of the `Bankruptcy and Insolvency Act` or, if a notice of intention to make a proposal is filed by or in respect of the employer under that Division, the day on which the notice of intention is filed,
 
-    the day on which **the most recent** proceedings under the `Companies' Creditors Arrangement Act` are commenced; and
+    the day on which the most recent proceedings under the `Companies' Creditors Arrangement Act` are commenced; and
 
   **(3)** Paragraph (b) of the definition **eligible wages** in subsection 2(1) of the Act is replaced by the following:
 
@@ -15706,7 +15714,7 @@ The long title of the `Wage Earner Protection Program Act` is replaced by the fo
 
   **(6)** Paragraph 2(5)(a) of the French version of the Act is replaced by the following:
 
-    pour l'application de l'alinéa 6d), il est réputé n'exister aucun lien de dépendance si le ministre est convaincu, compte tenu des circonstances, notamment des modalités d'emploi de la personne **physique** auprès de son ancien employeur, de sa rétribution, ainsi que de la durée, la nature et l'importance du travail accompli, qu'il est raisonnable de conclure que celle-ci a conclu avec lui un contrat de travail en substance pareil à celui qu'elle aurait conclu n'eût été le lien de dépendance;
+    pour l'application de l'alinéa 6d), il est réputé n'exister aucun lien de dépendance si le ministre est convaincu, compte tenu des circonstances, notamment des modalités d'emploi de la personne physique auprès de son ancien employeur, de sa rétribution, ainsi que de la durée, la nature et l'importance du travail accompli, qu'il est raisonnable de conclure que celle-ci a conclu avec lui un contrat de travail en substance pareil à celui qu'elle aurait conclu n'eût été le lien de dépendance;
 
 ### Section 628
 
@@ -15714,7 +15722,7 @@ Section 4 of the Act is replaced by the following:
 
 ### Section 4
 
-The Wage Earner Protection Program is established **to provide for** payments to individuals in respect of wages owed to them by employers who are **insolvent**.
+The Wage Earner Protection Program is established to provide for payments to individuals in respect of wages owed to them by employers who are insolvent.
 
 ### Section 629
 
@@ -15724,7 +15732,7 @@ The Wage Earner Protection Program is established **to provide for** payments to
 
     the former employer is bankrupt,
 
-    **the former employer is** subject to a receivership,
+    the former employer is subject to a receivership,
 
     the former employer is the subject of a foreign proceeding that is recognized by a court under subsection 270(1) of the `Bankruptcy and Insolvency Act` and
 
@@ -15750,7 +15758,7 @@ The portion of section 6 of the French version of the Act before paragraph (a) i
 
 ### Section 6
 
-La personne **physique** n'est pas admissible au versement de prestations à l'égard de tout salaire gagné au cours d'une période — ou qui s'y rapporte autrement — durant laquelle, selon le cas :
+La personne physique n'est pas admissible au versement de prestations à l'égard de tout salaire gagné au cours d'une période — ou qui s'y rapporte autrement — durant laquelle, selon le cas :
 
 ### Section 631
 
@@ -15758,7 +15766,7 @@ La personne **physique** n'est pas admissible au versement de prestations à l'�
 
 ### Section 7
 
-      **(1)** The amount that may be paid under this Act to an individual is the amount of eligible wages owing to the individual up to a maximum of an amount equal to **seven** times the maximum weekly insurable earnings under the `Employment Insurance Act`, less any amount prescribed by regulation.
+      **(1)** The amount that may be paid under this Act to an individual is the amount of eligible wages owing to the individual up to a maximum of an amount equal to seven times the maximum weekly insurable earnings under the `Employment Insurance Act`, less any amount prescribed by regulation.
 
   **(2)** Section 7 of the Act is replaced by the following:
 
@@ -15776,7 +15784,7 @@ Section 8 of the French version of the Act is replaced by the following:
 
 ### Section 8
 
-Pour obtenir des prestations, la personne **physique** présente une demande au ministre selon les modalités — de temps et autres — prévues par règlement.
+Pour obtenir des prestations, la personne physique présente une demande au ministre selon les modalités — de temps et autres — prévues par règlement.
 
 ### Section 633
 
@@ -15798,7 +15806,7 @@ Section 18 of the Act is replaced by the following:
 
 ### Section 18
 
-The adjudicator must send a copy of his or her decision, and the reasons for it, to each party to the appeal **and to the trustee or receiver**.
+The adjudicator must send a copy of his or her decision, and the reasons for it, to each party to the appeal and to the trustee or receiver.
 
 ### Section 636
 
@@ -15806,31 +15814,31 @@ Section 19 of the Act is replaced by the following:
 
 ### Section 19
 
-No order may be made to review, prohibit or restrain and no process entered or proceeding taken to question, review, prohibit or restrain in any court — whether by way of injunction, certiorari, prohibition, quo warranto or otherwise — an action of an adjudicator under **any of sections 14 to 18**.
+No order may be made to review, prohibit or restrain and no process entered or proceeding taken to question, review, prohibit or restrain in any court — whether by way of injunction, certiorari, prohibition, quo warranto or otherwise — an action of an adjudicator under any of sections 14 to 18.
 
 ### Section 637
 
   **(1)** Paragraphs 21(1)(a) to (c) of the French version of the Act are replaced by the following:
 
-    d'identifier chaque personne **physique** qui est titulaire d'une créance au titre du salaire admissible;
+    d'identifier chaque personne physique qui est titulaire d'une créance au titre du salaire admissible;
 
-    de déterminer le montant du salaire admissible qui est dû à chaque personne **physique**;
+    de déterminer le montant du salaire admissible qui est dû à chaque personne physique;
 
-    d'informer chaque personne **physique**, sauf celle qui fait partie d'une catégorie réglementaire, de l'existence du programme établi à l'article 4 et des conditions auxquelles les prestations peuvent être versées au titre de la présente loi;
+    d'informer chaque personne physique, sauf celle qui fait partie d'une catégorie réglementaire, de l'existence du programme établi à l'article 4 et des conditions auxquelles les prestations peuvent être versées au titre de la présente loi;
 
   **(2)** Paragraph 21(1)(d) of the Act is replaced by the following:
 
-    provide the Minister and each individual other than one who is in a class prescribed by regulation with the amount of eligible wages owing to the individual and **any other** information prescribed by regulation;
+    provide the Minister and each individual other than one who is in a class prescribed by regulation with the amount of eligible wages owing to the individual and any other information prescribed by regulation;
 
   **(3)** Subsection 21(3) of the French version of the Act is replaced by the following:
 
-    **(3)** Sur demande, toute personne, autre que celle qui est visée au paragraphe (4), qui est en possession de renseignements visés à l'alinéa (1)d) ou a accès à de tels renseignements est tenue de les **fournir** au syndic ou au séquestre, selon le cas.
+    **(3)** Sur demande, toute personne, autre que celle qui est visée au paragraphe (4), qui est en possession de renseignements visés à l'alinéa (1)d) ou a accès à de tels renseignements est tenue de les fournir au syndic ou au séquestre, selon le cas.
 
   **(4)** Subsection 21(4) of the Act is replaced by the following:
 
-    **(4)** A person who is dealing at arm's length with and providing payroll services to a bankrupt or insolvent person **and who has or has access to information described in paragraph (1)(d)** shall,
+    **(4)** A person who is dealing at arm's length with and providing payroll services to a bankrupt or insolvent person and who has or has access to information described in paragraph (1)(d) shall,
 
-      **if requested by the trustee or receiver**, provide **the** trustee or receiver with a description of the information **described in paragraph (1)(d)** that they have **or have** access to and an estimate of the cost of providing the information; **and**
+      if requested by the trustee or receiver, provide the trustee or receiver with a description of the information described in paragraph (1)(d) that they have or have access to and an estimate of the cost of providing the information; and
 
       if requested by the trustee or receiver, provide the trustee or receiver with the information described in paragraph (1)(d) that they have or have access to.
 
@@ -15840,7 +15848,7 @@ Section 22 of the Act is replaced by the following:
 
 ### Section 22
 
-**Subject to section 22.1**, the trustee's or receiver's fees and expenses, in relation to the performance of their duties under this Act, are to be paid out of the estate of the bankrupt employer or the property of the insolvent employer, as the case may be.
+Subject to section 22.1, the trustee's or receiver's fees and expenses, in relation to the performance of their duties under this Act, are to be paid out of the estate of the bankrupt employer or the property of the insolvent employer, as the case may be.
 
 ### Section 22.1
 
@@ -15864,7 +15872,7 @@ Section 29 of the French version of the Act is replaced by the following:
 
 ### Section 29
 
-Nul ne peut sciemment utiliser, communiquer ou permettre que soit communiqué le numéro d'assurance sociale d'une personne **physique** qui a été obtenu à une fin liée à une demande de prestations au titre de la présente loi, si ce n'est pour l'application de celle-ci ou de la `Loi de l'impôt sur le revenu`.
+Nul ne peut sciemment utiliser, communiquer ou permettre que soit communiqué le numéro d'assurance sociale d'une personne physique qui a été obtenu à une fin liée à une demande de prestations au titre de la présente loi, si ce n'est pour l'application de celle-ci ou de la `Loi de l'impôt sur le revenu`.
 
 ### Section 641
 
@@ -15883,7 +15891,7 @@ If the Minister determines that an individual did not receive all or part of a p
 
 ### Section 32
 
-      **(1)** S'il décide qu'une personne **physique** a perçu des sommes en trop, le ministre lui fait parvenir un avis écrit :
+      **(1)** S'il décide qu'une personne physique a perçu des sommes en trop, le ministre lui fait parvenir un avis écrit :
 
   **(2)** Subsections 32(2) and (3) of the Act are replaced by the following:
 
@@ -15945,7 +15953,7 @@ The adjudicator's decision is final and may not be questioned or reviewed in any
 
 ### Section 33
 
-If the Minister is of the opinion that a person is or is about to become liable to pay an amount to an individual who is indebted to Her Majesty under subsection **32.93(1)**, the Minister may, by written notice, order the person to pay to the Receiver General on account of the individual's liability all or part of the amount otherwise payable to the individual.
+If the Minister is of the opinion that a person is or is about to become liable to pay an amount to an individual who is indebted to Her Majesty under subsection 32.93(1), the Minister may, by written notice, order the person to pay to the Receiver General on account of the individual's liability all or part of the amount otherwise payable to the individual.
 
 ### Section 34
 
@@ -16013,7 +16021,7 @@ The Board's decision is final and shall not be questioned or reviewed in any cou
 
 ### Section 36
 
-      **(1)** If a payment is made under this Act to an individual in respect of **eligible** wages, Her Majesty in right of Canada is, to the extent of the amount of the payment, subrogated to any rights the individual may have in respect of the **eligible** wages against
+      **(1)** If a payment is made under this Act to an individual in respect of eligible wages, Her Majesty in right of Canada is, to the extent of the amount of the payment, subrogated to any rights the individual may have in respect of the eligible wages against
 
   **(2)** Section 36 of the Act is amended by adding the following after subsection (1):
 
@@ -16039,27 +16047,27 @@ The Act is amended by adding the following after section 36:
 
   **(1)** Paragraph 41(b) of the Act is replaced by the following:
 
-    prescribing reasons for the purposes of paragraph 5**(1)**(a);
+    prescribing reasons for the purposes of paragraph 5(1)(a);
 
     prescribing criteria for the purposes of subsections 5(2) and (5);
 
   **(2)** Paragraph 41(d) of the Act is replaced by the following:
 
-    prescribing **circumstances and providing for amounts** for the purposes of subsection 7(**1.1**);
+    prescribing circumstances and providing for amounts for the purposes of subsection 7(1.1);
 
   **(3)** Paragraph 41(g) of the Act is replaced by the following:
 
-    respecting the period during which and the manner in which a review may be requested under section 11 **or 32.1** or an appeal may be made under section 14 or **32.5**;
+    respecting the period during which and the manner in which a review may be requested under section 11 or 32.1 or an appeal may be made under section 14 or 32.5;
 
   **(4)** Paragraphs 41(h) and (i) of the French version of the Act are replaced by the following:
 
-    prévoir les catégories de personnes **physiques** que le syndic ou le séquestre est dispensé d'informer en application de l'alinéa 21(1)c) et celles à qui il est dispensé de transmettre les renseignements visés à l'alinéa 21(1)d);
+    prévoir les catégories de personnes physiques que le syndic ou le séquestre est dispensé d'informer en application de l'alinéa 21(1)c) et celles à qui il est dispensé de transmettre les renseignements visés à l'alinéa 21(1)d);
 
-    régir les renseignements que le syndic ou le séquestre est tenu de transmettre au ministre et à la personne **physique** pour l'application de l'alinéa 21(1)d), ainsi que régir les modalités — de temps et autres — applicables à leur fourniture;
+    régir les renseignements que le syndic ou le séquestre est tenu de transmettre au ministre et à la personne physique pour l'application de l'alinéa 21(1)d), ainsi que régir les modalités — de temps et autres — applicables à leur fourniture;
 
   **(5)** Section 41 of the Act is amended by striking out "and" at the end of paragraph (j) and replacing paragraph (k) with the following:
 
-    prescribing fees and expenses for the purposes of **section 22.1** and the circumstances in which they are to be paid; and
+    prescribing fees and expenses for the purposes of section 22.1 and the circumstances in which they are to be paid; and
 
     prescribing the period during which and the manner in which the Minister must be notified under subsection 36(1.1) or (1.2) and the information that must be contained in the notice.
 
@@ -16141,7 +16149,7 @@ Section 13 of the `Bretton Woods and Related Agreements Act` is replaced by the 
 
 ### Section 13
 
-The Minister of Finance shall cause to be laid before **each House of** Parliament **within one year after** the end of each **fiscal** year or, if **either House** is not sitting, on any of the first **five** days **on which that** House of Parliament is sitting, a report containing a general summary of operations under this Act and details of all those operations that directly affect Canada, including the resources and lending of the World Bank Group, the funds subscribed or contributed by Canada, borrowings in Canada and procurement of Canadian goods and services.
+The Minister of Finance shall cause to be laid before each House of Parliament within one year after the end of each fiscal year or, if either House is not sitting, on any of the first five days on which that House of Parliament is sitting, a report containing a general summary of operations under this Act and details of all those operations that directly affect Canada, including the resources and lending of the World Bank Group, the funds subscribed or contributed by Canada, borrowings in Canada and procurement of Canadian goods and services.
 
 
 ##### `European Bank for Reconstruction and Development Agreement Act`
@@ -16152,7 +16160,7 @@ Section 7 of the `European Bank for Reconstruction and Development Agreement Act
 
 ### Section 7
 
-The Minister shall cause to be laid before each House of Parliament **within one year after the end** of each **fiscal** year or, if either House is not sitting, on any of the first **five** days **on which** that House of Parliament is sitting, a report of operations containing a general summary of all actions taken under the authority of this Act, including their sustainable development aspects within the meaning of Article 2 of the Agreement, and their human rights aspects.
+The Minister shall cause to be laid before each House of Parliament within one year after the end of each fiscal year or, if either House is not sitting, on any of the first five days on which that House of Parliament is sitting, a report of operations containing a general summary of all actions taken under the authority of this Act, including their sustainable development aspects within the meaning of Article 2 of the Agreement, and their human rights aspects.
 
 
 ##### `Official Development Assistance Accountability Act`
@@ -16165,9 +16173,9 @@ The definition **official development assistance** in section 3 of the `Official
 
 The Act is amended by adding the following after section 3:
 
-### Section **3.1**
+### Section 3.1
 
-**For the purposes of this Act, the Governor in Council may make regulations defining the expression "official development assistance".**
+For the purposes of this Act, the Governor in Council may make regulations defining the expression "official development assistance", **in which case, the Governor in Council must take into account, among other things, the most recent definition of "official development assistance" formulated by the Development Assistance Committee of the Organisation for Economic Co-operation and Development**.
 
 ### Section 658
 
@@ -16175,11 +16183,11 @@ The Act is amended by adding the following after section 3:
 
 ### Section 5
 
-      **(1)** The Minister or the competent minister shall cause to be **laid before** each House of Parliament within **one year** after the **end** of each fiscal year or, if **either** House is not sitting, on any of the first five days **on which** that House **of Parliament** is sitting, a report containing
+      **(1)** The Minister or the competent minister shall cause to be laid before each House of Parliament within one year after the end of each fiscal year or, if either House is not sitting, on any of the first five days on which that House of Parliament is sitting, a report containing
 
   **(2)** Paragraph 5(1)(c) of the Act is replaced by the following:
 
-    a summary of **Canada's activities** under the `Bretton Woods and Related Agreements Act` **that have contributed to carrying out** the **purpose of this Act**; and
+    a summary of Canada's activities under the `Bretton Woods and Related Agreements Act` that have contributed to carrying out the purpose of this Act; and
 
   **(3)** Paragraph 5(1)(d) of the Act is repealed.
 
@@ -16237,7 +16245,7 @@ acquire and hold security or a security interest, including, in Quebec, a right 
 
 surrender the security, security interest or right in the security and acquire and hold, in exchange, a security or security interest, including, in Quebec, a right in a security, of any kind and in any form;
 
-realize the security, security interest or right in the security made, acquired and held with respect to obligations guaranteed made under paragraph (a);
+realize the security, security interest or right in the security made, acquired and held with respect to obligations guaranteed under paragraph (a);
 
 exchange, assign, sell or otherwise dispose of the security, security interest or right in the security, of any kind and in any form, for the due discharge of obligations guaranteed under paragraph (a); and
 
@@ -16631,7 +16639,7 @@ Section 1 of the Act is replaced by the following:
 
 ### Section 1
 
-This Act may be cited as the `Manitoba Claim **Settlement** Implementation Act (**Norway House Cree Nation**)`.
+This Act may be cited as the `Manitoba Claim Settlement Implementation Act (Norway House Cree Nation)`.
 
 ### Section 682
 
@@ -16662,15 +16670,15 @@ This Division comes into force on a day to be fixed by order of the Governor in 
 
   **(1)** Paragraph 715.42(1)(c) of the `Criminal Code` is replaced by the following:
 
-    a decision made under subsection (2) **or (5)** and the reasons for that decision.
+    a decision made under subsection (2) or (5) and the reasons for that decision.
 
   **(2)** Subsection 715.42(2) of the Act is replaced by the following:
 
-    **(2)** The court may decide not to publish the agreement or any order or reasons referred to in **paragraph** (1)**(b)**, in whole or in part, if it is satisfied that the non-publication is necessary for the proper administration of justice.
+    **(2)** The court may decide not to publish the agreement or any order or reasons referred to in paragraph (1)(b), in whole or in part, if it is satisfied that the non-publication is necessary for the proper administration of justice.
 
   **(3)** Subsection 715.42(4) of the Act is replaced by the following:
 
-    **(4)** The court may make its decision subject to any conditions that it considers appropriate, **including a condition related to the duration of non-publication**.
+    **(4)** The court may make its decision subject to any conditions that it considers appropriate, including a condition related to the duration of non-publication.
 
     **(5)** On application by any person, the court must review the decision made under subsection (2) to determine whether the non-publication continues to be necessary for the proper administration of justice. If the court is satisfied that the non-publication is no longer necessary, it must publish the agreement, order or reasons, as the case may be, in whole or in part, as soon as practicable.
 
@@ -16708,9 +16716,9 @@ Section 8 of the `Canada Shipping Act, 2001` is replaced by the following:
 
 ### Section 8
 
-This Part applies in respect of Canadian vessels everywhere and in respect of foreign vessels in Canadian waters. **However**
+This Part applies in respect of Canadian vessels everywhere and in respect of foreign vessels in Canadian waters. However
 
-regulations made under paragraph 35(1)(d) in respect of pollution **also** apply, if they so state, in respect of foreign vessels in waters in the exclusive economic zone of Canada; **and**
+regulations made under paragraph 35(1)(d) in respect of pollution also apply, if they so state, in respect of foreign vessels in waters in the exclusive economic zone of Canada; and
 
 subsections 10(2.1) and 35.1(1) also apply in respect of
 
@@ -16722,7 +16730,7 @@ pleasure craft that are not Canadian vessels in Canadian waters or in waters in 
 
   **(1)** Paragraph 10(1)(c) of the Act is replaced by the following:
 
-    enter into agreements or arrangements respecting the administration or enforcement of any provision of this Act or the regulations and authorize any person or organization — **including a provincial government, a local authority and a government, council or other entity authorized to act on behalf of an Indigenous group** — with whom **or which** an agreement or arrangement is entered into to exercise the powers or perform the duties **and functions** under this Act that are specified in the agreement or arrangement.
+    enter into agreements or arrangements respecting the administration or enforcement of any provision of this Act or the regulations and authorize any person or organization — including a provincial government, a local authority and a government, council or other entity authorized to act on behalf of an Indigenous group — with whom or which an agreement or arrangement is entered into to exercise the powers or perform the duties and functions under this Act that are specified in the agreement or arrangement.
 
   **(2)** Section 10 of the Act is amended by adding the following after subsection (2):
 
@@ -16732,7 +16740,7 @@ pleasure craft that are not Canadian vessels in Canadian waters or in waters in 
 
   **(3)** Subsection 10(4) of the Act is replaced by the following:
 
-    **(4)** Notice of every exemption granted under subsection (2), **(2.1)** or (3) must be published in the `Canada Gazette`.
+    **(4)** Notice of every exemption granted under subsection (2), (2.1) or (3) must be published in the `Canada Gazette`.
 
 ### Section 690
 
@@ -16766,7 +16774,7 @@ The Act is amended by adding the following after section 10:
 
 Subsection 34(2) of the Act is replaced by the following:
 
-**(2)** An order or direction referred to in subsection (1) is not a statutory instrument **as defined in** the `Statutory Instruments Act`.
+**(2)** An order or direction referred to in subsection (1) is not a statutory instrument as defined in the `Statutory Instruments Act`.
 
 ### Section 692
 
@@ -16834,7 +16842,7 @@ The Act is amended by adding the following after section 40:
 
 Paragraph 120(1)(g) of the English version of the Act is replaced by the following:
 
-respecting **the** inspection and testing of vessels, or classes of vessels, and their machinery, equipment and supplies;
+respecting the inspection and testing of vessels, or classes of vessels, and their machinery, equipment and supplies;
 
 ### Section 695
 
@@ -16842,25 +16850,25 @@ respecting **the** inspection and testing of vessels, or classes of vessels, and
 
 ### Section 130
 
-      **(1)** The Minister may designate persons as **search and** rescue **mission** coordinators to organize search and rescue operations.
+      **(1)** The Minister may designate persons as search and rescue mission coordinators to organize search and rescue operations.
 
   **(2)** The portion of subsection 130(2) of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** On being informed that a person, a vessel or an aircraft is in distress or is missing in Canadian waters or on the high seas off any of the coasts of Canada under circumstances that indicate that they may be in distress, a **search and** rescue **mission** coordinator may
+    **(2)** On being informed that a person, a vessel or an aircraft is in distress or is missing in Canadian waters or on the high seas off any of the coasts of Canada under circumstances that indicate that they may be in distress, a search and rescue mission coordinator may
 
   **(3)** Paragraph 130(2)(a) of the English version of the Act is replaced by the following:
 
-    direct all vessels within an area that the **search and** rescue **mission** coordinator specifies to report their positions;
+    direct all vessels within an area that the search and rescue mission coordinator specifies to report their positions;
 
   **(4)** Paragraph 130(2)(c) of the English version of the Act is replaced by the following:
 
-    give any other directions that the **search and** rescue **mission** coordinator considers necessary to carry out search and rescue operations for that person, vessel or aircraft; and
+    give any other directions that the search and rescue mission coordinator considers necessary to carry out search and rescue operations for that person, vessel or aircraft; and
 
 ### Section 696
 
 Paragraph 138(1)(i) of the Act is replaced by the following:
 
-subsection 130(3) (comply with direction of **search and** rescue **mission** coordinator); or
+subsection 130(3) (comply with direction of search and rescue mission coordinator); or
 
 ### Section 697
 
@@ -16868,13 +16876,13 @@ Section 147 of the Act is replaced by the following:
 
 ### Section 147
 
-Compliance with section 130 (direction of **search and** rescue **mission** coordinator), 131 (distress signals) or 132 (assisting a person found at sea) does not affect the right of a master or of any other person to salvage.
+Compliance with section 130 (direction of search and rescue mission coordinator), 131 (distress signals) or 132 (assisting a person found at sea) does not affect the right of a master or of any other person to salvage.
 
 ### Section 698
 
 The definition **oil pollution incident** in section 165 of the Act is replaced by the following:
 
-**oil pollution incident** means an occurrence, or a series of occurrences having the same origin, that results or **may** result in a discharge of oil. (**événement de pollution par les hydrocarbures**)
+**oil pollution incident** means an occurrence, or a series of occurrences having the same origin, that results or may result in a discharge of oil. (**événement de pollution par les hydrocarbures**)
 
 ### Section 699
 
@@ -16882,7 +16890,7 @@ The portion of section 168.3 of the Act before paragraph (a) is replaced by the 
 
 ### Section 168.3
 
-If the Minister believes on reasonable grounds that an oil handling facility has discharged, is discharging or **may** discharge oil, that the oil pollution prevention plan or the oil pollution emergency plan for an oil handling facility does not meet the requirements set out in the regulations or that the operator of an oil handling facility does not have the procedures, equipment and resources required by the regulations available for immediate use in the event of a discharge of oil during the loading or unloading of a vessel, the Minister may
+If the Minister believes on reasonable grounds that an oil handling facility has discharged, is discharging or may discharge oil, that the oil pollution prevention plan or the oil pollution emergency plan for an oil handling facility does not meet the requirements set out in the regulations or that the operator of an oil handling facility does not have the procedures, equipment and resources required by the regulations available for immediate use in the event of a discharge of oil during the loading or unloading of a vessel, the Minister may
 
 ### Section 700
 
@@ -16892,7 +16900,7 @@ Subsection 174.1(3) of the Act is repealed.
 
 The portion of subsection 175.1(2) of the Act before paragraph (a) is replaced by the following:
 
-**(2)** If the pollution response officer believes on reasonable grounds that a vessel **has** discharged, **is discharging** or **may** discharge a pollutant, he or she may
+**(2)** If the pollution response officer believes on reasonable grounds that a vessel has discharged, is discharging or may discharge a pollutant, he or she may
 
 ### Section 702
 
@@ -16900,11 +16908,11 @@ The portion of subsection 175.1(2) of the Act before paragraph (a) is replaced b
 
 ### Section 180
 
-      **(1)** If the Minister of Fisheries and Oceans believes on reasonable grounds that a vessel or an oil handling facility has discharged, is discharging or **may** discharge a pollutant, he or she may
+      **(1)** If the Minister of Fisheries and Oceans believes on reasonable grounds that a vessel or an oil handling facility has discharged, is discharging or may discharge a pollutant, he or she may
 
-        take the measures that he or she considers necessary to repair, remedy, minimize or prevent pollution damage from the vessel or oil handling facility, including, in the case of a vessel, **by removing — or by selling, dismantling, destroying** or otherwise **disposing of —** the vessel **or** its contents;
+        take the measures that he or she considers necessary to repair, remedy, minimize or prevent pollution damage from the vessel or oil handling facility, including, in the case of a vessel, by removing — or by selling, dismantling, destroying or otherwise disposing of — the vessel or its contents;
 
-        monitor the measures taken by any person **or vessel** to repair, remedy, minimize or prevent pollution damage from the vessel or oil handling facility; or
+        monitor the measures taken by any person or vessel to repair, remedy, minimize or prevent pollution damage from the vessel or oil handling facility; or
 
   **(2)** Subsections 180(2) and (3) of the Act are replaced by the following:
 
@@ -16916,7 +16924,7 @@ The portion of subsection 175.1(2) of the Act before paragraph (a) is replaced b
 
     **(2.3)** The Minister of Fisheries and Oceans may apply to the Federal Court for directions as to the allocation of the surplus referred to in subsection (2.2).
 
-    **(3)** Compensation shall be paid by Her Majesty in right of Canada for the services of any person or vessel, other than the operator of an oil handling facility or vessel that had discharged, was discharging or **may have discharged** a pollutant, that has complied with a direction issued under paragraph (1)(c).
+    **(3)** Compensation shall be paid by Her Majesty in right of Canada for the services of any person or vessel, other than the operator of an oil handling facility or vessel that had discharged, was discharging or may have discharged a pollutant, that has complied with a direction issued under paragraph (1)(c).
 
     **(4)** A direction made by the Minister of Fisheries and Oceans under paragraph (1)(c) prevails over an order or direction made under any Act of Parliament, to the extent of any inconsistency.
 
@@ -16944,7 +16952,7 @@ An order or direction given under this Part by the Minister of Fisheries and Oce
 
 ### Section 181
 
-      **(1)** A person who, **or vessel that**, is directed to take or refrain from taking measures under paragraph 180(1)(c) is not personally liable, either civilly or criminally, **for anything they do** or **omit** to **do** in the course of complying with the direction, unless it is **established** that the **act or omission** was not reasonable in the circumstances.
+      **(1)** A person who, or vessel that, is directed to take or refrain from taking measures under paragraph 180(1)(c) is not personally liable, either civilly or criminally, for anything they do or omit to do in the course of complying with the direction, unless it is established that the act or omission was not reasonable in the circumstances.
 
       **(1.1)** A person who provides assistance or advice in taking or refraining from taking any measure under section 180 is not personally liable, either civilly or criminally, for anything that they do or omit to do in the course of providing the assistance or advice, unless it is established that the act or omission was not reasonable in the circumstances.
 
@@ -16952,7 +16960,7 @@ An order or direction given under this Part by the Minister of Fisheries and Oce
 
   **(2)** Subsection 181(3) of the Act is replaced by the following:
 
-    **(3)** Nothing in subsection (1) affects the liability of the owner of a vessel, or of the vessel, that had discharged, was discharging or **may have discharged** a pollutant in respect of
+    **(3)** Nothing in subsection (1) affects the liability of the owner of a vessel, or of the vessel, that had discharged, was discharging or may have discharged a pollutant in respect of
 
       the occurrence that resulted in the taking of the measures referred to in subsection 180(1); and
 
@@ -16974,13 +16982,13 @@ a pollution response officer.
 
 The definition **oil pollution incident** in section 185 of the Act is replaced by the following:
 
-**oil pollution incident** means an occurrence, or a series of occurrences having the same origin, that results or **may** result in a discharge of oil. (**événement de pollution par les hydrocarbures**)
+**oil pollution incident** means an occurrence, or a series of occurrences having the same origin, that results or may result in a discharge of oil. (**événement de pollution par les hydrocarbures**)
 
 ### Section 707
 
 Paragraph 190(1)(m) of the English version of the Act is replaced by the following:
 
-respecting **the** inspection and testing of vessels, or classes of vessels, and their machinery, equipment and supplies.
+respecting the inspection and testing of vessels, or classes of vessels, and their machinery, equipment and supplies.
 
 ### Section 708
 
@@ -16988,13 +16996,13 @@ Section 243 of the Act is replaced by the following:
 
 ### Section 243
 
-If a violation arising out of the contravention of any provision of Part 4, **8 or 9** or the regulations made under **those Parts** is committed while an agreement or arrangement is in effect between the Minister and the authorized representative of a Canadian vessel that provides that inspections of the vessel to ensure compliance with that provision will be carried out by the authorized representative or a person or an organization acting on their behalf, the penalty or range of penalties fixed under paragraph 244(h) in respect of the violation is doubled.
+If a violation arising out of the contravention of any provision of Part 4, 8 or 9 or the regulations made under those Parts is committed while an agreement or arrangement is in effect between the Minister and the authorized representative of a Canadian vessel that provides that inspections of the vessel to ensure compliance with that provision will be carried out by the authorized representative or a person or an organization acting on their behalf, the penalty or range of penalties fixed under paragraph 244(h) in respect of the violation is doubled.
 
 ### Section 709
 
 Paragraph 244(h) of the Act is replaced by the following:
 
-designating violations that may be proceeded with by issuing notices of violation and fixing a penalty or a range of penalties in respect of each such violation, up to a maximum of **$250,000** but in any event not greater than the maximum fine if the violation were proceeded with by way of summary conviction;
+designating violations that may be proceeded with by issuing notices of violation and fixing a penalty or a range of penalties in respect of each such violation, up to a maximum of $250,000 but in any event not greater than the maximum fine if the violation were proceeded with by way of summary conviction;
 
 ### Section 710
 
@@ -17002,7 +17010,7 @@ Section 268.1 of the Act is replaced by the following:
 
 ### Section 268.1
 
-Subsections 11(5) and 12(5), section 45, subsection 154(3), **paragraph 181.1(a)** and **subsection** 195(3) do not, by reason of section 10 of the `Crown Liability and Proceedings Act`, relieve the Crown of liability in respect of a tort or extracontractual civil liability to which the Crown would otherwise be subject.
+Subsections 11(5) and 12(5), section 45, subsection 154(3), paragraph 181.1(a) and subsection 195(3) do not, by reason of section 10 of the `Crown Liability and Proceedings Act`, relieve the Crown of liability in respect of a tort or extracontractual civil liability to which the Crown would otherwise be subject.
 
 
 #### Transitional Provision
@@ -17056,7 +17064,7 @@ Section 71 of the Act is renumbered as subsection 71(1) and is amended by adding
 
   **(1)** The portion of paragraph 77(1)(c) of the Act before subparagraph (i) is replaced by the following:
 
-    **in relation to pollutants**, for the costs and expenses incurred by
+    in relation to pollutants, for the costs and expenses incurred by
 
   **(2)** Section 77 of the Act is amended by adding the following after subsection (1):
 
@@ -17076,13 +17084,13 @@ Subsection 91(1) of the Act is amended by adding the following in alphabetical o
 
   **(1)** Paragraph 92(2)(a) of the Act is replaced by the following:
 
-    all payments received under sections **114.1** and **114.2 and amounts recovered under section** 115;
+    all payments received under sections 114.1 and 114.2 and amounts recovered under section 115;
 
   **(2)** Subsection 92(2) of the Act is amended by striking out "and" at the end of paragraph (b) and by replacing paragraph (c) with the following:
 
     the amount of every sum credited to that Fund under section 93.1 or subsection 111(1) or 111.1(1), (2) or (3);
 
-    any amounts recovered by the Administrator under paragraph 106(3)(c) **or 106.3(5)(b)**;
+    any amounts recovered by the Administrator under paragraph 106(3)(c) or 106.3(5)(b);
 
     any amounts received by the Administrator further to the notice given under subsection 106.4(3) or paragraph 106.6(1)(b) or recovered under section 106.7; and
 
@@ -17092,11 +17100,11 @@ Subsection 91(1) of the Act is amended by adding the following in alphabetical o
 
     an amount equal to every amount required to repay, in accordance with any terms and conditions specified by the Minister of Finance, an amount charged to the Consolidated Revenue Fund under section 93.1;
 
-    all amounts that are directed to be paid under paragraph 106(3)(a), **subsection 106.3(4), paragraph** 108(1)(a), subsection 108(6) or section 117 or under a settlement;
+    all amounts that are directed to be paid under paragraph 106(3)(a), subsection 106.3(4), paragraph 108(1)(a), subsection 108(6) or section 117 or under a settlement;
 
     all amounts that are charged to the Ship-source Oil Pollution Fund under subsection 110(1) or (2);
 
-    all amounts for which the Administrator is liable under subsection **117.2(4)**;
+    all amounts for which the Administrator is liable under subsection 117.2(4);
 
   **(4)** Paragraph 92(3)(d) of the Act is replaced by the following:
 
@@ -17104,7 +17112,7 @@ Subsection 91(1) of the Act is amended by adding the following in alphabetical o
 
   **(5)** Paragraph 92(3)(f) of the English version of the Act is replaced by the following:
 
-    the amount of any judgment and any costs awarded against **the Ship-source Oil Pollution** Fund in litigation.
+    the amount of any judgment and any costs awarded against the Ship-source Oil Pollution Fund in litigation.
 
 ### Section 718
 
@@ -17120,19 +17128,19 @@ Sections 97 and 98 of the Act are replaced by the following:
 
 ### Section 97
 
-  **(1)** The Administrator or Deputy Administrator shall not accept or hold any office or employment, **or carry on any activity, that is** inconsistent with his or her **powers**, duties and functions under this Part.
+  **(1)** The Administrator or Deputy Administrator shall not accept or hold any office or employment, or carry on any activity, that is inconsistent with his or her powers, duties and functions under this Part.
 
-  **(2)** If the Administrator or Deputy Administrator contravenes subsection (1), his or her appointment is terminated on a date fixed by the Governor in Council that is not later than 30 days after **the day on which the** notice of the contravention is received by the Minister, but the contravention does not affect the validity of any act performed by the Administrator or Deputy Administrator, as the case may be, **under this Part** between the date of the contravention and the date that the appointment is terminated.
+  **(2)** If the Administrator or Deputy Administrator contravenes subsection (1), his or her appointment is terminated on a date fixed by the Governor in Council that is not later than 30 days after the day on which the notice of the contravention is received by the Minister, but the contravention does not affect the validity of any act performed by the Administrator or Deputy Administrator, as the case may be, under this Part between the date of the contravention and the date that the appointment is terminated.
 
 ### Section 98
 
-  **(1)** The Administrator and the Deputy Administrator **are** to be paid, **for the exercise of their powers and the performance** of their duties and functions, **the remuneration fixed by the Governor in Council**.
+  **(1)** The Administrator and the Deputy Administrator are to be paid, for the exercise of their powers and the performance of their duties and functions, the remuneration fixed by the Governor in Council.
 
   **(1.1)** The Administrator and the Deputy Administrator are to be paid, in accordance with Treasury Board directives, reasonable travel, living and other expenses incurred in exercising their powers or performing their duties and functions under this Part while absent from their ordinary place of work.
 
-  ****(1.2)**** On the direction of the Minister of Finance, **the remuneration** and expenses **referred to in subsections (1) and (1.1) and all other costs and expenses incurred by** the Administrator **and the** Deputy Administrator in **exercising their powers and** performing their duties and functions under this Part **are to be paid** out of the Consolidated Revenue Fund and charged to the Ship-source Oil Pollution Fund **as provided for by paragraph 92(3)(d)**.
+  **(1.2)** On the direction of the Minister of Finance, the remuneration and expenses referred to in subsections (1) and (1.1) and all other costs and expenses incurred by the Administrator and the Deputy Administrator in exercising their powers and performing their duties and functions under this Part are to be paid out of the Consolidated Revenue Fund and charged to the Ship-source Oil Pollution Fund as provided for by paragraph 92(3)(d).
 
-  **(2)** The Admiralty Court's assessment officers may, at the Minister of **Justice's** request, tax any account for costs and expenses, **other than expenses referred to in subsection (1.1), incurred** by the Administrator **and the** Deputy Administrator **in exercising their powers or performing their duties and functions** as if **they** were acting for **Her Majesty** in proceedings in that Court.
+  **(2)** The Admiralty Court's assessment officers may, at the Minister of Justice's request, tax any account for costs and expenses, other than expenses referred to in subsection (1.1), incurred by the Administrator and the Deputy Administrator in exercising their powers or performing their duties and functions as if they were acting for Her Majesty in proceedings in that Court.
 
 ### Section 720
 
@@ -17147,7 +17155,7 @@ The Act is amended by adding the following before section 101:
 
 ### Section 101
 
-      **(1)** Subject to the other provisions of this Part, the Ship-source Oil Pollution Fund is liable in relation to oil for the matters referred to in sections 51, 71 and 77, Article III of the Civil Liability Convention and Article 3 of the Bunkers Convention **in respect of any kind of loss, damage, costs or expenses — including economic loss caused by oil pollution suffered by persons whose property has not been polluted** — if
+      **(1)** Subject to the other provisions of this Part, the Ship-source Oil Pollution Fund is liable in relation to oil for the matters referred to in sections 51, 71 and 77, Article III of the Civil Liability Convention and Article 3 of the Bunkers Convention in respect of any kind of loss, damage, costs or expenses — including economic loss caused by oil pollution suffered by persons whose property has not been polluted — if
 
   **(2)** Section 101 of the Act is amended by adding the following after subsection (1):
 
@@ -17157,11 +17165,11 @@ The Act is amended by adding the following before section 101:
 
   **(1)** Paragraph 102(1)(a) of the Act is replaced by the following:
 
-    the Administrator may, either before or after receiving a claim under section 103 **or 106.1**, commence an action in rem against the ship that is the subject of the claim, or against any proceeds of sale of the ship that have been paid into court; and
+    the Administrator may, either before or after receiving a claim under section 103 or 106.1, commence an action in rem against the ship that is the subject of the claim, or against any proceeds of sale of the ship that have been paid into court; and
 
   **(2)** Subsection 102(2) of the Act is replaced by the following:
 
-    **(2)** The Administrator may continue the action only if he or she has become subrogated to the rights of the claimant under paragraph 106(3)(c) **or 106.3(5)(b)**.
+    **(2)** The Administrator may continue the action only if he or she has become subrogated to the rights of the claimant under paragraph 106(3)(c) or 106.3(5)(b).
 
 ### Section 723
 
@@ -17169,25 +17177,25 @@ The Act is amended by adding the following before section 101:
 
 ### Section 103
 
-      **(1)** In addition to any right against the Ship-source Oil Pollution Fund under section 101, a person may file a claim with the Administrator for the loss, damage, costs or expenses **if the person** has suffered loss or damage, or incurred costs or expenses, referred to in section 51, 71 or 77, Article III of the Civil Liability Convention or Article 3 of the Bunkers Convention in respect of **any kind of loss, damage, costs or expenses arising out of** actual or anticipated oil pollution damage, **including economic loss caused by oil pollution suffered by persons whose property has not been polluted**.
+      **(1)** In addition to any right against the Ship-source Oil Pollution Fund under section 101, a person may file a claim with the Administrator for the loss, damage, costs or expenses if the person has suffered loss or damage, or incurred costs or expenses, referred to in section 51, 71 or 77, Article III of the Civil Liability Convention or Article 3 of the Bunkers Convention in respect of any kind of loss, damage, costs or expenses arising out of actual or anticipated oil pollution damage, including economic loss caused by oil pollution suffered by persons whose property has not been polluted.
 
       **(1.1)** In addition to any right against the Ship-source Oil Pollution Fund under subsection 101(1.1), if the Minister of Fisheries and Oceans or any other person has suffered loss or damage, or incurred costs or expenses, referred to in that subsection, that Minister or that person may file a claim with the Administrator for the loss, damage, costs or expenses.
 
   **(2)** The portion of subsection 103(2) of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** **The** claim must be made
+    **(2)** The claim must be made
 
   **(3)** Subsection 103(3) of the Act is replaced by the following:
 
     **(2.1)** For the purposes of subsection (2), if an incident as a result of which oil pollution damage occurs or in respect of which oil pollution damage is anticipated consists of a series of occurrences, the period of five years referred to in that subsection begins on the day of the first occurrence in that series.
 
-    **(3)** **Subsections** (1) **and (1.1) do** not apply to a response organization referred to in paragraph 51**(1)**(a), 71**(1)**(a) or 77(1)(b) or **to** a person in a state other than Canada.
+    **(3)** Subsections (1) and (1.1) do not apply to a response organization referred to in paragraph 51(1)(a), 71(1)(a) or 77(1)(b) or to a person in a state other than Canada.
 
 ### Section 724
 
 Paragraph 105(3)(a) of the Act is replaced by the following:
 
-whether it is for loss, damage, costs or expenses referred to in subsection 103(1) **or (1.1), as the case may be**; and
+whether it is for loss, damage, costs or expenses referred to in subsection 103(1) or (1.1), as the case may be; and
 
 ### Section 725
 
@@ -17320,7 +17328,7 @@ In sections 106.1 to 106.6, **incident** and **occurrence** have the meaning ass
 
   **(1)** The portion of subsection 107(3) of the Act before paragraph (a) is replaced by the following:
 
-    **(3)** Subject to this section, a claimant who suffers or will suffer a loss of income, or in the case of an individual described in paragraph (2)(d), a loss of a source of food or animal skins, resulting from a discharge of oil from a ship that is not recoverable under Part 6 **or any other provision of this Part** may file a claim with the Administrator for that loss or future loss
+    **(3)** Subject to this section, a claimant who suffers or will suffer a loss of income, or in the case of an individual described in paragraph (2)(d), a loss of a source of food or animal skins, resulting from a discharge of oil from a ship that is not recoverable under Part 6 or any other provision of this Part may file a claim with the Administrator for that loss or future loss
 
   **(2)** Subsection 107(6) of the Act is repealed.
 
@@ -17385,9 +17393,9 @@ Section 112 of the Act is replaced by the following:
 
 ### Section 112
 
-**The definitions** in this section **apply** in sections **113, 114.1, 117.1** and **117.3**.
+The definitions in this section apply in sections 113, 114.1, 117.1 and 117.3.
 
-****contributing** oil** **has the same meaning** as in paragraph 3 of Article 1 of the Fund Convention. (**hydrocarbures donnant lieu à contribution**)
+**contributing oil** has the same meaning as in paragraph 3 of Article 1 of the Fund Convention. (**hydrocarbures donnant lieu à contribution**)
 
 **non-persistent oil** means the oils that are referred to in paragraph 1(a)(ii) of Article 19 of the Hazardous and Noxious Substances Convention. (**hydrocarbures non persistants**)
 
@@ -17397,11 +17405,11 @@ Section 112 of the Act is replaced by the following:
 
 ### Section 113
 
-      **(1)** The levy is **52.38** cents in the year ending on March 31, **2019 in respect of each metric ton of contributing oil or non-persistent oil received or exported, as the case may be, in bulk as cargo**.
+      **(1)** The levy is 52.38 cents in the year ending on March 31, 2019 in respect of each metric ton of contributing oil or non-persistent oil received or exported, as the case may be, in bulk as cargo.
 
   **(2)** Subsection 113(4) of the Act is replaced by the following:
 
-    **(4)** The Minister shall cause the levy referred to in subsection **(1)** to be published in the `Canada Gazette` each year as soon as it is adjusted in accordance with this section, and the levy so published is admissible in any proceeding under this **Act** as conclusive proof of the levy for the year in question.
+    **(4)** The Minister shall cause the levy referred to in subsection (1) to be published in the `Canada Gazette` each year as soon as it is adjusted in accordance with this section, and the levy so published is admissible in any proceeding under this Act as conclusive proof of the levy for the year in question.
 
 ### Section 730
 
@@ -17409,7 +17417,7 @@ Subsection 114(1) of the Act is replaced by the following:
 
 ### Section 114
 
-  **(1)** The Minister, after consultation with the Minister of Fisheries and Oceans, may, by order, impose, discontinue or re-impose the levy referred to in **section 113, indefinitely or until a time specified in the order**.
+  **(1)** The Minister, after consultation with the Minister of Fisheries and Oceans, may, by order, impose, discontinue or re-impose the levy referred to in section 113, indefinitely or until a time specified in the order.
 
   **(1.1)** An order imposing or re-imposing the levy shall set out
 
@@ -17605,11 +17613,11 @@ Subsections 117(1.1) to (7) of the Act are repealed.
 
 ### Section 118
 
-      **(1)** Every person **who is required to file information returns** under subsection **117.1(1)** shall keep at their place of business in Canada, or at any other place in Canada that **is** designated by the Minister, **in relation to the oil that they are required to file information returns in respect of**, records that
+      **(1)** Every person who is required to file information returns under subsection 117.1(1) shall keep at their place of business in Canada, or at any other place in Canada that is designated by the Minister, in relation to the oil that they are required to file information returns in respect of, records that
 
-        set out the type and quantity of the oil **received or exported, as the case may be**; and
+        set out the type and quantity of the oil received or exported, as the case may be; and
 
-        **contain** any other information **or documents** that the Minister **directs them** to **provide under section 118.1**.
+        contain any other information or documents that the Minister directs them to provide under section 118.1.
 
       **(1.1)** Every person referred to in subsection (1) who is required to pay an amount under section 114.1 or 114.2 shall keep at their place of business in Canada, or at any other place in Canada that is designated by the Minister, records and books of account that set out, in addition to the information referred to in subsection (1),
 
@@ -17617,7 +17625,7 @@ Subsections 117(1.1) to (7) of the Act are repealed.
 
         proof of payment for each payment made with respect to an amount referred to in paragraph (a), including the date of each payment made.
 
-      **(2)** Every person who is required by this section to keep records **or** books of account shall, unless otherwise authorized by the Minister, retain those records **or** books of account, and every account or voucher necessary to verify the information contained in them, until the expiry of six years after the end of the year to which the records or books of account relate.
+      **(2)** Every person who is required by this section to keep records or books of account shall, unless otherwise authorized by the Minister, retain those records or books of account, and every account or voucher necessary to verify the information contained in them, until the expiry of six years after the end of the year to which the records or books of account relate.
 
   **(2)** The portion of subsection 118(1) of the Act before paragraph (a) is replaced by the following:
 
@@ -17627,7 +17635,7 @@ Subsections 117(1.1) to (7) of the Act are repealed.
 
   **(3)** Subsection 118(3) of the English version of the Act is replaced by the following:
 
-    **(3)** Every person who is required by this section to keep records **or** books of account shall, at all reasonable times, make the records **or** books of account, and every account or voucher necessary to verify the information contained in them, available to any person designated in writing by the Minister and give that person every facility necessary to examine them.
+    **(3)** Every person who is required by this section to keep records or books of account shall, at all reasonable times, make the records or books of account, and every account or voucher necessary to verify the information contained in them, available to any person designated in writing by the Minister and give that person every facility necessary to examine them.
 
 ### Section 736
 
@@ -17643,25 +17651,25 @@ The portion of subsection 119(1) of the Act before paragraph (a) is replaced by 
 
 ### Section 119
 
-  **(1)** Any person **so** designated in writing by the Minister may, at any reasonable time, enter any place **in which** the person **has** reasonable grounds **to believe** that there are any records, books of account, accounts, vouchers or other documents **referred to in** section **118** and
+  **(1)** Any person so designated in writing by the Minister may, at any reasonable time, enter any place in which the person has reasonable grounds to believe that there are any records, books of account, accounts, vouchers or other documents referred to in section 118 and
 
 ### Section 738
 
   **(1)** Paragraphs 120(1)(a) and (b) of the Act are replaced by the following:
 
-    records and books of account to be kept in relation to **the Ship-source Oil Pollution Fund**; and
+    records and books of account to be kept in relation to the Ship-source Oil Pollution Fund; and
 
-    control and information systems and management practices, **in respect of** financial and management matters, to be maintained **in relation to the Ship-source Oil Pollution Fund**.
+    control and information systems and management practices, in respect of financial and management matters, to be maintained in relation to the Ship-source Oil Pollution Fund.
 
   **(2)** Subsection 120(2) of the Act is replaced by the following:
 
-    **(2)** **The Administrator** shall **cause** the books, records, systems and practices **to** be kept or maintained, as the case may be, in a manner that provides reasonable assurance that
+    **(2)** The Administrator shall cause the books, records, systems and practices to be kept or maintained, as the case may be, in a manner that provides reasonable assurance that
 
-      **the Administrator's and Deputy Administrator's powers, duties and functions under this Part are exercised and performed** effectively and in accordance with this Part;
+      the Administrator's and Deputy Administrator's powers, duties and functions under this Part are exercised and performed effectively and in accordance with this Part;
 
-      the assets **used by them** are safeguarded and controlled; and
+      the assets used by them are safeguarded and controlled; and
 
-      the financial, human and physical resources **used by them** are managed economically and efficiently.
+      the financial, human and physical resources used by them are managed economically and efficiently.
 
 ### Section 739
 
@@ -17669,21 +17677,21 @@ The portion of subsection 119(1) of the Act before paragraph (a) is replaced by 
 
 ### Section 121
 
-      **(1)** The Administrator shall as soon as feasible, but in any case within three months after the end of each fiscal year, submit an annual report, in any form that the Minister **directs**, on the Administrator's **activities** in that year to the Minister, who shall cause a copy of the report to be laid before each House of Parliament on any of the first 15 days on which that House is sitting after he or she receives it.
+      **(1)** The Administrator shall as soon as feasible, but in any case within three months after the end of each fiscal year, submit an annual report, in any form that the Minister directs, on the Administrator's activities in that year to the Minister, who shall cause a copy of the report to be laid before each House of Parliament on any of the first 15 days on which that House is sitting after he or she receives it.
 
   **(2)** Paragraphs 121(2)(a) and (b) of the Act are replaced by the following:
 
-    **a statement of** the **amounts charged and credited to** the Ship-source Oil Pollution Fund **during the fiscal year**;
+    a statement of the amounts charged and credited to the Ship-source Oil Pollution Fund during the fiscal year;
 
     a statement of the costs and expenses incurred during the fiscal year by the Administrator and the Deputy Administrator in exercising their powers and performing their duties and functions under this Part;
 
     a statement of the fees for services rendered by the Administrator and the Deputy Administrator during the fiscal year;
 
-    the auditor's report with respect to the statements **referred to in paragraphs (a) to (a.2)**; and
+    the auditor's report with respect to the statements referred to in paragraphs (a) to (a.2); and
 
   **(3)** Paragraph 121(2)(c) of the French version of the Act is replaced by the following:
 
-    les **frais** de préparation du rapport du vérificateur.
+    les frais de préparation du rapport du vérificateur.
 
 ### Section 740
 
@@ -17691,17 +17699,17 @@ The portion of subsection 119(1) of the Act before paragraph (a) is replaced by 
 
 ### Section 122
 
-      **(1)** The Administrator shall cause a special examination to be carried out in respect of the Ship-source Oil Pollution Fund to determine if the Fund's systems and practices referred to in paragraph 120(1)(b) were, in the period under examination, maintained in a manner that provided reasonable assurance that they met the requirements of paragraphs 120(2)(**b**) and (c).
+      **(1)** The Administrator shall cause a special examination to be carried out in respect of the Ship-source Oil Pollution Fund to determine if the Fund's systems and practices referred to in paragraph 120(1)(b) were, in the period under examination, maintained in a manner that provided reasonable assurance that they met the requirements of paragraphs 120(2)(b) and (c).
 
   **(2)** Subsection 122(2) of the French version of the Act is replaced by the following:
 
-    **(2)** Les examens spéciaux par l'administrateur sont au moins quinquennaux; des examens spéciaux complémentaires **ont** lieu à la demande du gouverneur en conseil ou du ministre.
+    **(2)** Les examens spéciaux par l'administrateur sont au moins quinquennaux; des examens spéciaux complémentaires ont lieu à la demande du gouverneur en conseil ou du ministre.
 
   **(3)** Subsections 122(3) and (4) of the Act are replaced by the following:
 
-    **(3)** The Administrator shall appoint a person to act as examiner for the purpose of conducting a special examination. **However, if a special examination is required by the** Governor in Council or **the** Minister, **the Governor in Council or the Minister, as the case may be, shall make the appointment.**
+    **(3)** The Administrator shall appoint a person to act as examiner for the purpose of conducting a special examination. However, if a special examination is required by the Governor in Council or the Minister, the Governor in Council or the Minister, as the case may be, shall make the appointment.
 
-    **(4)** The examiner shall not accept or hold any office or employment, **or carry on any activity, that is** inconsistent with their **duties and** functions under this section and section 123.
+    **(4)** The examiner shall not accept or hold any office or employment, or carry on any activity, that is inconsistent with their duties and functions under this section and section 123.
 
 ### Section 741
 
@@ -17709,7 +17717,7 @@ Subsection 123(1) of the Act is replaced by the following:
 
 ### Section 123
 
-  **(1)** On the conclusion of the special examination, an examiner shall provide a **written** report of their findings to the Minister and the Administrator.
+  **(1)** On the conclusion of the special examination, an examiner shall provide a written report of their findings to the Minister and the Administrator.
 
 ### Section 742
 
@@ -17717,19 +17725,19 @@ Subsection 123(1) of the Act is replaced by the following:
 
 ### Section 124
 
-      **(1)** If the examiner considers it necessary to enable them to prepare a report as required by this Part, they may **direct** that present or former Administrators, Deputy Administrators, employees **or** agents or mandataries of the Ship-source Oil Pollution Fund provide the examiner with the following to the extent they are reasonably able to do so:
+      **(1)** If the examiner considers it necessary to enable them to prepare a report as required by this Part, they may direct that present or former Administrators, Deputy Administrators, employees or agents or mandataries of the Ship-source Oil Pollution Fund provide the examiner with the following to the extent they are reasonably able to do so:
 
         information and explanations; and
 
-        access to **any** records, books of account, accounts, vouchers and other documents **related to the Fund**.
+        access to any records, books of account, accounts, vouchers and other documents related to the Fund.
 
   **(2)** The portion of subsection 124(2) of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** On **receiving** the examiner's **direction**, the Administrator shall
+    **(2)** On receiving the examiner's direction, the Administrator shall
 
   **(3)** Paragraph 124(2)(b) of the Act is replaced by the following:
 
-    obtain from **any** former Administrator or the present or **any** former Deputy Administrator, employees **or** agents or mandataries of that Fund any information and explanations that the examiner considers necessary to enable the examiner to prepare any report that is required by this Part and that the former Administrator or the present or former Deputy Administrator, employees **or** agents or mandataries are reasonably able to provide and provide the examiner with the information and explanations so obtained.
+    obtain from any former Administrator or the present or any former Deputy Administrator, employees or agents or mandataries of that Fund any information and explanations that the examiner considers necessary to enable the examiner to prepare any report that is required by this Part and that the former Administrator or the present or former Deputy Administrator, employees or agents or mandataries are reasonably able to provide and provide the examiner with the information and explanations so obtained.
 
 ### Section 743
 
@@ -18019,21 +18027,21 @@ Subsection 123(1) of the Act is replaced by the following:
 
 ### Section 131
 
-    Every person or ship that contravenes subsection 55(1) or (2), 73(1) or (2), 128(2) or 129(6) or (7) or regulations made under section 39 is guilty of an offence and liable on summary conviction to a fine not exceeding $**250,000**.
+    Every person or ship that contravenes subsection 55(1) or (2), 73(1) or (2), 128(2) or 129(6) or (7) or regulations made under section 39 is guilty of an offence and liable on summary conviction to a fine not exceeding $250,000.
 
 ### Section 132
 
-      **(1)** **Every** person who **contravenes paragraph 114.1(2)(a) or (b) or subsection 114.2(1)** is guilty of an offence and liable on summary conviction to a fine not exceeding $**250,000**.
+      **(1)** Every person who contravenes paragraph 114.1(2)(a) or (b) or subsection 114.2(1) is guilty of an offence and liable on summary conviction to a fine not exceeding $250,000.
 
       **(2)** Every receiver who files an information return under subsection 74.4(2) that contains a material statement that they know or ought reasonably to know is false or misleading is guilty of an offence and liable on summary conviction to a fine not exceeding $250,000.
 
-      **(3)** **Every** person who knowingly destroys, mutilates or falsifies, or who knowingly makes any false **or misleading** entry or statement in, any record or book of account required to be kept under **subsection** 118**(1) or (1.1)** is guilty of an offence and liable on summary conviction to a fine not exceeding $**250,000**.
+      **(3)** Every person who knowingly destroys, mutilates or falsifies, or who knowingly makes any false or misleading entry or statement in, any record or book of account required to be kept under subsection 118(1) or (1.1) is guilty of an offence and liable on summary conviction to a fine not exceeding $250,000.
 
       **(3.1)** Every person who knowingly omits a material entry or statement from any record or book of account required to be kept under subsection 118(1) or (1.1) is guilty of an offence and liable on summary conviction to a fine not exceeding $250,000.
 
-      **(4)** Every person who contravenes subsection 74.4(7) or **117.3(2)**, section 118 or subsection 119(9) is guilty of an offence and liable on summary conviction to a fine not exceeding $**250,000**.
+      **(4)** Every person who contravenes subsection 74.4(7) or 117.3(2), section 118 or subsection 119(9) is guilty of an offence and liable on summary conviction to a fine not exceeding $250,000.
 
-      **(4.1)** **Every receiver** who **contravenes** subsection 74.4(2) is guilty of an offence and liable on summary conviction to a fine not exceeding $**250,000**.
+      **(4.1)** Every receiver who contravenes subsection 74.4(2) is guilty of an offence and liable on summary conviction to a fine not exceeding $250,000.
 
       **(5)** Every person who files a claim under subsection 106.1(1) that includes information that they know or ought reasonably to know is false or misleading is guilty of an offence and liable on summary conviction to a fine not exceeding $250,000.
 
