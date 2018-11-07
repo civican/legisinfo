@@ -10,5 +10,5 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 Subsection 721(3) of the `Criminal Code` is amended by adding the following after paragraph (a):
 
-any **aspect of** the offender's mental **condition that is relevant for sentencing purposes,** as well as any mental health **services or support** available to **the offender**;
+any aspect of the offender's mental condition that is relevant for sentencing purposes, as well as any mental health services or support available to the offender;
 
