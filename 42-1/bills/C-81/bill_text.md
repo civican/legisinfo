@@ -1,7 +1,5 @@
 # Bill C-81: An Act to ensure a barrier-free Canada
 
-**Sponsor**: MINISTER OF SPORT AND PERSONS WITH DISABILITIES
-
 Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act to ensure a barrier-free Canada*".
 
 ## Summary
@@ -613,9 +611,9 @@ Whereas a proactive and systemic approach for identifying, removing and preventi
 
 Whereas Canada is a State Party to the United Nations Convention on the Rights of Persons with Disabilities and Canada has agreed to take appropriate measures respecting accessibility and to develop and monitor minimum accessibility standards;
 
-Whereas barriers to accessibility can impact all **persons in Canada**, in particular those with disabilities and their families, and can prevent persons with disabilities from achieving their full and equal participation in society;
+Whereas barriers to accessibility can impact all persons in Canada, in particular those with disabilities and their families, and can prevent persons with disabilities from achieving their full and equal participation in society;
 
-And whereas Parliament considers that it is essential to ensure the economic, social and civic participation of all **persons in Canada**, regardless of their disabilities, and to allow them to fully exercise their rights and responsibilities in a barrier-free Canada;
+And whereas Parliament considers that it is essential to ensure the economic, social and civic participation of all persons in Canada, regardless of their disabilities, and to allow them to fully exercise their rights and responsibilities in a barrier-free Canada;
 
 Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
@@ -635,13 +633,13 @@ The following definitions apply in this Act.
 
 **Accessibility Commissioner** means the member of the Canadian Human Rights Commission that is appointed under subsection 26(1) of the `Canadian Human Rights Act` and that is referred to in that Act as the "Accessibility Commissioner". (**commissaire à l'accessibilité**)
 
-**barrier** means anything — including anything physical, architectural, technological or attitudinal, anything that is based on information or communications or anything that is the result of a policy or a practice — that hinders the full and equal participation in society of persons with **an impairment, including** a physical, mental, intellectual, **cognitive**, learning, communication or sensory impairment or a functional limitation. (**obstacle**)
+**barrier** means anything — including anything physical, architectural, technological or attitudinal, anything that is based on information or communications or anything that is the result of a policy or a practice — that hinders the full and equal participation in society of persons with an impairment, including a physical, mental, intellectual, cognitive, learning, communication or sensory impairment or a functional limitation. (**obstacle**)
 
 **broadcasting undertaking** has the same meaning as in subsection 2(1) of the `Broadcasting Act`. (**entreprise de radiodiffusion**)
 
 **Canadian carrier** has the same meaning as in subsection 2(1) of the `Telecommunications Act`. (**entreprise canadienne**)
 
-**disability** means **any impairment, including** a physical, mental, intellectual, **cognitive**, learning, communication or sensory impairment — or a functional limitation — whether permanent, temporary or episodic in nature, **or evident or not**, that, in interaction with a barrier, hinders a person's full and equal participation in society. (**handicap**)
+**disability** means any impairment, including a physical, mental, intellectual, cognitive, learning, communication or sensory impairment — or a functional limitation — whether permanent, temporary or episodic in nature, or evident or not, that, in interaction with a barrier, hinders a person's full and equal participation in society. (**handicap**)
 
 **Minister** means the member of the Queen's Privy Council for Canada designated under section `4`. (**ministre**)
 
@@ -682,9 +680,9 @@ information and communication technologies;
 
 communication, other than information and communication technologies;
 
-the procurement of goods, services and **facilities**;
+the procurement of goods, services and facilities;
 
-the **design and** delivery of programs and services;
+the design and delivery of programs and services;
 
 transportation; and
 
@@ -779,7 +777,7 @@ Subject to the `Statistics Act`, the Minister may collect, analyse, interpret, p
 
 ### Section 16
 
-The Minister **must make every reasonable effort to collaborate** with provincial or territorial authorities with a view to coordinating efforts in relation to matters relating to accessibility.
+The Minister must make every reasonable effort to collaborate with provincial or territorial authorities with a view to coordinating efforts in relation to matters relating to accessibility.
 
 
 ## Canadian Accessibility Standards Development Organization
@@ -800,7 +798,7 @@ The Minister **must make every reasonable effort to collaborate** with provincia
 
 ### Section 18
 
-The Standards Organization's mandate is to contribute to the realization of a Canada without barriers **through**, among other things,
+The Standards Organization's mandate is to contribute to the realization of a Canada without barriers through, among other things,
 
 the development and revision of accessibility standards;
 
@@ -1036,7 +1034,7 @@ No action or other proceeding of a civil nature lies against the Accessibility C
 
   **(1)** A regulated entity that carries on a broadcasting undertaking must, before the expiry of one year after the day fixed or determined by regulations made under subsection `45`(1) that apply to that regulated entity, prepare and publish, in accordance with this Act and regulations made under that subsection, an accessibility plan respecting
 
-    its policies, programs, practices and services in relation to the identification and removal of barriers, and the prevention of new barriers, in the areas referred to in paragraphs 5(c), **(d) and** (e), **the area referred to in paragraph 5(c.1) as it relates to the areas referred to in paragraphs (d) and (e)** and, if it is not subject to the `Employment Equity Act`, employment equity;
+    its policies, programs, practices and services in relation to the identification and removal of barriers, and the prevention of new barriers, in the areas referred to in paragraphs 5(c), (d) and (e), the area referred to in paragraph 5(c.1) as it relates to the areas referred to in paragraphs (d) and (e) and, if it is not subject to the `Employment Equity Act`, employment equity;
 
     the conditions of the regulated entity's licence issued under Part II of the `Broadcasting Act` that relate to the identification and removal of barriers and the prevention of new barriers;
 
@@ -1122,9 +1120,9 @@ No action or other proceeding of a civil nature lies against the Accessibility C
 
 ### Section 46
 
-  **(1)** The Canadian Radio-television and Telecommunications Commission may, by order, exempt any regulated entity or class of regulated entities from the application of all or any part of sections `42` to `44`, on any terms that the Commission considers necessary. **The order ceases to have effect on the earlier of the end of the period of three years that begins on the day on which the order is made and the end of any shorter period specified in the order.**
+  **(1)** The Canadian Radio-television and Telecommunications Commission may, by order, exempt any regulated entity or class of regulated entities from the application of all or any part of sections `42` to `44`, on any terms that the Commission considers necessary. The order ceases to have effect on the earlier of the end of the period of three years that begins on the day on which the order is made and the end of any shorter period specified in the order.
 
-  **(2)** The `Statutory Instruments Act` does not apply to an order made under subsection (1) in respect of a regulated entity, but the order must be published in the `Canada Gazette` **and the reasons for the making of the order must be made available to the public**.
+  **(2)** The `Statutory Instruments Act` does not apply to an order made under subsection (1) in respect of a regulated entity, but the order must be published in the `Canada Gazette` and the reasons for the making of the order must be made available to the public.
 
 
 #### Accessibility Plans — Regulations Under This Act
@@ -1133,7 +1131,7 @@ No action or other proceeding of a civil nature lies against the Accessibility C
 
   **(1)** A regulated entity referred to in subsection `42`(1) must, before the expiry of one year after the day fixed or determined by regulations made under subsection `117`(1) that apply to that regulated entity, prepare and publish, in accordance with this Act and regulations made under subsection `117`(1), an accessibility plan respecting
 
-    its policies, programs, practices and services in relation to the identification and removal of barriers, and the prevention of new barriers, in the areas referred to in paragraphs 5(a), (b), (f) and (g) **and in the area referred to in paragraph 5(c.1) as that paragraph applies in respect of the areas referred to in those paragraphs**; and
+    its policies, programs, practices and services in relation to the identification and removal of barriers, and the prevention of new barriers, in the areas referred to in paragraphs 5(a), (b), (f) and (g) and in the area referred to in paragraph 5(c.1) as that paragraph applies in respect of the areas referred to in those paragraphs; and
 
     the provisions of regulations made under subsection `117`(1) that apply to it.
 
@@ -1192,11 +1190,11 @@ No action or other proceeding of a civil nature lies against the Accessibility C
 
 ### Section 50
 
-  **(1)** The Minister may, by order, exempt any regulated entity or class of regulated entities from the application of all or any part of sections `47` to `49`, on any terms that the Minister considers necessary. **The order ceases to have effect on the earlier of the end of the period of three years that begins on the day on which the order is made and the end of any shorter period specified in the order.**
+  **(1)** The Minister may, by order, exempt any regulated entity or class of regulated entities from the application of all or any part of sections `47` to `49`, on any terms that the Minister considers necessary. The order ceases to have effect on the earlier of the end of the period of three years that begins on the day on which the order is made and the end of any shorter period specified in the order.
 
   **(2)** The Minister must provide the Accessibility Commissioner with a copy of every order made under subsection (1).
 
-  **(3)** The `Statutory Instruments Act` does not apply to an order made under subsection (1) in respect of a regulated entity, but the order must be published in the `Canada Gazette` **and the reasons for the making of the order must be made available to the public**.
+  **(3)** The `Statutory Instruments Act` does not apply to an order made under subsection (1) in respect of a regulated entity, but the order must be published in the `Canada Gazette` and the reasons for the making of the order must be made available to the public.
 
 
 ### Regulated Entities That Are Canadian Carriers or Telecommunications Service Providers
@@ -1208,7 +1206,7 @@ No action or other proceeding of a civil nature lies against the Accessibility C
 
   **(1)** A regulated entity that is a Canadian carrier or a telecommunications service provider must, before the expiry of one year after the day fixed or determined by regulations made under subsection `54`(1) that apply to that regulated entity, prepare and publish, in accordance with this Act and regulations made under that subsection, an accessibility plan respecting
 
-    its policies, programs, practices and services in relation to the identification and removal of barriers, and the prevention of new barriers, in the areas referred to in paragraphs 5(c), **(d) and** (e) **and the area referred to in paragraph 5(c.1) as it relates to the areas referred to in paragraphs (d) and (e)**;
+    its policies, programs, practices and services in relation to the identification and removal of barriers, and the prevention of new barriers, in the areas referred to in paragraphs 5(c), (d) and (e) and the area referred to in paragraph 5(c.1) as it relates to the areas referred to in paragraphs (d) and (e);
 
     the conditions imposed under section 24 or 24.1 of the `Telecommunications Act` to which the regulated entity is subject that relate to the identification and removal of barriers and the prevention of new barriers; and
 
@@ -1292,9 +1290,9 @@ No action or other proceeding of a civil nature lies against the Accessibility C
 
 ### Section 55
 
-  **(1)** The Canadian Radio-television and Telecommunication Commission may, by order, exempt any regulated entity or class of regulated entities from the application of all or any part of sections `51` to `53`, on any terms that the Commission considers necessary. **The order ceases to have effect on the earlier of the end of the period of three years that begins on the day on which the order is made and the end of any shorter period specified in the order.**
+  **(1)** The Canadian Radio-television and Telecommunication Commission may, by order, exempt any regulated entity or class of regulated entities from the application of all or any part of sections `51` to `53`, on any terms that the Commission considers necessary. The order ceases to have effect on the earlier of the end of the period of three years that begins on the day on which the order is made and the end of any shorter period specified in the order.
 
-  **(2)** The `Statutory Instruments Act` does not apply to an order made under subsection (1) in respect of a regulated entity, but the order must be published in the `Canada Gazette` **and the reasons for the making of the order must be made available to the public**.
+  **(2)** The `Statutory Instruments Act` does not apply to an order made under subsection (1) in respect of a regulated entity, but the order must be published in the `Canada Gazette` and the reasons for the making of the order must be made available to the public.
 
 
 #### Accessibility Plans — Regulations Under This Act
@@ -1303,7 +1301,7 @@ No action or other proceeding of a civil nature lies against the Accessibility C
 
   **(1)** A regulated entity referred to in subsection `51`(1) must, before the expiry of one year after the day fixed or determined by regulations made under subsection `117`(1) that apply to that regulated entity, prepare and publish, in accordance with this Act and regulations made under subsection `117`(1), an accessibility plan respecting
 
-    its policies, programs, practices and services in relation to the identification and removal of barriers, and the prevention of new barriers, in the areas referred to in paragraphs 5(a), (b), (f) and (g) **and in the area referred to in paragraph 5(c.1) as it relates to the areas referred to in those paragraphs**; and
+    its policies, programs, practices and services in relation to the identification and removal of barriers, and the prevention of new barriers, in the areas referred to in paragraphs 5(a), (b), (f) and (g) and in the area referred to in paragraph 5(c.1) as it relates to the areas referred to in those paragraphs; and
 
     the provisions of regulations made under subsection `117`(1) that apply to it.
 
@@ -1362,11 +1360,11 @@ No action or other proceeding of a civil nature lies against the Accessibility C
 
 ### Section 59
 
-  **(1)** The Minister may, by order, exempt any regulated entity or class of regulated entities from the application of all or any part of sections `56` to `58`, on any terms that the Minister considers necessary. **The order ceases to have effect on the earlier of the end of the period of three years that begins on the day on which the order is made and the end of any shorter period specified in the order.**
+  **(1)** The Minister may, by order, exempt any regulated entity or class of regulated entities from the application of all or any part of sections `56` to `58`, on any terms that the Minister considers necessary. The order ceases to have effect on the earlier of the end of the period of three years that begins on the day on which the order is made and the end of any shorter period specified in the order.
 
   **(2)** The Minister must provide the Accessibility Commissioner with a copy of every order made under subsection (1).
 
-  **(3)** The `Statutory Instruments Act` does not apply to an order made under subsection (1) in respect of a regulated entity, but the order must be published in the `Canada Gazette` **and the reasons for the making of the order must be made available to the public**.
+  **(3)** The `Statutory Instruments Act` does not apply to an order made under subsection (1) in respect of a regulated entity, but the order must be published in the `Canada Gazette` and the reasons for the making of the order must be made available to the public.
 
 
 ### Regulated Entities in the Transportation Network
@@ -1380,9 +1378,9 @@ No action or other proceeding of a civil nature lies against the Accessibility C
 
     its policies, programs, practices and services in relation to the identification and removal of barriers, and the prevention of new barriers, in
 
-    the areas referred to in paragraphs 5(c) **and (d)** to (f),
+    the areas referred to in paragraphs 5(c) and (d) to (f),
 
-    the built environment, to the extent that the built environment is a passenger aircraft, passenger train, passenger bus, passenger vessel, aerodrome passenger terminal, railway passenger station, bus passenger station or marine passenger terminal, **and**
+    the built environment, to the extent that the built environment is a passenger aircraft, passenger train, passenger bus, passenger vessel, aerodrome passenger terminal, railway passenger station, bus passenger station or marine passenger terminal, and
 
     the area referred to in paragraph 5(c.1) as it relates to the areas referred to in paragraphs 5(c) and (d) to (f) and to the built environment referred to in subparagraph (ii); and
 
@@ -1451,7 +1449,7 @@ No action or other proceeding of a civil nature lies against the Accessibility C
 
     respecting the feedback process required by subsection 61(1);
 
-    specifying the **form and** manner in which **descriptions** of the feedback process required by subsection 61(1) **are** to be published;
+    specifying the form and manner in which descriptions of the feedback process required by subsection 61(1) are to be published;
 
     specifying the form in which progress reports required by subsection `62`(1) are to be prepared and the time and manner in which they are to be published; and
 
@@ -1466,9 +1464,9 @@ No action or other proceeding of a civil nature lies against the Accessibility C
 
 ### Section 64
 
-  **(1)** The Canadian Transportation Agency, with the approval of the Minister of Transport, may, by order, exempt any regulated entity or class of regulated entities from the application of all or any part of sections `60` to `62`, on any terms that the Agency considers necessary. **The order ceases to have effect on the earlier of the end of the period of three years that begins on the day on which the order is made and the end of any shorter period specified in the order.**
+  **(1)** The Canadian Transportation Agency, with the approval of the Minister of Transport, may, by order, exempt any regulated entity or class of regulated entities from the application of all or any part of sections `60` to `62`, on any terms that the Agency considers necessary. The order ceases to have effect on the earlier of the end of the period of three years that begins on the day on which the order is made and the end of any shorter period specified in the order.
 
-  **(2)** The `Statutory Instruments Act` does not apply to an order made under subsection (1) in respect of a regulated entity, but the order must be published in the `Canada Gazette` **and the reasons for the making of the order must be made available to the public**.
+  **(2)** The `Statutory Instruments Act` does not apply to an order made under subsection (1) in respect of a regulated entity, but the order must be published in the `Canada Gazette` and the reasons for the making of the order must be made available to the public.
 
 
 #### Accessibility Plans — Regulations Under This Act
@@ -1542,11 +1540,11 @@ No action or other proceeding of a civil nature lies against the Accessibility C
 
 ### Section 68
 
-  **(1)** The Minister may, by order, exempt any regulated entity or class of regulated entities from the application of all or any part of sections `65` to `67`, on any terms that the Minister considers necessary. **The order ceases to have effect on the earlier of the end of the period of three years that begins on the day on which the order is made and the end of any shorter period specified in the order.**
+  **(1)** The Minister may, by order, exempt any regulated entity or class of regulated entities from the application of all or any part of sections `65` to `67`, on any terms that the Minister considers necessary. The order ceases to have effect on the earlier of the end of the period of three years that begins on the day on which the order is made and the end of any shorter period specified in the order.
 
   **(2)** The Minister must provide the Accessibility Commissioner with a copy of every order made under subsection (1).
 
-  **(3)** The `Statutory Instruments Act` does not apply to an order made under subsection (1) in respect of a regulated entity, but the order must be published in the `Canada Gazette` **and the reasons for the making of the order must be made available to the public**.
+  **(3)** The `Statutory Instruments Act` does not apply to an order made under subsection (1) in respect of a regulated entity, but the order must be published in the `Canada Gazette` and the reasons for the making of the order must be made available to the public.
 
 
 ### Other Regulated Entities
@@ -1617,11 +1615,11 @@ No action or other proceeding of a civil nature lies against the Accessibility C
 
 ### Section 72
 
-  **(1)** The Minister may, by order, exempt any regulated entity or class of regulated entities from the application of all or any part of sections `69` to `71`, on any terms that the Minister considers necessary. **The order ceases to have effect on the earlier of the end of the per­iod of three years that begins on the day on which the order is made and the end of any shorter period specified in the order.**
+  **(1)** The Minister may, by order, exempt any regulated entity or class of regulated entities from the application of all or any part of sections `69` to `71`, on any terms that the Minister considers necessary. The order ceases to have effect on the earlier of the end of the per­iod of three years that begins on the day on which the order is made and the end of any shorter period specified in the order.
 
   **(2)** The Minister must provide the Accessibility Commissioner with a copy of every order made under subsection (1).
 
-  **(3)** The `Statutory Instruments Act` does not apply to an order made under subsection (1) in respect of a regulated entity, but the order must be published in the `Canada Gazette` **and the reasons for the making of the order must be made available to the public**.
+  **(3)** The `Statutory Instruments Act` does not apply to an order made under subsection (1) in respect of a regulated entity, but the order must be published in the `Canada Gazette` and the reasons for the making of the order must be made available to the public.
 
 
 ## Administration and Enforcement
@@ -1935,7 +1933,7 @@ the complaint is beyond the jurisdiction of the Accessibility Commissioner;
 
 the complaint is trivial, frivolous, vexatious or made in bad faith; or
 
-the complaint is based on acts or omissions the **complainant became aware** of more than one year, or any longer period of time that the Accessibility Commissioner considers appropriate in the circumstances, before the filing of the complaint.
+the complaint is based on acts or omissions the complainant became aware of more than one year, or any longer period of time that the Accessibility Commissioner considers appropriate in the circumstances, before the filing of the complaint.
 
 ### Section 96
 
@@ -2043,11 +2041,11 @@ The Accessibility Commissioner may attempt to resolve complaints by means of a d
 
 ### Section 104
 
-  **(1)** A complainant or regulated entity that is affected by a decision made under section `101` or an order made under subsection `102`(1) may appeal the decision or order to the Canadian Human Rights Tribunal, in writing, within 30 days after the day on which a copy of the order or notice of the decision is served **or any longer per­iod — that is not more than 60 days after that day — that the Canadian Human Rights Tribunal considers appropriate in the circumstances**.
+  **(1)** A complainant or regulated entity that is affected by a decision made under section `101` or an order made under subsection `102`(1) may appeal the decision or order to the Canadian Human Rights Tribunal, in writing, within 30 days after the day on which a copy of the order or notice of the decision is served or any longer per­iod — that is not more than 60 days after that day — that the Canadian Human Rights Tribunal considers appropriate in the circumstances.
 
   **(1.1)** The appeal lies on any ground of appeal that involves a question of law or fact alone, or a question of mixed law and fact, including a principle of natural justice.
 
-  **(2)** The request for appeal must contain a statement of the grounds of appeal **and set out the evidence that supports those grounds**.
+  **(2)** The request for appeal must contain a statement of the grounds of appeal and set out the evidence that supports those grounds.
 
 ### Section 105
 
@@ -2057,7 +2055,7 @@ The Accessibility Commissioner may attempt to resolve complaints by means of a d
 
 ### Section 106
 
-  **(1)** The member or panel of members of the Canadian Human Rights Tribunal assigned to hear the appeal may, by order, confirm, vary, **give the decision that the Accessibility Commissioner should have given** or rescind the decision or order to which the appeal relates **or refer the complaint back to the Accessibility Commissioner for reconsideration in accordance with any direction the Canadian Human Rights Tribunal may give**.
+  **(1)** The member or panel of members of the Canadian Human Rights Tribunal assigned to hear the appeal may, by order, confirm, vary, give the decision that the Accessibility Commissioner should have given or rescind the decision or order to which the appeal relates or refer the complaint back to the Accessibility Commissioner for reconsideration in accordance with any direction the Canadian Human Rights Tribunal may give.
 
   **(1.1)** An appeal shall be on the merits based on the record of the proceedings before the Accessibility Commissioner, but the member or panel of members of the Canadian Human Rights Tribunal shall allow arguments and, if he, she or it considers it necessary for the purposes of the appeal, shall hear evidence not previously available.
 
@@ -2120,7 +2118,7 @@ For the purpose of the administration of Part III of the `Canadian Human Rights 
 
 ### Section 113
 
-The Chief Accessibility Officer may — or, if requested to do so by the Minister, must — **provide information or advice** to the Minister in respect of systemic or emerging accessibility issues.
+The Chief Accessibility Officer may — or, if requested to do so by the Minister, must — provide information or advice to the Minister in respect of systemic or emerging accessibility issues.
 
 ### Section 114
 
@@ -2166,7 +2164,7 @@ The Accessibility Commissioner, the Canadian Transportation Agency, the Canadian
 
     respecting the feedback process required by subsections 48(1), 57(1), 66(1) and 70(1);
 
-    specifying the **form and** manner in which **descriptions** of **the** feedback process required by **subsections** 48(1), 57(1), 66(1) and 70(1) **are** to be published;
+    specifying the form and manner in which descriptions of the feedback process required by subsections 48(1), 57(1), 66(1) and 70(1) are to be published;
 
     specifying the form in which progress reports required by subsections `49`(1), `58`(1), `67`(1) and `71`(1) are to be prepared and the time and manner in which they are to be published;
 
@@ -2206,7 +2204,7 @@ The Accessibility Commissioner, the Canadian Transportation Agency, the Canadian
 
 ### Section 118
 
-  **(1)** Subject to subsections (2) and (3), regulations made under subsection `117`(1) apply in respect of a regulated entity that carries on a broadcasting undertaking only if the regulations relate to the identification, prevention and removal of barriers in the areas referred to in paragraphs 5(a), (b), (f) and (g) **and in the area referred to in paragraph 5(c.1) as it relates to the areas referred to in those paragraphs**.
+  **(1)** Subject to subsections (2) and (3), regulations made under subsection `117`(1) apply in respect of a regulated entity that carries on a broadcasting undertaking only if the regulations relate to the identification, prevention and removal of barriers in the areas referred to in paragraphs 5(a), (b), (f) and (g) and in the area referred to in paragraph 5(c.1) as it relates to the areas referred to in those paragraphs.
 
   **(2)** Regulations made under subsection `117`(1) that are in relation to employment do not apply in respect of a regulated entity that carries on a broadcasting undertaking and that is not subject to the `Employment Equity Act`.
 
@@ -2220,7 +2218,7 @@ The Accessibility Commissioner, the Canadian Transportation Agency, the Canadian
 
 ### Section 119
 
-  **(1)** Subject to subsection (2), regulations made under subsection `117`(1) apply in respect of a regulated entity that is a Canadian carrier or a telecommunications service provider only if the regulations relate to the identification, prevention and removal of barriers in the areas referred to in paragraphs 5(a), (b), (f) and (g) **and in the area referred to in paragraph 5(c.1) as it relates to the areas referred to in those paragraphs**.
+  **(1)** Subject to subsection (2), regulations made under subsection `117`(1) apply in respect of a regulated entity that is a Canadian carrier or a telecommunications service provider only if the regulations relate to the identification, prevention and removal of barriers in the areas referred to in paragraphs 5(a), (b), (f) and (g) and in the area referred to in paragraph 5(c.1) as it relates to the areas referred to in those paragraphs.
 
   **(2)** Regulations made under subsection `117`(1) that are in relation to the identification, prevention and removal of barriers in an area referred to in paragraph `5`(g) do not apply in respect of a regulated entity that is a Canadian carrier or telecommunications service provider if requirements in relation to the identification, prevention and removal of barriers in that area apply to the regulated entity under a condition imposed under section 24 or 24.1 of the `Telecommunications Act` or a regulation made under that Act.
 
@@ -2232,7 +2230,7 @@ employment;
 
 the built environment, other than a passenger aircraft, passenger train, passenger bus, passenger vessel, aerodrome passenger terminal, railway passenger station, bus passenger station or marine passenger terminal;
 
-the procurement of goods, services and **facilities** that are not related to the mobility of persons with disabilities;
+the procurement of goods, services and facilities that are not related to the mobility of persons with disabilities;
 
 areas designated under regulations made under paragraph 117(1)(b); and
 
@@ -2250,7 +2248,7 @@ the area referred to in paragraph 5(c.1) as it relates to the areas referred to 
 
   **(2)** The Minister must provide the Accessibility Commissioner with a copy of every order made under subsection (1).
 
-  **(3)** The `Statutory Instruments Act` does not apply to an order made under paragraph (1)(a), but the order must be published in the `Canada Gazette` **and the reasons for the making of the order must be made available to the public**.
+  **(3)** The `Statutory Instruments Act` does not apply to an order made under paragraph (1)(a), but the order must be published in the `Canada Gazette` and the reasons for the making of the order must be made available to the public.
 
 
 ### Miscellaneous
@@ -2327,7 +2325,7 @@ An order made under subsection `75`(1) or amended under subsection `76`(4) and a
 
   **(1)** Five years after the first day on which a report is submitted under subsection `131`(2) to either House of Parliament and every tenth anniversary of that day, the Minister must cause an independent review of the provisions and operation of this Act to be conducted, and must cause a report on the review to be laid before each House of Parliament on any of the first 15 days on which that House is sitting after the review is completed.
 
-  **(2)** The person **or persons** conducting the review must consult the public, persons with disabilities, organizations that represent the interests of persons with disabilities, regulated entities and organizations that represent the interests of regulated entities.
+  **(2)** The person or persons conducting the review must consult the public, persons with disabilities, organizations that represent the interests of persons with disabilities, regulated entities and organizations that represent the interests of regulated entities.
 
 
 ### National AccessAbility Week
@@ -2626,13 +2624,13 @@ The `Parliamentary Employment and Staff Relations Act` is amended by adding the 
 
 ### Section 2.1
 
-For greater certainty, a person who is referred to in section 2 and who is not entitled to present a grievance under section 62 may file a complaint under subsection `94`(1) of the `Accessible Canada Act` with respect to a contravention of an applicable provision of regulations made under subsection `117`(1) of that Act if the person has suffered physical or **psychological** harm, property damage or economic loss as a result of — or has otherwise been adversely affected by — that contravention.
+For greater certainty, a person who is referred to in section 2 and who is not entitled to present a grievance under section 62 may file a complaint under subsection `94`(1) of the `Accessible Canada Act` with respect to a contravention of an applicable provision of regulations made under subsection `117`(1) of that Act if the person has suffered physical or psychological harm, property damage or economic loss as a result of — or has otherwise been adversely affected by — that contravention.
 
 ### Section 155
 
 Subsection 63(1) of the Act is amended by striking out "or" at the end of paragraph (e), by adding "or" at the end of paragraph (f) and by adding the following after paragraph (f):
 
-the contravention by the employer of any applicable provision of regulations made under subsection `117`(1) of the `Accessible Canada Act`, if the employee has suffered physical or **psychological** harm, property damage or economic loss as a result of — or has otherwise been adversely affected by — the contravention,
+the contravention by the employer of any applicable provision of regulations made under subsection `117`(1) of the `Accessible Canada Act`, if the employee has suffered physical or psychological harm, property damage or economic loss as a result of — or has otherwise been adversely affected by — the contravention,
 
 ### Section 156
 
@@ -2782,9 +2780,9 @@ The Act is amended by adding the following before section 170:
 
 The following definitions apply in paragraph 5(d.1) and this Part.
 
-**barrier** means anything — including anything physical, architectural, technological or attitudinal, anything that is based on information or communications or anything that is the result of a policy or a practice — that hinders the full and equal participation in society of persons with **an impairment, including** a physical, mental, intellectual, **cognitive**, learning, communication or sensory impairment or a functional limitation. (**obstacle**)
+**barrier** means anything — including anything physical, architectural, technological or attitudinal, anything that is based on information or communications or anything that is the result of a policy or a practice — that hinders the full and equal participation in society of persons with an impairment, including a physical, mental, intellectual, cognitive, learning, communication or sensory impairment or a functional limitation. (**obstacle**)
 
-**disability** means **any impairment, including** a physical, mental, intellectual, **cognitive**, learning, communication or sensory impairment — or a functional limitation — whether permanent, temporary or episodic in nature, **or evident or not**, that, in interaction with a barrier, hinders a person's full and equal participation in society. (**handicap**)
+**disability** means any impairment, including a physical, mental, intellectual, cognitive, learning, communication or sensory impairment — or a functional limitation — whether permanent, temporary or episodic in nature, or evident or not, that, in interaction with a barrier, hinders a person's full and equal participation in society. (**handicap**)
 
 ### Section 170
 
@@ -2792,7 +2790,7 @@ The following definitions apply in paragraph 5(d.1) and this Part.
 
 ### Section 170
 
-      **(1)** The Agency may, after consulting with the Minister, make regulations for the purpose of identifying or removing barriers or preventing new barriers — particularly barriers in the built environment, information and communication technologies and the **design and** delivery of programs and services — in the transportation network under the legislative authority of Parliament to the mobility of persons with disabilities, including regulations respecting
+      **(1)** The Agency may, after consulting with the Minister, make regulations for the purpose of identifying or removing barriers or preventing new barriers — particularly barriers in the built environment, information and communication technologies and the design and delivery of programs and services — in the transportation network under the legislative authority of Parliament to the mobility of persons with disabilities, including regulations respecting
 
   **(2)** Paragraph 170(1)(c) of the French version of the Act is replaced by the following:
 
