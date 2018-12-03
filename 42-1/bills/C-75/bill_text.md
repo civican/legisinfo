@@ -1,7 +1,5 @@
 # Bill C-75: An Act to amend the Criminal Code, the Youth Criminal Justice Act and other Acts and to make consequential amendments to other Acts
 
-**Sponsor**: MINISTER OF JUSTICE
-
 ## Summary
 
 This enactment amends the `Criminal Code` to, among other things,
@@ -242,7 +240,7 @@ Subsection 82(1) of the Act is replaced by the following:
 
 ### Section 15
 
-  **(1)** The portion of section 83.02 **of the English version** of the Act before paragraph (a) is replaced by the following:
+  **(1)** The portion of section 83.02 of the English version of the Act before paragraph (a) is replaced by the following:
 
 ### Section 83.02
 
@@ -252,7 +250,7 @@ Subsection 82(1) of the Act is replaced by the following:
 
 ### Section 16
 
-  **(1)** The portion of section 83.03 **of the English version** of the Act before paragraph (a) is replaced by the following:
+  **(1)** The portion of section 83.03 of the English version of the Act before paragraph (a) is replaced by the following:
 
 ### Section 83.03
 
@@ -262,7 +260,7 @@ Subsection 82(1) of the Act is replaced by the following:
 
 ### Section 17
 
-  **(1)** The portion of section 83.04 **of the English version** of the Act before paragraph (a) is replaced by the following:
+  **(1)** The portion of section 83.04 of the English version of the Act before paragraph (a) is replaced by the following:
 
 ### Section 83.04
 
@@ -308,15 +306,7 @@ Every person who leaves or attempts to leave Canada, or goes or attempts to go o
 
 ### Section 22
 
-Subsection 83.221(1) of the Act is replaced by the following:
-
-### Section 83.221
-
-  **(1)** Every person who, by communicating statements, knowingly advocates or promotes the commission of terrorism offences in general — other than an offence under this section — while knowing that any of those offences will be committed or being reckless as to whether any of those offences may be committed, as a result of such communication, is guilty of an indictable offence and liable to imprisonment for a term of not more than five years.
-
-### Section 23
-
-  ****(1)**** **Subsection** 83.23**(1)** of the Act is replaced by the following:
+  **(1)** Subsection 83.23(1) of the Act is replaced by the following:
 
 ### Section 83.23
 
@@ -330,65 +320,61 @@ Subsection 83.221(1) of the Act is replaced by the following:
 
         **(2)** Every person who knowingly harbours or conceals another person whom they know to be a person who is likely to carry out a terrorist activity, for the purpose of enabling that other person to facilitate or carry out any terrorist activity, is guilty of an indictable offence and liable to imprisonment for a term of not more than 10 years.
 
-### Section 24
+### Section 23
 
 Paragraph 83.231(3)(b) of the Act is replaced by the following:
 
 an offence punishable on summary conviction.
 
-### Section 25
-
-[*Deleted*]
-
-### Section 26
+### Section 24
 
 The portion of subsection 83.3(6) of the Act before paragraph (a) is replaced by the following:
 
 **(6)** Unless a peace officer is satisfied that a person should be released from custody without conditions before their appearance before a provincial court judge in accordance with the rules in paragraph (a) or (b), and so releases the person, the person detained in custody shall be taken before a provincial court judge in accordance with the following rules:
 
-### Section 27
+### Section 25
 
 Paragraph 95(2)(b) of the Act is replaced by the following:
 
 is guilty of an offence punishable on summary conviction.
 
-### Section 28
+### Section 26
 
 Paragraph 96(2)(b) of the Act is replaced by the following:
 
 is guilty of an offence punishable on summary conviction.
 
-### Section 29
+### Section 27
 
 Paragraph 102(2)(b) of the Act is replaced by the following:
 
 is guilty of an offence punishable on summary conviction.
 
-### Section 30
+### Section 28
 
 Subsection 103(3) of the Act is repealed.
 
-### Section 31
+### Section 29
 
 Subsection 104(3) of the Act is repealed.
 
-### Section 32
+### Section 30
 
 Subparagraph 109(1)(a.1)(i) of the Act is replaced by the following:
 
 the person's intimate partner,
 
-### Section 33
+### Section 31
 
 Paragraph 110(2.1)(a) of the Act is replaced by the following:
 
 the person's intimate partner;
 
-### Section 34
+### Section 32
 
 Section 110.1 of the Act is repealed.
 
-### Section 35
+### Section 33
 
 Subsection 121(3) of the Act is replaced by the following:
 
@@ -398,7 +384,7 @@ Subsection 121(3) of the Act is replaced by the following:
 
   an offence punishable on summary conviction.
 
-### Section 36
+### Section 34
 
   **(1)** The portion of subsection 121.1(4) of the French version of the Act before subparagraph (a)(i) is replaced by the following:
 
@@ -410,7 +396,7 @@ Subsection 121(3) of the Act is replaced by the following:
 
     is guilty of an offence punishable on summary conviction.
 
-### Section 37
+### Section 35
 
 Section 122 of the Act is replaced by the following:
 
@@ -422,7 +408,7 @@ an indictable offence and liable to imprisonment for a term of not more than fiv
 
 an offence punishable on summary conviction.
 
-### Section 38
+### Section 36
 
   **(1)** The portion of subsection 123(1) of the Act before paragraph (a) is replaced by the following:
 
@@ -434,7 +420,7 @@ an offence punishable on summary conviction.
 
     **(2)** Every person is guilty of an indictable offence and liable to imprisonment for a term of not more than five years or is guilty of an offence punishable on summary conviction who influences or attempts to influence a municipal official to do anything mentioned in paragraphs (1)(a) to (d) by
 
-### Section 39
+### Section 37
 
   **(1)** The portion of section 124 of the Act before paragraph (a) is replaced by the following:
 
@@ -444,7 +430,7 @@ an offence punishable on summary conviction.
 
   **(2)** The portion of section 124 of the English version of the Act after paragraph (b) is repealed.
 
-### Section 40
+### Section 38
 
   **(1)** The portion of section 125 of the Act before paragraph (a) is replaced by the following:
 
@@ -454,7 +440,7 @@ an offence punishable on summary conviction.
 
   **(2)** The portion of section 125 of the English version of the Act after paragraph (c) is repealed.
 
-### Section 41
+### Section 39
 
 Subsection 126(1) of the Act is replaced by the following:
 
@@ -466,7 +452,7 @@ Subsection 126(1) of the Act is replaced by the following:
 
     an offence punishable on summary conviction.
 
-### Section 42
+### Section 40
 
   **(1)** The portion of section 128 of the Act before paragraph (a) is replaced by the following:
 
@@ -476,13 +462,13 @@ Subsection 126(1) of the Act is replaced by the following:
 
   **(2)** The portion of section 128 of the English version of the Act after paragraph (b) is repealed.
 
-### Section 43
+### Section 41
 
 Subsection 136(1.1) of the Act is replaced by the following:
 
 **(1.1)** Evidence given under section 714.1, 714.2 or 714.3 or under subsection 46(2) of the `Canada Evidence Act` or evidence or a statement given under an order made under section 22.2 of the `Mutual Legal Assistance in Criminal Matters Act` is deemed to be evidence given by a witness in a judicial proceeding for the purposes of subsection (1).
 
-### Section 44
+### Section 42
 
   **(1)** The portion of section 138 of the Act before paragraph (a) is replaced by the following:
 
@@ -492,7 +478,7 @@ Subsection 136(1.1) of the Act is replaced by the following:
 
   **(2)** The portion of section 138 of the English version of the Act after paragraph (c) is repealed.
 
-### Section 45
+### Section 43
 
 Subsection 139(2) of the Act is replaced by the following:
 
@@ -502,7 +488,7 @@ Subsection 139(2) of the Act is replaced by the following:
 
   an offence punishable on summary conviction.
 
-### Section 46
+### Section 44
 
 Subsection 141(1) of the Act is replaced by the following:
 
@@ -514,7 +500,7 @@ Subsection 141(1) of the Act is replaced by the following:
 
     an offence punishable on summary conviction.
 
-### Section 47
+### Section 45
 
 Section 142 of the Act is replaced by the following:
 
@@ -526,7 +512,7 @@ an indictable offence and liable to imprisonment for a term of not more than fiv
 
 an offence punishable on summary conviction.
 
-### Section 48
+### Section 46
 
   **(1)** The portion of section 144 of the Act before paragraph (a) is replaced by the following:
 
@@ -536,7 +522,7 @@ an offence punishable on summary conviction.
 
   **(2)** The portion of section 144 of the English version of the Act after paragraph (b) is repealed.
 
-### Section 49
+### Section 47
 
   **(1)** Subsections 145(1) to (6) of the Act are replaced by the following:
 
@@ -578,7 +564,7 @@ an offence punishable on summary conviction.
 
   **(2)** Subsections 145(8) and (9) of the Act are replaced by the following:
 
-    **(8)** For the purposes of paragraph (2)(a) and subsections (3) to (5), it is a lawful excuse to fail to attend court in accordance with a **summons, appearance notice, undertaking or** release order, to comply with a condition of an undertaking or release order or to fail to appear at the time and place stated in a summons, an appearance notice or an undertaking for the purposes of the `Identification of Criminals Act` if — before the failure — the Attorney General, within the meaning of the `Contraventions Act`, makes an election under section 50 of that Act.
+    **(8)** For the purposes of paragraph (2)(a) and subsections (3) to (5), it is a lawful excuse to fail to attend court in accordance with a summons, appearance notice, undertaking or release order, to comply with a condition of an undertaking or release order or to fail to appear at the time and place stated in a summons, an appearance notice or an undertaking for the purposes of the `Identification of Criminals Act` if — before the failure — the Attorney General, within the meaning of the `Contraventions Act`, makes an election under section 50 of that Act.
 
     **(9)** In any proceedings under subsections (2) to (4), a certificate of the clerk of the court or a judge of the court before which the accused is alleged to have failed to attend or of the person in charge of the place at which it is alleged the accused failed to attend for the purposes of the `Identification of Criminals Act` is evidence of the statements contained in the certificate without proof of the signature or the official character of the person appearing to have signed the certificate if the certificate states that,
 
@@ -590,7 +576,7 @@ an offence punishable on summary conviction.
 
       in the case of proceedings under subsection (4), the accused was at large on an undertaking that was confirmed by a justice under section 508, and the accused failed to attend court in accordance with the undertaking or failed to appear at the time and place stated in the undertaking for the purposes of the `Identification of Criminals Act`, as the case may be.
 
-### Section 50
+### Section 48
 
   **(1)** The portion of section 146 of the Act before paragraph (a) is replaced by the following:
 
@@ -600,7 +586,7 @@ an offence punishable on summary conviction.
 
   **(2)** The portion of section 146 of the English version of the Act after paragraph (c) is repealed.
 
-### Section 51
+### Section 49
 
   **(1)** The portion of section 147 of the Act before paragraph (a) is replaced by the following:
 
@@ -610,7 +596,7 @@ an offence punishable on summary conviction.
 
   **(2)** The portion of section 147 of the English version of the Act after paragraph (c) is repealed.
 
-### Section 52
+### Section 50
 
   **(1)** The portion of section 148 of the Act before paragraph (a) is replaced by the following:
 
@@ -620,13 +606,13 @@ an offence punishable on summary conviction.
 
   **(2)** The portion of section 148 of the English version of the Act after paragraph (b) is repealed.
 
-### Section 53
+### Section 51
 
 Subsection 150.1(5) of the Act is replaced by the following:
 
 **(5)** It is not a defence to a charge under section 153, 170, 171 or 172 or subsection 286.1(2), 286.2(2) or 286.3(2) that the accused believed that the complainant was 18 years of age or more at the time the offence is alleged to have been committed unless the accused took all reasonable steps to ascertain the age of the complainant.
 
-### Section 54
+### Section 52
 
   **(1)** Subsection 153.1(1) of the French version of the Act is replaced by the following:
 
@@ -642,7 +628,7 @@ Subsection 150.1(5) of the Act is replaced by the following:
 
     an offence punishable on summary conviction.
 
-### Section 55
+### Section 53
 
 The Act is amended by adding the following after section 155:
 
@@ -650,11 +636,11 @@ The Act is amended by adding the following after section 155:
 
 No person shall be convicted of any sexual offence under this Act as it read from time to time before January 4, 1983 unless the conduct alleged would be an offence under this Act if it occurred on the day on which the charge was laid.
 
-### Section 56
+### Section 54
 
 Section 159 of the Act is repealed.
 
-### Section 57
+### Section 55
 
   **(1)** Paragraph 161(1.1)(a) of the Act is replaced by the following:
 
@@ -664,13 +650,13 @@ Section 159 of the Act is repealed.
 
     an offence punishable on summary conviction.
 
-### Section 58
+### Section 56
 
 Paragraph 162.2(4)(b) of the Act is replaced by the following:
 
 an offence punishable on summary conviction.
 
-### Section 59
+### Section 57
 
 Subsection 172(1) of the Act is replaced by the following:
 
@@ -682,13 +668,13 @@ Subsection 172(1) of the Act is replaced by the following:
 
     an offence punishable on summary conviction.
 
-### Section 60
+### Section 58
 
 Paragraph 173(1)(b) of the Act is replaced by the following:
 
 is guilty of an offence punishable on summary conviction.
 
-### Section 61
+### Section 59
 
   **(1)** The portion of subsection 176(1) of the Act before paragraph (a) is replaced by the following:
 
@@ -698,11 +684,11 @@ is guilty of an offence punishable on summary conviction.
 
   **(2)** The portion of subsection 176(1) of the English version of the Act after paragraph (b) is repealed.
 
-### Section 62
+### Section 60
 
-**Section 179** of the Act is **repealed**.
+Section 179 of the Act is repealed.
 
-### Section 63
+### Section 61
 
   **(1)** The portion of subsection 180(1) of the Act before paragraph (a) is replaced by the following:
 
@@ -712,11 +698,11 @@ is guilty of an offence punishable on summary conviction.
 
   **(2)** The portion of subsection 180(1) of the English version of the Act after paragraph (b) is repealed.
 
-### Section 64
+### Section 62
 
 Section 181 of the Act is repealed.
 
-### Section 65
+### Section 63
 
   **(1)** The portion of section 182 of the Act before paragraph (a) is replaced by the following:
 
@@ -726,11 +712,11 @@ Section 181 of the Act is repealed.
 
   **(2)** The portion of section 182 of the English version of the Act after paragraph (b) is repealed.
 
-### Section 65.1
+### Section 63.1
 
 Subparagraph (a)(xxxiv) of the definition offence in section 183 of the Act is repealed.
 
-### Section 66
+### Section 64
 
 Subsection 184(1) of the Act is replaced by the following:
 
@@ -742,7 +728,7 @@ Subsection 184(1) of the Act is replaced by the following:
 
     an offence punishable on summary conviction.
 
-### Section 67
+### Section 65
 
 Subsection 184.5(1) of the Act is replaced by the following:
 
@@ -754,7 +740,7 @@ Subsection 184.5(1) of the Act is replaced by the following:
 
     an offence punishable on summary conviction.
 
-### Section 68
+### Section 66
 
 Section 188.1 of the Act is replaced by the following:
 
@@ -762,7 +748,7 @@ Section 188.1 of the Act is replaced by the following:
 
 An authorization given under section 184.2, 184.3, 186 or 188 may be executed at any place in Canada. Any peace officer who executes the authorization must have authority to act as a peace officer in the place where it is executed.
 
-### Section 69
+### Section 67
 
 Subsection 191(1) of the Act is replaced by the following:
 
@@ -774,7 +760,7 @@ Subsection 191(1) of the Act is replaced by the following:
 
     an offence punishable on summary conviction.
 
-### Section 70
+### Section 68
 
 Subsection 193(1) of the Act is replaced by the following:
 
@@ -792,7 +778,7 @@ Subsection 193(1) of the Act is replaced by the following:
 
     an offence punishable on summary conviction.
 
-### Section 71
+### Section 69
 
 The portion of subsection 193.1(1) of the Act before paragraph (a) is replaced by the following:
 
@@ -800,7 +786,7 @@ The portion of subsection 193.1(1) of the Act before paragraph (a) is replaced b
 
   **(1)** Every person who knowingly uses or discloses a radio-based telephone communication or who knowingly discloses the existence of such a communication is guilty of an indictable offence and liable to imprisonment for a term of not more than two years or is guilty of an offence punishable on summary conviction, if
 
-### Section 71.1
+### Section 69.1
 
   **(1)** The definition common bawdy-house in subsection 197(1) of the Act is repealed.
 
@@ -808,7 +794,7 @@ The portion of subsection 193.1(1) of the Act before paragraph (a) is replaced b
 
     **disorderly house** means a common betting house or a common gaming house; (**maison de désordre**)
 
-### Section 71.2
+### Section 69.2
 
   **(1)** Subsection 199(1) of the Act is replaced by the following:
 
@@ -820,7 +806,7 @@ The portion of subsection 193.1(1) of the Act before paragraph (a) is replaced b
 
     **(6)** Nothing in this section or in section 489 authorizes the seizure, forfeiture or destruction of  telephone, telegraph or other communication facilities or equipment that may be evidence of or that  may have been used in the commission of an offence under section 201, 202, 203, 206 or 207 and that   is owned by a person engaged in providing telephone, telegraph or other communication service to the public or forming part of the telephone, telegraph or other communication service or system of that person.
 
-### Section 72
+### Section 70
 
 Subsection 201(1) of the Act is replaced by the following:
 
@@ -832,7 +818,7 @@ Subsection 201(1) of the Act is replaced by the following:
 
     an offence punishable on summary conviction.
 
-### Section 73
+### Section 71
 
 The portion of subsection 206(1) of the Act before paragraph (a) is replaced by the following:
 
@@ -840,7 +826,7 @@ The portion of subsection 206(1) of the Act before paragraph (a) is replaced by 
 
   **(1)** Every person is guilty of an indictable offence and liable to imprisonment for a term of not more than two years or is guilty of an offence punishable on summary conviction who
 
-### Section 74
+### Section 72
 
 Section 209 of the Act is replaced by the following:
 
@@ -852,23 +838,23 @@ an indictable offence and liable to imprisonment for a term of not more than two
 
 an offence punishable on summary conviction.
 
-### Section 75
+### Section 73
 
-**The heading before section 210 and sections 210 and 211 of the Act are repealed**.
+The heading before section 210 and sections 210 and 211 of the Act are repealed.
 
-### Section 76
+### Section 74
 
 Paragraph 215(3)(b) of the Act is replaced by the following:
 
 is guilty of an offence punishable on summary conviction.
 
-### Section 77
+### Section 75
 
 Paragraph 218(b) of the Act is replaced by the following:
 
 is guilty of an offence punishable on summary conviction.
 
-### Section 78
+### Section 76
 
 Section 221 of the Act is replaced by the following:
 
@@ -880,17 +866,17 @@ an indictable offence and liable to imprisonment for a term of not more than 10 
 
 an offence punishable on summary conviction.
 
-### Section 79
+### Section 77
 
 Paragraph 229(c) of the Act is replaced by the following:
 
 if a person, for an unlawful object, does anything that they know is likely to cause death, and by doing so causes the death of a human being, even if they desire to effect their object without causing death or bodily harm to any human being.
 
-### Section 80
+### Section 78
 
 Section 230 of the Act is repealed.
 
-### Section 81
+### Section 79
 
 Section 237 of the Act is replaced by the following:
 
@@ -902,7 +888,7 @@ an indictable offence and liable to imprisonment for a term of not more than fiv
 
 an offence punishable on summary conviction.
 
-### Section 82
+### Section 80
 
 Section 241.3 of the Act is replaced by the following:
 
@@ -914,7 +900,7 @@ an indictable offence and liable to imprisonment for a term of not more than fiv
 
 an offence punishable on summary conviction.
 
-### Section 83
+### Section 81
 
 Subsection 241.4(3) of the Act is replaced by the following:
 
@@ -924,7 +910,7 @@ Subsection 241.4(3) of the Act is replaced by the following:
 
   an offence punishable on summary conviction.
 
-### Section 84
+### Section 82
 
 Sections 242 and 243 of the Act are replaced by the following:
 
@@ -944,7 +930,7 @@ an indictable offence and liable to imprisonment for a term of not more than two
 
 an offence punishable on summary conviction.
 
-### Section 85
+### Section 83
 
 Subsection 245(1) of the Act is replaced by the following:
 
@@ -956,7 +942,7 @@ Subsection 245(1) of the Act is replaced by the following:
 
     of an indictable offence and liable to imprisonment for a term of not more than two years or of an offence punishable on summary conviction, if they did so with intent to aggrieve or annoy that person.
 
-### Section 86
+### Section 84
 
   **(1)** The portion of subsection 247(1) of the Act before paragraph (a) is replaced by the following:
 
@@ -978,7 +964,7 @@ Subsection 245(1) of the Act is replaced by the following:
 
       an offence punishable on summary conviction.
 
-### Section 87
+### Section 85
 
 Subsection 249(3) of the Act is replaced by the following:
 
@@ -988,7 +974,7 @@ Subsection 249(3) of the Act is replaced by the following:
 
   an offence punishable on summary conviction.
 
-### Section 88
+### Section 86
 
   **(1)** The portion of subsection 251(1) of the Act before paragraph (a) is replaced by the following:
 
@@ -998,7 +984,7 @@ Subsection 249(3) of the Act is replaced by the following:
 
   **(2)** The portion of subsection 251(1) of the English version of the Act after paragraph (c) is repealed.
 
-### Section 89
+### Section 87
 
 Subsection 252(1.2) of the Act is replaced by the following:
 
@@ -1008,7 +994,7 @@ Subsection 252(1.2) of the Act is replaced by the following:
 
   an offence punishable on summary conviction.
 
-### Section 90
+### Section 88
 
 Subsections 255(1) to (2.2) of the Act are replaced by the following:
 
@@ -1050,7 +1036,7 @@ Subsections 255(1) to (2.2) of the Act are replaced by the following:
 
     an offence punishable on summary conviction and liable to the same maximum and minimum punishments set out in paragraph (1)(b).
 
-### Section 91
+### Section 89
 
   **(1)** The portion of paragraph 258(1)(c) of the Act before subparagraph (ii) is replaced by the following:
 
@@ -1064,7 +1050,7 @@ Subsections 255(1) to (2.2) of the Act are replaced by the following:
 
   **(4)** The portion of paragraph 258(1)(d) of the English version of the Act after subparagraph (v) is repealed.
 
-### Section 92
+### Section 90
 
   **(1)** The portion of section 262 of the Act before paragraph (a) is replaced by the following:
 
@@ -1074,19 +1060,19 @@ Subsections 255(1) to (2.2) of the Act are replaced by the following:
 
   **(2)** The portion of section 262 of the English version of the Act after paragraph (b) is repealed.
 
-### Section 93
+### Section 91
 
 Paragraph 264(4)(b) of the Act is replaced by the following:
 
 the terms or conditions of any other order or recognizance, or of an undertaking, made or entered into under the common law, this Act or any other Act of Parliament or of a provincial legislature that is similar in effect to an order or recognizance referred to in paragraph (a).
 
-### Section 94
+### Section 92
 
 Paragraph 264.1(2)(b) of the Act is replaced by the following:
 
 an offence punishable on summary conviction.
 
-### Section 95
+### Section 93
 
   **(1)** The portion of section 267 of the Act before paragraph (a) is replaced by the following:
 
@@ -1098,37 +1084,37 @@ an offence punishable on summary conviction.
 
     chokes, suffocates or strangles the complainant.
 
-### Section 96
+### Section 94
 
 Paragraph 269(b) of the Act is replaced by the following:
 
 an offence punishable on summary conviction.
 
-### Section 97
+### Section 95
 
 Paragraph 270.01(2)(b) of the Act is replaced by the following:
 
 an offence punishable on summary conviction.
 
-### Section 98
+### Section 96
 
 Paragraph 270.1(3)(b) of the Act is replaced by the following:
 
 an offence punishable on summary conviction.
 
-### Section 99
+### Section 97
 
 Subsection 272(1) of the Act is amended by striking out "or" at the end of paragraph (c) and by adding the following after paragraph (c):
 
 chokes, suffocates or strangles the complainant; or
 
-### Section 100
+### Section 98
 
 Paragraph 273.3(1)(c) of the Act is replaced by the following:
 
 under the age of eighteen years, with the intention that an act be committed outside Canada that if it were committed in Canada would be an offence against section 155, subsection 160(2) or section 170, 171, 267, 268, 269, 271, 272 or 273 in respect of that person; or
 
-### Section 101
+### Section 99
 
 Sections 274 and 275 of the Act are replaced by the following:
 
@@ -1140,7 +1126,7 @@ If an accused is charged with an offence under section 151, 152, 153, 153.1, 155
 
 The rules relating to evidence of recent complaint are hereby abrogated with respect to offences under sections 151, 152, 153, 153.1 and 155, subsections 160(2) and (3) and sections 170, 171, 172, 173, 271, 272 and 273.
 
-### Section 102
+### Section 100
 
 The portion of subsection 276(1) of the Act before paragraph (a) is replaced by the following:
 
@@ -1148,7 +1134,7 @@ The portion of subsection 276(1) of the Act before paragraph (a) is replaced by 
 
   **(1)** In proceedings in respect of an offence under section 151, 152, 153, 153.1 or 155, subsection 160(2) or (3) or section 170, 171, 172, 173, 271, 272 or 273, evidence that the complainant has engaged in sexual activity, whether with the accused or with any other person, is not admissible to support an inference that, by reason of the sexual nature of that activity, the complainant
 
-### Section 103
+### Section 101
 
 Section 277 of the Act is replaced by the following:
 
@@ -1156,19 +1142,19 @@ Section 277 of the Act is replaced by the following:
 
 In proceedings in respect of an offence under section 151, 152, 153, 153.1 or 155, subsection 160(2) or (3) or section 170, 171, 172, 173, 271, 272 or 273, evidence of sexual reputation, whether general or specific, is not admissible for the purpose of challenging or supporting the credibility of the complainant.
 
-### Section 104
+### Section 102
 
 Paragraph 278.2(1)(a) of the Act is replaced by the following:
 
 an offence under section 151, 152, 153, 153.1, 155, 160, 170, 171, 172, 173, 213, 271, 272, 273, 279.01, 279.011, 279.02, 279.03, 286.1, 286.2 or 286.3; or
 
-### Section 105
+### Section 103
 
 Paragraph 279(2)(b) of the Act is replaced by the following:
 
 an offence punishable on summary conviction.
 
-### Section 106
+### Section 104
 
 Subsection 279.02(1) of the Act is replaced by the following:
 
@@ -1180,7 +1166,7 @@ Subsection 279.02(1) of the Act is replaced by the following:
 
     an offence punishable on summary conviction.
 
-### Section 107
+### Section 105
 
 Subsection 279.03(1) of the Act is replaced by the following:
 
@@ -1192,7 +1178,7 @@ Subsection 279.03(1) of the Act is replaced by the following:
 
     an offence punishable on summary conviction.
 
-### Section 108
+### Section 106
 
 Subsection 280(1) of the Act is replaced by the following:
 
@@ -1204,7 +1190,7 @@ Subsection 280(1) of the Act is replaced by the following:
 
     an offence punishable on summary conviction.
 
-### Section 109
+### Section 107
 
 Section 281 of the Act is replaced by the following:
 
@@ -1216,13 +1202,13 @@ an indictable offence and liable to imprisonment for a term of not more than 10 
 
 an offence punishable on summary conviction.
 
-### Section 110
+### Section 108
 
 The portion of paragraph 286.1(1)(b) of the Act before subparagraph (i) is replaced by the following:
 
 an offence punishable on summary conviction and liable to a fine of not more than $5,000 or to imprisonment for a term of not more than two years less a day, or to both, and to a minimum punishment of,
 
-### Section 111
+### Section 109
 
 Subsection 286.2(1) of the Act is replaced by the following:
 
@@ -1234,17 +1220,17 @@ Subsection 286.2(1) of the Act is replaced by the following:
 
     an offence punishable on summary conviction.
 
-### Section 112
+### Section 110
 
 Paragraph 286.4(b) of the Act is replaced by the following:
 
 an offence punishable on summary conviction.
 
-### Section 113
+### Section 111
 
 Section 287 of the Act is repealed.
 
-### Section 114
+### Section 112
 
 Subsection 291(1) of the Act is replaced by the following:
 
@@ -1256,7 +1242,7 @@ Subsection 291(1) of the Act is replaced by the following:
 
     an offence punishable on summary conviction.
 
-### Section 115
+### Section 113
 
 Subsection 292(1) of the Act is replaced by the following:
 
@@ -1268,7 +1254,7 @@ Subsection 292(1) of the Act is replaced by the following:
 
     an offence punishable on summary conviction.
 
-### Section 116
+### Section 114
 
 Subsection 293(1) of the Act is replaced by the following:
 
@@ -1280,7 +1266,7 @@ Subsection 293(1) of the Act is replaced by the following:
 
     celebrates, assists or is a party to a rite, ceremony, contract or consent that purports to sanction a relationship mentioned in paragraph (a).
 
-### Section 117
+### Section 115
 
 Sections 293.1 and 293.2 of the Act are replaced by the following:
 
@@ -1300,7 +1286,7 @@ an indictable offence and liable to imprisonment for a term of not more than fiv
 
 an offence punishable on summary conviction.
 
-### Section 118
+### Section 116
 
   **(1)** The portion of section 294 of the Act before paragraph (a) is replaced by the following:
 
@@ -1310,7 +1296,7 @@ an offence punishable on summary conviction.
 
   **(2)** The portion of section 294 of the English version of the Act after paragraph (b) is repealed.
 
-### Section 119
+### Section 117
 
 Section 295 of the Act is replaced by the following:
 
@@ -1322,7 +1308,7 @@ an indictable offence and liable to imprisonment for a term of not more than two
 
 an offence punishable on summary conviction.
 
-### Section 120
+### Section 118
 
 Sections 300 and 301 of the Act are replaced by the following:
 
@@ -1342,7 +1328,7 @@ an indictable offence and liable to imprisonment for a term of not more than two
 
 an offence punishable on summary conviction.
 
-### Section 121
+### Section 119
 
 Subsection 302(3) of the Act is replaced by the following:
 
@@ -1352,7 +1338,7 @@ Subsection 302(3) of the Act is replaced by the following:
 
   an offence punishable on summary conviction.
 
-### Section 122
+### Section 120
 
 Subsection 318(1) of the Act is replaced by the following:
 
@@ -1360,13 +1346,13 @@ Subsection 318(1) of the Act is replaced by the following:
 
   **(1)** Every person who advocates or promotes genocide is guilty of an indictable offence and liable to imprisonment for a term of not more than five years.
 
-### Section 123
+### Section 121
 
 Paragraph 333.1(1)(b) of the Act is replaced by the following:
 
 on summary conviction, to imprisonment for a term of not more than two years less a day.
 
-### Section 124
+### Section 122
 
   **(1)** Paragraph 334(a) of the Act is replaced by the following:
 
@@ -1382,7 +1368,7 @@ on summary conviction, to imprisonment for a term of not more than two years les
 
   **(3)** The portion of paragraph 334(b) of the Act after subparagraph (ii) is repealed.
 
-### Section 125
+### Section 123
 
   **(1)** The portion of subsection 338(1) of the Act before paragraph (a) is replaced by the following:
 
@@ -1400,7 +1386,7 @@ on summary conviction, to imprisonment for a term of not more than two years les
 
       an offence punishable on summary conviction.
 
-### Section 126
+### Section 124
 
 Subsection 339(1) of the Act is replaced by the following:
 
@@ -1414,7 +1400,7 @@ Subsection 339(1) of the Act is replaced by the following:
 
     refuses to deliver such lumber or lumbering equipment up to the owner or to the person in charge of it on behalf of the owner or to a person authorized by the owner to receive it.
 
-### Section 127
+### Section 125
 
   **(1)** The portion of section 340 of the Act before paragraph (a) is replaced by the following:
 
@@ -1424,7 +1410,7 @@ Subsection 339(1) of the Act is replaced by the following:
 
   **(2)** The portion of section 340 of the English version of the Act after paragraph (c) is repealed.
 
-### Section 128
+### Section 126
 
 Section 341 of the Act is replaced by the following:
 
@@ -1436,13 +1422,13 @@ an indictable offence and liable to imprisonment for a term of not more than two
 
 an offence punishable on summary conviction.
 
-### Section 129
+### Section 127
 
 Paragraph 347(1)(b) of the Act is replaced by the following:
 
 guilty of an offence punishable on summary conviction and liable to a fine of not more than $25,000 or to imprisonment for a term of not more than two years less a day, or to both.
 
-### Section 130
+### Section 128
 
 Subsection 351(2) of the Act is replaced by the following:
 
@@ -1452,7 +1438,7 @@ Subsection 351(2) of the Act is replaced by the following:
 
   an offence punishable on summary conviction.
 
-### Section 131
+### Section 129
 
 Section 352 of the Act is replaced by the following:
 
@@ -1464,7 +1450,7 @@ an indictable offence and liable to imprisonment for a term of not more than two
 
 an offence punishable on summary conviction.
 
-### Section 132
+### Section 130
 
   **(1)** The portion of subsection 353(1) of the Act before paragraph (a) is replaced by the following:
 
@@ -1474,7 +1460,7 @@ an offence punishable on summary conviction.
 
   **(2)** The portion of subsection 353(1) of the English version of the Act after paragraph (b) is repealed.
 
-### Section 133
+### Section 131
 
   **(1)** Paragraph 355(a) of the Act is replaced by the following:
 
@@ -1490,7 +1476,7 @@ an offence punishable on summary conviction.
 
   **(3)** The portion of paragraph 355(b) of the Act after subparagraph (ii) is repealed.
 
-### Section 134
+### Section 132
 
 Section 357 of the Act is replaced by the following:
 
@@ -1502,7 +1488,7 @@ an indictable offence and liable to imprisonment for a term of not more than 10 
 
 an offence punishable on summary conviction.
 
-### Section 135
+### Section 133
 
   **(1)** Paragraph 362(2)(a) of the Act is replaced by the following:
 
@@ -1526,7 +1512,7 @@ an offence punishable on summary conviction.
 
       an offence punishable on summary conviction.
 
-### Section 136
+### Section 134
 
   **(1)** The portion of section 363 of the Act before paragraph (a) is replaced by the following:
 
@@ -1536,7 +1522,7 @@ an offence punishable on summary conviction.
 
   **(2)** The portion of section 363 of the English version of the Act after paragraph (b) is repealed.
 
-### Section 137
+### Section 135
 
   **(1)** The portion of subsection 377(1) of the Act before paragraph (a) is replaced by the following:
 
@@ -1546,7 +1532,7 @@ an offence punishable on summary conviction.
 
   **(2)** The portion of subsection 377(1) of the English version of the Act after paragraph (d) is repealed.
 
-### Section 138
+### Section 136
 
   **(1)** The portion of section 378 of the Act before paragraph (a) is replaced by the following:
 
@@ -1556,7 +1542,7 @@ an offence punishable on summary conviction.
 
   **(2)** The portion of section 378 of the English version of the Act after paragraph (c) is repealed.
 
-### Section 139
+### Section 137
 
 Section 381 of the Act is replaced by the following:
 
@@ -1568,7 +1554,7 @@ an indictable offence and liable to imprisonment for a term of not more than two
 
 an offence punishable on summary conviction.
 
-### Section 140
+### Section 138
 
   **(1)** The portion of section 382 of the Act before paragraph (a) is replaced by the following:
 
@@ -1578,7 +1564,7 @@ an offence punishable on summary conviction.
 
   **(2)** The portion of section 382 of the English version of the Act after paragraph (c) is repealed.
 
-### Section 141
+### Section 139
 
 The portion of subsection 382.1(1) of the Act before paragraph (a) is replaced by the following:
 
@@ -1586,7 +1572,7 @@ The portion of subsection 382.1(1) of the Act before paragraph (a) is replaced b
 
   **(1)** Every person is guilty of an indictable offence and liable to imprisonment for a term of not more than 10 years or is guilty of an offence punishable on summary conviction who, directly or indirectly, buys or sells a security, knowingly using inside information that they
 
-### Section 142
+### Section 140
 
   **(1)** The portion of subsection 383(1) of the Act before paragraph (a) is replaced by the following:
 
@@ -1598,7 +1584,7 @@ The portion of subsection 382.1(1) of the Act before paragraph (a) is replaced b
 
     This section does not apply if a broker, on behalf of a purchaser, receives delivery, even if the broker retains or pledges what is delivered as security for the advance of the purchase money or any part of it.
 
-### Section 143
+### Section 141
 
 Section 384 of the Act is replaced by the following:
 
@@ -1612,7 +1598,7 @@ Section 384 of the Act is replaced by the following:
 
     an offence punishable on summary conviction.
 
-### Section 144
+### Section 142
 
   **(1)** The portion of subsection 385(1) of the Act before paragraph (a) is replaced by the following:
 
@@ -1626,7 +1612,7 @@ Section 384 of the Act is replaced by the following:
 
   **(3)** The portion of subsection 385(1) of the English version of the Act after paragraph (b) is repealed.
 
-### Section 145
+### Section 143
 
   **(1)** The portion of section 386 of the Act before paragraph (a) is replaced by the following:
 
@@ -1636,7 +1622,7 @@ Section 384 of the Act is replaced by the following:
 
   **(2)** The portion of section 386 of the English version of the Act after paragraph (c) is repealed.
 
-### Section 146
+### Section 144
 
 Section 387 of the Act is replaced by the following:
 
@@ -1648,7 +1634,7 @@ an indictable offence and liable to imprisonment for a term of not more than two
 
 an offence punishable on summary conviction.
 
-### Section 147
+### Section 145
 
   **(1)** The portion of section 388 of the Act before paragraph (a) is replaced by the following:
 
@@ -1658,7 +1644,7 @@ an offence punishable on summary conviction.
 
   **(2)** The portion of section 388 of the English version of the Act after paragraph (b) is repealed.
 
-### Section 148
+### Section 146
 
   **(1)** The portion of subsection 389(1) of the Act before paragraph (a) is replaced by the following:
 
@@ -1668,7 +1654,7 @@ an offence punishable on summary conviction.
 
   **(2)** The portion of subsection 389(1) of the English version of the Act after paragraph (b) is repealed.
 
-### Section 149
+### Section 147
 
 Section 390 of the Act is replaced by the following:
 
@@ -1680,7 +1666,7 @@ knowingly makes a false statement in any receipt, certificate or acknowledgment 
 
 knowingly, after either giving to another person or after a person employed by them has, to their knowledge, given to another person, or after obtaining and endorsing or assigning to another person, any receipt, certificate or acknowledgment for anything that may be used for a purpose mentioned in the `Bank Act`, without the consent in writing of the holder or endorsee or the production and delivery of the receipt, certificate or acknowledgment, alienates or parts with, or does not deliver to the holder or owner the property mentioned in the receipt, certificate or acknowledgment.
 
-### Section 150
+### Section 148
 
   **(1)** The portion of section 392 of the Act before paragraph (a) is replaced by the following:
 
@@ -1690,7 +1676,7 @@ knowingly, after either giving to another person or after a person employed by t
 
   **(2)** The portion of section 392 of the English version of the Act after paragraph (b) is repealed.
 
-### Section 151
+### Section 149
 
   **(1)** The portion of subsection 393(1) of the Act before paragraph (a) is replaced by the following:
 
@@ -1706,7 +1692,7 @@ knowingly, after either giving to another person or after a person employed by t
 
   **(4)** The portion of subsection 393(2) of the English version of the Act after paragraph (b) is repealed.
 
-### Section 152
+### Section 150
 
 Subsection 394(5) of the Act is replaced by the following:
 
@@ -1716,7 +1702,7 @@ Subsection 394(5) of the Act is replaced by the following:
 
   an offence punishable on summary conviction.
 
-### Section 153
+### Section 151
 
 Subsection 394.1(3) of the Act is replaced by the following:
 
@@ -1726,13 +1712,13 @@ Subsection 394.1(3) of the Act is replaced by the following:
 
   an offence punishable on summary conviction.
 
-### Section 154
+### Section 152
 
 Section 395 of the Act is amended by adding the following after subsection (1):
 
 **(1.1)** A warrant issued under subsection (1) may be executed at any place in Canada. A public officer named in the warrant, or any peace officer, who executes the warrant must have authority to act in that capacity in the place where the warrant is executed.
 
-### Section 155
+### Section 153
 
   **(1)** The portion of subsection 396(1) of the Act before paragraph (a) is replaced by the following:
 
@@ -1742,7 +1728,7 @@ Section 395 of the Act is amended by adding the following after subsection (1):
 
   **(2)** The portion of subsection 396(1) of the English version of the Act after paragraph (b) is repealed.
 
-### Section 156
+### Section 154
 
   **(1)** The portion of subsection 397(1) of the Act before paragraph (a) is replaced by the following:
 
@@ -1764,7 +1750,7 @@ Section 395 of the Act is amended by adding the following after subsection (1):
 
       an offence punishable on summary conviction.
 
-### Section 157
+### Section 155
 
   **(1)** The portion of section 399 of the Act before paragraph (a) is replaced by the following:
 
@@ -1774,7 +1760,7 @@ Section 395 of the Act is amended by adding the following after subsection (1):
 
   **(2)** The portion of section 399 of the English version of the Act after paragraph (b) is repealed.
 
-### Section 158
+### Section 156
 
   **(1)** The portion of subsection 400(1) of the Act before paragraph (a) is replaced by the following:
 
@@ -1784,7 +1770,7 @@ Section 395 of the Act is amended by adding the following after subsection (1):
 
   **(2)** The portion of subsection 400(1) of the English version of the Act after paragraph (c) is repealed.
 
-### Section 159
+### Section 157
 
   **(1)** Section 405 of the Act is replaced by the following:
 
@@ -1802,7 +1788,7 @@ Section 395 of the Act is amended by adding the following after subsection (1):
 
     Every person who, without lawful authority or excuse, acknowledges, in the name of another person before a court or a judge or other person authorized to receive the acknowledgment, a recognizance, undertaking, release order, confession of judgment, consent to judgment or judgment, deed or other instrument or act is guilty of
 
-### Section 160
+### Section 158
 
   **(1)** The portion of subsection 417(1) of the Act before paragraph (a) is replaced by the following:
 
@@ -1812,13 +1798,13 @@ Section 395 of the Act is amended by adding the following after subsection (1):
 
   **(2)** The portion of subsection 417(1) of the English version of the Act after paragraph (b) is repealed.
 
-### Section 161
+### Section 159
 
 Paragraph 423(1)(a) of the Act is replaced by the following:
 
 uses violence or threats of violence to that person or their intimate partner or children, or injures the person's property;
 
-### Section 162
+### Section 160
 
 Sections 424 and 424.1 of the Act are replaced by the following:
 
@@ -1838,7 +1824,7 @@ an indictable offence and liable to imprisonment for a term of not more than 10 
 
 an offence punishable on summary conviction.
 
-### Section 163
+### Section 161
 
 Subsection 426(3) of the Act is replaced by the following:
 
@@ -1848,7 +1834,7 @@ Subsection 426(3) of the Act is replaced by the following:
 
   an offence punishable on summary conviction.
 
-### Section 164
+### Section 162
 
   **(1)** Paragraph 430(4.1)(b) of the Act is replaced by the following:
 
@@ -1858,7 +1844,7 @@ Subsection 426(3) of the Act is replaced by the following:
 
     if the offence is punishable on summary conviction, to imprisonment for a term of not more than two years less a day.
 
-### Section 165
+### Section 163
 
 Subsection 435(1) of the Act is replaced by the following:
 
@@ -1870,7 +1856,7 @@ Subsection 435(1) of the Act is replaced by the following:
 
     an offence punishable on summary conviction.
 
-### Section 166
+### Section 164
 
 Subsection 436(1) of the Act is replaced by the following:
 
@@ -1882,7 +1868,7 @@ Subsection 436(1) of the Act is replaced by the following:
 
     an offence punishable on summary conviction.
 
-### Section 167
+### Section 165
 
 Section 436.1 of the Act is replaced by the following:
 
@@ -1894,7 +1880,7 @@ an indictable offence and liable to imprisonment for a term of not more than fiv
 
 an offence punishable on summary conviction.
 
-### Section 168
+### Section 166
 
   **(1)** The portion of subsection 438(1) of the Act before paragraph (a) is replaced by the following:
 
@@ -1904,7 +1890,7 @@ an offence punishable on summary conviction.
 
   **(2)** The portion of subsection 438(1) of the English version of the Act after paragraph (b) is repealed.
 
-### Section 169
+### Section 167
 
 Subsection 439(2) of the Act is replaced by the following:
 
@@ -1914,7 +1900,7 @@ Subsection 439(2) of the Act is replaced by the following:
 
   an offence punishable on summary conviction.
 
-### Section 170
+### Section 168
 
 Sections 440 and 441 of the Act are replaced by the following:
 
@@ -1928,13 +1914,13 @@ an offence punishable on summary conviction.
 
 ### Section 441
 
-Every person who, intentionally and to the prejudice of a mortgagee, a hypothecary creditor or an owner, pulls down, demolishes or removes all or any part of a dwelling-house or other building of which they are in possession or occupation, or severs from the freehold any fixture fixed to it or from the immovable property any movable **property** permanently attached or joined to the immovable **property**, is guilty of
+Every person who, intentionally and to the prejudice of a mortgagee, a hypothecary creditor or an owner, pulls down, demolishes or removes all or any part of a dwelling-house or other building of which they are in possession or occupation, or severs from the freehold any fixture fixed to it or from the immovable property any movable property permanently attached or joined to the immovable property, is guilty of
 
 an indictable offence and liable to imprisonment for a term of not more than five years; or
 
 an offence punishable on summary conviction.
 
-### Section 171
+### Section 169
 
   **(1)** The portion of subsection 443(1) of the Act before paragraph (a) is replaced by the following:
 
@@ -1944,37 +1930,37 @@ an offence punishable on summary conviction.
 
   **(2)** The portion of subsection 443(1) of the English version of the Act after paragraph (b) is repealed.
 
-### Section 172
+### Section 170
 
 Paragraph 445(2)(b) of the Act is replaced by the following:
 
 an offence punishable on summary conviction and liable to a fine of not more than $10,000 or to imprisonment for a term of not more than two years less a day, or to both.
 
-### Section 173
+### Section 171
 
 Paragraph 445.01(2)(b) of the Act is replaced by the following:
 
 an offence punishable on summary conviction and liable to a fine of not more than $10,000 or to imprisonment for a term of not more than two years less a day, or to both.
 
-### Section 174
+### Section 172
 
 Paragraph 445.1(2)(b) of the Act is replaced by the following:
 
 an offence punishable on summary conviction and liable to a fine of not more than $10,000 or to imprisonment for a term of not more than two years less a day, or to both.
 
-### Section 175
+### Section 173
 
 Paragraph 446(2)(b) of the Act is replaced by the following:
 
 an offence punishable on summary conviction.
 
-### Section 176
+### Section 174
 
 Paragraph 447(2)(b) of the Act is replaced by the following:
 
 an offence punishable on summary conviction and liable to a fine of not more than $10,000 or to imprisonment for a term of not more than two years less a day, or to both.
 
-### Section 177
+### Section 175
 
 Section 451 of the Act is replaced by the following:
 
@@ -1986,7 +1972,7 @@ an indictable offence and liable to imprisonment for a term of not more than fiv
 
 an offence punishable on summary conviction.
 
-### Section 178
+### Section 176
 
   **(1)** The portion of section 453 of the Act before paragraph (a) is replaced by the following:
 
@@ -1996,7 +1982,7 @@ an offence punishable on summary conviction.
 
   **(2)** The portion of section 453 of the English version of the Act after paragraph (b) is repealed.
 
-### Section 179
+### Section 177
 
   **(1)** The portion of subsection 460(1) of the Act before paragraph (a) is replaced by the following:
 
@@ -2006,7 +1992,7 @@ an offence punishable on summary conviction.
 
   **(2)** The portion of subsection 460(1) of the English version of the Act after paragraph (b) is repealed.
 
-### Section 180
+### Section 178
 
 Paragraphs 462.2(a) and (b) of the Act are replaced by the following:
 
@@ -2014,11 +2000,11 @@ for a first offence, to a fine of not more than $100,000 or to imprisonment for 
 
 for a second or subsequent offence, to a fine of not more than $300,000 or to imprisonment for a term of not more than two years less a day, or to both.
 
-### Section 181
+### Section 179
 
 Subsections 462.3(3) and (4) of the Act are repealed.
 
-### Section 182
+### Section 180
 
 Subsections 462.32(2.1) to (3) of the Act are replaced by the following:
 
@@ -2026,13 +2012,13 @@ Subsections 462.32(2.1) to (3) of the Act are replaced by the following:
 
 **(3)** Subsections 487(2.1) to (3) and section 488 apply, with any modifications that the circumstances require, to a warrant issued under this section.
 
-### Section 183
+### Section 181
 
 Subsection 462.33(3.01) of the Act is replaced by the following:
 
 **(3.01)** A restraint order issued under subsection (1) has effect throughout Canada.
 
-### Section 184
+### Section 182
 
   **(1)** Subparagraph 462.34(4)(c)(iii) of the Act is replaced by the following:
 
@@ -2040,7 +2026,7 @@ Subsection 462.33(3.01) of the Act is replaced by the following:
 
   **(2)** Subsection 462.34(8) of the Act is repealed.
 
-### Section 185
+### Section 183
 
 Paragraph 465(1)(b) of the Act is replaced by the following:
 
@@ -2050,7 +2036,7 @@ an indictable offence and liable to imprisonment for a term of not more than 10 
 
 an indictable offence and liable to imprisonment for a term of not more than five years or an offence punishable on summary conviction, if the alleged offence is one for which, on conviction, that person would be liable to imprisonment for less than 14 years;
 
-### Section 186
+### Section 184
 
 Subsection 467.11(1) of the Act is replaced by the following:
 
@@ -2062,11 +2048,11 @@ Subsection 467.11(1) of the Act is replaced by the following:
 
     an offence punishable on summary conviction.
 
-### Section 187
+### Section 185
 
 Section 467.2 of the Act is repealed.
 
-### Section 188
+### Section 186
 
   **(1)** The portion of subsection 482(2) of the Act before paragraph (a) is replaced by the following:
 
@@ -2076,7 +2062,7 @@ Section 467.2 of the Act is repealed.
 
     **(4)** Rules of court that are made under this section must be published or otherwise made available to the public.
 
-### Section 189
+### Section 187
 
   **(1)** Subsection 482.1(4) of the Act is replaced by the following:
 
@@ -2086,25 +2072,25 @@ Section 467.2 of the Act is repealed.
 
     **(5)** Subsections 482(4) and (5) apply, with any modifications that the circumstances require, to rules made under subsection (1).
 
-### Section 190
+### Section 188
 
 Subsection 485(1.1) of the Act is replaced by the following:
 
 **(1.1)** Jurisdiction over an accused is not lost by reason of the failure of the accused to appear personally, so long as the provisions of this Act or a rule made under section 482 or 482.1 permitting the accused not to appear personally apply.
 
-### Section 191
+### Section 189
 
 Subsection 486(3) of the Act is replaced by the following:
 
 **(3)** If an accused is charged with an offence under section 151, 152, 153, 153.1 or 155, subsection 160(2) or (3) or section 163.1, 170, 171, 171.1, 172, 172.1, 172.2, 173, 271, 272, 273, 279.01, 279.011, 279.02, 279.03, 286.1, 286.2 or 286.3 and the prosecutor or the accused applies for an order under subsection (1), the judge or justice shall, if no such order is made, state, by reference to the circumstances of the case, the reason for not making an order.
 
-### Section 192
+### Section 190
 
 Subparagraph 486.4(1)(a)(i) of the Act is replaced by the following:
 
 an offence under section 151, 152, 153, 153.1, 155, 160, 162, 163.1, 170, 171, 171.1, 172, 172.1, 172.2, 173, 213, 271, 272, 273, 279.01, 279.011, 279.02, 279.03, 280, 281, 286.1, 286.2, 286.3, 346 or 347, or
 
-### Section 193
+### Section 191
 
   **(1)** Subsection 487(2) of the Act is replaced by the following:
 
@@ -2112,19 +2098,19 @@ an offence under section 151, 152, 153, 153.1, 155, 160, 162, 163.1, 170, 171, 1
 
   **(2)** Subsection 487(4) of the Act is repealed.
 
-### Section 194
+### Section 192
 
 Subsection 487.01(6) of the Act is replaced by the following:
 
 **(6)** A warrant issued under subsection (1) may be executed at any place in Canada. Any peace officer who executes the warrant must have authority to act as a peace officer in the place where it is executed.
 
-### Section 195
+### Section 193
 
 Subsection 487.019(2) of the Act is replaced by the following:
 
 **(2)** The order has effect throughout Canada.
 
-### Section 196
+### Section 194
 
 Section 487.0198 of the Act is replaced by the following:
 
@@ -2132,7 +2118,7 @@ Section 487.0198 of the Act is replaced by the following:
 
 A person, financial institution or entity that contravenes an order made under any of sections 487.013 to 487.018 without lawful excuse is guilty of an offence punishable on summary conviction and liable to a fine of not more than $250,000 or to imprisonment for a term of not more than two years less a day, or to both.
 
-### Section 197
+### Section 195
 
 Section 487.02 of the Act is replaced by the following:
 
@@ -2140,63 +2126,63 @@ Section 487.02 of the Act is replaced by the following:
 
 If an authorization is given under section 184.2, 184.3, 186 or 188 or a warrant is issued under this Act, the judge or justice who gives the authorization or issues the warrant may order a person to provide assistance, if the person's assistance may reasonably be considered to be required to give effect to the authorization or warrant. The order has effect throughout Canada.
 
-### Section 198
+### Section 196
 
 Section 487.03 of the Act is repealed.
 
-### Section 199
+### Section 197
 
 Section 487.05 of the Act is amended by adding the following after subsection (3):
 
 **(4)** A warrant issued under subsection (1) may be executed at any place in Canada. Any peace officer who executes the warrant must have authority to act as a peace officer in the place where it is executed.
 
-### Section 200
+### Section 198
 
 Paragraph 487.053(2)(c) of the Act is replaced by the following:
 
 may require the person to appear by closed-circuit television or videoconference, as long as the person is given the opportunity to communicate privately with counsel if they are represented by counsel.
 
-### Section 201
+### Section 199
 
 Subsection 487.055(3.01) of the Act is replaced by the following:
 
 **(3.01)** The court may require a person who is given notice of an application under subsection (1) and who wishes to appear at the hearing to appear by closed-circuit television or videoconference, as long as the person is given the opportunity to communicate privately with counsel if they are represented by counsel.
 
-### Section 202
+### Section 200
 
 Paragraph 487.08(4)(b) of the Act is replaced by the following:
 
 is guilty of an offence punishable on summary conviction.
 
-### Section 203
+### Section 201
 
 Subsection 487.092(3) of the Act is replaced by the following:
 
 **(3)** A warrant issued under subsection (1) may be executed at any place in Canada. Any peace officer who executes the warrant must have authority to act as a peace officer in the place where it is executed.
 
-### Section 204
+### Section 202
 
 Subparagraph (b)(iii) of the definition **designated offence** in subsection 490.011(1) of the Act is repealed.
 
-### Section 205
+### Section 203
 
 Paragraph 490.012(4)(c) of the Act is replaced by the following:
 
 may require the person to appear at the hearing by closed-circuit television or videoconference, as long as the person is given the opportunity to communicate privately with counsel if they are represented by counsel.
 
-### Section 206
+### Section 204
 
 Paragraph 490.031(1)(b) of the Act is replaced by the following:
 
 on summary conviction, to a fine of not more than $10,000 or to imprisonment for a term of not more than two years less a day, or to both.
 
-### Section 207
+### Section 205
 
 Paragraph 490.0311(b) of the Act is replaced by the following:
 
 on summary conviction, to a fine of not more than $10,000 or to imprisonment for a term of not more than two years less a day, or to both.
 
-### Section 208
+### Section 206
 
 Subsection 490.8(9) of the Act is replaced by the following:
 
@@ -2206,19 +2192,19 @@ Subsection 490.8(9) of the Act is replaced by the following:
 
   an offence punishable on summary conviction.
 
-### Section 209
+### Section 207
 
 Section 492.1 of the Act is amended by adding the following after subsection (6):
 
 **(6.1)** A warrant issued under this section may be executed at any place in Canada. Any public officer or peace officer who executes the warrant must have authority to act in that capacity in the place where the warrant is executed.
 
-### Section 210
+### Section 208
 
 Section 492.2 of the Act is amended by adding the following after subsection (5):
 
 **(5.1)** A warrant issued under subsection (1) may be executed at any place in Canada. Any public officer or peace officer who executes the warrant must have authority to act in that capacity in the place where the warrant is executed.
 
-### Section 211
+### Section 209
 
   **(1)** The definitions **appearance notice**, **officer in charge**, **promise to appear**, **recognizance**, **summons** and **undertaking** in section 493 of the Act are repealed.
 
@@ -2226,7 +2212,7 @@ Section 492.2 of the Act is amended by adding the following after subsection (5)
 
     a person to whom a peace officer has issued an appearance notice under section 497, and
 
-### Section 212
+### Section 210
 
 The Act is amended by adding the following after section 493:
 
@@ -2245,7 +2231,7 @@ Aboriginal accused; and
 
 accused who belong to a vulnerable population that is overrepresented in the criminal justice system and that is disadvantaged in obtaining release under this Part.
 
-### Section 213
+### Section 211
 
 The Act is amended by adding the following after section 495:
 
@@ -2253,7 +2239,7 @@ The Act is amended by adding the following after section 495:
 
 Despite any other provision in this Act, if a peace officer has reasonable grounds to believe that an accused has contravened or is about to contravene a summons, appearance notice, undertaking or release order that was issued or given to the accused or entered into by the accused, or has committed an indictable offence while being subject to a summons, appearance notice, undertaking or release order, the peace officer may arrest the accused without a warrant for the purpose of taking them before a judge or justice to be dealt with under section 524.
 
-### Section 214
+### Section 212
 
 Sections 496 and 497 of the Act are replaced by the following:
 
@@ -2271,7 +2257,7 @@ an offence for which the person may be prosecuted by indictment or for which the
 
 an offence punishable on summary conviction.
 
-### Section 215
+### Section 213
 
   **(1)** Subsection 498(1) of the Act is replaced by the following:
 
@@ -2303,7 +2289,7 @@ an offence punishable on summary conviction.
 
     any other proceedings, unless in any such proceedings it is alleged and established by the person making the allegation that the peace officer did not comply with the requirements of subsection (1).
 
-### Section 216
+### Section 214
 
 Section 499 of the Act is replaced by the following:
 
@@ -2315,7 +2301,7 @@ the peace officer issues an appearance notice to the person; or
 
 the person gives an undertaking to the peace of­ficer.
 
-### Section 217
+### Section 215
 
 Sections 500 to 502 of the Act are replaced by the following:
 
@@ -2385,7 +2371,7 @@ Sections 500 to 502 of the Act are replaced by the following:
 
   **(2)** The accused or the prosecutor may, in the absence of consent between them, apply to a justice for a release order under subsection 515(1) or (2) to replace an undertaking given by the accused under paragraph 498(1)(c), 499(b) or 503(1.1)(b) with the order. If the prosecutor applies for the order, the prosecutor must provide three days notice to the accused.
 
-### Section 218
+### Section 216
 
 The Act is amended by adding the following before section 503:
 
@@ -2401,7 +2387,7 @@ The Act is amended by adding the following before section 503:
 
   **(5)** The justice who is to preside at a proceeding under this Part shall preside personally but may preside by audioconference or videoconference, if the justice considers it necessary in the circumstances.
 
-### Section 219
+### Section 217
 
   **(1)** Subsections 503(1) to (2.3) of the Act are replaced by the following:
 
@@ -2441,7 +2427,7 @@ The Act is amended by adding the following before section 503:
 
     any other proceedings, unless in those proceedings it is alleged and established by the person making the allegation that the peace officer did not comply with the requirements of subsection (4).
 
-### Section 220
+### Section 218
 
 Section 505 of the Act is replaced by the following:
 
@@ -2449,7 +2435,7 @@ Section 505 of the Act is replaced by the following:
 
 If an appearance notice has been issued to an accused under section 497, or if an accused has been released from custody under section 498 or 503, an information relating to the offence alleged to have been committed by the accused or relating to an included or other offence alleged to have been committed by them shall be laid before a justice as soon as practicable after the issuance or release, and in any event before the time stated in the appearance notice or undertaking for their attendance in court.
 
-### Section 221
+### Section 219
 
 Subsections 507(6) and (7) of the Act are replaced by the following:
 
@@ -2457,7 +2443,7 @@ Subsections 507(6) and (7) of the Act are replaced by the following:
 
 **(7)** If, under subsection (6), a justice authorizes the release of an accused under section 499, an appearance notice or undertaking referred to in that section shall be deemed, for the purposes of subsection 145(3) or (4), as the case may be, to have been confirmed by a justice under section 508.
 
-### Section 222
+### Section 220
 
 Paragraphs 508(1)(b) and (c) of the Act are replaced by the following:
 
@@ -2469,17 +2455,17 @@ cancel the appearance notice or undertaking and issue, in accordance with sectio
 
 if the justice considers that a case is not made out for the purposes of paragraph (b), cancel the appearance notice or undertaking and cause the accused to be immediately notified of the cancellation.
 
-### Section 223
+### Section 221
 
 Subsection 509(4) of the Act is replaced by the following:
 
 **(4)** The summons must set out a summary of subsection 145(3), section 512.1 and subsection 524(4).
 
-### Section 224
+### Section 222
 
 Section 510 of the Act is repealed.
 
-### Section 225
+### Section 223
 
   **(1)** Paragraph 512(1)(a) of the Act is replaced by the following:
 
@@ -2493,7 +2479,7 @@ Section 510 of the Act is repealed.
 
     an appearance notice or undertaking has been confirmed under subsection 508(1) and the accused fails to attend court in accordance with it in order to be dealt with according to law, or
 
-### Section 226
+### Section 224
 
 The Act is amended by adding the following after section 512:
 
@@ -2509,7 +2495,7 @@ If an accused who is required by an appearance notice or undertaking to appear a
 
 If a justice is satisfied that there are reasonable grounds to believe that an accused has contravened or is about to contravene any summons, appearance notice, undertaking or release order that was issued or given to the accused or entered into by the accused or has committed an indictable offence while being subject to any summons, appearance notice, undertaking or release order, the justice may issue a warrant for the purpose of taking them before a justice under section 524.
 
-### Section 227
+### Section 225
 
   **(1)** Subsections 515(1) to (2.1) of the Act are replaced by the following:
 
@@ -2591,13 +2577,13 @@ If a justice is satisfied that there are reasonable grounds to believe that an a
 
     **(7)** If an accused to whom subsection (6) applies shows cause why their detention in custody is not justified, the justice shall make a release order under this section. If the accused was already at large on a release order, the new release order may include any additional conditions described in subsections (4) to (4.2) that the justice considers desirable.
 
-### Section 228
+### Section 226
 
 Section 515.1 of the Act is replaced by the following:
 
 ### Section 515.1
 
-  **(1)** Before a judge, justice or court names a particular person as a surety, the person shall provide the judge, justice or court with a signed declaration under oath, solemn declaration or solemn affirmation in **Form 12** that sets out
+  **(1)** Before a judge, justice or court names a particular person as a surety, the person shall provide the judge, justice or court with a signed declaration under oath, solemn declaration or solemn affirmation in Form 12 that sets out
 
     their name, date of birth and contact information;
 
@@ -2629,7 +2615,7 @@ Section 515.1 of the Act is replaced by the following:
 
   **(3)** A person may provide the judge, justice or court with the declaration referred to in subsection (1) by a means of telecommunication that produces a writing.
 
-### Section 229
+### Section 227
 
 Section 516 of the Act is amended by adding the following after subsection (2):
 
@@ -2643,9 +2629,9 @@ Section 516 of the Act is amended by adding the following after subsection (2):
 
   until the time the accused is sentenced, if applicable.
 
-### Section 230
+### Section 228
 
-  ****(1)**** The portion of subsection 519(1) of the Act before paragraph (a) is replaced by the following:
+  **(1)** The portion of subsection 519(1) of the Act before paragraph (a) is replaced by the following:
 
 ### Section 519
 
@@ -2655,7 +2641,7 @@ Section 516 of the Act is amended by adding the following after subsection (2):
 
     any condition in the order that an accused abstain from communicating, directly or indirectly, with any victim, witness or other person identified in the order, except in accordance with any specified conditions, is effective from the moment it is made, whether or not the accused has been released from custody.
 
-### Section 231
+### Section 229
 
 The Act is amended by adding the following after section 519:
 
@@ -2663,7 +2649,7 @@ The Act is amended by adding the following after section 519:
 
 A release order under which an accused has been released under section 515 may be varied with the written consent of the accused, prosecutor and any sureties. The order so varied is considered to be a release order under section 515.
 
-### Section 232
+### Section 230
 
 Subsection 520(1) of the Act is replaced by the following:
 
@@ -2671,7 +2657,7 @@ Subsection 520(1) of the Act is replaced by the following:
 
   **(1)** If a justice, or a judge of the Nunavut Court of Justice, makes an order under subsection 515(2), (5), (6), (7), or (12) or makes or vacates any order under paragraph 523(2)(b), the accused may, at any time before the trial of the charge, apply to a judge for a review of the order.
 
-### Section 233
+### Section 231
 
 Subsection 521(1) of the Act is replaced by the following:
 
@@ -2679,13 +2665,13 @@ Subsection 521(1) of the Act is replaced by the following:
 
   **(1)** If a justice, or a judge of the Nunavut Court of Justice, makes an order under subsection 515(1), (2), (7) or (12) or makes or vacates any order under paragraph 523(2)(b), the prosecutor may, at any time before the trial of the charge, apply to a judge for a review of the order.
 
-### Section 234
+### Section 232
 
 Subsection 522(3) of the Act is replaced by the following:
 
 **(3)** If the judge does not order that the accused be detained in custody under subsection (2), the judge may make a release order referred to in section 515.
 
-### Section 235
+### Section 233
 
   **(1)** The portion of subsection 523(1) of the Act before paragraph (a) is replaced by the following:
 
@@ -2699,7 +2685,7 @@ Subsection 522(3) of the Act is replaced by the following:
 
     **(1.2)** If an accused is charged with an offence, and an indictment is preferred under section 577 charging the same offence or an included offence while the accused is subject to an order for detention, release order, appearance notice, summons or undertaking, the order for detention, release order, appearance notice, summons or undertaking applies in respect of the indictment.
 
-### Section 236
+### Section 234
 
 Section 524 of the Act and the heading before it are replaced by the following:
 
@@ -2746,7 +2732,7 @@ Section 524 of the Act and the heading before it are replaced by the following:
 
   **(2)** The circumstances referred to in subsection (1) are the following:
 
-    the accused has been arrested for the contravention of or having been about to contravene, a summons, appearance notice, undertaking or release order and the prosecutor seeks to have it cancelled under this section; **or**
+    the accused has been arrested for the contravention of or having been about to contravene, a summons, appearance notice, undertaking or release order and the prosecutor seeks to have it cancelled under this section; or
 
     the accused has been arrested for having committed an indictable offence while being subject to a summons, appearance notice, undertaking or release order and the prosecutor seeks to have it cancelled under this section.
 
@@ -2770,7 +2756,7 @@ Section 524 of the Act and the heading before it are replaced by the following:
 
   **(10)** An order made under subsection (4) or (5) respecting an accused other than the accused referred to in paragraph (1)(a), is subject to review under sections 520 and 521 as if the order were made under section 515.
 
-### Section 237
+### Section 235
 
   **(1)** Subsection 525(1) of the Act is replaced by the following:
 
@@ -2800,7 +2786,7 @@ Section 524 of the Act and the heading before it are replaced by the following:
 
     **(6)** Sections 495.1, 512.3, 517 to 519 and 524 apply, with any modifications that the circumstances require, in respect of any proceedings under this section.
 
-### Section 238
+### Section 236
 
 Section 526 of the Act is replaced by the following:
 
@@ -2808,7 +2794,7 @@ Section 526 of the Act is replaced by the following:
 
 Subject to subsection 525(4), a court, judge or justice before which or whom an accused appears under this Part may give directions for expediting any proceedings in respect of the accused.
 
-### Section 239
+### Section 237
 
 Subsections 530(1) to (4) of the Act are replaced by the following:
 
@@ -2822,7 +2808,7 @@ Subsections 530(1) to (4) of the Act are replaced by the following:
 
   **(4)** If an accused fails to apply for an order under subsection (1) or (2) and the judge, provincial court judge, judge of the Nunavut Court of Justice or justice of the peace before whom the accused is to be tried, in this Part referred to as "the court", is satisfied that it is in the best interests of justice that the accused be tried before a justice of the peace, provincial court judge, judge or judge and jury who speak the official language of Canada that is the language of the accused or, if the language of the accused is not one of the official languages of Canada, the official language of Canada in which the accused, in the opinion of the court, can best give testimony, the court may, if it does not speak that language, by order remand the accused to be tried by a justice of the peace, provincial court judge, judge or judge and jury, as the case may be, who speak that language or, if the circumstances warrant, who speak both official languages of Canada.
 
-### Section 240
+### Section 238
 
 Section 535 of the Act is replaced by the following:
 
@@ -2830,7 +2816,7 @@ Section 535 of the Act is replaced by the following:
 
 If an accused who is charged with an indictable offence that is punishable by imprisonment for life is before a justice and a request has been made for a preliminary inquiry under subsection 536(4) or 536.1(3), the justice shall, in accordance with this Part, inquire into the charge and any other indictable offence, in respect of the same transaction, founded on the facts that are disclosed by the evidence taken in accordance with this Part.
 
-### Section 241
+### Section 239
 
   **(1)** Subsection 536(2) of the Act is replaced by the following:
 
@@ -2860,7 +2846,7 @@ If an accused who is charged with an indictable offence that is punishable by im
 
     **(5)** Lorsqu'un juge de paix devant qui se tient ou doit se tenir une enquête préliminaire n'a pas commencé à recueillir la preuve, tout juge de paix ayant juridiction dans la province où l'infraction dont le prévenu est inculpé aurait été commise est compétent pour l'application du paragraphe (4).
 
-### Section 242
+### Section 240
 
   **(1)** Subsections 536.1(2) and (3) of the Act are replaced by the following:
 
@@ -2880,7 +2866,7 @@ If an accused who is charged with an indictable offence that is punishable by im
 
     **(4.02)** If an accused referred to in subsection (2.1) elects to be tried by a judge without a jury or by a court composed of a judge and jury or does not elect when put to the election or is deemed under paragraph 565(1)(a) to have elected to be tried by a court composed of a judge and jury, the justice shall endorse on the information and, if the accused is in custody, on the warrant of remand, a statement showing the nature of the election or deemed election of the accused or that the accused did not elect, as the case may be.
 
-### Section 243
+### Section 241
 
 Section 536.5 of the English version of the Act is replaced by the following:
 
@@ -2888,7 +2874,7 @@ Section 536.5 of the English version of the Act is replaced by the following:
 
 Whether or not a hearing is held under section 536.4, the prosecutor and the accused may agree to limit the scope of the preliminary inquiry to specific issues. An agreement shall be filed with the court or recorded under subsection 536.4(2), as the case may be.
 
-### Section 244
+### Section 242
 
   **(1)** Paragraphs 537(1)(i) and (j) of the Act are replaced by the following:
 
@@ -2906,13 +2892,13 @@ Whether or not a hearing is held under section 536.4, the prosecutor and the acc
 
     **(1.02)** If a justice grants a request under paragraph (1)(j.1), the Court must inform the accused that the evidence taken during their absence could still be admissible under section 715 or 715.01.
 
-### Section 245
+### Section 243
 
 Paragraph 540(1)(a) of the Act is replaced by the following:
 
 take the evidence under oath of the witnesses called on the part of the prosecution, subject to subsection 537(1.01), and allow the accused or counsel for the accused to cross-examine them; and
 
-### Section 246
+### Section 244
 
   **(1)** Subsection 541(1) of the Act is replaced by the following:
 
@@ -2924,7 +2910,7 @@ take the evidence under oath of the witnesses called on the part of the prosecut
 
     **(5)** Subject to subsection 537(1.01), the justice shall hear each witness called by the accused who testifies to any matter relevant to the inquiry, and for the purposes of this subsection, section 540 applies with any modifications that the circumstances require.
 
-### Section 247
+### Section 245
 
   **(1)** Subsection 543(1) of the Act is replaced by the following:
 
@@ -2944,25 +2930,25 @@ take the evidence under oath of the witnesses called on the part of the prosecut
 
     any appearance notice, undertaking or release order issued to or given or entered into by the accused shall be deemed to have been issued, given or entered into in the jurisdiction where the offence is alleged to have been committed and to require the accused to appear before the justice to whom the transcript and documents are transmitted at the time provided in the order made in respect of the accused under paragraph (1)(a).
 
-### Section 248
+### Section 246
 
 Subsection 544(5) of the Act is replaced by the following:
 
 **(5)** If, at the conclusion of the evidence on the part of the prosecution at a preliminary inquiry that has been continued under subsection (1), the accused is absent but their counsel is present, the counsel shall be given an opportunity to call witnesses on behalf of the accused, subject to subsection 537(1.01), and subsection 541(5) applies with any modifications that the circumstances require.
 
-### Section 249
+### Section 247
 
 Subsection 549(1.1) of the Act is replaced by the following:
 
 **(1.1)** If the prosecutor and the accused agree under section 536.5 to limit the scope of a preliminary inquiry to specific issues, the justice, without taking or recording evidence on any other issues, may order the accused to stand trial in the court having criminal jurisdiction.
 
-### Section 250
+### Section 248
 
 Subsection 550(2) of the Act is replaced by the following:
 
 **(2)** A recognizance entered into under this section may be set out at the end of a deposition or be separate from it.
 
-### Section 251
+### Section 249
 
 Section 551 of the Act is replaced by the following:
 
@@ -2970,11 +2956,11 @@ Section 551 of the Act is replaced by the following:
 
 If a justice orders an accused to stand trial, the justice shall immediately send to the clerk or other proper officer of the court by which the accused is to be tried, any information, evidence, exhibits, or statement of the accused taken down in writing in accordance with section 541, any appearance notice, undertaking or release order given by or issued to the accused and any evidence taken before a coroner that is in the possession of the justice.
 
-### Section 252
+### Section 250
 
 Subsection 551.1(3) of the Act is repealed.
 
-### Section 253
+### Section 251
 
   **(1)** The portion of subsection 551.3(1) of the Act before paragraph (a) is replaced by the following:
 
@@ -2986,11 +2972,11 @@ Subsection 551.1(3) of the Act is repealed.
 
     ordering, in each case set out in subsection 599(1), that the trial be held in a territorial division in the same province other than that in which the offence would otherwise be tried.
 
-### Section 253.1
+### Section 251.1
 
 Subparagraph 553(c)(vi) of the Act is repealed.
 
-### Section 254
+### Section 252
 
   **(1)** Subsections 555(1) and (2) of the Act are replaced by the following:
 
@@ -3010,11 +2996,11 @@ Subparagraph 553(c)(vi) of the Act is repealed.
 
       if the accused elects to be tried by a superior court judge without a jury or a court composed of a judge and jury or does not elect when put to their election, the provincial court judge shall endorse on the information a record of the nature of the election or deemed election; and
 
-### Section 255
+### Section 253
 
 Section 555.1 of the Act is replaced by the following:
 
-### Section 555.1
+### Section 553.1
 
   **(1)** If in any criminal proceedings under this Part an accused is before a judge of the Nunavut Court of Justice and it appears to the judge that for any reason the charge should be prosecuted by indictment, the judge may, at any time before the accused has entered a defence, decide not to adjudicate and shall then inform the accused of the decision.
 
@@ -3028,7 +3014,7 @@ Section 555.1 of the Act is replaced by the following:
 
   **(4)** This section, and not section 555, applies in respect of criminal proceedings in Nunavut.
 
-### Section 256
+### Section 254
 
   **(1)** Subsections 561(1) to (5) of the Act are replaced by the following:
 
@@ -3092,7 +3078,7 @@ Section 555.1 of the Act is replaced by the following:
 
       The accused shall be put to their re-election in the following words or in words to the like effect:
 
-### Section 257
+### Section 255
 
   **(1)** Subsections 561.1(2) and (3) of the Act are replaced by the following:
 
@@ -3122,7 +3108,7 @@ Section 555.1 of the Act is replaced by the following:
 
       The accused shall be put to their re-election in the following words or in words to the like effect:
 
-### Section 258
+### Section 256
 
 Section 562 of the Act is replaced by the following:
 
@@ -3132,7 +3118,7 @@ Section 562 of the Act is replaced by the following:
 
   **(2)** If the accused re-elects under subparagraph 561(1)(a)(ii) before the completion of the preliminary inquiry, or under subsection 561(2), and requests a preliminary inquiry under subsection 536(4), the justice shall proceed with the preliminary inquiry.
 
-### Section 259
+### Section 257
 
 Subsection 562.1(1) of the Act is replaced by the following:
 
@@ -3140,13 +3126,13 @@ Subsection 562.1(1) of the Act is replaced by the following:
 
   **(1)** If the accused re-elects under subsection 561.1(1) to be tried by a judge without a jury and does not request a preliminary inquiry under subsection 536.1(3), or if the accused re-elects any other mode of trial under subsection 561.1(2) but is not entitled to make a request for a preliminary inquiry under subsection 536.1(3), the judge shall proceed with the trial or appoint a time and place for the trial.
 
-### Section 260
+### Section 258
 
 Paragraph 563(a) of the Act is replaced by the following:
 
 the accused shall be tried on the information that was before the justice at the preliminary inquiry, if applicable, subject to any amendments to the information that may be allowed by the provincial court judge by whom the accused is tried; and
 
-### Section 261
+### Section 259
 
 The portion of subsection 563.1(1) of the Act before paragraph (b) is replaced by the following:
 
@@ -3156,7 +3142,7 @@ The portion of subsection 563.1(1) of the Act before paragraph (b) is replaced b
 
     the accused shall be tried on the information that was before the justice of the peace or judge at the preliminary inquiry, if applicable, subject to any amendments that may be allowed by the judge by whom the accused is tried; and
 
-### Section 262
+### Section 260
 
   **(1)** Subsections 565(1) to (2) of the Act are replaced by the following:
 
@@ -3174,7 +3160,7 @@ The portion of subsection 563.1(1) of the Act before paragraph (b) is replaced b
 
     **(3)** If an accused intends to re-elect under subsection (2), the accused shall give notice in writing to a judge or clerk of the court where the indictment has been filed or preferred. The judge or clerk shall, on receipt of the notice, notify a judge having jurisdiction or clerk of the court by which the accused wishes to be tried of the accused's intention to re-elect and send to that judge or clerk any indictment, appearance notice, undertaking or release order given by or issued to the accused, any summons or warrant issued under section 578 and any evidence taken before a coroner that is in the possession of the first-mentioned judge or clerk.
 
-### Section 263
+### Section 261
 
 Subsection 566.1(1) of the Act is replaced by the following:
 
@@ -3182,7 +3168,7 @@ Subsection 566.1(1) of the Act is replaced by the following:
 
   **(1)** The trial of an accused for an indictable offence, other than an indictable offence referred to in section 553 or an offence in respect of which the accused has elected or re-elected to be tried by a judge without a jury and in respect of which no party has requested a preliminary inquiry under subsection 536.1(3) or was not entitled to make such a request under that subsection, must be on an indictment in writing setting out the offence with which the accused is charged.
 
-### Section 264
+### Section 262
 
   **(1)** Subsections 570(1) and (2) of the Act are replaced by the following:
 
@@ -3198,13 +3184,13 @@ Subsection 566.1(1) of the Act is replaced by the following:
 
     **(6)** If a warrant of committal is signed by a clerk of a court, a copy of the warrant of committal, certified by the clerk, is admissible in evidence in any proceeding.
 
-### Section 265
+### Section 263
 
 Subsection 574(1.1) of the Act is replaced by the following:
 
 **(1.1)** If a person has not requested a preliminary inquiry under subsection 536(4) or 536.1(3) into the charge or was not entitled to make such a request, the prosecutor may, subject to subsection (3), prefer an indictment against a person in respect of a charge set out in an information or informations, or any included charge, at any time after the person has made an election, re-election or deemed election on the information or informations.
 
-### Section 266
+### Section 264
 
 Subsection 579(1) of the Act is replaced by the following:
 
@@ -3212,7 +3198,7 @@ Subsection 579(1) of the Act is replaced by the following:
 
   **(1)** The Attorney General or counsel instructed by the Attorney General for that purpose may, at any time after any proceedings in relation to an accused or a defendant are commenced and before judgment, direct the clerk or other proper officer of the court to make an entry on the record that the proceedings are stayed by the Attorney General's or counsel's direction, as the case may be, and the entry shall then be made, at which time the proceedings shall be stayed accordingly and any undertaking or release order relating to the proceedings is vacated.
 
-### Section 267
+### Section 265
 
   **(1)** The portion of subsection 579.1(1) of the Act before paragraph (b) is replaced by the following:
 
@@ -3230,13 +3216,13 @@ Subsection 579(1) of the Act is replaced by the following:
 
     **(2)** Sections 579 and 579.01 apply, with any modifications that the circumstances require, to proceedings in which the Attorney General of Canada or the Director of Public Prosecutions intervenes under this section.
 
-### Section 268
+### Section 266
 
 Subsection 597(3) of the Act is replaced by the following:
 
 **(3)** If an accused is arrested under a warrant issued under subsection (1), a judge of the court that issued the warrant may make a release order referred to in section 515.
 
-### Section 269
+### Section 267
 
 Paragraph 599(1)(a) of the Act is replaced by the following:
 
@@ -3246,7 +3232,7 @@ to promote a fair and efficient trial, and
 
 to ensure the safety and security of a victim or witness or to protect their interests and those of society; or
 
-### Section 270
+### Section 268
 
   **(1)** The portion of subsection 606(1.1) of the English version of the Act before subparagraph (b)(i) is replaced by the following:
 
@@ -3260,7 +3246,7 @@ to ensure the safety and security of a victim or witness or to protect their int
 
     the facts support the charge.
 
-### Section 271
+### Section 269
 
 Sections 633 and 634 of the Act are replaced by the following:
 
@@ -3268,7 +3254,7 @@ Sections 633 and 634 of the Act are replaced by the following:
 
 The judge may direct a juror who has been called under subsection 631(3) or (3.1) to stand by for reasons of personal hardship, maintaining public confidence in the administration of justice or any other reasonable cause.
 
-### Section 272
+### Section 270
 
 Subsection 635(1) of the Act is replaced by the following:
 
@@ -3276,7 +3262,7 @@ Subsection 635(1) of the Act is replaced by the following:
 
   **(1)** The accused shall be called on before the prosecutor is called on to declare whether the accused challenges the first juror for cause, and after that the prosecutor and the accused shall be called on alternately, in respect of each of the remaining jurors, to first make such a declaration.
 
-### Section 273
+### Section 271
 
 Paragraphs 638(1)(b) to (d) of the Act are replaced by the following:
 
@@ -3286,7 +3272,7 @@ a juror has been convicted of an offence for which they were sentenced to a term
 
 a juror is not a Canadian citizen;
 
-### Section 274
+### Section 272
 
 Section 640 of the Act is replaced by the following:
 
@@ -3296,13 +3282,13 @@ Section 640 of the Act is replaced by the following:
 
   **(2)** On the application of the accused or prosecutor or on the judge's own motion, the judge may order the exclusion of all jurors, sworn and unsworn, from the court room until it is determined whether the ground of challenge is true if the judge is of the opinion that the order is necessary to preserve the impartiality of the jurors.
 
-### Section 275
+### Section 273
 
 Section 644 of the Act is amended by adding the following after subsection (2):
 
 **(3)** If in the course of a trial the number of jurors is reduced below 10, the judge may, with the consent of the parties, discharge the jurors, continue the trial without a jury and render a verdict.
 
-### Section 276
+### Section 274
 
 Subsections 650(1.1) and (1.2) of the Act are replaced by the following:
 
@@ -3310,7 +3296,7 @@ Subsections 650(1.1) and (1.2) of the Act are replaced by the following:
 
 **(1.2)** If the court so orders, an accused who is confined in prison may appear by closed-circuit television or videoconference, for any part of the trial other than a part in which the evidence of a witness is taken, as long as the accused is given the opportunity to communicate privately with counsel if they are represented by counsel.
 
-### Section 277
+### Section 275
 
 Section 650.02 of the Act is replaced by the following:
 
@@ -3318,11 +3304,7 @@ Section 650.02 of the Act is replaced by the following:
 
 The prosecutor or the counsel designated under section 650.01 may appear before the court by audioconference or videoconference, if the technological means is satisfactory to the court.
 
-### Section 278
-
-[*Deleted*]
-
-### Section 279
+### Section 276
 
 Section 672.46 of the Act is replaced by the following:
 
@@ -3332,19 +3314,19 @@ Section 672.46 of the Act is replaced by the following:
 
   **(2)** Despite subsection (1), a court may, pending a disposition by the Review Board in respect of the accused, on cause being shown, vacate the detention order, release order, appearance notice, summons or undertaking referred to in that subsection, and make any other order for the detention of the accused or any other release order that the court considers to be appropriate in the circumstances, including an order directing that the accused be detained in custody in a hospital.
 
-### Section 280
+### Section 277
 
 Subsection 672.5(13) of the Act is replaced by the following:
 
 **(13)** If the accused so agrees, the court or the chairperson of the Review Board may permit the accused to appear by closed-circuit television or videoconference for any part of the hearing.
 
-### Section 281
+### Section 278
 
 Paragraph (b) of the definition **sentence** in section 673 of the Act is replaced by the following:
 
 an order made under subsection 109(1) or 110(1), section 161, subsection 164.2(1) or 194(1), section 259, 261 or 462.37, subsection 491.1(2), 730(1) or 737(1.1), (3) or (5) or section 738, 739, 742.1, 742.3, 743.6, 745.4 or 745.5,
 
-### Section 282
+### Section 279
 
   **(1)** Subsections 679(5) to (6) of the Act are replaced by the following:
 
@@ -3356,7 +3338,7 @@ an order made under subsection 109(1) or 110(1), section 161, subsection 164.2(1
 
   **(2)** Subsection 679(9) of the Act is repealed.
 
-### Section 283
+### Section 280
 
 The portion of subsection 680(1) of the Act before paragraph (a) is replaced by the following:
 
@@ -3364,7 +3346,7 @@ The portion of subsection 680(1) of the Act before paragraph (a) is replaced by 
 
   **(1)** A decision made by a judge under section 522, a decision made under subsections 524(3) to (5) with respect to an accused referred to in paragraph 524(1)(a) or a decision made by a judge of the court of appeal under section 261 or 679 may, on the direction of the chief justice or acting chief justice of the court of appeal, be reviewed by that court and that court may, if it does not confirm the decision,
 
-### Section 284
+### Section 281
 
   **(1)** Subsection 683(2.1) of the Act is replaced by the following:
 
@@ -3382,13 +3364,13 @@ The portion of subsection 680(1) of the Act before paragraph (a) is replaced by 
 
     **(7)** If the offender is subject to a release order under subsection (5.1), the court of appeal shall, in determining whether to vary the sentence of the offender, take into account the conditions of that order and the period for which they were imposed on the offender.
 
-### Section 285
+### Section 282
 
 Paragraph 686(5.01)(b) of the English version of the Act is replaced by the following:
 
 if the accused, in the notice of appeal or notice of application for leave to appeal, did not request that the new trial, if ordered, should be held before a court composed of a judge and jury, the new trial shall, without further election by the accused, and without a preliminary inquiry, be held before a judge, acting under Part XIX, other than a judge who tried the accused in the first instance, unless the Court of Appeal of Nunavut directs that the new trial be held before the judge who tried the accused in the first instance;
 
-### Section 286
+### Section 283
 
 Paragraphs 688(2.1)(a) and (b) of the Act are replaced by the following:
 
@@ -3396,7 +3378,7 @@ at an application for leave to appeal or at any proceedings that are preliminary
 
 at the hearing of the appeal, if the appellant has access to legal advice, they appear by closed-circuit television or videoconference.
 
-### Section 287
+### Section 284
 
 Subsections 699(5) and (5.1) of the Act are replaced by the following:
 
@@ -3404,7 +3386,7 @@ Subsections 699(5) and (5.1) of the Act are replaced by the following:
 
 **(5.1)** Despite anything in subsections (1) to (5), in the case of an offence referred to in subsection 278.2(1), a subpoena requiring a witness to bring to the court a record, the production of which is governed by sections 278.1 to 278.91, must be issued by a judge and signed by the judge or the clerk of the court.
 
-### Section 288
+### Section 285
 
 Subsection 700.1(1) of the Act is replaced by the following:
 
@@ -3412,7 +3394,7 @@ Subsection 700.1(1) of the Act is replaced by the following:
 
   **(1)** If a person is to give evidence under section 714.1 or under subsection 46(2) of the `Canada Evidence Act` — or is to give evidence or a statement under an order made under section 22.2 of the `Mutual Legal Assistance in Criminal Matters Act` — at a place within the jurisdiction of a court referred to in subsection 699(1) or (2) where the technology is available, a subpoena shall be issued out of the court to order the person to give that evidence at that place.
 
-### Section 289
+### Section 286
 
   **(1)** The portion of subsection 705(1) of the Act before paragraph (a) is replaced by the following:
 
@@ -3430,27 +3412,27 @@ Subsection 700.1(1) of the Act is replaced by the following:
 
     **(3)** Un mandat décerné par un juge de paix ou un juge de la cour provinciale en vertu des paragraphes (1) ou (2) peut être exécuté partout au Canada.
 
-### Section 290
+### Section 287
 
 Section 706 of the Act is replaced by the following:
 
 ### Section 706
 
-If a person is brought before a court, judge, provincial court judge or justice under a warrant issued under subsection 698(2) or section 704 or 705, the court, judge, provincial court judge or justice may, so that the person will appear and give evidence when required, order that the person be detained in custody or **be released on recognizance, with or without sureties**.
+If a person is brought before a court, judge, provincial court judge or justice under a warrant issued under subsection 698(2) or section 704 or 705, the court, judge, provincial court judge or justice may, so that the person will appear and give evidence when required, order that the person be detained in custody or be released on recognizance, with or without sureties.
 
-### Section 291
+### Section 288
 
 Subsection 707(3) of the Act is replaced by the following:
 
-**(3)** If the judge before whom a witness is brought under this section is not satisfied that the continued detention of the witness is justified, the judge shall order them to be discharged or **to be released on recognizance, with or without sureties**, so that the witness will appear and give evidence when required. However, if the judge is satisfied that the continued detention of the witness is justified, the judge may order their continued detention until they do what is required of them under section 550 or the trial is concluded, or until they appear and give evidence when required, except that the total period of detention of the witness from the time they were first detained in custody shall not in any case exceed 90 days.
+**(3)** If the judge before whom a witness is brought under this section is not satisfied that the continued detention of the witness is justified, the judge shall order them to be discharged or to be released on recognizance, with or without sureties, so that the witness will appear and give evidence when required. However, if the judge is satisfied that the continued detention of the witness is justified, the judge may order their continued detention until they do what is required of them under section 550 or the trial is concluded, or until they appear and give evidence when required, except that the total period of detention of the witness from the time they were first detained in custody shall not in any case exceed 90 days.
 
-### Section 292
+### Section 289
 
 Subsection 708(2) of the French version of the Act is replaced by the following:
 
 **(2)** Un tribunal, un juge, un juge de paix ou un juge de la cour provinciale peut traiter par voie sommaire une personne coupable d'un outrage au tribunal en vertu du présent article, et cette personne est passible d'une amende maximale de cent dollars et d'un emprisonnement maximal de quatre-vingt-dix jours, ou de l'une de ces peines, et il peut lui être ordonné de payer les frais résultant de la signification de tout acte judiciaire selon la présente partie et de sa détention, s'il en est.
 
-### Section 293
+### Section 290
 
 Sections 714.1 to 714.8 of the Act are replaced by the following:
 
@@ -3512,13 +3494,13 @@ Unless the court orders otherwise, a party who calls a witness to give evidence 
 
 Nothing in sections 714.1 to 714.7 is to be construed as preventing a court from receiving evidence by audioconference or videoconference, if the parties so consent.
 
-### Section 294
+### Section 291
 
 The Act is amended by adding the following after section 715:
 
 ### Section 715.01
 
-  **(1)** Despite section 715, the transcript of testimony given by a police officer, as defined in subsection 657.01(7), in the presence of an accused during a *voir dire* or preliminary inquiry held in relation to the accused's trial may be received in evidence at that trial.
+  **(1)** Despite section 715, the transcript of testimony given by a police officer, as defined in section 183, in the presence of an accused during a *voir dire* or preliminary inquiry held in relation to the accused's trial may be received in evidence at that trial.
 
   **(2)** No transcript is to be received in evidence unless the party intending to produce it has given to the party against whom it is intended to be produced reasonable notice of that intention together with a copy of the transcript.
 
@@ -3530,7 +3512,7 @@ The Act is amended by adding the following after section 715:
 
   **(6)** This section does not apply to any evidence received under subsection 540(7).
 
-### Section 295
+### Section 292
 
 The Act is amended by adding the following after section 715.2:
 
@@ -3619,13 +3601,13 @@ Despite anything in this Act, if an accused who is in prison does not have acces
 
   **(3)** The judge or justice may, at any time, cease the use of the technological means referred to in subsection (1) and take any measure that the judge or justice considers appropriate in the circumstances to preside at the proceeding.
 
-### Section 296
+### Section 293
 
 Subparagraph 718.2(a)(ii) of the Act is replaced by the following:
 
 evidence that the offender, in committing the offence, abused the offender's intimate partner,
 
-### Section 297
+### Section 294
 
 Section 718.3 of the Act is amended by adding the following after subsection (7):
 
@@ -3639,19 +3621,19 @@ Section 718.3 of the Act is amended by adding the following after subsection (7)
 
   life, if the maximum term of imprisonment for the offence is 14 years or more and up to imprisonment for life.
 
-### Section 298
+### Section 295
 
 Subsection 719(3.1) of the Act is replaced by the following:
 
 **(3.1)** Despite subsection (3), if the circumstances justify it, the maximum is one and one-half days for each day spent in custody.
 
-### Section 299
+### Section 296
 
 Subsection 730(2) of the Act is replaced by the following:
 
 **(2)** Subject to Part XVI, if an accused who has not been taken into custody or who has been released from custody under any provision of that Part pleads guilty to or is found guilty of an offence but is not convicted, the appearance notice, summons, undertaking or release order issued to, given or entered into by the accused continues in force, subject to its terms, until a disposition in respect of the accused is made under subsection (1) unless, at the time the accused pleads guilty or is found guilty, the court, judge or justice orders that the accused be taken into custody pending such a disposition.
 
-### Section 300
+### Section 297
 
   **(1)** Paragraph 732.1(2)(a.1) of the Act is repealed.
 
@@ -3661,19 +3643,19 @@ Subsection 730(2) of the Act is replaced by the following:
 
     abstain from communicating, directly or indirectly, with any victim, witness or other person identified in the order or from going to any place or geographic area specified in the order, except in accordance with any specified conditions that the court considers necessary;
 
-### Section 301
+### Section 298
 
 Paragraph 733.1(1)(b) of the Act is replaced by the following:
 
 an offence punishable on summary conviction.
 
-### Section 302
+### Section 299
 
 Paragraph 734(5)(b) of the Act is replaced by the following:
 
 the maximum term of imprisonment that the court could itself impose on conviction or, if the punishment for the offence does not include a term of imprisonment, five years in the case of an indictable offence or two years less a day in the case of a summary conviction offence.
 
-### Section 303
+### Section 300
 
 Section 734.4 of the Act is replaced by the following:
 
@@ -3699,7 +3681,7 @@ Section 734.4 of the Act is replaced by the following:
 
     the Governor in Council may direct that the proceeds that belong to Her Majesty in right of Canada shall be paid to that authority.
 
-### Section 304
+### Section 301
 
   **(1)** Subsection 737(1) of the Act is replaced by the following:
 
@@ -3731,13 +3713,13 @@ Section 734.4 of the Act is replaced by the following:
 
     **(10)** Subsections (1.1) and (5) to (6.2) apply to any offender who is sentenced for an offence under this Act or the `Controlled Drugs and Substances Act`, after the day on which those subsections come into force, regardless of whether or not the offence was committed before that day.
 
-### Section 305
+### Section 302
 
 Paragraph 738(1)(c) of the Act is replaced by the following:
 
 in the case of bodily harm or threat of bodily harm to the offender's intimate partner or child, or any other person, as a result of the commission of the offence or the arrest or attempted arrest of the offender, where the intimate partner, child or other person was a member of the offender's household at the relevant time, by paying to the person in question, independently of any amount ordered to be paid under paragraphs (a) and (b), an amount not exceeding actual and reasonable expenses incurred by that person, as a result of moving out of the offender's household, for temporary housing, food, child care and transportation, where the amount is readily ascertainable;
 
-### Section 306
+### Section 303
 
   **(1)** Subsections 742.3(1.1) to (1.3) of the Act are repealed.
 
@@ -3745,25 +3727,25 @@ in the case of bodily harm or threat of bodily harm to the offender's intimate p
 
     abstain from communicating, directly or indirectly, with any victim, witness or other person identified in the order or from going to any place or geographic area specified in the order, except in accordance with any specified conditions that the justice considers necessary;
 
-### Section 307
+### Section 304
 
 Paragraph 742.6(1)(e) of the Act is replaced by the following:
 
 if an offender is arrested for the alleged breach, the peace officer who makes the arrest or a judge or justice may release the offender and the offender's appearance may be compelled under the provisions referred to in paragraph (a); and
 
-### Section 308
+### Section 305
 
 Paragraph 743.21(2)(b) of the Act is replaced by the following:
 
 is guilty of an offence punishable on summary conviction.
 
-### Section 309
+### Section 306
 
 Section 745.64 of the Act is amended by adding the following after subsection (1):
 
 **(1.1)** The `Statutory Instruments Act` does not apply to those rules.
 
-### Section 310
+### Section 307
 
 Subsection 753.3(1) of the Act is replaced by the following:
 
@@ -3775,14 +3757,14 @@ Subsection 753.3(1) of the Act is replaced by the following:
 
     an offence punishable on summary conviction.
 
-### Section 311
+### Section 308
 
 The heading before section 762 of the Act is replaced by the following:
 
 
 ## Effect and Enforcement of Undertakings, Release Orders and Recognizances
 
-### Section 312
+### Section 309
 
 Subsection 762(1) of the Act is replaced by the following:
 
@@ -3790,13 +3772,13 @@ Subsection 762(1) of the Act is replaced by the following:
 
   **(1)** Applications for the forfeiture of an amount set out in an undertaking, release order or recognizance must be made to the courts designated in column II of the schedule of the respective provinces designated in column I of the schedule.
 
-### Section 313
+### Section 310
 
 Sections 763 to 768 of the Act are replaced by the following:
 
 ### Section 763
 
-  ****(1)**** If a person is bound by an undertaking, release order **or recognizance** to appear before a court, provincial court judge or justice for any purpose and the session or sittings of that court or the proceedings are adjourned or an order is made changing the place of trial, that person and their sureties continue to be bound by the undertaking, release order or **recognizance** as if it had been entered into or issued with respect to the resumed proceedings or the trial at the time and place at which the proceedings are ordered to be resumed or the trial is ordered to be held.
+  **(1)** If a person is bound by an undertaking, release order or recognizance to appear before a court, provincial court judge or justice for any purpose and the session or sittings of that court or the proceedings are adjourned or an order is made changing the place of trial, that person and their sureties continue to be bound by the undertaking, release order or recognizance as if it had been entered into or issued with respect to the resumed proceedings or the trial at the time and place at which the proceedings are ordered to be resumed or the trial is ordered to be held.
 
   **(2)** A summary of section 763 must be set out in any undertaking, release order or recognizance.
 
@@ -3838,7 +3820,7 @@ A surety for a person who is subject to a release order or recognizance may brin
 
 Nothing in this Part limits any right that a surety has of taking and giving into custody any person for whom they are a surety under a release order or recognizance.
 
-### Section 314
+### Section 311
 
 Sections 770 and 771 of the Act are replaced by the following:
 
@@ -3876,33 +3858,33 @@ Sections 770 and 771 of the Act are replaced by the following:
 
   **(4)** If a deposit has been made by a person against whom an order for forfeiture has been made, no writ of fieri facias may be issued, but the amount of the deposit must be transferred by the person who has custody of it to the person who is entitled by law to receive it.
 
-### Section 315
+### Section 312
 
   **(1)** The reference to "a recognizance" in column II of the schedule to Part XXV of the Act, opposite "Ontario" in column I, is replaced by a reference to "a release order or recognizance".
 
-  **(2)** The reference to "**all other** recognizances" in column II of the schedule to Part XXV of the Act, opposite "Ontario" in column I, is replaced by a reference to "undertakings **or all other** release orders or recognizances".
+  **(2)** The reference to "all other recognizances" in column II of the schedule to Part XXV of the Act, opposite "Ontario" in column I, is replaced by a reference to "undertakings or all other release orders or recognizances".
 
   **(3)** The references to "a recognizance" in column II of the schedule to Part XXV of the Act, oppos­ite "British Columbia" in column I, are replaced by references to "an undertaking, release order or recognizance".
 
-### Section 316
+### Section 313
 
 Subsection 779(2) of the Act is replaced by the following:
 
 **(2)** The provisions of Part XXV relating to forfeiture of an amount set out in a recognizance apply to a recognizance entered into under this section.
 
-### Section 317
+### Section 314
 
 Paragraph (b) of the definition **sentence** in section 785 of the Act is replaced by the following:
 
 an order made under subsection 109(1) or 110(1), section 259 or 261, subsection 730(1) or 737(1.1), (3) or (5) or section 738, 739, 742.1 or 742.3,
 
-### Section 318
+### Section 315
 
 Subsection 786(2) of the Act is replaced by the following:
 
 **(2)** No proceedings shall be instituted more than 12 months after the time when the subject matter of the proceedings arose, unless the prosecutor and the defendant so agree.
 
-### Section 319
+### Section 316
 
 Section 787 of the Act is replaced by the following:
 
@@ -3912,13 +3894,13 @@ Section 787 of the Act is replaced by the following:
 
   **(2)** If the imposition of a fine or the making of an order for the payment of money is authorized by law, but the law does not provide that imprisonment may be imposed in default of payment of the fine or compliance with the order, the court may order that in default of payment of the fine or compliance with the order, as the case may be, the defendant shall be imprisoned for a term of not more than two years less a day.
 
-### Section 320
+### Section 317
 
 Subsection 800(2.1) of the Act is replaced by the following:
 
 **(2.1)** If the summary conviction court so orders and the defendant agrees, the defendant who is confined in prison may appear by closed-circuit television or videoconference, as long as the defendant is given the opportunity to communicate privately with counsel if they are represented by counsel.
 
-### Section 320.1
+### Section 317.1
 
 Section 802.1 of the Act is replaced by the following:
 
@@ -3932,7 +3914,7 @@ the defendant is appearing to request an adjournment of the proceedings; or
 
 the agent is authorized to do so under a program approved — or criteria established — by the lieutenant governor in council of the province.
 
-### Section 321
+### Section 318
 
   **(1)** Subsection 806(1) of the Act is replaced by the following:
 
@@ -3948,7 +3930,7 @@ the agent is authorized to do so under a program approved — or criteria establ
 
     **(3)** If a warrant of committal in Form 21 is signed by a clerk of a court, a copy of the warrant of committal, certified by the clerk, is admissible in evidence in any proceeding.
 
-### Section 322
+### Section 319
 
   **(1)** Paragraph 810(1)(a) of the Act is replaced by the following:
 
@@ -3972,7 +3954,7 @@ the agent is authorized to do so under a program approved — or criteria establ
 
     **(4)** A warrant of committal to prison for failure or refusal to enter into the recognizance under subsection (3) may be in Form 23.
 
-### Section 323
+### Section 320
 
 Subsection 810.1(1) of the Act is replaced by the following:
 
@@ -3980,7 +3962,7 @@ Subsection 810.1(1) of the Act is replaced by the following:
 
   **(1)** Any person who fears on reasonable grounds that another person will commit an offence under section 151 or 152, subsection 153(1), section 155, subsection 160(2) or (3), section 163.1, 170, 171, 171.1, 172.1 or 172.2, subsection 173(2), section 271, 272, 273 or 279.011, subsection 279.02(2) or 279.03(2), section 280 or 281 or subsection 286.1(2), 286.2(2) or 286.3(2), in respect of one or more persons who are under the age of 16 years, may lay an information before a provincial court judge, whether or not the person or persons in respect of whom it is feared that the offence will be committed are named.
 
-### Section 324
+### Section 321
 
 Section 810.21 of the Act is replaced by the following:
 
@@ -3990,13 +3972,13 @@ Section 810.21 of the Act is replaced by the following:
 
   **(2)** Despite section 769, sections 714.1 to 714.8 and Part XXII.01 apply, with any necessary modifications, to proceedings under this section.
 
-### Section 325
+### Section 322
 
 Paragraph 811(b) of the Act is replaced by the following:
 
 an offence punishable on summary conviction.
 
-### Section 326
+### Section 323
 
 Section 816 of the Act is replaced by the following:
 
@@ -4008,7 +3990,7 @@ Section 816 of the Act is replaced by the following:
 
   **(2)** Sections 495.1, 512.3 and 524 apply, with any modifications that the circumstances require, in respect of any proceedings under this section.
 
-### Section 327
+### Section 324
 
   **(1)** Subsections 817(1) and (2) of the Act are replaced by the following:
 
@@ -4020,19 +4002,19 @@ Section 816 of the Act is replaced by the following:
 
   **(2)** Subsection 817(4) of the Act is repealed.
 
-### Section 328
+### Section 325
 
 Paragraph 825(a) of the Act is replaced by the following:
 
 the appellant has failed to comply with the conditions of a release order made under section 816 or of a recognizance entered into under section 817; or
 
-### Section 329
+### Section 326
 
 Subsection 828(3) of the Act is replaced by the following:
 
-**(3)** When a conviction or order that has been made by an appeal court is to be enforced by a justice, the clerk of the appeal court shall send to the justice the conviction or order and all writings relating to that conviction or order, except the notice of intention to appeal and any undertaking, release order or **recognizance**.
+**(3)** When a conviction or order that has been made by an appeal court is to be enforced by a justice, the clerk of the appeal court shall send to the justice the conviction or order and all writings relating to that conviction or order, except the notice of intention to appeal and any undertaking, release order or recognizance.
 
-### Section 330
+### Section 327
 
 Subsection 832(1) of the Act is replaced by the following:
 
@@ -4040,19 +4022,19 @@ Subsection 832(1) of the Act is replaced by the following:
 
   **(1)** If a notice of appeal is filed under section 830, the appeal court may, if the defendant is the appellant, make a release order as provided in section 816 or, in any other case, order that the appellant appear before a justice and enter into a recognizance as provided in section 817.
 
-### Section 331
+### Section 328
 
   **(1)** Item 8 of the schedule to Part XXVII of the Act is amended by replacing "recognizance" with "release order or recognizance".
 
   **(2)** Item 17 of the schedule to Part XXVII of the Act is amended by replacing "take recognizance of bail" with "make a release order or take a recognizance".
 
-### Section 332
+### Section 329
 
 Section 848 of the Act is repealed.
 
-### Section 333
+### Section 330
 
-The portion of Form 5.03 of Part XXVIII of the Act after the paragraph that begins with "**To**" and ends with "**(territorial division)**:" is replaced by the following:
+The portion of Form 5.03 of Part XXVIII of the Act after the paragraph that begins with "To" and ends with "(territorial division):" is replaced by the following:
 
 Whereas (*name of person*) has been convicted under the `Criminal Code`, discharged under section 730 of that Act or, in the case of a young person, found guilty under the `Young Offenders Act`, chapter Y-1 of the Revised Statutes of Canada, 1985, or the `Youth Criminal Justice Act` of (*offence*), which, on the day on which the person was sentenced or discharged, was a primary designated offence within the meaning of section 487.04 of the `Criminal Code`;
 
@@ -4064,19 +4046,19 @@ Dated (*date*), at (*place*).
 
 (*Signature of judge of the court or clerk of the court*)
 
-### Section 334
+### Section 331
 
-  ****(1)**** **The portion of** Form 5.04 of Part XXVIII of the Act **that begins with "Whereas" and ends with "the "offender"," is** replaced by the following:
+  **(1)** The portion of Form 5.04 of Part XXVIII of the Act that begins with "Whereas" and ends with "the "offender"," is replaced by the following:
 
-    Whereas **(*name of person*), in this order called the "person"**,
+    Whereas (*name of person*), in this order called the "person",
 
-  **(2)** The portion of **paragraph (b) of the English version of** Form 5.04 of Part XXVIII of the Act **before subparagraph (i)** is replaced by the following:
+  **(2)** The portion of paragraph (b) of the English version of Form 5.04 of Part XXVIII of the Act before subparagraph (i) is replaced by the following:
 
     has been convicted under the `Criminal Code`, discharged under section 730 of that Act or, in the case of a young person, found guilty under the `Young Offenders Act`, chapter Y-1 of the Revised Statutes of Canada, 1985, or the `Youth Criminal Justice Act`, of, or has been found not criminally responsible on account of mental disorder for, (*offence*), which, on the day on which the person was sentenced or discharged or the finding was made, was one of the following secondary designated offences within the meaning of section 487.04 of the `Criminal Code` (*check applicable box*):
 
-  **(3)** The portion of Form 5.04 of Part XXVIII of the Act **that follows subparagraph (b)(v)** is replaced by the following:
+  **(3)** The portion of Form 5.04 of Part XXVIII of the Act that follows subparagraph (b)(v) is replaced by the following:
 
-    Whereas the **person's** criminal record, the nature of the offence, the circumstances surrounding its commission, whether the **person** was previously found not criminally responsible on account of mental disorder for a designated offence, and the impact that this order would have on the **person's** privacy and security have been considered by the court;
+    Whereas the person's criminal record, the nature of the offence, the circumstances surrounding its commission, whether the person was previously found not criminally responsible on account of mental disorder for a designated offence, and the impact that this order would have on the person's privacy and security have been considered by the court;
 
     And whereas the court is satisfied that it is in the best interests of the administration of justice to make this order;
 
@@ -4088,7 +4070,7 @@ Dated (*date*), at (*place*).
 
     (*Signature of judge of the court or clerk of the court*)
 
-### Section 335
+### Section 332
 
   **(1)** The paragraph of Form 5.041 of Part XXVIII of the Act after the paragraph that begins with "Whereas" and ends with "analysis;" is replaced by the following:
 
@@ -4100,7 +4082,7 @@ Dated (*date*), at (*place*).
 
     (*Signature of judge of the court or clerk of the court*)
 
-### Section 336
+### Section 333
 
 The portion of Form 5.061 of Part XXVIII of the Act after subsection 487.0552(1) set out in that Form is replaced by the following:
 
@@ -4108,7 +4090,7 @@ Dated (*date*), at (*place*).
 
 (*Signature of judge of the court or clerk of the court*)
 
-### Section 337
+### Section 334
 
   **(1)** The two paragraphs of Form 6 of Part XXVIII of the Act after the paragraph that begins with "To A.B." and ends with "(*occupation*):" are replaced by the following:
 
@@ -4146,7 +4128,7 @@ Dated (*date*), at (*place*).
 
     You are warned that, unless you have a lawful excuse, it is an offence under subsection 145(3) of the `Criminal Code` to fail to appear for the purposes of the `Identification of Criminals Act` or to attend court, as required in this summons.
 
-    If you commit an offence under subsection 145(3) of the `Criminal Code`, a warrant for your arrest may be issued (Section 512 or **512.1** of the `Criminal Code`) and you may be liable to a fine or to imprisonment, or to both.
+    If you commit an offence under subsection 145(3) of the `Criminal Code`, a warrant for your arrest may be issued (Section 512 or 512.1 of the `Criminal Code`) and you may be liable to a fine or to imprisonment, or to both.
 
     If you do not comply with this summons or are charged with committing an indictable offence after it has been issued to you, this summons may be cancelled and, as a result, you may be detained in custody (Subsection 524(4) of the `Criminal Code`).
 
@@ -4160,7 +4142,7 @@ Dated (*date*), at (*place*).
 
     (*Name of the judge, justice or chairperson)*
 
-### Section 338
+### Section 335
 
 Form 7 of Part XXVIII of the Act is replaced by the following:
 
@@ -4176,7 +4158,7 @@ This warrant is issued for the arrest of (*name of person*), of ................
 
 Because the accused has been charged with (*set out briefly the offence in respect of which the accused is charged*);
 
-And because *(check those that are applicable)*:
+And because (*check those that are applicable*):
 
 (a) there are reasonable grounds to believe that it is necessary in the public interest to issue this warrant for the arrest of the accused [507(4), 512(1)];
 
@@ -4196,7 +4178,7 @@ And because *(check those that are applicable)*:
 
 (i) an indictment has been found against the accused and the accused has not appeared or remained in attendance before the court for their trial [597];
 
-(j) *(if none of the above applies, reproduce the provisions of the statute that authorize this warrant*).
+(j) (*if none of the above applies, reproduce the provisions of the statute that authorize this warrant*).
 
 Therefore, you are ordered, in Her Majesty's name, to immediately arrest the accused and to bring them before (*state court, judge or justice*), to be dealt with according to law.
 
@@ -4206,13 +4188,13 @@ Signed on (*date*), at (*place*).
 
 
 
-(*Signature of judge, provincial court judge, justice or clerk of the court)*
+(*Signature of judge, provincial court judge, justice or clerk of the court*)
 
 
 
-(*Name of the judge, provincial court judge or justice who has issued this warrant)*
+(*Name of the judge, provincial court judge or justice who has issued this warrant*)
 
-### Section 339
+### Section 336
 
   **(1)** The portion of Form 8 of Part XXVIII of the Act that begins with "I do hereby command" and ends with "Provincial Court Judge or Justice" is replaced by the following:
 
@@ -4236,7 +4218,7 @@ Signed on (*date*), at (*place*).
 
     Because the accused has been charged with (*set out briefly the offence in respect of which the accused is charged*);
 
-    And because *(check those that are applicable)*:
+    And because (*check those that are applicable*):
 
     (a) the prosecutor has shown cause why the detention of the accused in custody is justified [515(5)];
 
@@ -4246,9 +4228,9 @@ Signed on (*date*), at (*place*).
 
     (d) the accused has contravened or was about to contravene a (summons *or* appearance notice *or* undertaking *or* release order) and it was cancelled, and the detention of the accused in custody is justified [515(10), 523.1(3), 524(3) and (4)];
 
-    (e) there are reasonable grounds to believe that the accused has committed an indictable offence after having become subject to the (summons *or* appearance notice *o*r undertaking *or* release order) and the detention of the accused in custody is justified [515(10), 524(3) and (4)];
+    (e) there are reasonable grounds to believe that the accused has committed an indictable offence after having become subject to the (summons *or* appearance notice *or* undertaking *or* release order) and the detention of the accused in custody is justified [515(10), 524(3) and (4)];
 
-    (f) *(if none of the above applies, reproduce the provisions of the statute that authorize this warrant*).
+    (f) (*if none of the above applies, reproduce the provisions of the statute that authorize this warrant*).
 
     Therefore, you are ordered, in Her Majesty's name, to arrest the accused and convey them safely to the (*prison*) at ...................., and there deliver them to its keeper, with the following order:
 
@@ -4262,11 +4244,11 @@ Signed on (*date*), at (*place*).
 
     
 
-    (*Name of the judge or justice who has issued this warrant)*
+    (*Name of the judge or justice who has issued this warrant*)
 
     * *If the person having custody of the accused is authorized under paragraph 519(1)(b) of the `Criminal Code` to release the accused if they comply with a release order, endorse the authorization on this warrant and attach a copy of the order.*
 
-### Section 340
+### Section 337
 
 Forms 9 to 14 of Part XXVIII of the Act are replaced by the following:
 
@@ -4288,7 +4270,7 @@ Date of Birth: ....................
 
 *Alleged Offence*
 
-You are alleged to have committed (*set out briefly the substance of the offence,* *including any failure *referred to in section 496*, that the accused is alleged to have committed* ).
+You are alleged to have committed (*set out briefly the substance of the offence, including any failure referred to in section 496, that the accused is alleged to have committed*).
 
 (*Check if applicable*) No new charges are being laid against you at this time but you are required to appear at a judicial referral hearing under section 523.1 for a failure under section 496.
 
@@ -4328,23 +4310,23 @@ ACCUSED:
 
 I understand the contents of this appearance notice and agree to comply with it.
 
-Signed on *(date*), at (*place*).
+Signed on (*date*), at (*place*).
 
 
 
-(*Signature of accused)*
+(*Signature of accused*)
 
 PEACE OFFICER:
 
-Signed on *(date*), at (*place*).
+Signed on (*date*), at (*place*).
 
 
 
-(*Signature of peace officer)*
+(*Signature of peace officer*)
 
 
 
-(*Name of the peace officer)*
+(*Name of the peace officer*)
 
 Canada,
 
@@ -4364,7 +4346,7 @@ Date of Birth: ....................
 
 *Charge(s)*
 
-*(set out briefly the offence in respect of which the accused was charged)*
+(*set out briefly the offence in respect of which the accused was charged*)
 
 *Mandatory Condition*
 
@@ -4382,27 +4364,27 @@ Court address: ....................
 
 You must also comply with any conditions that are indicated below by a check mark (*check only those that are reasonable in the circumstances of the offence and necessary, to ensure the accused's attendance in court or the safety and security of any victim of or witness to the offence, or to prevent the continuation or repetition of the offence or the commission of another offence*):
 
-(a) You must report to *(name or title)* at *(place)* on *(date or dates)*.
+(a) You must report to (*name or title*) at (*place*) on (*date or dates*).
 
 (b) You must remain within the following territorial jurisdiction: ....................
 
-(c) You must notify *(name, title and phone number)* of any change of your (*address, employment or occupation*).
+(c) You must notify (*name, title and phone number*) of any change of your (*address, employment or occupation*).
 
 (d) You must not communicate, directly or indirectly, with ..................., except in accordance with the following conditions: ....................
 
 (e) You must not go to (*places which are related to the person(s) mentioned in the condition set out in paragraph (d)*), except in accordance with the following conditions: ....................
 
-(f) You must not enter the areas *(describe in detail the boundaries of the areas related to the person(s) mentioned in the condition set out in paragraph (d))*, except in accordance with the following conditions: ....................
+(f) You must not enter the areas (*describe in detail the boundaries of the areas related to the person(s) mentioned in the condition set out in paragraph (d)*), except in accordance with the following conditions: ....................
 
-(g) You must deposit all your passports with *(name or title)* at *(place)* before (*date*).
+(g) You must deposit all your passports with (*name or title*) at (*place*) before (*date*).
 
-(h) You must reside at (*place*), be at that residence between (*hour*) and *(hour),* and present yourself at the entrance of that residence when a peace officer or *(name and title of another person)* requests you to do so within those hours.
+(h) You must reside at (*place*), be at that residence between (*hour*) and (*hour*), and present yourself at the entrance of that residence when a peace officer or (*name and title of another person*) requests you to do so within those hours.
 
-(i) You must not possess a firearm, cross-bow, prohibited weapon, restricted weapon, prohibited device, ammunition, prohibited ammunition or explosive substance and you must surrender those that are in your possession and also any authorization, licence or registration certificate or other document enabling you to acquire or possess them to *(name or title)* at *(place)*.
+(i) You must not possess a firearm, cross-bow, prohibited weapon, restricted weapon, prohibited device, ammunition, prohibited ammunition or explosive substance and you must surrender those that are in your possession and also any authorization, licence or registration certificate or other document enabling you to acquire or possess them to (*name or title*) at (*place*).
 
 (j) You promise to pay the amount of ................... (*not more than $500*), if you fail to comply with a condition of this undertaking.
 
-(k) You must deposit money or other valuable security whose value is equal to the amount of ................... (*not more than $500*) with *(name or title)*, because you are not ordinarily resident in the province or do not reside within 200 km of the place in which you are in custody.
+(k) You must deposit money or other valuable security whose value is equal to the amount of ................... (*not more than $500*) with (*name or title*), because you are not ordinarily resident in the province or do not reside within 200 km of the place in which you are in custody.
 
 (l) You must comply with the following conditions (*conditions for ensuring the safety and security of any victim of or witness to the alleged offence*): ...................
 
@@ -4444,23 +4426,23 @@ I understand the contents of this undertaking and agree to comply with the manda
 
 I understand that I do not have to accept the conditions and that, if I do not accept the conditions, I will be brought to a justice for a bail hearing.
 
-Signed on *(date*), at (*place*).
+Signed on (*date*), at (*place*).
 
 
 
-(*Signature of accused)*
+(*Signature of accused*)
 
 PEACE OFFICER:
 
-Signed on *(date*), at (*place*).
+Signed on (*date*), at (*place*).
 
 
 
-(*Signature of peace officer)*
+(*Signature of peace officer*)
 
 
 
-(*Name of the peace officer)*
+(*Name of the peace officer*)
 
 Canada,
 
@@ -4480,7 +4462,7 @@ Date of Birth: ....................
 
 *Charge(s)*
 
-*(set out briefly the offence in respect of which the accused was charged)*
+(*set out briefly the offence in respect of which the accused was charged*)
 
 *Financial Obligations*
 
@@ -4494,25 +4476,25 @@ You promise to pay the amount of .................... if you fail to comply with
 
 You must deposit money in the amount of ...............or other valuable security whose value does not exceed .................... with the clerk of the court.
 
-The surety (*name*), born on *(date of birth*), (*promises to pay or deposits*) to the court the amount of .....................
+The surety (*name*), born on (*date of birth*), (*promises to pay or deposits*) to the court the amount of .....................
 
 *Conditions*
 
 You must comply with the conditions that are indicated below by a check mark.
 
-You must report to *(name or title)* at *(place)* on *(date or dates)*.
+You must report to (*name or title*) at (*place*) on (*date or dates*).
 
-You must remain within the territorial jurisdiction of *(province or territory).*
+You must remain within the territorial jurisdiction of (*province or territory*).
 
-You must notify *(name, title and phone number)* of any change of your (*address, employment or occupation*).
+You must notify (*name, title and phone number*) of any change of your (*address, employment or occupation*).
 
-You must not communicate, directly or indirectly, with *(victims, witnesses or other persons)*, except in accordance with the following conditions: ....................
+You must not communicate, directly or indirectly, with (*victims, witnesses or other persons*), except in accordance with the following conditions: ....................
 
 You must not go to (*place*) or enter (*geographic area*), except in accordance with the following conditions: ....................
 
-You must deposit all your passports with *(name or title)* at *(place)* before (*date*).
+You must deposit all your passports with (*name or title*) at (*place*) before (*date*).
 
-You must not possess a firearm, crossbow, prohibited weapon, restricted weapon, prohibited device, ammunition, prohibited ammunition or explosive substance and you must surrender any of them in your possession and any authorization, licence or registration certificate or other document enabling the acquisition or possession of a firearm to *(name or title)* at *(place)*.
+You must not possess a firearm, crossbow, prohibited weapon, restricted weapon, prohibited device, ammunition, prohibited ammunition or explosive substance and you must surrender any of them in your possession and any authorization, licence or registration certificate or other document enabling the acquisition or possession of a firearm to (*name or title*) at (*place*).
 
 You must comply with the following conditions (*conditions for ensuring the safety and security of any victim of or witness to the alleged offence*): ...................
 
@@ -4542,17 +4524,17 @@ SURETY: (*if applicable*)
 
 I understand my role and my responsibilities under this release order and I agree to act as a surety.
 
-I agree to *(promise or deposit)* to the court the amount of money described in section 4 of this release order.
+I agree to (*promise or deposit*) to the court the amount of money described in section 4 of this release order.
 
 Surety Declaration is attached (section 515.1 of the `Criminal Code`).
 
 Surety is excepted from providing Surety Declaration (subsection 515.1(2) of the `Criminal Code`).
 
-Signed on *(date*), at (*place*).
+Signed on (*date*), at (*place*).
 
 
 
-(*Signature of the surety)*
+(*Signature of the surety*)
 
 ACCUSED:
 
@@ -4560,23 +4542,23 @@ I understand the contents of this form and agree to comply with the conditions t
 
 I understand that I do not have to accept the conditions and that, if I do not accept the conditions, I will be detained.
 
-Signed on *(date*), at (*place*).
+Signed on (*date*), at (*place*).
 
 
 
-(*Signature of accused)*
+(*Signature of accused*)
 
 JUDGE, JUSTICE OR CLERK OF THE COURT:
 
-Signed on *(date*), at (*place*).
+Signed on (*date*), at (*place*).
 
 
 
-(*Signature of judge, justice or clerk of the court)*
+(*Signature of judge, justice or clerk of the court*)
 
 
 
-(*Name of judge or justice who has issued this order)*
+(*Name of judge or justice who has issued this order*)
 
 Canada,
 
@@ -4592,7 +4574,7 @@ Date of Birth: ....................
 
 Home address: ....................
 
-Phone number(s): .................... *(pri­mary)....................**(other)*
+Phone number(s): .................... (*pri­mary*) ....................(*other*)
 
 Other contact information (*if any*): ....................
 
@@ -4656,11 +4638,11 @@ I voluntarily make this declaration and it is my free choice to take on the resp
 
 *Signature*
 
-Signed on *(date*), at (*place*).
+Signed on (*date*), at (*place*).
 
 Sworn before me on (*date*), at (*place*).
 
-### Section 341
+### Section 338
 
   **(1)** The paragraph of Form 15 of Part XXVIII of the Act that begins with "And whereas" and ends with "charge;" is replaced by the following:
 
@@ -4674,7 +4656,7 @@ Sworn before me on (*date*), at (*place*).
 
     
 
-### Section 342
+### Section 339
 
   **(1)** The paragraph of Form 18 of Part XXVIII of the Act that begins with "And Whereas" and ends with "*abscond*);" is replaced by the following:
 
@@ -4688,7 +4670,7 @@ Sworn before me on (*date*), at (*place*).
 
     
 
-### Section 343
+### Section 340
 
 The portion of Form 19 of Part XXVIII of the Act after the portion that begins with "Person" and ends with "Remanded to" is replaced by the following:
 
@@ -4700,7 +4682,7 @@ Dated (*date*), at (*place*).
 
 
 
-### Section 344
+### Section 341
 
 Form 20 of Part XXVIII of the Act is replaced by the following:
 
@@ -4724,7 +4706,7 @@ Dated (*date*), at (*place*).
 
 (*Signature of justice or clerk of the court*)
 
-### Section 345
+### Section 342
 
 The portion of Form 22 of Part XXVIII of the Act after the paragraph that begins with "Whereas" and ends with "of ;" is replaced by the following:
 
@@ -4738,7 +4720,7 @@ Dated (*date*), at (*place*).
 
 
 
-### Section 346
+### Section 343
 
 Form 24 of Part XXVIII of the Act is replaced by the following:
 
@@ -4762,7 +4744,7 @@ Dated (*date*), at (*place*).
 
 (*Signature of justice or clerk of the court*)
 
-### Section 347
+### Section 344
 
 Form 25 of Part XXVIII of the Act is replaced by the following:
 
@@ -4772,7 +4754,7 @@ Province of ,
 
 (*territorial division*).
 
-To the peace officers in the (*territorial division*) and to the keeper of the (*prison*) at *(place*):
+To the peace officers in the (*territorial division*) and to the keeper of the (*prison*) at (*place*):
 
 Because E.F. of ...................., in this warrant called the defaulter, was on (*date*), at (*place*), convicted before .................... for contempt because the defaulter did not attend before .................... to give evidence on the trial of a charge that (*state offence as in the information*) against A.B. of ...................., although (duly subpoenaed or bound by recognizance to appear and give evidence in that regard, *as the case may be*) and did not show any sufficient excuse for the default;
 
@@ -4798,11 +4780,7 @@ Dated (*date*), at (*place*).
 
 (*Seal, if required*)
 
-### Section (2)
-
-[*Deleted*]
-
-### Section 348
+### Section 345
 
   **(1)** The portion of Form 27 of Part XXVIII of the Act after the paragraph that begins with "You are" and ends with "precept:" is replaced by the following:
 
@@ -4842,7 +4820,7 @@ Dated (*date*), at (*place*).
 
     (*Seal*, *if required*)
 
-### Section 349
+### Section 346
 
 Form 28 of Part XXVIII of the Act is replaced by the following:
 
@@ -4856,9 +4834,9 @@ In accordance with the application this day made to me, I authorize the arrest o
 
 Dated (*date*), at (*place*).
 
-*( Signature of justice)*
+(*Signature of justice*)
 
-### Section 350
+### Section 347
 
 Form 30 of Part XXVIII of the Act is replaced by the following:
 
@@ -4878,7 +4856,7 @@ Dated (*date*), at (*place*).
 
 (*Signature of justice or clerk of the court*)
 
-### Section 351
+### Section 348
 
   **(1)** The portion of Form 32 of Part XXVIII of the Act after the reference to "(*territorial division*)." and before the number 1 is replaced by the following:
 
@@ -4890,7 +4868,7 @@ Dated (*date*), at (*place*).
 
     Dated (*date*), at (*place*).
 
-    *(Signature of judge, provincial court judge, justice or clerk of the court)*
+    (*Signature of judge, provincial court judge, justice or clerk of the court*)
 
   **(2)** Paragraphs (d) and (e) of Form 32 of Part XXVIII of the Act after the heading "Schedule of Conditions" are replaced by the following:
 
@@ -4914,13 +4892,13 @@ Dated (*date*), at (*place*).
 
     Home address: ....................
 
-    Phone number(s): ....................*(primary)*.................... *(other)*
+    Phone number(s): ....................(*primary*).................... (*other*)
 
-    Other contact information *(if any)*: ....................
+    Other contact information (*if any*): ....................
 
-    Employment or Occupation *(if any)*: ....................
+    Employment or Occupation (*if any*): ....................
 
-    Name and contact information of employer *(if any)*: ....................
+    Name and contact information of employer (*if any*): ....................
 
     *Financial Promise or Deposit*
 
@@ -4938,7 +4916,7 @@ Dated (*date*), at (*place*).
 
     I understand that I may apply to a judge or a justice of the peace to have any condition in this form cancelled or varied.
 
-    ***Conditions in effect***
+    *Conditions in effect*
 
     I understand that the conditions in this recognizance remain in effect until they are cancelled or changed or until I have been discharged, sentenced or otherwise detained by the court (sections 763 and 764 of the `Criminal Code`).
 
@@ -4948,13 +4926,13 @@ Dated (*date*), at (*place*).
 
     I understand the contents of this form and agree to comply with the conditions that are listed above.
 
-    Signed on .................... (*date*), at ....................*(place)*.
+    Signed on .................... (*date*), at ....................(*place*).
 
     SURETY (*if applicable*):
 
     I understand my role and my responsibilities under this recognizance and I agree to act as a surety.
 
-    I agree to *(promise or deposit)* as security to the court the amount of $.....................
+    I agree to (*promise or deposit*) as security to the court the amount of $.....................
 
     I understand that if the person who is giving this recognizance fails to comply with any of the conditions in this recognizance, the money that I have promised or deposited may be forfeited.
 
@@ -4964,11 +4942,11 @@ Dated (*date*), at (*place*).
 
     Surety excepted from providing Surety Declaration. (Subsection 515.1(2) of the `Criminal Code`.)
 
-    Signed on .................... (*date*), at ....................*(place)*.
+    Signed on .................... (*date*), at ....................(*place*).
 
     JUDGE, PROVINCIAL COURT JUDGE, JUSTICE OR CLERK OF THE COURT:
 
-    Signed on .................... (*date*), at ....................*(place)*.
+    Signed on .................... (*date*), at ....................(*place*).
 
     *List of Conditions*
 
@@ -4998,7 +4976,7 @@ Dated (*date*), at (*place*).
 
     appears personally or by counsel at the sittings of the appeal court at which the appeal is to be heard (sections 817 and 832 of the `Criminal Code`);
 
-    appears in court as required (**sections** 550, **706 and 707** of the `Criminal Code`);
+    appears in court as required (sections 550, 706 and 707 of the `Criminal Code`);
 
     in the case where a warrant was issued under section 462.32 of the `Criminal Code` or a restraint order was made under subsection 462.33(3) of that Act in relation to any property (*set out a description of the property and its location*), refrains from doing or causing anything to be done that would result, directly or indirectly, in the disappearance, dissipation or reduction in value of the property or otherwise affect the property so that all or a part thereof could not be subject to an order of forfeiture under section 462.37 or 462.38 of that Act or any other provision of that Act or any other Act of Parliament (section 462.34 of the `Criminal Code`);
 
@@ -5016,7 +4994,7 @@ Dated (*date*), at (*place*).
 
     deposits all their passports as the judge, provincial court judge or justice directs.
 
-### Section 352
+### Section 349
 
   **(1)** The paragraph of Form 33 of Part XXVIII of the Act after the heading of the Form is replaced by the following:
 
@@ -5040,7 +5018,7 @@ Dated (*date*), at (*place*).
 
     Dated (*date*), at (*place*).
 
-### Section 353
+### Section 350
 
 Form 38 of Part XXVIII of the Act is replaced by the following:
 
@@ -5052,7 +5030,7 @@ Province of ,
 
 Be it remembered that on (*date*), at (*place*) in the (*territorial division*), E.F. of , in this conviction called the defaulter, is convicted for contempt in that they did not attend before (*set out court or justice*) to give evidence on the trial of a charge that (*state fully offence with which accused was charged*), although (duly subpoenaed or bound by recognizance to attend to give evidence, *as the case may be*) and has not shown any sufficient excuse for their default;
 
-The defaulter is therefore convicted for their default, (*set out punishment as authorized and determined in accordance with section 708 of the*`Criminal Code` ).
+The defaulter is therefore convicted for their default, (*set out punishment as authorized and determined in accordance with section 708 of the*`Criminal Code`).
 
 Dated (*date*), at (*place*).
 
@@ -5060,11 +5038,7 @@ Dated (*date*), at (*place*).
 
 (*Seal, if required*)
 
-### Section (2)
-
-[*Deleted*]
-
-### Section 354
+### Section 351
 
 Form 39 of Part XXVIII of the Act is replaced by the following:
 
@@ -5082,7 +5056,7 @@ You are directed to release E.F., detained by you under a (warrant of committal 
 
 (*Seal, if required*)
 
-### Section 355
+### Section 352
 
   **(1)** The portion of Form 48 of Part XXVIII of the Act after the reference to "(*territorial division*)" and before the first brackets "[ ]" is replaced by the following:
 
@@ -5098,7 +5072,7 @@ You are directed to release E.F., detained by you under a (warrant of committal 
 
     (*Signature of judge, provincial court judge, justice or clerk of the court*)
 
-### Section 356
+### Section 353
 
   **(1)** The paragraph of Form 49 of Part XXVIII of the English version of the Act that begins with "I do" and ends with "of law" is replaced by the following:
 
@@ -5113,37 +5087,37 @@ You are directed to release E.F., detained by you under a (warrant of committal 
 
 ### Transitional Provisions
 
-### Section 357
+### Section 354
 
 A person who is bound by a promise to appear given under the `Criminal Code` before the day on which subsection `1`(3) of this Act comes into force is deemed, on and after that day, to be bound by an appearance notice as defined in section 2 of the `Criminal Code`, as amended by subsection `1`(3) of this Act.
 
-### Section 358
+### Section 355
 
 A person who is bound by an undertaking given under section 499 or subsection 503(2.1) of the `Criminal Code` before the day on which subsection `1`(3) of this Act comes into force is deemed, on and after that day, to be bound by an undertaking as defined in section 2 of the `Criminal Code`, as amended by subsection `1`(3) of this Act.
 
-### Section 359
+### Section 356
 
 A person who is bound by a recognizance entered into under section 498 or 499 or subsection 503(2) of the `Criminal Code` before the day on which subsection `1`(3) of this Act comes into force is deemed, on and after that day, to be bound by an undertaking as defined in section 2 of the `Criminal Code`, as amended by subsection `1`(3) of this Act.
 
-### Section 360
+### Section 357
 
 A person who is bound by an undertaking given under subsection 503(3.1) or section 515, 522, 524, 525, 597, 679, 683, 816 or 832 of the `Criminal Code` before the day on which subsection `1`(3) of this Act comes into force is deemed, on and after that day, to be bound by a release order as defined in section 2 of the `Criminal Code`, as amended by subsection `1`(3) of this Act.
 
-### Section 361
+### Section 358
 
 A person who is bound by a recognizance entered into under subsection 503(3.1) or section 515, 522, 524, 525, 679, 683, 816 or 832 of the `Criminal Code` before the day on which subsection `1`(3) of this Act comes into force is deemed, on and after that day, to be bound by a release order as defined in section 2 of the `Criminal Code`, as amended by subsection `1`(3) of this Act.
 
-### Section 362
+### Section 359
 
-Any person accused of an offence before the day on which section `256` of this Act comes into force and who finds themselves in one of the cases described in subparagraph 561(1)(b)(i) or subsection 561(2) or 561.1(2) of the `Criminal Code`, as enacted by this Act, may, if they have not already done so and despite those provisions, elect another mode of trial not later than **14** days before the day first appointed for the trial and they may do so after that time with the written consent of the prosecutor.
+Any person accused of an offence before the day on which section `254` of this Act comes into force and who finds themselves in one of the cases described in subparagraph 561(1)(b)(i) or subsection 561(2) or 561.1(2) of the `Criminal Code`, as enacted by this Act, may, if they have not already done so and despite those provisions, elect another mode of trial not later than 14 days before the day first appointed for the trial and they may do so after that time with the written consent of the prosecutor.
 
-### Section 363
+### Section 360
 
-For any offence punishable on summary conviction committed before the coming into force of section `318`, no proceedings shall be instituted more than six months after the time when the subject matter of the proceedings arose, unless the prosecutor and the defendant so agree.
+For any offence punishable on summary conviction committed before the coming into force of section `315`, no proceedings shall be instituted more than six months after the time when the subject matter of the proceedings arose, unless the prosecutor and the defendant so agree.
 
-### Section 363.1
+### Section 360.1
 
-  **(1)** If, in accordance with section 83.32 of the `Criminal Code`, section 83.3 of that Act does not have effect on the day on which section 26 comes into force, then that section 26 is deemed never to have come into force and is repealed.
+  **(1)** If, in accordance with section 83.32 of the `Criminal Code`, section 83.3 of that Act does not have effect on the day on which section 24 comes into force, then that section 24 is deemed never to have come into force and is repealed.
 
   **(2)** However, if, after the day referred to in subsection (1), Bill C-59, introduced in the 1st session of the 42nd Parliament and entitled the `National Security Act, 2017`, receives royal assent and, by operation of section 157.1 of that Act, section 83.3 of the `Criminal Code` becomes effective again, then, as of the day on which that section 157.1 comes into force, the portion of subsection 83.3(6) of the `Criminal Code` before paragraph (a) is replaced by the following:
 
@@ -5155,13 +5129,13 @@ For any offence punishable on summary conviction committed before the coming int
 
 ### Amendments to the Act
 
-### Section 364
+### Section 361
 
 The `Youth Criminal Justice Act` is amended by adding the following after section 4:
 
 ### Section 4.1
 
-  **(1)** Extrajudicial measures are **presumed** to be ad­equate to hold a young person accountable for a failure or refusal referred to in section 137 and for a failure referred to in section 496 of the `Criminal Code` unless
+  **(1)** Extrajudicial measures are presumed to be ad­equate to hold a young person accountable for a failure or refusal referred to in section 137 and for a failure referred to in section 496 of the `Criminal Code` unless
 
     the young person has a history of repetitive failures or refusals; or
 
@@ -5173,7 +5147,7 @@ The `Youth Criminal Justice Act` is amended by adding the following after sectio
 
     if the use of extrajudicial measures would not be adequate under paragraph (a), but issuing an appearance notice under section 496 (judicial referral hearing) of the `Criminal Code` or making an application for review of the youth sentence referred to in section 59(1) as an alternative to proceeding by charge would be adequate, then the applicable alternative should be used.
 
-### Section 365
+### Section 362
 
 Subsection 6(1) of the Act is replaced by the following:
 
@@ -5181,7 +5155,7 @@ Subsection 6(1) of the Act is replaced by the following:
 
   **(1)** A police officer shall, before starting judicial proceedings or taking any other measures under this Act against a young person alleged to have committed an offence, consider whether it would be sufficient, having regard to the principles set out in sections 4 and 4.1, to take no further action, warn the young person, administer a caution, if a program has been established under section 7, or, with the consent of the young person, refer the young person to a program or agency in the community that may assist the young person not to commit offences.
 
-### Section 366
+### Section 363
 
 The Act is amended by adding the following after section 24:
 
@@ -5192,7 +5166,7 @@ The Act is amended by adding the following after section 24:
 
 If a charge for which an appearance notice, summons or release order was issued, or an undertaking was given, is dismissed, withdrawn or stayed, or the young person is acquitted of that charge, the Attorney General must review any charge pending against the young person under any of subsections 145(2) to (5) of the `Criminal Code` for failure to comply with the appearance notice, summons, release order or undertaking in order to determine whether the prosecution of the charge should proceed.
 
-### Section 367
+### Section 364
 
   **(1)** Subsection 25(2) of the Act is replaced by the following:
 
@@ -5202,7 +5176,7 @@ If a charge for which an appearance notice, summons or release order was issued,
 
     any undertaking entered into before a peace officer by the young person;
 
-### Section 368
+### Section 365
 
 Subsections 26(1) and (2) of the Act are replaced by the following:
 
@@ -5212,14 +5186,14 @@ Subsections 26(1) and (2) of the Act are replaced by the following:
 
   **(2)** Subject to subsection (4), if a summons or an appearance notice is issued in respect of a young person, the person who issued the summons or appearance notice, or, if a young person is released on an undertaking, a peace officer, shall, as soon as possible, give or cause to be given to a parent of the young person notice in writing of the summons, appearance notice or undertaking.
 
-### Section 369
+### Section 366
 
 The heading before section 28 of the Act is replaced by the following:
 
 
 ### Detention and Release
 
-### Section 370
+### Section 367
 
 The Act is amended by adding the following after section 28:
 
@@ -5227,7 +5201,7 @@ The Act is amended by adding the following after section 28:
 
 A peace officer, youth justice court judge or justice shall not detain a young person in custody, or impose a condition in respect of a young person's release by including it in an undertaking or release order, as a substitute for appropriate child protection, mental health or other social measures.
 
-### Section 371
+### Section 368
 
 Subsection 29(1) of the Act is replaced by the following:
 
@@ -5241,7 +5215,7 @@ Subsection 29(1) of the Act is replaced by the following:
 
     the young person will reasonably be able to comply with the condition.
 
-### Section 372
+### Section 369
 
 The Act is amended by adding the following after section 30:
 
@@ -5249,7 +5223,7 @@ The Act is amended by adding the following after section 30:
 
 For the purposes of section 525 of the `Criminal Code` with respect to a young person who has been charged with an offence for which they are being prosecuted in proceedings by way of summary conviction, every reference in that provision to "90 days" or "90-day" is to be read and construed as a reference to "30 days" or "30-day" respectively.
 
-### Section 373
+### Section 370
 
   **(1)** Subsection 37(4) of the Act is replaced by the following:
 
@@ -5259,7 +5233,7 @@ For the purposes of section 525 of the `Criminal Code` with respect to a young p
 
     **(11)** No appeal lies from a youth sentence under section 59 — other than subsection 59(10) — or under any of sections 94 to 96.
 
-### Section 374
+### Section 371
 
 Subsection 38(2) of the Act is amended by striking out "and" at the end of paragraph (e) and by adding the following after paragraph (e):
 
@@ -5271,13 +5245,13 @@ the young person will reasonably be able to comply with the condition, and
 
 the condition is not used as a substitute for appropriate child protection, mental health or other social measures; and
 
-### Section 375
+### Section 372
 
 Paragraph 39(1)(b) of the Act is replaced by the following:
 
 the young person has previously been found guilty of an offence under section `137` in relation to more than one sentence and, if the court is imposing a sentence for an offence under subsections 145(2) to (5) of the `Criminal Code` or section `137`, the young person caused harm, or a risk of harm, to the safety of the public in committing that offence;
 
-### Section 376
+### Section 373
 
   **(1)** Paragraph 42(2)(c) of the Act is replaced by the following:
 
@@ -5287,7 +5261,7 @@ the young person has previously been found guilty of an offence under section `1
 
     impose on the young person, in accordance with paragraph `38`(2)(e.1), any other conditions that the court considers appropriate.
 
-### Section 377
+### Section 374
 
   **(1)** Subsection 55(1) of the Act is replaced by the following:
 
@@ -5303,7 +5277,7 @@ the young person has previously been found guilty of an offence under section `1
 
     comply with any other conditions set out in the order that the youth justice court considers appropriate; and
 
-### Section 378
+### Section 375
 
   **(1)** Subsection 59(1) of the Act is replaced by the following:
 
@@ -5323,25 +5297,25 @@ the young person has previously been found guilty of an offence under section `1
 
       would assist the young person to comply with any conditions previously imposed as part of that sentence.
 
-### Section 379
+### Section 376
 
 Subsections 64(1.1) and (1.2) of the Act are repealed.
 
-### Section 380
+### Section 377
 
 Section 75 of the Act is repealed.
 
-### Section 381
+### Section 378
 
 Subsection 76(4) of the Act is replaced by the following:
 
 **(4)** Before making an order under subsection (1), the youth justice court may require that a report be prepared for the purpose of assisting the court.
 
-### Section 382
+### Section 379
 
-Subsection 110(2) of the Act is amended by adding "**or**" at the end of paragraph (a) and by repealing paragraph (b).
+Subsection 110(2) of the Act is amended by adding "or" at the end of paragraph (a) and by repealing paragraph (b).
 
-### Section 383
+### Section 380
 
 Section 134 of the Act is replaced by the following:
 
@@ -5349,7 +5323,7 @@ Section 134 of the Act is replaced by the following:
 
 Applications for the forfeiture of amounts set out in undertakings, release orders or recognizances binding young persons shall be made to the youth justice court.
 
-### Section 384
+### Section 381
 
   **(1)** Subsections 135(1) to (3) of the Act are replaced by the following:
 
@@ -5369,27 +5343,27 @@ Applications for the forfeiture of amounts set out in undertakings, release orde
 
     **(5)** If a deposit has been made by a person against whom an order for forfeiture has been made, no writ of *fieri facias* shall issue, but the amount of the deposit shall be transferred by the person who has custody of it to the person who is entitled by law to receive it.
 
-    **(6)** Subsections 770(2) (transmission to clerk of **the** court) and (4) (transmission of deposit) of **the** `Criminal Code` do not apply in respect of proceedings under this Act.
+    **(6)** Subsections 770(2) (transmission to clerk of the court) and (4) (transmission of deposit) of the `Criminal Code` do not apply in respect of proceedings under this Act.
 
-### Section 385
+### Section 382
 
 Paragraph 161(1)(a) of the Act is repealed.
 
-### Section 386
+### Section 383
 
 Paragraph 1(g) of the schedule to the Act is repealed.
 
 
 ### Transitional Provision
 
-### Section 387
+### Section 384
 
 Subsection 59(10) of the ``Youth Criminal Justice Act`` does not apply to the sentence for an offence committed before the coming into force of that subsection.
 
 
 ## Controlled Drugs and Substances Act
 
-### Section 388
+### Section 385
 
 Subsections 11(3) and (4) of the `Controlled Drugs and Substances Act` are replaced by the following:
 
@@ -5398,13 +5372,13 @@ Subsections 11(3) and (4) of the `Controlled Drugs and Substances Act` are repla
 
 ## An Act to amend the Criminal Code (exploitation and trafficking in persons)
 
-### Section 389
+### Section 386
 
 Section 5 of *An Act to amend the `Criminal Code` (exploitation and trafficking in persons)* is replaced by the following:
 
 ### Section 5
 
-  **(1)** Sections 1, 2 and 4 come into force on the day on which a Bill entitled `An Act to amend the Criminal Code, **the Youth Criminal Justice Act and other Acts and to make consequential amendments to other Acts**`, introduced in the 1st session of the 42nd Parliament, receives royal assent.
+  **(1)** Sections 1, 2 and 4 come into force on the day on which a Bill entitled `An Act to amend the Criminal Code, the Youth Criminal Justice Act and other Acts and to make consequential amendments to other Acts`, introduced in the 1st session of the 42nd Parliament, receives royal assent.
 
   **(2)** Section 3 comes into force on a day to be fixed by order of the Governor in Council.
 
@@ -5414,7 +5388,7 @@ Section 5 of *An Act to amend the `Criminal Code` (exploitation and trafficking 
 
 ### Competition Act
 
-### Section 390
+### Section 387
 
 Subsection 30.18(3) of the `Competition Act` is replaced by the following:
 
@@ -5423,7 +5397,7 @@ Subsection 30.18(3) of the `Competition Act` is replaced by the following:
 
 ### Identification of Criminals Act
 
-### Section 391
+### Section 388
 
 Paragraph 2(1)(c) of the `Identification of Criminals Act` is replaced by the following:
 
@@ -5432,13 +5406,13 @@ any person alleged to have committed an indictable offence, other than an offenc
 
 ### Parliament of Canada Act
 
-### Section 392
+### Section 389
 
 Paragraph 19.7(3)(g) of the `Parliament of Canada Act` is replaced by the following:
 
 the confirmation of an appearance notice or undertaking under section 508.
 
-### Section 393
+### Section 390
 
 Paragraph 52.7(3)(g) of the Act is replaced by the following:
 
@@ -5447,7 +5421,7 @@ the confirmation of an appearance notice or undertaking under section 508.
 
 ### Supreme Court Act
 
-### Section 394
+### Section 391
 
 Section 95 of the `Supreme Court Act` is replaced by the following:
 
@@ -5458,7 +5432,7 @@ Every commissioner for administering oaths in the Supreme Court, who resides wit
 
 ### Customs Act
 
-### Section 395
+### Section 392
 
 Subsection 163.5(1) of the `Customs Act` is replaced by the following:
 
@@ -5469,7 +5443,7 @@ Subsection 163.5(1) of the `Customs Act` is replaced by the following:
 
 ### Mutual Legal Assistance in Criminal Matters Act
 
-### Section 396
+### Section 393
 
 Subsection 23(3) of the `Mutual Legal Assistance in Criminal Matters Act` is replaced by the following:
 
@@ -5478,33 +5452,33 @@ Subsection 23(3) of the `Mutual Legal Assistance in Criminal Matters Act` is rep
 
 ### Corrections and Conditional Release Act
 
-### Section 397
+### Section 394
 
 Subparagraph (b)(ii) of the definition **sexual offence involving a child** in subsection 129(9) of the `Corrections and Conditional Release Act` is repealed.
 
-### Section 398
+### Section 395
 
 Paragraph 1(i) of Schedule I to the Act is repealed.
 
 
 ### Contraventions Act
 
-### Section 399
+### Section 396
 
 The heading before section 53 of the `Contraventions Act` is replaced by the following:
 
 
 ## Undertaking or Release Order
 
-### Section 400
+### Section 397
 
 Subsections 50(4) and (5) of the Act are replaced by the following:
 
-**(4)** A notice of election must have the contents required of a ticket by section 16 and state that, where a defendant entered into, was issued or was given, as the case may be, an undertaking, release order, summons or appearance notice, **the requirement to attend court in accordance with a summons, appearance notice, undertaking or release order**, the conditions in the undertaking or release order and the obligation to appear, for the purposes of the `Identification of Criminals Act`, as required by the summons, appearance notice or undertaking, as the case may be, cease to have effect.
+**(4)** A notice of election must have the contents required of a ticket by section 16 and state that, where a defendant entered into, was issued or was given, as the case may be, an undertaking, release order, summons or appearance notice, the requirement to attend court in accordance with a summons, appearance notice, undertaking or release order, the conditions in the undertaking or release order and the obligation to appear, for the purposes of the `Identification of Criminals Act`, as required by the summons, appearance notice or undertaking, as the case may be, cease to have effect.
 
-**(5)** **The requirement to attend court in accordance with a summons, appearance notice, undertaking or release order**, the conditions in an undertaking or release order and the obligation to appear, for the purposes of the `Identification of Criminals Act`, as required by a summons, appearance notice or undertaking, as the case may be, that was entered into by, issued to or given to a defendant, cease to have effect on the defendant's being notified of the election.
+**(5)** The requirement to attend court in accordance with a summons, appearance notice, undertaking or release order, the conditions in an undertaking or release order and the obligation to appear, for the purposes of the `Identification of Criminals Act`, as required by a summons, appearance notice or undertaking, as the case may be, that was entered into by, issued to or given to a defendant, cease to have effect on the defendant's being notified of the election.
 
-### Section 401
+### Section 398
 
   **(1)** Subsections 53(1) and (2) of the Act are replaced by the following:
 
@@ -5527,7 +5501,7 @@ Subsections 50(4) and (5) of the Act are replaced by the following:
 
 ### Crimes Against Humanity and War Crimes Act
 
-### Section 402
+### Section 399
 
 Subsection 20(2) of the `Crimes Against Humanity and War Crimes Act` is replaced by the following:
 
@@ -5536,7 +5510,7 @@ Subsection 20(2) of the `Crimes Against Humanity and War Crimes Act` is replaced
 
 ### Species at Risk Act
 
-### Section 403
+### Section 400
 
 Paragraph 108(1)(e) of the `Species at Risk Act` is replaced by the following:
 
@@ -5545,7 +5519,7 @@ the person and the Attorney General have concluded an agreement respecting the a
 
 ### Cannabis Act
 
-### Section 403.1
+### Section 400.1
 
 Subsections 87(3) and (4) of the `Cannabis Act` are replaced by the following:
 
@@ -5554,25 +5528,25 @@ Subsections 87(3) and (4) of the `Cannabis Act` are replaced by the following:
 
 ## Coordinating Amendments
 
-### Section 404
+### Section 401
 
   **(1)** Subsections (2) to (4) apply if Bill C-45, introduced in the 1st session of the 42nd Parliament and entitled the `Cannabis Act` (in this section referred to as the "other Act"), receives royal assent.
 
-  **(2)** If section 211 of the other Act comes into force before section `180` of this Act, then that section `180` is repealed.
+  **(2)** If section 211 of the other Act comes into force before section `178` of this Act, then that section `178` is repealed.
 
-  **(3)** If section 211 of the other Act comes into force on the same day as section `180` of this Act, then that section `180` is deemed to have come into force before that section 211.
+  **(3)** If section 211 of the other Act comes into force on the same day as section `178` of this Act, then that section `178` is deemed to have come into force before that section 211.
 
-  **(4)** On the first day on which both section 222 of the other Act and section `304` of this Act are in force, subsection 737(1) of the `Criminal Code` is replaced by the following:
+  **(4)** On the first day on which both section 222 of the other Act and section `301` of this Act are in force, subsection 737(1) of the `Criminal Code` is replaced by the following:
 
 ### Section 737
 
       **(1)** Subject to subsection (1.1), an offender who is convicted, or discharged under section 730, of an offence under this Act, the `Controlled Drugs and Substances Act` or the `Cannabis Act` shall pay a victim surcharge for each offence, in addition to any other punishment imposed on the offender.
 
-### Section 405
+### Section 402
 
   **(1)** Subsections (2) to (14) apply if Bill C-46, introduced in the 1st session of the 42nd Parliament and entitled `An Act to amend the Criminal Code (offences relating to conveyances) and to make consequential amendments to other Acts` (in this section referred to as the "other Act"), receives royal assent.
 
-  **(2)** On the first day on which both subsection 5(1) of the other Act and section `90` of this Act are in force, subsection 255(1) of the `Criminal Code` is replaced by the following:
+  **(2)** On the first day on which both subsection 5(1) of the other Act and section `88` of this Act are in force, subsection 255(1) of the `Criminal Code` is replaced by the following:
 
 ### Section 255
 
@@ -5594,7 +5568,7 @@ Subsections 87(3) and (4) of the `Cannabis Act` are replaced by the following:
 
         for each subsequent offence, imprisonment for a term of 120 days.
 
-  **(3)** On the first day on which both subsection 5(3) of the other Act and section `90` of this Act are in force, subsection 255(2.1) of the `Criminal Code` is replaced by the following:
+  **(3)** On the first day on which both subsection 5(3) of the other Act and section `88` of this Act are in force, subsection 255(2.1) of the `Criminal Code` is replaced by the following:
 
     **(2.1)** Every person who, while committing an offence under paragraph 253(1)(b) or 3(a) or (c), causes an accident resulting in bodily harm to another person is guilty of
 
@@ -5602,23 +5576,23 @@ Subsections 87(3) and (4) of the `Cannabis Act` are replaced by the following:
 
       an offence punishable on summary conviction and liable to the maximum and minimum punishments set out in paragraph (1)(b).
 
-  **(4)** If subsection 7(1) of the other Act comes into force before section `91` of this Act, then subsection `91`(3) of this Act is deemed never to have come into force and is repealed.
+  **(4)** If subsection 7(1) of the other Act comes into force before section `89` of this Act, then subsection `89`(3) of this Act is deemed never to have come into force and is repealed.
 
-  **(5)** If subsection 7(1) of the other Act comes into force on the same day as section `91` of this Act, then subsection `91`(3) of this Act is deemed to have come into force before that subsection 7(1).
+  **(5)** If subsection 7(1) of the other Act comes into force on the same day as section `89` of this Act, then subsection `89`(3) of this Act is deemed to have come into force before that subsection 7(1).
 
-  **(6)** If subsection 7(3) of the other Act comes into force before section `91` of this Act, then subsection `91`(4) of this Act is deemed never to have come into force and is repealed.
+  **(6)** If subsection 7(3) of the other Act comes into force before section `89` of this Act, then subsection `89`(4) of this Act is deemed never to have come into force and is repealed.
 
-  **(7)** If section `91` of this Act comes into force before subsection 7(3) of the other Act, then that subsection 7(3) is deemed never to have come into force and is repealed.
+  **(7)** If section `89` of this Act comes into force before subsection 7(3) of the other Act, then that subsection 7(3) is deemed never to have come into force and is repealed.
 
-  **(8)** If subsection 7(3) of the other Act comes into force on the same day as section `91` of this Act, then subsection `91`(4) of this Act is deemed never to have come into force and is repealed.
+  **(8)** If subsection 7(3) of the other Act comes into force on the same day as section `89` of this Act, then subsection `89`(4) of this Act is deemed never to have come into force and is repealed.
 
-  **(9)** If sections 14 and 15 of the other Act come into force before section `91` of this Act, then subsections `91`(1) and (2) of this Act are deemed never to have come into force and are repealed.
+  **(9)** If sections 14 and 15 of the other Act come into force before section `89` of this Act, then subsections `89`(1) and (2) of this Act are deemed never to have come into force and are repealed.
 
-  **(10)** If sections 14 and 15 of the other Act come into force on the same day as section `91` of this Act, then subsections `91`(1) and (2) of this Act are deemed to have come into force before those sections 14 and 15.
+  **(10)** If sections 14 and 15 of the other Act come into force on the same day as section `89` of this Act, then subsections `89`(1) and (2) of this Act are deemed to have come into force before those sections 14 and 15.
 
-  **(11)** If sections 14 and 15 of the other Act come into force before sections `87` to `90` of this Act, then on the day on which sections `87` to `90` come into force:
+  **(11)** If sections 14 and 15 of the other Act come into force before sections `85` to `88` of this Act, then on the day on which sections `85` to `88` come into force:
 
-    those sections `87` to `90` are deemed never to have come into force and are repealed;
+    those sections `85` to `88` are deemed never to have come into force and are repealed;
 
     subsection 320.19(1) of the `Criminal Code` is replaced by the following:
 
@@ -5672,17 +5646,17 @@ Subsections 87(3) and (4) of the `Cannabis Act` are replaced by the following:
 
     an offence punishable on summary conviction and liable to a fine of not more than $5,000 or to imprisonment for a term of not more than two years less a day, or to both, and to the minimum punishments set out in subparagraphs (a)(i) to (iii).
 
-  **(12)** If sections `87` to `90` of this Act come into force before sections 14 and 15 of the other Act, then on the day on which those sections 14 and 15 come into force, paragraphs (11)(b) to (e) apply.
+  **(12)** If sections `85` to `88` of this Act come into force before sections 14 and 15 of the other Act, then on the day on which those sections 14 and 15 come into force, paragraphs (11)(b) to (e) apply.
 
-  **(13)** If sections 14 and 15 of the other Act come into force on the same day as sections `87` to `90` of this Act, then those sections `87` to `90` are deemed to have come into force before those sections 14 and 15 and subsection (12) applies as a consequence.
+  **(13)** If sections 14 and 15 of the other Act come into force on the same day as sections `85` to `88` of this Act, then those sections `85` to `88` are deemed to have come into force before those sections 14 and 15 and subsection (12) applies as a consequence.
 
-  **(14)** On the first day on which both section 22 of the other Act and section `283` of this Act are in force, subsection 680(1) of the `Criminal Code` is replaced by the following:
+  **(14)** On the first day on which both section 22 of the other Act and section `280` of this Act are in force, subsection 680(1) of the `Criminal Code` is replaced by the following:
 
 ### Section 680
 
       **(1)** A decision made by a judge under section 522, a decision made under subsections 524(3) to (5) with respect to an accused referred to in paragraph 524(1)(a) or a decision made by a judge of the court of appeal under section 320.25 or 679 may, on the direction of the chief justice or acting chief justice of the court of appeal, be reviewed by that court and that court may, if it does not confirm the decision,
 
-### Section 406
+### Section 403
 
   **(1)** Subsections (2) to (27) apply if Bill C-51, introduced in the 1st session of the 42nd Parliament and entitled `An Act to amend the Criminal Code and the Department of Justice Act and to make consequential amendments to another Act` (in this section referred to as the "other Act"), receives royal assent.
 
@@ -5702,31 +5676,31 @@ Subsections 87(3) and (4) of the `Cannabis Act` are replaced by the following:
 
   **(5)** If section 5 of the other Act comes into force on the same day as section `14` of this Act, then that section 5 is deemed to have come into force before that section `14`.
 
-  **(6)** If section 7 of the other Act comes into force before section `40` of this Act, then subsection `40`(2) of this Act is repealed.
+  **(6)** If section 7 of the other Act comes into force before section `38` of this Act, then subsection `38`(2) of this Act is repealed.
 
-  **(7)** If section `40` of this Act comes into force before section 7 of the other Act, then subsections 7(1) and (3) of the other Act are deemed never to have come into force and are repealed.
+  **(7)** If section `38` of this Act comes into force before section 7 of the other Act, then subsections 7(1) and (3) of the other Act are deemed never to have come into force and are repealed.
 
-  **(8)** If section 7 of the other Act comes into force on the same day as section `40` of this Act, then that section `40` is deemed to have come into force before that section 7 and subsection (7) applies as a consequence.
+  **(8)** If section 7 of the other Act comes into force on the same day as section `38` of this Act, then that section `38` is deemed to have come into force before that section 7 and subsection (7) applies as a consequence.
 
-  **(9)** If section `49` of this Act comes into force before section 9 of the other Act, then that section 9 is deemed never to have come into force and is repealed.
+  **(9)** If section `47` of this Act comes into force before section 9 of the other Act, then that section 9 is deemed never to have come into force and is repealed.
 
-  **(10)** If section `49` of this Act comes into force on the same day as section 9 of the other Act, then that section 9 is deemed to have come into force before that section `49`.
+  **(10)** If section `47` of this Act comes into force on the same day as section 9 of the other Act, then that section 9 is deemed to have come into force before that section `47`.
 
-  **(10.1)** On the first day on which both section 25 of the other Act and section 75 of this Act are in force, paragraph 278.92(1)(a) of the `Criminal Code` is replaced by the following:
+  **(10.1)** On the first day on which both section 25 of the other Act and section 73 of this Act are in force, paragraph 278.92(1)(a) of the `Criminal Code` is replaced by the following:
 
     an offence under section 151, 152, 153, 153.1, 155, 160, 170, 171, 172, 173, 213, 271, 272, 273, 279.01, 279.011, 279.02, 279.03, 286.1, 286.2 or 286.3; or
 
-  **(11)** If section 29 of the other Act comes into force before section `118` of this Act, then subsection `118`(2) of this Act is repealed.
+  **(11)** If section 29 of the other Act comes into force before section `116` of this Act, then subsection `116`(2) of this Act is repealed.
 
-  **(12)** If section `118` of this Act comes into force before section 29 of the other Act, then subsections 29(1) and (3) of the other Act are deemed never to have come into force and are repealed.
+  **(12)** If section `116` of this Act comes into force before section 29 of the other Act, then subsections 29(1) and (3) of the other Act are deemed never to have come into force and are repealed.
 
-  **(13)** If section 29 of the other Act comes into force on the same day as section `118` of this Act, then that section 29 is deemed to have come into force before that section `118` and subsection (11) applies as a consequence.
+  **(13)** If section 29 of the other Act comes into force on the same day as section `116` of this Act, then that section 29 is deemed to have come into force before that section `116` and subsection (11) applies as a consequence.
 
-  **(14)** If section `131` of this Act comes into force before section 38 of the other Act, then that section 38 is deemed never to have come into force and is repealed.
+  **(14)** If section `129` of this Act comes into force before section 38 of the other Act, then that section 38 is deemed never to have come into force and is repealed.
 
-  **(15)** If section `131` of this Act comes into force on the same day as section 38 of the other Act, then that section 38 is deemed to have come into force before that section `131`.
+  **(15)** If section `129` of this Act comes into force on the same day as section 38 of the other Act, then that section 38 is deemed to have come into force before that section `129`.
 
-  **(16)** If subsection `159`(1) of this Act comes into force before section 46 of the other Act and that section 46 comes into force before subsection `159`(2) of this Act, then section 405 of the `Criminal Code` is replaced by the following:
+  **(16)** If subsection `157`(1) of this Act comes into force before section 46 of the other Act and that section 46 comes into force before subsection `157`(2) of this Act, then section 405 of the `Criminal Code` is replaced by the following:
 
 ### Section 405
 
@@ -5736,7 +5710,7 @@ Subsections 87(3) and (4) of the `Cannabis Act` are replaced by the following:
 
     an offence punishable on summary conviction.
 
-  **(17)** If subsection `159`(2) of this Act comes into force before section 46 of the other Act, then section 405 of the `Criminal Code` is replaced by the following:
+  **(17)** If subsection `157`(2) of this Act comes into force before section 46 of the other Act, then section 405 of the `Criminal Code` is replaced by the following:
 
 ### Section 405
 
@@ -5746,9 +5720,9 @@ Subsections 87(3) and (4) of the `Cannabis Act` are replaced by the following:
 
     an offence punishable on summary conviction.
 
-  **(18)** If section 46 of the other Act comes into force on the same day as subsection `159`(1) of this Act, then that section 46 is deemed to have come into force before that subsection `159`(1).
+  **(18)** If section 46 of the other Act comes into force on the same day as subsection `157`(1) of this Act, then that section 46 is deemed to have come into force before that subsection `157`(1).
 
-  **(19)** If section 46 of the other Act comes into force on the same day as subsection `159`(2) of this Act, then section 405 of the `Criminal Code` is replaced by the following:
+  **(19)** If section 46 of the other Act comes into force on the same day as subsection `157`(2) of this Act, then section 405 of the `Criminal Code` is replaced by the following:
 
 ### Section 405
 
@@ -5758,29 +5732,29 @@ Subsections 87(3) and (4) of the `Cannabis Act` are replaced by the following:
 
     an offence punishable on summary conviction.
 
-  **(20)** If section 48 of the other Act comes into force before section `160` of this Act, then subsection `160`(2) of this Act is repealed.
+  **(20)** If section 48 of the other Act comes into force before section `158` of this Act, then subsection `158`(2) of this Act is repealed.
 
-  **(21)** If section `160` of this Act comes into force before section 48 of the other Act, then subsections 48(1) and (3) of the other Act are deemed never to have come into force and are repealed.
+  **(21)** If section `158` of this Act comes into force before section 48 of the other Act, then subsections 48(1) and (3) of the other Act are deemed never to have come into force and are repealed.
 
-  **(22)** If section 48 of the other Act comes into force on the same day as section `160` of this Act, then that section 48 is deemed to have come into force before that section `160` and subsection (20) applies as a consequence.
+  **(22)** If section 48 of the other Act comes into force on the same day as section `158` of this Act, then that section 48 is deemed to have come into force before that section `158` and subsection (20) applies as a consequence.
 
-  **(23)** If section `177` of this Act comes into force before section 56 of the other Act, then that section 56 is deemed never to have come into force and is repealed.
+  **(23)** If section `175` of this Act comes into force before section 56 of the other Act, then that section 56 is deemed never to have come into force and is repealed.
 
-  **(24)** If section 56 of the other Act comes into force on the same day as section `177` of this Act, then that section 56 is deemed to have come into force before that section `177`.
+  **(24)** If section 56 of the other Act comes into force on the same day as section `175` of this Act, then that section 56 is deemed to have come into force before that section `175`.
 
-  **(25)** If section 66 of the other Act comes into force before section `298` of this Act, then that section `298` is repealed.
+  **(25)** If section 66 of the other Act comes into force before section `295` of this Act, then that section `295` is repealed.
 
-  **(26)** If section `298` of this Act comes into force before section 66 of the other Act, then that section 66 is deemed never to have come into force and is repealed.
+  **(26)** If section `295` of this Act comes into force before section 66 of the other Act, then that section 66 is deemed never to have come into force and is repealed.
 
-  **(27)** If section 66 of the other Act comes into force on the same day as section `298` of this Act, then that section `298` is deemed never to have come into force and is repealed.
+  **(27)** If section 66 of the other Act comes into force on the same day as section `295` of this Act, then that section `295` is deemed never to have come into force and is repealed.
 
-  **(28)** If subsection `337`(3) and section `340` of this Act come into force before subsections 69(1) and (2) and sections 70, 71 and 72 of the other Act, then those subsections 69(1) and (2) and sections 70, 71 and 72 are deemed never to have come into force and are repealed.
+  **(28)** If subsection `334`(3) and section `337` of this Act come into force before subsections 69(1) and (2) and sections 70, 71 and 72 of the other Act, then those subsections 69(1) and (2) and sections 70, 71 and 72 are deemed never to have come into force and are repealed.
 
-  **(29)** If subsection 69(1) and (2) and sections 70, 71 and 72 of the other Act come into force on the same day as subsection `337`(3) and section `340` of this Act, then those subsections 69(1) and (2) and sections 70, 71 and 72 are deemed to have come into force before that subsection `337`(3) and that section `340`.
+  **(29)** If subsection 69(1) and (2) and sections 70, 71 and 72 of the other Act come into force on the same day as subsection `334`(3) and section `337` of this Act, then those subsections 69(1) and (2) and sections 70, 71 and 72 are deemed to have come into force before that subsection `334`(3) and that section `337`.
 
-### Section 407
+### Section 404
 
-  **(1)** Subsections (2) to (12) apply if Bill C-59, introduced in the 1st session of the 42nd Parliament and entitled the `National Security Act, 2017` (in this section referred to as the "other Act"), receives royal assent.
+  **(1)** Subsections (2) to (9) apply if Bill C-59, introduced in the 1st session of the 42nd Parliament and entitled the `National Security Act, 2017` (in this section referred to as the "other Act"), receives royal assent.
 
   **(2)** If section 140 of the other Act comes into force before subsection `1`(1) of this Act, then paragraph 2.3(1)(f) of the `Criminal Code`, as enacted by section `2` of this Act, is replaced by the following:
 
@@ -5796,42 +5770,28 @@ Subsections 87(3) and (4) of the `Cannabis Act` are replaced by the following:
 
   **(4)** If section 140 of the other Act comes into force on the same day as subsection `1`(1) of this Act, then that section 140 is deemed to have come into force before that subsection `1`(1) and subsection (2) applies as a consequence.
 
-  **(5)** On the first day on which both section 143 of the other Act and section `22` of this Act are in force, subsection 83.221(1) of the `Criminal Code` is replaced by the following:
+  **(5)** If section 162 of the other Act comes into force before section `366` of this Act, then that section `366` is repealed.
 
-### Section 83.221
+  **(6)** If section `366` of this Act comes into force before section 162 of the other Act, then that section 162 is deemed never to have come into force and is repealed.
 
-      **(1)** Every person who counsels another person to commit a terrorism offence **without identifying a specific terrorism offence** is guilty of
+  **(7)** If section 162 of the other Act comes into force on the same day as section `366` of this Act, then that section `366` is deemed never to have come into force and is repealed.
 
-        an indictable offence and liable to imprisonment for a term of not more than five years; or
+  **(8)** If section `368` of this Act comes into force before section 163 of the other Act, then that section 163 is deemed never to have come into force and is repealed.
 
-        an offence punishable on summary conviction.
-
-  **(6)** [*Deleted*]
-
-  **(7)** [*Deleted*]
-
-  **(8)** If section 162 of the other Act comes into force before section `369` of this Act, then that section `369` is repealed.
-
-  **(9)** If section `369` of this Act comes into force before section 162 of the other Act, then that section 162 is deemed never to have come into force and is repealed.
-
-  **(10)** If section 162 of the other Act comes into force on the same day as section `369` of this Act, then that section `369` is deemed never to have come into force and is repealed.
-
-  **(11)** If section `371` of this Act comes into force before section 163 of the other Act, then that section 163 is deemed never to have come into force and is repealed.
-
-  **(12)** If section `371` of this Act comes into force on the same day as section 163 of the other Act, then that section 163 is deemed to have come into force before that section `371`.
+  **(9)** If section `368` of this Act comes into force on the same day as section 163 of the other Act, then that section 163 is deemed to have come into force before that section `368`.
 
 
 ## Coming into Force
 
-### Section 408
+### Section 405
 
-Sections `281`, `304` and `317` come into force on the 30th day after the day on which this Act receives royal assent.
+Sections `278`, `301` and `314` come into force on the 30th day after the day on which this Act receives royal assent.
 
-### Section 409
+### Section 406
 
-Subsections `1`(1) and (2), sections `2` and `3`, subsection `4`(1), sections `6` to `24`, `27` to `31`, `35` to `48`, `50` to `52` and `54`, subsection `57`(2), sections `58` to `61`, 63, 65, **66 to 71, 72 to 74, 76** to 78, 81 to 90, 92, 94 to 99, 105 to 112 and 114 to `158`, subsection `159`(1), sections `160` to `183` and `185` to `188`, subsection `189`(2), sections `190`, `193` to `203`, `205` to `210` and `218`, subsection `227`(2), sections `239` to `246`, subsections `247`(1) to (3), sections `248`, `249`, 252, **253, 254** and 255, subsections 256(1), (4) and (5) and `257`(1), (2), (4) and (5), sections `258` to `261`, subsection `262`(1), sections `263` to `265`, `267`, `269` to `278` and `280`, subsections `284`(1) and (2), sections `285` to `289`, `292` to `297`, `301`, `302`, `305`, `308` to `310`, `318` to `322`, `324`, `325` and `332` to `336`, subsections `337`(1) and (2) and 339(1), sections 341 to **347**, subsection 348(1), sections 349 and 350, subsections 351(1) and (2) and 352(1) and (2), sections **353** to 356, subsection 373(1) and sections 379 to 382, 385, 388, 402 and **403.1** come into force on the 90th day after the day on which this Act receives royal assent.
+Subsections 1(1) and (2), sections 2 and 3, subsection 4(1), sections 6 to 23, 25 to 29, 33 to 46, 48 to 50 and 52, subsection 55(2), sections 56 to 59, 61, 63, 64 to 69, 70 to 72, 74 to 76, 79 to 88, 90, 92 to 97, 103 to 110 and 112 to 156, subsection 157(1), sections 158 to 181 and 183 to 186, subsection 187(2), sections 188, 191 to 201, 203 to 208 and 216, subsection 225(2), sections 237 to 244, subsections 245(1) to (3), sections 246, 247, 250, 251, 252 and 253, subsections 254(1), (4) and (5) and 255(1), (2), (4) and (5), sections 256 to 259, subsection 260(1), sections 261 to 263, 265, 267 to 275 and 277, subsections 281(1) and (2), sections 282 to 286, 289 to 294, 298, 299, 302, 305 to 307, 315 to 319, 321, 322 and 329 to 333, subsections 334(1) and (2) and 336(1), sections 338 to 344, subsection 345(1), sections 346 and 347, subsections 348(1) and (2) and 349(1) and (2), sections 350 to 353, subsection 370(1) and sections 376 to 379, 382, 385, 399 and 400.1 come into force on the 90th day after the day on which this Act receives royal assent.
 
-### Section 410
+### Section 407
 
-Subsection `1`(3), sections `5`, `26`, `32` to `34`, `49` and `93`, subsection `159`(2), section `184`, subsection `189`(1), sections `211` to `217`, sections `219` to `226`, subsections `227`(1) and (3) to (7), sections `228` to `238`, subsection `247`(4), sections `250` and `251`, subsections `256`(2) and (3), `257`(3) and `262`(2), sections `266`, `268`, `279`, `282` and `283`, subsections `284`(3) and (4), sections `290`, `291`, `298`, `299`, `300`, `303`, `306`, `307`, `311` to `316` and `326` to `331`, subsection `337`(3), section `338`, subsection 339(2), section 340, subsections 348(2), 351(3) and 352(3), sections 364 to 372, subsection `373`(2), sections `374` to `378`, `383`, `384`, `390` to `396`, `399` to `401` and `403` come into force on the 180th day after the day on which this Act receives royal assent.
+Subsection 1(3), sections 5, 24, 30 to 32, 47 and 91, subsection 157(2), section 182, subsection 187(1), sections 209 to 215, sections 217 to 224, subsections 225(1) and (3) to (7), sections 226 to 236, subsection 245(4), sections 248 and 249, subsections 254(2) and (3), 255(3) and 260(2), sections 264, 266, 276, 279 and 280, subsections 281(3) and (4), sections 287, 288, 295, 296, 297, 300, 303, 304, 308 to 313 and 323 to 328, subsection 334(3), section 335, subsection 336(2), section 337, subsections 345(2), 348(3) and 349(3), sections 361 to 369, subsection 370(2), sections 371 to 375, 380, 381, 387 to 393, 396 to 398 and 400 come into force on the 180th day after the day on which this Act receives royal assent.
 
