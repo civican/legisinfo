@@ -1,7 +1,5 @@
 # Bill C-86: A second Act to implement certain provisions of the budget tabled in Parliament on February 27, 2018 and other measures
 
-**Sponsor**: MINISTER OF FINANCE
-
 Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*A second Act to implement certain provisions of the budget tabled in Parliament on February 27, 2018 and other measures*".
 
 ## Summary
@@ -4373,7 +4371,7 @@ The `Canada Business Corporations Act` is amended by adding the following after 
 
     an interest or right, or a combination of interests or rights, referred to in paragraph (1)(a) is held jointly by those individuals; or
 
-    a right, or combination of rights**,** referred to in paragraph (1)(a) is subject to any agreement or arrangement under which the right or rights are to be exercised jointly or in concert by those individuals.
+    a right, or combination of rights, referred to in paragraph (1)(a) is subject to any agreement or arrangement under which the right or rights are to be exercised jointly or in concert by those individuals.
 
   **(3)** For the purposes of this section, a significant number of shares of a corporation is
 
@@ -5430,7 +5428,7 @@ have the status of bankrupt;
 
 are a member of an association whose primary purpose is to represent the interests of persons who provide advice on patents or trade-marks;
 
-were, within the preceding 12 months, a member of a governing body or a **steering** committee of an association referred to in paragraph (c);
+were, within the preceding 12 months, a member of a governing body or a steering committee of an association referred to in paragraph (c);
 
 in the case of an appointment to the Board,
 
@@ -5476,7 +5474,7 @@ become bankrupt;
 
 become a member of an association whose primary purpose is to represent the interests of persons who provide advice on patents or trade-marks;
 
-become a member of a governing body or a **steering** committee of an association referred to in paragraph (d);
+become a member of a governing body or a steering committee of an association referred to in paragraph (d);
 
 are removed from office under section `16`;
 
@@ -6727,9 +6725,9 @@ Subsection 38.1(4) of the Act is replaced by the following:
 
 **(4.1)** Subsection (4) applies with respect to the following acts:
 
-  the performance in public of musical works or dramatico-musical works, of performer's performances of such works, or **of sound recordings embodying such works or performances**; and
+  the performance in public of musical works or dramatico-musical works, of performer's performances of such works, or of sound recordings embodying such works or performances; and
 
-  the communication to the public by telecommunication of musical works or dramatico-musical works, other than as described in subsection 31(2), of performer's performances of such works, or **of sound recordings embodying such works or performances**.
+  the communication to the public by telecommunication of musical works or dramatico-musical works, other than as described in subsection 31(2), of performer's performances of such works, or of sound recordings embodying such works or performances.
 
 ### Section 288
 
@@ -7569,7 +7567,7 @@ The Act is amended by adding the following after section 627:
 
     **deposit-type instrument** means a product that is issued in Canada by an institution, that is related to a deposit and that specifies a fixed investment period and either
 
-    a fixed rate of interest, or
+    a fixed rate of interest; or
 
     a variable rate of interest that is calculated on the basis of the institution's prime lending rate or bankers' acceptance rate. (**instrument de type dépôt**)
 
@@ -11425,7 +11423,7 @@ A group of employers is deemed to have updated a pay equity plan on the day on w
 
 ### Section 92
 
-If a federal work, undertaking or business, as defined in section 2 of the `Canada Labour Code`, or any part of it — **or a corporation established to perform any duty or function on behalf of the Government of Canada, or any part of the corporation, other than a corporation named in Schedule IV or V of the `Financial Administration Act`** — is leased or transferred by sale, merger or other­wise from one employer, in this section referred to as the "former employer", to another employer, in this section referred to as the "new employer", and the former employer had posted, or is deemed to be the employer that had posted, as the case may be, a pay equity plan in accordance with section `55`, subsection `57`(2), section `83` or subsection `85`(2),
+If a federal work, undertaking or business, as defined in section 2 of the `Canada Labour Code`, or any part of it — or a corporation established to perform any duty or function on behalf of the Government of Canada, or any part of the corporation, other than a corporation named in Schedule IV or V of the `Financial Administration Act` — is leased or transferred by sale, merger or other­wise from one employer, in this section referred to as the "former employer", to another employer, in this section referred to as the "new employer", and the former employer had posted, or is deemed to be the employer that had posted, as the case may be, a pay equity plan in accordance with section `55`, subsection `57`(2), section `83` or subsection `85`(2),
 
 the new employer is deemed to be the employer that posted the pay equity plan;
 
@@ -12088,7 +12086,7 @@ If the Pay Equity Commissioner considers it appropriate in the circumstances, he
 
     if he or she finds that all or any part of the objection is substantiated, make an order in writing directing the employer to, within the time specified in the order,
 
-    take any measures that the Pay Equity Commissioner considers appropriate in relation to the pay equity plan in question, including the payment of any differences in compensation and interest that are owed to employees in accordance with any of sections `60` to `63` or `88`, with any adaptations that may be required; or
+    take any measures that the Pay Equity Commissioner considers appropriate in relation to the pay equity plan in question, including the payment of any differences in compensation and interest that are owed to employees in accordance with any of sections `60` to `63` or `88`, with any adaptations that may be required, or
 
     amend the pay equity plan.
 
@@ -12108,7 +12106,7 @@ If the Pay Equity Commissioner considers it appropriate in the circumstances, he
 
     if he or she finds that all or any part of the complaint is substantiated,
 
-    in respect of a complaint filed under any of subsections `149`(1), `150`(1) or `151`(1), make an order in writing under section `119`; or
+    in respect of a complaint filed under any of subsections `149`(1), `150`(1) or `151`(1), make an order in writing under section `119`, or
 
     in respect of a complaint filed under any of subsections `149`(2), `150`(3) or `151`(2), make an order in writing requiring the employer or bargaining agent to terminate the behaviour within the time specified in the order or to take any measures specified in the order, within the time specified in the order, to ensure that the behaviour does not continue or reoccur.
 
@@ -16175,7 +16173,7 @@ The Act is amended by adding the following after section 3:
 
 ### Section 3.1
 
-For the purposes of this Act, the Governor in Council may make regulations defining the expression "official development assistance", **in which case, the Governor in Council must take into account, among other things, the most recent definition of "official development assistance" formulated by the Development Assistance Committee of the Organisation for Economic Co-operation and Development**.
+For the purposes of this Act, the Governor in Council may make regulations defining the expression "official development assistance", in which case, the Governor in Council must take into account, among other things, the most recent definition of "official development assistance" formulated by the Development Assistance Committee of the Organisation for Economic Co-operation and Development.
 
 ### Section 658
 
