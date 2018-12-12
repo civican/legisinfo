@@ -1,7 +1,5 @@
 # Bill S-244: An Act respecting Kindness Week
 
-**Sponsor**: Senator Munson
-
 ## Summary
 
 This enactment designates the third week of February in each and every year as "Kindness Week".
