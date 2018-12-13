@@ -75,7 +75,7 @@ The Act is amended by adding the following before section 95:
 
 ### Section 93.1
 
-Subject to section 6 of the `Privacy Act`, information collected under sections 92 and 93 shall be retained for 15 years beginning on the day on which the information is collected.
+Subject to section 6 of the `Privacy Act`, information collected under sections 92 and 93 shall be retained by the Agency for a period of not more than 15 years beginning on the day on which the information is collected.
 
 ### Section 94
 
