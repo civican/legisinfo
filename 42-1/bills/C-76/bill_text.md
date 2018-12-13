@@ -3516,7 +3516,7 @@ The Act is amended by adding the following after section 349:
 
 ### Section 349.02
 
-No third party shall use funds for a partisan activity, for advertising or for an election survey if the source of the funds is a foreign entity.
+No third party shall use funds for a partisan activity, for advertising, for election advertising or for an election survey if the source of the funds is a foreign entity.
 
 ### Section 349.03
 
