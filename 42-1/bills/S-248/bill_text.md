@@ -1,5 +1,7 @@
 # Bill S-248: An Act respecting National Physicians' Day
 
+**Sponsor**: Senator Eggleton, P.C.
+
 ## Summary
 
 This enactment designates May 1 as "National Physicians' Day".
