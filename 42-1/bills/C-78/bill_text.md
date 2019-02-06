@@ -1,7 +1,5 @@
 # Bill C-78: An Act to amend the Divorce Act, the Family Orders and Agreements Enforcement Assistance Act and the Garnishment, Attachment and Pension Diversion Act and to make consequential amendments to another Act
 
-**Sponsor**: MINISTER OF JUSTICE
-
 ## Summary
 
 This enactment amends the `Divorce Act` to, among other things,
@@ -288,7 +286,7 @@ Every document that formally commences a proceeding under this Act, or that resp
 
     in complying with any order or decision made under this Act; and
 
-    to inform the person of **the parties'** duties under this Act.
+    to inform the person of the parties' duties under this Act.
 
   **(3)** Every document that formally commences a proceeding under this Act, or that responds to such a document, that is filed with a court by a legal adviser shall contain a statement by the legal adviser certifying that they have complied with this section.
 
@@ -404,7 +402,7 @@ Section 16 of the Act and the heading before it are replaced by the following:
 
   **(6)** In allocating parenting time, the court shall give effect to the principle that a child should have as much time with each spouse as is consistent with the best interests of the child.
 
-  ****(7)**** In this section, a parenting order includes an interim parenting order and a variation order in respect of a parenting order, and a contact order includes an interim contact order and a variation order in respect of a contact order.
+  **(7)** In this section, a parenting order includes an interim parenting order and a variation order in respect of a parenting order, and a contact order includes an interim contact order and a variation order in respect of a contact order.
 
 
 ### Parenting Orders
@@ -517,7 +515,7 @@ Section 16.8 does not apply to a change in the place of residence that is a relo
 
 ### Section 16.9
 
-  **(1)** A person who has parenting time or decision-making responsibility in respect of a child of the marriage and who intends to undertake a relocation shall notify, **at least 60 days before the expected date of the proposed relocation and in the form prescribed by the regulations**, any other person who has parenting time, decision-making responsibility or contact under a contact order in respect of that child of their intention.
+  **(1)** A person who has parenting time or decision-making responsibility in respect of a child of the marriage and who intends to undertake a relocation shall notify, at least 60 days before the expected date of the proposed relocation and in the form prescribed by the regulations, any other person who has parenting time, decision-making responsibility or contact under a contact order in respect of that child of their intention.
 
   **(2)** The notice must set out
 
@@ -529,23 +527,23 @@ Section 16.8 does not apply to a change in the place of residence that is a relo
 
     any other information prescribed by the regulations.
 
-  **(3)** Despite subsections (1) and (2), the court may, on application, provide that the requirements in those subsections, **or in the regulations made for the purposes of those subsections**, do not apply or may modify them, including where there is a risk of family violence.
+  **(3)** Despite subsections (1) and (2), the court may, on application, provide that the requirements in those subsections, or in the regulations made for the purposes of those subsections, do not apply or may modify them, including where there is a risk of family violence.
 
   **(4)** An application referred to in subsection (3) may be made without notice to any other party.
 
 ### Section 16.91
 
-  ****(1)**** A person who has given notice under section 16.9 and who intends to relocate a child may do so as of the date referred to in the notice if
+  **(1)** A person who has given notice under section 16.9 and who intends to relocate a child may do so as of the date referred to in the notice if
 
     the relocation is authorized by a court; or
 
     the following conditions are satisfied:
 
-    the person with parenting time or decision-making responsibility in respect of the child who has received a notice under subsection 16.9(1) does not object to the relocation within 30 days after the day on which the notice is received, by **setting out their objection in**
+    the person with parenting time or decision-making responsibility in respect of the child who has received a notice under subsection 16.9(1) does not object to the relocation within 30 days after the day on which the notice is received, by setting out their objection in
 
     a form prescribed by the regulations, or
 
-    **an** application **made** under subsection 16.1(1) or paragraph 17(1)(b), and
+    an application made under subsection 16.1(1) or paragraph 17(1)(b), and
 
     there is no order prohibiting the relocation.
 
@@ -577,7 +575,7 @@ Section 16.8 does not apply to a change in the place of residence that is a relo
 
     whether each person who has parenting time or decision-making responsibility or a pending application for a parenting order has complied with their obligations under family law legislation, an order, arbitral award, or agreement, and the likelihood of future compliance.
 
-  **(2)** In deciding whether to authorize a relocation of the child, the court shall not consider, if the child's relocation was prohibited, whether the person who intends to relocate the child would relocate without the child **or not relocate**.
+  **(2)** In deciding whether to authorize a relocation of the child, the court shall not consider, if the child's relocation was prohibited, whether the person who intends to relocate the child would relocate without the child or not relocate.
 
 ### Section 16.93
 
@@ -599,9 +597,9 @@ If a court authorizes the relocation of a child of the marriage, it may provide 
 
   **(1)** A person who has contact with a child of the marriage under a contact order shall notify, in writing, any person with parenting time or decision-making responsibility in respect of that child of their intention to change their place of residence, the date on which the change is expected to occur, the address of their new place of residence and their contact information.
 
-  **(2)** If the change is likely to have a significant impact on the child's relationship with the person, the notice shall be given at least 60 days before the change in place of residence, **in the form prescribed by the regulations**, and shall set out, in addition to the information required in subsection (1), a proposal as to how contact could be exercised in light of the change **and any other information prescribed by the regulations**.
+  **(2)** If the change is likely to have a significant impact on the child's relationship with the person, the notice shall be given at least 60 days before the change in place of residence, in the form prescribed by the regulations, and shall set out, in addition to the information required in subsection (1), a proposal as to how contact could be exercised in light of the change and any other information prescribed by the regulations.
 
-  **(3)** Despite subsections (1) and (2), the court may, on application, order that the requirements in those subsections, **or in the regulations made for the purposes of those subsections**, do not apply or modify them, if the court is of the opinion that it is appropriate to do so, including where there is a risk of family violence.
+  **(3)** Despite subsections (1) and (2), the court may, on application, order that the requirements in those subsections, or in the regulations made for the purposes of those subsections, do not apply or modify them, if the court is of the opinion that it is appropriate to do so, including where there is a risk of family violence.
 
   **(4)** An application referred to in subsection (3) may be made without notice to any other party.
 
@@ -669,7 +667,7 @@ The following definitions apply in this section and in sections 18.1 to 19.1.
 
 **designated authority** means a person or entity that is designated by a province to exercise the powers or perform the duties and functions set out in sections 18.1 to 19.1 within the province. (**autorité désignée**)
 
-**designated jurisdiction** means a jurisdiction outside Canada — whether a country or a political subdivision of a country — that is designated under an Act that relates to the reciprocal enforcement of orders relating to support, of the province in which either of the former spouses **resides**. (**État désigné**)
+**designated jurisdiction** means a jurisdiction outside Canada — whether a country or a political subdivision of a country — that is designated under an Act that relates to the reciprocal enforcement of orders relating to support, of the province in which either of the former spouses resides. (**État désigné**)
 
 **responsible authority** means a person or entity that, in a designated jurisdiction, performs functions that are similar to those performed by the designated authority under subsection 19(4). (**autorité responsable**)
 
@@ -1301,7 +1299,7 @@ For the purposes of Article 26 of the 1996 Convention, a measure taken by a comp
 
 be declared to be enforceable by a court in the province and enforced in that province as an order of that court; or
 
-**be** registered for the purposes of enforcement in the court in that province and enforced in that province as an order of that court.
+be registered for the purposes of enforcement in the court in that province and enforced in that province as an order of that court.
 
 ### Section 32
 
@@ -1916,7 +1914,7 @@ Section 59 of the Act is replaced by the following:
 
 ### Section 59
 
-Subject to any regulations respecting the remittance of the fee referred to in section 58, it is a debt due to Her Majesty by the judgment debtor and may, subject to section 60, be recovered by way of deduction from, **or** set-off or compensation against, any garnishable moneys payable to the judgment debtor.
+Subject to any regulations respecting the remittance of the fee referred to in section 58, it is a debt due to Her Majesty by the judgment debtor and may, subject to section 60, be recovered by way of deduction from, or set-off or compensation against, any garnishable moneys payable to the judgment debtor.
 
 ### Section 68
 
@@ -2209,9 +2207,9 @@ Sa Majesté dispose, pour donner suite au bref de saisie-arrêt, des délais sui
 
     **(3.1)** If provincial garnishment law permits a payment to a provincial enforcement service of the province, a payment to the provincial enforcement service by Her Majesty is a good and sufficient discharge of Her Majesty's liability, to the extent of the payment.
 
-    **(4)** If, in honouring a garnishee summons, Her Majesty, through error, pays to a debtor by way of salary or remuneration an amount in excess of the amount that Her Majesty should have paid to that debtor, the excess is a debt due to Her Majesty by that debtor and may be recovered from the debtor by way of deduction from, **or** set-off or compensation against, future moneys payable to the debtor as salary or remuneration.
+    **(4)** If, in honouring a garnishee summons, Her Majesty, through error, pays to a debtor by way of salary or remuneration an amount in excess of the amount that Her Majesty should have paid to that debtor, the excess is a debt due to Her Majesty by that debtor and may be recovered from the debtor by way of deduction from, or set-off or compensation against, future moneys payable to the debtor as salary or remuneration.
 
-    **(5)** If moneys are paid by Her Majesty to or for the benefit of a party who instituted garnishment proceedings permitted by this Division in excess of the amount that should be paid to or for the benefit of that party, the excess is a debt due to Her Majesty by that party and may be recovered from the party by way of deduction from, **or** set-off or compensation against, moneys payable to or for the benefit of that party under this Division.
+    **(5)** If moneys are paid by Her Majesty to or for the benefit of a party who instituted garnishment proceedings permitted by this Division in excess of the amount that should be paid to or for the benefit of that party, the excess is a debt due to Her Majesty by that party and may be recovered from the party by way of deduction from, or set-off or compensation against, moneys payable to or for the benefit of that party under this Division.
 
 ### Section 90
 
@@ -2328,9 +2326,9 @@ Section 23 of the Act is replaced by the following:
 
   **(3.1)** If provincial garnishment law permits a payment to a provincial enforcement service of the province, a payment to the provincial enforcement service by the parliamentary entity is a good and sufficient discharge of its liability, to the extent of the payment.
 
-  **(4)** If, in honouring a garnishee summons, a parliamentary entity, through error, pays to a debtor by way of salary or remuneration an amount in excess of the amount that it should have paid to that debtor, the excess is a debt due to the entity by that debtor and may be recovered from the debtor by way of deduction from, **or** set-off or compensation against, future moneys payable to the debtor as salary or remuneration.
+  **(4)** If, in honouring a garnishee summons, a parliamentary entity, through error, pays to a debtor by way of salary or remuneration an amount in excess of the amount that it should have paid to that debtor, the excess is a debt due to the entity by that debtor and may be recovered from the debtor by way of deduction from, or set-off or compensation against, future moneys payable to the debtor as salary or remuneration.
 
-  **(5)** If moneys are paid by a parliamentary entity to or for the benefit of a party who instituted garnishment proceedings permitted by this Division in excess of the amount that should be paid to or for the benefit of that party, the excess is a debt due to the entity by that party and may be recovered from the party by way of deduction from, **or** set-off or compensation against, moneys payable to or for the benefit of that party under this Division.
+  **(5)** If moneys are paid by a parliamentary entity to or for the benefit of a party who instituted garnishment proceedings permitted by this Division in excess of the amount that should be paid to or for the benefit of that party, the excess is a debt due to the entity by that party and may be recovered from the party by way of deduction from, or set-off or compensation against, moneys payable to or for the benefit of that party under this Division.
 
 ### Section 99
 
@@ -2563,11 +2561,11 @@ The Governor in Council may, by order, designate one or more federal ministers a
 
   **(1)** Paragraph 42(1)(a) of the Act is replaced by the following:
 
-    to the extent that it was in error paid to the recipient, is a debt due to Her Majesty by the recipient, and may be recovered from the recipient by way of deduction from, **or** set-off or compensation against, future pension benefits to be paid to the recipient; and
+    to the extent that it was in error paid to the recipient, is a debt due to Her Majesty by the recipient, and may be recovered from the recipient by way of deduction from, or set-off or compensation against, future pension benefits to be paid to the recipient; and
 
   **(2)** Subsection 42(2) of the Act is replaced by the following:
 
-    **(2)** If a diversion payment made to an applicant is greater than the amount that should have been paid to the applicant under this Part, the amount of the excess is a debt due to Her Majesty by the applicant and may be recovered from the applicant by way of deduction from, **or** set-off or compensation against, future diversion payments to be paid to the applicant under this Part.
+    **(2)** If a diversion payment made to an applicant is greater than the amount that should have been paid to the applicant under this Part, the amount of the excess is a debt due to Her Majesty by the applicant and may be recovered from the applicant by way of deduction from, or set-off or compensation against, future diversion payments to be paid to the applicant under this Part.
 
 ### Section 115
 
@@ -2724,7 +2722,7 @@ The portion of subsection 283(1) of the Act before paragraph (a) is replaced by 
 
 ### Section 126
 
-  **(1)** Subsections `1`(1) to (4), (6) and (7), sections `2` to `6`, `8` to `15`, subsection `16`(2), sections `17` to 19, 21, **22** and **23** to 25, subsection 28(3) and sections 32 to `35` come into force on a day to be fixed by order of the Governor in Council.
+  **(1)** Subsections `1`(1) to (4), (6) and (7), sections `2` to `6`, `8` to `15`, subsection `16`(2), sections `17` to 19, 21, 22 and 23 to 25, subsection 28(3) and sections 32 to `35` come into force on a day to be fixed by order of the Governor in Council.
 
   **(2)** Subsections `16`(1) and (3) and `28`(4) and sections `30` and `36` come into force on a day to be fixed by order of the Governor in Council, but that day must not be before the day fixed in accordance with subsection (1).
 
