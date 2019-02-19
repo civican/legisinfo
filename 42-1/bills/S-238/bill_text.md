@@ -1,10 +1,12 @@
-# Bill S-238: An Act to amend the Fisheries Act and the Wild Animal and Plant Protection and Regulation of International and Interprovincial Trade Act (importation and exportation of shark fins)
+# Bill S-238: An Act to amend the Fisheries Act and the Wild Animal and Plant Protection and Regulation of International and Interprovincial Trade Act (importation of shark fins)
+
+**Sponsor**: Senator MacDonald
 
 ## Summary
 
 This enactment amends the `Fisheries Act` to prohibit the practice of shark finning.
 
-It also amends the `Wild Animal and Plant Protection and Regulation of International and Interprovincial Trade Act` to prohibit the importation into and exportation from Canada of shark fins or parts of shark fins that are not attached to a carcass, or any derivatives of shark fins.
+It also amends the `Wild Animal and Plant Protection and Regulation of International and Interprovincial Trade Act` to prohibit the importation in Canada of shark fins that are not attached to the shark carcass.
 
 Whereas in 1994 the Canadian Government banned shark finning — namely, the practice of removing the fins from live sharks and discarding the remainder of the sharks while at sea — in Canadian fisheries waters and with respect to Canadian licensed vessels fishing outside of Canada's exclusive economic zone;
 
@@ -19,7 +21,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 ### Section 1
 
-This Act may be cited as the *Ban on Shark Fin Importation and Exportation Act*.
+This Act may be cited as the *Ban on Shark Fin Importation Act*.
 
 
 ## Fisheries Act
@@ -35,21 +37,33 @@ The `Fisheries Act` is amended by adding the following after section 31:
   **(2)** In this section, **shark finning** means the practice of removing the fins from live sharks and discarding the remainder of the sharks while at sea.
 
 
+> **Explanatory Note**:
+> New.
+
+
 ## Wild Animal and Plant Protection and Regulation of International and Interprovincial Trade Act
 
 ### Section 3
 
 Section 6 of the `Wild Animal and Plant Protection and Regulation of International and Interprovincial Trade Act` is amended by adding the following after subsection (1):
 
-**(1.1)** No person shall, except under and in accordance with a permit issued pursuant to subsection 10(1.‍1), import or export, or attempt to import or export, into or from Canada shark fins or parts of shark fins that are not attached to a shark carcass, or any derivatives of shark fins.
+**(1.1)** No person shall, except under and in accordance with a permit issued pursuant to subsection 10(1.‍1), import, or attempt to import, into Canada shark fins that are not attached to a shark carcass.
+
+
+> **Explanatory Note**:
+> New.
 
 ### Section 4
 
 Section 10 of the Act is amended by adding the following after subsection (1):
 
-**(1.1)** The Minister may, on application and on such terms and conditions as the Minister thinks fit, issue a permit authorizing the importation or exportation of shark fins or parts of shark fins that are not attached to a shark carcass, or any derivatives of  shark fins, if the Minister is of the opinion that
+**(1.1)** The Minister may, on application and on such terms and conditions as the Minister thinks fit, issue a permit authorizing the importation of shark fins that are not attached to a shark carcass if the Minister is of the opinion that
 
-  the importation or exportation is for the purpose of scientific research relating to shark conservation that is conducted by qualified persons; and
+  the importation is for the purpose of scientific research relating to shark conservation that is conducted by qualified persons; and
 
   the activity benefits the survival of shark species or is required to enhance their chance of survival in the wild.
+
+
+> **Explanatory Note**:
+> New.
 
