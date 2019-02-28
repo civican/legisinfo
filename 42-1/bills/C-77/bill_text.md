@@ -1,7 +1,5 @@
 # Bill C-77: An Act to amend the National Defence Act and to make related and consequential amendments to other Acts
 
-**Sponsor**: MINISTER OF NATIONAL DEFENCE
-
 ## Summary
 
 This enactment amends provisions of the `National Defence Act` governing the military justice system.
@@ -692,7 +690,7 @@ refer the charge, subject to and in accordance with regulations made by the Gove
 
   **(1)** A superior commander, commanding officer or delegated officer may conduct a hearing in respect of a charge alleging the commission of a service infraction if all of the following conditions are satisfied:
 
-    the person charged is an officer who is at least one rank below the rank of the superior commander, commanding officer or delegated officer, or **is a** non-commissioned member;
+    the person charged is an officer who is at least one rank below the rank of the superior commander, commanding officer or delegated officer, or is a non-commissioned member;
 
     having regard to the gravity of the facts that gave rise to the charge, the powers of the superior commander, commanding officer or delegated officer to impose a sanction are adequate;
 
@@ -861,7 +859,7 @@ For the purposes of sections 180.02 to 180.08, **record** means any form of reco
 
   **(2)** Section 180.01, this section and sections 180.03 to 180.08 and 303 apply in respect of a record relating to the complainant or a witness that is in the possession or control of any person, including the prosecutor in the proceedings, unless, in the case of a record in the possession or control of the prosecutor, the complainant or witness, as the case may be, has expressly waived the application of those sections.
 
-  **(3)** In the case of a record in respect of which this section applies that is in the possession or control of the prosecutor, the prosecutor shall notify the accused person that the record is in the prosecutor's possession **or control**, but, in doing so, the prosecutor shall not disclose the record's contents.
+  **(3)** In the case of a record in respect of which this section applies that is in the possession or control of the prosecutor, the prosecutor shall notify the accused person that the record is in the prosecutor's possession or control, but, in doing so, the prosecutor shall not disclose the record's contents.
 
 ### Section 180.03
 
