@@ -568,15 +568,15 @@ The purpose of this Act is to promote the protection of the public, of the envir
 
 ### Section 5
 
-  **(1)** Despite any other provision of this Act, other than paragraph `130`(1)(c), this Act does not apply in respect of a vessel or aircraft that belongs to the Canadian Forces or a foreign military force or in respect of any other vessel or aircraft that is under the command, control or direction of the Canadian Forces.
+  **(1)** Except as otherwise provided by regulations made under paragraph 130(1)(c) or subsection 131(1) and despite subsection (3), this Act does not apply in respect of a vessel or aircraft that belongs to the Canadian Forces or a foreign military force or in respect of any other vessel or aircraft that is under the command, control or direction of the Canadian Forces.
 
-  **(2)** This Act, other than Parts 3 and 4, does not apply in respect of
+  **(2)** Except as otherwise provided by regulations made under subsection 131(1), this Act, other than Parts 3 and 4, does not apply in respect of
 
     a vessel that is owned or operated by Her Majesty in right of Canada or of a province or by a foreign state while that vessel is being used exclusively for non-commercial governmental purposes; and
 
     vessels that are on location for the purposes of engaging in the exploration, exploitation or production of mineral resources or that, as a result of an accident or incident, have drifted from that location.
 
-  **(3)** This Act, other than Parts 3 and 4 and section 131, does not apply in respect of wrecks considered as having heritage value under an Act of Parliament or of the legislature of a province.
+  **(3)** Except as otherwise provided by regulations made under subsection 131(1), this Act, other than Parts 3 and 4, does not apply in respect of wrecks considered as having heritage value under an Act of Parliament or of the legislature of a province.
 
 
 ## Powers, Duties and Functions of Ministers
@@ -2158,19 +2158,25 @@ A direction or detention order under this Act is not a statutory instrument for 
 
     respecting the salvage of wrecks or classes of wrecks specified by regulations made under paragraph (b);
 
-    specifying wrecks or classes of wrecks that have heritage value;
+    specifying wrecks or classes of wrecks that have heritage value, including ocean war graves;
 
-    respecting the protection and preservation of wrecks or classes of wrecks that have heritage value, and providing for the issuance of permits to access those wrecks;
+    respecting the protection and preservation of wrecks or classes of wrecks that have heritage value, including ocean war graves, and providing for the issuance of permits to access those wrecks;
 
     authorizing the designation of enforcement officers to ensure compliance with the regulations made under any of paragraphs (b) and (c) and (e) to (h), and specifying their powers, duties and functions;
 
     authorizing the Minister and the Minister responsible for the Parks Canada Agency to jointly enter into agreements or arrangements respecting the administration or enforcement of any provision of the regulations made under this subsection and to authorize any person with whom an agreement or arrangement is entered into to exercise the powers or perform the duties or functions under those regulations that are specified in the agreement or arrangement;
 
-    exempting wrecks or classes of wrecks that have heritage value from the application of any provision of Part 4;
+    exempting wrecks or classes of wrecks that have heritage value, including ocean war graves, from the application of any provision of Part 4;
 
-    exempting any geographical area from the application of regulations made under paragraph (c) or (d); and
+    exempting any geographical area from the application of regulations made under paragraph (c) or (d);
 
-    respecting the setting and payment of fees, and the determination and payment of costs and expenses, for services provided in the administration of regulations made under this subsection.
+    respecting the setting and payment of fees, and the determination and payment of costs and expenses, for services provided in the administration of regulations made under this subsection;
+
+    extending the application of paragraph 110(1)(f), subsections 110(5) and (7), section 111, paragraph 113(d), subsection 119(1) and section 120 to wrecks or classes of wrecks that are specified in regulations made under paragraph (b);
+
+    extending to wrecks or classes of wrecks that are specified in regulations made under paragraph (b) the application of paragraph 110(1)(b), in respect of a contravention of subsection 58(1) or (3) or section 60, and of paragraph 110(1)(d), in respect of a contravention of a direction given under paragraph 58(4)(b); and
+
+    extending the application of any provision of the regulations made under this subsection to wrecked vessels or aircraft — or classes of wrecked vessels or aircraft — that are referred to in subsection 5(1) and paragraphs 5(2)(a) and (b) and that are specified in regulations made under paragraph (b).
 
   **(2)** All fees, costs and expenses referred to in paragraph (1)(h) constitute a debt due to Her Majesty in right of Canada and may be recovered in any court of competent jurisdiction.
 
