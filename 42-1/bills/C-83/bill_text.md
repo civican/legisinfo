@@ -1,6 +1,82 @@
 # Bill C-83: An Act to amend the Corrections and Conditional Release Act and another Act
 
-**Sponsor**: MINISTER OF PUBLIC SAFETY AND EMERGENCY PREPAREDNESS
+Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the following amendment to Bill C-83, `An Act to amend the Corrections and Conditional Release Act and another Act`. That Bill C-83, in Clause 10, be amended by replacing lines 1 to 10 on page 11 with the following:
+
+The Minister shall appoint one or more persons to be independent external decision-makers.
+
+To be eligible for appointment as an independent external decision-maker, a person must have knowledge of administrative decision-making processes in general. A person is not eligible for appointment as an independent external decision-maker if the person was, at any time, in the previous five years a staff member or appointed under subsection 6(1).
+
+An independent external decision-maker is to be appointed for a renewable term of not more than five years and holds office during good behaviour, but may be removed at any time for cause by the Minister.
+
+An independent external decision-maker may be appointed to serve either full-time or part-time.
+
+An independent external decision-maker is to be paid
+
+the remuneration that is fixed by the Treasury Board; and
+
+in accordance with Treasury Board directives, any travel and living expenses that they incur in the performance of their duties and functions while absent from their ordinary place of work, in the case of a full-time decision-maker, and their ordinary place of residence, in the case of a part-time decision-maker.
+
+The Service shall furnish to an independent external decision-maker all information under the Service's control that is relevant to the making of a determination in respect of an inmate by the independent external decision-maker.
+
+For the purpose of making a determination in respect of an inmate, an independent external decision-maker may require any staff member, or any person whose services are engaged by or on behalf of the Service,
+
+to furnish any information that, in the decision-maker's opinion, the staff member or person may be able to furnish in relation to the inmate's case; and
+
+to produce, for examination by the decision-maker, any document or thing that, in the decision-maker's opinion, relates to the inmate's case and that may be in the possession or under the control of the staff member or person.
+
+Within 10 days after the day on which an independent external decision-maker makes a determination, the decision-maker shall return to the Service any document or thing furnished under subsection (1) or paragraph (2)(a) or produced under paragraph (2)(b), as well as any copy of one.
+
+Before making a determination in respect of an inmate, an independent external decision-maker shall provide or cause to be provided to the inmate, in writing, in whichever of the two official languages of Canada is requested by the inmate, the information that is to be considered by the decision-maker or a summary of that information, other than information provided to the independent external decision-maker by the inmate.
+
+The independent external decision-maker may withhold from the inmate as much information as is strictly necessary if the independent external decision-maker has reasonable grounds to believe that
+
+the information should not be disclosed on the grounds of public interest; or
+
+the disclosure of the information would jeopardize the safety of any person, the security of a penitentiary or the conduct of any lawful investigation.
+
+Before making a determination in respect of an inmate, an independent external decision-maker shall ensure that the inmate is given an opportunity to make written representations to the independent external decision-maker.
+
+For the purpose of making a determination in respect of an inmate, an independent external decision-maker may communicate with the inmate.
+
+Subject to subsection (2), an independent external decision-maker shall not disclose any information that comes to their knowledge in the course of the exercise of their powers, or the performance of their duties and functions, under this Act or any other Act of Parliament.
+
+An independent external decision-maker may disclose information referred to in subsection (1) in the exercise of their powers or the performance of their duties and functions.
+
+An independent external decision-maker is not a competent or compellable witness in any civil proceedings in respect of any matter coming to their knowledge in the course of the exercise or purported exercise of their powers, or the performance or purported performance of their duties and functions, under this Act or any other Act of Parliament.
+
+No criminal or civil proceedings lie against an independent external decision-maker for anything done, reported or said in good faith in the course of the exercise or purported exercise of any power, or the performance or purported performance of any duty or function, of the independent external decision-maker under this Act or any other Act of Parliament.
+
+An independent external decision-maker may, in accordance with regulations made under paragraph 96(g.1), publish or otherwise disseminate information, other than personal information, relating to any determination made by the independent external decision-maker.
+
+Thirty days after each of the Commissioner's determinations under section 37.4 that an inmate should remain in a structured intervention unit, an independent external decision-maker shall, in accordance with regulations made under paragraph 96(g.1), determine whether the inmate should remain in the unit.
+
+If a committee established under subsection 37.31(3) determines that an inmate should remain in a structured intervention unit or determines that an inmate's conditions of confinement in the structured intervention unit should not be altered in accordance with a recommendation of a registered health care professional under section 37.2, an independent external decision-maker shall, as soon as practicable, in accordance with regulations made under paragraph 96(g.1), determine whether the inmate should remain in the unit or whether the inmate's conditions of confinement in the unit should be altered.
+
+The independent external decision-maker may determine under sections 37.8 and 37.81 that an inmate should remain in a structured intervention unit only if the independent external decision-maker believes on reasonable grounds that allowing the inmate's reintegration into the mainstream inmate population
+
+would jeopardize the safety of the inmate or any other person or the security of the penitentiary; or
+
+would interfere with an investigation that could lead to a criminal charge or a charge under subsection 41(2) of a serious disciplinary offence.
+
+In making the determination, the independent external decision-maker shall take into account
+
+the inmate's correctional plan;
+
+the appropriateness of the inmate's confinement in the penitentiary;
+
+the appropriateness of the inmate's security classification; and
+
+any other consideration that he or she considers relevant.
+
+If, for five consecutive days or for a total of 15 days during any 30-day period, an inmate confined in a structured intervention unit has not spent a minimum of four hours a day outside the inmate's cell or has not interacted, for a minimum of two hours a day, with others, an independent external decision-maker shall, as soon as practicable, determine whether the Service has taken all reasonable steps to provide the inmate with the opportunities referred to in subsection 36(1) and to encourage the inmate to avail themselves of those opportunities.
+
+If the independent external decision-maker determines that the Service has not taken all reasonable steps, he or she may make any recommendation to the Service that he or she considers appropriate to remedy the situation.
+
+If the Service, within the period of seven days commencing on the day on which it receives recommendations, fails to satisfy the independent external decision-maker that it has taken all reasonable steps to provide the inmate with the opportunities referred to in subsection 36(1), the independent external decision-maker shall direct the Service to remove the inmate from the structured intervention unit and provide a notice of the direction to the Correctional Investigator as defined in Part III.
+
+An independent external decision-maker may, in the prescribed circumstances, make a prescribed determination or review in the prescribed manner.
+
+The transfer of an inmate to a structured intervention unit must be completed not later than five working days after the day on which the authorization for the transfer is given. Until the transfer is completed, the Service may impose restrictions on the inmate's movement and sections 33, 35 to 37.4 and 37.81 to 37.83 apply with any necessary modifications in respect of the inmate as though the inmate were in a structured intervention unit. However, the opportunity referred to in paragraph 36(1)(b) is to be provided only if the circumstances permit.
 
 ## Summary
 
@@ -35,19 +111,19 @@ Subsection 2(1) of the `Corrections and Conditional Release Act` is amended by a
 
 ### Section 2
 
-  ****(1)**** **Paragraph 4(c) of the Act is replaced by the following:**
+  **(1)** Paragraph 4(c) of the Act is replaced by the following:
 
     the Service uses the least restrictive measures consistent with the protection of society, staff members and offenders;
 
-  ****(2)**** Paragraph 4(g) of the Act is replaced by the following:
+  **(2)** Paragraph 4(g) of the Act is replaced by the following:
 
-    correctional policies, programs and practices respect gender, ethnic, cultural, **religious** and linguistic differences, **sexual orientation and gender identity and expression**, and are responsive to the special needs of women, Indigenous persons, **visible minorities**, persons requiring mental health care and other groups;
+    correctional policies, programs and practices respect gender, ethnic, cultural, religious and linguistic differences, sexual orientation and gender identity and expression, and are responsive to the special needs of women, Indigenous persons, visible minorities, persons requiring mental health care and other groups;
 
 ### Section 3
 
 Section 15.1 of the Act is amended by adding the following after subsection (2):
 
-**(2.1)** If an offender is in a structured intervention unit and a determination is made under **subsection 29.01(2)**, paragraph 37.3(1)**(b)** or section 37.4 that the offender should remain in the **structured intervention** unit, the institutional head shall, as soon as practicable after the determination, cause the offender's correctional plan to be updated, in consultation with the offender, in order to ensure that they receive the most effective programs at the appropriate time during their confinement in the **structured intervention** unit and to prepare them for reintegration into the mainstream inmate population **as soon as possible**.
+**(2.1)** If an offender is in a structured intervention unit and a determination is made under subsection 29.01(2), paragraph 37.3(1)(b) or section 37.4 or 37.8 that the offender should remain in the structured intervention unit, the institutional head shall, as soon as practicable after the determination, cause the offender's correctional plan to be updated, in consultation with the offender, in order to ensure that they receive the most effective programs at the appropriate time during their confinement in the structured intervention unit and to prepare them for reintegration into the mainstream inmate population as soon as possible.
 
 ### Section 4
 
@@ -75,13 +151,13 @@ The Act is amended by adding the following after section 19:
 
 ### Section 6
 
-  ****(1)**** **The portion of section 28 of the Act before paragraph (a) is replaced by the following:**
+  **(1)** The portion of section 28 of the Act before paragraph (a) is replaced by the following:
 
 ### Section 28
 
     If a person is or is to be confined in a penitentiary, the Service shall take all reasonable steps to ensure that the penitentiary in which they are confined is one that provides them with the least restrictive environment for that person, taking into account
 
-  ****(2)**** Paragraph 28(c) of the French version of the Act is replaced by the following:
+  **(2)** Paragraph 28(c) of the French version of the Act is replaced by the following:
 
     l'existence de programmes et de services qui lui conviennent et sa volonté d'y participer ou d'en bénéficier.
 
@@ -136,7 +212,7 @@ The Commissioner may designate a penitentiary or any area in a penitentiary to b
 
 ### Section 32
 
-  ****(1)**** The purpose of a structured intervention unit is to
+  **(1)** The purpose of a structured intervention unit is to
 
     provide an appropriate living environment for an inmate who cannot be maintained in the mainstream inmate population for security or other reasons; and
 
@@ -152,7 +228,7 @@ An inmate's confinement in a structured intervention unit is to end as soon as p
 
 ### Section 34
 
-  ****(1)**** **A staff member** may authorize the transfer of an inmate into a structured intervention unit under **subsection 29.01(1)** only if the **staff member** is satisfied that there is no reasonable alternative to the inmate's confinement in a structured intervention unit and the **staff member** believes on reasonable grounds that
+  **(1)** A staff member may authorize the transfer of an inmate into a structured intervention unit under subsection 29.01(1) only if the staff member is satisfied that there is no reasonable alternative to the inmate's confinement in a structured intervention unit and the staff member believes on reasonable grounds that
 
     the inmate has acted, has attempted to act or intends to act in a manner that jeopardizes the safety of any person or the security of a penitentiary and allowing the inmate to be in the mainstream inmate population would jeopardize the safety of any person or the security of the penitentiary;
 
@@ -160,9 +236,9 @@ An inmate's confinement in a structured intervention unit is to end as soon as p
 
     allowing the inmate to be in the mainstream inmate population would interfere with an investigation that could lead to a criminal charge or a charge under subsection 41(2) of a serious disciplinary offence.
 
-  **(2)** The Service shall maintain a record of every instance in which an inmate is transferred into a structured intervention unit indicating the reasons for the transfer and any alternative considered in the making of the decision.
+  **(2)** The Service shall maintain a record of every instance in which an inmate is authorized to be transferred into a structured intervention unit indicating the reasons for granting the authorization and any alternative that was considered.
 
-  **(3)** No later than one working day after the transfer, the Service shall provide the inmate, in writing, with the reasons for the decision.
+  **(3)** No later than one working day after the day on which the transfer of an inmate is authorized, the Service shall, orally, provide the inmate with notice that the authorization was granted as well as the reasons for it and no later than two working days after the day on which the transfer of an inmate is authorized, the Service shall provide the inmate with those reasons in writing.
 
 ### Section 35
 
@@ -170,7 +246,7 @@ An inmate in a structured intervention unit has the same rights as other inmates
 
 ### Section 36
 
-  **(1)** The Service shall, **every day, between the hours of 7:00 a.m. and 10:00 p.m.**, provide an inmate in a structured intervention unit
+  **(1)** The Service shall, every day, between the hours of 7:00 a.m. and 10:00 p.m., provide an inmate in a structured intervention unit
 
     an opportunity to spend a minimum of four hours outside the inmate's cell; and
 
@@ -192,9 +268,9 @@ An inmate in a structured intervention unit has the same rights as other inmates
 
     if the inmate, at the time the opportunity referred to in that paragraph is provided to them, does not comply with reasonable instructions to ensure their safety or that of any other person or the security of the penitentiary; or
 
-    in the prescribed circumstances, **which circumstances may include, among other things, natural disasters, fires, riots and work refusals under section 128 of the `Canada Labour Code`**, and those circumstances must be limited to what is reasonably required for security purposes.
+    in the prescribed circumstances, which circumstances may include, among other things, natural disasters, fires, riots and work refusals under section 128 of the `Canada Labour Code`, and those circumstances must be limited to what is reasonably required for security purposes.
 
-  **(2)** The Service shall maintain a record of every instance that an inmate has **been offered an** opportunity referred to in paragraph 36(1)(a) or (b) **that the inmate** refused, **indicating the specific opportunity and any reason given for the refusal**, or has not been given such an opportunity by reason of paragraph (1)(b) or (c).
+  **(2)** The Service shall maintain a record of every instance that an inmate has been offered an opportunity referred to in paragraph 36(1)(a) or (b) that the inmate refused, indicating the specific opportunity and any reason given for the refusal, or has not been given such an opportunity by reason of paragraph (1)(b) or (c).
 
 ### Section 37.1
 
@@ -204,15 +280,15 @@ An inmate in a structured intervention unit has the same rights as other inmates
 
 ### Section 37.11
 
-A staff member or a person engaged by the Service may recommend to a registered health care professional employed or engaged by the Service that the professional assess the mental health of an inmate, if the inmate
+If a staff member or a person engaged by the Service believes that the confinement of an inmate in a structured intervention unit is having detrimental impacts on the inmate's health, the staff member or person shall refer, in the prescribed manner, the inmate's case to the portion of the Service that administers health care. Grounds for the belief include the inmate
 
-refuses to interact with others for a prescribed per­iod;
+refusing to interact with others;
 
-exhibits a tendency to self-harm;
+engaging in self-injurious behaviour;
 
-is showing signs of an adverse drug reaction; or
+showing symptoms of a drug overdose; and
 
-is showing signs of emotional distress or exhibiting behaviour that suggests that the inmate is in urgent need of mental health care.
+showing signs of emotional distress or exhibiting behaviour that suggests that they are in urgent need of mental health care.
 
 ### Section 37.2
 
@@ -220,55 +296,49 @@ A registered health care professional employed or engaged by the Service may, fo
 
 ### Section 37.3
 
-  **(1)** The institutional head shall determine, in **accordance with regulations made under paragraph 96(g)**, whether an inmate should remain in a structured intervention unit
+  **(1)** The institutional head shall determine, in accordance with regulations made under paragraph 96(g), whether an inmate should remain in a structured intervention unit
 
     as soon as practicable after a registered health care professional recommends under section 37.2, for health reasons, that the inmate not remain in the unit;
 
-    within the period that begins on the day on which the determination under **subsection 29.01(2)** is made and that ends on the expiry of the period of 30 days that begins on the first day on which the inmate is confined in the unit;
+    within the period that begins on the day on which the determination under subsection 29.01(2) is made and that ends on the expiry of the period of 30 days that begins on the first day on which the inmate is confined in the unit; and
 
-    as soon as practicable, if the inmate has refused to avail themselves of the opportunity referred to in paragraph 36(1)(a) or (b), or the inmate has not been given such an opportunity by reason of paragraph 37(1)(b), for
-
-    five consecutive days, or
-
-    a total of 15 days during any 30-day period; and
-
-    as soon as practicable in any of the prescribed circumstances.
-
-  **(1.1)** Before making the determination, the institutional head shall visit the inmate.
-
-  **(1.2)** The institutional head shall maintain a record indicating the circumstances surrounding every instance in which, because of security requirements, a visit was not face to face or took place through a door hatch.
+    as	soon  as  practicable	in any of the prescribed circumstances.
 
   **(2)** As soon as practicable after the registered health care professional referred to in section 37.2 has recommended, for health reasons, that the conditions of confinement be altered, the institutional head shall determine whether the inmate's conditions of confinement in the structured intervention unit should be altered.
 
-  **(3)** No later than one working day after the visit, the institutional head shall provide the inmate, in writing, with the reasons for the decision.
+  **(3)** Before making a determination under this section, the institutional head shall visit the inmate.
+
+  **(4)** The institutional head shall maintain a record indicating the circumstances of every instance in which, because of security requirements, a visit was not face to face or took place through a cell door hatch.
+
+  **(5)** No later than one working day after the day on which he or she makes a determination under this section, the institution head shall orally notify the inmate of the determination as well as the reasons for it and no later than two working days after the day on which the determination was made, the institutional head shall provide the inmate with those reasons in writing.
 
 ### Section 37.31
 
-  **(1)** If the institutional head determines under paragraph 37.3(1)(a) that an inmate should remain in a structured intervention unit or the institutional head determines under subsection 37.3(2) that an inmate's conditions of confinement in the structured intervention unit should not be altered in accordance with the recommendations of a registered health care professional, another registered health care professional shall, as soon as practicable, review the inmate's case and may, for health reasons, recommend to the committee established under subsection (3) that the inmate's conditions of confinement in the unit be altered or that the inmate not remain in the unit.
+  **(1)** If the institutional head determines under paragraph 37.3(1)(a) that an inmate should remain in a structured intervention unit or the institutional head determines under subsection 37.3(2) that an inmate's conditions of confinement in the structured intervention unit should not be altered in accordance with the recommendations of a registered health care professional, another registered health care professional shall provide advice to the committee established under subsection (3).
 
-  **(2)** The registered health care professional conducting the review must be a senior registered health care professional employed by the Service or a registered health care professional engaged by the Service as an expert advisor.
+  **(2)** The registered health care professional providing the advice is to be a senior registered health care professional employed by the Service or a registered health care professional engaged by the Service as an expert advisor.
 
-  **(3)** The Commissioner shall establish a committee consisting of staff members who hold a position higher in rank than that of institutional head for the purpose of reviewing recommendations made under subsection (1) and making determinations under section 37.32.
+  **(3)** The Commissioner shall establish a committee consisting of staff members who hold a position higher in rank than that of institutional head for the purpose of making determinations under section 37.32.
 
 ### Section 37.32
 
-  **(1)** As soon as practicable after a registered health care professional recommends under subsection 37.31(1), for health reasons, that an inmate's conditions of confinement in a structured intervention unit be altered, the committee established under subsection 37.31(3) shall, in accordance with regulations made under paragraph 96(g), determine whether the inmate's conditions of confinement in the unit should be altered.
+  **(1)** As soon as practicable after the institutional head determines under subsection 37.3(2) that an inmate's conditions of confinement in a structured intervention unit should not be altered in accordance with the recommendations of a registered health care professional, the committee established under subsection 37.31(3) shall, in accordance with regulations made under paragraph 96(g), determine whether the inmate's conditions of confinement in the unit should be altered.
 
-  **(2)** As soon as practicable after a registered health care professional recommends under subsection 37.31(1), for health reasons, that an inmate should not remain in a structured intervention unit, the committee established under subsection 37.31(3) shall, in accordance with regulations made under paragraph 96(g), determine whether the inmate should remain in the unit.
+  **(2)** As soon as practicable after the institutional head determines under paragraph 37.3(1)(a) that an inmate should remain in a structured intervention unit, the committee established under subsection 37.31(3) shall, in accordance with regulations made under paragraph 96(g), determine whether the inmate should remain in the unit.
 
 ### Section 37.4
 
-Thirty days after the institutional head's determination under paragraph 37.3(1)**(b) that an** inmate **should remain** in a structured intervention **unit**, the Commissioner shall, in **accordance with regulations made under paragraph 96(g)**, determine whether the inmate should remain in **the** unit. The Commissioner shall also make such a determination in the prescribed circumstances and every 30 days after the Commissioner's last determination under this section **that** the inmate **should remain in the unit**.
+Thirty days after the institutional head's determination under paragraph 37.3(1)(b) that an inmate should remain in a structured intervention unit, the Commissioner shall, in accordance with regulations made under paragraph 96(g), determine whether the inmate should remain in the unit. The Commissioner shall also make such a determination in the prescribed circumstances and every 60 days after the Commissioner's last determination under this section that the inmate should remain in the unit.
 
-### Section **37.41**
+### Section 37.41
 
-  ****(1)**** The institutional head, **the Commissioner or the committee established under subsection 37.31(3)** may determine that **an** inmate should remain in **a structured intervention** unit only if **they believe** on reasonable grounds that allowing the inmate's reintegration into the mainstream inmate population
+  **(1)** The institutional head, the Commissioner or the committee established under subsection 37.31(3) may determine that an inmate should remain in a structured intervention unit only if they believe on reasonable grounds that allowing the inmate's reintegration into the mainstream inmate population
 
     would jeopardize the safety of the inmate or any other person or the security of the penitentiary; or
 
     would interfere with an investigation that could lead to a criminal charge or a charge under subsection 41(2) of a serious disciplinary offence.
 
-  ****(2)**** In making the determination, the institutional head, **the Commissioner or the committee, as the case may be**, shall take into account
+  **(2)** In making the determination, the institutional head, the Commissioner or the committee, as the case may be, shall take into account
 
     the inmate's correctional plan;
 
@@ -284,7 +354,114 @@ If an inmate has been authorized to be transferred to a structured intervention 
 
 ### Section 37.6
 
-  **(1)** The transfer of an inmate to a structured intervention unit must be completed not later than five working days after the day on which the authorization for the transfer is given. Until the transfer is completed, the Service may impose restrictions on the inmate's movement and sections 33 and 35 to 37.4 apply with any necessary modifications in respect of the inmate as though the inmate were in a structured intervention unit. However, the opportunity referred to in paragraph 36(1)(b) is to be provided only if the circumstances permit.
+  **(1)** The Minister shall appoint one or more persons to be independent external decision-makers.
+
+  **(2)** To be eligible for appointment as an independent external decision-maker, a person must have knowledge of administrative decision-making processes in general. A person is not eligible for appointment as an independent external decision-maker if the person was, at any time, in the previous five years a staff member or appointed under subsection 6(1).
+
+  **(3)** An independent external decision-maker is to be appointed for a renewable term of not more than five years and holds office during good behaviour, but may be removed at any time for cause by the Minister.
+
+  **(4)** An independent external decision-maker may be appointed to serve either full-time or part-time.
+
+### Section 37.61
+
+An independent external decision-maker is to be paid
+
+the remuneration that is fixed by the Treasury Board; and
+
+in accordance with Treasury Board directives, any travel and living expenses that they incur in the performance of their duties and functions while absent from their ordinary place of work, in the case of a full-time decision-maker, and their ordinary place of residence, in the case of a part-time decision-maker.
+
+### Section 37.7
+
+  **(1)** The Service shall furnish to an independent external decision-maker all information under the Service's control that is relevant to the making of a determination in respect of an inmate by the independent external decision-maker.
+
+  **(2)** For the purpose of making a determination in respect of an inmate, an independent external decision-maker may require any staff member, or any person whose services are engaged by or on behalf of the Service,
+
+    to furnish any information that, in the decision-maker's opinion, the staff member or person may be able to furnish in relation to the inmate's case; and
+
+    to produce, for examination by the decision-maker, any document or thing that, in the decision-maker's opinion, relates to the inmate's case and that may be in the possession or under the control of the staff member or person.
+
+  **(3)** Within 10 days after the day on which an independent external decision-maker makes a determination, the decision-maker shall return to the Service any document or thing furnished under subsection (1) or paragraph (2)(a) or produced under paragraph (2)(b), as well as any copy of one.
+
+### Section 37.71
+
+  **(1)** Before making a determination in respect of an inmate, an independent external decision-maker shall provide or cause to be provided to the inmate, in writing, in whichever of the two official languages of Canada is requested by the inmate, the information that is to be considered by the decision-maker or a summary of that information, other than information provided to the independent external decision-maker by the inmate.
+
+  **(2)** The independent external decision-maker may withhold from the inmate as much information as is strictly necessary if the independent external decision-maker has reasonable grounds to believe that
+
+    the information should not be disclosed on the grounds of public interest; or
+
+    the disclosure of the information would jeopardize	the	safety	of	any	person,	the
+
+security  of a penitentiary  or the  conduct of
+any lawful investigation.
+
+### Section 37.72
+
+Before making a determination in respect of an inmate, an independent external decision-maker shall ensure that the inmate is given an opportunity to make written representations to the independent external decision-maker.
+
+### Section 37.73
+
+For the purpose of making a determination in respect of an inmate, an independent external decision-maker may communicate with the inmate.
+
+### Section 37.74
+
+  **(1)** Subject to subsection (2), an independent external decision-maker shall not disclose any information that comes to their knowledge in the course of the exercise of their powers, or the performance of their duties and functions, under this Act or any other Act of Parliament.
+
+  **(2)** An independent external decision-maker may disclose information referred to in subsection (1) in the exercise of their powers or the performance of their duties and functions.
+
+### Section 37.75
+
+An independent external decision­-maker is not a competent or compellable witness in any civil proceedings in respect of any matter coming to their knowledge in the course of the exercise or purported exercise of their powers, or the performance or purported performance of their duties and functions, under this Act or any other Act of Parliament.
+
+### Section 37.76
+
+No criminal or civil proceedings lie against an independent external decision-maker for anything done, reported or said in good faith in the course of the exercise or purported exercise of any power, or the performance or purported performance  of any duty or function, of the independent external decision-maker under this Act or any other Act of Parliament.
+
+### Section 37.77
+
+An independent external decision-maker may, in accordance with regulations made under paragraph 96(g.1), publish or otherwise disseminate information,  other than personal information, relating to any determination made by the independent external decision-maker.
+
+### Section 37.8
+
+Thirty days after each of the Commissioner's determinations  under section 37.4 that an inmate should remain in a structured intervention unit, an independent external decision-maker shall, in accordance with regulations made under paragraph 96(g.1), determine whether the  inmate should remain in the unit.
+
+### Section 37.81
+
+If a committee established under subsection 37.31(3) determines that an inmate should remain in a structured intervention unit or determines that an inmate's conditions of confinement in the structured intervention unit should not be altered in accordance with  a recommendation of a registered health care professional under section 37.2, an independent external decision-maker shall, as soon as practicable, in accordance with regulations made under paragraph 96(g.1), determine whether the inmate should remain in the unit or whether the inmate's conditions of confinement in the unit should be altered.
+
+### Section 37.82
+
+  **(1)** The independent external decision-maker may determine under sections 37.8 and 37.81 that an inmate should remain in a structured intervention unit only if the independent external decision-maker believes on reasonable grounds that allowing the inmate's reintegration into the mainstream inmate population
+
+    would jeopardize the safety of the inmate or any other person or the security of the penitentiary; or
+
+    would interfere with an investigation that could lead to a criminal charge or a charge under subsection 41(2) of a serious disciplinary offence.
+
+  **(2)** In making the determination, the independent external decision-maker shall take into account
+
+    the inmate's correctional plan;
+
+    the	appropriateness	of	the	inmate's confinement in the penitentiary;
+
+    the	appropriateness	of	the	inmate's security classification; and
+
+    any other consideration that he or she considers relevant.
+
+### Section 37.83
+
+  **(1)** If, for five consecutive days or for a total of 15 days during any 30-day period, an inmate confined in a structured intervention unit has not spent a minimum of four hours a day outside the inmate's cell or has not interacted, for a minimum of two hours a day, with others, an independent external decision-maker shall, as soon as practicable, determine whether the Service has taken all reasonable steps to provide the inmate with the opportunities referred to in subsection 36(1) and to encourage the inmate to avail themselves of those opportunities.
+
+  **(2)** If the independent external decision-maker determines that the Service has not taken all reasonable steps, he or she may make any recommendation to the Service that he or she considers appropriate to remedy the situation.
+
+  **(3)** If the Service, within the period of seven days commencing on the day on which it receives recommendations, fails to satisfy  the independent external decision-maker that it has taken all reasonable steps to provide the inmate with the opportunities referred  to in subsection 36(1), the independent external decision-maker shall direct the Service to remove the inmate from the structured intervention unit and provide a notice of the direction to the Correctional Investigator as defined in Part III.
+
+### Section 37.9
+
+An independent external decision-maker may, in the prescribed circumstances, make a prescribed determination or review in the prescribed manner.
+
+### Section 37.91
+
+  **(1)** The transfer of an inmate to a structured intervention unit must be completed not later than five working days after the day on which the authorization for the transfer is given. Until the transfer is completed, the Service may impose restrictions on the inmate's movement and sections 33, 35 to 37.4 and 37.81 to 37.83 apply with any necessary modifications in respect of the inmate as though the inmate were in a structured intervention unit. However, the opportunity referred to in paragraph 36(1)(b) is to be provided only if the circumstances permit.
 
   **(2)** The institutional head shall, at least once every day, meet with the inmate.
 
@@ -407,7 +584,7 @@ In sections 79.1 to 84.1,
 
 ### Section 79.1
 
-  ****(1)**** In making decisions under this Act affecting an Indigenous offender, the Service shall take the following into consideration:
+  **(1)** In making decisions under this Act affecting an Indigenous offender, the Service shall take the following into consideration:
 
     systemic and background factors affecting Indigenous peoples of Canada;
 
@@ -503,7 +680,7 @@ The purpose of a health care unit is to provide an appropriate living environmen
 
 ### Section 86.4
 
-The admission of inmates to and the discharge of inmates from health care units must be in accordance with regulations made under paragraph 96(g.1).
+The admission of inmates to and the discharge of inmates from health care units must be in accordance with regulations made under paragraph 96(g.2).
 
 ### Section 29
 
@@ -521,15 +698,17 @@ The Service shall provide, in respect of inmates in penitentiaries designated by
 
 to support inmates in relation to their health care matters; and
 
-to enable inmates and their families **or an individual  identified by the inmate as a support person** to understand the rights and responsibilities of inmates related to health care.
+to enable inmates and their families or an individual  identified by the inmate as a support person to understand the rights and responsibilities of inmates related to health care.
 
 ### Section 31
 
   **(1)** Paragraph 96(g) of the Act is replaced by the following:
 
-    respecting the confinement of inmates in a structured intervention unit, **including respecting the making of a determination by an institutional head, the Commissioner or the committee established under subsection 37.31(3) as to whether the conditions of confinement of an inmate in a structured intervention unit should be altered or as to whether an inmate should remain in such a unit**;
+    respecting the confinement of inmates in a structured intervention unit, including respecting the making of a determination by an institutional head, the Commissioner or the committee established under subsection 37.31(3) as to whether the conditions of confinement of an inmate in a structured intervention unit should be altered or as to whether an inmate should remain in such a unit;
 
-  **(2)** Section 96 of the Act is amended by adding the following after paragraph (g):
+    respecting the powers, duties and functions of independent external decision­-makers, including respecting the making of a determination as to whether the conditions of confinement of an inmate in a structured intervention unit should be altered or as to whether an inmate should remain in such a unit;
+
+  **(2)** Section 96 of the Act is amended by adding the following after paragraph (g.1):
 
     respecting the admission of inmates to and the discharge of inmates from health care units;
 
@@ -577,7 +756,7 @@ Subsection 140(13) of the Act is replaced by the following:
 
 Subsection 151(3) of the Act is replaced by the following:
 
-**(3)** Policies adopted under paragraph (2)(a) must respect gender, ethnic, cultural and linguistic differences and be responsive to the special needs of women and of Indigenous persons, as well as to the needs of other groups of offenders with special requirements.
+**(3)** Policies adopted under paragraph (2)(a) must respect gender, ethnic, cultural and linguistic differences and be responsive to the special needs of women and of In­digenous persons, as well as to the needs of other groups of offenders with special requirements.
 
 ### Section 36
 
@@ -601,7 +780,7 @@ Unless the context otherwise requires, words and expressions used in sections `3
 
 ### Section 39
 
-If an inmate is in administrative segregation immediately before the coming into force of section `10`, on the day on which that section comes into force that inmate is deemed to have been authorized to be transferred to a structured intervention unit under an authorization given under **subsection 29.01(1)** of the `Corrections and Conditional Release Act`, as enacted by section `7`.
+If an inmate is in administrative segregation immediately before the coming into force of section `10`, on the day on which that section comes into force that inmate is deemed to have been authorized to be transferred to a structured intervention unit under an authorization given under subsection 29.01(1) of the `Corrections and Conditional Release Act`, as enacted by section `7`.
 
 ### Section 40
 
