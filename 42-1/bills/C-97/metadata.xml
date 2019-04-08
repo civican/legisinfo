@@ -1,0 +1,1815 @@
+<Bills>
+  <Bill>
+    <Id>10404016</Id>
+    <NumberCode>C-97</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>97</Number>
+    <LongTitleEn>An Act to implement certain provisions of the budget tabled in Parliament on March 19, 2019 and other measures</LongTitleEn>
+    <LongTitleFr>Loi portant exécution de certaines dispositions du budget déposé au Parlement le 19 mars 2019 et mettant en oeuvre d'autres mesures</LongTitleFr>
+    <LongTitle>An Act to implement certain provisions of the budget tabled in Parliament on March 19, 2019 and other measures</LongTitle>
+    <ShortTitleEn>Budget Implementation Act, 2019, No. 1</ShortTitleEn>
+    <ShortTitleFr>Loi n° 1 d'exécution du budget de 2019</ShortTitleFr>
+    <ShortTitle>Budget Implementation Act, 2019, No. 1</ShortTitle>
+    <StatusId>357</StatusId>
+    <StatusNameEn>Royal assent received</StatusNameEn>
+    <StatusNameFr>Sanction royale reçue</StatusNameFr>
+    <StatusName>Royal assent received</StatusName>
+    <LatestCompletedMajorStageId>60046</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>Royal assent</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Sanction royale</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>Royal assent</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>Royal assent</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>2</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>Senate</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Sénat</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>Senate</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60050</OngoingStageId>
+    <OngoingStageNameEn>Royal assent</OngoingStageNameEn>
+    <OngoingStageNameFr>Sanction royale</OngoingStageNameFr>
+    <OngoingStageName>Royal assent</OngoingStageName>
+    <LatestCompletedBillStageId>60050</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Royal assent</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Sanction royale</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Royal assent</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>2</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>Senate</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Sénat</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>Senate</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2019-06-21T00:00:00</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>42</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>88992</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Bill</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Morneau</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Bill Morneau</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Finance</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre des Finances</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Finance</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>4</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Minister</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>ministre</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Minister</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>822</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Toronto Centre</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Toronto-Centre</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Toronto Centre</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60149</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Royal assent</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Sanction royale</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60050</LatestBillEventStageId>
+    <LatestBillEventTypeName>Royal assent</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2019-06-21T13:30:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>2</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>Senate</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Sénat</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>Senate</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>308</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2019-04-08T16:57:33.253</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime>2019-04-30T18:26:23</PassedHouseSecondReadingDateTime>
+    <PassedHouseThirdReadingDateTime>2019-06-06T15:10:00</PassedHouseThirdReadingDateTime>
+    <PassedSenateFirstReadingDateTime>2019-06-06T16:55:00</PassedSenateFirstReadingDateTime>
+    <PassedSenateSecondReadingDateTime>2019-06-10T00:01:00</PassedSenateSecondReadingDateTime>
+    <PassedSenateThirdReadingDateTime>2019-06-20T22:00:00</PassedSenateThirdReadingDateTime>
+    <ReceivedRoyalAssentDateTime>2019-06-21T00:00:00</ReceivedRoyalAssentDateTime>
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>true</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>true</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>true</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>true</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>true</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>&lt;div&gt;On May 2, 2019, the following motion was adopted by the Senate:&lt;br /&gt;&lt;br /&gt;That, in accordance with rule 10-11(1), the &lt;a href="https://sencanada.ca/en/committees/nffn/" target="_blank"&gt;Standing Senate Committee on National Finance&lt;/a&gt; be authorized to examine the subject matter of all of Bill C-97, An Act to implement certain provisions of the budget tabled in Parliament on March 19, 2019 and other measures, introduced in the House of Commons on April 8, 2019, in advance of the said bill coming before the Senate;
+
+&lt;br /&gt;&lt;br /&gt;That the Standing Senate Committee on National Finance be authorized to meet for the purposes of its study of the subject matter of Bill C-97, even though the Senate may then be sitting, with the application of rule 12-18(1) being suspended in relation thereto; and
+
+&lt;br /&gt;&lt;br /&gt;That, in addition, and notwithstanding any normal practice:
+
+&lt;br /&gt;&lt;br /&gt;1. The following committees be separately authorized to examine the subject matter of the following elements contained in Bill C-97 in advance of it coming before the Senate:
+
+&lt;br /&gt;&lt;br /&gt;(a) the &lt;a href="https://sencanada.ca/en/committees/appa/" target="_blank"&gt;Standing Senate Committee on Aboriginal Peoples&lt;/a&gt;: those elements contained in Division 25 of Part 4;
+
+&lt;br /&gt;&lt;br /&gt;(b) the &lt;a href="https://sencanada.ca/en/committees/agfo/" target="_blank"&gt;Standing Senate Committee on Agriculture and Forestry&lt;/a&gt;: those elements contained in Subdivision C of Division 9 of Part 4, insofar as it relates to food, and in Subdivision J of Division 9 of Part 4;
+
+&lt;br /&gt;&lt;br /&gt;(c) the &lt;a href="https://sencanada.ca/en/committees/banc/" target="_blank"&gt;Standing Senate Committee on Banking, Trade and Commerce&lt;/a&gt;: those elements contained in Divisions 1, 5 and 26 of Part 4, and in Subdivision A of Division 2 of Part 4;
+
+&lt;br /&gt;&lt;br /&gt;(d) the &lt;a href="https://sencanada.ca/en/committees/enev/" target="_blank"&gt;Standing Senate Committee on Energy, Environment and Natural Resources&lt;/a&gt;: those elements contained in Divisions 23 and 24 of Part 4;
+
+&lt;br /&gt;&lt;br /&gt;(e) the &lt;a href="https://sencanada.ca/en/committees/enev/" target="_blank"&gt;Standing Senate Committee on Legal and Constitutional Affairs&lt;/a&gt;: those elements contained in Division 17 of Part 4, and in Subdivisions B, C and D of Division 2 of Part 4;
+
+&lt;br /&gt;&lt;br /&gt;(f) the &lt;a href="https://sencanada.ca/en/committees/secd/" target="_blank"&gt;Standing Senate Committee on National Security and Defence&lt;/a&gt;: those elements contained in Divisions 10 and 21 of Part 4;
+
+&lt;br /&gt;&lt;br /&gt;(g) the &lt;a href="https://sencanada.ca/en/committees/soci/" target="_blank"&gt;Standing Senate Committee on Social Affairs, Science and Technology&lt;/a&gt;: those elements contained in Divisions 15, 16, 18, 19 and 20 of Part 4, and in Subdivisions C, K and L of Division 9 of Part 4; and
+
+&lt;br /&gt;(h) the &lt;a href="https://sencanada.ca/en/committees/trcm/" target="_blank"&gt;Standing Senate Committee on Transport and Communications&lt;/a&gt;: those elements contained in Divisions 11, 12, 13 and 14 of Part 4, and in Subdivision I of Division 9 of Part 4; 
+
+&lt;br /&gt;&lt;br /&gt;2. That the various committees listed in point one that are authorized to examine the subject matter of particular elements of Bill C-97 be authorized to meet for the purposes of their studies of those elements even though the Senate may then be sitting, with the application of rule 12-18(1) being suspended in relation thereto; 
+
+&lt;br /&gt;&lt;br /&gt;3. That the various committees listed in point one that are authorized to examine the subject matter of particular elements of Bill C-97 submit their final reports to the Senate no later than June 6, 2019;
+
+&lt;br /&gt;&lt;br /&gt;4. That, as the reports from the various committees authorized to examine the subject matter of particular elements of Bill C-97 are tabled in the Senate, they be placed on the Orders of the Day for consideration at the next sitting; and
+
+&lt;br /&gt;&lt;br /&gt;5. That the Standing Senate Committee on National Finance be simultaneously authorized to take any reports tabled under point four into consideration during its study of the subject matter of all of Bill C-97.
+&lt;br /&gt;&lt;/div&gt;</NotesEn>
+    <NotesFr>&lt;div&gt;Le 2 mai 2019, la motion suivante a été adoptée par le Sénat :&lt;br /&gt;&lt;br /&gt;Que, conformément à l'article 10-11(1) du Règlement, le &lt;a href="https://sencanada.ca/fr/comites/nffn/42-1" target="_blank"&gt;Comité sénatorial permanent des finances nationales&lt;/a&gt; soit autorisé à étudier la teneur complète du projet de loi C-97, Loi portant exécution de certaines dispositions du budget déposé au Parlement le 19 mars 2019 et mettant en œuvre d'autres mesures, déposé à la Chambre des communes le 8 avril 2019, avant que ce projet de loi soit soumis au Sénat;&lt;br /&gt;&lt;br /&gt;
+
+Que le Comité sénatorial permanent des finances nationales soit autorisé à se réunir pour les fins de son examen de la teneur du projet de loi C-97, même si le Sénat siège à ce moment-là, l'application de l'article 12-18(1) du Règlement étant suspendue à cet égard;
+
+&lt;br /&gt;&lt;br /&gt;Que, de plus, et nonobstant toute pratique habituelle :
+
+&lt;br /&gt;&lt;br /&gt;1. Les comités suivants soient individuellement autorisés à examiner la teneur des éléments suivants du projet de loi C-97 avant qu'il soit présenté au Sénat :
+
+&lt;br /&gt;&lt;br /&gt;a) le &lt;a href="https://sencanada.ca/fr/comites/appa/" target="_blank"&gt;Comité sénatorial permanent des peuples autochtones&lt;/a&gt; : les éléments de la section 25 de la partie 4;
+
+&lt;br /&gt;&lt;br /&gt;b) le &lt;a href="https://sencanada.ca/fr/comites/appa/" target="_blank"&gt;Comité sénatorial permanent de l'agriculture et des forêts&lt;/a&gt; : les éléments de la sous-section C de la section 9 de la partie 4, dans la mesure où elle traite des aliments, et de la sous-section J de la section 9 de la partie 4;
+
+&lt;br /&gt;&lt;br /&gt;c) le &lt;a href="https://sencanada.ca/fr/comites/banc/" target="_blank"&gt;Comité sénatorial permanent des banques et du commerce&lt;/a&gt; : les éléments des sections 1, 5 et 26 de la partie 4, et de la sous-section A de la section 2 de la partie 4;
+
+&lt;br /&gt;&lt;br /&gt;d) le &lt;a href="https://sencanada.ca/fr/comites/banc/" target="_blank"&gt;Comité sénatorial permanent de l'énergie, de l'environnement et des ressources naturelles&lt;/a&gt; : les éléments des sections 23 et 24 de la partie 4;
+
+&lt;br /&gt;&lt;br /&gt;e) le &lt;a href="https://sencanada.ca/fr/comites/lcjc/" target="_blank"&gt;Comité sénatorial permanent des affaires juridiques et constitutionnelles&lt;/a&gt; : les éléments de la section 17 de la partie 4, et des sous-sections B, C et D de la section 2 de la partie 4;
+
+&lt;br /&gt;&lt;br /&gt;f) le &lt;a href="https://sencanada.ca/fr/comites/secd/" target="_blank"&gt;Comité sénatorial permanent de la sécurité nationale et de la défense&lt;/a&gt; : les éléments des sections 10 et 21 de la partie 4;
+
+&lt;br /&gt;&lt;br /&gt;g) le &lt;a href="https://sencanada.ca/fr/comites/soci/" target="_blank"&gt;Comité sénatorial permanent des affaires sociales, des sciences et de la technologie&lt;/a&gt; : les éléments des sections 15, 16, 18, 19 et 20 de la partie 4, et des sous-sections C, K et L de la section 9 de la partie 4;
+
+&lt;br /&gt;&lt;br /&gt;h) le &lt;a href="https://sencanada.ca/fr/comites/trcm/" target="_blank"&gt;Comité sénatorial permanent des transports et des communications&lt;/a&gt; : les éléments des sections 11, 12, 13 et 14 de la partie 4, et de la sous-section I de la section 9 de la partie 4;
+
+&lt;br /&gt;&lt;br /&gt;2. Que chacun des différents comités indiqués au point numéro un, qui sont autorisés à examiner la teneur de certains éléments du projet de loi C-97, soit autorisé à se réunir pour les fins de son étude, même si le Sénat siège à ce moment-là, l'application de l'article 12-18(1) du Règlement étant suspendue à cet égard;
+
+&lt;br /&gt;&lt;br /&gt;3. Que chacun des différents comités indiqués au point numéro un, qui sont autorisés à examiner la teneur de certains éléments du projet de loi C-97, soumette son rapport final au Sénat au plus tard le 6 juin 2019;
+
+&lt;br /&gt;&lt;br /&gt;4. Que, au fur et à mesure que les rapports des comités autorisés à examiner la teneur de certains éléments du projet de loi C-97 seront déposés au Sénat, l'étude de ces rapports soit inscrite à l'ordre du jour de la prochaine séance;
+
+&lt;br /&gt;&lt;br /&gt;5. Que le Comité sénatorial permanent des finances nationales soit simultanément autorisé à prendre en considération les rapports déposés conformément au point numéro quatre au cours de son examen de la teneur complète du projet de loi C-97.
+&lt;br /&gt;&lt;/div&gt;</NotesFr>
+    <Notes>&lt;div&gt;On May 2, 2019, the following motion was adopted by the Senate:&lt;br /&gt;&lt;br /&gt;That, in accordance with rule 10-11(1), the &lt;a href="https://sencanada.ca/en/committees/nffn/" target="_blank"&gt;Standing Senate Committee on National Finance&lt;/a&gt; be authorized to examine the subject matter of all of Bill C-97, An Act to implement certain provisions of the budget tabled in Parliament on March 19, 2019 and other measures, introduced in the House of Commons on April 8, 2019, in advance of the said bill coming before the Senate;
+
+&lt;br /&gt;&lt;br /&gt;That the Standing Senate Committee on National Finance be authorized to meet for the purposes of its study of the subject matter of Bill C-97, even though the Senate may then be sitting, with the application of rule 12-18(1) being suspended in relation thereto; and
+
+&lt;br /&gt;&lt;br /&gt;That, in addition, and notwithstanding any normal practice:
+
+&lt;br /&gt;&lt;br /&gt;1. The following committees be separately authorized to examine the subject matter of the following elements contained in Bill C-97 in advance of it coming before the Senate:
+
+&lt;br /&gt;&lt;br /&gt;(a) the &lt;a href="https://sencanada.ca/en/committees/appa/" target="_blank"&gt;Standing Senate Committee on Aboriginal Peoples&lt;/a&gt;: those elements contained in Division 25 of Part 4;
+
+&lt;br /&gt;&lt;br /&gt;(b) the &lt;a href="https://sencanada.ca/en/committees/agfo/" target="_blank"&gt;Standing Senate Committee on Agriculture and Forestry&lt;/a&gt;: those elements contained in Subdivision C of Division 9 of Part 4, insofar as it relates to food, and in Subdivision J of Division 9 of Part 4;
+
+&lt;br /&gt;&lt;br /&gt;(c) the &lt;a href="https://sencanada.ca/en/committees/banc/" target="_blank"&gt;Standing Senate Committee on Banking, Trade and Commerce&lt;/a&gt;: those elements contained in Divisions 1, 5 and 26 of Part 4, and in Subdivision A of Division 2 of Part 4;
+
+&lt;br /&gt;&lt;br /&gt;(d) the &lt;a href="https://sencanada.ca/en/committees/enev/" target="_blank"&gt;Standing Senate Committee on Energy, Environment and Natural Resources&lt;/a&gt;: those elements contained in Divisions 23 and 24 of Part 4;
+
+&lt;br /&gt;&lt;br /&gt;(e) the &lt;a href="https://sencanada.ca/en/committees/enev/" target="_blank"&gt;Standing Senate Committee on Legal and Constitutional Affairs&lt;/a&gt;: those elements contained in Division 17 of Part 4, and in Subdivisions B, C and D of Division 2 of Part 4;
+
+&lt;br /&gt;&lt;br /&gt;(f) the &lt;a href="https://sencanada.ca/en/committees/secd/" target="_blank"&gt;Standing Senate Committee on National Security and Defence&lt;/a&gt;: those elements contained in Divisions 10 and 21 of Part 4;
+
+&lt;br /&gt;&lt;br /&gt;(g) the &lt;a href="https://sencanada.ca/en/committees/soci/" target="_blank"&gt;Standing Senate Committee on Social Affairs, Science and Technology&lt;/a&gt;: those elements contained in Divisions 15, 16, 18, 19 and 20 of Part 4, and in Subdivisions C, K and L of Division 9 of Part 4; and
+
+&lt;br /&gt;(h) the &lt;a href="https://sencanada.ca/en/committees/trcm/" target="_blank"&gt;Standing Senate Committee on Transport and Communications&lt;/a&gt;: those elements contained in Divisions 11, 12, 13 and 14 of Part 4, and in Subdivision I of Division 9 of Part 4; 
+
+&lt;br /&gt;&lt;br /&gt;2. That the various committees listed in point one that are authorized to examine the subject matter of particular elements of Bill C-97 be authorized to meet for the purposes of their studies of those elements even though the Senate may then be sitting, with the application of rule 12-18(1) being suspended in relation thereto; 
+
+&lt;br /&gt;&lt;br /&gt;3. That the various committees listed in point one that are authorized to examine the subject matter of particular elements of Bill C-97 submit their final reports to the Senate no later than June 6, 2019;
+
+&lt;br /&gt;&lt;br /&gt;4. That, as the reports from the various committees authorized to examine the subject matter of particular elements of Bill C-97 are tabled in the Senate, they be placed on the Orders of the Day for consideration at the next sitting; and
+
+&lt;br /&gt;&lt;br /&gt;5. That the Standing Senate Committee on National Finance be simultaneously authorized to take any reports tabled under point four into consideration during its study of the subject matter of all of Bill C-97.
+&lt;br /&gt;&lt;/div&gt;</Notes>
+    <ShortLegislativeSummaryEn>&lt;div&gt;The pre-release version of this Legislative Summary is now available. Parliamentarians and their staff can obtain a copy by submitting a request or contacting the Library of Parliament. Members of the public can obtain a copy by contacting the Information Service at the Library of Parliament at Info@parl.gc.ca.&lt;br/&gt;&lt;br/&gt;On 9 April 2019, the Minister of Finance introduced Bill C-97, An Act to implement certain provisions of the budget tabled in Parliament on March 19, 2019 and other measures (Budget Implementation Act, 2019, No. 1), in the House of Commons and it was given first reading.  &lt;br/&gt;&lt;br/&gt;Part 1 implements certain income tax and related measures by&lt;br/&gt;(a) providing a temporary enhanced first-year capital cost allowance rate of 100% in respect of eligible zero-emission vehicles;&lt;br/&gt;(b) removing the requirement that property be of "national importance" in order to qualify for the enhanced tax incentives for donations of cultural property;&lt;br/&gt;(c) providing a temporary enhanced first-year capital cost allowance rate in respect of a wide range of depreciable capital properties, including a temporary first-year capital cost allowance rate of 100% in respect of&lt;br/&gt;(i) machinery and equipment used for the manufacturing or processing of goods, and&lt;br/&gt;(ii) specified clean energy equipment;&lt;br/&gt;(d) ensuring that social assistance payments under certain programs are non-taxable, are not included in income for the purposes of determining entitlement to income-tested benefits and credits and do not preclude an individual from being considered a "parent" for the purposes of the Canada Workers Benefit;&lt;br/&gt;(e) repealing the use of taxable income as a factor in determining a Canadian-controlled private corporation's annual expenditure limit for the purpose of the enhanced scientific research and experimental development tax credit;&lt;br/&gt;(f) providing support for Canadian journalism;&lt;br/&gt;(g) introducing the Canada Training Credit;&lt;br/&gt;(h) amending the Income Tax Act to reflect the current regulations for accessing cannabis for medical purposes;&lt;br/&gt;(i) eliminating the requirement that sales be to a farming or fishing cooperative corporation in order to be excluded from specified corporate income for the purposes of the small business deduction;&lt;br/&gt;(j) extending the mineral exploration tax credit for an additional five years;&lt;br/&gt;(k) ensuring that business income of a communal organization retains its character when it is allocated to members of the communal organization for tax purposes;&lt;br/&gt;(l) increasing the withdrawal limit under the Home Buyers' Plan and amending how it applies on the breakdown of a marriage or common-law partnership;&lt;br/&gt;(m) extending joint and several liability for tax owing on income from carrying on business in a TFSA to the TFSA's holder and limiting the TFSA issuer's liability for such tax;&lt;br/&gt;(n) supporting employees who must reimburse a salary overpayment to their employer due to a system, administrative or clerical error;&lt;br/&gt;(o) expanding tax support for electric vehicle charging stations and electrical energy storage equipment;&lt;br/&gt;(p) allowing joint projects of producers from Canada and Belgium to qualify for the Canadian film or video production tax credit; and&lt;br/&gt;(q) ensuring appropriate pension adjustment calculations in 2019 and subsequent tax years for registered pension plans that reference the enhanced Canada Pension Plan.&lt;br/&gt;Part 2 implements certain goods and services tax/harmonized sales tax (GST/HST) measures proposed in the March 19, 2019 budget&lt;br/&gt;(a) to provide GST/HST relief in the health care sector by relieving the GST/HST on supplies and importations of human ova and importations of in vitro embryos, by adding licenced podiatrists and chiropodists to the list of practitioners on whose order supplies of foot care devices are zero-rated and by exempting from the GST/HST certain health care services rendered by a multidisciplinary team of licenced health care professionals; and&lt;br/&gt;(b) by introducing amendments to ensure that the GST/HST treatment of expenses incurred in respect of zero-emission passenger vehicles parallels the income tax treatment of those vehicles.&lt;br/&gt;Part 3 implements certain excise measures proposed in the March 19, 2019 budget by changing the federal excise duty rates on cannabis products that are edible cannabis, cannabis extracts (including cannabis oils) and cannabis topicals to $0.0025 per milligram of total tetrahydrocannabinol contained in the cannabis product.&lt;br/&gt;Part 4 enacts and amends several Acts in order to implement various measures.&lt;br/&gt;Subdivision A of Division 1 of Part 4 amends the Bank Act to, among other things, provide members of federal credit unions with different methods of voting prior to meetings and provide additional exceptions to the requirement that a proxy circular be sent in order to solicit proxies. The Subdivision also makes a technical amendment to An Act to amend certain Acts in relation to financial institutions.&lt;br/&gt;Subdivision B of Division 1 of Part 4 amends the Canadian Payments Act to allow the term of the elected directors of the Board of Directors of the Canadian Payments Association to be renewed twice, to extend the term of the Chairperson and Deputy Chairperson of that Board and to allow the remuneration of certain members of the Stakeholder Advisory Council.&lt;br/&gt;Subdivision A of Division 2 of Part 4 amends the Canada Business Corporations Act to require a corporation, on request by an investigative body that has reasonable grounds to suspect that certain offences have been committed, to provide to the investigative body a copy of its register of individuals with significant control or information in that registry that is specified by the investigative body. It also requires those investigative bodies to keep certain records in relation to their requests and to report annually in respect of those requests.&lt;br/&gt;Subdivision B of Division 2 of Part 4 amends the Criminal Code to add the element of recklessness to the offence of laundering proceeds of crime.&lt;br/&gt;Subdivision C of Division 2 of Part 4 amends the Proceeds of Crime (Money Laundering) and Terrorist Financing Act to, among other things,&lt;br/&gt;(a) allow the Governor in Council to make regulations defining "virtual currency" and "dealing in virtual currencies";&lt;br/&gt;(b) require the Financial Transactions and Reports Analysis Centre of Canada ("the Centre") to disclose information to the Agence du Revenu du Québec and the Competition Bureau in certain circumstances;&lt;br/&gt;(c) allow the Centre to disclose additional designated information that is associated with the import and export of currency and monetary instruments;&lt;br/&gt;(d) provide that certain information must not be the subject of a confidentiality order made in the course of an appeal to the Federal Court; and&lt;br/&gt;(e) require the Centre to make public certain information if a person or entity is deemed to have committed a violation or is served a notice of a decision of the Director indicating that a person or entity has committed a violation.&lt;br/&gt;Subdivision D of Division 2 of Part 4 amends the Seized Property Management Act to authorize the Minister to, among other things,&lt;br/&gt;(a) provide consultative and other services to any person employed in the federal public administration or by a provincial or municipal authority in relation to the seizure, restraint, custody, management, forfeiture or disposal of certain property;&lt;br/&gt;(b) manage property seized, restrained or forfeited under any Act of Parliament or of the legislature of a province; and&lt;br/&gt;(c) dispose of property when it is forfeited to Her Majesty in right of Canada and, with the consent of the government of the province, when it is forfeited to Her Majesty in right of a province, and share the proceeds.&lt;br/&gt;The Subdivision also makes consequential amendments to the Criminal Code, the Crimes Against Humanity and War Crimes Act and the Proceeds of Crime (Money Laundering) and Terrorist Financing Act.&lt;br/&gt;Division 3 of Part 4 amends the Employment Equity Act to require federally regulated private-sector employers to report salary information that supports employment equity reporting beyond salary ranges, including making wage gap information by occupational groups more evident.&lt;br/&gt;Division 4 of Part 4 authorizes payments to be made out of the Consolidated Revenue Fund for climate action support and in relation to infrastructure as well as to the Federation of Canadian Municipalities and to the Shock Trauma Air Rescue Service.&lt;br/&gt;Division 5 of Part 4 amends the Bankruptcy and Insolvency Act to, among other things,&lt;br/&gt;(a) require all parties in a proceeding under the Act to act in good faith; and&lt;br/&gt;(b) allow the court to inquire into certain payments made to, among other persons, directors or officers of a corporation in the year preceding insolvency and imposes liability on the directors for those payments.&lt;br/&gt;The Division amends the Companies' Creditors Arrangement Act to, among other things,&lt;br/&gt;(a) limit the relief provided in an order made under section 11 to what is reasonably necessary and limit the period staying all proceedings that might be taken in respect of the company to 10 days;&lt;br/&gt;(b) allow the court to make an order to disclose an economic interest in respect of a debtor company; and&lt;br/&gt;(c) require all parties in a proceeding under the Act to act in good faith.&lt;br/&gt;The Division also amends the Canada Business Corporations Act to, among other things,&lt;br/&gt;(a) set out factors that directors and officers of a corporation may consider when acting with a view to the best interests of that corporation; and&lt;br/&gt;(b) require directors of certain corporations to disclose certain information to shareholders respecting diversity, well-being and remuneration.&lt;br/&gt;Finally, the Division amends the Pension Benefits Standards Act, 1985 to clarify that a pension plan is not to provide that, among other things, a member's pension benefit or entitlement to a pension benefit is affected when a plan terminates. It also authorizes a pension plan administrator to purchase an immediate or deferred life annuity for former members or survivors in order to satisfy an obligation under the plan to provide a pension benefit arising from a defined benefit provision.&lt;br/&gt;Division 6 of Part 4 amends the Canada Pension Plan to authorize the Minister of Employment and Social Development to waive the requirement for an application for a retirement pension in certain cases.&lt;br/&gt;Division 7 of Part 4 amends the Old Age Security Act to provide, starting in July 2020, a new income exemption for the purposes of calculating the Guaranteed Income Supplement. The new exemption excludes the first $5,000 of a person's employment and self-employment income as well as 50% of their employment and self-employment income greater than $5,000 but not exceeding $15,000.&lt;br/&gt;Division 8 of Part 4 amends the Canadian Forces Superannuation Act, the Public Service Superannuation Act and the Royal Canadian Mounted Police Superannuation Act to increase the surplus limit that applies to the Canadian Forces Pension Fund, the Public Service Pension Fund and the Royal Canadian Mounted Police Pension Fund, respectively, to 25% of the amount of liabilities.&lt;br/&gt;Subdivision A of Division 9 of Part 4 amends the Bankruptcy and Insolvency Act to permit trustee licensing fees to be paid on a date to be prescribed by regulation and to permit trustees to maintain electronic records instead of retaining original documents.&lt;br/&gt;Subdivision B of Division 9 of Part 4 amends the Electricity and Gas Inspection Act to allow for the addition, by regulation, of units of measurement for electricity and gas sales and distribution.&lt;br/&gt;Subdivision C of Division 9 of Part 4 amends the Food and Drugs Act to improve safety and enable innovation by introducing measures to, among other things,&lt;br/&gt;(a) allow the Minister of Health to classify certain products exclusively as foods, drugs, cosmetics or devices;&lt;br/&gt;(b) provide oversight over the conduct of clinical trials for drugs, devices and certain foods for special dietary purposes;&lt;br/&gt;(c) provide a regulatory framework for advanced therapeutic products; and&lt;br/&gt;(d) modernize inspection powers.&lt;br/&gt;Subdivision D of Division 9 of Part 4 amends the Importation of Intoxicating Liquors Act to limit the application of the Act to intoxicating liquors imported into Canada.&lt;br/&gt;Subdivision E of Division 9 of Part 4 amends the Precious Metals Marking Act to provide that exemptions made by regulation can be either conditional or unconditional.&lt;br/&gt;Subdivision F of Division 9 of Part 4 amends the Textile Labelling Act to provide that exemptions made by regulation can be either conditional or unconditional.&lt;br/&gt;Subdivision G of Division 9 of Part 4 amends the Weights and Measures Act to authorize, by regulation, the use of new units of measurement and to update the definitions of the basic units of measurement in accordance with international standards.&lt;br/&gt;Subdivision H of Division 9 of Part 4 amends the Hazardous Materials Information Review Act to streamline the process for reviewing claims for exemption, to allow for the suspension and cancellation of exemptions and to harmonize the provisions of the Act that allow for the disclosure of confidential business information with similar provisions in other Department of Health Acts.&lt;br/&gt;Subdivision I of Division 9 of Part 4 amends the Canada Transportation Act to authorize the electronic administration and enforcement of Acts under the Minister of Transport's authority and to promote innovation in transportation by authorizing the granting of exemptions for the purpose of research, development and testing.&lt;br/&gt;Subdivision J of Division 9 of Part 4 amends the Pest Control Products Act to, among other things, allow the Minister of Health to&lt;br/&gt;(a) expand the scope of a re-evaluation of, or a special review in relation to, a pest control product rather than initiating a new special review; and&lt;br/&gt;(b) decide not to initiate a special review if the aspect of a pest control product that would otherwise prompt such a review is being, or has been, addressed in a re-evaluation or another special review.&lt;br/&gt;Subdivision K of Division 9 of Part 4 repeals the provisions of the Quarantine Act that relate to the laying of proposed regulations before Parliament.&lt;br/&gt;Subdivision L of Division 9 of Part 4 repeals the provisions of the Human Pathogens and Toxins Act that relate to the laying of proposed regulations before Parliament.&lt;br/&gt;Division 10 of Part 4 amends the Royal Canadian Mounted Police Act to establish the Management Advisory Board, which is to provide advice to the Commissioner of the Royal Canadian Mounted Police on the administration and management of that police force.&lt;br/&gt;Division 11 of Part 4 amends the Pilotage Act to, among other things,&lt;br/&gt;(a) set out a clear purpose and principles for that Act;&lt;br/&gt;(b) transfer the responsibility for making regulations from the Pilotage Authorities, with the approval of the Governor in Council, to the Governor in Council, on the recommendation of the Minister of Transport;&lt;br/&gt;(c) transfer responsibility for enforcing that Act and issuing and charging for licences and certificates from the Pilotage Authorities to the Minister of Transport;&lt;br/&gt;(d) set out an enforcement regime that is consistent with other Department of Transport Acts;&lt;br/&gt;(e) provide that regulatory matters for the safe provision of compulsory pilotage services not be addressed in service contracts between the Pilotage Authorities and pilot corporations;&lt;br/&gt;(f) allow the Pilotage Authorities to impose charges other than by making regulations;&lt;br/&gt;(g) require that service contracts between pilot corporations and the Pilotage Authorities be publicly available; and&lt;br/&gt;(h) prohibit pilots, or users or suppliers of pilotage services, from sitting on the board of directors of a Pilotage Authority.&lt;br/&gt;The Division also makes consequential amendments to the Arctic Waters Pollution Prevention Act and the Transportation Appeal Tribunal of Canada Act.&lt;br/&gt;Division 12 of Part 4 enacts the Security Screening Services Commercialization Act. That Act, among other things,&lt;br/&gt;(a) authorizes the Governor in Council to designate a body corporate incorporated under the Canada Not-for-profit Corporations Act as the designated screening authority, which is to be solely responsible for providing aviation security screening services;&lt;br/&gt;(b) authorizes the Canadian Air Transport Security Authority to sell or otherwise dispose of its assets and liabilities to the designated screening authority;&lt;br/&gt;(c) regulates the establishment, imposition and collection of charges related to the provision of aviation security screening services; and&lt;br/&gt;(d) provides for the dissolution of the Canadian Air Transport Security Authority.&lt;br/&gt;The Division also makes consequential amendments to other Acts.&lt;br/&gt;Division 13 of Part 4 amends the Aviation Industry Indemnity Act to authorize the Minister of Transport to undertake to indemnify&lt;br/&gt;(a) NAV CANADA for acts or omissions it commits in accordance with an instruction given under an agreement entered into between NAV CANADA and Her Majesty respecting the provision of air navigation services to the Department of National Defence; and&lt;br/&gt;(b) any beneficiary under an insurance policy held by an aviation industry participant.&lt;br/&gt;Division 14 of Part 4 amends the Transportation Appeal Tribunal of Canada Act to clarify that the Transportation Appeal Tribunal of Canada has jurisdiction in respect of reviews and appeals in connection with administrative monetary penalties provided for under the Marine Liability Act.&lt;br/&gt;Division 15 of Part 4 enacts the College of Immigration and Citizenship Consultants Act. That Act creates a new self-regulatory regime governing immigration and citizenship consultants. It provides that the purpose of the College of Immigration and Citizenship Consultants is to regulate immigration and citizenship consultants in the public interest and protect the public. That Act, among other things,&lt;br/&gt;(a) creates a licensing regime for immigration and citizenship consultants and requires that licensees comply with a code of professional conduct, initially established by the responsible Minister;&lt;br/&gt;(b) authorizes the College's Complaints Committee to conduct investigations into a licensee's conduct and activities;&lt;br/&gt;(c) authorizes the College's Discipline Committee to take or require action if it determines that a licensee has committed professional misconduct or was incompetent;&lt;br/&gt;(d) prohibits persons who are not licensees from using certain titles and representing themselves to be licensees and provides that the College may seek an injunction for the contravention of those prohibitions;&lt;br/&gt;(e) provides the responsible Minister with the authority to determine the number of directors on the board of directors and to require the Board to do anything that is advisable to carry out the purposes of that Act; and&lt;br/&gt;(f) contains transitional provisions allowing the existing regulator — the Immigration Consultants of Canada Regulatory Council — to be continued as the College of Immigration and Citizenship Consultants or, if the existing regulator is not continued, allowing the establishment of the College of Immigration and Citizenship Consultants, a new corporation without share capital.&lt;br/&gt;The Division also makes related amendments to the Citizenship Act and the Immigration and Refugee Protection Act to double the existing maximum fines applicable to the offence of contravening section 21.1 of the Citizenship Act or section 91 of the Immigration and Refugee Protection Act.&lt;br/&gt;In addition, it amends those Acts to provide the authority to make regulations establishing a system of administrative penalties and consequences, including of administrative monetary penalties, applicable to certain violations by persons who provide representation or advice for consideration — or offer to do so — in immigration or citizenship matters.&lt;br/&gt;Finally, the Division makes consequential amendments to the Access to Information Act and the Privacy Act.&lt;br/&gt;Division 16 of Part 4 amends the Immigration and Refugee Protection Act to&lt;br/&gt;(a) introduce a new ground of ineligibility for refugee protection if a claimant has previously made a claim for refugee protection in another country;&lt;br/&gt;(b) provide that if the Federal Court refuses a person's application for leave to commence an application for judicial review, or denies their application for judicial review, with respect to their claim for refugee protection or their application for protection, the date of that refusal or denial is the first day of the period that must pass before a request or application referred to in section 24, 25 or 112 of that Act may be made; and&lt;br/&gt;(c) authorize the Governor in Council to make an order regarding the processing of applications for temporary resident visas, work permits and study permits made by citizens or nationals of a foreign state or territory if the Governor in Council is of the opinion that the government or competent authority of that state or territory is unreasonably refusing to issue or unreasonably delaying the issuance of travel documents to citizens or nationals of that state or territory who are in Canada.&lt;br/&gt;Division 17 of Part 4 amends the Federal Courts Act to increase the number of Federal Court judges.&lt;br/&gt;Division 18 of Part 4 amends the National Housing Act to allow the Canada Mortgage and Housing Corporation to acquire an interest or right in a housing project that is occupied or intended to be occupied by the owner of the project and to make an investment in order to acquire such an interest or right.&lt;br/&gt;Division 19 of Part 4 enacts the National Housing Strategy Act. That Act provides for, among other things, the development and maintenance of a national housing strategy and imposes requirements related to the mandatory content of the strategy. It also establishes a National Housing Council and requires the appointment of a Federal Housing Advocate. Finally, it requires the submission of an annual report by the Advocate on systemic housing issues and the submission of periodic reports by the designated Minister on the implementation of the strategy and the achievement of desired housing outcomes.&lt;br/&gt;Division 20 of Part 4 enacts the Poverty Reduction Act, which provides for an official metric and other metrics to measure the level of poverty in Canada, sets out two poverty reduction targets in Canada and establishes the National Advisory Council on Poverty.&lt;br/&gt;Division 21 of Part 4 amends the Veterans Well-being Act to expand the eligibility criteria for the education and training benefit in order to make members of the Supplementary Reserve eligible for that benefit.&lt;br/&gt;Division 22 of Part 4 amends the Canada Student Loans Act and the Canada Student Financial Assistance Act to extend the interest-free period on student loans by six months and to provide for transitional measures in respect of individuals to whom student loans were made and who ceased to be students at any time during the six months before the amendments come into force.&lt;br/&gt;Division 23 of Part 4 amends the Canada National Parks Act to establish Thaidene Nene National Park Reserve of Canada and to decrease the hectarage of certain ski areas.&lt;br/&gt;Division 24 of Part 4 amends the Parks Canada Agency Act to provide that, starting on April 1, 2021, any balance of money appropriated to the Parks Canada Agency that is not spent by the Agency in the fiscal year in which it was appropriated lapses at the end of that fiscal year.&lt;br/&gt;Subdivision A of Division 25 of Part 4 enacts the Department of Indigenous Services Act, which establishes the Department of Indigenous Services and confers on the Minister of Indigenous Services various responsibilities relating to the provision of services to Indigenous individuals eligible to receive those services.&lt;br/&gt;Subdivision B of Division 25 of Part 4 enacts the Department of Crown-Indigenous Relations and Northern Affairs Act, which establishes the Department of Crown-Indigenous Relations and Northern Affairs, confers on the Minister of Crown-Indigenous Relations various responsibilities relating to relations with Indigenous peoples and confers on the Minister of Northern Affairs various responsibilities relating to the administration of Northern affairs.&lt;br/&gt;Subdivision C of Division 25 of Part 4 makes amendments to other Acts and repeals the Department of Indian Affairs and Northern Development Act.&lt;br/&gt;Subdivision D of Division 25 of Part 4 makes amendments to the First Nations Land Management Act, the First Nations Oil and Gas and Moneys Management Act and the Addition of Lands to Reserves and Reserve Creation Act.&lt;br/&gt;Division 26 of Part 4 enacts the Federal Prompt Payment for Construction Work Act in order to establish a regime to provide prompt payments to contractors and subcontractors for construction work performed for the purposes of a construction project in respect of federal real property or federal immovables and a regime to resolve disputes over the non-payment of that construction work.&lt;/div&gt;</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>&lt;div&gt;La version préliminaire du présent résumé législatif est maintenant disponible. Les parlementaires et les membres de leur personnel peuvent en obtenir un exemplaire en présentant une demande ou en communiquant avec la Bibliothèque du Parlement. Les membres du public peuvent en obtenir un exemplaire auprès du Service de renseignements de la Bibliothèque du Parlement à Info@parl.gc.ca.&lt;br/&gt;&lt;br/&gt;Le 4 avril 2019, le Ministre des Finances a déposé le projet de loi C-97, Loi portant exécution de certaines dispositions du budget déposé au Parlement le 19 mars 2019 et mettant en oeuvre d'autres mesures (Loi n° 1 d'exécution du budget de 2019), à la Chambre des communes en première lecture. &lt;br/&gt;&lt;br/&gt;La partie 1 met en œuvre certaines mesures relatives à l'impôt sur le revenu ainsi que des mesures connexes pour?: &lt;br/&gt;a) accorder un taux de déduction pour amortissement de la première année bonifié temporaire de 100?% à l'égard des véhicules zéro émission admissibles;&lt;br/&gt;b) abroger l'obligation voulant qu'un bien soit d'importance nationale pour donner droit aux incitatifs fiscaux bonifiés pour les dons de biens culturels;&lt;br/&gt;c) accorder un taux de déduction pour amortissement de la première année bonifié temporaire à l'égard de plusieurs catégories de biens amortissables, y compris un taux de déduction pour amortissement de la première année temporaire de 100?% à l'égard des biens suivants?: &lt;br/&gt;(i) les machines et le matériel utilisés pour la fabrication ou la transformation de biens,&lt;br/&gt;(ii) le matériel désigné relatif à l'énergie propre;&lt;br/&gt;d) s'assurer que les prestations d'assistance sociale versées dans le cadre de certains programmes ne sont ni imposables, ni comprises dans le revenu en vue du calcul du droit aux prestations et aux crédits fondés sur le revenu et qu'elles n'empêchent pas un particulier d'être considéré comme étant un «?parent?» pour l'application de l'Allocation canadienne pour les travailleurs;&lt;br/&gt;e) abroger le recours au revenu imposable comme facteur contribuant à déterminer la limite des dépenses annuelles d'une société privée sous contrôle canadien pour l'application du crédit d'impôt majoré pour la recherche scientifique et le développement expérimental;&lt;br/&gt;f) prévoir de l'aide pour le journalisme canadien;&lt;br/&gt;g) instaurer le Crédit canadien pour la formation;&lt;br/&gt;h) modifier la Loi de l'impôt sur le revenu de façon à tenir compte de la réglementation actuelle sur l'accès au cannabis à des fins médicales;&lt;br/&gt;i) éliminer l'exigence voulant que les ventes soient effectuées à une société coopérative agricole ou de pêche pour qu'elles soient exclues du revenu de société déterminé pour l'application de la déduction accordée aux petites entreprises;&lt;br/&gt;j) prolonger le crédit d'impôt pour exploration minière de cinq années supplémentaires;&lt;br/&gt;k) s'assurer que le revenu d'entreprise d'organismes communautaires conserve son caractère lorsqu'il est attribué aux membres de l'organisme aux fins d'impôt;&lt;br/&gt;l) hausser le plafond de retrait du Régime d'accession à la propriété et modifier la façon dont le régime s'applique en cas d'échec du mariage ou de l'union de fait;&lt;br/&gt;m) élargir la responsabilité solidaire concernant le paiement de l'impôt sur le revenu découlant de l'exploitation d'une entreprise par l'entremise d'un CELI à son titulaire et limiter la responsabilité solidaire d'un fiduciaire quant à un tel impôt;&lt;br/&gt;n) soutenir les employés qui doivent rembourser un trop-payé de salaire à leur employeur en raison d'une erreur administrative, de système ou d'écriture;&lt;br/&gt;o) accroître l'aide fiscale pour les bornes de recharge pour véhicules électriques et l'équipement de stockage d'énergie électrique;&lt;br/&gt;p) permettre à des projets conjoints de producteurs du Canada et de la Belgique d'être admissibles au crédit d'impôt pour la production cinématographique ou magnétoscopique canadienne;&lt;br/&gt;q) s'assurer que les calculs du facteur d'équivalence pour 2019 et les années d'imposition ultérieures sont appropriés en ce qui touche les régimes de pension agréés qui font référence à la bonification du Régime de pensions du Canada.&lt;br/&gt;La partie 2 met en œuvre certaines mesures relatives à la taxe sur les produits et services/taxe de vente harmonisée (TPS/TVH) qui ont été proposées dans le budget du 19 mars 2019 pour?: &lt;br/&gt;a) fournir un allègement de la TPS/TVH dans le secteur des soins de santé en allégeant les fournitures et les importations d'ovules humains et les importations d'embryons humains in vitro de la TPS/TVH, en ajoutant les podiatres et les podologues autorisés à la liste des praticiens dont l'ordonnance permet la fourniture détaxée de certains appareils pour le soin des pieds et en exonérant de la TPS/TVH certains services de soins de santé rendus par une équipe multidisciplinaire composée de professionnels de la santé autorisés;&lt;br/&gt;b) apporter des modifications afin que le traitement aux fins de la TPS/TVH des dépenses engagées à l'égard des voitures de tourisme zéro émission soit parallèle au traitement de ces véhicules aux fins de l'impôt sur le revenu.&lt;br/&gt;La partie 3 met en œuvre certaines mesures relatives à l'accise qui ont été proposées dans le budget du 19 mars 2019 pour changer le taux du droit d'accise fédéral sur les produits du cannabis qui sont du cannabis comestible, des extraits de cannabis (y compris les huiles de cannabis) et le cannabis pour usage topique à 0,0025?$ par milligramme de tétrahydrocannabinol contenu dans le produit du cannabis.&lt;br/&gt;La partie 4 met en œuvre diverses mesures, notamment par l'édiction et la modification de plusieurs lois.&lt;br/&gt;La sous-section A de la section 1 de la partie 4 modifie la Loi sur les banques afin, notamment, de permettre aux membres des coopératives de crédit fédérales de voter, de différentes manières, avant la tenue d'une assemblée et de prévoir des exceptions supplémentaires à l'obligation de solliciter les procurations au moyen de circulaires. Cette sous-section apporte également une modification technique à la Loi modifiant certaines lois relatives aux institutions financières.&lt;br/&gt;La sous-section B de la section 1 de la partie 4 modifie la Loi canadienne sur les paiements pour permettre de renouveler deux fois le mandat des administrateurs élus du conseil d'administration de l'Association canadienne des paiements, pour prolonger le mandat du président et du vice-président de ce conseil d'administration et pour permettre de rémunérer certains membres du comité consultatif des intervenants.&lt;br/&gt;La sous-section A de la section 2 de la partie 4 modifie la Loi canadienne sur les sociétés par actions afin, notamment, d'obliger une société, à la demande d'un organisme d'enquête qui a des motifs raisonnables de soupçonner qu'une certaine infraction a été perpétrée, à fournir à l'organisme d'enquête une copie de son registre des particuliers ayant un contrôle important ou tout renseignement précisé par cet organisme figurant dans ce registre. Elle oblige également les organismes d'enquête à tenir un registre où figurent certains renseignements liés aux demandes effectuées et à faire rapport annuellement sur ces demandes.&lt;br/&gt;La sous-section B de la section 2 de la partie 4 modifie le Code criminel afin d'ajouter l'élément d'insouciance à l'infraction de recyclage des produits de la criminalité.&lt;br/&gt;La sous-section C de la section 2 de la partie 4 modifie la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes afin, notamment?: &lt;br/&gt;a) d'autoriser le gouverneur en conseil à définir, par règlement, les termes «?monnaie virtuelle?» et  «?commerce de monnaie virtuelle?»;&lt;br/&gt;b) d'exiger du Centre d'analyse des opérations et déclarations financières du Canada («?Centre?») qu'il communique, dans certaines circonstances, des renseignements à l'Agence du revenu du Québec et au Bureau de la concurrence;&lt;br/&gt;c) de permettre au Centre de communiquer des renseignements désignés additionnels relatifs à l'importation et à l'exportation d'espèces ou d'effets;&lt;br/&gt;d) de prévoir que certains renseignements ne peuvent faire l'objet d'une ordonnance visant à assurer leur confidentialité rendue dans le cadre d'un appel à la Cour fédérale;&lt;br/&gt;e) d'obliger le Centre à rendre publics certains renseignements en cas d'aveu de responsabilité à l'égard de la violation ou de signification d'un avis d'une décision du directeur portant que l'intéressé a commis une violation.&lt;br/&gt;La sous-section D de la section 2 de la partie 4 modifie la Loi sur l'administration des biens saisis afin, notamment?: &lt;br/&gt;a) d'autoriser le ministre à fournir à tout fonctionnaire de l'administration publique fédérale et à tout employé d'une autorité provinciale ou municipale des services consultatifs et autres concernant la saisie, le blocage, la garde, l'administration, la confiscation ou la disposition de certains biens;&lt;br/&gt;b) d'attribuer au ministre l'administration de biens qui ont fait l'objet d'une saisie, d'un blocage ou d'une confiscation en vertu d'une loi fédérale ou provinciale;&lt;br/&gt;c) d'autoriser le ministre à disposer des biens qui ont été confisqués au profit de Sa Majesté du chef du Canada et, avec l'approbation du gouvernement de la province, des biens qui ont été confisqués au profit de Sa Majesté du chef d'une province, et à partager le produit de la disposition de ces biens.&lt;br/&gt;Cette sous-section apporte également des modifications corrélatives au Code criminel, à la Loi sur les crimes contre l'humanité et les crimes de guerre et à la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes.&lt;br/&gt;La section 3 de la partie 4 modifie la Loi sur l'équité en matière d'emploi afin d'obliger les employeurs du secteur privé relevant de la compétence fédérale à déclarer les renseignements sur la rémunération de manière à améliorer la production de rapports sur l'équité en matière d'emploi en rendant notamment plus accessibles les renseignements sur les écarts salariaux par catégorie professionnelle, en plus des échelles de rémunération.&lt;br/&gt;La section 4 de la partie 4 autorise des paiements sur le Trésor pour l'aide pour le climat, en matière d'infrastructures ainsi qu'à la Fédération canadienne des municipalités et au Shock Trauma Air Rescue Service.&lt;br/&gt;La section 5 de la partie 4 modifie la Loi sur la faillite et l'insolvabilité afin, notamment de?: &lt;br/&gt;a) prévoir l'obligation pour toutes les parties d'agir de bonne foi dans le cadre des procédures intentées au titre de cette loi;&lt;br/&gt;b) permettre au tribunal d'enquêter au sujet de certaines sommes payées notamment à des administrateurs ou à des dirigeants de personne morale dans l'année précédant la faillite de celle-ci et de tenir responsables de ces paiements les administrateurs de la personne morale.&lt;br/&gt;Cette section modifie aussi la Loi sur les arrangements avec les créanciers des compagnies afin, notamment de?: &lt;br/&gt;a) limiter aux redressements normalement nécessaires certaines ordonnances rendues au titre de l'article 11 de cette loi et de limiter à dix jours la suspension de procédures qui pourraient être intentées contre la compagnie;&lt;br/&gt;b) permettre au tribunal d'ordonner la divulgation d'intérêts économiques dans une compagnie débitrice;&lt;br/&gt;c) prévoir l'obligation pour toutes les parties d'agir de bonne foi dans le cadre des procédures intentées au titre de cette loi.&lt;br/&gt;De plus, cette section modifie la Loi canadienne sur les sociétés par actions afin, notamment de?: &lt;br/&gt;a) prévoir les facteurs dont les administrateurs et les dirigeants d'une société peuvent tenir compte lorsqu'ils agissent au mieux des intérêts de la société;&lt;br/&gt;b) prévoir que les administrateurs de certaines sociétés sont tenus de présenter aux actionnaires certains renseignements relatifs à la diversité, au bien-être et à la rémunération.&lt;br/&gt;Enfin, cette section modifie la Loi de 1985 sur les normes de prestation de pension afin de clarifier qu'un régime de pension ne peut comporter de disposition qui, en cas de cessation du régime, aurait pour effet, notamment, de modifier la prestation de pension ou le droit à celle-ci. Elle permet également aux administrateurs d'un régime de pension d'acheter une prestation viagère immédiate ou différée pour un ancien participant ou un survivant de manière à satisfaire à l'obligation de fournir à ceux-ci une prestation de pension liée à une disposition à prestations déterminées.&lt;br/&gt;La section 6 de la partie 4 modifie le Régime de pensions du Canada pour permettre au ministre de l'Emploi et du Développement social de dispenser une personne, dans certains cas, de l'obligation de présenter une demande visant l'obtention d'une pension de retraite.&lt;br/&gt;La section 7 de la partie 4 modifie la Loi sur la sécurité de la vieillesse afin de prévoir à compter de juillet 2020 une nouvelle exemption à l'égard du revenu pris en compte dans le calcul du montant du supplément de revenu garanti. La nouvelle exemption exclut les premiers cinq mille dollars du revenu d'une personne tiré d'un emploi ou d'un travail effectué à son compte et cinquante pour cent de la partie de ce revenu supérieure à cinq mille dollars mais d'au plus quinze mille dollars.&lt;br/&gt;La section 8 de la partie 4 modifie la Loi sur la pension de retraite des Forces canadiennes, la Loi sur la pension de la fonction publique et la Loi sur la pension de retraite de la Gendarmerie royale du Canada pour augmenter la limite du surplus qui s'applique à la Caisse de retraite des Forces canadiennes, à la Caisse de retraite de la fonction publique et à la Caisse de retraite de la Gendarmerie royale du Canada, respectivement, à vingt-cinq pour cent du montant de la dette actuarielle.&lt;br/&gt;La sous-section A de la section 9 de la partie 4 modifie la Loi sur la faillite et l'insolvabilité pour permettre le paiement des droits afférents à la délivrance de licences aux syndics à une date réglementaire et pour permettre aux syndics de tenir des registres en format électronique au lieu de conserver les documents originaux.&lt;br/&gt;La sous-section B de la section 9 de la partie 4 modifie la Loi sur l'inspection de l'électricité et du gaz pour permettre l'ajout, par voie réglementaire, d'unités de mesure pour la vente et la distribution d'électricité et de gaz.&lt;br/&gt;La sous-section C de la section 9 de la partie 4 modifie la Loi sur les aliments et drogues afin d'améliorer la sécurité et de favoriser l'innovation en introduisant des mesures visant notamment à?: &lt;br/&gt;a) permettre au ministre de la Santé de classifier certains produits comme étant exclusivement des aliments, des drogues, des cosmétiques ou des instruments;&lt;br/&gt;b) prévoir la surveillance de la conduite d'essais cliniques relatifs à des drogues, à des instruments ou à certains aliments à des fins diététiques spéciales;&lt;br/&gt;c) prévoir un cadre régissant les produits thérapeutiques innovants;&lt;br/&gt;d) moderniser les pouvoirs d'inspection.&lt;br/&gt;La sous-section D de la section 9 de la partie 4 modifie la Loi sur l'importation des boissons enivrantes pour que son application soit limitée aux boissons enivrantes importées au Canada.&lt;br/&gt;La sous-section E de la section 9 de la partie 4 modifie la Loi sur le poinçonnage des métaux précieux pour prévoir des exemptions réglementaires conditionnelles et absolues.&lt;br/&gt;La sous-section F de la section 9 de la partie 4 modifie la Loi sur l'étiquetage des textiles pour prévoir des exemptions réglementaires conditionnelles et absolues.&lt;br/&gt;La sous-section G de la section 9 de la partie 4 modifie la Loi sur les poids et mesures pour autoriser, par voie réglementaire, l'emploi de nouvelles unités de mesure et pour mettre à jour les définitions des unités de base conformément aux normes internationales.&lt;br/&gt;La sous-section H de la section 9 de la partie 4 modifie la Loi sur le contrôle des renseignements relatifs aux matières dangereuses pour simplifier le processus d'examen des demandes de dérogation, autoriser la suspension et l'annulation de dérogations et harmoniser les dispositions de cette loi permettant la communication de renseignements commerciaux confidentiels avec des dispositions similaires dans d'autres lois du ministère de la Santé.&lt;br/&gt;La sous-section I de la section 9 de la partie 4 modifie la Loi sur les transports au Canada pour autoriser l'exécution et le contrôle d'application par voie électronique des lois relevant de la compétence du ministre des Transports et pour favoriser l'innovation dans le domaine des transports en autorisant des exemptions à des fins de recherche, de développement ou d'essais.&lt;br/&gt;La sous-section J de la section 9 de la partie 4 modifie la Loi sur les produits antiparasitaires afin, notamment, de permettre au ministre de la Santé?: &lt;br/&gt;a) d'étendre la portée d'une réévaluation d'un produit antiparasitaire ou d'un examen spécial relatif à un tel produit plutôt que d'entreprendre un nouvel examen spécial; &lt;br/&gt;b) de décider de ne pas procéder à un examen spécial lorsque l'aspect d'un produit antiparasitaire qui justifierait un tel examen est ou a été visé par une réévaluation ou par un autre examen spécial.&lt;br/&gt;La sous-section K de la section 9 de la partie 4 abroge les dispositions de la Loi sur la mise en quarantaine relatives au dépôt des projets de règlement devant le Parlement.&lt;br/&gt;La sous-section L de la section 9 de la partie 4 abroge les dispositions de la Loi sur les agents pathogènes humains et les toxines relatives au dépôt des projets de règlement devant le Parlement.&lt;br/&gt;La section 10 de la partie 4 modifie la Loi sur la Gendarmerie royale du Canada pour constituer le Conseil consultatif de gestion qui est chargé de fournir des conseils relativement à l'administration et à la gestion de la Gendarmerie royale du Canada au commissaire de cette force policière.&lt;br/&gt;La section 11 de la partie 4 modifie la Loi sur le pilotage afin, notamment?: &lt;br/&gt;a) d'énoncer clairement l'objet et les principes de cette loi;&lt;br/&gt;b) de transférer la responsabilité d'élaborer les règlements des administrations de pilotage, avec l'approbation du gouverneur en conseil, au gouverneur en conseil sur la recommandation du ministre des Transports;&lt;br/&gt;c) de transférer des administrations de pilotage au ministre des Transports la responsabilité relative à l'application de cette loi ainsi qu'à la délivrance de brevets et de certificats et à la facturation des frais connexes;&lt;br/&gt;d) de mettre en place un régime de contrôle d'application plus cohérent avec les autres lois du ministère des Transports;&lt;br/&gt;e) de prévoir que les questions de réglementation relatives à la prestation sécuritaire des services de pilotage obligatoire ne sont pas traitées dans les contrats de louage de services conclus entre les administrations de pilotage et les corporations de pilotes;&lt;br/&gt;f) de permettre aux administrations de pilotage de fixer les redevances autrement que par règlement;&lt;br/&gt;g) d'exiger que les contrats de louage de services conclus entre les administrations de pilotage et les corporations de pilotes soient rendus publics;&lt;br/&gt;h) d'interdire aux pilotes ou aux utilisateurs ou fournisseurs de services de pilotage de siéger au conseil d'administration des administrations de pilotage.&lt;br/&gt;Cette section apporte également des modifications corrélatives à la Loi sur la prévention de la pollution des eaux arctiques et à la Loi sur le Tribunal d'appel des transports du Canada.&lt;br/&gt;La section 12 de la partie 4 édicte la Loi sur la commercialisation des services de contrôle de sûreté. Cette loi, notamment?: &lt;br/&gt;a) autorise le gouverneur en conseil à désigner une personne morale constituée sous le régime de la Loi canadienne sur les organisations à but non lucratif à titre d'administration de contrôle désignée chargée exclusivement de la fourniture des services de contrôle de sûreté aérienne;&lt;br/&gt;b) autorise l'Administration canadienne de la sûreté du transport aérien à vendre ses actifs et obligations à l'administration de contrôle désignée, ou à en disposer autrement;&lt;br/&gt;c) régit l'établissement, l'imposition et la perception des redevances liées à la fourniture des services de contrôle de sûreté aérienne;&lt;br/&gt;d) prévoit la dissolution de l'Administration canadienne de la sûreté du transport aérien.&lt;br/&gt;Cette section apporte également des modifications corrélatives à d'autres lois.&lt;br/&gt;La section 13 de la partie 4 modifie la Loi sur l'indemnisation de l'industrie aérienne pour autoriser le ministre des Transports à s'engager à indemniser?: &lt;br/&gt;a) la société NAV CANADA relativement aux actes ou omissions qu'elle commet conformément aux instructions données dans le cadre d'accords conclus entre elle et Sa Majesté concernant la fourniture, au ministère de la Défense nationale, de services de navigation aérienne;&lt;br/&gt;b) tout bénéficiaire d'une police d'assurance contractée par un participant de l'industrie aérienne.&lt;br/&gt;La section 14 de la partie 4 modifie la Loi sur le Tribunal d'appel des transports du Canada pour clarifier le fait que le Tribunal d'appel des transports du Canada a compétence en matière de requêtes en révision et d'appels portant sur les sanctions administratives pécuniaires prévues par la Loi sur la responsabilité en matière maritime.&lt;br/&gt;La section 15 de la partie 4 édicte la Loi sur le Collège des consultants en immigration et en citoyenneté. Cette loi prévoit un nouveau régime d'autoréglementation pour les consultants en immigration et en citoyenneté. Elle prévoit que le Collège des consultants en immigration et en citoyenneté a pour mission, d'une part, de régir les consultants en immigration et en citoyenneté dans l'intérêt public et, d'autre part, de protéger le public. Cette loi, notamment?: &lt;br/&gt;a) établit un régime d'octroi de permis pour les consultants en immigration et en citoyenneté et exige que les titulaires de permis se conforment à un code de déontologie établi initialement par le ministre responsable;&lt;br/&gt;b) autorise le comité des plaintes du Collège à mener des enquêtes sur la conduite et les actes d'un titulaire de permis;&lt;br/&gt;c) autorise le comité de discipline du Collège à prendre ou à imposer des mesures s'il conclut qu'un titulaire de permis a commis un manquement professionnel ou a fait preuve d'incompétence;&lt;br/&gt;d) interdit à quiconque n'est pas titulaire d'un permis d'utiliser certains titres et de se présenter comme étant titulaire de permis et autorise le Collège à demander une injonction en cas de contravention à ces interdictions;&lt;br/&gt;e) confère au ministre responsable le pouvoir de fixer le nombre d'administrateurs siégeant au conseil d'administration et d'exiger du conseil qu'il fasse ce qui est souhaitable pour l'atteinte des objectifs de la loi;&lt;br/&gt;f) contient des dispositions transitoires permettant la prorogation de l'organisme de réglementation actuel — le Conseil de réglementation des consultants en immigration du Canada — sous le nom de Collège des consultants en immigration et en citoyenneté ou, à défaut, la constitution du Collège des consultants en immigration et en citoyenneté en tant que nouvelle personne morale sans capital-actions.&lt;br/&gt;De plus, la section apporte des modifications connexes à la Loi sur la citoyenneté et la Loi sur l'immigration et la protection des réfugiés afin de doubler les amendes maximales en vigueur pour les infractions relatives aux contraventions aux articles 21.1 de la Loi sur la citoyenneté ou 91 de la Loi sur l'immigration et la protection des réfugiés.&lt;br/&gt;Elle modifie également ces lois pour y permettre l'établissement d'un régime de sanctions et de conséquences administratives — y compris de sanctions administratives pécuniaires — applicable à certaines violations commises par des individus qui représentent ou conseillent des personnes, moyennant rétribution, en matière d'immigration et de citoyenneté, ou offrent de le faire.&lt;br/&gt;Enfin, cette section apporte des modifications corrélatives à la Loi sur l'accès à l'information et à la Loi sur la protection des renseignements personnels.&lt;br/&gt;La section 16 de la partie 4 modifie la Loi sur l'immigration et la protection des réfugiés pour?: &lt;br/&gt;a) prévoir que constitue un nouveau critère d'irrecevabilité le fait, pour un demandeur d'asile, d'avoir antérieurement fait une demande d'asile auprès d'un autre pays;&lt;br/&gt;b) prévoir que la date du refus de l'autorisation de contrôle judiciaire ou du rejet de la demande de contrôle judiciaire par la Cour fédérale à l'égard de la demande d'asile ou de protection, le cas échéant, est le premier jour pris en compte dans le calcul du délai précédant la date à laquelle une demande visée aux articles 24, 25 ou 112 de cette loi peut être faite;&lt;br/&gt;c) conférer au gouverneur en conseil le pouvoir de prendre un décret concernant l'examen des demandes de visa de résident temporaire et de permis de travail ou d'études faites par des citoyens ou des ressortissants d'un État étranger ou d'un territoire, s'il est d'avis que le gouvernement ou l'autorité compétente de cet État ou de ce territoire, de manière déraisonnable, refuse de délivrer des titres de voyage à des citoyens ou des ressortissants de cet État ou de ce territoire qui se trouvent au Canada ou en retarde la délivrance.&lt;br/&gt;La section 17 de la partie 4 modifie la Loi sur les Cours fédérales pour augmenter le nombre de juges à la Cour fédérale.&lt;br/&gt;La section 18 de la partie 4 modifie la Loi nationale sur l'habitation afin de permettre à la Société d'hypothèque et de logement d'acquérir un droit ou un intérêt dans un ensemble d'habitation occupé ou destiné à être occupé par le propriétaire de celui-ci et de faire des placements afin d'acquérir un tel droit ou intérêt.&lt;br/&gt;La section 19 de la partie 4 édicte la Loi sur la stratégie nationale sur le logement prévoyant notamment l'élaboration et le maintien d'une stratégie nationale sur le logement. Cette loi impose des exigences quant au contenu essentiel de la stratégie, constitue le Conseil national du logement et prévoit la nomination d'un défenseur fédéral du logement. Elle prévoit également l'établissement par le défenseur fédéral du logement de rapports annuels sur les problèmes systémiques en matière de logement ainsi que l'établissement par le ministre désigné, à intervalles réguliers, de rapports sur la mise en œuvre de la stratégie et sur l'atteinte des résultats souhaités en matière de logement.&lt;br/&gt;La section 20 de la partie 4 édicte la Loi sur la réduction de la pauvreté, laquelle prévoit un outil officiel et d'autres outils pour mesurer le taux de pauvreté au Canada, établit deux cibles de réduction de la pauvreté et constitue le Conseil consultatif national sur la pauvreté.&lt;br/&gt;La section 21 de la partie 4 modifie la Loi sur le bien-être des vétérans afin d'élargir les critères d'admissibilité à l'allocation pour études et formation de manière à ce que les militaires de la Réserve supplémentaire y aient droit.&lt;br/&gt;La section 22 de la partie 4 modifie la Loi fédérale sur les prêts aux étudiants et la Loi fédérale sur l'aide financière aux étudiants pour prolonger de six mois la période d'exemption du paiement d'intérêt sur les prêts étudiants et pour prévoir des mesures transitoires à l'égard des personnes physiques à qui des prêts étudiants ont été consentis et qui ont cessé d'être des étudiants dans les six mois précédant l'entrée en vigueur des modifications.&lt;br/&gt;La section 23 de la partie 4 modifie la Loi sur les parcs nationaux du Canada en vue de la création de la réserve à vocation de parc national Thaidene Nene du Canada et pour diminuer la superficie de certaines stations de ski.&lt;br/&gt;La section 24 de la partie 4 modifie la Loi sur l'Agence Parcs Canada afin qu'à partir du 1er avril 2021, la partie non utilisée d'un crédit affecté à l'Agence Parcs Canada soit annulée à la fin de l'exercice au cours duquel il a été affecté.&lt;br/&gt;La sous-section A de la section 25 de la partie 4 édicte la Loi sur le ministère des Services aux Autochtones qui constitue ce ministère et confie au ministre des Services aux Autochtones diverses responsabilités en matière de prestation de services aux Autochtones admissibles à les recevoir.&lt;br/&gt;La sous-section B de la section 25 de la partie 4 édicte la Loi sur le ministère des Relations Couronne-Autochtones et des Affaires du Nord qui constitue ce ministère et confie diverses responsabilités au ministre des Relations Couronne-Autochtones, en ce qui a trait aux relations avec les peuples autochtones, et au ministre des Affaires du Nord, en ce qui a trait à l'administration des affaires du Nord.&lt;br/&gt;La sous-section C de la section 25 de la partie 4 modifie d'autres lois et abroge la Loi sur le ministère des Affaires indiennes et du Nord canadien.&lt;br/&gt;Enfin, la sous-section D de la section 25 de la partie 4 modifie la Loi sur la gestion des terres des premières nations, la Loi sur la gestion du pétrole et du gaz et des fonds des Premières Nations et la Loi sur l'ajout de terres aux réserves et la création de réserves.&lt;br/&gt;La section 26 de la partie 4 édicte la Loi fédérale sur le paiement rapide des travaux de construction pour établir un régime prévoyant des paiements rapides aux entrepreneurs et sous-traitants qui effectuent des travaux de construction pour l'exécution de projets de construction portant sur des immeubles fédéraux ou des biens réels fédéraux et un régime de règlement de différends concernant le non-paiement de ces travaux de construction.&lt;/div&gt;</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>&lt;div&gt;The pre-release version of this Legislative Summary is now available. Parliamentarians and their staff can obtain a copy by submitting a request or contacting the Library of Parliament. Members of the public can obtain a copy by contacting the Information Service at the Library of Parliament at Info@parl.gc.ca.&lt;br/&gt;&lt;br/&gt;On 9 April 2019, the Minister of Finance introduced Bill C-97, An Act to implement certain provisions of the budget tabled in Parliament on March 19, 2019 and other measures (Budget Implementation Act, 2019, No. 1), in the House of Commons and it was given first reading.  &lt;br/&gt;&lt;br/&gt;Part 1 implements certain income tax and related measures by&lt;br/&gt;(a) providing a temporary enhanced first-year capital cost allowance rate of 100% in respect of eligible zero-emission vehicles;&lt;br/&gt;(b) removing the requirement that property be of "national importance" in order to qualify for the enhanced tax incentives for donations of cultural property;&lt;br/&gt;(c) providing a temporary enhanced first-year capital cost allowance rate in respect of a wide range of depreciable capital properties, including a temporary first-year capital cost allowance rate of 100% in respect of&lt;br/&gt;(i) machinery and equipment used for the manufacturing or processing of goods, and&lt;br/&gt;(ii) specified clean energy equipment;&lt;br/&gt;(d) ensuring that social assistance payments under certain programs are non-taxable, are not included in income for the purposes of determining entitlement to income-tested benefits and credits and do not preclude an individual from being considered a "parent" for the purposes of the Canada Workers Benefit;&lt;br/&gt;(e) repealing the use of taxable income as a factor in determining a Canadian-controlled private corporation's annual expenditure limit for the purpose of the enhanced scientific research and experimental development tax credit;&lt;br/&gt;(f) providing support for Canadian journalism;&lt;br/&gt;(g) introducing the Canada Training Credit;&lt;br/&gt;(h) amending the Income Tax Act to reflect the current regulations for accessing cannabis for medical purposes;&lt;br/&gt;(i) eliminating the requirement that sales be to a farming or fishing cooperative corporation in order to be excluded from specified corporate income for the purposes of the small business deduction;&lt;br/&gt;(j) extending the mineral exploration tax credit for an additional five years;&lt;br/&gt;(k) ensuring that business income of a communal organization retains its character when it is allocated to members of the communal organization for tax purposes;&lt;br/&gt;(l) increasing the withdrawal limit under the Home Buyers' Plan and amending how it applies on the breakdown of a marriage or common-law partnership;&lt;br/&gt;(m) extending joint and several liability for tax owing on income from carrying on business in a TFSA to the TFSA's holder and limiting the TFSA issuer's liability for such tax;&lt;br/&gt;(n) supporting employees who must reimburse a salary overpayment to their employer due to a system, administrative or clerical error;&lt;br/&gt;(o) expanding tax support for electric vehicle charging stations and electrical energy storage equipment;&lt;br/&gt;(p) allowing joint projects of producers from Canada and Belgium to qualify for the Canadian film or video production tax credit; and&lt;br/&gt;(q) ensuring appropriate pension adjustment calculations in 2019 and subsequent tax years for registered pension plans that reference the enhanced Canada Pension Plan.&lt;br/&gt;Part 2 implements certain goods and services tax/harmonized sales tax (GST/HST) measures proposed in the March 19, 2019 budget&lt;br/&gt;(a) to provide GST/HST relief in the health care sector by relieving the GST/HST on supplies and importations of human ova and importations of in vitro embryos, by adding licenced podiatrists and chiropodists to the list of practitioners on whose order supplies of foot care devices are zero-rated and by exempting from the GST/HST certain health care services rendered by a multidisciplinary team of licenced health care professionals; and&lt;br/&gt;(b) by introducing amendments to ensure that the GST/HST treatment of expenses incurred in respect of zero-emission passenger vehicles parallels the income tax treatment of those vehicles.&lt;br/&gt;Part 3 implements certain excise measures proposed in the March 19, 2019 budget by changing the federal excise duty rates on cannabis products that are edible cannabis, cannabis extracts (including cannabis oils) and cannabis topicals to $0.0025 per milligram of total tetrahydrocannabinol contained in the cannabis product.&lt;br/&gt;Part 4 enacts and amends several Acts in order to implement various measures.&lt;br/&gt;Subdivision A of Division 1 of Part 4 amends the Bank Act to, among other things, provide members of federal credit unions with different methods of voting prior to meetings and provide additional exceptions to the requirement that a proxy circular be sent in order to solicit proxies. The Subdivision also makes a technical amendment to An Act to amend certain Acts in relation to financial institutions.&lt;br/&gt;Subdivision B of Division 1 of Part 4 amends the Canadian Payments Act to allow the term of the elected directors of the Board of Directors of the Canadian Payments Association to be renewed twice, to extend the term of the Chairperson and Deputy Chairperson of that Board and to allow the remuneration of certain members of the Stakeholder Advisory Council.&lt;br/&gt;Subdivision A of Division 2 of Part 4 amends the Canada Business Corporations Act to require a corporation, on request by an investigative body that has reasonable grounds to suspect that certain offences have been committed, to provide to the investigative body a copy of its register of individuals with significant control or information in that registry that is specified by the investigative body. It also requires those investigative bodies to keep certain records in relation to their requests and to report annually in respect of those requests.&lt;br/&gt;Subdivision B of Division 2 of Part 4 amends the Criminal Code to add the element of recklessness to the offence of laundering proceeds of crime.&lt;br/&gt;Subdivision C of Division 2 of Part 4 amends the Proceeds of Crime (Money Laundering) and Terrorist Financing Act to, among other things,&lt;br/&gt;(a) allow the Governor in Council to make regulations defining "virtual currency" and "dealing in virtual currencies";&lt;br/&gt;(b) require the Financial Transactions and Reports Analysis Centre of Canada ("the Centre") to disclose information to the Agence du Revenu du Québec and the Competition Bureau in certain circumstances;&lt;br/&gt;(c) allow the Centre to disclose additional designated information that is associated with the import and export of currency and monetary instruments;&lt;br/&gt;(d) provide that certain information must not be the subject of a confidentiality order made in the course of an appeal to the Federal Court; and&lt;br/&gt;(e) require the Centre to make public certain information if a person or entity is deemed to have committed a violation or is served a notice of a decision of the Director indicating that a person or entity has committed a violation.&lt;br/&gt;Subdivision D of Division 2 of Part 4 amends the Seized Property Management Act to authorize the Minister to, among other things,&lt;br/&gt;(a) provide consultative and other services to any person employed in the federal public administration or by a provincial or municipal authority in relation to the seizure, restraint, custody, management, forfeiture or disposal of certain property;&lt;br/&gt;(b) manage property seized, restrained or forfeited under any Act of Parliament or of the legislature of a province; and&lt;br/&gt;(c) dispose of property when it is forfeited to Her Majesty in right of Canada and, with the consent of the government of the province, when it is forfeited to Her Majesty in right of a province, and share the proceeds.&lt;br/&gt;The Subdivision also makes consequential amendments to the Criminal Code, the Crimes Against Humanity and War Crimes Act and the Proceeds of Crime (Money Laundering) and Terrorist Financing Act.&lt;br/&gt;Division 3 of Part 4 amends the Employment Equity Act to require federally regulated private-sector employers to report salary information that supports employment equity reporting beyond salary ranges, including making wage gap information by occupational groups more evident.&lt;br/&gt;Division 4 of Part 4 authorizes payments to be made out of the Consolidated Revenue Fund for climate action support and in relation to infrastructure as well as to the Federation of Canadian Municipalities and to the Shock Trauma Air Rescue Service.&lt;br/&gt;Division 5 of Part 4 amends the Bankruptcy and Insolvency Act to, among other things,&lt;br/&gt;(a) require all parties in a proceeding under the Act to act in good faith; and&lt;br/&gt;(b) allow the court to inquire into certain payments made to, among other persons, directors or officers of a corporation in the year preceding insolvency and imposes liability on the directors for those payments.&lt;br/&gt;The Division amends the Companies' Creditors Arrangement Act to, among other things,&lt;br/&gt;(a) limit the relief provided in an order made under section 11 to what is reasonably necessary and limit the period staying all proceedings that might be taken in respect of the company to 10 days;&lt;br/&gt;(b) allow the court to make an order to disclose an economic interest in respect of a debtor company; and&lt;br/&gt;(c) require all parties in a proceeding under the Act to act in good faith.&lt;br/&gt;The Division also amends the Canada Business Corporations Act to, among other things,&lt;br/&gt;(a) set out factors that directors and officers of a corporation may consider when acting with a view to the best interests of that corporation; and&lt;br/&gt;(b) require directors of certain corporations to disclose certain information to shareholders respecting diversity, well-being and remuneration.&lt;br/&gt;Finally, the Division amends the Pension Benefits Standards Act, 1985 to clarify that a pension plan is not to provide that, among other things, a member's pension benefit or entitlement to a pension benefit is affected when a plan terminates. It also authorizes a pension plan administrator to purchase an immediate or deferred life annuity for former members or survivors in order to satisfy an obligation under the plan to provide a pension benefit arising from a defined benefit provision.&lt;br/&gt;Division 6 of Part 4 amends the Canada Pension Plan to authorize the Minister of Employment and Social Development to waive the requirement for an application for a retirement pension in certain cases.&lt;br/&gt;Division 7 of Part 4 amends the Old Age Security Act to provide, starting in July 2020, a new income exemption for the purposes of calculating the Guaranteed Income Supplement. The new exemption excludes the first $5,000 of a person's employment and self-employment income as well as 50% of their employment and self-employment income greater than $5,000 but not exceeding $15,000.&lt;br/&gt;Division 8 of Part 4 amends the Canadian Forces Superannuation Act, the Public Service Superannuation Act and the Royal Canadian Mounted Police Superannuation Act to increase the surplus limit that applies to the Canadian Forces Pension Fund, the Public Service Pension Fund and the Royal Canadian Mounted Police Pension Fund, respectively, to 25% of the amount of liabilities.&lt;br/&gt;Subdivision A of Division 9 of Part 4 amends the Bankruptcy and Insolvency Act to permit trustee licensing fees to be paid on a date to be prescribed by regulation and to permit trustees to maintain electronic records instead of retaining original documents.&lt;br/&gt;Subdivision B of Division 9 of Part 4 amends the Electricity and Gas Inspection Act to allow for the addition, by regulation, of units of measurement for electricity and gas sales and distribution.&lt;br/&gt;Subdivision C of Division 9 of Part 4 amends the Food and Drugs Act to improve safety and enable innovation by introducing measures to, among other things,&lt;br/&gt;(a) allow the Minister of Health to classify certain products exclusively as foods, drugs, cosmetics or devices;&lt;br/&gt;(b) provide oversight over the conduct of clinical trials for drugs, devices and certain foods for special dietary purposes;&lt;br/&gt;(c) provide a regulatory framework for advanced therapeutic products; and&lt;br/&gt;(d) modernize inspection powers.&lt;br/&gt;Subdivision D of Division 9 of Part 4 amends the Importation of Intoxicating Liquors Act to limit the application of the Act to intoxicating liquors imported into Canada.&lt;br/&gt;Subdivision E of Division 9 of Part 4 amends the Precious Metals Marking Act to provide that exemptions made by regulation can be either conditional or unconditional.&lt;br/&gt;Subdivision F of Division 9 of Part 4 amends the Textile Labelling Act to provide that exemptions made by regulation can be either conditional or unconditional.&lt;br/&gt;Subdivision G of Division 9 of Part 4 amends the Weights and Measures Act to authorize, by regulation, the use of new units of measurement and to update the definitions of the basic units of measurement in accordance with international standards.&lt;br/&gt;Subdivision H of Division 9 of Part 4 amends the Hazardous Materials Information Review Act to streamline the process for reviewing claims for exemption, to allow for the suspension and cancellation of exemptions and to harmonize the provisions of the Act that allow for the disclosure of confidential business information with similar provisions in other Department of Health Acts.&lt;br/&gt;Subdivision I of Division 9 of Part 4 amends the Canada Transportation Act to authorize the electronic administration and enforcement of Acts under the Minister of Transport's authority and to promote innovation in transportation by authorizing the granting of exemptions for the purpose of research, development and testing.&lt;br/&gt;Subdivision J of Division 9 of Part 4 amends the Pest Control Products Act to, among other things, allow the Minister of Health to&lt;br/&gt;(a) expand the scope of a re-evaluation of, or a special review in relation to, a pest control product rather than initiating a new special review; and&lt;br/&gt;(b) decide not to initiate a special review if the aspect of a pest control product that would otherwise prompt such a review is being, or has been, addressed in a re-evaluation or another special review.&lt;br/&gt;Subdivision K of Division 9 of Part 4 repeals the provisions of the Quarantine Act that relate to the laying of proposed regulations before Parliament.&lt;br/&gt;Subdivision L of Division 9 of Part 4 repeals the provisions of the Human Pathogens and Toxins Act that relate to the laying of proposed regulations before Parliament.&lt;br/&gt;Division 10 of Part 4 amends the Royal Canadian Mounted Police Act to establish the Management Advisory Board, which is to provide advice to the Commissioner of the Royal Canadian Mounted Police on the administration and management of that police force.&lt;br/&gt;Division 11 of Part 4 amends the Pilotage Act to, among other things,&lt;br/&gt;(a) set out a clear purpose and principles for that Act;&lt;br/&gt;(b) transfer the responsibility for making regulations from the Pilotage Authorities, with the approval of the Governor in Council, to the Governor in Council, on the recommendation of the Minister of Transport;&lt;br/&gt;(c) transfer responsibility for enforcing that Act and issuing and charging for licences and certificates from the Pilotage Authorities to the Minister of Transport;&lt;br/&gt;(d) set out an enforcement regime that is consistent with other Department of Transport Acts;&lt;br/&gt;(e) provide that regulatory matters for the safe provision of compulsory pilotage services not be addressed in service contracts between the Pilotage Authorities and pilot corporations;&lt;br/&gt;(f) allow the Pilotage Authorities to impose charges other than by making regulations;&lt;br/&gt;(g) require that service contracts between pilot corporations and the Pilotage Authorities be publicly available; and&lt;br/&gt;(h) prohibit pilots, or users or suppliers of pilotage services, from sitting on the board of directors of a Pilotage Authority.&lt;br/&gt;The Division also makes consequential amendments to the Arctic Waters Pollution Prevention Act and the Transportation Appeal Tribunal of Canada Act.&lt;br/&gt;Division 12 of Part 4 enacts the Security Screening Services Commercialization Act. That Act, among other things,&lt;br/&gt;(a) authorizes the Governor in Council to designate a body corporate incorporated under the Canada Not-for-profit Corporations Act as the designated screening authority, which is to be solely responsible for providing aviation security screening services;&lt;br/&gt;(b) authorizes the Canadian Air Transport Security Authority to sell or otherwise dispose of its assets and liabilities to the designated screening authority;&lt;br/&gt;(c) regulates the establishment, imposition and collection of charges related to the provision of aviation security screening services; and&lt;br/&gt;(d) provides for the dissolution of the Canadian Air Transport Security Authority.&lt;br/&gt;The Division also makes consequential amendments to other Acts.&lt;br/&gt;Division 13 of Part 4 amends the Aviation Industry Indemnity Act to authorize the Minister of Transport to undertake to indemnify&lt;br/&gt;(a) NAV CANADA for acts or omissions it commits in accordance with an instruction given under an agreement entered into between NAV CANADA and Her Majesty respecting the provision of air navigation services to the Department of National Defence; and&lt;br/&gt;(b) any beneficiary under an insurance policy held by an aviation industry participant.&lt;br/&gt;Division 14 of Part 4 amends the Transportation Appeal Tribunal of Canada Act to clarify that the Transportation Appeal Tribunal of Canada has jurisdiction in respect of reviews and appeals in connection with administrative monetary penalties provided for under the Marine Liability Act.&lt;br/&gt;Division 15 of Part 4 enacts the College of Immigration and Citizenship Consultants Act. That Act creates a new self-regulatory regime governing immigration and citizenship consultants. It provides that the purpose of the College of Immigration and Citizenship Consultants is to regulate immigration and citizenship consultants in the public interest and protect the public. That Act, among other things,&lt;br/&gt;(a) creates a licensing regime for immigration and citizenship consultants and requires that licensees comply with a code of professional conduct, initially established by the responsible Minister;&lt;br/&gt;(b) authorizes the College's Complaints Committee to conduct investigations into a licensee's conduct and activities;&lt;br/&gt;(c) authorizes the College's Discipline Committee to take or require action if it determines that a licensee has committed professional misconduct or was incompetent;&lt;br/&gt;(d) prohibits persons who are not licensees from using certain titles and representing themselves to be licensees and provides that the College may seek an injunction for the contravention of those prohibitions;&lt;br/&gt;(e) provides the responsible Minister with the authority to determine the number of directors on the board of directors and to require the Board to do anything that is advisable to carry out the purposes of that Act; and&lt;br/&gt;(f) contains transitional provisions allowing the existing regulator — the Immigration Consultants of Canada Regulatory Council — to be continued as the College of Immigration and Citizenship Consultants or, if the existing regulator is not continued, allowing the establishment of the College of Immigration and Citizenship Consultants, a new corporation without share capital.&lt;br/&gt;The Division also makes related amendments to the Citizenship Act and the Immigration and Refugee Protection Act to double the existing maximum fines applicable to the offence of contravening section 21.1 of the Citizenship Act or section 91 of the Immigration and Refugee Protection Act.&lt;br/&gt;In addition, it amends those Acts to provide the authority to make regulations establishing a system of administrative penalties and consequences, including of administrative monetary penalties, applicable to certain violations by persons who provide representation or advice for consideration — or offer to do so — in immigration or citizenship matters.&lt;br/&gt;Finally, the Division makes consequential amendments to the Access to Information Act and the Privacy Act.&lt;br/&gt;Division 16 of Part 4 amends the Immigration and Refugee Protection Act to&lt;br/&gt;(a) introduce a new ground of ineligibility for refugee protection if a claimant has previously made a claim for refugee protection in another country;&lt;br/&gt;(b) provide that if the Federal Court refuses a person's application for leave to commence an application for judicial review, or denies their application for judicial review, with respect to their claim for refugee protection or their application for protection, the date of that refusal or denial is the first day of the period that must pass before a request or application referred to in section 24, 25 or 112 of that Act may be made; and&lt;br/&gt;(c) authorize the Governor in Council to make an order regarding the processing of applications for temporary resident visas, work permits and study permits made by citizens or nationals of a foreign state or territory if the Governor in Council is of the opinion that the government or competent authority of that state or territory is unreasonably refusing to issue or unreasonably delaying the issuance of travel documents to citizens or nationals of that state or territory who are in Canada.&lt;br/&gt;Division 17 of Part 4 amends the Federal Courts Act to increase the number of Federal Court judges.&lt;br/&gt;Division 18 of Part 4 amends the National Housing Act to allow the Canada Mortgage and Housing Corporation to acquire an interest or right in a housing project that is occupied or intended to be occupied by the owner of the project and to make an investment in order to acquire such an interest or right.&lt;br/&gt;Division 19 of Part 4 enacts the National Housing Strategy Act. That Act provides for, among other things, the development and maintenance of a national housing strategy and imposes requirements related to the mandatory content of the strategy. It also establishes a National Housing Council and requires the appointment of a Federal Housing Advocate. Finally, it requires the submission of an annual report by the Advocate on systemic housing issues and the submission of periodic reports by the designated Minister on the implementation of the strategy and the achievement of desired housing outcomes.&lt;br/&gt;Division 20 of Part 4 enacts the Poverty Reduction Act, which provides for an official metric and other metrics to measure the level of poverty in Canada, sets out two poverty reduction targets in Canada and establishes the National Advisory Council on Poverty.&lt;br/&gt;Division 21 of Part 4 amends the Veterans Well-being Act to expand the eligibility criteria for the education and training benefit in order to make members of the Supplementary Reserve eligible for that benefit.&lt;br/&gt;Division 22 of Part 4 amends the Canada Student Loans Act and the Canada Student Financial Assistance Act to extend the interest-free period on student loans by six months and to provide for transitional measures in respect of individuals to whom student loans were made and who ceased to be students at any time during the six months before the amendments come into force.&lt;br/&gt;Division 23 of Part 4 amends the Canada National Parks Act to establish Thaidene Nene National Park Reserve of Canada and to decrease the hectarage of certain ski areas.&lt;br/&gt;Division 24 of Part 4 amends the Parks Canada Agency Act to provide that, starting on April 1, 2021, any balance of money appropriated to the Parks Canada Agency that is not spent by the Agency in the fiscal year in which it was appropriated lapses at the end of that fiscal year.&lt;br/&gt;Subdivision A of Division 25 of Part 4 enacts the Department of Indigenous Services Act, which establishes the Department of Indigenous Services and confers on the Minister of Indigenous Services various responsibilities relating to the provision of services to Indigenous individuals eligible to receive those services.&lt;br/&gt;Subdivision B of Division 25 of Part 4 enacts the Department of Crown-Indigenous Relations and Northern Affairs Act, which establishes the Department of Crown-Indigenous Relations and Northern Affairs, confers on the Minister of Crown-Indigenous Relations various responsibilities relating to relations with Indigenous peoples and confers on the Minister of Northern Affairs various responsibilities relating to the administration of Northern affairs.&lt;br/&gt;Subdivision C of Division 25 of Part 4 makes amendments to other Acts and repeals the Department of Indian Affairs and Northern Development Act.&lt;br/&gt;Subdivision D of Division 25 of Part 4 makes amendments to the First Nations Land Management Act, the First Nations Oil and Gas and Moneys Management Act and the Addition of Lands to Reserves and Reserve Creation Act.&lt;br/&gt;Division 26 of Part 4 enacts the Federal Prompt Payment for Construction Work Act in order to establish a regime to provide prompt payments to contractors and subcontractors for construction work performed for the purposes of a construction project in respect of federal real property or federal immovables and a regime to resolve disputes over the non-payment of that construction work.&lt;/div&gt;</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear>2019</StatuteYear>
+    <StatuteChapter>29</StatuteChapter>
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2019-04-08T16:57:33.253</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>400</Number>
+          <Date>2019-04-08T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2019-04-08T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2019-04-08T16:57:33.253</EventStartDateTime>
+          <EventEndDateTime>2019-04-08T16:57:33.253</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2019-04-08T16:57:33.253</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2019-04-30T18:26:23</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>21440</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+          <StudyActivityId>10588480</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>402</Number>
+          <Date>2019-04-10T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>403</Number>
+          <Date>2019-04-11T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>404</Number>
+          <Date>2019-04-12T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>406</Number>
+          <Date>2019-04-30T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>10587818</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>10408308</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>2nd reading and referral to committee - FINA</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>2e lecture et renvoi en comité - FINA</DecisionMotionTitleFr>
+          <DecisionMotionTitle>2nd reading and referral to committee - FINA</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>10</DecisionMethodId>
+          <DecisionMethodNameEn>On recorded division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Suivant un vote par appel nominal</DecisionMethodNameFr>
+          <DecisionMethodName>On recorded division</DecisionMethodName>
+          <DivisionNumber>1301</DivisionNumber>
+          <DivisionVotesYeas>167</DivisionVotesYeas>
+          <DivisionVotesNays>130</DivisionVotesNays>
+          <DivisionVotePaired>0</DivisionVotePaired>
+          <DecisionSittingDate>2019-04-30T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>406</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60121</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading and referral to committee</EventNameEn>
+          <EventNameFr>Deuxième lecture et renvoi en comité</EventNameFr>
+          <EventName>Second reading and referral to committee</EventName>
+          <EventDateTime>2019-04-30T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60121</EventTypeId>
+          <EventTypeNameEn>Second reading and referral to committee</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture et renvoi en comité</EventTypeNameFr>
+          <EventTypeName>Second reading and referral to committee</EventTypeName>
+          <EventStartDateTime>2019-04-30T18:26:23</EventStartDateTime>
+          <EventEndDateTime>2019-04-30T18:26:23</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2019-04-30T18:26:23</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>10568082</InterventionEventId>
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>88925</PersonId>
+          <PersonOfficialFirstName>Jennifer</PersonOfficialFirstName>
+          <PersonOfficialLastName>O'Connell</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Jennifer O'Connell</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>42</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>402</MeetingNumber>
+          <SpeechDateTime>2019-04-10T16:00:55</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>10568447</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>1809</PersonId>
+          <PersonOfficialFirstName>Cheryl</PersonOfficialFirstName>
+          <PersonOfficialLastName>Gallant</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Cheryl Gallant</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>42</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>402</MeetingNumber>
+          <SpeechDateTime>2019-04-10T16:27:24</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>10568833</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>71553</PersonId>
+          <PersonOfficialFirstName>Pierre-Luc</PersonOfficialFirstName>
+          <PersonOfficialLastName>Dusseault</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Pierre-Luc Dusseault</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>NDP</CaucusShortNameEn>
+          <CaucusShortNameFr>NPD</CaucusShortNameFr>
+          <CaucusShortName>NDP</CaucusShortName>
+          <ParliamentNumber>42</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>402</MeetingNumber>
+          <SpeechDateTime>2019-04-10T16:58:56</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2019-05-29T15:09:33.393</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>21440</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+          <StudyActivityId>10588480</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented with amendments</NameEn>
+          <NameFr>Présentation du rapport de comité avec des amendements</NameFr>
+          <Name>Committee report presented with amendments</Name>
+          <Number>422</Number>
+          <Date>2019-05-29T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21440</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <Number>206</Number>
+          <Date>2019-05-01T00:00:00</Date>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21440</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <Number>207</Number>
+          <Date>2019-05-02T00:00:00</Date>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21440</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <Number>208</Number>
+          <Date>2019-05-06T00:00:00</Date>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21440</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <Number>209</Number>
+          <Date>2019-05-07T00:00:00</Date>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21440</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <Number>210</Number>
+          <Date>2019-05-08T00:00:00</Date>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21440</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <Number>211</Number>
+          <Date>2019-05-09T00:00:00</Date>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21440</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <Number>212</Number>
+          <Date>2019-05-14T00:00:00</Date>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21440</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <Number>213</Number>
+          <Date>2019-05-15T00:00:00</Date>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21440</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <Number>214</Number>
+          <Date>2019-05-16T00:00:00</Date>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21440</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <Number>215</Number>
+          <Date>2019-05-27T00:00:00</Date>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>21440</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <Number>216</Number>
+          <Date>2019-05-28T00:00:00</Date>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented with amendments</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité avec des amendements</EventNameFr>
+          <EventName>Committee report presented with amendments</EventName>
+          <EventDateTime>2019-05-29T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId>10510266</CommitteeReportId>
+          <CommitteeReportNumber>30</CommitteeReportNumber>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2019-05-29T15:09:33.393</EventStartDateTime>
+          <EventEndDateTime>2019-05-29T15:09:33.393</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2019-05-29T15:09:33.393</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2019-06-05T17:24:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>424</Number>
+          <Date>2019-05-31T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>426</Number>
+          <Date>2019-06-04T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>427</Number>
+          <Date>2019-06-05T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60285</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Concurrence at report stage</EventNameEn>
+          <EventNameFr>Adoption à l'étape du rapport</EventNameFr>
+          <EventName>Concurrence at report stage</EventName>
+          <EventDateTime>2019-06-05T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60285</EventTypeId>
+          <EventTypeNameEn>Concurrence at report stage</EventTypeNameEn>
+          <EventTypeNameFr>Adoption à l'étape du rapport</EventTypeNameFr>
+          <EventTypeName>Concurrence at report stage</EventTypeName>
+          <EventStartDateTime>2019-06-05T17:24:00</EventStartDateTime>
+          <EventEndDateTime>2019-06-05T17:24:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2019-06-05T17:24:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2019-06-06T15:10:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>427</Number>
+          <Date>2019-06-05T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>428</Number>
+          <Date>2019-06-06T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>10686125</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>10408310</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>3rd reading</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>3e lecture</DecisionMotionTitleFr>
+          <DecisionMotionTitle>3rd reading</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>10</DecisionMethodId>
+          <DecisionMethodNameEn>On recorded division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Suivant un vote par appel nominal</DecisionMethodNameFr>
+          <DecisionMethodName>On recorded division</DecisionMethodName>
+          <DivisionNumber>1344</DivisionNumber>
+          <DivisionVotesYeas>157</DivisionVotesYeas>
+          <DivisionVotesNays>97</DivisionVotesNays>
+          <DivisionVotePaired>2</DivisionVotePaired>
+          <DecisionSittingDate>2019-06-06T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>428</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2019-06-06T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2019-06-06T15:10:00</EventStartDateTime>
+          <EventEndDateTime>2019-06-06T15:10:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2019-06-06T15:10:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60038</BillStageId>
+        <BillStageNameEn>Senate pre-study</BillStageNameEn>
+        <BillStageNameFr>Étude préalable au Sénat</BillStageNameFr>
+        <BillStageName>Senate pre-study</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>5</State>
+        <StateNameEn>Not completed</StateNameEn>
+        <StateNameFr>Non achevée</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Pre-study of House bill</NameEn>
+          <NameFr>Étude préalable d'un projet de loi émanant de la Chambre des communes</NameFr>
+          <Name>Pre-study of House bill</Name>
+          <Number>283</Number>
+          <Date>2019-05-02T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>219</Number>
+          <Date>2019-05-14T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>220</Number>
+          <Date>2019-05-14T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>221</Number>
+          <Date>2019-05-15T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>223</Number>
+          <Date>2019-05-28T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>224</Number>
+          <Date>2019-05-28T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>225</Number>
+          <Date>2019-05-29T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>226</Number>
+          <Date>2019-05-29T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>227</Number>
+          <Date>2019-05-30T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>228</Number>
+          <Date>2019-06-04T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>229</Number>
+          <Date>2019-06-04T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>230</Number>
+          <Date>2019-06-05T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>232</Number>
+          <Date>2019-06-06T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>233</Number>
+          <Date>2019-06-11T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>234</Number>
+          <Date>2019-06-12T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60109</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Pre-study of House bill</EventNameEn>
+          <EventNameFr>Étude préalable d'un projet de loi émanant de la Chambre des communes</EventNameFr>
+          <EventName>Pre-study of House bill</EventName>
+          <EventDateTime>2019-05-02T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>false</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent />
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2019-06-12T18:51:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2019-06-06T16:55:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>First reading</NameEn>
+          <NameFr>Première lecture</NameFr>
+          <Name>First reading</Name>
+          <Number>298</Number>
+          <Date>2019-06-06T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60111</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>First reading</EventNameEn>
+          <EventNameFr>Première lecture</EventNameFr>
+          <EventName>First reading</EventName>
+          <EventDateTime>2019-06-06T16:55:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60111</EventTypeId>
+          <EventTypeNameEn>First reading</EventTypeNameEn>
+          <EventTypeNameFr>Première lecture</EventTypeNameFr>
+          <EventTypeName>First reading</EventTypeName>
+          <EventStartDateTime>2019-06-06T16:55:00</EventStartDateTime>
+          <EventEndDateTime>2019-06-06T16:55:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2019-06-06T16:55:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2019-06-10T00:01:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>299</Number>
+          <Date>2019-06-10T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60120</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading</EventNameEn>
+          <EventNameFr>Deuxième lecture</EventNameFr>
+          <EventName>Second reading</EventName>
+          <EventDateTime>2019-06-10T00:01:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <SignificantEvents>
+          <EventTypeId>60123</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Referral to committee</EventNameEn>
+          <EventNameFr>Renvoi en comité</EventNameFr>
+          <EventName>Referral to committee</EventName>
+          <EventDateTime>2019-06-10T00:02:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60120</EventTypeId>
+          <EventTypeNameEn>Second reading</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture</EventTypeNameFr>
+          <EventTypeName>Second reading</EventTypeName>
+          <EventStartDateTime>2019-06-10T00:01:00</EventStartDateTime>
+          <EventEndDateTime>2019-06-10T00:01:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2019-06-10T00:02:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>38647</PersonId>
+          <PersonOfficialFirstName>Peter M.</PersonOfficialFirstName>
+          <PersonOfficialLastName>Boehm</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Peter M. Boehm</PersonName>
+          <SenateSystemAffiliationId>217512</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Independent Senators Group</CaucusShortNameEn>
+          <CaucusShortNameFr>Groupe des sénateurs indépendants</CaucusShortNameFr>
+          <CaucusShortName>Independent Senators Group</CaucusShortName>
+          <ParliamentNumber>42</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>299</MeetingNumber>
+          <SpeechDateTime>2019-06-10T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/421/debates/299db_2019-06-10-e?language=e#43</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/421/debates/299db_2019-06-10-f?language=e#43</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/421/debates/299db_2019-06-10-e?language=e#43</Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>true</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2019-06-13T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented without amendment</NameEn>
+          <NameFr>Présentation du rapport de comité sans amendement</NameFr>
+          <Name>Committee report presented without amendment</Name>
+          <Number>302</Number>
+          <Date>2019-06-13T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented without amendment</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité sans amendement</EventNameFr>
+          <EventName>Committee report presented without amendment</EventName>
+          <EventDateTime>2019-06-13T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2019-06-13T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2019-06-13T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2019-06-13T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2019-06-20T22:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>304</Number>
+          <Date>2019-06-17T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>307</Number>
+          <Date>2019-06-20T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2019-06-20T22:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>Bill passed by the Senate without amendment</AdditionalInformationEn>
+          <AdditionalInformationFr>Projet de loi adopté par le Sénat sans amendement</AdditionalInformationFr>
+          <AdditionalInformation>Bill passed by the Senate without amendment</AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2019-06-20T22:00:00</EventStartDateTime>
+          <EventEndDateTime>2019-06-20T22:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2019-06-20T22:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <RoyalAssent>
+        <BillStageId>60050</BillStageId>
+        <BillStageNameEn>Royal assent</BillStageNameEn>
+        <BillStageNameFr>Sanction royale</BillStageNameFr>
+        <BillStageName>Royal assent</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>42</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>0</State>
+        <StateNameEn />
+        <StateNameFr />
+        <StateAsOfDate />
+        <StateName />
+        <Committee />
+        <Sittings>
+          <NameEn>Royal assent</NameEn>
+          <NameFr>Sanction royale</NameFr>
+          <Name>Royal assent</Name>
+          <Number>308</Number>
+          <Date>2019-06-21T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60149</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Royal assent</EventNameEn>
+          <EventNameFr>Sanction royale</EventNameFr>
+          <EventName>Royal assent</EventName>
+          <EventDateTime>2019-06-21T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60149</EventTypeId>
+          <EventTypeNameEn>Royal assent</EventTypeNameEn>
+          <EventTypeNameFr>Sanction royale</EventTypeNameFr>
+          <EventTypeName>Royal assent</EventTypeName>
+          <EventStartDateTime>2019-06-21T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2019-06-21T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2019-06-21T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </RoyalAssent>
+    </BillStages>
+    <Publications>
+      <PublicationId>10408665</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>10523683</PublicationId>
+      <PublicationTypeId>80702</PublicationTypeId>
+      <PublicationTypeNameEn>As amended by committee</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel que modifié par le comité</PublicationTypeNameFr>
+      <PublicationTypeName>As amended by committee</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>10554494</PublicationId>
+      <PublicationTypeId>80703</PublicationTypeId>
+      <PublicationTypeNameEn>As passed by the House of Commons</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel qu'adopté par la Chambre des communes</PublicationTypeNameFr>
+      <PublicationTypeName>As passed by the House of Commons</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>10593724</PublicationId>
+      <PublicationTypeId>80704</PublicationTypeId>
+      <PublicationTypeNameEn>Royal Assent</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Royal Assent</PublicationTypeNameFr>
+      <PublicationTypeName>Royal Assent</PublicationTypeName>
+    </Publications>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>1298</DivisionNumber>
+      <DivisionSubjectEn>Time allocation for Bill C-97, An Act to implement certain provisions of the budget tabled in Parliament on March 19, 2019 and other measures</DivisionSubjectEn>
+      <DivisionSubjectFr>Attribution de temps pour le projet de loi C-97, Loi portant exécution de certaines dispositions du budget déposé au Parlement le 19 mars 2019 et mettant en oeuvre d'autres mesures</DivisionSubjectFr>
+      <DivisionSubject>Time allocation for Bill C-97, An Act to implement certain provisions of the budget tabled in Parliament on March 19, 2019 and other measures</DivisionSubject>
+      <DivisionVotesYeas>165</DivisionVotesYeas>
+      <DivisionVotesNays>127</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>292</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2019-04-30T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>1300</DivisionNumber>
+      <DivisionSubjectEn>2nd reading of Bill C-97, An Act to implement certain provisions of the budget tabled in Parliament on March 19, 2019 and other measures (reasoned amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>2e lecture du projet de loi C-97, Loi portant exécution de certaines dispositions du budget déposé au Parlement le 19 mars 2019 et mettant en oeuvre d'autres mesures (amendement motivé)</DivisionSubjectFr>
+      <DivisionSubject>2nd reading of Bill C-97, An Act to implement certain provisions of the budget tabled in Parliament on March 19, 2019 and other measures (reasoned amendment)</DivisionSubject>
+      <DivisionVotesYeas>85</DivisionVotesYeas>
+      <DivisionVotesNays>211</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>296</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2019-04-30T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>1301</DivisionNumber>
+      <DivisionSubjectEn>2nd reading of Bill C-97, An Act to implement certain provisions of the budget tabled in Parliament on March 19, 2019 and other measures</DivisionSubjectEn>
+      <DivisionSubjectFr>2e lecture du projet de loi C-97, Loi portant exécution de certaines dispositions du budget déposé au Parlement le 19 mars 2019 et mettant en oeuvre d'autres mesures</DivisionSubjectFr>
+      <DivisionSubject>2nd reading of Bill C-97, An Act to implement certain provisions of the budget tabled in Parliament on March 19, 2019 and other measures</DivisionSubject>
+      <DivisionVotesYeas>167</DivisionVotesYeas>
+      <DivisionVotesNays>130</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>297</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2019-04-30T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>1332</DivisionNumber>
+      <DivisionSubjectEn>Time allocation for Bill C-97, An Act to implement certain provisions of the budget tabled in Parliament on March 19, 2019 and other measures</DivisionSubjectEn>
+      <DivisionSubjectFr>Attribution de temps pour le projet de loi C-97, Loi portant exécution de certaines dispositions du budget déposé au Parlement le 19 mars 2019 et mettant en oeuvre d'autres mesures</DivisionSubjectFr>
+      <DivisionSubject>Time allocation for Bill C-97, An Act to implement certain provisions of the budget tabled in Parliament on March 19, 2019 and other measures</DivisionSubject>
+      <DivisionVotesYeas>152</DivisionVotesYeas>
+      <DivisionVotesNays>94</DivisionVotesNays>
+      <DivisionVotePaired>4</DivisionVotePaired>
+      <DivisionVoteTotal>250</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2019-06-04T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>1335</DivisionNumber>
+      <DivisionSubjectEn>Bill C-97, An Act to implement certain provisions of the budget tabled in Parliament on March 19, 2019 and other measures (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-97, Loi portant exécution de certaines dispositions du budget déposé au Parlement le 19 mars 2019 et mettant en oeuvre d'autres mesures (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-97, An Act to implement certain provisions of the budget tabled in Parliament on March 19, 2019 and other measures (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>72</DivisionVotesYeas>
+      <DivisionVotesNays>197</DivisionVotesNays>
+      <DivisionVotePaired>4</DivisionVotePaired>
+      <DivisionVoteTotal>273</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2019-06-05T14:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>1336</DivisionNumber>
+      <DivisionSubjectEn>Bill C-97, An Act to implement certain provisions of the budget tabled in Parliament on March 19, 2019 and other measures (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-97, Loi portant exécution de certaines dispositions du budget déposé au Parlement le 19 mars 2019 et mettant en oeuvre d'autres mesures (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-97, An Act to implement certain provisions of the budget tabled in Parliament on March 19, 2019 and other measures (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>38</DivisionVotesYeas>
+      <DivisionVotesNays>234</DivisionVotesNays>
+      <DivisionVotePaired>4</DivisionVotePaired>
+      <DivisionVoteTotal>276</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2019-06-05T14:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>1337</DivisionNumber>
+      <DivisionSubjectEn>Bill C-97, An Act to implement certain provisions of the budget tabled in Parliament on March 19, 2019 and other measures (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-97, Loi portant exécution de certaines dispositions du budget déposé au Parlement le 19 mars 2019 et mettant en oeuvre d'autres mesures (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-97, An Act to implement certain provisions of the budget tabled in Parliament on March 19, 2019 and other measures (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>115</DivisionVotesYeas>
+      <DivisionVotesNays>159</DivisionVotesNays>
+      <DivisionVotePaired>4</DivisionVotePaired>
+      <DivisionVoteTotal>278</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2019-06-05T14:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>1338</DivisionNumber>
+      <DivisionSubjectEn>Bill C-97, An Act to implement certain provisions of the budget tabled in Parliament on March 19, 2019 and other measures (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-97, Loi portant exécution de certaines dispositions du budget déposé au Parlement le 19 mars 2019 et mettant en oeuvre d'autres mesures (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-97, An Act to implement certain provisions of the budget tabled in Parliament on March 19, 2019 and other measures (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>110</DivisionVotesYeas>
+      <DivisionVotesNays>164</DivisionVotesNays>
+      <DivisionVotePaired>4</DivisionVotePaired>
+      <DivisionVoteTotal>278</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2019-06-05T14:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>1339</DivisionNumber>
+      <DivisionSubjectEn>Bill C-97, An Act to implement certain provisions of the budget tabled in Parliament on March 19, 2019 and other measures (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-97, Loi portant exécution de certaines dispositions du budget déposé au Parlement le 19 mars 2019 et mettant en oeuvre d'autres mesures (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-97, An Act to implement certain provisions of the budget tabled in Parliament on March 19, 2019 and other measures (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>106</DivisionVotesYeas>
+      <DivisionVotesNays>166</DivisionVotesNays>
+      <DivisionVotePaired>4</DivisionVotePaired>
+      <DivisionVoteTotal>276</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2019-06-05T14:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>1340</DivisionNumber>
+      <DivisionSubjectEn>Bill C-97, An Act to implement certain provisions of the budget tabled in Parliament on March 19, 2019 and other measures (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-97, Loi portant exécution de certaines dispositions du budget déposé au Parlement le 19 mars 2019 et mettant en oeuvre d'autres mesures (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-97, An Act to implement certain provisions of the budget tabled in Parliament on March 19, 2019 and other measures (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>192</DivisionVotesYeas>
+      <DivisionVotesNays>82</DivisionVotesNays>
+      <DivisionVotePaired>4</DivisionVotePaired>
+      <DivisionVoteTotal>278</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2019-06-05T14:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>1341</DivisionNumber>
+      <DivisionSubjectEn>Bill C-97, An Act to implement certain provisions of the budget tabled in Parliament on March 19, 2019 and other measures (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-97, Loi portant exécution de certaines dispositions du budget déposé au Parlement le 19 mars 2019 et mettant en oeuvre d'autres mesures (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-97, An Act to implement certain provisions of the budget tabled in Parliament on March 19, 2019 and other measures (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>40</DivisionVotesYeas>
+      <DivisionVotesNays>230</DivisionVotesNays>
+      <DivisionVotePaired>4</DivisionVotePaired>
+      <DivisionVoteTotal>274</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2019-06-05T14:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>1342</DivisionNumber>
+      <DivisionSubjectEn>Concurrence at report stage of Bill C-97, An Act to implement certain provisions of the budget tabled in Parliament on March 19, 2019 and other measures</DivisionSubjectEn>
+      <DivisionSubjectFr>Adoption à l'étape du rapport du projet de loi C-97, Loi portant exécution de certaines dispositions du budget déposé au Parlement le 19 mars 2019 et mettant en oeuvre d'autres mesures</DivisionSubjectFr>
+      <DivisionSubject>Concurrence at report stage of Bill C-97, An Act to implement certain provisions of the budget tabled in Parliament on March 19, 2019 and other measures</DivisionSubject>
+      <DivisionVotesYeas>160</DivisionVotesYeas>
+      <DivisionVotesNays>111</DivisionVotesNays>
+      <DivisionVotePaired>4</DivisionVotePaired>
+      <DivisionVoteTotal>275</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2019-06-05T14:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>1343</DivisionNumber>
+      <DivisionSubjectEn>3rd reading and adoption of Bill C-97, An Act to implement certain provisions of the budget tabled in Parliament on March 19, 2019 and other measures (reasoned amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>3e lecture et adoption du projet de loi C-97, Loi portant exécution de certaines dispositions du budget déposé au Parlement le 19 mars 2019 et mettant en oeuvre d'autres mesures (amendement motivé)</DivisionSubjectFr>
+      <DivisionSubject>3rd reading and adoption of Bill C-97, An Act to implement certain provisions of the budget tabled in Parliament on March 19, 2019 and other measures (reasoned amendment)</DivisionSubject>
+      <DivisionVotesYeas>30</DivisionVotesYeas>
+      <DivisionVotesNays>226</DivisionVotesNays>
+      <DivisionVotePaired>2</DivisionVotePaired>
+      <DivisionVoteTotal>258</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2019-06-06T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>1344</DivisionNumber>
+      <DivisionSubjectEn>3rd reading and adoption of Bill C-97, An Act to implement certain provisions of the budget tabled in Parliament on March 19, 2019 and other measures</DivisionSubjectEn>
+      <DivisionSubjectFr>3e lecture et adoption du projet de loi C-97, Loi portant exécution de certaines dispositions du budget déposé au Parlement le 19 mars 2019 et mettant en oeuvre d'autres mesures</DivisionSubjectFr>
+      <DivisionSubject>3rd reading and adoption of Bill C-97, An Act to implement certain provisions of the budget tabled in Parliament on March 19, 2019 and other measures</DivisionSubject>
+      <DivisionVotesYeas>157</DivisionVotesYeas>
+      <DivisionVotesNays>97</DivisionVotesNays>
+      <DivisionVotePaired>2</DivisionVotePaired>
+      <DivisionVoteTotal>256</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2019-06-06T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseRulingAndStatements>
+      <EventTypeId>60154</EventTypeId>
+      <EventTypeNameEn>Major Speaker's Rulings and Statements</EventTypeNameEn>
+      <EventTypeNameFr>Décisions et déclarations importantes de la présidence</EventTypeNameFr>
+      <EventTypeName>Major Speaker's Rulings and Statements</EventTypeName>
+      <ParliamentNumber>42</ParliamentNumber>
+      <SessionNumber>1</SessionNumber>
+      <MeetingNumber>405</MeetingNumber>
+      <HansardNumber>10579309</HansardNumber>
+      <RulingStatementDateTime>2019-04-29T15:48:43</RulingStatementDateTime>
+      <ChamberOrganizationId>1</ChamberOrganizationId>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+    </HouseRulingAndStatements>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Government Takes Next Step in Investing in the Middle Class</TitleEn>
+      <TitleFr>Le gouvernement franchit la prochaine étape en vue d'investir dans la classe moyenne</TitleFr>
+      <Title>Government Takes Next Step in Investing in the Middle Class</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/department-finance/news/2019/04/government-takes-next-step-in-investing-in-the-middle-class.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/ministere-finances/nouvelles/2019/04/le-gouvernement-franchit-la-prochaine-etape-en-vue-dinvestir-dans-la-classe-moyenne.html</UrlFr>
+      <Url>https://www.canada.ca/en/department-finance/news/2019/04/government-takes-next-step-in-investing-in-the-middle-class.html</Url>
+    </WebReferences>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3263</BibliographicNoticeId>
+      <Title>Housing rights : Ottawa takes a historic step forward</Title>
+      <Author>McIsaac, Elizabeth</Author>
+      <Publication>Literary Review of Canada</Publication>
+      <VolumePage>27 (9):7-9</VolumePage>
+      <PublicationDate>November 2019</PublicationDate>
+      <Classification>Radar 20191217</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <SenatePreStudyCommitteeDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+      <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+      <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+      <CommitteeAcronym>NFFN</CommitteeAcronym>
+      <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+      <StudyActivityId />
+      <OrganizationTypeId />
+      <ParentCommittee />
+      <IsSubCommittee>false</IsSubCommittee>
+      <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+      <IsSenateCommittee>false</IsSenateCommittee>
+      <IsJointCommittee>false</IsJointCommittee>
+    </SenatePreStudyCommitteeDetails>
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
