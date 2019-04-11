@@ -4,6 +4,8 @@
 
 This enactment amends the statute governing the corporation known as The United Church of Canada, `The United Church of Canada Act`, by amending a definition and by adding provisions necessary to effect a new governance structure.
 
+
+
 Whereas the corporation known as The United Church of Canada has, by its petition, represented that
 
 the corporation, having its head office in the City of Toronto, in the Province of Ontario, was incorporated by an Act of the Parliament of Canada, being chapter 100 of the Statutes of Canada, 1924, entitled `An Act incorporating The United Church of Canada` under the name The United Church of Canada;
