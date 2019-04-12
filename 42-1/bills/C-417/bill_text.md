@@ -23,7 +23,7 @@ Section 649 of the `Criminal Code` is replaced by the following:
 
     giving evidence in criminal proceedings in relation to such an offence; or
 
-    any medical or psychiatric treatment **or any** ther­apy or counselling that a person referred to in subsection (1) receives from a health care professional after the completion of the trial in relation to health issues arising out of or related to the person's service at the trial as a jur­or or as a person who provided support services to a juror.
+    any medical or psychiatric treatment or any ther­apy or counselling that a person referred to in subsection (1) receives from a health care professional after the completion of the trial in relation to health issues arising out of or related to the person's service at the trial as a jur­or or as a person who provided support services to a juror.
 
   **(3)** For the purpose of paragraph (2)(c), the health care professional that provides medical or psychiatric treatment or therapy or counselling must be entitled to do so under the laws of a province.
 
