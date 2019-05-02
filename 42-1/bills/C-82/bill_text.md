@@ -1,7 +1,5 @@
 # Bill C-82: An Act to implement a multilateral convention to implement tax treaty related measures to prevent base erosion and profit shifting
 
-**Sponsor**: MINISTER OF FINANCE
-
 ## Summary
 
 This enactment implements a multilateral instrument in respect of conventions for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income.
