@@ -1,7 +1,5 @@
 # Bill C-91: An Act respecting Indigenous languages
 
-**Sponsor**: MINISTER OF CANADIAN HERITAGE AND MULTICULTURALISM
-
 Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act respecting Indigenous languages*".
 
 ## Summary
@@ -195,13 +193,13 @@ Whereas the Government of Canada recognizes that all relations with Indigenous p
 
 Whereas First Nations, the Inuit and the Métis Nation have their own collective identities, cultures and ways of life and have, throughout history and to this day, continued to live in, use and occupy the lands that are now in Canada;
 
-Whereas Indigenous languages were the first languages **used** in the lands that are now in Canada and those languages have evolved over time;
+Whereas Indigenous languages were the first languages used in the lands that are now in Canada and those languages have evolved over time;
 
 Whereas Indigenous languages played a significant part in the establishment of relations between Europeans and Indigenous peoples;
 
 Whereas Indigenous peoples have played a significant role in the development of Canada and Indigenous languages contribute to the diversity and richness of the linguistic and cultural heritage of Canada;
 
-Whereas a history of discriminatory government pol­icies and practices, in respect of, among other things, assimilation, forced relocation, **the Sixties Scoop** and residential schools, were detrimental to Indigenous languages and contributed significantly to the erosion of those languages;
+Whereas a history of discriminatory government pol­icies and practices, in respect of, among other things, assimilation, forced relocation, the Sixties Scoop and residential schools, were detrimental to Indigenous languages and contributed significantly to the erosion of those languages;
 
 Whereas the status of Indigenous languages varies from one language to another, including with respect to the vitality of those languages, and there is an urgent need to support the efforts of Indigenous peoples to reclaim, revitalize, maintain and strengthen them;
 
@@ -268,17 +266,17 @@ In the event of any inconsistency or conflict between this Act and a treaty — 
 
 The purposes of this Act are to
 
-support and promote the use of Indigenous languages, **including Indigenous sign languages**;
+support and promote the use of Indigenous languages, including Indigenous sign languages;
 
 support the efforts of Indigenous peoples to reclaim, revitalize, maintain and strengthen Indigenous languages, including their efforts to
 
-assess the status of **distinct** Indigenous languages,
+assess the status of distinct Indigenous languages,
 
 plan initiatives and activities for restoring and maintaining fluency in Indigenous languages,
 
 create technological tools, educational materials and permanent records of Indigenous languages, including audio and video recordings of fluent speakers of the languages and written materials such as dictionaries, lexicons and grammars of the languages, for the purposes of, among other things, the maintenance and transmission of the languages,
 
-support Indigenous language learning and cultural activities — including language nest, **mentorship** and immersion programs — **to increase the number of new speakers of Indigenous languages**,
+support Indigenous language learning and cultural activities — including language nest, mentorship and immersion programs — to increase the number of new speakers of Indigenous languages,
 
 support entities specialized in Indigenous languages, and
 
@@ -288,13 +286,13 @@ establish a framework to facilitate the effective exercise of the rights of Indi
 
 establish measures to facilitate the provision of adequate, sustainable and long-term funding for the reclamation, revitalization, maintenance and strengthening of Indigenous languages;
 
-facilitate cooperation with provincial **and territor­ial** governments, Indigenous governments and other Indigenous governing bodies, Indigenous organizations and other entities in a manner consistent with the rights of Indigenous peoples and the powers and jurisdictions of Indigenous governing bodies and of the provinces **and territories**;
+facilitate cooperation with provincial and territor­ial governments, Indigenous governments and other Indigenous governing bodies, Indigenous organizations and other entities in a manner consistent with the rights of Indigenous peoples and the powers and jurisdictions of Indigenous governing bodies and of the provinces and territories;
 
 facilitate meaningful opportunities for In­digenous governments and other Indigenous governing bodies and Indigenous organizations to collaborate in policy development related to the implementation of this Act;
 
 respond to the Truth and Reconciliation Commission of Canada's Calls to Action numbers 13 to 15; and
 
-**contribute to the implementation** of the United Nations Declaration on the Rights of Indigenous Peoples as it relates to Indigenous languages.
+contribute to the implementation of the United Nations Declaration on the Rights of Indigenous Peoples as it relates to Indigenous languages.
 
 
 ## Rights Related to Indigenous Languages
@@ -308,15 +306,15 @@ The Government of Canada recognizes that the rights of Indigenous peoples recogn
 
 ### Section 7
 
-The Minister must consult with **a variety of** Indigenous governments and other Indigenous governing bodies and **a variety of** Indigenous organizations in order to meet the objective of providing adequate, sustainable and long-term funding for the reclamation, revitalization, main­tenance and strengthening of Indigenous languages.
+The Minister must consult with a variety of Indigenous governments and other Indigenous governing bodies and a variety of Indigenous organizations in order to meet the objective of providing adequate, sustainable and long-term funding for the reclamation, revitalization, main­tenance and strengthening of Indigenous languages.
 
 ### Section 8
 
-The Minister may cooperate with provincial **or terri­torial** governments, Indigenous governments or other Indigenous governing bodies, Indigenous organizations or other entities — including by entering into agreements or arrangements with them — to coordinate efforts to efficiently and effectively support Indigenous languages in Canada in a manner consistent with the rights of In­digenous peoples recognized and affirmed by section 35 of the `Constitution Act, 1982` and the powers and jurisdictions of Indigenous governing bodies and of the provinces **and territories**.
+The Minister may cooperate with provincial or terri­torial governments, Indigenous governments or other Indigenous governing bodies, Indigenous organizations or other entities — including by entering into agreements or arrangements with them — to coordinate efforts to efficiently and effectively support Indigenous languages in Canada in a manner consistent with the rights of In­digenous peoples recognized and affirmed by section 35 of the `Constitution Act, 1982` and the powers and jurisdictions of Indigenous governing bodies and of the provinces and territories.
 
 ### Section 9
 
-Taking into account the unique circumstances and needs of Indigenous groups, communities and peoples and the research or studies referred to in section `24` and in a manner consistent with the rights of Indigenous peoples recognized and affirmed by section 35 of the `Constitution Act, 1982` and the powers and jurisdictions of Indigenous governing bodies and of the provinces **and territories**, the Minister and an appropriate Minister may enter into an agreement or arrangement to further the purposes of this Act with a provincial **or territorial** government, an Indigenous government or other Indigenous governing body or an Indigenous organization.
+Taking into account the unique circumstances and needs of Indigenous groups, communities and peoples and the research or studies referred to in section `24` and in a manner consistent with the rights of Indigenous peoples recognized and affirmed by section 35 of the `Constitution Act, 1982` and the powers and jurisdictions of Indigenous governing bodies and of the provinces and territories, the Minister and an appropriate Minister may enter into an agreement or arrangement to further the purposes of this Act with a provincial or territorial government, an Indigenous government or other Indigenous governing body or an Indigenous organization.
 
 ### Section 10
 
@@ -324,7 +322,7 @@ For greater certainty, sections `8` and ``9``, and any agreement referred to in 
 
 any person or entity from relying on a provision relating to the reclamation, revitalization, maintenance or strengthening of an Indigenous language that is contained in a treaty — including a land claims agreement — or a self-government agreement; or
 
-an Indigenous government or other Indigenous governing body from entering into, with the Government of Canada or the government of a province **or territory**, a treaty — including a land claims agreement — or a self-government agreement that provides, among other things, for the reclamation, revitalization, maintenance or strengthening of an Indigenous language.
+an Indigenous government or other Indigenous governing body from entering into, with the Government of Canada or the government of a province or territory, a treaty — including a land claims agreement — or a self-government agreement that provides, among other things, for the reclamation, revitalization, maintenance or strengthening of an Indigenous language.
 
 
 ## Federal Institutions
@@ -351,7 +349,7 @@ interpretation services to be provided to facilitate the use of an Indigenous la
 
 ### Section 13
 
-On the recommendation of the Minister made after the Minister has consulted with **a variety of** Indigenous governments and other Indigenous governing bodies and **a variety of** Indigenous organizations, the Governor in Council is to appoint a Commissioner of Indigenous Languages to hold office during good behaviour for a term not exceeding five years, subject to removal by the Gov­ernor in Council at any time for cause.
+On the recommendation of the Minister made after the Minister has consulted with a variety of Indigenous governments and other Indigenous governing bodies and a variety of Indigenous organizations, the Governor in Council is to appoint a Commissioner of Indigenous Languages to hold office during good behaviour for a term not exceeding five years, subject to removal by the Gov­ernor in Council at any time for cause.
 
 ### Section 13.1
 
@@ -363,11 +361,11 @@ The Commissioner is the chief executive officer of the Office and has the contro
 
 ### Section 15
 
-If the Commissioner is absent or unable to act or if the office of Commissioner is vacant, the Minister may designate a director to act as Commissioner, but that director may act as Commissioner for a period of more than 90 days only with the approval of the Governor in Council given on the recommendation of the Minister made after the Minister has consulted with **a variety of** Indigenous governments and other Indigenous governing bodies and **a variety of** Indigenous organizations.
+If the Commissioner is absent or unable to act or if the office of Commissioner is vacant, the Minister may designate a director to act as Commissioner, but that director may act as Commissioner for a period of more than 90 days only with the approval of the Governor in Council given on the recommendation of the Minister made after the Minister has consulted with a variety of Indigenous governments and other Indigenous governing bodies and a variety of Indigenous organizations.
 
 ### Section 16
 
-  ****(1)**** On the recommendation of the Minister made after the Minister has consulted with **a variety of** In­digenous governments and other Indigenous governing bodies and **a variety of** Indigenous organizations, the Gov­ernor in Council is to appoint up to three directors to hold office during pleasure for a term not exceeding five years.
+  **(1)** On the recommendation of the Minister made after the Minister has consulted with a variety of In­digenous governments and other Indigenous governing bodies and a variety of Indigenous organizations, the Gov­ernor in Council is to appoint up to three directors to hold office during pleasure for a term not exceeding five years.
 
   **(2)** Before making recommendations under subsection (1), the Minister must seek comments in order to ensure that the Governor in Council appoints persons who have the ability to represent the interests of First Nations, the Inuit and the Métis.
 
@@ -424,7 +422,7 @@ the negative impact of colonization and discriminatory government policies on In
 
 the importance of working toward and contributing to reconciliation with Indigenous peoples; and
 
-support innovative projects and the use of new technologies in Indigenous language education and revitalization, in cooperation with Indigenous governments and other Indigenous governing bodies, In­digenous organizations, the Government of Canada and provincial **and territorial** governments.
+support innovative projects and the use of new technologies in Indigenous language education and revitalization, in cooperation with Indigenous governments and other Indigenous governing bodies, In­digenous organizations, the Government of Canada and provincial and territorial governments.
 
 ### Section 24
 
@@ -434,13 +432,11 @@ support innovative projects and the use of new technologies in Indigenous langua
 
     the use of Indigenous languages in Canada, including for the purposes of measuring the vitality of those languages or identifying measures to restore and maintain fluency in those languages.
 
-  **(2)** The research or studies referred to in paragraph (1)(b) may take into account **a** community assessment, **with the consent of the Indigenous community in respect of which the assessment was undertaken**.
+  **(2)** The research or studies referred to in paragraph (1)(b) may take into account a community assessment, with the consent of the Indigenous community in respect of which the assessment was undertaken.
 
-  **(3)** [*Deleted*]
+  **(3)** The Office must make the results of any research or study referred to in subsection (1) available to any Indigenous community, Indigenous government or other Indigenous governing body or Indigenous organization that contributed to that research or study. The Office must also make any document used in or produced for that research or study available to that Indigenous community, Indigenous government or other Indigenous governing body or Indigenous organization.
 
-  **(4)** The Office must make the results of any research or study referred to in subsection (1) available to any Indigenous community, Indigenous government or other Indigenous governing body or Indigenous organization that contributed to that research or study. The Office must also make any document used in or produced for that research or study available to that Indigenous community, Indigenous government or other Indigenous governing body or Indigenous organization.
-
-  **(5)** The Office must authorize the Indigenous commun­ity, Indigenous government or other Indigenous governing body or Indigenous organization to copy or otherwise use the research or studies referred to in subsection (1) free of charge for the purpose of reclaiming, revitalizing, maintaining or strengthening Indigenous languages. The Office must also authorize any document used in or produced for that research or study to be copied or otherwise used by that Indigenous community, Indigenous government or other Indigenous governing body or Indigenous organization free of charge, for that purpose.
+  **(4)** The Office must authorize the Indigenous commun­ity, Indigenous government or other Indigenous governing body or Indigenous organization to copy or otherwise use the research or studies referred to in subsection (1) free of charge for the purpose of reclaiming, revitalizing, maintaining or strengthening Indigenous languages. The Office must also authorize any document used in or produced for that research or study to be copied or otherwise used by that Indigenous community, Indigenous government or other Indigenous governing body or Indigenous organization free of charge, for that purpose.
 
 ### Section 25
 
@@ -450,11 +446,11 @@ create permanent records of the language, including audio and video recordings a
 
 establish certification standards for translators and interpreters;
 
-conduct **research and studies and** community assessments in respect of the use of the language;
+conduct research and studies and community assessments in respect of the use of the language;
 
 develop and implement plans for reclaiming, revitalizing, maintaining and strengthening the language; or
 
-engage with the Government of Canada or provincial **or territorial** governments to establish culturally appropriate methods of teaching and learning the language.
+engage with the Government of Canada or provincial or territorial governments to establish culturally appropriate methods of teaching and learning the language.
 
 ### Section 26
 
@@ -620,7 +616,7 @@ The Commissioner must, as soon as feasible, notify the Minister of any financial
 
   **(2)** The annual report must also set out information respecting the Office's principal activities for the fiscal year and must include
 
-    **a list of the research and studies undertaken under subsection 24(1)**;
+    a list of the research and studies undertaken under subsection 24(1);
 
     the Office's financial statements;
 
@@ -641,7 +637,7 @@ The Commissioner must, as soon as feasible, notify the Minister of any financial
 
 ### Section 45
 
-Following consultations by the Minister with the Office, **a variety of** Indigenous governments and other Indigenous governing bodies and **a variety of** Indigenous organizations in order to take into account the unique circumstances and needs of Indigenous groups, com­munities and peoples, the Governor in Council may make regulations
+Following consultations by the Minister with the Office, a variety of Indigenous governments and other Indigenous governing bodies and a variety of Indigenous organizations in order to take into account the unique circumstances and needs of Indigenous groups, com­munities and peoples, the Governor in Council may make regulations
 
 respecting complaints referred to in section `27`, including
 
