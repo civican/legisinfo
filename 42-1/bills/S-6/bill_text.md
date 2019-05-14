@@ -1,7 +1,5 @@
 # Bill S-6: An Act to implement the Convention between Canada and the Republic of Madagascar for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income
 
-**Sponsor**: THE HONOURABLE SENATOR HARDER, P.C.
-
 ## Summary
 
 This enactment implements the Convention between Canada and the Republic of Madagascar for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income and a related protocol.
