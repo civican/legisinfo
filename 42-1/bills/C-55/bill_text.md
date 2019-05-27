@@ -135,6 +135,14 @@ The Act is amended by adding the following after section 35:
 
     marine scientific research activities that are consistent with the purpose of the designation of the marine protected area and that are authorized under federal laws or laws of a province, if required to be so authorized.
 
+  **(4)** If an order is made under subsection (2), the Minister shall publish, in any manner that the Minister considers appropriate, a report
+
+    indicating the area of the sea designated in the order;
+
+    summarizing the consultations undertaken prior to making the order; and
+
+    summarizing the information that the Minister considered when making the order, which may include environmental, social, cultural or economic information.
+
 ### Section 35.2
 
 The Governor in Council and the Minister shall not use lack of scientific certainty regarding the risks posed by any activity that may be carried out in certain areas of the sea as a reason to postpone or refrain from exercising their powers or performing their duties and functions under subsection 35(3) or 35.1(2).
