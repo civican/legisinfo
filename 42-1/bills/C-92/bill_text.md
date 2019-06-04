@@ -1,7 +1,5 @@
 # Bill C-92: An Act respecting First Nations, Inuit and Métis children, youth and families
 
-**Sponsor**: MINISTER OF INDIGENOUS SERVICES
-
 ## Summary
 
 This enactment affirms the rights and jurisdiction of Indigenous peoples in relation to child and family services and sets out principles applicable, on a national level, to the provision of child and family services in relation to Indigenous children, such as the best interests of the child, cultural continuity and substantive equality.
@@ -57,7 +55,7 @@ The following definitions apply in this Act.
 
 **coordination agreement** means an agreement referred to in subsection `20`(2). (**accord de coordination**)
 
-**family** includes a person whom a child considers to be a close relative or whom the Indigenous group, community or people to which the child belongs considers, in accordance with the customs, traditions or **customary adoption practices** of that Indigenous group, community or people, to be a close relative of the child. (**famille**)
+**family** includes a person whom a child considers to be a close relative or whom the Indigenous group, community or people to which the child belongs considers, in accordance with the customs, traditions or customary adoption practices of that Indigenous group, community or people, to be a close relative of the child. (**famille**)
 
 **Indigenous**, when used in respect of a person, also describes a First Nations person, an Inuk or a Métis person. (**autochtone**)
 
@@ -106,7 +104,7 @@ The purpose of this Act is to
 
 affirm the rights and jurisdiction of Indigenous peoples in relation to child and family services;
 
-set out principles applicable, on a national level, to the provision of child and family services in relation to Indigenous children; **and**
+set out principles applicable, on a national level, to the provision of child and family services in relation to Indigenous children; and
 
 contribute to the implementation of the United Nations Declaration on the Rights of Indigenous Peoples.
 
@@ -145,7 +143,7 @@ contribute to the implementation of the United Nations Declaration on the Rights
 
   **(1)** The best interests of the child must be a primary consideration in the making of decisions or the taking of actions in the context of the provision of child and family services in relation to an Indigenous child and, in the case of decisions or actions related to child apprehension, the best interests of the child must be the paramount consideration.
 
-  **(2)** When the factors referred to in subsection (3) are being considered, primary consideration must be given to the child's physical, emotional and psychological safety, security and well-being, **as well as to the importance, for that child, of having an ongoing relationship with his or her family and with the Indigenous group, community or people to which he or she belongs and of preserving the child's connections to his or her culture**.
+  **(2)** When the factors referred to in subsection (3) are being considered, primary consideration must be given to the child's physical, emotional and psychological safety, security and well-being, as well as to the importance, for that child, of having an ongoing relationship with his or her family and with the Indigenous group, community or people to which he or she belongs and of preserving the child's connections to his or her culture.
 
   **(3)** To determine the best interests of an Indigenous child, all factors related to the circumstances of the child must be considered, including
 
@@ -155,7 +153,7 @@ contribute to the implementation of the United Nations Declaration on the Rights
 
     the nature and strength of the child's relationship with his or her parent, the care provider and any member of his or her family who plays an important role in his or her life;
 
-    the importance to the child of **preserving** the child's cultural identity and connections to the language and territory of the Indigenous group, community or people to which the child belongs;
+    the importance to the child of preserving the child's cultural identity and connections to the language and territory of the Indigenous group, community or people to which the child belongs;
 
     the child's views and preferences, giving due weight to the child's age and maturity, unless they cannot be ascertained;
 
@@ -186,7 +184,7 @@ promotes substantive equality between the child and other children.
 
   **(1)** In the context of providing child and family services in relation to an Indigenous child, to the extent that doing so is consistent with the best interests of the child, before taking any significant measure in relation to the child, the service provider must provide notice of the measure to the child's parent and the care provider, as well as to the Indigenous governing body that acts on behalf of the Indigenous group, community or people to which the child belongs and that has informed the service provider that they are acting on behalf of that Indigenous group, community or people.
 
-  **(2)** The service provider must ensure that the notice provided to an Indigenous governing body under subsection (1) does not contain personal information about the child, a member of the child's family or the care provider, **other than information that is necessary to explain the proposed significant measure or that is required by the Indigenous governing body's coordination agreement**.
+  **(2)** The service provider must ensure that the notice provided to an Indigenous governing body under subsection (1) does not contain personal information about the child, a member of the child's family or the care provider, other than information that is necessary to explain the proposed significant measure or that is required by the Indigenous governing body's coordination agreement.
 
 ### Section 13
 
@@ -266,7 +264,7 @@ The `Canadian Charter of Rights and Freedoms` applies to an Indigenous governing
 
     support measures to enable Indigenous children to exercise their rights effectively;
 
-    fiscal arrangements, **relating to the provision of child and family services by the Indigenous governing body, that are sustainable, needs-based and consistent with the principle of substantive equality in order to secure long-term positive outcomes for Indigenous children, families and communities and to support the capacity of the Indigenous group, community or people to** exercise the legislative authority **effectively**; and
+    fiscal arrangements, relating to the provision of child and family services by the Indigenous governing body, that are sustainable, needs-based and consistent with the principle of substantive equality in order to secure long-term positive outcomes for Indigenous children, families and communities and to support the capacity of the Indigenous group, community or people to exercise the legislative authority effectively; and
 
     any other coordination measure related to the effective exercise of the legislative authority.
 
@@ -338,7 +336,7 @@ The Minister may gather information respecting the child and family services tha
 
 The Minister may enter into agreements with a provincial government and any Indigenous governing body regarding the collection, retention, use and disclosure of information respecting the child and family services that are provided in relation to Indigenous children in order to, among other things,
 
-ensure that Indigenous children are identified as **a First Nations person, an Inuk or a Métis person, as the case may be, and that their communities of origin and those of their parents are identified, when possible,** when child and family services are provided in relation to them;
+ensure that Indigenous children are identified as a First Nations person, an Inuk or a Métis person, as the case may be, and that their communities of origin and those of their parents are identified, when possible, when child and family services are provided in relation to them;
 
 support the improvement of those services; and
 
