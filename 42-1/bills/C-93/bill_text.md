@@ -1,7 +1,5 @@
 # Bill C-93: An Act to provide no-cost, expedited record suspensions for simple possession of cannabis
 
-**Sponsor**: MINISTER OF PUBLIC SAFETY AND EMERGENCY PREPAREDNESS
-
 ## Summary
 
 This enactment amends the `Criminal Records Act` to, among other things, allow persons who have been convicted under the `Controlled Drugs and Substances Act`, the `Narcotic Control Act` and the `National Defence Act` only of simple possession of cannabis offences committed before October 17, 2018 to apply for a record suspension without being subject to the period required by the `Criminal Records Act` for other offences or to the fee that is otherwise payable in applying for a suspension.
@@ -25,7 +23,7 @@ Section 2.1 of the Act becomes subsection 2.1(1) and is amended by adding the fo
 
 ### Section 3
 
-  ****(1)**** Subparagraph 2.3(a)(i) of the Act is replaced by the following:
+  **(1)** Subparagraph 2.3(a)(i) of the Act is replaced by the following:
 
     the Board, after making the inquiries referred to in paragraph 4.2(1)(b), was satisfied that the applicant was of good conduct, and
 
@@ -49,7 +47,7 @@ Section 2.1 of the Act becomes subsection 2.1(1) and is amended by adding the fo
 
 ### Section 4
 
-      **(1)** Subject to **subsections** (3.1) **and (3.11)**, a person is ineligible to apply for a record suspension until the following period has elapsed after the expiration according to law of any sentence, including a sentence of imprisonment, a period of probation and the payment of any fine, imposed for an offence:
+      **(1)** Subject to subsections (3.1) and (3.11), a person is ineligible to apply for a record suspension until the following period has elapsed after the expiration according to law of any sentence, including a sentence of imprisonment, a period of probation and the payment of any fine, imposed for an offence:
 
   **(2)** Section 4 of the Act is amended by adding the following after subsection (3):
 
@@ -57,7 +55,7 @@ Section 2.1 of the Act becomes subsection 2.1(1) and is amended by adding the fo
 
     **(3.11)** A person who has been convicted of an offence referred to in Schedule 3 and other offences may only apply for a record suspension after the expiration of the period referred to in subsection (1), without taking into account any offence referred to in Schedule 3.
 
-    **(3.2)** A person is ineligible to make an application for a record suspension referred to in subsection (3.1) **or (3.11)** until after the expiration according to law of any sentence **imposed, other than** the payment of any fine **or victim surcharge, for any offence referred to in Schedule 3**.
+    **(3.2)** A person is ineligible to make an application for a record suspension referred to in subsection (3.1) or (3.11) until after the expiration according to law of any sentence imposed, other than the payment of any fine or victim surcharge, for any offence referred to in Schedule 3.
 
     **(3.21)** For greater certainty, subsection (3.2) does not apply to fines and victim surcharges imposed for both an offence referred to in Schedule 3 and for other offences, in which case a person is ineligible to make an application for a record suspension referred to in subsection (3.11) until after all fines and victim surcharges have been paid.
 
@@ -67,7 +65,9 @@ Section 2.1 of the Act becomes subsection 2.1(1) and is amended by adding the fo
 
     **(4.1)** The person referred to in subsection (3.1) has the onus of satisfying the Board that the person has been convicted only of an offence referred to in that subsection.
 
-    **(4.11)** For the purpose of subsection (3.11), a person referred to in that subsection has the onus of satisfying the Board that the person has been convicted of an offence referred to in Schedule 3.
+    **4.11** For the purpose of an application referred to in subsection (3.1), the Board may not require a person who makes the application to provide a certified copy of information contained in court records in support of the application unless the certified verification of the applicant's criminal records and information contained in the police records or Canadian Armed Forces records provided in support of the application are not sufficient to demonstrate that the person has been convicted only of an offence referred to in Schedule 3 and that the only sentence imposed for that offence was payment of a fine or victim surcharge or both.
+
+    **(4.12)** For the purpose of subsection  (3.11), a person referred to in that subsection has the onus of satisfying the Board that the person has been convicted of an offence referred to in Schedule 3.
 
     **(5)** The Governor in Council may, by order, amend Schedule 1 or 3 by adding or deleting a reference to an offence.
 
@@ -77,23 +77,17 @@ Section 2.1 of the Act becomes subsection 2.1(1) and is amended by adding the fo
 
 ### Section 4.1
 
-      **(1)** Subject to subsection (1.1), the Board may order that an applicant's record in respect of an offence be suspended, **without taking into account any offence referred to in Schedule 3**, if the Board is satisfied that
+      **(1)** Subject to subsection (1.1), the Board may order that an applicant's record in respect of an offence be suspended, without taking into account any offence referred to in Schedule 3, if the Board is satisfied that
 
   **(2)** Section 4.1 of the Act is amended by adding the following after subsection (1):
 
     **(1.1)** In the case of an application referred to in subsection 4(3.1), the Board shall order that the applicant's record in respect of that offence be suspended if the applicant has been convicted only of an offence referred to in that subsection and has not been convicted of a new offence under an Act of Parliament, other than an offence referred to in that subsection.
 
-    **(1.2)** Despite subsection 4(4.1), if the applicant is not able to obtain documents that would provide evidence that the conditions referred to in subsection (1.1) are met, the applicant may submit a sworn statement or solemn declaration that explains the reasonable efforts made by the applicant to obtain the documents, and the reasons why they could not be obtained, including because they were lost or destroyed.
-
-    **(1.3)** On receipt of a sworn statement or solemn declaration under subsection (1.2), the Board shall cause inquiries to be made to ascertain whether the conditions referred to in subsection (1.1) are met.
-
-    **(1.4)** If the Board is satisfied that the conditions referred to in subsection (1.1) are met, it shall order that the applicant's record in respect of an offence referred to in Schedule 3 be suspended.
-
-    **(1.5)** A record suspension ordered under subsection (1.1) may not be revoked by the Board under paragraph 7(b).
+    **(1.2)** A record suspension ordered under subsection (1.1) may not be revoked by the Board under paragraph 7(b).
 
 ### Section 6
 
-**Section** 4.2 of the Act **is amended** by **adding** the following **after subsection (1)**:
+Section 4.2 of the Act is amended by adding the following after subsection (1):
 
 **(1.1)** The inquiries referred to in paragraph (1)(a), made with respect to an application referred to in subsection 4(3.1) or (3.11), are not to take into account the non-payment of any fine or victim surcharge imposed for any offence referred to in Schedule 3.
 
@@ -126,7 +120,7 @@ The Act is amended by adding, after Schedule 2, the Schedule 3 set out in the sc
 
     **record suspension** has the same meaning as in subsection 2(1) of the Act. (**suspension du casier**)
 
-  **(2)** If an application was made before the day on which this Act comes into force and that application has not been dealt with and disposed of on that day, that application is to be dealt with and disposed of in accordance with the Act, as amended by this Act. However, subsection 4(3.3) of the Act, as enacted by subsection 4(2) of this Act, is not to apply **to an application made only with respect to an offence referred to in Schedule 3 of this Act** if, on that day, the inquiries referred to in paragraph 4.2(1)(a) of the Act have been completed.
+  **(2)** If an application was made before the day on which this Act comes into force and that application has not been dealt with and disposed of on that day, that application is to be dealt with and disposed of in accordance with the Act, as amended by this Act. However, subsection 4(3.3) of the Act, as enacted by subsection 4(2) of this Act, is not to apply to an application made only with respect to an offence referred to in Schedule 3 of this Act if, on that day, the inquiries referred to in paragraph 4.2(1)(a) of the Act have been completed.
 
   **(3)** Subsection 4.2(4) of the Act does not apply to an application for a record suspension referred to in subsection 4(3.1) of the Act, as enacted by subsection 4(2) of this Act, if the day on which the Board refuses to grant or issue a pardon or order a record suspension occurs within one year before the day on which this Act comes into force.
 
@@ -141,9 +135,9 @@ This Act comes into force on a day to be fixed by order of the Governor in Counc
 
 Offences
 
-under subsection 4(4) or (5) of the `Controlled Drugs and Substances Act`, as it read from time to time before October 17, 2018, for possession of a substance included in Item 1 of Schedule II to that Act, **except for similar synthetic preparations of cannabis, other than any substance that is identical to any phytocannabinoid produced by, or found in, a cannabis (marihuana) plant, regardless of how the substance was obtained**;
+under subsection 4(4) or (5) of the `Controlled Drugs and Substances Act`, as it read from time to time before October 17, 2018, for possession of a substance included in Item 1 of Schedule II to that Act, except for similar synthetic preparations of cannabis, other than any substance that is identical to any phytocannabinoid produced by, or found in, a cannabis (marihuana) plant, regardless of how the substance was obtained;
 
-under subsection 3(2) of the `Narcotic Control Act`, chapter N-1 of the Revised Statutes of Canada, 1985, as it read from time to time before May 14, 1997, for possession of a substance included in Item 3 of the schedule to that Act, **except for similar synthetic preparations of cannabis sativa, other than any substance that is identical to any phytocannabinoid produced by, or found in, a cannabis (marihuana) plant, regardless of how the substance was obtained**; and
+under subsection 3(2) of the `Narcotic Control Act`, chapter N-1 of the Revised Statutes of Canada, 1985, as it read from time to time before May 14, 1997, for possession of a substance included in Item 3 of the schedule to that Act, except for similar synthetic preparations of cannabis sativa, other than any substance that is identical to any phytocannabinoid produced by, or found in, a cannabis (marihuana) plant, regardless of how the substance was obtained; and
 
 under the `National Defence Act` or any previous version of that Act for an act or omission that constitutes an offence listed in paragraph (a) or (b).
 
