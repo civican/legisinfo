@@ -14,7 +14,7 @@ Whereas indigenous peoples have suffered historic injustices as a result of, *in
 
 Whereas all doctrines, policies and practices based on or advocating superiority of peoples or individuals on the basis of national origin or racial, religious, ethnic or cultural differences are racist, scientifically false, legally invalid, morally condemnable and socially unjust;
 
-Whereas, in regard to indigenous peoples, it is important for Canada to reject colonialism and engage in a contemporary approach based on good faith and on principles of justice, democracy, equality, non-discrimination, good governance and respect for human rights;
+Whereas, in regard to indigenous peoples, it is important for Canada to reject colonialism and engage in a contemporary approach based on good faith and on principles of justice, democracy, equality,non-discrimination, good governance and respect for human rights;
 
 Whereas Canada is committed to taking appropriate measures — including legislative, policy and administrative measures — at the national and international level, in consultation and cooperation with indigenous peoples, to achieve the ends of the United Nations Declaration on the Rights of Indigenous Peoples and to follow up on its effectiveness;
 
