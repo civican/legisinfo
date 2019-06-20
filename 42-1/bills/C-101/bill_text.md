@@ -1,7 +1,5 @@
 # Bill C-101: An Act to amend the Customs Tariff and the Canadian International Trade Tribunal Act
 
-**Sponsor**: MINISTER OF FINANCE
-
 ## Summary
 
 This enactment provides for the repeal of subsections 55(5) and (6) of the `Customs Tariff` and their subsequent re-enactment two years later. It also makes consequential amendments to the `Canadian International Trade Tribunal Act`.
@@ -32,7 +30,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
   **(1)** Subsection 26(7) of the `Canadian International Trade Tribunal Act` is replaced by the following:
 
-    **(7)** If subsection 5(3.1) of the `Export and Import Permits Act` prohibits the making of an order under subsection 5(3) of **that** Act in respect of any goods during any period, the Tribunal may commence an inquiry into a complaint under subsection (1) in respect of the goods no earlier than 180 days before the end of the period.
+    **(7)** If subsection 5(3.1) of the `Export and Import Permits Act` prohibits the making of an order under subsection 5(3) of that Act in respect of any goods during any period, the Tribunal may commence an inquiry into a complaint under subsection (1) in respect of the goods no earlier than 180 days before the end of the period.
 
   **(2)** Subsection 26(7) of the Act is replaced by the following:
 
