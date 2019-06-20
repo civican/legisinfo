@@ -1,7 +1,5 @@
 # Bill C-98: An Act to amend the Royal Canadian Mounted Police Act and the Canada Border Services Agency Act and to make consequential amendments to other Acts
 
-**Sponsor**: MINISTER OF PUBLIC SAFETY AND EMERGENCY PREPAREDNESS
-
 Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act to amend the Royal Canadian Mounted Police Act and the Canada Border Services Agency Act and to make consequential amendments to other Acts*".
 
 ## Summary
@@ -17,25 +15,14 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 The definition **Commission** in subsection 2(1) of the `Royal Canadian Mounted Police Act` is replaced by the following:
 
-**Commission** means the **Public** Complaints and Review Commission established by subsection 45.29(1); (**Commission**)
-
-
-> **Explanatory Note**:
-> Existing text of the definition:
-> *Existing Text*:
-> > **Commission** means the Civilian Review and Complaints Commission for the Royal Canadian Mounted Police established by subsection 45.29(1); (**Commission**)
+**Commission** means the Public Complaints and Review Commission established by subsection 45.29(1); (**Commission**)
 
 ### Section 2
 
 The heading to Part VI of the Act is replaced by the following:
 
 
-## **Public** Complaints and Review Commission
-
-
-> **Explanatory Note**:
-> Existing text of the heading:
-> *Existing Text*:
+## Public Complaints and Review Commission
 
 ### Section 3
 
@@ -43,23 +30,13 @@ Subsection 45.29(1) of the Act is replaced by the following:
 
 ### Section 45.29
 
-  **(1)** The **Public** Complaints and Review Commission is established, consisting of a Chairperson, a Vice-chairperson and not more than **three** other members, appointed by the Governor in Council.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 45.29(1):
-> *Existing Text*:
-> > The Civilian Review and Complaints Commission for the Royal Canadian Mounted Police is established, consisting of a Chairperson and not more than four other members, one of whom may be a Vice-chairperson, appointed by the Governor in Council.
+  **(1)** The Public Complaints and Review Commission is established, consisting of a Chairperson, a Vice-chairperson and not more than three other members, appointed by the Governor in Council.
 
 ### Section 4
 
 Section 45.33 of the Act is renumbered as subsection 45.33(1) and is amended by adding the following:
 
 **(2)** The officers and employees of the Commission that support the Commission in the exercise of its powers and the performance of its duties and functions under this Part and Parts VII to VII.2 may be referred to as the "Royal Canadian Mounted Police Unit".
-
-
-> **Explanatory Note**:
-> New.
 
 ### Section 5
 
@@ -69,25 +46,15 @@ Section 45.34 of the Act is amended by adding the following after subsection (5)
 
 **(7)** Before making the summary public, the Commission shall give the Commissioner an opportunity to submit comments on the findings and recommendations included in the report. The Commission shall make any comments that the Commissioner submits public at the same time as it makes the summary public.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 6
 
 Section 45.37 of the Act is replaced by the following:
 
 ### Section 45.37
 
-  ****(1)**** The Commission **and the Force** shall **jointly** establish service standards respecting the time limits within which **reviews under section 45.34 or 45.35 are to be conducted and the time limits within which each of them** is to deal with complaints **made under this Act** and specifying the circumstances under which those time limits do not apply or the circumstances under which they may be extended. **The Commission shall publish on its Internet site those service standards that are related to communications with complainants**.
+  **(1)** The Commission and the Force shall jointly establish service standards respecting the time limits within which reviews under section 45.34 or 45.35 are to be conducted and the time limits within which each of them is to deal with complaints made under this Act and specifying the circumstances under which those time limits do not apply or the circumstances under which they may be extended. The Commission shall publish on its Internet site those service standards that are related to communications with complainants.
 
   **(2)** The Governor in Council may make regulations respecting the establishing of the service standards.
-
-
-> **Explanatory Note**:
-> Existing text of section 45.37:
-> *Existing Text*:
-> > The Commission shall establish, and make public, service standards respecting the time limits within which it is to deal with complaints and specifying the circumstances under which those time limits do not apply or the circumstances under which they may be extended.
 
 ### Section 7
 
@@ -115,15 +82,11 @@ The Act is amended by adding the following after section 45.48:
 
   **(3)** The Governor in Council may make regulations respecting the use of information under subsection (1).
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 8
 
   **(1)** Paragraph 45.49(1)(b) of the French version of the Act is replaced by the following:
 
-    la fixation du quorum pour l'exercice **de ses** fonctions;
+    la fixation du quorum pour l'exercice de ses fonctions;
 
   **(2)** Paragraph 45.49(1)(e) of the Act is replaced by the following:
 
@@ -135,15 +98,9 @@ Subsection 45.51(1) of the Act is replaced by the following:
 
 ### Section 45.51
 
-  **(1)** The Commission may, on the request of the Minister or on its own initiative, provide the Minister **and the Commissioner** with a special report concerning any matter that relates to its powers, duties and functions under this Act. **If it does so, it shall also provide them with a summary of the special report**.
+  **(1)** The Commission may, on the request of the Minister or on its own initiative, provide the Minister and the Commissioner with a special report concerning any matter that relates to its powers, duties and functions under this Act. If it does so, it shall also provide them with a summary of the special report.
 
   **(1.1)** The Commission shall make the summary of the special report public after at least 15 days have elapsed after the later of the day the summary was provided to the Minister and to the Commissioner.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 45.51(1):
-> *Existing Text*:
-> > The Commission may, on the request of the Minister or on its own initiative, provide the Minister with a special report concerning any matter that relates to its powers, duties and functions under this Act.
 
 ### Section 10
 
@@ -151,7 +108,7 @@ Subsection 45.52(1) of the Act is replaced by the following:
 
 ### Section 45.52
 
-  **(1)** The Chairperson shall, within three months after the end of each fiscal year, submit to the Minister a report of the activities of the Commission during that year **under this Act and the `Canada Border Services Agency Act`**, and its recommendations, if any. The Minister shall cause a copy of the report to be tabled in each House of Parliament on any of the first 15 days on which that House is sitting after the day on which the Minister receives the report.
+  **(1)** The Chairperson shall, within three months after the end of each fiscal year, submit to the Minister a report of the activities of the Commission during that year under this Act and the `Canada Border Services Agency Act`, and its recommendations, if any. The Minister shall cause a copy of the report to be tabled in each House of Parliament on any of the first 15 days on which that House is sitting after the day on which the Minister receives the report.
 
   **(1.1)** The report referred to in subsection (1) must
 
@@ -163,22 +120,12 @@ Subsection 45.52(1) of the Act is replaced by the following:
 
     set out the number of serious incidents, as defined in subsection 57(1) of the `Canada Border Services Agency Act`, that the Commission was notified of under section 58 of that Act and contain information concerning their type, the provinces in which they are alleged to have occurred and whether charges were laid in respect of them.
 
-
-> **Explanatory Note**:
-> Existing text of subsection 45.52(1):
-> *Existing Text*:
-> > The Chairperson shall, within three months after the end of each fiscal year, submit to the Minister a report of the activities of the Commission during that year and its recommendations, if any. The Minister shall cause a copy of the report to be tabled in each House of Parliament on any of the first 15 days on which that House is sitting after the day on which the Minister receives the report.
-
 ### Section 11
 
 The Act is amended by adding the following after section 45.57:
 
 
 ### Records of Complaints
-
-
-> **Explanatory Note**:
-> New.
 
 
 ## `Canada Border Services Agency Act`
@@ -190,23 +137,13 @@ The `Canada Border Services Agency Act` is amended by adding the following after
 
 ## Canada Border Services Agency
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 13
 
 The portion of section 2 of the `Canada Border Services Agency Act` before the definition Agency is replaced by the following:
 
 ### Section 2
 
-The following definitions apply in this **Part**.
-
-
-> **Explanatory Note**:
-> Relevant portion of section 2:
-> *Existing Text*:
-> > The following definitions apply in this Act.
+The following definitions apply in this Part.
 
 ### Section 14
 
@@ -219,10 +156,6 @@ Section 13 of the Act is amended by adding the following after subsection (2):
 **(5)** If the Agency is notified that a person who is or has been detained on behalf of the Agency under an agreement or arrangement referred to in subsection (3) has made a complaint respecting their treatment during detention — or their conditions of detention — to any competent authority in the province where they are or were detained, the Agency shall, as soon as feasible, provide the Commission, as defined in subsection 16(1), with all of the information that the Agency has received or receives in relation to the complaint.
 
 **(6)** If the Agency enters into an agreement or arrangement respecting the monitoring of the treatment and of the conditions of detention of persons detained by or on behalf of the Agency or the inspection of any facility where persons are detained by or on behalf of the Agency, the Agency shall, as soon as feasible, provide the Commission, as defined in subsection 16(1), with a copy of every document containing findings or recommendations that it receives under that agreement or arrangement.
-
-
-> **Explanatory Note**:
-> New.
 
 ### Section 15
 
@@ -857,10 +790,6 @@ Every person who is arrested or detained by an officer or employee of the Agency
 Summary conviction proceedings in respect of an offence under this Part may be instituted at any time within but not later than two years after the time when the subject matter of the proceedings arose.
 
 
-> **Explanatory Note**:
-> New.
-
-
 ## Consequential Amendments
 
 
@@ -881,7 +810,7 @@ Schedule I to the Act is amended by adding the following in alphabetical order u
 
 Item 22 of the schedule to the `Canada Evidence Act` is replaced by the following:
 
-The **Public** Complaints and Review Commission, for the purposes of the `Royal Canadian Mounted Police Act` **and the `Canada Border Services Agency Act`**, but only in relation to information that is under the control, or in the possession, of the Royal Canadian Mounted Police, **the Canada Border Services Agency** or the Central Authority, as the case may be.
+The Public Complaints and Review Commission, for the purposes of the `Royal Canadian Mounted Police Act` and the `Canada Border Services Agency Act`, but only in relation to information that is under the control, or in the possession, of the Royal Canadian Mounted Police, the Canada Border Services Agency or the Central Authority, as the case may be.
 
 
 ### `Financial Administration Act`
@@ -958,40 +887,19 @@ Schedule I to the Act is amended by adding the following in alphabetical order u
 
 Paragraph (a) of the definition review body in section 2 of the `National Security and Intelligence Committee of Parliamentarians Act` is replaced by the following:
 
-the **Public** Complaints and Review Commission established by subsection 45.29(1) of the `Royal Canadian Mounted Police Act`;
-
-
-> **Explanatory Note**:
-> Relevant portion of the definition:
-> *Existing Text*:
-> > **review body** means
-> > the Civilian Review and Complaints Commission for the Royal Canadian Mounted Police established by subsection 45.29(1) of the `Royal Canadian Mounted Police Act`;
+the Public Complaints and Review Commission established by subsection 45.29(1) of the `Royal Canadian Mounted Police Act`;
 
 ### Section 32
 
 Paragraph 16(3)(a) of the Act is replaced by the following:
 
-in the case of information under the control of the Royal Canadian Mounted Police **or the Canada Border Services Agency**, the **Public** Complaints and Review Commission;
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 16(3):
-> *Existing Text*:
-> > If the appropriate Minister makes the decision in respect of any of the following information, he or she must provide the decision and reasons to,
-> > in the case of information under the control of the Royal Canadian Mounted Police, the Civilian Review and Complaints Commission for the Royal Canadian Mounted Police;
+in the case of information under the control of the Royal Canadian Mounted Police or the Canada Border Services Agency, the Public Complaints and Review Commission;
 
 ### Section 33
 
 Paragraph 23(a) of the Act is replaced by the following:
 
-to the **Public** Complaints and Review Commission, information that is obtained from — or that is created by the Committee from information obtained from — the Royal Canadian Mounted Police **or the Canada Border Services Agency** and that is related to the fulfilment of that **Commission's** mandate;
-
-
-> **Explanatory Note**:
-> Relevant portion of section 23:
-> *Existing Text*:
-> > The Committee may provide,
-> > to the Civilian Review and Complaints Commission for the Royal Canadian Mounted Police, information that is obtained from — or that is created by the Committee from information obtained from — the Royal Canadian Mounted Police and that is related to the fulfilment of that review body's mandate;
+to the Public Complaints and Review Commission, information that is obtained from — or that is created by the Committee from information obtained from — the Royal Canadian Mounted Police or the Canada Border Services Agency and that is related to the fulfilment of that Commission's mandate;
 
 
 ## Coordinating Amendments
