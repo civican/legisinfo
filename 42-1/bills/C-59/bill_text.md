@@ -1,7 +1,5 @@
 # Bill C-59: An Act respecting national security matters
 
-**Sponsor**: MINISTER OF PUBLIC SAFETY AND EMERGENCY PREPAREDNESS
-
 His Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act respecting national security matters*".
 
 ## Summary
@@ -50,7 +48,7 @@ Part 7 amends the `Criminal Code` to, among other things,
 
 make certain procedural modifications to the terrorist listing regime under section 83.05, such as providing for a staggered ministerial review of listed entities and granting the Minister of Public Safety and Emergency Preparedness the authority to amend the names, including aliases, of listed entities;
 
-change the offence of advocating or promoting terrorism offences in general, in section 83.221, to one of counselling the commission of a terrorism offence, and make corresponding changes to the definition of terrorist propaganda;
+change the offence of advocating or promoting terrorism offences in general, in section 83.21, to one of counselling the commission of a terrorism offence, and make corresponding changes to the definition of terrorist propaganda;
 
 raise one of the thresholds for imposing a recognizance with conditions under section 83.3, and amend when that section is to be reviewed and, unless extended by Parliament, to cease to have effect;
 
@@ -62,7 +60,7 @@ authorize a court, in proceedings for recognizances under any of sections 83 and
 
 Part 8 amends the `Youth Criminal Justice Act` to, among other things, ensure that the protections that are afforded to young persons apply in respect of proceedings in relation to recognizance orders, including those related to terrorism, and give employees of a department or agency of the Government of Canada access to youth records, for the purpose of administering the `Canadian Passport Order`.
 
-Part 9 requires that a comprehensive review of the provisions and operation of this enactment take place during the sixth year after section 168 of this enactment comes into force. If that section 168 and section 34 of Bill C-22, introduced in the 1st session of the 42nd Parliament and entitled the `National Security and Intelligence Committee of Parliamentarians Act`, come into force within one year of each other, the reviews required by those sections are to take place at the same time and are to be undertaken by the same committee or committees.
+Part 9 requires that a comprehensive review of the provisions and operation of this enactment take place during the fourth year after section 168 of this enactment comes into force. If that section 168 and section 34 of Bill C-22, introduced in the 1st session of the 42nd Parliament and entitled the `National Security and Intelligence Committee of Parliamentarians Act`, come into force within one year of each other, the reviews required by those sections are to take place at the same time and are to be undertaken by the same committee or committees.
 
 
 ## TABLE OF PROVISIONS
@@ -420,7 +418,7 @@ This Act may be cited as the `National Security and Intelligence Review Agency A
 
 The following definitions apply in this Act.
 
-**appropriate Minister** means
+**appropriate Minister** means
 
 with respect to a department named in Schedule I to the `Financial Administration Act`, the Minister presiding over the department;
 
@@ -432,9 +430,9 @@ with respect to a parent Crown corporation as defined in subsection 83(1) of the
 
 with respect to the Canadian Forces, the Minister of National Defence. (**ministre compétent**)
 
-**department** means, other than in **subsection** 42(2), a department named in Schedule I to the `Financial Administration Act`, a division or branch of the federal public administration  —  other than a review body and the office of the Intelligence Commissioner —  set out in column I of Schedule I.‍1 to that Act, a corporation named in Schedule II to that Act, a parent Crown corporation as defined in subsection 83(1) of that Act or the Canadian Forces. (**ministère**)
+**department** means, other than in subsection 42(2), a department named in Schedule I to the `Financial Administration Act`, a division or branch of the federal public administration  —  other than a review body and the office of the Intelligence Commissioner —  set out in column I of Schedule I.‍1 to that Act, a corporation named in Schedule II to that Act, a parent Crown corporation as defined in subsection 83(1) of that Act or the Canadian Forces. (**ministère**)
 
-**deputy head** means, except in section `42`,
+**deputy head** means, except in section `42`,
 
 with respect to a department named in Schedule I to the `Financial Administration Act`, the deputy minister of that department;
 
@@ -448,7 +446,7 @@ with respect to any other portion of the federal public administration, the pers
 
 with respect to any inquiry established under the `Inquiries Act`, if there is a single commissioner, that commissioner or, if there is more than one commissioner, the commissioner designated by order of the Governor in Council to be the deputy head of that inquiry for the purposes of this Act. (**administrateur général**)
 
-**Director** means the Director of the Canadian Security Intelligence Service. (**directeur**)
+**Director** means the Director of the Canadian Security Intelligence Service. (**directeur**)
 
 **Review Agency** means the National Security and Intelligence Review Agency established under section `3`. (**Office de surveillance**)
 
@@ -551,13 +549,13 @@ Subject to this Act, the Review Agency may determine the procedure to be followe
 
   **(1)** Despite any other Act of Parliament and subject to section `12`, the Review Agency is entitled, in relation to its reviews, to have access in a timely manner to any information that is in the possession or under the control of any department.
 
-  **(2)** Under subsection (1), the Review Agency is entitled to have access to information that is subject to **any priv­ilege under the law of evidence**, solicitor-client privilege or the professional secrecy of advocates and notaries or to litigation privilege.
+  **(2)** Under subsection (1), the Review Agency is entitled to have access to information that is subject to any priv­ilege under the law of evidence, solicitor-client privilege or the professional secrecy of advocates and notaries or to litigation privilege.
 
   **(3)** For greater certainty, the disclosure to the Review Agency under this section of any information that is subject to solicitor-client privilege or the professional secrecy of advocates and notaries or to litigation privilege does not constitute a waiver of those privileges or that secrecy.
 
 ### Section 10
 
-Despite any other Act of Parliament **and any privilege under the law of evidence** and subject to section 12, the Review Agency is entitled to have access in a timely manner to the following information:
+Despite any other Act of Parliament and any privilege under the law of evidence and subject to section 12, the Review Agency is entitled to have access in a timely manner to the following information:
 
 in relation to a complaint made under subsection `16`(1), any information that relates to the complaint and that is in the possession or under the control of the Canadian Security Intelligence Service or the Communications Security Establishment;
 
@@ -834,7 +832,7 @@ If the executive director is absent or incapacitated or the office of executive 
 
   **(2)** Nothing in the `Federal Public Sector Labour Relations Act` is to be construed so as to affect the right or authority of the executive director to deal with the matters referred to in subsection (1).
 
-  **(3)** Part 7 of the `Public Service Employment Act` **applies** to the executive director **and** the **Secretariat's employees**. For the purposes of that Part, the **executive director** is deemed to be a deputy head, and the Secretariat's employees are deemed to be employees, as defined in subsection 2(1) of that Act.
+  **(3)** Part 7 of the `Public Service Employment Act` applies to the executive director and the Secretariat's employees. For the purposes of that Part, the executive director is deemed to be a deputy head, and the Secretariat's employees are deemed to be employees, as defined in subsection 2(1) of that Act.
 
 ### Section 46
 
@@ -866,32 +864,28 @@ Before entering into collective bargaining with the bargaining agent for a barga
 
 ### Section 48
 
-[*Deleted*]
-
-### Section 49
-
 The executive director may engage the services of persons having technical or specialized knowledge to advise and assist the Review Agency in the exercise of its powers and the performance of its duties and functions and, with the approval of the Treasury Board, may fix and pay their remuneration and expenses.
 
 
 ## Security and Confidentiality
 
-### Section 50
+### Section 49
 
 Each member of the Review Agency must take the following oath or make the following solemn affirmation:
 
-### Section 51
+### Section 50
 
-Each member of the Review Agency, the executive director, each employee of the Secretariat and any person whose services the Secretariat engages under section `49` must
+Each member of the Review Agency, the executive director, each employee of the Secretariat and any person whose services the Secretariat engages under section 48 must
 
 maintain the security clearance required by the Government of Canada; and
 
 follow established procedures or practices, including any requirement found in a Treasury Board policy, guideline or directive, for the secure handling, storage, transportation and transmission of information or documents.
 
-### Section 52
+### Section 51
 
 A member or former member of the Review Agency, the executive director or a former executive director of the Secretariat or a person who is or was engaged by the Secretariat may disclose information that they obtained, or to which they had access, in the course of exercising their powers or performing their duties and functions under this Act only for the purpose of exercising their powers or performing their duties and functions under this Act or as required by any other law.
 
-### Section 53
+### Section 52
 
   **(1)** The Review Agency must consult with the deputy heads concerned in preparing any of the following, in order to ensure that they do not contain information the disclosure of which would be injurious to national security, national defence or international relations or is information that is subject to solicitor-client privilege or the professional secrecy of advocates and notaries or to litigation privilege:
 
@@ -907,14 +901,14 @@ A member or former member of the Review Agency, the executive director or a form
 
     if the Agency considers it appropriate, in preparing any other report referred to in paragraph (1)(b).
 
-### Section 54
+### Section 53
 
 The Review Agency must, if appropriate, consult with the department concerned in preparing any report referred to in sections `32` to `34` and `38` to `40` to ensure that the report does not contain information relating to the alleged contravention of any law of Canada or a province that, if it were to be disclosed to any Minister, may be seen to jeopardize the independence of a peace officer having jurisdiction to investigate the alleged contravention.
 
 
 ## General
 
-### Section 54.1
+### Section 54
 
 Nothing in this Act is to be construed as limiting the power of any body or person that is authorized under an Act of Parliament to conduct a review or investigation in relation to any activity of a department.
 
@@ -1249,9 +1243,9 @@ Subsections 45.67(3) and (4) of the Act are replaced by the following:
 
 **(2.1)** The Commission shall discontinue an investigation of a complaint if subsection 45.53(4.1) applies and shall refer the complaint to the National Security and Intelligence Review Agency.
 
-**(3)** **Subject to subsection (3.1)**, if the Commission discontinues an investigation of a complaint, the Commission shall give notice in writing of the discontinuance and the reasons for it to the complainant and the Commissioner.
+**(3)** Subject to subsection (3.1), if the Commission discontinues an investigation of a complaint, the Commission shall give notice in writing of the discontinuance and the reasons for it to the complainant and the Commissioner.
 
-****(3.1)**** If **the investigation of a complaint is discontinued** under subsection (2.1), **the Commission shall give to the Commissioner notice in writing of the investigation's discontinuance** and the referral of **the complaint to the National Security and Intelligence Review Agency. After doing so, the Commission shall give notice in writing of the discontinuance and the referral to the complainant.**
+**(3.1)** If the investigation of a complaint is discontinued under subsection (2.1), the Commission shall give to the Commissioner notice in writing of the investigation's discontinuance and the referral of the complaint to the National Security and Intelligence Review Agency. After doing so, the Commission shall give notice in writing of the discontinuance and the referral to the complainant.
 
 **(4)** After receiving the notice, the Commissioner shall notify the member or other person whose conduct is the subject matter of the complaint of the discontinuance of the investigation of the complaint and, if applicable, of the referral made under subsection (2.1).
 
@@ -1626,7 +1620,7 @@ The Commissioner has the rank and all the powers of a deputy head of a departmen
 
   **(2)** Nothing in the `Federal Public Sector Labour Relations Act` is to be construed so as to affect the Commissioner's right or authority to deal with the matters referred to in subsection (1).
 
-  **(3)** Part 7 of the `Public Service Employment Act` **applies** to the Commissioner and to his or her employees. For the purposes of that Part, the **Commissioner** is deemed to be a deputy head, and his or her employees are deemed to be employees, as those terms are defined in subsection 2(1) of that Act.
+  **(3)** Part 7 of the `Public Service Employment Act` applies to the Commissioner and to his or her employees. For the purposes of that Part, the Commissioner is deemed to be a deputy head, and his or her employees are deemed to be employees, as those terms are defined in subsection 2(1) of that Act.
 
 ### Section 7
 
@@ -1658,74 +1652,70 @@ Before entering into collective bargaining with the bargaining agent for a barga
 
 ### Section 9
 
-[*Deleted*]
+The Commissioner may engage on a temporary basis the services of persons having technical or specialized knowledge to advise and assist the Commissioner in the exercise of his or her powers and the performance of his or her duties and functions under this or any other Act of Parliament and, with the approval of Treasury Board, may fix and pay the remuneration and expenses of those persons.
 
 ### Section 10
 
-The Commissioner may engage on a temporary basis the services of persons having technical or specialized knowledge to advise and assist the Commissioner in the exercise of his or her powers and the performance of his or her duties and functions under this or any other Act of Parliament and, with the approval of Treasury Board, may fix and pay the remuneration and expenses of those persons.
-
-### Section 11
-
   **(1)** The Commissioner must, before commencing the duties and functions of office, take the following oath or make the following solemn affirmation:
 
-  **(2)** Every employee of the Commissioner and every person whose services are engaged under section `10` must maintain the security clearance required by the Government of Canada.
+  **(2)** Every employee of the Commissioner and every person whose services are engaged under section 9 must maintain the security clearance required by the Government of Canada.
 
   **(3)** The Commissioner and every person referred to in subsection (2) must follow established procedures or practices, including any requirement found in a Treasury Board policy, guideline or directive, for the secure handling, storage, transportation and transmission of information or documents.
 
-### Section 12
+### Section 11
 
-The Commissioner, a former Commissioner, any current or former employee and any person whose services are or were engaged under section `10` may disclose information that they obtained, or to which they had access, in the course of exercising their powers or performing their duties and functions under this or any other Act of Parliament only for the purpose of exercising those powers or performing those duties and functions or as required by any other law.
+The Commissioner, a former Commissioner, any current or former employee and any person whose services are or were engaged under section 9 may disclose information that they obtained, or to which they had access, in the course of exercising their powers or performing their duties and functions under this or any other Act of Parliament only for the purpose of exercising those powers or performing those duties and functions or as required by any other law.
 
 
 ## Duties and Functions
 
-### Section 13
+### Section 12
 
-The Commissioner is responsible, as set out in sections `14` to `21`, for
+The Commissioner is responsible, as set out in sections 13 to 20, for
 
 reviewing the conclusions on the basis of which certain authorizations are issued or amended, and certain determinations are made, under the `Communications Security Establishment Act` and the `Canadian Security Intelligence Service Act`; and
 
 if those conclusions are reasonable, approving those authorizations, amendments and determinations.
 
+### Section 13
+
+The Commissioner must review whether the conclusions — made under subsections 34(1) and (2) of the `Communications Security Establishment Act` and on the basis of which a Foreign Intelligence Authorization was issued under subsection 26(1) of that Act — are reasonable.
+
 ### Section 14
 
-The Commissioner must review whether the conclusions — made under subsections 35(1) and (2) of the `Communications Security Establishment Act` and on the basis of which a Foreign Intelligence Authorization was issued under subsection 27(1) of that Act — are reasonable.
+The Commissioner must review whether the conclusions — made under subsections 34(1) and (3) of the `Communications Security Establishment Act` and on the basis of which a Cybersecurity Authorization was issued under subsection 27(1) or (2) of that Act — are reasonable.
 
 ### Section 15
 
-The Commissioner must review whether the conclusions — made under subsections 35(1) and (3) of the `Communications Security Establishment Act` and on the basis of which a Cybersecurity Authorization was issued under subsection 28(1) or (2) of that Act — are reasonable.
+The Commissioner must review whether the conclusions — made under paragraph 39(2)(a) of the `Communications Security Establishment Act` and on the basis of which an authorization referred to in section `13` is amended, or made under paragraph 39(2)(b) of that Act and on the basis of which an authorization referred to in section `14` is amended — are reasonable.
 
 ### Section 16
 
-The Commissioner must review whether the conclusions — made under paragraph 40(2)(a) of the `Communications Security Establishment Act` and on the basis of which an authorization referred to in section `14` is amended, or made under paragraph 40(2)(b) of that Act and on the basis of which an authorization referred to in section `15` is amended — are reasonable.
+The Commissioner must review whether the conclusions — made under subsection 11.03(2) of the `Canadian Security Intelligence Service Act` and on the basis of which a class of Canadian datasets is determined under subsection 11.03(1) of that Act — are reasonable.
 
 ### Section 17
 
-The Commissioner must review whether the conclusions — made under subsection 11.03(2) of the `Canadian Security Intelligence Service Act` and on the basis of which a class of Canadian datasets is determined under subsection 11.03(1) of that Act — are reasonable.
+The Commissioner must review whether the conclusions — made under subsection 11.17(1) of the `Canadian Security Intelligence Service Act` and on the basis of which the retention of a foreign dataset was authorized — are reasonable.
 
 ### Section 18
 
-The Commissioner must review whether the conclusions — made under subsection 11.17(1) of the `Canadian Security Intelligence Service Act` and on the basis of which the retention of a foreign dataset was authorized — are reasonable.
+The Commissioner must review whether the conclusions — made under subsection 11.22(1) of the `Canadian Security Intelligence Service Act` and on the basis of which a query of a dataset in exigent circumstances was authorized — are reasonable.
 
 ### Section 19
 
-The Commissioner must review whether the conclusions — made under subsection 11.22(1) of the `Canadian Security Intelligence Service Act` and on the basis of which a query of a dataset in exigent circumstances was authorized — are reasonable.
+The Commissioner must review whether the conclusions — made under subsection 20.1(3) of the `Canadian Security Intelligence Service Act` and on the basis of which a class of acts or omissions is determined — are reasonable.
 
 ### Section 20
 
-The Commissioner must review whether the conclusions — made under subsection 20.1(3) of the `Canadian Security Intelligence Service Act` and on the basis of which a class of acts or omissions is determined — are reasonable.
+  **(1)** After conducting a review under any of sections `13` to `16`, `18` and `19`, the Commissioner, in a written decision,
 
-### Section 21
-
-  **(1)** After conducting a review under any of sections `14` to `17`, `19` and `20`, the Commissioner, in a written decision,
-
-    must approve the authorization, amendment or determination if he or she is satisfied that the conclusions at issue are reasonable, **and must set out his or her reasons for doing so**; or
+    must approve the authorization, amendment or determination if he or she is satisfied that the conclusions at issue are reasonable, and must set out his or her reasons for doing so; or
 
     must not approve the authorization, amendment or determination if he or she is not so satisfied, and must set out his or her reasons for doing so.
 
-  **(2)** After conducting a review under section `18`, the Commissioner, in a written decision,
+  **(2)** After conducting a review under section `17`, the Commissioner, in a written decision,
 
-    must approve the authorization if he or she is satisfied that the conclusions at issue are reasonable, **and must set out his or her reasons for doing so**;
+    must approve the authorization if he or she is satisfied that the conclusions at issue are reasonable, and must set out his or her reasons for doing so;
 
     must approve the authorization with conditions — respecting the querying or exploitation of the foreign dataset or the retention or destruction of the dataset or of a portion of it — and provide reasons for doing so, if he or she is satisfied that those conclusions are reasonable once the conditions are attached; or
 
@@ -1733,20 +1723,20 @@ The Commissioner must review whether the conclusions — made under subsecti
 
   **(3)** The Commissioner must provide the decision to the person whose conclusions are being reviewed
 
-    as soon as feasible, in the case of an authorization referred to in section `19`; or
+    as soon as feasible, in the case of an authorization referred to in section `18`; or
 
     within 30 days after the day on which the Commissioner receives notice of the authorization, amendment or determination, or within any other period that may be agreed on by the Commissioner and the person, in any other case.
 
   **(4)** For greater certainty, a decision of the Commissioner is not a statutory instrument within the meaning of the `Statutory Instruments Act`.
 
-### Section 22
+### Section 21
 
-The Commissioner must provide a copy of every decision made by him or her under section `21` to the National Security and Intelligence Review Agency for the purpose of assisting that Agency in fulfilling its mandate under paragraphs 8(1)(a) to (c) of the `National Security and Intelligence Review Agency Act`.
+The Commissioner must provide a copy of every decision made by him or her under section `20` to the National Security and Intelligence Review Agency for the purpose of assisting that Agency in fulfilling its mandate under paragraphs 8(1)(a) to (c) of the `National Security and Intelligence Review Agency Act`.
 
 
 ## Public Report
 
-### Section 22.1
+### Section 22
 
   **(1)** The Commissioner must, each calendar year, submit to the Prime Minister a report with respect to the Commissioner's activities during the previous calendar year. The report must include statistics, that the Commissioner considers appropriate, relating to the authorizations, amendments and determinations that were approved and not approved.
 
@@ -1759,7 +1749,7 @@ The Commissioner must provide a copy of every decision made by him or her under 
 
 ### Section 23
 
-  **(1)** Despite any other Act of Parliament and subject to section `26`, the person whose conclusions are being reviewed by the Commissioner under any of sections `14` to `20` must, for the purposes of the Commissioner's review, provide the Commissioner with all information that was before the person in issuing or amending the authorization or making the determination at issue, including information that is subject to **any privilege under the law of evidence**, solicitor-client privilege or the professional secrecy of advocates and notaries or to litigation privilege.
+  **(1)** Despite any other Act of Parliament and subject to section `26`, the person whose conclusions are being reviewed by the Commissioner under any of sections `13` to `19` must, for the purposes of the Commissioner's review, provide the Commissioner with all information that was before the person in issuing or amending the authorization or making the determination at issue, including information that is subject to any privilege under the law of evidence, solicitor-client privilege or the professional secrecy of advocates and notaries or to litigation privilege.
 
   **(2)** For greater certainty, the disclosure to the Commissioner under this section of any information that is subject to solicitor-client privilege or the professional secrecy of advocates and notaries or to litigation privilege does not constitute a waiver of those privileges or that secrecy.
 
@@ -1769,7 +1759,7 @@ The Commissioner is entitled to receive a copy of a report, or part of one, subm
 
 ### Section 25
 
-Despite any other Act of Parliament and **any privilege under the law of evidence and** subject to section 26, the following persons or bodies may — for the purpose of assisting the Commissioner in the exercise of his or her powers and the performance of his or her duties and functions — disclose to the Commissioner any information that is not directly related to a specific review under any of sections `14` to `20`:
+Despite any other Act of Parliament and any privilege under the law of evidence and subject to section 26, the following persons or bodies may — for the purpose of assisting the Commissioner in the exercise of his or her powers and the performance of his or her duties and functions — disclose to the Commissioner any information that is not directly related to a specific review under any of sections `13` to `19`:
 
 the Minister of Public Safety and Emergency Preparedness;
 
@@ -2027,7 +2017,7 @@ any other body that is specified by an Act of Parliament to be an agent of Her M
 
 **Minister** means the Minister of National Defence or, if another federal minister is designated under section `4`, that minister. (**ministre**)
 
-**publicly available information** means information that has been published or broadcast for public consumption, is accessible to the public on the global information infrastructure or otherwise or is available to the public on request, by subscription or by purchase. **It does not include information in respect of which a Canadian or a person in Canada has a reasonable expectation of privacy**. (**information accessible au public**)
+**publicly available information** means information that has been published or broadcast for public consumption, is accessible to the public on the global information infrastructure or otherwise or is available to the public on request, by subscription or by purchase. It does not include information in respect of which a Canadian or a person in Canada has a reasonable expectation of privacy. (**information accessible au public**)
 
 **Review Agency** means the National Security and Intelligence Review Agency established under section 3 of the `National Security and Intelligence Review Agency Act`. (**Office de surveillance**)
 
@@ -2115,10 +2105,6 @@ The powers, duties and functions of the Establishment may be exercised or perfor
 
   **(2)** Nothing in the `Federal Public Sector Labour Relations Act` is to be construed so as to affect the right or authority of the Chief to deal with the matters referred to in subsection (1).
 
-  **(3)** [*Deleted*]
-
-  **(4)** [*Deleted*]
-
 ### Section 13
 
 In exercising his or her authority under subsection `12`(1), the Chief may
@@ -2147,24 +2133,20 @@ provide for any other matters, including terms and conditions of employment not 
 
 Before entering into collective bargaining with the bargaining agent for a bargaining unit composed of Establishment employees, the Chief must have the Establishment's negotiating mandate approved by the President of the Treasury Board.
 
-### Section 15
-
-[*Deleted*]
-
 
 ## Mandate
 
-### Section 16
+### Section 15
 
   **(1)** The Establishment is the national signals intelligence agency for foreign intelligence and the technical authority for cybersecurity and information assurance.
 
   **(2)** The Establishment's mandate has five aspects: foreign intelligence, cybersecurity and information assurance, defensive cyber operations, active cyber operations and technical and operational assistance.
 
-### Section 17
+### Section 16
 
 The foreign intelligence aspect of the Establishment's mandate is to acquire, covertly or otherwise, information from or through the global information infrastructure, including by engaging or interacting with foreign entities located outside Canada or by using any other method of acquiring information, and to use, analyse and disseminate the information for the purpose of providing foreign intelligence, in accordance with the Government of Canada's intelligence priorities.
 
-### Section 18
+### Section 17
 
 The cybersecurity and information assurance aspect of the Establishment's mandate is to
 
@@ -2172,27 +2154,27 @@ provide advice, guidance and services to help protect
 
 federal institutions' electronic information and information infrastructures, and
 
-electronic information and information infrastructures designated under subsection `22`(1) as being of importance to the Government of Canada; and
+electronic information and information infrastructures designated under subsection `21`(1) as being of importance to the Government of Canada; and
 
 acquire, use and analyse information from the global information infrastructure or from other sources in order to provide such advice, guidance and services.
 
-### Section 19
+### Section 18
 
 The defensive cyber operations aspect of the Establishment's mandate is to carry out activities on or through the global information infrastructure to help protect
 
 federal institutions' electronic information and information infrastructures; and
 
-electronic information and information infrastructures designated under subsection `22`(1) as being of importance to the Government of Canada.
+electronic information and information infrastructures designated under subsection `21`(1) as being of importance to the Government of Canada.
 
-### Section 20
+### Section 19
 
 The active cyber operations aspect of the Establishment's mandate is to carry out activities on or through the global information infrastructure to degrade, disrupt, influence, respond to or interfere with the capabilities, intentions or activities of a foreign individual, state, organization or terrorist group as they relate to international affairs, defence or security.
 
-### Section 21
+### Section 20
 
 The technical and operational assistance aspect of the Establishment's mandate is to provide technical and operational assistance to federal law enforcement and security agencies, the Canadian Forces and the Department of National Defence.
 
-### Section 22
+### Section 21
 
   **(1)** The Minister may, by order, designate any electronic information, any information infrastructures or any class of electronic information or information infrastructures as electronic information or information infrastructures — as the case may be — of importance to the Government of Canada.
 
@@ -2201,23 +2183,23 @@ The technical and operational assistance aspect of the Establishment's mandate i
 
 ## Activities
 
-### Section 23
+### Section 22
 
-  **(1)** Activities carried out by the Establishment in furtherance of the foreign intelligence, cybersecurity and information assurance, defensive cyber operations or active cyber operations aspects of its mandate must not be directed at a Canadian or at any person in Canada **and must not infringe the `Canadian Charter of Rights and Freedoms`**.
+  **(1)** Activities carried out by the Establishment in furtherance of the foreign intelligence, cybersecurity and information assurance, defensive cyber operations or active cyber operations aspects of its mandate must not be directed at a Canadian or at any person in Canada and must not infringe the `Canadian Charter of Rights and Freedoms`.
 
   **(2)** Activities carried out by the Establishment in furtherance of the defensive cyber operations or active cyber operations aspects of its mandate
 
     must not be directed at any portion of the global information infrastructure that is in Canada; and
 
-    must not be carried out except under an authorization issued under subsection `30`(1) or `31`(1).
+    must not be carried out except under an authorization issued under subsection `29`(1) or `30`(1).
 
-  **(3)** Activities carried out by the Establishment in furtherance of the foreign intelligence aspect of its mandate must not contravene any other Act of Parliament — **or involve the acquisition by the Establishment of information from or through the global information infrastructure that interferes with the reasonable expectation of privacy of a Canadian or a person in Canada** — unless they are carried out under an authorization issued under subsection 27(1) or 41(1).
+  **(3)** Activities carried out by the Establishment in furtherance of the foreign intelligence aspect of its mandate must not contravene any other Act of Parliament — or involve the acquisition by the Establishment of information from or through the global information infrastructure that interferes with the reasonable expectation of privacy of a Canadian or a person in Canada — unless they are carried out under an authorization issued under subsection 26(1) or 40(1).
 
-  **(4)** Activities carried out by the Establishment in furtherance of the cybersecurity and information assurance aspect of its mandate must not contravene any other Act of Parliament — **or involve the acquisition by the Establishment of information from the global information infrastructure that interferes with the reasonable expectation of privacy of a Canadian or a person in Canada** — unless they are carried out under an authorization issued under subsection 28(1) or (2) or 41(1).
+  **(4)** Activities carried out by the Establishment in furtherance of the cybersecurity and information assurance aspect of its mandate must not contravene any other Act of Parliament — or involve the acquisition by the Establishment of information from the global information infrastructure that interferes with the reasonable expectation of privacy of a Canadian or a person in Canada — unless they are carried out under an authorization issued under subsection 27(1) or (2) or 40(1).
 
-### Section 24
+### Section 23
 
-  **(1)** Despite subsections `23`(1) and (2), the Establishment may carry out any of the following activities in furtherance of its mandate:
+  **(1)** Despite subsections `22`(1) and (2), the Establishment may carry out any of the following activities in furtherance of its mandate:
 
     acquiring, using, analysing, retaining or disclosing publicly available information;
 
@@ -2225,15 +2207,15 @@ The technical and operational assistance aspect of the Establishment's mandate i
 
     testing or evaluating products, software and systems, including testing or evaluating them for vulnerabilities.
 
-  **(2)** Despite subsection `23`(1), in furtherance of its mandate the Establishment may analyse information for the purpose of providing advice to the Minister of Public Safety and Emergency Preparedness and to the Minister responsible for the administration of the `Investment Canada Act` with regard to that latter Minister's powers and duties under Part IV.1 of that Act.
+  **(2)** Despite subsection `22`(1), in furtherance of its mandate the Establishment may analyse information for the purpose of providing advice to the Minister of Public Safety and Emergency Preparedness and to the Minister responsible for the administration of the `Investment Canada Act` with regard to that latter Minister's powers and duties under Part IV.1 of that Act.
 
-  **(3)** Despite subsection `23`(1), the Establishment may carry out any of the following activities in furtherance of the cybersecurity and information assurance aspect of its mandate:
+  **(3)** Despite subsection `22`(1), the Establishment may carry out any of the following activities in furtherance of the cybersecurity and information assurance aspect of its mandate:
 
     carrying out activities on information infrastructures to identify or isolate malicious software, prevent malicious software from harming those information infrastructures or mitigate any harm that malicious software causes to them; and
 
     analysing information in order to be able to provide advice on the integrity of supply chains and on the trustworthiness of telecommunications, equipment and services.
 
-  **(4)** The Establishment may acquire information relating to a Canadian or a person in Canada incidentally in the course of carrying out activities under an authorization issued under subsection `27`(1), `28`(1) or (2) or `41`(1).
+  **(4)** The Establishment may acquire information relating to a Canadian or a person in Canada incidentally in the course of carrying out activities under an authorization issued under subsection `26`(1), `27`(1) or (2) or `40`(1).
 
   **(5)** The following definitions apply in this section.
 
@@ -2247,15 +2229,15 @@ The technical and operational assistance aspect of the Establishment's mandate i
 
     It does not include information that could be linked to an identifiable person. (**information sur l'infrastructure**)
 
-### Section 25
+### Section 24
 
 The Establishment must ensure that measures are in place to protect the privacy of Canadians and of persons in Canada in the use, analysis, retention and disclosure of
 
 information related to them acquired in the course of the furtherance of the foreign intelligence and cybersecurity and information assurance aspects of the Establishment's mandate; or
 
-publicly available information related to them acquired under paragraph `24`(1)(a).
+publicly available information related to them acquired under paragraph `23`(1)(a).
 
-### Section 26
+### Section 25
 
   **(1)** If the Establishment provides assistance in furtherance of the technical and operational assistance aspect of its mandate, then the Establishment, in the course of providing the assistance, has the same authority to carry out any activity as would have the federal law enforcement or security agency, the Canadian Forces or the Department of National Defence, as the case may be, if it were carrying out the activity, and is subject to any limitations imposed by law on the agency, the Canadian Forces or that Department, including requirements with respect to any applicable warrant.
 
@@ -2267,7 +2249,7 @@ publicly available information related to them acquired under paragraph `24`(1)(
 
 ### Foreign Intelligence and Cybersecurity Authorizations
 
-### Section 27
+### Section 26
 
   **(1)** The Minister may issue a Foreign Intelligence Authorization to the Establishment that authorizes it, despite any other Act of Parliament or of any foreign state, to carry out, on or through the global information infrastructure, any activity specified in the authorization in the furtherance of the foreign intelligence aspect of its mandate.
 
@@ -2283,28 +2265,28 @@ publicly available information related to them acquired under paragraph `24`(1)(
 
     carrying out any other activity that is reasonable in the circumstances and reasonably necessary in aid of any other activity, or class of activity, authorized by the authorization.
 
-### Section 28
+### Section 27
 
   **(1)** The Minister may issue a Cybersecurity Authorization to the Establishment that authorizes it, despite any other Act of Parliament, to, in the furtherance of the cybersecurity and information assurance aspect of its mandate, access a federal institution's information infrastructure and acquire any information originating from, directed to, stored on or being transmitted on or through that infrastructure for the purpose of helping to protect it, in the circumstances described in paragraph 184(2)(e) of the `Criminal Code`, from mischief, unauthorized use or disruption.
 
-  **(2)** The Minister may issue a Cybersecurity Authorization to the Establishment that authorizes it, despite any other Act of Parliament, to, in the furtherance of the cybersecurity and information assurance aspect of its mandate, access an information infrastructure designated under subsection `22`(1) as an information infrastructure of importance to the Government of Canada and acquire any information originating from, directed to, stored on or being transmitted on or through that infrastructure for the purpose of helping to protect it, in the circumstances described in paragraph 184(2)(e) of the `Criminal Code`, from mischief, unauthorized use or disruption.
+  **(2)** The Minister may issue a Cybersecurity Authorization to the Establishment that authorizes it, despite any other Act of Parliament, to, in the furtherance of the cybersecurity and information assurance aspect of its mandate, access an information infrastructure designated under subsection `21`(1) as an information infrastructure of importance to the Government of Canada and acquire any information originating from, directed to, stored on or being transmitted on or through that infrastructure for the purpose of helping to protect it, in the circumstances described in paragraph 184(2)(e) of the `Criminal Code`, from mischief, unauthorized use or disruption.
 
-### Section 29
+### Section 28
 
-  **(1)** An authorization issued under subsection `27`(1) or `28`(1) or (2) is valid when — if it is approved by the Commissioner under paragraph 21(1)(a) of the `Intelligence Commissioner Act` — the Commissioner provides the Minister with the written decision approving the authorization.
+  **(1)** An authorization issued under subsection `26`(1) or `27`(1) or (2) is valid when — if it is approved by the Commissioner under paragraph 20(1)(a) of the `Intelligence Commissioner Act` — the Commissioner provides the Minister with the written decision approving the authorization.
 
-  **(2)** For greater certainty, no activity that is specified in an authorization issued under subsection `27`(1) or `28`(1) or (2) is authorized until the authorization is valid under subsection (1).
+  **(2)** For greater certainty, no activity that is specified in an authorization issued under subsection `26`(1) or `27`(1) or (2) is authorized until the authorization is valid under subsection (1).
 
 
 ### Cyber Operations Authorizations
 
-### Section 30
+### Section 29
 
   **(1)** The Minister may issue a Defensive Cyber Operations Authorization to the Establishment that authorizes it, despite any other Act of Parliament or of any foreign state, to carry out, on or through the global information infrastructure, any activity specified in the authorization in the furtherance of the defensive cyber operations aspect of its mandate.
 
   **(2)** The Minister may issue the authorization only if he or she has consulted the Minister of Foreign Affairs.
 
-### Section 31
+### Section 30
 
   **(1)** The Minister may issue an Active Cyber Operations Authorization to the Establishment that authorizes it, despite any other Act of Parliament or of any foreign state, to carry out, on or through the global information infrastructure, any activity specified in the authorization in the furtherance of the active cyber operations aspect of its mandate.
 
@@ -2312,9 +2294,9 @@ publicly available information related to them acquired under paragraph `24`(1)(
 
   **(3)** The request or consent of the Minister of Foreign Affairs may be oral, but in that case he or she must provide written confirmation of the request or consent to the Minister as soon as feasible.
 
-### Section 32
+### Section 31
 
-Activities and classes of activities that an authorization issued under subsection `30`(1) or `31`(1) may authorize the Establishment to carry out may include any of the following:
+Activities and classes of activities that an authorization issued under subsection `29`(1) or `30`(1) may authorize the Establishment to carry out may include any of the following:
 
 gaining access to a portion of the global information infrastructure;
 
@@ -2324,9 +2306,9 @@ doing anything that is reasonably necessary to maintain the covert nature of the
 
 carrying out any other activity that is reasonable in the circumstances and reasonably necessary in aid of any other activity, or class of activities, authorized by the authorization.
 
-### Section 33
+### Section 32
 
-  **(1)** In carrying out any activity under an authorization issued under subsection `30`(1) or `31`(1), the Establishment must not
+  **(1)** In carrying out any activity under an authorization issued under subsection `29`(1) or `30`(1), the Establishment must not
 
     cause, intentionally or by criminal negligence, death or bodily harm to an individual; or
 
@@ -2337,51 +2319,51 @@ carrying out any other activity that is reasonable in the circumstances and reas
 
 ### Procedure
 
-### Section 34
+### Section 33
 
-  **(1)** The Minister may issue an authorization under subsection `27`(1), `28`(1) or (2), `30`(1) or `31`(1) only on the written application of the Chief.
+  **(1)** The Minister may issue an authorization under subsection `26`(1), `27`(1) or (2), `29`(1) or `30`(1) only on the written application of the Chief.
 
   **(2)** The application must set out the facts that would allow the Minister to conclude that there are reasonable grounds to believe that the authorization is necessary and that the conditions for issuing it are met.
 
-  **(3)** If the application is for an authorization to be issued under subsection `28`(2), the application must include the written request of the owner or operator of the information infrastructure to the Establishment to carry out the activity that would be authorized.
+  **(3)** If the application is for an authorization to be issued under subsection `27`(2), the application must include the written request of the owner or operator of the information infrastructure to the Establishment to carry out the activity that would be authorized.
 
-  **(4)** If the application is for an authorization to be issued under subsection `31`(1), the application must include the request or consent referred to in subsection `31`(2) if it is in writing.
+  **(4)** If the application is for an authorization to be issued under subsection `30`(1), the application must include the request or consent referred to in subsection `30`(2) if it is in writing.
 
-### Section 35
+### Section 34
 
-  **(1)** The Minister may issue an authorization under subsection `27`(1), `28`(1) or (2), `30`(1) or `31`(1) only if he or she concludes that there are reasonable grounds to believe that any activity that would be authorized by it is reasonable and proportionate, having regard to the nature of the objective to be achieved and the nature of the activities.
+  **(1)** The Minister may issue an authorization under subsection `26`(1), `27`(1) or (2), `29`(1) or `30`(1) only if he or she concludes that there are reasonable grounds to believe that any activity that would be authorized by it is reasonable and proportionate, having regard to the nature of the objective to be achieved and the nature of the activities.
 
-  **(2)** The Minister may issue an authorization under subsection `27`(1) only if he or she concludes that there are reasonable grounds to believe — in addition to the matters referred to in subsection (1) — that
+  **(2)** The Minister may issue an authorization under subsection `26`(1) only if he or she concludes that there are reasonable grounds to believe — in addition to the matters referred to in subsection (1) — that
 
     any information acquired under the authorization could not reasonably be acquired by other means and will be retained for no longer than is reasonably necessary;
 
     any unselected information acquired under the authorization could not reasonably be acquired by other means, in the case of an authorization that authorizes the acquisition of unselected information; and
 
-    the measures referred to in section `25` will ensure that information acquired under the authorization that is identified as relating to a Canadian or a person in Canada will be used, analysed or retained only if the information is essential to international affairs, defence or security.
+    the measures referred to in section `24` will ensure that information acquired under the authorization that is identified as relating to a Canadian or a person in Canada will be used, analysed or retained only if the information is essential to international affairs, defence or security.
 
-  **(3)** The Minister may issue an authorization under subsection `28`(1) or (2) only if he or she concludes that there are reasonable grounds to believe — in addition to the matters referred to in subsection (1) — that
+  **(3)** The Minister may issue an authorization under subsection `27`(1) or (2) only if he or she concludes that there are reasonable grounds to believe — in addition to the matters referred to in subsection (1) — that
 
     any information acquired under the authorization will be retained for no longer than is reasonably necessary;
 
-    the consent of all persons whose information may be acquired could not reasonably be obtained, in the case of an authorization to be issued under subsection `28`(1);
+    the consent of all persons whose information may be acquired could not reasonably be obtained, in the case of an authorization to be issued under subsection `27`(1);
 
     any information acquired under the authorization is necessary to identify, isolate, prevent or mitigate harm to
 
-    federal institutions' electronic information or information infrastructures, in the case of an authorization to be issued under subsection `28`(1), or
+    federal institutions' electronic information or information infrastructures, in the case of an authorization to be issued under subsection `27`(1), or
 
-    electronic information or information infrastructures designated under subsection `22`(1) as being of importance to the Government of Canada, in the case of an authorization to be issued under subsection `28`(2); and
+    electronic information or information infrastructures designated under subsection `21`(1) as being of importance to the Government of Canada, in the case of an authorization to be issued under subsection `27`(2); and
 
-    the measures referred to in section `25` will ensure that information acquired under the authorization that is identified as relating to a Canadian or a person in Canada will be used, analysed or retained only if the information is essential to identify, isolate, prevent or mitigate harm to
+    the measures referred to in section `24` will ensure that information acquired under the authorization that is identified as relating to a Canadian or a person in Canada will be used, analysed or retained only if the information is essential to identify, isolate, prevent or mitigate harm to
 
-    federal institutions' electronic information or information infrastructures, in the case of an authorization to be issued under subsection `28`(1), or
+    federal institutions' electronic information or information infrastructures, in the case of an authorization to be issued under subsection `27`(1), or
 
-    electronic information or information infrastructures designated under subsection `22`(1) as being of importance to the Government of Canada, in the case of an authorization to be issued under subsection `28`(2).
+    electronic information or information infrastructures designated under subsection `21`(1) as being of importance to the Government of Canada, in the case of an authorization to be issued under subsection `27`(2).
 
-  **(4)** The Minister may issue an authorization under subsection `30`(1) or `31`(1) only if he or she concludes that there are reasonable grounds to believe — in addition to the matters referred to in subsection (1) — that the objective of the cyber operation could not reasonably be achieved by other means and that no information will be acquired under the authorization except in accordance with an authorization issued under subsection `27`(1) or `28`(1) or (2) or `41`(1).
+  **(4)** The Minister may issue an authorization under subsection `29`(1) or `30`(1) only if he or she concludes that there are reasonable grounds to believe — in addition to the matters referred to in subsection (1) — that the objective of the cyber operation could not reasonably be achieved by other means and that no information will be acquired under the authorization except in accordance with an authorization issued under subsection `26`(1) or `27`(1) or (2) or `40`(1).
 
-### Section 36
+### Section 35
 
-An authorization issued under subsection `27`(1), `28`(1) or (2), `30`(1) or `31`(1) must specify
+An authorization issued under subsection `26`(1), `27`(1) or (2), `29`(1) or `30`(1) must specify
 
 the activities or classes of activities that it authorizes the Establishment to carry out;
 
@@ -2391,9 +2373,9 @@ the persons or classes of persons who are authorized to carry out the activities
 
 any terms, conditions or restrictions that the Minister considers advisable in the public interest, or advisable to ensure the reasonableness and proportionality of any activity authorized by the authorization;
 
-in the case of an authorization issued under subsection `27`(1) or `28`(1) or (2), any other terms, conditions or restrictions that the Minister considers advisable to protect the privacy of Canadians and of persons in Canada, including conditions to limit the use, analysis and retention of, access to, and the form and manner of disclosure of, information related to them;
+in the case of an authorization issued under subsection `26`(1) or `27`(1) or (2), any other terms, conditions or restrictions that the Minister considers advisable to protect the privacy of Canadians and of persons in Canada, including conditions to limit the use, analysis and retention of, access to, and the form and manner of disclosure of, information related to them;
 
-in the case of an authorization issued under subsection `27`(1), whether the activities authorized include acquiring unselected information, and any terms, conditions or restrictions that the Minister considers advisable to limit the use, analysis and retention of, and access to, unselected information;
+in the case of an authorization issued under subsection `26`(1), whether the activities authorized include acquiring unselected information, and any terms, conditions or restrictions that the Minister considers advisable to limit the use, analysis and retention of, and access to, unselected information;
 
 the day on which the authorization is issued;
 
@@ -2401,11 +2383,11 @@ the day on which the authorization expires; and
 
 anything else reasonable in the circumstances and reasonably necessary in aid of any other activity, or class of activities, authorized by the authorization.
 
-### Section 37
+### Section 36
 
-  **(1)** An authorization issued under subsection `27`(1), `28`(1) or (2), `30`(1) or `31`(1) may be valid for a period not exceeding one year.
+  **(1)** An authorization issued under subsection `26`(1), `27`(1) or (2), `29`(1) or `30`(1) may be valid for a period not exceeding one year.
 
-  **(2)** The Minister may extend the period of validity of an authorization issued under subsection `27`(1) or `28`(1) or (2) by up to a period not exceeding one year from the day referred to in paragraph `36`(h).
+  **(2)** The Minister may extend the period of validity of an authorization issued under subsection `26`(1) or `27`(1) or (2) by up to a period not exceeding one year from the day referred to in paragraph `35`(h).
 
   **(3)** The Minister's decision to extend a period of validity is not subject to review by the Commissioner under the `Intelligence Commissioner Act`.
 
@@ -2414,85 +2396,85 @@ anything else reasonable in the circumstances and reasonably necessary in aid of
 
 ### Repeal and Amendment
 
+### Section 37
+
+  **(1)** If there is a significant change in any fact that was set out in the application for an authorization issued under subsection `26`(1), `27`(1) or (2), `29`(1) or `30`(1), the Chief must notify the Minister of the change as soon as feasible.
+
+  **(2)** If the Minister concludes that the change in the fact is significant and the authorization was issued under subsection `26`(1) or `27`(1) or (2), the Minister must notify the Commissioner of his or her conclusion.
+
+  **(3)** If the Minister concludes that the change in the fact is significant and the authorization was issued under subsection `29`(1) or `30`(1), the Minister must notify the Review Agency of his or her conclusion.
+
 ### Section 38
 
-  **(1)** If there is a significant change in any fact that was set out in the application for an authorization issued under subsection `27`(1), `28`(1) or (2), `30`(1) or `31`(1), the Chief must notify the Minister of the change as soon as feasible.
-
-  **(2)** If the Minister concludes that the change in the fact is significant and the authorization was issued under subsection `27`(1) or `28`(1) or (2), the Minister must notify the Commissioner of his or her conclusion.
-
-  **(3)** If the Minister concludes that the change in the fact is significant and the authorization was issued under subsection `30`(1) or `31`(1), the Minister must notify the Review Agency of his or her conclusion.
+The Minister may repeal an authorization issued under subsection `26`(1), `27`(1) or (2), `29`(1) or `30`(1) at any time.
 
 ### Section 39
 
-The Minister may repeal an authorization issued under subsection `27`(1), `28`(1) or (2), `30`(1) or `31`(1) at any time.
-
-### Section 40
-
-  **(1)** The Minister may amend an authorization issued under subsection `27`(1), `28`(1) or (2), `30`(1) or `31`(1) if the Minister concludes that there has been a significant change in any fact that was set out in the application for the authorization.
+  **(1)** The Minister may amend an authorization issued under subsection `26`(1), `27`(1) or (2), `29`(1) or `30`(1) if the Minister concludes that there has been a significant change in any fact that was set out in the application for the authorization.
 
   **(2)** The Minister may amend an authorization only if he or she concludes that there are reasonable grounds to believe that, taking into account the significant change,
 
-    the conditions referred to in subsections `35`(1) and (2) are met, in the case of an authorization issued under subsection `27`(1);
+    the conditions referred to in subsections `34`(1) and (2) are met, in the case of an authorization issued under subsection `26`(1);
 
-    the conditions referred to in subsections `35`(1) and (3) are met, in the case of an authorization issued under subsection `28`(1) or (2); or
+    the conditions referred to in subsections `34`(1) and (3) are met, in the case of an authorization issued under subsection `27`(1) or (2); or
 
-    the conditions referred to in subsections `35`(1) and (4) are met, in the case of an authorization issued under subsection `30`(1) or `31`(1).
+    the conditions referred to in subsections `34`(1) and (4) are met, in the case of an authorization issued under subsection `29`(1) or `30`(1).
 
-  **(3)** An amended authorization issued under subsection `27`(1) or `28`(1) or (2) continues to be valid in its unamended form until — if the amendment is approved by the Commissioner under paragraph 21(1)(a) of the `Intelligence Commissioner Act` — the Commissioner provides the Minister with the written decision approving the amendment.
+  **(3)** An amended authorization issued under subsection `26`(1) or `27`(1) or (2) continues to be valid in its unamended form until — if the amendment is approved by the Commissioner under paragraph 20(1)(a) of the `Intelligence Commissioner Act` — the Commissioner provides the Minister with the written decision approving the amendment.
 
-  **(4)** For greater certainty, an activity that is specified in an amended authorization issued under subsection `27`(1) or `28`(1) or (2) in respect of which the Commissioner has provided the Minister with the written decision approving the amendment is authorized only to the extent that it is carried out in accordance with the authorization as amended.
+  **(4)** For greater certainty, an activity that is specified in an amended authorization issued under subsection `26`(1) or `27`(1) or (2) in respect of which the Commissioner has provided the Minister with the written decision approving the amendment is authorized only to the extent that it is carried out in accordance with the authorization as amended.
 
-  **(5)** For greater certainty, an activity that is specified in an amended authorization issued under subsection `30`(1) or `31`(1) is authorized only to the extent that it is carried out in accordance with the authorization as amended.
+  **(5)** For greater certainty, an activity that is specified in an amended authorization issued under subsection `29`(1) or `30`(1) is authorized only to the extent that it is carried out in accordance with the authorization as amended.
 
 
 ### Emergency Authorizations
 
-### Section 41
+### Section 40
 
-  **(1)** If the Minister concludes that there are reasonable grounds to believe that the conditions referred to in subsections `35`(1) and (2) or `35`(1) and (3) are met but that the time required to obtain the Commissioner's approval would defeat the purpose of issuing an authorization under subsection `27`(1) or `28`(1) or (2), as the case may be, the Minister may issue a Foreign Intelligence Authorization that authorizes the Establishment to carry out any activity referred to in section `27`, or a Cybersecurity Authorization that authorizes the Establishment to carry out any activity referred to in subsection `28`(1) or (2).
+  **(1)** If the Minister concludes that there are reasonable grounds to believe that the conditions referred to in subsections `34`(1) and (2) or `34`(1) and (3) are met but that the time required to obtain the Commissioner's approval would defeat the purpose of issuing an authorization under subsection `26`(1) or `27`(1) or (2), as the case may be, the Minister may issue a Foreign Intelligence Authorization that authorizes the Establishment to carry out any activity referred to in section `26`, or a Cybersecurity Authorization that authorizes the Establishment to carry out any activity referred to in subsection `27`(1) or (2).
 
   **(2)** The Minister's decision to issue the authorization is not subject to review by the Commissioner under the `Intelligence Commissioner Act`.
 
-  **(3)** Subsections `34`(1) to (3) apply to an application for an authorization issued under subsection (1), except that
+  **(3)** Subsections `33`(1) to (3) apply to an application for an authorization issued under subsection (1), except that
 
     the application may be made orally; and
 
-    the application must set out the facts that would allow the Minister to conclude that there are reasonable grounds to believe that the time required to obtain the Commissioner's approval would defeat the purpose of issuing an authorization under subsection `27`(1) or `28`(1) or (2).
+    the application must set out the facts that would allow the Minister to conclude that there are reasonable grounds to believe that the time required to obtain the Commissioner's approval would defeat the purpose of issuing an authorization under subsection `26`(1) or `27`(1) or (2).
 
-  **(4)** For greater certainty, even if an application is made orally for an authorization that authorizes the Establishment to carry out any activity referred to in subsection `28`(2), the request of the owner or operator of the information infrastructure to the Establishment to carry out the activity must be in writing.
+  **(4)** For greater certainty, even if an application is made orally for an authorization that authorizes the Establishment to carry out any activity referred to in subsection `27`(2), the request of the owner or operator of the information infrastructure to the Establishment to carry out the activity must be in writing.
+
+### Section 41
+
+The Minister must notify the Commissioner and the Review Agency of any authorization issued under subsection `40`(1) as soon as feasible after issuing it.
 
 ### Section 42
 
-The Minister must notify the Commissioner and the Review Agency of any authorization issued under subsection `41`(1) as soon as feasible after issuing it.
-
-### Section 43
-
-An authorization issued under subsection `41`(1) may be valid for a period not exceeding five days.
+An authorization issued under subsection `40`(1) may be valid for a period not exceeding five days.
 
 
 ### Disclosure of Information
 
+### Section 43
+
+The Establishment may disclose, to persons or classes of persons designated under section `45`, information that could be used to identify a Canadian or a person in Canada and that has been used, analysed or retained under an authorization issued under subsection 26(1) or 40(1), if the Establishment concludes that the disclosure is essential to international affairs, defence, security or cybersecurity.
+
 ### Section 44
 
-The Establishment may disclose, to persons or classes of persons designated under section `46`, information that could be used to identify a Canadian or a person in Canada and that has been used, analysed or retained under an authorization issued under subsection 27(1) **or 41(1)**, if the Establishment concludes that the disclosure is essential to international affairs, defence, security or cybersecurity.
-
-### Section 45
-
-  **(1)** The Establishment may disclose, to persons or classes of persons designated under section 46, information **relating to a Canadian or a person in Canada** that has been acquired, used or analysed in the course of activities carried out under the cybersecurity and information assurance aspect of its mandate, if the Establishment concludes that the disclosure is necessary to help protect
+  **(1)** The Establishment may disclose, to persons or classes of persons designated under section 45, information relating to a Canadian or a person in Canada that has been acquired, used or analysed in the course of activities carried out under the cybersecurity and information assurance aspect of its mandate, if the Establishment concludes that the disclosure is necessary to help protect
 
     federal institutions' electronic information and information infrastructures; or
 
-    electronic information and information infrastructures designated under subsection `22`(1) as being of importance to the Government of Canada.
+    electronic information and information infrastructures designated under subsection `21`(1) as being of importance to the Government of Canada.
 
   **(2)** Information disclosed under subsection (1) may include an intercepted private communication as well as the existence of an intercepted private communication.
 
   **(3)** In subsection (2), **private communication** has the same meaning as in section 183 of the `Criminal Code`.
 
+### Section 45
+
+The Minister may, by order, designate persons and classes of persons for the purposes of section `43` and subsection `44`(1).
+
 ### Section 46
-
-The Minister may, by order, designate persons and classes of persons for the purposes of section `44` and subsection `45`(1).
-
-### Section 47
 
   **(1)** The Establishment may use and analyse information relating to a Canadian or a person in Canada if it has reasonable grounds to believe that there is an imminent danger of death or serious bodily harm to any individual and that the information will be relevant to the imminent danger.
 
@@ -2503,48 +2485,48 @@ The Minister may, by order, designate persons and classes of persons for the pur
 
 ### General Rules About Authorizations
 
+### Section 47
+
+The Minister must personally exercise the powers that are set out in subsections `26`(1), `27`(1) and (2), `29`(1), `30`(1), `36`(2), 39(1) and `40`(1).
+
 ### Section 48
 
-The Minister must personally exercise the powers that are set out in subsections `27`(1), `28`(1) and (2), `30`(1), `31`(1), `37`(2), 40(1) and `41`(1).
+  **(1)** The Minister must provide a copy of each authorization issued under subsection `26`(1) or `27`(1) or (2), or amended under subsection `39`(1), to the Commissioner after issuing it or amending it, as the case may be, for the purposes of the Commissioner's review and approval under the `Intelligence Commissioner Act`.
+
+  **(2)** The copy of the authorization constitutes notice of the authorization or amendment for the purposes of the calculation of the time limit referred to in paragraph 20(3)(b) of that Act.
 
 ### Section 49
 
-  **(1)** The Minister must provide a copy of each authorization issued under subsection `27`(1) or `28`(1) or (2), or amended under subsection `40`(1), to the Commissioner after issuing it or amending it, as the case may be, for the purposes of the Commissioner's review and approval under the `Intelligence Commissioner Act`.
-
-  **(2)** The copy of the authorization constitutes notice of the authorization or amendment for the purposes of the calculation of the time limit referred to in paragraph 21(3)(b) of that Act.
+No person who acts in accordance with an authorization issued under subsection `26`(1), `27`(1) or (2), `29`(1), `30`(1) or `40`(1) or who aids, in good faith, a person who they believe on reasonable grounds is acting in accordance with such an authorization incurs any criminal or civil liability for anything reasonably done further to the authorization.
 
 ### Section 50
 
-No person who acts in accordance with an authorization issued under subsection `27`(1), `28`(1) or (2), `30`(1), `31`(1) or `41`(1) or who aids, in good faith, a person who they believe on reasonable grounds is acting in accordance with such an authorization incurs any criminal or civil liability for anything reasonably done further to the authorization.
+Part VI of the `Criminal Code` does not apply in relation to an interception of a communication under the authority of an authorization issued under subsection `26`(1), `27`(1) or (2), `29`(1), `30`(1) or `40`(1) or in relation to a communication so intercepted.
 
 ### Section 51
 
-Part VI of the `Criminal Code` does not apply in relation to an interception of a communication under the authority of an authorization issued under subsection `27`(1), `28`(1) or (2), `30`(1), `31`(1) or `41`(1) or in relation to a communication so intercepted.
-
-### Section 52
-
 No action lies under section 18 of the `Crown Liability and Proceedings Act` in respect of
 
-the use or disclosure under this Act of any communication intercepted under the authority of an authorization issued under subsection `27`(1), `28`(1) or (2), `30`(1), `31`(1) or `41`(1); or
+the use or disclosure under this Act of any communication intercepted under the authority of an authorization issued under subsection `26`(1), `27`(1) or (2), `29`(1), `30`(1) or `40`(1); or
 
 the disclosure under this Act of the existence of such a communication.
 
+### Section 52
+
+  **(1)** Within 90 days after the last day of the period of validity of an authorization issued under subsection `26`(1), `27`(1) or (2), `29`(1), `30`(1) or `40`(1), the Chief must provide a written report to the Minister on the outcome of the activities carried out under the authorization.
+
+  **(2)** The Minister must provide the Commissioner and the Review Agency with a copy of a report on the outcome of the activities carried out under an authorization issued under subsection `26`(1), `27`(1) or (2) or `40`(1).
+
+  **(3)** The Minister must provide the Review Agency with a copy of a report on the outcome of the activities carried out under an authorization issued under subsection `29`(1) or `30`(1).
+
 ### Section 53
 
-  **(1)** Within 90 days after the last day of the period of validity of an authorization issued under subsection `27`(1), `28`(1) or (2), `30`(1), `31`(1) or `41`(1), the Chief must provide a written report to the Minister on the outcome of the activities carried out under the authorization.
-
-  **(2)** The Minister must provide the Commissioner and the Review Agency with a copy of a report on the outcome of the activities carried out under an authorization issued under subsection `27`(1), `28`(1) or (2) or `41`(1).
-
-  **(3)** The Minister must provide the Review Agency with a copy of a report on the outcome of the activities carried out under an authorization issued under subsection `30`(1) or `31`(1).
-
-### Section 54
-
-Authorizations issued under subsection `27`(1), `28`(1) or (2), `30`(1), `31`(1) or `41`(1) and orders made under section `46` are not statutory instruments within the meaning of the `Statutory Instruments Act`.
+Authorizations issued under subsection `26`(1), `27`(1) or (2), `29`(1), `30`(1) or `40`(1) and orders made under section `45` are not statutory instruments within the meaning of the `Statutory Instruments Act`.
 
 
 ## Arrangements
 
-### Section 55
+### Section 54
 
   **(1)** The Establishment may enter into arrangements with entities that have powers and duties similar to the Establishment's — including entities that are institutions of foreign states or that are international organizations of states or institutions of those organizations — for the purposes of the furtherance of its mandate, including for the purposes of sharing information with them or otherwise cooperating with them.
 
@@ -2553,7 +2535,7 @@ Authorizations issued under subsection `27`(1), `28`(1) or (2), `30`(1), `31`(1)
 
 ## General
 
-### Section 56
+### Section 55
 
   **(1)** It is prohibited, in a proceeding before a court, person or body with jurisdiction to compel the production of information, to disclose the identity of a person or entity that has assisted or is assisting the Establishment on a confidential basis, or any information from which the identity of such a person or entity could be inferred.
 
@@ -2591,7 +2573,7 @@ Authorizations issued under subsection `27`(1), `28`(1) or (2), `30`(1), `31`(1)
 
   **(11)** In this section, **judge** means the Chief Justice of the Federal Court or a judge of that Court designated by the Chief Justice to conduct hearings under any Act of Parliament for the protection of information.
 
-### Section 57
+### Section 56
 
 The provision of assistance or the disclosure of information by the Establishment under this Act does not create a presumption
 
@@ -2599,30 +2581,30 @@ that the Establishment is conducting a joint investigation or decision-making pr
 
 there has been a waiver of any privilege, or of any requirement to obtain consent, for the purposes of any other disclosure of that information either in a proceeding or to an entity that is not a federal institution.
 
-### Section 58
+### Section 57
 
 For the purposes of the `Access to Information Act`, if any record, as defined in section 3 of that Act, of any other government institution, as defined in that section, or of any other organization is contained in or carried on the Establishment's information infrastructure on behalf of that institution or organization, the record is not under the Establishment's control.
 
-### Section 59
+### Section 58
 
 For the purposes of the `Privacy Act`, if any personal information, as defined in section 3 of that Act, of any other government institution, as defined in that section, or of any other organization is contained in or carried on the Establishment's information infrastructure on behalf of that institution or organization, the personal information is not held by the Establishment and is not under the Establishment's control.
 
-### Section 60
+### Section 59
 
 The Establishment must, within three months after the end of each fiscal year, publish an annual report on its activities during that fiscal year.
 
 
 ## Regulations
 
-### Section 61
+### Section 60
 
 The Governor in Council may, on the recommendation of the Minister, make regulations for carrying out the purposes and provisions of this Act, including regulations
 
 respecting the management and control of the Establishment, including security on and around the Establishment's premises, access to its premises, the search of persons on or around its premises and the search and seizure of items on or around its premises;
 
-respecting the measures referred to in section `25` to protect the privacy of Canadians and of persons in Canada; and
+respecting the measures referred to in section `24` to protect the privacy of Canadians and of persons in Canada; and
 
-amending the definition of any term defined in section `2` or subsection `24`(5) or `45`(3) to respond, directly or indirectly, to any technological change.
+amending the definition of any term defined in section `2` or subsection `23`(5) or `44`(3) to respond, directly or indirectly, to any technological change.
 
 
 ### Transitional Provisions
@@ -2728,7 +2710,7 @@ Schedule I to the Act is amended by adding, in alphabetical order, the following
 
 Paragraph 55(3)(f) of the `Proceeds of Crime (Money Laundering) and Terrorist Financing Act` is replaced by the following:
 
-the Communications Security Establishment, if the Centre also determines that the information is relevant to the foreign intelligence aspect of the Communications Security Establishment's mandate, referred to in section 17 of the `Communications Security Establishment Act`; and
+the Communications Security Establishment, if the Centre also determines that the information is relevant to the foreign intelligence aspect of the Communications Security Establishment's mandate, referred to in section 16 of the `Communications Security Establishment Act`; and
 
 
 #### `Security of Canada Information Disclosure Act`
@@ -3026,7 +3008,7 @@ Sections 11.01 to 11.25 apply to every dataset that contains personal informatio
 
 ### Section 11.16
 
-  **(1)** The Minister may designate a person, **including the Director or an employee**, for the purpose of section 11.17.
+  **(1)** The Minister may designate a person, including the Director or an employee, for the purpose of section 11.17.
 
   **(2)** At any given time, only one designated person may give an authorization under subsection 11.17(1).
 
@@ -3118,7 +3100,7 @@ The Minister or the designated person shall notify the Commissioner of the Minis
 
     a description of the dataset to be queried; and
 
-    the grounds on which the Director concludes that the query **is likely to** produce the intelligence referred to in subparagraph (1)(b)(i) or (ii).
+    the grounds on which the Director concludes that the query is likely to produce the intelligence referred to in subparagraph (1)(b)(i) or (ii).
 
   **(2.1)** The Service may retain the results of a query of a dataset performed under subsection (1) if
 
@@ -3415,7 +3397,7 @@ The Act is amended by adding the following after section 20:
 
         interrupting or redirecting, directly or indirectly, any financial transaction that involves currency or a monetary instrument;
 
-        interfering with the movement of any person, **excluding the detention of an individual**; and
+        interfering with the movement of any person, excluding the detention of an individual; and
 
         personating a person, other than a police officer, in order to take a measure referred to in any of paragraphs (a) to (f).
 
@@ -3451,7 +3433,7 @@ Section 27 of the Act is replaced by the following:
 
 ### Section 27
 
-An application for a judicial authorization under section **11.13**, an application under section 21, 21.1 or 23 for a warrant, an application under section 22 or 22.1 for the renewal of a warrant or an application for an order under section 22.3 shall be heard in private in accordance with regulations made under section 28.
+An application for a judicial authorization under section 11.13, an application under section 21, 21.1 or 23 for a warrant, an application under section 22 or 22.1 for the renewal of a warrant or an application for an order under section 22.3 shall be heard in private in accordance with regulations made under section 28.
 
 ### Section 27.1
 
@@ -3616,7 +3598,7 @@ Sections 5 and 6 of the Act are replaced by the following:
 
 ### Section 6
 
-Nothing in section 5 **or 5.1** is to be construed as authorizing the collection or use of any information that is disclosed under section **5**.
+Nothing in section 5 or 5.1 is to be construed as authorizing the collection or use of any information that is disclosed under section 5.
 
 ### Section 118.1
 
@@ -3635,7 +3617,7 @@ For greater certainty, for the purpose of paragraph 8(2)(b) of the `Privacy Act`
 
 ### Section 9
 
-      ****(1)**** Every Government of Canada institution that discloses information under this Act must prepare and keep records that set out
+      **(1)** Every Government of Canada institution that discloses information under this Act must prepare and keep records that set out
 
         a description of the information;
 
@@ -3669,17 +3651,17 @@ For greater certainty, for the purpose of paragraph 8(2)(b) of the `Privacy Act`
 
 ### Section 2
 
-Section 9 of the Act is amended by adding the following **after subsection (2)**:
+Section 9 of the Act is amended by adding the following after subsection (2):
 
-****(3)**** Within 30 days after the end of each calendar year, **every** Government of Canada institution **that disclosed information under section 5** during the year **and every Government of Canada institution that received such information** must provide the National Security and Intelligence Review Agency with a copy of every record it prepared under subsection (1) **or (2), as the case may be**, with respect to the **information**.
+**(3)** Within 30 days after the end of each calendar year, every Government of Canada institution that disclosed information under section 5 during the year and every Government of Canada institution that received such information must provide the National Security and Intelligence Review Agency with a copy of every record it prepared under subsection (1) or (2), as the case may be, with respect to the information.
 
 ### Section 120
 
   **(1)** Paragraphs 10(1)(b) and (c) of the Act are replaced by the following:
 
-    specifying information for the purposes of paragraph 9(1)(f) **or (2)(f)**; and
+    specifying information for the purposes of paragraph 9(1)(f) or (2)(f); and
 
-    respecting the manner in which records that are required by subsection 9(1) **or (2)** are to be prepared and kept and specifying the period during which they are to be kept.
+    respecting the manner in which records that are required by subsection 9(1) or (2) are to be prepared and kept and specifying the period during which they are to be kept.
 
   **(2)** Subsection 10(3) of the Act is replaced by the following:
 
@@ -3722,7 +3704,7 @@ is disclosed in accordance with the `Security of Canada Information Disclosure A
 
 The portion of subsection 241(9) of the `Income Tax Act` before paragraph (a) is replaced by the following:
 
-**(9)** An official may provide to the head of a recipient Government of Canada institution listed in Schedule 3 to the `Security of Canada Information Disclosure Act,`or to an official designated for the purposes of that Act by the head of that recipient institution,
+**(9)** An official may provide to the head of a recipient Government of Canada institution listed in Schedule 3 to the `Security of Canada Information Disclosure Act`, or to an official designated for the purposes of that Act by the head of that recipient institution,
 
 
 #### `Chemical Weapons Convention Implementation Act`
@@ -3965,9 +3947,9 @@ with respect to proceedings under section 83.13, 83.14, 83.222, 83.223 or 83.3, 
 
       delete from the list any other name by which a listed entity may also have been known, if the entity is no longer using that name.
 
-    **(2)** On application in writing by a listed entity to be removed from the list, the Minister shall decide whether **the applicant should** remain a listed entity **or whether the Minister should** recommend to the Governor in Council that the applicant **be removed from the list, taking into account the** grounds set out in subsection (1).
+    **(2)** On application in writing by a listed entity to be removed from the list, the Minister shall decide whether the applicant should remain a listed entity or whether the Minister should recommend to the Governor in Council that the applicant be removed from the list, taking into account the grounds set out in subsection (1).
 
-    **(3)** If the Minister does not make a decision on the application referred to in subsection (2) within 90 days after receipt of the application, or within any longer period that may be agreed to in writing by the Minister and the applicant, the Minister is deemed to have decided that the applicant **should** remain a listed entity.
+    **(3)** If the Minister does not make a decision on the application referred to in subsection (2) within 90 days after receipt of the application, or within any longer period that may be agreed to in writing by the Minister and the applicant, the Minister is deemed to have decided that the applicant should remain a listed entity.
 
   **(3)** Paragraph 83.05(6)(a) of the Act is replaced by the following:
 
@@ -3993,7 +3975,7 @@ with respect to proceedings under section 83.13, 83.14, 83.222, 83.223 or 83.3, 
 
     **(9)** Reviews undertaken under subsection (8.1) do not affect the validity of the list.
 
-    **(10)** The Minister shall cause notice of the results of every review of a listed entity undertaken under subsection (8.1) to be published in the `Canada Gazette`within five years after the review is completed.
+    **(10)** The Minister shall cause notice of the results of every review of a listed entity undertaken under subsection (8.1) to be published in the `Canada Gazette` within five years after the review is completed.
 
 ### Section 142
 
@@ -4011,9 +3993,9 @@ Section 83.221 of the Act is replaced by the following:
 
 ### Section 83.221
 
-  **(1)** Every person who counsels another person to commit a terrorism offence **without identifying a specific terrorism** offence is guilty of an indictable offence and is liable to imprisonment for a term of not more than five years.
+  **(1)** Every person who counsels another person to commit a terrorism offence without identifying a specific terrorism offence is guilty of an indictable offence and is liable to imprisonment for a term of not more than five years.
 
-  **(2)** An offence may be committed under subsection (1) whether or not a terrorism offence is committed **by** the person **who is counselled**.
+  **(2)** An offence may be committed under subsection (1) whether or not a terrorism offence is committed by the person who is counselled.
 
 ### Section 144
 
@@ -4218,7 +4200,9 @@ The heading before section 33 of the Act is replaced by the following:
 
 ### Section 168
 
-  **(1)** During the sixth year after this section comes into force, a comprehensive review of the provisions and operation of this Act must be undertaken by the committee of the Senate, of the House of Commons or of both Houses of Parliament, that is designated or established for that purpose.
+  **(1)** During the fourth year after this section comes into force, a comprehensive review of the provisions and operation of this Act must be undertaken by the committee of the Senate, of the House of Commons or of both Houses of Parliament, that is designated or established for that purpose.
+
+  **(1.1)** The comprehensive review referred to in subsection (1) must include an assessment of the effect of this Act on the operations of the Canadian Security Intelligence Service, the Royal Canadian Mounted Police and the Communications Security Establishment that relate to national security, information sharing, and the interaction of those organizations with the National Security and Intelligence Review Agency, the Intelligence Commissioner and the National Security and Intelligence Committee of Parliamentarians.
 
   **(2)** The committee must, within one year after the review is undertaken — or within any further period that the Senate, the House of Commons or both Houses of Parliament, as the case may be, authorizes — submit a report on the review to the appropriate House or, in the case of a committee of both Houses, to each House, that includes a statement of any changes that the committee recommends.
 
