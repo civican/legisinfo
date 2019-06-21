@@ -65,7 +65,7 @@ Section 2.1 of the Act becomes subsection 2.1(1) and is amended by adding the fo
 
     **(4.1)** The person referred to in subsection (3.1) has the onus of satisfying the Board that the person has been convicted only of an offence referred to in that subsection.
 
-    **4.11** For the purpose of an application referred to in subsection (3.1), the Board may not require a person who makes the application to provide a certified copy of information contained in court records in support of the application unless the certified verification of the applicant's criminal records and information contained in the police records or Canadian Armed Forces records provided in support of the application are not sufficient to demonstrate that the person has been convicted only of an offence referred to in Schedule 3 and that the only sentence imposed for that offence was payment of a fine or victim surcharge or both.
+    **(4.11)** For the purpose of an application referred to in subsection (3.1), the Board may not require a person who makes the application to provide a certified copy of information contained in court records in support of the application unless the certified verification of the applicant's criminal records and information contained in the police records or Canadian Armed Forces records provided in support of the application are not sufficient to demonstrate that the person has been convicted only of an offence referred to in Schedule 3 and that the only sentence imposed for that offence was payment of a fine or victim surcharge or both.
 
     **(4.12)** For the purpose of subsection  (3.11), a person referred to in that subsection has the onus of satisfying the Board that the person has been convicted of an offence referred to in Schedule 3.
 
