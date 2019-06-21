@@ -65,7 +65,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
   **(7)** The definitions **autochtone** and **pêche** in subsection 2(1) of the French version of the Act are replaced by the following:
 
-    **autochtone** Se dit, à l'égard de la pêche pratiquée par une organisation autochtone ou ses membres, de celle pratiquée à des fins de consommation personnelle, à des fins sociales ou cérémoniales ou à des fins prévues dans un accord sur des revendications territoriales conclu avec l'organisation autochtone. (**Indigenous**)
+    **autochtone** Se dit, à l'égard de la pêche pratiquée par une organisation autochtone ou ses membres, de celle pratiquée à des fins de consommation personnelle, à des fins sociales ou cérémoniales ou à des fins prévues dans un accord sur des revendications territoriales conclu avec une organisation autochtone ou ses membres, conformément à la reconnaissance et à la confirmation des droits des peuples autochtones et des droits issus de traités au titre de l'article 35 de la `Loi constitutionnelle de 1982` ou à des fins prévues dans toute mesure de mise en œuvre des droits convenue entre la Couronne et les peuples autochtones. (**Indigenous**)
 
     **pêche** S'entend de l'action de capturer ou de tenter de capturer du poisson par tout moyen et, en outre, notamment des espèces, populations, assemblages et stocks de poissons pêchés ou non, du lieu ou de la période où il est permis de pêcher ou de la méthode ou des types d'engins, d'équipements ou de bateaux de pêche utilisés. (**fishery** et **fishing**)
 
@@ -79,11 +79,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
   **(9)** Subsection 2(1) of the English version of the Act is amended by adding the following in alphabetical order:
 
-    **Indigenous**, in relation to a fishery, means that fish is harvested by an Indigenous organization or any of its members for the purpose of using the fish as food, for social or ceremonial purposes or for purposes set out in a land claims agreement entered into with the Indigenous organization; (**autochtone**)
+    **Indigenous**, in relation to a fishery, means that fish is harvested by an Indigenous organization or any of its members pursuant to the recognition and affirmation of Aboriginal and treaty rights in section 35 of the `Constitution Act, 1982` or for any purposes set out in any rights implementation measure as agreed to by the Crown and Indigenous peoples; (**autochtone**)
 
-  **(10)** Subsection 2(2) of the Act is replaced by the following:
-
-    **(2)** For the purposes of this Act, the quantity, timing and quality of the water flow that are necessary to sustain the freshwater or estuarine ecosystems of a fish habitat are deemed to be a fish habitat.
+  **(10)** Subsection 2(2) of the Act is repealed.
 
 ### Section 2
 
@@ -122,7 +120,7 @@ the conservation and protection of fish and fish habitat, including by preventin
 
 ### Section 2.3
 
-For greater certainty, nothing in this Act is to be construed as abrogating or derogating from the protection provided for the rights of the Indigenous peoples of Canada by the recognition and affirmation of those rights in section 35 of the `Constitution Act, 1982`.
+This Act is to be construed as upholding the rights of Indigenous peoples recognized and affirmed by section 35 of the `Constitution Act, 1982`, and not as abrogating or derogating from them.
 
 ### Section 2.4
 
@@ -192,6 +190,8 @@ The Act is amended by adding the following after section 4:
 
     **(8)** The Minister shall publish any final agreement, or give notice of its availability, in Part I of the `Canada Gazette` and in any other manner that he or she considers appropriate.
 
+    **(9)** An agreement entered into under subsection (1) must respect the rights recognized and affirmed by section 35 of the `Constitution Act, 1982`.
+
 ### Section 6
 
 Subsections 4.2(1) to (4) of the Act are replaced by the following:
@@ -227,21 +227,21 @@ Section 6.1 of the Act is replaced by the following:
 
 ### Section 6.1
 
-  **(1)** In the management of fisheries, the Minister shall implement measures to maintain prescribed major fish stocks at or above the level necessary to promote the sustainability of the stock, taking into account the biol­ogy of the fish and the environmental conditions affecting the stock.
+  **(1)** In the management of fisheries, the Minister shall implement measures to maintain major fish stocks at or above the level necessary to promote the sustainability of the stock, taking into account the biol­ogy of the fish and the environmental conditions affecting the stock.
 
-  **(2)** If the Minister is of the opinion that it is not feasible or appropriate, for cultural reasons or because of adverse socio-economic impacts, to implement the measures referred to in subsection (1), the Minister shall set a limit reference point and implement measures to maintain the fish stock at or above that point, taking into account the biology of the fish and the environmental conditions affecting the stock.
+  **(2)** If the Minister is of the opinion that it is not feasible or appropriate, for cultural reasons or because of adverse socio-economic impacts, to implement the measures referred to in subsection (1), the Minister shall set a limit reference point and implement measures to maintain the fish stock above that point, taking into account the biol­ogy of the fish and the environmental conditions affecting the stock.
 
   **(3)** If the Minister sets a limit reference point in accordance with subsection (2), he or she shall publish the decision to do so, within a reasonable time and with reasons, on the Internet site of the Department of Fisheries and Oceans.
 
 ### Section 6.2
 
-  **(1)** If a prescribed major fish stock has declined to or below its limit reference point, the Minister shall develop a plan to rebuild the stock to or above that point in the affected area, taking into account the biology of the fish and the environmental conditions affecting the stock, and implement it within the period provided for in the plan.
+  **(1)** If a major fish stock has declined to or below its limit reference point, the Minister shall develop a plan to rebuild the stock above that point in the affected area, taking into account the biology of the fish and the en­vironmental conditions affecting the stock, and implement it within the period provided for in the plan.
 
   **(2)** If the Minister is of the opinion that such a plan could result in adverse socio-economic or cultural impacts, the Minister may amend the plan or the implementation period in order to mitigate those impacts while minimizing further decline of the fish stock.
 
   **(3)** Subsection (1) does not apply if the affected fish stock is an endangered species or a threatened species under the `Species at Risk Act` or if the implementation of international management measures by Canada does not permit it.
 
-  **(4)** If the Minister amends a plan in accordance with subsection (2) or decides not to make one in accordance with subsection (3), he or she shall publish the decision to do so, with reasons, on the Internet site of the Department of Fisheries and Oceans.
+  **(4)** If the Minister amends a plan in accordance with subsection (2) or decides not to make one in accordance with subsection (3), he or she shall publish the decision to do so, within a reasonable time and with reasons, on the Internet site of the Department of Fisheries and Oceans.
 
   **(5)** In the management of fisheries, if the Minister is of the opinion that the loss or degradation of the stock's fish habitat has contributed to the stock's decline, he or she shall take into account whether there are measures in place aimed at restoring that fish habitat.
 
@@ -404,6 +404,18 @@ Section 24 of the Act is replaced by the following:
 
   **(2)** The Minister may, subject to any conditions that he or she may specify, authorize a person to fish for a cetacean with the intent to take it into captivity if he or she is of the opinion that the circumstances so require, including when the cetacean is injured or in distress or is in need of care.
 
+### Section 23.2
+
+  **(1)** No person shall import into Canada or export from Canada, or attempt to import or export, a living cetacean or sperm, an egg or an embryo of a cetacean, except in accordance with a permit issued under subsection (2).
+
+  **(2)** The Minister may issue a permit authorizing the importation or exportation of a living cetacean or sperm, an egg or an embryo of a cetacean and impose any conditions that the Minister considers appropriate in the permit, if the importation or exportation is for the purpose of
+
+    conducting scientific research; or
+
+    keeping the cetacean in captivity if it is in the best interests of the cetacean's welfare to do so.
+
+  **(3)** The Minister may amend, suspend or cancel a permit issued under subsection (2).
+
 ### Section 24
 
 Seines, nets or other fishing apparatus shall not be set or used in such a manner or in such a place that they or any equipment that is attached to any of them obstructs the navigation of boats and vessels and no boats or vessels shall destroy or wantonly injure in any way seines, nets or other fishing apparatus lawfully set or used or any equipment that is attached to any of them.
@@ -433,6 +445,28 @@ Section 28 of the Act is repealed.
   **(2)** Subsection 29(2) of the Act is replaced by the following:
 
     **(2)** The Minister or a fishery officer may order the removal of or remove any seine, net, weir or other fishing gear or apparatus, or any log, rock or material of any kind that, in the opinion of the Minister or fishery officer, results in an obstruction referred to in paragraph (1)(a) or (b).
+
+### Section 18.1
+
+The Act is amended by adding the following after section 31:
+
+### Section 32
+
+  **(1)** No person shall engage in the practice of shark finning.
+
+  **(2)** In this section, **shark finning** means the practice of removing the fins from a shark and discarding the remainder of the shark while at sea.
+
+### Section 32.1
+
+  **(1)** No person shall import into Canada or export from Canada, or attempt to so import or export, any shark fins or parts of shark fins that are not attached to a shark carcass except in accordance with a permit issued under subsection (2).
+
+  **(2)** The Minister may issue a permit authorizing the importation or exportation into or from Canada of any shark fins or parts of shark fins that are not attached to a shark carcass and impose any conditions that the Minister considers appropriate in the permit
+
+    if the importation or exportation is for the purpose of scientific research relating to shark conservation; and
+
+    if, in the Minister's opinion, the scientific research is likely to benefit the survival of any shark species or is required to enhance the chances of survival of any shark species in the wild.
+
+  **(3)** The Minister may amend, suspend or cancel a permit issued under subsection (2).
 
 ### Section 19
 
@@ -465,7 +499,7 @@ The Act is amended by adding the following after section 34:
 
 ### Section 34.1
 
-  **(1)** Before recommending to the Governor in Council that a regulation be made in respect of section 34.4, 35 or 35.1 or under subsection 35.2(10), 36(5) or (5.1), paragraph 43(1)(b.2) or subsection 43(5) or before exercising any power under subsection 34.3(2) or (3), paragraph 34.4(2)(b) or (c), subsection 34.4(4), paragraph 35(2)(b) or (c) or subsection 35(4), 35.1(2), 35.2(7) or 36(5.2), or under subsection 37(2) with regard to an offence under subsection 40(1), the Minister, prescribed person or prescribed entity, as the case may be, shall consider the following factors:
+  **(1)** Before recommending to the Governor in Council that a regulation be made in respect of section 34.4, 35 or 35.1 or under subsection 35.2(10), 36(5) or (5.1), paragraph 43(1)(b.2) or subsection 43(5) or before exercising any power under subsection 34.3(2), (3) or (7), paragraph 34.4(2)(b) or (c), subsection 34.4(4), paragraph 35(2)(b) or (c) or subsection 35(4), 35.1(3), 35.2(7) or 36(5.2), or under subsection 37(2) with regard to an offence under subsection 40(1), the Minister, prescribed person or prescribed entity, as the case may be, shall consider the following factors:
 
     the contribution to the productivity of relevant fisheries by the fish or fish habitat that is likely to be affected;
 
@@ -523,11 +557,7 @@ The Act is amended by adding the following after section 34:
 
     maintain the flow of water necessary to permit the free passage of fish; or
 
-    maintain at all times the characteristics of the water and the water flow upstream and downstream of the obstruction or thing that are necessary for the conservation and protection of the fish and fish habitat, including
-
-    the water temperature, and
-
-    the physical characteristics and chemical composition of the water flow.
+    maintain at all times the characteristics of the water and the water flow downstream of the obstruction or thing that are sufficient for the conservation and protection of the fish and fish habitat.
 
   **(3)** On the Minister's order, the owner or person referred to in subsection (2) shall
 
@@ -571,7 +601,7 @@ The Act is amended by adding the following after section 34:
 
     the work, undertaking or activity is carried on in accordance with the regulations;
 
-    the work, undertaking or activity is carried on in accordance with a permit issued under subsection 35.1(2), in the case of a designated project; or
+    the work, undertaking or activity is carried on in accordance with a permit issued under subsection 35.1(3), in the case of a work, undertaking or activity that is part of a designated project and that is designated by the Minister under subsection 35.1(2); or
 
     the work, undertaking or activity is a prescribed work, undertaking or activity under paragraph 35.2(10)(a) or belongs to a prescribed class of works, undertakings or activities under that paragraph, as the case may be, and carried on in an ecologically significant area in accordance with an authorization issued under subsection 35.2(7).
 
@@ -603,7 +633,7 @@ The Act is amended by adding the following after section 34:
 
   **(4)** Subsection 35(2) of the Act is amended by adding the following after paragraph (e):
 
-    the work, undertaking or activity is carried on in accordance with a permit issued under subsection 35.1(2), in the case of a designated project; or
+    the work, undertaking or activity is carried on in accordance with a permit issued under subsection 35.1(3), in the case of a work, undertaking or activity that is part of a designated project and that is designated by the Minister under subsection 35.1(2); or
 
     the work, undertaking or activity is a prescribed work, undertaking or activity under paragraph 35.2(10)(a) or belongs to a prescribed class of works, undertakings or activities under that paragraph, as the case may be, and is carried on in an ecologically significant area in accordance with an authorization issued under subsection 35.2(7).
 
@@ -623,13 +653,15 @@ The Act is amended by adding the following after section 35:
 
 ### Section 35.1
 
-  **(1)** No person shall carry on any work, undertaking or activity that is part of a designated project except in accordance with a permit issued under subsection (2).
+  **(1)** The Minister may designate, as a work, undertaking or activity that is associated with a designated project, any work, undertaking or activity that the Minister considers likely to result in the death of fish or the harmful alteration, disruption or destruction of fish habitat.
 
-  **(2)** The Minister may issue a permit to carry on any work, undertaking or activity that is part of a designated project and attach any conditions to it.
+  **(2)** The Minister shall designate any work, undertaking or activity that is part of a designated project and that the Minister considers likely to result in the death of fish or the harmful alteration, disruption or destruction of fish habitat.
 
-  **(3)** The Minister may amend, suspend or cancel a permit issued under subsection (2).
+  **(3)** The Minister may issue a permit to carry on any work, undertaking or activity designated under subsection (2) and attach any conditions to it.
 
-  **(4)** The Minister may designate any work, undertaking or activity as a work, undertaking or activity that is associated with a designated project.
+  **(4)** No person shall carry on any work, undertaking or activity that is designated under subsection (2) except in accordance with a permit issued under subsection (3).
+
+  **(5)** The Minister may amend, suspend or cancel a permit issued under subsection (3).
 
 ### Section 35.2
 
@@ -787,7 +819,7 @@ Every power that may be exercised in Canada by an inspector under this Act may b
 
   **(2)** Paragraphs 40(3)(a) and (a.1) of the Act are replaced by the following:
 
-    in carrying on a work, undertaking or activity, fails to comply with a prescribed condition referred to in paragraph 34.4(2)(a) or 35(2)(a), with a condition set out in an authorization or a permit, as the case may be, issued under paragraph 34.4(2)(b) or (c) or 35(2)(b) or (c) or subsection 35.1(2) or 35.2(7), or with a condition imposed by regulations made under subsection 36(5) or (5.2),
+    in carrying on a work, undertaking or activity, fails to comply with a prescribed condition referred to in paragraph 34.4(2)(a) or 35(2)(a), with a condition set out in an authorization or a permit, as the case may be, issued under paragraph 34.4(2)(b) or (c) or 35(2)(b) or (c) or subsection 35.1(3) or 35.2(7), or with a condition imposed by regulations made under subsection 36(5) or (5.2),
 
     fails to provide any document or other information as requested by the Minister under subsection 37(1) within a reasonable time after the request is made,
 
@@ -813,7 +845,7 @@ Every power that may be exercised in Canada by an inspector under this Act may b
 
   **(6)** Subsection 40(3) of the Act is amended by striking out "or" at the end of paragraph (g) and by replacing paragraph (h) with the following:
 
-    fails to comply with a request of the Minister made under subsection 34.3(1) or an order of the Minister made under subsection 34.3(2) or (3),
+    fails to comply with a request of the Minister made under subsection 34.3(1), an order of the Minister made under subsection 34.3(2) or (3) or a provision of a regulation made under subsection 34.3(7),
 
   **(7)** Subsection 40(3) of the Act is amended by adding the following after paragraph (h):
 
@@ -821,7 +853,7 @@ Every power that may be exercised in Canada by an inspector under this Act may b
 
   **(8)** Subsection 40(3) of the Act is amended by adding the following after paragraph (i):
 
-    carries on any work, undertaking or activity that is a part of a designated project in contravention of subsection 35.1(1), or
+    carries on any work, undertaking or activity that is a part of a designated project in contravention of subsection 35.1(4), or
 
     carries on, in contravention of subsection 35.2(1), any work, undertaking or activity prescribed under paragraph 35.2(10)(a),
 
@@ -1003,9 +1035,9 @@ Despite any other Act of Parliament, civil or criminal proceedings shall not be 
 
     for the purposes of paragraphs 34.4(2)(a) and 35(2)(a), prescribing anything that is authorized to be prescribed under those paragraphs;
 
-    respecting the process relating to the issuance of the authorizations referred to in paragraph 34.4(2)(b) or (c) or 35(2)(b) or (c) or the permits referred to in subsection 35.1(2);
+    respecting the process relating to the issuance of the authorizations referred to in paragraph 34.4(2)(b) or (c) or 35(2)(b) or (c) or the permits referred to in subsection 35.1(3);
 
-    prescribing the documents or other information that are to be provided for the obtaining of the authorizations referred to in paragraph 34.4(2)(b) or (c) or 35(2)(b) or (c) or the permits referred to in subsection 35.1(2), or for the amendment, suspension or cancellation of those authorizations or permits;
+    prescribing the documents or other information that are to be provided for the obtaining of the authorizations referred to in paragraph 34.4(2)(b) or (c) or 35(2)(b) or (c) or the permits referred to in subsection 35.1(3), or for the amendment, suspension or cancellation of those authorizations or permits;
 
     prescribing persons or entities who may authorize the carrying on of works, undertakings or activities under paragraphs 34.4(2)(c) and 35(2)(c) and respecting the requirements that these persons or entities may be subject to;
 
@@ -1019,15 +1051,15 @@ Despite any other Act of Parliament, civil or criminal proceedings shall not be 
 
     shall not include in it;
 
-    respecting time limits for issuing authorizations referred to in paragraph 34.4(2)(b) or (c) or 35(2)(b) or (c) or for issuing permits under subsection 35.1(2), or for refusing to do so;
+    respecting time limits for issuing authorizations referred to in paragraph 34.4(2)(b) or (c) or 35(2)(b) or (c) or for issuing permits under subsection 35.1(3), or for refusing to do so;
 
-    for the purposes of the definition designated project in subsection 34(1), designating projects or classes of projects that may result in the death of fish or the harmful alteration, disruption or destruction of fish habitat;
+    for the purposes of the definition designated project in subsection 34(1), designating projects or classes of projects that are likely to affect fish or fish habitat;
 
-    respecting the time, manner and circumstances in which the Minister may amend, suspend or cancel an authorization referred to in subsection 34.4(5) or 35(5), or a permit referred to in subsection 35.1(3), as the case may be;
+    respecting the time, manner and circumstances in which the Minister may amend, suspend or cancel an authorization referred to in subsection 34.4(5) or 35(5), or a permit referred to in subsection 35.1(5), as the case may be;
 
     respecting the time, manner and circumstances in which the prescribed person or prescribed entity may amend, suspend or cancel an authorization referred to in subsection 34.4(6) or 35(6);
 
-    respecting the process by which a person may request an amendment, suspension or cancellation of an authorization under subsection 34.4(5) or (6) or 35(5) or (6), or a permit under subsection 35.1(3), as the case may be;
+    respecting the process by which a person may request an amendment, suspension or cancellation of an authorization under subsection 34.4(5) or (6) or 35(5) or (6), or a permit under subsection 35.1(5), as the case may be;
 
   **(7)** Paragraph 43(1)(j) of the Act is replaced by the following:
 
@@ -1096,7 +1128,7 @@ The Act is amended by adding the following after section 43.2:
 
   **(1)** Every person acting under the authority of a permission referred to in section 4 or a lease or licence, whether issued under this Act or provincial legislation, shall comply with any terms and conditions of the permission, lease or licence that are imposed under the authority of this Act.
 
-  **(2)** The permissions referred to in section 4 and the leases and licences issued under this Act — including their terms and conditions — are not statutory instruments for the purposes of the `Statutory Instruments Act`.
+  **(2)** The permissions, leases and licences referred to in subsection (1) — including their terms and conditions — are not statutory instruments for the purposes of the `Statutory Instruments Act`.
 
   **(3)** Every person who contravenes subsection (1)
 
@@ -1614,9 +1646,84 @@ The portion of item 2 of Part 1 of Schedule VI to the `Canada-Nova Scotia Offsho
       **(1)** Before a person who proposes to carry on any work, undertaking or activity, for the purpose of the construction of the bridge, parkway or any related work and for which an authorization referred to in paragraph 34.4(2)(b) or (c) or 35(2)(b) or (c) of the `Fisheries Act` would have been required but for section 3, begins to carry on the work, undertaking or activity, they must file with the Minister a plan that includes all measures to be taken to mitigate the extent of death of fish or the harmful alteration, disruption or destruction of fish habitat, resulting from the carrying on of the work, undertaking or activity.
 
 
+## Coordinating Amendments
+
+### Section 58.1
+
+  **(1)** Subsections (2) to (8) apply if Bill S-203, introduced in the 1st session of the 42nd Parliament and entitled `An Act to amend the Criminal Code and other Acts (ending the captivity of whales and dolphins)` (in this section referred to as the "other Act"), receives royal assent.
+
+  **(2)** On the first day on which both section 2 of the other Act and this subsection are in force, the `Fisheries Act` is amended by adding the following after section 23.2:
+
+### Section 23.3
+
+      **(1)** Subsection 445.2(2) of the `Criminal Code` does not apply to a person who conducts scientific research in accordance with a licence issued by the Minister under subsection (2).
+
+      **(2)** The Minister may issue a licence authorizing any person to conduct scientific research with respect to cetaceans and impose any conditions that the Minister considers appropriate in the licence.
+
+### Section 23.4
+
+      **(1)** Paragraph 445.2(2)(a) of the `Criminal Code` does not apply to a person who keeps a cetacean in captivity in the best interests of the cetacean's welfare in accordance with a licence issued by the Minister under subsection (2).
+
+      **(2)** The Minister may issue a licence authorizing any person to keep a cetacean in captivity in the best interests of the cetacean's welfare and impose any conditions that the Minister considers appropriate in the licence.
+
+### Section 23.5
+
+    Subsection 445.2(2) of the `Criminal Code` does not apply to the employees of any federal entity set out in Schedules I to V of the `Financial Administration Act` who are performing their duties or functions in relation to scientific research with respect to cetaceans and to persons who are assisting them.
+
+### Section 23.6
+
+    Paragraph 445.2(2)(a) of the `Criminal Code` does not apply to the employees of any federal entity set out in Schedules I to V of the `Financial Administration Act` who are performing their duties or functions in relation to the keeping of a cetacean in captivity in the best interests of the cetacean's welfare and to persons who are assisting them.
+
+  **(3)** If section 3 of the other Act comes into force before section 15 of this Act, then section 28.1 of the `Fisheries Act` is repealed.
+
+  **(4)** If section 15 of this Act comes into force before section 3 of the other Act, then that section 3 is deemed never to have come into force and is repealed.
+
+  **(5)** If section 3 of the other Act comes into force on the same day as section 15 of this Act, then that section 3 is deemed never to have come into force and is repealed.
+
+  **(6)** If sections 4 and 5 of the other Act come into force before section 15 of this Act, then section 7.1 and subsection 10(1.1) of the `Wild Animal and Plant Protection and Regulation of International and Interprovincial Trade Act` are repealed.
+
+  **(7)** If section 15 of this Act comes into force before sections 4 and 5 of the other Act, then those sections 4 and 5 are deemed never to have come into force and are repealed.
+
+  **(8)** If sections 4 and 5 of the other Act come into force on the same day as section 15 of this Act, then those sections 4 and 5 are deemed never to have come into force and are repealed.
+
+### Section 58.2
+
+  **(1)** Subsections (2) to (7) apply if Bill S-238, introduced in the 1st session of the 42nd Parliament and entitled `An Act to amend the Fisheries Act and the Wild Animal and Plant Protection and Regulation of International and Interprovincial Trade Act (importation and exportation of shark fins)` (in this section referred to as the "other Act"), receives royal assent.
+
+  **(2)** If section 2 of the other Act comes into force before section 18.1 of this Act, then section 32 of the `Fisheries Act`, as enacted by that section 2, is repealed.
+
+  **(3)** If section 18.1 of this Act comes into force before section 2 of the other Act, then that section 2 is deemed never to have come into force and is repealed.
+
+  **(4)** If section 2 of the other Act comes into force on the same day as section 18.1 of this Act, then that section 2 is deemed never to have come into force and is repealed.
+
+  **(5)** If sections 3 and 4 of the other Act come into force before section 18.1 of this Act, then subsections 6(1.1) and 10(1.1) of the `Wild Animal and Plant Protection and Regulation of International and Interprovincial Trade Act` are repealed.
+
+  **(6)** If section 18.1 of this Act comes into force before sections 3 and 4 of the other Act, then those sections 3 and 4 are deemed never to have come into force and are repealed.
+
+  **(7)** If sections 3 and 4 of the other Act come into force on the same day as section 18.1 of this Act, then those sections 3 and 4 are deemed never to have come into force and are repealed.
+
+### Section 58.3
+
+  **(1)** Subsections (2) to (4) apply if Bill S-203, introduced in the 1st session of the 42nd Parliament and entitled `An Act to amend the Criminal Code and other Acts (ending the captivity of whales and dolphins)` (in this section referred to as the "other Act"), receives royal assent.
+
+  **(2)** On the first day on which both section 2 of the other Act and this subsection are in force, the portion of subsection 445.2(2) of the `Criminal Code` before paragraph (a) is replaced by the following:
+
+    **(2)** Subject to subsections (2.1) to (3.1), every person commits an offence who
+
+  **(3)** On the first day on which both section 2 of the other Act and this subsection are in force, section 445.2 of the `Criminal Code` is amended by adding the following after subsection (2):
+
+    **(2.1)** If a cetacean is gestating on the day on which this subsection comes into force, paragraphs (2)(b) and (c) do not apply in respect of that cetacean for the period in which it gestates that includes the day on which this subsection comes into force.
+
+    **(2.2)** Paragraph (2)(a) does not apply to the offspring of a cetacean if that offspring was born immediately after a gestational period that included the day on which this subsection came into force.
+
+  **(4)** On the first day on which both section 2 of the other Act and this subsection are in force, subsection 445.2(4) of the `Criminal Code` is replaced by the following:
+
+    **(4)** Every person commits an offence who promotes, arranges, conducts, assists in, receives money for or takes part in any meeting, competition, exhibition, pastime, practice, display or event at or in the course of which captive cetaceans are used, in Canada, for performance for entertainment purposes, unless the performance is authorized under a licence issued by the Lieutenant Gov­ernor in Council of a province or by an authority in the province as may be specified by the Lieutenant Governor in Council.
+
+
 ## Coming into Force
 
 ### Section 59
 
-Subsections `1`(1), (5) and (10), sections `8`, `13` and `19` to `24`, subsections `25`(2), (4), (5), (6), (8), (10) and (11) and `27`(1) to (6), (8) and (9), sections `28` to `30`, subsections `31`(6) and (13), sections `52`, `53` and `55` to `57` and subsection `58`(2) come into force on a day or days to be fixed by order of the Governor in Council.
+Subsections `1`(1), (5) and (10), sections `8`, `13` and `19` to `24`, subsections `25`(2), (4), (5), (6), (8), (10) and (11) and `27`(1) to (6), (8) and (9), sections `28` to `30`, subsections `31`(6) and (13), sections 52 and `55` to `57` and subsection `58`(2) come into force on a day or days to be fixed by order of the Governor in Council.
 
