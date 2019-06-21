@@ -70,6 +70,10 @@ Other agreements
 
 ## Federal Institutions
 
+Access to services in Indigenous languages
+
+Agreements and arrangements
+
 Translation and interpretation
 
 
@@ -176,7 +180,7 @@ Five-year review
 
 ## Parliamentary Review
 
-Five-year review
+Three-year review
 
 
 ## Coming into Force
@@ -310,7 +314,7 @@ The Minister must consult with a variety of Indigenous governments and other Ind
 
 ### Section 8
 
-The Minister may cooperate with provincial or terri­torial governments, Indigenous governments or other Indigenous governing bodies, Indigenous organizations or other entities — including by entering into agreements or arrangements with them — to coordinate efforts to efficiently and effectively support Indigenous languages in Canada in a manner consistent with the rights of In­digenous peoples recognized and affirmed by section 35 of the `Constitution Act, 1982` and the powers and jurisdictions of Indigenous governing bodies and of the provinces and territories.
+The Minister may cooperate with provincial or terri­torial governments, Indigenous governments or other Indigenous governing bodies, Indigenous organizations or other entities — including by entering into agreements or arrangements with them for purposes such as providing Indigenous language programs and services in relation to education, health and the administration of justice — to coordinate efforts to efficiently and effectively support Indigenous languages in Canada in a manner consistent with the rights of In­digenous peoples recognized and affirmed by section 35 of the `Constitution Act, 1982` and the powers and jurisdictions of Indigenous governing bodies and of the provinces and territories.
 
 ### Section 9
 
@@ -326,6 +330,16 @@ an Indigenous government or other Indigenous governing body from entering into, 
 
 
 ## Federal Institutions
+
+### Section 10.1
+
+A federal institution or its agent or mandatary may, in accordance with the regulations, provide access to services in an Indigenous language, if the institution or its agent or mandatary has the capacity to do so and there is sufficient demand for access to those services in that language.
+
+### Section 10.2
+
+  **(1)** An agreement or arrangement may be entered into under section 8 or 9 for the purpose of allowing a federal institution or its agent or mandatary to provide access to services in an Indigenous language.
+
+  **(2)** In the event of any inconsistency or conflict between an agreement or arrangement referred to in subsection (1) and the regulations made under paragraph 45(1)(a.2), the agreement or arrangement prevails to the extent of the inconsistency or conflict.
 
 ### Section 11
 
@@ -400,29 +414,31 @@ The Office's head office is to be in the National Capital Region, as described i
 
 ### Section 23
 
-The mandate of the Office is to
+  **(1)** The mandate of the Office is to
 
-help promote Indigenous languages;
+    help promote Indigenous languages;
 
-support the efforts of Indigenous peoples to reclaim, revitalize, maintain and strengthen Indigenous languages;
+    support the efforts of Indigenous peoples to reclaim, revitalize, maintain and strengthen Indigenous languages;
 
-facilitate the resolution of disputes and review complaints to the extent provided by this Act;
+    facilitate the resolution of disputes and review complaints to the extent provided by this Act;
 
-promote public awareness and understanding in respect of
+    promote public awareness and understanding in respect of
 
-the diversity and richness of Indigenous languages,
+    the diversity and richness of Indigenous languages,
 
-the inseparable link between Indigenous languages and the cultures of Indigenous peoples,
+    the inseparable link between Indigenous languages and the cultures of Indigenous peoples,
 
-the rights of Indigenous peoples related to Indigenous languages,
+    the rights of Indigenous peoples related to Indigenous languages,
 
-the significance of those rights for Indigenous peoples, as well as for the general public,
+    the significance of those rights for Indigenous peoples, as well as for the general public,
 
-the negative impact of colonization and discriminatory government policies on Indigenous languages and the exercise of those rights, and
+    the negative impact of colonization and discriminatory government policies on Indigenous languages and the exercise of those rights, and
 
-the importance of working toward and contributing to reconciliation with Indigenous peoples; and
+    the importance of working toward and contributing to reconciliation with Indigenous peoples; and
 
-support innovative projects and the use of new technologies in Indigenous language education and revitalization, in cooperation with Indigenous governments and other Indigenous governing bodies, In­digenous organizations, the Government of Canada and provincial and territorial governments.
+    support innovative projects and the use of new technologies in Indigenous language education and revitalization, in cooperation with Indigenous governments and other Indigenous governing bodies, In­digenous organizations, the Government of Canada and provincial and territorial governments.
+
+  **(2)** In fulfilling its mandate, the Office must, where appropriate, consult and coordinate with any Indigenous, provincial or territorial entity that is responsible for the promotion, revitalization or protection of Indigenous languages.
 
 ### Section 24
 
@@ -434,9 +450,9 @@ support innovative projects and the use of new technologies in Indigenous langua
 
   **(2)** The research or studies referred to in paragraph (1)(b) may take into account a community assessment, with the consent of the Indigenous community in respect of which the assessment was undertaken.
 
-  **(3)** The Office must make the results of any research or study referred to in subsection (1) available to any Indigenous community, Indigenous government or other Indigenous governing body or Indigenous organization that contributed to that research or study. The Office must also make any document used in or produced for that research or study available to that Indigenous community, Indigenous government or other Indigenous governing body or Indigenous organization.
+  **(3)** The Office must make the results of any research or study referred to in subsection (1) available to any Indigenous community, Indigenous government or other Indigenous governing body or Indigenous organization that contributed to that research or study. Subject to any law, the Office must also make any document used in or produced for that research or study available to that Indigenous community, Indigenous government or other Indigenous governing body or Indigenous organization.
 
-  **(4)** The Office must authorize the Indigenous commun­ity, Indigenous government or other Indigenous governing body or Indigenous organization to copy or otherwise use the research or studies referred to in subsection (1) free of charge for the purpose of reclaiming, revitalizing, maintaining or strengthening Indigenous languages. The Office must also authorize any document used in or produced for that research or study to be copied or otherwise used by that Indigenous community, Indigenous government or other Indigenous governing body or Indigenous organization free of charge, for that purpose.
+  **(4)** The Office must authorize the Indigenous commun­ity, Indigenous government or other Indigenous governing body or Indigenous organization to copy or otherwise use the research or study free of charge for the purpose of reclaiming, revitalizing, maintaining or strengthening Indigenous languages. Subject to any law, the Office must also authorize any document used in or produced for that research or study to be copied or otherwise used by that Indigenous community, Indigenous government or other Indigenous governing body or Indigenous organization free of charge, for that purpose.
 
 ### Section 25
 
@@ -637,21 +653,41 @@ The Commissioner must, as soon as feasible, notify the Minister of any financial
 
 ### Section 45
 
-Following consultations by the Minister with the Office, a variety of Indigenous governments and other Indigenous governing bodies and a variety of Indigenous organizations in order to take into account the unique circumstances and needs of Indigenous groups, com­munities and peoples, the Governor in Council may make regulations
+  **(1)** Following consultations by the Minister with the Office, a variety of Indigenous governments and other Indigenous governing bodies and a variety of Indigenous organizations in order to take into account the unique circumstances and needs of Indigenous groups, com­munities and peoples, the Governor in Council may make regulations
 
-respecting complaints referred to in section `27`, including
+    respecting complaints referred to in section `27`, including
 
-the filing of complaints, including the conditions that must be met before complaints may be filed,
+    the filing of complaints, including the conditions that must be met before complaints may be filed,
 
-the review of complaints, and
+    the review of complaints, and
 
-the reports made after conducting the review of complaints, including the type of recommendations that may be made in those reports, the period of time within which the reports must be completed and the persons or entities to which the reports must be provided;
+    the reports made after conducting the review of complaints, including the type of recommendations that may be made in those reports, the period of time within which the reports must be completed and the persons or entities to which the reports must be provided;
 
-respecting procedures for consultations required under this Act as well as for the negotiation of agreements or arrangements under sections 8 and 9;
+    respecting procedures for consultations required under this Act as well as for the negotiation of agreements or arrangements under sections 8 and 9;
 
-specifying other information to be included in the annual report for the purposes of paragraph `43`(2)(d); and
+    for the purpose of section 10.1,
 
-generally, for carrying out the purposes and provisions of this Act.
+    specifying the services to which access may be provided in an Indigenous language and the region in which a federal institution or its agent or mandatary may provide access to those services in that language,
+
+    defining the expression "provide access to services", and
+
+    defining the expressions "capacity" and "demand" and specifying the circumstances in which a federal institution or its agent or mandatary has the capacity to provide access to services in an Indigen­ous language and those in which demand for access to services in that language is sufficient;
+
+    specifying other information to be included in the annual report for the purposes of paragraph `43`(2)(d); and
+
+    generally, for carrying out the purposes and provisions of this Act.
+
+  **(2)** The regulations made under paragraph (1)(a.2) may provide definitions and requirements that vary depending on
+
+    the Indigenous language in question;
+
+    the use and vitality of that language;
+
+    the unique circumstances and needs of an Indigen­ous group, community or people that uses that language;
+
+    the region where that language is used; and
+
+    the federal institution or its agent or mandatary that may provide access to services in that language.
 
 ### Section 45.1
 
@@ -697,7 +733,7 @@ The Office must make rules to ensure the confidentiality of the information the 
 
 ### Section 49.1
 
-As soon as feasible after the fifth anniversary of the day on which this section comes into force and after each subsequent fifth anniversary, a review of this Act and of its administration and operation is to be commenced by a committee of the Senate, of the House of Commons or of both Houses of Parliament that may be designated or established for that purpose.
+As soon as feasible after the third anniversary of the day on which this section comes into force and after each subsequent third anniversary, a review of this Act and of its administration and operation is to be commenced by a committee of the Senate, of the House of Commons or of both Houses of Parliament that may be designated or established for that purpose.
 
 
 ## Coming into Force
