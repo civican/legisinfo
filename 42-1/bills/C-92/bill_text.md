@@ -22,7 +22,7 @@ Whereas Parliament affirms the need
 
 to respect the diversity of all Indigenous peoples, including the diversity of their laws, rights, treaties, histories, cultures, languages, customs and traditions,
 
-to take into account the unique circumstances and needs of Indigenous elders, youth, children, persons with disabilities, women, men and gender-diverse persons and two-spirit persons,
+to take into account the unique circumstances and needs of Indigenous elders, parents, youth, children, persons with disabilities, women, men and gender-diverse persons and two-spirit persons,
 
 to address the needs of Indigenous children and to help ensure that there are no gaps in the services that are provided in relation to them, whether they reside on a reserve or not,
 
@@ -102,7 +102,7 @@ This Act is binding on Her Majesty in right of Canada or of a province.
 
 The purpose of this Act is to
 
-affirm the rights and jurisdiction of Indigenous peoples in relation to child and family services;
+affirm the inherent right of self-government, which includes jurisdiction in relation to child and family services;
 
 set out principles applicable, on a national level, to the provision of child and family services in relation to Indigenous children; and
 
@@ -118,7 +118,7 @@ contribute to the implementation of the United Nations Declaration on the Rights
 
     the transmission of the languages, cultures, practices, customs, traditions, ceremonies and knowledge of Indigenous peoples is integral to cultural continuity;
 
-    a child's well-being is often promoted when the child resides with members of his or her family and the culture of the Indigenous group, community or people to which he or she belongs is respected;
+    a child's best interests are often promoted when the child resides with members of his or her family and the culture of the Indigenous group, community or people to which he or she belongs is respected;
 
     child and family services provided in relation to an Indigenous child are to be provided in a manner that does not contribute to the assimilation of the Indigenous group, community or people to which the child belongs or to the destruction of the culture of that Indigenous group, community or people; and
 
@@ -203,6 +203,10 @@ the Indigenous governing body acting on behalf of the Indigenous group, communit
 ### Section 15
 
 In the context of providing child and family services in relation to an Indigenous child, to the extent that it is consistent with the best interests of the child, the child must not be apprehended solely on the basis of his or her socio-economic conditions, including poverty, lack of adequate housing or infrastructure or the state of health of his or her parent or the care provider.
+
+### Section 15.1
+
+In the context of providing child and family services in relation to an Indigenous child, unless immediate apprehension is consistent with the best interests of the child, before apprehending a child who resides with one of the child's parents or another adult member of the child's family, the service provider must demonstrate that he or she made reasonable efforts to have the child continue to reside with that person.
 
 
 ## Placement of Indigenous Child
