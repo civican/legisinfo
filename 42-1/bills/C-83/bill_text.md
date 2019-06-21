@@ -109,11 +109,17 @@ Subsection 2(1) of the `Corrections and Conditional Release Act` is amended by a
 
 **Indigenous**, in respect of a person, includes a First Nation person, an Inuit or a Métis person; (**autochtone**)
 
+**mental health assessment** means an assessment of the mental health of a person conducted by a medical professional with recognized specialty training in mental health diagnosis and treatment, such as a psychiatrist, psychologist or psychiatric nurse or a primary care physician who has had psychiatric training. (**évaluation de la santé mentale**)
+
 ### Section 2
 
   **(1)** Paragraph 4(c) of the Act is replaced by the following:
 
     the Service uses the least restrictive measures consistent with the protection of society, staff members and offenders;
+
+    the Service considers alternatives to custody in a penitentiary, including the alternatives referred to in sections 29 and 81;
+
+    the Service ensures the effective delivery of programs to offenders, including correctional, educational, vocational training and volunteer programs, with a view to improving access to alternatives to custody in a penitentiary and to promoting rehabilitation;
 
   **(2)** Paragraph 4(g) of the Act is replaced by the following:
 
@@ -122,6 +128,8 @@ Subsection 2(1) of the `Corrections and Conditional Release Act` is amended by a
 ### Section 3
 
 Section 15.1 of the Act is amended by adding the following after subsection (2):
+
+**(2.01)** In order to ensure that the plan can be developed in a manner that takes any mental health needs of the offender into consideration, the institutional head shall, as soon as practicable after the day on which the offender is received but not later than the 30th day after that day, refer the offender's case to the portion of the Service that administers health care for the purpose of conducting a mental health assessment of the offender.
 
 **(2.1)** If an offender is in a structured intervention unit and a determination is made under subsection 29.01(2), paragraph 37.3(1)(b) or section 37.4 or 37.8 that the offender should remain in the structured intervention unit, the institutional head shall, as soon as practicable after the determination, cause the offender's correctional plan to be updated, in consultation with the offender, in order to ensure that they receive the most effective programs at the appropriate time during their confinement in the structured intervention unit and to prepare them for reintegration into the mainstream inmate population as soon as possible.
 
@@ -169,11 +177,11 @@ Section 29 of the Act is replaced by the following:
 
 The Commissioner may authorize the transfer of a person who is sentenced, transferred or committed to a penitentiary
 
-within a penitentiary, from an area that has been assigned a security classification under section 29.1 to another area that has been assigned a security classification under that section, in accordance with the regulations made under paragraph 96(d), subject to section 28;
+to a hospital, including any mental health facility, or to a provincial correctional facility, in accordance with an agreement entered into under paragraph 16(1)(a) and any applicable regulations;
 
-to another penitentiary, in accordance with the regulations made under paragraph 96(d), subject to section 28; or
+within a penitentiary, from an area that has been assigned a security classification under section 29.1 to another area that has been assigned a security classification under that section, in accordance with the regulations made under paragraph 96(d), subject to section 28; or
 
-to a provincial correctional facility or hospital, in accordance with an agreement entered into under paragraph 16(1)(a) and any applicable regulations.
+to another penitentiary, in accordance with the regulations made under paragraph 96(d), subject to section 28.
 
 ### Section 29.01
 
@@ -276,7 +284,11 @@ An inmate in a structured intervention unit has the same rights as other inmates
 
   **(1)** The Service shall ensure that measures are taken to provide for the ongoing monitoring of the health of inmates in a structured intervention unit.
 
-  **(2)** The Service shall ensure that the measures include a visit to the inmate at least once every day by a registered health care professional employed or engaged by the Service.
+  **(2)** The Service shall ensure that the measures include
+
+    a referral of the inmate's case, within 24 hours after the inmate's transfer into the structured intervention unit, to the portion of the Service that administers health care for the purpose of conducting a mental health assessment of the inmate; and
+
+    a visit to the inmate at least once every day by a registered health care professional employed or engaged by the Service.
 
 ### Section 37.11
 
@@ -461,7 +473,7 @@ An independent external decision-maker may, in the prescribed circumstances, mak
 
 ### Section 37.91
 
-  **(1)** The transfer of an inmate to a structured intervention unit must be completed not later than five working days after the day on which the authorization for the transfer is given. Until the transfer is completed, the Service may impose restrictions on the inmate's movement and sections 33, 35 to 37.4 and 37.81 to 37.83 apply with any necessary modifications in respect of the inmate as though the inmate were in a structured intervention unit. However, the opportunity referred to in paragraph 36(1)(b) is to be provided only if the circumstances permit.
+  **(1)** The transfer of an inmate to a structured intervention unit must be completed not later than five working days after the day on which the authorization for the transfer is given. Until the transfer is completed, the Service may impose restrictions on the inmate's movement and sections 29.01, 33, 35 to 37.4 and 37.81 to 37.83 apply with any necessary modifications in respect of the inmate as though the inmate were in a structured intervention unit. However, the opportunity referred to in paragraph 36(1)(b) is to be provided only if the circumstances permit.
 
   **(2)** The institutional head shall, at least once every day, meet with the inmate.
 
@@ -491,11 +503,17 @@ Section 48 of the Act is replaced by the following:
 
 ### Section 48
 
-A staff member of the same sex as the inmate may conduct a routine strip search of an inmate, without individualized suspicion,
+  **(1)** Subject to subsection (2), a staff member of the same sex as the inmate may conduct a routine strip search of an inmate, without individualized suspicion,
 
-in the prescribed circumstances in situations in which the inmate has been in a place where there was a likelihood of access to contraband that is capable of being hidden on or in the body; or
+    in the prescribed circumstances in situations in which the inmate has been in a place where there was a likelihood of access to contraband that is capable of being hidden on or in the body; or
 
-when the inmate is entering or leaving a structured intervention unit.
+    when the inmate is entering or leaving a structured intervention unit.
+
+  **(2)** A body scan search of the inmate shall be conducted instead of the strip search if
+
+    the body scan search is authorized under section 48.1; and
+
+    a prescribed body scanner in proper working order is in the area where the strip search would be conducted.
 
 ### Section 15
 
@@ -590,9 +608,9 @@ In sections 79.1 to 84.1,
 
     systemic and background factors that have contributed to the overrepresentation of Indigenous persons in the criminal justice system and that may have contributed to the offender's involvement in the criminal justice system; and
 
-    the Indigenous culture and identity of the offender.
+    the Indigenous culture and identity of the offender, including his or her family and adoption history.
 
-  **(2)** The factors described in paragraphs (1)(a) to (c) are not to be taken into consideration for decisions respecting the assessment of the risk posed by an Indigenous inmate.
+  **(2)** The factors described in paragraphs (1)(a) to (c) are not to be taken into consideration for decisions respecting the assessment of the risk posed by an Indigenous offender unless those factors could decrease the level of risk.
 
 ### Section 80
 
@@ -714,7 +732,7 @@ to enable inmates and their families or an individual  identified by the inmate 
 
   **(2.1)** Paragraph 96(l) of the French version of the Act is replaced by the following:
 
-    précisant la manière d'effectuer les inspections lors d'une *fouille à nu*, d'une *fouille discrète* ou d'une *fouille par palpation*, au sens de l'article 46;
+    précisant la manière d'effectuer les inspections lors d'une fouille à nu, d'une fouille discrète ou d'une fouille par palpation, au sens de l'article 46;
 
   **(3)** Paragraph 96(z.6) of the French version of the Act is replaced by the following:
 
