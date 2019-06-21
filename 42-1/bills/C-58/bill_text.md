@@ -86,63 +86,49 @@ The heading "Access to Government Records" after section 3.2 of the Act is repla
 
 ### Access
 
-### Section 5
+### Section 6
 
-Section 5 of the Act and the heading before it are replaced by the following:
-
-### Section 5
-
-The head of each government institution shall cause to be published the title and address of the appropriate officer or employee for the government institution to whom requests for access to records under this Part should be sent.
+Section 6 of the English version of the Act is replaced by the following:
 
 ### Section 6
 
-Section 6 of the Act is replaced by the following:
-
-### Section 6
-
-A request for access to a record under this Part shall be made in writing to the government institution that has control of the record and shall set out the following information and provide sufficient detail to enable an experienced employee of the institution to identify the record with a reasonable effort:
-
-the specific subject matter of the request;
-
-the type of record being requested;
-
-the period for which the record is being requested or the date of the record.
+A request for access to a record under this Part shall be made in writing to the government institution that has control of the record and shall provide sufficient detail to enable an experienced employee of the institution to identify the record with a reasonable effort.
 
 ### Section 6.1
 
-  **(1)** With the Information Commissioner's written approval, the head of a government institution may, before giving a person access to a record or refusing to do so, decline to act on the person's request if, in the opinion of the head of the institution,
+The Act is amended by adding the following after section 6:
 
-    the person has already been given access to an identical record or the record may reasonably be accessed by other means;
+### Section 6.1
 
-    the request is for such a large number of records or necessitates a search through such a large number of records that acting on the request would unreasonably interfere with the operations of the government institution, even with a reasonable extension of the time limit set out in section 7; or
+  **(1)** With the Information Commissioner's written approval, the head of a government institution may, before giving a person access to a record or refusing to do so, decline to act on the person's request if, in the opinion of the head of the institution, the request is vexatious, is made in bad faith or is otherwise an abuse of the right to make a request for access to records.
 
-    the request is vexatious, is made in bad faith or is otherwise an abuse of the right to make a request for access to records.
+  **(1.1)** The head of a government institution is not author­ized under subsection (1) to decline to act on a person's request for a record for the sole reason that the information contained in it has been published under Part 2.
 
-  **(1.1)** The head of a government institution is not author­ized under paragraph (1)(a) to decline to act on a person's request for a record for the sole reason that the information contained in it has been published under Part 2.
+  **(1.2)** If the head of a government institution communicates with the Information Commissioner to obtain his or her approval to decline to act, the 30-day period set out in section 7 — and any extension to it under section 9 — is suspended during the period beginning on the day on which the head of the institution communicates with the Information Commissioner and ending on the day on which he or she receives the Information Commissioner's decision in writing.
+
+  **(1.3)** The head of the institution shall give written notice to the person who made the request for access to a record under this Part of the suspension of the period, and of the reasons for the suspension, at the same time as they communicate with the Information Commissioner to obtain his or her approval to decline to act.
+
+  **(1.4)** If the Information Commissioner refuses to give his or her approval, the head of the institution shall, on receiving the Information Commissioner's decision in writing, give written notice to the person who made the request for access to a record under this Part of the refusal and of the date on which the running of the period resumes in accordance with subsection (1.2).
 
   **(2)** If the head of a government institution declines to act on the person's request, they shall give the person written notice of their decision to decline to act on the request and their reasons for doing so.
 
+### Section 6.2
+
+The portion of section 7 of the Act before paragraph (a) is replaced by the following:
+
 ### Section 7
 
-  **(1)** Subsections 11(1) to (3) of the Act are replaced by the following:
+Where access to a record is requested under this Act, the head of the government institution to which the request is made shall, subject to sections 8 and 9, within 30 days after the request is received,
+
+### Section 7
+
+  **(1)** Section 11 of the Act is replaced by the following:
 
 ### Section 11
 
       **(1)** Subject to this section, a person who makes a request for access to a record under this Part shall pay, at the time the request is made, any application fee of not more than $25, that may be prescribed by regulation.
 
-      **(2)** The head of the government institution to which the request is made may require, in addition to the fee payable under subsection (1), payment of an amount prescribed by regulation or calculated in the manner prescribed by regulation and may require that the payment be made before access to the record is given.
-
-  **(2)** Subsection 11(4) of the Act is replaced by the following:
-
-    **(4)** If the head of a government institution requires a person to pay an amount under subsection (2) in respect of a request for access to a record, the head of the institution may require that a reasonable proportion of that amount be paid as a deposit before the search or production of the record is undertaken or the part of the record is prepared for disclosure.
-
-  **(3)** The portion of subsection 11(5) of the Act before paragraph (a) is replaced by the following:
-
-    **(5)** If the head of a government institution requires a person to pay an amount under subsection (2), the head of the institution shall
-
-  **(4)** Subsection 11(6) of the Act is replaced by the following:
-
-    **(6)** The head of a government institution to which a request for access to a record is made under this Part may waive the requirement to pay a fee or amount or a part of a fee or amount under this section or may refund a fee or amount or a part of a fee or amount paid under this section.
+      **(2)** The head of a government institution to which a request for access to a record is made under this Part may waive the requirement to pay a fee or a part of a fee under this section or may refund a fee or a part of a fee paid under this section.
 
 ### Section 8
 
@@ -185,29 +171,23 @@ Section 29 of the Act is repealed.
 
 ### Section 13
 
-  **(1)** Paragraph 30(1)(b) of the Act is replaced by the following:
+Section 30 of the Act is amended by adding the following after subsection (3):
 
-    from persons who have been required to pay an amount under subsection 11(2) that they consider unreasonable;
+**(4)** The Information Commissioner may refuse or cease to investigate a complaint if, in the Commissioner's opinion,
 
-  **(2)** Paragraph 30(1)(e) of the Act is repealed.
+  the complaint is trivial, frivolous or vexatious or is made in bad faith; or
 
-  **(3)** Section 30 of the Act is amended by adding the following after subsection (3):
+  an investigation or any further investigation is unnecessary having regard to all the circumstances of the complaint, including that the complaint is already the subject of an investigation or that the subject matter of the complaint has already been the subject of a report by the Commissioner.
 
-    **(4)** The Information Commissioner may refuse or cease to investigate a complaint if, in the Commissioner's opinion,
+**(5)** If the Information Commissioner refuses or ceases to investigate a complaint, he or she shall give a written notice to
 
-      the complaint is trivial, frivolous or vexatious or is made in bad faith; or
+  the complainant, stating the reasons for refusing or ceasing to investigate the complaint;
 
-      an investigation or any further investigation is unnecessary having regard to all the circumstances of the complaint, including that the complaint is already the subject of an investigation or that the subject matter of the complaint has already been the subject of a report by the Commissioner.
+  the head of the government institution concerned, if the Commissioner provided the head of the institution with a notice under section 32;
 
-    **(5)** If the Information Commissioner refuses or ceases to investigate a complaint, he or she shall give a written notice to
+  any third party that was entitled under paragraph 35(2)(c) to make and that made representations to the Commissioner in respect of the complaint; and
 
-      the complainant, stating the reasons for refusing or ceasing to investigate the complaint;
-
-      the head of the government institution concerned, if the Commissioner provided the head of the institution with a notice under section 32;
-
-      any third party that was entitled under paragraph 35(2)(c) to make and that made representations to the Commissioner in respect of the complaint; and
-
-      the Privacy Commissioner, if the Information Commissioner consulted him or her under section 36.2.
+  the Privacy Commissioner, if the Information Commissioner consulted him or her under subsection 36(1.1) or section 36.2.
 
 ### Section 14
 
@@ -217,11 +197,13 @@ Section 29 of the Act is repealed.
 
   **(2)** Subsection 35(2) of the Act is amended by striking out "and" at the end of paragraph (b), by adding "and" at the end of paragraph (c) and by adding the following after paragraph (c):
 
-    the Privacy Commissioner, if the Information Commissioner consults him or her under section 36.2 or the head of the government institution concerned notifies him or her of the complaint.
+    the Privacy Commissioner, if the Information Commissioner consults him or her under subsection 36(1.1) or section 36.2.
 
 ### Section 15
 
 Subsection 36(2) of the Act is replaced by the following:
+
+**(1.1)** For greater certainty, the Information Commissioner may, during the investigation of any complaint under this Part, consult the Privacy Commissioner and may, in the course of the consultation, disclose to him or her personal information.
 
 **(2)** Despite any other Act of Parliament, any privilege under the law of evidence, solicitor-client privilege or the professional secrecy of advocates and notaries and litigation privilege, and subject to subsection (2.1), the Information Commissioner may, during the investigation of any complaint under this Part, examine any record to which this Part applies that is under the control of a government institution, and no such record may be withheld from the Commissioner on any grounds.
 
@@ -238,7 +220,7 @@ The Act is amended by adding the following after section 36:
 
 ### Section 36.1
 
-  **(1)** If, after investigating a complaint described in any of paragraphs 30(1)(a) to (d.1), the Commissioner finds that the complaint is well-founded, he or she may make any order in respect of a record to which this Part applies that he or she considers appropriate, including requiring the head of the government institution that has control of the record in respect of which the complaint is made
+  **(1)** If, after investigating a complaint described in any of paragraphs 30(1)(a) to (e), the Commissioner finds that the complaint is well-founded, he or she may make any order in respect of a record to which this Part applies that he or she considers appropriate, including requiring the head of the government institution that has control of the record in respect of which the complaint is made
 
     to disclose the record or a part of the record; and
 
@@ -254,11 +236,11 @@ The Act is amended by adding the following after section 36:
 
     the 41st business day after the day on which the head of the government institution receives a report under subsection 37(2), if a third party or the Privacy Commissioner is also provided with the report.
 
-  **(5)** For the purposes of this section, the head of the government institution is deemed to have received the report on the fifth business day after the day on which the order is made.
+  **(5)** For the purposes of this section, the head of the government institution is deemed to have received the report on the fifth business day after the date of the report.
 
 ### Section 36.2
 
-If the Information Commissioner intends to make an order requiring the head of a government institution to disclose a record or a part of a record that the head of the institution refuses to disclose under subsection 19(1), the Information Commissioner may consult the Privacy Commissioner and may, in the course of the consultation, disclose to him or her personal information.
+If the Information Commissioner intends to make an order requiring the head of a government institution to disclose a record or a part of a record that the head of the institution refuses to disclose under subsection 19(1), the Information Commissioner shall consult the Privacy Commissioner and may, in the course of the consultation, disclose to him or her personal information.
 
 ### Section 36.3
 
@@ -286,7 +268,16 @@ Section 37 of the Act is replaced by the following:
 
     the period within which the head of the government institution shall give notice to the Commissioner of the action taken or proposed to be taken to implement the order or recommendations set out in the report or reasons why no such action has been or is proposed to be taken.
 
-  **(2)** The Information Commissioner shall, after investigating a complaint under this Part, provide a report that sets out the results of the investigation and any order or recommendations that he or she makes to the complainant, the head of the government institution, any third party that was entitled under paragraph 35(2)(c) to make and that made representations to the Commissioner in respect of the complaint, and the Privacy Commissioner if the report sets out an order requiring the head of the government institution to disclose a record or a part of a record that the head of the institution refuses to disclose under subsection 19(1), but no report is to be made under this subsection and no order is to be made until the expiry of the time within which the notice referred to in paragraph (1)(c) is to be given to the Information Commissioner.
+  **(2)** The Information Commissioner shall, after investigating a complaint under this Part, provide a report that sets out the results of the investigation and any order or recommendations that he or she makes to
+
+    the complainant;
+
+    the head of the government institution;
+
+    any third party that was entitled under paragraph 35(2)(c) to make and that made representations to the Commissioner in respect of the complaint; and
+
+    the Privacy Commissioner, if he or she was entitled under paragraph 35(2)(d) to make representations and he or she made representations to the Commissioner in respect of the complaint. 
+However, no report is to be made under this subsection and no order is to be made until the expiry of the time within which the notice referred to in paragraph (1)(c) is to be given to the Information Commissioner.
 
   **(3)** The Information Commissioner may include in the report referred to in subsection (2) any comments on the matter that he or she thinks fit and shall include in that report
 
@@ -308,6 +299,8 @@ Section 37 of the Act is replaced by the following:
 
     on the expiry of the 40th business day after the day on which the head of the government institution receives the report under subsection (2) or within any period specified in the Commissioner's order that begins on the expiry of that 40th business day, if a third party or the Privacy Commissioner are also provided with the report, unless a review is applied for under section 41.
 
+  **(5)** For the purposes of this section, the head of the government institution is deemed to have received the report referred to in subsection (2) on the fifth business day after the date of the report.
+
 ### Section 18
 
 Subsection 40(2) of the Act is replaced by the following:
@@ -320,7 +313,7 @@ Sections 41 to 43 of the Act are replaced by the following:
 
 ### Section 41
 
-  **(1)** A person who makes a complaint described in any of paragraphs 30(1)(a) to (d.1) and who receives a report under subsection 37(2) in respect of the complaint may, within 30 business days after the day on which the head of the government institution receives the report, apply to the Court for a review of the matter that is the subject of the complaint.
+  **(1)** A person who makes a complaint described in any of paragraphs 30(1)(a) to (e) and who receives a report under subsection 37(2) in respect of the complaint may, within 30 business days after the day on which the head of the government institution receives the report, apply to the Court for a review of the matter that is the subject of the complaint.
 
   **(2)** The head of a government institution who receives a report under subsection 37(2) may, within 30 business days after the day on which they receive it, apply to the Court for a review of any matter that is the subject of an order set out in the report.
 
@@ -330,7 +323,7 @@ Sections 41 to 43 of the Act are replaced by the following:
 
   **(5)** The person who applies for a review under subsection (1), (3) or (4) may name only the head of the government institution concerned as the respondent to the proceedings. The head of the government institution who applies for a review under subsection (2) may name only the Information Commissioner as the respondent to the proceedings.
 
-  **(6)** For the purposes of this section, the head of the government institution is deemed to have received the report on the fifth business day after the day on which the order is made.
+  **(6)** For the purposes of this section, the head of the government institution is deemed to have received the report on the fifth business day after the date of the report.
 
 ### Section 41.1
 
@@ -384,17 +377,11 @@ An application made under section 41 or 44 is to be heard and determined in a su
 
 ### Section 22
 
-  **(1)** Section 46 of the Act is replaced by the following:
+Section 46 of the Act is replaced by the following:
 
 ### Section 46
 
-    Despite any other Act of Parliament, any privilege under the law of evidence, solicitor-client privilege or the professional secrecy of advocates and notaries and litigation privilege, the Court may, in the course of any proceedings before it arising from an application under section 41, 42 or 44, examine any record to which this Part applies that is under the control of a government institution, and no such record may be withheld from the Court on any grounds.
-
-  **(2)** Section 46 of the Act is replaced by the following:
-
-### Section 46
-
-    Despite any other Act of Parliament, any privilege under the law of evidence, solicitor-client privilege or the professional secrecy of advocates and notaries and litigation privilege, the Court may, in the course of any proceedings before it arising from an application under section 41 or 44, examine any record to which this Part applies that is under the control of a government institution, and no such record may be withheld from the Court on any grounds.
+Despite any other Act of Parliament, any privilege under the law of evidence, solicitor-client privilege or the professional secrecy of advocates and notaries and litigation privilege, the Court may, in the course of any proceedings before it arising from an application under section 41 or 44, examine any record to which this Part applies that is under the control of a government institution, and no such record may be withheld from the Court on any grounds.
 
 ### Section 23
 
@@ -526,7 +513,7 @@ prescribing the procedure to be followed in making and responding to a request f
 
 prescribing, for the purpose of subsection 8(1), the conditions under which a request may be transferred from one government institution to another;
 
-prescribing a fee for the purposes of subsection 11(1) and prescribing an amount for the purposes of subsection 11(2) or the manner of calculating the amount;
+prescribing a fee for the purposes of subsection 11(1);
 
 prescribing, for the purpose of subsection 12(1), the manner or place in which access to a record or a part of a record shall be given;
 
@@ -761,7 +748,7 @@ the total amount of the expenses for the hospitality activity.
 
 ### Section 71.12
 
-Sections 71.02 to 71.11 do not apply to any of the information or any part of the information referred to in those sections if the Speaker of the Senate or the Speaker of the House of Commons, as applicable, determines that the publication would constitute a breach of parliamentary privilege.
+Sections 71.02 to 71.11 do not apply to any of the information or any part of the information referred to in those sections if the Speaker of the Senate or the Speaker of the House of Commons, as applicable, determines that the publication may constitute a breach of parliamentary privilege.
 
 ### Section 71.13
 
@@ -769,7 +756,7 @@ The Speaker of the Senate, the Speaker of the House of Commons or the person or 
 
 ### Section 71.14
 
-A determination by the Speaker of the Senate, the Speaker of the House of Commons or a delegate of either Speaker that a publication would constitute a breach of parliamentary privilege or could compromise the security of persons, infrastructure or goods is final.
+A determination by the Speaker of the Senate, the Speaker of the House of Commons or a delegate of either Speaker that a publication may constitute a breach of parliamentary privilege or could compromise the security of persons, infrastructure or goods is final for the purposes of this Part, subject to the rules and orders of both Houses of Parliament.
 
 ### Section 37
 
@@ -850,7 +837,7 @@ the total amount of the expenses for the hospitality activity.
 
 ### Section 77
 
-  **(1)** Within 30 days after the end of the quarter in which a contract that has been entered into in relation to the activities of a minister's office, that result in expenses being incurred by the minister or by any of his or her ministerial advisers or any member of his or her ministerial staff and that has a value of more than $10,000, the minister shall cause to be published in electronic form the following information:
+  **(1)** Within 30 days after the end of each of the first three quarters and within 60 days after the end of each fourth quarter, a minister shall cause to be published in electronic form the following information with respect to any contract that is entered into during the quarter in relation to the activities of the minister's office that result in expenses being incurred by the minister or by any of his or her ministerial advisers or any member of his or her ministerial staff if the value of the contract is more than $10,000:
 
     the subject matter of the contract;
 
@@ -862,9 +849,9 @@ the total amount of the expenses for the hospitality activity.
 
     the reference number assigned to the contract, if any.
 
-  **(2)** Within 30 days after the end of the quarter in which a contract — that has been entered into in relation to the activities of a minister's office that result in expenses being incurred by the minister or by any of his or her ministerial advisers or any member of his or her ministerial staff and that has a value of $10,000 or less — is amended so that its value exceeds $10,000, the minister shall cause to be published in electronic form the information referred to in paragraphs (1)(a) to (e) with respect to the contract as amended.
+  **(2)** Within 30 days after the end of the quarter in which a contract — that has been entered into in relation to the activities of a minister's office that result in expenses being incurred by the minister or by any of his or her ministerial advisers or any member of his or her minis­terial staff and that has a value of $10,000 or less — is amended so that its value exceeds $10,000, or within 60 days after the end of that quarter if that quarter is the fourth quarter, the minister shall cause to be published in electronic form the information referred to in paragraphs (1)(a) to (e) with respect to the contract as amended.
 
-  **(3)** Within 30 days after the end of the quarter in which a contract referred to in subsection (1) or (2) is amended so that its value is increased or decreased, the minister shall cause to be published in electronic form the value of the contract as amended.
+  **(3)** Within 30 days after the end of the quarter in which a contract referred to in subsection (1) or (2) is amended so that its value is increased or decreased by more than $10,000, or within 60 days after the end of that quarter if that quarter is the fourth quarter, the minister shall cause to be published in electronic form the value of the contract as amended.
 
 ### Section 78
 
@@ -987,7 +974,7 @@ any other information that, in accordance with Treasury Board policies, must be 
 
   **(2)** Within 30 days after the end of the quarter in which a contract that has been entered into in relation to the activities of a government entity and that has a value of $10,000 or less is amended so that its value exceeds $10,000, or within 60 days after the end of that quarter if that quarter is the fourth quarter, the head of the government entity shall cause to be published in electronic form the information referred to in paragraphs (1)(a) to (f) with respect to the contract as amended.
 
-  **(3)** Within 30 days after the end of the quarter in which a contract referred to in subsection (1) or (2) is amended so that its value is increased or decreased, or within 60 days after the end of that quarter if that quarter is the fourth quarter, the head of the government entity shall cause to be published in electronic form the value of the contract as amended.
+  **(3)** Within 30 days after the end of the quarter in which a contract referred to in subsection (1) or (2) is amended so that its value is increased or decreased by more than $10,000, or within 60 days after the end of that quarter if that quarter is the fourth quarter, the head of the government entity shall cause to be published in electronic form the value of the contract as amended.
 
 ### Section 87
 
@@ -1097,6 +1084,10 @@ The records that the head of a government institution provides to the head of an
 
 The administration of this Act shall be reviewed on a permanent basis by any committee of the House of Commons, of the Senate or of both Houses of Parliament that may be designated or established by Parliament for that purpose.
 
+### Section 99.1
+
+A committee referred to in section 99 shall undertake a review of this Act within one year after the day on which this section comes into force and every five years after the review is undertaken, and shall submit a report on each review to the Senate, the House of Commons or both Houses of Parliament, as the case may be, including a statement of any changes the committee would recommend.
+
 ### Section 100
 
 This Act is binding on Her Majesty in right of Canada.
@@ -1125,7 +1116,7 @@ The Act is amended by adding the following after section 90:
 
 ### Section 90.01
 
-The following definitions apply in sections `90.02` to `90.25`.
+The following definitions apply in sections `90.02` to `90.24`.
 
 **Chief Administrator** means the Chief Administrator of the Courts Administration Service. (**administrateur en chef**)
 
@@ -1210,51 +1201,59 @@ the total amount of the expenses for the hospitality activity.
 
 ### Section 90.06
 
-Within 30 days after the end of the quarter in which any incidental expenditure incurred by a judge of the Supreme Court is reimbursed under subsection 27(1) of the `Judges Act`, the Registrar shall cause to be published in electronic form the following information:
+Within 30 days after the end of the quarter in which any incidental expenditure incurred by any judge of the Supreme Court is reimbursed under subsection 27(1) of the `Judges Act`, the Registrar shall cause to be published in electronic form the following information:
 
-the judge's name;
+the total amount of the incidental expenditures reimbursed;
 
-a description of the incidental expenditure;
+the number of judges to whom a reimbursement was made;
 
-the date on which the incidental expenditure was incurred; and
+a detailed description of each class of incidental expenditures reimbursed;
 
-the total amount of the incidental expenditure.
+the number of judges who received a reimbursement for each class of incidental expenditures; and
+
+the applicable guidelines.
 
 ### Section 90.07
 
-Within 30 days after the end of the quarter in which any travel or other expenses incurred by a judge of the Supreme Court or his or her spouse or common-law partner are reimbursed under subsection 27(6) of the `Judges Act` as a representational allowance, the Registrar shall cause to be published in electronic form the following information:
+Within 30 days after the end of the quarter in which any travel or other expenses incurred by any judge of the Supreme Court or his or her spouse or common-law partner are reimbursed under subsection 27(6) of the `Judges Act` as a representational allowance, the Registrar shall cause to be published in electronic form the following information:
 
-the judge's name;
+the total amount of the expenses reimbursed;
 
-a description of the expenses;
+the number of judges to whom a reimbursement was made;
 
-the dates on which the expenses were incurred; and
+a detailed description of each class of expenses reimbursed;
 
-the total amount of the expenses.
+the number of judges who received a reimbursement for each class of expenses; and
+
+the applicable guidelines.
 
 ### Section 90.08
 
-Within 30 days after the end of the quarter in which any moving, transportation, travel or other expenses incurred by a judge of the Supreme Court are reimbursed under section 34 of the `Judges Act` as a travel allowance, the Registrar shall cause to be published in electronic form the following information:
+Within 30 days after the end of the quarter in which any moving, transportation, travel or other expenses incurred by any judge of the Supreme Court are reimbursed under section 34 of the `Judges Act` as a travel allowance, the Registrar shall cause to be published in electronic form the following information:
 
-the judge's name;
+the total amount of the expenses reimbursed;
 
-a description of the expenses;
+the number of judges to whom a reimbursement was made;
 
-the dates on which the expenses were incurred; and
+a detailed description of each class of expenses reimbursed;
 
-the total amount of the expenses.
+the number of judges who received a reimbursement for each class of expenses; and
+
+the applicable guidelines.
 
 ### Section 90.09
 
-Within 30 days after the end of the quarter in which any travel or other expenses incurred by a judge of the Supreme Court are reimbursed under section 41 of the `Judges Act` as a conference allowance, the Registrar shall cause to be published in electronic form the following information:
+Within 30 days after the end of the quarter in which any travel or other expenses incurred by any judge of the Supreme Court are reimbursed under section 41 of the `Judges Act` as a conference allowance, the Registrar shall cause to be published in electronic form the following information:
 
-the judge's name;
+the total amount of the expenses reimbursed;
 
-a description of the expenses;
+the number of judges to whom a reimbursement was made;
 
-the dates on which the expenses were incurred; and
+a detailed description of each class of expenses reimbursed;
 
-the total amount of the expenses.
+a description of the meeting, conference or sem­inar, its date, its location and the number of judges in attendance; and
+
+the applicable guidelines.
 
 
 #### Courts Administration Service
@@ -1396,58 +1395,72 @@ the total amount of the expenses for the hospitality activity.
 
 ### Section 90.18
 
-Within 30 days after the end of the quarter in which any incidental expenditure incurred by a judge is reimbursed under subsection 27(1) of the `Judges Act`, the Commissioner shall cause to be published in electronic form the following information:
+Within 30 days after the end of the quarter in which any incidental expenditure incurred by any judge of a particular court is reimbursed under subsection 27(1) of the `Judges Act`, the Commissioner shall cause to be published in electronic form the following information:
 
-the judge's name;
+the name of the court;
 
-a description of the incidental expenditure;
+the total amount of the incidental expenditures reimbursed for that court;
 
-the date on which the incidental expenditure was incurred; and
+the number of judges to whom a reimbursement was made;
 
-the total amount of the incidental expenditure.
+a detailed description of each class of incidental expenditures reimbursed;
+
+the number of judges who received a reimbursement for each class of incidental expenditures; and
+
+the applicable guidelines.
 
 ### Section 90.19
 
-Within 30 days after the end of the quarter in which any travel or other expenses incurred by a judge or his or her spouse or common-law partner are reimbursed under subsection 27(6) of the `Judges Act` as a representational allowance, the Commissioner shall cause to be published in electronic form the following information:
+Within 30 days after the end of the quarter in which any travel or other expenses incurred by any judge or his or her spouse or common-law partner are reimbursed under subsection 27(6) of the `Judges Act` as a representational allowance, the Commissioner shall cause to be published in electronic form the following information:
 
-the judge's name;
+the total amount of the expenses reimbursed;
 
-a description of the expenses;
+the number of judges to whom a reimbursement was made;
 
-the dates on which the expenses were incurred; and
+a detailed description of each class of expenses reimbursed;
 
-the total amount of the expenses.
+the number of judges who received a reimbursement for each class of expenses; and
+
+the applicable guidelines.
 
 ### Section 90.2
 
-Within 30 days after the end of the quarter in which any moving, transportation, travel or other expenses incurred by a judge are reimbursed under section 34 of the `Judges Act` as a travel allowance, the Commissioner shall cause to be published in electronic form the following information:
+Within 30 days after the end of the quarter in which any moving, transportation, travel or other expenses incurred by any judge of a particular court are reimbursed under section 34 of the `Judges Act` as a travel allowance, the Commissioner shall cause to be published in electronic form the following information:
 
-the judge's name;
+the name of the court;
 
-a description of the expenses;
+the total amount of the expenses reimbursed for that court;
 
-the dates on which the expenses were incurred; and
+the number of judges to whom a reimbursement was made;
 
-the total amount of the expenses.
+a detailed description of each class of expenses reimbursed;
+
+the number of judges who received a reimbursement for each class of expenses; and
+
+the applicable guidelines.
 
 ### Section 90.21
 
-Within 30 days after the end of the quarter in which any travel or other expenses incurred by a judge are reimbursed under section 41 of the `Judges Act` as a conference allowance, the Commissioner shall cause to be published in electronic form the following information:
+Within 30 days after the end of the quarter in which any travel or other expenses incurred by any judge of a particular court are reimbursed under section 41 of the `Judges Act` as a conference allowance, the Commissioner shall cause to be published in electronic form the following information:
 
-the judge's name;
+the name of the court;
 
-a description of the expenses;
+the total amount of the expenses reimbursed for that court;
 
-the dates on which the expenses were incurred; and
+the number of judges to whom a reimbursement was made;
 
-the total amount of the expenses.
+a detailed description of each class of expenses reimbursed;
+
+a description of the meeting, conference or sem­inar, its date, its location and the number of judges in attendance; and
+
+the applicable guidelines.
 
 
 #### Judicial Independence, Protected Information, Security of Persons, Infrastructure and Goods and Canadian Judicial Council
 
 ### Section 90.22
 
-Sections `90.03` to `90.09`, `90.11` to `90.13` and `90.15` to `90.21` do not apply to any of the information or any part of the information referred to in those sections if the Registrar, the Chief Administrator or the Commissioner, as applicable, determines that the publication could interfere with judicial independence.
+The Registrar, the Chief Administrator or the Commissioner, as applicable, may, on an exceptional basis, decline to cause to be published information or any part of the information described in any of sections 90.03 to 90.09, 90.11 to 90.13 and 90.15 to 90.21 if they determine that the publication, even in the aggregate, could interfere with judicial independence.
 
 ### Section 90.23
 
@@ -1460,10 +1473,6 @@ the publication could compromise the security of persons, infrastructure or good
 ### Section 90.24
 
 A determination by the Registrar, the Chief Administrator or the Commissioner that a publication could interfere with judicial independence or could compromise the security of persons, infrastructure or goods or that any information or part of any information is subject to solicitor-client privilege or the professional secrecy of advocates and notaries or to litigation privilege is final.
-
-### Section 90.25
-
-Sections `90.06` to `90.09` and `90.17` to `90.21` do not apply to any of the information or any part of the information referred to in those sections if it is in respect of an expenditure, expense or contract that is related to the activities of the Canadian Judicial Council.
 
 
 ### Terminological Changes
@@ -1531,6 +1540,8 @@ section 61.
 ### Section 41
 
 The English version of the Act is amended by replacing "this Act" with "this Part" in the following provisions:
+
+paragraphs 5(1)(b) and (d) and subsection 5(3);
 
 section 7;
 
@@ -1664,7 +1675,7 @@ Subsection 22.1(1) of the Act is replaced by the following:
 
 ### Section 22.1
 
-  **(1)** The Privacy Commissioner shall refuse to disclose any personal information requested under this Act that was obtained or created by the Commissioner or on the Commissioner's behalf in the course of an investigation conducted by, or under the authority of, the Commissioner or that was obtained by the Commissioner in the course of a consultation with the Information Commissioner under section 36.2 of the `Access to Information Act` or as the result of being notified by the head of a government institution that a complaint has been made under Part 1 of that Act.
+  **(1)** The Privacy Commissioner shall refuse to disclose any personal information requested under this Act that was obtained or created by the Commissioner or on the Commissioner's behalf in the course of an investigation conducted by, or under the authority of, the Commissioner or that was obtained by the Commissioner in the course of a consultation with the Information Commissioner under subsection 36(1.1) or section 36.2 of the `Access to Information Act`.
 
 ### Section 49
 
@@ -1711,7 +1722,7 @@ The Privacy Commissioner or any person acting on behalf or under the direction o
 
 ### Section 66.1
 
-For greater certainty, sections 63 and 66 apply if the Privacy Commissioner is consulted by the Information Commissioner under section 36.2 of the `Access to Information Act`.
+For greater certainty, sections 63 and 66 apply if the Privacy Commissioner is consulted by the Information Commissioner under subsection 36(1.1) or section 36.2 of the `Access to Information Act`.
 
 ### Section 54
 
@@ -1873,5 +1884,5 @@ in respect of the office of the Parliamentary Budget Officer, the Speaker of the
 
 ### Section 63
 
-Sections `12`, `14`, `16`, `17` and `19` to `21`, subsection `22`(2) and sections `23` to `27`, `29`, `30`, `36`, `38`, `48`, `52`, `53` and `60` come into force on the first anniversary of the day on which this Act receives royal assent.
+Sections 36 and 38 come into force on the first anniversary of the day on which this Act receives royal assent.
 
