@@ -61,6 +61,8 @@ Purpose
 
 Clarification
 
+Interpretation
+
 
 ## Principles
 
@@ -491,6 +493,8 @@ Limited application — transportation
 
 Exemption
 
+For greater certainty
+
 
 ### Miscellaneous
 
@@ -607,7 +611,7 @@ Whereas the `Canadian Charter of Rights and Freedoms` guarantees the right to th
 
 Whereas the `Canadian Human Rights Act` recognizes that all individuals should have an opportunity equal with other individuals to make for themselves the lives that they are able and wish to have and to have their needs accommodated without discrimination and, in particular, discrimination on the basis of disability;
 
-Whereas a proactive and systemic approach for identifying, removing and preventing barriers to accessibility complements the rights of persons with disabilities under the `Canadian Human Rights Act`;
+Whereas a proactive and systemic approach for identifying, removing and preventing barriers to accessibility without delay complements the rights of persons with disabilities under the `Canadian Human Rights Act`;
 
 Whereas Canada is a State Party to the United Nations Convention on the Rights of Persons with Disabilities and Canada has agreed to take appropriate measures respecting accessibility and to develop and monitor minimum accessibility standards;
 
@@ -670,7 +674,7 @@ The Governor in Council may, by order, designate a member of the Queen's Privy C
 
 ### Section 5
 
-The purpose of this Act is to benefit all persons, especially persons with disabilities, through the realization, within the purview of matters coming within the legislative authority of Parliament, of a Canada without barriers, particularly by the identification and removal of barriers, and the prevention of new barriers, in the following areas:
+The purpose of this Act is to benefit all persons, especially persons with disabilities, through the realization, within the purview of matters coming within the legislative authority of Parliament, of a Canada without barriers, on or before January 1, 2040, particularly by the identification and removal of barriers, and the prevention of new barriers, in the following areas:
 
 employment;
 
@@ -690,7 +694,17 @@ areas designated under regulations made under paragraph `117`(1)(b).
 
 ### Section 5.1
 
-The area of communication referred to in paragraph 5(c.1) does not include broadcasting as defined in subsection 2(1) of the `Broadcasting Act` or telecommunications as defined in subsection 2(1) of the `Telecommunications Act`.
+  **(1)** The area of communication referred to in paragraph 5(c.1)
+
+    includes the use of American Sign Language, Quebec Sign Language and Indigenous sign languages; and
+
+    does not include broadcasting as defined in subsection 2(1) of the `Broadcasting Act` or telecommunications as defined in subsection 2(1) of the `Telecommunications Act`.
+
+  **(2)** American Sign Language, Quebec Sign Language and Indigenous sign languages are recognized as the primary languages for communication by deaf persons in Canada.
+
+### Section 5.2
+
+Nothing in this Act, including its purpose of the realization of a Canada without barriers, should be construed as requiring or authorizing any delay in the removal of barriers or the implementation of measures to prevent new barriers as soon as is reasonably possible.
 
 
 ## Principles
@@ -701,13 +715,15 @@ This Act is to be carried out in recognition of, and in accordance with, the fol
 
 all persons must be treated with dignity regardless of their disabilities;
 
-all persons must have the same opportunity to make for themselves the lives that they are able and wish to have regardless of their disabilities or of how their disabilities interact with their personal and social characteristics;
+all persons must have the same opportunity to make for themselves the lives that they are able and wish to have regardless of their disabilities;
 
 all persons must have barrier-free access to full and equal participation in society, regardless of their disabilities;
 
 all persons must have meaningful options and be free to make their own choices, with support if they desire, regardless of their disabilities;
 
-laws, policies, programs, services and structures must take into account the disabilities of persons and the different ways that persons interact with their environments, and persons with disabilities must be involved in their development or design; and
+laws, policies, programs, services and structures must take into account the disabilities of persons, the different ways that persons interact with their environments and the multiple and intersecting forms of marginalization and discrimination faced by persons;
+
+persons with disabilities must be involved in the development and design of laws, policies, programs, services and structures; and
 
 the development and revision of accessibility standards and the making of regulations must be done with the objective of achieving the highest level of accessibility for persons with disabilities.
 
@@ -751,7 +767,7 @@ Nothing in this Act is to be construed as affecting the principle that certain p
 
 ### Section 11
 
-  **(1)** The Minister's mandate is the realization of a Canada without barriers.
+  **(1)** The Minister's mandate is the realization of a Canada without barriers on or before January 1, 2040.
 
   **(2)** In carrying out his or her mandate, the Minister may, among other things,
 
@@ -798,7 +814,7 @@ The Minister must make every reasonable effort to collaborate with provincial or
 
 ### Section 18
 
-The Standards Organization's mandate is to contribute to the realization of a Canada without barriers through, among other things,
+The Standards Organization's mandate is to contribute to the realization of a Canada without barriers, on or before January 1, 2040, through, among other things,
 
 the development and revision of accessibility standards;
 
@@ -1912,11 +1928,9 @@ any other information specified in regulations made under subsection `91`(1).
 
   **(3)** An employee, as defined in subsection 2(1) of the `Federal Public Sector Labour Relations Act`, that is an RCMP member is not entitled to file a complaint in respect of a contravention of any provision of regulations made under subsection `117`(1) if he or she is entitled to present an individual grievance in respect of that contravention under section 238.24 of that Act, determined without taking into account subsection 208(2) of that Act.
 
-  **(4)** A member, as defined in subsection 2(1) of the `Royal Canadian Mounted Police Act`, is not entitled to file a complaint in respect of a contravention of any provision of regulations made under subsection `117`(1) if he or she is entitled to present a grievance in respect of that contravention under subsection 31(1) of that Act, determined without taking into account subsection 31(1.1) of that Act.
+  **(4)** An individual is not entitled to file a complaint in respect of a contravention of any provision of regulations made under subsection `117`(1) if he or she is entitled to make a complaint in respect of that contravention under section 65 or 77 of the `Public Service Employment Act`.
 
-  **(5)** An individual is not entitled to file a complaint in respect of a contravention of any provision of regulations made under subsection `117`(1) if he or she is entitled to make a complaint in respect of that contravention under section 65 or 77 of the `Public Service Employment Act`.
-
-  **(6)** The Accessibility Commissioner must cause a written notice of a complaint to be served on the regulated entity against which the complaint was made.
+  **(5)** The Accessibility Commissioner must cause a written notice of a complaint to be served on the regulated entity against which the complaint was made.
 
 
 ### Investigation
@@ -2250,6 +2264,10 @@ the area referred to in paragraph 5(c.1) as it relates to the areas referred to 
 
   **(3)** The `Statutory Instruments Act` does not apply to an order made under paragraph (1)(a), but the order must be published in the `Canada Gazette` and the reasons for the making of the order must be made available to the public.
 
+### Section 121.1
+
+For greater certainty, nothing in any provision of this Act or the regulations limits a regulated entity's duty to accommodate under any other Act of Parliament.
+
 
 ### Miscellaneous
 
@@ -2485,7 +2503,7 @@ For greater certainty, nothing in this Act or in any regulations made under it i
 
     causes a notice of compliance or default to be served under subsection `140`(8).
 
-  **(3)** Whenever the Accessibility Commissioner causes a parliamentary entity to be served with a notice under subsection `94`(6), `96`(1), `100`(2), `101`(2) or `103`(3), the Accessibility Commissioner must provide a copy to the Speaker of the Senate or the Speaker of the House of Commons, or both.
+  **(3)** Whenever the Accessibility Commissioner causes a parliamentary entity to be served with a notice under subsection `94`(5), `96`(1), `100`(2), `101`(2) or `103`(3), the Accessibility Commissioner must provide a copy to the Speaker of the Senate or the Speaker of the House of Commons, or both.
 
 ### Section 144
 
@@ -2816,33 +2834,25 @@ L'Office et la Commission canadienne des droits de la personne sont tenus de vei
 
 ### Section 172
 
-  **(1)** Subsection 172(1) of the Act is replaced by the following:
+Section 172 of the Act is replaced by the following:
 
 ### Section 172
 
-      **(1)** The Agency may, on application, inquire into a matter in relation to which a regulation could be made under subsection 170(1), regardless of whether such a regulation has been made, in order to determine whether there is an undue barrier to the mobility of persons with disabilities.
+  **(1)** The Agency may, on application, inquire into a matter in relation to which a regulation could be made under subsection 170(1), regardless of whether such a regulation has been made, in order to determine whether there is an undue barrier to the mobility of persons with disabilities.
 
-  **(2)** Subsection 172(2) of the English version of the Act is replaced by the following:
+  **(2)** On determining that there is an undue barrier to the mobility of persons with disabilities, the Agency may do one or more of the following:
 
-    **(2)** If the Agency is satisfied that regulations made under subsection 170(1) that are applicable in relation to a matter have been complied with or have not been contravened, the Agency shall determine that there is no undue barrier to the mobility of persons with disabilities.
+    require the taking of appropriate corrective measures;
 
-  **(3)** Subsection 172(3) of the Act is replaced by the following:
+    direct that compensation be paid for any expense incurred by a person with a disability arising out of the barrier, including for any costs of obtaining alternative goods, services or accommodation;
 
-    **(3)** On determining that there is an undue barrier to the mobility of persons with disabilities, the Agency may do one or more of the following:
+    direct that compensation be paid for any wages that a person with a disability was deprived of as a result of the barrier;
 
-      require the taking of appropriate corrective measures;
+    direct that compensation be paid up to a maximum amount of — subject to the annual adjustments made under section 172.2 — $20,000, for any pain and suffering experienced by a person with a disability arising out of the barrier;
 
-      direct that compensation be paid for any expense incurred by a person with a disability arising out of the barrier, including for any costs of obtaining alternative goods, services or accommodation;
+    direct that compensation be paid up to a maximum amount of — subject to the annual adjustments made under section 172.2 — $20,000, if the Agency determines that the barrier is the result of a wilful or reckless practice.
 
-      direct that compensation be paid for any wages that a person with a disability was deprived of as a result of the barrier;
-
-      direct that compensation be paid up to a maximum amount of — subject to the annual adjustments made under section 172.2 — $20,000, for any pain and suffering experienced by a person with a disability arising out of the barrier;
-
-      direct that compensation be paid up to a maximum amount of — subject to the annual adjustments made under section 172.2 — $20,000, if the Agency determines that the barrier is the result of a wilful or reckless practice.
-
-### Section 173
-
-The Act is amended by adding the following after section 172:
+  **(3)** If the Agency is satisfied that regulations made under subsection 170(1) that are applicable in relation to a matter have been complied with or have not been contravened, the Agency may determine that there is an undue barrier in relation to that matter but if it does so, it may only require the taking of appropriate corrective measures.
 
 ### Section 172.1
 
@@ -2862,7 +2872,7 @@ The Act is amended by adding the following after section 172:
 
 ### Section 172.2
 
-  **(1)** For the purpose of paragraphs 172(3)(d) and (e) and 172.1(2)(d) and (e), the maximum amount shall be adjusted annually so that in any calendar year following the one during which this section comes into force it is equivalent to the product of
+  **(1)** For the purpose of paragraphs 172(2)(d) and (e) and 172.1(2)(d) and (e), the maximum amount shall be adjusted annually so that in any calendar year following the one during which this section comes into force it is equivalent to the product of
 
     the amount that would have been the maximum amount for that following calendar year if no adjustment had been made under this section with respect to that year, and
 
@@ -2872,7 +2882,7 @@ The Act is amended by adding the following after section 172:
 
   **(3)** When a maximum amount is adjusted in accordance with this section, the Agency shall publish the maximum amount as so adjusted as soon as it is determined.
 
-  **(4)** A direction to pay compensation under any of paragraphs 172(3)(b) and (c) and 172.1(2)(b) and (c) may include an award of interest at a rate and for a period that the Agency considers appropriate.
+  **(4)** A direction to pay compensation under any of paragraphs 172(2)(b) and (c) and 172.1(2)(b) and (c) may include an award of interest at a rate and for a period that the Agency considers appropriate.
 
 ### Section 172.3
 
@@ -2882,13 +2892,13 @@ The Agency may on its own initiative, with the Minister's approval and on any te
 
 The Agency may establish a participant funding program to facilitate the participation of persons with disabilities in hearings that are held for the purposes of inquiries made under section 172, 172.1 or 172.3.
 
-### Section 174
+### Section 173
 
 Section 177 of the Act is amended by adding the following after subsection (2.2):
 
 **(3)** The contravention of any provision of any regulation made under subsection 170(1) — or the contravention of any of subsections `60`(1) to (4) and (7), `61`(1) to (3) and `62`(1) to (3) and (6) of the `Accessible Canada Act` — may be proceeded with as a violation in accordance with sections 179 and 180. The maximum amount payable for each violation is $250,000.
 
-### Section 175
+### Section 174
 
   **(1)** The portion of subsection 178(1) of the Act before paragraph (a) is replaced by the following:
 
@@ -2902,7 +2912,7 @@ Section 177 of the Act is amended by adding the following after subsection (2.2)
 
     **(5)** Any person from whom documents or data are requested under subsection (4) shall provide all reasonable assistance in their power to enable the enforcement officer making the request to carry out the enforcement officer's duties and shall furnish any information that the enforcement officer reasonably requires for the purposes of this Act or any of sections `60` to `62` of the `Accessible Canada Act`.
 
-### Section 176
+### Section 175
 
 The Act is amended by adding the following after section 178:
 
@@ -2944,7 +2954,7 @@ The Act is amended by adding the following after section 178:
 
   **(6)** The owner or other person in charge of a place entered by an enforcement officer for the purpose referred to in subsection (1) and every individual found in the place must give the enforcement officer all reasonable assistance in the individual's power and provide the enforcement officer with any information that the enforcement officer may reasonably require.
 
-### Section 177
+### Section 176
 
 Subsection 179(1) of the Act is replaced by the following:
 
@@ -2952,7 +2962,7 @@ Subsection 179(1) of the Act is replaced by the following:
 
   **(1)** Every person who contravenes a provision, requirement or condition designated under section 177 commits a violation and is liable to a penalty fixed under that section or, in the case of a contravention referred to in subsection 177(3), either a penalty fixed under that subsection or a warning under subparagraph 180(b)(i).
 
-### Section 178
+### Section 177
 
 Sections 180 to 180.2 of the Act are replaced by the following:
 
@@ -2988,7 +2998,7 @@ sets out the particulars concerning the time for paying and the manner of paying
 
 If a person who is served with a notice of violation that sets out a penalty pays the amount of the penalty — or, in the case of a person to whom subsection 180.1(3) applies, the lesser amount — specified in the notice in accordance with the particulars set out in it, the Minister shall accept the amount in complete satisfaction of the amount of the penalty and no further proceedings under this Part shall be taken against the person in respect of the contravention.
 
-### Section 179
+### Section 178
 
 Subsection 180.3(1) of the Act is replaced by the following:
 
@@ -2996,11 +3006,11 @@ Subsection 180.3(1) of the Act is replaced by the following:
 
   **(1)** A person who is served with a notice of violation that sets out a penalty and who wishes to have the facts of the alleged contravention or the amount of the penalty reviewed shall, on or before the date specified in the notice or within any further time that the Tribunal on application may allow, file a written request for a review with the Tribunal at the address set out in the notice.
 
-### Section 180
+### Section 179
 
 Section 180.4 of the Act is repealed.
 
-### Section 181
+### Section 180
 
 The Act is amended by adding the following after section 180.6:
 
@@ -3072,7 +3082,7 @@ The Act is amended by adding the following after section 180.6:
 
   **(4)** If the Agency refuses a person's request under paragraph 180.1(3)(c) to enter into a compliance agreement, and the person does not pay the amount of the penalty specified in the notice of violation within the time and in the manner required by subsection 180.63(1), the Agency may obtain from the Tribunal a certificate in the form that may be established by the Governor in Council that indicates the amount of the penalty specified in that notice.
 
-### Section 182
+### Section 181
 
 Subsection 180.7(1) of the Act is replaced by the following:
 
@@ -3080,7 +3090,7 @@ Subsection 180.7(1) of the Act is replaced by the following:
 
   **(1)** If the time limit for the payment of the amount of a penalty specified in a notice of violation has expired, the time limit for the payment of an amount specified in a notice of default has expired, the time limit specified for payment of an amount under subsection 180.63(1) has expired, the time limit for the request for a review has expired, the time limit for an appeal has expired, or an appeal has been disposed of, as the case may be, on production in any superior court, a certificate issued under paragraph 180.5(b), subsection 180.6(4) or section 180.64 shall be registered in the court. When it is registered, a certificate has the same force and effect, and proceedings may be taken in connection with it, as if it were a judgment in that court obtained by Her Majesty in right of Canada against the person named in the certificate for a debt of the amount set out in the certificate.
 
-### Section 183
+### Section 182
 
 Subsection 180.8(1) of the Act is replaced by the following:
 
@@ -3088,7 +3098,7 @@ Subsection 180.8(1) of the Act is replaced by the following:
 
   **(1)** In the case of a violation referred to in subsection 177(1) or (3), every reference to the "Minister" in sections 180.3 to 180.7 shall be read as a reference to the Agency or to a person designated by the Agency.
 
-### Section 184
+### Section 183
 
 The Act is amended by adding the following after section 181:
 
@@ -3116,7 +3126,7 @@ The Agency may publish information about any violation referred to in section 17
 
 ### `Federal Public Sector Labour Relations Act`
 
-### Section 185
+### Section 184
 
 The `Federal Public Sector Labour Relations Act` is amended by adding the following after section 209:
 
@@ -3124,7 +3134,7 @@ The `Federal Public Sector Labour Relations Act` is amended by adding the follow
 
 In addition to his or her rights under section 209, an employee, other than an employee who occupies a managerial or confidential position or who is not otherwise represented by a bargaining agent, may refer to adjudication an individual grievance that has been presented up to and including the final level in the grievance process and that has not been dealt with to the employee's satisfaction if the employee has suffered physical or psychological harm, property damage or economic loss as the result of — or has otherwise been adversely affected by — the contravention of a provision of regulations made under subsection `117`(1) of the `Accessible Canada Act`, and the grievance is related to that contravention.
 
-### Section 186
+### Section 185
 
 The Act is amended by adding the following before section 211:
 
@@ -3134,7 +3144,7 @@ The Act is amended by adding the following before section 211:
 
   **(2)** The Accessibility Commissioner has standing in adjudication proceedings for the purpose of making submissions regarding an issue referred to in subsection (1).
 
-### Section 187
+### Section 186
 
 The portion of section 211 of the Act before paragraph (a) is replaced by the following:
 
@@ -3142,7 +3152,7 @@ The portion of section 211 of the Act before paragraph (a) is replaced by the fo
 
 Nothing in section 209 or 209.1 is to be construed or applied as permitting the referral to adjudication of an individual grievance with respect to
 
-### Section 188
+### Section 187
 
 Section 214 of the Act is replaced by the following:
 
@@ -3150,7 +3160,7 @@ Section 214 of the Act is replaced by the following:
 
 If an individual grievance has been presented up to and including the final level in the grievance process and it is not one that under section 209, 209.1 or 238.25 may be referred to adjudication, the decision on the grievance taken at the final level in the grievance process is final and binding for all purposes of this Act and no further action under this Act may be taken on it.
 
-### Section 189
+### Section 188
 
 The Act is amended by adding the following before section 218:
 
@@ -3160,7 +3170,7 @@ The Act is amended by adding the following before section 218:
 
   **(2)** The Accessibility Commissioner has standing in adjudication proceedings for the purpose of making submissions regarding an issue referred to in subsection (1).
 
-### Section 190
+### Section 189
 
 The Act is amended by adding the following before section 223:
 
@@ -3170,7 +3180,7 @@ The Act is amended by adding the following before section 223:
 
   **(2)** The Accessibility Commissioner has standing in adjudication proceedings for the purpose of making submissions regarding an issue referred to in subsection (1).
 
-### Section 191
+### Section 190
 
   **(1)** Subsection 226(2) of the Act is amended by adding the following after paragraph (a):
 
@@ -3180,19 +3190,19 @@ The Act is amended by adding the following before section 223:
 
     give relief in accordance with section `102` of the `Accessible Canada Act`; and
 
-### Section 192
+### Section 191
 
 Subsection 237(1) of the Act is amended by adding the following after paragraph (f):
 
 the manner of giving notice of an issue to the Accessibility Commissioner under this Part;
 
-### Section 193
+### Section 192
 
 Subsection 238.02(2) of the Act is replaced by the following:
 
 **(2)** Without limiting the generality of subsection (1), section 58, subsections 208(1) and 209(1) and (2) and section 209.1 are inconsistent with this Part.
 
-### Section 194
+### Section 193
 
 Section 238.25 of the Act is amended by adding the following after subsection (2):
 
@@ -3201,7 +3211,7 @@ Section 238.25 of the Act is amended by adding the following after subsection (2
 
 ### `Public Service Employment Act`
 
-### Section 195
+### Section 194
 
 Section 65 of the `Public Service Employment Act` is amended by adding the following after subsection (8):
 
@@ -3213,7 +3223,7 @@ Section 65 of the `Public Service Employment Act` is amended by adding the follo
 
 **(12)** Corrective action may include an order for relief in accordance with section `102` of the `Accessible Canada Act`.
 
-### Section 196
+### Section 195
 
 The Act is amended by adding the following after section 78:
 
@@ -3221,13 +3231,13 @@ The Act is amended by adding the following after section 78:
 
 If a complaint raises an issue involving the contravention of a provision of regulations made under subsection `117`(1) of the `Accessible Canada Act`, the complainant shall, in accordance with the regulations of the Board, notify the Accessibility Commissioner, as defined in section `2` of that Act.
 
-### Section 197
+### Section 196
 
 Section 79 of the Act is amended by adding the following after subsection (2):
 
 **(3)** If the Accessibility Commissioner is notified of an issue under section 78.1, he or she may make submissions to the Board with respect to that issue.
 
-### Section 198
+### Section 197
 
 The Act is amended by adding the following after section 80:
 
@@ -3235,13 +3245,13 @@ The Act is amended by adding the following after section 80:
 
 In considering whether a complaint under section 77 is substantiated, the Board may interpret and apply the `Accessible Canada Act`.
 
-### Section 199
+### Section 198
 
 Section 81 of the Act is amended by adding the following after subsection (2):
 
 **(3)** Corrective action taken under subsection (1) may include an order for relief in accordance with section `102` of the `Accessible Canada Act`.
 
-### Section 200
+### Section 199
 
 Section 109 of the Act is amended by striking out "and" at the end of paragraph (d) and by adding the following after that paragraph:
 
@@ -3256,22 +3266,22 @@ the manner of giving notice of an issue to the Accessibility Commissioner under 
 
 #### Access to Information Act
 
-### Section 201
+### Section 200
 
 Schedule I to the `Access to Information Act` is amended by adding the following in alphabetical order under the heading "Other Government Institutions":
 
 
 #### Financial Administration Act
 
-### Section 202
+### Section 201
 
 Schedule II to the `Financial Administration Act` is amended by adding the following in alphabetical order:
 
-### Section 203
+### Section 202
 
 Schedule IV to the Act is amended by adding the following in alphabetical order:
 
-### Section 204
+### Section 203
 
 Part II of Schedule VI to the Act is amended by adding, in alphabetical order, in column I, a reference to
 
@@ -3280,14 +3290,14 @@ and a corresponding reference in column II to "Chief Executive Officer".
 
 #### Privacy Act
 
-### Section 205
+### Section 204
 
 The schedule to the `Privacy Act` is amended by adding the following in alphabetical order under the heading "Other Government Institutions":
 
 
 ### Coordinating Amendments
 
-### Section 206
+### Section 205
 
   **(1)** In this section, **other Act** means the `Economic Action Plan 2014 Act, No. 1`.
 
@@ -3302,7 +3312,7 @@ The schedule to the `Privacy Act` is amended by adding the following in alphabet
 
 ## Coming into Force
 
-### Section 207
+### Section 206
 
-The provisions of this Act, other than section `206`, come into force on a day to be fixed by order of the Governor in Council.
+The provisions of this Act, other than section `205`, come into force on a day to be fixed by order of the Governor in Council.
 
