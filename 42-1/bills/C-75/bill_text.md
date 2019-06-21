@@ -12,13 +12,13 @@ abolish peremptory challenges of jurors, modify the process of challenging a jur
 
 increase the maximum term of imprisonment for repeat offences involving intimate partner violence and provide that abuse of an intimate partner is an aggravating factor on sentencing;
 
-restrict the availability of a preliminary inquiry to offences punishable by imprisonment for life and strengthen the justice's powers to limit the issues explored and witnesses to be heard at the inquiry;
+restrict the availability of a preliminary inquiry to offences punishable by imprisonment for a term of 14 years or more and strengthen the justice's powers to limit the issues explored and witnesses to be heard at the inquiry;
 
 hybridize most indictable offences punishable by a maximum penalty of 10 years or less, increase the default maximum penalty to two years less a day of imprisonment for summary conviction offences and extend the limitation period for summary conviction offences to 12 months;
 
 remove the requirement for judicial endorsement for the execution of certain out-of-province warrants and authorizations, expand judicial case management powers, allow receiving routine police evidence in writing, consolidate provisions relating to the powers of the Attorney General and allow increased use of technology to facilitate remote attendance by any person in a proceeding;
 
-allow the court to exempt an offender from the requirement to pay a victim surcharge if the offender satisfies the court that the payment would cause the offender undue hardship, provide the court with guidance as to what constitutes undue hardship, provide that a victim surcharge is to be paid for each offence, with an exception for certain administration of justice offences if the total amount of surcharges imposed on an offender for those types of offences would be disproportionate in the circumstances, require courts to provide reasons for granting any exception for certain administration of justice offences or any exemption from the requirement to pay a victim surcharge and clarify that the amendments described in this paragraph apply to any offender who is sentenced after the day on which they come into force, regardless of whether or not the offence was committed before that day; and
+re-enact the victim surcharge regime and provide the court with the discretion to waive a victim surcharge if the court is satisfied that the victim surcharge would cause the offender undue hardship or would be disproportionate to the gravity of the offence or the degree of responsibility of the offender; and
 
 remove passages and repeal provisions that have been ruled unconstitutional by the Supreme Court of Canada, repeal section 159 of the Act and provide that no person shall be convicted of any historical offence of a sexual nature unless the act that constitutes the offence would constitute an offence under the `Criminal Code` if it were committed on the day on which the charge was laid.
 
@@ -2130,6 +2130,170 @@ If an authorization is given under section 184.2, 184.3, 186 or 188 or a warrant
 
 Section 487.03 of the Act is repealed.
 
+### Section 196.1
+
+  **(1)** Subparagraph (c)(i) of the definition **secondary designated offence** in section 487.04 of the Act is replaced by the following:
+
+    subsection 52(1) (sabotage),
+
+    subsection 57(3) (possession of a forged passport),
+
+    section 62 (offences in relation to military forces),
+
+    subsection 65(2) (riot — concealing identity),
+
+    subsection 70(3) (contravening order made by governor in council),
+
+    subsection 82(1) (explosives, possession without lawful excuse),
+
+    subsection 121(1) (frauds on the government),
+
+    subsection 121(2) (contractor subscribing to election fund),
+
+    section 122 (breach of trust by public officer),
+
+    subsection 123(1) (municipal corruption),
+
+    subsection 123(2) (influencing municipal official),
+
+    section 124 (selling or purchasing office),
+
+    section 125 (influencing or negotiating appointments or dealings in offices),
+
+    subsection 139(2) (obstructing justice),
+
+    section 142 (corruptly taking reward for recovery of goods),
+
+    section 144 (prison breach),
+
+    section 145 (escape and being at large without excuse),
+
+  **(2)** Subparagraph (c)(iv) of the definition **secondary designated offence** in section 487.04 of the Act is replaced by the following:
+
+    section 182 (dead body — neglect to perform duty, improper or indecent interference with),
+
+    section 184 (interception of private com­munication),
+
+    section 184.5 (interception of radio-based telephone communications),
+
+    section 221 (cause bodily harm by criminal negligence),
+
+    section 237 (infanticide),
+
+    section 242 (neglect to obtain assistance in child-birth),
+
+    subsection 247(1) (traps likely to cause bodily harm),
+
+    subsection 247(2) (traps — causing bodily harm),
+
+    subsection 247(3) (traps — in a place kept or used for committing other indictable offence),
+
+    section 262 (impeding attempt to save life),
+
+  **(3)** Paragraph (c) of the definition **secondary desig­nated offence** in section 487.04 of the Act is amended by adding the following after subparagraph (viii):
+
+    section 280 (abduction of person under 16),
+
+    section 281 (abduction of person under 14),
+
+  **(4)** Paragraph (c) of the definition **secondary desig­nated offence** in section 487.04 of the Act is amended by adding the following after subparagraph (viii.1):
+
+    section 291 (bigamy),
+
+    section 292 (procuring feigned marriage),
+
+    section 293 (polygamy),
+
+    section 293.1 (forced marriage),
+
+    section 293.2 (marriage under age of 16 years),
+
+    section 300 (publishing defamatory libel known to be false),
+
+    section 302 (extortion by libel),
+
+  **(5)** Paragraph (c) of the definition **secondary desig­nated offence** in section 487.04 of the Act is amended by adding the following after subparagraph (viii.2):
+
+    paragraph 334(a) (theft over $5,000 or testamentary instrument),
+
+    section 338 (fraudulently taking cattle or defacing brand),
+
+    subsection 339(1) (take possession of drift timber, etc.),
+
+    section 340 (destroying documents of title),
+
+  **(6)** Paragraph (c) of the definition **secondary desig­nated offence** in section 487.04 of the Act is amended by adding the following after subparagraph (x):
+
+    subsection 351(2) (disguise with intent),
+
+    paragraph 355(a) (possession of property over $5,000 or testamentary instrument),
+
+    section 357 (bring into Canada property obtained by crime),
+
+    paragraph 362(2)(a) (false pretence, prop­erty over $5,000 or testamentary instrument),
+
+    subsection 362(3) (obtain credit, etc. by false pretence),
+
+    section 363 (obtain execution of valuable security by fraud),
+
+    subsection 377(1) (damaging documents),
+
+    section 378 (offences in relation to registers),
+
+    section 382 (manipulation of stock exchange),
+
+    subsection 382.1(1) (prohibited insider trading),
+
+    section 383 (gaming in stocks or merchandise),
+
+    section 384 (broker reducing stock by selling his own account),
+
+    section 386 (fraudulent registration of title),
+
+    section 394 (fraud in relation to minerals),
+
+    section 394.1 (possession of stolen min­erals),
+
+    section 396 (offences in relation to mines),
+
+    section 397 (falsification of books and documents),
+
+    section 399 (false return by public officer),
+
+    section 400 (false prospectus),
+
+    section 405 (acknowledging instrument in false name),
+
+  **(7)** Paragraph (c) of the definition **secondary desig­nated offence** in section 487.04 of the Act is amended by adding the following after subparagraph (xi):
+
+    section 424 (threat against an internationally protected person),
+
+    section 424.1 (threat against United Nations or associated personnel),
+
+    section 426 (secret commissions),
+
+    section 435 (arson for fraudulent purpose),
+
+    section 436 (arson by negligence),
+
+    section 436.1 (possession incendiary mat­erial),
+
+    subsection 438(1) (interfering with saving of a wrecked vessel),
+
+    subsection 439(2) (interfering with a mar­ine signal),
+
+    section 441 (occupant injuring building),
+
+    section 443 (interfering with international boundary marks, etc.),
+
+    section 451 (having clippings, etc.),
+
+    section 460 (advertising and dealing in counterfeit money),
+
+    subparagraphs 465(1)(b)(i) and (ii) (conspiracy to prosecute),
+
+    section 753.3 (breach of long-term super­vision).
+
 ### Section 197
 
 Section 487.05 of the Act is amended by adding the following after subsection (3):
@@ -2786,6 +2950,12 @@ Section 524 of the Act and the heading before it are replaced by the following:
 
     **(6)** Sections 495.1, 512.3, 517 to 519 and 524 apply, with any modifications that the circumstances require, in respect of any proceedings under this section.
 
+    **(7)** In this section, **judge**, in the Province of Quebec,
+
+      in the case where the order that the accused be detained in custody has been made by a judge of the superior court of criminal jurisdiction of the Province of Quebec, has the same meaning as in paragraph (b) of the definition judge in section 493; and
+
+      in any other case, means a judge of the superior court of criminal jurisdiction of the province, a judge of the Court of Quebec or three judges of the Court of Quebec.
+
 ### Section 236
 
 Section 526 of the Act is replaced by the following:
@@ -2814,15 +2984,15 @@ Section 535 of the Act is replaced by the following:
 
 ### Section 535
 
-If an accused who is charged with an indictable offence that is punishable by imprisonment for life is before a justice and a request has been made for a preliminary inquiry under subsection 536(4) or 536.1(3), the justice shall, in accordance with this Part, inquire into the charge and any other indictable offence, in respect of the same transaction, founded on the facts that are disclosed by the evidence taken in accordance with this Part.
+If an accused who is charged with an indictable offence that is punishable by 14 years or more of imprisonment is before a justice and a request has been made for a preliminary inquiry under subsection 536(4) or 536.1(3), the justice shall, in accordance with this Part, inquire into the charge and any other indictable offence, in respect of the same transaction, founded on the facts that are disclosed by the evidence taken in accordance with this Part.
 
 ### Section 239
 
   **(1)** Subsection 536(2) of the Act is replaced by the following:
 
-    **(2)** If an accused is before a justice, charged with an indictable offence that is punishable by imprisonment for life, other than an offence listed in section 469, the justice shall, after the information has been read to the accused, put the accused to an election in the following words:
+    **(2)** If an accused is before a justice, charged with an indictable offence that is punishable by 14 years or more of imprisonment, other than an offence listed in section 469, the justice shall, after the information has been read to the accused, put the accused to an election in the following words:
 
-    **(2.1)** If an accused is before a justice, charged with an indictable offence — other than an offence that is punishable by imprisonment for life, an offence listed in section 469 that is not punishable by imprisonment for life or an offence over which a provincial court judge has absolute jurisdiction under section 553 —, the justice shall, after the information has been read to the accused, put the accused to an election in the following words:
+    **(2.1)** If an accused is before a justice, charged with an indictable offence — other than an offence that is punishable by 14 years or more of imprisonment, an offence listed in section 469 that is not punishable by 14 years or more of imprisonment or an offence over which a provincial court judge has absolute jurisdiction under section 553 —, the justice shall, after the information has been read to the accused, put the accused to an election in the following words:
 
   **(2)** Paragraph 536(3)(a) of the French version of the Act is replaced by the following:
 
@@ -2830,7 +3000,7 @@ If an accused who is charged with an indictable offence that is punishable by im
 
   **(3)** Subsection 536(4) of the Act is replaced by the following:
 
-    **(4)** If an accused referred to in subsection (2) elects to be tried by a judge without a jury or by a court composed of a judge and jury or does not elect when put to the election or is deemed under paragraph 565(1)(a) to have elected to be tried by a court composed of a judge and jury, or if an accused is charged with an offence listed in section 469 that is punishable by imprisonment for life, the justice shall, subject to section 577, on the request of the accused or the prosecutor made at that time or within the period fixed by rules of court made under section 482 or 482.1 or, if there are no such rules, by the justice, hold a preliminary inquiry into the charge.
+    **(4)** If an accused referred to in subsection (2) elects to be tried by a judge without a jury or by a court composed of a judge and jury or does not elect when put to the election or is deemed under paragraph 565(1)(a) to have elected to be tried by a court composed of a judge and jury, or if an accused is charged with an offence listed in section 469 that is punishable by 14 years or more of imprisonment, the justice shall, subject to section 577, on the request of the accused or the prosecutor made at that time or within the period fixed by rules of court made under section 482 or 482.1 or, if there are no such rules, by the justice, hold a preliminary inquiry into the charge.
 
   **(4)** The portion of subsection 536(4.1) of the Act before paragraph (a) is replaced by the following:
 
@@ -2838,7 +3008,7 @@ If an accused who is charged with an indictable offence that is punishable by im
 
   **(5)** Section 536 of the Act is amended by adding the following after subsection (4.1):
 
-    **(4.11)** If an accused is before a justice, charged with an offence listed in section 469 that is punishable by imprisonment for life, the justice shall endorse on the information and, if the accused is in custody, on the warrant of remand, a statement showing whether the accused or the prosecutor has requested that a preliminary inquiry be held.
+    **(4.11)** If an accused is before a justice, charged with an offence listed in section 469 that is punishable by 14 years or more of imprisonment, the justice shall endorse on the information and, if the accused is in custody, on the warrant of remand, a statement showing whether the accused or the prosecutor has requested that a preliminary inquiry be held.
 
     **(4.12)** If an accused referred to in subsection (2.1) elects to be tried by a judge without a jury or by a court composed of a judge and jury or does not elect when put to the election or is deemed under paragraph 565(1)(a) to have elected to be tried by a court composed of a judge and jury, the justice shall endorse on the information and, if the accused is in custody, on the warrant of remand, a statement showing the nature of the election or deemed election of the accused or that the accused did not elect, as the case may be.
 
@@ -2850,11 +3020,11 @@ If an accused who is charged with an indictable offence that is punishable by im
 
   **(1)** Subsections 536.1(2) and (3) of the Act are replaced by the following:
 
-    **(2)** If an accused is before a judge or justice of the peace, charged with an indictable offence that is punishable by imprisonment for life, other than an offence mentioned in section 469, the judge or justice of the peace shall, after the information has been read to the accused, put the accused to an election in the following words:
+    **(2)** If an accused is before a judge or justice of the peace, charged with an indictable offence that is punishable by 14 years or more of imprisonment, other than an offence mentioned in section 469, the judge or justice of the peace shall, after the information has been read to the accused, put the accused to an election in the following words:
 
-    **(2.1)** If an accused is before a judge or justice of the peace, charged with an indictable offence — other than an offence that is punishable by imprisonment for life, an offence listed in section 469 that is not punishable by imprisonment for life or an offence mentioned in section 553 —, the judge or justice of the peace shall, after the information has been read to the accused, put the accused to an election in the following words:
+    **(2.1)** If an accused is before a judge or justice of the peace, charged with an indictable offence — other than an offence that is punishable by 14 years or more of im­prisonment, an offence listed in section 469 that is not punishable by 14 years or more of imprisonment or an offence mentioned in section 553 —, the judge or justice of the peace shall, after the information has been read to the accused, put the accused to an election in the following words:
 
-    **(3)** If an accused referred to in subsection (2) elects to be tried by a judge without a jury or by a court composed of a judge and jury or does not elect when put to the election or is deemed under paragraph 565(1)(a) to have elected to be tried by a court composed of a judge and jury or if an accused is charged with an offence listed in section 469 that is punishable by imprisonment for life, the justice or judge shall, subject to section 577, on the request of the accused or the prosecutor made at that time or within the period fixed by rules of court made under section 482 or 482.1 or, if there are no such rules, by the judge or justice, hold a preliminary inquiry into the charge.
+    **(3)** If an accused referred to in subsection (2) elects to be tried by a judge without a jury or by a court composed of a judge and jury or does not elect when put to the election or is deemed under paragraph 565(1)(a) to have elected to be tried by a court composed of a judge and jury or if an accused is charged with an offence listed in section 469 that is punishable by 14 years or more of imprisonment, the justice or judge shall, subject to section 577, on the request of the accused or the prosecutor made at that time or within the period fixed by rules of court made under section 482 or 482.1 or, if there are no such rules, by the judge or justice, hold a preliminary inquiry into the charge.
 
   **(2)** The portion of subsection 536.1(4) of the Act before paragraph (a) is replaced by the following:
 
@@ -2862,7 +3032,7 @@ If an accused who is charged with an indictable offence that is punishable by im
 
   **(3)** Section 536.1 of the Act is amended by adding the following after subsection (4):
 
-    **(4.01)** If an accused is before a judge or justice of the peace, charged with an offence listed in section 469 that is punishable by imprisonment for life, the justice or judge shall endorse on the information and, if the accused is in custody, on the warrant of remand, a statement showing whether the accused or the prosecutor has requested that a preliminary inquiry be held.
+    **(4.01)** If an accused is before a judge or justice of the peace, charged with an offence listed in section 469 that is punishable by 14 years or more of imprisonment, the justice or judge shall endorse on the information and, if the accused is in custody, on the warrant of remand, a statement showing whether the accused or the prosecutor has requested that a preliminary inquiry be held.
 
     **(4.02)** If an accused referred to in subsection (2.1) elects to be tried by a judge without a jury or by a court composed of a judge and jury or does not elect when put to the election or is deemed under paragraph 565(1)(a) to have elected to be tried by a court composed of a judge and jury, the justice shall endorse on the information and, if the accused is in custody, on the warrant of remand, a statement showing the nature of the election or deemed election of the accused or that the accused did not elect, as the case may be.
 
@@ -3000,7 +3170,7 @@ Subparagraph 553(c)(vi) of the Act is repealed.
 
 Section 555.1 of the Act is replaced by the following:
 
-### Section 553.1
+### Section 555.1
 
   **(1)** If in any criminal proceedings under this Part an accused is before a judge of the Nunavut Court of Justice and it appears to the judge that for any reason the charge should be prosecuted by indictment, the judge may, at any time before the accused has entered a defence, decide not to adjudicate and shall then inform the accused of the decision.
 
@@ -3324,7 +3494,7 @@ Subsection 672.5(13) of the Act is replaced by the following:
 
 Paragraph (b) of the definition **sentence** in section 673 of the Act is replaced by the following:
 
-an order made under subsection 109(1) or 110(1), section 161, subsection 164.2(1) or 194(1), section 259, 261 or 462.37, subsection 491.1(2), 730(1) or 737(1.1), (3) or (5) or section 738, 739, 742.1, 742.3, 743.6, 745.4 or 745.5,
+an order made under subsection 109(1) or 110(1), section 161, subsection 164.2(1) or 194(1), section 259, 261 or 462.37, subsection 491.1(2), 730(1) or 737(2.1) or (3) or section 738, 739, 742.1, 742.3, 743.6, 745.4 or 745.5,
 
 ### Section 279
 
@@ -3601,11 +3771,27 @@ Despite anything in this Act, if an accused who is in prison does not have acces
 
   **(3)** The judge or justice may, at any time, cease the use of the technological means referred to in subsection (1) and take any measure that the judge or justice considers appropriate in the circumstances to preside at the proceeding.
 
+### Section 292.1
+
+The Act is amended by adding the following after section 718.03:
+
+### Section 718.04
+
+When a court imposes a sentence for an offence that involved the abuse of a person who is vulnerable because of personal circumstances — including because the person is Aboriginal and female — the court shall give primary consideration to the objectives of denunciation and deterrence of the conduct that forms the basis of the offence.
+
 ### Section 293
 
 Subparagraph 718.2(a)(ii) of the Act is replaced by the following:
 
-evidence that the offender, in committing the offence, abused the offender's intimate partner,
+evidence that the offender, in committing the offence, abused the offender's intimate partner or a member of the victim or the offender's family,
+
+### Section 293.1
+
+The Act is amended by adding the following after section 718.2:
+
+### Section 718.201
+
+A court that imposes a sentence in respect of an offence that involved the abuse of an intimate partner shall consider the increased vulnerability of female persons who are victims, giving particular attention to the circumstances of Aboriginal female victims.
 
 ### Section 294
 
@@ -3683,35 +3869,57 @@ Section 734.4 of the Act is replaced by the following:
 
 ### Section 301
 
-  **(1)** Subsection 737(1) of the Act is replaced by the following:
+Section 737 of the Act is replaced by the following:
 
 ### Section 737
 
-      **(1)** Subject to subsection (1.1), an offender who is convicted, or discharged under section 730, of an offence under this Act or the `Controlled Drugs and Substances Act` shall pay a victim surcharge for each offence, in addition to any other punishment imposed on the offender.
+  **(1)** An offender who is convicted, or discharged under section 730, of an offence under this Act, the `Controlled Drugs and Substances Act` or the `Cannabis Act` shall pay a victim surcharge for each offence, in addition to any other punishment imposed on the offender.
 
-      **(1.1)** The court may order an offender to pay fewer victim surcharges than the number of offences, if it is satisfied that the total amount of the surcharges imposed on the offender for the following types of offences would be disproportionate in the circumstances:
+  **(2)** Subject to subsections (2.1) and (3), the amount of the victim surcharge in respect of an offence is
 
-        any offence relating to the offender's failure to appear before a court; and
+    30% of any fine that is imposed on the offender for the offence; or
 
-        any offence relating to a breach of any conditions of a release imposed on the offender by a peace officer or of any conditions of a court order, if that breach did not cause a victim physical or emotional harm, property damage or economic loss.
+    if no fine is imposed on the offender for the offence,
 
-  **(2)** Section 737 of the Act is amended by adding the following after subsection (4):
+    $100 in the case of an offence punishable by summary conviction, and
 
-    **(5)** If an offender establishes to the satisfaction of the court that payment of a victim surcharge under subsection (1) would cause undue hardship to the offender, the court may, on application of the offender, make an order exempting the offender from the payment of the victim surcharge.
+    $200 in the case of an offence punishable by indictment.
 
-    **(6)** For the purposes of subsection (5), **undue hardship** means the offender is unable to pay a victim surcharge on account of the offender's precarious financial circumstances, including because of their unemployment, homelessness, lack of assets or significant financial obligations towards their dependants.
+  **(2.1)** Despite subsection (1), the court may, on application of the offender or on its own motion, order an offender to pay no victim surcharge, or to pay a reduced amount, if it is satisfied that the victim surcharge
 
-    **(6.1)** For greater certainty, for the purposes of subsection (6), the imprisonment of the offender alone does not constitute undue hardship.
+    would cause undue hardship to the offender; or
 
-    **(6.2)** When the court makes an order under subsection (1.1) or (5), the court shall state its reasons in the record of the proceedings.
+    would not cause undue hardship to the offender but would be disproportionate to the gravity of the offence or the degree of responsibility of the offender.
 
-  **(3)** The portion of subsection 737(9) of the Act before paragraph (a) is replaced by the following:
+  **(2.2)** For the purposes of subsection (2.1), **undue hardship** means the offender is unable to pay a victim surcharge on account of the offender's precarious financial circumstances, including because of their unemployment, homelessness, lack of assets or significant financial obligations towards their dependants.
 
-    **(9)** Subsections 734(3) to (7) and sections 734.3, 734.5, 734.7, 734.8 and 736 apply, with any modifications that the circumstances require, in respect of a victim surcharge imposed under subsection (1) or (1.1) and, in particular,
+  **(2.3)** For greater certainty, for the purposes of subsection (2.2), the imprisonment of the offender alone does not constitute undue hardship.
 
-  **(4)** Section 737 of the Act is amended by adding the following after subsection (9):
+  **(2.4)** When the court makes an order under subsection (2.1), the court shall state its reasons in the record of the proceedings.
 
-    **(10)** Subsections (1.1) and (5) to (6.2) apply to any offender who is sentenced for an offence under this Act or the `Controlled Drugs and Substances Act`, after the day on which those subsections come into force, regardless of whether or not the offence was committed before that day.
+  **(3)** The court may order an offender to pay a victim surcharge in an amount exceeding that set out in subsection (2) if the court considers it appropriate in the circumstances and is satisfied that the offender is able to pay the higher amount.
+
+  **(4)** The victim surcharge imposed in respect of an offence is payable within the time established by the lieutenant governor in council of the province in which the surcharge is imposed. If no time has been so established, the surcharge is payable within a reasonable time after its imposition.
+
+  **(5)** A victim surcharge shall be applied for the purposes of providing such assistance to victims of offences as the lieutenant governor in council of the province in which the surcharge is imposed may direct from time to time.
+
+  **(6)** The court shall cause to be given to the offender a written notice setting out
+
+    the amount of the victim surcharge;
+
+    the manner in which the victim surcharge is to be paid;
+
+    the time by which the victim surcharge must be paid; and
+
+    the procedure for applying for a change in any terms referred to in paragraphs (b) and (c) in accord­ance with section 734.3.
+
+  **(7)** Subsections 734(3) to (7) and sections 734.3, 734.5, 734.7, 734.8 and 736 apply, with any modifications that the circumstances require, in respect of a victim surcharge imposed under this section and, in particular,
+
+    a reference in any of those provisions to "fine", other than in subsection 734.8(5), must be read as if it were a reference to "victim surcharge"; and
+
+    the notice provided under subsection (6) is deemed to be an order made under section 734.1.
+
+  **(8)** Subsections (2.1) to (2.4) apply to any offender who is sentenced for an offence under this Act, the `Controlled Drugs and Substances Act` or the `Cannabis Act` that was committed after the day on which those subsections come into force.
 
 ### Section 302
 
@@ -3725,7 +3933,7 @@ in the case of bodily harm or threat of bodily harm to the offender's intimate p
 
   **(2)** Subsection 742.3(2) of the Act is amended by adding the following after paragraph (a.2):
 
-    abstain from communicating, directly or indirectly, with any victim, witness or other person identified in the order or from going to any place or geographic area specified in the order, except in accordance with any specified conditions that the justice considers necessary;
+    abstain from communicating, directly or indirectly, with any victim, witness or other person identified in the order or from going to any place or geographic area specified in the order, except in accord­ance with any specified conditions that the justice considers necessary;
 
 ### Section 304
 
@@ -3864,7 +4072,7 @@ Sections 770 and 771 of the Act are replaced by the following:
 
   **(2)** The reference to "all other recognizances" in column II of the schedule to Part XXV of the Act, opposite "Ontario" in column I, is replaced by a reference to "undertakings or all other release orders or recognizances".
 
-  **(3)** The references to "a recognizance" in column II of the schedule to Part XXV of the Act, oppos­ite "British Columbia" in column I, are replaced by references to "an undertaking, release order or recognizance".
+  **(3)** The references to "a recognizance" in column II of the schedule to Part XXV of the Act, opposite "British Columbia" in column I, are replaced by references to "an undertaking, release order or recognizance".
 
 ### Section 313
 
@@ -3876,7 +4084,7 @@ Subsection 779(2) of the Act is replaced by the following:
 
 Paragraph (b) of the definition **sentence** in section 785 of the Act is replaced by the following:
 
-an order made under subsection 109(1) or 110(1), section 259 or 261, subsection 730(1) or 737(1.1), (3) or (5) or section 738, 739, 742.1 or 742.3,
+an order made under subsection 109(1) or 110(1), section 259 or 261, subsection 730(1) or 737(2.1) or (3) or section 738, 739, 742.1 or 742.3,
 
 ### Section 315
 
@@ -5399,9 +5607,13 @@ Subsection 30.18(3) of the `Competition Act` is replaced by the following:
 
 ### Section 388
 
-Paragraph 2(1)(c) of the `Identification of Criminals Act` is replaced by the following:
+  **(1)** Paragraph 2(1)(a) of the `Identification of Criminals Act` is amended by striking out "or" at the end of subparagraph (i), by adding "or" at the end of subparagraph (ii) and by adding the following after subparagraph (ii):
 
-any person alleged to have committed an indictable offence, other than an offence that is designated as a contravention under the `Contraventions Act` in respect of which the Attorney General, within the meaning of that Act, has made an election under section 50 of that Act, who is required under subsection 500(3), 501(4) or 509(5) of the `Criminal Code` to appear for the purposes of this Act by an appearance notice, undertaking or summons; or
+    an offence punishable on summary conviction if that offence may also be prosecuted as an indictable offence described in subparagraph (i);
+
+  **(2)** Paragraph 2(1)(c) of the Act is replaced by the following:
+
+    any person alleged to have committed an indictable offence, other than an offence that is designated as a contravention under the `Contraventions Act` in respect of which the Attorney General, within the meaning of that Act, has made an election under section 50 of that Act, who is required under subsection 500(3), 501(4) or 509(5) of the `Criminal Code` to appear for the purposes of this Act by an appearance notice, undertaking or summons; or
 
 
 ### Parliament of Canada Act
@@ -5530,17 +5742,11 @@ Subsections 87(3) and (4) of the `Cannabis Act` are replaced by the following:
 
 ### Section 401
 
-  **(1)** Subsections (2) to (4) apply if Bill C-45, introduced in the 1st session of the 42nd Parliament and entitled the `Cannabis Act` (in this section referred to as the "other Act"), receives royal assent.
+  **(1)** Subsections (2) and (3) apply if Bill C-45, introduced in the 1st session of the 42nd Parliament and entitled the `Cannabis Act` (in this section referred to as the "other Act"), receives royal assent.
 
   **(2)** If section 211 of the other Act comes into force before section `178` of this Act, then that section `178` is repealed.
 
   **(3)** If section 211 of the other Act comes into force on the same day as section `178` of this Act, then that section `178` is deemed to have come into force before that section 211.
-
-  **(4)** On the first day on which both section 222 of the other Act and section `301` of this Act are in force, subsection 737(1) of the `Criminal Code` is replaced by the following:
-
-### Section 737
-
-      **(1)** Subject to subsection (1.1), an offender who is convicted, or discharged under section 730, of an offence under this Act, the `Controlled Drugs and Substances Act` or the `Cannabis Act` shall pay a victim surcharge for each offence, in addition to any other punishment imposed on the offender.
 
 ### Section 402
 
@@ -5789,9 +5995,9 @@ Sections `278`, `301` and `314` come into force on the 30th day after the day on
 
 ### Section 406
 
-Subsections 1(1) and (2), sections 2 and 3, subsection 4(1), sections 6 to 23, 25 to 29, 33 to 46, 48 to 50 and 52, subsection 55(2), sections 56 to 59, 61, 63, 64 to 69, 70 to 72, 74 to 76, 79 to 88, 90, 92 to 97, 103 to 110 and 112 to 156, subsection 157(1), sections 158 to 181 and 183 to 186, subsection 187(2), sections 188, 191 to 201, 203 to 208 and 216, subsection 225(2), sections 237 to 244, subsections 245(1) to (3), sections 246, 247, 250, 251, 252 and 253, subsections 254(1), (4) and (5) and 255(1), (2), (4) and (5), sections 256 to 259, subsection 260(1), sections 261 to 263, 265, 267 to 275 and 277, subsections 281(1) and (2), sections 282 to 286, 289 to 294, 298, 299, 302, 305 to 307, 315 to 319, 321, 322 and 329 to 333, subsections 334(1) and (2) and 336(1), sections 338 to 344, subsection 345(1), sections 346 and 347, subsections 348(1) and (2) and 349(1) and (2), sections 350 to 353, subsection 370(1) and sections 376 to 379, 382, 385, 399 and 400.1 come into force on the 90th day after the day on which this Act receives royal assent.
+Subsections 1(1) and (2), sections 2 and 3, subsection 4(1), sections 6 to 23, 25 to 29, 33 to 46, 48 to 50 and 52, subsection 55(2), sections 56 to 59, 61, 63, 64 to 69, 70 to 72, 74 to 76, 79 to 88, 90, 92 to 97, 103 to 110 and 112 to 156, subsection 157(1), sections 158 to 181 and 183 to 186, subsection 187(2), sections 188, 191 to 201, 203 to 208 and 216, subsection 225(2), sections 237 to 244, subsections 245(1) to (3), sections 246, 247, 250, 251, 252 and 253, subsections 254(1), (4) and (5) and 255(1), (2), (4) and (5), sections 256 to 259, subsection 260(1), sections 261 to 263, 265, 267 to 275 and 277, subsections 281(1) and (2), sections 282 to 286, 289 to 294, 298, 299, 302, 305 to 307, 315 to 319, 321, 322 and 329 to 333, subsections 334(1) and (2) and 336(1), sections 338 to 344, subsection 345(1), sections 346 and 347, subsections 348(1) and (2) and 349(1) and (2), sections 350 to 353, subsection 370(1), sections 376 to 379, 382 and 385, subsection 388(1) and sections 399 and 400.1 come into force on the 90th day after the day on which this Act receives royal assent.
 
 ### Section 407
 
-Subsection 1(3), sections 5, 24, 30 to 32, 47 and 91, subsection 157(2), section 182, subsection 187(1), sections 209 to 215, sections 217 to 224, subsections 225(1) and (3) to (7), sections 226 to 236, subsection 245(4), sections 248 and 249, subsections 254(2) and (3), 255(3) and 260(2), sections 264, 266, 276, 279 and 280, subsections 281(3) and (4), sections 287, 288, 295, 296, 297, 300, 303, 304, 308 to 313 and 323 to 328, subsection 334(3), section 335, subsection 336(2), section 337, subsections 345(2), 348(3) and 349(3), sections 361 to 369, subsection 370(2), sections 371 to 375, 380, 381, 387 to 393, 396 to 398 and 400 come into force on the 180th day after the day on which this Act receives royal assent.
+Subsection 1(3), sections 5, 24, 30 to 32, 47 and 91, subsection 157(2), section 182, subsection 187(1), sections 209 to 215, sections 217 to 224, subsections 225(1) and (3) to (7), sections 226 to 236, subsection 245(4), sections 248 and 249, subsections 254(2) and (3), 255(3) and 260(2), sections 264, 266, 276, 279 and 280, subsections 281(3) and (4), sections 287, 288, 295, 296, 297, 300, 303, 304, 308 to 313 and 323 to 328, subsection 334(3), section 335, subsection 336(2), section 337, subsections 345(2), 348(3) and 349(3), sections 361 to 369, subsection 370(2), sections 371 to 375, 380, 381 and 387, subsection 388(2) and sections 389 to 393, 396 to 398 and 400 come into force on the 180th day after the day on which this Act receives royal assent.
 
