@@ -30,6 +30,16 @@ Definitions
 Binding on Her Majesty
 
 
+## Rights of Indigenous Peoples of Canada
+
+Rights of Indigenous peoples
+
+
+## Duty of Minister
+
+Duty to consider — adverse effects
+
+
 ## Prohibitions
 
 Mooring or anchoring at port, etc.
@@ -121,6 +131,11 @@ Due diligence — persons
 
 Limitation period
 
+
+## Review and Report
+
+Review
+
 Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
 
@@ -140,6 +155,8 @@ The following definitions apply in this Act.
 **authorized representative** has the same meaning as in section 2 of the `Canada Shipping Act, 2001`. (**représentant autorisé**)
 
 **crude oil** means any liquid hydrocarbon mixture that occurs naturally in the earth — including a liquid hydrocarbon mixture from which distillate fractions have been removed or to which distillate fractions have been added — whether or not it has been treated to render it suitable for transportation. (**pétrole brut**)
+
+**Indigenous peoples of Canada** has the meaning assigned by the definition aboriginal peoples of Canada in subsection 35(2) of the `Constitution Act, 1982`. (**peuples autochtones du Canada**)
 
 **marine installation** means an installation that is used or is capable of being used in the loading or unloading of oil to or from vessels and that is on, or is connected to, land. (**installation maritime**)
 
@@ -165,6 +182,20 @@ The following definitions apply in this Act.
   **(1)** Subject to subsection (2), this Act is binding on Her Majesty in right of Canada or a province.
 
   **(2)** This Act does not apply to vessels under the direction or control of the Minister of National Defence.
+
+
+## Rights of Indigenous Peoples of Canada
+
+### Section 3.1
+
+For greater certainty, nothing in this Act is to be construed as abrogating or derogating from the protection provided for the rights of the Indigenous peoples of Canada by the recognition and affirmation of those rights in section 35 of the `Constitution Act, 1982`.
+
+
+## Duty of Minister
+
+### Section 3.2
+
+When making a decision under this Act, the Minister must consider any adverse effects that the decision may have on the rights of the Indigenous peoples of Canada recognized and affirmed by section 35 of the `Constitution Act, 1982`.
 
 
 ## Prohibitions
@@ -527,4 +558,13 @@ For the purpose of prosecuting a vessel for contravening a direction given under
   **(2)** A document that purports to have been issued by the Minister and that certifies the day on which the Minister became aware of the subject matter of the proceedings is admissible in evidence without proof of the signature or official character of the person appearing to have signed it and, in the absence of any evidence to the contrary, is evidence that the Minister became aware of the subject matter on that day.
 
   **(3)** If the proceedings cannot be commenced within two years because the proposed defendant is outside Canada, the proceedings may be commenced not later than 60 days after the day on which they arrive in Canada.
+
+
+## Review and Report
+
+### Section 32
+
+  **(1)** During the fifth year after the day on which this section comes into force, a review of the provisions and operation of this Act must be undertaken by any committee of the Senate, of the House of Commons or of both Houses of Parliament that is designated or established for that purpose, including a review of the impact of this Act on the environment, on social and economic conditions and on the Indigenous peoples of Canada.
+
+  **(2)** The committee referred to in subsection (1) must submit a report of the results of the review to the Senate, the House of Commons or both Houses of Parliament, as the case may be, on any of the first 15 days on which the Senate or the House of Commons, as the case may be, is sitting after the report is completed.
 
