@@ -1,7 +1,5 @@
 # Bill C-84: An Act to amend the Criminal Code (bestiality and animal fighting)
 
-**Sponsor**: MINISTER OF JUSTICE
-
 ## Summary
 
 This enactment amends the `Criminal Code` to
@@ -35,7 +33,7 @@ Section 160 of the `Criminal Code` is amended by adding the following after subs
 
 **(6)** Sections 740 to 741.2 apply, with any modifications that the circumstances require, to orders made under paragraph (4)(b).
 
-****(7)**** In this section, **bestiality** means any contact, for a sexual purpose, with an animal.
+**(7)** In this section, **bestiality** means any contact, for a sexual purpose, with an animal.
 
 ### Section 2
 
@@ -49,7 +47,7 @@ the training, transporting or breeding of animals or birds for the purposes of s
 
 ### Section 3
 
-  ****(1)**** Subsection 447(1) of the Act is replaced by the following:
+  **(1)** Subsection 447(1) of the Act is replaced by the following:
 
 ### Section 447
 
