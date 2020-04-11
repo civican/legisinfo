@@ -1,0 +1,860 @@
+<Bills>
+  <Bill>
+    <Id>10716060</Id>
+    <NumberCode>C-14</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>14</Number>
+    <LongTitleEn>A second Act respecting certain measures in response to COVID-19</LongTitleEn>
+    <LongTitleFr>Loi no 2 concernant certaines mesures en réponse à la COVID-19</LongTitleFr>
+    <LongTitle>A second Act respecting certain measures in response to COVID-19</LongTitle>
+    <ShortTitleEn>COVID-19 Emergency Response Act, No. 2</ShortTitleEn>
+    <ShortTitleFr>Loi no 2 sur les mesures d'urgence visant la COVID-19</ShortTitleFr>
+    <ShortTitle>COVID-19 Emergency Response Act, No. 2</ShortTitle>
+    <StatusId>357</StatusId>
+    <StatusNameEn>Royal assent received</StatusNameEn>
+    <StatusNameFr>Sanction royale reçue</StatusNameFr>
+    <StatusName>Royal assent received</StatusName>
+    <LatestCompletedMajorStageId>60046</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>Royal assent</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Sanction royale</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>Royal assent</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>Royal assent</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>2</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>Senate</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Sénat</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>Senate</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60050</OngoingStageId>
+    <OngoingStageNameEn>Royal assent</OngoingStageNameEn>
+    <OngoingStageNameFr>Sanction royale</OngoingStageNameFr>
+    <OngoingStageName>Royal assent</OngoingStageName>
+    <LatestCompletedBillStageId>60050</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Royal assent</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Sanction royale</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Royal assent</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>2</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>Senate</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Sénat</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>Senate</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2020-04-11T21:30:00</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>43</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>88992</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Bill</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Morneau</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Bill Morneau</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Finance</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre des Finances</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Finance</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>4</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Minister</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>ministre</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Minister</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>822</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Toronto Centre</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Toronto-Centre</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Toronto Centre</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60149</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Royal assent</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Sanction royale</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60050</LatestBillEventStageId>
+    <LatestBillEventTypeName>Royal assent</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2020-04-11T16:00:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>2</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>Senate</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Sénat</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>Senate</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>19</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2020-04-11T12:35:25.787</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime>2020-04-11T17:40:49</PassedHouseSecondReadingDateTime>
+    <PassedHouseThirdReadingDateTime>2020-04-11T18:00:25</PassedHouseThirdReadingDateTime>
+    <PassedSenateFirstReadingDateTime>2020-04-11T18:40:00</PassedSenateFirstReadingDateTime>
+    <PassedSenateSecondReadingDateTime>2020-04-11T18:50:00</PassedSenateSecondReadingDateTime>
+    <PassedSenateThirdReadingDateTime>2020-04-11T20:53:00</PassedSenateThirdReadingDateTime>
+    <ReceivedRoyalAssentDateTime>2020-04-11T21:30:00</ReceivedRoyalAssentDateTime>
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>true</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>true</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>true</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>true</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>true</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>&lt;div&gt;On April 11, 2020, the Senate adopted the following motion:&lt;p&gt;&lt;/p&gt;That, notwithstanding any provisions of the Rules or usual practice:&lt;p&gt;&lt;/p&gt;1. the Senate resolve itself into a &lt;a href="https://sencanada.ca/en/content/sen/chamber/431/debates/019db_2020-04-11-e#19" target="_blank"&gt;Committee of the Whole&lt;/a&gt; at the start of Orders of the Day today to consider the subject matter of Bill C-14, A second Act respecting certain measures in response to COVID-19, introduced in the House of Commons on April 11, 2020, in advance of the said bill coming before the Senate;
+
+&lt;p&gt;&lt;/p&gt;2. the Committee of the Whole on the subject matter of Bill C-14, receive the Honourable Bill Morneau, P.C., M.P., Minister of Finance, accompanied by one official;
+
+&lt;p&gt;&lt;/p&gt;3. the Committee of the Whole on the subject matter of Bill C-14 rise no later than 125 minutes after it begins; and
+
+&lt;p&gt;&lt;/p&gt;4. the speaking time provided for in rule 12-32(3)(d) be five minutes for the Committee of the Whole today, including the time for both questions and answers.
+&lt;/div&gt;</NotesEn>
+    <NotesFr>&lt;div&gt;Le 11 avril 2020, le Sénat a adopté la motion suivante :&lt;p&gt;&lt;/p&gt;Que, nonobstant toute disposition du Règlement ou procédure ordinaire :
+
+&lt;p&gt;&lt;/p&gt;1.le Sénat se forme en &lt;a href="https://sencanada.ca/en/content/sen/chamber/431/debates/019db_2020-04-11-f#19" target="_blank"&gt;comité plénier&lt;/a&gt; au début de l'ordre du jour aujourd'hui afin d'étudier la teneur du projet de loi C-14, Loi n&lt;sup&gt;o&lt;/sup&gt; 2 concernant certaines mesures en réponse à la COVID-19, déposé à la Chambre des communes le 11 avril 2020, avant que ce projet de loi soit soumis au Sénat;
+
+&lt;p&gt;&lt;/p&gt;2.le comité plénier sur la teneur du projet de loi C-14 reçoive l'honorable Bill Morneau, c.p., député, ministre des Finances, accompagné d'un fonctionnaire;
+
+&lt;p&gt;&lt;/p&gt;3.le comité plénier sur la teneur du projet de loi C-14 lève sa séance au plus tard 125 minutes après le début de ses travaux;
+
+&lt;p&gt;&lt;/p&gt;4.la durée des interventions prévue à l'article 12-32(3)d) du Règlement soit de cinq minutes pour le comité plénier aujourd'hui, le temps des questions et des réponses y compris.
+&lt;/div&gt;</NotesFr>
+    <Notes>&lt;div&gt;On April 11, 2020, the Senate adopted the following motion:&lt;p&gt;&lt;/p&gt;That, notwithstanding any provisions of the Rules or usual practice:&lt;p&gt;&lt;/p&gt;1. the Senate resolve itself into a &lt;a href="https://sencanada.ca/en/content/sen/chamber/431/debates/019db_2020-04-11-e#19" target="_blank"&gt;Committee of the Whole&lt;/a&gt; at the start of Orders of the Day today to consider the subject matter of Bill C-14, A second Act respecting certain measures in response to COVID-19, introduced in the House of Commons on April 11, 2020, in advance of the said bill coming before the Senate;
+
+&lt;p&gt;&lt;/p&gt;2. the Committee of the Whole on the subject matter of Bill C-14, receive the Honourable Bill Morneau, P.C., M.P., Minister of Finance, accompanied by one official;
+
+&lt;p&gt;&lt;/p&gt;3. the Committee of the Whole on the subject matter of Bill C-14 rise no later than 125 minutes after it begins; and
+
+&lt;p&gt;&lt;/p&gt;4. the speaking time provided for in rule 12-32(3)(d) be five minutes for the Committee of the Whole today, including the time for both questions and answers.
+&lt;/div&gt;</Notes>
+    <ShortLegislativeSummaryEn>
+    </ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>
+    </ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>
+    </ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear>2020</StatuteYear>
+    <StatuteChapter>6</StatuteChapter>
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>43</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2020-04-11T12:35:25.787</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>33</Number>
+          <Date>2020-04-11T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2020-04-11T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2020-04-11T12:35:25.787</EventStartDateTime>
+          <EventEndDateTime>2020-04-11T12:35:25.787</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2020-04-11T12:35:25.787</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>43</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2020-04-11T17:40:49</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>25390</CommitteeOrganizationId>
+          <CommitteeNameEn>Committee of the Whole</CommitteeNameEn>
+          <CommitteeNameFr>comité plénier</CommitteeNameFr>
+          <CommitteeAcronym>WHOL</CommitteeAcronym>
+          <CommitteeName>Committee of the Whole</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>33</Number>
+          <Date>2020-04-11T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>10818758</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>10718058</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>2nd reading and referral to committee - WHOL</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>2e lecture et renvoi en comité - WHOL</DecisionMotionTitleFr>
+          <DecisionMotionTitle>2nd reading and referral to committee - WHOL</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>9</DecisionMethodId>
+          <DecisionMethodNameEn>On division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Avec dissidence</DecisionMethodNameFr>
+          <DecisionMethodName>On division</DecisionMethodName>
+          <DivisionNumber />
+          <DivisionVotesYeas />
+          <DivisionVotesNays />
+          <DivisionVotePaired />
+          <DecisionSittingDate>2020-04-11T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>33</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60121</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading and referral to committee</EventNameEn>
+          <EventNameFr>Deuxième lecture et renvoi en comité</EventNameFr>
+          <EventName>Second reading and referral to committee</EventName>
+          <EventDateTime>2020-04-11T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60121</EventTypeId>
+          <EventTypeNameEn>Second reading and referral to committee</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture et renvoi en comité</EventTypeNameFr>
+          <EventTypeName>Second reading and referral to committee</EventTypeName>
+          <EventStartDateTime>2020-04-11T17:40:49</EventStartDateTime>
+          <EventEndDateTime>2020-04-11T17:40:49</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2020-04-11T17:40:49</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>43</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2020-04-11T17:45:44</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>25390</CommitteeOrganizationId>
+          <CommitteeNameEn>Committee of the Whole</CommitteeNameEn>
+          <CommitteeNameFr>comité plénier</CommitteeNameFr>
+          <CommitteeAcronym>WHOL</CommitteeAcronym>
+          <CommitteeName>Committee of the Whole</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented without an amendment</NameEn>
+          <NameFr>Présentation du rapport de comité sans amendement</NameFr>
+          <Name>Committee report presented without an amendment</Name>
+          <Number>33</Number>
+          <Date>2020-04-11T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented without an amendment</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité sans amendement</EventNameFr>
+          <EventName>Committee report presented without an amendment</EventName>
+          <EventDateTime>2020-04-11T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2020-04-11T17:45:44</EventStartDateTime>
+          <EventEndDateTime>2020-04-11T17:45:44</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2020-04-11T17:45:44</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>43</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2020-04-11T17:50:22</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Concurrence at report stage</NameEn>
+          <NameFr>Adoption à l'étape du rapport</NameFr>
+          <Name>Concurrence at report stage</Name>
+          <Number>33</Number>
+          <Date>2020-04-11T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60285</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Concurrence at report stage</EventNameEn>
+          <EventNameFr>Adoption à l'étape du rapport</EventNameFr>
+          <EventName>Concurrence at report stage</EventName>
+          <EventDateTime>2020-04-11T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60285</EventTypeId>
+          <EventTypeNameEn>Concurrence at report stage</EventTypeNameEn>
+          <EventTypeNameFr>Adoption à l'étape du rapport</EventTypeNameFr>
+          <EventTypeName>Concurrence at report stage</EventTypeName>
+          <EventStartDateTime>2020-04-11T17:50:22</EventStartDateTime>
+          <EventEndDateTime>2020-04-11T17:50:22</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2020-04-11T17:50:22</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>43</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2020-04-11T18:00:25</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>33</Number>
+          <Date>2020-04-11T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>10819089</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>10718060</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>3rd reading</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>3e lecture</DecisionMotionTitleFr>
+          <DecisionMotionTitle>3rd reading</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>9</DecisionMethodId>
+          <DecisionMethodNameEn>On division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Avec dissidence</DecisionMethodNameFr>
+          <DecisionMethodName>On division</DecisionMethodName>
+          <DivisionNumber />
+          <DivisionVotesYeas />
+          <DivisionVotesNays />
+          <DivisionVotePaired />
+          <DecisionSittingDate>2020-04-11T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>33</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2020-04-11T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2020-04-11T18:00:25</EventStartDateTime>
+          <EventEndDateTime>2020-04-11T18:00:25</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2020-04-11T18:00:25</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>43</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2020-04-11T18:40:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>First reading</NameEn>
+          <NameFr>Première lecture</NameFr>
+          <Name>First reading</Name>
+          <Number>19</Number>
+          <Date>2020-04-11T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60111</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>First reading</EventNameEn>
+          <EventNameFr>Première lecture</EventNameFr>
+          <EventName>First reading</EventName>
+          <EventDateTime>2020-04-11T18:40:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60111</EventTypeId>
+          <EventTypeNameEn>First reading</EventTypeNameEn>
+          <EventTypeNameFr>Première lecture</EventTypeNameFr>
+          <EventTypeName>First reading</EventTypeName>
+          <EventStartDateTime>2020-04-11T18:40:00</EventStartDateTime>
+          <EventEndDateTime>2020-04-11T18:40:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2020-04-11T18:40:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>43</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2020-04-11T18:50:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Second reading</NameEn>
+          <NameFr>Deuxième lecture</NameFr>
+          <Name>Second reading</Name>
+          <Number>19</Number>
+          <Date>2020-04-11T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60120</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading</EventNameEn>
+          <EventNameFr>Deuxième lecture</EventNameFr>
+          <EventName>Second reading</EventName>
+          <EventDateTime>2020-04-11T18:50:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60120</EventTypeId>
+          <EventTypeNameEn>Second reading</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture</EventTypeNameFr>
+          <EventTypeName>Second reading</EventTypeName>
+          <EventStartDateTime>2020-04-11T18:50:00</EventStartDateTime>
+          <EventEndDateTime>2020-04-11T18:50:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2020-04-11T18:50:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>43</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2020-04-11T20:53:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>19</Number>
+          <Date>2020-04-11T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2020-04-11T20:53:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>Bill passed by the Senate without amendment</AdditionalInformationEn>
+          <AdditionalInformationFr>Projet de loi adopté par le Sénat sans amendement</AdditionalInformationFr>
+          <AdditionalInformation>Bill passed by the Senate without amendment</AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2020-04-11T20:53:00</EventStartDateTime>
+          <EventEndDateTime>2020-04-11T20:53:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2020-04-11T20:53:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <RoyalAssent>
+        <BillStageId>60050</BillStageId>
+        <BillStageNameEn>Royal assent</BillStageNameEn>
+        <BillStageNameFr>Sanction royale</BillStageNameFr>
+        <BillStageName>Royal assent</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>43</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>0</State>
+        <StateNameEn />
+        <StateNameFr />
+        <StateAsOfDate />
+        <StateName />
+        <Committee />
+        <Sittings>
+          <NameEn>Royal assent</NameEn>
+          <NameFr>Sanction royale</NameFr>
+          <Name>Royal assent</Name>
+          <Number>19</Number>
+          <Date>2020-04-11T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60149</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Royal assent</EventNameEn>
+          <EventNameFr>Sanction royale</EventNameFr>
+          <EventName>Royal assent</EventName>
+          <EventDateTime>2020-04-11T21:30:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60149</EventTypeId>
+          <EventTypeNameEn>Royal assent</EventTypeNameEn>
+          <EventTypeNameFr>Sanction royale</EventTypeNameFr>
+          <EventTypeName>Royal assent</EventTypeName>
+          <EventStartDateTime>2020-04-11T21:30:00</EventStartDateTime>
+          <EventEndDateTime>2020-04-11T21:30:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2020-04-11T21:30:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </RoyalAssent>
+    </BillStages>
+    <Publications>
+      <PublicationId>10718065</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>10718587</PublicationId>
+      <PublicationTypeId>80703</PublicationTypeId>
+      <PublicationTypeNameEn>As passed by the House of Commons</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel qu'adopté par la Chambre des communes</PublicationTypeNameFr>
+      <PublicationTypeName>As passed by the House of Commons</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>10718656</PublicationId>
+      <PublicationTypeId>80704</PublicationTypeId>
+      <PublicationTypeNameEn>Royal Assent</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Royal Assent</PublicationTypeNameFr>
+      <PublicationTypeName>Royal Assent</PublicationTypeName>
+    </Publications>
+    <HouseRulingAndStatements />
+    <SenateRulingAndStatements />
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Legislative Costing Note for Bill C-14: A second Act respecting certain measures in response to COVID-19</TitleEn>
+      <TitleFr>Note sur l'évaluation du coût du projet de loi C-14 : Loi no 2 concernant certaines mesures en réponse à la COVID-19</TitleFr>
+      <Title>Legislative Costing Note for Bill C-14: A second Act respecting certain measures in response to COVID-19</Title>
+      <WebReferenceTypeId>13</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Legislative Costing Note</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Note sur l'évaluation du coût d'une mesure législative</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Legislative Costing Note</WebReferenceTypeName>
+      <UrlEn>https://www.pbo-dpb.gc.ca/en/blog/legislative-costing-notes--notes-evaluation-cout-mesure-legislative/LEG-2021-018-S--canada-emergency-wage-subsidy-cews-employers-with-reduced-revenues--subvention-salariale-urgence-canada-ssuc-employeurs-faisant-face-une-diminution-revenus</UrlEn>
+      <UrlFr>https://www.pbo-dpb.gc.ca/fr/blog/legislative-costing-notes--notes-evaluation-cout-mesure-legislative/LEG-2021-018-S--canada-emergency-wage-subsidy-cews-employers-with-reduced-revenues--subvention-salariale-urgence-canada-ssuc-employeurs-faisant-face-une-diminution-revenus</UrlFr>
+      <Url>https://www.pbo-dpb.gc.ca/en/blog/legislative-costing-notes--notes-evaluation-cout-mesure-legislative/LEG-2021-018-S--canada-emergency-wage-subsidy-cews-employers-with-reduced-revenues--subvention-salariale-urgence-canada-ssuc-employeurs-faisant-face-une-diminution-revenus</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Charter Statement - Bill C-14: A second Act respecting certain measures in response to COVID-19</TitleEn>
+      <TitleFr>Énoncé concernant la Charte - Projet de loi C-14 : Loi no 2 concernant certaines mesures en réponse à la COVID-19</TitleFr>
+      <Title>Charter Statement - Bill C-14: A second Act respecting certain measures in response to COVID-19</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.justice.gc.ca/eng/csj-sjc/pl/charter-charte/c14.html</UrlEn>
+      <UrlFr>https://www.justice.gc.ca/fra/sjc-csj/pl/charte-charter/c14.html</UrlFr>
+      <Url>https://www.justice.gc.ca/eng/csj-sjc/pl/charter-charte/c14.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Government Introduces COVID-19 Emergency Response Act, No. 2 to Help Businesses Keep Canadians in their Jobs</TitleEn>
+      <TitleFr>Le gouvernement présente la Loi no 2 sur les mesures d'urgence visant la COVID-19 pour aider les entreprises à maintenir en poste les Canadiens</TitleFr>
+      <Title>Government Introduces COVID-19 Emergency Response Act, No. 2 to Help Businesses Keep Canadians in their Jobs</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/department-finance/news/2020/04/government-introduces-covid-19-emergency-response-act-no-2-to-help-businesses-keep-canadians-in-their-jobs.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/ministere-finances/nouvelles/2020/04/le-gouvernement-presente-la-loi-no2-sur-les-mesures-durgence-visant-la-covid-19-pour-aider-les-entreprises-a-maintenir-en-poste-les-canadiens.html</UrlFr>
+      <Url>https://www.canada.ca/en/department-finance/news/2020/04/government-introduces-covid-19-emergency-response-act-no-2-to-help-businesses-keep-canadians-in-their-jobs.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Additional Details on the Canada Emergency Wage Subsidy</TitleEn>
+      <TitleFr>Renseignements supplémentaires sur la Subvention salariale d'urgence du Canada</TitleFr>
+      <Title>Additional Details on the Canada Emergency Wage Subsidy</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/department-finance/news/2020/04/additional-details-on-the-canada-emergency-wage-subsidy0.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/ministere-finances/nouvelles/2020/04/renseignements-supplementaires-sur-la-subvention-salariale-durgence-du-canada0.html</UrlFr>
+      <Url>https://www.canada.ca/en/department-finance/news/2020/04/additional-details-on-the-canada-emergency-wage-subsidy0.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>COVID-19 Emergency Response Act, No. 2 receives Royal Assent to help businesses keep Canadians in their jobs</TitleEn>
+      <TitleFr>La Loi no 2 sur les mesures d'urgence visant la COVID-19 reçoit la sanction royale pour aider les entreprises à maintenir les Canadiens en poste</TitleFr>
+      <Title>COVID-19 Emergency Response Act, No. 2 receives Royal Assent to help businesses keep Canadians in their jobs</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/department-finance/news/2020/04/covid-19-emergency-response-act-no-2-receives-royal-assent-to-help-businesses-keep-canadians-in-their-jobs.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/ministere-finances/nouvelles/2020/04/la-loi-no2-sur-les-mesures-durgence-visant-la-covid-19-recoit-la-sanction-royale-pour-aider-les-entreprises-a-maintenir-les-canadiens-en-poste.html</UrlFr>
+      <Url>https://www.canada.ca/en/department-finance/news/2020/04/covid-19-emergency-response-act-no-2-receives-royal-assent-to-help-businesses-keep-canadians-in-their-jobs.html</Url>
+    </WebReferences>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
