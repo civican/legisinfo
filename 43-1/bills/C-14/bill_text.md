@@ -1,7 +1,5 @@
 # Bill C-14: A second Act respecting certain measures in response to COVID-19
 
-**Sponsor**: MINISTER OF FINANCE
-
 Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*A second Act respecting certain measures in response to COVID-19*".
 
 ## Summary
@@ -276,7 +274,7 @@ The `Income Tax Act` is amended by adding the following after section 125.6:
 
 Paragraph 152(1)(b) of the Act is replaced by the following:
 
-the amount of tax, if any, deemed by subsection 120(2) or (2.2), 122.5(3) or (3.001), 122.51(2), 122.7(2) or (3), 122.8(4), 122.9(2), 122.91(1), 125.4(3), 125.5(3), 125.6(2), **125.7(2)**, 127.1(1), 127.41(3) or 210.2(3) or (4) to be paid on account of the taxpayer's tax payable under this Part for the year.
+the amount of tax, if any, deemed by subsection 120(2) or (2.2), 122.5(3) or (3.001), 122.51(2), 122.7(2) or (3), 122.8(4), 122.9(2), 122.91(1), 125.4(3), 125.5(3), 125.6(2), 125.7(2), 127.1(1), 127.41(3) or 210.2(3) or (4) to be paid on account of the taxpayer's tax payable under this Part for the year.
 
 ### Section 4
 
@@ -292,7 +290,7 @@ the amount of tax, if any, deemed by subsection 120(2) or (2.2), 122.5(3) or (3.
 
   **(2)** Subsection 163(2.9) of the Act is replaced by the following:
 
-    **(2.9)** If a partnership is liable to a penalty under **paragraph (2)(i)**, subsection (2.4) **or (2.901)** or section 163.2, 237.1 or 237.3, sections 152, 158 to 160.1, 161 and 164 to 167 and Division J apply, with any changes that the circumstances require, in respect of the penalty as if the partnership were a corporation.
+    **(2.9)** If a partnership is liable to a penalty under paragraph (2)(i), subsection (2.4) or (2.901) or section 163.2, 237.1 or 237.3, sections 152, 158 to 160.1, 161 and 164 to 167 and Division J apply, with any changes that the circumstances require, in respect of the penalty as if the partnership were a corporation.
 
     **(2.901)** Every eligible entity that is deemed by subsection 125.7(6) to have an amount of qualifying revenue — for a current reference period for a qualifying period — is liable to a penalty equal to 25% of the amount that would be deemed by subsection 125.7(2) to have been an overpayment by the eligible entity during that qualifying period if that amount were calculated by reference to the information provided in the application filed pursuant to paragraph (a) of the definition qualifying entity in subsection 125.7(1).
 
@@ -306,7 +304,7 @@ the amount of tax, if any, deemed by subsection 120(2) or (2.2), 122.5(3) or (3.
 
   **(2)** The portion of subsection 164(3) of the Act before paragraph (a) is replaced by the following:
 
-    **(3)** If, under this section, an amount in respect of a taxation year (other than an amount, or a portion of the amount, that can reasonably be considered to arise from the operation of section 122.5, 122.61 or **125.7**) is refunded or repaid to a taxpayer or applied to another liability of the taxpayer, the Minister shall pay or apply interest on it at the prescribed rate for the period that begins on the day that is the latest of the days referred to in the following paragraphs and that ends on the day on which the amount is refunded, repaid or applied:
+    **(3)** If, under this section, an amount in respect of a taxation year (other than an amount, or a portion of the amount, that can reasonably be considered to arise from the operation of section 122.5, 122.61 or 125.7) is refunded or repaid to a taxpayer or applied to another liability of the taxpayer, the Minister shall pay or apply interest on it at the prescribed rate for the period that begins on the day that is the latest of the days referred to in the following paragraphs and that ends on the day on which the amount is refunded, repaid or applied:
 
 ### Section 6
 
@@ -353,13 +351,13 @@ For the purpose of subsection 164(1.6) of the `Income Tax Act`, the Minister of 
 
   **(2)** The portion of subsection 60.2(3) of the Act before paragraph (a) is replaced by the following:
 
-    **(3)** **Paragraph (2)(a)** does not apply to
+    **(3)** Paragraph (2)(a) does not apply to
 
   **(3)** Subsections 60.2(4) to (6) of the Act are replaced by the following:
 
-    **(4)** Section 90 does not apply if the Minister purchases, acquires or sells or otherwise disposes, under **paragraph (2)(a)**, of shares within the meaning of that section.
+    **(4)** Section 90 does not apply if the Minister purchases, acquires or sells or otherwise disposes, under paragraph (2)(a), of shares within the meaning of that section.
 
-    **(5)** Section 61 and the `Surplus Crown Assets Act` do not apply if the Minister holds, loans or sells or otherwise disposes of securities under **paragraph (2)(a)**.
+    **(5)** Section 61 and the `Surplus Crown Assets Act` do not apply if the Minister holds, loans or sells or otherwise disposes of securities under paragraph (2)(a).
 
     **(6)** Any amount payable under or in connection with a contract entered into under this section may be paid out of the Consolidated Revenue Fund, on the requisition of the Minister, at the times and in the manner that the Minister considers appropriate.
 
@@ -369,7 +367,7 @@ Subsection 60.3(1) of the Act is replaced by the following:
 
 ### Section 60.3
 
-  **(1)** If, in the Minister's opinion, it is necessary to promote the stability or maintain the efficiency of the financial system in Canada, the Minister may, **during the period beginning on the day on which this subsection comes into force and ending on September 30, 2020**, with the Governor in Council's authorization, procure the incorporation of a corporation, all of the shares of which are held by the Minister on behalf of Her Majesty in right of Canada.
+  **(1)** If, in the Minister's opinion, it is necessary to promote the stability or maintain the efficiency of the financial system in Canada, the Minister may, during the period beginning on the day on which this subsection comes into force and ending on September 30, 2020, with the Governor in Council's authorization, procure the incorporation of a corporation, all of the shares of which are held by the Minister on behalf of Her Majesty in right of Canada.
 
 ### Section 10
 
@@ -377,7 +375,7 @@ Subsection 60.4(1) of the Act is replaced by the following:
 
 ### Section 60.4
 
-  **(1)** If, in the Minister's opinion, it is necessary to promote the stability or maintain the efficiency of the financial system in Canada, the Minister may, **during the period beginning on the day on which this subsection comes into force and ending on September 30, 2020**, with the Governor in Council's authorization, establish an entity, other than a corporation, on any terms and conditions that the Minister considers appropriate.
+  **(1)** If, in the Minister's opinion, it is necessary to promote the stability or maintain the efficiency of the financial system in Canada, the Minister may, during the period beginning on the day on which this subsection comes into force and ending on September 30, 2020, with the Governor in Council's authorization, establish an entity, other than a corporation, on any terms and conditions that the Minister considers appropriate.
 
 
 ### Consequential Amendment to the `Canada Deposit Insurance Corporation Act`
@@ -386,7 +384,7 @@ Subsection 60.4(1) of the Act is replaced by the following:
 
 The portion of subsection 10.1(3) of the `Canada Deposit Insurance Corporation Act` before paragraph (a) is replaced by the following:
 
-**(3)** The total principal indebtedness outstanding at any time in respect of borrowings by the Corporation under subsections (1) and (2), excluding the borrowings under **paragraph 60.2(2)(c)** of the `Financial Administration Act` **and under subparagraph 60.2(2)(a)(iii) of that Act as it read on September 30, 2020**, shall not exceed
+**(3)** The total principal indebtedness outstanding at any time in respect of borrowings by the Corporation under subsections (1) and (2), excluding the borrowings under paragraph 60.2(2)(c) of the `Financial Administration Act` and under subparagraph 60.2(2)(a)(iii) of that Act as it read on September 30, 2020, shall not exceed
 
 
 ### Coming into Force
