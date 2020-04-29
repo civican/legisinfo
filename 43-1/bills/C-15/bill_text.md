@@ -1,7 +1,5 @@
 # Bill C-15: An Act respecting Canada emergency student benefits (coronavirus disease 2019)
 
-**Sponsor**: MINISTER OF EMPLOYMENT, WORKFORCE DEVELOPMENT AND DISABILITY INCLUSION
-
 Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act respecting Canada emergency student benefits (coronavirus disease 2019)*".
 
 ## Summary
