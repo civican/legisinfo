@@ -1,7 +1,5 @@
 # Bill C-20: An Act respecting further COVID-19 measures
 
-**Sponsor**: MINISTER OF FINANCE
-
 Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act respecting further COVID-19 measures*".
 
 ## Summary
@@ -109,7 +107,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
     begins on January 1, 2020 and ends on March 15, 2020; or
 
-    **if the eligible entity elects,**
+    if the eligible entity elects,
 
     begins on March 1, 2019 and ends on May 31, 2019, in respect of a qualifying period described in any of paragraphs (a) to (c) of the definition qualifying period,
 
@@ -119,7 +117,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
   **(2)** The definition **eligible employee** in subsection 125.7(1) of the Act is replaced by the following:
 
-    **eligible employee**, of an eligible entity in respect of a week in a qualifying period, means an individual employed in Canada by the eligible entity in the qualifying period, other than, **if the qualifying period is described in any of paragraphs (a) to (c.1) of the definition qualifying period**, an individual who is without remuneration by the eligible entity in respect of 14 or more consecutive days in the qualifying period. (**employé admissible**)
+    **eligible employee**, of an eligible entity in respect of a week in a qualifying period, means an individual employed in Canada by the eligible entity in the qualifying period, other than, if the qualifying period is described in any of paragraphs (a) to (c.1) of the definition qualifying period, an individual who is without remuneration by the eligible entity in respect of 14 or more consecutive days in the qualifying period. (**employé admissible**)
 
   **(3)** The definition current reference period in subsection 125.7(1) of the Act is amended by striking out "and" at the end of paragraph (c) and by adding the following after that paragraph:
 
@@ -137,9 +135,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
   **(4)** Paragraphs (a) and (b) of the definition eligible entity in subsection 125.7(1) of the Act are replaced by the following:
 
-    a corporation **or a trust**, other than a corporation **or a trust** that is exempt from tax under this Part or is a public institution;
+    a corporation or a trust, other than a corporation or a trust that is exempt from tax under this Part or is a public institution;
 
-    an individual **other than a trust**;
+    an individual other than a trust;
 
   **(5)** Paragraph (a) of the definition prior reference period in subsection 125.7(1) of the Act is amended by striking out "and" at the end of subparagraph (ii) and by adding the following after subparagraph (iii):
 
@@ -157,27 +155,27 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
   **(6)** Subparagraphs (b)(i) and (ii) of the definition prior reference period in subsection 125.7(1) of the Act are replaced by the following:
 
-    on March 1, 2019, the eligible entity was not carrying on business or otherwise carrying on its ordinary activities **and the qualifying period is referred to in any of paragraphs (a) to (c.1) of the definition qualifying period**, or
+    on March 1, 2019, the eligible entity was not carrying on business or otherwise carrying on its ordinary activities and the qualifying period is referred to in any of paragraphs (a) to (c.1) of the definition qualifying period, or
 
     the qualifying period is referred to in any of
 
-    paragraphs (a) to **(c.1)** of the definition qualifying period and the eligible entity elects for all of **the periods set out in** paragraphs **(a) to (c) of that definition**, or
+    paragraphs (a) to (c.1) of the definition qualifying period and the eligible entity elects for all of the periods set out in paragraphs (a) to (c) of that definition, or
 
     paragraphs (c.2) to (d) of the definition qualifying period and the eligible entity elects for all of the periods set out in those paragraphs; and
 
   **(7)** Paragraph (a) of the definition qualifying entity in subsection 125.7(1) of the Act is replaced by the following:
 
-    it files an application with the Minister in respect of the qualifying period in prescribed form and manner, before **February 2021**;
+    it files an application with the Minister in respect of the qualifying period in prescribed form and manner, before February 2021;
 
   **(8)** The portion of paragraph (c) of the definition qualifying entity in subsection 125.7(1) of the Act before subparagraph (i) is replaced by the following:
 
-    **if the qualifying period is described in any of paragraphs (a) to (c.1) of the definition qualifying period**, its qualifying revenues for the current reference period are equal to or less than the specified percentage, for the qualifying period, of
+    if the qualifying period is described in any of paragraphs (a) to (c.1) of the definition qualifying period, its qualifying revenues for the current reference period are equal to or less than the specified percentage, for the qualifying period, of
 
   **(9)** Paragraph (d) of the definition qualifying entity in subsection 125.7(1) of the Act is replaced by the following:
 
-    **it meets either of the following conditions**:
+    it meets either of the following conditions:
 
-    it had, on March 15, 2020, a business number in respect of which it is registered with the Minister to make remittances required under section 153, **or**
+    it had, on March 15, 2020, a business number in respect of which it is registered with the Minister to make remittances required under section 153, or
 
     it is the case that
 
@@ -207,7 +205,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
     the period that begins on October 25, 2020 and ends on November 21, 2020; or
 
-    a prescribed period that ends no later than **December 31**, 2020. (**période d'admissibilité**)
+    a prescribed period that ends no later than December 31, 2020. (**période d'admissibilité**)
 
   **(11)** The definition qualifying revenue in subsection 125.7(1) of the Act is amended by adding the following after paragraph (b):
 
@@ -215,7 +213,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
   **(12)** Paragraph (b) of the definition institution publique in subsection 125.7(1) of the French version of the Act is replaced by the following:
 
-    une école, un conseil scolaire, un hôpital, une autorité sanitaire, une université **publique** ou un collège. (**public institution**)
+    une école, un conseil scolaire, un hôpital, une autorité sanitaire, une université publique ou un collège. (**public institution**)
 
   **(13)** Subsection 125.7(1) of the Act is amended by adding the following in alphabetical order:
 
@@ -277,11 +275,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
     is the total of all amounts, each of which is for an eligible employee in respect of a week in the qualifying period,
 
-    **if the qualifying period is described in any of paragraphs (a) to (c.1) of the definition qualifying period in subsection (1), equal to the greater of**
+    if the qualifying period is described in any of paragraphs (a) to (c.1) of the definition qualifying period in subsection (1), equal to the greater of
 
     the least of
 
-    75% of eligible remuneration paid to the eligible employee **by the qualifying entity** in respect of that week,
+    75% of eligible remuneration paid to the eligible employee by the qualifying entity in respect of that week,
 
     $847, and
 
@@ -289,13 +287,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
     the least of
 
-    the amount of eligible remuneration paid to the eligible employee by **the qualifying entity** in respect of that week,
+    the amount of eligible remuneration paid to the eligible employee by the qualifying entity in respect of that week,
 
     75% of baseline remuneration in respect of the eligible employee determined for that week, and
 
     $847, and
 
-    **if the qualifying period is described in any of paragraphs (c.2) to (d) of the definition qualifying period in subsection (1),**
+    if the qualifying period is described in any of paragraphs (c.2) to (d) of the definition qualifying period in subsection (1),
 
     if the eligible employee is not on leave with pay for that week and the qualifying period is described in paragraph (c.2) or (c.3) of the definition qualifying period in subsection (1), the greater of
 
@@ -359,7 +357,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
     the top-up percentage of the qualifying entity for the qualifying period is greater than 0%, and
 
-    **in any other case**, the total of all amounts, each of which is for an eligible employee in respect of a week in the qualifying period, if the eligible employee is on leave with pay for that week and the amount is
+    in any other case, the total of all amounts, each of which is for an eligible employee in respect of a week in the qualifying period, if the eligible employee is on leave with pay for that week and the amount is
 
     an amount payable by the qualifying entity
 
@@ -371,9 +369,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
   **(16)** Paragraph 125.7(4)(e) of the Act is replaced by the following:
 
-    an eligible entity may make an election, which must apply for all qualifying periods, to determine its **qualifying** revenues based on
+    an eligible entity may make an election, which must apply for all qualifying periods, to determine its qualifying revenues based on
 
-    the cash method, within the meaning assigned by subsection 28(1) with any modifications that the circumstances require, **or**
+    the cash method, within the meaning assigned by subsection 28(1) with any modifications that the circumstances require, or
 
     the accrual method, in accordance with generally accepted accounting principles.
 
@@ -405,13 +403,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
     it is reasonable to conclude that one of the main purposes of the transaction, event, series or action in paragraph (a) is to
 
-    cause an eligible entity to qualify for the deemed overpayment under subsection (2) in respect of that qualifying period, **or**
+    cause an eligible entity to qualify for the deemed overpayment under subsection (2) in respect of that qualifying period, or
 
     in respect of qualifying periods described in any of paragraphs (c.2) to (d) of the definition qualifying period in subsection (1), increase the amount of a deemed overpayment under subsection (2).
 
   **(19)** Paragraph 125.7(7)(a) of the Act is replaced by the following:
 
-    for the purposes of subsection (2) and **subsections 152(3.4) and** 160.1(1), to be a taxpayer; and
+    for the purposes of subsection (2) and subsections 152(3.4) and 160.1(1), to be a taxpayer; and
 
   **(20)** Subsections 125.7(8) and (9) of the Act are replaced by the following:
 
@@ -423,7 +421,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
     **(9)** If, absent the application of this subsection,
 
-      an eligible entity meets the conditions in paragraph (c) of the definition qualifying entity in subsection (1) in respect of a particular qualifying period **described in any of paragraphs (a) to (c) of the definition qualifying period in subsection (1)**, then the eligible entity is deemed to meet the conditions of that paragraph in respect of the immediately following qualifying period; or
+      an eligible entity meets the conditions in paragraph (c) of the definition qualifying entity in subsection (1) in respect of a particular qualifying period described in any of paragraphs (a) to (c) of the definition qualifying period in subsection (1), then the eligible entity is deemed to meet the conditions of that paragraph in respect of the immediately following qualifying period; or
 
       a lower revenue reduction percentage is determined in respect of an eligible entity for a particular qualifying period described in any of paragraphs (c.2) to (d) of the definition qualifying period in subsection (1) than for the immediately preceding qualifying period, then the revenue reduction percentage in respect of the eligible entity for the particular qualifying period is deemed to be equal to its revenue reduction percentage for the immediately preceding qualifying period.
 
@@ -489,7 +487,7 @@ Subsection 10(2) of the `Children's Special Allowances Act` is replaced by the f
 
 **(2)** Any information obtained by or on behalf of the Minister in the course of the administration or enforcement of this Act or the regulations or the carrying out of an agreement entered into under section 11 may be communicated
 
-  to any person if it can reasonably be regarded as necessary for the purposes of the administration or enforcement of this Act, the `Income Tax Act`, the `Canada Disability Savings Act` or the `Canada Education Savings Act` or a program administered under an agreement entered into under section 12 of the `Canada Education Savings Act`; **and**
+  to any person if it can reasonably be regarded as necessary for the purposes of the administration or enforcement of this Act, the `Income Tax Act`, the `Canada Disability Savings Act` or the `Canada Education Savings Act` or a program administered under an agreement entered into under section 12 of the `Canada Education Savings Act`; and
 
   to the Department of Employment and Social Development, to the extent that the communication is required for the administration of a program to provide a one-time payment to persons with disabilities for reasons related to the coronavirus disease 2019 (COVID-19).
 
