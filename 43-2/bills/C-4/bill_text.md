@@ -1,7 +1,5 @@
 # Bill C-4: An Act relating to certain measures in response to COVID-19
 
-**Sponsor**: MINISTER OF EMPLOYMENT, WORKFORCE DEVELOPMENT AND DISABILITY INCLUSION
-
 Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act relating to certain measures in response to COVID-19*".
 
 ## Summary
@@ -437,7 +435,7 @@ The amount of a Canada recovery sickness benefit for a week is $500.
 
     in the case of an application made under section `18` in respect of a week beginning in 2021, they had, for 2019 or for 2020 or in the 12-month period preceding the day on which they make the application, a total income of at least $5,000 from the sources referred to in subparagraphs (d)(i) to (v);
 
-    they have, as an employee, been unable to work for at least 50% of the time they would have otherwise worked in that week — or they have, as a self-employed person reduced the time devoted to their work as a self-employed person by at least 50% of the time they would have otherwise worked in that week — because
+    they have, as an employee, been unable to work for at least 50% of the time they would have otherwise worked in that week — or they have, as a self-employed person, reduced the time devoted to their work as a self-employed person by at least 50% of the time they would have otherwise worked in that week — because
 
     they cared for a child who was under 12 years of age on the first day of the week because
 
@@ -706,7 +704,7 @@ All money required to do anything in relation to this Act, including all money r
 
   **(1)** The portion of paragraph 60(n) of the `Income Tax Act` before subparagraph (i) is replaced by the following:
 
-    any amount paid by the taxpayer in the year as a repayment (otherwise than because of Part VII of the `Unemployment Insurance Act`, chapter U-1 of the Revised Statutes of Canada, 1985, Part VII of the `Employment Insurance Act` **or section 8 of the `Canada Recovery Benefits Act`**) of any of the following amounts to the extent that the amount was included in computing the taxpayer's income, and not deducted in computing the taxpayer's taxable income, for the year or for a preceding taxation year, namely,
+    any amount paid by the taxpayer in the year as a repayment (otherwise than because of Part VII of the `Unemployment Insurance Act`, chapter U-1 of the Revised Statutes of Canada, 1985, Part VII of the `Employment Insurance Act` or section 8 of the `Canada Recovery Benefits Act`) of any of the following amounts to the extent that the amount was included in computing the taxpayer's income, and not deducted in computing the taxpayer's taxable income, for the year or for a preceding taxation year, namely,
 
   **(2)** Section 60 of the Act is amended by adding the following after paragraph (v.1):
 
@@ -741,7 +739,7 @@ the evaluation or formulation of policy of a program established by a department
 
   **(1)** The portion of subsection 103(4) of the `Income Tax Regulations` before paragraph (a) is replaced by the following:
 
-    **(4)** Subject to **subsections (4.1) and** (5), where a lump sum payment is made by an employer to an employee who is a resident of Canada,
+    **(4)** Subject to subsections (4.1) and (5), where a lump sum payment is made by an employer to an employee who is a resident of Canada,
 
   **(2)** Section 103 of the Regulations is amended by adding the following after subsection (4):
 
@@ -831,7 +829,7 @@ the evaluation or formulation of policy of a program established by a department
 
   **(2)** Paragraph 239.01(13)(b) of the Act is replaced by the following:
 
-    fix a number of weeks for the **purposes** of **paragraph** (1)**(a) or (b)**.
+    fix a number of weeks for the purposes of paragraph (1)(a) or (b).
 
 ### Section 4
 
@@ -853,9 +851,9 @@ Section 46 of the `COVID-19 Emergency Response Act` is replaced by the following
 
 ### Section 46
 
-  ****(1)**** Subsections 37(5), 39(7), 40(5) and 42(2) come into force on **September 25, 2021**.
+  **(1)** Subsections 37(5), 39(7), 40(5) and 42(2) come into force on September 25, 2021.
 
-  ****(2)**** Subsections 37(2) and (3), 38(2), 39(2), (4) and (5) and 40(2) and (3), section 41 and **subsection** 43(2) **come into force on September 26, 2021**.
+  **(2)** Subsections 37(2) and (3), 38(2), 39(2), (4) and (5) and 40(2) and (3), section 41 and subsection 43(2) come into force on September 26, 2021.
 
 
 #### `Canada Labour Standards Regulations`
@@ -1110,7 +1108,7 @@ Section 2 of the `Public Health Events of National Concern Payments Act` is repl
 
 ### Section 2
 
-**Subject to section 3**, there may be paid out of the Consolidated Revenue Fund, on the requisition of a federal minister and with the concurrence of the Minister of Finance and the Minister of Health **obtained no later than September 30, 2020**, all money required to do anything in relation to the **measures specified in the schedule in respect** of the coronavirus disease 2019 (COVID-19), which has **been determined** by the Minister of Health to be a public health event of national concern.
+Subject to section 3, there may be paid out of the Consolidated Revenue Fund, on the requisition of a federal minister and with the concurrence of the Minister of Finance and the Minister of Health obtained no later than September 30, 2020, all money required to do anything in relation to the measures specified in the schedule in respect of the coronavirus disease 2019 (COVID-19), which has been determined by the Minister of Health to be a public health event of national concern.
 
 ### Section 3
 
@@ -1129,7 +1127,7 @@ Section 11 of the `COVID-19 Emergency Response Act` is replaced by the following
 
 ### Section 11
 
-Section 10 comes into force on **December 31, 2020**.
+Section 10 comes into force on December 31, 2020.
 
 
 ### Coordinating Amendments
