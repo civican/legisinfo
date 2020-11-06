@@ -1,6 +1,6 @@
 # Bill C-9: An Act to amend the Income Tax Act (Canada Emergency Rent Subsidy and Canada Emergency Wage Subsidy)
 
-**Sponsor**: DEPUTY PRIME MINISTER AND MINISTER OF FINANCE
+Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act to amend the Income Tax Act (Canada Emergency Rent Subsidy and Canada Emergency Wage Subsidy)*".
 
 ## Summary
 
@@ -15,7 +15,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
   **(1)** Paragraph 87(2)(g.6) of the `Income Tax Act` is replaced by the following:
 
-    for the purposes of section 125.7, the new corporation is deemed to be the same corporation as, and a continuation of, each predecessor corporation unless it is reasonable to consider that one of the main purposes of the amalgamation is to cause the new corporation to qualify for the deemed overpayment under subsection 125.7(2) **or (2.1)** or to increase the amount of that deemed overpayment;
+    for the purposes of section 125.7, the new corporation is deemed to be the same corporation as, and a continuation of, each predecessor corporation unless it is reasonable to consider that one of the main purposes of the amalgamation is to cause the new corporation to qualify for the deemed overpayment under subsection 125.7(2) or (2.1) or to increase the amount of that deemed overpayment;
 
   **(2)** Subsection (1) is deemed to have come into force on September 27, 2020.
 
@@ -23,11 +23,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
   **(1)** The definitions **eligible employee** and top-up revenue reduction percentage in subsection 125.7(1) of the Act are replaced by the following:
 
-    **eligible employee**, of an eligible entity in respect of a week in a qualifying period, means an individual employed by the eligible entity **primarily** in Canada **throughout** the qualifying period (**or the portion of the qualifying period throughout which the individual was employed by the eligible entity**), other than, if the qualifying period is described in any of paragraphs (a) to (c.1) of the definition qualifying period, an individual who is without remuneration by the eligible entity in respect of 14 or more consecutive days in the qualifying period. (**employé admissible**)
+    **eligible employee**, of an eligible entity in respect of a week in a qualifying period, means an individual employed by the eligible entity primarily in Canada throughout the qualifying period (or the portion of the qualifying period throughout which the individual was employed by the eligible entity), other than, if the qualifying period is described in any of paragraphs (a) to (c.1) of the definition qualifying period, an individual who is without remuneration by the eligible entity in respect of 14 or more consecutive days in the qualifying period. (**employé admissible**)
 
     **top-up revenue reduction percentage**, of an eligible entity for a qualifying period, means
 
-    **for a qualifying period referred to in any of paragraphs (c.2) to (c.4) of the definition qualifying period, the result (expressed as a percentage) of the formula**
+    for a qualifying period referred to in any of paragraphs (c.2) to (c.4) of the definition qualifying period, the result (expressed as a percentage) of the formula
 
     is the average monthly qualifying revenue of the eligible entity for the last three calendar months that ended prior to the current reference period for the qualifying period, and
 
@@ -43,17 +43,17 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
     the revenue reduction percentage of the eligible entity for the qualifying period; and
 
-    **for a qualifying period referred to in paragraph (d) of the definition qualifying period, the revenue reduction percentage of the eligible entity for the qualifying period. **(pourcentage compensatoire de baisse de revenu)****
+    for a qualifying period referred to in paragraph (d) of the definition qualifying period, the revenue reduction percentage of the eligible entity for the qualifying period. **(pourcentage compensatoire de baisse de revenu)**
 
   **(2)** Paragraph (b) of the definition baseline remuneration in subsection 125.7(1) of the Act is amended by striking out "or" at the end of subparagraph (ii), by adding "or" at the end of subparagraph (iii) and by adding the following after subparagraph (iii):
 
-    if the eligible employee was on leave for any reason mentioned in subsection 12(3) of the `Employment Insurance Act` or section 2 of the `Act respecting parental insurance` CQLR, c. A-29.011 throughout the period that begins on July 1, 2019 and ends on March 15, 2020, begins 90 days prior to the date on which the employee commenced that leave and ends on the day prior to the date on which they commenced their leave, in respect of a qualifying period referred to in any of paragraphs (c.2) to (d) of the definition qualifying period. **(rémunération de base)**
+    if the eligible employee was on leave for any reason mentioned in subsection 12(3) of the `Employment Insurance Act` or section 2 of the `Act respecting parental insurance`, CQLR, c. A-29.011 throughout the period that begins on July 1, 2019 and ends on March 15, 2020, begins 90 days prior to the date on which the employee commenced that leave and ends on the day prior to the date on which they commenced their leave, in respect of a qualifying period referred to in any of paragraphs (c.2) to (d) of the definition qualifying period. **(rémunération de base)**
 
   **(3)** Subparagraphs (e)(i) and (ii) of the definition **base percentage** in subsection 125.7(1) of the Act are replaced with the following:
 
-    if the entity's revenue reduction percentage is greater than or equal to 50%, **40**%, and
+    if the entity's revenue reduction percentage is greater than or equal to 50%, 40%, and
 
-    in any other case, **0.8** multiplied by the revenue reduction percentage;
+    in any other case, 0.8 multiplied by the revenue reduction percentage;
 
   **(4)** Paragraph (f) of the definition **base percentage** in subsection 125.7(1) of the Act is replaced with the following:
 
@@ -63,7 +63,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
     in any other case, 0.8 multiplied by the revenue reduction percentage; and
 
-    for **a** qualifying period referred to in paragraph (d) of the definition qualifying period, a percentage determined by regulation in respect of the eligible entity. (**pourcentage de base**)
+    for a qualifying period referred to in paragraph (d) of the definition qualifying period, a percentage determined by regulation in respect of the eligible entity. (**pourcentage de base**)
 
   **(5)** The definition current reference period in subsection 125.7(1) of the Act is amended by striking out "and" at the end of paragraph (c.6) and by adding the following after that paragraph:
 
@@ -75,7 +75,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
   **(7)** Paragraph (a) of the definition qualifying entity in subsection 125.7(1) of the Act is replaced by the following:
 
-    it files an application with the Minister in respect of the qualifying period in prescribed form and manner **on or** before **the later of**
+    it files an application with the Minister in respect of the qualifying period in prescribed form and manner on or before the later of
 
     January 31, 2021, and
 
@@ -85,15 +85,15 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
     the period that begins on November 22, 2020 and ends on December 19, 2020; or
 
-    a prescribed period that ends no later than **June 30, 2021**. **(période d'admissibilité)**
+    a prescribed period that ends no later than June 30, 2021. **(période d'admissibilité)**
 
   **(9)** Paragraph (b) of the definition specified percentage in subsection 125.7(1) of the Act is replaced by the following:
 
-    for the qualifying period referred to in **any of paragraphs** (b) **to (c.1)** of the definition qualifying period, 70%; and
+    for the qualifying period referred to in any of paragraphs (b) to (c.1) of the definition qualifying period, 70%; and
 
   **(10)** The portion of the definition top-up percentage in subsection 125.7(1) of the Act before the formula is replaced by the following:
 
-    **top-up percentage**, of an eligible entity for a qualifying period, means the **percentage determined by regulation for the qualifying period or, if there is no percentage determined by regulation for the qualifying period**, the lesser of 25% and the percentage determined by the formula
+    **top-up percentage**, of an eligible entity for a qualifying period, means the percentage determined by regulation for the qualifying period or, if there is no percentage determined by regulation for the qualifying period, the lesser of 25% and the percentage determined by the formula
 
   **(11)** Subsection 125.7(1) of the Act is amended by adding the following in alphabetical order:
 
@@ -261,21 +261,21 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
   **(13)** Subsection 125.7(3) of the Act is replaced by the following:
 
-    **(3)** For the purposes of this Act other than this section, and for greater certainty, **an** amount that a qualifying entity **or qualifying renter** is deemed under subsection (2) **or (2.1)** to have overpaid is assistance received by it from a government immediately before the end of the qualifying period to which it relates.
+    **(3)** For the purposes of this Act other than this section, and for greater certainty, an amount that a qualifying entity or qualifying renter is deemed under subsection (2) or (2.1) to have overpaid is assistance received by it from a government immediately before the end of the qualifying period to which it relates.
 
   **(14)** Paragraph 125.7(4)(c) of the Act is replaced by the following:
 
-    if all of the interests in an eligible entity are owned by participants in a joint venture and all or substantially all of the qualifying revenue of the eligible entity for a qualifying period is in respect of the joint venture, then the eligible entity may use the qualifying revenues of the joint venture (determined as if the joint venture were an eligible entity) **as** its qualifying revenues for the **qualifying period for** the purposes of **this section**;
+    if all of the interests in an eligible entity are owned by participants in a joint venture and all or substantially all of the qualifying revenue of the eligible entity for a qualifying period is in respect of the joint venture, then the eligible entity may use the qualifying revenues of the joint venture (determined as if the joint venture were an eligible entity) as its qualifying revenues for the qualifying period for the purposes of this section;
 
   **(15)** The portion of paragraph 125.7(4)(d) of the Act before subparagraph (i) is replaced by the following:
 
-    if all or substantially all of an eligible entity's qualifying revenue — determined without reference to paragraph (d) of the definition qualifying revenue in subsection (1) — for a qualifying period is from one or more particular persons or partnerships with which it does not deal at arm's length and each particular person or partnership jointly elects with the eligible entity, for the purposes of **this section**
+    if all or substantially all of an eligible entity's qualifying revenue — determined without reference to paragraph (d) of the definition qualifying revenue in subsection (1) — for a qualifying period is from one or more particular persons or partnerships with which it does not deal at arm's length and each particular person or partnership jointly elects with the eligible entity, for the purposes of this section
 
   **(16)** Paragraph 125.7(4.1)(b) of the Act is replaced by the following:
 
     immediately prior to the acquisition, the fair market value of the acquired assets constituted
 
-    all or substantially all of the fair market value of the property of the seller used in the course of carrying on business, **or**
+    all or substantially all of the fair market value of the property of the seller used in the course of carrying on business, or
 
     if the seller and the eligible entity deal with each other at arm's length, all or substantially all of the property of the seller that can reasonably be regarded as being necessary for the eligible entity to be capable of carrying on a business of the seller, or part of a business of the seller, as a business;
 
@@ -289,11 +289,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
   **(18)** Paragraph 125.7(5)(a) of the Act is replaced by the following:
 
-    the amount of any deemed overpayment by an eligible entity under subsection (2) **or (2.1)** in respect of a qualifying period cannot exceed the amount claimed by the **eligible** entity — in the application referred to in paragraph (a) of the definition qualifying entity in subsection (1) **or paragraph (a) of the definition qualifying renter in subsection (1)** — in respect of that qualifying period; and
+    the amount of any deemed overpayment by an eligible entity under subsection (2) or (2.1) in respect of a qualifying period cannot exceed the amount claimed by the eligible entity — in the application referred to in paragraph (a) of the definition qualifying entity in subsection (1) or paragraph (a) of the definition qualifying renter in subsection (1) — in respect of that qualifying period; and
 
   **(19)** Subsection 125.7(6) of the Act is replaced by the following:
 
-    **(6)** **Notwithstanding any other provision in this section**, the qualifying revenue of an eligible entity for a current reference period for a qualifying period is deemed to be equal to the qualifying revenue of the eligible entity for the relevant prior reference period, if
+    **(6)** Notwithstanding any other provision in this section, the qualifying revenue of an eligible entity for a current reference period for a qualifying period is deemed to be equal to the qualifying revenue of the eligible entity for the relevant prior reference period, if
 
       the eligible entity, or a person or partnership not dealing at arm's length with the eligible entity, enters into a transaction or participates in an event (or a series of transactions or events) or takes an action (or fails to take an action) — other than, for greater certainty, a decision under subparagraph (a)(ii) or (b)(ii) of the definition qualifying revenue in subsection (1) or the decision to use one of the methods of computing qualifying revenues under subsection (4) — that has the effect of
 
@@ -305,25 +305,25 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
       cause an eligible entity to qualify for the deemed overpayment under subsection (2) in respect of that qualifying period,
 
-      in respect of qualifying periods described in any of paragraphs (c.2) to (d) of the definition qualifying period in subsection (1), increase the amount of a deemed overpayment under subsection (2), **or**
+      in respect of qualifying periods described in any of paragraphs (c.2) to (d) of the definition qualifying period in subsection (1), increase the amount of a deemed overpayment under subsection (2), or
 
       increase the amount of a deemed overpayment under subsection (2.1).
 
   **(20)** Paragraphs 125.7(7)(a) and (b) of the Act are replaced by the following:
 
-    for the purposes of **subsections** (2) **and (2.1)** and subsections 152(3.4) and 160.1(1), to be a taxpayer; and
+    for the purposes of subsections (2) and (2.1) and subsections 152(3.4) and 160.1(1), to be a taxpayer; and
 
-    for the purposes of **subsections** (2) **and (2.1)**, to have a liability under this Part for a taxation year in which a qualifying period ends.
+    for the purposes of subsections (2) and (2.1), to have a liability under this Part for a taxation year in which a qualifying period ends.
 
   **(21)** Subsection 125.7(8) of the Act is replaced by the following:
 
-    **(8)** The following may be prescribed **for the purposes of**:
+    **(8)** The following may be prescribed for the purposes of:
 
       the definition base percentage in subsection (1),
 
-      the percentages in subparagraphs (a)(i), (b)(i), (c)(i), (d)(i), (e)(i) **and (f)(i)**, and
+      the percentages in subparagraphs (a)(i), (b)(i), (c)(i), (d)(i), (e)(i) and (f)(i), and
 
-      the factors in subparagraphs (a)(ii), (b)(ii), (c)(ii), (d)(ii), (e)(ii) **and (f)(ii)**;
+      the factors in subparagraphs (a)(ii), (b)(ii), (c)(ii), (d)(ii), (e)(ii) and (f)(ii);
 
       the definition rent subsidy percentage in subsection (1), the factors and percentages in paragraph (a) of that definition; and
 
@@ -337,7 +337,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
   **(23)** Subsections (1) to (10) and (14) to (17) are deemed to have come into force on April 11, 2020; however, the definition eligible employee in subsection 125.7(1) of the `Income Tax Act`, as amended by subsection (1), is to be read as follows in respect of applications made before the day on which this Act receives royal assent:
 
-    **eligible employee**, of an eligible entity in respect of a week in a qualifying period, means an individual employed in Canada by the eligible entity in the qualifying period, other than, if the qualifying period is described in any of paragraphs (a) to (c.1) of the definition qualifying period, an individual who is without remuneration by the eligible entity in respect of 14 or more consecutive days in the qualifying period.  (**employé admissible**)
+    **eligible employee**, of an eligible entity in respect of a week in a qualifying period, means an individual employed in Canada by the eligible entity in the qualifying period, other than, if the qualifying period is described in any of paragraphs (a) to (c.1) of the definition qualifying period, an individual who is without remuneration by the eligible entity in respect of 14 or more consecutive days in the qualifying period. (**employé admissible**)
 
   **(24)** Subsections (11) to (13) and (18) to (22) are deemed to have come into force on September 27, 2020.
 
@@ -345,27 +345,27 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
   **(1)** Paragraph 152(1)(b) of the Act is replaced by the following:
 
-    the amount of tax, if any, deemed by subsection 120(2) or (2.2), 122.5(3) or (3.001), 122.51(2), 122.7(2) or (3), 122.8(4), 122.9(2), 122.91(1), 125.4(3), 125.5(3), 125.6(2), 125.7(2) **or (2.1)**, 127.1(1), 127.41(3) or 210.2(3) or (4) to be paid on account of the taxpayer's tax payable under this Part for the year.
+    the amount of tax, if any, deemed by subsection 120(2) or (2.2), 122.5(3) or (3.001), 122.51(2), 122.7(2) or (3), 122.8(4), 122.9(2), 122.91(1), 125.4(3), 125.5(3), 125.6(2), 125.7(2) or (2.1), 127.1(1), 127.41(3) or 210.2(3) or (4) to be paid on account of the taxpayer's tax payable under this Part for the year.
 
   **(2)** Subsection 152(3.4) of the Act is replaced by the following:
 
-    **(3.4)** The Minister may at any time determine the amount deemed by subsection 125.7(2) **or (2.1)** to be an overpayment on account of a taxpayer's liability under this Part that arose during a qualifying period (as defined in subsection 125.7(1)), or determine that there is no such amount, and send a notice of the determination to the taxpayer.
+    **(3.4)** The Minister may at any time determine the amount deemed by subsection 125.7(2) or (2.1) to be an overpayment on account of a taxpayer's liability under this Part that arose during a qualifying period (as defined in subsection 125.7(1)), or determine that there is no such amount, and send a notice of the determination to the taxpayer.
 
 ### Section 4
 
   **(1)** Subparagraph 163(2)(i)(i) of the Act is replaced by the following:
 
-    the amount that would be deemed by subsection 125.7(2) **or (2.1)** to have been an overpayment by the person or partnership if that amount were calculated by reference to the information provided in the application filed pursuant to **paragraph (a) of the definition qualifying entity in subsection 125.7(1) or paragraph (a) of the definition qualifying renter in subsection 125.7(1), as the case may be**
+    the amount that would be deemed by subsection 125.7(2) or (2.1) to have been an overpayment by the person or partnership if that amount were calculated by reference to the information provided in the application filed pursuant to paragraph (a) of the definition qualifying entity in subsection 125.7(1) or paragraph (a) of the definition qualifying renter in subsection 125.7(1), as the case may be
 
   **(2)** Subsection 163(2.901) of the Act is replaced by the following:
 
-    **(2.901)** Every eligible entity that is deemed by subsection 125.7(6) to have an amount of qualifying revenue — for a current reference period for a qualifying period — is liable to a penalty equal to 25% of the amount that would be deemed by subsection 125.7(2) **or (2.1)** to have been an overpayment by the eligible entity during that qualifying period if that amount were calculated by reference to the information provided in the application filed pursuant to paragraph (a) of the definition qualifying entity in subsection 125.7(1) **or paragraph (a) of the definition qualifying renter in subsection 125.7(1), as the case may be**.
+    **(2.901)** Every eligible entity that is deemed by subsection 125.7(6) to have an amount of qualifying revenue — for a current reference period for a qualifying period — is liable to a penalty equal to 25% of the amount that would be deemed by subsection 125.7(2) or (2.1) to have been an overpayment by the eligible entity during that qualifying period if that amount were calculated by reference to the information provided in the application filed pursuant to paragraph (a) of the definition qualifying entity in subsection 125.7(1) or paragraph (a) of the definition qualifying renter in subsection 125.7(1), as the case may be.
 
 ### Section 5
 
 Subsection 164(1.6) of the Act is replaced by the following:
 
-**(1.6)** Notwithstanding subsection (2.01), at any time after the beginning of a taxation year of a taxpayer in which an overpayment is deemed to have arisen under subsection 125.7(2) **or (2.1)**, the Minister may refund to the taxpayer all or any part of the overpayment.
+**(1.6)** Notwithstanding subsection (2.01), at any time after the beginning of a taxation year of a taxpayer in which an overpayment is deemed to have arisen under subsection 125.7(2) or (2.1), the Minister may refund to the taxpayer all or any part of the overpayment.
 
 ### Section 6
 
