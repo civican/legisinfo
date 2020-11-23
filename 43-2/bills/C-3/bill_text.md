@@ -1,7 +1,5 @@
 # Bill C-3: An Act to amend the Judges Act and the Criminal Code
 
-**Sponsor**: MINISTER OF JUSTICE
-
 ## Summary
 
 This enactment amends the `Judges Act` to restrict eligibility for judicial appointment to persons who undertake to participate in continuing education on matters related to sexual assault law and social context. It also amends the `Judges Act` to provide that the Canadian Judicial Council should report on seminars offered for the continuing education of judges on matters related to sexual assault law and social context. Finally, it amends the `Criminal Code` to require that judges provide reasons for decisions in sexual assault proceedings.
@@ -45,21 +43,21 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
     after becoming a barrister or advocate at the bar of any province, exercised powers and performed duties and functions of a judicial nature on a full-time basis in respect of a position held under a law of Canada or a province; and
 
-    undertakes to participate in continuing education on matters related to sexual assault law and social context, **which includes systemic racism and systemic discrimination**, including by attending seminars established under paragraph 60(2)(b).
+    undertakes to participate in continuing education on matters related to sexual assault law and social context, which includes systemic racism and systemic discrimination, including by attending seminars established under paragraph 60(2)(b).
 
 ### Section 2
 
   **(1)** Paragraph 60(2)(b) of the Act is replaced by the following:
 
-    establish seminars for the continuing education of judges, including seminars on matters related to sexual assault law and social context, **which includes systemic racism and systemic discrimination**;
+    establish seminars for the continuing education of judges, including seminars on matters related to sexual assault law and social context, which includes systemic racism and systemic discrimination;
 
   **(2)** Section 60 of the Act is amended by adding the following after subsection (2):
 
-    **(3)** The Council **should** ensure that seminars on matters related to sexual assault law established under paragraph (2)(b)
+    **(3)** The Council should ensure that seminars on matters related to sexual assault law established under paragraph (2)(b)
 
-      are developed after consultation with persons, groups or organizations the Council considers appropriate, such as sexual assault survivors and **persons**, groups and organizations that support them, **including Indigenous leaders and representatives of Indigenous communities**; and
+      are developed after consultation with persons, groups or organizations the Council considers appropriate, such as sexual assault survivors and persons, groups and organizations that support them, including Indigenous leaders and representatives of Indigenous communities; and
 
-      include, **where the Council finds appropriate**, instruction in evidentiary prohibitions, principles of consent and the conduct of sexual assault proceedings, as well as education regarding myths and stereotypes associated with sexual assault complainants.
+      include, where the Council finds appropriate, instruction in evidentiary prohibitions, principles of consent and the conduct of sexual assault proceedings, as well as education regarding myths and stereotypes associated with sexual assault complainants.
 
 ### Section 3
 
@@ -67,13 +65,13 @@ The Act is amended by adding the following after section 62:
 
 ### Section 62.1
 
-  **(1)** Within 60 days after the end of each calendar year, the Council **should** submit to the Minister a report on the seminars referred to in paragraph 60(2)(b) on matters related to sexual assault law **and social context, which includes systemic racism and systemic discrimination**, that were offered in the preceding calendar year. The report **should** include the following information:
+  **(1)** Within 60 days after the end of each calendar year, the Council should submit to the Minister a report on the seminars referred to in paragraph 60(2)(b) on matters related to sexual assault law and social context, which includes systemic racism and systemic discrimination, that were offered in the preceding calendar year. The report should include the following information:
 
     the title and a description of the content of each seminar, its duration and the dates on which it was offered; and
 
     the number of judges who attended each seminar.
 
-  **(2)** The Minister shall cause a copy of **any** report **received** to be tabled in each House of Parliament on any of the first 10 days on which that House is sitting after the Minister receives the report.
+  **(2)** The Minister shall cause a copy of any report received to be tabled in each House of Parliament on any of the first 10 days on which that House is sitting after the Minister receives the report.
 
 
 ## Criminal Code
