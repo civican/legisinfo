@@ -1,7 +1,5 @@
 # Bill C-7: An Act to amend the Criminal Code (medical assistance in dying)
 
-**Sponsor**: MINISTER OF JUSTICE
-
 ## Summary
 
 This enactment amends the `Criminal Code` to, among other things,
