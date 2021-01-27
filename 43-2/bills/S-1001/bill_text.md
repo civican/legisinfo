@@ -1,7 +1,5 @@
 # Bill S-1001: An Act respecting Girl Guides of Canada
 
-**Sponsor**: Senator Jaffer
-
 ## Summary
 
 This enactment replaces `An Act to Incorporate The Canadian Council of The Girl Guides Association`, chapter 77 of the Statutes of Canada, 1917, with a new Act that continues the corporation known as "Girl Guides of Canada" and makes changes relating to its administration.
