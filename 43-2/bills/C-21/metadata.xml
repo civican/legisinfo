@@ -1,0 +1,593 @@
+<Bills>
+  <Bill>
+    <Id>11102978</Id>
+    <NumberCode>C-21</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>21</Number>
+    <LongTitleEn>An Act to amend certain Acts and to make certain consequential amendments (firearms)</LongTitleEn>
+    <LongTitleFr>Loi modifiant certaines lois et d'autres textes en conséquence (armes à feu)</LongTitleFr>
+    <LongTitle>An Act to amend certain Acts and to make certain consequential amendments (firearms)</LongTitle>
+    <ShortTitleEn>
+    </ShortTitleEn>
+    <ShortTitleFr>
+    </ShortTitleFr>
+    <ShortTitle>
+    </ShortTitle>
+    <StatusId>349</StatusId>
+    <StatusNameEn>At second reading in the House of Commons</StatusNameEn>
+    <StatusNameFr>À la deuxième lecture à la Chambre des communes</StatusNameFr>
+    <StatusName>At second reading in the House of Commons</StatusName>
+    <LatestCompletedMajorStageId>60043</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>First reading</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Première lecture</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>First reading</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>First reading in the House of Commons</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>1</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>House of Commons</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Chambre des communes</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>House of Commons</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60030</OngoingStageId>
+    <OngoingStageNameEn>Second reading</OngoingStageNameEn>
+    <OngoingStageNameFr>Deuxième lecture</OngoingStageNameFr>
+    <OngoingStageName>Second reading</OngoingStageName>
+    <LatestCompletedBillStageId>60029</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>First reading</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Première lecture</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>First reading</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>1</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>House of Commons</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Chambre des communes</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>House of Commons</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2021-02-16T10:10:50.643</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>43</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>88961</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Bill</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Blair</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Bill Blair</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Public Safety and Emergency Preparedness</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre de la Sécurité publique et de la Protection civile</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Public Safety and Emergency Preparedness</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>4</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Minister</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>ministre</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Minister</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>812</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Scarborough Southwest</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Scarborough-Sud-Ouest</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Scarborough Southwest</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60115</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Debate at second reading</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Débat à l'étape de la deuxième lecture</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60030</LatestBillEventStageId>
+    <LatestBillEventTypeName>Debate at second reading</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2021-05-28T10:00:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>1</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>House of Commons</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Chambre des communes</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>House of Commons</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>106</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2021-02-16T10:10:50.643</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime />
+    <PassedHouseThirdReadingDateTime />
+    <PassedSenateFirstReadingDateTime />
+    <PassedSenateSecondReadingDateTime />
+    <PassedSenateThirdReadingDateTime />
+    <ReceivedRoyalAssentDateTime />
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>false</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>false</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>false</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>false</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>false</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>false</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information and Research Service of the Library of Parliament. Meanwhile, the following executive summary is available.&lt;br/&gt;&lt;br/&gt;On 16 February 2021, the Minister of Public Safety and Emergency Preparedness introduced Bill C-21, An Act to amend certain Acts and to make certain consequential amendments (firearms), in the House of Commons and it was given first reading.    &lt;br/&gt;&lt;br/&gt;Bill C-21 amends the Criminal Code to, among other things,&lt;br/&gt;(a) increase, from 10 to 14 years, the maximum penalty of imprisonment for indictable weapons offences in sections 95, 96, 99, 100 and 103;&lt;br/&gt;(b) establish a regime that would permit any person to apply for an emergency prohibition order or an emergency limitations on access order;&lt;br/&gt;(c) deem certain firearms to be prohibited devices for the purpose of specified provisions;&lt;br/&gt;(d) create a new offence for altering a cartridge magazine to exceed its lawful capacity; and&lt;br/&gt;(e) authorize employees of certain federal entities who are responsible for security to be considered as public officers for the purpose of section 117.07.&lt;br/&gt;&lt;br/&gt;The enactment also amends the Firearms Act to, among other things,&lt;br/&gt;(a) limit the possession of firearms listed in the regulations made by Order in Council P.C. 2020-298 of May 1, 2020 and registered as SOR/2020-96, and of non-restricted and restricted firearms that become prohibited by regulation;&lt;br/&gt;(b) transfer authority to the Commissioner of Firearms to approve, refuse, renew and revoke authorizations to carry referred to in paragraph 20(a) of the Act;&lt;br/&gt;(c) impose requirements in respect of the importation of ammunition;&lt;br/&gt;(d) require that the holders of a licence authorizing the possession of a handgun comply with the requirements and prohibitions relating to the storage and transporting of handguns within a municipality in which a by-law establishing those requirements and prohibitions is in force if the Minister of Public Safety and Emergency Preparedness is notified of the by-law in the prescribed manner, and provide for exceptions to that requirement;&lt;br/&gt;(e) require that the Commissioner of Firearms maintain a publicly available list of the municipalities in which such requirements and prohibitions apply;&lt;br/&gt;(f) authorize a chief firearms officer to suspend a licence if they have reasonable grounds to suspect that the licence holder is no longer eligible for it;&lt;br/&gt;(g) require the delivery of firearms to a peace officer, or their lawful disposal, if a refusal to issue, or revocation of, a licence or registration certificate has been referred to a provincial court under section 74 of the Act in respect of those firearms;&lt;br/&gt;(h) authorize, in certain circumstances, the Commissioner of Firearms, the Registrar of Firearms or a chief firearms officer to disclose certain information to a law enforcement agency for the purpose of an investigation or prosecution related to the trafficking of firearms;&lt;br/&gt;(i) provide that the annual report to the Minister of Public Safety and Emergency Preparedness regarding the administration of the Act must include information on disclosures made to law enforcement agencies and be submitted no later than May 31 of each year; and&lt;br/&gt;(j) create an offence for a business to advertise a firearm in a manner that depicts, counsels or promotes violence against a person.&lt;br/&gt;&lt;br/&gt;The enactment also amends the Nuclear Safety and Control Act to, among other things,&lt;br/&gt;(a) provide nuclear security officers and on-site nuclear response force members with the authority to carry out the duties of peace officers at high-security nuclear sites; and&lt;br/&gt;(b) permit licensees who operate high-security nuclear sites to acquire, possess, transfer and dispose of firearms, prohibited weapons and prohibited devices used in the course of maintaining security at high-security nuclear sites.&lt;br/&gt;&lt;br/&gt;The enactment also amends the Immigration and Refugee Protection Act to&lt;br/&gt;(a) designate the Minister of Public Safety and Emergency Preparedness as the Minister responsible for the establishment of policies respecting inadmissibility on grounds of transborder criminality for the commission of an offence on entering Canada;&lt;br/&gt;(b) specify that the commission, on entering Canada, of certain offences under an Act of Parliament that are set out in the regulations is a ground of inadmissibility for a foreign national; and&lt;br/&gt;(c) correct certain provisions in order to resolve a discrepancy and clarify the rule set out in those provisions.&lt;/div&gt;</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>&lt;div&gt;Le Service d'information et de recherche parlementaires de la Bibliothèque du Parlement rédige actuellement le résumé législatif de ce projet de loi.  Entre-temps, le Service met à votre disposition le sommaire suivant.  &lt;br/&gt;&lt;br/&gt;Le 16 février 2021, le Ministre de la Sécurité publique et de la Protection civilea déposé le projet de loi C-21, Loi modifiant certaines lois et d'autres textes en conséquence (armes à feu) à la Chambre des communes en première lecture.   &lt;br/&gt;&lt;br/&gt;Le projet de loi C-21 modifie le Code criminel afin, notamment :&lt;br/&gt;a) de faire passer de dix à quatorze ans la peine maximale d'emprisonnement pour les actes criminels liés à des armes prévus aux articles 95, 96, 99, 100 et 103;&lt;br/&gt;b) d'établir un régime permettant à quiconque de demander une ordonnance d'interdiction d'urgence ou une ordonnance de restriction d'urgence;&lt;br/&gt;c) d'assimiler certaines armes à feu à des dispositifs prohibés pour l'application de dispositions spécifiques;&lt;br/&gt;d) d'ériger en infraction le fait de modifier un chargeur de façon à excéder sa capacité légale;&lt;br/&gt;e) de permettre que les employés de certaines entités fédérales chargés de la sécurité soient considérés comme des fonctionnaires publics pour l'application de l'article 117.07.&lt;br/&gt;&lt;br/&gt;Le texte modifie également la Loi sur les armes à feu afin, notamment :&lt;br/&gt;a) de restreindre la possession des armes à feu énumérées dans le règlement pris par le décret C.P. 2020-298 du 1er mai 2020 portant le numéro d'enregistrement DORS/2020-96 et celle des armes à feu sans restriction et à autorisation restreinte qui deviennent prohibées en vertu des règlements;&lt;br/&gt;b) de transférer au commissaire aux armes à feu le pouvoir d'approuver, de refuser, de renouveler ou de révoquer l'autorisation de port prévue à l'alinéa 20a) de cette loi;&lt;br/&gt;c) d'imposer des exigences relativement à l'importation de munitions;&lt;br/&gt;d) d'exiger que les titulaires d'un permis autorisant la possession d'une arme de poing se conforment aux exigences et interdictions relatives à l'entreposage et au transport de telles armes à feu prévues par un règlement municipal en vigueur sur le territoire de la municipalité si le ministre de la Sécurité publique et de la Protection civile est notifié de la manière réglementaire de l'existence du règlement municipal, ainsi que de prévoir des exceptions à cette exigence;&lt;br/&gt;e) d'exiger que le commissaire aux armes à feu tienne une liste, accessible au public, des municipalités sur le territoire desquelles de telles exigences et interdictions s'appliquent;&lt;br/&gt;f) de permettre au contrôleur des armes à feu de suspendre un permis s'il a des motifs raisonnables de soupçonner que le titulaire n'y est plus admissible;&lt;br/&gt;g) d'obliger, en cas de saisine d'un juge d'une cour provinciale au titre de l'article 74 de cette loi, la remise des armes à feu concernées à un agent de la paix, ou leur disposition légale;&lt;br/&gt;h) d'autoriser, dans certaines circonstances, le commissaire aux armes à feu, le directeur de l'enregistrement des armes à feu ou le contrôleur des armes à feu à communiquer certains renseignements à un organisme chargé du contrôle d'application de la loi à des fins d'enquête ou de poursuite portant sur le trafic d'armes à feu;&lt;br/&gt;i) de prévoir que le rapport annuel portant sur l'application de la loi comprenne des renseignements relatifs aux communications faites à un organisme chargé du contrôle d'application de la loi et soit soumis au ministre de la Sécurité publique et de la Protection civile au plus tard le 31 mai de chaque année;&lt;br/&gt;j) d'ériger en infraction le fait pour une entreprise de représenter la violence contre une personne, de conseiller d'y avoir recours ou d'en faire la promotion dans une publicité sur les armes à feu.&lt;br/&gt;&lt;br/&gt;Le texte modifie également la Loi sur la sûreté et la réglementation nucléaires afin, notamment :&lt;br/&gt;a) d'accorder aux agents de sécurité nucléaire et aux membres de la force d'intervention nucléaire interne les pouvoirs nécessaires pour exercer les fonctions d'agent de la paix aux sites nucléaires à sécurité élevée;&lt;br/&gt;b) de permettre aux titulaires de licence ou de permis qui exploitent des sites nucléaires à sécurité élevée d'acquérir, de posséder et de céder des armes à feu, des armes prohibées et des dispositifs prohibés utilisés dans le cadre du maintien de la sécurité de ces sites, et d'en disposer.&lt;br/&gt;&lt;br/&gt;Enfin, le texte modifie la Loi sur l'immigration et la protection des réfugiés afin :&lt;br/&gt;a) de désigner le ministre de la Sécurité publique et de la Protection civile comme ministre chargé de l'établissement des orientations en matière d'interdiction de territoire pour criminalité relative à la commission, à l'entrée au Canada, d'une infraction;&lt;br/&gt;b) de préciser que, lorsqu'elles sont commises à l'entrée au Canada, certaines infractions prévues sous le régime d'une loi fédérale qui sont prévues par règlement emportent, sauf pour les résidents permanents, interdiction de territoire;&lt;br/&gt;c) de corriger certaines dispositions afin de résoudre une divergence et ainsi clarifier la règle énoncée dans ces dispositions.&lt;/div&gt;</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information and Research Service of the Library of Parliament. Meanwhile, the following executive summary is available.&lt;br/&gt;&lt;br/&gt;On 16 February 2021, the Minister of Public Safety and Emergency Preparedness introduced Bill C-21, An Act to amend certain Acts and to make certain consequential amendments (firearms), in the House of Commons and it was given first reading.    &lt;br/&gt;&lt;br/&gt;Bill C-21 amends the Criminal Code to, among other things,&lt;br/&gt;(a) increase, from 10 to 14 years, the maximum penalty of imprisonment for indictable weapons offences in sections 95, 96, 99, 100 and 103;&lt;br/&gt;(b) establish a regime that would permit any person to apply for an emergency prohibition order or an emergency limitations on access order;&lt;br/&gt;(c) deem certain firearms to be prohibited devices for the purpose of specified provisions;&lt;br/&gt;(d) create a new offence for altering a cartridge magazine to exceed its lawful capacity; and&lt;br/&gt;(e) authorize employees of certain federal entities who are responsible for security to be considered as public officers for the purpose of section 117.07.&lt;br/&gt;&lt;br/&gt;The enactment also amends the Firearms Act to, among other things,&lt;br/&gt;(a) limit the possession of firearms listed in the regulations made by Order in Council P.C. 2020-298 of May 1, 2020 and registered as SOR/2020-96, and of non-restricted and restricted firearms that become prohibited by regulation;&lt;br/&gt;(b) transfer authority to the Commissioner of Firearms to approve, refuse, renew and revoke authorizations to carry referred to in paragraph 20(a) of the Act;&lt;br/&gt;(c) impose requirements in respect of the importation of ammunition;&lt;br/&gt;(d) require that the holders of a licence authorizing the possession of a handgun comply with the requirements and prohibitions relating to the storage and transporting of handguns within a municipality in which a by-law establishing those requirements and prohibitions is in force if the Minister of Public Safety and Emergency Preparedness is notified of the by-law in the prescribed manner, and provide for exceptions to that requirement;&lt;br/&gt;(e) require that the Commissioner of Firearms maintain a publicly available list of the municipalities in which such requirements and prohibitions apply;&lt;br/&gt;(f) authorize a chief firearms officer to suspend a licence if they have reasonable grounds to suspect that the licence holder is no longer eligible for it;&lt;br/&gt;(g) require the delivery of firearms to a peace officer, or their lawful disposal, if a refusal to issue, or revocation of, a licence or registration certificate has been referred to a provincial court under section 74 of the Act in respect of those firearms;&lt;br/&gt;(h) authorize, in certain circumstances, the Commissioner of Firearms, the Registrar of Firearms or a chief firearms officer to disclose certain information to a law enforcement agency for the purpose of an investigation or prosecution related to the trafficking of firearms;&lt;br/&gt;(i) provide that the annual report to the Minister of Public Safety and Emergency Preparedness regarding the administration of the Act must include information on disclosures made to law enforcement agencies and be submitted no later than May 31 of each year; and&lt;br/&gt;(j) create an offence for a business to advertise a firearm in a manner that depicts, counsels or promotes violence against a person.&lt;br/&gt;&lt;br/&gt;The enactment also amends the Nuclear Safety and Control Act to, among other things,&lt;br/&gt;(a) provide nuclear security officers and on-site nuclear response force members with the authority to carry out the duties of peace officers at high-security nuclear sites; and&lt;br/&gt;(b) permit licensees who operate high-security nuclear sites to acquire, possess, transfer and dispose of firearms, prohibited weapons and prohibited devices used in the course of maintaining security at high-security nuclear sites.&lt;br/&gt;&lt;br/&gt;The enactment also amends the Immigration and Refugee Protection Act to&lt;br/&gt;(a) designate the Minister of Public Safety and Emergency Preparedness as the Minister responsible for the establishment of policies respecting inadmissibility on grounds of transborder criminality for the commission of an offence on entering Canada;&lt;br/&gt;(b) specify that the commission, on entering Canada, of certain offences under an Act of Parliament that are set out in the regulations is a ground of inadmissibility for a foreign national; and&lt;br/&gt;(c) correct certain provisions in order to resolve a discrepancy and clarify the rule set out in those provisions.&lt;/div&gt;</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear />
+    <StatuteChapter />
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>43</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2021-02-16T10:10:50.643</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>59</Number>
+          <Date>2021-02-16T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2021-02-16T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2021-02-16T10:10:50.643</EventStartDateTime>
+          <EventEndDateTime>2021-02-16T10:10:50.643</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2021-02-16T10:10:50.643</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>43</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>5</State>
+        <StateNameEn>Not completed</StateNameEn>
+        <StateNameFr>Non achevée</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>67</Number>
+          <Date>2021-02-26T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>87</Number>
+          <Date>2021-04-23T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>106</Number>
+          <Date>2021-05-28T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <EndOfStageEvent />
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2021-05-28T10:06:13</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>11159181</InterventionEventId>
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>88961</PersonId>
+          <PersonOfficialFirstName>Bill</PersonOfficialFirstName>
+          <PersonOfficialLastName>Blair</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Bill Blair</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>43</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>67</MeetingNumber>
+          <SpeechDateTime>2021-02-26T10:03:52</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>11159218</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>89198</PersonId>
+          <PersonOfficialFirstName>Shannon</PersonOfficialFirstName>
+          <PersonOfficialLastName>Stubbs</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Shannon Stubbs</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>43</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>67</MeetingNumber>
+          <SpeechDateTime>2021-02-26T10:34:12</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>11257714</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>3633</PersonId>
+          <PersonOfficialFirstName>Jack</PersonOfficialFirstName>
+          <PersonOfficialLastName>Harris</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Jack Harris</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>NDP</CaucusShortNameEn>
+          <CaucusShortNameFr>NPD</CaucusShortNameFr>
+          <CaucusShortName>NDP</CaucusShortName>
+          <ParliamentNumber>43</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>87</MeetingNumber>
+          <SpeechDateTime>2021-04-23T10:36:44</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>11258196</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>104648</PersonId>
+          <PersonOfficialFirstName>Kristina</PersonOfficialFirstName>
+          <PersonOfficialLastName>Michaud</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Kristina Michaud</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Bloc Québécois</CaucusShortNameEn>
+          <CaucusShortNameFr>Bloc Québécois</CaucusShortNameFr>
+          <CaucusShortName>Bloc Québécois</CaucusShortName>
+          <ParliamentNumber>43</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>87</MeetingNumber>
+          <SpeechDateTime>2021-04-23T12:27:37</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteint</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+    </BillStages>
+    <Publications>
+      <PublicationId>11104184</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>New firearms measures to combat crime and increase public safety</TitleEn>
+      <TitleFr>Nouvelles mesures concernant les armes à feu afin de combattre la criminalité et d'améliorer la sécurité publique</TitleFr>
+      <Title>New firearms measures to combat crime and increase public safety</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://pm.gc.ca/en/news/news-releases/2021/02/16/new-firearms-measures-combat-crime-and-increase-public-safety</UrlEn>
+      <UrlFr>https://pm.gc.ca/fr/nouvelles/communiques/2021/02/16/nouvelles-mesures-concernant-les-armes-feu-afin-de-combattre-la</UrlFr>
+      <Url>https://pm.gc.ca/en/news/news-releases/2021/02/16/new-firearms-measures-combat-crime-and-increase-public-safety</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Bill C-21: An Act to amend certain Acts and to make certain consequential amendments (firearms)</TitleEn>
+      <TitleFr>Projet de loi C-21 : Loi modifiant certaines lois et apportant certaines modifications corrélatives (armes à feu)</TitleFr>
+      <Title>Bill C-21: An Act to amend certain Acts and to make certain consequential amendments (firearms)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.publicsafety.gc.ca/cnt/cntrng-crm/frrms/c21-en.aspx</UrlEn>
+      <UrlFr>https://www.securitepublique.gc.ca/cnt/cntrng-crm/frrms/c21-fr.aspx</UrlFr>
+      <Url>https://www.publicsafety.gc.ca/cnt/cntrng-crm/frrms/c21-en.aspx</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Prime Minister announces ban on assault-style firearms</TitleEn>
+      <TitleFr>Le premier ministre annonce l'interdiction d'armes à feu de style arme d'assaut</TitleFr>
+      <Title>Prime Minister announces ban on assault-style firearms</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://pm.gc.ca/en/news/news-releases/2020/05/01/prime-minister-announces-ban-assault-style-firearms</UrlEn>
+      <UrlFr>https://pm.gc.ca/fr/nouvelles/communiques/2020/05/01/premier-ministre-annonce-linterdiction-darmes-feu-de-style-arme</UrlFr>
+      <Url>https://pm.gc.ca/en/news/news-releases/2020/05/01/prime-minister-announces-ban-assault-style-firearms</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>List of prohibited assault-style firearms</TitleEn>
+      <TitleFr>Liste des armes à feu de style armes d'assaut prohibées</TitleFr>
+      <Title>List of prohibited assault-style firearms</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.publicsafety.gc.ca/cnt/cntrng-crm/frrms/paf-afa-en.aspx</UrlEn>
+      <UrlFr>https://www.securitepublique.gc.ca/cnt/cntrng-crm/frrms/paf-afa-fr.aspx</UrlFr>
+      <Url>https://www.publicsafety.gc.ca/cnt/cntrng-crm/frrms/paf-afa-en.aspx</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Government of Canada introduces new firearms legislation to protect Canadian communities</TitleEn>
+      <TitleFr>Le gouvernement du Canada adopte un nouveau projet de loi sur les armes à feu afin de protéger les communautés canadiennes</TitleFr>
+      <Title>Government of Canada introduces new firearms legislation to protect Canadian communities</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/public-safety-canada/news/2021/02/government-of-canada-introduces-new-firearms-legislation-to-protect-canadian-communities.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/securite-publique-canada/nouvelles/2021/02/le-gouvernement-du-canada-adopte-un-nouveau-projet-de-loi-sur-les-armes-a-feu-afin-de-proteger-les-communautes-canadiennes.html</UrlFr>
+      <Url>https://www.canada.ca/en/public-safety-canada/news/2021/02/government-of-canada-introduces-new-firearms-legislation-to-protect-canadian-communities.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Charter Statement - Bill C-21: An Act to amend certain Acts and to make certain consequential amendments (firearms)</TitleEn>
+      <TitleFr>Énoncé concernant la Charte - Projet de loi C-21 : Loi modifiant certaines lois et d'autres textes en conséquence (armes à feu)</TitleFr>
+      <Title>Charter Statement - Bill C-21: An Act to amend certain Acts and to make certain consequential amendments (firearms)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.justice.gc.ca/eng/csj-sjc/pl/charter-charte/c21.html</UrlEn>
+      <UrlFr>https://www.justice.gc.ca/fra/sjc-csj/pl/charte-charter/c21.html</UrlFr>
+      <Url>https://www.justice.gc.ca/eng/csj-sjc/pl/charter-charte/c21.html</Url>
+    </WebReferences>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
