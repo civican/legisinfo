@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Bill bill-origin="commons" bill-type="private-public" xml:lang="en" date-time="2020-01-29 12:25:02">
+  <Identification>
+    <BillNumber>C-206</BillNumber>
+    <Parliament>
+      <Session>2</Session>
+      <Number>43</Number>
+      <RegnalYear>
+        <Year-s>69-70</Year-s>
+        <Monarch>Elizabeth II</Monarch>
+      </RegnalYear>
+      <Year-s>2020-2021</Year-s>
+    </Parliament>
+    <LongTitle>An Act to amend the Greenhouse Gas Pollution Pricing Act (qualifying farming fuel)</LongTitle>
+    <ShortTitle status="unofficial" />
+    <RunningHead>An Act to amend the Greenhouse Gas Pollution Pricing Act (qualifying farming fuel)</RunningHead>
+    <BillHistory>
+      <Stages stage="report-house">
+        <Date>
+          <YYYY>2021</YYYY>
+          <MM>5</MM>
+          <DD>12</DD>
+        </Date>
+      <StageText>Reprinted as amended by the Standing Committee on Agriculture and Agri-Food as a working copy for the use of the House of Commons at Report Stage and as reported to the House on May 12, 2021</StageText></Stages>
+    </BillHistory>
+    <BillSponsor>
+      <Emphasis style="smallcaps">Mr. Lawrence</Emphasis>
+    </BillSponsor>
+    
+    <BillRefNumber date-time="2020-01-29">431077</BillRefNumber>
+  </Identification>
+  <Introduction>
+    <Summary>
+      <TitleText>SUMMARY</TitleText>
+      <Provision>
+        <Text>This enactment amends the <XRefExternal reference-type="act">Greenhouse Gas Pollution Pricing Act</XRefExternal> to extend the exemption for qualifying farming fuel to marketable natural gas and propane.</Text>
+      </Provision>
+    </Summary>
+    <Enacts>
+      <Provision>
+        <Text>Her Majesty, by and with the advice and consent <Keep>of the</Keep> Senate and House of Commons of Canada, <Keep>enacts</Keep> as follows:</Text>
+      </Provision>
+    </Enacts>
+  </Introduction>
+  <Body>
+    <Heading level="1">
+      <MarginalNote>
+        <HistoricalNote>2018, c. 12, s. 186</HistoricalNote>
+      </MarginalNote>
+      <TitleText>Greenhouse Gas Pollution Pricing Act</TitleText>
+    </Heading>
+    <Section type="amending"><Label>1</Label><Subsection><Label><Ins>(1)</Ins></Label><Text>The definition <DefinitionRef>qualifying farming fuel</DefinitionRef> in section 3 of the <XRefExternal reference-type="act">Greenhouse Gas Pollution Pricing Act</XRefExternal> is replaced by the following:</Text><AmendedText>
+        <SectionPiece>
+          <Definition>
+            <Text>
+              <DefinedTermEn>qualifying farming fuel</DefinedTermEn> means a type of fuel that is gasoline, light fuel oil, marketable natural gas, propane or a prescribed type of fuel. (<DefinedTermFr>combustible agricole admissible</DefinedTermFr>)</Text>
+          </Definition>
+        </SectionPiece>
+      </AmendedText></Subsection><Subsection type="amending" change="ins"><Label>(2)</Label><Text>The definition <DefinitionRef>qualifying farming fuel</DefinitionRef> in section 3 of the Act is replaced by the following:</Text><AmendedText><SectionPiece><Definition><Text><DefinedTermEn>qualifying farming fuel</DefinedTermEn> means a type of fuel that is gasoline, light fuel oil or a prescribed type of fuel. (<DefinedTermFr>combustible agricole admissible</DefinedTermFr>)</Text></Definition></SectionPiece></AmendedText></Subsection></Section>
+  <Section type="amending" change="ins"><Label>2</Label><Text>Subsection 1(2) comes into force on the tenth anniversary of the day on which this Act receives royal assent.</Text></Section></Body>
+</Bill>
