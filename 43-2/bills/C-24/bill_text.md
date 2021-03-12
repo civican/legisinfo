@@ -1,6 +1,6 @@
 # Bill C-24: An Act to amend the Employment Insurance Act (additional regular benefits), the Canada Recovery Benefits Act (restriction on eligibility) and another Act in response to COVID-19
 
-**Sponsor**: MINISTER OF EMPLOYMENT, WORKFORCE DEVELOPMENT AND DISABILITY INCLUSION
+Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act to amend the Employment Insurance Act (additional regular benefits), the Canada Recovery Benefits Act (restriction on eligibility) and another Act in response to COVID-19*".
 
 ## Summary
 
@@ -35,7 +35,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
   **(2)** Subsection 12(6) of the Act is replaced by the following:
 
-    **(6)** In a claimant's benefit period, the claimant may, subject to the applicable maximums, combine weeks of benefits to which the claimant is entitled **under subsection** (2), **(2.1) or (2.3)** and because of a reason mentioned in **subsection** (3), but the total number of weeks of benefits shall not exceed 50.
+    **(6)** In a claimant's benefit period, the claimant may, subject to the applicable maximums, combine weeks of benefits to which the claimant is entitled under subsection (2), (2.1) or (2.3) and because of a reason mentioned in subsection (3), but the total number of weeks of benefits shall not exceed 50.
 
 ### Section 2
 
@@ -45,26 +45,13 @@ if the person has not accumulated a violation in the 260 weeks before making the
 
 in the case where the person's benefit period begins during the period beginning on January 3, 2021 and ending on September 25, 2021, and despite any amount fixed or determined in accordance with the regulations for that qualifying period, $5,000, or
 
-**in any other case**, $6,000 or the amount fixed or determined in accordance with the regulations, if any, for that qualifying period, or
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 152.07(1):
-> *Existing Text*:
-> > A self-employed person qualifies for benefits if
-> > 
-> > the person has had during their qualifying period an amount of self-employed earnings that is equal to or greater than the following amount:
-> > $6,000 or the amount fixed or determined in accordance with the regulations, if any, for that qualifying period, or
+in any other case, $6,000 or the amount fixed or determined in accordance with the regulations, if any, for that qualifying period, or
 
 ### Section 3
 
 Section 152.11 of the Act is amended by adding the following after subsection (5):
 
 **(5.1)** For the purposes of subsections (4) and (5), the fact that, but for clause 152.07(1)(d)(i)(A), the claimant would not have qualified to receive benefits is good cause for a delay in making a claim for those benefits.
-
-
-> **Explanatory Note**:
-> New.
 
 
 ## `Canada Recovery Benefits Act`
@@ -83,19 +70,13 @@ accompany a person who has been certified by a medical practitioner to be incapa
 
 if, as a result of entering into Canada, they were required to isolate themselves under such an order at any time during the two-week period, they are a person to whom the requirement to quarantine themselves under the order would not have applied had they not been required to isolate themselves.
 
-
-> **Explanatory Note**:
-> Relevant portion of subsection 3(1):
-> *Existing Text*:
-> > A person is eligible for a Canada recovery benefit for any two-week period falling within the period beginning on September 27, 2020 and ending on September 25, 2021 if
-
 ### Section 5
 
   **(1)** Subsection 5(1) of the Act is replaced by the following:
 
 ### Section 5
 
-      **(1)** Subject to subsections (2) to **(5)**, a person must, in their application, attest that they **meet** each of the eligibility conditions referred to in paragraphs 3(1)(a) to **(m)**.
+      **(1)** Subject to subsections (2) to (5), a person must, in their application, attest that they meet each of the eligibility conditions referred to in paragraphs 3(1)(a) to (m).
 
   **(2)** Section 5 of the Act is amended by adding the following after subsection (4):
 
@@ -115,19 +96,13 @@ accompany a person who has been certified by a medical practitioner to be incapa
 
 if, as a result of entering into Canada, they were required to isolate themselves under such an order at any time during the week, they are a person to whom the requirement to quarantine themselves under the order would not have applied had they not been required to isolate themselves.
 
-
-> **Explanatory Note**:
-> Relevant portion of subsection 10(1):
-> *Existing Text*:
-> > A person is eligible for a Canada recovery sickness benefit for any week falling within the period beginning on September 27, 2020 and ending on September 25, 2021 if
-
 ### Section 7
 
   **(1)** Subsection 12(1) of the Act is replaced by the following:
 
 ### Section 12
 
-      **(1)** Subject to **subsections** (2) **and (3)**, a person must, in their application, attest that they meet each of the eligibility conditions referred to in paragraphs 10(1)(a) to **(i)**.
+      **(1)** Subject to subsections (2) and (3), a person must, in their application, attest that they meet each of the eligibility conditions referred to in paragraphs 10(1)(a) to (i).
 
   **(2)** Section 12 of the Act is amended by adding the following after subsection (2):
 
@@ -147,19 +122,13 @@ accompany a person who has been certified by a medical practitioner to be incapa
 
 if, as a result of entering into Canada, they were required to isolate themselves under such an order at any time during the week, they are a person to whom the requirement to quarantine themselves under the order would not have applied had they not been required to isolate themselves.
 
-
-> **Explanatory Note**:
-> Relevant portion of subsection 17(1):
-> *Existing Text*:
-> > A person is eligible for a Canada recovery caregiving benefit for any week falling within the period beginning on September 27, 2020 and ending on September 25, 2021 if
-
 ### Section 9
 
   **(1)** Subsection 19(1) of the Act is replaced by the following:
 
 ### Section 19
 
-      **(1)** Subject to **subsections** (2) **and (3)**, a person must, in their application, attest that they meet each of the eligibility conditions referred to in paragraphs 17(1)(a) to **(i)**.
+      **(1)** Subject to subsections (2) and (3), a person must, in their application, attest that they meet each of the eligibility conditions referred to in paragraphs 17(1)(a) to (i).
 
   **(2)** Section 19 of the Act is amended by adding the following after subsection (2):
 
@@ -180,25 +149,13 @@ the date they entered into Canada; and
 the date of the last day on which they are or were required to quarantine or isolate themselves under the order.
 
 
-> **Explanatory Note**:
-> New.
-
-
 ## Customs Act
 
 ### Section 11
 
 Paragraph 107(5)(i) of the `Customs Act` is replaced by the following:
 
-an official of the Department of Employment and Social Development solely for the purpose of administering or enforcing the `Employment Insurance Act`, the `Old Age Security Act` or **the `Canada Recovery Benefits Act`**, if the information relates to the movement of people into and out of Canada;
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 107(5):
-> *Existing Text*:
-> > An official may provide, allow to be provided or provide access to customs information to the following persons:
-> > 
-> > an official of the Department of Employment and Social Development solely for the purpose of administering or enforcing the `Employment Insurance Act` or the `Old Age Security Act`, if the information relates to the movement of people into and out of Canada;
+an official of the Department of Employment and Social Development solely for the purpose of administering or enforcing the `Employment Insurance Act`, the `Old Age Security Act` or the `Canada Recovery Benefits Act`, if the information relates to the movement of people into and out of Canada;
 
 
 ## Coming into Force
