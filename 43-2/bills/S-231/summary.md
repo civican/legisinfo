@@ -1,0 +1,165 @@
+# Bill S-231: An Act to amend the Criminal Code and to make consequential amendments to another Act (interim release and domestic violence recognizance orders)
+
+- **Current Status**: At second reading in the Senate
+- **Sponsor**: Pierre-Hugues Boisvenu
+- **Latest Activity**: Debate at second reading (at 2021-05-04T14:00:00)
+
+## Legislative Stage History
+
+| Chamber | Stage | Status | Completed Date |
+| --- | --- | --- | --- |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| House of Commons |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |
+| Senate |  |  | N/A |

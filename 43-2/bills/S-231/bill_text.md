@@ -1,0 +1,250 @@
+# Bill S-231: An Act to amend the Criminal Code and to make consequential amendments to another Act (interim release and domestic violence recognizance orders)
+
+**Sponsor**: Senator Boisvenu
+
+## Summary
+
+This enactment amends the `Criminal Code` in respect of interim release and other orders related to intimate partner violence offences. The enactment also provides for recognizance orders to be made when there is a reasonable fear of domestic violence.
+
+Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+## `Criminal Code`
+
+### Section 1
+
+Subsection 501(3) of the `Criminal Code` is amended by adding the following after paragraph (c):
+
+wear an electronic monitoring device;
+
+
+> **Explanatory Note**:
+> New.
+
+### Section 2
+
+  **(1)** Section 515 of the Act is amended by adding the following after subsection (3):
+
+    **(3.1)** Before making an order under subsection (2) in respect of an accused who is charged with an offence in the commission of which violence was used, threatened or attempted against their intimate partner, the justice must ask the prosecutor whether the intimate partner of the accused has been consulted about their safety and security needs.
+
+  **(2)** Subsection 515(4) of the Act is amended by adding the following after paragraph (e):
+
+    wear an electronic monitoring device;
+
+    attend, under the supervision of the court, a treatment program approved by the province in which the accused resides, such as an addiction treatment program or a domestic violence counselling program;
+
+  **(3)** Paragraph 515(6)(b.1) of the Act is replaced by the following:
+
+    with an offence in the commission of which violence was allegedly used, threatened or attempted against their intimate partner, and the accused has been previously convicted **or discharged under section 730** of an offence in the commission of which violence was used, threatened or attempted against any intimate partner of theirs;
+
+  **(4)** Subsection 515(14) of the Act is replaced by the following:
+
+    **(14)** The justice shall cause a copy of an order made under this section to be given to
+
+      an intimate partner of the accused, if requested by that intimate partner; and
+
+      a victim of the offence, **if requested by that** victim.
+
+    **(14.1)** Upon making an order under subsection (2), the justice must ask the prosecutor whether intimate partners of the accused and victims of the offence have been informed of their right to request a copy of the order.
+
+### Section 3
+
+The Act is amended by adding the following after section 810.02:
+
+### Section 810.03
+
+  **(1)** A person who fears on reasonable grounds that their intimate partner will commit an offence that will cause personal injury to them, to their child or to a child of that intimate partner may lay an information before a provincial court judge.
+
+  **(2)** The judge who receives an information under subsection (1) may cause the informant and the person who is the subject of the information to appear before a provincial court judge.
+
+  **(3)** If the provincial court judge before whom the parties appear is satisfied by the evidence adduced that the informant has reasonable grounds for the fear, the judge may order that the defendant enter into a recognizance to keep the peace and be of good behaviour for a period of not more than two years.
+
+  **(4)** If the provincial court judge is satisfied that the defendant was previously convicted of an offence in the commission of which violence was used against any former or current intimate partner of the defendant or any child of any former or current intimate partner or of the defendant, the judge may order that the defendant enter into the recognizance for a period of not more than three years.
+
+  **(5)** An order under either subsection (3) or (4) must be made in a timely manner.
+
+  **(6)** The provincial court judge may commit the defendant to prison for a term not exceeding two years if the defendant fails or refuses to enter into the recognizance.
+
+  **(7)** The provincial court judge may add to the recognizance any reasonable conditions that the judge considers desirable to ensure the good conduct of the defendant or to secure the safety and security of the informant, their child or a child of the defendant, including conditions that require the defendant
+
+    to attend, under the supervision of the court, a treatment program approved by the province in which the accused resides, including treatment programs for addiction or domestic violence;
+
+    to remain within a specified geographic area unless written permission to leave that area is obtained from the judge;
+
+    to refrain from going to any specified place, except in accordance with any specified conditions that the judge considers necessary;
+
+    to wear an electronic monitoring device;
+
+    to abstain from communicating in any manner, directly or indirectly, with the informant, a child of the informant or of the defendant or any relative or close friend of the informant, except in accordance with any specified conditions that the judge considers necessary;
+
+    to refrain from using social media;
+
+    to abstain from the consumption of drugs — except in accordance with a medical prescription — of alcohol or of any other intoxicating substance;
+
+    to provide, for the purpose of analysis, a sample of a bodily substance prescribed by regulation on the demand of a peace officer, a probation officer or someone designated under paragraph 810.3(2)(a) to make a demand, at the place and time and on the day specified by the person making the demand, if that person has reasonable grounds to believe that the defendant has breached a condition of the recognizance that requires them to abstain from the consumption of drugs, alcohol or any other intoxicating substance; or
+
+    to provide, for the purpose of analysis, a sample of a bodily substance prescribed by regulation at regular intervals that are specified, in a notice in Form 51 served on the defendant, by a probation officer or a person designated under paragraph 810.3(2)(b) to specify them, if a condition of the recognizance requires the defendant to abstain from the consumption of drugs, alcohol or any other intoxicating substance.
+
+  **(8)** The informant may provide submissions in writing on the conditions that the judge may add to the recognizance under subsection (7).
+
+  **(9)** The provincial court judge shall consider whether it is desirable, in the interests of the informant's safety or that of any other person, to prohibit the defendant from possessing any firearm, crossbow, prohibited weapon, restricted weapon, prohibited device, ammunition, prohibited ammunition or explosive substance, or all of those things. If the judge decides that it is desirable to do so, the judge shall add that condition to the recognizance and specify the period during which the condition applies.
+
+  **(10)** If the provincial court judge adds a condition described in subsection (9) to a recognizance, the judge shall specify in the recognizance how the things referred to in that subsection that are in the defendant's possession shall be surrendered, disposed of, detained, stored or dealt with and how the authorizations, licences and registration certificates that are held by the defendant shall be surrendered.
+
+  **(11)** If the provincial court judge does not add a condition described in subsection (9) to a recognizance, the judge shall include in the record a statement of the reasons for not adding the condition.
+
+  **(12)** A provincial court judge may, on application of the informant or the defendant, vary the conditions fixed in the recognizance.
+
+  **(13)** When the defendant makes an application under subsection (12), the provincial court judge must, before varying any conditions, consult the informant about their safety and security needs.
+
+  **(14)** A warrant of committal to prison for failure or refusal to enter into the recognizance under subsection (3) may be in Form 23.
+
+
+> **Explanatory Note**:
+> New.
+
+### Section 4
+
+  **(1)** The portion of section 810.3(1) of the Act before paragraph (a) is replaced by the following:
+
+### Section 810.3
+
+      **(1)** For the purposes of sections 810, 810.01, **810.03,** 810.011, 810.1 and 810.2 and subject to the regulations, the Attorney General of a province or the minister of justice of a territory shall, with respect to the province or territory,
+
+  **(2)** Subparagraphs 810.3(2)(a) and (b) of the Act are replaced by the following:
+
+    to make a demand for a sample of a bodily substance for the purposes of paragraphs 810(3.02)(b), 810.01(4.1)(f), 810.011(6)(e), **810.03(7)(h),** 810.1(3.02)(h) and 810.2(4.1)(f); and
+
+    to specify the regular intervals at which a defendant must provide a sample of a bodily substance for the purposes of paragraphs 810(3.02)(c), 810.01(4.1)(g), 810.011(6)(f), **810.03(7)(i),**810.1(3.02)(i) and 810.2(4.1)(g).
+
+  **(3)** Subsections 810.3(3) and (4) of the Act are replaced by the following:
+
+    **(3)** Samples of bodily substances referred to in sections 810, 810.01, 810.011, **810.03,** 810.1 and 810.2 may not be taken, analyzed, stored, handled or destroyed, and the records of the results of the analysis of the samples may not be protected or destroyed, except in accordance with the designations and specifications made under subsection (1).
+
+    **(4)** The Attorney General of a province or the minister of justice of a territory, or a person authorized by the Attorney General or minister, shall cause all samples of bodily substances provided under a recognizance under section 810, 810.01, 810.011, **810.03,** 810.1 or 810.2 to be destroyed within the period prescribed by regulation unless the samples are reasonably expected to be used as evidence in a proceeding for an offence under section 811.
+
+  **(4)** Paragraph 810.3(5)(a) of the Act is replaced by the following:
+
+    prescribing bodily substances for the purposes of sections 810, 810.01, 810.011, **810.03,** 810.1 and 810.2;
+
+  **(5)** Subsection 810.3(6) of the Act is replaced by the following:
+
+    **(6)** The notice referred to in paragraph 810(3.02)(c), 810.01(4.1)(g), 810.011(6)(f), **810.03(7)(i),** 810.1(3.02)(i) or 810.2(4.1)(g) must specify the places and times at which and the days on which the defendant must provide samples of a bodily substance under a condition described in that paragraph. The first sample may not be taken earlier than 24 hours after the defendant is served with the notice, and subsequent samples must be taken at regular intervals of at least seven days.
+
+### Section 5
+
+Subsections 810.4(1) to (3) of the Act are replaced by the following:
+
+### Section 810.4
+
+  **(1)** No person shall use a bodily substance provided under a recognizance under section 810, 810.01, 810.011, **810.03,** 810.1 or 810.2 except for the purpose of determining whether a defendant is complying with a condition in the recognizance that they abstain from the consumption of drugs, alcohol or any other intoxicating substance.
+
+  **(2)** Subject to subsection (3), no person shall use, disclose or allow the disclosure of the results of the analysis of a bodily substance provided under a recognizance under section 810, 810.01, 810.011, **810.03,** 810.1 or 810.2.
+
+  **(3)** The results of the analysis of a bodily substance provided under a recognizance under section 810, 810.01, 810.011, **810.03,** 810.1 or 810.2 may be disclosed to the defendant to whom they relate, and may also be used or disclosed in the course of an investigation of, or in a proceeding for, an offence under section 811 or, if the results are made anonymous, for statistical or other research purposes.
+
+
+> **Explanatory Note**:
+> Existing text of subsections 810.4(1) to (3):
+> *Existing Text*:
+> > No person shall use a bodily substance provided under a recognizance under section 810, 810.01, 810.011, 810.1 or 810.2 except for the purpose of determining whether a defendant is complying with a condition in the recognizance that they abstain from the consumption of drugs, alcohol or any other intoxicating substance.
+> > Subject to subsection (3), no person shall use, disclose or allow the disclosure of the results of the analysis of a bodily substance provided under a recognizance under section 810, 810.01, 810.011, 810.1 or 810.2.
+> > The results of the analysis of a bodily substance provided under a recognizance under section 810, 810.01, 810.011, 810.1 or 810.2 may be disclosed to the defendant to whom they relate, and may also be used or disclosed in the course of an investigation of, or in a proceeding for, an offence under section 811 or, if the results are made anonymous, for statistical or other research purposes.
+
+### Section 6
+
+Subsection 811.1(1) of the Act is replaced by the following:
+
+### Section 811.1
+
+  **(1)** In a prosecution for breach of a condition in a recognizance under section 810, 810.01, 810.011, **810.03,** 810.1 or 810.2 that a **defendant** not consume drugs, alcohol or any other intoxicating substance, a certificate purporting to be signed by an analyst that states that the analyst has analyzed a sample of a bodily substance and that states the result of the analysis is admissible in evidence and, in the absence of evidence to the contrary, is proof of the statements contained in the certificate without proof of the signature or official character of the person who appears to have signed the certificate.
+
+
+> **Explanatory Note**:
+> Existing text of subsection 811.1(1):
+> *Existing Text*:
+> > In a prosecution for breach of a condition in a recognizance under section 810, 810.01, 810.011, 810.1 or 810.2 that a de-fend- ant [*sic*] not consume drugs, alcohol or any other intoxicating substance, a certificate purporting to be signed by an analyst that states that the analyst has analyzed a sample of a bodily substance and that states the result of the analysis is admissible in evidence and, in the absence of evidence to the contrary, is proof of the statements contained in the certificate without proof of the signature or official character of the person who appears to have signed the certificate.
+
+### Section 7
+
+  **(1)** Form 32 in Part XXVIII of the Act is amended by replacing the references after the heading "FORM 32" with the following:
+
+  **(2)** Paragraphs (b) to (d) of Form 32 of Part XXVIII of the Act after the heading "*List of Conditions*" are replaced by the following:
+
+    agrees to keep the peace and be of good behaviour (sections 83.3, 810, 810.01, **810.03,** 810.1 and 810.2 of the `Criminal Code`);
+
+    abstains from possessing a firearm, crossbow, prohibited weapon, restricted weapon, prohibited device, ammunition, prohibited ammunition or explosive substance and surrenders those in their possession and surrenders any authorization, licence or registration certificate or other document enabling the acquisition or possession of a firearm (sections 83.3, 810, 810.01, **810.03,** 810.1 and 810.2 of the `Criminal Code`);
+
+    participates in a treatment program (sections 810.01, **810.03,** 810.1 and 810.2 of the `Criminal Code`);
+
+  **(3)** Paragraph (f) of Form 32 of Part XXVIII of the Act after the heading "*List of Conditions*" is replaced by the following:
+
+    wears an electronic monitoring device (section 810.03 of the `Criminal Code`);
+
+    abstains from communicating in any manner, directly or indirectly, with the informant, the informant's child or any relative or close friend of the informant, except in accordance with any specified conditions that the judge considers necessary (section 801.03 of the `Criminal Code`);
+
+    refrains from using social media (section 801.03 of the `Criminal Code`);
+
+    remains within a specified geographic area unless written permission to leave that area is obtained from the judge (sections 810.01**, 810.03** and 810.2 of the `Criminal Code`);
+
+  **(4)** Paragraphs (h) and (i) of Form 32 of Part XXVIII of the Act after the heading "*List of Conditions*" are replaced by the following:
+
+    abstains from the consumption of drugs, except in accordance with a medical prescription (sections 810.01, **810.03,** 810.1 and 810.2 of the `Criminal Code`);
+
+    abstains from the consumption of alcohol or of any other intoxicating substance, except in accordance with a medical prescription (sections 810.01, **810.03,** 810.1 and 810.2 of the `Criminal Code`);
+
+### Section 8
+
+Form 51 in Part XXVIII of the Act is amended by replacing the references after the heading "FORM 51" with the following:
+
+
+> **Explanatory Note**:
+> Existing text of the references:
+> *Existing Text*:
+> > (Paragraphs 732.1(3)(c.2), 742.3(2)(a.2), 810(3.02)(c), 810.01(4.1)(g), 810.011(6)(f), 810.1(3.02)(i) and 810.2(4.1)(g))
+
+
+## Transitional Provision
+
+### Section 9
+
+If an information has been laid under subsection 810(1) of the `Criminal Code` before the day on which this Act comes into force by a person who fears on reasonable grounds that their intimate partner will commit an offence that will cause personal injury to them, or to their child or to a child of that intimate partner, and a provincial court judge has not made a final determination with respect to the information, the information is deemed, on that day, to have been laid under subsection 810.03(1) of that Act.
+
+
+## Consequential Amendments
+
+
+### `Youth Criminal Justice Act`
+
+### Section 10
+
+Subsection 14(2) of the `Youth Criminal Justice Act` is replaced by the following:
+
+**(2)** A youth justice court has exclusive jurisdiction to make orders against a young person under sections 83.3 (recognizance — terrorist activity), 810 (recognizance  — fear of injury or damage), 810.01 (recognizance  —  fear of certain offences), 810.011 (recognizance —  fear of terrorism offence), 810.02 (recognizance  —  fear of forced marriage or marriage under age of 16 years)**, 810.03 (recognizance — fear of domestic violence)** and 810.2 (recognizance — fear of serious personal injury offence) of the `Criminal Code` and the provisions of this Act apply, with any modifications that the circumstances require. If the young person fails or refuses to enter into a recognizance referred to in any of those sections, the court may impose any one of the sanctions set out in subsection 42(2) (youth sentences) except that, in the case of an order under paragraph 42(2)(n) (custody and supervision order), it shall not exceed 30 days.
+
+
+> **Explanatory Note**:
+> Existing text of subsection 14(2):
+> *Existing Text*:
+> > A youth justice court has exclusive jurisdiction to make orders against a young person under sections 83.3 (recognizance — terrorist activity), 810 (recognizance  — fear of injury or damage), 810.01 (recognizance  —  fear of certain offences), 810.011 (recognizance —  fear of terrorism offence), 810.02 (recognizance  —  fear of forced marriage or marriage under age of 16 years) and 810.2 (recognizance — fear of serious personal injury offence) of the `Criminal Code` and the provisions of this Act apply, with any modifications that the circumstances require. If the young person fails or refuses to enter into a recognizance referred to in any of those sections, the court may impose any one of the sanctions set out in subsection 42(2) (youth sentences) except that, in the case of an order under paragraph 42(2)(n) (custody and supervision order), it shall not exceed 30 days.
+
+### Section 11
+
+Paragraph 142(1)(a) of the Act is replaced by the following:
+
+in respect of an order under section 83.3 (recognizance — terrorist activity), 810 (recognizance — fear of injury or damage), 810.01 (recognizance — fear of certain offences), 810.011 (recognizance — fear of terrorism offence), 810.02 (recognizance — fear of forced marriage or marriage under age of 16 years)**, 810.03 (recognizance — fear of domestic violence)** or 810.2 (recognizance — fear of serious personal injury offence) of that Act or an offence under section 811 (breach of recognizance) of that Act;
+
+
+> **Explanatory Note**:
+> Existing text of relevant portions of subsection 142(1):
+> *Existing Text*:
+> > Subject to this section and except to the extent that they are inconsistent with this Act, the provisions of Part XXVII (summary conviction offences) of the `Criminal Code`, and any other provisions of that Act that apply in respect of summary conviction offences and relate to trial proceedings, apply to proceedings under this Act
+> > in respect of an order under section 83.3 (recognizance — terrorist activity), 810 (recognizance — fear of injury or damage), 810.01 (recognizance — fear of certain offences), 810.011 (recognizance — fear of terrorism offence), 810.02 (recognizance — fear of forced marriage or marriage under age of 16 years) or 810.2 (recognizance — fear of serious personal injury offence) of that Act or an offence under section 811 (breach of recognizance) of that Act;
+
+
+## Coming into Force
+
+### Section 12
+
+This Act comes into force 180 days after the day on which it receives royal assent.
+
