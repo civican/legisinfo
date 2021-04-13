@@ -1,0 +1,383 @@
+<Bills>
+  <Bill>
+    <Id>11225029</Id>
+    <NumberCode>C-28</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>28</Number>
+    <LongTitleEn>An Act to amend the Canadian Environmental Protection Act, 1999, to make related amendments to the Food and Drugs Act and to repeal the Perfluorooctane Sulfonate Virtual Elimination Act</LongTitleEn>
+    <LongTitleFr>Loi modifiant la Loi canadienne sur la protection de l'environnement (1999), apportant des modifications connexes à la Loi sur les aliments et drogues et abrogeant la Loi sur la quasi-élimination du sulfonate de perfluorooctane</LongTitleFr>
+    <LongTitle>An Act to amend the Canadian Environmental Protection Act, 1999, to make related amendments to the Food and Drugs Act and to repeal the Perfluorooctane Sulfonate Virtual Elimination Act</LongTitle>
+    <ShortTitleEn>Strengthening Environmental Protection for a Healthier Canada Act</ShortTitleEn>
+    <ShortTitleFr>Loi sur le renforcement de la protection de l'environnement pour un Canada en santé</ShortTitleFr>
+    <ShortTitle>Strengthening Environmental Protection for a Healthier Canada Act</ShortTitle>
+    <StatusId>349</StatusId>
+    <StatusNameEn>At second reading in the House of Commons</StatusNameEn>
+    <StatusNameFr>À la deuxième lecture à la Chambre des communes</StatusNameFr>
+    <StatusName>At second reading in the House of Commons</StatusName>
+    <LatestCompletedMajorStageId>60043</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>First reading</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Première lecture</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>First reading</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>First reading in the House of Commons</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>1</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>House of Commons</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Chambre des communes</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>House of Commons</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60029</OngoingStageId>
+    <OngoingStageNameEn>First reading</OngoingStageNameEn>
+    <OngoingStageNameFr>Première lecture</OngoingStageNameFr>
+    <OngoingStageName>First reading</OngoingStageName>
+    <LatestCompletedBillStageId>60029</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>First reading</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Première lecture</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>First reading</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>1</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>House of Commons</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Chambre des communes</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>House of Commons</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2021-04-13T10:10:51.937</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>43</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>89300</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Jonathan</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Wilkinson</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Jonathan Wilkinson</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Environment and Climate Change</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre de l'Environnement et du Changement climatique</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Environment and Climate Change</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>4</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Minister</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>ministre</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Minister</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>918</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>North Vancouver</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>North Vancouver</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>North Vancouver</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60110</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Introduction and first reading</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Dépôt et première lecture</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60029</LatestBillEventStageId>
+    <LatestBillEventTypeName>Introduction and first reading</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2021-04-13T10:00:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>1</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>House of Commons</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Chambre des communes</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>House of Commons</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>79</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2021-04-13T10:10:51.937</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime />
+    <PassedHouseThirdReadingDateTime />
+    <PassedSenateFirstReadingDateTime />
+    <PassedSenateSecondReadingDateTime />
+    <PassedSenateThirdReadingDateTime />
+    <ReceivedRoyalAssentDateTime />
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>false</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>false</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>false</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>false</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>false</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>false</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information and Research Service of the Library of Parliament. Meanwhile, the following executive summary is available.&lt;br/&gt;&lt;br/&gt;On 13 April 2021, the Minister of Environment and Climate Change introduced Bill C-28, An Act to amend the Canadian Environmental Protection Act, 1999, to make related amendments to the Food and Drugs Act and to repeal the Perfluorooctane Sulfonate Virtual Elimination Act (Strengthening Environmental Protection for a Healthier Canada Act), in the House of Commons and it was given first reading.    &lt;br/&gt;&lt;br/&gt;Bill C-28 amends the Canadian Environmental Protection Act, 1999 to, among other things,&lt;br/&gt;(a) recognize that every individual in Canada has a right to a healthy environment as provided under that Act;&lt;br/&gt;(b) provide that the Government of Canada must protect that right as provided under that Act, and, in doing so, may balance that right with relevant factors;&lt;br/&gt;(c) require the development of an implementation framework that sets out how that right will be considered in the administration of that Act, and require that research, studies or monitoring activities be conducted to support the Government of Canada in protecting that right;&lt;br/&gt;(d) authorize the Minister of the Environment to add to the Domestic Substances List certain substances that were in commerce in Canada and subject to the Food and Drugs Act between January 1, 1987 and September 13, 2001, and provide that any substance may be deleted from the List when it is no longer in commerce in Canada;&lt;br/&gt;(e) require that the Minister of the Environment and the Minister of Health develop a plan that specifies the substances to which those Ministers are satisfied priority should be given in assessing whether they are toxic or capable of becoming toxic;&lt;br/&gt;(f) provide that any person may request that those Ministers assess a substance;&lt;br/&gt;(g) require the Minister of the Environment to compile a list of substances that that Minister and the Minister of Health have reason to suspect are capable of becoming toxic or that have been determined to be capable of becoming toxic;&lt;br/&gt;(h) require that, when those Ministers conduct or interpret the results of certain assessments — or conduct or interpret the results of a review of decisions of certain governments — in order to determine whether a substance is toxic or capable of becoming toxic, they consider available information on whether there is a vulnerable population in relation to the substance and on the cumulative effects that may result from exposure to the substance in combination with exposure to other substances;&lt;br/&gt;(i) provide that certain substances be classified as substances that pose the highest risk based on, among other things, their properties or characteristics;&lt;br/&gt;(j) require that those Ministers give priority to the total, partial or conditional prohibition of activities in relation to toxic substances that are specified in Part 1 of Schedule 1 of the Canadian Environmental Protection Act, 1999, or to the total, partial or conditional prohibition of releases of those substances into the environment, when regulations or instruments respecting preventive or control actions in relation to those substances are developed;&lt;br/&gt;(k) expand certain regulation-making, information-gathering and pollution prevention powers under that Act, including by adding a reference to products that may release substances into the environment;&lt;br/&gt;(l) allow the risks associated with certain toxic substances to be managed by preventive or control actions taken under any other Act of Parliament, and the obligations under sections 91 and 92 of the Canadian Environmental Protection Act, 1999 to be the responsibility of whoever of the Minister of the Environment or the Minister of Health is best placed to fulfil them;&lt;br/&gt;(m) expand the powers of the Minister of the Environment to vary either the contents of a significant new activity notice with respect to a substance not on the Domestic Substances List or the contents of the List itself with respect to a substance on the List that is subject to the significant new activities provisions of that Act;&lt;br/&gt;(n) extend the requirement, to notify persons of the obligation to comply with the significant new activity provisions of that Act when a substance that is subject to those provisions is transferred to them, so that it applies with respect to substances on the Domestic Substances List, and authorize that Minister to limit by class the persons who are required to be notified of the obligation when a substance that is subject to those provisions is transferred to them; and&lt;br/&gt;(o) require that confidentiality requests made under section 313 of the Act be accompanied by reasons, and to allow the Minister of the Environment to disclose the explicit chemical or biological name of a substance or the explicit biological name of a living organism in certain circumstances.&lt;br/&gt;The enactment also makes related amendments to the Food and Drugs Act to enable the assessment and management of risks to the environment associated with foods, drugs, cosmetics and devices by, among other things,&lt;br/&gt;(a) prohibiting persons from conducting certain activities in respect of a drug unless the Minister of Health has conducted an assessment of the risks to the environment presented by certain substances contained in that drug;&lt;br/&gt;(b) enabling the Minister of Health to take measures in respect of the risks to the environment that a drug may present throughout its life cycle; and&lt;br/&gt;(c) providing the Governor in Council with supporting regulation-making authorities.&lt;br/&gt;Finally, the enactment repeals the Perfluorooctane Sulfonate Virtual Elimination Act.&lt;/div&gt;</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>&lt;div&gt;Le Service d'information et de recherche parlementaires de la Bibliothèque du Parlement rédige actuellement le résumé législatif de ce projet de loi. Entre-temps, le Service met à votre disposition le sommaire suivant.  &lt;br/&gt;&lt;br/&gt;Le 13 avril 2021, le Ministre de l'Environnement et du Changement climatique a déposé le projet de loi C-28, Loi modifiant la Loi canadienne sur la protection de l'environnement (1999), apportant des modifications connexes à la Loi sur les aliments et drogues et abrogeant la Loi sur la quasi-élimination du sulfonate de perfluorooctane (Loi sur le renforcement de la protection de l'environnement pour un Canada en santé) à la Chambre des communes en première lecture.   &lt;br/&gt;&lt;br/&gt;Le projet de loi C-28 modifie la Loi canadienne sur la protection de l'environnement (1999) afin, notamment?:&lt;br/&gt;a) de reconnaître que tout particulier au Canada a droit à un environnement sain, comme le prévoit cette loi;&lt;br/&gt;b) de prévoir que le gouvernement du Canada doit protéger ce droit, comme le prévoit cette loi, et que, ce faisant, il peut soupeser celui-ci avec des facteurs pertinents;&lt;br/&gt;c) d'exiger, d'une part, qu'un cadre de mise en œuvre soit élaboré afin de préciser la façon de considérer ce droit dans l'exécution de cette loi et, d'autre part, que des recherches, des études ou des activités de surveillance soient effectuées afin d'appuyer le gouvernement du Canada dans ses efforts visant à protéger ce droit;&lt;br/&gt;d) de permettre au ministre de l'Environnement d'inscrire sur la liste intérieure certaines substances qui étaient commercialisées au Canada et assujetties à la Loi sur les aliments et drogues entre le 1er janvier 1987 et le 13 septembre 2001, et de prévoir qu'une substance qui n'est plus commercialisée au Canada puisse être radiée de cette liste;&lt;br/&gt;e) d'exiger du ministre de l'Environnement et du ministre de la Santé qu'ils élaborent un plan qui énumère les substances pour lesquelles ils jugent prioritaire de déterminer si elles sont effectivement ou potentiellement toxiques;&lt;br/&gt;f) de prévoir que toute personne peut demander que ces ministres procèdent à l'évaluation d'une substance;&lt;br/&gt;g) d'exiger du ministre de l'Environnement qu'il établisse une liste qui énumère des substances que ce ministre et le ministre de la Santé soupçonnent d'être potentiellement toxiques ou pour lesquelles il a été déterminé qu'elles sont potentiellement toxiques;&lt;br/&gt;h) d'exiger que ces ministres considèrent, lorsqu'ils procèdent à certaines évaluations — ou à l'examen de décisions prises par certains gouvernements — visant à déterminer si une substance est effectivement ou potentiellement toxique ainsi qu'à l'évaluation de leurs résultats, les renseignements disponibles sur toute population vulnérable relativement à cette substance et sur les effets cumulatifs que l'exposition à cette substance, combinée à l'exposition à d'autres substances, peut entraîner;&lt;br/&gt;i) de prévoir que certaines substances sont, en raison de leurs propriétés ou particularités, entre autres, classifiées comme des substances présentant le plus haut niveau de risque;&lt;br/&gt;j) d'exiger de ces ministres qu'ils donnent priorité à l'interdiction totale, partielle ou conditionnelle d'activités relatives aux substances toxiques inscrites à la partie 1 de l'annexe 1 de la Loi canadienne sur la protection de l'environnement (1999), ou à l'interdiction totale, partielle ou conditionnelle de rejets de ces substances dans l'environnement, lorsqu'il s'agit d'élaborer un projet de texte — règlement ou autre — portant sur les mesures de prévention ou contrôle relatives à ces substances;&lt;br/&gt;k) d'élargir certains pouvoirs réglementaires, de collecte de renseignements et en matière de prévention de la pollution prévus par cette loi, notamment en faisant référence aux produits qui sont susceptibles de rejeter une substance dans l'environnement;&lt;br/&gt;l) de permettre que les risques associés à certaines substances toxiques puissent être gérés au moyen de mesures de prévention ou contrôle prises en vertu d'une autre loi fédérale et que les obligations prévues aux articles 91 et 92 de la Loi canadienne sur la protection de l'environnement (1999) puissent relever du ministre le mieux placé pour y répondre, que ce soit le ministre de l'Environnement ou celui de la Santé;&lt;br/&gt;m) d'élargir les pouvoirs du ministre de l'Environnement de modifier soit le contenu d'un avis indiquant qu'une substance non inscrite sur la liste intérieure est assujettie aux dispositions relatives aux nouvelles activités, soit la liste intérieure à l'égard d'une substance inscrite sur cette liste portant la mention qu'elle est assujettie aux dispositions relatives aux nouvelles activités;&lt;br/&gt;n) d'étendre la portée de l'exigence d'aviser ceux à qui une substance est transférée de l'obligation de se conformer aux dispositions relatives aux nouvelles activités lors du transfert d'une substance inscrite sur la liste intérieure assujettie à ces dispositions, et de permettre au ministre de l'Environnement de restreindre les catégories de personnes qui doivent être avisées lors du transfert de toute substance assujettie à ces dispositions;&lt;br/&gt;o) d'exiger que les demandes de confidentialité présentées en vertu de l'article 313 de cette loi soient motivées, et de permettre au ministre de l'Environnement de communiquer la dénomination chimique ou biologique d'une substance ou la dénomination biologique d'un organisme vivant dans certaines circonstances.&lt;br/&gt;Le texte apporte aussi des modifications connexes à la Loi sur les aliments et drogues afin de permettre l'évaluation et la gestion du risque pour l'environnement lié aux aliments, drogues, cosmétiques et instruments, notamment?: &lt;br/&gt;a) en interdisant aux personnes de mener certaines activités à l'égard d'une drogue, à moins que le ministre de la Santé n'ait effectué une évaluation du risque pour l'environnement de certaines substances contenues dans la drogue;&lt;br/&gt;b) en autorisant le ministre de la Santé à prendre des mesures en ce qui concerne le risque pour l'environnement que peuvent présenter les drogues tout au long de leur cycle de vie;&lt;br/&gt;c) en conférant au gouverneur en conseil des pouvoirs de réglementation à l'appui.&lt;br/&gt;Enfin, il abroge la Loi sur la quasi-élimination du sulfonate de perfluorooctane.&lt;/div&gt;</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information and Research Service of the Library of Parliament. Meanwhile, the following executive summary is available.&lt;br/&gt;&lt;br/&gt;On 13 April 2021, the Minister of Environment and Climate Change introduced Bill C-28, An Act to amend the Canadian Environmental Protection Act, 1999, to make related amendments to the Food and Drugs Act and to repeal the Perfluorooctane Sulfonate Virtual Elimination Act (Strengthening Environmental Protection for a Healthier Canada Act), in the House of Commons and it was given first reading.    &lt;br/&gt;&lt;br/&gt;Bill C-28 amends the Canadian Environmental Protection Act, 1999 to, among other things,&lt;br/&gt;(a) recognize that every individual in Canada has a right to a healthy environment as provided under that Act;&lt;br/&gt;(b) provide that the Government of Canada must protect that right as provided under that Act, and, in doing so, may balance that right with relevant factors;&lt;br/&gt;(c) require the development of an implementation framework that sets out how that right will be considered in the administration of that Act, and require that research, studies or monitoring activities be conducted to support the Government of Canada in protecting that right;&lt;br/&gt;(d) authorize the Minister of the Environment to add to the Domestic Substances List certain substances that were in commerce in Canada and subject to the Food and Drugs Act between January 1, 1987 and September 13, 2001, and provide that any substance may be deleted from the List when it is no longer in commerce in Canada;&lt;br/&gt;(e) require that the Minister of the Environment and the Minister of Health develop a plan that specifies the substances to which those Ministers are satisfied priority should be given in assessing whether they are toxic or capable of becoming toxic;&lt;br/&gt;(f) provide that any person may request that those Ministers assess a substance;&lt;br/&gt;(g) require the Minister of the Environment to compile a list of substances that that Minister and the Minister of Health have reason to suspect are capable of becoming toxic or that have been determined to be capable of becoming toxic;&lt;br/&gt;(h) require that, when those Ministers conduct or interpret the results of certain assessments — or conduct or interpret the results of a review of decisions of certain governments — in order to determine whether a substance is toxic or capable of becoming toxic, they consider available information on whether there is a vulnerable population in relation to the substance and on the cumulative effects that may result from exposure to the substance in combination with exposure to other substances;&lt;br/&gt;(i) provide that certain substances be classified as substances that pose the highest risk based on, among other things, their properties or characteristics;&lt;br/&gt;(j) require that those Ministers give priority to the total, partial or conditional prohibition of activities in relation to toxic substances that are specified in Part 1 of Schedule 1 of the Canadian Environmental Protection Act, 1999, or to the total, partial or conditional prohibition of releases of those substances into the environment, when regulations or instruments respecting preventive or control actions in relation to those substances are developed;&lt;br/&gt;(k) expand certain regulation-making, information-gathering and pollution prevention powers under that Act, including by adding a reference to products that may release substances into the environment;&lt;br/&gt;(l) allow the risks associated with certain toxic substances to be managed by preventive or control actions taken under any other Act of Parliament, and the obligations under sections 91 and 92 of the Canadian Environmental Protection Act, 1999 to be the responsibility of whoever of the Minister of the Environment or the Minister of Health is best placed to fulfil them;&lt;br/&gt;(m) expand the powers of the Minister of the Environment to vary either the contents of a significant new activity notice with respect to a substance not on the Domestic Substances List or the contents of the List itself with respect to a substance on the List that is subject to the significant new activities provisions of that Act;&lt;br/&gt;(n) extend the requirement, to notify persons of the obligation to comply with the significant new activity provisions of that Act when a substance that is subject to those provisions is transferred to them, so that it applies with respect to substances on the Domestic Substances List, and authorize that Minister to limit by class the persons who are required to be notified of the obligation when a substance that is subject to those provisions is transferred to them; and&lt;br/&gt;(o) require that confidentiality requests made under section 313 of the Act be accompanied by reasons, and to allow the Minister of the Environment to disclose the explicit chemical or biological name of a substance or the explicit biological name of a living organism in certain circumstances.&lt;br/&gt;The enactment also makes related amendments to the Food and Drugs Act to enable the assessment and management of risks to the environment associated with foods, drugs, cosmetics and devices by, among other things,&lt;br/&gt;(a) prohibiting persons from conducting certain activities in respect of a drug unless the Minister of Health has conducted an assessment of the risks to the environment presented by certain substances contained in that drug;&lt;br/&gt;(b) enabling the Minister of Health to take measures in respect of the risks to the environment that a drug may present throughout its life cycle; and&lt;br/&gt;(c) providing the Governor in Council with supporting regulation-making authorities.&lt;br/&gt;Finally, the enactment repeals the Perfluorooctane Sulfonate Virtual Elimination Act.&lt;/div&gt;</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear />
+    <StatuteChapter />
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>43</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2021-04-13T10:10:51.937</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>79</Number>
+          <Date>2021-04-13T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2021-04-13T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2021-04-13T10:10:51.937</EventStartDateTime>
+          <EventEndDateTime>2021-04-13T10:10:51.937</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2021-04-13T10:10:51.937</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>43</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>2</State>
+        <StateNameEn>No activity</StateNameEn>
+        <StateNameFr>Aucune activité</StateNameFr>
+        <StateAsOfDate />
+        <StateName>No activity</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteint</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+    </BillStages>
+    <Publications>
+      <PublicationId>11231381</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <HouseRulingAndStatements />
+    <SenateRulingAndStatements />
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Government of Canada Delivers on Commitment to Strengthen the Canadian Environmental Protection Act, 1999 and Recognizes a Right to a Healthy Environment</TitleEn>
+      <TitleFr>Le gouvernement du Canada respecte son engagement de renforcer la Loi canadienne sur la protection de l'environnement (1999) et reconnaît le droit à un environnement sain</TitleFr>
+      <Title>Government of Canada Delivers on Commitment to Strengthen the Canadian Environmental Protection Act, 1999 and Recognizes a Right to a Healthy Environment</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/environment-climate-change/news/2021/04/government-of-canada-delivers-on-commitment-to-strengthen-the-canadian-environmental-protection-act-1999-and-recognizes-a-right-to-a-healthy-enviro.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/environnement-changement-climatique/nouvelles/2021/04/le-gouvernement-du-canada-respecte-son-engagement-de-renforcer-la-loi-canadienne-sur-la-protection-de-lenvironnement-1999-et-reconnait-le-droit-a-u.html</UrlFr>
+      <Url>https://www.canada.ca/en/environment-climate-change/news/2021/04/government-of-canada-delivers-on-commitment-to-strengthen-the-canadian-environmental-protection-act-1999-and-recognizes-a-right-to-a-healthy-enviro.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Government of Canada delivers on commitment to strengthen the Canadian Environmental Protection Act, 1999 and proposes to recognize a right to a healthy environment</TitleEn>
+      <TitleFr>Le gouvernement du Canada respecte son engagement de renforcer la Loi canadienne sur la protection de l'environnement (1999) et propose de reconnaître un droit à un environnement sain</TitleFr>
+      <Title>Government of Canada delivers on commitment to strengthen the Canadian Environmental Protection Act, 1999 and proposes to recognize a right to a healthy environment</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/environment-climate-change/news/2021/04/government-of-canada-delivers-on-commitment-to-strengthen-the-canadian-environmental-protection-act-1999-and-proposes-to-recognize-a-right-to-a-hea.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/environnement-changement-climatique/nouvelles/2021/04/le-gouvernement-du-canada-respecte-son-engagement-de-renforcer-la-loi-canadienne-sur-la-protection-de-lenvironnement-1999-et-propose-de-reconnaitre.html</UrlFr>
+      <Url>https://www.canada.ca/en/environment-climate-change/news/2021/04/government-of-canada-delivers-on-commitment-to-strengthen-the-canadian-environmental-protection-act-1999-and-proposes-to-recognize-a-right-to-a-hea.html</Url>
+    </WebReferences>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
