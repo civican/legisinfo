@@ -1,6 +1,6 @@
 # Bill C-14: An Act to implement certain provisions of the economic statement tabled in Parliament on November 30, 2020 and other measures
 
-**Sponsor**: DEPUTY PRIME MINISTER AND MINISTER OF FINANCE
+Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act to implement certain provisions of the economic statement tabled in Parliament on November 30, 2020 and other measures*".
 
 ## Summary
 
@@ -123,15 +123,15 @@ Section 122.61 of the `Income Tax Act` is amended by adding the following after 
 
   **(1)** Paragraph 122.62(5)(b) of the Act is replaced by the following:
 
-    subject to subsection (8), for the purpose of determining the amount deemed under subsection 122.61(1) **or (1.2)** to be an overpayment arising in that first month and any subsequent month on account of the eligible individual's liability under this Part for the base taxation year in relation to that first month, the eligible individual's adjusted income for the year is deemed to be equal to the eligible individual's income for the year.
+    subject to subsection (8), for the purpose of determining the amount deemed under subsection 122.61(1) or (1.2) to be an overpayment arising in that first month and any subsequent month on account of the eligible individual's liability under this Part for the base taxation year in relation to that first month, the eligible individual's adjusted income for the year is deemed to be equal to the eligible individual's income for the year.
 
   **(2)** Paragraph 122.62(6)(b) of the Act is replaced by the following:
 
-    subject to subsection (8), for the purpose of determining the amount deemed under subsection 122.61(1) **or (1.2)** to be an overpayment arising in that first month and any subsequent month on account of the eligible individual's liability under this Part for the base taxation year in relation to that first month, the eligible individual's adjusted income for the year is deemed to be equal to the eligible individual's income for the year.
+    subject to subsection (8), for the purpose of determining the amount deemed under subsection 122.61(1) or (1.2) to be an overpayment arising in that first month and any subsequent month on account of the eligible individual's liability under this Part for the base taxation year in relation to that first month, the eligible individual's adjusted income for the year is deemed to be equal to the eligible individual's income for the year.
 
   **(3)** Paragraph 122.62(7)(b) of the Act is replaced by the following:
 
-    subject to subsection (8), for the purpose of determining the amount deemed under subsection 122.61(1) **or (1.2)** to be an overpayment arising in that first month and any subsequent month on account of the eligible individual's liability under this Part for the base taxation year in relation to that first month, the taxpayer is deemed to have been the eligible individual's cohabiting spouse or common-law partner at the end of the base taxation year in relation to that month.
+    subject to subsection (8), for the purpose of determining the amount deemed under subsection 122.61(1) or (1.2) to be an overpayment arising in that first month and any subsequent month on account of the eligible individual's liability under this Part for the base taxation year in relation to that first month, the taxpayer is deemed to have been the eligible individual's cohabiting spouse or common-law partner at the end of the base taxation year in relation to that month.
 
 ### Section 4
 
@@ -292,7 +292,7 @@ The portion of section 4 of the `Borrowing Authority Act` before paragraph (a) i
 
 ### Section 4
 
-Despite section 3 and any other Act of Parliament, but subject to section 6, the total of the following amounts must not at any time exceed $**1,831,000,000,000**:
+Despite section 3 and any other Act of Parliament, but subject to section 6, the total of the following amounts must not at any time exceed $1,831,000,000,000:
 
 ### Section 16
 
