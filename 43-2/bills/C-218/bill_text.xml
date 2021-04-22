@@ -16,17 +16,15 @@
     <ShortTitle status="unofficial" />
     <RunningHead>Criminal Code (single event sports betting)</RunningHead>
     <BillHistory>
-      <Stages stage="report-house">
+      <Stages stage="third-reading-house">
         <Date>
           <YYYY>2021</YYYY>
-          <MM>3</MM>
-          <DD>26</DD>
+          <MM>4</MM>
+          <DD>22</DD>
         </Date>
-      <StageText>Reprinted as amended by the Standing Committee on Justice and Human Rights as a working copy for the use of the House of Commons at Report Stage and as reported to the House on March 26, 2021</StageText></Stages>
+      </Stages>
     </BillHistory>
-    <BillSponsor>
-      <Emphasis style="smallcaps">Mr. Waugh</Emphasis>
-    </BillSponsor>
+    
     
     <BillRefNumber date-time="2008-12-17">431103</BillRefNumber>
   </Identification>
@@ -59,7 +57,7 @@
       </MarginalNote>
       <TitleText>Criminal Code</TitleText>
     </Heading>
-    <Section type="amending" change="ins"><Label>2</Label><Text>Paragraph 207(4)(b) of the <XRefExternal reference-type="act">Criminal Code</XRefExternal> is replaced by the following:</Text><AmendedText><SectionPiece><Paragraph><Label>(b)</Label><Text>bookmaking, pool selling or the making or recording of bets, including bets made through the
+    <Section type="amending"><Label>2</Label><Text>Paragraph 207(4)(b) of the <XRefExternal reference-type="act">Criminal Code</XRefExternal> is replaced by the following:</Text><AmendedText><SectionPiece><Paragraph><Label>(b)</Label><Text>bookmaking, pool selling or the making or recording of bets, including bets made through the
 agency of a pool or pari-mutuel system, on any horse-race; or</Text></Paragraph></SectionPiece></AmendedText></Section>
     <Heading level="1" type="amending">
       <TitleText>Coming into Force</TitleText>
