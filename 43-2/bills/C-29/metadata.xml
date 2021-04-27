@@ -1,0 +1,1016 @@
+<Bills>
+  <Bill>
+    <Id>11271742</Id>
+    <NumberCode>C-29</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>29</Number>
+    <LongTitleEn>An Act to provide for the resumption and continuation of operations at the Port of Montreal</LongTitleEn>
+    <LongTitleFr>Loi prévoyant la reprise et le maintien des opérations au port de Montréal</LongTitleFr>
+    <LongTitle>An Act to provide for the resumption and continuation of operations at the Port of Montreal</LongTitle>
+    <ShortTitleEn>Port of Montreal Operations Act, 2021</ShortTitleEn>
+    <ShortTitleFr>Loi de 2021 sur les opérations au port de Montréal</ShortTitleFr>
+    <ShortTitle>Port of Montreal Operations Act, 2021</ShortTitle>
+    <StatusId>357</StatusId>
+    <StatusNameEn>Royal assent received</StatusNameEn>
+    <StatusNameFr>Sanction royale reçue</StatusNameFr>
+    <StatusName>Royal assent received</StatusName>
+    <LatestCompletedMajorStageId>60046</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>Royal assent</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Sanction royale</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>Royal assent</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>Royal assent</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>2</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>Senate</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Sénat</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>Senate</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60050</OngoingStageId>
+    <OngoingStageNameEn>Royal assent</OngoingStageNameEn>
+    <OngoingStageNameFr>Sanction royale</OngoingStageNameFr>
+    <OngoingStageName>Royal assent</OngoingStageName>
+    <LatestCompletedBillStageId>60050</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Royal assent</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Sanction royale</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Royal assent</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>2</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>Senate</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Sénat</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>Senate</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2021-04-30T22:00:00</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>43</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>88784</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Filomena</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Tassi</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Filomena Tassi</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Labour</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre du Travail</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Labour</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>4</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Minister</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>ministre</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Minister</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>752</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Hamilton West—Ancaster—Dundas</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Hamilton-Ouest—Ancaster—Dundas</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Hamilton West—Ancaster—Dundas</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60149</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Royal assent</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Sanction royale</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60050</LatestBillEventStageId>
+    <LatestBillEventTypeName>Royal assent</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2021-04-30T12:00:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>2</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>Senate</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Sénat</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>Senate</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>36</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2021-04-27T10:03:16.687</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime>2021-04-29T01:52:00</PassedHouseSecondReadingDateTime>
+    <PassedHouseThirdReadingDateTime>2021-04-29T01:57:51</PassedHouseThirdReadingDateTime>
+    <PassedSenateFirstReadingDateTime>2021-04-30T13:00:00</PassedSenateFirstReadingDateTime>
+    <PassedSenateSecondReadingDateTime>2021-04-30T17:15:00</PassedSenateSecondReadingDateTime>
+    <PassedSenateThirdReadingDateTime>2021-04-30T21:00:00</PassedSenateThirdReadingDateTime>
+    <ReceivedRoyalAssentDateTime>2021-04-30T22:00:00</ReceivedRoyalAssentDateTime>
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>true</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>true</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>true</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>true</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>true</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>&lt;div&gt;On April 30, 2021, the Senate adopted the following motion:&lt;p&gt;&lt;/p&gt;That, notwithstanding any provisions of the Rules, usual practice or previous order, when the Senate sits today:
+
+&lt;p&gt;&lt;/p&gt;1. the sitting continue until the earlier of midnight or the end of Government Business, subject to the provisions of paragraph 7 of this order;
+
+&lt;p&gt;&lt;/p&gt;2. the Senate resolve itself into a Committee of the Whole at the start of Orders of the Day to consider the subject matter of Bill C-29, An Act to provide for the resumption and continuation of operations at the Port of Montreal;
+
+&lt;p&gt;&lt;/p&gt;3. the Committee of the Whole on the subject matter of Bill C-29 receive:
+
+&lt;p&gt;&lt;/p&gt;(a) representatives of the "Syndicat des débardeurs du port de Montréal SCFP, section locale 375", for no more than 65 minutes;&lt;p&gt;&lt;/p&gt;(b) representatives of the Maritime Employers Association, for no more than 65 minutes; and
+
+&lt;p&gt;&lt;/p&gt;(c) the Honourable Filomena Tassi, P.C., M.P., Minister of Labour, and the Honourable Omar Alghabra, P.C., M.P., Minister of Transport, each accompanied by at most three officials, for no more than 125 minutes;
+
+&lt;p&gt;&lt;/p&gt;4. the Committee of the Whole on the subject matter of Bill C-29 rise no later than 255 minutes after it begins;
+
+&lt;p&gt;&lt;/p&gt;5. during the appearance of each group of witnesses before the Committee of the Whole, introductory remarks be limited to a maximum of five minutes;
+
+&lt;p&gt;&lt;/p&gt;6. if, during the Committee of the Whole, a senator does not use the entire period of 10 minutes for debate provided under rule 12-32(3)(d), including the responses of the witnesses, that senator may yield the balance of time to another senator; and
+
+&lt;p&gt;&lt;/p&gt;7. the provisions of rule 16-1(8) may be invoked at any point during today's sitting, if there is a bill awaiting Royal Assent, provided that, if the Senate reaches the end of Government Business before the message from the Crown is received, the sitting be suspended pursuant to that rule to await the message.
+&lt;/div&gt;</NotesEn>
+    <NotesFr>&lt;div&gt;Le 30 avril 2021, le Sénat a adopté la motion suivante :&lt;p&gt;&lt;/p&gt;Que, nonobstant toute disposition du Règlement, toute pratique habituelle ou tout ordre antérieur, lorsque le Sénat siège aujourd'hui :
+
+&lt;p&gt;&lt;/p&gt;1. la séance continue jusqu'à minuit ou à la fin des Affaires du gouvernement, selon la première éventualité, mais sous réserve des dispositions du paragraphe 7 du présent ordre;
+
+&lt;p&gt;&lt;/p&gt;2. le Sénat se forme en comité plénier au début de l'ordre du jour afin d'étudier la teneur du projet de loi C-29, Loi prévoyant la reprise et le maintien des opérations au port de Montréal;
+
+&lt;p&gt;&lt;/p&gt;3. le comité plénier sur la teneur du projet de loi C-29 reçoive :
+
+&lt;p&gt;&lt;/p&gt;a) des représentants du Syndicat des débardeurs du port de Montréal SCFP, section locale 375, pour un maximum de 65 minutes;
+
+&lt;p&gt;&lt;/p&gt;b) des représentants de l'Association des employeurs maritimes, pour un maximum de 65 minutes;
+
+&lt;p&gt;&lt;/p&gt;c) l'honorable Filomena Tassi, c.p., députée, ministre du Travail, et l'honorable Omar Alghabra, c.p., député, ministre des Transports, accompagnés d'un maximum de trois fonctionnaires chacun, pour un maximum de 125 minutes;
+
+&lt;p&gt;&lt;/p&gt;4. le comité plénier sur la teneur du projet de loi C-29 lève sa séance au plus tard 255 minutes après le début de ses travaux;
+
+&lt;p&gt;&lt;/p&gt;5. durant la comparution de chaque groupe de témoins devant le comité plénier, les remarques introductives soient limitées à un maximum de cinq minutes;
+
+&lt;p&gt;&lt;/p&gt;6. si, au cours du comité plénier, un sénateur n'utilise pas l'entière période de 10 minutes prévue pour les interventions à l'article 12-32(3)d) du Règlement, les réponses des témoins y comprises, il puisse céder le reste de son temps à un autre sénateur;
+
+&lt;p&gt;&lt;/p&gt;7. les dispositions de l'article 16-1(8) du Règlement puissent être invoquées à n'importe quel moment au cours de la séance d'aujourd'hui, s'il y a un projet de loi en attente de la sanction royale, pourvu que, si le Sénat arrive à la fin des Affaires du gouvernement avant d'avoir reçu le message de la Couronne, la séance soit suspendue en attendant le message.
+&lt;/div&gt;</NotesFr>
+    <Notes>&lt;div&gt;On April 30, 2021, the Senate adopted the following motion:&lt;p&gt;&lt;/p&gt;That, notwithstanding any provisions of the Rules, usual practice or previous order, when the Senate sits today:
+
+&lt;p&gt;&lt;/p&gt;1. the sitting continue until the earlier of midnight or the end of Government Business, subject to the provisions of paragraph 7 of this order;
+
+&lt;p&gt;&lt;/p&gt;2. the Senate resolve itself into a Committee of the Whole at the start of Orders of the Day to consider the subject matter of Bill C-29, An Act to provide for the resumption and continuation of operations at the Port of Montreal;
+
+&lt;p&gt;&lt;/p&gt;3. the Committee of the Whole on the subject matter of Bill C-29 receive:
+
+&lt;p&gt;&lt;/p&gt;(a) representatives of the "Syndicat des débardeurs du port de Montréal SCFP, section locale 375", for no more than 65 minutes;&lt;p&gt;&lt;/p&gt;(b) representatives of the Maritime Employers Association, for no more than 65 minutes; and
+
+&lt;p&gt;&lt;/p&gt;(c) the Honourable Filomena Tassi, P.C., M.P., Minister of Labour, and the Honourable Omar Alghabra, P.C., M.P., Minister of Transport, each accompanied by at most three officials, for no more than 125 minutes;
+
+&lt;p&gt;&lt;/p&gt;4. the Committee of the Whole on the subject matter of Bill C-29 rise no later than 255 minutes after it begins;
+
+&lt;p&gt;&lt;/p&gt;5. during the appearance of each group of witnesses before the Committee of the Whole, introductory remarks be limited to a maximum of five minutes;
+
+&lt;p&gt;&lt;/p&gt;6. if, during the Committee of the Whole, a senator does not use the entire period of 10 minutes for debate provided under rule 12-32(3)(d), including the responses of the witnesses, that senator may yield the balance of time to another senator; and
+
+&lt;p&gt;&lt;/p&gt;7. the provisions of rule 16-1(8) may be invoked at any point during today's sitting, if there is a bill awaiting Royal Assent, provided that, if the Senate reaches the end of Government Business before the message from the Crown is received, the sitting be suspended pursuant to that rule to await the message.
+&lt;/div&gt;</Notes>
+    <ShortLegislativeSummaryEn>&lt;div&gt;The Library of Parliament does not prepare Legislative Summaries for bills debated under urgency and emergency.  The following is a short summary:&lt;br/&gt;&lt;br/&gt;On 27 April 2021, the Minister of Labour introduced Bill C-29, An Act to provide for the resumption and continuation of operations at the Port of Montreal (Port of Montreal Operations Act, 2021), in the House of Commons and it was given first reading.    &lt;br/&gt;&lt;br/&gt;Bill C-29 provides for the resumption and continuation of operations at the Port of Montreal and imposes mediation as the process for resolving matters remaining in dispute between the parties. It empowers the mediator-arbitrator to impose arbitration as the process for resolving matters that cannot be resolved through mediation. Finally, it sets out the elements that are to be included in the new collective agreement between the parties.&lt;/div&gt;</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>&lt;div&gt;La Bibliothèque du Parlement ne prépare pas de Résumés législatifs pour les projets de loi débattus dans un contexte d'urgence. Ce qui suit est un court résumé :&lt;br/&gt;&lt;br/&gt;Le 27 avril 2021, le Ministre du Travail a déposé le projet de loi C-29, Loi prévoyant la reprise et le maintien des opérations au port de Montréal (Loi de 2021 sur les opérations au port de Montréal) à la Chambre des communes en première lecture.   &lt;br/&gt;&lt;br/&gt;Le projet de loi C-29 prévoit la reprise et le maintien des opérations au port de Montréal et impose la médiation comme mode de règlement des questions qui font toujours l'objet d'un différend entre les parties. Il accorde au médiateur-arbitre le pouvoir d'imposer l'arbitrage comme mode de règlement des questions que la médiation n'aura pas permis de régler. Finalement, il prévoit les éléments qui seront compris dans la nouvelle convention collective à intervenir entre les parties.&lt;/div&gt;</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>&lt;div&gt;The Library of Parliament does not prepare Legislative Summaries for bills debated under urgency and emergency.  The following is a short summary:&lt;br/&gt;&lt;br/&gt;On 27 April 2021, the Minister of Labour introduced Bill C-29, An Act to provide for the resumption and continuation of operations at the Port of Montreal (Port of Montreal Operations Act, 2021), in the House of Commons and it was given first reading.    &lt;br/&gt;&lt;br/&gt;Bill C-29 provides for the resumption and continuation of operations at the Port of Montreal and imposes mediation as the process for resolving matters remaining in dispute between the parties. It empowers the mediator-arbitrator to impose arbitration as the process for resolving matters that cannot be resolved through mediation. Finally, it sets out the elements that are to be included in the new collective agreement between the parties.&lt;/div&gt;</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>false</IsFullLegislativeSummaryAvailable>
+    <StatuteYear>2021</StatuteYear>
+    <StatuteChapter>6</StatuteChapter>
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>43</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2021-04-27T10:03:16.687</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>89</Number>
+          <Date>2021-04-27T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2021-04-27T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2021-04-27T10:03:16.687</EventStartDateTime>
+          <EventEndDateTime>2021-04-27T10:03:16.687</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2021-04-27T10:03:16.687</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>43</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2021-04-29T01:52:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>26086</CommitteeOrganizationId>
+          <CommitteeNameEn>Committee of the Whole</CommitteeNameEn>
+          <CommitteeNameFr>Comité plénier</CommitteeNameFr>
+          <CommitteeAcronym>WHOL</CommitteeAcronym>
+          <CommitteeName>Committee of the Whole</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>90</Number>
+          <Date>2021-04-28T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>11271432</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>11276744</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>2nd reading and referral to committee - WHOL</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>2e lecture et renvoi en comité - WHOL</DecisionMotionTitleFr>
+          <DecisionMotionTitle>2nd reading and referral to committee - WHOL</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>10</DecisionMethodId>
+          <DecisionMethodNameEn>On recorded division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Suivant un vote par appel nominal</DecisionMethodNameFr>
+          <DecisionMethodName>On recorded division</DecisionMethodName>
+          <DivisionNumber>102</DivisionNumber>
+          <DivisionVotesYeas>255</DivisionVotesYeas>
+          <DivisionVotesNays>61</DivisionVotesNays>
+          <DivisionVotePaired>0</DivisionVotePaired>
+          <DecisionSittingDate>2021-04-28T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>90</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60121</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading and referral to committee</EventNameEn>
+          <EventNameFr>Deuxième lecture et renvoi en comité</EventNameFr>
+          <EventName>Second reading and referral to committee</EventName>
+          <EventDateTime>2021-04-28T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60121</EventTypeId>
+          <EventTypeNameEn>Second reading and referral to committee</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture et renvoi en comité</EventTypeNameFr>
+          <EventTypeName>Second reading and referral to committee</EventTypeName>
+          <EventStartDateTime>2021-04-29T01:52:00</EventStartDateTime>
+          <EventEndDateTime>2021-04-29T01:52:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2021-04-29T01:52:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>11271406</InterventionEventId>
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>88784</PersonId>
+          <PersonOfficialFirstName>Filomena</PersonOfficialFirstName>
+          <PersonOfficialLastName>Tassi</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Filomena Tassi</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>43</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>90</MeetingNumber>
+          <SpeechDateTime>2021-04-28T21:02:54</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>11271449</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>105802</PersonId>
+          <PersonOfficialFirstName>Tracy</PersonOfficialFirstName>
+          <PersonOfficialLastName>Gray</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Tracy Gray</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>43</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>90</MeetingNumber>
+          <SpeechDateTime>2021-04-28T21:31:50</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>11271485</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>104678</PersonId>
+          <PersonOfficialFirstName>Louise</PersonOfficialFirstName>
+          <PersonOfficialLastName>Chabot</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Louise Chabot</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Bloc Québécois</CaucusShortNameEn>
+          <CaucusShortNameFr>Bloc Québécois</CaucusShortNameFr>
+          <CaucusShortName>Bloc Québécois</CaucusShortName>
+          <ParliamentNumber>43</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>90</MeetingNumber>
+          <SpeechDateTime>2021-04-28T22:00:49</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>11271517</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>58775</PersonId>
+          <PersonOfficialFirstName>Alexandre</PersonOfficialFirstName>
+          <PersonOfficialLastName>Boulerice</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Alexandre Boulerice</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>NDP</CaucusShortNameEn>
+          <CaucusShortNameFr>NPD</CaucusShortNameFr>
+          <CaucusShortName>NDP</CaucusShortName>
+          <ParliamentNumber>43</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>90</MeetingNumber>
+          <SpeechDateTime>2021-04-28T22:29:37</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>43</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2021-04-29T01:53:01</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>26086</CommitteeOrganizationId>
+          <CommitteeNameEn>Committee of the Whole</CommitteeNameEn>
+          <CommitteeNameFr>Comité plénier</CommitteeNameFr>
+          <CommitteeAcronym>WHOL</CommitteeAcronym>
+          <CommitteeName>Committee of the Whole</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented with an amendment</NameEn>
+          <NameFr>Présentation du rapport de comité avec un amendement</NameFr>
+          <Name>Committee report presented with an amendment</Name>
+          <Number>90</Number>
+          <Date>2021-04-28T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented with an amendment</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité avec un amendement</EventNameFr>
+          <EventName>Committee report presented with an amendment</EventName>
+          <EventDateTime>2021-04-28T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2021-04-29T01:53:01</EventStartDateTime>
+          <EventEndDateTime>2021-04-29T01:53:01</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2021-04-29T01:53:01</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>43</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2021-04-29T01:55:45</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Concurrence at report stage</NameEn>
+          <NameFr>Adoption à l'étape du rapport</NameFr>
+          <Name>Concurrence at report stage</Name>
+          <Number>90</Number>
+          <Date>2021-04-28T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60285</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Concurrence at report stage</EventNameEn>
+          <EventNameFr>Adoption à l'étape du rapport</EventNameFr>
+          <EventName>Concurrence at report stage</EventName>
+          <EventDateTime>2021-04-28T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60285</EventTypeId>
+          <EventTypeNameEn>Concurrence at report stage</EventTypeNameEn>
+          <EventTypeNameFr>Adoption à l'étape du rapport</EventTypeNameFr>
+          <EventTypeName>Concurrence at report stage</EventTypeName>
+          <EventStartDateTime>2021-04-29T01:55:45</EventStartDateTime>
+          <EventEndDateTime>2021-04-29T01:55:45</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2021-04-29T01:55:45</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>43</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2021-04-29T01:57:51</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>90</Number>
+          <Date>2021-04-28T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>11271343</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>11276746</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>3rd reading</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>3e lecture</DecisionMotionTitleFr>
+          <DecisionMotionTitle>3rd reading</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId />
+          <DecisionMethodNameEn>
+          </DecisionMethodNameEn>
+          <DecisionMethodNameFr>
+          </DecisionMethodNameFr>
+          <DecisionMethodName>
+          </DecisionMethodName>
+          <DivisionNumber />
+          <DivisionVotesYeas />
+          <DivisionVotesNays />
+          <DivisionVotePaired />
+          <DecisionSittingDate>2021-04-28T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>90</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2021-04-28T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2021-04-29T01:57:51</EventStartDateTime>
+          <EventEndDateTime>2021-04-29T01:57:51</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2021-04-29T01:57:51</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>43</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2021-04-30T13:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>First reading</NameEn>
+          <NameFr>Première lecture</NameFr>
+          <Name>First reading</Name>
+          <Number>36</Number>
+          <Date>2021-04-30T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60111</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>First reading</EventNameEn>
+          <EventNameFr>Première lecture</EventNameFr>
+          <EventName>First reading</EventName>
+          <EventDateTime>2021-04-30T13:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60111</EventTypeId>
+          <EventTypeNameEn>First reading</EventTypeNameEn>
+          <EventTypeNameFr>Première lecture</EventTypeNameFr>
+          <EventTypeName>First reading</EventTypeName>
+          <EventStartDateTime>2021-04-30T13:00:00</EventStartDateTime>
+          <EventEndDateTime>2021-04-30T13:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2021-04-30T13:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>43</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2021-04-30T17:15:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Second reading</NameEn>
+          <NameFr>Deuxième lecture</NameFr>
+          <Name>Second reading</Name>
+          <Number>36</Number>
+          <Date>2021-04-30T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60120</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading</EventNameEn>
+          <EventNameFr>Deuxième lecture</EventNameFr>
+          <EventName>Second reading</EventName>
+          <EventDateTime>2021-04-30T17:15:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60120</EventTypeId>
+          <EventTypeNameEn>Second reading</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture</EventTypeNameFr>
+          <EventTypeName>Second reading</EventTypeName>
+          <EventStartDateTime>2021-04-30T17:15:00</EventStartDateTime>
+          <EventEndDateTime>2021-04-30T17:15:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2021-04-30T17:15:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>43</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2021-04-30T21:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>36</Number>
+          <Date>2021-04-30T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2021-04-30T21:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>Bill passed by the Senate without amendment</AdditionalInformationEn>
+          <AdditionalInformationFr>Projet de loi adopté par le Sénat sans amendement</AdditionalInformationFr>
+          <AdditionalInformation>Bill passed by the Senate without amendment</AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2021-04-30T21:00:00</EventStartDateTime>
+          <EventEndDateTime>2021-04-30T21:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2021-04-30T21:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <RoyalAssent>
+        <BillStageId>60050</BillStageId>
+        <BillStageNameEn>Royal assent</BillStageNameEn>
+        <BillStageNameFr>Sanction royale</BillStageNameFr>
+        <BillStageName>Royal assent</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>43</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>0</State>
+        <StateNameEn />
+        <StateNameFr />
+        <StateAsOfDate />
+        <StateName />
+        <Committee />
+        <Sittings>
+          <NameEn>Royal assent</NameEn>
+          <NameFr>Sanction royale</NameFr>
+          <Name>Royal assent</Name>
+          <Number>36</Number>
+          <Date>2021-04-30T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60149</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Royal assent</EventNameEn>
+          <EventNameFr>Sanction royale</EventNameFr>
+          <EventName>Royal assent</EventName>
+          <EventDateTime>2021-04-30T22:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60149</EventTypeId>
+          <EventTypeNameEn>Royal assent</EventTypeNameEn>
+          <EventTypeNameFr>Sanction royale</EventTypeNameFr>
+          <EventTypeName>Royal assent</EventTypeName>
+          <EventStartDateTime>2021-04-30T22:00:00</EventStartDateTime>
+          <EventEndDateTime>2021-04-30T22:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2021-04-30T22:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </RoyalAssent>
+    </BillStages>
+    <Publications>
+      <PublicationId>11277012</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>11286086</PublicationId>
+      <PublicationTypeId>80703</PublicationTypeId>
+      <PublicationTypeNameEn>As passed by the House of Commons</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel qu'adopté par la Chambre des communes</PublicationTypeNameFr>
+      <PublicationTypeName>As passed by the House of Commons</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>11294832</PublicationId>
+      <PublicationTypeId>80704</PublicationTypeId>
+      <PublicationTypeNameEn>Royal Assent</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Royal Assent</PublicationTypeNameFr>
+      <PublicationTypeName>Royal Assent</PublicationTypeName>
+    </Publications>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>102</DivisionNumber>
+      <DivisionSubjectEn>2nd reading of Bill C-29, An Act to provide for the resumption and continuation of operations at the Port of Montreal</DivisionSubjectEn>
+      <DivisionSubjectFr>2e lecture du projet de loi C-29, Loi prévoyant la reprise et le maintien des opérations au port de Montréal</DivisionSubjectFr>
+      <DivisionSubject>2nd reading of Bill C-29, An Act to provide for the resumption and continuation of operations at the Port of Montreal</DivisionSubject>
+      <DivisionVotesYeas>255</DivisionVotesYeas>
+      <DivisionVotesNays>61</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>316</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2021-04-28T14:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Backgrounder: Bill C-29, An Act to provide for the resumption and continuation of operations at the Port of Montréal</TitleEn>
+      <TitleFr>Document d'information: projet de loi C-29, la  Loi prévoyant la reprise et le maintien des opérations au port de Montréal</TitleFr>
+      <Title>Backgrounder: Bill C-29, An Act to provide for the resumption and continuation of operations at the Port of Montréal</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/employment-social-development/news/2021/04/backgrounderbill-c-29-an-act-to-provide-for-the-resumption-and-continuation-of-operations-at-the-port-of-montreal.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/emploi-developpement-social/nouvelles/2021/04/document-dinformationc29-la-loi-prevoyant-la-reprise-et-le-maintien-des-operations-au-port-de-montreal.html</UrlFr>
+      <Url>https://www.canada.ca/en/employment-social-development/news/2021/04/backgrounderbill-c-29-an-act-to-provide-for-the-resumption-and-continuation-of-operations-at-the-port-of-montreal.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Federal Mediation and Conciliation Service (FMCS)</TitleEn>
+      <TitleFr>Le Service fédéral de médiation et de conciliation (SFMC)</TitleFr>
+      <Title>Federal Mediation and Conciliation Service (FMCS)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/employment-social-development/services/labour-relations/collective-bargaining.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/emploi-developpement-social/services/relations-travail/negociation-collective.html</UrlFr>
+      <Url>https://www.canada.ca/en/employment-social-development/services/labour-relations/collective-bargaining.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Statement by the Minister of Labour, Filomena Tassi</TitleEn>
+      <TitleFr>Déclaration de la ministre du Travail, Filomena Tassi</TitleFr>
+      <Title>Statement by the Minister of Labour, Filomena Tassi</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/employment-social-development/news/2021/03/statement-on-the-port-of-montreal.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/emploi-developpement-social/nouvelles/2021/03/statement-on-the-port-of-montreal.html</UrlFr>
+      <Url>https://www.canada.ca/en/employment-social-development/news/2021/03/statement-on-the-port-of-montreal.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Charter Statement - Bill C-29: An Act to provide for the resumption and continuation of operations at the Port of Montreal</TitleEn>
+      <TitleFr>Énoncé concernant la Charte - Projet de loi C-29 : Loi prévoyant la reprise et le maintien des opérations au port de Montréal</TitleFr>
+      <Title>Charter Statement - Bill C-29: An Act to provide for the resumption and continuation of operations at the Port of Montreal</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.justice.gc.ca/eng/csj-sjc/pl/charter-charte/c29.html</UrlEn>
+      <UrlFr>https://www.justice.gc.ca/fra/sjc-csj/pl/charte-charter/c29.html</UrlFr>
+      <Url>https://www.justice.gc.ca/eng/csj-sjc/pl/charter-charte/c29.html</Url>
+    </WebReferences>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
