@@ -1,7 +1,5 @@
 # Bill C-29: An Act to provide for the resumption and continuation of operations at the Port of Montreal
 
-**Sponsor**: MINISTER OF LABOUR
-
 ## Summary
 
 This enactment provides for the resumption and continuation of operations at the Port of Montreal and imposes mediation as the process for resolving matters remaining in dispute between the parties. It empowers the mediator-arbitrator to impose arbitration as the process for resolving matters that cannot be resolved through mediation. Finally, it sets out the elements that are to be included in the new collective agreement between the parties.
@@ -185,23 +183,13 @@ The mediator-arbitrator has, with any modifications that the circumstances requi
 
     endeavour to mediate all the matters that are deemed to be referred to the mediator-arbitrator relating to the amendment or revision of the collective agreement and to bring about an agreement between the parties on those matters;
 
-    if the mediator-arbitrator is unable to bring about an agreement between the parties in respect of any such matter,
-
-    hear the parties on the matter, arbitrate the matter and render a decision in respect of the matter, or
-
-    ask each of the parties to submit, within the time and in the manner that the mediator-arbitrator may specify, that party's final offer in respect of the matter and, subject to subsection (6), select, in order to resolve the matter, either the final offer of the employers' association or the final offer of the union; and
+    if the mediator-arbitrator is unable to bring about an agreement between the parties in respect of any such matter, hear the parties on the matter, arbitrate the matter and render a decision in respect of the matter; and
 
     report to the Minister on the resolution of each of the matters that are deemed to be referred to the mediator-arbitrator and provide the parties with a copy of the report.
 
-  **(2)** For greater certainty, the choice of acting in accordance with subparagraph (1)(b)(i) or (ii) is at the discretion of the mediator-arbitrator.
+  **(2)** Despite subsection (1), the mediator-arbitrator has a period of not more than 14 days after the day on which they are appointed to endeavour to mediate the matters referred to in paragraph (1)(a) and to bring about an agreement between the parties. That period may be extended for an additional period of not more than seven days if the parties agree.
 
-  **(3)** Despite subsection (1), the mediator-arbitrator has a period of not more than 14 days after the day on which they are appointed to endeavour to mediate the matters referred to in paragraph (1)(a) and to bring about an agreement between the parties. That period may be extended for an additional period of not more than seven days if the parties agree.
-
-  **(4)** Every decision of the mediator-arbitrator under subparagraph (1)(b)(i) must be worded in appropriate contractual language so as to allow its incorporation into a new collective agreement.
-
-  **(5)** The final offer of the employers' association and of the union referred to in subparagraph (1)(b)(ii) must be submitted with proposed contractual language that can be incorporated into a new collective agreement.
-
-  **(6)** If either party fails to submit to the mediator-arbitrator a final offer when asked to do so under subparagraph (1)(b)(ii), the mediator-arbitrator must select the final offer submitted by the other party.
+  **(3)** Every decision of the mediator-arbitrator under paragraph (1)(b) must be worded in appropriate contractual language so as to allow its incorporation into a new collective agreement.
 
 ### Section 12
 
