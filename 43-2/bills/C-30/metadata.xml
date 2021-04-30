@@ -1,0 +1,1628 @@
+<Bills>
+  <Bill>
+    <Id>11283337</Id>
+    <NumberCode>C-30</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>30</Number>
+    <LongTitleEn>An Act to implement certain provisions of the budget tabled in Parliament on April 19, 2021 and other measures</LongTitleEn>
+    <LongTitleFr>Loi portant exécution de certaines dispositions du budget déposé au Parlement le 19 avril 2021 et mettant en œuvre d'autres mesures</LongTitleFr>
+    <LongTitle>An Act to implement certain provisions of the budget tabled in Parliament on April 19, 2021 and other measures</LongTitle>
+    <ShortTitleEn>Budget Implementation Act, 2021, No. 1</ShortTitleEn>
+    <ShortTitleFr>Loi no 1 d'exécution du budget de 2021</ShortTitleFr>
+    <ShortTitle>Budget Implementation Act, 2021, No. 1</ShortTitle>
+    <StatusId>357</StatusId>
+    <StatusNameEn>Royal assent received</StatusNameEn>
+    <StatusNameFr>Sanction royale reçue</StatusNameFr>
+    <StatusName>Royal assent received</StatusName>
+    <LatestCompletedMajorStageId>60046</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>Royal assent</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Sanction royale</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>Royal assent</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>Royal assent</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>2</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>Senate</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Sénat</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>Senate</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60050</OngoingStageId>
+    <OngoingStageNameEn>Royal assent</OngoingStageNameEn>
+    <OngoingStageNameFr>Sanction royale</OngoingStageNameFr>
+    <OngoingStageName>Royal assent</OngoingStageName>
+    <LatestCompletedBillStageId>60050</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Royal assent</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Sanction royale</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Royal assent</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>2</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>Senate</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Sénat</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>Senate</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2021-06-29T22:00:00</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>43</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>84665</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Chrystia</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Freeland</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Chrystia Freeland</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Deputy Prime Minister and Minister of Finance</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>vice-première ministre et ministre des Finances</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Deputy Prime Minister and Minister of Finance</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>96</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>HansardDisplay</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>HansardDisplay</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>HansardDisplay</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>824</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>University—Rosedale</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>University—Rosedale</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>University—Rosedale</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60149</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Royal assent</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Sanction royale</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60050</LatestBillEventStageId>
+    <LatestBillEventTypeName>Royal assent</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2021-06-29T14:00:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>2</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>Senate</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Sénat</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>Senate</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>56</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2021-04-30T10:49:23.447</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime>2021-05-27T15:00:00</PassedHouseSecondReadingDateTime>
+    <PassedHouseThirdReadingDateTime>2021-06-23T15:45:35</PassedHouseThirdReadingDateTime>
+    <PassedSenateFirstReadingDateTime>2021-06-23T18:00:00</PassedSenateFirstReadingDateTime>
+    <PassedSenateSecondReadingDateTime>2021-06-28T00:01:00</PassedSenateSecondReadingDateTime>
+    <PassedSenateThirdReadingDateTime>2021-06-29T21:20:00</PassedSenateThirdReadingDateTime>
+    <ReceivedRoyalAssentDateTime>2021-06-29T22:00:00</ReceivedRoyalAssentDateTime>
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>true</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>true</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>true</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>true</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>true</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>&lt;div&gt;The Senate adopted the following motion on May 4, 2021:&lt;p&gt;&lt;/p&gt;That, in accordance with rule 10-11(1), the &lt;a href="https://sencanada.ca/en/committees/nffn/studiesandbills/43-2"&gt;Standing Senate Committee on National Finance&lt;/a&gt; be authorized to examine the subject matter of all of Bill C-30, An Act to implement certain provisions of the budget tabled in Parliament on April 19, 2021 and other measures, introduced in the House of Commons on April 30, 2021, in advance of the said bill coming before the Senate;
+
+&lt;p&gt;&lt;/p&gt;That the Standing Senate Committee on National Finance be authorized to meet for the purposes of its study of the subject matter of Bill C-30, even though the Senate may then be sitting, with the application of rule 12-18(1) being suspended in relation thereto; 
+
+&lt;p&gt;&lt;/p&gt;That, subject to available capacity, the Standing Senate Committee on National Finance be authorized, for the purposes of its study of the subject matter of Bill C-30, to meet outside its assigned time slots during periods that it is authorized to sit; and&lt;p&gt;&lt;/p&gt;
+
+That, in addition, and notwithstanding any normal practice:
+
+&lt;p&gt;&lt;/p&gt;1. The following committees be separately authorized to examine the subject matter of the following elements contained in Bill C-30 in advance of it coming before the Senate:
+
+&lt;p&gt;&lt;/p&gt;(a) the &lt;a href="https://sencanada.ca/en/committees/appa/studiesandbills/43-2"&gt;Standing Senate Committee on Aboriginal Peoples&lt;/a&gt;: those elements contained in Divisions 10 and 31 of Part 4;
+
+&lt;p&gt;&lt;/p&gt;(b) the &lt;a href="https://sencanada.ca/en/committees/banc/studiesandbills/43-2"&gt;Standing Senate Committee on Banking, Trade and Commerce&lt;/a&gt;: those elements contained in Divisions 1, 2, 3, 4, 5, 7, 8 and 9 of Part 4;
+
+&lt;p&gt;&lt;/p&gt;(c) the &lt;a href="https://sencanada.ca/en/committees/aefa/studiesandbills/43-2"&gt;Standing Senate Committee on Foreign Affairs and International Trade&lt;/a&gt;: those elements contained in Divisions 6 and 20 of Part 4;
+
+&lt;p&gt;&lt;/p&gt;(d) the &lt;a href="https://sencanada.ca/en/committees/lcjc/studiesandbills/43-2"&gt;Standing Senate Committe on Legal and Constitutional Affairs&lt;/a&gt;: those elements contained in Divisions 26, 27 and 37 of Part 4; and 
+
+&lt;p&gt;&lt;/p&gt;(e) the &lt;a href="https://sencanada.ca/en/committees/soci/studiesandbills/43-2"&gt;Standing Senate Committe on Social Affairs, Science and Technology&lt;/a&gt;: those elements contained in Divisions 21, 22, 23, 24, 28, 29, 32, 33, 34, 35 and 36 of Part 4;
+
+&lt;p&gt;&lt;/p&gt;2. That each of the committees listed in point one that are authorized to examine the subject matter of particular elements of Bill C-30 submit its final report to the Senate no later than June 7, 2021;
+
+&lt;p&gt;&lt;/p&gt;3. That, subject to point four, as the reports from the various committees authorized to examine the subject matter of particular elements of Bill C-30 are tabled in the Senate, they be placed on the Orders of the Day for consideration at the next sitting; 
+
+&lt;p&gt;&lt;/p&gt;4. That each of the committees authorized to examine the subject matter of particular elements of Bill C-30 be authorized to deposit its report with the Clerk of the Senate if the Senate is not then sitting, with the reports thus deposited being placed on the Orders of the Day for consideration at the next sitting following the one on which the depositing is recorded in the Journals of the Senate; and
+
+&lt;p&gt;&lt;/p&gt;5. That the Standing Senate Committee on National Finance be simultaneously authorized to take any reports tabled under points three or four into consideration during its study of the subject matter of all of Bill C-30.
+&lt;/div&gt;</NotesEn>
+    <NotesFr>&lt;div&gt;Le Sénat a adopté la motion suivante le 4 mai 2021 : &lt;p&gt;&lt;/p&gt;Que, conformément à l'article 10-11(1) du Règlement, le &lt;a href="https://sencanada.ca/fr/comites/nffn/etudesetprojetsdeloi/43-2"&gt;Comité sénatorial permanent des finances nationales&lt;/a&gt; soit autorisé à étudier la teneur complète du projet de loi C-30, Loi portant exécution de certaines dispositions du budget déposé au Parlement le 19 avril 2021 et mettant en œuvre d'autres mesures, déposé à la Chambre des communes le 30 avril 2021, avant que ce projet de loi soit soumis au Sénat;
+
+&lt;p&gt;&lt;/p&gt;Que le Comité sénatorial permanent des finances nationales soit autorisé à se réunir pour les fins de son examen de la teneur du projet de loi C-30, même si le Sénat siège à ce moment-là, l'application de l'article 12-18(1) du Règlement étant suspendue à cet égard;
+
+&lt;p&gt;&lt;/p&gt;Que, sous réserve de la capacité disponible, le Comité sénatorial permanent des finances nationales soit autorisé, pour les fins de son examen de la teneur du projet de loi C-30, à se réunir à l'extérieur des créneaux horaires qui lui ont été assignés au cours des périodes durant lesquelles il est autorisé à se réunir;
+
+&lt;p&gt;&lt;/p&gt;Que, de plus, et nonobstant toute pratique habituelle :
+
+&lt;p&gt;&lt;/p&gt;1. Les comités suivants soient individuellement autorisés à examiner la teneur des éléments suivants du projet de loi C-30 avant qu'il soit présenté au Sénat :
+
+&lt;p&gt;&lt;/p&gt;a) le &lt;a href="https://sencanada.ca/fr/comites/appa/etudesetprojetsdeloi/43-2"&gt;Comité sénatorial permanent des peuples autochtones&lt;/a&gt; : les éléments des sections 10 et 31 de la partie 4;
+
+&lt;p&gt;&lt;/p&gt;b) le &lt;a href="https://sencanada.ca/fr/comites/banc/etudesetprojetsdeloi/43-2"&gt;Comité sénatorial permanent des banques et du commerce&lt;/a&gt; : les éléments des sections 1, 2, 3, 4, 5, 7, 8 et 9 de la partie 4;
+
+&lt;p&gt;&lt;/p&gt;c) le &lt;a href="https://sencanada.ca/fr/comites/lcjc/etudesetprojetsdeloi/43-2"&gt;Comité sénatorial permanent des affaires étrangères et du commerce international&lt;/a&gt; : les éléments des sections 6 et 20 de la partie 4;
+
+&lt;p&gt;&lt;/p&gt;d) le &lt;a href="https://sencanada.ca/fr/comites/lcjc/etudesetprojetsdeloi/43-2"&gt;Comité sénatorial permanent des affaires juridiques et constitutionnelles&lt;/a&gt; : les éléments des sections 26, 27 et 37 de la partie 4;
+
+&lt;p&gt;&lt;/p&gt;e) le&lt;a href="https://sencanada.ca/fr/comites/soci/etudesetprojetsdeloi/43-2"&gt;Comité sénatorial permanent des affaires sociales, des sciences et de la technologie&lt;/a&gt; : les éléments des sections 21, 22, 23, 24, 28, 29, 32, 33, 34, 35 et 36 de la partie 4;
+
+&lt;p&gt;&lt;/p&gt;2. Que chacun des comités indiqués au point numéro un qui sont autorisés à examiner la teneur de certains éléments du projet de loi C-30 soumette son rapport final au Sénat au plus tard le 7 juin 2021;
+
+&lt;p&gt;&lt;/p&gt;3. Que, sous réserve du point quatre, au fur et à mesure que les rapports des comités autorisés à examiner la teneur de certains éléments du projet de loi C-30 sont déposés au Sénat, ils soient inscrits à l'ordre du jour pour étude à la prochaine séance;
+
+&lt;p&gt;&lt;/p&gt;4. Que chacun des comités autorisés à examiner la teneur d'éléments particuliers du projet de loi C-30 soit autorisé à déposer son rapport auprès du greffier du Sénat si le Sénat ne siège pas à ce moment-là, tout rapport ainsi déposé étant inscrit à l'ordre du jour de la séance qui suit celle où le dépôt est consigné aux Journaux du Sénat;
+
+&lt;p&gt;&lt;/p&gt;5. Que le Comité sénatorial permanent des finances nationales soit simultanément autorisé à prendre en considération les rapports déposés conformément aux points numéros trois et quatre au cours de son examen de la teneur complète du projet de loi C-30.
+&lt;/div&gt;</NotesFr>
+    <Notes>&lt;div&gt;The Senate adopted the following motion on May 4, 2021:&lt;p&gt;&lt;/p&gt;That, in accordance with rule 10-11(1), the &lt;a href="https://sencanada.ca/en/committees/nffn/studiesandbills/43-2"&gt;Standing Senate Committee on National Finance&lt;/a&gt; be authorized to examine the subject matter of all of Bill C-30, An Act to implement certain provisions of the budget tabled in Parliament on April 19, 2021 and other measures, introduced in the House of Commons on April 30, 2021, in advance of the said bill coming before the Senate;
+
+&lt;p&gt;&lt;/p&gt;That the Standing Senate Committee on National Finance be authorized to meet for the purposes of its study of the subject matter of Bill C-30, even though the Senate may then be sitting, with the application of rule 12-18(1) being suspended in relation thereto; 
+
+&lt;p&gt;&lt;/p&gt;That, subject to available capacity, the Standing Senate Committee on National Finance be authorized, for the purposes of its study of the subject matter of Bill C-30, to meet outside its assigned time slots during periods that it is authorized to sit; and&lt;p&gt;&lt;/p&gt;
+
+That, in addition, and notwithstanding any normal practice:
+
+&lt;p&gt;&lt;/p&gt;1. The following committees be separately authorized to examine the subject matter of the following elements contained in Bill C-30 in advance of it coming before the Senate:
+
+&lt;p&gt;&lt;/p&gt;(a) the &lt;a href="https://sencanada.ca/en/committees/appa/studiesandbills/43-2"&gt;Standing Senate Committee on Aboriginal Peoples&lt;/a&gt;: those elements contained in Divisions 10 and 31 of Part 4;
+
+&lt;p&gt;&lt;/p&gt;(b) the &lt;a href="https://sencanada.ca/en/committees/banc/studiesandbills/43-2"&gt;Standing Senate Committee on Banking, Trade and Commerce&lt;/a&gt;: those elements contained in Divisions 1, 2, 3, 4, 5, 7, 8 and 9 of Part 4;
+
+&lt;p&gt;&lt;/p&gt;(c) the &lt;a href="https://sencanada.ca/en/committees/aefa/studiesandbills/43-2"&gt;Standing Senate Committee on Foreign Affairs and International Trade&lt;/a&gt;: those elements contained in Divisions 6 and 20 of Part 4;
+
+&lt;p&gt;&lt;/p&gt;(d) the &lt;a href="https://sencanada.ca/en/committees/lcjc/studiesandbills/43-2"&gt;Standing Senate Committe on Legal and Constitutional Affairs&lt;/a&gt;: those elements contained in Divisions 26, 27 and 37 of Part 4; and 
+
+&lt;p&gt;&lt;/p&gt;(e) the &lt;a href="https://sencanada.ca/en/committees/soci/studiesandbills/43-2"&gt;Standing Senate Committe on Social Affairs, Science and Technology&lt;/a&gt;: those elements contained in Divisions 21, 22, 23, 24, 28, 29, 32, 33, 34, 35 and 36 of Part 4;
+
+&lt;p&gt;&lt;/p&gt;2. That each of the committees listed in point one that are authorized to examine the subject matter of particular elements of Bill C-30 submit its final report to the Senate no later than June 7, 2021;
+
+&lt;p&gt;&lt;/p&gt;3. That, subject to point four, as the reports from the various committees authorized to examine the subject matter of particular elements of Bill C-30 are tabled in the Senate, they be placed on the Orders of the Day for consideration at the next sitting; 
+
+&lt;p&gt;&lt;/p&gt;4. That each of the committees authorized to examine the subject matter of particular elements of Bill C-30 be authorized to deposit its report with the Clerk of the Senate if the Senate is not then sitting, with the reports thus deposited being placed on the Orders of the Day for consideration at the next sitting following the one on which the depositing is recorded in the Journals of the Senate; and
+
+&lt;p&gt;&lt;/p&gt;5. That the Standing Senate Committee on National Finance be simultaneously authorized to take any reports tabled under points three or four into consideration during its study of the subject matter of all of Bill C-30.
+&lt;/div&gt;</Notes>
+    <ShortLegislativeSummaryEn>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information and Research Service of the Library of Parliament. Meanwhile, the following executive summary is available.&lt;br/&gt;&lt;br/&gt;On 30 April 2021, the Deputy Prime Minister and Minister of Finance introduced Bill C-30, An Act to implement certain provisions of the budget tabled in Parliament on April 19, 2021 and other measures (Budget Implementation Act, 2021, No. 1), in the House of Commons and it was given first reading.    &lt;br/&gt;&lt;br/&gt;Bill C-30 Part 1 implements certain income tax measures by&lt;br/&gt;(a) providing relieving measures in connection with COVID-19 in respect of the use by an employee of an employer-provided automobile for the 2020 and 2021 taxation years;&lt;br/&gt;(b) limiting the benefit of the employee stock option deduction for employees of certain employers;&lt;br/&gt;(c) providing an adjustment for payments or repayments of government assistance in determining capital cost allowance for certain zero-emission vehicles;&lt;br/&gt;(d) expanding the scope of the foreign affiliate dumping rules to further their objectives;&lt;br/&gt;(e) providing change in use rules for multi-unit residential properties;&lt;br/&gt;(f) establishing rules for advanced life deferred annuities;&lt;br/&gt;(g) providing for an option to deduct repaid emergency benefit amounts in the year of benefit receipt and clarifying the tax treatment of non-resident beneficiaries;&lt;br/&gt;(h) removing the time limitation for a registered disability savings plan to remain registered after the cessation of a beneficiary's eligibility for the disability tax credit and modifying grant and bond repayment obligations;&lt;br/&gt;(i) increasing the basic personal amount for certain taxpayers;&lt;br/&gt;(j) providing a temporary special reading of certain rules relating to the child care expense deduction and the disability supports deduction for the 2020 and 2021 taxation years;&lt;br/&gt;(k) providing flow-through share issuers with temporary additional time to incur eligible expenses to be renounced to investors under their flow-through share agreements;&lt;br/&gt;(l) applying the short taxation year rule to the accelerated investment incentive for resource expenditures;&lt;br/&gt;(m) introducing the Canada Recovery Hiring Program refundable tax credit to support the post-pandemic recovery;&lt;br/&gt;(n) amending the employee life and health trust rules to allow for the conversion of health and welfare trusts to employee life and health trusts;&lt;br/&gt;(o) expanding access to the Canada Workers Benefit by revising the applicable eligibility thresholds for the 2021 and subsequent taxation years;&lt;br/&gt;(p) amending the income tax measures providing support for Canadian journalism;&lt;br/&gt;(q) clarifying the definition of shared-custody parent for the purposes of the Canada Child Benefit;&lt;br/&gt;(r) revising the eligibility criteria, as well as the level of subsidization, under the Canada Emergency Wage Subsidy (CEWS) and Canada Emergency Rent Subsidy (CERS), extending the CEWS and the CERS until September 25, 2021, providing authority to enable the extension of these subsidies until November 30, 2021, and ensuring that the level of CEWS benefits for furloughed employees continues to align with the benefits provided through the Employment Insurance Act until August 28, 2021;&lt;br/&gt;(s) preventing the use by mutual fund trusts of a method of allocating capital gains or income to their redeeming unitholders where the use of that method inappropriately defers tax or converts ordinary income into capital gains;&lt;br/&gt;(t) extending the income tax deferral available for certain patronage dividends paid in shares by an agricultural cooperative corporation to payments made before 2026;&lt;br/&gt;(u) limiting transfers of pensionable service into individual pension plans;&lt;br/&gt;(v) establishing rules for variable payment life annuities;&lt;br/&gt;(w) preventing listed terrorist entities under the Criminal Code from qualifying as registered charities and providing for the suspension or revocation of a charity's registration where it makes false statements for the purpose of maintaining registration;&lt;br/&gt;(x) ensuring the appropriate interaction of transfer pricing rules and other rules in the Income Tax Act;&lt;br/&gt;(y) preventing non-resident taxpayers from avoiding Canadian dividend withholding tax on compensation payments made under cross-border securities lending arrangements with respect to Canadian shares;&lt;br/&gt;(z) allowing for the electronic delivery of requirements for information to banks and credit unions;&lt;br/&gt;(aa) improving existing rules meant to prevent taxpayers from using derivative transactions to convert ordinary income into capital gains;&lt;br/&gt;(bb) extending to a wider array of eligible automotive equipment and vehicles the 100% capital cost allowance write-off for business investments in certain zero-emission vehicles;&lt;br/&gt;(cc) ensuring that the accelerated investment incentive for depreciable property applies properly in particular circumstances; and&lt;br/&gt;(dd) providing rules for contributions to a specified multi-employer plan for older members.&lt;br/&gt;It also makes related and consequential amendments to the Excise Tax Act, the Air Travellers Security Charge Act, the Excise Act, 2001, the Greenhouse Gas Pollution Pricing Act, the Income Tax Regulations and the Canada Disability Savings Regulations.&lt;br/&gt;Part 2 implements certain Goods and Services Tax/Harmonized Sales Tax (GST/HST) measures by&lt;br/&gt;(a) temporarily relieving supplies of certain face masks and face shields from the GST/HST;&lt;br/&gt;(b) ensuring that non-resident vendors supplying digital products or services (including traditional services) to consumers in Canada be required to register for the GST/HST and to collect and remit the tax on their taxable supplies to consumers in Canada;&lt;br/&gt;(c) requiring distribution platform operators and non-resident vendors to register under the normal GST/HST rules and to collect and remit the GST/HST in respect of certain supplies of goods shipped from a fulfillment warehouse or another place in Canada;&lt;br/&gt;(d) applying the GST/HST on all supplies of short-term accommodation in Canada facilitated through a digital platform;&lt;br/&gt;(e) expanding the eligibility for the GST rebate for new housing;&lt;br/&gt;(f) expanding the definition of freight transportation service for the purposes of the GST/HST;&lt;br/&gt;(g) extending the application of the drop-shipment rules for the purposes of the GST/HST;&lt;br/&gt;(h) treating virtual currency as a financial instrument for the purposes of the GST/HST; and&lt;br/&gt;(i) clarifying the GST/HST holding corporation rules and expanding those rules to holding partnerships and trusts.&lt;br/&gt;It also makes related and consequential amendments to the New Harmonized Value-added Tax System Regulations, No. 2.&lt;br/&gt;Part 3 implements certain excise measures by increasing excise duty rates on tobacco products by $4.00 per carton of 200 cigarettes along with corresponding increases to the excise duty rates on other tobacco products.&lt;br/&gt;Part 4 enacts an Act and amends several Acts in order to implement various measures.&lt;br/&gt;Division 1 of Part 4 amends the Canada Deposit Insurance Corporation Act to, among other things,&lt;br/&gt;(a) specify the steps that an assessor must follow when they review a determination of the Canada Deposit Insurance Corporation with respect to the payment of compensation to certain persons;&lt;br/&gt;(b) clarify that the determination of whether or not persons are entitled to compensation is to be made in accordance with the regulations;&lt;br/&gt;(c) prevent a person from taking certain actions in relation to certain agreements between the person and a federal member institution by reason only of a monetary default by that institution in the performance of obligations under those agreements if the default occurs in the period between the making of an order directing the conversion of that institution's shares or liabilities and the occurrence of the conversion;&lt;br/&gt;(d) require certain federal member institutions to ensure that certain provisions of that Act — or provisions that have substantially the same effect as those provisions — apply to certain eligible financial contracts, including those contracts that are subject to the laws of a foreign state;&lt;br/&gt;(e) exempt eligible financial contracts between a federal member institution and certain entities, including Her Majesty in right of Canada, from a provision of that Act that prevents certain actions from being taken in relation to those contracts; and&lt;br/&gt;(f) extend periods applicable to certain restructuring transactions for financial institutions.&lt;br/&gt;It also amends the Payment Clearing and Settlement Act to&lt;br/&gt;(a) specify the steps that an assessor must follow when they review a determination of the Bank of Canada with respect to the payment of compensation to certain persons or entities; and&lt;br/&gt;(b) clarify that systems or arrangements for the exchange of payment messages for the purpose of clearing or settlement of payment obligations may be overseen by the Bank of Canada as clearing and settlement systems.&lt;br/&gt;Finally, it amends not-in-force provisions of the Canada Deposit Insurance Corporation Act, enacted by the Budget Implementation Act, 2018, No. 1, so that, under certain circumstances, an error or omission that results in a failure to meet a requirement of the schedule to the Canada Deposit Insurance Corporation Act will not prevent a deposit from being considered a separate deposit.&lt;br/&gt;Division 2 of Part 4 amends the Bank of Canada Act to authorize the Bank of Canada to publish certain information about unclaimed amounts.&lt;br/&gt;It also amends the Pension Benefits Standards Act, 1985 with respect to the transfer of pension plan assets relating to the pension benefit credit of any person who cannot be located to, among other things,&lt;br/&gt;(a) limit the circumstances in which such assets may be transferred and specify conditions for the transfer; and&lt;br/&gt;(b) specify the effects of a transfer on any claims that may be made in respect of those assets.&lt;br/&gt;Finally, it amends the Trust and Loan Companies Act and the Bank Act to&lt;br/&gt;(a) include amounts that are not in Canadian currency in the unclaimed amounts regime; and&lt;br/&gt;(b) impose additional requirements on financial institutions in connection with their transfers of unclaimed amounts to the Bank of Canada and communications with the owners of those amounts.&lt;br/&gt;Division 3 of Part 4 amends the Budget Implementation Act, 2018, No. 2 to exclude certain businesses from the application of a provision of the Bank Act that it enacts, which allows certain agreements that have been entered into with banks to be cancelled.&lt;br/&gt;Division 4 of Part 4 amends the Trust and Loan Companies Act, the Bank Act and the Insurance Companies Act to extend the period during which federal financial institutions governed by those Acts may carry on business to June 30, 2025.&lt;br/&gt;Division 5 of Part 4 amends the Canadian Securities Regulation Regime Transition Office Act to increase the maximum amount of direct payments that the Minister of Finance may make to the Canadian Securities Regulation Regime Transition Office.&lt;br/&gt;Division 6 of Part 4 amends the Justice for Victims of Corrupt Foreign Officials Act (Sergei Magnitsky Law) to&lt;br/&gt;(a) provide that the entities referred to in that Act are no longer required to disclose to the principal agency or body that supervises or regulates them the fact that they do not have in their possession or control any property of a foreign national who is the subject of an order or regulation made under that Act; and&lt;br/&gt;(b) change the frequency with which those entities are required to disclose to the principal agency or body that supervises or regulates them the fact that they have such property in their possession or control from once a month to once every three months.&lt;br/&gt;Division 7 of Part 4 amends the Proceeds of Crime (Money Laundering) and Terrorist Financing Act to&lt;br/&gt;(a) extend the application of Part 1 of that Act to include persons and entities engaged in the business of transporting currency or certain other financial instruments;&lt;br/&gt;(b) provide that the Financial Transactions and Reports Analysis Centre make assessments to be paid by persons or entities to which Part 1 applies, based on the amount of certain expenses incurred by the Centre, and to authorize the Governor in Council to make regulations respecting those assessments;&lt;br/&gt;(c) amend the definitions of designated information to include certain information associated with virtual currency transactions and widely held or publicly traded trusts that the Centre can disclose to law enforcement or other governmental bodies;&lt;br/&gt;(d) change the maximum penalties for summary conviction offences;&lt;br/&gt;(e) expand the list of persons or entities that are not eligible for registration with the Centre; and&lt;br/&gt;(f) make other technical amendments.&lt;br/&gt;Division 8 of Part 4 enacts the Retail Payment Activities Act, which establishes an oversight framework for retail payment activities. Among other things, that Act requires certain payment service providers to identify and mitigate operational risks, safeguard end-user funds and register with the Bank of Canada. That Act also provides the Minister of Finance with powers to address risks related to national security that could be posed by payment service providers. This Division also makes related amendments to the Canada Deposit Insurance Corporation Act, the Proceeds of Crime (Money Laundering) and Terrorist Financing Act, the Financial Consumer Agency of Canada Act and the Payment Card Networks Act.&lt;br/&gt;Division 9 of Part 4 amends the Pension Benefits Standards Act, 1985 to establish new requirements and grant new regulation-making powers to the Governor in Council with respect to negotiated contribution plans.&lt;br/&gt;Division 10 of Part 4 amends the First Nations Fiscal Management Act to allow First Nations that are borrowing members of the First Nations Finance Authority to assign their rights to certain revenues payable by Her Majesty in right of Canada, for the purpose of securing financing for that Authority's borrowing members.&lt;br/&gt;Division 11 of Part 4 amends the Federal-Provincial Fiscal Arrangements Act to, among other things, increase the maximum amount of a fiscal stabilization payment that may be made to a province and to make technical changes to the calculation of fiscal stabilization payments.&lt;br/&gt;Division 12 of Part 4 amends the Federal-Provincial Fiscal Arrangements Act to authorize additional payments to the provinces and territories.&lt;br/&gt;Division 13 of Part 4 authorizes payments to be made out of the Consolidated Revenue Fund in relation to Canada's COVID-19 immunization plan.&lt;br/&gt;Division 14 of Part 4 authorizes payments to be made out of the Consolidated Revenue Fund in relation to infrastructure and amends the heading of Part 9 of the Keeping Canada's Economy and Jobs Growing Act.&lt;br/&gt;Division 15 of Part 4 authorizes amounts to be paid out of the Consolidated Revenue Fund, to a maximum total amount of $3,056,491,000, for annual payments to Newfoundland and Labrador in accordance with the terms and conditions of the Hibernia Dividend Backed Annuity Agreement.&lt;br/&gt;Division 16 of Part 4 amends the Nova Scotia and Newfoundland and Labrador Additional Fiscal Equalization Offset Payments Act to authorize the Minister of Finance to make an additional fiscal equalization offset payment to Nova Scotia for the 2020–2021 fiscal year and to extend that Minister's authority to make additional fiscal equalization offset payments to Nova Scotia until March 31, 2023.&lt;br/&gt;Division 17 of Part 4 amends the Telecommunications Act to provide that decisions made by the Canadian Radio-television and Telecommunications Commission on whether or not to allocate funding to expand access to telecommunications services in underserved areas are not subject to review under section 12 or 62 of that Act but are subject to review by the Commission on its own initiative. It also amends that Act to provide for the exchange of information within the federal government and with provincial governments for the purpose of coordinating financial support for access to telecommunications services in underserved areas.&lt;br/&gt;Division 18 of Part 4 amends the Canada Small Business Financing Act to, among other things,&lt;br/&gt;(a) specify that lines of credit are loans;&lt;br/&gt;(b) set a limit on the liability of the Minister of Small Business and Tourism in respect of each lender for lines of credit;&lt;br/&gt;(c) remove the restriction excluding not-for-profit businesses, charitable businesses and businesses having as their principal object the furtherance of a religious purpose as eligible borrowers;&lt;br/&gt;(d) increase the maximum amount of all loans that may be made in relation to a borrower under that Act; and&lt;br/&gt;(e) provide that lesser maximum loan amounts may be prescribed by regulation for loans other than lines of credit, lines of credit and prescribed classes of loans.&lt;br/&gt;Division 19 of Part 4 amends the Customs Act to change certain rules respecting the correction of declarations made under section 32.2 of that Act, the payment of interest due to Her Majesty and securities required under that Act, and to define the expression "sold for export to Canada" for the purposes of Part III of that Act.&lt;br/&gt;Division 20 of Part 4 amends the Canada–United States–Mexico Agreement Implementation Act to require the concurrence of the Minister of Finance when the Minister designated for the purposes of section 16 of that Act appoints panellists and committee members and proposes the names of individuals for rosters under Chapter 10 of the Canada–United States–Mexico Agreement.&lt;br/&gt;Division 21 of Part 4 amends Part 5 of the Department of Employment and Social Development Act to make certain reforms to the Social Security Tribunal, including&lt;br/&gt;(a) changing the criteria for granting leave to appeal and introducing a de novo model for appeals of decisions of the Income Security Section at the Appeal Division;&lt;br/&gt;(b) giving the Governor in Council the authority to prescribe the circumstances in which hearings may be held in private; and&lt;br/&gt;(c) giving the Chairperson of the Social Security Tribunal the authority to make rules of procedure governing appeals.&lt;br/&gt;Division 22 of Part 4 amends the definition of "previous contractor" in Part I of the Canada Labour Code in order to extend equal remuneration protection to employees who are covered by a collective agreement and who work for an employer that&lt;br/&gt;(a) provides services at an airport to another employer in the air transportation industry; or&lt;br/&gt;(b) provides services to another employer in another industry and at other locations that may be prescribed by regulation.&lt;br/&gt;Division 23 of Part 4 amends Part III of the Canada Labour Code to establish a federal minimum wage of $15 per hour and to provide that if the minimum wage of a province or territory is higher than the federal minimum wage, the employer is to pay a minimum wage that is not less than that higher minimum wage. It also provides that, except in certain circumstances, the federal minimum wage per hour is to be adjusted upwards annually on the basis of the Consumer Price Index for Canada.&lt;br/&gt;Division 24 of Part 4 amends the provisions of the Canada Labour Code respecting leave related to the death or disappearance of a child in cases in which it is probable that the child died or disappeared as a result of a crime, in order to, among other things,&lt;br/&gt;(a) increase the maximum length of leave for a parent of a child who has disappeared from 52 weeks to 104 weeks;&lt;br/&gt;(b) extend eligibility to parents of children who are 18 years of age or older but under 25 years of age; and&lt;br/&gt;(c) limit the exception that applies in the case of a parent of a child who has died as a result of a crime if it is probable that the child was a party to the crime so that the exception applies only with respect to a child who is 14 years of age or older.&lt;br/&gt;Division 25 of Part 4 authorizes the Minister of Employment and Social Development to make a one-time payment to Quebec for the purpose of offsetting some of the costs of aligning the Quebec Parental Insurance Plan with temporary measures set out in Part VIII.5 of the Employment Insurance Act.&lt;br/&gt;Division 26 of Part 4 amends the Judges Act to provide that, if the Canadian Judicial Council recommends that a judge be removed from judicial office, the time counted towards the judge's pension entitlements will be frozen and their pension contributions will be suspended, as of the day on which the recommendation is made. If the recommendation is rejected, the judge's pension contributions will resume, the time counted towards their pension entitlement will include the suspension period and the judge will be required to make all the contributions that would have been required had the contributions never been suspended.&lt;br/&gt;Division 27 of Part 4 amends the Federal Courts Act and the Tax Court of Canada Act to increase the number of judges for the Federal Court of Appeal by one and the number of judges for the Tax Court of Canada by two. It also amends the Judges Act to authorize the salary for the new Associate Chief Justice for the Trial Division of the Supreme Court of Newfoundland and Labrador and the salaries for the following new judges: five judges for the Ontario Superior Court of Justice, two judges for the Supreme Court of British Columbia and two judges for the Court of Queen's Bench for Saskatchewan.&lt;br/&gt;Division 28 of Part 4 amends the National Research Council Act to provide the National Research Council of Canada with the authority to engage in the production of "drugs" or "devices", as those terms are defined in the Food and Drugs Act, for the purpose of protecting or improving public health. It also amends that Act to provide authority for the incorporation of corporations and the acquisition of shares in corporations.&lt;br/&gt;Division 29 of Part 4 amends the Department of Employment and Social Development Act in relation to the collection and use of Social Insurance Numbers by the Minister of Labour.&lt;br/&gt;Division 30 of Part 4 amends the Canada Student Loans Act to provide that, during the period that begins on April 1, 2021 and ends on March 31, 2023, no interest is payable by a borrower on a guaranteed student loan.&lt;br/&gt;It also amends the Canada Student Financial Assistance Act to provide that, during the period that begins on April 1, 2021 and ends on March 31, 2023, no interest is payable by a borrower on a student loan.&lt;br/&gt;Finally, it amends the Apprentice Loans Act to provide that, during the period that begins on April 1, 2021 and ends on March 31, 2023, no interest is payable by a borrower on an apprentice loan.&lt;br/&gt;Division 31 of Part 4 confirms the validity of certain regulations in relation to the cancellation or postponement of certain First Nations elections.&lt;br/&gt;Division 32 of Part 4 amends the Old Age Security Act to increase the Old Age Security pension payable to individuals aged 75 and over by 10%. It also provides that any amount payable in relation to a program to provide a one-time payment of $500 to pensioners who are 75 years of age or older may be paid out of the Consolidated Revenue Fund.&lt;br/&gt;Division 33 of Part 4 amends the Public Service Employment Act to, among other things,&lt;br/&gt;(a) require that the establishment and review of qualification standards and the use of assessment methods in respect of appointments include an evaluation of whether there are biases or barriers that disadvantage persons belonging to any equity-seeking group;&lt;br/&gt;(b) provide that audits and investigations may include the determination of whether there are biases or barriers that disadvantage persons belonging to any equity-seeking group; and&lt;br/&gt;(c) give permanent residents the same preference as Canadian citizens in external advertised appointment processes.&lt;br/&gt;Division 34 of Part 4 authorizes the making of payments to the provinces for early learning and child care for the fiscal year beginning on April 1, 2021.&lt;br/&gt;Division 35 of Part 4 amends the Canada Recovery Benefits Act to, among other things,&lt;br/&gt;(a) provide that the maximum number of two-week periods in respect of which a Canada recovery benefit is payable is 25;&lt;br/&gt;(b) reduce the amount of a Canada recovery benefit for a week to $300 in certain circumstances;&lt;br/&gt;(c) provide that certain persons who were paid benefits under the Employment Insurance Act are eligible to be paid a Canada recovery benefit in certain circumstances;&lt;br/&gt;(d) provide that the maximum number of weeks in respect of which a Canada recovery caregiving benefit is payable is 42; and&lt;br/&gt;(e) provide that the Governor in Council may, by regulation, on the recommendation of the Minister of Employment and Social Development and the Minister of Finance, amend certain provisions of that Act to replace the date of September 25, 2021 by a date not later than November 20, 2021.&lt;br/&gt;It also amends the Canada Labour Code to provide that the maximum number of weeks of leave for COVID-19 related caregiving responsibilities is 42.&lt;br/&gt;Finally, it repeals provisions of the Canada Recovery Benefits Regulations and the Canada Labour Standards Regulations.&lt;br/&gt;Division 36 of Part 4 amends the Employment Insurance Act to, among other things,&lt;br/&gt;(a) facilitate access to unemployment benefits for a period of one year by&lt;br/&gt;(i) reducing the number of hours of insurable employment required to qualify for unemployment benefits to a national threshold of 420 hours,&lt;br/&gt;(ii) reducing the amount of earnings from self-employment that a self-employed person is required to have to be eligible to access special unemployment benefits,&lt;br/&gt;(iii) providing that only a claimant's most recent separation from employment will be considered in determining whether they qualify for unemployment benefits,&lt;br/&gt;(iv) ensuring that earnings paid to a person because of the complete severance of their relationship with their former employer do not extend the person's benefit period, and&lt;br/&gt;(v) providing for an increase in the maximum number of weeks for which regular unemployment benefits may be paid to a seasonal worker if certain conditions are met; and&lt;br/&gt;(b) extend the maximum number of weeks for which benefits may be paid because of a prescribed illness, injury or quarantine from 15 to 26.&lt;br/&gt;It also amends the Canada Labour Code to, among other things, extend to 27 the maximum number of weeks to which an employee is entitled for a medical leave of absence from employment.&lt;br/&gt;It also amends the Employment Insurance Regulations to, among other things, ensure that, for a period of one year, earnings paid to a person because of the complete severance of their relationship with their former employer do not extend the person's benefit period or delay payment of benefits to the person.&lt;br/&gt;Finally, it amends the Employment Insurance (Fishing) Regulations to, among other things, reduce, for a period of one year, the amount of earnings that a fisher is required to have to qualify for unemployment benefits.&lt;br/&gt;Division 37 of Part 4 amends the Canada Elections Act to provide that the offences related to the prohibition on making or publishing certain false statements with the intention of affecting the results of an election require that the person or the entity making or publishing the statement knows that the statement in question is false.&lt;/div&gt;</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>&lt;div&gt;Le Service d'information et de recherche parlementaires de la Bibliothèque du Parlement rédige actuellement le résumé législatif de ce projet de loi. Entre-temps, le Service met à votre disposition le sommaire suivant.  &lt;br/&gt;&lt;br/&gt;Le 30 avril 2021, le Vice-première ministre et ministre des Finances a déposé le projet de loi C-30, Loi portant exécution de certaines dispositions du budget déposé au Parlement le 19 avril 2021 et mettant en œuvre d'autres mesures (Loi no 1 d'exécution du budget de 2021) à la Chambre des communes en première lecture.   &lt;br/&gt;&lt;br/&gt;Le projet de loi C-30 La partie 1 met en œuvre certaines mesures relatives à l'impôt sur le revenu pour?:&lt;br/&gt;a) accorder des mesures d'allègement liées à la COVID-19 relativement à l'utilisation d'une automobile qu'un employeur fournit à un employé pour les années d'imposition 2020 et 2021;&lt;br/&gt;b) limiter l'avantage relatif à la déduction pour options d'achat d'actions d'employés relativement aux employés de certains employeurs;&lt;br/&gt;c) accorder un ajustement aux fins de l'allocation du coût en capital à l'égard de certains véhicules zéro émission relativement à l'obtention ou au remboursement d'aide gouvernementale;&lt;br/&gt;d) élargir le champ d'application des règles visant les opérations de transferts de sociétés étrangères affiliées afin de promouvoir leurs objectifs;&lt;br/&gt;e) prévoir des règles relatives au changement d'usage pour les immeubles résidentiels à logements multiples;&lt;br/&gt;f) établir des règles applicables aux rentes viagères différées à un âge avancé;&lt;br/&gt;g) permettre que des montants remboursés de subventions d'urgence puissent faire l'objet d'une déduction dans l'année de réception de la subvention et clarifier le traitement fiscal des bénéficiaires non-résidents;&lt;br/&gt;h) supprimer la limite de temps pour qu'un régime enregistré d'épargne invalidité demeure enregistré après la cessation de l'admissibilité du bénéficiaire au crédit d'impôt pour personnes handicapées et modifier les obligations de remboursement de la subvention et du bon;&lt;br/&gt;i) augmenter le montant personnel de base pour certains contribuables;&lt;br/&gt;j) prévoir temporairement une interprétation particulière de certaines règles relatives à la déduction au titre de certains frais de garde d'enfants et à la déduction pour les dépenses en lien avec des mesures de soutien aux personnes handicapées, pour les années d'imposition 2020 et 2021;&lt;br/&gt;k) accorder plus de temps sur une base temporaire aux émetteurs d'actions accréditives pour engager des dépenses admissibles auxquelles ils peuvent renoncer en faveur des investisseurs en vertu de leurs conventions d'émission d'actions accréditives;&lt;br/&gt;l) prévoir l'application de la règle sur l'année d'imposition courte pour l'incitatif à l'investissement accéléré pour les dépenses liées aux ressources;&lt;br/&gt;m) instaurer le crédit d'impôt remboursable du Programme d'embauche pour la relance économique du Canada afin de favoriser la relance économique suite à la pandémie;&lt;br/&gt;n) modifier les règles sur les fiducies de soins de santé au bénéfice d'employés afin de permettre la conversion des fiducies de santé et de bien-être en fiducies de soins de santé au bénéfice d'employés;&lt;br/&gt;o) accroître l'accès à l'Allocation canadienne pour les travailleurs en révisant les seuils d'admissibilité applicables pour les années d'imposition 2021 et suivantes;&lt;br/&gt;p) modifier les mesures de l'impôt sur le revenu relatives au soutien au journalisme canadien;&lt;br/&gt;q) clarifier la définition de parent ayant la garde partagée pour les fins de l'Allocation canadienne pour enfants;&lt;br/&gt;r) réviser les critères d'admissibilité, ainsi que le niveau des subventions, de la Subvention salariale d'urgence du Canada (SSUC) et la Subvention d'urgence du Canada pour le loyer, prolonger leur application jusqu'au 25 septembre 2021, conférer le pouvoir de prolonger leur application jusqu'au 30 novembre 2021 et s'assurer que le niveau de soutien sous la SSUC destiné aux employés en congé avec solde continue de correspondre aux prestations offertes en vertu de la Loi sur l'assurance-emploi et ce jusqu'au 28 août 2021;&lt;br/&gt;s) prévenir l'utilisation par les fiducies de fonds commun de placement d'une méthode d'attribution des gains en capital ou du revenu à leurs détenteurs d'unités demandant le rachat lorsque l'utilisation de cette méthode reporte l'impôt de manière inappropriée ou convertit le revenu ordinaire en gain en capital;&lt;br/&gt;t) prolonger le report d'impôt sur le revenu disponible pour certaines ristournes payées sous forme de parts d'une coopérative agricole pour les paiements effectués avant 2026;&lt;br/&gt;u) limiter les transferts de service ouvrant droit à la pension dans des régimes de retraite individuels;&lt;br/&gt;v) établir des règles applicables aux rentes viagères à paiements variables;&lt;br/&gt;w) empêcher des entités terroristes inscrites, en vertu du Code criminel, d'être admissibles à titre d'organismes de bienfaisance enregistrés et prévoir la suspension ou la révocation de l'enregistrement d'un organisme de bienfaisance lorsque celui-ci fait de faux énoncés en vue de maintenir son enregistrement;&lt;br/&gt;x) s'assurer que l'interaction entre les règles relatives aux prix de transfert et les autres règles de la Loi de l'impôt sur le revenu soit appropriée;&lt;br/&gt;y) empêcher les contribuables non-résidents d'éviter la retenue d'impôt canadienne pour dividendes sur les paiements compensatoires effectués dans le cadre des mécanismes de prêt d'actions transfrontaliers relativement à des actions canadiennes;&lt;br/&gt;z) permettre l'envoi électronique de demandes péremptoires de renseignements aux banques et aux caisses de crédit;&lt;br/&gt;aa) améliorer les règles actuelles destinées à empêcher l'utilisation de contrats dérivés à terme pour la conversion de revenu ordinaire en gain en capital;&lt;br/&gt;bb) étendre la déduction fiscale de 100?% à un plus grand éventail de véhicules et de matériel automobile admissibles pour les investissements des entreprises à l'égard de certains véhicules zéro émission;&lt;br/&gt;cc) s'assurer que l'incitatif à l'investissement accéléré pour les biens amortissables s'applique de manière appropriée dans des circonstances particulières;&lt;br/&gt;dd) prévoir des règles relatives aux cotisations à un régime interentreprises déterminé pour les participants plus âgés.&lt;br/&gt;Elle apporte également des modifications connexes et corrélatives à la Loi sur la taxe d'accise, la Loi sur le droit pour la sécurité des passagers du transport aérien, la Loi de 2001 sur l'accise, la Loi sur la tarification de la pollution causée par les gaz à effet de serre, au Règlement de l'impôt sur le revenu et au Règlement sur l'épargne-invalidité.&lt;br/&gt;La partie 2 met en œuvre certaines mesures relatives à la taxe sur les produits et services/taxe de vente harmonisée (TPS/TVH) pour?:&lt;br/&gt;a) prévoir un allègement temporaire de la TPS/TVH sur les fournitures de certains masques et écrans faciaux;&lt;br/&gt;b) s'assurer que les vendeurs non-résidents qui fournissent des produits numériques ou des services (y compris les services traditionnels) à des consommateurs au Canada soient tenus de s'inscrire pour les fins de la TPS/TVH et de percevoir et verser la taxe sur leurs fournitures à des consommateurs canadiens;&lt;br/&gt;c) exiger que les exploitants de plateforme de distribution et les vendeurs non-résidents s'inscrivent en suivant les règles habituelles pour les fins de la TPS/TVH et perçoivent et remettent la taxe à l'égard de certaines fournitures de biens expédiés à partir d'un entrepôt de distribution ou d'un autre endroit au Canada;&lt;br/&gt;d) appliquer la TPS/TVH à toute fourniture de logement provisoire au Canada facilitée par une plateforme numérique;&lt;br/&gt;e) étendre l'admissibilité au remboursement de la TPS pour les habitations neuves;&lt;br/&gt;f) étendre la définition de service de transport de marchandises pour les fins de la TPS/TVH;&lt;br/&gt;g) élargir les règles applicables aux livraisons directes pour les fins de la TPS/TVH;&lt;br/&gt;h) traiter les monnaies virtuelles comme des effets financiers pour les fins de la TPS/TVH;&lt;br/&gt;i) clarifier les règles de la TPS/TVH pour les sociétés de portefeuille et étendre l'application de ces règles aux sociétés de personnes et fiducies de portefeuille.&lt;br/&gt;Elle apporte également des modifications connexes et corrélatives au Règlement no 2 sur le nouveau régime de la taxe à valeur ajoutée harmonisée.&lt;br/&gt;La partie 3 met en œuvre certaines mesures relatives à l'accise pour augmenter les taux du droit d'accise sur les produits du tabac de 4,00?$ la cartouche de 200 cigarettes, en plus des hausses correspondantes aux taux du droit d'accise sur d'autres produits du tabac.&lt;br/&gt;La partie 4 met en œuvre diverses mesures, notamment par l'édiction d'une loi et la modification de plusieurs lois.&lt;br/&gt;La section 1 de la partie 4 modifie la Loi sur la Société d'assurance-dépôts du Canada afin, notamment?:&lt;br/&gt;a) de prévoir les étapes que l'évaluateur doit suivre lorsqu'il révise une décision de la Société d'assurance-dépôts du Canada concernant le versement d'une indemnité à certaines personnes;&lt;br/&gt;b) de préciser que la décision quant à savoir si des personnes ont le droit de recevoir l'indemnité est prise conformément aux règlements;&lt;br/&gt;c) d'empêcher la prise par des personnes de certaines actions relativement à certains contrats conclus entre elles et une institution fédérale membre en raison uniquement du défaut par cette institution de se conformer à une obligation pécuniaire prévue à ces contrats si le défaut se produit entre la prise du décret ordonnant la conversion des actions ou des éléments du passif de l'institution et la conversion;&lt;br/&gt;d) d'exiger que certaines institutions fédérales membres veillent à ce que certaines dispositions de cette loi — ou des dispositions ayant sensiblement le même effet que ces dispositions — s'appliquent à certains contrats financiers admissibles, notamment ceux régis par les lois d'un État étranger;&lt;br/&gt;e) d'exempter les contrats financiers admissibles conclus entre une institution fédérale membre et certaines entités, notamment Sa Majesté du chef du Canada, de l'application d'une disposition de cette loi empêchant l'accomplissement de certaines opérations à l'égard de ces contrats;&lt;br/&gt;f) de prolonger les délais applicables à certaines transactions relatives aux restructurations d'institutions financières.&lt;br/&gt;Elle modifie également la Loi sur la compensation et le règlement des paiements afin?:&lt;br/&gt;a) de prévoir les étapes que l'évaluateur doit suivre lorsqu'il révise une décision de la Banque du Canada concernant le versement d'une indemnité à certaines personnes ou entités;&lt;br/&gt;b) de clarifier le fait que les systèmes et arrangements qui visent l'échange de messages de paiement en vue de la compensation ou du règlement des obligations de paiement peuvent être surveillés par la Banque du Canada à titre de systèmes de compensation et de règlement.&lt;br/&gt;Enfin, elle modifie des dispositions non en vigueur de la Loi sur la Société d'assurance-dépôts du Canada édictées par la Loi no 1 d'exécution du budget de 2018 afin que, à certaines conditions, l'erreur ou l'omission entraînant un défaut de se conformer à une exigence de l'annexe de la Loi sur la Société d'assurance-dépôts du Canada n'empêche pas un dépôt d'être réputé constituer un dépôt distinct.&lt;br/&gt;La section 2 de la partie 4 modifie la Loi sur la Banque du Canada afin de permettre à la Banque du Canada de publier certains renseignements relativement aux sommes non réclamées.&lt;br/&gt;Elle modifie également la Loi de 1985 sur les normes de prestation de pension en ce qui concerne le transfert des actifs du régime de pension liés aux droits à pension de personnes introuvables, notamment pour?:&lt;br/&gt;a) circonscrire les circonstances entourant le transfert de ces actifs ainsi que préciser les conditions d'un tel transfert;&lt;br/&gt;b) préciser l'effet d'un transfert quant aux réclamations relatives à ces actifs.&lt;br/&gt;Enfin, elle modifie la Loi sur les sociétés de fiducie et de prêt et la Loi sur les banques afin?:&lt;br/&gt;a) d'inclure dans le régime des sommes non réclamées celles en devises étrangères;&lt;br/&gt;b) d'imposer des exigences supplémentaires aux institutions financières relativement aux transferts de sommes non réclamées à la Banque du Canada et aux communications avec les détenteurs de ces sommes.&lt;br/&gt;La section 3 de la partie 4 modifie la Loi no 2 d'exécution du budget de 2018 afin de soustraire certaines entreprises à l'application d'une disposition qui y est édictée de la Loi sur les banques, qui permet la résolution de certains accords conclus avec des banques.&lt;br/&gt;La section 4 de la partie 4 modifie la Loi sur les sociétés de fiducie et de prêt, la Loi sur les banques et la Loi sur les sociétés d'assurances afin de proroger la période durant laquelle les institutions financières fédérales régies par ces lois peuvent exercer leurs activités jusqu'au 30 juin 2025.&lt;br/&gt;La section 5 de la partie 4 modifie la Loi sur le Bureau de transition vers un régime canadien de réglementation des valeurs mobilières afin d'augmenter la somme jusqu'à concurrence de laquelle le ministre des Finances peut faire des paiements directs au Bureau de transition vers un régime canadien de réglementation des valeurs mobilières.&lt;br/&gt;La section 6 de la partie 4 modifie la Loi sur la justice pour les victimes de dirigeants étrangers corrompus (loi de Sergueï Magnitski) afin?:&lt;br/&gt;a) de prévoir que les entités visées par cette loi ne soient plus tenues de communiquer à l'autorité ou à l'organisme principal de surveillance ou de réglementation dont elles relèvent le fait qu'elles n'ont pas de biens d'un étranger visé par un décret ou règlement pris en vertu de cette loi en leur possession ou sous leur contrôle;&lt;br/&gt;b) de modifier la fréquence de l'obligation pour ces entités de communiquer à ces autorités ou à ces organismes le fait qu'elles ont de tels biens en leur possession ou sous leur contrôle d'une fois par mois à une fois par trois mois.&lt;br/&gt;La section 7 de la partie 4 modifie la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes afin?:&lt;br/&gt;a) d'élargir l'application de la partie 1 de cette loi aux personnes et aux entités qui se livrent au transport d'espèces et de certains autres instruments financiers;&lt;br/&gt;b) de prévoir que le Centre d'analyse des opérations et déclarations financières du Canada détermine les cotisations à payer par certaines personnes et entités visées par la partie 1 de cette loi, selon certains frais engagés par le Centre et d'autoriser le gouverneur en conseil à prendre des règlements à l'égard de ces cotisations;&lt;br/&gt;c) de modifier les définitions de renseignements désignés pour inclure certains renseignements relatifs aux opérations faites en monnaie virtuelle et aux fiducies à participation multiple ou cotées en bourse que le Centre peut communiquer à divers organismes chargés de l'application de la loi ou à d'autres entités gouvernementales;&lt;br/&gt;d) de modifier les peines maximales pour les infractions punissables par procédure sommaire;&lt;br/&gt;e) d'élargir le groupe de personnes et d'entités qui ne sont pas admissibles à l'inscription auprès du Centre;&lt;br/&gt;f) d'apporter d'autres modifications techniques.&lt;br/&gt;La section 8 de la partie 4 édicte la Loi sur les activités associées aux paiements de détail qui établit un cadre de surveillance des activités associées aux paiements de détail. Entre autres, cette loi exige que certains fournisseurs de services de paiement identifient les risques opérationnels et les atténuent, protègent les fonds des utilisateurs finaux et s'enregistrent auprès de la Banque du Canada. Elle confère également des pouvoirs au ministre des Finances pour faire face aux risques liés à la sécurité nationale que pourraient poser les fournisseurs de services de paiement. Cette section apporte des modifications connexes à la Loi sur la Société d'assurance-dépôts du Canada, à la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes, à la Loi sur l'Agence de la consommation en matière financière du Canada et à la Loi sur les réseaux de cartes de paiement.&lt;br/&gt;La section 9 de la partie 4 modifie la Loi de 1985 sur les normes de prestation de pension afin d'imposer de nouvelles exigences et de conférer au gouverneur en conseil de nouveaux pouvoirs réglementaires relativement aux régimes à cotisations négociées.&lt;br/&gt;La section 10 de la partie 4 modifie la Loi sur la gestion financière des premières nations pour permettre aux premières nations qui sont membres emprunteurs de l'Administration financière des premières nations de procéder à la cession de créances sur Sa Majesté du chef du Canada relativement à certaines recettes afin que l'Administration leur obtienne du financement.&lt;br/&gt;La section 11 de la partie 4 modifie la Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces afin, notamment, d'augmenter le paiement de stabilisation qui peut être versé à une province et d'apporter des modifications techniques au calcul des paiements de stabilisation.&lt;br/&gt;La section 12 de la partie 4 modifie la Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces afin d'autoriser des versements supplémentaires aux provinces et territoires.&lt;br/&gt;La section 13 de la partie 4 autorise des paiements sur le Trésor à l'égard du plan d'immunisation du Canada contre la COVID-19.&lt;br/&gt;La section 14 de la partie 4 autorise des paiements sur le Trésor en matière d'infrastructures et modifie le titre de la partie 9 de la Loi sur le soutien de la croissance de l'économie et de l'emploi au Canada.&lt;br/&gt;La section 15 de la partie 4 autorise le prélèvement sur le Trésor d'une somme maximale de 3?056?491?000?$ pour les paiements annuels à Terre-Neuve-et-Labrador selon les modalités prévues par l'Entente sur les paiements annuels de ristournes liées au projet Hibernia.&lt;br/&gt;La section 16 de la partie 4 modifie la Loi sur les paiements de péréquation compensatoires supplémentaires à la Nouvelle-Écosse et à Terre-Neuve-et-Labrador afin d'autoriser le ministre des Finances à verser à la province de la Nouvelle-Écosse un paiement de péréquation compensatoire supplémentaire pour l'exercice 2020-2021 et de prolonger le pouvoir de ce ministre de verser des paiements de péréquation compensatoires supplémentaires à cette province jusqu'au 31 mars 2023.&lt;br/&gt;La section 17 de la partie 4 modifie la Loi sur les télécommunications afin de prévoir que les décisions du Conseil de la radiodiffusion et des télécommunications canadiennes d'allouer ou non des fonds pour élargir l'accès aux services de télécommunication dans les régions mal desservies ne font pas l'objet d'une révision au titre des articles 12 ou 62 de cette loi, mais qu'elles peuvent être révisées par le Conseil, de sa propre initiative. Elle modifie également cette loi pour prévoir la communication de renseignements au sein de l'administration fédérale et à des administrations provinciales dans le but de coordonner le soutien financier pour l'accès aux services de télécommunication dans les régions mal desservies.&lt;br/&gt;La section 18 de la partie 4 modifie la Loi sur le financement des petites entreprises du Canada afin, notamment?:&lt;br/&gt;a) de préciser que les marges de crédit sont des prêts;&lt;br/&gt;b) de prévoir un plafond quant à la responsabilité du ministre de la Petite Entreprise et du Tourisme à l'égard de chaque prêteur en ce qui concerne les marges de crédit;&lt;br/&gt;c) de retirer la restriction qui exclut les entreprises sans but lucratif, à vocation religieuse ou de bienfaisance des emprunteurs admissibles;&lt;br/&gt;d) d'augmenter le plafond pour l'ensemble des prêts pouvant être consentis à un emprunteur sous le régime de cette loi;&lt;br/&gt;e) de prévoir que peut être prévu par règlement un plafond inférieur pour les prêts autres que les marges de crédit, pour les marges de crédit et pour les prêts de catégorie réglementaire.&lt;br/&gt;La section 19 de la partie 4 modifie la Loi sur les douanes afin de changer certaines règles relatives à la correction des déclarations faites en application de l'article 32.2 de cette loi, au paiement des intérêts dus à Sa Majesté et aux garanties prévues par cette loi et de définir, pour l'application de la partie III de cette loi, l'expression «?vendre pour exportation au Canada?».&lt;br/&gt;La section 20 de la partie 4 modifie la Loi de mise en œuvre de l'Accord Canada–États-Unis–Mexique afin d'exiger le consentement du ministre des Finances lorsque le ministre désigné pour l'application de l'article 16 de cette loi nomme les membres des groupes spéciaux et des comités ou propose le nom d'individus à inscrire sur les listes au titre du chapitre 10 de l'Accord Canada–États-Unis–Mexique.&lt;br/&gt;La section 21 de la partie 4 modifie la partie 5 de la Loi sur le ministère de l'Emploi et du Développement social afin d'apporter certaines réformes au Tribunal de la sécurité sociale, y compris?:&lt;br/&gt;a) des modifications aux critères pour accorder une demande de permission d'en appeler et l'établissement d'un modèle de novo applicable aux appels de décisions rendues par la section de la sécurité du revenu de la division d'appel;&lt;br/&gt;b) de permettre au gouverneur en conseil de prescrire les circonstances justifiant la tenue d'audiences à huis clos;&lt;br/&gt;c) de permettre au président du Tribunal de la sécurité sociale d'établir des règles régissant les procédures d'appel.&lt;br/&gt;La section 22 de la partie 4 modifie la définition de «?fournisseur précédent?», à la partie I du Code canadien du travail, afin d'étendre la protection de rémunération égale aux employés couverts par une convention collective travaillant pour un employeur fournissant?:&lt;br/&gt;a) soit, à un aéroport, des services à un autre employeur dans le secteur du transport aérien;&lt;br/&gt;b) soit des services à un autre employeur dans d'autres secteurs d'activités et en d'autres lieux prévus par règlement.&lt;br/&gt;La section 23 de la partie 4 modifie la partie III du Code canadien du travail afin d'établir le salaire horaire minimum fédéral à 15?$ et de prévoir que, si le salaire minimum prévu par la province ou le territoire est supérieur, c'est au moins ce salaire supérieur qui doit être versé par l'employeur. Elle prévoit également que, sauf dans certaines circonstances, ce salaire horaire minimum fédéral est rajusté à la hausse chaque année en fonction de l'indice des prix à la consommation pour le Canada.&lt;br/&gt;La section 24 de la partie 4 modifie les dispositions du Code canadien du travail portant sur le congé dans le cas du décès ou de la disparition d'un enfant lorsqu'il est probable que le décès ou la disparition résulte d'un crime pour, notamment?:&lt;br/&gt;a) dans le cas du parent d'un enfant disparu, faire passer la durée maximale du congé de cinquante-deux à cent quatre semaines;&lt;br/&gt;b) étendre l'admissibilité aux parents d'enfants âgés de dix-huit ans ou plus, mais de moins de vingt-cinq ans;&lt;br/&gt;c) limiter l'exception qui s'applique au cas du parent d'un enfant décédé à la suite d'un crime auquel l'enfant était probablement partie, de sorte qu'elle ne s'applique qu'à l'égard d'un enfant âgé de quatorze ans ou plus.&lt;br/&gt;La section 25 de la partie 4 autorise le ministre de l'Emploi et du Développement social à faire un paiement unique au Québec pour compenser certains des coûts liés à l'harmonisation du Régime québécois d'assurance parentale avec les mesures temporaires prévues à la partie VIII.5 de la Loi sur l'assurance-emploi.&lt;br/&gt;La section 26 de la partie 4 modifie la Loi sur les juges afin de prévoir que l'accumulation d'années de service et les cotisations à la pension d'un juge soient suspendues à compter de la date de la recommandation par le Conseil canadien de la magistrature de révoquer ce juge. Si la recommandation est rejetée, le juge reprend le versement de ses cotisations, le calcul de sa pension inclut la période de suspension et il verse toute cotisation qui aurait dû être versée pendant la suspension.&lt;br/&gt;La section 27 de la partie 4 modifie la Loi sur les Cours fédérales et la Loi sur la Cour canadienne de l'impôt afin d'augmenter le nombre de juges de un à la Cour d'appel fédérale et de deux à la Cour canadienne de l'impôt. Elle modifie également la Loi sur les juges afin d'autoriser le versement d'un traitement au nouveau juge en chef adjoint de la Section de première instance de la Cour suprême de Terre-Neuve-et-Labrador et le versement de traitements aux nouveaux juges, soit cinq à la Cour supérieure de justice de l'Ontario, deux à la Cour suprême de la Colombie-Britannique et deux à la Cour du Banc de la Reine de la Saskatchewan.&lt;br/&gt;La section 28 de la partie 4 modifie la Loi sur le Conseil national de recherches afin de conférer au Conseil national de recherches du Canada le pouvoir de se livrer à la production de «?drogues?» ou d'«?instruments?», au sens de la Loi sur les aliments et drogues, à des fins de protection ou d'amélioration de la santé publique. Elle modifie également cette loi afin d'autoriser la constitution de personnes morales et l'acquisition d'actions de personnes morales.&lt;br/&gt;La section 29 de la partie 4 modifie la Loi sur le ministère de l'Emploi et du Développement social relativement à la collecte et à l'utilisation, par le ministre du Travail, de numéros d'assurance sociale.&lt;br/&gt;La section 30 de la partie 4 modifie la Loi fédérale sur les prêts aux étudiants afin de prévoir que les prêts garantis consentis à un étudiant ne portent pas intérêt pour l'emprunteur au cours de la période commençant le 1er avril 2021 et se terminant le 31 mars 2023.&lt;br/&gt;Elle modifie aussi la Loi fédérale sur l'aide financière aux étudiants afin de prévoir que les prêts d'études ne portent pas intérêt pour l'emprunteur au cours de la période commençant le 1er avril 2021 et se terminant le 31 mars 2023.&lt;br/&gt;Enfin, elle modifie la Loi sur les prêts aux apprentis afin de prévoir que les prêts aux apprentis ne portent pas intérêt pour l'emprunteur au cours de la période commençant le 1er avril 2021 et se terminant le 31 mars 2023.&lt;br/&gt;La section 31 de la partie 4 confirme la validité de certains règlements concernant l'annulation ou le report d'élections au sein de certaines premières nations.&lt;br/&gt;La section 32 de la partie 4 modifie la Loi sur la sécurité de la vieillesse afin d'augmenter de dix pour cent la pension de vieillesse à payer aux individus âgés de soixante-quinze ans et plus. Elle prévoit également que peut être prélevée sur le Trésor toute somme à payer dans le cadre d'un programme prévoyant le versement d'un paiement unique de cinq cents dollars aux pensionnés âgés de soixante-quinze ans et plus.&lt;br/&gt;La section 33 de la partie 4 modifie la Loi sur l'emploi dans la fonction publique afin, notamment?:&lt;br/&gt;a) d'exiger que l'établissement et la révision de normes de qualification ainsi que le recours à des méthodes d'évaluation en matière de nomination comprennent une évaluation de l'existence de préjugés ou d'obstacles qui désavantagent les personnes provenant de tout groupe en quête d'équité;&lt;br/&gt;b) de prévoir que les vérifications et les enquêtes peuvent notamment porter sur la détermination de l'existence de préjugés ou d'obstacles qui désavantagent les personnes provenant de tout groupe en quête d'équité;&lt;br/&gt;c) d'accorder aux résidents permanents la même préférence que celle qui est accordée aux citoyens canadiens dans les processus de nomination externe annoncés.&lt;br/&gt;La section 34 de la partie 4 autorise le versement aux provinces de sommes destinées à l'apprentissage et à la garde des jeunes enfants pour l'exercice débutant le 1er avril 2021.&lt;br/&gt;La section 35 de la partie 4 modifie la Loi sur les prestations canadiennes de relance économique afin, notamment?:&lt;br/&gt;a) de prévoir que le nombre maximal de périodes de deux semaines à l'égard desquelles la prestation canadienne de relance économique peut être versée est de vingt-cinq;&lt;br/&gt;b) de réduire à 300?$, dans certaines circonstances, le montant de la prestation canadienne de relance économique pour une semaine;&lt;br/&gt;c) de prévoir que certaines personnes ayant reçu des prestations sous le régime de la Loi sur l'assurance-emploi ont le droit de recevoir la prestation canadienne de relance économique dans certaines circonstances;&lt;br/&gt;d) de prévoir que le nombre maximal de semaines à l'égard desquelles la prestation canadienne de relance économique pour les proches aidants peut être versée est de quarante-deux;&lt;br/&gt;e) de conférer au gouverneur au conseil le pouvoir de modifier, par règlement, sur la recommandation du ministre de l'Emploi et du Développement social et du ministre des Finances, certaines dispositions de la loi pour y remplacer la date du 25 septembre 2021 par une autre date non postérieure au 20 novembre 2021.&lt;br/&gt;En outre, elle modifie le Code canadien du travail afin de prévoir que le nombre maximal de semaines du congé pour les proches aidants en raison de la COVID-19 est de quarante-deux.&lt;br/&gt;Enfin, elle abroge des dispositions du Règlement sur les prestations canadiennes de relance économique et du Règlement du Canada sur les normes du travail.&lt;br/&gt;La section 36 de la partie 4 modifie la Loi sur l'assurance-emploi afin, notamment?:&lt;br/&gt;a) de faciliter l'accès aux prestations de chômage pour une période d'un an par la prise des mesures suivantes?:&lt;br/&gt;(i) réduire le nombre d'heures d'emploi assurable requis pour avoir droit aux prestations de chômage à un seuil national de quatre cent vingt heures,&lt;br/&gt;(ii) réduire les montants de rémunération provenant du travail exécuté pour son propre compte que le travailleur indépendant doit accumuler pour avoir droit aux prestations spéciales de chômage,&lt;br/&gt;(iii) prévoir que seule la cessation d'emploi la plus récente du prestataire sera prise en considération pour déterminer s'il remplit les conditions requises pour recevoir des prestations de chômage,&lt;br/&gt;(iv) faire en sorte que la rémunération qu'une personne a touchée en raison de la rupture de tout lien avec son ancien employeur ne puisse prolonger la période de prestations de cette personne,&lt;br/&gt;(v) prévoir une augmentation du nombre maximal de semaines pour lesquelles des prestations régulières de chômage peuvent être versées au travailleur saisonnier si certaines conditions sont remplies;&lt;br/&gt;b) de porter de quinze à vingt-six semaines le nombre maximal de semaines pour lesquelles des prestations peuvent être versées dans le cas d'une maladie, d'une blessure ou d'une mise en quarantaine prévue par règlement.&lt;br/&gt;Elle modifie également le Code canadien du travail afin, notamment, de porter à vingt-sept le nombre maximal de semaines auxquelles un employé a droit à titre de congé pour raisons médicales.&lt;br/&gt;Elle modifie également le Règlement sur l'assurance-emploi afin, notamment, de faire en sorte que, pour une période d'un an, la rémunération qu'une personne a touchée en raison de la rupture de tout lien avec son ancien employeur ne puisse prolonger la période de prestations de cette personne ou retarder le versement de ses prestations.&lt;br/&gt;Enfin, elle modifie le Règlement sur l'assurance-emploi (pêche) afin, notamment, de réduire, pour une période d'un an, les montants de rémunération qu'un pêcheur doit accumuler pour avoir droit aux prestations de chômage.&lt;br/&gt;La section 37 de la partie 4 modifie la Loi électorale du Canada afin de prévoir que les infractions liées à l'interdiction de faire ou de publier certaines fausses déclarations avec l'intention d'influencer les résultats d'une élection exigent que la personne ou l'entité qui fait la déclaration ou qui la publie sache que celle-ci est fausse.&lt;/div&gt;</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information and Research Service of the Library of Parliament. Meanwhile, the following executive summary is available.&lt;br/&gt;&lt;br/&gt;On 30 April 2021, the Deputy Prime Minister and Minister of Finance introduced Bill C-30, An Act to implement certain provisions of the budget tabled in Parliament on April 19, 2021 and other measures (Budget Implementation Act, 2021, No. 1), in the House of Commons and it was given first reading.    &lt;br/&gt;&lt;br/&gt;Bill C-30 Part 1 implements certain income tax measures by&lt;br/&gt;(a) providing relieving measures in connection with COVID-19 in respect of the use by an employee of an employer-provided automobile for the 2020 and 2021 taxation years;&lt;br/&gt;(b) limiting the benefit of the employee stock option deduction for employees of certain employers;&lt;br/&gt;(c) providing an adjustment for payments or repayments of government assistance in determining capital cost allowance for certain zero-emission vehicles;&lt;br/&gt;(d) expanding the scope of the foreign affiliate dumping rules to further their objectives;&lt;br/&gt;(e) providing change in use rules for multi-unit residential properties;&lt;br/&gt;(f) establishing rules for advanced life deferred annuities;&lt;br/&gt;(g) providing for an option to deduct repaid emergency benefit amounts in the year of benefit receipt and clarifying the tax treatment of non-resident beneficiaries;&lt;br/&gt;(h) removing the time limitation for a registered disability savings plan to remain registered after the cessation of a beneficiary's eligibility for the disability tax credit and modifying grant and bond repayment obligations;&lt;br/&gt;(i) increasing the basic personal amount for certain taxpayers;&lt;br/&gt;(j) providing a temporary special reading of certain rules relating to the child care expense deduction and the disability supports deduction for the 2020 and 2021 taxation years;&lt;br/&gt;(k) providing flow-through share issuers with temporary additional time to incur eligible expenses to be renounced to investors under their flow-through share agreements;&lt;br/&gt;(l) applying the short taxation year rule to the accelerated investment incentive for resource expenditures;&lt;br/&gt;(m) introducing the Canada Recovery Hiring Program refundable tax credit to support the post-pandemic recovery;&lt;br/&gt;(n) amending the employee life and health trust rules to allow for the conversion of health and welfare trusts to employee life and health trusts;&lt;br/&gt;(o) expanding access to the Canada Workers Benefit by revising the applicable eligibility thresholds for the 2021 and subsequent taxation years;&lt;br/&gt;(p) amending the income tax measures providing support for Canadian journalism;&lt;br/&gt;(q) clarifying the definition of shared-custody parent for the purposes of the Canada Child Benefit;&lt;br/&gt;(r) revising the eligibility criteria, as well as the level of subsidization, under the Canada Emergency Wage Subsidy (CEWS) and Canada Emergency Rent Subsidy (CERS), extending the CEWS and the CERS until September 25, 2021, providing authority to enable the extension of these subsidies until November 30, 2021, and ensuring that the level of CEWS benefits for furloughed employees continues to align with the benefits provided through the Employment Insurance Act until August 28, 2021;&lt;br/&gt;(s) preventing the use by mutual fund trusts of a method of allocating capital gains or income to their redeeming unitholders where the use of that method inappropriately defers tax or converts ordinary income into capital gains;&lt;br/&gt;(t) extending the income tax deferral available for certain patronage dividends paid in shares by an agricultural cooperative corporation to payments made before 2026;&lt;br/&gt;(u) limiting transfers of pensionable service into individual pension plans;&lt;br/&gt;(v) establishing rules for variable payment life annuities;&lt;br/&gt;(w) preventing listed terrorist entities under the Criminal Code from qualifying as registered charities and providing for the suspension or revocation of a charity's registration where it makes false statements for the purpose of maintaining registration;&lt;br/&gt;(x) ensuring the appropriate interaction of transfer pricing rules and other rules in the Income Tax Act;&lt;br/&gt;(y) preventing non-resident taxpayers from avoiding Canadian dividend withholding tax on compensation payments made under cross-border securities lending arrangements with respect to Canadian shares;&lt;br/&gt;(z) allowing for the electronic delivery of requirements for information to banks and credit unions;&lt;br/&gt;(aa) improving existing rules meant to prevent taxpayers from using derivative transactions to convert ordinary income into capital gains;&lt;br/&gt;(bb) extending to a wider array of eligible automotive equipment and vehicles the 100% capital cost allowance write-off for business investments in certain zero-emission vehicles;&lt;br/&gt;(cc) ensuring that the accelerated investment incentive for depreciable property applies properly in particular circumstances; and&lt;br/&gt;(dd) providing rules for contributions to a specified multi-employer plan for older members.&lt;br/&gt;It also makes related and consequential amendments to the Excise Tax Act, the Air Travellers Security Charge Act, the Excise Act, 2001, the Greenhouse Gas Pollution Pricing Act, the Income Tax Regulations and the Canada Disability Savings Regulations.&lt;br/&gt;Part 2 implements certain Goods and Services Tax/Harmonized Sales Tax (GST/HST) measures by&lt;br/&gt;(a) temporarily relieving supplies of certain face masks and face shields from the GST/HST;&lt;br/&gt;(b) ensuring that non-resident vendors supplying digital products or services (including traditional services) to consumers in Canada be required to register for the GST/HST and to collect and remit the tax on their taxable supplies to consumers in Canada;&lt;br/&gt;(c) requiring distribution platform operators and non-resident vendors to register under the normal GST/HST rules and to collect and remit the GST/HST in respect of certain supplies of goods shipped from a fulfillment warehouse or another place in Canada;&lt;br/&gt;(d) applying the GST/HST on all supplies of short-term accommodation in Canada facilitated through a digital platform;&lt;br/&gt;(e) expanding the eligibility for the GST rebate for new housing;&lt;br/&gt;(f) expanding the definition of freight transportation service for the purposes of the GST/HST;&lt;br/&gt;(g) extending the application of the drop-shipment rules for the purposes of the GST/HST;&lt;br/&gt;(h) treating virtual currency as a financial instrument for the purposes of the GST/HST; and&lt;br/&gt;(i) clarifying the GST/HST holding corporation rules and expanding those rules to holding partnerships and trusts.&lt;br/&gt;It also makes related and consequential amendments to the New Harmonized Value-added Tax System Regulations, No. 2.&lt;br/&gt;Part 3 implements certain excise measures by increasing excise duty rates on tobacco products by $4.00 per carton of 200 cigarettes along with corresponding increases to the excise duty rates on other tobacco products.&lt;br/&gt;Part 4 enacts an Act and amends several Acts in order to implement various measures.&lt;br/&gt;Division 1 of Part 4 amends the Canada Deposit Insurance Corporation Act to, among other things,&lt;br/&gt;(a) specify the steps that an assessor must follow when they review a determination of the Canada Deposit Insurance Corporation with respect to the payment of compensation to certain persons;&lt;br/&gt;(b) clarify that the determination of whether or not persons are entitled to compensation is to be made in accordance with the regulations;&lt;br/&gt;(c) prevent a person from taking certain actions in relation to certain agreements between the person and a federal member institution by reason only of a monetary default by that institution in the performance of obligations under those agreements if the default occurs in the period between the making of an order directing the conversion of that institution's shares or liabilities and the occurrence of the conversion;&lt;br/&gt;(d) require certain federal member institutions to ensure that certain provisions of that Act — or provisions that have substantially the same effect as those provisions — apply to certain eligible financial contracts, including those contracts that are subject to the laws of a foreign state;&lt;br/&gt;(e) exempt eligible financial contracts between a federal member institution and certain entities, including Her Majesty in right of Canada, from a provision of that Act that prevents certain actions from being taken in relation to those contracts; and&lt;br/&gt;(f) extend periods applicable to certain restructuring transactions for financial institutions.&lt;br/&gt;It also amends the Payment Clearing and Settlement Act to&lt;br/&gt;(a) specify the steps that an assessor must follow when they review a determination of the Bank of Canada with respect to the payment of compensation to certain persons or entities; and&lt;br/&gt;(b) clarify that systems or arrangements for the exchange of payment messages for the purpose of clearing or settlement of payment obligations may be overseen by the Bank of Canada as clearing and settlement systems.&lt;br/&gt;Finally, it amends not-in-force provisions of the Canada Deposit Insurance Corporation Act, enacted by the Budget Implementation Act, 2018, No. 1, so that, under certain circumstances, an error or omission that results in a failure to meet a requirement of the schedule to the Canada Deposit Insurance Corporation Act will not prevent a deposit from being considered a separate deposit.&lt;br/&gt;Division 2 of Part 4 amends the Bank of Canada Act to authorize the Bank of Canada to publish certain information about unclaimed amounts.&lt;br/&gt;It also amends the Pension Benefits Standards Act, 1985 with respect to the transfer of pension plan assets relating to the pension benefit credit of any person who cannot be located to, among other things,&lt;br/&gt;(a) limit the circumstances in which such assets may be transferred and specify conditions for the transfer; and&lt;br/&gt;(b) specify the effects of a transfer on any claims that may be made in respect of those assets.&lt;br/&gt;Finally, it amends the Trust and Loan Companies Act and the Bank Act to&lt;br/&gt;(a) include amounts that are not in Canadian currency in the unclaimed amounts regime; and&lt;br/&gt;(b) impose additional requirements on financial institutions in connection with their transfers of unclaimed amounts to the Bank of Canada and communications with the owners of those amounts.&lt;br/&gt;Division 3 of Part 4 amends the Budget Implementation Act, 2018, No. 2 to exclude certain businesses from the application of a provision of the Bank Act that it enacts, which allows certain agreements that have been entered into with banks to be cancelled.&lt;br/&gt;Division 4 of Part 4 amends the Trust and Loan Companies Act, the Bank Act and the Insurance Companies Act to extend the period during which federal financial institutions governed by those Acts may carry on business to June 30, 2025.&lt;br/&gt;Division 5 of Part 4 amends the Canadian Securities Regulation Regime Transition Office Act to increase the maximum amount of direct payments that the Minister of Finance may make to the Canadian Securities Regulation Regime Transition Office.&lt;br/&gt;Division 6 of Part 4 amends the Justice for Victims of Corrupt Foreign Officials Act (Sergei Magnitsky Law) to&lt;br/&gt;(a) provide that the entities referred to in that Act are no longer required to disclose to the principal agency or body that supervises or regulates them the fact that they do not have in their possession or control any property of a foreign national who is the subject of an order or regulation made under that Act; and&lt;br/&gt;(b) change the frequency with which those entities are required to disclose to the principal agency or body that supervises or regulates them the fact that they have such property in their possession or control from once a month to once every three months.&lt;br/&gt;Division 7 of Part 4 amends the Proceeds of Crime (Money Laundering) and Terrorist Financing Act to&lt;br/&gt;(a) extend the application of Part 1 of that Act to include persons and entities engaged in the business of transporting currency or certain other financial instruments;&lt;br/&gt;(b) provide that the Financial Transactions and Reports Analysis Centre make assessments to be paid by persons or entities to which Part 1 applies, based on the amount of certain expenses incurred by the Centre, and to authorize the Governor in Council to make regulations respecting those assessments;&lt;br/&gt;(c) amend the definitions of designated information to include certain information associated with virtual currency transactions and widely held or publicly traded trusts that the Centre can disclose to law enforcement or other governmental bodies;&lt;br/&gt;(d) change the maximum penalties for summary conviction offences;&lt;br/&gt;(e) expand the list of persons or entities that are not eligible for registration with the Centre; and&lt;br/&gt;(f) make other technical amendments.&lt;br/&gt;Division 8 of Part 4 enacts the Retail Payment Activities Act, which establishes an oversight framework for retail payment activities. Among other things, that Act requires certain payment service providers to identify and mitigate operational risks, safeguard end-user funds and register with the Bank of Canada. That Act also provides the Minister of Finance with powers to address risks related to national security that could be posed by payment service providers. This Division also makes related amendments to the Canada Deposit Insurance Corporation Act, the Proceeds of Crime (Money Laundering) and Terrorist Financing Act, the Financial Consumer Agency of Canada Act and the Payment Card Networks Act.&lt;br/&gt;Division 9 of Part 4 amends the Pension Benefits Standards Act, 1985 to establish new requirements and grant new regulation-making powers to the Governor in Council with respect to negotiated contribution plans.&lt;br/&gt;Division 10 of Part 4 amends the First Nations Fiscal Management Act to allow First Nations that are borrowing members of the First Nations Finance Authority to assign their rights to certain revenues payable by Her Majesty in right of Canada, for the purpose of securing financing for that Authority's borrowing members.&lt;br/&gt;Division 11 of Part 4 amends the Federal-Provincial Fiscal Arrangements Act to, among other things, increase the maximum amount of a fiscal stabilization payment that may be made to a province and to make technical changes to the calculation of fiscal stabilization payments.&lt;br/&gt;Division 12 of Part 4 amends the Federal-Provincial Fiscal Arrangements Act to authorize additional payments to the provinces and territories.&lt;br/&gt;Division 13 of Part 4 authorizes payments to be made out of the Consolidated Revenue Fund in relation to Canada's COVID-19 immunization plan.&lt;br/&gt;Division 14 of Part 4 authorizes payments to be made out of the Consolidated Revenue Fund in relation to infrastructure and amends the heading of Part 9 of the Keeping Canada's Economy and Jobs Growing Act.&lt;br/&gt;Division 15 of Part 4 authorizes amounts to be paid out of the Consolidated Revenue Fund, to a maximum total amount of $3,056,491,000, for annual payments to Newfoundland and Labrador in accordance with the terms and conditions of the Hibernia Dividend Backed Annuity Agreement.&lt;br/&gt;Division 16 of Part 4 amends the Nova Scotia and Newfoundland and Labrador Additional Fiscal Equalization Offset Payments Act to authorize the Minister of Finance to make an additional fiscal equalization offset payment to Nova Scotia for the 2020–2021 fiscal year and to extend that Minister's authority to make additional fiscal equalization offset payments to Nova Scotia until March 31, 2023.&lt;br/&gt;Division 17 of Part 4 amends the Telecommunications Act to provide that decisions made by the Canadian Radio-television and Telecommunications Commission on whether or not to allocate funding to expand access to telecommunications services in underserved areas are not subject to review under section 12 or 62 of that Act but are subject to review by the Commission on its own initiative. It also amends that Act to provide for the exchange of information within the federal government and with provincial governments for the purpose of coordinating financial support for access to telecommunications services in underserved areas.&lt;br/&gt;Division 18 of Part 4 amends the Canada Small Business Financing Act to, among other things,&lt;br/&gt;(a) specify that lines of credit are loans;&lt;br/&gt;(b) set a limit on the liability of the Minister of Small Business and Tourism in respect of each lender for lines of credit;&lt;br/&gt;(c) remove the restriction excluding not-for-profit businesses, charitable businesses and businesses having as their principal object the furtherance of a religious purpose as eligible borrowers;&lt;br/&gt;(d) increase the maximum amount of all loans that may be made in relation to a borrower under that Act; and&lt;br/&gt;(e) provide that lesser maximum loan amounts may be prescribed by regulation for loans other than lines of credit, lines of credit and prescribed classes of loans.&lt;br/&gt;Division 19 of Part 4 amends the Customs Act to change certain rules respecting the correction of declarations made under section 32.2 of that Act, the payment of interest due to Her Majesty and securities required under that Act, and to define the expression "sold for export to Canada" for the purposes of Part III of that Act.&lt;br/&gt;Division 20 of Part 4 amends the Canada–United States–Mexico Agreement Implementation Act to require the concurrence of the Minister of Finance when the Minister designated for the purposes of section 16 of that Act appoints panellists and committee members and proposes the names of individuals for rosters under Chapter 10 of the Canada–United States–Mexico Agreement.&lt;br/&gt;Division 21 of Part 4 amends Part 5 of the Department of Employment and Social Development Act to make certain reforms to the Social Security Tribunal, including&lt;br/&gt;(a) changing the criteria for granting leave to appeal and introducing a de novo model for appeals of decisions of the Income Security Section at the Appeal Division;&lt;br/&gt;(b) giving the Governor in Council the authority to prescribe the circumstances in which hearings may be held in private; and&lt;br/&gt;(c) giving the Chairperson of the Social Security Tribunal the authority to make rules of procedure governing appeals.&lt;br/&gt;Division 22 of Part 4 amends the definition of "previous contractor" in Part I of the Canada Labour Code in order to extend equal remuneration protection to employees who are covered by a collective agreement and who work for an employer that&lt;br/&gt;(a) provides services at an airport to another employer in the air transportation industry; or&lt;br/&gt;(b) provides services to another employer in another industry and at other locations that may be prescribed by regulation.&lt;br/&gt;Division 23 of Part 4 amends Part III of the Canada Labour Code to establish a federal minimum wage of $15 per hour and to provide that if the minimum wage of a province or territory is higher than the federal minimum wage, the employer is to pay a minimum wage that is not less than that higher minimum wage. It also provides that, except in certain circumstances, the federal minimum wage per hour is to be adjusted upwards annually on the basis of the Consumer Price Index for Canada.&lt;br/&gt;Division 24 of Part 4 amends the provisions of the Canada Labour Code respecting leave related to the death or disappearance of a child in cases in which it is probable that the child died or disappeared as a result of a crime, in order to, among other things,&lt;br/&gt;(a) increase the maximum length of leave for a parent of a child who has disappeared from 52 weeks to 104 weeks;&lt;br/&gt;(b) extend eligibility to parents of children who are 18 years of age or older but under 25 years of age; and&lt;br/&gt;(c) limit the exception that applies in the case of a parent of a child who has died as a result of a crime if it is probable that the child was a party to the crime so that the exception applies only with respect to a child who is 14 years of age or older.&lt;br/&gt;Division 25 of Part 4 authorizes the Minister of Employment and Social Development to make a one-time payment to Quebec for the purpose of offsetting some of the costs of aligning the Quebec Parental Insurance Plan with temporary measures set out in Part VIII.5 of the Employment Insurance Act.&lt;br/&gt;Division 26 of Part 4 amends the Judges Act to provide that, if the Canadian Judicial Council recommends that a judge be removed from judicial office, the time counted towards the judge's pension entitlements will be frozen and their pension contributions will be suspended, as of the day on which the recommendation is made. If the recommendation is rejected, the judge's pension contributions will resume, the time counted towards their pension entitlement will include the suspension period and the judge will be required to make all the contributions that would have been required had the contributions never been suspended.&lt;br/&gt;Division 27 of Part 4 amends the Federal Courts Act and the Tax Court of Canada Act to increase the number of judges for the Federal Court of Appeal by one and the number of judges for the Tax Court of Canada by two. It also amends the Judges Act to authorize the salary for the new Associate Chief Justice for the Trial Division of the Supreme Court of Newfoundland and Labrador and the salaries for the following new judges: five judges for the Ontario Superior Court of Justice, two judges for the Supreme Court of British Columbia and two judges for the Court of Queen's Bench for Saskatchewan.&lt;br/&gt;Division 28 of Part 4 amends the National Research Council Act to provide the National Research Council of Canada with the authority to engage in the production of "drugs" or "devices", as those terms are defined in the Food and Drugs Act, for the purpose of protecting or improving public health. It also amends that Act to provide authority for the incorporation of corporations and the acquisition of shares in corporations.&lt;br/&gt;Division 29 of Part 4 amends the Department of Employment and Social Development Act in relation to the collection and use of Social Insurance Numbers by the Minister of Labour.&lt;br/&gt;Division 30 of Part 4 amends the Canada Student Loans Act to provide that, during the period that begins on April 1, 2021 and ends on March 31, 2023, no interest is payable by a borrower on a guaranteed student loan.&lt;br/&gt;It also amends the Canada Student Financial Assistance Act to provide that, during the period that begins on April 1, 2021 and ends on March 31, 2023, no interest is payable by a borrower on a student loan.&lt;br/&gt;Finally, it amends the Apprentice Loans Act to provide that, during the period that begins on April 1, 2021 and ends on March 31, 2023, no interest is payable by a borrower on an apprentice loan.&lt;br/&gt;Division 31 of Part 4 confirms the validity of certain regulations in relation to the cancellation or postponement of certain First Nations elections.&lt;br/&gt;Division 32 of Part 4 amends the Old Age Security Act to increase the Old Age Security pension payable to individuals aged 75 and over by 10%. It also provides that any amount payable in relation to a program to provide a one-time payment of $500 to pensioners who are 75 years of age or older may be paid out of the Consolidated Revenue Fund.&lt;br/&gt;Division 33 of Part 4 amends the Public Service Employment Act to, among other things,&lt;br/&gt;(a) require that the establishment and review of qualification standards and the use of assessment methods in respect of appointments include an evaluation of whether there are biases or barriers that disadvantage persons belonging to any equity-seeking group;&lt;br/&gt;(b) provide that audits and investigations may include the determination of whether there are biases or barriers that disadvantage persons belonging to any equity-seeking group; and&lt;br/&gt;(c) give permanent residents the same preference as Canadian citizens in external advertised appointment processes.&lt;br/&gt;Division 34 of Part 4 authorizes the making of payments to the provinces for early learning and child care for the fiscal year beginning on April 1, 2021.&lt;br/&gt;Division 35 of Part 4 amends the Canada Recovery Benefits Act to, among other things,&lt;br/&gt;(a) provide that the maximum number of two-week periods in respect of which a Canada recovery benefit is payable is 25;&lt;br/&gt;(b) reduce the amount of a Canada recovery benefit for a week to $300 in certain circumstances;&lt;br/&gt;(c) provide that certain persons who were paid benefits under the Employment Insurance Act are eligible to be paid a Canada recovery benefit in certain circumstances;&lt;br/&gt;(d) provide that the maximum number of weeks in respect of which a Canada recovery caregiving benefit is payable is 42; and&lt;br/&gt;(e) provide that the Governor in Council may, by regulation, on the recommendation of the Minister of Employment and Social Development and the Minister of Finance, amend certain provisions of that Act to replace the date of September 25, 2021 by a date not later than November 20, 2021.&lt;br/&gt;It also amends the Canada Labour Code to provide that the maximum number of weeks of leave for COVID-19 related caregiving responsibilities is 42.&lt;br/&gt;Finally, it repeals provisions of the Canada Recovery Benefits Regulations and the Canada Labour Standards Regulations.&lt;br/&gt;Division 36 of Part 4 amends the Employment Insurance Act to, among other things,&lt;br/&gt;(a) facilitate access to unemployment benefits for a period of one year by&lt;br/&gt;(i) reducing the number of hours of insurable employment required to qualify for unemployment benefits to a national threshold of 420 hours,&lt;br/&gt;(ii) reducing the amount of earnings from self-employment that a self-employed person is required to have to be eligible to access special unemployment benefits,&lt;br/&gt;(iii) providing that only a claimant's most recent separation from employment will be considered in determining whether they qualify for unemployment benefits,&lt;br/&gt;(iv) ensuring that earnings paid to a person because of the complete severance of their relationship with their former employer do not extend the person's benefit period, and&lt;br/&gt;(v) providing for an increase in the maximum number of weeks for which regular unemployment benefits may be paid to a seasonal worker if certain conditions are met; and&lt;br/&gt;(b) extend the maximum number of weeks for which benefits may be paid because of a prescribed illness, injury or quarantine from 15 to 26.&lt;br/&gt;It also amends the Canada Labour Code to, among other things, extend to 27 the maximum number of weeks to which an employee is entitled for a medical leave of absence from employment.&lt;br/&gt;It also amends the Employment Insurance Regulations to, among other things, ensure that, for a period of one year, earnings paid to a person because of the complete severance of their relationship with their former employer do not extend the person's benefit period or delay payment of benefits to the person.&lt;br/&gt;Finally, it amends the Employment Insurance (Fishing) Regulations to, among other things, reduce, for a period of one year, the amount of earnings that a fisher is required to have to qualify for unemployment benefits.&lt;br/&gt;Division 37 of Part 4 amends the Canada Elections Act to provide that the offences related to the prohibition on making or publishing certain false statements with the intention of affecting the results of an election require that the person or the entity making or publishing the statement knows that the statement in question is false.&lt;/div&gt;</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear>2021</StatuteYear>
+    <StatuteChapter>23</StatuteChapter>
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>43</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2021-04-30T10:49:23.447</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>First reading</NameEn>
+          <NameFr>Première lecture</NameFr>
+          <Name>First reading</Name>
+          <Number>92</Number>
+          <Date>2021-04-30T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60111</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>First reading</EventNameEn>
+          <EventNameFr>Première lecture</EventNameFr>
+          <EventName>First reading</EventName>
+          <EventDateTime>2021-04-30T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60111</EventTypeId>
+          <EventTypeNameEn>First reading</EventTypeNameEn>
+          <EventTypeNameFr>Première lecture</EventTypeNameFr>
+          <EventTypeName>First reading</EventTypeName>
+          <EventStartDateTime>2021-04-30T10:49:23.447</EventStartDateTime>
+          <EventEndDateTime>2021-04-30T10:49:23.447</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2021-04-30T10:49:23.447</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>43</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2021-05-27T15:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>26059</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+          <StudyActivityId>11310197</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>95</Number>
+          <Date>2021-05-05T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>96</Number>
+          <Date>2021-05-06T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>97</Number>
+          <Date>2021-05-07T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>99</Number>
+          <Date>2021-05-11T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>103</Number>
+          <Date>2021-05-25T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>104</Number>
+          <Date>2021-05-26T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>105</Number>
+          <Date>2021-05-27T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>11339772</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>11291026</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>2nd reading and referral to committee - FINA</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>2e lecture et renvoi en comité - FINA</DecisionMotionTitleFr>
+          <DecisionMotionTitle>2nd reading and referral to committee - FINA</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>10</DecisionMethodId>
+          <DecisionMethodNameEn>On recorded division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Suivant un vote par appel nominal</DecisionMethodNameFr>
+          <DecisionMethodName>On recorded division</DecisionMethodName>
+          <DivisionNumber>123</DivisionNumber>
+          <DivisionVotesYeas>212</DivisionVotesYeas>
+          <DivisionVotesNays>119</DivisionVotesNays>
+          <DivisionVotePaired>0</DivisionVotePaired>
+          <DecisionSittingDate>2021-05-27T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>105</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60121</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading and referral to committee</EventNameEn>
+          <EventNameFr>Deuxième lecture et renvoi en comité</EventNameFr>
+          <EventName>Second reading and referral to committee</EventName>
+          <EventDateTime>2021-05-27T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60121</EventTypeId>
+          <EventTypeNameEn>Second reading and referral to committee</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture et renvoi en comité</EventTypeNameFr>
+          <EventTypeName>Second reading and referral to committee</EventTypeName>
+          <EventStartDateTime>2021-05-27T15:00:00</EventStartDateTime>
+          <EventEndDateTime>2021-05-27T15:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2021-05-27T15:00:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>11288299</InterventionEventId>
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>84665</PersonId>
+          <PersonOfficialFirstName>Chrystia</PersonOfficialFirstName>
+          <PersonOfficialLastName>Freeland</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Chrystia Freeland</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>43</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>95</MeetingNumber>
+          <SpeechDateTime>2021-05-05T16:12:33</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>11288552</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>35904</PersonId>
+          <PersonOfficialFirstName>Ed</PersonOfficialFirstName>
+          <PersonOfficialLastName>Fast</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Ed Fast</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>43</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>95</MeetingNumber>
+          <SpeechDateTime>2021-05-05T16:31:51</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>11289244</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>88485</PersonId>
+          <PersonOfficialFirstName>Gabriel</PersonOfficialFirstName>
+          <PersonOfficialLastName>Ste-Marie</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Gabriel Ste-Marie</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Bloc Québécois</CaucusShortNameEn>
+          <CaucusShortNameFr>Bloc Québécois</CaucusShortNameFr>
+          <CaucusShortName>Bloc Québécois</CaucusShortName>
+          <ParliamentNumber>43</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>95</MeetingNumber>
+          <SpeechDateTime>2021-05-05T17:19:28</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>11289723</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>16399</PersonId>
+          <PersonOfficialFirstName>Peter</PersonOfficialFirstName>
+          <PersonOfficialLastName>Julian</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Peter Julian</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>NDP</CaucusShortNameEn>
+          <CaucusShortNameFr>NPD</CaucusShortNameFr>
+          <CaucusShortName>NDP</CaucusShortName>
+          <ParliamentNumber>43</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>95</MeetingNumber>
+          <SpeechDateTime>2021-05-05T17:50:59</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>43</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2021-06-07T10:44:15.447</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>26059</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+          <StudyActivityId>11310197</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented with amendments</NameEn>
+          <NameFr>Présentation du rapport de comité avec des amendements</NameFr>
+          <Name>Committee report presented with amendments</Name>
+          <Number>112</Number>
+          <Date>2021-06-07T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>26059</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <Number>51</Number>
+          <Date>2021-05-27T00:00:00</Date>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>26059</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <Number>52</Number>
+          <Date>2021-06-01T00:00:00</Date>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>26059</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <Number>53</Number>
+          <Date>2021-06-03T00:00:00</Date>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented with amendments</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité avec des amendements</EventNameFr>
+          <EventName>Committee report presented with amendments</EventName>
+          <EventDateTime>2021-06-07T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId>11369124</CommitteeReportId>
+          <CommitteeReportNumber>5</CommitteeReportNumber>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2021-06-07T10:44:15.447</EventStartDateTime>
+          <EventEndDateTime>2021-06-07T10:44:15.447</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2021-06-07T10:44:15.447</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>43</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2021-06-21T16:40:56</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>115</Number>
+          <Date>2021-06-10T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>116</Number>
+          <Date>2021-06-11T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>117</Number>
+          <Date>2021-06-14T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>119</Number>
+          <Date>2021-06-16T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>121</Number>
+          <Date>2021-06-18T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>122</Number>
+          <Date>2021-06-21T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60285</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Concurrence at report stage</EventNameEn>
+          <EventNameFr>Adoption à l'étape du rapport</EventNameFr>
+          <EventName>Concurrence at report stage</EventName>
+          <EventDateTime>2021-06-21T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60285</EventTypeId>
+          <EventTypeNameEn>Concurrence at report stage</EventTypeNameEn>
+          <EventTypeNameFr>Adoption à l'étape du rapport</EventTypeNameFr>
+          <EventTypeName>Concurrence at report stage</EventTypeName>
+          <EventStartDateTime>2021-06-21T16:40:56</EventStartDateTime>
+          <EventEndDateTime>2021-06-21T16:40:56</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2021-06-21T16:40:56</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>43</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2021-06-23T15:45:35</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>123</Number>
+          <Date>2021-06-22T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Third reading</NameEn>
+          <NameFr>Troisième lecture</NameFr>
+          <Name>Third reading</Name>
+          <Number>124</Number>
+          <Date>2021-06-23T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>11416545</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>11291028</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>3rd reading</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>3e lecture</DecisionMotionTitleFr>
+          <DecisionMotionTitle>3rd reading</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>10</DecisionMethodId>
+          <DecisionMethodNameEn>On recorded division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Suivant un vote par appel nominal</DecisionMethodNameFr>
+          <DecisionMethodName>On recorded division</DecisionMethodName>
+          <DivisionNumber>185</DivisionNumber>
+          <DivisionVotesYeas>211</DivisionVotesYeas>
+          <DivisionVotesNays>121</DivisionVotesNays>
+          <DivisionVotePaired>0</DivisionVotePaired>
+          <DecisionSittingDate>2021-06-23T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>124</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2021-06-23T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2021-06-23T15:45:35</EventStartDateTime>
+          <EventEndDateTime>2021-06-23T15:45:35</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2021-06-23T15:45:35</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60038</BillStageId>
+        <BillStageNameEn>Senate pre-study</BillStageNameEn>
+        <BillStageNameFr>Étude préalable au Sénat</BillStageNameFr>
+        <BillStageName>Senate pre-study</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>43</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>5</State>
+        <StateNameEn>Not completed</StateNameEn>
+        <StateNameFr>Non achevée</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Pre-study of House bill</NameEn>
+          <NameFr>Étude préalable d'un projet de loi émanant de la Chambre des communes</NameFr>
+          <Name>Pre-study of House bill</Name>
+          <Number>37</Number>
+          <Date>2021-05-04T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>19</Number>
+          <Date>2021-05-11T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>20</Number>
+          <Date>2021-05-11T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>21</Number>
+          <Date>2021-05-18T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>22</Number>
+          <Date>2021-05-20T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>23</Number>
+          <Date>2021-05-25T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>24</Number>
+          <Date>2021-05-25T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>25</Number>
+          <Date>2021-05-27T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60109</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Pre-study of House bill</EventNameEn>
+          <EventNameFr>Étude préalable d'un projet de loi émanant de la Chambre des communes</EventNameFr>
+          <EventName>Pre-study of House bill</EventName>
+          <EventDateTime>2021-05-04T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>false</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>Subject-matter of bill referred to the Standing Senate Committee on National Finance AND certain other Senate Committees --- (See explanatory note below)</AdditionalInformationEn>
+          <AdditionalInformationFr>La teneur du projet de loi a été renvoyée au Comité sénatorial permanent des finances nationales ET certains autres comités du Sénat --- (Voir la note explicative ci-dessous)</AdditionalInformationFr>
+          <AdditionalInformation>Subject-matter of bill referred to the Standing Senate Committee on National Finance AND certain other Senate Committees --- (See explanatory note below)</AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent />
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2021-05-27T16:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>43</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2021-06-23T18:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>First reading</NameEn>
+          <NameFr>Première lecture</NameFr>
+          <Name>First reading</Name>
+          <Number>54</Number>
+          <Date>2021-06-23T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60111</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>First reading</EventNameEn>
+          <EventNameFr>Première lecture</EventNameFr>
+          <EventName>First reading</EventName>
+          <EventDateTime>2021-06-23T18:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60111</EventTypeId>
+          <EventTypeNameEn>First reading</EventTypeNameEn>
+          <EventTypeNameFr>Première lecture</EventTypeNameFr>
+          <EventTypeName>First reading</EventTypeName>
+          <EventStartDateTime>2021-06-23T18:00:00</EventStartDateTime>
+          <EventEndDateTime>2021-06-23T18:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2021-06-23T18:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>43</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2021-06-28T00:01:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>55</Number>
+          <Date>2021-06-28T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60120</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading</EventNameEn>
+          <EventNameFr>Deuxième lecture</EventNameFr>
+          <EventName>Second reading</EventName>
+          <EventDateTime>2021-06-28T00:01:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60120</EventTypeId>
+          <EventTypeNameEn>Second reading</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture</EventTypeNameFr>
+          <EventTypeName>Second reading</EventTypeName>
+          <EventStartDateTime>2021-06-28T00:01:00</EventStartDateTime>
+          <EventEndDateTime>2021-06-28T00:01:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2021-06-28T00:01:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>95493</PersonId>
+          <PersonOfficialFirstName>Lucie</PersonOfficialFirstName>
+          <PersonOfficialLastName>Moncion</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Lucie Moncion</PersonName>
+          <SenateSystemAffiliationId>207814</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Independent Senators Group</CaucusShortNameEn>
+          <CaucusShortNameFr>Groupe des sénateurs indépendants</CaucusShortNameFr>
+          <CaucusShortName>Independent Senators Group</CaucusShortName>
+          <ParliamentNumber>43</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>55</MeetingNumber>
+          <SpeechDateTime>2021-06-28T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/432/debates/055db_2021-06-28-e#38</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/432/debates/055db_2021-06-28-f#38</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/432/debates/055db_2021-06-28-e#38</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>10310</PersonId>
+          <PersonOfficialFirstName>Kim</PersonOfficialFirstName>
+          <PersonOfficialLastName>Pate</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Kim Pate</PersonName>
+          <SenateSystemAffiliationId>207802</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Independent Senators Group</CaucusShortNameEn>
+          <CaucusShortNameFr>Groupe des sénateurs indépendants</CaucusShortNameFr>
+          <CaucusShortName>Independent Senators Group</CaucusShortName>
+          <ParliamentNumber>43</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>55</MeetingNumber>
+          <SpeechDateTime>2021-06-28T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/432/debates/055db_2021-06-28-e#38</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/432/debates/055db_2021-06-28-f#38</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/432/debates/055db_2021-06-28-e#38</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>104496</PersonId>
+          <PersonOfficialFirstName>Tony</PersonOfficialFirstName>
+          <PersonOfficialLastName>Loffreda</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Tony Loffreda</PersonName>
+          <SenateSystemAffiliationId>221573</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Independent Senators Group</CaucusShortNameEn>
+          <CaucusShortNameFr>Groupe des sénateurs indépendants</CaucusShortNameFr>
+          <CaucusShortName>Independent Senators Group</CaucusShortName>
+          <ParliamentNumber>43</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>55</MeetingNumber>
+          <SpeechDateTime>2021-06-28T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/432/debates/055db_2021-06-28-e#38</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/432/debates/055db_2021-06-28-f#38</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/432/debates/055db_2021-06-28-e#38</Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>43</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2021-06-29T21:20:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>56</Number>
+          <Date>2021-06-29T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2021-06-29T21:20:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>Bill passed by the Senate without amendment</AdditionalInformationEn>
+          <AdditionalInformationFr>Projet de loi adopté par le Sénat sans amendement</AdditionalInformationFr>
+          <AdditionalInformation>Bill passed by the Senate without amendment</AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2021-06-29T21:20:00</EventStartDateTime>
+          <EventEndDateTime>2021-06-29T21:20:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2021-06-29T21:20:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <RoyalAssent>
+        <BillStageId>60050</BillStageId>
+        <BillStageNameEn>Royal assent</BillStageNameEn>
+        <BillStageNameFr>Sanction royale</BillStageNameFr>
+        <BillStageName>Royal assent</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>43</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>0</State>
+        <StateNameEn />
+        <StateNameFr />
+        <StateAsOfDate />
+        <StateName />
+        <Committee />
+        <Sittings>
+          <NameEn>Royal assent</NameEn>
+          <NameFr>Sanction royale</NameFr>
+          <Name>Royal assent</Name>
+          <Number>56</Number>
+          <Date>2021-06-29T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60149</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Royal assent</EventNameEn>
+          <EventNameFr>Sanction royale</EventNameFr>
+          <EventName>Royal assent</EventName>
+          <EventDateTime>2021-06-29T22:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60149</EventTypeId>
+          <EventTypeNameEn>Royal assent</EventTypeNameEn>
+          <EventTypeNameFr>Sanction royale</EventTypeNameFr>
+          <EventTypeName>Royal assent</EventTypeName>
+          <EventStartDateTime>2021-06-29T22:00:00</EventStartDateTime>
+          <EventEndDateTime>2021-06-29T22:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2021-06-29T22:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </RoyalAssent>
+    </BillStages>
+    <Publications>
+      <PublicationId>11294458</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>11402981</PublicationId>
+      <PublicationTypeId>80702</PublicationTypeId>
+      <PublicationTypeNameEn>As amended by committee</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel que modifié par le comité</PublicationTypeNameFr>
+      <PublicationTypeName>As amended by committee</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>11460300</PublicationId>
+      <PublicationTypeId>80703</PublicationTypeId>
+      <PublicationTypeNameEn>As passed by the House of Commons</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel qu'adopté par la Chambre des communes</PublicationTypeNameFr>
+      <PublicationTypeName>As passed by the House of Commons</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>11467755</PublicationId>
+      <PublicationTypeId>80704</PublicationTypeId>
+      <PublicationTypeNameEn>Royal Assent</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Royal Assent</PublicationTypeNameFr>
+      <PublicationTypeName>Royal Assent</PublicationTypeName>
+    </Publications>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>123</DivisionNumber>
+      <DivisionSubjectEn>2nd reading of Bill C-30, An Act to implement certain provisions of the budget tabled in Parliament on April 19, 2021 and other measures</DivisionSubjectEn>
+      <DivisionSubjectFr>2e lecture du projet de loi C-30, Loi portant exécution de certaines dispositions du budget déposé au Parlement le 19 avril 2021 et mettant en œuvre d'autres mesures</DivisionSubjectFr>
+      <DivisionSubject>2nd reading of Bill C-30, An Act to implement certain provisions of the budget tabled in Parliament on April 19, 2021 and other measures</DivisionSubject>
+      <DivisionVotesYeas>212</DivisionVotesYeas>
+      <DivisionVotesNays>119</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>331</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2021-05-27T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>140</DivisionNumber>
+      <DivisionSubjectEn>Tme allocation for Bill C-30, An Act to implement certain provisions of the budget tabled in Parliament on April 19, 2021 and other measures</DivisionSubjectEn>
+      <DivisionSubjectFr>Atribution de temps pour le projet de loi C-30, Loi portant exécution de certaines dispositions du budget déposé au Parlement le 19 avril 2021 et mettant en œuvre d'autres mesures</DivisionSubjectFr>
+      <DivisionSubject>Tme allocation for Bill C-30, An Act to implement certain provisions of the budget tabled in Parliament on April 19, 2021 and other measures</DivisionSubject>
+      <DivisionVotesYeas>184</DivisionVotesYeas>
+      <DivisionVotesNays>144</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>328</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2021-06-14T11:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>159</DivisionNumber>
+      <DivisionSubjectEn>Bill C-30, An Act to implement certain provisions of the budget tabled in Parliament on April 19, 2021 and other measures (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-30, Loi portant exécution de certaines dispositions du budget déposé au Parlement le 19 avril 2021 et mettant en œuvre d'autres mesures (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-30, An Act to implement certain provisions of the budget tabled in Parliament on April 19, 2021 and other measures (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>155</DivisionVotesYeas>
+      <DivisionVotesNays>176</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>331</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2021-06-21T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>160</DivisionNumber>
+      <DivisionSubjectEn>Concurrence at report stage of Bill C-30, An Act to implement certain provisions of the budget tabled in Parliament on April 19, 2021 and other measures</DivisionSubjectEn>
+      <DivisionSubjectFr>Adoption à l'étape du rapport du projet de loi C-30, Loi portant exécution de certaines dispositions du budget déposé au Parlement le 19 avril 2021 et mettant en œuvre d'autres mesures</DivisionSubjectFr>
+      <DivisionSubject>Concurrence at report stage of Bill C-30, An Act to implement certain provisions of the budget tabled in Parliament on April 19, 2021 and other measures</DivisionSubject>
+      <DivisionVotesYeas>211</DivisionVotesYeas>
+      <DivisionVotesNays>119</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>330</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2021-06-21T11:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>185</DivisionNumber>
+      <DivisionSubjectEn>3rd reading and adoption of Bill C-30, An Act to implement certain provisions of the budget tabled in Parliament on April 19, 2021 and other measures</DivisionSubjectEn>
+      <DivisionSubjectFr>3e lecture et adoption du projet de loi C-30, Loi portant exécution de certaines dispositions du budget déposé au Parlement le 19 avril 2021 et mettant en œuvre d'autres mesures</DivisionSubjectFr>
+      <DivisionSubject>3rd reading and adoption of Bill C-30, An Act to implement certain provisions of the budget tabled in Parliament on April 19, 2021 and other measures</DivisionSubject>
+      <DivisionVotesYeas>211</DivisionVotesYeas>
+      <DivisionVotesNays>121</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>332</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2021-06-23T14:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Costing Budget 2021 Measures</TitleEn>
+      <TitleFr>Établissement du coût des mesures du Budget 2021</TitleFr>
+      <Title>Costing Budget 2021 Measures</Title>
+      <WebReferenceTypeId>13</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Legislative Costing Note</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Note sur l'évaluation du coût d'une mesure législative</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Legislative Costing Note</WebReferenceTypeName>
+      <UrlEn>https://www.pbo-dpb.gc.ca/en/budget-2021</UrlEn>
+      <UrlFr>https://www.pbo-dpb.gc.ca/fr/budget-2021</UrlFr>
+      <Url>https://www.pbo-dpb.gc.ca/en/budget-2021</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Charter Statement - Bill C-30: An act to implement certain provisions of the budget tabled in Parliament on April 19, 2021 and other measures</TitleEn>
+      <TitleFr>Énoncé concernant la Charte - Projet de loi C-30 : Loi portant exécution de certaines dispositions du budget déposé au Parlement le 19 avril 2021 et mettant en œuvre d'autres mesures</TitleFr>
+      <Title>Charter Statement - Bill C-30: An act to implement certain provisions of the budget tabled in Parliament on April 19, 2021 and other measures</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.justice.gc.ca/eng/csj-sjc/pl/charter-charte/c30.html</UrlEn>
+      <UrlFr>https://www.justice.gc.ca/fra/sjc-csj/pl/charte-charter/c30.html</UrlFr>
+      <Url>https://www.justice.gc.ca/eng/csj-sjc/pl/charter-charte/c30.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Government Introduces Legislation to Deliver Jobs and Growth</TitleEn>
+      <TitleFr>Le gouvernement dépose un projet de loi pour créer des emplois et de la croissance</TitleFr>
+      <Title>Government Introduces Legislation to Deliver Jobs and Growth</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/department-finance/news/2021/04/government-introduces-legislation-to-deliver-jobs-and-growth.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/ministere-finances/nouvelles/2021/04/le-gouvernement-depose-un-projet-de-loi-pour-creer-des-emplois-et-de-la-croissance.html</UrlFr>
+      <Url>https://www.canada.ca/en/department-finance/news/2021/04/government-introduces-legislation-to-deliver-jobs-and-growth.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Budget 2021: A Recovery Plan for Jobs, Growth, and Resilience (News release)</TitleEn>
+      <TitleFr>Budget 2021 : une relance axée sur les emplois, la croissance et la résilience (communiqué de presse)</TitleFr>
+      <Title>Budget 2021: A Recovery Plan for Jobs, Growth, and Resilience (News release)</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/department-finance/news/2021/04/budget-2021-a-recovery-plan-for-jobs-growth-and-resilience.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/ministere-finances/nouvelles/2021/04/budget-2021-une-relance-axee-sur-les-emplois-la-croissance-et-la-resilience.html</UrlFr>
+      <Url>https://www.canada.ca/en/department-finance/news/2021/04/budget-2021-a-recovery-plan-for-jobs-growth-and-resilience.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Budget 2021: A Recovery Plan for Jobs, Growth, and Resilience</TitleEn>
+      <TitleFr>Budget 2021 : une relance axée sur les emplois, la croissance et la résilience</TitleFr>
+      <Title>Budget 2021: A Recovery Plan for Jobs, Growth, and Resilience</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.budget.gc.ca/2021/home-accueil-en.html</UrlEn>
+      <UrlFr>https://www.budget.gc.ca/2021/home-accueil-fr.html</UrlFr>
+      <Url>https://www.budget.gc.ca/2021/home-accueil-en.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Budget 2021: Address by the Deputy Prime Minister and Minister of Finance</TitleEn>
+      <TitleFr>Budget de 2021: allocution de la vice-première ministre et ministre des Finances</TitleFr>
+      <Title>Budget 2021: Address by the Deputy Prime Minister and Minister of Finance</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/department-finance/news/2021/04/budget-2021-address-by-the-deputy-prime-minister-and-minister-of-finance.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/ministere-finances/nouvelles/2021/04/budget-de-2021-allocution-de-la-vice-premiere-ministre-et-ministre-des-finances.html</UrlFr>
+      <Url>https://www.canada.ca/en/department-finance/news/2021/04/budget-2021-address-by-the-deputy-prime-minister-and-minister-of-finance.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Employment Insurance Sickness Benefits Extension</TitleEn>
+      <TitleFr>Prolongation des prestations de maladie de l'assurance-emploi</TitleFr>
+      <Title>Employment Insurance Sickness Benefits Extension</Title>
+      <WebReferenceTypeId>13</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Legislative Costing Note</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Note sur l'évaluation du coût d'une mesure législative</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Legislative Costing Note</WebReferenceTypeName>
+      <UrlEn>https://www.pbo-dpb.gc.ca/en/blog/legislative-costing-notes--notes-evaluation-cout-mesure-legislative/LEG-2122-009-S--employment-insurance-sickness-benefits-extension--prolongation-prestations-maladie-assurance-emploi</UrlEn>
+      <UrlFr>https://www.pbo-dpb.gc.ca/fr/blog/legislative-costing-notes--notes-evaluation-cout-mesure-legislative/LEG-2122-009-S--employment-insurance-sickness-benefits-extension--prolongation-prestations-maladie-assurance-emploi</UrlFr>
+      <Url>https://www.pbo-dpb.gc.ca/en/blog/legislative-costing-notes--notes-evaluation-cout-mesure-legislative/LEG-2122-009-S--employment-insurance-sickness-benefits-extension--prolongation-prestations-maladie-assurance-emploi</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Remarks by the Deputy Prime Minister and Minister of Finance to Highlight the Expansion of the Canada Workers Benefit</TitleEn>
+      <TitleFr>Allocution de la vice-première ministre et ministre des Finances au sujet de l'élargissement de l'Allocation canadienne pour les travailleurs</TitleFr>
+      <Title>Remarks by the Deputy Prime Minister and Minister of Finance to Highlight the Expansion of the Canada Workers Benefit</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/department-finance/news/2021/07/remarks-by-the-deputy-prime-minister-and-minister-of-finance-to-highlight-the-expansion-of-the-canada-workers-benefit.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/ministere-finances/nouvelles/2021/07/allocution-de-la-vice-premiere-ministre-et-ministre-des-finances-au-sujet-de-lelargissement-de-lallocation-canadienne-pour-les-travailleurs.html</UrlFr>
+      <Url>https://www.canada.ca/en/department-finance/news/2021/07/remarks-by-the-deputy-prime-minister-and-minister-of-finance-to-highlight-the-expansion-of-the-canada-workers-benefit.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Important amendments to the Public Service Employment Act</TitleEn>
+      <TitleFr>Modifications importantes à la Loi sur l'emploi dans la fonction publique</TitleFr>
+      <Title>Important amendments to the Public Service Employment Act</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/public-service-commission/news/2021/07/important-amendments-to-the-public-service-employment-act.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/commission-fonction-publique/nouvelles/2021/07/modifications-importantes-a-la-loi-sur-lemploi-dans-la-fonction-publique.html</UrlFr>
+      <Url>https://www.canada.ca/en/public-service-commission/news/2021/07/important-amendments-to-the-public-service-employment-act.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Taking Action to Address Potential Barriers in Staffing:  Public Service Employment Act amendments receive Royal Assent</TitleEn>
+      <TitleFr>Prendre des mesures pour éliminer les obstacles éventuels dans la dotation :  Les modifications apportées à la Loi sur l'emploi dans la fonction publique reçoivent la sanction royale</TitleFr>
+      <Title>Taking Action to Address Potential Barriers in Staffing:  Public Service Employment Act amendments receive Royal Assent</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/treasury-board-secretariat/news/2021/07/taking-action-to-address-potential-barriers-in-staffing-public-service-employment-act-amendments-receive-royal-assent.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/secretariat-conseil-tresor/nouvelles/2021/07/prendre-des-mesures-pour-eliminer-les-obstacles-eventuels-dans-la-dotation-les-modifications-apportees-a-la-loi-sur-lemploi-dans-la-fonction-publiq.html</UrlFr>
+      <Url>https://www.canada.ca/en/treasury-board-secretariat/news/2021/07/taking-action-to-address-potential-barriers-in-staffing-public-service-employment-act-amendments-receive-royal-assent.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Audit of Employment Equity Representation in Recruitment</TitleEn>
+      <TitleFr>Vérification portant sur la représentation des groupes visés par l'équité en matière d'emploi lors du recrutement</TitleFr>
+      <Title>Audit of Employment Equity Representation in Recruitment</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/public-service-commission/services/publications/audit-of-employment-equity-representation-in-recruitment.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/commission-fonction-publique/services/publications/verification-representation-groupes-vises-equite-matiere-demploi-lors-du-recrutement.html</UrlFr>
+      <Url>https://www.canada.ca/en/public-service-commission/services/publications/audit-of-employment-equity-representation-in-recruitment.html</Url>
+    </WebReferences>
+    <SenatePreStudyCommitteeDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+      <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+      <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+      <CommitteeAcronym>NFFN</CommitteeAcronym>
+      <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+      <StudyActivityId />
+      <OrganizationTypeId />
+      <ParentCommittee />
+      <IsSubCommittee>false</IsSubCommittee>
+      <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+      <IsSenateCommittee>false</IsSenateCommittee>
+      <IsJointCommittee>false</IsJointCommittee>
+    </SenatePreStudyCommitteeDetails>
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
