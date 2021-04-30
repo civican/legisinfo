@@ -1,0 +1,642 @@
+<Bills>
+  <Bill>
+    <Id>11291697</Id>
+    <NumberCode>S-4</NumberCode>
+    <NumberPrefix>S</NumberPrefix>
+    <Number>4</Number>
+    <LongTitleEn>An Act to amend the Parliament of Canada Act and to make consequential and related amendments to other Acts</LongTitleEn>
+    <LongTitleFr>Loi modifiant la Loi sur le Parlement du Canada et apportant des modifications corrélative et connexes à d'autres lois</LongTitleFr>
+    <LongTitle>An Act to amend the Parliament of Canada Act and to make consequential and related amendments to other Acts</LongTitle>
+    <ShortTitleEn>
+    </ShortTitleEn>
+    <ShortTitleFr>
+    </ShortTitleFr>
+    <ShortTitle>
+    </ShortTitle>
+    <StatusId>348</StatusId>
+    <StatusNameEn>Senate bill awaiting first reading in the House of Commons</StatusNameEn>
+    <StatusNameFr>Projet de loi du Sénat en attente de la première lecture à la Chambre des communes</StatusNameFr>
+    <StatusName>Senate bill awaiting first reading in the House of Commons</StatusName>
+    <LatestCompletedMajorStageId>60045</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>Third reading</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Troisième lecture</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>Third reading</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>Third reading in the Senate</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>2</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>Senate</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Sénat</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>Senate</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60031</OngoingStageId>
+    <OngoingStageNameEn>Third reading</OngoingStageNameEn>
+    <OngoingStageNameFr>Troisième lecture</OngoingStageNameFr>
+    <OngoingStageName>Third reading</OngoingStageName>
+    <LatestCompletedBillStageId>60031</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Third reading</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Troisième lecture</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Third reading</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>2</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>Senate</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Sénat</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>Senate</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2021-06-01T16:10:00</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>43</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <BillDocumentTypeId>80759</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>Senate Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Sénat)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>Senate Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>2</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>Senate</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Sénat</OriginatingChamberNameFr>
+    <OriginatingChamberName>Senate</OriginatingChamberName>
+    <IsHouseBill>false</IsHouseBill>
+    <IsSenateBill>true</IsSenateBill>
+    <SponsorSenateSystemAffiliationId>208003</SponsorSenateSystemAffiliationId>
+    <SponsorPersonId>95498</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Marc</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Gold</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Marc Gold</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>
+    </SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>
+    </SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>
+    </SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Senator</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>sénateur</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Senator</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>3</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Senator</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>sénateur</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Senator</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>0</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>
+    </SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>
+    </SponsorConstituencyNameFr>
+    <SponsorConstituencyName>
+    </SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60134</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Third reading</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Troisième lecture</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60031</LatestBillEventStageId>
+    <LatestBillEventTypeName>Third reading</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2021-06-01T14:00:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>2</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>Senate</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Sénat</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>Senate</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>60070</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>43</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>Bill passed by the Senate without amendment</LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>Projet de loi adopté par le Sénat sans amendement</LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>Bill passed by the Senate without amendment</LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime />
+    <PassedHouseSecondReadingDateTime />
+    <PassedHouseThirdReadingDateTime />
+    <PassedSenateFirstReadingDateTime>2021-04-30T00:00:00</PassedSenateFirstReadingDateTime>
+    <PassedSenateSecondReadingDateTime>2021-05-26T15:15:00</PassedSenateSecondReadingDateTime>
+    <PassedSenateThirdReadingDateTime>2021-06-01T16:10:00</PassedSenateThirdReadingDateTime>
+    <ReceivedRoyalAssentDateTime />
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>true</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>false</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>false</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>false</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>false</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>&lt;div&gt;On May 25, 2021, the Senate adopted the following motion:&lt;p&gt;&lt;/p&gt;That, notwithstanding any provisions of the Rules, usual practice or previous order, when the Senate sits on Thursday, May 27, 2021:&lt;p&gt;&lt;/p&gt;1. the sitting start at 1:30 p.m.;
+
+&lt;p&gt;&lt;/p&gt;2. the Senate resolve itself into a Committee of the Whole at 1:55 p.m. to consider the subject matter of Bill S-4, An Act to amend the Parliament of Canada Act and to make consequential and related amendments to other Acts, with any proceedings then before the Senate being interrupted until the end of Committee of the Whole, which shall last a maximum of 95 minutes;
+
+&lt;p&gt;&lt;/p&gt;3. if the bells are ringing for a vote at the time the committee is to meet, they be interrupted for the Committee of the Whole at that time, and resume once the committee has completed its work for the balance of any time remaining;
+
+&lt;p&gt;&lt;/p&gt;4. the Committee of the Whole on the subject matter of Bill S-4 receive the Honourable Dominic LeBlanc, P.C., M.P., Minister of Intergovernmental Affairs, accompanied by at most three officials;
+
+&lt;p&gt;&lt;/p&gt;5. the witness's introductory remarks last a maximum total of five minutes;
+
+&lt;p&gt;&lt;/p&gt;6. if a senator does not use the entire period of 10 minutes for debate provided under rule 12-32(3)(d), including the responses of the witnesses, that senator may yield the balance of time to another senator; and
+
+&lt;p&gt;&lt;/p&gt;7. the sitting adjourn no later than 8:30 p.m., as if that were the ordinary time of adjournment.&lt;/div&gt;</NotesEn>
+    <NotesFr>&lt;div&gt;Le 25 mai 2021, le Sénat a adopté la motion suivante : &lt;p&gt;&lt;/p&gt;Que, nonobstant toute disposition du Règlement, toute pratique habituelle ou tout ordre antérieur, lorsque le Sénat siégera le jeudi 27 mai 2021 :
+
+&lt;p&gt;&lt;/p&gt;1. la séance commence à 13 h 30;
+
+&lt;p&gt;&lt;/p&gt;2. le Sénat se forme en comité plénier à 13 h 55 afin d'étudier la teneur du projet de loi S-4, Loi modifiant la Loi sur le Parlement du Canada et apportant des modifications corrélatives et connexes à d'autres lois, toutes les délibérations alors en cours au Sénat étant interrompues jusqu'à la fin du comité plénier, qui sera d'une durée maximale de 95 minutes;
+
+&lt;p&gt;&lt;/p&gt;3. si la sonnerie d'appel pour un vote retentit au moment où le comité doit se réunir, elle cesse de se faire entendre pendant le comité plénier et retentisse de nouveau une fois les travaux du comité terminés pour le temps qu'il reste;
+
+&lt;p&gt;&lt;/p&gt;4. le comité plénier sur la teneur du projet de loi S-4 reçoive l'honorable Dominic LeBlanc, c.p., député, ministre des Affaires intergouvernementales, accompagné d'au plus trois fonctionnaires;
+
+&lt;p&gt;&lt;/p&gt;5. les remarques introductives du témoin durent un total maximal de cinq minutes;
+
+&lt;p&gt;&lt;/p&gt;6. si un sénateur n'utilise pas l'entière période de 10 minutes prévue pour les interventions à l'article 12-32(3)d) du Règlement, les réponses des témoins y comprises, il puisse céder le reste de son temps à un autre sénateur;
+
+&lt;p&gt;&lt;/p&gt;7. la séance soit levée au plus tard à 20 h 30, comme si cette heure était l'heure fixée pour la clôture de la séance.
+
+&lt;/div&gt;</NotesFr>
+    <Notes>&lt;div&gt;On May 25, 2021, the Senate adopted the following motion:&lt;p&gt;&lt;/p&gt;That, notwithstanding any provisions of the Rules, usual practice or previous order, when the Senate sits on Thursday, May 27, 2021:&lt;p&gt;&lt;/p&gt;1. the sitting start at 1:30 p.m.;
+
+&lt;p&gt;&lt;/p&gt;2. the Senate resolve itself into a Committee of the Whole at 1:55 p.m. to consider the subject matter of Bill S-4, An Act to amend the Parliament of Canada Act and to make consequential and related amendments to other Acts, with any proceedings then before the Senate being interrupted until the end of Committee of the Whole, which shall last a maximum of 95 minutes;
+
+&lt;p&gt;&lt;/p&gt;3. if the bells are ringing for a vote at the time the committee is to meet, they be interrupted for the Committee of the Whole at that time, and resume once the committee has completed its work for the balance of any time remaining;
+
+&lt;p&gt;&lt;/p&gt;4. the Committee of the Whole on the subject matter of Bill S-4 receive the Honourable Dominic LeBlanc, P.C., M.P., Minister of Intergovernmental Affairs, accompanied by at most three officials;
+
+&lt;p&gt;&lt;/p&gt;5. the witness's introductory remarks last a maximum total of five minutes;
+
+&lt;p&gt;&lt;/p&gt;6. if a senator does not use the entire period of 10 minutes for debate provided under rule 12-32(3)(d), including the responses of the witnesses, that senator may yield the balance of time to another senator; and
+
+&lt;p&gt;&lt;/p&gt;7. the sitting adjourn no later than 8:30 p.m., as if that were the ordinary time of adjournment.&lt;/div&gt;</Notes>
+    <ShortLegislativeSummaryEn>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information and Research Service of the Library of Parliament. Meanwhile, the following executive summary is available.&lt;br/&gt;&lt;br/&gt;On 30 April 2021, Sen. Marc Gold introduced Bill S-4, An Act to amend the Parliament of Canada Act and to make consequential and related amendments to other Acts, in the Senate and it was given first reading.    &lt;br/&gt;&lt;br/&gt;Bill S-4 amends the Parliament of Canada Act and makes consequential and related amendments to other Acts to, among other things,&lt;br/&gt;(a) change the additional annual allowances that are paid to senators who occupy certain positions so that the government's representatives and the Opposition in the Senate are eligible for the allowances for five positions each and the three other recognized parties or parliamentary groups in the Senate with the greatest number of members are eligible for the allowances for four positions each;&lt;br/&gt;(b) provide that the Leader of the Government in the Senate or Government Representative in the Senate, the Leader of the Opposition in the Senate and the Leader or Facilitator of every other recognized party or parliamentary group in the Senate are to be consulted on the appointment of certain officers and agents of Parliament; and&lt;br/&gt;(c) provide that the Leader of the Government in the Senate or Government Representative in the Senate, the Leader of the Opposition in the Senate and the Leader or Facilitator of every other recognized party or parliamentary group in the Senate may change the membership of the Standing Senate Committee on Internal Economy, Budgets and Administration.&lt;/div&gt;</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>&lt;div&gt;Le Service d'information et de recherche parlementaires de la Bibliothèque du Parlement rédige actuellement le résumé législatif de ce projet de loi. Entre-temps, le Service met à votre disposition le sommaire suivant.  &lt;br/&gt;&lt;br/&gt;Le 27 avril 2021, Sén. Marc Gold a déposé le projet de loi S-4, Loi modifiant la Loi sur le Parlement du Canada et apportant des modifications corrélative et connexes à d'autres lois, au Sénat en première lecture.  &lt;br/&gt;&lt;br/&gt;Le projet de loi S-4 modifie la Loi sur le Parlement du Canada et apporte des modifications corrélative et connexes à d'autres lois afin, notamment :&lt;br/&gt;a) de modifier les indemnités annuelles supplémentaires que reçoivent les sénateurs occupant certains postes de sorte qu'elles soient versées à l'égard de cinq postes occupés par les représentants du gouvernement au Sénat et de cinq postes occupés par l'opposition et, s'agissant des trois autres partis ou groupes parlementaires reconnus au Sénat qui comptent le plus grand nombre de sénateurs, à l'égard de quatre postes chacun;&lt;br/&gt;b) de prévoir l'obligation de consulter le leader ou représentant du gouvernement au Sénat, le leader de l'opposition au Sénat et le leader ou facilitateur de chacun des autres partis ou groupes parlementaires reconnus au Sénat au sujet des nominations de certains hauts fonctionnaires et agents du Parlement;&lt;br/&gt;c) d'autoriser le leader ou représentant du gouvernement au Sénat, le leader de l'opposition au Sénat et le leader ou facilitateur de chacun des autres partis ou groupes parlementaires reconnus au Sénat à apporter des changements à la composition du Comité sénatorial permanent de la régie interne, des budgets et de l'administration.&lt;/div&gt;</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information and Research Service of the Library of Parliament. Meanwhile, the following executive summary is available.&lt;br/&gt;&lt;br/&gt;On 30 April 2021, Sen. Marc Gold introduced Bill S-4, An Act to amend the Parliament of Canada Act and to make consequential and related amendments to other Acts, in the Senate and it was given first reading.    &lt;br/&gt;&lt;br/&gt;Bill S-4 amends the Parliament of Canada Act and makes consequential and related amendments to other Acts to, among other things,&lt;br/&gt;(a) change the additional annual allowances that are paid to senators who occupy certain positions so that the government's representatives and the Opposition in the Senate are eligible for the allowances for five positions each and the three other recognized parties or parliamentary groups in the Senate with the greatest number of members are eligible for the allowances for four positions each;&lt;br/&gt;(b) provide that the Leader of the Government in the Senate or Government Representative in the Senate, the Leader of the Opposition in the Senate and the Leader or Facilitator of every other recognized party or parliamentary group in the Senate are to be consulted on the appointment of certain officers and agents of Parliament; and&lt;br/&gt;(c) provide that the Leader of the Government in the Senate or Government Representative in the Senate, the Leader of the Opposition in the Senate and the Leader or Facilitator of every other recognized party or parliamentary group in the Senate may change the membership of the Standing Senate Committee on Internal Economy, Budgets and Administration.&lt;/div&gt;</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear />
+    <StatuteChapter />
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteint</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>43</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2021-04-30T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>36</Number>
+          <Date>2021-04-30T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2021-04-30T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2021-04-30T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2021-04-30T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2021-04-30T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>43</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2021-05-26T15:15:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>39</Number>
+          <Date>2021-05-06T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>40</Number>
+          <Date>2021-05-25T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>41</Number>
+          <Date>2021-05-26T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60120</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading</EventNameEn>
+          <EventNameFr>Deuxième lecture</EventNameFr>
+          <EventName>Second reading</EventName>
+          <EventDateTime>2021-05-26T15:15:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60120</EventTypeId>
+          <EventTypeNameEn>Second reading</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture</EventTypeNameFr>
+          <EventTypeName>Second reading</EventTypeName>
+          <EventStartDateTime>2021-05-26T15:15:00</EventStartDateTime>
+          <EventEndDateTime>2021-05-26T15:15:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2021-05-26T15:15:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>4486</PersonId>
+          <PersonOfficialFirstName>Peter</PersonOfficialFirstName>
+          <PersonOfficialLastName>Harder</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Peter Harder</PersonName>
+          <SenateSystemAffiliationId>206019</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Progressive Senate Group</CaucusShortNameEn>
+          <CaucusShortNameFr>Groupe progressiste du Sénat</CaucusShortNameFr>
+          <CaucusShortName>Progressive Senate Group</CaucusShortName>
+          <ParliamentNumber>43</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>39</MeetingNumber>
+          <SpeechDateTime>2021-05-06T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/432/debates/039db_2021-05-06-e#48</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/432/debates/039db_2021-05-06-f#48</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/432/debates/039db_2021-05-06-e#48</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>7056</PersonId>
+          <PersonOfficialFirstName>Yuen Pau</PersonOfficialFirstName>
+          <PersonOfficialLastName>Woo</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Yuen Pau Woo</PersonName>
+          <SenateSystemAffiliationId>207794</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Independent Senators Group</CaucusShortNameEn>
+          <CaucusShortNameFr>Groupe des sénateurs indépendants</CaucusShortNameFr>
+          <CaucusShortName>Independent Senators Group</CaucusShortName>
+          <ParliamentNumber>43</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>39</MeetingNumber>
+          <SpeechDateTime>2021-05-06T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/432/debates/039db_2021-05-06-e#48</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/432/debates/039db_2021-05-06-f#48</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/432/debates/039db_2021-05-06-e#48</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>1846</PersonId>
+          <PersonOfficialFirstName>Jane</PersonOfficialFirstName>
+          <PersonOfficialLastName>Cordy</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Jane Cordy</PersonName>
+          <SenateSystemAffiliationId>159</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Progressive Senate Group</CaucusShortNameEn>
+          <CaucusShortNameFr>Groupe progressiste du Sénat</CaucusShortNameFr>
+          <CaucusShortName>Progressive Senate Group</CaucusShortName>
+          <ParliamentNumber>43</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>39</MeetingNumber>
+          <SpeechDateTime>2021-05-06T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/432/debates/039db_2021-05-06-e#48</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/432/debates/039db_2021-05-06-f#48</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/432/debates/039db_2021-05-06-e#48</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>19501</PersonId>
+          <PersonOfficialFirstName>Donald Neil</PersonOfficialFirstName>
+          <PersonOfficialLastName>Plett</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Donald Neil Plett</PersonName>
+          <SenateSystemAffiliationId>2858</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>43</ParliamentNumber>
+          <SessionNumber>2</SessionNumber>
+          <MeetingNumber>39</MeetingNumber>
+          <SpeechDateTime>2021-05-06T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/432/debates/039db_2021-05-06-e#48</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/432/debates/039db_2021-05-06-f#48</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/432/debates/039db_2021-05-06-e#48</Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>43</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2021-06-01T16:10:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>42</Number>
+          <Date>2021-05-27T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>43</Number>
+          <Date>2021-06-01T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2021-06-01T16:10:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>Bill passed by the Senate without amendment</AdditionalInformationEn>
+          <AdditionalInformationFr>Projet de loi adopté par le Sénat sans amendement</AdditionalInformationFr>
+          <AdditionalInformation>Bill passed by the Senate without amendment</AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2021-06-01T16:10:00</EventStartDateTime>
+          <EventEndDateTime>2021-06-01T16:10:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2021-06-01T16:10:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+    </BillStages>
+    <Publications>
+      <PublicationId>11291715</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>11386488</PublicationId>
+      <PublicationTypeId>80703</PublicationTypeId>
+      <PublicationTypeNameEn>As passed by the Senate</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel qu'adopté par le Sénat</PublicationTypeNameFr>
+      <PublicationTypeName>As passed by the Senate</PublicationTypeName>
+    </Publications>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Charter Statement - Bill S-4: An Act to amend the Parliament of Canada Act and to make consequential and related amendments to other Acts</TitleEn>
+      <TitleFr>Énoncé concernant la Charte - Projet de loi S-4 : Loi modifiant la Loi sur le Parlement du Canada et apportant des modifications corrélative et connexes à d'autres lois</TitleFr>
+      <Title>Charter Statement - Bill S-4: An Act to amend the Parliament of Canada Act and to make consequential and related amendments to other Acts</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.justice.gc.ca/eng/csj-sjc/pl/charter-charte/s4.html</UrlEn>
+      <UrlFr>https://www.justice.gc.ca/fra/sjc-csj/pl/charte-charter/s4.html</UrlFr>
+      <Url>https://www.justice.gc.ca/eng/csj-sjc/pl/charter-charte/s4.html</Url>
+    </WebReferences>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
