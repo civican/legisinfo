@@ -2,6 +2,8 @@
 
 **Sponsor**: MINISTER OF THE ENVIRONMENT
 
+Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act respecting transparency and accountability in Canada's efforts to achieve net-zero greenhouse gas emissions by the year 2050*".
+
 ## Summary
 
 This enactment requires that national targets for the reduction of greenhouse gas emissions in Canada be set, with the objective of attaining net-zero emissions by 2050. The targets are to be set by the Minister of the Environment for 2030, 2035, 2040 and 2045.
@@ -14,9 +16,11 @@ provides for public participation;
 
 establishes an advisory body to provide the Minister of the Environment with advice with respect to achieving net-zero emissions by 2050 and matters that are referred to it by the Minister;
 
-requires the Minister of Finance to prepare an annual report respecting key measures that the federal public administration has taken to manage its financial risks and opportunities related to climate change; and
+requires the Minister of Finance to prepare an annual report respecting key measures that the federal public administration has taken to manage its financial risks and opportunities related to climate change;
 
-requires the Commissioner of the Environment and Sustainable Development to, at least once every 5 years, examine and report on the Government of Canada's implementation of measures aimed at mitigating climate change.
+requires the Commissioner of the Environment and Sustainable Development to, at least once every 5 years, examine and report on the Government of Canada's implementation of measures aimed at mitigating climate change; and
+
+provides for a comprehensive review of the Act five years after its coming into force.
 
 
 ## TABLE OF PROVISIONS
@@ -56,6 +60,8 @@ Minister
 
 Target — 2050
 
+For greater certainty
+
 Targets — milestone years
 
 Setting emissions target
@@ -69,6 +75,8 @@ Amendments
 Other ministers
 
 Public participation
+
+Report
 
 
 ## Reports
@@ -116,6 +124,8 @@ Regulations
 
 `Statutory Instruments Act`
 
+Review of Act
+
 
 ## Consequential Amendment
 
@@ -138,13 +148,15 @@ Whereas, the Intergovernmental Panel on Climate Change concluded that achieving 
 
 Whereas the Government of Canada is committed to achieving and exceeding the target for 2030 set out in its nationally determined contribution communicated in accordance with the Paris Agreement;
 
+Whereas the Government of Canada has both international greenhouse gas emissions reporting obligations under the United Nations Framework Convention on Climate Change, including the national inventory report, the nationally determined contribution, the biennial report and the biennial transparency report, and domestic reporting obligations under Acts of Parliament, including the annual report under the `Greenhouse Gas Pollution Pricing Act` and the Minister of the Environment's obligations under the Pan-Canadian Framework on Clean Growth and Climate Change, and it wishes to improve transparency and accountability in respect of greenhouse gas emissions targets by providing additional domestic reporting obligations;
+
 Whereas the Government of Canada has committed to developing a plan to set Canada on a path to achieve a prosperous net-zero-emissions future by 2050, supported by public participation and expert advice;
 
-Whereas the Government of Canada is committed to advancing the recognition-of-rights approach reflected in section 35 of the `Constitution Act, 1982` and in the United Nations Declaration on the Rights of Indigenous Peoples and to strengthening its collaboration with the Indigenous peoples of Canada with respect to measures for mitigating climate change;
+Whereas the Government of Canada is committed to advancing the recognition-of-rights approach reflected in section 35 of the `Constitution Act, 1982` and in the United Nations Declaration on the Rights of Indigenous Peoples and to strengthening its collaboration with the Indigenous peoples of Canada with respect to measures for mitigating climate change, **including by taking Indigenous knowledge into account when carrying out the purposes of this Act**;
 
 Whereas the Government of Canada recognizes that its plan to achieve net-zero emissions by 2050 should contribute to making Canada's economy more resilient, inclusive and competitive;
 
-Whereas climate change is a global problem that requires immediate action by all governments in Canada as well as by industry, non-governmental organizations and individual Canadians;
+Whereas climate change is a global problem that requires immediate **and ambitious** action by all governments in Canada as well as by industry, non-governmental organizations and individual Canadians;
 
 And whereas the Government of Canada recognizes that significant collective and individual actions have already been taken and intends to sustain the momentum of those actions;
 
@@ -168,6 +180,8 @@ The following definitions apply in this Act.
 
 **emissions reduction plan** means a plan established under subsection `9`(1). (**plan de réduction des émissions**)
 
+**Indigenous knowledge** means the Indigenous knowledge of the Indigenous peoples of Canada. (**connaissances autochtones**)
+
 **Indigenous peoples of Canada** has the meaning assigned by the definition aboriginal peoples of Canada in subsection 35(2) of the `Constitution Act, 1982`. (**peuples autochtones du Canada**)
 
 **milestone year** means any of the years 2030, 2035, 2040 and 2045. (**année jalon**)
@@ -188,7 +202,7 @@ This Act and its regulations are binding on Her Majesty in right of Canada.
 
 ### Section 4
 
-The purpose of this Act is to require the setting of national targets for the reduction of greenhouse gas emissions based on the best scientific information available and to promote transparency and accountability in relation to achieving those targets, in support of achieving net-zero emissions in Canada by 2050 and Canada's international commitments in respect of mitigating climate change.
+The purpose of this Act is to require the setting of national targets for the reduction of greenhouse gas emissions based on the best scientific information available and to promote transparency, accountability and **immediate and ambitious action** in relation to achieving those targets, in support of achieving net-zero emissions in Canada by 2050 and Canada's international commitments in respect of mitigating climate change.
 
 
 ## Designation of Minister
@@ -204,19 +218,35 @@ The Governor in Council may, by order, designate any federal minister to be the 
 
 The national greenhouse gas emissions target for 2050 is net-zero emissions.
 
+### Section 6.1
+
+For greater certainty, nothing in this Act precludes attaining net-zero emissions before 2050.
+
 ### Section 7
 
   **(1)** The Minister must set a national greenhouse gas emissions target for each milestone year with a view to achieving the target set out in section `6`.
 
-  **(2)** The Minister must set the national greenhouse gas emissions target for 2030 within six months of the day on which this Act comes into force.
+  **(1.1)** Each greenhouse gas emissions target must represent a progression beyond the previous one.
 
-  **(3)** The Minister may, in a decision containing reasons and made available to the public, extend the time limit set out in subsection (2) by 90 days.
+  **(2)** The national greenhouse gas emissions target for 2030 is Canada's nationally determined contribution for that year, communicated under the Paris Agreement, as amended from time to time.
 
-  **(4)** The Minister must set each subsequent national greenhouse gas emissions target at least five years before the beginning of the milestone year to which it relates.
+  **(3)** Each greenhouse gas emissions target must be as ambitious as Canada's most recent nationally determined contribution communicated under the Paris Agreement.
+
+  **(4)** The Minister must set each subsequent national greenhouse gas emissions target at least **9** years **366 days** before the beginning of the milestone year to which it relates.
+
+  **(5)** Within one year after a greenhouse gas emissions target is set for a milestone year after 2030, the Minister must publish a high level description, similar to Canada's nationally determined contribution communicated under the Paris Agreement, of the key greenhouse gas emissions reduction measures the Government of Canada intends to take to achieve that target and the latest projections of the annual greenhouse gas emissions, taking into account the combined impact of those measures in the period between the publication of the description and the milestone year in question.
 
 ### Section 8
 
-When setting a greenhouse gas emissions target, the Minister must take into account the best scientific information available as well as Canada's international commitments with respect to climate change.
+When setting a greenhouse gas emissions target, the Minister must take into account
+
+the best scientific information available;
+
+Canada's international commitments with respect to climate change;
+
+Indigeneous knowledge; and
+
+submissions provided by the advisory body under section 13 and advice it provided in its report under subsection 22(1).
 
 ### Section 9
 
@@ -224,9 +254,14 @@ When setting a greenhouse gas emissions target, the Minister must take into acco
 
   **(2)** The Minister must establish an emissions reduction plan for 2030 within six months after the day on which this Act comes into force.
 
+  **(2.1)** The emissions reduction plan for 2030 must include an interim greenhouse gas emissions
+objective for 2026.
+
   **(3)** The Minister may, in a decision containing reasons and made available to the public, extend the time limit set out in subsection (2) by 90 days.
 
   **(4)** The Minister must establish each subsequent emissions reduction plan at least five years before the beginning of the year to which it relates.
+
+  **(5)** When establishing a greenhouse gas emissions reduction plan, the Minister must take into account the United Nations Declaration on the Rights of Indigenous Peoples, the submissions provided by the advisory body under section 13 and advice it provided in its report under subsection 22(1), and any other considerations that are relevant to the purpose of this Act.
 
 ### Section 10
 
@@ -234,11 +269,21 @@ When setting a greenhouse gas emissions target, the Minister must take into acco
 
     the greenhouse gas emissions target for the year to which the plan relates;
 
+    a summary of Canada's most recent official greenhouse gas emissions inventory and information relevant to the plan that Canada submitted under its international commitments with respect to climate change;
+
     a description of the key emissions reduction measures the Government of Canada intends to take to achieve the greenhouse gas emissions target;
 
-    a description of any relevant sectoral strategies; and
+    a description of how Canada's international commitments with respect to climate change are taken into account in the plan;
 
-    a description of emissions reduction strategies for federal government operations.
+    a description of any relevant sectoral strategies;
+
+    a description of emissions reduction strategies for federal government operations;
+
+    a projected timetable for implementation for each of the measures and strategies described in paragraphs (a) to (d);
+
+    projections of the annual greenhouse gas emission reductions resulting from those combined measures and strategies, including projections for each economic sector that is included in Canada's reports under the Convention; and
+
+    a summary of key cooperative measures or agreements with provinces and other governments in Canada.
 
   **(2)** An emissions reduction plan must explain how the greenhouse gas emissions target set out in the plan and the key measures and the strategies that the plan describes will contribute to Canada achieving net-zero emissions by 2050.
 
@@ -256,6 +301,10 @@ When establishing or amending an emissions reduction plan, the Minister must do 
 
 When setting or amending a national greenhouse gas emissions target or establishing or amending an emissions reduction plan, the Minister must, in the manner the Minister considers it appropriate, provide the governments of the provinces, Indigenous peoples of Canada, the advisory body established under section `20` and interested persons, including any expert the Minister considers appropriate to consult, with the opportunity to make submissions.
 
+### Section 13.1
+
+The Minister must publish on a Government of Canada website, and by any other means that the Minister considers appropriate, a report on the results of the consultations carried out under section 13.
+
 
 ## Reports
 
@@ -263,13 +312,27 @@ When setting or amending a national greenhouse gas emissions target or establish
 
   **(1)** In consultation with the ministers referred to in section `12`, the Minister must prepare at least one progress report relating to each milestone year and to 2050 no later than two years before the beginning of the relevant year.
 
+  **(1.1)** In consultation with the ministers referred to in section 12, the Minister must prepare a progress report in respect of the first milestone year by no later than the end of 2023, another by no later than the end of 2025 and another by no later than the end of 2027.
+
+  **(1.2)** The 2025 progress report must contain an assessment of the 2030 greenhouse gas emissions target, based on the most recent developments in science, technology and greenhouse gas emissions management, and the Minister must consider whether the target should be changed, based on those developments.
+
   **(2)** A progress report must contain
 
     an update on the progress that has been made towards achieving the greenhouse gas emissions target;
 
-    an update on the implementation of the federal measures, sectoral strategies and federal government operations strategies described in the relevant emissions reduction plan; and
+    Canada's most recent published greenhouse gas emissions projections for the next milestone year;
 
-    any other information that the Minister considers appropriate, including information on any additional measures that could be taken to increase the probability of achieving the plan's greenhouse gas emissions target.
+    a summary of Canada's most recent official greenhouse gas emissions inventory and the information, relevant to the report, that Canada submitted under its international commitments with respect to climate change;
+
+    an update on the implementation of the federal measures, sectoral strategies and federal government operations strategies described in the relevant emissions reduction plan and, **if available, updated projections of annual greenhouse gas emission reductions resulting from those combined measures and strategies**;
+
+    an update on the implementation of the key cooperative measures or agreements with provinces or other governments in Canada described in the relevant emissions reduction plan;
+
+    if the projections indicate that the plan's greenhouse gas emissions target will not be met, details of any additional measures that could be taken to increase the probability of achieving that target; and
+
+    any other information that the Minister considers appropriate.
+
+  **(3)** Any progress report relating to 2030 must include an update on the progress that has been made towards achieving the interim greenhouse gas emissions objective for 2026.
 
 ### Section 15
 
@@ -277,11 +340,13 @@ When setting or amending a national greenhouse gas emissions target or establish
 
   **(2)** An assessment report must contain
 
-    a summary of Canada's official greenhouse gas emissions inventory for the relevant year;
+    a summary of Canada's **most recent** official greenhouse gas emissions inventory **and information**, relevant **to the report, that Canada submitted under its international commitments with respect to climate change**;
 
     a statement on whether Canada has achieved its national greenhouse gas emissions target for that year;
 
     an assessment of how the federal measures, sectoral strategies, and federal government operations strategies described in the relevant emissions reduction plan contributed to Canada's efforts to achieve the national greenhouse gas emissions target for that year;
+
+    an assessment of how the key cooperative measures or agreements with provinces or other governments in Canada described in the relevant emissions reduction plan contributed to Canada's efforts to achieve the national greenhouse gas emissions target for that year;
 
     any information relating to adjustments that could be made to subsequent emissions reduction plans in order to increase the probability of meeting subsequent national greenhouse gas emissions targets; and
 
@@ -325,13 +390,35 @@ The Minister may publish the national greenhouse gas emissions target for the mi
 
 ### Section 20
 
-  **(1)** There is established an advisory body whose mandate is to provide the Minister with advice with respect to achieving net-zero emissions by 2050, including advice respecting measures and sectoral strategies that the Government of Canada could implement to achieve a greenhouse gas emissions target, and any matter referred to it by the Minister, and to conduct engagement activities related to achieving net-zero emissions.
+  **(1)** There is established an advisory body, **called the Net-Zero Advisory Body**, whose mandate is to provide the Minister with **independent** advice with respect to achieving net-zero emissions by 2050, including advice respecting
 
-  **(2)** The Minister may determine and amend the terms of reference of the advisory body.
+    greenhouse gas emissions targets under section 7;
+
+    **greenhouse gas emissions reduction plans under section 9, including** measures and sectoral strategies that the Government of Canada could implement to achieve a greenhouse gas emissions target; and
+
+    any matter referred to it by the Minister.
+
+  **(1.1)** The advisory body's mandate also includes conducting engagement activities related to achieving net-zero emissions.
+
+  **(2)** The Minister may determine and amend the terms of reference of the advisory body **and must make any terms of reference or amendments to those terms available to the public**.
 
 ### Section 21
 
   **(1)** The Governor in Council appoints the members of the advisory body on the recommendation of the Minister and fixes their remuneration.
+
+  **(1.1)** When making a recommendation, the Minister must consider the need for the advisory body as a whole to have expertise in, or knowledge of,
+
+    climate change science, including the environmental, ecological, social, economic and distributional effects of climate change;
+
+    Indigenous knowledge;
+
+    other relevant physical and social sciences, including economic analysis and forecasting;
+
+    climate change and climate policy at the national, subnational and international levels, including the likely effects and efficacy of potential responses to climate change;
+
+    energy supply and demand; and
+
+    relevant technologies.
 
   **(2)** The advisory body is composed of no more than fifteen members, who are appointed on a part-time basis for a renewable term of up to three years.
 
@@ -343,9 +430,11 @@ The Minister may publish the national greenhouse gas emissions target for the mi
 
 ### Section 22
 
-  **(1)** The advisory body must submit an annual report to the Minister with respect to its advice and activities.
+  **(1)** The advisory body must submit an annual report to the Minister with respect to its advice and activities,**including setting out the result of its engagement activities**.
 
-  **(2)** The Minister must publicly respond to the advice that the advisory body includes in its annual report with respect to measures and sectoral strategies that the Government of Canada could implement to achieve the greenhouse gas emissions target.
+  **(1.1)** When providing its advice and preparing its report, the advisory body must take into account a range of factors, to the extent they are relevant to the purpose of this Act including environmental, economic, social and technological and the best available scientific information and knowledge, including Indigenous knowledge, respecting climate change.
+
+  **(2)** The Minister must **make the annual report available to the public within 30 days of receiving it and then, within 120 days of receiving that report, the Minister must** publicly respond to the advice that the advisory body includes in it with respect to **matters referred in paragraphs 20(1)(a) to (c), including any national greenhouse gas emissions target that is recommended by the advisory body if the Minister has set a target that is different from it**. spect to measures and sectoral strategies that the Government of Canada could implement to achieve the greenhouse gas emissions target.
 
 
 ## Minister of Finance
@@ -365,6 +454,8 @@ The Minister of Finance must, in cooperation with the Minister, prepare an annua
 
   **(3)** The report is submitted as part of the next annual report the Commissioner makes under subsection 23(2) of the `Auditor General Act`.
 
+  **(4)** The first report must be submitted no later than the end of 2024.
+
 
 ## General Provisions
 
@@ -374,15 +465,21 @@ Subject to any regulation made under section `26`, the methodology used to repor
 
 ### Section 26
 
-The Governor in Council may make regulations for the purposes of this Act, including regulations
+  ****(1)**** The Governor in Council may make regulations for the purposes of this Act, including regulations
 
-amending or specifying the methodology to be used to report on Canada's greenhouse gas emissions for each milestone year and for 2050, including with respect to greenhouse gas emissions and removals; and
+    amending or specifying the methodology to be used to report on Canada's greenhouse gas emissions for each milestone year and for 2050, including with respect to greenhouse gas emissions and removals; and
 
-amending any timeline set out in this Act, other than the ones set out in sections `6` and `24`, or any milestone year, for the purposes of aligning it with Canada's international commitments.
+    amending any timeline set out in this Act, other than the ones set out in sections `6` and `24`, or any milestone year, for the purposes of aligning it with Canada's international commitments.
+
+  **(2)** Any regulation made under subsection (1) must align with the international standards to which Canada adheres.
 
 ### Section 27
 
-For greater certainty, the emissions reduction plans, the reports made under this Act, any ministerial decision made under subsection `7`(3) or `9`(3) and any terms of reference set under subsection `20`(2) are not statutory instruments for the purposes of the `Statutory Instruments Act`.
+For greater certainty, the emissions reduction plans, the reports made under this Act, any ministerial decision made under subsection 9(3) and any terms of reference set under subsection `20`(2) are not statutory instruments for the purposes of the `Statutory Instruments Act`.
+
+### Section 27.1
+
+Five years after the day on which this Act comes into force, a comprehensive review of the provisions and operation of the Act is to be undertaken by the committee of the Senate, of the House of Commons or of both Houses of Parliament that is designated or established by the Senate or the House of Commons, or by both Houses of Parliament, as the case may be, for that purpose.
 
 
 ## Consequential Amendment
@@ -397,10 +494,6 @@ The `Auditor General Act` is amended by adding the following after section 21.1:
 ### Section 21.2
 
 The Commissioner must also carry out the functions assigned to them under the `Canadian Net-Zero Emissions Accountability Act`.
-
-
-> **Explanatory Note**:
-> New.
 
 
 ## Coming into Force
