@@ -30,14 +30,14 @@ This Act may be cited as the `Reduction of Recidivism Framework Act`.
 
 ### Section 2
 
-  **(1)** The Minister of Public Safety and Emergency Preparedness must, in **consultation** with representatives of the provinces, **with a variety of** Indigenous
-**governing bodies and Indigenous organizations** and **with** other relevant stakeholders such as non-governmental, non-profit, faith-based and private sector organizations, develop and implement a federal framework to reduce recidivism.
+  **(1)** The Minister of Public Safety and Emergency Preparedness must, in consultation with representatives of the provinces, with a variety of Indigenous
+governing bodies and Indigenous organizations and with other relevant stakeholders such as non-governmental, non-profit, faith-based and private sector organizations, develop and implement a federal framework to reduce recidivism.
 
   **(2)** The framework must include measures to
 
-    initiate pilot projects and develop standardized and evidence-based programs **aimed at reducing** recidivism;
+    initiate pilot projects and develop standardized and evidence-based programs aimed at reducing recidivism;
 
-    promote the reintegration of people who have been incarcerated back into the community **through** access to adequate and ongoing resources as well as employment opportunities in order to lessen the likelihood of their reoffending;
+    promote the reintegration of people who have been incarcerated back into the community through access to adequate and ongoing resources as well as employment opportunities in order to lessen the likelihood of their reoffending;
 
     support faith-based and communal initiatives that aim to rehabilitate people who have been incarcerated;
 
