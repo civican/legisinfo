@@ -56,11 +56,56 @@ This Part applies to an election referred to in section `556`.
 
 ### Section 558
 
-Subsection 17(1) is to be read as follows:
+  **(1)** Subsection 17(1) is to be read as follows:
 
 ### Section 17
 
   **(1)** During an election period or within 30 days after it, if an emergency, an unusual or unforeseen circumstance or an error makes it necessary, the Chief Electoral Officer may, for the sole purpose of enabling electors to exercise their right to vote, enabling the counting of votes or ensuring the health or safety of electors or election officers, adapt any provision of this Act and, in particular, may extend the time for doing any act, subject to subsection (2), or may increase the number of election officers or polling stations.
+
+  **(2)** Section 17 is to be read as including the following after subsection (2):
+
+    **(2.1)** The Chief Electoral Officer shall not prohibit the presence of candidates at polling stations or
+advance polling stations or, in their absence, the presence of a representative acting on a candidate's
+behalf.
+
+    **(3)** Section 17 is to be read as including the following after subsection (2.1):
+
+    **(2.2)** The Chief Electoral Officer shall not authorize alternative voting processes or voting technology
+that allows electors to vote, or ballots to be counted, by telephone, Internet or other electronic
+means.
+
+
+## Electronic Signatures for Nomination Papers
+
+### Section 558.1
+
+Section 66 is to be read as including the following after subsection (4):
+
+**(5)** Subject to the instructions of the Chief Electoral Officer, a requirement under paragraphs (1)(e) to (g) for a signature is satisfied by an electronic signature.
+
+**(6)** The Chief Electoral Officer may make instructions
+
+  respecting, for the purposes of subsection (5), the use of electronic signatures; and
+
+  adapting paragraph (1)(e) or (f) with respect to the requirement for a witness to a signature referred
+to in those paragraphs if an electronic signature is used, based on the security features of the electronic
+signature, including by waiving that requirement.
+
+**(7)** The Chief Electoral Officer shall publish the instructions made under subsection (6) on the Chief
+Electoral Officer's Internet site within two days after the day on which the writs are issued.
+
+
+## Signatures of Electors Resident in the Electoral District on Nomination Papers
+
+### Section 558.2
+
+Paragraphs 66(1)(e) and (f) are to be read as follows:
+
+for any electoral district except one listed in Schedule 3, the names, addresses and signatures, made
+in the presence of a witness, of at least 50 electors resident in the electoral district;
+
+for an electoral district listed in Schedule 3, the names, addresses and signatures, made in the
+presence of a witness, of at least 25 electors resident in the electoral district;
 
 
 ### Voting in Institutions Where Seniors and Persons with a Disability Reside
@@ -350,7 +395,7 @@ the portion of subsection 239(1) before paragraph (a) is to be read as follows:
 
 subsection 239(2) is to be read as follows:
 
-**(2)** In order to have their special ballot counted, an elector whose application for registration and special ballot was accepted by the returning officer in the elector's electoral district shall ensure that the ballot is sent before the close of polling stations on the last day of the polling period and is received by the special voting rules administrator in the National Capital Region no later than 6:00 p.m. on the Tuesday following the last day of the polling period. The special ballot shall be transmitted by
+**(2)** In order to have their special ballot counted, an elector whose application for registration and special ballot was accepted by the returning officer in the elector's electoral district shall ensure that the ballot is sent before the close of polling stations on the last day of the polling period and is received **at the office of that returning officer** no later than 6:00 p.m. on the Tuesday following the last day of the polling period. The special ballot shall be transmitted by
 
   sending the sealed outer envelope to the returning officer by mail or any other means; or
 
@@ -517,6 +562,19 @@ Subsection 232(1) is to be read as follows:
 
   **(1)** An elector may vote under this Division if his or her application for registration and special ballot, which may be submitted in writing or in electronic form, is received by a returning officer in an electoral district or by the special voting rules administrator after the issue of the writs but before 6:00 p.m. on the 6th day before the first day of the polling period.
 
+### Section 589.1
+
+Division 4 of Part 11 is to be read as including the following after section 232:
+
+### Section 232.1
+
+  **(1)** An elector may obtain an application for registration and special ballot at any post office in
+Canada.
+
+  **(2)** For the purposes of subsection (1), the Chief Electoral Officer shall provide the Canada Post
+Corporation with applications for registration and special ballot and information for the public about
+voting under this Division.
+
 ### Section 590
 
 Paragraph 233(1)(c) is to be read as follows:
@@ -568,6 +626,43 @@ makes the solemn declaration referred to in subsection 549.1(1) in writing.
       a secure reception box outside the advance polling station or polling station, or
 
       a ballot box for the deposit of outer envelopes inside the advance polling station or polling station.
+
+### Section 592.1
+
+Division 4 of Part 11 is to be read as including the following after section 243.1:
+
+### Section 243.2
+
+  **(1)** The Chief Electoral Officer shall inform post-secondary educational institutions that offices for
+voting by special ballot may be established on their premises.
+
+  **(2)** A returning officer shall establish an office for voting by special ballot on the premises of a post-secondary
+educational institution in that returning officer's electoral district if
+
+    an office for voting by special ballot was established on its premises for the 2019 general election
+and the institution agrees to the establishment of the office; or
+
+    the institution requests the establishment of an office for voting by special ballot on its premises
+and the returning officer is of the opinion that an office may be established for that purpose.
+
+  **(3)** An elector who applies in person to vote at an office established under subsection (2) shall be given
+a special ballot and may vote by following the procedure for voting by special ballot and return the
+outer envelope to an election officer at such an office.
+
+  **(4)** An elector who has received a special ballot, other than an elector referred to in subsection (3), may
+vote in person at an office established under subsection (2) by following the procedure for voting by
+special ballot and return their outer envelope to an election officer at that office.
+
+  **(5)** An office established under subsection (2) may be open during the period that begins on the 18th
+day before the first day of the polling period and ends at 6:00 p.m. on the 6th day before the first day
+of the polling period, but the office is not to be open for a total of more than 28 hours during that
+period.
+
+  **(6)** For the purposes of this section, an office established under subsection (2) in an electoral district is
+deemed to be the office of the returning officer in that electoral district.
+
+  **(7)** For the purposes of this section, the Chief Electoral Officer may issue any instructions that the Chief
+Electoral Officer considers necessary in order to execute its purposes.
 
 ### Section 593
 
