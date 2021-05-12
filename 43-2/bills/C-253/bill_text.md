@@ -66,7 +66,7 @@ the amount equal to the difference between any severance pay or compensation in 
 
   **(1)** Subparagraph 6(5)(a)(i) of the `Companies' Creditors Arrangement Act` is replaced by the following:
 
-    amounts at least equal to the amounts that they would have been qualified to receive under **paragraphs** 136(1)(d) **and (d.001)** of the `Bankruptcy and Insolvency Act` if the company had become bankrupt on the day on which proceedings commenced under this Act, and
+    amounts at least equal to the amounts that they would have been qualified to receive under paragraphs 136(1)(d) and (d.001) of the `Bankruptcy and Insolvency Act` if the company had become bankrupt on the day on which proceedings commenced under this Act, and
 
   **(2)** Subparagraph 6(6)(a)(ii) of the Act is amended by adding the following after clause (A):
 
@@ -79,4 +79,25 @@ the amount equal to the difference between any severance pay or compensation in 
     an amount equal to the sum of all special payments, determined in accordance with section 9 of the `Pension Benefits Standards Regulations, 1985`, that would have been required to be paid by the employer to the fund referred to in sections 81.5 and 81.6 of the `Bankruptcy and Insolvency Act` to liquidate an unfunded liability or a solvency deficiency if the prescribed plan were regulated by an Act of Parliament,
 
     any amount required to liquidate any other unfunded liability or solvency deficiency of the fund as determined on the day of commencement of proceedings under this Act,
+
+
+## Transitional Provisions
+
+### Section 6
+
+  **(1)** Sections 1 to 3 do not apply in respect of a person who is an employer who, on the day before the
+day on which those sections come into force, participated in a prescribed pension plan for the benefit
+of the person's employees until the third anniversary of the day on which this Act comes into force.
+
+  **(2)** Subsections 5(2) and (3) do not apply in respect of a company that, on the day before the day on
+which those subsections come into force, participated in a prescribed pension plan for the benefit of its
+employees until the third anniversary of the day on which this Act comes into force.
+
+
+## Coming into Force
+
+### Section 7
+
+Section 4 and subsection 5(1) come into force three years after the day on which this Act receives
+royal assent.
 
