@@ -1,7 +1,4 @@
-# Bill C-220: An Act to amend the Canada Labour Code (
-
-**Sponsor**: 
-      
+# Bill C-220: An Act to amend the Canada Labour Code (bereavement leave)
 
 ## Summary
 
@@ -14,7 +11,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ### Section 1
 
-**Subsection 210(1)** of the `Canada Labour Code` is replaced by the following:
+Subsection 210(1) of the `Canada Labour Code` is replaced by the following:
 
 ### Section 210
 

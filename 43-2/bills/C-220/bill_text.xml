@@ -12,21 +12,19 @@
       </RegnalYear>
       <Year-s>2020-2021</Year-s>
     </Parliament>
-    <LongTitle>An Act to amend the Canada Labour Code (<Ins>bereavement</Ins> leave)</LongTitle>
+    <LongTitle>An Act to amend the Canada Labour Code (bereavement leave)</LongTitle>
     <ShortTitle status="unofficial" />
     <RunningHead>An Act to amend the Canada Labour Code (bereavement leave)</RunningHead>
     <BillHistory>
-      <Stages stage="report-house">
+      <Stages stage="third-reading-house">
         <Date>
           <YYYY>2021</YYYY>
-          <MM>2</MM>
-          <DD>26</DD>
+          <MM>5</MM>
+          <DD>12</DD>
         </Date>
-      <StageText>Reprinted as amended by the Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities as a working copy for the use of the House of Commons at Report Stage and as reported to the House on February 26, 2021</StageText></Stages>
+      </Stages>
     </BillHistory>
-    <BillSponsor>
-      <Emphasis style="smallcaps">Mr. Jeneroux</Emphasis>
-    </BillSponsor>
+    
     
     <BillRefNumber date-time="2020-01-06">431060</BillRefNumber>
   </Identification>
@@ -50,12 +48,12 @@
       </MarginalNote>
       <TitleText>Canada Labour Code</TitleText>
     </Heading>
-    <Section type="amending"><Label>1</Label><Text><Ins>Subsection 210(1)</Ins> of the <XRefExternal reference-type="act">Canada Labour Code</XRefExternal> is replaced by the following:</Text><AmendedText><Section change="ins"><MarginalNote>Employee entitled</MarginalNote><Label>210</Label><Subsection><Label>(1)</Label><Text>Every employee is entitled to and shall be granted, in the event of the death of a member of
+    <Section type="amending"><Label>1</Label><Text>Subsection 210(1) of the <XRefExternal reference-type="act">Canada Labour Code</XRefExternal> is replaced by the following:</Text><AmendedText><Section><MarginalNote>Employee entitled</MarginalNote><Label>210</Label><Subsection><Label>(1)</Label><Text>Every employee is entitled to and shall be granted, in the event of the death of a member of
 their immediate family or a family member in respect of whom the employee is, at the time of the
 death, on leave under section 206.3 or 206.4, a leave of absence from employment of up to 10 days
 that may be taken during the period that begins on the day on which the death occurs and ends six
 weeks after the latest of the days on which any funeral, burial or memorial service of the deceased
-person occurs.</Text></Subsection></Section></AmendedText></Section><Heading level="1" change="ins"><TitleText>Coming into Force</TitleText></Heading><Section change="ins"><MarginalNote>Three months after royal assent</MarginalNote><Label>2</Label><Text>This Act comes into force on the day that, in the third month after the month in which it receives
+person occurs.</Text></Subsection></Section></AmendedText></Section><Heading level="1"><TitleText>Coming into Force</TitleText></Heading><Section><MarginalNote>Three months after royal assent</MarginalNote><Label>2</Label><Text>This Act comes into force on the day that, in the third month after the month in which it receives
 royal assent, has the same calendar number as the day on which it receives royal assent or, if that third
 month has no day with that number, the last day of that third month.</Text></Section>
   </Body>
