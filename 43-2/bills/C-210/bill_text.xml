@@ -1,31 +1,47 @@
-<?xml version="1.0" encoding="utf-8"?>
+
 
 <Bill bill-origin="commons" bill-type="private-public" xml:lang="en" date-time="2016-05-26 10:06:01">
   <Identification>
     <BillNumber>C-210</BillNumber>
     <Parliament>
-      <Session>2</Session>
+      <Session>1</Session>
       <Number>43</Number>
       <RegnalYear>
-        <Year-s>69-70</Year-s>
+        <Year-s>68-69</Year-s>
         <Monarch>Elizabeth II</Monarch>
       </RegnalYear>
-      <Year-s>2020-2021</Year-s>
+      <Year-s>2019-2020</Year-s>
     </Parliament>
     <LongTitle>An Act to amend the Canada Revenue Agency Act (organ and tissue donors)</LongTitle>
     <ShortTitle status="unofficial" />
     <RunningHead>An Act to amend the Canada Revenue Agency Act (organ donors)</RunningHead>
     <BillHistory>
-      <Stages stage="third-reading-house">
+      <Stages stage="first-reading-house">
         <Date>
-          <YYYY>2021</YYYY>
-          <MM>5</MM>
-          <DD>12</DD>
+          <YYYY>2020</YYYY>
+          <MM>2</MM>
+          <DD>19</DD>
         </Date>
       </Stages>
     </BillHistory>
-    
-    
+    <BillSponsor>
+      <Emphasis style="smallcaps">Mr. Webber</Emphasis>
+    </BillSponsor>
+    <ReaderNote>
+      <Note>
+        <Provision justification="center" pointsize="10" topmarginspacing="0">
+          <Text>
+            <Emphasis style="bold">NOTE</Emphasis>
+          </Text>
+        </Provision>
+        <Provision justification="center">
+          <Text>2nd Session, 43rd Parliament</Text>
+        </Provision>
+        <Provision justification="justify" hyphenation="yes">
+          <Text>This bill was introduced during the first session of the 43rd Parliament. Pursuant to the Standing Orders of the House of Commons, it is deemed to have been considered and approved at all stages completed at the time of prorogation of the first session. The number of the bill remains unchanged.</Text>
+        </Provision>
+      </Note>
+    </ReaderNote>
     <BillRefNumber date-time="2016-05-26">431055</BillRefNumber>
   </Identification>
   <Introduction>
@@ -52,7 +68,7 @@
       <Label>1</Label>
       <Text>The <XRefExternal reference-type="act">Canada Revenue Agency Act</XRefExternal> is amended by adding the following after section 63:</Text>
       <AmendedText>
-        <Section>
+        <Section change="ins">
           <MarginalNote>Agreements — organ donors</MarginalNote>
           <Label>63.1</Label>
           <Subsection>
