@@ -1,32 +1,48 @@
-<?xml version="1.0" encoding="utf-8"?>
+
 
 <Bill bill-origin="commons" bill-type="private-public" xml:lang="en" date-time="2015-03-20 12:48:45">
   <Identification>
     <BillNumber>C-208</BillNumber>
     <Parliament>
-      <Session>2</Session>
+      <Session>1</Session>
       <Number>43</Number>
       <RegnalYear>
-        <Year-s>69-70</Year-s>
+        <Year-s>68-69</Year-s>
         <Monarch>Elizabeth II</Monarch>
       </RegnalYear>
-      <Year-s>2020-2021</Year-s>
+      <Year-s>2019-2020</Year-s>
     </Parliament>
     <LongTitle>
       <Keep>An Act to amend the Income Tax Act (transfer</Keep> of small business or family farm or fishing corporation)</LongTitle>
     <ShortTitle status="unofficial" />
     <RunningHead>An Act to amend the Income Tax Act (transfer  of small business or family farm or fishing corporation)</RunningHead>
     <BillHistory>
-      <Stages stage="third-reading-house">
+      <Stages stage="first-reading-house">
         <Date>
-          <YYYY>2021</YYYY>
-          <MM>5</MM>
-          <DD>12</DD>
+          <YYYY>2020</YYYY>
+          <MM>2</MM>
+          <DD>19</DD>
         </Date>
       </Stages>
     </BillHistory>
-    
-    
+    <BillSponsor>
+      <Emphasis style="smallcaps">Mr. Maguire</Emphasis>
+    </BillSponsor>
+    <ReaderNote>
+      <Note>
+        <Provision justification="center" pointsize="10" topmarginspacing="0">
+          <Text>
+            <Emphasis style="bold">NOTE</Emphasis>
+          </Text>
+        </Provision>
+        <Provision justification="center">
+          <Text>2nd Session, 43rd Parliament</Text>
+        </Provision>
+        <Provision justification="justify" hyphenation="yes">
+          <Text>This bill was introduced during the first session of the 43rd Parliament. Pursuant to the Standing Orders of the House of Commons, it is deemed to have been considered and approved at all stages completed at the time of prorogation of the first session. The number of the bill remains unchanged.</Text>
+        </Provision>
+      </Note>
+    </ReaderNote>
     <BillRefNumber date-time="2015-03-20">431075</BillRefNumber>
   </Identification>
   <Introduction>
@@ -56,7 +72,7 @@
         <SectionPiece>
           <Subparagraph>
             <Label>(i)</Label>
-            <Text>a person shall be deemed to be dealing with another person at arm's length and not to be related to the other person if the person is the brother or sister of the other person, except in the case where the dividend was received or paid, as part of a transaction or event or a series of transactions or events, by a corporation of which a share of the capital stock is a qualified small business corporation share or a <DefinedTermEn><Emphasis style="regular">share of the capital stock of a family farm or fishing corporation</Emphasis></DefinedTermEn> within the meaning of subsection 110.6(1),</Text>
+            <Text>a person shall be deemed to be dealing with another person at arm's length and not to be related to the other person if the person is the brother or sister of the other person, <Ins>except in the case where the dividend was received or paid, as part of a transaction or event or a series of transactions or events, by a corporation of which a share of the capital stock is a qualified small business corporation share or a <DefinedTermEn><Emphasis style="regular">share of the capital stock of a family farm or fishing corporation</Emphasis></DefinedTermEn> within the meaning of subsection 110.6(1)</Ins>,</Text>
           </Subparagraph>
         </SectionPiece>
       </AmendedText>
@@ -68,7 +84,7 @@
         <Text>Subsection 84.1(2) of the Act is amended by striking out "and" at the end of paragraph (b), by adding "and" at the end of paragraph (d), and by adding the following after paragraph (d):</Text>
         <AmendedText>
           <SectionPiece>
-            <Paragraph>
+            <Paragraph change="ins">
               <Label>(e)</Label>
               <Text>if the subject shares are qualified small business corporation shares or <DefinedTermEn><Emphasis style="regular">shares of the capital stock of a family farm or fishing corporation</Emphasis></DefinedTermEn> within the meaning of subsection 110.6(1), the taxpayer and the purchaser corporation are deemed to be dealing at arm's length if the purchaser corporation is controlled by one or more children or grandchildren of the taxpayer who are 18 years of age or older and if the purchaser corporation does not dispose of the subject shares within 60 months of their purchase.</Text>
             </Paragraph>
@@ -79,7 +95,7 @@
         <Label>(2)</Label>
         <Text>Section 84.1 of the Act is amended by adding the following after subsection (2.2):</Text>
         <AmendedText>
-          <Subsection>
+          <Subsection change="ins">
             <MarginalNote>Rules for paragraph 84.1(2)(e)</MarginalNote>
             <Label>(2.3)</Label>
             <Text>For the purposes of paragraph (2)(e), </Text>
