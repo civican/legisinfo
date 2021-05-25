@@ -1,7 +1,5 @@
 # Bill C-15: An Act respecting the United Nations Declaration on the Rights of Indigenous Peoples
 
-**Sponsor**: MINISTER OF JUSTICE
-
 ## Summary
 
 This enactment provides that the Government of Canada must take all measures necessary to ensure that the laws of Canada are consistent with the United Nations Declaration on the Rights of Indigenous Peoples, and must prepare and implement an action plan to achieve the objectives of the Declaration.
@@ -60,9 +58,9 @@ Whereas First Nations, Inuit and the Métis Nation have, throughout history and 
 
 Whereas Indigenous peoples have suffered historic injustices as a result of, among other things, colonization and dispossession of their lands, territories and resources;
 
-Whereas the implementation of the Declaration must include concrete measures to address injustices, combat prejudice and eliminate all forms of violence, **racism** and discrimination, including systemic **racism and** discrimination, against Indigenous peoples and Indigenous elders, youth, children, women, men, persons with disabilities and gender-diverse persons and two-spirit persons;
+Whereas the implementation of the Declaration must include concrete measures to address injustices, combat prejudice and eliminate all forms of violence, racism and discrimination, including systemic racism and discrimination, against Indigenous peoples and Indigenous elders, youth, children, women, men, persons with disabilities and gender-diverse persons and two-spirit persons;
 
-Whereas all doctrines, policies and practices based on or advocating the superiority of peoples or individuals on the basis of national origin or racial, religious, ethnic or cultural differences, **including the doctrines of discovery and *terra nullius***, are racist, scientifically false, legally invalid, morally condemnable and socially unjust;
+Whereas all doctrines, policies and practices based on or advocating the superiority of peoples or individuals on the basis of national origin or racial, religious, ethnic or cultural differences, including the doctrines of discovery and *terra nullius*, are racist, scientifically false, legally invalid, morally condemnable and socially unjust;
 
 Whereas the Government of Canada rejects all forms of colonialism and is committed to advancing relations with Indigenous peoples that are based on good faith and on the principles of justice, democracy, equality, non-discrimination, good governance and respect for human rights;
 
@@ -82,7 +80,7 @@ Whereas the Government of Canada welcomes opportunities to work cooperatively wi
 
 Whereas the Declaration is affirmed as a source for the interpretation of Canadian law;
 
-Whereas the protection of Aboriginal and treaty rights — recognized and affirmed by section 35 of the `Constitution Act, 1982` — is an underlying principle and value of the Constitution of Canada, **and Canadian courts have stated that such rights are not frozen and are capable of evolution and growth**;
+Whereas the protection of Aboriginal and treaty rights — recognized and affirmed by section 35 of the `Constitution Act, 1982` — is an underlying principle and value of the Constitution of Canada, and Canadian courts have stated that such rights are not frozen and are capable of evolution and growth;
 
 Whereas there is an urgent need to respect and promote the rights of Indigenous peoples affirmed in treaties, agreements and other constructive arrangements, and those treaties, agreements and arrangements can contribute to the implementation of the Declaration;
 
@@ -128,7 +126,7 @@ The Governor in Council may, by order, designate any federal minister to be the 
 
 ### Section 4
 
-The **purposes** of this Act **are** to
+The purposes of this Act are to
 
 affirm the Declaration as a universal international human rights instrument with application in Canadian law; and
 
@@ -149,7 +147,7 @@ The Government of Canada must, in consultation and cooperation with Indigenous p
 
     measures to
 
-    address injustices, combat prejudice and eliminate all forms of violence, **racism** and discrimination, including systemic **racism and** discrimination, against Indigenous peoples and Indigenous elders, youth, children, women, men, persons with disabilities and gender-diverse persons and two-spirit persons, and
+    address injustices, combat prejudice and eliminate all forms of violence, racism and discrimination, including systemic racism and discrimination, against Indigenous peoples and Indigenous elders, youth, children, women, men, persons with disabilities and gender-diverse persons and two-spirit persons, and
 
     promote mutual respect and understanding as well as good relations, including through human rights education; and
 
@@ -157,7 +155,7 @@ The Government of Canada must, in consultation and cooperation with Indigenous p
 
   **(3)** The action plan must also include measures related to monitoring the implementation of the plan and reviewing and amending the plan.
 
-  **(4)** The preparation of the action plan must be completed as soon as practicable, but no later than **two** years after the day on which this section comes into force.
+  **(4)** The preparation of the action plan must be completed as soon as practicable, but no later than two years after the day on which this section comes into force.
 
   **(5)** The Minister must cause the action plan to be tabled in each House of Parliament as soon as practicable after it has been prepared.
 
