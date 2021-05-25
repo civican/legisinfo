@@ -1,8 +1,11 @@
-# Bill C-220: An Act to amend the Canada Labour Code (bereavement leave)
+# Bill C-220: An Act to amend the Canada Labour Code (compassionate care leave)
+
+**Sponsor**: 
+      
 
 ## Summary
 
-This enactment amends the `Canada Labour Code` to extend, by five unpaid days, the period of bereavement leave to which an employee is entitled and to expand eligibility for the leave to include employees who, at the time a family member dies, are on compassionate care leave or leave related to critical illness in respect of the deceased person.
+This enactment amends the `Canada Labour Code` to extend the period during which an employee may take compassionate care leave.
 
 Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
@@ -11,23 +14,21 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ### Section 1
 
-Subsection 210(1) of the `Canada Labour Code` is replaced by the following:
+  **(1)** Paragraph 206.3(3)(b) of the `Canada Labour Code` is replaced by the following:
 
-### Section 210
+    that ends with
 
-  **(1)** Every employee is entitled to and shall be granted, in the event of the death of a member of
-their immediate family or a family member in respect of whom the employee is, at the time of the
-death, on leave under section 206.3 or 206.4, a leave of absence from employment of up to 10 days
-that may be taken during the period that begins on the day on which the death occurs and ends six
-weeks after the latest of the days on which any funeral, burial or memorial service of the deceased
-person occurs.
+    the last day of the week in which the family member dies if the leave of absence started 27 weeks before that week,
 
+    the last day of the week following the week in which the family member dies if the leave of absence started more than 19 weeks before the week in which the family member dies but less than 27 weeks before that week,
 
-## Coming into Force
+    the last day of the second week following the week in which the family member dies if the leave of absence started more than four weeks before the week in which the family member dies but less than 20 weeks before that week,
 
-### Section 2
+    the last day of the third week following the week in which the family member dies if the leave of absence started less than five weeks before the week in which the family member dies, or
 
-This Act comes into force on the day that, in the third month after the month in which it receives
-royal assent, has the same calendar number as the day on which it receives royal assent or, if that third
-month has no day with that number, the last day of that third month.
+    the last day of the week in which the period of 52 weeks following the first day of the week referred to in paragraph (a) ends.
+
+  **(2)** Paragraph 206.3(4)(b) of the Act is replaced by the following:
+
+    that shorter period applies for the purposes of subparagraph **(3)(b)(v)**.
 
