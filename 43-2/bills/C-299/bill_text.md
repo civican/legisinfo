@@ -1,0 +1,50 @@
+# Bill C-299: An Act to amend the Telecommunications Act (access to transparent and accurate broadband services information)
+
+## Summary
+
+This enactment amends the `Telecommunications Act` to require Canadian carriers to make easily available certain information in respect of the fixed broadband services that they offer and provide. It also requires the Canadian Radio-television and Telecommunications Commission to hold public hearings in order to determine the form and manner in which the information is to be provided to the public.
+
+Whereas transparency and accuracy of information are important to allow Canadians to make informed decisions when choosing a Canadian carrier for fixed broadband services and to improve competition within the telecommunications industry;
+
+Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+## Telecommunications Act
+
+### Section 1
+
+The `Telecommunications Act` is amended by adding the following after section 24.1:
+
+### Section 24.2
+
+  **(1)** In this section, **fixed broadband service** means any high-speed data transmission service provided to a fixed location using cable, fibre optics, wireless access, satellite or any similar transmission system.
+
+  **(2)** Canadian carriers who offer and provide fixed broadband services shall make the following information available to the public, in the form and manner specified by the Commission:
+
+    service quality metrics during peak periods;
+
+    typical download and upload speeds during peak periods; and
+
+    any other information required by the Commission that is in the public's interest.
+
+  **(3)** The Commission shall hold public hearings to determine the following with respect to Canadian carriers:
+
+    the service quality metrics that are to be measured and how they will be measured, as well as the methodology that is to be used to ensure that those metrics are representative of the different fixed broadband services packages offered in different regions across Canada;
+
+    the methodology that is to be used to determine what constitutes typical download and upload speeds for different fixed broadband services packages offered in different regions across Canada;
+
+    the periods that are to be considered peak periods;
+
+    the types of Canadian carriers, if any, that should be excluded, in whole or in part, from the application of subsection (2);
+
+    the types of transmission systems in respect of which the information referred to in subsection (2) is to be provided; and
+
+    the form and manner in which the information referred to in subsection (2) is to be provided to the public to ensure that it is easily available, accessible and simple to understand.
+
+
+## Coming into Force
+
+### Section 2
+
+This Act comes into force on the third anniversary of the day on which it receives royal assent.
+
