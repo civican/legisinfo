@@ -16,17 +16,15 @@
     <ShortTitle status="unofficial" />
     <RunningHead>An Act to amend the Canadian Environmental Protection Act, 1999 (final disposal of plastic waste)</RunningHead>
     <BillHistory>
-      <Stages stage="report-house">
+      <Stages stage="third-reading-house">
         <Date>
           <YYYY>2021</YYYY>
-          <MM>4</MM>
-          <DD>13</DD>
+          <MM>6</MM>
+          <DD>2</DD>
         </Date>
-      <StageText>Reprinted as amended by the Standing Committee on Environment and Sustainable Development as a working copy for the use of the House of Commons at Report Stage and as reported to the House on April 13, 2021</StageText></Stages>
+      </Stages>
     </BillHistory>
-    <BillSponsor>
-      <Emphasis style="smallcaps">Mr. Davidson</Emphasis>
-    </BillSponsor>
+    
     
     <BillRefNumber date-time="2020-01-30">431080</BillRefNumber>
   </Identification>
@@ -69,7 +67,7 @@
           <Label>(1.3)</Label>
           <Text>The Governor in Council may, on the recommendation of the Minister, by order, amend Schedule 7 by adding or deleting from it any type of plastic.</Text>
         </Subsection>
-      <Subsection change="ins"><MarginalNote>Competences</MarginalNote><Label>(1.4)</Label><Text>The prohibition provided for in subsection (1.2) shall be applied in a manner that respects the
+      <Subsection><MarginalNote>Competences</MarginalNote><Label>(1.4)</Label><Text>The prohibition provided for in subsection (1.2) shall be applied in a manner that respects the
 legislative competences of the federal and provincial governments.</Text></Subsection></AmendedText>
     </Section>
     <Section type="amending">
@@ -94,7 +92,7 @@ legislative competences of the federal and provincial governments.</Text></Subse
       <Label>3</Label>
       <Text>The Act is amended by adding, after <Keep>Schedule 6</Keep>, the schedule set out in the schedule to this Act.</Text>
     </Section>
-  <Heading level="1" change="ins"><TitleText>Coming into Force</TitleText></Heading><Section change="ins" type="amending"><MarginalNote>12 months after royal assent</MarginalNote><Label>4</Label><Text>The provisions of this Act come into force twelve months after the day on which this Act receives
+  <Heading level="1"><TitleText>Coming into Force</TitleText></Heading><Section type="amending"><MarginalNote>12 months after royal assent</MarginalNote><Label>4</Label><Text>The provisions of this Act come into force twelve months after the day on which this Act receives
 royal assent.</Text></Section></Body>
   <Schedule type="amending">
     <ScheduleFormHeading>

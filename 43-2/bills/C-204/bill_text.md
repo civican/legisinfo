@@ -1,8 +1,5 @@
 # Bill C-204: An Act to amend the Canadian Environmental Protection Act, 1999 (final disposal of plastic waste)
 
-**Sponsor**: 
-      
-
 ## Summary
 
 This enactment amends the `Canadian Environmental Protection Act, 1999` to prohibit the export of certain types of plastic waste to foreign countries for final disposal.
