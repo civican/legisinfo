@@ -1,7 +1,5 @@
 # Bill C-8: An Act to amend the Citizenship Act (Truth and Reconciliation Commission of Canada's call to action number 94)
 
-**Sponsor**: MINISTER OF IMMIGRATION, REFUGEES AND CITIZENSHIP
-
 ## Summary
 
 This enactment amends the `Citizenship Act` to include, in the Oath or Affirmation of Citizenship, a solemn promise to respect the Aboriginal and treaty rights of First Nations, Inuit and Métis peoples, in order to respond to the Truth and Reconciliation Commission of Canada's call to action number 94.
