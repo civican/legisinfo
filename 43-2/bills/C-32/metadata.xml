@@ -1,0 +1,383 @@
+<Bills>
+  <Bill>
+    <Id>11420727</Id>
+    <NumberCode>C-32</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>32</Number>
+    <LongTitleEn>An Act to amend the Official Languages Act and to make related and consequential amendments to other Acts</LongTitleEn>
+    <LongTitleFr>Loi modifiant la Loi sur les langues officielles et apportant des modifications connexes et corrélatives à d'autres lois</LongTitleFr>
+    <LongTitle>An Act to amend the Official Languages Act and to make related and consequential amendments to other Acts</LongTitle>
+    <ShortTitleEn>An Act for the Substantive Equality of French and English and the Strengthening of the Official Languages Act</ShortTitleEn>
+    <ShortTitleFr>Loi visant l'égalité réelle du français et de l'anglais et le renforcement de la Loi sur les langues officielles</ShortTitleFr>
+    <ShortTitle>An Act for the Substantive Equality of French and English and the Strengthening of the Official Languages Act</ShortTitle>
+    <StatusId>349</StatusId>
+    <StatusNameEn>At second reading in the House of Commons</StatusNameEn>
+    <StatusNameFr>À la deuxième lecture à la Chambre des communes</StatusNameFr>
+    <StatusName>At second reading in the House of Commons</StatusName>
+    <LatestCompletedMajorStageId>60043</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>First reading</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Première lecture</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>First reading</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>First reading in the House of Commons</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>1</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>House of Commons</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Chambre des communes</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>House of Commons</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60029</OngoingStageId>
+    <OngoingStageNameEn>First reading</OngoingStageNameEn>
+    <OngoingStageNameFr>Première lecture</OngoingStageNameFr>
+    <OngoingStageName>First reading</OngoingStageName>
+    <LatestCompletedBillStageId>60029</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>First reading</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Première lecture</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>First reading</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>1</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>House of Commons</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Chambre des communes</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>House of Commons</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2021-06-15T10:06:49.603</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>43</ParliamentNumber>
+    <SessionNumber>2</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>88384</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Mélanie</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Joly</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Mélanie Joly</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Economic Development and Official Languages</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre du Développement économique et des Langues officielles</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Economic Development and Official Languages</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>96</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>HansardDisplay</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>HansardDisplay</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>HansardDisplay</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>639</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Ahuntsic-Cartierville</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Ahuntsic-Cartierville</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Ahuntsic-Cartierville</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60110</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Introduction and first reading</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Dépôt et première lecture</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60029</LatestBillEventStageId>
+    <LatestBillEventTypeName>Introduction and first reading</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2021-06-15T10:00:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>1</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>House of Commons</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Chambre des communes</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>House of Commons</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>118</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2021-06-15T10:06:49.603</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime />
+    <PassedHouseThirdReadingDateTime />
+    <PassedSenateFirstReadingDateTime />
+    <PassedSenateSecondReadingDateTime />
+    <PassedSenateThirdReadingDateTime />
+    <ReceivedRoyalAssentDateTime />
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>false</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>false</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>false</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>false</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>false</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>false</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information and Research Service of the Library of Parliament. Meanwhile, the following executive summary is available.&lt;br/&gt;&lt;br/&gt;On 15 June 2021, the Minister of Economic Development and Official Languages introduced Bill C-32, An Act to amend the Official Languages Act and to make related and consequential amendments to other Acts (An Act for the Substantive Equality of French and English and the Strengthening of the Official Languages Act), in the House of Commons and it was given first reading.    &lt;br/&gt;&lt;br/&gt;Bill C-32 amends the Official Languages Act to, among other things,&lt;br/&gt;(a) codify certain interpretative principles regarding language rights;&lt;br/&gt;(b) provide that the Minister of Canadian Heritage is responsible for exercising leadership within the Government of Canada in relation to the implementation of that Act;&lt;br/&gt;(c) provide that section 16 of that Act applies to the Supreme Court of Canada;&lt;br/&gt;(d) provide for Government of Canada commitments to&lt;br/&gt;(i) protect and promote French,&lt;br/&gt;(ii) contribute to an estimate of the number of children whose parents are rights holders under section 23 of the Canadian Charter of Rights and Freedoms,&lt;br/&gt;(iii) advance opportunities for members of English and French linguistic minority communities to pursue quality learning in their own language throughout their lives, including from early childhood to post-secondary education, and&lt;br/&gt;(iv) advance the use of English and French in the conduct of Canada's external affairs;&lt;br/&gt;(e) provide for certain positive measures that federal institutions may take to implement certain Government of Canada commitments, including measures to&lt;br/&gt;(i) promote and support the learning of English and French, and&lt;br/&gt;(ii) support sectors that are essential to enhancing the vitality of English and French linguistic minority communities and protect and promote the presence of strong institutions serving those communities;&lt;br/&gt;(f) provide for certain measures that the Minister of Canadian Heritage may take to advance the equality of status and use of English and French in Canadian society;&lt;br/&gt;(g) provide that the Minister of Citizenship and Immigration is required to adopt a policy on francophone immigration;&lt;br/&gt;(h) provide that the Government of Canada recognizes the importance of cooperating with provincial and territorial governments;&lt;br/&gt;(i) provide for rights respecting the use of French as a language of service and a language of work in relation to federally regulated private businesses in Quebec and regions with a strong francophone presence;&lt;br/&gt;(j) provide that the Treasury Board is required to monitor and audit federal institutions for their compliance with policies, directives and regulations relating to the official languages, evaluate the effectiveness and efficiency of policies and programs of federal institutions relating to the official languages and provide certain information to the public and to employees of federal institutions;&lt;br/&gt;(k) enable the Commissioner of Official Languages to enter into compliance agreements and, in certain cases, to make orders; and&lt;br/&gt;(l) permit employees of federally regulated private businesses in Quebec and regions with a strong francophone presence to make a complaint to the Commissioner of Official Languages with respect to rights and duties in relation to language of work, and permit that Commissioner to refer the complaint to the Canada Industrial Relations Board in certain circumstances.&lt;br/&gt;It also makes related and consequential amendments to other Acts.&lt;/div&gt;</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>&lt;div&gt;Le Service d'information et de recherche parlementaires de la Bibliothèque du Parlement rédige actuellement le résumé législatif de ce projet de loi. Entre-temps, le Service met à votre disposition le sommaire suivant.  &lt;br/&gt;&lt;br/&gt;Le 15 juin 2021, le Ministre du Développement économique et des Langues officielles a déposé le projet de loi C-32 Loi modifiant la Loi sur les langues officielles et apportant des modifications connexes et corrélatives à d'autres lois (Loi visant l'égalité réelle du français et de l'anglais et le renforcement de la Loi sur les langues officielles) à la Chambre des communes en première lecture.   &lt;br/&gt;&lt;br/&gt;Le projet de loi C-32 modifie la Loi sur les langues officielles pour, notamment :&lt;br/&gt;a) codifier certaines règles interprétatives concernant les droits linguistiques;&lt;br/&gt;b) prévoir que le ministre du Patrimoine canadien est chargé d'assumer un rôle de premier plan au sein du gouvernement fédéral en ce qui a trait à la mise en œuvre de la Loi;&lt;br/&gt;c) prévoir que l'article 16 de la Loi s'applique à la Cour suprême du Canada;&lt;br/&gt;d) prévoir que le gouvernement fédéral prend des engagements :&lt;br/&gt;(i) pour protéger et promouvoir le français,&lt;br/&gt;(ii) pour contribuer à l'estimation du nombre d'enfants dont les parents sont titulaires du droit prévu à l'article 23 de la Charte canadienne des droits et libertés,&lt;br/&gt;(iii) pour renforcer les possibilités pour les minorités francophones et anglophones de faire des apprentissages de qualité dans leur propre langue tout au long de leur vie, notamment depuis la petite enfance jusqu'aux études postsecondaires,&lt;br/&gt;(iv) pour favoriser l'usage du français et de l'anglais dans la conduite des affaires extérieures du Canada;&lt;br/&gt;e) prévoir certaines mesures positives que les institutions fédérales peuvent prendre pour mettre en œuvre certains engagements du gouvernement fédéral, notamment toute mesure :&lt;br/&gt;(i) pour promouvoir et appuyer l'apprentissage du français et de l'anglais,&lt;br/&gt;(ii) pour appuyer des secteurs essentiels à l'épanouissement des minorités francophones et anglophones et pour protéger et promouvoir la présence d'institutions fortes qui desservent ces minorités;&lt;br/&gt;f) prévoir certaines mesures que le ministre du Patrimoine canadien peut prendre pour favoriser la progression vers l'égalité de statut et d'usage du français et de l'anglais dans la société canadienne;&lt;br/&gt;g) prévoir que le ministre de la Citoyenneté et de l'Immigration est tenu d'adopter une politique en matière d'immigration francophone;&lt;br/&gt;h) prévoir que le gouvernement fédéral reconnaît l'importance de la collaboration avec les gouvernements provinciaux et territoriaux;&lt;br/&gt;i) prévoir des droits concernant l'usage du français en tant que langue de service et langue de travail relativement aux entreprises privées de compétence fédérale au Québec et dans les régions à forte présence francophone;&lt;br/&gt;j) prévoir que le Conseil du Trésor est tenu de surveiller et vérifier l'observation par les institutions fédérales des principes, instructions et règlements en matière de langues officielles, d'évaluer l'efficacité des principes et programmes des institutions fédérales en matière de langues officielles et de fournir certaines informations au public et aux employés des institutions fédérales;&lt;br/&gt;k) permettre au commissaire aux langues officielles de conclure des accords de conformité et de rendre, dans certains cas, des ordonnances;&lt;br/&gt;l) permettre aux employés d'entreprises privées de compétence fédérale au Québec et dans les régions à forte présence francophone de porter plainte auprès du commissaire aux langues officielles relativement à des droits et obligations liés à la langue de travail, et permettre au commissaire de renvoyer la plainte au Conseil canadien des relations industrielles dans certaines circonstances.&lt;br/&gt;Il apporte également des modifications connexes et corrélatives à d'autres lois.&lt;/div&gt;</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information and Research Service of the Library of Parliament. Meanwhile, the following executive summary is available.&lt;br/&gt;&lt;br/&gt;On 15 June 2021, the Minister of Economic Development and Official Languages introduced Bill C-32, An Act to amend the Official Languages Act and to make related and consequential amendments to other Acts (An Act for the Substantive Equality of French and English and the Strengthening of the Official Languages Act), in the House of Commons and it was given first reading.    &lt;br/&gt;&lt;br/&gt;Bill C-32 amends the Official Languages Act to, among other things,&lt;br/&gt;(a) codify certain interpretative principles regarding language rights;&lt;br/&gt;(b) provide that the Minister of Canadian Heritage is responsible for exercising leadership within the Government of Canada in relation to the implementation of that Act;&lt;br/&gt;(c) provide that section 16 of that Act applies to the Supreme Court of Canada;&lt;br/&gt;(d) provide for Government of Canada commitments to&lt;br/&gt;(i) protect and promote French,&lt;br/&gt;(ii) contribute to an estimate of the number of children whose parents are rights holders under section 23 of the Canadian Charter of Rights and Freedoms,&lt;br/&gt;(iii) advance opportunities for members of English and French linguistic minority communities to pursue quality learning in their own language throughout their lives, including from early childhood to post-secondary education, and&lt;br/&gt;(iv) advance the use of English and French in the conduct of Canada's external affairs;&lt;br/&gt;(e) provide for certain positive measures that federal institutions may take to implement certain Government of Canada commitments, including measures to&lt;br/&gt;(i) promote and support the learning of English and French, and&lt;br/&gt;(ii) support sectors that are essential to enhancing the vitality of English and French linguistic minority communities and protect and promote the presence of strong institutions serving those communities;&lt;br/&gt;(f) provide for certain measures that the Minister of Canadian Heritage may take to advance the equality of status and use of English and French in Canadian society;&lt;br/&gt;(g) provide that the Minister of Citizenship and Immigration is required to adopt a policy on francophone immigration;&lt;br/&gt;(h) provide that the Government of Canada recognizes the importance of cooperating with provincial and territorial governments;&lt;br/&gt;(i) provide for rights respecting the use of French as a language of service and a language of work in relation to federally regulated private businesses in Quebec and regions with a strong francophone presence;&lt;br/&gt;(j) provide that the Treasury Board is required to monitor and audit federal institutions for their compliance with policies, directives and regulations relating to the official languages, evaluate the effectiveness and efficiency of policies and programs of federal institutions relating to the official languages and provide certain information to the public and to employees of federal institutions;&lt;br/&gt;(k) enable the Commissioner of Official Languages to enter into compliance agreements and, in certain cases, to make orders; and&lt;br/&gt;(l) permit employees of federally regulated private businesses in Quebec and regions with a strong francophone presence to make a complaint to the Commissioner of Official Languages with respect to rights and duties in relation to language of work, and permit that Commissioner to refer the complaint to the Canada Industrial Relations Board in certain circumstances.&lt;br/&gt;It also makes related and consequential amendments to other Acts.&lt;/div&gt;</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear />
+    <StatuteChapter />
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>43</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2021-06-15T10:06:49.603</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>118</Number>
+          <Date>2021-06-15T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2021-06-15T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2021-06-15T10:06:49.603</EventStartDateTime>
+          <EventEndDateTime>2021-06-15T10:06:49.603</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2021-06-15T10:06:49.603</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>43</ParliamentNumber>
+        <SessionNumber>2</SessionNumber>
+        <State>2</State>
+        <StateNameEn>No activity</StateNameEn>
+        <StateNameFr>Aucune activité</StateNameFr>
+        <StateAsOfDate />
+        <StateName>No activity</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteint</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+    </BillStages>
+    <Publications>
+      <PublicationId>11433223</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <HouseRulingAndStatements />
+    <SenateRulingAndStatements />
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Introduction of Bill C-32, an Act for the Substantive Equality of French and English and the Strengthening of the Official Languages Act</TitleEn>
+      <TitleFr>Dépôt du projet de loi visant l'égalité réelle du français et de l'anglais et le renforcement de la Loi sur les langues officielles</TitleFr>
+      <Title>Introduction of Bill C-32, an Act for the Substantive Equality of French and English and the Strengthening of the Official Languages Act</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/canadian-heritage/news/2021/06/introduction-of-bill-c-32-an-act-for-the-substantive-equality-of-french-and-english-and-the-strengthening-of-the-official-languages-act.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2021/06/depot-du-projet-de-loi-visant-legalite-reelle-du-francais-et-de-langlais-et-le-renforcement-de-la-loi-sur-les-langues-officielles.html</UrlFr>
+      <Url>https://www.canada.ca/en/canadian-heritage/news/2021/06/introduction-of-bill-c-32-an-act-for-the-substantive-equality-of-french-and-english-and-the-strengthening-of-the-official-languages-act.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Backgrounder: Details on the Tabling of the Bill to Modernize and Strengthen the Official Languages Act</TitleEn>
+      <TitleFr>Document d'information : Détails sur le dépôt du projet de loi pour moderniser et renforcer la Loi sur les langues officielles</TitleFr>
+      <Title>Backgrounder: Details on the Tabling of the Bill to Modernize and Strengthen the Official Languages Act</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/canadian-heritage/news/2021/06/backgrounder-details-on-the-tabling-of-the-bill-to-modernize-and-strengthen-the-official-languages-act.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2021/06/document-dinformation-details-sur-le-depot-du-projet-de-loi-pour-moderniser-et-renforcer-la-loi-sur-les-langues-officielles.html</UrlFr>
+      <Url>https://www.canada.ca/en/canadian-heritage/news/2021/06/backgrounder-details-on-the-tabling-of-the-bill-to-modernize-and-strengthen-the-official-languages-act.html</Url>
+    </WebReferences>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
