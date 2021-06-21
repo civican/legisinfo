@@ -5,7 +5,7 @@
 
 ## Summary
 
-This enactment amends the `Health of Animals Act` to make it an offence to enter a place in which animals are kept, or take in any animal or thing, if doing so could reasonably result in the exposure of the animals to a disease or toxic substance that is capable of affecting or contaminating them.
+This enactment amends the `Health of Animals Act` to make it an offence to enter, without lawful authority or excuse, a place in which animals are kept if doing so could result in the exposure of the animals to a disease or toxic substance that is capable of affecting or contaminating them.
 
 Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
@@ -18,8 +18,7 @@ The `Health of Animals Act` is amended by adding the following after section 9:
 
 ### Section 9.1
 
-No person shall enter a building or other enclosed place in which animals are kept, **or take in any animal or thing**, knowing that or being reckless as to whether entering such a
-place **or taking in the animal or thing** could **reasonably** result in the exposure of the animals to a disease or toxic substance that is capable of affecting or contaminating them.
+No person shall, without lawful authority or excuse, enter a building or other enclosed place in which animals are kept knowing that or being reckless as to whether entering such a place could result in the exposure of the animals to a disease or toxic substance that is capable of affecting or contaminating them.
 
 ### Section 2
 
@@ -27,7 +26,7 @@ place **or taking in the animal or thing** could **reasonably** result in the ex
 
 ### Section 65
 
-      **(1)** Every person who contravenes any provision of this Act, other than section 9.1 or 15, or the regulations or who refuses or neglects to perform any duty imposed by or under the Act or the regulations is guilty of
+      **(1)** Every person who contravenes any provision of this Act, other than section **9.1 or** 15, or the regulations or who refuses or neglects to perform any duty imposed by or under the Act or the regulations is guilty of
 
       **(2)** Section 65 of the Act is amended by adding the following after subsection (1):
 

@@ -1,40 +1,54 @@
-<?xml version="1.0" encoding="utf-8"?>
+
 
 <Bill bill-origin="commons" bill-type="private-public" xml:lang="en" date-time="2020-01-22 10:52:05">
   <Identification>
     <BillNumber>C-205</BillNumber>
     <Parliament>
-      <Session>2</Session>
+      <Session>1</Session>
       <Number>43</Number>
       <RegnalYear>
-        <Year-s>69-70</Year-s>
+        <Year-s>68-69</Year-s>
         <Monarch>Elizabeth II</Monarch>
       </RegnalYear>
-      <Year-s>2020-2021</Year-s>
+      <Year-s>2019-2020</Year-s>
     </Parliament>
     <LongTitle>An Act to amend the Health of Animals Act</LongTitle>
     <ShortTitle status="unofficial" />
     <RunningHead>An Act to amend the Health of Animals Act</RunningHead>
     <BillHistory>
-      <Stages stage="report-house">
+      <Stages stage="first-reading-house">
         <Date>
-          <YYYY>2021</YYYY>
-          <MM>6</MM>
-          <DD>21</DD>
+          <YYYY>2020</YYYY>
+          <MM>2</MM>
+          <DD>18</DD>
         </Date>
-      <StageText>Reprinted as amended by the Standing Committee on Agriculture and Agri-Food as a working copy for the use of the House of Commons at Report Stage and as reported to the House on June 21, 2021</StageText></Stages>
+      </Stages>
     </BillHistory>
     <BillSponsor>
       <Emphasis style="smallcaps">Mr. Barlow</Emphasis>
     </BillSponsor>
-    
+    <ReaderNote>
+      <Note>
+        <Provision justification="center" pointsize="10" topmarginspacing="0">
+          <Text>
+            <Emphasis style="bold">NOTE</Emphasis>
+          </Text>
+        </Provision>
+        <Provision justification="center">
+          <Text>2nd Session, 43rd Parliament</Text>
+        </Provision>
+        <Provision justification="justify" hyphenation="yes">
+          <Text>This bill was introduced during the first session of the 43rd Parliament. Pursuant to the Standing Orders of the House of Commons, it is deemed to have been considered and approved at all stages completed at the time of prorogation of the first session. The number of the bill remains unchanged.</Text>
+        </Provision>
+      </Note>
+    </ReaderNote>
     <BillRefNumber date-time="2020-01-22">431059</BillRefNumber>
   </Identification>
   <Introduction>
     <Summary>
       <TitleText>SUMMARY</TitleText>
       <Provision>
-        <Text>This enactment amends the <XRefExternal reference-type="act">Health of Animals Act</XRefExternal> to make it an offence to enter a place in which animals are kept, or take in any animal or thing, if doing so could reasonably result in the exposure of the animals to a disease or toxic substance that is capable of affecting or contaminating them. </Text>
+        <Text>This enactment amends the <XRefExternal reference-type="act">Health of Animals Act</XRefExternal> to make it an offence to enter, without lawful authority or excuse, a place in which animals are kept if doing so could result in the exposure of the animals to a disease or toxic substance that is capable of affecting or contaminating them. </Text>
       </Provision>
     </Summary>
     <Enacts>
@@ -54,11 +68,10 @@
       <Label>1</Label>
       <Text>The <XRefExternal reference-type="act">Health of Animals Act</XRefExternal> is amended by adding the following after section 9:</Text>
       <AmendedText>
-        <Section>
+        <Section change="ins">
           <MarginalNote>Exposure of animals to disease or toxic substance</MarginalNote>
           <Label>9.1</Label>
-          <Text>No person shall enter a building or other enclosed place in which animals are kept, <Ins>or take in any animal or thing</Ins>, knowing that or being reckless as to whether entering such a
-place <Ins>or taking in the animal or thing</Ins> could <Ins>reasonably</Ins> result in the exposure of the animals to a disease or toxic substance that is capable of affecting or contaminating them.</Text>
+          <Text>No person shall, without lawful authority or excuse, enter a building or other enclosed place in which animals are kept knowing that or being reckless as to whether entering such a place could result in the exposure of the animals to a disease or toxic substance that is capable of affecting or contaminating them.</Text>
         </Section>
       </AmendedText>
     </Section>
@@ -73,13 +86,13 @@ place <Ins>or taking in the animal or thing</Ins> could <Ins>reasonably</Ins> re
             <Label>65</Label>
             <Subsection>
               <Label>(1)</Label>
-              <Text>Every person who contravenes any provision of this Act, other than section 9.1 or 15, or the regulations or who refuses or neglects to perform any duty imposed by or under the Act or the regulations is guilty of</Text>
+              <Text>Every person who contravenes any provision of this Act, other than section <Ins>9.1 or</Ins> 15, or the regulations or who refuses or neglects to perform any duty imposed by or under the Act or the regulations is guilty of</Text>
             </Subsection>
             <Subsection type="amending">
               <Label>(2)</Label>
               <Text>Section 65 of the Act is amended by adding the following after subsection (1):</Text>
             </Subsection>
-            <Subsection>
+            <Subsection change="ins">
               <MarginalNote>Exposure of animals to disease – individuals</MarginalNote>
               <Label>(1.1)</Label>
               <Text>Every individual who contravenes section 9.1 is guilty of </Text>
@@ -92,7 +105,7 @@ place <Ins>or taking in the animal or thing</Ins> could <Ins>reasonably</Ins> re
                 <Text>an indictable offence and liable to a fine not exceeding two hundred and fifty thousand dollars or to imprisonment for a term not exceeding two years, or to both.</Text>
               </Paragraph>
             </Subsection>
-            <Subsection>
+            <Subsection change="ins">
               <MarginalNote>Exposure of animals to disease – other persons</MarginalNote>
               <Label>(1.2)</Label>
               <Text>Every person, other than an individual, that contravenes section 9.1 is guilty of</Text>
