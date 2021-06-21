@@ -1,8 +1,5 @@
 # Bill C-210: An Act to amend the Canada Revenue Agency Act (organ and tissue donors)
 
-**Sponsor**: 
-      
-
 ## Summary
 
 This enactment amends the `Canada Revenue Agency Act` to authorize the Canada Revenue Agency to enter into an agreement with a province or a territory regarding the collection and disclosure of information required for establishing or maintaining an organ and tissue donor registry in the province or territory.
