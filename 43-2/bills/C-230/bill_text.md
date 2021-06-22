@@ -1,18 +1,16 @@
-# Bill C-230: An Act respecting the development of a national strategy to 
+# Bill C-230: An Act respecting the development of a national strategy to redress environmental racism
 
 ## Summary
 
-This enactment requires the Minister of the Environment, in consultation or cooperation with any persons, bodies, organizations or communities who are interested, to develop a national strategy to promote efforts across Canada to address the harm caused by environmental racism. It also provides for reporting requirements in relation to the strategy.
+This enactment requires the Minister of the Environment, in consultation with representatives of provincial and municipal governments, of Indigenous communities and of other affected communities, to develop a national strategy to promote efforts across Canada to redress the harm caused by environmental racism. It also provides for reporting requirements in relation to the strategy.
 
-Whereas the Government of Canada recognizes the need to advance environmental justice across Canada and the importance of continuing to work towards eliminating racism and racial discrimination in all their forms and manifestations;
-
-Whereas a disproportionate number of people who live in environmentally hazardous areas are members of an Indigenous, racialized or **other marginalized** community;
+Whereas a disproportionate number of people who live in environmentally hazardous areas are members of an Indigenous or racialized community;
 
 Whereas the establishing of environmentally hazardous sites, including landfills and polluting industries, in areas inhabited primarily by members of those communities could be considered a form of racial discrimination;
 
-Whereas **the Government of Canada recognizes that it is important to meaningfully involve all Canadians — and, in particular, marginalized** communities **— in the development of** environmental **policy and that** racial discrimination **in the development of environmental policy** would constitute environmental racism;
+Whereas racial discrimination in respect of environmental policy-making, including the targeting of certain communities for the establishment of environmentally hazardous sites and the subsequent neglect of those communities in relation to the cleanup of those sites, would constitute environmental racism;
 
-Whereas the Government of Canada is committed to **assessing and** preventing environmental racism and to providing affected communities with the opportunity to participate in, **among other things**, finding solutions to **address** harm caused by environmental racism;
+Whereas the Government of Canada is committed to preventing environmental racism and to providing affected communities with the opportunity to participate in finding solutions to redress the harm caused by environmental racism;
 
 And whereas the Government of Canada recognizes that collaboration and a coordinated national strategy are key to promoting effective change and achieving environmental justice;
 
@@ -23,7 +21,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 ### Section 1
 
-This Act may be cited as the `National Strategy **Respecting** Environmental Racism **and Environmental Justice** Act`.
+This Act may be cited as the `National Strategy to Redress Environmental Racism Act`.
 
 
 ## Interpretation
@@ -33,31 +31,35 @@ This Act may be cited as the `National Strategy **Respecting** Environmental Rac
 In this Act, **Minister** means the Minister of the Environment.
 
 
-## National Strategy **Respecting** Environmental Racism **and Environmental Justice**
+## National Strategy to Redress Environmental Racism
 
 ### Section 3
 
-  **(1)** The Minister must develop a national strategy to promote efforts across Canada to **advance environmental justice and to assess, prevent and address** environmental racism.
+  **(1)** The Minister must develop a national strategy to promote efforts across Canada to redress the harm caused by environmental racism.
 
-  **(2)** In developing the strategy, the Minister must consult **or cooperate** with any persons, bodies, **organizations or** communities — **including** other **Ministers**, representatives of governments **in Canada,** and Indigenous communities — **who are interested and ensures that it is consistent with the framework for the Government of Canada's implementation of the United Nations Declaration on the Rights of Indigenous Peoples**.
+  **(2)** In developing the strategy, the Minister must consult with representatives of provincial and municipal governments, of Indigenous communities and of other affected communities, as well as with any other affected persons and bodies.
 
-  **(3)** The strategy must include
+  **(3)** The strategy must include measures to
 
-    **a study that must include**
+    examine the link between race, socio-economic status and environmental risk;
 
-    **an examination of** the link between race, socio-economic status and environmental risk, and
+    collect information and statistics relating to the location of environmental hazards;
 
-    information and statistics relating to the location of environmental hazards; and
+    collect information and statistics relating to negative health outcomes in communities that have been affected by environmental racism;
 
-    measures **that can be taken to advance environmental justice and assess, prevent and** address environmental racism **and that may include**
+    assess the administration and enforcement of environmental laws in each province; and
+
+    address environmental racism including in relation to
 
     possible amendments to federal laws, policies and programs,
 
     the involvement of community groups in environmental policy-making,
 
-    compensation for individuals or communities, and
+    compensation for individuals or communities,
 
-    **the collection of** information and statistics relating to health outcomes in communities **located in proximity to environmental hazards**.
+    ongoing funding for affected communities, and
+
+    access of affected communities to clean air and water.
 
 
 ## Reports to Parliament
