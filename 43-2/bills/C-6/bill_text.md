@@ -1,7 +1,5 @@
 # Bill C-6: An Act to amend the Criminal Code (conversion therapy)
 
-**Sponsor**: MINISTER OF JUSTICE
-
 ## Summary
 
 This enactment amends the `Criminal Code` to, among other things, create the following offences:
@@ -20,8 +18,8 @@ It also amends the `Criminal Code` to authorize courts to order that advertiseme
 
 Whereas conversion therapy causes harm to the persons, and in particular the children, who are subjected to it;
 
-Whereas conversion therapy causes harm to society because, among other things, it is based on and propagates myths and stereotypes about sexual orientation, gender identity and **gender expression**, including the myth that a person's sexual orientation,
-gender identity and **gender expression** ought to be changed;
+Whereas conversion therapy causes harm to society because, among other things, it is based on and propagates myths and stereotypes about sexual orientation, gender identity and gender expression, including the myth that a person's sexual orientation,
+gender identity and gender expression ought to be changed;
 
 And whereas, in light of those harms, it is important to discourage and denounce the provision of conversion therapy in order to protect the human dignity and equality of all Canadians;
 
@@ -97,14 +95,14 @@ The Act is amended by adding the following after section 320.1:
 
 ### Section 320.101
 
-In sections 320.102 to 320.106, **conversion therapy** means a practice, treatment or service designed to change a person's sexual orientation to heterosexual, **to change a person's** gender identity or
-**gender expression** to cisgender or to repress or reduce non-heterosexual attraction or sexual behaviour
-**or non-cisgender gender expression**. For greater certainty, this definition does not include a practice, treatment or service that relates to **the exploration and development of an integrated personal
-identity without favouring any particular sexual orientation, gender identity or gender expression**.
+In sections 320.102 to 320.105, **conversion therapy** means a practice, treatment or service designed to change a person's sexual orientation to heterosexual, to change a person's gender identity or
+gender expression to cisgender or to repress or reduce non-heterosexual attraction or sexual behaviour
+or non-cisgender gender expression. For greater certainty, this definition does not include a practice, treatment or service that relates to the exploration and development of an integrated personal
+identity without favouring any particular sexual orientation, gender identity or gender expression.
 
 ### Section 320.102
 
-Everyone who knowingly causes a person to undergo conversion therapy **without** the person's **consent** is
+Everyone who knowingly causes a person to undergo conversion therapy without the person's consent is
 
 guilty of an indictable offence and liable to imprisonment for a term of not more than five years; or
 
@@ -122,7 +120,7 @@ guilty of an offence punishable on summary conviction.
 
 ### Section 320.104
 
-Everyone who knowingly **promotes or** advertises an offer to provide conversion therapy is
+Everyone who knowingly promotes or advertises an offer to provide conversion therapy is
 
 guilty of an indictable offence and liable to imprisonment for a term of not more than two years; or
 
