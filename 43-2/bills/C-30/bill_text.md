@@ -1,7 +1,5 @@
 # Bill C-30: An Act to implement certain provisions of the budget tabled in Parliament on April 19, 2021 and other measures
 
-**Sponsor**: DEPUTY PRIME MINISTER AND MINISTER OF FINANCE
-
 His Excellency the Administrator of the Government of Canada recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act to implement certain provisions of the budget tabled in Parliament on April 19, 2021 and other measures*".
 
 ## Summary
@@ -136,13 +134,13 @@ Division 3 of Part 4 amends the `Budget Implementation Act, 2018, No. 2` to excl
 
 Division 4 of Part 4 amends the `Trust and Loan Companies Act`, the `Bank Act` and the `Insurance Companies Act` to extend the period during which federal financial institutions governed by those Acts may carry on business to June 30, 2025.
 
-Division 6 of Part 4 amends the `Justice for Victims of Corrupt Foreign Officials Act (Sergei Magnitsky Law)` to
+Division 5 of Part 4 amends the `Justice for Victims of Corrupt Foreign Officials Act (Sergei Magnitsky Law)` to
 
 provide that the entities referred to in that Act are no longer required to disclose to the principal agency or body that supervises or regulates them the fact that they do not have in their possession or control any property of a foreign national who is the subject of an order or regulation made under that Act; and
 
 change the frequency with which those entities are required to disclose to the principal agency or body that supervises or regulates them the fact that they have such property in their possession or control from once a month to once every three months.
 
-Division 7 of Part 4 amends the `Proceeds of Crime (Money Laundering) and Terrorist Financing Act` to
+Division 6 of Part 4 amends the `Proceeds of Crime (Money Laundering) and Terrorist Financing Act` to
 
 extend the application of Part 1 of that Act to include persons and entities engaged in the business of transporting currency or certain other financial instruments;
 
@@ -156,27 +154,27 @@ expand the list of persons or entities that are not eligible for registration wi
 
 make other technical amendments.
 
-Division 8 of Part 4 enacts the `Retail Payment Activities Act`, which establishes an oversight framework for retail payment activities. Among other things, that Act requires certain payment service providers to identify and mitigate operational risks, safeguard end-user funds and register with the Bank of Canada. That Act also provides the Minister of Finance with powers to address risks related to national security that could be posed by payment service providers. This Division also makes related amendments to the `Canada Deposit Insurance Corporation Act`, the `Proceeds of Crime (Money Laundering) and Terrorist Financing Act`, the `Financial Consumer Agency of Canada Act` and the `Payment Card Networks Act`.
+Division 7 of Part 4 enacts the `Retail Payment Activities Act`, which establishes an oversight framework for retail payment activities. Among other things, that Act requires certain payment service providers to identify and mitigate operational risks, safeguard end-user funds and register with the Bank of Canada. That Act also provides the Minister of Finance with powers to address risks related to national security that could be posed by payment service providers. This Division also makes related amendments to the `Canada Deposit Insurance Corporation Act`, the `Proceeds of Crime (Money Laundering) and Terrorist Financing Act`, the `Financial Consumer Agency of Canada Act` and the `Payment Card Networks Act`.
 
-Division 9 of Part 4 amends the `Pension Benefits Standards Act, 1985` to establish new requirements and grant new regulation-making powers to the Governor in Council with respect to negotiated contribution plans.
+Division 8 of Part 4 amends the `Pension Benefits Standards Act, 1985` to establish new requirements and grant new regulation-making powers to the Governor in Council with respect to negotiated contribution plans.
 
-Division 10 of Part 4 amends the `First Nations Fiscal Management Act` to allow First Nations that are borrowing members of the First Nations Finance Authority to assign their rights to certain revenues payable by Her Majesty in right of Canada, for the purpose of securing financing for that Authority's borrowing members.
+Division 9 of Part 4 amends the `First Nations Fiscal Management Act` to allow First Nations that are borrowing members of the First Nations Finance Authority to assign their rights to certain revenues payable by Her Majesty in right of Canada, for the purpose of securing financing for that Authority's borrowing members.
 
-Division 11 of Part 4 amends the `Federal-Provincial Fiscal Arrangements Act` to, among other things, increase the maximum amount of a fiscal stabilization payment that may be made to a province and to make technical changes to the calculation of fiscal stabilization payments.
+Division 10 of Part 4 amends the `Federal-Provincial Fiscal Arrangements Act` to, among other things, increase the maximum amount of a fiscal stabilization payment that may be made to a province and to make technical changes to the calculation of fiscal stabilization payments.
 
-Division 12 of Part 4 amends the `Federal-Provincial Fiscal Arrangements Act` to authorize additional payments to the provinces and territories.
+Division 11 of Part 4 amends the `Federal-Provincial Fiscal Arrangements Act` to authorize additional payments to the provinces and territories.
 
-Division 13 of Part 4 authorizes payments to be made out of the Consolidated Revenue Fund in relation to Canada's COVID-19 immunization plan.
+Division 12 of Part 4 authorizes payments to be made out of the Consolidated Revenue Fund in relation to Canada's COVID-19 immunization plan.
 
-Division 14 of Part 4 authorizes payments to be made out of the Consolidated Revenue Fund in relation to infrastructure and amends the heading of Part 9 of the `Keeping Canada's Economy and Jobs Growing Act`.
+Division 13 of Part 4 authorizes payments to be made out of the Consolidated Revenue Fund in relation to infrastructure and amends the heading of Part 9 of the `Keeping Canada's Economy and Jobs Growing Act`.
 
-Division 15 of Part 4 authorizes amounts to be paid out of the Consolidated Revenue Fund, to a maximum total amount of $3,056,491,000, for annual payments to Newfoundland and Labrador in accordance with the terms and conditions of the Hibernia Dividend Backed Annuity Agreement.
+Division 14 of Part 4 authorizes amounts to be paid out of the Consolidated Revenue Fund, to a maximum total amount of $3,056,491,000, for annual payments to Newfoundland and Labrador in accordance with the terms and conditions of the Hibernia Dividend Backed Annuity Agreement.
 
-Division 16 of Part 4 amends the `Nova Scotia and Newfoundland and Labrador Additional Fiscal Equalization Offset Payments Act` to authorize the Minister of Finance to make an additional fiscal equalization offset payment to Nova Scotia for the 2020–2021 fiscal year and to extend that Minister's authority to make additional fiscal equalization offset payments to Nova Scotia until March 31, 2023.
+Division 15 of Part 4 amends the `Nova Scotia and Newfoundland and Labrador Additional Fiscal Equalization Offset Payments Act` to authorize the Minister of Finance to make an additional fiscal equalization offset payment to Nova Scotia for the 2020–2021 fiscal year and to extend that Minister's authority to make additional fiscal equalization offset payments to Nova Scotia until March 31, 2023.
 
-Division 17 of Part 4 amends the `Telecommunications Act` to provide that decisions made by the Canadian Radio-television and Telecommunications Commission on whether or not to allocate funding to expand access to telecommunications services in underserved areas are not subject to review under section 12 or 62 of that Act but are subject to review by the Commission on its own initiative. It also amends that Act to provide for the exchange of information within the federal government and with provincial governments for the purpose of coordinating financial support for access to telecommunications services in underserved areas.
+Division 16 of Part 4 amends the `Telecommunications Act` to provide that decisions made by the Canadian Radio-television and Telecommunications Commission on whether or not to allocate funding to expand access to telecommunications services in underserved areas are not subject to review under section 12 or 62 of that Act but are subject to review by the Commission on its own initiative. It also amends that Act to provide for the exchange of information within the federal government and with provincial governments for the purpose of coordinating financial support for access to telecommunications services in underserved areas.
 
-Division 18 of Part 4 amends the `Canada Small Business Financing Act` to, among other things,
+Division 17 of Part 4 amends the `Canada Small Business Financing Act` to, among other things,
 
 specify that lines of credit are loans;
 
@@ -188,11 +186,11 @@ increase the maximum amount of all loans that may be made in relation to a borro
 
 provide that lesser maximum loan amounts may be prescribed by regulation for loans other than lines of credit, lines of credit and prescribed classes of loans.
 
-Division 19 of Part 4 amends the `Customs Act` to change certain rules respecting the correction of declarations made under section 32.2 of that Act, the payment of interest due to Her Majesty and securities required under that Act, and to define the expression "sold for export to Canada" for the purposes of Part III of that Act.
+Division 18 of Part 4 amends the `Customs Act` to change certain rules respecting the correction of declarations made under section 32.2 of that Act, the payment of interest due to Her Majesty and securities required under that Act, and to define the expression "sold for export to Canada" for the purposes of Part III of that Act.
 
-Division 20 of Part 4 amends the `Canada–United States–Mexico Agreement Implementation Act` to require the concurrence of the Minister of Finance when the Minister designated for the purposes of section 16 of that Act appoints panellists and committee members and proposes the names of individuals for rosters under Chapter 10 of the Canada–United States–Mexico Agreement.
+Division 19 of Part 4 amends the `Canada–United States–Mexico Agreement Implementation Act` to require the concurrence of the Minister of Finance when the Minister designated for the purposes of section 16 of that Act appoints panellists and committee members and proposes the names of individuals for rosters under Chapter 10 of the Canada–United States–Mexico Agreement.
 
-Division 21 of Part 4 amends Part 5 of the `Department of Employment and Social Development Act` to make certain reforms to the Social Security Tribunal, including
+Division 20 of Part 4 amends Part 5 of the `Department of Employment and Social Development Act` to make certain reforms to the Social Security Tribunal, including
 
 changing the criteria for granting leave to appeal and introducing a de novo model for appeals of decisions of the Income Security Section at the Appeal Division;
 
@@ -200,15 +198,15 @@ giving the Governor in Council the authority to prescribe the circumstances in w
 
 giving the Chairperson of the Social Security Tribunal the authority to make rules of procedure governing appeals.
 
-Division 22 of Part 4 amends the definition of "previous contractor" in Part I of the `Canada Labour Code` in order to extend equal remuneration protection to employees who are covered by a collective agreement and who work for an employer that
+Division 21 of Part 4 amends the definition of "previous contractor" in Part I of the `Canada Labour Code` in order to extend equal remuneration protection to employees who are covered by a collective agreement and who work for an employer that
 
 provides services at an airport to another employer in the air transportation industry; or
 
 provides services to another employer in another industry and at other locations that may be prescribed by regulation.
 
-Division 23 of Part 4 amends Part III of the `Canada Labour Code` to establish a federal minimum wage of $15 per hour and to provide that if the minimum wage of a province or territory is higher than the federal minimum wage, the employer is to pay a minimum wage that is not less than that higher minimum wage. It also provides that, except in certain circumstances, the federal minimum wage per hour is to be adjusted upwards annually on the basis of the Consumer Price Index for Canada.
+Division 22 of Part 4 amends Part III of the `Canada Labour Code` to establish a federal minimum wage of $15 per hour and to provide that if the minimum wage of a province or territory is higher than the federal minimum wage, the employer is to pay a minimum wage that is not less than that higher minimum wage. It also provides that, except in certain circumstances, the federal minimum wage per hour is to be adjusted upwards annually on the basis of the Consumer Price Index for Canada.
 
-Division 24 of Part 4 amends the provisions of the `Canada Labour Code` respecting leave related to the death or disappearance of a child in cases in which it is probable that the child died or disappeared as a result of a crime, in order to, among other things,
+Division 23 of Part 4 amends the provisions of the `Canada Labour Code` respecting leave related to the death or disappearance of a child in cases in which it is probable that the child died or disappeared as a result of a crime, in order to, among other things,
 
 increase the maximum length of leave for a parent of a child who has disappeared from 52 weeks to 104 weeks;
 
@@ -216,27 +214,27 @@ extend eligibility to parents of children who are 18 years of age or older but u
 
 limit the exception that applies in the case of a parent of a child who has died as a result of a crime if it is probable that the child was a party to the crime so that the exception applies only with respect to a child who is 14 years of age or older.
 
-Division 25 of Part 4 authorizes the Minister of Employment and Social Development to make a one-time payment to Quebec for the purpose of offsetting some of the costs of aligning the Quebec Parental Insurance Plan with temporary measures set out in Part VIII.5 of the `Employment Insurance Act`.
+Division 24 of Part 4 authorizes the Minister of Employment and Social Development to make a one-time payment to Quebec for the purpose of offsetting some of the costs of aligning the Quebec Parental Insurance Plan with temporary measures set out in Part VIII.5 of the `Employment Insurance Act`.
 
-Division 26 of Part 4 amends the `Judges Act` to provide that, if the Canadian Judicial Council recommends that a judge be removed from judicial office, the time counted towards the judge's pension entitlements will be frozen and their pension contributions will be suspended, as of the day on which the recommendation is made. If the recommendation is rejected, the judge's pension contributions will resume, the time counted towards their pension entitlement will include the suspension period and the judge will be required to make all the contributions that would have been required had the contributions never been suspended.
+Division 25 of Part 4 amends the `Judges Act` to provide that, if the Canadian Judicial Council recommends that a judge be removed from judicial office, the time counted towards the judge's pension entitlements will be frozen and their pension contributions will be suspended, as of the day on which the recommendation is made. If the recommendation is rejected, the judge's pension contributions will resume, the time counted towards their pension entitlement will include the suspension period and the judge will be required to make all the contributions that would have been required had the contributions never been suspended.
 
-Division 27 of Part 4 amends the `Federal Courts Act` and the `Tax Court of Canada Act` to increase the number of judges for the Federal Court of Appeal by one and the number of judges for the Tax Court of Canada by two. It also amends the `Judges Act` to authorize the salary for the new Associate Chief Justice for the Trial Division of the Supreme Court of Newfoundland and Labrador and the salaries for the following new judges: five judges for the Ontario Superior Court of Justice, two judges for the Supreme Court of British Columbia and two judges for the Court of Queen's Bench for Saskatchewan.
+Division 26 of Part 4 amends the `Federal Courts Act` and the `Tax Court of Canada Act` to increase the number of judges for the Federal Court of Appeal by one and the number of judges for the Tax Court of Canada by two. It also amends the `Judges Act` to authorize the salary for the new Associate Chief Justice for the Trial Division of the Supreme Court of Newfoundland and Labrador and the salaries for the following new judges: five judges for the Ontario Superior Court of Justice, two judges for the Supreme Court of British Columbia and two judges for the Court of Queen's Bench for Saskatchewan.
 
-Division 28 of Part 4 amends the `National Research Council Act` to provide the National Research Council of Canada with the authority to engage in the production of "drugs" or "devices", as those terms are defined in the `Food and Drugs Act`, for the purpose of protecting or improving public health. It also amends that Act to provide authority for the incorporation of corporations and the acquisition of shares in corporations.
+Division 27 of Part 4 amends the `National Research Council Act` to provide the National Research Council of Canada with the authority to engage in the production of "drugs" or "devices", as those terms are defined in the `Food and Drugs Act`, for the purpose of protecting or improving public health. It also amends that Act to provide authority for the incorporation of corporations and the acquisition of shares in corporations.
 
-Division 29 of Part 4 amends the `Department of Employment and Social Development Act` in relation to the collection and use of Social Insurance Numbers by the Minister of Labour.
+Division 28 of Part 4 amends the `Department of Employment and Social Development Act` in relation to the collection and use of Social Insurance Numbers by the Minister of Labour.
 
-Division 30 of Part 4 amends the `Canada Student Loans Act` to provide that, during the period that begins on April 1, 2021 and ends on March 31, 2023, no interest is payable by a borrower on a guaranteed student loan.
+Division 29 of Part 4 amends the `Canada Student Loans Act` to provide that, during the period that begins on April 1, 2021 and ends on March 31, 2023, no interest is payable by a borrower on a guaranteed student loan.
 
 It also amends the `Canada Student Financial Assistance Act` to provide that, during the period that begins on April 1, 2021 and ends on March 31, 2023, no interest is payable by a borrower on a student loan.
 
 Finally, it amends the `Apprentice Loans Act` to provide that, during the period that begins on April 1, 2021 and ends on March 31, 2023, no interest is payable by a borrower on an apprentice loan.
 
-Division 31 of Part 4 confirms the validity of certain regulations in relation to the cancellation or postponement of certain First Nations elections.
+Division 30 of Part 4 confirms the validity of certain regulations in relation to the cancellation or postponement of certain First Nations elections.
 
-Division 32 of Part 4 amends the `Old Age Security Act` to increase the Old Age Security pension payable to individuals aged 75 and over by 10%. It also provides that any amount payable in relation to a program to provide a one-time payment of $500 to pensioners who are 75 years of age or older may be paid out of the Consolidated Revenue Fund.
+Division 31 of Part 4 amends the `Old Age Security Act` to increase the Old Age Security pension payable to individuals aged 75 and over by 10%. It also provides that any amount payable in relation to a program to provide a one-time payment of $500 to pensioners who are 75 years of age or older may be paid out of the Consolidated Revenue Fund.
 
-Division 33 of Part 4 amends the `Public Service Employment Act` to, among other things,
+Division 32 of Part 4 amends the `Public Service Employment Act` to, among other things,
 
 require that the establishment and review of qualification standards and the use of assessment methods in respect of appointments include an evaluation of whether there are biases or barriers that disadvantage persons belonging to any equity-seeking group;
 
@@ -244,9 +242,9 @@ provide that audits and investigations may include the determination of whether 
 
 give permanent residents the same preference as Canadian citizens in external advertised appointment processes.
 
-Division 34 of Part 4 authorizes the making of payments to the provinces for early learning and child care for the fiscal year beginning on April 1, 2021.
+Division 33 of Part 4 authorizes the making of payments to the provinces for early learning and child care for the fiscal year beginning on April 1, 2021.
 
-Division 35 of Part 4 amends the `Canada Recovery Benefits Act` to, among other things,
+Division 34 of Part 4 amends the `Canada Recovery Benefits Act` to, among other things,
 
 provide that the maximum number of two-week periods in respect of which a Canada recovery benefit is payable is 25;
 
@@ -262,7 +260,7 @@ It also amends the `Canada Labour Code` to provide that the maximum number of we
 
 Finally, it repeals provisions of the `Canada Recovery Benefits Regulations` and the `Canada Labour Standards Regulations`.
 
-Division 36 of Part 4 amends the `Employment Insurance Act` to, among other things,
+Division 35 of Part 4 amends the `Employment Insurance Act` to, among other things,
 
 facilitate access to unemployment benefits for a period of one year by
 
@@ -284,7 +282,7 @@ It also amends the `Employment Insurance Regulations` to, among other things, en
 
 Finally, it amends the `Employment Insurance (Fishing) Regulations` to, among other things, reduce, for a period of one year, the amount of earnings that a fisher is required to have to qualify for unemployment benefits.
 
-Division 37 of Part 4 amends the `Canada Elections Act` to provide that the offences related to the prohibition on making or publishing certain false statements with the intention of affecting the results of an election require that the person or the entity making or publishing the statement knows that the statement in question is false.
+Division 36 of Part 4 amends the `Canada Elections Act` to provide that the offences related to the prohibition on making or publishing certain false statements with the intention of affecting the results of an election require that the person or the entity making or publishing the statement knows that the statement in question is false.
 
 
 ## TABLE OF PROVISIONS
@@ -334,11 +332,6 @@ Division 37 of Part 4 amends the `Canada Elections Act` to provide that the offe
 ### Sunset Provisions
 
 
-
-
-### Canadian Securities Regulation Regime Transition Office Act
-
-[*Deleted*]
 
 
 ### Justice for Victims of Corrupt Foreign Officials Act (Sergei Magnitsky Law)
@@ -5473,16 +5466,9 @@ Subsection 558(1) of the Act is replaced by the following:
     **(4)** If Parliament dissolves on the day set out in subsection (1) or on any day within the six-month period before that day or on any day within an extension ordered under subsection (2), insurance holding companies may continue to carry on business until the end of the 180th day after the first day of the first session of the next Parliament.
 
 
-### Canadian Securities Regulation Regime Transition Office Act
-
-### Section 158
-
-[*Deleted*]
-
-
 ### `Justice for Victims of Corrupt Foreign Officials Act (Sergei Magnitsky Law)`
 
-### Section 159
+### Section 158
 
 Subsection 7(1) of the `Justice for Victims of Corrupt Foreign Officials Act (Sergei Magnitsky Law)` is replaced by the following:
 
@@ -5496,7 +5482,7 @@ Subsection 7(1) of the `Justice for Victims of Corrupt Foreign Officials Act (Se
 
 #### Amendments to the Act
 
-### Section 160
+### Section 159
 
   **(1)** Paragraph 5(h) of the `Proceeds of Crime (Money Laundering) and Terrorist Financing Act` is amended by adding the following after subparagraph (ii):
 
@@ -5506,7 +5492,7 @@ Subsection 7(1) of the `Justice for Victims of Corrupt Foreign Officials Act (Se
 
     transporting currency or money orders, traveller's cheques or other similar negotiable instruments except for cheques payable to a named person or entity,
 
-### Section 161
+### Section 160
 
   **(1)** The definition **head of an international organization** in subsection 9.3(3) of the Act is replaced by the following:
 
@@ -5530,13 +5516,13 @@ Subsection 7(1) of the `Justice for Victims of Corrupt Foreign Officials Act (Se
 
     mayor, reeve or other similar chief officer of a municipal or local government. (**national politiquement vulnérable**)
 
-### Section 162
+### Section 161
 
 Subsection 9.6(3) of the French version of the Act is replaced by the following:
 
 **(3)** La personne ou entité prend les mesures spéciales prévues par règlement dans les circonstances réglementaires ou si, à tout moment, elle estime que les risques visés au paragraphe (2) sont élevés.
 
-### Section 163
+### Section 162
 
   **(1)** Subsection 11.11(1) of the Act is amended by adding the following after paragraph (b.1):
 
@@ -5556,13 +5542,13 @@ Subsection 9.6(3) of the French version of the Act is replaced by the following:
 
     subsection 239(1) or (1.1) of the `Income Tax Act`;
 
-### Section 164
+### Section 163
 
 Paragraph 11.42(2)(b) of the Act is replaced by the following:
 
 the exercise of customer due diligence, including ascertaining the source of funds or of virtual currency in any financial transaction, the purpose of any financial transaction or the beneficial ownership or control of any entity;
 
-### Section 165
+### Section 164
 
 The Act is amended by adding the following after section 50:
 
@@ -5577,7 +5563,7 @@ The Act is amended by adding the following after section 50:
 
   **(3)** If the Centre carries on any activity under paragraph 58(1)(b) or (c) on the Minister's recommendation, the Minister may on terms and conditions approved by the Treasury Board, in any fiscal year, make a payment out of the Consolidated Revenue Fund to the Centre for the purposes of the activity.
 
-### Section 166
+### Section 165
 
 The Act is amended by adding the following after section 51:
 
@@ -5620,13 +5606,13 @@ The Act is amended by adding the following after section 51:
 
   **(3)** Interest may be charged on the unpaid amount of an assessment or interim assessment at a rate equal to the rate prescribed under the `Income Tax Act` for amounts payable by the Minister of National Revenue as refunds of overpayments of tax under that Act in effect from time to time plus 2%.
 
-### Section 167
+### Section 166
 
 Section 54 of the Act is amended by adding the following after subsection (1):
 
 **(1.1)** For greater certainty, if the Centre receives a report from a person or entity referred to in section 5, the Centre may, for the purposes of paragraph (1)(c), request that the person or entity provide any information required in the report.
 
-### Section 168
+### Section 167
 
   **(1)** The portion of subsection 55(1) of the Act before paragraph (a) is replaced by the following:
 
@@ -5670,7 +5656,7 @@ Section 54 of the Act is amended by adding the following after subsection (1):
 
     the name, address, electronic mail address and telephone number of each person who owns or controls, directly or indirectly, 25% or more of an entity referred to in paragraph (a), other than a trust, unless the trust is widely held or publicly traded; and
 
-### Section 169
+### Section 168
 
   **(1)** Paragraph 55.1(1)(e) of the Act is replaced by the following:
 
@@ -5712,7 +5698,7 @@ Section 54 of the Act is amended by adding the following after subsection (1):
 
     the name, address, electronic mail address and telephone number of each person who owns or controls, directly or indirectly, 25% or more of an entity referred to in paragraph (a), other than a trust, unless the trust is widely held or publicly traded; and
 
-### Section 170
+### Section 169
 
   **(1)** Paragraph 56.1(5)(a) of the French version of the Act is replaced by the following:
 
@@ -5750,7 +5736,7 @@ Section 54 of the Act is amended by adding the following after subsection (1):
 
     the name, address, electronic mail address and telephone number of each person who owns or controls, directly or indirectly, 25% or more of an entity referred to in paragraph (a), other than a trust, unless the trust is widely held or publicly traded; and
 
-### Section 171
+### Section 170
 
 Subsection 73(1) of the Act is amended by striking out "and" at the end of paragraph (k) and by adding the following after that paragraph:
 
@@ -5758,7 +5744,7 @@ respecting the assessments referred to in section 51.1;
 
 respecting the assessments referred to in section 51.2; and
 
-### Section 172
+### Section 171
 
   **(1)** Paragraph 74(1)(a) of the Act is replaced by the following:
 
@@ -5768,7 +5754,7 @@ respecting the assessments referred to in section 51.2; and
 
     on summary conviction, to a fine of not more than $250,000 or to imprisonment for a term of not more than two years less a day, or to both; or
 
-### Section 173
+### Section 172
 
 The portion of subsection 75(1) of the Act before paragraph (b) is replaced by the following:
 
@@ -5778,7 +5764,7 @@ The portion of subsection 75(1) of the Act before paragraph (b) is replaced by t
 
     on summary conviction, to a fine of not more than $1,000,000 or to imprisonment for a term of not more than two years less a day, or to both; or
 
-### Section 174
+### Section 173
 
 Section 77 of the Act is replaced by the following:
 
@@ -5788,13 +5774,13 @@ Section 77 of the Act is replaced by the following:
 
   **(2)** Every person or entity that contravenes section 11.43, only insofar as it relates to any required reporting measure as contemplated by paragraph 11.42(2)(e) and specified in a directive issued under subsection 11.42(1), is guilty of an offence and liable on summary conviction to a fine of not more than $1,000,000.
 
-### Section 175
+### Section 174
 
 Paragraph 77.1(a) of the Act is replaced by the following:
 
 on summary conviction, to a fine of not more than $250,000 or to imprisonment for a term of not more than two years less a day, or to both; or
 
-### Section 176
+### Section 175
 
 Section 79 of the Act is replaced by the following:
 
@@ -5809,11 +5795,11 @@ no person or entity shall be found guilty of the offence if they establish that 
 
 #### Coming into Force
 
-### Section 177
+### Section 176
 
-  **(1)** Section `160` comes into force on a day to be fixed by order of the Governor in Council.
+  **(1)** Section `159` comes into force on a day to be fixed by order of the Governor in Council.
 
-  **(2)** Sections `165`, `166` and `171` come into force on a day to be fixed by order of the Governor in Council.
+  **(2)** Sections `164`, `165` and `170` come into force on a day to be fixed by order of the Governor in Council.
 
 
 ### Retail Payment Activities Act
@@ -5821,7 +5807,7 @@ no person or entity shall be found guilty of the offence if they establish that 
 
 #### Enactment of Act
 
-### Section 178
+### Section 177
 
 The `Retail Payment Activities Act` is enacted as follows:
 
@@ -6945,7 +6931,7 @@ the day on which the Bank notifies the payment service provider under subsection
 
 ##### `Canada Deposit Insurance Corporation Act`
 
-### Section 179
+### Section 178
 
 Section 45.2 of the `Canada Deposit Insurance Corporation Act` is amended by adding the following after subsection (1):
 
@@ -6953,7 +6939,7 @@ Section 45.2 of the `Canada Deposit Insurance Corporation Act` is amended by add
 
 The Corporation may, if it is satisfied that the information will be treated as confidential by the Governor of the Bank of Canada or any officer of the Bank of Canada authorized in writing by the Governor of the Bank of Canada, disclose any information referred to in subsection (1) to the Governor or the designated officer for the purpose of carrying out the Bank of Canada's objects under the `Retail Payment Activities Act` or, in relation to any provisions of that Act that are not in force, for the purpose of planning to carry out those objects.
 
-### Section 180
+### Section 179
 
 Paragraph 45.3(3)(f) of the Act is replaced by the following:
 
@@ -6962,7 +6948,7 @@ to the Governor of the Bank of Canada or any officer of the Bank of Canada autho
 
 ##### `Proceeds of Crime (Money Laundering) and Terrorist Financing Act`
 
-### Section 181
+### Section 180
 
 The `Proceeds of Crime (Money Laundering) and Terrorist Financing Act` is amended by adding the following after section 53.5:
 
@@ -6988,7 +6974,7 @@ The `Proceeds of Crime (Money Laundering) and Terrorist Financing Act` is amende
 
   **(4)** The Centre is not required to notify the Bank of Canada of a finding of guilt referred to in paragraph (1)(a) or (2)(a) or an appeal referred to in subsection (3) if that information is not readily accessible by the Centre.
 
-### Section 182
+### Section 181
 
 The portion of subsection 55(1) of the Act before paragraph (a) is replaced by the following:
 
@@ -6996,7 +6982,7 @@ The portion of subsection 55(1) of the Act before paragraph (a) is replaced by t
 
   **(1)** Subject to subsections (3) and (6.1), sections 52, 53.4 to 53.6, 55.1, 56.1 and 56.2, subsection 58(1) and sections 65 to 65.1 and 68.1 of this Act and to subsection 12(1) of the `Privacy Act`, the Centre shall not disclose the following:
 
-### Section 183
+### Section 182
 
 The Act is amended by adding the following after section 65.02:
 
@@ -7011,7 +6997,7 @@ The Act is amended by adding the following after section 65.02:
 
 ##### `Financial Consumer Agency of Canada Act`
 
-### Section 184
+### Section 183
 
 Subsection 17(4) of the `Financial Consumer Agency of Canada Act` is replaced by the following:
 
@@ -7024,7 +7010,7 @@ Subsection 17(4) of the `Financial Consumer Agency of Canada Act` is replaced by
 
 ##### `Payment Card Networks Act`
 
-### Section 185
+### Section 184
 
 Subsection 5(7) of the `Payment Card Networks Act` is replaced by the following:
 
@@ -7037,28 +7023,28 @@ Subsection 5(7) of the `Payment Card Networks Act` is replaced by the following:
 
 #### Coordinating Amendments
 
-### Section 186
+### Section 185
 
-On the first day on which both subsection 168(1) and section `182` of this Act are in force, the portion of subsection 55(1) of the `Proceeds of Crime (Money Laundering) and Terrorist Financing Act` before paragraph (a) is replaced by the following:
+On the first day on which both subsection 167(1) and section `181` of this Act are in force, the portion of subsection 55(1) of the `Proceeds of Crime (Money Laundering) and Terrorist Financing Act` before paragraph (a) is replaced by the following:
 
 ### Section 55
 
   **(1)** Subject to subsections (3) and (6.1), sections 52, 53.1, 53.4 to 53.6, 55.1, 56.1 and 56.2, subsection 58(1) and sections 58.1, 65 to 65.1 and 68.1 of this Act and to subsection 12(1) of the `Privacy Act`, the Centre shall not disclose the following:
 
-### Section 187
+### Section 186
 
-On the first day on which both section 202 of the `Budget Implementation Act, 2018, No. 1` and section 20 of the `Retail Payment Activities Act`, as enacted by section `178` of this Act, are in force, the definition professional trustee in section 2 of the `Canada Deposit Insurance Corporation Act` is amended by striking out "or" at the end of paragraph (e), by adding "or" at the end of paragraph (f) and by adding the following after paragraph (f):
+On the first day on which both section 202 of the `Budget Implementation Act, 2018, No. 1` and section 20 of the `Retail Payment Activities Act`, as enacted by section `177` of this Act, are in force, the definition professional trustee in section 2 of the `Canada Deposit Insurance Corporation Act` is amended by striking out "or" at the end of paragraph (e), by adding "or" at the end of paragraph (f) and by adding the following after paragraph (f):
 
 a payment service provider that is registered as those expressions are defined in section 2 of the `Retail Payment Activities Act`. (**fiduciaire professionnel**)
 
 
 #### Coming into Force
 
-### Section 188
+### Section 187
 
-  **(1)** The provisions of the `Retail Payment Activities Act`, as enacted by section `178` of this Act, other than sections 1 to 10, 12 to 16 and 61, subsections 62(1), (3) and (4) and section 63, come into force on a day or days to be fixed by order of the Governor in Council.
+  **(1)** The provisions of the `Retail Payment Activities Act`, as enacted by section `177` of this Act, other than sections 1 to 10, 12 to 16 and 61, subsections 62(1), (3) and (4) and section 63, come into force on a day or days to be fixed by order of the Governor in Council.
 
-  **(2)** Sections `181` and `182` come into force on a day or days to be fixed by order of the Governor in Council.
+  **(2)** Sections `180` and `181` come into force on a day or days to be fixed by order of the Governor in Council.
 
 
 ### `Pension Benefits Standards Act, 1985`
@@ -7066,7 +7052,7 @@ a payment service provider that is registered as those expressions are defined i
 
 #### Amendments to the Act
 
-### Section 189
+### Section 188
 
 Section 10 of the `Pension Benefits Standards Act, 1985` is amended by adding the following after subsection (6):
 
@@ -7078,7 +7064,7 @@ Section 10 of the `Pension Benefits Standards Act, 1985` is amended by adding th
 
 **(10)** An administrator of a negotiated contribution plan that was registered or was filed for registration under this section before the day on which subsection (7) comes into force must, within one year after that day, establish the policies referred to in subsection (7).
 
-### Section 190
+### Section 189
 
   **(1)** The portion of paragraph 10.1(2)(a) of the Act before subparagraph (i) is replaced by the following:
 
@@ -7096,7 +7082,7 @@ Section 10 of the `Pension Benefits Standards Act, 1985` is amended by adding th
 
     with respect to a negotiated contribution plan, the amendment does not meet the requirements of the regulations.
 
-### Section 191
+### Section 190
 
 Subsection 39(1) of the Act is amended by adding the following after paragraph (h.2):
 
@@ -7105,14 +7091,14 @@ respecting, for the purposes of paragraph 10.1(2)(c), amendments referred to in 
 
 #### Coming into Force
 
-### Section 192
+### Section 191
 
 This Division comes into force on a day to be fixed by order of the Governor in Council.
 
 
 ### `First Nations Fiscal Management Act`
 
-### Section 193
+### Section 192
 
 The `First Nations Fiscal Management Act` is amended by adding the following after section 88:
 
@@ -7134,7 +7120,7 @@ The `First Nations Fiscal Management Act` is amended by adding the following aft
 
 #### Amendments to the Act
 
-### Section 194
+### Section 193
 
   **(1)** Paragraph (a) of the description of C in subsection 6(1) of the `Federal-Provincial Fiscal Arrangements Act` is replaced by the following:
 
@@ -7172,7 +7158,7 @@ The `First Nations Fiscal Management Act` is amended by adding the following aft
 
       the per capita nominal gross domestic product of Canada for a calendar year is to be determined by the Minister using the population of Canada as of July 1 of that year, based on the most recent information for the population that has been prepared by Statistics Canada in accordance with the regulations.
 
-### Section 195
+### Section 194
 
   **(1)** Paragraph 40(a.1) of the Act is replaced by the following:
 
@@ -7185,7 +7171,7 @@ The `First Nations Fiscal Management Act` is amended by adding the following aft
 
 #### Transitional Provision
 
-### Section 196
+### Section 195
 
 The following continue to apply with respect to fiscal stabilization payments for the fiscal years beginning on April 1, 2019 and April 1, 2020:
 
@@ -7196,7 +7182,7 @@ any regulations made under that Act that apply in respect of any of those subsec
 
 ### `Federal-Provincial Fiscal Arrangements Act` (Additional Health Payments)
 
-### Section 197
+### Section 196
 
 The `Federal-Provincial Fiscal Arrangements Act` is amended by adding the following after section 24.71:
 
@@ -7236,7 +7222,7 @@ for Nunavut, $4,124,000.
 
 ### Canada's COVID-19 Immunization Plan
 
-### Section 198
+### Section 197
 
   **(1)** The Minister of Finance may make the following payments to the provinces and territories in respect of Canada's COVID-19 immunization plan:
 
@@ -7274,14 +7260,14 @@ for Nunavut, $4,124,000.
 
 #### Additional Payments
 
-### Section 199
+### Section 198
 
 Despite section 161 of the `Keeping Canada's Economy and Jobs Growing Act`, as amended by section 233 of the `Economic Action Plan 2013 Act, No. 1` and paragraph 375(1)(i) of the `Budget Implementation Act, 2019, No. 1`, there may be paid out of the Consolidated Revenue Fund, on the requisition of the Minister of Infrastructure and Communities or the Minister of Indigenous Services, in accordance with terms and conditions approved by the Treasury Board, in addition to the sum referred to in that section 161, a sum not exceeding $2,200,000,000 to provinces, territories, municipalities, municipal associations, provincial, territorial and municipal entities and First Nations for the purpose of municipal, regional and First Nations infrastructure.
 
 
 #### `Keeping Canada's Economy and Jobs Growing Act`
 
-### Section 200
+### Section 199
 
 The heading of Part 9 of the `Keeping Canada's Economy and Jobs Growing Act` is replaced by the following:
 
@@ -7291,7 +7277,7 @@ The heading of Part 9 of the `Keeping Canada's Economy and Jobs Growing Act` is 
 
 ### Hibernia Dividend Backed Annuity Agreement
 
-### Section 201
+### Section 200
 
   **(1)** There may be paid out of the Consolidated Revenue Fund, on the requisition of the Minister of Finance and in accordance with the terms and conditions provided for in the agreement, the annual payments to be made to Newfoundland and Labrador, to a maximum amount of $3,056,491,000.
 
@@ -7302,7 +7288,7 @@ The heading of Part 9 of the `Keeping Canada's Economy and Jobs Growing Act` is 
 
 ### Nova Scotia and Newfoundland and Labrador Additional Fiscal Equalization Offset Payments Act
 
-### Section 202
+### Section 201
 
 Section 12 of the `Nova Scotia and Newfoundland and Labrador Additional Fiscal Equalization Offset Payments Act` is amended by adding the following after subsection (2):
 
@@ -7313,7 +7299,7 @@ Section 12 of the `Nova Scotia and Newfoundland and Labrador Additional Fiscal E
 
 ### Telecommunications Act
 
-### Section 203
+### Section 202
 
 The `Telecommunications Act` is amended by adding the following after section 46.5:
 
@@ -7377,7 +7363,7 @@ The Commission may, on its own motion, review and rescind or vary a decision mad
 
   **(5)** The disclosure of information under subsection (1) or (4) does not, by itself, constitute a waiver of any privilege that may exist with respect to the information.
 
-### Section 204
+### Section 203
 
 Section 62 of the French version of the Act is replaced by the following:
 
@@ -7391,7 +7377,7 @@ Le Conseil peut, sur demande ou de sa propre initiative, réviser, annuler ou mo
 
 #### Amendments to the Act
 
-### Section 205
+### Section 204
 
   **(1)** The definition loan in section 2 of the `Canada Small Business Financing Act` is replaced by the following:
 
@@ -7405,7 +7391,7 @@ Le Conseil peut, sur demande ou de sa propre initiative, réviser, annuler ou mo
 
     It does not include the business of farming. (**petite entreprise**)
 
-### Section 206
+### Section 205
 
   **(1)** Subsection 4(2) of the Act is amended by striking out "and" at the end of paragraph (c) and by replacing paragraph (d) with the following:
 
@@ -7417,7 +7403,7 @@ Le Conseil peut, sur demande ou de sa propre initiative, réviser, annuler ou mo
 
     **(3)** The outstanding loan amount referred to in any of paragraphs (2)(b) to (e) is the aggregate of the amount of the proposed loan and the principal amount outstanding, in respect of the borrower and all borrowers that are related to that borrower within the meaning of the regulations, of all loans made under this Act and guaranteed business improvement loans made under the `Small Business Loans Act`.
 
-### Section 207
+### Section 206
 
   **(1)** Subsection 6(1) of the Act is replaced by the following:
 
@@ -7439,7 +7425,7 @@ Le Conseil peut, sur demande ou de sa propre initiative, réviser, annuler ou mo
 
     **(3)** The liability of the Minister to make any payment to a lender in respect of losses sustained by it as a result of lines of credit authorized by it and registered by the Minister during each consecutive five-year period, starting with the period beginning on April 1, 2019, is limited to the total of 15%, or any prescribed lesser percentage, of the aggregate amount of the lines of credit authorized by it.
 
-### Section 208
+### Section 207
 
 Subsection 7(1) of the Act is amended by striking out "and" at the end of paragraph (b) and by replacing paragraph (c) with the following:
 
@@ -7450,9 +7436,9 @@ in the case of a loan made on or after the day on which this paragraph comes int
 
 #### Coming into Force
 
-### Section 209
+### Section 208
 
-This Division, other than subsections `205`(2) and (3) and `207`(1), comes into force on a day to be fixed by order of the Governor in Council.
+This Division, other than subsections `204`(2) and (3) and `206`(1), comes into force on a day to be fixed by order of the Governor in Council.
 
 
 ### `Customs Act`
@@ -7460,13 +7446,13 @@ This Division, other than subsections `205`(2) and (3) and `207`(1), comes into 
 
 #### Amendments to the Act
 
-### Section 210
+### Section 209
 
 Subsection 32.2(3) of the `Customs Act` is replaced by the following:
 
 **(3)** A correction made under this section after the prescribed day is to be treated for the purposes of this Act as if it were a re-determination under paragraph 59(1)(a).
 
-### Section 211
+### Section 210
 
 Section 33.4 of the Act is replaced by the following:
 
@@ -7490,19 +7476,19 @@ Section 33.4 of the Act is replaced by the following:
 
   **(3)** The Governor in Council may, on the recommendation of the Minister of Finance, make regulations respecting the circumstances and conditions under which any person who is liable to pay an amount of duties in respect of imported goods is not liable to pay interest on that amount for the period specified in the regulations.
 
-### Section 212
+### Section 211
 
 Section 35 of the Act is renumbered as subsection 35(1) and is amended by adding the following:
 
 **(2)** If a deposit, bond or other security given under subsection (1) is subject to terms and conditions prescribed by regulations made under paragraph 166(1)(b), the person who has given the deposit, bond or other security shall satisfy those terms and conditions.
 
-### Section 213
+### Section 212
 
 Subsection 45(1) of the Act is amended by adding the following in alphabetical order:
 
 **sold for export to Canada** has the meaning assigned by the regulations. (**vendre pour exportation au Canada**)
 
-### Section 214
+### Section 213
 
 Subsections 97.22(2) and (3) of the Act are replaced by the following:
 
@@ -7510,7 +7496,7 @@ Subsections 97.22(2) and (3) of the Act are replaced by the following:
 
 **(3)** Any amount of money demanded under paragraph 133(1)(c) or (1.1)(b) and any interest payable under subsection 133(7) is, from and after the time notice is served under subsection 131(2), a debt due to Her Majesty in right of Canada from the person who requested the decision and the person shall pay the amount so demanded on or before the prescribed day or, if the person appeals the decision of the Minister of Public Safety and Emergency Preparedness under section 135, give security satisfactory to that Minister.
 
-### Section 215
+### Section 214
 
 The portion of subsection 97.34(1) of the Act before paragraph (a) is replaced by the following:
 
@@ -7518,7 +7504,7 @@ The portion of subsection 97.34(1) of the Act before paragraph (a) is replaced b
 
   **(1)** If a person is liable for the payment of an amount under this Act, if an amount is demanded in a notice served under section 109.3 or 124, or if an amount is demanded under paragraph 133(1)(c) or subsection 133(1.1) in a notice served under subsection 131(2), the Minister must not, for the purpose of collecting the amount, take the following actions until the 91st day after, in the case of an amount owed under this Act, the day on which notice is given to the debtor or, in the case of an amount demanded in a notice served under section 109.3 or 124 or subsection 131(2), the prescribed day:
 
-### Section 216
+### Section 215
 
 Section 109.5 of the Act is replaced by the following:
 
@@ -7526,13 +7512,13 @@ Section 109.5 of the Act is replaced by the following:
 
 A person on whom a notice of assessment of a penalty has been served under section 109.3 shall pay, in addition to the penalty, interest at the prescribed rate for the period beginning on the day after the prescribed day and ending on the day on which the penalty has been paid in full, calculated on the outstanding balance of the penalty.
 
-### Section 217
+### Section 216
 
 Subsection 124(6) of the Act is replaced by the following:
 
 **(6)** A person on whom a notice of ascertained forfeiture has been served shall pay, in addition to the amount set out in the notice, interest at the prescribed rate for the period beginning on the day after the prescribed day and ending on the day on which the amount is paid in full, calculated on the outstanding balance.
 
-### Section 218
+### Section 217
 
 Subsection 133(7) of the Act is replaced by the following:
 
@@ -7541,14 +7527,14 @@ Subsection 133(7) of the Act is replaced by the following:
 
 #### Coming into Force
 
-### Section 219
+### Section 218
 
 The provisions of this Division come into force on a day or days to be fixed by order of the Governor in Council.
 
 
 ### Canada–United States–Mexico Agreement Implementation Act
 
-### Section 220
+### Section 219
 
 Section 16 of the `Canada–United States–Mexico Agreement Implementation Act` is replaced by the following:
 
@@ -7576,13 +7562,13 @@ Section 16 of the `Canada–United States–Mexico Agreement Implementation Act`
 
 #### Department of Employment and Social Development Act
 
-### Section 221
+### Section 220
 
 Section 45 of the `Department of Employment and Social Development Act` is amended by adding the following after subsection (5):
 
 **(6)** An individual who ceases to be a member for any reason other than removal may, at the request of the Chairperson, within 12 weeks after ceasing to be a member, carry out and complete any duties and functions that they would otherwise have had in connection with any matter that came before the Tribunal while they were still a member and in respect of which there was any proceeding in which they participated as a member. For that purpose, the person is deemed to be a part-time member.
 
-### Section 222
+### Section 221
 
 The Act is amended by adding the following after section 45:
 
@@ -7600,7 +7586,7 @@ The Act is amended by adding the following after section 45:
 
   **(3)** Guidelines issued by the Chairperson under paragraph (1)(b) are not statutory instruments for the purposes of the `Statutory Instruments Act`.
 
-### Section 223
+### Section 222
 
 The Act is amended by adding the following after section 50:
 
@@ -7608,27 +7594,27 @@ The Act is amended by adding the following after section 50:
 
 A member of the Tribunal is not competent or compellable to appear as a witness in any civil proceedings in respect of any matter coming to their knowledge in the course of the exercise of a power or in the performance of a duty or function of the Tribunal.
 
-### Section 224
+### Section 223
 
 Subsection 52(2) of the French version of the Act is replaced by the following:
 
 **(2)** La division générale peut proroger le délai pour interjeter appel; cependant, cet appel ne peut en aucun cas être interjeté plus d'un an suivant la date où l'appelant a reçu communication de la décision.
 
-### Section 225
+### Section 224
 
 Section 53 of the Act is repealed.
 
-### Section 226
+### Section 225
 
 Subsection 54(2) of the Act is replaced by the following:
 
 **(2)** The General Division may give a decision orally or in writing and must give reasons. Copies of the decision and reasons, written or, in the case of an oral decision and reasons, reduced to writing, must be sent to the appellant and the Minister or the Commission, as the case may be, and any other party.
 
-### Section 227
+### Section 226
 
 Subsection 56(2) of the Act is repealed.
 
-### Section 228
+### Section 227
 
 Section 57 of the Act is replaced by the following:
 
@@ -7642,7 +7628,7 @@ Section 57 of the Act is replaced by the following:
 
   **(2)** The Appeal Division may allow further time within which an application for leave to appeal is to be made, but in no case may an application be made more than one year after the day on which the decision and reasons are communicated in writing to the appellant.
 
-### Section 229
+### Section 228
 
   **(1)** The portion of subsection 58(1) of the Act before paragraph (b) is replaced by the following:
 
@@ -7660,7 +7646,7 @@ Section 57 of the Act is replaced by the following:
 
   **(3)** Subsections 58(3) to (5) of the Act are repealed.
 
-### Section 230
+### Section 229
 
 The Act is amended by adding the following after section 58:
 
@@ -7690,7 +7676,7 @@ sets out evidence that was not presented to the Section.
 
 An appeal to the Appeal Division of a decision made by the Income Security Section is to be heard and determined as a new proceeding.
 
-### Section 231
+### Section 230
 
   **(1)** Subsection 59(1) of the Act is replaced by the following:
 
@@ -7702,7 +7688,7 @@ An appeal to the Appeal Division of a decision made by the Income Security Secti
 
     **(2)** The Appeal Division must give its decision in writing, with reasons, and send copies of the decision and reasons to the appellant and any other party.
 
-### Section 232
+### Section 231
 
 Sections 61 and 62 of the Act are replaced by the following:
 
@@ -7714,7 +7700,7 @@ Every application made or appeal brought to the Tribunal is to be heard before a
 
 All or part of a Tribunal hearing may be held in private in the circumstances provided for in the regulations.
 
-### Section 233
+### Section 232
 
 The Act is amended by adding the following after section 63:
 
@@ -7722,7 +7708,7 @@ The Act is amended by adding the following after section 63:
 
 A party may, at their own expense, be represented by a representative of their choice.
 
-### Section 234
+### Section 233
 
   **(1)** Subsection 64(1) of the Act is replaced by the following:
 
@@ -7738,7 +7724,7 @@ A party may, at their own expense, be represented by a representative of their c
 
     **(3)** If a question specified in section 90 of the `Employment Insurance Act` arises in the consideration of an application or in an appeal, it must be determined by an authorized officer of the Canada Revenue Agency, as provided by that section.
 
-### Section 235
+### Section 234
 
   **(1)** Section 65 of the Act is amended by adding the following after paragraph (a):
 
@@ -7754,7 +7740,7 @@ A party may, at their own expense, be represented by a representative of their c
 
     an appeal in respect of a supplement, as defined in section 2 of the `Old Age Security Act`, payable to a pensioner whose spouse, common-law partner or former common-law partner is a beneficiary of a supplement or an allowance.
 
-### Section 236
+### Section 235
 
 Sections 66 to 68 of the Act are replaced by the following:
 
@@ -7770,7 +7756,7 @@ The decision of the Tribunal on any application made or appeal brought under thi
 
 The Chairperson must, within three months after the end of each fiscal year, submit to the Minister a report on the Tribunal's performance during that fiscal year.
 
-### Section 237
+### Section 236
 
   **(1)** Paragraph 69(a) of the Act is replaced by the following:
 
@@ -7785,7 +7771,7 @@ The Chairperson must, within three months after the end of each fiscal year, sub
 
 #### Consequential Amendment to the `Federal Courts Act`
 
-### Section 238
+### Section 237
 
 Paragraph 28(1)(g) of the `Federal Courts Act`, as enacted by subsection 272(2) of the `Jobs, Growth and Longterm Prosperity Act`, is replaced by the following:
 
@@ -7794,9 +7780,9 @@ the Appeal Division of the Social Security Tribunal established under section 44
 
 #### Transitional Provisions
 
-### Section 239
+### Section 238
 
-The following definitions apply in this section and sections `240` to `244`.
+The following definitions apply in this section and sections `239` to `243`.
 
 **Appeal Division** means the Appeal Division of the Tribunal. (**division d'appel**)
 
@@ -7810,11 +7796,11 @@ The following definitions apply in this section and sections `240` to `244`.
 
 **Tribunal** means the Social Security Tribunal established under section 44 of the `Department of Employment and Social Development Act`. (**Tribunal**)
 
+### Section 239
+
+For greater certainty, but subject to sections `240` to `242`, the new Act applies in respect of applications and appeals that are ongoing on the day on which this Division comes into force.
+
 ### Section 240
-
-For greater certainty, but subject to sections `241` to `243`, the new Act applies in respect of applications and appeals that are ongoing on the day on which this Division comes into force.
-
-### Section 241
 
   **(1)** An appeal of a decision made by the General Division under section 53 of the former Act must be brought to the Appeal Division within 90 days after the day on which this Division comes into force. Despite subsection 56(1) of the new Act, no leave is necessary.
 
@@ -7824,7 +7810,7 @@ For greater certainty, but subject to sections `241` to `243`, the new Act appli
 
   **(4)** If, following a judicial review referred to in subsection (3), the Federal Court refers the matter back to the Appeal Division, the matter is to be dealt with by the Appeal Division in accordance with subsections 58(1) and 59(1) of the former Act. Section 58.3 of the new Act does not apply in respect of the matter.
 
-### Section 242
+### Section 241
 
   **(1)** An application under section 66 of the former Act that is ongoing before the General Division or Appeal Division on the day on which this Division comes into force is to be dealt with in accordance with that section 66.
 
@@ -7838,7 +7824,7 @@ For greater certainty, but subject to sections `241` to `243`, the new Act appli
 
   **(6)** If, following a judicial review of a decision of the Appeal Division referred to in subsection (4), the Federal Court of Appeal refers the matter back to the Appeal Division, the matter is to be dealt with by the Appeal Division in accordance with subsections 58(1) and 59(1) of the former Act and, in the case where the Appeal Division decides under that subsection 59(1) to give the decision that the General Division should have given, the matter is also to be dealt with in accordance with section 66 of the former Act. Section 58.3 of the new Act does not apply in respect of the matter.
 
-### Section 243
+### Section 242
 
   **(1)** An application for leave to appeal a decision of the Income Security Section that is ongoing on the day on which this Division comes into force is to be dealt with by the Appeal Division in accordance with subsections 58(1) and (2) of the former Act.
 
@@ -7846,27 +7832,27 @@ For greater certainty, but subject to sections `241` to `243`, the new Act appli
 
   **(3)** In the case of a judicial review of a decision of the Appeal Division under subsection 58(3) of the former Act that relates to a decision of the Income Security Section, if, before the day on which this Division comes into force, the Federal Court refers the matter back to the Appeal Division, the matter is to be dealt with by the Appeal Division in accordance with subsections 58(1) and (2) of the former Act.
 
-  **(4)** In the case of a judicial review of a decision of the Appeal Division under subsection 58(3) of the former Act that relates to a decision of the Income Security Section other than a judicial review referred to in subsection `242`(5), if, on or after the day on which this Division comes into force, the Federal Court refers the matter back to the Appeal Division, the matter is to be dealt with by the Appeal Division in accordance with the provisions of the new Act.
+  **(4)** In the case of a judicial review of a decision of the Appeal Division under subsection 58(3) of the former Act that relates to a decision of the Income Security Section other than a judicial review referred to in subsection `241`(5), if, on or after the day on which this Division comes into force, the Federal Court refers the matter back to the Appeal Division, the matter is to be dealt with by the Appeal Division in accordance with the provisions of the new Act.
 
   **(5)** In the case of a judicial review of a decision of the Appeal Division under subsection 59(1) of the former Act that relates to a decision of the Income Security Section, if, before the day on which this Division comes into force, the Federal Court of Appeal refers the matter back to the Appeal Division, the matter is to be dealt with by the Appeal Division in accordance with subsections 58(1) and 59(1) of the former Act. Section 58.3 of the new Act does not apply in respect of the matter.
 
-  **(6)** In the case of a judicial review of a decision of the Appeal Division under subsection 59(1) of the former Act that relates to a decision of the Income Security Section other than a judicial review referred to in subsection `242`(6), if, on or after the day on which this Division comes into force, the Federal Court of Appeal refers the matter back to the Appeal Division, the matter is to be dealt with by the Appeal Division in accordance with the provisions of the new Act.
+  **(6)** In the case of a judicial review of a decision of the Appeal Division under subsection 59(1) of the former Act that relates to a decision of the Income Security Section other than a judicial review referred to in subsection `241`(6), if, on or after the day on which this Division comes into force, the Federal Court of Appeal refers the matter back to the Appeal Division, the matter is to be dealt with by the Appeal Division in accordance with the provisions of the new Act.
 
-### Section 244
+### Section 243
 
 For greater certainty, the Federal Court has jurisdiction to hear and determine applications for judicial review of a decision of the Appeal Division made under section 58 of the former Act before the day on which this Division comes into force.
 
 
 #### Coming into Force
 
-### Section 245
+### Section 244
 
 This Division comes into force on a day to be fixed by order of the Governor in Council.
 
 
 ### `Canada Labour Code` (Equal Remuneration Protection)
 
-### Section 246
+### Section 245
 
   **(1)** Paragraphs 47.3(1)(a) and (b) of the `Canada Labour Code` are replaced by the following:
 
@@ -7886,7 +7872,7 @@ This Division comes into force on a day to be fixed by order of the Governor in 
 
 #### Amendments to the Act
 
-### Section 247
+### Section 246
 
   **(1)** Subsections 178(1) to (3) of the `Canada Labour Code` are replaced by the following:
 
@@ -7910,7 +7896,7 @@ This Division comes into force on a day to be fixed by order of the Governor in 
 
     the minimum rate determined in accordance with section 178.1, if that minimum rate is higher than the minimum rate determined in accordance with subsection (2).
 
-### Section 248
+### Section 247
 
 The Act is amended by adding the following after section 178:
 
@@ -7939,14 +7925,14 @@ The Act is amended by adding the following after section 178:
 
 #### Coming into Force
 
-### Section 249
+### Section 248
 
 This Division comes into force on the day that, in the sixth month after the month in which this Act receives royal assent, has the same calendar number as the day on which it receives royal assent or, if that sixth month has no day with that number, the last day of that sixth month.
 
 
 ### `Canada Labour Code` (Leave Related to the Death or Disappearance of a Child)
 
-### Section 250
+### Section 249
 
   **(1)** The definitions **child** and **parent** in subsection 206.5(1) of the `Canada Labour Code` are replaced by the following:
 
@@ -7990,7 +7976,7 @@ This Division comes into force on the day that, in the sixth month after the mon
 
     **(8)** The aggregate amount of leave that may be taken by employees under this section in respect of the same death or disappearance of a child — or the same children who die or disappear as a result of the same event — must not exceed 104 weeks.
 
-### Section 251
+### Section 250
 
 Subsection 206.7(1) of the Act is replaced by the following:
 
@@ -8005,7 +7991,7 @@ Subsection 206.7(1) of the Act is replaced by the following:
 
 ### Payment to Quebec
 
-### Section 252
+### Section 251
 
   **(1)** For the purpose of offsetting some of the costs of aligning the Quebec Parental Insurance Plan with temporary measures set out in Part VIII.5 of the `Employment Insurance Act`, the Minister of Employment and Social Development may, before the end of the fiscal year ending on March 31, 2022, make a one-time payment of $130,300,000 out of the Consolidated Revenue Fund to Quebec.
 
@@ -8017,7 +8003,7 @@ Subsection 206.7(1) of the Act is replaced by the following:
 
 #### Amendment to the Act
 
-### Section 253
+### Section 252
 
 The `Judges Act` is amended by adding the following after section 65:
 
@@ -8043,9 +8029,9 @@ The `Judges Act` is amended by adding the following after section 65:
 
 #### Transitional Provision
 
-### Section 254
+### Section 253
 
-Section 65.1 of the `Judges Act` does not apply to a judge whose removal from judicial office has been recommended by the Canadian Judicial Council before the day on which section `253` comes into force.
+Section 65.1 of the `Judges Act` does not apply to a judge whose removal from judicial office has been recommended by the Canadian Judicial Council before the day on which section `252` comes into force.
 
 
 ### New Judicial Resources
@@ -8053,7 +8039,7 @@ Section 65.1 of the `Judges Act` does not apply to a judge whose removal from ju
 
 #### Federal Courts Act
 
-### Section 255
+### Section 254
 
 Subsection 5(1) of the `Federal Courts Act` is replaced by the following:
 
@@ -8064,25 +8050,25 @@ Subsection 5(1) of the `Federal Courts Act` is replaced by the following:
 
 #### Judges Act
 
-### Section 256
+### Section 255
 
 Paragraph 12(d) of the `Judges Act` is replaced by the following:
 
 the 203 other judges of the Superior Court of Justice, $314,100 each.
 
-### Section 257
+### Section 256
 
 Paragraph 17(d) of the Act is replaced by the following:
 
 the 83 other judges of the Supreme Court, $314,100 each.
 
-### Section 258
+### Section 257
 
 Paragraph 19(d) of the Act is replaced by the following:
 
 the 31 other judges of the Court of Queen's Bench, $314,100 each.
 
-### Section 259
+### Section 258
 
 Paragraph 21(c) of the Act is replaced by the following:
 
@@ -8091,7 +8077,7 @@ the Chief Justice and the Associate Chief Justice of the Trial Division, $344,40
 
 #### Tax Court of Canada Act
 
-### Section 260
+### Section 259
 
   **(1)** The portion of subsection 4(1) of the French version of the `Tax Court of Canada Act` before paragraph (a) is replaced by the following:
 
@@ -8106,7 +8092,7 @@ the Chief Justice and the Associate Chief Justice of the Trial Division, $344,40
 
 ### `National Research Council Act`
 
-### Section 261
+### Section 260
 
 Section 3 of the `National Research Council Act` is amended by adding the following after subsection (2):
 
@@ -8118,7 +8104,7 @@ Section 3 of the `National Research Council Act` is amended by adding the follow
 
   Her Majesty otherwise controls the corporation.
 
-### Section 262
+### Section 261
 
 The Act is amended by adding the following after section 5:
 
@@ -8131,7 +8117,7 @@ The Act is amended by adding the following after section 5:
 
 ### Department of Employment and Social Development Act
 
-### Section 263
+### Section 262
 
 The `Department of Employment and Social Development Act` is amended by adding the following after section 19.01:
 
@@ -8145,7 +8131,7 @@ The Minister of Labour may collect and use a person's Social Insurance Number to
 
 #### Canada Student Loans Act
 
-### Section 264
+### Section 263
 
 The `Canada Student Loans Act` is amended by adding the following after section 11.2:
 
@@ -8159,7 +8145,7 @@ During the period that begins on April 1, 2021 and ends on March 31, 2023, no in
 
 #### Canada Student Financial Assistance Act
 
-### Section 265
+### Section 264
 
 The `Canada Student Financial Assistance Act` is amended by adding the following after section 9.3:
 
@@ -8173,7 +8159,7 @@ During the period that begins on April 1, 2021 and ends on March 31, 2023, no in
 
 #### Apprentice Loans Act
 
-### Section 266
+### Section 265
 
 The `Apprentice Loans Act` is amended by adding the following after section 8.1:
 
@@ -8187,13 +8173,13 @@ During the period that begins on April 1, 2021 and ends on March 31, 2023, no in
 
 #### Coordinating Amendments
 
-### Section 267
+### Section 266
 
   **(1)** Subsections (2) to (10) apply if Bill C-14, introduced in the 2nd session of the 43rd Parliament and entitled the `Economic Statement Implementation Act, 2020` (in this section referred to as the "other Act"), receives royal assent.
 
-  **(2)** If section 6 of the other Act comes into force before section `264` of this Act, then
+  **(2)** If section 6 of the other Act comes into force before section `263` of this Act, then
 
-    that section `264` is deemed never to have come into force and is repealed; and
+    that section `263` is deemed never to have come into force and is repealed; and
 
     section 11.3 of the `Canada Student Loans Act` and the heading before it are replaced by the following:
 
@@ -8204,13 +8190,13 @@ During the period that begins on April 1, 2021 and ends on March 31, 2023, no in
 
     During the period that begins on April 1, 2021 and ends on March 31, 2023, no interest is payable by a borrower on a guaranteed student loan.
 
-  **(3)** If section `264` of this Act comes into force before section 6 of the other Act, then that section 6 is deemed never to have come into force and is repealed.
+  **(3)** If section `263` of this Act comes into force before section 6 of the other Act, then that section 6 is deemed never to have come into force and is repealed.
 
-  **(4)** If section `264` of this Act comes into force on the same day as section 6 of the other Act, then that section `264` is deemed to have come into force before that section 6 and subsection (3) applies as a consequence.
+  **(4)** If section `263` of this Act comes into force on the same day as section 6 of the other Act, then that section `263` is deemed to have come into force before that section 6 and subsection (3) applies as a consequence.
 
-  **(5)** If section 7 of the other Act comes into force before section `265` of this Act, then
+  **(5)** If section 7 of the other Act comes into force before section `264` of this Act, then
 
-    that section `265` is deemed never to have come into force and is repealed; and
+    that section `264` is deemed never to have come into force and is repealed; and
 
     section 9.4 of the `Canada Student Financial Assistance Act` and the heading before it are replaced by the following:
 
@@ -8221,13 +8207,13 @@ During the period that begins on April 1, 2021 and ends on March 31, 2023, no in
 
     During the period that begins on April 1, 2021 and ends on March 31, 2023, no interest is payable by a borrower on a student loan.
 
-  **(6)** If section `265` of this Act comes into force before section 7 of the other Act, then that section 7 is deemed never to have come into force and is repealed.
+  **(6)** If section `264` of this Act comes into force before section 7 of the other Act, then that section 7 is deemed never to have come into force and is repealed.
 
-  **(7)** If section `265` of this Act comes into force on the same day as section 7 of the other Act, then that section `265` is deemed to have come into force before that section 7 and subsection (6) applies as a consequence.
+  **(7)** If section `264` of this Act comes into force on the same day as section 7 of the other Act, then that section `264` is deemed to have come into force before that section 7 and subsection (6) applies as a consequence.
 
-  **(8)** If section 8 of the other Act comes into force before section `266` of this Act, then
+  **(8)** If section 8 of the other Act comes into force before section `265` of this Act, then
 
-    that section `266` is deemed never to have come into force and is repealed; and
+    that section `265` is deemed never to have come into force and is repealed; and
 
     section 8.2 of the `Apprentice Loans Act` and the heading before it are replaced by the following:
 
@@ -8238,14 +8224,14 @@ During the period that begins on April 1, 2021 and ends on March 31, 2023, no in
 
     During the period that begins on April 1, 2021 and ends on March 31, 2023, no interest is payable by a borrower on an apprentice loan.
 
-  **(9)** If section `266` of this Act comes into force before section 8 of the other Act, then that section 8 is deemed never to have come into force and is repealed.
+  **(9)** If section `265` of this Act comes into force before section 8 of the other Act, then that section 8 is deemed never to have come into force and is repealed.
 
-  **(10)** If section `266` of this Act comes into force on the same day as section 8 of the other Act, then that section `266` is deemed to have come into force before that section 8 and subsection (9) applies as a consequence.
+  **(10)** If section `265` of this Act comes into force on the same day as section 8 of the other Act, then that section `265` is deemed to have come into force before that section 8 and subsection (9) applies as a consequence.
 
 
 ### First Nations Elections
 
-### Section 268
+### Section 267
 
 The `First Nations Election Cancellation and Postponement Regulations (Prevention of Diseases)`, made on April 7, 2020 and registered as SOR/‍2020-84, and the `Regulations Amending the First Nations Election Cancellation and Postponement Regulations (Prevention of Diseases)`, made on April 8, 2021 and registered as SOR/‍2021-78, are deemed to have been validly made and everything done under, and all consequences flowing from, those Regulations since April 8, 2020 are deemed effective as if those Regulations were so made.
 
@@ -8255,13 +8241,13 @@ The `First Nations Election Cancellation and Postponement Regulations (Preventio
 
 #### `Old Age Security Act`
 
-### Section 269
+### Section 268
 
 Paragraph (c) of the definition **income** in section 2 of the `Old Age Security Act` is amended by adding the following after subparagraph (i):
 
 the amount of the payment under the program referred to in section 276 of the `Budget Implementation Act, 2021, No. 1`,
 
-### Section 270
+### Section 269
 
 Subsection 2.1(1) of the Act is replaced by the following:
 
@@ -8269,19 +8255,19 @@ Subsection 2.1(1) of the Act is replaced by the following:
 
   **(1)** In this Act, a reference to the amount of a full monthly pension means the amount of a full monthly pension, as it is calculated in accordance with section 7, that has not been increased under subsection 7.1(1) or (2).
 
-### Section 271
+### Section 270
 
 Subsection 3(3) of the Act is replaced by the following:
 
 **(3)** Subject to subsection 7.1(3), the amount of a partial monthly pension, for any month, shall bear the same relation to the amount of the full monthly pension for that month as the aggregate period that the applicant has resided in Canada after attaining 18 years of age and before the day on which the application is approved, determined in accordance with subsection (4), bears to 40 years.
 
-### Section 272
+### Section 271
 
 Section 7 of the Act is amended by adding the following after subsection (4):
 
 **(5)** Beginning in the payment quarter commencing on July 1, 2022, for the period that begins in the month after the month in which a person attains 75 years of age, the amount of the full monthly pension, as it is calculated in accordance with subsections (1) to (4), is increased by 10%.
 
-### Section 273
+### Section 272
 
   **(1)** Subsections 7.1(1) and (2) of the Act are replaced by the following:
 
@@ -8297,7 +8283,7 @@ Section 7 of the Act is amended by adding the following after subsection (4):
 
     **(6)** Beginning in the payment quarter commencing on July 1, 2022, for the period that begins in the month after the month in which a person attains 75 years of age, the amount of the partial monthly pension, as it is increased under subsection (2), is increased by 10%.
 
-### Section 274
+### Section 273
 
 The description of B in paragraph 12(6)(b) of the Act is replaced by the following:
 
@@ -8307,7 +8293,7 @@ obtained by multiplying the amount of the full monthly pension, calculated witho
 
 rounded, if that product is not a multiple of four dollars, to the next higher multiple of four dollars; and
 
-### Section 275
+### Section 274
 
 The definition **pension equivalent** in subsection 22(1) of the Act is replaced by the following:
 
@@ -8316,7 +8302,7 @@ The definition **pension equivalent** in subsection 22(1) of the Act is replaced
 
 #### Payment
 
-### Section 276
+### Section 275
 
 Any amount payable by the Minister of Employment and Social Development to pensioners, as defined in section 2 of the `Old Age Security Act`, who are or will be 75 years of age or older on June 30, 2022, in relation to a program to provide a one-time payment of $500 to those pensioners, may be paid out of the Consolidated Revenue Fund.
 
@@ -8326,13 +8312,13 @@ Any amount payable by the Minister of Employment and Social Development to pensi
 
 #### Amendments to the Act
 
-### Section 277
+### Section 276
 
 The eighth paragraph of the preamble to the `Public Service Employment Act` is replaced by the following:
 
 the Government of Canada is committed to an inclusive public service that reflects the diversity of Canada's population, that embodies linguistic duality and that is characterized by fair, transparent employment practices, respect for employees, effective dialogue, and recourse aimed at resolving appointment issues;
 
-### Section 278
+### Section 277
 
   **(1)** Subsection 2(1) of the Act is amended by adding the following in alphabetical order:
 
@@ -8342,19 +8328,19 @@ the Government of Canada is committed to an inclusive public service that reflec
 
     **(5)** A reference in this Act to an error, an omission or improper conduct shall be construed as including an error, an omission or improper conduct that results from a bias or barrier that disadvantages persons who belong to any equity-seeking group.
 
-### Section 279
+### Section 278
 
 Section 17 of the Act is renumbered as subsection 17(1) and is amended by adding the following:
 
 **(2)** The power to conduct audits includes the power to determine whether there are biases or barriers that disadvantage persons belonging to any equity-seeking group.
 
-### Section 280
+### Section 279
 
 Section 31 of the Act is amended by adding the following after subsection (2):
 
 **(3)** When establishing or reviewing qualification standards, the employer shall conduct an evaluation to identify whether they include or create biases or barriers that disadvantage persons belonging to any equity-seeking group. If a bias or barrier is identified in the course of the evaluation, the employer shall make reasonable efforts to remove it or to mitigate its impact on those persons.
 
-### Section 281
+### Section 280
 
 Section 36 of the Act is replaced by the following:
 
@@ -8364,7 +8350,7 @@ Section 36 of the Act is replaced by the following:
 
   **(2)** Before using an assessment method, the Commission shall conduct an evaluation to identify whether the assessment method and the manner in which it will be applied includes or creates biases or barriers that disadvantage persons belonging to any equity-seeking group and, if one is identified, make reasonable efforts to remove it or to mitigate its impact on those persons.
 
-### Section 282
+### Section 281
 
 Paragraph 39(1)(c) of the Act is replaced by the following:
 
@@ -8373,33 +8359,33 @@ a Canadian citizen, within the meaning of the `Citizenship Act`, and a permanent
 
 #### Transitional Provisions
 
+### Section 282
+
+Subsection 2(5) of the `Public Service Employment Act`, as enacted by subsection `277`(2), applies only in respect of appointment processes that commence on or after the day on which that subsection `277`(2) comes into force and investigations into those processes.
+
 ### Section 283
 
-Subsection 2(5) of the `Public Service Employment Act`, as enacted by subsection `278`(2), applies only in respect of appointment processes that commence on or after the day on which that subsection `278`(2) comes into force and investigations into those processes.
+Subsection 31(3) of the `Public Service Employment Act`, as enacted by section `279`, applies only in respect of reviews that commence on or after the day on which that section `279` comes into force.
 
 ### Section 284
 
-Subsection 31(3) of the `Public Service Employment Act`, as enacted by section `280`, applies only in respect of reviews that commence on or after the day on which that section `280` comes into force.
+Subsection 36(2) of the `Public Service Employment Act`, as enacted by section `280`, applies only in respect of appointment processes that commence on or after the day on which that section `280` comes into force.
 
 ### Section 285
 
-Subsection 36(2) of the `Public Service Employment Act`, as enacted by section `281`, applies only in respect of appointment processes that commence on or after the day on which that section `281` comes into force.
-
-### Section 286
-
-Paragraph 39(1)(c) of the `Public Service Employment Act`, as enacted by section `282`, applies only in respect of advertised external appointment processes that commence on or after the day on which that section `282` comes into force.
+Paragraph 39(1)(c) of the `Public Service Employment Act`, as enacted by section `281`, applies only in respect of advertised external appointment processes that commence on or after the day on which that section `281` comes into force.
 
 
 #### Coming into Force
 
-### Section 287
+### Section 286
 
-Subsection `278`(2) and section `281` come into force on a day or days to be fixed by order of the Governor in Council.
+Subsection `277`(2) and section `280` come into force on a day or days to be fixed by order of the Governor in Council.
 
 
 ### Early Learning and Child Care
 
-### Section 288
+### Section 287
 
   **(1)** Any amount payable to a province under or in connection with a bilateral agreement in respect of early learning and child care for the fiscal year beginning on April 1, 2021 may be paid out of the Consolidated Revenue Fund, until March 31, 2022, on the requisition of the Minister of Families, Children and Social Development, at the times and in the manner that that Minister considers appropriate.
 
@@ -8413,7 +8399,7 @@ Subsection `278`(2) and section `281` come into force on a day or days to be fix
 
 #### `Canada Recovery Benefits Act`
 
-### Section 289
+### Section 288
 
   **(1)** Paragraph 3(1)(e) of the `Canada Recovery Benefits Act` is replaced by the following:
 
@@ -8445,7 +8431,7 @@ Subsection `278`(2) and section `281` come into force on a day or days to be fix
 
       a person who has never applied under section 4 for any two-week period beginning before July 18, 2021.
 
-### Section 290
+### Section 289
 
 Subsection 5(1) of the Act is replaced by the following:
 
@@ -8453,7 +8439,7 @@ Subsection 5(1) of the Act is replaced by the following:
 
   **(1)** Subject to subsections (2) to (5), a person must, in their application, attest that they meet each of the eligibility conditions referred to in paragraphs 3(1)(a) to (n).
 
-### Section 291
+### Section 290
 
 Subsections 8(1) and (2) of the Act are replaced by the following:
 
@@ -8469,7 +8455,7 @@ Subsections 8(1) and (2) of the Act are replaced by the following:
 
   **(2)** If a person who has received a Canada recovery benefit or the benefit referred to in section 9.1 has income of more than $38,000 for 2020 or for 2021, the person must repay an amount equal to 50 cents for every dollar of income earned in that year above $38,000 of income, up to the total amount of those benefits received by them in the year, which total amount is calculated without taking into account any erroneous payment or overpayment, and that amount constitutes a debt due to Her Majesty and the debt is payable and may be recovered by the Minister as of the balance-due day, as defined in subsection 248(1) of the `Income Tax Act`, for the year.
 
-### Section 292
+### Section 291
 
 Subsection 9(1) of the Act is replaced by the following:
 
@@ -8477,7 +8463,7 @@ Subsection 9(1) of the Act is replaced by the following:
 
   **(1)** The maximum number of two-week periods in respect of which a Canada recovery benefit is payable to a person is 25 or, if another number of two-week periods is fixed by regulation, that number of two-week periods, minus one for every two weeks for which regular benefits, as defined in subsection 2(1) of the `Employment Insurance Act`, were received by the person during the period beginning on September 27, 2020 and ending on September 25, 2021 in respect of benefit periods, as defined in subsection 2(1) of that Act, that were established on or after September 27, 2020.
 
-### Section 293
+### Section 292
 
 The Act is amended by adding the following after section 9:
 
@@ -8485,7 +8471,7 @@ The Act is amended by adding the following after section 9:
 
 Despite sections 3, 7 and 8, if a person who makes an application under section `4` is not eligible for a Canada recovery benefit for any two-week period by reason only that the person was paid regular benefits, as defined in subsection 2(1) of the `Employment Insurance Act`, for the maximum number of weeks for which those benefits may be paid in the person's benefit period under Part I of that Act, or the person was paid regular benefits and special benefits, as defined in subsection 2(1) of that Act, for the maximum number of weeks for which both those benefits may be paid in the person's benefit period under Part I of that Act, and the last week for which they were paid those benefits under that Act is the first week of the two-week period, the Minister may pay a benefit of $300 to the person for the two-week period.
 
-### Section 294
+### Section 293
 
 Subsections 23(1) and (2) of the Act are replaced by the following:
 
@@ -8495,7 +8481,7 @@ Subsections 23(1) and (2) of the Act are replaced by the following:
 
   **(2)** The maximum number of weeks in respect of which a Canada recovery caregiving benefit is payable to all of the persons residing in the same household is 42 or, if another maximum number of weeks is fixed by regulation for the purpose of subsection (1), that maximum number.
 
-### Section 295
+### Section 294
 
 The Act is amended by adding the following after section 24:
 
@@ -8520,7 +8506,7 @@ subsection 18(1).
 
 #### `Canada Labour Code`
 
-### Section 296
+### Section 295
 
   **(1)** The portion of paragraph 239.01(1)(b) of the `Canada Labour Code` before subparagraph (i) is replaced by the following:
 
@@ -8543,7 +8529,7 @@ subsection 18(1).
 
 #### `COVID-19 Response Measures Act`
 
-### Section 297
+### Section 296
 
 Subsections 9(6) and (7) of the `COVID-19 Response Measures Act` are replaced by the following:
 
@@ -8554,43 +8540,43 @@ Subsections 9(6) and (7) of the `COVID-19 Response Measures Act` are replaced by
 
 #### `Canada Recovery Benefits Regulations`
 
-### Section 298
+### Section 297
 
 Section 2 of the `Canada Recovery Benefits Regulations` is repealed.
 
-### Section 299
+### Section 298
 
 Section 4 of the Regulations is repealed.
 
 
 #### `Canada Labour Standards Regulations`
 
-### Section 300
+### Section 299
 
 Paragraph 33.1(b) of the `Canada Labour Standards Regulations` is repealed.
 
 
 #### Coordinating Amendments
 
-### Section 301
+### Section 300
 
-  **(1)** If a regulation made under section 24.1 of the `Canada Recovery Benefits Act`, as enacted by section `295` of this Act, amends, in accordance with that section 24.1, subsection 10(1) of that Act to replace the date set out in that subsection, then, on the day on which the regulation comes into force,
+  **(1)** If a regulation made under section 24.1 of the `Canada Recovery Benefits Act`, as enacted by section `294` of this Act, amends, in accordance with that section 24.1, subsection 10(1) of that Act to replace the date set out in that subsection, then, on the day on which the regulation comes into force,
 
     subsection 9(6) of the `COVID-19 Response Measures Act` is amended by replacing the date set out in that subsection 9(6) with the date set out in that subsection 10(1), as amended by that regulation; and
 
     subsection 9(7) of the `COVID-19 Response Measures Act` is amended by replacing the date set out in that subsection 9(7) with the date that is the date of the day after the date set out in that subsection 10(1), as amended by that regulation.
 
-  **(2)** If a regulation made under section 24.1 of the `Canada Recovery Benefits Act`, as enacted by section `295` of this Act, amends, in accordance with that section 24.1, subsection 17(1) of that Act to replace the date set out in that subsection, then, on the day on which the regulation comes into force,
+  **(2)** If a regulation made under section 24.1 of the `Canada Recovery Benefits Act`, as enacted by section `294` of this Act, amends, in accordance with that section 24.1, subsection 17(1) of that Act to replace the date set out in that subsection, then, on the day on which the regulation comes into force,
 
     subsection 9(6) of the `COVID-19 Response Measures Act` is amended by replacing the date set out in that subsection 9(6) with the date set out in that subsection 17(1), as amended by that regulation; and
 
     subsection 9(7) of the `COVID-19 Response Measures Act` is amended by replacing the date set out in that subsection 9(7) with the date that is the date of the day after the date set out in that subsection 17(1), as amended by that regulation.
 
-  **(3)** If a regulation made under section 24.1 of the `Canada Recovery Benefits Act`, as enacted by section `295` of this Act, amends, in accordance with that section 24.1, subsections 10(1) and 17(1) of that Act to replace the date set out in those subsections with a date that is the same in both subsections, subsection (2) does not apply.
+  **(3)** If a regulation made under section 24.1 of the `Canada Recovery Benefits Act`, as enacted by section `294` of this Act, amends, in accordance with that section 24.1, subsections 10(1) and 17(1) of that Act to replace the date set out in those subsections with a date that is the same in both subsections, subsection (2) does not apply.
 
-  **(4)** If a regulation made under section 24.1 of the `Canada Recovery Benefits Act`, as enacted by section `295` of this Act, amends, in accordance with that section 24.1, subsections 10(1) and 17(1) of that Act to replace the date set out in those subsections with November 20, 2021, subsections (1) to (3) do not apply if the date that is set out in subsection 9(6) of the `COVID-19 Response Measures Act` is November 20, 2021.
+  **(4)** If a regulation made under section 24.1 of the `Canada Recovery Benefits Act`, as enacted by section `294` of this Act, amends, in accordance with that section 24.1, subsections 10(1) and 17(1) of that Act to replace the date set out in those subsections with November 20, 2021, subsections (1) to (3) do not apply if the date that is set out in subsection 9(6) of the `COVID-19 Response Measures Act` is November 20, 2021.
 
-  **(5)** If a regulation made under section 24.1 of the `Canada Recovery Benefits Act`, as enacted by section `295` of this Act, amends, in accordance with that section 24.1, subsection 10(1) of that Act to replace the date set out in that subsection and a regulation made under that section 24.1 amends, in accordance with that section 24.1, subsection 17(1) of that Act to replace the date set out in that subsection 17(1) and the dates in the amendments are not the same, then, on the first day on which both those regulations are in force,
+  **(5)** If a regulation made under section 24.1 of the `Canada Recovery Benefits Act`, as enacted by section `294` of this Act, amends, in accordance with that section 24.1, subsection 10(1) of that Act to replace the date set out in that subsection and a regulation made under that section 24.1 amends, in accordance with that section 24.1, subsection 17(1) of that Act to replace the date set out in that subsection 17(1) and the dates in the amendments are not the same, then, on the first day on which both those regulations are in force,
 
     if the later of the dates, as amended by one of the regulations, is the date set out in the amendment to that subsection 17(1),
 
@@ -8604,7 +8590,7 @@ Paragraph 33.1(b) of the `Canada Labour Standards Regulations` is repealed.
 
     paragraph 239.01(1)(b) of the `Canada Labour Code` ceases to apply on the date set out in that subsection 17(1), as amended.
 
-  **(6)** If none of the dates set out in subsections 10(1) and 17(1) of the `Canada Recovery Benefits Act` are amended by a regulation made under section 24.1 of that Act, as enacted by section `295` of this Act, before October 2, 2021,
+  **(6)** If none of the dates set out in subsections 10(1) and 17(1) of the `Canada Recovery Benefits Act` are amended by a regulation made under section 24.1 of that Act, as enacted by section `294` of this Act, before October 2, 2021,
 
     subsection 9(6) of the `COVID-19 Response Measures Act` is replaced by the following:
 
@@ -8619,9 +8605,9 @@ Paragraph 33.1(b) of the `Canada Labour Standards Regulations` is repealed.
 
 #### Coming into Force
 
-### Section 302
+### Section 301
 
-This Division, other than section `301`, comes into force, or is deemed to have come into force, on June 19, 2021.
+This Division, other than section `300`, comes into force, or is deemed to have come into force, on June 19, 2021.
 
 
 ### Benefits and Leave Related to Employment
@@ -8632,7 +8618,7 @@ This Division, other than section `301`, comes into force, or is deemed to have 
 
 ##### Amendments to the Act
 
-### Section 303
+### Section 302
 
   **(1)** The definitions **major attachment claimant** and **minor attachment claimant** in subsection 6(1) of the `Employment Insurance Act` are repealed.
 
@@ -8642,7 +8628,7 @@ This Division, other than section `301`, comes into force, or is deemed to have 
 
     **minor attachment claimant** means a claimant who qualifies to receive benefits and has fewer than 600 hours of insurable employment in their qualifying period; (**prestataire de la deuxième catégorie**)
 
-### Section 304
+### Section 303
 
   **(1)** Paragraph 7(2)(b) of the Act is replaced by the following:
 
@@ -8656,7 +8642,7 @@ This Division, other than section `301`, comes into force, or is deemed to have 
 
   **(4)** Subsection 7(2) of the Act is amended by adding the following after paragraph (b):
 
-### Section 305
+### Section 304
 
   **(1)** Subsection 7.1(1) of the Act is replaced by the following:
 
@@ -8726,7 +8712,7 @@ This Division, other than section `301`, comes into force, or is deemed to have 
 
         plus de 13 %
 
-### Section 306
+### Section 305
 
   **(1)** Subsections 8(3) to (6) of the Act are replaced by the following:
 
@@ -8738,7 +8724,7 @@ This Division, other than section `301`, comes into force, or is deemed to have 
 
     **(7)** No extension under subsection (2) or (4) may result in a qualifying period of more than 104 weeks.
 
-### Section 307
+### Section 306
 
   **(1)** Paragraph 10(10)(b) of the Act is repealed.
 
@@ -8746,7 +8732,7 @@ This Division, other than section `301`, comes into force, or is deemed to have 
 
     in receipt of earnings paid because of the complete severance of their relationship with their former employer;
 
-### Section 308
+### Section 307
 
   **(1)** Subsection 12(2.3) of the Act is replaced by the following:
 
@@ -8786,7 +8772,7 @@ This Division, other than section `301`, comes into force, or is deemed to have 
 
     **(8)** For the purposes of this section, the placement with a major attachment claimant, at the same or substantially the same time, of two or more children for the purpose of adoption is a single placement of a child or children for the purpose of adoption.
 
-### Section 309
+### Section 308
 
   **(1)** Subsection 21(1) of the Act is repealed.
 
@@ -8796,7 +8782,7 @@ This Division, other than section `301`, comes into force, or is deemed to have 
 
       **(1)** A minor attachment claimant who ceases work because of illness, injury or quarantine is not entitled to receive benefits while unable to work for that reason.
 
-### Section 310
+### Section 309
 
   **(1)** Subsection 22(1) of the Act is replaced by the following:
 
@@ -8826,7 +8812,7 @@ This Division, other than section `301`, comes into force, or is deemed to have 
 
     **(5)** Subject to subsection 19(3), if benefits are payable under this section to a major attachment claimant for a week of unemployment, there shall be deducted from those benefits any allowances, money or other benefits payable to the claimant for that week under a plan that covers insured persons employed by an employer and in respect of which the employer's premium has been reduced in accordance with regulations made under subsection 69(1).
 
-### Section 311
+### Section 310
 
   **(1)** Subsection 23(1) of the Act is replaced by the following:
 
@@ -8900,7 +8886,7 @@ This Division, other than section `301`, comes into force, or is deemed to have 
 
       if the major attachment claimant is not the one who served or elected to serve the waiting period, that claimant is not required to serve a waiting period; or
 
-### Section 312
+### Section 311
 
   **(1)** The portion of subsection 23.1(2) of the Act before paragraph (a) is replaced by the following:
 
@@ -8910,7 +8896,7 @@ This Division, other than section `301`, comes into force, or is deemed to have 
 
     **(2)** Despite section 18, but subject to this section, benefits are payable to a major attachment claimant if a medical doctor or nurse practitioner has issued a certificate stating that
 
-### Section 313
+### Section 312
 
   **(1)** The portion of subsection 23.2(1) of the Act before paragraph (a) is replaced by the following:
 
@@ -8924,7 +8910,7 @@ This Division, other than section `301`, comes into force, or is deemed to have 
 
       **(1)** Despite section 18, but subject to this section, benefits are payable to a major attachment claimant who is a family member of a critically ill child in order to care for or support that child, if a medical doctor or nurse practitioner has issued a certificate that
 
-### Section 314
+### Section 313
 
   **(1)** The portion of subsection 23.3(1) of the Act before paragraph (a) is replaced by the following:
 
@@ -8938,7 +8924,7 @@ This Division, other than section `301`, comes into force, or is deemed to have 
 
       **(1)** Despite section 18, but subject to this section, benefits are payable to a major attachment claimant who is a family member of a critically ill adult, in order to care for or support that adult, if a medical doctor or nurse practitioner has issued a certificate that
 
-### Section 315
+### Section 314
 
   **(1)** Subsection 28(7) of the Act is repealed.
 
@@ -8946,7 +8932,7 @@ This Division, other than section `301`, comes into force, or is deemed to have 
 
     **(7)** Subsection (6) does not apply to prevent a claimant from requesting that a benefit period established for the claimant as a minor attachment claimant be cancelled under subsection 10(6) and that a benefit period be established for the claimant as a major attachment claimant to enable the claimant to receive special benefits.
 
-### Section 316
+### Section 315
 
   **(1)** Paragraph 29(a) of the Act is replaced by the following:
 
@@ -8956,7 +8942,7 @@ This Division, other than section `301`, comes into force, or is deemed to have 
 
     **employment** refers to any employment of the claimant within their qualifying period or their benefit period;
 
-### Section 317
+### Section 316
 
   **(1)** The portion of subsection 30(1) of the Act before paragraph (b) is replaced by the following:
 
@@ -8992,7 +8978,7 @@ This Division, other than section `301`, comes into force, or is deemed to have 
 
     **(7)** For greater certainty, but subject to paragraph (1)(a), a claimant may be disqualified under subsection (1) even if the claimant's last employment before their claim for benefits was not lost or left as described in that subsection and regardless of whether their claim is an initial claim for benefits.
 
-### Section 318
+### Section 317
 
   **(1)** Section 46.01 of the Act is replaced by the following:
 
@@ -9006,7 +8992,7 @@ This Division, other than section `301`, comes into force, or is deemed to have 
 
     No amount is payable under section 45, or deductible under subsection 46(1), as a repayment of an overpayment of benefits if more than 36 months have elapsed since the lay-off or separation from the employment in relation to which the earnings are paid or payable and, in the opinion of the Commission, the administrative costs of determining the repayment would likely equal or exceed the amount of the repayment.
 
-### Section 319
+### Section 318
 
   **(1)** The portion of section 51 of the Act before paragraph (a) is replaced by the following:
 
@@ -9020,7 +9006,7 @@ This Division, other than section `301`, comes into force, or is deemed to have 
 
     If, in considering a claim for benefits, the Commission finds an indication from the documents relating to the claim that the loss of employment resulted from the claimant's misconduct or that the claimant voluntarily left employment, the Commission shall
 
-### Section 320
+### Section 319
 
 Section 58 of the Act is replaced by the following:
 
@@ -9032,7 +9018,7 @@ an insured person who requests assistance under employment benefits and, when re
 
 a claimant who requests assistance under employment benefits and, when requesting assistance, is an unemployed person who was in receipt of the employment insurance emergency response benefit within the previous 60 months.
 
-### Section 321
+### Section 320
 
 Subsection 152.05(1) of the French version of the Act is replaced by the following:
 
@@ -9040,7 +9026,7 @@ Subsection 152.05(1) of the French version of the Act is replaced by the followi
 
   **(1)** Sous réserve de la présente partie, des prestations doivent être payées à un travailleur indépendant qui prend soin de son ou de ses nouveau-nés ou d'un ou plusieurs enfants placés chez lui en vue de leur adoption en conformité avec les lois régissant l'adoption dans la province où il réside.
 
-### Section 322
+### Section 321
 
   **(1)** Clause 152.07(1)(d)(i)(A) of the French version of the Act is replaced by the following:
 
@@ -9052,7 +9038,7 @@ Subsection 152.05(1) of the French version of the Act is replaced by the followi
 
     in any other case, $6,000 or the amount fixed or determined in accordance with the regulations, if any, for that qualifying period, or
 
-### Section 323
+### Section 322
 
   **(1)** Paragraph 152.11(11)(b) of the Act is repealed.
 
@@ -9060,17 +9046,17 @@ Subsection 152.05(1) of the French version of the Act is replaced by the followi
 
     in receipt of earnings paid because of the complete severance of their relationship with their former employer;
 
-### Section 324
+### Section 323
 
 Paragraph 152.14(1)(c) of the Act is replaced by the following:
 
 because of a prescribed illness, injury or quarantine is 26;
 
-### Section 325
+### Section 324
 
 Section 153.1304 of the Act is repealed.
 
-### Section 326
+### Section 325
 
 The portion of section 153.14 of the Act before paragraph (a) is replaced by the following:
 
@@ -9078,7 +9064,7 @@ The portion of section 153.14 of the Act before paragraph (a) is replaced by the
 
 A provision of this Part that is added by any of the following Interim Orders or a provision that, under any of those Interim Orders, is an adaptation of a provision of this Act or provides for the non-application of a provision of this Act ceases to apply on the earlier of June 2, 2027 and the day on which the Interim Order that enacted the provision is repealed:
 
-### Section 327
+### Section 326
 
 Section 153.16 of the Act is replaced by the following:
 
@@ -9086,7 +9072,7 @@ Section 153.16 of the Act is replaced by the following:
 
 Despite section 17 of the `Employment Insurance Regulations`, if the later of the weeks referred to in subsection 10(1) begins during the period beginning on September 27, 2020 and ending on September 25, 2021, the regional rate of unemployment that applies to the claimant is 13.1%, if that rate is greater than the rate that would otherwise apply to them.
 
-### Section 328
+### Section 327
 
   **(1)** Subsection 153.196(1) of the Act is replaced by the following:
 
@@ -9098,7 +9084,7 @@ Despite section 17 of the `Employment Insurance Regulations`, if the later of th
 
     **(3)** Sections 153.1922 to 153.1924 cease to apply on December 18, 2021.
 
-### Section 329
+### Section 328
 
 The Act is amended by adding the following after Part VIII.5:
 
@@ -9117,24 +9103,24 @@ The Act is amended by adding the following after Part VIII.5:
 
   **(3)** Despite paragraph 8.1(a) of the `Employment Insurance (Fishing) Regulations`, the weekly insurable earnings of a fisher whose benefit period begins during the period beginning on September 26, 2021 and ending on November 20, 2021 are deemed to be the greater of the amount determined under that paragraph and $545.
 
-### Section 330
+### Section 329
 
   **(1)** Schedule I to the Act is replaced by the Schedule I set out in Schedule 1 to this Act.
 
   **(2)** Schedule I to the Act is replaced by the Schedule I set out in Schedule 2 to this Act.
 
-### Section 331
+### Section 330
 
 The Act is amended by adding, after Schedule IV, the Schedules V and VI set out in Schedule 3 to this Act.
 
 
 ##### Transitional Provisions
 
+### Section 331
+
+Words and expressions used in sections `332` to `336` have the same meaning as in the `Employment Insurance Act`.
+
 ### Section 332
-
-Words and expressions used in sections `333` to `337` have the same meaning as in the `Employment Insurance Act`.
-
-### Section 333
 
 The following provisions of the `Employment Insurance Act`, as they read immediately before September 26, 2021, continue to apply in respect of an insured person or a claimant, as the case may be, whose benefit period begins before that day:
 
@@ -9168,17 +9154,17 @@ section 51; and
 
 Schedule I.
 
-### Section 334
+### Section 333
 
 Part VIII.5 of the `Employment Insurance Act`, as it read immediately before September 26, 2021, continues to apply in respect of an insured person or claimant, as the case may be, whose benefit period begins during the period beginning on September 27, 2020 and ending on September 25, 2021.
 
-### Section 335
+### Section 334
 
   **(1)** The operation of Part VIII.1 of the `Employment Insurance Act` and any regulations made under that Part is suspended during the period beginning on September 26, 2021 and ending on September 24, 2022.
 
   **(2)** The operation of Part VIII.1 of the `Employment Insurance Act` and any regulations made under that Part continues to be suspended in respect of an insured person or a claimant, as the case may be, whose benefit period begins during the period referred to in subsection (1).
 
-### Section 336
+### Section 335
 
 The following provisions of the `Employment Insurance Act`, as they read immediately before September 25, 2022, continue to apply in respect of an insured person or a claimant, as the case may be, whose benefit period begins during the period beginning on September 26, 2021 and ending on September 24, 2022:
 
@@ -9212,20 +9198,20 @@ section 51; and
 
 Schedule I.
 
-### Section 337
+### Section 336
 
-Paragraphs 12(3)(c) and 152.14(1)(c) of the `Employment Insurance Act`, as amended by subsection `308`(2) and section `324`, respectively, apply in respect of a claimant for any benefit period that begins on or after the day on which subsection `308`(2) and section `324` come into force.
+Paragraphs 12(3)(c) and 152.14(1)(c) of the `Employment Insurance Act`, as amended by subsection `307`(2) and section `323`, respectively, apply in respect of a claimant for any benefit period that begins on or after the day on which subsection `307`(2) and section `323` come into force.
 
 
 ##### Coordinating Amendments
 
-### Section 338
+### Section 337
 
   **(1)** In this section, **other Act** means the `Modernization of Benefits and Obligations Act`.
 
-  **(2)** If subsection 107(1) of the other Act comes into force before subsection `311`(2) of this Act, then
+  **(2)** If subsection 107(1) of the other Act comes into force before subsection `310`(2) of this Act, then
 
-    on the first day on which both that subsection 107(1) and subsection `311`(1) of this Act are in force subsection 23(1) of the `Employment Insurance Act` is replaced by the following:
+    on the first day on which both that subsection 107(1) and subsection `310`(1) of this Act are in force subsection 23(1) of the `Employment Insurance Act` is replaced by the following:
 
 ### Section 23
 
@@ -9237,27 +9223,27 @@ Paragraphs 12(3)(c) and 152.14(1)(c) of the `Employment Insurance Act`, as amend
 
         one or more children if the claimant meets the requirements set out in the regulations made under paragraph 54(f.1).
 
-    on the day on which that subsection `311`(2) comes into force, the portion of subsection 23(1) of the `Employment Insurance Act` before paragraph (a) is replaced by the following:
+    on the day on which that subsection `310`(2) comes into force, the portion of subsection 23(1) of the `Employment Insurance Act` before paragraph (a) is replaced by the following:
 
 ### Section 23
 
       **(1)** Despite section 18, but subject to this section, benefits are payable to a major attachment claimant to care for
 
-  **(3)** If subsection 107(1) of the other Act comes into force on the same day as subsection `311`(2) of this Act, then that subsection `311`(2) is deemed to have come into force before that subsection 107(1).
+  **(3)** If subsection 107(1) of the other Act comes into force on the same day as subsection `310`(2) of this Act, then that subsection `310`(2) is deemed to have come into force before that subsection 107(1).
 
-### Section 339
+### Section 338
 
   **(1)** In this section, **other Act** means the `Fairness for the Self-Employed Act`.
 
-  **(2)** If section `321` of this Act comes into force before paragraph 36(b) of the other Act produces its effects, then the French version of that paragraph 36(b) is amended by replacing the portion of subsection 152.05(1) of the `Employment Insurance Act` before paragraph (a) that it enacts by the following:
+  **(2)** If section `320` of this Act comes into force before paragraph 36(b) of the other Act produces its effects, then the French version of that paragraph 36(b) is amended by replacing the portion of subsection 152.05(1) of the `Employment Insurance Act` before paragraph (a) that it enacts by the following:
 
 ### Section 152.05
 
       **(1)** Sous réserve de la présente partie, des prestations doivent être payées à un travailleur indépendant qui prend soin :
 
-  **(3)** If paragraph 36(b) of the other Act produces its effects before section `321` of this Act comes into force, then that section `321` is replaced by the following:
+  **(3)** If paragraph 36(b) of the other Act produces its effects before section `320` of this Act comes into force, then that section `320` is replaced by the following:
 
-### Section 321
+### Section 320
 
     The portion of subsection 152.05(1) of the French version of the Act before paragraph (a) is replaced by the following:
 
@@ -9265,22 +9251,22 @@ Paragraphs 12(3)(c) and 152.14(1)(c) of the `Employment Insurance Act`, as amend
 
       **(1)** Sous réserve de la présente partie, des prestations doivent être payées à un travailleur indépendant qui prend soin :
 
-  **(4)** If paragraph 36(b) of the other Act produces its effects on the same day as the coming into force of section `321` of this Act, then that paragraph 36(b) is deemed to have produced its effect before that section `321` comes into force and subsection (3) applies as a consequence.
+  **(4)** If paragraph 36(b) of the other Act produces its effects on the same day as the coming into force of section `320` of this Act, then that paragraph 36(b) is deemed to have produced its effect before that section `320` comes into force and subsection (3) applies as a consequence.
 
 
 ##### Coming into Force
 
-### Section 340
+### Section 339
 
-  **(1)** Subsections `303`(1), `304`(1) and (3) and `305`(1), section `306`, subsections `307`(1), `308`(1) and (3), `309`(1), `310`(1), (3) and (5), `311`(1), (3), (5), (7), (9), (11) and (13), `312`(1), `313`(1), `314`(1), `315`(1), `316`(1), `317`(1) and (3), `318`(1) and `319`(1), sections `320` to `322`, subsection `323`(1), sections `325`, `326` and `328`, subsection `330`(1) and section `331` come into force, or are deemed to have come into force, on September 26, 2021.
+  **(1)** Subsections `302`(1), `303`(1) and (3) and `304`(1), section `305`, subsections `306`(1), `307`(1) and (3), `308`(1), `309`(1), (3) and (5), `310`(1), (3), (5), (7), (9), (11) and (13), `311`(1), `312`(1), `313`(1), `314`(1), `315`(1), `316`(1) and (3), `317`(1) and `318`(1), sections `319` to `321`, subsection `322`(1), sections `324`, `325` and `327`, subsection `329`(1) and section `330` come into force, or are deemed to have come into force, on September 26, 2021.
 
-  **(2)** Subsections `303`(2), `304`(2) and (4), `305`(2), `307`(2), `308`(4), `309`(2), `310`(2), (4) and (6), `311`(2), (4), (6), (8), (10), (12) and (14), `312`(2), `313`(2), `314`(2), `315`(2), `316`(2), `317`(2) and (4), `318`(2), `319`(2), `323`(2) and `330`(2) come into force, or are deemed to have come into force, on September 25, 2022.
+  **(2)** Subsections `302`(2), `303`(2) and (4), `304`(2), `306`(2), `307`(4), `308`(2), `309`(2), (4) and (6), `310`(2), (4), (6), (8), (10), (12) and (14), `311`(2), `312`(2), `313`(2), `314`(2), `315`(2), `316`(2) and (4), `317`(2), `318`(2), `322`(2) and `329`(2) come into force, or are deemed to have come into force, on September 25, 2022.
 
-  **(3)** Subsection `308`(2) and sections `324` and `337` come into force on a day to be fixed by order of the Governor in Council.
+  **(3)** Subsection `307`(2) and sections `323` and `336` come into force on a day to be fixed by order of the Governor in Council.
 
-  **(4)** Section `327` comes into force, or is deemed to have come into force, on September 12, 2021.
+  **(4)** Section `326` comes into force, or is deemed to have come into force, on September 12, 2021.
 
-  **(5)** Section `329` comes into force on a day to be fixed by order of the Governor in Council.
+  **(5)** Section `328` comes into force on a day to be fixed by order of the Governor in Council.
 
 
 #### `Canada Labour Code`
@@ -9288,7 +9274,7 @@ Paragraphs 12(3)(c) and 152.14(1)(c) of the `Employment Insurance Act`, as amend
 
 ##### Amendments to the Act
 
-### Section 341
+### Section 340
 
   **(1)** Subsection 187.1(1) of the `Canada Labour Code` is replaced by the following:
 
@@ -9300,7 +9286,7 @@ Paragraphs 12(3)(c) and 152.14(1)(c) of the `Employment Insurance Act`, as amend
 
     **(3)** If an employee interrupts a vacation to be absent due to a reason referred to in subsection 239(1) and resumes the vacation immediately at the end of that leave, subsection 239(7) applies to them as if they did not resume the vacation before returning to work.
 
-### Section 342
+### Section 341
 
 Subsection 187.2(1) of the Act is replaced by the following:
 
@@ -9308,7 +9294,7 @@ Subsection 187.2(1) of the Act is replaced by the following:
 
   **(1)** Despite paragraph 185(a) or any term or condition of employment, an employee may postpone their vacation until after the day on which a leave of absence taken under Division VII or VIII or section 247.5, or an absence due to a reason referred to in subsection 239(1), 239.01(1) or 239.1(1), ends.
 
-### Section 343
+### Section 342
 
   **(1)** Subsection 206.1(2.1) of the Act is replaced by the following:
 
@@ -9322,7 +9308,7 @@ Subsection 187.2(1) of the Act is replaced by the following:
 
     **(4)** Except to the extent that it is inconsistent with subsection 239(7), section 209.1 applies to an employee who interrupted the leave referred to in subsection (1) in order to be absent due to a reason referred to in subsection 239(1).
 
-### Section 344
+### Section 343
 
   **(1)** Subsection 207.02(1) of the Act is replaced by the following:
 
@@ -9334,7 +9320,7 @@ Subsection 187.2(1) of the Act is replaced by the following:
 
     **(3)** Except to the extent that it is inconsistent with subsection 239(7), section 209.1 applies to an employee who interrupted the leave in order to be absent due to a reason referred to in subsection 239(1).
 
-### Section 345
+### Section 344
 
   **(1)** The portion of subsection 239(1) of the Act before paragraph (a) is replaced by the following:
 
@@ -9351,9 +9337,9 @@ Subsection 187.2(1) of the Act is replaced by the following:
 
 ##### Coordinating Amendments
 
-### Section 346
+### Section 345
 
-On the first day on which both subsection `341`(1) of this Act and subsection 4.1(2) of the `COVID-19 Response Measures Act` are in force
+On the first day on which both subsection `340`(1) of this Act and subsection 4.1(2) of the `COVID-19 Response Measures Act` are in force
 
 subsection 187.1(1) of the `Canada Labour Code` is replaced by the following:
 
@@ -9384,9 +9370,9 @@ subsection 207.02(1) of the `Canada Labour Code` is replaced by the following:
 
 ##### Coming into Force
 
-### Section 347
+### Section 346
 
-Sections `341` to `345` come into force on the day on which subsection `308`(2) comes into force.
+Sections `340` to `344` come into force on the day on which subsection `307`(2) comes into force.
 
 
 #### Employment Insurance Regulations
@@ -9394,7 +9380,7 @@ Sections `341` to `345` come into force on the day on which subsection `308`(2) 
 
 ##### Amendments to the Regulations
 
-### Section 348
+### Section 347
 
   **(1)** Subsection 35(6) of the `Employment Insurance Regulations` is replaced by the following:
 
@@ -9410,7 +9396,7 @@ Sections `341` to `345` come into force on the day on which subsection `308`(2) 
 
   **(4)** Subsection 35(7) of the Regulations is amended by striking out "and" at the end of paragraph (f), by adding "and" at the end of paragraph (e) and by repealing paragraph (g).
 
-### Section 349
+### Section 348
 
   **(1)** Subsections 36(9) to (10.2) of the Regulations are repealed.
 
@@ -9440,7 +9426,7 @@ Sections `341` to `345` come into force on the day on which subsection `308`(2) 
 
     **(10.2)** If any of the conditions under which the Commission may terminate the claimant's referral under paragraph 27(1.1)(b) of the Act exists, the earnings paid or payable to the claimant by reason of a lay-off or separation from an employment shall be re-allocated under subsection (9).
 
-### Section 350
+### Section 349
 
   **(1)** The portion of subsection 55(5) of the Regulations before paragraph (a) is replaced by the following:
 
@@ -9458,7 +9444,7 @@ Sections `341` to `345` come into force on the day on which subsection `308`(2) 
 
     **(6)** Subject to subsection (7), a claimant who is not a self-employed person and who resides outside Canada, other than a major attachment claimant referred to in subsection (5), is not disentitled from receiving benefits for the sole reason of their residence outside Canada if
 
-### Section 351
+### Section 350
 
 Paragraph 77.992(2)(a) of the Regulations is replaced by the following:
 
@@ -9467,11 +9453,11 @@ the date on which a benefit period is established falls within the period beginn
 
 ##### Coming into Force
 
-### Section 352
+### Section 351
 
-  **(1)** Subsections `348`(1) and (3), `349`(1), `350`(1) and (3) and section `351` come into force, or are deemed to have come into force, on September 26, 2021.
+  **(1)** Subsections `347`(1) and (3), `348`(1), `349`(1) and (3) and section `350` come into force, or are deemed to have come into force, on September 26, 2021.
 
-  **(2)** Subsections `348`(2) and (4), `349`(2) and `350`(2) and (4) come into force, or are deemed to have come into force, on September 25, 2022.
+  **(2)** Subsections `347`(2) and (4), `348`(2) and `349`(2) and (4) come into force, or are deemed to have come into force, on September 25, 2022.
 
 
 #### Employment Insurance (Fishing) Regulations
@@ -9479,7 +9465,7 @@ the date on which a benefit period is established falls within the period beginn
 
 ##### Amendments to the Regulations
 
-### Section 353
+### Section 352
 
   **(1)** The definitions **major attachment claimant** and **minor attachment claimant** in subsection 1(1) of the `Employment Insurance (Fishing) Regulations` are repealed.
 
@@ -9489,7 +9475,7 @@ the date on which a benefit period is established falls within the period beginn
 
     **minor attachment claimant** means a claimant who qualifies to receive benefits and has less than $3,760 of insurable earnings from employment as a fisher in their qualifying period. (**prestataire de la deuxième catégorie**)
 
-### Section 354
+### Section 353
 
   **(1)** Paragraph 8(2)(b) of the Regulations is replaced by the following:
 
@@ -9507,7 +9493,7 @@ the date on which a benefit period is established falls within the period beginn
 
     have accumulated, since the beginning of the qualifying period, not less than the amount of insurable earnings from employment as a fisher that is set out in the schedule for the unemployment rate applicable to the region where they reside.
 
-### Section 355
+### Section 354
 
   **(1)** Subsection 11(1) of the Regulations is replaced by the following:
 
@@ -9521,7 +9507,7 @@ the date on which a benefit period is established falls within the period beginn
 
       **(1)** Despite subsections 7.1(1) to (2.1), (6) and (7) of the Act, the amount of insurable earnings that an insured person requires under section 8 to qualify for benefits is increased to the amount set out in the applicable column of the table to this subsection if the insured person accumulates one or more violations in the 260 weeks before making an initial claim for benefits.
 
-### Section 356
+### Section 355
 
   **(1)** Subsection 12(1) of the Regulations is replaced by the following:
 
@@ -9543,33 +9529,33 @@ the date on which a benefit period is established falls within the period beginn
 
     the claimant has accumulated, since the beginning of the benefit period, insurable earnings from employment as a fisher that, when added to the insurable earnings from employment as a fisher in the claimant's qualifying period, are equal to or exceed the applicable amount of insurable earnings in employment as a fisher set out in the schedule, determined by reference to the week in which the benefit period began; and
 
-### Section 357
+### Section 356
 
 The heading before section 15 and sections 15 to 17 of the Regulations are repealed.
 
-### Section 358
+### Section 357
 
 The schedule to the Regulations is repealed.
 
-### Section 359
+### Section 358
 
 The Regulations are amended by adding, after section 14.5, the schedule set out in Schedule 4 to this Act.
 
 
 ##### Transitional Provision
 
-### Section 360
+### Section 359
 
-For greater certainty, subsections 153(3) to (9) of the `Employment Insurance Act` do not apply in respect of the amendments made by sections `353` to `359`.
+For greater certainty, subsections 153(3) to (9) of the `Employment Insurance Act` do not apply in respect of the amendments made by sections `352` to `358`.
 
 
 ##### Coming into Force
 
-### Section 361
+### Section 360
 
-  **(1)** Subsections `353`(1), `354`(1) and (3), `355`(1) and `356`(1) and (3) and sections `357` and `358` come into force, or are deemed to have come into force, on September 26, 2021.
+  **(1)** Subsections `352`(1), `353`(1) and (3), `354`(1) and `355`(1) and (3) and sections `356` and `357` come into force, or are deemed to have come into force, on September 26, 2021.
 
-  **(2)** Subsections `353`(2), `354`(2) and (4), `355`(2) and `356`(2) and (4) and section `359` come into force, or are deemed to have come into force, on September 25, 2022.
+  **(2)** Subsections `352`(2), `353`(2) and (4), `354`(2) and `355`(2) and (4) and section `358` come into force, or are deemed to have come into force, on September 25, 2022.
 
 
 ### Canada Elections Act
@@ -9577,7 +9563,7 @@ For greater certainty, subsections 153(3) to (9) of the `Employment Insurance Ac
 
 #### Amendments to the Act
 
-### Section 362
+### Section 361
 
   **(1)** Paragraph 486(3)(c) of the `Canada Elections Act` is replaced by the following:
 
@@ -9590,9 +9576,9 @@ For greater certainty, subsections 153(3) to (9) of the `Employment Insurance Ac
 
 #### Application of Amendments
 
-### Section 363
+### Section 362
 
-Despite subsection 554(1) of the `Canada Elections Act`, the amendments to that Act made by section `362` apply in an election for which the writ is issued within six months after the day on which this Act receives royal assent.
+Despite subsection 554(1) of the `Canada Elections Act`, the amendments to that Act made by section `361` apply in an election for which the writ is issued within six months after the day on which this Act receives royal assent.
 
 
 ### Interpretation
