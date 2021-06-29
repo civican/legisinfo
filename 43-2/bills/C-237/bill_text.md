@@ -38,9 +38,11 @@ This Act may be cited as the `National Framework for Diabetes Act`.
 
     promote research and improve data collection on diabetes prevention and treatment;
 
-    promote information and knowledge sharing in relation to diabetes prevention and treatment; and
+    promote information and knowledge sharing in relation to diabetes prevention and treatment;
 
-    take into consideration any existing diabetes prevention and treatment frameworks, strategies and best practices, including those that focus on addressing health inequalities.
+    take into consideration any existing diabetes prevention and treatment frameworks, strategies and best practices, including those that focus on addressing health inequalities; and
+
+    ensure that the Canada Revenue Agency is administering the disability tax credit fairly and that the credit, in order to achieve its purposes, is designed to help as many persons with diabetes as possible.
 
   **(3)** The Minister must hold at least one conference with the persons referred to in subsection (1) for the purpose of developing the framework.
 
