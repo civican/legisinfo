@@ -1,9 +1,6 @@
 # Bill C-208: 
       
 
-**Sponsor**: 
-      
-
 ## Summary
 
 This enactment amends the *Income Tax Act* in order to provide that, in the case of qualified small business corporation shares and shares of the capital stock of a family farm or fishing corporation, siblings are deemed not to be dealing at arm's length and to be related, and that, under certain conditions, the transfer of those shares by a taxpayer to the taxpayer's child or grandchild who is 18 years of age or older is to be excluded from the anti-avoidance rule of section 84.1.
@@ -17,7 +14,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 Subparagraph 55(5)(e)(i) of the `Income Tax Act` is replaced by the following:
 
-a person shall be deemed to be dealing with another person at arm's length and not to be related to the other person if the person is the brother or sister of the other person, **except in the case where the dividend was received or paid, as part of a transaction or event or a series of transactions or events, by a corporation of which a share of the capital stock is a qualified small business corporation share or a ***share of the capital stock of a family farm or fishing corporation*** within the meaning of subsection 110.6(1)**,
+a person shall be deemed to be dealing with another person at arm's length and not to be related to the other person if the person is the brother or sister of the other person, except in the case where the dividend was received or paid, as part of a transaction or event or a series of transactions or events, by a corporation of which a share of the capital stock is a qualified small business corporation share or a ***share of the capital stock of a family farm or fishing corporation*** within the meaning of subsection 110.6(1),
 
 ### Section 2
 
