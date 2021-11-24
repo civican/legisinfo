@@ -1,0 +1,1320 @@
+<Bills>
+  <Bill>
+    <Id>11473161</Id>
+    <NumberCode>C-2</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>2</Number>
+    <LongTitleEn>An Act to provide further support in response to COVID-19</LongTitleEn>
+    <LongTitleFr>Loi visant à fournir un soutien supplémentaire en réponse à la COVID-19</LongTitleFr>
+    <LongTitle>An Act to provide further support in response to COVID-19</LongTitle>
+    <ShortTitleEn>
+    </ShortTitleEn>
+    <ShortTitleFr>
+    </ShortTitleFr>
+    <ShortTitle>
+    </ShortTitle>
+    <StatusId>357</StatusId>
+    <StatusNameEn>Royal assent received</StatusNameEn>
+    <StatusNameFr>Sanction royale reçue</StatusNameFr>
+    <StatusName>Royal assent received</StatusName>
+    <LatestCompletedMajorStageId>60046</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>Royal assent</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Sanction royale</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>Royal assent</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>Royal assent</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>2</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>Senate</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Sénat</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>Senate</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60050</OngoingStageId>
+    <OngoingStageNameEn>Royal assent</OngoingStageNameEn>
+    <OngoingStageNameFr>Sanction royale</OngoingStageNameFr>
+    <OngoingStageName>Royal assent</OngoingStageName>
+    <LatestCompletedBillStageId>60050</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Royal assent</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Sanction royale</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Royal assent</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>2</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>Senate</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Sénat</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>Senate</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2021-12-17T15:24:00</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>44</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>84665</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Chrystia</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Freeland</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Chrystia Freeland</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Deputy Prime Minister and Minister of Finance</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>vice-première ministre et ministre des Finances</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Deputy Prime Minister and Minister of Finance</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>96</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>HansardDisplay</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>HansardDisplay</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>HansardDisplay</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>824</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>University—Rosedale</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>University—Rosedale</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>University—Rosedale</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60149</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Royal assent</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Sanction royale</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60050</LatestBillEventStageId>
+    <LatestBillEventTypeName>Royal assent</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2021-12-17T10:00:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>2</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>Senate</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Sénat</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>Senate</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>14</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2021-11-24T15:27:37.33</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime>2021-12-02T15:15:00</PassedHouseSecondReadingDateTime>
+    <PassedHouseThirdReadingDateTime>2021-12-16T15:15:00</PassedHouseThirdReadingDateTime>
+    <PassedSenateFirstReadingDateTime>2021-12-16T18:49:00</PassedSenateFirstReadingDateTime>
+    <PassedSenateSecondReadingDateTime>2021-12-16T19:03:00</PassedSenateSecondReadingDateTime>
+    <PassedSenateThirdReadingDateTime>2021-12-16T20:10:00</PassedSenateThirdReadingDateTime>
+    <ReceivedRoyalAssentDateTime>2021-12-17T15:24:00</ReceivedRoyalAssentDateTime>
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>true</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>true</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>true</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>true</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>true</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>&lt;div&gt;On December 14, 2021, the Senate adopted the following motion:&lt;p&gt;That, notwithstanding any provisions of the Rules, previous order or usual practice:
+
+&lt;/p&gt;&lt;p&gt;1.the Senate resolve itself into a Committee of the Whole at 5 p.m. on Thursday, December 16, 2021, to consider the subject matter of Bill C-2, An Act to provide further support in response to COVID-19, with any proceedings then before the Senate being interrupted until the end of Committee of the Whole;
+
+&lt;/p&gt;&lt;p&gt;2.if the bells are ringing for a vote at the time the committee is to meet, they be interrupted for the Committee of the Whole at that time, and resume once the committee has completed its work for the balance of any time remaining;
+
+&lt;/p&gt;&lt;p&gt;3.the Committee of the Whole on the subject matter of Bill C-2 receive the Honourable Chrystia Freeland, P.C., M.P., Deputy Prime Minister and Minister of Finance, accompanied by no more than four officials;
+
+&lt;/p&gt;&lt;p&gt;4.the Committee of the Whole on the subject matter of Bill C-2 rise no later than 95 minutes after it begins;
+
+&lt;/p&gt;&lt;p&gt;5.the witness' introductory remarks last a maximum total of five minutes;
+
+&lt;/p&gt;&lt;p&gt;6.if a senator does not use the entire period of 10 minutes for debate provided under rule 12-32(3)(d), including the responses of the witnesses, that senator may yield the balance of time to another senator; and
+
+&lt;/p&gt;&lt;p&gt;7.the start of the evening suspension be delayed until the Committee of the Whole has reported, and last one hour, provided that if under the terms of paragraph 13 of the order of November 25, 2021, something is to take place at 7 p.m., it instead take place once the sitting resumes after the evening suspension.&lt;/p&gt;&lt;/div&gt;</NotesEn>
+    <NotesFr>&lt;div&gt;Le Sénat a adopté la motion suivante le 14 décembre 2021 : &lt;p&gt;Que, nonobstant toute disposition du Règlement, tout ordre antérieur ou toute pratique habituelle :
+
+&lt;/p&gt;&lt;p&gt;1.le Sénat se forme en comité plénier à 17 heures le jeudi 16 décembre 2021, afin d'étudier la teneur du projet de loi C-2, Loi visant à fournir un soutien supplémentaire en réponse à la COVID-19, toutes les délibérations alors en cours au Sénat étant interrompues jusqu'à la fin du comité plénier;
+
+&lt;/p&gt;&lt;p&gt;2.si la sonnerie d'appel pour un vote retentit au moment où le comité doit se réunir, elle cesse de se faire entendre pendant le comité plénier et retentisse de nouveau une fois les travaux du comité terminés pour le temps qu'il reste;
+
+&lt;/p&gt;&lt;p&gt;3.le comité plénier sur la teneur du projet de loi C-2 reçoive l'honorable Chrystia Freeland, c.p., députée, vice-première ministre et ministre des Finances, accompagnée d'au plus quatre fonctionnaires;
+
+&lt;/p&gt;&lt;p&gt;4.le comité plénier sur la teneur du projet de loi C-2 lève sa séance au plus tard 95 minutes après le début de ses travaux;
+
+&lt;/p&gt;&lt;p&gt;5.les remarques introductives de la témoin durent un total maximal de cinq minutes;
+
+&lt;/p&gt;&lt;p&gt;6.si un sénateur n'utilise pas l'entière période de 10 minutes prévue pour les interventions à l'article 12-32(3)d) du Règlement, les réponses des témoins y comprises, il puisse céder le reste de son temps à un autre sénateur;
+
+&lt;/p&gt;&lt;p&gt;7.le début de la suspension du soir soit retardé jusqu'à ce que le comité plénier ait fait rapport, et soit d'une durée d'une heure, à condition que si un événement doit avoir lieu à 19 heures, conformément au paragraphe 13 de l'ordre du 25 novembre 2021, il ait plutôt lieu une fois la séance reprise après la pause du soir.&lt;/p&gt;&lt;/div&gt;</NotesFr>
+    <Notes>&lt;div&gt;On December 14, 2021, the Senate adopted the following motion:&lt;p&gt;That, notwithstanding any provisions of the Rules, previous order or usual practice:
+
+&lt;/p&gt;&lt;p&gt;1.the Senate resolve itself into a Committee of the Whole at 5 p.m. on Thursday, December 16, 2021, to consider the subject matter of Bill C-2, An Act to provide further support in response to COVID-19, with any proceedings then before the Senate being interrupted until the end of Committee of the Whole;
+
+&lt;/p&gt;&lt;p&gt;2.if the bells are ringing for a vote at the time the committee is to meet, they be interrupted for the Committee of the Whole at that time, and resume once the committee has completed its work for the balance of any time remaining;
+
+&lt;/p&gt;&lt;p&gt;3.the Committee of the Whole on the subject matter of Bill C-2 receive the Honourable Chrystia Freeland, P.C., M.P., Deputy Prime Minister and Minister of Finance, accompanied by no more than four officials;
+
+&lt;/p&gt;&lt;p&gt;4.the Committee of the Whole on the subject matter of Bill C-2 rise no later than 95 minutes after it begins;
+
+&lt;/p&gt;&lt;p&gt;5.the witness' introductory remarks last a maximum total of five minutes;
+
+&lt;/p&gt;&lt;p&gt;6.if a senator does not use the entire period of 10 minutes for debate provided under rule 12-32(3)(d), including the responses of the witnesses, that senator may yield the balance of time to another senator; and
+
+&lt;/p&gt;&lt;p&gt;7.the start of the evening suspension be delayed until the Committee of the Whole has reported, and last one hour, provided that if under the terms of paragraph 13 of the order of November 25, 2021, something is to take place at 7 p.m., it instead take place once the sitting resumes after the evening suspension.&lt;/p&gt;&lt;/div&gt;</Notes>
+    <ShortLegislativeSummaryEn>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information and Research Service of the Library of Parliament. Meanwhile, the following executive summary is available.&lt;br/&gt;&lt;br/&gt;On 2 November 2021, the Deputy Prime Minister and Minister of Finance introduced Bill C-2, An Act to provide further support in response to COVID-19 in the House of Commons and it was given first reading.   &lt;br/&gt;&lt;br/&gt;Part 1 amends the Income Tax Act and the Income Tax Regulations to extend subsidies under the Canada Emergency Wage Subsidy (CEWS), the Canada Emergency Rent Subsidy (CERS), and the Canada Recovery Hiring Program until May 7, 2022, as part of the response to the COVID-19 pandemic. Support under the CEWS and the CERS would be available to the tourism and hospitality sector and to the hardest-hit organizations that face significant revenue declines. Eligible entities under these rules would need to demonstrate a revenue decline over the course of 12 months of the pandemic, as well as a current-month revenue decline. In addition, organizations subject to a qualifying public health restriction would be eligible for support, if they have one or more locations subject to a public health restriction lasting for at least seven days that requires them to cease some or all of their activities. Part 1 also allows the government to extend the subsidies by regulation but no later than July 2, 2022.&lt;br/&gt;&lt;br/&gt;Part 2 enacts the Canada Worker Lockdown Benefit Act to authorize the payment of the Canada worker lockdown benefit in regions where a lockdown is imposed for reasons related to COVID-19. It also makes consequential amendments to the Income Tax Act and the Income Tax Regulations.&lt;br/&gt;&lt;br/&gt;Part 3 amends the Canada Recovery Benefits Act to, among other things,&lt;br/&gt;(a) extend the period within which a person may be eligible for a Canada recovery sickness benefit or a Canada recovery caregiving benefit;&lt;br/&gt;(b) increase the maximum number of weeks in respect of which a Canada recovery sickness benefit is payable to a person from four to six; and&lt;br/&gt;(c) increase the maximum number of weeks in respect of which a Canada recovery caregiving benefit is payable to a person from 42 to 44.&lt;br/&gt;It also makes a related amendment to the Canada Recovery Benefits Regulations.&lt;br/&gt;&lt;br/&gt;Part 4 amends the Canada Labour Code to, among other things, create a regime that provides for a leave of absence related to COVID-19 under which an employee may take&lt;br/&gt;(a) up to six weeks if they are unable to work because, among other things, they have contracted COVID-19, have underlying conditions that in the opinion of certain persons or entities would make them more susceptible to COVID-19 or have isolated themselves on the advice of certain persons or entities for reasons related to COVID-19; and&lt;br/&gt;(b) up to 44 weeks if they are unable to work because, for certain reasons related to COVID-19, they must care for a child who is under the age of 12 or a family member who requires supervised care.&lt;br/&gt;&lt;br/&gt;It also makes a related amendment to the Budget Implementation Act, 2021, No. 1.&lt;/div&gt;</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>&lt;div&gt;Le Service d'information et de recherche parlementaires de la Bibliothèque du Parlement rédige actuellement le résumé législatif de ce projet de loi.  Entre-temps, le Service met à votre disposition le sommaire suivant.  &lt;br/&gt;&lt;br/&gt;Le 24 novembre 2021, le Vice-première ministre et ministre des Finances a déposé le projet de loi C-2, Loi visant à fournir un soutien supplémentaire en réponse à la COVID-19 à la Chambre des communes en première lecture. &lt;br/&gt;&lt;br/&gt;La partie 1 modifie la Loi de l'impôt sur le revenu et le Règlement de l'impôt sur le revenu afin de prolonger la Subvention salariale d'urgence du Canada (SSUC), la Subvention d'urgence pour le loyer du Canada (SULC) et le Programme d'embauche pour la relance économique du Canada jusqu'au 7 mai 2022 dans le contexte de la réponse à la maladie à coronavirus 2019. Le soutien accordé en vertu de la SSUC et de la SULC serait offert au secteur du tourisme et de l'accueil ainsi qu'aux organisations les plus durement touchées ayant enregistré des réductions considérables de revenu. Les entités admissibles auront à démontrer qu'elles ont subi des baisses de revenu sur une période de 12 mois durant la pandémie ainsi que pendant le mois en cours en application de ces règles. De plus, les organisations touchées par un confinement causé par des restrictions sanitaires admissibles seraient éligibles au soutien si un ou plusieurs de leurs emplacements sont assujettis à des restrictions sanitaires pendant une période d'au moins sept jours causant la cessation d'une partie ou de toutes leurs activités. La partie 1 permet également au gouvernement de prolonger les subventions par voie de règlement jusqu'au 2 juillet 2022.&lt;br/&gt;&lt;br/&gt;La partie 2 édicte la Loi sur la prestation canadienne pour les travailleurs en cas de confinement afin d'autoriser le versement de la prestation canadienne pour les travailleurs en cas de confinement dans les régions où un confinement est imposé pour des raisons liées à la COVID-19. En outre, elle apporte des modifications corrélatives à la Loi de l'impôt sur le revenu et au Règlement de l'impôt sur le revenu.&lt;br/&gt;&lt;br/&gt;La partie 3 modifie la Loi sur les prestations canadiennes de relance économique pour, notamment?:&lt;br/&gt;a) prolonger la période pendant laquelle une personne peut être admissible à la prestation canadienne de maladie pour la relance économique ou à la prestation canadienne de relance économique pour les proches aidants;&lt;br/&gt;b) faire passer le nombre maximal de semaines à l'égard desquelles la prestation canadienne de maladie pour la relance économique peut être versée de quatre à six;&lt;br/&gt;c) faire passer le nombre maximal de semaines à l'égard desquelles la prestation canadienne de relance économique pour les proches aidants peut être versée de quarante-deux à quarante-quatre.&lt;br/&gt;En outre, elle apporte une modification connexe au Règlement sur les prestations canadiennes de relance économique.&lt;br/&gt;&lt;br/&gt;La partie 4 modifie le Code canadien du travail afin notamment de créer un régime permettant à un employé de prendre un congé lié à la COVID-19, selon le cas?:&lt;br/&gt;a) d'au plus six semaines s'il est incapable de travailler notamment parce qu'il a contracté la COVID-19, a des affections sous-jacentes qui, de l'avis de certaines personnes ou entités, le rendraient plus vulnérable de contracter la COVID-19 ou s'est mis en isolement sur l'avis de l'une ou l'autre personne ou entité pour des raisons liées à la COVID-19;&lt;br/&gt;b) d'au plus quarante-quatre semaines s'il est incapable de travailler parce qu'il doit, pour certaines raisons liées à la COVID-19, s'occuper d'un enfant de moins de douze ans ou d'un membre de sa famille qui nécessite des soins supervisés.&lt;br/&gt;&lt;br/&gt;En outre, elle apporte une modification connexe à la Loi no 1 d'exécution du budget de 2021.&lt;/div&gt;</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information and Research Service of the Library of Parliament. Meanwhile, the following executive summary is available.&lt;br/&gt;&lt;br/&gt;On 2 November 2021, the Deputy Prime Minister and Minister of Finance introduced Bill C-2, An Act to provide further support in response to COVID-19 in the House of Commons and it was given first reading.   &lt;br/&gt;&lt;br/&gt;Part 1 amends the Income Tax Act and the Income Tax Regulations to extend subsidies under the Canada Emergency Wage Subsidy (CEWS), the Canada Emergency Rent Subsidy (CERS), and the Canada Recovery Hiring Program until May 7, 2022, as part of the response to the COVID-19 pandemic. Support under the CEWS and the CERS would be available to the tourism and hospitality sector and to the hardest-hit organizations that face significant revenue declines. Eligible entities under these rules would need to demonstrate a revenue decline over the course of 12 months of the pandemic, as well as a current-month revenue decline. In addition, organizations subject to a qualifying public health restriction would be eligible for support, if they have one or more locations subject to a public health restriction lasting for at least seven days that requires them to cease some or all of their activities. Part 1 also allows the government to extend the subsidies by regulation but no later than July 2, 2022.&lt;br/&gt;&lt;br/&gt;Part 2 enacts the Canada Worker Lockdown Benefit Act to authorize the payment of the Canada worker lockdown benefit in regions where a lockdown is imposed for reasons related to COVID-19. It also makes consequential amendments to the Income Tax Act and the Income Tax Regulations.&lt;br/&gt;&lt;br/&gt;Part 3 amends the Canada Recovery Benefits Act to, among other things,&lt;br/&gt;(a) extend the period within which a person may be eligible for a Canada recovery sickness benefit or a Canada recovery caregiving benefit;&lt;br/&gt;(b) increase the maximum number of weeks in respect of which a Canada recovery sickness benefit is payable to a person from four to six; and&lt;br/&gt;(c) increase the maximum number of weeks in respect of which a Canada recovery caregiving benefit is payable to a person from 42 to 44.&lt;br/&gt;It also makes a related amendment to the Canada Recovery Benefits Regulations.&lt;br/&gt;&lt;br/&gt;Part 4 amends the Canada Labour Code to, among other things, create a regime that provides for a leave of absence related to COVID-19 under which an employee may take&lt;br/&gt;(a) up to six weeks if they are unable to work because, among other things, they have contracted COVID-19, have underlying conditions that in the opinion of certain persons or entities would make them more susceptible to COVID-19 or have isolated themselves on the advice of certain persons or entities for reasons related to COVID-19; and&lt;br/&gt;(b) up to 44 weeks if they are unable to work because, for certain reasons related to COVID-19, they must care for a child who is under the age of 12 or a family member who requires supervised care.&lt;br/&gt;&lt;br/&gt;It also makes a related amendment to the Budget Implementation Act, 2021, No. 1.&lt;/div&gt;</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear>2021</StatuteYear>
+    <StatuteChapter>26</StatuteChapter>
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2021-11-24T15:27:37.33</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>3</Number>
+          <Date>2021-11-24T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2021-11-24T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2021-11-24T15:27:37.33</EventStartDateTime>
+          <EventEndDateTime>2021-11-24T15:27:37.33</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2021-11-24T15:27:37.33</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2021-12-02T15:15:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>27187</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+          <StudyActivityId>11441583</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>5</Number>
+          <Date>2021-11-26T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>6</Number>
+          <Date>2021-11-29T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Second reading and referral to committee</NameEn>
+          <NameFr>Deuxième lecture et renvoi en comité</NameFr>
+          <Name>Second reading and referral to committee</Name>
+          <Number>9</Number>
+          <Date>2021-12-02T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>11438721</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>11474307</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>2nd reading and referral to committee - FINA</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>2e lecture et renvoi en comité - FINA</DecisionMotionTitleFr>
+          <DecisionMotionTitle>2nd reading and referral to committee - FINA</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>10</DecisionMethodId>
+          <DecisionMethodNameEn>On recorded division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Suivant un vote par appel nominal</DecisionMethodNameFr>
+          <DecisionMethodName>On recorded division</DecisionMethodName>
+          <DivisionNumber>5</DivisionNumber>
+          <DivisionVotesYeas>183</DivisionVotesYeas>
+          <DivisionVotesNays>129</DivisionVotesNays>
+          <DivisionVotePaired>0</DivisionVotePaired>
+          <DecisionSittingDate>2021-12-02T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>9</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60121</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading and referral to committee</EventNameEn>
+          <EventNameFr>Deuxième lecture et renvoi en comité</EventNameFr>
+          <EventName>Second reading and referral to committee</EventName>
+          <EventDateTime>2021-12-02T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60121</EventTypeId>
+          <EventTypeNameEn>Second reading and referral to committee</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture et renvoi en comité</EventTypeNameFr>
+          <EventTypeName>Second reading and referral to committee</EventTypeName>
+          <EventStartDateTime>2021-12-02T15:15:00</EventStartDateTime>
+          <EventEndDateTime>2021-12-02T15:15:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2021-12-02T15:15:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>11434194</InterventionEventId>
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>89147</PersonId>
+          <PersonOfficialFirstName>Randy</PersonOfficialFirstName>
+          <PersonOfficialLastName>Boissonnault</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Randy Boissonnault</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>5</MeetingNumber>
+          <SpeechDateTime>2021-11-26T10:08:08</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>11434231</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>25524</PersonId>
+          <PersonOfficialFirstName>Pierre</PersonOfficialFirstName>
+          <PersonOfficialLastName>Poilievre</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Pierre Poilievre</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>5</MeetingNumber>
+          <SpeechDateTime>2021-11-26T10:32:52</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>11434630</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>88485</PersonId>
+          <PersonOfficialFirstName>Gabriel</PersonOfficialFirstName>
+          <PersonOfficialLastName>Ste-Marie</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Gabriel Ste-Marie</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Bloc Québécois</CaucusShortNameEn>
+          <CaucusShortNameFr>Bloc Québécois</CaucusShortNameFr>
+          <CaucusShortName>Bloc Québécois</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>5</MeetingNumber>
+          <SpeechDateTime>2021-11-26T12:32:39</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>11434675</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>89032</PersonId>
+          <PersonOfficialFirstName>Daniel</PersonOfficialFirstName>
+          <PersonOfficialLastName>Blaikie</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Daniel Blaikie</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>NDP</CaucusShortNameEn>
+          <CaucusShortNameFr>NPD</CaucusShortNameFr>
+          <CaucusShortName>NDP</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>5</MeetingNumber>
+          <SpeechDateTime>2021-11-26T12:56:08</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2021-12-14T12:53:51.99</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>27187</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+          <StudyActivityId>11441583</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented with amendments</NameEn>
+          <NameFr>Présentation du rapport de comité avec des amendements</NameFr>
+          <Name>Committee report presented with amendments</Name>
+          <Number>17</Number>
+          <Date>2021-12-14T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27187</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <Number>2</Number>
+          <Date>2021-12-07T00:00:00</Date>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27187</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <Number>3</Number>
+          <Date>2021-12-07T00:00:00</Date>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27187</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <Number>4</Number>
+          <Date>2021-12-08T00:00:00</Date>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27187</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <Number>5</Number>
+          <Date>2021-12-09T00:00:00</Date>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27187</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <Number>6</Number>
+          <Date>2021-12-09T00:00:00</Date>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27187</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <Number>7</Number>
+          <Date>2021-12-10T00:00:00</Date>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27187</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <Number>8</Number>
+          <Date>2021-12-13T00:00:00</Date>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27187</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <Number>9</Number>
+          <Date>2021-12-13T00:00:00</Date>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented with amendments</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité avec des amendements</EventNameFr>
+          <EventName>Committee report presented with amendments</EventName>
+          <EventDateTime>2021-12-14T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId>11498064</CommitteeReportId>
+          <CommitteeReportNumber>1</CommitteeReportNumber>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2021-12-14T12:53:51.99</EventStartDateTime>
+          <EventEndDateTime>2021-12-14T12:53:51.99</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2021-12-14T12:53:51.99</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2021-12-16T15:12:48</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Concurrence at report stage</NameEn>
+          <NameFr>Adoption à l'étape du rapport</NameFr>
+          <Name>Concurrence at report stage</Name>
+          <Number>19</Number>
+          <Date>2021-12-16T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60285</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Concurrence at report stage</EventNameEn>
+          <EventNameFr>Adoption à l'étape du rapport</EventNameFr>
+          <EventName>Concurrence at report stage</EventName>
+          <EventDateTime>2021-12-16T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60285</EventTypeId>
+          <EventTypeNameEn>Concurrence at report stage</EventTypeNameEn>
+          <EventTypeNameFr>Adoption à l'étape du rapport</EventTypeNameFr>
+          <EventTypeName>Concurrence at report stage</EventTypeName>
+          <EventStartDateTime>2021-12-16T15:12:48</EventStartDateTime>
+          <EventEndDateTime>2021-12-16T15:12:48</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2021-12-16T15:12:48</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2021-12-16T15:15:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>19</Number>
+          <Date>2021-12-16T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>11467165</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>11474309</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>3rd reading</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>3e lecture</DecisionMotionTitleFr>
+          <DecisionMotionTitle>3rd reading</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>10</DecisionMethodId>
+          <DecisionMethodNameEn>On recorded division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Suivant un vote par appel nominal</DecisionMethodNameFr>
+          <DecisionMethodName>On recorded division</DecisionMethodName>
+          <DivisionNumber>18</DivisionNumber>
+          <DivisionVotesYeas>191</DivisionVotesYeas>
+          <DivisionVotesNays>142</DivisionVotesNays>
+          <DivisionVotePaired>0</DivisionVotePaired>
+          <DecisionSittingDate>2021-12-16T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>19</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2021-12-16T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2021-12-16T15:15:00</EventStartDateTime>
+          <EventEndDateTime>2021-12-16T15:15:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2021-12-16T15:15:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2021-12-16T18:49:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>First reading</NameEn>
+          <NameFr>Première lecture</NameFr>
+          <Name>First reading</Name>
+          <Number>13</Number>
+          <Date>2021-12-16T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60111</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>First reading</EventNameEn>
+          <EventNameFr>Première lecture</EventNameFr>
+          <EventName>First reading</EventName>
+          <EventDateTime>2021-12-16T18:49:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60111</EventTypeId>
+          <EventTypeNameEn>First reading</EventTypeNameEn>
+          <EventTypeNameFr>Première lecture</EventTypeNameFr>
+          <EventTypeName>First reading</EventTypeName>
+          <EventStartDateTime>2021-12-16T18:49:00</EventStartDateTime>
+          <EventEndDateTime>2021-12-16T18:49:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2021-12-16T18:49:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2021-12-16T19:03:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>13</Number>
+          <Date>2021-12-16T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60120</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading</EventNameEn>
+          <EventNameFr>Deuxième lecture</EventNameFr>
+          <EventName>Second reading</EventName>
+          <EventDateTime>2021-12-16T19:03:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60120</EventTypeId>
+          <EventTypeNameEn>Second reading</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture</EventTypeNameFr>
+          <EventTypeName>Second reading</EventTypeName>
+          <EventStartDateTime>2021-12-16T19:03:00</EventStartDateTime>
+          <EventEndDateTime>2021-12-16T19:03:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2021-12-16T19:03:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>38647</PersonId>
+          <PersonOfficialFirstName>Peter M.</PersonOfficialFirstName>
+          <PersonOfficialLastName>Boehm</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Peter M. Boehm</PersonName>
+          <SenateSystemAffiliationId>217512</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Independent Senators Group</CaucusShortNameEn>
+          <CaucusShortNameFr>Groupe des sénateurs indépendants</CaucusShortNameFr>
+          <CaucusShortName>Independent Senators Group</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>13</MeetingNumber>
+          <SpeechDateTime>2021-12-16T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/441/debates/013db_2021-12-16-e#69</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/441/debates/013db_2021-12-16-f#69</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/441/debates/013db_2021-12-16-e#69</Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2021-12-16T20:10:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>13</Number>
+          <Date>2021-12-16T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2021-12-16T20:10:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>Bill passed by the Senate without amendment</AdditionalInformationEn>
+          <AdditionalInformationFr>Projet de loi adopté par le Sénat sans amendement</AdditionalInformationFr>
+          <AdditionalInformation>Bill passed by the Senate without amendment</AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2021-12-16T20:10:00</EventStartDateTime>
+          <EventEndDateTime>2021-12-16T20:10:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2021-12-16T20:10:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <RoyalAssent>
+        <BillStageId>60050</BillStageId>
+        <BillStageNameEn>Royal assent</BillStageNameEn>
+        <BillStageNameFr>Sanction royale</BillStageNameFr>
+        <BillStageName>Royal assent</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>0</State>
+        <StateNameEn />
+        <StateNameFr />
+        <StateAsOfDate />
+        <StateName />
+        <Committee />
+        <Sittings>
+          <NameEn>Royal assent</NameEn>
+          <NameFr>Sanction royale</NameFr>
+          <Name>Royal assent</Name>
+          <Number>14</Number>
+          <Date>2021-12-17T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60149</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Royal assent</EventNameEn>
+          <EventNameFr>Sanction royale</EventNameFr>
+          <EventName>Royal assent</EventName>
+          <EventDateTime>2021-12-17T15:24:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60149</EventTypeId>
+          <EventTypeNameEn>Royal assent</EventTypeNameEn>
+          <EventTypeNameFr>Sanction royale</EventTypeNameFr>
+          <EventTypeName>Royal assent</EventTypeName>
+          <EventStartDateTime>2021-12-17T15:24:00</EventStartDateTime>
+          <EventEndDateTime>2021-12-17T15:24:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2021-12-17T15:24:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </RoyalAssent>
+    </BillStages>
+    <Publications>
+      <PublicationId>11474789</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>11499911</PublicationId>
+      <PublicationTypeId>80702</PublicationTypeId>
+      <PublicationTypeNameEn>As amended by committee</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel que modifié par le comité</PublicationTypeNameFr>
+      <PublicationTypeName>As amended by committee</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>11508987</PublicationId>
+      <PublicationTypeId>80703</PublicationTypeId>
+      <PublicationTypeNameEn>As passed by the House of Commons</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel qu'adopté par la Chambre des communes</PublicationTypeNameFr>
+      <PublicationTypeName>As passed by the House of Commons</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>11512864</PublicationId>
+      <PublicationTypeId>80704</PublicationTypeId>
+      <PublicationTypeNameEn>Royal Assent</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Royal Assent</PublicationTypeNameFr>
+      <PublicationTypeName>Royal Assent</PublicationTypeName>
+    </Publications>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>5</DivisionNumber>
+      <DivisionSubjectEn>2nd reading of Bill C-2, An Act to provide further support in response to COVID-19</DivisionSubjectEn>
+      <DivisionSubjectFr>2e lecture du projet de loi C-2, Loi visant à fournir un soutien supplémentaire en réponse à la COVID-19</DivisionSubjectFr>
+      <DivisionSubject>2nd reading of Bill C-2, An Act to provide further support in response to COVID-19</DivisionSubject>
+      <DivisionVotesYeas>183</DivisionVotesYeas>
+      <DivisionVotesNays>129</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>312</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2021-12-02T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>18</DivisionNumber>
+      <DivisionSubjectEn>3rd reading and adoption of Bill C-2, An Act to provide further support in response to COVID-19</DivisionSubjectEn>
+      <DivisionSubjectFr>3e lecture et adoption du projet de loi C-2, Loi visant à fournir un soutien supplémentaire en réponse à la COVID-19</DivisionSubjectFr>
+      <DivisionSubject>3rd reading and adoption of Bill C-2, An Act to provide further support in response to COVID-19</DivisionSubject>
+      <DivisionVotesYeas>191</DivisionVotesYeas>
+      <DivisionVotesNays>142</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>333</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2021-12-16T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>COVID-19 Subsidies – Explanatory Notes Relating to the Income Tax Act and Income Tax Regulations (2022-01-14 | Department of Finance)</TitleEn>
+      <TitleFr>Subventions COVID-19 – Notes explicatives relatives à la Loi de l'impôt sur le revenu et le Règlement de l'impôt sur le revenu (2022-01-14 | Department of Finance)</TitleFr>
+      <Title>COVID-19 Subsidies – Explanatory Notes Relating to the Income Tax Act and Income Tax Regulations (2022-01-14 | Department of Finance)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/department-finance/news/2021/12/covid-19-subsidies--explanatory-notes-relating-to-the-income-tax-act-and-income-tax-regulations.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/ministere-finances/nouvelles/2021/12/subventions-covid-19-notes-explicatives-relatives-a-la-loi-de-limpot-sur-le-revenu-et-le-reglement-de-limpot-sur-le-revenu.html</UrlFr>
+      <Url>https://www.canada.ca/en/department-finance/news/2021/12/covid-19-subsidies--explanatory-notes-relating-to-the-income-tax-act-and-income-tax-regulations.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Canada Recovery Hiring Program (CRHP) as extended by Bill C-2 (2022-01-31)</TitleEn>
+      <TitleFr>Programme d'embauche pour la relance économique du Canada (PEREC), tel qu'il a été prolongé par le projet de loi C-2 (2022-01-31)</TitleFr>
+      <Title>Canada Recovery Hiring Program (CRHP) as extended by Bill C-2 (2022-01-31)</Title>
+      <WebReferenceTypeId>13</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Legislative Costing Note</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Note sur l'évaluation du coût d'une mesure législative</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Legislative Costing Note</WebReferenceTypeName>
+      <UrlEn>https://www.pbo-dpb.gc.ca/en/blog/legislative-costing-notes--notes-evaluation-cout-mesure-legislative/LEG-2122-029-S--canada-recovery-hiring-program-crhp-as-extended-bill-c-2--programme-embauche-relance-economique-canada-perec-tel-qu-il-ete-prolonge-projet-loi-c-2</UrlEn>
+      <UrlFr>https://www.pbo-dpb.gc.ca/fr/blog/legislative-costing-notes--notes-evaluation-cout-mesure-legislative/LEG-2122-029-S--canada-recovery-hiring-program-crhp-as-extended-bill-c-2--programme-embauche-relance-economique-canada-perec-tel-qu-il-ete-prolonge-projet-loi-c-2</UrlFr>
+      <Url>https://www.pbo-dpb.gc.ca/en/blog/legislative-costing-notes--notes-evaluation-cout-mesure-legislative/LEG-2122-029-S--canada-recovery-hiring-program-crhp-as-extended-bill-c-2--programme-embauche-relance-economique-canada-perec-tel-qu-il-ete-prolonge-projet-loi-c-2</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>PwC. In brief, Tax Insights: CEWS update - Audits, more clawbacks and expanding lockdown support, December 22, 2021.</TitleEn>
+      <TitleFr>PwC. En bref, Point de vue fiscal : Le point sur la SSUC - vérifications, davantage de récupérations et élargissement du soutien en cas de confinement, 22 décembre, 2021.</TitleFr>
+      <Title>PwC. In brief, Tax Insights: CEWS update - Audits, more clawbacks and expanding lockdown support, December 22, 2021.</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.pwc.com/ca/en/services/tax/publications/tax-insights/cews-update-audits-clawbacks-expanding-lockdown-support-2021.html?WT.mc_id=CT1-PL53-DM2-TR4-LS40-ND30-TTA1-CN_CA22TXMK--STPINTSITE</UrlEn>
+      <UrlFr>https://www.pwc.com/ca/fr/services/tax/publications/tax-insights/cews-update-audits-clawbacks-expanding-lockdown-support-2021.html</UrlFr>
+      <Url>https://www.pwc.com/ca/en/services/tax/publications/tax-insights/cews-update-audits-clawbacks-expanding-lockdown-support-2021.html?WT.mc_id=CT1-PL53-DM2-TR4-LS40-ND30-TTA1-CN_CA22TXMK--STPINTSITE</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Ernst &amp; Young Canada, Bill C-2 receives Royal Assent, 23 December 2021.</TitleEn>
+      <TitleFr>Ernst &amp; Young Canada, Sanction du projet de loi C-2, 23 décembre 2021.</TitleFr>
+      <Title>Ernst &amp; Young Canada, Bill C-2 receives Royal Assent, 23 December 2021.</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.ey.com/en_ca/tax/tax-alerts/2021/tax-alert-2021-no-37</UrlEn>
+      <UrlFr>https://www.ey.com/fr_ca/tax/tax-alerts/2021/tax-alert-2021-no-37</UrlFr>
+      <Url>https://www.ey.com/en_ca/tax/tax-alerts/2021/tax-alert-2021-no-37</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Temporarily Expanding Eligibility for the Local Lockdown Program and the Canada Worker Lockdown Benefit (2021-12-22 | Department of Finance)</TitleEn>
+      <TitleFr>Élargissement temporaire de  l'admissibilité au Programme de soutien en cas de confinement local et à la  Prestation pour les travailleurs en cas de confinement (2021-12-22 | Ministère des Finances)</TitleFr>
+      <Title>Temporarily Expanding Eligibility for the Local Lockdown Program and the Canada Worker Lockdown Benefit (2021-12-22 | Department of Finance)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/department-finance/news/2021/12/temporarily-expanding-eligibility-for-the-local-lockdown-program-and-the-canada-worker-lockdown-benefit.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/ministere-finances/nouvelles/2021/12/elargissement-temporaire-de-ladmissibilite-au-programme-de-soutien-en-cas-de-confinement-local-et-a-la-prestation-pour-les-travailleurs-en-cas-de-c.html</UrlFr>
+      <Url>https://www.canada.ca/en/department-finance/news/2021/12/temporarily-expanding-eligibility-for-the-local-lockdown-program-and-the-canada-worker-lockdown-benefit.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Legislation to create jobs and implement targeted COVID-19 support receives Royal Assent (2021-12-17 | Department of Finance)</TitleEn>
+      <TitleFr>Le projet de loi pour créer des emplois et mettre en œuvre des mesures de soutien ciblées pour faire face à la COVID-19 reçoit la sanction royale (2021-12-17 | Ministère des Finances)</TitleFr>
+      <Title>Legislation to create jobs and implement targeted COVID-19 support receives Royal Assent (2021-12-17 | Department of Finance)</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/department-finance/news/2021/12/legislation-to-create-jobs-and-implement-targeted-covid-19-support-receives-royal-assent.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/ministere-finances/nouvelles/2021/12/le-projet-de-loi-pour-creer-des-emplois-et-mettre-en-uvre-des-mesures-de-soutien-ciblees-pour-faire-face-a-la-covid-19-recoit-la-sanction-royale.html</UrlFr>
+      <Url>https://www.canada.ca/en/department-finance/news/2021/12/legislation-to-create-jobs-and-implement-targeted-covid-19-support-receives-royal-assent.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Canada Worker Lockdown Benefit (2021-12-30 | Canada Revenue Agency)</TitleEn>
+      <TitleFr>Prestation canadienne pour les travailleurs en cas de confinement (2021-12-30 | Agence du revenu du Canada)</TitleFr>
+      <Title>Canada Worker Lockdown Benefit (2021-12-30 | Canada Revenue Agency)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/revenue-agency/news/2021/12/canada-worker-lockdown-benefit.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/agence-revenu/nouvelles/2021/12/prestation-canadienne-pour-les-travailleurs-en-cas-de-confinement.html</UrlFr>
+      <Url>https://www.canada.ca/en/revenue-agency/news/2021/12/canada-worker-lockdown-benefit.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Temporarily Expanding Eligibility for the Local Lockdown Program (2022-02-16)</TitleEn>
+      <TitleFr>Élargissement temporaire de l'admissibilité au Programme de soutien en cas de confinement local (2022-02-16)</TitleFr>
+      <Title>Temporarily Expanding Eligibility for the Local Lockdown Program (2022-02-16)</Title>
+      <WebReferenceTypeId>13</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Legislative Costing Note</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Note sur l'évaluation du coût d'une mesure législative</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Legislative Costing Note</WebReferenceTypeName>
+      <UrlEn>https://www.pbo-dpb.ca/en/publications/LEG-2122-031-S--temporarily-expanding-eligibility-local-lockdown-program--elargissement-temporaire-admissibilite-programme-soutien-cas-confinement-local</UrlEn>
+      <UrlFr>https://www.pbo-dpb.ca/fr/publications/LEG-2122-031-S--temporarily-expanding-eligibility-local-lockdown-program--elargissement-temporaire-admissibilite-programme-soutien-cas-confinement-local</UrlFr>
+      <Url>https://www.pbo-dpb.ca/en/publications/LEG-2122-031-S--temporarily-expanding-eligibility-local-lockdown-program--elargissement-temporaire-admissibilite-programme-soutien-cas-confinement-local</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Canada Worker Lockdown Benefit (CWLB) under Expanded Eligibility (2022-02-16)</TitleEn>
+      <TitleFr>Loi sur la prestation canadienne pour les travailleurs en cas de confinement (2022-02-16)</TitleFr>
+      <Title>Canada Worker Lockdown Benefit (CWLB) under Expanded Eligibility (2022-02-16)</Title>
+      <WebReferenceTypeId>13</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Legislative Costing Note</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Note sur l'évaluation du coût d'une mesure législative</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Legislative Costing Note</WebReferenceTypeName>
+      <UrlEn>https://www.pbo-dpb.gc.ca/en/blog/legislative-costing-notes--notes-evaluation-cout-mesure-legislative/LEG-2122-032-S--canada-worker-lockdown-benefit-cwlb-under-expanded-eligibility--loi-prestation-canadienne-travailleurs-cas-confinement</UrlEn>
+      <UrlFr>https://www.pbo-dpb.gc.ca/fr/blog/legislative-costing-notes--notes-evaluation-cout-mesure-legislative/LEG-2122-032-S--canada-worker-lockdown-benefit-cwlb-under-expanded-eligibility--loi-prestation-canadienne-travailleurs-cas-confinement</UrlFr>
+      <Url>https://www.pbo-dpb.gc.ca/en/blog/legislative-costing-notes--notes-evaluation-cout-mesure-legislative/LEG-2122-032-S--canada-worker-lockdown-benefit-cwlb-under-expanded-eligibility--loi-prestation-canadienne-travailleurs-cas-confinement</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Government introduces legislation to create jobs and implement targeted COVID-19 support (2021-11-24 | Department of Finance)</TitleEn>
+      <TitleFr>Le gouvernement dépose un projet de loi pour créer des emplois et mettre en œuvre des mesures de soutien ciblées pour faire face à la COVID-19 (2021-11-24 | Ministère des Finances)</TitleFr>
+      <Title>Government introduces legislation to create jobs and implement targeted COVID-19 support (2021-11-24 | Department of Finance)</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/department-finance/news/2021/11/government-introduces-legislation-to-create-jobs-and-implement-targeted-covid-19-support.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/ministere-finances/nouvelles/2021/11/le-gouvernement-depose-projet-loi-creer-emplois-mettre-oeuvre-mesures-soutien-ciblees-pour-faire-face-a-la-covid.html</UrlFr>
+      <Url>https://www.canada.ca/en/department-finance/news/2021/11/government-introduces-legislation-to-create-jobs-and-implement-targeted-covid-19-support.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Types of Business Eligible for the Tourism and Hospitality Recovery Program (2021-11-24 | Department of Finance)</TitleEn>
+      <TitleFr>Types d'entreprises admissibles au Programme de relance pour le tourisme et l'accueil (2021-11-24 | Ministère des Finances)</TitleFr>
+      <Title>Types of Business Eligible for the Tourism and Hospitality Recovery Program (2021-11-24 | Department of Finance)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/department-finance/news/2021/11/types-of-business-eligible-for-the-tourism-and-hospitality-recovery-program.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/ministere-finances/nouvelles/2021/11/types-dentreprises-admissibles-au-programme-de-relance-pour-le-tourisme-et-laccueil.html</UrlFr>
+      <Url>https://www.canada.ca/en/department-finance/news/2021/11/types-of-business-eligible-for-the-tourism-and-hospitality-recovery-program.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Canada Recovery Sickness Benefit (CRSB) (Government of Canada)</TitleEn>
+      <TitleFr>Prestation canadienne de maladie pour la relance économique (PCMRE) (Gouvernement du Canada)</TitleFr>
+      <Title>Canada Recovery Sickness Benefit (CRSB) (Government of Canada)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/revenue-agency/services/benefits/recovery-sickness-benefit.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/agence-revenu/services/prestations/prestation-maladie-relance-economique.html</UrlFr>
+      <Url>https://www.canada.ca/en/revenue-agency/services/benefits/recovery-sickness-benefit.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Canada Recovery Caregiving Benefit (CRCB) (Government of Canada)</TitleEn>
+      <TitleFr>Prestation canadienne de la relance économique pour proches aidants (PCREPA) (Gouvernement du Canada)</TitleFr>
+      <Title>Canada Recovery Caregiving Benefit (CRCB) (Government of Canada)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/revenue-agency/services/benefits/recovery-caregiving-benefit.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/agence-revenu/services/prestations/prestation-relance-economique-proches-aidants.html</UrlFr>
+      <Url>https://www.canada.ca/en/revenue-agency/services/benefits/recovery-caregiving-benefit.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Canada Emergency Wage Subsidy (CEWS) - as extended by Order in Council 2021-0882 &amp; as further extended by Bill C-2 (2021-12-09)</TitleEn>
+      <TitleFr>Subvention salariale d'urgence du Canada (SSUC) – telle que prolongée par le décret no 2021-0882 puis par le projet de loi C-2 (2021-12-09)</TitleFr>
+      <Title>Canada Emergency Wage Subsidy (CEWS) - as extended by Order in Council 2021-0882 &amp; as further extended by Bill C-2 (2021-12-09)</Title>
+      <WebReferenceTypeId>13</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Legislative Costing Note</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Note sur l'évaluation du coût d'une mesure législative</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Legislative Costing Note</WebReferenceTypeName>
+      <UrlEn>https://www.pbo-dpb.gc.ca/en/blog/legislative-costing-notes--notes-evaluation-cout-mesure-legislative/LEG-2122-025-S--canada-emergency-wage-subsidy-cews-as-extended-order-in-council-2021-0882-as-further-extended-bill-c--subvention-salariale-urgence-canada-ssuc-telle-que-prolongee-decret-no-2021-0882-puis-projet-loi-c-2</UrlEn>
+      <UrlFr>https://www.pbo-dpb.gc.ca/fr/blog/legislative-costing-notes--notes-evaluation-cout-mesure-legislative/LEG-2122-025-S--canada-emergency-wage-subsidy-cews-as-extended-order-in-council-2021-0882-as-further-extended-bill-c--subvention-salariale-urgence-canada-ssuc-telle-que-prolongee-decret-no-2021-0882-puis-projet-loi-c-2</UrlFr>
+      <Url>https://www.pbo-dpb.gc.ca/en/blog/legislative-costing-notes--notes-evaluation-cout-mesure-legislative/LEG-2122-025-S--canada-emergency-wage-subsidy-cews-as-extended-order-in-council-2021-0882-as-further-extended-bill-c--subvention-salariale-urgence-canada-ssuc-telle-que-prolongee-decret-no-2021-0882-puis-projet-loi-c-2</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Canada Recovery Sickness Benefit (CRSB) – 28 Week Extension (2021-11-30)</TitleEn>
+      <TitleFr>Prestation canadienne de maladie pour la relance économique (PCMRE) – prolongation de 28 semaines (2021-11-30)</TitleFr>
+      <Title>Canada Recovery Sickness Benefit (CRSB) – 28 Week Extension (2021-11-30)</Title>
+      <WebReferenceTypeId>13</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Legislative Costing Note</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Note sur l'évaluation du coût d'une mesure législative</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Legislative Costing Note</WebReferenceTypeName>
+      <UrlEn>https://www.pbo-dpb.ca/en/publications/LEG-2122-022-S--canada-recovery-sickness-benefit-crsb-28-week-extension--prestation-canadienne-maladie-relance-economique-pcmre-prolongation-28-semaines</UrlEn>
+      <UrlFr>https://www.pbo-dpb.ca/fr/publications/LEG-2122-022-S--canada-recovery-sickness-benefit-crsb-28-week-extension--prestation-canadienne-maladie-relance-economique-pcmre-prolongation-28-semaines</UrlFr>
+      <Url>https://www.pbo-dpb.ca/en/publications/LEG-2122-022-S--canada-recovery-sickness-benefit-crsb-28-week-extension--prestation-canadienne-maladie-relance-economique-pcmre-prolongation-28-semaines</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Canada Emergency Rent Subsidy (CERS) – as extended by Order in Council 2021-0882 &amp; as further extended by Bill C-2 (2021-11-30)</TitleEn>
+      <TitleFr>Subvention d'urgence du Canada pour le loyer (SUCL) – telle que prolongée par le décret no 2021-0882 &amp; telle que prolongée par projet de loi C-2 2021-11-30)</TitleFr>
+      <Title>Canada Emergency Rent Subsidy (CERS) – as extended by Order in Council 2021-0882 &amp; as further extended by Bill C-2 (2021-11-30)</Title>
+      <WebReferenceTypeId>13</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Legislative Costing Note</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Note sur l'évaluation du coût d'une mesure législative</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Legislative Costing Note</WebReferenceTypeName>
+      <UrlEn>https://www.pbo-dpb.gc.ca/en/blog/legislative-costing-notes--notes-evaluation-cout-mesure-legislative/LEG-2122-023-S--canada-emergency-rent-subsidy-cers-as-extended-order-in-council-2021-0882-as-further-extended-bill-c--subvention-urgence-canada-loyer-sucl-telle-que-prolongee-decret-no-2021-0882-telle-que-prolongee-pro</UrlEn>
+      <UrlFr>https://www.pbo-dpb.gc.ca/fr/blog/legislative-costing-notes--notes-evaluation-cout-mesure-legislative/LEG-2122-023-S--canada-emergency-rent-subsidy-cers-as-extended-order-in-council-2021-0882-as-further-extended-bill-c--subvention-urgence-canada-loyer-sucl-telle-que-prolongee-decret-no-2021-0882-telle-que-prolongee-pro</UrlFr>
+      <Url>https://www.pbo-dpb.gc.ca/en/blog/legislative-costing-notes--notes-evaluation-cout-mesure-legislative/LEG-2122-023-S--canada-emergency-rent-subsidy-cers-as-extended-order-in-council-2021-0882-as-further-extended-bill-c--subvention-urgence-canada-loyer-sucl-telle-que-prolongee-decret-no-2021-0882-telle-que-prolongee-pro</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Charter Statement - Bill C-2: An Act to provide further support in response to COVID-19 (Tabled on 2021-12-06)</TitleEn>
+      <TitleFr>Énoncé concernant la Charte - Projet de loi C-2 : Loi visant à fournir un soutien supplémentaire en réponse à la COVID-19 (Dépsoé le 2021-12-06)</TitleFr>
+      <Title>Charter Statement - Bill C-2: An Act to provide further support in response to COVID-19 (Tabled on 2021-12-06)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.justice.gc.ca/eng/csj-sjc/pl/charter-charte/c2_1.html</UrlEn>
+      <UrlFr>https://www.justice.gc.ca/fra/sjc-csj/pl/charte-charter/c2_1.html</UrlFr>
+      <Url>https://www.justice.gc.ca/eng/csj-sjc/pl/charter-charte/c2_1.html</Url>
+    </WebReferences>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
