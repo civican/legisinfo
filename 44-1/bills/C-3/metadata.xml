@@ -1,0 +1,1332 @@
+<Bills>
+  <Bill>
+    <Id>11474302</Id>
+    <NumberCode>C-3</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>3</Number>
+    <LongTitleEn>An Act to amend the Criminal Code and the Canada Labour Code</LongTitleEn>
+    <LongTitleFr>Loi modifiant le Code criminel et le Code canadien du travail</LongTitleFr>
+    <LongTitle>An Act to amend the Criminal Code and the Canada Labour Code</LongTitle>
+    <ShortTitleEn>
+    </ShortTitleEn>
+    <ShortTitleFr>
+    </ShortTitleFr>
+    <ShortTitle>
+    </ShortTitle>
+    <StatusId>357</StatusId>
+    <StatusNameEn>Royal assent received</StatusNameEn>
+    <StatusNameFr>Sanction royale reçue</StatusNameFr>
+    <StatusName>Royal assent received</StatusName>
+    <LatestCompletedMajorStageId>60046</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>Royal assent</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Sanction royale</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>Royal assent</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>Royal assent</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>2</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>Senate</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Sénat</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>Senate</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60050</OngoingStageId>
+    <OngoingStageNameEn>Royal assent</OngoingStageNameEn>
+    <OngoingStageNameFr>Sanction royale</OngoingStageNameFr>
+    <OngoingStageName>Royal assent</OngoingStageName>
+    <LatestCompletedBillStageId>60050</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Royal assent</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Sanction royale</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Royal assent</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>2</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>Senate</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Sénat</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>Senate</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2021-12-17T15:24:00</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>44</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>88299</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Seamus</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>O'Regan</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Seamus O'Regan</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Labour</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre du Travail</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Labour</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>4</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Minister</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>ministre</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Minister</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>611</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>St. John's South—Mount Pearl</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>St. John's-Sud—Mount Pearl</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>St. John's South—Mount Pearl</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60149</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Royal assent</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Sanction royale</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60050</LatestBillEventStageId>
+    <LatestBillEventTypeName>Royal assent</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2021-12-17T10:00:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>2</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>Senate</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Sénat</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>Senate</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>14</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2021-11-26T12:21:20.25</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime>2021-12-09T15:15:00</PassedHouseSecondReadingDateTime>
+    <PassedHouseThirdReadingDateTime>2021-12-16T16:26:57</PassedHouseThirdReadingDateTime>
+    <PassedSenateFirstReadingDateTime>2021-12-16T20:10:00</PassedSenateFirstReadingDateTime>
+    <PassedSenateSecondReadingDateTime>2021-12-17T11:54:00</PassedSenateSecondReadingDateTime>
+    <PassedSenateThirdReadingDateTime>2021-12-17T15:00:00</PassedSenateThirdReadingDateTime>
+    <ReceivedRoyalAssentDateTime>2021-12-17T15:24:00</ReceivedRoyalAssentDateTime>
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>true</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>true</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>true</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>true</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>true</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>&lt;div&gt;On December 2, 2021, the following motion was adopted by the Senate:&lt;p&gt;&lt;/p&gt;That, notwithstanding any provision of the Rules, previous order or usual practice:
+
+&lt;p&gt;&lt;/p&gt;1. in accordance with rule 10-11(1), the &lt;a href="https://sencanada.ca/en/committees/soci/studiesandbills/44-1"&gt;Standing Senate Committee on Social Affairs, Science and Technology&lt;/a&gt; be authorized to examine the subject matter of all of Bill C-3, An Act to amend the Criminal Code and the Canada Labour Code, introduced in the House of Commons on November 26, 2021, in advance of the said bill coming before the Senate, when and if the committee is formed;
+
+&lt;p&gt;&lt;/p&gt;2. in addition, the &lt;a href="https://sencanada.ca/en/committees/lcjc/studiesandbills/44-1"&gt;Standing Senate Committee on Legal and Constitutional Affaires&lt;/a&gt; be separately authorized to examine the subject matter of clauses 1 to 5 contained in Bill C-3 in advance of it coming before the Senate, when and if the committee is formed;
+
+&lt;p&gt;&lt;/p&gt;3. for the purpose of their studies, the aforementioned committees have the power to meet, even though the Senate may then be sitting or adjourned, with rules 12-18(1) and 12-18(2) being suspended in relation thereto;
+
+&lt;p&gt;&lt;/p&gt;4. subject to the following paragraph, as the reports from the committees authorized to examine the subject matter of all or of particular elements of Bill C-3 are tabled in the Senate, they be placed on the Orders of the Day for consideration later that day; and
+
+&lt;p&gt;&lt;/p&gt;5. each of the committees authorized to examine the subject matter of all or of particular elements of Bill C-3 be authorized to deposit its report with the Clerk of the Senate if the Senate is not then sitting, with the reports thus deposited being placed on the Orders of the Day for consideration at the next sitting after they are tabled.&lt;/div&gt;</NotesEn>
+    <NotesFr>&lt;div&gt;&lt;p&gt;Le 2 décembre 2021, la motion suivante a été adoptée par le Sénat :&lt;/p&gt;Que, nonobstant toute disposition du Règlement, tout ordre antérieur ou toute pratique habituelle :&lt;p&gt;&lt;/p&gt;
+
+1. conformément à l'article 10-11(1) du Règlement, le   &lt;a href="https://sencanada.ca/fr/comites/soci/etudesetprojetsdeloi/44-1"&gt;Comité sénatorial permanent des affaires sociales, des sciences et de la technologie&lt;/a&gt; soit autorisé à étudier la teneur complète du projet de loi C-3, Loi modifiant le Code criminel et le Code canadien du travail, déposé à la Chambre des communes le 26 novembre 2021, avant que ce projet de loi soit soumis au Sénat, dès que le comité sera formé, le cas échéant;
+
+&lt;p&gt;&lt;/p&gt;2. de plus, le &lt;a href="https://sencanada.ca/fr/comites/lcjc/etudesetprojetsdeloi/44-1"&gt;Comité sénatorial permanent des affaires juridiques et constitutionnelles&lt;/a&gt; soit séparément autorisé à examiner la teneur des articles 1 à 5 du projet de loi C-3 avant qu'il soit présenté au Sénat, dès que le comité sera formé, le cas échéant;
+
+&lt;p&gt;&lt;/p&gt;3. aux fins de cette étude, les comités susmentionnés soient autorisés à se réunir, même si le Sénat siège à ce moment-là ou est ajourné, l'application des articles 12-18(1) et 12-18(2) du Règlement étant suspendue à cet égard;
+
+&lt;p&gt;&lt;/p&gt;4. sous réserve du prochain paragraphe, au fur et à mesure que les rapports des comités autorisés à examiner la teneur complète ou d'éléments particuliers du projet de loi C-3 sont déposés au Sénat, ils soient inscrits à l'ordre du jour pour étude plus tard ce jour-là;
+
+&lt;p&gt;&lt;/p&gt;5. chacun des comités autorisés à examiner la teneur complète ou d'éléments particuliers du projet de loi C-3 soit autorisé à déposer son rapport auprès du greffier du Sénat si le Sénat ne siège pas à ce moment-là, tout rapport ainsi déposé étant inscrit à l'ordre du jour de la séance qui suit le dépôt.&lt;/div&gt;</NotesFr>
+    <Notes>&lt;div&gt;On December 2, 2021, the following motion was adopted by the Senate:&lt;p&gt;&lt;/p&gt;That, notwithstanding any provision of the Rules, previous order or usual practice:
+
+&lt;p&gt;&lt;/p&gt;1. in accordance with rule 10-11(1), the &lt;a href="https://sencanada.ca/en/committees/soci/studiesandbills/44-1"&gt;Standing Senate Committee on Social Affairs, Science and Technology&lt;/a&gt; be authorized to examine the subject matter of all of Bill C-3, An Act to amend the Criminal Code and the Canada Labour Code, introduced in the House of Commons on November 26, 2021, in advance of the said bill coming before the Senate, when and if the committee is formed;
+
+&lt;p&gt;&lt;/p&gt;2. in addition, the &lt;a href="https://sencanada.ca/en/committees/lcjc/studiesandbills/44-1"&gt;Standing Senate Committee on Legal and Constitutional Affaires&lt;/a&gt; be separately authorized to examine the subject matter of clauses 1 to 5 contained in Bill C-3 in advance of it coming before the Senate, when and if the committee is formed;
+
+&lt;p&gt;&lt;/p&gt;3. for the purpose of their studies, the aforementioned committees have the power to meet, even though the Senate may then be sitting or adjourned, with rules 12-18(1) and 12-18(2) being suspended in relation thereto;
+
+&lt;p&gt;&lt;/p&gt;4. subject to the following paragraph, as the reports from the committees authorized to examine the subject matter of all or of particular elements of Bill C-3 are tabled in the Senate, they be placed on the Orders of the Day for consideration later that day; and
+
+&lt;p&gt;&lt;/p&gt;5. each of the committees authorized to examine the subject matter of all or of particular elements of Bill C-3 be authorized to deposit its report with the Clerk of the Senate if the Senate is not then sitting, with the reports thus deposited being placed on the Orders of the Day for consideration at the next sitting after they are tabled.&lt;/div&gt;</Notes>
+    <ShortLegislativeSummaryEn>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information and Research Service of the Library of Parliament. Meanwhile, the following executive summary is available.&lt;br/&gt;&lt;br/&gt;On 26 November 2021, the Minister of Labour introduced Bill C-3, An Act to amend the Criminal Code and the Canada Labour Code in the House of Commons and it was given first reading.   &lt;br/&gt;&lt;br/&gt;Bill C-3 amends the Criminal Code to, among other things,&lt;br/&gt;(a) create an offence of intimidating a person in order to impede them from obtaining health services, intimidating a health professional in order to impede them in the performance of their duties or intimidating a person who assists a health professional in order to impede the person in providing that assistance;&lt;br/&gt;(b) create an offence of obstructing or interfering with a person's lawful access to a place at which health services are provided, subject to a defence of attending at the place for the purpose only of obtaining or communicating information; and&lt;br/&gt;(c) add the commission of an offence against a person who was providing health services and the commission of an offence that had the effect of impeding another person from obtaining health services as aggravating sentencing factors for any offence.&lt;br/&gt;It also amends the Canada Labour Code to, among other things,&lt;br/&gt;(a) repeal the personal leave that an employee may take to treat their illness or injury;&lt;br/&gt;(b) provide that an employee may earn and take up to 10 days of medical leave of absence with pay in a calendar year; and&lt;br/&gt;(c) authorize the Governor in Council to make regulations to modify, in certain circumstances, the provisions respecting medical leave of absence with pay.&lt;/div&gt;</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>&lt;div&gt;Le Service d'information et de recherche parlementaires de la Bibliothèque du Parlement rédige actuellement le résumé législatif de ce projet de loi.  Entre-temps, le Service met à votre disposition le sommaire suivant.  &lt;br/&gt;&lt;br/&gt;Le 26 novembre 2021, le Ministre du Travail a déposé le projet de loi C-3, Loi modifiant le Code criminel et le Code canadien du travail à la Chambre des communes en première lecture. &lt;br/&gt;&lt;br/&gt;Le projet de loi C-3 modifie le Code criminel afin, notamment?:&lt;br/&gt;a) d'ériger en infraction le fait d'intimider une personne en vue de lui nuire dans l'obtention de services de santé, d'intimider un professionnel de la santé en vue de lui nuire dans l'exercice de ses attributions ou d'intimider une personne qui appuie un professionnel de la santé en vue de lui nuire dans la prestation de son appui;&lt;br/&gt;b) d'ériger en infraction le fait d'empêcher ou de gêner l'accès légitime par autrui à un endroit où des services de santé sont fournis et de prévoir à cet égard un moyen de défense pour les cas où une personne se trouve à cet endroit aux seules fins d'obtenir ou de communiquer des renseignements;&lt;br/&gt;c) de prévoir que le fait pour toute infraction d'avoir été perpétrée à l'encontre d'une personne qui fournissait des services de santé ou d'avoir eu pour effet de nuire à l'obtention par autrui de services de santé constitue des circonstances aggravantes lors de la détermination de la peine.&lt;br/&gt;Il modifie également le Code canadien du travail afin notamment?:&lt;br/&gt;a) d'abroger le congé personnel que l'employé peut prendre pour soigner sa maladie ou sa blessure;&lt;br/&gt;b) de prévoir que l'employé peut acquérir et prendre au plus dix jours de congé payé pour raisons médicales par année civile;&lt;br/&gt;c) de conférer au gouverneur en conseil le pouvoir de prendre des règlements pour adapter, dans certaines circonstances, les dispositions concernant le congé payé pour raisons médicales.&lt;/div&gt;</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information and Research Service of the Library of Parliament. Meanwhile, the following executive summary is available.&lt;br/&gt;&lt;br/&gt;On 26 November 2021, the Minister of Labour introduced Bill C-3, An Act to amend the Criminal Code and the Canada Labour Code in the House of Commons and it was given first reading.   &lt;br/&gt;&lt;br/&gt;Bill C-3 amends the Criminal Code to, among other things,&lt;br/&gt;(a) create an offence of intimidating a person in order to impede them from obtaining health services, intimidating a health professional in order to impede them in the performance of their duties or intimidating a person who assists a health professional in order to impede the person in providing that assistance;&lt;br/&gt;(b) create an offence of obstructing or interfering with a person's lawful access to a place at which health services are provided, subject to a defence of attending at the place for the purpose only of obtaining or communicating information; and&lt;br/&gt;(c) add the commission of an offence against a person who was providing health services and the commission of an offence that had the effect of impeding another person from obtaining health services as aggravating sentencing factors for any offence.&lt;br/&gt;It also amends the Canada Labour Code to, among other things,&lt;br/&gt;(a) repeal the personal leave that an employee may take to treat their illness or injury;&lt;br/&gt;(b) provide that an employee may earn and take up to 10 days of medical leave of absence with pay in a calendar year; and&lt;br/&gt;(c) authorize the Governor in Council to make regulations to modify, in certain circumstances, the provisions respecting medical leave of absence with pay.&lt;/div&gt;</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear>2021</StatuteYear>
+    <StatuteChapter>27</StatuteChapter>
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2021-11-26T12:21:20.25</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>5</Number>
+          <Date>2021-11-26T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2021-11-26T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2021-11-26T12:21:20.25</EventStartDateTime>
+          <EventEndDateTime>2021-11-26T12:21:20.25</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2021-11-26T12:21:20.25</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2021-12-09T15:15:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>27191</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des ressources humaines, du développement des compétences, du développement social et de la condition des personnes handicapées</CommitteeNameFr>
+          <CommitteeAcronym>HUMA</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities</CommitteeName>
+          <StudyActivityId>11454507</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>10</Number>
+          <Date>2021-12-03T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>11</Number>
+          <Date>2021-12-06T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>13</Number>
+          <Date>2021-12-08T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Second reading and referral to committee</NameEn>
+          <NameFr>Deuxième lecture et renvoi en comité</NameFr>
+          <Name>Second reading and referral to committee</Name>
+          <Number>14</Number>
+          <Date>2021-12-09T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>11452665</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>11477112</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>2nd reading and referral to committee - HUMA</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>2e lecture et renvoi en comité - HUMA</DecisionMotionTitleFr>
+          <DecisionMotionTitle>2nd reading and referral to committee - HUMA</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>10</DecisionMethodId>
+          <DecisionMethodNameEn>On recorded division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Suivant un vote par appel nominal</DecisionMethodNameFr>
+          <DecisionMethodName>On recorded division</DecisionMethodName>
+          <DivisionNumber>10</DivisionNumber>
+          <DivisionVotesYeas>332</DivisionVotesYeas>
+          <DivisionVotesNays>0</DivisionVotesNays>
+          <DivisionVotePaired>0</DivisionVotePaired>
+          <DecisionSittingDate>2021-12-09T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>14</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60121</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading and referral to committee</EventNameEn>
+          <EventNameFr>Deuxième lecture et renvoi en comité</EventNameFr>
+          <EventName>Second reading and referral to committee</EventName>
+          <EventDateTime>2021-12-09T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60121</EventTypeId>
+          <EventTypeNameEn>Second reading and referral to committee</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture et renvoi en comité</EventTypeNameFr>
+          <EventTypeName>Second reading and referral to committee</EventTypeName>
+          <EventStartDateTime>2021-12-09T15:15:00</EventStartDateTime>
+          <EventEndDateTime>2021-12-09T15:15:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2021-12-09T15:15:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>11439501</InterventionEventId>
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>88299</PersonId>
+          <PersonOfficialFirstName>Seamus</PersonOfficialFirstName>
+          <PersonOfficialLastName>O'Regan</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Seamus O'Regan</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>10</MeetingNumber>
+          <SpeechDateTime>2021-12-03T10:03:12</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>11439539</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>105340</PersonId>
+          <PersonOfficialFirstName>Scott</PersonOfficialFirstName>
+          <PersonOfficialLastName>Aitchison</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Scott Aitchison</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>10</MeetingNumber>
+          <SpeechDateTime>2021-12-03T10:26:53</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>11439592</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>104705</PersonId>
+          <PersonOfficialFirstName>Maxime</PersonOfficialFirstName>
+          <PersonOfficialLastName>Blanchette-Joncas</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Maxime Blanchette-Joncas</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Bloc Québécois</CaucusShortNameEn>
+          <CaucusShortNameFr>Bloc Québécois</CaucusShortNameFr>
+          <CaucusShortName>Bloc Québécois</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>10</MeetingNumber>
+          <SpeechDateTime>2021-12-03T10:56:57</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>11439939</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>58775</PersonId>
+          <PersonOfficialFirstName>Alexandre</PersonOfficialFirstName>
+          <PersonOfficialLastName>Boulerice</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Alexandre Boulerice</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>NDP</CaucusShortNameEn>
+          <CaucusShortNameFr>NPD</CaucusShortNameFr>
+          <CaucusShortName>NDP</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>10</MeetingNumber>
+          <SpeechDateTime>2021-12-03T12:38:05</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2021-12-15T15:47:20.507</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>27191</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des ressources humaines, du développement des compétences, du développement social et de la condition des personnes handicapées</CommitteeNameFr>
+          <CommitteeAcronym>HUMA</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities</CommitteeName>
+          <StudyActivityId>11454507</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented with amendments</NameEn>
+          <NameFr>Présentation du rapport de comité avec des amendements</NameFr>
+          <Name>Committee report presented with amendments</Name>
+          <Number>18</Number>
+          <Date>2021-12-15T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27191</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des ressources humaines, du développement des compétences, du développement social et de la condition des personnes handicapées</CommitteeNameFr>
+          <CommitteeAcronym>HUMA</CommitteeAcronym>
+          <Number>2</Number>
+          <Date>2021-12-14T00:00:00</Date>
+          <CommitteeName>Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27191</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des ressources humaines, du développement des compétences, du développement social et de la condition des personnes handicapées</CommitteeNameFr>
+          <CommitteeAcronym>HUMA</CommitteeAcronym>
+          <Number>3</Number>
+          <Date>2021-12-14T00:00:00</Date>
+          <CommitteeName>Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented with amendments</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité avec des amendements</EventNameFr>
+          <EventName>Committee report presented with amendments</EventName>
+          <EventDateTime>2021-12-15T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId>11501477</CommitteeReportId>
+          <CommitteeReportNumber>1</CommitteeReportNumber>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2021-12-15T15:47:20.507</EventStartDateTime>
+          <EventEndDateTime>2021-12-15T15:47:20.507</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2021-12-15T15:47:20.507</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2021-12-16T16:23:07.717</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>19</Number>
+          <Date>2021-12-16T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60285</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Concurrence at report stage</EventNameEn>
+          <EventNameFr>Adoption à l'étape du rapport</EventNameFr>
+          <EventName>Concurrence at report stage</EventName>
+          <EventDateTime>2021-12-16T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60285</EventTypeId>
+          <EventTypeNameEn>Concurrence at report stage</EventTypeNameEn>
+          <EventTypeNameFr>Adoption à l'étape du rapport</EventTypeNameFr>
+          <EventTypeName>Concurrence at report stage</EventTypeName>
+          <EventStartDateTime>2021-12-16T16:23:07.717</EventStartDateTime>
+          <EventEndDateTime>2021-12-16T16:23:07.717</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2021-12-16T16:23:07.717</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2021-12-16T16:26:57</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>19</Number>
+          <Date>2021-12-16T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>11468075</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>11477114</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>3rd reading</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>3e lecture</DecisionMotionTitleFr>
+          <DecisionMotionTitle>3rd reading</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId />
+          <DecisionMethodNameEn>
+          </DecisionMethodNameEn>
+          <DecisionMethodNameFr>
+          </DecisionMethodNameFr>
+          <DecisionMethodName>
+          </DecisionMethodName>
+          <DivisionNumber />
+          <DivisionVotesYeas />
+          <DivisionVotesNays />
+          <DivisionVotePaired />
+          <DecisionSittingDate>2021-12-16T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>19</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2021-12-16T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2021-12-16T16:26:57</EventStartDateTime>
+          <EventEndDateTime>2021-12-16T16:26:57</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2021-12-16T16:26:57</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60038</BillStageId>
+        <BillStageNameEn>Senate pre-study</BillStageNameEn>
+        <BillStageNameFr>Étude préalable au Sénat</BillStageNameFr>
+        <BillStageName>Senate pre-study</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2021-12-15T14:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16104</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires sociales, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>SOCI</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Pre-study of House bill</NameEn>
+          <NameFr>Étude préalable d'un projet de loi émanant de la Chambre des communes</NameFr>
+          <Name>Pre-study of House bill</Name>
+          <Number>7</Number>
+          <Date>2021-12-02T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Committee report on subject matter of bill tabled</NameEn>
+          <NameFr>Dépôt du rapport de comité sur l'objet du projet de loi</NameFr>
+          <Name>Committee report on subject matter of bill tabled</Name>
+          <Number>12</Number>
+          <Date>2021-12-15T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16104</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires sociales, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>SOCI</CommitteeAcronym>
+          <Number>2</Number>
+          <Date>2021-12-08T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16104</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires sociales, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>SOCI</CommitteeAcronym>
+          <Number>3</Number>
+          <Date>2021-12-13T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60109</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Pre-study of House bill</EventNameEn>
+          <EventNameFr>Étude préalable d'un projet de loi émanant de la Chambre des communes</EventNameFr>
+          <EventName>Pre-study of House bill</EventName>
+          <EventDateTime>2021-12-02T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>false</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <SignificantEvents>
+          <EventTypeId>60305</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report on subject matter of bill tabled</EventNameEn>
+          <EventNameFr>Dépôt du rapport de comité sur l'objet du projet de loi</EventNameFr>
+          <EventName>Committee report on subject matter of bill tabled</EventName>
+          <EventDateTime>2021-12-15T14:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60305</EventTypeId>
+          <EventTypeNameEn>Committee report on subject matter of bill tabled</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt du rapport de comité sur l'objet du projet de loi</EventTypeNameFr>
+          <EventTypeName>Committee report on subject matter of bill tabled</EventTypeName>
+          <EventStartDateTime>2021-12-15T14:00:00</EventStartDateTime>
+          <EventEndDateTime>2021-12-15T14:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2021-12-15T14:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2021-12-16T20:10:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>First reading</NameEn>
+          <NameFr>Première lecture</NameFr>
+          <Name>First reading</Name>
+          <Number>13</Number>
+          <Date>2021-12-16T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60111</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>First reading</EventNameEn>
+          <EventNameFr>Première lecture</EventNameFr>
+          <EventName>First reading</EventName>
+          <EventDateTime>2021-12-16T20:10:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60111</EventTypeId>
+          <EventTypeNameEn>First reading</EventTypeNameEn>
+          <EventTypeNameFr>Première lecture</EventTypeNameFr>
+          <EventTypeName>First reading</EventTypeName>
+          <EventStartDateTime>2021-12-16T20:10:00</EventStartDateTime>
+          <EventEndDateTime>2021-12-16T20:10:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2021-12-16T20:10:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2021-12-17T11:54:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>14</Number>
+          <Date>2021-12-17T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60120</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading</EventNameEn>
+          <EventNameFr>Deuxième lecture</EventNameFr>
+          <EventName>Second reading</EventName>
+          <EventDateTime>2021-12-17T11:54:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60120</EventTypeId>
+          <EventTypeNameEn>Second reading</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture</EventTypeNameFr>
+          <EventTypeName>Second reading</EventTypeName>
+          <EventStartDateTime>2021-12-17T11:54:00</EventStartDateTime>
+          <EventEndDateTime>2021-12-17T11:54:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2021-12-17T11:54:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>109822</PersonId>
+          <PersonOfficialFirstName>Hassan</PersonOfficialFirstName>
+          <PersonOfficialLastName>Yussuff</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Hassan Yussuff</PersonName>
+          <SenateSystemAffiliationId>225262</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Independent Senators Group</CaucusShortNameEn>
+          <CaucusShortNameFr>Groupe des sénateurs indépendants</CaucusShortNameFr>
+          <CaucusShortName>Independent Senators Group</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>14</MeetingNumber>
+          <SpeechDateTime>2021-12-17T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/441/debates/014db_2021-12-17-e#27</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/441/debates/014db_2021-12-17-f#27</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/441/debates/014db_2021-12-17-e#27</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>15222</PersonId>
+          <PersonOfficialFirstName>Scott</PersonOfficialFirstName>
+          <PersonOfficialLastName>Tannas</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Scott Tannas</PersonName>
+          <SenateSystemAffiliationId>3577</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Canadian Senators Group</CaucusShortNameEn>
+          <CaucusShortNameFr>Groupe des sénateurs canadiens</CaucusShortNameFr>
+          <CaucusShortName>Canadian Senators Group</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>14</MeetingNumber>
+          <SpeechDateTime>2021-12-17T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/441/debates/014db_2021-12-17-e#27</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/441/debates/014db_2021-12-17-f#27</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/441/debates/014db_2021-12-17-e#27</Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2021-12-17T15:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>14</Number>
+          <Date>2021-12-17T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2021-12-17T15:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>Bill passed by the Senate without amendment</AdditionalInformationEn>
+          <AdditionalInformationFr>Projet de loi adopté par le Sénat sans amendement</AdditionalInformationFr>
+          <AdditionalInformation>Bill passed by the Senate without amendment</AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2021-12-17T15:00:00</EventStartDateTime>
+          <EventEndDateTime>2021-12-17T15:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2021-12-17T15:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <RoyalAssent>
+        <BillStageId>60050</BillStageId>
+        <BillStageNameEn>Royal assent</BillStageNameEn>
+        <BillStageNameFr>Sanction royale</BillStageNameFr>
+        <BillStageName>Royal assent</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>0</State>
+        <StateNameEn />
+        <StateNameFr />
+        <StateAsOfDate />
+        <StateName />
+        <Committee />
+        <Sittings>
+          <NameEn>Royal assent</NameEn>
+          <NameFr>Sanction royale</NameFr>
+          <Name>Royal assent</Name>
+          <Number>14</Number>
+          <Date>2021-12-17T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60149</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Royal assent</EventNameEn>
+          <EventNameFr>Sanction royale</EventNameFr>
+          <EventName>Royal assent</EventName>
+          <EventDateTime>2021-12-17T15:24:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60149</EventTypeId>
+          <EventTypeNameEn>Royal assent</EventTypeNameEn>
+          <EventTypeNameFr>Sanction royale</EventTypeNameFr>
+          <EventTypeName>Royal assent</EventTypeName>
+          <EventStartDateTime>2021-12-17T15:24:00</EventStartDateTime>
+          <EventEndDateTime>2021-12-17T15:24:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2021-12-17T15:24:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </RoyalAssent>
+    </BillStages>
+    <Publications>
+      <PublicationId>11477390</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>11504108</PublicationId>
+      <PublicationTypeId>80702</PublicationTypeId>
+      <PublicationTypeNameEn>As amended by committee</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel que modifié par le comité</PublicationTypeNameFr>
+      <PublicationTypeName>As amended by committee</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>11509004</PublicationId>
+      <PublicationTypeId>80703</PublicationTypeId>
+      <PublicationTypeNameEn>As passed by the House of Commons</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel qu'adopté par la Chambre des communes</PublicationTypeNameFr>
+      <PublicationTypeName>As passed by the House of Commons</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>11512878</PublicationId>
+      <PublicationTypeId>80704</PublicationTypeId>
+      <PublicationTypeNameEn>Royal Assent</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Royal Assent</PublicationTypeNameFr>
+      <PublicationTypeName>Royal Assent</PublicationTypeName>
+    </Publications>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>9</DivisionNumber>
+      <DivisionSubjectEn>Time allocation for Bill C-3, An Act to amend the Criminal Code and the Canada Labour Code</DivisionSubjectEn>
+      <DivisionSubjectFr>Attribution de temps pour le projet de loi C-3, Loi modifiant le Code criminel et le Code canadien du travail</DivisionSubjectFr>
+      <DivisionSubject>Time allocation for Bill C-3, An Act to amend the Criminal Code and the Canada Labour Code</DivisionSubject>
+      <DivisionVotesYeas>180</DivisionVotesYeas>
+      <DivisionVotesNays>145</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>325</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2021-12-08T14:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>10</DivisionNumber>
+      <DivisionSubjectEn>2nd reading of Bill C-3, An Act to amend the Criminal Code and the Canada Labour Code</DivisionSubjectEn>
+      <DivisionSubjectFr>2e lecture du projet de loi C-3, Loi modifiant le Code criminel et le Code canadien du travail</DivisionSubjectFr>
+      <DivisionSubject>2nd reading of Bill C-3, An Act to amend the Criminal Code and the Canada Labour Code</DivisionSubject>
+      <DivisionVotesYeas>332</DivisionVotesYeas>
+      <DivisionVotesNays>0</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>332</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2021-12-09T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Charter Statement - Bill C-3: An Act to amend the Criminal Code and the Canada Labour Code (Tabled on 2021-12-06)</TitleEn>
+      <TitleFr>Énoncé concernant la Charte - Projet de loi C-3 : Loi modifiant le Code criminel et le Code canadien du travail (Déposé le 2021-12-06)</TitleFr>
+      <Title>Charter Statement - Bill C-3: An Act to amend the Criminal Code and the Canada Labour Code (Tabled on 2021-12-06)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.justice.gc.ca/eng/csj-sjc/pl/charter-charte/c3_1.html</UrlEn>
+      <UrlFr>https://www.justice.gc.ca/fra/sjc-csj/pl/charte-charter/c3_1.html</UrlFr>
+      <Url>https://www.justice.gc.ca/eng/csj-sjc/pl/charter-charte/c3_1.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Statistics Canada. "Mental health among health care workers in Canada during the COVID-19 pandemic." The Daily, 2 February 2021.</TitleEn>
+      <TitleFr>Statistique Canada. « La santé mentale chez les travailleurs de la santé au Canada pendant la pandémie de COVID-19. » Le Quotidien, 2 février 2019.</TitleFr>
+      <Title>Statistics Canada. "Mental health among health care workers in Canada during the COVID-19 pandemic." The Daily, 2 February 2021.</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www150.statcan.gc.ca/n1/daily-quotidien/210202/dq210202a-eng.htm</UrlEn>
+      <UrlFr>https://www150.statcan.gc.ca/n1/daily-quotidien/210202/dq210202a-fra.htm</UrlFr>
+      <Url>https://www150.statcan.gc.ca/n1/daily-quotidien/210202/dq210202a-eng.htm</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>House of Commons, Standing Committee on Health. Violence Facing Health Care Workers. 29th Report, 1st Session, 42nd Parliament, June 2019.</TitleEn>
+      <TitleFr>Chambre des Communes, Comité permanent de la Santé. Violence Subie par les Travailleurs de la Santé au Canada. 29e rapport, 1re Session, 42e Parlement, juin 2019.</TitleFr>
+      <Title>House of Commons, Standing Committee on Health. Violence Facing Health Care Workers. 29th Report, 1st Session, 42nd Parliament, June 2019.</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.ourcommons.ca/DocumentViewer/en/42-1/HESA/report-29/</UrlEn>
+      <UrlFr>https://www.noscommunes.ca/DocumentViewer/fr/42-1/HESA/rapport-29</UrlFr>
+      <Url>https://www.ourcommons.ca/DocumentViewer/en/42-1/HESA/report-29/</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Cost Estimate of Bill C-3: An Act to amend the Criminal Code and the Canada Labour Code (ten days of paid sick leave per year to workers in the federally regulated private sector)</TitleEn>
+      <TitleFr>Évaluation du coût du projet de loi C-3, Loi modifiant le Code criminel et le Code canadien du travail (10 jours de congé de maladie payé par année pour les travailleurs du secteur privé sous réglementation fédérale)</TitleFr>
+      <Title>Cost Estimate of Bill C-3: An Act to amend the Criminal Code and the Canada Labour Code (ten days of paid sick leave per year to workers in the federally regulated private sector)</Title>
+      <WebReferenceTypeId>13</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Legislative Costing Note</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Note sur l'évaluation du coût d'une mesure législative</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Legislative Costing Note</WebReferenceTypeName>
+      <UrlEn>https://www.pbo-dpb.gc.ca/en/blog/legislative-costing-notes--notes-evaluation-cout-mesure-legislative/LEG-2122-024-S--cost-estimate-bill-c-3-an-act-amend-criminal-code-canada-labour-code-ten-days-paid-sick-leave-per-ye--evaluation-cout-projet-loi-c-3-loi-modifiant-code-criminel-code-canadien-travail-10-jours-conge-mala</UrlEn>
+      <UrlFr>https://www.pbo-dpb.gc.ca/fr/blog/legislative-costing-notes--notes-evaluation-cout-mesure-legislative/LEG-2122-024-S--cost-estimate-bill-c-3-an-act-amend-criminal-code-canada-labour-code-ten-days-paid-sick-leave-per-ye--evaluation-cout-projet-loi-c-3-loi-modifiant-code-criminel-code-canadien-travail-10-jours-conge-mala</UrlFr>
+      <Url>https://www.pbo-dpb.gc.ca/en/blog/legislative-costing-notes--notes-evaluation-cout-mesure-legislative/LEG-2122-024-S--cost-estimate-bill-c-3-an-act-amend-criminal-code-canada-labour-code-ten-days-paid-sick-leave-per-ye--evaluation-cout-projet-loi-c-3-loi-modifiant-code-criminel-code-canadien-travail-10-jours-conge-mala</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Government of Canada introduces legislation to support workers with ten days of paid sick leave, protect health care workers and finish the fight against COVID-19 (2021-11-26 | Employment and Social Development Canada)</TitleEn>
+      <TitleFr>Le gouvernement du Canada dépose un projet de loi pour offrir aux travailleurs dix jours de congé de maladie payé, protéger les travailleurs de la santé et achever la lutte contre la COVID-19 (2021-11-26 | Emploi et Développement social Canada)</TitleFr>
+      <Title>Government of Canada introduces legislation to support workers with ten days of paid sick leave, protect health care workers and finish the fight against COVID-19 (2021-11-26 | Employment and Social Development Canada)</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/employment-social-development/news/2021/11/healthcare-workers-and-sick-days-news-release.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/emploi-developpement-social/nouvelles/2021/11/healthcare-workers-and-sick-days-news-release.html</UrlFr>
+      <Url>https://www.canada.ca/en/employment-social-development/news/2021/11/healthcare-workers-and-sick-days-news-release.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Backgrounder: Amendments to the Canada Labour Code to provide ten days of paid sick leave (2021-11-26 | Employment and Social Development Canada)</TitleEn>
+      <TitleFr>Document d'information: Modifications au Code canadien du travail visant à accorder dix jours de congé de maladie payé (2021-11-26 | Emploi et Développement social Canada)</TitleFr>
+      <Title>Backgrounder: Amendments to the Canada Labour Code to provide ten days of paid sick leave (2021-11-26 | Employment and Social Development Canada)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/employment-social-development/news/2021/11/backgrounder-esdc--healthcare-workers-and-sick-days.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/emploi-developpement-social/nouvelles/2021/11/x0.html</UrlFr>
+      <Url>https://www.canada.ca/en/employment-social-development/news/2021/11/backgrounder-esdc--healthcare-workers-and-sick-days.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Backgrounder: Amendments to the Criminal Code to protect health care workers and people seeking access to health services (2021-11-26 | Employment and Social Development Canada)</TitleEn>
+      <TitleFr>Document d'information: Modifications au Code criminel visant à protéger les travailleurs de la santé et les personnes cherchant à accéder aux services de santé (2021-11-26 | Emploi et Développement social Canada)</TitleFr>
+      <Title>Backgrounder: Amendments to the Criminal Code to protect health care workers and people seeking access to health services (2021-11-26 | Employment and Social Development Canada)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/employment-social-development/news/2021/11/backgrouder-justice--healthcare-workers-and-sick-days.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/emploi-developpement-social/nouvelles/2021/11/x1.html</UrlFr>
+      <Url>https://www.canada.ca/en/employment-social-development/news/2021/11/backgrouder-justice--healthcare-workers-and-sick-days.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Amendments to the Canada Labour Code to provide ten days of paid sick leave (2021-12-17 | Employment and Social Development Canada)</TitleEn>
+      <TitleFr>Document d'information: Modifications au Code canadien du travail visant à accorder dix jours de congé de maladie payé (2021-12-17 | Emploi et Développement social Canada)</TitleFr>
+      <Title>Amendments to the Canada Labour Code to provide ten days of paid sick leave (2021-12-17 | Employment and Social Development Canada)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/employment-social-development/news/2021/12/amendments-to-the-canada-labour-code-to-provide-ten-days-of-paid-sick-leave.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/emploi-developpement-social/nouvelles/2021/12/xxx0.html</UrlFr>
+      <Url>https://www.canada.ca/en/employment-social-development/news/2021/12/amendments-to-the-canada-labour-code-to-provide-ten-days-of-paid-sick-leave.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Amendments to the Criminal Code to protect health care workers and people seeking access to health services (2021-12-17 | Employment and Social Development Canada)</TitleEn>
+      <TitleFr>Modifications au Code criminel visant à protéger les travailleurs de la santé et les personnes cherchant à accéder aux services de santé (2021-12-17 | Emploi et Développement social Canada)</TitleFr>
+      <Title>Amendments to the Criminal Code to protect health care workers and people seeking access to health services (2021-12-17 | Employment and Social Development Canada)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/employment-social-development/news/2021/12/amendments-to-the-criminal-code-to-protect-health-care-workers-and-people-seeking-access-to-health-services.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/emploi-developpement-social/nouvelles/2021/12/modifications-au-code-criminel-visant-a-proteger-les-travailleurs-de-la-sante-et-les-personnes-cherchant-a-acceder-aux-services-de-sante.html</UrlFr>
+      <Url>https://www.canada.ca/en/employment-social-development/news/2021/12/amendments-to-the-criminal-code-to-protect-health-care-workers-and-people-seeking-access-to-health-services.html</Url>
+    </WebReferences>
+    <SenatePreStudyCommitteeDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <CommitteeOrganizationId>16104</CommitteeOrganizationId>
+      <CommitteeNameEn>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeNameEn>
+      <CommitteeNameFr>Comité sénatorial permanent des affaires sociales, des sciences et de la technologie</CommitteeNameFr>
+      <CommitteeAcronym>SOCI</CommitteeAcronym>
+      <CommitteeName>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeName>
+      <StudyActivityId />
+      <OrganizationTypeId />
+      <ParentCommittee />
+      <IsSubCommittee>false</IsSubCommittee>
+      <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+      <IsSenateCommittee>false</IsSenateCommittee>
+      <IsJointCommittee>false</IsJointCommittee>
+    </SenatePreStudyCommitteeDetails>
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
