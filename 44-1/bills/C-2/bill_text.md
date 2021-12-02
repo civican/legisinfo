@@ -20,6 +20,8 @@ increase the maximum number of weeks in respect of which a Canada recovery careg
 
 It also makes a related amendment to the `Canada Recovery Benefits Regulations`.
 
+Part 3.1 provides for the completion of a performance audit and tabling of a report by the Auditor General of Canada in respect of certain benefits.
+
 Part 4 amends the `Canada Labour Code` to, among other things, create a regime that provides for a leave of absence related to COVID-19 under which an employee may take
 
 up to six weeks if they are unable to work because, among other things, they have contracted COVID-19, have underlying conditions that in the opinion of certain persons or entities would make them more susceptible to COVID-19 or have isolated themselves on the advice of certain persons or entities for reasons related to COVID-19; and
@@ -131,6 +133,11 @@ Consolidated Revenue Fund
 
 
 
+## `Review of Acts`
+
+
+
+
 ## Canada Labour Code
 
 
@@ -147,13 +154,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
   **(1)** The portion of subsection 125.7(1) of the `Income Tax Act` before the definition **baseline remuneration** is replaced by the following:
 
-    **(1)** The following definitions apply in this section and in **subsections** 163(2.901) **and (2.902)**.
+    **(1)** The following definitions apply in this section and in subsections 163(2.901) and (2.902).
 
   **(2)** Paragraphs (j) and (k) of the definition **base percentage** in subsection 125.7(1) of the Act are replaced by the following:
 
     for the twentieth qualifying period,
 
-    if the **eligible** entity's revenue reduction percentage is greater than or equal to 50%, **25**%, and
+    if the eligible entity's revenue reduction percentage is greater than or equal to 50%, 25%, and
 
     in any other case, the percentage determined by the formula
 
@@ -203,7 +210,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
     in any other case, nil; and
 
-    for a qualifying period after the twentieth qualifying period, a percentage determined by regulation in respect of the eligible entity **for the qualifying period** or, **for a qualifying period after the twenty-eighth qualifying period**, if there is no percentage determined by regulation for the qualifying period, nil. (**pourcentage de base**)
+    for a qualifying period after the twentieth qualifying period, a percentage determined by regulation in respect of the eligible entity for the qualifying period or, for a qualifying period after the twenty-eighth qualifying period, if there is no percentage determined by regulation for the qualifying period, nil. (**pourcentage de base**)
 
   **(3)** The definition **current reference period** in subsection 125.7(1) of the Act is amended by striking out "and" at the end of paragraph (c.991) and by adding the following after that paragraph:
 
@@ -221,23 +228,23 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
   **(4)** Subparagraph (i) of the description of A in paragraph (b) of the definition **executive compensation repayment amount** in subsection 125.7(1) of the Act is replaced by the following:
 
-    a percentage assigned to the eligible entity under an agreement **in respect of the seventeenth qualifying period to the twenty-third qualifying period if**
+    a percentage assigned to the eligible entity under an agreement in respect of the seventeenth qualifying period to the twenty-third qualifying period if
 
     the agreement is entered into by
 
     the eligible entity,
 
-    an eligible entity, shares of the capital stock of which are listed or traded on a stock exchange or other public market, that controls the eligible entity (referred to in this definition as the "public parent corporation"), if the public parent corporation received a deemed overpayment under subsection (2) in respect of **any of** the seventeenth qualifying period **to the twenty-third** qualifying period, and
+    an eligible entity, shares of the capital stock of which are listed or traded on a stock exchange or other public market, that controls the eligible entity (referred to in this definition as the "public parent corporation"), if the public parent corporation received a deemed overpayment under subsection (2) in respect of any of the seventeenth qualifying period to the twenty-third qualifying period, and
 
-    each other eligible entity that received a deemed overpayment under subsection (2) in respect of **any of** the seventeenth qualifying period **to the twenty-third** qualifying period and was controlled in that period by the eligible entity or the public parent corporation, if any,
+    each other eligible entity that received a deemed overpayment under subsection (2) in respect of any of the seventeenth qualifying period to the twenty-third qualifying period and was controlled in that period by the eligible entity or the public parent corporation, if any,
 
     the agreement is filed in prescribed form and manner with the Minister,
 
-    the agreement assigns, for the purposes of this definition, a percentage in respect of each eligible entity referred to in clause (A) **of this subparagraph**,
+    the agreement assigns, for the purposes of this definition, a percentage in respect of each eligible entity referred to in clause (A) of this subparagraph,
 
     the total of all the percentages assigned under the agreement equals 100%, and
 
-    the percentage allocated to any eligible entity under the agreement would not result in an amount allocated to the eligible entity in excess of the total of all amounts of deemed overpayments of the eligible entity under subsection (2) for **any of** the seventeenth qualifying period **to the twenty-third** qualifying period,
+    the percentage allocated to any eligible entity under the agreement would not result in an amount allocated to the eligible entity in excess of the total of all amounts of deemed overpayments of the eligible entity under subsection (2) for any of the seventeenth qualifying period to the twenty-third qualifying period,
 
     a percentage assigned to the eligible entity under an agreement in respect of the twenty-fourth qualifying period and any subsequent qualifying period if
 
@@ -261,9 +268,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
     is
 
-    **for the seventeenth qualifying period to the twenty-third qualifying period**, the lesser of
+    for the seventeenth qualifying period to the twenty-third qualifying period, the lesser of
 
-    the total of all amounts each of which is an amount of a deemed overpayment under subsection (2) for each of the eligible entities described in clause (i)(A) of the description of A for the seventeenth qualifying period **to the twenty-third** qualifying period, other than amounts in respect of employees on leave with pay, and
+    the total of all amounts each of which is an amount of a deemed overpayment under subsection (2) for each of the eligible entities described in clause (i)(A) of the description of A for the seventeenth qualifying period to the twenty-third qualifying period, other than amounts in respect of employees on leave with pay, and
 
     the amount determined by the formula
 
@@ -299,13 +306,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
   **(7)** Subparagraphs (b)(i) and (ii) of the definition **prior reference period** in subsection 125.7(1) of the Act are replaced by the following:
 
-    on March 1, 2019, the eligible entity was not carrying on business or otherwise carrying on its ordinary activities and the qualifying period is any of **the first qualifying period to the fourth qualifying period**, or
+    on March 1, 2019, the eligible entity was not carrying on business or otherwise carrying on its ordinary activities and the qualifying period is any of the first qualifying period to the fourth qualifying period, or
 
     the qualifying period is any of
 
-    **the first qualifying period to the fourth qualifying period** and the eligible entity elects for all of the **first qualifying period to the third qualifying period**,
+    the first qualifying period to the fourth qualifying period and the eligible entity elects for all of the first qualifying period to the third qualifying period,
 
-    **the fifth qualifying period** to the qualifying period referred to in paragraph (d) of the definition qualifying period and the eligible entity elects for all of **those qualifying periods**,
+    the fifth qualifying period to the qualifying period referred to in paragraph (d) of the definition qualifying period and the eligible entity elects for all of those qualifying periods,
 
     the fourteenth qualifying period to the seventeenth qualifying period, if
 
@@ -333,35 +340,35 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
     the period that begins on April 10, 2022 and ends on May 7, 2022 (referred to in this section as the "twenty-eighth qualifying period"); and
 
-    a prescribed period that ends no later than **July 2, 2022**. (**période d'admissibilité**)
+    a prescribed period that ends no later than July 2, 2022. (**période d'admissibilité**)
 
   **(9)** Paragraph (b) of the definition **qualifying recovery entity** in subsection 125.7(1) of the Act is replaced by the following:
 
-    it **would be** a qualifying entity for the qualifying period **if the definition qualifying entity were read without reference to its paragraph (a)**;
+    it would be a qualifying entity for the qualifying period if the definition qualifying entity were read without reference to its paragraph (a);
 
   **(10)** Subparagraph (e)(ii) of the definition **qualifying recovery entity** in subsection 125.7(1) of the Act is replaced by the following:
 
-    greater than 10% **(or a percentage determined by regulation for the qualifying period)**, if it is any of the eighteenth qualifying period **and subsequent qualifying periods**. (**entité de relance admissible**)
+    greater than 10% (or a percentage determined by regulation for the qualifying period), if it is any of the eighteenth qualifying period and subsequent qualifying periods. (**entité de relance admissible**)
 
   **(11)** Paragraph (d) of the definition **recovery wage subsidy rate** in subsection 125.7(1) of the Act is replaced by the following:
 
-    for **any of** the twenty-second qualifying period **and subsequent qualifying periods, 50% or a percentage determined by regulation for the qualifying period**. (**taux de subvention salariale de relance**)
+    for any of the twenty-second qualifying period and subsequent qualifying periods, 50% or a percentage determined by regulation for the qualifying period. (**taux de subvention salariale de relance**)
 
   **(12)** The portion of paragraph (a.1) of the definition **rent subsidy percentage** in subsection 125.7(1) of the Act before the formula is replaced by the following:
 
-    if the qualifying period is any of the eighteenth qualifying period to the **twenty-eighth** qualifying period, the percentage determined by the formula
+    if the qualifying period is any of the eighteenth qualifying period to the twenty-eighth qualifying period, the percentage determined by the formula
 
   **(13)** Paragraph (b) of the definition **rent subsidy percentage** in subsection 125.7(1) of the Act is replaced by the following:
 
-    for a qualifying period after the **twenty-eighth** qualifying period, a percentage determined by regulation in respect of the eligible entity or, if there is no percentage determined by regulation for the qualifying period, nil. (**pourcentage de subvention pour le loyer**)
+    for a qualifying period after the twenty-eighth qualifying period, a percentage determined by regulation in respect of the eligible entity or, if there is no percentage determined by regulation for the qualifying period, nil. (**pourcentage de subvention pour le loyer**)
 
   **(14)** The description of A in the definition **rent top-up percentage** in subsection 125.7(1) of the Act is replaced by the following:
 
-    is 25%, or a prescribed percentage, for any of the eighth qualifying period to the **twenty-eighth** qualifying period and nil, or a prescribed percentage, for any subsequent qualifying period,
+    is 25%, or a prescribed percentage, for any of the eighth qualifying period to the twenty-eighth qualifying period and nil, or a prescribed percentage, for any subsequent qualifying period,
 
   **(15)** Paragraphs (e) and (f) of the definition **top-up percentage** in subsection 125.7(1) of the Act are replaced by the following:
 
-    for the twentieth qualifying period, the lesser of **15%** and the percentage determined by the formula
+    for the twentieth qualifying period, the lesser of 15% and the percentage determined by the formula
 
     is the entity's top-up revenue reduction percentage for the qualifying period;
 
@@ -369,7 +376,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
     is the entity's top-up revenue reduction percentage for the qualifying period; and
 
-    for each qualifying period after the **twenty-first** qualifying period, nil. (**pourcentage compensatoire**)
+    for each qualifying period after the twenty-first qualifying period, nil. (**pourcentage compensatoire**)
 
   **(16)** Subsection 125.7(1) of the Act is amended by adding the following in alphabetical order:
 
@@ -393,11 +400,19 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
   **(17)** The portion of paragraph (a) of the description of D in subsection 125.7(2) of the Act before subparagraph (i) is replaced by the following:
 
-    nil, if the qualifying period is any of the **fifth qualifying period to the nineteenth** qualifying period, unless
+    nil, if the qualifying period is any of the fifth qualifying period to the nineteenth qualifying period, unless
 
   **(18)** The description of D in subsection 125.7(2) of the Act is amended by striking out "and" at the end of paragraph (a) and by adding the following after that paragraph:
 
     nil, if the qualifying period is after the nineteenth qualifying period, and
+
+  **(18.1)** Section 125.7 of the Act is amended by adding the following after subsection (2):
+
+    **(2.01)** Despite subsection (2), no overpayment on account of a qualifying entity's liability under this Part
+for the taxation year in which the qualifying period ends is deemed to have arisen with respect to a
+qualifying entity that is a publicly traded company or a subsidiary of such a company if, in the qualifying
+period, it paid taxable dividends to an individual who is a holder of common shares of the company or
+of the subsidiary of the company.
 
   **(19)** The formula in paragraph (b) of the description of D in subsection 125.7(2.1) of the Act is replaced by the following:
 
@@ -411,13 +426,19 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
   **(21)** The portion of subsection 125.7(14) of the Act before the formula is replaced by the following:
 
-    **(14)** The amount of a refund made by the Minister to an eligible entity in respect of a deemed overpayment under subsection (2) on a particular date under subsection 164(1.6), in respect of any of the seventeenth qualifying period to the **twenty-third** qualifying period, is deemed to be an amount that has been refunded to the eligible entity on that particular date (for the taxation year in which the refund was made) in excess of the amount to which the eligible entity was entitled as a refund under this Act to the extent of the lesser of the amount of the refund and the amount determined by the formula
+    **(14)** The amount of a refund made by the Minister to an eligible entity in respect of a deemed overpayment under subsection (2) on a particular date under subsection 164(1.6), in respect of any of the seventeenth qualifying period to the twenty-third qualifying period, is deemed to be an amount that has been refunded to the eligible entity on that particular date (for the taxation year in which the refund was made) in excess of the amount to which the eligible entity was entitled as a refund under this Act to the extent of the lesser of the amount of the refund and the amount determined by the formula
 
   **(22)** Section 125.7 of the Act is amended by adding the following after subsection (14):
 
     **(14.1)** The amount of a refund made by the Minister to an eligible entity in respect of a deemed overpayment under subsection (2) on a particular date under subsection 164(1.6), in respect of any of the twenty-fourth qualifying period and any subsequent qualifying period, is deemed to be an amount that has been refunded to the eligible entity on that particular date (for the taxation year in which the refund was made) in excess of the amount to which the eligible entity was entitled as a refund under this Act to the extent of the lesser of the amount of the refund and the amount determined by the formula
 
-      is the executive compensation repayment amount of the eligible entity; and
+      is **the greater of**
+
+      the executive compensation repayment amount of the eligible entity, and
+
+      with respect to a qualifying entity that is a publicly traded company or a subsidiary of such a
+company, the amount of taxable dividends paid by the company or its subsidiary to an individual who is
+a holder of common shares of the company or of the subsidiary of the company; and
 
       is the total of all amounts deemed to be an excess refund to the eligible entity under this subsection in respect of refunds made after the particular date.
 
@@ -583,13 +604,13 @@ a requirement, applicable in the region specified in the order, regulation or ot
 
 non-compliance with which is an offence or may result in the imposition of a sanction, including an administrative monetary penalty. (**ordre de confinement**)
 
-**lockdown region** means the region designated as a lockdown region in an order made under subsection `3`(1).  (**région confinée**)
+**lockdown region** means the region designated as a lockdown region in an order made under subsection `3`(1). (**région confinée**)
 
 **medical practitioner** means a person who is entitled to practise medicine under the laws of a province. (**médecin**)
 
 **Minister** means the Minister of Employment and Social Development. (**ministre**)
 
-**return of income** means a return of income filed or required to be filed under Part I of the `Income Tax Act` in respect of a taxation year, other than a return of income filed under subsection 70(2) or 104(23), paragraph 128(2)(e) or subsection 150(4) of that Act. (**déclaration de revenu**)
+**return of income** means a return of income filed or required to be filed under Part I of the `Income Tax Act` in respect of a taxation year, other than a return of income filed under subsection 70(2) or 104(23), paragraph 128(2)(e) or subsection 150(4) of that Act. (**déclaration de revenu**)
 
 **week** means the period of seven consecutive days beginning on and including Sunday. (**semaine**)
 
@@ -923,15 +944,15 @@ All money required to do anything in relation to this Act, including all money r
 
   **(1)** Subparagraph 241(4)(d)(vii.7) of the Act is replaced by the following:
 
-    to an official solely for the purposes of the administration and enforcement of the `Canada Recovery Benefits Act` **or the `Canada Worker Lockdown Benefit Act`**, or the evaluation or formulation of policy for **those Acts**,
+    to an official solely for the purposes of the administration and enforcement of the `Canada Recovery Benefits Act` or the `Canada Worker Lockdown Benefit Act`, or the evaluation or formulation of policy for those Acts,
 
   **(2)** The portion of subparagraph 241(4)(d)(vii.8) of the Act before clause (A) is replaced by the following:
 
-    to an official, if the taxpayer information is taxpayer information of an individual who has made an application under the `Canada Recovery Benefits Act` **or the `Canada Worker Lockdown Benefit Act`**, solely for the purposes of the evaluation or formulation of policy for a program administered and enforced by
+    to an official, if the taxpayer information is taxpayer information of an individual who has made an application under the `Canada Recovery Benefits Act` or the `Canada Worker Lockdown Benefit Act`, solely for the purposes of the evaluation or formulation of policy for a program administered and enforced by
 
   **(3)** The portion of subparagraph 241(4)(d)(vii.9) of the Act before clause (A) is replaced by the following:
 
-    to an official of a department or agency of the Government of Canada or of a provincial government (or to an individual who occupies a similar position in connection with an Aboriginal government) as to the name, Social Insurance Number, date of birth, address, telephone number, email address or occupation of an individual who has made an application under the `Canada Recovery Benefits Act` **or the `Canada Worker Lockdown Benefit Act`**, solely for the purposes of
+    to an official of a department or agency of the Government of Canada or of a provincial government (or to an individual who occupies a similar position in connection with an Aboriginal government) as to the name, Social Insurance Number, date of birth, address, telephone number, email address or occupation of an individual who has made an application under the `Canada Recovery Benefits Act` or the `Canada Worker Lockdown Benefit Act`, solely for the purposes of
 
 
 #### `Income Tax Regulations`
@@ -942,7 +963,7 @@ All money required to do anything in relation to this Act, including all money r
 
     a payment made under the
 
-    `Canada Recovery Benefits Act`, **or**
+    `Canada Recovery Benefits Act`, or
 
     `Canada Worker Lockdown Benefit Act`.
 
@@ -960,7 +981,7 @@ All money required to do anything in relation to this Act, including all money r
 
 ### Section 10
 
-      **(1)** A person is eligible for a Canada recovery sickness benefit for any week falling within the period beginning on September 27, 2020 and ending on **May 7, 2022** if
+      **(1)** A person is eligible for a Canada recovery sickness benefit for any week falling within the period beginning on September 27, 2020 and ending on May 7, 2022 if
 
   **(2)** Subsection 10(1) of the Act is amended by adding the following after paragraph (e):
 
@@ -972,7 +993,7 @@ All money required to do anything in relation to this Act, including all money r
 
   **(4)** Subsection 10(2) of the Act is replaced by the following:
 
-    **(2)** For the purpose of paragraphs (1)(d) **to (e.1)**, income from self-employment is revenue from the self-employment less expenses incurred to earn that revenue.
+    **(2)** For the purpose of paragraphs (1)(d) to (e.1), income from self-employment is revenue from the self-employment less expenses incurred to earn that revenue.
 
 ### Section 10
 
@@ -980,15 +1001,15 @@ Section 11 of the Act is replaced by the following:
 
 ### Section 11
 
-  **(1)** A person may, in the form and manner established by the Minister, apply for a Canada recovery sickness benefit for any week falling within the period beginning on September 27, 2020 and ending on **May 7, 2022**.
+  **(1)** A person may, in the form and manner established by the Minister, apply for a Canada recovery sickness benefit for any week falling within the period beginning on September 27, 2020 and ending on May 7, 2022.
 
-  **(2)** No application is permitted to be made on any day that is more than 60 days after the end of the week to which the benefit relates. **However, an application in relation to any week that begins after November 20, 2021 and ends before the day on which this subsection comes into force may be made within 60 days after the end of the week during which this subsection comes into force.**
+  **(2)** No application is permitted to be made on any day that is more than 60 days after the end of the week to which the benefit relates. However, an application in relation to any week that begins after November 20, 2021 and ends before the day on which this subsection comes into force may be made within 60 days after the end of the week during which this subsection comes into force.
 
 ### Section 11
 
 Subsection 12(2) of the Act is replaced by the following:
 
-**(2)** A person is not required to attest to their income under paragraphs 10(1)(d) **to (e.1)** if they have previously received any benefit under this Act and they attest to that fact.
+**(2)** A person is not required to attest to their income under paragraphs 10(1)(d) to (e.1) if they have previously received any benefit under this Act and they attest to that fact.
 
 ### Section 12
 
@@ -996,7 +1017,7 @@ Subsection 16(1) of the Act is replaced by the following:
 
 ### Section 16
 
-  **(1)** The maximum number of weeks in respect of which a Canada recovery sickness benefit is payable to a person is **six** or, if another maximum number of weeks is fixed by regulation, that maximum number.
+  **(1)** The maximum number of weeks in respect of which a Canada recovery sickness benefit is payable to a person is six or, if another maximum number of weeks is fixed by regulation, that maximum number.
 
 ### Section 13
 
@@ -1004,7 +1025,7 @@ Subsection 16(1) of the Act is replaced by the following:
 
 ### Section 17
 
-      **(1)** A person is eligible for a Canada recovery caregiving benefit for any week falling within the period beginning on September 27, 2020 and ending on **May 7, 2022** if
+      **(1)** A person is eligible for a Canada recovery caregiving benefit for any week falling within the period beginning on September 27, 2020 and ending on May 7, 2022 if
 
   **(2)** Subsection 17(1) of the Act is amended by adding the following after paragraph (e):
 
@@ -1016,7 +1037,7 @@ Subsection 16(1) of the Act is replaced by the following:
 
   **(4)** Subsection 17(2) of the Act is replaced by the following:
 
-    **(2)** For the purpose of paragraphs (1)(d) **to (e.1)**, income from self-employment is revenue from the self-employmentless expenses incurred to earn that revenue.
+    **(2)** For the purpose of paragraphs (1)(d) to (e.1), income from self-employment is revenue from the self-employmentless expenses incurred to earn that revenue.
 
 ### Section 14
 
@@ -1024,15 +1045,15 @@ Section 18 of the Act is replaced by the following:
 
 ### Section 18
 
-  **(1)** A person may, in the form and manner established by the Minister, apply for a Canada recovery caregiving benefit for any week falling within the period beginning on September 27, 2020 and ending on **May 7, 2022**.
+  **(1)** A person may, in the form and manner established by the Minister, apply for a Canada recovery caregiving benefit for any week falling within the period beginning on September 27, 2020 and ending on May 7, 2022.
 
-  **(2)** No application is permitted to be made on any day that is more than 60 days after the end of the week to which the benefit relates. **However, an application in relation to any week that begins after November 20, 2021 and ends before the day on which this subsection comes into force may be made within 60 days after the end of the week during which this subsection comes into force.**
+  **(2)** No application is permitted to be made on any day that is more than 60 days after the end of the week to which the benefit relates. However, an application in relation to any week that begins after November 20, 2021 and ends before the day on which this subsection comes into force may be made within 60 days after the end of the week during which this subsection comes into force.
 
 ### Section 15
 
 Subsection 19(2) of the Act is replaced by the following:
 
-**(2)** A person is not required to attest to their income under paragraphs 17(1)(d) **to (e.1)** if they have previously received any benefit under this Act and they attest to that fact.
+**(2)** A person is not required to attest to their income under paragraphs 17(1)(d) to (e.1) if they have previously received any benefit under this Act and they attest to that fact.
 
 ### Section 16
 
@@ -1040,9 +1061,9 @@ Subsections 23(1) and (2) of the Act are replaced by the following:
 
 ### Section 23
 
-  **(1)** Subject to subsection (2), the maximum number of weeks in respect of which a Canada recovery caregiving benefit is payable to a person is **44** or, if another maximum number of weeks is fixed by regulation, that maximum number.
+  **(1)** Subject to subsection (2), the maximum number of weeks in respect of which a Canada recovery caregiving benefit is payable to a person is 44 or, if another maximum number of weeks is fixed by regulation, that maximum number.
 
-  **(2)** The maximum number of weeks in respect of which a Canada recovery caregiving benefit is payable to all of the persons residing in the same household is **44** or, if another maximum number of weeks is fixed by regulation for the purpose of subsection (1), that maximum number.
+  **(2)** The maximum number of weeks in respect of which a Canada recovery caregiving benefit is payable to all of the persons residing in the same household is 44 or, if another maximum number of weeks is fixed by regulation for the purpose of subsection (1), that maximum number.
 
 ### Section 17
 
@@ -1050,7 +1071,7 @@ Section 24.1 of the Act is replaced by the following:
 
 ### Section 24.1
 
-The Governor in Council may, by regulation, on the recommendation of the Minister, amend any of the following provisions to replace the date of **May 7, 2022** by a date not later than **July 2, 2022** and, if any of the following provisions was amended by such a regulation, to amend the provision again by replacing the date set out in it as a result of the previous regulation by a date not later than **July 2, 2022**:
+The Governor in Council may, by regulation, on the recommendation of the Minister, amend any of the following provisions to replace the date of May 7, 2022 by a date not later than July 2, 2022 and, if any of the following provisions was amended by such a regulation, to amend the provision again by replacing the date set out in it as a result of the previous regulation by a date not later than July 2, 2022:
 
 subsection 10(1);
 
@@ -1066,7 +1087,7 @@ Section 41 of the Act is replaced by the following:
 
 ### Section 41
 
-All money required to do anything in relation to this Act, including all money required by the Minister to administer and enforce this Act or by the Agency, as defined in section 2 of the `Canada Revenue Agency Act`, to administer and enforce this Act on behalf of the Minister, may, until March 31, **2026**, be paid out of the Consolidated Revenue Fund.
+All money required to do anything in relation to this Act, including all money required by the Minister to administer and enforce this Act or by the Agency, as defined in section 2 of the `Canada Revenue Agency Act`, to administer and enforce this Act on behalf of the Minister, may, until March 31, 2026, be paid out of the Consolidated Revenue Fund.
 
 
 ### Related Amendment to the `Canada Recovery Benefits Regulations`
@@ -1074,6 +1095,31 @@ All money required to do anything in relation to this Act, including all money r
 ### Section 19
 
 Section 3 of the `Canada Recovery Benefits Regulations` is repealed.
+
+
+## Review of Acts
+
+### Section 19.1
+
+  **(1)** The Auditor General of Canada must, during the first year after the coming into force of this
+section, complete a performance audit of
+
+    the benefits paid under the `Canada Worker Lockdown Benefit Act` and the `Canada Recovery Benefits
+Act`;
+
+    the benefits paid under the Canada Emergency Response Benefit and the Canada Emergency Wage
+Subsidy programs;
+
+    the efficiency of the benefits referred to in paragraphs (a) and (b) and the means to measure the
+effectiveness of those benefits; and
+
+    any payments made under the Canada Emergency Response Benefit, the Canada Emergency Wage
+Subsidy, the `Canada Worker Lockdown Benefit Act` and the `Canada Recovery Benefits Act` to ineligible
+recipients and the response of the Canada Revenue Agency with respect to those payments.
+
+  **(2)** A report on the review completed under subsection (1) must be submitted to the Speaker of the
+House of Commons, who must table it before that House as soon as feasible after receiving it, or if the
+House is not then sitting, on the first day of the next sitting of the House.
 
 
 ## Canada Labour Code
@@ -1087,7 +1133,7 @@ Section 3 of the `Canada Recovery Benefits Regulations` is repealed.
 
 ### Section 187.1
 
-      **(1)** An employee may interrupt a vacation granted to them under this Division in order to permit them to take a leave of absence under Division VII or VIII or section 247.5 or to be absent due to a reason referred to in subsection 239(1) or (1.1), **239.01(1)** or 239.1(1).
+      **(1)** An employee may interrupt a vacation granted to them under this Division in order to permit them to take a leave of absence under Division VII or VIII or section 247.5 or to be absent due to a reason referred to in subsection 239(1) or (1.1), 239.01(1) or 239.1(1).
 
   **(2)** Subsection 187.1(1) of the Act is replaced by the following:
 
@@ -1107,7 +1153,7 @@ Section 3 of the `Canada Recovery Benefits Regulations` is repealed.
 
 ### Section 187.2
 
-      **(1)** Despite paragraph 185(a) or any term or condition of employment, an employee may postpone their vacation until after the day on which a leave of absence taken under Division VII or VIII or section 247.5, or an absence due to a reason referred to in subsection 239(1) or (1.1), **239.01(1)** or 239.1(1), ends.
+      **(1)** Despite paragraph 185(a) or any term or condition of employment, an employee may postpone their vacation until after the day on which a leave of absence taken under Division VII or VIII or section 247.5, or an absence due to a reason referred to in subsection 239(1) or (1.1), 239.01(1) or 239.1(1), ends.
 
   **(2)** Subsection 187.2(1) of the Act is replaced by the following:
 
@@ -1119,7 +1165,7 @@ Section 3 of the `Canada Recovery Benefits Regulations` is repealed.
 
   **(1)** Subsection 206.1(2.1) of the Act is replaced by the following:
 
-    **(2.1)** The period referred to in subsection (2) is extended by the number of weeks during which the employee is on leave under any of sections 206.3 to 206.5 and 206.9, is absent due to a reason referred to in subsection 239(1) or (1.1), **239.01(1)** or 239.1(1) or is on leave under any of paragraphs 247.5(1)(a), (b) and (d) to (g).
+    **(2.1)** The period referred to in subsection (2) is extended by the number of weeks during which the employee is on leave under any of sections 206.3 to 206.5 and 206.9, is absent due to a reason referred to in subsection 239(1) or (1.1), 239.01(1) or 239.1(1) or is on leave under any of paragraphs 247.5(1)(a), (b) and (d) to (g).
 
   **(2)** Subsection 206.1(2.1) of the Act is replaced by the following:
 
@@ -1127,7 +1173,7 @@ Section 3 of the `Canada Recovery Benefits Regulations` is repealed.
 
   **(3)** Subsection 206.1(2.4) of the Act is replaced by the following:
 
-    **(2.4)** The employee may interrupt the leave referred to in subsection (1) in order to permit the employee to take leave under any of sections 206.3 to 206.5 and 206.9, to be absent due to a reason referred to in subsection 239(1) or (1.1), **239.01(1)** or 239.1(1) or to take leave under any of paragraphs 247.5(1)(a), (b) and (d) to (g).
+    **(2.4)** The employee may interrupt the leave referred to in subsection (1) in order to permit the employee to take leave under any of sections 206.3 to 206.5 and 206.9, to be absent due to a reason referred to in subsection 239(1) or (1.1), 239.01(1) or 239.1(1) or to take leave under any of paragraphs 247.5(1)(a), (b) and (d) to (g).
 
   **(4)** Subsection 206.1(2.4) of the Act is replaced by the following:
 
@@ -1145,7 +1191,7 @@ Section 3 of the `Canada Recovery Benefits Regulations` is repealed.
 
 ### Section 207.02
 
-      **(1)** An employee may interrupt a leave of absence referred to in any of sections 206.3 to 206.5 in order to be absent due to a reason referred to in subsection 239(1) or (1.1), **239.01(1)** or 239.1(1).
+      **(1)** An employee may interrupt a leave of absence referred to in any of sections 206.3 to 206.5 in order to be absent due to a reason referred to in subsection 239(1) or (1.1), 239.01(1) or 239.1(1).
 
   **(2)** Subsection 207.02(1) of the Act is replaced by the following:
 
@@ -1277,7 +1323,7 @@ The portion of section 345 of the `Budget Implementation Act, 2021, No. 1` befor
 
 ### Section 345
 
-On the first day on which both subsection 340(1) of this Act and subsection **20(2)** of **`An Act to provide further support in response to COVID-19`** are in force
+On the first day on which both subsection 340(1) of this Act and subsection 20(2) of `An Act to provide further support in response to COVID-19` are in force
 
 
 ### Coordinating Amendments
