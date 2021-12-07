@@ -1,7 +1,5 @@
 # Bill S-2: An Act to amend the Parliament of Canada Act and to make consequential and related amendments to other Acts
 
-**Sponsor**: THE HONOURABLE SENATOR GOLD, P.‍C.
-
 ## Summary
 
 This enactment amends the `Parliament of Canada Act` and makes consequential and related amendments to other Acts to, among other things,
@@ -24,13 +22,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 Subsection 19.1(3) of the `Parliament of Canada Act` is replaced by the following:
 
-**(3)** The Leader of the Government in the Senate or **Government Representative in the Senate, or his or her** nominee, the Leader of the Opposition in the Senate, or **his or her** nominee, and the Leader **or Facilitator of every other recognized party or parliamentary group in the Senate**, or **his or her nominee**, may, in accordance with the rules of the Senate, change the membership of the Committee from time to time, including during periods of prorogation or dissolution.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 19.1(3):
-> *Existing Text*:
-> > The Leader of the Government in the Senate, or the nominee of the Leader, and the Leader of the Opposition in the Senate, or the nominee of the Leader, may, in accordance with the rules of the Senate, change the membership of the Committee from time to time, including during periods of prorogation or dissolution.
+**(3)** The Leader of the Government in the Senate or Government Representative in the Senate, or his or her nominee, the Leader of the Opposition in the Senate, or his or her nominee, and the Leader or Facilitator of every other recognized party or parliamentary group in the Senate, or his or her nominee, may, in accordance with the rules of the Senate, change the membership of the Committee from time to time, including during periods of prorogation or dissolution.
 
 ### Section 2
 
@@ -38,13 +30,7 @@ Section 20.1 of the Act is replaced by the following:
 
 ### Section 20.1
 
-The Governor in Council shall, by commission under the Great Seal, appoint a Senate Ethics Officer after consultation with the Leader of **the Government in the Senate or Government Representative in the Senate, the Leader of the Opposition in the Senate and the Leader or Facilitator of** every **other** recognized party **or parliamentary group** in the Senate and after approval of the appointment by resolution of the Senate.
-
-
-> **Explanatory Note**:
-> Existing text of section 20.1:
-> *Existing Text*:
-> > The Governor in Council shall, by commission under the Great Seal, appoint a Senate Ethics Officer after consultation with the leader of every recognized party in the Senate and after approval of the appointment by resolution of the Senate.
+The Governor in Council shall, by commission under the Great Seal, appoint a Senate Ethics Officer after consultation with the Leader of the Government in the Senate or Government Representative in the Senate, the Leader of the Opposition in the Senate and the Leader or Facilitator of every other recognized party or parliamentary group in the Senate and after approval of the appointment by resolution of the Senate.
 
 ### Section 3
 
@@ -103,28 +89,17 @@ The Act is amended by adding the following after section 62.3:
 
   **(2)** Despite section 62.3, the additional annual allowance that shall be paid for each fiscal year after March 31, 2023 to a senator referred to in subsection (1) is the additional annual allowance for the previous fiscal year plus the amount obtained by multiplying that additional annual allowance by the index described in section 67.1 for the previous calendar year.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 4
 
 Sections 67 and 67.1 of the Act are replaced by the following:
 
 ### Section 67
 
-The salaries and allowances payable to members of the Senate and the House of Commons under sections 55.1 and 62.1 to **62.4** of this Act and section 4.1 of the `Salaries Act` shall be rounded down to the nearest hundred dollars.
+The salaries and allowances payable to members of the Senate and the House of Commons under sections 55.1 and 62.1 to 62.4 of this Act and section 4.1 of the `Salaries Act` shall be rounded down to the nearest hundred dollars.
 
 ### Section 67.1
 
-The index referred to in paragraph 55.1(2)(b) and subsections 62.1(2), 62.2(2), 62.3(2) and (4) and **62.4(2)** for a calendar year is the index of the average percentage increase in base-rate wages for the calendar year, resulting from major settlements negotiated with bargaining units of 500 or more employees in the private sector in Canada, as published by the Department of Employment and Social Development within three months after the end of that calendar year.
-
-
-> **Explanatory Note**:
-> Existing text of sections 67 and 67.1:
-> *Existing Text*:
-> > The salaries and allowances payable to members of the Senate and the House of Commons under sections 55.1 and 62.1 to 62.3 of this Act and section 4.1 of the `Salaries Act` shall be rounded down to the nearest hundred dollars.
-> > The index referred to in paragraph 55.1(2)(b) and subsections 62.1(2), 62.2(2) and 62.3(2) and (4) for a calendar year is the index of the average percentage increase in base-rate wages for the calendar year, resulting from major settlements negotiated with bargaining units of 500 or more employees in the private sector in Canada, as published by the Department of Employment and Social Development within three months after the end of that calendar year.
+The index referred to in paragraph 55.1(2)(b) and subsections 62.1(2), 62.2(2), 62.3(2) and (4) and 62.4(2) for a calendar year is the index of the average percentage increase in base-rate wages for the calendar year, resulting from major settlements negotiated with bargaining units of 500 or more employees in the private sector in Canada, as published by the Department of Employment and Social Development within three months after the end of that calendar year.
 
 ### Section 5
 
@@ -132,26 +107,13 @@ The portion of subsection 71.1(1) of the Act before paragraph (a) is replaced by
 
 ### Section 71.1
 
-  **(1)** A member of the Senate or the House of Commons who resigns by reason of disability may elect to receive an annual disability allowance equal to 70% of their annual salaries and allowances under sections 55.1 and 62.1 to **62.4** of this Act and section 4.1 of the `Salaries Act`, on the date of resignation, if at the time of their resignation, the member
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 71.1(1):
-> *Existing Text*:
-> > A member of the Senate or the House of Commons who resigns by reason of disability may elect to receive an annual disability allowance equal to 70% of their annual salaries and allowances under sections 55.1 and 62.1 to 62.3 of this Act and section 4.1 of the `Salaries Act`, on the date of resignation, if at the time of their resignation, the member
+  **(1)** A member of the Senate or the House of Commons who resigns by reason of disability may elect to receive an annual disability allowance equal to 70% of their annual salaries and allowances under sections 55.1 and 62.1 to 62.4 of this Act and section 4.1 of the `Salaries Act`, on the date of resignation, if at the time of their resignation, the member
 
 ### Section 6
 
 Paragraph 79.1(1)(a) of the Act is replaced by the following:
 
-the Leader of **the Government** in **the Senate or Government Representative in the Senate, the Leader of the Opposition in the Senate** and the **Leader or Facilitator of** every **other** recognized **party or parliamentary** group in the Senate; and
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 79.1(1):
-> *Existing Text*:
-> > The Governor in Council shall, by commission under the Great Seal, appoint a Parliamentary Budget Officer after consultation with the following persons and after approval of the appointment by resolution of the Senate and House of Commons:
-> > the persons referred to in paragraphs 62(a) and (b) and the leader of every caucus and of every recognized group in the Senate; and
+the Leader of the Government in the Senate or Government Representative in the Senate, the Leader of the Opposition in the Senate and the Leader or Facilitator of every other recognized party or parliamentary group in the Senate; and
 
 
 ### Consequential Amendment to the Members of Parliament Retiring Allowances Act
@@ -160,13 +122,7 @@ the Leader of **the Government** in **the Senate or Government Representative in
 
 The definition **annual allowance** in subsection 2(1) of the `Members of Parliament Retiring Allowances Act` is replaced by the following:
 
-**annual allowance** means an annual allowance payable to a member **under** section 62, 62.3 or **62.4** of the `Parliament of Canada Act` or payable to a member **under** an appropriation Act as Deputy **Chair** or Assistant Deputy **Chair** of a committee. (**indemnité annuelle**)
-
-
-> **Explanatory Note**:
-> Existing text of the definition:
-> *Existing Text*:
-> > **annual allowance** means an annual allowance payable to a member pursuant to section 62 or 62.3 of the `Parliament of Canada Act` or payable to a member pursuant to an appropriation Act as Deputy Chairman or Assistant Deputy Chairman of a committee. (**indemnité annuelle**)
+**annual allowance** means an annual allowance payable to a member under section 62, 62.3 or 62.4 of the `Parliament of Canada Act` or payable to a member under an appropriation Act as Deputy Chair or Assistant Deputy Chair of a committee. (**indemnité annuelle**)
 
 
 ## Related Amendments
@@ -180,13 +136,7 @@ Subsection 54(1) of the `Access to Information Act` is replaced by the following
 
 ### Section 54
 
-  **(1)** The Governor in Council shall, by commission under the Great Seal, appoint an Information Commissioner after consultation with **the Leader of the Government in the Senate or Government Representative in the Senate, the Leader of the Opposition in the Senate, the Leader or Facilitator of every other recognized party or parliamentary group in the** Senate and the leader of every recognized party in the House of Commons and approval of the appointment by resolution of the Senate and House of Commons.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 54(1):
-> *Existing Text*:
-> > The Governor in Council shall, by commission under the Great Seal, appoint an Information Commissioner after consultation with the leader of every recognized party in the Senate and House of Commons and approval of the appointment by resolution of the Senate and House of Commons.
+  **(1)** The Governor in Council shall, by commission under the Great Seal, appoint an Information Commissioner after consultation with the Leader of the Government in the Senate or Government Representative in the Senate, the Leader of the Opposition in the Senate, the Leader or Facilitator of every other recognized party or parliamentary group in the Senate and the leader of every recognized party in the House of Commons and approval of the appointment by resolution of the Senate and House of Commons.
 
 
 ### Auditor General Act
@@ -197,13 +147,7 @@ Subsection 3(1) of the `Auditor General Act` is replaced by the following:
 
 ### Section 3
 
-  **(1)** The Governor in Council shall, by commission under the Great Seal, appoint an Auditor General of Canada after consultation with **the Leader of the Government in the Senate or Government Representative in the Senate, the Leader of the Opposition in the Senate, the Leader or Facilitator of every other recognized party or parliamentary group in the** Senate and the leader of every recognized party in the House of Commons and approval of the appointment by resolution of the Senate and House of Commons.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 3(1):
-> *Existing Text*:
-> > The Governor in Council shall, by commission under the Great Seal, appoint an Auditor General of Canada after consultation with the leader of every recognized party in the Senate and House of Commons and approval of the appointment by resolution of the Senate and House of Commons.
+  **(1)** The Governor in Council shall, by commission under the Great Seal, appoint an Auditor General of Canada after consultation with the Leader of the Government in the Senate or Government Representative in the Senate, the Leader of the Opposition in the Senate, the Leader or Facilitator of every other recognized party or parliamentary group in the Senate and the leader of every recognized party in the House of Commons and approval of the appointment by resolution of the Senate and House of Commons.
 
 
 ### Privacy Act
@@ -214,13 +158,7 @@ Subsection 53(1) of the `Privacy Act` is replaced by the following:
 
 ### Section 53
 
-  **(1)** The Governor in Council shall, by commission under the Great Seal, appoint a Privacy Commissioner after consultation with **the Leader of the Government in the Senate or Government Representative in the Senate, the Leader of the Opposition in the Senate, the Leader or Facilitator of every other recognized party or parliamentary group in the** Senate and the leader of every recognized party in the House of Commons and approval of the appointment by resolution of the Senate and House of Commons.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 53(1):
-> *Existing Text*:
-> > The Governor in Council shall, by commission under the Great Seal, appoint a Privacy Commissioner after consultation with the leader of every recognized party in the Senate and House of Commons and approval of the appointment by resolution of the Senate and House of Commons.
+  **(1)** The Governor in Council shall, by commission under the Great Seal, appoint a Privacy Commissioner after consultation with the Leader of the Government in the Senate or Government Representative in the Senate, the Leader of the Opposition in the Senate, the Leader or Facilitator of every other recognized party or parliamentary group in the Senate and the leader of every recognized party in the House of Commons and approval of the appointment by resolution of the Senate and House of Commons.
 
 
 ### Emergencies Act
@@ -229,13 +167,7 @@ Subsection 53(1) of the `Privacy Act` is replaced by the following:
 
 Subsection 62(2) of the `Emergencies Act` is replaced by the following:
 
-**(2)** The Parliamentary Review Committee shall include at least one member of the House of Commons from each party that has a recognized membership of **12** or more persons in that House and at least the **Leader of the Government in the Senate or Government Representative in the Senate, or his or her nominee, the Leader of the Opposition in the Senate, or his or her nominee, and the Leader or Facilitator who is referred to in any of paragraphs 62.4(1)(c) to (e) of the `Parliament of Canada Act`, or his or her nominee**.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 62(2):
-> *Existing Text*:
-> > The Parliamentary Review Committee shall include at least one member of the House of Commons from each party that has a recognized membership of twelve or more persons in that House and at least one senator from each party in the Senate that is represented on the committee by a member of the House of Commons.
+**(2)** The Parliamentary Review Committee shall include at least one member of the House of Commons from each party that has a recognized membership of 12 or more persons in that House and at least the Leader of the Government in the Senate or Government Representative in the Senate, or his or her nominee, the Leader of the Opposition in the Senate, or his or her nominee, and the Leader or Facilitator who is referred to in any of paragraphs 62.4(1)(c) to (e) of the `Parliament of Canada Act`, or his or her nominee.
 
 
 ### Official Languages Act
@@ -246,13 +178,7 @@ Subsection 49(1) of the `Official Languages Act` is replaced by the following:
 
 ### Section 49
 
-  **(1)** The Governor in Council shall, by commission under the Great Seal, appoint a Commissioner of Official Languages for Canada after consultation with **the Leader of the Government in the Senate or Government Representative in the Senate, the Leader of the Opposition in the Senate, the Leader or Facilitator of every other recognized party or parliamentary group in the** Senate and the leader of every recognized party in the House of Commons and approval of the appointment by resolution of the Senate and House of Commons.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 49(1):
-> *Existing Text*:
-> > The Governor in Council shall, by commission under the Great Seal, appoint a Commissioner of Official Languages for Canada after consultation with the leader of every recognized party in the Senate and House of Commons and approval of the appointment by resolution of the Senate and House of Commons.
+  **(1)** The Governor in Council shall, by commission under the Great Seal, appoint a Commissioner of Official Languages for Canada after consultation with the Leader of the Government in the Senate or Government Representative in the Senate, the Leader of the Opposition in the Senate, the Leader or Facilitator of every other recognized party or parliamentary group in the Senate and the leader of every recognized party in the House of Commons and approval of the appointment by resolution of the Senate and House of Commons.
 
 
 ### Lobbying Act
@@ -263,13 +189,7 @@ Subsection 4.1(1) of the `Lobbying Act` is replaced by the following:
 
 ### Section 4.1
 
-  **(1)** The Governor in Council shall, by commission under the Great Seal, appoint a Commissioner of Lobbying after consultation with **the Leader of the Government in the Senate or Government Representative in the Senate, the Leader of the Opposition in the Senate, the Leader or Facilitator of every other recognized party or parliamentary group in the** Senate and the leader of every recognized party in the House of Commons and approval of the appointment by resolution of the Senate and House of Commons.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 4.1(1):
-> *Existing Text*:
-> > The Governor in Council shall, by commission under the Great Seal, appoint a Commissioner of Lobbying after consultation with the leader of every recognized party in the Senate and House of Commons and approval of the appointment by resolution of the Senate and House of Commons.
+  **(1)** The Governor in Council shall, by commission under the Great Seal, appoint a Commissioner of Lobbying after consultation with the Leader of the Government in the Senate or Government Representative in the Senate, the Leader of the Opposition in the Senate, the Leader or Facilitator of every other recognized party or parliamentary group in the Senate and the leader of every recognized party in the House of Commons and approval of the appointment by resolution of the Senate and House of Commons.
 
 
 ### Public Servants Disclosure Protection Act
@@ -280,13 +200,7 @@ Subsection 39(1) of the `Public Servants Disclosure Protection Act` is replaced 
 
 ### Section 39
 
-  **(1)** The Governor in Council shall, by commission under the Great Seal, appoint a Public Sector Integrity Commissioner after consultation with **the Leader of the Government in the Senate or Government Representative in the Senate, the Leader of the Opposition in the Senate, the Leader or Facilitator of every other recognized party or parliamentary group in the** Senate and the leader of every recognized party in the House of Commons and approval of the appointment by resolution of the Senate and House of Commons.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 39(1):
-> *Existing Text*:
-> > The Governor in Council shall, by commission under the Great Seal, appoint a Public Sector Integrity Commissioner after consultation with the leader of every recognized party in the Senate and House of Commons and approval of the appointment by resolution of the Senate and House of Commons.
+  **(1)** The Governor in Council shall, by commission under the Great Seal, appoint a Public Sector Integrity Commissioner after consultation with the Leader of the Government in the Senate or Government Representative in the Senate, the Leader of the Opposition in the Senate, the Leader or Facilitator of every other recognized party or parliamentary group in the Senate and the leader of every recognized party in the House of Commons and approval of the appointment by resolution of the Senate and House of Commons.
 
 
 ### National Security and Intelligence Committee of Parliamentarians Act
@@ -295,13 +209,7 @@ Subsection 39(1) of the `Public Servants Disclosure Protection Act` is replaced 
 
 Subsection 5(2) of the `National Security and Intelligence Committee of Parliamentarians Act` is replaced by the following:
 
-**(2)** A member of the Senate may be appointed to the Committee only after the Prime Minister has consulted with the **Leader of the Government in the Senate or Government Representative** in the **Senate, the Leader of the Opposition in the Senate** and the Leader **or Facilitator** of every **other** recognized **party or parliamentary** group in the Senate.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 5(2):
-> *Existing Text*:
-> > A member of the Senate may be appointed to the Committee only after the Prime Minister has consulted with the persons referred to in paragraphs 62(a) and (b) of the `Parliament of Canada Act` and the leader of every caucus and of every recognized group in the Senate.
+**(2)** A member of the Senate may be appointed to the Committee only after the Prime Minister has consulted with the Leader of the Government in the Senate or Government Representative in the Senate, the Leader of the Opposition in the Senate and the Leader or Facilitator of every other recognized party or parliamentary group in the Senate.
 
 
 ### National Security and Intelligence Review Agency Act
@@ -312,15 +220,7 @@ Paragraphs 4(2)(a) and (b) of the `National Security and Intelligence Review Age
 
 the Leader of the Government in the Senate or Government Representative in the Senate and the Leader of the Opposition in the Senate;
 
-the Leader **or Facilitator** of every recognized **party or parliamentary** group in the Senate;
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 4(2):
-> *Existing Text*:
-> > A member may be appointed to the Review Agency only after consultation by the Prime Minister with
-> > the persons referred to in paragraphs 62(a) and (b) of the `Parliament of Canada Act`;
-> > the leader of every caucus and of every recognized group in the Senate;
+the Leader or Facilitator of every recognized party or parliamentary group in the Senate;
 
 
 ## Coming into Force
