@@ -71,7 +71,7 @@ subsection 423.2(1) (intimidation — health services),
 
   **(2)** Paragraph 515(4.3)(b) of the Act is replaced by the following:
 
-    an offence described in section 264 or 423.1 **or subsection 423.2(1)**;
+    an offence described in section 264 or 423.1 or subsection 423.2(1);
 
 ### Section 5
 
@@ -94,7 +94,8 @@ Paragraph 206.6(1)(a) of the `Canada Labour Code` is repealed.
 
   **(1)** Subsection 239(2) of the Act is replaced by the following:
 
-    **(1.2)** An employee earns, at the beginning of each month after completing one month of continuous employment with an employer, one day of medical leave of absence with pay, up to a maximum of 10 days in a calendar year.
+    **(1.2)** An employee earns, after completing **30 days** of continuous employment with an employer,
+one day of medical leave of absence with pay, up to a maximum of 10 days in a calendar year.
 
     **(1.3)** Each day of medical leave of absence with pay that an employee takes must be paid at their regular rate of wages for their normal hours of work, and that pay is for all purposes considered to be wages.
 
@@ -102,15 +103,15 @@ Paragraph 206.6(1)(a) of the `Canada Labour Code` is repealed.
 
     **(1.5)** The medical leave of absence with pay may be taken in one or more periods. The employer may require that each period of leave be of not less than one day's duration.
 
-    **(1.6)** The employer may, in writing and no later than 15 days after the return to work of an employee who has taken a medical leave of absence with pay, require the employee to provide a certificate issued by a health care practitioner certifying that the employee was incapable of working for the period of their medical leave of absence with pay.
+    **(1.6)** The employer may, in writing and no later than 15 days after the return to work of an employee who has taken a medical leave of absence with pay **of at least five consecutive days**, require the employee to provide a certificate issued by a health care practitioner certifying that the employee was incapable of working for the period of their medical leave of absence with pay.
 
-    **(2)** If a medical leave of absence **without pay** is three days or longer, the employer may require that the employee provide a certificate issued by a health care practitioner certifying that the employee was incapable of working for the period of **their medical leave of absence without pay**.
+    **(2)** If a medical leave of absence without pay is three days or longer, the employer may require that the employee provide a certificate issued by a health care practitioner certifying that the employee was incapable of working for the period of their medical leave of absence without pay.
 
   **(2)** Subsection 239(13) of the Act is replaced by the following:
 
     **(13)** The Governor in Council may make regulations
 
-      defining terms for the purposes of this Division, **including "regular rate of wages" and "normal hours of work"; and**
+      defining terms for the purposes of this Division, including "regular rate of wages" and "normal hours of work"; and
 
       modifying any provision of this Division respecting the medical leave of absence with pay for the purposes of applying this Division to any class of employees if, in the opinion of the Governor in Council,
 
