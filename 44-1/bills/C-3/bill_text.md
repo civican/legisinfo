@@ -1,7 +1,5 @@
 # Bill C-3: An Act to amend the Criminal Code and the Canada Labour Code
 
-**Sponsor**: MINISTER OF LABOUR
-
 ## Summary
 
 This enactment amends the `Criminal Code` to, among other things,
@@ -13,6 +11,13 @@ create an offence of obstructing or interfering with a person's lawful access to
 add the commission of an offence against a person who was providing health services and the commission of an offence that had the effect of impeding another person from obtaining health services as aggravating sentencing factors for any offence.
 
 It also amends the `Canada Labour Code` to, among other things,
+
+extend the
+period during which an employee may take a leave of absence
+from employment in the event of the death of a child 
+and provide for the entitlement of an
+employee to a leave of absence in the event of the loss of an unborn
+child;
 
 repeal the personal leave that an employee may take to treat their illness or injury;
 
@@ -59,7 +64,7 @@ The Act is amended by adding the following after section 423.1:
 
 ### Section 3
 
-Paragraph (c) of the definition **secondary designated offence** in section 487.04 of the Act is amended by adding the following after subparagraph (xi):
+Paragraph (c) of the definition **secondary designated offence** in section 487.04 of the Act is amended by adding the following after subpara­graph (xi):
 
 subsection 423.2(1) (intimidation — health services),
 
@@ -79,7 +84,7 @@ subsection 423.2(1) (intimidation — health services),
 
     evidence that the offence was committed against a person who, in the performance of their duties and functions, was providing health services, including personal care services,
 
-  **(2)** Paragraph 718.2(a) of the Act is amended by striking out "or" at the end of subparagraph (v), by adding "and" at the end of subparagraph (vi) and by adding the following after subparagraph (vi):
+  **(2)** Paragraph 718.2(a) of the Act is amended by striking out "or" at the end of subparagraph (v), by adding "and" at the end of subparagraph (vi) and by adding the following after subpara­graph (vi):
 
     evidence that the commission of the offence had the effect of impeding another person from obtaining health services, including personal care services,
 
@@ -90,20 +95,70 @@ subsection 423.2(1) (intimidation — health services),
 
 Paragraph 206.6(1)(a) of the `Canada Labour Code` is repealed.
 
+### Section 6.1
+
+Subsection 210(1) of the Act is replaced by the following:
+
+### Section 210
+
+  **(1)** Except when subsection (1.01) or (1.02) applies, every employee is entitled to and shall be granted, in the
+event of the death of a member of their immediate family or a family member in respect of whom the employee is, at the
+time of the death, on leave under section 206.3 or 206.4, a leave of absence from employment of up to 10 days that may be
+taken during the period that begins on the day on which the death occurs and ends six weeks after the latest of the days
+on which any funeral, burial or memorial service of that deceased person occurs.
+
+  **(1.01)** Every employee is entitled to and shall be granted, in the event of the death of a child of the employee or the
+death of a child of their spouse or common-law partner, a leave of absence from employment of up to eight weeks that
+may be taken during the period that begins on the day on which the death occurs and ends 12 weeks after the latest of
+the days on which any funeral, burial or memorial service of the child occurs.
+
+  **(1.02)** Every employee is entitled to and shall be granted, in the event of a stillbirth experienced by them or their spouse
+or common-law partner or where they would have been a parent, as defined in subsection 206.7(1), of the child born as a
+result of the pregnancy, a leave of absence from employment of up to eight weeks that may be taken during the period
+that begins on the day on which the stillbirth occurs and ends 12 weeks after the latest of the days on which any funeral,
+burial or memorial service in respect of the stillbirth occurs.
+
+  **(1.03)** The following definitions apply in subsections (1.01) and (1.02).
+
+    **child** means
+
+    a person who is under 18 years of age; or
+
+    a person in respect of whom the employee or their spouse or common-law partner, as the case may be, is entitled
+to the Canada caregiver credit under paragraph 118(1)(d) of the `Income Tax Act`. (**enfant**)
+
+    **stillbirth** means the complete expulsion or extraction of a fetus from a person on or after the twentieth week of pregnancy
+or after the fetus has attained at least 500 g, without any breathing, beating of the heart, pulsation of the umbilical
+cord or movement of voluntary muscle from the fetus after the expulsion or extraction. (**mortinaissance**)
+
 ### Section 7
 
   **(1)** Subsection 239(2) of the Act is replaced by the following:
 
-    **(1.2)** An employee earns, after completing **30 days** of continuous employment with an employer,
-one day of medical leave of absence with pay, up to a maximum of 10 days in a calendar year.
+    **(1.2)** An employee earns,
+
+      in the case of an employee whose employment with an employer begins on or before the day on which this subsection
+comes into force, in the calendar year in which this subsection comes into force, after completing 30 days of continuous
+employment with the employer, three days of medical leave of absence with pay and, after 60 days of continuous
+employment with the employer, at the beginning of each month after completing one month of continuous
+employment with the employer, one day of medical leave of absence with pay, up to a maximum of 10 days;
+
+      in the case of an employee whose employment with an employer begins after the day on which this subsection
+comes into force, in the calendar year during which they were employed, after completing 30 days of continuous employment
+with the employer, three days of medical leave of absence with pay and, after 60 days of continuous employment
+with the employer, at the beginning of each month after completing one month of continuous employment with
+the employer, one day of medical leave of absence with pay, up to a maximum of 10 days; and
+
+      in each subsequent calendar year, at the beginning of each month after completing one month of continuous employment
+with the employer, one day of medical leave of absence with pay, up to a maximum of 10 days.
 
     **(1.3)** Each day of medical leave of absence with pay that an employee takes must be paid at their regular rate of wages for their normal hours of work, and that pay is for all purposes considered to be wages.
 
-    **(1.4)** Each day of medical leave of absence with pay that an employee does not take in a calendar year is to be carried forward to January 1 of the following calendar year and decreases, by one, the maximum number of days that can be earned in that calendar year under subsection (1.2).
+    **(1.4)** Each day of medical leave of absence with pay that an employee does not take in a calendar year is to be carried forward to January 1 of the following calendar year and decreases, by one, the maximum number of days that can be earned in that calendar year under subsec­tion (1.2).
 
     **(1.5)** The medical leave of absence with pay may be taken in one or more periods. The employer may require that each period of leave be of not less than one day's duration.
 
-    **(1.6)** The employer may, in writing and no later than 15 days after the return to work of an employee who has taken a medical leave of absence with pay **of at least five consecutive days**, require the employee to provide a certificate issued by a health care practitioner certifying that the employee was incapable of working for the period of their medical leave of absence with pay.
+    **(1.6)** The employer may, in writing and no later than 15 days after the return to work of an employee who has taken a medical leave of absence with pay of at least five consecutive days, require the employee to provide a certificate issued by a health care practitioner certifying that the employee was incapable of working for the period of their medical leave of absence with pay.
 
     **(2)** If a medical leave of absence without pay is three days or longer, the employer may require that the employee provide a certificate issued by a health care practitioner certifying that the employee was incapable of working for the period of their medical leave of absence without pay.
 
@@ -127,4 +182,6 @@ one day of medical leave of absence with pay, up to a maximum of 10 days in a ca
   **(1)** Sections `1` to `5` come into force on the 30th day after the day on which this Act receives royal assent.
 
   **(2)** Sections `6` and `7` come into force on a day to be fixed by order of the Governor in Council.
+
+  **(3)** Section 6.1 comes into force on a day to be fixed by order of the Governor in Council.
 
