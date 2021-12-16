@@ -1,7 +1,5 @@
 # Bill C-2: An Act to provide further support in response to COVID-19
 
-**Sponsor**: DEPUTY PRIME MINISTER AND MINISTER OF FINANCE
-
 Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act to provide further support in response to COVID-19*".
 
 ## Summary
@@ -432,7 +430,7 @@ of the subsidiary of the company.
 
     **(14.1)** The amount of a refund made by the Minister to an eligible entity in respect of a deemed overpayment under subsection (2) on a particular date under subsection 164(1.6), in respect of any of the twenty-fourth qualifying period and any subsequent qualifying period, is deemed to be an amount that has been refunded to the eligible entity on that particular date (for the taxation year in which the refund was made) in excess of the amount to which the eligible entity was entitled as a refund under this Act to the extent of the lesser of the amount of the refund and the amount determined by the formula
 
-      is **the greater of**
+      is the greater of
 
       the executive compensation repayment amount of the eligible entity, and
 
