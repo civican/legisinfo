@@ -1,0 +1,2538 @@
+<Bills>
+  <Bill>
+    <Id>11528728</Id>
+    <NumberCode>C-11</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>11</Number>
+    <LongTitleEn>An Act to amend the Broadcasting Act and to make related and consequential amendments to other Acts</LongTitleEn>
+    <LongTitleFr>Loi modifiant la Loi sur la radiodiffusion et apportant des modifications connexes et corrélatives à d'autres lois</LongTitleFr>
+    <LongTitle>An Act to amend the Broadcasting Act and to make related and consequential amendments to other Acts</LongTitle>
+    <ShortTitleEn>Online Streaming Act</ShortTitleEn>
+    <ShortTitleFr>Loi sur la diffusion continue en ligne</ShortTitleFr>
+    <ShortTitle>Online Streaming Act</ShortTitle>
+    <StatusId>357</StatusId>
+    <StatusNameEn>Royal assent received</StatusNameEn>
+    <StatusNameFr>Sanction royale reçue</StatusNameFr>
+    <StatusName>Royal assent received</StatusName>
+    <LatestCompletedMajorStageId>60046</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>Royal assent</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Sanction royale</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>Royal assent</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>Royal assent</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>2</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>Senate</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Sénat</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>Senate</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60050</OngoingStageId>
+    <OngoingStageNameEn>Royal assent</OngoingStageNameEn>
+    <OngoingStageNameFr>Sanction royale</OngoingStageNameFr>
+    <OngoingStageName>Royal assent</OngoingStageName>
+    <LatestCompletedBillStageId>60050</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Royal assent</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Sanction royale</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Royal assent</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>2</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>Senate</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Sénat</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>Senate</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2023-04-27T18:30:00</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>44</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>25451</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Pablo</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Rodriguez</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Pablo Rodriguez</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Canadian Heritage</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre du Patrimoine canadien</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Canadian Heritage</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>4</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Minister</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>ministre</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Minister</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>665</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Honoré-Mercier</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Honoré-Mercier</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Honoré-Mercier</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60149</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Royal assent</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Sanction royale</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60050</LatestBillEventStageId>
+    <LatestBillEventTypeName>Royal assent</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2023-04-27T14:00:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>2</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>Senate</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Sénat</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>Senate</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>117</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2022-02-02T15:21:13.973</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime>2022-05-12T15:55:00</PassedHouseSecondReadingDateTime>
+    <PassedHouseThirdReadingDateTime>2022-06-21T16:00:00</PassedHouseThirdReadingDateTime>
+    <PassedSenateFirstReadingDateTime>2022-06-21T16:45:00</PassedSenateFirstReadingDateTime>
+    <PassedSenateSecondReadingDateTime>2022-10-25T16:40:00</PassedSenateSecondReadingDateTime>
+    <PassedSenateThirdReadingDateTime>2023-02-02T19:10:00</PassedSenateThirdReadingDateTime>
+    <ReceivedRoyalAssentDateTime>2023-04-27T18:30:00</ReceivedRoyalAssentDateTime>
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>true</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>true</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>true</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>true</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>true</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information, Education and Research Services of the Library of Parliament. Meanwhile, the following executive summary is available.&lt;br/&gt;&lt;br/&gt;On 4 February 2022, the Minister of Canadian Heritage introduced Bill C-11, An Act to amend the Broadcasting Act and to make related and consequential amendments to other Acts (Online Streaming Act) and it was given first reading.   &lt;br/&gt;&lt;br/&gt;Bill C-11 amends the Broadcasting Act to, among other things,&lt;br/&gt;(a) add online undertakings — undertakings for the transmission or retransmission of programs over the Internet — as a distinct class of broadcasting undertakings;&lt;br/&gt;(b) specify that the Act does not apply in respect of programs uploaded to an online undertaking that provides a social media service by a user of the service, unless the programs are prescribed by regulation;&lt;br/&gt;(c) update the broadcasting policy for Canada set out in section 3 of the Act by, among other things, providing that the Canadian broadcasting system should&lt;br/&gt;(i) serve the needs and interests of all Canadians, including Canadians from racialized communities and Canadians of diverse ethnocultural backgrounds, socio-economic statuses, abilities and disabilities, sexual orientations, gender identities and expressions, and ages, and&lt;br/&gt;(ii) provide opportunities to Indigenous persons, programming that reflects Indigenous cultures and that is in Indigenous languages, and programming that is accessible without barriers to persons with disabilities;&lt;br/&gt;(d) enhance the vitality of English and French linguistic minority communities in Canada and foster the full recognition and use of both English and French in Canadian society, including by supporting the production and broadcasting of original programs in both languages;&lt;br/&gt;(e) specify that the Canadian Radio-television and Telecommunications Commission (the "Commission") must regulate and supervise the Canadian broadcasting system in a manner that&lt;br/&gt;(i) takes into account the different characteristics of English, French and Indigenous language broadcasting and the different conditions under which broadcasting undertakings that provide English, French or Indigenous language programming operate,&lt;br/&gt;(ii) takes into account, among other things, the nature and diversity of the services provided by broadcasting undertakings,&lt;br/&gt;(iii) ensures that any broadcasting undertaking that cannot make maximum or predominant use of Canadian creative and other human resources in the creation, production and presentation of programming contributes to those Canadian resources in an equitable manner,&lt;br/&gt;(iv) facilitates the provision to Canadians of Canadian programs in both official languages, including those created and produced by English and French linguistic minority communities in Canada, as well as Canadian programs in Indigenous languages,&lt;br/&gt;(v) facilitates the provision of programs that are accessible without barriers to persons with disabilities, and&lt;br/&gt;(vi) takes into account the variety of broadcasting undertakings to which the Act applies and avoids imposing obligations on any class of broadcasting undertakings if that imposition will not contribute in a material manner to the implementation of the broadcasting policy;&lt;br/&gt;(f) amend the procedure relating to the issuance by the Governor in Council of policy directions to the Commission;&lt;br/&gt;(g) replace the Commission's power to impose conditions on a licence with a power to make orders imposing conditions on the carrying on of broadcasting undertakings;&lt;br/&gt;(h) provide the Commission with the power to require that persons carrying on broadcasting undertakings make expenditures to support the Canadian broadcasting system;&lt;br/&gt;(i) authorize the Commission to provide information to the Minister responsible for that Act, the Chief Statistician of Canada and the Commissioner of Competition, and set out in that Act a process by which a person who submits certain types of information to the Commission may designate the information as confidential;&lt;br/&gt;(j) amend the procedure by which the Governor in Council may, under section 28 of that Act, set aside a decision of the Commission to issue, amend or renew a licence or refer such a decision back to the Commission for reconsideration and hearing;&lt;br/&gt;(k) specify that a person shall not carry on a broadcasting undertaking, other than an online undertaking, unless they do so in accordance with a licence or they are exempt from the requirement to hold a licence;&lt;br/&gt;(l) harmonize the punishments for offences under Part II of that Act and clarify that a due diligence defence applies to the existing offences set out in that Act; and&lt;br/&gt;(m) allow for the imposition of administrative monetary penalties for violations of certain provisions of that Act or of the Accessible Canada Act .&lt;br/&gt;The enactment also makes related and consequential amendments to other Acts.&lt;/div&gt;</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>&lt;div&gt;Les Service d'information, d'éducation et de recherche parlementaires de la Bibliothèque du Parlement rédige actuellement le résumé législatif de ce projet de loi.  Entre-temps, le Service met à votre disposition le sommaire suivant.  &lt;br/&gt;&lt;br/&gt;Le 4 février 2022, le ministre du Patrimoine canadien a déposé le projet de loi C-11, Loi modifiant la Loi sur la radiodiffusion et apportant des modifications connexes et corrélatives à d'autres lois (Loi sur la diffusion continue en ligne) à la Chambre des communes en première lecture. &lt;br/&gt;&lt;br/&gt;Le projet de loi C-11 modifie la Loi sur la radiodiffusion afin, notamment :&lt;br/&gt;a) d'ajouter les entreprises en ligne — entreprises de transmission ou de retransmission d'émissions par Internet — en tant que catégorie distincte d'entreprises de radiodiffusion;&lt;br/&gt;b) de préciser que cette loi ne s'applique pas aux émissions téléversées par un utilisateur du service vers une entreprise en ligne fournissant un service de média social, à moins qu'elles soient visées par un règlement;&lt;br/&gt;c) de mettre à jour la politique canadienne de radiodiffusion énoncée à l'article 3 de cette loi en prévoyant, notamment, que le système canadien de radiodiffusion devrait :&lt;br/&gt;(i) d'une part, répondre aux besoins et aux intérêts de l'ensemble des Canadiens — notamment des Canadiens qui sont issus des communautés racisées ou qui représentent la diversité de par leurs antécédents ethnoculturels, leur statut socio-économique, leurs capacités et handicaps, leur orientation sexuelle, leur identité ou expression de genre et leur âge,&lt;br/&gt;(ii) d'autre part, offrir des possibilités aux Autochtones, une programmation en langues autochtones qui reflète les cultures autochtones ainsi qu'une programmation accessible aux personnes handicapées et exempte d'obstacles;&lt;br/&gt;d) de favoriser l'épanouissement des minorités francophones et anglophones du Canada et de promouvoir la pleine reconnaissance et l'usage du français et de l'anglais dans la société canadienne, notamment en soutenant la production et la radiodiffusion d'émissions originales dans l'une ou l'autre langue;&lt;br/&gt;e) de préciser que le Conseil de la radiodiffusion et des télécommunications canadiennes (le «?Conseil?») réglemente et surveille le système canadien de radiodiffusion d'une manière qui, à la fois :&lt;br/&gt;(i) tient compte des caractéristiques de la radiodiffusion dans les langues française, anglaise et autochtones et des conditions différentes d'exploitation auxquelles sont soumises les entreprises de radiodiffusion qui diffusent la programmation dans l'une ou l'autre langue,&lt;br/&gt;(ii) tient compte, entre autres, de la nature et de la diversité des services fournis par les entreprises de radiodiffusion,&lt;br/&gt;(iii) assure que toute entreprise de radiodiffusion qui ne peut faire appel au maximum ou de manière prédominante aux ressources humaines — créatrices et autres — canadiennes pour la création, la production et la présentation de leur programmation contribue à ces ressources canadiennes d'une manière équitable,&lt;br/&gt;(iv) favorise la présentation aux Canadiens d'émissions canadiennes dans les deux langues officielles — notamment celles créées et produites par les minorités francophones et anglophones du Canada — de même qu'en langues autochtones,&lt;br/&gt;(v) favorise la présentation d'émissions accessibles aux personnes handicapées et exemptes d'obstacles,&lt;br/&gt;(vi) tient compte de la grande diversité d'entreprises assujetties à cette loi et évite d'imposer des obligations à l'égard de toute catégorie d'entreprises de radiodiffusion si une telle mesure ne contribue pas de façon importante à la mise en œuvre de la politique de radiodiffusion;&lt;br/&gt;f) de modifier la procédure par laquelle le gouverneur en conseil peut donner des instructions au Conseil au chapitre des grandes questions d'orientation;&lt;br/&gt;g) de remplacer le pouvoir du Conseil d'imposer des conditions attachées à une licence par celui de rendre des ordonnances imposant des conditions d'exploitation aux entreprises de radiodiffusion;&lt;br/&gt;h) d'octroyer au Conseil le pouvoir d'exiger certaines dépenses des exploitants d'entreprises de radiodiffusion afin de soutenir le système canadien de radiodiffusion;&lt;br/&gt;i) de permettre au Conseil de communiquer des renseignements au ministre chargé de l'application de cette loi, au statisticien en chef du Canada et au commissaire de la concurrence et de prévoir un processus par lequel certains renseignements peuvent être désignés comme confidentiels par la personne qui les fournit au Conseil;&lt;br/&gt;j) de modifier la procédure par laquelle le gouverneur en conseil peut, en vertu de l'article 28 de cette loi, annuler ou renvoyer au Conseil pour réexamen et nouvelle audience la décision de celui-ci d'attribuer, de modifier ou de renouveler une licence;&lt;br/&gt;k) de préciser qu'il est interdit d'exploiter une entreprise de radiodiffusion — autre qu'une entreprise en ligne —, à moins de le faire en conformité avec une licence ou d'être soustrait à l'obligation d'en détenir une;&lt;br/&gt;l) d'harmoniser les peines relatives aux infractions sous le régime de la partie II de cette loi et de préciser que la défense de prise des précautions voulues peut être invoquée à l'encontre des infractions qui y sont déjà prévues;&lt;br/&gt;m) de permettre l'infliction de sanctions administratives pécuniaires en cas de violation de certaines dispositions de cette loi ou de la Loi canadienne sur l'accessibilité.&lt;br/&gt;En outre, le texte apporte des modifications connexes et corrélatives à d'autres lois.&lt;/div&gt;</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information, Education and Research Services of the Library of Parliament. Meanwhile, the following executive summary is available.&lt;br/&gt;&lt;br/&gt;On 4 February 2022, the Minister of Canadian Heritage introduced Bill C-11, An Act to amend the Broadcasting Act and to make related and consequential amendments to other Acts (Online Streaming Act) and it was given first reading.   &lt;br/&gt;&lt;br/&gt;Bill C-11 amends the Broadcasting Act to, among other things,&lt;br/&gt;(a) add online undertakings — undertakings for the transmission or retransmission of programs over the Internet — as a distinct class of broadcasting undertakings;&lt;br/&gt;(b) specify that the Act does not apply in respect of programs uploaded to an online undertaking that provides a social media service by a user of the service, unless the programs are prescribed by regulation;&lt;br/&gt;(c) update the broadcasting policy for Canada set out in section 3 of the Act by, among other things, providing that the Canadian broadcasting system should&lt;br/&gt;(i) serve the needs and interests of all Canadians, including Canadians from racialized communities and Canadians of diverse ethnocultural backgrounds, socio-economic statuses, abilities and disabilities, sexual orientations, gender identities and expressions, and ages, and&lt;br/&gt;(ii) provide opportunities to Indigenous persons, programming that reflects Indigenous cultures and that is in Indigenous languages, and programming that is accessible without barriers to persons with disabilities;&lt;br/&gt;(d) enhance the vitality of English and French linguistic minority communities in Canada and foster the full recognition and use of both English and French in Canadian society, including by supporting the production and broadcasting of original programs in both languages;&lt;br/&gt;(e) specify that the Canadian Radio-television and Telecommunications Commission (the "Commission") must regulate and supervise the Canadian broadcasting system in a manner that&lt;br/&gt;(i) takes into account the different characteristics of English, French and Indigenous language broadcasting and the different conditions under which broadcasting undertakings that provide English, French or Indigenous language programming operate,&lt;br/&gt;(ii) takes into account, among other things, the nature and diversity of the services provided by broadcasting undertakings,&lt;br/&gt;(iii) ensures that any broadcasting undertaking that cannot make maximum or predominant use of Canadian creative and other human resources in the creation, production and presentation of programming contributes to those Canadian resources in an equitable manner,&lt;br/&gt;(iv) facilitates the provision to Canadians of Canadian programs in both official languages, including those created and produced by English and French linguistic minority communities in Canada, as well as Canadian programs in Indigenous languages,&lt;br/&gt;(v) facilitates the provision of programs that are accessible without barriers to persons with disabilities, and&lt;br/&gt;(vi) takes into account the variety of broadcasting undertakings to which the Act applies and avoids imposing obligations on any class of broadcasting undertakings if that imposition will not contribute in a material manner to the implementation of the broadcasting policy;&lt;br/&gt;(f) amend the procedure relating to the issuance by the Governor in Council of policy directions to the Commission;&lt;br/&gt;(g) replace the Commission's power to impose conditions on a licence with a power to make orders imposing conditions on the carrying on of broadcasting undertakings;&lt;br/&gt;(h) provide the Commission with the power to require that persons carrying on broadcasting undertakings make expenditures to support the Canadian broadcasting system;&lt;br/&gt;(i) authorize the Commission to provide information to the Minister responsible for that Act, the Chief Statistician of Canada and the Commissioner of Competition, and set out in that Act a process by which a person who submits certain types of information to the Commission may designate the information as confidential;&lt;br/&gt;(j) amend the procedure by which the Governor in Council may, under section 28 of that Act, set aside a decision of the Commission to issue, amend or renew a licence or refer such a decision back to the Commission for reconsideration and hearing;&lt;br/&gt;(k) specify that a person shall not carry on a broadcasting undertaking, other than an online undertaking, unless they do so in accordance with a licence or they are exempt from the requirement to hold a licence;&lt;br/&gt;(l) harmonize the punishments for offences under Part II of that Act and clarify that a due diligence defence applies to the existing offences set out in that Act; and&lt;br/&gt;(m) allow for the imposition of administrative monetary penalties for violations of certain provisions of that Act or of the Accessible Canada Act .&lt;br/&gt;The enactment also makes related and consequential amendments to other Acts.&lt;/div&gt;</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear>2023</StatuteYear>
+    <StatuteChapter>8</StatuteChapter>
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2022-02-02T15:21:13.973</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>22</Number>
+          <Date>2022-02-02T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2022-02-02T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2022-02-02T15:21:13.973</EventStartDateTime>
+          <EventEndDateTime>2022-02-02T15:21:13.973</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2022-02-02T15:21:13.973</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2022-05-12T15:55:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>27177</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Canadian Heritage</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent du patrimoine canadien</CommitteeNameFr>
+          <CommitteeAcronym>CHPC</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Canadian Heritage</CommitteeName>
+          <StudyActivityId>11685743</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>32</Number>
+          <Date>2022-02-16T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>37</Number>
+          <Date>2022-02-28T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>48</Number>
+          <Date>2022-03-29T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>65</Number>
+          <Date>2022-05-05T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>69</Number>
+          <Date>2022-05-11T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>70</Number>
+          <Date>2022-05-12T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>11682281</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>11536472</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>2nd reading and referral to committee - CHPC</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>2e lecture et renvoi en comité - CHPC</DecisionMotionTitleFr>
+          <DecisionMotionTitle>2nd reading and referral to committee - CHPC</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>10</DecisionMethodId>
+          <DecisionMethodNameEn>On recorded division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Suivant un vote par appel nominal</DecisionMethodNameFr>
+          <DecisionMethodName>On recorded division</DecisionMethodName>
+          <DivisionNumber>89</DivisionNumber>
+          <DivisionVotesYeas>208</DivisionVotesYeas>
+          <DivisionVotesNays>111</DivisionVotesNays>
+          <DivisionVotePaired>2</DivisionVotePaired>
+          <DecisionSittingDate>2022-05-12T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>70</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60121</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading and referral to committee</EventNameEn>
+          <EventNameFr>Deuxième lecture et renvoi en comité</EventNameFr>
+          <EventName>Second reading and referral to committee</EventName>
+          <EventDateTime>2022-05-12T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60121</EventTypeId>
+          <EventTypeNameEn>Second reading and referral to committee</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture et renvoi en comité</EventTypeNameFr>
+          <EventTypeName>Second reading and referral to committee</EventTypeName>
+          <EventStartDateTime>2022-05-12T15:55:00</EventStartDateTime>
+          <EventEndDateTime>2022-05-12T15:55:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2022-05-12T15:55:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>11528639</InterventionEventId>
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>25451</PersonId>
+          <PersonOfficialFirstName>Pablo</PersonOfficialFirstName>
+          <PersonOfficialLastName>Rodriguez</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Pablo Rodriguez</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>32</MeetingNumber>
+          <SpeechDateTime>2022-02-16T16:16:58</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>11528959</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>88917</PersonId>
+          <PersonOfficialFirstName>John</PersonOfficialFirstName>
+          <PersonOfficialLastName>Nater</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>John Nater</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>32</MeetingNumber>
+          <SpeechDateTime>2022-02-16T16:49:40</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>11529298</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>110306</PersonId>
+          <PersonOfficialFirstName>René</PersonOfficialFirstName>
+          <PersonOfficialLastName>Villemure</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>René Villemure</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Bloc Québécois</CaucusShortNameEn>
+          <CaucusShortNameFr>Bloc Québécois</CaucusShortNameFr>
+          <CaucusShortName>Bloc Québécois</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>32</MeetingNumber>
+          <SpeechDateTime>2022-02-16T17:19:59</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>11529675</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>58775</PersonId>
+          <PersonOfficialFirstName>Alexandre</PersonOfficialFirstName>
+          <PersonOfficialLastName>Boulerice</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Alexandre Boulerice</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>NDP</CaucusShortNameEn>
+          <CaucusShortNameFr>NPD</CaucusShortNameFr>
+          <CaucusShortName>NDP</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>32</MeetingNumber>
+          <SpeechDateTime>2022-02-16T17:49:17</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2022-06-15T20:48:51.87</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>27177</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Canadian Heritage</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent du patrimoine canadien</CommitteeNameFr>
+          <CommitteeAcronym>CHPC</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Canadian Heritage</CommitteeName>
+          <StudyActivityId>11685743</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented with amendments</NameEn>
+          <NameFr>Présentation du rapport de comité avec des amendements</NameFr>
+          <Name>Committee report presented with amendments</Name>
+          <Number>89</Number>
+          <Date>2022-06-15T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27177</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Canadian Heritage</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent du patrimoine canadien</CommitteeNameFr>
+          <CommitteeAcronym>CHPC</CommitteeAcronym>
+          <Number>23</Number>
+          <Date>2022-05-24T00:00:00</Date>
+          <CommitteeName>Standing Committee on Canadian Heritage</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27177</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Canadian Heritage</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent du patrimoine canadien</CommitteeNameFr>
+          <CommitteeAcronym>CHPC</CommitteeAcronym>
+          <Number>24</Number>
+          <Date>2022-05-30T00:00:00</Date>
+          <CommitteeName>Standing Committee on Canadian Heritage</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27177</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Canadian Heritage</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent du patrimoine canadien</CommitteeNameFr>
+          <CommitteeAcronym>CHPC</CommitteeAcronym>
+          <Number>25</Number>
+          <Date>2022-05-30T00:00:00</Date>
+          <CommitteeName>Standing Committee on Canadian Heritage</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27177</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Canadian Heritage</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent du patrimoine canadien</CommitteeNameFr>
+          <CommitteeAcronym>CHPC</CommitteeAcronym>
+          <Number>26</Number>
+          <Date>2022-05-31T00:00:00</Date>
+          <CommitteeName>Standing Committee on Canadian Heritage</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27177</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Canadian Heritage</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent du patrimoine canadien</CommitteeNameFr>
+          <CommitteeAcronym>CHPC</CommitteeAcronym>
+          <Number>27</Number>
+          <Date>2022-05-31T00:00:00</Date>
+          <CommitteeName>Standing Committee on Canadian Heritage</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27177</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Canadian Heritage</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent du patrimoine canadien</CommitteeNameFr>
+          <CommitteeAcronym>CHPC</CommitteeAcronym>
+          <Number>28</Number>
+          <Date>2022-05-31T00:00:00</Date>
+          <CommitteeName>Standing Committee on Canadian Heritage</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27177</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Canadian Heritage</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent du patrimoine canadien</CommitteeNameFr>
+          <CommitteeAcronym>CHPC</CommitteeAcronym>
+          <Number>29</Number>
+          <Date>2022-06-01T00:00:00</Date>
+          <CommitteeName>Standing Committee on Canadian Heritage</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27177</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Canadian Heritage</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent du patrimoine canadien</CommitteeNameFr>
+          <CommitteeAcronym>CHPC</CommitteeAcronym>
+          <Number>30</Number>
+          <Date>2022-06-02T00:00:00</Date>
+          <CommitteeName>Standing Committee on Canadian Heritage</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27177</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Canadian Heritage</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent du patrimoine canadien</CommitteeNameFr>
+          <CommitteeAcronym>CHPC</CommitteeAcronym>
+          <Number>31</Number>
+          <Date>2022-06-06T00:00:00</Date>
+          <CommitteeName>Standing Committee on Canadian Heritage</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27177</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Canadian Heritage</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent du patrimoine canadien</CommitteeNameFr>
+          <CommitteeAcronym>CHPC</CommitteeAcronym>
+          <Number>34</Number>
+          <Date>2022-06-14T00:00:00</Date>
+          <CommitteeName>Standing Committee on Canadian Heritage</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27177</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Canadian Heritage</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent du patrimoine canadien</CommitteeNameFr>
+          <CommitteeAcronym>CHPC</CommitteeAcronym>
+          <Number>35</Number>
+          <Date>2022-06-14T00:00:00</Date>
+          <CommitteeName>Standing Committee on Canadian Heritage</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27177</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Canadian Heritage</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent du patrimoine canadien</CommitteeNameFr>
+          <CommitteeAcronym>CHPC</CommitteeAcronym>
+          <Number>36</Number>
+          <Date>2022-06-14T00:00:00</Date>
+          <CommitteeName>Standing Committee on Canadian Heritage</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented with amendments</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité avec des amendements</EventNameFr>
+          <EventName>Committee report presented with amendments</EventName>
+          <EventDateTime>2022-06-15T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId>11872964</CommitteeReportId>
+          <CommitteeReportNumber>2</CommitteeReportNumber>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2022-06-15T20:48:51.87</EventStartDateTime>
+          <EventEndDateTime>2022-06-15T20:48:51.87</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2022-06-15T20:48:51.87</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2022-06-20T15:45:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>91</Number>
+          <Date>2022-06-17T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>92</Number>
+          <Date>2022-06-20T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60285</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Concurrence at report stage</EventNameEn>
+          <EventNameFr>Adoption à l'étape du rapport</EventNameFr>
+          <EventName>Concurrence at report stage</EventName>
+          <EventDateTime>2022-06-20T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60285</EventTypeId>
+          <EventTypeNameEn>Concurrence at report stage</EventTypeNameEn>
+          <EventTypeNameFr>Adoption à l'étape du rapport</EventTypeNameFr>
+          <EventTypeName>Concurrence at report stage</EventTypeName>
+          <EventStartDateTime>2022-06-20T15:45:00</EventStartDateTime>
+          <EventEndDateTime>2022-06-20T15:45:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2022-06-20T15:45:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2022-06-21T16:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>92</Number>
+          <Date>2022-06-20T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>93</Number>
+          <Date>2022-06-21T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>11783867</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>11536474</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>3rd reading</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>3e lecture</DecisionMotionTitleFr>
+          <DecisionMotionTitle>3rd reading</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>10</DecisionMethodId>
+          <DecisionMethodNameEn>On recorded division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Suivant un vote par appel nominal</DecisionMethodNameFr>
+          <DecisionMethodName>On recorded division</DecisionMethodName>
+          <DivisionNumber>164</DivisionNumber>
+          <DivisionVotesYeas>208</DivisionVotesYeas>
+          <DivisionVotesNays>117</DivisionVotesNays>
+          <DivisionVotePaired>2</DivisionVotePaired>
+          <DecisionSittingDate>2022-06-21T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>93</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2022-06-21T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2022-06-21T16:00:00</EventStartDateTime>
+          <EventEndDateTime>2022-06-21T16:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2022-06-21T16:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60038</BillStageId>
+        <BillStageNameEn>Senate pre-study</BillStageNameEn>
+        <BillStageNameFr>Étude préalable au Sénat</BillStageNameFr>
+        <BillStageName>Senate pre-study</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2022-10-25T23:30:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16103</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Transport and Communications</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des transports et des communications</CommitteeNameFr>
+          <CommitteeAcronym>TRCM</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Transport and Communications</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Pre-study of House bill</NameEn>
+          <NameFr>Étude préalable d'un projet de loi émanant de la Chambre des communes</NameFr>
+          <Name>Pre-study of House bill</Name>
+          <Number>47</Number>
+          <Date>2022-05-31T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Pre-Study of Commons Bill Completed</NameEn>
+          <NameFr>Étude préalable d'un projet de loi émanant de la Chambre des communes complétée</NameFr>
+          <Name>Pre-Study of Commons Bill Completed</Name>
+          <Number>73</Number>
+          <Date>2022-10-25T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16103</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Transport and Communications</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des transports et des communications</CommitteeNameFr>
+          <CommitteeAcronym>TRCM</CommitteeAcronym>
+          <Number>11</Number>
+          <Date>2022-06-15T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Transport and Communications</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16103</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Transport and Communications</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des transports et des communications</CommitteeNameFr>
+          <CommitteeAcronym>TRCM</CommitteeAcronym>
+          <Number>12</Number>
+          <Date>2022-06-21T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Transport and Communications</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16103</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Transport and Communications</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des transports et des communications</CommitteeNameFr>
+          <CommitteeAcronym>TRCM</CommitteeAcronym>
+          <Number>13</Number>
+          <Date>2022-06-22T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Transport and Communications</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16103</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Transport and Communications</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des transports et des communications</CommitteeNameFr>
+          <CommitteeAcronym>TRCM</CommitteeAcronym>
+          <Number>14</Number>
+          <Date>2022-09-14T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Transport and Communications</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16103</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Transport and Communications</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des transports et des communications</CommitteeNameFr>
+          <CommitteeAcronym>TRCM</CommitteeAcronym>
+          <Number>15</Number>
+          <Date>2022-09-14T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Transport and Communications</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16103</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Transport and Communications</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des transports et des communications</CommitteeNameFr>
+          <CommitteeAcronym>TRCM</CommitteeAcronym>
+          <Number>16</Number>
+          <Date>2022-09-15T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Transport and Communications</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16103</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Transport and Communications</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des transports et des communications</CommitteeNameFr>
+          <CommitteeAcronym>TRCM</CommitteeAcronym>
+          <Number>17</Number>
+          <Date>2022-09-15T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Transport and Communications</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16103</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Transport and Communications</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des transports et des communications</CommitteeNameFr>
+          <CommitteeAcronym>TRCM</CommitteeAcronym>
+          <Number>18</Number>
+          <Date>2022-09-20T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Transport and Communications</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16103</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Transport and Communications</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des transports et des communications</CommitteeNameFr>
+          <CommitteeAcronym>TRCM</CommitteeAcronym>
+          <Number>19</Number>
+          <Date>2022-09-21T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Transport and Communications</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16103</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Transport and Communications</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des transports et des communications</CommitteeNameFr>
+          <CommitteeAcronym>TRCM</CommitteeAcronym>
+          <Number>20</Number>
+          <Date>2022-09-27T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Transport and Communications</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16103</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Transport and Communications</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des transports et des communications</CommitteeNameFr>
+          <CommitteeAcronym>TRCM</CommitteeAcronym>
+          <Number>21</Number>
+          <Date>2022-09-28T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Transport and Communications</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16103</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Transport and Communications</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des transports et des communications</CommitteeNameFr>
+          <CommitteeAcronym>TRCM</CommitteeAcronym>
+          <Number>22</Number>
+          <Date>2022-10-04T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Transport and Communications</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16103</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Transport and Communications</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des transports et des communications</CommitteeNameFr>
+          <CommitteeAcronym>TRCM</CommitteeAcronym>
+          <Number>23</Number>
+          <Date>2022-10-05T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Transport and Communications</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16103</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Transport and Communications</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des transports et des communications</CommitteeNameFr>
+          <CommitteeAcronym>TRCM</CommitteeAcronym>
+          <Number>24</Number>
+          <Date>2022-10-18T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Transport and Communications</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16103</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Transport and Communications</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des transports et des communications</CommitteeNameFr>
+          <CommitteeAcronym>TRCM</CommitteeAcronym>
+          <Number>25</Number>
+          <Date>2022-10-19T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Transport and Communications</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16103</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Transport and Communications</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des transports et des communications</CommitteeNameFr>
+          <CommitteeAcronym>TRCM</CommitteeAcronym>
+          <Number>26</Number>
+          <Date>2022-10-25T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Transport and Communications</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60109</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Pre-study of House bill</EventNameEn>
+          <EventNameFr>Étude préalable d'un projet de loi émanant de la Chambre des communes</EventNameFr>
+          <EventName>Pre-study of House bill</EventName>
+          <EventDateTime>2022-05-31T22:00:00</EventDateTime>
+          <IsCompletionOfBillStage>false</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <SignificantEvents>
+          <EventTypeId>90362</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Pre-Study of Commons Bill Completed</EventNameEn>
+          <EventNameFr>Étude préalable d'un projet de loi émanant de la Chambre des communes complétée</EventNameFr>
+          <EventName>Pre-Study of Commons Bill Completed</EventName>
+          <EventDateTime>2022-10-25T23:30:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>90362</EventTypeId>
+          <EventTypeNameEn>Pre-Study of Commons Bill Completed</EventTypeNameEn>
+          <EventTypeNameFr>Étude préalable d'un projet de loi émanant de la Chambre des communes complétée</EventTypeNameFr>
+          <EventTypeName>Pre-Study of Commons Bill Completed</EventTypeName>
+          <EventStartDateTime>2022-10-25T23:30:00</EventStartDateTime>
+          <EventEndDateTime>2022-10-25T23:30:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2022-10-25T23:30:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2022-06-21T16:45:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>First reading</NameEn>
+          <NameFr>Première lecture</NameFr>
+          <Name>First reading</Name>
+          <Number>57</Number>
+          <Date>2022-06-21T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60111</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>First reading</EventNameEn>
+          <EventNameFr>Première lecture</EventNameFr>
+          <EventName>First reading</EventName>
+          <EventDateTime>2022-06-21T16:45:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60111</EventTypeId>
+          <EventTypeNameEn>First reading</EventTypeNameEn>
+          <EventTypeNameFr>Première lecture</EventTypeNameFr>
+          <EventTypeName>First reading</EventTypeName>
+          <EventStartDateTime>2022-06-21T16:45:00</EventStartDateTime>
+          <EventEndDateTime>2022-06-21T16:45:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2022-06-21T16:45:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2022-10-25T16:40:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16103</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Transport and Communications</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des transports et des communications</CommitteeNameFr>
+          <CommitteeAcronym>TRCM</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Transport and Communications</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>59</Number>
+          <Date>2022-06-23T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>61</Number>
+          <Date>2022-09-21T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>62</Number>
+          <Date>2022-09-22T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>63</Number>
+          <Date>2022-09-27T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>70</Number>
+          <Date>2022-10-18T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>71</Number>
+          <Date>2022-10-19T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>73</Number>
+          <Date>2022-10-25T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60120</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading</EventNameEn>
+          <EventNameFr>Deuxième lecture</EventNameFr>
+          <EventName>Second reading</EventName>
+          <EventDateTime>2022-10-25T16:40:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <SignificantEvents>
+          <EventTypeId>60123</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Referral to committee</EventNameEn>
+          <EventNameFr>Renvoi en comité</EventNameFr>
+          <EventName>Referral to committee</EventName>
+          <EventDateTime>2022-10-25T16:50:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60120</EventTypeId>
+          <EventTypeNameEn>Second reading</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture</EventTypeNameFr>
+          <EventTypeName>Second reading</EventTypeName>
+          <EventStartDateTime>2022-10-25T16:40:00</EventStartDateTime>
+          <EventEndDateTime>2022-10-25T16:40:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>5</StageEventCount>
+        <LastStageEventStartDateTime>2022-10-25T16:50:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>31079</PersonId>
+          <PersonOfficialFirstName>Dennis</PersonOfficialFirstName>
+          <PersonOfficialLastName>Dawson</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Dennis Dawson</PersonName>
+          <SenateSystemAffiliationId>2785</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Progressive Senate Group</CaucusShortNameEn>
+          <CaucusShortNameFr>Groupe progressiste du Sénat</CaucusShortNameFr>
+          <CaucusShortName>Progressive Senate Group</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>61</MeetingNumber>
+          <SpeechDateTime>2022-09-21T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/441/debates/061db_2022-09-21-e#48</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/441/debates/061db_2022-09-21-f#48</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/441/debates/061db_2022-09-21-e#48</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>29971</PersonId>
+          <PersonOfficialFirstName>Leo</PersonOfficialFirstName>
+          <PersonOfficialLastName>Housakos</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Leo Housakos</PersonName>
+          <SenateSystemAffiliationId>2818</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>73</MeetingNumber>
+          <SpeechDateTime>2022-10-25T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/441/debates/073db_2022-10-25-e?language=e#35</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/441/debates/073db_2022-10-25-f#35</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/441/debates/073db_2022-10-25-e?language=e#35</Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>true</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2022-12-14T15:20:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16103</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Transport and Communications</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des transports et des communications</CommitteeNameFr>
+          <CommitteeAcronym>TRCM</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Transport and Communications</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented with amendments</NameEn>
+          <NameFr>Présentation du rapport de comité avec des amendements</NameFr>
+          <Name>Committee report presented with amendments</Name>
+          <Number>92</Number>
+          <Date>2022-12-14T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16103</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Transport and Communications</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des transports et des communications</CommitteeNameFr>
+          <CommitteeAcronym>TRCM</CommitteeAcronym>
+          <Number>27</Number>
+          <Date>2022-10-26T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Transport and Communications</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16103</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Transport and Communications</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des transports et des communications</CommitteeNameFr>
+          <CommitteeAcronym>TRCM</CommitteeAcronym>
+          <Number>28</Number>
+          <Date>2022-11-01T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Transport and Communications</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16103</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Transport and Communications</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des transports et des communications</CommitteeNameFr>
+          <CommitteeAcronym>TRCM</CommitteeAcronym>
+          <Number>29</Number>
+          <Date>2022-11-02T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Transport and Communications</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16103</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Transport and Communications</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des transports et des communications</CommitteeNameFr>
+          <CommitteeAcronym>TRCM</CommitteeAcronym>
+          <Number>30</Number>
+          <Date>2022-11-15T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Transport and Communications</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16103</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Transport and Communications</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des transports et des communications</CommitteeNameFr>
+          <CommitteeAcronym>TRCM</CommitteeAcronym>
+          <Number>31</Number>
+          <Date>2022-11-16T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Transport and Communications</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16103</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Transport and Communications</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des transports et des communications</CommitteeNameFr>
+          <CommitteeAcronym>TRCM</CommitteeAcronym>
+          <Number>32</Number>
+          <Date>2022-11-22T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Transport and Communications</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16103</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Transport and Communications</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des transports et des communications</CommitteeNameFr>
+          <CommitteeAcronym>TRCM</CommitteeAcronym>
+          <Number>33</Number>
+          <Date>2022-11-23T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Transport and Communications</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16103</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Transport and Communications</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des transports et des communications</CommitteeNameFr>
+          <CommitteeAcronym>TRCM</CommitteeAcronym>
+          <Number>34</Number>
+          <Date>2022-11-29T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Transport and Communications</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16103</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Transport and Communications</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des transports et des communications</CommitteeNameFr>
+          <CommitteeAcronym>TRCM</CommitteeAcronym>
+          <Number>35</Number>
+          <Date>2022-11-30T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Transport and Communications</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16103</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Transport and Communications</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des transports et des communications</CommitteeNameFr>
+          <CommitteeAcronym>TRCM</CommitteeAcronym>
+          <Number>36</Number>
+          <Date>2022-12-06T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Transport and Communications</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16103</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Transport and Communications</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des transports et des communications</CommitteeNameFr>
+          <CommitteeAcronym>TRCM</CommitteeAcronym>
+          <Number>37</Number>
+          <Date>2022-12-06T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Transport and Communications</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16103</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Transport and Communications</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des transports et des communications</CommitteeNameFr>
+          <CommitteeAcronym>TRCM</CommitteeAcronym>
+          <Number>38</Number>
+          <Date>2022-12-07T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Transport and Communications</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16103</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Transport and Communications</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des transports et des communications</CommitteeNameFr>
+          <CommitteeAcronym>TRCM</CommitteeAcronym>
+          <Number>39</Number>
+          <Date>2022-12-07T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Transport and Communications</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16103</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Transport and Communications</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des transports et des communications</CommitteeNameFr>
+          <CommitteeAcronym>TRCM</CommitteeAcronym>
+          <Number>40</Number>
+          <Date>2022-12-08T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Transport and Communications</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16103</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Transport and Communications</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des transports et des communications</CommitteeNameFr>
+          <CommitteeAcronym>TRCM</CommitteeAcronym>
+          <Number>41</Number>
+          <Date>2022-12-08T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Transport and Communications</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented with amendments</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité avec des amendements</EventNameFr>
+          <EventName>Committee report presented with amendments</EventName>
+          <EventDateTime>2022-12-14T15:20:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2022-12-14T15:20:00</EventStartDateTime>
+          <EventEndDateTime>2022-12-14T15:20:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2022-12-14T15:20:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2022-12-14T15:52:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16103</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Transport and Communications</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des transports et des communications</CommitteeNameFr>
+          <CommitteeAcronym>TRCM</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Transport and Communications</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at consideration of committee report</NameEn>
+          <NameFr>Débat à l'étape de l'étude du rapport de comité</NameFr>
+          <Name>Debate at consideration of committee report</Name>
+          <Number>92</Number>
+          <Date>2022-12-14T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60130</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report adopted</EventNameEn>
+          <EventNameFr>Adoption du rapport de comité</EventNameFr>
+          <EventName>Committee report adopted</EventName>
+          <EventDateTime>2022-12-14T15:52:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60130</EventTypeId>
+          <EventTypeNameEn>Committee report adopted</EventTypeNameEn>
+          <EventTypeNameFr>Adoption du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report adopted</EventTypeName>
+          <EventStartDateTime>2022-12-14T15:52:00</EventStartDateTime>
+          <EventEndDateTime>2022-12-14T15:52:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2022-12-14T15:52:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2023-02-02T19:10:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>94</Number>
+          <Date>2023-01-31T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>95</Number>
+          <Date>2023-02-01T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>96</Number>
+          <Date>2023-02-02T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2023-02-02T19:10:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>Bill passed by the Senate with amendments</AdditionalInformationEn>
+          <AdditionalInformationFr>Projet de loi adopté par le Sénat avec des amendements</AdditionalInformationFr>
+          <AdditionalInformation>Bill passed by the Senate with amendments</AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2023-02-02T19:10:00</EventStartDateTime>
+          <EventEndDateTime>2023-02-02T19:10:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2023-02-02T19:10:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <RoyalAssent>
+        <BillStageId>60050</BillStageId>
+        <BillStageNameEn>Royal assent</BillStageNameEn>
+        <BillStageNameFr>Sanction royale</BillStageNameFr>
+        <BillStageName>Royal assent</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>0</State>
+        <StateNameEn />
+        <StateNameFr />
+        <StateAsOfDate />
+        <StateName />
+        <Committee />
+        <Sittings>
+          <NameEn>Royal assent</NameEn>
+          <NameFr>Sanction royale</NameFr>
+          <Name>Royal assent</Name>
+          <Number>117</Number>
+          <Date>2023-04-27T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60149</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Royal assent</EventNameEn>
+          <EventNameFr>Sanction royale</EventNameFr>
+          <EventName>Royal assent</EventName>
+          <EventDateTime>2023-04-27T18:30:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60149</EventTypeId>
+          <EventTypeNameEn>Royal assent</EventTypeNameEn>
+          <EventTypeNameFr>Sanction royale</EventTypeNameFr>
+          <EventTypeName>Royal assent</EventTypeName>
+          <EventStartDateTime>2023-04-27T18:30:00</EventStartDateTime>
+          <EventEndDateTime>2023-04-27T18:30:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2023-04-27T18:30:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </RoyalAssent>
+      <HouseAdditionalInformation>
+        <BillStageId>60055</BillStageId>
+        <BillStageNameEn>Additional information</BillStageNameEn>
+        <BillStageNameFr>Informations supplémentaires</BillStageNameFr>
+        <BillStageName>Additional information</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>0</State>
+        <StateNameEn />
+        <StateNameFr />
+        <StateAsOfDate />
+        <StateName />
+        <Committee />
+        <Sittings>
+          <NameEn>Bill not proceeded with</NameEn>
+          <NameFr>Abandon du projet de loi</NameFr>
+          <Name>Bill not proceeded with</Name>
+          <Number>176</Number>
+          <Date>2023-03-30T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60174</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Bill not proceeded with</EventNameEn>
+          <EventNameFr>Abandon du projet de loi</EventNameFr>
+          <EventName>Bill not proceeded with</EventName>
+          <EventDateTime>2023-03-30T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>false</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent />
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2023-03-30T16:13:28.307</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseAdditionalInformation>
+      <InterChamberMessages>
+        <EventNameEn>Message sent to the House of Commons</EventNameEn>
+        <EventNameFr>Message envoyé à la Chambre des communes</EventNameFr>
+        <EventName>Message sent to the House of Commons</EventName>
+        <Date>2023-02-02T19:15:00</Date>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>96</MeetingNumber>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Consideration of Senate amendments</EventNameEn>
+        <EventNameFr>Étude des amendements du Sénat</EventNameFr>
+        <EventName>Consideration of Senate amendments</EventName>
+        <Date>2023-03-08T18:19:12.027</Date>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>166</MeetingNumber>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Consideration of Senate amendments</EventNameEn>
+        <EventNameFr>Étude des amendements du Sénat</EventNameFr>
+        <EventName>Consideration of Senate amendments</EventName>
+        <Date>2023-03-09T17:29:24.637</Date>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>167</MeetingNumber>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Consideration of Senate amendments</EventNameEn>
+        <EventNameFr>Étude des amendements du Sénat</EventNameFr>
+        <EventName>Consideration of Senate amendments</EventName>
+        <Date>2023-03-27T19:46:27.157</Date>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>173</MeetingNumber>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Consideration of Senate amendments</EventNameEn>
+        <EventNameFr>Étude des amendements du Sénat</EventNameFr>
+        <EventName>Consideration of Senate amendments</EventName>
+        <Date>2023-03-30T18:15:54</Date>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>176</MeetingNumber>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Concurrence in the motion respecting Senate amendments</EventNameEn>
+        <EventNameFr>Adoption de la motion relative aux amendements du Sénat</EventNameFr>
+        <EventName>Concurrence in the motion respecting Senate amendments</EventName>
+        <Date>2023-03-30T20:40:14</Date>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>176</MeetingNumber>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Message sent to the Senate</EventNameEn>
+        <EventNameFr>Message envoyé au Sénat</EventNameFr>
+        <EventName>Message sent to the Senate</EventName>
+        <Date>2023-03-30T21:00:00</Date>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>176</MeetingNumber>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Consideration of House of Commons amendments</EventNameEn>
+        <EventNameFr>Étude des amendements de la Chambre des communes</EventNameFr>
+        <EventName>Consideration of House of Commons amendments</EventName>
+        <Date>2023-04-18T00:00:00</Date>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>112</MeetingNumber>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Consideration of House of Commons amendments</EventNameEn>
+        <EventNameFr>Étude des amendements de la Chambre des communes</EventNameFr>
+        <EventName>Consideration of House of Commons amendments</EventName>
+        <Date>2023-04-19T00:00:00</Date>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>113</MeetingNumber>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Consideration of House of Commons amendments</EventNameEn>
+        <EventNameFr>Étude des amendements de la Chambre des communes</EventNameFr>
+        <EventName>Consideration of House of Commons amendments</EventName>
+        <Date>2023-04-20T15:00:00</Date>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>114</MeetingNumber>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Consideration of House of Commons amendments</EventNameEn>
+        <EventNameFr>Étude des amendements de la Chambre des communes</EventNameFr>
+        <EventName>Consideration of House of Commons amendments</EventName>
+        <Date>2023-04-26T14:50:00</Date>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>116</MeetingNumber>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Concurrence in the motion respecting House of Commons Amendments</EventNameEn>
+        <EventNameFr>Adoption de la motion relative aux amendements de la Chambre des communes</EventNameFr>
+        <EventName>Concurrence in the motion respecting House of Commons Amendments</EventName>
+        <Date>2023-04-27T17:30:00</Date>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>117</MeetingNumber>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+      </InterChamberMessages>
+    </BillStages>
+    <Publications>
+      <PublicationId>11537078</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>11880983</PublicationId>
+      <PublicationTypeId>80702</PublicationTypeId>
+      <PublicationTypeNameEn>As amended by committee</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel que modifié par le comité</PublicationTypeNameFr>
+      <PublicationTypeName>As amended by committee</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>11898887</PublicationId>
+      <PublicationTypeId>80703</PublicationTypeId>
+      <PublicationTypeNameEn>As passed by the House of Commons</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel qu'adopté par la Chambre des communes</PublicationTypeNameFr>
+      <PublicationTypeName>As passed by the House of Commons</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>12381790</PublicationId>
+      <PublicationTypeId>80704</PublicationTypeId>
+      <PublicationTypeNameEn>Royal Assent</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Royal Assent</PublicationTypeNameFr>
+      <PublicationTypeName>Royal Assent</PublicationTypeName>
+    </Publications>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>86</DivisionNumber>
+      <DivisionSubjectEn>Time allocation for Bill C-11, An Act to amend the Broadcasting Act and to make related and consequential amendments to other Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>Attribution de temps pour le projet de loi C-11, Loi modifiant la Loi sur la radiodiffusion et apportant des modifications connexes et corrélatives à d'autres lois</DivisionSubjectFr>
+      <DivisionSubject>Time allocation for Bill C-11, An Act to amend the Broadcasting Act and to make related and consequential amendments to other Acts</DivisionSubject>
+      <DivisionVotesYeas>174</DivisionVotesYeas>
+      <DivisionVotesNays>145</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>319</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2022-05-11T14:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>87</DivisionNumber>
+      <DivisionSubjectEn>2nd reading of Bill C-11, An Act to amend the Broadcasting Act and to make related and consequential amendments to other Acts (subamendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>2e lecture du projet de loi C-11, Loi modifiant la Loi sur la radiodiffusion et apportant des modifications connexes et corrélatives à d'autres lois (sous-amendement)</DivisionSubjectFr>
+      <DivisionSubject>2nd reading of Bill C-11, An Act to amend the Broadcasting Act and to make related and consequential amendments to other Acts (subamendment)</DivisionSubject>
+      <DivisionVotesYeas>109</DivisionVotesYeas>
+      <DivisionVotesNays>209</DivisionVotesNays>
+      <DivisionVotePaired>2</DivisionVotePaired>
+      <DivisionVoteTotal>320</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2022-05-12T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>88</DivisionNumber>
+      <DivisionSubjectEn>2nd reading of Bill C-11, An Act to amend the Broadcasting Act and to make related and consequential amendments to other Acts (amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>2e lecture du projet de loi C-11, Loi modifiant la Loi sur la radiodiffusion et apportant des modifications connexes et corrélatives à d'autres lois (amendement)</DivisionSubjectFr>
+      <DivisionSubject>2nd reading of Bill C-11, An Act to amend the Broadcasting Act and to make related and consequential amendments to other Acts (amendment)</DivisionSubject>
+      <DivisionVotesYeas>111</DivisionVotesYeas>
+      <DivisionVotesNays>209</DivisionVotesNays>
+      <DivisionVotePaired>2</DivisionVotePaired>
+      <DivisionVoteTotal>322</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2022-05-12T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>89</DivisionNumber>
+      <DivisionSubjectEn>2nd reading of Bill C-11, An Act to amend the Broadcasting Act and to make related and consequential amendments to other Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>2e lecture du projet de loi C-11, Loi modifiant la Loi sur la radiodiffusion et apportant des modifications connexes et corrélatives à d'autres lois</DivisionSubjectFr>
+      <DivisionSubject>2nd reading of Bill C-11, An Act to amend the Broadcasting Act and to make related and consequential amendments to other Acts</DivisionSubject>
+      <DivisionVotesYeas>208</DivisionVotesYeas>
+      <DivisionVotesNays>111</DivisionVotesNays>
+      <DivisionVotePaired>2</DivisionVotePaired>
+      <DivisionVoteTotal>321</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2022-05-12T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>158</DivisionNumber>
+      <DivisionSubjectEn>Bill C-11, An Act to amend the Broadcasting Act and to make related and consequential amendments to other Acts (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-11, Loi modifiant la Loi sur la radiodiffusion et apportant des modifications connexes et corrélatives à d'autres lois (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-11, An Act to amend the Broadcasting Act and to make related and consequential amendments to other Acts (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>117</DivisionVotesYeas>
+      <DivisionVotesNays>209</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>326</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2022-06-20T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>159</DivisionNumber>
+      <DivisionSubjectEn>Bill C-11, An Act to amend the Broadcasting Act and to make related and consequential amendments to other Acts (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-11, Loi modifiant la Loi sur la radiodiffusion et apportant des modifications connexes et corrélatives à d'autres lois (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-11, An Act to amend the Broadcasting Act and to make related and consequential amendments to other Acts (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>326</DivisionVotesYeas>
+      <DivisionVotesNays>0</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>326</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2022-06-20T11:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>160</DivisionNumber>
+      <DivisionSubjectEn>Concurrence at report stage of Bill C-11, An Act to amend the Broadcasting Act and to make related and consequential amendments to other Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>Adoption à l'étape du rapport du projet de loi C-11, Loi modifiant la Loi sur la radiodiffusion et apportant des modifications connexes et corrélatives à d'autres lois</DivisionSubjectFr>
+      <DivisionSubject>Concurrence at report stage of Bill C-11, An Act to amend the Broadcasting Act and to make related and consequential amendments to other Acts</DivisionSubject>
+      <DivisionVotesYeas>210</DivisionVotesYeas>
+      <DivisionVotesNays>118</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>328</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2022-06-20T11:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>163</DivisionNumber>
+      <DivisionSubjectEn>Bill C-11, An Act to amend the Broadcasting Act and to make related and consequential amendments to other Acts (hoist amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-11, Loi modifiant la Loi sur la radiodiffusion et apportant des modifications connexes et corrélatives à d'autres lois (amendement de renvoi)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-11, An Act to amend the Broadcasting Act and to make related and consequential amendments to other Acts (hoist amendment)</DivisionSubject>
+      <DivisionVotesYeas>116</DivisionVotesYeas>
+      <DivisionVotesNays>209</DivisionVotesNays>
+      <DivisionVotePaired>2</DivisionVotePaired>
+      <DivisionVoteTotal>327</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2022-06-21T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>164</DivisionNumber>
+      <DivisionSubjectEn>3rd reading and adoption of Bill C-11, An Act to amend the Broadcasting Act and to make related and consequential amendments to other Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>3e lecture et adoption du projet de loi C-11, Loi modifiant la Loi sur la radiodiffusion et apportant des modifications connexes et corrélatives à d'autres lois</DivisionSubjectFr>
+      <DivisionSubject>3rd reading and adoption of Bill C-11, An Act to amend the Broadcasting Act and to make related and consequential amendments to other Acts</DivisionSubject>
+      <DivisionVotesYeas>208</DivisionVotesYeas>
+      <DivisionVotesNays>117</DivisionVotesNays>
+      <DivisionVotePaired>2</DivisionVotePaired>
+      <DivisionVoteTotal>327</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2022-06-21T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>291</DivisionNumber>
+      <DivisionSubjectEn>Motion respecting Senate amendments to Bill C-11, An Act to amend the Broadcasting Act and to make related and consequential amendments to other Acts (reasoned amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Motion relative aux amendements du Sénat au projet de loi C-11,Loi modifiant la Loi sur la radiodiffusion et apportant des modifications connexes et corrélatives à d'autres lois (amendement motivé)</DivisionSubjectFr>
+      <DivisionSubject>Motion respecting Senate amendments to Bill C-11, An Act to amend the Broadcasting Act and to make related and consequential amendments to other Acts (reasoned amendment)</DivisionSubject>
+      <DivisionVotesYeas>113</DivisionVotesYeas>
+      <DivisionVotesNays>205</DivisionVotesNays>
+      <DivisionVotePaired>4</DivisionVotePaired>
+      <DivisionVoteTotal>322</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2023-03-30T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>292</DivisionNumber>
+      <DivisionSubjectEn>Motion respecting Senate amendments to Bill C-11, An Act to amend the Broadcasting Act and to make related and consequential amendments to other Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>Motion relative aux amendements du Sénat au projet de loi C-11,Loi modifiant la Loi sur la radiodiffusion et apportant des modifications connexes et corrélatives à d'autres lois</DivisionSubjectFr>
+      <DivisionSubject>Motion respecting Senate amendments to Bill C-11, An Act to amend the Broadcasting Act and to make related and consequential amendments to other Acts</DivisionSubject>
+      <DivisionVotesYeas>202</DivisionVotesYeas>
+      <DivisionVotesNays>117</DivisionVotesNays>
+      <DivisionVotePaired>4</DivisionVotePaired>
+      <DivisionVoteTotal>323</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2023-03-30T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseRulingAndStatements>
+      <EventTypeId>60154</EventTypeId>
+      <EventTypeNameEn>Major Speaker's Rulings and Statements</EventTypeNameEn>
+      <EventTypeNameFr>Décisions et déclarations importantes de la présidence</EventTypeNameFr>
+      <EventTypeName>Major Speaker's Rulings and Statements</EventTypeName>
+      <ParliamentNumber>44</ParliamentNumber>
+      <SessionNumber>1</SessionNumber>
+      <MeetingNumber>173</MeetingNumber>
+      <HansardNumber>12118398</HansardNumber>
+      <RulingStatementDateTime>2023-03-27T17:50:02</RulingStatementDateTime>
+      <ChamberOrganizationId>1</ChamberOrganizationId>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+    </HouseRulingAndStatements>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Broadcasting and Telecommunications Legislative Review Panel, Canada's communications future: Time to act, January 2020</TitleEn>
+      <TitleFr>Groupe d'examen du cadre législatif en matière de radiodiffusion et de télécommunications, L'avenir des communications au Canada : le temps d'agir, janvier 2020</TitleFr>
+      <Title>Broadcasting and Telecommunications Legislative Review Panel, Canada's communications future: Time to act, January 2020</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.ic.gc.ca/eic/site/110.nsf/eng/00012.html</UrlEn>
+      <UrlFr>https://www.ic.gc.ca/eic/site/110.nsf/fra/00012.html</UrlFr>
+      <Url>https://www.ic.gc.ca/eic/site/110.nsf/eng/00012.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Michael Dewing, Canadian Broadcasting Policy, Library of Parliament, revised 6 August 2014</TitleEn>
+      <TitleFr>Michael Dewing, La politique canadienne de radiodiffusion, Bibliothèque du Parlement, révisée le 6 août 2014</TitleFr>
+      <Title>Michael Dewing, Canadian Broadcasting Policy, Library of Parliament, revised 6 August 2014</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://lop.parl.ca/sites/PublicWebsite/default/en_CA/ResearchPublications/201139E</UrlEn>
+      <UrlFr>https://lop.parl.ca/sites/PublicWebsite/default/fr_CA/ResearchPublications/201139E</UrlFr>
+      <Url>https://lop.parl.ca/sites/PublicWebsite/default/en_CA/ResearchPublications/201139E</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>House of Commons, Standing Committee on Canadian Heritage. Shifting Paradigms. Nineteenth Report. 1st Session, 42nd Parliament, May 2019</TitleEn>
+      <TitleFr>Chambre des communes, Comité permanent du patrimoine canadien. Paradigmes changeants, dix-neuvième rapport, 1re session, 42e législature, mai 2019</TitleFr>
+      <Title>House of Commons, Standing Committee on Canadian Heritage. Shifting Paradigms. Nineteenth Report. 1st Session, 42nd Parliament, May 2019</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.ourcommons.ca/DocumentViewer/en/42-1/CHPC/report-19/</UrlEn>
+      <UrlFr>https://www.noscommunes.ca/DocumentViewer/fr/42-1/CHPC/rapport-19/</UrlFr>
+      <Url>https://www.ourcommons.ca/DocumentViewer/en/42-1/CHPC/report-19/</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Government of Canada Introduces Legislation to Support the Next Generation of Canadian Artists and Creators (2022-02-02 | Department of Canadian Heritage)</TitleEn>
+      <TitleFr>Le gouvernement du Canada présente un projet de loi qui aidera la prochaine génération d'artistes et de créateurs canadiens (2022-02-02 | Ministère du Patrimoine canadien)</TitleFr>
+      <Title>Government of Canada Introduces Legislation to Support the Next Generation of Canadian Artists and Creators (2022-02-02 | Department of Canadian Heritage)</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/canadian-heritage/news/2022/02/government-of-canada-introduces-legislation-to-support-the-next-generation-of-canadian-artists-and-creators.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2022/02/le-gouvernement-du-canada-presente-un-projet-de-loi-qui-aidera-la-prochaine-generation-dartistes-et-de-createurs-canadiens.html</UrlFr>
+      <Url>https://www.canada.ca/en/canadian-heritage/news/2022/02/government-of-canada-introduces-legislation-to-support-the-next-generation-of-canadian-artists-and-creators.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Backgrounder: The Government of Canada introduces legislation to support the next generation of Canadian artists and creators (2022-02-02 | Department of Canadian Heritage)</TitleEn>
+      <TitleFr>Document d'information : Le gouvernement du Canada propose un projet de loi visant à soutenir la prochaine génération d'artistes et de créateurs canadiens (2022-02-02 | Ministère du Patrimoine canadien)</TitleFr>
+      <Title>Backgrounder: The Government of Canada introduces legislation to support the next generation of Canadian artists and creators (2022-02-02 | Department of Canadian Heritage)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/canadian-heritage/news/2022/02/backgrounder-the-government-of-canada-introduces-legislation-to-support-the-next-generation-of-canadian-artists-and-creators.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2022/02/document-dinformation-le-gouvernement-du-canada-propose-un-projet-de-loi-visant-a-soutenir-la-prochaine-generation-dartistes-et-de-createurs-canadiens.html</UrlFr>
+      <Url>https://www.canada.ca/en/canadian-heritage/news/2022/02/backgrounder-the-government-of-canada-introduces-legislation-to-support-the-next-generation-of-canadian-artists-and-creators.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Charter Statement - Bill C-11: An Act to amend the Broadcasting Act and to make related and consequential amendments to other Acts (Tabled on 2022-04-01)</TitleEn>
+      <TitleFr>Énoncé concernant la Charte - Projet de loi C-11 : Loi modifiant la Loi sur la radiodiffusion et apportant des modifications connexes et corrélatives à d'autres lois (Déposé le 2022-04-01)</TitleFr>
+      <Title>Charter Statement - Bill C-11: An Act to amend the Broadcasting Act and to make related and consequential amendments to other Acts (Tabled on 2022-04-01)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.justice.gc.ca/eng/csj-sjc/pl/charter-charte/c11_2.html</UrlEn>
+      <UrlFr>https://www.justice.gc.ca/fra/sjc-csj/pl/charte-charter/c11_2.html</UrlFr>
+      <Url>https://www.justice.gc.ca/eng/csj-sjc/pl/charter-charte/c11_2.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Online Streaming Act receives Royal Assent (2023-04-27 | Department of Canadian Heritage)</TitleEn>
+      <TitleFr>La Loi sur la diffusion continue en ligne reçoit la sanction royale (2023-04-27 | Ministère du Patrimoine canadien)</TitleFr>
+      <Title>Online Streaming Act receives Royal Assent (2023-04-27 | Department of Canadian Heritage)</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/canadian-heritage/news/2023/04/online-streaming-act-receives-royal-assent.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2023/04/la-loi-sur-la-diffusion-continue-en-ligne-recoit-la-sanction-royale.html</UrlFr>
+      <Url>https://www.canada.ca/en/canadian-heritage/news/2023/04/online-streaming-act-receives-royal-assent.html</Url>
+    </WebReferences>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3351</BibliographicNoticeId>
+      <Title>Feds seek experts' help in bid to tackle cutting-edge legal issues posed by online harmful content</Title>
+      <Author>Schmitz, Cristin</Author>
+      <Publication>The Lawyer's Daily</Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>February 7, 2022</PublicationDate>
+      <Classification>Radar 38774843</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3352</BibliographicNoticeId>
+      <Title>Online streaming bill [C-11] adds exemption for user content but concerns remain over regulating 'programs'</Title>
+      <Author>Schmitz, Cristin</Author>
+      <Publication>The Lawyer's Daily</Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>February 3, 2022</PublicationDate>
+      <Classification>Radar 38739699</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3376</BibliographicNoticeId>
+      <Title>Netflix and Youtube will balk at restrictive CanCon rules</Title>
+      <Author>Geist, Michael A. (Michael Allen)</Author>
+      <Publication>Maclean's</Publication>
+      <VolumePage>135(12): p.65</VolumePage>
+      <PublicationDate>January 2023</PublicationDate>
+      <Classification>Radar 41332047</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3378</BibliographicNoticeId>
+      <Title>Breaking news.</Title>
+      <Author>
+      </Author>
+      <Publication>Economist</Publication>
+      <VolumePage>446(9336): p.62-63</VolumePage>
+      <PublicationDate>March 4, 2023</PublicationDate>
+      <Classification>Radar 41935770</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <SenatePreStudyCommitteeDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <CommitteeOrganizationId>16103</CommitteeOrganizationId>
+      <CommitteeNameEn>Standing Senate Committee on Transport and Communications</CommitteeNameEn>
+      <CommitteeNameFr>Comité sénatorial permanent des transports et des communications</CommitteeNameFr>
+      <CommitteeAcronym>TRCM</CommitteeAcronym>
+      <CommitteeName>Standing Senate Committee on Transport and Communications</CommitteeName>
+      <StudyActivityId />
+      <OrganizationTypeId />
+      <ParentCommittee />
+      <IsSubCommittee>false</IsSubCommittee>
+      <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+      <IsSenateCommittee>false</IsSenateCommittee>
+      <IsJointCommittee>false</IsJointCommittee>
+    </SenatePreStudyCommitteeDetails>
+    <SimilarBills>
+      <Id>10926636</Id>
+      <NumberCode>C-10</NumberCode>
+      <NumberPrefix>C</NumberPrefix>
+      <Number>10</Number>
+      <LongTitleEn>An Act to amend the Broadcasting Act and to make related and consequential amendments to other Acts</LongTitleEn>
+      <LongTitleFr>Loi modifiant la Loi sur la radiodiffusion et apportant des modifications connexes et corrélatives à d'autres lois</LongTitleFr>
+      <LongTitle>An Act to amend the Broadcasting Act and to make related and consequential amendments to other Acts</LongTitle>
+      <ShortTitleEn>
+      </ShortTitleEn>
+      <ShortTitleFr>
+      </ShortTitleFr>
+      <ShortTitle>
+      </ShortTitle>
+      <StatusId>344</StatusId>
+      <StatusNameEn>At consideration in committee in the Senate</StatusNameEn>
+      <StatusNameFr>À l'examen en comité au Sénat</StatusNameFr>
+      <StatusName>At consideration in committee in the Senate</StatusName>
+      <LatestCompletedMajorStageId>60044</LatestCompletedMajorStageId>
+      <LatestCompletedMajorStageNameEn>Second reading</LatestCompletedMajorStageNameEn>
+      <LatestCompletedMajorStageNameFr>Deuxième lecture</LatestCompletedMajorStageNameFr>
+      <LatestCompletedMajorStageName>Second reading</LatestCompletedMajorStageName>
+      <LatestCompletedMajorStageNameWithChamberSuffix>Second reading in the Senate</LatestCompletedMajorStageNameWithChamberSuffix>
+      <IsInSenatePreStudy>false</IsInSenatePreStudy>
+      <LatestCompletedMajorStageChamberOrganizationId>2</LatestCompletedMajorStageChamberOrganizationId>
+      <LatestCompletedMajorStageChamberNameEn />
+      <LatestCompletedMajorStageChamberNameFr />
+      <LatestCompletedMajorStageChamberName />
+      <OngoingStageId>0</OngoingStageId>
+      <OngoingStageNameEn />
+      <OngoingStageNameFr />
+      <OngoingStageName />
+      <LatestCompletedBillStageId>60030</LatestCompletedBillStageId>
+      <LatestCompletedBillStageNameEn>Second reading</LatestCompletedBillStageNameEn>
+      <LatestCompletedBillStageNameFr>Deuxième lecture</LatestCompletedBillStageNameFr>
+      <LatestCompletedBillStageName>Second reading</LatestCompletedBillStageName>
+      <LatestCompletedBillStageChamberOrganizationId>2</LatestCompletedBillStageChamberOrganizationId>
+      <LatestCompletedBillStageChamberNameEn>Senate</LatestCompletedBillStageChamberNameEn>
+      <LatestCompletedBillStageChamberNameFr>Sénat</LatestCompletedBillStageChamberNameFr>
+      <LatestCompletedBillStageChamberName>Senate</LatestCompletedBillStageChamberName>
+      <LatestCompletedBillStageDateTime>2021-06-29T17:20:00</LatestCompletedBillStageDateTime>
+      <ParliamentNumber>43</ParliamentNumber>
+      <SessionNumber>2</SessionNumber>
+      <BillDocumentTypeId>0</BillDocumentTypeId>
+      <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+      <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+      <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+      <IsGovernmentBill>false</IsGovernmentBill>
+      <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+      <OriginatingChamberNameEn />
+      <OriginatingChamberNameFr />
+      <OriginatingChamberName />
+      <IsHouseBill>true</IsHouseBill>
+      <IsSenateBill>false</IsSenateBill>
+      <SponsorSenateSystemAffiliationId />
+      <SponsorPersonId />
+      <SponsorPersonOfficialFirstName />
+      <SponsorPersonOfficialLastName />
+      <SponsorPersonUsualFirstName />
+      <SponsorPersonMiddleName />
+      <SponsorPersonName> </SponsorPersonName>
+      <SponsorPersonShortHonorificEn />
+      <SponsorPersonShortHonorificFr />
+      <SponsorPersonShortHonorific />
+      <SponsorAffiliationTitleEn />
+      <SponsorAffiliationTitleFr />
+      <SponsorAffiliationTitle />
+      <SponsorAffiliationRoleId />
+      <SponsorAffiliationRoleNameEn />
+      <SponsorAffiliationRoleNameFr />
+      <SponsorAffiliationRoleName />
+      <SponsorConstituencyId />
+      <SponsorConstituencyNameEn />
+      <SponsorConstituencyNameFr />
+      <SponsorConstituencyName />
+      <LatestBillEventEventTypeId>0</LatestBillEventEventTypeId>
+      <LatestBillEventTypeNameEn />
+      <LatestBillEventTypeNameFr />
+      <LatestBillEventStageId />
+      <LatestBillEventTypeName />
+      <LatestBillEventCommitteeDetails />
+      <LatestBillEventDateTime>0001-01-01T00:00:00</LatestBillEventDateTime>
+      <LatestBillEventChamberOrganizationId>0</LatestBillEventChamberOrganizationId>
+      <LatestBillEventChamberNameEn />
+      <LatestBillEventChamberNameFr />
+      <LatestBillEventChamberName />
+      <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+      <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+      <LatestBillEventMeetingNumber />
+      <LatestBillEventAdditionalInformationEn />
+      <LatestBillEventAdditionalInformationFr />
+      <LatestBillEventAdditionalInformation />
+      <PassedHouseFirstReadingDateTime>2020-11-03T10:08:40.66</PassedHouseFirstReadingDateTime>
+      <PassedHouseSecondReadingDateTime>2021-02-16T16:58:37.137</PassedHouseSecondReadingDateTime>
+      <PassedHouseThirdReadingDateTime>2021-06-21T23:57:00</PassedHouseThirdReadingDateTime>
+      <PassedSenateFirstReadingDateTime>2021-06-22T15:00:00</PassedSenateFirstReadingDateTime>
+      <PassedSenateSecondReadingDateTime>2021-06-29T17:20:00</PassedSenateSecondReadingDateTime>
+      <PassedSenateThirdReadingDateTime />
+      <ReceivedRoyalAssentDateTime />
+      <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+      <ReinstatedFromBillDocumentId />
+      <ReinstatedFromBillNumberCode />
+      <DidReinstateInNextSession>false</DidReinstateInNextSession>
+      <ReinstatedAsBillDocumentId />
+      <ReinstatedAsBillNumberCode />
+      <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+      <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+      <PassedFirstChamberThirdReading>true</PassedFirstChamberThirdReading>
+      <PassedSecondChamberFirstReading>true</PassedSecondChamberFirstReading>
+      <PassedSecondChamberSecondReading>true</PassedSecondChamberSecondReading>
+      <PassedSecondChamberThirdReading>false</PassedSecondChamberThirdReading>
+      <ReceivedRoyalAssent>false</ReceivedRoyalAssent>
+      <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+      <IsProForma>false</IsProForma>
+      <BillFormId>0</BillFormId>
+      <BillFormNameEn />
+      <BillFormNameFr />
+      <BillFormName />
+      <NotesEn />
+      <NotesFr />
+      <Notes />
+      <ShortLegislativeSummaryEn />
+      <ShortLegislativeSummaryFr />
+      <ShortLegislativeSummary />
+      <IsFullLegislativeSummaryAvailable>false</IsFullLegislativeSummaryAvailable>
+      <StatuteYear />
+      <StatuteChapter />
+      <BillStages>
+        <BillId>0</BillId>
+      </BillStages>
+      <Publications />
+      <HouseVoteDetails />
+      <SenateVoteDetails />
+      <HouseRulingAndStatements />
+      <SenateRulingAndStatements />
+      <WebReferences />
+      <BibliographicNotices />
+      <SenatePreStudyCommitteeDetails />
+      <SimilarBills />
+      <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+      <IsSessionOngoing>false</IsSessionOngoing>
+    </SimilarBills>
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
