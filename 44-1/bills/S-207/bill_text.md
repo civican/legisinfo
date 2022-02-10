@@ -1,5 +1,7 @@
 # Bill S-207: An Act to change the name of the electoral district of Châteauguay—Lacolle
 
+**Sponsor**: Senator Dalphond
+
 ## Summary
 
 This enactment changes the name of the electoral district of Châteauguay—Lacolle to "Châteauguay—Les Jardins-de-Napierville".
