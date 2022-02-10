@@ -2,6 +2,8 @@
 
 **Sponsor**: DEPUTY PRIME MINISTER AND MINISTER OF FINANCE
 
+Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act to implement certain provisions of the economic and fiscal update tabled in Parliament on December 14, 2021 and other measures*".
+
 ## Summary
 
 Part 1 amends the `Income Tax Act` and the `Income Tax Regulations` in order to
@@ -22,7 +24,7 @@ Part 4 authorizes payments to be made out of the Consolidated Revenue Fund for t
 
 Part 5 authorizes payments to be made out of the Consolidated Revenue Fund for the purpose of supporting coronavirus disease 2019 (COVID-19) proof-of-vaccination initiatives.
 
-Part 6 authorizes the Minister of Health to make payments of up to $1.72 billion out of the Consolidated Revenue Fund in relation to coronavirus disease 2019 (COVID-19) tests.
+Part 6 authorizes the Minister of Health to make payments of up to $1.72 billion out of the Consolidated Revenue Fund in relation to coronavirus disease 2019 (COVID-19) tests. It also sets out reporting requirements for the Minister of Health.
 
 Part 7 amends the `Employment Insurance Act` to specify the maximum number of weeks for which benefits may be paid in a benefit period to certain seasonal workers.
 
@@ -368,15 +370,15 @@ This Act may be cited as the `Economic and Fiscal Update Implementation Act, 202
 
   **(1)** Paragraph 110.7(1)(a) of the Act is replaced by the following:
 
-    the total of all amounts each of which is the amount, in respect of a particular period during the taxation year, **determined** by the **formula**
+    the total of all amounts each of which is the amount, in respect of a particular period during the taxation year, determined by the formula
 
-    is the specified percentage for the particular area in which the taxpayer resided **during** the particular **period**, and
+    is the specified percentage for the particular area in which the taxpayer resided during the particular period, and
 
-    is the **total trip costs** to the taxpayer in respect of trips that **begin during** the particular **period**; and
+    is the total trip costs to the taxpayer in respect of trips that begin during the particular period; and
 
   **(2)** Subsection 110.7(3) of the Act is replaced by the following:
 
-    **(3)** The total **of all amounts** determined under paragraph (1)(a) for **all taxpayers** in a taxation year in respect of an individual shall not be in respect of more than **two** trips made by the individual **that begin** in the year (other than trips to obtain medical services that are not available in the locality in which the taxpayer resided).
+    **(3)** The total of all amounts determined under paragraph (1)(a) for all taxpayers in a taxation year in respect of an individual shall not be in respect of more than two trips made by the individual that begin in the year (other than trips to obtain medical services that are not available in the locality in which the taxpayer resided).
 
     **(3.1)** For the purpose of paragraph (1)(a), an amount may only be included in the amount determined for B for a particular area for a taxation year if
 
@@ -430,7 +432,7 @@ This Act may be cited as the `Economic and Fiscal Update Implementation Act, 202
 
   **(2)** Subsection 122.9(2) of the Act is replaced by the following:
 
-    **(2)** An eligible educator who files a return of income for a taxation year and who makes a claim under this subsection is deemed to have paid, at the end of the year, on account of tax payable under this Part for the year, an amount equal to **25% of** the least of
+    **(2)** An eligible educator who files a return of income for a taxation year and who makes a claim under this subsection is deemed to have paid, at the end of the year, on account of tax payable under this Part for the year, an amount equal to 25% of the least of
 
       $1,000;
 
@@ -652,15 +654,15 @@ This Act may be cited as the `Economic and Fiscal Update Implementation Act, 202
 
   **(1)** The portion of subsection 7304(2) of the `Income Tax Regulations` before paragraph (c) is replaced by the following:
 
-    **(2)** For the purposes of this section **and section 110.7 of the Act**, the trip cost to a taxpayer in respect of a trip made by an individual who, at the time the trip was made, was a member of the taxpayer's household is the least of
+    **(2)** For the purposes of this section and section 110.7 of the Act, the trip cost to a taxpayer in respect of a trip made by an individual who, at the time the trip was made, was a member of the taxpayer's household is the least of
 
-      the amount of **employer-provided travel benefits, as defined in subsection 110.7(6) of the Act**, that is claimed by the taxpayer in respect of the trip;
+      the amount of employer-provided travel benefits, as defined in subsection 110.7(6) of the Act, that is claimed by the taxpayer in respect of the trip;
 
-      the **total** of
+      the total of
 
-      the **amount** of travel assistance described in paragraph (a) of the definition **employer-provided travel benefits in subsection 110.7(6) of the Act** in respect of the trip, and
+      the amount of travel assistance described in paragraph (a) of the definition employer-provided travel benefits in subsection 110.7(6) of the Act in respect of the trip, and
 
-      **travel** expenses incurred by the taxpayer, **or the spouse or common-law partner of the taxpayer**, for the trip; and
+      travel expenses incurred by the taxpayer, or the spouse or common-law partner of the taxpayer, for the trip; and
 
   **(2)** Subsections 7304(3) and (4) of the Regulations are replaced by the following:
 
@@ -2530,7 +2532,7 @@ This Act may be cited as the `Economic and Fiscal Update Implementation Act, 202
 
 Paragraph 462.48(2)(c) of the `Criminal Code` is replaced by the following:
 
-the type of information or book, record, writing, return or other document obtained by or on behalf of the Minister of National Revenue for the purposes of Part IX of the `Excise Tax Act`, the `Income Tax Act`, the `Excise Act, 2001` or **the `Underused Housing Tax Act`** to which access is sought or that is proposed to be examined or communicated; and
+the type of information or book, record, writing, return or other document obtained by or on behalf of the Minister of National Revenue for the purposes of Part IX of the `Excise Tax Act`, the `Income Tax Act`, the `Excise Act, 2001` or the `Underused Housing Tax Act` to which access is sought or that is proposed to be examined or communicated; and
 
 
 #### Excise Tax Act
@@ -2541,7 +2543,7 @@ the type of information or book, record, writing, return or other document obtai
 
 ### Section 77
 
-    A refund shall not be paid, and a credit shall not be allowed, to a person under this Act until the person has filed with the Minister all returns and other records of which the Minister has knowledge that are required to be filed under the `Excise Tax Act`, the `Income Tax Act`, the `Air Travellers Security Charge Act`, the `Excise Act, 2001` or **the `Underused Housing Tax Act`**.
+    A refund shall not be paid, and a credit shall not be allowed, to a person under this Act until the person has filed with the Minister all returns and other records of which the Minister has knowledge that are required to be filed under the `Excise Tax Act`, the `Income Tax Act`, the `Air Travellers Security Charge Act`, the `Excise Act, 2001` or the `Underused Housing Tax Act`.
 
   **(2)** Subsection (1) comes into force, or is deemed to have come into force, on January 1, 2022.
 
@@ -2549,7 +2551,7 @@ the type of information or book, record, writing, return or other document obtai
 
   **(1)** Subsection 229(2) of the Act is replaced by the following:
 
-    **(2)** A net tax refund for a reporting period of a person shall not be paid to the person under subsection (1) at any time, unless all returns of which the Minister has knowledge and that are required to be filed at or before that time by the person under this Act, the `Income Tax Act`, the `Air Travellers Security Charge Act`, the `Excise Act, 2001` and **the `Underused Housing Tax Act`** have been filed with the Minister.
+    **(2)** A net tax refund for a reporting period of a person shall not be paid to the person under subsection (1) at any time, unless all returns of which the Minister has knowledge and that are required to be filed at or before that time by the person under this Act, the `Income Tax Act`, the `Air Travellers Security Charge Act`, the `Excise Act, 2001` and the `Underused Housing Tax Act` have been filed with the Minister.
 
   **(2)** Subsection (1) comes into force, or is deemed to have come into force, on January 1, 2022.
 
@@ -2557,7 +2559,7 @@ the type of information or book, record, writing, return or other document obtai
 
   **(1)** Subsection 230(2) of the Act is replaced by the following:
 
-    **(2)** An amount paid on account of net tax for a reporting period of a person shall not be refunded to the person under subsection (1) at any time, unless all returns of which the Minister has knowledge and that are required to be filed at or before that time by the person under this Act, the `Income Tax Act`, the `Air Travellers Security Charge Act`, the `Excise Act, 2001` and **the `Underused Housing Tax Act`** have been filed with the Minister.
+    **(2)** An amount paid on account of net tax for a reporting period of a person shall not be refunded to the person under subsection (1) at any time, unless all returns of which the Minister has knowledge and that are required to be filed at or before that time by the person under this Act, the `Income Tax Act`, the `Air Travellers Security Charge Act`, the `Excise Act, 2001` and the `Underused Housing Tax Act` have been filed with the Minister.
 
   **(2)** Subsection (1) comes into force, or is deemed to have come into force, on January 1, 2022.
 
@@ -2565,7 +2567,7 @@ the type of information or book, record, writing, return or other document obtai
 
   **(1)** Subparagraph 238.1(2)(c)(iii) of the Act is replaced by the following:
 
-    all amounts required under this Act (other than this Part), sections 21 and 33 of the `Canada Pension Plan`, the `Excise Act`, the `Customs Act`, the `Income Tax Act`, section 82 and Part VII of the `Employment Insurance Act`, the `Customs Tariff`, the `Excise Act, 2001` and **the `Underused Housing Tax Act`** to be remitted or paid before that time by the registrant have been remitted or paid, and
+    all amounts required under this Act (other than this Part), sections 21 and 33 of the `Canada Pension Plan`, the `Excise Act`, the `Customs Act`, the `Income Tax Act`, section 82 and Part VII of the `Employment Insurance Act`, the `Customs Tariff`, the `Excise Act, 2001` and the `Underused Housing Tax Act` to be remitted or paid before that time by the registrant have been remitted or paid, and
 
   **(2)** Subsection (1) comes into force, or is deemed to have come into force, on January 1, 2022.
 
@@ -2575,7 +2577,7 @@ the type of information or book, record, writing, return or other document obtai
 
 ### Section 263.02
 
-    A rebate under this Part shall not be paid to a person at any time, unless all returns of which the Minister has knowledge and that are required to be filed at or before that time by the person under this Act, the `Income Tax Act`, the `Air Travellers Security Charge Act`, the `Excise Act, 2001` and **the `Underused Housing Tax Act`** have been filed with the Minister.
+    A rebate under this Part shall not be paid to a person at any time, unless all returns of which the Minister has knowledge and that are required to be filed at or before that time by the person under this Act, the `Income Tax Act`, the `Air Travellers Security Charge Act`, the `Excise Act, 2001` and the `Underused Housing Tax Act` have been filed with the Minister.
 
   **(2)** Subsection (1) comes into force, or is deemed to have come into force, on January 1, 2022.
 
@@ -2583,7 +2585,7 @@ the type of information or book, record, writing, return or other document obtai
 
   **(1)** Subsection 296(7) of the Act is replaced by the following:
 
-    **(7)** An amount under this section shall not be refunded to a person at any time, unless all returns of which the Minister has knowledge and that are required to be filed at or before that time by the person under this Act, the `Income Tax Act`, the `Air Travellers Security Charge Act`, the `Excise Act, 2001` and **the `Underused Housing Tax Act`** have been filed with the Minister.
+    **(7)** An amount under this section shall not be refunded to a person at any time, unless all returns of which the Minister has knowledge and that are required to be filed at or before that time by the person under this Act, the `Income Tax Act`, the `Air Travellers Security Charge Act`, the `Excise Act, 2001` and the `Underused Housing Tax Act` have been filed with the Minister.
 
   **(2)** Subsection (1) comes into force, or is deemed to have come into force, on January 1, 2022.
 
@@ -2594,7 +2596,7 @@ the type of information or book, record, writing, return or other document obtai
 
   **(1)** Paragraph 155.2(6)(c) of the `Financial Administration Act` is replaced by the following:
 
-    an amount owing by a person to Her Majesty in right of Canada, or payable by the Minister of National Revenue to any person, under the `Excise Tax Act`, the `Income Tax Act`, the `Air Travellers Security Charge Act`, the `Excise Act, 2001`, the `Softwood Lumber Products Export Charge Act, 2006` or **the `Underused Housing Tax Act`**.
+    an amount owing by a person to Her Majesty in right of Canada, or payable by the Minister of National Revenue to any person, under the `Excise Tax Act`, the `Income Tax Act`, the `Air Travellers Security Charge Act`, the `Excise Act, 2001`, the `Softwood Lumber Products Export Charge Act, 2006` or the `Underused Housing Tax Act`.
 
   **(2)** Subsection (1) comes into force, or is deemed to have come into force, on January 1, 2022.
 
@@ -2607,13 +2609,13 @@ the type of information or book, record, writing, return or other document obtai
 
 ### Section 12
 
-      **(1)** The Court has exclusive original jurisdiction to hear and determine references and appeals to the Court on matters arising under the `Canada Pension Plan`, the `Cultural Property Export and Import Act`, Part IX of the `Excise Tax Act`, the `Old Age Security Act`, the `Petroleum and Gas Revenue Tax Act`, Part V.1 of the `Customs Act`, the `Income Tax Act`, the `Employment Insurance Act`, the `Air Travellers Security Charge Act`, the `Excise Act, 2001`, the `Softwood Lumber Products Export Charge Act, 2006`, the `Disability Tax Credit Promoters Restrictions Act`, Part 1 of the `Greenhouse Gas Pollution Pricing Act` and **the `Underused Housing Tax Act`** when references or appeals to the Court are provided for in those Acts.
+      **(1)** The Court has exclusive original jurisdiction to hear and determine references and appeals to the Court on matters arising under the `Canada Pension Plan`, the `Cultural Property Export and Import Act`, Part IX of the `Excise Tax Act`, the `Old Age Security Act`, the `Petroleum and Gas Revenue Tax Act`, Part V.1 of the `Customs Act`, the `Income Tax Act`, the `Employment Insurance Act`, the `Air Travellers Security Charge Act`, the `Excise Act, 2001`, the `Softwood Lumber Products Export Charge Act, 2006`, the `Disability Tax Credit Promoters Restrictions Act`, Part 1 of the `Greenhouse Gas Pollution Pricing Act` and the `Underused Housing Tax Act` when references or appeals to the Court are provided for in those Acts.
 
   **(2)** Subsections 12(3) and (4) of the Act are replaced by the following:
 
-    **(3)** The Court has exclusive original jurisdiction to hear and determine questions referred to it under section 310 or 311 of the `Excise Tax Act`, section 97.58 of the `Customs Act`, section 173 or 174 of the `Income Tax Act`, section 51 or 52 of the `Air Travellers Security Charge Act`, section 204 or 205 of the `Excise Act, 2001`, section 62 or 63 of the `Softwood Lumber Products Export Charge Act, 2006`, section 121 or 122 of the `Greenhouse Gas Pollution Pricing Act` or **section 45 or 46 of the `Underused Housing Tax Act`**.
+    **(3)** The Court has exclusive original jurisdiction to hear and determine questions referred to it under section 310 or 311 of the `Excise Tax Act`, section 97.58 of the `Customs Act`, section 173 or 174 of the `Income Tax Act`, section 51 or 52 of the `Air Travellers Security Charge Act`, section 204 or 205 of the `Excise Act, 2001`, section 62 or 63 of the `Softwood Lumber Products Export Charge Act, 2006`, section 121 or 122 of the `Greenhouse Gas Pollution Pricing Act` or section 45 or 46 of the `Underused Housing Tax Act`.
 
-    **(4)** The Court has exclusive original jurisdiction to hear and determine applications for extensions of time under subsection 28(1) of the `Canada Pension Plan`, section 33.2 of the `Cultural Property Export and Import Act`, section 304 or 305 of the `Excise Tax Act`, section 97.51 or 97.52 of the `Customs Act`, section 166.2 or 167 of the `Income Tax Act`, subsection 103(1) of the `Employment Insurance Act`, section 45 or 47 of the `Air Travellers Security Charge Act`, section 197 or 199 of the `Excise Act, 2001`, section 115 or 117 of the `Greenhouse Gas Pollution Pricing Act` or **section 39 or 41 of the `Underused Housing Tax Act`**.
+    **(4)** The Court has exclusive original jurisdiction to hear and determine applications for extensions of time under subsection 28(1) of the `Canada Pension Plan`, section 33.2 of the `Cultural Property Export and Import Act`, section 304 or 305 of the `Excise Tax Act`, section 97.51 or 97.52 of the `Customs Act`, section 166.2 or 167 of the `Income Tax Act`, subsection 103(1) of the `Employment Insurance Act`, section 45 or 47 of the `Air Travellers Security Charge Act`, section 197 or 199 of the `Excise Act, 2001`, section 115 or 117 of the `Greenhouse Gas Pollution Pricing Act` or section 39 or 41 of the `Underused Housing Tax Act`.
 
   **(3)** Subsections (1) and (2) come into force, or are deemed to have come into force, on January 1, 2022.
 
@@ -2629,7 +2631,7 @@ the type of information or book, record, writing, return or other document obtai
 
   **(1)** Subsection 18.31(2) of the Act is replaced by the following:
 
-    **(2)** If it is agreed under section 310 of the `Excise Tax Act`, section 97.58 of the `Customs Act`, section 51 of the `Air Travellers Security Act`, section 204 of the `Excise Act, 2001`, section 62 of the `Softwood Lumber Products Export Act, 2006`, section 121 of the `Greenhouse Gas Pollution Pricing Act` or **section 45 of the `Underused Housing Tax Act`** that a question should be determined by the Court, sections 17.1, 17.2 and 17.4 to 17.8 apply, with any modifications that the circumstances require, in respect of the determination of the question.
+    **(2)** If it is agreed under section 310 of the `Excise Tax Act`, section 97.58 of the `Customs Act`, section 51 of the `Air Travellers Security Act`, section 204 of the `Excise Act, 2001`, section 62 of the `Softwood Lumber Products Export Act, 2006`, section 121 of the `Greenhouse Gas Pollution Pricing Act` or section 45 of the `Underused Housing Tax Act` that a question should be determined by the Court, sections 17.1, 17.2 and 17.4 to 17.8 apply, with any modifications that the circumstances require, in respect of the determination of the question.
 
   **(2)** Subsection (1) comes into force, or is deemed to have come into force, on January 1, 2022.
 
@@ -2637,7 +2639,7 @@ the type of information or book, record, writing, return or other document obtai
 
   **(1)** Subsection 18.32(2) of the Act is replaced by the following:
 
-    **(2)** If an application has been made under section 311 of the `Excise Tax Act`, section 52 of the `Air Travellers Security Charge Act`, section 205 of the `Excise Act, 2001`, section 63 of the `Softwood Lumber Products Export Charge Act, 2006`, section 122 of the `Greenhouse Gas Pollution Pricing Act` or **section 46 of the `Underused Housing Tax Act`** for the determination of a question, the application or determination of the question must, subject to sec­tion 18.33, be determined in accordance with sections 17.1, 17.2 and 17.4 to 17.8, with any modifications that the circumstances require.
+    **(2)** If an application has been made under section 311 of the `Excise Tax Act`, section 52 of the `Air Travellers Security Charge Act`, section 205 of the `Excise Act, 2001`, section 63 of the `Softwood Lumber Products Export Charge Act, 2006`, section 122 of the `Greenhouse Gas Pollution Pricing Act` or section 46 of the `Underused Housing Tax Act` for the determination of a question, the application or determination of the question must, subject to sec­tion 18.33, be determined in accordance with sections 17.1, 17.2 and 17.4 to 17.8, with any modifications that the circumstances require.
 
   **(2)** Subsection (1) comes into force, or is deemed to have come into force, on January 1, 2022.
 
@@ -2648,7 +2650,7 @@ the type of information or book, record, writing, return or other document obtai
 
   **(1)** The description of B in paragraph 97.29(1)(a) of the `Customs Act` is replaced by the following:
 
-    is the amount, if any, by which the amount assessed the transferee under subsection 325(2) of the `Excise Tax Act`, subsection 160(2) of the `Income Tax Act`, subsection 297(3) of the `Excise Act, 2001` and **subsection 80(3) of the `Underused Housing Tax Act`** in respect of the property exceeds the amount paid by the transferor in respect of the amount so assessed, and
+    is the amount, if any, by which the amount assessed the transferee under subsection 325(2) of the `Excise Tax Act`, subsection 160(2) of the `Income Tax Act`, subsection 297(3) of the `Excise Act, 2001` and subsection 80(3) of the `Underused Housing Tax Act` in respect of the property exceeds the amount paid by the transferor in respect of the amount so assessed, and
 
   **(2)** Subsection (1) comes into force, or is deemed to have come into force, on January 1, 2022.
 
@@ -2656,7 +2658,7 @@ the type of information or book, record, writing, return or other document obtai
 
   **(1)** Paragraph 107(5)(g.1) of the Act is replaced by the following:
 
-    an official of the Canada Revenue Agency solely for a purpose relating to the administration or enforcement of the `Canada Pension Plan`, the `Excise Act`, the `Excise Tax Act`, the `Income Tax Act`, the `Employment Insurance Act`, the `Excise Act, 2001` or **the `Underused Housing Tax Act`**;
+    an official of the Canada Revenue Agency solely for a purpose relating to the administration or enforcement of the `Canada Pension Plan`, the `Excise Act`, the `Excise Tax Act`, the `Income Tax Act`, the `Employment Insurance Act`, the `Excise Act, 2001` or the `Underused Housing Tax Act`;
 
   **(2)** Subsection (1) comes into force, or is deemed to have come into force, on January 1, 2022.
 
@@ -2675,7 +2677,7 @@ the type of information or book, record, writing, return or other document obtai
 
   **(1)** Subsection 164(2.01) of the Act is replaced by the following:
 
-    **(2.01)** The Minister shall not, in respect of a taxpayer, refund, repay, apply to other debts or set-off amounts under this Act at any time unless all returns of which the Minister has knowledge and that are required to be filed by the taxpayer at or before that time under this Act, the `Excise Tax Act`, the `Air Travellers Security Charge Act`, the `Excise Act, 2001` and **the `Underused Housing Tax Act`** have been filed with the Minister.
+    **(2.01)** The Minister shall not, in respect of a taxpayer, refund, repay, apply to other debts or set-off amounts under this Act at any time unless all returns of which the Minister has knowledge and that are required to be filed by the taxpayer at or before that time under this Act, the `Excise Tax Act`, the `Air Travellers Security Charge Act`, the `Excise Act, 2001` and the `Underused Housing Tax Act` have been filed with the Minister.
 
   **(2)** Subsection (1) comes into force, or is deemed to have come into force, on January 1, 2022.
 
@@ -2683,7 +2685,7 @@ the type of information or book, record, writing, return or other document obtai
 
   **(1)** The portion of subsection 221.2(2) of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** **If** a particular amount was appropriated to an amount (in this section referred to as the "debt") that is or may become payable by a person under this Act, the `Excise Tax Act`, the `Air Travellers Security Charge Act`, the `Excise Act, 2001` or **the `Underused Housing Tax Act`**, the Minister may, on application by the person, appropriate the particular amount, or a part of it, to another amount that is or may become payable under any of those Acts and, for the purposes of any of those Acts,
+    **(2)** If a particular amount was appropriated to an amount (in this section referred to as the "debt") that is or may become payable by a person under this Act, the `Excise Tax Act`, the `Air Travellers Security Charge Act`, the `Excise Act, 2001` or the `Underused Housing Tax Act`, the Minister may, on application by the person, appropriate the particular amount, or a part of it, to another amount that is or may become payable under any of those Acts and, for the purposes of any of those Acts,
 
   **(2)** Subsection (1) comes into force, or is deemed to have come into force, on January 1, 2022.
 
@@ -2723,7 +2725,7 @@ the type of information or book, record, writing, return or other document obtai
 
   **(1)** Subsection 40(4) of the `Air Travellers Security Charge Act` is replaced by the following:
 
-    **(4)** A refund shall not be paid until the person has filed with the Minister all returns and other records of which the Minister has knowledge that are required to be filed under this Act, the `Excise Tax Act`, the `Income Tax Act`, the `Excise Act, 2001` and **the `Underused Housing Tax Act`**.
+    **(4)** A refund shall not be paid until the person has filed with the Minister all returns and other records of which the Minister has knowledge that are required to be filed under this Act, the `Excise Tax Act`, the `Income Tax Act`, the `Excise Act, 2001` and the `Underused Housing Tax Act`.
 
   **(2)** Subsection (1) comes into force, or is deemed to have come into force, on January 1, 2022.
 
@@ -2734,7 +2736,7 @@ the type of information or book, record, writing, return or other document obtai
 
   **(1)** Paragraph 188(6)(a) of the `Excise Act, 2001` is replaced by the following:
 
-    the Minister under this Act, the `Excise Act`, the `Excise Tax Act`, the `Income Tax Act`, the `Air Travellers Security Charge Act` and **the `Underused Housing Tax Act`**; or
+    the Minister under this Act, the `Excise Act`, the `Excise Tax Act`, the `Income Tax Act`, the `Air Travellers Security Charge Act` and the `Underused Housing Tax Act`; or
 
   **(2)** Subsection (1) comes into force, or is deemed to have come into force, on January 1, 2022.
 
@@ -2742,7 +2744,7 @@ the type of information or book, record, writing, return or other document obtai
 
   **(1)** Clause 188(7)(b)(ii)(A) of the Act is replaced by the following:
 
-    the Minister under this Act, the `Excise Act`, the `Excise Tax Act`, the `Income Tax Act`, the `Air Travellers Security Charge Act` and **the `Underused Housing Tax Act`**, or
+    the Minister under this Act, the `Excise Act`, the `Excise Tax Act`, the `Income Tax Act`, the `Air Travellers Security Charge Act` and the `Underused Housing Tax Act`, or
 
   **(2)** Subsection (1) comes into force, or is deemed to have come into force, on January 1, 2022.
 
@@ -2750,7 +2752,7 @@ the type of information or book, record, writing, return or other document obtai
 
   **(1)** Subsection 189(4) of the Act is replaced by the following:
 
-    **(4)** A refund shall not be paid until the person has filed with the Minister or the Minister of Public Safety and Emergency Preparedness all returns and other records of which the Minister has knowledge and that are required to be filed under this Act, the `Excise Act`, the `Excise Tax Act`, the `Customs Act`, the `Income Tax Act`, the `Air Travellers Security Charge Act` and **the `Underused Housing Tax Act`**.
+    **(4)** A refund shall not be paid until the person has filed with the Minister or the Minister of Public Safety and Emergency Preparedness all returns and other records of which the Minister has knowledge and that are required to be filed under this Act, the `Excise Act`, the `Excise Tax Act`, the `Customs Act`, the `Income Tax Act`, the `Air Travellers Security Charge Act` and the `Underused Housing Tax Act`.
 
   **(2)** Subsection (1) comes into force, or is deemed to have come into force, on January 1, 2022.
 
@@ -2758,7 +2760,7 @@ the type of information or book, record, writing, return or other document obtai
 
   **(1)** The description of B in paragraph 297(1)(d) of the Act is replaced by the following:
 
-    is the amount, if any, by which the total of all amounts, if any, the transferee was assessed under subsection 325(2) of the `Excise Tax Act`, subsection 160(2) of the `Income Tax Act` or **subsec­tion 80(3) of the `Underused Housing Tax Act`** in respect of the property exceeds the amount paid by the transferor in respect of the amounts so assessed, and
+    is the amount, if any, by which the total of all amounts, if any, the transferee was assessed under subsection 325(2) of the `Excise Tax Act`, subsection 160(2) of the `Income Tax Act` or subsec­tion 80(3) of the `Underused Housing Tax Act` in respect of the property exceeds the amount paid by the transferor in respect of the amounts so assessed, and
 
   **(2)** Subsection (1) comes into force, or is deemed to have come into force, on January 1, 2022.
 
@@ -2771,7 +2773,7 @@ the type of information or book, record, writing, return or other document obtai
 
 ### Section 51
 
-    A rebate under this Division is not to be paid to a person at any time unless all returns of which the Minister has knowledge and that are required to be filed at or before that time by the person under this Part, the `Excise Tax Act`, the `Income Tax Act`, the `Air Travellers Security Charge Act`, the `Excise Act, 2001` and **the `Underused Housing Tax Act`** have been filed with the Minister.
+    A rebate under this Division is not to be paid to a person at any time unless all returns of which the Minister has knowledge and that are required to be filed at or before that time by the person under this Part, the `Excise Tax Act`, the `Income Tax Act`, the `Air Travellers Security Charge Act`, the `Excise Act, 2001` and the `Underused Housing Tax Act` have been filed with the Minister.
 
   **(2)** Subsection (1) comes into force, or is deemed to have come into force, on January 1, 2022.
 
@@ -2781,7 +2783,7 @@ the type of information or book, record, writing, return or other document obtai
 
 ### Section 54
 
-    If a trustee is appointed under the `Bankruptcy and Insolvency Act` to act in the administration of the estate or succession of a bankrupt, a rebate under this Part that the bankrupt was entitled to claim before the appointment must not be paid after the appointment unless all returns required to be filed **in respect of** the bankrupt under this Part, the `Excise Tax Act`, the `Income Tax Act`, the `Air Travellers Security Charge Act`, the `Excise Act, 2001` and **the `Underused Housing Tax Act` in respect of** periods ending before the appointment have been filed and all amounts required under this Part and those Acts to be paid by the bankrupt in respect of those periods have been paid.
+    If a trustee is appointed under the `Bankruptcy and Insolvency Act` to act in the administration of the estate or succession of a bankrupt, a rebate under this Part that the bankrupt was entitled to claim before the appointment must not be paid after the appointment unless all returns required to be filed in respect of the bankrupt under this Part, the `Excise Tax Act`, the `Income Tax Act`, the `Air Travellers Security Charge Act`, the `Excise Act, 2001` and the `Underused Housing Tax Act` in respect of periods ending before the appointment have been filed and all amounts required under this Part and those Acts to be paid by the bankrupt in respect of those periods have been paid.
 
   **(2)** Subsection (1) comes into force, or is deemed to have come into force, on January 1, 2022.
 
@@ -2789,7 +2791,7 @@ the type of information or book, record, writing, return or other document obtai
 
   **(1)** Subsection 108(7) of the Act is replaced by the following:
 
-    **(7)** An amount under this section must not be rebated to a person at any time, unless all returns of which the Minister has knowledge and that are required to be filed at or before that time by the person under this Part, the `Excise Tax Act`, the `Income Tax Act`, the `Air Travellers Security Charge Act`, the `Excise Act, 2001` and **the `Underused Housing Tax Act`** have been filed with the Minister.
+    **(7)** An amount under this section must not be rebated to a person at any time, unless all returns of which the Minister has knowledge and that are required to be filed at or before that time by the person under this Part, the `Excise Tax Act`, the `Income Tax Act`, the `Air Travellers Security Charge Act`, the `Excise Act, 2001` and the `Underused Housing Tax Act` have been filed with the Minister.
 
   **(2)** Subsection (1) comes into force, or is deemed to have come into force, on January 1, 2022.
 
@@ -2797,7 +2799,7 @@ the type of information or book, record, writing, return or other document obtai
 
   **(1)** Subsection 109(5) of the Act is replaced by the following:
 
-    **(5)** An amount under this section must not be rebated to a person at any time, unless all returns of which the Minister has knowledge and that are required to be filed at or before that time by the person under this Part, the `Excise Tax Act`, the `Income Tax Act`, the `Air Travellers Security Charge Act`, the `Excise Act, 2001` and **the `Underused Housing Tax Act`** have been filed with the Minister.
+    **(5)** An amount under this section must not be rebated to a person at any time, unless all returns of which the Minister has knowledge and that are required to be filed at or before that time by the person under this Part, the `Excise Tax Act`, the `Income Tax Act`, the `Air Travellers Security Charge Act`, the `Excise Act, 2001` and the `Underused Housing Tax Act` have been filed with the Minister.
 
   **(2)** Subsection (1) comes into force, or is deemed to have come into force, on January 1, 2022.
 
@@ -2805,7 +2807,7 @@ the type of information or book, record, writing, return or other document obtai
 
   **(1)** The description of B in paragraph 161(1)(d) of the Act is replaced by the following:
 
-    is the amount, if any, by which the amount assessed the transferee under subsection 325(2) of the `Excise Tax Act`, paragraph 97.44(1)(b) of the `Customs Act`, subsection 160(2) of the `Income Tax Act`, subsection 297(3) of the `Excise Act, 2001` or **subsection 80(3) of the `Underused Housing Tax Act`** in respect of the property exceeds the amount paid by the transferor in respect of the amount so assessed, and
+    is the amount, if any, by which the amount assessed the transferee under subsection 325(2) of the `Excise Tax Act`, paragraph 97.44(1)(b) of the `Customs Act`, subsection 160(2) of the `Income Tax Act`, subsection 297(3) of the `Excise Act, 2001` or subsection 80(3) of the `Underused Housing Tax Act` in respect of the property exceeds the amount paid by the transferor in respect of the amount so assessed, and
 
   **(2)** Subsection (1) comes into force, or is deemed to have come into force, on January 1, 2022.
 
@@ -2897,7 +2899,14 @@ the limitation or prescription period applicable before that day has expired.
 
 ### Section 46
 
-The Minister of Health may make payments, the total of which may not exceed $1.72 billion, out of the Consolidated Revenue Fund for any expenses incurred on or after April 1, 2021 in relation to coronavirus disease 2019 (COVID-19) tests.
+  ****(1)**** The Minister of Health may make payments, the total of which may not exceed $1.72 billion, out of the Consolidated Revenue Fund for any expenses incurred on or after April 1, 2021 in relation to coronavirus disease 2019 (COVID-19) tests.
+
+  **(2)** Within three months after the day on which this section comes into force, and every three months
+after that, the Minister of Health must prepare a report setting out the number of payments made and
+the total amount paid under subsection (1) should any payments be made under the Act during that
+period, the number of tests purchased and how they were distributed, and cause it to be tabled in each
+House of Parliament on any of the first 15 days on which that House is sitting after the report is
+completed.
 
 
 ## `Employment Insurance Act`
@@ -2914,25 +2923,25 @@ Subsections 12(2.3) to (2.5) of the `Employment Insurance Act` are replaced by t
 
   on the date on which the benefit period is established, the claimant is ordinarily resident in a region described in Schedule VI,
 
-  in the 260 weeks before the date on which the benefit period referred to in **subparagraph (i)** begins, at least three benefit periods were established during which regular benefits were paid or payable, and
+  in the 260 weeks before the date on which the benefit period referred to in subparagraph (i) begins, at least three benefit periods were established during which regular benefits were paid or payable, and
 
-  at least two of the benefit periods referred to in **subparagraph (iii)** began around the same time of year as the benefit period referred to in **subparagraph (i)** began; **or**
+  at least two of the benefit periods referred to in subparagraph (iii) began around the same time of year as the benefit period referred to in subparagraph (i) began; or
 
   the conditions referred to in subparagraphs (a)(i) and (ii) are met and the claimant had met the criteria set out in paragraphs 77.992(2)(b) to (d) of the `Employment Insurance Regulations` — taking into account subsections 77.992(3) and (4) of those Regulations — in respect of a benefit period established for the claimant on a date within the period referred to in paragraph 77.992(2)(a) of those Regulations.
 
-**(2.4)** For the purposes of **subparagraph (2.3)(a)(iii)**, a claimant's benefit period established before the beginning of the 260-week period is considered to have been established within the 260-week period if the claimant received a notification of payment or non-payment with respect to any week that falls within that 260-week period.
+**(2.4)** For the purposes of subparagraph (2.3)(a)(iii), a claimant's benefit period established before the beginning of the 260-week period is considered to have been established within the 260-week period if the claimant received a notification of payment or non-payment with respect to any week that falls within that 260-week period.
 
-**(2.5)** For the purposes of **subparagraph (2.3)(a)(iv)**, a benefit period in a previous year is considered to have begun around the same time of year if it began during the period that begins eight weeks before and ends eight weeks after the week that is
+**(2.5)** For the purposes of subparagraph (2.3)(a)(iv), a benefit period in a previous year is considered to have begun around the same time of year if it began during the period that begins eight weeks before and ends eight weeks after the week that is
 
-  52 weeks before the first week of the benefit period referred to in **subparagraph (2.3)(a)(i)**;
+  52 weeks before the first week of the benefit period referred to in subparagraph (2.3)(a)(i);
 
-  104 weeks before the first week of the benefit period referred to in **subparagraph (2.3)(a)(i)**;
+  104 weeks before the first week of the benefit period referred to in subparagraph (2.3)(a)(i);
 
-  156 weeks before the first week of the benefit period referred to in **subparagraph (2.3)(a)(i)**;
+  156 weeks before the first week of the benefit period referred to in subparagraph (2.3)(a)(i);
 
-  208 weeks before the first week of the benefit period referred to in **subparagraph (2.3)(a)(i)**; or
+  208 weeks before the first week of the benefit period referred to in subparagraph (2.3)(a)(i); or
 
-  260 weeks before the first week of the benefit period referred to in **subparagraph (2.3)(a)(i)**.
+  260 weeks before the first week of the benefit period referred to in subparagraph (2.3)(a)(i).
 
 ### Section 48
 
