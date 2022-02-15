@@ -1,7 +1,5 @@
 # Bill C-10: An Act respecting certain measures related to COVID-19
 
-**Sponsor**: MINISTER OF HEALTH
-
 Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act respecting certain measures related to COVID-19*".
 
 ## Summary
