@@ -1,7 +1,5 @@
 # Bill C-12: An Act to amend the Old Age Security Act (Guaranteed Income Supplement)
 
-**Sponsor**: MINISTER OF SENIORS
-
 Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act to amend the Old Age Security Act (Guaranteed Income Supplement)*".
 
 ## Summary
@@ -26,10 +24,4 @@ Part VIII.4 of the `Employment Insurance Act`,
 the `Canada Recovery Benefits Act`, and
 
 the `Canada Worker Lockdown Benefit Act`,
-
-
-> **Explanatory Note**:
-> The relevant portion of the definition:
-> *Existing Text*:
-> > **income** of a person for a calendar year means the person's income for the year, computed in accordance with the `Income Tax Act`, except that
 
