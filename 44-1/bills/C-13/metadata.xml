@@ -1,0 +1,2102 @@
+<Bills>
+  <Bill>
+    <Id>11603137</Id>
+    <NumberCode>C-13</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>13</Number>
+    <LongTitleEn>An Act to amend the Official Languages Act, to enact the Use of French in Federally Regulated Private Businesses Act and to make related amendments to other Acts</LongTitleEn>
+    <LongTitleFr>Loi modifiant la Loi sur les langues officielles, édictant la Loi sur l'usage du français au sein des entreprises privées de compétence fédérale et apportant des modifications connexes à d'autres lois</LongTitleFr>
+    <LongTitle>An Act to amend the Official Languages Act, to enact the Use of French in Federally Regulated Private Businesses Act and to make related amendments to other Acts</LongTitle>
+    <ShortTitleEn>An Act for the Substantive Equality of Canada's Official Languages</ShortTitleEn>
+    <ShortTitleFr>Loi visant l'égalité réelle entre les langues officielles du Canada</ShortTitleFr>
+    <ShortTitle>An Act for the Substantive Equality of Canada's Official Languages</ShortTitle>
+    <StatusId>357</StatusId>
+    <StatusNameEn>Royal assent received</StatusNameEn>
+    <StatusNameFr>Sanction royale reçue</StatusNameFr>
+    <StatusName>Royal assent received</StatusName>
+    <LatestCompletedMajorStageId>60046</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>Royal assent</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Sanction royale</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>Royal assent</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>Royal assent</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>2</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>Senate</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Sénat</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>Senate</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60050</OngoingStageId>
+    <OngoingStageNameEn>Royal assent</OngoingStageNameEn>
+    <OngoingStageNameFr>Sanction royale</OngoingStageNameFr>
+    <OngoingStageName>Royal assent</OngoingStageName>
+    <LatestCompletedBillStageId>60050</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Royal assent</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Sanction royale</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Royal assent</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>2</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>Senate</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Sénat</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>Senate</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2023-06-20T00:00:00</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>44</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>88364</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Ginette</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Petitpas Taylor</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Ginette Petitpas Taylor</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Official Languages</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre des Langues officielles</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Official Languages</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>4</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Minister</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>ministre</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Minister</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>633</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Moncton—Riverview—Dieppe</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Moncton—Riverview—Dieppe</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Moncton—Riverview—Dieppe</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60149</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Royal assent</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Sanction royale</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60050</LatestBillEventStageId>
+    <LatestBillEventTypeName>Royal assent</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2023-06-20T14:00:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>2</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>Senate</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Sénat</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>Senate</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>136</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>When the date of a written declaration differs from that of royal assent, the date shown here is the date on which the two Houses of Parliament were notified of the written declaration.
+</LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>En cas d'écart entre la date de la déclaration écrite et celle de la sanction royale, la date indiquée ici correspond à la date à laquelle les deux chambres du Parlement ont été avisées de la déclaration écrite. 
+</LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>When the date of a written declaration differs from that of royal assent, the date shown here is the date on which the two Houses of Parliament were notified of the written declaration.
+</LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2022-03-01T10:06:10.953</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime>2022-05-30T15:30:00</PassedHouseSecondReadingDateTime>
+    <PassedHouseThirdReadingDateTime>2023-05-15T15:25:00</PassedHouseThirdReadingDateTime>
+    <PassedSenateFirstReadingDateTime>2023-05-16T00:00:00</PassedSenateFirstReadingDateTime>
+    <PassedSenateSecondReadingDateTime>2023-06-01T15:20:00</PassedSenateSecondReadingDateTime>
+    <PassedSenateThirdReadingDateTime>2023-06-15T21:49:00</PassedSenateThirdReadingDateTime>
+    <ReceivedRoyalAssentDateTime>2023-06-20T00:00:00</ReceivedRoyalAssentDateTime>
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>true</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>true</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>true</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>true</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>true</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information, Education and Research Services of the Library of Parliament. Meanwhile, the following executive summary is available.&lt;br/&gt;&lt;br/&gt;On 1 March 2022, the Minister of Official Languages introduced Bill C-13, An Act to amend the Official Languages Act, to enact the Use of French in Federally Regulated Private Businesses Act and to make related amendments to other Acts (An Act for the Substantive Equality of Canada's Official Languages) and it was given first reading.   &lt;br/&gt;&lt;br/&gt;Part 1 amends the Official Languages Act to, among other things,&lt;br/&gt;&lt;br/&gt;(a) specify that all legal obligations related to the official languages apply at all times, including during emergencies;&lt;br/&gt;&lt;br/&gt;(b) codify certain interpretative principles regarding language rights;&lt;br/&gt;&lt;br/&gt;(c) provide that section 16 of that Act applies to the Supreme Court of Canada;&lt;br/&gt;&lt;br/&gt;(d) provide that a final decision, order or judgment of a federal court that has precedential value is to be made available simultaneously in both official languages;&lt;br/&gt;&lt;br/&gt;(e) provide for Government of Canada commitments to&lt;br/&gt;&lt;br/&gt;(i) protect and promote French,&lt;br/&gt;&lt;br/&gt;(ii) contribute to an estimate of the number of children whose parents are rights holders under section 23 of the Canadian Charter of Rights and Freedoms,&lt;br/&gt;&lt;br/&gt;(iii) advance opportunities for members of English and French linguistic minority communities to pursue quality learning in their own language throughout their lives, including from early childhood to post-secondary education, and&lt;br/&gt;&lt;br/&gt;(iv) advance the use of English and French in the conduct of Canada's external affairs;&lt;br/&gt;&lt;br/&gt;(f) clarify the nature of the duty of federal institutions to take positive measures to implement certain Government of Canada commitments and the manner in which the duty is to be carried out;&lt;br/&gt;&lt;br/&gt;(g) provide for certain positive measures that federal institutions may take to implement certain Government of Canada commitments, including measures to&lt;br/&gt;&lt;br/&gt;(i) promote and support the learning of English and French in Canada, and&lt;br/&gt;&lt;br/&gt;(ii) support sectors that are essential to enhancing the vitality of English and French linguistic minority communities and protect and promote the presence of strong institutions serving those communities;&lt;br/&gt;&lt;br/&gt;(h) provide for certain measures that the Minister of Canadian Heritage may take to advance the equality of status and use of English and French in Canadian society;&lt;br/&gt;&lt;br/&gt;(i) provide that the Minister of Citizenship and Immigration is required to adopt a policy on francophone immigration and that the policy is to include, among other things, objectives, targets and indicators;&lt;br/&gt;&lt;br/&gt;(j) provide that the Government of Canada recognizes the importance of cooperating with provincial and territorial governments;&lt;br/&gt;&lt;br/&gt;(k) provide that the Treasury Board is required to establish policies to give effect to certain parts of that Act, monitor and audit federal institutions for their compliance with policies, directives and regulations relating to the official languages, evaluate the effectiveness and efficiency of policies and programs of federal institutions relating to the official languages and provide certain information to the public and to employees of federal institutions;&lt;br/&gt;&lt;br/&gt;(l) enable the Commissioner of Official Languages to enter into compliance agreements and, in certain cases, to make orders; and&lt;br/&gt;&lt;br/&gt;(m) enable the Commissioner of Official Languages to impose administrative monetary penalties on certain entities for non-compliance with certain provisions of Part IV of that Act.&lt;br/&gt;&lt;br/&gt;It also makes a related amendment to the Department of Canadian Heritage Act.&lt;br/&gt;&lt;br/&gt;Part 2 enacts the Use of French in Federally Regulated Private Businesses Act, which, among other things, provides for rights and duties respecting the use of French as a language of service and a language of work in relation to federally regulated private businesses in Quebec and then, at a later date, in regions with a strong francophone presence. That Act also allows employees of federally regulated private businesses to make a complaint to the Commissioner of Official Languages with respect to rights and duties in relation to language of work and allows the Commissioner to refer the complaint to the Canada Industrial Relations Board in certain circumstances. It also provides that the Minister of Canadian Heritage is responsible for promoting those rights. Finally, Part 2 makes related amendments to the Canada Labour Code.&lt;/div&gt;</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>&lt;div&gt;Les Service d'information, d'éducation et de recherche parlementaires de la Bibliothèque du Parlement rédige actuellement le résumé législatif de ce projet de loi.  Entre-temps, le Service met à votre disposition le sommaire suivant.  &lt;br/&gt;&lt;br/&gt;Le 1 mars 2022, le ministre des Langues officielles a déposé le projet de loi C-13, Loi modifiant la Loi sur les langues officielles, édictant la Loi sur l'usage du français au sein des entreprises privées de compétence fédérale et apportant des modifications connexes à d'autres lois (Loi visant l'égalité réelle entre les langues officielles du Canada) à la Chambre des communes en première lecture. &lt;br/&gt;&lt;br/&gt;La partie 1 modifie la Loi sur les langues officielles pour, notamment?:&lt;br/&gt;&lt;br/&gt;a) préciser que les obligations juridiques relatives aux langues officielles s'appliquent en tout temps, notamment lors de situations d'urgence;&lt;br/&gt;&lt;br/&gt;b) codifier certaines règles interprétatives concernant les droits linguistiques;&lt;br/&gt;&lt;br/&gt;c) prévoir que l'article 16 de la Loi s'applique à la Cour suprême du Canada;&lt;br/&gt;&lt;br/&gt;d) prévoir que les décisions définitives des tribunaux fédéraux sont simultanément mises à la disposition du public dans les deux langues officielles si elles ont valeur de précédent;&lt;br/&gt;&lt;br/&gt;e) prévoir que le gouvernement fédéral prend des engagements?:&lt;br/&gt;&lt;br/&gt;(i) pour protéger et promouvoir le français,&lt;br/&gt;&lt;br/&gt;(ii) pour contribuer à l'estimation du nombre d'enfants dont les parents sont titulaires du droit prévu à l'article 23 de la Charte canadienne des droits et libertés,&lt;br/&gt;&lt;br/&gt;(iii) pour renforcer les possibilités pour les minorités francophones et anglophones de faire des apprentissages de qualité dans leur propre langue tout au long de leur vie, notamment depuis la petite enfance jusqu'aux études postsecondaires,&lt;br/&gt;&lt;br/&gt;(iv) pour favoriser l'usage du français et de l'anglais dans la conduite des affaires extérieures du Canada;&lt;br/&gt;&lt;br/&gt;f) apporter des précisions sur la nature de l'obligation des institutions fédérales de prendre des mesures positives pour mettre en œuvre certains engagements du gouvernement fédéral et la manière dont l'obligation doit être exécutée;&lt;br/&gt;&lt;br/&gt;g) prévoir certaines mesures positives que les institutions fédérales peuvent prendre pour mettre en œuvre certains engagements du gouvernement fédéral, notamment toute mesure?:&lt;br/&gt;&lt;br/&gt;(i) pour promouvoir et appuyer l'apprentissage du français et de l'anglais au Canada,&lt;br/&gt;&lt;br/&gt;(ii) pour appuyer des secteurs essentiels à l'épanouissement des minorités francophones et anglophones et pour protéger et promouvoir la présence d'institutions fortes qui desservent ces minorités;&lt;br/&gt;&lt;br/&gt;h) prévoir certaines mesures que le ministre du Patrimoine canadien peut prendre pour favoriser la progression vers l'égalité de statut et d'usage du français et de l'anglais dans la société canadienne;&lt;br/&gt;&lt;br/&gt;i) prévoir que le ministre de la Citoyenneté et de l'Immigration est tenu d'adopter une politique en matière d'immigration francophone qui comprend notamment des objectifs, des cibles et des indicateurs;&lt;br/&gt;&lt;br/&gt;j) prévoir que le gouvernement fédéral reconnaît l'importance de la collaboration avec les gouvernements provinciaux et territoriaux;&lt;br/&gt;&lt;br/&gt;k) prévoir que le Conseil du Trésor est tenu d'établir des principes d'application de certaines parties de la Loi, de surveiller et vérifier l'observation par les institutions fédérales des principes, instructions et règlements en matière de langues officielles, d'évaluer l'efficacité des principes et programmes des institutions fédérales en matière de langues officielles et de fournir certains renseignements au public et aux employés des institutions fédérales;&lt;br/&gt;&lt;br/&gt;l) permettre au commissaire aux langues officielles de conclure des accords de conformité et de rendre, dans certains cas, des ordonnances;&lt;br/&gt;&lt;br/&gt;m) permettre au commissaire aux langues officielles d'infliger des sanctions administratives pécuniaires à certaines entités qui contreviennent à certaines dispositions de la partie IV de la Loi.&lt;br/&gt;&lt;br/&gt;Elle apporte également une modification connexe à la Loi sur le ministère du Patrimoine canadien.&lt;br/&gt;&lt;br/&gt;La partie 2 édicte la Loi sur l'usage du français au sein des entreprises privées de compétence fédérale, laquelle prévoit notamment des droits et des obligations concernant l'usage du français en tant que langue de service et langue de travail relativement aux entreprises privées de compétence fédérale au Québec et, à une date ultérieure, dans des régions à forte présence francophone. Entre autres, elle permet aux employés des entreprises privées de compétence fédérale de porter plainte auprès du commissaire aux langues officielles relativement aux droits et obligations liés à la langue de travail, et autorise le commissaire à renvoyer la plainte au Conseil canadien des relations industrielles dans certaines circonstances. En outre, elle prévoit que le ministre du Patrimoine canadien est chargé de promouvoir ces droits. Enfin, la partie 2 apporte des modifications connexes au Code canadien du travail.&lt;/div&gt;</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information, Education and Research Services of the Library of Parliament. Meanwhile, the following executive summary is available.&lt;br/&gt;&lt;br/&gt;On 1 March 2022, the Minister of Official Languages introduced Bill C-13, An Act to amend the Official Languages Act, to enact the Use of French in Federally Regulated Private Businesses Act and to make related amendments to other Acts (An Act for the Substantive Equality of Canada's Official Languages) and it was given first reading.   &lt;br/&gt;&lt;br/&gt;Part 1 amends the Official Languages Act to, among other things,&lt;br/&gt;&lt;br/&gt;(a) specify that all legal obligations related to the official languages apply at all times, including during emergencies;&lt;br/&gt;&lt;br/&gt;(b) codify certain interpretative principles regarding language rights;&lt;br/&gt;&lt;br/&gt;(c) provide that section 16 of that Act applies to the Supreme Court of Canada;&lt;br/&gt;&lt;br/&gt;(d) provide that a final decision, order or judgment of a federal court that has precedential value is to be made available simultaneously in both official languages;&lt;br/&gt;&lt;br/&gt;(e) provide for Government of Canada commitments to&lt;br/&gt;&lt;br/&gt;(i) protect and promote French,&lt;br/&gt;&lt;br/&gt;(ii) contribute to an estimate of the number of children whose parents are rights holders under section 23 of the Canadian Charter of Rights and Freedoms,&lt;br/&gt;&lt;br/&gt;(iii) advance opportunities for members of English and French linguistic minority communities to pursue quality learning in their own language throughout their lives, including from early childhood to post-secondary education, and&lt;br/&gt;&lt;br/&gt;(iv) advance the use of English and French in the conduct of Canada's external affairs;&lt;br/&gt;&lt;br/&gt;(f) clarify the nature of the duty of federal institutions to take positive measures to implement certain Government of Canada commitments and the manner in which the duty is to be carried out;&lt;br/&gt;&lt;br/&gt;(g) provide for certain positive measures that federal institutions may take to implement certain Government of Canada commitments, including measures to&lt;br/&gt;&lt;br/&gt;(i) promote and support the learning of English and French in Canada, and&lt;br/&gt;&lt;br/&gt;(ii) support sectors that are essential to enhancing the vitality of English and French linguistic minority communities and protect and promote the presence of strong institutions serving those communities;&lt;br/&gt;&lt;br/&gt;(h) provide for certain measures that the Minister of Canadian Heritage may take to advance the equality of status and use of English and French in Canadian society;&lt;br/&gt;&lt;br/&gt;(i) provide that the Minister of Citizenship and Immigration is required to adopt a policy on francophone immigration and that the policy is to include, among other things, objectives, targets and indicators;&lt;br/&gt;&lt;br/&gt;(j) provide that the Government of Canada recognizes the importance of cooperating with provincial and territorial governments;&lt;br/&gt;&lt;br/&gt;(k) provide that the Treasury Board is required to establish policies to give effect to certain parts of that Act, monitor and audit federal institutions for their compliance with policies, directives and regulations relating to the official languages, evaluate the effectiveness and efficiency of policies and programs of federal institutions relating to the official languages and provide certain information to the public and to employees of federal institutions;&lt;br/&gt;&lt;br/&gt;(l) enable the Commissioner of Official Languages to enter into compliance agreements and, in certain cases, to make orders; and&lt;br/&gt;&lt;br/&gt;(m) enable the Commissioner of Official Languages to impose administrative monetary penalties on certain entities for non-compliance with certain provisions of Part IV of that Act.&lt;br/&gt;&lt;br/&gt;It also makes a related amendment to the Department of Canadian Heritage Act.&lt;br/&gt;&lt;br/&gt;Part 2 enacts the Use of French in Federally Regulated Private Businesses Act, which, among other things, provides for rights and duties respecting the use of French as a language of service and a language of work in relation to federally regulated private businesses in Quebec and then, at a later date, in regions with a strong francophone presence. That Act also allows employees of federally regulated private businesses to make a complaint to the Commissioner of Official Languages with respect to rights and duties in relation to language of work and allows the Commissioner to refer the complaint to the Canada Industrial Relations Board in certain circumstances. It also provides that the Minister of Canadian Heritage is responsible for promoting those rights. Finally, Part 2 makes related amendments to the Canada Labour Code.&lt;/div&gt;</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear>2023</StatuteYear>
+    <StatuteChapter>15</StatuteChapter>
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2022-03-01T10:06:10.953</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>38</Number>
+          <Date>2022-03-01T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2022-03-01T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2022-03-01T10:06:10.953</EventStartDateTime>
+          <EventEndDateTime>2022-03-01T10:06:10.953</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2022-03-01T10:06:10.953</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2022-05-30T15:30:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>27186</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Official Languages</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des langues officielles</CommitteeNameFr>
+          <CommitteeAcronym>LANG</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Official Languages</CommitteeName>
+          <StudyActivityId>11719287</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>51</Number>
+          <Date>2022-04-01T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>54</Number>
+          <Date>2022-04-06T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>70</Number>
+          <Date>2022-05-12T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>76</Number>
+          <Date>2022-05-20T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>77</Number>
+          <Date>2022-05-30T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>11714850</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>11608401</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>2nd reading and referral to committee - LANG</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>2e lecture et renvoi en comité - LANG</DecisionMotionTitleFr>
+          <DecisionMotionTitle>2nd reading and referral to committee - LANG</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>10</DecisionMethodId>
+          <DecisionMethodNameEn>On recorded division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Suivant un vote par appel nominal</DecisionMethodNameFr>
+          <DecisionMethodName>On recorded division</DecisionMethodName>
+          <DivisionNumber>108</DivisionNumber>
+          <DivisionVotesYeas>289</DivisionVotesYeas>
+          <DivisionVotesNays>29</DivisionVotesNays>
+          <DivisionVotePaired>0</DivisionVotePaired>
+          <DecisionSittingDate>2022-05-30T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>77</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60121</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading and referral to committee</EventNameEn>
+          <EventNameFr>Deuxième lecture et renvoi en comité</EventNameFr>
+          <EventName>Second reading and referral to committee</EventName>
+          <EventDateTime>2022-05-30T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60121</EventTypeId>
+          <EventTypeNameEn>Second reading and referral to committee</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture et renvoi en comité</EventTypeNameFr>
+          <EventTypeName>Second reading and referral to committee</EventTypeName>
+          <EventStartDateTime>2022-05-30T15:30:00</EventStartDateTime>
+          <EventEndDateTime>2022-05-30T15:30:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2022-05-30T15:30:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>11605981</InterventionEventId>
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>88364</PersonId>
+          <PersonOfficialFirstName>Ginette</PersonOfficialFirstName>
+          <PersonOfficialLastName>Petitpas Taylor</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Ginette Petitpas Taylor</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>51</MeetingNumber>
+          <SpeechDateTime>2022-04-01T10:02:47</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>11606075</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>89407</PersonId>
+          <PersonOfficialFirstName>Joël</PersonOfficialFirstName>
+          <PersonOfficialLastName>Godin</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Joël Godin</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>51</MeetingNumber>
+          <SpeechDateTime>2022-04-01T10:31:40</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>11606612</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>376</PersonId>
+          <PersonOfficialFirstName>Mario</PersonOfficialFirstName>
+          <PersonOfficialLastName>Beaulieu</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Mario Beaulieu</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Bloc Québécois</CaucusShortNameEn>
+          <CaucusShortNameFr>Bloc Québécois</CaucusShortNameFr>
+          <CaucusShortName>Bloc Québécois</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>51</MeetingNumber>
+          <SpeechDateTime>2022-04-01T12:20:52</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>11606678</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>36037</PersonId>
+          <PersonOfficialFirstName>Niki</PersonOfficialFirstName>
+          <PersonOfficialLastName>Ashton</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Niki Ashton</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>NDP</CaucusShortNameEn>
+          <CaucusShortNameFr>NPD</CaucusShortNameFr>
+          <CaucusShortName>NDP</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>51</MeetingNumber>
+          <SpeechDateTime>2022-04-01T12:51:34</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2023-04-18T10:49:35.727</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>27186</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Official Languages</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des langues officielles</CommitteeNameFr>
+          <CommitteeAcronym>LANG</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Official Languages</CommitteeName>
+          <StudyActivityId>11719287</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented with amendments</NameEn>
+          <NameFr>Présentation du rapport de comité avec des amendements</NameFr>
+          <Name>Committee report presented with amendments</Name>
+          <Number>179</Number>
+          <Date>2023-04-18T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27186</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Official Languages</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des langues officielles</CommitteeNameFr>
+          <CommitteeAcronym>LANG</CommitteeAcronym>
+          <Number>25</Number>
+          <Date>2022-06-06T00:00:00</Date>
+          <CommitteeName>Standing Committee on Official Languages</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27186</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Official Languages</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des langues officielles</CommitteeNameFr>
+          <CommitteeAcronym>LANG</CommitteeAcronym>
+          <Number>26</Number>
+          <Date>2022-06-08T00:00:00</Date>
+          <CommitteeName>Standing Committee on Official Languages</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27186</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Official Languages</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des langues officielles</CommitteeNameFr>
+          <CommitteeAcronym>LANG</CommitteeAcronym>
+          <Number>28</Number>
+          <Date>2022-06-20T00:00:00</Date>
+          <CommitteeName>Standing Committee on Official Languages</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27186</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Official Languages</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des langues officielles</CommitteeNameFr>
+          <CommitteeAcronym>LANG</CommitteeAcronym>
+          <Number>30</Number>
+          <Date>2022-09-22T00:00:00</Date>
+          <CommitteeName>Standing Committee on Official Languages</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27186</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Official Languages</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des langues officielles</CommitteeNameFr>
+          <CommitteeAcronym>LANG</CommitteeAcronym>
+          <Number>31</Number>
+          <Date>2022-09-27T00:00:00</Date>
+          <CommitteeName>Standing Committee on Official Languages</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27186</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Official Languages</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des langues officielles</CommitteeNameFr>
+          <CommitteeAcronym>LANG</CommitteeAcronym>
+          <Number>32</Number>
+          <Date>2022-10-04T00:00:00</Date>
+          <CommitteeName>Standing Committee on Official Languages</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27186</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Official Languages</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des langues officielles</CommitteeNameFr>
+          <CommitteeAcronym>LANG</CommitteeAcronym>
+          <Number>33</Number>
+          <Date>2022-10-06T00:00:00</Date>
+          <CommitteeName>Standing Committee on Official Languages</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27186</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Official Languages</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des langues officielles</CommitteeNameFr>
+          <CommitteeAcronym>LANG</CommitteeAcronym>
+          <Number>34</Number>
+          <Date>2022-10-18T00:00:00</Date>
+          <CommitteeName>Standing Committee on Official Languages</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27186</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Official Languages</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des langues officielles</CommitteeNameFr>
+          <CommitteeAcronym>LANG</CommitteeAcronym>
+          <Number>35</Number>
+          <Date>2022-10-20T00:00:00</Date>
+          <CommitteeName>Standing Committee on Official Languages</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27186</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Official Languages</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des langues officielles</CommitteeNameFr>
+          <CommitteeAcronym>LANG</CommitteeAcronym>
+          <Number>36</Number>
+          <Date>2022-10-25T00:00:00</Date>
+          <CommitteeName>Standing Committee on Official Languages</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27186</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Official Languages</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des langues officielles</CommitteeNameFr>
+          <CommitteeAcronym>LANG</CommitteeAcronym>
+          <Number>37</Number>
+          <Date>2022-10-27T00:00:00</Date>
+          <CommitteeName>Standing Committee on Official Languages</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27186</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Official Languages</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des langues officielles</CommitteeNameFr>
+          <CommitteeAcronym>LANG</CommitteeAcronym>
+          <Number>38</Number>
+          <Date>2022-11-01T00:00:00</Date>
+          <CommitteeName>Standing Committee on Official Languages</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27186</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Official Languages</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des langues officielles</CommitteeNameFr>
+          <CommitteeAcronym>LANG</CommitteeAcronym>
+          <Number>43</Number>
+          <Date>2022-12-06T00:00:00</Date>
+          <CommitteeName>Standing Committee on Official Languages</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27186</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Official Languages</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des langues officielles</CommitteeNameFr>
+          <CommitteeAcronym>LANG</CommitteeAcronym>
+          <Number>44</Number>
+          <Date>2022-12-08T00:00:00</Date>
+          <CommitteeName>Standing Committee on Official Languages</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27186</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Official Languages</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des langues officielles</CommitteeNameFr>
+          <CommitteeAcronym>LANG</CommitteeAcronym>
+          <Number>45</Number>
+          <Date>2022-12-13T00:00:00</Date>
+          <CommitteeName>Standing Committee on Official Languages</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27186</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Official Languages</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des langues officielles</CommitteeNameFr>
+          <CommitteeAcronym>LANG</CommitteeAcronym>
+          <Number>46</Number>
+          <Date>2023-01-31T00:00:00</Date>
+          <CommitteeName>Standing Committee on Official Languages</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27186</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Official Languages</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des langues officielles</CommitteeNameFr>
+          <CommitteeAcronym>LANG</CommitteeAcronym>
+          <Number>47</Number>
+          <Date>2023-02-03T00:00:00</Date>
+          <CommitteeName>Standing Committee on Official Languages</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27186</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Official Languages</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des langues officielles</CommitteeNameFr>
+          <CommitteeAcronym>LANG</CommitteeAcronym>
+          <Number>48</Number>
+          <Date>2023-02-07T00:00:00</Date>
+          <CommitteeName>Standing Committee on Official Languages</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27186</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Official Languages</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des langues officielles</CommitteeNameFr>
+          <CommitteeAcronym>LANG</CommitteeAcronym>
+          <Number>49</Number>
+          <Date>2023-02-10T00:00:00</Date>
+          <CommitteeName>Standing Committee on Official Languages</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27186</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Official Languages</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des langues officielles</CommitteeNameFr>
+          <CommitteeAcronym>LANG</CommitteeAcronym>
+          <Number>50</Number>
+          <Date>2023-02-14T00:00:00</Date>
+          <CommitteeName>Standing Committee on Official Languages</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27186</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Official Languages</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des langues officielles</CommitteeNameFr>
+          <CommitteeAcronym>LANG</CommitteeAcronym>
+          <Number>51</Number>
+          <Date>2023-02-17T00:00:00</Date>
+          <CommitteeName>Standing Committee on Official Languages</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27186</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Official Languages</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des langues officielles</CommitteeNameFr>
+          <CommitteeAcronym>LANG</CommitteeAcronym>
+          <Number>53</Number>
+          <Date>2023-03-10T00:00:00</Date>
+          <CommitteeName>Standing Committee on Official Languages</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27186</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Official Languages</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des langues officielles</CommitteeNameFr>
+          <CommitteeAcronym>LANG</CommitteeAcronym>
+          <Number>54</Number>
+          <Date>2023-03-21T00:00:00</Date>
+          <CommitteeName>Standing Committee on Official Languages</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27186</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Official Languages</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des langues officielles</CommitteeNameFr>
+          <CommitteeAcronym>LANG</CommitteeAcronym>
+          <Number>55</Number>
+          <Date>2023-03-31T00:00:00</Date>
+          <CommitteeName>Standing Committee on Official Languages</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27186</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Official Languages</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des langues officielles</CommitteeNameFr>
+          <CommitteeAcronym>LANG</CommitteeAcronym>
+          <Number>56</Number>
+          <Date>2023-03-31T00:00:00</Date>
+          <CommitteeName>Standing Committee on Official Languages</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented with amendments</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité avec des amendements</EventNameFr>
+          <EventName>Committee report presented with amendments</EventName>
+          <EventDateTime>2023-04-18T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId>12190947</CommitteeReportId>
+          <CommitteeReportNumber>1</CommitteeReportNumber>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2023-04-18T10:49:35.727</EventStartDateTime>
+          <EventEndDateTime>2023-04-18T10:49:35.727</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2023-04-18T10:49:35.727</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2023-05-11T15:45:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>185</Number>
+          <Date>2023-04-26T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>194</Number>
+          <Date>2023-05-10T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>195</Number>
+          <Date>2023-05-11T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60285</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Concurrence at report stage</EventNameEn>
+          <EventNameFr>Adoption à l'étape du rapport</EventNameFr>
+          <EventName>Concurrence at report stage</EventName>
+          <EventDateTime>2023-05-11T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60285</EventTypeId>
+          <EventTypeNameEn>Concurrence at report stage</EventTypeNameEn>
+          <EventTypeNameFr>Adoption à l'étape du rapport</EventTypeNameFr>
+          <EventTypeName>Concurrence at report stage</EventTypeName>
+          <EventStartDateTime>2023-05-11T15:45:00</EventStartDateTime>
+          <EventEndDateTime>2023-05-11T15:45:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2023-05-11T15:45:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2023-05-15T15:25:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>196</Number>
+          <Date>2023-05-12T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Third reading</NameEn>
+          <NameFr>Troisième lecture</NameFr>
+          <Name>Third reading</Name>
+          <Number>197</Number>
+          <Date>2023-05-15T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>12214096</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>11608403</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>3rd reading</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>3e lecture</DecisionMotionTitleFr>
+          <DecisionMotionTitle>3rd reading</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>10</DecisionMethodId>
+          <DecisionMethodNameEn>On recorded division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Suivant un vote par appel nominal</DecisionMethodNameFr>
+          <DecisionMethodName>On recorded division</DecisionMethodName>
+          <DivisionNumber>323</DivisionNumber>
+          <DivisionVotesYeas>301</DivisionVotesYeas>
+          <DivisionVotesNays>1</DivisionVotesNays>
+          <DivisionVotePaired>14</DivisionVotePaired>
+          <DecisionSittingDate>2023-05-15T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>197</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2023-05-15T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2023-05-15T15:25:00</EventStartDateTime>
+          <EventEndDateTime>2023-05-15T15:25:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2023-05-15T15:25:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60038</BillStageId>
+        <BillStageNameEn>Senate pre-study</BillStageNameEn>
+        <BillStageNameFr>Étude préalable au Sénat</BillStageNameFr>
+        <BillStageName>Senate pre-study</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2022-11-17T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16056</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Official Languages</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des langues officielles</CommitteeNameFr>
+          <CommitteeAcronym>OLLO</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Official Languages</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Pre-study of House bill</NameEn>
+          <NameFr>Étude préalable d'un projet de loi émanant de la Chambre des communes</NameFr>
+          <Name>Pre-study of House bill</Name>
+          <Number>47</Number>
+          <Date>2022-05-31T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Committee report on subject matter of bill tabled</NameEn>
+          <NameFr>Dépôt du rapport de comité sur l'objet du projet de loi</NameFr>
+          <Name>Committee report on subject matter of bill tabled</Name>
+          <Number>81</Number>
+          <Date>2022-11-17T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16056</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Official Languages</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des langues officielles</CommitteeNameFr>
+          <CommitteeAcronym>OLLO</CommitteeAcronym>
+          <Number>11</Number>
+          <Date>2022-06-13T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Official Languages</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16056</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Official Languages</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des langues officielles</CommitteeNameFr>
+          <CommitteeAcronym>OLLO</CommitteeAcronym>
+          <Number>12</Number>
+          <Date>2022-06-16T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Official Languages</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16056</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Official Languages</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des langues officielles</CommitteeNameFr>
+          <CommitteeAcronym>OLLO</CommitteeAcronym>
+          <Number>13</Number>
+          <Date>2022-06-20T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Official Languages</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16056</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Official Languages</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des langues officielles</CommitteeNameFr>
+          <CommitteeAcronym>OLLO</CommitteeAcronym>
+          <Number>14</Number>
+          <Date>2022-09-26T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Official Languages</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16056</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Official Languages</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des langues officielles</CommitteeNameFr>
+          <CommitteeAcronym>OLLO</CommitteeAcronym>
+          <Number>15</Number>
+          <Date>2022-10-03T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Official Languages</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16056</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Official Languages</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des langues officielles</CommitteeNameFr>
+          <CommitteeAcronym>OLLO</CommitteeAcronym>
+          <Number>16</Number>
+          <Date>2022-10-17T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Official Languages</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16056</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Official Languages</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des langues officielles</CommitteeNameFr>
+          <CommitteeAcronym>OLLO</CommitteeAcronym>
+          <Number>17</Number>
+          <Date>2022-10-24T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Official Languages</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16056</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Official Languages</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des langues officielles</CommitteeNameFr>
+          <CommitteeAcronym>OLLO</CommitteeAcronym>
+          <Number>18</Number>
+          <Date>2022-10-31T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Official Languages</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60109</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Pre-study of House bill</EventNameEn>
+          <EventNameFr>Étude préalable d'un projet de loi émanant de la Chambre des communes</EventNameFr>
+          <EventName>Pre-study of House bill</EventName>
+          <EventDateTime>2022-05-31T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>false</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <SignificantEvents>
+          <EventTypeId>60305</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report on subject matter of bill tabled</EventNameEn>
+          <EventNameFr>Dépôt du rapport de comité sur l'objet du projet de loi</EventNameFr>
+          <EventName>Committee report on subject matter of bill tabled</EventName>
+          <EventDateTime>2022-11-17T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60305</EventTypeId>
+          <EventTypeNameEn>Committee report on subject matter of bill tabled</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt du rapport de comité sur l'objet du projet de loi</EventTypeNameFr>
+          <EventTypeName>Committee report on subject matter of bill tabled</EventTypeName>
+          <EventStartDateTime>2022-11-17T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2022-11-17T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2022-11-17T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2023-05-16T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>First reading</NameEn>
+          <NameFr>Première lecture</NameFr>
+          <Name>First reading</Name>
+          <Number>124</Number>
+          <Date>2023-05-16T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60111</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>First reading</EventNameEn>
+          <EventNameFr>Première lecture</EventNameFr>
+          <EventName>First reading</EventName>
+          <EventDateTime>2023-05-16T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60111</EventTypeId>
+          <EventTypeNameEn>First reading</EventTypeNameEn>
+          <EventTypeNameFr>Première lecture</EventTypeNameFr>
+          <EventTypeName>First reading</EventTypeName>
+          <EventStartDateTime>2023-05-16T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2023-05-16T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2023-05-16T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2023-06-01T15:20:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16056</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Official Languages</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des langues officielles</CommitteeNameFr>
+          <CommitteeAcronym>OLLO</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Official Languages</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>126</Number>
+          <Date>2023-05-18T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>127</Number>
+          <Date>2023-05-30T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>129</Number>
+          <Date>2023-06-01T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60120</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading</EventNameEn>
+          <EventNameFr>Deuxième lecture</EventNameFr>
+          <EventName>Second reading</EventName>
+          <EventDateTime>2023-06-01T15:20:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <SignificantEvents>
+          <EventTypeId>60123</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Referral to committee</EventNameEn>
+          <EventNameFr>Renvoi en comité</EventNameFr>
+          <EventName>Referral to committee</EventName>
+          <EventDateTime>2023-06-01T15:21:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60120</EventTypeId>
+          <EventTypeNameEn>Second reading</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture</EventTypeNameFr>
+          <EventTypeName>Second reading</EventTypeName>
+          <EventStartDateTime>2023-06-01T15:20:00</EventStartDateTime>
+          <EventEndDateTime>2023-06-01T15:20:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2023-06-01T15:21:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>32624</PersonId>
+          <PersonOfficialFirstName>René</PersonOfficialFirstName>
+          <PersonOfficialLastName>Cormier</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>René Cormier</PersonName>
+          <SenateSystemAffiliationId>207798</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Independent Senators Group</CaucusShortNameEn>
+          <CaucusShortNameFr>Groupe des sénateurs indépendants</CaucusShortNameFr>
+          <CaucusShortName>Independent Senators Group</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>126</MeetingNumber>
+          <SpeechDateTime>2023-05-18T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/441/debates/126db_2023-05-18-e#49</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/441/debates/126db_2023-05-18-f#49</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/441/debates/126db_2023-05-18-e#49</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>64797</PersonId>
+          <PersonOfficialFirstName>Rose-May</PersonOfficialFirstName>
+          <PersonOfficialLastName>Poirier</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Rose-May Poirier</PersonName>
+          <SenateSystemAffiliationId>2867</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>129</MeetingNumber>
+          <SpeechDateTime>2023-06-01T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/441/debates/129db_2023-06-01-e#67</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/441/debates/129db_2023-06-01-f#67</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/441/debates/129db_2023-06-01-e#67</Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>true</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2023-06-13T14:22:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16056</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Official Languages</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des langues officielles</CommitteeNameFr>
+          <CommitteeAcronym>OLLO</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Official Languages</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented</NameEn>
+          <NameFr>Présentation du rapport de comité</NameFr>
+          <Name>Committee report presented</Name>
+          <Number>133</Number>
+          <Date>2023-06-13T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16056</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Official Languages</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des langues officielles</CommitteeNameFr>
+          <CommitteeAcronym>OLLO</CommitteeAcronym>
+          <Number>35</Number>
+          <Date>2023-06-05T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Official Languages</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16056</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Official Languages</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des langues officielles</CommitteeNameFr>
+          <CommitteeAcronym>OLLO</CommitteeAcronym>
+          <Number>36</Number>
+          <Date>2023-06-12T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Official Languages</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité</EventNameFr>
+          <EventName>Committee report presented</EventName>
+          <EventDateTime>2023-06-13T14:22:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2023-06-13T14:22:00</EventStartDateTime>
+          <EventEndDateTime>2023-06-13T14:22:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2023-06-13T14:22:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2023-06-15T21:49:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>134</Number>
+          <Date>2023-06-14T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>135</Number>
+          <Date>2023-06-15T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2023-06-15T21:49:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2023-06-15T21:49:00</EventStartDateTime>
+          <EventEndDateTime>2023-06-15T21:49:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2023-06-15T21:49:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <RoyalAssent>
+        <BillStageId>60050</BillStageId>
+        <BillStageNameEn>Royal assent</BillStageNameEn>
+        <BillStageNameFr>Sanction royale</BillStageNameFr>
+        <BillStageName>Royal assent</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>0</State>
+        <StateNameEn />
+        <StateNameFr />
+        <StateAsOfDate />
+        <StateName />
+        <Committee />
+        <Sittings>
+          <NameEn>Royal assent</NameEn>
+          <NameFr>Sanction royale</NameFr>
+          <Name>Royal assent</Name>
+          <Number>136</Number>
+          <Date>2023-06-20T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60149</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Royal assent</EventNameEn>
+          <EventNameFr>Sanction royale</EventNameFr>
+          <EventName>Royal assent</EventName>
+          <EventDateTime>2023-06-20T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>When the date of a written declaration differs from that of royal assent, the date shown here is the date on which the two Houses of Parliament were notified of the written declaration.
+</AdditionalInformationEn>
+          <AdditionalInformationFr>En cas d'écart entre la date de la déclaration écrite et celle de la sanction royale, la date indiquée ici correspond à la date à laquelle les deux chambres du Parlement ont été avisées de la déclaration écrite. 
+</AdditionalInformationFr>
+          <AdditionalInformation>When the date of a written declaration differs from that of royal assent, the date shown here is the date on which the two Houses of Parliament were notified of the written declaration.
+</AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60149</EventTypeId>
+          <EventTypeNameEn>Royal assent</EventTypeNameEn>
+          <EventTypeNameFr>Sanction royale</EventTypeNameFr>
+          <EventTypeName>Royal assent</EventTypeName>
+          <EventStartDateTime>2023-06-20T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2023-06-20T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2023-06-20T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </RoyalAssent>
+    </BillStages>
+    <Publications>
+      <PublicationId>11608647</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>12342080</PublicationId>
+      <PublicationTypeId>80702</PublicationTypeId>
+      <PublicationTypeNameEn>As amended by committee</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel que modifié par le comité</PublicationTypeNameFr>
+      <PublicationTypeName>As amended by committee</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>12434474</PublicationId>
+      <PublicationTypeId>80703</PublicationTypeId>
+      <PublicationTypeNameEn>As passed by the House of Commons</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel qu'adopté par la Chambre des communes</PublicationTypeNameFr>
+      <PublicationTypeName>As passed by the House of Commons</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>12554999</PublicationId>
+      <PublicationTypeId>80704</PublicationTypeId>
+      <PublicationTypeNameEn>Royal Assent</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Royal Assent</PublicationTypeNameFr>
+      <PublicationTypeName>Royal Assent</PublicationTypeName>
+    </Publications>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>102</DivisionNumber>
+      <DivisionSubjectEn>Time allocation for Bill C-13, An Act to amend the Official Languages Act, to enact the Use of French in Federally Regulated Private Businesses Act and to make related amendments to other Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>Attribution de temps pour le projet de loi C-13, Loi modifiant la Loi sur les langues officielles, édictant la Loi sur l'usage du français au sein des entreprises privées de compétence fédérale et apportant des modifications connexes à d'autres lois</DivisionSubjectFr>
+      <DivisionSubject>Time allocation for Bill C-13, An Act to amend the Official Languages Act, to enact the Use of French in Federally Regulated Private Businesses Act and to make related amendments to other Acts</DivisionSubject>
+      <DivisionVotesYeas>168</DivisionVotesYeas>
+      <DivisionVotesNays>131</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>299</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2022-05-20T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>106</DivisionNumber>
+      <DivisionSubjectEn>2nd reading of Bill C-13, An Act to amend the Official Languages Act, to enact the Use of French in Federally Regulated Private Businesses Act and to make related amendments to other Acts (subamendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>2e lecture du projet de loi C-13, Loi modifiant la Loi sur les langues officielles, édictant la Loi sur l'usage du français au sein des entreprises privées de compétence fédérale et apportant des modifications connexes à d'autres lois (sous-amendement)</DivisionSubjectFr>
+      <DivisionSubject>2nd reading of Bill C-13, An Act to amend the Official Languages Act, to enact the Use of French in Federally Regulated Private Businesses Act and to make related amendments to other Acts (subamendment)</DivisionSubject>
+      <DivisionVotesYeas>29</DivisionVotesYeas>
+      <DivisionVotesNays>288</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>317</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2022-05-30T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>107</DivisionNumber>
+      <DivisionSubjectEn>2nd reading of Bill C-13, An Act to amend the Official Languages Act, to enact the Use of French in Federally Regulated Private Businesses Act and to make related amendments to other Acts (amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>2e lecture du projet de loi C-13, Loi modifiant la Loi sur les langues officielles, édictant la Loi sur l'usage du français au sein des entreprises privées de compétence fédérale et apportant des modifications connexes à d'autres lois (amendement)</DivisionSubjectFr>
+      <DivisionSubject>2nd reading of Bill C-13, An Act to amend the Official Languages Act, to enact the Use of French in Federally Regulated Private Businesses Act and to make related amendments to other Acts (amendment)</DivisionSubject>
+      <DivisionVotesYeas>29</DivisionVotesYeas>
+      <DivisionVotesNays>289</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>318</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2022-05-30T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>108</DivisionNumber>
+      <DivisionSubjectEn>2nd reading of Bill C-13, An Act to amend the Official Languages Act, to enact the Use of French in Federally Regulated Private Businesses Act and to make related amendments to other Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>2e lecture du projet de loi C-13, Loi modifiant la Loi sur les langues officielles, édictant la Loi sur l'usage du français au sein des entreprises privées de compétence fédérale et apportant des modifications connexes à d'autres lois</DivisionSubjectFr>
+      <DivisionSubject>2nd reading of Bill C-13, An Act to amend the Official Languages Act, to enact the Use of French in Federally Regulated Private Businesses Act and to make related amendments to other Acts</DivisionSubject>
+      <DivisionVotesYeas>289</DivisionVotesYeas>
+      <DivisionVotesNays>29</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>318</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2022-05-30T11:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>317</DivisionNumber>
+      <DivisionSubjectEn>Bill C-13, An Act to amend the Official Languages Act, to enact the Use of French in Federally Regulated Private Businesses Act and to make related amendments to other Acts (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-13, Loi modifiant la Loi sur les langues officielles, édictant la Loi sur l'usage du français au sein des entreprises privées de compétence fédérale et apportant des modifications connexes à d'autres lois (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-13, An Act to amend the Official Languages Act, to enact the Use of French in Federally Regulated Private Businesses Act and to make related amendments to other Acts (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>316</DivisionVotesYeas>
+      <DivisionVotesNays>0</DivisionVotesNays>
+      <DivisionVotePaired>4</DivisionVotePaired>
+      <DivisionVoteTotal>320</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2023-05-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>318</DivisionNumber>
+      <DivisionSubjectEn>Bill C-13, An Act to amend the Official Languages Act, to enact the Use of French in Federally Regulated Private Businesses Act and to make related amendments to other Acts (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-13, Loi modifiant la Loi sur les langues officielles, édictant la Loi sur l'usage du français au sein des entreprises privées de compétence fédérale et apportant des modifications connexes à d'autres lois (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-13, An Act to amend the Official Languages Act, to enact the Use of French in Federally Regulated Private Businesses Act and to make related amendments to other Acts (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>318</DivisionVotesYeas>
+      <DivisionVotesNays>0</DivisionVotesNays>
+      <DivisionVotePaired>4</DivisionVotePaired>
+      <DivisionVoteTotal>322</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2023-05-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>319</DivisionNumber>
+      <DivisionSubjectEn>Bill C-13, An Act to amend the Official Languages Act, to enact the Use of French in Federally Regulated Private Businesses Act and to make related amendments to other Acts (report stage amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-13, Loi modifiant la Loi sur les langues officielles, édictant la Loi sur l'usage du français au sein des entreprises privées de compétence fédérale et apportant des modifications connexes à d'autres lois (amendement à l'étape du rapport)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-13, An Act to amend the Official Languages Act, to enact the Use of French in Federally Regulated Private Businesses Act and to make related amendments to other Acts (report stage amendment)</DivisionSubject>
+      <DivisionVotesYeas>319</DivisionVotesYeas>
+      <DivisionVotesNays>0</DivisionVotesNays>
+      <DivisionVotePaired>4</DivisionVotePaired>
+      <DivisionVoteTotal>323</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2023-05-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>320</DivisionNumber>
+      <DivisionSubjectEn>Concurrence at report stage of Bill C-13, An Act to amend the Official Languages Act, to enact the Use of French in Federally Regulated Private Businesses Act and to make related amendments to other Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>Adoption à l'étape du rapport du projet de loi C-13, Loi modifiant la Loi sur les langues officielles, édictant la Loi sur l'usage du français au sein des entreprises privées de compétence fédérale et apportant des modifications connexes à d'autres lois</DivisionSubjectFr>
+      <DivisionSubject>Concurrence at report stage of Bill C-13, An Act to amend the Official Languages Act, to enact the Use of French in Federally Regulated Private Businesses Act and to make related amendments to other Acts</DivisionSubject>
+      <DivisionVotesYeas>311</DivisionVotesYeas>
+      <DivisionVotesNays>1</DivisionVotesNays>
+      <DivisionVotePaired>4</DivisionVotePaired>
+      <DivisionVoteTotal>316</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2023-05-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>323</DivisionNumber>
+      <DivisionSubjectEn>3rd reading and adoption of Bill C-13, An Act to amend the Official Languages Act, to enact the Use of French in Federally Regulated Private Businesses Act and to make related amendments to other Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>3e lecture et adoption du projet de loi C-13, Loi modifiant la Loi sur les langues officielles, édictant la Loi sur l'usage du français au sein des entreprises privées de compétence fédérale et apportant des modifications connexes à d'autres lois</DivisionSubjectFr>
+      <DivisionSubject>3rd reading and adoption of Bill C-13, An Act to amend the Official Languages Act, to enact the Use of French in Federally Regulated Private Businesses Act and to make related amendments to other Acts</DivisionSubject>
+      <DivisionVotesYeas>301</DivisionVotesYeas>
+      <DivisionVotesNays>1</DivisionVotesNays>
+      <DivisionVotePaired>14</DivisionVotePaired>
+      <DivisionVoteTotal>316</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2023-05-15T11:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Department of Canadian Heritage. English and French: Towards a substantive equality of official languages in Canada. 2021.</TitleEn>
+      <TitleFr>Ministère de la Patrimoine canadien. Français et anglais : Vers une égalité réelle des langues officielles au Canada. 2021.</TitleFr>
+      <Title>Department of Canadian Heritage. English and French: Towards a substantive equality of official languages in Canada. 2021.</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/canadian-heritage/corporate/publications/general-publications/equality-official-languages.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/patrimoine-canadien/organisation/publications/publications-generales/egalite-langues-officielles.html</UrlFr>
+      <Url>https://www.canada.ca/en/canadian-heritage/corporate/publications/general-publications/equality-official-languages.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Department of Justice Canada. Annotated Language Laws of Canada: Constitutional, Federal, Provincial and Territorial Laws, 2nd ed., 2017 CanLIIDocs 1.</TitleEn>
+      <TitleFr>Ministère de la Justice Canada.  Lois linguistiques du Canada annotées : Lois constitutionnelles, fédérales, provinciales et territoriales, 2nd éd., 2017 CanLIIDocs 1.</TitleFr>
+      <Title>Department of Justice Canada. Annotated Language Laws of Canada: Constitutional, Federal, Provincial and Territorial Laws, 2nd ed., 2017 CanLIIDocs 1.</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://canlii.ca/t/29</UrlEn>
+      <UrlFr>https://canlii.ca/t/2m</UrlFr>
+      <Url>https://canlii.ca/t/29</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Official languages: modernizing the regulatory framework, Marie-Ève Hudon, Library of Parliament, HillNote, 2 February 2017</TitleEn>
+      <TitleFr>Les langues officielles : vers une modernisation du cadre réglementaire, Marie-Ève Hudon, Bibliothèque du Parlement, Note de la Colline, 2 février 2016</TitleFr>
+      <Title>Official languages: modernizing the regulatory framework, Marie-Ève Hudon, Library of Parliament, HillNote, 2 February 2017</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://hillnotes.ca/2017/02/02/official-languages-modernizing-the-regulatory-framework/</UrlEn>
+      <UrlFr>https://notesdelacolline.ca/2017/02/02/les-langues-officielles-vers-une-modernisation-du-cadre-reglementaire/</UrlFr>
+      <Url>https://hillnotes.ca/2017/02/02/official-languages-modernizing-the-regulatory-framework/</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Introduction of the bill — An Act for the Substantive Equality of Canada's Official Languages (2022-03-01 | Department of Canadian Heritage)</TitleEn>
+      <TitleFr>Présentation du projet de loi — Loi visant l'égalité réelle entre les langues officielles du Canada (2022-03-01 | Ministère du Patrimoine canadien)</TitleFr>
+      <Title>Introduction of the bill — An Act for the Substantive Equality of Canada's Official Languages (2022-03-01 | Department of Canadian Heritage)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/canadian-heritage/campaigns/canadians-official-languages-act/introduction-bill.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/patrimoine-canadien/campagnes/canadiens-loi-langues-officielles/presentation-projet-loi.html</UrlFr>
+      <Url>https://www.canada.ca/en/canadian-heritage/campaigns/canadians-official-languages-act/introduction-bill.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Tabling of the improved Bill entitled An Act to amend the Official Languages Act, to enact the Use of French in Federally Regulated Private Businesses Act and to make related amendments to other Acts (2022-03-01 | Department of Canadian Heritage)</TitleEn>
+      <TitleFr>Dépôt du projet de loi bonifié intitulé Loi modifiant la Loi sur les langues officielles, édictant la Loi sur l'usage du français au sein des entreprises privées de compétence fédérale et apportant des modifications connexes à d'autres lois (2022-03-01 | Ministère du Patrimoine canadien)</TitleFr>
+      <Title>Tabling of the improved Bill entitled An Act to amend the Official Languages Act, to enact the Use of French in Federally Regulated Private Businesses Act and to make related amendments to other Acts (2022-03-01 | Department of Canadian Heritage)</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/canadian-heritage/news/2022/03/tabling-of-the-improved-bill-entitled-an-act-to-amend-the-official-languages-act-to-enact-the-use-of-french-in-federally-regulated-private-business.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2022/03/depot-du-projet-de-loi-bonifie-intitule-loi-modifiant-la-loi-sur-les-langues-officielles-edictant-la-loi-sur-lusage-du-francais-au-sein-des-entrepr.html</UrlFr>
+      <Url>https://www.canada.ca/en/canadian-heritage/news/2022/03/tabling-of-the-improved-bill-entitled-an-act-to-amend-the-official-languages-act-to-enact-the-use-of-french-in-federally-regulated-private-business.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Details on the Bill entitled An Act to amend the Official Languages Act, to enact the Use of French in Federally Regulated Private Businesses Act and to make related amendments to other Acts (2022-03-01 | Department of Canadian Heritage)</TitleEn>
+      <TitleFr>Détails sur le projet de loi intitulé Loi modifiant la Loi sur les langues officielles, édictant la Loi sur l'usage du français au sein des entreprises privées de compétence fédérale et apportant des modifications connexes à d'autres lois (2022-03-01 | Ministère du Patrimoine canadien)</TitleFr>
+      <Title>Details on the Bill entitled An Act to amend the Official Languages Act, to enact the Use of French in Federally Regulated Private Businesses Act and to make related amendments to other Acts (2022-03-01 | Department of Canadian Heritage)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/canadian-heritage/news/2022/03/details-on-the-bill-entitled-an-act-to-amend-the-official-languages-act-to-enact-the-use-of-french-in-federally-regulated-private-businesses-act-an.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2022/03/details-sur-le-projet-de-loi-intitule-loi-modifiant-la-loi-sur-les-langues-officielles-edictant-la-loi-sur-lusage-du-francais-au-sein-des-entrepris.html</UrlFr>
+      <Url>https://www.canada.ca/en/canadian-heritage/news/2022/03/details-on-the-bill-entitled-an-act-to-amend-the-official-languages-act-to-enact-the-use-of-french-in-federally-regulated-private-businesses-act-an.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Charter Statement - Bill C-13: An Act to amend the Official Languages Act, to enact the Use of French in Federally Regulated Private Businesses Act and to make related amendments to other Acts (Tabled 2022-04-02-05)</TitleEn>
+      <TitleFr>Énoncé concernant la Charte - Projet de loi C-13 : Loi modifiant la Loi sur les langues officielles, édictant la Loi sur l'usage du français au sein des entreprises privées de compétence fédérale et apportant des modifications connexes à d'autres lois (Déposé 2022-04-05)</TitleFr>
+      <Title>Charter Statement - Bill C-13: An Act to amend the Official Languages Act, to enact the Use of French in Federally Regulated Private Businesses Act and to make related amendments to other Acts (Tabled 2022-04-02-05)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.justice.gc.ca/eng/csj-sjc/pl/charter-charte/c13_2.html</UrlEn>
+      <UrlFr>https://www.justice.gc.ca/fra/sjc-csj/pl/charte-charter/c13_2.html</UrlFr>
+      <Url>https://www.justice.gc.ca/eng/csj-sjc/pl/charter-charte/c13_2.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Bill C-13 from Minister Petitpas Taylor to modernize the Official Languages Act receives Royal Assent (2022-06-20 | Department of Canadian Heritage)</TitleEn>
+      <TitleFr>Le projet de loi C-13 de la ministre Petitpas Taylor visant à moderniser la Loi sur les langues officielles reçoit la sanction royale (2023-06-20 | Ministère du Patrimoine canadien)</TitleFr>
+      <Title>Bill C-13 from Minister Petitpas Taylor to modernize the Official Languages Act receives Royal Assent (2022-06-20 | Department of Canadian Heritage)</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/canadian-heritage/news/2023/06/bill-c-13-from-minister-petitpas-taylor-to-modernize-the-official-languages-act-receives-royal-assent.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2023/06/le-projet-de-loi-c-13-de-la-ministre-petitpas-taylor-visant-a-moderniser-la-loi-sur-les-langues-officielles-recoit-la-sanction-royale.html</UrlFr>
+      <Url>https://www.canada.ca/en/canadian-heritage/news/2023/06/bill-c-13-from-minister-petitpas-taylor-to-modernize-the-official-languages-act-receives-royal-assent.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Backgrounder – Details on the modernization of the Official Languages Act (2023-06-20 | Department of Canadian Heritage)</TitleEn>
+      <TitleFr>Document d'information – Détails sur la modernisation de la Loi sur les langues officielles (2023-06-20 | Ministère du Patrimoine canadien)</TitleFr>
+      <Title>Backgrounder – Details on the modernization of the Official Languages Act (2023-06-20 | Department of Canadian Heritage)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/canadian-heritage/news/2023/06/backgrounder--details-on-the-modernization-of-the-official-languages-act.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2023/06/document-dinformation--details-sur-la-modernisation-de-la-loi-sur-les-langues-officielles.html</UrlFr>
+      <Url>https://www.canada.ca/en/canadian-heritage/news/2023/06/backgrounder--details-on-the-modernization-of-the-official-languages-act.html</Url>
+    </WebReferences>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3366</BibliographicNoticeId>
+      <Title>Amending the "Official Languages Act" : a new vision of bilingualism?</Title>
+      <Author>Mario Polèse</Author>
+      <Publication>Institute for Research on Public Policy</Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>June 2022</PublicationDate>
+      <Classification>Radar 20220816</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3367</BibliographicNoticeId>
+      <Title>La refonte de la " Loi sur les langues officielles " : une nouvelle vision du bilinguisme ?</Title>
+      <Author>Mario Polèse</Author>
+      <Publication>Institut de recherche en politiques publiques</Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>Juin 2022</PublicationDate>
+      <Classification>Radar 20220816</Classification>
+      <LanguageId>2</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3417</BibliographicNoticeId>
+      <Title>Towards second language rights? : Bill C-32, Bill C-13 and the future of official language education</Title>
+      <Author>Ashley, Katherine</Author>
+      <Publication>National journal of constitutional law 45 (2): pg.27-50, June 2024</Publication>
+      <VolumePage>45 (2): pg.27-50</VolumePage>
+      <PublicationDate>June 2024</PublicationDate>
+      <Classification>Radar 20240723</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <SenatePreStudyCommitteeDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <CommitteeOrganizationId>16056</CommitteeOrganizationId>
+      <CommitteeNameEn>Standing Senate Committee on Official Languages</CommitteeNameEn>
+      <CommitteeNameFr>Comité sénatorial permanent des langues officielles</CommitteeNameFr>
+      <CommitteeAcronym>OLLO</CommitteeAcronym>
+      <CommitteeName>Standing Senate Committee on Official Languages</CommitteeName>
+      <StudyActivityId />
+      <OrganizationTypeId />
+      <ParentCommittee />
+      <IsSubCommittee>false</IsSubCommittee>
+      <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+      <IsSenateCommittee>false</IsSenateCommittee>
+      <IsJointCommittee>false</IsJointCommittee>
+    </SenatePreStudyCommitteeDetails>
+    <SimilarBills>
+      <Id>11420727</Id>
+      <NumberCode>C-32</NumberCode>
+      <NumberPrefix>C</NumberPrefix>
+      <Number>32</Number>
+      <LongTitleEn>An Act to amend the Official Languages Act and to make related and consequential amendments to other Acts</LongTitleEn>
+      <LongTitleFr>Loi modifiant la Loi sur les langues officielles et apportant des modifications connexes et corrélatives à d'autres lois</LongTitleFr>
+      <LongTitle>An Act to amend the Official Languages Act and to make related and consequential amendments to other Acts</LongTitle>
+      <ShortTitleEn>An Act for the Substantive Equality of French and English and the Strengthening of the Official Languages Act</ShortTitleEn>
+      <ShortTitleFr>Loi visant l'égalité réelle du français et de l'anglais et le renforcement de la Loi sur les langues officielles</ShortTitleFr>
+      <ShortTitle>An Act for the Substantive Equality of French and English and the Strengthening of the Official Languages Act</ShortTitle>
+      <StatusId>349</StatusId>
+      <StatusNameEn>At second reading in the House of Commons</StatusNameEn>
+      <StatusNameFr>À la deuxième lecture à la Chambre des communes</StatusNameFr>
+      <StatusName>At second reading in the House of Commons</StatusName>
+      <LatestCompletedMajorStageId>60043</LatestCompletedMajorStageId>
+      <LatestCompletedMajorStageNameEn>First reading</LatestCompletedMajorStageNameEn>
+      <LatestCompletedMajorStageNameFr>Première lecture</LatestCompletedMajorStageNameFr>
+      <LatestCompletedMajorStageName>First reading</LatestCompletedMajorStageName>
+      <LatestCompletedMajorStageNameWithChamberSuffix>First reading in the House of Commons</LatestCompletedMajorStageNameWithChamberSuffix>
+      <IsInSenatePreStudy>false</IsInSenatePreStudy>
+      <LatestCompletedMajorStageChamberOrganizationId>1</LatestCompletedMajorStageChamberOrganizationId>
+      <LatestCompletedMajorStageChamberNameEn />
+      <LatestCompletedMajorStageChamberNameFr />
+      <LatestCompletedMajorStageChamberName />
+      <OngoingStageId>0</OngoingStageId>
+      <OngoingStageNameEn />
+      <OngoingStageNameFr />
+      <OngoingStageName />
+      <LatestCompletedBillStageId>60029</LatestCompletedBillStageId>
+      <LatestCompletedBillStageNameEn>First reading</LatestCompletedBillStageNameEn>
+      <LatestCompletedBillStageNameFr>Première lecture</LatestCompletedBillStageNameFr>
+      <LatestCompletedBillStageName>First reading</LatestCompletedBillStageName>
+      <LatestCompletedBillStageChamberOrganizationId>1</LatestCompletedBillStageChamberOrganizationId>
+      <LatestCompletedBillStageChamberNameEn>House of Commons</LatestCompletedBillStageChamberNameEn>
+      <LatestCompletedBillStageChamberNameFr>Chambre des communes</LatestCompletedBillStageChamberNameFr>
+      <LatestCompletedBillStageChamberName>House of Commons</LatestCompletedBillStageChamberName>
+      <LatestCompletedBillStageDateTime>2021-06-15T10:06:49.603</LatestCompletedBillStageDateTime>
+      <ParliamentNumber>43</ParliamentNumber>
+      <SessionNumber>2</SessionNumber>
+      <BillDocumentTypeId>0</BillDocumentTypeId>
+      <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+      <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+      <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+      <IsGovernmentBill>false</IsGovernmentBill>
+      <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+      <OriginatingChamberNameEn />
+      <OriginatingChamberNameFr />
+      <OriginatingChamberName />
+      <IsHouseBill>true</IsHouseBill>
+      <IsSenateBill>false</IsSenateBill>
+      <SponsorSenateSystemAffiliationId />
+      <SponsorPersonId />
+      <SponsorPersonOfficialFirstName />
+      <SponsorPersonOfficialLastName />
+      <SponsorPersonUsualFirstName />
+      <SponsorPersonMiddleName />
+      <SponsorPersonName> </SponsorPersonName>
+      <SponsorPersonShortHonorificEn />
+      <SponsorPersonShortHonorificFr />
+      <SponsorPersonShortHonorific />
+      <SponsorAffiliationTitleEn />
+      <SponsorAffiliationTitleFr />
+      <SponsorAffiliationTitle />
+      <SponsorAffiliationRoleId />
+      <SponsorAffiliationRoleNameEn />
+      <SponsorAffiliationRoleNameFr />
+      <SponsorAffiliationRoleName />
+      <SponsorConstituencyId />
+      <SponsorConstituencyNameEn />
+      <SponsorConstituencyNameFr />
+      <SponsorConstituencyName />
+      <LatestBillEventEventTypeId>0</LatestBillEventEventTypeId>
+      <LatestBillEventTypeNameEn />
+      <LatestBillEventTypeNameFr />
+      <LatestBillEventStageId />
+      <LatestBillEventTypeName />
+      <LatestBillEventCommitteeDetails />
+      <LatestBillEventDateTime>0001-01-01T00:00:00</LatestBillEventDateTime>
+      <LatestBillEventChamberOrganizationId>0</LatestBillEventChamberOrganizationId>
+      <LatestBillEventChamberNameEn />
+      <LatestBillEventChamberNameFr />
+      <LatestBillEventChamberName />
+      <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+      <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+      <LatestBillEventMeetingNumber />
+      <LatestBillEventAdditionalInformationEn />
+      <LatestBillEventAdditionalInformationFr />
+      <LatestBillEventAdditionalInformation />
+      <PassedHouseFirstReadingDateTime>2021-06-15T10:06:49.603</PassedHouseFirstReadingDateTime>
+      <PassedHouseSecondReadingDateTime />
+      <PassedHouseThirdReadingDateTime />
+      <PassedSenateFirstReadingDateTime />
+      <PassedSenateSecondReadingDateTime />
+      <PassedSenateThirdReadingDateTime />
+      <ReceivedRoyalAssentDateTime />
+      <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+      <ReinstatedFromBillDocumentId />
+      <ReinstatedFromBillNumberCode />
+      <DidReinstateInNextSession>false</DidReinstateInNextSession>
+      <ReinstatedAsBillDocumentId />
+      <ReinstatedAsBillNumberCode />
+      <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+      <PassedFirstChamberSecondReading>false</PassedFirstChamberSecondReading>
+      <PassedFirstChamberThirdReading>false</PassedFirstChamberThirdReading>
+      <PassedSecondChamberFirstReading>false</PassedSecondChamberFirstReading>
+      <PassedSecondChamberSecondReading>false</PassedSecondChamberSecondReading>
+      <PassedSecondChamberThirdReading>false</PassedSecondChamberThirdReading>
+      <ReceivedRoyalAssent>false</ReceivedRoyalAssent>
+      <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+      <IsProForma>false</IsProForma>
+      <BillFormId>0</BillFormId>
+      <BillFormNameEn />
+      <BillFormNameFr />
+      <BillFormName />
+      <NotesEn />
+      <NotesFr />
+      <Notes />
+      <ShortLegislativeSummaryEn />
+      <ShortLegislativeSummaryFr />
+      <ShortLegislativeSummary />
+      <IsFullLegislativeSummaryAvailable>false</IsFullLegislativeSummaryAvailable>
+      <StatuteYear />
+      <StatuteChapter />
+      <BillStages>
+        <BillId>0</BillId>
+      </BillStages>
+      <Publications />
+      <HouseVoteDetails />
+      <SenateVoteDetails />
+      <HouseRulingAndStatements />
+      <SenateRulingAndStatements />
+      <WebReferences />
+      <BibliographicNotices />
+      <SenatePreStudyCommitteeDetails />
+      <SimilarBills />
+      <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+      <IsSessionOngoing>false</IsSessionOngoing>
+    </SimilarBills>
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
