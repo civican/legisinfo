@@ -17,105 +17,47 @@ The portion of subsection 84(5) of the `Criminal Code` before paragraph (a) is r
 
 **(5)** In determining, for the purpose of subsection 99(2), 100(2) or 103(2), whether a convicted person has committed a second or subsequent offence, if the person was earlier convicted of any of the following offences, that offence is to be considered as an earlier offence:
 
-
-> **Explanatory Note**:
-> Relevant portion of subsection 84(5):
-> *Existing Text*:
-> > In determining, for the purpose of subsection 85(3), 95(2), 99(2), 100(2) or 103(2), whether a convicted person has committed a second or subsequent offence, if the person was earlier convicted of any of the following offences, that offence is to be considered as an earlier offence:
-
 ### Section 2
 
 Subsection 85(3) of the Act is replaced by the following:
 
-**(3)** Every person who commits an offence under subsection (1) or (2) is guilty of an indictable offence and liable to imprisonment for a term of not **more than** 14 years.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 85(3):
-> *Existing Text*:
-> > Every person who commits an offence under subsection (1) or (2) is guilty of an indictable offence and liable
-> > in the case of a first offence, except as provided in paragraph (b), to imprisonment for a term not exceeding fourteen years and to a minimum punishment of imprisonment for a term of one year; and
-> > in the case of a second or subsequent offence, to imprisonment for a term not exceeding 14 years and to a minimum punishment of imprisonment for a term of three years.
-> > [Repealed, 2008, c. 6, s. 3]
+**(3)** Every person who commits an offence under subsection (1) or (2) is guilty of an indictable offence and liable to imprisonment for a term of not more than 14 years.
 
 ### Section 3
 
 Subsection 92(3) of the Act is replaced by the following:
 
-**(3)** Every person who commits an offence under subsection (1) or (2) is guilty of an indictable offence and liable to imprisonment for a term of not **more than** 10 years.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 92(3):
-> *Existing Text*:
-> > Every person who commits an offence under subsection (1) or (2) is guilty of an indictable offence and liable
-> > in the case of a first offence, to imprisonment for a term not exceeding ten years;
-> > in the case of a second offence, to imprisonment for a term not exceeding ten years and to a minimum punishment of imprisonment for a term of one year; and
-> > in the case of a third or subsequent offence, to imprisonment for a term not exceeding ten years and to a minimum punishment of imprisonment for a term of two years less a day.
+**(3)** Every person who commits an offence under subsection (1) or (2) is guilty of an indictable offence and liable to imprisonment for a term of not more than 10 years.
 
 ### Section 4
 
 Paragraph 95(2)(a) of the Act is replaced by the following:
 
-is guilty of an indictable offence and liable to imprisonment for a term of not **more than** 10 years; or
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 95(2):
-> *Existing Text*:
-> > Every person who commits an offence under subsection (1)
-> > is guilty of an indictable offence and liable to imprisonment for a term not exceeding 10 years and to a minimum punishment of imprisonment for a term of
-> > in the case of a first offence, three years, and
-> > in the case of a second or subsequent offence, five years; or
+is guilty of an indictable offence and liable to imprisonment for a term of not more than 10 years; or
 
 ### Section 5
 
 Paragraph 96(2)(a) of the Act is replaced by the following:
 
-is guilty of an indictable offence and liable to imprisonment for a term of not **more than** 10 years; or
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 96(2):
-> *Existing Text*:
-> > Every person who commits an offence under subsection (1)
-> > is guilty of an indictable offence and liable to imprisonment for a term not exceeding ten years and to a minimum punishment of imprisonment for a term of one year; or
+is guilty of an indictable offence and liable to imprisonment for a term of not more than 10 years; or
 
 ### Section 6
 
 Subsection 99(3) of the Act is replaced by the following:
 
-**(3)** In any other case, a person who commits an offence under subsection (1) is guilty of an indictable offence and liable to imprisonment for a term of not **more than** 10 years.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 99(3):
-> *Existing Text*:
-> > In any other case, a person who commits an offence under subsection (1) is guilty of an indictable offence and liable to imprisonment for a term not exceeding 10 years and to a minimum punishment of imprisonment for a term of one year.
+**(3)** In any other case, a person who commits an offence under subsection (1) is guilty of an indictable offence and liable to imprisonment for a term of not more than 10 years.
 
 ### Section 7
 
 Subsection 100(3) of the Act is replaced by the following:
 
-**(3)** In any other case, a person who commits an offence under subsection (1) is guilty of an indictable offence and liable to imprisonment for a term of not **more than** 10 years.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 100(3):
-> *Existing Text*:
-> > In any other case, a person who commits an offence under subsection (1) is guilty of an indictable offence and liable to imprisonment for a term not exceeding 10 years and to a minimum punishment of imprisonment for a term of one year.
+**(3)** In any other case, a person who commits an offence under subsection (1) is guilty of an indictable offence and liable to imprisonment for a term of not more than 10 years.
 
 ### Section 8
 
 Subsection 103(2.1) of the Act is replaced by the following:
 
-**(2.1)** In any other case, a person who commits an offence under subsection (1) is guilty of an indictable offence and liable to imprisonment for a term of not **more than** 10 years.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 103(2.1):
-> *Existing Text*:
-> > In any other case, a person who commits an offence under subsection (1) is guilty of an indictable offence and liable to imprisonment for a term not exceeding 10 years and to a minimum punishment of imprisonment for a term of one year.
+**(2.1)** In any other case, a person who commits an offence under subsection (1) is guilty of an indictable offence and liable to imprisonment for a term of not more than 10 years.
 
 ### Section 9
 
@@ -129,15 +71,7 @@ Subsection 103(2.1) of the Act is replaced by the following:
 
 Paragraph 244(2)(b) of the Act is replaced by the following:
 
-in any other case, to imprisonment for a term of not **more than** 14 years.
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 244(2):
-> *Existing Text*:
-> > Every person who commits an offence under subsection (1) is guilty of an indictable offence and liable
-> > 
-> > in any other case, to imprisonment for a term not exceeding 14 years and to a minimum punishment of imprisonment for a term of four years.
+in any other case, to imprisonment for a term of not more than 14 years.
 
 ### Section 11
 
@@ -145,43 +79,19 @@ Paragraph 244.2(3)(b) of the Act is replaced by the following:
 
 in any other case, is liable to imprisonment for a term of not more than 14 years.
 
-
-> **Explanatory Note**:
-> Relevant portion of subsection 244.2(3):
-> *Existing Text*:
-> > Every person who commits an offence under subsection (1) is guilty of an indictable offence and
-> > 
-> > in any other case, is liable to imprisonment for a term of not more than 14 years and to a minimum punishment of imprisonment for a term of four years.
-
 ### Section 12
 
 Paragraph 344(1)(a.1) of the Act is repealed.
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 344(1):
-> *Existing Text*:
-> > Every person who commits robbery is guilty of an indictable offence and liable
-> > 
-> > in any other case where a firearm is used in the commission of the offence, to imprisonment for life and to a minimum punishment of imprisonment for a term of four years; and
 
 ### Section 13
 
 Paragraph 346(1.1)(a.1) of the Act is repealed.
 
-
-> **Explanatory Note**:
-> Relevant portion of subsection 346(1.1):
-> *Existing Text*:
-> > Every person who commits extortion is guilty of an indictable offence and liable
-> > 
-> > in any other case where a firearm is used in the commission of the offence, to imprisonment for life and to a minimum punishment of imprisonment for a term of four years; and
-
 ### Section 14
 
   **(1)** Paragraph 742.1(c) of the Act is replaced by the following:
 
-    the offence is not an offence **under any of the following provisions:**
+    the offence is not an offence under any of the following provisions:
 
     section 239, for which a sentence is imposed under paragraph 239(1)(b) (attempt to commit murder),
 
@@ -200,38 +110,11 @@ Paragraph 5(3)(a) of the `Controlled Drugs and Substances Act` is replaced by th
 
 if the subject matter of the offence is a substance included in Schedule I or II, is guilty of an indictable offence and liable to imprisonment for life;
 
-
-> **Explanatory Note**:
-> Relevant portion of subsection 5(3):
-> *Existing Text*:
-> > Every person who contravenes subsection (1) or (2)
-> > if the subject matter of the offence is a substance included in Schedule I or II, is guilty of an indictable offence and liable to imprisonment for life, and
-> > to a minimum punishment of imprisonment for a term of one year if
-> > the person committed the offence for the benefit of, at the direction of or in association with a criminal organization, as defined in subsection 467.1(1) of the `Criminal Code`,
-> > the person used or threatened to use violence in committing the offence,
-> > the person carried, used or threatened to use a weapon in committing the offence, or
-> > the person was convicted of a designated substance offence, or had served a term of imprisonment for a designated substance offence, within the previous 10 years, or
-> > to a minimum punishment of imprisonment for a term of two years if
-> > the person committed the offence in or near a school, on or near school grounds or in or near any other public place usually frequented by persons under the age of 18 years,
-> > the person committed the offence in a prison, as defined in section 2 of the `Criminal Code`, or on its grounds, or
-> > the person used the services of a person under the age of 18 years, or involved such a person, in committing the offence;
-
 ### Section 16
 
 Paragraphs 6(3)(a) and (a.1) of the Act are replaced by the following:
 
 if the subject matter of the offence is a substance included in Schedule I or II, is guilty of an indictable offence and liable to imprisonment for life;
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 6(3):
-> *Existing Text*:
-> > Every person who contravenes subsection (1) or (2)
-> > if the subject matter of the offence is a substance included in Schedule I in an amount that is not more than one kilogram, or in Schedule II, is guilty of an indictable offence and liable to imprisonment for life, and to a minimum punishment of imprisonment for a term of one year if
-> > the offence is committed for the purposes of trafficking,
-> > the person, while committing the offence, abused a position of trust or authority, or
-> > the person had access to an area that is restricted to authorized persons and used that access to commit the offence;
-> > if the subject matter of the offence is a substance included in Schedule I in an amount that is more than one kilogram, is guilty of an indictable offence and liable to imprisonment for life and to a minimum punishment of imprisonment for a term of two years;
 
 ### Section 17
 
@@ -244,12 +127,6 @@ if the subject matter of the offence is a substance included in Schedule I or II
 ### Section 18
 
 Section 8 of the Act and the heading before it are repealed.
-
-
-> **Explanatory Note**:
-> Existing text of the heading and section 8:
-> *Existing Text*:
-> > The court is not required to impose a minimum punishment unless it is satisfied that the offender, before entering a plea, was notified of the possible imposition of a minimum punishment for the offence in question and of the Attorney General's intention to prove any factors in relation to the offence that would lead to the imposition of a minimum punishment.
 
 ### Section 19
 
@@ -267,7 +144,7 @@ The Act is amended by adding the following after section 10:
 ## Evidence-based Diversion Measures
 
 
-### **Principles**
+### Principles
 
 ### Section 10.1
 
@@ -298,13 +175,45 @@ A prosecution may be commenced or continued against an individual alleged to hav
 
 ### Section 10.4
 
-The police force to which a peace officer referred to in section 10.2 belongs may keep a record of any warnings or referrals relating to individuals alleged to have committed an offence under subsection 4(1).
+  ****(1)**** The police force to which a peace officer referred to in section 10.2 belongs **shall** keep a record of any **warning given** or referral **made under subsection 10.2(1), including the identity of the individual warned or referred**.
+
+  **(2)** Any information contained in the record kept pursuant to subsection (1) may be made available to:
+
+    any judge or court for any purpose relating to proceedings with respect to the offence to which the record relates;
+
+    any peace officer for any purpose related to the administration of the case to which the record relates; or
+
+    any member of a department or agency of a government in Canada, or any agent of that department or agency, that is
+
+    engaged in the administration of alternative measures, within the meaning of section 716 of the `Criminal Code`, in respect of that person, or
+
+    preparing a report for the purpose of informing proceedings with respect to the offence to which the record relates.
+
+  **(3)** Information contained in the record, other than the identity of the person, may be made available to any member of a department or agency of a government in Canada, or any agent of the department or agency, that is engaged in assessing and monitoring the use of alternative measures and assessing their effectiveness, including for research or statistical purposes.
 
 ### Section 10.5
 
 Evidence that an individual has received a warning or referral mentioned in subsection 10.2(1), evidence that a peace officer has taken no further action in respect of an offence under subsection 4(1) and evidence of the offence are inadmissible for the purpose of proving prior offending behaviour in any proceedings before a court in respect of the individual.
 
+### Section 10.6
 
-> **Explanatory Note**:
-> New.
+  **(1)** Any record of a conviction that occurs before the day on which this section comes into force in respect of an offence under subsection 4(1) must be kept separate and apart from other records of convictions within two years after that day.
+
+  **(2)** A conviction that occurs after this section comes into force in respect of an offence under subsection 4(1) is kept separate and apart from other records of convictions two years after the conviction or two years after the expiry of any sentence imposed for the offence, whichever is later, and the person convicted of the offence is deemed never to have been convicted of that offence.
+
+  **(3)** The Governor in Council may make regulations respecting the use, removal or destruction of records kept separate and apart referred to in subsections (1) and (2).
+
+
+### Exception for Service Providers
+
+### Section 10.7
+
+No social worker, medical professional or other service provider in the community commits an offence under subsection 4(1) if, in the course of their duties, they come into possession of a substance included in Schedule I, II or III and they intend to, within a reasonable period, lawfully dispose of it.
+
+
+## Review
+
+### Section 21
+
+On the fourth anniversary of the day on which this Act comes into force, a comprehensive review of the provisions and operation of the Act is to be undertaken by the standing committee of each House that normally considers matters relating to justice.
 
