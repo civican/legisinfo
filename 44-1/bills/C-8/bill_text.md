@@ -1,7 +1,5 @@
 # Bill C-8: An Act to implement certain provisions of the economic and fiscal update tabled in Parliament on December 14, 2021 and other measures
 
-**Sponsor**: DEPUTY PRIME MINISTER AND MINISTER OF FINANCE
-
 Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act to implement certain provisions of the economic and fiscal update tabled in Parliament on December 14, 2021 and other measures*".
 
 ## Summary
@@ -2899,7 +2897,7 @@ the limitation or prescription period applicable before that day has expired.
 
 ### Section 46
 
-  ****(1)**** The Minister of Health may make payments, the total of which may not exceed $1.72 billion, out of the Consolidated Revenue Fund for any expenses incurred on or after April 1, 2021 in relation to coronavirus disease 2019 (COVID-19) tests.
+  **(1)** The Minister of Health may make payments, the total of which may not exceed $1.72 billion, out of the Consolidated Revenue Fund for any expenses incurred on or after April 1, 2021 in relation to coronavirus disease 2019 (COVID-19) tests.
 
   **(2)** Within three months after the day on which this section comes into force, and every three months
 after that, the Minister of Health must prepare a report setting out the number of payments made and
