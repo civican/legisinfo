@@ -4,7 +4,7 @@
 
 This enactment amends the `Immigration and Refugee Protection Act` to allow a parent or grandparent who applies for a temporary resident visa as a visitor to purchase private health insurance outside Canada and to stay in Canada for a period of five years.
 
-It also requires the Minister of Citizenship and Immigration to prepare and table a report on reducing the minimum income requirement that the child or grandchild must meet in order for the visiting parent or grandparent to be able to enter and remain in Canada for an extended period.
+It also requires the Minister of Citizenship and Immigration to prepare and table a report in respect of a reduction to the minimum income requirement that the child or grandchild must meet in order for the visiting parent or grandparent to be able to enter and remain in Canada for an extended period.
 
 Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
@@ -37,7 +37,7 @@ Section 29 of the Act is amended by adding the following after subsection (2):
 
 ### Section 4
 
-  **(1)** The Minister of Citizenship and Immigration must prepare a report on reducing the minimum income requirement that the child or grandchild of a foreign national must meet in order for the foreign national to be able to enter and remain in Canada for an extended period to visit that child or grandchild.
+  **(1)** The Minister of Citizenship and Immigration must prepare a report **in respect of a reduction to** the minimum income requirement that the child or grandchild of a foreign national must meet in order for the foreign national to be able to enter and remain in Canada for an extended period to visit that child or grandchild, **including in respect of any special circumstances to be taken into account in the processing of temporary resident visa applications and a review process for the decisions made in relation to those applications**.
 
   **(2)** The Minister must cause the report to be tabled in each House of Parliament no later than one year after this Act receives royal assent or, if either House is not then sitting, on any of the first 15 days on which that House is sitting.
 
@@ -45,5 +45,5 @@ Section 29 of the Act is amended by adding the following after subsection (2):
 
 ### Section 5
 
-If, within two years after this Act receives royal assent, the Minister of Citizenship and Immigration does not reduce the minimum income requirement that the child or grandchild of a foreign national must meet in order for the foreign national to be able to enter and remain in Canada for an extended period to visit that child or grandchild, the Minister must table in each House of Parliament a statement of the reasons for not doing so.
+If, within two years after this Act receives royal assent, the Minister of Citizenship and Immigration does not **provide for a reduction to** the minimum income requirement that the child or grandchild of a foreign national must meet in order for the foreign national to be able to enter and remain in Canada for an extended period to visit that child or grandchild **or the circumstances or review process referred to in subsection 4(1)**, the Minister must table in each House of Parliament a statement of the reasons for not doing so.
 
