@@ -26,11 +26,13 @@ establishes eligibility criteria and a designation process for news businesses t
 
 requires the Commission to establish a code of conduct respecting bargaining in relation to news content;
 
-prohibits digital news intermediary operators from acting, in relation to certain news content, in ways that discriminate unjustly, that give undue or unreasonable preference or that subject certain news businesses to an undue or unreasonable disadvantage;
+prohibits digital news intermediary operators from acting, in the course of making available certain news content, in ways that discriminate unjustly, that give undue or unreasonable preference or that subject certain news businesses to an undue or unreasonable disadvantage;
 
 allows certain news businesses to make complaints to the Commission in relation to that prohibition;
 
 authorizes the Commission to require the provision of information for the purpose of exercising its powers and performing its duties and functions under the enactment;
+
+requires the Canadian Broadcasting Corporation to provide the Commission with an annual report if the Corporation is a party to an agreement with an operator;
 
 establishes a framework respecting the provision of information to the responsible Minister, the Chief Statistician of Canada and the Commissioner of Competition, while permitting an individual or entity to designate certain information that they submit to the Commission as confidential;
 
@@ -132,7 +134,7 @@ Liability of operators
 
 Eligible news businesses — designation
 
-Public broadcasters
+Provincial public broadcasters
 
 Public list
 
@@ -204,6 +206,8 @@ Complaint
 ## Provision of Information
 
 Duty to provide information
+
+Canadian Broadcasting Corporation
 
 Minister and Chief Statistician
 
@@ -316,7 +320,7 @@ Review
 
 Order in council
 
-Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+His Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
 
 ## Short Title
@@ -346,13 +350,21 @@ This Act may be cited as the `Online News Act`.
 
     **entity** includes a corporation or a trust, partnership, fund, joint venture or any other unincorporated association or organization. (**entité**)
 
+    **Indigenous news outlet** means an undertaking or any distinct part of an undertaking, such as a section of a newspaper, whose primary purpose is to produce news content and that
+
+    is operated by an individual who belongs to an Indigenous group, community or people; and
+
+    produces news content primarily for Indigenous peoples. (**média d'information autochtone**)
+
+    **Indigenous peoples** has the meaning assigned by the definition aboriginal peoples of Canada in subsection 35(2) of the `Constitution Act, 1982`. (**peuples autochtones**)
+
     **Minister** means the Minister of Canadian Heritage or, if another federal minister is designated under section `5`, that minister. (**ministre**)
 
-    **news business** means an individual or entity that operates a news outlet. (**entreprise de nouvelles**)
+    **news business** means an individual or entity that operates a news outlet **in Canada**. (**entreprise de nouvelles**)
 
-    **news content** means content — in any format, including an audio or audiovisual format — that reports on, investigates or explains current issues or events of public interest. (**contenu de nouvelles**)
+    **news content** means content — in any format, including an audio or audiovisual format — that reports on, investigates or explains current issues or events of public interest **and includes such content that an Indigenous news outlet makes available to an Indigenous community by means of Indigenous storytelling**. (**contenu de nouvelles**)
 
-    **news outlet** means an undertaking or any distinct part of an undertaking, such as a section of a newspaper, the primary purpose of which is to produce news content. (**média d'information**)
+    **news outlet** means an undertaking or any distinct part of an undertaking, such as a section of a newspaper, the primary purpose of which is to produce news content **and includes an Indigenous news outlet**. (**média d'information**)
 
     **operator** means an individual or entity that, through any means, operates a digital news intermediary. (**exploitant**)
 
@@ -375,7 +387,7 @@ This Act may be cited as the `Online News Act`.
 
 ### Section 4
 
-The purpose of this Act is to regulate digital news intermediaries with a view to enhancing fairness in the Canadian digital news marketplace and contributing to its sustainability, including the sustainability of independent local news businesses.
+The purpose of this Act is to regulate digital news intermediaries with a view to enhancing fairness in the Canadian digital news marketplace and contributing to its sustainability, including the sustainability of news businesses **in Canada, in both the non-profit and for-profits sectors**, including independent local **ones**.
 
 
 ## Designation of Minister
@@ -436,9 +448,13 @@ For greater certainty, this Act does not apply to a telecommunications service p
 
     they contribute to the sustainability of the Canadian news marketplace,
 
-    they ensure a significant portion of independent local news businesses benefit from them, they contribute to the sustainability of those businesses and they encourage innovative business models in the Canadian news marketplace, and
+    they ensure a significant portion of independent local news businesses benefit from them, they contribute to the sustainability of those businesses and they encourage innovative business models in the Canadian news marketplace,
 
-    they involve a range of news outlets that reflect the diversity of the Canadian news marketplace, including diversity with respect to language, racialized groups, Indigenous communities, local news and business models; and
+    they involve a range of news outlets in both the non-profit and for-profit sectors and they were entered into with news businesses that reflect a diversity of business models that provide services to all markets and diverse populations, including local and regional markets in every province and territory, anglophone and francophone communities, including official language minority communities, and Black and other racialized communities, and
+
+    they ensure a significant portion of Indigenous news outlets benefit from them and they contribute to the sustainability of those outlets in a way that supports the provision of news content by and for Indigenous peoples;
+
+    the Commission has held public consultations in accordance with any conditions that its Chairperson may specify; and
 
     any condition set out in regulations made by the Governor in Council.
 
@@ -452,9 +468,11 @@ For greater certainty, this Act does not apply to a telecommunications service p
 
   **(4)** The order is subject to the approval of the Treasury Board if the order exempts the operator from the application of section `82` or any provision of any regulations made under subsection `81`(1).
 
+  **(5)** The order remains in effect for a period of not more than five years and, subject to this section, may be renewed.
+
 ### Section 12
 
-  **(1)** The Commission may, in relation to a digital news intermediary, make an interim order that has thesame effect as an exemption order if the following conditions are met:
+  **(1)** The Commission may, in relation to a digital news intermediary, make an interim order that has the same effect as an exemption order if the following conditions are met:
 
     its operator has requested an exemption order in relation to the intermediary;
 
@@ -462,9 +480,9 @@ For greater certainty, this Act does not apply to a telecommunications service p
 
     the Commission is unable to make the exemption order because it is of the opinion that, taken as a whole, the agreements do not satisfy the criteria set out in subparagraphs `11`(1)(a)(i) to (vi); and
 
-    the Commission is of the opinion that it will be able to change its opinion because the operator is, in good faith, taking measures that will permit the criteria to be satisfied within a reasonable period.
+    the Commission is of the opinion that it will be able to change its opinion because the operator is, in good faith, taking measures that will permit the criteria to be satisfied within a reasonable period, **which period must not be longer than one year**.
 
-  **(2)** The interim order must contain conditions respecting the measures being taken by the operator and may contain any other condition the Commission considers appropriate.
+  **(2)** The interim order must contain conditions respecting the measures being taken by the operator and may contain any other condition the Commission considers appropriate, **including a condition requiring that public consultations be held at a time and place in Canada to be fixed by the Commission**.
 
   **(3)** The interim order is subject to the approval of the Treasury Board if the order exempts the operator from the application of a provision referred to in sub­section `11`(4).
 
@@ -526,11 +544,13 @@ In sections `19` to `44`, **party** means, as applicable, an operator, an eligib
 
   **(1)** The bargaining process consists of
 
-    bargaining sessions;
+    negotiation or bargaining sessions over a period of 90 days;
 
-    if the parties are unable, within a period that the Commission considers reasonable, to reach an agreement in the bargaining sessions, mediation sessions; and
+    if the parties are unable, within the negotiation or bargaining period, to reach an agreement, mediation sessions over a period of 120 days, beginning on the day after the end of the negotiation or bargaining period; and
 
-    if the parties are unable, within a period that the Commission considers reasonable, to reach an agreement in the mediation sessions and at least one of the parties wishes to initiate arbitration, final offer arbitration.
+    if the parties are unable, within the mediation period, to reach an agreement and at least one of the parties wishes to initiate arbitration, final offer arbitration for a period of 45 days, beginning on the day after the end of the mediation period.
+
+  **(1.1)** On request of both parties, the Commission may extend a period provided for in any of paragraphs (1)(a) to (c).
 
   **(2)** The bargaining process is limited to matters related to the making available, by the digital news intermediary in question, of news content produced by a news outlet that is identified under section `30` as a subject of the bargaining process and, if an application is made under subsection `31`(1), determined by the Commission to be a subject of the bargaining process.
 
@@ -584,25 +604,39 @@ has made payments or has offered to make payments to the business in question fo
 
   **(1)** At the request of a news business, the Commission must, by order, designate the business as eligible if it
 
-    is a qualified Canadian journalism organization as defined in subsection 248(1) of the `Income Tax Act`; or
+    is a qualified Canadian journalism organization as defined in subsection 248(1) of the `Income Tax Act`, **or is licensed by the Commission under paragraph 9(1)(b) of the `Broadcasting Act` as a campus station, community station or native station as those terms are defined in regulations made under that Act or other categories of licensees established by the Commission with a similar community mandate**;
 
-    produces news content that is primarily focused on matters of general interest and reports of current events, including coverage of democratic institutions and processes, and
+    produces news content **of public interest** that is primarily focused on matters of general interest and reports of current events, including coverage of democratic institutions and processes, and
 
-    regularly employs two or more journalists in Canada,
+    regularly employs two or more journalists in Canada, **which journalists may include journalists who own or are a partner in the news business and journalists who do not deal at arm's length with the business**,
 
-    operates in Canada, including having content edited and designed in Canada, and
+    operates in Canada, including having content edited and designed in Canada,
 
-    produces news content that is not primarily focused on a particular topic such as industry-specific news, sports, recreation, arts, lifestyle or entertainment.
+    produces news content that is not primarily focused on a particular topic such as industry-specific news, sports, recreation, arts, lifestyle or entertainment, and
+
+    is either a member of a recognized journalistic association and follows the code of ethics of a recognized journalistic association or has its own code of ethics whose standards of professional conduct require adherence to the recognized processes and principles of the journalism profession, including fairness, independence and rigour in reporting news and handling sources; or
+
+    operates an Indigenous news outlet in Canada and produces news content that includes matters of general interest, including coverage of matters relating to the rights of Indigenous peoples, including the right of self-government and treaty rights.
+
+  **(1.1)** The code of ethics referred to in subparagraph (1)(b)(iv) must include measures for ensuring that no news content that promotes hatred or misinformation against any identifiable group is produced or made available and that any errors of fact are corrected promptly and in a transparent manner.
 
   **(2)** The Commission may make an order under subsection (1) on its own initiative.
 
   **(3)** Despite subsection (1), a news business must not be designated as eligible if it was previously designated and had its designation revoked under paragraph `59`(1)(c).
 
+  **(3.1)** Despite subsection (1), a news business must not be designated as eligible if
+
+    the news business is the subject of sanctions under the `United Nations Act`, the `Special Economic Measures Act` or the `Justice for Victims of Corrupt Foreign Officials Act (Sergei Magnitsky Law)`, or is owned or controlled by an individual or entity that is the subject of such sanctions; or
+
+    the news business has its headquarters in a foreign state, as defined in section 2 of the `Special Economic Measures Act`, that is the subject of measures under an Act referred to in paragraph (a).
+
+  **(3.2)** If a news business described in paragraph (3.1)(a) or (b) was previously designated as eligible, the Commission must, by order, revoke the order designating the business as eligible.
+
   **(4)** The `Statutory Instruments Act` does not apply in respect of an order made under subsection (1).
 
 ### Section 28
 
-The designation of a public broadcaster as an eligible news business is subject to any other conditions specified in regulations made by the Governor in Council.
+The designation of a **provincial** public broadcaster as an eligible news business is subject to any other conditions specified in regulations made by the Governor in Council.
 
 ### Section 29
 
@@ -628,6 +662,12 @@ When initiating the bargaining process, an eligible news business or group of el
 
     not intended to promote the interests, or report on the activities, of an organization, an association or its members.
 
+  **(2.1)** Despite subsection (2), an Indigenous news outlet is to be a subject of the bargaining process if it
+
+    operates in Canada; and
+
+    produces news content that includes matters of general interest, including coverage of matters relating to the rights of Indigenous peoples, including the right of self-government.
+
   **(3)** If the Commission is of the opinion that an application under subsection (1) is frivolous, vexatious or not made in good faith, it may dismiss the application summarily and the news outlet that is otherwise the subject of the application is a subject of the bargaining process.
 
 
@@ -645,6 +685,8 @@ When initiating the bargaining process, an eligible news business or group of el
 ### Section 33
 
   **(1)** The Commission must publish qualifications for arbitrators on its website and must maintain a roster of arbitrators who meet those qualifications.
+
+  **(1.1)** The Commission must ensure that the roster includes Indigenous persons.
 
   **(2)** Parties that are engaging in bargaining or mediation sessions may propose candidates for the roster.
 
@@ -672,7 +714,7 @@ When initiating the bargaining process, an eligible news business or group of el
 
 ### Section 36
 
-The Commission may, at the request of an arbitration panel, provide administrative and technical assistance to the panel.
+The Commission may, at the request of an arbitration panel, provide administrative and technical assistance to the panel **and may, on any terms that the Commission considers necessary, disclose to the panel any confidential information in the Commission's possession that, in the Commission's opinion, is necessary for a balanced and informed decision-making process, on the condition that the Commission ensures that the arbitration panel or each individual arbitrator that presides over the final offer arbitration, do not further disclose any such confidential information and under any further terms that the Commission considers necessary**.
 
 ### Section 37
 
@@ -682,9 +724,11 @@ The arbitration panel makes its decision by selecting the final offer made by on
 
 An arbitration panel must take the following factors into account in making its decision:
 
-the value added, monetary and otherwise, to the news content in question by each party, as assessed in terms of their investments, expenditures and other actions in relation to that content; and
+the value added, monetary and otherwise, to the news content in question by each party, as assessed in terms of their investments, expenditures and other actions in relation to that content;
 
-the benefits, monetary and otherwise, that each party receives from the content being made available by the digital news intermediary in question.
+the benefits, monetary and otherwise, that each party receives from the content being made available by the digital news intermediary in question; and
+
+the bargaining power imbalance between the news business and the operator of the digital news intermediary in question.
 
 ### Section 39
 
@@ -696,13 +740,9 @@ the benefits, monetary and otherwise, that each party receives from the content 
 
     is inconsistent with the purposes of enhancing fairness in the Canadian digital news marketplace and contributing to its sustainability.
 
-  **(2)** Before dismissing an offer in accordance with subsection (1), the arbitration panel must consult the Commission.
+  **(2)** If the arbitration panel dismisses, in accordance with subsection (1), the final offer made by one of the parties, it must accept the final offer made by the other party.
 
-  **(3)** If the arbitration panel dismisses an offer in accordance with subsection (1), it must
-
-    provide written reasons to the party that made the offer and give them an opportunity to make a new offer; and
-
-    if a new offer is made under paragraph (a), provide the other party with an opportunity to withdraw its offer and make a new one.
+  **(3)** If the arbitration panel dismisses, in accordance with subsection (1), **the final offer made by each of the parties**, it must provide written reasons to the **parties** and give them an opportunity to make a new offer.
 
 ### Section 40
 
@@ -806,17 +846,27 @@ any bargaining or mediation session or any final offer arbitration under the bar
 
 ### Section 51
 
-In relation to news content that is produced primarily for the Canadian news marketplace by a news outlet operated by an eligible news business and that is made available by a digital news intermediary, the operator of the intermediary is prohibited from acting in any way that
+**In the course of making available** news content that is produced primarily for the Canadian news marketplace by news **outlets** operated by eligible news **businesses**, the operator of a digital news intermediary **must not act** in any way that
 
-unjustly discriminates against the business;
+unjustly discriminates against **an eligible news** business;
 
 gives undue or unreasonable preference to any individual or entity, including itself; or
 
-subjects the business to an undue or unreasonable disadvantage.
+subjects **an eligible news** business to an undue or unreasonable disadvantage.
 
 ### Section 52
 
-An eligible news business or group of eligible news businesses may make a complaint to the Commission if the business or group has reasonable grounds to believe that an operator has, in relation to the business or a member of the group, contravened section `51`.
+  ****(1)**** An eligible news business or group of eligible news businesses may make a complaint to the Commission if the business or group has reasonable grounds to believe that an operator has, in relation to the business or a member of the group, contravened section `51`.
+
+  **(2)** In determining whether an operator has contravened section 51, the Commission may take into account any factor it considers appropriate, but it must take into account whether the conduct in question is
+
+    in the normal course of business for the operator;
+
+    retaliatory in nature; or
+
+    consistent with the purposes of this Act.
+
+  **(3)** If the Commission is of the opinion that a complaint under subsection (1) is frivolous, vexatious or not made in good faith, it may dismiss the complaint summarily.
 
 
 ## Provision of Information
@@ -824,6 +874,16 @@ An eligible news business or group of eligible news businesses may make a compla
 ### Section 53
 
 An operator or news business must, at the request of the Commission and within the time and in the manner that it specifies, provide the Commission with any information that it requires for the purpose of exercising its powers or performing its duties and functions under this Act.
+
+### Section 53.1
+
+If the Canadian Broadcasting Corporation is party to an agreement with an operator in relation to the making available of news content by a digital news intermediary, the Corporation must provide the Commission, within the time and in the manner that it specifies, with an annual report that includes the following information:
+
+the amount of compensation received by the Corporation under agreements it has entered into with operators in relation to the making available of news content by digital news intermediaries;
+
+information relating to the Corporation's use of that compensation; and
+
+information relating to the contribution of those agreements to the sustainability of the Canadian digital news marketplace, including any such information that the Commission specifies must be included in the report.
 
 ### Section 54
 
@@ -1214,9 +1274,9 @@ respecting the time at which or the period within which an operator must notify 
 
 respecting how the Commission is to interpret subparagraphs `11`(1)(a)(i) to (vi);
 
-setting out conditions for the purposes of paragraph `11`(1)(b);
+setting out conditions for the purposes of paragraph 11(1)(b); **and**
 
-setting out conditions in respect of the Canadian Broadcasting Corporation for the purposes of section `28`; and
+[*Deleted*]
 
 setting out conditions in respect of a provincial public broadcaster for the purposes of section `28`, if the provincial minister responsible for that broadcaster has made a request to the Minister.
 
@@ -1255,9 +1315,15 @@ respecting the Commission's practices and procedures in relation to this Act.
 
     information relating to the distribution of the commercial value of those agreements among eligible news businesses, including relative to the expenditures of those businesses on their newsrooms;
 
-    information relating to the effect of the agreements on those expenditures; and
+    information relating to the effect of the agreements on those expenditures;
+
+    if the Canadian Broadcasting Corporation has provided an annual report under section 53.1 in the 12 months preceding the preparation of the auditor's report, information related to that annual report; and
 
     any other element that, in the opinion of the auditor, supports the transparency of the impact of this Act on the Canadian digital news marketplace.
+
+  **(3)** The report must not contain any information that is likely to reveal information designated as confidential under subsection 55(1).
+
+  **(4)** The Commission must publish the report on its website within 30 days after the day on which it receives it.
 
 
 ## Review of Act
@@ -1326,5 +1392,19 @@ The `Telecommunications Act` is amended by adding the following after section 4:
 
 ### Section 93
 
-The provisions of this Act come into force on a day or days to be fixed by order of the Governor in Council.
+  **(1)** Section 6 comes into force on a day to be fixed by order of the Governor in Council, but that day must not be before the day on which the first regulations made under paragraph 84(a) come into force.
+
+  **(2)** Sections 7, 8, 11 to 17, 20, 27 to 31, 53.1 and 59 and subsection 60(2) come into force on a day to be fixed by order of the Governor in Council, but that day must not be before the latest of
+
+    the day fixed in accordance with subsection (1),
+
+    the day on which the first regulations made under paragraph 84(b) come into force, and
+
+    the day on which the first regulations made under paragraph 84(c) come into force.
+
+  **(3)** Sections 18, 19, 21, 22 and 32 to 44 come into force on a day to be fixed by order of the Governor in Council, but that day must not be before the day fixed in accordance with subsection (2).
+
+  **(4)** Sections 49 to 52 and 68 come into force on a day to be fixed by order of the Governor in Council, but that day must not be before the day fixed in accordance with subsection (3).
+
+  **(5)** Sections 79 to 83, 86, 87 and 90 come into force on a day or days to be fixed by order of the Governor in Council.
 
