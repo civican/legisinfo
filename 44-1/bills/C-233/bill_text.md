@@ -17,10 +17,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
     that the accused wear an electronic monitoring device, if the Attorney General makes the request; or
 
-  **(2)** **Paragraph** 515(4.3)**(c)** of the Act is **replaced** by the following:
+  **(2)** Paragraph 515(4.3)(c) of the Act is replaced by the following:
 
-    an offence **in the commission of which violence** against **a person was used, threatened or
-attempted, including against** the accused's intimate partner; and
+    an offence in the commission of which violence against a person was used, threatened or
+attempted, including against the accused's intimate partner; and
 
 
 ## Judges Act
@@ -29,7 +29,7 @@ attempted, including against** the accused's intimate partner; and
 
 Paragraph 60(2)(b) of the `Judges Act` is replaced by the following:
 
-establish seminars for the continuing education of judges, including seminars on matters related to sexual assault law, intimate partner violence, coercive control **in intimate partner and family relationships**
+establish seminars for the continuing education of judges, including seminars on matters related to sexual assault law, intimate partner violence, coercive control in intimate partner and family relationships
 and social context, which includes systemic racism and systemic discrimination;
 
 ### Section 3
@@ -38,8 +38,8 @@ The portion of subsection 62.1(1) of the Act before paragraph (a) is replaced by
 
 ### Section 62.1
 
-  **(1)** Within 60 days after the end of each calendar year, the Council should submit to the Minister a report on the seminars referred to in paragraph 60(2)(b) on matters related to sexual assault law, intimate partner violence, coercive control **in intimate partner
-and family relationships** and social context, which includes systemic racism and systemic discrimination,
+  **(1)** Within 60 days after the end of each calendar year, the Council should submit to the Minister a report on the seminars referred to in paragraph 60(2)(b) on matters related to sexual assault law, intimate partner violence, coercive control in intimate partner
+and family relationships and social context, which includes systemic racism and systemic discrimination,
 that were offered in the preceding calendar year. The report should include the following information:
 
 
