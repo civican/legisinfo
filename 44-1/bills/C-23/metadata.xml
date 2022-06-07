@@ -1,0 +1,588 @@
+<Bills>
+  <Bill>
+    <Id>11837102</Id>
+    <NumberCode>C-23</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>23</Number>
+    <LongTitleEn>An Act respecting places, persons and events of national historic significance or national interest, archaeological resources and cultural and natural heritage</LongTitleEn>
+    <LongTitleFr>Loi concernant les lieux, personnes et événements d'importance historique nationale ou d'intérêt national, les ressources archéologiques et le patrimoine culturel et naturel</LongTitleFr>
+    <LongTitle>An Act respecting places, persons and events of national historic significance or national interest, archaeological resources and cultural and natural heritage</LongTitle>
+    <ShortTitleEn>Historic Places of Canada Act</ShortTitleEn>
+    <ShortTitleFr>Loi sur les lieux historiques du Canada</ShortTitleFr>
+    <ShortTitle>Historic Places of Canada Act</ShortTitle>
+    <StatusId>349</StatusId>
+    <StatusNameEn>At second reading in the House of Commons</StatusNameEn>
+    <StatusNameFr>À la deuxième lecture à la Chambre des communes</StatusNameFr>
+    <StatusName>At second reading in the House of Commons</StatusName>
+    <LatestCompletedMajorStageId>60043</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>First reading</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Première lecture</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>First reading</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>First reading in the House of Commons</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>1</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>House of Commons</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Chambre des communes</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>House of Commons</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60030</OngoingStageId>
+    <OngoingStageNameEn>Second reading</OngoingStageNameEn>
+    <OngoingStageNameFr>Deuxième lecture</OngoingStageNameFr>
+    <OngoingStageName>Second reading</OngoingStageName>
+    <LatestCompletedBillStageId>60029</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>First reading</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Première lecture</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>First reading</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>1</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>House of Commons</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Chambre des communes</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>House of Commons</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2022-06-07T10:13:49.943</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>44</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>14171</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Steven</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Guilbeault</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Steven Guilbeault</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Environment and Climate Change</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre de l'Environnement et du Changement climatique</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Environment and Climate Change</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>4</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Minister</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>ministre</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Minister</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>675</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Laurier—Sainte-Marie</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Laurier—Sainte-Marie</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Laurier—Sainte-Marie</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60115</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Debate at second reading</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Débat à l'étape de la deuxième lecture</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60030</LatestBillEventStageId>
+    <LatestBillEventTypeName>Debate at second reading</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2023-03-21T10:00:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>1</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>House of Commons</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Chambre des communes</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>House of Commons</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>170</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2022-06-07T10:13:49.943</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime />
+    <PassedHouseThirdReadingDateTime />
+    <PassedSenateFirstReadingDateTime />
+    <PassedSenateSecondReadingDateTime />
+    <PassedSenateThirdReadingDateTime />
+    <ReceivedRoyalAssentDateTime />
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>false</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>false</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>false</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>false</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>false</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>false</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information, Education and Research Services of the Library of Parliament. Meanwhile, the following executive summary is available.&lt;br/&gt;&lt;br/&gt;On 7 June 2022, the Minister of Environment and Climate Change introduced Bill C-23, An Act respecting places, persons and events of national historic significance or national interest, archaeological resources and cultural and natural heritage (Historic Places of Canada Act), and it was given first reading.   &lt;br/&gt;&lt;br/&gt;Bill C-23 enacts the Historic Places of Canada Act, which provides for the designation of places, persons and events that are of national historic significance or national interest and fosters the protection and conservation of the heritage value of the designated places.&lt;br/&gt;&lt;br/&gt;The Act, among other things,&lt;br/&gt;&lt;br/&gt;(a) sets out the powers, duties and functions of the federal minister responsible for the Act respecting, among other things,&lt;br/&gt;&lt;br/&gt;(i) the designation of places, persons and events that are of national historic significance or national interest,&lt;br/&gt;&lt;br/&gt;(ii) the protection and conservation of the heritage value of certain places that are of national historic significance or national interest,&lt;br/&gt;&lt;br/&gt;(iii) the protection and conservation of certain archaeological resources,&lt;br/&gt;&lt;br/&gt;(iv) the implementation of the Convention Concerning the Protection of the World Cultural and Natural Heritage, and&lt;br/&gt;&lt;br/&gt;(v) the establishment of a program for the commemoration of deceased prime ministers of Canada at their grave sites or other appropriate places;&lt;br/&gt;&lt;br/&gt;(b) continues the Historic Sites and Monuments Board of Canada and modifies its composition, including to provide for the appointment of representatives for First Nations, Inuit and Métis;&lt;br/&gt;&lt;br/&gt;(c) requires the establishment and maintenance of a public register that includes certain information about designated places, persons and events and permits the exclusion of information from the register in certain circumstances;&lt;br/&gt;&lt;br/&gt;(d) imposes obligations for the protection and conservation of the heritage value of certain designated places that are under the administration of federal ministers or certain Crown corporations, including&lt;br/&gt;&lt;br/&gt;(i) the obligation to ensure that the Standards and Guidelines for the Conservation of Historic Places in Canada is taken into account before an action is carried out that may result in a physical change to one of those designated places that may affect its heritage value, and&lt;br/&gt;&lt;br/&gt;(ii) the obligation to consult with the Parks Canada Agency before that action is carried out and before the disposition of one of those designated places;&lt;br/&gt;&lt;br/&gt;(e) contains provisions respecting navigation on certain canals that are designated places;&lt;br/&gt;&lt;br/&gt;(f) authorizes the Governor in Council to make regulations respecting certain designated places; and&lt;br/&gt;&lt;br/&gt;(g) contains provisions respecting the enforcement of the Act.&lt;br/&gt;&lt;br/&gt;The Act also contains transitional provisions, makes related and consequential amendments to other Acts and repeals the Historic Sites and Monuments Act.&lt;/div&gt;</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>&lt;div&gt;Les Service d'information, d'éducation et de recherche parlementaires de la Bibliothèque du Parlement rédige actuellement le résumé législatif de ce projet de loi.  Entre-temps, le Service met à votre disposition le sommaire suivant.&lt;br/&gt;&lt;br/&gt;Le 7 juin 2022, le ministre de l'Environnement et du Changement climatique a déposé le projet de loi C-23, Loi concernant les lieux, personnes et événements d'importance historique nationale ou d'intérêt national, les ressources archéologiques et le patrimoine culturel et naturel (Loi sur les lieux historiques du Canada), à la Chambre des communes en première lecture. &lt;br/&gt;&lt;br/&gt;Le projet de loi C-23 édicte la Loi sur les lieux historiques du Canada, laquelle prévoit la désignation de lieux, de personnes et d'événements qui ont une importance historique nationale ou qui sont d'intérêt national et favorise la protection et la conservation de la valeur patrimoniale des lieux ainsi désignés.&lt;br/&gt;&lt;br/&gt;La loi, notamment?:&lt;br/&gt;&lt;br/&gt;a) énonce les attributions du ministre fédéral responsable de la loi concernant, notamment?:&lt;br/&gt;&lt;br/&gt;(i) la désignation de lieux, de personnes et d'événements qui ont une importance historique nationale ou qui sont d'intérêt national,&lt;br/&gt;&lt;br/&gt;(ii) la protection et la conservation de la valeur patrimoniale de certains lieux qui ont une importance historique nationale ou qui sont d'intérêt national,&lt;br/&gt;&lt;br/&gt;(iii) la protection et la conservation de certaines ressources archéologiques,&lt;br/&gt;&lt;br/&gt;(iv) la mise en œuvre de la Convention concernant la protection du patrimoine mondial, culturel et naturel,&lt;br/&gt;&lt;br/&gt;(v) la constitution d'un programme de commémoration, à leurs lieux de sépulture ou à d'autres lieux indiqués, des premiers ministres du Canada décédés;&lt;br/&gt;&lt;br/&gt;b) proroge la Commission des lieux et monuments historiques du Canada et en modifie la composition afin, notamment, de prévoir qu'y soient nommés des représentants pour les Premières Nations, les Inuits et les Métis;&lt;br/&gt;&lt;br/&gt;c) requiert la constitution et la tenue d'un registre public dans lequel sont versés certains renseignements sur chaque lieu, personne ou événement désignés et, dans certains cas, autorise l'omission de renseignements du registre;&lt;br/&gt;&lt;br/&gt;d) impose des obligations pour la protection et la conservation de la valeur patrimoniale de certains lieux désignés dont des ministres fédéraux ou certaines sociétés d'État ont la gestion, notamment?:&lt;br/&gt;&lt;br/&gt;(i) l'obligation de veiller à ce que soient prises en compte les Normes et lignes directrices pour la conservation des lieux patrimoniaux au Canada avant la prise de toute mesure qui peut causer un changement physique à l'un de ces lieux désignés et pouvant avoir une incidence sur la valeur patrimoniale de celui-ci,&lt;br/&gt;&lt;br/&gt;(ii) l'obligation de consulter l'Agence Parcs Canada avant la prise de la mesure et avant la disposition de l'un de ces lieux désignés;&lt;br/&gt;&lt;br/&gt;e) contient des dispositions portant sur la navigation dans certains canaux qui sont des lieux désignés;&lt;br/&gt;&lt;br/&gt;f) autorise le gouverneur en conseil à prendre des règlements concernant certains lieux désignés;&lt;br/&gt;&lt;br/&gt;g) contient des dispositions portant sur le contrôle d'application de la loi.&lt;br/&gt;&lt;br/&gt;Par ailleurs, la loi comporte des dispositions transitoires, apporte des modifications connexes et corrélatives à d'autres lois et abroge la Loi sur les lieux et monuments historiques.&lt;/div&gt;</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information, Education and Research Services of the Library of Parliament. Meanwhile, the following executive summary is available.&lt;br/&gt;&lt;br/&gt;On 7 June 2022, the Minister of Environment and Climate Change introduced Bill C-23, An Act respecting places, persons and events of national historic significance or national interest, archaeological resources and cultural and natural heritage (Historic Places of Canada Act), and it was given first reading.   &lt;br/&gt;&lt;br/&gt;Bill C-23 enacts the Historic Places of Canada Act, which provides for the designation of places, persons and events that are of national historic significance or national interest and fosters the protection and conservation of the heritage value of the designated places.&lt;br/&gt;&lt;br/&gt;The Act, among other things,&lt;br/&gt;&lt;br/&gt;(a) sets out the powers, duties and functions of the federal minister responsible for the Act respecting, among other things,&lt;br/&gt;&lt;br/&gt;(i) the designation of places, persons and events that are of national historic significance or national interest,&lt;br/&gt;&lt;br/&gt;(ii) the protection and conservation of the heritage value of certain places that are of national historic significance or national interest,&lt;br/&gt;&lt;br/&gt;(iii) the protection and conservation of certain archaeological resources,&lt;br/&gt;&lt;br/&gt;(iv) the implementation of the Convention Concerning the Protection of the World Cultural and Natural Heritage, and&lt;br/&gt;&lt;br/&gt;(v) the establishment of a program for the commemoration of deceased prime ministers of Canada at their grave sites or other appropriate places;&lt;br/&gt;&lt;br/&gt;(b) continues the Historic Sites and Monuments Board of Canada and modifies its composition, including to provide for the appointment of representatives for First Nations, Inuit and Métis;&lt;br/&gt;&lt;br/&gt;(c) requires the establishment and maintenance of a public register that includes certain information about designated places, persons and events and permits the exclusion of information from the register in certain circumstances;&lt;br/&gt;&lt;br/&gt;(d) imposes obligations for the protection and conservation of the heritage value of certain designated places that are under the administration of federal ministers or certain Crown corporations, including&lt;br/&gt;&lt;br/&gt;(i) the obligation to ensure that the Standards and Guidelines for the Conservation of Historic Places in Canada is taken into account before an action is carried out that may result in a physical change to one of those designated places that may affect its heritage value, and&lt;br/&gt;&lt;br/&gt;(ii) the obligation to consult with the Parks Canada Agency before that action is carried out and before the disposition of one of those designated places;&lt;br/&gt;&lt;br/&gt;(e) contains provisions respecting navigation on certain canals that are designated places;&lt;br/&gt;&lt;br/&gt;(f) authorizes the Governor in Council to make regulations respecting certain designated places; and&lt;br/&gt;&lt;br/&gt;(g) contains provisions respecting the enforcement of the Act.&lt;br/&gt;&lt;br/&gt;The Act also contains transitional provisions, makes related and consequential amendments to other Acts and repeals the Historic Sites and Monuments Act.&lt;/div&gt;</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear />
+    <StatuteChapter />
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2022-06-07T10:13:49.943</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>83</Number>
+          <Date>2022-06-07T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2022-06-07T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2022-06-07T10:13:49.943</EventStartDateTime>
+          <EventEndDateTime>2022-06-07T10:13:49.943</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2022-06-07T10:13:49.943</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>5</State>
+        <StateNameEn>Not completed</StateNameEn>
+        <StateNameFr>Non achevée</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>140</Number>
+          <Date>2022-12-02T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>170</Number>
+          <Date>2023-03-21T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <EndOfStageEvent />
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2023-03-21T14:22:05.66</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>11972041</InterventionEventId>
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>89258</PersonId>
+          <PersonOfficialFirstName>John</PersonOfficialFirstName>
+          <PersonOfficialLastName>Aldag</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>John Aldag</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>140</MeetingNumber>
+          <SpeechDateTime>2022-12-02T10:06:43</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>11972415</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>105614</PersonId>
+          <PersonOfficialFirstName>Damien</PersonOfficialFirstName>
+          <PersonOfficialLastName>Kurek</PersonOfficialLastName>
+          <PersonMiddleName>C.</PersonMiddleName>
+          <PersonName>Damien C. Kurek</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>140</MeetingNumber>
+          <SpeechDateTime>2022-12-02T10:37:49</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>11973056</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>88595</PersonId>
+          <PersonOfficialFirstName>Monique</PersonOfficialFirstName>
+          <PersonOfficialLastName>Pauzé</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Monique Pauzé</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Bloc Québécois</CaucusShortNameEn>
+          <CaucusShortNameFr>Bloc Québécois</CaucusShortNameFr>
+          <CaucusShortName>Bloc Québécois</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>140</MeetingNumber>
+          <SpeechDateTime>2022-12-02T12:31:17</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>11973131</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>89327</PersonId>
+          <PersonOfficialFirstName>Richard</PersonOfficialFirstName>
+          <PersonOfficialLastName>Cannings</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Richard Cannings</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>NDP</CaucusShortNameEn>
+          <CaucusShortNameFr>NPD</CaucusShortNameFr>
+          <CaucusShortName>NDP</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>140</MeetingNumber>
+          <SpeechDateTime>2022-12-02T13:03:25</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteint</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+    </BillStages>
+    <Publications>
+      <PublicationId>11846373</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Charter Statement - Bill C-23: An Act respecting places, persons and events of national historic significance or national interest, archaeological resources and cultural and natural heritage (Tabled 2022-10-24)</TitleEn>
+      <TitleFr>Énoncés concernant la Charte - Projet de loi C-23 : Loi concernant les lieux, personnes et événements d'importance historique nationale ou d'intérêt national, les ressources archéologiques et le patrimoine culturel et naturel (Déposé 2022-10-24)</TitleFr>
+      <Title>Charter Statement - Bill C-23: An Act respecting places, persons and events of national historic significance or national interest, archaeological resources and cultural and natural heritage (Tabled 2022-10-24)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.justice.gc.ca/eng/csj-sjc/pl/charter-charte/c23_1.html</UrlEn>
+      <UrlFr>https://www.justice.gc.ca/fra/sjc-csj/pl/charte-charter/c23_1.html</UrlFr>
+      <Url>https://www.justice.gc.ca/eng/csj-sjc/pl/charter-charte/c23_1.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>National historic sites. Government of Canada.</TitleEn>
+      <TitleFr>Lieux historiques nationaux. Gouvernement du Canada.</TitleFr>
+      <Title>National historic sites. Government of Canada.</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/services/culture/cultural-attractions/historic-sites.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/services/culture/attraits-culturels/lieux-historiques.html</UrlFr>
+      <Url>https://www.canada.ca/en/services/culture/cultural-attractions/historic-sites.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Directory of Federal Heritage Designations. Parks Canada.</TitleEn>
+      <TitleFr>Annuaire des désignations patrimoniales fédérales. Parcs Canada.</TitleFr>
+      <Title>Directory of Federal Heritage Designations. Parks Canada.</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.pc.gc.ca/apps/dfhd/default_eng.aspx</UrlEn>
+      <UrlFr>https://www.pc.gc.ca/apps/dfhd/default_fra.aspx</UrlFr>
+      <Url>https://www.pc.gc.ca/apps/dfhd/default_eng.aspx</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Heritage Conservation: Canada's National Historic Sites. Marie-Claude Langlois. Library of Parliament. Revised 18 February 2014.</TitleEn>
+      <TitleFr>Conservation du patrimoine : les lieux historiques nationaux du Canada. Marie-Claude Langlois. Bibliothèque du Parlement. Révisée le 18 février 2014.</TitleFr>
+      <Title>Heritage Conservation: Canada's National Historic Sites. Marie-Claude Langlois. Library of Parliament. Revised 18 February 2014.</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://lop.parl.ca/sites/PublicWebsite/default/en_CA/ResearchPublications/201327E</UrlEn>
+      <UrlFr>https://bdp.parl.ca/sites/PublicWebsite/default/fr_CA/ResearchPublications/201327E</UrlFr>
+      <Url>https://lop.parl.ca/sites/PublicWebsite/default/en_CA/ResearchPublications/201327E</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Proposed legislation gives Indigenous groups more say in management of federal historic sites. Fraser Needham. APTN. 7 June 2022.</TitleEn>
+      <TitleFr>Proposed legislation gives Indigenous groups more say in management of federal historic sites. Fraser Needham. APTN. 7 June 2022. (Disponible en anglais seulement)</TitleFr>
+      <Title>Proposed legislation gives Indigenous groups more say in management of federal historic sites. Fraser Needham. APTN. 7 June 2022.</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.aptnnews.ca/national-news/proposed-legislation-gives-indigenous-groups-more-say-in-management-of-federal-historic-sites/</UrlEn>
+      <UrlFr>https://www.aptnnews.ca/national-news/proposed-legislation-gives-indigenous-groups-more-say-in-management-of-federal-historic-sites/</UrlFr>
+      <Url>https://www.aptnnews.ca/national-news/proposed-legislation-gives-indigenous-groups-more-say-in-management-of-federal-historic-sites/</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>New Government of Canada legislation to give Indigenous peoples a stronger voice and strengthen the protection and conservation of historic places in Canada (2022-06-07 | Department of the Environment)</TitleEn>
+      <TitleFr>Un nouveau projet de loi du gouvernement du Canada vise à donner une voix plus forte aux peuples autochtones et à renforcer la protection et la conservation des lieux historiques au Canada (2022-06-07 | Ministère de l'Environnement)</TitleFr>
+      <Title>New Government of Canada legislation to give Indigenous peoples a stronger voice and strengthen the protection and conservation of historic places in Canada (2022-06-07 | Department of the Environment)</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/parks-canada/news/2022/06/new-government-of-canada-legislation-to-give-indigenous-peoples-a-stronger-voice-and-strengthen-the-protection-and-conservation-of-historic-places-.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/parcs-canada/nouvelles/2022/06/un-nouveau-projet-de-loi-du-gouvernement-du-canada-vise-a-donner-une-voix-plus-forte-aux-peuples-autochtones-et-a-renforcer-la-protection-et-la-con.html</UrlFr>
+      <Url>https://www.canada.ca/en/parks-canada/news/2022/06/new-government-of-canada-legislation-to-give-indigenous-peoples-a-stronger-voice-and-strengthen-the-protection-and-conservation-of-historic-places-.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Historic Places of Canada Act  - Summary of Legislation (2022-06-07 | Department of the Environment)</TitleEn>
+      <TitleFr>Loi sur les lieux historiques du Canada (2022-06-07 | Ministère de l'Environnement)</TitleFr>
+      <Title>Historic Places of Canada Act  - Summary of Legislation (2022-06-07 | Department of the Environment)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/parks-canada/news/2022/06/historic-places-of-canada-act--summary-of-legislation.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/parcs-canada/nouvelles/2022/06/loi-sur-les-lieux-historiques-du-canada.html</UrlFr>
+      <Url>https://www.canada.ca/en/parks-canada/news/2022/06/historic-places-of-canada-act--summary-of-legislation.html</Url>
+    </WebReferences>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
