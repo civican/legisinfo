@@ -1,7 +1,5 @@
 # Bill C-19: An Act to implement certain provisions of the budget tabled in Parliament on April 7, 2022 and other measures
 
-**Sponsor**: DEPUTY PRIME MINISTER AND MINISTER OF FINANCE
-
 Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act to implement certain provisions of the budget tabled in Parliament on April 7, 2022 and other measures*".
 
 ## Summary
@@ -912,11 +910,6 @@ Regulations
 
 
 
-
-### Employment Insurance Board of Appeal
-
-*[*Deleted*]*
-
 Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
 
@@ -1074,7 +1067,7 @@ This Act may be cited as the `Budget Implementation Act, 2022, No. 1`.
 
     **(1.2)** Despite subsection (1.1), an individual who is diagnosed with type 1 diabetes mellitus is deemed to require therapy to be administered at least two times each week for a total duration averaging not less than 14 hours a week.
 
-  **(4)** Subsections (1) to (**3.1**) apply to the 2021 and subsequent taxation years in respect of certificates described in paragraph 118.3(1)(a.2) or (a.3) of the `Income Tax Act` that are filed with the Minister of National Revenue after this Act receives royal assent.
+  **(4)** Subsections (1) to (3.1) apply to the 2021 and subsequent taxation years in respect of certificates described in paragraph 118.3(1)(a.2) or (a.3) of the `Income Tax Act` that are filed with the Minister of National Revenue after this Act receives royal assent.
 
 ### Section 7
 
@@ -1394,7 +1387,7 @@ Section 125.4 of the Act is amended by adding the following after subsection (1)
 
     the charity ensures that the disbursement is exclusively applied to charitable activities in furtherance of a charitable purpose of the charity, and
 
-    **the charity maintains documentation sufficient to demonstrate**;
+    the charity maintains documentation sufficient to demonstrate
 
     the purpose for which the disbursement is made, and
 
@@ -1897,13 +1890,13 @@ to an official of the Agency solely for the purpose of the collection of amounts
 
     **liquid biofuel** means a fuel produced all or substantially all from specified waste material or carbon dioxide that is a liquid at a temperature of 15.6°C (60°F) and a pressure of 101 kPa (14.7 psia). (**biocarburants liquides**)
 
-    **solid biofuel**  means a fuel produced all or substantially all from specified waste material that is a solid at a temperature of 15.6°C (60°F) and a pressure of 101 kPa (14.7 psia) (other than charcoal that is used for cooking or fuels with fossil fuel-derived ignition accelerants) and that has undergone
+    **solid biofuel** means a fuel produced all or substantially all from specified waste material that is a solid at a temperature of 15.6°C (60°F) and a pressure of 101 kPa (14.7 psia) (other than charcoal that is used for cooking or fuels with fossil fuel-derived ignition accelerants) and that has undergone
 
     a thermo-chemical conversion process to increase its carbon fraction and densification; or
 
     densification into pellets or briquettes. (**biocarburants solides**)
 
-    **specified waste material**  means wood waste, plant residue, municipal waste, sludge from an eligible sewage treatment facility, spent pulping liquor, food and animal waste, manure, pulp and paper by-product and separated organics. (**déchets déterminés**)
+    **specified waste material** means wood waste, plant residue, municipal waste, sludge from an eligible sewage treatment facility, spent pulping liquor, food and animal waste, manure, pulp and paper by-product and separated organics. (**déchets déterminés**)
 
   **(4)** Subsection (1) applies in respect of property acquired after April 18, 2021 that has not been used or acquired for use before April 19, 2021.
 
@@ -1954,7 +1947,7 @@ The Regulations are amended by adding the following after section 3702:
 
 ### Information Returns
 
-### Section **3703**
+### Section 3703
 
 For the purpose of subsection 149.1(14) of the Act, the following is prescribed information for the public information return of a charity in a taxation year:
 
@@ -3755,15 +3748,15 @@ The heading of Schedule 8 to the Regulations is replaced by the following:
 
     **(3)** Subsection (1) does not apply to wine
 
-      that is produced by an individual for their personal use and that is consumed in the course of that use;**or**
+      that is produced by an individual for their personal use and that is consumed in the course of that use; or
 
       that is produced in Canada from honey or apples and composed wholly of agricultural or plant product grown in Canada.
 
-  **(2)** Subsection (1) applies after June **29**, 2022.
+  **(2)** Subsection (1) applies after June 29, 2022.
 
 ### Section 132
 
-  **(1)** Paragraph 135(2)(a) of the Act is **replaced by the following**:
+  **(1)** Paragraph 135(2)(a) of the Act is replaced by the following:
 
     produced in Canada from honey or apples and composed wholly of agricultural or plant product grown in Canada;
 
@@ -5748,7 +5741,7 @@ The heading of Schedule 8 to the Regulations is replaced by the following:
 
 ### Section 74
 
-      **(1)** For the purposes of this section, electronic filing means using electronic media in a manner specified in writing by the Minister.
+      **(1)** For the purposes of this section, **electronic filing** means using electronic media in a manner specified in writing by the Minister.
 
       **(2)** A person that is required to file with the Minister a return under this Act or an application under Division 3 or 4 of Part 1, and that meets the criteria specified in writing by the Minister for the purposes of this section, may file it by way of electronic filing.
 
@@ -7184,9 +7177,7 @@ The heading of Schedule 8 to the Regulations is replaced by the following:
 
   **(2)** Subsection (1) comes into force, or is deemed to have come into force, on September 1, 2022.
 
-  **(2.1)** Despite subsection (2), the provisions of the `Select Luxury Items Tax Act`, as enacted by subsection (1),
-that set out the tax on subject aircraft come into force on a day or days to be fixed by order of the Governor in
-Council.
+  **(2.1)** Despite subsection (2), the provisions of the `Select Luxury Items Tax Act`, as enacted by subsection (1), that set out the tax on subject aircraft come into force on a day or days to be fixed by order of the Governor in Council, which day or days may not be fixed before September 1, 2022.
 
   **(3)** Despite subsection (2), sections 107 to 119 and 121 to 129 of the `Select Luxury Items Tax Act`, as enacted by subsection (1), come into force on the later of the day on which this Act receives royal assent and September 1, 2022.
 
@@ -8636,7 +8627,7 @@ The `Prohibition on the Purchase of Residential Property by Non-Canadians Act` i
 
 ### Section 237
 
-  **(1)** Section 235 comes into force on **January 1, 2023**.
+  **(1)** Section 235 comes into force on January 1, 2023.
 
   **(2)** Section `236` comes into force on the second anniversary of the day on which section `235` comes into force.
 
@@ -10525,7 +10516,7 @@ Subsections `333`(3) and (4) and sections `371` to `373` come into force on a da
 
     the basis on which an eligible foreign national may be ranked;
 
-    **subject to subsection (1.01)**, the establishment of **categories** of eligible foreign nationals for the purposes of ranking, which groupings may consist of
+    subject to subsection (1.01), the establishment of categories of eligible foreign nationals for the purposes of ranking, which groupings may consist of
 
     all eligible foreign nationals,
 
@@ -10587,20 +10578,9 @@ The Act is amended by adding the following after section 10.4:
 
 ### Section 379
 
-[*Deleted*]
-
-### Section 380
-
 Subsection 94(2) of the Act is amended by adding the following after paragraph (a):
 
 any instructions given under paragraph 10.3(1)(h.2) that establish a category of eligible foreign nationals, the economic goal sought to be supported in establishing the category and the number of foreign nationals invited to make an application for permanent residence in respect of the category;
-
-
-#### Coming into Force
-
-### Section 381
-
-[*Deleted*]
 
 
 ### Old Age Security Act
@@ -10608,7 +10588,7 @@ any instructions given under paragraph 10.3(1)(h.2) that establish a category of
 
 #### Amendment to the Act
 
-### Section 382
+### Section 380
 
 Subparagraph (c)(i.1) of the definition **income** in section 2 of the `Old Age Security Act` is replaced by the following:
 
@@ -10617,7 +10597,7 @@ the amount of the payment under the program referred to in section 275 of the `B
 
 #### Coming into Force
 
-### Section 383
+### Section 381
 
 This Division is deemed to have come into force on June 29, 2021.
 
@@ -10627,13 +10607,13 @@ This Division is deemed to have come into force on June 29, 2021.
 
 #### `Canada Emergency Response Benefit Act`
 
-### Section 384
+### Section 382
 
 Subparagraph 6(1)(b)(ii) of the `Canada Emergency Response Benefit Act` is replaced by the following:
 
 benefits, as defined in subsection 2(1) of the `Employment Insurance Act`, or an employment insurance emergency response benefit referred to in section 153.7 of that Act,
 
-### Section 385
+### Section 383
 
 The Act is amended by adding the following after section 14:
 
@@ -10648,7 +10628,7 @@ The Act is amended by adding the following after section 14:
 
 #### `Canada Emergency Student Benefit Act`
 
-### Section 386
+### Section 384
 
 The `Canada Emergency Student Benefit Act` is amended by adding the following after section 15:
 
@@ -10669,7 +10649,7 @@ The `Canada Emergency Student Benefit Act` is amended by adding the following af
 
 #### `Employment Insurance Act`
 
-### Section 387
+### Section 385
 
 Section 153.9 of the `Employment Insurance Act` is amended by adding the following after subsection (4):
 
@@ -10680,9 +10660,9 @@ Section 153.9 of the `Employment Insurance Act` is amended by adding the followi
 
 #### Coming into Force
 
-### Section 388
+### Section 386
 
-Section `384` is deemed to have come into force on March 15, 2020.
+Section 382 is deemed to have come into force on March 15, 2020.
 
 
 ### Employment Insurance Act
@@ -10690,7 +10670,7 @@ Section `384` is deemed to have come into force on March 15, 2020.
 
 #### Amendments to the Act
 
-### Section 389
+### Section 387
 
   **(1)** The definition **employment benefits** in subsection 2(1) of the `Employment Insurance Act` is repealed.
 
@@ -10702,7 +10682,7 @@ Section `384` is deemed to have come into force on March 15, 2020.
 
     **employment support measure** means a measure established under section 59; (**mesure de soutien à l'emploi**)
 
-### Section 390
+### Section 388
 
   **(1)** Paragraph 5(1)(e) of the Act is replaced by the following:
 
@@ -10712,26 +10692,26 @@ Section `384` is deemed to have come into force on March 15, 2020.
 
     any employment provided under regulations made under section 24 or under an employment support measure other than one referred to in paragraph 59(c) or (d).
 
-### Section 391
+### Section 389
 
 Paragraph 8(2)(c) of the Act is replaced by the following:
 
 receiving assistance under an employment support measure other than one referred to in paragraph 59(c) or (d); or
 
-### Section 392
+### Section 390
 
 Subsection 19(4) of the Act is replaced by the following:
 
 **(4)** Earnings from employment under an employment support measure other than one referred to in paragraph 59(c) or (d) and earnings or allowances payable to a claimant for attending a course or program of instruction or training shall not be deducted under this section except in accordance with the regulations.
 
-### Section 393
+### Section 391
 
 The heading before section 25 of the Act is replaced by the following:
 
 
 ### Courses, Programs and Employment Support Measures
 
-### Section 394
+### Section 392
 
   **(1)** Paragraph 25(1)(a) of the Act is replaced by the following:
 
@@ -10741,7 +10721,7 @@ The heading before section 25 of the Act is replaced by the following:
 
     for which assistance has been provided for the claimant under a prescribed employment support measure — other than one referred to in paragraph 59(a) or (c) — or a prescribed measure that is the subject of an agreement under section 63, and
 
-### Section 395
+### Section 393
 
 Section 26 of the Act is replaced by the following:
 
@@ -10749,20 +10729,20 @@ Section 26 of the Act is replaced by the following:
 
 For the purposes of this Part, Part IV, the `Income Tax Act` and the `Canada Pension Plan`, benefits paid to a claimant while employed under an employment support measure — other than one referred to in paragraph 59(c) or (d) — or under a measure that is the subject of an agreement under section 63 are not earnings from employment.
 
-### Section 396
+### Section 394
 
 Paragraph 27(1.1)(a) of the Act is replaced by the following:
 
 the Commission or an authority that the Commission designates has, with the agreement of the claimant, referred the claimant to a course or program of instruction or training or to any other employment activity for which assistance has been provided under an employment support measure other than one referred to in paragraph 59(c); and
 
-### Section 397
+### Section 395
 
 The heading of Part II of the Act is replaced by the following:
 
 
 ## Employment Support Measures and National Employment Service
 
-### Section 398
+### Section 396
 
 Section 56 of the Act is replaced by the following:
 
@@ -10770,7 +10750,7 @@ Section 56 of the Act is replaced by the following:
 
 The purpose of this Part is to help maintain a sustainable employment insurance system through the establishment of employment support measures and the maintenance of a national employment service.
 
-### Section 399
+### Section 397
 
   **(1)** The portion of subsection 57(1) of the Act before paragraph (a) is replaced by the following:
 
@@ -10798,7 +10778,7 @@ The purpose of this Part is to help maintain a sustainable employment insurance 
 
     **(2)** To give effect to the purpose and guidelines of this Part, the Commission shall work in concert with provincial governments and consult with workers and employers to align employment support measures with labour market needs.
 
-### Section 400
+### Section 398
 
 Paragraphs 58(a) and (b) of the Act are replaced by the following:
 
@@ -10806,7 +10786,7 @@ an insured person who requests assistance under an employment support measure an
 
 an insured person who requests assistance under an employment support measure and, when requesting assistance, is a person who was in receipt of the employment insurance emergency response benefit within the previous 60 months.
 
-### Section 401
+### Section 399
 
 Section 59 of the Act is replaced by the following:
 
@@ -10822,11 +10802,11 @@ provide workers with employment assistance services; and
 
 support research, innovation or partnerships related to helping workers to prepare for, obtain or keep employment and to be productive participants in the labour market.
 
-### Section 402
+### Section 400
 
 Subsections 60(4) and (5) of the Act are repealed.
 
-### Section 403
+### Section 401
 
 Sections 61 and 62 of the Act are replaced by the following:
 
@@ -10838,7 +10818,7 @@ The Commission may, in accordance with terms and conditions approved by the Trea
 
 The Commission may, with the approval of the Minister, enter into an agreement or arrangement for the administration of employment support measures on its behalf by a department, board or agency of the Government of Canada, another government or government agency in Canada or any other public or private organization.
 
-### Section 404
+### Section 402
 
 Paragraphs 63(1)(a) and (b) of the Act are replaced by the following:
 
@@ -10846,7 +10826,7 @@ any costs of measures implemented by the government, government agency or organi
 
 any administration costs that the government, government agency or organization incurs in implementing the measures.
 
-### Section 405
+### Section 403
 
 Section 64 of the Act is replaced by the following:
 
@@ -10854,7 +10834,7 @@ Section 64 of the Act is replaced by the following:
 
 A decision of the Commission made in relation to employment support measures, other than a decision under section 65.1, is not subject to review under section 112.
 
-### Section 406
+### Section 404
 
   **(1)** Paragraph 75(d) of the Act is replaced by the following:
 
@@ -10864,7 +10844,7 @@ A decision of the Commission made in relation to employment support measures, ot
 
     reçues à titre de remboursement de versements excédentaires faits par la Commission aux termes d'accords conclus au titre de l'article 63;
 
-### Section 407
+### Section 405
 
 Paragraph 77(1)(b) of the Act is replaced by the following:
 
@@ -10873,14 +10853,14 @@ all amounts paid under section 61 for employment support measures;
 
 #### Transitional Provision
 
-### Section 408
+### Section 406
 
 The `Employment Insurance Act`, as it read immediately before the day on which this Division comes into force, continues to apply to agreements or arrangements entered into under Part II of that Act that are in force on that day.
 
 
 #### Consequential Amendment to the `Income Tax Act`
 
-### Section 409
+### Section 407
 
 Subparagraph 56(1)(r)(iii) of the `Income Tax Act` is amended by adding "and" at the end of clause (A) and by repealing clause (B).
 
@@ -10893,7 +10873,7 @@ Subparagraph 56(1)(r)(iii) of the `Income Tax Act` is amended by adding "and" at
 
 ##### Amendments to the Act
 
-### Section 410
+### Section 408
 
 Subsections 12(2.3) to (2.5) of the `Employment Insurance Act` are replaced by the following:
 
@@ -10925,25 +10905,25 @@ Subsections 12(2.3) to (2.5) of the `Employment Insurance Act` are replaced by t
 
   260 weeks before the first week of the benefit period referred to in subparagraph (2.3)(a)(i).
 
-### Section 411
+### Section 409
 
 Schedule V to the Act is replaced by the Schedule V set out in Schedule 3 to this Act.
 
-### Section 412
+### Section 410
 
 Schedule VI to the Act is amended by replacing the reference after the heading "SCHEDULE VI" with the following:
 
 
 ##### Transitional Provision
 
-### Section 413
+### Section 411
 
 Schedule V to the `Employment Insurance Act`, as it read immediately before September 25, 2022, continues to apply in respect of a claimant whose benefit period, as those terms are defined in subsection 2(1) of that Act, begins before September 25, 2022.
 
 
 #### `Budget Implementation Act, 2021, No. 1`
 
-### Section 414
+### Section 412
 
 The `Budget Implementation Act, 2021, No. 1` is amended by adding the following after section 350:
 
@@ -10967,30 +10947,30 @@ The `Budget Implementation Act, 2021, No. 1` is amended by adding the following 
 
 #### Coordinating Amendments
 
-### Section 415
+### Section 413
 
   **(1)** Subsections (2) to (4) apply if Bill C-8, introduced in the 1st session of the 44th Parliament and entitled the `Economic and Fiscal Update Implementation Act, 2021` (in this section referred to as the "other Act"), receives royal assent.
 
-  **(2)** If section 47 of the other Act comes into force before section `410` of this Act, then
+  **(2)** If section 47 of the other Act comes into force before section `408` of this Act, then
 
-    sections `410` and `412` of this Act are deemed never to have come into force and are repealed; and
+    sections `408` and `410` of this Act are deemed never to have come into force and are repealed; and
 
     subparagraph 12(2.3)(a)(i) of the `Employment Insurance Act` is replaced by the following:
 
     the date on which a benefit period for the claimant is established falls within the period beginning on September 26, 2021 and ending on October 28, 2023,
 
-  **(3)** If section `410` of this Act comes into force before section 47 of the other Act, then sections 47 and 48 of the other Act are deemed never to have come into force and are repealed.
+  **(3)** If section `408` of this Act comes into force before section 47 of the other Act, then sections 47 and 48 of the other Act are deemed never to have come into force and are repealed.
 
-  **(4)** If section 47 of the other Act comes into force on the same day as section `410` of this Act, then sections 47 and 48 of the other Act are deemed never to have come into force and are repealed.
+  **(4)** If section 47 of the other Act comes into force on the same day as section `408` of this Act, then sections 47 and 48 of the other Act are deemed never to have come into force and are repealed.
 
 
 #### Coming into Force
 
-### Section 416
+### Section 414
 
-  **(1)** Sections `411` and `413` come into force, or are deemed to have come into force, on September 25, 2022.
+  **(1)** Sections `409` and `411` come into force, or are deemed to have come into force, on September 25, 2022.
 
-  **(2)** Section `414` comes into force on the day on which this Act receives royal assent or, if that day is after September 25, 2022, is deemed to have come into force on September 25, 2022.
+  **(2)** Section `412` comes into force on the day on which this Act receives royal assent or, if that day is after September 25, 2022, is deemed to have come into force on September 25, 2022.
 
 
 ### Canada Pension Plan
@@ -10998,13 +10978,13 @@ The `Budget Implementation Act, 2021, No. 1` is amended by adding the following 
 
 #### Amendments to the Act
 
-### Section 417
+### Section 415
 
 The definition **contributory period** in subsection 2(1) of the `Canada Pension Plan` is replaced by the following:
 
 **contributory period** of a contributor has, subject to paragraph 44(2)(b) and subsections 44(5) and 56(5), the meaning assigned by section 49; (**période cotisable**)
 
-### Section 418
+### Section 416
 
   **(1)** Paragraph 44(1)(h) of the Act is replaced by the following:
 
@@ -11038,13 +11018,13 @@ The definition **contributory period** in subsection 2(1) of the `Canada Pension
 
       in relation to any benefits payable under this Act for any month after December 1977, any month for which the contributor was a family allowance recipient in a year for which the contributor's base unadjusted pensionable earnings are less than the contributor's basic exemption for the year, calculated without regard to subsection 20(2).
 
-### Section 419
+### Section 417
 
 The portion of paragraph 49(b) of the Act before subparagraph (i) is replaced by the following:
 
 where a benefit other than a disability pension or a post-retirement disability benefit commences after the end of 1986, with the earliest of
 
-### Section 420
+### Section 418
 
   **(1)** The portion of paragraph (a) of the description of G in section 51.1 of the Act before the formula is replaced by the following:
 
@@ -11062,7 +11042,7 @@ where a benefit other than a disability pension or a post-retirement disability 
 
       is the number of months in that year that are included in the contributor's first additional contributory period.
 
-### Section 421
+### Section 419
 
   **(1)** The portion of paragraph (a) of the description of G in section 51.2 of the Act before the formula is replaced by the following:
 
@@ -11080,7 +11060,7 @@ where a benefit other than a disability pension or a post-retirement disability 
 
       is the number of months in that year that are included in the contributor's second additional contributory period.
 
-### Section 422
+### Section 420
 
 Section 53.3 of the Act is amended by adding the following after subsection (4):
 
@@ -11090,7 +11070,7 @@ Section 53.3 of the Act is amended by adding the following after subsection (4):
 
   is the number of months in that year that are included in the contributor's first additional contributory period.
 
-### Section 423
+### Section 421
 
 Section 53.4 of the Act is amended by adding the following after subsection (3):
 
@@ -11111,7 +11091,7 @@ Section 53.4 of the Act is amended by adding the following after subsection (3):
 
 #### Coming into Force
 
-### Section 424
+### Section 422
 
   **(1)** Subsection 114(2) of the `Canada Pension Plan` does not apply in respect of the amendments to that Act contained in this Division.
 
@@ -11123,7 +11103,7 @@ Section 53.4 of the Act is amended by adding the following after subsection (3):
 
 #### An Act to amend the Criminal Code and the Canada Labour Code
 
-### Section 425
+### Section 423
 
   **(1)** Subsection 7(1) of `An Act to amend the Criminal Code and the Canada Labour Code` is amended by replacing the subsection 239(1.2) that it enacts with the following:
 
@@ -11153,7 +11133,7 @@ Section 53.4 of the Act is amended by adding the following after subsection (3):
 
     **(14)** Section 189 applies for the purposes of this Division.
 
-### Section 426
+### Section 424
 
 The Act is amended by adding the following after section 7:
 
@@ -11165,7 +11145,7 @@ The Act is amended by adding the following after section 239:
 
 The provisions of this Division respecting the medical leave of absence with pay apply to an employer and its employees beginning on the first day on which, as of the day on which this section comes into force, the employer has 100 or more employees, even if the number of employees falls below 100 after that first day.
 
-### Section 427
+### Section 425
 
   **(1)** Subsection 8(2) of the Act is replaced by the following:
 
@@ -11178,27 +11158,27 @@ The provisions of this Division respecting the medical leave of absence with pay
 
 #### Related Amendment to the Canada Labour Code
 
-### Section 428
+### Section 426
 
 Section 239.001 of the `Canada Labour Code` is repealed.
 
 
 #### Transitional Provision
 
-### Section 429
+### Section 427
 
-Paragraph 206.6(1)(a) of the `Canada Labour Code`, as it read immediately before the day on which section 6 of `An Act to amend the Criminal Code and the Canada Labour Code`, chapter 27 of the Statutes of Canada, 2021, comes into force, continues to apply to every employer and its employees to which section 239.001 of the `Canada Labour Code`, as enacted by section 7.1 of `An Act to amend the Criminal Code and the Canada Labour Code`, chapter 27 of the Statutes of Canada, 2021, does not apply, until the day on which section `428` of this Act comes into force.
+Paragraph 206.6(1)(a) of the `Canada Labour Code`, as it read immediately before the day on which section 6 of `An Act to amend the Criminal Code and the Canada Labour Code`, chapter 27 of the Statutes of Canada, 2021, comes into force, continues to apply to every employer and its employees to which section 239.001 of the `Canada Labour Code`, as enacted by section 7.1 of `An Act to amend the Criminal Code and the Canada Labour Code`, chapter 27 of the Statutes of Canada, 2021, does not apply, until the day on which section `426` of this Act comes into force.
 
 
 #### Coordinating Amendments
 
-### Section 430
+### Section 428
 
   **(1)** In this section, **other Act** means `An Act to amend the Criminal Code and the Canada Labour Code`, chapter 27 of the Statutes of Canada, 2021.
 
-  **(2)** If section 7 of the other Act comes into force before section `425` of this Act, then
+  **(2)** If section 7 of the other Act comes into force before section `423` of this Act, then
 
-    sections `425` to `429` and `431` of this Act are deemed never to have come into force and are repealed;
+    sections `423` to `427` and `429` of this Act are deemed never to have come into force and are repealed;
 
     subsection 239(1.2) of the `Canada Labour Code` is replaced by the following:
 
@@ -11228,14 +11208,14 @@ Paragraph 206.6(1)(a) of the `Canada Labour Code`, as it read immediately before
 
     **(14)** Section 189 applies for the purposes of this Division.
 
-  **(3)** If section `425` of this Act comes into force on the same day as section 7 of the other Act, then that section `425` is deemed to have come into force before that section 7.
+  **(3)** If section `423` of this Act comes into force on the same day as section 7 of the other Act, then that section `423` is deemed to have come into force before that section 7.
 
 
 #### Coming into Force
 
-### Section 431
+### Section 429
 
-Section `428` comes into force on a day to be fixed by order of the Governor in Council.
+Section `426` comes into force on a day to be fixed by order of the Governor in Council.
 
 
 ### Canada Business Corporations Act
@@ -11243,7 +11223,7 @@ Section `428` comes into force on a day to be fixed by order of the Governor in 
 
 #### Amendments to the Act
 
-### Section 432
+### Section 430
 
 Subsection 21.1(7) of the `Canada Business Corporations Act` is replaced by the following:
 
@@ -11255,7 +11235,7 @@ Subsection 21.1(7) of the `Canada Business Corporations Act` is replaced by the 
 
   that is a member of a prescribed class.
 
-### Section 433
+### Section 431
 
 The Act is amended by adding the following after section 21.2:
 
@@ -11271,7 +11251,7 @@ The Act is amended by adding the following after section 21.2:
 
   **(3)** The Director is not required to keep or produce any information received under subsection (1) or (2) after the end of the six-year period following the day on which it is received.
 
-### Section 434
+### Section 432
 
 The Act is amended by adding the following after section 21.3:
 
@@ -11279,7 +11259,7 @@ The Act is amended by adding the following after section 21.3:
 
 The Director may provide all or part of the information received under section 21.21 to an investigative body referred to in subsection 21.31(2), the Financial Transactions and Reports Analysis Centre of Canada or any prescribed entity.
 
-### Section 435
+### Section 433
 
 Section 266 of the Act is replaced by the following:
 
@@ -11292,9 +11272,9 @@ Section 266 of the Act is replaced by the following:
 
 #### Coordinating Amendment
 
-### Section 436
+### Section 434
 
-On the first day on which both section 44 of `An Act to amend the Canada Business Corporations Act, the Canada Cooperatives Act, the Canada Not-for-profit Corporations Act and the Competition Act`, chapter 8 of the Statutes of Canada, 2018, and section `435` of this Act are in force, section 266 of the `Canada Business Corporations Act` is replaced by the following:
+On the first day on which both section 44 of `An Act to amend the Canada Business Corporations Act, the Canada Cooperatives Act, the Canada Not-for-profit Corporations Act and the Competition Act`, chapter 8 of the Statutes of Canada, 2018, and section `433` of this Act are in force, section 266 of the `Canada Business Corporations Act` is replaced by the following:
 
 ### Section 266
 
@@ -11305,9 +11285,9 @@ On the first day on which both section 44 of `An Act to amend the Canada Busines
 
 #### Coming into Force
 
-### Section 437
+### Section 435
 
-This Division, except sections `432` and `436`, comes into force on a day to be fixed by order of the Governor in Council.
+This Division, except sections `430` and `434`, comes into force on a day to be fixed by order of the Governor in Council.
 
 
 ### Economic Sanctions
@@ -11315,13 +11295,13 @@ This Division, except sections `432` and `436`, comes into force on a day to be 
 
 #### `Special Economic Measures Act`
 
-### Section 438
+### Section 436
 
 The definition **property** in section 2 of the `Special Economic Measures Act` is replaced by the following:
 
 **property** means any type of property, whether real or personal or immovable or movable, or tangible or intangible or corporeal or incorporeal, and includes money, funds, currency, digital assets and virtual currency; (**bien**)
 
-### Section 439
+### Section 437
 
 The Act is amended by adding the following after section 3:
 
@@ -11332,7 +11312,7 @@ The Act is amended by adding the following after section 3:
 
 The purpose of this Act is to enable the Government of Canada to take economic measures against certain persons in circumstances where an international organization of states or association of states of which Canada is a member calls on its members to do so, a grave breach of international peace and security has occurred, gross and systematic human rights violations have been committed in a foreign state or acts of significant corruption involving a national of a foreign state have been committed.
 
-### Section 440
+### Section 438
 
   **(1)** Subsection 4(1) of the Act is replaced by the following:
 
@@ -11364,7 +11344,7 @@ The purpose of this Act is to enable the Government of Canada to take economic m
 
     **(5)** The Minister may issue a permit or general permit, subject to any terms and conditions that are, in the opinion of the Minister, consistent with this Act and any order or regulations made under this Act.
 
-### Section 441
+### Section 439
 
 Section 5 of the Act is replaced by the following:
 
@@ -11437,7 +11417,7 @@ the restoration of international peace and security; and
 
 the compensation of victims of a grave breach of international peace and security, gross and systematic human rights violations or acts of significant corruption.
 
-### Section 442
+### Section 440
 
 Subsection 6(1) of the French version of the Act is replaced by the following:
 
@@ -11445,7 +11425,7 @@ Subsection 6(1) of the French version of the Act is replaced by the following:
 
   **(1)** Sous réserve du paragraphe (2), le ministre des Affaires étrangères est chargé de l'exécution et du contrôle d'application de la présente loi.
 
-### Section 443
+### Section 441
 
 The Act is amended by adding the following after section 6:
 
@@ -11481,7 +11461,7 @@ the Superintendent of Financial Institutions.
 
   **(2)** Every person who is required to provide information under subsection (1) shall comply with the requirement within the time and in the form and manner specified by that Minister.
 
-### Section 444
+### Section 442
 
 Subsection 7(1) of the Act is replaced by the following:
 
@@ -11489,7 +11469,7 @@ Subsection 7(1) of the Act is replaced by the following:
 
   **(1)** Every order and regulation made under paragraph 4(1)(a) shall be laid before each House of Parliament by a member of the Queen's Privy Council for Canada within five sitting days of that House after it is made.
 
-### Section 445
+### Section 443
 
 The Act is amended by adding the following after section 7:
 
@@ -11506,7 +11486,7 @@ the compensation of victims of a grave breach of international peace and securit
 
 #### `Justice for Victims of Corrupt Foreign Officials Act (Sergei Magnitsky Law)`
 
-### Section 446
+### Section 444
 
   **(1)** The definition **Minister** in section 2 of the `Justice for Victims of Corrupt Foreign Officials Act (Sergei Magnitsky Law)` is repealed.
 
@@ -11514,7 +11494,7 @@ the compensation of victims of a grave breach of international peace and securit
 
     **property** means any type of property, whether real or personal or immovable or movable, or tangible or intangible or corporeal or incorporeal, and includes money, funds, currency, digital assets and virtual currency. (**bien**)
 
-### Section 447
+### Section 445
 
 The Act is amended by adding the following after section 2:
 
@@ -11524,13 +11504,13 @@ The Act is amended by adding the following after section 2:
 
   **(2)** The Governor in Council may, by order, designate one or more Ministers of the Crown to discharge any responsibilities that the Governor in Council may specify with respect to the administration or enforcement of any of the provisions of this Act or any order or regulations made under this Act.
 
-### Section 448
+### Section 446
 
 Paragraph 4(1)(b) of the Act is replaced by the following:
 
 by order, cause to be seized or restrained in the manner set out in the order any property situated in Canada that is owned — or that is held or controlled, directly or indirectly — by the foreign national.
 
-### Section 449
+### Section 447
 
 Section 5 of the Act is replaced by the following:
 
@@ -11580,7 +11560,7 @@ After consulting with the Minister of Finance and the Minister of Foreign Affair
 
 A copy of each order or regulation made under paragraph 4(1)(a) must be tabled in each House of Parliament within 15 days after it is made. It may be sent to the Clerk of the House if the House is not sitting.
 
-### Section 450
+### Section 448
 
 The Act is amended by adding the following after section 7:
 
@@ -11616,7 +11596,7 @@ the Superintendent of Financial Institutions.
 
   **(2)** Every person who is required to provide information under subsection (1) must comply with the requirement within the time and in the form and manner specified by that Minister.
 
-### Section 451
+### Section 449
 
 Subsections 8(1) and (2) of the Act are replaced by the following:
 
@@ -11628,7 +11608,7 @@ Subsections 8(1) and (2) of the Act are replaced by the following:
 
   **(2)** On receipt of the application, the Minister must decide whether there are reasonable grounds to recommend to the Governor in Council that the order or regulation be amended or repealed, as the case may be, so that the applicant or their property ceases to be the subject of it.
 
-### Section 452
+### Section 450
 
 Section 13 of the Act is replaced by the following:
 
@@ -11651,236 +11631,13 @@ The Minister of Foreign Affairs may, with the approval of the Governor in Counci
 
 #### `Seized Property Management Act`
 
-### Section 453
+### Section 451
 
 Subsection 13(3) of the `Seized Property Management Act` is amended by striking out "and" at the end of paragraph (b) and by adding the following after paragraph (c):
 
 amounts paid under section 5.6 of the `Special Economic Measures Act`; and
 
 amounts paid under section 4.4 of the `Justice for Victims of Corrupt Foreign Officials Act (Sergei Magnitsky Law)`.
-
-
-### Employment Insurance Board of Appeal
-
-
-#### Department of Employment and Social Development Act
-
-### Section 454
-
-[*Deleted*]
-
-### Section 455
-
-[*Deleted*]
-
-### Section 456
-
-[*Deleted*]
-
-### Section 457
-
-[*Deleted*]
-
-### Section 458
-
-[*Deleted*]
-
-### Section 459
-
-[*Deleted*]
-
-### Section 460
-
-[*Deleted*]
-
-### Section 461
-
-[*Deleted*]
-
-### Section 462
-
-[*Deleted*]
-
-### Section 463
-
-[*Deleted*]
-
-### Section 464
-
-[*Deleted*]
-
-### Section 465
-
-[*Deleted*]
-
-### Section 466
-
-[*Deleted*]
-
-### Section 467
-
-[*Deleted*]
-
-### Section 468
-
-[*Deleted*]
-
-### Section 469
-
-[*Deleted*]
-
-### Section 470
-
-[*Deleted*]
-
-### Section 471
-
-[*Deleted*]
-
-### Section 472
-
-[*Deleted*]
-
-### Section 473
-
-[*Deleted*]
-
-### Section 474
-
-[*Deleted*]
-
-### Section 475
-
-[*Deleted*]
-
-### Section 476
-
-[*Deleted*]
-
-### Section 477
-
-[*Deleted*]
-
-### Section 478
-
-[*Deleted*]
-
-
-#### Consequential Amendments
-
-
-##### `Federal Courts Act`
-
-### Section 479
-
-[*Deleted*]
-
-
-##### `Labour Adjustment Benefits Act`
-
-### Section 480
-
-[*Deleted*]
-
-### Section 481
-
-[*Deleted*]
-
-### Section 482
-
-[*Deleted*]
-
-
-##### `Income Tax Act`
-
-### Section 483
-
-[*Deleted*]
-
-### Section 484
-
-[*Deleted*]
-
-
-##### `Employment Insurance Act`
-
-### Section 485
-
-[*Deleted*]
-
-### Section 486
-
-[*Deleted*]
-
-
-#### Transitional Provisions
-
-### Section 487
-
-[*Deleted*]
-
-### Section 488
-
-[*Deleted*]
-
-### Section 489
-
-[*Deleted*]
-
-### Section 490
-
-[*Deleted*]
-
-### Section 491
-
-[*Deleted*]
-
-### Section 492
-
-[*Deleted*]
-
-### Section 493
-
-[*Deleted*]
-
-### Section 494
-
-[*Deleted*]
-
-### Section 495
-
-[*Deleted*]
-
-### Section 496
-
-[*Deleted*]
-
-### Section 497
-
-[*Deleted*]
-
-### Section 498
-
-[*Deleted*]
-
-### Section 499
-
-[*Deleted*]
-
-### Section 500
-
-[*Deleted*]
-
-### Section 501
-
-[*Deleted*]
-
-
-#### Coming into Force
-
-### Section 502
-
-[*Deleted*]
 
 Vaping products that are vaping devices that contain vaping substances or that are vaping substances in immediate containers: for each vaping device or immediate container of vaping substance
 
