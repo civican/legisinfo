@@ -1,7 +1,5 @@
 # Bill C-5: An Act to amend the Criminal Code and the Controlled Drugs and Substances Act
 
-**Sponsor**: MINISTER OF JUSTICE
-
 ## Summary
 
 This enactment amends the `Criminal Code` and the `Controlled Drugs and Substances Act` to, among other things, repeal certain mandatory minimum penalties, allow for a greater use of conditional sentences and establish diversion measures for simple drug possession offences.
@@ -175,7 +173,7 @@ A prosecution may be commenced or continued against an individual alleged to hav
 
 ### Section 10.4
 
-  ****(1)**** The police force to which a peace officer referred to in section 10.2 belongs **shall** keep a record of any **warning given** or referral **made under subsection 10.2(1), including the identity of the individual warned or referred**.
+  **(1)** The police force to which a peace officer referred to in section 10.2 belongs shall keep a record of any warning given or referral made under subsection 10.2(1), including the identity of the individual warned or referred.
 
   **(2)** Any information contained in the record kept pursuant to subsection (1) may be made available to:
 
