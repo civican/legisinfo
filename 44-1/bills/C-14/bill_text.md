@@ -1,7 +1,5 @@
 # Bill C-14: An Act to amend the Constitution Act, 1867 (electoral representation)
 
-**Sponsor**: MINISTER OF INTERGOVERNMENTAL AFFAIRS, INFRASTRUCTURE AND COMMUNITIES
-
 Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act to amend the Constitution Act, 1867 (electoral representation)*".
 
 ## Summary
@@ -24,13 +22,7 @@ This Act may be cited as the `Preserving Provincial Representation in the House 
 
 Rule 2 of subsection 51(1) of the `Constitution Act, 1867` is replaced by the following:
 
-If the number of members assigned to a province by the application of rule 1 and section 51A is less than the total number assigned to that province **during the 43rd Parliament**, there shall be added to the number of members so assigned **the** number of members **that** will result in the province having the same number of members as were assigned **during that Parliament**.
-
-
-> **Explanatory Note**:
-> Existing text of Rule 2 of subsection 51(1):
-> *Existing Text*:
-> > If the number of members assigned to a province by the application of rule 1 and section 51A is less than the total number assigned to that province on the date of the coming into force of the `Constitution Act, 1985 (Representation)`, there shall be added to the number of members so assigned such number of members as will result in the province having the same number of members as were assigned on that date.
+If the number of members assigned to a province by the application of rule 1 and section 51A is less than the total number assigned to that province during the 43rd Parliament, there shall be added to the number of members so assigned the number of members that will result in the province having the same number of members as were assigned during that Parliament.
 
 
 ## Interpretation
