@@ -1,0 +1,1234 @@
+<Bills>
+  <Bill>
+    <Id>11873796</Id>
+    <NumberCode>C-27</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>27</Number>
+    <LongTitleEn>An Act to enact the Consumer Privacy Protection Act, the Personal Information and Data Protection Tribunal Act and the Artificial Intelligence and Data Act and to make consequential and related amendments to other Acts</LongTitleEn>
+    <LongTitleFr>Loi édictant la Loi sur la protection de la vie privée des consommateurs, la Loi sur le Tribunal de la protection des renseignements personnels et des données et la Loi sur l'intelligence artificielle et les données et apportant des modifications corrélatives et connexes à d'autres lois</LongTitleFr>
+    <LongTitle>An Act to enact the Consumer Privacy Protection Act, the Personal Information and Data Protection Tribunal Act and the Artificial Intelligence and Data Act and to make consequential and related amendments to other Acts</LongTitle>
+    <ShortTitleEn>Digital Charter Implementation Act, 2022</ShortTitleEn>
+    <ShortTitleFr>Loi de 2022 sur la mise en œuvre de la Charte du numérique</ShortTitleFr>
+    <ShortTitle>Digital Charter Implementation Act, 2022</ShortTitle>
+    <StatusId>352</StatusId>
+    <StatusNameEn>At consideration in committee in the House of Commons</StatusNameEn>
+    <StatusNameFr>À l'examen en comité à la Chambre des communes</StatusNameFr>
+    <StatusName>At consideration in committee in the House of Commons</StatusName>
+    <LatestCompletedMajorStageId>60044</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>Second reading</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Deuxième lecture</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>Second reading</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>Second reading in the House of Commons</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>1</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>House of Commons</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Chambre des communes</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>House of Commons</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60049</OngoingStageId>
+    <OngoingStageNameEn>Consideration in committee</OngoingStageNameEn>
+    <OngoingStageNameFr>Examen en comité</OngoingStageNameFr>
+    <OngoingStageName>Consideration in committee</OngoingStageName>
+    <LatestCompletedBillStageId>60030</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Second reading</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Deuxième lecture</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Second reading</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>1</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>House of Commons</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Chambre des communes</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>House of Commons</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2023-04-24T15:30:00</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>44</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>88633</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>François-Philippe</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Champagne</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>François-Philippe Champagne</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Innovation, Science and Industry</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre de l'Innovation, des Sciences et de l'Industrie</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Innovation, Science and Industry</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>4</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Minister</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>ministre</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Minister</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>706</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Saint-Maurice—Champlain</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Saint-Maurice—Champlain</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Saint-Maurice—Champlain</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60121</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Second reading and referral to committee</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Deuxième lecture et renvoi en comité</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60030</LatestBillEventStageId>
+    <LatestBillEventTypeName>Second reading and referral to committee</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <CommitteeOrganizationId>27179</CommitteeOrganizationId>
+      <CommitteeNameEn>Standing Committee on Industry and Technology</CommitteeNameEn>
+      <CommitteeNameFr>Comité permanent de l'industrie et de la technologie</CommitteeNameFr>
+      <CommitteeAcronym>INDU</CommitteeAcronym>
+      <CommitteeName>Standing Committee on Industry and Technology</CommitteeName>
+      <StudyActivityId />
+      <OrganizationTypeId />
+      <ParentCommittee />
+      <IsSubCommittee>false</IsSubCommittee>
+      <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+      <IsSenateCommittee>false</IsSenateCommittee>
+      <IsJointCommittee>false</IsJointCommittee>
+    </LatestBillEventCommitteeDetails>
+    <LatestBillEventDateTime>2023-04-24T11:00:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>1</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>House of Commons</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Chambre des communes</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>House of Commons</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>183</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2022-06-16T10:04:14.333</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime>2023-04-24T15:30:00</PassedHouseSecondReadingDateTime>
+    <PassedHouseThirdReadingDateTime />
+    <PassedSenateFirstReadingDateTime />
+    <PassedSenateSecondReadingDateTime />
+    <PassedSenateThirdReadingDateTime />
+    <ReceivedRoyalAssentDateTime />
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>false</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>false</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>false</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>false</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>false</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information, Education and Research Services of the Library of Parliament. Meanwhile, the following executive summary is available.&lt;br/&gt;&lt;br/&gt;On 16 June 2022, the Minister of Innovation, Science and Industry introduced Bill C-27, An Act to enact the Consumer Privacy Protection Act, the Personal Information and Data Protection Tribunal Act and the Artificial Intelligence and Data Act and to make consequential and related amendments to other Acts (Digital Charter Implementation Act, 2022), and it was given first reading.   &lt;br/&gt;&lt;br/&gt;Part 1 enacts the Consumer Privacy Protection Act to govern the protection of personal information of individuals while taking into account the need of organizations to collect, use or disclose personal information in the course of commercial activities. In consequence, it repeals Part 1 of the Personal Information Protection and Electronic Documents Act and changes the short title of that Act to the Electronic Documents Act. It also makes consequential and related amendments to other Acts.&lt;br/&gt;&lt;br/&gt;Part 2 enacts the Personal Information and Data Protection Tribunal Act, which establishes an administrative tribunal to hear appeals of certain decisions made by the Privacy Commissioner under the Consumer Privacy Protection Act and to impose penalties for the contravention of certain provisions of that Act. It also makes a related amendment to the Administrative Tribunals Support Service of Canada Act.&lt;br/&gt;&lt;br/&gt;Part 3 enacts the Artificial Intelligence and Data Act to regulate international and interprovincial trade and commerce in artificial intelligence systems by requiring that certain persons adopt measures to mitigate risks of harm and biased output related to high-impact artificial intelligence systems. That Act provides for public reporting and authorizes the Minister to order the production of records related to artificial intelligence systems. That Act also establishes prohibitions related to the possession or use of illegally obtained personal information for the purpose of designing, developing, using or making available for use an artificial intelligence system and to the making available for use of an artificial intelligence system if its use causes serious harm to individuals.&lt;/div&gt;</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>&lt;div&gt;Les Service d'information, d'éducation et de recherche parlementaires de la Bibliothèque du Parlement rédige actuellement le résumé législatif de ce projet de loi.  Entre-temps, le Service met à votre disposition le sommaire suivant.&lt;br/&gt;&lt;br/&gt;Le 16 juin 2022, le ministre de l'Innovation, des Sciences et de l'Industrie a déposé le projet de loi C-27, Loi édictant la Loi sur la protection de la vie privée des consommateurs, la Loi sur le Tribunal de la protection des renseignements personnels et des données et la Loi sur l'intelligence artificielle et les données et apportant des modifications corrélatives et connexes à d'autres lois (Loi de 2022 sur la mise en oeuvre de la Charte du numérique), à la Chambre des communes en première lecture. &lt;br/&gt;&lt;br/&gt;La partie 1 édicte la Loi sur la protection de la vie privée des consommateurs afin de régir la protection des renseignements personnels des individus tout en tenant compte du besoin des organisations de recueillir, d'utiliser ou de communiquer de tels renseignements dans le cadre d'activités commerciales. En conséquence, elle abroge la partie 1 de la Loi sur la protection des renseignements personnels et les documents électroniques et remplace le titre abrégé de cette loi par le titre Loi sur les documents électroniques. Elle apporte aussi des modifications corrélatives et connexes à d'autres lois.&lt;br/&gt;&lt;br/&gt;La partie 2 édicte la Loi sur le Tribunal de la protection des renseignements personnels et des données qui constitue un tribunal administratif pour entendre les appels interjetés à l'encontre de certaines décisions rendues par le Commissaire à la protection de la vie privée au titre de la Loi sur la protection de la vie privée des consommateurs et pour infliger des pénalités relatives à la contravention de certaines dispositions de cette dernière loi. De plus, elle apporte une modification connexe à la Loi sur le Service canadien d'appui aux tribunaux administratifs.&lt;br/&gt;&lt;br/&gt;La partie 3 édicte la Loi sur l'intelligence artificielle et les données pour réglementer les échanges et le commerce internationaux et interprovinciaux en matière de systèmes d'intelligence artificielle et exiger que certaines personnes adoptent des mesures pour atténuer les risques de préjudices et de résultats biaisés liés aux systèmes d'intelligence artificielle à incidence élevée. Cette loi prévoit la publication de renseignements et autorise le ministre à ordonner la fourniture de documents relatifs aux systèmes d'intelligence artificielle. Elle établit également des interdictions relatives à la possession ou à l'utilisation de renseignements personnels obtenus illégalement afin de concevoir, de développer, d'utiliser ou de rendre disponible un système d'intelligence artificielle et liées au fait de rendre disponible un système d'intelligence artificielle dont l'utilisation cause un préjudice sérieux aux individus.&lt;/div&gt;</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information, Education and Research Services of the Library of Parliament. Meanwhile, the following executive summary is available.&lt;br/&gt;&lt;br/&gt;On 16 June 2022, the Minister of Innovation, Science and Industry introduced Bill C-27, An Act to enact the Consumer Privacy Protection Act, the Personal Information and Data Protection Tribunal Act and the Artificial Intelligence and Data Act and to make consequential and related amendments to other Acts (Digital Charter Implementation Act, 2022), and it was given first reading.   &lt;br/&gt;&lt;br/&gt;Part 1 enacts the Consumer Privacy Protection Act to govern the protection of personal information of individuals while taking into account the need of organizations to collect, use or disclose personal information in the course of commercial activities. In consequence, it repeals Part 1 of the Personal Information Protection and Electronic Documents Act and changes the short title of that Act to the Electronic Documents Act. It also makes consequential and related amendments to other Acts.&lt;br/&gt;&lt;br/&gt;Part 2 enacts the Personal Information and Data Protection Tribunal Act, which establishes an administrative tribunal to hear appeals of certain decisions made by the Privacy Commissioner under the Consumer Privacy Protection Act and to impose penalties for the contravention of certain provisions of that Act. It also makes a related amendment to the Administrative Tribunals Support Service of Canada Act.&lt;br/&gt;&lt;br/&gt;Part 3 enacts the Artificial Intelligence and Data Act to regulate international and interprovincial trade and commerce in artificial intelligence systems by requiring that certain persons adopt measures to mitigate risks of harm and biased output related to high-impact artificial intelligence systems. That Act provides for public reporting and authorizes the Minister to order the production of records related to artificial intelligence systems. That Act also establishes prohibitions related to the possession or use of illegally obtained personal information for the purpose of designing, developing, using or making available for use an artificial intelligence system and to the making available for use of an artificial intelligence system if its use causes serious harm to individuals.&lt;/div&gt;</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear />
+    <StatuteChapter />
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2022-06-16T10:04:14.333</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>90</Number>
+          <Date>2022-06-16T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2022-06-16T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2022-06-16T10:04:14.333</EventStartDateTime>
+          <EventEndDateTime>2022-06-16T10:04:14.333</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2022-06-16T10:04:14.333</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2023-04-24T15:25:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>27179</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Industry and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'industrie et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>INDU</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Industry and Technology</CommitteeName>
+          <StudyActivityId>12157763</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>125</Number>
+          <Date>2022-11-04T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>136</Number>
+          <Date>2022-11-28T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>165</Number>
+          <Date>2023-03-07T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>174</Number>
+          <Date>2023-03-28T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>181</Number>
+          <Date>2023-04-20T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>183</Number>
+          <Date>2023-04-24T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>12152372</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>12348441</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>2nd reading and referral to committee - Parts 1 and 2, including the schedule to clause 2</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>2e lecture et renvoi en comité - parties 1 et 2, incluant l'annexe à l'article 2</DecisionMotionTitleFr>
+          <DecisionMotionTitle>2nd reading and referral to committee - Parts 1 and 2, including the schedule to clause 2</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>10</DecisionMethodId>
+          <DecisionMethodNameEn>On recorded division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Suivant un vote par appel nominal</DecisionMethodNameFr>
+          <DecisionMethodName>On recorded division</DecisionMethodName>
+          <DivisionNumber>300</DivisionNumber>
+          <DivisionVotesYeas>205</DivisionVotesYeas>
+          <DivisionVotesNays>109</DivisionVotesNays>
+          <DivisionVotePaired>8</DivisionVotePaired>
+          <DecisionSittingDate>2023-04-24T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>183</DecisionSittingNumber>
+        </Decisions>
+        <Decisions>
+          <DecisionProceduralEventId>12152374</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>12348442</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>2nd reading and referral to committee - Part 3</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>2e lecture et renvoi en comité - Partie 3</DecisionMotionTitleFr>
+          <DecisionMotionTitle>2nd reading and referral to committee - Part 3</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>10</DecisionMethodId>
+          <DecisionMethodNameEn>On recorded division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Suivant un vote par appel nominal</DecisionMethodNameFr>
+          <DecisionMethodName>On recorded division</DecisionMethodName>
+          <DivisionNumber>301</DivisionNumber>
+          <DivisionVotesYeas>203</DivisionVotesYeas>
+          <DivisionVotesNays>112</DivisionVotesNays>
+          <DivisionVotePaired>8</DivisionVotePaired>
+          <DecisionSittingDate>2023-04-24T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>183</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60121</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading and referral to committee</EventNameEn>
+          <EventNameFr>Deuxième lecture et renvoi en comité</EventNameFr>
+          <EventName>Second reading and referral to committee</EventName>
+          <EventDateTime>2023-04-24T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60121</EventTypeId>
+          <EventTypeNameEn>Second reading and referral to committee</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture et renvoi en comité</EventTypeNameFr>
+          <EventTypeName>Second reading and referral to committee</EventTypeName>
+          <EventStartDateTime>2023-04-24T15:25:00</EventStartDateTime>
+          <EventEndDateTime>2023-04-24T15:25:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2023-04-24T15:30:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>11908244</InterventionEventId>
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>88633</PersonId>
+          <PersonOfficialFirstName>François-Philippe</PersonOfficialFirstName>
+          <PersonOfficialLastName>Champagne</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>François-Philippe Champagne</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>125</MeetingNumber>
+          <SpeechDateTime>2022-11-04T10:48:11</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>11908667</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>110330</PersonId>
+          <PersonOfficialFirstName>Ryan</PersonOfficialFirstName>
+          <PersonOfficialLastName>Williams</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Ryan Williams</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>125</MeetingNumber>
+          <SpeechDateTime>2022-11-04T12:31:35</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>11908723</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>110306</PersonId>
+          <PersonOfficialFirstName>René</PersonOfficialFirstName>
+          <PersonOfficialLastName>Villemure</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>René Villemure</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Bloc Québécois</CaucusShortNameEn>
+          <CaucusShortNameFr>Bloc Québécois</CaucusShortNameFr>
+          <CaucusShortName>Bloc Québécois</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>125</MeetingNumber>
+          <SpeechDateTime>2022-11-04T13:01:12</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>11954141</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>9137</PersonId>
+          <PersonOfficialFirstName>Brian</PersonOfficialFirstName>
+          <PersonOfficialLastName>Masse</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Brian Masse</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>NDP</CaucusShortNameEn>
+          <CaucusShortNameFr>NPD</CaucusShortNameFr>
+          <CaucusShortName>NDP</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>136</MeetingNumber>
+          <SpeechDateTime>2022-11-28T12:00:40</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>5</State>
+        <StateNameEn>Not completed</StateNameEn>
+        <StateNameFr>Non achevé</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>27179</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Industry and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'industrie et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>INDU</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Industry and Technology</CommitteeName>
+          <StudyActivityId>12157763</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27179</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Industry and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'industrie et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>INDU</CommitteeAcronym>
+          <Number>86</Number>
+          <Date>2023-09-26T00:00:00</Date>
+          <CommitteeName>Standing Committee on Industry and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27179</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Industry and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'industrie et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>INDU</CommitteeAcronym>
+          <Number>87</Number>
+          <Date>2023-09-28T00:00:00</Date>
+          <CommitteeName>Standing Committee on Industry and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27179</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Industry and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'industrie et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>INDU</CommitteeAcronym>
+          <Number>89</Number>
+          <Date>2023-10-17T00:00:00</Date>
+          <CommitteeName>Standing Committee on Industry and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27179</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Industry and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'industrie et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>INDU</CommitteeAcronym>
+          <Number>90</Number>
+          <Date>2023-10-19T00:00:00</Date>
+          <CommitteeName>Standing Committee on Industry and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27179</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Industry and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'industrie et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>INDU</CommitteeAcronym>
+          <Number>91</Number>
+          <Date>2023-10-24T00:00:00</Date>
+          <CommitteeName>Standing Committee on Industry and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27179</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Industry and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'industrie et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>INDU</CommitteeAcronym>
+          <Number>92</Number>
+          <Date>2023-10-26T00:00:00</Date>
+          <CommitteeName>Standing Committee on Industry and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27179</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Industry and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'industrie et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>INDU</CommitteeAcronym>
+          <Number>93</Number>
+          <Date>2023-10-31T00:00:00</Date>
+          <CommitteeName>Standing Committee on Industry and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27179</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Industry and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'industrie et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>INDU</CommitteeAcronym>
+          <Number>94</Number>
+          <Date>2023-11-02T00:00:00</Date>
+          <CommitteeName>Standing Committee on Industry and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27179</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Industry and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'industrie et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>INDU</CommitteeAcronym>
+          <Number>96</Number>
+          <Date>2023-11-09T00:00:00</Date>
+          <CommitteeName>Standing Committee on Industry and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27179</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Industry and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'industrie et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>INDU</CommitteeAcronym>
+          <Number>98</Number>
+          <Date>2023-11-23T00:00:00</Date>
+          <CommitteeName>Standing Committee on Industry and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27179</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Industry and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'industrie et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>INDU</CommitteeAcronym>
+          <Number>99</Number>
+          <Date>2023-11-28T00:00:00</Date>
+          <CommitteeName>Standing Committee on Industry and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27179</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Industry and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'industrie et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>INDU</CommitteeAcronym>
+          <Number>100</Number>
+          <Date>2023-11-30T00:00:00</Date>
+          <CommitteeName>Standing Committee on Industry and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27179</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Industry and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'industrie et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>INDU</CommitteeAcronym>
+          <Number>101</Number>
+          <Date>2023-12-05T00:00:00</Date>
+          <CommitteeName>Standing Committee on Industry and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27179</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Industry and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'industrie et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>INDU</CommitteeAcronym>
+          <Number>102</Number>
+          <Date>2023-12-07T00:00:00</Date>
+          <CommitteeName>Standing Committee on Industry and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27179</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Industry and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'industrie et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>INDU</CommitteeAcronym>
+          <Number>104</Number>
+          <Date>2023-12-12T00:00:00</Date>
+          <CommitteeName>Standing Committee on Industry and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27179</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Industry and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'industrie et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>INDU</CommitteeAcronym>
+          <Number>106</Number>
+          <Date>2024-01-11T00:00:00</Date>
+          <CommitteeName>Standing Committee on Industry and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27179</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Industry and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'industrie et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>INDU</CommitteeAcronym>
+          <Number>107</Number>
+          <Date>2024-01-31T00:00:00</Date>
+          <CommitteeName>Standing Committee on Industry and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27179</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Industry and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'industrie et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>INDU</CommitteeAcronym>
+          <Number>108</Number>
+          <Date>2024-02-05T00:00:00</Date>
+          <CommitteeName>Standing Committee on Industry and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27179</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Industry and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'industrie et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>INDU</CommitteeAcronym>
+          <Number>109</Number>
+          <Date>2024-02-07T00:00:00</Date>
+          <CommitteeName>Standing Committee on Industry and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27179</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Industry and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'industrie et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>INDU</CommitteeAcronym>
+          <Number>110</Number>
+          <Date>2024-02-12T00:00:00</Date>
+          <CommitteeName>Standing Committee on Industry and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27179</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Industry and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'industrie et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>INDU</CommitteeAcronym>
+          <Number>111</Number>
+          <Date>2024-02-14T00:00:00</Date>
+          <CommitteeName>Standing Committee on Industry and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27179</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Industry and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'industrie et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>INDU</CommitteeAcronym>
+          <Number>116</Number>
+          <Date>2024-04-08T00:00:00</Date>
+          <CommitteeName>Standing Committee on Industry and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27179</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Industry and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'industrie et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>INDU</CommitteeAcronym>
+          <Number>117</Number>
+          <Date>2024-04-10T00:00:00</Date>
+          <CommitteeName>Standing Committee on Industry and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27179</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Industry and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'industrie et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>INDU</CommitteeAcronym>
+          <Number>118</Number>
+          <Date>2024-04-15T00:00:00</Date>
+          <CommitteeName>Standing Committee on Industry and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27179</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Industry and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'industrie et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>INDU</CommitteeAcronym>
+          <Number>119</Number>
+          <Date>2024-04-17T00:00:00</Date>
+          <CommitteeName>Standing Committee on Industry and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27179</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Industry and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'industrie et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>INDU</CommitteeAcronym>
+          <Number>120</Number>
+          <Date>2024-04-29T00:00:00</Date>
+          <CommitteeName>Standing Committee on Industry and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27179</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Industry and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'industrie et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>INDU</CommitteeAcronym>
+          <Number>121</Number>
+          <Date>2024-05-01T00:00:00</Date>
+          <CommitteeName>Standing Committee on Industry and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27179</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Industry and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'industrie et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>INDU</CommitteeAcronym>
+          <Number>122</Number>
+          <Date>2024-05-06T00:00:00</Date>
+          <CommitteeName>Standing Committee on Industry and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27179</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Industry and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'industrie et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>INDU</CommitteeAcronym>
+          <Number>124</Number>
+          <Date>2024-05-22T00:00:00</Date>
+          <CommitteeName>Standing Committee on Industry and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27179</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Industry and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'industrie et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>INDU</CommitteeAcronym>
+          <Number>125</Number>
+          <Date>2024-05-27T00:00:00</Date>
+          <CommitteeName>Standing Committee on Industry and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27179</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Industry and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'industrie et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>INDU</CommitteeAcronym>
+          <Number>126</Number>
+          <Date>2024-05-29T00:00:00</Date>
+          <CommitteeName>Standing Committee on Industry and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27179</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Industry and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'industrie et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>INDU</CommitteeAcronym>
+          <Number>134</Number>
+          <Date>2024-09-19T00:00:00</Date>
+          <CommitteeName>Standing Committee on Industry and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27179</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Industry and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'industrie et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>INDU</CommitteeAcronym>
+          <Number>135</Number>
+          <Date>2024-09-23T00:00:00</Date>
+          <CommitteeName>Standing Committee on Industry and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27179</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Industry and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de l'industrie et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>INDU</CommitteeAcronym>
+          <Number>136</Number>
+          <Date>2024-09-26T00:00:00</Date>
+          <CommitteeName>Standing Committee on Industry and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <EndOfStageEvent />
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2024-09-26T08:18:17</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+    </BillStages>
+    <Publications>
+      <PublicationId>11883186</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>300</DivisionNumber>
+      <DivisionSubjectEn>2nd reading of Bill C-27, An Act to enact the Consumer Privacy Protection Act, the Personal Information and Data Protection Tribunal Act and the Artificial Intelligence and Data Act and to make consequential and related amendments to other Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>2e lecture du projet de loi C-27, Loi édictant la Loi sur la protection de la vie privée des consommateurs, la Loi sur le Tribunal de la protection des renseignements personnels et des données et la Loi sur l'intelligence artificielle et les données et apportant des modifications corrélatives et connexes à d'autres lois</DivisionSubjectFr>
+      <DivisionSubject>2nd reading of Bill C-27, An Act to enact the Consumer Privacy Protection Act, the Personal Information and Data Protection Tribunal Act and the Artificial Intelligence and Data Act and to make consequential and related amendments to other Acts</DivisionSubject>
+      <DivisionVotesYeas>205</DivisionVotesYeas>
+      <DivisionVotesNays>109</DivisionVotesNays>
+      <DivisionVotePaired>8</DivisionVotePaired>
+      <DivisionVoteTotal>322</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2023-04-24T11:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>301</DivisionNumber>
+      <DivisionSubjectEn>2nd reading of Bill C-27, An Act to enact the Consumer Privacy Protection Act, the Personal Information and Data Protection Tribunal Act and the Artificial Intelligence and Data Act and to make consequential and related amendments to other Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>2e lecture du projet de loi C-27, Loi édictant la Loi sur la protection de la vie privée des consommateurs, la Loi sur le Tribunal de la protection des renseignements personnels et des données et la Loi sur l'intelligence artificielle et les données et apportant des modifications corrélatives et connexes à d'autres lois</DivisionSubjectFr>
+      <DivisionSubject>2nd reading of Bill C-27, An Act to enact the Consumer Privacy Protection Act, the Personal Information and Data Protection Tribunal Act and the Artificial Intelligence and Data Act and to make consequential and related amendments to other Acts</DivisionSubject>
+      <DivisionVotesYeas>203</DivisionVotesYeas>
+      <DivisionVotesNays>112</DivisionVotesNays>
+      <DivisionVotePaired>8</DivisionVotePaired>
+      <DivisionVoteTotal>323</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2023-04-24T11:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseRulingAndStatements>
+      <EventTypeId>60154</EventTypeId>
+      <EventTypeNameEn>Major Speaker's Rulings and Statements</EventTypeNameEn>
+      <EventTypeNameFr>Décisions et déclarations importantes de la présidence</EventTypeNameFr>
+      <EventTypeName>Major Speaker's Rulings and Statements</EventTypeName>
+      <ParliamentNumber>44</ParliamentNumber>
+      <SessionNumber>1</SessionNumber>
+      <MeetingNumber>136</MeetingNumber>
+      <HansardNumber>11955659</HansardNumber>
+      <RulingStatementDateTime>2022-11-28T15:32:20</RulingStatementDateTime>
+      <ChamberOrganizationId>1</ChamberOrganizationId>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+    </HouseRulingAndStatements>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Canada. Innovation, Science and Economic Development Canada, Bill summary: Digital Charter Implementation Act, 2022, page updated 16 June 2022.</TitleEn>
+      <TitleFr>Canada. Innovation, Sciences et Développement économique Canada, Sommaire du projet de loi : Loi de 2022 sur la mise en œuvre de la Charte du numérique, page mise à jour le 16 juin 2022.</TitleFr>
+      <Title>Canada. Innovation, Science and Economic Development Canada, Bill summary: Digital Charter Implementation Act, 2022, page updated 16 June 2022.</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://ised-isde.canada.ca/site/innovation-better-canada/en/canadas-digital-charter/bill-summary-digital-charter-implementation-act-2020</UrlEn>
+      <UrlFr>https://ised-isde.canada.ca/site/innover-meilleur-canada/fr/charte-canadienne-numerique/sommaire-projet-loi-loi-2020-mise-oeuvre-charte-numerique</UrlFr>
+      <Url>https://ised-isde.canada.ca/site/innovation-better-canada/en/canadas-digital-charter/bill-summary-digital-charter-implementation-act-2020</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Sepideh Alavi et al., Canada's Consumer Privacy Protection Act (Bill C-27): Impact for businesses. Borden Ladner Gervais, 21 June 2022.</TitleEn>
+      <TitleFr>Sepideh Alavi et coll., Loi sur la protection de la vie privée des consommateurs du Canada (projet de loi C-27) : incidences sur les entreprises, Borden Ladner Gervais, 21 juin 2022.</TitleFr>
+      <Title>Sepideh Alavi et al., Canada's Consumer Privacy Protection Act (Bill C-27): Impact for businesses. Borden Ladner Gervais, 21 June 2022.</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.blg.com/en/insights/2022/06/canadas-consumer-privacy-protection-act-bill-c27-impact-for-businesses</UrlEn>
+      <UrlFr>https://www.blg.com/fr/insights/2022/06/canadas-consumer-privacy-protection-act-bill-c27-impact-for-businesses</UrlFr>
+      <Url>https://www.blg.com/en/insights/2022/06/canadas-consumer-privacy-protection-act-bill-c27-impact-for-businesses</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Kirsten Thompson, Canada's new federal privacy Bill C-27 – Summary of significant impacts and new proposals, Dentons, 20 June 2022.</TitleEn>
+      <TitleFr>Kirsten Thompson, Canada's new federal privacy Bill C-27 – Summary of significant impacts and new proposals, Dentons, 20 June 2022. (Disponible en anglais seulement.)</TitleFr>
+      <Title>Kirsten Thompson, Canada's new federal privacy Bill C-27 – Summary of significant impacts and new proposals, Dentons, 20 June 2022.</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.dentons.com/en/insights/articles/2022/june/20/canadas-new-federal-privacy-bill-c27-summary-of-significant-impacts-and-new-proposals</UrlEn>
+      <UrlFr>https://www.dentons.com/en/insights/articles/2022/june/20/canadas-new-federal-privacy-bill-c27-summary-of-significant-impacts-and-new-proposals</UrlFr>
+      <Url>https://www.dentons.com/en/insights/articles/2022/june/20/canadas-new-federal-privacy-bill-c27-summary-of-significant-impacts-and-new-proposals</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Charter Statement - Bill C-27: An Act to enact the Consumer Privacy Protection Act, the Personal Information and Data Protection Tribunal Act and the Artificial Intelligence and Data Act and to make consequential and related amendments to other Acts (Tabled on 2022-11-04)</TitleEn>
+      <TitleFr>Énoncés concernant la Charte - Projet de loi C-27 : Loi édictant la Loi sur la protection de la vie privée des consommateurs, la Loi sur le Tribunal de la protection des renseignements personnels et des données et la Loi sur l'intelligence artificielle et les données et apportant des modifications corrélatives et connexes à d'autres lois (Déposé le 2022-11-04)</TitleFr>
+      <Title>Charter Statement - Bill C-27: An Act to enact the Consumer Privacy Protection Act, the Personal Information and Data Protection Tribunal Act and the Artificial Intelligence and Data Act and to make consequential and related amendments to other Acts (Tabled on 2022-11-04)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.justice.gc.ca/eng/csj-sjc/pl/charter-charte/c27_1.html</UrlEn>
+      <UrlFr>https://www.justice.gc.ca/fra/sjc-csj/pl/charte-charter/c27_1.html</UrlFr>
+      <Url>https://www.justice.gc.ca/eng/csj-sjc/pl/charter-charte/c27_1.html</Url>
+    </WebReferences>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3432</BibliographicNoticeId>
+      <Title>Privacy reform update : focus on Bill C-27</Title>
+      <Author>Young, David M. W.</Author>
+      <Publication>Law360 Canada</Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>November 22, 2024</PublicationDate>
+      <Classification>Radar 20241203</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3425</BibliographicNoticeId>
+      <Title>Safe and responsible AI in Australia : proposals paper for introducing mandatory guardrails for AI in high-risk settings</Title>
+      <Author>Weatherall, Kimberlee, Fraser, Henry &amp; Snoswell, Aaron</Author>
+      <Publication>
+      </Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>2024</PublicationDate>
+      <Classification>Radar 20241022</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3393</BibliographicNoticeId>
+      <Title>Civil liberties groups express fundamental rights concerns over proposed AI legislation [C-27]</Title>
+      <Author>Anosha Khan</Author>
+      <Publication>Law360 Canada</Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>November 2, 2023</PublicationDate>
+      <Classification>Radar 43224291</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3394</BibliographicNoticeId>
+      <Title>Getting personal : the promise and potential missteps of Canada's new privacy legislation</Title>
+      <Author>Daniel Schwanen</Author>
+      <Publication>C.D. Howe Institute</Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>November 20, 2023</PublicationDate>
+      <Classification>Radar 43236827</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3388</BibliographicNoticeId>
+      <Title>Twitter ou l'avènement d'un "Frankenstein 2.0" ? : l'impact des géants de la technologie sur la société et le poids des gouvernements face aux dérives technologiques</Title>
+      <Author>Fatah, Lahcen</Author>
+      <Publication>Canadian journal of political science</Publication>
+      <VolumePage>56(3): p.729-738</VolumePage>
+      <PublicationDate>septembre 2023</PublicationDate>
+      <Classification>Radar 20231017</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3389</BibliographicNoticeId>
+      <Title>Of evils and evals</Title>
+      <Author>
+      </Author>
+      <Publication>Economist</Publication>
+      <VolumePage>449 (9369): p.63-64,</VolumePage>
+      <PublicationDate>October 28, 2023</PublicationDate>
+      <Classification>Radar 43213620</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3390</BibliographicNoticeId>
+      <Title>Think, then act.</Title>
+      <Author>
+      </Author>
+      <Publication>Economist</Publication>
+      <VolumePage>449 (9369): p. 10, 12,</VolumePage>
+      <PublicationDate>October 28, 2023</PublicationDate>
+      <Classification>Radar 43213319</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3480</BibliographicNoticeId>
+      <Title>When the internet refuses to forget : Canada's stand against X and global duty of care</Title>
+      <Author>Williams, Hodine</Author>
+      <Publication>Law360 Canada</Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>October 30, 2025</PublicationDate>
+      <Classification>Radar 20251104</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3369</BibliographicNoticeId>
+      <Title>Technology here for good : "Digital Charter Implementation Act" [1/2]</Title>
+      <Author>Esther Carenza</Author>
+      <Publication>The Lawyer's Daily</Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>August 9, 2022</PublicationDate>
+      <Classification>Radar 20220816</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3370</BibliographicNoticeId>
+      <Title>Technology here for good : "Digital Charter Implementation Act" [2/2]</Title>
+      <Author>Esther Carenza</Author>
+      <Publication>The Lawyer's Daily</Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>August 9, 2022</PublicationDate>
+      <Classification>Radar 40361014</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3374</BibliographicNoticeId>
+      <Title>Feds should "consider withdrawing" Bill C-27, says Citizen Lab report, proposing 19 amendments</Title>
+      <Author>Jerome, Amanda</Author>
+      <Publication>The Lawyer's Daily</Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>November 22, 2022</PublicationDate>
+      <Classification>Radar 41259065</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>false</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3373</BibliographicNoticeId>
+      <Title>Bill C-27, proposed amendments to Canada's federal privacy legislation affecting private sector organizations</Title>
+      <Author>Davidson, Jennifer, Austin, Richard, Troshchynsky, Anna &amp; Di Felice, Victoria</Author>
+      <Publication>Intellectual property journal</Publication>
+      <VolumePage>35(1): p.71-97</VolumePage>
+      <PublicationDate>November 2022</PublicationDate>
+      <Classification>Radar 20221129</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
