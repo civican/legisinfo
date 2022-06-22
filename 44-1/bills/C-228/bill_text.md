@@ -4,9 +4,9 @@
 
 This enactment amends the `Bankruptcy and Insolvency Act` and the `Companies' Creditors Arrangement Act` to ensure that claims in respect of unfunded liabilities or solvency deficiencies of pension plans and claims relating to the cessation of an employer's participation in group insurance plans are paid in priority in the event of bankruptcy proceedings.
 
-It also amends the `Pension Benefits Standards Act, 1985` to provide that an employer may provide financial security in the form of insurance for any portion of the contributions that they are required to pay under subsections 9(1.1) and (1.2) of the Act, and to authorize the administrator of an underfunded pension plan, in certain situations, to transfer or permit the transfer of any part of the assets or liabilities of the pension plan to another pension plan. The amendments also provide for the tabling of an annual report respecting the solvency of pension plans.
+It also amends the `Pension Benefits Standards Act, 1985` to provide for the tabling of an annual report respecting the solvency of pension plans.
 
-Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+His Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
 
 ## Short Title
@@ -82,31 +82,25 @@ This Act may be cited as the `Pension Protection Act`.
 
 ### Section 6
 
-Section 9 of the `Pension Benefits Standards Act, 1985` is amended by adding the following after subsection (1.2):
-
-**(1.3)** An non-countable employer may provide financial security in the form of insurance for any portion of the contributions that they are required to pay under subsection (1.1) or (1.2).
+[*Deleted*]
 
 ### Section 7
 
-Section 29 of the Act is amended by adding the following after subsection (8):
-
-**(8.1)** If an employer is the subject of proceedings under the `Companies' Creditors Arrangement Act` or Part III of the `Bankruptcy and Insolvency Act` and the amount required to permit a pension plan to satisfy all obligations with respect to pension benefits and other benefits to be provided under the plan is greater than the assets of the plan, the administrator may apply to the Superintendent for permission to transfer or permit the transfer of any part of the assets or liabilities of the pension plan to another pension plan.
-
-**(8.2)** No action lies against any administrator for transferring or permitting the transfer of any part of the assets or liabilities of a pension plan to another pension plan in compliance with subsection (8.1).
+[*Deleted*]
 
 ### Section 8
 
-Section 40 of the Act is replaced by the following:
+Section 40 of the `Pension Benefits Standards Act, 1985` is replaced by the following:
 
 ### Section 40
 
-  ****(1)**** The Superintendent shall, **after consultation with the Chief Actuary of the Office of the Superintendent of Financial Institutions and** as soon as possible after the end of each fiscal year, submit to the Minister a report on
+  **(1)** The Superintendent shall, after consultation with the Chief Actuary of the Office of the Superintendent of Financial Institutions and as soon as possible after the end of each fiscal year, submit to the Minister a report on
 
-    the operation of this Act during that year; **and**
+    the operation of this Act during that year; and
 
     the success of pension plans in meeting the funding requirements, determined in accordance with section 9, and the corrective measures taken or directed to be taken to deal with any pension plans that are not meeting the funding requirements.
 
-  ****(2)**** The Minister shall cause the report to be **tabled in** each House of Parliament on any of the first **15** days on which that House is sitting after the day the Minister receives it.
+  **(2)** The Minister shall cause the report to be tabled in each House of Parliament on any of the first 15 days on which that House is sitting after the day the Minister receives it.
 
   **(3)** As soon as possible after the tabling of the report in Parliament, the Superintendent shall transmit the report to the relevant provincial ministers responsible for finance and provincial securities commissions.
 
@@ -115,7 +109,7 @@ Section 40 of the Act is replaced by the following:
 
 ### Section 9
 
-  **(1)** Sections 2 to 4 do not apply in respect of a person who is an employer and who, on the day before the day on which those sections come into force, participated in a prescribed pension plan for the benefit of the person's employees until the fifth anniversary of the day on which this Act comes into force.
+  **(1)** Sections 2 to 4 do not apply in respect of a person who is an employer and who, on the day before the day on which those sections come into force, participated in a prescribed pension plan for the benefit of the person's employees until the **fourth** anniversary of the day on which this Act comes into force.
 
-  **(2)** Subsections 5(1) and (2) do not apply in respect of a company that, on the day before the day on which those subsections come into force, participated in a prescribed pension plan for the benefit of its employees until the fifth anniversary of the day on which this Act comes into force.
+  **(2)** Subsections 5(1) and (2) do not apply in respect of a company that, on the day before the day on which those subsections come into force, participated in a prescribed pension plan for the benefit of its employees until the **fourth** anniversary of the day on which this Act comes into force.
 
