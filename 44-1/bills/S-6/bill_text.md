@@ -1,5 +1,7 @@
 # Bill S-6: An Act respecting regulatory modernization
 
+**Sponsor**: THE HONOURABLE SENATOR GOLD, P.C
+
 ## Summary
 
 This enactment amends various Acts as part of the Regulatory Modernization Initiative in order to repeal or amend provisions that have, over time, become barriers to innovation and economic growth or to add certain provisions with a view to support innovation and economic growth.
@@ -124,17 +126,19 @@ provide that a notice requiring the removal or destruction of certain food commo
 
 authorize the Governor in Council to extend any interim order for a period of no more than two years.
 
-Part 6 amends the `Coastal Fisheries Protection Act` to create an offence of contravening a term or condition of a licence or permit.
+Part 6 amends the `Pest Control Products Act` to, among other things, create a new authorization scheme that will give the Minister of Health the power to authorize pest control products that meet the prescribed criteria, if their risks and value are acceptable and to include mandatory public consultation provisions for this new authorization scheme. The initiative also expands the current authorizations to persons under section 41 and provides for a broader recall power that is applicable to any pest control product that endangers human health or safety or the environment.
+
+Part 7 amends the `Coastal Fisheries Protection Act` to create an offence of contravening a term or condition of a licence or permit.
 
 It also amends the `Fisheries Act` to remove the time limit for entry into an alternative measures agreement by an alleged offender and the Attorney General. Finally, it confirms that the provisions respecting alternative measures agreements do not limit the discretion of fishery officers, fishery guardians and peace officers in enforcing that Act.
 
-Part 7 amends the `Department of Citizenship and Immigration Act` to authorize the Minister of Citizenship and Immigration to disclose, for certain purposes and subject to any regulations, personal information under the control of the Department within the Department and to certain other federal and provincial government entities.
+Part 8 amends the `Department of Citizenship and Immigration Act` to authorize the Minister of Citizenship and Immigration to disclose, for certain purposes and subject to any regulations, personal information under the control of the Department within the Department and to certain other federal and provincial government entities.
 
 It also amends the `Immigration and Refugee Protection Act` to authorize the making of regulations relating to the disclosure of information collected for the purposes of that Act to federal departments and agencies.
 
-Part 8 amends the `Customs Act` to authorize the making of regulations aimed at streamlining the implementation of free trade agreements.
+Part 9 amends the `Customs Act` to authorize the making of regulations aimed at streamlining the implementation of free trade agreements.
 
-Part 9 amends the `Canada Transportation Act` to provide the Minister of Transport with the authority to make interim orders to implement international standards or to ensure compliance with Canada's international obligations.
+Part 10 amends the `Canada Transportation Act` to provide the Minister of Transport with the authority to make interim orders to implement international standards or to ensure compliance with Canada's international obligations.
 
 
 ## TABLE OF PROVISIONS
@@ -322,6 +326,28 @@ Milk quotas
 Order in council
 
 
+## Pest Control Products Act
+
+
+### Amendments to the Act
+
+
+
+
+### Transitional Provisions
+
+Words and expressions
+
+Pending application
+
+Pending re-evaluations
+
+
+### Coming into Force
+
+Order in council
+
+
 ## Fisheries and Oceans
 
 
@@ -385,13 +411,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 Subsection 102(4) of the `Bankruptcy and Insolvency Act` is replaced by the following:
 
-**(4)** The trustee shall, as soon as possible after the bankruptcy and not later than the fifth day before the first meeting of creditors, publish, in the manner specified in the directives of the Superintendent, a notice in the prescribed form.
+**(4)** The trustee shall, as soon as possible after the bankruptcy and not later than **the fifth day** before the first meeting of creditors, publish, **in the manner specified in the directives of the Superintendent**, a notice in the prescribed form.
 
 ### Section 2
 
 Paragraph 155(c) of the Act is replaced by the following:
 
-a notice of the bankruptcy shall not be published under subsection 102(4) unless it is deemed expedient by the trustee or ordered by the court;
+a notice of the bankruptcy shall not be published **under subsection 102(4)** unless **it** is deemed expedient by the trustee or ordered by the court;
 
 ### Section 3
 
@@ -428,7 +454,7 @@ The Act is amended by adding the following after section 170.1:
 
 Paragraph 28(1)(d) of the `Electricity and Gas Inspection Act` is replaced by the following:
 
-authorizing the director to establish plans for the verification and reverification — using any means, including sampling — of meters of any class, type or design, or in any circumstances;
+authorizing the director to establish plans for the verification and reverification — **using any means, including sampling** — of meters of any class, type or design, or in any circumstances;
 
 
 ### Weights and Measures Act
@@ -439,7 +465,7 @@ The portion of section 8 of the `Weights and Measures Act` before paragraph (a) 
 
 ### Section 8
 
-Subject to section 8.1, no trader shall use, or have in their possession for use, in trade, any device unless
+**Subject to section 8.1**, no trader shall use, or have in their possession for use, in trade, any device unless
 
 ### Section 6
 
@@ -494,7 +520,7 @@ Subsection 239(4) of the Act is repealed.
 
   **(1)** Subsection 242(2) of the Act is replaced by the following:
 
-    **(2)** Sections 215 and 216 and subsection 229.1(2) come into force on a day to be fixed by order of the Governor in Council, but that day must be after the day fixed under subsection (2.1).
+    **(2)** Sections 215 and **216** and **subsection 229.1(2)** come into force on a day to be fixed by order of the Governor in Council, but that day must be **after** the day fixed under subsection **(2.1)**.
 
     **(2.1)** Sections 217, 219, 221 to 223 and 226 to 228 and subsection 229.1(1) come into force on a day to be fixed by order of the Governor in Council.
 
@@ -514,7 +540,7 @@ Section 263 of the `Canada Business Corporations Act` is replaced by the followi
 
 ### Section 263
 
-Every corporation shall send to the Director an annual update statement in the form and within the period that the Director fixes.
+Every corporation shall send to the Director an annual **update statement** in the form and within the period that the Director fixes.
 
 
 #### Canada Cooperatives Act
@@ -525,7 +551,7 @@ Section 374 of the `Canada Cooperatives Act` is replaced by the following:
 
 ### Section 374
 
-Every cooperative must send the Director an annual update statement in the form and within the period that the Director fixes.
+Every cooperative must send the Director an annual **update statement** in the form and within the period that the Director fixes.
 
 
 #### Canada Not-for-profit Corporations Act
@@ -536,7 +562,7 @@ Section 278 of the `Canada Not-for-profit Corporations Act` is replaced by the f
 
 ### Section 278
 
-Every corporation shall send to the Director an annual update statement in the form and within the period that the Director fixes.
+Every corporation shall send to the Director an annual **update statement** in the form and within the period that the Director fixes.
 
 
 ### Coming into Force
@@ -576,21 +602,21 @@ Subsections 107(2) and (3) of the `Canada Petroleum Resources Act` are repealed.
 
   **(1)** The definition **hazardous substance** in subsection 205.001(1) of the `Canada–Newfoundland and Labrador Atlantic Accord Implementation Act` is replaced by the following:
 
-    **hazardous substance** includes a hazardous product and any chemical, biological or physical agent that, by reason of a property that the agent possesses, is hazardous to the health or safety of an individual who is exposed to it. (**substance dangereuse**)
+    **hazardous substance** includes a **hazardous** product and any chemical, biological or physical agent that, by reason of a property that the agent possesses, is hazardous to the health or safety of an individual **who is** exposed to it. (**substance dangereuse**)
 
   **(2)** Subsection 205.001(2) of the Act is replaced by the following:
 
-    **(2)** In this Part, **hazardous product**, **label** and **safety data sheet** have the same meanings as in section 2 of the `Hazardous Products Act`.
+    **(2)** In this Part, ****hazardous** product**, **label** and **safety data sheet** have the same meanings as in section 2 of the `Hazardous Products Act`.
 
 ### Section 19
 
 Paragraphs 205.022(c) to (e) of the Act are replaced by the following:
 
-ensure that all hazardous substances at the workplace, other than hazardous products, are identified in the manner that is prescribed;
+ensure that all hazardous substances at the workplace, other than **hazardous** products, are identified in the manner that is prescribed;
 
-subject to the `Hazardous Materials Information Review Act`, ensure that each hazardous product at the workplace or each container at the workplace that contains a hazardous product has a label that meets the requirements set out in the regulations made under subsection 15(1) of the `Hazardous Products Act` affixed to it, printed on it or attached to it, in a manner that meets the requirements set out in the regulations made under that subsection;
+subject to the `Hazardous Materials Information Review Act`, ensure that each **hazardous** product at the workplace or each container at the workplace **that contains** a **hazardous** product has a label that **meets the requirements set out in the regulations made under subsection 15(1) of the `Hazardous Products Act` affixed to it, printed on it or attached to it,** in **a** manner that **meets the requirements set out in the regulations made under that subsection**;
 
-subject to the `Hazardous Materials Information Review Act`, make available to every employee at the workplace, in the manner that is prescribed, a safety data sheet that meets the requirements set out in the regulations made under subsection 15(1) of the `Hazardous Products Act` with respect to each hazardous product to which the employee may be exposed;
+subject to the `Hazardous Materials Information Review Act`, make available to every employee at the workplace, in the manner that is prescribed, a safety data sheet that **meets the requirements set out in the regulations made under subsection 15(1) of the `Hazardous Products Act`** with respect to each **hazardous** product to which the employee may be exposed;
 
 ### Section 20
 
@@ -598,11 +624,11 @@ Section 205.023 of the Act is replaced by the following:
 
 ### Section 205.023
 
-  **(1)** Every employer shall, in respect of each workplace under its control, and in respect of an activity performed by any of its employees at a workplace that is not under its control, to the extent that it controls the activity, provide, in respect of any hazardous product to which an employee may be exposed, as soon as the circumstances permit, the safety data sheet referred to in paragraph 205.022(e) to any physician, or other medical professional that is prescribed, who requests that safety data sheet for the purpose of making a medical diagnosis of, or rendering medical treatment to, an employee in an emergency.
+  **(1)** Every employer shall, in respect of each workplace under its control, and in respect of an activity performed by any of its employees at a workplace that is not under its control, to the extent that it controls the activity, provide, in respect of any **hazardous** product to which an employee may be exposed, as soon as the circumstances permit, the **safety data sheet** referred to in paragraph 205.022(e) to any physician, or other medical professional that is prescribed, who requests that **safety data sheet** for the purpose of making a medical diagnosis of, or rendering medical treatment to, an employee in an emergency.
 
   **(2)** If there is no safety data sheet for the hazardous product referred to in subsection (1), the employer shall provide any information about that product that is in their possession to the physician or other medical professional.
 
-  **(3)** Any physician or other medical professional to whom information is provided by an employer under subsection (1) or (2) shall keep confidential any information specified by the employer as being confidential, except for the purpose for which it is provided.
+  ****(3)**** Any physician or other medical professional to whom information is provided by an employer under subsection (1) **or (2)** shall keep confidential any information specified by the employer as being confidential, except for the purpose for which it is provided.
 
 ### Section 21
 
@@ -616,7 +642,7 @@ Paragraph 205.124(1)(p) of the Act is replaced by the following:
 
 respecting the records to be kept by an operator or an employer, or both, the manner and form in which and the period of time for which records are to be kept;
 
-respecting the manner and form in which information is to be communicated;
+respecting the manner and form in which information **is** to be communicated;
 
 
 #### Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act
@@ -625,21 +651,21 @@ respecting the manner and form in which information is to be communicated;
 
   **(1)** The definition **hazardous substance** in subsection 210.001(1) of the `Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act` is replaced by the following:
 
-    **hazardous substance** includes a hazardous product and any chemical, biological or physical agent that, by reason of a property that the agent possesses, is hazardous to the health or safety of an individual exposed to it. (**substance dangereuse**)
+    **hazardous substance** includes a **hazardous** product and any chemical, biological or physical agent that, by reason of a property that the agent possesses, is hazardous to the health or safety of an individual exposed to it. (**substance dangereuse**)
 
   **(2)** Subsection 210.001(2) of the Act is replaced by the following:
 
-    **(2)** In this Part, **hazardous product**, **label** and **safety data sheet** have the same meanings as in section 2 of the `Hazardous Products Act`.
+    **(2)** In this Part, ****hazardous** product**, **label** and **safety data sheet** have the same meanings as in section 2 of the `Hazardous Products Act`.
 
 ### Section 24
 
 Paragraphs 210.022(c) to (e) of the Act are replaced by the following:
 
-ensure that all hazardous substances at the workplace, other than hazardous products, are identified in the manner that is prescribed;
+ensure that all hazardous substances at the workplace, other than **hazardous** products, are identified in the manner that is prescribed;
 
-subject to the `Hazardous Materials Information Review Act`, ensure that each hazardous product at the workplace or each container at the workplace that contains a hazardous product has a label that meets the requirements set out in the regulations made under subsection 15(1) of the `Hazardous Products Act` affixed to it, printed on it or attached to it, in a manner that meets the requirements set out in the regulations made under that subsection;
+subject to the `Hazardous Materials Information Review Act`, ensure that each **hazardous** product at the workplace or each container at the workplace **that contains** a **hazardous** product has a label that **meets the requirements set out in the regulations made under subsection 15(1) of the `Hazardous Products Act` affixed to it, printed on it or attached to it,** in **a** manner that **meets the requirements set out in the regulations made under that subsection**;
 
-subject to the `Hazardous Materials Information Review Act`, make available to every employee at the workplace, in the manner that is prescribed, a safety data sheet that meets the requirements set out in the regulations made under subsection 15(1) of the `Hazardous Products Act` with respect to each hazardous product to which the employee may be exposed;
+subject to the `Hazardous Materials Information Review Act`, make available to every employee at the workplace, in the manner that is prescribed, a safety data sheet that **meets the requirements set out in the regulations made under subsection 15(1) of the `Hazardous Products Act`** with respect to each **hazardous** product to which the employee may be exposed;
 
 ### Section 25
 
@@ -647,11 +673,11 @@ Section 210.023 of the Act is replaced by the following:
 
 ### Section 210.023
 
-  **(1)** Every employer shall, in respect of each workplace under its control, and in respect of an activity performed by any of its employees at a workplace that is not under its control, to the extent that it controls the activity, provide, in respect of any hazardous product to which an employee may be exposed, as soon as the circumstances permit, the safety data sheet referred to in paragraph 210.022(e) to any physician, or other medical professional that is prescribed, who requests that safety data sheet for the purpose of making a medical diagnosis of, or rendering medical treatment to, an employee in an emergency.
+  **(1)** Every employer shall, in respect of each workplace under its control, and in respect of an activity performed by any of its employees at a workplace that is not under its control, to the extent that it controls the activity, provide, in respect of any **hazardous** product to which an employee may be exposed, as soon as the circumstances permit, **the safety data sheet** referred to in paragraph 210.022(e) to any physician, or other medical professional that is prescribed, who requests that **safety data sheet** for the purpose of making a medical diagnosis of, or rendering medical treatment to, an employee in an emergency.
 
   **(2)** If there is no safety data sheet for the hazardous product referred to in subsection (1), the employer shall provide any information about that product that is in their possession to the physician or other medical professional.
 
-  **(3)** Any physician or other medical professional to whom information is provided by an employer under subsection (1) or (2) shall keep confidential any information specified by the employer as being confidential, except for the purpose for which it is provided.
+  ****(3)**** Any physician or other medical professional to whom information is provided by an employer under subsection (1) **or (2)** shall keep confidential any information specified by the employer as being confidential, except for the purpose for which it is provided.
 
 ### Section 26
 
@@ -665,7 +691,7 @@ Paragraph 210.126(1)(p) of the Act is replaced by the following:
 
 respecting the records to be kept by an operator or an employer, or both, the manner and form in which and the period of time for which records are to be kept;
 
-respecting the manner and form in which information is to be communicated;
+respecting the manner and form in which information **is** to be communicated;
 
 
 ### Canada Lands Surveyors Act
@@ -677,15 +703,15 @@ respecting the manner and form in which information is to be communicated;
 
   **(1)** The definitions **boundary**, **Canada Lands Surveyor**, **commission**, **licence** and **permit** in section 2 of the `Canada Lands Surveyors Act` are replaced by the following:
 
-    **boundary** means a natural or artificial line on the surface of the earth, below the surface of the earth, in airspace or in or on any structure, the purpose of which is to indicate the extent of a legal interest or right in land, land under water, water, airspace or natural resources, or in a structure.  (**ligne de démarcation**)
+    **boundary** means a natural or artificial line on the surface of the earth, below the surface of the earth, in airspace or in or on any structure, the purpose of which is to indicate the extent of a legal interest **or right** in land, land under water, water, airspace or natural resources, or in a structure.  (**ligne de démarcation**)
 
-    **Canada Lands Surveyor** means a member who holds a commission. (**arpenteur des terres du Canada**)
+    **Canada Lands Surveyor** means a **member** who holds a commission. (**arpenteur des terres du Canada**)
 
     **commission** means a commission granted under section 49. (**brevet**)
 
-    **licence** means a licence issued under section 53. (**licence**)
+    **licence** means a licence issued under section 53. (****licence****)
 
-    **permit** means a permit issued under section 58. (**permis**)
+    **permit** means a permit issued under section 58. (****permis****)
 
   **(2)** Section 2 of the Act is amended by adding the following in alphabetical order:
 
@@ -697,7 +723,7 @@ respecting the manner and form in which information is to be communicated;
 
   **(1)** Paragraph 6(a) of the English version of the Act is replaced by the following:
 
-    to establish and maintain standards of qualifications and practice for Canada Lands Surveyors;
+    to establish and maintain standards of qualifications **and practice** for Canada Lands Surveyors;
 
   **(2)** Paragraphs 6(c) and (d) of the Act are replaced by the following:
 
@@ -711,7 +737,7 @@ Section 8 of the Act is replaced by the following:
 
 ### Section 8
 
-In carrying out its objects, the Association has the capacity and the rights, powers and privileges of a natural person.
+In carrying out its objects, the Association has the capacity **and the rights, powers and privileges** of a natural person.
 
 ### Section 31
 
@@ -729,7 +755,7 @@ Subsection 16(1) of the Act is replaced by the following:
 
 ### Section 16
 
-  **(1)** A vacancy on the Council caused by the death, resignation, removal or inability to act of a Council member referred to in paragraph 13(c) shall be filled by a member in the manner set out in the by-laws.
+  **(1)** A vacancy on the Council caused by the death, resignation, removal or **inability** to act of a Council member referred to in paragraph 13(c) shall be filled by a member in the manner set out in the by-laws.
 
 ### Section 33
 
@@ -771,7 +797,7 @@ Section 17 of the Act is amended by adding the following after subsection (2):
 
         the procedures to be followed by the Association in reviewing the surveying activities of members and permit holders to ensure the maintenance of minimum standards of surveying; and
 
-        any other matter for which by-laws are required by this Act.
+        any **other** matter for which by-laws are required by this Act.
 
   **(2)** Section 18 of the Act is amended by adding the following after subsection (2):
 
@@ -785,13 +811,13 @@ Section 17 of the Act is amended by adding the following after subsection (2):
 
 ### Section 21
 
-      **(1)** Sous réserve de l'article 22, le comité d'examen régit toute question relative à l'examen et à l'admission des candidats au brevet ainsi que les qualifications exigées d'eux.
+      **(1)** Sous réserve de l'article 22, le comité d'examen régit **toute question relative à** l'examen et **à** l'admission des candidats au brevet ainsi que les **qualifications** exigées d'eux.
 
   **(2)** Subsection 21(2) of the Act is replaced by the following:
 
-    **(2)** The Board of Examiners may admit a person to be a candidate for a commission only if the person has complied with the requirements specified in the by-laws.
+    **(2)** The Board of Examiners may admit a person to be a candidate for a commission only if the person has complied with the requirements specified in the **by-laws**.
 
-    **(3)** All matters relating to the admission, qualifications and examination of candidates for a commission who are entitled to survey lands in a province and under the laws of the province and who seek to become licence holders under any provision of this Act, the regulations and the by-laws, are to be conducted in accordance with the provisions of the Agreement, as defined in section 2 of the `Canadian Free Trade Agreement Implementation Act`.
+    ****(3)**** **All matters relating to the admission, qualifications and examination of candidates for a commission who are entitled to survey lands in a province and under the laws of the province and who seek to become licence holders under any provision of this Act, the regulations and the by-laws, are to be conducted in accordance with the provisions of the Agreement, as defined in section 2 of the `Canadian Free Trade Agreement Implementation Act`.**
 
 ### Section 36
 
@@ -799,7 +825,7 @@ Section 23 of the Act is replaced by the following:
 
 ### Section 23
 
-The Board of Examiners shall recommend to the Council that a commission be granted to every candidate for a commission who has complied with the requirements specified in the by-laws.
+The Board of Examiners shall recommend to the Council that a commission be granted to every candidate for a commission who has complied with the requirements specified in the **by-laws**.
 
 ### Section 37
 
@@ -809,13 +835,13 @@ Sections 24 and 25 of the Act are replaced by the following:
 
   **(1)** The Complaints Committee shall consider all complaints in writing that are received by the Association regarding the conduct or actions of any member or permit holder.
 
-  **(2)** If the Committee has reasonable grounds to believe that a member or permit holder against whom a complaint is made has committed an act of professional misconduct or was incompetent, the Committee may conduct an investigation of the surveying activities of the member or permit holder or designate a person or entity to conduct the investigation under the Committee's direction.
+  **(2)** **If** the Committee has reasonable grounds to believe that a member or permit holder against whom a complaint is made has committed an act of professional misconduct or **was** incompetent, the Committee may **conduct an investigation of** the surveying activities of the member or permit holder or **designate a person or entity to conduct the investigation under the Committee's direction.**
 
-  **(3)** The Committee may revoke the designation.
+  **(3)** The Committee may **revoke** the **designation**.
 
-  **(4)** For greater certainty, an individual appointed to the Committee may be designated to conduct the investigation.
+  ****(4)**** **For greater certainty, an individual appointed to the Committee may be designated to conduct the investigation.**
 
-  **(5)** For the purposes of sections `24.1` to `24.5`, **designated person** means the Committee or the person or entity designated by it to conduct the investigation.
+  ****(5)**** **For the purposes of sections `24.1` to `24.5`, **designated person** means the Committee or the person or entity designated by it to conduct the investigation.**
 
 ### Section 24.1
 
@@ -877,11 +903,11 @@ A person or entity that exercises powers or performs duties or functions under a
 
   **(1)** After having considered a complaint, the Complaints Committee shall
 
-    dismiss the complaint if it is satisfied that the evidence disclosed by the investigation does not support a finding of professional misconduct or incompetence;
+    **dismiss** the complaint if it is satisfied that the evidence disclosed by the investigation does not support a finding of professional misconduct or incompetence;
 
-    refer the complaint to the Discipline Committee if it is satisfied that there is sufficient evidence disclosed by the investigation that could support a finding of professional misconduct or incompetence; or
+    **refer** the complaint to the Discipline Committee if it is satisfied that there is sufficient evidence disclosed by the investigation that could support a finding of professional misconduct or incompetence; or
 
-    take any action that it considers appropriate in the circumstances to resolve the complaint.
+    **take any action that it considers appropriate in the circumstances to resolve the complaint.**
 
   **(2)** The Registrar shall cause a notice of the dismissal, referral or resolution of the complaint, as the case may be, to be served on the Association, the complainant and the member or permit holder who is the subject of the complaint.
 
@@ -891,7 +917,7 @@ Section 26 of the French version of the Act is replaced by the following:
 
 ### Section 26
 
-Le comité des plaintes n'a pas à tenir d'audience ou à donner à quiconque la possibilité de présenter des observations orales avant de formuler sa recommandation à l'égard de la plainte.
+Le comité des plaintes n'a pas à tenir d'**audience** ou à donner à quiconque la possibilité de présenter des observations orales avant de formuler sa recommandation à l'égard de la plainte.
 
 ### Section 39
 
@@ -899,7 +925,7 @@ Section 27 of the Act is replaced by the following:
 
 ### Section 27
 
-The Complaints Committee retains jurisdiction to deal with a complaint regarding the conduct or actions of a person or entity who has ceased to be a member or permit holder.
+The Complaints Committee **retains** jurisdiction to deal with a complaint regarding the conduct or actions of a person or entity who **has ceased** to be a member or permit holder.
 
 ### Section 27.1
 
@@ -927,7 +953,7 @@ The Complaints Committee retains jurisdiction to deal with a complaint regarding
 
 Paragraphs 28(a) to (c) of the Act are replaced by the following:
 
-subject to sections 29 and 30.1, hear and determine allegations of professional misconduct or incompetence in complaints submitted to it by the Complaints Committee; or
+subject to **sections** 29 and **30.1**, hear and determine allegations of professional misconduct or incompetence in complaints submitted to it by the **Complaints Committee**; **or**
 
 hear and determine matters referred to it by the Registrar with respect to
 
@@ -945,7 +971,7 @@ The Discipline Committee shall begin the process of examining a complaint referr
 
 ### Section 30
 
-The Discipline Committee retains jurisdiction to deal with a complaint regarding the conduct or actions of a person or entity who has ceased to be a member or permit holder.
+The Discipline Committee **retains** jurisdiction to deal with a complaint regarding the conduct or actions of **a person or entity who has ceased** to be a member or permit holder.
 
 ### Section 30.1
 
@@ -964,9 +990,9 @@ accepts the actions that the Discipline Committee proposes to take against them.
 
 At a hearing, the Discipline Committee shall provide the member or permit holder who is the subject of the complaint with an opportunity to present evidence and make representations.
 
-### Section 30.3
+### Section **30.3**
 
-The Discipline Committee may summon and enforce the appearance of persons and compel them to give oral or written evidence on oath and to produce any document or other thing that the Committee considers necessary for the full examination of the complaint, in the same manner and to the same extent as a superior court of record.
+**The Discipline Committee may summon and enforce the appearance of persons and compel them to give oral or written evidence on oath and to produce any document or other thing that the Committee considers necessary for the full examination of the complaint, in the same manner and to the same extent as a superior court of record.**
 
 ### Section 30.4
 
@@ -980,11 +1006,11 @@ The Discipline Committee may summon and enforce the appearance of persons and co
 
 ### Section 31
 
-      **(1)** If the Discipline Committee finds a member or permit holder guilty of professional misconduct or incompetence, the Discipline Committee may take one or more of the following actions:
+      **(1)** **If** the Discipline Committee finds a member or permit holder guilty of professional misconduct or incompetence, the Discipline Committee may take one or more of the following actions:
 
   **(2)** Paragraph 31(1)(a) of the French version of the Act is replaced by the following:
 
-    annuler l'adhésion du membre à l'Association;
+    **annuler l'adhésion du** membre **à** l'Association;
 
   **(3)** Paragraphs 31(1)(b) and (c) of the Act are replaced by the following:
 
@@ -998,7 +1024,7 @@ The Discipline Committee may summon and enforce the appearance of persons and co
 
   **(5)** Paragraphs 31(1)(f) and (g) of the Act are replaced by the following:
 
-    impose on the member or permit holder a penalty not in excess of the amount prescribed by regulation, payable to the Association;
+    impose on the member or permit holder a penalty not in excess of **the amount prescribed by regulation**, payable to the Association;
 
     reprimand the member or permit holder and direct that the reprimand be recorded in the register maintained by the Registrar;
 
@@ -1010,11 +1036,11 @@ The Discipline Committee may summon and enforce the appearance of persons and co
 
   **(7)** Subsection 31(3) of the Act is replaced by the following:
 
-    **(3)** The Discipline Committee shall cause a copy of every decision to take action under this section to be given to the Council and the Registrar, and the Registrar shall cause a copy of the decision to be served on the member or permit holder to whom the decision relates and on the complainant.
+    **(3)** The Discipline Committee shall cause a copy of every decision to take action under this section to be given to the Council **and the Registrar**, and the **Registrar** shall cause a copy of the decision to be served on the member or permit holder to whom the decision relates and on the complainant.
 
   **(8)** Subsection 31(4) of the French version of the Act is replaced by the following:
 
-    **(4)** S'il est d'avis que les circonstances le justifient, le comité de discipline peut, selon les modalités qu'il précise, suspendre l'exécution de sa décision pour la période qu'il estime appropriée.
+    **(4)** **S'il est d'avis que les circonstances le justifient, le comité de discipline** peut, selon les modalités qu'il précise, suspendre l'exécution **de sa décision** pour la période **qu'il estime appropriée**.
 
   **(9)** Subsection 31(5) of the Act is replaced by the following:
 
@@ -1024,9 +1050,9 @@ The Discipline Committee may summon and enforce the appearance of persons and co
 
   **(10)** Subsections 31(6) and (7) of the English version of the Act are replaced by the following:
 
-    **(6)** If the Discipline Committee finds that an allegation of professional misconduct or incompetence against a member or permit holder is unfounded, the Registrar shall, on the request of the member or permit holder, notify the members of that finding.
+    **(6)** **If** the Discipline Committee finds that an allegation of professional misconduct or incompetence against a member or permit holder is unfounded, the Registrar shall, on the request of the member or permit holder, notify the members of that finding.
 
-    **(7)** If the Discipline Committee is of the opinion that proceedings before it in relation to any member or permit holder are unwarranted, it may recommend to the Council that the Association reimburse the whole or part of the member's or permit holder's costs.
+    **(7)** **If** the Discipline Committee is of the opinion that proceedings before it in relation to any member or permit holder are unwarranted, it may recommend to the Council that the Association reimburse the whole or part of the member's or permit holder's costs.
 
 ### Section 43
 
@@ -1034,13 +1060,13 @@ Section 34 of the Act is replaced by the following:
 
 ### Section 34
 
-  **(1)** The Registrar shall maintain a register in which is recorded the name of every Canada Lands Surveyor and all other information required by the by-laws to be recorded in that register.
+  **(1)** The Registrar shall maintain a register in which is recorded the name of every Canada Lands Surveyor and all other information required by the **by-laws** to be recorded in that register.
 
   **(2)** The Registrar shall maintain a register in which is recorded
 
     the name and address of every member who holds a licence, every other member and every permit holder;
 
-    information that is required by the by-laws to be recorded in that register;
+    information that is required by the **by-laws** to be recorded in that register;
 
     information that is directed by the Discipline Committee to be recorded; and
 
@@ -1058,7 +1084,7 @@ Section 37 of the Act is replaced by the following:
 
 ### Section 37
 
-No action or other proceedings for damages shall be instituted against the Association, a committee of the Association, a member, an individual appointed to a committee of the Association or an officer, employee, representative or appointee of the Association for any act done in the performance of any duty, or the exercise of any power, in good faith, under this Act or for any neglect or default in the performance of any duty, or the exercise of any power, in good faith, under this Act.
+No action or other proceedings for damages shall be instituted against the Association, a committee of the Association, a member, **an individual appointed to** a committee of the Association or an officer, employee, **representative** or appointee of the Association for any act done in the performance of any duty, or the exercise of any power, in good faith, under this Act or for any neglect or default in the performance of any duty, or the exercise of any power, in good faith, under this Act.
 
 ### Section 46
 
@@ -1066,7 +1092,7 @@ Section 38 of the Act is replaced by the following:
 
 ### Section 38
 
-The Registrar shall grant membership in the Association to any person who holds a commission, or to any other person specified in the by-laws, who applies for membership and who complies with the regulations and the by-laws.
+The Registrar **shall** grant membership in the Association to any **person who holds a commission**, or to any other person specified in the by-laws, who applies for membership and who complies with the regulations and the by-laws.
 
 ### Section 47
 
@@ -1086,7 +1112,7 @@ Subsection 41(1) of the Act is replaced by the following:
 
 ### Section 41
 
-  **(1)** A person whose membership in the Association has been cancelled for professional misconduct or incompetence may, any time after two years after the date of the cancellation, apply in writing to the Registrar, in accordance with the by-laws, to be reinstated as a member.
+  **(1)** A person whose membership in the Association has been cancelled for professional misconduct or incompetence may, any time after two years after the date of the cancellation, apply in writing to the Registrar, in accordance with the **by-laws**, to be reinstated as a member.
 
 ### Section 49
 
@@ -1102,7 +1128,7 @@ Section 43 of the French version of the Act is replaced by the following:
 
 ### Section 43
 
-Le titulaire de licence et toute personne agissant sous sa direction peuvent, afin d'exécuter un arpentage cadastral, pénétrer sur le terrain de qui que ce soit, le traverser et en mesurer les limites; ils prennent toutefois les précautions voulues pour éviter de causer quelque dommage en ce faisant.
+Le titulaire de **licence** et toute personne agissant sous sa direction peuvent, afin d'exécuter un arpentage cadastral, pénétrer sur le terrain de qui que ce soit, le traverser et en mesurer les limites; ils prennent toutefois les précautions voulues pour éviter de causer quelque dommage en ce faisant.
 
 ### Section 51
 
@@ -1110,15 +1136,15 @@ Le titulaire de licence et toute personne agissant sous sa direction peuvent, af
 
 ### Section 44
 
-      **(1)** Le titulaire de licence qui exécute un arpentage cadastral peut, s'il a des motifs raisonnables de croire qu'une personne possède des renseignements sur toute matière s'y rapportant :
+      **(1)** Le titulaire de **licence** qui exécute un arpentage cadastral peut, s'il a des motifs raisonnables de croire qu'une personne possède des renseignements sur toute matière s'y rapportant :
 
   **(2)** Subsections 44(2) to (4) of the French version of the Act are replaced by the following:
 
-    **(2)** Tout juge de paix peut, sur demande d'un titulaire de licence, étayée par un affidavit énonçant la raison de la convocation du témoin, délivrer la citation à comparaître.
+    **(2)** Tout juge de paix peut, sur demande d'un titulaire de **licence**, étayée par un affidavit énonçant la raison de la convocation du témoin, délivrer la citation à comparaître.
 
-    **(3)** La citation est signifiée soit à personne, soit à résidence, entre les mains d'une personne majeure; elle indique le jour, l'heure et le lieu de l'audience devant le titulaire de licence.
+    **(3)** La citation est signifiée soit à personne, soit à résidence, entre les mains d'une personne majeure; elle indique le jour, l'heure et le lieu de l'**audience** devant le titulaire de **licence**.
 
-    **(4)** Le titulaire de licence verse au témoin convoqué la somme qui l'indemnisera des frais de déplacement entraînés par sa comparution devant lui; en cas de désaccord sur la somme, il soumet le différend à un juge de paix, dont la décision est alors définitive.
+    **(4)** Le titulaire de **licence** verse au témoin convoqué **la somme** qui l'indemnisera des frais de déplacement entraînés par sa comparution devant lui; en cas de désaccord sur **la somme**, il soumet le différend à un juge de paix, dont la décision est alors définitive.
 
 ### Section 52
 
@@ -1126,11 +1152,11 @@ Sections 45 and 46 of the French version of the Act are replaced by the followin
 
 ### Section 45
 
-Tout élément de preuve produit à l'audience dans le cadre de l'article 44 est consigné par écrit et lu au témoin qui en est l'auteur et attesté par affirmation de celui-ci et du titulaire de licence.
+Tout élément de preuve produit à l'**audience** dans le cadre de l'article 44 est consigné par écrit et lu au témoin qui en est l'auteur et attesté par affirmation de celui-ci et du titulaire de **licence**.
 
 ### Section 46
 
-Le titulaire de licence ne peut fournir de services d'arpentage cadastral à titre d'employé d'une entité que si celle-ci est elle-même titulaire d'un permis.
+Le titulaire de **licence** ne peut fournir de services d'arpentage cadastral à titre d'employé d'une entité que si celle-ci est elle-même titulaire d'un **permis**.
 
 ### Section 53
 
@@ -1138,7 +1164,7 @@ Section 47 of the Act is replaced by the following:
 
 ### Section 47
 
-Members shall certify their documents and drawings in accordance with the by-laws.
+Members **shall** certify their documents and drawings in accordance with the **by-laws**.
 
 ### Section 54
 
@@ -1148,20 +1174,20 @@ Section 48 of the Act is repealed.
 
 The Act is amended by adding the following after section 49:
 
-### Section 49.1
+### Section **49.1**
 
-A person, other than a member who holds a commission, shall not use the title "Canada Lands Surveyor" or "arpenteur des terres du Canada", or any addition to or abbreviation of that title, or any words, name or designation that leads to the belief that the person is a Canada Lands Surveyor.
+**A person, other than a member who holds a commission, shall not use the title "Canada Lands Surveyor" or "arpenteur des terres du Canada", or any addition to or abbreviation of that title, or any words, name or designation that leads to the belief that the person is a Canada Lands Surveyor.**
 
 ### Section 56
 
 Section 50 of the French version of the Act and the heading before it are replaced by the following:
 
 
-## Licences
+## **Licences**
 
 ### Section 50
 
-Seul le titulaire d'une licence ou une personne agissant sous sa direction peut effectuer l'arpentage cadastral des terres du Canada ou de terrains privés dans un territoire.
+Seul le titulaire d'**une licence** ou une personne agissant sous sa direction peut effectuer l'arpentage cadastral des terres du Canada ou de terrains privés dans un territoire.
 
 ### Section 57
 
@@ -1169,7 +1195,7 @@ Section 51 of the Act is replaced by the following:
 
 ### Section 51
 
-A member, other than a member who is a licence holder or who is acting under the direction of a licence holder, shall not engage in surveying on Canada Lands or private lands in a territory.
+**A** member, other than a member who is a licence holder or who is acting under the direction of a licence holder, **shall not** engage in surveying on Canada Lands or private lands in a territory.
 
 ### Section 58
 
@@ -1177,15 +1203,15 @@ A member, other than a member who is a licence holder or who is acting under the
 
 ### Section 52
 
-    Le demandeur de licence doit, à la fois :
+    Le demandeur de **licence** doit, **à la fois** :
 
   **(2)** Paragraphs 52(b) to (d) of the Act are replaced by the following:
 
     be a member;
 
-    subject to subsection 21(3), have experience and practical training in surveying totalling at least two years during the previous five years; and
+    **subject to subsection 21(3)**, have experience and practical training in surveying totalling at least two years during the previous five years; and
 
-    subject to subsection 21(3), comply with the licensing requirements prescribed by the by-laws.
+    **subject to subsection 21(3)**, comply with the licensing requirements prescribed by the by-laws.
 
 ### Section 59
 
@@ -1193,7 +1219,7 @@ Section 53 of the Act is replaced by the following:
 
 ### Section 53
 
-The Registrar may issue a licence to any person who applies for a licence and complies with the requirements under this Act.
+The Registrar may issue a licence to any person who applies for a licence and complies with the requirements **under** this Act.
 
 ### Section 60
 
@@ -1201,7 +1227,7 @@ Section 54 of the French version of the Act is replaced by the following:
 
 ### Section 54
 
-Le registraire peut annuler la licence pour défaut de paiement des droits ou cotisations fixés par les règlements administratifs, après avoir donné au titulaire un préavis d'au moins deux mois entre le non-paiement et l'éventuelle annulation.
+Le registraire peut annuler **la licence** pour défaut de paiement des droits ou cotisations fixés par les règlements administratifs, après avoir donné au titulaire un préavis d'au moins deux mois entre le non-paiement et l'éventuelle annulation.
 
 ### Section 61
 
@@ -1209,7 +1235,7 @@ Subsection 55(1) of the Act is replaced by the following:
 
 ### Section 55
 
-  **(1)** A person whose licence has been revoked for professional misconduct or incompetence may, any time after two years after the date of the revocation, apply in writing to the Registrar, in accordance with the by-laws, for a new licence.
+  **(1)** A person whose licence has been revoked for professional misconduct or incompetence may, any time after two years after the date of the revocation, apply in writing to the Registrar, in accordance with the **by-laws**, for a new licence.
 
 ### Section 62
 
@@ -1217,11 +1243,11 @@ Subsection 55(1) of the Act is replaced by the following:
 
 ### Section 56
 
-      **(1)** Subject to subsection (2) and the by-laws, every member who engages in surveying must be insured against professional liability.
+      **(1)** Subject to subsection (2) and the **by-laws**, every member who engages in surveying must be insured against professional liability.
 
   **(2)** Subsection 56(2) of the English version of the Act is replaced by the following:
 
-    **(2)** Subsection (1) does not apply in respect of a member who is employed by Her Majesty in right of Canada or a province, by an agent of Her Majesty in right of Canada or an agent or mandatary of Her Majesty in right of a province.
+    **(2)** Subsection (1) does not apply in respect of a member who is employed by Her Majesty in right of Canada or a province, **by an agent of Her Majesty in right of Canada or an agent or mandatary of Her Majesty in right of a province**.
 
   **(3)** Subsection 56(4) of the English version of the Act is replaced by the following:
 
@@ -1232,11 +1258,11 @@ Subsection 55(1) of the Act is replaced by the following:
 Section 57 of the French version of the Act and the heading before it are replaced by the following:
 
 
-## Permis
+## **Permis**
 
 ### Section 57
 
-Une entité ne peut fournir de services d'arpentage cadastral des terres du Canada ou des terrains privés dans un territoire que si elle est titulaire d'un permis.
+Une entité ne peut **fournir de services d'**arpentage cadastral des terres du Canada ou des terrains privés dans un territoire que si elle est titulaire d'**un permis**.
 
 ### Section 64
 
@@ -1244,7 +1270,7 @@ Section 58 of the Act is replaced by the following:
 
 ### Section 58
 
-The Registrar may issue a permit to an entity that applies for a permit in accordance with the by-laws.
+The Registrar may issue a permit to an entity that applies for a permit in accordance with the **by-laws**.
 
 ### Section 65
 
@@ -1252,7 +1278,7 @@ Section 59 of the French version of the Act is replaced by the following:
 
 ### Section 59
 
-Le registraire peut annuler le permis pour défaut de paiement des droits ou cotisations fixés par les règlements administratifs, après avoir donné au titulaire un préavis d'au moins deux mois entre le non-paiement et l'éventuelle annulation.
+Le registraire peut annuler **le permis** pour défaut de paiement des droits ou cotisations fixés par les règlements administratifs, après avoir donné au titulaire un préavis d'au moins deux mois entre le non-paiement et l'éventuelle annulation.
 
 ### Section 66
 
@@ -1260,7 +1286,7 @@ Section 60 of the Act is replaced by the following:
 
 ### Section 60
 
-The Registrar may revoke a permit if the permit holder no longer has a director, officer, partner or employee who holds a licence and who is capable of personally supervising and directing cadastral surveys.
+The Registrar may revoke a permit if the permit holder no longer has a **director**, **officer**, partner or employee who holds a licence and who is capable of personally supervising and directing cadastral surveys.
 
 ### Section 67
 
@@ -1268,7 +1294,7 @@ Subsection 61(1) of the Act is replaced by the following:
 
 ### Section 61
 
-  **(1)** An entity whose permit has been revoked for professional misconduct or incompetence may, any time after two years after the date of the revocation, apply in writing to the Registrar, in accordance with the by-laws, for a new permit.
+  **(1)** An entity whose permit has been revoked for professional misconduct or incompetence may, any time after two years after the date of the revocation, apply in writing to the Registrar, in accordance with the **by-laws**, for a new permit.
 
 ### Section 68
 
@@ -1276,19 +1302,19 @@ Subsection 61(1) of the Act is replaced by the following:
 
 ### Section 62
 
-    The Council may, with the approval of the Minister, make regulations
+    The Council may, **with** the approval of the Minister, make regulations
 
   **(2)** Paragraphs 62(a) to (q) of the Act are replaced by the following:
 
-    respecting the composition of committees established under subsection 19(1) and the rules, practices and procedures of those committees;
+    **respecting** the composition of committees established under **subsection 19(1)** and the rules, practices and procedures of those committees;
 
-    respecting the duties and powers of the Registrar;
+    **respecting** the duties and powers of the Registrar;
 
-    respecting the investigation of complaints, the procedures of the Complaints Committee and the Discipline Committee and the hearing or other treatment of allegations of professional misconduct or incompetence and the actions taken in response to those allegations;
+    **respecting** the investigation of complaints, the procedures of the Complaints Committee and the Discipline Committee and the hearing **or other treatment** of allegations of professional misconduct or incompetence **and the actions taken in response to those allegations**;
 
-    respecting the definition of "professional misconduct" and "incompetence" for the purposes of this Act; and
+    **respecting** the definition of "professional misconduct" and "incompetence" for the purposes of this Act; **and**
 
-    prescribing anything that is to be prescribed under this Act.
+    **prescribing anything that is to be prescribed under this Act.**
 
 ### Section 69
 
@@ -1296,7 +1322,7 @@ Section 64 of the French version of the Act is replaced by the following:
 
 ### Section 64
 
-Commet une infraction passible, sur déclaration de culpabilité par procédure sommaire, d'une amende maximale de 10 000 $ et d'un emprisonnement maximal de six mois, ou de l'une de ces peines, quiconque effectue ou prétend effectuer un arpentage cadastral sur les terres du Canada ou sur des terrains privés dans un territoire sans être titulaire d'une licence ou agir sous la direction d'un titulaire de licence.
+Commet une infraction passible, sur déclaration de culpabilité par procédure sommaire, d'une amende maximale de 10 000 $ et d'un emprisonnement maximal de six mois, ou de l'une de ces peines, quiconque effectue **ou prétend effectuer** un arpentage cadastral sur les terres du Canada ou sur des terrains privés dans un territoire sans être titulaire d'**une licence** ou agir sous la direction d'un titulaire de **licence**.
 
 ### Section 70
 
@@ -1320,9 +1346,9 @@ Section 71 of the Act is replaced by the following:
 
 ### Section 71
 
-  **(1)** Subject to subsection 44(3), a notice or document required under any provision of this Act, the regulations or the by-laws to be served or delivered may be served personally or delivered electronically or by registered mail addressed to the person to whom the notice or document is to be given at the person's last known address.
+  **(1)** Subject to subsection 44(3), a notice or document required **under any provision of** this Act, **the regulations or the by-laws** to be served or delivered may be served personally or delivered **electronically or** by **registered** mail addressed to the person to whom the notice or document is to be given at the person's last known address.
 
-  **(2)** If a notice or document is delivered electronically or by registered mail, the delivery is deemed to have been made on the 10th day after the day on which it is sent unless the person to whom the notice or document is given establishes that the person, acting in good faith, through absence, illness or other cause beyond the person's control, did not receive the notice or document, or did not receive the notice or document until a later date.
+  **(2)** **If** a notice or document is delivered **electronically or** by **registered** mail, the delivery is deemed to have been made on the 10th day after the day **on which it is sent** unless the person to whom the notice or document is given establishes that the person, acting in good faith, through absence, illness or other cause beyond the person's control, did not receive the notice or document, or did not receive the notice or document until a later date.
 
 ### Section 73
 
@@ -1330,7 +1356,7 @@ Section 72 of the English version of the Act is replaced by the following:
 
 ### Section 72
 
-Any oath or affidavit mentioned in this Act may be taken before any judicial officer, notary public, commissioner for taking oaths or Canada Lands Surveyor.
+Any oath or affidavit mentioned in this Act may be taken before any judicial officer, notary public, commissioner for taking **oaths** or Canada Lands Surveyor.
 
 ### Section 74
 
@@ -1338,7 +1364,7 @@ Section 76 of the Act is replaced by the following:
 
 ### Section 76
 
-Every reference to the former Association in any deed, contract, agreement or other document executed or signed according to all the required formalities for their validity by the former Association shall, unless the context otherwise requires, be read as a reference to the new Association.
+Every reference to the former Association in any deed, contract, agreement or other document executed **or signed according to all the required formalities for their validity** by the former Association shall, unless the context otherwise requires, be read as a reference to the new Association.
 
 
 #### Transitional Provisions
@@ -1390,13 +1416,13 @@ For a period of two years after the commencement day, section 49.1 of the new Ac
 
 ### Section 6
 
-      **(1)** Subject to the regulations, no person shall import into Canada any animal or plant that was taken, or any animal or plant, or any part or derivative of an animal or plant, that was possessed, distributed or transported in contravention of any law of any foreign state.
+      **(1)** **Subject to the regulations**, no person shall import into Canada any animal or plant that was taken, or any animal or plant, or any part or derivative of an animal or plant, that was possessed, distributed or transported in contravention of any law of any foreign state.
 
   **(2)** Subsections 6(2) and (3) of the French version of the Act are replaced by the following:
 
-    **(2)** Sous réserve des règlements, il est interdit d'importer au Canada ou d'exporter hors du Canada — sauf en vertu d'un permis délivré en vertu du paragraphe 10(1) et conformément aux conditions qui s'y rattachent — tout ou partie d'un animal, d'un végétal ou d'un produit qui en provient.
+    **(2)** Sous réserve des règlements, il est interdit d'importer au Canada ou d'exporter hors du Canada — **sauf en vertu d'un permis délivré en vertu du paragraphe 10(1) et conformément aux conditions qui s'y rattachent** — tout ou partie d'un animal, d'un végétal ou d'un produit qui en provient.
 
-    **(3)** Sous réserve des règlements, il est interdit d'acheminer d'une province à l'autre — sauf en vertu d'un permis délivré en vertu du paragraphe 10(1) et conformément aux conditions qui s'y rattachent — tout ou partie d'un animal, d'un végétal ou d'un produit qui en provient.
+    **(3)** Sous réserve des règlements, il est interdit d'acheminer d'une province à l'autre — **sauf en vertu d'un permis délivré en vertu du paragraphe 10(1) et conformément aux conditions qui s'y rattachent** — tout ou partie d'un animal, d'un végétal ou d'un produit qui en provient.
 
 ### Section 81
 
@@ -1404,16 +1430,16 @@ Section 7 of the Act is replaced by the following:
 
 ### Section 7
 
-  **(1)** Subject to the regulations, if a licence issued by a competent authority in a province is required in order to transport any animal or plant, or any part or derivative of an animal or plant, out of the province, no person shall transport any animal, plant or part or derivative of an animal or plant from the province to another province except under and in accordance with such a licence.
+  **(1)** **Subject to the regulations, if** a **licence** issued by a competent authority in **a** province is **required in order to transport** any animal or plant, or any part or derivative of an animal or plant, out of **the** province, no person shall transport any animal, plant or part or derivative of an animal or plant from **the** province to another province except under and in accordance with such a **licence**.
 
-  **(2)** Subject to the regulations, no person shall transport from a province to another province any animal or plant, or any part or derivative of an animal or plant, if the animal or plant was taken, or the animal, plant, part or derivative was possessed, distributed or transported, in contravention of any provincial Act or regulation.
+  **(2)** **Subject to the regulations**, no person shall transport from a province to another province any animal or plant, or any part or derivative of an animal or plant, **if** the animal or plant was taken, or the animal, plant, part or derivative was possessed, distributed or transported, in contravention of any provincial Act or regulation.
 
 ### Section 82
 
 The heading before section 10 of the French version of the Act is replaced by the following:
 
 
-## Permis fédéral
+## **Permis fédéral**
 
 ### Section 83
 
@@ -1421,17 +1447,17 @@ The heading before section 10 of the French version of the Act is replaced by th
 
 ### Section 10
 
-      **(1)** Le ministre peut délivrer, sur demande et aux conditions qu'il estime indiquées, un permis autorisant l'importation, l'exportation ou l'acheminement interprovincial de tout ou partie d'un animal, d'un végétal ou d'un produit qui en provient.
+      **(1)** Le ministre peut délivrer, sur demande et aux conditions qu'il estime indiquées, **un permis** autorisant l'importation, l'exportation ou l'acheminement interprovincial de tout ou partie d'un animal, d'un végétal ou d'un produit qui en provient.
 
   **(2)** Subsection 10(3) of the French version of the Act is replaced by the following:
 
-    **(3)** Après avoir donné à l'intéressé la possibilité de faire valoir ses observations, le ministre peut annuler ou suspendre le permis en cas de contravention à toute condition dont il est assorti.
+    **(3)** Après avoir donné à l'intéressé la possibilité de faire valoir ses observations, le ministre peut annuler ou suspendre **le permis** en cas de contravention à **toute condition** dont **il** est **assorti**.
 
 ### Section 84
 
   **(1)** Paragraph 21(1)(a) of the French version of the Act is replaced by the following:
 
-    régir la délivrance, le renouvellement, l'annulation ou la suspension des permis et prévoir les cas de dispense;
+    régir la délivrance, le renouvellement, l'annulation ou la suspension des **permis** et prévoir les cas de dispense;
 
   **(2)** Subsection 21(2) of the Act is repealed.
 
@@ -1444,7 +1470,7 @@ The heading before section 10 of the French version of the Act is replaced by th
 
 ### Section 42
 
-      **(1)** Subject to subsections (2) and (3), the competent minister must include a proposed recovery strategy in the public registry within one year after the wildlife species is listed, in the case of a wildlife species listed as an endangered species, and within two years after the species is listed, in the case of a wildlife species listed as a threatened species or an extirpated species.
+      **(1)** Subject to **subsections** (2) **and (3)**, the competent minister must include a proposed recovery strategy in the public registry within one year after the wildlife species is listed, in the case of a wildlife species listed as an endangered species, and within two years after the species is listed, in the case of a wildlife species listed as a threatened species or an extirpated species.
 
   **(2)** Subsection 42(1) of the Act is replaced by the following:
 
@@ -1464,7 +1490,7 @@ The heading before section 10 of the French version of the Act is replaced by th
 
 ### Section 68
 
-      **(1)** Subject to subsections (2) and (2.1), the competent minister must include a proposed management plan in the public registry within three years after the wildlife species is listed as a species of special concern.
+      **(1)** Subject to **subsections** (2) **and (2.1)**, the competent minister must include a proposed management plan in the public registry within three years after the wildlife species is listed as a species of special concern.
 
   **(2)** Subsection 68(1) of the Act is replaced by the following:
 
@@ -1483,7 +1509,7 @@ The heading before section 10 of the French version of the Act is replaced by th
   **(1)** The heading before section 130 of the Act is replaced by the following:
 
 
-## Assessment of Wildlife Species Mentioned in Schedule 3
+## Assessment of Wildlife Species Mentioned in **Schedule 3**
 
   **(2)** The heading before section 130 of the Act is repealed.
 
@@ -1560,7 +1586,7 @@ Schedule 2 to the Act is repealed.
 
   **(2)** The fourth paragraph of the preamble to the French version of the Act is replaced by the following:
 
-    qu'il convient de faciliter cette commercialisation en autorisant l'institution de redevances et prélèvements pour une meilleure répartition ou la péréquation, entre producteurs, des sommes rapportées par la commercialisation des produits,
+    qu'il convient de faciliter cette commercialisation en autorisant l'institution de **redevances** et prélèvements pour une meilleure répartition ou la péréquation, entre producteurs, des sommes rapportées par la commercialisation des produits,
 
 ### Section 96
 
@@ -1568,11 +1594,11 @@ Sections 1.1 to 4 of the Act are replaced by the following:
 
 ### Section 2
 
-The following definitions apply in this Act.
+**The following definitions apply in this Act.**
 
 **administrative body** means an administrative body referred to in subsection 3(3). (**organisme administratif**)
 
-**agricultural product** includes wood. (**produit agricole**)
+**agricultural product** includes wood. **(**produit agricole**)**
 
 **marketing board** means a marketing board named in column 2 of the schedule. (**office de commercialisation**)
 
@@ -1582,21 +1608,21 @@ The following definitions apply in this Act.
 
 ### Section 3
 
-  **(1)** A marketing board may, in relation to the marketing of an agricultural product named or described in column 3 of the schedule, exercise in the market set out in column 4 all or any powers like the powers that it may exercise under the law of a province.
+  **(1)** **A marketing** board may, in relation to the marketing of **an** agricultural product **named or described in column 3 of the schedule**, exercise **in the market set out in column 4** all or any powers like the powers **that it may exercise under the law of a province**.
 
-  **(2)** A marketing board has the power, in relation to the marketing of an agricultural product named or described in column 3 of the schedule in the market set out in column 4,
+  **(2)** **A****marketing** board **has the power**, in relation to the marketing of **an** agricultural product **named or described in column 3 of the schedule** in **the market set out in column 4**,
 
-    to establish and impose levies or charges and to collect them from persons that are engaged in the production or marketing of the whole or any part of the agricultural product;
+    **to establish and** impose levies or charges and **to** collect **them** from persons **that are** engaged in the production or marketing of the whole or any part of **the** agricultural product;
 
-    for the purposes of paragraph (a), to classify those persons into groups and to establish the levies or charges payable by the members of the different groups in different amounts; and
+    **for the purposes of paragraph (a)**, **to** classify those persons into groups and **to establish** the levies or charges payable by the members of the different groups in different amounts; and
 
-    to use the levies or charges for the purposes of the marketing board, including
+    **to** use the levies or charges for the purposes of the **marketing** board, including
 
     the creation of reserves,
 
-    the payment of expenses and losses resulting from the sale or disposal of the agricultural product, and
+    the payment of expenses and losses resulting from the sale or disposal of **the** agricultural product, and
 
-    the equalization or adjustment among producers of the agricultural product of moneys realized from the sale of the product during any period or periods of time that the marketing board may determine.
+    the equalization or adjustment among producers of **the** agricultural product of moneys realized from the sale of **the product** during **any** period or periods of time **that** the **marketing** board may determine.
 
   **(3)** An administrative body may, in relation to the marketing of an agricultural product named or described in column 3 of the schedule, exercise in the market set out in column 4 all or any powers like the powers — with respect to approvals, supervision, arbitrations or appeals — that it may exercise under the law of a province.
 
@@ -1612,7 +1638,7 @@ The following definitions apply in this Act.
 
 ### Section 5
 
-A levy or charge imposed by a marketing board under section 3 constitutes a debt due to it and may be recovered by it in any court of competent jurisdiction.
+**A levy** or **charge** imposed by a **marketing** board under section **3****constitutes** a debt due to **it** and may be recovered by it in any court of competent jurisdiction.
 
 ### Section 6
 
@@ -1638,7 +1664,7 @@ In the event of a conflict between a requirement or other measure established by
 
 ### Section 9
 
-The Governor in Council may make regulations for carrying out the purposes and provisions of this Act.
+The Governor in Council may make regulations for carrying **out** the purposes and provisions of this Act.
 
 ### Section 97
 
@@ -1701,7 +1727,7 @@ A quota for the production of milk granted under the `Agricultural Products Mark
 The heading before section 5.2 of the Act is replaced by the following:
 
 
-## Registrations, Licences and Approvals
+## Registrations, Licences and **Approvals**
 
 ### Section 104
 
@@ -1719,7 +1745,7 @@ The Act is amended by adding the following after section 5.3:
 
 Subsection 9.1(2) of the Act is replaced by the following:
 
-**(2)** The notice must either be delivered personally to the owner or importer of the feed or to the person having possession, care or control of it or be sent to the owner, importer or person by any method that provides proof of delivery or by any prescribed method.
+**(2)** The notice must either be delivered personally to the owner or importer of the feed or to the person having possession, care or control of it or be sent to the **owner, importer** or **person** by **any method that provides proof of delivery or by any prescribed method**.
 
 
 ### `Fertilizers Act`
@@ -1767,7 +1793,7 @@ A person must not release a novel supplement, except in accordance with the regu
 The heading before section 5.2 of the Act is replaced by the following:
 
 
-## Registrations, Licences and Other Authorizations
+## Registrations, Licences and **Other Authorizations**
 
 ### Section 110
 
@@ -1791,7 +1817,7 @@ The Act is amended by adding the following after section 5.3:
 
 Subsection 9.1(2) of the Act is replaced by the following:
 
-**(2)** The notice must either be delivered personally to the owner or importer of the fertilizer or supplement or to the person having possession, care or control of it or be sent to the owner, importer or person by any method that provides proof of delivery or by any prescribed method.
+**(2)** The notice must either be delivered personally to the owner or importer of the fertilizer or supplement or to the person having possession, care or control of it or be sent to the **owner, importer** or **person** by **any method that provides proof of delivery or by any prescribed method**.
 
 
 ### `Seeds Act`
@@ -1834,7 +1860,7 @@ Section 2 of the `Seeds Act` is amended by adding the following in alphabetical 
 
 Subsection 8.1(2) of the Act is replaced by the following:
 
-**(2)** The notice must either be delivered personally to the owner or importer of the seed or to the person having possession, care or control of it or be sent to the owner, importer or person by any method that provides proof of delivery or by any prescribed method.
+**(2)** The notice must either be delivered personally to the owner or importer of the seed or to the person having possession, care or control of it or be sent to the **owner, importer** or **person** by **any method that provides proof of delivery or by any prescribed method**.
 
 
 ### `Health of Animals Act`
@@ -1875,7 +1901,7 @@ Subsection 18(2) of the Act is replaced by the following:
 
 ### Section (2)
 
-The notice must either be delivered personally to the owner or importer of the animal or thing or to the person having possession, care or control of it or be sent to the owner, importer or person by any method that provides proof of delivery or by any prescribed method.
+The notice must either be delivered personally to the owner or importer of the animal or thing or to the person having possession, care or control of it or be sent to the **owner, importer** or **person** by **any method that provides proof of delivery or by any prescribed method**.
 
 ### Section 119
 
@@ -1908,17 +1934,17 @@ are, or are suspected of being, vectors, the causative agents of disease or toxi
 
   **(2)** Paragraph 26(b) of the Act is replaced by the following:
 
-    the infected place is located in an area that the Minister has declared to be a primary control zone in respect of that disease or toxic substance and, in the opinion of the inspector or officer, it is no longer necessary for that place to be constituted to be an infected place under either of those sections to prevent the spread of that disease or toxic substance outside of that place.
+    the infected place is located in an area that the Minister has declared to be a primary control zone in respect of that disease or toxic substance **and, in the opinion of the inspector or officer, it is no longer necessary for that place to be constituted to be an infected place under either of those sections to prevent the spread of that disease or toxic substance outside of that place**.
 
 ### Section 121
 
   **(1)** The portion of paragraph 64(1)(f) of the French version of the Act before subparagraph (i) is replaced by the following:
 
-    contrôler ou éliminer des vecteurs, des maladies et des substances toxiques ou en empêcher la propagation et prendre toute mesure — notamment l'isolation, la mise en quarantaine, le traitement ou la destruction — à l'égard de telles substances ainsi que des animaux ou choses qui :
+    contrôler **ou** éliminer **des** vecteurs, **des** maladies et **des** substances toxiques **ou en** empêcher la propagation et prendre toute mesure — notamment l'isolation, la mise en quarantaine, le traitement ou la destruction — à l'égard de telles substances ainsi que des animaux ou choses qui :
 
   **(2)** Paragraph 64(1)(s) of the Act is replaced by the following:
 
-    prohibiting or regulating the importation, exportation, preparation, manufacturing, preserving, packaging, labelling, storing, testing, transportation, sale, conditions of sale, advertising for sale, use, release and disposal of veterinary biologics and regulating their purity, potency, efficacy and safety;
+    prohibiting or regulating the importation, exportation, preparation, manufacturing, preserving, packaging, labelling, storing, testing, transportation, sale, conditions of sale, advertising for sale, use, **release** and disposal of veterinary biologics and regulating their purity, potency, efficacy and safety;
 
   **(3)** Subsection 64(1) of the Act is amended by adding the following after paragraph (s.1):
 
@@ -1975,14 +2001,14 @@ Subject to the regulations, the Minister may renew, amend, suspend or revoke a l
 
 Subsection 8(2) of the `Plant Protection Act` is replaced by the following:
 
-**(2)** The notice must either be delivered personally to the owner or importer of the thing or to the person having possession, care or control of it or be sent to the owner, importer or person by any method that provides proof of delivery or by any prescribed method.
+**(2)** The notice must either be delivered personally to the owner or importer of the thing or to the person having possession, care or control of it or be sent to the **owner, importer** or **person** by **any method that provides proof of delivery or by any prescribed method**.
 
 ### Section 125
 
 The heading before section 47.2 of the Act is replaced by the following:
 
 
-## Authorizations, Permits and Other Documents
+## Authorizations, **Permits and Other Documents**
 
 ### Section 126
 
@@ -2047,19 +2073,19 @@ any other requirements that may be provided for in regulations made under sectio
 
 Paragraph (a) of the definition **food commodity** in section 2 of the `Safe Food for Canadians Act` is replaced by the following:
 
-any food as defined in section 2 of the `Food and Drugs Act`, taking into account that that definition is subject to section 2.4 of that Act;
+any food as defined in section 2 of the `Food and Drugs Act`, **taking into account that that definition is subject to section 2.4 of that Act**;
 
 ### Section 129
 
 Subsection 32(2) of the Act is replaced by the following:
 
-**(2)** The notice must either be delivered personally to the owner or importer of the food commodity or to the person having possession, care or control of it or be sent to the owner, importer or person by any method that provides proof of delivery or by any prescribed method.
+**(2)** The notice must either be delivered personally to the owner or importer of the food commodity or to the person having possession, care or control of it or **be** sent to the **owner, importer** or **person** by **any method that provides proof of delivery or by any prescribed method**.
 
 ### Section 130
 
   **(1)** Subsection 56(2) of the Act is amended by striking out "and" at the end of paragraph (c) and by replacing paragraph (d) with the following:
 
-    one year after the interim order is made or any shorter period that may be specified in the interim order, unless it is extended by the Governor in Council, and
+    one year after the interim order is made or any shorter period that may be specified in the interim order, **unless it is extended by the Governor in Council**, and
 
     the day that is specified in the order of the Governor in Council, if the Governor in Council extends the interim order.
 
@@ -2067,7 +2093,7 @@ Subsection 32(2) of the Act is replaced by the following:
 
     **(2.1)** The Governor in Council may extend the interim order for a period of no more than two years after the end of the applicable period referred to in paragraph (2)(d).
 
-    **(3)** A person is not to be determined to have committed a violation, or to be found guilty of an offence, that consists of a contravention of an interim order that, at the time of the alleged contravention, had not been published in the Canada Gazette unless it is proved that, at the time of the alleged contravention,
+    **(3)** A person is not to be determined to have committed a violation, or to be **found guilty** of an offence, that consists of a contravention of an interim order that, at the time of the alleged contravention, had not been published in the Canada Gazette unless it is proved that, at the time of the alleged contravention,
 
       the person had been notified of the interim order; or
 
@@ -2085,34 +2111,506 @@ Subsection 32(2) of the Act is replaced by the following:
   **(3)** Sections `125` and `126` come into force on a day to be fixed by order of the Governor in Council.
 
 
+## Pest Control Products Act
+
+
+### Amendments to the Act
+
+### Section 132
+
+  **(1)** The definitions **environmental risk** and **health risk** in subsection 2(1) of the `Pest Control Products Act` are replaced by the following:
+
+    **environmental risk**, in respect of a pest control product, means the possibility of harm to the environment, including its biological diversity, resulting from exposure to or use of the product, taking into account its conditions of registration or **conditions of authorization or** proposed conditions **of registration or proposed conditions of authorization, as the case may be**. (**risque environnemental**)
+
+    **health risk**, in respect of a pest control product, means the possibility of harm to human health resulting from exposure to or use of the product, taking into account its conditions of registration or **conditions of authorization or** proposed conditions **of registration or proposed conditions of authorization, as the case may be**. (**risque sanitaire**)
+
+  **(2)** Paragraph (a) of the definition **conditions of registration** in subsection 2(1) of the Act is replaced by the following:
+
+    any conditions specified by the Minister under paragraph 8(1)(a) or subsection 8(2) or when amending **or renewing** the registration of a pest control product under this Act; and
+
+  **(3)** The portion of the definition **value** in subsection 2(1) of the Act before paragraph (a) is replaced by the following:
+
+    **value**, in respect of a pest control product, means the product's actual or potential contribution to pest management, taking into account its conditions of registration or **conditions of authorization or** proposed conditions **of registration or proposed conditions of authorization, as the case may be**, and includes the product's
+
+  **(4)** Subsection 2(1) of the Act is amended by adding the following in alphabetical order:
+
+    **conditions of authorization** means
+
+    any conditions specified by the Minister under subsection 41(1.1) or when amending or renewing an authorization made under section 41; and
+
+    any other requirements stated by this Act or the regulations to be conditions of authorization. (**conditions d'autorisation**)
+
+  **(5)** Paragraph (a) of the definition **conditions of authorization** in subsection 2(1) of the Act is replaced by the following:
+
+    any conditions specified by the Minister under subsection 41(1.1) or `41.02`(2) or when amending or renewing an authorization made under section 41 or `41.02`; and
+
+  **(6)** Subsection 2(2) of the Act is replaced by the following:
+
+    **(2)** For the purposes of this Act, the health **risks** or environmental risks of a pest control product are acceptable if there is reasonable certainty that no harm to human health, future generations or the environment will result from exposure to or use of the product, taking into account its conditions of registration or proposed conditions **of registration or conditions of authorization or proposed conditions of authorization, as the case may be**.
+
+### Section 133
+
+  **(1)** Subsection 6(1) of the Act is replaced by the following:
+
+### Section 6
+
+      **(1)** No person shall manufacture, possess, handle, store, transport, import, distribute or use a pest control product that is not registered under this Act, except as otherwise authorized under **subsections** 21(5), 41(1) or **`41.02`(1)**, section 48 or 51, any of sections 53 to 59 or the regulations.
+
+  **(2)** Subsection 6(3) of the Act is replaced by the following:
+
+    **(2.1)** Except as otherwise authorized under section 53.3 or 54, no person shall manufacture, import, export or distribute a pest control product that is referred to in an authorization under section 41 unless the conditions of authorization respecting the product's composition and any other conditions of authorization have been complied with.
+
+    **(3)** Except as otherwise authorized under section 53, 53.3 or 54, no person shall store, import, export or distribute a pest control product that is not packaged and labelled in accordance with the regulations and,
+
+      if **the product** is registered, the conditions of registration; **and**
+
+      if the product is the subject of an authorization issued to a person under section 41, the conditions of authorization.
+
+  **(3)** Subsections 6(2.1) and (3) of the Act are replaced by the following:
+
+    **(2.1)** Except as otherwise authorized under section 53.3 or 54, no person shall manufacture, import, export or distribute a pest control product that is referred to in an authorization under section 41 or 41.02, unless the conditions of authorization respecting the product's composition and any other conditions of authorization have been complied with.
+
+    **(3)** Except as otherwise authorized under section 53, 53.3 or 54, no person shall store, import, export or distribute a pest control product that is not packaged and labelled in accordance with the regulations and,
+
+      if the product is registered, the conditions of registration; and
+
+      if the product is the subject of an authorization issued to a person under section 41 or if the product is authorized under section 41.02, the conditions of authorization.
+
+  **(4)** Paragraph 6(5)(b) of the Act is replaced by the following:
+
+    if the product is registered **or if it is the subject of an authorization under section 41**, the directions on the label recorded in the Register, subject to the regulations.
+
+  **(5)** Paragraph 6(5)(b) of the Act is replaced by the following:
+
+    if the product is registered or if it is the subject of an authorization under section 41 or if it is authorized under section 41.02, the directions on the label recorded in the Register, subject to the regulations.
+
+  **(6)** Subsection 6(7) of the Act is replaced by the following:
+
+    **(7)** No person shall package, label or advertise a pest control product in a way that is false, misleading or likely to create an erroneous impression regarding its character, value, quantity, composition, safety, registration or **authorization**.
+
+### Section 134
+
+The heading "Applications for Registration or Amendment" before section 7 of the Act is replaced by the following:
+
+
+### Applications for Registration, Amendment or **Renewal**
+
+### Section 135
+
+Subsection 7(1) of the Act is replaced by the following:
+
+### Section 7
+
+  **(1)** An application to register a pest control product or to amend **or renew** the product's registration **shall** be made to the Minister in the form and manner directed by the Minister and **shall** include any information or other thing that is required by the regulations to accompany the application.
+
+### Section 136
+
+The Act is amended by adding the following after section 7:
+
+### Section 7.1
+
+  **(1)** On receiving an application under section 7, if the Minister determines that the pest control product meets the prescribed criteria referred to in paragraph `41.02`(1)(a), the Minister may refuse the application and evaluate the product for an authorization under section `41.02`.
+
+  **(2)** If the Minister refuses the application and evaluates the product for an authorization under section `41.02`, the Minister shall provide the applicant with written reasons.
+
+### Section 137
+
+  **(1)** The portion of subsection 8(1) of the Act before paragraph (a) is replaced by the following:
+
+### Section 8
+
+      **(1)** If the Minister considers that the health **risks** and environmental risks and the value of the pest control product are acceptable after any required evaluations and consultations have been completed, the Minister shall register the product or amend **or renew** its registration in accordance with the regulations, if any, by
+
+  **(2)** Paragraph 8(1)(c) of the Act is replaced by the following:
+
+    specifying the period for which the registration or amended **or renewed** registration is valid, which period may be either finite or indefinite.
+
+### Section 138
+
+The Act is amended by adding the following after section 8:
+
+### Section 8.1
+
+If the Minister determines that a registered pest control product meets the prescribed criteria referred to in paragraph `41.02`(1)(a), the Minister may, at any time and with the written consent of the registrant, convert the product's registration to an authorization under section `41.02`, based on that prescribed criteria for the product or class of products.
+
+### Section 139
+
+The heading before section 41 of the Act is replaced by the following:
+
+
+## Authorization — **Persons**
+
+
+### **Authorization Issued by Minister**
+
+### Section 140
+
+Subsections 41(1) to (3) of the Act are replaced by the following:
+
+### Section 41
+
+  **(1)** The Minister may, **on request and** subject to **subsections (1.1) to (1.4)** and in accordance with the regulations, authorize a person **or amend or renew an authorization for the person** to **manufacture, handle, store, transport, import, export, distribute**, use **or dispose of a** pest control product **or a class of pest control products**.
+
+  **(1.1)** The Minister may, in accordance with the regulations, if any, specify any conditions of authorization
+
+    respecting the manufacture, handling, storage, transport, import, export, distribution, use or disposition of, including conditions of authorization relating to the composition of the product or class of products;
+
+    respecting the recording, retaining and reporting to the Minister of information on sales of the product or the class of products within the time and in the form and manner directed by the Minister; and
+
+    respecting the reporting of information that relates to the health risks or environmental risks or, if applicable, the value of the product or class of products to the Minister within the time and in the form and manner directed by the Minister.
+
+  **(1.2)** Paragraphs (1.1)(b) and (c) continue to apply, in accordance with the regulations, to a person authorized under this section whose authorization ceases to have effect.
+
+  **(1.3)** The Minister may modify or delete any conditions of authorization if the Minister considers it necessary
+
+    for the purpose of addressing additional information related to a change in the product's or class of products' health risks or environmental risks or, if applicable, value; or
+
+    for the purpose of clarifying, correcting or updating information relevant to the authorization.
+
+  **(1.4)** Before issuing, amending or renewing the authorization, the Minister may consider if the value of the product or class of products is acceptable.
+
+  **(2)** The Minister shall **issue, amend or renew the authorization** if the Minister considers that the **manufacture, handling, storage, transportation, importation, distribution or** use of the product **or class** of **products** for the specified purpose in accordance with any conditions **of authorization** specified does not pose health **risks and** environmental risks **that are** unacceptable and, if applicable**, the value of the** product or **class of products is acceptable**.
+
+  **(2.1)** The Minister shall specify the period, in accordance with the regulations, if any, for which the authorization or amended or renewed authorization is to be valid, which period may be either finite or indefinite.
+
+  **(2.2)** The Minister may, by delivering a notice in writing, require a person who makes a request under subsection (1) to provide the Minister with other information in support of the application within the time and in the form specified in the notice.
+
+  **(2.3)** The Minister shall deny the request if the person who made the request under subsection (1) does not comply with the notice.
+
+  **(3)** The Minister **may** suspend an authorization, if the Minister has reasonable grounds to believe that the conditions **of authorization** to which the authorization is subject have not been or will not be met **and the Minister** shall **suspend an authorization if the Minister has reasonable grounds to believe** that the continuance of the authorization poses unacceptable health **risks** or environmental risks.
+
+### Section 141
+
+The Act is amended by adding the following after section 41:
+
+
+### Re-evaluation
+
+### Section 41.01
+
+  **(1)** If the Minister initiates a re-evaluation in respect of a registered active ingredient contained in a pest control product that is the subject of an authorization issued to a person under section `41`, the Minister may include that pest control product in the re-evaluation.
+
+  **(2)** If the Minister determines that the product is to be included in the re-evaluation, the provisions of this Act and regulations that apply to the re-evaluation of a registered active ingredient apply to the re-evaluation of the product with any necessary modifications.
+
+### Section 142
+
+The Act is amended by adding the following after section 41.01:
+
+
+## Authorization – Pest Control Products
+
+
+### Authorization Issued by Minister
+
+### Section 41.02
+
+  **(1)** The Minister may, subject to subsections (2) and (4) and in accordance with the regulations, authorize a pest control product or class of pest control products or amend or renew the authorization for the product, to be manufactured, handled, stored, transported, imported, exported, distributed, used or disposed of by any person, if the Minister considers
+
+    that the product or class of products meets the prescribed criteria;
+
+    that the health risks and environmental risks of the product or class of products are acceptable; and
+
+    the value of the product or class of products to be acceptable.
+
+  **(2)** The Minister may, in accordance with the regulations, if any, specify any conditions of authorization
+
+    respecting the manufacture, handling, storage, transport, import, export, distribution, use or disposition of, including conditions of authorization relating to the composition of the product or class of products;
+
+    respecting the recording, retaining and reporting to the Minister, information on sales of the product or the class of products within the time and in the form and manner directed by the Minister; and
+
+    respecting the reporting of any information that relates to the health risks or environmental risks or the value of the product or class of products to the Minister within the time and in the form and manner directed by the Minister.
+
+  **(3)** Paragraphs (2)(b) and (c) continue to apply, in accordance with the regulations, to a person who was engaged in an activity referred to in subsection (1) in respect of a product or class of products whose authorization has ceased to have effect.
+
+  **(4)** The Minister may modify or delete any conditions of authorization if the Minister considers it necessary
+
+    for the purpose of addressing additional information related to a change in the product's or class of products' health risks or environmental risks or value; or
+
+    for the purpose of clarifying, correcting or updating information relevant to the authorization.
+
+  **(5)** The Minister shall specify the period, in accordance with the regulations, if any, for which the authorization or amended or renewed authorization is to be valid, which period may be either finite or indefinite.
+
+  **(6)** Despite subsection (1), the Minister may determine that
+
+    a product or class of products that meets the prescribed criteria for an authorization should be the subject of an application under section 7 for registration; and
+
+    a product or class of products referred to in paragraph (a) is not to be the subject of a determination for an authorization or its amendment or renewal under this section.
+
+  **(7)** The Minister may suspend an authorization if the Minister has reasonable grounds to believe that the conditions of authorization have not been or will not be met and the Minister shall suspend an authorization if the Minister has reasonable grounds to believe that the continuance of the authorization poses unacceptable health risks or environmental risks.
+
+  **(8)** If the Minister is considering issuing an authorization under this section, the Minister shall consult the public and federal and provincial government departments and agencies whose interests and concerns are affected by the federal regulatory system, on the authorization and any conditions of authorization, before making a decision to issue it.
+
+  **(9)** The Minister shall consult the public and federal and provincial government departments and agencies whose interests and concerns are affected by the federal regulatory system, before making a decision
+
+    about the reinstatement, amendment or cancellation of an authorization after its suspension; and
+
+    about any other matter in relation to an authorization if the Minister considers it in the public interest to do so.
+
+  **(10)** The Minister shall invite any person to send written comments on the proposed decision and specify the period within which any comments are to be received.
+
+  **(11)** The Minister shall consider any comments received before making a decision.
+
+  **(12)** The Minister shall reinstate, amend or cancel the authorization referred to in paragraph (9)(a) after considering the **comments that are received**.
+
+  **(13)** For greater certainty, an authorization that is issued, amended or renewed under this section is not a statutory instrument within the meaning of the `Statutory Instruments Act`.
+
+
+### **Re-evaluation**
+
+### Section 41.03
+
+  **(1)** If the Minister initiates a re-evaluation in respect of a registered active ingredient that is contained in a pest control product that has been authorized under section `41.02`, the Minister may include that pest control product in the re-evaluation.
+
+  **(2)** If the Minister determines that the product is to be included in the re-evaluation, the provisions of this Act and regulations that apply to the re-evaluation of the registered active ingredient apply to the re-evaluation of the product with any necessary modifications.
+
+### Section 143
+
+  **(1)** The portion of paragraph 42(2)(a) of the Act before subparagraph (i) is replaced by the following:
+
+    for each application to register, amend or **renew** the registration of a pest control product,
+
+  **(2)** Subparagraph 42(2)(c)(i) of the Act is replaced by the following:
+
+    in support of an application for registration or for the amendment **or renewal** of a registration, or
+
+  **(3)** Paragraph 42(2)(n) of the Act is replaced by the following:
+
+    authorizations under sections 33 and 41 and amendments and cancellations **of authorizations** under sections 34 and 41 and **renewals of authorizations under section 41**;
+
+    orders for recalls and for the taking of measures under this Act; and
+
+  **(4)** Paragraph 42(2)(n) of the Act is replaced by the following:
+
+    authorizations under sections 33, 41 and 41.02 and amendments and cancellations of authorizations under sections 34, 41 and 41.02 and renewals of authorizations under sections 41 and 41.02;
+
+### Section 144
+
+  **(1)** Subparagraph 43(1)(b)(ii) of the Act is replaced by the following:
+
+    that the person does not intend to use the test data, or make the test data available to others, in order to register a pest control product in Canada or elsewhere or to amend **or renew** a registration.
+
+  **(2)** Paragraphs 43(2)(a) and (b) of the Act are replaced by the following:
+
+    use the test data in order to register a pest control product in Canada or elsewhere, or to amend **or renew** a registration; or
+
+    make the test data available to others for the purpose of registering a pest control product in Canada or elsewhere, or of amending **or renewing** a registration.
+
+### Section 145
+
+The Act is amended by adding the following after section 44:
+
+
+### **Orders for Recall and for Taking of Measures**
+
+### Section 44.1
+
+  **(1)** If the Minister believes on reasonable grounds that a pest control product or a class of pest control products endangers human health or safety or the environment, the Minister may, by order, direct a registrant, person authorized under section 41 or person who manufactures, imports, exports or distributes the product or class of products to recall it.
+
+  **(2)** The order must be provided in the form of a written notice and must include
+
+    a statement of the reasons for the recall; and
+
+    the time and manner in which the recall is to be carried out.
+
+### Section 44.2
+
+  **(1)** The Minister may, by order, direct a registrant, person authorized under section 41 or person who manufactures, imports, exports or distributes a pest control product or class of pest control products to take any measure referred to in subsection (2) if
+
+    the Minister has made an order under section `44.1` with respect to the product or class of products; or
+
+    the Minister believes on reasonable grounds that the product is the subject of a measure or recall undertaken voluntarily by the registrant, person authorized under section 41 or person who manufactures, imports, exports or distributes the product or class of products.
+
+  **(2)** The measures include stopping the manufacturing, handling, importing, exporting, storing, distributing, testing or transporting of the product or class of products or causing any of those activities to be stopped.
+
+  **(3)** The order must be provided in the form of a written notice and must include
+
+    a statement of the reasons for the measure; and
+
+    the time and manner in which the measure is to be carried out.
+
+### Section 44.3
+
+If a person does not comply with an order made under section `44.1` or `44.2` within the time specified, the Minister may, on his or her own initiative and at that person's expense, carry out the recall or measure required.
+
+### Section 44.4
+
+The Minister may designate any individual or class of individuals that are qualified as review officers for the purpose of reviewing an order under section `44.5`.
+
+### Section 44.5
+
+  **(1)** Subject to any other provision of this section, an order that is made under section `44.1` or `44.2` shall be reviewed on the written request of the person who was ordered to recall a pest control product or class of pest control products or to take another measure — but only on grounds that involve questions of fact alone or questions of mixed law and fact — by a review officer other than the individual who made the order.
+
+  **(2)** The written request must state the grounds for review and set out the evidence — including evidence that was not considered by the individual who made the order — that supports those grounds and the decision that is sought. It shall be provided to the Minister within seven days after the day on which the order was provided or, in the event of a serious and imminent danger to human health or safety or to the environment, any shorter period that may be specified in the order.
+
+  **(3)** The review is not to be done if the request does not comply with subsection (2) or is frivolous, vexatious or not made in good faith.
+
+  **(4)** The person who made the request shall, without delay, be notified in writing of the reasons for the refusal.
+
+  **(5)** A review officer — other than the individual who made the order — may review an order, whether or not a request is made under subsection (1).
+
+  **(6)** An order continues to apply during a review unless the review officer decides otherwise.
+
+  **(7)** A review officer shall complete the review no later than 30 days after the day on which the request is provided to the Minister.
+
+  **(8)** The review officer may extend the review period by no more than 30 days if they are of the opinion that more time is required to complete the review. They may extend the review period more than once.
+
+  **(9)** If the review period is extended, the person who made the request shall, without delay, be notified in writing of the reasons for extending it.
+
+  **(10)** On completion of a review, the review officer shall confirm, amend, cancel or terminate the order.
+
+  **(11)** The person who made the request or, if there is no request, the person who was ordered to recall the pest control product or to take another measure shall, without delay, be notified in writing of the reasons for the review officer's decision under subsection (10).
+
+  **(12)** An order that is amended is subject to review under this section.
+
+### Section 44.6
+
+  **(1)** Every person who does not comply with an order made under subsection `44.1`(1) is guilty of an offence.
+
+  **(2)** Every person who does not comply with an order made under subsection `44.2`(1) is guilty of an offence.
+
+  **(3)** Every person who commits an offence under subsection (1) or (2) is liable
+
+    on summary conviction, to a fine of not more than $200,000 or to imprisonment for a term of not more than six months, or to both; or
+
+    on conviction on indictment, to a fine of not more than $500,000 or to imprisonment for a term of not more than three years, or to both.
+
+### Section 44.7
+
+  **(1)** An order made under section `44.1` or `44.2` is not a regulation within the meaning of the `Statutory Instruments Act`.
+
+  **(2)** A person shall not be convicted of an offence under subsection `44.6`(1) or (2) unless the person was notified of the order.
+
+### Section 146
+
+  **(1)** Subparagraph 57(1)(b)(ii) of the Act is replaced by the following:
+
+    manufacturing, handling, storing, transporting, importing, exporting, distributing or using a pest control product in accordance with the conditions of registration **or conditions of authorization**.
+
+  **(2)** Subsection 57(3) of the Act is replaced by the following:
+
+    **(3)** An order under subsection (1) shall be communicated by delivering a written notice to the registrant, **the person authorized under section 41** or, as the case may be, to the person having possession, care or control of the pest control product, activity or thing that was involved in the contravention **or the** owner **of that product or thing** and the notice **shall** be accompanied by a statement of the reasons for the order.
+
+  **(3)** Subsection 57(3) of the Act is replaced by the following:
+
+    **(3)** An order under subsection (1) shall be communicated by delivering a written notice to the registrant, the person authorized under section 41, the person who manufactures, imports, exports or distributes a pest control product or class of pest control products under section 41.02 or, as the case may be, to the person having possession, care or control of the pest control product, activity or thing that was involved in the contravention or the owner of that product or thing and the notice **shall** be accompanied by a statement of the reasons for the order.
+
+### Section 147
+
+  **(1)** The portion of subsection 62(2) of the Act before paragraph (a) is replaced by the following:
+
+    **(2)** An applicant for registration of a pest control product or **a person who requests an authorization under section 41**, a registrant **or a person authorized under section 41**, who does not reside in Canada, shall
+
+  **(2)** Subsections 62(3) and (4) of the Act are replaced by the following:
+
+    **(3)** Any correspondence, notices or documents received by the representative designated under subsection (2) are deemed to have been received by the **person referred to in that subsection** who designated the representative.
+
+    **(4)** The Minister may require **a person** referred to in subsection (2) to conduct any communications with the Minister through the designated representative of **that person**.
+
+### Section 148
+
+  **(1)** The portion of paragraph 67(1)(f) of the Act before subparagraph (i) is replaced by the following:
+
+    respecting the registration of pest control products, including **the issuance, amendment, renewal, suspension or cancellation of registration, the addition, modification or deletion of conditions of registration and** the types of registration for classes of products, and, for each type,
+
+  **(2)** Subparagraph 67(1)(f)(ii) of the Act is replaced by the following:
+
+    the period or maximum period for which the **registration, amended or renewed** registration is valid, which periods may be either finite or indefinite;
+
+  **(3)** Paragraph 67(1)(g) of the Act is replaced by the following:
+
+    **respecting** which requirements of the regulations are conditions of registration **or conditions of authorization**;
+
+  **(4)** Paragraph 67(1)(k) of the Act is replaced by the following:
+
+    respecting an authorization under section 41, including the issuance, amendment, renewal, suspension or cancellation of the authorization, the addition, modification or deletion of conditions of authorization and the types of authorization for classes of products, and, for each type,
+
+    the criteria and characteristics, and
+
+    the period or maximum period for which the authorization or amended or renewed authorization is valid, which periods may be either finite or indefinite;
+
+    respecting information that may be required by the Minister for the purposes of issuing, amending, renewing, suspending or cancelling an authorization under section 41, or adding, modifying or deleting any conditions of authorization;
+
+  **(5)** Paragraphs 67(1)(k) and (k.1) of the Act are replaced by the following:
+
+    respecting an authorization under section 41 or 41.02, including the issuance, amendment, renewal, suspension or cancellation of the authorization, the addition, modification or deletion of conditions of authorization and the types of authorization for classes of products, and, for each type,
+
+    the criteria and characteristics, and
+
+    the period or maximum period for which the authorization or amended or renewed authorization is valid, which periods may be either finite or indefinite;
+
+    respecting information that may be required by the Minister for the purposes of issuing, amending, renewing, suspending or cancelling an authorization under section 41 or 41.02, or adding, modifying or deleting any conditions of authorization;
+
+  **(6)** Paragraph 67(1)(t) of the Act is replaced by the following:
+
+    respecting the keeping of records by registrants, **persons authorized under section 41 and persons who manufacture, handle, store, transport, import, export, distribute, use or dispose of** pest control products, in relation to the products that they manufacture, **handle**, store, **transport**, import, export, distribute, use, or dispose of and the requirements for making those records available to the Minister;
+
+  **(7)** Subsection 67(1) of the Act is amended by adding the following after paragraph (u):
+
+    respecting the recording, by a person authorized under section 41, of information on the sale of a pest control product or class of pest control products or of information that relates to the health risks or environmental risks or the value of the product or class of products, the retention and reporting to the Minister of such information by the person authorized under section 41 and by the person whose authorization under that section ceases to have effect and the use of such information by the Minister;
+
+  **(8)** Subsection 67(1) of the Act is amended by adding the following after paragraph (u.1):
+
+    respecting the recording, by a person who manufactures, imports, exports and distributes a pest control product or class of pest control products that is authorized under section 41.02, of information on the sale of the product or class of products or of information that relates to the health risks or environmental risks or the value of the product or class of products, the retention and reporting to the Minister of such information by them and by the person who manufactured, imported, exported and distributed the product or class of products authorized under section 41.02 after the authorization ceases to have effect and the use of such information by the Minister;
+
+  **(9)** Paragraph 67(1)(w) of the Act is replaced by the following:
+
+    respecting the inspection and operation of establishments in which pest control products are manufactured;
+
+
+### Transitional Provisions
+
+### Section 149
+
+Unless the context otherwise requires, words and expressions used in sections `150` and `151` have the same meaning as in subsection 2(1) of the `Pest Control Products Act`.
+
+### Section 150
+
+Section 7.1 of the `Pest Control Products Act`, as enacted by section `136` of this Act, also applies to an application for registration or amendment or renewal of registration that has not been decided by the Minister before the day on which that section `136` comes into force.
+
+### Section 151
+
+The Minister may include a pest control product that is authorized under section 41.02 of the `Pest Control Products Act` in a re-evaluation if, on the day on which section `142` of this Act comes into force, the registered active ingredient
+
+is subject to a re-evaluation that has already been initiated under section 16 of the `Pest Control Products Act`, as it read before the day on which section `142` of this Act came into force; and
+
+is contained in the authorized pest control product.
+
+
+### Coming into Force
+
+### Section 152
+
+Subsections `132`(5) and `133`(1), (3) and (5), sections `136`, `138` and `142` and subsections `143`(4), `146`(3) and `148`(5) and (8) come into force on a day to be fixed by order of the Governor in Council.
+
+
 ## Fisheries and Oceans
 
 
 ### Coastal Fisheries Protection Act
 
-### Section 132
+### Section 153
 
 The `Coastal Fisheries Protection Act` is amended by adding the following after section 6:
 
 ### Section 6.1
 
-The licences and permits referred to in paragraph 6(a) are not statutory instruments for the purposes of the `Statutory Instruments Act`.
+**The licences and permits referred to in paragraph 6(a) are not statutory instruments for the purposes of the `Statutory Instruments Act`.**
 
-### Section 133
+### Section 154
 
 Subsection 17(1) of the Act is amended by striking out "or" at the end of paragraph (c), by adding "or" at the end of paragraph (d) and by adding the following after paragraph (d):
 
 contravenes any term or condition of a licence or permit issued under this Act.
 
-### Section 134
+### Section 155
 
   **(1)** The portion of subsection 18(3) of the Act before paragraph (a) is replaced by the following:
 
-    **(3)** Every person who commits an offence under paragraph 17(1)(a), (b), (c) or (e) is liable
+    **(3)** Every person who commits an offence under paragraph 17**(1)**(a), (b), (c) or **(e)** is liable
 
   **(2)** The portion of subsection 18(4) of the Act before paragraph (a) is replaced by the following:
 
-    **(4)** Every person who commits an offence under paragraph 17(1)(d) is liable
+    **(4)** Every person who commits an offence under paragraph 17**(1)**(d) is liable
 
 
 ### Fisheries Act
@@ -2120,13 +2618,13 @@ contravenes any term or condition of a licence or permit issued under this Act.
 
 #### Amendments to the Act
 
-### Section 135
+### Section 156
 
 Paragraph 86.2(1)(g) of the `Fisheries Act` is replaced by the following:
 
 the alleged offender and the Attorney General have entered into an alternative measures agreement;
 
-### Section 136
+### Section 157
 
 The Act is amended by adding the following after section 86.96:
 
@@ -2137,7 +2635,7 @@ For greater certainty, nothing in sections 86.1 to 86.96 limits a fishery office
 
 #### Transitional Provision
 
-### Section 137
+### Section 158
 
 Paragraph 86.2(1)(g) of the `Fisheries Act`, as enacted by section `156`, applies to every alleged offender who, on the day on which that section comes into force, has been provided with initial disclosure of the Crown's evidence.
 
@@ -2147,7 +2645,7 @@ Paragraph 86.2(1)(g) of the `Fisheries Act`, as enacted by section `156`, applie
 
 ### Department of Citizenship and Immigration Act
 
-### Section 138
+### Section 159
 
 The `Department of Citizenship and Immigration Act` is amended by adding the following after section 5.2:
 
@@ -2164,12 +2662,7 @@ Subject to any regulations made under section `5.7`, the Minister may, for the p
 
 ### Section 5.5
 
-Subject to any regulations made under section `5.7`, and under a written agreement or
-arrangement that defines the elements of
-personal information, the purpose for
-disclosure, any limits on secondary use and
-onward transfer of personal information, and
-other relevant details, the Minister may, for the purpose of the administration or enforcement of an Act of Parliament or of the legislature of a province or for the purpose of exercising their powers or performing their duties or functions under another lawful authority, disclose to any department, ministry, body, office or agency of the federal government or of a provincial government or to a federal or provincial Crown corporation personal information that is under the control of the Department and that relates to any of the following:
+Subject to any regulations made under section `5.7`, the Minister may, for the purpose of the administration or enforcement of an Act of Parliament or of the legislature of a province or for the purpose of exercising their powers or performing their duties or functions under another lawful authority, disclose to any department, ministry, body, office or agency of the federal government or of a provincial government or to a federal or provincial Crown corporation personal information that is under the control of the Department and that relates to any of the following:
 
 the identity of an individual and any changes to their identity;
 
@@ -2192,18 +2685,11 @@ the meaning of terms used in those sections.
 
 ### Immigration and Refugee Protection Act
 
-### Section 139
+### Section 160
 
 Subsection 150.1(1) of the `Immigration and Refugee Protection Act` is amended by striking out "and" at the end of paragraph (d), by adding "and" at the end of paragraph (e) and by adding the following after paragraph (e):
 
-the disclosure of information collected for the purposes of this Act to federal departments and agencies for the purposes of cooperation, where such
-disclosure would be made under a written
-agreement or arrangement that defines the
-elements of personal information, the
-purpose for disclosure, any limits on
-secondary use and onward transfer of
-personal information, and other relevant
-details.
+the disclosure of information collected for the purposes of this Act to federal departments and agencies for the purposes of cooperation.
 
 
 ## Customs Act
@@ -2211,11 +2697,11 @@ details.
 
 ### Amendment to the Act
 
-### Section 140
+### Section 161
 
 Subsection 164(1.1) of the `Customs Act` is replaced by the following:
 
-**(1.1)** The Governor in Council may, on the recommendation of the Minister, make regulations for any of the following purposes:
+**(1.1)** The Governor in Council may, on the recommendation of the Minister, make regulations for **any** of **the following purposes**:
 
   the uniform interpretation, application and administration of a protocol, chapter or provision — set out in column 2 of Part 5 of the schedule — in an agreement set out in column 1, and any other matters that may be agreed on from time to time by the parties to that agreement;
 
@@ -2224,14 +2710,14 @@ Subsection 164(1.1) of the `Customs Act` is replaced by the following:
 
 ### Coming into Force
 
-### Section 141
+### Section 162
 
 Section `161` comes into force on a day to be fixed by order of the Governor in Council.
 
 
 ## Canada Transportation Act
 
-### Section 142
+### Section 163
 
 The `Canada Transportation Act` is amended by adding the following after section 49:
 
@@ -2248,7 +2734,7 @@ The `Canada Transportation Act` is amended by adding the following after section
 
   **(2)** A regulation referred to in subsection (1) is a regulation that may be made by the Governor in Council or by the Minister under a provision of an Act of Parliament, if the Minister is responsible for that provision.
 
-  **(3)** Before making an interim order, the Minister must consult with any person or organization that the Minister considers appropriate in the circumstances.
+  **(3)** Before making **an** interim order, the Minister must consult with any person or organization that the Minister considers appropriate in the circumstances.
 
   **(4)** An interim order takes effect on the day that it is made or on any later day specified in the order and ceases to have effect on the earliest of
 
