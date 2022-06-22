@@ -2,7 +2,7 @@
 
 ## Summary
 
-This enactment provides for the development of a national framework designed to raise awareness of cancers linked to firefighting and to support improved access for firefighters to cancer prevention and treatment.
+This enactment provides for the development of a national framework designed to raise awareness of cancers linked to firefighting with the goal of improving access for firefighters to cancer prevention and treatment.
 
 The enactment also designates the month of January, in each year, as "Firefighter Cancer Awareness Month".
 
@@ -24,7 +24,7 @@ Whereas establishing national standards on occupational cancers linked to firefi
 
 And whereas the Government of Canada, through the Memorial Grant Program for First Responders, recognizes the service and sacrifice of first responders who have died as a result of their duties, including firefighters who succumb to cancers brought about by their employment, by providing a benefit to the beneficiaries of those first responders;
 
-Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+Now, therefore, His Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
 
 ## Short Title
@@ -40,32 +40,32 @@ This Act may be cited as the `National Framework on Cancers Linked to Firefighti
 
 The following definitions apply in this Act.
 
-**Indigenous governing body** means a council, government or other entity that is authorized to act on behalf of an Indigenous group, community or people that holds rights recognized and affirmed by section 35 of the `Constitution Act, 1982`. (**corps dirigeant autochtone**)
+**Indigenous governing body** means a council, government or other entity that is authorized to act on behalf of an Indigenous group, community or people that holds rights recognized and affirmed by section 35 of the `Constitution Act, 1982`. (**corps dirigeant autochtone**)
 
-**Minister** means the Minister of Health. (**ministre**)
+**Minister** means the Minister of Health. (**ministre**)
 
 
 ## National Framework for the Prevention and Treatment of Cancers Linked to Firefighting
 
 ### Section 3
 
-  **(1)** The Minister must develop a national framework designed to raise awareness of cancers linked to firefighting and to support improved access for firefighters to cancer prevention and treatment.
+  **(1)** The Minister must develop a national framework designed to raise awareness of cancers linked to firefighting **with the goal of improving** access for firefighters to cancer prevention and treatment.
 
-  **(2)** In developing the strategy, the Minister must consult with the representatives of the provincial governments responsible for health, with municipal governments, with Indigenous governing bodies and with stakeholders in the firefighting community.
+  **(2)** In developing the **national framework**, the Minister must consult with the representatives of the provincial **and territorial** governments responsible for health, with municipal governments, with Indigenous governing bodies, **with health care professionals, with scientists** and with stakeholders in the firefighting community.
 
-  **(3)** The national framework must include measures to
+  **(3)** The national framework **may** include measures to
 
-    explain the link between firefighting and certain types of cancer;
+    explain **and support research on** the link between firefighting and certain types of cancer;
 
-    identify the training, education and guidance needs of health care and other professionals related to the prevention and treatment of cancers linked to firefighting, including clinical practice guidelines;
+    identify the training, education and guidance needs of health care and other professionals related to the prevention and treatment of cancers linked to firefighting **and compile information relating to those needs**;
 
-    provide for firefighters across Canada to be regularly screened for cancers linked to firefighting;
+    **make recommendations respecting regular screenings** for cancers linked to firefighting;
 
     promote research and improve data collection on the prevention and treatment of cancers linked to firefighting;
 
     promote information and knowledge sharing in relation to the prevention and treatment of cancers linked to firefighting; and
 
-    establish national standards to recognize cancers linked to firefighting as occupational diseases.
+    **prepare a summary of existing** standards **that** recognize cancers linked to firefighting as occupational diseases.
 
 
 ## Reports to Parliament
