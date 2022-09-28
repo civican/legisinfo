@@ -2,7 +2,7 @@
 
 ## Summary
 
-This enactment amends the `Food and Drugs Act` to prohibit food and beverage marketing directed at persons under 13 years of age.
+This enactment amends the `Food and Drugs Act` to prohibit the marketing of prescribed foods directed at persons under 13 years of age.
 
 Whereas the Public Health Agency of Canada stated in its 2012 report entitled Curbing Childhood Obesity: A Federal, Provincial and Territorial Framework for Action to Promote Healthy Weights that the rate of childhood obesity in Canada has been rising steadily in recent decades;
 
@@ -36,9 +36,9 @@ Whereas a healthy population, including children, is key to reducing the probabi
 
 Whereas it is necessary to review and monitor the effectiveness of this Act, particularly in light of new forms of advertising;
 
-And whereas persons who are 13 to 16 years of age are also vulnerable to marketing and its persuasive influence over their food preferences and consumption, and it is also necessary to monitor and review the advertising of foods and beverages to that age group;
+And whereas persons who are **between** 13 **and 17** years of age are also vulnerable to marketing and its persuasive influence over their food preferences and consumption, and it is also necessary to monitor and review the advertising of foods and beverages to that age group;
 
-Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+Now, therefore, His Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
 
 ## Short Title
@@ -52,27 +52,19 @@ This Act may be cited as the `Child Health Protection Act`.
 
 ### Section 2
 
-Section 2 of the `Food and Drugs Act` is amended by adding the following in alphabetical order:
-
-**children** means persons who are under 13 years of age; (**enfants**)
+[*Deleted*]
 
 ### Section 3
 
-The Act is amended by adding the following after the heading "Food" before section 4:
-
-
-#### General Provisions
+[*Deleted*]
 
 ### Section 4
 
-The Act is amended by adding the following after section 7:
-
-
-#### Advertising Directed at Children
+The `Food and Drugs Act` is amended by adding the following after section 7:
 
 ### Section 7.1
 
-Subject to the regulations, no person shall advertise foods and beverages that contribute to excess sugar, saturated fats or sodium in children's diets in a manner that is directed primarily at persons who are under 13 years of age.
+Subject to the regulations, no person shall advertise **prescribed** foods that **contain more than the prescribed level of sugars**, saturated **fat** or sodium in a manner that is primarily directed at persons who are under 13 years of age.
 
 ### Section 7.2
 
@@ -82,18 +74,22 @@ Subject to the regulations, no person shall advertise foods and beverages that c
 
 ### Section 7.3
 
-Before the fifth anniversary of the day on which sections 7.1 and 7.2 come into force, those sections are to be referred to the committee of the Senate, of the House of Commons or of both Houses of Parliament that may be designated or established for the purpose of reviewing their effect. The review is, in particular, to focus on whether there is an increase in the advertising of foods and beverages that contribute to excess sugar, saturated fats or sodium in children's diets in a manner that is directed primarily at persons who are 13 to 16 years of age.
+Before the fifth anniversary of the day on which sections 7.1 and 7.2 come into force, those sections are to be referred to the committee of the Senate, of the House of Commons or of both Houses of Parliament that may be designated or established for the purpose of reviewing their effect. The review is, in particular, to focus on whether there is an increase in the advertising of foods **referred to in section 7.1** in a manner that is primarily directed at persons who are 13 years of age **or older but less than 18 years of age**.
 
 ### Section 5
 
 The Act is amended by adding the following after paragraph 30(1)‍(e):
 
-for the purposes of section 7.‍1, setting out the factors to be considered in determining whether foods and beverages that contribute to excess sugar, saturated fats or sodium in children's diets is advertised in a manner that is primarily directed at children, including how, when and where an advertisement is communicated;
+for the purposes of section 7.‍1, setting out the factors to be considered in determining whether foods **referred to in that section are** advertised in a manner that is primarily directed at **persons who are under 13 years of age**;
+
+limiting the forms of advertising to which section 7.1 applies;
+
+defining "sugars" and "saturated fat" for the purposes of section 7.1;
 
 
 ## Coming into Force
 
 ### Section 6
 
-This Act comes into force on the first anniversary of the day on which it receives royal assent.
+This Act comes into force on **a** day **to be fixed by order of the Governor in Council**.
 
