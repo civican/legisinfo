@@ -4,7 +4,7 @@
 
 ## Summary
 
-This enactment provides for the establishment of a national council for reconciliation as an independent, non-political, permanent and Indigenous-led organization whose purpose is to advance efforts for reconciliation with Indigenous peoples.
+This enactment provides for the establishment of a national council for reconciliation as an independent, non-political, permanent and Indigenous-led organization whose purpose is to advance reconciliation with Indigenous peoples.
 
 
 ## TABLE OF PROVISIONS
@@ -65,9 +65,11 @@ Election
 Protocol
 
 
-## Annual Report
+## Annual Reports
 
-Contents
+Report of Minister
+
+Report of Council
 
 
 ## Financial Report
@@ -84,6 +86,10 @@ Distribution of property
 
 Order in council
 
+Whereas, since time immemorial, Indigenous peoples have thrived on and managed and governed their Indigenous lands;
+
+Whereas, since the arrival of settlers and colonization, Indigenous peoples have experienced assimilationist policies, which must be addressed through reconciliation;
+
 Whereas reconciliation with Indigenous peoples is recognized as a fundamental purpose of section 35 of the `Constitution Act, 1982`;
 
 Whereas that reconciliation requires collective efforts from all peoples and the commitment of multiple generations;
@@ -94,13 +100,15 @@ Whereas the Government of Canada is committed to achieving reconciliation with I
 
 Whereas the Government of Canada is committed to implementing the United Nations Declaration on the Rights of Indigenous Peoples;
 
-Whereas the Government of Canada recognizes the need for the establishment of an independent, non-political, permanent and Indigenous-led organization to monitor, evaluate, conduct research and report on the progress being made towards reconciliation in all sectors of Canadian society and by all governments in Canada, in order to address the Truth and Reconciliation Commission of Canada's Call to Action number 53;
+Whereas reconciliation requires the revitalization and celebration of Indigenous languages;
+
+Whereas the Government of Canada recognizes the need for the establishment of an independent, non-political, permanent and Indigenous-led organization to monitor, evaluate, conduct research and report on the progress being made towards reconciliation, **including in relation to respect for and the protection and promotion of the rights of Indigenous peoples**, in all sectors of Canadian society and by all governments in Canada, in order to address the Truth and Reconciliation Commission of Canada's Call to Action number 53;
 
 Whereas the Government of Canada recognizes the need for such an organization to be a catalyst for innovative thought, dialogue and action;
 
-And whereas the Government of Canada recognizes the importance of the work of such an organization as well as the need to cooperate with it and support it in its contribution to advancing reconciliation, including, as appropriate, through the provision of information relevant to its purpose, including information referred to in the Truth and Reconciliation Commission of Canada's Call to Action number 55;
+And whereas the Government of Canada recognizes the importance of the work of such an organization as well as the need to cooperate with it and support it in its contribution to advancing reconciliation, including through the provision of information referred to in the Truth and Reconciliation Commission of Canada's Call to Action number 55;
 
-Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+Now, therefore, His Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
 
 ## Short Title
@@ -148,32 +156,38 @@ The Council is deemed to be a qualified donee within the meaning of the `Income 
 
 ### Section 6
 
-The purpose of the Council is to advance efforts for reconciliation with Indigenous peoples.
+The purpose of the Council is to advance reconciliation with Indigenous peoples.
 
 ### Section 7
 
 In carrying out its purpose, the Council is to
 
-develop and implement a multi-year national action plan to advance its efforts for reconciliation;
+develop and implement a multi-year national action plan to advance reconciliation;
 
-monitor and conduct research on the progress being made towards reconciliation in all sectors of Canadian society and by all governments in Canada, including efforts to implement the Truth and Reconciliation Commission of Canada's Calls to Action;
+monitor and conduct research on the progress being made towards reconciliation in all sectors of Canadian society and by all governments in Canada to implement the Truth and Reconciliation Commission of Canada's Calls to Action;
 
-conduct research on promising practices that advance efforts for reconciliation in all sectors of Canadian society, by all governments in Canada and at the international level;
+ensure that reconciliation is consistent with the protection and promotion of the rights of Indigenous peoples, including by advancing a rights-based approach to self-determination;
+
+conduct research on practices that advance reconciliation in all sectors of Canadian society, by all governments in Canada and at the international level;
 
 monitor policies and programs of the Government of Canada, and federal laws, that affect Indigenous peoples;
 
-recommend measures to promote, prioritize and coordinate efforts for reconciliation in all sectors of Canadian society and by all governments in Canada;
+recommend measures to promote, prioritize and coordinate reconciliation in all sectors of Canadian society and by all governments in Canada;
 
-educate the public about Indigenous peoples' realities and histories and advocate for reconciliation in all sectors of Canadian society and by all governments in Canada; and
+educate the public about Indigenous peoples' realities and histories and advocate for reconciliation in all sectors of Canadian society and by all governments in Canada;
 
-stimulate innovative dialogue, thought and action on reconciliation.
+stimulate innovative dialogue, thought and action on reconciliation;
+
+monitor and report on the progress made on measurable outcomes, including in relation to the Truth and Reconciliation Commission of Canada's Call to Action number 55; and
+
+protect Indigenous language rights, including by ensuring that, to promote and support the participation of Indigenous persons in the work of the Council, translation and interpretation services are made available to them.
 
 
 ## Board of Directors
 
 ### Section 8
 
-The persons whose names are set out in the notice of directors sent under section `3` are to be selected by the Minister in collaboration with the transitional committee, taking into account sections `9`, `11` and `13` and the nominations referred to in subsection `10`(1).
+The persons whose names are set out in the notice of directors sent under section `3` are to be **jointly** selected by the Minister **and** the transitional committee, taking into account sections `9`, `11`, `**12**` and `13` and the nominations referred to in subsection `10`(1).
 
 ### Section 9
 
@@ -185,9 +199,13 @@ The Council's board of directors is to be composed of a minimum of nine and a ma
 
     one director who may only be elected after having been nominated by the Assembly of First Nations;
 
-    one director who may only be elected after having been nominated by Inuit Tapiriit Kanatami; and
+    one director who may only be elected after having been nominated by Inuit Tapiriit Kanatami;
 
-    one director who may only be elected after having been nominated by the Métis National Council.
+    one director who may only be elected after having been nominated by the Métis National Council;
+
+    one director who may only be elected after having been nominated by the Native Women's Association of Canada; and
+
+    one director who may only be elected after having been nominated by the Congress of Aboriginal Peoples.
 
   **(2)** If there is a vacancy among the directors referred to in paragraphs (1)(a) to (c), the remaining directors may exercise all the powers of the directors if the number of directors on the Council's board of directors constitutes a quorum.
 
@@ -195,25 +213,39 @@ The Council's board of directors is to be composed of a minimum of nine and a ma
 
 ### Section 11
 
-At least two thirds of the directors must be Indigenous persons.
+  ****(1)**** At least two thirds of the directors must be Indigenous persons.
+
+  **(2)** At least two of the directors must be residents of Yukon, the Northwest Territories or Nunavut.
 
 ### Section 12
 
-Beginning on the fifth anniversary of the day on which the Council is incorporated, the Council's board of directors must, to the extent possible, include representation from
+  ****(1)**** The Council's board of directors must, to the extent possible, include representation from
 
-First Nations, Inuit and the Métis;
+    First Nations, Inuit and the Métis;
 
-other peoples in Canada;
+    Indigenous elders;
 
-Indigenous organizations, as defined in section 2 of the `Department of Indigenous Services Act`;
+    Indigenous survivors of the discriminatory and assimilationist policies of the Government of Canada and their descendants;
 
-youth, women, men and gender-diverse persons; and
+    other peoples in Canada;
 
-various regions of Canada, including urban, rural and remote regions.
+    Indigenous organizations, as defined in section 2 of the `Department of Indigenous Services Act`, **to reflect the diversity of arrangements that govern relationships between Indigenous communities and the Government of Canada**;
+
+    youth, women, men and gender-diverse persons;
+
+    various regions of Canada, including urban, rural and remote regions;
+
+    Indigenous persons whose first or second language is French; and
+
+    survivors of Canadian residential schools or their descendants.
+
+  **(2)** The composition of the board of directors must also, to the extent possible, ensure and equitably reflect gender diversity.
 
 ### Section 13
 
-Each director must have knowledge and experience with respect to matters related to Indigenous peoples and other matters related to the Council's purpose.
+  ****(1)**** Each director must have knowledge and experience with respect to matters related to Indigenous peoples and other matters related to the Council's purpose.
+
+  **(2)** To ensure that Indigenous views are heard in relation to the advancement of reconciliation with Indigenous peoples, the Council must consult with a variety of persons with relevant knowledge, expertise or experience, including elders, survivors of the discriminatory and assimilationist policies of the Government of Canada and Indigenous law practitioners.
 
 ### Section 14
 
@@ -228,22 +260,42 @@ Despite subsection 128(3) of the `Canada Not-for-profit Corporations Act`, and s
 
 ### Section 16
 
-The Minister must, in collaboration with the Council, develop a protocol respecting the disclosure by the Government of Canada to the Council of information that is relevant to the Council's purpose.
+  ****(1)**** **Within six months after the day on which the Council is incorporated**, the Minister must, in collaboration with the Council, develop a protocol respecting the disclosure by the Government of Canada to the Council of information that is relevant to the Council's purpose.
+
+  **(2)** The protocol must allow, to the extent possible, the Council to receive all the information it judges relevant to fulfill its mission.
 
 
-## Annual Report
+## Annual Reports
+
+### Section 16.1
+
+The Minister must, within six months after the end of each financial year, submit to the Council an annual report setting out
+
+a comparison of the number of Indigenous and non-Indigenous children in care, the reasons for their apprehension and the total spending on preventive and care services by child-welfare agencies;
+
+a comparison of the funding for the education of Indigenous children on and off reserves;
+
+a comparison of the educational and income attainments of Indigenous and non-Indigenous persons;
+
+the progress made on closing the gaps between Indigenous and non-Indigenous communities in a number of health indicators, such as infant mortality, maternal health, suicide, mental health, addictions, life expectancy, birth rates, infant and child health issues, chronic diseases, illness and injury incidence, and the availability of appropriate health services;
+
+the progress made on eliminating the overrepresentation of Indigenous children in youth custody;
+
+the progress made on reducing the rate of criminal victimization of Indigenous persons, including data related to homicide, family violence and other crimes; and
+
+the progress made on reducing the overrepresentation of Indigenous persons in the justice and correctional systems.
 
 ### Section 17
 
-  **(1)** The Council must, within six months after the end of each financial year, submit to the Minister an annual report setting out
+  **(1)** The Council must, within **three** months after the end of each financial year, submit to the Minister an annual report setting out
 
     the state of reconciliation, including the progress being made towards reconciliation in all sectors of Canadian society and by all governments in Canada; and
 
-    the Council's recommendations respecting measures to promote, prioritize and coordinate efforts for reconciliation in all sectors of Canadian society and by all governments in Canada.
+    the Council's recommendations respecting measures to promote, prioritize and coordinate reconciliation in all sectors of Canadian society and by all governments in Canada.
 
   **(2)** The Minister must cause a copy of the report to be laid before each House of Parliament on any of the first 15 days on which that House is sitting after the day on which the report is received.
 
-  **(3)** Within 120 days after the day on which the report under subsection (2) is laid, the Minister must, on behalf of the Government of Canada, respond to the matters addressed by the report that are under the jurisdiction of Parliament by publishing an annual report on the state of Indigenous peoples that outlines the Government of Canada's plans for advancing reconciliation.
+  **(3)** Within **60** days after the day on which the report under subsection (2) is laid, the **Prime** Minister must, on behalf of the Government of Canada, respond to the matters addressed by the report that are under the jurisdiction of Parliament by publishing an annual report on the state of Indigenous peoples that outlines the Government of Canada's plans for advancing reconciliation.
 
 
 ## Financial Report
