@@ -1,7 +1,5 @@
 # Bill C-30: An Act to amend the Income Tax Act (temporary enhancement to the Goods and Services Tax/Harmonized Sales Tax credit)
 
-**Sponsor**: DEPUTY PRIME MINISTER AND MINISTER OF FINANCE
-
 Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act to amend the Income Tax Act (temporary enhancement to the Goods and Services Tax/Harmonized Sales Tax credit)*".
 
 ## Summary
@@ -46,7 +44,7 @@ This Act may be cited as the `Cost of Living Relief Act, No. 1 (Targeted Tax Rel
 
   **(2)** Section 122.5 of the Act is amended by adding the following after subsection (3.02):
 
-    **(3.03)** Notwithstanding subsection (3.002), if an eligible individual is a shared-custody parent (within the meaning assigned by section 122.6, but with the words qualified dependant in that section having the meaning assigned by subsection (1)) in respect of one or more qualified dependants at the beginning of a month, the amount deemed by subsection (3.002) to have been paid during the specified month is equal to the amount determined by the following formula:
+    **(3.03)** Notwithstanding subsection (3.002), if an eligible individual is a shared-custody parent (within the meaning assigned by section 122.6, but with the words qualified dependant in that section having the meaning assigned by subsection (1) in respect of one or more qualified dependants at the beginning of a month, the amount deemed by subsection (3.002) to have been paid during the specified month is equal to the amount determined by the following formula:
 
       is the amount determined by the formula in subsection (3.002), calculated without reference to this subsection; and
 
@@ -60,19 +58,19 @@ This Act may be cited as the `Cost of Living Relief Act, No. 1 (Targeted Tax Rel
 
   **(1)** Paragraph 152(1)(b) of the Act is replaced by the following:
 
-    the amount of tax, if any, deemed by subsection 120(2) or (2.2), 122.5(3), (3.001) or **(3.002)**, 122.51(2), 122.7(2) or (3), 122.8(4), 122.9(2), 122.91(1), 125.4(3), 125.5(3), 125.6(2) or (2.1), 127.1(1), 127.41(3) or 210.2(3) or (4) to be paid on account of the taxpayer's tax payable under this Part for the year.
+    the amount of tax, if any, deemed by subsection 120(2) or (2.2), 122.5(3), (3.001) or (3.002), 122.51(2), 122.7(2) or (3), 122.8(4), 122.9(2), 122.91(1), 125.4(3), 125.5(3), 125.6(2) or (2.1), 127.1(1), 127.41(3) or 210.2(3) or (4) to be paid on account of the taxpayer's tax payable under this Part for the year.
 
   **(2)** Paragraph 152(1.2)(d) of the Act is replaced by the following:
 
-    the Minister determines the amount deemed by subsection 122.5(3), (3.001) **or (3.002)** or 122.8(4) to have been paid by an individual for a taxation year to be nil, subsection (2) does not apply to the determination unless the individual requests a notice of determination from the Minister.
+    the Minister determines the amount deemed by subsection 122.5(3), (3.001) or (3.002) or 122.8(4) to have been paid by an individual for a taxation year to be nil, subsection (2) does not apply to the determination unless the individual requests a notice of determination from the Minister.
 
   **(3)** Paragraph 152(4.2)(b) of the Act is replaced by the following:
 
-    redetermine the amount, if any, deemed by subsection 120(2) or (2.2), 122.5(3), (3.001) or **(3.002)**, 122.51(2), 122.7(2) or (3), 122.8(4), 122.9(2), 122.91(1), 127.1(1), 127.41(3) or 210.2(3) or (4) to be paid on account of the taxpayer's tax payable under this Part for the year or deemed by subsection 122.61(1) to be an overpayment on account of the taxpayer's liability under this Part for the year.
+    redetermine the amount, if any, deemed by subsection 120(2) or (2.2), 122.5(3), (3.001) or (3.002), 122.51(2), 122.7(2) or (3), 122.8(4), 122.9(2), 122.91(1), 127.1(1), 127.41(3) or 210.2(3) or (4) to be paid on account of the taxpayer's tax payable under this Part for the year or deemed by subsection 122.61(1) to be an overpayment on account of the taxpayer's liability under this Part for the year.
 
 ### Section 4
 
 Paragraph 160.1(1.1)(b) of the Act is replaced by the following:
 
-the total of the amounts deemed by subsection 122.5(3) **or (3.002)** to have been paid by the individual during those specified months.
+the total of the amounts deemed by subsection 122.5(3) or (3.002) to have been paid by the individual during those specified months.
 
