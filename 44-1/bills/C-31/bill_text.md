@@ -2,6 +2,8 @@
 
 **Sponsor**: MINISTER OF HEALTH
 
+Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act respecting cost of living relief measures related to dental care and rental housing*".
+
 ## Summary
 
 Part 1 enacts the `Dental Benefit Act`, which provides for the establishment of an application-based interim dental benefit. The benefit provides interim direct financial support for parents for dental care services received by their children under 12 years of age in the period starting in October 2022 and ending in June 2024.
@@ -676,7 +678,7 @@ An application for the benefit must
 
 be in the form and manner established by the Minister; and
 
-be made no earlier than the reference day and no later than the 90th day after the reference day.
+be made no earlier than the reference day and no later than the **120**th day after the reference day.
 
 ### Section 6
 
