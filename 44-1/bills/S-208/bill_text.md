@@ -1,5 +1,7 @@
 # Bill S-208: An Act respecting the Declaration on the Essential Role of Artists and Creative Expression in Canada
 
+**Sponsor**: Senator Bovey
+
 ## Summary
 
 This enactment provides a framework for the Government of Canada's implementation of the Declaration on the Essential Role of Artists and Creative Expression in Canada, including by requiring the Minister of Canadian Heritage to prepare and implement an action plan to give expression to the Declaration.
@@ -10,11 +12,9 @@ Whereas the Declaration emphasizes the need to respect and promote the role of a
 
 Whereas the Government of Canada is committed to taking effective measures to achieve the Declaration's objectives;
 
-Whereas English-speaking artists and French-speaking artists, as integral parts of the two official language communities of Canada, should have equal opportunities to pursue their artistic endeavours in order to enhance the vitality and development of English and French linguistic minority Communities;
-
 And whereas any measures to implement the Declaration in Canada must take into account the diversity of Indigenous peoples and, in particular, the diversity of the identities, cultures, languages, customs and practices of First Nations, the Inuit and the Métis and of their relationships to the land and their Indigenous knowledge, all of which find expression in rich artistic traditions;
 
-Now, therefore, His Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
 
 ## Short Title
@@ -62,17 +62,11 @@ provide a framework for the Government of Canada's implementation of the Declara
 
     the Minister of Health;
 
-    the Minister responsible for official languages;
-
     the Chairperson of the Canada Council for the Arts;
 
     provincial government representatives responsible for artists and the arts;
 
     artists and organizations whose objects include promotion of artists and the arts;
-
-    French-speaking artists and organizations representing those artists;
-
-    artists who represent the ethnic and racial diversity and all other diversities of Canada and organizations that work on their behalf;
 
     First Nations, Inuit and Métis artists and organizations representing those artists; and
 
