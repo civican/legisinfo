@@ -1,8 +1,18 @@
 # Bill C-31: An Act respecting cost of living relief measures related to dental care and rental housing
 
-**Sponsor**: MINISTER OF HEALTH
-
 Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act respecting cost of living relief measures related to dental care and rental housing*".
+
+Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the following amendments to Bill C-31, "*An Act respecting cost of living relief measures related to dental care and rental housing*".
+
+That Bill C-31, in Clause 3, be amended by
+
+replacing line 17 on page 18 with the following:
+
+vices, only 90% of the payment is to be taken into account
+
+replacing lines 23 to 29 on page 18 with the following:
+
+purposes of paragraph (1)(g) is the total amount of rent paid in 2022 by the applicant.
 
 ## Summary
 
@@ -638,7 +648,7 @@ The Minister must pay a one-time rental housing benefit of $500 to a person who 
 
     they are resident in Canada in 2022 for the purposes of the `Income Tax Act` and their principal residence is, on the reference day, situated in Canada;
 
-    they — and, if any, their cohabiting spouse or common-law partner — have filed a return of income, as defined in section 122.6 of the `Income Tax Act`, for 2021 no later than the 90th day after the reference day;
+    they — and, if any, their cohabiting spouse or common-law partner — have filed a return of income, as defined in section 122.6 of the `Income Tax Act`, for 2021 no later than the 120th day after the reference day;
 
     they have an adjusted income for 2021 of no more than
 
@@ -656,13 +666,9 @@ The Minister must pay a one-time rental housing benefit of $500 to a person who 
 
     subject to any of subsections (2) to (6) that apply in the circumstances, the total amount of the rent referred to in paragraph (f) is at least 30% of the applicant's adjusted income for 2021.
 
-  **(2)** If a payment for room and either board or other services is made in respect of a principal residence and it includes an unspecified amount for the board or other services, only 75% of the payment is to be taken into account as rent for the purposes of paragraph (1)(g).
+  **(2)** If a payment for room and either board or other services is made in respect of a principal residence and it includes an unspecified amount for the board or other services, only 90% of the payment is to be taken into account as rent for the purposes of paragraph (1)(g).
 
-  **(3)** If an applicant had a cohabiting spouse or common-law partner during 2022 but is living separate and apart from them on the reference day, the total amount of rent paid by the applicant to be taken into account for the purposes of paragraph (1)(g) is
-
-    50% of the total amount of rent paid in 2022 by the cohabiting spouses or common-law partners in respect of the period ending immediately before the day on which they start living separate and apart, plus
-
-    the total amount of rent paid in 2022 by the applicant in respect of the period beginning on that day.
+  **(3)** If an applicant had a cohabiting spouse or common-law partner during 2022 but is living separate and apart from them on the reference day, the total amount of rent paid by the applicant to be taken into account for the purposes of paragraph (1)(g) is the total amount of rent paid in 2022 by the applicant.
 
   **(4)** If the applicant and their cohabiting spouse or common-law partner live in two different principal residences at any point in 2022, the applicant may take into account, for the purposes of paragraph (1)(g), the total amount of the rent paid in 2022 by either of them for both of those principal residences while they were each other's cohabiting spouse or common-law partner.
 
@@ -678,7 +684,7 @@ An application for the benefit must
 
 be in the form and manner established by the Minister; and
 
-be made no earlier than the reference day and no later than the **120**th day after the reference day.
+be made no earlier than the reference day and no later than the 120th day after the reference day.
 
 ### Section 6
 
@@ -749,7 +755,7 @@ is not garnishable moneys for the purposes of the `Family Orders and Agreements 
 
 ### Section 16
 
-  **(1)** Subject to subsection (5), the Minister may reconsider an application within 24 months after the 90th day after the reference day.
+  **(1)** Subject to subsection (5), the Minister may reconsider an application within 24 months after the 120th day after the reference day.
 
   **(2)** If the Minister decides on reconsideration that a person has received money by way of a rental housing benefit to which they were not entitled, or has not received money to which they were entitled, the Minister must calculate the amount of the money and notify the person of the Minister's decision.
 
