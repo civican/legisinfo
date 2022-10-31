@@ -8,7 +8,7 @@ Her Excellency the Governor General recommends to the House of Commons the appro
 
 This enactment amends the `Judges Act` to replace the process through which the conduct of federally appointed judges is reviewed by the Canadian Judicial Council. It establishes a new process for reviewing allegations of misconduct that are not serious enough to warrant a judge's removal from office and makes changes to the process by which recommendations regarding removal from office can be made to the Minister of Justice. As with the provisions it replaces, this new process also applies to persons, other than judges, who are appointed under an Act of Parliament to hold office during good behaviour.
 
-Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+His Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
 
 ## Judges Act
@@ -21,33 +21,17 @@ Section 2 of the `Judges Act` is amended by adding the following in alphabetical
 
 **Minister** means the Minister of Justice of Canada; (**ministre**)
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 2
 
 Subsection 2.1(1) of the Act is replaced by the following:
 
 ### Section 2.1
 
-  **(1)** Subject to subsection (2), sections 26 to 26.3, 34 and 39, paragraphs 40(1)(a) and (b), subsection 40(2), sections 41, 41.2 to 42, 43.1 to 56 and 57, para­graph 60(2)(b) and **Part IV** also apply to a prothonotary of the Federal Court.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 2.1(1):
-> *Existing Text*:
-> > Subject to subsection (2), sections 26 to 26.3, 34 and 39, paragraphs 40(1)(a) and (b), subsection 40(2), sections 41, 41.2 to 42, 43.1 to 56 and 57, paragraph 60(2)(b), subsections 63(1) and (2) and sections 64 to 66 also apply to a prothonotary of the Federal Court.
+  **(1)** Subject to subsection (2), sections 26 to 26.3, 34 and 39, paragraphs 40(1)(a) and (b), subsection 40(2), sections 41, 41.2 to 42, 43.1 to 56 and 57, para­graph 60(2)(b) and Part IV also apply to a prothonotary of the Federal Court.
 
 ### Section 3
 
 The definition Minister in section 52.1 of the Act is repealed.
-
-
-> **Explanatory Note**:
-> Existing text of the definition:
-> *Existing Text*:
-> > **Minister** means the Minister of Justice of Canada. (**ministre**)
 
 ### Section 4
 
@@ -55,7 +39,7 @@ The definition Minister in section 52.1 of the Act is repealed.
 
 ### Section 53
 
-      **(1)** The salaries, allowances and annuities payable under **Parts I to III** and the amounts payable under sections 46.1, 51 and 52.15 shall be paid out of the Consolidated Revenue Fund.
+      **(1)** The salaries, allowances and annuities payable under Parts I to III and the amounts payable under sections 46.1, 51 and 52.15 shall be paid out of the Consolidated Revenue Fund.
 
   **(2)** Subsections 53(2) and (3) of the English version of the Act are replaced by the following:
 
@@ -67,37 +51,15 @@ The definition Minister in section 52.1 of the Act is repealed.
 
 Section 58 of the Act and the heading "Interpretation" before it are repealed.
 
-
-> **Explanatory Note**:
-> Existing text of the heading and section 58.
-> *Existing Text*:
-> > In this Part, Minister means the Minister of Justice of Canada.
-
 ### Section 6
 
 Paragraph 59(1)(a) of the English version of the Act is replaced by the following:
 
-the Chief Justice of Canada, who shall be the **chairperson** of the Council;
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 59(1):
-> *Existing Text*:
-> > There is hereby established a Council, to be known as the Canadian Judicial Council, consisting of
-> > the Chief Justice of Canada, who shall be the chairman of the Council;
+the Chief Justice of Canada, who shall be the chairperson of the Council;
 
 ### Section 7
 
 Subsection 60(2) of the Act is amended by adding "and" at the end of paragraph (a) and by repealing paragraphs (c) and (d).
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 60(2):
-> *Existing Text*:
-> > In furtherance of its objects, the Council may
-> > 
-> > make the inquiries and the investigation of complaints or allegations described in section 63; and
-> > make the inquiries described in section 69.
 
 ### Section 8
 
@@ -105,84 +67,21 @@ Paragraph 61(3)(c) of the Act is replaced by the following:
 
 respecting the processes and proceedings under Part IV.
 
-
-> **Explanatory Note**:
-> Relevant portion of subsection 61(3):
-> *Existing Text*:
-> > The Council may make by-laws
-> > 
-> > respecting the conduct of inquiries and investigations described in section 63.
-
 ### Section 9
 
 Section 62 of the Act is replaced by the following:
 
 ### Section 62
 
-The Council may engage the services of **any** persons **that** it **considers** necessary for carrying out its objects and duties, and also the services of counsel to assist the Council in the **processes and proceedings under Part IV**.
-
-
-> **Explanatory Note**:
-> Existing text of section 62:
-> *Existing Text*:
-> > The Council may engage the services of such persons as it deems necessary for carrying out its objects and duties, and also the services of counsel to aid and assist the Council in the conduct of any inquiry or investigation described in section 63.
+The Council may engage the services of any persons that it considers necessary for carrying out its objects and duties, and also the services of counsel to assist the Council in the processes and proceedings under Part IV.
 
 ### Section 10
 
 The heading before section 63 and sections 63 to 71 of the Act are repealed.
 
-
-> **Explanatory Note**:
-> Existing text of the heading and section 63 to 71:
-> *Existing Text*:
-> > The Council shall, at the request of the Minister or the attorney general of a province, commence an inquiry as to whether a judge of a superior court should be removed from office for any of the reasons set out in paragraphs 65(2)(a) to (d).
-> > The Council may investigate any complaint or allegation made in respect of a judge of a superior court.
-> > The Council may, for the purpose of conducting an inquiry or investigation under this section, designate one or more of its members who, together with such members, if any, of the bar of a province, having at least ten years standing, as may be designated by the Minister, shall constitute an Inquiry Committee.
-> > The Council or an Inquiry Committee in making an inquiry or investigation under this section shall be deemed to be a superior court and shall have
-> > power to summon before it any person or witness and to require him or her to give evidence on oath, orally or in writing or on solemn affirmation if the person or witness is entitled to affirm in civil matters, and to produce such documents and evidence as it deems requisite to the full investigation of the matter into which it is inquiring; and
-> > the same power to enforce the attendance of any person or witness and to compel the person or witness to give evidence as is vested in any superior court of the province in which the inquiry or investigation is being conducted.
-> > The Council may prohibit the publication of any information or documents placed before it in connection with, or arising out of, an inquiry or investigation under this section when it is of the opinion that the publication is not in the public interest.
-> > An inquiry or investigation under this section may be held in public or in private, unless the Minister requires that it be held in public.
-> > A judge in respect of whom an inquiry or investigation under section 63 is to be made shall be given reasonable notice of the subject-matter of the inquiry or investigation and of the time and place of any hearing thereof and shall be afforded an opportunity, in person or by counsel, of being heard at the hearing, of cross-examining witnesses and of adducing evidence on his or her own behalf.
-> > After an inquiry or investigation under section 63 has been completed, the Council shall report its conclusions and submit the record of the inquiry or investigation to the Minister.
-> > Where, in the opinion of the Council, the judge in respect of whom an inquiry or investigation has been made has become incapacitated or disabled from the due execution of the office of judge by reason of
-> > age or infirmity,
-> > having been guilty of misconduct,
-> > having failed in the due execution of that office, or
-> > having been placed, by his or her conduct or otherwise, in a position incompatible with the due execution of that office,
-> > the Council, in its report to the Minister under subsection (1), may recommend that the judge be removed from office.
-> > If the Council recommends that a judge be removed from office in a report submitted to the Minister under section 65, for the purposes of calculating the judge's annuity under section 42,
-> > the period beginning on the day on which the Council submits the report and ending on the day on which the judge ceases to hold judicial office is not considered to be part of the judge's time in judicial office; and
-> > the salary used to calculate the annuity is the salary annexed to their office on the day on which the report is submitted.
-> > The judge shall cease to make the contributions required under section 50 as of the day on which the report is submitted.
-> > If a recommendation for removal is rejected by the Minister, the Senate or the House of Commons or if, on judicial review, the recommendation is rejected by a court whose decision is final, subsection (1) does not apply for the purposes of calculating the annuity of the judge who was the subject of the recommendation and that judge shall
-> > contribute, as if subsection (2) had never applied, the amounts that would have been required under section 50 as of the day on which the Council submitted the report to the Minister; and
-> > resume contributing the amounts required under section 50 as of the day on which the recommendation was rejected.
-> > [Repealed, R.S., 1985, c. 27 (2nd Supp.), s. 6]
-> > The Governor in Council may grant leave of absence to any judge found, pursuant to subsection 65(2), to be incapacitated or disabled, for such period as the Governor in Council, in view of all the circumstances of the case, may consider just or appropriate, and if leave of absence is granted the salary of the judge shall continue to be paid during the period of leave of absence so granted.
-> > The Governor in Council may grant to any judge found to be incapacitated or disabled, if the judge resigns, the annuity that the Governor in Council might have granted the judge if the judge had resigned at the time when the finding was made by the Governor in Council.
-> > [Repealed, R.S., 1985, c. 16 (3rd Supp.), s. 5]
-> > [Repealed, R.S., 1985, c. 16 (3rd Supp.), s. 6]
-> > The Council shall, at the request of the Minister, commence an inquiry to establish whether a person appointed pursuant to an enactment of Parliament to hold office during good behaviour other than
-> > a judge of a superior court or a prothonotary of the Federal Court, or
-> > a person to whom section 48 of the `Parliament of Canada Act` applies,
-> > should be removed from office for any of the reasons set out in paragraphs 65(2)(a) to (d).
-> > Subsections 63(3) to (6), sections 64 and 65 and subsection 66(2) apply, with such modifications as the circumstances require, to inquiries under this section.
-> > The Governor in Council may, on the recommendation of the Minister, after receipt of a report described in subsection 65(1) in relation to an inquiry under this section in connection with a person who may be removed from office by the Governor in Council other than on an address of the Senate or House of Commons or on a joint address of the Senate and House of Commons, by order, remove the person from office.
-> > Any order of the Governor in Council made pursuant to subsection 69(3) and all reports and evidence relating thereto shall be laid before Parliament within fifteen days after that order is made or, if Parliament is not then sitting, on any of the first fifteen days next thereafter that either House of Parliament is sitting.
-> > Nothing in, or done or omitted to be done under the authority of, any of sections 63 to 70 affects any power, right or duty of the House of Commons, the Senate or the Governor in Council in relation to the removal from office of a judge, a prothonotary of the Federal Court or any other person in relation to whom an inquiry may be conducted under any of those sections.
-
 ### Section 11
 
 Section 72 of the Act and the heading "Interpretation" before it are repealed.
-
-
-> **Explanatory Note**:
-> Existing text of the heading and section 72:
-> *Existing Text*:
-> > In this Part,
-> > **Commissioner** means the Commissioner for Federal Judicial Affairs referred to in section 73; (**commissaire**)
-> > **Minister** means the Minister of Justice of Canada. (**ministre**)
 
 ### Section 12
 
@@ -316,7 +215,11 @@ The reviewing member shall give the judge who is the subject of the complaint an
 
 ### Section 94
 
-The reviewing member shall dismiss the complaint if they are of the opinion that it should be dismissed for any reason set out in paragraphs `90`(1)(a) to (c) or that it is wholly without merit.
+  ****(1)**** The reviewing member shall dismiss the complaint if they are of the opinion that it should be dismissed for any reason set out in paragraphs `90`(1)(a) to (c) or that it is wholly without merit.
+
+  **(2)** If the reviewing member dismisses the complaint, they shall inform the complainant in writing of their decision and the reasons for it.
+
+  **(3)** The reasons shall not include information that is confidential or personal, or that is not in the public interest to disclose.
 
 ### Section 95
 
@@ -377,13 +280,17 @@ with the consent of the judge, take any other action that the panel considers ap
 
 ### Section 103
 
-The review panel shall give notice of its decision and the reasons for it to
+  ****(1)**** The review panel shall give notice of its decision and the reasons for it to
 
-the judge who is the subject of the complaint;
+    the judge who is the subject of the complaint;
 
-the chief justice of the court of which that judge is a member; and
+    the chief justice of the court of which that judge is a member; and
 
-the Council.
+    the Council.
+
+  **(2)** If the review panel dismisses the complaint, it shall inform the complainant in writing of its decision and the reasons for it.
+
+  **(3)** The reasons shall not include information that is confidential or personal, or that is not in the public interest to disclose.
 
 ### Section 104
 
@@ -817,10 +724,6 @@ For greater certainty, any proceedings or hearings under this Part may take plac
     complaints in respect of which any of the actions referred to in paragraphs `102`(a) to (g) were taken.
 
   **(2)** After the annual report is submitted to the Minister, the Council shall make it public.
-
-
-> **Explanatory Note**:
-> New.
 
 ### Section 13
 
