@@ -1,0 +1,456 @@
+<Bills>
+  <Bill>
+    <Id>12038401</Id>
+    <NumberCode>S-255</NumberCode>
+    <NumberPrefix>S</NumberPrefix>
+    <Number>255</Number>
+    <LongTitleEn>An Act to amend the Criminal Code (murder of an intimate partner, one's own child or an intimate partner's child)</LongTitleEn>
+    <LongTitleFr>Loi modifiant le Code criminel (meurtre d'un partenaire intime, de son propre enfant ou de l'enfant d'un partenaire intime)</LongTitleFr>
+    <LongTitle>An Act to amend the Criminal Code (murder of an intimate partner, one's own child or an intimate partner's child)</LongTitle>
+    <ShortTitleEn>
+    </ShortTitleEn>
+    <ShortTitleFr>
+    </ShortTitleFr>
+    <ShortTitle>
+    </ShortTitle>
+    <StatusId>343</StatusId>
+    <StatusNameEn>At second reading in the Senate</StatusNameEn>
+    <StatusNameFr>À la deuxième lecture au Sénat</StatusNameFr>
+    <StatusName>At second reading in the Senate</StatusName>
+    <LatestCompletedMajorStageId>60043</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>First reading</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Première lecture</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>First reading</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>First reading in the Senate</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>2</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>Senate</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Sénat</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>Senate</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60030</OngoingStageId>
+    <OngoingStageNameEn>Second reading</OngoingStageNameEn>
+    <OngoingStageNameFr>Deuxième lecture</OngoingStageNameFr>
+    <OngoingStageName>Second reading</OngoingStageName>
+    <LatestCompletedBillStageId>60029</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>First reading</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Première lecture</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>First reading</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>2</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>Senate</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Sénat</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>Senate</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2022-11-02T00:00:00</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>44</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <BillDocumentTypeId>80760</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>Senate Public Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi d'intérêt public du Sénat</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>Senate Public Bill</BillDocumentTypeName>
+    <IsGovernmentBill>false</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>2</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>Senate</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Sénat</OriginatingChamberNameFr>
+    <OriginatingChamberName>Senate</OriginatingChamberName>
+    <IsHouseBill>false</IsHouseBill>
+    <IsSenateBill>true</IsSenateBill>
+    <SponsorSenateSystemAffiliationId>2865</SponsorSenateSystemAffiliationId>
+    <SponsorPersonId>64770</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Pierre-Hugues</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Boisvenu</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Pierre-Hugues Boisvenu</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>
+    </SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>
+    </SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>
+    </SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Senator</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>sénateur</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Senator</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>3</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Senator</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>sénateur</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Senator</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>0</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>
+    </SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>
+    </SponsorConstituencyNameFr>
+    <SponsorConstituencyName>
+    </SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60115</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Debate at second reading</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Débat à l'étape de la deuxième lecture</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60030</LatestBillEventStageId>
+    <LatestBillEventTypeName>Debate at second reading</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2023-06-13T14:00:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>2</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>Senate</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Sénat</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>Senate</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>133</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime />
+    <PassedHouseSecondReadingDateTime />
+    <PassedHouseThirdReadingDateTime />
+    <PassedSenateFirstReadingDateTime>2022-11-02T00:00:00</PassedSenateFirstReadingDateTime>
+    <PassedSenateSecondReadingDateTime />
+    <PassedSenateThirdReadingDateTime />
+    <ReceivedRoyalAssentDateTime />
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>false</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>false</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>false</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>false</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>false</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>false</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn />
+    <ShortLegislativeSummaryFr />
+    <ShortLegislativeSummary />
+    <IsFullLegislativeSummaryAvailable>false</IsFullLegislativeSummaryAvailable>
+    <StatuteYear />
+    <StatuteChapter />
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteint</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2022-11-02T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>77</Number>
+          <Date>2022-11-02T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2022-11-02T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2022-11-02T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2022-11-02T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2022-11-02T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>5</State>
+        <StateNameEn>Not completed</StateNameEn>
+        <StateNameFr>Non achevée</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>109</Number>
+          <Date>2023-03-28T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>133</Number>
+          <Date>2023-06-13T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <EndOfStageEvent />
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2023-06-13T21:16:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>64770</PersonId>
+          <PersonOfficialFirstName>Pierre-Hugues</PersonOfficialFirstName>
+          <PersonOfficialLastName>Boisvenu</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Pierre-Hugues Boisvenu</PersonName>
+          <SenateSystemAffiliationId>2865</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>109</MeetingNumber>
+          <SpeechDateTime>2023-03-28T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/441/debates/109db_2023-03-28-e?language=e#79</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/441/debates/109db_2023-03-28-f#79</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/441/debates/109db_2023-03-28-e?language=e#79</Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+    </BillStages>
+    <Publications>
+      <PublicationId>12038408</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Cotter, Adam. Intimate partner violence in Canada, 2018: An overview. Statistics Canada, 26 April 2021.</TitleEn>
+      <TitleFr>Cotter, Adam. Violence entre partenaires intimes au Canada, 2018 : un aperçu, Statistique Canada, 26 avril 2021.</TitleFr>
+      <Title>Cotter, Adam. Intimate partner violence in Canada, 2018: An overview. Statistics Canada, 26 April 2021.</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www150.statcan.gc.ca/n1/pub/85-002-x/2021001/article/00003-eng.htm</UrlEn>
+      <UrlFr>https://www150.statcan.gc.ca/n1/pub/85-002-x/2021001/article/00003-fra.htm</UrlFr>
+      <Url>https://www150.statcan.gc.ca/n1/pub/85-002-x/2021001/article/00003-eng.htm</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Conroy, Shana. "Section 3: Police-reported intimate partner violence in Canada, 2019." Family violence in Canada: A statistical profile, 2019. Statistics Canada, 2 March 2021.</TitleEn>
+      <TitleFr>Conroy, Shana. "Section 3 : Violence entre partenaires intimes au Canada, affaires déclarées par la police, 2019." La violence familiale au Canada : un profil statistique, 2019, Statistique Canada, 2 mars 2021.</TitleFr>
+      <Title>Conroy, Shana. "Section 3: Police-reported intimate partner violence in Canada, 2019." Family violence in Canada: A statistical profile, 2019. Statistics Canada, 2 March 2021.</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www150.statcan.gc.ca/n1/pub/85-002-x/2021001/article/00001/03-eng.htm</UrlEn>
+      <UrlFr>https://www150.statcan.gc.ca/n1/pub/85-002-x/2021001/article/00001/03-fra.htm</UrlFr>
+      <Url>https://www150.statcan.gc.ca/n1/pub/85-002-x/2021001/article/00001/03-eng.htm</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Nielsen, Linda C. Enhancing Safety: When Domestic Violence Cases are in Multiple Legal Systems (Criminal, family, child protection): A Family Law, Domestic Violence Perspective, 2nd ed., Department of Justice 2013.</TitleEn>
+      <TitleFr>Nielsen, Linda C. Renforcement de la sécurité : Affaires de violence conjugale faisant intervenir plusieurs systèmes juridiques (en matière de droit pénal, de droit de la famille et de protection de la jeunesse): Perspective du droit de la famille sur la violence conjugale, 2e éd., Ministère de la Justice, 2013.</TitleFr>
+      <Title>Nielsen, Linda C. Enhancing Safety: When Domestic Violence Cases are in Multiple Legal Systems (Criminal, family, child protection): A Family Law, Domestic Violence Perspective, 2nd ed., Department of Justice 2013.</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.justice.gc.ca/eng/rp-pr/fl-lf/famil/enhan-renfo/toc-tdm.html</UrlEn>
+      <UrlFr>https://www.justice.gc.ca/fra/pr-rp/lf-fl/famil/renfo-enhan/tdm-toc.html</UrlFr>
+      <Url>https://www.justice.gc.ca/eng/rp-pr/fl-lf/famil/enhan-renfo/toc-tdm.html</Url>
+    </WebReferences>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
