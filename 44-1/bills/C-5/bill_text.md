@@ -4,7 +4,7 @@
 
 This enactment amends the `Criminal Code` and the `Controlled Drugs and Substances Act` to, among other things, repeal certain mandatory minimum penalties, allow for a greater use of conditional sentences and establish diversion measures for simple drug possession offences.
 
-Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+His Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
 
 ## Criminal Code
