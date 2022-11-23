@@ -82,14 +82,6 @@ This Act may be cited as the `Pension Protection Act`.
 
 ### Section 6
 
-[*Deleted*]
-
-### Section 7
-
-[*Deleted*]
-
-### Section 8
-
 Section 40 of the `Pension Benefits Standards Act, 1985` is replaced by the following:
 
 ### Section 40
@@ -107,9 +99,9 @@ Section 40 of the `Pension Benefits Standards Act, 1985` is replaced by the foll
 
 ## Transitional Provisions
 
-### Section 9
+### Section 7
 
-  **(1)** Sections 2 to 4 do not apply in respect of a person who is an employer and who, on the day before the day on which those sections come into force, participated in a prescribed pension plan for the benefit of the person's employees until the **fourth** anniversary of the day on which this Act comes into force.
+  **(1)** Sections 2 to 4 do not apply in respect of a person who is an employer and who, on the day before the day on which those sections come into force, participated in a prescribed pension plan for the benefit of the person's employees until the fourth anniversary of the day on which this Act comes into force.
 
-  **(2)** Subsections 5(1) and (2) do not apply in respect of a company that, on the day before the day on which those subsections come into force, participated in a prescribed pension plan for the benefit of its employees until the **fourth** anniversary of the day on which this Act comes into force.
+  **(2)** Subsections 5(1) and (2) do not apply in respect of a company that, on the day before the day on which those subsections come into force, participated in a prescribed pension plan for the benefit of its employees until the fourth anniversary of the day on which this Act comes into force.
 
