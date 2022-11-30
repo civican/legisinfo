@@ -8,7 +8,7 @@ It also requires the Canadian Radio-television and Telecommunications Commission
 
 Whereas transparency and accuracy of information are important to allow Canadians to make informed decisions when choosing a Canadian carrier for fixed broadband services and to increase competition within the telecommunications industry;
 
-Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+Now, therefore, His Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
 
 ## Telecommunications Act
@@ -39,7 +39,9 @@ The `Telecommunications Act` is amended by adding the following after section 24
 
     the types of Canadian carriers, if any, that should be excluded, in whole or in part, from the application of subsection (2);
 
-    the types of transmission systems in respect of which the information referred to in subsection (2) is to be provided; and
+    the types of transmission systems in respect of which the information referred to in subsection (2) is to be provided;
 
-    the form and manner in which the information referred to in subsection (2) is to be provided to the public to ensure that it is easily available, accessible and simple to understand.
+    the form and manner in which the information referred to in subsection (2) is to be provided to the public to ensure that it is easily available, accessible and simple to understand; and
+
+    the measures that are to be taken, including in respect of compliance monitoring and enforcement, to ensure that the fixed broadband services provided by Canadian carriers reflect the information made available under subsection (2).
 
