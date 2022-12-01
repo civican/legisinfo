@@ -1,7 +1,5 @@
 # Bill C-29: An Act to provide for the establishment of a national council for reconciliation
 
-**Sponsor**: MINISTER OF CROWN-INDIGENOUS RELATIONS
-
 ## Summary
 
 This enactment provides for the establishment of a national council for reconciliation as an independent, non-political, permanent and Indigenous-led organization whose purpose is to advance reconciliation with Indigenous peoples.
@@ -102,7 +100,7 @@ Whereas the Government of Canada is committed to implementing the United Nations
 
 Whereas reconciliation requires the revitalization and celebration of Indigenous languages;
 
-Whereas the Government of Canada recognizes the need for the establishment of an independent, non-political, permanent and Indigenous-led organization to monitor, evaluate, conduct research and report on the progress being made towards reconciliation, **including in relation to respect for and the protection and promotion of the rights of Indigenous peoples**, in all sectors of Canadian society and by all governments in Canada, in order to address the Truth and Reconciliation Commission of Canada's Call to Action number 53;
+Whereas the Government of Canada recognizes the need for the establishment of an independent, non-political, permanent and Indigenous-led organization to monitor, evaluate, conduct research and report on the progress being made towards reconciliation, including in relation to respect for and the protection and promotion of the rights of Indigenous peoples, in all sectors of Canadian society and by all governments in Canada, in order to address the Truth and Reconciliation Commission of Canada's Call to Action number 53;
 
 Whereas the Government of Canada recognizes the need for such an organization to be a catalyst for innovative thought, dialogue and action;
 
@@ -187,7 +185,7 @@ protect Indigenous language rights, including by ensuring that, to promote and s
 
 ### Section 8
 
-The persons whose names are set out in the notice of directors sent under section `3` are to be **jointly** selected by the Minister **and** the transitional committee, taking into account sections `9`, `11`, `**12**` and `13` and the nominations referred to in subsection `10`(1).
+The persons whose names are set out in the notice of directors sent under section `3` are to be jointly selected by the Minister and the transitional committee, taking into account sections `9`, `11`, `12` and `13` and the nominations referred to in subsection `10`(1).
 
 ### Section 9
 
@@ -201,25 +199,23 @@ The Council's board of directors is to be composed of a minimum of nine and a ma
 
     one director who may only be elected after having been nominated by Inuit Tapiriit Kanatami;
 
-    one director who may only be elected after having been nominated by the Métis National Council;
+    one director who may only be elected after having been nominated by the Métis National Council; and
 
-    one director who may only be elected after having been nominated by the Native Women's Association of Canada; and
+    one director who may only be elected after having been nominated by the Native Women's Association of Canada.
 
-    one director who may only be elected after having been nominated by the Congress of Aboriginal Peoples.
-
-  **(2)** If there is a vacancy among the directors referred to in paragraphs (1)(a) to (c), the remaining directors may exercise all the powers of the directors if the number of directors on the Council's board of directors constitutes a quorum.
+  **(2)** If there is a vacancy among the directors referred to in paragraphs (1)(a) to (d), the remaining directors may exercise all the powers of the directors if the number of directors on the Council's board of directors constitutes a quorum.
 
   **(3)** The other directors are to be elected following an application process established by the board of directors.
 
 ### Section 11
 
-  ****(1)**** At least two thirds of the directors must be Indigenous persons.
+  **(1)** At least two thirds of the directors must be Indigenous persons.
 
   **(2)** At least two of the directors must be residents of Yukon, the Northwest Territories or Nunavut.
 
 ### Section 12
 
-  ****(1)**** The Council's board of directors must, to the extent possible, include representation from
+  **(1)** The Council's board of directors must, to the extent possible, include representation from
 
     First Nations, Inuit and the Métis;
 
@@ -229,13 +225,13 @@ The Council's board of directors is to be composed of a minimum of nine and a ma
 
     other peoples in Canada;
 
-    Indigenous organizations, as defined in section 2 of the `Department of Indigenous Services Act`, **to reflect the diversity of arrangements that govern relationships between Indigenous communities and the Government of Canada**;
+    Indigenous organizations, as defined in section 2 of the `Department of Indigenous Services Act`, to reflect the diversity of arrangements that govern relationships between Indigenous communities and the Government of Canada;
 
     youth, women, men and gender-diverse persons;
 
     various regions of Canada, including urban, rural and remote regions;
 
-    Indigenous persons whose first or second language is French; and
+    Indigenous persons whose first or second language learned is French; and
 
     survivors of Canadian residential schools or their descendants.
 
@@ -243,7 +239,7 @@ The Council's board of directors is to be composed of a minimum of nine and a ma
 
 ### Section 13
 
-  ****(1)**** Each director must have knowledge and experience with respect to matters related to Indigenous peoples and other matters related to the Council's purpose.
+  **(1)** Each director must have knowledge and experience with respect to matters related to Indigenous peoples and other matters related to the Council's purpose.
 
   **(2)** To ensure that Indigenous views are heard in relation to the advancement of reconciliation with Indigenous peoples, the Council must consult with a variety of persons with relevant knowledge, expertise or experience, including elders, survivors of the discriminatory and assimilationist policies of the Government of Canada and Indigenous law practitioners.
 
@@ -260,7 +256,7 @@ Despite subsection 128(3) of the `Canada Not-for-profit Corporations Act`, and s
 
 ### Section 16
 
-  ****(1)**** **Within six months after the day on which the Council is incorporated**, the Minister must, in collaboration with the Council, develop a protocol respecting the disclosure by the Government of Canada to the Council of information that is relevant to the Council's purpose.
+  **(1)** Within six months after the day on which the Council is incorporated, the Minister must, in collaboration with the Council, develop a protocol respecting the disclosure by the Government of Canada to the Council of information that is relevant to the Council's purpose.
 
   **(2)** The protocol must allow, to the extent possible, the Council to receive all the information it judges relevant to fulfill its mission.
 
@@ -287,7 +283,7 @@ the progress made on reducing the overrepresentation of Indigenous persons in th
 
 ### Section 17
 
-  **(1)** The Council must, within **three** months after the end of each financial year, submit to the Minister an annual report setting out
+  **(1)** The Council must, within three months after the end of each financial year, submit to the Minister an annual report setting out
 
     the state of reconciliation, including the progress being made towards reconciliation in all sectors of Canadian society and by all governments in Canada; and
 
@@ -295,7 +291,7 @@ the progress made on reducing the overrepresentation of Indigenous persons in th
 
   **(2)** The Minister must cause a copy of the report to be laid before each House of Parliament on any of the first 15 days on which that House is sitting after the day on which the report is received.
 
-  **(3)** Within **60** days after the day on which the report under subsection (2) is laid, the **Prime** Minister must, on behalf of the Government of Canada, respond to the matters addressed by the report that are under the jurisdiction of Parliament by publishing an annual report on the state of Indigenous peoples that outlines the Government of Canada's plans for advancing reconciliation.
+  **(3)** Within 60 days after the day on which the report under subsection (2) is laid, the Prime Minister must, on behalf of the Government of Canada, respond to the matters addressed by the report that are under the jurisdiction of Parliament by publishing an annual report on the state of Indigenous peoples that outlines the Government of Canada's plans for advancing reconciliation.
 
 
 ## Financial Report
