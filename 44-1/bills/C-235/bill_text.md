@@ -22,16 +22,16 @@ The following definitions apply in this Act.
 
 **Indigenous governing body** means a council, government or other entity that is authorized to act on behalf of an Indigenous group, community or people that holds rights recognized and affirmed by section 35 of the `Constitution Act, 1982`. (**corps dirigeant autochtone**)
 
-**Minister** means the **minister responsible for economic development in the Prairie provinces**. (**ministre**)
+**Minister** means the minister responsible for economic development in the Prairie provinces. (**ministre**)
 
 
 ## Framework for a Green Prairie Economy
 
 ### Section 3
 
-  **(1)** The Minister must, in collaboration with the Minister of the Environment, the Minister of Transport, **the Minister of Industry, the Minister of Agriculture and Agri-Food**, the Minister of Finance and the Minister of Natural Resources, develop a framework to coordinate local cooperation and engagement in the implementation of federal programs across various sectors, with the objective of building a green economy in the Prairie provinces.
+  **(1)** The Minister must, in collaboration with the Minister of the Environment, the Minister of Transport, the Minister of Industry, the Minister of Agriculture and Agri-Food, the Minister of Finance and the Minister of Natural Resources, develop a framework to coordinate local cooperation and engagement in the implementation of federal programs across various sectors, with the objective of building a green economy in the Prairie provinces.
 
-  **(2)** In developing the framework, the Minister must consult with provincial government representatives responsible for transportation, environment and employment, and with **municipalities**, Indigenous governing bodies, the private sector and representatives of employers and employees in that sector.
+  **(2)** In developing the framework, the Minister must consult with provincial government representatives responsible for transportation, environment and employment, and with municipalities, Indigenous governing bodies, the private sector and representatives of employers and employees in that sector.
 
   **(2.1)** The consultation process provided for under subsection (2) is only required if such a consultation process is not already provided for under any other Act of Parliament or any Act of a province or by-law of a municipality.
 
@@ -39,11 +39,11 @@ The following definitions apply in this Act.
 
     addressing the limited or non-existent transportation options in small cities and communities, and advancing innovative solutions for public transportation services in those cities and communities;
 
-    fostering job creation and **skills transfer, as evidenced by increased employment, in Prairie** regions that rely on traditional energy industries to enable them to build a **net**-zero emissions green economy and mitigate their impact on climate change;
+    fostering job creation and skills transfer, as evidenced by increased employment, in Prairie regions that rely on traditional energy industries to enable them to build a net-zero emissions green economy and mitigate their impact on climate change;
 
-    prioritizing projects that generate natural infrastructure and a clean environment, such as tree-planting initiatives, solar energy projects and environmental management of the boreal forest, and that make use of **all** sources of energy, including nuclear energy;
+    prioritizing projects that generate natural infrastructure and a clean environment, such as tree-planting initiatives, solar energy projects and environmental management of the boreal forest, and that make use of all sources of energy, including nuclear energy;
 
-    **supporting the continued development of** clean energy **in** fields such as agriculture, forestry, transportation, manufacturing and tourism;
+    supporting the continued development of clean energy in fields such as agriculture, forestry, transportation, manufacturing and tourism;
 
     establishing programs and projects that stimulate a green economy, in a way that takes into account local circumstances, and the participation of local businesses, governments and civil society organizations; and
 
@@ -54,11 +54,11 @@ The following definitions apply in this Act.
 
 ### Section 4
 
-  **(1)** Within **12** months after the day on which this Act comes into force, the Minister must prepare a report setting out the framework referred to in section 3 and cause the report to be tabled in each House of Parliament on any of the first 15 days on which that House is sitting after the report is completed.
+  **(1)** Within 12 months after the day on which this Act comes into force, the Minister must prepare a report setting out the framework referred to in section 3 and cause the report to be tabled in each House of Parliament on any of the first 15 days on which that House is sitting after the report is completed.
 
-  **(2)** The Minister must publish the report on the **departmental** website within 10 days after the report has been tabled in both Houses of Parliament.
+  **(2)** The Minister must publish the report on the departmental website within 10 days after the report has been tabled in both Houses of Parliament.
 
 ### Section 5
 
-Within two years after the report referred to in section 4 has been tabled in both Houses of Parliament, and every five years after that, the Minister must, in collaboration with the Minister of the Environment, the Minister of Transport, **the Minister of Industry, the Minister of Agriculture and Agri-Food**, the Minister of Finance and the Minister of Natural Resources, prepare a report on the progress and effectiveness of the framework, setting out the Minister's conclusions and recommendations, and cause the report to be tabled in each House of Parliament on any of the first 15 days on which that House is sitting after it is completed.
+Within two years after the report referred to in section 4 has been tabled in both Houses of Parliament, and every five years after that, the Minister must, in collaboration with the Minister of the Environment, the Minister of Transport, the Minister of Industry, the Minister of Agriculture and Agri-Food, the Minister of Finance and the Minister of Natural Resources, prepare a report on the progress and effectiveness of the framework, setting out the Minister's conclusions and recommendations, and cause the report to be tabled in each House of Parliament on any of the first 15 days on which that House is sitting after it is completed.
 
