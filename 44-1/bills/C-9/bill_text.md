@@ -1,7 +1,5 @@
 # Bill C-9: An Act to amend the Judges Act
 
-**Sponsor**: MINISTER OF JUSTICE
-
 Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act to amend the Judges Act*".
 
 ## Summary
@@ -215,7 +213,7 @@ The reviewing member shall give the judge who is the subject of the complaint an
 
 ### Section 94
 
-  ****(1)**** The reviewing member shall dismiss the complaint if they are of the opinion that it should be dismissed for any reason set out in paragraphs `90`(1)(a) to (c) or that it is wholly without merit.
+  **(1)** The reviewing member shall dismiss the complaint if they are of the opinion that it should be dismissed for any reason set out in paragraphs `90`(1)(a) to (c) or that it is wholly without merit.
 
   **(2)** If the reviewing member dismisses the complaint, they shall inform the complainant in writing of their decision and the reasons for it.
 
@@ -280,7 +278,7 @@ with the consent of the judge, take any other action that the panel considers ap
 
 ### Section 103
 
-  ****(1)**** The review panel shall give notice of its decision and the reasons for it to
+  **(1)** The review panel shall give notice of its decision and the reasons for it to
 
     the judge who is the subject of the complaint;
 
