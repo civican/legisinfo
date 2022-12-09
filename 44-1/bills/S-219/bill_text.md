@@ -1,7 +1,5 @@
 # Bill S-219: An Act respecting a National Ribbon Skirt Day
 
-**Sponsor**: Senator McCallum
-
 ## Summary
 
 This enactment designates the 4th day of January in each and every year as "National Ribbon Skirt Day".
