@@ -1,7 +1,5 @@
 # Bill S-223: An Act to amend the Criminal Code and the Immigration and Refugee Protection Act (trafficking in human organs)
 
-**Sponsor**: Senator Ataullahjan
-
 ## Summary
 
 This enactment amends the `Criminal Code` to create new offences in relation to trafficking in human organs. It also amends the `Immigration and Refugee Protection Act`to provide that a permanent resident or foreign national is inadmissible to Canada if the appropriate minister is of the opinion that they have engaged in any activities relating to trafficking in human organs.
@@ -19,14 +17,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
   **(2)** Subsection 7(4.3) of the Act is replaced by the following:
 
-    **(4.3)** Proceedings with respect to an act or omission deemed to have been committed in Canada under subsection (4.1) **or (4.2)** may only be instituted with the consent of the Attorney General.
-
-
-> **Explanatory Note**:
-> Existing text of subsections 7(4.2) and (4.3):
-> *Existing Text*:
-> > [Repealed, 2002, c. 13, s. 3]
-> > Proceedings with respect to an act or omission deemed to have been committed in Canada under subsection (4.1) may only be instituted with the consent of the Attorney General.
+    **(4.3)** Proceedings with respect to an act or omission deemed to have been committed in Canada under subsection (4.1) or (4.2) may only be instituted with the consent of the Attorney General.
 
 ### Section 2
 
@@ -50,10 +41,6 @@ The Act is amended by adding the following after section 240:
   **(3)** Everyone who commits an offence under subsection (1) or (2) is guilty of an indictable offence and liable to imprisonment for a term of not more than 14 years.
 
 
-> **Explanatory Note**:
-> New.
-
-
 ## `Immigration and Refugee Protection Act`
 
 ### Section 3
@@ -61,11 +48,4 @@ The Act is amended by adding the following after section 240:
 Subsection 35(1) of the `Immigration and Refugee Protection Act` is amended by adding the following after paragraph (c):
 
 having engaged in conduct that would, in the opinion of the Minister, constitute an offence under section 240.1 of the `Criminal Code`;
-
-
-> **Explanatory Note**:
-> Text of relevant portion of subsection 35(1):
-> *Existing Text*:
-> > A permanent resident or a foreign national is inadmissible on grounds of violating human or international rights for
-> > 
 
