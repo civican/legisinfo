@@ -1,6 +1,6 @@
 # Bill C-18: An Act respecting online communications platforms that make news content available to persons in Canada
 
-**Sponsor**: MINISTER OF CANADIAN HERITAGE
+Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act respecting online communications platforms that make news content available to persons in Canada*".
 
 ## Summary
 
@@ -360,11 +360,11 @@ This Act may be cited as the `Online News Act`.
 
     **Minister** means the Minister of Canadian Heritage or, if another federal minister is designated under section `5`, that minister. (**ministre**)
 
-    **news business** means an individual or entity that operates a news outlet **in Canada**. (**entreprise de nouvelles**)
+    **news business** means an individual or entity that operates a news outlet in Canada. (**entreprise de nouvelles**)
 
-    **news content** means content — in any format, including an audio or audiovisual format — that reports on, investigates or explains current issues or events of public interest **and includes such content that an Indigenous news outlet makes available to an Indigenous community by means of Indigenous storytelling**. (**contenu de nouvelles**)
+    **news content** means content — in any format, including an audio or audiovisual format — that reports on, investigates or explains current issues or events of public interest and includes such content that an Indigenous news outlet makes available to an Indigenous community by means of Indigenous storytelling. (**contenu de nouvelles**)
 
-    **news outlet** means an undertaking or any distinct part of an undertaking, such as a section of a newspaper, the primary purpose of which is to produce news content **and includes an Indigenous news outlet**. (**média d'information**)
+    **news outlet** means an undertaking or any distinct part of an undertaking, such as a section of a newspaper, the primary purpose of which is to produce news content and includes an Indigenous news outlet. (**média d'information**)
 
     **operator** means an individual or entity that, through any means, operates a digital news intermediary. (**exploitant**)
 
@@ -387,7 +387,7 @@ This Act may be cited as the `Online News Act`.
 
 ### Section 4
 
-The purpose of this Act is to regulate digital news intermediaries with a view to enhancing fairness in the Canadian digital news marketplace and contributing to its sustainability, including the sustainability of news businesses **in Canada, in both the non-profit and for-profits sectors**, including independent local **ones**.
+The purpose of this Act is to regulate digital news intermediaries with a view to enhancing fairness in the Canadian digital news marketplace and contributing to its sustainability, including the sustainability of news businesses in Canada, in both the non-profit and for-profits sectors, including independent local ones.
 
 
 ## Designation of Minister
@@ -480,9 +480,9 @@ For greater certainty, this Act does not apply to a telecommunications service p
 
     the Commission is unable to make the exemption order because it is of the opinion that, taken as a whole, the agreements do not satisfy the criteria set out in subparagraphs `11`(1)(a)(i) to (vi); and
 
-    the Commission is of the opinion that it will be able to change its opinion because the operator is, in good faith, taking measures that will permit the criteria to be satisfied within a reasonable period, **which period must not be longer than one year**.
+    the Commission is of the opinion that it will be able to change its opinion because the operator is, in good faith, taking measures that will permit the criteria to be satisfied within a reasonable period, which period must not be longer than one year.
 
-  **(2)** The interim order must contain conditions respecting the measures being taken by the operator and may contain any other condition the Commission considers appropriate, **including a condition requiring that public consultations be held at a time and place in Canada to be fixed by the Commission**.
+  **(2)** The interim order must contain conditions respecting the measures being taken by the operator and may contain any other condition the Commission considers appropriate, including a condition requiring that public consultations be held at a time and place in Canada to be fixed by the Commission.
 
   **(3)** The interim order is subject to the approval of the Treasury Board if the order exempts the operator from the application of a provision referred to in sub­section `11`(4).
 
@@ -604,11 +604,11 @@ has made payments or has offered to make payments to the business in question fo
 
   **(1)** At the request of a news business, the Commission must, by order, designate the business as eligible if it
 
-    is a qualified Canadian journalism organization as defined in subsection 248(1) of the `Income Tax Act`, **or is licensed by the Commission under paragraph 9(1)(b) of the `Broadcasting Act` as a campus station, community station or native station as those terms are defined in regulations made under that Act or other categories of licensees established by the Commission with a similar community mandate**;
+    is a qualified Canadian journalism organization as defined in subsection 248(1) of the `Income Tax Act`, or is licensed by the Commission under paragraph 9(1)(b) of the `Broadcasting Act` as a campus station, community station or native station as those terms are defined in regulations made under that Act or other categories of licensees established by the Commission with a similar community mandate;
 
-    produces news content **of public interest** that is primarily focused on matters of general interest and reports of current events, including coverage of democratic institutions and processes, and
+    produces news content of public interest that is primarily focused on matters of general interest and reports of current events, including coverage of democratic institutions and processes, and
 
-    regularly employs two or more journalists in Canada, **which journalists may include journalists who own or are a partner in the news business and journalists who do not deal at arm's length with the business**,
+    regularly employs two or more journalists in Canada, which journalists may include journalists who own or are a partner in the news business and journalists who do not deal at arm's length with the business,
 
     operates in Canada, including having content edited and designed in Canada,
 
@@ -617,8 +617,6 @@ has made payments or has offered to make payments to the business in question fo
     is either a member of a recognized journalistic association and follows the code of ethics of a recognized journalistic association or has its own code of ethics whose standards of professional conduct require adherence to the recognized processes and principles of the journalism profession, including fairness, independence and rigour in reporting news and handling sources; or
 
     operates an Indigenous news outlet in Canada and produces news content that includes matters of general interest, including coverage of matters relating to the rights of Indigenous peoples, including the right of self-government and treaty rights.
-
-  **(1.1)** The code of ethics referred to in subparagraph (1)(b)(iv) must include measures for ensuring that no news content that promotes hatred or misinformation against any identifiable group is produced or made available and that any errors of fact are corrected promptly and in a transparent manner.
 
   **(2)** The Commission may make an order under subsection (1) on its own initiative.
 
@@ -636,7 +634,7 @@ has made payments or has offered to make payments to the business in question fo
 
 ### Section 28
 
-The designation of a **provincial** public broadcaster as an eligible news business is subject to any other conditions specified in regulations made by the Governor in Council.
+The designation of a provincial public broadcaster as an eligible news business is subject to any other conditions specified in regulations made by the Governor in Council.
 
 ### Section 29
 
@@ -714,7 +712,7 @@ When initiating the bargaining process, an eligible news business or group of el
 
 ### Section 36
 
-The Commission may, at the request of an arbitration panel, provide administrative and technical assistance to the panel **and may, on any terms that the Commission considers necessary, disclose to the panel any confidential information in the Commission's possession that, in the Commission's opinion, is necessary for a balanced and informed decision-making process, on the condition that the Commission ensures that the arbitration panel or each individual arbitrator that presides over the final offer arbitration, do not further disclose any such confidential information and under any further terms that the Commission considers necessary**.
+The Commission may, at the request of an arbitration panel, provide administrative and technical assistance to the panel and may, on any terms that the Commission considers necessary, disclose to the panel any confidential information in the Commission's possession that, in the Commission's opinion, is necessary for a balanced and informed decision-making process, on the condition that the Commission ensures that the arbitration panel or each individual arbitrator that presides over the final offer arbitration, do not further disclose any such confidential information and under any further terms that the Commission considers necessary.
 
 ### Section 37
 
@@ -742,7 +740,7 @@ the bargaining power imbalance between the news business and the operator of the
 
   **(2)** If the arbitration panel dismisses, in accordance with subsection (1), the final offer made by one of the parties, it must accept the final offer made by the other party.
 
-  **(3)** If the arbitration panel dismisses, in accordance with subsection (1), **the final offer made by each of the parties**, it must provide written reasons to the **parties** and give them an opportunity to make a new offer.
+  **(3)** If the arbitration panel dismisses, in accordance with subsection (1), the final offer made by each of the parties, it must provide written reasons to the parties and give them an opportunity to make a new offer.
 
 ### Section 40
 
@@ -846,17 +844,17 @@ any bargaining or mediation session or any final offer arbitration under the bar
 
 ### Section 51
 
-**In the course of making available** news content that is produced primarily for the Canadian news marketplace by news **outlets** operated by eligible news **businesses**, the operator of a digital news intermediary **must not act** in any way that
+In the course of making available news content that is produced primarily for the Canadian news marketplace by news outlets operated by eligible news businesses, the operator of a digital news intermediary must not act in any way that
 
-unjustly discriminates against **an eligible news** business;
+unjustly discriminates against an eligible news business;
 
 gives undue or unreasonable preference to any individual or entity, including itself; or
 
-subjects **an eligible news** business to an undue or unreasonable disadvantage.
+subjects an eligible news business to an undue or unreasonable disadvantage.
 
 ### Section 52
 
-  ****(1)**** An eligible news business or group of eligible news businesses may make a complaint to the Commission if the business or group has reasonable grounds to believe that an operator has, in relation to the business or a member of the group, contravened section `51`.
+  **(1)** An eligible news business or group of eligible news businesses may make a complaint to the Commission if the business or group has reasonable grounds to believe that an operator has, in relation to the business or a member of the group, contravened section `51`.
 
   **(2)** In determining whether an operator has contravened section 51, the Commission may take into account any factor it considers appropriate, but it must take into account whether the conduct in question is
 
@@ -1274,9 +1272,7 @@ respecting the time at which or the period within which an operator must notify 
 
 respecting how the Commission is to interpret subparagraphs `11`(1)(a)(i) to (vi);
 
-setting out conditions for the purposes of paragraph 11(1)(b); **and**
-
-[*Deleted*]
+setting out conditions for the purposes of paragraph 11(1)(b); and
 
 setting out conditions in respect of a provincial public broadcaster for the purposes of section `28`, if the provincial minister responsible for that broadcaster has made a request to the Minister.
 
