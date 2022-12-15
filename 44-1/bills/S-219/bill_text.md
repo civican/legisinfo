@@ -18,7 +18,7 @@ Whereas Call for Justice 2.1 of the Final Report of the National Inquiry into Mi
 
 And whereas Call for Justice 15.2 of that report calls on Canadians to "[d]ecolonize by learning the true history of Canada … and learn about and celebrate Indigenous Peoples' history, cultures, pride, and diversity";
 
-Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+Now, therefore, His Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
 
 ## Short Title
