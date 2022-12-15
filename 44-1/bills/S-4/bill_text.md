@@ -22,7 +22,7 @@ The enactment also provides for one or more independent reviews on the use of re
 
 Lastly, the enactment also provides for a parliamentary review of the provisions enacted or amended by this enactment and of the use of remote proceedings in criminal justice matters to commence at the start of the fifth year following the day on which it receives royal assent.
 
-Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+His Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
 
 ## Criminal Code
