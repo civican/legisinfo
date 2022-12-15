@@ -4,7 +4,7 @@
 
 This enactment amends the `Criminal Code` to create new offences in relation to trafficking in human organs. It also amends the `Immigration and Refugee Protection Act`to provide that a permanent resident or foreign national is inadmissible to Canada if the appropriate minister is of the opinion that they have engaged in any activities relating to trafficking in human organs.
 
-Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+His Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
 
 ## `Criminal Code`
