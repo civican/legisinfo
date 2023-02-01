@@ -24,6 +24,8 @@ Whereas the Government of Canada is committed to achieving reconciliation with F
 
 Whereas the Truth and Reconciliation Commission of Canada's Calls to Action calls for the federal, provincial and Indigenous governments to develop culturally appropriate early childhood education programs for Indigenous families;
 
+Whereas the Government of Canada is committed to upholding the right of Indigenous peoples to be consulted in order to obtain their free, prior and informed consent for legislation pertaining to Indigenous children;
+
 And whereas the Government of Canada recognizes the importance of engaging with civil society, including parents, guardians, tutors and other stakeholders, to assist it in its efforts to support a Canada-wide early learning and child care system;
 
 Now, therefore, His Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
@@ -42,11 +44,11 @@ This Act may be cited as the `Canada Early Learning and Child Care Act`.
 
 The following definitions apply in this Act.
 
-**Indigenous governing body** means a council, government or other entity that is authorized to act on behalf of an Indigenous group, community or people that holds rights recognized and affirmed by section 35 of the `Constitution Act, 1982`. (**corps dirigeant autochtone**)
+**Indigenous governing body** means a council, government or other entity that is authorized to act on behalf of an Indigenous group, community or people that holds rights recognized and affirmed by section 35 of the `Constitution Act, 1982`. (**corps dirigeant autochtone**)
 
-**Indigenous peoples** has the meaning assigned by the definition aboriginal peoples of Canada in subsection 35(2) of the `Constitution Act, 1982`. (**peuples autochtones**)
+**Indigenous peoples** has the meaning assigned by the definition aboriginal peoples of Canada in subsection 35(2) of the `Constitution Act, 1982`. (**peuples autochtones**)
 
-**Minister** means the member of the King's Privy Council for Canada designated under section `4`. (**ministre**)
+**Minister** means the member of the King's Privy Council for Canada designated under section `4`. (**ministre**)
 
 ### Section 3
 
@@ -87,7 +89,7 @@ access to affordable early learning and child care programs and services enable 
 
 it is important for the Government of Canada to cooperate, collaborate and work in partnership with the provinces and Indigenous peoples and support them in their efforts to provide those programs and services; and
 
-First Nations, Inuit and Métis children and families are best supported by early learning and child care programs and services that are culturally appropriate and that are led by Indigenous peoples.
+First Nations, Inuit and Métis children and families are best supported by early learning and child care programs and services that are culturally appropriate, that are led by Indigenous peoples and **that respect the right of Indigenous peoples to free, prior and informed consent in matters relating to children**.
 
 
 ## Funding
@@ -96,15 +98,17 @@ First Nations, Inuit and Métis children and families are best supported by earl
 
   **(1)** Federal investments respecting the establishment and maintenance of a Canada-wide early learning and child care system — as well as the efforts to enter into related agreements with the provinces and Indigenous peoples — must be guided by the principles by which early learning and child care programs and services should be accessible, affordable, inclusive and of high quality and must, therefore, aim to
 
-    facilitate access to early learning and child care programs and services — in particular those that are provided by public and not for profit child care providers — that meet standards set by provincial governments or Indigenous governing bodies and respond to the varying needs of children and families;
+    **support the provision of, and** facilitate **equitable** access to, **high-quality** early learning and child care programs and services — in particular those that are provided by public and not for profit child care providers — that meet standards set by provincial governments or Indigenous governing bodies, **that are reflective of other evidence-based best practices in high-quality service provision** and **that** respond to the varying needs of children and families;
 
-    enable families of varying incomes to benefit from affordable early learning and child care programs and services;
+    enable families of **all income levels, including low** incomes, to benefit from affordable early learning and child care programs and services;
 
-    support the provision of early learning and child care programs and services that are inclusive and that respect and value the diversity of all children and families and respond to their varying needs; and
+    support the provision, **including in rural and remote communities**, of early learning and child care programs and services that are inclusive **of children from systematically marginalized groups, including children with disabilities, and of children from English and French linguistic minority communities**, that respect and value the diversity of all children and families and **that** respond to their varying needs; and
 
-    support the provision of high-quality early learning and child care programs and services that foster the social, emotional, physical and cognitive development of young children, including through the use of a qualified and well-supported early childhood education workforce.
+    support the provision of high-quality early learning and child care programs and services that foster the social, emotional, physical and cognitive development of young children, including through the **recruitment and retention** of a qualified and well-supported early childhood education workforce, **recognizing that working conditions affect the provision of those programs and services**.
 
   **(2)** Federal investments in respect of early learning and child care programs and services for Indigenous peoples — as well as the efforts to enter into related agreements with Indigenous peoples — must be guided by the principles set out in the Indigenous Early Learning and Child Care Framework, in addition to the principles set out in subsection (1).
+
+  **(3)** Federal investments in respect of early learning and child care programs and services subject to an agreement entered into with a province must be guided by the commitments set out in the `Official Languages Act`, in addition to the principles set out in subsection (1).
 
 ### Section 8
 
@@ -125,7 +129,7 @@ A Council is established, to be known as the National Advisory Council on Early 
 
 ### Section 11
 
-  **(1)** The members of the Council, other than the ex officio member, are to be appointed by the Governor in Council — on the recommendation of the Minister, having regard to the importance of having members who are representative of the diversity of Canadian society — to hold office during pleasure for a term not exceeding three years and are eligible to be reappointed in the same or another capacity.
+  **(1)** The members of the Council, other than the ex officio member, are to be appointed by the Governor in Council — on the recommendation of the Minister, having regard to the importance of having members who are representative of the diversity of Canadian society, **including Indigenous peoples and official language minority communities** — to hold office during pleasure for a term not exceeding three years and are eligible to be reappointed in the same or another capacity.
 
   **(2)** The Chairperson is to be appointed as a full-time member or a part-time member and the other members, other than the ex officio member, are to be appointed as part-time members.
 
@@ -149,9 +153,13 @@ The Council must
 
 provide advice to the Minister respecting early learning and child care, including with respect to programs and services, funding and activities that support early learning and child care;
 
-conduct engagement activities on matters relating to the Canada-wide early learning and child care system; and
+consult broadly with individuals and organizations that have an interest in early learning and child care, including parents, the early childhood education workforce, child care providers, advocates and policy and research specialists, on matters relating to the Canada-wide early learning and child care system; and
 
 undertake any other activity related to its functions under paragraph (a) or (b) that is specified by the Minister.
+
+### Section 14.1
+
+The Minister may, on request of the Council, provide the Council with any information respecting the Canada-wide early learning and child care system that is related to the Council's functions and that is in the Minister's possession, if it is within the Minister's authority to share the information.
 
 ### Section 15
 
@@ -162,7 +170,15 @@ The Council must meet at least four times in each fiscal year unless the Ministe
 
 ### Section 16
 
-The Minister must prepare and make public an annual report on the progress being made respecting the Canada-wide early learning and child care system, including the federal investments made in respect of that system.
+  **(1)** At the end of the fiscal year, the Minister must prepare a report that contains
+
+    a summary of the information in the Minister's possession and within the Minister's authority to disclose relating to the federal investments made in respect of the Canada-wide early learning and child care system during the fiscal year;
+
+    a summary of the progress being made respecting that system, including information relating to the quality, availability, affordability, accessibility, and inclusiveness of early learning and child care programs and services and to the access to those programs and services; and
+
+    a summary of the advice provided by the Council under paragraph 14(a) and the work of the Council during the reporting period.
+
+  **(2)** The Minister must cause the report to be tabled in each House of Parliament on any of the first 15 days on which that House is sitting after the report is completed.
 
 
 ## Coming into Force
