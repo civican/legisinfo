@@ -1,6 +1,6 @@
 # Bill C-22: An Act to reduce poverty and to support the financial security of persons with disabilities by establishing the Canada disability benefit and making a consequential amendment to the Income Tax Act
 
-**Sponsor**: MINISTER OF EMPLOYMENT, WORKFORCE DEVELOPMENT AND DISABILITY 
+Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act to reduce poverty and to support the financial security of persons with disabilities by establishing the Canada disability benefit and making a consequential amendment to the Income Tax Act*".
 
 ## Summary
 
@@ -20,9 +20,9 @@ Preamble
 `Canada Disability Benefit Act`
 
 
-## Definition
+## Definitions
 
-Definition of *Minister*
+Definitions
 
 
 ## Purposes of Act
@@ -54,6 +54,13 @@ Consolidated Revenue Fund
 
 Regulations
 
+Collaboration
+
+
+## Progress Reports
+
+Engagement and collaboration
+
 
 ## Parliamentary Review
 
@@ -67,7 +74,7 @@ Parliamentary review
 
 ## Coming into Force
 
-Order in council
+First anniversary
 
 Whereas working-age persons with disabilities are more likely to live in poverty than working-age persons without disabilities, because of economic and social exclusion;
 
@@ -89,7 +96,7 @@ Whereas, in the spirit of "Nothing Without Us", the Government of Canada recogni
 
 And whereas Parliament recognizes the leading role that the provinces and territories play in providing supports and services to persons with disabilities and the importance of engaging with them in developing income supports and other support services;
 
-Now therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+Now, therefore, His Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
 
 ## Short Title
@@ -99,11 +106,15 @@ Now therefore, Her Majesty, by and with the advice and consent of the Senate and
 This Act may be cited as the `Canada Disability Benefit Act`.
 
 
-## Definition
+## Definitions
 
 ### Section 2
 
-In this Act, **Minister** means the Minister of Employment and Social Development.
+The following definitions apply in this Act.
+
+**disability** has the same meaning as in section 2 of the `Accessible Canada Act`. (**handicap**)
+
+**Minister** means the Minister of Employment and Social Development. (**ministre**)
 
 
 ## Purposes of Act
@@ -136,7 +147,9 @@ The Minister is authorized to collect and use, for the purposes of the administr
 
 ### Section 8
 
-In order to carry out the purposes of this Act, the Minister may enter into agreements with any department or agency of the Government of Canada and may, with the approval of the Governor in Council, enter into agreements with any department or agency of a province.
+  **(1)** In order to carry out the purposes of this Act, the Minister may enter into agreements with any department or agency of the Government of Canada and may, with the approval of the Governor in Council, enter into agreements with any department or agency of a province.
+
+  **(2)** The Minister must make public any agreement entered into under subsection (1).
 
 ### Section 9
 
@@ -167,11 +180,11 @@ All benefits payable under this Act are to be paid out of the Consolidated Reven
 
     respecting the amount of a benefit or the method for determining the amount;
 
-    respecting the manner in which a benefit is to be indexed to inflation;
+    requiring a benefit to be indexed to inflation and respecting the manner in which it is to be indexed;
 
     respecting payment periods and the amount to be paid each period;
 
-    respecting applications for a benefit;
+    respecting applications for a benefit, including regulations providing for an application process that is without barriers, as defined in section 2 of the `Accessible Canada Act`;
 
     respecting the amendment or rescission of decisions made by the Minister;
 
@@ -213,14 +226,33 @@ All benefits payable under this Act are to be paid out of the Consolidated Reven
 
     generally, for carrying out the purposes and provisions of this Act.
 
+  **(1.1)** In making regulations under paragraph (1)(c) respecting the amount of a benefit, the Governor in Council must take into consideration the Official Poverty Line as defined in section 2 of the `Poverty Reduction Act`.
+
   **(2)** Regulations made under subsection (1) may distinguish among different classes of applicants and beneficiaries.
+
+### Section 11.1
+
+The Minister must provide persons with disabilities from a range of backgrounds with meaningful and barrier-free opportunities to collaborate in the development and design of the regulations, including regulations that provide for the application process, eligibility criteria, the amount of a benefit and the appeal process.
+
+
+## Progress Reports
+
+### Section 11.2
+
+  **(1)** Within six months after the day on which this Act comes into force, the Minister must table in the House of Commons a report that sets out the manner in which the obligation to engage and collaborate with the disability community in relation to the development of regulations has been implemented.
+
+  **(2)** Within one year after the day on which this Act comes into force, the Minister must cause to be tabled in each House of Parliament a report on the progress made in the regulatory process.
+
+  **(3)** The report stands referred to the committee of each House that may be designated or established for the purpose of reviewing the report.
+
+  **(4)** The report must be published on the website of the Department of Employment and Social Development.
 
 
 ## Parliamentary Review
 
 ### Section 12
 
-As soon as feasible after the third anniversary of the day on which this section comes into force and after each subsequent fifth anniversary, a review of this Act and of its administration and operation is to be undertaken by a committee of the Senate, of the House of Commons or of both Houses of Parliament that may be designated or established for that purpose.
+As soon as feasible after the first anniversary of the day on which this section comes into force, after the third anniversary of that day and after each subsequent fifth anniversary, a review of this Act and of its administration and operation is to be undertaken by a committee of the Senate, of the House of Commons or of both Houses of Parliament that may be designated or established for that purpose.
 
 
 ## Consequential Amendment to the `Income Tax Act`
@@ -236,5 +268,5 @@ to an official solely for the purposes of the administration and enforcement of 
 
 ### Section 14
 
-This Act comes into force on a day to be fixed by order of the Governor in Council.
+This Act comes into force no later than the first anniversary of the day on which it receives royal assent.
 
