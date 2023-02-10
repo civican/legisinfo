@@ -1,0 +1,38 @@
+# Bill C-314: An Act to amend the Criminal Code (medical assistance in dying)
+
+## Summary
+
+This enactment amends the `Criminal Code` to provide that a mental disorder is not a grievous and irremediable medical condition for which a person could receive medical assistance in dying.
+
+Whereas Parliament considers it a priority to ensure that adequate supports are in place for the mental health of Canadians;
+
+Whereas Parliament considers that vulnerable Canadians should receive suicide prevention counselling rather than access medical assistance in dying;
+
+Whereas Parliament considers that Canada's medical assistance in dying regime risks normalizing assisted dying as a solution for those suffering from a mental disorder;
+
+Now, therefore, His Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+## Criminal Code
+
+### Section 1
+
+Subsection 241.2(2.1) of the `Criminal Code` is replaced by the following:
+
+**(2.1)** For the purposes of **subsection (2)**, a mental **disorder** is not **a grievous and irremediable medical condition**.
+
+
+## Coordinating Amendments
+
+### Section 2
+
+  **(1)** In this section, other Act means `An Act to amend the Criminal Code (medical assistance in dying)`, chapter 2 of the Statutes of Canada, 2021.
+
+  **(2)** If section 1 of this Act comes into force before subsection 1(2.1) of the other Act, then that subsection 1(2.1) is repealed.
+
+  **(3)** If subsection 1(2.1) of the other Act comes into force before section 1 of this Act, then section 241.2 of the `Criminal Code` is amended by adding the following after subsection (2):
+
+    **(2.1)** For the purposes of subsection (2), a mental disorder is not a grievous and irremediable medical condition.
+
+    **(4)** If subsection 1(2.1) of the other Act comes into force on the same day as section 1 of this Act, then that subsection 1(2.1) is deemed to have come into force before that section 1 and subsection (3) applies as a consequence.
+
