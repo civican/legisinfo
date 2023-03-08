@@ -49,23 +49,23 @@ The following definitions apply in this Act.
 
 ### Section 3
 
-  **(1)** The Minister must develop a national framework designed to raise awareness of cancers linked to firefighting **with the goal of improving** access for firefighters to cancer prevention and treatment.
+  **(1)** The Minister must develop a national framework designed to raise awareness of cancers linked to firefighting with the goal of improving access for firefighters to cancer prevention and treatment.
 
-  **(2)** In developing the **national framework**, the Minister must consult with the representatives of the provincial **and territorial** governments responsible for health, with municipal governments, with Indigenous governing bodies, **with health care professionals, with scientists** and with stakeholders in the firefighting community.
+  **(2)** In developing the national framework, the Minister must consult with the representatives of the provincial and territorial governments responsible for health, with municipal governments, with Indigenous governing bodies, with health care professionals, with scientists and with stakeholders in the firefighting community.
 
-  **(3)** The national framework **may** include measures to
+  **(3)** The national framework may include measures to
 
-    explain **and support research on** the link between firefighting and certain types of cancer;
+    explain and support research on the link between firefighting and certain types of cancer;
 
-    identify the training, education and guidance needs of health care and other professionals related to the prevention and treatment of cancers linked to firefighting **and compile information relating to those needs**;
+    identify the training, education and guidance needs of health care and other professionals related to the prevention and treatment of cancers linked to firefighting and compile information relating to those needs;
 
-    **make recommendations respecting regular screenings** for cancers linked to firefighting;
+    make recommendations respecting regular screenings for cancers linked to firefighting;
 
     promote research and improve data collection on the prevention and treatment of cancers linked to firefighting;
 
     promote information and knowledge sharing in relation to the prevention and treatment of cancers linked to firefighting; and
 
-    **prepare a summary of existing** standards **that** recognize cancers linked to firefighting as occupational diseases.
+    prepare a summary of existing standards that recognize cancers linked to firefighting as occupational diseases.
 
 
 ## Reports to Parliament
