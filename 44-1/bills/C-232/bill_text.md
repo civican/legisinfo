@@ -14,7 +14,7 @@ Whereas Arab Canadians have made rich contributions to the cultural fabric of Ca
 
 And whereas Parliament wishes to recognize and celebrate the historic mark that Arab Canadians have made and continue to make in building Canadian society;
 
-Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+Now, therefore, His Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
 
 ## Short Title
