@@ -1,0 +1,893 @@
+<Bills>
+  <Bill>
+    <Id>12260850</Id>
+    <NumberCode>C-323</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>323</Number>
+    <LongTitleEn>An Act to amend the Excise Tax Act (mental health services)</LongTitleEn>
+    <LongTitleFr>Loi modifiant la Loi sur la taxe d'accise (services de santé mentale)</LongTitleFr>
+    <LongTitle>An Act to amend the Excise Tax Act (mental health services)</LongTitle>
+    <ShortTitleEn>
+    </ShortTitleEn>
+    <ShortTitleFr>
+    </ShortTitleFr>
+    <ShortTitle>
+    </ShortTitle>
+    <StatusId>352</StatusId>
+    <StatusNameEn>At consideration in committee in the House of Commons</StatusNameEn>
+    <StatusNameFr>À l'examen en comité à la Chambre des communes</StatusNameFr>
+    <StatusName>At consideration in committee in the House of Commons</StatusName>
+    <LatestCompletedMajorStageId>60044</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>Second reading</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Deuxième lecture</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>Second reading</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>Second reading in the House of Commons</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>1</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>House of Commons</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Chambre des communes</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>House of Commons</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60049</OngoingStageId>
+    <OngoingStageNameEn>Consideration in committee</OngoingStageNameEn>
+    <OngoingStageNameFr>Examen en comité</OngoingStageNameFr>
+    <OngoingStageName>Consideration in committee</OngoingStageName>
+    <LatestCompletedBillStageId>60032</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Report stage</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Étape du rapport</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Report stage</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>1</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>House of Commons</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Chambre des communes</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>House of Commons</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2024-06-07T13:31:37</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>44</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <BillDocumentTypeId>4</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>Private Member's Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant d'un député</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>Private Member's Bill</BillDocumentTypeName>
+    <IsGovernmentBill>false</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>109905</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Stephen</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Ellis</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Stephen Ellis</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>
+    </SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>
+    </SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>
+    </SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Member of Parliament</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>député</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Member of Parliament</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>2</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Member of Parliament</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>député(e)</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Member of Parliament</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>618</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Cumberland—Colchester</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Cumberland—Colchester</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Cumberland—Colchester</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60132</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Recommittal of bill to committee adopted</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Adoption du renvoi du projet de loi en comité</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60031</LatestBillEventStageId>
+    <LatestBillEventTypeName>Recommittal of bill to committee adopted</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <CommitteeOrganizationId>27187</CommitteeOrganizationId>
+      <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+      <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+      <CommitteeAcronym>FINA</CommitteeAcronym>
+      <CommitteeName>Standing Committee on Finance</CommitteeName>
+      <StudyActivityId />
+      <OrganizationTypeId />
+      <ParentCommittee />
+      <IsSubCommittee>false</IsSubCommittee>
+      <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+      <IsSenateCommittee>false</IsSenateCommittee>
+      <IsJointCommittee>false</IsJointCommittee>
+    </LatestBillEventCommitteeDetails>
+    <LatestBillEventDateTime>2024-06-19T14:00:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>1</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>House of Commons</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Chambre des communes</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>House of Commons</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>335</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2023-03-09T10:16:20.747</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime>2023-09-27T16:17:00</PassedHouseSecondReadingDateTime>
+    <PassedHouseThirdReadingDateTime />
+    <PassedSenateFirstReadingDateTime />
+    <PassedSenateSecondReadingDateTime />
+    <PassedSenateThirdReadingDateTime />
+    <ReceivedRoyalAssentDateTime />
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>false</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>false</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>false</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>false</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>false</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>&lt;div&gt;On June 7, 2024, the Speaker of the House of Commons made a statement on the similarities between Bill C-323 and Bill C-59, and on voting at third reading stage for C-323.&lt;/div&gt;</NotesEn>
+    <NotesFr>&lt;div&gt;Le 7 juin 2024, le président de la Chambre des communes a fait une déclaration sur les similarités entre le projet de loi C-323 et le projet de loi C-59 ainsi que sur la mise aux voix à l'étape de la troisième lecture pour C-323.&lt;/div&gt;</NotesFr>
+    <Notes>&lt;div&gt;On June 7, 2024, the Speaker of the House of Commons made a statement on the similarities between Bill C-323 and Bill C-59, and on voting at third reading stage for C-323.&lt;/div&gt;</Notes>
+    <ShortLegislativeSummaryEn />
+    <ShortLegislativeSummaryFr />
+    <ShortLegislativeSummary />
+    <IsFullLegislativeSummaryAvailable>false</IsFullLegislativeSummaryAvailable>
+    <StatuteYear />
+    <StatuteChapter />
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2023-03-09T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>167</Number>
+          <Date>2023-03-09T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2023-03-09T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2023-03-09T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2023-03-09T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2023-03-09T10:16:20.747</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2023-09-27T16:17:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>27187</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+          <StudyActivityId>12348957</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>184</Number>
+          <Date>2023-04-25T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>223</Number>
+          <Date>2023-09-25T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Second reading and referral to committee</NameEn>
+          <NameFr>Deuxième lecture et renvoi en comité</NameFr>
+          <Name>Second reading and referral to committee</Name>
+          <Number>225</Number>
+          <Date>2023-09-27T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60112</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Placed in the Order of Precedence</EventNameEn>
+          <EventNameFr>Ajouté à l'Ordre de priorité</EventNameFr>
+          <EventName>Placed in the Order of Precedence</EventName>
+          <EventDateTime>2023-03-16T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>false</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <SignificantEvents>
+          <EventTypeId>60121</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading and referral to committee</EventNameEn>
+          <EventNameFr>Deuxième lecture et renvoi en comité</EventNameFr>
+          <EventName>Second reading and referral to committee</EventName>
+          <EventDateTime>2023-09-27T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60121</EventTypeId>
+          <EventTypeNameEn>Second reading and referral to committee</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture et renvoi en comité</EventTypeNameFr>
+          <EventTypeName>Second reading and referral to committee</EventTypeName>
+          <EventStartDateTime>2023-09-27T16:17:00</EventStartDateTime>
+          <EventEndDateTime>2023-09-27T16:17:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2023-09-27T16:17:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>12161637</InterventionEventId>
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>109905</PersonId>
+          <PersonOfficialFirstName>Stephen</PersonOfficialFirstName>
+          <PersonOfficialLastName>Ellis</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Stephen Ellis</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>184</MeetingNumber>
+          <SpeechDateTime>2023-04-25T17:30:42</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>12161717</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>35315</PersonId>
+          <PersonOfficialFirstName>Claude</PersonOfficialFirstName>
+          <PersonOfficialLastName>DeBellefeuille</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Claude DeBellefeuille</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Bloc Québécois</CaucusShortNameEn>
+          <CaucusShortNameFr>Bloc Québécois</CaucusShortNameFr>
+          <CaucusShortName>Bloc Québécois</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>184</MeetingNumber>
+          <SpeechDateTime>2023-04-25T17:47:03</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>12161733</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>104977</PersonId>
+          <PersonOfficialFirstName>Élisabeth</PersonOfficialFirstName>
+          <PersonOfficialLastName>Brière</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Élisabeth Brière</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>184</MeetingNumber>
+          <SpeechDateTime>2023-04-25T17:50:37</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>12161753</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>89263</PersonId>
+          <PersonOfficialFirstName>Gord</PersonOfficialFirstName>
+          <PersonOfficialLastName>Johns</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Gord Johns</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>NDP</CaucusShortNameEn>
+          <CaucusShortNameFr>NPD</CaucusShortNameFr>
+          <CaucusShortName>NDP</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>184</MeetingNumber>
+          <SpeechDateTime>2023-04-25T18:09:19</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2024-05-21T16:04:26.72</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>27187</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+          <StudyActivityId>12348957</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Deemed reported without amendment</NameEn>
+          <NameFr>Réputé avoir fait l'objet d'un rapport sans amendement</NameFr>
+          <Name>Deemed reported without amendment</Name>
+          <Number>314</Number>
+          <Date>2024-05-21T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60125</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Deemed reported without amendment</EventNameEn>
+          <EventNameFr>Réputé avoir fait l'objet d'un rapport sans amendement</EventNameFr>
+          <EventName>Deemed reported without amendment</EventName>
+          <EventDateTime>2024-05-21T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60125</EventTypeId>
+          <EventTypeNameEn>Deemed reported without amendment</EventTypeNameEn>
+          <EventTypeNameFr>Réputé avoir fait l'objet d'un rapport sans amendement</EventTypeNameFr>
+          <EventTypeName>Deemed reported without amendment</EventTypeName>
+          <EventStartDateTime>2024-05-21T16:04:26.72</EventStartDateTime>
+          <EventEndDateTime>2024-05-21T16:04:26.72</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2024-05-21T16:04:26.72</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2024-06-07T13:31:37</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>327</Number>
+          <Date>2024-06-07T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60285</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Concurrence at report stage</EventNameEn>
+          <EventNameFr>Adoption à l'étape du rapport</EventNameFr>
+          <EventName>Concurrence at report stage</EventName>
+          <EventDateTime>2024-06-07T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60285</EventTypeId>
+          <EventTypeNameEn>Concurrence at report stage</EventTypeNameEn>
+          <EventTypeNameFr>Adoption à l'étape du rapport</EventTypeNameFr>
+          <EventTypeName>Concurrence at report stage</EventTypeName>
+          <EventStartDateTime>2024-06-07T13:31:37</EventStartDateTime>
+          <EventEndDateTime>2024-06-07T13:31:37</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2024-06-07T13:31:37</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>5</State>
+        <StateNameEn>Not completed</StateNameEn>
+        <StateNameFr>Non achevée</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>27187</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>327</Number>
+          <Date>2024-06-07T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>333</Number>
+          <Date>2024-06-17T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>335</Number>
+          <Date>2024-06-19T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60132</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Recommittal of bill to committee adopted</EventNameEn>
+          <EventNameFr>Adoption du renvoi du projet de loi en comité</EventNameFr>
+          <EventName>Recommittal of bill to committee adopted</EventName>
+          <EventDateTime>2024-06-19T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>false</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent />
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2024-06-19T16:10:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>true</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>2</State>
+        <StateNameEn>No activity</StateNameEn>
+        <StateNameFr>Aucune activité</StateNameFr>
+        <StateAsOfDate />
+        <StateName>No activity</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>27187</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+          <StudyActivityId>12348957</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+    </BillStages>
+    <Publications>
+      <PublicationId>12273931</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>414</DivisionNumber>
+      <DivisionSubjectEn>2nd reading of Bill C-323, An Act to amend the Excise Tax Act (mental health services)</DivisionSubjectEn>
+      <DivisionSubjectFr>2e lecture du projet de loi C-323, Loi modifiant la Loi sur la taxe d'accise (services de santé mentale)</DivisionSubjectFr>
+      <DivisionSubject>2nd reading of Bill C-323, An Act to amend the Excise Tax Act (mental health services)</DivisionSubject>
+      <DivisionVotesYeas>327</DivisionVotesYeas>
+      <DivisionVotesNays>0</DivisionVotesNays>
+      <DivisionVotePaired>2</DivisionVotePaired>
+      <DivisionVoteTotal>329</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2023-09-27T14:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>851</DivisionNumber>
+      <DivisionSubjectEn>Bill C-323, An Act to amend the Excise Tax Act (mental health services) (recommittal to a committee)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-323, Loi modifiant la Loi sur la taxe d'accise (services de santé mentale) (nouveau renvoi à un comité)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-323, An Act to amend the Excise Tax Act (mental health services) (recommittal to a committee)</DivisionSubject>
+      <DivisionVotesYeas>174</DivisionVotesYeas>
+      <DivisionVotesNays>151</DivisionVotesNays>
+      <DivisionVotePaired>2</DivisionVotePaired>
+      <DivisionVoteTotal>327</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2024-06-19T14:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>852</DivisionNumber>
+      <DivisionSubjectEn>3rd reading and adoption of Bill C-323, An Act to amend the Excise Tax Act (mental health services)</DivisionSubjectEn>
+      <DivisionSubjectFr>3e lecture et adoption du projet de loi C-323, Loi modifiant la Loi sur la taxe d'accise (services de santé mentale)</DivisionSubjectFr>
+      <DivisionSubject>3rd reading and adoption of Bill C-323, An Act to amend the Excise Tax Act (mental health services)</DivisionSubject>
+      <DivisionVotesYeas>174</DivisionVotesYeas>
+      <DivisionVotesNays>149</DivisionVotesNays>
+      <DivisionVotePaired>2</DivisionVotePaired>
+      <DivisionVoteTotal>325</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2024-06-19T14:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseRulingAndStatements>
+      <EventTypeId>60154</EventTypeId>
+      <EventTypeNameEn>Major Speaker's Rulings and Statements</EventTypeNameEn>
+      <EventTypeNameFr>Décisions et déclarations importantes de la présidence</EventTypeNameFr>
+      <EventTypeName>Major Speaker's Rulings and Statements</EventTypeName>
+      <ParliamentNumber>44</ParliamentNumber>
+      <SessionNumber>1</SessionNumber>
+      <MeetingNumber>327</MeetingNumber>
+      <HansardNumber>12807348</HansardNumber>
+      <RulingStatementDateTime>2024-06-07T13:31:08</RulingStatementDateTime>
+      <ChamberOrganizationId>1</ChamberOrganizationId>
+      <UrlEn>
+      </UrlEn>
+      <UrlFr>
+      </UrlFr>
+    </HouseRulingAndStatements>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Canada Revenue Agency. "The application of GST/HST to psychotherapy services", Excise and GST/HST News – No.97, November 2015</TitleEn>
+      <TitleFr>Agence du revenu du Canada. « Application de la TPS/TVH aux services de psychothérapie », Nouvelles sur l'accise et la TPS/TVH – No 97, novembre 2015</TitleFr>
+      <Title>Canada Revenue Agency. "The application of GST/HST to psychotherapy services", Excise and GST/HST News – No.97, November 2015</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/news97/news97-excise-gst-hst-news-no-97.html#_Toc427668035</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/agence-revenu/services/formulaires-publications/publications/news97/news97-nouvelles-accise-tps-tvh-no-97.html#_Toc432669546</UrlFr>
+      <Url>https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/news97/news97-excise-gst-hst-news-no-97.html#_Toc427668035</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Canadian Counselling and Psychotherapy Association. 2022 Pre-Budget Consultations Department of Finance.</TitleEn>
+      <TitleFr>Canadian Counselling and Psychotherapy Association. 2022 Pre-Budget Consultations Department of Finance. (En anglais seulement.)</TitleFr>
+      <Title>Canadian Counselling and Psychotherapy Association. 2022 Pre-Budget Consultations Department of Finance.</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.ccpa-accp.ca/wp-content/uploads/2022/02/CCPA-2022-Finance-Pre-Budget-Consultation.pdf</UrlEn>
+      <UrlFr>https://www.ccpa-accp.ca/wp-content/uploads/2022/02/CCPA-2022-Finance-Pre-Budget-Consultation.pdf</UrlFr>
+      <Url>https://www.ccpa-accp.ca/wp-content/uploads/2022/02/CCPA-2022-Finance-Pre-Budget-Consultation.pdf</Url>
+    </WebReferences>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
