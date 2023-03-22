@@ -4,7 +4,7 @@
 
 This enactment amends the `Income Tax Act` to allow tradespersons and indentured apprentices to deduct from their income amounts expended for travelling where they were employed in a construction activity at a job site that is located at least 120 km away from their ordinary place of residence.
 
-Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+His Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
 
 ## Income Tax Act
