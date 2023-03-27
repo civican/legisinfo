@@ -17,11 +17,13 @@ Section 83.03 of the `Criminal Code` is replaced by the following:
 
 ### Section 83.03
 
-  ****(1)**** Every person is guilty of an indictable offence and liable to imprisonment for a term of not more than 10 years who, directly or indirectly, collects property or provides, invites a person to provide or makes available property or financial or other related services, intending that they be used, or knowing that they will be used, in whole or in part, for the purpose of facilitating or carrying out any terrorist activity, or for the purpose of benefiting any person who is facilitating or carrying out such an activity.
+  **(1)** Every person is guilty of an indictable offence and liable to imprisonment for a term of not more than 10 years who, directly or indirectly, **wilfully and without lawful justification or excuse**, collects property or provides, invites a person to provide or makes available property or financial or other related services, intending that they be used, or knowing that they will be used, in whole or in part, for the purpose of facilitating or carrying out any terrorist activity, or for the purpose of benefiting any person who is facilitating or carrying out such an activity.
 
-  **(2)** Every person is guilty of an indictable offence and liable to imprisonment for a term of not more than 10 years who, directly or indirectly, collects property or provides, invites a person to provide or makes available property or financial or other related services, knowing that, in whole or part, they will be used by or will benefit a terrorist group.
+  **(2)** Every person is guilty of an indictable offence and liable to imprisonment for a term of not more than 10 years who, directly or indirectly, **wilfully and without lawful justification or excuse**, collects property or provides, invites a person to provide or makes available property or financial or other related services, knowing that, in whole or part, they will be used by or will benefit a terrorist group.
 
   **(3)** Subsection (2) does not apply to a person who carries out any of the acts referred to in that subsection under and in accordance with an authorization granted under section 83.032.
+
+  **(4)** Subsections (1) and (2) do not apply to a person who carries out any of the acts referred to in those subsections for the sole purpose of carrying out humanitarian assistance activities conducted under the auspices of impartial humanitarian organizations in accordance with international law while using reasonable efforts to minimize any benefit to terrorist groups.
 
 ### Section 83.031
 
@@ -33,7 +35,7 @@ Section 83.03 of the `Criminal Code` is replaced by the following:
 
   **(1)** On application, the Public Safety Minister may authorize an eligible person to carry out, in a specified geographic area that is controlled by a terrorist group, a specified activity that would otherwise be prohibited under subsection 83.03(2) — or a specified class of such activities — for any specified purpose from among the following:
 
-    providing or supporting the provision of humanitarian assistance, including assistance for the purpose of saving lives or alleviating the suffering of a population that is affected by a crisis or that has immediate and acute needs;
+    [*Deleted*]
 
     providing or supporting the provision of health services;
 
@@ -48,6 +50,8 @@ Section 83.03 of the `Criminal Code` is replaced by the following:
     supporting any operations of a federal minister or a department or agency of the Government of Canada that are conducted for a purpose other than one set out in any of paragraphs (a) to (f).
 
   **(2)** For the purposes of this section, a terrorist group controls a geographic area if the group exerts sufficient influence over the area such that the carrying out, in the area, of an activity involving property or financial or other related services could reasonably be expected to result in the terrorist group using or benefiting from the property or services, in whole or in part.
+
+  **(2.1)** The Public Safety Minister must, at the request of an eligible person or an organization, provide to that person or organization information in writing about whether an authorization is required to carry out an activity or a class of activities in a given geographic area.
 
   **(3)** The Public Safety Minister must not, under subsection (1), authorize the making by a federal minister or a department or agency of the Government of Canada of a grant or contribution that is for the purpose of supporting any operations referred to in paragraph (1)(g).
 
@@ -121,19 +125,19 @@ Section 83.03 of the `Criminal Code` is replaced by the following:
 
   **(1)** The Public Safety Minister, the Minister of Foreign Affairs or the Minister of Citizenship and Immigration, as the case may be, must give notice of a decision to refuse an application made under section 83.032 to the applicant within a reasonable time.
 
-  **(2)** An applicant whose application is refused is not permitted to make a new application in respect of the same activity until the end of the 180th day after the day on which the notice is given, unless the Minister who gave the notice is satisfied that there has been a material change of circumstances.
+  **(2)** An applicant whose application is refused is not permitted to make a new application in respect of the same activity until the end of the **30th** day after the day on which the notice is given, unless the Minister who gave the notice is satisfied that there has been a material change of circumstances.
 
   **(3)** If the Public Safety Minister gave the notice and is satisfied as described in subsection (2), that Minister may consider the new application without it having been referred under subsection 83.032(5). In that case, that Minister may take into account the referral of the previous application for the purposes of subparagraph 83.032(9)(b)(i).
 
 ### Section 83.034
 
-At any time during the period of validity of an authorization granted under section 83.032 or renewed under section 83.035, the Public Safety Minister may conduct additional security reviews under subsection 83.032(10) in respect of any person to whom the authorization applies. For the purpose of those reviews, that Minister may request that the person to whom the authorization is granted provide any additional information in the form and manner, and within the period, that are specified by that Minister.
+At any time during the period of validity of an authorization granted under section 83.032 or renewed under section 83.035, the Public Safety Minister may conduct additional security reviews under subsection 83.032(10) in respect of any person to whom the authorization applies. For the purpose of those reviews, that Minister may request that the person to whom the authorization is granted provide any additional information in the form and manner, and within the period, that are specified by that Minister, **but the request must relate only to the authorization or its renewal**.
 
 ### Section 83.035
 
   **(1)** The Public Safety Minister may renew an authorization granted under section 83.032 for successive periods of not more than five years each on application, for each renewal, made within any period set out in the regulations and before the authorization expires.
 
-  **(2)** Despite subsection (1), if an application for renewal is made after the authorization expires, the Public Safety Minister may renew the authorization if, in that Minister's opinion, there are exceptional circumstances thatjustify why the application for renewal was not made before it expired.
+  **(2)** Despite subsection (1), if an application for renewal is made after the authorization expires, the Public Safety Minister may renew the authorization if, in that Minister's opinion, there are exceptional circumstances that justify why the application for renewal was not made before it expired.
 
 ### Section 83.036
 
@@ -155,27 +159,31 @@ the Public Safety Minister is no longer satisfied that the condition set out in 
 
 ### Section 83.038
 
-The following entities may assist the Public Safety Minister in the administration and enforcement of sections 83.031 to 83.0392, including by collecting information from and disclosing information to that Minister and each other:
+  ****(1)**** The following entities may assist the Public Safety Minister in the administration and enforcement of sections 83.031 to 83.0392, including by collecting information from and disclosing information to that Minister and each other:
 
-the Canadian Security Intelligence Service;
+    the Canadian Security Intelligence Service;
 
-the Royal Canadian Mounted Police;
+    the Royal Canadian Mounted Police;
 
-the Communications Security Establishment;
+    the Communications Security Establishment;
 
-the Department of National Defence;
+    the Department of National Defence;
 
-the Canadian Armed Forces;
+    the Canadian Armed Forces;
 
-the Department of Foreign Affairs, Trade and Development;
+    the Department of Foreign Affairs, Trade and Development;
 
-the Canada Revenue Agency;
+    the Canada Revenue Agency;
 
-the Canada Border Services Agency;
+    the Canada Border Services Agency;
 
-the Department of Citizenship and Immigration; and
+    the Department of Citizenship and Immigration; and
 
-any other entity prescribed by regulation.
+    any other entity prescribed by regulation.
+
+  **(2)** Any information collected or disclosed under subsection (1) must only be used for the administration and enforcement of sections 83.031 to 83.0392.
+
+  **(3)** The Public Safety Minister must take reasonable steps to ensure that any entity assisting that Minister under subsection (1) complies with subsection (2).
 
 ### Section 83.039
 
@@ -184,6 +192,8 @@ any other entity prescribed by regulation.
   **(2)** The following rules apply for the purposes of subsection (1):
 
     at any time during the proceeding, the judge must, on the request of the relevant Minister, hear submissions on evidence or other information in the absence of the public and of the applicant and their counsel if, in the judge's opinion, the disclosure of the evidence or other information could be injurious to international relations, national defence or national security or could endanger the safety of any person;
+
+    the judge may allow an *amicus curiae* who is appointed in respect of the proceeding to participate in a hearing under paragraph (a) and to review the evidence or other information that is the subject of the hearing;
 
     the judge must ensure the confidentiality of the evidence and other information provided by the relevant Minister if, in the judge's opinion, its disclosure would be injurious to international relations, national defence or national security or would endanger the safety of any person;
 
@@ -207,6 +217,8 @@ The Governor in Council may, on the recommendation of the Public Safety Minister
 
 respecting applications for authorization referred to in subsection 83.032(1);
 
+respecting requests and the provision of information under subsection 83.032(2.1);
+
 respecting the granting, renewal, amendment, suspension, revocation or restriction of the scope of authorizations by the Public Safety Minister for the purposes of sections 83.032 and 83.035 to 83.037;
 
 respecting reporting by the person to whom an authorization is granted under section 83.032 for the purpose of ensuring compliance with the authorization and with any terms and conditions included in it under subsection 83.032(12); and
@@ -215,34 +227,23 @@ prescribing any other entity for the purpose of paragraph 83.038(j).
 
 ### Section 83.0392
 
-  **(1)** The Public Safety Minister must prepare and cause to be laid before the each House of Parliament, within 180 days after the first day of January of every year, a report on the operation of sections 83.031 to 83.0391 for the previous calendar year.
+  **(1)** The Public Safety Minister must prepare and cause to be laid before each House of Parliament, within **90** days after the first day of January of every year, a report on the operation of sections 83.031 to 83.0391 for the previous calendar year.
 
-  **(2)** A comprehensive review of sections 83.031 to 83.0391 and their operation must be conducted by the Public Safety Minister no later than the fifth anniversary of the day on which this section comes into force. The Public Safety Minister must cause a report to be laid before each House of Parliament within 180 days after that fifth anniversary.
+  **(1.1)** The report under subsection (1) must set out the number of applications for authorizations made, approved or refused in the previous calendar year.
 
+  **(1.2)** If the report under subsection (1) contains any redactions, the Public Safety Minister must forward the unredacted report to the National Security and Intelligence Committee of Parliamentarians as well as the National Security and Intelligence Review Agency.
 
-> **Explanatory Note**:
-> Existing text of section 83.03:
-> *Existing Text*:
-> > Every person is guilty of an indictable offence and liable to imprisonment for a term of not more than 10 years who, directly or indirectly, collects property, provides or invites a person to provide, or makes available property or financial or other related services
-> > intending that they be used, or knowing that they will be used, in whole or in part, for the purpose of facilitating or carrying out any terrorist activity, or for the purpose of benefiting any person who is facilitating or carrying out such an activity, or
-> > knowing that, in whole or part, they will be used by or will benefit a terrorist group.
+  **(2)** A comprehensive review of sections 83.031 to 83.0391 and their operation must be conducted by the Public Safety Minister no later than the **first** anniversary of the day on which this section comes into force. The Public Safety Minister must cause a report to be laid before each House of Parliament within 180 days after that **first** anniversary **and every five years thereafter**.
+
+  **(3)** If the report identifies any deficiencies in sections 83.031 to 83.0391 or their operation, the report must include a plan to remedy those deficiencies — including any proposed legislative amendments — and a timeline for its implementation.
 
 ### Section 2
 
 Subparagraph (a)(xii.2) of the definition **offence** in section 183 of the Act is replaced by the following:
 
-**subsection** 83.03**(1)** (providing, making available, etc., property or services for terrorist purposes),
+subsection 83.03(1) (providing, making available, etc., property or services for terrorist purposes),
 
 subsection 83.03(2) (providing, making available, etc., property or services — use by terrorist group),
-
-
-> **Explanatory Note**:
-> Relevant portion of the definition:
-> *Existing Text*:
-> > **offence** means an offence contrary to, any conspiracy or attempt to commit or being an accessory after the fact in relation to an offence contrary to, or any counselling in relation to an offence contrary to
-> > any of the following provisions of this Act, namely,
-> > 
-> > section 83.03 (providing, making available, etc., property or services for terrorist purposes),
 
 
 ## Consequential Amendments
@@ -254,7 +255,7 @@ subsection 83.03(2) (providing, making available, etc., property or services —
 
 Paragraph 1(e) of the schedule to the `Canada Business Corporations Act` is replaced by the following:
 
-**subsections** 83.03**(1) and (2)** (providing, making available, etc., property or services for terrorist purposes **and providing, making available, etc., property or services — use by terrorist group**);
+subsections 83.03(1) and (2) (providing, making available, etc., property or services for terrorist purposes and providing, making available, etc., property or services — use by terrorist group);
 
 
 ### `Excise Tax Act`
@@ -266,14 +267,6 @@ Paragraph 295(5)(d) of the `Excise Tax Act` is amended by striking out "or" at t
 to an official solely for the purposes of a security review under subsection 83.032(10) or section 83.034 of the `Criminal Code`, if the information can reasonably be considered to be relevant to the security review;
 
 
-> **Explanatory Note**:
-> Relevant portion of the existing subsection 295(5):
-> *Existing Text*:
-> > An official may
-> > 
-> > provide confidential information
-
-
 ### `Income Tax Act`
 
 ### Section 5
@@ -283,14 +276,6 @@ Paragraph 241(4)(d) of the `Income Tax Act` is amended by striking out "or" at t
 to an official solely for the purposes of a security review under subsection 83.032(10) or section 83.034 of the `Criminal Code`, if the information can reasonably be considered to be relevant to the security review;
 
 
-> **Explanatory Note**:
-> Relevant portion of the existing subsection 241(4):
-> *Existing Text*:
-> > An official may
-> > 
-> > provide taxpayer information
-
-
 ### `Excise Act, 2001`
 
 ### Section 6
@@ -298,12 +283,4 @@ to an official solely for the purposes of a security review under subsection 83.
 Paragraph 211(6)(e) of the `Excise Act, 2001` is amended by striking out "or" at the end of subparagraph (xiii), by adding "or" at the end of subparagraph (xiv) and by adding the following after subparagraph (xiv):
 
 to an official solely for the purposes of a security review under subsection 83.032(10) or section 83.034 of the `Criminal Code`, if the information can reasonably be considered to be relevant to the security review;
-
-
-> **Explanatory Note**:
-> Relevant portion of the existing subsection 211(6):
-> *Existing Text*:
-> > An official may
-> > 
-> > provide confidential information
 
