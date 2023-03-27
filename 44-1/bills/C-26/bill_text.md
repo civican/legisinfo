@@ -2,6 +2,8 @@
 
 **Sponsor**: MINISTER OF PUBLIC SAFETY
 
+Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act respecting cyber security, amending the Telecommunications Act and making consequential amendments to other Acts*".
+
 ## Summary
 
 Part 1 amends the `Telecommunications Act` to add the promotion of the security of the Canadian telecommunications system as an objective of the Canadian telecommunications policy and to authorize the Governor in Council and the Minister of Industry to direct telecommunications service providers to do anything, or refrain from doing anything, that is necessary to secure the Canadian telecommunications system. It also establishes an administrative monetary penalty scheme to promote compliance with orders and regulations made by the Governor in Council and the Minister of Industry to secure the Canadian telecommunications system as well as rules for judicial review of those orders and regulations.
@@ -44,7 +46,7 @@ Consequential Amendment to the `Canada Evidence Act`
 Enactment
 
 
-## An Act respecting the protection of critical cyber systems in the federally regulated private sector
+## An Act respecting the protection of critical cyber systems in the federally regulated sector
 
 
 ## Short Title
@@ -546,7 +548,7 @@ Report to Parliament
 
 Order in council
 
-Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+His Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
 
 ## Telecommunications Act
@@ -560,29 +562,35 @@ Section 7 of the `Telecommunications Act` is amended by striking out "and" at th
 
 to promote the security of the Canadian telecommunications system.
 
-
-> **Explanatory Note**:
-> Relevant portion of section 7:
-> *Existing Text*:
-> > It is hereby affirmed that telecommunications performs an essential role in the maintenance of Canada's identity and sovereignty and that the Canadian telecommunications policy has as its objectives
-
 ### Section 2
 
 The Act is amended by adding the following after section 15:
 
 ### Section 15.1
 
-  **(1)** If, in the opinion of the Governor in Council, it is necessary to do so to secure the Canadian telecommunications system, including against the threat of interference, manipulation or disruption, the Governor in Council may, by order,
+  **(1)** If the Governor in Council **believes on reasonable grounds that** it is necessary to do so to secure the Canadian telecommunications system against **any** threat, including **that** of interference, manipulation, disruption or **degradation**, the Governor in Council may, by order **and after consultation with the persons the Governor in Council considers appropriate**,
 
     prohibit a telecommunications service provider from using all products and services provided by a specified person in, or in relation to, its telecommunications network or telecommunications facilities, or any part of those networks or facilities; or
 
     direct a telecommunications service provider to remove all products provided by a specified person from its telecommunications networks or telecommunications facilities, or any part of those networks or facilities.
 
+  **(1.1)** The provisions of the order must, in scope and substance, be reasonable to the gravity of the threat of interference, manipulation, disruption or degradation.
+
   **(2)** The order may also include a provision prohibiting the disclosure of its existence, or some or all of its contents, by any person.
+
+  **(2.1)** Before making the order, the Governor in Council must consider
+
+    its operational impact on the affected telecommunications service providers;
+
+    its financial impact on the affected telecommunications service providers;
+
+    its effect on the provision of telecommunications services in Canada; and
+
+    any other factor that the Governor in Council considers relevant.
 
   **(3)** The Governor in Council may cause a draft order to be published in the `Canada Gazette`.
 
-  **(4)** Any order made under subsection (1) must be published in the `Canada Gazette`, unless the Governor in Council directs otherwise in the order.
+  **(4)** Any order made under subsection (1) must be published in the `Canada Gazette` **within 90 days after the day on which it is made**, unless the Governor in Council directs otherwise in the order.
 
   **(5)** In the event of any inconsistency between an order made under subsection (1) and a decision of the Commission made under this Act or an order made or an authorization issued by the Minister under this Act or the `Radiocommunication Act`, the order made under subsection (1) prevails to the extent of the inconsistency.
 
@@ -590,13 +598,13 @@ The Act is amended by adding the following after section 15:
 
 ### Section 15.2
 
-  **(1)** If, in the Minister's opinion, it is necessary to do so to secure the Canadian telecommunications system, including against the threat of interference, manipulation or disruption, the Minister may, by order and after consultation with the Minister of Public Safety and Emergency Preparedness,
+  **(1)** If **there are reasonable grounds** to **believe that** it is necessary to do so to secure the Canadian telecommunications system against **any** threat, including **that** of interference, manipulation, disruption or **degradation**, the Minister may, by order and after consultation with the Minister of Public Safety and Emergency Preparedness **and with the persons the Minister considers appropriate**,
 
     prohibit a telecommunications service provider from providing any service to any specified person, including a telecommunications service provider; and
 
     direct a telecommunications service provider to suspend providing for a specified period any service to any specified person, including a telecommunications service provider.
 
-  **(2)** The Minister may, by order, direct a telecommunications service provider to do anything or refrain from doing anything — other than a thing specified in subsection (1) or `15.1`(1) — that is specified in the order and that is, in the Minister's opinion, necessary to secure the Canadian telecommunications system, including against the threat of interference, manipulation or disruption. In the order, the Minister may, among other things,
+  **(2)** **If** the Minister **believes on reasonable grounds** that **it** is necessary to do **so** to secure the Canadian telecommunications system against **any** threat, including that of interference, manipulation, disruption or **degradation**, the Minister may, by order,
 
     prohibit a telecommunications service provider from using any specified product or service in, or in relation to, its telecommunications network or telecommunications facilities, or any part of those networks or facilities;
 
@@ -618,19 +626,65 @@ The Act is amended by adding the following after section 15:
 
     require that assessments be conducted to identify any vulnerability in a telecommunications service provider's telecommunications services, telecommunications networks or telecommunications facilities or its security plan referred to in paragraph (i);
 
-    require that a telecommunications service provider take steps to mitigate any vulnerability in its telecommunications services, telecommunications networks or telecommunications facilities or its security plan referred to in paragraph (i); or
+    require that a telecommunications service provider take steps to mitigate any vulnerability in its telecommunications services, telecommunications networks or telecommunications facilities or its security plan referred to in paragraph (i);
 
-    require that a telecommunications service provider implement specified standards in relation to its telecommunications services, telecommunications networks or telecommunications facilities.
+    require that a telecommunications service provider implement specified standards in relation to its telecommunications services, telecommunications networks or telecommunications facilities;
+
+    direct a telecommunications service provider to do a specified thing or refrain from doing a specified thing, other than a thing specified in subsection (1) or 15.1(1); or
+
+    require that a telecommunications service provider use a backup system for telecommunications facilities.
+
+  **(2.1)** The provisions of an order made under subsection (1) or (2) must, in scope and substance, be reasonable to the gravity of the threat of interference, manipulation, disruption or degradation.
+
+  **(2.2)** For greater certainty, despite subsection (2), the Minister is not permitted to order a telecommunications service provider to intercept a private communication or a radio-based telephone communication, as those terms are defined in section 183 of the `Criminal Code`.
 
   **(3)** An order made under subsection (1) or (2) may also include a provision prohibiting the disclosure of its existence, or some or all of its contents, by any person.
 
+  **(3.1)** Before making an order under subsection (1) or (2), the Minister must consider
+
+    its operational impact on the affected telecommunications service providers;
+
+    its financial impact on the affected telecommunications service providers;
+
+    its effect on the provision of telecommunications services in Canada; and
+
+    any other factor that the Minister considers relevant.
+
   **(4)** The Minister may cause a draft order to be published in the `Canada Gazette`.
 
-  **(5)** Any order made under subsection (1) or (2) must be published in the `Canada Gazette`, unless the Minister directs otherwise in the order.
+  **(5)** Any order made under subsection (1) or (2) must be published in the `Canada Gazette` **within 90 days after the day on which it is made**, unless the Minister directs otherwise in the order.
 
   **(6)** In the event of any inconsistency between an order made under subsection (1) or (2) and a decision of the Commission made under this Act or another order made, or any authorization issued, by the Minister under this Act or the `Radiocommunication Act`, the order made under subsection (1) or (2), as the case may be, prevails to the extent of the inconsistency.
 
   **(7)** No one is entitled to any compensation from Her Majesty in right of Canada for any financial losses resulting from the making of an order under subsection (1) or (2).
+
+### Section 15.21
+
+  **(1)** The Minister shall cause to be tabled in each House of Parliament, within three months after the end of each fiscal year or, if either House is not then sitting, on any of the first 15 days of the next sitting of that House, a report on the orders made under subsection 15.1(1) and subsections 15.2(1) and (2).
+
+  **(2)** The Minister shall include in the report, for the fiscal year covered by the report, the following information:
+
+    the number of orders made and the nature of the orders;
+
+    the number of orders that were revoked;
+
+    the number of times during the previous fiscal year that, under subsection 15.2(6), an order prevailed over a decision of the Commission made under this Act;
+
+    the number of applications made to the Federal Court seeking to prohibit disclosure of an order, and the number of applications granted;
+
+    the number of telecommunications service providers affected by an order;
+
+    description of compliance of telecommunications service providers that partially complied with an order;
+
+    description of compliance of telecommunications service providers that fully complied with an order; and
+
+    an explanation of the necessity, proportionality, reasonableness and utility of the orders.
+
+  **(3)** The report shall state the number of times that an order prevailed over a decision of the Commission made under this Act during previous fiscal year.
+
+### Section 15.22
+
+The Minister must, within 90 days after an order that includes a provision prohibiting the disclosure of its existence, or some or all of its contents, is made under section 15.1 or 15.2, notify the National Security and Intelligence Committee of Parliamentarians and the National Security and Intelligence Review Agency of the making of the order.
 
 ### Section 15.3
 
@@ -652,7 +706,7 @@ The Minister may require any person to provide to the Minister or any person des
 
     information that is a trade secret;
 
-    financial, commercial, scientific or technical information that is confidential and that is treated consistently in a confidential manner by the person who provided it; or
+    financial, commercial, scientific or technical information that is confidential and that is treated consistently in a confidential manner by the person who provided it;
 
     information the disclosure of which could reasonably be expected to
 
@@ -660,7 +714,15 @@ The Minister may require any person to provide to the Minister or any person des
 
     prejudice the competitive position of any person, or
 
-    affect contractual or other negotiations of any person.
+    affect contractual or other negotiations of any person; or
+
+    personal information and de-identified information.
+
+  **(1.1)** The following definitions apply in paragraph (1)(d).
+
+    **de-identify** means to modify personal information so that an individual cannot be directly identified from it, though a risk of the individual being identified remains. (**dépersonnaliser**)
+
+    **personal information** has the same meaning as in section 3 of the `Privacy Act`. (**renseignements personnels**)
 
   **(2)** Subject to subsection (3), no person shall knowingly disclose or knowingly permit to be disclosed any information that is designated as confidential.
 
@@ -674,33 +736,39 @@ The Minister may require any person to provide to the Minister or any person des
 
 ### Section 15.6
 
-Despite section `15.5`, to the extent that is necessary for any purpose related to the making, amending or revoking of an order under section `15.1` or `15.2` or a regulation under paragraph `15.8`(1)(a) — or to verifying compliance or preventing non-compliance with such an order or regulation — the following persons and entities may collect information from and disclose information to each other, including confidential information:
+  ****(1)**** Despite section `15.5`, to the extent that is necessary for any purpose related to the making, amending or revoking of an order under section `15.1` or `15.2` or a regulation under paragraph `15.8`(1)(a) — or to verifying compliance or preventing non-compliance with such an order or regulation — the following persons and entities may collect information from and disclose information to each other, including confidential information:
 
-the Minister;
+    the Minister;
 
-the Minister of Public Safety and Emergency Preparedness;
+    the Minister of Public Safety and Emergency Preparedness;
 
-the Minister of Foreign Affairs;
+    the Minister of Foreign Affairs;
 
-the Minister of National Defence;
+    the Minister of National Defence;
 
-the Chief of the Defence Staff;
+    the Chief of the Defence Staff;
 
-the Chief or an employee of the Communications Security Establishment;
+    the Chief or an employee of the Communications Security Establishment;
 
-the Director or an employee of the Canadian Security Intelligence Service;
+    the Director or an employee of the Canadian Security Intelligence Service;
 
-the Chairperson or an employee of the Commission;
+    the Chairperson or an employee of the Commission;
 
-a person designated under section `15.4`; and
+    a person designated under section `15.4`; and
 
-any other prescribed person or entity.
+    any other prescribed person or entity.
+
+  **(2)** Any confidential information that is collected under subsection (1) must be treated as confidential.
 
 ### Section 15.7
 
   **(1)** Any information collected or obtained under this Act, other than information designated as confidential under subsection `15.5`(1), may be disclosed by the Minister under an agreement, a memorandum of understanding or an arrangement in writing between the Government of Canada and the government of a province or of a foreign state, an international organization of states or an international organization established by the governments of states, or any institution of any such government or organization, if the Minister believes that the information may be relevant to securing the Canadian telecommunications system or the telecommunications system of a foreign state, including against the threat of interference, manipulation or disruption.
 
   **(2)** If the agreement, memorandum of understanding or arrangement allows for the sharing of information that may be relevant to an investigation or proceeding in respect of a contravention of this Act, an order made under section `15.1` or `15.2` or a regulation made under paragraph `15.8`(1)(a) — or a law of a foreign state that addresses conduct that is substantially similar to conduct that would be in contravention of this Act, of an order made under section `15.1` or `15.2` or of a regulation made under paragraph `15.8`(1)(a) — the agreement, memorandum of understanding or arrangement must restrict the use of that information to purposes relevant to contraventions of the laws of a foreign state that have consequences that would not be considered penal under Canadian law.
+
+### Section 15.71
+
+For greater certainty, nothing in sections 15.1, 15.2 and 15.4 to 15.7 affects the provisions of the `Privacy Act`.
 
 ### Section 15.8
 
@@ -711,6 +779,14 @@ any other prescribed person or entity.
     prescribing persons and entities for the purposes of paragraph `15.6`(j).
 
   **(2)** In the event of any inconsistency between a regulation made under paragraph (1)(a) and a decision of the Commission made under this Act or an order made or an authorization issued by the Minister under this Act or the `Radiocommunication Act`, the regulation prevails to the extent of the inconsistency.
+
+### Section 15.81
+
+  **(1)** The Minister must, within three months after the end of each fiscal year, prepare a report respecting any orders referred to in sections 15.1 and 15.2 that were made during that fiscal year and must cause the report to be laid before each House of Parliament within the first 15 days on which that House is sitting after the report is completed.
+
+  **(2)** The report must include the number of orders that were made in that fiscal year.
+
+  **(3)** The report must also state the number of times that an order prevailed over a decision of the Commission made under this Act during the previous fiscal year.
 
 
 ### Judicial Review
@@ -737,55 +813,37 @@ any other prescribed person or entity.
 
   **(3)** In this section, **judge** means the Chief Justice of the Federal Court or a judge of that Court designated by the Chief Justice.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 3
 
 Section 47 of the Act is replaced by the following:
 
 ### Section 47
 
-The Commission **must** exercise its powers and perform its duties under this Act and any special Act — in accordance with any orders made by the Governor in Council under section 8 or any standards prescribed by the Minister under section 15, **and taking into account any orders made under section `15.1` or `15.2` and any regulation made under paragraph `15.8`(1)(a)** — with a view to implementing the Canadian telecommunications policy objectives and ensuring that Canadian carriers provide telecommunications services and charge rates in accordance with section 27.
-
-
-> **Explanatory Note**:
-> Existing text of section 47:
-> *Existing Text*:
-> > The Commission shall exercise its powers and perform its duties under this Act and any special Act
-> > with a view to implementing the Canadian telecommunications policy objectives and ensuring that Canadian carriers provide telecommunications services and charge rates in accordance with section 27; and
-> > in accordance with any orders made by the Governor in Council under section 8 or any standards prescribed by the Minister under section 15.
+The Commission must exercise its powers and perform its duties under this Act and any special Act — in accordance with any orders made by the Governor in Council under section 8 or any standards prescribed by the Minister under section 15, and taking into account any orders made under section `15.1` or `15.2` and any regulation made under paragraph `15.8`(1)(a) — with a view to implementing the Canadian telecommunications policy objectives and ensuring that Canadian carriers provide telecommunications services and charge rates in accordance with section 27.
 
 ### Section 4
 
   **(1)** Subsection 71(2) of the Act is replaced by the following:
 
-    **(2)** The Minister may designate any qualified person as an inspector for the purpose of verifying compliance or preventing non-compliance with the provisions of this Act for which the Minister is responsible **or with orders made under section `15.1` and `15.2` or regulations made under paragraph `15.8`(1)(a)**.
+    **(2)** The Minister may designate any qualified person as an inspector for the purpose of verifying compliance or preventing non-compliance with the provisions of this Act for which the Minister is responsible or with orders made under section `15.1` and `15.2` or regulations made under paragraph `15.8`(1)(a).
 
   **(2)** Paragraph 71(4)(a) of the Act is replaced by the following:
 
-    enter, at any reasonable time, any place in which they believe on reasonable grounds there is any document, information or thing relevant to the purpose of verifying compliance or preventing non-compliance with this Act, **an order made under section `15.1` or `15.2`, a regulation made under paragraph `15.8`(1)(a)**, any special Act, Division 1.1 of Part 16.1 of the `Canada Elections Act` or sections 51 to 53 of the `Accessible Canada Act`, and examine the document, information or thing or remove it for examination or reproduction;
+    enter, at any reasonable time, any place in which they believe on reasonable grounds there is any document, information or thing relevant to the purpose of verifying compliance or preventing non-compliance with this Act, an order made under section `15.1` or `15.2`, a regulation made under paragraph `15.8`(1)(a), any special Act, Division 1.1 of Part 16.1 of the `Canada Elections Act` or sections 51 to 53 of the `Accessible Canada Act`, and examine the document, information or thing or remove it for examination or reproduction;
 
   **(3)** Paragraph 71(6)(b) of the Act is replaced by the following:
 
-    entry to the dwelling-house is necessary for the purpose of verifying compliance or preventing non-compliance with this Act, **an order made under section `15.1` or `15.2`, a regulation made under paragraph `15.8`(1)(a)**, any special Act, or Division 1.1 of Part 16.1 of the `Canada Elections Act`; and
+    entry to the dwelling-house is necessary for the purpose of verifying compliance or preventing non-compliance with this Act, an order made under section `15.1` or `15.2`, a regulation made under paragraph `15.8`(1)(a), any special Act, or Division 1.1 of Part 16.1 of the `Canada Elections Act`; and
 
   **(4)** Subsection 71(9) of the Act is replaced by the following:
 
-    **(9)** An inspector who believes that a person is in possession of information that the inspector considers necessary for the purpose of verifying compliance or preventing non-compliance with this Act, **an order made under section `15.1` or `15.2`, a regulation made under paragraph `15.8`(1)(a)**, any special Act, Division 1.1 of Part 16.1 of the `Canada Elections Act` or sections 51 to 53 of the `Accessible Canada Act` may, by notice, require that person to submit the information to the inspector in the form and manner and within the reasonable time that is stipulated in the notice.
+    **(9)** An inspector who believes that a person is in possession of information that the inspector considers necessary for the purpose of verifying compliance or preventing non-compliance with this Act, an order made under section `15.1` or `15.2`, a regulation made under paragraph `15.8`(1)(a), any special Act, Division 1.1 of Part 16.1 of the `Canada Elections Act` or sections 51 to 53 of the `Accessible Canada Act` may, by notice, require that person to submit the information to the inspector in the form and manner and within the reasonable time that is stipulated in the notice.
 
 ### Section 5
 
 Subsection 72(3) of the Act is replaced by the following:
 
-**(3)** Nothing in subsection (1) or (2) applies **to an act or omission that is contrary to an order made under section `15.1` or `15.2` or a regulation made under paragraph `15.8`(1)(a)**, to any action for breach of a contract to provide telecommunications services or **to** any action for damages in relation to a rate charged by a Canadian carrier.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 72(3):
-> *Existing Text*:
-> > Nothing in subsection (1) or (2) applies to any action for breach of a contract to provide telecommunications services or any action for damages in relation to a rate charged by a Canadian carrier.
+**(3)** Nothing in subsection (1) or (2) applies to an act or omission that is contrary to an order made under section `15.1` or `15.2` or a regulation made under paragraph `15.8`(1)(a), to any action for breach of a contract to provide telecommunications services or to any action for damages in relation to a rate charged by a Canadian carrier.
 
 ### Section 6
 
@@ -793,13 +851,7 @@ The portion of section 72.001 of the Act before paragraph (a) is replaced by the
 
 ### Section 72.001
 
-Every contravention of a provision of this Act, other than section 17 or 69.2, **or the regulations, other than a provision of an order made under section `15.1` or `15.2` or a regulation made under paragraph `15.8`(1)(a)**, every contravention of a decision made by the Commission under this Act, other than a prohibition or a requirement of the Commission made under section 41, and every contravention of any of subsections 51(1) to (4) and (7), 52(1) to (3) and 53(1) to (3) and (6) of the `Accessible Canada Act` constitutes a violation and the person who commits the violation is liable
-
-
-> **Explanatory Note**:
-> Relevant portion of section 72.001:
-> *Existing Text*:
-> > Every contravention of a provision of this Act, other than section 17 or 69.2, every contravention of a regulation or decision made by the Commission under this Act, other than a prohibition or a requirement of the Commission made under section 41, and every contravention of any of subsections 51(1) to (4) and (7), 52(1) to (3) and 53(1) to (3) and (6) of the `Accessible Canada Act` constitutes a violation and the person who commits the violation is liable
+Every contravention of a provision of this Act, other than section 17 or 69.2, or the regulations, other than a provision of an order made under section `15.1` or `15.2` or a regulation made under paragraph `15.8`(1)(a), every contravention of a decision made by the Commission under this Act, other than a prohibition or a requirement of the Commission made under section 41, and every contravention of any of subsections 51(1) to (4) and (7), 52(1) to (3) and 53(1) to (3) and (6) of the `Accessible Canada Act` constitutes a violation and the person who commits the violation is liable
 
 ### Section 7
 
@@ -924,21 +976,12 @@ for the purpose of paragraph `72.133`(1)(e), establishing other factors to be co
 
 respecting compliance agreements entered into under section `72.137`.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 8
 
 The heading before section 72.14 of the English version of the Act is replaced by the following:
 
 
-### Provisions **Common** to Administrative Monetary Penalties Schemes
-
-
-> **Explanatory Note**:
-> Existing text of the heading:
-> *Existing Text*:
+### Provisions Common to Administrative Monetary Penalties Schemes
 
 ### Section 9
 
@@ -946,33 +989,17 @@ Section 72.14 of the Act is replaced by the following:
 
 ### Section 72.14
 
-In a proceeding in respect of a violation, a notice appearing to be served under subsection 72.005(1), 72.07(1) or **72.135(1)** or a copy of a decision appearing to be served under subsection 72.007(4), 72.08(4) or **72.136(4)** is admissible in evidence without proof of the signature or official character of the person appearing to have signed it.
-
-
-> **Explanatory Note**:
-> Existing text of section 72.14:
-> *Existing Text*:
-> > In a proceeding in respect of a violation, a notice purporting to be served under subsection 72.005(1) or 72.07(1) or a copy of a decision purporting to be served under subsection 72.007(4) or 72.08(4) is admissible in evidence without proof of the signature or official character of the person appearing to have signed it.
+In a proceeding in respect of a violation, a notice appearing to be served under subsection 72.005(1), 72.07(1) or 72.135(1) or a copy of a decision appearing to be served under subsection 72.007(4), 72.08(4) or 72.136(4) is admissible in evidence without proof of the signature or official character of the person appearing to have signed it.
 
 ### Section 10
 
-Subsection 72.15(1) of the Act is replaced by the following:
-
-### Section 72.15
-
-  **(1)** It is a defence for a person in a proceeding in relation to a violation, **other than a violation under section 72.131**, to establish that the person exercised due diligence to prevent the violation.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 72.15(1):
-> *Existing Text*:
-> > It is a defence for a person in a proceeding in relation to a violation to establish that the person exercised due diligence to prevent the violation.
+[*Deleted*]
 
 ### Section 11
 
   **(1)** Paragraph 73(3)(a) of the Act is replaced by the following:
 
-    contravenes any other provision of this Act or any special Act or any regulation or decision made under this Act, **other than a regulation made under paragraph `15.8`(1)(a)**, or
+    contravenes any other provision of this Act or any special Act or any regulation or decision made under this Act, other than a regulation made under paragraph `15.8`(1)(a), or
 
   **(2)** Section 73 of the Act is amended by adding the following after subsection (3):
 
@@ -992,7 +1019,7 @@ Subsection 72.15(1) of the Act is replaced by the following:
 
   **(3)** Subsection 73(7) of the Act is replaced by the following:
 
-    **(7)** If a court of competent jurisdiction is satisfied, on application by the Minister, that **a contravention of an order made under section `15.1` or `15.2` or a regulation made under paragraph `15.8`(1)(a)** or a contravention of section 69.2 is being or is likely to be committed, the court may grant an injunction, subject to any conditions that the court considers appropriate, ordering any person to cease or refrain from any activity related to that offence.
+    **(7)** If a court of competent jurisdiction is satisfied, on application by the Minister, that a contravention of an order made under section `15.1` or `15.2` or a regulation made under paragraph `15.8`(1)(a) or a contravention of section 69.2 is being or is likely to be committed, the court may grant an injunction, subject to any conditions that the court considers appropriate, ordering any person to cease or refrain from any activity related to that offence.
 
 
 ### Consequential Amendment to the Canada Evidence Act
@@ -1017,11 +1044,13 @@ Whereas the Government of Canada has a fundamental responsibility to protect Can
 
 Whereas the Government of Canada acknowledges that because some cyber systems are critically important to vital services and vital systems their disruption could have serious consequences for national security or public safety;
 
-Whereas the Government of Canada, through its national cyber security strategy, is committed to enhancing the security and resilience of the critical cyber systems of the federally regulated private sector and to exercising leadership in cyber security to foster collaboration across Canada and around the world;
+Whereas the Government of Canada, through its national cyber security strategy, is committed to enhancing the security and resilience of the critical cyber systems of the federally regulated sector and to exercising leadership in cyber security to foster collaboration across Canada, **with the provinces and territories** and around the world;
 
-And whereas the Government of Canada is committed to working with various stakeholders, including the federally regulated private sector, to help protect those systems and to encourage information sharing among the stakeholders;
+Whereas the Government of Canada is committed to working with various stakeholders, including the federally regulated sector, to help protect those systems and to encourage information sharing among the stakeholders;
 
-Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+And whereas the Government of Canada acknowledges the necessity to protect the privacy of Canadians with respect to their personal information in accordance with the `Privacy Act`;
+
+His Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
 
 ## Short Title
@@ -1037,17 +1066,17 @@ This Act may be cited as the `Critical Cyber Systems Protection Act`.
 
 The following definitions apply in this Act.
 
-**appropriate regulator** means, in respect of a designated operator, the regulator set out in column 2 of Schedule 2 that corresponds to the class of operators to which the designated operator belongs. (**organisme réglementaire compétent**)
+**appropriate regulator** means, in respect of a designated operator, the regulator set out in column 2 of Schedule 2 that corresponds to the class of operators to which the designated operator belongs. (**organisme réglementaire compétent**)
 
-**Bank** means the Bank of Canada established by subsection 3(1) of the `Bank of Canada Act`. (**Banque**)
+**Bank** means the Bank of Canada established by subsection 3(1) of the `Bank of Canada Act`. (**Banque**)
 
-**Canadian Energy Regulator** means the Canadian Energy Regulator established by subsection 10(1) of the `Canadian Energy Regulator Act`. (**Régie canadienne de l'énergie**)
+**Canadian Energy Regulator** means the Canadian Energy Regulator established by subsection 10(1) of the `Canadian Energy Regulator Act`. (**Régie canadienne de l'énergie**)
 
-**Canadian Nuclear Safety Commission** means the Commission established by subsection 8(1) of the `Nuclear Safety and Control Act`. (**Commission canadienne de sûreté nucléaire**).
+**Canadian Nuclear Safety Commission** means the Commission established by subsection 8(1) of the `Nuclear Safety and Control Act`. (**Commission canadienne de sûreté nucléaire**).
 
-**Chief Executive Officer** has the same meaning as in section 2 of the `Canadian Energy Regulator Act`. (**président-directeur général**)
+**Chief Executive Officer** has the same meaning as in section 2 of the `Canadian Energy Regulator Act`. (**président-directeur général**)
 
-**Commission** means the Commission referred to in subsection 26(1) of the `Canadian Energy Regulator Act`. (**Commission**)
+**Commission** means the Commission referred to in subsection 26(1) of the `Canadian Energy Regulator Act`. (**Commission**)
 
 **confidential information** means any information obtained under this Act in respect of a critical cyber system that
 
@@ -1055,23 +1084,23 @@ concerns a vulnerability of any designated operator's critical cyber system or t
 
 if disclosed could reasonably be expected to result in material financial loss or gain to, or could reasonably be expected to prejudice the competitive position of, a designated operator; or
 
-if disclosed could reasonably be expected to interfere with contractual or other negotiations of a designated operator. (**renseignements confidentiels**)
+if disclosed could reasonably be expected to interfere with contractual or other negotiations of a designated operator. (**renseignements confidentiels**)
 
-**critical cyber system** means a cyber system that, if its confidentiality, integrity or availability were compromised, could affect the continuity or security of a vital service or vital system. (**cybersystème essentiel**)
+**critical cyber system** means a cyber system that, if its confidentiality, integrity or availability were compromised, could affect the continuity or security of a vital service or vital system. (**cybersystème essentiel**)
 
 **cyber security incident**, in respect of a critical cyber system, means an incident, including an act, omission or circumstance, that interferes or may interfere with
 
 the continuity or security of a vital service or vital system; or
 
-the confidentiality, integrity or availability of the critical cyber system. (**incident de cybersécurité**)
+the confidentiality, integrity or availability of the critical cyber system. (**incident de cybersécurité**)
 
-**cyber system** means a system of interdependent digital services, technologies, assets or facilities that form the infrastructure for the reception, transmission, processing or storing of information. (**cybersystème**)
+**cyber system** means a system of interdependent digital services, technologies, assets or facilities that form the infrastructure for the reception, transmission, processing or storing of information. (**cybersystème**)
 
-**designated operator** means a person, partnership or unincorporated organization that belongs to any class of operators referred to in Schedule 2. (**exploitant désigné**)
+**designated operator** means a person, partnership or unincorporated organization that belongs to any class of operators referred to in Schedule 2. (**exploitant désigné**)
 
-**Governor** has the same meaning as in section 2 of the `Bank of Canada Act`. (**gouverneur**)
+**Governor** has the same meaning as in section 2 of the `Bank of Canada Act`. (**gouverneur**)
 
-**Minister** means the Minister of Public Safety and Emergency Preparedness or, if another federal minister is designated under section `4`, that minister. (**ministre**)
+**Minister** means the Minister of Public Safety and Emergency Preparedness or, if another federal minister is designated under section `4`, that minister. (**ministre**)
 
 **regulator** means
 
@@ -1085,17 +1114,17 @@ the Bank;
 
 the Canadian Energy Regulator; or
 
-the Canadian Nuclear Safety Commission. (**organisme réglementaire**)
+the Canadian Nuclear Safety Commission. (**organisme réglementaire**)
 
-**responsible minister** means the minister responsible for an Act that is ordinarily administered by an appropriate regulator with respect to any class of operators set out in Schedule 2. (**ministre compétent**)
+**responsible minister** means the minister responsible for an Act that is ordinarily administered by an appropriate regulator with respect to any class of operators set out in Schedule 2. (**ministre compétent**)
 
-**Superintendent** means the Superintendent of Financial Institutions appointed under subsection 5(1) of the `Office of the Superintendent of Financial Institutions Act`. (**surintendant**)
+**Superintendent** means the Superintendent of Financial Institutions appointed under subsection 5(1) of the `Office of the Superintendent of Financial Institutions Act`. (**surintendant**)
 
-**Tribunal** means the Transportation Appeal Tribunal of Canada that is established under subsection 2(1) of the `Transportation Appeal Tribunal of Canada Act`. (**Tribunal**)
+**Tribunal** means the Transportation Appeal Tribunal of Canada that is established under subsection 2(1) of the `Transportation Appeal Tribunal of Canada Act`. (**Tribunal**)
 
-**vital service** means a service that is referred to in Schedule 1. (**service critique**)
+**vital service** means a service that is referred to in Schedule 1. (**service critique**)
 
-**vital system** means a system that is referred to in Schedule 1. (**système critique**)
+**vital system** means a system that is referred to in Schedule 1. (**système critique**)
 
 
 ## Application
@@ -1156,7 +1185,7 @@ A designated operator that owns, controls or operates a critical cyber system mu
 
 ### Section 9
 
-  **(1)** After an order that is made under section `7` is published in the `Canada Gazette`, Part II, a designated operator that belongs to a class of operators set out in Schedule 2 must, within 90 days after the day on which the designated operator becomes a member of that class, establish a cyber security program in respect of its critical cyber systems and include in the program reasonable steps to, in accordance with any regulations,
+  **(1)** After an order that is made under section `7` is published in the `Canada Gazette`, Part II, a designated operator that belongs to a class of operators set out in Schedule 2 must, within 90 days after the day on which the designated operator becomes a member of that class, establish a cyber security program in respect of its critical cyber systems and include in the program steps to, in accordance with any regulations,
 
     identify and manage any organizational cyber security risks, including risks associated with the designated operator's supply chain and its use of third-party products and services;
 
@@ -1180,7 +1209,7 @@ The appropriate regulator may, at the designated operator's written request, ext
 
 ### Section 12
 
-After a cyber security program is established, the designated operator must implement that program by taking the reasonable steps that are included in the program under section `9` and maintain the program.
+After a cyber security program is established, the designated operator must implement that program by taking the steps that are included in the program under section `9` and maintain the program.
 
 ### Section 13
 
@@ -1192,7 +1221,7 @@ After a cyber security program is established, the designated operator must impl
 
 ### Section 14
 
-  **(1)** A designated operator must, without delay, notify the appropriate regulator of
+  **(1)** A designated operator must, **within a period prescribed by the regulations**, notify the appropriate regulator of
 
     any material change in the designated operator's ownership or control;
 
@@ -1209,7 +1238,7 @@ After a cyber security program is established, the designated operator must impl
 
 ### Section 15
 
-As soon as any cyber security risk associated with the designated operator's supply chain or its use of third-party products and services has been identified under paragraph `9`(1)(a), the designated operator must take reasonable steps, including any steps that are prescribed by the regulations, to mitigate those risks.
+As soon as any cyber security risk associated with the designated operator's supply chain or its use of third-party products and services has been identified under paragraph 9(1)(a), the designated operator must mitigate those risks.
 
 ### Section 16
 
@@ -1220,7 +1249,7 @@ An appropriate regulator may provide to the Communications Security Establishmen
 
 ### Section 17
 
-A designated operator must immediately report a cyber security incident in respect of any of its critical cyber systems to the Communications Security Establishment in accordance with the regulations, for the purpose of enabling the Communications Security Establishment to exercise its powers or perform its duties and functions.
+A designated operator must, **within a period prescribed by the regulations, not to exceed 72 hours**, report a cyber security incident in respect of any of its critical cyber systems to the Communications Security Establishment in accordance with the regulations, for the purpose of enabling the Communications Security Establishment to exercise its powers or perform its duties and functions.
 
 ### Section 18
 
@@ -1228,7 +1257,7 @@ Immediately after reporting a cyber security incident, the designated operator m
 
 notify the appropriate regulator, in the form and manner prescribed by the regulations that the report was made; and
 
-on request, give a copy of the report to the appropriate regulator.
+give a copy of the report to the appropriate regulator.
 
 ### Section 19
 
@@ -1239,11 +1268,27 @@ The Communications Security Establishment must, without delay, at the request of
 
 ### Section 20
 
-  **(1)** The Governor in Council may, by order, direct any designated operator or class of operators to comply with any measure set out in the direction for the purpose of protecting a critical cyber system.
+  **(1)** The Governor in Council may, by order, direct any designated operator or class of operators to comply with any measure set out in the direction for the purpose of protecting a critical cyber system, **if the Governor in Council believes on reasonable grounds that it is necessary to make the order for that purpose**.
 
   **(2)** The Governor in Council may, by order, amend or revoke a direction in whole or in part.
 
+  **(2.1)** Before making an order under subsection (1), the Governor in Council must consider
+
+    its operational impacts on affected designated operators;
+
+    its impact on public safety of Canadians;
+
+    its financial impacts on affected designated operators;
+
+    its impact on the delivery of vital services and vital systems to consumers; and
+
+    any other factor that the Governor in Council considers to be relevant.
+
   **(3)** Every designated operator that is subject to a direction must comply with it.
+
+  **(4)** The Minister must, within 90 days after an order is made under subsection (1), notify the National Security and Intelligence Committee of Parliamentarians and the National Security and Intelligence Review Agency of the making of the order.
+
+  **(5)** For greater certainty, despite subsection (1), the Governor in Council is not permitted to order any designated operator or class of operators to intercept a private communication or a radio-based telephone communication, as those terms are defined in section 183 of the `Criminal Code`.
 
 ### Section 21
 
@@ -1267,25 +1312,31 @@ The Communications Security Establishment must, without delay, at the request of
 
 ### Section 23
 
-To the extent necessary, for any purpose related to the making, amending or revoking of a cyber security direction in respect of a designated operator, the following persons or entities may collect information from and disclose information, including confidential information, to each other:
+  ****(1)**** To the extent necessary, for any purpose related to the making, amending or revoking of a cyber security direction in respect of a designated operator, the following persons or entities may collect information from and disclose information, including confidential information, to each other:
 
-the Minister;
+    the Minister;
 
-the responsible minister;
+    the responsible minister;
 
-the appropriate regulator;
+    the appropriate regulator;
 
-the Minister of Foreign Affairs;
+    the Minister of Foreign Affairs;
 
-the Minister of National Defence;
+    the Minister of National Defence;
 
-the Chief of the Defence Staff;
+    the Chief of the Defence Staff;
 
-the Chief or an employee of the Communications Security Establishment;
+    the Chief or an employee of the Communications Security Establishment;
 
-the Director or an employee of the Canadian Security Intelligence Service; and
+    the Director or an employee of the Canadian Security Intelligence Service; and
 
-any other person or entity that is prescribed by the regulations.
+    any other person or entity that is prescribed by the regulations.
+
+  **(2)** Any confidential information, within the meaning of this Act or any other Act of Parliament that applies to or is administered by a person or entity referred to in subsection (1), that is collected or disclosed under that subsection must be treated as confidential.
+
+  **(3)** Any information collected or obtained under subsection (1) must be retained only for as long as is necessary to make, amend or revoke an order under section 20, or to verify compliance or prevent non-compliance with such an order.
+
+  **(4)** A designated operator, or class of operators, to which the information relates must be informed of the retention period.
 
 ### Section 24
 
@@ -1310,13 +1361,15 @@ Every designated operator that is subject to a cyber security direction is prohi
 
     the designated operator to which the information relates consents to its disclosure;
 
-    the disclosure is necessary for any purpose related to the protection of vital services, vital systems or critical cyber systems;
+    the disclosure is necessary for the protection of vital services, vital systems or critical cyber systems;
 
     the disclosure is made in accordance with any provision of this Act; or
 
     the disclosure is made in accordance with the `Security of Canada Information Disclosure Act`.
 
   **(2)** Nothing in this section precludes a person from disclosing confidential information to a law enforcement agency or the Canadian Security Intelligence Service if the disclosure of the information is otherwise lawful.
+
+  **(3)** Any confidential information that is disclosed or allowed to be accessed under subsection (1) must be treated as confidential.
 
 ### Section 27
 
@@ -1334,7 +1387,9 @@ Every designated operator that is subject to a cyber security direction is prohi
 
 ### Section 28
 
-For any purpose related to this Act, the appropriate regulator for a class of operators may provide the Minister or the responsible minister with any information, including any confidential information, that is related to the exercise of the appropriate regulator's powers or the performance of its duties and functions under this Act or the regulations. However, if the Minister or the responsible minister makes a request for the information, the appropriate regulator must provide the information so requested.
+  ****(1)**** **If it is necessary** for **the protection of vital services, vital systems or critical cyber systems**, the appropriate regulator for a class of operators may provide the Minister or the responsible minister with any information, including any confidential information, that is related to the exercise of the appropriate regulator's powers or the performance of its duties and functions under this Act or the regulations. However, if **for the same reason** the Minister or the responsible minister makes a request for the information, the appropriate regulator must provide the information so requested.
+
+  **(2)** Any confidential information, within the meaning of this Act or any other Act of Parliament that applies to or is administered by the appropriate regulator, that is provided under subsection (1) must be treated as confidential.
 
 ### Section 29
 
@@ -2605,25 +2660,29 @@ to pay the amount determined under paragraph `131`(b).
 
 ### Section 135
 
-The Governor in Council may make regulations for carrying out the purposes and provisions of this Act, including regulations
+  ****(1)**** The Governor in Council may make regulations for carrying out the purposes and provisions of this Act, including regulations
 
-respecting cyber security programs;
+    respecting cyber security programs;
 
-respecting any condition and criteria respecting internal audits;
+    respecting any condition and criteria respecting internal audits;
 
-respecting the form and manner for reporting any cyber security incidents referred to in section `17` and the types of incidents that must be reported;
+    respecting the form, manner and **period** for reporting any cyber security incidents referred to in section `17` and the types of incidents that must be reported;
 
-respecting the management of records referred to in section `30`, including the collection, use, retention, disclosure and disposal of those records;
+    respecting the period within which a notification referred to under subsection 14(1) is to be provided;
 
-designating any provision of this Act or of the regulations made under this Act for the purposes of section `90`;
+    respecting the management of records referred to in section `30`, including the collection, use, retention, disclosure and disposal of those records;
 
-classifying each violation as a minor violation, a serious violation or a very serious violation;
+    designating any provision of this Act or of the regulations made under this Act for the purposes of section `90`;
 
-fixing the maximum penalty in respect of each violation;
+    classifying each violation as a minor violation, a serious violation or a very serious violation;
 
-defining, for the purposes of this Act, any word or expression that is used in this Act but is not defined; and
+    fixing the maximum penalty in respect of each violation;
 
-prescribing anything that is to be prescribed under this Act.
+    defining, for the purposes of this Act, any word or expression that is used in this Act but is not defined; and
+
+    prescribing anything that is to be prescribed under this Act.
+
+  **(2)** In making regulations under subsection (1), the Governor in Council may seek to ensure consistency with existing regulatory regimes, such as those established by provincial regulatory agencies.
 
 
 ## Offences
@@ -2664,7 +2723,7 @@ A prosecution must not be commenced in respect of an offence under this Act late
 
 ### Section 141
 
-A person, partnership or unincorporated organization is not to be found guilty of an offence under this Act — other than an offence under section `137` that is in respect of a contravention of subsection `9`(1), section `15` or `26` or paragraph `87`(a) or (b) — if they establish that they exercised all due diligence to prevent the commission of the offence.
+A person, partnership or unincorporated organization is not to be found guilty of an offence under this Act — other than an offence under section `137` that is in respect of a contravention of section 26 or paragraph 87(a) or (b) — if they establish that they exercised all due diligence to prevent the commission of the offence.
 
 ### Section 142
 
@@ -2711,7 +2770,29 @@ In any action or proceeding under this Act, an entry in any record required unde
 
 ### Section 146
 
-The Minister must, within three months after the end of each fiscal year, prepare a report on the administration of this Act for that fiscal year and cause a copy of the report to be laid before each House of Parliament on any of the first 15 sitting days of that House after the report is completed.
+  ****(1)**** The Minister must, within three months after the end of each fiscal year, prepare a report on the administration of this Act for that fiscal year and cause a copy of the report to be laid before each House of Parliament on any of the first 15 sitting days of that House after the report is completed.
+
+  **(2)** The report must include, for the fiscal year covered by the report, the following information in relation to orders made under subsection 20(1):
+
+    the number of orders made under subsection 20(1) and the nature of the directions set out in those orders;
+
+    the number of directions revoked under subsection 20(2);
+
+    the number of designated operators that were subject to a direction;
+
+    description of compliance of designated operators that partially complied with a direction;
+
+    description of compliance of designated operators that fully complied with a direction; and
+
+    an explanation of the necessity, proportionality, reasonableness and utility of the directions.
+
+  **(3)** The report must contain information on, among other things,
+
+    the number of directions issued under subsection 20(1) in the immediately preceding fiscal year;
+
+    the number of designated operators that were issued directions under subsection 20(1) in the immediately preceding fiscal year; and
+
+    any other information relating to the immediately preceding fiscal year that the Minister considers relevant, if that information is not likely to be about an identifiable designated operator or other person.
 
 
 ### Consequential Amendments
@@ -2734,13 +2815,7 @@ Subsection 23(1) of the `Office of the Superintendent of Financial Institutions 
 
 ### Section 23
 
-  **(1)** The Superintendent shall, before December 31 in each year, ascertain the total amount of expenses incurred during the immediately preceding fiscal year for or in connection with the administration of the `Bank Act`, the `Cooperative Credit Associations Act`, **the `Critical Cyber Systems Protection Act`**, the `Green Shield Canada Act`, the `Insurance Companies Act`, the `Protection of Residential Mortgage or Hypothecary Insurance Act` and the `Trust and Loan Companies Act`.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 23(1):
-> *Existing Text*:
-> > The Superintendent shall, before December 31 in each year, ascertain the total amount of expenses incurred during the immediately preceding fiscal year for or in connection with the administration of the `Bank Act`, the `Cooperative Credit Associations Act`, the `Green Shield Canada Act`, the `Insurance Companies Act`, the `Protection of Residential Mortgage or Hypothecary Insurance Act` and the `Trust and Loan Companies Act`.
+  **(1)** The Superintendent shall, before December 31 in each year, ascertain the total amount of expenses incurred during the immediately preceding fiscal year for or in connection with the administration of the `Bank Act`, the `Cooperative Credit Associations Act`, the `Critical Cyber Systems Protection Act`, the `Green Shield Canada Act`, the `Insurance Companies Act`, the `Protection of Residential Mortgage or Hypothecary Insurance Act` and the `Trust and Loan Companies Act`.
 
 ### Section 16
 
@@ -2755,16 +2830,9 @@ Subsections 21(2) and (3) of the `Nuclear Safety and Control Act` are replaced b
 
 **(1.1)** The Commission may charge any fees that may be prescribed for any information, product or service that it provides under any other Act of Parliament.
 
-**(2)** The Commission may, under the prescribed circumstances, refund all or part of any fee referred to in paragraph (1)(g) **or subsection (1.1)**.
+**(2)** The Commission may, under the prescribed circumstances, refund all or part of any fee referred to in paragraph (1)(g) or subsection (1.1).
 
 **(3)** The Commission may spend for its purposes the revenue from the fees it charges in the fiscal year in which the revenues are received or in the next fiscal year.
-
-
-> **Explanatory Note**:
-> Existing text of subsections 21(2) and (3):
-> *Existing Text*:
-> > The Commission may, under the prescribed circumstances, refund all or part of any fee referred to in paragraph (1)(g).
-> > The Commission may spend for its purposes the revenue from the fees it charges for licences or classes of licences issued under section 24 in the fiscal year in which the revenues are received or in the next fiscal year.
 
 
 #### Transportation Appeal Tribunal of Canada Act
@@ -2773,13 +2841,7 @@ Subsections 21(2) and (3) of the `Nuclear Safety and Control Act` are replaced b
 
 Subsection 2(3) of the `Transportation Appeal Tribunal of Canada Act` is replaced by the following:
 
-**(3)** The Tribunal also has jurisdiction in respect of reviews and appeals in connection with administrative monetary penalties provided for under sections 177 to 181 of the `Canada Transportation Act`, **sections `127` to `133` of the `Critical Cyber Systems Protection Act`**, sections 43 to 55 of the `International Bridges and Tunnels Act`, sections 129.01 to 129.19 of the `Canada Marine Act`, sections 16.1 to 16.25 of the `Motor Vehicle Safety Act`, sections 39.1 to 39.26 of the `Canadian Navigable Waters Act` and sections 130.01 to 130.19 of the `Marine Liability Act`.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 2(3):
-> *Existing Text*:
-> > The Tribunal also has jurisdiction in respect of reviews and appeals in connection with administrative monetary penalties provided for under sections 177 to 181 of the `Canada Transportation Act`, sections 43 to 55 of the `International Bridges and Tunnels Act`, sections 129.01 to 129.19 of the `Canada Marine Act`, sections 16.1 to 16.25 of the `Motor Vehicle Safety Act`, sections 39.1 to 39.26 of the `Canadian Navigable Waters Act` and sections 130.01 to 130.19 of the `Marine Liability Act`.
+**(3)** The Tribunal also has jurisdiction in respect of reviews and appeals in connection with administrative monetary penalties provided for under sections 177 to 181 of the `Canada Transportation Act`, sections `127` to `133` of the `Critical Cyber Systems Protection Act`, sections 43 to 55 of the `International Bridges and Tunnels Act`, sections 129.01 to 129.19 of the `Canada Marine Act`, sections 16.1 to 16.25 of the `Motor Vehicle Safety Act`, sections 39.1 to 39.26 of the `Canadian Navigable Waters Act` and sections 130.01 to 130.19 of the `Marine Liability Act`.
 
 
 ### Coming into Force
