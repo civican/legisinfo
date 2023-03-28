@@ -1,7 +1,5 @@
 # Bill S-203: An Act respecting a federal framework on autism spectrum disorder
 
-**Sponsor**: Senator Housakos
-
 ## Summary
 
 This enactment provides for the development of a federal framework designed to support autistic Canadians, their families and their caregivers.
@@ -12,7 +10,13 @@ Whereas Parliament recognizes that there is a need for autistic persons and thei
 
 Whereas there is no coordinated national strategy that would expand the scope of support to ensure consistency and long-term solutions, especially for persons over the age of 18 years;
 
-And whereas autistic Canadians, their families and their caregivers would benefit from the development and implementation of a federal framework that provides for best practices, research, education, awareness, treatment, equal access to medical and financial supports, and assistance with employment and housing challenges;
+Whereas autistic Canadians, their families
+and their caregivers would benefit from the development and implementation of a federal framework that provides for best practices, research, education, awareness, treatment, equal access to medical and financial supports, and assistance with employment and housing challenges;
+
+And whereas the development of that
+federal framework would benefit from the
+involvement of autistic Canadians, their
+families and their caregivers;
 
 Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
@@ -32,25 +36,54 @@ This Act may be cited as the *Federal Framework on Autism Spectrum Disorder Act*
 
   **(2)** The framework must identify measures to provide
 
+    timely and equitable access to
+screening and diagnosis for autism
+spectrum disorder;
+
     financial support for autistic persons and their families, including the establishment or expansion of tax benefits as required;
 
     support for caregivers of autistic persons;
 
     a national research network to promote research and improve data collection on autism spectrum disorder;
 
-    a national public awareness campaign to enhance knowledge and understanding about autism spectrum disorder;
+    national campaigns to enhance public
+knowledge, understanding and acceptance
+of autism spectrum disorder while accounting for intersectionality, in order to
+foster inclusivity;
 
-    an online resource on best practices to support autistic persons, their families and their caregivers; and
+    sustained, accessible and culturally
+relevant resources, available online and
+elsewhere, on best available evidencebased
+information to support autistic
+persons, their families and caregivers,
+including information on effective
+treatments and ineffective or harmful
+treatments;
 
-    mechanisms to ensure accountability in the use of federal funds for autistic persons and their families.
+    mechanisms to ensure accountability in the use of federal funds for autistic persons and their families; and
+
+    anything else that the Minister
+considers appropriate in relation to autism
+spectrum disorder.
 
   **(3)** For the purpose of developing the federal framework, the Minister must consult with
 
     the Minister of Finance, the Minister of National Revenue, the Minister of Employment and Social Development and any other ministers with relevant responsibilities;
 
-    representatives of the provincial governments, including those responsible for health; and
+    representatives of the provincial governments, including those responsible for health;
 
-    relevant stakeholders, including representatives from the medical, research and advocacy communities that focus on autism spectrum disorder.
+    relevant stakeholders, including self-advocates,
+persons with lived experience
+— including caregivers and support
+persons — service providers, and
+representatives from the medical and
+research communities and from
+organizations that focus on autism
+spectrum disorder in Indigenous
+communities; and
+
+    anyone else that the Minister considers
+appropriate.
 
   **(4)** The Minister must, no later than 12 months after the day on which this Act receives royal assent, hold at least one conference with the persons referred to in subsection (3) for the purpose of developing the federal framework.
 
