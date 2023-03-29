@@ -16,7 +16,7 @@ Whereas the Government of Canada is committed to assessing and preventing enviro
 
 And whereas the Government of Canada recognizes that collaboration and a coordinated national strategy are key to promoting effective change and achieving environmental justice;
 
-Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+Now, therefore, His Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
 
 ## Short Title
