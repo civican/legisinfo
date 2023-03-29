@@ -14,7 +14,7 @@ Pricing Act
 
   **(1)** The definition eligible farming machinery in section 3 of the `Greenhouse Gas Pollution Pricing Act` is amended by adding the following after paragraph (b):
 
-    property used for the purpose of providing heating or cooling to a building or similar structure used for raising or housing livestock **or for growing crops**;
+    property used for the purpose of providing heating or cooling to a building or similar structure used for raising or housing livestock or for growing crops;
 
   **(1.1)** Paragraph (b.1) of the definition eligible farming machinery in section 3 of the Act is repealed.
 
@@ -34,7 +34,7 @@ Pricing Act
 
   **(4)** The definition qualifying farming fuel in section 3 of the Act is replaced by the following:
 
-    **qualifying farming fuel** means a type of fuel that is gasoline, light fuel oil, marketable natural gas, propane or a prescribed type of fuel. (**combustible agricole admissible**)
+    **qualifying farming fuel** means a type of fuel that is gasoline, light fuel oil, marketable natural gas, propane or a prescribed type of fuel. (**combustible agricole admissible**)
 
   **(5)** The definition qualifying farming fuel in section 3 of the Act is replaced by the following:
 
@@ -45,7 +45,7 @@ Pricing Act
 
 ### Section 2
 
-  **(1)** Subsections (1.1), (2.1), (3.1) and (5) come into force on the day that is the 8th anniversary of the day on which this Act comes into force, unless, before that day, their coming into force is postponed by a resolution — whose text is established under subsection (2) — passed by both Houses of Parliament in accordance with the rules set out in subsection (3).
+  **(1)** Subsections 1(1.1), (2.1), (3.1) and (5) come into force on the day that is the 8th anniversary of the day on which this Act comes into force, unless, before that day, their coming into force is postponed by a resolution — whose text is established under subsection (2) — passed by both Houses of Parliament in accordance with the rules set out in subsection (3).
 
   **(2)** The Governor in Council may, by order, establish the text of a resolution providing for the postponement and specifying the period of the postponement.
 
