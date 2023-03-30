@@ -18,7 +18,7 @@ federal framework would benefit from the
 involvement of autistic Canadians, their
 families and their caregivers;
 
-Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+Now, therefore, His Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
 
 ## Short Title
