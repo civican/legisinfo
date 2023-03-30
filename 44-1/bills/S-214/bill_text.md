@@ -1,7 +1,5 @@
 # Bill S-214: An Act to establish International Mother Language Day
 
-**Sponsor**: Jaffer
-
 ## Summary
 
 This enactment designates the 21st day of February in each and every year as "International Mother Language Day".
