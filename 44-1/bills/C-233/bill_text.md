@@ -6,7 +6,7 @@ This enactment amends the `Criminal Code` to require a justice, before making a 
 
 The enactment also amends the `Judges Act` to provide for continuing education seminars for judges on matters related to intimate partner violence and coercive control in intimate partner and family relationships.
 
-Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+His Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
 
 ## Criminal Code
