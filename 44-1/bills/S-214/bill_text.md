@@ -18,7 +18,7 @@ Whereas some Canadian provinces and cities already recognize International Mothe
 
 And whereas the Parliament of Canada wishes to recognize the value of linguistic and cultural diversity;
 
-Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+Now, therefore, His Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
 
 ## Short Title
