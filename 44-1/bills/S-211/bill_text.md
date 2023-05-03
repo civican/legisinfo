@@ -1,7 +1,5 @@
 # Bill S-211: An Act to enact the Fighting Against Forced Labour and Child Labour in Supply Chains Act and to amend the Customs Tariff
 
-**Sponsor**: Senator Miville-Dechêne
-
 ## Summary
 
 This enactment enacts the *Fighting Against Forced Labour and Child Labour in Supply Chains Act*, which imposes an obligation on certain government institutions and private-sector entities to report on the measures taken to prevent and reduce the risk that forced labour or child labour is used by them or in their supply chains. The Act provides for an inspection regime applicable to entities and gives the Minister the power to require an entity to provide certain information.
@@ -15,6 +13,8 @@ in whole or in part, by forced labour or child labour as those terms are defined
 
 
 ## An Act to enact the Fighting Against Forced Labour and Child Labour in Supply Chains Act and to amend the Customs Tariff
+
+Preamble
 
 
 ## Short Title
@@ -66,7 +66,7 @@ Control
 
 ### Annual Report
 
-Annual Report
+Annual report
 
 Revised report
 
@@ -248,6 +248,8 @@ This Part applies to any government institution producing, purchasing or distrib
 
     any measures taken to remediate any forced labour or child labour;
 
+    any measures taken to remediate the loss of income to the most vulnerable families that results from any measure taken to eliminate the use of forced labour or child labour in its activities and supply chains;
+
     the training provided to employees on forced labour and child labour; and
 
     how the government institution assesses its effectiveness in ensuring that forced labour and child labour are not being used in its activities and supply chains.
@@ -313,6 +315,8 @@ control any entity that is controlled or deemed to be controlled by the other en
 
     any measures taken to remediate any forced labour or child labour;
 
+    any measures taken to remediate the loss of income to the most vulnerable families that results from any measure taken to eliminate the use of forced labour or child labour in its activities and supply chains;
+
     the training provided to employees on forced labour and child labour; and
 
     how the entity assesses its effectiveness in ensuring that forced labour and child labour are not being used in its business and supply chains.
@@ -331,7 +335,7 @@ control any entity that is controlled or deemed to be controlled by the other en
 
     a statement that sets out whether it was approved pursuant to paragraph (4)(a) or subparagraph (4)(b)(i) or (ii); and
 
-    the manual signature of one or more members of the governing body of each entity that approved the report.
+    the signature of one or more members of the governing body of each entity that approved the report.
 
   **(6)** The Minister may specify, in writing, the form and manner in which a report is to be provided. The requirements must be made available to the public in the manner that the Minister considers appropriate.
 
@@ -552,29 +556,13 @@ both Houses of Parliament.
 
 Subparagraph 132(1)(m)(i.1) of the `Customs Tariff` is replaced by the following:
 
-amending that tariff item to exclude goods that are mined, manufactured or produced wholly or in part by forced labour or **child labour as those terms are defined in section 2 of the *Fighting Against Forced Labour and Child Labour in Supply Chains Act*,** from that tariff item, or prescribing the conditions under which such goods may be excluded from that tariff item,
-
-
-> **Explanatory Note**:
-> Text of relevant portions of subsection 132(1):
-> *Existing Text*:
-> > The Governor in Council may, on the recommendation of the Minister, make regulations
-> > 
-> > for the purposes of tariff item No. 9897.00.00,
-> > 
-> > amending that tariff item to exclude goods that are mined, manufactured or produced wholly or in part by forced labour from that tariff item, or prescribing the conditions under which such goods may be excluded from that tariff item,
+amending that tariff item to exclude goods that are mined, manufactured or produced wholly or in part by forced labour or child labour as those terms are defined in section 2 of the *Fighting Against Forced Labour and Child Labour in Supply Chains Act*, from that tariff item, or prescribing the conditions under which such goods may be excluded from that tariff item,
 
 ### Section 27
 
 The reference to "Goods mined, manufactured or produced wholly or in part by forced labour" set out in the Description of Goods of tariff item No. 9897.00.00 in the List of Tariff Provisions set out in the schedule to the Act is replaced by the following:
 
-Goods mined, manufactured or produced wholly or in part by forced labour **or child labour as those terms are defined in section 2 of the *Fighting Against Forced Labour and Child Labour in Supply Chains Act***;
-
-
-> **Explanatory Note**:
-> Existing text of relevant portion of the Schedule:
-> *Existing Text*:
-> > *Goods mined, manufactured or produced wholly or in part by forced labour;*
+Goods mined, manufactured or produced wholly or in part by forced labour or child labour as those terms are defined in section 2 of the *Fighting Against Forced Labour and Child Labour in Supply Chains Act*;
 
 
 ## Coming into Force
