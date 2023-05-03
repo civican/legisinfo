@@ -23,16 +23,11 @@ His Majesty, by and with the advice and consent of the Senate and House of Commo
 
 The long title of the `First Nations Fiscal Management Act` is replaced by the following:
 
-
-> **Explanatory Note**:
-> Existing text of the long title:
-> *Existing Text*:
-
 ### Section 2
 
 The preamble to the Act is replaced by the following:
 
-**Whereas the Government of Canada is committed to responding to, to the extent of its authority, Call to Action 44 in the Final Report of the Truth and Reconciliation Commission of Canada and implementing the United Nations Declaration on the Rights of Indigenous Peoples, including Articles 3 to 5, 20, 21 and 23 as they relate to the pursuit of economic growth in Indigenous communities and to economic reconciliation;**
+Whereas the Government of Canada is committed to responding to, to the extent of its authority, Call to Action 44 in the Final Report of the Truth and Reconciliation Commission of Canada and implementing the United Nations Declaration on the Rights of Indigenous Peoples, including Articles 3 to 5, 20, 21 and 23 as they relate to the pursuit of economic growth in Indigenous communities and to economic reconciliation;
 
 Whereas early contact Indigenous peoples had innovative economic and trade systems supported by public infrastructure, tax systems, sharing practices and the development of trading languages to enable commerce across linguistically diverse regions;
 
@@ -42,29 +37,15 @@ Whereas the Government of Canada has adopted a policy recognizing the inherent r
 
 Whereas this Act is not intended to define the nature and scope of any right of self-government or to prejudge the outcome of any self-government negotiation;
 
-Whereas **First Nations governments** led an initiative in 1988 to **amend** the `Indian Act` **in order to recognize** their jurisdiction over real property taxation;
+Whereas First Nations governments led an initiative in 1988 to amend the `Indian Act` in order to recognize their jurisdiction over real property taxation;
 
 Whereas First Nations leaders led an initiative that resulted in the development of legislation that would enable First Nations to better exercise their jurisdiction with respect to taxation, financial administration and the provision of services on reserve lands and to participate in pooled debenture borrowing;
 
 Whereas economic development through the application of local revenues and other revenues to support borrowing on capital markets for the development of public infrastructure is available to other governments in Canada;
 
-Whereas **local revenue systems** on reserves should recognize both the interests of on-reserve taxpayers and the rights of members of First Nations communities;
+Whereas local revenue systems on reserves should recognize both the interests of on-reserve taxpayers and the rights of members of First Nations communities;
 
-**And** whereas First Nations and the Government of Canada **recognize** the benefits of establishing **Indigenous** institutions as part of a comprehensive fiscal **framework**;
-
-
-> **Explanatory Note**:
-> Preamble text:
-> *Existing Text*:
-> > Whereas the Government of Canada has adopted a policy recognizing the inherent right of self-government as an Aboriginal right and providing for the negotiation of self-government;
-> > Whereas this Act is not intended to define the nature and scope of any right of self-government or to prejudge the outcome of any self-government negotiation;
-> > Whereas the creation of national Aboriginal institutions will assist First Nations that choose to exercise real property taxation jurisdiction on reserve lands;
-> > Whereas economic development through the application of real property tax revenues and other local revenues to support borrowing on capital markets for the development of public infrastructure is available to other governments in Canada;
-> > Whereas real property taxation regimes on reserves should recognize both the interests of on-reserve taxpayers and the rights of members of First Nations communities;
-> > Whereas First Nations led an initiative that resulted in 1988 in an amendment to the `Indian Act` so that their jurisdiction over real property taxation on reserve could be exercised and the Indian Taxation Advisory Board was created to assist in the exercise of that jurisdiction;
-> > Whereas, in 1995, the First Nations Finance Authority Inc. was incorporated for the purposes of issuing debentures using real property tax revenues and providing investment opportunities;
-> > Whereas, by 1999, First Nations and the Government of Canada recognized the benefits of establishing statutory institutions as part of a comprehensive fiscal management system;
-> > And whereas First Nations have led an initiative culminating in the introduction of this Act;
+And whereas First Nations and the Government of Canada recognize the benefits of establishing Indigenous institutions as part of a comprehensive fiscal framework;
 
 ### Section 3
 
@@ -124,13 +105,7 @@ Section 4 of the Act is replaced by the following:
 
 ### Section 4
 
-The council of a First Nation may not make a law under paragraph 5(1)(d) **or 8.1(1)(a)** until the council has made a law respecting the financial administration of the First Nation under paragraph 9(1)(a) and that law has been approved by the First Nations Financial Management Board.
-
-
-> **Explanatory Note**:
-> Existing text of section 4:
-> *Existing Text*:
-> > The council of a First Nation may not make a law under paragraph 5(1)(d) until the council has made a law respecting the financial administration of the First Nation under paragraph 9(1)(a) and that law has been approved by the First Nations Financial Management Board.
+The council of a First Nation may not make a law under paragraph 5(1)(d) or 8.1(1)(a) until the council has made a law respecting the financial administration of the First Nation under paragraph 9(1)(a) and that law has been approved by the First Nations Financial Management Board.
 
 ### Section 5
 
@@ -142,7 +117,7 @@ The council of a First Nation may not make a law under paragraph 5(1)(d) **or 8.
 
   **(2)** Paragraph 5(1)(d) of the Act is replaced by the following:
 
-    respecting the borrowing of money from the First Nations Finance Authority **that is secured by local revenues**, including any authorization to enter into a particular borrowing agreement with that Authority;
+    respecting the borrowing of money from the First Nations Finance Authority that is secured by local revenues, including any authorization to enter into a particular borrowing agreement with that Authority;
 
   **(3)** The portion of paragraph 5(1)(e) of the Act before subparagraph (i) is replaced by the following:
 
@@ -150,7 +125,7 @@ The council of a First Nation may not make a law under paragraph 5(1)(d) **or 8.
 
   **(4)** Paragraph 5(1)(g) of the English version of the Act is replaced by the following:
 
-    delegating to the First Nations Financial Management Board any of the council's other powers that are required to give effect to a co-management arrangement entered into under section 52 or to give effect to third-party management **under section 53**.
+    delegating to the First Nations Financial Management Board any of the council's other powers that are required to give effect to a co-management arrangement entered into under section 52 or to give effect to third-party management under section 53.
 
   **(5)** Section 5 of the Act is amended by adding the following after subsection (4):
 
@@ -190,10 +165,6 @@ The Act is amended by adding the following after section 8:
 
   **(5)** The First Nation shall publish all laws made under paragraphs (1)(b) and (c) in the `First Nations Gazette`.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 7
 
 The portion of subsection 9(1) of the Act before paragraph (a) is replaced by the following:
@@ -202,27 +173,21 @@ The portion of subsection 9(1) of the Act before paragraph (a) is replaced by th
 
   **(1)** The council of a First Nation may make laws
 
-
-> **Explanatory Note**:
-> Relevant portion of subsection 9(1):
-> *Existing Text*:
-> > Subject to subsections (2) and (3), the council of a First Nation may make laws
-
 ### Section 8
 
   **(1)** The portion of subsection 11(1) of the Act before paragraph (b) is replaced by the following:
 
 ### Section 11
 
-      **(1)** A borrowing member **with an unpaid loan secured by local revenues** shall not repeal a property taxation law or a law made under paragraph 5(1)(a.1) unless
+      **(1)** A borrowing member with an unpaid loan secured by local revenues shall not repeal a property taxation law or a law made under paragraph 5(1)(a.1) unless
 
-        the revenues raised under that law, if any, are not being used as security for **any loan** obtained from the First Nations Finance Authority and the repeal of that law would not adversely affect the member's obligations to the First Nations Finance Authority; or
+        the revenues raised under that law, if any, are not being used as security for any loan obtained from the First Nations Finance Authority and the repeal of that law would not adversely affect the member's obligations to the First Nations Finance Authority; or
 
   **(2)** Subsections 11(2) and (3) of the Act are replaced by the following:
 
-    **(2)** A law made under paragraph 5(1)(b) by a borrowing member **with an unpaid loan secured by local revenues** shall not authorize the expenditure of local revenues unless the borrowing member's budget provides for the payment of all amounts payable to the First Nations Finance Authority during the budget period.
+    **(2)** A law made under paragraph 5(1)(b) by a borrowing member with an unpaid loan secured by local revenues shall not authorize the expenditure of local revenues unless the borrowing member's budget provides for the payment of all amounts payable to the First Nations Finance Authority during the budget period.
 
-    **(3)** **A** borrowing member **with an unpaid loan secured by local revenues** shall, in every year, reserve **the** local revenues **that** are required to ensure that all amounts authorized to be paid to the First Nations Finance Authority in the year **with respect to that loan** are actually paid in that year.
+    **(3)** A borrowing member with an unpaid loan secured by local revenues shall, in every year, reserve the local revenues that are required to ensure that all amounts authorized to be paid to the First Nations Finance Authority in the year with respect to that loan are actually paid in that year.
 
 ### Section 9
 
@@ -234,65 +199,41 @@ If a First Nation is using other revenues as security for a loan from the First 
 
 ### Section 15
 
-Paragraphs 83(1)(a) and (b) to (g) and section 84 of the `Indian Act` do not apply to a First Nation **and** any regulations made under paragraph 73(1)(m) of that Act do not apply to a First Nation in respect of the borrowing of money under a law made under paragraph 5(1)(d) or **8.1(1)(a)**.
-
-
-> **Explanatory Note**:
-> Existing text of section 15:
-> *Existing Text*:
-> > Paragraphs 83(1)(a) and (b) to (g) and section 84 of the `Indian Act` do not apply to a First Nation. In addition, any regulations made under paragraph 73(1)(m) of that Act do not apply to a First Nation in respect of the borrowing of money under a law made under paragraph 5(1)(d).
+Paragraphs 83(1)(a) and (b) to (g) and section 84 of the `Indian Act` do not apply to a First Nation and any regulations made under paragraph 73(1)(m) of that Act do not apply to a First Nation in respect of the borrowing of money under a law made under paragraph 5(1)(d) or 8.1(1)(a).
 
 ### Section 10
 
 The definition **taxpayer** in section 16 of the Act is replaced by the following:
 
-**taxpayer** means a person paying **taxes or fees** under a law **made under paragraph 5(1)(a) or (a.1)**. (**contribuable**)
-
-
-> **Explanatory Note**:
-> Existing text of the definition:
-> *Existing Text*:
-> > **taxpayer** means a person paying tax under a property taxation law. (**contribuable**)
+**taxpayer** means a person paying taxes or fees under a law made under paragraph 5(1)(a) or (a.1). (**contribuable**)
 
 ### Section 11
 
 Subsection 20(5) of the Act is replaced by the following:
 
-**(5)** The Commission shall be composed of **individuals** from across Canada, including members of First Nations, who are committed to the development of First Nations **local revenue systems** and who have the experience or capacity to enable the Commission to fulfil its mandate.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 20(5):
-> *Existing Text*:
-> > The Commission shall be composed of men and women from across Canada, including members of First Nations, who are committed to the development of a system of First Nations real property taxation and who have the experience or capacity to enable the Commission to fulfil its mandate.
+**(5)** The Commission shall be composed of individuals from across Canada, including members of First Nations, who are committed to the development of First Nations local revenue systems and who have the experience or capacity to enable the Commission to fulfil its mandate.
 
 ### Section 12
 
 Subsection 23(2) of the English version of the Act is replaced by the following:
 
-**(2)** The Chief Commissioner shall be reimbursed for reasonable travel and other expenses incurred in performing duties while absent from **their** ordinary place of work. Other Commissioners shall be reimbursed for such expenses incurred in performing duties while absent from their ordinary place of residence.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 23(2):
-> *Existing Text*:
-> > The Chief Commissioner shall be reimbursed for reasonable travel and other expenses incurred in performing duties while absent from his or her ordinary place of work. Other Commissioners shall be reimbursed for such expenses incurred in performing duties while absent from their ordinary place of residence.
+**(2)** The Chief Commissioner shall be reimbursed for reasonable travel and other expenses incurred in performing duties while absent from their ordinary place of work. Other Commissioners shall be reimbursed for such expenses incurred in performing duties while absent from their ordinary place of residence.
 
 ### Section 13
 
 Paragraphs 29(a) to (i) of the Act are replaced by the following:
 
-**support and protect** the integrity of First Nations **local revenue** systems and promote common **approaches** to **those systems as part of the Canadian fiscal framework**;
+support and protect the integrity of First Nations local revenue systems and promote common approaches to those systems as part of the Canadian fiscal framework;
 
-**support and promote the reconciliation, in** First Nations **local revenue** systems, of the interests of taxpayers with the responsibilities of councils to govern the affairs of First Nations;
+support and promote the reconciliation, in First Nations local revenue systems, of the interests of taxpayers with the responsibilities of councils to govern the affairs of First Nations;
 
 support and promote positive relationships between First Nations and taxpayers, including through the provision of support services for the resolution of disputes related to First Nations local revenue systems;
 
-assist First Nations in the exercise of their jurisdiction over **local revenues**;
+assist First Nations in the exercise of their jurisdiction over local revenues;
 
 develop and deliver, and provide support for the development and delivery of, training and education services — and conduct research — respecting the implementation and administration of First Nations local revenue systems, respecting First Nations economic growth and respecting the evolution of local revenue systems;
 
-assist First Nations in **growing their economies and increasing their** local revenues;
+assist First Nations in growing their economies and increasing their local revenues;
 
 promote transparency of First Nations local revenue systems and understanding of those systems by members of First Nations, taxpayers and the public;
 
@@ -308,36 +249,21 @@ provide services to any Indigenous group named in the schedule to any regulation
 
 collect data, publish statistical information and conduct research and analysis on matters related to the purposes set out in the other paragraphs of this section.
 
-
-> **Explanatory Note**:
-> Relevant portion of section 29:
-> *Existing Text*:
-> > The purposes of the Commission are to
-> > ensure the integrity of the system of First Nations real property taxation and promote a common approach to First Nations real property taxation nationwide, having regard to variations in provincial real property taxation systems;
-> > ensure that the real property taxation systems of First Nations reconcile the interests of taxpayers with the responsibilities of chiefs and councils to govern the affairs of First Nations;
-> > prevent, or provide for the timely resolution of, disputes in relation to the application of local revenue laws;
-> > assist First Nations in the exercise of their jurisdiction over real property taxation on reserve lands and build capacity in First Nations to administer their taxation systems;
-> > develop training programs for First Nation real property tax administrators;
-> > assist First Nations to achieve sustainable economic development through the generation of stable local revenues;
-> > promote a transparent First Nations real property taxation regime that provides certainty to taxpayers;
-> > promote understanding of the real property taxation systems of First Nations; and
-> > provide advice to the Minister regarding future development of the framework within which local revenue laws are made.
-
 ### Section 14
 
   **(1)** The portion of subsection 32(1) of the Act before paragraph (a) is replaced by the following:
 
 ### Section 32
 
-      **(1)** The Commission shall not approve a law made under paragraph 5(1)(d) **with respect to a loan referred to in paragraph 74(a)** unless
+      **(1)** The Commission shall not approve a law made under paragraph 5(1)(d) with respect to a loan referred to in paragraph 74(a) unless
 
   **(2)** Paragraph 32(1)(b) of the Act is replaced by the following:
 
-    the First Nation has **sufficient** unutilized borrowing capacity **in respect of that loan**.
+    the First Nation has sufficient unutilized borrowing capacity in respect of that loan.
 
   **(3)** The portion of subsection 32(2) of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** On approving a law made by a First Nation under paragraph 5(1)(d) **with respect to a loan referred to in paragraph 74(a)**, the Commission shall provide the First Nations Finance Authority with
+    **(2)** On approving a law made by a First Nation under paragraph 5(1)(d) with respect to a loan referred to in paragraph 74(a), the Commission shall provide the First Nations Finance Authority with
 
   **(4)** Subsection 32(3) of the Act is replaced by the following:
 
@@ -347,19 +273,19 @@ collect data, publish statistical information and conduct research and analysis 
 
   **(1)** Paragraph 33(1)(a) of the Act is replaced by the following:
 
-    is of the opinion that the First Nation has not complied with this Part **or a regulation made under this Part** or, **with respect to local revenues**, Part 1 or a regulation made under **that** Part or that a **local revenue** law has been unfairly or improperly applied,
+    is of the opinion that the First Nation has not complied with this Part or a regulation made under this Part or, with respect to local revenues, Part 1 or a regulation made under that Part or that a local revenue law has been unfairly or improperly applied,
 
   **(2)** Subsection 33(2) of the Act is replaced by the following:
 
-    **(2)** If the Commission is of the opinion that a First Nation has not complied with this Part **or a regulation made under this Part** or, **with respect to local revenues**, Part 1 or a regulation made under **that** Part or that a **local revenue** law has been unfairly or improperly applied, it shall conduct a review of the matter in accordance with the regulations.
+    **(2)** If the Commission is of the opinion that a First Nation has not complied with this Part or a regulation made under this Part or, with respect to local revenues, Part 1 or a regulation made under that Part or that a local revenue law has been unfairly or improperly applied, it shall conduct a review of the matter in accordance with the regulations.
 
   **(3)** The portion of subsection 33(3) of the Act before paragraph (a) is replaced by the following:
 
-    **(3)** If, after conducting a review, the Commission considers that a First Nation has not complied with this Part **or a regulation made under this Part** or, **with respect to local revenues**, Part 1 or a regulation made under **that** Part or that a **local revenue** law has been unfairly or improperly applied, the Commission
+    **(3)** If, after conducting a review, the Commission considers that a First Nation has not complied with this Part or a regulation made under this Part or, with respect to local revenues, Part 1 or a regulation made under that Part or that a local revenue law has been unfairly or improperly applied, the Commission
 
   **(4)** Paragraph 33(3)(b) of the Act is replaced by the following:
 
-    may, if the First Nation does not remedy the situation within the time set out in the order, by notice in writing, require the First Nations Financial Management Board to either — at the Board's discretion — impose a co-management arrangement on the First Nation **under section 52** or assume third-party management **under section 53** to remedy the situation.
+    may, if the First Nation does not remedy the situation within the time set out in the order, by notice in writing, require the First Nations Financial Management Board to either — at the Board's discretion — impose a co-management arrangement on the First Nation under section 52 or assume third-party management under section 53 to remedy the situation.
 
 ### Section 16
 
@@ -380,10 +306,6 @@ The Act is amended by adding the following after section 35:
 
 The Commission may enter into agreements with a First Nation, entity, including an entity referred to in subsection 50.1(1), or individual or any level of government concerning the sharing of information for research, analysis and publication purposes.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 17
 
   **(1)** Section 41 of the Act is amended by adding the following after subsection (1):
@@ -392,7 +314,7 @@ The Commission may enter into agreements with a First Nation, entity, including 
 
   **(2)** Subsection 41(4) of the Act is replaced by the following:
 
-    **(4)** The board of directors shall be composed of **individuals** from across Canada, including members of First Nations, who are committed to the strengthening of **the** financial management **of** First **Nations or of entities referred to in paragraphs 50.1(1)(a) to (c)** and who have the experience or capacity to enable the Board to fulfil its mandate.
+    **(4)** The board of directors shall be composed of individuals from across Canada, including members of First Nations, who are committed to the strengthening of the financial management of First Nations or of entities referred to in paragraphs 50.1(1)(a) to (c) and who have the experience or capacity to enable the Board to fulfil its mandate.
 
 ### Section 18
 
@@ -400,53 +322,41 @@ Section 44 of the Act is replaced by the following:
 
 ### Section 44
 
-**The Chairperson shall hold office on a full-time basis and the other** directors shall hold office on a part-time basis.
-
-
-> **Explanatory Note**:
-> Existing text of section 44:
-> *Existing Text*:
-> > Directors shall hold office on a part-time basis.
+The Chairperson shall hold office on a full-time basis and the other directors shall hold office on a part-time basis.
 
 ### Section 19
 
 Subsection 45(2) of the Act is replaced by the following:
 
-**(2)** **The Chairperson** shall be reimbursed for reasonable travel and other expenses incurred in performing duties while absent from their ordinary place of **work**. **Other** directors **shall be reimbursed for such expenses incurred in performing duties while absent from their ordinary place of residence**.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 45(2):
-> *Existing Text*:
-> > Directors shall be reimbursed for reasonable travel and other expenses incurred in performing duties while absent from their ordinary place of residence.
+**(2)** The Chairperson shall be reimbursed for reasonable travel and other expenses incurred in performing duties while absent from their ordinary place of work. Other directors shall be reimbursed for such expenses incurred in performing duties while absent from their ordinary place of residence.
 
 ### Section 20
 
   **(1)** Paragraphs 49(a) to (c) of the Act are replaced by the following:
 
-    assist First Nations **and entities referred to in subsection 50.1(1)** in developing the capacity to meet their financial management requirements;
+    assist First Nations and entities referred to in subsection 50.1(1) in developing the capacity to meet their financial management requirements;
 
     assist First Nations and entities referred to in subsection 50.1(1) in developing and implementing laws and by-laws respecting financial administration;
 
-    assist First Nations **and entities referred to in paragraphs 50.1(1)(a) to (c)** in their dealings **with different levels of** governments respecting financial management, including matters of accountability and shared fiscal responsibility;
+    assist First Nations and entities referred to in paragraphs 50.1(1)(a) to (c) in their dealings with different levels of governments respecting financial management, including matters of accountability and shared fiscal responsibility;
 
-    assist First Nations **and entities referred to in paragraphs 50.1(1)(a) to (c)** in the development, implementation and improvement of financial relationships with financial institutions, business partners and **different levels of** governments, to enable the economic and social development of First Nations **and of those entities**;
+    assist First Nations and entities referred to in paragraphs 50.1(1)(a) to (c) in the development, implementation and improvement of financial relationships with financial institutions, business partners and different levels of governments, to enable the economic and social development of First Nations and of those entities;
 
   **(2)** Paragraphs 49(g) to (i) of the Act are replaced by the following:
 
-    provide monitoring **and reporting** services respecting financial management **systems** and financial performance;
+    provide monitoring and reporting services respecting financial management systems and financial performance;
 
     provide First Nations and entities referred to in subsection 50.1(1) with monitoring and reporting services respecting the implementation of laws and by-laws respecting financial administration and the compliance of those laws and by-laws with applicable standards;
 
-    provide services **respecting the** co-management and third-party management **of local revenues and other revenues**;
+    provide services respecting the co-management and third-party management of local revenues and other revenues;
 
-    provide advice, policy research and review and evaluative services on the development of fiscal arrangements between **different levels of** governments and First Nations, **as well as on the development of fiscal arrangements between different levels of governments and entities referred to in paragraphs 50.1(1)(a) to (c)**;
+    provide advice, policy research and review and evaluative services on the development of fiscal arrangements between different levels of governments and First Nations, as well as on the development of fiscal arrangements between different levels of governments and entities referred to in paragraphs 50.1(1)(a) to (c);
 
     develop, implement, test and evaluate, as well as conduct research with respect to, proposals and pilot projects related to the purposes set out in the other paragraphs of this section;
 
     assist First Nations, entities referred to in subsection 50.1(1), other levels of government and public and private organizations in the development and implementation of fiscal and economic proposals that contribute to responding to the Truth and Reconciliation Commission of Canada's Calls to Action and to implementing the United Nations Declaration on the Rights of Indigenous Peoples; and
 
-    **collect data, publish statistical information and conduct research and analysis on matters related to the purposes set out in the other paragraphs of this section.**
+    collect data, publish statistical information and conduct research and analysis on matters related to the purposes set out in the other paragraphs of this section.
 
 ### Section 21
 
@@ -474,21 +384,17 @@ The Act is amended by adding the following after section 50:
 
   **(4)** The `Statutory Instruments Act` does not apply in respect of procedures established under subsection (3).
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 22
 
   **(1)** Paragraphs 50.1(1)(c) and (d) of the English version of the Act are replaced by the following:
 
-    an **Indigenous** group that is a party to a treaty, land claims agreement or self-government agreement with Canada or with a province, or an entity established under, or as a result of, such a treaty or agreement;
+    an Indigenous group that is a party to a treaty, land claims agreement or self-government agreement with Canada or with a province, or an entity established under, or as a result of, such a treaty or agreement;
 
-    an entity — owned or controlled by one or more First Nations or entities referred to in paragraph (a), (b) or (c) — whose mandate is primarily to promote the well-being or advancement of **Indigenous** people; or
+    an entity — owned or controlled by one or more First Nations or entities referred to in paragraph (a), (b) or (c) — whose mandate is primarily to promote the well-being or advancement of Indigenous people; or
 
   **(2)** Paragraph 50.1(1)(e) of the Act is replaced by the following:
 
-    a not-for-profit organization established to provide public services to **Indigenous** groups or **Indigenous** persons, including **services with respect to** social welfare, **infrastructure**, housing, recreational **or** cultural **activities**, health or **education**.
+    a not-for-profit organization established to provide public services to Indigenous groups or Indigenous persons, including services with respect to social welfare, infrastructure, housing, recreational or cultural activities, health or education.
 
 ### Section 23
 
@@ -516,25 +422,15 @@ The Act is amended by adding the following after section 50.1:
 
   **(4)** The `Statutory Instruments Act` does not apply in respect of procedures established under subsection (3).
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 24
 
 Section 51 of the Act is replaced by the following:
 
 ### Section 51
 
-  ****(1)**** On receipt of a notice from the First Nations Tax Commission under paragraph 33(3)(b) or from the First Nations Finance Authority under subsection 86(4), the Board shall either require the First Nation to enter into a co-management arrangement in accordance with section 52 or assume third-party management in accordance with section 53, as the Board sees fit.
+  **(1)** On receipt of a notice from the First Nations Tax Commission under paragraph 33(3)(b) or from the First Nations Finance Authority under subsection 86(4), the Board shall either require the First Nation to enter into a co-management arrangement in accordance with section 52 or assume third-party management in accordance with section 53, as the Board sees fit.
 
   **(2)** On receipt of a notice from the First Nations Finance Authority under subsection 86(5), the Board shall either require the First Nation to enter into a co-management arrangement in accordance with section 52.1 or assume third-party management in accordance with section 53.1, as the Board sees fit.
-
-
-> **Explanatory Note**:
-> Existing text of section 51:
-> *Existing Text*:
-> > On receipt of a notice from the First Nations Tax Commission under paragraph 33(3)(b) or from the First Nations Finance Authority under subsection 86(4), the Board shall either require the First Nation to enter into a co-management arrangement in accordance with section 52 or assume third-party management of the First Nation's local revenues in accordance with section 53, as the Board sees fit.
 
 ### Section 25
 
@@ -544,39 +440,39 @@ Section 51 of the Act is replaced by the following:
 
       **(1)** The Board may, on giving notice to the council of a First Nation, require the First Nation to enter into a co-management arrangement in respect of the First Nation's local revenues, including its local revenue account,
 
-        if, in the opinion of the Board, there is a serious risk that the First Nation will default on an obligation to the First Nations Finance Authority **relating to a loan secured by local revenues**; or
+        if, in the opinion of the Board, there is a serious risk that the First Nation will default on an obligation to the First Nations Finance Authority relating to a loan secured by local revenues; or
 
-        **if the Board has received** a **notice** under paragraph 33(3)(b) or subsection 86(4).
+        if the Board has received a notice under paragraph 33(3)(b) or subsection 86(4).
 
   **(2)** The portion of subsection 52(2) of the Act before paragraph (e) is replaced by the following:
 
-    **(2)** Under **the** co-management arrangement, the Board may
+    **(2)** Under the co-management arrangement, the Board may
 
-      recommend amendments to a law of the First Nation made under **any of paragraphs 5(1)(a) to (f) or subsection 9(1)**;
+      recommend amendments to a law of the First Nation made under any of paragraphs 5(1)(a) to (f) or subsection 9(1);
 
-      recommend changes to the First Nation's expenditures or budgets **with respect to its local revenues**;
+      recommend changes to the First Nation's expenditures or budgets with respect to its local revenues;
 
-      recommend improvements to the First Nation's financial management system **with respect to its local revenues**;
+      recommend improvements to the First Nation's financial management system with respect to its local revenues;
 
-      recommend changes to the delivery of programs and services **paid for out of the First Nation's local revenues**;
+      recommend changes to the delivery of programs and services paid for out of the First Nation's local revenues;
 
   **(3)** Paragraph 52(2)(f) of the Act is replaced by the following:
 
-    **with respect to local revenues**, exercise any powers delegated to the Board under a law of the First Nation or under an agreement between the First Nation and the Board or the First Nation and the First Nations Finance Authority.
+    with respect to local revenues, exercise any powers delegated to the Board under a law of the First Nation or under an agreement between the First Nation and the Board or the First Nation and the First Nations Finance Authority.
 
   **(4)** The portion of subsection 52(3) of the Act before paragraph (d) is replaced by the following:
 
-    **(3)** The Board may terminate **the** co-management arrangement on giving notice to **the** council of **the First Nation** that the Board is of the opinion that
+    **(3)** The Board may terminate the co-management arrangement on giving notice to the council of the First Nation that the Board is of the opinion that
 
-      there is no longer a serious risk that the First Nation will default on an obligation to the First Nations Finance Authority **relating to a loan secured by local revenues**;
+      there is no longer a serious risk that the First Nation will default on an obligation to the First Nations Finance Authority relating to a loan secured by local revenues;
 
-      **in the case of a** First Nation **that** was in default of a payment obligation to the First Nations Finance Authority **relating to a loan secured by local revenues**, the First Nation has remedied the default;
+      in the case of a First Nation that was in default of a payment obligation to the First Nations Finance Authority relating to a loan secured by local revenues, the First Nation has remedied the default;
 
-      **the** co-management arrangement is no longer required; or
+      the co-management arrangement is no longer required; or
 
   **(5)** Subsection 52(5) of the Act is replaced by the following:
 
-    **(5)** The Board shall advise the First Nations Finance Authority and the First Nations Tax Commission of the commencement or termination of **the** co-management arrangement.
+    **(5)** The Board shall advise the First Nations Finance Authority and the First Nations Tax Commission of the commencement or termination of the co-management arrangement.
 
 ### Section 26
 
@@ -618,10 +514,6 @@ The Act is amended by adding the following after section 52:
 
   **(5)** The Board shall advise the First Nations Finance Authority and the First Nations Tax Commission of the commencement or termination of the co-management arrangement.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 27
 
   **(1)** Subsection 53(1) of the Act is replaced by the following:
@@ -630,27 +522,27 @@ The Act is amended by adding the following after section 52:
 
       **(1)** The Board may, on giving notice to the council of a First Nation and to the Minister, assume management of the First Nation's local revenues, including its local revenue account,
 
-        if, in the opinion of the Board, **the** co-management arrangement **entered into** under section 52 has not been effective;
+        if, in the opinion of the Board, the co-management arrangement entered into under section 52 has not been effective;
 
-        if, in the opinion of the Board, there is a serious risk that the First Nation will default on an obligation to the First Nations Finance Authority **relating to a loan secured by local revenues**; or
+        if, in the opinion of the Board, there is a serious risk that the First Nation will default on an obligation to the First Nations Finance Authority relating to a loan secured by local revenues; or
 
-        **if the Board has received** a **notice** under paragraph 33(3)(b) or subsection 86(4).
+        if the Board has received a notice under paragraph 33(3)(b) or subsection 86(4).
 
   **(2)** The portion of subsection 53(2) of the English version of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** If the Board assumes third-party management of the local revenues of a First Nation, the Board has the exclusive **authority** to
+    **(2)** If the Board assumes third-party management of the local revenues of a First Nation, the Board has the exclusive authority to
 
   **(3)** Subparagraph 53(2)(b)(i) of the Act is replaced by the following:
 
-    **with respect to local revenues,** exercise any powers and fulfil any obligations of the council under this Act, **including under** the regulations made under this Act, or **under** any laws made under paragraphs 5(1)(a) to (e) **and 9(1)(a)**,
+    with respect to local revenues, exercise any powers and fulfil any obligations of the council under this Act, including under the regulations made under this Act, or under any laws made under paragraphs 5(1)(a) to (e) and 9(1)(a),
 
   **(4)** Subparagraph 53(2)(b)(iv) of the Act is replaced by the following:
 
-    provide for the delivery of programs and services that are paid for out of **the First Nation's** local revenues, manage assets related to those programs and services and enter into or terminate agreements in respect of those programs, services and assets;
+    provide for the delivery of programs and services that are paid for out of the First Nation's local revenues, manage assets related to those programs and services and enter into or terminate agreements in respect of those programs, services and assets;
 
   **(5)** Paragraph 53(2)(d) of the Act is replaced by the following:
 
-    **with respect to local revenues,** exercise any powers or fulfil any obligations delegated to the Board under a law of the First Nation or an agreement between the First Nation and the Board or between the First Nation and the First Nations Finance Authority.
+    with respect to local revenues, exercise any powers or fulfil any obligations delegated to the Board under a law of the First Nation or an agreement between the First Nation and the Board or between the First Nation and the First Nations Finance Authority.
 
   **(6)** Section 53 of the Act is amended by adding the following after subsection (5):
 
@@ -660,13 +552,13 @@ The Act is amended by adding the following after section 52:
 
     **(6)** The Board may terminate third-party management of a First Nation's local revenues, on giving notice to the council of the First Nation, if
 
-      it is of the opinion that there is no longer a serious risk that the First Nation will default on an obligation to the First Nations Finance Authority **relating to a loan secured by local revenues** and the Authority consents to the termination in writing;
+      it is of the opinion that there is no longer a serious risk that the First Nation will default on an obligation to the First Nations Finance Authority relating to a loan secured by local revenues and the Authority consents to the termination in writing;
 
-      **in the case of a** First Nation **that** was in default of an obligation to the First Nations Finance Authority **relating to a loan secured by local revenues**, it is of the opinion that the First Nation has remedied the default and the Authority consents to the termination in writing;
+      in the case of a First Nation that was in default of an obligation to the First Nations Finance Authority relating to a loan secured by local revenues, it is of the opinion that the First Nation has remedied the default and the Authority consents to the termination in writing;
 
       it is of the opinion that the situation for which third-party management of the First Nation's local revenues was required has been remedied; or
 
-      in the case of third-party management that was imposed by the Board following receipt of a notice under subsection 86(4), the First Nations Finance Authority has, in writing, requested the termination and stated its reasons for the request.
+      in the case of third-party management that was **assumed** by the Board following receipt of a notice under subsection 86(4), the First Nations Finance Authority has, in writing, requested the termination and stated its reasons for the request.
 
 ### Section 28
 
@@ -718,15 +610,11 @@ The Act is amended by adding the following after section 53:
 
     it is of the opinion that the situation for which third-party management of the First Nation's other revenues was required has been remedied; or
 
-    in the case of third-party management that was imposed by the Board following receipt of a notice under subsection 86(5), the First Nations Finance Authority has, in writing, requested the termination and stated its reasons for the request.
+    in the case of third-party management that was **assumed** by the Board following receipt of a notice under subsection 86(5), the First Nations Finance Authority has, in writing, requested the termination and stated its reasons for the request.
 
   **(9)** An opinion given by the Board under this section is final and conclusive and is not subject to appeal.
 
   **(10)** The Board shall advise the First Nations Finance Authority and First Nations Tax Commission of the assumption or termination of third-party management of a First Nation's other revenues.
-
-
-> **Explanatory Note**:
-> New.
 
 ### Section 29
 
@@ -734,27 +622,13 @@ Section 54 of the Act is replaced by the following:
 
 ### Section 54
 
-At the request of the Board, a First Nation shall provide to the Board any information about the First Nation's financial management system and financial performance that the Board requires for a decision regarding a co-management arrangement or third-party management of the First Nation's local revenues **or other revenues**.
-
-
-> **Explanatory Note**:
-> Existing text of section 54:
-> *Existing Text*:
-> > At the request of the Board, a First Nation that has made a local revenue law shall provide to the Board any information about the First Nation's financial management system and financial performance that the Board requires for a decision regarding a co-management arrangement or third-party management of the First Nation's local revenues.
+At the request of the Board, a First Nation shall provide to the Board any information about the First Nation's financial management system and financial performance that the Board requires for a decision regarding a co-management arrangement or third-party management of the First Nation's local revenues or other revenues.
 
 ### Section 30
 
 Paragraph 55(2)(c) of the Act is replaced by the following:
 
-the implementation or termination of a co-management arrangement or third-party management of a First Nation's local revenues **or other revenues**.
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 55(2):
-> *Existing Text*:
-> > The Board may establish procedures respecting
-> > 
-> > the implementation or termination of a co-management arrangement or third-party management of a First Nation's local revenues.
+the implementation or termination of a co-management arrangement or third-party management of a First Nation's local revenues or other revenues.
 
 ### Section 31
 
@@ -775,15 +649,11 @@ The Act is amended by adding the following after section 55:
 
 The Board may enter into agreements with a First Nation, entity, including an entity referred to in subsection 50.1(1), or individual or any level of government concerning the sharing of information for research, analysis and publication purposes.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 32
 
   **(1)** Paragraph 56(a) of the Act is replaced by the following:
 
-    respecting the implementation of a co-management arrangement or third-party management of a First Nation's local revenues **or other revenues**, including the obligations of affected First Nations to provide access to financial records; and
+    respecting the implementation of a co-management arrangement or third-party management of a First Nation's local revenues or other revenues, including the obligations of affected First Nations to provide access to financial records; and
 
   **(2)** Paragraph 56(b) of the French version of the Act is replaced by the following:
 
@@ -797,34 +667,21 @@ The portion of section 56.1 of the French version of the Act before paragraph (a
 
 Le gouverneur en conseil peut, afin de donner à une entité visée à l'un des alinéas 50.1(1)a) à e) la possibilité d'obtenir les services du Conseil — autres que des services de cogestion et de gestion —, prendre les règlements qu'il estime nécessaires, et notamment :
 
-
-> **Explanatory Note**:
-> Relevant portion of section 56.1:
-> *Existing Text*:
-> > For the purpose of enabling an entity referred to in any of paragraphs 50.1(1)(a) to (e) to obtain the services of the Board, other than co-management and third-party management services, the Governor in Council may make any regulations that the Governor in Council considers necessary, including regulations
-
 ### Section 34
 
 The definitions **long-term loan** and **short-term loan** in section 57 of the Act are repealed.
-
-
-> **Explanatory Note**:
-> Existing text of the definitions:
-> *Existing Text*:
-> > **long-term loan** means a loan the term of which is one year or longer. (**prêt à long terme**)
-> > **short-term loan** means a loan the term of which is less than one year. (**prêt à court terme**)
 
 ### Section 35
 
   **(1)** Subparagraphs 74(a)(i) to (iii) of the Act are replaced by the following:
 
-    **loans that have terms of one year or longer to finance or refinance** capital assets for the provision of local services on reserve lands, or
+    loans that have terms of one year or longer to finance or refinance capital assets for the provision of local services on reserve lands, or
 
-    **loans that have terms of less than one year** to meet cash-flow requirements for operating or capital purposes or to refinance a short-term debt incurred for capital purposes;
+    loans that have terms of less than one year to meet cash-flow requirements for operating or capital purposes or to refinance a short-term debt incurred for capital purposes;
 
   **(2)** Paragraph 74(b) of the Act is replaced by the following:
 
-    secure for its borrowing members, through the use of other revenues prescribed by regulation, **loans** for any purpose prescribed by regulation;
+    secure for its borrowing members, through the use of other revenues prescribed by regulation, loans for any purpose prescribed by regulation;
 
   **(3)** Paragraph 74(b) of the Act is replaced by the following:
 
@@ -850,14 +707,7 @@ Section 77 of the Act is replaced by the following:
 
 ### Section 77
 
-A **borrowing member** that has obtained **a loan from the Authority** may cease to be a borrowing member only with the consent of all other borrowing members.
-
-
-> **Explanatory Note**:
-> Existing text of section 77:
-> *Existing Text*:
-> > A First Nation that has obtained financing secured by property tax revenues may cease to be a borrowing member only with the consent of all other borrowing members that have obtained financing secured by such revenues.
-> > A First Nation that has obtained financing secured by other revenues may cease to be a borrowing member only with the consent of all other borrowing members that have obtained financing secured by such other revenues.
+A borrowing member that has obtained a loan from the Authority may cease to be a borrowing member only with the consent of all other borrowing members.
 
 ### Section 37
 
@@ -865,13 +715,7 @@ Subsection 78(1) of the Act is replaced by the following:
 
 ### Section 78
 
-  **(1)** If a **borrowing member** is insolvent, the Authority has priority over all other creditors of the **borrowing member** for **all** moneys that are authorized **or obligated** to be paid to the Authority under a law made **by the borrowing member**, **under this** Act, **including under the regulations**, or **under** an agreement **relating to borrowing from the Authority**, but the priority is only in respect of any debt that arises on or after the **day** on which the **borrowing member** receives the initial disbursement of the first loan that it obtained from the Authority.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 78(1):
-> *Existing Text*:
-> > If a First Nation is insolvent, the Authority has priority over all other creditors of the First Nation for any moneys that are authorized to be paid to the Authority under a law made under paragraph 5(1)(b) or (d), under an agreement governing a secured revenues trust account or under the Act, but the priority is only in respect of any debt that arises on or after the date on which the First Nation receives the initial disbursement of the first loan that it obtained from the Authority.
+  **(1)** If a borrowing member is insolvent, the Authority has priority over all other creditors of the borrowing member for all moneys that are authorized or obligated to be paid to the Authority under a law made by the borrowing member, under this Act, including under the regulations, or under an agreement relating to borrowing from the Authority, but the priority is only in respect of any debt that arises on or after the day on which the borrowing member receives the initial disbursement of the first loan that it obtained from the Authority.
 
 ### Section 38
 
@@ -879,7 +723,7 @@ Subsection 78(1) of the Act is replaced by the following:
 
 ### Section 79
 
-    The Authority shall not make a loan to a borrowing member unless the First Nations Tax Commission has approved a law made by the borrowing member under paragraph 5(1)(d) **in respect of that loan**.
+    The Authority shall not make a loan to a borrowing member unless the First Nations Tax Commission has approved a law made by the borrowing member under paragraph 5(1)(d) in respect of that loan.
 
   **(2)** Section 79 of the Act is replaced by the following:
 
@@ -913,18 +757,11 @@ Sections 80 and 81 of the Act are replaced by the following:
 
 ### Section 80
 
-A borrowing member that has obtained a loan **from the Authority that is** secured by property tax revenues **and has a term of one year or longer** shall not subsequently obtain **such** a loan from any other person **as long as the loan from the Authority remains unpaid**.
+A borrowing member that has obtained a loan from the Authority that is secured by property tax revenues and has a term of one year or longer shall not subsequently obtain such a loan from any other person as long as the loan from the Authority remains unpaid.
 
 ### Section 81
 
-The Authority shall not make a loan **that has a term of less than one year** to a borrowing member for a purpose described in subparagraph 74(a)**(ii)** unless the loan is made in anticipation of local revenues set out in a law made by the borrowing member under paragraph 5(1)(b).
-
-
-> **Explanatory Note**:
-> Existing text of sections 80 and 81:
-> *Existing Text*:
-> > A borrowing member that has obtained a long-term loan secured by property tax revenues from the Authority shall not subsequently obtain a long-term loan secured by property tax revenues from any other person.
-> > The Authority shall not make a short-term loan to a borrowing member for a purpose described in subparagraph 74(a)(iii) unless the loan is made in anticipation of local revenues of the borrowing member set out in a law made under paragraph 5(1)(b).
+The Authority shall not make a loan that has a term of less than one year to a borrowing member for a purpose described in subparagraph 74(a)(ii) unless the loan is made in anticipation of local revenues set out in a law made by the borrowing member under paragraph 5(1)(b).
 
 ### Section 40
 
@@ -960,23 +797,23 @@ The Authority shall not make a loan **that has a term of less than one year** to
 
   **(1)** Subsection 86(3) of the Act is replaced by the following:
 
-    **(3)** On receipt of a notice referred to in paragraph (1)(b) in respect of a failure related to an obligation other than payment, the First Nations Financial Management Board shall advise the Authority in writing of its opinion on the reasons for the failure and recommend any intervention under section 52 or 53, **in the case of an obligation relating to a loan secured by local revenues, or under section 52.1 or 53.1, in the case of an obligation relating to a loan secured by other revenues,** that it considers appropriate. **The Board must provide a copy of the report including its opinion and any recommendations to the First Nations Tax Commission.**
+    **(3)** On receipt of a notice referred to in paragraph (1)(b) in respect of a failure related to an obligation other than payment, the First Nations Financial Management Board shall advise the Authority in writing of its opinion on the reasons for the failure and recommend any intervention under section 52 or 53, in the case of an obligation relating to a loan secured by local revenues, or under section 52.1 or 53.1, in the case of an obligation relating to a loan secured by other revenues, that it considers appropriate. The Board must provide a copy of the report including its opinion and any recommendations to the First Nations Tax Commission.
 
-  **(2)** The portion of subsection 86(4) of the Act before paragraph (b) is replaced by the following:
+  **(2)** Subsection 86(4) of the Act is replaced by the following:
 
-    **(4)** The Authority may, by notice in writing, require the First Nations Financial Management Board to either — at the Board's discretion — impose a co-management arrangement on a borrowing member **in respect of its local revenues** or assume third-party management of **its** local revenues
+    **(4)** The Authority may, by notice in writing, require the First Nations Financial Management Board to either — at the Board's discretion — impose a co-management arrangement on a borrowing member in respect of its local revenues or assume third-party management of its local revenues
 
-      **if**, **with respect to a loan secured by local revenues**, the borrowing member fails to make a payment to the Authority under a borrowing agreement with the Authority, or to pay a charge imposed by the Authority under this Part; or
+      if, with respect to a loan secured by local revenues, the borrowing member fails to make a payment to the Authority under a borrowing agreement with the Authority, or to pay a charge imposed by the Authority under this Part; or
 
-      **if the Authority receives** a report of the Board under subsection (3) in respect of the borrowing member.
+      if, **with respect to a loan secured by local revenues**, the Authority receives a report of the Board under subsection (3) in respect of the borrowing member.
 
   **(3)** Section 86 of the Act is amended by adding the following after subsection (4):
 
-    ****(5)**** **The Authority may, by notice in writing, require the First Nations Financial Management Board to either — at the Board's discretion — impose a co-management arrangement on a borrowing member in respect of its other revenues or assume third-party management of its other revenues**
+    **(5)** The Authority may, by notice in writing, require the First Nations Financial Management Board to either — at the Board's discretion — impose a co-management arrangement on a borrowing member in respect of its other revenues or assume third-party management of its other revenues
 
       if, with respect to a loan secured by other revenues, the borrowing member fails to make a payment to the Authority under a borrowing agreement with the Authority, or to pay a charge imposed by the Authority under this Part; or
 
-      if the Authority receives a report of the Board under subsection (3) in respect of the borrowing member.
+      if, **with respect to a loan secured by other revenues**, the Authority receives a report of the Board under subsection (3) in respect of the borrowing member.
 
     **(6)** The Authority must provide a copy of the notices referred to in subsections (4) and (5) to the First Nations Tax Commission.
 
@@ -984,15 +821,7 @@ The Authority shall not make a loan **that has a term of less than one year** to
 
 Paragraphs 89(a) and (b) of the Act are replaced by the following:
 
-prescribing anything that is to be prescribed under subsection 82(1) and paragraphs **84(5)(a) and (b)**, 85(3)(c) and (4)(b) and 87(2)(f); and
-
-
-> **Explanatory Note**:
-> Relevant portion of section 89:
-> *Existing Text*:
-> > The Governor in Council may, on the recommendation of the Minister after consultation by the Minister with the Authority, make regulations
-> > prescribing anything that is to be prescribed under subsection 82(1) and paragraphs 85(3)(c) and (4)(b) and 87(2)(f);
-> > fixing a percentage in respect of an amount to be withheld from a loan under subsection 84(2), which may be a higher or lower percentage than the percentage set out in that subsection and may vary according to whether the loan is secured by property tax revenues or by other revenues; and
+prescribing anything that is to be prescribed under subsection 82(1) and paragraphs 84(5)(a) and (b), 85(3)(c) and (4)(b) and 87(2)(f); and
 
 ### Section 43
 
@@ -1120,7 +949,7 @@ The board of directors may remove a director appointed under subsection 105(3) f
 
 ### Section 110
 
-**The Chairperson shall hold office on a full-time basis and the other** directors shall hold office on a part-time basis.
+The Chairperson shall hold office on a full-time basis and the other directors shall hold office on a part-time basis.
 
 ### Section 111
 
@@ -1289,15 +1118,11 @@ The Institute may enter into agreements with a First Nation, entity, including a
 
 The Governor in Council may, on the recommendation of the Minister made having regard to any representations by the Institute, make regulations prescribing fees that the Institute may charge for services and the manner in which the fees may be recovered.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 44
 
   **(1)** The definition **institution** in section 114 of the Act is replaced by the following:
 
-    **institution** means the First Nations Tax Commission, the First Nations Financial Management Board or **the First Nations Infrastructure Institute**. (**institution**)
+    **institution** means the First Nations Tax Commission, the First Nations Financial Management Board or the First Nations Infrastructure Institute. (**institution**)
 
   **(2)** The definition **board of directors** in section 114 of the Act is amended by striking out "and" at the end of paragraph (a), by adding "and" at the end of paragraph (b) and by adding the following after paragraph (b):
 
@@ -1309,23 +1134,23 @@ The Governor in Council may, on the recommendation of the Minister made having r
 
 ### Section 118
 
-      **(1)** Each institution shall, in accordance with any directions given by the Minister, establish a **five-year** corporate plan and **a** budget for each financial year and submit them to the Minister for approval.
+      **(1)** Each institution shall, in accordance with any directions given by the Minister, establish a five-year corporate plan and a budget for each financial year and submit them to the Minister for approval.
 
   **(2)** Paragraphs 118(2)(b) and (c) of the Act are replaced by the following:
 
-    the institution's objectives for the **five-year period to which the plan relates** and the strategy it intends to employ to achieve those objectives; and
+    the institution's objectives for the five-year period to which the plan relates and the strategy it intends to employ to achieve those objectives; and
 
-    the institution's expected performance for **that five-year period** as compared to its objectives set out in the last corporate plan.
+    the institution's expected performance for that five-year period as compared to its objectives set out in the last corporate plan.
 
 ### Section 46
 
   **(1)** Subparagraph 120(2)(a)(iii) of the English version of the Act is replaced by the following:
 
-    the transactions of the institution that have come to the auditor's notice in the course of **their** examination for the report were carried out in accordance with this Act; and
+    the transactions of the institution that have come to the auditor's notice in the course of their examination for the report were carried out in accordance with this Act; and
 
   **(2)** Paragraph 120(2)(b) of the English version of the Act is replaced by the following:
 
-    call attention to any other matter falling within the scope of the auditor's examination for the report that, in **their** opinion, should be brought to the attention of the institution or the Minister.
+    call attention to any other matter falling within the scope of the auditor's examination for the report that, in their opinion, should be brought to the attention of the institution or the Minister.
 
 ### Section 47
 
@@ -1333,13 +1158,7 @@ Subsection 122(1) of the English version of the Act is replaced by the following
 
 ### Section 122
 
-  **(1)** An examiner shall, on completion of a special examination in respect of an institution, submit a report on **their** findings, and a summary of that report, to the Minister and to the board of directors of the institution.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 122(1):
-> *Existing Text*:
-> > An examiner shall, on completion of a special examination in respect of an institution, submit a report on his or her findings, and a summary of that report, to the Minister and to the board of directors of the institution.
+  **(1)** An examiner shall, on completion of a special examination in respect of an institution, submit a report on their findings, and a summary of that report, to the Minister and to the board of directors of the institution.
 
 ### Section 48
 
@@ -1349,17 +1168,17 @@ Subsection 122(1) of the English version of the Act is replaced by the following
 
     **(2)** An institution shall, at least 30 days before the annual meeting, publish a notice on an Internet website to be maintained by the institution
 
-      setting out the time and location, **if any**, of the meeting;
+      setting out the time and location, if any, of the meeting;
 
       indicating the means of participating in the meeting, such as by providing instructions on how to participate electronically; and
 
-      specifying that the institution's annual report may be accessed on **that** website.
+      specifying that the institution's annual report may be accessed on that website.
 
   **(2)** Paragraphs 131(3)(a) and (b) of the Act are replaced by the following:
 
-    the institution's most recent annual report **is made** available **to** those **participating in** the meeting; and
+    the institution's most recent annual report is made available to those participating in the meeting; and
 
-    the chief executive officer and the commissioners or directors of the institution **who are attending the meeting** are available to those **participating in** the meeting to answer any questions about the institution's operations.
+    the chief executive officer and the commissioners or directors of the institution who are attending the meeting are available to those participating in the meeting to answer any questions about the institution's operations.
 
 ### Section 49
 
@@ -1367,32 +1186,21 @@ Sections 132 to 134 of the Act are replaced by the following:
 
 ### Section 132
 
-  **(1)** No person who is appointed to, or employed by, **the First Nations Tax Commission**, **First Nations Financial Management Board**, **First Nations Finance Authority** or **First Nations Infrastructure Institute** shall be appointed to, or employed by, any other **one of those bodies**.
+  **(1)** No person who is appointed to, or employed by, the First Nations Tax Commission, First Nations Financial Management Board, First Nations Finance Authority or First Nations Infrastructure Institute shall be appointed to, or employed by, any other one of those bodies.
 
-  **(2)** No person referred to in subsection (1) shall accept or hold any office or employment that is inconsistent with **their** duties or take part in any matter involving **a body referred to in subsection (1)** in which they have an interest.
+  **(2)** No person referred to in subsection (1) shall accept or hold any office or employment that is inconsistent with their duties or take part in any matter involving a body referred to in subsection (1) in which they have an interest.
 
-  **(3)** All persons appointed to **the First Nations Tax Commission**, **First Nations Financial Management Board** or **First Nations Infrastructure Institute** shall comply with the `Conflict of Interest Act` as though they were public office holders as defined in that Act.
+  **(3)** All persons appointed to the First Nations Tax Commission, First Nations Financial Management Board or First Nations Infrastructure Institute shall comply with the `Conflict of Interest Act` as though they were public office holders as defined in that Act.
 
 ### Section 133
 
-  **(1)** No person has a right to receive any compensation, damages, indemnity or other relief from **His** Majesty in right of Canada in respect of any claim against the First Nations Tax Commission, First Nations Financial Management Board, First Nations Finance Authority or **First Nations Infrastructure Institute** arising from its exercise of, or its failure to exercise, any of **its** powers or functions, including any claim against the First Nations Tax Commission as an agent of **His** Majesty in right of Canada.
+  **(1)** No person has a right to receive any compensation, damages, indemnity or other relief from His Majesty in right of Canada in respect of any claim against the First Nations Tax Commission, First Nations Financial Management Board, First Nations Finance Authority or First Nations Infrastructure Institute arising from its exercise of, or its failure to exercise, any of its powers or functions, including any claim against the First Nations Tax Commission as an agent of His Majesty in right of Canada.
 
-  **(2)** The First Nations Tax Commission, First Nations Financial Management Board, First Nations Finance Authority and **First Nations Infrastructure Institute** shall maintain in good standing at all times the insurance coverage required by any regulations made under paragraph 140(b).
+  **(2)** The First Nations Tax Commission, First Nations Financial Management Board, First Nations Finance Authority and First Nations Infrastructure Institute shall maintain in good standing at all times the insurance coverage required by any regulations made under paragraph 140(b).
 
 ### Section 134
 
-No payment to the First Nations Tax Commission, First Nations Financial Management Board, First Nations Finance Authority or **First Nations Infrastructure Institute** may be made under an appropriation by Parliament authorized under an Act of Parliament to enable the Commission, Board, Authority or **Institute** to satisfy any claim referred to in subsection 133(1).
-
-
-> **Explanatory Note**:
-> Existing text of sections 132 to 134:
-> *Existing Text*:
-> > No person who is appointed to, or is employed by, a commission, board or authority established under this Act shall be appointed to, or be employed by, any other commission, board or authority established under this Act.
-> > No person referred to in subsection (1) shall accept or hold any office or employment that is inconsistent with that person's duties or take part in any matter involving the commission, board or authority in which that person has an interest.
-> > All persons appointed to a commission or board established under this Act shall comply with the `Conflict of Interest Act` as though they were public office holders as defined in that Act.
-> > No person has a right to receive any compensation, damages, indemnity or other relief from Her Majesty in right of Canada in respect of any claim against the First Nations Tax Commission, First Nations Financial Management Board or First Nations Finance Authority arising from its exercise of, or its failure to exercise, any of the powers or functions of that Commission, Board or Authority, as the case may be, including any claim against the First Nations Tax Commission as an agent of Her Majesty in right of Canada.
-> > The First Nations Tax Commission, First Nations Financial Management Board and First Nations Finance Authority shall maintain in good standing at all times the insurance coverage required by any regulations made under paragraph 140(b).
-> > No payment to the First Nations Tax Commission, First Nations Financial Management Board or First Nations Finance Authority may be made under an appropriation by Parliament authorized under an Act of Parliament to enable the Commission, Board or Authority to satisfy any claim referred to in subsection 133(1).
+No payment to the First Nations Tax Commission, First Nations Financial Management Board, First Nations Finance Authority or First Nations Infrastructure Institute may be made under an appropriation by Parliament authorized under an Act of Parliament to enable the Commission, Board, Authority or Institute to satisfy any claim referred to in subsection 133(1).
 
 ### Section 50
 
@@ -1400,19 +1208,13 @@ Section 136 of the Act is replaced by the following:
 
 ### Section 136
 
-No civil proceedings lie against **any of the following persons** for anything done or omitted to be done in the exercise or performance, or purported exercise or performance, in good faith of any power or duty under this Act or regulations made under this Act:
+No civil proceedings lie against any of the following persons for anything done or omitted to be done in the exercise or performance, or purported exercise or performance, in good faith of any power or duty under this Act or regulations made under this Act:
 
-a commissioner or employee of the First Nations Tax Commission **or a person acting on its behalf**;
+a commissioner or employee of the First Nations Tax Commission or a person acting on its behalf;
 
-a director or employee of the First Nations Financial Management Board or a person acting on **its** behalf; and
+a director or employee of the First Nations Financial Management Board or a person acting on its behalf; and
 
 a director or employee of the First Nations Infrastructure Institute or a person acting on its behalf.
-
-
-> **Explanatory Note**:
-> Existing text of section 136:
-> *Existing Text*:
-> > No civil proceedings lie against a commissioner or employee of the First Nations Tax Commission, a director or employee of the First Nations Financial Management Board or a person acting on behalf of the Commission or Board for anything done, or omitted to be done, in the exercise or purported exercise in good faith of any power, or in the performance or purported performance in good faith of any duty, of that person in accordance with this Act or regulations made under this Act.
 
 ### Section 51
 
@@ -1420,13 +1222,7 @@ Section 136.1 of the Act is replaced by the following:
 
 ### Section 136.1
 
-Despite anything in federal or provincial law, if, **under this Act**, the First Nations Financial Management Board has required a First Nation to enter into a co-management arrangement or has assumed **third-party** management of a First Nation's local revenues **or other revenues**, neither the Board nor any director or employee of the Board or person acting on behalf of the Board is by reason of that fact liable for any liability of the First Nation.
-
-
-> **Explanatory Note**:
-> Existing text of section 136.1:
-> *Existing Text*:
-> > Despite anything in federal or provincial law, if the First Nations Financial Management Board has required a First Nation to enter into a co-management arrangement in respect of the First Nation's local revenues in accordance with section 52 or has assumed management of a First Nation's local revenues in accordance with section 53, neither the Board nor any director or employee of the Board or person acting on behalf of the Board is by reason of that fact liable for any liability of the First Nation.
+Despite anything in federal or provincial law, if, under this Act, the First Nations Financial Management Board has required a First Nation to enter into a co-management arrangement or has assumed third-party management of a First Nation's local revenues or other revenues, neither the Board nor any director or employee of the Board or person acting on behalf of the Board is by reason of that fact liable for any liability of the First Nation.
 
 ### Section 52
 
@@ -1434,7 +1230,7 @@ Despite anything in federal or provincial law, if, **under this Act**, the First
 
 ### Section 138
 
-      **(1)** In the event of a conflict between a local revenue law **or a law made under subsection 97(1)** and an Act of Parliament or any regulations made under an Act of Parliament or a code made by a First Nation under another Act of Parliament, the Act, regulations or code prevails to the extent of the conflict.
+      **(1)** In the event of a conflict between a local revenue law or a law made under subsection 97(1) and an Act of Parliament or any regulations made under an Act of Parliament or a code made by a First Nation under another Act of Parliament, the Act, regulations or code prevails to the extent of the conflict.
 
   **(2)** Subsection 138(1) of the Act is replaced by the following:
 
@@ -1446,29 +1242,15 @@ Despite anything in federal or provincial law, if, **under this Act**, the First
 
 Subsection 139(2) of the Act is replaced by the following:
 
-**(2)** **If** there is a significant demand for services in a particular official language, the First Nations Financial Management Board, First Nations Finance Authority and **First Nations Infrastructure Institute** shall offer services in that language.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 139(2):
-> *Existing Text*:
-> > Where there is a significant demand for services in a particular official language, the First Nations Financial Management Board and First Nations Finance Authority shall offer services in that language.
+**(2)** If there is a demand for services in a particular official language, the First Nations Financial Management Board, First Nations Finance Authority and First Nations Infrastructure Institute shall offer services in that language.
 
 ### Section 54
 
 Paragraphs 140(a) and (b) of the Act are replaced by the following:
 
-prescribing anything that is to be prescribed under subsection 20(3), 41(2) or **105(3)** or section 116; and
+prescribing anything that is to be prescribed under subsection 20(3), 41(2) or 105(3) or section 116; and
 
-respecting the insurance coverage required to be maintained by the First Nations Tax Commission, First Nations Financial Management Board, First Nations Finance Authority and **First Nations Infrastructure Institute** in respect of liabilities referred to in subsection 133(1), including the circumstances in which the Commission, Board, Authority or **Institute** would be exempt from that requirement.
-
-
-> **Explanatory Note**:
-> Relevant portion of section 140:
-> *Existing Text*:
-> > The Governor in Council may make regulations
-> > prescribing anything that is to be prescribed under subsection 20(3) or 41(2) or section 116; and
-> > respecting the insurance coverage required to be maintained by the First Nations Tax Commission, First Nations Financial Management Board and First Nations Finance Authority in respect of liabilities referred to in subsection 133(1), including the circumstances in which the Commission, Board or Authority would be exempt from that requirement.
+respecting the insurance coverage required to be maintained by the First Nations Tax Commission, First Nations Financial Management Board, First Nations Finance Authority and First Nations Infrastructure Institute in respect of liabilities referred to in subsection 133(1), including the circumstances in which the Commission, Board, Authority or Institute would be exempt from that requirement.
 
 ### Section 55
 
@@ -1476,17 +1258,17 @@ respecting the insurance coverage required to be maintained by the First Nations
 
 ### Section 141
 
-      **(1)** For the purpose of enabling an **Indigenous** group that is a party to a treaty, land claims agreement or self-government agreement with Canada to benefit from the provisions of this Act or obtain the services of any body established under this Act, the Governor in Council may make any regulations that the Governor in Council considers necessary, including regulations
+      **(1)** For the purpose of enabling an Indigenous group that is a party to a treaty, land claims agreement or self-government agreement with Canada to benefit from the provisions of this Act or obtain the services of any body established under this Act, the Governor in Council may make any regulations that the Governor in Council considers necessary, including regulations
 
   **(2)** The portion of subsection 141(2) of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** The Minister may, by order, at the request of the governing body of an **Indigenous** group referred to in subsection (1), amend **any** schedule included in regulations made under **that** subsection and listing the **Indigenous** groups that are subject to those regulations in order to
+    **(2)** The Minister may, by order, at the request of the governing body of an Indigenous group referred to in subsection (1), amend any schedule included in regulations made under that subsection and listing the Indigenous groups that are subject to those regulations in order to
 
   **(3)** Paragraphs 141(2)(a) and (b) of the English version of the Act are replaced by the following:
 
-    add or change the name of the **Indigenous** group; or
+    add or change the name of the Indigenous group; or
 
-    delete the name of the **Indigenous** group, as long as there are no amounts owing by the **Indigenous** group to the First Nations Finance Authority that remain unpaid.
+    delete the name of the Indigenous group, as long as there are no amounts owing by the Indigenous group to the First Nations Finance Authority that remain unpaid.
 
 ### Section 56
 
@@ -1498,21 +1280,9 @@ Section 141.1 of the Act is renumbered as subsection 141.1(1) and is amended by 
 
   delete the name of the organization, as long as there are no amounts owing by the organization to the First Nations Finance Authority that remain unpaid.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 57
 
 Section 142 of the Act is repealed.
-
-
-> **Explanatory Note**:
-> Existing text of section 142:
-> *Existing Text*:
-> > The Governor in Council may make regulations
-> > prescribing anything that is to be prescribed for the purposes of paragraph 74(b); and
-> > adapting or restricting any provision of this Act or of any regulation made under this Act for the purposes of paragraph 74(b).
 
 
 ## Consequential Amendments
