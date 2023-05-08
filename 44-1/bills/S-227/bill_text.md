@@ -1,7 +1,5 @@
 # Bill S-227: An Act to establish Food Day in Canada
 
-**Sponsor**: Senator Black
-
 ## Summary
 
 This enactment designates the Saturday before the first Monday in August in each and every year as "Food Day in Canada".
