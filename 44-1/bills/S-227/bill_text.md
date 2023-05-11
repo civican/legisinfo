@@ -12,7 +12,7 @@ Whereas supporting local farmers contributes to a sustainable Canadian food syst
 
 And whereas the people of Canada will benefit from a food day in Canada to celebrate local food as one of the most elemental characteristics of all of the cultures that populate this nation;
 
-Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+Now, therefore, His Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
 
 ## Short Title
