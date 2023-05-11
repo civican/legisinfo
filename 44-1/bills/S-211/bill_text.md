@@ -32,9 +32,9 @@ Definitions
 Purpose
 
 
-## Her Majesty
+## His Majesty
 
-Binding on Her Majesty
+Binding on His Majesty
 
 
 ## Reporting Obligation — Government Institution
@@ -140,7 +140,7 @@ Whereas Canada, as a party to the eight fundamental conventions of the Internati
 
 And whereas Parliament considers that it is essential to contribute to fighting modern slavery, including by imposing reporting obligations on government institutions involved in producing, purchasing or distributing goods in Canada or elsewhere and on entities involved in manufacturing, producing, growing, extracting or processing goods in Canada or elsewhere or in importing goods manufactured, produced, grown, extracted or processed outside Canada;
 
-Now, therefore, Her Majesty, by and with the advice
+Now, therefore, His Majesty, by and with the advice
 and consent of the Senate and House of Commons of Canada, enacts as follows:
 
 
@@ -214,11 +214,11 @@ government institutions producing, purchasing or distributing goods in Canada or
 entities producing goods in Canada or elsewhere or in importing goods produced outside Canada.
 
 
-## Her Majesty
+## His Majesty
 
 ### Section 4
 
-This Act is binding on Her Majesty in right of Canada
+This Act is binding on His Majesty in right of Canada
 or a province.
 
 
