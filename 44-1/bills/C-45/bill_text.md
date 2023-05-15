@@ -1,7 +1,5 @@
 # Bill C-45: An Act to amend the First Nations Fiscal Management Act, to make consequential amendments to other Acts, and to make a clarification relating to another Act
 
-**Sponsor**: MINISTER OF CROWN-INDIGENOUS RELATIONS
-
 Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act to amend the First Nations Fiscal Management Act, to make consequential amendments to other Acts, and to make a clarification relating to another Act*".
 
 ## Summary
@@ -558,7 +556,7 @@ The Act is amended by adding the following after section 52:
 
       it is of the opinion that the situation for which third-party management of the First Nation's local revenues was required has been remedied; or
 
-      in the case of third-party management that was **assumed** by the Board following receipt of a notice under subsection 86(4), the First Nations Finance Authority has, in writing, requested the termination and stated its reasons for the request.
+      in the case of third-party management that was assumed by the Board following receipt of a notice under subsection 86(4), the First Nations Finance Authority has, in writing, requested the termination and stated its reasons for the request.
 
 ### Section 28
 
@@ -610,7 +608,7 @@ The Act is amended by adding the following after section 53:
 
     it is of the opinion that the situation for which third-party management of the First Nation's other revenues was required has been remedied; or
 
-    in the case of third-party management that was **assumed** by the Board following receipt of a notice under subsection 86(5), the First Nations Finance Authority has, in writing, requested the termination and stated its reasons for the request.
+    in the case of third-party management that was assumed by the Board following receipt of a notice under subsection 86(5), the First Nations Finance Authority has, in writing, requested the termination and stated its reasons for the request.
 
   **(9)** An opinion given by the Board under this section is final and conclusive and is not subject to appeal.
 
@@ -805,7 +803,7 @@ The Authority shall not make a loan that has a term of less than one year to a b
 
       if, with respect to a loan secured by local revenues, the borrowing member fails to make a payment to the Authority under a borrowing agreement with the Authority, or to pay a charge imposed by the Authority under this Part; or
 
-      if, **with respect to a loan secured by local revenues**, the Authority receives a report of the Board under subsection (3) in respect of the borrowing member.
+      if, with respect to a loan secured by local revenues, the Authority receives a report of the Board under subsection (3) in respect of the borrowing member.
 
   **(3)** Section 86 of the Act is amended by adding the following after subsection (4):
 
@@ -813,7 +811,7 @@ The Authority shall not make a loan that has a term of less than one year to a b
 
       if, with respect to a loan secured by other revenues, the borrowing member fails to make a payment to the Authority under a borrowing agreement with the Authority, or to pay a charge imposed by the Authority under this Part; or
 
-      if, **with respect to a loan secured by other revenues**, the Authority receives a report of the Board under subsection (3) in respect of the borrowing member.
+      if, with respect to a loan secured by other revenues, the Authority receives a report of the Board under subsection (3) in respect of the borrowing member.
 
     **(6)** The Authority must provide a copy of the notices referred to in subsections (4) and (5) to the First Nations Tax Commission.
 
@@ -1126,7 +1124,7 @@ The Governor in Council may, on the recommendation of the Minister made having r
 
   **(2)** The definition **board of directors** in section 114 of the Act is amended by striking out "and" at the end of paragraph (a), by adding "and" at the end of paragraph (b) and by adding the following after paragraph (b):
 
-    in respect of the First Nations Infrastructure Institute, the directors referred to in subsection 102(1). (**conseil d'administration**)
+    in respect of the First Nations Infrastructure Institute, the directors referred to in subsection 102(1). (**conseil d'administration**)
 
 ### Section 45
 
