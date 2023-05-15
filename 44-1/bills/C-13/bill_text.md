@@ -1,7 +1,5 @@
 # Bill C-13: An Act to amend the Official Languages Act, to enact the Use of French in Federally Regulated Private Businesses Act and to make related amendments to other Acts
 
-**Sponsor**: MINISTER OF OFFICIAL LANGUAGES AND MINISTER RESPONSIBLE FOR THE ATLANTIC CANADA OPPORTUNITIES AGENCY
-
 Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act to amend the Official Languages Act, to enact the Use of French in Federally Regulated Private Businesses Act and to make related amendments to other Acts*".
 
 ## Summary
@@ -258,9 +256,9 @@ This Act may be cited as `An Act for the Substantive Equality of Canada's Offici
 
     AND WHEREAS the Government of Canada recognizes that the Canadian Broadcasting Corporation contributes through its activities to enhancing the vitality of the English and French linguistic minority communities and to the protection and promotion of both official languages;
 
-    AND WHEREAS the Government of Canada recognizes the importance of remedying the decline in the demographic weight of French linguistic minority communities, including by restoring and growth of their demographic weight;
+    AND WHEREAS the Government of Canada recognizes the importance of remedying the decline in the demographic weight of French linguistic minority communities, including by restoring and increasing their demographic weight;
 
-    AND WHEREAS the Government of Canada recognizes the importance of francophone immigration **in** enhancing the vitality of French linguistic minority communities, **including by restoring and growth of their** demographic weight;
+    AND WHEREAS the Government of Canada recognizes the importance of francophone immigration in enhancing the vitality of French linguistic minority communities, including by restoring and increasing their demographic weight;
 
     AND WHEREAS the Government of Canada recognizes the importance of the French language to trade and economic activity and the contribution of francophone immigration to the economy;
 
@@ -288,11 +286,11 @@ This Act may be cited as `An Act for the Substantive Equality of Canada's Offici
 
 Paragraph 2(b) of the Act is replaced by the following:
 
-support the development of English and French linguistic minority communities in order to protect them **while taking into account the fact that they have different needs**;
+support the development of English and French linguistic minority communities in order to protect them while taking into account the fact that they have different needs;
 
-advance the equality of status and use of the English and French languages within Canadian society, taking into account that French is in a minority situation in Canada and North America due to the predominant use of English **and that the goal of the `Charter of the French Language` is to protect, strengthen and promote that language**;
+advance the equality of status and use of the English and French languages within Canadian society, taking into account the fact that French is in a minority situation in Canada and North America due to the predominant use of English and that there is a diversity of provincial and territorial language regimes that contribute to the advancement, including Quebec's `Charter of the French language`, which provides that French is the official language of Quebec;
 
-ensure the existence of a majority-French society in a Quebec where the future of French is assured; and
+advance the existence of a majority-French society in a Quebec where the future of French is assured; and
 
 ### Section 4
 
@@ -303,13 +301,13 @@ The Act is amended by adding the following after section 2:
 
 ### Section 2.1
 
-  **(1)** The **Treasury Board** is responsible for exercising leadership within the Government of Canada in relation to the implementation of this Act.
+  **(1)** The President of the Treasury Board is responsible for exercising leadership within the Government of Canada in relation to the implementation of this Act.
 
-  **(2)** The **Treasury Board** shall, in consultation with the other **federal departments, coordinate the** implementation of this Act, including the implementation of the commitments set out in subsections 41(1) to (3), **and ensure good governance of this Act**.
+  **(2)** The President of the Treasury Board shall, in consultation with the other ministers of the Crown, coordinate the implementation of this Act, including the implementation of the commitments set out in subsections 41(1) to (3), and ensure good governance of this Act.
 
 ### Section 2.2
 
-  **(1)** The Minister of Canadian Heritage shall, in **consultation with the President of the Treasury Board**, develop and maintain a government-wide strategy that sets out the overall official languages priorities.
+  **(1)** The Minister of Canadian Heritage shall, in consultation with the President of the Treasury Board, develop and maintain a government-wide strategy that sets out the overall official languages priorities.
 
   **(1.1)** For greater certainty, the Minister of Canadian Heritage shall perform the duty under subsection (1) in cooperation with the other ministers of the Crown.
 
@@ -345,8 +343,6 @@ The heading before section 3 of the French version of the Act is replaced by the
     a day that falls during the seasonal recess, as defined in section 2 of the `Federal Courts Rules`; (**jour ouvrable**)
 
     **communication** means any form of communication, including oral, written, electronic, virtual or other communications; (**communication**)
-
-    **employee** includes an employee who is an employer representative, a person who performs for an employer activities whose primary purpose is to enable the person to acquire knowledge or experience, a person who has been placed by a help agency, and a contractor whose services are retained; (**employé**)
 
     **publication** means any form of publication, regardless of the medium, including printed, electronic, virtual or other publications; (**publication**)
 
@@ -440,7 +436,7 @@ Section 14 of the Act becomes subsection 14(1) and is amended by adding the foll
 
       **(1)** Every federal court has the duty to ensure that
 
-  **(2)** Subsection 16(3) of the Act is **replaced by the following**:
+  **(2)** Subsection 16(3) of the Act is replaced by the following:
 
 ### Section (3)
 
@@ -506,13 +502,15 @@ Le gouverneur en conseil peut, par règlement, prendre les mesures d'incitation 
 
 Section 34 of the Act is replaced by the following:
 
+### Section 33.1
+
+In this Part, **employee** includes an employee who represents the employer, a person who performs for an employer activities whose primary purpose is to enable the person to acquire knowledge or experience and a person who has been placed by a temporary help agency.
+
 ### Section 34
 
-  ****(1)**** English and French are the languages of work in all federal institutions, and employees of all federal institutions have the right to use either official language in accordance with this Part.
+  **(1)** English and French are the languages of work in all federal institutions, and employees of all federal institutions have the right to use either official language in accordance with this Part.
 
-  **(2)** Persons appointed by the Governor in Council to the following positions in federal institutions must, on their appointment, follow the necessary language training to be able to speak and understand clearly both official languages:
-
-    deputy minister, associate deputy minister and positions of equivalent ranks.
+  **(2)** A person appointed by the Governor in Council to the position of deputy minister or associate deputy minister or a position of an equivalent rank in a department named in Schedule I to the `Financial Administration Act` shall, on their appointment, take the language training that is necessary to be able to speak and understand clearly both official languages.
 
 ### Section 15
 
@@ -534,19 +532,27 @@ within the National Capital Region and in any part or region of Canada, or in an
 
     ensure that regularly and widely used computer systems acquired or produced by the institution on or after January 1, 1991 can be used in either official language; and
 
-  **(3)** **Paragraph** 36(1)(c) of the Act is replaced by the following:
+  **(3)** Paragraph 36(1)(c) of the Act is replaced by the following:
 
-    **ensure that**, if it is appropriate in order to create a work environment that is conducive to the effective use of both official languages:
+    ensure that, if it is appropriate in order to create a work environment that is conducive to the effective use of both official languages, managers and supervisors are able to communicate in both official languages with employees of the institution in carrying out their managerial or supervisory responsibilities; and
+
+    ensure that any management group that is responsible for the general direction of the institution as a whole has the capacity to function in both official languages.
+
+  **(3.1)** Paragraph 36(1)(c) of the Act is replaced by the following:
+
+    ensure that, if it is appropriate in order to create a work environment that is conducive to the effective use of both official languages,
 
     managers and supervisors are able to communicate in both official languages with employees of the institution in carrying out their managerial or supervisory responsibilities, and
 
-    every employee is supervised by their managers and supervisors in the official language of their choice, regardless of the linguistic identification of their position; and
-
-    ensure that any management group that is responsible for the general direction of the institution as a whole has the capacity to function in both official languages.
+    employees are supervised by their managers and supervisors in the official language of their choice, regardless of the linguistic identification of their position; and
 
   **(4)** Subsection 36(2) of the Act is replaced by the following:
 
     **(2)** Every federal institution has the duty to ensure that, within the National Capital Region and in any part or region of Canada, or in any place outside Canada, that is prescribed for the purpose of paragraph 35(1)(a), the measures that can reasonably be taken are taken in addition to those required under subsection (1) to establish and maintain work environments of the institution that are conducive to the effective use of both official languages and accommodate the use of either official language by its employees.
+
+  **(5)** Section 36 of the Act is amended by adding the following after subsection (2):
+
+    **(3)** Nothing in subparagraph (1)(c)(ii) abrogates or derogates from the right of a person to hold a position or carry out managerial or supervisory responsibilities in a federal institution if they held that position or carried out those responsibilities in the institution immediately before the coming into force of that subparagraph.
 
 ### Section 17
 
@@ -590,7 +596,7 @@ The Governor in Council may make regulations for the purposes of this Part.
 
 ### Section 21
 
-**The heading of Part VII and** sections 41 and 42 of the Act are replaced by the following:
+The heading of Part VII and sections 41 and 42 of the Act are replaced by the following:
 
 
 ## Advancement of Equality of Status and Use of English and French
@@ -603,13 +609,13 @@ The Governor in Council may make regulations for the purposes of this Part.
 
     fostering the full recognition and use of both English and French in Canadian society.
 
-  **(2)** The Government of Canada, recognizing **and taking into account** that French is in a minority situation in Canada and North America due to the predominant use of English, is committed to protecting and promoting the French language.
+  **(2)** The Government of Canada, recognizing and taking into account that French is in a minority situation in Canada and North America due to the predominant use of English, is committed to protecting and promoting the French language.
 
-  **(3)** The Government of Canada is committed to advancing **formal, non-formal and informal** opportunities for members of English and French linguistic minority communities to pursue quality learning in their own language throughout their lives, including from early childhood to post-secondary education.
+  **(3)** The Government of Canada is committed to advancing formal, non-formal and informal opportunities for members of English and French linguistic minority communities to pursue quality learning in their own language throughout their lives, including from early childhood to post-secondary education.
 
-  **(4)** The Government of Canada periodically **estimates, using the necessary tools**, the number of children whose parents have, under section 23 of the `Canadian Charter of Rights and Freedoms`, the right to have their children receive their instruction in the language of the English or French linguistic minority population of a province or territory, including the right to have them receive that instruction in minority language educational facilities.
+  **(4)** The Government of Canada shall estimate periodically, using the necessary tools, the number of children whose parents have, under section 23 of the `Canadian Charter of Rights and Freedoms`, the right to have their children receive their instruction in the language of the English or French linguistic minority population of a province or territory, including the right to have them receive that instruction in minority language educational facilities.
 
-  **(5)** Every federal institution has the duty to ensure that the commitments under subsections (1) to (3) are **implemented by the taking of** positive measures.
+  **(5)** Every federal institution has the duty to ensure that the commitments under subsections (1) to (3) are implemented by the taking of positive measures.
 
   **(6)** Positive measures taken under subsection (5)
 
@@ -641,11 +647,11 @@ The Governor in Council may make regulations for the purposes of this Part.
 
     subject to the regulations, take the necessary measures to promote, when negotiating agreements with the provincial and territorial governments, including funding agreements, that may contribute to the implementation of the commitments under subsections (1) to (3), the inclusion in those agreements of provisions establishing the parties' duties under the agreements respecting official languages; and
 
-    consider the possibilities for **avoiding, or at least** mitigating, the direct negative impacts that its structuring decisions may have on the commitments under subsections (1) to (3).
+    consider the possibilities for avoiding, or at least mitigating, the direct negative impacts that its structuring decisions may have on the commitments under subsections (1) to (3).
 
   **(8)** The analyses referred to in subsection (7) shall be founded, to the extent possible, on the results of dialogue and consultation activities, on research and on evidence-based findings.
 
-  **(9)** The objective of the dialogue and consultation activities carried out for the purposes of subsection (8) is to permit the priorities of the English and French linguistic minority communities and other stakeholders to be taken into account, **including in relation to the duty under paragraph (7)(a.1)**.
+  **(9)** The objective of the dialogue and consultation activities carried out for the purposes of subsection (8) is to permit the priorities of the English and French linguistic minority communities and other stakeholders to be taken into account, including in relation to the duty under paragraph (7)(a.1).
 
   **(9.1)** In carrying out this objective, every federal institution shall
 
@@ -659,7 +665,7 @@ The Governor in Council may make regulations for the purposes of this Part.
 
     be prepared to alter those positive measures.
 
-  **(10)** Every federal institution shall establish evaluation and monitoring mechanisms in relation to the positive measures taken under subsection (5) **and in relation to the duty under paragraph (7)(a.1). For greater certainty, these mechanisms take into account the obligations set out in subsections 41(7) to (9) and the provisions with respect to dialogue and consultation activities**.
+  **(10)** Every federal institution shall establish evaluation and monitoring mechanisms in relation to the positive measures taken under subsection (5) and in relation to the duty under paragraph (7)(a.1). For greater certainty, these mechanisms shall take into account the obligations set out in subsections 41(7) to (9) and the provisions with respect to dialogue and consultation activities.
 
   **(10.1)** Subject to subsections (10.2) and (10.3) and the regulations, every federal institution that is a party to an agreement referred to in paragraph (7)(a.1) that includes provisions referred to in that paragraph shall cause the agreement to be published on the Internet or by any other means the institution considers appropriate.
 
@@ -687,7 +693,7 @@ The Governor in Council may make regulations for the purposes of this Part.
 
   **(1)** The Government of Canada is committed to advancing the use of English and French in the conduct of Canada's external affairs and to promoting French as part of Canada's diplomatic relations.
 
-  **(2)** The Minister of Foreign Affairs shall **implement** the commitment under subsection (1).
+  **(2)** The Minister of Foreign Affairs shall implement the commitment under subsection (1).
 
 ### Section 42.1
 
@@ -695,13 +701,13 @@ The Government of Canada recognizes that the Canadian Broadcasting Corporation, 
 
 ### Section 22
 
-  **(1)** **The portion of subsection** 43(1) of the Act **before paragraph (a) is** replaced by the following:
+  **(1)** The portion of subsection 43(1) of the Act before paragraph (a) is replaced by the following:
 
-### Section **43**
+### Section 43
 
-      **(1)** The Minister of Canadian Heritage, in advancing the equality of status and use of English and French in Canadian society and, without restricting the generality of the foregoing, may take measures to
+      **(1)** The Minister of Canadian Heritage shall advance the equality of status and use of English and French in Canadian society, and to that end may take measures to
 
-      ****(1.1)**** Paragraphs 43(1)(b) to (g) of the Act are replaced by the following:
+      **(1.1)** Paragraphs 43(1)(b) to (g) of the Act are replaced by the following:
 
         support the development and promotion of francophone culture in Canada, including through the activities of entities for which that Minister is responsible and by ensuring that the Government of Canada's cultural policies are consistent with the purpose of this Act;
 
@@ -717,7 +723,7 @@ The Government of Canada recognizes that the Canadian Broadcasting Corporation, 
 
   **(2)** Subsection 43(2) of the Act is replaced by the following:
 
-    **(2)** The Minister of Canadian Heritage shall take such measures as that Minister considers appropriate to ensure public consultation in the development of policies and review of programs relating to the **achievement of** the equality of status and use of English and French in Canadian society and shall provide information to the public relating to those policies and programs.
+    **(2)** The Minister of Canadian Heritage shall take such measures as that Minister considers appropriate to ensure public consultation in the development of policies and review of programs relating to the achievement of the equality of status and use of English and French in Canadian society and shall provide information to the public relating to those policies and programs.
 
 ### Section 23
 
@@ -725,7 +731,7 @@ The Act is amended by adding the following after section 44:
 
 ### Section 44.1
 
-  **(1)** The Minister of Citizenship and Immigration shall adopt a policy on francophone immigration to enhance the vitality of French linguistic minority communities in Canada, **including by restoring and increasing their demographic weight**.
+  **(1)** The Minister of Citizenship and Immigration shall adopt a policy on francophone immigration to enhance the vitality of French linguistic minority communities in Canada, including by restoring and increasing their demographic weight.
 
   **(2)** The policy shall include, among other things,
 
@@ -765,19 +771,19 @@ Any minister of the Crown designated by the Governor in Council may consult and 
 
 ### Section 46
 
-      **(1)** The Treasury Board has responsibility for the general direction and coordination of the policies and programs of the Government of Canada relating to the implementation of Parts IV, V and VI, subsection 41(5) and **paragraph 41(7)(a.1)** in all federal institutions other than the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service and office of the Parliamentary Budget Officer.
+      **(1)** The Treasury Board has responsibility for the general direction and coordination of the policies and programs of the Government of Canada relating to the implementation of Parts IV, V and VI, subsection 41(5) and paragraph 41(7)(a.1) in all federal institutions other than the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer, office of the Conflict of Interest and Ethics Commissioner, Parliamentary Protective Service and office of the Parliamentary Budget Officer.
 
   **(2)** Paragraph 46(2)(a) of the Act is repealed.
 
-  **(3)** Paragraphs 46(2)(c) to (g) of the Act **are repealed**.
+  **(3)** Paragraphs 46(2)(c) to (g) of the Act are repealed.
 
   **(4)** Section 46 of the Act is amended by adding the following after subsection (2):
 
-    **(**3**)** In carrying out its responsibilities under subsection (1), the Treasury Board shall
+    **(3)** In carrying out its responsibilities under subsection (1), the Treasury Board shall
 
       establish policies, recommend policies to the Governor in Council or issue directives to give effect to Parts IV, V and VI;
 
-      in consultation with the Minister of Canadian Heritage, establish policies, recommend policies to the Governor in Council or issue directives to give effect to subsection 41(5) **and paragraph 41(7)(a.1)**;
+      in consultation with the Minister of Canadian Heritage, establish policies, recommend policies to the Governor in Council or issue directives to give effect to subsection 41(5) and paragraph 41(7)(a.1);
 
       monitor and audit federal institutions in respect of which it has responsibility for their compliance with policies, directives and regulations of the Treasury Board or the Governor in Council relating to the official languages of Canada;
 
@@ -785,7 +791,7 @@ Any minister of the Crown designated by the Governor in Council may consult and 
 
       provide information to the public and to employees of federal institutions relating to the policies, directives and programs that give effect to Parts IV, V and VI; and
 
-      provide information to employees of federal institutions relating to the policies, directives and programs that give effect to subsection 41(5) **and paragraph 41(7)(a.1)**.
+      provide information to employees of federal institutions relating to the policies, directives and programs that give effect to subsection 41(5) and paragraph 41(7)(a.1).
 
 ### Section 26
 
@@ -793,7 +799,7 @@ Sections 47 and 48 of the Act are replaced by the following:
 
 ### Section 47
 
-The Chief Human Resources Officer appointed under subsection 6(2.1) of the `Financial Administration Act` shall provide the Commissioner with any audit reports that are prepared under paragraph 46(**3**)(c).
+The Chief Human Resources Officer appointed under subsection 6(2.1) of the `Financial Administration Act` shall provide the Commissioner with any audit reports that are prepared under paragraph 46(3)(c).
 
 ### Section 48
 
@@ -946,7 +952,7 @@ The Act is amended by adding the following after section 63:
 
 ### Section 64.5
 
-      **(1)** If, after carrying out an investigation of a complaint, the Commissioner has reasonable grounds to believe that a federal institution has contravened a duty — or **violated** a right — under Part IV or V and has made recommendations under subsection 63(3) in respect of that contravention **or violation**, or in respect of an identical contravention of that **duty or violation of that right** by the institution, the Commissioner may make an order directing that institution to take any action that the Commissioner considers appropriate to rectify the contravention **or violation**.
+      **(1)** If, after carrying out an investigation of a complaint, the Commissioner has reasonable grounds to believe that a federal institution has contravened a duty — or violated a right — under Part IV or V and has made recommendations under subsection 63(3) in respect of that contravention or violation, or in respect of an identical contravention of that duty or violation of that right by the institution, the Commissioner may make an order directing that institution to take any action that the Commissioner considers appropriate to rectify the contravention or violation.
 
       **(2)** However, the Commissioner is not permitted to make an order in respect of the subject-matter of a complaint unless, before making the order, the Commissioner invited the federal institution to enter into a compliance agreement under subsection 64.1(1) in respect of that subject-matter.
 
@@ -1177,7 +1183,7 @@ In a proceeding in respect of a violation, a notice purporting to be served unde
 
       the number of complaints that were made the object of a compliance agreement under subsection 64.1(1), a description of the contravention that resulted in the agreement being entered into and an indication as to whether the federal institution complied with the agreement and, if not, any measures taken by the Commissioner as a result; and
 
-      the number of complaints that were made the object of an order under subsection 64.5(1), a description of the contravention **or violation** that resulted in the order being made and an indication as to whether the federal institution complied with the order and, if not, any measures taken by the Commissioner as a result.
+      the number of complaints that were made the object of an order under subsection 64.5(1), a description of the contravention or violation that resulted in the order being made and an indication as to whether the federal institution complied with the order and, if not, any measures taken by the Commissioner as a result.
 
   **(2)** Section 66 of the Act is amended by adding the following after subsection (2):
 
@@ -1377,7 +1383,7 @@ The Act is amended by adding the following after section 93:
 
 ### Section 93.1
 
-  **(1)** On the 10th anniversary of the day on which this section comes into force and every 10 years after that anniversary, the Minister of Canadian Heritage shall, **in consultation with the President of the Treasury Board**, undertake a review of the provisions and operation of this Act.
+  **(1)** On the 10th anniversary of the day on which this section comes into force and every 10 years after that anniversary, the Minister of Canadian Heritage shall, in consultation with the President of the Treasury Board, undertake a review of the provisions and operation of this Act.
 
   **(1.1)** The review undertaken under subsection (1) shall include a comprehensive analysis, over the previous ten years, of the enhancement of the vitality of the English and French linguistic minority communities and of the protection and promotion of the French language in Canada.
 
@@ -1389,11 +1395,11 @@ The Act is amended by adding the following after section 93:
 
     quantitative indicators, including mother tongue spoken, language most often spoken at home, rate of anglicization and francization, language transfer and language of work.
 
-  **(2)** **The** Minister **of Canadian Heritage** shall cause a report of the review to be tabled in each House of Parliament within the first 30 days on which that House is sitting after the report has been completed.
+  **(2)** The Minister of Canadian Heritage shall cause a report of the review to be tabled in each House of Parliament within the first 30 days on which that House is sitting after the report has been completed.
 
 ### Section 51
 
-Sections 107 and 108 of the Act are **replaced by the following**:
+Sections 107 and 108 of the Act are replaced by the following:
 
 ### Section 107
 
@@ -1530,13 +1536,13 @@ The duty in respect of communications and services in French under section `7` a
 
     carry out their work and be supervised in French;
 
-    receive all communications and documents from the federally regulated private business, including **employment application forms**, offers of employment, **transfer** or promotion, **individual employment contracts, documents related to the conditions of employment, training documents produced for employees**, notices of termination of employment, collective agreements and **their schedules and** grievances, in French; and
+    receive all communications and documents from the federally regulated private business, including employment application forms, offers of employment, transfer or promotion, individual employment contracts, documents related to the conditions of employment, training documents produced for employees, notices of termination of employment, collective agreements and their schedules and grievances, in French; and
 
     use regularly and widely used work instruments and computer systems in French.
 
   **(1.1)** An employee's right set out in paragraph (1)(b) to receive communications and documents from a federally regulated private business in French continues after the employee ceases to be employed by the business.
 
-  **(2)** The federally regulated private business has the duty to ensure that employees are able to exercise the rights set out in subsection (1) **and that persons who were employees are able to exercise the right continued under subsection (1.1)**.
+  **(2)** The federally regulated private business has the duty to ensure that employees are able to exercise the rights set out in subsection (1) and that persons who were employees are able to exercise the right continued under subsection (1.1).
 
   **(2.1)** When a federally regulated private business that has workplaces in Quebec publishes in a language other than French an advertisement to fill a position — including through recruitment, hiring, transfer or promotion — that is assigned to one of those workplaces, the business must also publish the advertisement in French and ensure the simultaneous publication of both linguistic versions by means that are of the same nature and that reach a target public of a proportionally comparable size.
 
@@ -1596,7 +1602,7 @@ is translated into English or another language other than French as soon as feas
 
 ### Section 11
 
-  **(1)** A federally regulated private business that has workplaces in Quebec must not treat adversely an employee who occupies or is assigned to a position in one of those workplaces for **any of the following reasons**:
+  **(1)** A federally regulated private business that has workplaces in Quebec must not treat adversely an employee who occupies or is assigned to a position in one of those workplaces for any of the following reasons:
 
     the employee speaks only French;
 
@@ -1616,7 +1622,7 @@ is translated into English or another language other than French as soon as feas
 
   **(2)** A federally regulated private business that has workplaces in Quebec must not treat adversely an employee who occupies or is assigned to a position in one of those workplaces on or before the day on which this subsection comes into force for the sole reason that the employee does not have a sufficient knowledge of French.
 
-  **(3)** Requiring an employee to have a knowledge of a language other than French does not constitute adverse treatment for the purposes of subsection (1) if the federally regulated private business is able to demonstrate that a knowledge of that language is objectively required by reason of the nature of the work to be performed by the employee **and the business sets out the reasons that justify the requirement in any advertisement to fill a position that requires such knowledge**.
+  **(3)** Requiring an employee to have a knowledge of a language other than French does not constitute adverse treatment for the purposes of subsection (1) if the federally regulated private business is able to demonstrate that a knowledge of that language is objectively required by reason of the nature of the work to be performed by the employee and the business sets out the reasons that justify the requirement in any advertisement to fill a position that requires such knowledge.
 
   **(4)** For the purposes of subsection (3), in order to demonstrate that a knowledge of a language other than French is objectively required by reason of the nature of the work to be performed by the employee, a federally regulated private business must, before requiring such knowledge, at a minimum,
 
@@ -1708,9 +1714,9 @@ Any individual or group of individuals may make a complaint to the Commissioner,
 
   **(2)** The complaint must be made no later than the 90th day after the earlier of
 
-    the day on which the **complainant** became aware of the act or omission giving rise to the alleged failure to comply, and
+    the day on which the complainant became aware of the act or omission giving rise to the alleged failure to comply, and
 
-    the day on which the **complainant** ought, in the Commissioner's opinion, to have become aware of that act or omission.
+    the day on which the complainant ought, in the Commissioner's opinion, to have become aware of that act or omission.
 
   **(3)** The Commissioner may extend the 90-day period
 
@@ -1720,7 +1726,7 @@ Any individual or group of individuals may make a complaint to the Commissioner,
 
 ### Section 19
 
-  **(1)** Subject to this section, sections `18` and `21` and subsections `26`(2) and `41`(2) and (4), Part IX of the `Official Languages Act` applies with respect to a complaint made under subsection `18`(1), **(1.1) or (1.2)** as if the federally regulated private business that is the subject of the complaint were a federal institution.
+  **(1)** Subject to this section, sections `18` and `21` and subsections `26`(2) and `41`(2) and (4), Part IX of the `Official Languages Act` applies with respect to a complaint made under subsection `18`(1), (1.1) or (1.2) as if the federally regulated private business that is the subject of the complaint were a federal institution.
 
   **(2)** The Commissioner is not permitted to conduct or carry out any investigation on the Commissioner's own initiative in respect of a right or duty under any of sections `9` to `11`.
 
@@ -1750,7 +1756,7 @@ Any individual or group of individuals may make a complaint to the Commissioner,
 
 ### Section 21
 
-  **(1)** The Commissioner may, with the consent of the complainant, refer a complaint made under **subsection** 18(**1**) to the Board if the Commissioner has attempted to resolve the complaint but is of the opinion that
+  **(1)** The Commissioner may, with the consent of the complainant, refer a complaint made under subsection 18(1) to the Board if the Commissioner has attempted to resolve the complaint but is of the opinion that
 
     the Commissioner will not be able to resolve the complaint within what the Commissioner considers to be a reasonable period; and
 
@@ -2020,7 +2026,7 @@ Subsection 7(1) of the Act is replaced by the following:
 
 ### Section 57
 
-  ****(1)**** The portion of subsection 9(1) of the Act before paragraph (a) is replaced by the following:
+  **(1)** The portion of subsection 9(1) of the Act before paragraph (a) is replaced by the following:
 
 ### Section 9
 
@@ -2040,7 +2046,7 @@ Subsection 9.2(1) of the Act is replaced by the following:
 
 ### Section 58
 
-  ****(1)**** The portion of subsection 10(1) of the Act before paragraph (a) is replaced by the following:
+  **(1)** The portion of subsection 10(1) of the Act before paragraph (a) is replaced by the following:
 
 ### Section 10
 
@@ -2052,13 +2058,13 @@ Subsection 9.2(1) of the Act is replaced by the following:
 
 ### Section 59
 
-  **(1)** **The portion of** subsection 11(1) of the Act **before paragraph (a)** is replaced by the following:
+  **(1)** The portion of subsection 11(1) of the Act before paragraph (a) is replaced by the following:
 
 ### Section 11
 
-      **(1)** A federally regulated private business that has workplaces in Quebec or a region with a strong francophone presence must not treat adversely an employee who occupies or is assigned to a position in one of those workplaces for **any of the following reasons**:
+      **(1)** A federally regulated private business that has workplaces in Quebec or a region with a strong francophone presence must not treat adversely an employee who occupies or is assigned to a position in one of those workplaces for any of the following reasons:
 
-  **(2)** **Subsection** 11**(3)** of the Act is **replaced** by the following:
+  **(2)** Subsection 11(3) of the Act is replaced by the following:
 
     **(2.1)** A federally regulated private business that has workplaces in a region with a strong francophone presence must not treat adversely an employee who occupies or is assigned to a position in one of those workplaces on or before the day on which this subsection comes into force for the sole reason that the employee does not have a sufficient knowledge of French.
 
@@ -2201,13 +2207,15 @@ subsection 19(6) of the `Use of French in Federally Regulated Private Businesses
 
   **(1)** Section `12` comes into force on the first anniversary of the day on which this Act receives royal assent.
 
+  **(1.1)** Subsections 16(3.1) and (5) come into force on the second anniversary of the day on which this Act receives royal assent.
+
   **(2)** Section `23` comes into force on a day to be fixed by order of the Governor in Council.
 
-  **(3)** **Subsections** `36`(2) **to (4)**, section `37`, subsection `38`(2), section `39` and subsections `43`(1) and (3) come into force on a day to be fixed by order of the Governor in Council.
+  **(3)** Subsections `36`(2) to (4), section `37`, subsection `38`(2), section `39` and subsections `43`(1) and (3) come into force on a day to be fixed by order of the Governor in Council.
 
   **(4)** The provisions of the `Use of French in Federally Regulated Private Businesses Act`, as enacted by section `54`, and sections `64` to `67` come into force on a day to be fixed by order of the Governor in Council.
 
-  **(5)** Sections `55` to **`57.1`, subsections `58`(1) and `59`(1) to (3) and (5) and sections `60` to** `63` come into force on the second anniversary of the day fixed under subsection (4).
+  **(5)** Sections `55` to `57.1`, subsections `58`(1) and `59`(1) to (3) and (5) and sections `60` to `63` come into force on the second anniversary of the day fixed under subsection (4).
 
   **(6)** Subsection `58`(2) comes into force on a day to be fixed by order of the Governor in Council.
 
