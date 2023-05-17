@@ -1,5 +1,7 @@
 # Bill S-210: An Act to restrict young persons' online access to sexually explicit material
 
+**Sponsor**: Senator Miville-Dechêne
+
 ## Summary
 
 This enactment makes it an offence for organizations to make sexually explicit material available to young persons on the Internet. It also enables a designated enforcement authority to take steps to prevent sexually explicit material from being made available to young persons on the Internet in Canada.
@@ -16,7 +18,7 @@ Whereas online age-verification technology is increasingly sophisticated and can
 
 And whereas any organization making sexually explicit material available on the Internet for commercial purposes has a responsibility to ensure that it is not accessed by young persons;
 
-Now, therefore, His Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
 
 ## Short Title
@@ -150,19 +152,7 @@ the outcome of applications made pursuant to subsection 9(1).
 
 ### Section 11
 
-  **(1)** The Governor in Council may make regulations for carrying out the purposes and provisions of this Act, including regulations prescribing the age-verification methods referred to in subsection 6(1).
-
-  **(2)** Before prescribing an age-verification method under subsection (1), the Governor in Council must consider whether the method
-
-    is reliable;
-
-    maintains user privacy and protects user personal information;
-
-    collects and uses personal information solely for age-verification purposes, except to the extent required by law;
-
-    destroys any personal information collected for age-verification purposes once the verification is completed; and
-
-    generally complies with best practices in the fields of age verification and privacy protection.
+The Governor in Council may make regulations for carrying out the purposes and provisions of this Act, including regulations prescribing the age-verification methods referred to in subsection 6(1).
 
 
 ## Coming into Force
