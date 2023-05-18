@@ -1,7 +1,5 @@
 # Bill C-21: An Act to amend certain Acts and to make certain consequential amendments (firearms)
 
-**Sponsor**: MINISTER OF PUBLIC SAFETY
-
 ## Summary
 
 This enactment amends the `Criminal Code` to, among other things,
@@ -38,7 +36,7 @@ require the delivery of firearms to a peace officer, or their lawful disposal, i
 
 revoke an individual's licence if there is reasonable grounds to suspect that they engaged in an act of domestic violence or stalking or if they become subject to a protection order;
 
-authorize the issuance, in certain circumstances, of a conditional licence for the purposes of sustenance or employment;
+authorize the issuance, in certain circumstances, of a conditional licence for the purposes of sustenance;
 
 authorize, in certain circumstances, the Commissioner of Firearms, the Registrar of Firearms or a chief firearms officer to disclose certain information to a law enforcement agency for the purpose of an investigation or prosecution related to the trafficking of firearms;
 
@@ -176,7 +174,7 @@ His Majesty, by and with the advice and consent of the Senate and House of Commo
 
     any unlawfully manufactured firearm regardless of the means or method of manufacture; (**arme à feu prohibée**)
 
-  **(1.1)** The definition **prohibited firearm** in subsection 84(1) of the Act is amended by striking out "or" at the end of paragraph (c), by adding "or" at the end of paragraph (d) and by adding the following after paragraph (d):
+  **(2)** The definition **prohibited firearm** in subsection 84(1) of the Act is amended by striking out "or" at the end of paragraph (c), by adding "or" at the end of paragraph (d) and by adding the following after paragraph (d):
 
     a firearm that is not a handgun and that
 
@@ -186,33 +184,29 @@ His Majesty, by and with the advice and consent of the Senate and House of Commo
 
     is designed and manufactured on or after the day on which this paragraph comes into force; (**arme à feu prohibée**)
 
-  **(1.2)** The definition **prohibition order** in subsection 84(1) of the Act is replaced by the following:
+  **(3)** The definition **prohibition order** in subsection 84(1) of the Act is replaced by the following:
 
     **prohibition order** means an order made under this Act or any other Act of Parliament prohibiting a person from possessing any firearm, cross-bow, prohibited weapon, restricted weapon, prohibited device, firearm part, ammunition, prohibited ammunition or explosive substance, or all such things; (**ordonnance d'interdiction**)
 
-  ****(1.3)**** The definition **replica firearm** in subsection 84(1) of the Act is replaced by the following:
+  **(4)** The definition **replica firearm** in subsection 84(1) of the Act is replaced by the following:
 
     **replica firearm** means any device that is designed or intended to exactly resemble, or to resemble with near precision, a firearm that is designed or adapted to discharge a shot, bullet or other projectile at a muzzle velocity exceeding 152.4 m per second and at a muzzle energy exceeding 5.7 Joules, and that itself is not a firearm, but does not include any such device that is designed or intended to exactly resemble, or to resemble with near precision, an antique firearm; (**réplique**)
 
-  **(1.4)** Subsection 84(1) of the Act is amended by adding the following in alphabetical order:
+  **(5)** Subsection 84(1) of the Act is amended by adding the following in alphabetical order:
 
     **firearm part** means a barrel for a firearm, a slide for a handgun and any other prescribed part, but does not include, unless otherwise prescribed, a barrel for a firearm or a slide for a handgun if that barrel or slide is designed exclusively for use on a firearm that is deemed under subsection 84(3) not to be a firearm; (**pièce d'arme à feu**)
 
-  **(1.5)** Subsection 84(1) of the Act is amended by adding the following in alphabetical order:
+  **(6)** Subsection 84(1) of the Act is amended by adding the following in alphabetical order:
 
     **semi-automatic**, in respect of a firearm, means that the firearm that is equipped with a mechanism that, following the discharge of a cartridge, automatically operates to complete any part of the reloading cycle necessary to prepare for the discharge of the next cartridge; (**semi-automatique**)
 
-  **(1.6)** Subsection (1) comes into force on the 30th day after the day on which this Act receives royal assent.
+  **(7)** Subsection (1) comes into force on the 30th day after the day on which this Act receives royal assent.
 
-  **(1.7)** Subsections (1.2) and (1.4) come into force on a day or days to be fixed by order of the Governor in Council.
-
-  **(2)** [*Deleted*]
+  **(8)** Subsections (3) and (5) come into force on a day or days to be fixed by order of the Governor in Council.
 
 ### Section 1.1
 
   **(1)** The portion of subsection 99(1) of the Act after paragraph (b) is replaced by the following:
-
-### Section 
 
     a prohibited firearm, a restricted firearm, a non-restricted firearm, a prohibited weapon, a restricted weapon, a prohibited device, a firearm part, any ammunition or any prohibited ammunition knowing that the person is not authorized to do so under the `Firearms Act` or any other Act of Parliament or any regulations made under any Act of Parliament.
 
@@ -312,7 +306,7 @@ The Act is amended by adding the following after section 104:
 
 ### Section 3
 
-  ****(1)**** Paragraph 109(1)(b) of the Act is replaced by
+  **(1)** Paragraph 109(1)(b) of the Act is replaced by
 
     an offence under subsection 85(1) (using firearm in commission of offence), 85(2) (using imitation firearm in commission of offence), 95(1) (possession of prohibited or restricted firearm with ammunition), 99(1) (weapons trafficking), 100(1) (possession for purpose of weapons trafficking), 102(1) (making automatic firearm), 103(1) (importing or exporting knowing it is unauthorized) or 104.1(1) (altering cartridge magazine) or section 264 (criminal harassment),
 
@@ -358,7 +352,7 @@ The Act is amended by adding the following after section 104:
 
 ### Section 4
 
-  ****(1)**** The Act is amended by adding the following after section 110:
+  **(1)** The Act is amended by adding the following after section 110:
 
 ### Section 110.1
 
@@ -474,7 +468,7 @@ The Act is amended by adding the following after section 104:
 
     **(5)** If, at the conclusion of a hearing of an application made under subsection (1), the provincial court judge is satisfied that the circumstances referred to in that subsection exist, the provincial court judge shall make an order prohibiting the person from possessing any firearm, cross-bow, prohibited weapon, restricted weapon, prohibited device, firearm part, ammunition, prohibited ammunition or explosive substance, or all such things, for the period, not exceeding five years, that is specified in the order, beginning on the day on which the order is made.
 
-  ****(3)**** Subsection 111(11) of the Act is repealed.
+  **(3)** Subsection 111(11) of the Act is repealed.
 
 ### Section 6
 
@@ -512,7 +506,7 @@ Subsection 117.01(1) of the Act is replaced by the following:
 
 ### Section 10
 
-  ****(1)**** The Act is amended by adding the following before section 117.011:
+  **(1)** The Act is amended by adding the following before section 117.011:
 
 ### Section 117.0101
 
@@ -676,7 +670,7 @@ A provincial court judge may, on application by the person against whom an order
 
   **(2)** Subsection (1) comes into force on a day to be fixed by order of the Governor in Council.
 
-  ****(3)**** Subsection 117.07(2) of the Act is amended by striking out "or" at the end of paragraph (g) and by adding the following after paragraph (h):
+  **(3)** Subsection 117.07(2) of the Act is amended by striking out "or" at the end of paragraph (g) and by adding the following after paragraph (h):
 
     a person employed by the Bank of Canada or the Royal Canadian Mint who is responsible for the security of its facilities; or
 
@@ -818,7 +812,7 @@ A provincial court judge may, on application by the person against whom an order
 
 ### Section 13.11
 
-  **(1)** The portion of Form 11 of Part XXVIII of the Act that begins with "You must not possess" and ends with "(name or title) at (place)." is replaced by the following:
+  **(1)** The portion of Form 11 of Part XXVIII of the Act that begins with "You must not possess" and ends with "(*name or title*) at (*place*)." is replaced by the following:
 
     □ You must not possess a firearm, crossbow, prohibited weapon, restricted weapon, prohibited device, firearm part, ammunition, prohibited ammunition or explosive substance and you must surrender any of them in your possession and any authorization, licence or registration certificate or other document enabling the acquisition or possession of a firearm to (*name or title*) at (*place*).
 
@@ -858,9 +852,9 @@ If proceedings in respect of an unlawfully manufactured firearm have been commen
 
 ### Section 14.2
 
-  **(1)** Five years after the day on which paragraph (e) of the definition **prohibited firearm** in subsection 84(1) of the `Criminal Code`, as enacted by subsection 1(1.1), comes into force, a comprehensive review of that paragraph is to be commenced by a committee of the House of Commons that may be designated or established by that House for that purpose.
+  **(1)** Five years after the day on which paragraph (e) of the definition **prohibited firearm** in subsection 84(1) of the `Criminal Code`, as enacted by subsection 1(2), comes into force, a comprehensive review of that paragraph is to be commenced by a committee of the House of Commons that may be designated or established by that House for that purpose.
 
-  **(2)** Within one year, or any further time that is authorized by the House of Commons, after the day on which the review is commenced, the committee must submit a report on that review to the House of Commons, together with a statement of any changes to paragraph (e) of the definition **prohibited firearm** in subsection 84(1) of the `Criminal Code`, as enacted by subsection 1(1.1), that the committee recommends.
+  **(2)** Within one year, or any further time that is authorized by the House of Commons, after the day on which the review is commenced, the committee must submit a report on that review to the House of Commons, together with a statement of any changes to paragraph (e) of the definition **prohibited firearm** in subsection 84(1) of the `Criminal Code`, as enacted by subsection 1(2), that the committee recommends.
 
 
 ## Firearms Act
@@ -918,7 +912,7 @@ The Act is amended by adding the following after section 6:
 
 ### Section 6.1
 
-Subject to section `70.3` and the regulations, an individual is not eligible to hold a licence if they are subject to a protection order **or have been convicted of an offence in the commission of which violence was used, threatened or attempted against their intimate partner or any member of their family**.
+Subject to section `70.3` and the regulations, an individual is not eligible to hold a licence if they are subject to a protection order or have been convicted of an offence in the commission of which violence was used, threatened or attempted against their intimate partner or any member of their family.
 
 ### Section 17
 
@@ -934,7 +928,7 @@ A registration certificate for a handgun must not be issued to an individual.
 
     wishes to transport the firearm to another individual or business that holds a licence authorizing that individual or business to possess prohibited firearms or restricted firearms for purposes of storage for the time necessary for the individual to address a mental illness or similar problem, or
 
-  ****(1)**** Subsection 19(2.1) of the Act is replaced by the following:
+  **(1)** Subsection 19(2.1) of the Act is replaced by the following:
 
     **(2.1)** An individual who holds a licence authorizing the individual to possess a restricted firearm or a handgun referred to in subsection 12(6.1) must, if the licence is renewed, be authorized to transport it within the individual's province of residence to and from all shooting clubs and shooting ranges that are approved under section 29. However, the authorization does not apply to a restricted firearm or a handgun referred to in subsection 12(6.1) whose transfer to the individual was approved for the purpose of having it form part of a gun collection.
 
@@ -1038,13 +1032,13 @@ The Act is amended by adding the following after section 36:
 
 ### Section 37
 
-  **(1)** An individual may import ammunition — other than prohibited ammunition — **or a cartridge magazine — other than a cartridge magazine that is prescribed to be a prohibited device** — only if, at the time of the importation, they hold a valid licence and produce the licence to a customs officer.
+  **(1)** An individual may import ammunition — other than prohibited ammunition — or a cartridge magazine — other than a cartridge magazine that is prescribed to be a prohibited device — only if, at the time of the importation, they hold a valid licence and produce the licence to a customs officer.
 
-  **(2)** Despite subsection (1), a non-resident who, at the time of the importation, is 18 years old or older and who does not hold a licence may import ammunition — other than prohibited ammunition — **or a cartridge magazine — other than a cartridge magazine that is prescribed to be a prohibited device** — if they declare the ammunition **or cartridge magazine** to a customs officer by completing the prescribed form containing the prescribed information and a customs officer confirms the declaration in the prescribed manner. A declaration that is confirmed has the same effect as a valid licence for the purposes of importing the ammunition **or cartridge magazine**.
+  **(2)** Despite subsection (1), a non-resident who, at the time of the importation, is 18 years old or older and who does not hold a licence may import ammunition — other than prohibited ammunition — or a cartridge magazine — other than a cartridge magazine that is prescribed to be a prohibited device — if they declare the ammunition or cartridge magazine to a customs officer by completing the prescribed form containing the prescribed information and a customs officer confirms the declaration in the prescribed manner. A declaration that is confirmed has the same effect as a valid licence for the purposes of importing the ammunition or cartridge magazine.
 
-  **(3)** If any of the requirements of subsection (1) or (2) are not complied with, the customs officer may authorize the ammunition **or cartridge magazine** to be exported from that customs office or may detain the ammunition **or cartridge magazine** and give the individual a reasonable time to comply with those requirements.
+  **(3)** If any of the requirements of subsection (1) or (2) are not complied with, the customs officer may authorize the ammunition or cartridge magazine to be exported from that customs office or may detain the ammunition or cartridge magazine and give the individual a reasonable time to comply with those requirements.
 
-  **(4)** If those requirements are not complied with within a reasonable time and the ammunition is not exported, a customs officer shall lawfully dispose of the ammunition **or cartridge magazine**.
+  **(4)** If those requirements are not complied with within a reasonable time and the ammunition is not exported, a customs officer shall lawfully dispose of the ammunition or cartridge magazine.
 
   **(5)** A customs officer may refuse to confirm the declaration referred to in subsection (2) if, among other things,
 
@@ -1106,7 +1100,7 @@ Subsections 58(1) and (1.1) of the Act are replaced by the following:
 
 Subsection 63(3) of the Act is replaced by the following:
 
-**(3)** Authorizations to carry **referred to in paragraph 20(a)** are not valid outside the **geographic area set in the authorization by Commissioner. Authorizations to carry referred to in paragraph 20(b) are not valid outside** the province **in which they are issued**.
+**(3)** Authorizations to carry referred to in paragraph 20(a) are not valid outside the geographic area set in the authorization by Commissioner. Authorizations to carry referred to in paragraph 20(b) are not valid outside the province in which they are issued.
 
 ### Section 30.1
 
@@ -1159,7 +1153,7 @@ The Act is amended by adding the following after section 69:
 
 ### Section 69.1
 
-  **(1)** If a chief firearms officer has reasonable grounds to suspect, on the basis of information that they have collected or received from any person, **including a psychologist, a psychiatrist, a nurse, a nurse practitioner or a medical practitioner**, that the holder of a licence is no longer eligible to hold the licence, they **shall** suspend, in respect of that licence, the holder's authorization to use, acquire and import firearms for a period of up to 30 days.
+  **(1)** If a chief firearms officer has reasonable grounds to suspect, on the basis of information that they have collected or received from any person, including a psychologist, a psychiatrist, a nurse, a nurse practitioner or a medical practitioner, that the holder of a licence is no longer eligible to hold the licence, they shall suspend, in respect of that licence, the holder's authorization to use, acquire and import firearms for a period of up to 30 days.
 
   **(2)** A chief firearms officer shall give notice in writing of the suspension to the holder of the licence. The notice shall include reasons for the decision, the nature of the information relied on for the decision, the period of the suspension and a copy of this section and sections 69.2 and 70.
 
@@ -1189,7 +1183,7 @@ The Act is amended by adding the following after section 70:
 
 ### Section 70.1
 
-  ****(1)**** If a chief firearms officer **has reasonable grounds to suspect** that an individual who holds a licence **may have** engaged in an act of domestic violence or stalking, the chief firearms officer must revoke the licence **within 24 hours**.
+  **(1)** If a chief firearms officer has reasonable grounds to suspect that an individual who holds a licence may have engaged in an act of domestic violence or stalking, the chief firearms officer must revoke the licence within 24 hours.
 
   **(2)** For the purpose of subsection (1), **domestic violence** means conduct, whether or not it constitutes a criminal offence, by a family member towards another family member, including conduct by or towards an intimate partner, that is violent or threatening or that is part of a pattern of coercive and controlling behaviour or that causes that other family member or intimate partner to fear for their safety or the safety of another person, and includes
 
@@ -1213,7 +1207,7 @@ The Act is amended by adding the following after section 70:
 
 ### Section 70.2
 
-  **(1)** If an individual becomes subject to a protection order, their licence is automatically revoked and they must deliver to a peace officer or otherwise lawfully dispose of any firearm that they possess **within 24 hours or, if that is not possible, within any extended period established by the chief firearms officer**. Sections 91, 92 and 94 of the `Criminal Code` do not apply to the individual in relation to such a firearm during that period.
+  **(1)** If an individual becomes subject to a protection order, their licence is automatically revoked and they must deliver to a peace officer any firearm that they possess within 24 hours or, if that is not possible, within any extended period established by the chief firearms officer. Sections 91, 92 and 94 of the `Criminal Code` do not apply to the individual in relation to such a firearm during that period.
 
   **(2)** A chief firearms officer must give notice, in the prescribed manner, of a revocation referred to in subsection (1) to the individual and must specify in the notice the period referred to in that subsection.
 
@@ -1225,11 +1219,11 @@ Subject to section 5, a chief firearms officer may, in the prescribed circumstan
 
 Subsections 72(4) to (6) of the Act are replaced by the following:
 
-**(4)** A notice given under subsection (1) in respect of a licence must specify **that** the applicant for or holder of the licence may deliver to a peace officer or a firearms officer or a chief firearms officer or otherwise lawfully dispose of any firearm, prohibited weapon, restricted weapon, prohibited device or prohibited ammunition that the applicant for or holder of the licence possesses **within 24 hours or, if that is not possible, within an extended period established by the chief firearms officer**. Sections 91, 92 and 94 of the `Criminal Code` do not apply to the applicant or holder in relation to such a firearm, prohibited weapon, restricted weapon or prohibited device or such prohibited ammunition **during that period**.
+**(4)** A notice given under subsection (1) in respect of a licence must specify that the applicant for or holder of the licence may deliver to a peace officer or a firearms officer or a chief firearms officer any firearm, prohibited weapon, restricted weapon, prohibited device or prohibited ammunition that the applicant for or holder of the licence possesses within 24 hours or, if that is not possible, within an extended period established by the chief firearms officer. Sections 91, 92 and 94 of the `Criminal Code` do not apply to the applicant or holder in relation to such a firearm, prohibited weapon, restricted weapon or prohibited device or such prohibited ammunition during that period.
 
-**(5)** A notice given under subsection (1) in respect of a registration certificate for a prohibited firearm or a restricted firearm must specify **that** the applicant for or holder of the registration certificate may deliver to a peace officer or a firearms officer or a chief firearms officer or otherwise lawfully dispose of the firearm to which the registration certificate relates **within 24 hours or, if that is not possible, within an extended period established by the chief firearms officer**. Sections 91, 92 and 94 of the `Criminal Code` do not apply to the applicant or holder in relation to such a prohibited firearm or restricted firearm **during that period**.
+**(5)** A notice given under subsection (1) in respect of a registration certificate for a prohibited firearm or a restricted firearm must specify that the applicant for or holder of the registration certificate may deliver to a peace officer or a firearms officer or a chief firearms officer the firearm to which the registration certificate relates within 24 hours or, if that is not possible, within an extended period established by the chief firearms officer. Sections 91, 92 and 94 of the `Criminal Code` do not apply to the applicant or holder in relation to such a prohibited firearm or restricted firearm during that period.
 
-**(6)** If the applicant for or holder of a licence refers the refusal to issue it or revocation of it to a provincial court judge under section 74, they must, within **the period referred to in subsection (4)**, deliver to a peace officer or otherwise lawfully dispose of any firearm that they possess. Sections 91, 92 and 94 of the `Criminal Code` do not apply to the applicant or holder in relation to such a firearm during that period.
+**(6)** If the applicant for or holder of a licence refers the refusal to issue it or revocation of it to a provincial court judge under section 74, they must, within the period referred to in subsection (4), deliver to a peace officer any firearm that they possess. Sections 91, 92 and 94 of the `Criminal Code` do not apply to the applicant or holder in relation to such a firearm during that period.
 
 **(7)** If the decision of the chief firearms officer is confirmed, the judge may, if a firearm was delivered to a peace officer under subsection (6), order the return of the firearm to the applicant for or holder of the licence, in order for the applicant or holder to lawfully dispose of it.
 
@@ -1297,7 +1291,7 @@ The heading before section 89 is replaced by the following:
 
 Section 89 of the Act is renumbered as subsection 89(1) and is amended by adding the following:
 
-**(2)** Any competent authority that makes, varies or revokes a protection order shall have a chief firearms officer informed of the protection order or its variation or revocation **within 24 hours**.
+**(2)** Any competent authority that makes, varies or revokes a protection order shall have a chief firearms officer informed of the protection order or its variation or revocation within 24 hours.
 
 ### Section 42
 
@@ -1319,7 +1313,7 @@ Sections 12.2 and 19.1 do not apply in respect of an individual who
 
 holds an authorization to carry in respect of a handgun; or
 
-meets the prescribed criteria and **annually** provides a letter to a chief firearms officer from a provincial or national sport shooting governing body indicating
+meets the prescribed criteria and annually provides a letter to a chief firearms officer from a provincial or national sport shooting governing body indicating
 
 that they are training, competing or coaching in a handgun shooting discipline that is on the programme of the International Olympic Committee or the International Paralympic Committee,
 
@@ -1365,15 +1359,19 @@ The Act is amended by adding the following after section 111:
 
     prohibited firearms, prohibited weapons, restricted weapons, prohibited devices, prohibited ammunition and firearm parts, or
 
+  **(1.11)** The portion of paragraph 117(k) of the Act after subparagraph (ii) is replaced by the following:
+
+    of firearms, prohibited weapons, restricted weapons, prohibited devices, ammunition, prohibited ammunition, cartridge magazines and components and parts designed exclusively for use in the manufacture of or assembly into firearms;
+
   **(1.2)** Paragraph 117(k.1) of the Act is replaced by the following:
 
     respecting the importation or exportation of firearms, prohibited weapons, restricted weapons, prohibited devices, ammunition, prohibited ammunition, cartridge magazines and components and parts designed exclusively for use in the manufacture of or assembly into firearms;
 
   **(2)** Paragraph 117(k.3) of the Act is replaced by the following:
 
-    respecting the confirmation of declarations and authorizations to transport for the purposes of paragraph 35(1)(b) and the confirmation of declarations for the purposes of **subsections** 37(2) **and 38(2)**;
+    respecting the confirmation of declarations and authorizations to transport for the purposes of paragraph 35(1)(b) and the confirmation of declarations for the purposes of subsections 37(2) and 38(2);
 
-    respecting the disposal of ammunition **and cartridge magazines** referred to in subsection 37(4) **and of firearm parts referred to in subsection 38(4)**;
+    respecting the disposal of ammunition and cartridge magazines referred to in subsection 37(4) and of firearm parts referred to in subsection 38(4);
 
 
 ### Transitional Provisions
@@ -1780,7 +1778,7 @@ is inadmissible under subsection 36(1) of the Act on grounds of serious criminal
 
 ### Section 73
 
-  **(1)** **Subsections 5(1) and (2) and sections `9.1`**, `15`, `16`, `20`, **`21.2`**, `26` to `29`, `32` to `36`, `38`, `40`, `41` and `45` come into force on a day or days to be fixed by order of the Governor in Council.
+  **(1)** Subsections 5(1) and (2) and sections `9.1`, `15`, `16`, `20`, `21.2`, `26` to `29`, `32` to `36`, `38`, `40`, `41` and `45` come into force on a day or days to be fixed by order of the Governor in Council.
 
   **(1.1)** Subsections 3(2) and 13(1.1) come into force on the 30th day after the day on which this Act receives royal assent.
 
