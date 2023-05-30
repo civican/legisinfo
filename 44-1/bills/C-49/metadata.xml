@@ -1,0 +1,1617 @@
+<Bills>
+  <Bill>
+    <Id>12458211</Id>
+    <NumberCode>C-49</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>49</Number>
+    <LongTitleEn>An Act to amend the Canada—Newfoundland and Labrador Atlantic Accord Implementation Act and the Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act and to make consequential amendments to other Acts</LongTitleEn>
+    <LongTitleFr>Loi modifiant la Loi de mise en œuvre de l'Accord atlantique Canada — Terre-Neuve-et-Labrador et la Loi de mise en œuvre de l'Accord Canada — Nouvelle-Écosse sur les hydrocarbures extracôtiers et apportant des modifications corrélatives à d'autres lois</LongTitleFr>
+    <LongTitle>An Act to amend the Canada—Newfoundland and Labrador Atlantic Accord Implementation Act and the Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act and to make consequential amendments to other Acts</LongTitle>
+    <ShortTitleEn>
+    </ShortTitleEn>
+    <ShortTitleFr>
+    </ShortTitleFr>
+    <ShortTitle>
+    </ShortTitle>
+    <StatusId>357</StatusId>
+    <StatusNameEn>Royal assent received</StatusNameEn>
+    <StatusNameFr>Sanction royale reçue</StatusNameFr>
+    <StatusName>Royal assent received</StatusName>
+    <LatestCompletedMajorStageId>60046</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>Royal assent</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Sanction royale</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>Royal assent</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>Royal assent</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>2</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>Senate</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Sénat</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>Senate</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60050</OngoingStageId>
+    <OngoingStageNameEn>Royal assent</OngoingStageNameEn>
+    <OngoingStageNameFr>Sanction royale</OngoingStageNameFr>
+    <OngoingStageName>Royal assent</OngoingStageName>
+    <LatestCompletedBillStageId>60050</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Royal assent</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Sanction royale</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Royal assent</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>2</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>Senate</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Sénat</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>Senate</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2024-10-03T10:35:00</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>44</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>89300</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Jonathan</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Wilkinson</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Jonathan Wilkinson</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Energy and Natural Resources</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre de l'Énergie et des Ressources naturelles</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Energy and Natural Resources</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>4</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Minister</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>ministre</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Minister</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>918</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>North Vancouver</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>North Vancouver</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>North Vancouver</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60149</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Royal assent</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Sanction royale</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60050</LatestBillEventStageId>
+    <LatestBillEventTypeName>Royal assent</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2024-10-03T14:00:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>2</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>Senate</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Sénat</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>Senate</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>225</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2023-05-30T10:04:04.66</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime>2023-10-17T15:30:00</PassedHouseSecondReadingDateTime>
+    <PassedHouseThirdReadingDateTime>2024-05-29T16:00:00</PassedHouseThirdReadingDateTime>
+    <PassedSenateFirstReadingDateTime>2024-05-30T10:00:00</PassedSenateFirstReadingDateTime>
+    <PassedSenateSecondReadingDateTime>2024-06-06T10:40:00</PassedSenateSecondReadingDateTime>
+    <PassedSenateThirdReadingDateTime>2024-10-01T10:30:00</PassedSenateThirdReadingDateTime>
+    <ReceivedRoyalAssentDateTime>2024-10-03T10:35:00</ReceivedRoyalAssentDateTime>
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>true</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>true</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>true</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>true</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>true</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information, Education and Research Services of the Library of Parliament. Meanwhile, the following executive summary is available.&lt;br/&gt;&lt;br/&gt;On 30 May 2023, the Minister of Natural Resources introduced Bill C-49, An Act to amend the Canada-Newfoundland and Labrador Atlantic Accord Implementation Act and the Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act and to make consequential amendments to other Acts, and it was given first reading.   &lt;br/&gt;&lt;br/&gt;Bill C-49 amends the Canada–Newfoundland and Labrador Atlantic Accord Implementation Act and the Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act to, among other things,&lt;br/&gt;&lt;br/&gt;(a) change their titles to the Canada–Newfoundland and Labrador Atlantic Accord Implementation and Offshore Renewable Energy Management Act and the Canada–Nova Scotia Offshore Petroleum Resources Accord Implementation and Offshore Renewable Energy Management Act, respectively;&lt;br/&gt;&lt;br/&gt;(b) change the names of the Canada–Newfoundland and Labrador Offshore Petroleum Board and the Canada-Nova Scotia Offshore Petroleum Board to the Canada–Newfoundland and Labrador Offshore Energy Regulator and the Canada–Nova Scotia Offshore Energy Regulator, respectively ("the Regulators");&lt;br/&gt;&lt;br/&gt;(c) establish the Regulators as the regulating bodies for offshore renewable energy projects;&lt;br/&gt;&lt;br/&gt;(d) establish a land tenure regime for the issuance of submerged land licences to carry out offshore renewable energy projects, as well as the revenues regime associated with those licences and projects;&lt;br/&gt;&lt;br/&gt;(e) establish a ministerial decision-making process respecting the issuance of submerged land licences and the Regulators' exercise of certain powers or performance of certain duties;&lt;br/&gt;&lt;br/&gt;(f) expand the application of the safety and environmental protection regime and its enforcement powers to include offshore renewable energy projects;&lt;br/&gt;&lt;br/&gt;(g) provide that the Governor in Council may make regulations to prohibit the commencement or continuation of petroleum resource or renewable energy activities, or the issuance of interests, in respect of any portion of the offshore area that is located in an area that has been or may be identified as an area for environmental or wildlife conservation or protection;&lt;br/&gt;&lt;br/&gt;(h) authorize negotiations for the surrender of an interest, the cancellation of an interest if negotiations fail and the granting of compensation to an interest owner for the surrender or cancellation;&lt;br/&gt;&lt;br/&gt;(i) establish the regulatory and liability regime for abandoned facilities relating to petroleum-related works or activities or offshore renewable energy projects;&lt;br/&gt;&lt;br/&gt;(j) expand the application of the occupational health and safety regime to offshore renewable energy projects;&lt;br/&gt;&lt;br/&gt;(k) allow the federal or provincial governments to unilaterally fund certain expenses incurred by the Regulators as a result of specific requests made by that government;&lt;br/&gt;&lt;br/&gt;(l) allow new methods to demonstrate the existence of significant hydrocarbon accumulations in a geological feature and limit the duration of future significant discovery licences to 25 years;&lt;br/&gt;&lt;br/&gt;(m) provide that the Governor in Council may make regulations to regulate access to offshore infrastructure, including to enforce tolls and tariffs;&lt;br/&gt;&lt;br/&gt;(n) establish a new transboundary hydrocarbon management regime to regulate fields or pools that straddle domestic and international administrative boundaries, enabling the implementation of the Canada-France transboundary fields agreement;&lt;br/&gt;&lt;br/&gt;(o) remove references to the former Canadian Environmental Assessment Act, 2012 and, to align with the Impact Assessment Act, clarify the role of the Federal and Provincial Ministers and Regulators with respect to the conduct of impact assessments of designated projects as well as regional and strategic assessments; and&lt;br/&gt;&lt;br/&gt;(p) specify that the Crown may rely on the Regulators for the purposes of consulting with the Indigenous peoples of Canada and that the Regulators may accommodate adverse impacts to existing Aboriginal and treaty rights recognized and affirmed by section 35 of the Constitution Act, 1982.&lt;br/&gt;&lt;br/&gt;Finally, it makes consequential and terminological amendments to other Acts.&lt;/div&gt;</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>&lt;div&gt;Les Service d'information, d'éducation et de recherche parlementaires de la Bibliothèque du Parlement rédige actuellement le résumé législatif de ce projet de loi.  Entre-temps, le Service met à votre disposition le sommaire suivant.&lt;br/&gt;&lt;br/&gt;Le 30 mai 2023, le ministre des Ressources naturelles a déposé le projet de loi C-49, Loi modifiant la Loi de mise en œuvre de l'Accord atlantique Canada — Terre-Neuve-et-Labrador et la Loi de mise en œuvre de l'Accord Canada — Nouvelle-Écosse sur les hydrocarbures extracôtiers et apportant des modifications corrélatives à d'autres lois, à la Chambre des communes en première lecture.  &lt;br/&gt;&lt;br/&gt;Le projet de loi C-49 modifie la Loi de mise en œuvre de l'Accord atlantique Canada — Terre-Neuve et la Loi de mise en œuvre de l'Accord Canada — Nouvelle-Écosse sur les hydrocarbures extracôtiers (les lois de mise en œuvre) afin, entre autres?:&lt;br/&gt;&lt;br/&gt;a) de les renommer respectivement Loi de mise en œuvre de l'Accord atlantique Canada — Terre-Neuve-et-Labrador et sur la gestion de l'énergie renouvelable extracôtière et Loi de mise en œuvre de l'Accord Canada — Nouvelle-Écosse sur les hydrocarbures extracôtiers et sur la gestion de l'énergie renouvelable extracôtière;&lt;br/&gt;&lt;br/&gt;b) de renommer l'Office Canada — Terre-Neuve et Labrador des hydrocarbures extracôtiers et l'Office Canada — Nouvelle-Écosse des hydrocarbures extracôtiers, qui deviennent respectivement la Régie Canada-Terre-Neuve et Labrador de l'énergie extracôtière et la Régie Canada-Nouvelle-Écosse de l'énergie extracôtière (ci-après appelées «?Régies?»);&lt;br/&gt;&lt;br/&gt;c) d'établir les Régies à titre d'organismes de réglementation des projets d'énergie renouvelable extracôtière;&lt;br/&gt;&lt;br/&gt;d) d'établir, d'une part, le régime foncier pour l'octroi de permis visant des terres submergées afin d'autoriser l'utilisation de zones extracôtières en vue d'effectuer des projets d'énergie renouvelable extracôtière et, d'autre part, le régime de recettes associé à ces permis et à ces projets;&lt;br/&gt;&lt;br/&gt;e) d'établir un processus de décisions ministérielles concernant l'octroi de permis visant des terres submergées et l'exercice, par les Régies, de certaines attributions connexes;&lt;br/&gt;&lt;br/&gt;f) d'étendre l'application du régime de sécurité et de protection de l'environnement, y compris les pouvoirs d'application connexes, aux projets d'énergie renouvelable extracôtière;&lt;br/&gt;&lt;br/&gt;g) de prévoir que le gouverneur en conseil peut prendre des règlements interdisant le début ou la poursuite d'activités liées aux hydrocarbures ou à l'énergie renouvelable ou l'octroi de titres à l'égard de toute partie de la zone extracôtière qui est située dans un secteur qui a été ou pourrait être désigné comme étant un secteur visant la conservation ou la protection de l'environnement ou des espèces sauvages;&lt;br/&gt;&lt;br/&gt;h) d'autoriser la tenue de négociations en vue d'obtenir l'abandon d'un titre et, en cas d'échec des négociations, l'annulation du titre, et l'octroi d'une indemnité à payer au titulaire pour l'abandon ou l'annulation;&lt;br/&gt;&lt;br/&gt;i) d'établir le régime réglementaire et le régime de responsabilité quant aux installations abandonnées liées aux activités relatives aux hydrocarbures ou aux projets d'énergie renouvelable extracôtière;&lt;br/&gt;&lt;br/&gt;j) d'étendre l'application du régime de santé et de sécurité au travail aux projets d'énergie renouvelable extracôtière;&lt;br/&gt;&lt;br/&gt;k) de permettre aux gouvernements fédéral ou provincial de financer unilatéralement les dépenses des Régies qui concernent des demandes spécifiques de chaque gouvernement;&lt;br/&gt;&lt;br/&gt;l) de permettre de nouvelles méthodes pour mettre en évidence l'existence d'une accumulation importante d'hydrocarbures dans une structure géologique et limiter la durée des futures déclarations de découverte significative à vingt-cinq ans;&lt;br/&gt;&lt;br/&gt;m) de prévoir que le gouverneur en conseil peut prendre des règlements régissant l'accès aux infrastructures extracôtières, notamment l'application de droits et de tarifs;&lt;br/&gt;&lt;br/&gt;n) d'établir un nouveau régime de gestion des hydrocarbures transfrontaliers pour régir les champs ou gisements chevauchant les frontières domestiques et internationales en vue de permettre la mise en œuvre de l'accord Canada — France sur les gisements transfrontaliers;&lt;br/&gt;&lt;br/&gt;o) d'enlever les références à la Loi canadienne d'évaluation environnementale (2012) et de clarifier le rôle des ministres fédéral et provincial, de même que celui des Régies, relativement aux évaluations d'impact de projets désignés ainsi qu'aux évaluations régionales et stratégiques, en conformité avec la Loi d'évaluation d'impact;&lt;br/&gt;&lt;br/&gt;p) de préciser que la Couronne peut recourir aux Régies pour la consultation des peuples autochtones du Canada et que les Régies peuvent tenir compte des répercussions sur les droits autochtones reconnus et confirmés par l'article 35 de la Loi constitutionnelle de 1982.&lt;br/&gt;&lt;br/&gt;Finalement, le texte apporte des modifications corrélatives et des modifications terminologiques à d'autres lois.&lt;/div&gt;</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information, Education and Research Services of the Library of Parliament. Meanwhile, the following executive summary is available.&lt;br/&gt;&lt;br/&gt;On 30 May 2023, the Minister of Natural Resources introduced Bill C-49, An Act to amend the Canada-Newfoundland and Labrador Atlantic Accord Implementation Act and the Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act and to make consequential amendments to other Acts, and it was given first reading.   &lt;br/&gt;&lt;br/&gt;Bill C-49 amends the Canada–Newfoundland and Labrador Atlantic Accord Implementation Act and the Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act to, among other things,&lt;br/&gt;&lt;br/&gt;(a) change their titles to the Canada–Newfoundland and Labrador Atlantic Accord Implementation and Offshore Renewable Energy Management Act and the Canada–Nova Scotia Offshore Petroleum Resources Accord Implementation and Offshore Renewable Energy Management Act, respectively;&lt;br/&gt;&lt;br/&gt;(b) change the names of the Canada–Newfoundland and Labrador Offshore Petroleum Board and the Canada-Nova Scotia Offshore Petroleum Board to the Canada–Newfoundland and Labrador Offshore Energy Regulator and the Canada–Nova Scotia Offshore Energy Regulator, respectively ("the Regulators");&lt;br/&gt;&lt;br/&gt;(c) establish the Regulators as the regulating bodies for offshore renewable energy projects;&lt;br/&gt;&lt;br/&gt;(d) establish a land tenure regime for the issuance of submerged land licences to carry out offshore renewable energy projects, as well as the revenues regime associated with those licences and projects;&lt;br/&gt;&lt;br/&gt;(e) establish a ministerial decision-making process respecting the issuance of submerged land licences and the Regulators' exercise of certain powers or performance of certain duties;&lt;br/&gt;&lt;br/&gt;(f) expand the application of the safety and environmental protection regime and its enforcement powers to include offshore renewable energy projects;&lt;br/&gt;&lt;br/&gt;(g) provide that the Governor in Council may make regulations to prohibit the commencement or continuation of petroleum resource or renewable energy activities, or the issuance of interests, in respect of any portion of the offshore area that is located in an area that has been or may be identified as an area for environmental or wildlife conservation or protection;&lt;br/&gt;&lt;br/&gt;(h) authorize negotiations for the surrender of an interest, the cancellation of an interest if negotiations fail and the granting of compensation to an interest owner for the surrender or cancellation;&lt;br/&gt;&lt;br/&gt;(i) establish the regulatory and liability regime for abandoned facilities relating to petroleum-related works or activities or offshore renewable energy projects;&lt;br/&gt;&lt;br/&gt;(j) expand the application of the occupational health and safety regime to offshore renewable energy projects;&lt;br/&gt;&lt;br/&gt;(k) allow the federal or provincial governments to unilaterally fund certain expenses incurred by the Regulators as a result of specific requests made by that government;&lt;br/&gt;&lt;br/&gt;(l) allow new methods to demonstrate the existence of significant hydrocarbon accumulations in a geological feature and limit the duration of future significant discovery licences to 25 years;&lt;br/&gt;&lt;br/&gt;(m) provide that the Governor in Council may make regulations to regulate access to offshore infrastructure, including to enforce tolls and tariffs;&lt;br/&gt;&lt;br/&gt;(n) establish a new transboundary hydrocarbon management regime to regulate fields or pools that straddle domestic and international administrative boundaries, enabling the implementation of the Canada-France transboundary fields agreement;&lt;br/&gt;&lt;br/&gt;(o) remove references to the former Canadian Environmental Assessment Act, 2012 and, to align with the Impact Assessment Act, clarify the role of the Federal and Provincial Ministers and Regulators with respect to the conduct of impact assessments of designated projects as well as regional and strategic assessments; and&lt;br/&gt;&lt;br/&gt;(p) specify that the Crown may rely on the Regulators for the purposes of consulting with the Indigenous peoples of Canada and that the Regulators may accommodate adverse impacts to existing Aboriginal and treaty rights recognized and affirmed by section 35 of the Constitution Act, 1982.&lt;br/&gt;&lt;br/&gt;Finally, it makes consequential and terminological amendments to other Acts.&lt;/div&gt;</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear>2024</StatuteYear>
+    <StatuteChapter>20</StatuteChapter>
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2023-05-30T10:04:04.66</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>202</Number>
+          <Date>2023-05-30T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2023-05-30T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2023-05-30T10:04:04.66</EventStartDateTime>
+          <EventEndDateTime>2023-05-30T10:04:04.66</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2023-05-30T10:04:04.66</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2023-10-17T15:30:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>27196</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>RNNR</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Natural Resources</CommitteeName>
+          <StudyActivityId>12372347</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>220</Number>
+          <Date>2023-09-19T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>231</Number>
+          <Date>2023-10-06T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>232</Number>
+          <Date>2023-10-16T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>233</Number>
+          <Date>2023-10-17T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>12367357</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>12464494</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>2nd reading and referral to committee - RNNR</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>2e lecture et renvoi en comité - RNNR</DecisionMotionTitleFr>
+          <DecisionMotionTitle>2nd reading and referral to committee - RNNR</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>10</DecisionMethodId>
+          <DecisionMethodNameEn>On recorded division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Suivant un vote par appel nominal</DecisionMethodNameFr>
+          <DecisionMethodName>On recorded division</DecisionMethodName>
+          <DivisionNumber>420</DivisionNumber>
+          <DivisionVotesYeas>210</DivisionVotesYeas>
+          <DivisionVotesNays>113</DivisionVotesNays>
+          <DivisionVotePaired>4</DivisionVotePaired>
+          <DecisionSittingDate>2023-10-17T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>233</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60121</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading and referral to committee</EventNameEn>
+          <EventNameFr>Deuxième lecture et renvoi en comité</EventNameFr>
+          <EventName>Second reading and referral to committee</EventName>
+          <EventDateTime>2023-10-17T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60121</EventTypeId>
+          <EventTypeNameEn>Second reading and referral to committee</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture et renvoi en comité</EventTypeNameFr>
+          <EventTypeName>Second reading and referral to committee</EventTypeName>
+          <EventStartDateTime>2023-10-17T15:30:00</EventStartDateTime>
+          <EventEndDateTime>2023-10-17T15:30:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2023-10-17T15:30:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>12320873</InterventionEventId>
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>89300</PersonId>
+          <PersonOfficialFirstName>Jonathan</PersonOfficialFirstName>
+          <PersonOfficialLastName>Wilkinson</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Jonathan Wilkinson</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>220</MeetingNumber>
+          <SpeechDateTime>2023-09-19T10:26:24</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>12320932</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>89198</PersonId>
+          <PersonOfficialFirstName>Shannon</PersonOfficialFirstName>
+          <PersonOfficialLastName>Stubbs</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Shannon Stubbs</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>220</MeetingNumber>
+          <SpeechDateTime>2023-09-19T10:52:00</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>12321110</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>104773</PersonId>
+          <PersonOfficialFirstName>Mario</PersonOfficialFirstName>
+          <PersonOfficialLastName>Simard</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Mario Simard</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Bloc Québécois</CaucusShortNameEn>
+          <CaucusShortNameFr>Bloc Québécois</CaucusShortNameFr>
+          <CaucusShortName>Bloc Québécois</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>220</MeetingNumber>
+          <SpeechDateTime>2023-09-19T11:22:43</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>12321376</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>25470</PersonId>
+          <PersonOfficialFirstName>Charlie</PersonOfficialFirstName>
+          <PersonOfficialLastName>Angus</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Charlie Angus</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>NDP</CaucusShortNameEn>
+          <CaucusShortNameFr>NPD</CaucusShortNameFr>
+          <CaucusShortName>NDP</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>220</MeetingNumber>
+          <SpeechDateTime>2023-09-19T11:53:24</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2024-04-18T09:07:04.293</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>27196</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>RNNR</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Natural Resources</CommitteeName>
+          <StudyActivityId>12372347</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented with amendments</NameEn>
+          <NameFr>Présentation du rapport de comité avec des amendements</NameFr>
+          <Name>Committee report presented with amendments</Name>
+          <Number>302</Number>
+          <Date>2024-04-18T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27196</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>RNNR</CommitteeAcronym>
+          <Number>81</Number>
+          <Date>2024-01-29T00:00:00</Date>
+          <CommitteeName>Standing Committee on Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27196</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>RNNR</CommitteeAcronym>
+          <Number>82</Number>
+          <Date>2024-02-01T00:00:00</Date>
+          <CommitteeName>Standing Committee on Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27196</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>RNNR</CommitteeAcronym>
+          <Number>83</Number>
+          <Date>2024-02-05T00:00:00</Date>
+          <CommitteeName>Standing Committee on Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27196</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>RNNR</CommitteeAcronym>
+          <Number>84</Number>
+          <Date>2024-02-08T00:00:00</Date>
+          <CommitteeName>Standing Committee on Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27196</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>RNNR</CommitteeAcronym>
+          <Number>85</Number>
+          <Date>2024-02-12T00:00:00</Date>
+          <CommitteeName>Standing Committee on Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27196</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>RNNR</CommitteeAcronym>
+          <Number>86</Number>
+          <Date>2024-02-15T00:00:00</Date>
+          <CommitteeName>Standing Committee on Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27196</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>RNNR</CommitteeAcronym>
+          <Number>87</Number>
+          <Date>2024-02-26T00:00:00</Date>
+          <CommitteeName>Standing Committee on Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27196</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>RNNR</CommitteeAcronym>
+          <Number>88</Number>
+          <Date>2024-02-29T00:00:00</Date>
+          <CommitteeName>Standing Committee on Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27196</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>RNNR</CommitteeAcronym>
+          <Number>89</Number>
+          <Date>2024-03-18T00:00:00</Date>
+          <CommitteeName>Standing Committee on Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27196</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>RNNR</CommitteeAcronym>
+          <Number>90</Number>
+          <Date>2024-03-21T00:00:00</Date>
+          <CommitteeName>Standing Committee on Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27196</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>RNNR</CommitteeAcronym>
+          <Number>91</Number>
+          <Date>2024-04-08T00:00:00</Date>
+          <CommitteeName>Standing Committee on Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27196</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>RNNR</CommitteeAcronym>
+          <Number>92</Number>
+          <Date>2024-04-11T00:00:00</Date>
+          <CommitteeName>Standing Committee on Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented with amendments</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité avec des amendements</EventNameFr>
+          <EventName>Committee report presented with amendments</EventName>
+          <EventDateTime>2024-04-18T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId>12937320</CommitteeReportId>
+          <CommitteeReportNumber>13</CommitteeReportNumber>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2024-04-18T09:07:04.293</EventStartDateTime>
+          <EventEndDateTime>2024-04-18T09:07:04.293</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2024-04-18T09:07:04.293</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2024-05-02T12:15:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>307</Number>
+          <Date>2024-05-02T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60285</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Concurrence at report stage</EventNameEn>
+          <EventNameFr>Adoption à l'étape du rapport</EventNameFr>
+          <EventName>Concurrence at report stage</EventName>
+          <EventDateTime>2024-05-02T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60285</EventTypeId>
+          <EventTypeNameEn>Concurrence at report stage</EventTypeNameEn>
+          <EventTypeNameFr>Adoption à l'étape du rapport</EventTypeNameFr>
+          <EventTypeName>Concurrence at report stage</EventTypeName>
+          <EventStartDateTime>2024-05-02T12:15:00</EventStartDateTime>
+          <EventEndDateTime>2024-05-02T12:15:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2024-05-02T12:15:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2024-05-29T16:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>307</Number>
+          <Date>2024-05-02T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>318</Number>
+          <Date>2024-05-27T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>319</Number>
+          <Date>2024-05-28T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>320</Number>
+          <Date>2024-05-29T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2024-05-29T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2024-05-29T16:00:00</EventStartDateTime>
+          <EventEndDateTime>2024-05-29T16:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2024-05-29T16:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2024-05-30T10:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>First reading</NameEn>
+          <NameFr>Première lecture</NameFr>
+          <Name>First reading</Name>
+          <Number>206</Number>
+          <Date>2024-05-30T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60111</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>First reading</EventNameEn>
+          <EventNameFr>Première lecture</EventNameFr>
+          <EventName>First reading</EventName>
+          <EventDateTime>2024-05-30T10:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60111</EventTypeId>
+          <EventTypeNameEn>First reading</EventTypeNameEn>
+          <EventTypeNameFr>Première lecture</EventTypeNameFr>
+          <EventTypeName>First reading</EventTypeName>
+          <EventStartDateTime>2024-05-30T10:00:00</EventStartDateTime>
+          <EventEndDateTime>2024-05-30T10:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2024-05-30T10:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2024-06-06T10:40:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16096</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'énergie, de l'environnement et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>ENEV</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>207</Number>
+          <Date>2024-06-04T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>209</Number>
+          <Date>2024-06-06T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60120</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading</EventNameEn>
+          <EventNameFr>Deuxième lecture</EventNameFr>
+          <EventName>Second reading</EventName>
+          <EventDateTime>2024-06-06T10:40:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <SignificantEvents>
+          <EventTypeId>60123</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Referral to committee</EventNameEn>
+          <EventNameFr>Renvoi en comité</EventNameFr>
+          <EventName>Referral to committee</EventName>
+          <EventDateTime>2024-06-06T10:45:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60120</EventTypeId>
+          <EventTypeNameEn>Second reading</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture</EventTypeNameFr>
+          <EventTypeName>Second reading</EventTypeName>
+          <EventStartDateTime>2024-06-06T10:40:00</EventStartDateTime>
+          <EventEndDateTime>2024-06-06T10:40:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2024-06-06T10:45:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>115479</PersonId>
+          <PersonOfficialFirstName>Iris G.</PersonOfficialFirstName>
+          <PersonOfficialLastName>Petten</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Iris G. Petten</PersonName>
+          <SenateSystemAffiliationId>231349</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Independent Senators Group</CaucusShortNameEn>
+          <CaucusShortNameFr>Groupe des sénateurs indépendants</CaucusShortNameFr>
+          <CaucusShortName>Independent Senators Group</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>207</MeetingNumber>
+          <SpeechDateTime>2024-06-04T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/441/debates/207db_2024-06-04-e#74</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/441/debates/207db_2024-06-04-f#74</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/441/debates/207db_2024-06-04-e#74</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>77766</PersonId>
+          <PersonOfficialFirstName>David Mark</PersonOfficialFirstName>
+          <PersonOfficialLastName>Wells</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>David Mark Wells</PersonName>
+          <SenateSystemAffiliationId>3568</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>209</MeetingNumber>
+          <SpeechDateTime>2024-06-06T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/441/debates/209db_2024-06-06-e#71</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/441/debates/209db_2024-06-06-f#71</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/441/debates/209db_2024-06-06-e#71</Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>true</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2024-09-25T10:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16096</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'énergie, de l'environnement et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>ENEV</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented with an amendment</NameEn>
+          <NameFr>Présentation du rapport de comité avec un amendement</NameFr>
+          <Name>Committee report presented with an amendment</Name>
+          <Number>221</Number>
+          <Date>2024-09-25T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16096</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'énergie, de l'environnement et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>ENEV</CommitteeAcronym>
+          <Number>71</Number>
+          <Date>2024-06-11T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16096</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'énergie, de l'environnement et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>ENEV</CommitteeAcronym>
+          <Number>72</Number>
+          <Date>2024-06-13T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16096</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'énergie, de l'environnement et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>ENEV</CommitteeAcronym>
+          <Number>73</Number>
+          <Date>2024-06-17T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16096</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'énergie, de l'environnement et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>ENEV</CommitteeAcronym>
+          <Number>74</Number>
+          <Date>2024-06-18T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16096</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'énergie, de l'environnement et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>ENEV</CommitteeAcronym>
+          <Number>75</Number>
+          <Date>2024-09-17T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16096</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'énergie, de l'environnement et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>ENEV</CommitteeAcronym>
+          <Number>76</Number>
+          <Date>2024-09-19T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16096</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'énergie, de l'environnement et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>ENEV</CommitteeAcronym>
+          <Number>77</Number>
+          <Date>2024-09-24T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented with an amendment</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité avec un amendement</EventNameFr>
+          <EventName>Committee report presented with an amendment</EventName>
+          <EventDateTime>2024-09-25T10:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2024-09-25T10:00:00</EventStartDateTime>
+          <EventEndDateTime>2024-09-25T10:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2024-09-25T10:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2024-09-26T10:05:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16096</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de l'énergie, de l'environnement et des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>ENEV</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Energy, the Environment and Natural Resources</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at consideration of committee report</NameEn>
+          <NameFr>Débat à l'étape de l'étude du rapport de comité</NameFr>
+          <Name>Debate at consideration of committee report</Name>
+          <Number>222</Number>
+          <Date>2024-09-26T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60129</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report defeated</EventNameEn>
+          <EventNameFr>Rejet du rapport de comité</EventNameFr>
+          <EventName>Committee report defeated</EventName>
+          <EventDateTime>2024-09-26T10:05:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60129</EventTypeId>
+          <EventTypeNameEn>Committee report defeated</EventTypeNameEn>
+          <EventTypeNameFr>Rejet du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report defeated</EventTypeName>
+          <EventStartDateTime>2024-09-26T10:05:00</EventStartDateTime>
+          <EventEndDateTime>2024-09-26T10:05:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2024-09-26T10:05:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2024-10-01T10:30:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>223</Number>
+          <Date>2024-10-01T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2024-10-01T10:30:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2024-10-01T10:30:00</EventStartDateTime>
+          <EventEndDateTime>2024-10-01T10:30:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2024-10-01T10:30:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <RoyalAssent>
+        <BillStageId>60050</BillStageId>
+        <BillStageNameEn>Royal assent</BillStageNameEn>
+        <BillStageNameFr>Sanction royale</BillStageNameFr>
+        <BillStageName>Royal assent</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>0</State>
+        <StateNameEn />
+        <StateNameFr />
+        <StateAsOfDate />
+        <StateName />
+        <Committee />
+        <Sittings>
+          <NameEn>Royal assent</NameEn>
+          <NameFr>Sanction royale</NameFr>
+          <Name>Royal assent</Name>
+          <Number>225</Number>
+          <Date>2024-10-03T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60149</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Royal assent</EventNameEn>
+          <EventNameFr>Sanction royale</EventNameFr>
+          <EventName>Royal assent</EventName>
+          <EventDateTime>2024-10-03T10:35:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60149</EventTypeId>
+          <EventTypeNameEn>Royal assent</EventTypeNameEn>
+          <EventTypeNameFr>Sanction royale</EventTypeNameFr>
+          <EventTypeName>Royal assent</EventTypeName>
+          <EventStartDateTime>2024-10-03T10:35:00</EventStartDateTime>
+          <EventEndDateTime>2024-10-03T10:35:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2024-10-03T10:35:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </RoyalAssent>
+    </BillStages>
+    <Publications>
+      <PublicationId>12469477</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>13030251</PublicationId>
+      <PublicationTypeId>80702</PublicationTypeId>
+      <PublicationTypeNameEn>As amended by committee</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel que modifié par le comité</PublicationTypeNameFr>
+      <PublicationTypeName>As amended by committee</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>13133287</PublicationId>
+      <PublicationTypeId>80703</PublicationTypeId>
+      <PublicationTypeNameEn>As passed by the House of Commons</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel qu'adopté par la Chambre des communes</PublicationTypeNameFr>
+      <PublicationTypeName>As passed by the House of Commons</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>13304823</PublicationId>
+      <PublicationTypeId>80704</PublicationTypeId>
+      <PublicationTypeNameEn>Royal Assent</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Royal Assent</PublicationTypeNameFr>
+      <PublicationTypeName>Royal Assent</PublicationTypeName>
+    </Publications>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>418</DivisionNumber>
+      <DivisionSubjectEn>Time allocation for Bill C-49, An Act to amend the Canada—Newfoundland and Labrador Atlantic Accord Implementation Act and the Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act and to make consequential amendments to other Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>Attribution de temps pour le projet de loi C-49, Loi modifiant la Loi de mise en œuvre de l'Accord atlantique Canada — Terre-Neuve-et-Labrador et la Loi de mise en œuvre de l'Accord Canada — Nouvelle-Écosse sur les hydrocarbures extracôtiers et apportant des modifications corrélatives à d'autres lois</DivisionSubjectFr>
+      <DivisionSubject>Time allocation for Bill C-49, An Act to amend the Canada—Newfoundland and Labrador Atlantic Accord Implementation Act and the Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act and to make consequential amendments to other Acts</DivisionSubject>
+      <DivisionVotesYeas>177</DivisionVotesYeas>
+      <DivisionVotesNays>149</DivisionVotesNays>
+      <DivisionVotePaired>4</DivisionVotePaired>
+      <DivisionVoteTotal>330</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2023-10-16T11:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>419</DivisionNumber>
+      <DivisionSubjectEn>2nd reading of Bill C-49, An Act to amend the Canada—Newfoundland and Labrador Atlantic Accord Implementation Act and the Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act and to make consequential amendments to other Acts (reasoned amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>2e lecture du projet de loi C-49, Loi modifiant la Loi de mise en œuvre de l'Accord atlantique Canada — Terre-Neuve-et-Labrador et la Loi de mise en œuvre de l'Accord Canada — Nouvelle-Écosse sur les hydrocarbures extracôtiers et apportant des modifications corrélatives à d'autres lois (amendement motivé)</DivisionSubjectFr>
+      <DivisionSubject>2nd reading of Bill C-49, An Act to amend the Canada—Newfoundland and Labrador Atlantic Accord Implementation Act and the Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act and to make consequential amendments to other Acts (reasoned amendment)</DivisionSubject>
+      <DivisionVotesYeas>114</DivisionVotesYeas>
+      <DivisionVotesNays>209</DivisionVotesNays>
+      <DivisionVotePaired>4</DivisionVotePaired>
+      <DivisionVoteTotal>327</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2023-10-17T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>420</DivisionNumber>
+      <DivisionSubjectEn>2nd reading of Bill C-49, An Act to amend the Canada—Newfoundland and Labrador Atlantic Accord Implementation Act and the Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act and to make consequential amendments to other Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>2e lecture du projet de loi C-49, Loi modifiant la Loi de mise en œuvre de l'Accord atlantique Canada — Terre-Neuve-et-Labrador et la Loi de mise en œuvre de l'Accord Canada — Nouvelle-Écosse sur les hydrocarbures extracôtiers et apportant des modifications corrélatives à d'autres lois</DivisionSubjectFr>
+      <DivisionSubject>2nd reading of Bill C-49, An Act to amend the Canada—Newfoundland and Labrador Atlantic Accord Implementation Act and the Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act and to make consequential amendments to other Acts</DivisionSubject>
+      <DivisionVotesYeas>210</DivisionVotesYeas>
+      <DivisionVotesNays>113</DivisionVotesNays>
+      <DivisionVotePaired>4</DivisionVotePaired>
+      <DivisionVoteTotal>327</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2023-10-17T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>750</DivisionNumber>
+      <DivisionSubjectEn>Concurrence at report stage of Bill C-49, An Act to amend the Canada—Newfoundland and Labrador Atlantic Accord Implementation Act and the Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act and to make consequential amendments to other Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>Adoption à l'étape du rapport du projet de loi C-49, Loi modifiant la Loi de mise en œuvre de l'Accord atlantique Canada — Terre-Neuve-et-Labrador et la Loi de mise en œuvre de l'Accord Canada — Nouvelle-Écosse sur les hydrocarbures extracôtiers et apportant des modifications corrélatives à d'autres lois</DivisionSubjectFr>
+      <DivisionSubject>Concurrence at report stage of Bill C-49, An Act to amend the Canada—Newfoundland and Labrador Atlantic Accord Implementation Act and the Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act and to make consequential amendments to other Acts</DivisionSubject>
+      <DivisionVotesYeas>177</DivisionVotesYeas>
+      <DivisionVotesNays>142</DivisionVotesNays>
+      <DivisionVotePaired>2</DivisionVotePaired>
+      <DivisionVoteTotal>321</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2024-05-02T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>772</DivisionNumber>
+      <DivisionSubjectEn>Time allocation for Bill C-49, An Act to amend the Canada—Newfoundland and Labrador Atlantic Accord Implementation Act and the Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act and to make consequential amendments to other Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>Attribution de temps pour le projet de loi C-49, Loi modifiant la Loi de mise en œuvre de l'Accord atlantique Canada — Terre-Neuve-et-Labrador et la Loi de mise en œuvre de l'Accord Canada — Nouvelle-Écosse sur les hydrocarbures extracôtiers et apportant des modifications corrélatives à d'autres lois</DivisionSubjectFr>
+      <DivisionSubject>Time allocation for Bill C-49, An Act to amend the Canada—Newfoundland and Labrador Atlantic Accord Implementation Act and the Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act and to make consequential amendments to other Acts</DivisionSubject>
+      <DivisionVotesYeas>170</DivisionVotesYeas>
+      <DivisionVotesNays>147</DivisionVotesNays>
+      <DivisionVotePaired>4</DivisionVotePaired>
+      <DivisionVoteTotal>321</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2024-05-27T11:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>787</DivisionNumber>
+      <DivisionSubjectEn>Bill C-49, An Act to amend the Canada—Newfoundland and Labrador Atlantic Accord Implementation Act and the Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act and to make consequential amendments to other Acts (recommittal to a committee)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-49, Loi modifiant la Loi de mise en œuvre de l'Accord atlantique Canada — Terre-Neuve-et-Labrador et la Loi de mise en œuvre de l'Accord Canada — Nouvelle-Écosse sur les hydrocarbures extracôtiers et apportant des modifications corrélatives à d'autres lois (nouveau renvoi à un comité)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-49, An Act to amend the Canada—Newfoundland and Labrador Atlantic Accord Implementation Act and the Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act and to make consequential amendments to other Acts (recommittal to a committee)</DivisionSubject>
+      <DivisionVotesYeas>116</DivisionVotesYeas>
+      <DivisionVotesNays>205</DivisionVotesNays>
+      <DivisionVotePaired>8</DivisionVotePaired>
+      <DivisionVoteTotal>329</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2024-05-29T14:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>788</DivisionNumber>
+      <DivisionSubjectEn>3rd reading and adoption of Bill C-49, An Act to amend the Canada—Newfoundland and Labrador Atlantic Accord Implementation Act and the Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act and to make consequential amendments to other Acts</DivisionSubjectEn>
+      <DivisionSubjectFr>3e lecture et adoption du projet de loi C-49, Loi modifiant la Loi de mise en œuvre de l'Accord atlantique Canada — Terre-Neuve-et-Labrador et la Loi de mise en œuvre de l'Accord Canada — Nouvelle-Écosse sur les hydrocarbures extracôtiers et apportant des modifications corrélatives à d'autres lois</DivisionSubjectFr>
+      <DivisionSubject>3rd reading and adoption of Bill C-49, An Act to amend the Canada—Newfoundland and Labrador Atlantic Accord Implementation Act and the Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act and to make consequential amendments to other Acts</DivisionSubject>
+      <DivisionVotesYeas>176</DivisionVotesYeas>
+      <DivisionVotesNays>144</DivisionVotesNays>
+      <DivisionVotePaired>8</DivisionVotePaired>
+      <DivisionVoteTotal>328</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2024-05-29T14:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Charter Statement - Bill C-49: An Act to amend the Canada-Newfoundland and Labrador Atlantic Accord Implementation Act and the Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act (Tabled on 2023-06-12)</TitleEn>
+      <TitleFr>Énoncé concernant la Charte - Projet de loi C-49 : Loi modifiant la Loi de mise en œuvre de l'Accord atlantique Canada — Terre-Neuve-et-Labrador et la Loi de mise en œuvre de l'Accord Canada — Nouvelle-Écosse sur les hydrocarbures extracôtiers (Déposé le 2023-06-12)</TitleFr>
+      <Title>Charter Statement - Bill C-49: An Act to amend the Canada-Newfoundland and Labrador Atlantic Accord Implementation Act and the Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act (Tabled on 2023-06-12)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.justice.gc.ca/eng/csj-sjc/pl/charter-charte/c49.html</UrlEn>
+      <UrlFr>https://www.justice.gc.ca/fra/sjc-csj/pl/charte-charter/c49.html</UrlFr>
+      <Url>https://www.justice.gc.ca/eng/csj-sjc/pl/charter-charte/c49.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Impact Assessment Agency of Canada. Regional Assessment of Offshore Wind Development in Nova Scotia.</TitleEn>
+      <TitleFr>Agence d'évaluation d'impact du Canada. Évaluation régionale de l'exploitation de l'énergie éolienne extracôtière en Nouvelle-Écosse.</TitleFr>
+      <Title>Impact Assessment Agency of Canada. Regional Assessment of Offshore Wind Development in Nova Scotia.</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://iaac-aeic.gc.ca/050/evaluations/proj/83514?culture=en-CA</UrlEn>
+      <UrlFr>https://iaac-aeic.gc.ca/050/evaluations/proj/83514?culture=fr-CA</UrlFr>
+      <Url>https://iaac-aeic.gc.ca/050/evaluations/proj/83514?culture=en-CA</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Government of Nova Scotia. Nova Scotia Offshore Wind Roadmap: Module 1 (Draft), May 2023.</TitleEn>
+      <TitleFr>Government of Nova Scotia. Nova Scotia Offshore Wind Roadmap: Module 1 (Draft), May 2023. (Disponible en anglais seulement)</TitleFr>
+      <Title>Government of Nova Scotia. Nova Scotia Offshore Wind Roadmap: Module 1 (Draft), May 2023.</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://novascotia.ca/offshore-wind/docs/offshore-wind-roadmap.pdf</UrlEn>
+      <UrlFr>https://novascotia.ca/offshore-wind/docs/offshore-wind-roadmap.pdf</UrlFr>
+      <Url>https://novascotia.ca/offshore-wind/docs/offshore-wind-roadmap.pdf</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Building Offshore Renewables in Newfoundland and Labrador and Nova Scotia (2023-05-30 | Department of Natural Resources)</TitleEn>
+      <TitleFr>Mise en valeur de l'énergie renouvelable extracôtière à Terre-Neuve-et-Labrador et en Nouvelle-Écosse (2023-05-30 | Ministère des Ressources naturelles)</TitleFr>
+      <Title>Building Offshore Renewables in Newfoundland and Labrador and Nova Scotia (2023-05-30 | Department of Natural Resources)</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/natural-resources-canada/news/2023/05/building-offshore-renewables-in-newfoundland-and-labrador-and-nova-scotia.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/ressources-naturelles-canada/nouvelles/2023/05/mise-en-valeur-de-lenergie-renouvelable-extracotiere-a-terre-neuve-et-labrador-et-en-nouvelle-ecosse.html</UrlFr>
+      <Url>https://www.canada.ca/en/natural-resources-canada/news/2023/05/building-offshore-renewables-in-newfoundland-and-labrador-and-nova-scotia.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>The Accord Acts and the Joint Management Regimes in Nova Scotia and Newfoundland and Labrador (2023-05-30 | Department of Natural Resources)</TitleEn>
+      <TitleFr>Les lois de mise en œuvre des accords et les régimes de gestion conjointe en Nouvelle-Écosse et à Terre-Neuve-et-Labrador (2023-05-30 | Ministère des Ressources naturelles)</TitleFr>
+      <Title>The Accord Acts and the Joint Management Regimes in Nova Scotia and Newfoundland and Labrador (2023-05-30 | Department of Natural Resources)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/natural-resources-canada/news/2023/05/the-accord-acts-and-the-joint-management-regimes-in-nova-scotia-and-newfoundland-and-labrador.html</UrlEn>
+      <UrlFr>canada.ca/fr/ressources-naturelles-canada/nouvelles/2023/05/les-lois-de-mise-en-uvre-des-accords-et-les-regimes-de-gestion-conjointe-en-nouvelle-ecosse-et-a-terre-neuve-et-labrador.html</UrlFr>
+      <Url>https://www.canada.ca/en/natural-resources-canada/news/2023/05/the-accord-acts-and-the-joint-management-regimes-in-nova-scotia-and-newfoundland-and-labrador.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Government of Canada and Nova Scotia Moving Forward to Seize the Enormous Economic Opportunities of Offshore Wind (2025-01-31 | Department of Natural Resources)</TitleEn>
+      <TitleFr>Le gouvernement du Canada et la Nouvelle-Écosse passent à l'action pour valoriser l'énorme potentiel économique de l'éolien marin (2025-01-31 | Ministère des Ressources naturelles)</TitleFr>
+      <Title>Government of Canada and Nova Scotia Moving Forward to Seize the Enormous Economic Opportunities of Offshore Wind (2025-01-31 | Department of Natural Resources)</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/natural-resources-canada/news/2025/01/government-of-canada-and-nova-scotia-moving-forward-to-seize-the-enormous-economic-opportunities-of-offshore-wind.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/ressources-naturelles-canada/nouvelles/2025/01/le-gouvernement-du-canada-et-la-nouvelle-ecosse-passent-a-laction-pour-valoriser-lenorme-potentiel-economique-de-leolien-marin.html</UrlFr>
+      <Url>https://www.canada.ca/en/natural-resources-canada/news/2025/01/government-of-canada-and-nova-scotia-moving-forward-to-seize-the-enormous-economic-opportunities-of-offshore-wind.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Chapter 5 of the Acts of 2024, the Advancing Nova Scotia Opportunities Act (SNS 2024, c 5)</TitleEn>
+      <TitleFr>Chapter 5 of the Acts of 2024, the Advancing Nova Scotia Opportunities Act (SNS 2024, c 5) (Disponible en anglais seulement.)</TitleFr>
+      <Title>Chapter 5 of the Acts of 2024, the Advancing Nova Scotia Opportunities Act (SNS 2024, c 5)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://nslegislature.ca/legc/bills/64th_1st/3rd_read/b471.htm</UrlEn>
+      <UrlFr>https://nslegislature.ca/legc/bills/64th_1st/3rd_read/b471.htm</UrlFr>
+      <Url>https://nslegislature.ca/legc/bills/64th_1st/3rd_read/b471.htm</Url>
+    </WebReferences>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
