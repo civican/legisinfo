@@ -27,11 +27,11 @@ and Development Act
 
 Section 10 of the `Department of Foreign Affairs, Trade and Development Act` is amended by adding the following after subsection (3):
 
-**(4)** In exercising his or her powers, duties and functions under this Act in respect of the conduct of the external affairs of Canada, the Minister is to publish, at least once in every calendar year, **a report that includes**
+**(4)** In exercising his or her powers, duties and functions under this Act in respect of the conduct of the external affairs of Canada, the Minister is to publish, at least once in every calendar year, a report that includes
 
-  **an outline of** the measures that the **Government of Canada** has taken to advance human rights internationally as part of Canada's foreign policy;
+  an outline of the measures that the Government of Canada has taken to advance human rights internationally as part of Canada's foreign policy;
 
-  a list that sets out the **following information relating to** prisoners of conscience for whose release the Government of Canada is actively working:
+  a list that sets out the following information relating to prisoners of conscience for whose release the Government of Canada is actively working:
 
   the number of prisoners of conscience detained by each government or detaining authority,
 
@@ -47,9 +47,7 @@ Section 10 of the `Department of Foreign Affairs, Trade and Development Act` is 
 
 **(5)** In preparing the list referred to in paragraph (4)(b), the Minister must make all reasonable efforts to consult with family members or representatives of the prisoners of conscience and may decide not to include certain information in the list if a person consulted by the Minister requests that the information not be included, or the Minister is satisfied that not including it would be in the best interests of the advancement of human rights or the personal safety of the prisoner.
 
-**(6)** The Minister must develop and maintain a government-wide international human rights strategy.
-
-**(7)** In this section, **prisoner of conscience** means an individual who, in contravention of international human rights standards, has been detained or otherwise physically restricted solely because of their identity or their conscientiously held beliefs, including religious or political beliefs.
+**(6)** In this section, **prisoner of conscience** means an individual who, in contravention of international human rights standards, has been detained or otherwise physically restricted solely because of their identity or their conscientiously held beliefs, including religious or political beliefs.
 
 
 ## Justice for Victims of Corrupt Foreign Officials Act (Sergei Magnitsky Law)
@@ -60,11 +58,11 @@ The `Justice for Victims of Corrupt Foreign Officials Act (Sergei Magnitsky Law)
 
 ### Section 5.1
 
-  **(1)** If a motion adopted by a committee of the Senate, of the House of Commons or of both Houses of Parliament recommends that an order or regulation be considered or made under section 4 in relation to a foreign national, the Minister must prepare a response advising the committee whether or not the order or regulation **has been** made and setting out the reasons for the decision.
+  **(1)** If a motion adopted by a committee of the Senate, of the House of Commons or of both Houses of Parliament recommends that an order or regulation be considered or made under section 4 in relation to a foreign national, the Minister must prepare a response advising the committee whether or not the order or regulation has been made and setting out the reasons for the decision.
 
-  **(2)** The response must be tabled in the Senate or the House of Commons or in both Houses of Parliament, as the case may be, within **the timeline** specified **in the Standing Orders or rules of the Senate for responses to** committee **reports** and must be posted in a prominent location on the website of the Department of Foreign Affairs, Trade and Development on the day after it is tabled.
+  **(2)** The response must be tabled in the Senate or the House of Commons or in both Houses of Parliament, as the case may be, within the timeline specified in the rules of the Senate or the Standing Orders of the House of Commons for responses to committee reports and must be posted in a prominent location on the website of the Department of Foreign Affairs, Trade and Development on the day after it is tabled.
 
-  **(3)** If Parliament is prorogued before the response is tabled, the Minister must post the response in a prominent location on the website of the Department of Foreign Affairs, Trade and Development within the time limit referred to in subsection (2) regarding the tabling of the response. **If Parliament is prorogued or dissolved before the response is tabled**, the response must be tabled as soon as feasible after the commencement of the next session of Parliament.
+  **(3)** If Parliament is prorogued before the response is tabled, the Minister must post the response in a prominent location on the website of the Department of Foreign Affairs, Trade and Development within the time limit referred to in subsection (2) regarding the tabling of the response. If Parliament is prorogued or dissolved before the response is tabled, the response must be tabled as soon as feasible after the commencement of the next session of Parliament.
 
 
 ## Broadcasting Act
@@ -73,7 +71,7 @@ The `Justice for Victims of Corrupt Foreign Officials Act (Sergei Magnitsky Law)
 
 The `Broadcasting Act` is amended by adding the following after subsection 22(1):
 
-**(1.1)** No licence shall be issued or renewed under this Part in relation to a broadcasting undertaking, including one that distributes foreign programming that is — **despite any measure that the Commission could take under this Part** — vulnerable to being **significantly** influenced by a foreign national or entity
+**(1.1)** No licence shall be issued or renewed under this Part in relation to a broadcasting undertaking, including one that distributes foreign programming that is — despite any measure that the Commission could take under this Part — vulnerable to being significantly influenced by a foreign national or entity
 
   that has committed acts or omissions that the Senate or the House of Commons has recognized as genocide; or
 
@@ -88,7 +86,7 @@ Section 4 of the `Prohibiting Cluster Munitions Act` is replaced by the followin
 
 ### Section 4
 
-The purpose of this Act is to implement Canada's commitments under the Convention, **particularly its obligations under Article 5 (Victim assistance) and Article 6 (International cooperation and assistance) of the Convention, prohibit the provision of financial assistance** and to restrict investments in relation to cluster munitions, explosive submunitions and explosive bomblets.
+The purpose of this Act is to implement Canada's commitments under the Convention, particularly its obligations under Article 5 (Victim assistance) and Article 6 (International cooperation and assistance) of the Convention, prohibit the provision of financial assistance and to restrict investments in relation to cluster munitions, explosive submunitions and explosive bomblets.
 
 ### Section 6
 
