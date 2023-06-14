@@ -11,15 +11,15 @@ His Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ### Section 1
 
-  ****(1)**** Subsection 41.12(1) of the `Copyright Act` is replaced by the following:
+  **(1)** Subsection 41.12(1) of the `Copyright Act` is replaced by the following:
 
 ### Section 41.12
 
-      **(1)** Paragraph 41.1(1)(a) does not apply to a person who **circumvents a technological protection measure that protects a lawfully obtained computer program for the purpose of**
+      **(1)** Paragraph 41.1(1)(a) does not apply to a person who circumvents a technological protection measure that protects a lawfully obtained computer program for the purpose of
 
-        obtaining information **that would allow** the person to make the program or a device in which it is embedded interoperable with any other computer program, device or component; or
+        obtaining information that would allow the person to make the program or a device in which it is embedded interoperable with any other computer program, device or component; or
 
-        **making the program** or a device in which it is embedded interoperable with **any other computer program, device or component**.
+        making the program or a device in which it is embedded interoperable with any other computer program, device or component.
 
   **(2)** Subsections 41.12(4) to (7) of the Act are replaced by the following:
 
