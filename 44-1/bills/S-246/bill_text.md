@@ -1,7 +1,5 @@
 # Bill S-246: An Act respecting Lebanese Heritage Month
 
-**Sponsor**: Senator CORDY
-
 ## Summary
 
 This enactment designates the month of November as "Lebanese Heritage Month".
