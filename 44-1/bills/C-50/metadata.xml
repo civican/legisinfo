@@ -1,0 +1,2346 @@
+<Bills>
+  <Bill>
+    <Id>12525473</Id>
+    <NumberCode>C-50</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>50</Number>
+    <LongTitleEn>An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy</LongTitleEn>
+    <LongTitleFr>Loi concernant la responsabilité, la transparence et la mobilisation à l'appui de la création d'emplois durables pour les travailleurs et de la croissance économique dans une économie carboneutre</LongTitleFr>
+    <LongTitle>An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy</LongTitle>
+    <ShortTitleEn>Canadian Sustainable Jobs Act</ShortTitleEn>
+    <ShortTitleFr>Loi canadienne sur les emplois durables</ShortTitleFr>
+    <ShortTitle>Canadian Sustainable Jobs Act</ShortTitle>
+    <StatusId>357</StatusId>
+    <StatusNameEn>Royal assent received</StatusNameEn>
+    <StatusNameFr>Sanction royale reçue</StatusNameFr>
+    <StatusName>Royal assent received</StatusName>
+    <LatestCompletedMajorStageId>60046</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>Royal assent</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Sanction royale</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>Royal assent</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>Royal assent</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>2</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>Senate</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Sénat</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>Senate</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60050</OngoingStageId>
+    <OngoingStageNameEn>Royal assent</OngoingStageNameEn>
+    <OngoingStageNameFr>Sanction royale</OngoingStageNameFr>
+    <OngoingStageName>Royal assent</OngoingStageName>
+    <LatestCompletedBillStageId>60050</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Royal assent</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Sanction royale</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Royal assent</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>2</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>Senate</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Sénat</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>Senate</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2024-06-20T10:55:00</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>44</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>89300</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Jonathan</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Wilkinson</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Jonathan Wilkinson</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Energy and Natural Resources</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre de l'Énergie et des Ressources naturelles</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Energy and Natural Resources</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>4</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Minister</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>ministre</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Minister</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>918</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>North Vancouver</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>North Vancouver</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>North Vancouver</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60149</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Royal assent</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Sanction royale</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60050</LatestBillEventStageId>
+    <LatestBillEventTypeName>Royal assent</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2024-06-20T12:00:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>2</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>Senate</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Sénat</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>Senate</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>216</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2023-06-15T10:07:14.8</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime>2023-10-23T15:15:00</PassedHouseSecondReadingDateTime>
+    <PassedHouseThirdReadingDateTime>2024-04-15T18:55:02</PassedHouseThirdReadingDateTime>
+    <PassedSenateFirstReadingDateTime>2024-04-16T10:00:00</PassedSenateFirstReadingDateTime>
+    <PassedSenateSecondReadingDateTime>2024-05-23T10:15:00</PassedSenateSecondReadingDateTime>
+    <PassedSenateThirdReadingDateTime>2024-06-18T10:30:00</PassedSenateThirdReadingDateTime>
+    <ReceivedRoyalAssentDateTime>2024-06-20T10:55:00</ReceivedRoyalAssentDateTime>
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>true</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>true</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>true</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>true</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>true</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>&lt;div&gt;On May 22, 2024, the Senate adopted the following motion:&lt;p&gt;That, notwithstanding any provision of the Rules, previous order or usual practice, if Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy, is adopted at second reading:&lt;br /&gt;1. it stand referred to the &lt;a href="https://sencanada.ca/en/committees/soci/44-1"&gt;Standing Senate Committee on Social Affairs, Science and Technology&lt;/a&gt;;
+&lt;br /&gt;2. the &lt;a href="https://sencanada.ca/en/committees/enev/44-1"&gt;Standing Senate Committee on Energy, the Environment and Natural Resources&lt;/a&gt; be authorized to examine and report on the subject matter of the bill; and
+&lt;br /&gt;3. during its consideration of the bill, the Standing Senate Committee on Social Affairs, Science and Technology be authorized to take into account any public document or evidence received by the Standing Senate Committee on Energy, the Environment and Natural Resources during its study of the subject matter of the bill, as well as any report from that latter committee on the subject matter of the bill.
+&lt;/p&gt;&lt;/div&gt;</NotesEn>
+    <NotesFr>&lt;div&gt;Le 22 mai 2024, le Sénat a adopté la motion suivante :&lt;p&gt;Que, nonobstant toute disposition du Règlement, tout ordre antérieur ou toute pratique habituelle, si le projet de loi C-50, Loi concernant la responsabilité, la transparence et la mobilisation à l'appui de la création d'emplois durables pour les travailleurs et de la croissance économique dans une économie carboneutre, est adopté à l'étape de la deuxième lecture :
+&lt;br /&gt;1. il soit renvoyé au &lt;a href="https://sencanada.ca/fr/comites/soci/44-1"&gt;Comité sénatorial permanent des affaires sociales, des sciences et de la technologie&lt;/a&gt;;
+&lt;br /&gt;2. le &lt;a href="https://sencanada.ca/fr/comites/enev/44-1"&gt;Comité sénatorial permanent de l'énergie, de l'environnement et des ressources naturelles&lt;/a&gt; soit autorisé à étudier, afin d'en faire rapport, la teneur du projet de loi;
+&lt;br /&gt;3. au cours de son étude du projet de loi, le Comité sénatorial permanent des affaires sociales, des sciences et de la technologie soit autorisé à prendre en considération tout document ou témoignage public reçu par le Comité sénatorial permanent de l'énergie, de l'environnement et des ressources naturelles au cours de son étude de la teneur du projet de loi, ainsi que tout rapport dudit comité sur la teneur du projet de loi.
+&lt;/p&gt;&lt;/div&gt;</NotesFr>
+    <Notes>&lt;div&gt;On May 22, 2024, the Senate adopted the following motion:&lt;p&gt;That, notwithstanding any provision of the Rules, previous order or usual practice, if Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy, is adopted at second reading:&lt;br /&gt;1. it stand referred to the &lt;a href="https://sencanada.ca/en/committees/soci/44-1"&gt;Standing Senate Committee on Social Affairs, Science and Technology&lt;/a&gt;;
+&lt;br /&gt;2. the &lt;a href="https://sencanada.ca/en/committees/enev/44-1"&gt;Standing Senate Committee on Energy, the Environment and Natural Resources&lt;/a&gt; be authorized to examine and report on the subject matter of the bill; and
+&lt;br /&gt;3. during its consideration of the bill, the Standing Senate Committee on Social Affairs, Science and Technology be authorized to take into account any public document or evidence received by the Standing Senate Committee on Energy, the Environment and Natural Resources during its study of the subject matter of the bill, as well as any report from that latter committee on the subject matter of the bill.
+&lt;/p&gt;&lt;/div&gt;</Notes>
+    <ShortLegislativeSummaryEn>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information, Education and Research Services of the Library of Parliament. Meanwhile, the following executive summary is available.&lt;br/&gt;&lt;br/&gt;On 15 June 2023, the Minister of Natural Resources introduced Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (Canadian Sustainable Jobs Act), and it was given first reading.   &lt;br/&gt;&lt;br/&gt;Bill C-50 establishes an accountability, transparency and engagement framework to facilitate and promote economic growth, the creation of sustainable jobs and support for workers and communities in Canada in the shift to a net-zero economy. Accordingly, the enactment&lt;br/&gt;&lt;br/&gt;(a) provides that the Governor in Council may designate a Minister for the purposes of the Act as well as specified Ministers;&lt;br/&gt;&lt;br/&gt;(b) establishes a Sustainable Jobs Partnership Council to provide the Minister and the specified Ministers, through a process of social dialogue, with independent advice with respect to measures to foster the creation of sustainable jobs, measures to support workers, communities and regions in the shift to a net-zero economy and matters referred to it by the Minister;&lt;br/&gt;&lt;br/&gt;(c) requires the tabling of a Sustainable Jobs Action Plan in each House of Parliament every five years;&lt;br/&gt;&lt;br/&gt;(d) provides for the establishment of a Sustainable Jobs Secretariat to support the implementation of the Act; and&lt;br/&gt;&lt;br/&gt;(e) provides for a review of the Act within 10 years of its coming into force and by the end of each subsequent period of 10 years.&lt;/div&gt;</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>&lt;div&gt;Les Service d'information, d'éducation et de recherche parlementaires de la Bibliothèque du Parlement rédige actuellement le résumé législatif de ce projet de loi.  Entre-temps, le Service met à votre disposition le sommaire suivant.&lt;br/&gt;&lt;br/&gt;Le 15 juin 2023, le ministre des Ressources naturelles a déposé le projet de loi C-50, Loi concernant la responsabilité, la transparence et la mobilisation à l'appui de la création d'emplois durables pour les travailleurs et de la croissance économique dans une économie carboneutre (Loi canadienne sur les emplois durables), à la Chambre des communes en première lecture.  &lt;br/&gt;&lt;br/&gt;Le projet de loi C-50 établit un cadre de responsabilité, de transparence et de mobilisation afin de faciliter et de promouvoir la croissance économique, la création d'emplois durables et le soutien pour les travailleurs et les collectivités au Canada dans la transition vers une économie carboneutre. À cette fin, le texte prévoit?:&lt;br/&gt;&lt;br/&gt;a) la désignation, par le gouverneur en conseil, d'un ministre chargé de l'application de la loi ainsi que des ministres responsables;&lt;br/&gt;&lt;br/&gt;b) l'établissement du Conseil du partenariat pour des emplois durables chargé de fournir au ministre et aux ministres responsables, dans le cadre d'un dialogue social, des conseils indépendants sur les mesures visant à favoriser la création d'emplois durables, les mesures visant à épauler les travailleurs, les collectivités et les régions dans la transition vers une économie carboneutre et toute question que lui soumet le ministre;&lt;br/&gt;&lt;br/&gt;c) le dépôt d'un plan d'action pour des emplois durables devant chaque chambre du Parlement tous les cinq ans;&lt;br/&gt;&lt;br/&gt;d) l'établissement, par le ministre, du Secrétariat pour des emplois durables afin d'appuyer la mise en œuvre de la loi;&lt;br/&gt;&lt;br/&gt;e) l'examen de la loi dans les dix ans suivant la date de son entrée en vigueur et à la fin de chaque période de dix ans par la suite.&lt;/div&gt;</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information, Education and Research Services of the Library of Parliament. Meanwhile, the following executive summary is available.&lt;br/&gt;&lt;br/&gt;On 15 June 2023, the Minister of Natural Resources introduced Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (Canadian Sustainable Jobs Act), and it was given first reading.   &lt;br/&gt;&lt;br/&gt;Bill C-50 establishes an accountability, transparency and engagement framework to facilitate and promote economic growth, the creation of sustainable jobs and support for workers and communities in Canada in the shift to a net-zero economy. Accordingly, the enactment&lt;br/&gt;&lt;br/&gt;(a) provides that the Governor in Council may designate a Minister for the purposes of the Act as well as specified Ministers;&lt;br/&gt;&lt;br/&gt;(b) establishes a Sustainable Jobs Partnership Council to provide the Minister and the specified Ministers, through a process of social dialogue, with independent advice with respect to measures to foster the creation of sustainable jobs, measures to support workers, communities and regions in the shift to a net-zero economy and matters referred to it by the Minister;&lt;br/&gt;&lt;br/&gt;(c) requires the tabling of a Sustainable Jobs Action Plan in each House of Parliament every five years;&lt;br/&gt;&lt;br/&gt;(d) provides for the establishment of a Sustainable Jobs Secretariat to support the implementation of the Act; and&lt;br/&gt;&lt;br/&gt;(e) provides for a review of the Act within 10 years of its coming into force and by the end of each subsequent period of 10 years.&lt;/div&gt;</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear>2024</StatuteYear>
+    <StatuteChapter>13</StatuteChapter>
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2023-06-15T10:07:14.8</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>214</Number>
+          <Date>2023-06-15T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2023-06-15T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2023-06-15T10:07:14.8</EventStartDateTime>
+          <EventEndDateTime>2023-06-15T10:07:14.8</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2023-06-15T10:07:14.8</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2023-10-23T15:15:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>27196</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>RNNR</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Natural Resources</CommitteeName>
+          <StudyActivityId>12385014</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>227</Number>
+          <Date>2023-09-29T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>235</Number>
+          <Date>2023-10-19T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Second reading and referral to committee</NameEn>
+          <NameFr>Deuxième lecture et renvoi en comité</NameFr>
+          <Name>Second reading and referral to committee</Name>
+          <Number>237</Number>
+          <Date>2023-10-23T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>12382777</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>12534306</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>2nd reading and referral to committee - RNNR</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>2e lecture et renvoi en comité - RNNR</DecisionMotionTitleFr>
+          <DecisionMotionTitle>2nd reading and referral to committee - RNNR</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>10</DecisionMethodId>
+          <DecisionMethodNameEn>On recorded division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Suivant un vote par appel nominal</DecisionMethodNameFr>
+          <DecisionMethodName>On recorded division</DecisionMethodName>
+          <DivisionNumber>428</DivisionNumber>
+          <DivisionVotesYeas>175</DivisionVotesYeas>
+          <DivisionVotesNays>144</DivisionVotesNays>
+          <DivisionVotePaired>6</DivisionVotePaired>
+          <DecisionSittingDate>2023-10-23T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>237</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60121</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading and referral to committee</EventNameEn>
+          <EventNameFr>Deuxième lecture et renvoi en comité</EventNameFr>
+          <EventName>Second reading and referral to committee</EventName>
+          <EventDateTime>2023-10-23T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60121</EventTypeId>
+          <EventTypeNameEn>Second reading and referral to committee</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture et renvoi en comité</EventTypeNameFr>
+          <EventTypeName>Second reading and referral to committee</EventTypeName>
+          <EventStartDateTime>2023-10-23T15:15:00</EventStartDateTime>
+          <EventEndDateTime>2023-10-23T15:15:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2023-10-23T15:15:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>12347874</InterventionEventId>
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>88994</PersonId>
+          <PersonOfficialFirstName>Julie</PersonOfficialFirstName>
+          <PersonOfficialLastName>Dabrusin</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Julie Dabrusin</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>227</MeetingNumber>
+          <SpeechDateTime>2023-09-29T10:01:47</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>12348069</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>89198</PersonId>
+          <PersonOfficialFirstName>Shannon</PersonOfficialFirstName>
+          <PersonOfficialLastName>Stubbs</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Shannon Stubbs</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>227</MeetingNumber>
+          <SpeechDateTime>2023-09-29T10:32:40</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>12348570</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>88595</PersonId>
+          <PersonOfficialFirstName>Monique</PersonOfficialFirstName>
+          <PersonOfficialLastName>Pauzé</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Monique Pauzé</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Bloc Québécois</CaucusShortNameEn>
+          <CaucusShortNameFr>Bloc Québécois</CaucusShortNameFr>
+          <CaucusShortName>Bloc Québécois</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>227</MeetingNumber>
+          <SpeechDateTime>2023-09-29T12:38:08</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>12348626</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>89032</PersonId>
+          <PersonOfficialFirstName>Daniel</PersonOfficialFirstName>
+          <PersonOfficialLastName>Blaikie</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Daniel Blaikie</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>NDP</CaucusShortNameEn>
+          <CaucusShortNameFr>NPD</CaucusShortNameFr>
+          <CaucusShortName>NDP</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>227</MeetingNumber>
+          <SpeechDateTime>2023-09-29T13:03:52</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2023-12-11T14:01:42.71</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>27196</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>RNNR</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Natural Resources</CommitteeName>
+          <StudyActivityId>12385014</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented with amendments</NameEn>
+          <NameFr>Présentation du rapport de comité avec des amendements</NameFr>
+          <Name>Committee report presented with amendments</Name>
+          <Number>265</Number>
+          <Date>2023-12-11T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27196</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Natural Resources</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des ressources naturelles</CommitteeNameFr>
+          <CommitteeAcronym>RNNR</CommitteeAcronym>
+          <Number>80</Number>
+          <Date>2023-10-30T00:00:00</Date>
+          <CommitteeName>Standing Committee on Natural Resources</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented with amendments</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité avec des amendements</EventNameFr>
+          <EventName>Committee report presented with amendments</EventName>
+          <EventDateTime>2023-12-11T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId>12773462</CommitteeReportId>
+          <CommitteeReportNumber>12</CommitteeReportNumber>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2023-12-11T14:01:42.71</EventStartDateTime>
+          <EventEndDateTime>2023-12-11T14:01:42.71</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2023-12-11T14:01:42.71</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2024-04-11T19:53:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>298</Number>
+          <Date>2024-04-11T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60285</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Concurrence at report stage</EventNameEn>
+          <EventNameFr>Adoption à l'étape du rapport</EventNameFr>
+          <EventName>Concurrence at report stage</EventName>
+          <EventDateTime>2024-04-11T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60285</EventTypeId>
+          <EventTypeNameEn>Concurrence at report stage</EventTypeNameEn>
+          <EventTypeNameFr>Adoption à l'étape du rapport</EventTypeNameFr>
+          <EventTypeName>Concurrence at report stage</EventTypeName>
+          <EventStartDateTime>2024-04-11T19:53:00</EventStartDateTime>
+          <EventEndDateTime>2024-04-11T19:53:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2024-04-11T19:53:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2024-04-15T18:55:02</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>299</Number>
+          <Date>2024-04-15T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>12678554</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>12534309</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>3rd reading</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>3e lecture</DecisionMotionTitleFr>
+          <DecisionMotionTitle>3rd reading</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>10</DecisionMethodId>
+          <DecisionMethodNameEn>On recorded division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Suivant un vote par appel nominal</DecisionMethodNameFr>
+          <DecisionMethodName>On recorded division</DecisionMethodName>
+          <DivisionNumber>738</DivisionNumber>
+          <DivisionVotesYeas>169</DivisionVotesYeas>
+          <DivisionVotesNays>144</DivisionVotesNays>
+          <DivisionVotePaired>6</DivisionVotePaired>
+          <DecisionSittingDate>2024-04-15T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>299</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2024-04-15T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2024-04-15T18:55:02</EventStartDateTime>
+          <EventEndDateTime>2024-04-15T18:55:02</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2024-04-15T18:55:02</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2024-04-16T10:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>First reading</NameEn>
+          <NameFr>Première lecture</NameFr>
+          <Name>First reading</Name>
+          <Number>192</Number>
+          <Date>2024-04-16T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60111</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>First reading</EventNameEn>
+          <EventNameFr>Première lecture</EventNameFr>
+          <EventName>First reading</EventName>
+          <EventDateTime>2024-04-16T10:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60111</EventTypeId>
+          <EventTypeNameEn>First reading</EventTypeNameEn>
+          <EventTypeNameFr>Première lecture</EventTypeNameFr>
+          <EventTypeName>First reading</EventTypeName>
+          <EventStartDateTime>2024-04-16T10:00:00</EventStartDateTime>
+          <EventEndDateTime>2024-04-16T10:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2024-04-16T10:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2024-05-23T10:15:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16104</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires sociales, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>SOCI</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>195</Number>
+          <Date>2024-04-30T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>201</Number>
+          <Date>2024-05-21T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>203</Number>
+          <Date>2024-05-23T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60120</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading</EventNameEn>
+          <EventNameFr>Deuxième lecture</EventNameFr>
+          <EventName>Second reading</EventName>
+          <EventDateTime>2024-05-23T10:15:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <SignificantEvents>
+          <EventTypeId>60123</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Referral to committee</EventNameEn>
+          <EventNameFr>Renvoi en comité</EventNameFr>
+          <EventName>Referral to committee</EventName>
+          <EventDateTime>2024-05-23T10:20:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60120</EventTypeId>
+          <EventTypeNameEn>Second reading</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture</EventTypeNameFr>
+          <EventTypeName>Second reading</EventTypeName>
+          <EventStartDateTime>2024-05-23T10:15:00</EventStartDateTime>
+          <EventEndDateTime>2024-05-23T10:15:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2024-05-23T10:20:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>109822</PersonId>
+          <PersonOfficialFirstName>Hassan</PersonOfficialFirstName>
+          <PersonOfficialLastName>Yussuff</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Hassan Yussuff</PersonName>
+          <SenateSystemAffiliationId>225262</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Independent Senators Group</CaucusShortNameEn>
+          <CaucusShortNameFr>Groupe des sénateurs indépendants</CaucusShortNameFr>
+          <CaucusShortName>Independent Senators Group</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>195</MeetingNumber>
+          <SpeechDateTime>2024-04-30T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/441/debates/195db_2024-04-30-e#87</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/441/debates/195db_2024-04-30-f#87</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/441/debates/195db_2024-04-30-e#87</Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>true</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2024-06-13T10:15:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16104</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires sociales, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>SOCI</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented without amendment</NameEn>
+          <NameFr>Présentation du rapport de comité sans amendement</NameFr>
+          <Name>Committee report presented without amendment</Name>
+          <Number>212</Number>
+          <Date>2024-06-13T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16104</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires sociales, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>SOCI</CommitteeAcronym>
+          <Number>102</Number>
+          <Date>2024-06-05T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16104</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires sociales, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>SOCI</CommitteeAcronym>
+          <Number>103</Number>
+          <Date>2024-06-06T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16104</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires sociales, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>SOCI</CommitteeAcronym>
+          <Number>104</Number>
+          <Date>2024-06-06T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16104</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires sociales, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>SOCI</CommitteeAcronym>
+          <Number>108</Number>
+          <Date>2024-06-12T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented without amendment</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité sans amendement</EventNameFr>
+          <EventName>Committee report presented without amendment</EventName>
+          <EventDateTime>2024-06-13T10:15:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2024-06-13T10:15:00</EventStartDateTime>
+          <EventEndDateTime>2024-06-13T10:15:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2024-06-13T10:15:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2024-06-18T10:30:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>213</Number>
+          <Date>2024-06-17T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Third reading</NameEn>
+          <NameFr>Troisième lecture</NameFr>
+          <Name>Third reading</Name>
+          <Number>214</Number>
+          <Date>2024-06-18T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2024-06-18T10:30:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2024-06-18T10:30:00</EventStartDateTime>
+          <EventEndDateTime>2024-06-18T10:30:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2024-06-18T10:30:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <RoyalAssent>
+        <BillStageId>60050</BillStageId>
+        <BillStageNameEn>Royal assent</BillStageNameEn>
+        <BillStageNameFr>Sanction royale</BillStageNameFr>
+        <BillStageName>Royal assent</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>0</State>
+        <StateNameEn />
+        <StateNameFr />
+        <StateAsOfDate />
+        <StateName />
+        <Committee />
+        <Sittings>
+          <NameEn>Royal assent</NameEn>
+          <NameFr>Sanction royale</NameFr>
+          <Name>Royal assent</Name>
+          <Number>216</Number>
+          <Date>2024-06-20T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60149</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Royal assent</EventNameEn>
+          <EventNameFr>Sanction royale</EventNameFr>
+          <EventName>Royal assent</EventName>
+          <EventDateTime>2024-06-20T10:55:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60149</EventTypeId>
+          <EventTypeNameEn>Royal assent</EventTypeNameEn>
+          <EventTypeNameFr>Sanction royale</EventTypeNameFr>
+          <EventTypeName>Royal assent</EventTypeName>
+          <EventStartDateTime>2024-06-20T10:55:00</EventStartDateTime>
+          <EventEndDateTime>2024-06-20T10:55:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2024-06-20T10:55:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </RoyalAssent>
+    </BillStages>
+    <Publications>
+      <PublicationId>12534822</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>12792899</PublicationId>
+      <PublicationTypeId>80702</PublicationTypeId>
+      <PublicationTypeNameEn>As amended by committee</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel que modifié par le comité</PublicationTypeNameFr>
+      <PublicationTypeName>As amended by committee</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>13019170</PublicationId>
+      <PublicationTypeId>80703</PublicationTypeId>
+      <PublicationTypeNameEn>As passed by the House of Commons</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel qu'adopté par la Chambre des communes</PublicationTypeNameFr>
+      <PublicationTypeName>As passed by the House of Commons</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>13222416</PublicationId>
+      <PublicationTypeId>80704</PublicationTypeId>
+      <PublicationTypeNameEn>Royal Assent</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Royal Assent</PublicationTypeNameFr>
+      <PublicationTypeName>Royal Assent</PublicationTypeName>
+    </Publications>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>427</DivisionNumber>
+      <DivisionSubjectEn>Time allocation for Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy</DivisionSubjectEn>
+      <DivisionSubjectFr>Attribution de temps pour le projet de loi C-50, Loi concernant la responsabilité, la transparence et la mobilisation à l'appui de la création d'emplois durables pour les travailleurs et de la croissance économique dans une économie carboneutre</DivisionSubjectFr>
+      <DivisionSubject>Time allocation for Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy</DivisionSubject>
+      <DivisionVotesYeas>175</DivisionVotesYeas>
+      <DivisionVotesNays>146</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>321</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2023-10-19T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>428</DivisionNumber>
+      <DivisionSubjectEn>2nd reading of Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy</DivisionSubjectEn>
+      <DivisionSubjectFr>2e lecture du projet de loi C-50, Loi concernant la responsabilité, la transparence et la mobilisation à l'appui de la création d'emplois durables pour les travailleurs et de la croissance économique dans une économie carboneutre</DivisionSubjectFr>
+      <DivisionSubject>2nd reading of Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy</DivisionSubject>
+      <DivisionVotesYeas>175</DivisionVotesYeas>
+      <DivisionVotesNays>144</DivisionVotesNays>
+      <DivisionVotePaired>6</DivisionVotePaired>
+      <DivisionVoteTotal>325</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2023-10-23T11:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>687</DivisionNumber>
+      <DivisionSubjectEn>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 1)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-50, Loi concernant la responsabilité, la transparence et la mobilisation à l'appui de la création d'emplois durables pour les travailleurs et de la croissance économique dans une économie carboneutre (amendement à l'étape du rapport) (Motion 1)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 1)</DivisionSubject>
+      <DivisionVotesYeas>113</DivisionVotesYeas>
+      <DivisionVotesNays>202</DivisionVotesNays>
+      <DivisionVotePaired>8</DivisionVotePaired>
+      <DivisionVoteTotal>323</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2024-04-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>688</DivisionNumber>
+      <DivisionSubjectEn>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 2)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-50, Loi concernant la responsabilité, la transparence et la mobilisation à l'appui de la création d'emplois durables pour les travailleurs et de la croissance économique dans une économie carboneutre (amendement à l'étape du rapport) (Motion 2)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 2)</DivisionSubject>
+      <DivisionVotesYeas>114</DivisionVotesYeas>
+      <DivisionVotesNays>204</DivisionVotesNays>
+      <DivisionVotePaired>8</DivisionVotePaired>
+      <DivisionVoteTotal>326</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2024-04-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>689</DivisionNumber>
+      <DivisionSubjectEn>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 3)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-50, Loi concernant la responsabilité, la transparence et la mobilisation à l'appui de la création d'emplois durables pour les travailleurs et de la croissance économique dans une économie carboneutre (amendement à l'étape du rapport) (Motion 3)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 3)</DivisionSubject>
+      <DivisionVotesYeas>114</DivisionVotesYeas>
+      <DivisionVotesNays>204</DivisionVotesNays>
+      <DivisionVotePaired>8</DivisionVotePaired>
+      <DivisionVoteTotal>326</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2024-04-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>690</DivisionNumber>
+      <DivisionSubjectEn>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 4)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-50, Loi concernant la responsabilité, la transparence et la mobilisation à l'appui de la création d'emplois durables pour les travailleurs et de la croissance économique dans une économie carboneutre (amendement à l'étape du rapport) (Motion 4)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 4)</DivisionSubject>
+      <DivisionVotesYeas>114</DivisionVotesYeas>
+      <DivisionVotesNays>204</DivisionVotesNays>
+      <DivisionVotePaired>8</DivisionVotePaired>
+      <DivisionVoteTotal>326</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2024-04-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>691</DivisionNumber>
+      <DivisionSubjectEn>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 5)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-50, Loi concernant la responsabilité, la transparence et la mobilisation à l'appui de la création d'emplois durables pour les travailleurs et de la croissance économique dans une économie carboneutre (amendement à l'étape du rapport) (Motion 5)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 5)</DivisionSubject>
+      <DivisionVotesYeas>114</DivisionVotesYeas>
+      <DivisionVotesNays>204</DivisionVotesNays>
+      <DivisionVotePaired>8</DivisionVotePaired>
+      <DivisionVoteTotal>326</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2024-04-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>692</DivisionNumber>
+      <DivisionSubjectEn>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 10)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-50, Loi concernant la responsabilité, la transparence et la mobilisation à l'appui de la création d'emplois durables pour les travailleurs et de la croissance économique dans une économie carboneutre (amendement à l'étape du rapport) (Motion 10)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 10)</DivisionSubject>
+      <DivisionVotesYeas>113</DivisionVotesYeas>
+      <DivisionVotesNays>204</DivisionVotesNays>
+      <DivisionVotePaired>8</DivisionVotePaired>
+      <DivisionVoteTotal>325</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2024-04-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>693</DivisionNumber>
+      <DivisionSubjectEn>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 11)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-50, Loi concernant la responsabilité, la transparence et la mobilisation à l'appui de la création d'emplois durables pour les travailleurs et de la croissance économique dans une économie carboneutre (amendement à l'étape du rapport) (Motion 11)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 11)</DivisionSubject>
+      <DivisionVotesYeas>113</DivisionVotesYeas>
+      <DivisionVotesNays>203</DivisionVotesNays>
+      <DivisionVotePaired>8</DivisionVotePaired>
+      <DivisionVoteTotal>324</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2024-04-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>694</DivisionNumber>
+      <DivisionSubjectEn>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 16)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-50, Loi concernant la responsabilité, la transparence et la mobilisation à l'appui de la création d'emplois durables pour les travailleurs et de la croissance économique dans une économie carboneutre (amendement à l'étape du rapport) (Motion 16)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 16)</DivisionSubject>
+      <DivisionVotesYeas>113</DivisionVotesYeas>
+      <DivisionVotesNays>202</DivisionVotesNays>
+      <DivisionVotePaired>8</DivisionVotePaired>
+      <DivisionVoteTotal>323</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2024-04-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>695</DivisionNumber>
+      <DivisionSubjectEn>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 17)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-50, Loi concernant la responsabilité, la transparence et la mobilisation à l'appui de la création d'emplois durables pour les travailleurs et de la croissance économique dans une économie carboneutre (amendement à l'étape du rapport) (Motion 17)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 17)</DivisionSubject>
+      <DivisionVotesYeas>140</DivisionVotesYeas>
+      <DivisionVotesNays>174</DivisionVotesNays>
+      <DivisionVotePaired>8</DivisionVotePaired>
+      <DivisionVoteTotal>322</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2024-04-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>696</DivisionNumber>
+      <DivisionSubjectEn>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 21)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-50, Loi concernant la responsabilité, la transparence et la mobilisation à l'appui de la création d'emplois durables pour les travailleurs et de la croissance économique dans une économie carboneutre (amendement à l'étape du rapport) (Motion 21)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 21)</DivisionSubject>
+      <DivisionVotesYeas>111</DivisionVotesYeas>
+      <DivisionVotesNays>204</DivisionVotesNays>
+      <DivisionVotePaired>8</DivisionVotePaired>
+      <DivisionVoteTotal>323</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2024-04-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>697</DivisionNumber>
+      <DivisionSubjectEn>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 25)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-50, Loi concernant la responsabilité, la transparence et la mobilisation à l'appui de la création d'emplois durables pour les travailleurs et de la croissance économique dans une économie carboneutre (amendement à l'étape du rapport) (Motion 25)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 25)</DivisionSubject>
+      <DivisionVotesYeas>111</DivisionVotesYeas>
+      <DivisionVotesNays>204</DivisionVotesNays>
+      <DivisionVotePaired>8</DivisionVotePaired>
+      <DivisionVoteTotal>323</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2024-04-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>698</DivisionNumber>
+      <DivisionSubjectEn>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 26)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-50, Loi concernant la responsabilité, la transparence et la mobilisation à l'appui de la création d'emplois durables pour les travailleurs et de la croissance économique dans une économie carboneutre (amendement à l'étape du rapport) (Motion 26)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 26)</DivisionSubject>
+      <DivisionVotesYeas>111</DivisionVotesYeas>
+      <DivisionVotesNays>201</DivisionVotesNays>
+      <DivisionVotePaired>8</DivisionVotePaired>
+      <DivisionVoteTotal>320</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2024-04-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>699</DivisionNumber>
+      <DivisionSubjectEn>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 27)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-50, Loi concernant la responsabilité, la transparence et la mobilisation à l'appui de la création d'emplois durables pour les travailleurs et de la croissance économique dans une économie carboneutre (amendement à l'étape du rapport) (Motion 27)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 27)</DivisionSubject>
+      <DivisionVotesYeas>111</DivisionVotesYeas>
+      <DivisionVotesNays>201</DivisionVotesNays>
+      <DivisionVotePaired>8</DivisionVotePaired>
+      <DivisionVoteTotal>320</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2024-04-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>700</DivisionNumber>
+      <DivisionSubjectEn>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 28)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-50, Loi concernant la responsabilité, la transparence et la mobilisation à l'appui de la création d'emplois durables pour les travailleurs et de la croissance économique dans une économie carboneutre (amendement à l'étape du rapport) (Motion 28)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 28)</DivisionSubject>
+      <DivisionVotesYeas>113</DivisionVotesYeas>
+      <DivisionVotesNays>202</DivisionVotesNays>
+      <DivisionVotePaired>8</DivisionVotePaired>
+      <DivisionVoteTotal>323</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2024-04-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>701</DivisionNumber>
+      <DivisionSubjectEn>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 35)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-50, Loi concernant la responsabilité, la transparence et la mobilisation à l'appui de la création d'emplois durables pour les travailleurs et de la croissance économique dans une économie carboneutre (amendement à l'étape du rapport) (Motion 35)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 35)</DivisionSubject>
+      <DivisionVotesYeas>114</DivisionVotesYeas>
+      <DivisionVotesNays>203</DivisionVotesNays>
+      <DivisionVotePaired>8</DivisionVotePaired>
+      <DivisionVoteTotal>325</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2024-04-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>702</DivisionNumber>
+      <DivisionSubjectEn>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 36)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-50, Loi concernant la responsabilité, la transparence et la mobilisation à l'appui de la création d'emplois durables pour les travailleurs et de la croissance économique dans une économie carboneutre (amendement à l'étape du rapport) (Motion 36)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 36)</DivisionSubject>
+      <DivisionVotesYeas>115</DivisionVotesYeas>
+      <DivisionVotesNays>203</DivisionVotesNays>
+      <DivisionVotePaired>8</DivisionVotePaired>
+      <DivisionVoteTotal>326</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2024-04-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>703</DivisionNumber>
+      <DivisionSubjectEn>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 37)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-50, Loi concernant la responsabilité, la transparence et la mobilisation à l'appui de la création d'emplois durables pour les travailleurs et de la croissance économique dans une économie carboneutre (amendement à l'étape du rapport) (Motion 37)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 37)</DivisionSubject>
+      <DivisionVotesYeas>173</DivisionVotesYeas>
+      <DivisionVotesNays>142</DivisionVotesNays>
+      <DivisionVotePaired>8</DivisionVotePaired>
+      <DivisionVoteTotal>323</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2024-04-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>704</DivisionNumber>
+      <DivisionSubjectEn>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 41)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-50, Loi concernant la responsabilité, la transparence et la mobilisation à l'appui de la création d'emplois durables pour les travailleurs et de la croissance économique dans une économie carboneutre (amendement à l'étape du rapport) (Motion 41)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 41)</DivisionSubject>
+      <DivisionVotesYeas>113</DivisionVotesYeas>
+      <DivisionVotesNays>203</DivisionVotesNays>
+      <DivisionVotePaired>8</DivisionVotePaired>
+      <DivisionVoteTotal>324</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2024-04-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>705</DivisionNumber>
+      <DivisionSubjectEn>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 42)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-50, Loi concernant la responsabilité, la transparence et la mobilisation à l'appui de la création d'emplois durables pour les travailleurs et de la croissance économique dans une économie carboneutre (amendement à l'étape du rapport) (Motion 42)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 42)</DivisionSubject>
+      <DivisionVotesYeas>111</DivisionVotesYeas>
+      <DivisionVotesNays>202</DivisionVotesNays>
+      <DivisionVotePaired>8</DivisionVotePaired>
+      <DivisionVoteTotal>321</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2024-04-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>706</DivisionNumber>
+      <DivisionSubjectEn>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 44)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-50, Loi concernant la responsabilité, la transparence et la mobilisation à l'appui de la création d'emplois durables pour les travailleurs et de la croissance économique dans une économie carboneutre (amendement à l'étape du rapport) (Motion 44)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 44)</DivisionSubject>
+      <DivisionVotesYeas>113</DivisionVotesYeas>
+      <DivisionVotesNays>202</DivisionVotesNays>
+      <DivisionVotePaired>8</DivisionVotePaired>
+      <DivisionVoteTotal>323</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2024-04-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>707</DivisionNumber>
+      <DivisionSubjectEn>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 49)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-50, Loi concernant la responsabilité, la transparence et la mobilisation à l'appui de la création d'emplois durables pour les travailleurs et de la croissance économique dans une économie carboneutre (amendement à l'étape du rapport) (Motion 49)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 49)</DivisionSubject>
+      <DivisionVotesYeas>111</DivisionVotesYeas>
+      <DivisionVotesNays>202</DivisionVotesNays>
+      <DivisionVotePaired>8</DivisionVotePaired>
+      <DivisionVoteTotal>321</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2024-04-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>708</DivisionNumber>
+      <DivisionSubjectEn>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 51)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-50, Loi concernant la responsabilité, la transparence et la mobilisation à l'appui de la création d'emplois durables pour les travailleurs et de la croissance économique dans une économie carboneutre (amendement à l'étape du rapport) (Motion 51)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 51)</DivisionSubject>
+      <DivisionVotesYeas>114</DivisionVotesYeas>
+      <DivisionVotesNays>203</DivisionVotesNays>
+      <DivisionVotePaired>8</DivisionVotePaired>
+      <DivisionVoteTotal>325</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2024-04-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>709</DivisionNumber>
+      <DivisionSubjectEn>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 52)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-50, Loi concernant la responsabilité, la transparence et la mobilisation à l'appui de la création d'emplois durables pour les travailleurs et de la croissance économique dans une économie carboneutre (amendement à l'étape du rapport) (Motion 52)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 52)</DivisionSubject>
+      <DivisionVotesYeas>111</DivisionVotesYeas>
+      <DivisionVotesNays>202</DivisionVotesNays>
+      <DivisionVotePaired>8</DivisionVotePaired>
+      <DivisionVoteTotal>321</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2024-04-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>710</DivisionNumber>
+      <DivisionSubjectEn>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 53)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-50, Loi concernant la responsabilité, la transparence et la mobilisation à l'appui de la création d'emplois durables pour les travailleurs et de la croissance économique dans une économie carboneutre (amendement à l'étape du rapport) (Motion 53)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 53)</DivisionSubject>
+      <DivisionVotesYeas>112</DivisionVotesYeas>
+      <DivisionVotesNays>203</DivisionVotesNays>
+      <DivisionVotePaired>8</DivisionVotePaired>
+      <DivisionVoteTotal>323</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2024-04-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>711</DivisionNumber>
+      <DivisionSubjectEn>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 54)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-50, Loi concernant la responsabilité, la transparence et la mobilisation à l'appui de la création d'emplois durables pour les travailleurs et de la croissance économique dans une économie carboneutre (amendement à l'étape du rapport) (Motion 54)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 54)</DivisionSubject>
+      <DivisionVotesYeas>136</DivisionVotesYeas>
+      <DivisionVotesNays>174</DivisionVotesNays>
+      <DivisionVotePaired>8</DivisionVotePaired>
+      <DivisionVoteTotal>318</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2024-04-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>712</DivisionNumber>
+      <DivisionSubjectEn>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 59)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-50, Loi concernant la responsabilité, la transparence et la mobilisation à l'appui de la création d'emplois durables pour les travailleurs et de la croissance économique dans une économie carboneutre (amendement à l'étape du rapport) (Motion 59)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 59)</DivisionSubject>
+      <DivisionVotesYeas>111</DivisionVotesYeas>
+      <DivisionVotesNays>203</DivisionVotesNays>
+      <DivisionVotePaired>8</DivisionVotePaired>
+      <DivisionVoteTotal>322</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2024-04-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>713</DivisionNumber>
+      <DivisionSubjectEn>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 60)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-50, Loi concernant la responsabilité, la transparence et la mobilisation à l'appui de la création d'emplois durables pour les travailleurs et de la croissance économique dans une économie carboneutre (amendement à l'étape du rapport) (Motion 60)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 60)</DivisionSubject>
+      <DivisionVotesYeas>110</DivisionVotesYeas>
+      <DivisionVotesNays>203</DivisionVotesNays>
+      <DivisionVotePaired>8</DivisionVotePaired>
+      <DivisionVoteTotal>321</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2024-04-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>714</DivisionNumber>
+      <DivisionSubjectEn>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 61)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-50, Loi concernant la responsabilité, la transparence et la mobilisation à l'appui de la création d'emplois durables pour les travailleurs et de la croissance économique dans une économie carboneutre (amendement à l'étape du rapport) (Motion 61)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 61)</DivisionSubject>
+      <DivisionVotesYeas>108</DivisionVotesYeas>
+      <DivisionVotesNays>203</DivisionVotesNays>
+      <DivisionVotePaired>8</DivisionVotePaired>
+      <DivisionVoteTotal>319</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2024-04-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>715</DivisionNumber>
+      <DivisionSubjectEn>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 64)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-50, Loi concernant la responsabilité, la transparence et la mobilisation à l'appui de la création d'emplois durables pour les travailleurs et de la croissance économique dans une économie carboneutre (amendement à l'étape du rapport) (Motion 64)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 64)</DivisionSubject>
+      <DivisionVotesYeas>106</DivisionVotesYeas>
+      <DivisionVotesNays>203</DivisionVotesNays>
+      <DivisionVotePaired>8</DivisionVotePaired>
+      <DivisionVoteTotal>317</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2024-04-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>716</DivisionNumber>
+      <DivisionSubjectEn>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 79)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-50, Loi concernant la responsabilité, la transparence et la mobilisation à l'appui de la création d'emplois durables pour les travailleurs et de la croissance économique dans une économie carboneutre (amendement à l'étape du rapport) (Motion 79)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 79)</DivisionSubject>
+      <DivisionVotesYeas>269</DivisionVotesYeas>
+      <DivisionVotesNays>32</DivisionVotesNays>
+      <DivisionVotePaired>8</DivisionVotePaired>
+      <DivisionVoteTotal>309</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2024-04-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>717</DivisionNumber>
+      <DivisionSubjectEn>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 91)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-50, Loi concernant la responsabilité, la transparence et la mobilisation à l'appui de la création d'emplois durables pour les travailleurs et de la croissance économique dans une économie carboneutre (amendement à l'étape du rapport) (Motion 91)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 91)</DivisionSubject>
+      <DivisionVotesYeas>274</DivisionVotesYeas>
+      <DivisionVotesNays>31</DivisionVotesNays>
+      <DivisionVotePaired>8</DivisionVotePaired>
+      <DivisionVoteTotal>313</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2024-04-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>718</DivisionNumber>
+      <DivisionSubjectEn>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 96)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-50, Loi concernant la responsabilité, la transparence et la mobilisation à l'appui de la création d'emplois durables pour les travailleurs et de la croissance économique dans une économie carboneutre (amendement à l'étape du rapport) (Motion 96)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 96)</DivisionSubject>
+      <DivisionVotesYeas>201</DivisionVotesYeas>
+      <DivisionVotesNays>104</DivisionVotesNays>
+      <DivisionVotePaired>8</DivisionVotePaired>
+      <DivisionVoteTotal>313</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2024-04-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>719</DivisionNumber>
+      <DivisionSubjectEn>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 102)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-50, Loi concernant la responsabilité, la transparence et la mobilisation à l'appui de la création d'emplois durables pour les travailleurs et de la croissance économique dans une économie carboneutre (amendement à l'étape du rapport) (Motion 102)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 102)</DivisionSubject>
+      <DivisionVotesYeas>109</DivisionVotesYeas>
+      <DivisionVotesNays>199</DivisionVotesNays>
+      <DivisionVotePaired>8</DivisionVotePaired>
+      <DivisionVoteTotal>316</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2024-04-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>720</DivisionNumber>
+      <DivisionSubjectEn>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 108)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-50, Loi concernant la responsabilité, la transparence et la mobilisation à l'appui de la création d'emplois durables pour les travailleurs et de la croissance économique dans une économie carboneutre (amendement à l'étape du rapport) (Motion 108)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 108)</DivisionSubject>
+      <DivisionVotesYeas>306</DivisionVotesYeas>
+      <DivisionVotesNays>0</DivisionVotesNays>
+      <DivisionVotePaired>8</DivisionVotePaired>
+      <DivisionVoteTotal>314</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2024-04-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>721</DivisionNumber>
+      <DivisionSubjectEn>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 113)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-50, Loi concernant la responsabilité, la transparence et la mobilisation à l'appui de la création d'emplois durables pour les travailleurs et de la croissance économique dans une économie carboneutre (amendement à l'étape du rapport) (Motion 113)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 113)</DivisionSubject>
+      <DivisionVotesYeas>135</DivisionVotesYeas>
+      <DivisionVotesNays>173</DivisionVotesNays>
+      <DivisionVotePaired>8</DivisionVotePaired>
+      <DivisionVoteTotal>316</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2024-04-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>722</DivisionNumber>
+      <DivisionSubjectEn>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment)  (Motion 117)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-50, Loi concernant la responsabilité, la transparence et la mobilisation à l'appui de la création d'emplois durables pour les travailleurs et de la croissance économique dans une économie carboneutre (amendement à l'étape du rapport)  (Motion 117)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment)  (Motion 117)</DivisionSubject>
+      <DivisionVotesYeas>201</DivisionVotesYeas>
+      <DivisionVotesNays>107</DivisionVotesNays>
+      <DivisionVotePaired>8</DivisionVotePaired>
+      <DivisionVoteTotal>316</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2024-04-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>723</DivisionNumber>
+      <DivisionSubjectEn>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 123)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-50, Loi concernant la responsabilité, la transparence et la mobilisation à l'appui de la création d'emplois durables pour les travailleurs et de la croissance économique dans une économie carboneutre (amendement à l'étape du rapport) (Motion 123)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 123)</DivisionSubject>
+      <DivisionVotesYeas>108</DivisionVotesYeas>
+      <DivisionVotesNays>204</DivisionVotesNays>
+      <DivisionVotePaired>8</DivisionVotePaired>
+      <DivisionVoteTotal>320</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2024-04-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>724</DivisionNumber>
+      <DivisionSubjectEn>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 127)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-50, Loi concernant la responsabilité, la transparence et la mobilisation à l'appui de la création d'emplois durables pour les travailleurs et de la croissance économique dans une économie carboneutre (amendement à l'étape du rapport) (Motion 127)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 127)</DivisionSubject>
+      <DivisionVotesYeas>107</DivisionVotesYeas>
+      <DivisionVotesNays>206</DivisionVotesNays>
+      <DivisionVotePaired>8</DivisionVotePaired>
+      <DivisionVoteTotal>321</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2024-04-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>725</DivisionNumber>
+      <DivisionSubjectEn>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 138)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-50, Loi concernant la responsabilité, la transparence et la mobilisation à l'appui de la création d'emplois durables pour les travailleurs et de la croissance économique dans une économie carboneutre (amendement à l'étape du rapport) (Motion 138)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 138)</DivisionSubject>
+      <DivisionVotesYeas>109</DivisionVotesYeas>
+      <DivisionVotesNays>202</DivisionVotesNays>
+      <DivisionVotePaired>8</DivisionVotePaired>
+      <DivisionVoteTotal>319</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2024-04-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>726</DivisionNumber>
+      <DivisionSubjectEn>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 142)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-50, Loi concernant la responsabilité, la transparence et la mobilisation à l'appui de la création d'emplois durables pour les travailleurs et de la croissance économique dans une économie carboneutre (amendement à l'étape du rapport) (Motion 142)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 142)</DivisionSubject>
+      <DivisionVotesYeas>107</DivisionVotesYeas>
+      <DivisionVotesNays>199</DivisionVotesNays>
+      <DivisionVotePaired>8</DivisionVotePaired>
+      <DivisionVoteTotal>314</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2024-04-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>727</DivisionNumber>
+      <DivisionSubjectEn>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 143)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-50, Loi concernant la responsabilité, la transparence et la mobilisation à l'appui de la création d'emplois durables pour les travailleurs et de la croissance économique dans une économie carboneutre (amendement à l'étape du rapport) (Motion 143)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 143)</DivisionSubject>
+      <DivisionVotesYeas>139</DivisionVotesYeas>
+      <DivisionVotesNays>171</DivisionVotesNays>
+      <DivisionVotePaired>8</DivisionVotePaired>
+      <DivisionVoteTotal>318</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2024-04-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>728</DivisionNumber>
+      <DivisionSubjectEn>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 155)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-50, Loi concernant la responsabilité, la transparence et la mobilisation à l'appui de la création d'emplois durables pour les travailleurs et de la croissance économique dans une économie carboneutre (amendement à l'étape du rapport) (Motion 155)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 155)</DivisionSubject>
+      <DivisionVotesYeas>309</DivisionVotesYeas>
+      <DivisionVotesNays>0</DivisionVotesNays>
+      <DivisionVotePaired>8</DivisionVotePaired>
+      <DivisionVoteTotal>317</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2024-04-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>729</DivisionNumber>
+      <DivisionSubjectEn>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 160)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-50, Loi concernant la responsabilité, la transparence et la mobilisation à l'appui de la création d'emplois durables pour les travailleurs et de la croissance économique dans une économie carboneutre (amendement à l'étape du rapport) (Motion 160)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 160)</DivisionSubject>
+      <DivisionVotesYeas>108</DivisionVotesYeas>
+      <DivisionVotesNays>200</DivisionVotesNays>
+      <DivisionVotePaired>8</DivisionVotePaired>
+      <DivisionVoteTotal>316</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2024-04-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>730</DivisionNumber>
+      <DivisionSubjectEn>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 161)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-50, Loi concernant la responsabilité, la transparence et la mobilisation à l'appui de la création d'emplois durables pour les travailleurs et de la croissance économique dans une économie carboneutre (amendement à l'étape du rapport) (Motion 161)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 161)</DivisionSubject>
+      <DivisionVotesYeas>109</DivisionVotesYeas>
+      <DivisionVotesNays>203</DivisionVotesNays>
+      <DivisionVotePaired>8</DivisionVotePaired>
+      <DivisionVoteTotal>320</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2024-04-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>731</DivisionNumber>
+      <DivisionSubjectEn>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 162)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-50, Loi concernant la responsabilité, la transparence et la mobilisation à l'appui de la création d'emplois durables pour les travailleurs et de la croissance économique dans une économie carboneutre (amendement à l'étape du rapport) (Motion 162)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 162)</DivisionSubject>
+      <DivisionVotesYeas>110</DivisionVotesYeas>
+      <DivisionVotesNays>200</DivisionVotesNays>
+      <DivisionVotePaired>8</DivisionVotePaired>
+      <DivisionVoteTotal>318</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2024-04-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>732</DivisionNumber>
+      <DivisionSubjectEn>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 163)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-50, Loi concernant la responsabilité, la transparence et la mobilisation à l'appui de la création d'emplois durables pour les travailleurs et de la croissance économique dans une économie carboneutre (amendement à l'étape du rapport) (Motion 163)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 163)</DivisionSubject>
+      <DivisionVotesYeas>106</DivisionVotesYeas>
+      <DivisionVotesNays>202</DivisionVotesNays>
+      <DivisionVotePaired>8</DivisionVotePaired>
+      <DivisionVoteTotal>316</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2024-04-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>733</DivisionNumber>
+      <DivisionSubjectEn>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 164)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-50, Loi concernant la responsabilité, la transparence et la mobilisation à l'appui de la création d'emplois durables pour les travailleurs et de la croissance économique dans une économie carboneutre (amendement à l'étape du rapport) (Motion 164)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 164)</DivisionSubject>
+      <DivisionVotesYeas>107</DivisionVotesYeas>
+      <DivisionVotesNays>203</DivisionVotesNays>
+      <DivisionVotePaired>8</DivisionVotePaired>
+      <DivisionVoteTotal>318</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2024-04-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>734</DivisionNumber>
+      <DivisionSubjectEn>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 172)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-50, Loi concernant la responsabilité, la transparence et la mobilisation à l'appui de la création d'emplois durables pour les travailleurs et de la croissance économique dans une économie carboneutre (amendement à l'étape du rapport) (Motion 172)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 172)</DivisionSubject>
+      <DivisionVotesYeas>104</DivisionVotesYeas>
+      <DivisionVotesNays>202</DivisionVotesNays>
+      <DivisionVotePaired>8</DivisionVotePaired>
+      <DivisionVoteTotal>314</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2024-04-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>735</DivisionNumber>
+      <DivisionSubjectEn>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 176)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-50, Loi concernant la responsabilité, la transparence et la mobilisation à l'appui de la création d'emplois durables pour les travailleurs et de la croissance économique dans une économie carboneutre (amendement à l'étape du rapport) (Motion 176)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (report stage amendment) (Motion 176)</DivisionSubject>
+      <DivisionVotesYeas>200</DivisionVotesYeas>
+      <DivisionVotesNays>108</DivisionVotesNays>
+      <DivisionVotePaired>8</DivisionVotePaired>
+      <DivisionVoteTotal>316</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2024-04-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>736</DivisionNumber>
+      <DivisionSubjectEn>Concurrence at report stage of Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy</DivisionSubjectEn>
+      <DivisionSubjectFr>Adoption à l'étape du rapport du projet de loi C-50, Loi concernant la responsabilité, la transparence et la mobilisation à l'appui de la création d'emplois durables pour les travailleurs et de la croissance économique dans une économie carboneutre</DivisionSubjectFr>
+      <DivisionSubject>Concurrence at report stage of Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy</DivisionSubject>
+      <DivisionVotesYeas>173</DivisionVotesYeas>
+      <DivisionVotesNays>132</DivisionVotesNays>
+      <DivisionVotePaired>8</DivisionVotePaired>
+      <DivisionVoteTotal>313</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2024-04-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>737</DivisionNumber>
+      <DivisionSubjectEn>3rd reading and adoption of Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (reasoned amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>3e lecture et adoption du projet de loi C-50, Loi concernant la responsabilité, la transparence et la mobilisation à l'appui de la création d'emplois durables pour les travailleurs et de la croissance économique dans une économie carboneutre (amendement motivé)</DivisionSubjectFr>
+      <DivisionSubject>3rd reading and adoption of Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy (reasoned amendment)</DivisionSubject>
+      <DivisionVotesYeas>114</DivisionVotesYeas>
+      <DivisionVotesNays>198</DivisionVotesNays>
+      <DivisionVotePaired>6</DivisionVotePaired>
+      <DivisionVoteTotal>318</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2024-04-15T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>738</DivisionNumber>
+      <DivisionSubjectEn>3rd reading and adoption of Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy</DivisionSubjectEn>
+      <DivisionSubjectFr>3e lecture et adoption du projet de loi C-50, Loi concernant la responsabilité, la transparence et la mobilisation à l'appui de la création d'emplois durables pour les travailleurs et de la croissance économique dans une économie carboneutre</DivisionSubjectFr>
+      <DivisionSubject>3rd reading and adoption of Bill C-50, An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy</DivisionSubject>
+      <DivisionVotesYeas>169</DivisionVotesYeas>
+      <DivisionVotesNays>144</DivisionVotesNays>
+      <DivisionVotePaired>6</DivisionVotePaired>
+      <DivisionVoteTotal>319</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2024-04-15T11:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Teslin Augustine et al., "Ready for Green Jobs: How ready are Canadian regions to attract and support the skilled workforce needed to reach climate targets and drive clean growth?" PLACE Centre, Smart Prosperity Institute, Report prepared for the Future Skills Centre, June 2023.</TitleEn>
+      <TitleFr>Teslin Augustine et al., « Prêts pour les emplois verts : Dans quelle mesure la main-d'œuvre canadienne est-elle prête à promouvoir la croissance propre, et dans quelle mesure les provinces sont-elles prêtes à attirer les talents en vue d'une économie propre? » PLACE Centre, Institut de l'IntelliProspérité, rapport préparé pour le Centre des Compétences Futures, juillet 2023.</TitleFr>
+      <Title>Teslin Augustine et al., "Ready for Green Jobs: How ready are Canadian regions to attract and support the skilled workforce needed to reach climate targets and drive clean growth?" PLACE Centre, Smart Prosperity Institute, Report prepared for the Future Skills Centre, June 2023.</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://fsc-ccf.ca/wp-content/uploads/2023/08/Ready-for-Green-Jobs-FSC-EN.pdf</UrlEn>
+      <UrlFr>https://fsc-ccf.ca/wp-content/uploads/2023/08/Ready-for-Green-Jobs-FSC-FR.pdf</UrlFr>
+      <Url>https://fsc-ccf.ca/wp-content/uploads/2023/08/Ready-for-Green-Jobs-FSC-EN.pdf</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Mairead Matthews and Allison Clark, "Clean Energy and Pathways to Net-Zero: Jobs and Skills for Future Leaders," Information and Communications Technology Council, April 2023.</TitleEn>
+      <TitleFr>Mairead Matthews et Allison Clark, « L'énergie propre et les voies vers la carboneutralité : Emplois et compétences pour les futures dirigeantes/futurs dirigeants », Conseil des technologies de l'information et des communications, avril 2023.</TitleFr>
+      <Title>Mairead Matthews and Allison Clark, "Clean Energy and Pathways to Net-Zero: Jobs and Skills for Future Leaders," Information and Communications Technology Council, April 2023.</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.digitalthinktankictc.com/ictc-admin/resources/admin/clean-energy-and-pathways-to-net-zero.pdf</UrlEn>
+      <UrlFr>https://www.digitalthinktankictc.com/ictc-admin/resources/admin/lenergie-propre-et-les-voies-vers-la-carboneutralite.pdf</UrlFr>
+      <Url>https://www.digitalthinktankictc.com/ictc-admin/resources/admin/clean-energy-and-pathways-to-net-zero.pdf</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Colin Guldimann and Naomi Powell, "Green Collar Jobs: The skills revolution Canada needs to reach Net Zero," Special Reports, RBC, 16 February 2022.</TitleEn>
+      <TitleFr>Colin Guldimann et Naomi Powell, « Emplois en environnement: la révolution des aptitudes nécessaire au Canada pour atteindre zéro émission nette, » Rapport spécial, RBC, 16 février 2022.</TitleFr>
+      <Title>Colin Guldimann and Naomi Powell, "Green Collar Jobs: The skills revolution Canada needs to reach Net Zero," Special Reports, RBC, 16 February 2022.</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://thoughtleadership.rbc.com/green-collar-jobs-the-skills-revolution-canada-needs-to-reach-net-zero/</UrlEn>
+      <UrlFr>https://leadershipavise.rbc.com/emplois-en-environnement/</UrlFr>
+      <Url>https://thoughtleadership.rbc.com/green-collar-jobs-the-skills-revolution-canada-needs-to-reach-net-zero/</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Charter Statement - Bill C-50: An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero greenhouse gas emissions economy (Tabled 2023-09-20)</TitleEn>
+      <TitleFr>Énoncé concernant la Charte - Projet de loi C-50 : Loi concernant la responsabilité, la transparence et l'engagement en appui à la création d'emplois durables pour les travailleurs et à une croissance économique dans une économie carboneutre (Déposé 2023-09-20)</TitleFr>
+      <Title>Charter Statement - Bill C-50: An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero greenhouse gas emissions economy (Tabled 2023-09-20)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.justice.gc.ca/eng/csj-sjc/pl/charter-charte/c50.html</UrlEn>
+      <UrlFr>https://www.justice.gc.ca/fra/sjc-csj/pl/charte-charter/c50.html</UrlFr>
+      <Url>https://www.justice.gc.ca/eng/csj-sjc/pl/charter-charte/c50.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>The Canadian Sustainable Jobs Act Becomes Law (2024-06-20 | Department of Natural Resources)</TitleEn>
+      <TitleFr>Adoption de la Loi canadienne sur les emplois durables (2024-06-20 | Ministère des Ressources naturelles)</TitleFr>
+      <Title>The Canadian Sustainable Jobs Act Becomes Law (2024-06-20 | Department of Natural Resources)</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/natural-resources-canada/news/2024/06/the-canadian-sustainable-jobs-act-becomes-law.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/ressources-naturelles-canada/nouvelles/2024/06/adoption-de-la-loi-canadienne-sur-les-emplois-durables.html</UrlFr>
+      <Url>https://www.canada.ca/en/natural-resources-canada/news/2024/06/the-canadian-sustainable-jobs-act-becomes-law.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Government of Canada Tables the Canadian Sustainable Jobs Act to Enable the Creation of Good, Middle-Class Jobs Across Canada (2023-06-15 | Department of Natural Resources)</TitleEn>
+      <TitleFr>Le gouvernement du Canada dépose un projet de loi canadien sur les emplois durables pour favoriser la création de bons emplois dans la classe moyenne au pays (2023-06-15 | Ministère des Ressources naturelles)</TitleFr>
+      <Title>Government of Canada Tables the Canadian Sustainable Jobs Act to Enable the Creation of Good, Middle-Class Jobs Across Canada (2023-06-15 | Department of Natural Resources)</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/natural-resources-canada/news/2023/06/government-of-canada-tables-the-canadian-sustainable-jobs-act-to-enable-the-creation-of-good-middle-class-jobs-across-canada.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/ressources-naturelles-canada/nouvelles/2023/06/le-gouvernement-du-canada-depose-un-projet-de-loi-canadien-sur-les-emplois-durables-pour-favoriser-la-creation-de-bons-emplois-dans-la-classe-moyen.html</UrlFr>
+      <Url>https://www.canada.ca/en/natural-resources-canada/news/2023/06/government-of-canada-tables-the-canadian-sustainable-jobs-act-to-enable-the-creation-of-good-middle-class-jobs-across-canada.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Backgrounder: Canadian Sustainable Jobs Act (2023-06-15 | Department of Natural Resources)</TitleEn>
+      <TitleFr>Document d'information : Loi canadienne sur les emplois durables(2023-06-15 | Ministère des Ressources naturelles)</TitleFr>
+      <Title>Backgrounder: Canadian Sustainable Jobs Act (2023-06-15 | Department of Natural Resources)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/natural-resources-canada/news/2023/06/backgrounder-canadian-sustainable-jobs-act.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/ressources-naturelles-canada/nouvelles/2023/06/document-dinformation--loi-canadienne-sur-les-emplois-durables.html</UrlFr>
+      <Url>https://www.canada.ca/en/natural-resources-canada/news/2023/06/backgrounder-canadian-sustainable-jobs-act.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Government of Canada. Sustainable Jobs Plan. 2023.</TitleEn>
+      <TitleFr>Gouvernement du Canada. Plan pour des emplois durables. 2023.</TitleFr>
+      <Title>Government of Canada. Sustainable Jobs Plan. 2023.</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/services/jobs/training/initiatives/sustainable-jobs/plan.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/services/emplois/formation/initiatives/emplois-durables/plan.html</UrlFr>
+      <Url>https://www.canada.ca/en/services/jobs/training/initiatives/sustainable-jobs/plan.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Government of Canada. 2.1 Investing in Skills for a Net-Zero Economy. In Fall Economic Statement 2022</TitleEn>
+      <TitleFr>Gouvernment du Canada. 2.1 Investir dans les compétences en vue d'une économie carboneutre. Dans Énoncé économique de l'automne de 2022</TitleFr>
+      <Title>Government of Canada. 2.1 Investing in Skills for a Net-Zero Economy. In Fall Economic Statement 2022</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.budget.canada.ca/fes-eea/2022/report-rapport/chap2-en.html#a6</UrlEn>
+      <UrlFr>https://www.budget.canada.ca/fes-eea/2022/report-rapport/chap2-fr.html#a6</UrlFr>
+      <Url>https://www.budget.canada.ca/fes-eea/2022/report-rapport/chap2-en.html#a6</Url>
+    </WebReferences>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
