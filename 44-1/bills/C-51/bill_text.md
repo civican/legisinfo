@@ -1,7 +1,5 @@
 # Bill C-51: An Act to give effect to the self-government treaty recognizing the Whitecap Dakota Nation / Wapaha Ska Dakota Oyate and to make consequential amendments to other Acts
 
-**Sponsor**: MINISTER OF CROWN-INDIGENOUS RELATIONS
-
 ## Summary
 
 This enactment gives effect to the treaty entitled "A Self-Government Treaty Recognizing the Whitecap Dakota Nation / Wapaha Ska Dakota Oyate" and makes consequential amendments to other Acts.
@@ -278,13 +276,7 @@ Despite subsection 4(1), Chapter 33 and Schedule B of the Treaty are deemed to h
 
 Subsection 13(3) of the `Access to Information Act` is amended by adding the following after paragraph (h):
 
-**the Whitecap Dakota Government, as defined in section 2 of the `Self-Government Treaty Recognizing the Whitecap Dakota Nation / Wapaha Ska Dakota Oyate Act`;**
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 13(3):
-> *Existing Text*:
-> > The expression **aboriginal government** in paragraph (1)(e) means
+the Whitecap Dakota Government, as defined in section 2 of the `Self-Government Treaty Recognizing the Whitecap Dakota Nation / Wapaha Ska Dakota Oyate Act`;
 
 
 ### Payments in Lieu of Taxes Act
@@ -294,12 +286,6 @@ Subsection 13(3) of the `Access to Information Act` is amended by adding the fol
 The definition taxing authority in subsection 2(1) of the `Payments in Lieu of Taxes Act` is amended by striking out "or" at the end of paragraph (i), by adding "or" at the end of paragraph (j) and by adding the following after paragraph (j):
 
 the Whitecap Dakota Government, as defined in section 2 of the `Self-Government Treaty Recognizing the Whitecap Dakota Nation / Wapaha Ska Dakota Oyate Act`, if it levies and collects a real property tax or a frontage or area tax in respect of Whitecap Dakota reserve lands, as defined in section 2 of that Act.
-
-
-> **Explanatory Note**:
-> Relevant portion of the definition:
-> *Existing Text*:
-> > **taxing authority** means
 
 
 ### Privacy Act
@@ -312,19 +298,13 @@ the Whitecap Dakota Government, as defined in section 2 of the `Self-Government 
 
   **(2)** Subsection 8(7) of the Act is amended by adding the following after paragraph (h):
 
-    **the Whitecap Dakota Government, as defined in section 2 of the `Self-Government Treaty Recognizing the Whitecap Dakota Nation / Wapaha Ska Dakota Oyate Act`;**
+    the Whitecap Dakota Government, as defined in section 2 of the `Self-Government Treaty Recognizing the Whitecap Dakota Nation / Wapaha Ska Dakota Oyate Act`;
 
 ### Section 21
 
 Subsection 19(1) of the Act is amended by adding the following after paragraph (e):
 
-**the Whitecap Dakota Government, as defined in section 2 of the `Self-Government Treaty Recognizing the Whitecap Dakota Nation / Wapaha Ska Dakota Oyate Act`;**
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 19(1):
-> *Existing Text*:
-> > Subject to subsection (2), the head of a government institution shall refuse to disclose any personal information requested under subsection 12(1) that was obtained in confidence from
+the Whitecap Dakota Government, as defined in section 2 of the `Self-Government Treaty Recognizing the Whitecap Dakota Nation / Wapaha Ska Dakota Oyate Act`;
 
 
 ### First Nations Goods and Services Tax Act
