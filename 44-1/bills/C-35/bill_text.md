@@ -1,7 +1,5 @@
 # Bill C-35: An Act respecting early learning and child care in Canada
 
-**Sponsor**: MINISTER OF FAMILIES, CHILDREN AND SOCIAL DEVELOPMENT
-
 Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act respecting early learning and child care in Canada*".
 
 ## Summary
@@ -89,7 +87,7 @@ access to affordable early learning and child care programs and services enable 
 
 it is important for the Government of Canada to cooperate, collaborate and work in partnership with the provinces and Indigenous peoples and support them in their efforts to provide those programs and services; and
 
-First Nations, Inuit and Métis children and families are best supported by early learning and child care programs and services that are culturally appropriate, that are led by Indigenous peoples and **that respect the right of Indigenous peoples to free, prior and informed consent in matters relating to children**.
+First Nations, Inuit and Métis children and families are best supported by early learning and child care programs and services that are culturally appropriate, that are led by Indigenous peoples and that respect the right of Indigenous peoples to free, prior and informed consent in matters relating to children.
 
 
 ## Funding
@@ -98,13 +96,13 @@ First Nations, Inuit and Métis children and families are best supported by earl
 
   **(1)** Federal investments respecting the establishment and maintenance of a Canada-wide early learning and child care system — as well as the efforts to enter into related agreements with the provinces and Indigenous peoples — must be guided by the principles by which early learning and child care programs and services should be accessible, affordable, inclusive and of high quality and must, therefore, aim to
 
-    **support the provision of, and** facilitate **equitable** access to, **high-quality** early learning and child care programs and services — in particular those that are provided by public and not for profit child care providers — that meet standards set by provincial governments or Indigenous governing bodies, **that are reflective of other evidence-based best practices in high-quality service provision** and **that** respond to the varying needs of children and families;
+    support the provision of, and facilitate equitable access to, high-quality early learning and child care programs and services — in particular those that are provided by public and not for profit child care providers — that meet standards set by provincial governments or Indigenous governing bodies, that are reflective of other evidence-based best practices in high-quality service provision and that respond to the varying needs of children and families;
 
-    enable families of **all income levels, including low** incomes, to benefit from affordable early learning and child care programs and services;
+    enable families of all income levels, including low incomes, to benefit from affordable early learning and child care programs and services;
 
-    support the provision, **including in rural and remote communities**, of early learning and child care programs and services that are inclusive **of children from systematically marginalized groups, including children with disabilities, and of children from English and French linguistic minority communities**, that respect and value the diversity of all children and families and **that** respond to their varying needs; and
+    support the provision, including in rural and remote communities, of early learning and child care programs and services that are inclusive of children from systematically marginalized groups, including children with disabilities, and of children from English and French linguistic minority communities, that respect and value the diversity of all children and families and that respond to their varying needs; and
 
-    support the provision of high-quality early learning and child care programs and services that foster the social, emotional, physical and cognitive development of young children, including through the **recruitment and retention** of a qualified and well-supported early childhood education workforce, **recognizing that working conditions affect the provision of those programs and services**.
+    support the provision of high-quality early learning and child care programs and services that foster the social, emotional, physical and cognitive development of young children, including through the recruitment and retention of a qualified and well-supported early childhood education workforce, recognizing that working conditions affect the provision of those programs and services.
 
   **(2)** Federal investments in respect of early learning and child care programs and services for Indigenous peoples — as well as the efforts to enter into related agreements with Indigenous peoples — must be guided by the principles set out in the Indigenous Early Learning and Child Care Framework, in addition to the principles set out in subsection (1).
 
@@ -129,7 +127,7 @@ A Council is established, to be known as the National Advisory Council on Early 
 
 ### Section 11
 
-  **(1)** The members of the Council, other than the ex officio member, are to be appointed by the Governor in Council — on the recommendation of the Minister, having regard to the importance of having members who are representative of the diversity of Canadian society, **including Indigenous peoples and official language minority communities** — to hold office during pleasure for a term not exceeding three years and are eligible to be reappointed in the same or another capacity.
+  **(1)** The members of the Council, other than the ex officio member, are to be appointed by the Governor in Council — on the recommendation of the Minister, having regard to the importance of having members who are representative of the diversity of Canadian society, including Indigenous peoples and official language minority communities — to hold office during pleasure for a term not exceeding three years and are eligible to be reappointed in the same or another capacity.
 
   **(2)** The Chairperson is to be appointed as a full-time member or a part-time member and the other members, other than the ex officio member, are to be appointed as part-time members.
 
