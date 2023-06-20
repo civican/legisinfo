@@ -1,0 +1,589 @@
+<Bills>
+  <Bill>
+    <Id>12540212</Id>
+    <NumberCode>C-52</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>52</Number>
+    <LongTitleEn>An Act to enact the Air Transportation Accountability Act and to amend the Canada Transportation Act and the Canada Marine Act</LongTitleEn>
+    <LongTitleFr>Loi édictant la Loi sur la responsabilité en matière de transport aérien et modifiant la Loi sur les transports au Canada et la Loi maritime du Canada</LongTitleFr>
+    <LongTitle>An Act to enact the Air Transportation Accountability Act and to amend the Canada Transportation Act and the Canada Marine Act</LongTitle>
+    <ShortTitleEn>Enhancing Transparency and Accountability in the Transportation System Act</ShortTitleEn>
+    <ShortTitleFr>Loi sur l'amélioration de la transparence et de la responsabilité dans le système de transport</ShortTitleFr>
+    <ShortTitle>Enhancing Transparency and Accountability in the Transportation System Act</ShortTitle>
+    <StatusId>349</StatusId>
+    <StatusNameEn>At second reading in the House of Commons</StatusNameEn>
+    <StatusNameFr>À la deuxième lecture à la Chambre des communes</StatusNameFr>
+    <StatusName>At second reading in the House of Commons</StatusName>
+    <LatestCompletedMajorStageId>60043</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>First reading</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Première lecture</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>First reading</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>First reading in the House of Commons</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>1</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>House of Commons</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Chambre des communes</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>House of Commons</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60030</OngoingStageId>
+    <OngoingStageNameEn>Second reading</OngoingStageNameEn>
+    <OngoingStageNameFr>Deuxième lecture</OngoingStageNameFr>
+    <OngoingStageName>Second reading</OngoingStageName>
+    <LatestCompletedBillStageId>60029</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>First reading</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Première lecture</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>First reading</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>1</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>House of Commons</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Chambre des communes</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>House of Commons</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2023-06-20T10:04:38.007</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>44</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>89535</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Omar</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Alghabra</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Omar Alghabra</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Transport</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre des Transports</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Transport</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>4</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Minister</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>ministre</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Minister</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>772</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Mississauga Centre</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Mississauga-Centre</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Mississauga Centre</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60115</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Debate at second reading</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Débat à l'étape de la deuxième lecture</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60030</LatestBillEventStageId>
+    <LatestBillEventTypeName>Debate at second reading</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2023-11-21T10:00:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>1</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>House of Commons</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Chambre des communes</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>House of Commons</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>252</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2023-06-20T10:04:38.007</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime />
+    <PassedHouseThirdReadingDateTime />
+    <PassedSenateFirstReadingDateTime />
+    <PassedSenateSecondReadingDateTime />
+    <PassedSenateThirdReadingDateTime />
+    <ReceivedRoyalAssentDateTime />
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>false</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>false</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>false</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>false</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>false</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>false</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information, Education and Research Services of the Library of Parliament. Meanwhile, the following executive summary is available.&lt;br/&gt;&lt;br/&gt;On 20 June 2023, the Minister of Transport introduced Bill C-52, An Act to enact the Air Transportation Accountability Act and to amend the Canada Transportation Act and the Canada Marine Act (Enhancing Transparency and Accountability in the Transportation System Act), and it was given first reading.   &lt;br/&gt;&lt;br/&gt;Part 1 of this enactment enacts the Air Transportation Accountability Act, which creates a statutory framework to increase transparency and accountability in the air transportation sector, including by&lt;br/&gt;&lt;br/&gt;(a) establishing requirements respecting the provision of information to the Minister of Transport by airport operators, air carriers and any entity providing flight-related services;&lt;br/&gt;&lt;br/&gt;(b) requiring that airport operators take measures to help Canada meet its international obligations in respect of aeronautics, in accordance with directions issued by the Minister of Transport;&lt;br/&gt;&lt;br/&gt;(c) authorizing the Governor in Council to make regulations respecting the development and implementation of service standards related to flights and flight-related services, including a dispute resolution process in respect of their development and publication requirements for information related to compliance with those standards;&lt;br/&gt;&lt;br/&gt;(d) establishing requirements in respect of noise management committees and setting out notice and consultation requirements relating to aircraft noise;&lt;br/&gt;&lt;br/&gt;(e) establishing requirements for airport authorities to create plans respecting climate change and climate change preparedness and authorizing the Governor in Council to make regulations respecting reporting requirements for those plans;&lt;br/&gt;&lt;br/&gt;(f) requiring airport authorities to publish information respecting diversity among directors and senior management;&lt;br/&gt;&lt;br/&gt;(g) providing a process by which to make complaints respecting notice and consultation requirements in relation to aircraft noise; and&lt;br/&gt;&lt;br/&gt;(h) providing for an administration and enforcement mechanism that includes an administrative monetary penalty framework.&lt;br/&gt;&lt;br/&gt;Part 2 amends the Canada Transportation Act to, among other things,&lt;br/&gt;&lt;br/&gt;(a) authorize the Governor in Council to make regulations requiring certain persons to provide information for the purpose of supporting a transportation system that is accessible without undue obstacle to the mobility of all persons;&lt;br/&gt;&lt;br/&gt;(b) allow the Minister of Transport and the Canadian Transportation Agency to make this information public; and&lt;br/&gt;&lt;br/&gt;(c) authorize the Governor in Council to make regulations respecting a process for dealing with complaints relating to accessibility in relation to the transportation of persons with disabilities.&lt;br/&gt;&lt;br/&gt;Part 3 amends the Canada Marine Act to, among other things,&lt;br/&gt;&lt;br/&gt;(a) add principles that a port authority must observe when fixing port fees and a fee-related complaints process that is to be administered by the Canadian Transportation Agency;&lt;br/&gt;&lt;br/&gt;(b) authorize the Governor in Council to make regulations respecting alternative dispute resolution in regards to disputes arising in respect of a lease relating to the operation of a port terminal; and&lt;br/&gt;&lt;br/&gt;(c) allow the Agency to make rules respecting the fees to be paid in relation to the administration or enforcement of any provision of Part 1 of that Act, or the regulations under that Part, the administration or enforcement of which is the responsibility of the Agency.&lt;/div&gt;</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>&lt;div&gt;Les Service d'information, d'éducation et de recherche parlementaires de la Bibliothèque du Parlement rédige actuellement le résumé législatif de ce projet de loi.  Entre-temps, le Service met à votre disposition le sommaire suivant.&lt;br/&gt;&lt;br/&gt;Le 20 juin 2023, le ministre des Transports a déposé le projet de loi C-52, Loi édictant la Loi sur la responsabilité en matière de transport aérien et modifiant la Loi sur les transports au Canada et la Loi maritime du Canada (Loi sur l'amélioration de la transparence et de la responsabilité dans le système de transport), à la Chambre des communes en première lecture.  &lt;br/&gt;&lt;br/&gt;La partie 1 de ce texte édicte la Loi sur la responsabilité en matière de transport aérien qui crée un cadre législatif afin d'accroître la transparence et la responsabilité au sein du secteur du transport aérien, notamment?:&lt;br/&gt;&lt;br/&gt;a) en établissant des exigences concernant la fourniture au ministre des Transports de renseignements par les exploitants d'aéroports, les transporteurs aériens et toute entité fournissant des services liés aux vols;&lt;br/&gt;&lt;br/&gt;b) en obligeant les exploitants d'aéroports à prendre des mesures, afin d'aider le Canada à respecter ses obligations internationales en matière d'aéronautique, conformément aux directives données par le ministre des Transports;&lt;br/&gt;&lt;br/&gt;c) en autorisant le gouverneur en conseil à prendre des règlements concernant l'élaboration et la mise en œuvre de normes de service relatives aux vols et aux services liés aux vols, notamment le processus de règlement de différends se rattachant à l'élaboration de ces normes, ainsi que les exigences applicables à la publication de renseignements liés au respect de celles-ci;&lt;br/&gt;&lt;br/&gt;d) en établissant des exigences à l'égard des comités de gestion du bruit et en prévoyant des exigences en matière d'avis et de consultation liées au bruit des aéronefs;&lt;br/&gt;&lt;br/&gt;e) en établissant des exigences relatives à l'élaboration de la part des administrations aéroportuaires de plans en matière de changements climatiques et de préparation aux changements climatiques ainsi qu'en autorisant le gouverneur en conseil à prendre des règlements concernant l'obligation de faire rapport sur ces plans;&lt;br/&gt;&lt;br/&gt;f) en obligeant la publication par les administrations aéroportuaires de renseignements sur la diversité au sein des administrateurs et de la haute direction;&lt;br/&gt;&lt;br/&gt;g) en prévoyant un processus de dépôt de plaintes concernant les exigences en matière d'avis et de consultation liées au bruit des aéronefs;&lt;br/&gt;&lt;br/&gt;h) en prévoyant un mécanisme d'exécution et de contrôle d'application qui comprend un régime de sanctions administratives pécuniaires.&lt;br/&gt;&lt;br/&gt;La partie 2 modifie la Loi sur les transports au Canada afin de, notamment?:&lt;br/&gt;&lt;br/&gt;a) conférer au gouverneur en conseil le pouvoir de prendre des règlements exigeant que certaines personnes fournissent des renseignements en vue de favoriser un système de transport accessible sans obstacle abusif à la circulation de tous;&lt;br/&gt;&lt;br/&gt;b) permettre au ministre des Transports et à l'Office des transports du Canada de rendre ces renseignements publics;&lt;br/&gt;&lt;br/&gt;c) conférer au gouverneur en conseil le pouvoir de prendre des règlements concernant le processus de traitement des plaintes concernant l'accessibilité en matière de transport des personnes handicapées.&lt;br/&gt;&lt;br/&gt;La partie 3 modifie la Loi maritime du Canada afin de, notamment?:&lt;br/&gt;&lt;br/&gt;a) ajouter des paramètres auxquels les administrations portuaires doivent se conformer lorsqu'elles fixent les droits portuaires et un processus de règlement des plaintes en lien avec les droits qui sera administré par l'Office des transports du Canada;&lt;br/&gt;&lt;br/&gt;b) conférer au gouverneur en conseil le pouvoir de prendre des règlements concernant le règlement extrajudiciaire des différends relatifs aux baux liés à l'exploitation de terminaux portuaires;&lt;br/&gt;&lt;br/&gt;c) permettre à l'Office d'établir des règles concernant les droits à payer relativement à l'exécution et au contrôle d'application des dispositions de la partie 1 de cette loi, et des règlements pris en vertu de cette partie, dont l'Office est responsable.&lt;/div&gt;</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information, Education and Research Services of the Library of Parliament. Meanwhile, the following executive summary is available.&lt;br/&gt;&lt;br/&gt;On 20 June 2023, the Minister of Transport introduced Bill C-52, An Act to enact the Air Transportation Accountability Act and to amend the Canada Transportation Act and the Canada Marine Act (Enhancing Transparency and Accountability in the Transportation System Act), and it was given first reading.   &lt;br/&gt;&lt;br/&gt;Part 1 of this enactment enacts the Air Transportation Accountability Act, which creates a statutory framework to increase transparency and accountability in the air transportation sector, including by&lt;br/&gt;&lt;br/&gt;(a) establishing requirements respecting the provision of information to the Minister of Transport by airport operators, air carriers and any entity providing flight-related services;&lt;br/&gt;&lt;br/&gt;(b) requiring that airport operators take measures to help Canada meet its international obligations in respect of aeronautics, in accordance with directions issued by the Minister of Transport;&lt;br/&gt;&lt;br/&gt;(c) authorizing the Governor in Council to make regulations respecting the development and implementation of service standards related to flights and flight-related services, including a dispute resolution process in respect of their development and publication requirements for information related to compliance with those standards;&lt;br/&gt;&lt;br/&gt;(d) establishing requirements in respect of noise management committees and setting out notice and consultation requirements relating to aircraft noise;&lt;br/&gt;&lt;br/&gt;(e) establishing requirements for airport authorities to create plans respecting climate change and climate change preparedness and authorizing the Governor in Council to make regulations respecting reporting requirements for those plans;&lt;br/&gt;&lt;br/&gt;(f) requiring airport authorities to publish information respecting diversity among directors and senior management;&lt;br/&gt;&lt;br/&gt;(g) providing a process by which to make complaints respecting notice and consultation requirements in relation to aircraft noise; and&lt;br/&gt;&lt;br/&gt;(h) providing for an administration and enforcement mechanism that includes an administrative monetary penalty framework.&lt;br/&gt;&lt;br/&gt;Part 2 amends the Canada Transportation Act to, among other things,&lt;br/&gt;&lt;br/&gt;(a) authorize the Governor in Council to make regulations requiring certain persons to provide information for the purpose of supporting a transportation system that is accessible without undue obstacle to the mobility of all persons;&lt;br/&gt;&lt;br/&gt;(b) allow the Minister of Transport and the Canadian Transportation Agency to make this information public; and&lt;br/&gt;&lt;br/&gt;(c) authorize the Governor in Council to make regulations respecting a process for dealing with complaints relating to accessibility in relation to the transportation of persons with disabilities.&lt;br/&gt;&lt;br/&gt;Part 3 amends the Canada Marine Act to, among other things,&lt;br/&gt;&lt;br/&gt;(a) add principles that a port authority must observe when fixing port fees and a fee-related complaints process that is to be administered by the Canadian Transportation Agency;&lt;br/&gt;&lt;br/&gt;(b) authorize the Governor in Council to make regulations respecting alternative dispute resolution in regards to disputes arising in respect of a lease relating to the operation of a port terminal; and&lt;br/&gt;&lt;br/&gt;(c) allow the Agency to make rules respecting the fees to be paid in relation to the administration or enforcement of any provision of Part 1 of that Act, or the regulations under that Part, the administration or enforcement of which is the responsibility of the Agency.&lt;/div&gt;</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear />
+    <StatuteChapter />
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2023-06-20T10:04:38.007</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>217</Number>
+          <Date>2023-06-20T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2023-06-20T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2023-06-20T10:04:38.007</EventStartDateTime>
+          <EventEndDateTime>2023-06-20T10:04:38.007</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2023-06-20T10:04:38.007</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>5</State>
+        <StateNameEn>Not completed</StateNameEn>
+        <StateNameFr>Non achevée</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>241</Number>
+          <Date>2023-10-27T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>252</Number>
+          <Date>2023-11-21T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <EndOfStageEvent />
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2023-11-21T15:01:13</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>12399627</InterventionEventId>
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>88867</PersonId>
+          <PersonOfficialFirstName>Vance</PersonOfficialFirstName>
+          <PersonOfficialLastName>Badawey</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Vance Badawey</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>241</MeetingNumber>
+          <SpeechDateTime>2023-10-27T10:02:26</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>12399732</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>71986</PersonId>
+          <PersonOfficialFirstName>Mark</PersonOfficialFirstName>
+          <PersonOfficialLastName>Strahl</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Mark Strahl</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>241</MeetingNumber>
+          <SpeechDateTime>2023-10-27T10:31:55</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>12400374</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>88485</PersonId>
+          <PersonOfficialFirstName>Gabriel</PersonOfficialFirstName>
+          <PersonOfficialLastName>Ste-Marie</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Gabriel Ste-Marie</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Bloc Québécois</CaucusShortNameEn>
+          <CaucusShortNameFr>Bloc Québécois</CaucusShortNameFr>
+          <CaucusShortName>Bloc Québécois</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>241</MeetingNumber>
+          <SpeechDateTime>2023-10-27T12:24:19</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>12400482</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>105837</PersonId>
+          <PersonOfficialFirstName>Bonita</PersonOfficialFirstName>
+          <PersonOfficialLastName>Zarrillo</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Bonita Zarrillo</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>NDP</CaucusShortNameEn>
+          <CaucusShortNameFr>NPD</CaucusShortNameFr>
+          <CaucusShortName>NDP</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>241</MeetingNumber>
+          <SpeechDateTime>2023-10-27T12:54:06</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteint</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+    </BillStages>
+    <Publications>
+      <PublicationId>12549602</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Minister of Transport introduces Bill C-52 to ensure accountability and transparency in the national transportation sector for Canadians (2023-06-20 | Department of Transport)</TitleEn>
+      <TitleFr>Le ministre des Transports dépose le projet de loi C-52, qui vise à garantir aux Canadiennes et aux Canadiens la responsabilité et la transparence dans le secteur national des transports (2023-06-20 | Ministère des Transports)</TitleFr>
+      <Title>Minister of Transport introduces Bill C-52 to ensure accountability and transparency in the national transportation sector for Canadians (2023-06-20 | Department of Transport)</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/transport-canada/news/2023/06/minister-of-transport-introduces-bill-c-52-to-ensure-accountability-and-transparency-in-the-national-transportation-sector-for-canadians.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/transports-canada/nouvelles/2023/06/le-ministre-des-transports-depose-le-projet-de-loi-c-52-qui-vise-a-garantir-aux-canadiennes-et-aux-canadiens-la-responsabilite-et-la-transparence-d.html</UrlFr>
+      <Url>https://www.canada.ca/en/transport-canada/news/2023/06/minister-of-transport-introduces-bill-c-52-to-ensure-accountability-and-transparency-in-the-national-transportation-sector-for-canadians.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Proposed legislative changes to enhance transparency and accountability in the transportation system (2023-06-20 | Department of Transport)</TitleEn>
+      <TitleFr>Modifications législatives proposées pour améliorer la transparence et la responsabilité dans le système de transport (2023-06-20 | Ministère des Transports)</TitleFr>
+      <Title>Proposed legislative changes to enhance transparency and accountability in the transportation system (2023-06-20 | Department of Transport)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/transport-canada/news/2023/06/proposed-legislative-changes-to-enhance-transparency-and-accountability-in-the-transportation-system.html%20</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/transports-canada/nouvelles/2023/06/modifications-legislatives-proposees-pour-ameliorer-la-transparence-et-la-responsabilite-dans-le-systeme-de-transport.html</UrlFr>
+      <Url>https://www.canada.ca/en/transport-canada/news/2023/06/proposed-legislative-changes-to-enhance-transparency-and-accountability-in-the-transportation-system.html%20</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Department of Transport. COVID-19 and Canada's Air Transportation Sector: Response, Recovery and Restart. June 2023.</TitleEn>
+      <TitleFr>Ministère des Transports. La COVID-19 et le secteur du transport aérien au Canada : intervention, rétablissement et redémarrage. Juin 2023</TitleFr>
+      <Title>Department of Transport. COVID-19 and Canada's Air Transportation Sector: Response, Recovery and Restart. June 2023.</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://tc.canada.ca/sites/default/files/2023-06/covid-19_canada_air_transportation_sector_-_response_recovery_restart.pdf</UrlEn>
+      <UrlFr>https://tc.canada.ca/sites/default/files/2023-06/covid-19_secteur_du_transport_aerien_canada_-_intervention_retablissement_redemarrage.pdf</UrlFr>
+      <Url>https://tc.canada.ca/sites/default/files/2023-06/covid-19_canada_air_transportation_sector_-_response_recovery_restart.pdf</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Charter Statement - Bill C-52: An Act to enact the Air Transportation Accountability Act and to amend the Canada Transportation Act and the Canada Marine Act (Tabled 2023-09-20)</TitleEn>
+      <TitleFr>Énoncé concernant la Charte - Projet de loi C-52 : Loi édictant la Loi sur la responsabilité en matière de transport aérien et modifiant la Loi sur les transports au Canada et la Loi maritime du Canada (Déposé 2023-09-20)</TitleFr>
+      <Title>Charter Statement - Bill C-52: An Act to enact the Air Transportation Accountability Act and to amend the Canada Transportation Act and the Canada Marine Act (Tabled 2023-09-20)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.justice.gc.ca/eng/csj-sjc/pl/charter-charte/c52.html</UrlEn>
+      <UrlFr>https://www.justice.gc.ca/fra/sjc-csj/pl/charte-charter/c52.html</UrlFr>
+      <Url>https://www.justice.gc.ca/eng/csj-sjc/pl/charter-charte/c52.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Office of the Auditor General of Canada. Accessible Transportation for Persons With Disabilities. Report 1 in 2023 Reports 1 to 4 of the Auditor General of Canada. 2023.</TitleEn>
+      <TitleFr>Bureau du vérificateur général du Canada. Les transports accessibles aux personnes en situation de handicap, rapport 1 des 2023 – Rapports 1 à 4 de la vérificatrice générale du Canada, 2023.</TitleFr>
+      <Title>Office of the Auditor General of Canada. Accessible Transportation for Persons With Disabilities. Report 1 in 2023 Reports 1 to 4 of the Auditor General of Canada. 2023.</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.oag-bvg.gc.ca/internet/English/att__e_44224.html</UrlEn>
+      <UrlFr>https://www.oag-bvg.gc.ca/internet/Francais/att__f_44224.html</UrlFr>
+      <Url>https://www.oag-bvg.gc.ca/internet/English/att__e_44224.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Padova, Allison. Aircraft Noise Management in Canada. Publication No. 2013-08-E, Library of Parliament, Ottawa, 27 February 2013.</TitleEn>
+      <TitleFr>Padova, Allison. La gestion du bruit des aéronefs au Canada, publication no 2013-08-F, Ottawa, Bibliothèque du Parlement, 27 février 2013.</TitleFr>
+      <Title>Padova, Allison. Aircraft Noise Management in Canada. Publication No. 2013-08-E, Library of Parliament, Ottawa, 27 February 2013.</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://lop.parl.ca/sites/PublicWebsite/default/en_CA/ResearchPublications/201308E</UrlEn>
+      <UrlFr>https://lop.parl.ca/sites/PublicWebsite/default/fr_CA/ResearchPublications/201308E</UrlFr>
+      <Url>https://lop.parl.ca/sites/PublicWebsite/default/en_CA/ResearchPublications/201308E</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Aldcorn, Jody E., Rachael Carlson, and Eric Driver. Canada's Renewed Attempt to Regulate Airports: The Introduction of Bill C-52. McCarthy Tetrault, 7 July 2023.</TitleEn>
+      <TitleFr>Aldcorn, Jody E., Rachael Carlson, et Eric Driver. Nouvelle tentative par le Canada de réglementer les aéroports : Introduction du Projet de loi C-52. McCarthy Tetrault, 7 juillet 2023.</TitleFr>
+      <Title>Aldcorn, Jody E., Rachael Carlson, and Eric Driver. Canada's Renewed Attempt to Regulate Airports: The Introduction of Bill C-52. McCarthy Tetrault, 7 July 2023.</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.mccarthy.ca/en/insights/blogs/mccarthy-tetrault-moves/canadas-renewed-attempt-regulate-airports-introduction-bill-c-52</UrlEn>
+      <UrlFr>https://www.mccarthy.ca/fr/references/blogues/mccarthy-tetrault-en-mouvement/nouvelle-tentative-par-le-canada-de-reglementer-les-aeroports-introduction-du-projet-de-loi-c-52</UrlFr>
+      <Url>https://www.mccarthy.ca/en/insights/blogs/mccarthy-tetrault-moves/canadas-renewed-attempt-regulate-airports-introduction-bill-c-52</Url>
+    </WebReferences>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
