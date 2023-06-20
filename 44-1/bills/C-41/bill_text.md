@@ -1,7 +1,5 @@
 # Bill C-41: An Act to amend the Criminal Code and to make consequential amendments to other Acts
 
-**Sponsor**: MINISTER OF PUBLIC SAFETY
-
 ## Summary
 
 This enactment amends the `Criminal Code` in order to create a regime under which the Minister of Public Safety and Emergency Preparedness may authorize an eligible person to carry out, in a geographic area that is controlled by a terrorist group and for certain purposes, activities that otherwise would be prohibited under paragraph 83.03(b) of that Act (which becomes subsection 83.03(2)). It also makes consequential amendments to other Acts.
@@ -17,9 +15,9 @@ Section 83.03 of the `Criminal Code` is replaced by the following:
 
 ### Section 83.03
 
-  **(1)** Every person is guilty of an indictable offence and liable to imprisonment for a term of not more than 10 years who, directly or indirectly, **wilfully and without lawful justification or excuse**, collects property or provides, invites a person to provide or makes available property or financial or other related services, intending that they be used, or knowing that they will be used, in whole or in part, for the purpose of facilitating or carrying out any terrorist activity, or for the purpose of benefiting any person who is facilitating or carrying out such an activity.
+  **(1)** Every person is guilty of an indictable offence and liable to imprisonment for a term of not more than 10 years who, directly or indirectly, wilfully and without lawful justification or excuse, collects property or provides, invites a person to provide or makes available property or financial or other related services, intending that they be used, or knowing that they will be used, in whole or in part, for the purpose of facilitating or carrying out any terrorist activity, or for the purpose of benefiting any person who is facilitating or carrying out such an activity.
 
-  **(2)** Every person is guilty of an indictable offence and liable to imprisonment for a term of not more than 10 years who, directly or indirectly, **wilfully and without lawful justification or excuse**, collects property or provides, invites a person to provide or makes available property or financial or other related services, knowing that, in whole or part, they will be used by or will benefit a terrorist group.
+  **(2)** Every person is guilty of an indictable offence and liable to imprisonment for a term of not more than 10 years who, directly or indirectly, wilfully and without lawful justification or excuse, collects property or provides, invites a person to provide or makes available property or financial or other related services, knowing that, in whole or part, they will be used by or will benefit a terrorist group.
 
   **(3)** Subsection (2) does not apply to a person who carries out any of the acts referred to in that subsection under and in accordance with an authorization granted under section 83.032.
 
@@ -35,8 +33,6 @@ Section 83.03 of the `Criminal Code` is replaced by the following:
 
   **(1)** On application, the Public Safety Minister may authorize an eligible person to carry out, in a specified geographic area that is controlled by a terrorist group, a specified activity that would otherwise be prohibited under subsection 83.03(2) — or a specified class of such activities — for any specified purpose from among the following:
 
-    [*Deleted*]
-
     providing or supporting the provision of health services;
 
     providing or supporting the provision of education services;
@@ -47,23 +43,23 @@ Section 83.03 of the `Criminal Code` is replaced by the following:
 
     providing or supporting the provision of services related to immigration, including services related to the resettlement of individuals and the safe passage of individuals from one geographic area to another; and
 
-    supporting any operations of a federal minister or a department or agency of the Government of Canada that are conducted for a purpose other than one set out in any of paragraphs (a) to (f).
+    supporting any operations of a federal minister or a department or agency of the Government of Canada that are conducted for a purpose other than one set out in any of paragraphs (a) to (e).
 
   **(2)** For the purposes of this section, a terrorist group controls a geographic area if the group exerts sufficient influence over the area such that the carrying out, in the area, of an activity involving property or financial or other related services could reasonably be expected to result in the terrorist group using or benefiting from the property or services, in whole or in part.
 
   **(2.1)** The Public Safety Minister must, at the request of an eligible person or an organization, provide to that person or organization information in writing about whether an authorization is required to carry out an activity or a class of activities in a given geographic area.
 
-  **(3)** The Public Safety Minister must not, under subsection (1), authorize the making by a federal minister or a department or agency of the Government of Canada of a grant or contribution that is for the purpose of supporting any operations referred to in paragraph (1)(g).
+  **(3)** The Public Safety Minister must not, under subsection (1), authorize the making by a federal minister or a department or agency of the Government of Canada of a grant or contribution that is for the purpose of supporting any operations referred to in paragraph (1)(f).
 
   **(4)** A person is eligible to be granted an authorization if they are in Canada or are a Canadian outside Canada.
 
   **(5)** The Public Safety Minister may consider an application only if it has been referred to them by
 
-    the Minister of Citizenship and Immigration, if the application is in respect of only the purpose set out in paragraph (1)(f);
+    the Minister of Citizenship and Immigration, if the application is in respect of only the purpose set out in paragraph (1)(e);
 
-    the Minister of Foreign Affairs, if the application is not in respect of the purpose set out in paragraph (1)(f); or
+    the Minister of Foreign Affairs, if the application is not in respect of the purpose set out in paragraph (1)(e); or
 
-    both of those Ministers, if the application is in respect of two or more purposes set out in subsection (1), at least one of which is the purpose set out in paragraph (1)(f).
+    both of those Ministers, if the application is in respect of two or more purposes set out in subsection (1), at least one of which is the purpose set out in paragraph (1)(e).
 
   **(6)** The Minister of Foreign Affairs, the Minister of Citizenship and Immigration or both of those Ministers, as the case may be, may refer an application if they are satisfied that
 
@@ -71,7 +67,7 @@ Section 83.03 of the `Criminal Code` is replaced by the following:
 
     the geographic area identified in the application is controlled by a terrorist group;
 
-    the activity proposed in the application is to be carried out for any of the purposes set out in paragraphs (1)(a) to (g);
+    the activity proposed in the application is to be carried out for any of the purposes set out in paragraphs (1)(a) to (f);
 
     that activity responds to a real and important need in that geographic area; and
 
@@ -125,13 +121,13 @@ Section 83.03 of the `Criminal Code` is replaced by the following:
 
   **(1)** The Public Safety Minister, the Minister of Foreign Affairs or the Minister of Citizenship and Immigration, as the case may be, must give notice of a decision to refuse an application made under section 83.032 to the applicant within a reasonable time.
 
-  **(2)** An applicant whose application is refused is not permitted to make a new application in respect of the same activity until the end of the **30th** day after the day on which the notice is given, unless the Minister who gave the notice is satisfied that there has been a material change of circumstances.
+  **(2)** An applicant whose application is refused is not permitted to make a new application in respect of the same activity until the end of the 30th day after the day on which the notice is given, unless the Minister who gave the notice is satisfied that there has been a material change of circumstances.
 
   **(3)** If the Public Safety Minister gave the notice and is satisfied as described in subsection (2), that Minister may consider the new application without it having been referred under subsection 83.032(5). In that case, that Minister may take into account the referral of the previous application for the purposes of subparagraph 83.032(9)(b)(i).
 
 ### Section 83.034
 
-At any time during the period of validity of an authorization granted under section 83.032 or renewed under section 83.035, the Public Safety Minister may conduct additional security reviews under subsection 83.032(10) in respect of any person to whom the authorization applies. For the purpose of those reviews, that Minister may request that the person to whom the authorization is granted provide any additional information in the form and manner, and within the period, that are specified by that Minister, **but the request must relate only to the authorization or its renewal**.
+At any time during the period of validity of an authorization granted under section 83.032 or renewed under section 83.035, the Public Safety Minister may conduct additional security reviews under subsection 83.032(10) in respect of any person to whom the authorization applies. For the purpose of those reviews, that Minister may request that the person to whom the authorization is granted provide any additional information in the form and manner, and within the period, that are specified by that Minister, but the request must relate only to the authorization or its renewal.
 
 ### Section 83.035
 
@@ -159,7 +155,7 @@ the Public Safety Minister is no longer satisfied that the condition set out in 
 
 ### Section 83.038
 
-  ****(1)**** The following entities may assist the Public Safety Minister in the administration and enforcement of sections 83.031 to 83.0392, including by collecting information from and disclosing information to that Minister and each other:
+  **(1)** The following entities may assist the Public Safety Minister in the administration and enforcement of sections 83.031 to 83.0392, including by collecting information from and disclosing information to that Minister and each other:
 
     the Canadian Security Intelligence Service;
 
@@ -223,17 +219,17 @@ respecting the granting, renewal, amendment, suspension, revocation or restricti
 
 respecting reporting by the person to whom an authorization is granted under section 83.032 for the purpose of ensuring compliance with the authorization and with any terms and conditions included in it under subsection 83.032(12); and
 
-prescribing any other entity for the purpose of paragraph 83.038(j).
+prescribing any other entity for the purpose of paragraph 83.038(1)(j).
 
 ### Section 83.0392
 
-  **(1)** The Public Safety Minister must prepare and cause to be laid before each House of Parliament, within **90** days after the first day of January of every year, a report on the operation of sections 83.031 to 83.0391 for the previous calendar year.
+  **(1)** The Public Safety Minister must prepare and cause to be laid before each House of Parliament, within 90 days after the first day of January of every year, a report on the operation of sections 83.031 to 83.0391 for the previous calendar year.
 
   **(1.1)** The report under subsection (1) must set out the number of applications for authorizations made, approved or refused in the previous calendar year.
 
   **(1.2)** If the report under subsection (1) contains any redactions, the Public Safety Minister must forward the unredacted report to the National Security and Intelligence Committee of Parliamentarians as well as the National Security and Intelligence Review Agency.
 
-  **(2)** A comprehensive review of sections 83.031 to 83.0391 and their operation must be conducted by the Public Safety Minister no later than the **first** anniversary of the day on which this section comes into force. The Public Safety Minister must cause a report to be laid before each House of Parliament within 180 days after that **first** anniversary **and every five years thereafter**.
+  **(2)** A comprehensive review of sections 83.031 to 83.0391 and their operation must be conducted by the Public Safety Minister no later than the first anniversary of the day on which this section comes into force. The Public Safety Minister must cause a report to be laid before each House of Parliament within 180 days after that first anniversary and every five years thereafter.
 
   **(3)** If the report identifies any deficiencies in sections 83.031 to 83.0391 or their operation, the report must include a plan to remedy those deficiencies — including any proposed legislative amendments — and a timeline for its implementation.
 
