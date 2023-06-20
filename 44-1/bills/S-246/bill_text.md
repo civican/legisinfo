@@ -12,7 +12,7 @@ Whereas Parliament wishes to recognize and celebrate the historic mark that Leba
 
 And whereas recognizing and celebrating Lebanese Heritage Month across Canada would encourage Lebanese Canadians to promote their traditions and culture and share them with all Canadians;
 
-Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+Now, therefore, His Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
 
 ## Short Title
