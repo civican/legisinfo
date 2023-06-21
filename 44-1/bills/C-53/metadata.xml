@@ -1,0 +1,760 @@
+<Bills>
+  <Bill>
+    <Id>12540302</Id>
+    <NumberCode>C-53</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>53</Number>
+    <LongTitleEn>An Act respecting the recognition of certain Métis governments in Alberta, Ontario and Saskatchewan, to give effect to treaties with those governments and to make consequential amendments to other Acts</LongTitleEn>
+    <LongTitleFr>Loi concernant la reconnaissance de certains gouvernements métis en Alberta, en Ontario et en Saskatchewan, portant mise en vigueur des traités conclus avec ces gouvernements et modifiant d'autres lois en conséquence</LongTitleFr>
+    <LongTitle>An Act respecting the recognition of certain Métis governments in Alberta, Ontario and Saskatchewan, to give effect to treaties with those governments and to make consequential amendments to other Acts</LongTitle>
+    <ShortTitleEn>Recognition of Certain Métis Governments in Alberta, Ontario and Saskatchewan and Métis Self-Government Act</ShortTitleEn>
+    <ShortTitleFr>Loi sur la reconnaissance de certains gouvernements métis en Alberta, en Ontario et en Saskatchewan et sur l'autonomie gouvernementale métisse</ShortTitleFr>
+    <ShortTitle>Recognition of Certain Métis Governments in Alberta, Ontario and Saskatchewan and Métis Self-Government Act</ShortTitle>
+    <StatusId>353</StatusId>
+    <StatusNameEn>At report stage in the House of Commons</StatusNameEn>
+    <StatusNameFr>À l'étape du rapport à la Chambre des communes</StatusNameFr>
+    <StatusName>At report stage in the House of Commons</StatusName>
+    <LatestCompletedMajorStageId>60044</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>Second reading</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Deuxième lecture</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>Second reading</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>Second reading in the House of Commons</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>1</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>House of Commons</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Chambre des communes</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>House of Commons</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60049</OngoingStageId>
+    <OngoingStageNameEn>Consideration in committee</OngoingStageNameEn>
+    <OngoingStageNameFr>Examen en comité</OngoingStageNameFr>
+    <OngoingStageName>Consideration in committee</OngoingStageName>
+    <LatestCompletedBillStageId>60074</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Committee Events Excluding Referral to Committee</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Événements comité sans renvoi à un comité</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Committee Events Excluding Referral to Committee</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>1</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>House of Commons</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Chambre des communes</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>House of Commons</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2024-02-08T10:45:02.307</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>44</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>89449</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Gary</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Anandasangaree</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Gary Anandasangaree</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Crown-Indigenous Relations</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre des Relations Couronne-Autochtones</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Crown-Indigenous Relations</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>4</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Minister</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>ministre</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Minister</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>811</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Scarborough—Rouge Park</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Scarborough—Rouge Park</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Scarborough—Rouge Park</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60124</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Committee report presented</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Présentation du rapport de comité</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60049</LatestBillEventStageId>
+    <LatestBillEventTypeName>Committee report presented</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <CommitteeOrganizationId>27176</CommitteeOrganizationId>
+      <CommitteeNameEn>Standing Committee on Indigenous and Northern Affairs</CommitteeNameEn>
+      <CommitteeNameFr>Comité permanent des affaires autochtones et du Nord</CommitteeNameFr>
+      <CommitteeAcronym>INAN</CommitteeAcronym>
+      <CommitteeName>Standing Committee on Indigenous and Northern Affairs</CommitteeName>
+      <StudyActivityId />
+      <OrganizationTypeId />
+      <ParentCommittee />
+      <IsSubCommittee>false</IsSubCommittee>
+      <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+      <IsSenateCommittee>false</IsSenateCommittee>
+      <IsJointCommittee>false</IsJointCommittee>
+    </LatestBillEventCommitteeDetails>
+    <LatestBillEventDateTime>2024-02-08T10:00:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>1</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>House of Commons</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Chambre des communes</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>House of Commons</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>122</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>278</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2023-06-21T15:45:55.51</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime>2023-06-21T16:08:16.403</PassedHouseSecondReadingDateTime>
+    <PassedHouseThirdReadingDateTime />
+    <PassedSenateFirstReadingDateTime />
+    <PassedSenateSecondReadingDateTime />
+    <PassedSenateThirdReadingDateTime />
+    <ReceivedRoyalAssentDateTime />
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>false</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>false</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>false</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>false</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>false</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information, Education and Research Services of the Library of Parliament. Meanwhile, the following executive summary is available.&lt;br/&gt;&lt;br/&gt;On 21 June 2023, the Minister of Crown-Indigenous Relations introduced Bill C-53, An Act respecting the recognition of certain Métis governments in Alberta, Ontario and Saskatchewan, to give effect to treaties with those governments and to make consequential amendments to other Acts (Recognition of Certain Métis Governments in Alberta, Ontario and Saskatchewan and Métis Self-Government Act), and it was given first reading.   &lt;br/&gt;&lt;br/&gt;Bill C-53 provides for the recognition of certain Métis governments in Alberta, Ontario and Saskatchewan and provides a framework for the implementation of treaties entered into by those Métis governments and the Government of Canada. Finally, it makes consequential amendments to other Acts.&lt;/div&gt;</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>&lt;div&gt;Les Service d'information, d'éducation et de recherche parlementaires de la Bibliothèque du Parlement rédige actuellement le résumé législatif de ce projet de loi.  Entre-temps, le Service met à votre disposition le sommaire suivant.&lt;br/&gt;&lt;br/&gt;Le 21 juin 2023, le ministre des Relations Couronne-Autochtones a déposé le projet de loi C-53, Loi concernant la reconnaissance de certains gouvernements métis en Alberta, en Ontario et en Saskatchewan, portant mise en vigueur des traités conclus avec ces gouvernements et modifiant d'autres lois en conséquence (Loi sur la reconnaissance de certains gouvernements métis en Alberta, en Ontario et en Saskatchewan et sur l'autonomie gouvernementale métisse), à la Chambre des communes en première lecture.  &lt;br/&gt;&lt;br/&gt;Le projet de loi C-53 prévoit la reconnaissance de certains gouvernements métis en Alberta, en Ontario et en Saskatchewan et encadre la mise en œuvre des traités conclus entre ces gouvernements et le gouvernement du Canada. Enfin, il apporte des modifications corrélatives à d'autres lois.&lt;/div&gt;</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information, Education and Research Services of the Library of Parliament. Meanwhile, the following executive summary is available.&lt;br/&gt;&lt;br/&gt;On 21 June 2023, the Minister of Crown-Indigenous Relations introduced Bill C-53, An Act respecting the recognition of certain Métis governments in Alberta, Ontario and Saskatchewan, to give effect to treaties with those governments and to make consequential amendments to other Acts (Recognition of Certain Métis Governments in Alberta, Ontario and Saskatchewan and Métis Self-Government Act), and it was given first reading.   &lt;br/&gt;&lt;br/&gt;Bill C-53 provides for the recognition of certain Métis governments in Alberta, Ontario and Saskatchewan and provides a framework for the implementation of treaties entered into by those Métis governments and the Government of Canada. Finally, it makes consequential amendments to other Acts.&lt;/div&gt;</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear />
+    <StatuteChapter />
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2023-06-21T15:45:55.51</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>218</Number>
+          <Date>2023-06-21T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2023-06-21T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2023-06-21T15:45:55.51</EventStartDateTime>
+          <EventEndDateTime>2023-06-21T15:45:55.51</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2023-06-21T15:45:55.51</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2023-06-21T16:08:16.403</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>27176</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Indigenous and Northern Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones et du Nord</CommitteeNameFr>
+          <CommitteeAcronym>INAN</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Indigenous and Northern Affairs</CommitteeName>
+          <StudyActivityId>12317387</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>218</Number>
+          <Date>2023-06-21T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>12311706</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>12555713</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>2nd reading and referral to committee - INAN</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>2e lecture et renvoi en comité - INAN</DecisionMotionTitleFr>
+          <DecisionMotionTitle>2nd reading and referral to committee - INAN</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId />
+          <DecisionMethodNameEn>
+          </DecisionMethodNameEn>
+          <DecisionMethodNameFr>
+          </DecisionMethodNameFr>
+          <DecisionMethodName>
+          </DecisionMethodName>
+          <DivisionNumber />
+          <DivisionVotesYeas />
+          <DivisionVotesNays />
+          <DivisionVotePaired />
+          <DecisionSittingDate>2023-06-21T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>218</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60121</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading and referral to committee</EventNameEn>
+          <EventNameFr>Deuxième lecture et renvoi en comité</EventNameFr>
+          <EventName>Second reading and referral to committee</EventName>
+          <EventDateTime>2023-06-21T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60121</EventTypeId>
+          <EventTypeNameEn>Second reading and referral to committee</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture et renvoi en comité</EventTypeNameFr>
+          <EventTypeName>Second reading and referral to committee</EventTypeName>
+          <EventStartDateTime>2023-06-21T16:08:16.403</EventStartDateTime>
+          <EventEndDateTime>2023-06-21T16:08:16.403</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2023-06-21T16:08:16.403</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2024-02-08T10:45:02.307</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>27176</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Indigenous and Northern Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones et du Nord</CommitteeNameFr>
+          <CommitteeAcronym>INAN</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Indigenous and Northern Affairs</CommitteeName>
+          <StudyActivityId>12317387</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented with amendments</NameEn>
+          <NameFr>Présentation du rapport de comité avec des amendements</NameFr>
+          <Name>Committee report presented with amendments</Name>
+          <Number>278</Number>
+          <Date>2024-02-08T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27176</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Indigenous and Northern Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones et du Nord</CommitteeNameFr>
+          <CommitteeAcronym>INAN</CommitteeAcronym>
+          <Number>79</Number>
+          <Date>2023-10-26T00:00:00</Date>
+          <CommitteeName>Standing Committee on Indigenous and Northern Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27176</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Indigenous and Northern Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones et du Nord</CommitteeNameFr>
+          <CommitteeAcronym>INAN</CommitteeAcronym>
+          <Number>80</Number>
+          <Date>2023-10-31T00:00:00</Date>
+          <CommitteeName>Standing Committee on Indigenous and Northern Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27176</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Indigenous and Northern Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones et du Nord</CommitteeNameFr>
+          <CommitteeAcronym>INAN</CommitteeAcronym>
+          <Number>81</Number>
+          <Date>2023-11-02T00:00:00</Date>
+          <CommitteeName>Standing Committee on Indigenous and Northern Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27176</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Indigenous and Northern Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones et du Nord</CommitteeNameFr>
+          <CommitteeAcronym>INAN</CommitteeAcronym>
+          <Number>82</Number>
+          <Date>2023-11-07T00:00:00</Date>
+          <CommitteeName>Standing Committee on Indigenous and Northern Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27176</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Indigenous and Northern Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones et du Nord</CommitteeNameFr>
+          <CommitteeAcronym>INAN</CommitteeAcronym>
+          <Number>83</Number>
+          <Date>2023-11-09T00:00:00</Date>
+          <CommitteeName>Standing Committee on Indigenous and Northern Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27176</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Indigenous and Northern Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones et du Nord</CommitteeNameFr>
+          <CommitteeAcronym>INAN</CommitteeAcronym>
+          <Number>84</Number>
+          <Date>2023-11-23T00:00:00</Date>
+          <CommitteeName>Standing Committee on Indigenous and Northern Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27176</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Indigenous and Northern Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones et du Nord</CommitteeNameFr>
+          <CommitteeAcronym>INAN</CommitteeAcronym>
+          <Number>85</Number>
+          <Date>2023-11-28T00:00:00</Date>
+          <CommitteeName>Standing Committee on Indigenous and Northern Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27176</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Indigenous and Northern Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones et du Nord</CommitteeNameFr>
+          <CommitteeAcronym>INAN</CommitteeAcronym>
+          <Number>86</Number>
+          <Date>2023-11-30T00:00:00</Date>
+          <CommitteeName>Standing Committee on Indigenous and Northern Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27176</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Indigenous and Northern Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones et du Nord</CommitteeNameFr>
+          <CommitteeAcronym>INAN</CommitteeAcronym>
+          <Number>87</Number>
+          <Date>2023-12-05T00:00:00</Date>
+          <CommitteeName>Standing Committee on Indigenous and Northern Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27176</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Indigenous and Northern Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones et du Nord</CommitteeNameFr>
+          <CommitteeAcronym>INAN</CommitteeAcronym>
+          <Number>88</Number>
+          <Date>2023-12-07T00:00:00</Date>
+          <CommitteeName>Standing Committee on Indigenous and Northern Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27176</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Indigenous and Northern Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones et du Nord</CommitteeNameFr>
+          <CommitteeAcronym>INAN</CommitteeAcronym>
+          <Number>89</Number>
+          <Date>2023-12-11T00:00:00</Date>
+          <CommitteeName>Standing Committee on Indigenous and Northern Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27176</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Indigenous and Northern Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones et du Nord</CommitteeNameFr>
+          <CommitteeAcronym>INAN</CommitteeAcronym>
+          <Number>90</Number>
+          <Date>2023-12-12T00:00:00</Date>
+          <CommitteeName>Standing Committee on Indigenous and Northern Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27176</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Indigenous and Northern Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones et du Nord</CommitteeNameFr>
+          <CommitteeAcronym>INAN</CommitteeAcronym>
+          <Number>91</Number>
+          <Date>2023-12-12T00:00:00</Date>
+          <CommitteeName>Standing Committee on Indigenous and Northern Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27176</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Indigenous and Northern Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones et du Nord</CommitteeNameFr>
+          <CommitteeAcronym>INAN</CommitteeAcronym>
+          <Number>92</Number>
+          <Date>2023-12-13T00:00:00</Date>
+          <CommitteeName>Standing Committee on Indigenous and Northern Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27176</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Indigenous and Northern Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones et du Nord</CommitteeNameFr>
+          <CommitteeAcronym>INAN</CommitteeAcronym>
+          <Number>93</Number>
+          <Date>2024-02-05T00:00:00</Date>
+          <CommitteeName>Standing Committee on Indigenous and Northern Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented with amendments</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité avec des amendements</EventNameFr>
+          <EventName>Committee report presented with amendments</EventName>
+          <EventDateTime>2024-02-08T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId>12800286</CommitteeReportId>
+          <CommitteeReportNumber>12</CommitteeReportNumber>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2024-02-08T10:45:02.307</EventStartDateTime>
+          <EventEndDateTime>2024-02-08T10:45:02.307</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2024-02-08T10:45:02.307</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>2</State>
+        <StateNameEn>No activity</StateNameEn>
+        <StateNameFr>Aucune activité</StateNameFr>
+        <StateAsOfDate />
+        <StateName>No activity</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+    </BillStages>
+    <Publications>
+      <PublicationId>12556110</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>12872756</PublicationId>
+      <PublicationTypeId>80702</PublicationTypeId>
+      <PublicationTypeNameEn>As amended by committee</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel que modifié par le comité</PublicationTypeNameFr>
+      <PublicationTypeName>As amended by committee</PublicationTypeName>
+    </Publications>
+    <HouseRulingAndStatements />
+    <SenateRulingAndStatements />
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Charter Statement -Bill C-53: An Act respecting the recognition of certain Métis governments, and to give effect to treaties with those governments and to make consequential amendments to other Acts (Tabled 2023-09-20)</TitleEn>
+      <TitleFr>Énoncé concernant la Charte - Projet de loi C-53 : Loi concernant la reconnaissance de certains gouvernements métis, portant mise en vigueur des traités conclus avec ces gouvernements et modifiant d'autres lois en conséquence (Déposé 2023-09-20)</TitleFr>
+      <Title>Charter Statement -Bill C-53: An Act respecting the recognition of certain Métis governments, and to give effect to treaties with those governments and to make consequential amendments to other Acts (Tabled 2023-09-20)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.justice.gc.ca/eng/csj-sjc/pl/charter-charte/c53.html</UrlEn>
+      <UrlFr>https://www.justice.gc.ca/fra/sjc-csj/pl/charte-charter/c53.html</UrlFr>
+      <Url>https://www.justice.gc.ca/eng/csj-sjc/pl/charter-charte/c53.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Henderson, William B. "Indigenous Self-Government in Canada", The Canadian Encyclopedia.</TitleEn>
+      <TitleFr>Henderson, William B. « Autonomie gouvernementale des Autochtones », L'encyclopédie canadienne.</TitleFr>
+      <Title>Henderson, William B. "Indigenous Self-Government in Canada", The Canadian Encyclopedia.</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.thecanadianencyclopedia.ca/en/article/aboriginal-self-government</UrlEn>
+      <UrlFr>https://www.thecanadianencyclopedia.ca/fr/article/lautonomie-gouvernementale-des-autochtones</UrlFr>
+      <Url>https://www.thecanadianencyclopedia.ca/en/article/aboriginal-self-government</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Department of Crown-Indigenous Relations and Northern Affairs Canada. The Government of Canada's Approach to Implementation of the Inherent Right and the Negotiation of Aboriginal Self-Government.</TitleEn>
+      <TitleFr>Ministère des Relations Couronne-Autochtones et Affaires du Nord Canada. L'approche du gouvernement du Canada concernant la mise en œuvre du droit inhérent des peuples autochtones à l'autonomie gouvernementale et la négociation de cette autonomie.</TitleFr>
+      <Title>Department of Crown-Indigenous Relations and Northern Affairs Canada. The Government of Canada's Approach to Implementation of the Inherent Right and the Negotiation of Aboriginal Self-Government.</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.rcaanc-cirnac.gc.ca/eng/1100100031843/1539869205136</UrlEn>
+      <UrlFr>https://www.rcaanc-cirnac.gc.ca/fra/1100100031843/1539869205136</UrlFr>
+      <Url>https://www.rcaanc-cirnac.gc.ca/eng/1100100031843/1539869205136</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Government of Canada introduces self-government bill with Métis Nation partners (2023-06-21 | Department of Crown-Indigenous Relations and Northern Affairs)</TitleEn>
+      <TitleFr>Le gouvernement du Canada dépose un projet de loi sur l'autonomie gouvernementale en collaboration avec ses partenaires de la Nation métisse (2023-06-21 | Ministère des Relations Couronne-Autochtones et des Affaires du Nord)</TitleFr>
+      <Title>Government of Canada introduces self-government bill with Métis Nation partners (2023-06-21 | Department of Crown-Indigenous Relations and Northern Affairs)</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/crown-indigenous-relations-northern-affairs/news/2023/06/government-of-canada-introduces-self-government-bill-with-metis-nation-partners.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/relations-couronne-autochtones-affaires-nord/nouvelles/2023/06/le-gouvernement-du-canada-depose-un-projet-de-loi-sur-lautonomie-gouvernementale-en-collaboration-avec-ses-partenaires-de-la-nation-metisse.html</UrlFr>
+      <Url>https://www.canada.ca/en/crown-indigenous-relations-northern-affairs/news/2023/06/government-of-canada-introduces-self-government-bill-with-metis-nation-partners.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Recognizing and Implementing Métis Nation Self-Government in Ontario (2023-06-21 | Department of Crown-Indigenous Relations and Northern Affairs)</TitleEn>
+      <TitleFr>Reconnaître et mettre en œuvre l'autonomie gouvernementale de la Nation métisse de l'Ontario (2023-06-21 | Ministère des Relations Couronne-Autochtones et des Affaires du Nord)</TitleFr>
+      <Title>Recognizing and Implementing Métis Nation Self-Government in Ontario (2023-06-21 | Department of Crown-Indigenous Relations and Northern Affairs)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/crown-indigenous-relations-northern-affairs/news/2023/02/recognizing-and-implementing-metis-nation-self-government-in-ontario.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/relations-couronne-autochtones-affaires-nord/nouvelles/2023/02/reconnaitre-et-mettre-en-uvre-lautonomie-gouvernementale-de-la-nation-metisse-de-lontario.html</UrlFr>
+      <Url>https://www.canada.ca/en/crown-indigenous-relations-northern-affairs/news/2023/02/recognizing-and-implementing-metis-nation-self-government-in-ontario.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Canada and Métis Nation of Alberta sign updated Métis self-government agreement (2023-06-21 | Department of Crown-Indigenous Relations and Northern Affairs)</TitleEn>
+      <TitleFr>Reconnaître et mettre en œuvre l'autonomie gouvernementale de la Nation métisse en Alberta (2023-06-21 | Ministère des Relations Couronne-Autochtones et des Affaires du Nord)</TitleFr>
+      <Title>Canada and Métis Nation of Alberta sign updated Métis self-government agreement (2023-06-21 | Department of Crown-Indigenous Relations and Northern Affairs)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/crown-indigenous-relations-northern-affairs/news/2023/02/canada-and-metis-nation-of-alberta-sign-updated-metis-self-government-agreement.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/relations-couronne-autochtones-affaires-nord/nouvelles/2023/02/reconnaitre-et-mettre-en-uvre-lautonomie-gouvernementale-de-la-nation-metisse-en-alberta.html</UrlFr>
+      <Url>https://www.canada.ca/en/crown-indigenous-relations-northern-affairs/news/2023/02/canada-and-metis-nation-of-alberta-sign-updated-metis-self-government-agreement.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Self-government agreement between the Métis Nation­–Saskatchewan and the Government of Canada (2023-06-21 | Department of Crown-Indigenous Relations and Northern Affairs)</TitleEn>
+      <TitleFr>Entente d'autonomie gouvernementale entre la Nation métisse de la Saskatchewan et le gouvernement du Canada (2023-06-21 | Ministère des Relations Couronne-Autochtones et des Affaires du Nord)</TitleFr>
+      <Title>Self-government agreement between the Métis Nation­–Saskatchewan and the Government of Canada (2023-06-21 | Department of Crown-Indigenous Relations and Northern Affairs)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/crown-indigenous-relations-northern-affairs/news/2023/02/self-government-agreement-between-the-metis-nationsaskatchewan-and-the-government-of-canada.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/relations-couronne-autochtones-affaires-nord/nouvelles/2023/02/entente-dautonomie-gouvernementale-entre-la-nation-metisse-de-la-saskatchewan-et-le-gouvernement-du-canada.html</UrlFr>
+      <Url>https://www.canada.ca/en/crown-indigenous-relations-northern-affairs/news/2023/02/self-government-agreement-between-the-metis-nationsaskatchewan-and-the-government-of-canada.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Self-government (Department of Crown-Indigenous Relations and Northern Affairs)</TitleEn>
+      <TitleFr>Autonomie gouvernementale (Ministère des Relations Couronne-Autochtones et des Affaires du Nord)</TitleFr>
+      <Title>Self-government (Department of Crown-Indigenous Relations and Northern Affairs)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.rcaanc-cirnac.gc.ca/eng/1100100032275/1529354547314</UrlEn>
+      <UrlFr>https://www.rcaanc-cirnac.gc.ca/fra/1100100032275/1529354547314</UrlFr>
+      <Url>https://www.rcaanc-cirnac.gc.ca/eng/1100100032275/1529354547314</Url>
+    </WebReferences>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3440</BibliographicNoticeId>
+      <Title>Bill C-53 : an ill-advised adventure of state interference in the constitutional evolution of the State-Aboriginal relationship</Title>
+      <Author>Chartrand, Paul L. A. H.</Author>
+      <Publication>Constitutional forum</Publication>
+      <VolumePage>33 (3): p.43-52, 2025</VolumePage>
+      <PublicationDate>2025</PublicationDate>
+      <Classification>Radar 20250325</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
