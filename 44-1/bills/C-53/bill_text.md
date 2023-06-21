@@ -26,10 +26,14 @@ Definitions
 
 Clarification
 
+Rights of Indigenous peoples
+
 
 ## Purposes of Act
 
 Purposes
+
+Tabling of treaties
 
 
 ## Treaties
@@ -45,12 +49,16 @@ Treaties prevail
 
 Recognition
 
+Right to self-determination
+
 Jurisdiction
 
 `Federal Courts Act`
 
 
 ## Supplementary Self-Government Agreements
+
+Tabling of agreements
 
 Order in council — coming into force
 
@@ -95,6 +103,8 @@ Actions and decisions deemed valid
 
 2013, c. 25
 
+Bill S-13
+
 Whereas the Government of Canada is committed to achieving reconciliation with the Métis through renewed government-to-government relationships based on the recognition of rights, respect, cooperation and partnership;
 
 Whereas the Government of Canada recognizes that the Métis Nation of Alberta, Métis Nation of Ontario and Métis Nation – Saskatchewan are authorized to act on behalf of the Métis collectivities for which they are the democratic representative bodies;
@@ -133,11 +143,17 @@ The following definitions apply in this Act.
 
 **tax treatment agreement** means a tax treatment agreement that is entered into by a Métis government and His Majesty in right of Canada, as amended from time to time in accordance with its provisions. (**accord sur le traitement fiscal**)
 
-**treaty** means, except in section `5`, a treaty that is entered into by a Métis government and His Majesty in right of Canada that is set out in column 3 of the schedule and that is in force, as amended from time to time in accordance with its provisions. (**traité**)
+**treaty** means, except in **sections `4.1` and** `5`, a treaty that is entered into by a Métis government and His Majesty in right of Canada that is set out in column 3 of the schedule and that is in force, as amended from time to time in accordance with its provisions. (**traité**)
 
 ### Section 3
 
 For greater certainty, each treaty is a treaty within the meaning of sections 25 and 35 of the `Constitution Act, 1982`.
+
+### Section 3.1
+
+  **(1)** For greater certainty, nothing in this Act is to be construed as abrogating or derogating from the protection provided for the rights of the Indigenous peoples of Canada by the recognition and affirmation of those rights in section 35 of the `Constitution Act, 1982`.
+
+  **(2)** For the purpose of subsection (1), **Indigenous peoples of Canada** has the meaning assigned by the definition aboriginal peoples of Canada in subsection 35(2) of the `Constitution Act, 1982`.
 
 
 ## Purposes of Act
@@ -157,9 +173,17 @@ contribute to the implementation of the United Nations Declaration on the Rights
 
 ## Treaties
 
+### Section 4.1
+
+  **(1)** If a treaty is entered into by a Métis government and His Majesty in right of Canada, the Minister of Crown-Indigenous Relations must cause to be tabled in each House of Parliament a copy of the treaty on any of the first 10 days on which that House is sitting after the treaty is entered into.
+
+  **(2)** After it is tabled, the treaty stands referred to the standing committee of each House of Parliament that normally considers matters relating to Indigenous peoples.
+
+  **(3)** For the purpose of subsection (2), **Indigenous peoples** has the meaning assigned by the definition aboriginal peoples of Canada in subsection 35(2) of the `Constitution Act, 1982`.
+
 ### Section 5
 
-If the Governor in Council is satisfied that the requirements for the coming into force of a treaty entered into by a Métis government and His Majesty in right of Canada that are set out in the treaty have been met, the Governor in Council may, by order
+If the Governor in Council is satisfied that the requirements for the coming into force of a treaty entered into by a Métis government and His Majesty in right of Canada that are set out in the treaty have been met, the Governor in Council may, by order, **no earlier than 30 sitting days after the treaty has been tabled under section 4.1**,
 
 fix the day on which the treaty comes into force; and
 
@@ -184,7 +208,13 @@ add the information needed to identify the treaty and the day on which it comes 
 
 ### Section 8
 
-The Government of Canada recognizes that a Métis government set out in column 1 of the schedule is an Indigenous governing body that is authorized to act on behalf of the Métis collectivity set out in column 2 opposite that Métis government and that the Métis collectivity holds the right to self-determination, including the inherent right of self-government recognized and affirmed by section 35 of the `Constitution Act, 1982`.
+  **(**1**)** The Government of Canada recognizes that a Métis government set out in column 1 of the schedule is an Indigenous governing body that is authorized to act on behalf of the Métis collectivity, **including its citizens**, set out in column 2 opposite that Métis government and that the Métis collectivity holds the right to self-determination, including the inherent right of self-government recognized and affirmed by section 35 of the `Constitution Act, 1982`.
+
+  **(2)** In subsection (1), **Indigenous governing body** means a council, government or other entity that is authorized to act on behalf of an Indigenous group, community or people that holds rights recognized and affirmed by section 35 of the `Constitution Act, 1982` and, for greater certainty, includes a Métis government.
+
+### Section 8.1
+
+For greater certainty, nothing in this Act is to be construed as abrogating or derogating from the right to self-determination of a Métis collectivity that has not authorized a Métis government set out in column 1 of the schedule to act on its behalf, including the inherent right of self-government recognized and affirmed by section 35 of the `Constitution Act, 1982`.
 
 ### Section 9
 
@@ -197,9 +227,17 @@ A Métis government is not a federal board, commission or other tribunal, as def
 
 ## Supplementary Self-Government Agreements
 
+### Section 10.1
+
+  **(1)** If a supplementary self-government agreement is entered into by a Métis government and His Majesty in right of Canada, the Minister of Crown-Indigenous Relations must cause to be tabled in each House of Parliament a copy of the agreement on any of the first 10 days on which that House is sitting after the agreement is entered into.
+
+  **(2)** After it is tabled, the agreement stands referred to the standing committee of each House of Parliament that normally considers matters relating to Indigenous peoples.
+
+  **(3)** For the purpose of subsection (2), **Indigenous peoples** has the meaning assigned by the definition aboriginal peoples of Canada in subsection 35(2) of the `Constitution Act, 1982`.
+
 ### Section 11
 
-If the Governor in Council is satisfied that the requirements for the coming into force of a supplementary self-government agreement entered into by a Métis government and His Majesty in right of Canada have been met, the Governor in Council may, by order, fix the day on which that agreement comes into force.
+If the Governor in Council is satisfied that the requirements for the coming into force of a supplementary self-government agreement entered into by a Métis government and His Majesty in right of Canada have been met, the Governor in Council may, by order, **no earlier than 30 sitting days after the agreement has been tabled under section `10.1`**, fix the day on which that agreement comes into force.
 
 ### Section 12
 
@@ -296,13 +334,7 @@ Any action taken or decision made by a Métis government before the day on which
 
 Subsection 13(3) of the `Access to Information Act` is amended by striking out "or" at the end of paragraph (i), by adding "or" at the end of paragraph (j) and by adding the following after paragraph (j):
 
-**a Métis government, as defined in section 2 of the `Recognition of Certain Métis Governments in Alberta, Ontario and Saskatchewan and Métis Self-Government Act`, that is a party to a treaty, as defined in that section.**
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 13(3):
-> *Existing Text*:
-> > The expression **aboriginal government** in paragraph (1)(e) means
+a Métis government, as defined in section 2 of the `Recognition of Certain Métis Governments in Alberta, Ontario and Saskatchewan and Métis Self-Government Act`, that is a party to a treaty, as defined in that section.
 
 
 ### Privacy Act
@@ -315,19 +347,13 @@ Subsection 13(3) of the `Access to Information Act` is amended by striking out "
 
   **(2)** Subsection 8(7) of the Act is amended by striking out "or" at the end of paragraph (i), by adding "or" at the end of paragraph (j) and by adding the following after paragraph (j):
 
-    **a Métis government, as defined in section 2 of the `Recognition of Certain Métis Governments in Alberta, Ontario and Saskatchewan and Métis Self-Government Act`, that is a party to a treaty, as defined in that section.**
+    a Métis government, as defined in section 2 of the `Recognition of Certain Métis Governments in Alberta, Ontario and Saskatchewan and Métis Self-Government Act`, that is a party to a treaty, as defined in that section.
 
 ### Section 24
 
 Subsection 19(1) of the Act is amended by striking out "or" at the end of paragraph (f), by adding "or" at the end of paragraph (g) and by adding the following after paragraph (g):
 
-**a Métis government, as defined in section 2 of the `Recognition of Certain Métis Governments in Alberta, Ontario and Saskatchewan and Métis Self-Government Act`, that is a party to a treaty, as defined in that section.**
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 19(1):
-> *Existing Text*:
-> > Subject to subsection (2), the head of a government institution shall refuse to disclose any personal information requested under subsection 12(1) that was obtained in confidence from
+a Métis government, as defined in section 2 of the `Recognition of Certain Métis Governments in Alberta, Ontario and Saskatchewan and Métis Self-Government Act`, that is a party to a treaty, as defined in that section.
 
 
 ## Coordinating Amendments
@@ -369,4 +395,8 @@ Subsection 19(1) of the Act is amended by striking out "or" at the end of paragr
     the Yale First Nation Government, as defined in subsection 2(2) of the `Yale First Nation Final Agreement Act`.
 
   **(7)** If section 23 of the other Act comes into force on the same day as subsection `23`(2) of this Act, then that section 23 is deemed to have come into force before that subsection `23`(2) and subsection (5) applies as a consequence.
+
+### Section 26
+
+If Bill S-13, introduced in the 1st session of the 44th Parliament and entitled `An Act to amend the Interpretation Act and to make related amendments to other Acts`, receives royal assent, then, on the first day on which both section 1 of that Act and section `3.1` of this Act are in force, that section `3.1` is repealed.
 
