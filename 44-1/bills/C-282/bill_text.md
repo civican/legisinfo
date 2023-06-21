@@ -1,13 +1,10 @@
 # Bill C-282: An Act to amend the Department of Foreign Affairs, Trade and Development Act (supply management)
 
-**Sponsor**: 
-      
-
 ## Summary
 
 This enactment amends the `Department of Foreign Affairs, Trade and Development Act` so that the Minister of Foreign Affairs cannot make certain commitments with respect to international trade regarding certain goods.
 
-Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+His Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
 
 ## Department of Foreign Affairs, Trade and Development Act
