@@ -1,7 +1,5 @@
 # Bill S-8: An Act to amend the Immigration and Refugee Protection Act, to make consequential amendments to other Acts and to amend the Immigration and Refugee Protection Regulations
 
-**Sponsor**: THE HONOURABLE SENATOR GOLD, P.‍C.
-
 ## Summary
 
 This enactment amends the `Immigration and Refugee Protection Act` to, among other things,
@@ -28,13 +26,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 Paragraph 4(2)(c) of the `Immigration and Refugee Protection Act` is replaced by the following:
 
-the establishment of policies respecting the enforcement of this Act and inadmissibility on grounds of security, violating human or international rights, **sanctions** or organized criminality; or
+the establishment of policies respecting the enforcement of this Act and inadmissibility on grounds of security, violating human or international rights, sanctions or organized criminality; or
 
 ### Section 2
 
 Subsection 21(2) of the Act is replaced by the following:
 
-**(2)** Except in the case of a person described in subsection 112(3) or a person who is a member of a prescribed class of persons, a person whose application for protection has been finally determined by the Board to be a Convention refugee or to be a person in need of protection, or a person whose application for protection has been allowed by the Minister, becomes, subject to any federal-provincial agreement referred to in subsection 9(1), a permanent resident if the officer is satisfied that they have made their application in accordance with the regulations and that they are not inadmissible on any ground referred to in section 34, 35 or **35.1**, subsection 36(1) or section 37 or 38.
+**(2)** Except in the case of a person described in subsection 112(3) or a person who is a member of a prescribed class of persons, a person whose application for protection has been finally determined by the Board to be a Convention refugee or to be a person in need of protection, or a person whose application for protection has been allowed by the Minister, becomes, subject to any federal-provincial agreement referred to in subsection 9(1), a permanent resident if the officer is satisfied that they have made their application in accordance with the regulations and that they are not inadmissible on any ground referred to in section 34, 35 or 35.1, subsection 36(1) or section 37 or 38.
 
 ### Section 3
 
@@ -42,7 +40,7 @@ Subsection 25(1) of the Act is replaced by the following:
 
 ### Section 25
 
-  **(1)** Subject to subsection (1.2), the Minister must, on request of a foreign national in Canada who applies for permanent resident status and who is inadmissible — other than under section 34, 35, **35.1** or 37 — or who does not meet the requirements of this Act, and may, on request of a foreign national outside Canada — other than a foreign national who is inadmissible under section 34, 35, **35.1** or 37 — who applies for a permanent resident visa, examine the circumstances concerning the foreign national and may grant the foreign national permanent resident status or an exemption from any applicable criteria or obligations of this Act if the Minister is of the opinion that it is justified by humanitarian and compassionate considerations relating to the foreign national, taking into account the best interests of a child directly affected.
+  **(1)** Subject to subsection (1.2), the Minister must, on request of a foreign national in Canada who applies for permanent resident status and who is inadmissible — other than under section 34, 35, 35.1 or 37 — or who does not meet the requirements of this Act, and may, on request of a foreign national outside Canada — other than a foreign national who is inadmissible under section 34, 35, 35.1 or 37 — who applies for a permanent resident visa, examine the circumstances concerning the foreign national and may grant the foreign national permanent resident status or an exemption from any applicable criteria or obligations of this Act if the Minister is of the opinion that it is justified by humanitarian and compassionate considerations relating to the foreign national, taking into account the best interests of a child directly affected.
 
 ### Section 4
 
@@ -50,7 +48,7 @@ Subsection 25.1(1) of the Act is replaced by the following:
 
 ### Section 25.1
 
-  **(1)** The Minister may, on the Minister's own initiative, examine the circumstances concerning a foreign national who is inadmissible — other than under section 34, 35, **35.1** or 37 — or who does not meet the requirements of this Act and may grant the foreign national permanent resident status or an exemption from any applicable criteria or obligations of this Act if the Minister is of the opinion that it is justified by humanitarian and compassionate considerations relating to the foreign national, taking into account the best interests of a child directly affected.
+  **(1)** The Minister may, on the Minister's own initiative, examine the circumstances concerning a foreign national who is inadmissible — other than under section 34, 35, 35.1 or 37 — or who does not meet the requirements of this Act and may grant the foreign national permanent resident status or an exemption from any applicable criteria or obligations of this Act if the Minister is of the opinion that it is justified by humanitarian and compassionate considerations relating to the foreign national, taking into account the best interests of a child directly affected.
 
 ### Section 5
 
@@ -78,9 +76,9 @@ The Act is amended by adding the following after section 35:
 
 Paragraphs 42(2)(a) and (b) of the Act are replaced by the following:
 
-the matters referred to in paragraph (1)(a) constitute inadmissibility only if the family member is inadmissible under section 34, 35, **35.1** or 37; and
+the matters referred to in paragraph (1)(a) constitute inadmissibility only if the family member is inadmissible under section 34, 35, 35.1 or 37; and
 
-the matters referred to in paragraph (1)(b) constitute inadmissibility only if the foreign national is an accompanying family member of a person who is inadmissible under section 34, 35, **35.1** or 37.
+the matters referred to in paragraph (1)(b) constitute inadmissibility only if the foreign national is an accompanying family member of a person who is inadmissible under section 34, 35, 35.1 or 37.
 
 ### Section 8
 
@@ -88,21 +86,21 @@ Subsections 42.1(1) and (2) of the Act are replaced by the following:
 
 ### Section 42.1
 
-  **(1)** The Minister may, on application by a foreign national, declare that the matters referred to in section 34, **paragraph** 35(1)(b) and subsection 37(1) do not constitute inadmissibility in respect of the foreign national if they satisfy the Minister that it is not contrary to the national interest.
+  **(1)** The Minister may, on application by a foreign national, declare that the matters referred to in section 34, paragraph 35(1)(b) and subsection 37(1) do not constitute inadmissibility in respect of the foreign national if they satisfy the Minister that it is not contrary to the national interest.
 
-  **(2)** The Minister may, on the Minister's own initiative, declare that the matters referred to in section 34, **paragraph** 35(1)(b) and subsection 37(1) do not constitute inadmissibility in respect of a foreign national if the Minister is satisfied that it is not contrary to the national interest.
+  **(2)** The Minister may, on the Minister's own initiative, declare that the matters referred to in section 34, paragraph 35(1)(b) and subsection 37(1) do not constitute inadmissibility in respect of a foreign national if the Minister is satisfied that it is not contrary to the national interest.
 
 ### Section 9
 
 Paragraph 55(3)(b) of the Act is replaced by the following:
 
-has reasonable grounds to suspect that the permanent resident or the foreign national is inadmissible on grounds of security, violating human or international rights, **sanctions**, serious criminality, criminality or organized criminality.
+has reasonable grounds to suspect that the permanent resident or the foreign national is inadmissible on grounds of security, violating human or international rights, sanctions, serious criminality, criminality or organized criminality.
 
 ### Section 10
 
 Paragraph 58(1)(c) of the Act is replaced by the following:
 
-the Minister is taking necessary steps to inquire into a reasonable suspicion that they are inadmissible on grounds of security, violating human or international rights, **sanctions**, serious criminality, criminality or organized criminality;
+the Minister is taking necessary steps to inquire into a reasonable suspicion that they are inadmissible on grounds of security, violating human or international rights, sanctions, serious criminality, criminality or organized criminality;
 
 ### Section 11
 
@@ -110,7 +108,7 @@ Subsection 64(1) of the Act is replaced by the following:
 
 ### Section 64
 
-  **(1)** No appeal may be made to the Immigration Appeal Division by a foreign national or their sponsor or by a permanent resident if the foreign national or permanent resident has been found to be inadmissible on grounds of security, violating human or international rights, **sanctions**, serious criminality or organized criminality.
+  **(1)** No appeal may be made to the Immigration Appeal Division by a foreign national or their sponsor or by a permanent resident if the foreign national or permanent resident has been found to be inadmissible on grounds of security, violating human or international rights, sanctions, serious criminality or organized criminality.
 
 ### Section 12
 
@@ -135,7 +133,7 @@ For greater certainty, subsection 35.1(1) of the `Immigration and Refugee Protec
 
 Subsection 10.1(4) of the `Citizenship Act` is replaced by the following:
 
-**(4)** For the purposes of subsection (1), if the Minister seeks a declaration that the person has obtained, retained, renounced or resumed his or her citizenship by false representation or fraud or by knowingly concealing material circumstances, with respect to a fact described in sections 34, 35, **35.1** or 37 of the `Immigration and Refugee Protection Act`, the Minister need prove only that the person has obtained, retained, renounced or resumed his or her citizenship by false representation or fraud or by knowingly concealing material circumstances.
+**(4)** For the purposes of subsection (1), if the Minister seeks a declaration that the person has obtained, retained, renounced or resumed his or her citizenship by false representation or fraud or by knowingly concealing material circumstances, with respect to a fact described in sections 34, 35, 35.1 or 37 of the `Immigration and Refugee Protection Act`, the Minister need prove only that the person has obtained, retained, renounced or resumed his or her citizenship by false representation or fraud or by knowingly concealing material circumstances.
 
 
 #### `Emergencies Act`
@@ -144,7 +142,26 @@ Subsection 10.1(4) of the `Citizenship Act` is replaced by the following:
 
 Clause 30(1)(h)(iii)(A) of the `Emergencies Act` is replaced by the following:
 
-security, violating human or international rights, **sanctions** or serious criminality, or
+security, violating human or international rights, sanctions or serious criminality, or
+
+
+### Coordinating Amendments
+
+### Section 15.1
+
+  **(1)** Subsections (2) to (4) apply if Bill C-21, introduced in the 1st session of the 44th Parliament and entitled `An Act to amend certain Acts and to make certain consequential amendments (firearms)` (in this section referred to as the "other Act"), receives royal assent.
+
+  **(2)** On the first day on which both section 52 of the other Act and section 1 of this Act are in force, paragraph 4(2)(c) of the `Immigration and Refugee Protection Act` is replaced by the following:
+
+    the establishment of policies respecting the enforcement of this Act and inadmissibility on grounds of security, violating human or international rights, sanctions, transborder criminality or organized criminality; or
+
+  **(3)** On the first day on which both section 55 of the other Act and section 9 of this Act are in force, paragraph 55(3)(b) of the `Immigration and Refugee Protection Act` is replaced by the following:
+
+    has reasonable grounds to suspect that the permanent resident or the foreign national is inadmissible on grounds of security, violating human or international rights, sanctions, serious criminality, criminality, transborder criminality or organized criminality.
+
+  **(4)** On the first day on which both section 56 of the other Act and section 10 of this Act are in force, paragraph 58(1)(c) of the `Immigration and Refugee Protection Act` is replaced by the following:
+
+    the Minister is taking necessary steps to inquire into a reasonable suspicion that they are inadmissible on grounds of security, violating human or international rights, sanctions, serious criminality, criminality, transborder criminality or organized criminality;
 
 
 ## `Immigration and Refugee Protection Regulations`
@@ -170,13 +187,13 @@ the provision of the Act under which they were determined to be inadmissible —
 
 Subparagraph 65(b)(ii) of the Regulations is replaced by the following:
 
-at least five years, if they are inadmissible on any other grounds under the Act, except sections 34 **to 35.1** and subsections 36(1) and 37(1) of the Act;
+at least five years, if they are inadmissible on any other grounds under the Act, except sections 34 to 35.1 and subsections 36(1) and 37(1) of the Act;
 
 ### Section 19
 
 Paragraph 228(1)(f) of the Regulations is replaced by the following:
 
-if the foreign national is inadmissible under **subsection 35.1(1)** of the Act on grounds of **sanctions**, a deportation order.
+if the foreign national is inadmissible under subsection 35.1(1) of the Act on grounds of sanctions, a deportation order.
 
 ### Section 20
 
