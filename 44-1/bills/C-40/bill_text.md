@@ -38,20 +38,14 @@ This Act may be cited as the `Miscarriage of Justice Review Commission Act (Davi
 
 Subsection 679(7) of the `Criminal Code` is replaced by the following:
 
-**(7)** If the **Miscarriage** of Justice **Review Commission established** under **subsection 696.71(1) notifies a person under subsection 696.4(5) that their application for review is admissible**, this section applies to the release or detention of that person — as though that person were an appellant in an appeal described in paragraph (1)(a) — pending the **completion of the review, pending a new trial or** hearing **directed by the Commission or pending the hearing** and determination of **a matter referred by the Commission to the court of appeal**.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 679(7):
-> *Existing Text*:
-> > If, with respect to any person, the Minister of Justice gives a direction or makes a reference under section 696.3, this section applies to the release or detention of that person pending the hearing and determination of the reference as though that person were an appellant in an appeal described in paragraph (1)(a).
+**(7)** If the Miscarriage of Justice Review Commission established under subsection 696.71(1) notifies a person under subsection 696.4(5) that their application for review is admissible, this section applies to the release or detention of that person — as though that person were an appellant in an appeal described in paragraph (1)(a) — pending the completion of the review, pending a new trial or hearing directed by the Commission or pending the hearing and determination of a matter referred by the Commission to the court of appeal.
 
 ### Section 3
 
 Part XXI.1 of the Act is replaced by the following:
 
 
-## **Miscarriage** of Justice **Reviews**
+## Miscarriage of Justice Reviews
 
 
 ### Definitions
@@ -102,13 +96,13 @@ The following definitions apply in this Part.
 
     an appeal of the finding or verdict lies to the Supreme Court of Canada on a question of law.
 
-  **(4)** Despite paragraph (3)(b), the Commission may decide that the application is admissible even if the finding or verdict was not appealed to the Supreme Court of Canada. In making the decision, the Commission must take into account
+  **(4)** Despite **subsection** (3), the Commission may decide that the application is admissible even if the finding or verdict was not appealed to **the court of appeal or** the Supreme Court of Canada. In making the decision, the Commission must take into account
 
-    the amount of time that has passed since the final judgment of the court of appeal;
+    the amount of time that has passed since the final judgment of the **trial** court;
 
-    the reasons why the finding or verdict was not appealed to the Supreme Court of Canada;
+    the reasons why the finding or verdict was not appealed to **the court of appeal or** the Supreme Court of Canada;
 
-    whether it would serve a useful purpose for an application to be made for an extension of the period within which a notice of appeal or a notice of application for leave to appeal, as the case may be, to the Supreme Court of Canada may be served and filed;
+    whether it would serve a useful purpose for an application to be made for an extension of the period within which a notice of appeal or a notice of application for leave to appeal, as the case may be, to the **court of appeal or the** Supreme Court of Canada may be served and filed;
 
     whether the application is supported by a new matter of significance that
 
@@ -186,33 +180,6 @@ The Commission may, at any time, refer to the court of appeal, for its opinion, 
 
 As soon as feasible after the fifth anniversary of the day on which this section comes into force and every ten years after that, a review of this Part and Part XXI.2 and of their administration and operation is to be commenced by any committee of the Senate, of the House of Commons or of both Houses of Parliament that may be designated or established by the Senate or the House of Commons, or by both Houses of Parliament, as the case may be, for that purpose.
 
-
-> **Explanatory Note**:
-> Existing text of Part XXI.1:
-> *Existing Text*:
-> > An application for ministerial review on the grounds of miscarriage of justice may be made to the Minister of Justice by or on behalf of a person who has been convicted of an offence under an Act of Parliament or a regulation made under an Act of Parliament or has been found to be a dangerous offender or a long-term offender under Part XXIV and whose rights of judicial review or appeal with respect to the conviction or finding have been exhausted.
-> > The application must be in the form, contain the information and be accompanied by any documents prescribed by the regulations.
-> > On receipt of an application under this Part, the Minister of Justice shall review it in accordance with the regulations.
-> > For the purpose of any investigation in relation to an application under this Part, the Minister of Justice has and may exercise the powers of a commissioner under Part I of the `Inquiries Act` and the powers that may be conferred on a commissioner under section 11 of that Act.
-> > Despite subsection 11(3) of the `Inquiries Act`, the Minister of Justice may delegate in writing to any member in good standing of the bar of a province, retired judge or any other individual who, in the opinion of the Minister, has similar background or experience the powers of the Minister to take evidence, issue subpoenas, enforce the attendance of witnesses, compel them to give evidence and otherwise conduct an investigation under subsection (2).
-> > In this section, **the court of appeal** means the court of appeal, as defined by the definition court of appeal in section 2, for the province in which the person to whom an application under this Part relates was tried.
-> > The Minister of Justice may, at any time, refer to the court of appeal, for its opinion, any question in relation to an application under this Part on which the Minister desires the assistance of that court, and the court shall furnish its opinion accordingly.
-> > On an application under this Part, the Minister of Justice may
-> > if the Minister is satisfied that there is a reasonable basis to conclude that a miscarriage of justice likely occurred,
-> > direct, by order in writing, a new trial before any court that the Minister thinks proper or, in the case of a person found to be a dangerous offender or a long-term offender under Part XXIV, a new hearing under that Part, or
-> > refer the matter at any time to the court of appeal for hearing and determination by that court as if it were an appeal by the convicted person or the person found to be a dangerous offender or a long-term offender under Part XXIV, as the case may be; or
-> > dismiss the application.
-> > A decision of the Minister of Justice made under subsection (3) is final and is not subject to appeal.
-> > In making a decision under subsection 696.3(3), the Minister of Justice shall take into account all matters that the Minister considers relevant, including
-> > whether the application is supported by new matters of significance that were not considered by the courts or previously considered by the Minister in an application in relation to the same conviction or finding under Part XXIV;
-> > the relevance and reliability of information that is presented in connection with the application; and
-> > the fact that an application under this Part is not intended to serve as a further appeal and any remedy available on such an application is an extraordinary remedy.
-> > The Minister of Justice shall within six months after the end of each financial year submit an annual report to Parliament in relation to applications under this Part.
-> > The Governor in Council may make regulations
-> > prescribing the form of, the information required to be contained in and any documents that must accompany an application under this Part;
-> > prescribing the process of review in relation to applications under this Part, which may include the following stages, namely, preliminary assessment, investigation, reporting on investigation and decision; and
-> > respecting the form and content of the annual report under section 696.5.
-
 ### Section 4
 
 The Act is amended by adding the following after Part XXI.1:
@@ -246,7 +213,11 @@ The following definitions apply in this Part.
 
 ### Section 696.72
 
-The Commission's mandate is to review applications made under Part XXI.1 on the grounds of miscarriage of justice after section 3 of the `Miscarriage of Justice Review Commission Act (David and Joyce Milgaard's Law)` comes into force.
+The Commission's mandate is to
+
+review applications made under Part XXI.1 on the grounds of miscarriage of justice after section 3 of the `Miscarriage of Justice Review Commission Act (David and Joyce Milgaard's Law)` comes into force;
+
+make recommendations to address systemic issues that may lead to miscarriages of justice to relevant public authorities and bodies, including the Law Commission of Canada, federal-provincial-territorial committees and working groups, federal departments and agencies and parliamentary committees.
 
 
 ### Commissioners
@@ -344,6 +315,8 @@ The Commission must publish information about its mandate on its website and mus
 
     direct employees to provide applicants and potential applicants with general information and guidance on applications and each stage of the review process;
 
+    direct employees to notify the Correctional Service of Canada and the Parole Board of Canada of the importance of ensuring that applicants and potential applicants do not experience barriers to or exclusion from programs, services or conditional release processes as a result of making an application for a review on the grounds of a miscarriage of justice;
+
     enter into contracts in its own name;
 
     provide supports to applicants in need, including by entering into contracts with service providers for the provision of those supports; and
@@ -398,17 +371,13 @@ The employees necessary for the proper conduct of the work of the Commission are
 
     the number of applicants in need who received supports;
 
-    the amounts paid to service providers under paragraph 696.84(1)(c), disagreggated, to the extent possible, by the nature of the supports provided by the service providers; and
+    the amounts paid to service providers under paragraph 696.84(1)(c), disaggregated, to the extent possible, by the nature of the supports provided by the service providers; and
 
     any other information on the Commission's activities that the Chief Commissioner considers relevant.
 
   **(2)** The Minister must cause the report to be laid before each House of Parliament on any of the first 30 days on which that House is sitting after the day on which the report is received.
 
   **(3)** The Commission must publish the annual report on its website after it has been tabled.
-
-
-> **Explanatory Note**:
-> New.
 
 ### Section 5
 
