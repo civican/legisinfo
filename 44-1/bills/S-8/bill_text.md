@@ -14,7 +14,7 @@ It also makes consequential amendments to the `Citizenship Act` and the `Emergen
 
 Finally, it amends the `Immigration and Refugee Protection Regulations` to, among other things, provide that the Minister of Public Safety and Emergency Preparedness, instead of the Immigration Division, will have the authority to issue a removal order on grounds of inadmissibility based on sanctions under new paragraph 35.1(1)(a) of the `Immigration and Refugee Protection Act`.
 
-Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+His Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
 
 ## `Immigration and Refugee Protection Act`
@@ -52,7 +52,9 @@ Subsection 25.1(1) of the Act is replaced by the following:
 
 ### Section 5
 
-  **(1)** Paragraphs 35(1)(c) to (e) of the Act are repealed.
+  **(1)** Paragraph 35(1)(c) of the Act is repealed.
+
+  **(1.1)** Subsection 35(1) of the Act is amended by adding "or" at the end of paragraph (b) and by repealing paragraphs (d) and (e).
 
   **(2)** Subsection 35(2) of the Act is repealed.
 
@@ -64,7 +66,7 @@ The Act is amended by adding the following after section 35:
 
   **(1)** A foreign national is inadmissible on grounds of sanctions if
 
-    their entry into or stay in Canada is restricted under a decision, resolution or measure of an international organization of states or association of states, of which Canada is a member, that imposes sanctions on a country, entity or person against which or whom Canada has imposed or has agreed to impose sanctions in concert with that organization or association;
+    their entry into or stay in Canada is restricted under a decision, resolution or measure of an international organization of states or association of states, of which Canada is a member, that imposes sanctions on a person, entity or foreign state, within the meaning of section 2 of the `Special Economic Measures Act`, against which or whom Canada has imposed or has agreed to impose sanctions in concert with that organization or association;
 
     they are currently the subject of an order or regulation made under section 4 of the `Special Economic Measures Act`; or
 
@@ -213,4 +215,13 @@ is inadmissible under subsection 35.1(1) of the Act on grounds of sanctions;
 ### Section 22
 
 Paragraphs 228(1)(f) and 229(1)(b) of the `Immigration and Refugee Protection Regulations`, as they read immediately before the day on which this Act receives royal assent, continue to apply in respect of a foreign national for whom, before that day, a report was referred to the Immigration Division for an admissibility hearing under subsection 44(2) of the `Immigration and Refugee Protection Act` and in respect of whom no decision has been made by the Immigration Division before that day.
+
+
+## Review of Act
+
+### Section 23
+
+  **(1)** As soon as possible after the third anniversary of the day on which this Act receives royal assent, the provisions enacted or amended by this Act are to be referred to the committee of the Senate, of the House of Commons or of both Houses of Parliament that may be designated or established for the purpose of reviewing those provisions.
+
+  **(2)** The committee to which the provisions are referred is to review them and submit a report to the House or Houses of Parliament of which it is a committee, including a statement setting out any changes to the provisions that the committee recommends.
 
