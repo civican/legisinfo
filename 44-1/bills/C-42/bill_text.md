@@ -1,7 +1,5 @@
 # Bill C-42: An Act to amend the Canada Business Corporations Act and to make consequential and related amendments to other Acts
 
-**Sponsor**: MINISTER OF INNOVATION, SCIENCE AND INDUSTRY
-
 ## Summary
 
 This enactment amends the `Canada Business Corporations Act` to, among other things,
@@ -65,7 +63,7 @@ His Majesty, by and with the advice and consent of the Senate and House of Commo
 
   **(4)** Section 21.21 of the Act is amended by adding the following after subsection (3):
 
-    **(4)** A corporation that, without reasonable cause, contravenes subsection (1) or (2) is guilty of an offence and liable on summary conviction to a fine not exceeding $**100,000**.
+    **(4)** A corporation that, without reasonable cause, contravenes subsection (1) or (2) is guilty of an offence and liable on summary conviction to a fine not exceeding $100,000.
 
 ### Section 3
 
@@ -109,7 +107,7 @@ The Director may provide all or part of the information received under section 2
 
 ### Section 5
 
-  ****(1)**** Subsection 21.4(1) of the Act is replaced by the following:
+  **(1)** Subsection 21.4(1) of the Act is replaced by the following:
 
 ### Section 21.4
 
