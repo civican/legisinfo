@@ -49,6 +49,8 @@ Payments cannot be charged, etc.
 
 Consolidated Revenue Fund
 
+Appeals
+
 
 ## Regulations
 
@@ -74,11 +76,13 @@ Parliamentary review
 
 ## Coming into Force
 
-First anniversary
+Order in council or first anniversary
 
 Whereas working-age persons with disabilities are more likely to live in poverty than working-age persons without disabilities, because of economic and social exclusion;
 
 Whereas persons with disabilities often face barriers to employment, including work disincentives such as the loss of income and other benefits as a result of becoming employed;
+
+Whereas persons with disabilities may face additional barriers because of their gender, racialized or Indigenous status or other intersecting statuses;
 
 Whereas the Government of Canada is committed to the economic and social inclusion of persons with disabilities, as evidenced by its introduction of the `Accessible Canada Act`;
 
@@ -167,6 +171,16 @@ is garnishable moneys for the purposes of the `Family Orders and Agreements Enfo
 
 All benefits payable under this Act are to be paid out of the Consolidated Revenue Fund.
 
+### Section 10.1
+
+Subject to regulations, a person, or any other person acting on their behalf, may appeal to a body identified in regulations made under paragraph 11(1)(i) in respect of any decision
+
+relating to the person's ineligibility for a Canada disability benefit;
+
+relating to the amount of a Canada disability benefit that the person has received or will receive; or
+
+prescribed by the regulations.
+
 
 ## Regulations
 
@@ -226,7 +240,19 @@ All benefits payable under this Act are to be paid out of the Consolidated Reven
 
     generally, for carrying out the purposes and provisions of this Act.
 
-  **(1.1)** In making regulations under paragraph (1)(c) respecting the amount of a benefit, the Governor in Council must take into consideration the Official Poverty Line as defined in section 2 of the `Poverty Reduction Act`.
+  **(1.1)** In making regulations under paragraph (1)(c) respecting the amount of a benefit, the Governor in Council must take into consideration
+
+    the Official Poverty Line as defined in section 2 of the `Poverty Reduction Act`;
+
+    the additional costs associated with living with a disability;
+
+    the challenges faced by those living with a disability in earning an income from work;
+
+    the intersectional needs of disadvantaged individuals and groups; and
+
+    Canada's international human rights obligations.
+
+  **(1.2)** Within 12 months of this Act coming into force, the Governor in Council must make regulations under paragraphs 11(1)(a) to (f), (h), (i), (k) and (n) that are necessary to enable a Canada disability benefit to be paid in accordance with this Act.
 
   **(2)** Regulations made under subsection (1) may distinguish among different classes of applicants and beneficiaries.
 
@@ -268,5 +294,5 @@ to an official solely for the purposes of the administration and enforcement of 
 
 ### Section 14
 
-This Act comes into force no later than the first anniversary of the day on which it receives royal assent.
+This Act comes into force on a day to be fixed by order of the Governor in Council, but no later than the first anniversary of the day on which it receives royal assent.
 
