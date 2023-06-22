@@ -150,7 +150,7 @@ In naming persons to the roster of judges and to the roster of lay persons, the 
 
 ### Section 84
 
-As far as possible, the Council shall name persons who reflect the diversity of the Canadian population to the roster of judges and to the roster of lay persons.
+The Council shall name persons who reflect the diversity of the Canadian population to the roster of judges and to the roster of lay persons.
 
 ### Section 85
 
@@ -194,7 +194,7 @@ The Council shall refer every complaint to a screening officer, other than a com
 
   **(2)** The Council shall make public the screening criteria that it has established for the purpose of para­graph (1)(c).
 
-  **(3)** A screening officer shall not dismiss a complaint that alleges sexual harassment or that alleges discrimination on a prohibited ground of discrimination within the meaning of the `Canadian Human Rights Act`.
+  **(3)** A screening officer shall not dismiss a complaint that alleges sexual misconduct or sexual harassment or that alleges discrimination on a prohibited ground of discrimination within the meaning of the `Canadian Human Rights Act`.
 
 ### Section 91
 
