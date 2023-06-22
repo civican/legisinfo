@@ -1,7 +1,5 @@
 # Bill C-47: An Act to implement certain provisions of the budget tabled in Parliament on March 28, 2023
 
-**Sponsor**: DEPUTY PRIME MINISTER AND MINISTER OF FINANCE
-
 Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act to implement certain provisions of the budget tabled in Parliament on March 28, 2023*".
 
 ## Summary
@@ -3071,11 +3069,11 @@ Subsection 164(12) of the Act is replaced by the following:
 
 ### Section 113
 
-  **(1)** Subsections (2) **to (4)** apply if Bill C-46, introduced in the 1st session of the 44th Parliament and entitled the `Cost of Living Relief Act, No. 3` (in this section referred to as the "other Act"), receives royal assent.
+  **(1)** Subsections (2) to (4) apply if Bill C-46, introduced in the 1st session of the 44th Parliament and entitled the `Cost of Living Relief Act, No. 3` (in this section referred to as the "other Act"), receives royal assent.
 
-  **(2)** If **section 29 and** subsections 49(1) and (2) of this Act come into force before **section 3 and** subsections 4(1) and (2) of the other Act, then **that section 3 and** those subsections 4(1) and (2) are deemed never to have come into force and are repealed.
+  **(2)** If section 29 and subsections 49(1) and (2) of this Act come into force before section 3 and subsections 4(1) and (2) of the other Act, then that section 3 and those subsections 4(1) and (2) are deemed never to have come into force and are repealed.
 
-  **(3)** If **section 3 and** subsections 4(1) and (2) of the other Act come into force on the same day as **section 29 and** subsections 49(1) and (2) of this Act, then **that section 3 is deemed never to have come into force and is repealed and** those subsections 4(1) and (2) are deemed to have come into force before those subsections 49(1) and (2).
+  **(3)** If section 3 and subsections 4(1) and (2) of the other Act come into force on the same day as section 29 and subsections 49(1) and (2) of this Act, then that section 3 is deemed never to have come into force and is repealed and those subsections 4(1) and (2) are deemed to have come into force before those subsections 49(1) and (2).
 
   **(4)** If section 3 of the other Act comes into force before section 29 of this Act, then that section 29 is deemed never to have come into force and is repealed.
 
@@ -8499,7 +8497,7 @@ The Agency may, at a complaint resolution officer's request, provide administrat
 
   **(2)** A guideline is, until it is revoked or modified, binding on any complaint resolution officer dealing with a complaint filed under subsection 85.04(1).
 
-  **(3)** Each guideline shall be published **on the Agency's website, in the `Canada Gazette` and** in any **other** manner that the Agency considers appropriate.
+  **(3)** Each guideline shall be published on the Agency's website, in the `Canada Gazette` and in any other manner that the Agency considers appropriate.
 
   **(4)** The `Statutory Instruments Act` does not apply to the guideline.
 
@@ -8661,7 +8659,7 @@ Section 181 of the Act is replaced by the following:
 
 ### Section 181
 
-Proceedings in respect of a violation may be instituted not later than **36** months after the time when the subject matter of the proceedings arose.
+Proceedings in respect of a violation may be instituted not later than 36 months after the time when the subject matter of the proceedings arose.
 
 
 #### Transitional Provisions
@@ -10925,7 +10923,7 @@ Any party who is required to attend a hearing may, if the Executive Head conside
 
   **(1)** An appeal is to be heard in the appellant's region, except in the circumstances provided for in the regulations.
 
-  **(2)** An appeal is to be heard in the **presence of the parties or their counsel or agents**, except in the circumstances provided for in the regulations.
+  **(2)** An appeal is to be heard in the presence of the parties or their counsel or agents, except in the circumstances provided for in the regulations.
 
   **(3)** All or part of a Board of Appeal hearing may be held in private in the circumstances provided for in the regulations.
 
