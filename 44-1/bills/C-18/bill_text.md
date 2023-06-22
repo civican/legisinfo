@@ -350,7 +350,7 @@ This Act may be cited as the `Online News Act`.
 
     **entity** includes a corporation or a trust, partnership, fund, joint venture or any other unincorporated association or organization. (**entité**)
 
-    **Indigenous news outlet** means an undertaking or any distinct part of an undertaking, such as a section of a newspaper, whose primary purpose is to produce news content and that
+    **Indigenous news outlet** means an undertaking or any distinct part of an undertaking whose primary purpose is to produce news content and that
 
     is operated by an individual who belongs to an Indigenous group, community or people; and
 
@@ -362,9 +362,13 @@ This Act may be cited as the `Online News Act`.
 
     **news business** means an individual or entity that operates a news outlet in Canada. (**entreprise de nouvelles**)
 
-    **news content** means content — in any format, including an audio or audiovisual format — that reports on, investigates or explains current issues or events of public interest and includes such content that an Indigenous news outlet makes available to an Indigenous community by means of Indigenous storytelling. (**contenu de nouvelles**)
+    **news content** means content — in any format, including an audio or audiovisual format — that reports on, investigates or explains current issues or events of public interest and includes such content that an Indigenous news outlet makes available by means of Indigenous storytelling. (**contenu de nouvelles**)
 
-    **news outlet** means an undertaking or any distinct part of an undertaking, such as a section of a newspaper, the primary purpose of which is to produce news content and includes an Indigenous news outlet. (**média d'information**)
+    **news outlet** means an undertaking or any distinct part of an undertaking whose primary purpose is to produce news content and includes an Indigenous news outlet or an official language minority community news outlet. (**média d'information**)
+
+    **official language minority community** means English-speaking communities in Quebec and French-speaking communities outside Quebec. (**communauté de langue officielle en situation minoritaire**)
+
+    **official language minority community news outlet** means an undertaking or any distinct part of an undertaking whose primary purpose is to produce news content and that produces news content primarily for an official language minority community. (**média d'information de communauté de langue officielle en situation minoritaire**)
 
     **operator** means an individual or entity that, through any means, operates a digital news intermediary. (**exploitant**)
 
@@ -450,9 +454,11 @@ For greater certainty, this Act does not apply to a telecommunications service p
 
     they ensure a significant portion of independent local news businesses benefit from them, they contribute to the sustainability of those businesses and they encourage innovative business models in the Canadian news marketplace,
 
-    they involve a range of news outlets in both the non-profit and for-profit sectors and they were entered into with news businesses that reflect a diversity of business models that provide services to all markets and diverse populations, including local and regional markets in every province and territory, anglophone and francophone communities, including official language minority communities, and Black and other racialized communities, and
+    they involve a range of news outlets in both the non-profit and for-profit sectors and they were entered into with news businesses that reflect a diversity of business models that provide services to all markets and diverse populations, including local and regional markets in every province and territory, anglophone and francophone communities, and Black and other racialized communities,
 
-    they ensure a significant portion of Indigenous news outlets benefit from them and they contribute to the sustainability of those outlets in a way that supports the provision of news content by and for Indigenous peoples;
+    they ensure a significant portion of Indigenous news outlets benefit from them and they contribute to the sustainability of those outlets in a way that supports the provision of news content by and for Indigenous peoples, and
+
+    they ensure a significant portion of official language minority community news outlets benefit from them and they contribute to the sustainability of those outlets in a way that supports the provision of news content by and for official language minority communities;
 
     the Commission has held public consultations in accordance with any conditions that its Chairperson may specify; and
 
@@ -478,7 +484,7 @@ For greater certainty, this Act does not apply to a telecommunications service p
 
     the operator has entered into agreements with news businesses that operate news outlets that produce news content primarily for the Canadian news marketplace;
 
-    the Commission is unable to make the exemption order because it is of the opinion that, taken as a whole, the agreements do not satisfy the criteria set out in subparagraphs `11`(1)(a)(i) to (vi); and
+    the Commission is unable to make the exemption order because it is of the opinion that, taken as a whole, the agreements do not satisfy the criteria set out in subparagraphs 11(1)(a)(i) to (viii); and
 
     the Commission is of the opinion that it will be able to change its opinion because the operator is, in good faith, taking measures that will permit the criteria to be satisfied within a reasonable period, which period must not be longer than one year.
 
@@ -618,9 +624,7 @@ has made payments or has offered to make payments to the business in question fo
 
     operates an Indigenous news outlet in Canada and produces news content that includes matters of general interest, including coverage of matters relating to the rights of Indigenous peoples, including the right of self-government and treaty rights.
 
-  **(2)** The Commission may make an order under subsection (1) on its own initiative.
-
-  **(3)** Despite subsection (1), a news business must not be designated as eligible if it was previously designated and had its designation revoked under paragraph `59`(1)(c).
+  **(3)** Despite subsection (1), a news business must not be designated as eligible if it was previously designated and had its designation revoked under paragraph 59(1)(c).
 
   **(3.1)** Despite subsection (1), a news business must not be designated as eligible if
 
@@ -712,7 +716,15 @@ When initiating the bargaining process, an eligible news business or group of el
 
 ### Section 36
 
-The Commission may, at the request of an arbitration panel, provide administrative and technical assistance to the panel and may, on any terms that the Commission considers necessary, disclose to the panel any confidential information in the Commission's possession that, in the Commission's opinion, is necessary for a balanced and informed decision-making process, on the condition that the Commission ensures that the arbitration panel or each individual arbitrator that presides over the final offer arbitration, do not further disclose any such confidential information and under any further terms that the Commission considers necessary.
+  **(1)** The Commission may, at the request of an arbitration panel, provide administrative and technical assistance to the panel and may, on any terms that the Commission considers necessary, disclose to the panel any information, including confidential information, in the Commission's possession that, in the Commission's opinion, is necessary for a balanced and informed decision-making process, on the condition that the Commission ensures that the arbitration panel or each individual arbitrator that presides over the final offer arbitration does not further disclose any confidential information other than during the arbitration, including by imposing any further terms that the Commission considers necessary.
+
+  **(2)** Each individual arbitrator must take all reasonably necessary measures to ensure that confidential information disclosed to them under subsection (1) is not disclosed other than during the arbitration.
+
+  **(3)** Every individual who contravenes subsection (2) is guilty of an offence and is liable on summary conviction,
+
+    for a first offence, to a fine of not more than $5,000; and
+
+    for a second or subsequent offence, to a fine of not more than $10,000.
 
 ### Section 37
 
@@ -1253,7 +1265,7 @@ Sections 126 and 127 of the `Criminal Code` do not apply in respect of any contr
 
   **(1)** Fees and charges payable under regulations made under subsections `79`(1) and `81`(1), and any interest on them, constitute a debt due to Her Majesty in right of Canada and may be recovered as such in any court of competent jurisdiction.
 
-  **(2)** Debts due to Her Majesty in right of Canada under regulations made under subsections `79`(1) and `81`(1) maybe recovered at any time by way of deduction from, set-off against or compensation against any sum of money that may be due or payable by Her Majesty in right of Canada to the individual or entity responsible for the debt.
+  **(2)** Debts due to Her Majesty in right of Canada under regulations made under subsections `79`(1) and `81`(1) may be recovered at any time by way of deduction from, set-off against or compensation against any sum of money that may be due or payable by Her Majesty in right of Canada to the individual or entity responsible for the debt.
 
 ### Section 83
 
@@ -1270,7 +1282,7 @@ respecting the factors set out in section `6`;
 
 respecting the time at which or the period within which an operator must notify the Commission under subsection `7`(1);
 
-respecting how the Commission is to interpret subparagraphs `11`(1)(a)(i) to (vi);
+respecting how the Commission is to interpret subparagraphs 11(1)(a)(i) to (viii);
 
 setting out conditions for the purposes of paragraph 11(1)(b); and
 
@@ -1312,6 +1324,12 @@ respecting the Commission's practices and procedures in relation to this Act.
     information relating to the distribution of the commercial value of those agreements among eligible news businesses, including relative to the expenditures of those businesses on their newsrooms;
 
     information relating to the effect of the agreements on those expenditures;
+
+    information relating to the impact of this Act on news outlets that produce news content primarily for diverse populations, including local and regional markets in every province and territory, anglophone and francophone communities and Black and other racialized communities;
+
+    information relating to the total number of those agreements that involve Indigenous news outlets and to the portion of the commercial value of those agreements that benefits these news outlets;
+
+    information relating to the total number of those agreements that involve official language minority community news outlets and to the portion of the commercial value of those agreements that benefits these news outlets;
 
     if the Canadian Broadcasting Corporation has provided an annual report under section 53.1 in the 12 months preceding the preparation of the auditor's report, information related to that annual report; and
 
@@ -1403,4 +1421,6 @@ The `Telecommunications Act` is amended by adding the following after section 4:
   **(4)** Sections 49 to 52 and 68 come into force on a day to be fixed by order of the Governor in Council, but that day must not be before the day fixed in accordance with subsection (3).
 
   **(5)** Sections 79 to 83, 86, 87 and 90 come into force on a day or days to be fixed by order of the Governor in Council.
+
+  **(6)** Despite subsections (1) to (5), any provision of this Act that does not come into force by order before the 180th day following the day on which this Act receives royal assent comes into force 180 days after the day on which this Act receives royal assent.
 
