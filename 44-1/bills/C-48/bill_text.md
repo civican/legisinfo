@@ -1,7 +1,5 @@
 # Bill C-48: An Act to amend the Criminal Code (bail reform)
 
-**Sponsor**: MINISTER OF JUSTICE
-
 ## Summary
 
 This enactment amends the `Criminal Code` to, among other things,
@@ -44,25 +42,25 @@ Now, therefore, His Majesty, by and with the advice and consent of the Senate an
 
   **(1)** Paragraph 515(3)(b) of the `Criminal Code` is replaced by the following:
 
-    whether the accused has been previously convicted of a criminal offence, **including any offence in the commission of which violence was used, threatened or attempted against any person**.
+    whether the accused has been previously convicted of a criminal offence, including any offence in the commission of which violence was used, threatened or attempted against any person.
 
   **(2)** Subparagraph 515(6)(a)(vi) of the Act is replaced by the following:
 
-    that is an offence under section **95, 98, 98.1**, 99, 100, **102** or 103,
+    that is an offence under section 95, 98, 98.1, 99, 100, 102 or 103,
 
   **(3)** Subparagraph 515(6)(a)(viii) of the Act is replaced by the following:
 
-    that is alleged to involve, or whose subject-matter is alleged to be, a firearm, a cross-bow, a prohibited weapon, a restricted weapon, a prohibited device, any ammunition or prohibited ammunition or an explosive substance, and that is alleged to have been committed while the accused was under a prohibition order within the meaning of subsection 84(1), **including a release order made under this section, that prohibited the accused from possessing any of those things**;
+    that is alleged to involve, or whose subject-matter is alleged to be, a firearm, a cross-bow, a prohibited weapon, a restricted weapon, a prohibited device, any ammunition or prohibited ammunition or an explosive substance, and that is alleged to have been committed while the accused was under a prohibition order within the meaning of subsection 84(1), including a release order made under this section, that prohibited the accused from possessing any of those things;
 
   **(4)** Paragraph 515(6)(b.1) of the Act is replaced by the following:
 
-    with an offence in the commission of which violence was allegedly used, threatened or attempted against their intimate partner, and the accused has been previously convicted **or discharged under section 730** of an offence in the commission of which violence was used, threatened or attempted against any intimate partner of theirs;
+    with an offence in the commission of which violence was allegedly used, threatened or attempted against their intimate partner, and the accused has been previously convicted or discharged under section 730 of an offence in the commission of which violence was used, threatened or attempted against any intimate partner of theirs;
 
     with an offence in the commission of which violence was allegedly used, threatened or attempted against a person with the use of a weapon, and the accused has been previously convicted, within five years of the day on which they were charged for that offence, of another offence in the commission of which violence was also used, threatened or attempted against any person with the use of a weapon, if the maximum term of imprisonment for each of those offences is 10 years or more;
 
   **(5)** Subsection 515(13) of the Act is replaced by the following:
 
-    **(13)** A justice who makes an order under this section shall include in the record of the proceedings a statement that **the justice** considered the safety and security of every victim of the offence **and the safety and security of the community** when making the order.
+    **(13)** A justice who makes an order under this section shall include in the record of the proceedings a statement that the justice considered the safety and security of every victim of the offence and the safety and security of the community when making the order.
 
 
 ### Review by Committee
