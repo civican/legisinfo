@@ -60,7 +60,7 @@ set out that port authorities are responsible for management of traffic and crea
 
 provide the minister with the power to require, by order, the taking of measures to prevent imminent harm to national security, national economic security, or competition; and
 
-require port authorities to establish advisory committees, including an Indigenous advisory committee, require periodic assessments of port authorities' governance practices and set out new requirements respecting plans and reports relating to climate change.
+require port authorities to establish advisory committees, which must include representatives from local Indigenous communities, require periodic assessments of port authorities' governance practices and set out new requirements respecting plans and reports relating to climate change.
 
 Finally, it makes a consequential amendment to the `Transportation Appeal Tribunal of Canada Act`.
 
@@ -170,10 +170,6 @@ The `Customs Act` is amended by adding the following after section 19:
   **(2)** The Governor in Council may make regulations for the purposes of subsection (1), including regulations respecting the time and manner of delivery of goods to a secure area.
 
 
-> **Explanatory Note**:
-> New.
-
-
 ## `Railway Safety Act`
 
 ### Section 3
@@ -184,19 +180,9 @@ promote and provide for the safety of the public and personnel, and the protecti
 
 encourage the collaboration and participation of interested parties in improving railway safety;
 
-recognize the responsibility of companies to demonstrate, by using safety management systems, **security management systems** and other means at their disposal, that they continuously manage risks related to safety **and security** matters; and
+recognize the responsibility of companies to demonstrate, by using safety management systems, security management systems and other means at their disposal, that they continuously manage risks related to safety and security matters; and
 
 facilitate a modern, flexible and efficient regulatory scheme that will ensure the continuing enhancement of railway safety.
-
-
-> **Explanatory Note**:
-> Relevant portion of section 3:
-> *Existing Text*:
-> > The objectives of this Act are to
-> > promote and provide for the safety and security of the public and personnel, and the protection of property and the environment, in railway operations;
-> > encourage the collaboration and participation of interested parties in improving railway safety and security;
-> > recognize the responsibility of companies to demonstrate, by using safety management systems and other means at their disposal, that they continuously manage risks related to safety matters; and
-> > facilitate a modern, flexible and efficient regulatory scheme that will ensure the continuing enhancement of railway safety and security.
 
 ### Section 4
 
@@ -204,26 +190,19 @@ The portion of section 3.1 of the Act before paragraph (b) is replaced by the fo
 
 ### Section 3.1
 
-The Minister is responsible for the development and regulation of matters to which this Act applies, including **railway** safety, and for the supervision of all matters connected with railways and, in the discharge of those responsibilities, the Minister may, among other things,
+The Minister is responsible for the development and regulation of matters to which this Act applies, including railway safety, and for the supervision of all matters connected with railways and, in the discharge of those responsibilities, the Minister may, among other things,
 
 promote railway safety by means that the Minister considers appropriate;
-
-
-> **Explanatory Note**:
-> Relevant portion of section 3.1:
-> *Existing Text*:
-> > The Minister is responsible for the development and regulation of matters to which this Act applies, including safety and security, and for the supervision of all matters connected with railways and, in the discharge of those responsibilities, the Minister may, among other things,
-> > promote railway safety and security by means that the Minister considers appropriate;
 
 ### Section 5
 
   **(1)** Paragraphs (c) and (d) of the definition **security document** in subsection 4(1) of the Act are replaced by the following:
 
-    **an order referred to in section 32 or 32.01** that relates to security,
+    an order referred to in section 32 or 32.01 that relates to security,
 
     an emergency directive made under section 33 that relates to security,
 
-    a security measure formulated under subsection 39.1(1), **and**
+    a security measure formulated under subsection 39.1(1), and
 
     a requirement or authorization, contained in a notice, referred to in subsection 39.1(2); (**texte relatif à la sûreté du transport ferroviaire**)
 
@@ -239,24 +218,11 @@ Paragraph 6.1(1)(a) of the Act is replaced by the following:
 
 railway safety and the safety aspects of railway crossings; or
 
-
-> **Explanatory Note**:
-> Relevant portion of subsection 6.1(1):
-> *Existing Text*:
-> > The Minister may enter into an agreement with a provincial minister responsible for transportation matters providing for the administration, in relation to persons who operate railways within the legislative authority of the province, of any law respecting
-> > railway safety and security and the safety aspects of railway crossings; or
-
 ### Section 7
 
 Subsection 19(5) of the Act is replaced by the following:
 
-**(5)** The Minister may, in deciding whether to approve rules filed by a company, engage any person or organization having expertise in matters relating to safe railway operations to furnish advice in relation to the matter **or consult with any other relevant party**.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 19(5):
-> *Existing Text*:
-> > The Minister may, in deciding whether to approve rules filed by a company, engage any person or organization having expertise in matters relating to safe railway operations to furnish advice in relation to the matter.
+**(5)** The Minister may, in deciding whether to approve rules filed by a company, engage any person or organization having expertise in matters relating to safe railway operations to furnish advice in relation to the matter or consult with any other relevant party.
 
 ### Section 8
 
@@ -275,6 +241,8 @@ Subsection 19(5) of the Act is replaced by the following:
       cancel the exemption, if in the opinion of the Minister the cancellation is in the public interest or the exemption is likely to threaten safe railway operations; and
 
       amend the exemption, if in the opinion of the Minister the amendment is in the public interest and is not likely to threaten safe railway operations.
+
+    **(10)** Any exemption granted under subsection (1) or (2) shall be published on the Transport Canada website and by any other means that the Minister considers appropriate within 30 days after it comes into force.
 
 ### Section 9
 
@@ -305,15 +273,11 @@ The Act is amended by adding the following after section 26.2:
 
 ### Section 26.3
 
-No person shall, without lawful excuse, interfere with any railway work, railway equipment or railway operation, or damage or destroy any railway work or railway equipment, **in a manner that** threatens the safety of railway operations.
+No person shall, without lawful excuse, interfere with any railway work, railway equipment or railway operation, or damage or destroy any railway work or railway equipment, in a manner that threatens the safety of railway operations.
 
 ### Section 26.4
 
 No person shall behave in a manner that endangers or risks endangering the safety of a station, railway equipment or individuals who are at the station or on board the railway equipment, or behave in an unruly manner toward employees or agents or mandataries of a company.
-
-
-> **Explanatory Note**:
-> New.
 
 ### Section 11
 
@@ -321,11 +285,6 @@ The heading before section 31 of the Act is replaced by the following:
 
 
 ### Notices of Railway Safety Inspectors
-
-
-> **Explanatory Note**:
-> Existing text of the heading:
-> *Existing Text*:
 
 ### Section 12
 
@@ -339,13 +298,13 @@ The heading before section 31 of the Act is replaced by the following:
 
   **(2)** Subsections 32(3.1) and (3.2) of the Act are replaced by the following:
 
-    **(3.1)** If the Minister is of the opinion that the safety management system **or the security management system** established by a company has deficiencies that risk compromising railway safety **or railway security, as the case may be**, the Minister may, by notice sent to the company, order the company to take the necessary corrective measures.
+    **(3.1)** If the Minister is of the opinion that the safety management system or the security management system established by a company has deficiencies that risk compromising railway safety or railway security, as the case may be, the Minister may, by notice sent to the company, order the company to take the necessary corrective measures.
 
-    **(3.2)** If the Minister is of the opinion that a company is implementing any part of its safety management system **or its security management system** in a manner that risks compromising railway safety **or railway security, as the case may be**, the Minister may, by notice sent to the company, order it to take the necessary corrective measures.
+    **(3.2)** If the Minister is of the opinion that a company is implementing any part of its safety management system or its security management system in a manner that risks compromising railway safety or railway security, as the case may be, the Minister may, by notice sent to the company, order it to take the necessary corrective measures.
 
   **(3)** Subsection 32(4) of the Act is replaced by the following:
 
-    **(4)** An order contained in a notice under subsection (1) or under any of subsections (**2.1**) to (3.21) takes effect on the date of receipt of the notice. The notice shall indicate the date, which shall be 30 days after the day on which the notice is sent, on or before which the recipient may file a request for a review of the order and the address to which the request may be filed.
+    **(4)** An order contained in a notice under subsection (1) or under any of subsections (2.1) to (3.21) takes effect on the date of receipt of the notice. The notice shall indicate the date, which shall be 30 days after the day on which the notice is sent, on or before which the recipient may file a request for a review of the order and the address to which the request may be filed.
 
 ### Section 13
 
@@ -353,13 +312,7 @@ Section 32.3 of the Act is replaced by the following:
 
 ### Section 32.3
 
-If a request for review is filed, an order made under subsection 32(1), (3.1) or (3.2) shall be stayed until the matter is finally disposed of in accordance with section 32.1, 32.2 or 32.4. However, an order made under subsection 32**(2.1)**, (3) or (3.21) or section 32.01 shall not be stayed pending a review under section 32.1, an appeal under section 32.2 or a reconsideration by the Minister under subsection 32.1(5) or 32.2(3).
-
-
-> **Explanatory Note**:
-> Existing text of section 32.3:
-> *Existing Text*:
-> > If a request for review is filed, an order made under subsection 32(1), (3.1) or (3.2) shall be stayed until the matter is finally disposed of in accordance with section 32.1, 32.2 or 32.4. However, an order made under subsection 32(3) or (3.21) or section 32.01 shall not be stayed pending a review under section 32.1, an appeal under section 32.2 or a reconsideration by the Minister under subsection 32.1(5) or 32.2(3).
+If a request for review is filed, an order made under subsection 32(1), (3.1) or (3.2) shall be stayed until the matter is finally disposed of in accordance with section 32.1, 32.2 or 32.4. However, an order made under subsection 32(2.1), (3) or (3.21) or section 32.01 shall not be stayed pending a review under section 32.1, an appeal under section 32.2 or a reconsideration by the Minister under subsection 32.1(5) or 32.2(3).
 
 ### Section 14
 
@@ -374,34 +327,17 @@ The Act is amended by adding the following after section 39.2:
 
   **(2)** The limitations described in subsection 47.2(2) do not apply to any fees or charges to be paid in relation to transportation security clearances.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 15
 
 Subparagraph 40.1(a)(ii) of the Act is replaced by the following:
 
-any rule, standard, order, emergency directive, or **security measure** made under this Act; and
-
-
-> **Explanatory Note**:
-> Relevant portion of section 40.1:
-> *Existing Text*:
-> > The Governor in Council may, by regulation,
-> > designate as a provision the contravention of which may be proceeded with as a violation in accordance with sections 40.13 to 40.22,
-> > 
-> > any rule, standard, order or emergency directive made under this Act; and
+any rule, standard, order, emergency directive, or security measure made under this Act; and
 
 ### Section 16
 
 Section 40.11 of the Act is amended by adding the following after subsection (5):
 
 **(6)** No person shall, while an enforcement officer is carrying out their functions under this Act, fail to comply with any reasonable request of the officer or otherwise obstruct or hinder the officer.
-
-
-> **Explanatory Note**:
-> New.
 
 ### Section 17
 
@@ -444,10 +380,6 @@ The Act is amended by adding the following after section 40.13:
     a notice is served under subsection (6) and the person pays double the amount of the penalty set out in the assurance of compliance; or
 
     a member determines under section 40.18 or an appeal panel decides under section 40.19 that the person has complied with the assurance.
-
-
-> **Explanatory Note**:
-> New.
 
 ### Section 18
 
@@ -497,10 +429,6 @@ Instead of paying the penalty set out in the notice of violation, the person ser
 
   **(2)** If a person pays the amount set out in the notice of violation in the time specified by the Minister and manner specified in the notice of violation, the Minister shall accept the amount as and in complete satisfaction of the amount of the penalty for the violation and no further proceedings under this Act shall be taken against the person in respect of that violation.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 19
 
   **(1)** Section 40.16 of the Act is amended by adding the following after subsection (1):
@@ -513,7 +441,7 @@ Instead of paying the penalty set out in the notice of violation, the person ser
 
   **(3)** Subsection 40.16(4) of the Act is replaced by the following:
 
-    **(4)** The Minister has the burden of establishing that a person has committed a violation **or has not complied with the assurance of compliance referred to in the notice of default**.
+    **(4)** The Minister has the burden of establishing that a person has committed a violation or has not complied with the assurance of compliance referred to in the notice of default.
 
   **(4)** Section 40.16 of the Act is amended by adding the following after subsection (5):
 
@@ -527,13 +455,6 @@ that the person has complied with the assurance of compliance, in which case, su
 
 that the person has not complied with the assurance of compliance, in which case, the member confirms the decision made by the Minister under subsection 40.131(6).
 
-
-> **Explanatory Note**:
-> Relevant portion of section 40.18:
-> *Existing Text*:
-> > At the conclusion of a review, the member of the Tribunal who conducts the review shall without delay inform the Minister and the person alleged to have committed a violation
-> > 
-
 ### Section 21
 
 Subsections 40.19(3) and (4) of the Act are replaced by the following:
@@ -544,30 +465,15 @@ Subsections 40.19(3) and (4) of the Act are replaced by the following:
 
   in the case of a determination made under paragraphs 40.18(c) or (d), dismiss the appeal or allow the appeal and substitute its own decision.
 
-**(4)** **After making its decision**, the appeal panel shall inform the person and the Minister of **its decision** without delay and **specify** the period within which any amount determined by the appeal panel to be payable to the Tribunal **is to be paid**.
-
-
-> **Explanatory Note**:
-> Existing text of subsections 40.19(3) and (4):
-> *Existing Text*:
-> > The appeal panel of the Tribunal assigned to hear an appeal may dispose of the appeal by dismissing it or by allowing it and, in allowing the appeal, the panel may substitute its decision for the determination.
-> > If the appeal panel finds that a person has committed a violation, the panel shall without delay inform the person and the Minister of the finding and, subject to any regulations made under paragraph 40.1(b), of the amount determined by the panel to be payable to the Tribunal by or on behalf of the person in respect of the violation.
+**(4)** After making its decision, the appeal panel shall inform the person and the Minister of its decision without delay and specify the period within which any amount determined by the appeal panel to be payable to the Tribunal is to be paid.
 
 ### Section 22
 
 Paragraphs 40.2(a) and (b) of the Act are replaced by the following:
 
-to pay the amount of a penalty set out in a notice of violation, **or in a notice of default served under subsection 40.131(6) or 40.152(4)**, or to file a request for a review under section 40.16;
+to pay the amount of a penalty set out in a notice of violation, or in a notice of default served under subsection 40.131(6) or 40.152(4), or to file a request for a review under section 40.16;
 
-to pay an amount **set out in a decision made** under paragraph 40.18(b) **or (d)** or file an appeal under section 40.19; or
-
-
-> **Explanatory Note**:
-> Relevant portion of section 40.2:
-> *Existing Text*:
-> > The Minister may obtain from the Tribunal or the member, as the case may be, a certificate in the form established by the Governor in Council setting out the amount of the penalty required to be paid by a person who fails, within the time required,
-> > to pay the amount of a penalty set out in a notice of violation or to file a request for a review under section 40.16;
-> > to pay an amount determined under paragraph 40.18(b) or file an appeal under section 40.19; or
+to pay an amount set out in a decision made under paragraph 40.18(b) or (d) or file an appeal under section 40.19; or
 
 ### Section 23
 
@@ -575,23 +481,11 @@ Section 47.1 of the Act is amended by adding the following after subsection (1):
 
 **(1.1)** The Governor in Council may make regulations respecting security management systems.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 24
 
 Paragraph 47.2(1)(b) of the Act is replaced by the following:
 
-in relation to the filing of documents and the making of applications for, and the issuance of, certificates, exemptions, licences, approvals or **transportation security clearances** under this Act.
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 47.2(1):
-> *Existing Text*:
-> > The Minister may make regulations prescribing any fees or charges, or determining the manner of calculating any fees or charges, to be paid
-> > 
-> > in relation to the filing of documents and the making of applications for and the issuance of certificates, exemptions, licences or approvals under this Act.
+in relation to the filing of documents and the making of applications for, and the issuance of, certificates, exemptions, licences, approvals or transportation security clearances under this Act.
 
 ### Section 25
 
@@ -599,13 +493,7 @@ Subsection 51(1) of the Act is replaced by the following:
 
 ### Section 51
 
-  **(1)** The Minister shall, **on the fifth anniversary of** the day on which this **subsection** comes into force, **and every five years after that anniversary**, appoint one or more persons to carry out a comprehensive review of the operation of this Act.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 51(1):
-> *Existing Text*:
-> > The Minister shall, not later than five years after the day on which this section comes into force, appoint one or more persons to carry out a comprehensive review of the operation of this Act.
+  **(1)** The Minister shall, on the fifth anniversary of the day on which this subsection comes into force, and every five years after that anniversary, appoint one or more persons to carry out a comprehensive review of the operation of this Act.
 
 
 ## `Transportation of Dangerous Goods Act, 1992`
@@ -616,7 +504,7 @@ Subsection 51(1) of the Act is replaced by the following:
 
   **(2)** The definition **safety standard** in section 2 of the Act is replaced by the following:
 
-    **safety standard** means a standard for a means of containment used or intended to be used in importing, offering for transport, handling or transporting dangerous goods, including standards for the means of containment's design, manufacture, repair, **requalification**, equipping, functioning, use or performance; (**norme de sécurité**)
+    **safety standard** means a standard for a means of containment used or intended to be used in importing, offering for transport, handling or transporting dangerous goods, including standards for the means of containment's design, manufacture, repair, requalification, equipping, functioning, use or performance; (**norme de sécurité**)
 
   **(3)** The definition **prescribed** in section 2 of the English version of the Act is replaced by the following:
 
@@ -624,7 +512,7 @@ Subsection 51(1) of the Act is replaced by the following:
 
   **(4)** Paragraph (b) of the definition **safety requirement** in section 2 of the Act is replaced by the following:
 
-    a requirement for persons engaged in designing, manufacturing, repairing, **requalifying** or equipping a means of containment used or intended to be used in importing, offering for transport, handling or transporting dangerous goods, or
+    a requirement for persons engaged in designing, manufacturing, repairing, requalifying or equipping a means of containment used or intended to be used in importing, offering for transport, handling or transporting dangerous goods, or
 
   **(5)** Section 2 of the Act is amended by adding the following in alphabetical order:
 
@@ -641,10 +529,6 @@ The Act is amended by adding the following after section 3:
 
 The Minister may, in writing, authorize any person designated by the Minister to exercise any of the Minister's powers and duties under this Act, either generally or as otherwise provided in the instrument of authorization.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 28
 
 Paragraph 5(a) of the Act is replaced by the following:
@@ -653,26 +537,13 @@ the person has, subject to the regulations, a registration number assigned under
 
 the person complies with all safety requirements and security requirements that apply under the regulations;
 
-
-> **Explanatory Note**:
-> Relevant portion of section 5:
-> *Existing Text*:
-> > No person shall import, offer for transport, handle or transport any dangerous goods unless
-> > the person complies with all safety requirements and security requirements that apply under the regulations;
-
 ### Section 29
 
 Section 5.1 of the Act is replaced by the following:
 
 ### Section 5.1
 
-No person shall design, manufacture, repair, **requalify** or equip a means of containment used or intended to be used in importing, offering for transport, handling or transporting dangerous goods unless the person complies with all safety requirements that apply under the regulations.
-
-
-> **Explanatory Note**:
-> Existing text of section 5.1:
-> *Existing Text*:
-> > No person shall design, manufacture, repair, test or equip a means of containment used or intended to be used in importing, offering for transport, handling or transporting dangerous goods unless the person complies with all safety requirements that apply under the regulations.
+No person shall design, manufacture, repair, requalify or equip a means of containment used or intended to be used in importing, offering for transport, handling or transporting dangerous goods unless the person complies with all safety requirements that apply under the regulations.
 
 ### Section 30
 
@@ -688,13 +559,7 @@ Section 6 of the Act is replaced by the following:
 
 ### Section 6
 
-No person shall affix or display on a means of containment a compliance mark that is required or permitted under the regulations — or another mark that is likely to be mistaken for such a mark — in respect of the manufacture, repair or **requalification** of the means of containment, unless the manufacture, repair or **requalification** was done in compliance with all safety requirements and safety standards applicable to that compliance mark.
-
-
-> **Explanatory Note**:
-> Existing text of section 6:
-> *Existing Text*:
-> > No person shall affix or display on a means of containment a compliance mark that is required or permitted under the regulations — or another mark that is likely to be mistaken for such a mark — in respect of the manufacture, repair or testing of the means of containment, unless the manufacture, repair or testing was done in compliance with all safety requirements and safety standards applicable to that compliance mark.
+No person shall affix or display on a means of containment a compliance mark that is required or permitted under the regulations — or another mark that is likely to be mistaken for such a mark — in respect of the manufacture, repair or requalification of the means of containment, unless the manufacture, repair or requalification was done in compliance with all safety requirements and safety standards applicable to that compliance mark.
 
 ### Section 32
 
@@ -709,10 +574,6 @@ The Act is amended by adding the following after section 6.1:
   **(3)** The Minister may collect any personal information or confidential business information that an applicant provides.
 
   **(4)** Any registration number that was assigned under this Act, on or before the day on which this section comes into force, to a person who imports, offers for transport, handles or transports any dangerous goods is deemed to be a registration number assigned under subsection (2).
-
-
-> **Explanatory Note**:
-> New.
 
 ### Section 33
 
@@ -733,27 +594,15 @@ The Act is amended by adding the following before the headings before section 7:
 
   **(5)** The Minister may disclose or publish any information respecting any certificate of registration, except personal information.
 
-  **(6)** Any registration number assigned, or certificate of registration issued, under this Act to a person who designs, manufactures, repairs, **requalifies** or equips a means of containment used or intended to be used in importing, offering for transport, handling or transporting dangerous goods, that is valid on the day on which this section comes into force, is deemed to have been issued under subsection (2).
-
-
-> **Explanatory Note**:
-> New.
+  **(6)** Any registration number assigned, or certificate of registration issued, under this Act to a person who designs, manufactures, repairs, requalifies or equips a means of containment used or intended to be used in importing, offering for transport, handling or transporting dangerous goods, that is valid on the day on which this section comes into force, is deemed to have been issued under subsection (2).
 
 ### Section 34
 
 Paragraphs 7.1(a) and (b) of the Act are replaced by the following:
 
-direct a person with an approved emergency response assistance plan to implement the plan, within a reasonable time as specified in the direction, in order to respond to an actual or anticipated release of dangerous goods to which the plan applies **and impose any terms and conditions related to the implementation of the plan that the Minister considers appropriate**; or
+direct a person with an approved emergency response assistance plan to implement the plan, within a reasonable time as specified in the direction, in order to respond to an actual or anticipated release of dangerous goods to which the plan applies and impose any terms and conditions related to the implementation of the plan that the Minister considers appropriate; or
 
-authorize **any** person with an approved emergency response assistance plan to implement the plan in order to respond to an actual or anticipated release of dangerous goods.
-
-
-> **Explanatory Note**:
-> Relevant portion of section 7.1:
-> *Existing Text*:
-> > The Minister may, if the Minister believes that doing so is necessary for the protection of public safety,
-> > direct a person with an approved emergency response assistance plan to implement the plan, within a reasonable time as specified in the direction, in order to respond to an actual or anticipated release of dangerous goods to which the plan applies; or
-> > authorize a person with an approved emergency response assistance plan to implement the plan in order to respond to an actual or anticipated release of dangerous goods if the Minister does not know the identity of any person required under subsection 7(1) to have an emergency response assistance plan in respect of the release.
+authorize any person with an approved emergency response assistance plan to implement the plan in order to respond to an actual or anticipated release of dangerous goods.
 
 ### Section 35
 
@@ -763,47 +612,23 @@ The Act is amended by adding the following after section 7.1:
 
 Subject to the regulations, every person who implements an approved emergency response assistance plan shall report its implementation to the Minister and any prescribed person, in accordance with the regulations, and include in the report any prescribed information.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 36
 
 The portion of subsection 9(3) of the Act before paragraph (a) is replaced by the following:
 
-**(3)** The Minister may direct a person who repaired or **requalified** a standardized means of containment to issue a notice of defective repair or defective **requalification**, as the case may be, to the person for whom it was repaired or **requalified**, or to publish the notice in a manner such that the notice is likely to come to that person's attention, if the Minister believes on reasonable grounds that the person who repaired or **requalified** the standardized means of containment
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 9(3):
-> *Existing Text*:
-> > The Minister may direct a person who repaired or tested a standardized means of containment to issue a notice of defective repair or defective testing, as the case may be, to the person for whom it was repaired or tested, or to publish the notice in a manner such that the notice is likely to come to that person's attention, if the Minister believes on reasonable grounds that the person who repaired or tested the standardized means of containment
+**(3)** The Minister may direct a person who repaired or requalified a standardized means of containment to issue a notice of defective repair or defective requalification, as the case may be, to the person for whom it was repaired or requalified, or to publish the notice in a manner such that the notice is likely to come to that person's attention, if the Minister believes on reasonable grounds that the person who repaired or requalified the standardized means of containment
 
 ### Section 37
 
 Subsection 14(2) of the Act is replaced by the following:
 
-**(2)** A person who carries on any of those activities shall, on request, provide to an inspector **or to an enforcement officer** the proof that is required under the regulations of financial responsibility.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 14(2):
-> *Existing Text*:
-> > A person who carries on any of those activities shall provide to an inspector on request the proof that is required under the regulations of financial responsibility.
+**(2)** A person who carries on any of those activities shall, on request, provide to an inspector or to an enforcement officer the proof that is required under the regulations of financial responsibility.
 
 ### Section 38
 
 Paragraph 15(1)(b) of the Act is replaced by the following:
 
-means of containment being manufactured, repaired or **requalified** on which a compliance mark is displayed or will be affixed;
-
-
-> **Explanatory Note**:
-> Relevant portion of section 15:
-> *Existing Text*:
-> > For the purpose of ensuring compliance with this Act, an inspector may, subject to section 16 but at any reasonable time, stop any means of transport for which the inspector is designated and enter and inspect any place, or any such means of transport, if the inspector believes on reasonable grounds that in or on the place or means of transport there are
-> > 
-> > means of containment being manufactured, repaired or tested on which a compliance mark is displayed or will be affixed;
+means of containment being manufactured, repaired or requalified on which a compliance mark is displayed or will be affixed;
 
 ### Section 39
 
@@ -811,19 +636,11 @@ Subsection 17(1) of the Act is replaced by the following:
 
 ### Section 17
 
-  **(1)** If an inspector believes on reasonable grounds that dangerous goods **are being imported, offered** for transport, **handled** or **transported** — or **that** a standardized means of containment is being **sold, offered** for sale, **delivered, distributed, imported** or **used** — in a way that does not comply with this Act, the inspector may, until satisfied that the activity will be done in compliance with this Act,
+  **(1)** If an inspector believes on reasonable grounds that dangerous goods are being imported, offered for transport, handled or transported — or that a standardized means of containment is being sold, offered for sale, delivered, distributed, imported or used — in a way that does not comply with this Act, the inspector may, until satisfied that the activity will be done in compliance with this Act,
 
-    remove to an appropriate place, or direct a person to so **remove**, **the** dangerous goods, the means of containment being used to handle or transport them or **the** standardized means of containment; or
+    remove to an appropriate place, or direct a person to so remove, the dangerous goods, the means of containment being used to handle or transport them or the standardized means of containment; or
 
-    detain, **or direct a person to detain, the dangerous goods, the means of containment being used to handle or transport them or the standardized means of containment**.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 17(1):
-> *Existing Text*:
-> > An inspector may remove to an appropriate place any dangerous goods, the means of containment being used to handle or transport them or a standardized means of containment, or direct a person to do so, and may detain the thing removed until satisfied that the activity will be done in compliance with this Act, if the inspector believes on reasonable grounds that any of the following activities is being carried out in a way that does not comply with this Act:
-> > importing, offering for transport, handling or transporting dangerous goods; or
-> > selling, offering for sale, delivering, distributing, importing or using a standardized means of containment.
+    detain, or direct a person to detain, the dangerous goods, the means of containment being used to handle or transport them or the standardized means of containment.
 
 ### Section 40
 
@@ -831,19 +648,13 @@ Subsection 18(1) of the Act is replaced by the following:
 
 ### Section 18
 
-  **(1)** **Subject to the regulations**, any person who has the charge, management or control of a means of containment shall report to every person prescribed for the purposes of this subsection any actual or anticipated release of dangerous goods from the means of containment if the release endangers, or could endanger, public safety.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 18(1):
-> *Existing Text*:
-> > Any person who has the charge, management or control of a means of containment shall report to every person prescribed for the purposes of this subsection any actual or anticipated release of dangerous goods that is or could be in excess of a quantity or concentration specified by regulation from the means of containment if the release endangers, or could endanger, public safety.
+  **(1)** Subject to the regulations, any person who has the charge, management or control of a means of containment shall report to every person prescribed for the purposes of this subsection any actual or anticipated release of dangerous goods from the means of containment if the release endangers, or could endanger, public safety.
 
 ### Section 41
 
   **(1)** Paragraph 24(1)(a) of the Act is replaced by the following:
 
-    information disclosed under section 23 and information of a similar nature obtained by an inspector under section 15 **or by an enforcement officer under section 32.13**;
+    information disclosed under section 23 and information of a similar nature obtained by an inspector under section 15 or by an enforcement officer under section 32.13;
 
   **(2)** Subsection 24(4) of the Act is amended by adding the following after paragraph (a):
 
@@ -893,7 +704,7 @@ Subsection 18(1) of the Act is replaced by the following:
 
   **(2)** Paragraph 27.1(1)(j) of the Act is replaced by the following:
 
-    respecting the manner of making the reports **referred** to **in** section 18, the information to be included in them and the circumstances in which they are required;
+    respecting the manner of making the reports referred to in section 18, the information to be included in them and the circumstances in which they are required;
 
   **(3)** Subsection 27.1(1) of the Act is amended by adding "and" at the end of paragraph (k) and by adding the following after paragraph (k):
 
@@ -905,31 +716,23 @@ Paragraph 29(1)(b) of the Act is replaced by the following:
 
 in relation to applying for equivalency certificates described in subsection 31(1), approvals or registrations.
 
-
-> **Explanatory Note**:
-> Relevant portion of subsection 29(1):
-> *Existing Text*:
-> > The Minister may make orders fixing any fees or charges, or determining the manner of calculating any fees or charges, to be paid
-> > 
-> > in relation to applying for transportation security clearances described in subsection 5.2(2), equivalency certificates described in subsection 31(1), approvals or registrations under this Act.
-
 ### Section 45
 
   **(1)** Subsections 31(2) and (2.1) of the Act are replaced by the following:
 
-    **(2)** The Minister may issue an emergency certificate authorizing any activity to be carried on in a manner that does not comply with this Act if the Minister is satisfied that the activity is necessary to deal with an emergency in which there is danger to public safety **or to security**.
+    **(2)** The Minister may issue an emergency certificate authorizing any activity to be carried on in a manner that does not comply with this Act if the Minister is satisfied that the activity is necessary to deal with an emergency in which there is danger to public safety or to security.
 
-    **(2.1)** The Minister may, in the public interest **or for the purposes of security**, issue a temporary certificate authorizing any activity to be carried on in a manner that does not comply with this Act.
+    **(2.1)** The Minister may, in the public interest or for the purposes of security, issue a temporary certificate authorizing any activity to be carried on in a manner that does not comply with this Act.
 
   **(2)** Subsection 31(6) of the Act is replaced by the following:
 
     **(6)** The Minister may revoke an equivalency, emergency or temporary certificate — including an emergency or temporary certificate the contents of which have been issued orally — if
 
-      the Minister is no longer satisfied of the matter described in subsection (1), (2) or (2.1), **as the case may be**;
+      the Minister is no longer satisfied of the matter described in subsection (1), (2) or (2.1), as the case may be;
 
       the regulations have been amended and have the same effect as the certificate; or
 
-      **the Minister is of the opinion that it is in the public interest to do so.**
+      the Minister is of the opinion that it is in the public interest to do so.
 
 ### Section 46
 
@@ -937,16 +740,9 @@ Subsections 32(1) and (2) of the Act are replaced by the following:
 
 ### Section 32
 
-  **(1)** The Minister may, if satisfied of the conditions described in subsection (2), direct a person engaged in importing, offering for transport, handling or transporting dangerous goods, or supplying or importing standardized means of containment, to cease that activity or to conduct other activities to reduce any danger to public safety **or to security**.
+  **(1)** The Minister may, if satisfied of the conditions described in subsection (2), direct a person engaged in importing, offering for transport, handling or transporting dangerous goods, or supplying or importing standardized means of containment, to cease that activity or to conduct other activities to reduce any danger to public safety or to security.
 
-  **(2)** The Minister may not make the direction unless the Minister is satisfied that the direction is necessary to deal with an emergency that involves danger to public safety **or to security** and that cannot be effectively dealt with under any other provision of this Act.
-
-
-> **Explanatory Note**:
-> Existing text of subsections 32(1) and (2):
-> *Existing Text*:
-> > The Minister may, if satisfied of the conditions described in subsection (2), direct a person engaged in importing, offering for transport, handling or transporting dangerous goods, or supplying or importing standardized means of containment, to cease that activity or to conduct other activities to reduce any danger to public safety.
-> > The Minister may not make the direction unless the Minister is satisfied that the direction is necessary to deal with an emergency that involves danger to public safety and that cannot be effectively dealt with under any other provision of this Act.
+  **(2)** The Minister may not make the direction unless the Minister is satisfied that the direction is necessary to deal with an emergency that involves danger to public safety or to security and that cannot be effectively dealt with under any other provision of this Act.
 
 ### Section 47
 
@@ -1199,15 +995,11 @@ At any time after a notice of violation is issued and served, the Minister may m
 
   **(10)** The appeal panel of the Tribunal that is assigned to hear the appeal may dismiss it or refer the matter back to the Minister for reconsideration.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 48
 
   **(1)** Paragraph 33(1)(a) of the Act is replaced by the following:
 
-    this Act, **other than subsection 32.13(13)**;
+    this Act, other than subsection 32.13(13);
 
   **(2)** Subsection 33(2) of the Act is replaced by the following:
 
@@ -1215,13 +1007,13 @@ At any time after a notice of violation is issued and served, the Minister may m
 
       in the case of an individual,
 
-      is liable on indictment to imprisonment for a term **of** not **more than three** years **or a fine of not more than $500,000**; or
+      is liable on indictment to imprisonment for a term of not more than three years or a fine of not more than $500,000, or
 
-      is liable on summary conviction to **imprisonment for a term of not more than two years less a day or** a fine **of** not **more than $250,000; and**
+      is liable on summary conviction to imprisonment for a term of not more than two years less a day or a fine of not more than $250,000; and
 
       in the case of an organization,
 
-      is liable on indictment to a fine of not more than $10,000,000; or
+      is liable on indictment to a fine of not more than $10,000,000, or
 
       is liable on summary conviction to a fine of not more than $5,000,000.
 
@@ -1233,9 +1025,9 @@ At any time after a notice of violation is issued and served, the Minister may m
 
     an offence punishable on summary conviction and liable,
 
-    **in the case of an individual,** to a fine **of** not **more than $250,000**, and
+    in the case of an individual, to a fine of not more than $250,000, and
 
-    **in the case of an organization, to a fine of not more than $5,000,000**; or
+    in the case of an organization, to a fine of not more than $5,000,000; or
 
 
 ## `Marine Transportation Security Act`
@@ -1247,27 +1039,19 @@ At any time after a notice of violation is issued and served, the Minister may m
 
   **(1)** The definitions **authorized screening** and **restricted area** in subsection 2(1) of the `Marine Transportation Security Act` are replaced by the following:
 
-    **authorized screening** means anything authorized or required to be done under any regulation, **interim order**, security measure, security rule or **emergency direction** for the control, observation, inspection and search of persons or goods to prevent the unauthorized possession or carriage of weapons, explosives and incendiaries on board vessels and at marine facilities; (**contrôle**)
+    **authorized screening** means anything authorized or required to be done under any regulation, interim order, security measure, security rule or emergency direction for the control, observation, inspection and search of persons or goods to prevent the unauthorized possession or carriage of weapons, explosives and incendiaries on board vessels and at marine facilities; (**contrôle**)
 
-    **restricted area** means an area established under any regulation, **interim order**, security measure, security rule or **emergency direction** to which access is restricted to authorized persons; (**zone réglementée**)
+    **restricted area** means an area established under any regulation, interim order, security measure, security rule or emergency direction to which access is restricted to authorized persons; (**zone réglementée**)
 
   **(2)** Paragraph (d) of the definition **marine facility** in subsection 2(1) of the Act is replaced by the following:
 
-    any marine installation or structure, as defined in section 2 of the `**Oceans** Act`. (**installation maritime**)
+    any marine installation or structure, as defined in section 2 of the `Oceans Act`. (**installation maritime**)
 
 ### Section 51
 
 Paragraph 4(1)(c) of the Act is replaced by the following:
 
-marine installations and structures, in **accordance with section 20** of the `**Oceans** Act`.
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 4(1):
-> *Existing Text*:
-> > Subject to subsections (2) and (3), this Act applies in respect of
-> > 
-> > marine installations and structures, as provided in sections 5 and 6 of the `Canadian Laws Offshore Application Act`.
+marine installations and structures, in accordance with section 20 of the `Oceans Act`.
 
 ### Section 52
 
@@ -1296,10 +1080,6 @@ promoting cooperation with federal, provincial, foreign and international entiti
   **(2)** The Minister must furnish each authorized individual and each individual exercising powers or performing duties or functions for an authorized person or organization with a certificate specifying the powers they may exercise and the duties and functions they may perform and any restrictions or conditions on the exercise of those powers or the performance of those duties and functions.
 
   **(3)** A holder of a certificate is not personally liable for anything they do or omit to do in good faith under this Act.
-
-
-> **Explanatory Note**:
-> New.
 
 ### Section 53
 
@@ -1340,10 +1120,6 @@ The Governor in Council may make regulations respecting the disclosure of inform
 departments or agencies of the federal government or members or agents of such departments or agencies; or
 
 departments or agencies of the government of a province or agencies of a municipality or members or agents or mandataries of such departments or agencies.
-
-
-> **Explanatory Note**:
-> New.
 
 ### Section 55
 
@@ -1398,37 +1174,33 @@ The Act is amended by adding the following after section 6:
 
   **(4)** Evidence that an interim order was given to the master or to any person on board who is, or appears to be, in command or charge of the vessel, other than the pilot, is, in the absence of evidence to the contrary, proof that it was given to the vessel.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 56
 
   **(1)** Subparagraphs 9(a)(i) and (ii) of the Act are replaced by the following:
 
-    in the case of an individual, to a fine **of** not **more than** $**1,000,000** or to imprisonment for a term **of** not **more than five years**, or to both, or
+    in the case of an individual, to a fine of not more than $1,000,000 or to imprisonment for a term of not more than five years, or to both, or
 
-    in the case of a corporation, to a fine **of** not **more than** $**2,000,000**; or
+    in the case of a corporation, to a fine of not more than $2,000,000; or
 
   **(2)** Subparagraphs 9(b)(i) and (ii) of the Act are replaced by the following:
 
-    in the case of an individual, to a fine **of** not **more than** $**500,000** or to imprisonment for a term **of** not **more than two years less a day**, or to both, or
+    in the case of an individual, to a fine of not more than $500,000 or to imprisonment for a term of not more than two years less a day, or to both, or
 
-    in the case of a corporation, to a fine **of** not **more than** $**1,000,000**.
+    in the case of a corporation, to a fine of not more than $1,000,000.
 
 ### Section 57
 
   **(1)** Subparagraphs 11(a)(i) and (ii) of the Act are replaced by the following:
 
-    in the case of an individual, to a fine **of** not **more than** $**1,000,000** or to imprisonment for a term **of** not **more than five years**, or to both, or
+    in the case of an individual, to a fine of not more than $1,000,000 or to imprisonment for a term of not more than five years, or to both, or
 
-    in the case of a corporation, to a fine **of** not **more than** $**2,000,000**; or
+    in the case of a corporation, to a fine of not more than $2,000,000; or
 
   **(2)** Subparagraphs 11(b)(i) and (ii) of the Act are replaced by the following:
 
-    in the case of an individual, to a fine **of** not **more than** $**500,000** or to imprisonment for a term **of** not **more than two years less a day**, or to both, or
+    in the case of an individual, to a fine of not more than $500,000 or to imprisonment for a term of not more than two years less a day, or to both, or
 
-    in the case of a corporation, to a fine **of** not **more than** $**1,000,000**.
+    in the case of a corporation, to a fine of not more than $1,000,000.
 
 ### Section 58
 
@@ -1436,29 +1208,15 @@ Section 12 of the Act is replaced by the following:
 
 ### Section 12
 
-The Minister may, on any terms and conditions the Minister considers necessary, exempt any person, vessel or marine facility from the application of any regulation, **interim order**, security measure or security rule if, in the opinion of the Minister, the exemption is in the public interest and is not likely to affect marine security.
-
-
-> **Explanatory Note**:
-> Existing text of section 12:
-> *Existing Text*:
-> > The Minister may, on any terms and conditions the Minister considers necessary, exempt any person, vessel or marine facility from the application of any regulation, security measure or security rule if, in the opinion of the Minister, the exemption is in the public interest and is not likely to affect marine security.
+The Minister may, on any terms and conditions the Minister considers necessary, exempt any person, vessel or marine facility from the application of any regulation, interim order, security measure or security rule if, in the opinion of the Minister, the exemption is in the public interest and is not likely to affect marine security.
 
 ### Section 59
 
 Paragraphs 13(2)(a) and (b) of the Act are replaced by the following:
 
-in the case of an individual, to a fine **of** not **more than** $**500,000** or to imprisonment for a term **of** not **more than two years less a day**, or to both; or
+in the case of an individual, to a fine of not more than $500,000 or to imprisonment for a term of not more than two years less a day, or to both; or
 
-in the case of a corporation, to a fine **of** not **more than** $**1,000,000**.
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 13(2):
-> *Existing Text*:
-> > Every person who contravenes subsection (1) is guilty of an offence punishable on summary conviction and liable
-> > in the case of an individual, to a fine not exceeding $5,000 or to imprisonment for a term not exceeding six months or to both; or
-> > in the case of a corporation, to a fine not exceeding $100,000.
+in the case of a corporation, to a fine of not more than $1,000,000.
 
 ### Section 60
 
@@ -1467,28 +1225,27 @@ The heading before section 16 of the Act is replaced by the following:
 
 ## Directions
 
-
-> **Explanatory Note**:
-> Existing text of the heading:
-> *Existing Text*:
-
 ### Section 61
 
   **(1)** The portion of subsection 16(1) of the Act before paragraph (b) is replaced by the following:
 
 ### Section 16
 
-      **(1)** **If** the Minister has reasonable grounds to believe that a vessel is a threat, **or poses a direct or indirect risk to the security of marine transportation**, including to any person, goods, vessel or marine facility **or to the health of persons involved in the marine transportation system**, the Minister may direct the vessel
+      **(1)** If the Minister has reasonable grounds to believe that a vessel is a threat, or poses a direct or indirect risk to the **marine ecosystem, the well-being of coastal communities,** the security of marine transportation, including to any person, goods, vessel or marine facility, or to the health of persons involved in the marine transportation system, the Minister may direct the vessel
 
-        to proceed to a place specified by the Minister in accordance with any instructions the Minister may give regarding the route and manner of proceeding and to remain at the place until the Minister is satisfied that the threat **or risk** no longer exists;
+        to proceed to a place specified by the Minister in accordance with any instructions the Minister may give regarding the route and manner of proceeding and to remain at the place until the Minister is satisfied that the threat or risk no longer exists;
 
-        to remain outside of any area specified by the Minister;
+        to remain outside of the area described in the schedule or outside of any other area specified by the Minister, except in cases in which the Minister determines no other safe option exists;
+
+  **(1.1)** Section 16 of the Act is amended by adding the following after subsection (1):
+
+    **(1.1)** If a vessel has been anchored in the area described in the schedule for more than 14 days, the Minister shall direct the vessel to proceed, in accordance with any instructions the Minister may give regarding the route and manner of proceeding, to a place specified by the Minister that is outside of the area and to remain outside of the area for a period specified by the Minister.
 
   **(2)** Subsections 16(3) and (4) of the Act are replaced by the following:
 
     **(3)** Every vessel subject to a direction, and its operator, must comply with it.
 
-    **(4)** For greater certainty, a direction issued under this section is not a statutory instrument **as defined in subsection 2(1)** of the `Statutory Instruments Act`.
+    **(4)** For greater certainty, a direction issued under this section is not a statutory instrument as defined in subsection 2(1) of the `Statutory Instruments Act`.
 
 ### Section 62
 
@@ -1496,19 +1253,19 @@ Section 17 of the Act is replaced by the following:
 
 ### Section 17
 
-  ****(1)**** An operator of a vessel that contravenes **subsection 16(3)** is guilty of an offence and liable
+  **(1)** An operator of a vessel that contravenes subsection 16(3) is guilty of an offence and liable
 
     on conviction on indictment
 
-    in the case of an individual, to a fine **of** not **more than** $**1,000,000** or to imprisonment for a term **of** not **more than five years**, or to both, or
+    in the case of an individual, to a fine of not more than $1,000,000 or to imprisonment for a term of not more than five years, or to both, or
 
-    in the case of a corporation, to a fine **of** not **more than** $**2,000,000**; or
+    in the case of a corporation, to a fine of not more than $2,000,000; or
 
     on summary conviction
 
-    in the case of an individual, to a fine **of** not **more than** $**500,000** or to imprisonment for a term **of** not **more than two years less a day**, or to both, or
+    in the case of an individual, to a fine of not more than $500,000 or to imprisonment for a term of not more than two years less a day, or to both, or
 
-    in the case of a corporation, to a fine **of** not **more than** $**1,000,000**.
+    in the case of a corporation, to a fine of not more than $1,000,000.
 
   **(2)** A vessel that contravenes subsection 16(3) is guilty of an offence and liable on summary conviction to a fine of not more than $1,000,000.
 
@@ -1598,32 +1355,13 @@ The following definitions apply in sections 17.1 and 17.2.
 
   **(5)** A certificate appearing to be signed by the Minister, stating that a notice containing the emergency direction was given to the master or to any person on board who is, or appears to be, in command or charge of the vessel, other than the pilot, is evidence that reasonable steps were taken to bring its substance to the attention of the vessel.
 
-
-> **Explanatory Note**:
-> Existing text of section 17:
-> *Existing Text*:
-> > An operator of a vessel that contravenes a direction is guilty of an offence and liable
-> > on conviction on indictment
-> > in the case of an individual, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding one year or to both, or
-> > in the case of a corporation, to a fine not exceeding $200,000; or
-> > on summary conviction
-> > in the case of an individual, to a fine not exceeding $5,000 or to imprisonment for a term not exceeding six months or to both, or
-> > in the case of a corporation, to a fine not exceeding $100,000.
-
 ### Section 63
 
 Subsections 19.2(2) and (3) of the Act are replaced by the following:
 
-**(2)** The Minister may suspend or cancel the designation of a person as a screening officer if the Minister is of the opinion that the person has contravened this Act or any regulation, **interim order**, security measure, security rule or **emergency direction**, or any condition referred to in subsection 10(6).
+**(2)** The Minister may suspend or cancel the designation of a person as a screening officer if the Minister is of the opinion that the person has contravened this Act or any regulation, interim order, security measure, security rule or emergency direction, or any condition referred to in subsection 10(6).
 
-**(3)** The Minister may suspend the designation of a person as a screening officer if the Minister is of the opinion that the exercise by the person of the functions of a screening officer **may pose a** threat **or a direct or indirect risk to the** security **of** marine transportation.
-
-
-> **Explanatory Note**:
-> Existing text of subsections 19.2(2) and (3):
-> *Existing Text*:
-> > The Minister may suspend or cancel the designation of a person as a screening officer if the Minister is of the opinion that the person has contravened this Act or any regulation, security measure or security rule, or any condition referred to in subsection 10(6).
-> > The Minister may suspend the designation of a person as a screening officer if the Minister is of the opinion that the exercise by the person of the functions of a screening officer constitutes, or is likely to constitute, an immediate threat to marine transportation security.
+**(3)** The Minister may suspend the designation of a person as a screening officer if the Minister is of the opinion that the exercise by the person of the functions of a screening officer may pose a threat or a direct or indirect risk to the security of marine transportation.
 
 ### Section 64
 
@@ -1631,41 +1369,27 @@ Subsection 19.8(1) of the Act is replaced by the following:
 
 ### Section 19.8
 
-  **(1)** In the case of a decision made under subsection 19.2(3), if the appeal panel has, on an appeal under section 19.6, dismissed the appeal or if the Minister has, after reconsidering the matter **under** paragraph 19.5(4)(a) or 19.6(3)(a), confirmed the suspension, the person affected by the decision may, in writing, request the Minister to reconsider whether the exercise by the person of the functions of a screening officer continues to **pose**, or is likely to continue to **pose, a** threat **or a direct or indirect risk to the** security **of** marine transportation.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 19.8(1):
-> *Existing Text*:
-> > In the case of a decision made under subsection 19.2(3), if the appeal panel has, on an appeal under section 19.6, dismissed the appeal or if the Minister has, after reconsidering the matter pursuant to paragraph 19.5(4)(a) or 19.6(3)(a), confirmed the suspension, the person affected by the decision may, in writing, request the Minister to reconsider whether the exercise by the person of the functions of a screening officer continues to constitute, or is likely to continue to constitute, an immediate threat to marine transportation security.
+  **(1)** In the case of a decision made under subsection 19.2(3), if the appeal panel has, on an appeal under section 19.6, dismissed the appeal or if the Minister has, after reconsidering the matter under paragraph 19.5(4)(a) or 19.6(3)(a), confirmed the suspension, the person affected by the decision may, in writing, request the Minister to reconsider whether the exercise by the person of the functions of a screening officer continues to pose, or is likely to continue to pose, a threat or a direct or indirect risk to the security of marine transportation.
 
 ### Section 65
 
   **(1)** Subsection 20(4) of the Act is replaced by the following:
 
-    **(4)** Every person who knowingly makes any false or misleading statement to a screening officer, or knowingly provides false or misleading information to a screening officer, is guilty of an offence punishable on summary conviction and liable to a fine **of** not **more than** $**500,000** or to imprisonment for a term **of** not **more than two years less a day**, or to both.
+    **(4)** Every person who knowingly makes any false or misleading statement to a screening officer, or knowingly provides false or misleading information to a screening officer, is guilty of an offence punishable on summary conviction and liable to a fine of not more than $500,000 or to imprisonment for a term of not more than two years less a day, or to both.
 
   **(2)** Paragraphs 20(5)(a) and (b) of the Act are replaced by the following:
 
-    on conviction on indictment, to a fine **of** not **more than** $**1,000,000** or to imprisonment for a term **of** not **more than five years**, or to both; or
+    on conviction on indictment, to a fine of not more than $1,000,000 or to imprisonment for a term of not more than five years, or to both; or
 
-    on summary conviction, to a fine not exceeding $**500,000** or to imprisonment for a term **of** not **more than two years less a day**, or to both.
+    on summary conviction, to a fine not exceeding $500,000 or to imprisonment for a term of not more than two years less a day, or to both.
 
 ### Section 66
 
 Paragraphs 21(3)(a) and (b) of the Act are replaced by the following:
 
-in the case of an individual, to a fine not exceeding $**100,000**; or
+in the case of an individual, to a fine not exceeding $100,000; or
 
-in the case of a corporation, to a fine not exceeding $**1,000,000**.
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 21(3):
-> *Existing Text*:
-> > Every person who contravenes this section is guilty of an offence punishable on summary conviction and liable
-> > in the case of an individual, to a fine not exceeding $1,000; or
-> > in the case of a corporation, to a fine not exceeding $10,000.
+in the case of a corporation, to a fine not exceeding $1,000,000.
 
 ### Section 67
 
@@ -1673,25 +1397,25 @@ in the case of a corporation, to a fine not exceeding $**1,000,000**.
 
 ### Section 23
 
-      **(1)** For the purpose of ensuring compliance with this Act and any regulation, **interim order**, security measure, security rule or **emergency direction**, a security inspector may at any reasonable time, but subject to subsection (3), board and inspect any vessel or enter and inspect any marine facility if the inspector is designated to inspect the vessel or facility.
+      **(1)** For the purpose of ensuring compliance with this Act and any regulation, interim order, security measure, security rule or emergency direction, a security inspector may at any reasonable time, but subject to subsection (3), board and inspect any vessel or enter and inspect any marine facility if the inspector is designated to inspect the vessel or facility.
 
   **(2)** Paragraph 23(2)(b) of the Act is replaced by the following:
 
-    require any person to produce for inspection and copying any document that the inspector believes, on reasonable grounds, contains any information relevant to the administration of this Act or the regulation, **interim order**, security measure, security rule or **emergency direction**;
+    require any person to produce for inspection and copying any document that the inspector believes, on reasonable grounds, contains any information relevant to the administration of this Act or the regulation, interim order, security measure, security rule or emergency direction;
 
 ### Section 68
 
   **(1)** Subparagraphs 25(4)(a)(i) and (ii) of the Act are replaced by the following:
 
-    in the case of an individual, to a fine **of** not **more than** $**1,000,000** or to imprisonment for a term **of** not **more than five years**, or to both, or
+    in the case of an individual, to a fine of not more than $1,000,000 or to imprisonment for a term of not more than five years, or to both, or
 
-    in the case of a corporation, to a fine **of** not **more than** $**2,000,000**; or
+    in the case of a corporation, to a fine of not more than $2,000,000; or
 
   **(2)** Subparagraphs 25(4)(b)(i) and (ii) of the Act are replaced by the following:
 
-    in the case of an individual, to a fine **of** not **more than** $**500,000** or to imprisonment for a term **of** not **more than two years less a day**, or to both, or
+    in the case of an individual, to a fine of not more than $500,000 or to imprisonment for a term of not more than two years less a day, or to both, or
 
-    in the case of a corporation, to a fine **of** not **more than** $**1,000,000**.
+    in the case of a corporation, to a fine of not more than $1,000,000.
 
 ### Section 69
 
@@ -1699,13 +1423,7 @@ Section 26 of the English version of the Act is replaced by the following:
 
 ### Section 26
 
-**If** an offence is committed or continued on more than one day, the person **or vessel that** committed it is liable to be convicted of a separate offence for each day on which the offence is committed or continued.
-
-
-> **Explanatory Note**:
-> Existing text of section 26:
-> *Existing Text*:
-> > Where an offence is committed or continued on more than one day, the person who committed it is liable to be convicted of a separate offence for each day on which the offence is committed or continued.
+If an offence is committed or continued on more than one day, the person or vessel that committed it is liable to be convicted of a separate offence for each day on which the offence is committed or continued.
 
 ### Section 70
 
@@ -1715,25 +1433,15 @@ Section 28 of the Act is amended by adding the following after subsection (4):
 
 **(6)** In a prosecution of a vessel for an offence under this Act, the vessel is liable to be convicted of the offence if it is established that the offence was committed by the operator of the vessel or by any person on board, other than a security inspector, whether or not the person on board has been identified, prosecuted or convicted.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 71
 
 Section 29 of the Act is replaced by the following:
 
 ### Section 29
 
-  ****(1)**** **A** person **must not be found guilty** of an offence **under this Act, other than an offence under subsection 20(4) or paragraph 25(3)(a), (b), (c) or (e)**, if **they establish that they** exercised due diligence to prevent its commission.
+  **(1)** A person must not be found guilty of an offence under this Act, other than an offence under subsection 20(4) or paragraph 25(3)(a), (b), (c) or (e), if they establish that they exercised due diligence to prevent its commission.
 
   **(2)** A vessel must not be found guilty of an offence under this Act if the person who committed the act or omission that constitutes the offence establishes that they exercised due diligence to prevent its commission.
-
-
-> **Explanatory Note**:
-> Existing text of section 29:
-> *Existing Text*:
-> > For greater certainty, no person is liable to be convicted of an offence if the person exercised all due diligence to prevent its commission.
 
 ### Section 72
 
@@ -1741,13 +1449,7 @@ Subsection 31(1) of the Act is replaced by the following:
 
 ### Section 31
 
-  **(1)** **If** a fine imposed on a person **or vessel** convicted of an offence **under this Act** is not paid when required, the conviction may be registered in the superior court of the province in which the trial was held and, when registered, has the same effect as if the conviction were a judgment of that court obtained by **His** Majesty in right of Canada against the convicted person **or vessel** for a debt in the amount of the fine.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 31(1):
-> *Existing Text*:
-> > Where a fine imposed on a person convicted of an offence is not paid when required, the conviction may be registered in the superior court of the province in which the trial was held and, when registered, has the same effect as if the conviction were a judgment of that court obtained by Her Majesty in right of Canada against the convicted person for a debt in the amount of the fine.
+  **(1)** If a fine imposed on a person or vessel convicted of an offence under this Act is not paid when required, the conviction may be registered in the superior court of the province in which the trial was held and, when registered, has the same effect as if the conviction were a judgment of that court obtained by His Majesty in right of Canada against the convicted person or vessel for a debt in the amount of the fine.
 
 ### Section 73
 
@@ -1755,25 +1457,25 @@ Subsection 31(1) of the Act is replaced by the following:
 
 ### Section 33
 
-      **(1)** If the Minister has reasonable grounds to believe that a person **or vessel** has committed a violation, the Minister may
+      **(1)** If the Minister has reasonable grounds to believe that a person or vessel has committed a violation, the Minister may
 
-        enter into an assurance of compliance with the person **or vessel** that
+        enter into an assurance of compliance with the person or vessel that
 
-        identifies the violation and provides that the person **or vessel** will comply with the provision to which the violation relates within the period, and be subject to the terms and conditions, specified in the assurance,
+        identifies the violation and provides that the person or vessel will comply with the provision to which the violation relates within the period, and be subject to the terms and conditions, specified in the assurance,
 
   **(2)** Subparagraph 33(1)(a)(iii) of the English version of the Act is replaced by the following:
 
-    sets out the penalty, fixed by or within the range fixed by the regulations, that the person **or vessel** would have been liable to pay for the violation if the assurance had not been entered into; or
+    sets out the penalty, fixed by or within the range fixed by the regulations, that the person or vessel would have been liable to pay for the violation if the assurance had not been entered into; or
 
   **(3)** The portion of paragraph 33(1)(b) of the English version of the Act before subparagraph (ii) is replaced by the following:
 
-    issue, and cause to be served on the person **or vessel**, a notice of violation that names the person **or vessel**, identifies the violation and sets out
+    issue, and cause to be served on the person or vessel, a notice of violation that names the person or vessel, identifies the violation and sets out
 
-    the penalty, fixed by or within the range fixed by the regulations, that the person **or vessel** is liable to pay for the violation,
+    the penalty, fixed by or within the range fixed by the regulations, that the person or vessel is liable to pay for the violation,
 
   **(4)** Subsection 33(2) of the English version of the Act is replaced by the following:
 
-    **(2)** The Minister may extend the period specified under subparagraph (1)(a)(i) if the Minister is satisfied that the person **or vessel** is unable to comply with the assurance of compliance for reasons beyond the person **or vessel**'s control.
+    **(2)** The Minister may extend the period specified under subparagraph (1)(a)(i) if the Minister is satisfied that the person or vessel is unable to comply with the assurance of compliance for reasons beyond the person or vessel's control.
 
 ### Section 74
 
@@ -1781,27 +1483,17 @@ Sections 34 and 35 of the English version of the Act are replaced by the followi
 
 ### Section 34
 
-  **(1)** A person **or vessel that** enters into an assurance of compliance under paragraph 33(1)(a) is, unless a review is requested under subsection (2), deemed to have committed the violation in respect of which the assurance was entered into.
+  **(1)** A person or vessel that enters into an assurance of compliance under paragraph 33(1)(a) is, unless a review is requested under subsection (2), deemed to have committed the violation in respect of which the assurance was entered into.
 
-  **(2)** A person **or vessel that** enters into an assurance of compliance may, within **48** hours after the assurance is signed, unless a notice of default is served within that period under subsection 36(1), file a request with the Tribunal for a review of the facts of the violation, in which case the assurance is deemed to be a notice of violation and a review under subsection 39(1) of the facts of the violation and of the amount of the penalty is deemed to have been requested.
+  **(2)** A person or vessel that enters into an assurance of compliance may, within 48 hours after the assurance is signed, unless a notice of default is served within that period under subsection 36(1), file a request with the Tribunal for a review of the facts of the violation, in which case the assurance is deemed to be a notice of violation and a review under subsection 39(1) of the facts of the violation and of the amount of the penalty is deemed to have been requested.
 
 ### Section 35
 
-If the Minister is satisfied that an assurance of compliance under paragraph 33(1)(a) has been complied with, the Minister **must** cause a notice to that effect to be served on the person **or vessel** and, on the service of the notice,
+If the Minister is satisfied that an assurance of compliance under paragraph 33(1)(a) has been complied with, the Minister must cause a notice to that effect to be served on the person or vessel and, on the service of the notice,
 
-no further proceedings may be taken against the person **or vessel** with respect to the violation in respect of which the assurance was entered into; and
+no further proceedings may be taken against the person or vessel with respect to the violation in respect of which the assurance was entered into; and
 
-any security deposited under subparagraph 33(1)(a)(ii) must be returned to the person **or vessel**.
-
-
-> **Explanatory Note**:
-> Existing text of sections 34 and 35:
-> *Existing Text*:
-> > A person who enters into an assurance of compliance under paragraph 33(1)(a) is, unless a review is requested under subsection (2), deemed to have committed the violation in respect of which the assurance was entered into.
-> > A person who enters into an assurance of compliance may, within forty-eight hours after the assurance is signed, unless a notice of default is served within that period under subsection 36(1), file a request with the Tribunal for a review of the facts of the violation, in which case the assurance is deemed to be a notice of violation and a review under subsection 39(1) of the facts of the violation and of the amount of the penalty is deemed to have been requested.
-> > If the Minister is satisfied that an assurance of compliance under paragraph 33(1)(a) has been complied with, the Minister shall cause a notice to that effect to be served on the person and, on the service of the notice,
-> > no further proceedings may be taken against the person with respect to the violation in respect of which the assurance was entered into; and
-> > any security deposited under subparagraph 33(1)(a)(ii) must be returned to the person.
+any security deposited under subparagraph 33(1)(a)(ii) must be returned to the person or vessel.
 
 ### Section 75
 
@@ -1809,13 +1501,13 @@ any security deposited under subparagraph 33(1)(a)(ii) must be returned to the p
 
 ### Section 36
 
-      **(1)** If the Minister is of the opinion that a person **or vessel that** has entered into an assurance of compliance has not complied with it, the Minister may cause a notice of default to be served on the person **or vessel** to the effect that, unless a member determines under section 37, or an appeal panel decides under section 40, that the assurance has been complied with,
+      **(1)** If the Minister is of the opinion that a person or vessel that has entered into an assurance of compliance has not complied with it, the Minister may cause a notice of default to be served on the person or vessel to the effect that, unless a member determines under section 37, or an appeal panel decides under section 40, that the assurance has been complied with,
 
-        the person **or vessel** is liable to pay double the amount of the penalty set out in the assurance; or
+        the person or vessel is liable to pay double the amount of the penalty set out in the assurance; or
 
   **(2)** Subsection 36(3) of the English version of the Act is replaced by the following:
 
-    **(3)** On the service of a notice of default, the person **or vessel** served has no right of set-off **or compensation** against any amount spent by the person **or vessel** under the assurance of compliance.
+    **(3)** On the service of a notice of default, the person or vessel served has no right of set-off or compensation against any amount spent by the person or vessel under the assurance of compliance.
 
 ### Section 76
 
@@ -1823,21 +1515,21 @@ any security deposited under subparagraph 33(1)(a)(ii) must be returned to the p
 
 ### Section 37
 
-      **(1)** A person **or vessel that** is served with a notice under subsection 36(1) may file a written request for a review, on or before the date specified in the notice or within any further time that the Tribunal on application allows.
+      **(1)** A person or vessel that is served with a notice under subsection 36(1) may file a written request for a review, on or before the date specified in the notice or within any further time that the Tribunal on application allows.
 
-      **(2)** On receipt of a request filed under subsection (1), the Tribunal **must** appoint a time and place for the review and **must** notify the Minister and the person **or vessel that** filed the request of the time and place in writing.
+      **(2)** On receipt of a request filed under subsection (1), the Tribunal must appoint a time and place for the review and must notify the Minister and the person or vessel that filed the request of the time and place in writing.
 
-      **(3)** The member of the Tribunal assigned to conduct the review **must** provide the Minister and the person **or vessel that** filed the request with an opportunity consistent with procedural fairness and natural justice to present evidence and make representations.
+      **(3)** The member of the Tribunal assigned to conduct the review must provide the Minister and the person or vessel that filed the request with an opportunity consistent with procedural fairness and natural justice to present evidence and make representations.
 
-      **(4)** The burden is on the Minister to establish that the person **or vessel** did not comply with the assurance of compliance referred to in the notice. The person **or vessel** is not required, and **must** not be compelled, to give any evidence or testimony in the matter.
+      **(4)** The burden is on the Minister to establish that the person or vessel did not comply with the assurance of compliance referred to in the notice. The person or vessel is not required, and must not be compelled, to give any evidence or testimony in the matter.
 
   **(2)** Subsection 37(5) of the Act is replaced by the following:
 
-    **(5)** **Despite section 45**, a person **or vessel** does not have a defence by reason that the person **or vessel** exercised all due diligence to comply with the assurance of compliance.
+    **(5)** Despite section 45, a person or vessel does not have a defence by reason that the person or vessel exercised all due diligence to comply with the assurance of compliance.
 
   **(3)** Subsection 37(6) of the English version of the Act is replaced by the following:
 
-    **(6)** The member may confirm the Minister's decision or determine that the person **or vessel** has complied with the assurance of compliance.
+    **(6)** The member may confirm the Minister's decision or determine that the person or vessel has complied with the assurance of compliance.
 
 ### Section 77
 
@@ -1845,16 +1537,9 @@ The portion of section 38 of the English version of the Act before paragraph (b)
 
 ### Section 38
 
-Any security deposited under subparagraph 33(1)(a)(ii) **must** be returned to the person **or vessel** if
+Any security deposited under subparagraph 33(1)(a)(ii) must be returned to the person or vessel if
 
-the person **or vessel** pays double the amount of the penalty set out in the assurance of compliance in accordance with a notice under subsection 36(1); or
-
-
-> **Explanatory Note**:
-> Relevant portion of section 38:
-> *Existing Text*:
-> > Any security deposited under subparagraph 33(1)(a)(ii) shall be returned to the person if
-> > the person pays double the amount of the penalty set out in the assurance of compliance in accordance with a notice under subsection 36(1); or
+the person or vessel pays double the amount of the penalty set out in the assurance of compliance in accordance with a notice under subsection 36(1); or
 
 ### Section 78
 
@@ -1862,17 +1547,17 @@ the person **or vessel** pays double the amount of the penalty set out in the as
 
 ### Section 39
 
-      **(1)** A person **or vessel** served with a notice of violation under paragraph 33(1)(b) must
+      **(1)** A person or vessel served with a notice of violation under paragraph 33(1)(b) must
 
   **(2)** Subsections 39(2) to (5) of the English version of the Act are replaced by the following:
 
-    **(2)** If a review of the facts of the violation is not requested, the person **or vessel** is deemed to have committed the violation in respect of which the notice was served.
+    **(2)** If a review of the facts of the violation is not requested, the person or vessel is deemed to have committed the violation in respect of which the notice was served.
 
-    **(3)** On receipt of a request filed under paragraph (1)(b), the Tribunal **must** appoint a time and place for the review and **must** notify the Minister and the person **or vessel that** filed the request of the time and place in writing.
+    **(3)** On receipt of a request filed under paragraph (1)(b), the Tribunal must appoint a time and place for the review and must notify the Minister and the person or vessel that filed the request of the time and place in writing.
 
-    **(4)** The member of the Tribunal assigned to conduct the review **must** provide the Minister and the person **or vessel that** filed the request with an opportunity consistent with procedural fairness and natural justice to present evidence and make representations.
+    **(4)** The member of the Tribunal assigned to conduct the review must provide the Minister and the person or vessel that filed the request with an opportunity consistent with procedural fairness and natural justice to present evidence and make representations.
 
-    **(5)** The burden is on the Minister to establish that the person **or vessel** committed the violation referred to in the notice. The person **or vessel** is not required, and **must** not be compelled, to give any evidence or testimony in the matter.
+    **(5)** The burden is on the Minister to establish that the person or vessel committed the violation referred to in the notice. The person or vessel is not required, and must not be compelled, to give any evidence or testimony in the matter.
 
 ### Section 79
 
@@ -1880,13 +1565,7 @@ Subsection 40(1) of the English version of the Act is replaced by the following:
 
 ### Section 40
 
-  **(1)** The Minister or the person **or vessel that** requested the review of the decision may appeal a determination made under subsection 37(6) or 39(6) to the Tribunal within **30** days after the determination.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 40(1):
-> *Existing Text*:
-> > The Minister or the person who requested the review of the decision may appeal a determination made under subsection 37(6) or 39(6) to the Tribunal within thirty days after the determination.
+  **(1)** The Minister or the person or vessel that requested the review of the decision may appeal a determination made under subsection 37(6) or 39(6) to the Tribunal within 30 days after the determination.
 
 ### Section 80
 
@@ -1894,15 +1573,9 @@ Section 45 of the Act is replaced by the following:
 
 ### Section 45
 
-  ****(1)**** **A** person **must not be found to be** liable for a violation **if they establish that they** exercised due diligence to prevent **its** commission.
+  **(1)** A person must not be found to be liable for a violation if they establish that they exercised due diligence to prevent its commission.
 
   **(2)** A vessel must not be found to be liable for a violation if the person that committed the act or omission that constitutes the violation establishes that they exercised due diligence to prevent its commission.
-
-
-> **Explanatory Note**:
-> Existing text of section 45:
-> *Existing Text*:
-> > For greater certainty, no person is liable for the commission of a violation if the person exercised all due diligence to prevent the commission.
 
 ### Section 81
 
@@ -1910,17 +1583,17 @@ Section 45 of the Act is replaced by the following:
 
 ### Section 46
 
-      **(1)** A person is liable for a violation committed by their employee or agent **or mandatary**, whether or not the employee or agent **or mandatary** has been identified or proceeded against under sections 33 to 43.
+      **(1)** A person is liable for a violation committed by their employee or agent or mandatary, whether or not the employee or agent or mandatary has been identified or proceeded against under sections 33 to 43.
 
   **(2)** Subsections 46(2) and (3) of the French version of the Act are replaced by the following:
 
-    **(2)** L'exploitant d'un bâtiment peut être **tenu** responsable d'une violation, en rapport avec ce bâtiment, commise par une autre personne, que celle-ci ait été ou non identifiée ou poursuivie aux termes des articles 33 à 43 de la présente loi, à moins que, lors de la violation, le bâtiment n'ait été en la possession d'une autre personne sans son consentement.
+    **(2)** L'exploitant d'un bâtiment peut être tenu responsable d'une violation, en rapport avec ce bâtiment, commise par une autre personne, que celle-ci ait été ou non identifiée ou poursuivie aux termes des articles 33 à 43 de la présente loi, à moins que, lors de la violation, le bâtiment n'ait été en la possession d'une autre personne sans son consentement.
 
-    **(3)** L'exploitant d'une installation maritime peut être **tenu** responsable d'une violation, en rapport avec cette installation maritime, commise par une autre personne avec son consentement, que cette personne ait été ou non identifiée ou poursuivie aux termes des articles 33 à 43 de la présente loi.
+    **(3)** L'exploitant d'une installation maritime peut être tenu responsable d'une violation, en rapport avec cette installation maritime, commise par une autre personne avec son consentement, que cette personne ait été ou non identifiée ou poursuivie aux termes des articles 33 à 43 de la présente loi.
 
   **(3)** Subsection 46(4) of the English version of the Act is replaced by the following:
 
-    **(4)** An officer, director or agent **or mandatary** of a corporation that commits a violation under this Act is a party to and liable for the violation if **they** directed, authorized, assented to, acquiesced in or participated in the commission of the violation, whether or not the corporation has been identified or proceeded against under sections 33 to 43.
+    **(4)** An officer, director or agent or mandatary of a corporation that commits a violation under this Act is a party to and liable for the violation if they directed, authorized, assented to, acquiesced in or participated in the commission of the violation, whether or not the corporation has been identified or proceeded against under sections 33 to 43.
 
 ### Section 82
 
@@ -1932,29 +1605,25 @@ The Act is amended by adding the following after section 46:
 
   **(2)** If a vessel commits a violation under this Act and the operator of the vessel directed, authorized, assented to, acquiesced in or participated in the commission of the violation, the operator is a party to and liable for the violation, whether or not the vessel has been proceeded against under sections 33 to 43.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 83
 
   **(1)** The portion of subsection 47(1) of the English version of the Act before paragraph (b) is replaced by the following:
 
 ### Section 47
 
-      **(1)** Unless the Minister is of the opinion that it is not in the public interest to do so, five years after the last day on which any of the following events occurs, the Minister is to remove every notation of violation or default, and every suspension or cancellation of the designation of or refusal to designate or to renew the designation of a person as a screening officer on prescribed grounds, from any records that the Minister may keep respecting the person **or vessel**:
+      **(1)** Unless the Minister is of the opinion that it is not in the public interest to do so, five years after the last day on which any of the following events occurs, the Minister is to remove every notation of violation or default, and every suspension or cancellation of the designation of or refusal to designate or to renew the designation of a person as a screening officer on prescribed grounds, from any records that the Minister may keep respecting the person or vessel:
 
-        payment by the person **or vessel** of every penalty that the person **or vessel** is liable to pay after a notice of violation, a notice of default, a determination of a member of the Tribunal on review or a decision of an appeal panel of the Tribunal; or
+        payment by the person or vessel of every penalty that the person or vessel is liable to pay after a notice of violation, a notice of default, a determination of a member of the Tribunal on review or a decision of an appeal panel of the Tribunal; or
 
   **(2)** Subsection 47(2) of the English version of the Act is replaced by the following:
 
-    **(2)** When the Minister is of the opinion that removal of a notation is not in the public interest, the Minister **must** give notice of that fact to the person **or vessel**.
+    **(2)** When the Minister is of the opinion that removal of a notation is not in the public interest, the Minister must give notice of that fact to the person or vessel.
 
   **(3)** Subsections 47(6) and (7) of the English version of the Act are replaced by the following:
 
-    **(6)** The person **or vessel** may, within thirty days after a determination is made under subsection (5), appeal the determination to the Tribunal.
+    **(6)** The person or vessel may, within thirty days after a determination is made under subsection (5), appeal the determination to the Tribunal.
 
-    **(7)** If the person **or vessel** does not appear at the review hearing, the person **or vessel** is not entitled to appeal a determination unless they establish that there was sufficient reason to justify their absence.
+    **(7)** If the person or vessel does not appear at the review hearing, the person or vessel is not entitled to appeal a determination unless they establish that there was sufficient reason to justify their absence.
 
 ### Section 84
 
@@ -1962,31 +1631,21 @@ Section 48 of the Act is replaced by the following:
 
 ### Section 48
 
-The Minister **must** keep a public record of notations of violations or default that appear on any record that the Minister may keep respecting persons **or vessels** under this Act.
-
-
-> **Explanatory Note**:
-> Existing text of section 48:
-> *Existing Text*:
-> > The Minister shall keep a public record of notations of violations or default that appear on any record that the Minister may keep respecting persons under this Act.
+The Minister must keep a public record of notations of violations or default that appear on any record that the Minister may keep respecting persons or vessels under this Act.
 
 ### Section 85
 
 Paragraph 51(c) of the Act is replaced by the following:
 
-designating violations that may be proceeded with by issuing notices of violation and fixing a penalty or a range of penalties in respect of each such violation, up to a maximum of $**250,000** but in any event not greater than the maximum fine that would be payable if the violation were proceeded with by way of summary conviction;
+designating violations that may be proceeded with by issuing notices of violation and fixing a penalty or a range of penalties in respect of each such violation, up to a maximum of $250,000 but in any event not greater than the maximum fine that would be payable if the violation were proceeded with by way of summary conviction;
 
 respecting persons who can request a review on behalf of a vessel in relation to an alleged violation by the vessel;
 
 respecting the service of documents, including the proof of their service and the circumstances under which they are deemed to have been served, on a vessel; and
 
+### Section 85.1
 
-> **Explanatory Note**:
-> Relevant portion of section 51:
-> *Existing Text*:
-> > The Governor in Council may make regulations
-> > 
-> > designating violations that may be proceeded with by issuing notices of violation and fixing a penalty or a range of penalties in respect of each such violation, up to a maximum of $25,000 but in any event not greater than the maximum fine that would be payable if the violation were proceeded with by way of summary conviction; and
+The Act is amended by adding, after section 51, the schedule set out in the schedule to this Act.
 
 
 ### Transitional Provisions
@@ -2153,10 +1812,6 @@ Section 6.2 of the `Canada Transportation Act` is amended by adding the followin
 
 **(4)** For greater certainty, an electronic system, including an automated system, may be used by the Minister to make a decision or determination under this Act or any other Act of Parliament that the Minister administers or enforces, and may be used by a designated person to make a decision or determination under any such Act if the system is made available to the designated person by the Minister.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 93
 
 The Act is amended by adding the following after section 6.4:
@@ -2166,10 +1821,6 @@ The Act is amended by adding the following after section 6.4:
   **(1)** For a purpose related to verifying compliance or preventing non-compliance with an Act of Parliament that the Minister administers or enforces, or regulations made under that Act, or for a purpose related to determining if a violation within the meaning of that Act has been committed, a person is considered to have entered a place when accessing it remotely by a means of telecommunication.
 
   **(2)** A person who, by a means of telecommunication, accesses remotely a place that is not accessible to the public must do so with the knowledge of the owner or person in charge of the place and must be remotely in the place for no longer than the period necessary for the purpose referred to in subsection (1).
-
-
-> **Explanatory Note**:
-> New.
 
 ### Section 94
 
@@ -2189,19 +1840,19 @@ The Act is amended by adding the following after section 6.4:
 
       an enterprise of a Party that is an investor within the meaning of those definitions in Article 8.1 of the Comprehensive Economic and Trade Agreement between Canada and the European Union and its Member States, done at Brussels on October 30, 2016, or in the version of that Article 8.1 as it is incorporated by reference to the Agreement on Trade Continuity between Canada and the United Kingdom of Great Britain and Northern Ireland, done at Ottawa, on December 9, 2020, by that agreement's Article I — other than such an enterprise that is constituted or organized under Canadian law.
 
-    **(2)** A notice given **under subsection (1) must**, subject to the regulations, contain the information required under subsection 114(1) of the `Competition Act`. The notice **must** also contain any information with respect to the public interest as it relates to national transportation that is required under any guidelines that the Minister **issues** and **publishes**. After receipt of a notice, the Minister may require the person who has given the notice to provide further information.
+    **(2)** A notice given under subsection (1) must, subject to the regulations, contain the information required under subsection 114(1) of the `Competition Act`. The notice must also contain any information with respect to the public interest as it relates to national transportation that is required under any guidelines that the Minister issues and publishes. After receipt of a notice, the Minister may require the person who has given the notice to provide further information.
 
     **(2.01)** A notice given under subsection (1.1) must, subject to the regulations, contain the information that would be required under subsection 114(1) of the `Competition Act` if the person giving the notice were required to give notice under that subsection. The notice must also contain any information with respect to the public interest as it relates to national transportation that is required under any guidelines that the Minister issues and publishes. After receipt of a notice, the Minister may require the person who has given the notice to provide further information.
 
   **(2)** Subsections 53.1(2.1) and (3) of the English version of the Act are replaced by the following:
 
-    **(2.1)** Guidelines referred to in **subsections** (2) **and (2.01) must** be elaborated in consultation with the Competition Bureau and **must** include factors that may be considered to determine whether a proposed transaction raises issues with respect to the public interest as it relates to national transportation.
+    **(2.1)** Guidelines referred to in subsections (2) and (2.01) must be elaborated in consultation with the Competition Bureau and must include factors that may be considered to determine whether a proposed transaction raises issues with respect to the public interest as it relates to national transportation.
 
-    **(3)** Guidelines referred to in **subsections** (2) **and (2.01)** are not statutory instruments within the meaning of the `Statutory Instruments Act`.
+    **(3)** Guidelines referred to in subsections (2) and (2.01) are not statutory instruments within the meaning of the `Statutory Instruments Act`.
 
   **(3)** Subsection 53.1(4) of the Act is replaced by the following:
 
-    **(4)** If the Minister is of the opinion that the proposed transaction does not raise issues with respect to the public interest as it relates to national transportation, the Minister **must**, within 42 days after a person gives notice under subsection (1) **or (1.1)**, give notice of the opinion to that person, in which case sections 53.2 and 53.3 do not apply in respect of that transaction.
+    **(4)** If the Minister is of the opinion that the proposed transaction does not raise issues with respect to the public interest as it relates to national transportation, the Minister must, within 42 days after a person gives notice under subsection (1) or (1.1), give notice of the opinion to that person, in which case sections 53.2 and 53.3 do not apply in respect of that transaction.
 
 ### Section 95
 
@@ -2209,28 +1860,21 @@ The Act is amended by adding the following after section 6.4:
 
 ### Section 53.2
 
-      **(1)** **A** person **must not** complete a proposed transaction referred to in subsection 53.1(1) **or (1.1)** unless the transaction is approved by the Governor in Council and, in the case of a transaction **referred to in section 53.3**, the Agency determines that the transaction would result in an air transportation undertaking that is Canadian as defined in subsection 55(1).
+      **(1)** A person must not complete a proposed transaction referred to in subsection 53.1(1) or (1.1) unless the transaction is approved by the Governor in Council and, in the case of a transaction referred to in section 53.3, the Agency determines that the transaction would result in an air transportation undertaking that is Canadian as defined in subsection 55(1).
 
-      **(2)** The Commissioner of Competition **must** within 150 days after the Commissioner is notified of **a** proposed transaction under subsection 114(1) of the `Competition Act`, or within any longer period that the Minister may allow, report to the Minister and the parties to the transaction on any concerns regarding potential prevention or lessening of competition that may occur as a result of the transaction.
+      **(2)** The Commissioner of Competition must within 150 days after the Commissioner is notified of a proposed transaction under subsection 114(1) of the `Competition Act`, or within any longer period that the Minister may allow, report to the Minister and the parties to the transaction on any concerns regarding potential prevention or lessening of competition that may occur as a result of the transaction.
 
       **(2.1)** The Commissioner of Competition may within 150 days after the Commissioner is notified of a proposed transaction under subsection 53.1(1.1), or within any longer period that the Minister may allow, report to the Minister and the parties to the transaction on any concerns regarding potential prevention or lessening of competition that may occur as a result of the transaction.
 
   **(2)** The portion of subsection 53.2(4) of the Act before paragraph (a) is replaced by the following:
 
-    **(4)** After receipt of the Commissioner's report, **if applicable**, and any report given under subsection 53.1(6), but before the Minister makes a recommendation for the purposes of subsection (7), the Minister **must**
+    **(4)** After receipt of the Commissioner's report, if applicable, and any report given under subsection 53.1(6), but before the Minister makes a recommendation for the purposes of subsection (7), the Minister must
 
 ### Section 96
 
 Paragraph 53.5(a) of the Act is replaced by the following:
 
-specifying information required in **notices** under **subsections** 53.1(1) **and (1.1)**; and
-
-
-> **Explanatory Note**:
-> Relevant portion of section 53.5:
-> *Existing Text*:
-> > The Governor in Council may, on the recommendation of the Minister, make regulations
-> > specifying information required in a notice under subsection 53.1(1); and
+specifying information required in notices under subsections 53.1(1) and (1.1); and
 
 ### Section 97
 
@@ -2238,25 +1882,13 @@ The portion of subsection 53.6(1) of the Act before paragraph (a) is replaced by
 
 ### Section 53.6
 
-  **(1)** Every person who contravenes subsection 53.1(1) **or (1.1)** is guilty of an offence and is liable
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 53.6(1):
-> *Existing Text*:
-> > Every person who contravenes subsection 53.1(1) is guilty of an offence and is liable
+  **(1)** Every person who contravenes subsection 53.1(1) or (1.1) is guilty of an offence and is liable
 
 ### Section 98
 
 The definition **arrangement** in section 53.7 of the Act is replaced by the following:
 
-**arrangement** means an agreement or arrangement, other than a transaction referred to in subsection 53.1(1) **or (1.1)**, involving two or more transportation undertakings providing air services, as defined in subsection 55(1), to, from or within Canada, to coordinate on any aspect of the operation or marketing of such services, including prices, routes, schedules, capacity or ancillary services and to share costs or revenues or other resources or benefits. (**entente**)
-
-
-> **Explanatory Note**:
-> Existing text of the definition:
-> *Existing Text*:
-> > **arrangement** means an agreement or arrangement, other than a transaction referred to in subsection 53.1(1), involving two or more transportation undertakings providing air services, as defined in subsection 55(1), to, from or within Canada, to coordinate on any aspect of the operation or marketing of such services, including prices, routes, schedules, capacity or ancillary services and to share costs or revenues or other resources or benefits. (**entente**)
+**arrangement** means an agreement or arrangement, other than a transaction referred to in subsection 53.1(1) or (1.1), involving two or more transportation undertakings providing air services, as defined in subsection 55(1), to, from or within Canada, to coordinate on any aspect of the operation or marketing of such services, including prices, routes, schedules, capacity or ancillary services and to share costs or revenues or other resources or benefits. (**entente**)
 
 ### Section 99
 
@@ -2270,45 +1902,43 @@ The Act is amended by adding the following before the heading "Enforcement" befo
 The terminals situated within a port, within the meaning of section 5 of the `Canada Marine Act`, are declared to be works for the general advantage of Canada.
 
 
-> **Explanatory Note**:
-> New.
-
-
 ## `Canada Marine Act`
 
 ### Section 100
 
 Paragraph 4(f) of the `Canada Marine Act` is replaced by the following:
 
-manage the marine infrastructure and services in a commercial manner that encourages, and takes into account, input from users, **Indigenous peoples** and the community in which a port or harbour is located;
+manage the marine infrastructure and services in a commercial manner that encourages, and takes into account, input from users, Indigenous peoples and the community in which a port or harbour is located **or in proximity to which vessels are regularly anchored**;
 
 manage the marine infrastructure and services, including through the participation of port authorities, in a manner that maintains the security and enhances the resiliency of supply chains, safeguards national security and promotes healthy competition dynamics;
 
-manage traffic, including mooring and anchorage, in order to promote the efficiency of supply chains;
+manage traffic, including mooring and anchorage, in order to **protect the marine environment, to respect the rights of Indigenous peoples and** to promote the efficiency of supply chains **as well as the protection of the environment and the well-being of the communities in proximity to which vessels are regularly anchored**;
 
+reduce greenhouse gas emissions from the operation of ports;
 
-> **Explanatory Note**:
-> Relevant portion of section 4:
-> *Existing Text*:
-> > In recognition of the significance of marine transportation to Canada and its contribution to the Canadian economy, the purpose of this Act is to
-> > 
-> > manage the marine infrastructure and services in a commercial manner that encourages, and takes into account, input from users and the community in which a port or harbour is located;
+protect the marine environment;
 
 ### Section 101
 
   **(1)** The portion of paragraph 8(2)(f) of the Act before subparagraph (i) is replaced by the following:
 
-    the number of directors, between seven and **13**, to be appointed under section 14, to be chosen as follows:
+    the number of directors, between seven and 13, to be appointed under section 14, to be chosen as follows:
 
-  **(2)** Subparagraphs 8(2)(f)(ii) and (iii) of the Act are replaced by the following:
+  **(2)** Subparagraphs 8(2)(f)(ii) **to (iv)** of the Act are replaced by the following:
 
-    **up to two individuals** appointed by the municipalities mentioned in the letters patent,
+    up to two individuals appointed by the municipalities mentioned in the letters patent,
 
-    in the case of **a** port wholly or partially located in Vancouver, **Prince Rupert or Thunder Bay**, one individual appointed by the province in which the port is situated and another individual appointed by the Provinces of Alberta, Saskatchewan and Manitoba acting together, and, **in any other case, up to two individuals appointed by the provinces mentioned in the letters patent**, and
+    in the case of a port wholly or partially located in Vancouver, Prince Rupert or Thunder Bay, one individual appointed by the province in which the port is situated and another individual appointed by the Provinces of Alberta, Saskatchewan and Manitoba acting together, and, in any other case, up to two individuals appointed by the provinces mentioned in the letters patent, and
+
+    the remaining individuals nominated by the Minister in consultation with the users selected by the Minister or the classes of users mentioned in the letters patent, including one individual nominated by the Minister in consultation with the labour groups selected by the Minister or with those mentioned in the letters patent;
 
   **(3)** Subsection 8(2) of the Act is amended by adding the following after paragraph (g):
 
     the principles and guidelines governing the port authority's advisory committees established under section 33.1, including their composition and administration;
+
+  **(3.1)** Subsection 8(2) of the Act is amended by adding the following after paragraph (i):
+
+    the extent to which the port authority may undertake jointly with other port authorities, through a corporation, partnership, joint venture, association or other entity, the activities referred to in subsection 28(2);
 
   **(4)** Subsection 8(2) of the Act is amended by adding the following after paragraph (j):
 
@@ -2324,11 +1954,21 @@ manage traffic, including mooring and anchorage, in order to promote the efficie
 
   **(1)** Paragraph 14(1)(b) of the Act is replaced by the following:
 
-    the municipalities mentioned in the letters patent appoint one **or two individuals, as mentioned in the letters patent**;
+    the municipalities mentioned in the letters patent appoint one or two individuals, as mentioned in the letters patent;
+
+  **(1.1)** Paragraph 14(1)(d) of the Act is replaced by the following:
+
+    the Governor in Council appoints the remaining individuals nominated by the Minister in consultation with users selected by the Minister or the classes of users mentioned in the letters patent, including one individual nominated by the Minister in consultation with the labour groups selected by the Minister or with those mentioned in the letters patent.
+
+  **(1.2)** Section 14 of the Act is amended by adding the following after subsection (1.1):
+
+    **(1.2)** The board of directors of a port authority may appoint a director under paragraph (1)(a) or (d) if the position has been vacant for more than twelve months.
+
+    **(1.3)** The board of directors of a port authority shall give notice to the Minister of its intention to make an appointment under subsection (1.2) at least 90 days before doing so.
 
   **(2)** Subsection 14(2) of the Act is replaced by the following:
 
-    **(2)** Directors are appointed to hold office for **a** renewable term of not more than three years that will ensure as far as possible the expiry in any one year of the terms of office of not more than one half of the directors.
+    **(2)** Directors are appointed to hold office for a renewable term of not more than three years that will ensure as far as possible the expiry in any one year of the terms of office of not more than one half of the directors.
 
 ### Section 103
 
@@ -2337,10 +1977,6 @@ The Act is amended by adding the following after section 15:
 ### Section 15.1
 
 Each director of a port authority appointed under paragraph 14(1)(b) or (c) must undergo the security assessment that the Minister determines to be appropriate and maintain the security certification from the Government of Canada that is obtained as a result of that assessment.
-
-
-> **Explanatory Note**:
-> New.
 
 ### Section 104
 
@@ -2360,33 +1996,17 @@ Each director of a port authority appointed under paragraph 14(1)(b) or (c) must
 
 ### Section 105
 
-Section 17 of the Act is replaced by the following:
-
-### Section 17
-
-**After consulting with** the board of directors, **the Minister designates** a chairperson from among their number for a renewable term **of not more than** two years.
+The Act is **amended** by **adding** the following **after** section 17:
 
 ### Section 17.1
 
-In the event of the absence or incapacity of the chairperson, or a vacancy in that office, the vice-chairperson or, if there is no vice-chairperson, a member of the board who is designated by a resolution of the board of directors is authorized to act as chairperson for a term of no more than 90 days without the Minister's approval.
-
-
-> **Explanatory Note**:
-> Existing text of section 17:
-> *Existing Text*:
-> > The board of directors shall elect a chairperson from among their number for a term not exceeding two years, the term being renewable.
+In the event of the absence or incapacity of the chairperson, or a vacancy in that office, the vice-chairperson or, if there is no vice-chairperson, a member of the board who is designated by a resolution of the board of directors is authorized to act as chairperson for a term of no more than 90 days.
 
 ### Section 106
 
 Subsection 19(1) of the Act is amended by adding the following after paragraph (b):
 
 no longer has a valid security certification referred to in section 15.1, if the director was appointed under paragraph 14(1)(b) or (c);
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 19(1):
-> *Existing Text*:
-> > A director of a port authority ceases to hold office when the director
 
 ### Section 107
 
@@ -2402,7 +2022,7 @@ no longer has a valid security certification referred to in section 15.1, if the
 
     **(1.1)** For the purposes of this Part, the Governor in Council may make regulations respecting the impact of the operation of a port by a port authority on the environment, including climate change, and the impact of climate change on the operation of a port, including regulations
 
-      establishing a greenhouse gas emissions reduction target in respect of the operation of a port by a port authority;
+      establishing **absolute** greenhouse gas emissions reduction **targets** in respect of the operation of a port by a port authority **that are consistent with Canada's international commitments and with the national greenhouse gas emissions targets for each milestone year under the `Canadian Net-Zero Emissions Accountability Act`**;
 
       respecting the contents of a five-year climate change plan;
 
@@ -2414,15 +2034,23 @@ no longer has a valid security certification referred to in section 15.1, if the
 
       imposing obligations on a port authority in respect of the climate change adaptation actions it must undertake.
 
-    **(2)** A regulation made under subsection (1) **or (1.1)** may apply to only one port authority or wholly-owned subsidiary of a port authority.
+    **(1.2)** If no regulations are made for the purposes of each of paragraphs (1.1)(a) to (f) for an existing port authority within 36 months after the day on which this section comes into force or for a new port authority within 36 months after the day on which its letters patent are issued, the Minister must cause a report stating the reasons that no regulations have been made and establishing a schedule for making regulations to be laid before each House of Parliament on any of the first 10 days on which that House is sitting after the expiry of that 36-month period.
 
-    **(3)** A regulation made under subsection (1) **or (1.1)** may be made binding on **His** Majesty in right of Canada or a province.
+    **(1.3)** If no regulations are made within 12 months after the tabling of the report referred to in subsection (1.2), the Minister must cause a report stating the reasons that no regulations have been made and establishing a schedule for making regulations to be laid before each House of Parliament on any of the first 10 days on which that House is sitting after the expiry of that 12-month period and at least once every subsequent 12-month period as long as no regulations have been made.
+
+    **(2)** A regulation made under subsection (1) or (1.1) may apply to only one port authority or wholly-owned subsidiary of a port authority.
+
+    **(3)** A regulation made under subsection (1) or (1.1) may be made binding on His Majesty in right of Canada or a province.
 
 ### Section 108
 
   **(1)** Paragraph 28(2)(a) of the Act is replaced by the following:
 
-    port activities related to shipping, navigation, transportation of passengers and goods, handling of goods and storage of goods, **including activities carried on in relation to real property and immovables that are not adjacent to navigable waters**, to the extent that those activities are specified in the letters patent; and
+    port activities related to shipping, navigation, transportation of passengers and goods, handling of goods and storage of goods, including activities carried on in relation to real property and immovables that are not adjacent to navigable waters, to the extent that those activities are specified in the letters patent; and
+
+  **(1.1)** Section 28 of the Act is amended by adding the following after subsection (2):
+
+    **(2.1)** To the extent authorized in each participating port authority's letters patent, two or more port authorities may jointly, through a corporation, partnership, joint venture, association or other entity whose shares or other ownership interests are all held by port authorities, engage in the activities referred to in subsection (2).
 
   **(2)** Subsection 28(5.1) of the Act is repealed.
 
@@ -2434,14 +2062,6 @@ Section 30.1 of the Act is replaced by the following:
 
 The directors of a port authority must submit its borrowing plan to the Minister within one year after the later of the day on which this section comes into force and the day on which its letters patent are issued and, after that, in accordance with the schedule set out in its letters patent.
 
-
-> **Explanatory Note**:
-> Existing text of section 30.1:
-> *Existing Text*:
-> > The directors of a port authority that is subject to a code governing its power to borrow shall certify to the Minister that the borrowing policy is in compliance with the code.
-> > If there are any changes in respect of the borrowing policy, the directors of the port authority shall certify to the Minister that the policy remains in compliance with the code.
-> > The directors of the port authority shall provide a copy of the borrowing policy to the Minister if the Minister requests one.
-
 ### Section 110
 
 The Act is amended by adding the following after section 33:
@@ -2451,29 +2071,23 @@ The Act is amended by adding the following after section 33:
 
 ### Section 33.1
 
-  **(1)** A port authority must establish a community advisory committee, an Indigenous advisory committee and a local government advisory committee, in accordance with its letters patent.
+  **(1)** A port authority must establish **one or more** advisory **committees, which must include representatives from the local community,** local government and local Indigenous **communities**, in accordance with its letters patent.
 
-  **(2)** A port authority must consult its advisory committees regularly with respect to issues related to port activities.
+  **(1.1)** The members of each advisory committee shall elect a chairperson from among their number.
+
+  **(2)** A port authority must consult its advisory committees **at least twice every year** with respect to issues related to port activities.
+
+  **(3)** A port authority must publish a summary of the consultations under subsection (2) on its website.
 
 ### Section 33.2
 
-At least once every three years, a port authority must conduct an assessment of its governance practices in accordance with the regulations and submit a report to the Minister.
-
-
-> **Explanatory Note**:
-> New.
+At least once every three years, a port authority must **cause to be conducted an independent** assessment of its governance practices in accordance with the regulations and submit a report to the Minister.
 
 ### Section 111
 
 Subsection 35(2) of the Act is replaced by the following:
 
-**(2)** A port authority **must**, at least thirty days before the annual meeting, **publish a notice on its website and** have a notice published in a major newspaper published or distributed in the municipalities where the port is situated setting out the time and location of the meeting and specifying that the port authority's financial statements are available to the public **on its website and** at its registered office.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 35(2):
-> *Existing Text*:
-> > A port authority shall, at least thirty days before the annual meeting, have a notice published in a major newspaper published or distributed in the municipalities where the port is situated setting out the time and location of the meeting and specifying that the port authority's financial statements are available to the public at its registered office.
+**(2)** A port authority must, at least thirty days before the annual meeting, publish a notice on its website and have a notice published in a major newspaper published or distributed in the municipalities where the port is situated setting out the time and location of the meeting and specifying that the port authority's financial statements are available to the public on its website and at its registered office.
 
 ### Section 112
 
@@ -2481,11 +2095,11 @@ Subsection 35(2) of the Act is replaced by the following:
 
 ### Section 37
 
-      **(1)** A port authority **must**, at least thirty days before the annual meeting, **publish** its audited annual financial statements and those of its wholly-owned subsidiaries for the preceding fiscal year **on its website** and make **them** available for inspection by the public at its registered office during normal business hours.
+      **(1)** A port authority must, at least thirty days before the annual meeting, publish its audited annual financial statements and those of its wholly-owned subsidiaries for the preceding fiscal year on its website and make them available for inspection by the public at its registered office during normal business hours.
 
   **(2)** The portion of subsection 37(2) of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** The financial statements **must** be prepared in accordance with **the International Financial Reporting Standards, adopted by the Accounting Standards Board and effective as of January 1, 2011**, and consist of at least the following:
+    **(2)** The financial statements must be prepared in accordance with the International Financial Reporting Standards, adopted by the Accounting Standards Board and effective as of January 1, 2011, and consist of at least the following:
 
 ### Section 113
 
@@ -2503,11 +2117,15 @@ The Act is amended by adding the following after section 37:
 
     a statement outlining the results, risks and significant changes in relation to operations, personnel and programs.
 
-  **(3)** The port authority must publish the report on the port authority's website within 60 days after the end of the quarter to which the report relates.
+  **(3)** The port authority must publish the report on the port authority's website:
 
+    in the case of a port authority whose annual operating revenue is less than $20,000,000, within 90 days after the end of the quarter to which the report relates;
 
-> **Explanatory Note**:
-> New.
+    in the case of any other port authority, within 60 days after the end of the quarter to which the report relates.
+
+  **(4)** In the case of a port authority specified in paragraph 37.1(3)(a), the quarterly financial report must be prepared within a year after the day on which this section comes into force.
+
+  **(4.1)** Despite subsection (3), a port authority must publish on the port authority's website the reports for each of the first three quarters of its first financial year after its letters patent are issued within one year after the day on which its letters patent are issued.
 
 ### Section 114
 
@@ -2515,33 +2133,19 @@ Sections 39 and 40 of the Act are replaced by the following:
 
 ### Section 39
 
-A port authority **must**, within three months after the end of each fiscal year, submit to the Minister, in respect of itself and each of its wholly-owned subsidiaries, a five-year business plan containing any information **prescribed by regulation and a description of** any material changes in respect of information provided in the previous business plan.
+A port authority must, within three months after the end of each fiscal year, submit to the Minister, in respect of itself and each of its wholly-owned subsidiaries, a five-year business plan containing any information prescribed by regulation and a description of any material changes in respect of information provided in the previous business plan.
 
 ### Section 40
 
-**A** port **authority's** financial statements, **quarterly financial reports** and business plan **must** be prepared in a form that clearly sets out information about each of the activities of the port authority and its wholly-owned subsidiaries, with the information about port activities referred to in paragraph 28(2)(a) set out separately from the information about other activities referred to in paragraph 28(2)(b).
-
-
-> **Explanatory Note**:
-> Existing text of sections 39 and 40:
-> *Existing Text*:
-> > A port authority shall, within three months after the end of each fiscal year, submit to the Minister, in respect of itself and each of its wholly-owned subsidiaries, a five-year business plan containing any information that the Minister may require, including any material changes in respect of information provided in the previous business plan.
-> > The financial statements and business plan of a port authority shall be prepared in a form that clearly sets out information about each of the activities of the port authority and its wholly-owned subsidiaries, with the information about port activities referred to in paragraph 28(2)(a) set out separately from the information about other activities referred to in paragraph 28(2)(b).
+A port authority's financial statements, quarterly financial reports and business plan must be prepared in a form that clearly sets out information about each of the activities of the port authority and its wholly-owned subsidiaries, with the information about port activities referred to in paragraph 28(2)(a) set out separately from the information about other activities referred to in paragraph 28(2)(b).
 
 ### Section 115
 
 Subsections 42(3) and (4) of the Act are replaced by the following:
 
-**(3)** A port authority **must**, as soon as is practicable after it receives the summary report, **publish a** notice of the summary report **on its website** and have **that notice** published in a major newspaper published or distributed in the **municipalities** where the port is situated.
+**(3)** A port authority must, as soon as is practicable after it receives the summary report, publish a notice of the summary report on its website and have that notice published in a major newspaper published or distributed in the municipalities where the port is situated.
 
-**(4)** A port authority **must publish** the summary report **on its website and** make **it** available for inspection by the public at its registered office during normal business hours.
-
-
-> **Explanatory Note**:
-> Existing text of subsections 42(3) and (4):
-> *Existing Text*:
-> > A port authority shall, as soon as is practicable after it receives the summary report, have notice of the summary report published in a major newspaper published or distributed in the place where the port is situated.
-> > A port authority shall make the summary report available for inspection by the public at its registered office during normal business hours.
+**(4)** A port authority must publish the summary report on its website and make it available for inspection by the public at its registered office during normal business hours.
 
 ### Section 116
 
@@ -2598,23 +2202,13 @@ The port authority must publish each five-year plan on its website no later than
 
     any prescribed information.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 117
 
 Subsection 45(3.1) of the Act is replaced by the following:
 
 **(3.01)** A port authority situated in Quebec may, for the duration of a lease, renounce the benefit of accession in respect of any construction or work built on a federal immovable that the port authority manages.
 
-**(3.1)** The port authority may exercise the powers under **subsections** (3) **and (3.01)** to the same extent as **His** Majesty could exercise those powers and may, instead of **His** Majesty, execute and deliver the documents required for that purpose.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 45(3.1):
-> *Existing Text*:
-> > The port authority may exercise the powers under subsection (3) to the same extent as Her Majesty could exercise those powers and may, instead of Her Majesty, execute and deliver the documents required for that purpose.
+**(3.1)** The port authority may exercise the powers under subsections (3) and (3.01) to the same extent as His Majesty could exercise those powers and may, instead of His Majesty, execute and deliver the documents required for that purpose.
 
 ### Section 118
 
@@ -2622,27 +2216,27 @@ Subsection 45(3.1) of the Act is replaced by the following:
 
 ### Section 48
 
-      **(1)** A port authority **must**, within **12** months after the issuance of its letters patent **and after that in accordance with the schedule set out in its letters patent**, develop a detailed land-use plan that contains objectives and policies for the physical development of the real property and immovables that it manages, holds or occupies and that takes into account relevant social, economic and environmental matters and zoning by-laws that apply to neighbouring lands.
+      **(1)** A port authority must, within 12 months after the issuance of its letters patent and after that in accordance with the schedule set out in its letters patent, develop a detailed land-use plan that contains objectives and policies for the physical development of the real property and immovables that it manages, holds or occupies and that takes into account relevant social, economic and environmental matters and zoning by-laws that apply to neighbouring lands.
 
   **(2)** The portion of subsection 48(2) of the English version of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** **A** land-use plan may
+    **(2)** A land-use plan may
 
   **(3)** Subsections 48(4) to (8) of the Act are replaced by the following:
 
-    **(4)** A port authority **must**, at least **60** days before the coming into force of a land-use plan,
+    **(4)** A port authority must, at least 60 days before the coming into force of a land-use plan,
 
-      **publish a notice of the proposed land-use plan on its website and** have **that** notice published in a major newspaper published or distributed in the **municipalities** where the port is situated; **and**
+      publish a notice of the proposed land-use plan on its website and have that notice published in a major newspaper published or distributed in the municipalities where the port is situated; and
 
       publish the proposed land-use plan and any related documents necessary to understand it on its website.
 
-    **(5)** **A** notice **of a proposed land-use plan must** include information as to where a copy of the plan, including any related documents necessary to understand it, may be obtained and an invitation to any interested person to make representations to the port authority with respect to the proposed plan within those sixty days and to attend a public meeting at a specified time and place.
+    **(5)** A notice of a proposed land-use plan must include information as to where a copy of the plan, including any related documents necessary to understand it, may be obtained and an invitation to any interested person to make representations to the port authority with respect to the proposed plan within those sixty days and to attend a public meeting at a specified time and place.
 
-    **(6)** After the port authority considers any representations made by interested persons with respect to a proposed **land-use** plan **and makes any amendments it considers appropriate as a result of those representations**, it may adopt the plan.
+    **(6)** After the port authority considers any representations made by interested persons with respect to a proposed land-use plan and makes any amendments it considers appropriate as a result of those representations, it may adopt the plan.
 
-    **(7)** The port authority **must**
+    **(7)** The port authority must
 
-      **publish a notice of the adoption of the land-use plan that includes information as to where a copy of the plan may be obtained, on its website and** have **that** notice published in a major newspaper published or distributed in the **municipalities** where the port is situated;
+      publish a notice of the adoption of the land-use plan that includes information as to where a copy of the plan may be obtained, on its website and have that notice published in a major newspaper published or distributed in the municipalities where the port is situated;
 
       publish a summary of the representations it received under subsection (5) on its website; and
 
@@ -2654,13 +2248,7 @@ The portion of subsection 49(1) of the Act before paragraph (a) is replaced by t
 
 ### Section 49
 
-  **(1)** A port authority may, **subject to any regulations made under section 62**, fix fees to be paid in respect of
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 49(1):
-> *Existing Text*:
-> > A port authority may fix fees to be paid in respect of
+  **(1)** A port authority may, subject to any regulations made under section 62, fix fees to be paid in respect of
 
 ### Section 120
 
@@ -2674,19 +2262,27 @@ The portion of subsection 49(1) of the Act before paragraph (a) is replaced by t
 
     the information or documents that a port authority, a wholly-owned subsidiary of a port authority, an owner or a person in charge of a port facility or users must provide to the Minister;
 
+  **(3)** Section 62 of the Act is amended by adding the following after subsection (1):
+
+    **(1.1)** The Governor in Council may make regulations respecting the prohibition of the loading and unloading of thermal coal to and from ships in a port.
+
+    **(1.2)** In making regulations under subsection (1.1), the Governor in Council must consult with relevant trade unions on ways to protect port workers who will be affected by the regulations, including by providing for continued collective bargaining, for the respect of collective agreements, for the creation of alternative opportunities in the marine transportation sector and for pension bridging.
+
+    **(1.3)** Regulations made under subsection (1.1) must provide for the prohibition of the loading and unloading of all thermal coal to and from ships in a port no later than December 31, 2030.
+
+    **(1.4)** If no regulations are made under subsection (1.1) within 48 months after the day on which this section comes into force, the Minister must cause a report stating the reasons that no regulations have been made and establishing a schedule for making regulations to be laid before each House of Parliament on any of the first 10 days on which that House is sitting after the expiry of that 48-month period.
+
+  **(4)** Section 62 of the Act is amended by adding the following after subsection (1):
+
+    **(1.5)** The Governor in Council may under paragraph (1)(b) make regulations respecting the prohibition of the deposit of raw sewage in waters under the jurisdiction of a port authority.
+
 ### Section 121
 
 The portion of subsection 67(1) of the Act before paragraph (a) is replaced by the following:
 
 ### Section 67
 
-  **(1)** The Minister may, **by order**, fix the fees to be paid in respect of
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 67(1):
-> *Existing Text*:
-> > The Minister may fix the fees to be paid in respect of
+  **(1)** The Minister may, by order, fix the fees to be paid in respect of
 
 ### Section 122
 
@@ -2699,6 +2295,8 @@ The Act is amended by adding the following after section 107:
 
   **(1)** If the Minister is of the opinion that there is a risk of imminent harm to national security, national economic security or competition that constitutes a significant threat to the safety and security of persons, goods, ships or port facilities or the security of supply chains, the Minister may, by order, require a port authority or a person in charge of a port facility to take any measure, including corrective measures, or stop any activity that the Minister considers necessary to prevent that harm.
 
+  **(1.1)** The power under subsection (1) to make an order, and any powers, duties or functions conferred or imposed by or under such an order, must not be exercised or performed for the purpose of terminating a strike or lock-out or imposing a settlement in a labour dispute.
+
   **(2)** Every port authority and person in charge of a port facility subject to an order must comply with it once they have been notified of its substance.
 
   **(3)** The order is exempt from the application of sections 5, 6, 9, 11, 14, 17, 18 and 19 of the `Statutory Instruments Act`.
@@ -2708,23 +2306,13 @@ The Act is amended by adding the following after section 107:
   **(5)** Subsection (4) does not apply in respect of an order that, in the opinion of the Minister, contains confidential or privileged information or information the publication of which would pose a risk to national security, national economic security or competition.
 
 
-> **Explanatory Note**:
-> New.
-
-
 ## Consequential Amendment to the `Transportation Appeal Tribunal of Canada Act`
 
 ### Section 123
 
 Subsection 2(3) of the `Transportation Appeal Tribunal of Canada Act` is replaced by the following:
 
-**(3)** The Tribunal also has jurisdiction in respect of reviews and appeals in connection with administrative monetary penalties provided for under sections 177 to 181 of the `Canada Transportation Act`, sections 43 to 55 of the `International Bridges and Tunnels Act`, sections 129.01 to **129.17** of the `Canada Marine Act`, sections 16.1 to 16.25 of the `Motor Vehicle Safety Act`, sections 39.1 to 39.26 of the `Canadian Navigable Waters Act`, sections 130.01 to 130.19 of the `Marine Liability Act` and **sections 32.1 to 32.28 of the `Transportation of Dangerous Goods Act, 1992`**.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 2(3):
-> *Existing Text*:
-> > The Tribunal also has jurisdiction in respect of reviews and appeals in connection with administrative monetary penalties provided for under sections 177 to 181 of the `Canada Transportation Act`, sections 43 to 55 of the `International Bridges and Tunnels Act`, sections 129.01 to 129.19 of the `Canada Marine Act`, sections 16.1 to 16.25 of the `Motor Vehicle Safety Act`, sections 39.1 to 39.26 of the `Canadian Navigable Waters Act` and sections 130.01 to 130.19 of the `Marine Liability Act`.
+**(3)** The Tribunal also has jurisdiction in respect of reviews and appeals in connection with administrative monetary penalties provided for under sections 177 to 181 of the `Canada Transportation Act`, sections 43 to 55 of the `International Bridges and Tunnels Act`, sections 129.01 to 129.17 of the `Canada Marine Act`, sections 16.1 to 16.25 of the `Motor Vehicle Safety Act`, sections 39.1 to 39.26 of the `Canadian Navigable Waters Act`, sections 130.01 to 130.19 of the `Marine Liability Act` and sections 32.1 to 32.28 of the `Transportation of Dangerous Goods Act, 1992`.
 
 
 ## Coordinating Amendment
@@ -2753,4 +2341,190 @@ If Bill C-26, introduced in the 1st session of the 44th Parliament and entitled 
   **(6)** Section `99` comes into force on a day to be fixed by order of the Governor in Council.
 
   **(7)** Section `121` comes into force on a day to be fixed by order of the Governor in Council.
+
+Southern Strait of Georgia — Province of British Columbia
+
+Beginning at a point at latitude 48°45′21″ North and longitude 123°36′07″ West;
+
+Thence southeasterly in a straight line to a point at latitude 48°45′11″ North and longitude 123°35′13″ West;
+
+Thence southeasterly in a straight line to a point at latitude 48°45′11″ North and longitude 123°35′12″ West;
+
+Thence northeasterly along the sinuosity of the ordinary high water mark to a point at latitude 48°48′30″ North and longitude 123°35′18″ West;
+
+Thence northeasterly in a straight line to a point at latitude 48°49′14″ North and longitude 123°35′19″ West;
+
+Thence northerly along the sinuosity of the ordinary high water mark to a point at latitude 48°51′10″ North and longitude 123°36′38″ West;
+
+Thence easterly in a straight line to a point at latitude 48°51′10″ North and longitude 123°36′37″ West;
+
+Thence northeasterly in a straight line to a point at latitude 48°51′22″ North and longitude 123°36′20″ West;
+
+Thence northerly in a straight line to a point at latitude 48°53′36″ North and longitude 123°37′59″ West;
+
+Thence northwesterly in a straight line to a point at latitude 48°56′13″ North and longitude 123°42′50″ West;
+
+Thence southwesterly in a straight line to a point at latitude 48°55′52″ North and longitude 123°43′22″ West;
+
+Thence southwesterly in a straight line to a point at latitude 48°55′50″ North and longitude 123°43′23″ West;
+
+Thence northwesterly along the sinuosity of the ordinary high water mark to a point at latitude 48°57′50″ North and longitude 123°46′13″ West;
+
+Thence northeasterly in a straight line to a point at latitude 48°58′52″ North and longitude 123°46′06″ West;
+
+Thence northeasterly along the sinuosity of the ordinary high water mark to a point at latitude 49°08′09″ North and longitude 123°49′11″ West;
+
+Thence easterly in a straight line to a point at latitude 49°08′11″ North and longitude 123°49′00″ West;
+
+Thence southeasterly along the sinuosity of the ordinary high water mark to a point at latitude 49°08′07″ North and longitude 123°47′18″ West;
+
+Thence southeasterly along the sinuosity of the ordinary high water mark to a point at latitude 49°07′54″ North and longitude 123°41′58″ West;
+
+Thence southwesterly in a straight line to a point at latitude 49°07′43″ North and longitude 123°41′57″ West;
+
+Thence northeasterly in a straight line to a point at latitude 49°08′03″ North and longitude 123°41′20″ West;
+
+Thence northwesterly in a straight line to a point at latitude 49°08′04″ North and longitude 123°41′30″ West;
+
+Thence northeasterly along the sinuosity of the ordinary high water mark to a point at latitude 49°08′46″ North and longitude 123°41′44″ West;
+
+Thence easterly in a straight line to a point at latitude 49°57′54″ North and longitude 123°08′24″ West;
+
+Thence easterly along the sinuosity of the ordinary high water mark to a point at latitude 49°08′54″ North and longitude 123°41′25″ West;
+
+Thence northeasterly in a straight line to a point at latitude 49°08′55″ North and longitude 123°41′23″ West;
+
+Thence northeasterly along the sinuosity of the ordinary high water mark to a point at latitude 49°09′09″ North and longitude 123°41′26″ West;
+
+Thence northwesterly in a straight line to a point at latitude 49°09′08″ North and longitude 123°41′47″ West;
+
+Thence northwesterly in a straight line to a point at latitude 49°09′09″ North and longitude 123°41′50″ West;
+
+Thence northwesterly in a straight line to a point at latitude 49°09′07″ North and longitude 123°41′50″ West;
+
+Thence northerly along the sinuosity of the ordinary high water mark to a point at latitude 49°09′16″ North and longitude 123°41′55″ West;
+
+Thence northwesterly along the sinuosity of the ordinary high water mark to a point at latitude 49°09′34″ North and longitude 123°42′17″ West;
+
+Thence northwesterly along the sinuosity of the ordinary high water mark to a point at latitude 49°12′10″ North and longitude 123°49′06.2″ West;
+
+Thence northeasterly in a straight line to a point at latitude 49°13′46.7″ North and longitude 123°45′22.8″ West;
+
+Thence southeasterly in a straight line to a point at latitude 49°11′37″ North and longitude 123°40′27″ West;
+
+Thence southeasterly in a straight line to a point at latitude 49°08′53″ North and longitude 123°33′34″West;
+
+Thence southwesterly in a straight line to a point at latitude 49°05′43″ North and longitude 123°36′10″ West;
+
+Thence southeasterly in a straight line to a point at latitude 48°56′58″ North and longitude 123°22′31″ West;
+
+Thence northeasterly in a straight line to a point at latitude 48°56′59″ North and longitude 123°22′30″ West;
+
+Thence northeasterly in a straight line to a point at latitude 49°00′07″ North and longitude 123°19′20″ West;
+
+Thence southeasterly in a straight line to a point at latitude 48°49′52″ North and longitude 123°00′30″ West;
+
+Thence southwesterly in a straight line to a point at latitude 48°46′01″ North and longitude 123°00′30″ West;
+
+Thence westerly in a straight line to a point at latitude 48°41′38″ North and longitude 123°16′04″ West;
+
+Thence southwesterly in a straight line to a point at latitude 48°32′55″ North and longitude 123°13′08″ West;
+
+Thence southerly in a straight line to a point at latitude 48°29′47″ North and longitude 123°11′11″ West;
+
+Thence northwesterly in a straight line to a point at latitude 48°29′46″ North and longitude 123°18′24″ West;
+
+Thence northwesterly along the sinuosity of the ordinary high water mark to a point at latitude 48°30′46″ North and longitude 123°21′38″ West;
+
+Thence northeasterly along the province of British Columbia Tenure to a point at latitude 48°31′39″ North and longitude 123°21′54″ West;
+
+Thence northeasterly along the sinuosity of the ordinary high water mark line to a point at latitude 48°34′36″ North and longitude 123°22′03″ West;
+
+Thence northerly along the province of British Columbia Tenure to a point at latitude 48°34′48″ North and longitude 123°22′12″ West;
+
+Thence northeasterly along the sinuosity of the ordinary high water mark to a point at latitude 48°35′13″ North and longitude 123°22′13″ West;
+
+Thence northerly along the province of British Columbia Tenure to a point at latitude 48°35′26″ North and longitude 123°22′20″ West;
+
+Thence northwesterly along the sinuosity of the ordinary high water mark to a point at latitude 48°37′22″ North and longitude 123°24′22″ West;
+
+Thence northerly along the province of British Columbia Tenure to a point at latitude 48°37′35″ North and longitude 123°24′34″ West;
+
+Thence northeasterly along the sinuosity of the ordinary high water mark to a point at latitude 48°38′07″ North and longitude 123°24′18″ West;
+
+Thence northeasterly along the province of British Columbia Tenure to a point at latitude 48°40′29″ North and longitude 123°23′46″ West;
+
+Thence northerly along the sinuosity of the ordinary high water mark to a point at latitude 48°40′36″ North and longitude 123°23′49″ West;
+
+Thence northeasterly in a straight line to a point at latitude 48°40′45″ North and longitude 123°23′50″ West;
+
+Thence northwesterly in a straight line to a point at latitude 48°40′48″ North and longitude 123°23′54″ West;
+
+Thence northeasterly along the sinuosity of the ordinary high water mark to a point at latitude 48°40′53″ North and longitude 123°23′55″ West;
+
+Thence northerly in a straight line to a point at latitude 48°41′05″ North and longitude 123°24′03″ West;
+
+Thence northerly along the sinuosity of the ordinary high water mark to a point at latitude 48°41′19″ North and longitude 123°24′09″ West;
+
+Thence northwesterly along the province of British Columbia Tenure to a point at latitude 48°41′24″ North and longitude 123°24′58″ West;
+
+Thence northwesterly along the sinuosity of the ordinary high water mark to a point at latitude 48°40′59″ North and longitude 123°28′33″ West;
+
+Thence westerly in a straight line to a point at latitude 48°40′51″ North and longitude 123°28′51″ West;
+
+Thence southeasterly along the sinuosity of the ordinary high water mark to a point at latitude 48°39′12″ North and longitude 123°26′45″ West;
+
+Thence westerly along the province of British Columbia Tenure to a point at latitude 48°39′00″ North and longitude 123°27′11″ West;
+
+Thence southwesterly along the sinuosity of the ordinary high water mark to a point at latitude 48°34′47″ North and longitude 123°28′12″ West;
+
+Thence southerly in a straight line to a point at latitude 48°34′26″ North and longitude 123°28′03″ West;
+
+Thence southwesterly in a straight line to a point at latitude 48°34′20″ North and longitude 123°28′06″ West;
+
+Thence southwesterly in a straight line to a point at latitude 48°34′19″ North and longitude 123°28′07″ West;
+
+Thence northwesterly in a straight line to a point at latitude 48°34′20″ North and longitude 123°28′26″ West;
+
+Thence southwesterly along the sinuosity of the ordinary high water mark to a point at latitude 48°30′01″ North and longitude 123°32′48″ West;
+
+Thence southwesterly along the sinuosity of the ordinary high water mark to a point at latitude 48°29′36″ North and longitude 123°32′57″ West;
+
+Thence northwesterly in a straight line to a point at latitude 48°29′36″ North and longitude 123°33′03″ West;
+
+Thence southwesterly in a straight line to a point at latitude 48°29′28″ North and longitude 123°33′12″ West;
+
+Thence northeasterly along the sinuosity of the ordinary high water mark to a point at latitude 48°29′45″ North and longitude 123°33′08″ West;
+
+Thence northerly along the province of British Columbia Tenure to a point at latitude 48°29′59″ North and longitude 123°33′14″ West;
+
+Thence northeasterly along the sinuosity of the ordinary high water mark to a point at latitude 48°36′17″ North and longitude 123°31′16″ West;
+
+Thence northerly along the province of British Columbia Tenure to a point at latitude 48°36′22″ North and longitude 123°31′18″ West;
+
+Thence northeasterly along the sinuosity of the ordinary high water mark to a point at latitude 48°36′42″ North and longitude 123°31′07″ West;
+
+Thence northeasterly along the province of British Columbia Tenure to a point at latitude 48°36′56″ North and longitude 123°31′10″ West;
+
+Thence northerly along the sinuosity of the ordinary high water mark to a point at latitude 48°38′43″ North and longitude 123°32′54″ West;
+
+Thence northeasterly in a straight line to a point at latitude 48°39′15″ North and longitude 123°32′25″ West;
+
+Thence northerly along the sinuosity of the ordinary high water mark to a point at latitude 48°44′01″ North and longitude 123°35′09″ West;
+
+Thence northwesterly along the province of British Columbia Tenure to a point at latitude 48°44′10″ North and longitude 123°35′40″ West;
+
+Thence northwesterly along the sinuosity of the ordinary high water mark to a point at latitude 48°44′26″ North and longitude 123°36′56″ West;
+
+Thence northwesterly along the province of British Columbia Tenure to a point at latitude 48°44′35″ North and longitude 123°37′43″ West;
+
+Thence northwesterly along the sinuosity of the ordinary high water mark to a point at latitude 48°44′37″ North and longitude 123°37′48″ West;
+
+Thence northeasterly along the province of British Columbia Tenure to a point at latitude 48°45′50″ North and longitude 123°37′18″ West;
+
+Thence southeasterly along the sinuosity of the ordinary high water mark to the point of commencement.
+
+All islands within the boundary are excluded following the sinuosity of the ordinary high water mark.
+
+The waters constitute an approximate area of 1,394 square kilometres.
 
