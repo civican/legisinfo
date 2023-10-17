@@ -54,24 +54,13 @@ His Majesty, by and with the advice and consent of the Senate and House of Commo
 
 The long title of the `Canada–Newfoundland and Labrador Atlantic Accord Implementation Act` is replaced by the following:
 
-
-> **Explanatory Note**:
-> Existing text of the long title:
-> *Existing Text*:
-
 ### Section 2
 
 Section 1 of the Act is replaced by the following:
 
 ### Section 1
 
-This Act may be cited as the `Canada–Newfoundland and Labrador Atlantic Accord Implementation **and Offshore Renewable Energy Management** Act`.
-
-
-> **Explanatory Note**:
-> Existing text of section 1:
-> *Existing Text*:
-> > This Act may be cited as the `Canada–Newfoundland and Labrador Atlantic Accord Implementation Act`.
+This Act may be cited as the `Canada–Newfoundland and Labrador Atlantic Accord Implementation and Offshore Renewable Energy Management Act`.
 
 ### Section 3
 
@@ -81,11 +70,11 @@ This Act may be cited as the `Canada–Newfoundland and Labrador Atlantic Accord
 
     **offshore area** means
 
-    **in the case of petroleum**, those submarine areas lying seaward of the low water mark of the Province and extending, at any location, as far as
+    in the case of petroleum, those submarine areas lying seaward of the low water mark of the Province and extending, at any location, as far as
 
     any prescribed line, or
 
-    **if** no line is prescribed at that location, the outer edge of the continental margin or a distance of two hundred nautical miles from the baselines from which the breadth of the territorial sea of Canada is measured, whichever is the greater, **and**
+    if no line is prescribed at that location, the outer edge of the continental margin or a distance of two hundred nautical miles from the baselines from which the breadth of the territorial sea of Canada is measured, whichever is the greater, and
 
     in the case of offshore renewable energy, the areas referred to in paragraph (a) that are not within the Province; (**zone extracôtière** ou **zone**)
 
@@ -117,10 +106,6 @@ The Act is amended by adding the following after section 2:
 
 Subject to section 7, the Governor in Council may make regulations amending the definition offshore renewable energy project, as defined in section 2, to add or remove any work or activity related to renewable energy that is carried out in the offshore area.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 5
 
 Subsection 5(1) of the Act is replaced by the following:
@@ -129,27 +114,15 @@ Subsection 5(1) of the Act is replaced by the following:
 
   **(1)** Subject to section 7, the Governor in Council may make regulations
 
-    prescribing lines enclosing areas adjacent to the Province for the purpose of **subparagraph** (a)**(i)** of the definition offshore area in section 2; **and**
+    prescribing lines enclosing areas adjacent to the Province for the purpose of subparagraph (a)(i) of the definition offshore area in section 2; and
 
     amending paragraph (b) of that definition.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 5(1):
-> *Existing Text*:
-> > Subject to section 7, the Governor in Council may make regulations prescribing lines enclosing areas adjacent to the Province for the purpose of paragraph (a) of the definition offshore area in section 2.
 
 ### Section 6
 
 The definition **agreement** in subsection 6(1) of the Act is replaced by the following:
 
-**agreement** means an agreement between the Government of Canada and the government of a province respecting resource management and revenue sharing in relation to activities respecting the exploration for or the production of petroleum, **or respecting offshore renewable energy projects**, carried out on any frontier lands; (**accord**)
-
-
-> **Explanatory Note**:
-> Existing text of the definition:
-> *Existing Text*:
-> > **agreement** means an agreement between the Government of Canada and the government of a province respecting resource management and revenue sharing in relation to activities respecting the exploration for or the production of petroleum carried out on any frontier lands; (**accord**)
+**agreement** means an agreement between the Government of Canada and the government of a province respecting resource management and revenue sharing in relation to activities respecting the exploration for or the production of petroleum, or respecting offshore renewable energy projects, carried out on any frontier lands; (**accord**)
 
 ### Section 7
 
@@ -157,13 +130,7 @@ Subsection 7(1) of the Act is replaced by the following:
 
 ### Section 7
 
-  **(1)** Before a regulation is made under **section 2.1**, subsection 5(1), section 29.1, subsection 41(7), section **56.1 or** section 64, subsection 67(2), **section 96.1, subsection 96.2(2)**, section 118, subsection 122(1), 125(1), 149(1), 162(2.3), 163(1.02), **183.19(6) or 183.25(1), section 183.29, subsection 183.3(3) or** 202.01(1) or section 203, the Federal Minister shall consult the Provincial Minister with respect to the proposed regulation and the regulation shall not be made without the Provincial Minister's approval.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 7(1):
-> *Existing Text*:
-> > Before a regulation is made under subsection 5(1), section 29.1, subsection 41(7), section 64, subsection 67(2), section 118, subsection 122(1), 125(1), 149(1), 162(2.3), 163(1.02) or 202.01(1) or section 203, the Federal Minister shall consult the Provincial Minister with respect to the proposed regulation and the regulation shall not be made without the Provincial Minister's approval.
+  **(1)** Before a regulation is made under section 2.1, subsection 5(1), section 29.1, subsection 41(7), section 56.1 or section 64, subsection 67(2), section 96.1, subsection 96.2(2), section 118, subsection 122(1), 125(1), 149(1), 162(2.3), 163(1.02), 183.19(6) or 183.25(1), section 183.29, subsection 183.3(3) or 202.01(1) or section 203, the Federal Minister shall consult the Provincial Minister with respect to the proposed regulation and the regulation shall not be made without the Provincial Minister's approval.
 
 ### Section 8
 
@@ -176,21 +143,11 @@ The Act is amended by adding the following after section 7:
 
 For greater certainty, the Atlantic Accord does not apply to offshore renewable energy resources.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 9
 
 Subsection 8(2) of the Act is replaced by the following:
 
-**(2)** Subject to section 101, the `Canada Petroleum Resources Act` and the `Canada Oil and Gas Operations Act` and **Part 5 of the `Canadian Energy Regulator Act` and** any regulations made under **them** do not apply within the offshore area.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 8(2):
-> *Existing Text*:
-> > Subject to section 101, the `Canada Petroleum Resources Act` and the `Canada Oil and Gas Operations Act` and any regulations made under those Acts do not apply within the offshore area.
+**(2)** Subject to section 101, the `Canada Petroleum Resources Act` and the `Canada Oil and Gas Operations Act` and Part 5 of the `Canadian Energy Regulator Act` and any regulations made under them do not apply within the offshore area.
 
 ### Section 10
 
@@ -198,17 +155,9 @@ Subsections 9(1) to (1.2) of the Act are replaced by the following:
 
 ### Section 9
 
-  **(1)** There is established by the joint operation of this Act and the Provincial Act a board to be known as the Canada–Newfoundland **and Labrador** Offshore **Energy Regulator**.
+  **(1)** There is established by the joint operation of this Act and the Provincial Act a board to be known as the Canada–Newfoundland and Labrador Offshore Energy Regulator.
 
-  **(1.2)** A reference in any contract, document, instrument, proclamation, by-law or order in council to the Canada-Newfoundland Offshore Petroleum Board **or the** Canada–Newfoundland and Labrador Offshore Petroleum Board is, unless the context otherwise requires, to be read as a reference to the **Canada–Newfoundland and Labrador Offshore Energy Regulator**.
-
-
-> **Explanatory Note**:
-> Existing text of subsections 9(1) to (1.2):
-> *Existing Text*:
-> > There is established by the joint operation of this Act and the Provincial Act a board to be known as the Canada-Newfoundland Offshore Petroleum Board.
-> > The name of the Canada-Newfoundland Offshore Petroleum Board is changed to Canada–Newfoundland and Labrador Offshore Petroleum Board and the Canada–Newfoundland and Labrador Offshore Petroleum Board is deemed to have been established under subsection (1).
-> > A reference in any contract, document, instrument, proclamation, by-law or order in council to the Canada-Newfoundland Offshore Petroleum Board is, unless the context otherwise requires, to be read as a reference to the Canada–Newfoundland and Labrador Offshore Petroleum Board.
+  **(1.2)** A reference in any contract, document, instrument, proclamation, by-law or order in council to the Canada-Newfoundland Offshore Petroleum Board or the Canada–Newfoundland and Labrador Offshore Petroleum Board is, unless the context otherwise requires, to be read as a reference to the Canada–Newfoundland and Labrador Offshore Energy Regulator.
 
 ### Section 11
 
@@ -216,15 +165,7 @@ Subsections 15(1) to (3) of the Act are replaced by the following:
 
 ### Section 15
 
-  **(3)** The Chairperson and members of the **Regulator** shall be appointed for terms of six years.
-
-
-> **Explanatory Note**:
-> Existing text of subsections 15(1) to (3):
-> *Existing Text*:
-> > The first Chairperson of the Board shall be appointed for a term of seven years.
-> > The first three members of the Board to be appointed by each government shall be appointed for terms of four, five and six years, respectively.
-> > On the expiration of the initial terms of office referred to in subsections (1) and (2), the Chairperson and members of the Board shall be appointed for terms of six years.
+  **(3)** The Chairperson and members of the Regulator shall be appointed for terms of six years.
 
 ### Section 12
 
@@ -234,23 +175,13 @@ The Act is amended by adding the following after section 17:
 
 His Majesty in right of Canada or in right of the Province may rely on the Regulator for the purposes of consulting with the Indigenous peoples of Canada respecting any potential adverse impact of a work or activity in the offshore area on existing Aboriginal and treaty rights recognized and affirmed by section 35 of the `Constitution Act, 1982` and the Regulator may, on behalf of His Majesty, if appropriate, accommodate any adverse impacts on those rights.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 13
 
 Subsection 18(1) of the Act is replaced by the following:
 
 ### Section 18
 
-  **(1)** The Federal Minister and the Provincial Minister are entitled to access to any information or documentation relating to petroleum resource **and renewable energy** activities in the offshore area that is provided for the purposes of this Act or any regulation made **under it** and such information or documentation shall, on the request of either Minister, be disclosed to that Minister without requiring the consent of the party who provided the information or documentation.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 18(1):
-> *Existing Text*:
-> > The Federal Minister and the Provincial Minister are entitled to access to any information or documentation relating to petroleum resource activities in the offshore area that is provided for the purposes of this Act or any regulation made thereunder and such information or documentation shall, on the request of either Minister, be disclosed to that Minister without requiring the consent of the party who provided the information or documentation.
+  **(1)** The Federal Minister and the Provincial Minister are entitled to access to any information or documentation relating to petroleum resource and renewable energy activities in the offshore area that is provided for the purposes of this Act or any regulation made under it and such information or documentation shall, on the request of either Minister, be disclosed to that Minister without requiring the consent of the party who provided the information or documentation.
 
 ### Section 14
 
@@ -258,17 +189,11 @@ Section 22 of the Act is replaced by the following:
 
 ### Section 22
 
-The **Regulator** shall establish, maintain and operate a facility in the Province for the storage and curatorship of
+The Regulator shall establish, maintain and operate a facility in the Province for the storage and curatorship of
 
-all **petroleum-related** geophysical records and geological and hydrocarbon samples relating to the offshore area; **and**
+all petroleum-related geophysical records and geological and hydrocarbon samples relating to the offshore area; and
 
 all geological, geophysical, geotechnical and environmental records and geological and geotechnical samples relating to offshore renewable energy.
-
-
-> **Explanatory Note**:
-> Existing text of section 22:
-> *Existing Text*:
-> > The Board shall establish, maintain and operate a facility in the Province for the storage and curatorship of all geophysical records and geological and hydrocarbon samples relating to the offshore area.
 
 ### Section 15
 
@@ -276,45 +201,31 @@ Subsection 25(4) of the Act is replaced by the following:
 
 **(4)** For the purpose of being eligible for appointment to a position in the public service by an appointment process under the `Public Service Employment Act`,
 
-  any person who, immediately prior to being employed by the **Regulator**, was employed in the public service shall be deemed to be a person employed in the public service in the Department of **Natural** Resources in the location where that person is performing duties for the **Regulator** and in a position of an occupational nature and at a level equivalent to the position in which that person is employed by the **Regulator**; and
+  any person who, immediately prior to being employed by the Regulator, was employed in the public service shall be deemed to be a person employed in the public service in the Department of Natural Resources in the location where that person is performing duties for the Regulator and in a position of an occupational nature and at a level equivalent to the position in which that person is employed by the Regulator; and
 
-  any person who, immediately prior to being employed by the **Regulator**, was not employed in the public service shall, two years after being employed by the **Regulator**, be deemed to be a person employed in the public service in the Department of **Natural** Resources in the location where that person is performing duties for the **Regulator** and in a position of an occupational nature and at a level equivalent to the position in which that person is employed by the **Regulator**.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 25(4):
-> *Existing Text*:
-> > For the purpose of being eligible for appointment to a position in the public service by an appointment process under the `Public Service Employment Act`,
-> > any person who, immediately prior to being employed by the Board, was employed in the public service shall be deemed to be a person employed in the public service in the Department of Energy, Mines and Resources in the location where that person is performing duties for the Board and in a position of an occupational nature and at a level equivalent to the position in which that person is employed by the Board; and
-> > any person who, immediately prior to being employed by the Board, was not employed in the public service shall, two years after being employed by the Board, be deemed to be a person employed in the public service in the Department of Energy, Mines and Resources in the location where that person is performing duties for the Board and in a position of an occupational nature and at a level equivalent to the position in which that person is employed by the Board.
+  any person who, immediately prior to being employed by the Regulator, was not employed in the public service shall, two years after being employed by the Regulator, be deemed to be a person employed in the public service in the Department of Natural Resources in the location where that person is performing duties for the Regulator and in a position of an occupational nature and at a level equivalent to the position in which that person is employed by the Regulator.
 
 ### Section 16
 
 Subsection 27(4) of the Act is replaced by the following:
 
-**(4)** **Subject to subsection (4.1)**, the Government of Canada shall pay one-half of the aggregate of the expenditures set out in the budget or revised budget in respect of each fiscal year.
+**(4)** Subject to subsection (4.1), the Government of Canada shall pay one-half of the aggregate of the expenditures set out in the budget or revised budget in respect of each fiscal year.
 
 **(4.1)** The Chief Executive Officer may include in the budget or revised budget expenditures associated with specific requirements of one government that are to be paid entirely by that government.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 27(4):
-> *Existing Text*:
-> > The Government of Canada shall pay one-half of the aggregate of the expenditures set out in the budget or revised budget, where applicable, submitted and approved pursuant to this section in respect of each fiscal year.
 
 ### Section 17
 
   **(1)** Paragraph 29.1(1)(b) of the Act is replaced by the following:
 
-    respecting the fees or charges, or the method of calculating the fees or charges, in respect of any of the **Regulator**'s activities under this Act or the **`Impact Assessment Act`**, that are to be paid by
+    respecting the fees or charges, or the method of calculating the fees or charges, in respect of any of the Regulator's activities under this Act or the `Impact Assessment Act`, that are to be paid by
 
-    a person who makes an application for an authorization under paragraph 138(1)(b) **or subsection 138.01(1)** or an application under subsection 139(2), or
+    a person who makes an application for an authorization under paragraph 138(1)(b) or subsection 138.01(1) or an application under subsection 139(2), or
 
-    the holder of an operating licence issued under paragraph 138(1)(a) or an authorization issued under paragraph 138(1)(b) **or subsection 138.01(1)**; and
+    the holder of an operating licence issued under paragraph 138(1)(a) or an authorization issued under paragraph 138(1)(b) or subsection 138.01(1); and
 
   **(2)** Subsection 29.1(3) of the Act is replaced by the following:
 
-    **(3)** The amounts of the fees or charges referred to in paragraph (1)(b) shall not exceed the cost of the **Regulator**'s activities under this Act or the **`Impact Assessment Act`**.
+    **(3)** The amounts of the fees or charges referred to in paragraph (1)(b) shall not exceed the cost of the Regulator's activities under this Act or the `Impact Assessment Act`.
 
 ### Section 18
 
@@ -323,16 +234,12 @@ The Act is amended by adding the following after section 30:
 
 #### Petroleum-related Decisions
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 19
 
 The Act is amended by adding the following after section 40:
 
 
-#### **Decisions Related to Offshore Renewable Energy**
+#### Decisions Related to Offshore Renewable Energy
 
 ### Section 40.1
 
@@ -352,10 +259,6 @@ The Regulator shall publish in the `Canada Gazette` any notice of decision refer
 
 The Regulator shall only exercise a power or perform a duty subject to this section and sections 40.1 and 40.2 if it has been the subject of an offshore renewable energy recommendation that was approved by both Ministers and with the same variations, if any. In that case, the Regulator shall exercise the power or perform the duty as soon as practicable after it receives the notices referred to in subsection 40.1(2).
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 20
 
   **(1)** Subsection 42(1) of the Act is amended by adding the following after paragraph (a):
@@ -374,26 +277,13 @@ Section 44.1 of the Act is replaced by the following:
 
 ### Section 44.1
 
-The **Regulator** may conduct a public hearing in relation to the exercise of any of its powers or the performance of any of its duties and functions **under this Act**.
-
-
-> **Explanatory Note**:
-> Existing text of section 44.1:
-> *Existing Text*:
-> > The Board may conduct a public hearing in relation to the exercise of any of its powers or the performance of any of its duties and functions as a responsible authority as defined in subsection 2(1) of the `Canadian Environmental Assessment Act, 2012`.
+The Regulator may conduct a public hearing in relation to the exercise of any of its powers or the performance of any of its duties and functions under this Act.
 
 ### Section 22
 
 Subsection 44.3(a) of the English version of the Act is replaced by the following:
 
-there is a real and substantial risk that disclosure of the information will impair the security of pipelines, as defined in section 135, installations, **facilities**, vessels, aircraft or systems, including computer or communication systems, or methods employed to protect them; and
-
-
-> **Explanatory Note**:
-> Existing text of subsection 44.3(a):
-> *Existing Text*:
-> > At any public hearing conducted under section 44.1, the Board may take any measures and make any order that it considers necessary to ensure the confidentiality of information that is likely to be disclosed at the hearing if the Board is satisfied that
-> > there is a real and substantial risk that disclosure of the information will impair the security of pipelines, as defined in section 135, installations, vessels, aircraft or systems, including computer or communication systems, or methods employed to protect them; and
+there is a real and substantial risk that disclosure of the information will impair the security of pipelines, as defined in section 135, installations, facilities, vessels, aircraft or systems, including computer or communication systems, or methods employed to protect them; and
 
 ### Section 23
 
@@ -405,21 +295,12 @@ Section 45 of the Act is amended by adding the following after subsection (6):
 
 **(9)** The Regulator or the appropriate authority — or in respect of any transboundary pool extending into the jurisdiction of a foreign government, the Federal Minister, after having consulted the Minister of Foreign Affairs and the Provincial Minister — may, if they disagree about the content of the plan submitted for approval, refer the matter to an expert in accordance with section 183.16. The expert's decision is deemed to be approval of the plan by the Regulator.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 24
 
 The heading "Petroleum Resources" before section 47 of the Act is replaced by the following:
 
 
-## Petroleum **and Offshore Renewable Energy** Resources
-
-
-> **Explanatory Note**:
-> Existing text of the heading:
-> *Existing Text*:
+## Petroleum and Offshore Renewable Energy Resources
 
 ### Section 25
 
@@ -427,36 +308,27 @@ The definitions **call for bids**, **Crown reserve area**, **interest** and **si
 
 **call for bids** means a call for bids made in accordance with
 
-**in the case of petroleum**, section 58, **and**
+in the case of petroleum, section 58, and
 
 in the case of offshore renewable energy, section 93; (**appel d'offres**)
 
 **Crown reserve area** means
 
-**in relation to petroleum**, portions of the offshore area in respect of which no **petroleum-related** interest is in force, **and**
+in relation to petroleum, portions of the offshore area in respect of which no petroleum-related interest is in force, and
 
 in relation to offshore renewable energy, portions of the offshore area in respect of which no submerged land licence is in force respecting a particular renewable energy resource; (**réserves de l'État**)
 
 **interest** means
 
-**in relation to petroleum**, any former exploration agreement, former lease, former permit, former special renewal permit, exploration licence, production licence or significant discovery licence, **and**
+in relation to petroleum, any former exploration agreement, former lease, former permit, former special renewal permit, exploration licence, production licence or significant discovery licence, and
 
 in relation to offshore renewable energy, any submerged land licence; (**titre**)
 
-**significant discovery** means a discovery indicated by **a** well on a geological feature that
+**significant discovery** means a discovery indicated by a well on a geological feature that
 
-demonstrates, **through any formation** flow **test approved** by the **Regulator**, the existence of hydrocarbons in that feature, and
+demonstrates, through any formation flow test approved by the Regulator, the existence of hydrocarbons in that feature, and
 
 having regard to geological and engineering factors, suggests the existence of an accumulation of hydrocarbons that has potential for sustained production; (**découverte importante**)
-
-
-> **Explanatory Note**:
-> Existing text of the definitions:
-> *Existing Text*:
-> > **call for bids** means a call for bids made in accordance with section 58; (**appel d'offres**)
-> > **Crown reserve area** means portions of the offshore area in respect of which no interest is in force; (**réserves de l'État**)
-> > **interest** means any former exploration agreement, former lease, former permit, former special renewal permit, exploration licence, production licence or significant discovery licence; (**titre**)
-> > **significant discovery** means a discovery indicated by the first well on a geological feature that demonstrates by flow testing the existence of hydrocarbons in that feature and, having regard to geological and engineering factors, suggests the existence of an accumulation of hydrocarbons that has potential for sustained production; (**découverte importante**)
 
 ### Section 26
 
@@ -464,7 +336,7 @@ having regard to geological and engineering factors, suggests the existence of a
 
 ### Section 54
 
-      **(1)** Subject to sections 31 to 40, the **Regulator** may, except in a case referred to in subsection (2), by order, for **any** purposes and under **any** conditions set out in the order, prohibit the issuance of **petroleum-related** interests in respect of **any** portions of the offshore area specified in the order.
+      **(1)** Subject to sections 31 to 40, the Regulator may, except in a case referred to in subsection (2), by order, for any purposes and under any conditions set out in the order, prohibit the issuance of petroleum-related interests in respect of any portions of the offshore area specified in the order.
 
       **(1.1)** The Federal Minister and the Provincial Minister may, except in a case referred to in subsection (2), issue a joint direction to the Regulator to, by order, for any purposes and under any conditions set out in the order, prohibit the issuance of submerged land licences in respect of any portions of the offshore area specified in the order.
 
@@ -482,19 +354,19 @@ having regard to geological and engineering factors, suggests the existence of a
 
 ### Section 56
 
-      **(1)** Subject to **subsections** (2) **and (2.1)**, the **Regulator** may, by order, prohibit any interest owner specified in the order from commencing or continuing any work or activity on the portions of the offshore area or any part **of those portions** that are subject to the interest of that interest owner, in the case of
+      **(1)** Subject to subsections (2) and (2.1), the Regulator may, by order, prohibit any interest owner specified in the order from commencing or continuing any work or activity on the portions of the offshore area or any part of those portions that are subject to the interest of that interest owner, in the case of
 
         an environmental or social problem of a serious nature; or
 
         dangerous or extreme weather conditions affecting the health or safety of people or the safety of equipment.
 
-      **(2)** **The making of** an order **by** the **Regulator** in a case referred to in paragraph (1)(a) **with respect to a petroleum-related interest** is subject to sections 31 to 40.
+      **(2)** The making of an order by the Regulator in a case referred to in paragraph (1)(a) with respect to a petroleum-related interest is subject to sections 31 to 40.
 
       **(2.1)** The making of an order by the Regulator in a case referred to in paragraph (1)(a) with respect to a submerged land licence is subject to sections 40.1 to 40.3.
 
   **(2)** Subsection 56(4) of the French version of the Act is replaced by the following:
 
-    **(4)** Est suspendue, tant que **l'arrêté** est valide, toute obligation liée à un titre et rendue de ce fait inexécutable.
+    **(4)** Est suspendue, tant que l'arrêté est valide, toute obligation liée à un titre et rendue de ce fait inexécutable.
 
 ### Section 28
 
@@ -580,21 +452,12 @@ the issuance of interests.
 
   **(3)** A person shall not have any right to claim or receive any compensation, damages, indemnity or other form of relief from His Majesty in right of the Province or from any servant or agent of His Majesty in right of the Province for any acquired, vested, future or potential right or entitlement that is affected by a surrender of an interest referred to in subsection 56.4(1) or a cancellation of an interest referred to in subsection 56.4(4), other than compensation that may be granted to an interest owner under this section.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 29
 
 The heading "General Rules Relating to Issuance of Interests" before section 57 of the Act is replaced by the following:
 
 
-### General Rules Relating to Issuance of **Petroleum-Related** Interests
-
-
-> **Explanatory Note**:
-> Existing text of the heading:
-> *Existing Text*:
+### General Rules Relating to Issuance of Petroleum-Related Interests
 
 ### Section 30
 
@@ -602,28 +465,17 @@ Section 57 of the Act is replaced by the following:
 
 ### Section 57
 
-  **(1)** The **Regulator** may issue **petroleum-related** interests in respect of any portion of the offshore area in accordance with this Part and the regulations.
+  **(1)** The Regulator may issue petroleum-related interests in respect of any portion of the offshore area in accordance with this Part and the regulations.
 
-  **(2)** The issuance of **a petroleum-related** interest by the **Regulator** is subject to sections 31 to 40 unless the issuance of the interest is mandatory under another provision of this Part.
+  **(2)** The issuance of a petroleum-related interest by the Regulator is subject to sections 31 to 40 unless the issuance of the interest is mandatory under another provision of this Part.
 
-  **(3)** Subject to subsection (4), the application of any **petroleum-related** interest may be restricted to geological formations and to substances specified in the interest.
+  **(3)** Subject to subsection (4), the application of any petroleum-related interest may be restricted to geological formations and to substances specified in the interest.
 
-  **(4)** Subsection (3) does not apply to any **petroleum-related** interest
+  **(4)** Subsection (3) does not apply to any petroleum-related interest
 
     that is in force or in respect of which negotiations were completed before or on the coming into force of this section in relation to any portion of the offshore area; or
 
-    that immediately succeeds an interest referred to in paragraph (a) in relation to that portion of the offshore area **if** that portion was not a Crown reserve area on the expiration of the interest referred to in paragraph (a).
-
-
-> **Explanatory Note**:
-> Existing text of section 57:
-> *Existing Text*:
-> > The Board may issue interests in respect of any portion of the offshore area in accordance with this Part and the regulations.
-> > The issuance of an interest by the Board is subject to sections 31 to 40 unless the issuance of the interest is mandatory under another provision of this Part.
-> > Subject to subsection (4), the application of any interest may be restricted to such geological formations and to such substances as may be specified in the interest.
-> > Subsection (3) does not apply to any interest
-> > that is in force or in respect of which negotiations were completed before or on the coming into force of this section in relation to any portion of the offshore area; or
-> > that immediately succeeds an interest referred to in paragraph (a) in relation to that portion of the offshore area where that portion was not a Crown reserve area on the expiration of the interest referred to in paragraph (a).
+    that immediately succeeds an interest referred to in paragraph (a) in relation to that portion of the offshore area if that portion was not a Crown reserve area on the expiration of the interest referred to in paragraph (a).
 
 ### Section 31
 
@@ -631,23 +483,23 @@ Section 57 of the Act is replaced by the following:
 
 ### Section 58
 
-      **(1)** Subject to section 61, the **Regulator** shall not issue **a petroleum-related** interest in relation to Crown reserve areas unless
+      **(1)** Subject to section 61, the Regulator shall not issue a petroleum-related interest in relation to Crown reserve areas unless
 
-        prior **to issuing the interest**, the **Regulator** has made a call for bids in relation to those Crown reserve areas by publishing a notice in accordance with this section and section 63; and
+        prior to issuing the interest, the Regulator has made a call for bids in relation to those Crown reserve areas by publishing a notice in accordance with this section and section 63; and
 
-        the interest is issued to the person who submitted, in response to the call, the bid selected by the **Regulator** in accordance with subsection 59(1).
+        the interest is issued to the person who submitted, in response to the call, the bid selected by the Regulator in accordance with subsection 59(1).
 
-      **(2)** The making of a call for bids **for the issuance of a petroleum-related interest** is subject to sections 31 to 40.
+      **(2)** The making of a call for bids for the issuance of a petroleum-related interest is subject to sections 31 to 40.
 
-      **(3)** Any request received by the **Regulator** to make a call for bids **for the issuance of a petroleum-related interest** in relation to particular portions of the offshore area shall be considered by the **Regulator** in selecting the portions of the offshore area to be specified in **such** a call for bids.
+      **(3)** Any request received by the Regulator to make a call for bids for the issuance of a petroleum-related interest in relation to particular portions of the offshore area shall be considered by the Regulator in selecting the portions of the offshore area to be specified in such a call for bids.
 
   **(2)** The portion of subsection 58(4) of the English version of the Act before paragraph (a) is replaced by the following:
 
-    **(4)** **The** call for bids shall specify
+    **(4)** The call for bids shall specify
 
   **(3)** Paragraph 58(4)(b) of the Act is replaced by the following:
 
-    **if** applicable, the geological formations and substances to which the interest is to apply;
+    if applicable, the geological formations and substances to which the interest is to apply;
 
 ### Section 32
 
@@ -655,15 +507,15 @@ Section 57 of the Act is replaced by the following:
 
 ### Section 59
 
-      **(1)** A bid submitted in response to a call for bids **for the issuance of a petroleum-related interest** shall not be selected unless
+      **(1)** A bid submitted in response to a call for bids for the issuance of a petroleum-related interest shall not be selected unless
 
   **(2)** Subsections 59(2) to (4) of the Act are replaced by the following:
 
-    **(2)** **If** the **Regulator** selects a bid submitted in response to **the** call for bids, the **Regulator** shall publish a notice in accordance with section 63 setting out the terms and conditions of that bid.
+    **(2)** If the Regulator selects a bid submitted in response to the call for bids, the Regulator shall publish a notice in accordance with section 63 setting out the terms and conditions of that bid.
 
-    **(3)** **If a petroleum-related** interest is to be issued as a result of a call for bids, the terms and conditions of the interest shall be substantially consistent with any terms and conditions in respect of the interest specified in the call.
+    **(3)** If a petroleum-related interest is to be issued as a result of a call for bids, the terms and conditions of the interest shall be substantially consistent with any terms and conditions in respect of the interest specified in the call.
 
-    **(4)** The **Regulator** shall publish a notice in accordance with section 63 setting out the terms and conditions of any **petroleum-related** interest issued as a result of a call for bids as soon as practicable after **its** issuance.
+    **(4)** The Regulator shall publish a notice in accordance with section 63 setting out the terms and conditions of any petroleum-related interest issued as a result of a call for bids as soon as practicable after its issuance.
 
 ### Section 33
 
@@ -671,16 +523,9 @@ Section 60 of the Act is replaced by the following:
 
 ### Section 60
 
-  **(1)** The **Regulator** is not required to issue **a petroleum-related** interest as a result of a call for bids.
+  **(1)** The Regulator is not required to issue a petroleum-related interest as a result of a call for bids.
 
-  **(2)** Subject to section 61, **if** the **Regulator** has not issued **a petroleum-related** interest with respect to a particular portion of the offshore area specified in a call for bids within six months after the closing date specified in the call for bids, the **Regulator** shall, before issuing **a petroleum-related** interest in relation to that portion of the offshore area, make a new call for bids.
-
-
-> **Explanatory Note**:
-> Existing text of section 60:
-> *Existing Text*:
-> > The Board is not required to issue an interest as a result of a call for bids.
-> > Subject to section 61, where the Board has not issued an interest with respect to a particular portion of the offshore area specified in a call for bids within six months after the closing date specified in the call for the submission of bids, the Board shall, before issuing an interest in relation to that portion of the offshore area, make a new call for bids.
+  **(2)** Subject to section 61, if the Regulator has not issued a petroleum-related interest with respect to a particular portion of the offshore area specified in a call for bids within six months after the closing date specified in the call for bids, the Regulator shall, before issuing a petroleum-related interest in relation to that portion of the offshore area, make a new call for bids.
 
 ### Section 34
 
@@ -688,11 +533,11 @@ Section 60 of the Act is replaced by the following:
 
 ### Section 61
 
-      **(1)** Subject to sections 31 to 40, the **Regulator** may issue **a petroleum-related** interest, in relation to any Crown reserve area, without making a call for bids **if**
+      **(1)** Subject to sections 31 to 40, the Regulator may issue a petroleum-related interest, in relation to any Crown reserve area, without making a call for bids if
 
   **(2)** Paragraph 61(1)(a) of the English version of the Act is replaced by the following:
 
-    the portion of the offshore area to which the interest is to apply has, through error or inadvertence, become a Crown reserve area and the interest owner who last held an interest in relation to such portion of the offshore area has, within one year after the time **it** became a Crown reserve area, requested the **Regulator** to issue an interest; or
+    the portion of the offshore area to which the interest is to apply has, through error or inadvertence, become a Crown reserve area and the interest owner who last held an interest in relation to such portion of the offshore area has, within one year after the time it became a Crown reserve area, requested the Regulator to issue an interest; or
 
 ### Section 35
 
@@ -700,41 +545,23 @@ Section 62 of the Act is replaced by the following:
 
 ### Section 62
 
-**If a petroleum-related** interest has been issued, it is not vitiated by reason only of a failure to comply with any of the requirements set out in sections 58 to 61 respecting the form and content of, and time and manner of publishing, any notice required by those sections in relation to that interest.
-
-
-> **Explanatory Note**:
-> Existing text of section 62:
-> *Existing Text*:
-> > Where an interest has been issued, it is not vitiated by reason only of a failure to comply with any of the requirements set out in sections 58 to 61 respecting the form and content of, and time and manner of publishing, any notice required by those sections in relation to that interest.
+If a petroleum-related interest has been issued, it is not vitiated by reason only of a failure to comply with any of the requirements set out in sections 58 to 61 respecting the form and content of, and time and manner of publishing, any notice required by those sections in relation to that interest.
 
 ### Section 36
 
 Subsection 75(3) of the Act is replaced by the following:
 
-**(3)** Subject to subsection 85(1), a significant discovery licence continues in force, in relation to each portion of the offshore area to which the licence applies, **for a term of 25 years**.
+**(3)** Subject to subsection 85(1), a significant discovery licence continues in force, in relation to each portion of the offshore area to which the licence applies, for a term of 25 years.
 
 **(3.1)** If the interest owner has made an application for a declaration of commercial discovery referred to in subsection 78(1) or for the issuance of a production licence referred to in subsection 81(1), the term of the significant discovery licence is extended until the Regulator makes a decision respecting that application.
 
 **(3.2)** The extension to the term of the significant discovery licence remains in force after the Regulator makes a declaration of commercial discovery, but the Regulator may cancel the extension if the interest owner fails to submit an application for the issuance of a production licence within a reasonable time.
 
-
-> **Explanatory Note**:
-> Existing text of subsection 75(3):
-> *Existing Text*:
-> > Subject to subsection 85(1), a significant discovery licence continues in force, in relation to each portion of the offshore area to which the licence applies, during such period as the declaration of significant discovery on the basis of which the licence was issued remains in force in relation to that portion.
-
 ### Section 37
 
 Subsection 80(2) of the Act is replaced by the following:
 
-**(2)** **Despite** subsection (1), the **Regulator** may, subject to such terms and conditions as the **Regulator** deems appropriate, authorize any interest holder of **a petroleum-related** interest or a share **in such an interest** to produce petroleum on the portions of the offshore area subject to the interest or share for use in the exploration or drilling for or development of petroleum on any portion of the offshore area.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 80(2):
-> *Existing Text*:
-> > Notwithstanding subsection (1), the Board may, subject to such terms and conditions as the Board deems appropriate, authorize any interest holder of an interest or a share therein to produce petroleum on the portions of the offshore area subject to the interest or share for use in the exploration or drilling for or development of petroleum on any portion of the offshore area.
+**(2)** Despite subsection (1), the Regulator may, subject to such terms and conditions as the Regulator deems appropriate, authorize any interest holder of a petroleum-related interest or a share in such an interest to produce petroleum on the portions of the offshore area subject to the interest or share for use in the exploration or drilling for or development of petroleum on any portion of the offshore area.
 
 ### Section 38
 
@@ -792,7 +619,7 @@ A submerged land licence confers, with respect to the portions of the offshore a
 
     the bid satisfies the terms and conditions and is submitted in the form and manner specified in the call; and
 
-    the selection is made on the basis of the criterion specified in the call.
+    the selection is made on the basis of the **criteria** specified in the call.
 
   **(2)** If the Regulator selects a bid submitted in response to a call for bids, the Regulator shall publish a notice in accordance with section `96` setting out the terms and conditions of that bid.
 
@@ -880,38 +707,31 @@ No submerged land licence or share in a submerged land licence may be held by an
 
 The following principles apply in this Division:
 
-all Canadian corporations and individuals resident in Canada shall have a full and fair opportunity to participate on a competitive basis, including in the course of employment, in the supply of goods and services used in any work or activity related to an offshore renewable energy project; and
+all Canadian corporations and individuals resident in Canada shall have a full and fair opportunity to participate on a competitive basis, including in the course of employment, in the supply of goods and services used in any work or activity related to an offshore renewable energy project;
 
-importance shall be given to the development of measures that aim to increase the participation of under-represented groups, including in the course of employment, in the supply of goods and services used in any such work or activity.
+importance shall be given to the development of measures that aim to increase the participation of under-represented groups, including in the course of employment, in the supply of goods and services used in any such work or activity; and
 
-
-> **Explanatory Note**:
-> New.
+during the submerged land licence issuance process, importance shall be given to the consideration of effects on fishing activities.
 
 ### Section 39
 
 The headings before section 97 of the Act are replaced by the following:
 
 
-### Royalties **and Revenues**
+### Royalties and Revenues
 
 
-#### Reservation of Royalties **and Revenues**
-
-
-> **Explanatory Note**:
-> Existing text of the headings:
-> *Existing Text*:
+#### Reservation of Royalties and Revenues
 
 ### Section 40
 
   **(1)** Subsection 97(2) of the English version of the Act is replaced by the following:
 
-    **(2)** There is reserved to **His** Majesty in right of Canada, and each holder of a share in a production licence is liable for and shall pay to **His** Majesty in right of Canada, in accordance with subsection (4), the royalties, interest and penalties that would be payable in respect of petroleum under the Petroleum and Natural Gas Act if the petroleum were produced from areas within the Province.
+    **(2)** There is reserved to His Majesty in right of Canada, and each holder of a share in a production licence is liable for and shall pay to His Majesty in right of Canada, in accordance with subsection (4), the royalties, interest and penalties that would be payable in respect of petroleum under the Petroleum and Natural Gas Act if the petroleum were produced from areas within the Province.
 
   **(2)** Subsection 97(5) of the Act is replaced by the following:
 
-    **(5)** No provision of the Petroleum and Natural Gas Act or any regulation made **under that Act** shall apply so as to reserve to **His** Majesty a Crown share in any **petroleum-related** interest issued in respect of any portion of the offshore area.
+    **(5)** No provision of the Petroleum and Natural Gas Act or any regulation made under that Act shall apply so as to reserve to His Majesty a Crown share in any petroleum-related interest issued in respect of any portion of the offshore area.
 
 ### Section 41
 
@@ -935,35 +755,31 @@ The Act is amended by adding the following after section 97:
 
   **(5)** For greater certainty, for the purposes of this Division, revenues, interest and penalties payable under subsection (1) do not include taxes, interest and penalties imposed, levied and collected under Part IV.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 42
 
   **(1)** Subsections 98(1) to (3) of the Act are replaced by the following:
 
 ### Section 98
 
-      **(1)** Subject to subsection (6), **if** an agreement is entered into **under** subsection (3), royalties, interest and penalties payable under section 97 **or revenues, interest and penalties payable under section 97.1, as the case may be**, may be collected and administered and refunds in respect **of those amounts payable** may be granted on behalf of the Government of Canada in accordance with the terms and conditions of the agreement, as amended from time to time **under** subsection (4).
+      **(1)** Subject to subsection (6), if an agreement is entered into under subsection (3), royalties, interest and penalties payable under section 97 or revenues, interest and penalties payable under section 97.1, as the case may be, may be collected and administered and refunds in respect of those amounts payable may be granted on behalf of the Government of Canada in accordance with the terms and conditions of the agreement, as amended from time to time under subsection (4).
 
-      **(2)** The Federal Minister shall, on the request of the Government of the Province or the **Regulator**, negotiate
+      **(2)** The Federal Minister shall, on the request of the Government of the Province or the Regulator, negotiate
 
-        an agreement with the Provincial Minister and the **Regulator** with respect to the collection and administration of the royalties, interest and penalties payable under section 97; **and**
+        an agreement with the Provincial Minister and the Regulator with respect to the collection and administration of the royalties, interest and penalties payable under section 97; and
 
         an agreement with the Provincial Minister and the Regulator with respect to the collection and administration of the revenues, interest and penalties payable under section 97.1.
 
-      **(3)** On completion of the negotiation of an agreement **under** subsection (2), the Federal Minister, with the approval of the Governor in Council, shall, on behalf of the Government of Canada, enter into an agreement with the Government of the Province and the **Regulator under** which the **Regulator** shall, on behalf of the Government of Canada, collect and administer the royalties, interest and penalties payable under section 97 **or the revenues, interest and penalties payable under section 97.1, as the case may be**, and grant refunds or make other payments in respect of those **amounts payable, as the case may be**, in accordance with the terms and conditions set out in the agreement.
+      **(3)** On completion of the negotiation of an agreement under subsection (2), the Federal Minister, with the approval of the Governor in Council, shall, on behalf of the Government of Canada, enter into an agreement with the Government of the Province and the Regulator under which the Regulator shall, on behalf of the Government of Canada, collect and administer the royalties, interest and penalties payable under section 97 or the revenues, interest and penalties payable under section 97.1, as the case may be, and grant refunds or make other payments in respect of those amounts payable, as the case may be, in accordance with the terms and conditions set out in the agreement.
 
   **(2)** Subsections 98(6) and (7) of the Act are replaced by the following:
 
-    **(6)** An agreement **entered into under subsection (3)** may provide that, **if** any payment is received by the Government of the Province on account of any royalties, interest, penalties or other sum payable by a person under section 97, or **under** both section 97 and the Petroleum and Natural Gas Act, **that** payment may be applied by the Government of the Province towards the royalties, interest, penalties or other sums payable by the person under **that section or both that section and that** Act in **the** manner **that** is specified in the agreement, **even if** the person directed that the payment be applied in any other manner or made no direction as to its application.
+    **(6)** An agreement entered into under subsection (3) may provide that, if any payment is received by the Government of the Province on account of any royalties, interest, penalties or other sum payable by a person under section 97, or under both section 97 and the Petroleum and Natural Gas Act, that payment may be applied by the Government of the Province towards the royalties, interest, penalties or other sums payable by the person under that section or both that section and that Act in the manner that is specified in the agreement, even if the person directed that the payment be applied in any other manner or made no direction as to its application.
 
     **(6.1)** An agreement entered into under subsection (3) may provide that, if any payment is received by the Government of the Province on account of any revenues, interest, penalties or other sum payable in respect of any offshore renewable energy project by a person under section 97.1, or under both section 97.1 and any Act of the Province and any regulations made under that Act, that payment may be applied by the Government of the Province towards the revenues, interest, penalties or other sums payable by the person under that section, or both that section and that Act and those regulations, in the manner that is specified in the agreement, even if the person directed that the payment be applied in any other manner or made no direction as to its application.
 
-    **(7)** Any payment or part **of a payment** applied by the Government of the Province in accordance with an agreement **entered into under subsection (3)** towards the royalties, interest, penalties or other sums payable by a person under section 97 **or the revenues, interest, penalties or other sums payable by a person under section 97.1, as the case may be**,
+    **(7)** Any payment or part of a payment applied by the Government of the Province in accordance with an agreement entered into under subsection (3) towards the royalties, interest, penalties or other sums payable by a person under section 97 or the revenues, interest, penalties or other sums payable by a person under section 97.1, as the case may be,
 
-      relieves that person of liability to pay **those amounts payable** to the extent of the applied payment or part **of that payment**; and
+      relieves that person of liability to pay those amounts payable to the extent of the applied payment or part of that payment; and
 
       shall be deemed to have been applied in accordance with a direction made by that person.
 
@@ -973,39 +789,24 @@ Sections 99 and 100 of the Act are replaced by the following:
 
 ### Section 99
 
-  **(1)** All royalties, interests and penalties payable under section 97 **and all revenues, interest and penalties payable under section 97.1**, including the proceeds of any royalty **or revenues** payable in kind, shall be made payable and remitted to the Receiver General.
+  **(1)** All royalties, interests and penalties payable under section 97 and all revenues, interest and penalties payable under section 97.1, including the proceeds of any royalty or revenues payable in kind, shall be made payable and remitted to the Receiver General.
 
-  **(2)** On the collection or receipt by the **Regulator under** this section of any **amounts payable, those amounts** shall be deposited as soon as practicable to the credit of the Receiver General and paid into the Consolidated Revenue Fund in the manner prescribed by the Treasury Board under the `Financial Administration Act`.
+  **(2)** On the collection or receipt by the Regulator under this section of any amounts payable, those amounts shall be deposited as soon as practicable to the credit of the Receiver General and paid into the Consolidated Revenue Fund in the manner prescribed by the Treasury Board under the `Financial Administration Act`.
 
 
 #### Liability and Collection
 
 ### Section 100
 
-All royalties, interest and penalties payable under section 97 **and all revenues, interest and penalties payable under section 97.1** are debts due to **His** Majesty in right of Canada and are recoverable from the person required to pay **them** in accordance with this Division.
-
-
-> **Explanatory Note**:
-> Existing text of sections 99 and 100:
-> *Existing Text*:
-> > All royalties, interests and penalties payable under section 97, including the proceeds of any royalty payable in kind, shall be made payable and remitted to the Receiver General.
-> > On the collection or receipt of any royalties, interest and penalties by the Board pursuant to this section, the royalties shall be deposited as soon as practicable to the credit of the Receiver General and paid into the Consolidated Revenue Fund in the manner prescribed by the Treasury Board under the `Financial Administration Act`.
-> > All royalties, interest and penalties payable under section 97 are debts due to Her Majesty in right of Canada and are recoverable as such from the person required to pay the royalties in accordance with this Division.
+All royalties, interest and penalties payable under section 97 and all revenues, interest and penalties payable under section 97.1 are debts due to His Majesty in right of Canada and are recoverable from the person required to pay them in accordance with this Division.
 
 ### Section 44
 
 Subsections 101(3) and (4) of the Act are replaced by the following:
 
-**(3)** **Despite** subsection 78(2) of the `Canada Petroleum Resources Act`, one of the members of the Environmental Studies Management Board established by subsection 78(1) of that Act is to be appointed by the **Regulator** on the recommendation of the Provincial Minister.
+**(3)** Despite subsection 78(2) of the `Canada Petroleum Resources Act`, one of the members of the Environmental Studies Management Board established by subsection 78(1) of that Act is to be appointed by the Regulator on the recommendation of the Provincial Minister.
 
-**(4)** The Environmental Studies Management Board referred to in subsection (3) shall submit to the **Regulator** a copy of every annual report and recommendation submitted to the Federal Minister **under** paragraph 79(1)(d) or (e) of the `Canada Petroleum Resources Act` at the same time the report or recommendation is submitted to the Federal Minister.
-
-
-> **Explanatory Note**:
-> Existing text of subsections 101(3) and (4):
-> *Existing Text*:
-> > Notwithstanding subsection 78(2) of the `Canada Petroleum Resources Act`, one of the members of the Environmental Studies Management Board established by subsection 78(1) of that Act is to be appointed by the Board on the recommendation of the Provincial Minister.
-> > The Environmental Studies Management Board referred to in subsection (3) shall submit to the Board a copy of every annual report and recommendation submitted to the Federal Minister pursuant to paragraph 79(1)(d) or (e) of the `Canada Petroleum Resources Act` at the same time the report or recommendation is submitted to the Federal Minister.
+**(4)** The Environmental Studies Management Board referred to in subsection (3) shall submit to the Regulator a copy of every annual report and recommendation submitted to the Federal Minister under paragraph 79(1)(d) or (e) of the `Canada Petroleum Resources Act` at the same time the report or recommendation is submitted to the Federal Minister.
 
 ### Section 45
 
@@ -1019,23 +820,11 @@ that arises under a contract
 
 to which the interest owner or holder of the interest or share is a party,
 
-that provides for the operator appointed **under the contract** to carry out any work or activity, in the portions of the offshore area to which the interest or share applies, related to the exploration for or the development or production of petroleum **or to offshore renewable energy projects**, and
+that provides for the operator appointed under the contract to carry out any work or activity, in the portions of the offshore area to which the interest or share applies, related to the exploration for or the development or production of petroleum or to offshore renewable energy projects, and
 
 that requires the interest owner or holder to make payments to the operator to cover all or part of the advances made by the operator in respect of the costs and expenses of such work or activity, and
 
 that secures the payments referred to in subparagraph (a)(iii); (**privilège de l'exploitant**)
-
-
-> **Explanatory Note**:
-> Existing text of the definitions:
-> *Existing Text*:
-> > **court** means the Trial Division of the Supreme Court of Newfoundland and Labrador and includes any of its judges; (**tribunal**)
-> > **operator's lien** means any charge on or right in relation to an interest or a share in an interest
-> > that arises under a contract
-> > to which the interest owner or holder of the interest or share is a party,
-> > that provides for the operator appointed thereunder to carry out any work or activity related to the exploration for or the development or production of petroleum in the portions of the offshore area to which the interest or share applies, and
-> > that requires the interest owner or holder to make payments to the operator to cover all or part of the advances made by the operator in respect of the costs and expenses of such work or activity, and
-> > that secures the payments referred to in subparagraph (a)(iii); (**privilège de l'exploitant**)
 
 ### Section 46
 
@@ -1043,31 +832,25 @@ Section 103 of the Act is replaced by the following:
 
 ### Section 103
 
-  ****(1)**** **If** an interest holder of an interest or any share **in an interest** enters into an agreement or arrangement that is or may result in a transfer, assignment or other disposition of the interest or share, the interest holder shall give notice of such agreement or arrangement to the **Regulator**, together with a summary of its terms and conditions or, on the request of the **Regulator**, a copy of the agreement or arrangement.
+  **(1)** If an interest holder of an interest or any share in an interest enters into an agreement or arrangement that is or may result in a transfer, assignment or other disposition of the interest or share, the interest holder shall give notice of such agreement or arrangement to the Regulator, together with a summary of its terms and conditions or, on the request of the Regulator, a copy of the agreement or arrangement.
 
   **(2)** A submerged land licence shall only be transferred, assigned or otherwise disposed of under subsection (1) if the Regulator is satisfied that the terms and conditions of the licence can be met following the transfer, assignment or other disposition.
-
-
-> **Explanatory Note**:
-> Existing text of section 103:
-> *Existing Text*:
-> > Where an interest holder of an interest or any share therein enters into an agreement or arrangement that is or may result in a transfer, assignment or other disposition of the interest or any share therein, the interest holder shall give notice of such agreement or arrangement to the Board, together with a summary of its terms and conditions or, on the request of the Board, a copy of the agreement or arrangement.
 
 ### Section 47
 
   **(1)** The definition **engineering research or feasibility study** in subsection 119(1) of the Act is replaced by the following:
 
-    **engineering research or feasibility study** includes work undertaken to facilitate the design or to analyse the viability of engineering technology, systems or schemes to be used, in the offshore area, in the exploration for or the development, production or transportation of petroleum **or in offshore renewable energy projects**; (**recherches ou études techniques**)
+    **engineering research or feasibility study** includes work undertaken to facilitate the design or to analyse the viability of engineering technology, systems or schemes to be used, in the offshore area, in the exploration for or the development, production or transportation of petroleum or in offshore renewable energy projects; (**recherches ou études techniques**)
 
   **(2)** Paragraph 119(5)(d) of the Act is amended by striking out "or" at the end of subparagraph (i) and by replacing subparagraph (ii) with the following:
 
-    in any other case **relating to a petroleum-related work or activity**, after the **end** of five years following the date of completion of the work, **or**
+    in any other case relating to a petroleum-related work or activity, after the end of five years following the date of completion of the work, or
 
     in any case relating to an offshore renewable energy project, after the end of the time set out by regulations or, in the absence of regulations, three years following the date of completion of the geological or geophysical work;
 
   **(3)** Paragraph 119(5)(e) of the Act is amended by striking out "or" at the end of subparagraph (i) and by replacing subparagraph (ii) with the following:
 
-    in any other case **relating to a petroleum-related work or activity**, after the **end** of five years following the date of completion of the research, study or **experimental** project or after the reversion of that portion of the offshore area to Crown reserve areas, whichever occurs first, **or**
+    in any other case relating to a petroleum-related work or activity, after the end of five years following the date of completion of the research, study or experimental project or after the reversion of that portion of the offshore area to Crown reserve areas, whichever occurs first, or
 
     in any case relating to an offshore renewable energy project, after the earlier of:
 
@@ -1077,33 +860,35 @@ Section 103 of the Act is replaced by the following:
 
   **(4)** Paragraph 119(5)(i) of the Act is amended by striking out "or" at the end of subparagraph (i) and by replacing subparagraph (ii) with the following:
 
-    in any other case **relating to a petroleum-related work or activity**, if five years have passed since the completion of the study, **or**
+    in any other case relating to a petroleum-related work or activity, if five years have passed since the completion of the study, or
 
     in any case relating to an offshore renewable energy project, if the period set out by regulations has passed since the completion of the study or, in the absence of regulations, if three years have passed since the completion of that study.
 
   **(5)** The portion of subsection 119(6) of the Act before paragraph (a) is replaced by the following:
 
-    **(6)** The **Regulator** may disclose any information or documentation that it obtains under this Part or Part III — to officials of the Government of Canada, the Government of the Province or any other provincial government, or a foreign government or to the representatives of any of their agencies — for the purposes of a federal, provincial or foreign law, as the case may be, that deals primarily with a petroleum-related work or activity, including the exploration for and the management, administration and exploitation of petroleum resources, **or with an offshore renewable energy project**, if
+    **(6)** The Regulator may disclose any information or documentation that it obtains under this Part or Part III — to officials of the Government of Canada, the Government of the Province or any other provincial government, or a foreign government or to the representatives of any of their agencies — for the purposes of a federal, provincial or foreign law, as the case may be, that deals primarily with a petroleum-related work or activity, including the exploration for and the management, administration and exploitation of petroleum resources, or with an offshore renewable energy project, if
 
   **(6)** Subsection 119(9) of the Act is replaced by the following:
 
-    **(9)** Subsection (2) does not apply in respect of information regarding the applicant for an operating licence or authorization under subsection 138(1) **or authorization under subsection 138.01(1)** or **in respect of** the scope, purpose, location, timing and nature of the proposed work or activity for which the licence or authorization is sought.
+    **(9)** Subsection (2) does not apply in respect of information regarding the applicant for an operating licence or authorization under subsection 138(1) or authorization under subsection 138.01(1) or in respect of the scope, purpose, location, timing and nature of the proposed work or activity for which the licence or authorization is sought.
 
-    **(9.1)** The Regulator shall make public a summary of the information referred to in subsection (9) in respect of a work or activity for which the Impact Assessment Agency of Canada decided under section 16 of the `Impact Assessment Act` that an impact assessment is not required or which is excluded under section 112.1 of that Act.
+    **(6.1)** Section 119 of the Act is amended by adding the following after subsection (9):
+
+      **(9.1)** The Regulator shall make public a summary of the information referred to in subsection (9) in respect of a work or activity for which the Impact Assessment Agency of Canada decided under section 16 of the `Impact Assessment Act` that an impact assessment is not required or which is excluded under section 112.1 of that Act.
 
   **(7)** The portion of subsection 119(11) of the Act before paragraph (a) is replaced by the following:
 
-    **(11)** Subject to section 119.1, the **Regulator** may disclose, **including for the purposes of the `Impact Assessment Act`**, all or part of any information or documentation related to safety or environmental protection that is provided in relation to an application for an operating licence or authorization under subsection 138(1) **or authorization under subsection 138.01(1)**, or to an operating licence or authorization that is issued under **one of those subsections** or provided in accordance with any regulations made under this Part or Part III. The **Regulator** is not, however, permitted to disclose information or documentation if **it** is satisfied that
+    **(11)** Subject to section 119.1, the Regulator may disclose, including for the purposes of the `Impact Assessment Act`, all or part of any information or documentation related to safety or environmental protection that is provided in relation to an application for an operating licence or authorization under subsection 138(1) or authorization under subsection 138.01(1), or to an operating licence or authorization that is issued under one of those subsections or provided in accordance with any regulations made under this Part or Part III. The Regulator is not, however, permitted to disclose information or documentation if it is satisfied that
 
   **(8)** Paragraph 119(11)(c) of the English version of the Act is replaced by the following:
 
-    there is a real and substantial risk that disclosure of it will impair the security of pipelines, as defined in section 135, installations, **facilities**, vessels, aircraft, or systems, including computer or communication systems, used for any work or activity in respect of which this Act applies — or methods employed to protect them — and the need to prevent its disclosure outweighs the public interest in its disclosure.
+    there is a real and substantial risk that disclosure of it will impair the security of pipelines, as defined in section 135, installations, facilities, vessels, aircraft, or systems, including computer or communication systems, used for any work or activity in respect of which this Act applies — or methods employed to protect them — and the need to prevent its disclosure outweighs the public interest in its disclosure.
 
 ### Section 48
 
   **(1)** Subsection 119.1(7) of the Act is replaced by the following:
 
-    **(7)** Any person to whom the **Regulator** is required under paragraph (4)(b) to give a notice of a decision to disclose information or documentation may, within 20 days after the day on which the notice is given, apply to the Supreme Court of Newfoundland and Labrador for a review of the decision.
+    **(7)** Any person to whom the Regulator is required under paragraph (4)(b) to give a notice of a decision to disclose information or documentation may, within 20 days after the day on which the notice is given, apply to the Supreme Court of Newfoundland and Labrador for a review of the decision.
 
   **(2)** Subsection 119.1(9) of the Act is replaced by the following:
 
@@ -1113,23 +898,17 @@ Section 103 of the Act is replaced by the following:
 
 Subsection 123(2) of the Act is replaced by the following:
 
-**(2)** **Despite** anything in this Part but subject to sections 31 to 40 **and subsection 123(3), if the** interest owner or holder **of a petroleum-related interest** fails to comply with a notice under subsection (1) within the period specified in the notice and the **Regulator** considers that the failure to comply warrants cancellation of the interest of the interest owner or holder **of** or any share in the interest held by the holder with respect to a portion only of the offshore area subject to the interest, the **Regulator** may, by order subject to section 124, cancel that interest or share, **in which case** the portions of the offshore area under **that interest or share** become Crown reserve areas.
+**(2)** Despite anything in this Part but subject to sections 31 to 40 and subsection 123(3), if the interest owner or holder of a petroleum-related interest fails to comply with a notice under subsection (1) within the period specified in the notice and the Regulator considers that the failure to comply warrants cancellation of the interest of the interest owner or holder of or any share in the interest held by the holder with respect to a portion only of the offshore area subject to the interest, the Regulator may, by order subject to section 124, cancel that interest or share, in which case the portions of the offshore area under that interest or share become Crown reserve areas.
 
 **(3)** The Regulator's order to cancel an exploration licence, significant discovery licence or production licence under subsection (2) is not subject to section 124 if the notice under subsection (1) relates to a failure to meet any of the terms and conditions contained in that licence.
 
 **(4)** Despite anything in this Part but subject to sections 40.1 to 40.3, if the interest owner or holder of a submerged land licence fails to comply with a notice under subsection (1) within the period specified in the notice and the Regulator considers that the failure to comply warrants cancellation of the licence of the interest owner or holder or any share in the licence held by the holder, the Regulator may, by order, cancel that licence or share, in which case the portions of the offshore area under that licence or share become Crown reserve areas.
 
-
-> **Explanatory Note**:
-> Existing text of subsection 123(2):
-> *Existing Text*:
-> > Notwithstanding anything in this Part but subject to sections 31 to 40, where an interest owner or holder fails to comply with a notice under subsection (1) within the period specified in the notice and the Board considers that the failure to comply warrants cancellation of the interest of the interest owner or holder or any share in the interest held by the holder with respect to a portion only of the offshore area subject to the interest, the Board may, by order subject to section 124, cancel that interest or share, and where the interest or share is so cancelled, the portions of the offshore area thereunder become Crown reserve areas.
-
 ### Section 50
 
   **(1)** Subsection 124(8) of the Act is replaced by the following:
 
-    **(8)** **If** an order, decision or action referred to in subsection (2) is made or taken, the **Regulator** shall notify the person who requested a hearing in respect of the order, decision or action under subsection (3) and, on request by that person, publish or make available to that person the reasons for the order, decision or action.
+    **(8)** If an order, decision or action referred to in subsection (2) is made or taken, the Regulator shall notify the person who requested a hearing in respect of the order, decision or action under subsection (3) and, on request by that person, publish or make available to that person the reasons for the order, decision or action.
 
   **(2)** Subsection 124(10) of the Act is replaced by the following:
 
@@ -1139,26 +918,13 @@ Subsection 123(2) of the Act is replaced by the following:
 
 Subsections 125(2) and (3) of the Act are repealed.
 
-
-> **Explanatory Note**:
-> Existing text of subsections 125(2) and (3):
-> *Existing Text*:
-> > Subject to subsection (3), a copy of each regulation that the Governor in Council proposes to make under this Part shall be published in the `Canada Gazette` and a reasonable opportunity shall be afforded to interested persons to make representations to the Board with respect thereto.
-> > No proposed regulation need be published more than once under subsection (2) whether or not it is altered or amended after such publication as a result of representations made by interested persons as provided in that subsection.
-
 ### Section 52
 
 Subsection 128(1) of the Act is replaced by the following:
 
 ### Section 128
 
-  **(1)** Subject to section 127 and subsection 129(2), the **petroleum-related** interests provided for under this Part replace all petroleum rights or prospects **of petroleum rights** acquired or vested in relation to any portion of the offshore area prior to the coming into force of this section.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 128(1):
-> *Existing Text*:
-> > Subject to section 127 and subsection 129(2), the interests provided for under this Part replace all petroleum rights or prospects thereof acquired or vested in relation to any portion of the offshore area prior to the coming into force of this section.
+  **(1)** Subject to section 127 and subsection 129(2), the petroleum-related interests provided for under this Part replace all petroleum rights or prospects of petroleum rights acquired or vested in relation to any portion of the offshore area prior to the coming into force of this section.
 
 ### Section 53
 
@@ -1168,21 +934,12 @@ The Act is amended by adding the following after section 134:
 
 Despite subsection 75(3) and subject to subsection 85(1), if the interest holder of an exploration licence issued before 2017 applies for a declaration of significant discovery in relation to any portion of the offshore area to which that licence applies and if the significant discovery is indicated by the first well on a geological feature that demonstrates, by flow testing, the existence of hydrocarbons in that feature, any significant discovery licence issued for that significant discovery area continues in force, in relation to each portion of the offshore area to which the licence applies, for as long as the declaration of significant discovery on the basis of which the licence was issued remains in force in relation to that portion.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 54
 
 The heading "Petroleum Operations" before section 135 of the Act is replaced by the following:
 
 
-## Petroleum **and Offshore Renewable Energy** Operations
-
-
-> **Explanatory Note**:
-> Existing text of the heading:
-> *Existing Text*:
+## Petroleum and Offshore Renewable Energy Operations
 
 ### Section 55
 
@@ -1192,36 +949,20 @@ Section 135.1 of the Act is replaced by the following:
 
 The purpose of this Part is to promote
 
-safety, particularly by encouraging persons exploring for and exploiting petroleum **or carrying on an offshore renewable energy project** to maintain a prudent regime for achieving safety;
+safety, particularly by encouraging persons exploring for and exploiting petroleum or carrying on an offshore renewable energy project to maintain a prudent regime for achieving safety;
 
 the protection of the environment;
 
-accountability in accordance with the "polluter pays" principle; **and**
+accountability in accordance with the "polluter pays" principle; and
 
-**in respect of the exploration for and exploitation of** petroleum, the conservation of petroleum resources and joint production arrangements.
-
-
-> **Explanatory Note**:
-> Existing text of section 135.1:
-> *Existing Text*:
-> > The purpose of this Part is to promote, in respect of the exploration for and exploitation of petroleum,
-> > safety, particularly by encouraging persons exploring for and exploiting petroleum to maintain a prudent regime for achieving safety;
-> > the protection of the environment;
-> > accountability in accordance with the "polluter pays" principle;
-> > the conservation of petroleum resources; and
-> > joint production arrangements.
+in respect of the exploration for and exploitation of petroleum, the conservation of petroleum resources and joint production arrangements.
 
 ### Section 56
 
 The heading before section 136 of the French version of the Act is replaced by the following:
 
 
-### **Champ d'**application
-
-
-> **Explanatory Note**:
-> Existing text of the heading:
-> *Existing Text*:
+### Champ d'application
 
 ### Section 57
 
@@ -1229,13 +970,7 @@ Section 136 of the Act is replaced by the following:
 
 ### Section 136
 
-This Part applies in respect of the exploration and drilling for and the production, conservation, processing and transportation of petroleum, **and in respect of offshore renewable energy projects**, in the offshore area.
-
-
-> **Explanatory Note**:
-> Existing text of section 136:
-> *Existing Text*:
-> > This Part applies in respect of the exploration and drilling for and the production, conservation, processing and transportation of petroleum in the offshore area.
+This Part applies in respect of the exploration and drilling for and the production, conservation, processing and transportation of petroleum, and in respect of offshore renewable energy projects, in the offshore area.
 
 ### Section 58
 
@@ -1249,35 +984,20 @@ that person is the holder of an authorization issued, before the commencement of
 
 if it is required, that person is authorized or entitled to carry on business in the place where that person proposes to carry on the work or activity.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 59
 
 Section 137.1 of the Act is replaced by the following:
 
 ### Section 137.1
 
-The **Regulator** may delegate any of the **Regulator**'s powers under section 138, **138.01**, 138.2, 138.3, 139.1, 139.2, 162.1, 163, **183.2** or **183.21** to any person, and the person shall exercise those powers in accordance with the terms of the delegation.
-
-
-> **Explanatory Note**:
-> Existing text of section 137.1:
-> *Existing Text*:
-> > The Board may delegate any of the Board's powers under section 138, 138.2, 138.3, 139.1, 139.2, 162.1 or 163 to any person, and the person shall exercise those powers in accordance with the terms of the delegation.
+The Regulator may delegate any of the Regulator's powers under section 138, 138.01, 138.2, 138.3, 139.1, 139.2, 162.1, 163, 183.2 or 183.21 to any person, and the person shall exercise those powers in accordance with the terms of the delegation.
 
 ### Section 60
 
 The heading "Operating Licences and Authorization for Work" before section 138 of the Act is replaced by the following:
 
 
-#### **Petroleum** Operating Licences and **Authorizations**
-
-
-> **Explanatory Note**:
-> Existing text of the heading:
-> *Existing Text*:
+#### Petroleum Operating Licences and Authorizations
 
 ### Section 61
 
@@ -1285,7 +1005,7 @@ The heading "Operating Licences and Authorization for Work" before section 138 o
 
 ### Section 138
 
-      **(1)** The **Regulator** may, on application made in the form and containing the information fixed by it, and made in the prescribed manner, issue **in relation to petroleum-related works or activities**
+      **(1)** The Regulator may, on application made in the form and containing the information fixed by it, and made in the prescribed manner, issue in relation to petroleum-related works or activities
 
   **(2)** Subsection 138(4) of the Act is amended by striking out "and" at the end of paragraph (b) and by adding the following after paragraph (b):
 
@@ -1293,159 +1013,154 @@ The heading "Operating Licences and Authorization for Work" before section 138 o
 
 ### Section 62
 
-Sections 138.01 and 138.02 of the Act are replaced by the following:
+  ****(1)**** **Section** 138.01 of the Act **is** replaced by the following:
 
 
 #### Offshore Renewable Energy Authorizations
 
 ### Section 138.01
 
-  **(1)** The Regulator may, on application containing any information required by the Regulator or prescribed, issue an authorization with respect to each work or activity proposed to be carried out in relation to an offshore renewable energy project.
+      **(1)** The Regulator may, on application containing any information required by the Regulator or prescribed, issue an authorization with respect to each work or activity proposed to be carried out in relation to an offshore renewable energy project.
 
-  **(2)** On receipt by the Regulator of an application for an authorization referred to in subsection (1) or of an application to amend the authorization, the Regulator shall provide a copy of the application to the Chief Safety Officer.
+      **(2)** On receipt by the Regulator of an application for an authorization referred to in subsection (1) or of an application to amend the authorization, the Regulator shall provide a copy of the application to the Chief Safety Officer.
 
-  **(3)** An authorization is subject to any terms and conditions be required by the Regulator or prescribed, including terms or conditions with respect to
+      **(3)** An authorization is subject to any terms and conditions required by the Regulator or prescribed, including terms or conditions with respect to
 
-    approvals;
+        approvals;
 
-    deposits of money;
+        deposits of money;
 
-    liability for loss, damage, costs or expenses related to debris, as defined in subsection 183.17(1);
+        liability for loss, damage, costs or expenses related to debris, as defined in subsection 183.17(1);
 
-    the carrying out of safety studies or environmental programs or studies;
+        the carrying out of safety studies or environmental programs or studies; and
 
-    conditions established under the `Impact Assessment Act`, including those established under section 64 of that Act or by regulations made under paragraph 112(1)(a.2) of that Act; and
+        [*Deleted*]
 
-    certificates of fitness and who may issue them.
+        certificates of fitness and who may issue them.
 
-  **(4)** The terms and conditions shall not be inconsistent with the provisions of this Act or the regulations.
+      **(4)** The terms and conditions shall not be inconsistent with the provisions of this Act or the regulations.
 
-  **(5)** The Regulator may suspend or revoke an authorization referred to in subsection (1) for failure to comply with, contravention of or default in respect of
+      **(5)** The Regulator may suspend or revoke an authorization referred to in subsection (1) for failure to comply with, contravention of or default in respect of
 
-    a term or condition, determined by the Regulator in accordance with the provisions of this Part or Part III.1 or prescribed under either of those Parts, subject to which the authorization was issued;
+        a term or condition, determined by the Regulator in accordance with the provisions of this Part or Part III.1 or prescribed under either of those Parts, subject to which the authorization was issued;
 
-    a fee or charge payable in accordance with regulations made under section 29.1;
+        a fee or charge payable in accordance with regulations made under section 29.1;
 
-    a requirement undertaken in a declaration referred to in subsection 139.1(2);
+        a requirement undertaken in a declaration referred to in subsection 139.1(2);
 
-    subsection 139.1(3), 183.2(3) or 183.21(2);
+        subsection 139.1(3), 183.2(3) or 183.21(2);
 
-    any provision of Part III.1; or
+        any provision of Part III.1; or
 
-    any applicable regulation.
+        any applicable regulation.
 
 
-#### Impact Assessment
+## Impact Assessment
+
+      **(2)** *Subsection 138.01(3) of the Act is amended by striking out "and" at the end of paragraph (d) and by adding the following after paragraph (d):*
+
+        conditions established under the `Impact Assessment Act`, including those established under section 64 of that Act or by regulations made under paragraph 112(1)(a.2) of that Act; and
+
+### Section 62.1
+
+    The Act is amended by adding the following after the heading "Impact Assessment" after section 138.01:
 
 ### Section 138.011
 
-  **(1)** For the purposes of this section and sections 138.012 to 138.016, **designated project** means a designated project, as defined in section 2 of the `Impact Assessment Act`, that is a work or activity referred to in section 137 or 137.01 of this Act.
+      **(1)** For the purposes of this section and sections 138.012 to 138.016, **designated project** means a designated project, as defined in section 2 of the `Impact Assessment Act`, that is a work or activity referred to in section 137 or 137.01 of this Act.
 
-  **(2)** If an application for an authorization made under paragraph 138(1)(b) or subsection 138.01(1) or an application made under subsection 139(2) is in respect of a designated project, the Regulator may not make a determination respecting that application before
+      **(2)** If an application for an authorization made under paragraph 138(1)(b) or subsection 138.01(1) or an application made under subsection 139(2) is in respect of a designated project, the Regulator may not make a determination respecting that application before
 
-    the Impact Assessment Agency of Canada decides, under subsection 16(1) of the `Impact Assessment Act`, that an impact assessment of that project is not required; or
+        the Impact Assessment Agency of Canada decides, under subsection 16(1) of the `Impact Assessment Act`, that an impact assessment of that project is not required; or
 
-    the Minister of the Environment has issued a decision statement under section 65 of that Act.
+        the Minister of the Environment has issued a decision statement under section 65 of that Act.
 
-  **(3)** If the Minister of the Environment considers designating, under section 9 of the `Impact Assessment Act`, a work or activity referred to in section 137 or 137.01 of this Act, the Chairperson of the Regulator shall provide the Minister with comments respecting this designation.
+      **(3)** If the Minister of the Environment considers designating, under section 9 of the `Impact Assessment Act`, a work or activity referred to in section 137 or 137.01 of this Act, the Chairperson of the Regulator shall provide the Minister with comments respecting this designation.
 
-  **(4)** Before providing the Minister of the Environment with comments, the Chairperson of the Regulator may consult with the Federal Minister and the Provincial Minister and, in that event, the Chairperson shall consult with both Ministers.
+      **(4)** Before providing the Minister of the Environment with comments, the Chairperson of the Regulator may consult with the Federal Minister and the Provincial Minister and, in that event, the Chairperson shall consult with both Ministers.
 
 ### Section 138.012
 
-  **(1)** The Regulator shall provide the Impact Assessment Agency of Canada, on request and within the period specified by the Agency under subsection 13(1) of the `Impact Assessment Act`, with any specialist or expert information or knowledge that the Regulator possesses.
+      **(1)** The Regulator shall provide the Impact Assessment Agency of Canada, on request and within the period specified by the Agency under subsection 13(1) of the `Impact Assessment Act`, with any specialist or expert information or knowledge that the Regulator possesses.
 
-  **(2)** The Regulator shall, on the Agency's request, engage the proponent of the designated project in order to specify to the proponent the information, if any, that the Regulator may require in order to exercise its powers or perform its duties or functions with respect to that project.
+      **(2)** The Regulator shall, on the Agency's request **made under subsection 13(2) of the `Impact Assessment Act`**, engage the proponent of the designated project in order to specify to the proponent the information, if any, that the Regulator may require in order to exercise its powers or perform its duties or functions with respect to that project.
 
-  **(3)** The Chairperson of the Regulator shall provide the Agency with comments for any work or activity referred to in section 137 or 137.01 that is the subject of a notice posted under subsection 15(3) of the `Impact Assessment Act` in order to assist the Agency to decide whether an impact assessment of that work or activity is required.
+      **(3)** The Chairperson of the Regulator shall provide the Agency with comments for any work or activity referred to in section 137 or 137.01 that is the subject of a notice posted under subsection 15(3) of the `Impact Assessment Act` in order to assist the Agency to decide whether an impact assessment of that work or activity is required.
 
-  **(4)** Before providing the Agency with comments, the Chairperson of the Regulator may consult with the Federal Minister and the Provincial Minister and, in that event, the Chairperson shall consult with both Ministers.
+      **(4)** Before providing the Agency with comments, the Chairperson of the Regulator may consult with the Federal Minister and the Provincial Minister and, in that event, the Chairperson shall consult with both Ministers.
 
-  **(5)** If the Agency decides that an impact assessment of the designated project is required, the Chairperson of the Regulator shall provide the Agency with comments respecting the time limits referred to in subsections 28(2) and 37(1) of the `Impact Assessment Act` within which the impact assessment report shall be submitted to the Minister of the Environment and within which any recommendations shall be posted on the Internet site established by the Agency.
+      **(5)** If the Agency decides that an impact assessment of the designated project is required, the Chairperson of the Regulator shall provide the Agency with comments respecting the time limits referred to in subsections 28(2) and 37(1) of the `Impact Assessment Act` within which the impact assessment report shall be submitted to the Minister of the Environment and within which any recommendations shall be posted on the Internet site established by the Agency.
 
-  **(6)** The Chairperson of the Regulator shall provide the Minister of the Environment with comments respecting any extension to the time limits that is considered under subsection 28(6) or (7) or 37(3) or (4) of the `Impact Assessment Act`.
+      **(6)** The Chairperson of the Regulator shall provide the Minister of the Environment with comments respecting any extension to the time limits that is considered under subsection 28(6) or (7) or 37(3) or (4) of the `Impact Assessment Act`.
 
-  **(7)** Before providing the Minister of the Environment with comments, the Chairperson of the Regulator may consult with the Federal Minister and the Provincial Minister and, in that event, the Chairperson shall consult with both Ministers.
+      **(7)** Before providing the Minister of the Environment with comments, the Chairperson of the Regulator may consult with the Federal Minister and the Provincial Minister and, in that event, the Chairperson shall consult with both Ministers.
 
-  **(8)** If the Agency decides that an impact assessment of the designated project is required, the Regulator shall provide the Agency with comments respecting
+      **(8)** If the Agency decides that an impact assessment of the designated project is required, the Regulator shall provide the Agency with comments respecting
 
-    the scope of the factors that the Agency takes into account in determining, under subsection 18(1.2) of the `Impact Assessment Act`, what information or which studies it considers necessary and that it may require from the proponent for the conduct of the impact assessment;
+        the scope of the factors that the Agency takes into account in determining, under subsection 18(1.2) of the `Impact Assessment Act`, what information or which studies it considers necessary and that it may require from the proponent for the conduct of the impact assessment;
 
-    the information or studies that the Regulator considers necessary for the conduct of the impact assessment or preparation of the impact assessment report, as the case may be, and that the Agency may require from the proponent under paragraph 18(1)(a), subsections 19(3) and 26(2) and section 38 of that Act; and
+        the information or studies that the Regulator considers necessary for the conduct of the impact assessment or preparation of the impact assessment report, as the case may be, and that the Agency may require from the proponent under paragraph 18(1)(a), subsections 19(3) and 26(2) and section 38 of that Act; and
 
-    whether the proponent has provided the Agency with all of the information or studies necessary for the conduct of the impact assessment or preparation of the impact assessment report.
+        whether the proponent has provided the Agency with all of the information or studies necessary for the conduct of the impact assessment or preparation of the impact assessment report.
 
 ### Section 138.013
 
-The Regulator shall provide the Impact Assessment Agency of Canada or a review panel, on request and within the period specified by the Agency or panel under section 23 of the `Impact Assessment Act`, with any specialist or expert information or knowledge that the Regulator possesses.
+    The Regulator shall provide the Impact Assessment Agency of Canada or a review panel, on request and within the period specified by the Agency or **review** panel under section 23 of the `Impact Assessment Act`, with any specialist or expert information or knowledge that the Regulator possesses.
 
 ### Section 138.014
 
-If the Impact Assessment Agency of Canada or review panel makes recommendations respecting a designated project to assist the Minister of the Environment in establishing conditions under section 64 of the `Impact Assessment Act`, including respecting mitigation measures, a follow-up program or an adaptive management plan, the Regulator shall provide the Agency or review panel, as the case may be, with comments respecting those conditions.
+    If the Impact Assessment Agency of Canada or review panel **is to make** recommendations respecting a designated project to assist the Minister of the Environment in establishing conditions under section 64 of the `Impact Assessment Act`, including respecting mitigation measures, a follow-up program or an adaptive management plan, the Regulator shall provide the Agency or review panel, as the case may be, with comments respecting those conditions.
+
+### Section 62.2
+
+    Section 138.02 of the Act is replaced by the following:
 
 ### Section 138.015
 
-Every federal authority, as defined in section 2 of the `Impact Assessment Act`, shall provide the Regulator, on request and within the period specified by the Regulator, with any specialist or expert information or knowledge the authority possesses and that the Regulator may require in order to
+    Every federal authority, as defined in section 2 of the `Impact Assessment Act`, shall provide the Regulator, on request and within the period specified by the Regulator, with any specialist or expert information or knowledge **that** the authority possesses and that the Regulator may require in order to
 
-decide whether to authorize a work or activity under subsection 138(1) or 138.01(1);
+    decide whether to authorize a work or activity under subsection 138(1) or 138.01(1);
 
-decide whether to approve a development plan under subsection 139(4) or any amendment to that plan under subsection 139(5); or
+    decide whether to approve a development plan under subsection 139(4) or any amendment to that plan under subsection 139(5); or
 
-conduct a regional assessment under section 138.017 or a strategic assessment under section 138.018.
+    conduct a regional assessment under section 138.017 or a strategic assessment under section 138.018.
 
 ### Section 138.016
 
-The Regulator shall provide an authority, as defined in section 81 of the `Impact Assessment Act`, on request and within the period specified by the authority under section 85 of that Act, with any specialist or expert information or knowledge that the Regulator possesses respecting a project, as defined in section 81 of that Act.
+    The Regulator shall provide an authority, as defined in section 81 of the `Impact Assessment Act`, on request and within the period specified by the authority under section 85 of that Act, with any specialist or expert information or knowledge that the Regulator possesses respecting a project, as defined in section 81 of that Act.
 
 
 #### Regional Assessments and Strategic Assessments
 
 ### Section 138.017
 
-  **(1)** The Regulator may conduct a regional assessment of the effects of any existing or future work or activity referred to in sections 137 or 137.01.
+      **(1)** The Regulator may conduct a regional assessment of the effects of any existing or future work or activity referred to in sections 137 or 137.01.
 
-  **(2)** The Federal Minister and the Provincial Minister may enter into an agreement with any jurisdiction authorized under any other federal or provincial legislation to conduct a regional assessment of the effects of any existing or future work or activity referred to in sections 137 or 137.01, including to specify the time limits and terms of that regional assessment.
+      **(2)** The Federal Minister and the Provincial Minister may enter into an agreement with any jurisdiction authorized under any other federal or provincial legislation to conduct a regional assessment of the effects of any existing or future work or activity referred to in sections 137 or 137.01, including to specify the time limits and terms of that regional assessment.
 
 ### Section 138.018
 
-  **(1)** The Regulator may conduct a strategic assessment of any proposed or existing policy, plan or program respecting the offshore area or of any issue that is relevant to any existing or future work or activity referred to in sections 137 or 137.01.
+      **(1)** The Regulator may conduct a strategic assessment of any proposed or existing policy, plan or program respecting the offshore area or of any issue that is relevant to any existing or future work or activity referred to in sections 137 or 137.01.
 
-  **(2)** The Federal Minister and the Provincial Minister may enter into an agreement with any jurisdiction authorized under any other federal or provincial legislation to conduct a strategic assessment of any proposed or existing policy, plan or program respecting the offshore area or of any issue that is relevant to any existing or future work or activity referred to in sections 137 or 137.01, including to specify the time limits and terms of that strategic assessment.
+      **(2)** The Federal Minister and the Provincial Minister may enter into an agreement with any jurisdiction authorized under any other federal or provincial legislation to conduct a strategic assessment of any proposed or existing policy, plan or program respecting the offshore area or of any issue that is relevant to any existing or future work or activity referred to in sections 137 or 137.01, including to specify the time limits and terms of that strategic assessment.
 
 ### Section 138.019
 
-The Regulator shall provide the Impact Assessment Agency of Canada or a committee, on request and within the period specified under section 100 of the `Impact Assessment Act`, with any specialist or expert information or knowledge that the Regulator possesses.
+    The Regulator shall provide the Impact Assessment Agency of Canada or a committee, on request and within the period specified **by the Agency or committee** under section 100 of the `Impact Assessment Act`, with any specialist or expert information or knowledge that the Regulator possesses.
 
 ### Section 138.02
 
-If the Minister of the Environment shall, for the purposes of any regional assessment of the effects of any existing or future work or activity referred to in sections 137 or 137.01 or for the purposes of any strategic assessment in the offshore area, establish the terms of reference and appoint members of a committee or establish the terms of reference of the Impact Assessment Agency of Canada under section 96 of the `Impact Assessment Act`, the Federal Minister, the Provincial Minister and the Chairperson of the Regulator shall provide the Minister of the Environment with comments respecting those terms of reference or appointments.
+    If the Minister of the Environment shall, for the purposes of any regional assessment of the effects of any existing or future work or activity referred to in sections 137 or 137.01 or for the purposes of any strategic assessment in the offshore area, establish the terms of reference and appoint members of a committee or establish the terms of reference of the Impact Assessment Agency of Canada under section 96 of the `Impact Assessment Act`, the Federal Minister, the Provincial Minister and the Chairperson of the Regulator shall provide the Minister of the Environment with comments respecting those terms of reference or appointments.
 
 
 #### Participant Funding Program
 
 ### Section 138.021
 
-The Regulator may establish a participant funding program to facilitate the participation of the public and any Indigenous peoples of Canada in consultations concerning any matter respecting the offshore area.
+    The Regulator may establish a participant funding program to facilitate the participation of the public and any Indigenous peoples of Canada in consultations concerning any matter respecting the offshore area.
 
 
 #### Right of Entry
-
-
-> **Explanatory Note**:
-> Existing text of sections 138.01 and 138.02:
-> *Existing Text*:
-> > If an application for an authorization under paragraph 138(1)(b) or an application made under subsection 139(2) is in respect of a physical activity described in subsection (2), the Board shall issue the decision statement referred to in section 54 of the `Canadian Environmental Assessment Act, 2012` in respect of the physical activity within 12 months after the day on which the applicant has, in the Board's opinion, provided a complete application.
-> > The physical activity in question is a physical activity that:
-> > is carried out in the offshore area;
-> > is designated by regulations made under paragraph 84(a) of the `Canadian Environmental Assessment Act, 2012` or in an order made under subsection 14(2) of that Act;
-> > is one for which the Board is the responsible authority as defined in subsection 2(1) of that Act; and
-> > is one in relation to which an environmental assessment was not referred to a review panel under section 38 of that Act.
-> > It includes any physical activity that is incidental to the physical activity described in paragraphs (a) to (d).
-> > If the Board requires the applicant to provide information or undertake a study with respect to the physical activity, the period that is taken by the applicant, in the Board's opinion, to comply with the requirement is not included in the calculation of the period referred to in subsection (1).
-> > The Board shall, without delay, make public
-> > the date on which the 12-month period referred to in subsection (1) begins; and
-> > the dates on which the period referred to in subsection (3) begins and ends.
-> > The Board may establish a participant funding program to facilitate the participation of the public in the environmental assessment as defined in subsection 2(1) of the `Canadian Environmental Assessment Act, 2012` of any physical activity described in subsection 138.01(2) that meets the condition set out in paragraph 58(1)(a) of that Act and that is the subject of an application for an authorization under paragraph 138(1)(b) or an application made under subsection 139(2).
 
 ### Section 63
 
@@ -1453,7 +1168,7 @@ The Regulator may establish a participant funding program to facilitate the part
 
 ### Section 138.1
 
-      **(1)** **Sous réserve du paragraphe (2), toute personne** peut pénétrer dans la zone extracôtière et y exercer les activités autorisées sous le régime de l'alinéa 138(1)b) pour la recherche et l'exploitation de pétrole ou de gaz.
+      **(1)** Sous réserve du paragraphe (2), toute personne peut pénétrer dans la zone extracôtière et y exercer les activités autorisées sous le régime de l'alinéa 138(1)b) pour la recherche et l'exploitation de pétrole ou de gaz.
 
   **(2)** Subsection 138.1(2) of the Act is replaced by the following:
 
@@ -1461,7 +1176,7 @@ The Regulator may establish a participant funding program to facilitate the part
 
     **(1.2)** Subject to subsection (2), any person may enter on and use any portion of the offshore area in order to make contact with, alter or remove an abandoned facility if they have been authorized to do so under subsection 183.3(2).
 
-    **(2)** **If** a person occupies a portion of the offshore area under a lawful right or title, other than an authorization under paragraph 138(1)(b) **or subsection 138.01(1)** or an interest as defined in **section 47**, no person may enter on or use that portion for a purpose referred to in **any of subsections** (1) **to (1.2)** without the consent of the occupier or, **if** consent has been refused, except in accordance with the terms and conditions imposed by a decision of an arbitrator made in accordance with the regulations.
+    **(2)** If a person occupies a portion of the offshore area under a lawful right or title, other than an authorization under paragraph 138(1)(b) or subsection 138.01(1) or an interest as defined in section 47, no person may enter on or use that portion for a purpose referred to in any of subsections (1) to (1.2) without the consent of the occupier or, if consent has been refused, except in accordance with the terms and conditions imposed by a decision of an arbitrator made in accordance with the regulations.
 
 ### Section 64
 
@@ -1469,15 +1184,9 @@ Section 138.2 of the Act is replaced by the following:
 
 ### Section 138.2
 
-  ****(1)**** The **Regulator** shall, before issuing an authorization for a work or activity referred to in paragraph 138(1)(b), consider the safety of the work or activity by reviewing, in consultation with the Chief Safety Officer, the system as a whole and its components, including its structures, facilities, equipment, operating procedures and personnel.
+  **(1)** The Regulator shall, before issuing an authorization for a work or activity referred to in paragraph 138(1)(b), consider the safety of the work or activity by reviewing, in consultation with the Chief Safety Officer, the system as a whole and its components, including its structures, facilities, equipment, operating procedures and personnel.
 
   **(2)** The Regulator shall, before a work or activity referred to in subsection 138.01(1) commences, consider the safety of the work or activity by reviewing, in consultation with the Chief Safety Officer, the system as a whole and its components, including its structures, facilities, equipment, operating procedures and personnel.
-
-
-> **Explanatory Note**:
-> Existing text of section 138.2:
-> *Existing Text*:
-> > The Board shall, before issuing an authorization for a work or activity referred to in paragraph 138(1)(b), consider the safety of the work or activity by reviewing, in consultation with the Chief Safety Officer, the system as a whole and its components, including its structures, facilities, equipment, operating procedures and personnel.
 
 ### Section 65
 
@@ -1485,15 +1194,9 @@ Section 138.3 of the Act is replaced by the following:
 
 ### Section 138.3
 
-  ****(1)**** The **Regulator** shall, before issuing an authorization for a work or activity referred to in paragraph 138(1)(b), ensure that the applicant has complied with the requirements of subsections 162.1(1) or (2) and 163(1) or (1.01) in respect of that work or activity.
+  **(1)** The Regulator shall, before issuing an authorization for a work or activity referred to in paragraph 138(1)(b), ensure that the applicant has complied with the requirements of subsections 162.1(1) or (2) and 163(1) or (1.01) in respect of that work or activity.
 
   **(2)** The Regulator shall ensure that an applicant or holder of an authorization under subsection 138.01(1) has, prior to a date determined by regulations or, in the absence of regulations, prior to commencing a work or activity under that authorization, complied with the requirements of subsections 183.2(1) and 183.21(1) in respect of that work or activity.
-
-
-> **Explanatory Note**:
-> Existing text of section 138.3:
-> *Existing Text*:
-> > The Board shall, before issuing an authorization for a work or activity referred to in paragraph 138(1)(b), ensure that the applicant has complied with the requirements of subsections 162.1(1) or (2) and 163(1) or (1.01) in respect of that work or activity.
 
 ### Section 66
 
@@ -1511,17 +1214,13 @@ Section 139 of the Act is amended by adding the following after subsection (6):
 
 **(12)** Subsections (7) to (11) apply, with any necessary modifications, to a proposed amendment to a development plan to which a work or activity in a transboundary pool relates or to any requirement to which the approval of the plan is subject.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 67
 
   **(1)** The portion of subsection 139.1(1) of the Act before paragraph (a) is replaced by the following:
 
 ### Section 139.1
 
-      **(1)** No authorization under paragraph 138(1)(b) shall be issued unless the **Regulator** has received, from the applicant for the authorization, a declaration in the form fixed by the **Regulator** that states that
+      **(1)** No authorization under paragraph 138(1)(b) shall be issued unless the Regulator has received, from the applicant for the authorization, a declaration in the form fixed by the Regulator that states that
 
   **(2)** Subsection 139.1(3) of the Act is replaced by the following:
 
@@ -1531,19 +1230,14 @@ Section 139 of the Act is amended by adding the following after subsection (6):
 
       the applicant or holder shall ensure, so long as the work or activity that is authorized continues, that the equipment and facilities continue to be fit for the purposes for which they are used, the operating procedures continue to be appropriate for those uses, and the personnel continue to be so qualified and competent.
 
-    **(3)** **If** the equipment, an installation, **a facility**, the operating procedures or any of the personnel specified in **a** declaration changes and no longer conforms to the declaration, the holder of the authorization **that provided the declaration** shall provide the **Regulator** with a new declaration as soon as **the circumstances permit** after the change occurs.
+    **(3)** If the equipment, an installation, a facility, the operating procedures or any of the personnel specified in a declaration changes and no longer conforms to the declaration, the holder of the authorization that provided the declaration shall provide the Regulator with a new declaration as soon as the circumstances permit after the change occurs.
 
 ### Section 68
 
 The heading before section 139.2 of the Act is replaced by the following:
 
 
-#### **Petroleum-related** Certificates
-
-
-> **Explanatory Note**:
-> Existing text of the heading:
-> *Existing Text*:
+#### Petroleum-related Certificates
 
 ### Section 69
 
@@ -1551,58 +1245,46 @@ The heading before section 139.2 of the Act is replaced by the following:
 
 ### Section 140.2
 
-      **(1)** La propriété des hydrocarbures produits au cours d'essais **d'écoulement de formation** prolongés revient à la personne qui les effectue conformément à une autorisation délivrée en application de l'article 138, aux approbations et conditions dont cette autorisation dépend ou aux règlements, même si elle n'est pas titulaire de la licence de production requise par la partie II.
+      **(1)** La propriété des hydrocarbures produits au cours d'essais d'écoulement de formation prolongés revient à la personne qui les effectue conformément à une autorisation délivrée en application de l'article 138, aux approbations et conditions dont cette autorisation dépend ou aux règlements, même si elle n'est pas titulaire de la licence de production requise par la partie II.
 
   **(2)** Subsection 140.2(3) of the French version of the Act is replaced by the following:
 
-    **(3)** Le présent article ne s'applique qu'aux essais **d'écoulement de formation** prolongés dont les résultats donnent suffisamment de renseignements pour la détermination du meilleur procédé de récupération pour le réservoir, de la capacité du réservoir ou des limites de productivité de tout puits d'exploitation du réservoir et qui ne mettent pas en danger la récupération finale pour ce réservoir.
+    **(3)** Le présent article ne s'applique qu'aux essais d'écoulement de formation prolongés dont les résultats donnent suffisamment de renseignements pour la détermination du meilleur procédé de récupération pour le réservoir, de la capacité du réservoir ou des limites de productivité de tout puits d'exploitation du réservoir et qui ne mettent pas en danger la récupération finale pour ce réservoir.
 
 ### Section 70
 
 The heading "Regulation of Operations" before section 149 of the Act is replaced by the following:
 
 
-### Regulation of Operations — **Petroleum**
-
-
-> **Explanatory Note**:
-> Existing text of the heading:
-> *Existing Text*:
+### Regulation of Operations — Petroleum
 
 ### Section 71
 
   **(1)** Paragraph 149(1)(a) of the Act is replaced by the following:
 
-    defining, **in relation to petroleum-related works or activities**, "oil" and "gas" for the purposes of Divisions I and II, "installation" and "equipment" for the purposes of sections 139.1 and 139.2 and "serious" for the purposes of section 165;
+    defining, in relation to petroleum-related works or activities, "oil" and "gas" for the purposes of Divisions I and II, "installation" and "equipment" for the purposes of sections 139.1 and 139.2 and "serious" for the purposes of section 165;
 
   **(2)** Subparagraph 149(1)(c)(ii) of the Act is replaced by the following:
 
-    the removal of petroleum from the offshore area, **including in relation to the management of access by third parties to existing offshore infrastructure for the purpose of storing, processing and transporting petroleum and in relation to the amounts that may be charged for that access**, and
+    the removal of petroleum from the offshore area, including in relation to the management of access by third parties to existing offshore infrastructure for the purpose of storing, processing and transporting petroleum and in relation to the amounts that may be charged for that access, and
 
   **(3)** Paragraph 149(1)(d) of the Act is replaced by the following:
 
-    concerning **arbitration relating to petroleum-related works or activities** for the purposes of subsection 138.1(2), including the costs of or incurred in relation to such arbitrations;
+    concerning arbitration relating to petroleum-related works or activities for the purposes of subsection 138.1(2), including the costs of or incurred in relation to such arbitrations;
 
   **(4)** Paragraph 149(1)(g) of the Act is replaced by the following:
 
-    prohibiting, **in relation to petroleum-related works or activities**, the introduction into the environment of substances, classes of substances and forms of energy, in prescribed circumstances;
+    prohibiting, in relation to petroleum-related works or activities, the introduction into the environment of substances, classes of substances and forms of energy, in prescribed circumstances;
 
   **(5)** Paragraphs 149(1)(h.3) and (i) of the Act are replaced by the following:
 
-    concerning the creation, conservation and production of records **relating to petroleum-related works or activities**; and
+    concerning the creation, conservation and production of records relating to petroleum-related works or activities; and
 
-    prescribing, **in relation to petroleum-related works or activities**, anything that is required to be prescribed for the purposes of this Part.
+    prescribing, in relation to petroleum-related works or activities, anything that is required to be prescribed for the purposes of this Part.
 
 ### Section 72
 
 Section 150 of the Act is repealed.
-
-
-> **Explanatory Note**:
-> Existing text of section 150:
-> *Existing Text*:
-> > Subject to subsection (2), a copy of each regulation that the Governor in Council proposes to make under this Division shall be published in the `Canada Gazette` and a reasonable opportunity shall be afforded to interested persons to make representations to the Federal Minister with respect thereto.
-> > No proposed regulation need be published more than once under subsection (1) whether or not it is altered or amended after such publication as a result of representations made by interested persons as provided in that subsection.
 
 ### Section 73
 
@@ -1610,32 +1292,27 @@ Section 150 of the Act is repealed.
 
 ### Section 151.1
 
-      **(1)** The **Regulator** may issue and publish, in any manner the **Regulator** considers appropriate, guidelines and interpretation notes with respect to the application and administration of sections 45, 138 and 139 and subsection 163(1.01) and any regulations **respecting petroleum-related works or activities** made under sections 29.1 and 149.
+      **(1)** The Regulator may issue and publish, in any manner the Regulator considers appropriate, guidelines and interpretation notes with respect to the application and administration of sections 45, 138 and 139 and subsection 163(1.01) and any regulations respecting petroleum-related works or activities made under sections 29.1 and 149.
 
   **(2)** Subsection 151.1(2) of the French version of the Act is replaced by the following:
 
-    **(2)** **Les lignes directrices** et textes **interprétatifs** sont réputés ne pas être des textes réglementaires au sens de la `Loi sur les textes réglementaires`.
+    **(2)** Les lignes directrices et textes interprétatifs sont réputés ne pas être des textes réglementaires au sens de la `Loi sur les textes réglementaires`.
 
 ### Section 74
 
 The heading of Division II of Part III of the Act is replaced by the following:
 
 
-### **Petroleum** Production Arrangements
+### Petroleum Production Arrangements
 
 
-#### **Definitions**
-
-
-> **Explanatory Note**:
-> Existing text of the heading:
-> *Existing Text*:
+#### Definitions
 
 ### Section 75
 
   **(1)** The definition **unitization order** in section 166 of the Act is replaced by the following:
 
-    **unitization order** means an order made under section 176 **or subsection 183.12(1)**; (**arrêté d'union**)
+    **unitization order** means an order made under section 176 or subsection 183.12(1); (**arrêté d'union**)
 
   **(2)** Section 166 of the Act is amended by adding the following in alphabetical order:
 
@@ -1740,7 +1417,7 @@ The Act is amended by adding the following after section 183:
 
   **(3)** The unit agreement shall include the details referred to in paragraphs 175(2)(a) to (d) and the unit operating agreement shall include the details referred to in paragraphs 175(3)(a) to (e).
 
-  **(4)** The unit agreement and the unit operating agreement are subject to the joint approval of the Regulator and the appropriate authority, but they are only to be approved if all the royalty owners and all the working interest owners in the transboundary pool are parties to those agreements.
+  **(4)** The Regulator and the appropriate authority **may approve** the unit agreement if all the royalty owners and all the working interest owners in the transboundary pool are parties to **it; the Regulator and the appropriate authority may approve** the unit operating agreement **if all the working interest owners in the transboundary pool** are **parties to it**.
 
   **(5)** An authorization under paragraph 138(1)(b) for a work or activity proposed to be carried on in relation to the exploitation of a transboundary pool shall not be issued if the unit agreement and the unit operating agreement have not been jointly approved by the Regulator and the appropriate authority.
 
@@ -1822,7 +1499,7 @@ When a joint exploitation agreement is entered into in respect of a transboundar
 
   **(5)** If the expert finds that, on the day on which the hearing begins, one or more working interest owners who own 65% or more of the working interests and one or more royalty owners who own 65% or more of the royalty interests in the unit area have consented to the proposed amendment, the expert may end the hearing and request that the Regulator amend the unitization order in accordance with the amendment. If the expert makes such a request, the expert shall also request that the appropriate authority amend its equivalent order in the same way.
 
-  **(6)** In respect of any transboundary pool extending into the jurisdiction of a foreign government, the interested persons referred to in subsection (3) are representatives of each country in question and, on the conclusion of the hearing, the expert shall request that the interested persons ensure that the Regulatory and the appropriate authority take the measures referred to in subsections (4) and (5).
+  **(6)** In respect of any transboundary pool extending into the jurisdiction of a foreign government, the interested persons referred to in subsection (3) are representatives of each country in question and, on the conclusion of the hearing, the expert shall request that the interested persons ensure that the **Regulator** and the appropriate authority take the measures referred to in subsections (4) and (5).
 
 ### Section 183.14
 
@@ -2073,17 +1750,13 @@ Subject to section 7, the Governor in Council may make regulations respecting ab
 
   **(3)** Subject to section 7, the Governor in Council may make regulations respecting the circumstances in which or conditions under which an order under subsection (2) is not necessary.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 77
 
   **(1)** Subsection 185(1) of the Act is replaced by the following:
 
 ### Section 185
 
-      **(1)** The Committee may of its own motion or at the request of the **Regulator** state a case, in writing, for the opinion of the Supreme Court of Newfoundland and Labrador on any question that in the opinion of the Committee is a question of law or of the jurisdiction of the Committee.
+      **(1)** The Committee may of its own motion or at the request of the Regulator state a case, in writing, for the opinion of the Supreme Court of Newfoundland and Labrador on any question that in the opinion of the Committee is a question of law or of the jurisdiction of the Committee.
 
   **(2)** Subsection 185(2) of the English version of the Act is replaced by the following:
 
@@ -2107,25 +1780,14 @@ Subsection 193(1) of the Act is replaced by the following:
 
 ### Section 193
 
-  **(1)** If an operational safety officer or the Chief Safety Officer, on reasonable grounds, is of the opinion that continuation of an operation in relation to the exploration or drilling for or the production, conservation, processing or transportation of petroleum **or in relation to an offshore renewable energy project** in any portion of the offshore area is likely to result in serious bodily injury, the operational safety officer or Chief Safety Officer, as the case may be, may order that the operation cease or be continued only in accordance with the terms of the order.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 193(1):
-> *Existing Text*:
-> > If an operational safety officer or the Chief Safety Officer, on reasonable grounds, is of the opinion that continuation of an operation in relation to the exploration or drilling for or the production, conservation, processing or transportation of petroleum in any portion of the offshore area is likely to result in serious bodily injury, the operational safety officer or Chief Safety Officer, as the case may be, may order that the operation cease or be continued only in accordance with the terms of the order.
+  **(1)** If an operational safety officer or the Chief Safety Officer, on reasonable grounds, is of the opinion that continuation of an operation in relation to the exploration or drilling for or the production, conservation, processing or transportation of petroleum or in relation to an offshore renewable energy project in any portion of the offshore area is likely to result in serious bodily injury, the operational safety officer or Chief Safety Officer, as the case may be, may order that the operation cease or be continued only in accordance with the terms of the order.
 
 ### Section 80
 
 The heading before section 193.2 of the Act is replaced by the following:
 
 
-#### Installation **or Facility** Manager
-
-
-> **Explanatory Note**:
-> Existing text of the heading:
-> *Existing Text*:
+#### Installation or Facility Manager
 
 ### Section 81
 
@@ -2145,35 +1807,23 @@ The Act is amended by adding the following after section 193.2:
 
   **(3)** In a prescribed emergency situation, a facility manager's powers are extended so that they also apply to each person in charge of a vessel, vehicle or aircraft that is at the facility or that is leaving or approaching it.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 82
 
   **(1)** Paragraph 194(1)(e) of the English version of the Act is replaced by the following:
 
-    undertakes or carries on a work or activity without an authorization under paragraph 138(1)(b) or without complying with the approvals or requirements, determined by the **Regulator** in accordance with the provisions of this Part or granted or prescribed under this Part, of an authorization issued under that paragraph;
+    undertakes or carries on a work or activity without an authorization under paragraph 138(1)(b) or without complying with the approvals or requirements, determined by the Regulator in accordance with the provisions of this Part or granted or prescribed under this Part, of an authorization issued under that paragraph;
 
   **(2)** Subsection 194(1) of the Act is amended by striking out "or" at the end of paragraph (e) and by replacing paragraph (f) with the following:
 
     undertakes or carries on a work or activity without an authorization under subsection 138.01(1) or without complying with the terms and conditions of the authorization that were determined by the Regulator in accordance with the provisions of this Part or granted or prescribed under this Part; or
 
-    fails to comply with a direction, requirement or order of an operational safety officer, the Chief Safety Officer, a conservation officer or the Chief Conservation Officer or with an order of an installation manager, **a facility manager** or the Committee.
+    fails to comply with a direction, requirement or order of an operational safety officer, the Chief Safety Officer, a conservation officer or the Chief Conservation Officer or with an order of an installation manager, a facility manager or the Committee.
 
 ### Section 83
 
 Paragraph 196(1)(h) of the Act is replaced by the following:
 
-directing the offender to pay to the **Regulator** an amount of money that the court considers appropriate for the purpose of conducting research, education and training in matters related to the protection of the environment, conservation of petroleum resources or safety of petroleum operations **or offshore renewable energy projects**;
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 196(1):
-> *Existing Text*:
-> > If a person is found guilty of an offence under this Part, the court may, having regard to the nature of the offence and the circumstances surrounding its commission, in addition to any other punishment that may be imposed under this Part, make an order that has any or all of the following effects:
-> > 
-> > directing the offender to pay to the Board an amount of money that the court considers appropriate for the purpose of conducting research, education and training in matters related to the protection of the environment, conservation of petroleum resources or safety of petroleum operations;
+directing the offender to pay to the Regulator an amount of money that the court considers appropriate for the purpose of conducting research, education and training in matters related to the protection of the environment, conservation of petroleum resources or safety of petroleum operations or offshore renewable energy projects;
 
 ### Section 84
 
@@ -2181,25 +1831,13 @@ Subsection 202.5(5) of the Act is replaced by the following:
 
 **(5)** A determination made under this section is final and binding and, subject to review by the Supreme Court of Newfoundland and Labrador, is not subject to appeal or to review by any court.
 
-
-> **Explanatory Note**:
-> Existing text of subsection 202.5(5):
-> *Existing Text*:
-> > A determination made under this section is final and binding and, subject to review by the Trial Division of the Supreme Court of Newfoundland and Labrador, is not subject to appeal or to review by any court.
-
 ### Section 85
 
 Subsection 202.9(1) of the Act is replaced by the following:
 
 ### Section 202.9
 
-  **(1)** A penalty constitutes a debt due to **His** Majesty in right of the Province and may be recovered in the Supreme Court of Newfoundland and Labrador.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 202.9(1):
-> *Existing Text*:
-> > A penalty constitutes a debt due to Her Majesty in right of the Province and may be recovered in the Trial Division of the Supreme Court of Newfoundland and Labrador.
+  **(1)** A penalty constitutes a debt due to His Majesty in right of the Province and may be recovered in the Supreme Court of Newfoundland and Labrador.
 
 ### Section 86
 
@@ -2207,19 +1845,13 @@ Subsection 202.91(2) of the Act is replaced by the following:
 
 **(2)** Registration in the Supreme Court of Newfoundland and Labrador of a certificate of non-payment issued under subsection (1) has the same effect as a judgment of that court for a debt of the amount specified in the certificate and all related registration costs.
 
-
-> **Explanatory Note**:
-> Existing text of subsection 202.91(2):
-> *Existing Text*:
-> > Registration in the Trial Division of the Supreme Court of Newfoundland and Labrador of a certificate of non-payment issued under subsection (1) has the same effect as a judgment of that court for a debt of the amount specified in the certificate and all related registration costs.
-
 ### Section 87
 
 The definitions **authorization**, **declaration** and **marine installation or structure** in subsection 205.001(1) of the Act are replaced by the following:
 
-**authorization** means an authorization issued under paragraph 138(1)(b) **or subsection 138.01(1)**. (**autorisation**)
+**authorization** means an authorization issued under paragraph 138(1)(b) or subsection 138.01(1). (**autorisation**)
 
-**declaration** means a declaration referred to in subsection 139.1(1) **or (2)**. (**déclaration**)
+**declaration** means a declaration referred to in subsection 139.1(1) or (2). (**déclaration**)
 
 **marine installation or structure**
 
@@ -2243,35 +1875,13 @@ any vessel, including any supply vessel, standby vessel, shuttle tanker or seism
 
 any ship or vessel within a class of ships or vessels prescribed under paragraph (4)(c). (**ouvrage en mer**)
 
-
-> **Explanatory Note**:
-> Existing text of the definitions:
-> *Existing Text*:
-> > **authorization** means an authorization issued under paragraph 138(1)(b). (**autorisation**)
-> > **declaration** means a declaration referred to in subsection 139.1(1). (**déclaration**)
-> > **marine installation or structure**
-> > includes
-> > any ship, including any ship used for construction, production or diving or for geotechnical or seismic work,
-> > any offshore drilling unit, including a mobile offshore drilling unit,
-> > any production platform, subsea installation, pipeline as defined in section 135, pumping station, living accommodation, storage structure or loading or landing platform, and
-> > any other work, or work within a class of works, prescribed under paragraph (4)(a); but
-> > does not include
-> > any vessel, including any supply vessel, standby vessel, shuttle tanker or seismic chase vessel, that provides any supply or support services to a ship, installation, structure, work or anything else described in paragraph (a), unless the vessel is within a class of vessels that is prescribed under paragraph (4)(b), or
-> > any ship or vessel within a class of ships or vessels prescribed under paragraph (4)(c). (**ouvrage en mer**)
-
 ### Section 88
 
 Subsection 205.003(1) of the Act is replaced by the following:
 
 ### Section 205.003
 
-  **(1)** This Part applies to and in respect of a workplace that is situated within the offshore area for the purposes of the exploration or drilling for — or the production, conservation or processing of — petroleum, **or for the purposes of offshore renewable energy projects**, within the offshore area.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 205.003(1):
-> *Existing Text*:
-> > This Part applies to and in respect of a workplace that is situated within the offshore area for the purposes of the exploration or drilling for — or the production, conservation or processing of — petroleum within the offshore area.
+  **(1)** This Part applies to and in respect of a workplace that is situated within the offshore area for the purposes of the exploration or drilling for — or the production, conservation or processing of — petroleum, or for the purposes of offshore renewable energy projects, within the offshore area.
 
 ### Section 89
 
@@ -2279,23 +1889,15 @@ Sections 205.004 to 205.006 of the Act are replaced by the following:
 
 ### Section 205.004
 
-Despite subsections 123(1) and 168(1) of the `Canada Labour Code` and any other Act of Parliament, Parts II and III of the `Canada Labour Code` do not apply to and in respect of a workplace that is situated within the offshore area for the purposes of the exploration or drilling for — or the production, conservation or processing of — petroleum, **or for the purposes of offshore renewable energy projects**, within the offshore area.
+Despite subsections 123(1) and 168(1) of the `Canada Labour Code` and any other Act of Parliament, Parts II and III of the `Canada Labour Code` do not apply to and in respect of a workplace that is situated within the offshore area for the purposes of the exploration or drilling for — or the production, conservation or processing of — petroleum, or for the purposes of offshore renewable energy projects, within the offshore area.
 
 ### Section 205.005
 
-The `Canadian Human Rights Act` does not apply to or in respect of a workplace that is situated within the offshore area for the purposes of the exploration or drilling for — or the production, conservation or processing of — petroleum, **or for the purposes of offshore renewable energy projects**, within the offshore area.
+The `Canadian Human Rights Act` does not apply to or in respect of a workplace that is situated within the offshore area for the purposes of the exploration or drilling for — or the production, conservation or processing of — petroleum, or for the purposes of offshore renewable energy projects, within the offshore area.
 
 ### Section 205.006
 
-The `Non-smokers' Health Act` does not apply to or in respect of a workplace that is situated within the offshore area for the purposes of the exploration or drilling for — or the production, conservation or processing of — petroleum, **or for the purposes of offshore renewable energy projects**, within the offshore area.
-
-
-> **Explanatory Note**:
-> Existing text of sections 205.004 to 205.006:
-> *Existing Text*:
-> > Despite subsections 123(1) and 168(1) of the `Canada Labour Code` and any other Act of Parliament, Parts II and III of the `Canada Labour Code` do not apply to and in respect of a workplace that is situated within the offshore area for the purposes of the exploration or drilling for — or the production, conservation or processing of — petroleum within the offshore area.
-> > The `Canadian Human Rights Act` does not apply to or in respect of a workplace that is situated within the offshore area for the purposes of the exploration or drilling for — or the production, conservation or processing of — petroleum within the offshore area.
-> > The `Non-smokers' Health Act` does not apply to or in respect of a workplace that is situated within the offshore area for the purposes of the exploration or drilling for — or the production, conservation or processing of — petroleum within the offshore area.
+The `Non-smokers' Health Act` does not apply to or in respect of a workplace that is situated within the offshore area for the purposes of the exploration or drilling for — or the production, conservation or processing of — petroleum, or for the purposes of offshore renewable energy projects, within the offshore area.
 
 ### Section 90
 
@@ -2303,23 +1905,17 @@ Subsection 205.007(1) of the Act is replaced by the following:
 
 ### Section 205.007
 
-  **(1)** Newfoundland and Labrador social legislation and any regulations made under it apply to and in respect of a workplace that is situated within the offshore area for the purposes of the exploration or drilling for — or the production, conservation or processing of — petroleum, **or for the purposes of offshore renewable energy projects**, within the offshore area.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 205.007(1):
-> *Existing Text*:
-> > Newfoundland and Labrador social legislation and any regulations made under it apply to and in respect of a workplace that is situated within the offshore area for the purposes of the exploration or drilling for — or the production, conservation or processing of — petroleum within the offshore area.
+  **(1)** Newfoundland and Labrador social legislation and any regulations made under it apply to and in respect of a workplace that is situated within the offshore area for the purposes of the exploration or drilling for — or the production, conservation or processing of — petroleum, or for the purposes of offshore renewable energy projects, within the offshore area.
 
 ### Section 91
 
   **(1)** Paragraph 205.008(1)(a) of the Act is replaced by the following:
 
-    a marine installation or structure that is situated within the offshore area in connection with the exploration or drilling for — or the production, conservation or processing of — petroleum, **or in connection with offshore renewable energy projects**, within the offshore area and that is in the offshore area for the purpose of becoming, or that is, permanently attached to, permanently anchored to or permanently resting on the seabed or subsoil of the submarine areas of the offshore area;
+    a marine installation or structure that is situated within the offshore area in connection with the exploration or drilling for — or the production, conservation or processing of — petroleum, or in connection with offshore renewable energy projects, within the offshore area and that is in the offshore area for the purpose of becoming, or that is, permanently attached to, permanently anchored to or permanently resting on the seabed or subsoil of the submarine areas of the offshore area;
 
   **(2)** Subsection 205.008(2) of the Act is replaced by the following:
 
-    **(2)** Part I of the `Canada Labour Code` applies to and in respect of a marine installation or structure that is situated within the offshore area in connection with the exploration or drilling for — or the production, conservation or processing of — petroleum, **or in connection with offshore renewable energy projects**, within the offshore area if subsection (1) does not apply to or in respect of the marine installation or structure.
+    **(2)** Part I of the `Canada Labour Code` applies to and in respect of a marine installation or structure that is situated within the offshore area in connection with the exploration or drilling for — or the production, conservation or processing of — petroleum, or in connection with offshore renewable energy projects, within the offshore area if subsection (1) does not apply to or in respect of the marine installation or structure.
 
 ### Section 92
 
@@ -2327,43 +1923,23 @@ Section 205.013 of the Act is renumbered as subsection 205.013(1) and is amended
 
 **(2)** Despite paragraph (1)(q), all or part of a workplace described in paragraph (a) of the definition workplace in subsection 205.001(1) does not have to be inspected at least once a month if that workplace, or that part of the workplace, is normally unattended and is used for the purpose of carrying out an offshore renewable energy project.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 93
 
 Section 205.019 of the Act is amended by adding the following after subsection (1):
 
 **(1.1)** Despite paragraph (1)(p), all or part of a workplace described in paragraph (a) of the definition workplace in subsection 205.001(1) does not have to be inspected at least once a month if that workplace, or that part of the workplace, is normally unattended and is used for the purpose of carrying out an offshore renewable energy project.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 94
 
 Subsection 205.06(5) of the Act is replaced by the following:
 
-**(5)** The costs incurred by the provincial labour relations board in respect of an application made under subsection (1), including the remuneration of its members, shall be paid by the **Regulator**.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 205.06(5):
-> *Existing Text*:
-> > The costs incurred by the provincial labour relations board in respect of an application made under subsection (1), including the remuneration of its members, shall be paid by the Board as defined in section 2.
+**(5)** The costs incurred by the provincial labour relations board in respect of an application made under subsection (1), including the remuneration of its members, shall be paid by the Regulator.
 
 ### Section 95
 
 Subsection 205.063(5) of the Act is replaced by the following:
 
-**(5)** The costs incurred by the provincial labour relations board in respect of an application made under subsection (1), including the remuneration of its members, shall be paid by the **Regulator**.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 205.063(5):
-> *Existing Text*:
-> > The costs incurred by the provincial labour relations board in respect of an application made under subsection (1), including the remuneration of its members, shall be paid by the Board as defined in section 2.
+**(5)** The costs incurred by the provincial labour relations board in respect of an application made under subsection (1), including the remuneration of its members, shall be paid by the Regulator.
 
 ### Section 96
 
@@ -2371,27 +1947,21 @@ Subsection 205.063(5) of the Act is replaced by the following:
 
 ### Section 205.068
 
-      **(1)** On receipt under subsection 138(3.1) **or 138.01(2)** of an application for an authorization, or to amend an authorization, the Chief Safety Officer shall
+      **(1)** On receipt under subsection 138(3.1) or 138.01(2) of an application for an authorization, or to amend an authorization, the Chief Safety Officer shall
 
         consider the potential impact of the work or activity to be authorized on the health and safety of employees engaged in the work or activity; and
 
-        make a written recommendation to the **Regulator** on the matters considered.
+        make a written recommendation to the Regulator on the matters considered.
 
   **(2)** Subsection 205.068(3) of the Act is replaced by the following:
 
-    **(3)** In addition to any requirement, approval, **term** or **condition** determined by the **Regulator** under Part III to which an authorization is subject, the authorization is also subject to any requirements, approvals, **terms** and **conditions** not inconsistent with the provisions of this Act or the regulations, that the **Regulator** determines relate to occupational health and safety.
+    **(3)** In addition to any requirement, approval, term or condition determined by the Regulator under Part III to which an authorization is subject, the authorization is also subject to any requirements, approvals, terms and conditions not inconsistent with the provisions of this Act or the regulations, that the Regulator determines relate to occupational health and safety.
 
 ### Section 97
 
 Subsection 205.1(7) of the Act is replaced by the following:
 
-**(7)** The costs incurred by the provincial labour relations board in respect of an appeal made under subsection (1), including the remuneration of its members, shall be paid by the **Regulator**.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 205.1(7):
-> *Existing Text*:
-> > The costs incurred by the provincial labour relations board in respect of an appeal made under subsection (1), including the remuneration of its members, shall be paid by the Board as defined in section 2.
+**(7)** The costs incurred by the provincial labour relations board in respect of an appeal made under subsection (1), including the remuneration of its members, shall be paid by the Regulator.
 
 ### Section 98
 
@@ -2399,13 +1969,7 @@ Section 205.102 of the Act is replaced by the following:
 
 ### Section 205.102
 
-For the purposes of the `Federal Courts Act`, neither the **Regulator**, the Chief Safety Officer nor a health and safety officer, when exercising or purporting to exercise jurisdiction or powers conferred on them under this Part, is a federal board, commission or other tribunal as defined in subsection 2(1) of that Act.
-
-
-> **Explanatory Note**:
-> Existing text of section 205.102:
-> *Existing Text*:
-> > For the purposes of the `Federal Courts Act`, neither the Board, the Chief Safety Officer nor a health and safety officer, when exercising or purporting to exercise jurisdiction or powers conferred on them under this Part, is a federal board, commission or other tribunal as defined in subsection 2(1) of that Act.
+For the purposes of the `Federal Courts Act`, neither the Regulator, the Chief Safety Officer nor a health and safety officer, when exercising or purporting to exercise jurisdiction or powers conferred on them under this Part, is a federal board, commission or other tribunal as defined in subsection 2(1) of that Act.
 
 ### Section 99
 
@@ -2413,22 +1977,9 @@ Subsection 205.12(3) of the Act is replaced by the following:
 
 **(3)** Every witness who attends and gives evidence at an inquiry under this section is entitled to be paid reasonable travel and living expenses incurred by the witness in doing so and the witness fees prescribed in the tariff of fees in use in the Supreme Court of Newfoundland and Labrador.
 
-
-> **Explanatory Note**:
-> Existing text of subsection 205.12(3):
-> *Existing Text*:
-> > Every witness who attends and gives evidence at an inquiry under this section is entitled to be paid reasonable travel and living expenses incurred by the witness in doing so and the witness fees prescribed in the tariff of fees in use in the Trial Division of the Supreme Court of Newfoundland and Labrador.
-
 ### Section 100
 
 Section 205.125 of the Act is repealed.
-
-
-> **Explanatory Note**:
-> Existing text of section 205.125:
-> *Existing Text*:
-> > Subject to subsection (2), a copy of each regulation that the Governor in Council proposes to make under this Part shall be published in the `Canada Gazette` and a reasonable opportunity shall be given to interested persons to make representations to the Federal Minister with respect to it.
-> > No proposed regulation need be published more than once under subsection (1) whether or not it is altered or amended as a result of representations made by interested persons as provided in that subsection.
 
 ### Section 101
 
@@ -2775,24 +2326,13 @@ Nothing in this Act is to be construed as affecting the status of an employee wh
 
 The long title of the `Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act` is replaced by the following:
 
-
-> **Explanatory Note**:
-> Existing text of the long title:
-> *Existing Text*:
-
 ### Section 108
 
 Section 1 of the Act is replaced by the following:
 
 ### Section 1
 
-This Act may be cited as the `Canada–Nova Scotia Offshore Petroleum Resources Accord Implementation **and Offshore Renewable Energy Management** Act`.
-
-
-> **Explanatory Note**:
-> Existing text of section 1:
-> *Existing Text*:
-> > This Act may be cited as the `Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act`.
+This Act may be cited as the `Canada–Nova Scotia Offshore Petroleum Resources Accord Implementation and Offshore Renewable Energy Management Act`.
 
 ### Section 109
 
@@ -2800,7 +2340,7 @@ This Act may be cited as the `Canada–Nova Scotia Offshore Petroleum Resources 
 
   **(2)** The definition **Provincial Minister** in section 2 of the Act is replaced by the following:
 
-    **Provincial Minister** means, other than for the purposes of Part III.1, the minister of the government of the Province who is responsible for the management of offshore **energy** resources; (**ministre provincial**)
+    **Provincial Minister** means, other than for the purposes of Part III.1, the minister of the government of the Province who is responsible for the management of offshore energy resources; (**ministre provincial**)
 
   **(3)** Section 2 of the Act is amended by adding the following in alphabetical order:
 
@@ -2830,23 +2370,13 @@ The Act is amended by adding the following after section 2:
 
 Subject to section 6, the Governor in Council may make regulations amending the definition offshore renewable energy project, as defined in section 2, to add or remove any work or activity that is carried out in the offshore area.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 111
 
 Subsection 6(1) of the Act is replaced by the following:
 
 ### Section 6
 
-  **(1)** Before a regulation is made under **section 2.1**, subsection 5(1) or 17(4), section 30.1, subsection 35(8), 39(7) or 45(7), section **59.1 or** 67, subsection 70(2), **section 98.2, subsection 98.3(2)**, section 121, subsection 125(1), 128(1), 153(1), 167(2.3), 168(1.02), **188.19(6)** or **188.25(1), section 188.29, subsection 188.3(3) or** 207.01(1) or section 208, 245 or 248, the Federal Minister shall consult the Provincial Minister with respect to the proposed regulation and the regulation shall not be made without the Provincial Minister's approval.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 6(1):
-> *Existing Text*:
-> > Before a regulation is made under subsection 5(1) or 17(4), section 30.1, subsection 35(8), 39(7) or 45(7), section 67, subsection 70(2), section 121, subsection 125(1), 128(1), 153(1), 167(2.3), 168(1.02) or 207.01(1) or section 208, 245 or 248, the Federal Minister shall consult the Provincial Minister with respect to the proposed regulation and the regulation shall not be made without the Provincial Minister's approval.
+  **(1)** Before a regulation is made under section 2.1, subsection 5(1) or 17(4), section 30.1, subsection 35(8), 39(7) or 45(7), section 59.1 or 67, subsection 70(2), section 98.2, subsection 98.3(2), section 121, subsection 125(1), 128(1), 153(1), 167(2.3), 168(1.02), 188.19(6) or 188.25(1), section 188.29, subsection 188.3(3) or 207.01(1) or section 208, 245 or 248, the Federal Minister shall consult the Provincial Minister with respect to the proposed regulation and the regulation shall not be made without the Provincial Minister's approval.
 
 ### Section 112
 
@@ -2859,21 +2389,11 @@ The Act is amended by adding the following after section 7:
 
 For greater certainty, the Accord does not apply to offshore renewable energy resources.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 113
 
 Subsection 8(2) of the Act is replaced by the following:
 
-**(2)** Subject to section 103, the `Canada Petroleum Resources Act`, the `Canada Oil and Gas Operations Act` **and Part 5 of the `Canadian Energy Regulator Act`** and any regulations made under **them** do not apply within the offshore area.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 8(2):
-> *Existing Text*:
-> > Subject to section 103, the `Canada Petroleum Resources Act` and the `Canada Oil and Gas Operations Act` and any regulations made under those Acts do not apply within the offshore area.
+**(2)** Subject to section 103, the `Canada Petroleum Resources Act`, the `Canada Oil and Gas Operations Act` and Part 5 of the `Canadian Energy Regulator Act` and any regulations made under them do not apply within the offshore area.
 
 ### Section 114
 
@@ -2881,35 +2401,17 @@ Subsection 9(1) of the Act is replaced by the following:
 
 ### Section 9
 
-  **(1)** There is established by the joint operation of this Act and the Provincial Act a board to be known as the Canada–Nova Scotia Offshore **Energy Regulator**.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 9(1):
-> *Existing Text*:
-> > There is established by the joint operation of this Act and the Provincial Act a board to be known as the Canada-Nova Scotia Offshore Petroleum Board.
+  **(1)** There is established by the joint operation of this Act and the Provincial Act a board to be known as the Canada–Nova Scotia Offshore Energy Regulator.
 
 ### Section 115
 
 Subsection 12(2) of the Act is repealed.
 
-
-> **Explanatory Note**:
-> Existing text of subsection 12(2):
-> *Existing Text*:
-> > The first two members of the Board, other than the Chairperson, to be appointed by each government shall be appointed for terms of four and five years, respectively.
-
 ### Section 116
 
 Subsection 18(2) of the Act is replaced by the following:
 
-**(2)** The **Regulator** may make recommendations to both governments with respect to proposed amendments to this Act, the Provincial Act, any regulations made under those Acts and to any other legislation relating to petroleum resource **and renewable energy** activities in the offshore area.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 18(2):
-> *Existing Text*:
-> > The Board may make recommendations to both governments with respect to proposed amendments to this Act, the Provincial Act, any regulations made under those Acts and to any other legislation relating to petroleum resource activities in the offshore area.
+**(2)** The Regulator may make recommendations to both governments with respect to proposed amendments to this Act, the Provincial Act, any regulations made under those Acts and to any other legislation relating to petroleum resource and renewable energy activities in the offshore area.
 
 ### Section 117
 
@@ -2919,23 +2421,13 @@ The Act is amended by adding the following after section 18:
 
 His Majesty in right of Canada or in right of the Province may rely on the Regulator for the purposes of consulting with the Indigenous peoples of Canada respecting any potential adverse impact of a work or activity in the offshore area on existing Aboriginal and treaty rights recognized and affirmed by section 35 of the `Constitution Act, 1982` and the Regulator may, on behalf of His Majesty, if appropriate, accommodate any adverse impacts on those rights.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 118
 
 Subsection 19(1) of the Act is replaced by the following:
 
 ### Section 19
 
-  **(1)** The Federal Minister and the Provincial Minister are entitled to access to any information or documentation relating to petroleum resource **and renewable energy** activities in the offshore area that is provided for the purposes of this Act or any regulation made **under it** and such information or documentation shall, on the request of either Minister, be disclosed to that Minister without requiring the consent of the party who provided the information or documentation.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 19(1):
-> *Existing Text*:
-> > The Federal Minister and the Provincial Minister are entitled to access to any information or documentation relating to petroleum resource activities in the offshore area that is provided for the purposes of this Act or any regulation made thereunder and such information or documentation shall, on the request of either Minister, be disclosed to that Minister without requiring the consent of the party who provided the information or documentation.
+  **(1)** The Federal Minister and the Provincial Minister are entitled to access to any information or documentation relating to petroleum resource and renewable energy activities in the offshore area that is provided for the purposes of this Act or any regulation made under it and such information or documentation shall, on the request of either Minister, be disclosed to that Minister without requiring the consent of the party who provided the information or documentation.
 
 ### Section 119
 
@@ -2943,17 +2435,11 @@ Subsection 21(1) of the Act is replaced by the following:
 
 ### Section 21
 
-  **(1)** The **Regulator** shall have responsibility for the storage and curatorship, in a facility in the Province, of
+  **(1)** The Regulator shall have responsibility for the storage and curatorship, in a facility in the Province, of
 
-    all **petroleum-related** geophysical and geological records and reports, reports respecting wells and materials recovered from wells in the offshore area and, without limiting the generality of the foregoing, drill cuttings, fluid samples, hydrocarbon samples and cores recovered from **those** wells; **and**
+    all petroleum-related geophysical and geological records and reports, reports respecting wells and materials recovered from wells in the offshore area and, without limiting the generality of the foregoing, drill cuttings, fluid samples, hydrocarbon samples and cores recovered from those wells; and
 
     all records and reports involving geophysical, geological or geotechnical data, data on physical environmental conditions, environmental effects monitoring data or renewable energy resource data — including data on wind, waves and currents — all environmental studies and all geological and geotechnical samples, to the extent that those records and reports, studies and samples relate to offshore renewable energy.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 21(1):
-> *Existing Text*:
-> > The Board shall have responsibility for the storage and curatorship, in a facility in the Province, of all geophysical and geological records and reports, reports respecting wells and materials recovered from wells in the offshore area and, without limiting the generality of the foregoing, drill cuttings, fluid samples, hydrocarbon samples and cores recovered from wells in the offshore area.
 
 ### Section 120
 
@@ -2961,77 +2447,51 @@ Subsection 26(4) of the Act is replaced by the following:
 
 **(4)** For the purpose of being eligible for appointment to a position in the public service by an appointment process under the `Public Service Employment Act`,
 
-  any person who, immediately prior to being employed by the **Regulator**, was employed in the public service shall be deemed to be a person employed in the public service in the Department of **Natural** Resources in the location where that person is performing duties for the **Regulator** and in a position of an occupational nature and at a level equivalent to the position in which that person is employed by the **Regulator**; and
+  any person who, immediately prior to being employed by the Regulator, was employed in the public service shall be deemed to be a person employed in the public service in the Department of Natural Resources in the location where that person is performing duties for the Regulator and in a position of an occupational nature and at a level equivalent to the position in which that person is employed by the Regulator; and
 
-  any person who, immediately prior to being employed by the **Regulator**, was not employed in the public service shall, two years after being employed by the **Regulator**, be deemed to be a person employed in the public service in the Department of **Natural** Resources in the location where that person is performing duties for the **Regulator** and in a position of an occupational nature and at a level equivalent to the position in which that person is employed by the **Regulator**.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 26(4):
-> *Existing Text*:
-> > For the purpose of being eligible for appointment to a position in the public service by an appointment process under the `Public Service Employment Act`,
-> > any person who, immediately prior to being employed by the Board, was employed in the public service shall be deemed to be a person employed in the public service in the Department of Energy, Mines and Resources in the location where that person is performing duties for the Board and in a position of an occupational nature and at a level equivalent to the position in which that person is employed by the Board; and
-> > any person who, immediately prior to being employed by the Board, was not employed in the public service shall, two years after being employed by the Board, be deemed to be a person employed in the public service in the Department of Energy, Mines and Resources in the location where that person is performing duties for the Board and in a position of an occupational nature and at a level equivalent to the position in which that person is employed by the Board.
+  any person who, immediately prior to being employed by the Regulator, was not employed in the public service shall, two years after being employed by the Regulator, be deemed to be a person employed in the public service in the Department of Natural Resources in the location where that person is performing duties for the Regulator and in a position of an occupational nature and at a level equivalent to the position in which that person is employed by the Regulator.
 
 ### Section 121
 
 Subsection 28(4) of the Act is replaced by the following:
 
-**(4)** **Subject to subsection (4.1)**, the Government of Canada shall pay one-half of the aggregate of the expenditures set out in the budget or revised budget in respect of each fiscal year.
+**(4)** Subject to subsection (4.1), the Government of Canada shall pay one-half of the aggregate of the expenditures set out in the budget or revised budget in respect of each fiscal year.
 
 **(4.1)** The Chief Executive Officer may include in the budget or revised budget expenditures associated with specific requirements of one government that are to be paid entirely by that government.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 28(4):
-> *Existing Text*:
-> > The Government of Canada shall pay one-half of the aggregate of the expenditures set out in the budget or revised budget, where applicable, submitted and approved pursuant to this section in respect of each fiscal year.
 
 ### Section 122
 
   **(1)** Paragraph 30.1(1)(b) of the Act is replaced by the following:
 
-    respecting the fees or charges, or the method of calculating the fees or charges, in respect of any of the **Regulator**'s activities under this Act or the **`Impact Assessment Act`**, that are to be paid by
+    respecting the fees or charges, or the method of calculating the fees or charges, in respect of any of the Regulator's activities under this Act or the `Impact Assessment Act`, that are to be paid by
 
-    a person who makes an application for an authorization under paragraph 142(1)(b) **or subsection 142.011(1)** or an application under subsection 143(2), or
+    a person who makes an application for an authorization under paragraph 142(1)(b) or subsection 142.011(1) or an application under subsection 143(2), or
 
-    the holder of an operating licence issued under paragraph 142(1)(a) or an authorization issued under paragraph 142(1)(b) **or subsection 142.011(1)**; and
+    the holder of an operating licence issued under paragraph 142(1)(a) or an authorization issued under paragraph 142(1)(b) or subsection 142.011(1); and
 
   **(2)** Subsection 30.1(3) of the Act is replaced by the following:
 
-    **(3)** The amounts of the fees or charges referred to in paragraph (1)(b) shall not exceed the cost of the **Regulator**'s activities under this Act or the `**Impact Assessment Act**`.
+    **(3)** The amounts of the fees or charges referred to in paragraph (1)(b) shall not exceed the cost of the Regulator's activities under this Act or the `Impact Assessment Act`.
 
 ### Section 123
 
 The Act is amended by adding the following after section 31:
 
 
-#### **Petroleum-related Decisions**
-
-
-> **Explanatory Note**:
-> New.
+#### Petroleum-related Decisions
 
 ### Section 124
 
 Paragraph 35(5)(c) of the English version of the Act is replaced by the following:
 
-must be published without delay by the **Canadian Energy** Regulator.
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 35(5):
-> *Existing Text*:
-> > A determination of the Commission of the Canadian Energy Regulator made under subsection (4),
-> > 
-> > must be published without delay by the Regulator.
+must be published without delay by the Canadian Energy Regulator.
 
 ### Section 125
 
 The Act is amended by adding the following after section 38:
 
 
-#### **Decisions Related to Offshore Renewable Energy**
+#### Decisions Related to Offshore Renewable Energy
 
 ### Section 38.1
 
@@ -3050,10 +2510,6 @@ The Regulator shall publish in the `Canada Gazette` any notice of decision refer
 ### Section 38.3
 
 The Regulator shall only exercise a power or perform a duty subject to this section and sections 38.1 and 38.2 if it has been the subject of an offshore renewable energy recommendation that was approved by both Ministers with the same variations, if any. In that case, the Regulator shall exercise the power or perform the duty as soon as practicable after it receives the notices referred to in subsection 38.1(2).
-
-
-> **Explanatory Note**:
-> New.
 
 ### Section 126
 
@@ -3075,17 +2531,7 @@ Subsection 42(1) of the Act is replaced by the following:
 
 ### Section 42
 
-  **(1)** **If** the Federal Minister issues or jointly issues a directive under section 41, suspends the implementation of a fundamental decision **under** section 34, or sets aside or overrules the setting aside of a fundamental decision **under** section 35, the Minister shall cause a notice of the Minister's action and, **if applicable**, of the fundamental decision in relation to which it is exercised, to be published in the `Canada Gazette`.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 42(1):
-> *Existing Text*:
-> > Where the Federal Minister
-> > issues or jointly issues a directive under section 41,
-> > suspends the implementation of a fundamental decision pursuant to section 34, or
-> > sets aside a fundamental decision or overrules the setting aside of a fundamental decision pursuant to section 35,
-> > the Minister shall cause a notice of the Minister's action and of the fundamental decision in relation to which it is exercised to be published in the `Canada Gazette`.
+  **(1)** If the Federal Minister issues or jointly issues a directive under section 41, suspends the implementation of a fundamental decision under section 34, or sets aside or overrules the setting aside of a fundamental decision under section 35, the Minister shall cause a notice of the Minister's action and, if applicable, of the fundamental decision in relation to which it is exercised, to be published in the `Canada Gazette`.
 
 ### Section 128
 
@@ -3093,26 +2539,13 @@ Section 44.1 of the Act is replaced by the following:
 
 ### Section 44.1
 
-The **Regulator** may conduct a public hearing in relation to the exercise of any of its powers or the performance of any of its duties and functions **under this Act**.
-
-
-> **Explanatory Note**:
-> Existing text of section 44.1:
-> *Existing Text*:
-> > The Board may conduct a public hearing in relation to the exercise of any of its powers or the performance of any of its duties and functions as a responsible authority as defined in subsection 2(1) of the `Canadian Environmental Assessment Act, 2012`.
+The Regulator may conduct a public hearing in relation to the exercise of any of its powers or the performance of any of its duties and functions under this Act.
 
 ### Section 129
 
 Paragraph 44.3(a) of the English version of the Act is replaced by the following:
 
-there is a real and substantial risk that disclosure of the information will impair the security of pipelines, as defined in section 138, installations, **facilities**, vessels, aircraft or systems, including computer or communication systems, or methods employed to protect them; and
-
-
-> **Explanatory Note**:
-> Relevant portion of section 44.3:
-> *Existing Text*:
-> > At any public hearing conducted under section 44.1, the Board may take any measures and make any order that it considers necessary to ensure the confidentiality of information that is likely to be disclosed at the hearing if the Board is satisfied that
-> > there is a real and substantial risk that disclosure of the information will impair the security of pipelines, as defined in section 138, installations, vessels, aircraft or systems, including computer or communication systems, or methods employed to protect them; and
+there is a real and substantial risk that disclosure of the information will impair the security of pipelines, as defined in section 138, installations, facilities, vessels, aircraft or systems, including computer or communication systems, or methods employed to protect them; and
 
 ### Section 130
 
@@ -3124,10 +2557,6 @@ Section 45 of the Act is amended by adding the following after subsection (7):
 
 **(10)** The Regulator or the appropriate authority — or in respect of any transboundary pool extending into the jurisdiction of a foreign government, the Federal Minister, after having consulted the Minister of Foreign Affairs and the Provincial Minister — may, if they disagree about the content of the plan submitted for approval, refer the matter to an expert in accordance with section 188.16. The expert's decision is deemed to be approval of the plan by the Regulator.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 131
 
 Subsection 47(1) of the Act is replaced by the following:
@@ -3136,37 +2565,20 @@ Subsection 47(1) of the Act is replaced by the following:
 
   **(1)** Before a panel is constituted for the purposes of subsection 13(2), 25(3) or 37(1), the government or Minister proposing constitution of the panel shall notify the other government or Minister of the proposal.
 
-
-> **Explanatory Note**:
-> Existing text of subsection 47(1):
-> *Existing Text*:
-> > Before a panel is constituted for the purposes of subsection 13(2), 25(3), 37(1) or 140(5), the government or Minister proposing constitution of the panel shall notify the other government or Minister of the proposal.
-
 ### Section 132
 
 Subsection 48(1) of the Act is replaced by the following:
 
 ### Section 48
 
-  **(1)** In this section, **agreement** means an agreement between the Government of Canada and the government of a province respecting resource management and revenue sharing in relation to activities respecting the exploration for or the production of petroleum, **or respecting offshore renewable energy projects**, carried out on any frontier lands.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 48(1):
-> *Existing Text*:
-> > In this section, **agreement** means an agreement between the Government of Canada and the government of a province respecting resource management and revenue sharing in relation to activities respecting the exploration for or the production of petroleum carried out on any frontier lands.
+  **(1)** In this section, **agreement** means an agreement between the Government of Canada and the government of a province respecting resource management and revenue sharing in relation to activities respecting the exploration for or the production of petroleum, or respecting offshore renewable energy projects, carried out on any frontier lands.
 
 ### Section 133
 
 The heading "Petroleum Resources" before section 49 of the Act is replaced by the following:
 
 
-## Petroleum **and Offshore Renewable Energy** Resources
-
-
-> **Explanatory Note**:
-> Existing text of the heading:
-> *Existing Text*:
+## Petroleum and Offshore Renewable Energy Resources
 
 ### Section 134
 
@@ -3174,36 +2586,27 @@ The definitions **call for bids**, **Crown reserve area**, **interest** and **si
 
 **call for bids** means a call for bids made in accordance with
 
-**in the case of petroleum**, section 61, **and**
+in the case of petroleum, section 61, and
 
 in the case of offshore renewable energy, section 93; (**appel d'offres**)
 
 **Crown reserve area** means
 
-**in relation to petroleum**, portions of the offshore area in respect of which no **petroleum-related** interest is in force, **and**
+in relation to petroleum, portions of the offshore area in respect of which no petroleum-related interest is in force, and
 
 in relation to offshore renewable energy, portions of the offshore area in respect of which no submerged land licence is in force respecting a particular renewable energy resource; (**réserves de l'État**)
 
 **interest** means
 
-**in relation to petroleum**, any former exploration agreement, former lease, former permit, former special renewal permit, exploration licence, production licence or significant discovery licence, **and**
+in relation to petroleum, any former exploration agreement, former lease, former permit, former special renewal permit, exploration licence, production licence or significant discovery licence, and
 
-**in relation to offshore renewable energy, any submerged land licence**; (**titre**)
+in relation to offshore renewable energy, any submerged land licence; (**titre**)
 
-**significant discovery** means a discovery indicated by **a** well on a geological feature that
+**significant discovery** means a discovery indicated by a well on a geological feature that
 
-demonstrates, **through any formation** flow **test approved** by the **Regulator**, the existence of hydrocarbons in that feature, and
+demonstrates, through any formation flow test approved by the Regulator, the existence of hydrocarbons in that feature, and
 
 having regard to geological and engineering factors, suggests the existence of an accumulation of hydrocarbons that has potential for sustained production; (**découverte importante**)
-
-
-> **Explanatory Note**:
-> Existing text of the definitions:
-> *Existing Text*:
-> > **call for bids** means a call for bids made in accordance with section 61; (**appel d'offres**)
-> > **Crown reserve area** means portions of the offshore area in respect of which no interest is in force; (**réserves de l'État**)
-> > **interest** means any former exploration agreement, former lease, former permit, former special renewal permit, exploration licence, production licence or significant discovery licence; (**titre**)
-> > **significant discovery** means a discovery indicated by the first well on a geological feature that demonstrates by flow testing the existence of hydrocarbons in that feature and, having regard to geological and engineering factors, suggests the existence of an accumulation of hydrocarbons that has potential for sustained production; (**découverte importante**)
 
 ### Section 135
 
@@ -3211,7 +2614,7 @@ having regard to geological and engineering factors, suggests the existence of a
 
 ### Section 57
 
-      **(1)** Subject to sections 32 to 37, the **Regulator** may, except in a case referred to in subsection (2), by order, for **any** purposes and under **any** conditions set out in the order, prohibit the issuance of **petroleum-related** interests in respect of **any** portions of the offshore area specified in the order.
+      **(1)** Subject to sections 32 to 37, the Regulator may, except in a case referred to in subsection (2), by order, for any purposes and under any conditions set out in the order, prohibit the issuance of petroleum-related interests in respect of any portions of the offshore area specified in the order.
 
       **(1.1)** The Federal Minister and the Provincial Minister may, except in a case referred to in subsection (2), issue a joint direction to the Regulator to, by order, for any purposes and under any conditions set out in the order, prohibit the issuance of submerged land licences in respect of any portions of the offshore area specified in the order.
 
@@ -3229,19 +2632,19 @@ having regard to geological and engineering factors, suggests the existence of a
 
 ### Section 59
 
-      **(1)** Subject to **subsections** (2) **and (2.1)**, the **Regulator** may, by order, prohibit any interest owner specified in the order from commencing or continuing any work or activity on all or any portion of the offshore area subject to the interest, in the case of
+      **(1)** Subject to subsections (2) and (2.1), the Regulator may, by order, prohibit any interest owner specified in the order from commencing or continuing any work or activity on all or any portion of the offshore area subject to the interest, in the case of
 
         an environmental or social problem of a serious nature; or
 
         dangerous or extreme weather conditions affecting the health or safety of people or the safety of equipment.
 
-      **(2)** **The making of** an order **by** the **Regulator** in a case referred to in paragraph (1)(a) **with respect to a petroleum-related interest** is subject to sections 32 to 37.
+      **(2)** The making of an order by the Regulator in a case referred to in paragraph (1)(a) with respect to a petroleum-related interest is subject to sections 32 to 37.
 
       **(2.1)** The making of an order by the Regulator in a case referred to in paragraph (1)(a) with respect to a submerged land licence is subject to sections 38.1 to 38.3.
 
   **(2)** Subsection 59(4) of the French version of the Act is replaced by the following:
 
-    **(4)** Est suspendue, tant que **l'arrêté** est valide, toute obligation liée à un titre et rendue de ce fait inexécutable.
+    **(4)** Est suspendue, tant que l'arrêté est valide, toute obligation liée à un titre et rendue de ce fait inexécutable.
 
 ### Section 137
 
@@ -3271,7 +2674,7 @@ the issuance of interests.
 
   **(3)** The Federal Minister shall, not later than 30 days before entering into the negotiations, give written notice to the interest owner, and forward a copy of the notice to the Regulator, indicating the Federal Minister's intention to enter into negotiations with the interest owner within the period specified in the notice.
 
-  **(4)** The Federal Minister and the Provincial Minister may, by order, jointly cancel the interest in respect of all or any portion of the offshore area that is subject to the interest and that is located in an area that is or, in the opinion of the Governor in Council, may be identified under the an Act of Parliament as an area for environmental or wildlife conservation or protection, if
+  **(4)** The Federal Minister and the Provincial Minister may, by order, jointly cancel the interest in respect of all or any portion of the offshore area that is subject to the interest and that is located in an area that is or, in the opinion of the Governor in Council, may be identified under an Act of Parliament as an area for environmental or wildlife conservation or protection, if
 
     the interest owner did not enter into negotiations with the Federal Minister within the period specified in the notice given to the interest owner;
 
@@ -3327,21 +2730,12 @@ the issuance of interests.
 
   **(3)** A person shall not have any right to claim or receive any compensation, damages, indemnity or other form of relief from His Majesty in right of the Province or from any servant or agent of His Majesty in right of the Province for any acquired, vested, future or potential right or entitlement that is affected by a surrender of an interest referred to in subsection 59.4(1) or a cancellation of an interest referred to in subsection 59.4(4), other than compensation that may be granted to an interest owner under this section.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 138
 
 The heading "General Rules Relating to Issuance of Interests" before section 60 of the Act is replaced by the following:
 
 
-### General Rules Relating to Issuance of **Petroleum-Related** Interests
-
-
-> **Explanatory Note**:
-> Existing text of the heading:
-> *Existing Text*:
+### General Rules Relating to Issuance of Petroleum-Related Interests
 
 ### Section 139
 
@@ -3349,28 +2743,17 @@ Section 60 of the Act is replaced by the following:
 
 ### Section 60
 
-  **(1)** The **Regulator** may issue **petroleum-related** interests in respect of any portion of the offshore area in accordance with this Part and the regulations.
+  **(1)** The Regulator may issue petroleum-related interests in respect of any portion of the offshore area in accordance with this Part and the regulations.
 
-  **(2)** The issuance of **a petroleum-related** interest by the **Regulator** is subject to sections 32 to 37 unless the interest is issued **under** subsection 76(1) or paragraph 84(1)(a).
+  **(2)** The issuance of a petroleum-related interest by the Regulator is subject to sections 32 to 37 unless the interest is issued under subsection 76(1) or paragraph 84(1)(a).
 
-  **(3)** Subject to subsection (4), the application of any **petroleum-related** interest may be restricted to geological formations and to substances specified in the interest.
+  **(3)** Subject to subsection (4), the application of any petroleum-related interest may be restricted to geological formations and to substances specified in the interest.
 
-  **(4)** Subsection (3) does not apply to any **petroleum-related** interest
+  **(4)** Subsection (3) does not apply to any petroleum-related interest
 
     that is in force or in respect of which negotiations were completed before or on the coming into force of this section in relation to any portion of the offshore area; or
 
-    that immediately succeeds an interest referred to in paragraph (a) in relation to that portion of the offshore area **if** that portion was not a Crown reserve area on the expiration of the interest referred to in paragraph (a).
-
-
-> **Explanatory Note**:
-> Existing text of section 60:
-> *Existing Text*:
-> > The Board may issue interests in respect of any portion of the offshore area in accordance with this Part and the regulations.
-> > The issuance of an interest by the Board is subject to sections 32 to 37 unless the interest is issued pursuant to subsection 76(1) or paragraph 84(1)(a).
-> > Subject to subsection (4), the application of any interest may be restricted to such geological formations and to such substances as may be specified in the interest.
-> > Subsection (3) does not apply to any interest
-> > that is in force or in respect of which negotiations were completed before or on the coming into force of this section in relation to any portion of the offshore area; or
-> > that immediately succeeds an interest referred to in paragraph (a) in relation to that portion of the offshore area where that portion was not a Crown reserve area on the expiration of the interest referred to in paragraph (a).
+    that immediately succeeds an interest referred to in paragraph (a) in relation to that portion of the offshore area if that portion was not a Crown reserve area on the expiration of the interest referred to in paragraph (a).
 
 ### Section 140
 
@@ -3378,23 +2761,23 @@ Section 60 of the Act is replaced by the following:
 
 ### Section 61
 
-      **(1)** Subject to section 64, the **Regulator** shall not issue **a petroleum-related** interest in relation to Crown reserve areas unless
+      **(1)** Subject to section 64, the Regulator shall not issue a petroleum-related interest in relation to Crown reserve areas unless
 
-        prior **to issuing the interest**, the **Regulator** has made a call for bids in relation to those Crown reserve areas by publishing a notice in accordance with this section and section 66; and
+        prior to issuing the interest, the Regulator has made a call for bids in relation to those Crown reserve areas by publishing a notice in accordance with this section and section 66; and
 
-        the interest is issued to the person who submitted, in response to the call, the bid selected by the **Regulator** in accordance with subsection 62(1).
+        the interest is issued to the person who submitted, in response to the call, the bid selected by the Regulator in accordance with subsection 62(1).
 
-      **(2)** The making of a call for bids **for the issuance of a petroleum-related interest** is subject to sections 32 to 37.
+      **(2)** The making of a call for bids for the issuance of a petroleum-related interest is subject to sections 32 to 37.
 
-      **(3)** Any request received by the **Regulator** to make a call for bids **for the issuance of a petroleum-related interest** in relation to particular portions of the offshore area shall be considered by the **Regulator** in selecting the portions of the offshore area to be specified in **such** a call for bids.
+      **(3)** Any request received by the Regulator to make a call for bids for the issuance of a petroleum-related interest in relation to particular portions of the offshore area shall be considered by the Regulator in selecting the portions of the offshore area to be specified in such a call for bids.
 
   **(2)** The portion of subsection 61(4) of the English version of the Act before paragraph (a) is replaced by the following:
 
-    **(4)** **The** call for bids shall specify
+    **(4)** The call for bids shall specify
 
   **(3)** Paragraph 61(4)(b) of the Act is replaced by the following:
 
-    **if** applicable, the geological formations and substances to which the interest is to apply;
+    if applicable, the geological formations and substances to which the interest is to apply;
 
 ### Section 141
 
@@ -3402,15 +2785,15 @@ Section 60 of the Act is replaced by the following:
 
 ### Section 62
 
-      **(1)** A bid submitted in response to a call for bids **for the issuance of a petroleum-related interest** shall not be selected unless
+      **(1)** A bid submitted in response to a call for bids for the issuance of a petroleum-related interest shall not be selected unless
 
   **(2)** Subsections 62(2) to (4) of the Act are replaced by the following:
 
-    **(2)** **If** the **Regulator** selects a bid submitted in response to **the** call for bids, the **Regulator** shall publish a notice in accordance with section 66 setting out the terms and conditions of that bid.
+    **(2)** If the Regulator selects a bid submitted in response to the call for bids, the Regulator shall publish a notice in accordance with section 66 setting out the terms and conditions of that bid.
 
-    **(3)** **If a petroleum-related** interest is to be issued as a result of a call for bids, the terms and conditions of the interest shall be substantially consistent with any terms and conditions in respect of the interest specified in the call.
+    **(3)** If a petroleum-related interest is to be issued as a result of a call for bids, the terms and conditions of the interest shall be substantially consistent with any terms and conditions in respect of the interest specified in the call.
 
-    **(4)** The **Regulator** shall publish a notice in accordance with section 66 setting out the terms and conditions of any **petroleum-related** interest issued as a result of a call for bids as soon as practicable after **its** issuance.
+    **(4)** The Regulator shall publish a notice in accordance with section 66 setting out the terms and conditions of any petroleum-related interest issued as a result of a call for bids as soon as practicable after its issuance.
 
 ### Section 142
 
@@ -3418,16 +2801,9 @@ Section 63 of the Act is replaced by the following:
 
 ### Section 63
 
-  **(1)** The **Regulator** is not required to issue **a petroleum-related** interest as a result of a call for bids.
+  **(1)** The Regulator is not required to issue a petroleum-related interest as a result of a call for bids.
 
-  **(2)** Subject to section 64, **if** the **Regulator** has not issued **a petroleum-related** interest with respect to a particular portion of the offshore area specified in a call for bids within six months after the closing date specified in the call for bids, the **Regulator** shall, before issuing **a petroleum-related** interest in relation to that portion of the offshore area, make a new call for bids.
-
-
-> **Explanatory Note**:
-> Existing text of section 63:
-> *Existing Text*:
-> > The Board is not required to issue an interest as a result of a call for bids.
-> > Subject to section 64, where the Board has not issued an interest with respect to a particular portion of the offshore area specified in a call for bids within six months after the closing date specified in the call for the submission of bids, the Board shall, before issuing an interest in relation to that portion of the offshore area, make a new call for bids.
+  **(2)** Subject to section 64, if the Regulator has not issued a petroleum-related interest with respect to a particular portion of the offshore area specified in a call for bids within six months after the closing date specified in the call for bids, the Regulator shall, before issuing a petroleum-related interest in relation to that portion of the offshore area, make a new call for bids.
 
 ### Section 143
 
@@ -3435,13 +2811,7 @@ The portion of subsection 64(1) of the Act before paragraph (a) is replaced by t
 
 ### Section 64
 
-  **(1)** Subject to sections 32 to 37, the **Regulator** may issue **a petroleum-related** interest, in relation to any Crown reserve area, without making a call for bids **if**
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 64(1):
-> *Existing Text*:
-> > Subject to sections 32 to 37, the Board may issue an interest, in relation to any Crown reserve area, without making a call for bids where
+  **(1)** Subject to sections 32 to 37, the Regulator may issue a petroleum-related interest, in relation to any Crown reserve area, without making a call for bids if
 
 ### Section 144
 
@@ -3449,41 +2819,23 @@ Section 65 of the Act is replaced by the following:
 
 ### Section 65
 
-**If a petroleum-related** interest has been issued, it is not vitiated by reason only of a failure to comply with any of the requirements set out in sections 61 to 64 respecting the form and content of, and time and manner of publishing, any notice required by those sections in relation to that interest.
-
-
-> **Explanatory Note**:
-> Existing text of section 65:
-> *Existing Text*:
-> > Where an interest has been issued, it is not vitiated by reason only of a failure to comply with any of the requirements set out in sections 61 to 64 respecting the form and content of, and time and manner of publishing, any notice required by those sections in relation to that interest.
+If a petroleum-related interest has been issued, it is not vitiated by reason only of a failure to comply with any of the requirements set out in sections 61 to 64 respecting the form and content of, and time and manner of publishing, any notice required by those sections in relation to that interest.
 
 ### Section 145
 
 Subsection 78(3) of the Act is replaced by the following:
 
-**(3)** Subject to subsection 88(1), a significant discovery licence continues in force, in relation to each portion of the offshore area to which the licence applies, **for a term of 25 years**.
+**(3)** Subject to subsection 88(1), a significant discovery licence continues in force, in relation to each portion of the offshore area to which the licence applies, for a term of 25 years.
 
 **(3.1)** If the interest owner has made an application for a declaration of commercial discovery referred to in subsection 81(1) or for the issuance of a production licence referred to in subsection 84(1), the term of the significant discovery licence is extended until the Regulator makes a decision respecting that application.
 
 **(3.2)** The extension to the term of the significant discovery licence remains in force after the Regulator makes a declaration of commercial discovery, but the Regulator may cancel the extension if the interest owner fails to submit an application for the issuance of a production licence within a reasonable time.
 
-
-> **Explanatory Note**:
-> Existing text of subsection 78(3):
-> *Existing Text*:
-> > Subject to subsection 88(1), a significant discovery licence continues in force, in relation to each portion of the offshore area to which the licence applies, during such period as the declaration of significant discovery on the basis of which the licence was issued remains in force in relation to that portion.
-
 ### Section 146
 
 Subsection 83(2) of the Act is replaced by the following:
 
-**(2)** **Despite** subsection (1), the **Regulator** may, subject to such terms and conditions as the **Regulator** deems appropriate, authorize any interest holder of **a petroleum-related** interest or a share **in such an interest** to produce petroleum on the portions of the offshore area subject to the interest or share for use in the exploration or drilling for or development of petroleum on any portion of the offshore area.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 83(2):
-> *Existing Text*:
-> > Notwithstanding subsection (1), the Board may, subject to such terms and conditions as the Board deems appropriate, authorize any interest holder of an interest or a share therein to produce petroleum on the portions of the offshore area subject to the interest or share for use in the exploration or drilling for or development of petroleum on any portion of the offshore area.
+**(2)** Despite subsection (1), the Regulator may, subject to such terms and conditions as the Regulator deems appropriate, authorize any interest holder of a petroleum-related interest or a share in such an interest to produce petroleum on the portions of the offshore area subject to the interest or share for use in the exploration or drilling for or development of petroleum on any portion of the offshore area.
 
 ### Section 147
 
@@ -3629,40 +2981,27 @@ No submerged land licence or share in a submerged land licence may be held by an
 
 The following principles apply in this Division:
 
-all Canadian corporations and individuals resident in Canada shall have a full and fair opportunity to participate on a competitive basis, including in the course of employment, in the supply of goods and services used in any work or activity related to an offshore renewable energy project; and
+all Canadian corporations and individuals resident in Canada shall have a full and fair opportunity to participate on a competitive basis, including in the course of employment, in the supply of goods and services used in any work or activity related to an offshore renewable energy project;
 
-importance shall be given to the development of measures that aim to increase the participation of under-represented groups, including in the course of employment, in the supply of goods and services used in any such work or activity.
+importance shall be given to the development of measures that aim to increase the participation of under-represented groups, including in the course of employment, in the supply of goods and services used in any such work or activity; and
 
-
-> **Explanatory Note**:
-> New.
+during the submerged land licence issuance process, importance shall be given to the consideration of effects on fishing activities.
 
 ### Section 148
 
 The headings before section 99 of the Act are replaced by the following:
 
 
-### Royalties **and Revenues**
+### Royalties and Revenues
 
 
-#### Reservation of Royalties **and Revenues**
-
-
-> **Explanatory Note**:
-> Existing text of the headings:
-> *Existing Text*:
+#### Reservation of Royalties and Revenues
 
 ### Section 149
 
 Subsection 99(7) of the Act is replaced by the following:
 
-**(7)** No provision of this Act or the Provincial Act or any regulation made **under the Provincial Act** shall apply so as to reserve to **His** Majesty a Crown share in any **petroleum-related** interest issued in respect of any portion of the offshore area.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 99(7):
-> *Existing Text*:
-> > No provision of this Act or the Provincial Act or any regulation made thereunder shall apply so as to reserve to Her Majesty a Crown share in any interest issued in respect of any portion of the offshore area.
+**(7)** No provision of this Act or the Provincial Act or any regulation made under the Provincial Act shall apply so as to reserve to His Majesty a Crown share in any petroleum-related interest issued in respect of any portion of the offshore area.
 
 ### Section 150
 
@@ -3686,35 +3025,31 @@ The Act is amended by adding the following after section 99:
 
   **(5)** For greater certainty, for the purposes of this Division, revenues, interest and penalties payable under subsection (1) do not include taxes, interest and penalties imposed, levied and collected under Part IV.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 151
 
   **(1)** Subsections 100(1) to (3) of the Act are replaced by the following:
 
 ### Section 100
 
-      **(1)** Subject to subsection (6), **if** an agreement is entered into **under** subsection (3), royalties, interest and penalties payable under section 99 **or revenues, interest and penalties payable under section 99.1, as the case may be**, may be collected and administered and refunds in respect **of those amounts payable** may be granted on behalf of the Government of Canada in accordance with the terms and conditions of the agreement, as amended from time to time **under** subsection (4).
+      **(1)** Subject to subsection (6), if an agreement is entered into under subsection (3), royalties, interest and penalties payable under section 99 or revenues, interest and penalties payable under section 99.1, as the case may be, may be collected and administered and refunds in respect of those amounts payable may be granted on behalf of the Government of Canada in accordance with the terms and conditions of the agreement, as amended from time to time under subsection (4).
 
-      **(2)** The Federal Minister shall, on the request of the Government of the Province or the **Regulator**, negotiate
+      **(2)** The Federal Minister shall, on the request of the Government of the Province or the Regulator, negotiate
 
-        an agreement with the Provincial Minister and the **Regulator** with respect to the collection and administration of the royalties, interest and penalties payable under section 99; **and**
+        an agreement with the Provincial Minister and the Regulator with respect to the collection and administration of the royalties, interest and penalties payable under section 99; and
 
         an agreement with the Provincial Minister and the Regulator with respect to the collection and administration of the revenues, interest and penalties payable under section 99.1.
 
-      **(3)** On completion of the negotiation of an agreement **under** subsection (2), the Federal Minister, with the approval of the Governor in Council, shall, on behalf of the Government of Canada, enter into an agreement with the Government of the Province and the **Regulator** with respect to the collection and administration, on behalf of the Government of Canada, of the royalties, interest and penalties payable under section 99 **or the revenues, interest and penalties payable under section 99.1, as the case may be**, and with respect to the granting of refunds or the making of other payments in respect of those **amounts payable, as the case may be**, in accordance with the terms and conditions set out in the agreement.
+      **(3)** On completion of the negotiation of an agreement under subsection (2), the Federal Minister, with the approval of the Governor in Council, shall, on behalf of the Government of Canada, enter into an agreement with the Government of the Province and the Regulator with respect to the collection and administration, on behalf of the Government of Canada, of the royalties, interest and penalties payable under section 99 or the revenues, interest and penalties payable under section 99.1, as the case may be, and with respect to the granting of refunds or the making of other payments in respect of those amounts payable, as the case may be, in accordance with the terms and conditions set out in the agreement.
 
   **(2)** Subsections 100(6) and (7) of the Act are replaced by the following:
 
-    **(6)** An agreement **entered into under subsection (3)** may provide that, **if** any payment is received by the Government of the Province on account of any royalties, interest, penalties or other sum payable by a person under section 99, or under both section 99 and the Offshore Petroleum Royalty Act, **that** payment may be applied by the Government of the Province towards the royalties, interest, penalties or other sums payable by the person under **that section or both that section and that** Act in **the** manner **that** is specified in the agreement, **even if** the person directed that the payment be applied in any other manner or made no direction as to its application.
+    **(6)** An agreement entered into under subsection (3) may provide that, if any payment is received by the Government of the Province on account of any royalties, interest, penalties or other sum payable by a person under section 99, or under both section 99 and the Offshore Petroleum Royalty Act, that payment may be applied by the Government of the Province towards the royalties, interest, penalties or other sums payable by the person under that section or both that section and that Act in the manner that is specified in the agreement, even if the person directed that the payment be applied in any other manner or made no direction as to its application.
 
     **(6.1)** An agreement entered into under subsection (3) may provide that, if any payment is received by the Government of the Province on account of any revenues, interest, penalties or other sum payable in respect of any offshore renewable energy project by a person under section 99.1, or under both section 99.1 and the Provincial Act or any other Act of the Province and any regulations made under those Acts, that payment may be applied by the Government of the Province towards the revenues, interest, penalties or other sums payable by the person under that section or both that section and that Act and regulations made under that Act, in the manner that is specified in the agreement, even if the person directed that the payment be applied in any other manner or made no direction as to its application.
 
-    **(7)** Any payment or part **of a payment** applied by the Government of the Province in accordance with an agreement **entered into under subsection (3)** towards the royalties, interest, penalties or other sums payable by a person under section 99 **or the revenues, interest, penalties or other sums payable by a person under section 99.1, as the case may be**,
+    **(7)** Any payment or part of a payment applied by the Government of the Province in accordance with an agreement entered into under subsection (3) towards the royalties, interest, penalties or other sums payable by a person under section 99 or the revenues, interest, penalties or other sums payable by a person under section 99.1, as the case may be,
 
-      relieves that person of liability to pay **those amounts payable** to the extent of the applied payment or part **of the payment**; and
+      relieves that person of liability to pay those amounts payable to the extent of the applied payment or part of the payment; and
 
       shall be deemed to have been applied in accordance with a direction made by that person.
 
@@ -3724,46 +3059,28 @@ Sections 101 and 102 of the Act are replaced by the following:
 
 ### Section 101
 
-  **(1)** All royalties, interest and penalties payable under section 99 **and all revenues, interest and penalties payable under section 99.1**, including the proceeds of any royalty **or revenues** payable in kind, shall be made payable and remitted to the Receiver General.
+  **(1)** All royalties, interest and penalties payable under section 99 and all revenues, interest and penalties payable under section 99.1, including the proceeds of any royalty or revenues payable in kind, shall be made payable and remitted to the Receiver General.
 
-  **(2)** On the collection or receipt by the **Regulator under** this section of any **amounts payable, those amounts** shall be deposited as soon as practicable to the credit of the Receiver General and paid into the Consolidated Revenue Fund in the manner prescribed by the Treasury Board under the `Financial Administration Act`.
+  **(2)** On the collection or receipt by the Regulator under this section of any amounts payable, those amounts shall be deposited as soon as practicable to the credit of the Receiver General and paid into the Consolidated Revenue Fund in the manner prescribed by the Treasury Board under the `Financial Administration Act`.
 
 
 #### Liability and Collection
 
 ### Section 102
 
-All royalties, interest and penalties payable under section 99 **and all revenues, interest and penalties payable under section 99.1** are debts due to **His** Majesty in right of Canada and are recoverable from the person required to pay **them** in accordance with this Division.
-
-
-> **Explanatory Note**:
-> Existing text of sections 101 and 102:
-> *Existing Text*:
-> > All royalties, interest and penalties payable under section 99, including the proceeds of any royalty payable in kind, shall be made payable and remitted to the Receiver General.
-> > On the collection or receipt of any royalties, interest and penalties by the Board pursuant to this section, the royalties shall be deposited as soon as practicable to the credit of the Receiver General and paid into the Consolidated Revenue Fund in the manner prescribed by the Treasury Board under the `Financial Administration Act`.
-> > All royalties, interest and penalties payable under section 99 are debts due to Her Majesty in right of Canada and are recoverable as such from the person required to pay the royalties in accordance with this Division.
+All royalties, interest and penalties payable under section 99 and all revenues, interest and penalties payable under section 99.1 are debts due to His Majesty in right of Canada and are recoverable from the person required to pay them in accordance with this Division.
 
 ### Section 153
 
 Subsections 103(3) and (4) of the Act are replaced by the following:
 
-**(3)** **Despite** subsection 78(2) of the `Canada Petroleum Resources Act`, one of the members of the Environmental Studies Management Board established by subsection 78(1) of that Act is to be appointed by the **Regulator** on the recommendation of the Provincial Minister.
+**(3)** Despite subsection 78(2) of the `Canada Petroleum Resources Act`, one of the members of the Environmental Studies Management Board established by subsection 78(1) of that Act is to be appointed by the Regulator on the recommendation of the Provincial Minister.
 
-**(4)** The Environmental Studies Management Board referred to in subsection (3) shall submit to the **Regulator**, at the same time the report or recommendation **referred to in paragraph (a)** is submitted to the Federal Minister,
+**(4)** The Environmental Studies Management Board referred to in subsection (3) shall submit to the Regulator, at the same time the report or recommendation referred to in paragraph (a) is submitted to the Federal Minister,
 
-  a copy of every annual report and recommendation submitted to the Federal Minister **under** paragraph 79(1)(d) or (e) of the `Canada Petroleum Resources Act`, and
+  a copy of every annual report and recommendation submitted to the Federal Minister under paragraph 79(1)(d) or (e) of the `Canada Petroleum Resources Act`, and
 
-  a copy of that part of every budget submitted to the Federal Minister **under** paragraph 79(1)(c) of that Act that relates to the offshore area.
-
-
-> **Explanatory Note**:
-> Existing text of subsections 103(3) and (4):
-> *Existing Text*:
-> > Notwithstanding subsection 78(2) of the `Canada Petroleum Resources Act`, one of the members of the Environmental Studies Management Board established by subsection 78(1) of that Act is to be appointed by the Board on the recommendation of the Provincial Minister.
-> > The Environmental Studies Management Board referred to in subsection (3) shall submit to the Board
-> > a copy of every annual report and recommendation submitted to the Federal Minister pursuant to paragraph 79(1)(d) or (e) of the `Canada Petroleum Resources Act`, and
-> > a copy of that part of every budget submitted to the Federal Minister pursuant to paragraph 79(1)(c) of that Act that relates to the offshore area
-> > at the same time the report or recommendation is submitted to the Federal Minister.
+  a copy of that part of every budget submitted to the Federal Minister under paragraph 79(1)(c) of that Act that relates to the offshore area.
 
 ### Section 154
 
@@ -3775,22 +3092,11 @@ that arises under a contract
 
 to which the interest owner or holder of the interest or share is a party,
 
-that provides for the operator appointed **under the contract** to carry out any work or activity, in the portions of the offshore area to which the interest or share applies, related to the exploration for or the development or production of petroleum **or to offshore renewable energy projects**, and
+that provides for the operator appointed under the contract to carry out any work or activity, in the portions of the offshore area to which the interest or share applies, related to the exploration for or the development or production of petroleum or to offshore renewable energy projects, and
 
 that requires the interest owner or holder to make payments to the operator to cover all or part of the advances made by the operator in respect of the costs and expenses of such work or activity, and
 
 that secures the payments referred to in subparagraph (a)(iii); (**privilège de l'exploitant**)
-
-
-> **Explanatory Note**:
-> Existing text of the definition:
-> *Existing Text*:
-> > **operator's lien** means any charge on or right in relation to an interest or a share in an interest
-> > that arises under a contract
-> > to which the interest owner or holder of the interest or share is a party,
-> > that provides for the operator appointed thereunder to carry out any work or activity related to the exploration for or the development or production of petroleum in the portions of the offshore area to which the interest or share applies, and
-> > that requires the interest owner or holder to make payments to the operator to cover all or part of the advances made by the operator in respect of the costs and expenses of such work or activity, and
-> > that secures the payments referred to in subparagraph (a)(iii); (**privilège de l'exploitant**)
 
 ### Section 155
 
@@ -3798,31 +3104,25 @@ Section 106 of the Act is replaced by the following:
 
 ### Section 106
 
-  ****(1)**** **If** an interest holder of an interest or any share **in an interest** enters into an agreement or arrangement that is or may result in a transfer, assignment or other disposition of the interest or share, the interest holder shall give notice of such agreement or arrangement to the **Regulator**, together with a summary of its terms and conditions or, on the request of the **Regulator**, a copy of the agreement or arrangement.
+  **(1)** If an interest holder of an interest or any share in an interest enters into an agreement or arrangement that is or may result in a transfer, assignment or other disposition of the interest or share, the interest holder shall give notice of such agreement or arrangement to the Regulator, together with a summary of its terms and conditions or, on the request of the Regulator, a copy of the agreement or arrangement.
 
   **(2)** A submerged land licence shall only be transferred, assigned or otherwise disposed of under subsection (1) if the Regulator is satisfied that the terms and conditions of the licence can be met following the transfer, assignment or other disposition.
-
-
-> **Explanatory Note**:
-> Existing text of section 106:
-> *Existing Text*:
-> > Where an interest holder of an interest or any share therein enters into an agreement or arrangement that is or may result in a transfer, assignment or other disposition of the interest or any share therein, the interest holder shall give notice of such agreement or arrangement to the Board, together with a summary of its terms and conditions or, on the request of the Board, a copy of the agreement or arrangement.
 
 ### Section 156
 
   **(1)** The definition **engineering research or feasibility study** in subsection 122(1) of the Act is replaced by the following:
 
-    **engineering research or feasibility study** includes work undertaken to facilitate the design or to analyse the viability of engineering technology, systems or schemes to be used, in the offshore area, in the exploration for or the development, production or transportation of petroleum **or in offshore renewable energy projects**; (**recherches ou études techniques**)
+    **engineering research or feasibility study** includes work undertaken to facilitate the design or to analyse the viability of engineering technology, systems or schemes to be used, in the offshore area, in the exploration for or the development, production or transportation of petroleum or in offshore renewable energy projects; (**recherches ou études techniques**)
 
   **(2)** Paragraph 122(5)(d) of the Act is amended by striking out "or" at the end of subparagraph (i) and by replacing subparagraph (ii) with the following:
 
-    in any other case **relating to a petroleum-related work or activity**, after the **end** of five years following the date of completion of the geological or geophysical work, **or**
+    in any other case relating to a petroleum-related work or activity, after the end of five years following the date of completion of the geological or geophysical work, or
 
     in any case relating to an offshore renewable energy project, after the end of the time set out by regulations or, in the absence of regulations, three years following the date of completion of the geological or geophysical work;
 
   **(3)** Paragraph 122(5)(e) of the Act is amended by striking out "or" at the end of subparagraph (i) and by replacing subparagraph (ii) with the following:
 
-    in any other case **relating to a petroleum-related work or activity**, after the **end** of five years following the date of completion of the research, study or **experimental** project or after the reversion of that portion of the offshore area to Crown reserve areas, whichever occurs first, **or**
+    in any other case relating to a petroleum-related work or activity, after the end of five years following the date of completion of the research, study or experimental project or after the reversion of that portion of the offshore area to Crown reserve areas, whichever occurs first, or
 
     in any case relating to an offshore renewable energy project, after the earlier of:
 
@@ -3832,66 +3132,49 @@ Section 106 of the Act is replaced by the following:
 
   **(4)** Paragraph 122(5)(i) of the Act is amended by striking out "or" at the end of subparagraph (i) and by replacing subparagraph (ii) with the following:
 
-    in any other case **relating to a petroleum-related work or activity**, if five years have passed since the completion of the study, **or**
+    in any other case relating to a petroleum-related work or activity, if five years have passed since the completion of the study, or
 
     in any case relating to an offshore renewable energy project, if the period set out by regulations has passed or, in the absence of regulations, if three years have passed since the completion of that study.
 
   **(5)** The portion of subsection 122(6) of the Act before paragraph (a) is replaced by the following:
 
-    **(6)** The **Regulator** may disclose any information or documentation that it obtains under this Part or Part III — to officials of the Government of Canada, the Government of the Province or any other provincial government, or a foreign government or to the representatives of any of their agencies — for the purposes of a federal, provincial or foreign law, as the case may be, that deals primarily with a petroleum-related work or activity, including the exploration for and the management, administration and exploitation of petroleum resources, **or with an offshore renewable energy project**, if
+    **(6)** The Regulator may disclose any information or documentation that it obtains under this Part or Part III — to officials of the Government of Canada, the Government of the Province or any other provincial government, or a foreign government or to the representatives of any of their agencies — for the purposes of a federal, provincial or foreign law, as the case may be, that deals primarily with a petroleum-related work or activity, including the exploration for and the management, administration and exploitation of petroleum resources, or with an offshore renewable energy project, if
 
   **(6)** Subsection 122(9) of the Act is replaced by the following:
 
-    **(9)** Subsection (2) does not apply in respect of information regarding the applicant for an operating licence or authorization under subsection 142(1) **or authorization under subsection 142.011(1)** or **in respect of** the scope, purpose, location, timing and nature of the proposed work or activity for which the authorization is sought.
+    **(9)** Subsection (2) does not apply in respect of information regarding the applicant for an operating licence or authorization under subsection 142(1) or authorization under subsection 142.011(1) or in respect of the scope, purpose, location, timing and nature of the proposed work or activity for which the authorization is sought.
+
+    **(6.1)** Section 122 of the Act is amended by adding the following after subsection (9):
 
     **(9.1)** The Regulator shall make public a summary of the information referred to in subsection (9) in respect of a work or activity for which the Impact Assessment Agency of Canada decided under section 16 of the `Impact Assessment Act` that an impact assessment is not required or which is excluded under section 112.1 of that Act.
 
   **(7)** The portion of subsection 122(11) of the Act before paragraph (a) is replaced by the following:
 
-    **(11)** Subject to section 122.1, the **Regulator** may disclose, **including for the purposes of the `Impact Assessment Act`**, all or part of any information or documentation related to safety or environmental protection that is provided in relation to an application for an operating licence or authorization under subsection 142(1) **or authorization under subsection 142.011(1)** or to an operating licence or authorization that is issued under **one of those subsections** or provided in accordance with any regulation made under this Part or Part III. The **Regulator** is not, however, permitted to disclose information or documentation if **it** is satisfied that
+    **(11)** Subject to section 122.1, the Regulator may disclose, including for the purposes of the `Impact Assessment Act`, all or part of any information or documentation related to safety or environmental protection that is provided in relation to an application for an operating licence or authorization under subsection 142(1) or authorization under subsection 142.011(1) or to an operating licence or authorization that is issued under one of those subsections or provided in accordance with any regulation made under this Part or Part III. The Regulator is not, however, permitted to disclose information or documentation if it is satisfied that
 
   **(8)** Paragraph 122(11)(c) of the English version of the Act is replaced by the following:
 
-    there is a real and substantial risk that disclosure of it will impair the security of pipelines, as defined in section 138, installations, **facilities**, vessels, aircraft or systems, including computer or communication systems, used for any work or activity in respect of which this Act applies — or methods employed to protect them — and the need to prevent its disclosure outweighs the public interest in its disclosure.
+    there is a real and substantial risk that disclosure of it will impair the security of pipelines, as defined in section 138, installations, facilities, vessels, aircraft or systems, including computer or communication systems, used for any work or activity in respect of which this Act applies — or methods employed to protect them — and the need to prevent its disclosure outweighs the public interest in its disclosure.
 
 ### Section 157
 
 Subsection 126(2) of the Act is replaced by the following:
 
-**(2)** **Despite** anything in this Part but subject to sections 32 to 37 **and subsection 126(3), if the** interest owner or holder **of a petroleum-related interest** fails to comply with a notice under subsection (1) within the period specified in the notice and the **Regulator** considers that the failure to comply warrants cancellation of the interest of the interest owner or holder or **of** any share in the interest held by the holder with respect to a portion only of the offshore area subject to the interest, the **Regulator** may, by order subject to section 127, cancel that interest or share, **in which case** the portions of the offshore area under **that interest or share** become Crown reserve areas.
+**(2)** Despite anything in this Part but subject to sections 32 to 37 and subsection 126(3), if the interest owner or holder of a petroleum-related interest fails to comply with a notice under subsection (1) within the period specified in the notice and the Regulator considers that the failure to comply warrants cancellation of the interest of the interest owner or holder or of any share in the interest held by the holder with respect to a portion only of the offshore area subject to the interest, the Regulator may, by order subject to section 127, cancel that interest or share, in which case the portions of the offshore area under that interest or share become Crown reserve areas.
 
 **(3)** The Regulator's order to cancel an exploration licence, significant discovery licence or production licence under subsection (2) is not subject to section 127 if the notice under subsection (1) relates to a failure to meet any of the terms and conditions contained in that licence.
 
 **(4)** Despite anything in this Part but subject to sections 38.1 to 38.3, if the interest owner or holder of a submerged land licence fails to comply with a notice under subsection (1) within the period specified in the notice and the Regulator considers that the failure to comply warrants cancellation of the licence of the interest owner or holder or any share in the licence held by the holder, the Regulator may, by order, cancel that licence or share, in which case the portions of the offshore area under that licence or share become Crown reserve areas.
 
-
-> **Explanatory Note**:
-> Existing text of subsection 126(2):
-> *Existing Text*:
-> > Notwithstanding anything in this Part but subject to sections 32 to 37, where an interest owner or holder fails to comply with a notice under subsection (1) within the period specified in the notice and the Board considers that the failure to comply warrants cancellation of the interest of the interest owner or holder or any share in the interest held by the holder with respect to a portion only of the offshore area subject to the interest, the Board may, by order subject to section 127, cancel that interest or share, and where the interest or share is so cancelled, the portions of the offshore area thereunder become Crown reserve areas.
-
 ### Section 158
 
 Subsection 127(8) of the Act is replaced by the following:
 
-**(8)** **If** an order, decision or action referred to in subsection (2) is made or taken, the **Regulator** shall notify the person who requested a hearing in respect of the order, decision or action under subsection (3) and, on request by that person, publish or make available to that person the reasons for the order, decision or action.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 127(8):
-> *Existing Text*:
-> > Where an order, decision or action referred to in subsection (2) is made or taken, the Board shall notify the person who requested a hearing in respect of the order, decision or action under subsection (3) and, on request by that person, publish or make available to that person the reasons for the order, decision or action.
+**(8)** If an order, decision or action referred to in subsection (2) is made or taken, the Regulator shall notify the person who requested a hearing in respect of the order, decision or action under subsection (3) and, on request by that person, publish or make available to that person the reasons for the order, decision or action.
 
 ### Section 159
 
 Subsections 128(2) and (3) of the Act are repealed.
-
-
-> **Explanatory Note**:
-> Existing text of subsections 128(2) and (3):
-> *Existing Text*:
-> > Subject to subsection (3), a copy of each regulation that the Governor in Council proposes to make under this Part shall be published in the `Canada Gazette` and a reasonable opportunity shall be afforded to interested persons to make representations to the Federal Minister with respect thereto.
-> > No proposed regulation need be published more than once under subsection (2) whether or not it is altered or amended after such publication as a result of representations made by interested persons as provided in that subsection.
 
 ### Section 160
 
@@ -3899,13 +3182,7 @@ Subsection 131(1) of the Act is replaced by the following:
 
 ### Section 131
 
-  **(1)** Subject to section 130 and subsection 132(2), the **petroleum-related** interests provided for under this Part replace all petroleum rights or prospects **of petroleum rights** acquired or vested in relation to any portion of the offshore area prior to the coming into force of this section.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 131(1):
-> *Existing Text*:
-> > Subject to section 130 and subsection 132(2), the interests provided for under this Part replace all petroleum rights or prospects thereof acquired or vested in relation to any portion of the offshore area prior to the coming into force of this section.
+  **(1)** Subject to section 130 and subsection 132(2), the petroleum-related interests provided for under this Part replace all petroleum rights or prospects of petroleum rights acquired or vested in relation to any portion of the offshore area prior to the coming into force of this section.
 
 ### Section 161
 
@@ -3915,21 +3192,12 @@ The Act is amended by adding the following after section 137:
 
 Despite subsection 78(3) and subject to subsection 88(1), if the interest holder of an exploration licence issued before 2017 applies for a declaration of significant discovery in relation to any portion of the offshore area to which that licence applies and if the significant discovery is indicated by the first well on a geological feature that demonstrates, by flow testing, the existence of hydrocarbons in that feature, any significant discovery licence issued for that significant discovery area continues in force, in relation to each portion of the offshore area to which the licence applies, for as long as the declaration of significant discovery on the basis of which the licence was issued remains in force in relation to that portion.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 162
 
 The heading "Petroleum Operations" before section 138 of the Act is replaced by the following:
 
 
-## Petroleum **and Offshore Renewable Energy** Operations
-
-
-> **Explanatory Note**:
-> Existing text of the heading:
-> *Existing Text*:
+## Petroleum and Offshore Renewable Energy Operations
 
 ### Section 163
 
@@ -3939,36 +3207,20 @@ Section 138.1 of the Act is replaced by the following:
 
 The purpose of this Part is to promote
 
-safety, particularly by encouraging persons exploring for and exploiting petroleum **or carrying on an offshore renewable energy project** to maintain a prudent regime for achieving safety;
+safety, particularly by encouraging persons exploring for and exploiting petroleum or carrying on an offshore renewable energy project to maintain a prudent regime for achieving safety;
 
 the protection of the environment;
 
-accountability in accordance with the "polluter pays" principle; **and**
+accountability in accordance with the "polluter pays" principle; and
 
-**in respect of the exploration for and exploitation of** petroleum, the conservation of petroleum resources and joint production arrangements.
-
-
-> **Explanatory Note**:
-> Existing text of section 138.1:
-> *Existing Text*:
-> > The purpose of this Part is to promote, in respect of the exploration for and exploitation of petroleum,
-> > safety, particularly by encouraging persons exploring for and exploiting petroleum to maintain a prudent regime for achieving safety;
-> > the protection of the environment;
-> > accountability in accordance with the "polluter pays" principle;
-> > the conservation of petroleum resources; and
-> > joint production arrangements.
+in respect of the exploration for and exploitation of petroleum, the conservation of petroleum resources and joint production arrangements.
 
 ### Section 164
 
 The heading before section 139 of the French version of the Act is replaced by the following:
 
 
-### **Champ d'**application
-
-
-> **Explanatory Note**:
-> Existing text of the heading:
-> *Existing Text*:
+### Champ d'application
 
 ### Section 165
 
@@ -3976,13 +3228,7 @@ Section 139 of the Act is replaced by the following:
 
 ### Section 139
 
-This Part applies in respect of the exploration and drilling for and the production, conservation, processing and transportation of petroleum, **and in respect of offshore renewable energy projects**, in those portions of the offshore area not within the Province.
-
-
-> **Explanatory Note**:
-> Existing text of section 139:
-> *Existing Text*:
-> > This Part applies in respect of the exploration and drilling for and the production, conservation, processing and transportation of petroleum in those portions of the offshore area not within the Province.
+This Part applies in respect of the exploration and drilling for and the production, conservation, processing and transportation of petroleum, and in respect of offshore renewable energy projects, in those portions of the offshore area not within the Province.
 
 ### Section 166
 
@@ -3996,35 +3242,20 @@ that person is the holder of an authorization issued, before the commencement of
 
 if it is required, that person is authorized or entitled to carry on business in the place where that person proposes to carry on the work or activity.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 167
 
 Section 141.1 of the Act is replaced by the following:
 
 ### Section 141.1
 
-The **Regulator** may delegate any of the **Regulator**'s powers under section 142, **142.011**, 142.2, 142.3, 143.1, 143.2, 167.1, 168, **188.2** or **188.21** to any person, and the person shall exercise those powers in accordance with the terms of the delegation.
-
-
-> **Explanatory Note**:
-> Existing text of section 141.1:
-> *Existing Text*:
-> > The Board may delegate any of the Board's powers under section 142, 142.2, 142.3, 143.1, 143.2, 167.1 or 168 to any person, and the person shall exercise those powers in accordance with the terms of the delegation.
+The Regulator may delegate any of the Regulator's powers under section 142, 142.011, 142.2, 142.3, 143.1, 143.2, 167.1, 168, 188.2 or 188.21 to any person, and the person shall exercise those powers in accordance with the terms of the delegation.
 
 ### Section 168
 
 The heading "Operating Licences and Authorization for Work" before section 142 of the Act is replaced by the following:
 
 
-#### **Petroleum** Operating Licences and **Authorizations**
-
-
-> **Explanatory Note**:
-> Existing text of the heading:
-> *Existing Text*:
+#### Petroleum Operating Licences and Authorizations
 
 ### Section 169
 
@@ -4032,7 +3263,7 @@ The heading "Operating Licences and Authorization for Work" before section 142 o
 
 ### Section 142
 
-      **(1)** The **Regulator** may, on application made in the form and containing the information fixed by it and in the prescribed manner, issue **in relation to petroleum-related works or activities**
+      **(1)** The Regulator may, on application made in the form and containing the information fixed by it and in the prescribed manner, issue in relation to petroleum-related works or activities
 
   **(2)** Subsection 142(4) of the Act is amended by striking out "and" at the end of paragraph (b) and by adding the following after paragraph (b):
 
@@ -4040,159 +3271,154 @@ The heading "Operating Licences and Authorization for Work" before section 142 o
 
 ### Section 170
 
-Sections 142.02 and 142.03 of the Act are replaced by the following:
+  ****(1)**** The Act **is amended** by **adding** the following **after section 142.01**:
 
 
 #### Offshore Renewable Energy Authorizations
 
 ### Section 142.011
 
-  **(1)** The Regulator may, on application containing any information required by the Regulator or prescribed, issue an authorization with respect to each work or activity proposed to be carried out in relation to an offshore renewable energy project.
+      **(1)** The Regulator may, on application containing any information required by the Regulator or prescribed, issue an authorization with respect to each work or activity proposed to be carried out in relation to an offshore renewable energy project.
 
-  **(2)** On receipt by the Regulator of an application for an authorization referred to in subsection (1) or of an application to amend the authorization, the Regulator shall provide a copy of the application to the Chief Safety Officer.
+      **(2)** On receipt by the Regulator of an application for an authorization referred to in subsection (1) or of an application to amend the authorization, the Regulator shall provide a copy of the application to the Chief Safety Officer.
 
-  **(3)** An authorization is subject to any terms and conditions required by the Regulator or prescribed, including terms or conditions with respect to
+      **(3)** An authorization is subject to any terms and conditions required by the Regulator or prescribed, including terms or conditions with respect to
 
-    approvals;
+        approvals;
 
-    deposits of money;
+        deposits of money;
 
-    liability for loss, damage, costs or expenses related to debris, as defined in subsection 188.17(1);
+        liability for loss, damage, costs or expenses related to debris, as defined in subsection 188.17(1);
 
-    the carrying out of safety or environmental programs or studies;
+        the carrying out of safety or environmental programs or studies; and
 
-    conditions established under the `Impact Assessment Act`, including those established under section 64 of that Act or by regulations made under paragraph 112(1)(a.2) of that Act; and
+        [*Deleted*]
 
-    certificates of fitness and who may issue them.
+        certificates of fitness and who may issue them.
 
-  **(4)** The terms and conditions shall not be inconsistent with the provisions of this Act or the regulations.
+      **(4)** The terms and conditions shall not be inconsistent with the provisions of this Act or the regulations.
 
-  **(5)** The Regulator may suspend or revoke an authorization referred to in subsection (1) for failure to comply with, contravention of or default in respect of
+      **(5)** The Regulator may suspend or revoke an authorization referred to in subsection (1) for failure to comply with, contravention of or default in respect of
 
-    a term or condition, determined by the Regulator in accordance with the provisions of this Part or Part III.1 or prescribed under either of those Parts, subject to which the authorization was issued;
+        a term or condition, determined by the Regulator in accordance with the provisions of this Part or Part III.1 or prescribed under either of those Parts, subject to which the authorization was issued;
 
-    a fee or charge payable in accordance with regulations made under section 30.1;
+        a fee or charge payable in accordance with regulations made under section 30.1;
 
-    a requirement undertaken in a declaration referred to in subsection 143.1(2);
+        a requirement undertaken in a declaration referred to in subsection 143.1(2);
 
-    subsection 143.1(3), 188.2(3) or 188.21(2);
+        subsection 143.1(3), 188.2(3) or 188.21(2);
 
-    any provision of Part III.1; or
+        any provision of Part III.1; or
 
-    any applicable regulation.
+        any applicable regulation.
 
 
-#### Impact Assessment
+## Impact Assessment
+
+      **(2)** Subsection 142.011(3) of the Act is amended by striking out "and" at the end of paragraph (d) and by adding the following after paragraph (d):
+
+        conditions established under the `Impact Assessment Act`, including those established under section 64 of that Act or by regulations made under paragraph 112(1)(a.2) of that Act; and
+
+### Section 170.1
+
+    The Act is amended by adding the following after the heading "Impact Assessment" after section 142.011:
 
 ### Section 142.012
 
-  **(1)** For the purposes of this section and sections 142.013 to 142.017, **designated project** means a designated project, as defined in section 2 of the `Impact Assessment Act`, that is a work or activity referred to in section 140 or 140.2 of this Act.
+      **(1)** For the purposes of this section and sections 142.013 to 142.017, **designated project** means a designated project, as defined in section 2 of the `Impact Assessment Act`, that is a work or activity referred to in section 140 or 140.2 of this Act.
 
-  **(2)** If an application for an authorization under paragraph 142(1)(b) or subsection 142.011(1) or an application made under subsection 143(2) is in respect of a designated project, the Regulator may not make a determination respecting that application before
+      **(2)** If an application for an authorization under paragraph 142(1)(b) or subsection 142.011(1) or an application made under subsection 143(2) is in respect of a designated project, the Regulator may not make a determination respecting that application before
 
-    the Impact Assessment Agency of Canada decides, under subsection 16(1) of the `Impact Assessment Act`, that an impact assessment of that project is not required; or
+        the Impact Assessment Agency of Canada decides, under subsection 16(1) of the `Impact Assessment Act`, that an impact assessment of that project is not required; or
 
-    the Minister of the Environment has issued a decision statement under section 65 of that Act.
+        the Minister of the Environment has issued a decision statement under section 65 of that Act.
 
-  **(3)** If the Minister of the Environment considers designating, under section 9 of the `Impact Assessment Act`, a work or activity referred to in section 140 or 140.2 of this Act, the Chairperson of the Regulator shall provide the Minister with comments respecting this designation.
+      **(3)** If the Minister of the Environment considers designating, under section 9 of the `Impact Assessment Act`, a work or activity referred to in section 140 or 140.2 of this Act, the Chairperson of the Regulator shall provide the Minister with comments respecting this designation.
 
-  **(4)** Before providing the Minister of the Environment with comments, the Chairperson of the Regulator may consult with the Federal Minister and the Provincial Minister and, in that event, the Chairperson shall consult with both Ministers.
+      **(4)** Before providing the Minister of the Environment with comments, the Chairperson of the Regulator may consult with the Federal Minister and the Provincial Minister and, in that event, the Chairperson shall consult with both Ministers.
 
 ### Section 142.013
 
-  **(1)** The Regulator shall provide the Impact Assessment Agency of Canada, on request and within the period specified by the Agency under subsection 13(1) of the `Impact Assessment Act`, with any specialist or expert information or knowledge that the Regulator possesses.
+      **(1)** The Regulator shall provide the Impact Assessment Agency of Canada, on request and within the period specified by the Agency under subsection 13(1) of the `Impact Assessment Act`, with any specialist or expert information or knowledge that the Regulator possesses.
 
-  **(2)** The Regulator shall, on the Agency's request made under subsection 13(2) of the `Impact Assessment Act`, engage the proponent of a designated project in order to specify to the proponent the information, if any, that the Regulator may require in order to exercise its powers or perform its duties or functions with respect to that project.
+      **(2)** The Regulator shall, on the Agency's request made under subsection 13(2) of the `Impact Assessment Act`, engage the proponent of a designated project in order to specify to the proponent the information, if any, that the Regulator may require in order to exercise its powers or perform its duties or functions with respect to that project.
 
-  **(3)** The Chairperson of the Regulator shall provide the Agency with comments for any work or activity referred to in section 140 or 140.2 that is the subject of a notice posted under subsection 15(3) of the `Impact Assessment Act` in order to assist the Agency to decide whether an impact assessment of that work or activity is required.
+      **(3)** The Chairperson of the Regulator shall provide the Agency with comments for any work or activity referred to in section 140 or 140.2 that is the subject of a notice posted under subsection 15(3) of the `Impact Assessment Act` in order to assist the Agency to decide whether an impact assessment of that work or activity is required.
 
-  **(4)** Before providing the Agency with comments, the Chairperson of the Regulator may consult with the Federal Minister and the Provincial Minister and, in that event, the Chairperson shall consult with both Ministers.
+      **(4)** Before providing the Agency with comments, the Chairperson of the Regulator may consult with the Federal Minister and the Provincial Minister and, in that event, the Chairperson shall consult with both Ministers.
 
-  **(5)** If the Agency decides that an impact assessment of the designated project is required, the Chairperson of the Regulator shall provide the Agency with comments respecting the time limits referred to in subsections 28(2) and 37(1) of the `Impact Assessment Act` within which the impact assessment report shall be submitted to the Minister of the Environment and within which any recommendations shall be posted on the Internet site established by the Agency.
+      **(5)** If the Agency decides that an impact assessment of the designated project is required, the Chairperson of the Regulator shall provide the Agency with comments respecting the time limits referred to in subsections 28(2) and 37(1) of the `Impact Assessment Act` within which the impact assessment report shall be submitted to the Minister of the Environment and within which any recommendations shall be posted on the Internet site established by the Agency.
 
-  **(6)** The Chairperson of the Regulator shall provide the Minister of the Environment with comments respecting any extension to the time limits that is considered under subsection 28(6) or (7) or 37(3) or (4) of the `Impact Assessment Act`.
+      **(6)** The Chairperson of the Regulator shall provide the Minister of the Environment with comments respecting any extension to the time limits that is considered under subsection 28(6) or (7) or 37(3) or (4) of the `Impact Assessment Act`.
 
-  **(7)** Before providing the Minister of the Environment with comments, the Chairperson of the Regulator may consult with the Federal Minister and the Provincial Minister and, in that event, the Chairperson shall consult with both Ministers.
+      **(7)** Before providing the Minister of the Environment with comments, the Chairperson of the Regulator may consult with the Federal Minister and the Provincial Minister and, in that event, the Chairperson shall consult with both Ministers.
 
-  **(8)** If the Agency decides that an impact assessment of the designated project is required, the Regulator shall provide the Agency with comments respecting
+      **(8)** If the Agency decides that an impact assessment of the designated project is required, the Regulator shall provide the Agency with comments respecting
 
-    the scope of the factors that the Agency takes into account in determining, under subsection 18(1.2) of the `Impact Assessment Act`, what information or which studies it considers necessary and that it may require from the proponent for the conduct of the impact assessment;
+        the scope of the factors that the Agency takes into account in determining, under subsection 18(1.2) of the `Impact Assessment Act`, what information or which studies it considers necessary and that it may require from the proponent for the conduct of the impact assessment;
 
-    the information or studies that the Regulator considers necessary for the conduct of the impact assessment or preparation of the impact assessment report, as the case may be, and that the Agency may require from the proponent under paragraph 18(1)(a), subsections 19(3) and 26(2) and section 38 of that Act; and
+        the information or studies that the Regulator considers necessary for the conduct of the impact assessment or preparation of the impact assessment report, as the case may be, and that the Agency may require from the proponent under paragraph 18(1)(a), subsections 19(3) and 26(2) and section 38 of that Act; and
 
-    whether the proponent has provided the Agency with all of the information or studies necessary for the conduct of the impact assessment or preparation of the impact assessment report.
+        whether the proponent has provided the Agency with all of the information or studies necessary for the conduct of the impact assessment or preparation of the impact assessment report.
 
 ### Section 142.014
 
-The Regulator shall provide the Impact Assessment Agency of Canada or a review panel, on request and within the period specified by the Agency or review panel under section 23 of the `Impact Assessment Act`, with any specialist or expert information or knowledge that the Regulator possesses.
+    The Regulator shall provide the Impact Assessment Agency of Canada or a review panel, on request and within the period specified by the Agency or review panel under section 23 of the `Impact Assessment Act`, with any specialist or expert information or knowledge that the Regulator possesses.
 
 ### Section 142.015
 
-If the Impact Assessment Agency of Canada or review panel makes recommendations respecting a designated project to assist the Minister of the Environment in establishing conditions under section 64 of the `Impact Assessment Act`, including respecting mitigation measures, a follow-up program or an adaptive management plan, the Regulator shall provide the Agency or review panel, as the case may be, with comments respecting those conditions.
+    If the Impact Assessment Agency of Canada or review panel **is to mak**e recommendations respecting a designated project to assist the Minister of the Environment in establishing conditions under section 64 of the `Impact Assessment Act`, including respecting mitigation measures, a follow-up program or an adaptive management plan, the Regulator shall provide the Agency or review panel, as the case may be, with comments respecting those conditions.
+
+### Section 170.2
+
+    Sections 142.02 and 142.03 of the Act are replaced by the following:
 
 ### Section 142.016
 
-Every federal authority, as defined in section 2 of the `Impact Assessment Act`, shall provide the Regulator, on request and within the period specified by the Regulator, with any specialist or expert information or knowledge that the authority possesses and that the Regulator may require in order to
+    Every federal authority, as defined in section 2 of the `Impact Assessment Act`, shall provide the Regulator, on request and within the period specified by the Regulator, with any specialist or expert information or knowledge that the authority possesses and that the Regulator may require in order to
 
-decide whether to authorize a work or activity under subsection 142(1) or 142.011(1);
+    decide whether to authorize a work or activity under subsection 142(1) or 142.011(1);
 
-decide whether to approve a development plan under subsection 143(4) or any amendment to that plan under subsection 143(5); or
+    decide whether to approve a development plan under subsection 143(4) or any amendment to that plan under subsection 143(5); or
 
-conduct a regional assessment under section 142.018 or a strategic assessment under section 142.019.
+    conduct a regional assessment under section 142.018 or a strategic assessment under section 142.019.
 
 ### Section 142.017
 
-The Regulator shall provide an authority, as defined in section 81 of the `Impact Assessment Act`, on request and within the period specified by the authority under section 85 of that Act, with any specialist or expert information or knowledge that the Regulator possesses respecting a project, as defined in section 81 of that Act.
+    The Regulator shall provide an authority, as defined in section 81 of the `Impact Assessment Act`, on request and within the period specified by the authority under section 85 of that Act, with any specialist or expert information or knowledge that the Regulator possesses respecting a project, as defined in section 81 of that Act.
 
 
 #### Regional Assessments and Strategic Assessments
 
 ### Section 142.018
 
-  **(1)** The Regulator may conduct a regional assessment of the effects of any existing or future work or activity referred to in sections 140 and 140.2.
+      **(1)** The Regulator may conduct a regional assessment of the effects of any existing or future work or activity referred to in sections 140 and 140.2.
 
-  **(2)** The Federal Minister and the Provincial Minister may enter into an agreement with any jurisdiction authorized under any other federal or provincial legislation to conduct a regional assessment of the effects of any existing or future work or activity referred to in sections 140 and 140.2, including to specify the time limits and terms of that regional assessment.
+      **(2)** The Federal Minister and the Provincial Minister may enter into an agreement with any jurisdiction authorized under any other federal or provincial legislation to conduct a regional assessment of the effects of any existing or future work or activity referred to in sections 140 and 140.2, including to specify the time limits and terms of that regional assessment.
 
 ### Section 142.019
 
-  **(1)** The Regulator may conduct a strategic assessment of any proposed or existing policy, plan or program respecting the offshore area or of any issue that is relevant to any existing or future work or activity referred to in sections 140 and 140.2.
+      **(1)** The Regulator may conduct a strategic assessment of any proposed or existing policy, plan or program respecting the offshore area or of any issue that is relevant to any existing or future work or activity referred to in sections 140 and 140.2.
 
-  **(2)** The Federal Minister and the Provincial Minister may enter into an agreement with any jurisdiction authorized under any other federal or provincial legislation to conduct a strategic assessment of any proposed or existing policy, plan or program respecting the offshore area or of any issue that is relevant to any existing or future work or activity referred to in sections 140 and 140.2, including to specify the time limits and terms of that strategic assessment.
+      **(2)** The Federal Minister and the Provincial Minister may enter into an agreement with any jurisdiction authorized under any other federal or provincial legislation to conduct a strategic assessment of any proposed or existing policy, plan or program respecting the offshore area or of any issue that is relevant to any existing or future work or activity referred to in sections 140 and 140.2, including to specify the time limits and terms of that strategic assessment.
 
 ### Section 142.02
 
-The Regulator shall provide the Impact Assessment Agency of Canada or a committee, on request and within the period specified by the Agency or committee under section 100 of the `Impact Assessment Act`, with any specialist or expert information or knowledge that the Regulator possesses.
+    The Regulator shall provide the Impact Assessment Agency of Canada or a committee, on request and within the period specified by the Agency or committee under section 100 of the `Impact Assessment Act`, with any specialist or expert information or knowledge that the Regulator possesses.
 
 ### Section 142.021
 
-If the Minister of the Environment shall, for the purposes of any regional assessment of the effects of any existing or future work or activity referred to in section 140 or 140.2 or for the purposes of any strategic assessment in the offshore area, establish the terms of reference and appoint members of a committee or establish the terms of reference of the Impact Assessment Agency of Canada under section 96 of the `Impact Assessment Act`, the Federal Minister, the Provincial Minister and the Chairperson of the Regulator shall provide the Minister of the Environment with comments respecting those terms of reference or appointments.
+    If the Minister of the Environment shall, for the purposes of any regional assessment of the effects of any existing or future work or activity referred to in section 140 or 140.2 or for the purposes of any strategic assessment in the offshore area, establish the terms of reference and appoint members of a committee or establish the terms of reference of the Impact Assessment Agency of Canada under section 96 of the `Impact Assessment Act`, the Federal Minister, the Provincial Minister and the Chairperson of the Regulator shall provide the Minister of the Environment with comments respecting those terms of reference or appointments.
 
 
 #### Participant Funding Program
 
 ### Section 142.022
 
-The Regulator may establish a participant funding program to facilitate the participation of the public and any Indigenous peoples of Canada in consultations concerning any matter respecting the offshore area.
+    The Regulator may establish a participant funding program to facilitate the participation of the public and any Indigenous peoples of Canada in consultations concerning any matter respecting the offshore area.
 
 
 #### Right of Entry
-
-
-> **Explanatory Note**:
-> Existing text of sections 142.02 and 142.03:
-> *Existing Text*:
-> > If an application for an authorization under paragraph 142(1)(b) or an application made under subsection 143(2) is in respect of a physical activity described in subsection (2), the Board shall issue the decision statement referred to in section 54 of the `Canadian Environmental Assessment Act, 2012` in respect of the physical activity within 12 months after the day on which the applicant has, in the Board's opinion, provided a complete application.
-> > The physical activity in question is a physical activity that:
-> > is carried out in the offshore area;
-> > is designated by regulations made under paragraph 84(a) of the `Canadian Environmental Assessment Act, 2012` or in an order made under subsection 14(2) of that Act;
-> > is one for which the Board is the responsible authority as defined in subsection 2(1) of that Act; and
-> > is one in relation to which an environmental assessment was not referred to a review panel under section 38 of that Act.
-> > It includes any physical activity that is incidental to the physical activity described in paragraphs (a) to (d).
-> > If the Board requires the applicant to provide information or undertake a study with respect to the physical activity, the period that is taken by the applicant, in the Board's opinion, to comply with the requirement is not included in the calculation of the period referred to in subsection (1).
-> > The Board shall, without delay, make public
-> > the date on which the 12-month period referred to in subsection (1) begins; and
-> > the dates on which the period referred to in subsection (3) begins and ends.
-> > The Board may establish a participant funding program to facilitate the participation of the public in the environmental assessment as defined in subsection 2(1) of the `Canadian Environmental Assessment Act, 2012` of any physical activity described in subsection 142.02(2) that meets the condition set out in paragraph 58(1)(a) of that Act and that is the subject of an application for an authorization under paragraph 142(1)(b) or an application made under subsection 143(2).
 
 ### Section 171
 
@@ -4200,7 +3426,7 @@ The Regulator may establish a participant funding program to facilitate the part
 
 ### Section 142.1
 
-      **(1)** **Sous réserve du paragraphe (2), toute personne** peut pénétrer dans la zone extracôtière et y exercer les activités autorisées sous le régime de l'alinéa 142(1)b) pour la recherche et l'exploitation de pétrole ou de gaz.
+      **(1)** Sous réserve du paragraphe (2), toute personne peut pénétrer dans la zone extracôtière et y exercer les activités autorisées sous le régime de l'alinéa 142(1)b) pour la recherche et l'exploitation de pétrole ou de gaz.
 
   **(2)** Subsection 142.1(2) of the Act is replaced by the following:
 
@@ -4208,7 +3434,7 @@ The Regulator may establish a participant funding program to facilitate the part
 
     **(1.2)** Subject to subsection (2), any person may enter on and use any portion of the offshore area in order to make contact with, alter or remove an abandoned facility if they have been authorized to do so under subsection 188.3(2).
 
-    **(2)** **If** a person occupies a portion of the offshore area under a lawful right or title, other than an authorization under paragraph 142(1)(b) **or subsection 142.011(1)** or an interest as defined in section 49, no person may enter on or use that portion for a purpose referred to in **any of subsections** (1) **to (1.2)** without the consent of the occupier or, **if** consent has been refused, except in accordance with the terms and conditions imposed by a decision of an arbitrator made in accordance with the regulations.
+    **(2)** If a person occupies a portion of the offshore area under a lawful right or title, other than an authorization under paragraph 142(1)(b) or subsection 142.011(1) or an interest as defined in section 49, no person may enter on or use that portion for a purpose referred to in any of subsections (1) to (1.2) without the consent of the occupier or, if consent has been refused, except in accordance with the terms and conditions imposed by a decision of an arbitrator made in accordance with the regulations.
 
 ### Section 172
 
@@ -4216,15 +3442,9 @@ Section 142.2 of the Act is replaced by the following:
 
 ### Section 142.2
 
-  ****(1)**** The **Regulator** shall, before issuing an authorization for a work or activity referred to in paragraph 142(1)(b), consider the safety of the work or activity by reviewing, in consultation with the Chief Safety Officer, the system as a whole and its components, including its structures, facilities, equipment, operating procedures and personnel.
+  **(1)** The Regulator shall, before issuing an authorization for a work or activity referred to in paragraph 142(1)(b), consider the safety of the work or activity by reviewing, in consultation with the Chief Safety Officer, the system as a whole and its components, including its structures, facilities, equipment, operating procedures and personnel.
 
   **(2)** The Regulator shall, before a work or activity referred to in subsection 142.011(1) commences, consider the safety of the work or activity by reviewing, in consultation with the Chief Safety Officer, the system as a whole and its components, including its structures, facilities, equipment, operating procedures and personnel.
-
-
-> **Explanatory Note**:
-> Existing text of section 142.2:
-> *Existing Text*:
-> > The Board shall, before issuing an authorization for a work or activity referred to in paragraph 142(1)(b), consider the safety of the work or activity by reviewing, in consultation with the Chief Safety Officer, the system as a whole and its components, including its structures, facilities, equipment, operating procedures and personnel.
 
 ### Section 173
 
@@ -4232,15 +3452,9 @@ Section 142.3 of the Act is replaced by the following:
 
 ### Section 142.3
 
-  ****(1)**** The **Regulator** shall, before issuing an authorization for a work or activity referred to in paragraph 142(1)(b), ensure that the applicant has complied with the requirements of subsections 167.1(1) or (2) and 168(1) or (1.01) in respect of that work or activity.
+  **(1)** The Regulator shall, before issuing an authorization for a work or activity referred to in paragraph 142(1)(b), ensure that the applicant has complied with the requirements of subsections 167.1(1) or (2) and 168(1) or (1.01) in respect of that work or activity.
 
   **(2)** The Regulator shall ensure that an applicant or holder of an authorization under subsection 142.011(1) has, prior to a date determined by regulations or, in the absence of regulations, prior to commencing a work or activity under that authorization, complied with the requirements of subsections 188.2(1) and 188.21(1) in respect of that work or activity.
-
-
-> **Explanatory Note**:
-> Existing text of section 142.3:
-> *Existing Text*:
-> > The Board shall, before issuing an authorization for a work or activity referred to in paragraph 142(1)(b), ensure that the applicant has complied with the requirements of subsections 167.1(1) or (2) and 168(1) or (1.01) in respect of that work or activity.
 
 ### Section 174
 
@@ -4258,17 +3472,13 @@ Section 143 of the Act is amended by adding the following after subsection (6):
 
 **(12)** Subsections (7) to (11) apply, with any necessary modifications, to a proposed amendment to a development plan to which a work or activity in a transboundary pool relates or to any requirement to which the approval of the plan is subject.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 175
 
   **(1)** The portion of subsection 143.1(1) of the Act before paragraph (a) is replaced by the following:
 
 ### Section 143.1
 
-      **(1)** No authorization under paragraph 142(1)(b) shall be issued unless the **Regulator** has received, from the applicant for the authorization, a declaration in the form fixed by the **Regulator** that states that
+      **(1)** No authorization under paragraph 142(1)(b) shall be issued unless the Regulator has received, from the applicant for the authorization, a declaration in the form fixed by the Regulator that states that
 
   **(2)** Subsection 143.1(3) of the Act is replaced by the following:
 
@@ -4278,19 +3488,14 @@ Section 143 of the Act is amended by adding the following after subsection (6):
 
       the applicant or holder shall ensure, so long as the work or activity that is authorized continues, that the equipment and facilities continue to be fit for the purposes for which they are used, the operating procedures continue to be appropriate for those uses, and the personnel continue to be so qualified and competent.
 
-    **(3)** **If** the equipment, an installation, **a facility**, the operating procedures or any of the personnel specified in **a** declaration changes and no longer conforms to the declaration, the holder of the authorization **that provided the declaration** shall provide the **Regulator** with a new declaration as soon as **the circumstances permit** after the change occurs.
+    **(3)** If the equipment, an installation, a facility, the operating procedures or any of the personnel specified in a declaration changes and no longer conforms to the declaration, the holder of the authorization that provided the declaration shall provide the Regulator with a new declaration as soon as the circumstances permit after the change occurs.
 
 ### Section 176
 
 The heading before section 143.2 of the Act is replaced by the following:
 
 
-#### **Petroleum-related** Certificates
-
-
-> **Explanatory Note**:
-> Existing text of the heading:
-> *Existing Text*:
+#### Petroleum-related Certificates
 
 ### Section 177
 
@@ -4298,58 +3503,46 @@ The heading before section 143.2 of the Act is replaced by the following:
 
 ### Section 144.2
 
-      **(1)** La propriété des hydrocarbures produits au cours d'essais **d'écoulement de formation** prolongés revient à la personne qui les effectue conformément à une autorisation délivrée en application de l'alinéa 142(1) b), aux approbations et conditions dont cette autorisation dépend ou aux règlements, même si elle n'est pas titulaire de la licence de production requise par la partie II.
+      **(1)** La propriété des hydrocarbures produits au cours d'essais d'écoulement de formation prolongés revient à la personne qui les effectue conformément à une autorisation délivrée en application de l'alinéa 142(1) b), aux approbations et conditions dont cette autorisation dépend ou aux règlements, même si elle n'est pas titulaire de la licence de production requise par la partie II.
 
   **(2)** Subsection 144.2(3) of the French version of the Act is replaced by the following:
 
-    **(3)** Le présent article ne s'applique qu'aux essais **d'écoulement de formation** prolongés dont les résultats donnent suffisamment de renseignements pour la détermination du meilleur procédé de récupération pour le réservoir, de la capacité du réservoir ou des limites de productivité de tout puits d'exploitation du réservoir et qui ne mettent pas en danger la récupération finale pour ce réservoir.
+    **(3)** Le présent article ne s'applique qu'aux essais d'écoulement de formation prolongés dont les résultats donnent suffisamment de renseignements pour la détermination du meilleur procédé de récupération pour le réservoir, de la capacité du réservoir ou des limites de productivité de tout puits d'exploitation du réservoir et qui ne mettent pas en danger la récupération finale pour ce réservoir.
 
 ### Section 178
 
 The heading "Regulation of Operations" before section 153 of the Act is replaced by the following:
 
 
-### Regulation of Operations — **Petroleum**
-
-
-> **Explanatory Note**:
-> Existing text of the heading:
-> *Existing Text*:
+### Regulation of Operations — Petroleum
 
 ### Section 179
 
   **(1)** Paragraph 153(1)(a) of the Act is replaced by the following:
 
-    defining, **in relation to petroleum-related works or activities**, "oil" and "gas" for the purposes of Divisions I and II, "installation" and "equipment" for the purposes of sections 143.1 and 143.2 and "serious" for the purposes of section 170;
+    defining, in relation to petroleum-related works or activities, "oil" and "gas" for the purposes of Divisions I and II, "installation" and "equipment" for the purposes of sections 143.1 and 143.2 and "serious" for the purposes of section 170;
 
   **(2)** Subparagraph 153(1)(c)(ii) of the Act is replaced by the following:
 
-    the removal of petroleum from the offshore area, **including in relation to the management of access by third parties to existing offshore infrastructure for the purpose of storing, processing and transporting petroleum and in relation to the amounts that may be charged for that access**, and
+    the removal of petroleum from the offshore area, including in relation to the management of access by third parties to existing offshore infrastructure for the purpose of storing, processing and transporting petroleum and in relation to the amounts that may be charged for that access, and
 
   **(3)** Paragraph 153(1)(d) of the Act is replaced by the following:
 
-    concerning **arbitration relating to petroleum-related works or activities** for the purposes of subsection 142.1(2), including the costs of or incurred in relation to such arbitrations;
+    concerning arbitration relating to petroleum-related works or activities for the purposes of subsection 142.1(2), including the costs of or incurred in relation to such arbitrations;
 
   **(4)** Paragraph 153(1)(g) of the Act is replaced by the following:
 
-    prohibiting, **in relation to petroleum-related works or activities**, the introduction into the environment of substances, classes of substances and forms of energy, in prescribed circumstances;
+    prohibiting, in relation to petroleum-related works or activities, the introduction into the environment of substances, classes of substances and forms of energy, in prescribed circumstances;
 
   **(5)** Paragraphs 153(1)(h.3) and (i) of the Act are replaced by the following:
 
-    concerning the creation, conservation and production of records **relating to petroleum-related works or activities**; and
+    concerning the creation, conservation and production of records relating to petroleum-related works or activities; and
 
-    prescribing, **in relation to petroleum-related works or activities**, anything that is required to be prescribed for the purposes of this Part.
+    prescribing, in relation to petroleum-related works or activities, anything that is required to be prescribed for the purposes of this Part.
 
 ### Section 180
 
 Section 154 of the Act is repealed.
-
-
-> **Explanatory Note**:
-> Existing text of section 154:
-> *Existing Text*:
-> > Subject to subsection (2), a copy of each regulation that the Governor in Council proposes to make under this Division shall be published in the `Canada Gazette` and a reasonable opportunity shall be afforded to interested persons to make representations to the Federal Minister with respect thereto.
-> > No proposed regulation need be published more than once under subsection (1) whether or not it is altered or amended after such publication as a result of representations made by interested persons as provided in that subsection.
 
 ### Section 181
 
@@ -4357,11 +3550,11 @@ Section 154 of the Act is repealed.
 
 ### Section 156
 
-      **(1)** The **Regulator** may issue and publish, in any manner the **Regulator** considers appropriate, guidelines and interpretation notes with respect to the application and administration of sections 45, 142 and 143 and subsection 168(1.01) and any regulations **respecting petroleum-related works or activities** made under sections 30.1 and 153.
+      **(1)** The Regulator may issue and publish, in any manner the Regulator considers appropriate, guidelines and interpretation notes with respect to the application and administration of sections 45, 142 and 143 and subsection 168(1.01) and any regulations respecting petroleum-related works or activities made under sections 30.1 and 153.
 
   **(2)** Subsection 156(2) of the French version of the Act is replaced by the following:
 
-    **(2)** Les **lignes directrices** et textes **interprétatifs** sont réputés ne pas être des textes réglementaires au sens de la `Loi sur les textes réglementaires`.
+    **(2)** Les lignes directrices et textes interprétatifs sont réputés ne pas être des textes réglementaires au sens de la `Loi sur les textes réglementaires`.
 
 ### Section 182
 
@@ -4369,37 +3562,25 @@ Subsections 170(1) and (1.1) of the Act are replaced by the following:
 
 ### Section 170
 
-  **(1)** **If** a spill or debris or an accident or incident related to any activity to which this **Division** applies occurs or is found in any portion of the offshore area and results in death or injury or danger to public safety or the environment, the **Regulator** may direct an inquiry to be made and may authorize any person it deems qualified to conduct the inquiry.
+  **(1)** If a spill or debris or an accident or incident related to any activity to which this Division applies occurs or is found in any portion of the offshore area and results in death or injury or danger to public safety or the environment, the Regulator may direct an inquiry to be made and may authorize any person it deems qualified to conduct the inquiry.
 
-  **(1.1)** **If** a spill or debris or an accident or incident related to any activity to which this **Division** applies occurs or is found in any portion of the offshore area and is serious, as defined by regulation, the **Regulator** shall direct that an inquiry referred to in subsection (1) be made and shall ensure that the person who conducts the inquiry is not employed by the **Regulator**.
-
-
-> **Explanatory Note**:
-> Existing text of subsections 170(1) and (1.1):
-> *Existing Text*:
-> > Where a spill or debris or an accident or incident related to any activity to which this Part applies occurs or is found in any portion of the offshore area and results in death or injury or danger to public safety or the environment, the Board may direct an inquiry to be made and may authorize any person it deems qualified to conduct the inquiry.
-> > Where a spill or debris or an accident or incident related to any activity to which this Part applies occurs or is found in any portion of the offshore area and is serious, as defined by regulation, the Board shall direct that an inquiry referred to in subsection (1) be made and shall ensure that the person who conducts the inquiry is not employed by the Board.
+  **(1.1)** If a spill or debris or an accident or incident related to any activity to which this Division applies occurs or is found in any portion of the offshore area and is serious, as defined by regulation, the Regulator shall direct that an inquiry referred to in subsection (1) be made and shall ensure that the person who conducts the inquiry is not employed by the Regulator.
 
 ### Section 183
 
 The heading of Division II of Part III of the Act is replaced by the following:
 
 
-### **Petroleum** Production Arrangements
+### Petroleum Production Arrangements
 
 
-#### **Definitions**
-
-
-> **Explanatory Note**:
-> Existing text of the heading:
-> *Existing Text*:
+#### Definitions
 
 ### Section 184
 
   **(1)** The definition **unitization order** in section 171 of the Act is replaced by the following:
 
-    **unitization order** means an order made under section 181 **or subsection 188.12(1)**; (**arrêté d'union**)
+    **unitization order** means an order made under section 181 or subsection 188.12(1); (**arrêté d'union**)
 
   **(2)** Section 171 of the Act is amended by adding the following in alphabetical order:
 
@@ -4504,7 +3685,7 @@ The Act is amended by adding the following after section 188:
 
   **(3)** The unit agreement shall include the details referred to in paragraphs 180(2)(a) to (d) and the unit operating agreement shall include the details referred to in paragraphs 180(3)(a) to (e).
 
-  **(4)** The unit agreement and the unit operating agreement are subject to the joint approval of the Regulator and the appropriate authority, but they are only to be approved if all the royalty owners and all the working interest owners in the transboundary pool are parties to those agreements.
+  **(4)** The Regulator and the appropriate authority **may approve** the unit agreement if all the royalty owners and all the working interest owners in the transboundary pool are parties to **it; the Regulator and the appropriate authority may approve** the unit operating agreement **if all the working interest owners in the transboundary pool** are **parties to it**.
 
   **(5)** An authorization under paragraph 142(1)(b) for a work or activity proposed to be carried on in relation to the exploitation of a transboundary pool shall not be issued if the unit agreement and the unit operating agreement have not been jointly approved by the Regulator and the appropriate authority.
 
@@ -4586,7 +3767,7 @@ When a joint exploitation agreement is entered into in respect of a transboundar
 
   **(5)** If the expert finds that, on the day on which the hearing begins, one or more working interest owners who own 65% or more of the working interests and one or more royalty owners who own 65% or more of the royalty interests in the unit area have consented to the proposed amendment, the expert may end the hearing and request that the Regulator amend the unitization order in accordance with the amendment. If the expert makes such a request, the expert shall also request that the appropriate authority amend its equivalent order in the same way.
 
-  **(6)** In respect of any transboundary pool extending into the jurisdiction of a foreign government, the interested persons referred to in subsection (3) are representatives of each country in question and, on the conclusion of the hearing, the expert shall request that the interested persons ensure that the Regulatory and the appropriate authority take the measures referred to in subsections (4) and (5).
+  **(6)** In respect of any transboundary pool extending into the jurisdiction of a foreign government, the interested persons referred to in subsection (3) are representatives of each country in question and, on the conclusion of the hearing, the expert shall request that the interested persons ensure that the **Regulator** and the appropriate authority take the measures referred to in subsections (4) and (5).
 
 ### Section 188.14
 
@@ -4837,35 +4018,20 @@ Subject to section 6, the Governor in Council may make regulations respecting ab
 
   **(3)** Subject to section 6, the Governor in Council may make regulations respecting the circumstances in which or conditions under which an order under subsection (2) is not necessary.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 186
 
 Subsection 198(1) of the Act is replaced by the following:
 
 ### Section 198
 
-  **(1)** If an operational safety officer or the Chief Safety Officer, on reasonable grounds, is of the opinion that continuation of an operation in relation to the exploration or drilling for or the production, conservation, processing or transportation of petroleum **or in relation to an offshore renewable energy project** in any portion of the offshore area is likely to result in serious bodily injury, the operational safety officer or Chief Safety Officer, as the case may be, may order that the operation cease or be continued only in accordance with the terms of the order.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 198(1):
-> *Existing Text*:
-> > If an operational safety officer or the Chief Safety Officer, on reasonable grounds, is of the opinion that continuation of an operation in relation to the exploration or drilling for or the production, conservation, processing or transportation of petroleum in any portion of the offshore area is likely to result in serious bodily injury, the operational safety officer or Chief Safety Officer, as the case may be, may order that the operation cease or be continued only in accordance with the terms of the order.
+  **(1)** If an operational safety officer or the Chief Safety Officer, on reasonable grounds, is of the opinion that continuation of an operation in relation to the exploration or drilling for or the production, conservation, processing or transportation of petroleum or in relation to an offshore renewable energy project in any portion of the offshore area is likely to result in serious bodily injury, the operational safety officer or Chief Safety Officer, as the case may be, may order that the operation cease or be continued only in accordance with the terms of the order.
 
 ### Section 187
 
 The heading before section 198.2 of the Act is replaced by the following:
 
 
-#### Installation **or Facility** Manager
-
-
-> **Explanatory Note**:
-> Existing text of the heading:
-> *Existing Text*:
+#### Installation or Facility Manager
 
 ### Section 188
 
@@ -4885,35 +4051,23 @@ The Act is amended by adding the following after section 198.2:
 
   **(3)** In a prescribed emergency situation, a facility manager's powers are extended so that they also apply to each person in charge of a vessel, vehicle or aircraft that is at the facility or that is leaving or approaching it.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 189
 
   **(1)** Paragraph 199(1)(e) of the English version of the Act is replaced by the following:
 
-    undertakes or carries on a work or activity without an authorization under paragraph 142(1)(b) or without complying with the approvals or requirements, determined by the **Regulator** in accordance with the provisions of this Part or granted or prescribed by regulations made under this Part, of an authorization issued under that paragraph;
+    undertakes or carries on a work or activity without an authorization under paragraph 142(1)(b) or without complying with the approvals or requirements, determined by the Regulator in accordance with the provisions of this Part or granted or prescribed by regulations made under this Part, of an authorization issued under that paragraph;
 
   **(2)** Paragraph 199(1)(f) of the Act is replaced by the following:
 
     undertakes or carries on a work or activity without an authorization under subsection 142.011(1) or without complying with the terms and conditions of the authorization that were determined by the Regulator in accordance with the provisions of this Part or granted or prescribed under this Part; or
 
-    fails to comply with a direction, requirement or order of an operational safety officer, the Chief Safety Officer, a conservation officer or the Chief Conservation Officer or with an order of an installation manager, **a facility manager** or the Committee.
+    fails to comply with a direction, requirement or order of an operational safety officer, the Chief Safety Officer, a conservation officer or the Chief Conservation Officer or with an order of an installation manager, a facility manager or the Committee.
 
 ### Section 190
 
 Paragraph 201(1)(h) of the Act is replaced by the following:
 
-directing the offender to pay to the **Regulator** an amount of money that the court considers appropriate for the purpose of conducting research, education and training in matters related to the protection of the environment, conservation of petroleum resources or safety of petroleum operations **or offshore renewable energy projects**;
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 201(1):
-> *Existing Text*:
-> > If a person is found guilty of an offence under this Part, the court may, having regard to the nature of the offence and the circumstances surrounding its commission, in addition to any other punishment that may be imposed under this Part, make an order that has any or all of the following effects:
-> > 
-> > directing the offender to pay to the Board an amount of money that the court considers appropriate for the purpose of conducting research, education and training in matters related to the protection of the environment, conservation of petroleum resources or safety of petroleum operations;
+directing the offender to pay to the Regulator an amount of money that the court considers appropriate for the purpose of conducting research, education and training in matters related to the protection of the environment, conservation of petroleum resources or safety of petroleum operations or offshore renewable energy projects;
 
 ### Section 191
 
@@ -4921,21 +4075,15 @@ Section 208 of the Act is replaced by the following:
 
 ### Section 208
 
-Subject to section 6, the Governor in Council may make such regulations not inconsistent with this Part as may be deemed necessary for carrying out the purposes of this Part, and, without limiting the generality of the foregoing, may make regulations defining and distinguishing more particularly for the purposes of Divisions I and **II** the terms "oil" and "gas".
-
-
-> **Explanatory Note**:
-> Existing text of section 208:
-> *Existing Text*:
-> > Subject to section 6, the Governor in Council may make such regulations not inconsistent with this Part as may be deemed necessary for carrying out the purposes of this Part, and, without limiting the generality of the foregoing, may make regulations defining and distinguishing more particularly for the purposes of Divisions I and 11 the terms **oil** and **gas**.
+Subject to section 6, the Governor in Council may make such regulations not inconsistent with this Part as may be deemed necessary for carrying out the purposes of this Part, and, without limiting the generality of the foregoing, may make regulations defining and distinguishing more particularly for the purposes of Divisions I and II the terms "oil" and "gas".
 
 ### Section 192
 
 The definitions **authorization**, **declaration** and **marine installation or structure** in subsection 210.001(1) of the Act are replaced by the following:
 
-**authorization** means an authorization issued under paragraph 142(1)(b) **or subsection 142.011(1)**. (**autorisation**)
+**authorization** means an authorization issued under paragraph 142(1)(b) or subsection 142.011(1). (**autorisation**)
 
-**declaration** means a declaration referred to in subsection 143.1(1) **or (2)**. (**déclaration**)
+**declaration** means a declaration referred to in subsection 143.1(1) or (2). (**déclaration**)
 
 **marine installation or structure**
 
@@ -4955,25 +4103,9 @@ any other work, or work within a class of works, prescribed under paragraph (4)(
 
 does not include
 
-any vessel, including any supply vessel, standby vessel, shuttle tanker or seismic chase vessel, that provides any supply or support services to a ship, installation, **facility**, structure, work or anything else described in paragraph (a), unless the vessel is within a class of vessels that is prescribed under paragraph (4)(b), or
+any vessel, including any supply vessel, standby vessel, shuttle tanker or seismic chase vessel, that provides any supply or support services to a ship, installation, facility, structure, work or anything else described in paragraph (a), unless the vessel is within a class of vessels that is prescribed under paragraph (4)(b), or
 
 any ship or vessel within a class of ships or vessels prescribed under paragraph (4)(c). (**ouvrage en mer**)
-
-
-> **Explanatory Note**:
-> Existing text of the definitions:
-> *Existing Text*:
-> > **authorization** means an authorization issued under paragraph 142(1)(b). (**autorisation**)
-> > **declaration** means a declaration referred to in subsection 143.1(1). (**déclaration**)
-> > **marine installation or structure**
-> > includes
-> > any ship, including any ship used for construction, production or diving or for geotechnical or seismic work,
-> > any offshore drilling unit, including a mobile offshore drilling unit,
-> > any production platform, subsea installation, pipeline as defined in section 138, pumping station, living accommodation, storage structure or loading or landing platform, and
-> > any other work, or work within a class of works, prescribed under paragraph (4)(a); but
-> > does not include
-> > any vessel, including any supply vessel, standby vessel, shuttle tanker or seismic chase vessel, that provides any supply or support services to a ship, installation, structure, work or anything else described in paragraph (a), unless the vessel is within a class of vessels that is prescribed under paragraph (4)(b), or
-> > any ship or vessel within a class of ships or vessels prescribed under paragraph (4)(c). (**ouvrage en mer**)
 
 ### Section 193
 
@@ -4981,13 +4113,7 @@ Subsection 210.003(1) of the Act is replaced by the following:
 
 ### Section 210.003
 
-  **(1)** This Part applies to and in respect of a workplace that is situated within the offshore area for the purposes of the exploration or drilling for — or the production, conservation or processing of — petroleum, **or for the purposes of offshore renewable energy projects**, within the offshore area.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 210.003(1):
-> *Existing Text*:
-> > This Part applies to and in respect of a workplace that is situated within the offshore area for the purposes of the exploration or drilling for — or the production, conservation or processing of — petroleum within the offshore area.
+  **(1)** This Part applies to and in respect of a workplace that is situated within the offshore area for the purposes of the exploration or drilling for — or the production, conservation or processing of — petroleum, or for the purposes of offshore renewable energy projects, within the offshore area.
 
 ### Section 194
 
@@ -4995,23 +4121,15 @@ Sections 210.004 to 210.006 of the Act are replaced by the following:
 
 ### Section 210.004
 
-Despite subsections 123(1) and 168(1) of the `Canada Labour Code` and any other Act of Parliament, Parts II and III of the `Canada Labour Code` do not apply to and in respect of a workplace that is situated within the offshore area for the purposes of the exploration or drilling for — or the production, conservation or processing of — petroleum, **or for the purposes of offshore renewable energy projects**, within the offshore area.
+Despite subsections 123(1) and 168(1) of the `Canada Labour Code` and any other Act of Parliament, Parts II and III of the `Canada Labour Code` do not apply to and in respect of a workplace that is situated within the offshore area for the purposes of the exploration or drilling for — or the production, conservation or processing of — petroleum, or for the purposes of offshore renewable energy projects, within the offshore area.
 
 ### Section 210.005
 
-The `Canadian Human Rights Act` does not apply to or in respect of a workplace that is situated within the offshore area for the purposes of the exploration or drilling for — or the production, conservation or processing of — petroleum, **or for the purposes of offshore renewable energy projects**, within the offshore area.
+The `Canadian Human Rights Act` does not apply to or in respect of a workplace that is situated within the offshore area for the purposes of the exploration or drilling for — or the production, conservation or processing of — petroleum, or for the purposes of offshore renewable energy projects, within the offshore area.
 
 ### Section 210.006
 
-The `Non-smokers' Health Act` does not apply to or in respect of a workplace that is situated within the offshore area for the purposes of the exploration or drilling for  — or the production, conservation or processing of — petroleum, **or for the purposes of offshore renewable energy projects**, within the offshore area.
-
-
-> **Explanatory Note**:
-> Existing text of sections 210.004 to 210.006:
-> *Existing Text*:
-> > Despite subsections 123(1) and 168(1) of the `Canada Labour Code` and any other Act of Parliament, Parts II and III of the `Canada Labour Code` do not apply to and in respect of a workplace that is situated within the offshore area for the purposes of the exploration or drilling for — or the production, conservation or processing of — petroleum within the offshore area.
-> > The `Canadian Human Rights Act` does not apply to or in respect of a workplace that is situated within the offshore area for the purposes of the exploration or drilling for — or the production, conservation or processing of — petroleum within the offshore area.
-> > The `Non-smokers' Health Act` does not apply to or in respect of a workplace that is situated within the offshore area for the purposes of the exploration or drilling for  — or the production, conservation or processing of — petroleum within the offshore area.
+The `Non-smokers' Health Act` does not apply to or in respect of a workplace that is situated within the offshore area for the purposes of the exploration or drilling for  — or the production, conservation or processing of — petroleum, or for the purposes of offshore renewable energy projects, within the offshore area.
 
 ### Section 195
 
@@ -5019,23 +4137,17 @@ Subsection 210.007(1) of the Act is replaced by the following:
 
 ### Section 210.007
 
-  **(1)** Nova Scotia social legislation and any regulations made under it apply to and in respect of a workplace that is situated within the offshore area for the purposes of the exploration or drilling for — or the production, conservation or processing of — petroleum, **or for the purposes of offshore renewable energy projects**, within the offshore area.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 210.007(1):
-> *Existing Text*:
-> > Nova Scotia social legislation and any regulations made under it apply to and in respect of a workplace that is situated within the offshore area for the purposes of the exploration or drilling for — or the production, conservation or processing of — petroleum within the offshore area.
+  **(1)** Nova Scotia social legislation and any regulations made under it apply to and in respect of a workplace that is situated within the offshore area for the purposes of the exploration or drilling for — or the production, conservation or processing of — petroleum, or for the purposes of offshore renewable energy projects, within the offshore area.
 
 ### Section 196
 
   **(1)** Paragraph 210.008(1)(a) of the Act is replaced by the following:
 
-    a marine installation or structure that is situated within the offshore area in connection with the exploration or drilling for — or the production, conservation or processing of —  petroleum, **or in connection with offshore renewable energy projects**, within the offshore area and that is in the offshore area for the purpose of becoming, or that is, permanently attached to, permanently anchored to or permanently resting on the seabed or subsoil of the submarine areas of the offshore area;
+    a marine installation or structure that is situated within the offshore area in connection with the exploration or drilling for — or the production, conservation or processing of —  petroleum, or in connection with offshore renewable energy projects, within the offshore area and that is in the offshore area for the purpose of becoming, or that is, permanently attached to, permanently anchored to or permanently resting on the seabed or subsoil of the submarine areas of the offshore area;
 
   **(2)** Subsection 210.008(2) of the Act is replaced by the following:
 
-    **(2)** Part I of the `Canada Labour Code` applies to and in respect of a marine installation or structure that is situated within the offshore area in connection with the exploration or drilling for — or the production, conservation or processing of — petroleum, **or in connection with an offshore renewable energy project**, within the offshore area if subsection (1) does not apply to or in respect of the marine installation or structure.
+    **(2)** Part I of the `Canada Labour Code` applies to and in respect of a marine installation or structure that is situated within the offshore area in connection with the exploration or drilling for — or the production, conservation or processing of — petroleum, or in connection with an offshore renewable energy project, within the offshore area if subsection (1) does not apply to or in respect of the marine installation or structure.
 
 ### Section 197
 
@@ -5043,19 +4155,11 @@ Section 210.013 of the Act is renumbered as subsection 210.013(1) and is amended
 
 **(2)** Despite paragraph (1)(q), all or part of a workplace described in paragraph (a) of the definition workplace in subsection 210.001(1) does not have to be inspected at least once a month if that workplace, or that part of the workplace, is normally unattended and is used for the purpose of carrying out an offshore renewable energy project.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 198
 
 Section 210.019 is amended by adding the following after subsection (1):
 
 **(1.1)** Despite paragraph (1)(p), all or part of a workplace described in paragraph (a) of the definition workplace in subsection 210.001(1) does not have to be inspected at least once a month if that workplace, or that part of the workplace, is normally unattended and is used for the purpose of carrying out an offshore renewable energy project.
-
-
-> **Explanatory Note**:
-> New.
 
 ### Section 199
 
@@ -5063,27 +4167,21 @@ Section 210.019 is amended by adding the following after subsection (1):
 
 ### Section 210.069
 
-      **(1)** On receipt under subsection 142(3.1) **or 142.011(2)** of an application for an authorization, or to amend an authorization, the Chief Safety Officer shall
+      **(1)** On receipt under subsection 142(3.1) or 142.011(2) of an application for an authorization, or to amend an authorization, the Chief Safety Officer shall
 
         consider the potential impact of the work or activity to be authorized on the health and safety of employees engaged in the work or activity; and
 
-        make a written recommendation to the **Regulator** on the matters considered.
+        make a written recommendation to the Regulator on the matters considered.
 
   **(2)** Subsection 210.069(3) of the Act is replaced by the following:
 
-    **(3)** In addition to any requirement, approval, **term** or **condition** determined by the **Regulator** under Part III to which an authorization is subject, the authorization is also subject to any requirements, approvals, **terms** and **conditions**, not inconsistent with the provisions of this Act or the regulations, that the **Regulator** determines relate to occupational health and safety.
+    **(3)** In addition to any requirement, approval, term or condition determined by the Regulator under Part III to which an authorization is subject, the authorization is also subject to any requirements, approvals, terms and conditions, not inconsistent with the provisions of this Act or the regulations, that the Regulator determines relate to occupational health and safety.
 
 ### Section 200
 
 Subsection 210.101(2) of the Act is replaced by the following:
 
-**(2)** The costs incurred by the provincial labour board in respect of appeals made under subsection (1), including the remuneration of their members, shall be paid by the **Regulator**.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 210.101(2):
-> *Existing Text*:
-> > The costs incurred by the provincial labour board in respect of appeals made under subsection (1), including the remuneration of their members, shall be paid by the Board as defined in section 2.
+**(2)** The costs incurred by the provincial labour board in respect of appeals made under subsection (1), including the remuneration of their members, shall be paid by the Regulator.
 
 ### Section 201
 
@@ -5091,36 +4189,17 @@ Section 210.103 of the Act is replaced by the following:
 
 ### Section 210.103
 
-For the purposes of the `Federal Courts Act`, neither the **Regulator**, the Chief Safety Officer nor a health and safety officer, when exercising or purporting to exercise jurisdiction or powers conferred on them under this Part, is a federal board, commission or other tribunal as defined in subsection 2(1) of that Act.
-
-
-> **Explanatory Note**:
-> Existing text of section 210.103:
-> *Existing Text*:
-> > For the purposes of the `Federal Courts Act`, neither the Board, the Chief Safety Officer nor a health and safety officer, when exercising or purporting to exercise jurisdiction or powers conferred on them under this Part, is a federal board, commission or other tribunal as defined in subsection 2(1) of that Act.
+For the purposes of the `Federal Courts Act`, neither the Regulator, the Chief Safety Officer nor a health and safety officer, when exercising or purporting to exercise jurisdiction or powers conferred on them under this Part, is a federal board, commission or other tribunal as defined in subsection 2(1) of that Act.
 
 ### Section 202
 
 Section 210.127 of the Act is repealed.
 
-
-> **Explanatory Note**:
-> Existing text of section 210.127:
-> *Existing Text*:
-> > Subject to subsection (2), a copy of each regulation that the Governor in Council proposes to make under this Part shall be published in the `Canada Gazette` and a reasonable opportunity shall be given to interested persons to make representations to the Federal Minister with respect to it.
-> > No proposed regulation need be published more than once under subsection (1) whether or not it is altered or amended as a result of representations made by interested persons as provided in that subsection.
-
 ### Section 203
 
 Subsection 217(2) of the French version of the Act is replaced by the following:
 
-**(2)** Dès que possible après leur perception ou réception par **le gouvernement de la province** sous le régime **de la présente partie**, les montants sont déposés au crédit du receveur général et versés au Trésor selon les modalités prévues, par règlement, par le Conseil du Trésor conformément à la `Loi sur la gestion des finances publiques`.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 217(2):
-> *Existing Text*:
-> > On the collection or receipt of any taxes, interest, penalties or other sums by the Government of the Province pursuant to this Part, the taxes, interest, penalties or other sums shall be deposited as soon as practicable to the credit of the Receiver General and paid into the Consolidated Revenue Fund in the manner prescribed by the Treasury Board under the `Financial Administration Act`.
+**(2)** Dès que possible après leur perception ou réception par le gouvernement de la province sous le régime de la présente partie, les montants sont déposés au crédit du receveur général et versés au Trésor selon les modalités prévues, par règlement, par le Conseil du Trésor conformément à la `Loi sur la gestion des finances publiques`.
 
 ### Section 204
 
@@ -5502,21 +4581,13 @@ Nothing in this Act is to be construed as affecting the status of an employee wh
 
   **(2)** Subsection 2(1) of the Act is amended by adding the following in alphabetical order:
 
-    **Regulator** means the Canada–Newfoundland **and Labrador** Offshore **Energy Regulator** established by the joint operation of section 9 of the `Canada–Newfoundland and Labrador Atlantic Accord Implementation **and Offshore Renewable Energy Management** Act` and section 9 of the `Canada-Newfoundland and Labrador Atlantic Accord Implementation Newfoundland and Labrador Act`, chapter C-2 of the Statutes of Newfoundland, 1990; (**Régie**)
+    **Regulator** means the Canada–Newfoundland and Labrador Offshore Energy Regulator established by the joint operation of section 9 of the `Canada–Newfoundland and Labrador Atlantic Accord Implementation and Offshore Renewable Energy Management Act` and section 9 of the `Canada-Newfoundland and Labrador Atlantic Accord Implementation Newfoundland and Labrador Act`, chapter C-2 of the Statutes of Newfoundland, 1990; (**Régie**)
 
 ### Section 211
 
 Paragraph 3(2)(e) of the Act is replaced by the following:
 
-undertakings in relation to access to domestic and international markets for oil produced from the Project, subject to compliance with any other Act of Parliament including the `Canadian Energy Regulator Act` and the `Canada–Newfoundland and Labrador Atlantic Accord Implementation **and Offshore Renewable Energy Management** Act` and with any regulations thereunder, and access to international market prices for oil produced from the Project; and
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 3(2):
-> *Existing Text*:
-> > The agreements entered into under this section may include
-> > 
-> > undertakings in relation to access to domestic and international markets for oil produced from the Project, subject to compliance with any other Act of Parliament including the `Canadian Energy Regulator Act` and the `Canada–Newfoundland and Labrador Atlantic Accord Implementation Act` and with any regulations thereunder, and access to international market prices for oil produced from the Project; and
+undertakings in relation to access to domestic and international markets for oil produced from the Project, subject to compliance with any other Act of Parliament including the `Canadian Energy Regulator Act` and the `Canada–Newfoundland and Labrador Atlantic Accord Implementation and Offshore Renewable Energy Management Act` and with any regulations thereunder, and access to international market prices for oil produced from the Project; and
 
 ### Section 212
 
@@ -5524,13 +4595,7 @@ Subsection 6(1) of the Act is replaced by the following:
 
 ### Section 6
 
-  **(1)** For the purposes of the `Canada–Newfoundland and Labrador Atlantic Accord Implementation **and Offshore Renewable Energy Management** Act`, the decision of the **Regulator** concerning the application for approval of the Hibernia Canada-Newfoundland Benefits Plan and the Hibernia Development Plan, which decision was published as Decision 86.01 and submitted to the Minister on June 18, 1986, shall be deemed to have been validly made by the **Regulator under** sections 45 and 139 of that Act and the conditions referred to in subsection 32(1) of that Act shall be deemed to have been satisfied in respect of that decision.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 6(1):
-> *Existing Text*:
-> > For the purposes of the `Canada–Newfoundland and Labrador Atlantic Accord Implementation Act`, the decision of the Board concerning the application for approval of the Hibernia Canada-Newfoundland Benefits Plan and the Hibernia Development Plan, which decision was published as Decision 86.01 and submitted to the Minister on June 18, 1986, shall be deemed to have been validly made by the Board pursuant to sections 45 and 139 of that Act and the conditions referred to in subsection 32(1) of that Act shall be deemed to have been satisfied in respect of that decision.
+  **(1)** For the purposes of the `Canada–Newfoundland and Labrador Atlantic Accord Implementation and Offshore Renewable Energy Management Act`, the decision of the Regulator concerning the application for approval of the Hibernia Canada-Newfoundland Benefits Plan and the Hibernia Development Plan, which decision was published as Decision 86.01 and submitted to the Minister on June 18, 1986, shall be deemed to have been validly made by the Regulator under sections 45 and 139 of that Act and the conditions referred to in subsection 32(1) of that Act shall be deemed to have been satisfied in respect of that decision.
 
 ### Section 213
 
@@ -5778,7 +4843,7 @@ the schedule to the `Privacy Act`.
 
   **(4)** If subsection 2(3) of the other Act comes into force on the same day as section `108` of this Act, then that subsection 2(3) is deemed to have come into force before that section `108` and subsection (2) applies as a consequence.
 
-  **(5)** On the first day on which both subsection 2(3) of the other Act and section `170` of this Act are in force, subsections 142.013(5) and (6) of the `Canada–Nova Scotia Offshore Petroleum Resources Accord Implementation and Offshore Renewable Energy Management Act` are replaced by the following:
+  **(5)** On the first day on which both subsection 2(3) of the other Act and section **170.1** of this Act are in force, subsections 142.013(5) and (6) of the `Canada–Nova Scotia Offshore Petroleum Resources Accord Implementation and Offshore Renewable Energy Management Act` are replaced by the following:
 
     **(5)** If the Agency decides that an impact assessment of the designated project is required, the Chairperson of the Regulator shall provide the Agency with comments respecting the time limits referred to in subsection 37.1(1) of the `Impact Assessment Act` within which the impact assessment report shall be submitted to the Minister of the Environment and within which any recommendations shall be posted on the Internet site established by the Agency.
 
@@ -5862,13 +4927,13 @@ the schedule to the `Privacy Act`.
 
   **(8)** If subsection 2(4) of the other Act comes into force on the same day as section `2` of this Act, then that subsection 2(4) is deemed to have come into force before that section `2` and subsection (6) applies as a consequence.
 
-  **(9)** On the first day on which both subsection 2(4) of the other Act and section `62` of this Act are in force, subsections 138.012(5) and (6) of the `Canada–Newfoundland and Labrador Atlantic Accord Implementation and Offshore Renewable Energy Management Act` are replaced by the following:
+  **(9)** On the first day on which both subsection 2(4) of the other Act and section **62.1** of this Act are in force, subsections 138.012(5) and (6) of the `Canada–Newfoundland and Labrador Atlantic Accord Implementation and Offshore Renewable Energy Management Act` are replaced by the following:
 
     **(5)** If the Agency decides that an impact assessment of the designated project is required, the Chairperson of the Regulator shall provide the Agency with comments respecting the time limits referred to in subsection 37.1(1) of the `Impact Assessment Act` within which the impact assessment report shall be submitted to the Minister of the Environment and within which any recommendations shall be posted on the Internet site established by the Agency.
 
     **(6)** The Chairperson of the Regulator shall provide the Minister of the Environment with comments respecting any extension to the time limits that is considered in accordance with subsections 37(3) or (4) and 37.1(4) of the `Impact Assessment Act`.
 
-  **(10)** On the first day on which both section 6 of the other Act and section `170` of this Act are in force,
+  **(10)** On the first day on which both section 6 of the other Act and section **170.1** of this Act are in force,
 
     section 44 of the `Canada–Nova Scotia Offshore Petroleum Resources Accord Implementation and Offshore Renewable Energy Management Act` is amended by adding the following after subsection (2):
 
@@ -5894,7 +4959,7 @@ the schedule to the `Privacy Act`.
 
     If the Minister of the Environment consults the Federal Minister under subsection 61(1) of the `Impact Assessment Act` with respect to the referral to the Governor in Council of an impact assessment report for a designated project, the Federal Minister shall consult the Provincial Minister.
 
-  **(11)** On the first day on which both section 7 of the other Act and section `62` of this Act are in force,
+  **(11)** On the first day on which both section 7 of the other Act and section **62.1** of this Act are in force,
 
     section 44 of the `Canada–Newfoundland and Labrador Atlantic Accord Implementation and Offshore Renewable Energy Management Act` is amended by adding the following after subsection (2):
 
@@ -5925,9 +4990,17 @@ the schedule to the `Privacy Act`.
 
 ### Section 221
 
-  **(1)** Subject to subsections (2) and (3), the provisions of this Act, other than sections `218` to `220`, come into force on a day or days to be fixed by order of the Governor in Council.
+  **(1)** Subject to subsections (2) **to (6)**, the provisions of this Act, other than sections `218` to `220`, come into force on a day or days to be fixed by order of the Governor in Council.
 
-  **(2)** Sections `2`, `3` and `210` to `215` come into force on a day to be fixed by order of the Governor in Council.
+  **(2)** Sections 2, 3 and 210 to **213, paragraphs 214(1)(a) to (e) and (g) to (i), subsection 214(2) and paragraphs 215(a) and (c)** come into force on a day to be fixed by order of the Governor in Council.
 
-  **(3)** Sections `108`, `109`, `216` and `217` come into force on a day to be fixed by order of the Governor in Council.
+  **(2.1)** Subsections 47(6.1), 61(2) and 62(2) and section 62.1 come into force on a day to be fixed by order of the Governor in Council, but that day must not be before the day on which both subsection 62(1) and section 62.2 are in force.
+
+  **(3)** Sections 108 **and** 109 and **paragraphs 216(1)(a) to (e) and (g) and (h), subsection 216(2) and paragraphs 217(a), (b) and (d)** come into force on a day to be fixed by order of the Governor in Council.
+
+  **(4)** Subsections 156(6.1), 169(2) and 170(2) and section 170.1 come into force on a day to be fixed by order of the Governor in Council, but that day must not be before the day on which both subsection 170(1) and section 170.2 are in force.
+
+  **(5)** Paragraphs 214(1)(f) and 215(b) come into force on a day to be fixed by order of the Governor in Council, but that day must not be before the day on which section 2, subsection 62(1) and section 62.2 are all in force.
+
+  **(6)** Paragraphs 216(1)(f) and 217(c) come into force on a day to be fixed by order of the Governor in Council, but that day must not be before the day on which section 108, subsection 170(1) and section 170.2 are all in force.
 
