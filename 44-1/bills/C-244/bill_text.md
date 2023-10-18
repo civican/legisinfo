@@ -25,7 +25,7 @@ The Act is amended by adding the following after section 41.12:
 
 ### Section 41.121
 
-  **(1)** Paragraph 41.1(1)(a) does not apply to a person who circumvents a technological protection measure for the sole purpose of maintaining or repairing a product, **including any related diagnosing, if the work, performer's performance fixed in a sound recording or sound recording to which the technological protection measure controls access forms a part of the product**.
+  **(1)** Paragraph 41.1(1)(a) does not apply to a person who circumvents a technological protection measure for the sole purpose of maintaining or repairing a product, including any related diagnosing, if the work, performer's performance fixed in a sound recording or sound recording to which the technological protection measure controls access forms a part of the product.
 
   **(2)** For greater certainty, subsection (1) applies to a person who circumvents a technological protection measure in the circumstances referred to in that subsection for another person.
 
