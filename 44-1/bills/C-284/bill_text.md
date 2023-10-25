@@ -4,7 +4,7 @@
 
 This enactment provides for the development of a national strategy to support the prevention and treatment of eye disease, as well as vision rehabilitation, to ensure better health outcomes for Canadians.
 
-It also designates the month of February as "Age-Related Macular Degeneration Month".
+It also designates the month of February as "Age-Related Macular Degeneration Awareness Month".
 
 Whereas vision loss in Canada is associated with a number of causes, including macular degeneration, cataracts, glaucoma and diabetic retinopathy;
 
@@ -32,19 +32,19 @@ This Act may be cited as the `National Strategy for Eye Care Act`.
 
 ### Section 2
 
-  **(1)** The Minister of Health must, in consultation with the representatives of the provincial governments responsible for health, Indigenous groups and other relevant stakeholders, develop a national strategy to support the prevention and treatment of eye disease, **as well as vision rehabilitation**, to ensure better health outcomes for Canadians.
+  **(1)** The Minister of Health must, in consultation with the representatives of the provincial governments responsible for health, Indigenous groups and other relevant stakeholders, develop a national strategy to support the prevention and treatment of eye disease, as well as vision rehabilitation, to ensure better health outcomes for Canadians.
 
-  **(2)** The national strategy must describe the various forms of eye disease and **may** include measures to
+  **(2)** The national strategy must describe the various forms of eye disease and may include measures to
 
-    identify the needs of health care professionals **for** training and guidance **on** the prevention and treatment of eye disease **and to vision rehabilitation**;
+    identify the needs of health care professionals and other professionals in relation to training and guidance on the prevention and treatment of eye disease and on vision rehabilitation;
 
-    promote research and improve data collection on eye disease prevention and treatment **and on vision rehabilitation**;
+    promote research and improve data collection on eye disease prevention and treatment and on vision rehabilitation;
 
-    promote information and knowledge sharing between the federal and provincial governments in relation to eye disease prevention and treatment **and to vision rehabilitation**; and
+    promote information and knowledge sharing between the federal and provincial governments in relation to eye disease prevention and treatment and to vision rehabilitation; and
 
     ensure that the Minister is able to rapidly examine, in accordance with the `Food and Drugs Act`, certain applications and submissions in respect of devices and drugs, as those terms are defined in section 2 of that Act, that are intended for use in relation to eye disease, including macular degeneration, cataracts, glaucoma and diabetic retinopathy.
 
-  **(3)** The national strategy must take into consideration existing frameworks, strategies and best practices related to the prevention and treatment of eye disease **and to vision rehabilitation**, including those that focus on addressing health inequalities.
+  **(3)** The national strategy must take into consideration existing frameworks, strategies and best practices related to the prevention and treatment of eye disease and to vision rehabilitation, including those that focus on addressing health inequalities.
 
   **(4)** For the purpose of developing the strategy, the Minister must hold at least one conference with the persons referred to in subsection (1).
 
@@ -53,7 +53,7 @@ This Act may be cited as the `National Strategy for Eye Care Act`.
 
 ### Section 3
 
-  **(1)** Within **18 months** after the day on which this Act comes into force, the Minister of Health must prepare a report setting out the national strategy and cause it to be tabled in each House of Parliament on any of the first 15 days on which that House is sitting after the report is completed.
+  **(1)** Within 18 months after the day on which this Act comes into force, the Minister of Health must prepare a report setting out the national strategy and cause it to be tabled in each House of Parliament on any of the first 15 days on which that House is sitting after the report is completed.
 
   **(2)** The Minister must publish the report on the website of the Department of Health within 10 days after the day on which it is tabled in Parliament.
 
