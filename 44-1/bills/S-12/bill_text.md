@@ -57,7 +57,7 @@ an indictable offence and liable to imprisonment for a term not exceeding 10 yea
 
     **(3.2)** If the prosecutor makes the application, they shall, as soon as feasible after the presiding judge or justice makes the order, inform the judge or justice that they have
 
-      informed the victim and any witness who are the subject of the order of its existence, its effects and the circumstances in which they may disclose information that is subject to the order without failing to comply with the order;
+      informed the witnesses and the victim who are the subject of the order of its existence;
 
       determined whether they wish to be the subject of the order; and
 
@@ -67,11 +67,11 @@ an indictable offence and liable to imprisonment for a term not exceeding 10 yea
 
       the disclosure of information is made in the course of the administration of justice when the purpose of the disclosure is not one of making the information known in the community; or
 
-      the disclosure of information is made by a person who is subject to the order and is about that person and their particulars, in any forum and for any purpose, and they did not intentionally or recklessly reveal the identity of or reveal particulars likely to identify any other person whose identity is protected by that order.
+      the disclosure of information is made by a person who is the subject of the order and is about that person and their particulars, in any forum and for any purpose, and they did not intentionally or recklessly reveal the identity of or reveal particulars likely to identify any other person whose identity is protected by an order prohibiting the publication in any document or the broadcasting or transmission in any way of information that could identify that other person.
 
   **(6)** Section 486.4 of the Act is amended by adding the following after subsection (4):
 
-    **(5)** An order made under this section does not apply in respect of the disclosure of information by the victim or witness when it is not the purpose of the disclosure to make the information known to the public.
+    **(5)** An order made under this section does not apply in respect of the disclosure of information by the victim or witness when it is not the purpose of the disclosure to make the information known to the public, including when the disclosure is made to a legal professional, a health care professional or a person in a relationship of trust with the victim or witness.
 
 ### Section 3
 
@@ -81,9 +81,9 @@ an indictable offence and liable to imprisonment for a term not exceeding 10 yea
 
       the disclosure of information is made in the course of the administration of justice when the purpose of the disclosure is not one of making the information known in the community; or
 
-      the disclosure of information is made by a person who is subject to the order and is about that person and their particulars, in any forum and for any purpose, and they did not intentionally or recklessly reveal the identity of or reveal particulars likely to identify any other person whose identity is protected by that order.
+      the disclosure of information is made by a person who is the subject of the order and is about that person and their particulars, in any forum and for any purpose, and they did not intentionally or recklessly reveal the identity of or reveal particulars likely to identify any other person whose identity is protected by an order prohibiting the publication in any document or the broadcasting or transmission in any way of information that could identify that other person.
 
-    **(3.1)** An order made under this section does not apply in respect of the disclosure of information by the victim, witness or justice system participant when it is not the purpose of the disclosure to make the information known to the public.
+    **(3.1)** An order made under this section does not apply in respect of the disclosure of information by the victim, witness or justice system participant when it is not the purpose of the disclosure to make the information known to the public, including when the disclosure is made to a legal professional, a health care professional or a person in a relationship of trust with the victim, or witness or justice system participant.
 
   **(2)** Section 486.5 of the Act is amended by adding the following after subsection (5):
 
@@ -101,7 +101,7 @@ an indictable offence and liable to imprisonment for a term not exceeding 10 yea
 
     **(8.2)** If the prosecutor makes the application, they shall, as soon as feasible after the judge or justice makes the order, inform the judge or justice that they have
 
-      informed the victims, witnesses and justice system participants who are the subject of the order of its existence, its effects and the circumstances in which they may disclose information that is subject to the order without failing to comply with the order;
+      informed the victims, witnesses and justice system participants who are the subject of the order of its existence;
 
       determined whether they wish to be the subject of the order; and
 
@@ -115,9 +115,9 @@ The Act is amended by adding the following after section 486.5:
 
   **(1)** If a person who is the subject of an order made under section 486.4 or 486.5 requests that the prosecutor have it varied or revoked, the prosecutor shall, as soon as feasible, make an application to vary or revoke the order on their behalf.
 
-  **(2)** If an application to vary or revoke an order made under section 486.4 or 486.5 is made by the person who is the subject of the order or by any other person, including a prosecutor, who is acting on their behalf, the court that made the order or, if that court is for any reason unable to act, another court of equivalent jurisdiction in the same province shall, without holding a hearing, vary or revoke the order, unless the court is of the opinion that to do so may affect the privacy interests of any person other than the accused who is the subject of any order prohibiting the publication in any document or the broadcasting or transmission in any way of information that could identify that person.
+  **(2)** If an application to vary or revoke an order made under section 486.4 or 486.5 is made by the person who is the subject of the order or by any other person, including a prosecutor, who is acting on their behalf, the court that made the order or, if that court is for any reason unable to act, another court of equivalent jurisdiction in the same province shall, without holding a hearing, vary or revoke the order, unless the court is of the opinion that to do so may affect the privacy interests of any person who is the subject of any order prohibiting the publication in any document or the broadcasting or transmission in any way of information that could identify that person.
 
-  **(3)** If the court is of the opinion that varying or revoking the order that is the subject of an application referred to in subsection (2) may affect the privacy interests of any person other than the accused who is the subject of any order prohibiting the publication in any document or the broadcasting or transmission in any way of information that could identify that person, the court shall hold a hearing to determine whether the order should be varied or revoked.
+  **(3)** If the court is of the opinion that varying or revoking the order that is the subject of an application referred to in subsection (2) may affect the privacy interests of any person who is the subject of any order prohibiting the publication in any document or the broadcasting or transmission in any way of information that could identify that person, the court shall hold a hearing to determine whether the order should be varied or revoked.
 
   **(4)** In order to determine whether the order should be varied, the court shall take into account whether it is possible to do so in a manner that protects the privacy interests of any other person who is the subject of any order prohibiting the publication in any document or the broadcasting or transmission in any way of information that could identify that person.
 
@@ -821,7 +821,7 @@ The Act is amended by adding the following after section 490.032:
 
   **(5)** Subject to subsection (4), the court shall make an exemption order if it is satisfied that the person has established that, at the time the order was made or the obligation began,
 
-    there was no connection between the order or obligation and the purpose of helping police services prevent or investigate crimes of a sexual nature by requiring the registration of information relating to sex offenders under the `Sex Offender Information Registration Act`; or
+    there was no connection between the order or obligation and the purpose of helping police servicesprevent or investigate crimes of a sexual nature by requiring the registration of information relating to sex offenders under the `Sex Offender Information Registration Act`; or
 
     the impact of the order or the obligation on the person, including on their privacy or liberty, was grossly disproportionate to the public interest in protecting society through the effective prevention or investigation of crimes of a sexual nature, to be achieved by the registration of information relating to sex offenders under that Act.
 
@@ -896,20 +896,6 @@ The Act is amended by adding the following after section 490.032:
   **(1)** If an appeal court quashes an exemption order, it shall cause the Commissioner of the Royal Canadian Mounted Police and the Attorney General of the province, or the minister of justice of the territory, in which the application for the order was made to be notified of the decision and shall cause the person who applied for the order to be informed of sections 4 to 7.1 of the `Sex Offender Information Registration Act`, sections 490.031 and 490.0311 of this Act and section 119.1 of the `National Defence Act`.
 
   **(2)** If an appeal court quashes a variation order, it shall cause the Commissioner of the Royal Canadian Mounted Police and the Attorney General of the province, or the minister of justice of the territory, in which the application for the order was made to be notified of the decision.
-
-### Section 32.1
-
-Subsection 672.501(4) of the Act is replaced by the following:
-
-**(3.1)** If a Review Board makes an order under any of subsections (1) to (3), it must promptly inform the person whose identity is protected by the order of its existence, its requirements and the consequences of failing to comply.
-
-**(4)** An order made under any of subsections (1) to (3) does not apply in any the following circumstances:
-
-  the disclosure of information is made in the course of the administration of justice when the purpose of the disclosure is not one of making the information known in the community;
-
-  the disclosure of information is made by a person who is subject to the order and is about that person and their particulars, in any forum and for any purpose, and they did not intentionally or recklessly reveal the identity of or reveal particulars likely to identify any other person whose identity is protected by that order; or
-
-  the disclosure of information is made by the victim or witness when the purpose of the disclosure is not one of making the information known to the public.
 
 ### Section 33
 
@@ -1395,6 +1381,24 @@ If the criminal offence identified under section 15 or 36.3 is an offence referr
   **(7)** If section `30` of this Act comes into force before section 31 of the other Act, then that section 31 is repealed.
 
   **(8)** If section 31 of the other Act comes into force on the same day as section `30` of this Act, then that section `30` is deemed never to have come into force and is repealed.
+
+### Section 48.1
+
+  **(1)** Subsections (2) to (4) apply if Bill C- 291, introduced in the 1st session of the 44th Parliament and entitled *An Act to amend the Criminal Code and to make consequential amendments to other Acts (child sexual abuse and exploitation material)* (in this section referred to as the "other Act"), receives royal assent.
+
+  **(2)** If section 8 of the other Act comes into force before subsection 6(2) of this Act, then subparagraph (a)(xi) of the definition **primary offence** in subsection 490.011(1) of the `Criminal Code` is replaced by the following:
+
+    section 163.1 (child sexual abuse and exploitation material),
+
+  **(3)** If subsection 6(2) of this Act comes into force before section 8 of the other Act, then that section 8 is replaced by the following:
+
+### Section 8
+
+    Subparagraph (a)(xi) of the definition **primary offence** in subsection 490.011(1) of the Act is replaced by the following:
+
+    section 163.1 (child sexual abuse and exploitation material),
+
+  **(4)** If section 8 of the other Act comes into force on the same day as subsection 6(2) of this Act, then that section 8 is deemed to have come into force before that subsection 6(2) and subsection (2) applies as a consequence.
 
 
 ## Coming into Force
