@@ -1,7 +1,5 @@
 # Bill C-34: An Act to amend the Investment Canada Act
 
-**Sponsor**: MINISTER OF INNOVATION, SCIENCE AND INDUSTRY
-
 ## Summary
 
 This enactment amends the `Investment Canada Act` to, among other things,
@@ -74,7 +72,7 @@ Section 12 of the Act is replaced by the following:
 
     the investment is not reviewable under Part IV, or
 
-    unless the Director sends the non-Canadian a notice for review under section 15 within 21 days after the certified date referred to in paragraph (a), the investment is not reviewable under Part IV.
+    unless the Director sends the non-Canadian a notice for review under section 15 within 45 days after the certified date referred to in paragraph (a) or within the prescribed period, the investment is not reviewable under Part IV.
 
   **(2)** Subsection 13(2) of the Act is replaced by the following:
 
@@ -83,6 +81,10 @@ Section 12 of the Act is replaced by the following:
   **(3)** The portion of subsection 13(3) of the Act before paragraph (a) is replaced by the following:
 
     **(3)** An investment in respect of which a receipt is sent under subsection (1) is not reviewable under Part IV if
+
+  **(4)** Paragraph 13(3)(b) of the Act is replaced by the following:
+
+    in a case where the receipt contains the advice referred to in subparagraph (1)(b)(ii), no notice for review is sent to the non-Canadian pursuant to section 15 within 45 days after the certified date referred to in paragraph (1)(a) or within the prescribed period.
 
 ### Section 5
 
@@ -106,11 +108,11 @@ Section 12 of the Act is replaced by the following:
 
 ### Section 7
 
-  ****(1)**** The portion of section 15 of the Act before paragraph (a) is replaced by the following:
+  **(1)** The portion of section 15 of the Act before paragraph (a) is replaced by the following:
 
 ### Section 15
 
-    An investment referred to in paragraph 11(1)(**a**) **or (b) that is** subject to notification under Part III **and** that would not otherwise be reviewable **under this Part** is reviewable under this Part if
+    An investment referred to in paragraph 11(1)(a) or (b) that is subject to notification under Part III and that would not otherwise be reviewable under this Part is reviewable under this Part if
 
   **(1.1)** The portion of paragraph 15(b) of the Act before subparagraph (i) is replaced by the following:
 
@@ -130,9 +132,11 @@ Section 12 of the Act is replaced by the following:
 
 ### Section 8
 
-Paragraph 17(2)(b) of the Act is replaced by the following:
+Paragraphs 17(2)(b) and (c) of the Act are replaced by the following:
 
 in the case of an investment made through an acquisition referred to in subparagraph 28(1)(d)(ii) or an investment with respect to which a notice referred to in paragraph 16(2)(a) has been sent, within the prescribed period; or
+
+in the case of an investment reviewable pursuant to section 15, forthwith on receipt of a notice for review referred to in subparagraph 15(1)(b)(ii) or paragraph 15(2)(d).
 
 ### Section 8.1
 
@@ -189,7 +193,7 @@ The heading of Part IV.1 of the Act is replaced by the following:
 
 ### Section 12
 
-  ****(1)**** Paragraph 25.1(b) of the Act is replaced by the following:
+  **(1)** Paragraph 25.1(b) of the Act is replaced by the following:
 
     to acquire control of a Canadian business in any manner described in section 28;
 
@@ -237,9 +241,9 @@ The Minister may require the non-Canadian or other person or entity from which t
 
 ### Section 25.3
 
-      **(1)** If the Minister, after consultation with the Minister of Public Safety and Emergency Preparedness, considers that an investment could be injurious to national security, the Minister **shall** make an order within the prescribed period for the further review of the investment.
+      **(1)** If the Minister, after consultation with the Minister of Public Safety and Emergency Preparedness, considers that an investment could be injurious to national security, the Minister shall make an order within the prescribed period for the further review of the investment.
 
-      **(1.1)** The Minister **shall**, by order, impose interim conditions in respect of the investment that are applicable until no later than when consideration of the investment is complete, or amend such conditions, if the Minister, after consultation with the Minister of Public Safety and Emergency Preparedness, is satisfied that it is necessary for the purpose of preventing injury to national security that could arise during that review, **provided that the imposition of interim conditions does not introduce significant new risks of injury to national security**. The Minister **shall** also delete a condition if the Minister, after such consultation, is satisfied that it is no longer necessary for that purpose.
+      **(1.1)** The Minister shall, by order, impose interim conditions in respect of the investment that are applicable until no later than when consideration of the investment is complete, or amend such conditions, if the Minister, after consultation with the Minister of Public Safety and Emergency Preparedness, is satisfied that it is necessary for the purpose of preventing injury to national security that could arise during that review, provided that the imposition of interim conditions does not introduce significant new risks of injury to national security. The Minister shall also delete a condition if the Minister, after such consultation, is satisfied that it is no longer necessary for that purpose.
 
       **(1.2)** The `Statutory Instruments Act` does not apply in respect of an order made under this section.
 
