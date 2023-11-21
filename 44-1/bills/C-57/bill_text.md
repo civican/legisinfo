@@ -18,7 +18,9 @@ approves that Agreement;
 
 provides for the payment by Canada of its share of the expenditures associated with the operation of the institutional and administrative aspects of that Agreement;
 
-gives the Governor in Council the power to make orders in accordance with that Agreement; and
+gives the Governor in Council the power to make orders in accordance with that Agreement;
+
+requires the Minister for International Trade to ensure that Canadian companies operating in Ukraine comply with the principles and guidelines referred to in the Agreement; and
 
 amends certain Acts to give effect to Canada's obligations under that Agreement.
 
@@ -89,6 +91,11 @@ Payment of costs
 ### Orders
 
 Orders — Article 28.13 of Agreement
+
+
+### Compliance with Principles and Guidelines — Canadian Companies
+
+Principles and guidelines
 
 
 ## Related Amendments
@@ -278,6 +285,19 @@ the general expenses incurred by panels, committees, subcommittees, working grou
   **(2)** Unless repealed, an order made under subsection (1) has effect for the period specified in the order.
 
 
+### Compliance with Principles and Guidelines — Canadian Companies
+
+### Section 15.1
+
+  **(1)** The Minister must ensure that Canadian companies operating in Ukraine comply with the principles and guidelines referred to in article 15.14 of the Agreement.
+
+  **(2)** The Minister must establish a process for receiving and responding to complaints of non-compliance with those principles and guidelines.
+
+  **(3)** On or before January 1st of each year starting in 2025, the Minister must prepare a report that summarizes activities carried out in relation to the Minister's obligations under this section.
+
+  **(4)** The Minister must table a copy of the report in each House of Parliament on any of the first 30 days on which that House is sitting after the report is completed.
+
+
 ## Related Amendments
 
 
@@ -316,7 +336,7 @@ The schedule to the `Investment Canada Act` is amended by adding, at the end of 
 
   **(1)** The definition **CUFTA** in subsection 2(1) of the `Customs Act` is replaced by the following:
 
-    **CUFTA** has the meaning **assigned by the definition** Agreement in section 2 of the `Canada–Ukraine Free Trade Agreement Implementation Act, **2023**`; (**ALÉCU**)
+    **CUFTA** has the meaning assigned by the definition Agreement in section 2 of the `Canada–Ukraine Free Trade Agreement Implementation Act, 2023`; (**ALÉCU**)
 
   **(2)** Subsection 2(1) of the Act is amended by adding the following in alphabetical order:
 
@@ -408,7 +428,7 @@ Section 21.1 of the Act is replaced by the following:
 
 ### Section 21.1
 
-In sections 23 to 30, **complaint** means a written complaint filed with the Tribunal under any of subsections 23(1) to (**1.097**) and, for the purposes of those sections, a complaint is properly documented if the Tribunal is satisfied that it contains or is accompanied by the information required by section 23.
+In sections 23 to 30, **complaint** means a written complaint filed with the Tribunal under any of subsections 23(1) to (1.097) and, for the purposes of those sections, a complaint is properly documented if the Tribunal is satisfied that it contains or is accompanied by the information required by section 23.
 
 ### Section 31
 
@@ -431,7 +451,7 @@ Paragraph 27(1)(a.98) of the Act is repealed.
 
   **(2)** The definition **Canada–Ukraine Free Trade Agreement** in subsection 2(1) of the Act is replaced by the following:
 
-    **Canada–Ukraine Free Trade Agreement** has the meaning **assigned by the definition** Agreement in section 2 of the `Canada–Ukraine Free Trade Agreement Implementation Act, **2023**`. (**Accord de libre-échange Canada–Ukraine**)
+    **Canada–Ukraine Free Trade Agreement** has the meaning assigned by the definition Agreement in section 2 of the `Canada–Ukraine Free Trade Agreement Implementation Act, 2023`. (**Accord de libre-échange Canada–Ukraine**)
 
   **(3)** Paragraphs (b) and (c) of the definition **Ukraine** in subsection 2(1) of the Act are replaced by the following:
 
