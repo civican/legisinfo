@@ -10,7 +10,7 @@ Whereas, following the adoption of the `Canadian Charter of Rights and Freedoms`
 
 Whereas, in 1992, the Government of Canada cancelled the Court Challenges Program before restoring it in 1994 and then cancelling it and restoring it several times over the years;
 
-Whereas it is of utmost importance for Canadians to be able to bring before the courts test cases of national significance that aim to clarify and assert certain constitutional and quasi-constitutional official language rights and human rights, particularly such rights that are recognized and guaranteed by the `Canadian Charter of Rights and Freedoms`;
+Whereas it is of utmost importance **that it be possible** to bring before the courts test cases of national significance that aim to clarify and assert certain constitutional and quasi-constitutional official language rights and human rights, particularly such rights that are recognized and guaranteed by the `Canadian Charter of Rights and Freedoms`;
 
 And whereas Parliament recognizes the need to entrench into law an independently administered program to give a voice to those who might not have the ability to bring court challenges forward in order to clarify, expand and breathe life into constitutional equality, linguistic rights and human rights, particularly such rights that are recognized and guaranteed by the `Canadian Charter of Rights and Freedoms`, and to hold government to account;
 
@@ -30,7 +30,7 @@ This Act may be cited as the `Court Challenges Program Act`.
 
 Section 5 of the `Department of Canadian Heritage Act` is amended by striking out "and" at the end of paragraph (a) and by adding the following after that paragraph:
 
-establish and implement an independently administered program whose objective is to provide financial support to Canadians to bring before the courts test cases of national significance that aim to clarify and assert certain constitutional and quasi-constitutional official language rights and human rights; and
+establish and implement the program referred to in section 7.1 of this Act and paragraph 43(1)(c) of the `Official Languages Act` that is administered by an organization independent of the Government of Canada and whose purpose is to provide funding for test cases of national significance to be brought before the courts to clarify and assert constitutional and quasi-constitutional official language rights and constitutional human rights that are guaranteed by the `Canadian Charter of Rights and Freedoms`; and
 
 ### Section 3
 
@@ -38,7 +38,9 @@ The Act is amended by adding the following after section 5:
 
 ### Section 5.1
 
-  **(1)** On or before April 1 of each year, the independent organization responsible for administering the program established under paragraph 5(a.1) shall submit to the Minister a report on the administration of the program, in which it shall set out a summary of its organizational activities to demonstrate the impact of its work and provide a transparent picture of the direction, goals and financial performance of the program, as well as an overview of the cases that received funding in the previous calendar year.
+  **(1)** The independent organization responsible for administering the program **referred to in section 7.1 of this Act and paragraph 43(1)(c) of the `Official Languages Act`** shall, each year, submit to the Minister a report on the administration of the program, in which it shall set out a summary of its organizational activities to demonstrate the impact of its work and provide a transparent picture of the direction, goals and financial performance of the program, as well as an overview of the cases that received funding in the previous year **and any outreach and promotional activities that were conducted with groups affected by these cases**.
+
+  **(1.1)** The annual report shall also state, for each of the program's two components, the number of applications that were denied funding.
 
   **(2)** The Minister shall cause the annual report to be tabled before each House of Parliament on any of the first 15 days on which that House is sitting after the Minister receives the report.
 
@@ -47,5 +49,5 @@ The Act is amended by adding the following after section 5:
 
 ### Section 4
 
-The Court Challenges Program that was originally established in 1978 by the Government of Canada and that has been administered since 2019 by the University of Ottawa is deemed to have been established under paragraph 5(a.1) of the `Department of Canadian Heritage Act`, as enacted by section 2 of this Act.
+[*Deleted*]
 
