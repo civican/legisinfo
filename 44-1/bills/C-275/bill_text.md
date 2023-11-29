@@ -15,7 +15,7 @@ The `Health of Animals Act` is amended by adding the following after section 9:
 
 ### Section 9.1
 
-No person shall, without lawful authority or excuse, enter a building or other enclosed place in which animals are kept, or take in any animal or thing, **if their** entering such a place or taking in the animal or thing could **reasonably be expected to** result in the exposure of the animals to a disease or toxic substance that is capable of affecting or contaminating them.
+No person shall, without lawful authority or excuse, enter a building or other enclosed place in which animals are kept, or take in any animal or thing, if their entering such a place or taking in the animal or thing could reasonably be expected to result in the exposure of the animals to a disease or toxic substance that is capable of affecting or contaminating them.
 
 ### Section 2
 
@@ -29,9 +29,9 @@ No person shall, without lawful authority or excuse, enter a building or other e
 
       **(1.1)** Every individual who contravenes section 9.1 is guilty of
 
-        an offence punishable on summary conviction and liable to a fine not exceeding **twenty-five** thousand dollars or to imprisonment for a term not exceeding **three** months, or to both; or
+        an offence punishable on summary conviction and liable to a fine not exceeding twenty-five thousand dollars or to imprisonment for a term not exceeding three months, or to both; or
 
-        an indictable offence and liable to a fine not exceeding **one** hundred thousand dollars or to imprisonment for a term not exceeding **one year**, or to both.
+        an indictable offence and liable to a fine not exceeding one hundred thousand dollars or to imprisonment for a term not exceeding one year, or to both.
 
       **(1.2)** Every person, other than an individual, that contravenes section 9.1 is guilty of
 
