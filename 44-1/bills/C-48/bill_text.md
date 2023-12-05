@@ -8,9 +8,11 @@ create a reverse onus provision for any person charged with a serious offence in
 
 add certain firearms offences to the existing reverse onus provisions;
 
-expand the reverse onus provision for offences involving intimate partner violence to ensure that it applies to an accused person who has been previously discharged for such an offence; and
+expand the reverse onus provision for offences involving intimate partner violence to ensure that it applies to an accused person who has been previously discharged for such an offence;
 
-require the court to consider if an accused person has any previous convictions involving violence and to include in the record a statement that the safety and security of the community was considered.
+require the court to consider if an accused person has any previous convictions involving violence and to include in the record a statement that the safety and security of the community was considered; and
+
+require the court to include in the record a statement setting out how the court determined whether the accused is Aboriginal or belongs to a vulnerable population and, if so, how the particular circumstances of the accused were considered.
 
 This enactment also makes further clarifications and provides for a parliamentary review of the provisions it enacts or amends to commence on the fifth anniversary of the day on which it receives royal assent, or as soon as feasible after that anniversary.
 
@@ -62,12 +64,14 @@ Now, therefore, His Majesty, by and with the advice and consent of the Senate an
 
     **(13)** A justice who makes an order under this section shall include in the record of the proceedings a statement that the justice considered the safety and security of every victim of the offence and the safety and security of the community when making the order.
 
+    **(13.1)** A justice who makes an order under this section shall include in the record of proceedings a statement that sets out both how they determined whether the accused is an accused referred to in section 493.2 and their determination. If the justice determines that the accused is an accused referred to in section 493.2, they shall also include a statement indicating how they considered their particular circumstances, as required under that section.
+
 
 ### Review by Committee
 
 ### Section 2
 
-On the fifth anniversary of the day on which this Act receives royal assent, or as soon as feasible after that anniversary, the provisions enacted or amended by this Act are to be referred to the standing committee of the House of Commons that normally considers matters relating to justice.
+On the fifth anniversary of the day on which this Act receives royal assent, or as soon as feasible after that anniversary, the provisions enacted or amended by this Act are to be referred to the standing committee of the Senate and the standing committee of the House of Commons that normally consider matters relating to justice.
 
 
 ### Transitional Provision
@@ -81,7 +85,7 @@ For greater certainty, the amendments made by this Act also apply with respect t
 
 ### Section 4
 
-  **(1)** Subsections (2) to (4) apply if Bill S-205, introduced in the 1st session of the 44th Parliament and entitled `An Act to amend the Criminal Code and to make consequential amendments to another Act (interim release and domestic violence recognizance orders)` (in this section referred to as the "other Act"), receives royal assent.
+  **(1)** Subsections (2) and (3) apply if Bill S-205, introduced in the 1st session of the 44th Parliament and entitled `An Act to amend the Criminal Code and to make consequential amendments to another Act (interim release and domestic violence recognizance orders)` (in this section referred to as the "other Act"), receives royal assent.
 
   **(2)** If subsection `1`(4) of this Act comes into force before subsection 1(3) of the other Act, then that subsection 1(3) is repealed.
 
