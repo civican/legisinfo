@@ -17,9 +17,9 @@ Section 214 of the `Criminal Code` is amended by adding the following in alphabe
 
 **long-term care facility** means a residential facility, or part of a residential facility, the primary purpose of which is to provide long-term accommodation, meals, assistance and care to three or more adults who reside in the facility and who
 
-are unrelated to the owners and **officers** of the facility by blood or marriage, and
+are unrelated to the owners and officers of the facility by blood or marriage, and
 
-are unable to provide themselves with the necessaries of life by reason of age, illness, mental disorder, disability or frailty; (**établissement de soins de longue durée**)
+are unable to provide themselves with the necessaries of life by reason of age, illness, mental disorder, disability or frailty; (**établissement de soins de longue durée**)
 
 **officer** means the chairperson of the board of directors, the president, a vice-president, the secretary, the treasurer, the comptroller, the general counsel, the general manager or a managing director of a long-term care facility, any other person who performs functions for a long-term care facility similar to those normally performed by a person occupying any of those offices, or any other person designated as an officer of a long-term care facility. (**dirigeant**)
 
@@ -27,7 +27,7 @@ are unable to provide themselves with the necessaries of life by reason of age, 
 
   **(1)** Subsection 215(1) of the Act is amended by striking out "and" at the end of paragraph (b) and by adding the following after that paragraph:
 
-    as an owner or **officer** of a long-term care facility, to **ensure** necessaries of life **are provided** to residents of the facility; and
+    as an owner or officer of a long-term care facility, to ensure necessaries of life are provided to residents of the facility; and
 
   **(2)** Paragraph 215(2)(b) of the Act is replaced by the following:
 
@@ -39,7 +39,7 @@ The Act is amended by adding the following after section 215:
 
 ### Section 215.1
 
-  **(1)** When an owner or **officer** of a long-term care facility is convicted, or is discharged on the conditions prescribed in a probation order under section 730, of an offence referred to in paragraph 215(2)(b), the court that sentences the offender or directs that the accused be discharged, as the case may be, in addition to any other punishment that may be imposed for that offence or any other condition prescribed in the order of discharge, shall consider making and may make, subject to the conditions or exemptions that the court directs, an order prohibiting the offender from seeking, obtaining or continuing any employment, or becoming or being a volunteer in any capacity, that involves being in charge of or in a position of trust or authority towards an adult who is vulnerable by reason of age, illness, mental disorder, disability or frailty.
+  **(1)** When an owner or officer of a long-term care facility is convicted, or is discharged on the conditions prescribed in a probation order under section 730, of an offence referred to in paragraph 215(2)(b), the court that sentences the offender or directs that the accused be discharged, as the case may be, in addition to any other punishment that may be imposed for that offence or any other condition prescribed in the order of discharge, shall consider making and may make, subject to the conditions or exemptions that the court directs, an order prohibiting the offender from seeking, obtaining or continuing any employment, or becoming or being a volunteer in any capacity, that involves being in charge of or in a position of trust or authority towards an adult who is vulnerable by reason of age, illness, mental disorder, disability or frailty.
 
   **(1.1)** For the purpose of subsection (1), the court shall take into account any penalty or measure imposed under a provincial law or policy intended to protect vulnerable adults.
 
@@ -49,7 +49,7 @@ The Act is amended by adding the following after section 215:
 
   **(4)** Every person who is bound by an order of prohibition and who does not comply with the order is guilty of
 
-    an indictable offence and is liable to imprisonment for a term not exceeding **four** years; or
+    an indictable offence and is liable to imprisonment for a term not exceeding four years; or
 
     an offence punishable on summary conviction.
 
