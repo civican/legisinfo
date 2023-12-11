@@ -1,0 +1,888 @@
+<Bills>
+  <Bill>
+    <Id>12774114</Id>
+    <NumberCode>C-61</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>61</Number>
+    <LongTitleEn>An Act respecting water, source water, drinking water, wastewater and related infrastructure on First Nation lands</LongTitleEn>
+    <LongTitleFr>Loi concernant l'eau, les sources d'eau, l'eau potable, les eaux usées et les infrastructures connexes sur les terres des Premières Nations</LongTitleFr>
+    <LongTitle>An Act respecting water, source water, drinking water, wastewater and related infrastructure on First Nation lands</LongTitle>
+    <ShortTitleEn>First Nations Clean Water Act</ShortTitleEn>
+    <ShortTitleFr>Loi sur l'eau propre des Premières Nations</ShortTitleFr>
+    <ShortTitle>First Nations Clean Water Act</ShortTitle>
+    <StatusId>353</StatusId>
+    <StatusNameEn>At report stage in the House of Commons</StatusNameEn>
+    <StatusNameFr>À l'étape du rapport à la Chambre des communes</StatusNameFr>
+    <StatusName>At report stage in the House of Commons</StatusName>
+    <LatestCompletedMajorStageId>60044</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>Second reading</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Deuxième lecture</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>Second reading</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>Second reading in the House of Commons</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>1</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>House of Commons</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Chambre des communes</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>House of Commons</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60049</OngoingStageId>
+    <OngoingStageNameEn>Consideration in committee</OngoingStageNameEn>
+    <OngoingStageNameFr>Examen en comité</OngoingStageNameFr>
+    <OngoingStageName>Consideration in committee</OngoingStageName>
+    <LatestCompletedBillStageId>60074</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Committee Events Excluding Referral to Committee</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Événements comité sans renvoi à un comité</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Committee Events Excluding Referral to Committee</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>1</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>House of Commons</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Chambre des communes</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>House of Commons</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2024-12-02T13:45:15.827</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>44</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>88984</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Patty</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Hajdu</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Patty Hajdu</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Indigenous Services</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre des Services aux Autochtones</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Indigenous Services</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>4</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Minister</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>ministre</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Minister</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>820</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Thunder Bay—Superior North</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Thunder Bay—Supérieur-Nord</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Thunder Bay—Superior North</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60124</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Committee report presented</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Présentation du rapport de comité</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60049</LatestBillEventStageId>
+    <LatestBillEventTypeName>Committee report presented</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <CommitteeOrganizationId>27176</CommitteeOrganizationId>
+      <CommitteeNameEn>Standing Committee on Indigenous and Northern Affairs</CommitteeNameEn>
+      <CommitteeNameFr>Comité permanent des affaires autochtones et du Nord</CommitteeNameFr>
+      <CommitteeAcronym>INAN</CommitteeAcronym>
+      <CommitteeName>Standing Committee on Indigenous and Northern Affairs</CommitteeName>
+      <StudyActivityId />
+      <OrganizationTypeId />
+      <ParentCommittee />
+      <IsSubCommittee>false</IsSubCommittee>
+      <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+      <IsSenateCommittee>false</IsSenateCommittee>
+      <IsJointCommittee>false</IsJointCommittee>
+    </LatestBillEventCommitteeDetails>
+    <LatestBillEventDateTime>2024-12-02T11:00:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>1</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>House of Commons</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Chambre des communes</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>House of Commons</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>122</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>380</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2023-12-11T15:12:40.59</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime>2024-06-05T19:00:41</PassedHouseSecondReadingDateTime>
+    <PassedHouseThirdReadingDateTime />
+    <PassedSenateFirstReadingDateTime />
+    <PassedSenateSecondReadingDateTime />
+    <PassedSenateThirdReadingDateTime />
+    <ReceivedRoyalAssentDateTime />
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>false</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>false</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>false</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>false</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>false</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information, Education and Research Services of the Library of Parliament. Meanwhile, the following executive summary is available.&lt;br/&gt;&lt;br/&gt;On 11 December 2023, the Minister of Indigenous Services introduced Bill C-61, An Act respecting water, source water, drinking water, wastewater and related infrastructure on First Nation lands (First Nations Clean Water Act), and it was given first reading.   &lt;br/&gt;&lt;br/&gt;Bill C-61 affirms that the inherent right to self-government, recognized and affirmed by section 35 of the Constitution Act, 1982, includes the jurisdiction of First Nations in relation to water, source water, drinking water, wastewater and related infrastructure on, in and under First Nation lands. It sets out principles, such as substantive equality, to guide the provision for First Nations of clean and safe drinking water and the effective treatment and disposal of wastewater on First Nation lands. It provides for minimum standards for water quality and quantity and wastewater effluent. It also provides pathways to facilitate source water protection.&lt;/div&gt;</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>&lt;div&gt;Les Service d'information, d'éducation et de recherche parlementaires de la Bibliothèque du Parlement rédige actuellement le résumé législatif de ce projet de loi.  Entre-temps, le Service met à votre disposition le sommaire suivant.&lt;br/&gt;&lt;br/&gt;Le 11 décembre 2023, le ministre des Services aux Autochtones a déposé le projet de loi C-57, Loi concernant l'eau, les sources d'eau, l'eau potable, les eaux usées et les infrastructures connexes sur les terres des Premières Nations (Loi sur l'eau propre des Premières Nations), à la Chambre des communes en première lecture.  &lt;br/&gt;&lt;br/&gt;Le projet de loi C-61 affirme le droit inhérent à l'autonomie gouvernementale reconnu et confirmé par l'article 35 de la Loi constitutionnelle de 1982 qui comprend notamment la compétence des Premières Nations en matière d'eau, de sources d'eau, d'eau potable, d'eaux usées et d'infrastructures connexes sur et sous les terres des Premières Nations. Il énonce également des principes, notamment le principe de l'égalité réelle, visant à guider l'approvisionnement des Premières Nations en eau potable sûre et propre et le traitement et l'évacuation efficaces des eaux usées sur les terres des Premières Nations. Il prévoit en outre des normes minimales pour la quantité d'eau, la qualité de l'eau et les effluents des eaux usées. Enfin, le texte ouvre la voie à une protection facilitée des sources d'eau.&lt;/div&gt;</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information, Education and Research Services of the Library of Parliament. Meanwhile, the following executive summary is available.&lt;br/&gt;&lt;br/&gt;On 11 December 2023, the Minister of Indigenous Services introduced Bill C-61, An Act respecting water, source water, drinking water, wastewater and related infrastructure on First Nation lands (First Nations Clean Water Act), and it was given first reading.   &lt;br/&gt;&lt;br/&gt;Bill C-61 affirms that the inherent right to self-government, recognized and affirmed by section 35 of the Constitution Act, 1982, includes the jurisdiction of First Nations in relation to water, source water, drinking water, wastewater and related infrastructure on, in and under First Nation lands. It sets out principles, such as substantive equality, to guide the provision for First Nations of clean and safe drinking water and the effective treatment and disposal of wastewater on First Nation lands. It provides for minimum standards for water quality and quantity and wastewater effluent. It also provides pathways to facilitate source water protection.&lt;/div&gt;</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear />
+    <StatuteChapter />
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2023-12-11T15:12:40.59</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>265</Number>
+          <Date>2023-12-11T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2023-12-11T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2023-12-11T15:12:40.59</EventStartDateTime>
+          <EventEndDateTime>2023-12-11T15:12:40.59</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2023-12-11T15:12:40.59</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2024-06-05T19:00:41</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>27176</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Indigenous and Northern Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones et du Nord</CommitteeNameFr>
+          <CommitteeAcronym>INAN</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Indigenous and Northern Affairs</CommitteeName>
+          <StudyActivityId>12799569</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>275</Number>
+          <Date>2024-02-05T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>325</Number>
+          <Date>2024-06-05T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>12796023</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>12792879</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>2nd reading and referral to committee - INAN</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>2e lecture et renvoi en comité - INAN</DecisionMotionTitleFr>
+          <DecisionMotionTitle>2nd reading and referral to committee - INAN</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId />
+          <DecisionMethodNameEn>
+          </DecisionMethodNameEn>
+          <DecisionMethodNameFr>
+          </DecisionMethodNameFr>
+          <DecisionMethodName>
+          </DecisionMethodName>
+          <DivisionNumber />
+          <DivisionVotesYeas />
+          <DivisionVotesNays />
+          <DivisionVotePaired />
+          <DecisionSittingDate>2024-06-05T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>325</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60121</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading and referral to committee</EventNameEn>
+          <EventNameFr>Deuxième lecture et renvoi en comité</EventNameFr>
+          <EventName>Second reading and referral to committee</EventName>
+          <EventDateTime>2024-06-05T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60121</EventTypeId>
+          <EventTypeNameEn>Second reading and referral to committee</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture et renvoi en comité</EventTypeNameFr>
+          <EventTypeName>Second reading and referral to committee</EventTypeName>
+          <EventStartDateTime>2024-06-05T19:00:41</EventStartDateTime>
+          <EventEndDateTime>2024-06-05T19:00:41</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2024-06-05T19:00:41</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>12552702</InterventionEventId>
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>88984</PersonId>
+          <PersonOfficialFirstName>Patty</PersonOfficialFirstName>
+          <PersonOfficialLastName>Hajdu</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Patty Hajdu</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>275</MeetingNumber>
+          <SpeechDateTime>2024-02-05T12:05:50</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>12553054</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>88770</PersonId>
+          <PersonOfficialFirstName>Jamie</PersonOfficialFirstName>
+          <PersonOfficialLastName>Schmale</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Jamie Schmale</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>275</MeetingNumber>
+          <SpeechDateTime>2024-02-05T12:32:06</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>12553338</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>104630</PersonId>
+          <PersonOfficialFirstName>Sébastien</PersonOfficialFirstName>
+          <PersonOfficialLastName>Lemire</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Sébastien Lemire</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Bloc Québécois</CaucusShortNameEn>
+          <CaucusShortNameFr>Bloc Québécois</CaucusShortNameFr>
+          <CaucusShortName>Bloc Québécois</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>275</MeetingNumber>
+          <SpeechDateTime>2024-02-05T12:59:26</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>12553511</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>111116</PersonId>
+          <PersonOfficialFirstName>Lori</PersonOfficialFirstName>
+          <PersonOfficialLastName>Idlout</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Lori Idlout</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>NDP</CaucusShortNameEn>
+          <CaucusShortNameFr>NPD</CaucusShortNameFr>
+          <CaucusShortName>NDP</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>275</MeetingNumber>
+          <SpeechDateTime>2024-02-05T13:29:16</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2024-12-02T13:45:15.827</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>27176</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Indigenous and Northern Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones et du Nord</CommitteeNameFr>
+          <CommitteeAcronym>INAN</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Indigenous and Northern Affairs</CommitteeName>
+          <StudyActivityId>12799569</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented with amendments</NameEn>
+          <NameFr>Présentation du rapport de comité avec des amendements</NameFr>
+          <Name>Committee report presented with amendments</Name>
+          <Number>380</Number>
+          <Date>2024-12-02T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27176</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Indigenous and Northern Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones et du Nord</CommitteeNameFr>
+          <CommitteeAcronym>INAN</CommitteeAcronym>
+          <Number>114</Number>
+          <Date>2024-06-12T00:00:00</Date>
+          <CommitteeName>Standing Committee on Indigenous and Northern Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27176</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Indigenous and Northern Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones et du Nord</CommitteeNameFr>
+          <CommitteeAcronym>INAN</CommitteeAcronym>
+          <Number>115</Number>
+          <Date>2024-06-17T00:00:00</Date>
+          <CommitteeName>Standing Committee on Indigenous and Northern Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27176</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Indigenous and Northern Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones et du Nord</CommitteeNameFr>
+          <CommitteeAcronym>INAN</CommitteeAcronym>
+          <Number>116</Number>
+          <Date>2024-06-19T00:00:00</Date>
+          <CommitteeName>Standing Committee on Indigenous and Northern Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27176</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Indigenous and Northern Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones et du Nord</CommitteeNameFr>
+          <CommitteeAcronym>INAN</CommitteeAcronym>
+          <Number>117</Number>
+          <Date>2024-09-16T00:00:00</Date>
+          <CommitteeName>Standing Committee on Indigenous and Northern Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27176</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Indigenous and Northern Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones et du Nord</CommitteeNameFr>
+          <CommitteeAcronym>INAN</CommitteeAcronym>
+          <Number>118</Number>
+          <Date>2024-09-19T00:00:00</Date>
+          <CommitteeName>Standing Committee on Indigenous and Northern Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27176</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Indigenous and Northern Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones et du Nord</CommitteeNameFr>
+          <CommitteeAcronym>INAN</CommitteeAcronym>
+          <Number>119</Number>
+          <Date>2024-09-23T00:00:00</Date>
+          <CommitteeName>Standing Committee on Indigenous and Northern Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27176</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Indigenous and Northern Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones et du Nord</CommitteeNameFr>
+          <CommitteeAcronym>INAN</CommitteeAcronym>
+          <Number>120</Number>
+          <Date>2024-09-26T00:00:00</Date>
+          <CommitteeName>Standing Committee on Indigenous and Northern Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27176</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Indigenous and Northern Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones et du Nord</CommitteeNameFr>
+          <CommitteeAcronym>INAN</CommitteeAcronym>
+          <Number>121</Number>
+          <Date>2024-10-03T00:00:00</Date>
+          <CommitteeName>Standing Committee on Indigenous and Northern Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27176</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Indigenous and Northern Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones et du Nord</CommitteeNameFr>
+          <CommitteeAcronym>INAN</CommitteeAcronym>
+          <Number>122</Number>
+          <Date>2024-10-07T00:00:00</Date>
+          <CommitteeName>Standing Committee on Indigenous and Northern Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27176</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Indigenous and Northern Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones et du Nord</CommitteeNameFr>
+          <CommitteeAcronym>INAN</CommitteeAcronym>
+          <Number>123</Number>
+          <Date>2024-10-10T00:00:00</Date>
+          <CommitteeName>Standing Committee on Indigenous and Northern Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27176</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Indigenous and Northern Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones et du Nord</CommitteeNameFr>
+          <CommitteeAcronym>INAN</CommitteeAcronym>
+          <Number>127</Number>
+          <Date>2024-10-31T00:00:00</Date>
+          <CommitteeName>Standing Committee on Indigenous and Northern Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27176</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Indigenous and Northern Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones et du Nord</CommitteeNameFr>
+          <CommitteeAcronym>INAN</CommitteeAcronym>
+          <Number>128</Number>
+          <Date>2024-11-04T00:00:00</Date>
+          <CommitteeName>Standing Committee on Indigenous and Northern Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27176</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Indigenous and Northern Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones et du Nord</CommitteeNameFr>
+          <CommitteeAcronym>INAN</CommitteeAcronym>
+          <Number>129</Number>
+          <Date>2024-11-06T00:00:00</Date>
+          <CommitteeName>Standing Committee on Indigenous and Northern Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27176</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Indigenous and Northern Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones et du Nord</CommitteeNameFr>
+          <CommitteeAcronym>INAN</CommitteeAcronym>
+          <Number>130</Number>
+          <Date>2024-11-07T00:00:00</Date>
+          <CommitteeName>Standing Committee on Indigenous and Northern Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27176</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Indigenous and Northern Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones et du Nord</CommitteeNameFr>
+          <CommitteeAcronym>INAN</CommitteeAcronym>
+          <Number>131</Number>
+          <Date>2024-11-18T00:00:00</Date>
+          <CommitteeName>Standing Committee on Indigenous and Northern Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27176</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Indigenous and Northern Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones et du Nord</CommitteeNameFr>
+          <CommitteeAcronym>INAN</CommitteeAcronym>
+          <Number>132</Number>
+          <Date>2024-11-21T00:00:00</Date>
+          <CommitteeName>Standing Committee on Indigenous and Northern Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27176</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Indigenous and Northern Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones et du Nord</CommitteeNameFr>
+          <CommitteeAcronym>INAN</CommitteeAcronym>
+          <Number>133</Number>
+          <Date>2024-11-25T00:00:00</Date>
+          <CommitteeName>Standing Committee on Indigenous and Northern Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27176</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Indigenous and Northern Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des affaires autochtones et du Nord</CommitteeNameFr>
+          <CommitteeAcronym>INAN</CommitteeAcronym>
+          <Number>134</Number>
+          <Date>2024-11-26T00:00:00</Date>
+          <CommitteeName>Standing Committee on Indigenous and Northern Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented with amendments</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité avec des amendements</EventNameFr>
+          <EventName>Committee report presented with amendments</EventName>
+          <EventDateTime>2024-12-02T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId>13411504</CommitteeReportId>
+          <CommitteeReportNumber>19</CommitteeReportNumber>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2024-12-02T13:45:15.827</EventStartDateTime>
+          <EventEndDateTime>2024-12-02T13:45:15.827</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2024-12-02T13:45:15.827</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>2</State>
+        <StateNameEn>No activity</StateNameEn>
+        <StateNameFr>Aucune activité</StateNameFr>
+        <StateAsOfDate />
+        <StateName>No activity</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+    </BillStages>
+    <Publications>
+      <PublicationId>12793278</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>13472477</PublicationId>
+      <PublicationTypeId>80702</PublicationTypeId>
+      <PublicationTypeNameEn>As amended by committee</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel que modifié par le comité</PublicationTypeNameFr>
+      <PublicationTypeName>As amended by committee</PublicationTypeName>
+    </Publications>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Together with First Nations leadership, Minister Patty Hajdu introduces a Bill to support clean drinking water in First Nations communities (2023-12-11 | Department of Indigenous Services)</TitleEn>
+      <TitleFr>En collaboration avec les dirigeants des Premières Nations, la ministre Patty Hajdu présente un projet de loi en soutien à l'eau potable dans les communautés des Premières Nations  (2023-12-11 | Ministère des Services aux Autochtones)</TitleFr>
+      <Title>Together with First Nations leadership, Minister Patty Hajdu introduces a Bill to support clean drinking water in First Nations communities (2023-12-11 | Department of Indigenous Services)</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/indigenous-services-canada/news/2023/12/together-with-first-nations-leadership-minister-patty-hajdu-introduces-a-bill-to-support-clean-drinking-water-in-first-nations-communities.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/services-autochtones-canada/nouvelles/2023/12/en-collaboration-avec-les-dirigeants-des-premieres-nations-la-ministre-patty-hajdu-presente-un-projet-de-loi-en-soutien-a-leau-potable-dans-les-com.html</UrlFr>
+      <Url>https://www.canada.ca/en/indigenous-services-canada/news/2023/12/together-with-first-nations-leadership-minister-patty-hajdu-introduces-a-bill-to-support-clean-drinking-water-in-first-nations-communities.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Bill C-61: First Nations Clean Water Act (short title), or an Act respecting water, source water, drinking water, wastewater and related infrastructure on First Nation lands (2023-12-11 | Department of Indigenous Services)</TitleEn>
+      <TitleFr>Projet de loi C-61 : Loi sur l'eau potable des Premières Nations (titre abrégé), ou Loi concernant l'eau, les sources d'eau, l'eau potable, les eaux usées et les infrastructures connexes sur les terres des Premières Nations (2023-12-11 | Ministère des Services aux Autochtones)</TitleFr>
+      <Title>Bill C-61: First Nations Clean Water Act (short title), or an Act respecting water, source water, drinking water, wastewater and related infrastructure on First Nation lands (2023-12-11 | Department of Indigenous Services)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/indigenous-services-canada/news/2023/12/bill-c--first-nations-clean-water-act-short-title-or-an-act-respecting-water-source-water-drinking-water-wastewater-and-related-infrastructure-on-f.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/services-autochtones-canada/nouvelles/2023/12/projet-de-loi-c---loi-sur-leau-potable-des-premieres-nations-titre-abrege-ou-loi-concernant-leau-les-sources-deau-leau-potable-les-eaux-usees-et-le.html</UrlFr>
+      <Url>https://www.canada.ca/en/indigenous-services-canada/news/2023/12/bill-c--first-nations-clean-water-act-short-title-or-an-act-respecting-water-source-water-drinking-water-wastewater-and-related-infrastructure-on-f.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Safe Drinking Water for First Nations Act, S.C. 2013, c. 21, as repealed by Budget Implementation Act, 2022, No. 1, S.C. 2022, c. 10, s. 178.</TitleEn>
+      <TitleFr>Loi sur la salubrité de l'eau potable des Premières Nations, L.C. 2013, ch. 21, tel qu'abrogé par Loi no. 1 d'exécution du budget de 2022, No. 1, L.C. 2022, ch. 10, s. 178.</TitleFr>
+      <Title>Safe Drinking Water for First Nations Act, S.C. 2013, c. 21, as repealed by Budget Implementation Act, 2022, No. 1, S.C. 2022, c. 10, s. 178.</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://laws-lois.justice.gc.ca/eng/acts/s-1.04/page-1.html</UrlEn>
+      <UrlFr>https://laws-lois.justice.gc.ca/fra/lois/s-1.04/page-1.html</UrlFr>
+      <Url>https://laws-lois.justice.gc.ca/eng/acts/s-1.04/page-1.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Canada 	Department of Indigenous Services. Courts approve settlement agreement to resolve class action litigation related to safe drinking water in First Nations communities. December 23, 2021. [Press release]</TitleEn>
+      <TitleFr>Canada. Ministère des Services aux Autochtones. Les tribunaux approuvent une entente de règlement pour régler les recours collectifs relatifs à l'eau potable dans les communautés des Premières Nations. 23 décembre 2021. [Communiqué de presse]</TitleFr>
+      <Title>Canada 	Department of Indigenous Services. Courts approve settlement agreement to resolve class action litigation related to safe drinking water in First Nations communities. December 23, 2021. [Press release]</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/indigenous-services-canada/news/2021/12/courts-approve-settlement-agreement-to-resolve-class-action-litigation-related-to-safe-drinking-water-in-first-nations-communities.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/services-autochtones-canada/nouvelles/2021/12/les-tribunaux-approuvent-une-entente-de-reglement-pour-regler-les-recours-collectifs-relatifs-a-leau-potable-dans-les-communautes-des-premieres-nat.html</UrlFr>
+      <Url>https://www.canada.ca/en/indigenous-services-canada/news/2021/12/courts-approve-settlement-agreement-to-resolve-class-action-litigation-related-to-safe-drinking-water-in-first-nations-communities.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Giswold, Jill, and Nasreddine Ammar. Clean Water for First Nations: Is the Government Spending Enough? Office of the Parliamentary Budget Officer. December 1, 2021</TitleEn>
+      <TitleFr>Giswold, Jill, et Nasreddine Ammar. Eau potable pour les Premières Nations : le gouvernement dépense-t-il assez? Bureau du directeur Parlementaire du budget. 1 décembre 2021.</TitleFr>
+      <Title>Giswold, Jill, and Nasreddine Ammar. Clean Water for First Nations: Is the Government Spending Enough? Office of the Parliamentary Budget Officer. December 1, 2021</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.pbo-dpb.ca/en/publications/RP-2122-021-M--clean-water-first-nations-is-government-spending-enough--eau-potable-premieres-nations-gouvernement-depense-t-il-assez</UrlEn>
+      <UrlFr>https://www.pbo-dpb.ca/fr/publications/RP-2122-021-M--clean-water-first-nations-is-government-spending-enough--eau-potable-premieres-nations-gouvernement-depense-t-il-assez</UrlFr>
+      <Url>https://www.pbo-dpb.ca/en/publications/RP-2122-021-M--clean-water-first-nations-is-government-spending-enough--eau-potable-premieres-nations-gouvernement-depense-t-il-assez</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Charter Statement - Bill C-61: An Act respecting water, source water, drinking water, wastewater, and related infrastructure on First Nation lands (Tabled 2024-02-24)</TitleEn>
+      <TitleFr>Énoncé concernant la Charte - Projet de loi C-61 : Loi concernant l'eau, les sources d'eau, l'eau potable, les eaux usées et les infrastructures connexes sur les terres des Premières Nations (Déposé 2024-02-24)</TitleFr>
+      <Title>Charter Statement - Bill C-61: An Act respecting water, source water, drinking water, wastewater, and related infrastructure on First Nation lands (Tabled 2024-02-24)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.justice.gc.ca/eng/csj-sjc/pl/charter-charte/c61.html</UrlEn>
+      <UrlFr>https://www.justice.gc.ca/fra/sjc-csj/pl/charte-charter/c61.html</UrlFr>
+      <Url>https://www.justice.gc.ca/eng/csj-sjc/pl/charter-charte/c61.html</Url>
+    </WebReferences>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3441</BibliographicNoticeId>
+      <Title>Consulting and accommodating the right of jurisdiction : lessons from UNDRIP and Canadian law and policy</Title>
+      <Author>Tokawa, Kenji</Author>
+      <Publication>Canadian journal of administrative law &amp; practice</Publication>
+      <VolumePage>38 (1): p.107-125</VolumePage>
+      <PublicationDate>March 2025</PublicationDate>
+      <Classification>Radar 20250325</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
