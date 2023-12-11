@@ -1,7 +1,5 @@
 # Bill C-56: An Act to amend the Excise Tax Act and the Competition Act
 
-**Sponsor**: DEPUTY PRIME MINISTER AND MINISTER OF FINANCE
-
 Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act to amend the Excise Tax Act and the Competition Act*".
 
 ## Summary
@@ -74,11 +72,11 @@ The `Competition Act` is amended by adding the following after section 10:
 
 ### Section 10.1
 
-  **(1)** The Commissioner may, **after consulting** the Minister, conduct an inquiry into the state of competition in a market or industry if **the Commissioner** is of the opinion that it is in the public interest to do so.
+  **(1)** The Commissioner may, after consulting the Minister, conduct an inquiry into the state of competition in a market or industry if the Commissioner is of the opinion that it is in the public interest to do so.
 
-  **(2)** **The Minister may direct the Commissioner to conduct an inquiry into the state of competition in a market or industry if the Minister is of the opinion that it is in the public interest that such an inquiry be conducted**. Before making the direction, the Minister must consult the Commissioner to determine whether the inquiry would be feasible, including with regard to its cost.
+  **(2)** The Minister may direct the Commissioner to conduct an inquiry into the state of competition in a market or industry if the Minister is of the opinion that it is in the public interest that such an inquiry be conducted. Before making the direction, the Minister must consult the Commissioner to determine whether the inquiry would be feasible, including with regard to its cost.
 
-  **(3)** If, after the consultation **referred to in subsection (1) or (2), it is decided** to **proceed with** the inquiry, the Commissioner must prepare proposed terms of reference for the inquiry and publish them on a publicly available website and invite the public to provide comments during a period of not less than 15 days.
+  **(3)** If, after the consultation referred to in subsection (1) or (2), it is decided to proceed with the inquiry, the Commissioner must prepare proposed terms of reference for the inquiry and publish them on a publicly available website and invite the public to provide comments during a period of not less than 15 days.
 
   **(4)** After having taken into account any comments received from the public, the Commissioner must submit to the Minister for approval the Commissioner's final terms of reference and, if they are approved, the Commissioner must publish them on a publicly available website.
 
@@ -198,6 +196,15 @@ Subsection 124.2(1) of the Act is replaced by the following:
 ### Section 12
 
 Sections 92 and 96 of the `Competition Act`, as they read before the day on which sections `9` and `10` come into force, continue to apply after that day to a proposed transaction notified under section 114 of that Act before that day or to a merger that has been substantially completed before that day.
+
+
+### Coordinating Amendment
+
+### Section 12.1
+
+If Bill C-59, introduced in the 1st session of the 44th Parliament and entitled the `Fall Economic Statement Implementation Act, 2023`, receives royal assent, then on the first day on which both subsection 247(2) of that Act and section 7.2 of this Act are in force, subsection 79(4.1) of the `Competition Act` is replaced by the following:
+
+**(4.1)** If, as the result of an application by a person granted leave under section 103.1, the Tribunal finds that a person has engaged in or is engaging in a practice of anti-competitive acts that amounts to conduct that has had or is having the effect of preventing or lessening competition substantially in a market in which the person has a plausible competitive interest and it makes an order under subsection (1) or (2) against the person, it may also order the person against whom the order is made to pay an amount, not exceeding the value of the benefit derived from the conduct that is the subject of the order, to be distributed among the applicant and any other person affected by the conduct, in any manner that the Tribunal considers appropriate.
 
 
 ### Coming into Force
