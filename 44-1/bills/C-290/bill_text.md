@@ -1,4 +1,4 @@
-# Bill C-290: An Act to amend the Public Servants Disclosure Protection Act 
+# Bill C-290: An Act to amend the Public Servants Disclosure Protection Act and to make a consequential amendment to the Conflict of Interest Act
 
 ## Summary
 
@@ -32,13 +32,11 @@ confidence in public institutions can be enhanced by establishing effective proc
 
   **(2)** The portion of the definition **protected disclosure** in subsection 2(1) of the Act before paragraph (a) is replaced by the following:
 
-    **protected disclosure** means a disclosure that is made, **on the basis of reasonable belief**, by a public servant
+    **protected disclosure** means a disclosure that is made, on the basis of reasonable belief, by a public servant
 
-  **(3)** [*Deleted*]
+  **(3)** The definition **reprisal** in subsection 2(1) of the Act is replaced by the following:
 
-  **(4)** The definition **reprisal** in subsection 2(1) of the Act is replaced by the following:
-
-    **reprisal** means any **listed measure** taken against a public servant because the public servant
+    **reprisal** means any listed measure taken against a public servant because the public servant
 
     has refused to commit a wrongdoing;
 
@@ -50,11 +48,11 @@ confidence in public institutions can be enhanced by establishing effective proc
 
     has been mistaken for a public servant who is in a situation described in any of paragraphs (a) to (d);
 
-    has, **on the basis of reasonable belief**, cooperated in an investigation into a disclosure or an investigation commenced under section 33; **or**
+    has, on the basis of reasonable belief, cooperated in an investigation into a disclosure or an investigation commenced under section 33; or
 
     is associated with a public servant who is in a situation described in any of paragraphs (a) to (f). (**représailles**)
 
-  **(5)** Subsection 2(1) of the Act is amended by adding the following in alphabetical order:
+  **(4)** Subsection 2(1) of the Act is amended by adding the following in alphabetical order:
 
     **listed measure** means, in relation to a public servant,
 
@@ -82,11 +80,11 @@ confidence in public institutions can be enhanced by establishing effective proc
 
 Paragraphs 8(c) to (f) of the Act are replaced by the following:
 
-an abuse of authority, **which has such meaning as may be prescribed**;
+an abuse of authority, which has such meaning as may be prescribed;
 
 a mismanagement in the public sector;
 
-political interference in the public sector, **political interference having such meaning as may be prescribed**;
+political interference in the public sector, political interference having such meaning as may be prescribed;
 
 foreign interference in the public sector, foreign interference having such meaning as may be prescribed;
 
@@ -116,9 +114,9 @@ The Treasury Board may establish policies respecting the duty set out in subsect
 
 Paragraph 11(1)(a) of the Act is replaced by the following:
 
-provide, **on request, non-financial support — including information on appropriate resources and recourse mechanisms —** to a public servant who has made a protected disclosure, has witnessed another public servant making a protected disclosure, has collaborated with another public servant in the making of a protected disclosure or has been mis­taken for a public servant who made a protected disclosure;
+provide, on request, non-financial support — including information on appropriate resources and recourse mechanisms — to a public servant who has made a protected disclosure, has witnessed another public servant making a protected disclosure, has collaborated with another public servant in the making of a protected disclosure or has been mis­taken for a public servant who made a protected disclosure;
 
-subject to paragraph (c) and any other Act of Parliament and to the principles of procedural fairness and natural justice, protect the identity of persons involved in the disclosure process, including that of **any person referred to in paragraph (a), any other witness and any person** alleged to be responsible for **a wrongdoing**;
+subject to paragraph (c) and any other Act of Parliament and to the principles of procedural fairness and natural justice, protect the identity of persons involved in the disclosure process, including that of any person referred to in paragraph (a), any other witness and any person alleged to be responsible for a wrongdoing;
 
 ### Section 5.1
 
@@ -130,11 +128,11 @@ The Treasury Board may establish policies regarding the duties set out in subsec
 
 ### Section 6
 
-**Section** 12 of the Act **is** replaced by the following:
+Section 12 of the Act is replaced by the following:
 
 ### Section 12
 
-A public servant may disclose **to any of the following persons** any information that **the public servant** believes could show that a wrongdoing has been committed or is about to be committed, or that could show that he or she has been asked to commit a wrongdoing:
+A public servant may disclose to any of the following persons any information that the public servant believes could show that a wrongdoing has been committed or is about to be committed, or that could show that he or she has been asked to commit a wrongdoing:
 
 the public servant's supervisor;
 
@@ -192,13 +190,11 @@ Nothing in this Act relating to the making of disclosures is to be construed as 
 
 ### Section 19.1
 
-      **(1)** A public servant or former public servant who **reasonably** believes that a reprisal has been taken against them may file with the Commissioner a complaint in a form acceptable to the Commissioner. The complaint may also be filed by a person designated by the public servant or former public servant for the purpose.
+      **(1)** A public servant or former public servant who reasonably believes that a reprisal has been taken against them may file with the Commissioner a complaint in a form acceptable to the Commissioner. The complaint may also be filed by a person designated by the public servant or former public servant for the purpose.
 
       **(2)** The complaint must be filed within one year after the day on which the complainant knew, or in the Commissioner's opinion ought to have known, that the reprisal was taken.
 
-  **(2)** [*Deleted*]
-
-  **(3)** Paragraph 19.1(5)(b) of the Act is replaced by the following:
+  **(2)** Paragraph 19.1(5)(b) of the Act is replaced by the following:
 
     the complaint is filed within one year after those procedures have been exhausted.
 
@@ -212,13 +208,9 @@ A complaint under section 19.1 that concerns the Office of the Public Sector Int
 
 ### Section 12
 
-**Paragraph** 19.3(1)(d) of the Act **is** replaced by the following:
+Paragraph 19.3(1)(d) of the Act is replaced by the following:
 
-**** 
-
-  the complaint was not made on the basis of reasonable belief.
-
-**(2)** [*Deleted*]
+the complaint was not made on the basis of reasonable belief.
 
 ### Section 12.1
 
@@ -234,7 +226,7 @@ Section 19.4 of the Act is amended by adding the following after subsection (3):
 
 ### Section 13
 
-**Subsection** 19.4(5) of the Act **is** replaced by the following:
+Subsection 19.4(5) of the Act is replaced by the following:
 
 **(5)** Subsection (4) does not apply if the Commissioner has decided not to deal with the complaint for the reason that it was not made on the basis of reasonable belief.
 
@@ -305,8 +297,6 @@ Subsection 21.4(3) of the Act is replaced by the following:
 
 **(3)** If the Tribunal is of the opinion that a person who has been identified as being a person who may have taken the alleged reprisal is directly affected by a determination of the Tribunal, the Tribunal must add that person as a party.
 
-**(2)** [*Deleted*]
-
 ### Section 23
 
 Subsection 21.5(1) of the Act is replaced by the following:
@@ -323,10 +313,6 @@ assess the internal disclosure procedures established by a chief executive under
 
 ### Section 25
 
-[*Deleted*]
-
-### Section 26
-
   **(1)** Paragraph 24(1)(c) of the Act is replaced by the following:
 
     the disclosure was not made on the basis of reasonable belief or the information that led to the investigation under section 33 was not provided on the basis of reasonable belief;
@@ -335,17 +321,17 @@ assess the internal disclosure procedures established by a chief executive under
 
     **(4)** If the Commissioner refuses to deal with a disclosure or to commence an investigation, he or she must provide the person who made the disclosure with information on the most appropriate procedures for dealing with the disclosure.
 
-### Section 27
+### Section 26
 
 Paragraph 25(1)(j) of the Act is repealed.
 
-### Section 28
+### Section 27
 
 Paragraph 25.1(1)(e) of the Act is replaced by the following:
 
 any public servant or former public servant who is considering making a complaint under this Act regarding an alleged reprisal taken against him or her; or
 
-### Section 29
+### Section 28
 
 Subsection 33(1) of the Act is replaced by the following:
 
@@ -353,15 +339,15 @@ Subsection 33(1) of the Act is replaced by the following:
 
   **(1)** If, during the course of an investigation or as a result of any information provided to the Commissioner by a person who is not a public servant, the Commissioner has reason to believe that another wrongdoing, or a wrongdoing, as the case may be, has been committed, he or she may, subject to section 24, commence an investigation into the wrongdoing if he or she believes on reasonable grounds that the public interest requires an investigation. The provisions of this Act applicable to investigations commenced as the result of a disclosure apply to investigations commenced under this section.
 
-### Section 30
+### Section 29
 
-Section 34 of the Act is **replaced by the following**:
+Section 34 of the Act is replaced by the following:
 
 ### Section 34
 
 If the Commissioner is of the opinion that a matter under investigation would involve obtaining information from the Canadian Forces, the Canadian Security Intelligence Service or the Communications Security Establishment, the Commissioner must cease that part of the investigation and may refer the matter to any authority that the Commissioner considers competent to deal with it.
 
-### Section 31
+### Section 30
 
 Subsection 35(1) of the Act is replaced by the following:
 
@@ -369,19 +355,19 @@ Subsection 35(1) of the Act is replaced by the following:
 
   **(1)** If the Commissioner has reasonable grounds to suspect that information obtained in the course of an investigation may be used in the investigation or prosecution of an alleged contravention of any Act of Parliament or of the legislature of a province, he or she may, in addition to or in lieu of continuing the investigation, remit the information, at that point in time, to a peace officer having jurisdiction to investigate the alleged contravention, to the Attorney General of Canada or to the Auditor General of Canada.
 
-### Section 32
+### Section 31
 
 Paragraph 37(b) of the Act is replaced by the following:
 
 a situation that has come to his or her attention in the course of carrying out his or her duties exists that constitutes an imminent risk of a danger to the life, health or safety of persons, or to the environment.
 
-### Section 33
+### Section 32
 
   **(1)** Paragraphs 38(2)(b) and (c) of the Act are replaced by the following:
 
-    the number of disclosures received, broken down **by department and region, as well as** by type of wrongdoing, and the number of them that were acted on and those that were not acted on;
+    the number of disclosures received, broken down by department and region, as well as by type of wrongdoing, and the number of them that were acted on and those that were not acted on;
 
-    the number of investigations commenced under this Act, the number of investigations concluded, the duration of **each** investigation, **the various case outcomes for all** investigations and a summary of investigations that, in the Commissioner's opinion, are of interest to Canadians;
+    the number of investigations commenced under this Act, the number of investigations concluded, the duration of each investigation, the various case outcomes for all investigations and a summary of investigations that, in the Commissioner's opinion, are of interest to Canadians;
 
   **(2)** Section 38 is amended by adding the following after subsection (2):
 
@@ -389,15 +375,15 @@ a situation that has come to his or her attention in the course of carrying out 
 
     **(2.1)** The information referred in paragraphs (2)(a) to (d.1) is to be broken down by portion of the public sector and by region of Canada.
 
-### Section 34
+### Section 33
 
 Section 40 of the Act is replaced by the following:
 
 ### Section 40
 
-No person shall, in a disclosure of a wrongdoing or in the course of any investigation under this Act, knowingly make a false or misleading statement, either orally or in writing, to a supervisor, **a person referred to in paragraph 12(b)**, a senior officer, **a person designated under subsection 10(2.1)**, the Commissioner or a person acting on behalf of or under the direction of any of them.
+No person shall, in a disclosure of a wrongdoing or in the course of any investigation under this Act, knowingly make a false or misleading statement, either orally or in writing, to a supervisor, a person referred to in paragraph 12(b), a senior officer, a person designated under subsection 10(2.1), the Commissioner or a person acting on behalf of or under the direction of any of them.
 
-### Section 35
+### Section 34
 
 The portion of subsection 42.1(1) of the Act before paragraph (a) is replaced by the following:
 
@@ -405,7 +391,7 @@ The portion of subsection 42.1(1) of the Act before paragraph (a) is replaced by
 
   **(1)** No employer shall take any of the following measures against an employee by reason only that the employee has, on the basis of reasonable belief, provided information concerning an alleged wrongdoing in the public sector to the Commissioner or, if the alleged wrongdoing relates to the Office of the Public Sector Integrity Commissioner, to the Auditor General of Canada — or by reason only that the employer believes that the employee will do so:
 
-### Section 36
+### Section 35
 
 Subsections 42.2(1) and (2) of the Act are replaced by the following:
 
@@ -415,7 +401,7 @@ Subsections 42.2(1) and (2) of the Act are replaced by the following:
 
   **(2)** A public servant or any person purporting to act on behalf of Her Majesty in right of Canada or a portion of the public sector shall not, in considering whether to enter into a contract with a person, take into account that the person or any of the person's employees has, in the past, on the basis of reasonable belief, provided information concerning an alleged wrongdoing in the public sector to the Commissioner or, if the alleged wrongdoing relates to the Office of the Public Sector Integrity Commissioner, to the Auditor General of Canada.
 
-### Section 37
+### Section 36
 
 Paragraphs 42.3(a) and (b) of the Act are replaced by the following:
 
@@ -423,19 +409,19 @@ an indictable offence and liable to a fine of not more than $200,000 or to impri
 
 an offence punishable on summary conviction and liable to a fine of not more than $100,000 or to im­prisonment for a term of not more than six months, or to both that fine and that imprisonment.
 
-### Section 38
+### Section 37
 
 The Act is amended by adding the following after section 44.1:
 
 ### Section 44.2
 
-The Commissioner and every person acting on behalf of or under the direction of the Commissioner may disclose the identity of a person making a disclosure **and of** a witness, with the consent of that person.
+The Commissioner and every person acting on behalf of or under the direction of the Commissioner may disclose the identity of a person making a disclosure and of a witness, with the consent of that person.
 
 ### Section 44.3
 
 Subject to the provisions of this Act and any other Act of Parliament, the Commissioner may disclose to a chief executive or the Tribunal any information obtained in the course of an investigation if, in the Commissioner's opinion, the public interest in making the disclosure clearly outweighs the potential harm from the disclosure.
 
-### Section 39
+### Section 38
 
   **(1)** The portion of subsection 49(1) of the Act before paragraph (a) is replaced by the following:
 
@@ -447,11 +433,7 @@ Subject to the provisions of this Act and any other Act of Parliament, the Commi
 
     the disclosure is necessary to establish the grounds for any finding or recommendation in a report under section 38; and
 
-### Section 40
-
-[*Deleted*]
-
-### Section 40.1
+### Section 39
 
 The Act is amended by adding the following after section 51.3:
 
@@ -462,7 +444,7 @@ The Act is amended by adding the following after section 51.3:
 
 The Governor in Council may make regulations prescribing anything that by this Act is to be or may be prescribed.
 
-### Section 41
+### Section 40
 
 Section 54 of the Act is replaced by the following:
 
@@ -473,7 +455,7 @@ On the fifth anniversary of the day on which this section comes into force, and 
 
 ## Conflict of Interest Act
 
-### Section 42
+### Section 41
 
 The portion of section 68 of the `Conflict of Interest Act` before paragraph (a) is replaced by the following:
 
@@ -484,7 +466,7 @@ If a matter is referred to the Commissioner under subsection 12.1(1) or 24(2.1) 
 
 ## Coming into Force
 
-### Section 43
+### Section 42
 
 This Act comes into force on the first anniversary of the day on which it receives royal assent.
 
