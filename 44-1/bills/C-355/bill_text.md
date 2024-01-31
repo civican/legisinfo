@@ -42,21 +42,13 @@ This Act is binding on His Majesty in right of Canada or a province.
 
 ### Section 4
 
-  **(1)** It is prohibited for a person to export a horse from Canada by air unless they have, in the form and manner specified by the Minister, provided the Minister with a written declaration attesting that, to the best of their knowledge, the horse is not being exported for the purpose of being slaughtered or fattened for slaughter as well as with any other documentation that the Minister may require.
+  **(1)** It is prohibited for a person to export a horse from Canada by air unless they have, in the form and manner specified by the Minister, provided the Minister with a written declaration attesting that, to the best of their knowledge, the horse is not being exported for the purpose of being slaughtered or fattened for slaughter, **or any other document that is satisfactory to the Minister**, as well as with any other documentation that the Minister may require.
 
-  **(2)** A copy of the declaration must be delivered to
+  **(2)** [*Deleted*]
 
-    the pilot in command or the operator of the aircraft; and
+  **(3)** [*Deleted*]
 
-    the chief officer of customs of the airport from which the aircraft is to depart.
-
-  **(3)** If an aircraft that is to depart from Canada has a horse on board, unless a copy of the declaration has been delivered in accordance with subsection (2), it is prohibited
-
-    for a person to send the aircraft on its flight; and
-
-    for a person in charge of the aircraft to take the aircraft on its flight.
-
-  **(4)** The chief officer of customs referred to in paragraph (2)(b) must detain a horse until a copy of the declaration has been delivered to that officer.
+  **(4)** [*Deleted*]
 
 ### Section 5
 
@@ -82,13 +74,7 @@ A person is not to be found guilty of an offence under this Act if they establis
 
 ### Section 8
 
-  **(1)** Paragraph 107(3)(c) of the `Customs Act` is replaced by the following:
-
-    for the purposes of any Act or instrument made under it, or any part of **any** Act or instrument, that the Governor in Council or Parliament authorizes the Minister, the Agency, the President or an employee of the Agency to enforce, including the `Agriculture and Agri-Food Administrative Monetary Penalties Act`, the `Feeds Act`, the `Fertilizers Act`, the `Health of Animals Act`, the `Plant Protection Act`, **the `**Prohibition of the Export of Horses by Air for Slaughter Act**`**, the `Safe Food for Canadians Act` and the `Seeds Act`.
-
-  **(2)** Paragraph 107(4)(c.1) of the Act is replaced by the following:
-
-    may reasonably be regarded as necessary solely for a purpose relating to the enforcement of the `Agriculture and Agri-Food Administrative Monetary Penalties Act`, the `Feeds Act`, the `Fertilizers Act`, the `Health of Animals Act`, the `Plant Protection Act`, **the `Prohibition of the Export of Horses by Air for Slaughter Act`**, the `Safe Food for Canadians Act` and the `Seeds Act` by an official of the Agency;
+[**Deleted**]
 
 
 ### Canadian Food Inspection Agency Act
@@ -99,7 +85,7 @@ Subsection 11(1) of the `Canadian Food Inspection Agency Act` is replaced by the
 
 ### Section 11
 
-  **(1)** The Agency is responsible for the administration and enforcement of the `Agriculture and Agri-Food Administrative Monetary Penalties Act`, **the** `Feeds Act`, **the** `Fertilizers Act`, **the** `Health of Animals Act`, **the** `Plant Breeders' Rights Act`, **the** `Plant Protection Act`, **the `Prohibition of the Export of Horses by Air for Slaughter Act`**, **the** `Safe Food for Canadians Act` and **the** `Seeds Act`.
+  **(1)** The Agency is responsible for the administration and enforcement of the `Agriculture and Agri-Food Administrative Monetary Penalties Act`, the `Feeds Act`, the `Fertilizers Act`, the `Health of Animals Act`, the `Plant Breeders' Rights Act`, the `Plant Protection Act`, the `Prohibition of the Export of Horses by Air for Slaughter Act`, the `Safe Food for Canadians Act` and the `Seeds Act`.
 
 
 ### Canada Border Services Agency Act
@@ -108,7 +94,7 @@ Subsection 11(1) of the `Canadian Food Inspection Agency Act` is replaced by the
 
 Paragraph 9(2)(b) of the `Canada Border Services Agency Act` is replaced by the following:
 
-as an inspector or a veterinary inspector or other officer for the enforcement of any Act or instrument made under it, or any part of an Act or instrument, that the Governor in Council or Parliament authorizes the Minister, the Agency, the President or an employee of the Agency to enforce, including the `Agriculture and Agri-Food Administrative Monetary Penalties Act`, the `Feeds Act`, the `Fertilizers Act`, the `Health of Animals Act`, the `Plant Protection Act`, **the `Prohibition of the Export of Horses by Air for Slaughter Act`**, the `Safe Food for Canadians Act` and the `Seeds Act`.
+as an inspector or a veterinary inspector or other officer for the enforcement of any Act or instrument made under it, or any part of an Act or instrument, that the Governor in Council or Parliament authorizes the Minister, the Agency, the President or an employee of the Agency to enforce, including the `Agriculture and Agri-Food Administrative Monetary Penalties Act`, the `Feeds Act`, the `Fertilizers Act`, the `Health of Animals Act`, the `Plant Protection Act`, the `Prohibition of the Export of Horses by Air for Slaughter Act`, the `Safe Food for Canadians Act` and the `Seeds Act`.
 
 
 ## Coming into Force
