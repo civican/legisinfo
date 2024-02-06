@@ -1,7 +1,5 @@
 # Bill C-57: An Act to implement the 2023 Free Trade Agreement between Canada and Ukraine
 
-**Sponsor**: MINISTER OF EXPORT PROMOTION, INTERNATIONAL TRADE AND ECONOMIC DEVELOPMENT
-
 Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act to implement the 2023 Free Trade Agreement between Canada and Ukraine*".
 
 ## Summary
