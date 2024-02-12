@@ -1,0 +1,635 @@
+<Bills>
+  <Bill>
+    <Id>12870953</Id>
+    <NumberCode>C-380</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>380</Number>
+    <LongTitleEn>An Act to amend the Canadian Environmental Protection Act, 1999 (plastic manufactured items)</LongTitleEn>
+    <LongTitleFr>Loi modifiant la Loi canadienne sur la protection de l'environnement (1999) (articles manufacturés en plastique)</LongTitleFr>
+    <LongTitle>An Act to amend the Canadian Environmental Protection Act, 1999 (plastic manufactured items)</LongTitle>
+    <ShortTitleEn>
+    </ShortTitleEn>
+    <ShortTitleFr>
+    </ShortTitleFr>
+    <ShortTitle>
+    </ShortTitle>
+    <StatusId>341</StatusId>
+    <StatusNameEn>Bill defeated</StatusNameEn>
+    <StatusNameFr>Projet de loi rejeté</StatusNameFr>
+    <StatusName>Bill defeated</StatusName>
+    <LatestCompletedMajorStageId>60043</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>First reading</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Première lecture</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>First reading</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>First reading in the House of Commons</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>1</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>House of Commons</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Chambre des communes</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>House of Commons</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60030</OngoingStageId>
+    <OngoingStageNameEn>Second reading</OngoingStageNameEn>
+    <OngoingStageNameFr>Deuxième lecture</OngoingStageNameFr>
+    <OngoingStageName>Second reading</OngoingStageName>
+    <LatestCompletedBillStageId>60029</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>First reading</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Première lecture</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>First reading</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>1</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>House of Commons</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Chambre des communes</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>House of Commons</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2024-02-12T16:05:42.407</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>44</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <BillDocumentTypeId>4</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>Private Member's Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant d'un député</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>Private Member's Bill</BillDocumentTypeName>
+    <IsGovernmentBill>false</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>84882</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Corey</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Tochor</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Corey Tochor</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>
+    </SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>
+    </SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>
+    </SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Member of Parliament</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>député</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Member of Parliament</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>2</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Member of Parliament</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>député(e)</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Member of Parliament</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>860</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Saskatoon—University</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Saskatoon—University</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Saskatoon—University</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60119</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Bill defeated at second reading</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Rejet du projet de loi à l'étape de la deuxième lecture</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60030</LatestBillEventStageId>
+    <LatestBillEventTypeName>Bill defeated at second reading</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2024-12-04T14:00:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>1</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>House of Commons</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Chambre des communes</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>House of Commons</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>382</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2024-02-12T16:05:42.407</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime />
+    <PassedHouseThirdReadingDateTime />
+    <PassedSenateFirstReadingDateTime />
+    <PassedSenateSecondReadingDateTime />
+    <PassedSenateThirdReadingDateTime />
+    <ReceivedRoyalAssentDateTime />
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>false</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>false</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>false</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>false</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>false</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>false</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn />
+    <ShortLegislativeSummaryFr />
+    <ShortLegislativeSummary />
+    <IsFullLegislativeSummaryAvailable>false</IsFullLegislativeSummaryAvailable>
+    <StatuteYear />
+    <StatuteChapter />
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2024-02-12T16:05:42.407</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>280</Number>
+          <Date>2024-02-12T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2024-02-12T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2024-02-12T16:05:42.407</EventStartDateTime>
+          <EventEndDateTime>2024-02-12T16:05:42.407</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2024-02-12T16:05:42.407</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>5</State>
+        <StateNameEn>Not completed</StateNameEn>
+        <StateNameFr>Non achevée</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>302</Number>
+          <Date>2024-04-18T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>378</Number>
+          <Date>2024-11-28T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Bill defeated at second reading</NameEn>
+          <NameFr>Rejet du projet de loi à l'étape de la deuxième lecture</NameFr>
+          <Name>Bill defeated at second reading</Name>
+          <Number>382</Number>
+          <Date>2024-12-04T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>13040292</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>12881876</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>2nd reading and referral to committee - ENVI</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>2e lecture et renvoi en comité - ENVI</DecisionMotionTitleFr>
+          <DecisionMotionTitle>2nd reading and referral to committee - ENVI</DecisionMotionTitle>
+          <DecisionResultId>16</DecisionResultId>
+          <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+          <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+          <DecisionResultName>Negatived</DecisionResultName>
+          <DecisionMethodId>10</DecisionMethodId>
+          <DecisionMethodNameEn>On recorded division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Suivant un vote par appel nominal</DecisionMethodNameFr>
+          <DecisionMethodName>On recorded division</DecisionMethodName>
+          <DivisionNumber>909</DivisionNumber>
+          <DivisionVotesYeas>118</DivisionVotesYeas>
+          <DivisionVotesNays>210</DivisionVotesNays>
+          <DivisionVotePaired>0</DivisionVotePaired>
+          <DecisionSittingDate>2024-12-04T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>382</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60112</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Placed in the Order of Precedence</EventNameEn>
+          <EventNameFr>Ajouté à l'Ordre de priorité</EventNameFr>
+          <EventName>Placed in the Order of Precedence</EventName>
+          <EventDateTime>2024-02-13T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>false</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <SignificantEvents>
+          <EventTypeId>60119</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Bill defeated at second reading</EventNameEn>
+          <EventNameFr>Rejet du projet de loi à l'étape de la deuxième lecture</EventNameFr>
+          <EventName>Bill defeated at second reading</EventName>
+          <EventDateTime>2024-12-04T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>false</IsCompletionOfBillStage>
+          <IsDefeatedEvent>true</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent />
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2024-12-04T15:15:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>12692471</InterventionEventId>
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>84882</PersonId>
+          <PersonOfficialFirstName>Corey</PersonOfficialFirstName>
+          <PersonOfficialLastName>Tochor</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Corey Tochor</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>302</MeetingNumber>
+          <SpeechDateTime>2024-04-18T17:30:59</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>12692643</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>88929</PersonId>
+          <PersonOfficialFirstName>Majid</PersonOfficialFirstName>
+          <PersonOfficialLastName>Jowhari</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Majid Jowhari</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>302</MeetingNumber>
+          <SpeechDateTime>2024-04-18T17:50:52</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>12692655</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>88595</PersonId>
+          <PersonOfficialFirstName>Monique</PersonOfficialFirstName>
+          <PersonOfficialLastName>Pauzé</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Monique Pauzé</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Bloc Québécois</CaucusShortNameEn>
+          <CaucusShortNameFr>Bloc Québécois</CaucusShortNameFr>
+          <CaucusShortName>Bloc Québécois</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>302</MeetingNumber>
+          <SpeechDateTime>2024-04-18T17:59:33</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>12692675</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>111023</PersonId>
+          <PersonOfficialFirstName>Lisa Marie</PersonOfficialFirstName>
+          <PersonOfficialLastName>Barron</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Lisa Marie Barron</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>NDP</CaucusShortNameEn>
+          <CaucusShortNameFr>NPD</CaucusShortNameFr>
+          <CaucusShortName>NDP</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>302</MeetingNumber>
+          <SpeechDateTime>2024-04-18T18:09:19</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteint</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+    </BillStages>
+    <Publications>
+      <PublicationId>12882638</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>909</DivisionNumber>
+      <DivisionSubjectEn>2nd reading of Bill C-380, An Act to amend the Canadian Environmental Protection Act, 1999 (Plastic manufactured items)</DivisionSubjectEn>
+      <DivisionSubjectFr>2e lecture du projet de loi C-380, Loi modifiant la Loi canadienne sur la protection de l'environnement (1999) (Articles manufacturés en plastique)</DivisionSubjectFr>
+      <DivisionSubject>2nd reading of Bill C-380, An Act to amend the Canadian Environmental Protection Act, 1999 (Plastic manufactured items)</DivisionSubject>
+      <DivisionVotesYeas>118</DivisionVotesYeas>
+      <DivisionVotesNays>210</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>328</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2024-12-04T14:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Health Canada. Summary of public comments received on the proposed Order adding "plastic manufactured items" to Schedule 1 to the Canadian Environmental Protection Act, 1999</TitleEn>
+      <TitleFr>Santé Canada. Résumé des commentaires reçus du public sur le projet de décret d'inscription pour ajouter « articles manufacturés en plastique » à l'annexe 1 de la Loi canadienne sur la protection de l'environnement (1999)</TitleFr>
+      <Title>Health Canada. Summary of public comments received on the proposed Order adding "plastic manufactured items" to Schedule 1 to the Canadian Environmental Protection Act, 1999</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/environment-climate-change/services/evaluating-existing-substances/summary-public-comments-received-proposed-order-adding-plastic-manufactured-items-schedule-1-canadian-environmental-protection-act-1999.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/environnement-changement-climatique/services/evaluation-substances-existantes/resume-commentaires-recus-public-decret-inscription-ajouter-articles-manufactures-plastique-annexe-1-loi-canadienne-protection-environnement-1999.html</UrlFr>
+      <Url>https://www.canada.ca/en/environment-climate-change/services/evaluating-existing-substances/summary-public-comments-received-proposed-order-adding-plastic-manufactured-items-schedule-1-canadian-environmental-protection-act-1999.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Library of Parliament. Legislative Summary for Bill S-5: An Act to Amend the Canadian Environmental Protection Act, 1999, to Make Related Amendments to the Food and Drugs Act and to Repeal the Perfluorooctane Sulfonate Virtual Elimination Act, 3 November 2022.</TitleEn>
+      <TitleFr>Bibliothèque du Parlement. Résumé législatif du Projet de loi S-5 : Loi modifiant la Loi Canadienne sur la protection de l'environnement (1999), apportant des modifications connexes à la Loi sur les aliments et drogues et abrogeant la Loi sur la quasi-élimination du sulfonate de perfluorooctane, 3 novembre 2022.</TitleFr>
+      <Title>Library of Parliament. Legislative Summary for Bill S-5: An Act to Amend the Canadian Environmental Protection Act, 1999, to Make Related Amendments to the Food and Drugs Act and to Repeal the Perfluorooctane Sulfonate Virtual Elimination Act, 3 November 2022.</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://lop.parl.ca/staticfiles/PublicWebsite/Home/ResearchPublications/LegislativeSummaries/PDF/44-1/PV_44-1-S5-E.pdf</UrlEn>
+      <UrlFr>https://lop.parl.ca/staticfiles/PublicWebsite/Home/ResearchPublications/LegislativeSummaries/PDF/44-1/PV_44-1-S5-F.pdf</UrlFr>
+      <Url>https://lop.parl.ca/staticfiles/PublicWebsite/Home/ResearchPublications/LegislativeSummaries/PDF/44-1/PV_44-1-S5-E.pdf</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Order Adding a Toxic Substance to Schedule 1 to the Canadian Environmental Protection Act, 1999: SOR/2021-86, Canada Gazette, Part II, Vol. 155 (2021)</TitleEn>
+      <TitleFr>Décret d'inscription d'une substance toxique à l'annexe 1 de la Loi canadienne sur la protection de l'environnement (1999) : DORS/2021-86, Gazette du Canada, Partie II, volume 155 (2021)</TitleFr>
+      <Title>Order Adding a Toxic Substance to Schedule 1 to the Canadian Environmental Protection Act, 1999: SOR/2021-86, Canada Gazette, Part II, Vol. 155 (2021)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://canadagazette.gc.ca/rp-pr/p2/2021/2021-05-12/html/sor-dors86-eng.html</UrlEn>
+      <UrlFr>https://canadagazette.gc.ca/rp-pr/p2/2021/2021-05-12/html/sor-dors86-fra.html</UrlFr>
+      <Url>https://canadagazette.gc.ca/rp-pr/p2/2021/2021-05-12/html/sor-dors86-eng.html</Url>
+    </WebReferences>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
