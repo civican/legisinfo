@@ -34,6 +34,8 @@ The following definitions apply in this Act.
 
 **Indigenous governing body** means a council, government or other entity that is authorized to act on behalf of an Indigenous group, community or people that holds rights recognized and affirmed by section 35 of the `Constitution Act, 1982`. (**corps dirigeant autochtone**)
 
+**Indigenous peoples** has the meaning assigned by the definition aboriginal peoples of Canada in subsection 35(2) of the `Constitution Act, 1982`. (**peuples autochtones**)
+
 **Minister** means the Minister of the Environment. (**ministre**)
 
 
@@ -41,9 +43,9 @@ The following definitions apply in this Act.
 
 ### Section 3
 
-  **(1)** The Minister, in collaboration with the Minister of Agriculture and Agri-Food, the Minister of Natural Resources and the Minister of Public Safety and Emergency Preparedness, must develop a national strategy respecting flood and drought forecasting to help provide key stakeholders with the information they need to forecast floods and droughts.
+  **(1)** The Minister, in collaboration with the Minister of Agriculture and Agri-Food, **the Minister of Infrastructure and Communities**, the Minister of Natural Resources and the Minister of Public Safety and Emergency Preparedness, must develop a national strategy respecting flood and drought forecasting to help provide key stakeholders with the information they need to forecast floods and droughts.
 
-  **(2)** In developing the strategy, the Minister must consult with representatives of provincial and municipal governments, Indigenous governing bodies and other relevant stakeholders, including representatives from Canadian universities, civil society organizations and industry.
+  **(2)** In developing the strategy, the Minister must consult with representatives of provincial and municipal governments, Indigenous governing bodies and other relevant stakeholders, including representatives from Canadian universities, civil society organizations and industry, **including from the insurance industry**.
 
   **(3)** The strategy must provide for
 
@@ -51,9 +53,9 @@ The following definitions apply in this Act.
 
     an assessment of the need for modelling that would identify properties and infrastructure at risk from floods;
 
-    the establishment of a national cooperative flood and drought forecasting system and of the institutional structures required for its successful implementation as well as a determination of how that system could best support the provinces, municipalities, industry and Indigenous communities based on their information needs in respect of flood and drought forecasting, including flood-plain delineation; and
+    **an assessment of opportunities to develop** national flood and drought forecasting **across Canada in order to help meet** the information needs of the provinces, municipalities, industry, **including the insurance industry**, and Indigenous communities in respect of **short- and long-term** flood and drought forecasting, including **current and future** flood-plain delineation; and
 
-    the preparation of a proposal for the establishment of a national hydrological forecasting service, either independent or as part of an independent Canadian water agency, that incorporates the National Hydrological Service and other water-data and water-forecasting capabilities of the federal government.
+    the preparation of a proposal for the establishment of a **cooperative**, national hydrological and water **resources** forecasting service and **system based on the federal-provincial distributed model** of the National Hydrological Service.
 
 
 ## Reports to Parliament
@@ -62,11 +64,11 @@ The following definitions apply in this Act.
 
   **(1)** Within two years after the day on which this Act comes into force, the Minister must prepare a report setting out the strategy and cause the report to be tabled before each House of Parliament on any of the first 15 days on which that House is sitting after the report is completed.
 
-  **(2)** The Minister must publish the report on the website of the Department of the Environment within 10 days after the day on which the report is tabled in both Houses of Parliament.
+  **(2)** The Minister must publish the report on **a Government of Canada** website within 10 days after the day on which the report is tabled in both Houses of Parliament.
 
 ### Section 5
 
   **(1)** Within five years after the day on which the report referred to in section 4 is tabled, the Minister must, in consultation with the parties referred to in subsections 3(1) and (2), prepare a report on the effectiveness of the strategy that sets out the Minister's conclusions and recommendations, and cause the report to be tabled in each House of Parliament on any of the first 15 days on which that House is sitting after it is completed.
 
-  **(2)** The Minister must publish the report on the website of the Department of the Environment within 10 days after the day on which the report is tabled in both Houses of Parliament.
+  **(2)** The Minister must publish the report on **a Government of Canada** website within 10 days after the day on which the report is tabled in both Houses of Parliament.
 
