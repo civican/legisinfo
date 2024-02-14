@@ -1,7 +1,5 @@
 # Bill S-1001: An Act to amalgamate The Roman Catholic Episcopal Corporation of Ottawa and The Roman Catholic Episcopal Corporation for the Diocese of Alexandria-Cornwall, in Ontario, Canada
 
-**Sponsor**: Senator CLEMENT
-
 ## Summary
 
 This enactment provides for the incorporation of The Roman Catholic Episcopal Corporation for the Diocese of Ottawa-Cornwall, an entity to be formed by the amalgamation of The Roman Catholic Episcopal Corporation of Ottawa and The Roman Catholic Episcopal Corporation for the Diocese of Alexandria-Cornwall, in Ontario, Canada.
@@ -21,7 +19,7 @@ Now, therefore, His Majesty, by and with the advice and consent of the Senate an
 
 ### Section 1
 
-This Act may be cited as *The Roman Catholic Episcopal Corporation for the Diocese of Ottawa-Cornwall Act*.
+This Act may be cited as *The Roman Catholic Episcopal Corporation of Ottawa-Cornwall Act*.
 
 
 ## Interpretation
@@ -36,14 +34,14 @@ The Roman Catholic Episcopal Corporation of Ottawa incorporated under Chapter 10
 
 The Roman Catholic Episcopal Corporation for the Diocese of Alexandria-Cornwall, in Ontario, Canada, which was incorporated by an Act of the Legislative Assembly of the Province of Ontario, being chapter 98 of the Statutes of the Province of Ontario, 1891, which itself was amended by a further Act of that Legislature, being chapter 100 of the Statutes of the Province of Ontario, 1977. (**corporations fusionnantes**)
 
-**Corporation** means The Roman Catholic Episcopal Corporation for the Diocese of Ottawa-Cornwall as amalgamated under subsection 3(1) of this Act. (**Corporation**)
+**Corporation** means The Roman Catholic Episcopal Corporation of Ottawa-Cornwall as amalgamated under subsection 3(1) of this Act. (**Corporation**)
 
 
 ## Amalgamation
 
 ### Section 3
 
-  **(1)** The Roman Catholic Episcopal Corporation for the Diocese of Alexandria-Cornwall, in Ontario, Canada, for which a certificate of continuance under subsection 211(1) of the `Canada Not-for-profit Corporations Act` is deemed to have been issued under subsection 10(3) of this Act, is amalgamated with The Roman Catholic Episcopal Corporation of Ottawa to form a body corporate to be known as "The Roman Catholic Episcopal Corporation for the Diocese of Ottawa-Cornwall" in English and "La Corporation épiscopale catholique romaine d'Ottawa-Cornwall" in French.
+  **(1)** The Roman Catholic Episcopal Corporation for the Diocese of Alexandria-Cornwall, in Ontario, Canada, for which a certificate of continuance under subsection 211(1) of the `Canada Not-for-profit Corporations Act` is deemed to have been issued under subsection 10(3) of this Act, is amalgamated with The Roman Catholic Episcopal Corporation of Ottawa to form a body corporate to be known as "The Roman Catholic Episcopal Corporation of Ottawa-Cornwall" in English and "La Corporation épiscopale catholique romaine d'Ottawa-Cornwall" in French.
 
   **(2)** For greater certainty, the Corporation is a corporation without share capital incorporated by a special Act of Parliament and not continued under any other Act.
 
