@@ -1,7 +1,5 @@
 # Bill S-202: An Act to amend the Parliament of Canada Act (Parliamentary Visual Artist Laureate)
 
-**Sponsor**: Senator Bovey
-
 ## Summary
 
 This enactment creates the position of Parliamentary Visual Artist Laureate. It also corrects a reference to the Canada Council for the Arts in the English version of the `Parliament of Canada Act`.
@@ -37,19 +35,9 @@ The `Parliament of Canada Act` is amended by adding the following after section 
 
   **(6)** In this section, **arts** means drawing, painting, sculpture, printmaking, design, crafts, photography, videography and filmmaking.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 2
 
 Subsection 75.1(2) of the English version of the Act is replaced by the following :
 
-**(2)** The Speaker of the Senate and the Speaker of the House of Commons, acting together, shall select the Parliamentary Poet Laureate from a list of three names submitted in confidence by a committee chaired by the Parliamentary Librarian and also composed of the Librarian and Archivist of Canada, the Commissioner of Official Languages for Canada and the **Chairperson** of the Canada Council **for the Arts**.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 75.1(2):
-> *Existing Text*:
-> > The Speaker of the Senate and the Speaker of the House of Commons, acting together, shall select the Parliamentary Poet Laureate from a list of three names submitted in confidence by a committee chaired by the Parliamentary Librarian and also composed of the Librarian and Archivist of Canada, the Commissioner of Official Languages for Canada and the Chair of the Canada Council.
+**(2)** The Speaker of the Senate and the Speaker of the House of Commons, acting together, shall select the Parliamentary Poet Laureate from a list of three names submitted in confidence by a committee chaired by the Parliamentary Librarian and also composed of the Librarian and Archivist of Canada, the Commissioner of Official Languages for Canada and the Chairperson of the Canada Council for the Arts.
 
