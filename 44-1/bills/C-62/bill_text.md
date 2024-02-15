@@ -1,7 +1,5 @@
 # Bill C-62: An Act to amend An Act to amend the Criminal Code (medical assistance in dying), No. 2
 
-**Sponsor**: MINISTER OF HEALTH
-
 ## Summary
 
 This enactment amends `An Act to amend the Criminal Code (medical assistance in dying)` to provide that persons are not eligible, until March 17, 2027, to receive medical assistance in dying if their sole underlying medical condition is a mental illness.
@@ -17,13 +15,7 @@ Section 6 of `An Act to amend the Criminal Code (medical assistance in dying)` i
 
 ### Section 6
 
-Subsection 1(2.1) comes into force on March 17, **2027**.
-
-
-> **Explanatory Note**:
-> Existing text of section 6:
-> *Existing Text*:
-> > Subsection 1(2.1) comes into force on March 17, 2024.
+Subsection 1(2.1) comes into force on March 17, 2027.
 
 
 ## Review
