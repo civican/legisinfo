@@ -10,23 +10,21 @@
  <Year-s>70-71</Year-s>
  <Monarch>Elizabeth II – 1-2 Charles III</Monarch>
  </RegnalYear>
- <Year-s>2021-2022-2023</Year-s>
+ <Year-s>2021-2022-2023-2024</Year-s>
  </Parliament>
- <LongTitle>An Act to amend the Criminal Code (assaults against <Ins>persons who provide</Ins> health <Ins>services</Ins> and first responders)</LongTitle>
+ <LongTitle>An Act to amend the Criminal Code (assaults against persons who provide health services and first responders)</LongTitle>
  <ShortTitle status="unofficial" />
  <RunningHead>An Act to amend the Criminal Code (assaults against persons who provide health services and first responders)</RunningHead>
  <BillHistory>
- <Stages stage="report-house">
+ <Stages stage="third-reading-house">
  <Date>
- <YYYY>2023</YYYY>
- <MM>12</MM>
- <DD>6</DD>
+ <YYYY>2024</YYYY>
+ <MM>2</MM>
+ <DD>28</DD>
  </Date>
- <StageText>Reprinted as amended by the Standing Committee on Justice and Human Rights as a working copy for the use of the House of Commons at Report Stage and as reported to the House on December 6, 2023</StageText></Stages>
+ </Stages>
  </BillHistory>
- <BillSponsor>
- <Emphasis style="smallcaps">Mr. Doherty</Emphasis>
- </BillSponsor>
+ 
  
  <BillRefNumber date-time="2020-01-27">441010</BillRefNumber>
  </Identification>
@@ -40,13 +38,13 @@
  <Preamble>
  <Provision>
  <MarginalNote>Preamble</MarginalNote>
- <Text>Whereas there is an increasing number of incidents involving violence against <Ins>persons who provide</Ins> health <Ins>services</Ins> and first responders;</Text>
+ <Text>Whereas there is an increasing number of incidents involving violence against persons who provide health services and first responders;</Text>
  </Provision>
  <Provision>
- <Text>Whereas assaults on <Ins>persons who provide</Ins> health <Ins>services</Ins> and first responders have both a physical and a psychological impact;</Text>
+ <Text>Whereas assaults on persons who provide health services and first responders have both a physical and a psychological impact;</Text>
  </Provision>
  <Provision>
- <Text>And whereas <Ins>persons who provide</Ins> health <Ins>services</Ins> and first responders, who care for and protect others, deserve to feel protected and valued by the justice system;</Text>
+ <Text>And whereas persons who provide health services and first responders, who care for and protect others, deserve to feel protected and valued by the justice system;</Text>
  </Provision>
  </Preamble>
  <Enacts>
@@ -69,7 +67,7 @@
  <Section>
  <MarginalNote>Aggravating circumstance — assault against persons who provide health services and first responders</MarginalNote>
  <Label>269.02</Label>
- <Text>When a court imposes a sentence for an offence referred to in paragraph 264.1(1)(a) or any of sections 266 to 269, it shall consider as an aggravating circumstance the fact that the victim of the offence was, at the time of the commission of the offence, a <Ins>person who provides</Ins> health <Ins>services, including personal care services</Ins>, or a first responder engaged in the performance of their duty.</Text>
+ <Text>When a court imposes a sentence for an offence referred to in paragraph 264.1(1)(a) or any of sections 266 to 269, it shall consider as an aggravating circumstance the fact that the victim of the offence was, at the time of the commission of the offence, a person who provides health services, including personal care services, or a first responder engaged in the performance of their duty.</Text>
  </Section>
  </AmendedText>
  </Section>
