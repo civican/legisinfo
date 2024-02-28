@@ -13,21 +13,21 @@ His Majesty, by and with the advice and consent of the Senate and House of Commo
 
   **(1)** Subparagraph 26(1)(a)(iv) of the `Corrections and Conditional Release Act` is replaced by the following:
 
-    eligibility dates and review dates applicable to the offender under this Act in respect of temporary absences or parole, **and an explanation of how those dates have been determined**;
+    eligibility dates and review dates applicable to the offender under this Act in respect of temporary absences or parole, and an explanation of how those dates have been determined;
 
   **(2)** Subparagraph 26(1)(c)(i) of the Act is replaced by the following:
 
-    the date, if any, on which the offender is to be released on temporary absence, work release, par­ole or statutory release, **and an explanation of how that date has been determined**,
+    the date, if any, on which the offender is to be released on temporary absence, work release, par­ole or statutory release, and an explanation of how that date has been determined,
 
 ### Section 2
 
   **(1)** Subparagraph 142(1)(a)(iv) of the Act is replaced by the following:
 
-    eligibility dates and review dates applicable to the offender under this Part in respect of unescorted temporary absences or parole, **and an explanation of how those dates have been determined**; and
+    eligibility dates and review dates applicable to the offender under this Part in respect of unescorted temporary absences or parole, and an explanation of how those dates have been determined; and
 
   **(2)** Subparagraph 142(1)(b)(iii) of the Act is replaced by the following:
 
-    the date, if any, on which the offender is to be released on unescorted temporary absence, escorted temporary absence **if** the Board has approved the absence as required by subsection 746.1(2) of the `Criminal Code`, parole or statutory release, **and an explanation of how that date has been determined**,
+    the date, if any, on which the offender is to be released on unescorted temporary absence, escorted temporary absence if the Board has approved the absence as required by subsection 746.1(2) of the `Criminal Code`, parole or statutory release, and an explanation of how that date has been determined,
 
 
 ## Coordinating Amendments
