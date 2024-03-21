@@ -1,0 +1,615 @@
+<Bills>
+  <Bill>
+    <Id>12960457</Id>
+    <NumberCode>C-66</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>66</Number>
+    <LongTitleEn>An Act to amend the National Defence Act and other Acts</LongTitleEn>
+    <LongTitleFr>Loi modifiant la Loi sur la défense nationale et d'autres lois</LongTitleFr>
+    <LongTitle>An Act to amend the National Defence Act and other Acts</LongTitle>
+    <ShortTitleEn>Military Justice System Modernization Act</ShortTitleEn>
+    <ShortTitleFr>Loi sur la modernisation du système de justice militaire</ShortTitleFr>
+    <ShortTitle>Military Justice System Modernization Act</ShortTitle>
+    <StatusId>349</StatusId>
+    <StatusNameEn>At second reading in the House of Commons</StatusNameEn>
+    <StatusNameFr>À la deuxième lecture à la Chambre des communes</StatusNameFr>
+    <StatusName>At second reading in the House of Commons</StatusName>
+    <LatestCompletedMajorStageId>60043</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>First reading</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Première lecture</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>First reading</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>First reading in the House of Commons</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>1</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>House of Commons</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Chambre des communes</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>House of Commons</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60030</OngoingStageId>
+    <OngoingStageNameEn>Second reading</OngoingStageNameEn>
+    <OngoingStageNameFr>Deuxième lecture</OngoingStageNameFr>
+    <OngoingStageName>Second reading</OngoingStageName>
+    <LatestCompletedBillStageId>60029</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>First reading</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Première lecture</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>First reading</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>1</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>House of Commons</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Chambre des communes</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>House of Commons</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2024-03-21T10:05:17.68</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>44</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>88961</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Bill</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Blair</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Bill Blair</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of National Defence</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre de la Défense nationale</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of National Defence</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>4</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Minister</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>ministre</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Minister</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>812</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Scarborough Southwest</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Scarborough-Sud-Ouest</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Scarborough Southwest</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60115</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Debate at second reading</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Débat à l'étape de la deuxième lecture</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60030</LatestBillEventStageId>
+    <LatestBillEventTypeName>Debate at second reading</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2024-09-19T10:00:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>1</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>House of Commons</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Chambre des communes</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>House of Commons</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>339</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2024-03-21T10:05:17.68</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime />
+    <PassedHouseThirdReadingDateTime />
+    <PassedSenateFirstReadingDateTime />
+    <PassedSenateSecondReadingDateTime />
+    <PassedSenateThirdReadingDateTime />
+    <ReceivedRoyalAssentDateTime />
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>false</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>false</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>false</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>false</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>false</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>false</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information, Education and Research Services of the Library of Parliament. Meanwhile, the following executive summary is available.&lt;br/&gt;&lt;br/&gt;On 21 March 2024, the Minister of National Defence introduced Bill C-66, An Act to amend the National Defence Act and other Acts (Military Justice System Modernization Act), and it was given first reading. &lt;br/&gt;&lt;br/&gt;Bill C-66 amends provisions of the National Defence Act that relate to the military justice system in response to the Report of the Third Independent Review Authority to the Minister of National Defence and the Report of the Independent External Comprehensive Review of the Department of National Defence and the Canadian Armed Forces.&lt;br/&gt;In response to those reports, the enactment amends that Act to, among other things,&lt;br/&gt;(a) modify the process for appointing the Canadian Forces Provost Marshal, the Director of Military Prosecutions and the Director of Defence Counsel Services with a view to enhancing their independence;&lt;br/&gt;(b) affirm the Judge Advocate General's respect for the independence of authorities in the military justice system in the exercise of the Judge Advocate General's superintendence of the administration of military justice;&lt;br/&gt;(c) remove the court martial's jurisdiction to try a person in relation to an offence under the Criminal Code that is alleged to have been committed in Canada and that is of a sexual nature or committed for a sexual purpose;&lt;br/&gt;(d) remove the Canadian Armed Forces' authority to investigate an offence under the Criminal Code that is alleged to have been committed in Canada and that is of a sexual nature or committed for a sexual purpose;&lt;br/&gt;(e) expand the class of persons who are eligible to be appointed as a military judge;&lt;br/&gt;(f) expand the class of persons who may make an interference complaint and provide that a member of the military police or person performing policing duties or functions under the Canadian Forces Provost Marshal's supervision must make such a complaint in certain circumstances; and&lt;br/&gt;(g) change the title of the Canadian Forces Provost Marshal to the Provost Marshal General.&lt;br/&gt;In addition, the enactment amends the National Defence Act to remove military judges from the summary hearing system and to provide that, in the context of a service offence, an individual acting on behalf of a victim may request that a victim's liaison officer be appointed to assist them.&lt;br/&gt;It further amends that Act to harmonize the sex offender information and publication ban provisions with the amendments made to the Criminal Code in An Act to amend the Criminal Code, the Sex Offender Information Registration Act and the International Transfer of Offenders Act.&lt;br/&gt;Finally, it amends the Criminal Code to, among other things, provide superior courts of criminal jurisdiction with the jurisdiction to hear applications for an exemption in respect of orders to comply with the Sex Offender Information Registration Act made under the National Defence Act and applications to vary the duration of such orders.&lt;/div&gt;</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>&lt;div&gt;Les Service d'information, d'éducation et de recherche parlementaires de la Bibliothèque du Parlement rédige actuellement le résumé législatif de ce projet de loi.  Entre-temps, le Service met à votre disposition le sommaire suivant.&lt;br/&gt;&lt;br/&gt;Le 21 mars 2024, le ministre de la Défense nationale a déposé le projet de loi C-66, Loi modifiant la Loi sur la défense nationale et d'autres lois (Loi sur la modernisation du système de justice militaire), à la Chambre des communes en première lecture.  &lt;br/&gt;&lt;br/&gt;Le projet de loi C-66 modifie les dispositions de la Loi sur la défense nationale concernant le système de justice militaire afin de donner suite au Rapport de l'autorité du troisième examen indépendant au ministre de la Défense nationale et au Rapport de l'examen externe indépendant et complet du ministère de la Défense nationale et des Forces armées canadiennes.&lt;br/&gt;À cette fin, il modifie la loi pour, notamment?:&lt;br/&gt;a) modifier le processus de nomination du grand prévôt des Forces canadiennes, du directeur des poursuites militaires et du directeur du service d'avocats de la défense et ainsi renforcer leur indépendance;&lt;br/&gt;b) confirmer que l'exercice par le juge-avocat général de son autorité sur tout ce qui touche à l'administration de la justice militaire s'effectue dans le respect de l'indépendance des autorités du système de justice militaire;&lt;br/&gt;c) retirer à la cour martiale la compétence de juger les personnes relativement à une infraction prévue au Code criminel qui est présumée avoir été commise au Canada et qui est de nature sexuelle ou commise dans un but sexuel;&lt;br/&gt;d) retirer aux Forces armées canadiennes l'autorité d'enquêter à l'égard d'une infraction prévue au Code criminel qui est présumée avoir été commise au Canada et qui est de nature sexuelle ou commise dans un but sexuel;&lt;br/&gt;e) élargir le groupe de personnes éligibles à une nomination comme juge militaire;&lt;br/&gt;f) élargir le groupe de personnes pouvant déposer une plainte pour ingérence et prévoir que les policiers militaires ou quiconque exerce des fonctions de nature policière sous la direction du grand prévôt des Forces canadiennes sont tenus de déposer une telle plainte dans certaines circonstances;&lt;br/&gt;g) remplacer le titre du grand prévôt des Forces canadiennes par «?grand prévôt général?».&lt;br/&gt;De plus, le texte modifie la Loi sur la défense nationale pour retirer les juges militaires du système d'audiences sommaires et pour prévoir que, dans le contexte d'une infraction d'ordre militaire, un particulier agissant pour le compte d'une victime puisse demander la nomination d'un agent de liaison de la victime pour l'aider.&lt;br/&gt;Aussi, il modifie la Loi sur la défense nationale pour harmoniser les dispositions concernant les renseignements sur les délinquants sexuels et les interdictions de publication avec les modifications apportées au Code criminel par la Loi modifiant le Code criminel, la Loi sur l'enregistrement de renseignements sur les délinquants sexuels et la Loi sur le transfèrement international des délinquants.&lt;br/&gt;Finalement, il modifie le Code criminel pour, notamment, fournir à la cour supérieure de juridiction criminelle la compétence pour entendre les demandes de dispense des ordonnances de se conformer à la Loi sur l'enregistrement de renseignements sur les délinquants sexuels rendues en vertu de la Loi sur la défense nationale et les demandes de modification de la durée de ces ordonnances.&lt;/div&gt;</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information, Education and Research Services of the Library of Parliament. Meanwhile, the following executive summary is available.&lt;br/&gt;&lt;br/&gt;On 21 March 2024, the Minister of National Defence introduced Bill C-66, An Act to amend the National Defence Act and other Acts (Military Justice System Modernization Act), and it was given first reading. &lt;br/&gt;&lt;br/&gt;Bill C-66 amends provisions of the National Defence Act that relate to the military justice system in response to the Report of the Third Independent Review Authority to the Minister of National Defence and the Report of the Independent External Comprehensive Review of the Department of National Defence and the Canadian Armed Forces.&lt;br/&gt;In response to those reports, the enactment amends that Act to, among other things,&lt;br/&gt;(a) modify the process for appointing the Canadian Forces Provost Marshal, the Director of Military Prosecutions and the Director of Defence Counsel Services with a view to enhancing their independence;&lt;br/&gt;(b) affirm the Judge Advocate General's respect for the independence of authorities in the military justice system in the exercise of the Judge Advocate General's superintendence of the administration of military justice;&lt;br/&gt;(c) remove the court martial's jurisdiction to try a person in relation to an offence under the Criminal Code that is alleged to have been committed in Canada and that is of a sexual nature or committed for a sexual purpose;&lt;br/&gt;(d) remove the Canadian Armed Forces' authority to investigate an offence under the Criminal Code that is alleged to have been committed in Canada and that is of a sexual nature or committed for a sexual purpose;&lt;br/&gt;(e) expand the class of persons who are eligible to be appointed as a military judge;&lt;br/&gt;(f) expand the class of persons who may make an interference complaint and provide that a member of the military police or person performing policing duties or functions under the Canadian Forces Provost Marshal's supervision must make such a complaint in certain circumstances; and&lt;br/&gt;(g) change the title of the Canadian Forces Provost Marshal to the Provost Marshal General.&lt;br/&gt;In addition, the enactment amends the National Defence Act to remove military judges from the summary hearing system and to provide that, in the context of a service offence, an individual acting on behalf of a victim may request that a victim's liaison officer be appointed to assist them.&lt;br/&gt;It further amends that Act to harmonize the sex offender information and publication ban provisions with the amendments made to the Criminal Code in An Act to amend the Criminal Code, the Sex Offender Information Registration Act and the International Transfer of Offenders Act.&lt;br/&gt;Finally, it amends the Criminal Code to, among other things, provide superior courts of criminal jurisdiction with the jurisdiction to hear applications for an exemption in respect of orders to comply with the Sex Offender Information Registration Act made under the National Defence Act and applications to vary the duration of such orders.&lt;/div&gt;</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear />
+    <StatuteChapter />
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2024-03-21T10:05:17.68</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>293</Number>
+          <Date>2024-03-21T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2024-03-21T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2024-03-21T10:05:17.68</EventStartDateTime>
+          <EventEndDateTime>2024-03-21T10:05:17.68</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2024-03-21T10:05:17.68</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>5</State>
+        <StateNameEn>Not completed</StateNameEn>
+        <StateNameFr>Non achevée</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>338</Number>
+          <Date>2024-09-18T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>339</Number>
+          <Date>2024-09-19T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <EndOfStageEvent />
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2024-09-19T17:03:28</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>12861027</InterventionEventId>
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>88961</PersonId>
+          <PersonOfficialFirstName>Bill</PersonOfficialFirstName>
+          <PersonOfficialLastName>Blair</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Bill Blair</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>338</MeetingNumber>
+          <SpeechDateTime>2024-09-18T16:19:01</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>12861205</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>25475</PersonId>
+          <PersonOfficialFirstName>James</PersonOfficialFirstName>
+          <PersonOfficialLastName>Bezan</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>James Bezan</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>338</MeetingNumber>
+          <SpeechDateTime>2024-09-18T16:46:22</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>12861524</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>104947</PersonId>
+          <PersonOfficialFirstName>Christine</PersonOfficialFirstName>
+          <PersonOfficialLastName>Normandin</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Christine Normandin</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Bloc Québécois</CaucusShortNameEn>
+          <CaucusShortNameFr>Bloc Québécois</CaucusShortNameFr>
+          <CaucusShortName>Bloc Québécois</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>338</MeetingNumber>
+          <SpeechDateTime>2024-09-18T17:16:18</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>12866168</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>105221</PersonId>
+          <PersonOfficialFirstName>Lindsay</PersonOfficialFirstName>
+          <PersonOfficialLastName>Mathyssen</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Lindsay Mathyssen</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>NDP</CaucusShortNameEn>
+          <CaucusShortNameFr>NPD</CaucusShortNameFr>
+          <CaucusShortName>NDP</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>339</MeetingNumber>
+          <SpeechDateTime>2024-09-19T13:21:46</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteint</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+    </BillStages>
+    <Publications>
+      <PublicationId>12968406</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Minister Blair introduces legislation to modernize the military justice system and advance culture change in the Department of National Defence and Canadian Armed Forces [2024-03-21 | Department of National Defence]</TitleEn>
+      <TitleFr>Le ministre Blair présente un projet de loi visant à moderniser le système de justice militaire et à favoriser un changement de culture au sein du ministère de la Défense nationale et des Forces armées canadiennes [2024-03-21 | Ministère de la Défense nationale]</TitleFr>
+      <Title>Minister Blair introduces legislation to modernize the military justice system and advance culture change in the Department of National Defence and Canadian Armed Forces [2024-03-21 | Department of National Defence]</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/department-national-defence/news/2024/03/minister-blair-introduces-legislation-to-modernize-the-military-justice-system-and-advance-culture-change-in-the-department-of-national-defence-and.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/ministere-defense-nationale/nouvelles/2024/03/le-ministre-blair-presente-un-projet-de-loi-visant-a-moderniser-le-systeme-de-justice-militaire-et-a-favoriser-un-changement-de-culture-au-sein-du-.html</UrlFr>
+      <Url>https://www.canada.ca/en/department-national-defence/news/2024/03/minister-blair-introduces-legislation-to-modernize-the-military-justice-system-and-advance-culture-change-in-the-department-of-national-defence-and.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Introduction of the Military Justice System Modernization Act [2024-03-21 | Department of National Defence]</TitleEn>
+      <TitleFr>Présentation de la Loi modernisant le système de justice militaire [2024-03-21 | Ministère de la Défense nationale]</TitleFr>
+      <Title>Introduction of the Military Justice System Modernization Act [2024-03-21 | Department of National Defence]</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/department-national-defence/news/2024/03/introduction-of-the-military-justice-system-modernization-act.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/ministere-defense-nationale/nouvelles/2024/03/presentation-de-la-loi-modernisant-le-systeme-de-justice-militaire.html</UrlFr>
+      <Url>https://www.canada.ca/en/department-national-defence/news/2024/03/introduction-of-the-military-justice-system-modernization-act.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Canada. Department of National Defence. Independent External Comprehensive Review.</TitleEn>
+      <TitleFr>Canada. Ministère de la Défense nationale. Examen externe indépendant et complet.</TitleFr>
+      <Title>Canada. Department of National Defence. Independent External Comprehensive Review.</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/department-national-defence/services/conduct-and-culture/independent-external-comprehensive-review.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/ministere-defense-nationale/services/conduite-et-culture/examen-externe-complet-et-independant.html</UrlFr>
+      <Url>https://www.canada.ca/en/department-national-defence/services/conduct-and-culture/independent-external-comprehensive-review.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Canada. Department of National Defence. Conduct and culture change.</TitleEn>
+      <TitleFr>Canada. Ministère de la Défense nationale. Conduite et changement de culture.</TitleFr>
+      <Title>Canada. Department of National Defence. Conduct and culture change.</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/department-national-defence/services/conduct-and-culture.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/ministere-defense-nationale/services/conduite-et-culture.html</UrlFr>
+      <Url>https://www.canada.ca/en/department-national-defence/services/conduct-and-culture.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Arbour, Louise, C.C., G.O.Q. Report of the Independent External Comprehensive Review of the Department of National Defence and the Canadian Armed Forces. 20 May 2022.</TitleEn>
+      <TitleFr>Arbour, Louise, C.C., G.O.Q. Rapport de l'examen externe indépendant et complet du ministère de la Défense nationale et des Forces armées canadiennes. 20 mai 2022.</TitleFr>
+      <Title>Arbour, Louise, C.C., G.O.Q. Report of the Independent External Comprehensive Review of the Department of National Defence and the Canadian Armed Forces. 20 May 2022.</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/department-national-defence/corporate/reports-publications/report-of-the-independent-external-comprehensive-review.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/ministere-defense-nationale/organisation/rapports-publications/rapport-de-lexamen-externe-independant-et-complet.html</UrlFr>
+      <Url>https://www.canada.ca/en/department-national-defence/corporate/reports-publications/report-of-the-independent-external-comprehensive-review.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Fish, Morris J., C.C., Q.C. Report of the Third Independent Review Authority to the Minister of National Defence Pursuant to subsection 273.601(1) of the National Defence Act, RSC 1985, c N-5. 30 April 2021.</TitleEn>
+      <TitleFr>Fish, Morris J. C.C., c.r. Rapport de l'autorité du troisième examen indépendant au ministre de la Défense nationale – Au titre du paragraphe 273.601(1) de la Loi sur la défense nationale, LRC 1985, c N-5. 30 avril 2021.</TitleFr>
+      <Title>Fish, Morris J., C.C., Q.C. Report of the Third Independent Review Authority to the Minister of National Defence Pursuant to subsection 273.601(1) of the National Defence Act, RSC 1985, c N-5. 30 April 2021.</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/department-national-defence/corporate/policies-standards/acts-regulations/third-independent-reviews-nda.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/ministere-defense-nationale/organisation/politiques-normes/lois-reglements/troisieme-examen-independant-ldn.html</UrlFr>
+      <Url>https://www.canada.ca/en/department-national-defence/corporate/policies-standards/acts-regulations/third-independent-reviews-nda.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Department of National Defence. "Military Justice System". Transition of the Minister of National Defence – 26 July 2023.</TitleEn>
+      <TitleFr>Ministère de la Défence nationale. « Système de justice militaire ». Transition du Ministre de la Défense nationale – 26 juilliet 2023.</TitleFr>
+      <Title>Department of National Defence. "Military Justice System". Transition of the Minister of National Defence – 26 July 2023.</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/department-national-defence/corporate/reports-publications/transition-materials/transition-mnd-26-july-2023/military-justice-system.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/ministere-defense-nationale/organisation/rapports-publications/transition-ministerielle/transition-mdn-26-juilliet-2023/systeme-justice-militaire.html</UrlFr>
+      <Url>https://www.canada.ca/en/department-national-defence/corporate/reports-publications/transition-materials/transition-mnd-26-july-2023/military-justice-system.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Charter Statement Bill C-66: An Act to amend the National Defence Act and other Acts (Military Justice System Modernization Act) (Tabled 2024-05-30)</TitleEn>
+      <TitleFr>Énoncé concernant la Charte Projet de loi C-66 : Loi modifiant la Loi sur la défense nationale et d'autres lois (Loi sur la modernisation du système de justice militaire) (Déposé 2024-05-30)</TitleFr>
+      <Title>Charter Statement Bill C-66: An Act to amend the National Defence Act and other Acts (Military Justice System Modernization Act) (Tabled 2024-05-30)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.justice.gc.ca/eng/csj-sjc/pl/charter-charte/c66_1.html</UrlEn>
+      <UrlFr>https://www.justice.gc.ca/fra/sjc-csj/pl/charte-charter/c66_1.html</UrlFr>
+      <Url>https://www.justice.gc.ca/eng/csj-sjc/pl/charter-charte/c66_1.html</Url>
+    </WebReferences>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3449</BibliographicNoticeId>
+      <Title>"External monitor" sees progress &amp; challenges in military's handling of its sexual misconduct crisis</Title>
+      <Author>Schmitz, Cristin</Author>
+      <Publication>Law360 Canada</Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>July 10, 2025</PublicationDate>
+      <Classification>Radar 20250715</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
