@@ -4,7 +4,7 @@
 
 This enactment amends the `Canada National Parks Act` to establish Ojibway National Urban Park of Canada.
 
-Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+His Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
 
 ## Canada National Parks Act
@@ -17,6 +17,8 @@ Part 5 of Schedule 1 to the `Canada National Parks Act` is amended by adding the
 ### (4) Ojibway National Urban Park of Canada
 
 ### Section 
+
+
 
 In the Province of Ontario, all those parcels of land more particularly described as follows:
 
