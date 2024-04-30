@@ -2,7 +2,7 @@
 
 ## Summary
 
-This enactment provides for the establishment of a national council for reconciliation as an independent, non-political, permanent and Indigenous-led organization whose purpose is to advance reconciliation with Indigenous peoples.
+This enactment provides for the establishment of a national council for reconciliation as an independent, non-political, permanent and Indigenous-led organization whose purpose is to advance reconciliation between Indigenous peoples and non-Indigenous peoples.
 
 
 ## TABLE OF PROVISIONS
@@ -27,7 +27,7 @@ Definitions
 
 Sending of articles of incorporation
 
-Not agent of Her Majesty
+Not agent of His Majesty
 
 Qualified donee
 
@@ -37,6 +37,13 @@ Qualified donee
 Purpose
 
 Functions
+
+For greater certainty
+
+
+## Bilateral Mechanisms
+
+Bilateral Mechanisms
 
 
 ## Board of Directors
@@ -84,7 +91,7 @@ Distribution of property
 
 Order in council
 
-Whereas, since time immemorial, Indigenous peoples have thrived on and managed and governed their Indigenous lands;
+Whereas, since time immemorial, First Nations and Inuit peoples — and, post-contact, the Métis Nation — have thrived on and managed and governed their Indigenous lands;
 
 Whereas, since the arrival of settlers and colonization, Indigenous peoples have experienced assimilationist policies, which must be addressed through reconciliation;
 
@@ -124,7 +131,9 @@ This Act may be cited as the `National Council for Reconciliation Act`.
 
     **Council** means the corporation incorporated as a result of the sending of the articles of incorporation and other documents referred to in section `3`. (**Conseil**)
 
-    **governments** means the Government of Canada and provincial, local and Indigenous governments. (**gouvernements**)
+    **governments** means the Government of Canada, provincial and local governments and Indigenous governing bodies. (**gouvernements**)
+
+    **Indigenous governing body** means a council, government or other entity that is authorized to act on behalf of an Indigenous group, community or people that holds rights recognized and affirmed by section 35 of the `Constitution Act, 1982`. (**corps dirigeant autochtone**)
 
     **Indigenous peoples** has the meaning assigned by the definition aboriginal peoples of Canada in subsection 35(2) of the `Constitution Act, 1982`. (**peuples autochtones**)
 
@@ -143,7 +152,7 @@ One of the members of the transitional committee authorized to do so by the comm
 
 ### Section 4
 
-The Council is not an agent of Her Majesty in right of Canada nor is it, for greater certainty, an entity governed by the `Financial Administration Act`.
+The Council is not an agent of His Majesty in right of Canada nor is it, for greater certainty, an entity governed by the `Financial Administration Act`.
 
 ### Section 5
 
@@ -154,19 +163,25 @@ The Council is deemed to be a qualified donee within the meaning of the `Income 
 
 ### Section 6
 
-The purpose of the Council is to advance reconciliation with Indigenous peoples.
+The purpose of the Council is to advance reconciliation between Indigenous peoples and non-Indigenous peoples.
 
 ### Section 7
 
 In carrying out its purpose, the Council is to
 
-develop and implement a multi-year national action plan to advance reconciliation;
+monitor, evaluate and report annually on the Government of Canada's post-apology progress towards reconciliation, to ensure that government accountability for reconciling the relationship between Indigenous peoples and the Crown is maintained in the coming years;
 
-monitor and conduct research on the progress being made towards reconciliation in all sectors of Canadian society and by all governments in Canada to implement the Truth and Reconciliation Commission of Canada's Calls to Action;
+monitor, evaluate and report on the progress being made towards reconciliation across all levels of government and sectors of Canadian society, including the progress being made towards the implementation of the Truth and Reconciliation Commission of Canada's Calls to Action;
 
 ensure that reconciliation is consistent with the protection and promotion of the rights of Indigenous peoples, including by advancing a rights-based approach to self-determination;
 
-conduct research on practices that advance reconciliation in all sectors of Canadian society, by all governments in Canada and at the international level;
+develop and implement a multi-year National Action Plan for Reconciliation that includes
+
+research on practices that advance reconciliation in all sectors of Canadian society, by all governments in Canada and at the international level,
+
+policy development, and
+
+public education programs;
 
 monitor policies and programs of the Government of Canada, and federal laws, that affect Indigenous peoples;
 
@@ -174,11 +189,26 @@ recommend measures to promote, prioritize and coordinate reconciliation in all s
 
 educate the public about Indigenous peoples' realities and histories and advocate for reconciliation in all sectors of Canadian society and by all governments in Canada;
 
-stimulate innovative dialogue, thought and action on reconciliation;
+stimulate and promote innovative dialogue, partnerships between public and private sector bodies and public initiatives aimed at reconciliation;
 
 monitor and report on the progress made on measurable outcomes, including in relation to the Truth and Reconciliation Commission of Canada's Call to Action number 55; and
 
 protect Indigenous language rights, including by ensuring that, to promote and support the participation of Indigenous persons in the work of the Council, translation and interpretation services are made available to them.
+
+### Section 7.1
+
+For greater certainty,
+
+nothing in this Act is to be construed as authorizing the Council to act on behalf of, or represent the interests of, an Indigenous governing body; and
+
+no duty to consult an Indigenous group, community or people that holds rights recognized and affirmed by section 35 of the `Constitution Act, 1982` is discharged by consulting or engaging with the Council.
+
+
+## Bilateral mechanisms
+
+### Section 7.2
+
+For greater certainty, if the Government of Canada establishes or has established a bilateral mechanism with an Indigenous governing body, that bilateral mechanism is not affected by this Act.
 
 
 ## Board of Directors
@@ -260,12 +290,14 @@ Despite subsection 128(3) of the `Canada Not-for-profit Corporations Act`, and s
 
   **(2)** The protocol must allow, to the extent possible, the Council to receive all the information it judges relevant to fulfill its mission.
 
+  **(3)** If the Minister fails to comply with the obligations set out in subsections (1) and (2), the Council may apply to a judge of the Federal Court for a declaration to that effect or for any other appropriate order.
+
 
 ## Annual Reports
 
 ### Section 16.1
 
-The Minister must, within six months after the end of each financial year, submit to the Council an annual report setting out
+The Minister must, within six months after March 31 of each year, submit to the Council an annual report setting out
 
 a comparison of the number of Indigenous and non-Indigenous children in care, the reasons for their apprehension and the total spending on preventive and care services by child-welfare agencies;
 
@@ -285,7 +317,9 @@ the progress made on reducing the overrepresentation of Indigenous persons in th
 
   **(1)** The Council must, within three months after the end of each financial year, submit to the Minister an annual report setting out
 
-    the state of reconciliation, including the progress being made towards reconciliation in all sectors of Canadian society and by all governments in Canada; and
+    the Government of Canada's post-apology progress towards reconciliation;
+
+    the progress being made towards reconciliation across all levels of government and sectors of Canadian society; and
 
     the Council's recommendations respecting measures to promote, prioritize and coordinate reconciliation in all sectors of Canadian society and by all governments in Canada.
 
