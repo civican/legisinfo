@@ -1,0 +1,1545 @@
+<Bills>
+  <Bill>
+    <Id>13064389</Id>
+    <NumberCode>C-70</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>70</Number>
+    <LongTitleEn>An Act respecting countering foreign interference</LongTitleEn>
+    <LongTitleFr>Loi concernant la lutte contre l'ingérence étrangère</LongTitleFr>
+    <LongTitle>An Act respecting countering foreign interference</LongTitle>
+    <ShortTitleEn>Countering Foreign Interference Act</ShortTitleEn>
+    <ShortTitleFr>Loi sur la lutte contre l'ingérence étrangère</ShortTitleFr>
+    <ShortTitle>Countering Foreign Interference Act</ShortTitle>
+    <StatusId>357</StatusId>
+    <StatusNameEn>Royal assent received</StatusNameEn>
+    <StatusNameFr>Sanction royale reçue</StatusNameFr>
+    <StatusName>Royal assent received</StatusName>
+    <LatestCompletedMajorStageId>60046</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>Royal assent</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Sanction royale</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>Royal assent</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>Royal assent</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>2</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>Senate</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Sénat</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>Senate</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60050</OngoingStageId>
+    <OngoingStageNameEn>Royal assent</OngoingStageNameEn>
+    <OngoingStageNameFr>Sanction royale</OngoingStageNameFr>
+    <OngoingStageName>Royal assent</OngoingStageName>
+    <LatestCompletedBillStageId>60050</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Royal assent</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Sanction royale</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Royal assent</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>2</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>Senate</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Sénat</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>Senate</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2024-06-20T10:55:00</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>44</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>1813</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Dominic</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>LeBlanc</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Dominic LeBlanc</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Public Safety, Democratic Institutions and Intergovernmental Affairs</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre de la Sécurité publique, des Institutions démocratiques et des Affaires intergouvernementales</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Public Safety, Democratic Institutions and Intergovernmental Affairs</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>4</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Minister</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>ministre</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Minister</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>628</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Beauséjour</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Beauséjour</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Beauséjour</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60149</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Royal assent</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Sanction royale</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60050</LatestBillEventStageId>
+    <LatestBillEventTypeName>Royal assent</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2024-06-20T12:00:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>2</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>Senate</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Sénat</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>Senate</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>216</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2024-05-06T15:14:19.213</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime>2024-05-29T18:40:10</PassedHouseSecondReadingDateTime>
+    <PassedHouseThirdReadingDateTime>2024-06-13T15:30:00</PassedHouseThirdReadingDateTime>
+    <PassedSenateFirstReadingDateTime>2024-06-13T16:05:00</PassedSenateFirstReadingDateTime>
+    <PassedSenateSecondReadingDateTime>2024-06-17T10:15:00</PassedSenateSecondReadingDateTime>
+    <PassedSenateThirdReadingDateTime>2024-06-19T11:00:00</PassedSenateThirdReadingDateTime>
+    <ReceivedRoyalAssentDateTime>2024-06-20T10:55:00</ReceivedRoyalAssentDateTime>
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>true</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>true</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>true</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>true</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>true</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Library of Parliament. Meanwhile, the following executive summary is available.&lt;br/&gt;&lt;br/&gt;On 6 May 2024, the Minister of Public Safety, Democratic Institutions and Intergovernmental Affairs introduced Bill C-70, An Act respecting countering foreign interference (Countering Foreign Interference Act), and it was given first reading. &lt;br/&gt;&lt;br/&gt;Part 1 amends the Canadian Security Intelligence Act to, among other things,&lt;br/&gt;&lt;br/&gt;(a) update provisions respecting the collection, retention, querying and exploitation of datatsets;&lt;br/&gt;&lt;br/&gt;(b) clarify the scope of section 16 of that Act;&lt;br/&gt;&lt;br/&gt;(c) update provisions respecting the disclosure of information by the Canadian Security Intelligence Service;&lt;br/&gt;&lt;br/&gt;(d) provide for preservation orders and production orders as well as warrants to obtain information, records, documents or things through a single attempt;&lt;br/&gt;&lt;br/&gt;(e) expand the circumstances in which a warrant to remove a thing from the place where it was installed may be issued; and&lt;br/&gt;&lt;br/&gt;(f) require a parliamentary review of that Act every five years.&lt;br/&gt;&lt;br/&gt;It also makes a consequential amendment to the Intelligence Commissioner Act.&lt;br/&gt;&lt;br/&gt;Part 2 amends the Security of Information Act to, among other things, create the following offences:&lt;br/&gt;&lt;br/&gt;(a) committing an indictable offence at the direction of, for the benefit of, or in association with a foreign entity;&lt;br/&gt;&lt;br/&gt;(b) knowingly engaging in surreptitious or deceptive conduct at the direction of, for the benefit of or in association with a foreign entity for a purpose prejudicial to the safety or interests of the State or being reckless as to whether the conduct is likely to harm Canadian interests; and&lt;br/&gt;&lt;br/&gt;(c) engaging in surreptitious or deceptive conduct, at the direction of or in association with a foreign entity, with the intent to influence, among other things, the exercise of a democratic right in Canada.&lt;br/&gt;&lt;br/&gt;It also amends that Act to remove as an element of the offence of inducing or attempting to induce — at the direction of, for the benefit of or in association with a foreign entity or terrorist group — by intimidation, threat or violence, a person to do anything or cause anything to be done, that the thing be done for the purpose of harming Canadian interests when the person who is alleged to have committed the offence or the victim has a link to Canada.&lt;br/&gt;&lt;br/&gt;It also amends the Criminal Code to, among other things, broaden the scope of the sabotage offence to include certain acts done in relation to essential infrastructures and ensure that certain provisions respecting the interception of "private communications" as defined in that Act apply to certain offences in the Foreign Interference and Security of Information Act.&lt;br/&gt;&lt;br/&gt;Finally, it makes consequential amendments to other Acts.&lt;br/&gt;&lt;br/&gt;Part 3 amends the Canada Evidence Act and makes consequential amendments to other Acts to, among other things,&lt;br/&gt;&lt;br/&gt;(a) create a general scheme to deal with information relating to international relations, national defence or national security in the course of proceedings that are in the Federal Court or the Federal Court of Appeal and that are in respect of any decision of a federal board, commission or other tribunal;&lt;br/&gt;&lt;br/&gt;(b) permit the appointment of a special counsel for the purposes of protecting the interests of a non-governmental party to those proceedings in respect of such information; and&lt;br/&gt;&lt;br/&gt;(c) allow a person charged with an offence to appeal a decision, made under the Canada Evidence Act with respect to the disclosure of certain information in relation to criminal proceedings, only after the person has been convicted of the offence, unless there are exceptional circumstances justifying an earlier appeal.&lt;br/&gt;&lt;br/&gt;It also adds references to international relations, national defence and national security in a provision of the Criminal Code that relates to the protection of information, as well as references to international relations and national defence in certain provisions of the Immigration and Refugee Protection Act that equally relate to the protection of information.&lt;br/&gt;&lt;br/&gt;Part 4 enacts the Foreign Influence Transparency and Accountability Act which, among other things,&lt;br/&gt;&lt;br/&gt;(a) provides for the appointment of an individual to be known as the Foreign Influence Transparency Commissioner;&lt;br/&gt;&lt;br/&gt;(b) requires certain persons to provide the Commissioner with certain information if they enter into arrangements with foreign principals under which they undertake to carry out certain activities in relation to political or governmental processes in Canada;&lt;br/&gt;&lt;br/&gt;(c) requires the Commissioner to establish and maintain a publicly accessible registry that contains information about those arrangements;&lt;br/&gt;&lt;br/&gt;(d) provides the Commissioner with tools to administer and enforce that Act; and&lt;br/&gt;&lt;br/&gt;(e) amends the Public Service Superannuation Act, the National Security and Intelligence Committee of Parliamentarians Act and the National Security and Intelligence Review Agency Act.&lt;/div&gt;</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>&lt;div&gt;La Bibliothèque du Parlement rédige actuellement le résumé législatif de ce projet de loi.  Entre-temps, le résumé suivant est disponible.&lt;br/&gt;&lt;br/&gt;Le 6 mai 2024, le Ministre de la Sécurité publique, des Institutions démocratiques et des Affaires intergouvernementales a déposé le projet de loi C-70, Loi concernant la lutte contre l'ingérence étrangère (Loi sur la lutte contre l'ingérence étrangère), à la Chambre des communes en première lecture.  &lt;br/&gt;&lt;br/&gt;La partie 1 modifie la Loi sur le Service canadien du renseignement de sécurité pour, notamment?:&lt;br/&gt;&lt;br/&gt;a) mettre à jour les dispositions concernant la collecte, la conservation, l'interrogation et l'exploitation des ensembles de données;&lt;br/&gt;&lt;br/&gt;b) clarifier la portée de l'article 16 de cette loi;&lt;br/&gt;&lt;br/&gt;c) mettre à jour les dispositions concernant la communication d'informations par le Service canadien du renseignement de sécurité;&lt;br/&gt;&lt;br/&gt;d) prévoir des ordonnances de préservation et de communication et un mandat autorisant l'obtention de toute information, de tout document ou de tout objet lors d'une seule tentative;&lt;br/&gt;&lt;br/&gt;e) élargir les circonstances lors desquelles un mandat autorisant l'enlèvement de tout objet du lieu où il avait été installé peut être décerné;&lt;br/&gt;&lt;br/&gt;f) exiger qu'un examen parlementaire des dispositions de cette loi soit entrepris tous les cinq ans.&lt;br/&gt;&lt;br/&gt;Elle apporte également une modification corrélative à la Loi sur le commissaire au renseignement.&lt;br/&gt;&lt;br/&gt;La partie 2 modifie la Loi sur la protection de l'information, notamment pour créer les infractions suivantes?:&lt;br/&gt;&lt;br/&gt;a) commettre un acte criminel sur l'ordre d'une entité étrangère, en collaboration avec elle ou pour son profit;&lt;br/&gt;&lt;br/&gt;b) avoir une conduite subreptice ou trompeuse, sciemment, sur l'ordre d'une entité étrangère, en collaboration avec elle ou pour son profit, dans un dessein nuisible à la sécurité ou aux intérêts de l'État ou ne se souciant pas de savoir si la conduite portera vraisemblablement atteinte aux intérêts canadiens;&lt;br/&gt;&lt;br/&gt;c) avoir une conduite subreptice ou trompeuse, sur l'ordre d'une entité étrangère ou en collaboration avec elle, en vue d'influencer, entre autres, l'exercice d'un droit démocratique au Canada.&lt;br/&gt;&lt;br/&gt;Elle modifie aussi la loi afin de faire en sorte que, dans le cas de l'infraction qui consiste à inciter ou à tenter d'inciter — sur l'ordre d'une entité étrangère ou d'un groupe terroriste, en collaboration avec lui ou pour son profit —, par intimidation, menaces ou violence, une personne à accomplir ou à faire accomplir quelque chose, le fait que cette chose soit accomplie dans le but de porter atteinte aux intérêts canadiens ne constitue plus un élément de l'infraction si la personne qui est présumée avoir commis l'infraction ou la victime ont un lien avec le Canada.&lt;br/&gt;&lt;br/&gt;Elle modifie également le Code criminel, notamment pour élargir la portée de l'infraction de sabotage afin d'inclure certains actes commis en lien avec des infrastructures essentielles et pour faire en sorte que certaines dispositions relatives à l'interception de «?communications privées?», au sens de cette loi, s'appliquent à certaines infractions de la Loi sur la protection de l'information.&lt;br/&gt;&lt;br/&gt;Enfin, elle apporte des modifications corrélatives à d'autres lois.&lt;br/&gt;&lt;br/&gt;La partie 3 modifie la Loi sur la preuve au Canada et apporte des modifications corrélatives à d'autres lois pour, notamment?:&lt;br/&gt;&lt;br/&gt;a) créer un régime général pour traiter les renseignements qui concernent les relations internationales ou la défense ou la sécurité nationales dans le cadre d'instances devant la Cour fédérale ou la Cour d'appel fédérale visant toute décision d'un office fédéral;&lt;br/&gt;&lt;br/&gt;b) permettre la nomination d'un conseiller juridique spécial pour protéger les intérêts de la partie non gouvernementale liés à ces renseignements dans le cadre de ces instances;&lt;br/&gt;&lt;br/&gt;c) permettre à une personne accusée d'une infraction d'interjeter appel d'une décision prise au titre de la Loi sur la preuve au Canada portant sur la divulgation de certains renseignements et rendue en lien avec une instance criminelle, seulement après sa condamnation, sauf si des circonstances exceptionnelles justifient que l'appel puisse être interjeté plus tôt.&lt;br/&gt;&lt;br/&gt;En outre, elle ajoute des références aux relations internationales, à la défense et à la sécurité nationales dans une disposition du Code criminel relative à la protection des renseignements et des références aux relations internationales et à la défense nationale dans certaines dispositions de la Loi sur l'immigration et la protection des réfugiés qui sont également relatives à la protection des renseignements.&lt;br/&gt;&lt;br/&gt;La partie 4 édicte la Loi sur la transparence et la responsabilité en matière d'influence étrangère. Cette loi, entre autres?:&lt;br/&gt;&lt;br/&gt;a) prévoit la nomination d'un individu à titre de commissaire à la transparence en matière d'influence étrangère;&lt;br/&gt;&lt;br/&gt;b) exige de certaines personnes qu'elles fournissent certains renseignements au commissaire si elles concluent avec des commettants étrangers des arrangements au titre desquels elles s'engagent à exercer certaines activités liées à des processus politiques ou gouvernementaux au Canada;&lt;br/&gt;&lt;br/&gt;c) exige du commissaire qu'il établisse et tienne un registre accessible au public qui contient des renseignements relatifs à ces arrangements;&lt;br/&gt;&lt;br/&gt;d) fournit au commissaire des outils en vue de l'exécution et du contrôle d'application de cette loi;&lt;br/&gt;&lt;br/&gt;e) modifie la Loi sur la pension de la fonction publique, la Loi sur le Comité des parlementaires sur la sécurité nationale et le renseignement et la Loi sur l'Office de surveillance des activités en matière de sécurité nationale et de renseignement.&lt;/div&gt;</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Library of Parliament. Meanwhile, the following executive summary is available.&lt;br/&gt;&lt;br/&gt;On 6 May 2024, the Minister of Public Safety, Democratic Institutions and Intergovernmental Affairs introduced Bill C-70, An Act respecting countering foreign interference (Countering Foreign Interference Act), and it was given first reading. &lt;br/&gt;&lt;br/&gt;Part 1 amends the Canadian Security Intelligence Act to, among other things,&lt;br/&gt;&lt;br/&gt;(a) update provisions respecting the collection, retention, querying and exploitation of datatsets;&lt;br/&gt;&lt;br/&gt;(b) clarify the scope of section 16 of that Act;&lt;br/&gt;&lt;br/&gt;(c) update provisions respecting the disclosure of information by the Canadian Security Intelligence Service;&lt;br/&gt;&lt;br/&gt;(d) provide for preservation orders and production orders as well as warrants to obtain information, records, documents or things through a single attempt;&lt;br/&gt;&lt;br/&gt;(e) expand the circumstances in which a warrant to remove a thing from the place where it was installed may be issued; and&lt;br/&gt;&lt;br/&gt;(f) require a parliamentary review of that Act every five years.&lt;br/&gt;&lt;br/&gt;It also makes a consequential amendment to the Intelligence Commissioner Act.&lt;br/&gt;&lt;br/&gt;Part 2 amends the Security of Information Act to, among other things, create the following offences:&lt;br/&gt;&lt;br/&gt;(a) committing an indictable offence at the direction of, for the benefit of, or in association with a foreign entity;&lt;br/&gt;&lt;br/&gt;(b) knowingly engaging in surreptitious or deceptive conduct at the direction of, for the benefit of or in association with a foreign entity for a purpose prejudicial to the safety or interests of the State or being reckless as to whether the conduct is likely to harm Canadian interests; and&lt;br/&gt;&lt;br/&gt;(c) engaging in surreptitious or deceptive conduct, at the direction of or in association with a foreign entity, with the intent to influence, among other things, the exercise of a democratic right in Canada.&lt;br/&gt;&lt;br/&gt;It also amends that Act to remove as an element of the offence of inducing or attempting to induce — at the direction of, for the benefit of or in association with a foreign entity or terrorist group — by intimidation, threat or violence, a person to do anything or cause anything to be done, that the thing be done for the purpose of harming Canadian interests when the person who is alleged to have committed the offence or the victim has a link to Canada.&lt;br/&gt;&lt;br/&gt;It also amends the Criminal Code to, among other things, broaden the scope of the sabotage offence to include certain acts done in relation to essential infrastructures and ensure that certain provisions respecting the interception of "private communications" as defined in that Act apply to certain offences in the Foreign Interference and Security of Information Act.&lt;br/&gt;&lt;br/&gt;Finally, it makes consequential amendments to other Acts.&lt;br/&gt;&lt;br/&gt;Part 3 amends the Canada Evidence Act and makes consequential amendments to other Acts to, among other things,&lt;br/&gt;&lt;br/&gt;(a) create a general scheme to deal with information relating to international relations, national defence or national security in the course of proceedings that are in the Federal Court or the Federal Court of Appeal and that are in respect of any decision of a federal board, commission or other tribunal;&lt;br/&gt;&lt;br/&gt;(b) permit the appointment of a special counsel for the purposes of protecting the interests of a non-governmental party to those proceedings in respect of such information; and&lt;br/&gt;&lt;br/&gt;(c) allow a person charged with an offence to appeal a decision, made under the Canada Evidence Act with respect to the disclosure of certain information in relation to criminal proceedings, only after the person has been convicted of the offence, unless there are exceptional circumstances justifying an earlier appeal.&lt;br/&gt;&lt;br/&gt;It also adds references to international relations, national defence and national security in a provision of the Criminal Code that relates to the protection of information, as well as references to international relations and national defence in certain provisions of the Immigration and Refugee Protection Act that equally relate to the protection of information.&lt;br/&gt;&lt;br/&gt;Part 4 enacts the Foreign Influence Transparency and Accountability Act which, among other things,&lt;br/&gt;&lt;br/&gt;(a) provides for the appointment of an individual to be known as the Foreign Influence Transparency Commissioner;&lt;br/&gt;&lt;br/&gt;(b) requires certain persons to provide the Commissioner with certain information if they enter into arrangements with foreign principals under which they undertake to carry out certain activities in relation to political or governmental processes in Canada;&lt;br/&gt;&lt;br/&gt;(c) requires the Commissioner to establish and maintain a publicly accessible registry that contains information about those arrangements;&lt;br/&gt;&lt;br/&gt;(d) provides the Commissioner with tools to administer and enforce that Act; and&lt;br/&gt;&lt;br/&gt;(e) amends the Public Service Superannuation Act, the National Security and Intelligence Committee of Parliamentarians Act and the National Security and Intelligence Review Agency Act.&lt;/div&gt;</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>false</IsFullLegislativeSummaryAvailable>
+    <StatuteYear>2024</StatuteYear>
+    <StatuteChapter>16</StatuteChapter>
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2024-05-06T15:14:19.213</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>309</Number>
+          <Date>2024-05-06T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2024-05-06T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2024-05-06T15:14:19.213</EventStartDateTime>
+          <EventEndDateTime>2024-05-06T15:14:19.213</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2024-05-06T15:14:19.213</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2024-05-29T18:40:10</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>27197</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Public Safety and National Security</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la sécurité publique et nationale</CommitteeNameFr>
+          <CommitteeAcronym>SECU</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Public Safety and National Security</CommitteeName>
+          <StudyActivityId>12773790</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>320</Number>
+          <Date>2024-05-29T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>12769965</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>13069570</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>2nd reading and referral to committee - SECU</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>2e lecture et renvoi en comité - SECU</DecisionMotionTitleFr>
+          <DecisionMotionTitle>2nd reading and referral to committee - SECU</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId />
+          <DecisionMethodNameEn>
+          </DecisionMethodNameEn>
+          <DecisionMethodNameFr>
+          </DecisionMethodNameFr>
+          <DecisionMethodName>
+          </DecisionMethodName>
+          <DivisionNumber />
+          <DivisionVotesYeas />
+          <DivisionVotesNays />
+          <DivisionVotePaired />
+          <DecisionSittingDate>2024-05-29T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>320</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60121</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading and referral to committee</EventNameEn>
+          <EventNameFr>Deuxième lecture et renvoi en comité</EventNameFr>
+          <EventName>Second reading and referral to committee</EventName>
+          <EventDateTime>2024-05-29T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60121</EventTypeId>
+          <EventTypeNameEn>Second reading and referral to committee</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture et renvoi en comité</EventTypeNameFr>
+          <EventTypeName>Second reading and referral to committee</EventTypeName>
+          <EventStartDateTime>2024-05-29T18:40:10</EventStartDateTime>
+          <EventEndDateTime>2024-05-29T18:40:10</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2024-05-29T18:40:10</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>12770267</InterventionEventId>
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>1813</PersonId>
+          <PersonOfficialFirstName>Dominic</PersonOfficialFirstName>
+          <PersonOfficialLastName>LeBlanc</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Dominic LeBlanc</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>320</MeetingNumber>
+          <SpeechDateTime>2024-05-29T16:27:05</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>12770642</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>25488</PersonId>
+          <PersonOfficialFirstName>Michael</PersonOfficialFirstName>
+          <PersonOfficialLastName>Chong</PersonOfficialLastName>
+          <PersonMiddleName>D.</PersonMiddleName>
+          <PersonName>Michael D. Chong</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>320</MeetingNumber>
+          <SpeechDateTime>2024-05-29T16:55:23</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>12771238</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>110306</PersonId>
+          <PersonOfficialFirstName>René</PersonOfficialFirstName>
+          <PersonOfficialLastName>Villemure</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>René Villemure</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Bloc Québécois</CaucusShortNameEn>
+          <CaucusShortNameFr>Bloc Québécois</CaucusShortNameFr>
+          <CaucusShortName>Bloc Québécois</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>320</MeetingNumber>
+          <SpeechDateTime>2024-05-29T17:29:21</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>12771709</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>16399</PersonId>
+          <PersonOfficialFirstName>Peter</PersonOfficialFirstName>
+          <PersonOfficialLastName>Julian</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Peter Julian</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>NDP</CaucusShortNameEn>
+          <CaucusShortNameFr>NPD</CaucusShortNameFr>
+          <CaucusShortName>NDP</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>320</MeetingNumber>
+          <SpeechDateTime>2024-05-29T17:58:41</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2024-06-11T09:48:25.4</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>27197</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Public Safety and National Security</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la sécurité publique et nationale</CommitteeNameFr>
+          <CommitteeAcronym>SECU</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Public Safety and National Security</CommitteeName>
+          <StudyActivityId>12773790</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented with amendments</NameEn>
+          <NameFr>Présentation du rapport de comité avec des amendements</NameFr>
+          <Name>Committee report presented with amendments</Name>
+          <Number>329</Number>
+          <Date>2024-06-11T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27197</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Public Safety and National Security</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la sécurité publique et nationale</CommitteeNameFr>
+          <CommitteeAcronym>SECU</CommitteeAcronym>
+          <Number>109</Number>
+          <Date>2024-05-30T00:00:00</Date>
+          <CommitteeName>Standing Committee on Public Safety and National Security</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27197</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Public Safety and National Security</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la sécurité publique et nationale</CommitteeNameFr>
+          <CommitteeAcronym>SECU</CommitteeAcronym>
+          <Number>110</Number>
+          <Date>2024-06-03T00:00:00</Date>
+          <CommitteeName>Standing Committee on Public Safety and National Security</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27197</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Public Safety and National Security</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la sécurité publique et nationale</CommitteeNameFr>
+          <CommitteeAcronym>SECU</CommitteeAcronym>
+          <Number>111</Number>
+          <Date>2024-06-04T00:00:00</Date>
+          <CommitteeName>Standing Committee on Public Safety and National Security</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27197</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Public Safety and National Security</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la sécurité publique et nationale</CommitteeNameFr>
+          <CommitteeAcronym>SECU</CommitteeAcronym>
+          <Number>112</Number>
+          <Date>2024-06-05T00:00:00</Date>
+          <CommitteeName>Standing Committee on Public Safety and National Security</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27197</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Public Safety and National Security</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la sécurité publique et nationale</CommitteeNameFr>
+          <CommitteeAcronym>SECU</CommitteeAcronym>
+          <Number>113</Number>
+          <Date>2024-06-06T00:00:00</Date>
+          <CommitteeName>Standing Committee on Public Safety and National Security</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>27197</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Public Safety and National Security</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la sécurité publique et nationale</CommitteeNameFr>
+          <CommitteeAcronym>SECU</CommitteeAcronym>
+          <Number>114</Number>
+          <Date>2024-06-10T00:00:00</Date>
+          <CommitteeName>Standing Committee on Public Safety and National Security</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented with amendments</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité avec des amendements</EventNameFr>
+          <EventName>Committee report presented with amendments</EventName>
+          <EventDateTime>2024-06-11T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId>13180784</CommitteeReportId>
+          <CommitteeReportNumber>13</CommitteeReportNumber>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2024-06-11T09:48:25.4</EventStartDateTime>
+          <EventEndDateTime>2024-06-11T09:48:25.4</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2024-06-11T09:48:25.4</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2024-06-12T16:41:53.303</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>330</Number>
+          <Date>2024-06-12T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60285</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Concurrence at report stage</EventNameEn>
+          <EventNameFr>Adoption à l'étape du rapport</EventNameFr>
+          <EventName>Concurrence at report stage</EventName>
+          <EventDateTime>2024-06-12T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60285</EventTypeId>
+          <EventTypeNameEn>Concurrence at report stage</EventTypeNameEn>
+          <EventTypeNameFr>Adoption à l'étape du rapport</EventTypeNameFr>
+          <EventTypeName>Concurrence at report stage</EventTypeName>
+          <EventStartDateTime>2024-06-12T16:41:53.303</EventStartDateTime>
+          <EventEndDateTime>2024-06-12T16:41:53.303</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2024-06-12T16:41:53.303</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2024-06-13T15:30:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>330</Number>
+          <Date>2024-06-12T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Third reading</NameEn>
+          <NameFr>Troisième lecture</NameFr>
+          <Name>Third reading</Name>
+          <Number>331</Number>
+          <Date>2024-06-13T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>12821555</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>13069572</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>3rd reading</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>3e lecture</DecisionMotionTitleFr>
+          <DecisionMotionTitle>3rd reading</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>10</DecisionMethodId>
+          <DecisionMethodNameEn>On recorded division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Suivant un vote par appel nominal</DecisionMethodNameFr>
+          <DecisionMethodName>On recorded division</DecisionMethodName>
+          <DivisionNumber>814</DivisionNumber>
+          <DivisionVotesYeas>319</DivisionVotesYeas>
+          <DivisionVotesNays>0</DivisionVotesNays>
+          <DivisionVotePaired>2</DivisionVotePaired>
+          <DecisionSittingDate>2024-06-13T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>331</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2024-06-13T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2024-06-13T15:30:00</EventStartDateTime>
+          <EventEndDateTime>2024-06-13T15:30:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2024-06-13T15:30:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60038</BillStageId>
+        <BillStageNameEn>Senate pre-study</BillStageNameEn>
+        <BillStageNameFr>Étude préalable au Sénat</BillStageNameFr>
+        <BillStageName>Senate pre-study</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2024-06-17T21:45:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16087</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de la sécurité nationale, de la défense et des anciens combattants</CommitteeNameFr>
+          <CommitteeAcronym>SECD</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Pre-study of House bill</NameEn>
+          <NameFr>Étude préalable d'un projet de loi émanant de la Chambre des communes</NameFr>
+          <Name>Pre-study of House bill</Name>
+          <Number>208</Number>
+          <Date>2024-06-05T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Pre-Study of Commons Bill Completed</NameEn>
+          <NameFr>Étude préalable d'un projet de loi émanant de la Chambre des communes complétée</NameFr>
+          <Name>Pre-Study of Commons Bill Completed</Name>
+          <Number>213</Number>
+          <Date>2024-06-17T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16087</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de la sécurité nationale, de la défense et des anciens combattants</CommitteeNameFr>
+          <CommitteeAcronym>SECD</CommitteeAcronym>
+          <Number>56</Number>
+          <Date>2024-06-10T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16087</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de la sécurité nationale, de la défense et des anciens combattants</CommitteeNameFr>
+          <CommitteeAcronym>SECD</CommitteeAcronym>
+          <Number>57</Number>
+          <Date>2024-06-12T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16087</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de la sécurité nationale, de la défense et des anciens combattants</CommitteeNameFr>
+          <CommitteeAcronym>SECD</CommitteeAcronym>
+          <Number>58</Number>
+          <Date>2024-06-13T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60109</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Pre-study of House bill</EventNameEn>
+          <EventNameFr>Étude préalable d'un projet de loi émanant de la Chambre des communes</EventNameFr>
+          <EventName>Pre-study of House bill</EventName>
+          <EventDateTime>2024-06-05T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>false</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <SignificantEvents>
+          <EventTypeId>90362</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Pre-Study of Commons Bill Completed</EventNameEn>
+          <EventNameFr>Étude préalable d'un projet de loi émanant de la Chambre des communes complétée</EventNameFr>
+          <EventName>Pre-Study of Commons Bill Completed</EventName>
+          <EventDateTime>2024-06-17T21:45:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>90362</EventTypeId>
+          <EventTypeNameEn>Pre-Study of Commons Bill Completed</EventTypeNameEn>
+          <EventTypeNameFr>Étude préalable d'un projet de loi émanant de la Chambre des communes complétée</EventTypeNameFr>
+          <EventTypeName>Pre-Study of Commons Bill Completed</EventTypeName>
+          <EventStartDateTime>2024-06-17T21:45:00</EventStartDateTime>
+          <EventEndDateTime>2024-06-17T21:45:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2024-06-17T21:45:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2024-06-13T16:05:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>First reading</NameEn>
+          <NameFr>Première lecture</NameFr>
+          <Name>First reading</Name>
+          <Number>212</Number>
+          <Date>2024-06-13T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60111</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>First reading</EventNameEn>
+          <EventNameFr>Première lecture</EventNameFr>
+          <EventName>First reading</EventName>
+          <EventDateTime>2024-06-13T16:05:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60111</EventTypeId>
+          <EventTypeNameEn>First reading</EventTypeNameEn>
+          <EventTypeNameFr>Première lecture</EventTypeNameFr>
+          <EventTypeName>First reading</EventTypeName>
+          <EventStartDateTime>2024-06-13T16:05:00</EventStartDateTime>
+          <EventEndDateTime>2024-06-13T16:05:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2024-06-13T16:05:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2024-06-17T10:15:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16087</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de la sécurité nationale, de la défense et des anciens combattants</CommitteeNameFr>
+          <CommitteeAcronym>SECD</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>213</Number>
+          <Date>2024-06-17T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60120</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading</EventNameEn>
+          <EventNameFr>Deuxième lecture</EventNameFr>
+          <EventName>Second reading</EventName>
+          <EventDateTime>2024-06-17T10:15:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <SignificantEvents>
+          <EventTypeId>60123</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Referral to committee</EventNameEn>
+          <EventNameFr>Renvoi en comité</EventNameFr>
+          <EventName>Referral to committee</EventName>
+          <EventDateTime>2024-06-17T10:20:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60120</EventTypeId>
+          <EventTypeNameEn>Second reading</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture</EventTypeNameFr>
+          <EventTypeName>Second reading</EventTypeName>
+          <EventStartDateTime>2024-06-17T10:15:00</EventStartDateTime>
+          <EventEndDateTime>2024-06-17T10:15:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2024-06-17T10:20:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>95487</PersonId>
+          <PersonOfficialFirstName>Tony</PersonOfficialFirstName>
+          <PersonOfficialLastName>Dean</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Tony Dean</PersonName>
+          <SenateSystemAffiliationId>207804</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Independent Senators Group</CaucusShortNameEn>
+          <CaucusShortNameFr>Groupe des sénateurs indépendants</CaucusShortNameFr>
+          <CaucusShortName>Independent Senators Group</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>213</MeetingNumber>
+          <SpeechDateTime>2024-06-17T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/441/debates/213db_2024-06-17-e#53</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/441/debates/213db_2024-06-17-f#53</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/441/debates/213db_2024-06-17-e#53</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>29971</PersonId>
+          <PersonOfficialFirstName>Leo</PersonOfficialFirstName>
+          <PersonOfficialLastName>Housakos</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Leo Housakos</PersonName>
+          <SenateSystemAffiliationId>2818</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>213</MeetingNumber>
+          <SpeechDateTime>2024-06-17T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/441/debates/213db_2024-06-17-e#53</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/441/debates/213db_2024-06-17-f#53</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/441/debates/213db_2024-06-17-e#53</Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>true</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2024-06-18T10:20:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16087</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de la sécurité nationale, de la défense et des anciens combattants</CommitteeNameFr>
+          <CommitteeAcronym>SECD</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented without amendment</NameEn>
+          <NameFr>Présentation du rapport de comité sans amendement</NameFr>
+          <Name>Committee report presented without amendment</Name>
+          <Number>214</Number>
+          <Date>2024-06-18T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16087</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de la sécurité nationale, de la défense et des anciens combattants</CommitteeNameFr>
+          <CommitteeAcronym>SECD</CommitteeAcronym>
+          <Number>59</Number>
+          <Date>2024-06-18T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented without amendment</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité sans amendement</EventNameFr>
+          <EventName>Committee report presented without amendment</EventName>
+          <EventDateTime>2024-06-18T10:20:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2024-06-18T10:20:00</EventStartDateTime>
+          <EventEndDateTime>2024-06-18T10:20:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2024-06-18T10:20:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2024-06-19T11:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>215</Number>
+          <Date>2024-06-19T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2024-06-19T11:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2024-06-19T11:00:00</EventStartDateTime>
+          <EventEndDateTime>2024-06-19T11:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2024-06-19T11:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <RoyalAssent>
+        <BillStageId>60050</BillStageId>
+        <BillStageNameEn>Royal assent</BillStageNameEn>
+        <BillStageNameFr>Sanction royale</BillStageNameFr>
+        <BillStageName>Royal assent</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>0</State>
+        <StateNameEn />
+        <StateNameFr />
+        <StateAsOfDate />
+        <StateName />
+        <Committee />
+        <Sittings>
+          <NameEn>Royal assent</NameEn>
+          <NameFr>Sanction royale</NameFr>
+          <Name>Royal assent</Name>
+          <Number>216</Number>
+          <Date>2024-06-20T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60149</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Royal assent</EventNameEn>
+          <EventNameFr>Sanction royale</EventNameFr>
+          <EventName>Royal assent</EventName>
+          <EventDateTime>2024-06-20T10:55:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60149</EventTypeId>
+          <EventTypeNameEn>Royal assent</EventTypeNameEn>
+          <EventTypeNameFr>Sanction royale</EventTypeNameFr>
+          <EventTypeName>Royal assent</EventTypeName>
+          <EventStartDateTime>2024-06-20T10:55:00</EventStartDateTime>
+          <EventEndDateTime>2024-06-20T10:55:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2024-06-20T10:55:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </RoyalAssent>
+    </BillStages>
+    <Publications>
+      <PublicationId>13070146</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>13188279</PublicationId>
+      <PublicationTypeId>80702</PublicationTypeId>
+      <PublicationTypeNameEn>As amended by committee</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel que modifié par le comité</PublicationTypeNameFr>
+      <PublicationTypeName>As amended by committee</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>13198528</PublicationId>
+      <PublicationTypeId>80703</PublicationTypeId>
+      <PublicationTypeNameEn>As passed by the House of Commons</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel qu'adopté par la Chambre des communes</PublicationTypeNameFr>
+      <PublicationTypeName>As passed by the House of Commons</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>13222432</PublicationId>
+      <PublicationTypeId>80704</PublicationTypeId>
+      <PublicationTypeNameEn>Royal Assent</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Royal Assent</PublicationTypeNameFr>
+      <PublicationTypeName>Royal Assent</PublicationTypeName>
+    </Publications>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>814</DivisionNumber>
+      <DivisionSubjectEn>3rd reading and adoption of Bill C-70, An Act respecting countering foreign interference</DivisionSubjectEn>
+      <DivisionSubjectFr>3e lecture et adoption du projet de loi C-70, Loi concernant la lutte contre l'ingérence étrangère</DivisionSubjectFr>
+      <DivisionSubject>3rd reading and adoption of Bill C-70, An Act respecting countering foreign interference</DivisionSubject>
+      <DivisionVotesYeas>319</DivisionVotesYeas>
+      <DivisionVotesNays>0</DivisionVotesNays>
+      <DivisionVotePaired>2</DivisionVotePaired>
+      <DivisionVoteTotal>321</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2024-06-13T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Public Inquiry into Foreign Interference in Federal Electoral Processes and Democratic Institutions: Initial Report, 3 May 2024.</TitleEn>
+      <TitleFr>Enquête publique sur l'ingérence étrangère dans les processus électoraux et les institutions démocratiques fédéraux : Rapport initial, 3 mai 2024.</TitleFr>
+      <Title>Public Inquiry into Foreign Interference in Federal Electoral Processes and Democratic Institutions: Initial Report, 3 May 2024.</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://foreigninterferencecommission.ca/fileadmin/user_upload/Foreign_Interference_Commission_-_Initial_Report__May_2024__-_Digital.pdf</UrlEn>
+      <UrlFr>https://commissioningerenceetrangere.ca/fileadmin/user_upload/Commission_sur_l_ingerence_etrangere_-_Rapport_initial__mai_2024__-_Digitale.pdf</UrlFr>
+      <Url>https://foreigninterferencecommission.ca/fileadmin/user_upload/Foreign_Interference_Commission_-_Initial_Report__May_2024__-_Digital.pdf</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>House of Commons, Standing Committee on Access to Information, Privacy and Ethics. Foreign Interference and the Threats to the Integrity of Democratic Institutions, Intellectual Property and the Canadian State. Tenth Report. 1st Session, 44th Parliament, October 2023.</TitleEn>
+      <TitleFr>Chambre des communes, Comité permanent de l'accès à l'information, de la protection des renseignements personnels et de l'éthique. L'ingérence étrangère et les menaces entourant l'intégrité des institutions démocratiques, de la propriété intellectuelle et de l'État canadien, dixième rapport, 1re session, 44e législature, octobre 2023.</TitleFr>
+      <Title>House of Commons, Standing Committee on Access to Information, Privacy and Ethics. Foreign Interference and the Threats to the Integrity of Democratic Institutions, Intellectual Property and the Canadian State. Tenth Report. 1st Session, 44th Parliament, October 2023.</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.ourcommons.ca/Content/Committee/441/ETHI/Reports/RP12616101/ethirp10/ethirp10-e.pdf</UrlEn>
+      <UrlFr>https://www.noscommunes.ca/Content/Committee/441/ETHI/Reports/RP12616101/ethirp10/ethirp10-f.pdf</UrlFr>
+      <Url>https://www.ourcommons.ca/Content/Committee/441/ETHI/Reports/RP12616101/ethirp10/ethirp10-e.pdf</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Canadian Security Intelligence Service. Foreign Interference Threats to Canada's Democratic Process. July 2021.</TitleEn>
+      <TitleFr>Service canadien du renseignement de sécurité. Menaces d'ingérence étrangère visant les processus démocratiques du Canada, juillet 2021.</TitleFr>
+      <Title>Canadian Security Intelligence Service. Foreign Interference Threats to Canada's Democratic Process. July 2021.</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/security-intelligence-service/corporate/publications/foreign-interference-threat-to-canadas-democratic-process.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/service-renseignement-securite/organisation/publications/menace-dingerence-etrangere-visant-les-processus-democratiques-du-canada.html</UrlFr>
+      <Url>https://www.canada.ca/en/security-intelligence-service/corporate/publications/foreign-interference-threat-to-canadas-democratic-process.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Government introduces legislation to counter foreign interference (2024-05-06 | Department of Public Safety and Emergency Preparedness)</TitleEn>
+      <TitleFr>Le gouvernement dépose un projet de loi pour lutter contre l'ingérence étrangère (2024-05-06 | Ministère de la Sécurité publique et de la Protection civil)</TitleFr>
+      <Title>Government introduces legislation to counter foreign interference (2024-05-06 | Department of Public Safety and Emergency Preparedness)</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/public-safety-canada/news/2024/05/government-introduces-legislation-to-counter-foreign-interference.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/securite-publique-canada/nouvelles/2024/05/le-gouvernement-depose-un-projet-de-loi-pour-lutter-contre-lingerence-etrangere.html</UrlFr>
+      <Url>https://www.canada.ca/en/public-safety-canada/news/2024/05/government-introduces-legislation-to-counter-foreign-interference.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Security of Information Act, Criminal Code and Canada Evidence Act Amendments: Bolstering Canada's counter-foreign interference legislation (2024-05-06 | Department of Public Safety and Emergency Preparedness)</TitleEn>
+      <TitleFr>Modifications à la Loi sur la protection de l'information, au Code criminel et à la Loi sur la preuve au Canada : renforcer la législation canadienne contre l'ingérence étrangère (2024-05-06 | Ministère de la Sécurité publique et de la Protection civile)</TitleFr>
+      <Title>Security of Information Act, Criminal Code and Canada Evidence Act Amendments: Bolstering Canada's counter-foreign interference legislation (2024-05-06 | Department of Public Safety and Emergency Preparedness)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/public-safety-canada/news/2024/05/security-of-information-act-criminal-code-and-canada-evidence-act-amendments-bolstering-canadas-counter-foreign-interference-legislation.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/securite-publique-canada/nouvelles/2024/05/modifications-a-la-loi-sur-la-protection-de-linformation-au-code-criminel-et-a-la-loi-sur-la-preuve-au-canada--renforcer-la-legislation-canadienne-.html</UrlFr>
+      <Url>https://www.canada.ca/en/public-safety-canada/news/2024/05/security-of-information-act-criminal-code-and-canada-evidence-act-amendments-bolstering-canadas-counter-foreign-interference-legislation.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Canada's Foreign Influence Transparency Registry (2024-05-06 | Department of Public Safety and Emergency Preparedness)</TitleEn>
+      <TitleFr>Registre canadien pour la transparence en matière d'influence étrangère (2024-05-06 | Ministère de la Sécurité publique et de la Protection civile)</TitleFr>
+      <Title>Canada's Foreign Influence Transparency Registry (2024-05-06 | Department of Public Safety and Emergency Preparedness)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/public-safety-canada/news/2024/05/canadas-foreign-influence-transparency-registry.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/securite-publique-canada/nouvelles/2024/05/registre-canadien-pour-la-transparence-en-matiere-dinfluence-etrangere.html</UrlFr>
+      <Url>https://www.canada.ca/en/public-safety-canada/news/2024/05/canadas-foreign-influence-transparency-registry.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Foreign Interference and Canada (2024-05-06 | Department of Public Safety and Emergency Preparedness)</TitleEn>
+      <TitleFr>L'ingérence étrangère et le Canada (2024-05-06 | Department of Public Safety and Emergency Preparedness)</TitleFr>
+      <Title>Foreign Interference and Canada (2024-05-06 | Department of Public Safety and Emergency Preparedness)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/public-safety-canada/news/2024/05/foreign-interference-and-canada.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/securite-publique-canada/nouvelles/2024/05/lingerence-etrangere-et-le-canada.html</UrlFr>
+      <Url>https://www.canada.ca/en/public-safety-canada/news/2024/05/foreign-interference-and-canada.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>CSIS Act Amendments: Bolstering Canada's counter-foreign interference legislation (2024-05-06 | Department of Public Safety and Emergency Preparedness)</TitleEn>
+      <TitleFr>Modifications à la Loi sur le SCRS : renforcer la législation canadienne contre l'ingérence étrangère (2024-05-06 | Ministère de la Sécurité publique et de la Protection civile)</TitleFr>
+      <Title>CSIS Act Amendments: Bolstering Canada's counter-foreign interference legislation (2024-05-06 | Department of Public Safety and Emergency Preparedness)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/public-safety-canada/news/2024/05/csis-act-amendments-bolstering-canadas-counter-foreign-interference-legislation.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/securite-publique-canada/nouvelles/2024/05/modifications-a-la-loi-sur-le-scrs--renforcer-la-legislation-canadienne-contre-lingerence-etrangere.html</UrlFr>
+      <Url>https://www.canada.ca/en/public-safety-canada/news/2024/05/csis-act-amendments-bolstering-canadas-counter-foreign-interference-legislation.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Canada. Department of Public Safety and Emergency Preparedness. What We Heard Report: Consulting Canadians on the merits of a Foreign Influence Transparency Registry. November 2023</TitleEn>
+      <TitleFr>Canada. Ministère de la Sécurité publique et de la Protection civile. Rapport « Ce que nous avons entendu » : Bilan des consultations des Canadiens sur le bien-fondé d'un registre pour la transparence en matière d'influence étrangère. Novembre 2023</TitleFr>
+      <Title>Canada. Department of Public Safety and Emergency Preparedness. What We Heard Report: Consulting Canadians on the merits of a Foreign Influence Transparency Registry. November 2023</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/2023-nhncng-frgn-nflnc-wwh/index-en.aspx</UrlEn>
+      <UrlFr>https://www.securitepublique.gc.ca/cnt/rsrcs/pblctns/2023-nhncng-frgn-nflnc-wwh/index-fr.aspx</UrlFr>
+      <Url>https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/2023-nhncng-frgn-nflnc-wwh/index-en.aspx</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Canada. Department of Public Safety and Emergency Preparedness. What We Heard and Learned Report: CSIS Act Consultations:  Consultations on Amendments to the Canadian Security Intelligence Service Act.</TitleEn>
+      <TitleFr>Canada. Ministère de la Sécurité publique et de la Protection civile. Rapport sur ce que nous avons entendu et appris lors des consultations sur la Loi sur le SCRS : Consultations concernant les modifications à apporter à la Loi sur le Service canadien du renseignement de sécurité.</TitleFr>
+      <Title>Canada. Department of Public Safety and Emergency Preparedness. What We Heard and Learned Report: CSIS Act Consultations:  Consultations on Amendments to the Canadian Security Intelligence Service Act.</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/csis-cnslttns/index-en.aspx</UrlEn>
+      <UrlFr>https://www.securitepublique.gc.ca/cnt/rsrcs/pblctns/csis-cnslttns/index-fr.aspx</UrlFr>
+      <Url>https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/csis-cnslttns/index-en.aspx</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Canada. Department of Public Safety and Emergency Preparedness. What we heard: Consultation on the proposed reforms to the Security of Information Act, Criminal Code and Canada Evidence Act. 2024</TitleEn>
+      <TitleFr>Canada. Ministère de la Sécurité publique et de la Protection civile. Ce que nous avons entendu : Consultation sur les réformes proposées à la Loi sur la protection de l'information, au Code criminel et à la Loi sur la preuve au Canada. 2024</TitleFr>
+      <Title>Canada. Department of Public Safety and Emergency Preparedness. What we heard: Consultation on the proposed reforms to the Security of Information Act, Criminal Code and Canada Evidence Act. 2024</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.justice.gc.ca/eng/cons/fi-ie/wwh-qne.html</UrlEn>
+      <UrlFr>https://www.justice.gc.ca/fra/cons/ie-fi/qne-wwh.html</UrlFr>
+      <Url>https://www.justice.gc.ca/eng/cons/fi-ie/wwh-qne.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Canada. Department of Public Safety and Emergency Preparedness. CSIS Public Report 2022. March 2023</TitleEn>
+      <TitleFr>Canada. Ministère de la Sécurité publique et de la Protection civile. Rapport public du SCRS 2022. Mars 2023</TitleFr>
+      <Title>Canada. Department of Public Safety and Emergency Preparedness. CSIS Public Report 2022. March 2023</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/security-intelligence-service/corporate/publications/csis-public-report-2022.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/service-renseignement-securite/organisation/publications/rapport-public-du-scrs-2022.html</UrlFr>
+      <Url>https://www.canada.ca/en/security-intelligence-service/corporate/publications/csis-public-report-2022.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Canada. Department of Public Safety and Emergency Preparedness. Foreign Interference.</TitleEn>
+      <TitleFr>Canada, Ministère de la Sécurité publique et de la Protection civile. Ingérence étrangère.</TitleFr>
+      <Title>Canada. Department of Public Safety and Emergency Preparedness. Foreign Interference.</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.publicsafety.gc.ca/cnt/ntnl-scrt/frgn-ntrfrnc/index-en.aspx</UrlEn>
+      <UrlFr>https://www.securitepublique.gc.ca/cnt/ntnl-scrt/frgn-ntrfrnc/index-fr.aspx</UrlFr>
+      <Url>https://www.publicsafety.gc.ca/cnt/ntnl-scrt/frgn-ntrfrnc/index-en.aspx</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Canada. Department of Public Safety and Emergency Preparedness. Government of Canada launches consultation on legislative amendments to counter foreign interference in Canada. November 24, 2023. [Press release]</TitleEn>
+      <TitleFr>Canada, Ministère de la Sécurité publique et de la Protection civile. Government of Canada launches consultation on legislative amendments to counter foreign interference in Canada. 24 novembre 2023. [Communiqué de presse]</TitleFr>
+      <Title>Canada. Department of Public Safety and Emergency Preparedness. Government of Canada launches consultation on legislative amendments to counter foreign interference in Canada. November 24, 2023. [Press release]</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/public-safety-canada/news/2023/11/government-of-canada-launches-consultation-on-legislative-amendments-to-counter-foreign-interference-in-canada.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/securite-publique-canada/nouvelles/2023/11/le-gouvernement-du-canada-lance-des-consultations-sur-des-modifications-legislatives-pour-lutter-contre-lingerence-etrangere-au-canada.html</UrlFr>
+      <Url>https://www.canada.ca/en/public-safety-canada/news/2023/11/government-of-canada-launches-consultation-on-legislative-amendments-to-counter-foreign-interference-in-canada.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Charter Statement - Bill C-70 An Act respecting countering foreign interference (Tabled 2024-06-04)</TitleEn>
+      <TitleFr>Énoncé concernant la Charte - Projet de loi C-70 : Loi concernant la lutte contre l'ingérence étrangère (Déposé 2024-06-04)</TitleFr>
+      <Title>Charter Statement - Bill C-70 An Act respecting countering foreign interference (Tabled 2024-06-04)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.justice.gc.ca/eng/csj-sjc/pl/charter-charte/c70.html</UrlEn>
+      <UrlFr>https://www.justice.gc.ca/fra/sjc-csj/pl/charte-charter/c70.html</UrlFr>
+      <Url>https://www.justice.gc.ca/eng/csj-sjc/pl/charter-charte/c70.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Legislation to counter foreign interference receives Royal Assent (2024-06-21 | Department of Public Safety and Emergency Preparedness)</TitleEn>
+      <TitleFr>Le projet de loi visant à lutter contre l'ingérence étrangère reçoit la sanction royale (2024-06-21 | Ministère de la Sécurité publique et de la Protection civil)</TitleFr>
+      <Title>Legislation to counter foreign interference receives Royal Assent (2024-06-21 | Department of Public Safety and Emergency Preparedness)</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/public-safety-canada/news/2024/06/legislation-to-counter-foreign-interference-receives-royal-assent.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/securite-publique-canada/nouvelles/2024/06/le-projet-de-loi-visant-a-lutter-contre-lingerence-etrangere-recoit-la-sanction-royale.html</UrlFr>
+      <Url>https://www.canada.ca/en/public-safety-canada/news/2024/06/legislation-to-counter-foreign-interference-receives-royal-assent.html</Url>
+    </WebReferences>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3414</BibliographicNoticeId>
+      <Title>Sweeping national security bill [C-70] would boost state investigative powers; expand &amp; create crimes, AMPs</Title>
+      <Author>Schmitz, Cristin</Author>
+      <Publication>Law360 Canada</Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>May 7, 2024</PublicationDate>
+      <Classification>Radar 20240521</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3418</BibliographicNoticeId>
+      <Title>Expanding the criminal law again to deal with foreign interference</Title>
+      <Author>Roach, Kent</Author>
+      <Publication>Criminal law quarterly 72(3) : p.221-223, July 2024</Publication>
+      <VolumePage>72(3) : p.221-223</VolumePage>
+      <PublicationDate>July 2024</PublicationDate>
+      <Classification>Radar 20240723</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3457</BibliographicNoticeId>
+      <Title>Countering foreign disinformation : building a resilient Canadian democracy through stronger education and regulation</Title>
+      <Author>Hogue, Simon; Lavallée, Magalie; Fung,  Benjamin C.M.</Author>
+      <Publication>International journal</Publication>
+      <VolumePage>80 (3): p.513-523</VolumePage>
+      <PublicationDate>September 2025</PublicationDate>
+      <Classification>Radar 20250923</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <SenatePreStudyCommitteeDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <CommitteeOrganizationId>16087</CommitteeOrganizationId>
+      <CommitteeNameEn>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeNameEn>
+      <CommitteeNameFr>Comité sénatorial permanent de la sécurité nationale, de la défense et des anciens combattants</CommitteeNameFr>
+      <CommitteeAcronym>SECD</CommitteeAcronym>
+      <CommitteeName>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeName>
+      <StudyActivityId />
+      <OrganizationTypeId />
+      <ParentCommittee />
+      <IsSubCommittee>false</IsSubCommittee>
+      <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+      <IsSenateCommittee>false</IsSenateCommittee>
+      <IsJointCommittee>false</IsJointCommittee>
+    </SenatePreStudyCommitteeDetails>
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
