@@ -6,7 +6,7 @@ Her Excellency the Governor General recommends to the House of Commons the appro
 
 ## Summary
 
-This enactment sets out the principles that the Minister of Health is to consider when working towards the implementation of national universal pharmacare and provides the Minister with the power to make payments, in certain circumstances, in relation to the coverage of certain prescription drugs and related products. It also sets out certain powers and obligations of the Minister — including in relation to the preparation of a list to inform the development of a national formulary and in relation to the development of a national bulk purchasing strategy — and requires the Minister to publish a pan-Canadian strategy regarding the appropriate use of prescription drugs and related products. Finally, it provides for the establishment of a committee of experts to make certain recommendations.
+This enactment sets out the principles that the Minister of Health is to consider when working towards the implementation of national universal pharmacare and obliges the Minister to make payments, in certain circumstances, in relation to the coverage of certain prescription drugs and related products. It also sets out certain powers and obligations of the Minister — including in relation to the preparation of a list to inform the development of a national formulary and in relation to the development of a national bulk purchasing strategy — and requires the Minister to publish a pan-Canadian strategy regarding the appropriate use of prescription drugs and related products. Finally, it provides for the establishment of a committee of experts to make certain recommendations.
 
 Whereas the Government of Canada recognizes that quality health care, including access to prescription drugs and related products, is critical to protecting and promoting the health and well-being of Canadians;
 
@@ -80,7 +80,7 @@ The Government of Canada commits to maintaining long-term funding for the provin
 
 ### Section 6
 
-  **(1)** The Minister may, if the Minister has entered into an agreement with a province or territory to do so, make payments to the province or territory in order to increase any existing public pharmacare coverage — and to provide universal, single-payer, first-dollar coverage — for specific prescription drugs and related products intended for contraception or the treatment of diabetes.
+  **(1)** The Minister **must**, if the Minister has entered into an agreement with a province or territory to do so, make payments to the province or territory in order to increase any existing public pharmacare coverage — and to provide universal, single-payer, first-dollar coverage — for specific prescription drugs and related products intended for contraception or the treatment of diabetes.
 
   **(2)** For greater certainty, any agreement referred to in subsection (1) with a province or territory is to provide for first-dollar coverage to patients.
 
@@ -91,7 +91,7 @@ The Government of Canada commits to maintaining long-term funding for the provin
 
 ### Section 7
 
-The Minister may seek advice from the Canadian Drug Agency on
+The Minister **must** seek advice from the Canadian Drug Agency on
 
 the clinical effectiveness and cost-effectiveness of prescription drugs and related products compared to other treatment options;
 
@@ -130,4 +130,6 @@ The Minister must, after discussions with the provinces and territories, request
   **(1)** The Minister must, no later than 30 days after the day on which this Act receives royal assent, establish a committee of experts, and provide for its membership, to make recommendations respecting options for the operation and financing of national, universal, single-payer pharmacare.
 
   **(2)** The committee must, no later than the first anniversary of the day on which this Act receives royal assent, provide a written report to the Minister setting out its recommendations.
+
+  **(3)** The Minister must cause a copy of the report to be tabled in each House of Parliament on any of the first 20 days on which that House is sitting after the day on which the Minister receives the report.
 
