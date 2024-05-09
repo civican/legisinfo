@@ -42,17 +42,11 @@ This Act is binding on His Majesty in right of Canada or a province.
 
 ### Section 4
 
-  **(1)** It is prohibited for a person to export a horse from Canada by air unless they have, in the form and manner specified by the Minister, provided the Minister with a written declaration attesting that, to the best of their knowledge, the horse is not being exported for the purpose of being slaughtered or fattened for slaughter, **or any other document that is satisfactory to the Minister**, as well as with any other documentation that the Minister may require.
-
-  **(2)** [*Deleted*]
-
-  **(3)** [*Deleted*]
-
-  **(4)** [*Deleted*]
+It is prohibited for a person to export a horse from Canada by air unless they have, in the form and manner specified by the Minister, provided the Minister with a written declaration attesting that, to the best of their knowledge, the horse is not being exported for the purpose of being slaughtered or fattened for slaughter, or any other document that is satisfactory to the Minister, as well as with any other documentation that the Minister may require.
 
 ### Section 5
 
-It is prohibited for a person who submits a declaration under subsection 4(1) to provide false or misleading information or make a false or misleading statement in respect of the declaration or any matter related to the declaration.
+It is prohibited for a person who submits a declaration under section 4 to provide false or misleading information or make a false or misleading statement in respect of the declaration or any matter related to the declaration.
 
 ### Section 6
 
@@ -70,16 +64,9 @@ A person is not to be found guilty of an offence under this Act if they establis
 ## Related Amendments
 
 
-### Customs Act
-
-### Section 8
-
-[**Deleted**]
-
-
 ### Canadian Food Inspection Agency Act
 
-### Section 9
+### Section 8
 
 Subsection 11(1) of the `Canadian Food Inspection Agency Act` is replaced by the following:
 
@@ -90,7 +77,7 @@ Subsection 11(1) of the `Canadian Food Inspection Agency Act` is replaced by the
 
 ### Canada Border Services Agency Act
 
-### Section 10
+### Section 9
 
 Paragraph 9(2)(b) of the `Canada Border Services Agency Act` is replaced by the following:
 
@@ -99,7 +86,7 @@ as an inspector or a veterinary inspector or other officer for the enforcement o
 
 ## Coming into Force
 
-### Section 11
+### Section 10
 
 This Act comes into force 18 months after the day on which it receives royal assent.
 
