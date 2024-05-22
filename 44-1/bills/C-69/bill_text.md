@@ -236,29 +236,7 @@ Division 36 of Part 4 amends the `Radiocommunication Act` to, among other things
 
 Division 37 of Part 4 amends the `Telecommunications Act` to, among other things, require telecommunications service providers to provide their subscribers with a self-service mechanism that allows them to cancel their contract for telecommunications services or modify their telecommunications service plan and to inform those subscribers before the expiry of their fixed-term contract, as well as in other specified circumstances, of other service plans that those providers offer. It also amends that Act to prohibit the charging of certain fees.
 
-Division 38 of Part 4 amends the `Immigration and Refugee Protection Act` to, among other things,
-
-eliminate the designated countries of origin regime;
-
-expand the powers of the Minister of Citizenship and Immigration to specify the information and documents that are required in support of a claim for refugee protection;
-
-authorize the Refugee Protection Division of the Immigration and Refugee Board to determine that claims for refugee protection that have not yet been referred to the Refugee Protection Division have been abandoned in certain circumstances;
-
-provide the Minister of Citizenship and Immigration with the power to determine that claims for refugee protection that have not yet been referred to the Refugee Protection Division have been withdrawn in certain circumstances;
-
-require that certain refugee claimants be authorized to enter and remain in Canada until a final determination is made in respect of their claim;
-
-authorize regulations to be made setting out conditions that must be imposed on refugee claimants who are authorized to enter and remain in Canada;
-
-provide for the deemed inadmissibility of foreign nationals whose refugee claims are rejected or determined to be abandoned or withdrawn and for the automatic making of removal orders in those circumstances;
-
-require the Refugee Protection Division and the Refugee Appeal Division to suspend certain proceedings respecting a claim for refugee protection if the claimant is not present in Canada;
-
-clarify that decisions of the Immigration and Refugee Board must be rendered, and reasons for those decisions must be given, in the manner specified by its Chairperson; and
-
-provide the Minister of Citizenship and Immigration and the Minister of Public Safety and Emergency Preparedness with the power to designate, in relation to certain proceedings or applications, a representative for persons who are under 18 years of age or who are unable to appreciate the nature of the proceeding or application.
-
-Finally, it also includes transitional provisions.
+[Deleted]
 
 Division 39 of Part 4 amends the `Corrections and Conditional Release Act` to, among other things,
 
@@ -268,7 +246,7 @@ control the access of the inmates of a penitentiary to a designated immigrant st
 
 provide that, in exigent circumstances, staff members of the Service may provide additional support to detention enforcement officers of the Agency to assist them in the exercise of certain powers or the performance of certain duties and functions.
 
-It also amends the `Immigration and Refugee Protection Act` to define the term "immigrant station" and provide that an area of a penitentiary may be an immigrant station only if it is designated under the `Corrections and Conditional Release Act`.
+It also amends the `Immigration and Refugee Protection Act` to define the term "immigrant station", to provide that an area of a penitentiary may be an immigrant station only if it is designated under the `Corrections and Conditional Release Act` and to set out the circumstances under which a person detained under that Act may be detained in a designated immigrant station.
 
 Finally, it provides for the repeal of those amendments on a specified date and includes a transitional provision.
 
@@ -1062,7 +1040,7 @@ Order in council
 
 
 
-### `Immigration and Refugee Protection Act` (In-Canada Asylum System)
+### [*Deleted*]
 
 
 
@@ -1127,13 +1105,13 @@ This Act may be cited as the `Budget Implementation Act, 2024, No. 1`.
 
     **(1.11)** For the purposes of this section, a mutual fund trust is deemed not to deal at arm's length with a corporation only if
 
-      the trust controls the corporation; **or**
+      the trust controls the corporation; or
 
       the corporation holds securities that give the corporation not less than 50% of the votes that could be cast at a meeting of the unitholders of the trust.
 
   **(2)** The portion of subsection 7(1.31) of the Act before paragraph (a) is replaced by the following:
 
-    **(1.31)** Where a taxpayer acquires at a particular time a particular security under an agreement referred to in subsection (1) — **or acquires the particular security as consideration for the disposition of rights under the agreement** — and, on a day that is no later than 30 days after the day that includes the particular time, the taxpayer disposes of a security that is identical to the particular security, the particular security is deemed to be the security that is so disposed of if
+    **(1.31)** Where a taxpayer acquires at a particular time a particular security under an agreement referred to in subsection (1) — or acquires the particular security as consideration for the disposition of rights under the agreement — and, on a day that is no later than 30 days after the day that includes the particular time, the taxpayer disposes of a security that is identical to the particular security, the particular security is deemed to be the security that is so disposed of if
 
   **(3)** Subsection (1) applies to rights exercised or disposed of after 2004 under agreements to sell or issue securities made after 2002.
 
@@ -1143,25 +1121,25 @@ This Act may be cited as the `Budget Implementation Act, 2024, No. 1`.
 
   **(1)** Subparagraph 8(1)(f)(vi) of the French version of the Act is replaced by the following:
 
-    des dépenses qui ne seraient pas, en vertu de l'alinéa 18(1)l), déductibles dans le calcul du revenu du contribuable pour l'année, si son emploi **consistait en une** entreprise exploitée par lui;
+    des dépenses qui ne seraient pas, en vertu de l'alinéa 18(1)l), déductibles dans le calcul du revenu du contribuable pour l'année, si son emploi consistait en une entreprise exploitée par lui;
 
   **(2)** The portion of paragraph 8(1)(g) of the French version of the Act after subparagraph (ii) is replaced by the following:
 
-    les sommes qu'il a ainsi déboursées au cours de l'année, dans la mesure où il **n'a pas été remboursé et** n'a pas le droit d'être remboursé à cet égard;
+    les sommes qu'il a ainsi déboursées au cours de l'année, dans la mesure où il n'a pas été remboursé et n'a pas le droit d'être remboursé à cet égard;
 
   **(3)** The portion of paragraph 8(1)(i) of the French version of the Act before subparagraph (i) is replaced by the following:
 
-    **dans la mesure où il n'a pas été remboursé et n'a pas le droit d'être remboursé à cet égard**, les sommes payées par le contribuable au cours de l'année, ou les sommes payées pour son compte au cours de l'année si elles sont à inclure dans son revenu pour l'année, au titre :
+    dans la mesure où il n'a pas été remboursé et n'a pas le droit d'être remboursé à cet égard, les sommes payées par le contribuable au cours de l'année, ou les sommes payées pour son compte au cours de l'année si elles sont à inclure dans son revenu pour l'année, au titre :
 
 ### Section 5
 
   **(1)** Paragraph 12(1)(t) of the Act is replaced by the following:
 
-    the amount deducted under subsection 127(5) or (6) **or 127.48(3)** in respect of a property acquired or an expenditure made in a preceding taxation year in computing the taxpayer's tax payable for a preceding taxation year to the extent that it was not included in computing the taxpayer's income for a preceding taxation year under this paragraph or is not included in an amount determined under paragraph 13(7.1)(e) or 37(1)(e), subparagraph 53(2)(c)(vi) **or (viii.1)** or (h)(ii) or for I in the definition undepreciated capital cost in subsection 13(21) or L in the definition cumulative Canadian exploration expense in subsection 66.1(6);
+    the amount deducted under subsection 127(5) or (6) or 127.48(3) in respect of a property acquired or an expenditure made in a preceding taxation year in computing the taxpayer's tax payable for a preceding taxation year to the extent that it was not included in computing the taxpayer's income for a preceding taxation year under this paragraph or is not included in an amount determined under paragraph 13(7.1)(e) or 37(1)(e), subparagraph 53(2)(c)(vi) or (viii.1) or (h)(ii) or for I in the definition undepreciated capital cost in subsection 13(21) or L in the definition cumulative Canadian exploration expense in subsection 66.1(6);
 
   **(2)** Paragraph 12(1)(t) of the Act, as enacted by subsection (1), is replaced by the following:
 
-    the amount deducted under subsection 127(5) or (6), 127.48(3) or **127.49(6)** in respect of a property acquired or an expenditure made in a preceding taxation year in computing the taxpayer's tax payable for a preceding taxation year to the extent that it was not included in computing the taxpayer's income for a preceding taxation year under this paragraph or is not included in an amount determined under paragraph 13(7.1)(e) or 37(1)(e), subparagraph 53(2)(c)(vi), (viii.1) or **(viii.2)** or (h)(ii) or for I in the definition undepreciated capital cost in subsection 13(21) or L in the definition cumulative Canadian exploration expense in subsection 66.1(6);
+    the amount deducted under subsection 127(5) or (6), 127.48(3) or 127.49(6) in respect of a property acquired or an expenditure made in a preceding taxation year in computing the taxpayer's tax payable for a preceding taxation year to the extent that it was not included in computing the taxpayer's income for a preceding taxation year under this paragraph or is not included in an amount determined under paragraph 13(7.1)(e) or 37(1)(e), subparagraph 53(2)(c)(vi), (viii.1) or (viii.2) or (h)(ii) or for I in the definition undepreciated capital cost in subsection 13(21) or L in the definition cumulative Canadian exploration expense in subsection 66.1(6);
 
   **(3)** Paragraph 12(1)‍(x) of the Act is amended by striking out "and" at the end of subparagraph (vii), by adding "and" at the end of subparagraph (viii) and by adding the following after subparagraph (viii):
 
@@ -1195,11 +1173,11 @@ This Act may be cited as the `Budget Implementation Act, 2024, No. 1`.
 
   **(2)** The portion of subsection 13(7.1) of the Act before paragraph (a) is replaced by the following:
 
-    **(7.1)** For the purposes of this Act, where section 80 applied to reduce the capital cost to a taxpayer of a depreciable property or a taxpayer deducted an amount under subsection 127(5) or (6) **or 127.48(3)** in respect of a depreciable property or received or is entitled to receive assistance from a government, municipality or other public authority in respect of, or for the acquisition of, depreciable property, whether as a grant, subsidy, forgivable loan, deduction from tax, investment allowance or as any other form of assistance other than
+    **(7.1)** For the purposes of this Act, where section 80 applied to reduce the capital cost to a taxpayer of a depreciable property or a taxpayer deducted an amount under subsection 127(5) or (6) or 127.48(3) in respect of a depreciable property or received or is entitled to receive assistance from a government, municipality or other public authority in respect of, or for the acquisition of, depreciable property, whether as a grant, subsidy, forgivable loan, deduction from tax, investment allowance or as any other form of assistance other than
 
   **(3)** The portion of subsection 13(7.1) of the Act before paragraph (a), as enacted by subsection (2), is replaced by the following:
 
-    **(7.1)** For the purposes of this Act, where section 80 applied to reduce the capital cost to a taxpayer of a depreciable property or a taxpayer deducted an amount under subsection 127(5) or (6), 127.48(3) or **127.49(6)** in respect of a depreciable property or received or is entitled to receive assistance from a government, municipality or other public authority in respect of, or for the acquisition of, depreciable property, whether as a grant, subsidy, forgivable loan, deduction from tax, investment allowance or as any other form of assistance other than
+    **(7.1)** For the purposes of this Act, where section 80 applied to reduce the capital cost to a taxpayer of a depreciable property or a taxpayer deducted an amount under subsection 127(5) or (6), 127.48(3) or 127.49(6) in respect of a depreciable property or received or is entitled to receive assistance from a government, municipality or other public authority in respect of, or for the acquisition of, depreciable property, whether as a grant, subsidy, forgivable loan, deduction from tax, investment allowance or as any other form of assistance other than
 
   **(4)** Subsection 13(7.1) of the Act is amended by striking out "or" at the end of paragraph (b), by adding "or" at the end of paragraph (b.1) and by adding the following after paragraph (b.1):
 
@@ -1207,27 +1185,27 @@ This Act may be cited as the `Budget Implementation Act, 2024, No. 1`.
 
   **(5)** Paragraph 13(7.1)(e) of the Act is replaced by the following:
 
-    where the property was acquired in a taxation year ending before the particular time, all amounts deducted under subsection 127(5) or (6) **or 127.48(3)** by the taxpayer for a taxation year ending before the particular time,
+    where the property was acquired in a taxation year ending before the particular time, all amounts deducted under subsection 127(5) or (6) or 127.48(3) by the taxpayer for a taxation year ending before the particular time,
 
   **(6)** Paragraph 13(7.1)(e) of the Act, as enacted by subsection (5), is replaced by the following:
 
-    where the property was acquired in a taxation year ending before the particular time, all amounts deducted under subsection 127(5) or (6), 127.48(3) or **127.49(6)** by the taxpayer for a taxation year ending before the particular time,
+    where the property was acquired in a taxation year ending before the particular time, all amounts deducted under subsection 127(5) or (6), 127.48(3) or 127.49(6) by the taxpayer for a taxation year ending before the particular time,
 
   **(7)** The description of I in the definition **undepreciated capital cost** in subsection 13(21) of the Act is replaced by the following:
 
-    is the total of all amounts deducted under subsection 127(5) or (6) **or 127.48(3)**, in respect of a depreciable property of the class of the taxpayer, in computing the taxpayer's tax payable for a taxation year ending before that time and subsequent to the disposition of that property by the taxpayer,
+    is the total of all amounts deducted under subsection 127(5) or (6) or 127.48(3), in respect of a depreciable property of the class of the taxpayer, in computing the taxpayer's tax payable for a taxation year ending before that time and subsequent to the disposition of that property by the taxpayer,
 
   **(8)** The description of I in the definition **undepreciated capital cost** in subsection 13(21) of the Act, as enacted by subsection (7), is replaced by the following:
 
-    is the total of all amounts deducted under subsection 127(5) or (6), 127.48(3) or **127.49(6)**, in respect of a depreciable property of the class of the taxpayer, in computing the taxpayer's tax payable for a taxation year ending before that time and subsequent to the disposition of that property by the taxpayer,
+    is the total of all amounts deducted under subsection 127(5) or (6), 127.48(3) or 127.49(6), in respect of a depreciable property of the class of the taxpayer, in computing the taxpayer's tax payable for a taxation year ending before that time and subsequent to the disposition of that property by the taxpayer,
 
   **(9)** The portion of paragraph 13(24)(a) of the Act before subparagraph (i) is replaced by the following:
 
-    subject to paragraph (b), for the purposes of the description of A in the definition undepreciated capital cost in subsection (21) and of sections 127, 127.1 and **127.48**, the property is deemed
+    subject to paragraph (b), for the purposes of the description of A in the definition undepreciated capital cost in subsection (21) and of sections 127, 127.1 and 127.48, the property is deemed
 
   **(10)** The portion of paragraph 13(24)(a) of the Act before subparagraph (i), as enacted by subsection (9), is replaced by the following:
 
-    subject to paragraph (b), for the purposes of the description of A in the definition undepreciated capital cost in subsection (21) and of sections 127, 127.1, 127.48 and **127.49**, the property is deemed
+    subject to paragraph (b), for the purposes of the description of A in the definition undepreciated capital cost in subsection (21) and of sections 127, 127.1, 127.48 and 127.49, the property is deemed
 
   **(11)** Subsection (1) is deemed to have come into force on March 12, 2020.
 
@@ -1241,7 +1219,7 @@ This Act may be cited as the `Budget Implementation Act, 2024, No. 1`.
 
 Clause 39(1)(c)(iv)(C) of the Act is replaced by the following:
 
-a corporation referred to in section 6 of the **`Winding-up and Restructuring Act`** that was insolvent (within the meaning of that Act) and was a small business corporation at the time a winding-up order under that Act was made in respect of the corporation,
+a corporation referred to in section 6 of the `Winding-up and Restructuring Act` that was insolvent (within the meaning of that Act) and was a small business corporation at the time a winding-up order under that Act was made in respect of the corporation,
 
 ### Section 8
 
@@ -1255,17 +1233,17 @@ a corporation referred to in section 6 of the **`Winding-up and Restructuring Ac
 
 Subparagraph 50(1)(b)(ii) of the Act is replaced by the following:
 
-the corporation is a corporation referred to in section 6 of the **`Winding-up and Restructuring Act`** that is insolvent (within the meaning of that Act) and in respect of which a winding-up order under that Act has been made in the year, or
+the corporation is a corporation referred to in section 6 of the `Winding-up and Restructuring Act` that is insolvent (within the meaning of that Act) and in respect of which a winding-up order under that Act has been made in the year, or
 
 ### Section 10
 
   **(1)** Subparagraph 53(1)(e)(xiii) of the Act is replaced by the following:
 
-    any amount required by subsection 127(30) **or section 127.48** to be added to the taxpayer's tax otherwise payable under this Part for a taxation year that ended before that time **in respect of the interest in the partnership**;
+    any amount required by subsection 127(30) or section 127.48 to be added to the taxpayer's tax otherwise payable under this Part for a taxation year that ended before that time in respect of the interest in the partnership;
 
   **(2)** Subparagraph 53(1)(e)(xiii) of the Act, as enacted by subsection (1), is replaced by the following:
 
-    any amount required by subsection 127(30), section 127.48 or **subsection 127.49(17)** to be added to the taxpayer's tax otherwise payable under this Part for a taxation year that ended before that time in respect of the interest in the partnership;
+    any amount required by subsection 127(30), section 127.48 or subsection 127.49(17) to be added to the taxpayer's tax otherwise payable under this Part for a taxation year that ended before that time in respect of the interest in the partnership;
 
   **(3)** Paragraph 53(2)(c) of the Act is amended by adding the following after subparagraph (viii):
 
@@ -1283,17 +1261,17 @@ the corporation is a corporation referred to in section 6 of the **`Winding-up a
 
   **(1)** Paragraph (b) of the description of B of the definition **exemption threshold** in section 54 of the English version of the Act is replaced by the following:
 
-    the exemption threshold of the taxpayer in respect of the **flow-through** share class of property immediately before that earlier time;
+    the exemption threshold of the taxpayer in respect of the flow-through share class of property immediately before that earlier time;
 
   **(2)** The portion of paragraph (b) of the definition **fresh-start date** in section 54 of the English version of the Act before subparagraph (i) is replaced by the following:
 
-    in the case of any other property that is included in the **flow-through** share class of property, the day that is the later of
+    in the case of any other property that is included in the flow-through share class of property, the day that is the later of
 
 ### Section 12
 
 Subparagraph 56(1)(a)(iv) of the Act is replaced by the following:
 
-a benefit under Part I, VII.1, VIII or VIII.1 of the `**Employment** Insurance Act`,
+a benefit under Part I, VII.1, VIII or VIII.1 of the `Employment Insurance Act`,
 
 ### Section 13
 
@@ -1327,7 +1305,7 @@ a benefit under Part I, VII.1, VIII or VIII.1 of the `**Employment** Insurance A
 
   **(1)** Paragraph 66(12.73)(e) of the Act is replaced by the following:
 
-    **if** a corporation **fails to file the statement within the time required or** fails in the statement **filed** to apply the excess fully to reduce one or more purported renunciations, the Minister may at any time reduce the total amount purported to be renounced by the corporation to one or more persons by the amount of the unapplied excess in which case, except for the purpose of Part XII.6, the amount purported to have been so renounced to a person is deemed, after that time, always to have been reduced by the portion of the unapplied excess allocated by the Minister in respect of that person.
+    if a corporation fails to file the statement within the time required or fails in the statement filed to apply the excess fully to reduce one or more purported renunciations, the Minister may at any time reduce the total amount purported to be renounced by the corporation to one or more persons by the amount of the unapplied excess in which case, except for the purpose of Part XII.6, the amount purported to have been so renounced to a person is deemed, after that time, always to have been reduced by the portion of the unapplied excess allocated by the Minister in respect of that person.
 
   **(2)** Subsection (1) is deemed to have come into force on August 4, 2023.
 
@@ -1335,11 +1313,11 @@ a benefit under Part I, VII.1, VIII or VIII.1 of the `**Employment** Insurance A
 
   **(1)** Subclause 66.8(1)(a)(ii)(B)(I) of the Act is replaced by the following:
 
-    the **total of all amounts** required by subsections 127(8) **and 127.48(12)** in respect of the partnership to be added in computing the investment tax credit **or the clean hydrogen tax credit (as defined in subsection 127.48(1)**) of the taxpayer in respect of the fiscal period, and
+    the total of all amounts required by subsections 127(8) and 127.48(12) in respect of the partnership to be added in computing the investment tax credit or the clean hydrogen tax credit (as defined in subsection 127.48(1)) of the taxpayer in respect of the fiscal period, and
 
   **(2)** Subclause 66.8(1)(a)(ii)(B)(I) of the Act, as enacted by subsection (1), is replaced by the following:
 
-    the total of all amounts required by subsections 127(8), 127.48(12) and **127.49(8)** in respect of the partnership to be added in computing the investment tax credit, the clean hydrogen tax credit (as defined in subsection 127.48(1)) or **the CTM investment tax credit (as defined in subsection 127.49(1)**) of the taxpayer in respect of the fiscal period, and
+    the total of all amounts required by subsections 127(8), 127.48(12) and 127.49(8) in respect of the partnership to be added in computing the investment tax credit, the clean hydrogen tax credit (as defined in subsection 127.48(1)) or the CTM investment tax credit (as defined in subsection 127.49(1)) of the taxpayer in respect of the fiscal period, and
 
   **(3)** Subsection (1) is deemed to have come into force immediately after the expiration of March 27, 2023.
 
@@ -1391,7 +1369,7 @@ a benefit under Part I, VII.1, VIII or VIII.1 of the `**Employment** Insurance A
 
   **(2)** The portion of subparagraph 81(1)(g.3)(i) of the Act before clause (A) is replaced by the following:
 
-    the taxpayer is **a** trust established under
+    the taxpayer is a trust established under
 
   **(3)** Subparagraph 81(1)(g.3)(i) of the Act is amended by striking out "or" at the end of clause (D), by replacing "and" at the end of clause (E) with "or" and by adding the following after clause (E):
 
@@ -1409,7 +1387,7 @@ a benefit under Part I, VII.1, VIII or VIII.1 of the `**Employment** Insurance A
 
   **(2)** Paragraph 87(2)(qq.1) of the Act, as enacted by subsection (1), is replaced by the following:
 
-    for the purposes of sections 127.48 **and 127.49**, the new corporation is deemed to be the same corporation as, and a continuation of, each predecessor corporation;
+    for the purposes of sections 127.48 and 127.49, the new corporation is deemed to be the same corporation as, and a continuation of, each predecessor corporation;
 
   **(3)** Subsection (1) is deemed to have come into force immediately after the expiration of March 27, 2023.
 
@@ -1423,19 +1401,19 @@ a benefit under Part I, VII.1, VIII or VIII.1 of the `**Employment** Insurance A
 
   **(2)** Paragraph 88(1)(e.31) of the Act, as enacted by subsection (1), is replaced by the following:
 
-    for the purposes of sections 127.48 and **127.49**, at the end of any particular taxation year ending after the subsidiary was wound up, the parent is deemed to be the same corporation as, and a continuation of, the subsidiary;
+    for the purposes of sections 127.48 and 127.49, at the end of any particular taxation year ending after the subsidiary was wound up, the parent is deemed to be the same corporation as, and a continuation of, the subsidiary;
 
   **(3)** Paragraph 88(2)(c) of the Act is replaced by the following:
 
     for the purpose of computing the income of the corporation for its taxation year that includes the particular time, paragraph 12(1)(t) shall be read as follows:
 
-    the amount deducted under subsection 127(5) or (6) **or 127.48(3)** in computing the taxpayer's tax payable for the year or a preceding taxation year to the extent that it was not included under this paragraph in computing the taxpayer's income for a preceding taxation year or is not included in an amount determined under paragraph 13(7.1)(e) or 37(1)(e) or subparagraph 53(2)(c)(vi) **or (viii.1)** or (h)(ii) or the amount determined for I in the definition undepreciated capital cost in subsection 13(21) or L in the definition cumulative Canadian exploration expense in subsection 66.1(6);".
+    the amount deducted under subsection 127(5) or (6) or 127.48(3) in computing the taxpayer's tax payable for the year or a preceding taxation year to the extent that it was not included under this paragraph in computing the taxpayer's income for a preceding taxation year or is not included in an amount determined under paragraph 13(7.1)(e) or 37(1)(e) or subparagraph 53(2)(c)(vi) or (viii.1) or (h)(ii) or the amount determined for I in the definition undepreciated capital cost in subsection 13(21) or L in the definition cumulative Canadian exploration expense in subsection 66.1(6);".
 
   **(4)** Paragraph 88(2)(c) of the Act, as enacted by subsection (3), is replaced by the following:
 
     for the purpose of computing the income of the corporation for its taxation year that includes the particular time, paragraph 12(1)(t) shall be read as follows:
 
-    the amount deducted under subsection 127(5) or (6), 127.48(3) or **127.49(6)** in computing the taxpayer's tax payable for the year or a preceding taxation year to the extent that it was not included under this paragraph in computing the taxpayer's income for a preceding taxation year or is not included in an amount determined under paragraph 13(7.1)(e) or 37(1)(e) or subparagraph 53(2)(c)(vi), (viii.1) or **(viii.2)** or (h)(ii) or the amount determined for I in the definition undepreciated capital cost in subsection 13(21) or L in the definition cumulative Canadian exploration expense in subsection 66.1(6);".
+    the amount deducted under subsection 127(5) or (6), 127.48(3) or 127.49(6) in computing the taxpayer's tax payable for the year or a preceding taxation year to the extent that it was not included under this paragraph in computing the taxpayer's income for a preceding taxation year or is not included in an amount determined under paragraph 13(7.1)(e) or 37(1)(e) or subparagraph 53(2)(c)(vi), (viii.1) or (viii.2) or (h)(ii) or the amount determined for I in the definition undepreciated capital cost in subsection 13(21) or L in the definition cumulative Canadian exploration expense in subsection 66.1(6);".
 
   **(5)** Subsections (1) and (3) are deemed to have come into force immediately after the expiration of March 27, 2023.
 
@@ -1451,7 +1429,7 @@ Section 89 of the Act is amended by adding the following after subsection (14.1)
 
   **(1)** The portion of clause 95(2)(a)(ii)(D) of the Act before subclause (III) is replaced by the following:
 
-    by another foreign affiliate (referred to in this clause as the "second affiliate") of the taxpayer — in respect of which the taxpayer has a qualifying interest throughout the year — to the extent that the amounts are paid or payable by the second affiliate, in respect of any particular period in the year, **under a legal obligation to pay interest in respect of**
+    by another foreign affiliate (referred to in this clause as the "second affiliate") of the taxpayer — in respect of which the taxpayer has a qualifying interest throughout the year — to the extent that the amounts are paid or payable by the second affiliate, in respect of any particular period in the year, under a legal obligation to pay interest in respect of
 
     borrowed money used for the purpose of earning income from property, or
 
@@ -1465,27 +1443,27 @@ Section 89 of the Act is amended by adding the following after subsection (14.1)
 
   **(1)** Subparagraph 96(2.1)(b)(ii) of the Act is replaced by the following:
 
-    the amount required by subsection 127(8) **or 127.48(12)** in respect of the partnership to be added in computing the investment tax credit **or the clean hydrogen tax credit (as defined in subsection 127.48(1)**) of the taxpayer for the taxation year,
+    the amount required by subsection 127(8) or 127.48(12) in respect of the partnership to be added in computing the investment tax credit or the clean hydrogen tax credit (as defined in subsection 127.48(1)) of the taxpayer for the taxation year,
 
   **(2)** Subparagraph 96(2.1)(b)(ii) of the Act, as enacted by subsection (1), is replaced by the following:
 
-    the amount required by subsection 127(8), 127.48(12) **or 127.49(8)** in respect of the partnership to be added in computing the investment tax credit, the clean hydrogen tax credit (as defined in subsection 127.48(1)) or **the CTM investment tax credit (as defined in subsection 127.49(1)**) of the taxpayer for the taxation year,
+    the amount required by subsection 127(8), 127.48(12) or 127.49(8) in respect of the partnership to be added in computing the investment tax credit, the clean hydrogen tax credit (as defined in subsection 127.48(1)) or the CTM investment tax credit (as defined in subsection 127.49(1)) of the taxpayer for the taxation year,
 
   **(3)** The portion of subsection 96(2.2) of the Act before paragraph (a) is replaced by the following:
 
-    **(2.2)** For the purposes of this section and sections 111, 127, **127.48** and **127.491**, the at-risk amount of a taxpayer, in respect of a partnership of which the taxpayer is a limited partner, at any particular time is the amount, if any, by which the total of
+    **(2.2)** For the purposes of this section and sections 111, 127, 127.48 and 127.491, the at-risk amount of a taxpayer, in respect of a partnership of which the taxpayer is a limited partner, at any particular time is the amount, if any, by which the total of
 
   **(4)** The portion of subsection 96(2.2) of the Act before paragraph (a), as enacted by subsection (3), is replaced by the following:
 
-    **(2.2)** For the purposes of this section and sections 111, 127, 127.48, **127.49** and 127.491, the at-risk amount of a taxpayer, in respect of a partnership of which the taxpayer is a limited partner, at any particular time is the amount, if any, by which the total of
+    **(2.2)** For the purposes of this section and sections 111, 127, 127.48, 127.49 and 127.491, the at-risk amount of a taxpayer, in respect of a partnership of which the taxpayer is a limited partner, at any particular time is the amount, if any, by which the total of
 
   **(5)** The portion of subsection 96(2.4) of the Act before paragraph (a) is replaced by the following:
 
-    **(2.4)** For the purposes of this section and sections 111, 127, **127.48** and **127.491**, a taxpayer who is a member of a partnership at a particular time is a limited partner of the partnership at that time if the member's partnership interest is not an exempt interest (within the meaning assigned by subsection (2.5)) at that time and if, at that time or within three years after that time,
+    **(2.4)** For the purposes of this section and sections 111, 127, 127.48 and 127.491, a taxpayer who is a member of a partnership at a particular time is a limited partner of the partnership at that time if the member's partnership interest is not an exempt interest (within the meaning assigned by subsection (2.5)) at that time and if, at that time or within three years after that time,
 
   **(6)** The portion of subsection 96(2.4) of the Act before paragraph (a), as enacted by subsection (5), is replaced by the following:
 
-    **(2.4)** For the purposes of this section and sections 111, 127, 127.48, **127.49** and 127.491, a taxpayer who is a member of a partnership at a particular time is a limited partner of the partnership at that time if the member's partnership interest is not an exempt interest (within the meaning assigned by subsection (2.5)) at that time and if, at that time or within three years after that time,
+    **(2.4)** For the purposes of this section and sections 111, 127, 127.48, 127.49 and 127.491, a taxpayer who is a member of a partnership at a particular time is a limited partner of the partnership at that time if the member's partnership interest is not an exempt interest (within the meaning assigned by subsection (2.5)) at that time and if, at that time or within three years after that time,
 
   **(7)** Subsections (1), (3) and (5) are deemed to have come into force immediately after the expiration of March 27, 2023.
 
@@ -1503,11 +1481,11 @@ Section 89 of the Act is amended by adding the following after subsection (14.1)
 
   **(1)** Clause 111(1)(e)(ii)(A) of the Act is replaced by the following:
 
-    the amount required by subsection 127(8) **or 127.48(12)** in respect of the partnership to be added in computing the investment tax credit **or the clean hydrogen tax credit (as defined in subsection 127.48(1)**) of the taxpayer for the taxation year,
+    the amount required by subsection 127(8) or 127.48(12) in respect of the partnership to be added in computing the investment tax credit or the clean hydrogen tax credit (as defined in subsection 127.48(1)) of the taxpayer for the taxation year,
 
   **(2)** Clause 111(1)(e)(ii)(A) of the Act, as enacted by subsection (1), is replaced by the following:
 
-    the amount required by subsection 127(8), 127.48(12) or **127.49(8)** in respect of the partnership to be added in computing the investment tax credit, the clean hydrogen tax credit (as defined in subsection 127.48(1)) or **the CTM investment tax credit (as defined in subsection 127.49(1)**) of the taxpayer for the taxation year,
+    the amount required by subsection 127(8), 127.48(12) or 127.49(8) in respect of the partnership to be added in computing the investment tax credit, the clean hydrogen tax credit (as defined in subsection 127.48(1)) or the CTM investment tax credit (as defined in subsection 127.49(1)) of the taxpayer for the taxation year,
 
   **(3)** Subsection (1) is deemed to have come into force immediately after the expiration of March 27, 2023.
 
@@ -1517,21 +1495,21 @@ Section 89 of the Act is amended by adding the following after subsection (14.1)
 
   **(1)** Paragraph 116(5)(a) of the French version of the Act is replaced by the following:
 
-    après enquête **raisonnable**, l'acheteur n'avait aucune raison de croire que la personne ne résidait pas au Canada;
+    après enquête raisonnable, l'acheteur n'avait aucune raison de croire que la personne ne résidait pas au Canada;
 
   **(2)** Paragraph 116(5.01)(a) of the French version of the Act is replaced by the following:
 
-    après enquête **raisonnable**, l'acheteur en vient à la conclusion que la personne non-résidente est, aux termes d'un traité fiscal que le Canada a conclu avec un pays donné, un résident de ce pays;
+    après enquête raisonnable, l'acheteur en vient à la conclusion que la personne non-résidente est, aux termes d'un traité fiscal que le Canada a conclu avec un pays donné, un résident de ce pays;
 
   **(3)** The portion of paragraph 116(5.3)(a) of the French version of the Act before subparagraph (i) is replaced by the following:
 
-    le contribuable, sauf si le paragraphe (5.01) s'applique à l'acquisition ou si, après enquête **raisonnable**, le contribuable n'avait pas de raison de croire que la personne non-résidente n'était pas un résident du Canada, est tenu de payer, au titre de l'impôt prévu par la présente partie pour l'année pour le compte de la personne non-résidente, 50 % de l'excédent du montant visé au sous-alinéa (i) sur le montant visé au sous-alinéa (ii) :
+    le contribuable, sauf si le paragraphe (5.01) s'applique à l'acquisition ou si, après enquête raisonnable, le contribuable n'avait pas de raison de croire que la personne non-résidente n'était pas un résident du Canada, est tenu de payer, au titre de l'impôt prévu par la présente partie pour l'année pour le compte de la personne non-résidente, 50 % de l'excédent du montant visé au sous-alinéa (i) sur le montant visé au sous-alinéa (ii) :
 
 ### Section 26
 
   **(1)** The portion of subsection 118.06(2) of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** For the purpose of computing the tax payable under this Part for a taxation year by an individual who performs eligible volunteer firefighting services in the year, there may be deducted the amount determined by multiplying $**6,000** by the appropriate percentage for the taxation year if the individual
+    **(2)** For the purpose of computing the tax payable under this Part for a taxation year by an individual who performs eligible volunteer firefighting services in the year, there may be deducted the amount determined by multiplying $6,000 by the appropriate percentage for the taxation year if the individual
 
   **(2)** Subsection (1) applies to the 2024 and subsequent taxation years.
 
@@ -1539,7 +1517,7 @@ Section 89 of the Act is amended by adding the following after subsection (14.1)
 
   **(1)** The portion of subsection 118.07(2) of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** For the purpose of computing the tax payable under this Part for a taxation year by an individual who performs eligible search and rescue volunteer services in the year, there may be deducted the amount determined by multiplying $**6,000** by the appropriate percentage for the taxation year if the individual
+    **(2)** For the purpose of computing the tax payable under this Part for a taxation year by an individual who performs eligible search and rescue volunteer services in the year, there may be deducted the amount determined by multiplying $6,000 by the appropriate percentage for the taxation year if the individual
 
   **(2)** Subsection (1) applies to the 2024 and subsequent taxation years.
 
@@ -1547,7 +1525,7 @@ Section 89 of the Act is amended by adding the following after subsection (14.1)
 
   **(1)** Paragraph 118.2(2)(v) of the Act is replaced by the following:
 
-    to a fertility clinic, or donor bank, in Canada as a fee or other amount paid or payable, to obtain sperm, ova **or embryos** to enable the conception of a child by the individual, the individual's spouse or common-law partner or a surrogate mother on behalf of the individual.
+    to a fertility clinic, or donor bank, in Canada as a fee or other amount paid or payable, to obtain sperm, ova or embryos to enable the conception of a child by the individual, the individual's spouse or common-law partner or a surrogate mother on behalf of the individual.
 
   **(2)** Subsection (1) is deemed to have come into force on January 1, 2022.
 
@@ -1555,11 +1533,11 @@ Section 89 of the Act is amended by adding the following after subsection (14.1)
 
   **(1)** Subparagraph 120.2(1)(b)(i) of the Act is replaced by the following:
 
-    the amount that, but for this section, section 120 and subsection 120.4(2), would be the individual's tax payable under this Part for the particular year if the individual were not entitled to any deduction under **section** 126
+    the amount that, but for this section, section 120 and subsection 120.4(2), would be the individual's tax payable under this Part for the particular year if the individual were not entitled to any deduction under section 126
 
   **(2)** Paragraph 120.2(3)(b) of the Act is replaced by the following:
 
-    the amount that, if this Act were read without reference to section 120, would be the individual's tax payable under this Part for the year if the individual were not entitled to any deduction under **section** 126, and
+    the amount that, if this Act were read without reference to section 120, would be the individual's tax payable under this Part for the year if the individual were not entitled to any deduction under section 126, and
 
   **(3)** Subsections (1) and (2) apply to taxation years that begin after December 31, 2023.
 
@@ -1567,7 +1545,7 @@ Section 89 of the Act is amended by adding the following after subsection (14.1)
 
 Paragraph (a) of the definition **shared-custody parent** in section 122.6 of the English version of the Act is replaced by the following:
 
-are not at that time **cohabiting** spouses or common-law partners of each other,
+are not at that time cohabiting spouses or common-law partners of each other,
 
 ### Section 31
 
@@ -1635,11 +1613,11 @@ are not at that time **cohabiting** spouses or common-law partners of each other
 
     is the number of days in the taxation year during which the taxpayer is a qualifying journalism organization; and
 
-    **that begins after 2022**, means the lesser of
+    that begins after 2022, means the lesser of
 
     the amount determined by the formula
 
-    is the lesser of 365 and the number of days in the taxation year **during** which the taxpayer is a qualifying journalism organization, and
+    is the lesser of 365 and the number of days in the taxation year during which the taxpayer is a qualifying journalism organization, and
 
     the amount determined by the formula
 
@@ -1719,7 +1697,7 @@ are not at that time **cohabiting** spouses or common-law partners of each other
 
       is the amount received by the taxpayer from the Aid to Publishers component of the Canada Periodical Fund in the year; and
 
-      **if the year begins after 2026**, an amount determined by the formula
+      if the year begins after 2026, an amount determined by the formula
 
       is the total of all amounts each of which is a qualifying labour expenditure of the qualifying journalism organization for the year in respect of an eligible newsroom employee, and
 
@@ -1773,7 +1751,7 @@ are not at that time **cohabiting** spouses or common-law partners of each other
 
       is the total of all specified proportions of members of the partnership for the fiscal period, other than members that are partnerships or specified members of the partnership; and
 
-      **if the fiscal period begins after 2026**, an amount determined by the formula
+      if the fiscal period begins after 2026, an amount determined by the formula
 
       is the total of all amounts each of which is a qualifying labour expenditure of the qualifying journalism organization for the fiscal period in respect of an eligible newsroom employee,
 
@@ -1789,25 +1767,25 @@ are not at that time **cohabiting** spouses or common-law partners of each other
 
   **(1)** Paragraph (a) of the definition **flow-through mining expenditure** in subsection 127(9) of the Act is replaced by the following:
 
-    that is a Canadian exploration expense incurred by a corporation after March **2024** and before **2026** (including, for greater certainty, an expense that is deemed by subsection 66(12.66) to be incurred before **2026**) in conducting mining exploration activity from or above the surface of the earth for the purpose of determining the existence, location, extent or quality of a mineral resource described in paragraph (a) or (d) of the definition mineral resource in subsection 248(1),
+    that is a Canadian exploration expense incurred by a corporation after March 2024 and before 2026 (including, for greater certainty, an expense that is deemed by subsection 66(12.66) to be incurred before 2026) in conducting mining exploration activity from or above the surface of the earth for the purpose of determining the existence, location, extent or quality of a mineral resource described in paragraph (a) or (d) of the definition mineral resource in subsection 248(1),
 
   **(2)** Paragraphs (c) and (d) of the definition **flow-through mining expenditure** in subsection 127(9) of the Act are replaced by the following:
 
-    an amount in respect of which is renounced in accordance with subsection 66(12.6) by the corporation to the taxpayer (or a partnership of which the taxpayer is a member) under an agreement described in that subsection and made after March **2024** and before April **2025**,
+    an amount in respect of which is renounced in accordance with subsection 66(12.6) by the corporation to the taxpayer (or a partnership of which the taxpayer is a member) under an agreement described in that subsection and made after March 2024 and before April 2025,
 
-    that is not an expense that was renounced under subsection 66(12.6) to the corporation (or a partnership of which the corporation is a member), unless that renunciation was under an agreement described in that subsection and made after March **2024** and before April **2025**, and
+    that is not an expense that was renounced under subsection 66(12.6) to the corporation (or a partnership of which the corporation is a member), unless that renunciation was under an agreement described in that subsection and made after March 2024 and before April 2025, and
 
   **(3)** The definition **government assistance** in subsection 127(9) of the Act is replaced by the following:
 
-    **government assistance** means assistance from a government, municipality or other public authority whether as a grant, subsidy, forgivable loan, deduction from tax, investment allowance or as any other form of assistance, other than **as an excluded loan (as defined in subsection 12(11)) or** as a deduction under subsection (5) or (6); (**aide gouvernementale**)
+    **government assistance** means assistance from a government, municipality or other public authority whether as a grant, subsidy, forgivable loan, deduction from tax, investment allowance or as any other form of assistance, other than as an excluded loan (as defined in subsection 12(11)) or as a deduction under subsection (5) or (6); (**aide gouvernementale**)
 
   **(4)** The definition **government assistance** in subsection 127(9) of the Act, as enacted by subsection (3), is replaced by the following:
 
-    **government assistance** means assistance from a government, municipality or other public authority whether as a grant, subsidy, forgivable loan, deduction from tax, investment allowance or as any other form of assistance, other than as an excluded loan (as defined in subsection 12(11)) or as a deduction under subsection (5) or (6) **or a deemed payment on account of tax payable under subsection 127.48(2)**; (**aide gouvernementale**)
+    **government assistance** means assistance from a government, municipality or other public authority whether as a grant, subsidy, forgivable loan, deduction from tax, investment allowance or as any other form of assistance, other than as an excluded loan (as defined in subsection 12(11)) or as a deduction under subsection (5) or (6) or a deemed payment on account of tax payable under subsection 127.48(2); (**aide gouvernementale**)
 
   **(5)** The definition **government assistance** in subsection 127(9) of the Act, as enacted by subsection (4), is replaced by the following:
 
-    **government assistance** means assistance from a government, municipality or other public authority whether as a grant, subsidy, forgivable loan, deduction from tax, investment allowance or as any other form of assistance, other than as an excluded loan (as defined in subsection 12(11)) or as a deduction under subsection (5) or (6) or a deemed payment on account of tax payable under subsection 127.48(2) **or 127.49(2)**; (**aide gouvernementale**)
+    **government assistance** means assistance from a government, municipality or other public authority whether as a grant, subsidy, forgivable loan, deduction from tax, investment allowance or as any other form of assistance, other than as an excluded loan (as defined in subsection 12(11)) or as a deduction under subsection (5) or (6) or a deemed payment on account of tax payable under subsection 127.48(2) or 127.49(2); (**aide gouvernementale**)
 
   **(6)** Subsections (1) and (2) apply in respect of expenses renounced under a flow-through share agreement entered into after March 2024.
 
@@ -2935,7 +2913,7 @@ The Act is amended by adding the following after section 127.42:
 
   **(1)** The description of A in section 127.51 of the Act is replaced by the following:
 
-    is **20.5%**;
+    is 20.5%;
 
   **(2)** Paragraph (a) of the description of C in section 127.51 of the Act is replaced by the following:
 
@@ -2947,7 +2925,7 @@ The Act is amended by adding the following after section 127.42:
 
   **(1)** Subparagraph 127.52(1)(d)(i) of the Act is replaced by the following:
 
-    the references to the fraction applicable to the individual for the year in each of paragraphs 38(a) and (b) and section 41 were read as a reference to "**1/1**", and
+    the references to the fraction applicable to the individual for the year in each of paragraphs 38(a) and (b) and section 41 were read as a reference to "1/1", and
 
   **(2)** The formula in subparagraph 127.52(1)(d)(ii) of the Act is replaced by the following:
 
@@ -2971,17 +2949,17 @@ The Act is amended by adding the following after section 127.42:
 
     the amounts deducted under subsection 110(2),
 
-    **7/5 of** the amounts deducted under any of paragraph 110(1)(d.01) and subsections 110.6(2) and (2.1),
+    7/5 of the amounts deducted under any of paragraph 110(1)(d.01) and subsections 110.6(2) and (2.1),
 
-    **the amount that would be deductible under paragraph 110(1)(f) if the individual deducted 1/2 of the amount the individual deducted for the year under subparagraph 110(1)(f)(v),**
+    the amount that would be deductible under paragraph 110(1)(f) if the individual deducted 1/2 of the amount the individual deducted for the year under subparagraph 110(1)(f)(v),
 
-    **1/2 of the amount deducted for the year under subsection 110.7(1), and**
+    1/2 of the amount deducted for the year under subsection 110.7(1), and
 
     the amount deducted under paragraph 110(1)(g);
 
   **(8)** Clause 127.52(1)(i)(i)(A) of the Act is replaced by the following:
 
-    **1/2 of all amounts** deducted for the year under paragraphs **111(1)(a), (c), (d) and (e)**, and
+    1/2 of all amounts deducted for the year under paragraphs 111(1)(a), (c), (d) and (e), and
 
   **(9)** The portion of clause 127.52(1)(i)(i)(B) of the English version of the Act before subclause (I) is replaced by the following:
 
@@ -2993,7 +2971,7 @@ The Act is amended by adding the following after section 127.42:
 
   **(11)** Clause 127.52(1)(i)(ii)(B) of the Act is amended by striking out "and" at the end of subclause (II) and by replacing subclause (III) with the following:
 
-    paragraphs (c.1) and (d) of this subsection applied in computing the individual's net capital loss for any taxation year that ends after 2011 **and begins before 2024, and**
+    paragraphs (c.1) and (d) of this subsection applied in computing the individual's net capital loss for any taxation year that ends after 2011 and begins before 2024, and
 
     paragraph (c.1) of this subsection applied in computing the individual's net capital loss for any taxation year that begins after 2023; and
 
@@ -3019,9 +2997,9 @@ The Act is amended by adding the following after section 127.42:
 
   **(1)** Paragraphs 127.531(a) and (b) of the Act are replaced by the following:
 
-    **1/2 of** an amount deducted under any of subsections 118(1), (2), **(3)** and (10), sections 118.01 to 118.07, **subsections** 118.3(1), **(2) and (3)** and sections 118.5 to **118.9** in computing the individual's tax payable for the year under this Part;
+    1/2 of an amount deducted under any of subsections 118(1), (2), (3) and (10), sections 118.01 to 118.07, subsections 118.3(1), (2) and (3) and sections 118.5 to 118.9 in computing the individual's tax payable for the year under this Part;
 
-    **1/2 of** the amount that was claimed under section 118.2 in computing the individual's tax payable for the year under this Part, determined without reference to this Division, to the extent that the amount claimed does not exceed the maximum amount deductible under that section in computing the individual's tax payable for the year under this Part, determined without reference to this Division;
+    1/2 of the amount that was claimed under section 118.2 in computing the individual's tax payable for the year under this Part, determined without reference to this Division, to the extent that the amount claimed does not exceed the maximum amount deductible under that section in computing the individual's tax payable for the year under this Part, determined without reference to this Division;
 
     4/5 of the amount that was claimed under section 118.1 in computing the individual's tax payable for the year under this Part, determined without reference to this Division, to the extent that the amount claimed does not exceed the maximum amount deductible under that section in computing the individual's tax payable for the year under this Part, determined without reference to this Division; and
 
@@ -3033,15 +3011,15 @@ The Act is amended by adding the following after section 127.42:
 
   **(1)** The definition **foreign taxes** in subsection 127.54(1) of the English version of the Act is replaced by the following:
 
-    **foreign taxes** of an individual for a taxation year means the total of the business-income taxes, **as defined in** subsection 126(7), paid by the individual for the year in respect of businesses carried on by the individual in countries other than Canada and 2/3 of the non-business-income taxes, **as defined in** that subsection, paid by the individual for the year to the governments of countries other than Canada. (**impôts payés à l'étranger**)
+    **foreign taxes** of an individual for a taxation year means the total of the business-income taxes, as defined in subsection 126(7), paid by the individual for the year in respect of businesses carried on by the individual in countries other than Canada and 2/3 of the non-business-income taxes, as defined in that subsection, paid by the individual for the year to the governments of countries other than Canada. (**impôts payés à l'étranger**)
 
   **(2)** Paragraph (b) of the definition **foreign income** in subsection 127.54(1) of the Act is replaced by the following:
 
-    the individual's incomes for the year (**as would be determined if paragraph 127.52(1)(d) were applicable**) from sources in countries other than Canada in respect of which the individual has paid non-business-income taxes, **as defined in** subsection 126(7), to governments of countries other than Canada; (**revenu de source étrangère** )
+    the individual's incomes for the year (as would be determined if paragraph 127.52(1)(d) were applicable) from sources in countries other than Canada in respect of which the individual has paid non-business-income taxes, as defined in subsection 126(7), to governments of countries other than Canada; (**revenu de source étrangère** )
 
   **(3)** The description of A in subparagraph 127.54(2)(b)(ii) of the Act is replaced by the following:
 
-    is **20.5%**, and
+    is 20.5%, and
 
   **(4)** Subsections (2) and (3) apply to taxation years that begin after December 31, 2023.
 
@@ -3081,7 +3059,7 @@ The Act is amended by adding the following after section 127.42:
 
   **(1)** Subparagraph (g)(i) of the definition **excluded right or interest** in subsection 128.1(10) of the English version of the Act is replaced by the following:
 
-    the `Canada Pension Plan` or a provincial **pension** plan **as defined** in section 3 of that Act,
+    the `Canada Pension Plan` or a provincial pension plan as defined in section 3 of that Act,
 
   **(2)** Subsection (1) is deemed to have come into force on August 4, 2023.
 
@@ -3113,53 +3091,53 @@ The Act is amended by adding the following after section 127.42:
 
   **(1)** Subparagraph (a)(ii) of the definition **revenu gagné** in subsection 146(1) of the French version of the Act is replaced by the following:
 
-    d'une entreprise qu'il exploite **soit** seul, **soit** comme associé **participant** activement **à l'exploitation de l'entreprise**,
+    d'une entreprise qu'il exploite soit seul, soit comme associé participant activement à l'exploitation de l'entreprise,
 
   **(2)** Paragraph (c) of the definition **revenu gagné** in subsection 146(1) of the French version of the Act is replaced by the following:
 
-    soit son revenu, sauf un montant visé à l'alinéa 12(1)z), pour une période de l'année tout au long de laquelle il ne résidait pas au Canada tiré, selon le cas, des fonctions d'une charge ou d'un emploi qu'il remplit au Canada, compte non tenu des alinéas 8(1)c), m) et m.2), ou d'une entreprise qu'il exploite au Canada, **soit** seul, **soit** comme associé **participant** activement **à l'exploitation de l'entreprise**, sauf dans la mesure où ce revenu est exonéré de l'impôt sur le revenu au Canada par l'effet d'une disposition d'un accord ou convention fiscal conclu avec un autre pays et ayant force de loi au Canada;
+    soit son revenu, sauf un montant visé à l'alinéa 12(1)z), pour une période de l'année tout au long de laquelle il ne résidait pas au Canada tiré, selon le cas, des fonctions d'une charge ou d'un emploi qu'il remplit au Canada, compte non tenu des alinéas 8(1)c), m) et m.2), ou d'une entreprise qu'il exploite au Canada, soit seul, soit comme associé participant activement à l'exploitation de l'entreprise, sauf dans la mesure où ce revenu est exonéré de l'impôt sur le revenu au Canada par l'effet d'une disposition d'un accord ou convention fiscal conclu avec un autre pays et ayant force de loi au Canada;
 
   **(3)** Subparagraph (e)(i) of the definition **revenu gagné** in subsection 146(1) of the French version of the Act is replaced by the following:
 
-    d'une entreprise qu'il exploite **soit** seul, **soit** comme associé **participant** activement **à l'exploitation de l'entreprise**,
+    d'une entreprise qu'il exploite soit seul, soit comme associé participant activement à l'exploitation de l'entreprise,
 
   **(4)** Paragraph (g) of the definition **revenu gagné** in subsection 146(1) of the French version of the Act is replaced by the following:
 
-    soit sa perte pour une période de l'année tout au long de laquelle il n'a pas résidé au Canada, provenant d'une entreprise qu'il exploite au Canada, **soit** seul, **soit** comme associé **participant** activement **à l'exploitation de l'entreprise**;
+    soit sa perte pour une période de l'année tout au long de laquelle il n'a pas résidé au Canada, provenant d'une entreprise qu'il exploite au Canada, soit seul, soit comme associé participant activement à l'exploitation de l'entreprise;
 
   **(5)** Subsection 146(8.1) of the Act is replaced by the following:
 
-    **(8.1)** An individual and the legal representative of a deceased annuitant **of** a registered retirement savings plan **may** jointly **designate** in prescribed form filed with the Minister **that all or a portion of** a payment **made** out of or under the plan to the legal representative is deemed to **have been** received by the individual at the time it was so paid as a benefit that is a refund of premiums, and not **to have been paid** to the legal representative, if
+    **(8.1)** An individual and the legal representative of a deceased annuitant of a registered retirement savings plan may jointly designate in prescribed form filed with the Minister that all or a portion of a payment made out of or under the plan to the legal representative is deemed to have been received by the individual at the time it was so paid as a benefit that is a refund of premiums, and not to have been paid to the legal representative, if
 
       a payment not less than the designated amount is made from the estate of the deceased annuitant to the individual who is entitled to receive the payment
 
-      **as** a beneficiary (as defined in subsection 108(1)) under the estate, **or**
+      as a beneficiary (as defined in subsection 108(1)) under the estate, or
 
       under a decree, order or judgment of a competent tribunal or under a written agreement, relating to the rights or interests of a spouse or common-law partner in respect of property as a result of marriage or common-law partnership; and
 
-      the designated **amount** would have been a refund of premiums if it had been paid to **the** individual **directly from the registered retirement savings plan**.
+      the designated amount would have been a refund of premiums if it had been paid to the individual directly from the registered retirement savings plan.
 
   **(6)** The portion of subsection 146(8.93) of the French version of the Act before paragraph (a) is replaced by the following:
 
-    **(8.93)** À moins que le ministre n'ait renoncé par écrit à appliquer le présent paragraphe à l'égard de tout ou partie de la somme déterminée selon le paragraphe (8.92) relativement à un régime enregistré d'épargne-retraite, ce paragraphe ne s'applique pas dans **l'une des** circonstances suivantes :
+    **(8.93)** À moins que le ministre n'ait renoncé par écrit à appliquer le présent paragraphe à l'égard de tout ou partie de la somme déterminée selon le paragraphe (8.92) relativement à un régime enregistré d'épargne-retraite, ce paragraphe ne s'applique pas dans l'une des circonstances suivantes :
 
   **(7)** The portion of subsection 146(16) of the French version of the Act before paragraph (d) is replaced by the following:
 
-    **(16)** Malgré les autres dispositions du présent article, un régime enregistré d'épargne-retraite peut, à un moment donné, être révisé ou modifié de façon à prévoir le versement ou le transfert, avant son échéance, par l'émetteur de biens accumulés pour le compte du rentier du régime (**appelé « cédant » au présent paragraphe**) :
+    **(16)** Malgré les autres dispositions du présent article, un régime enregistré d'épargne-retraite peut, à un moment donné, être révisé ou modifié de façon à prévoir le versement ou le transfert, avant son échéance, par l'émetteur de biens accumulés pour le compte du rentier du régime (appelé « cédant » au présent paragraphe) :
 
-      soit à un régime de pension agréé, au profit du **cédant**, ou à un régime enregistré d'épargne-retraite ou un fonds enregistré de revenu de retraite dont le **cédant** est rentier;
+      soit à un régime de pension agréé, au profit du cédant, ou à un régime enregistré d'épargne-retraite ou un fonds enregistré de revenu de retraite dont le cédant est rentier;
 
-      soit à un fournisseur de rentes autorisé afin d'acquérir une rente viagère différée à un âge avancé au profit du **cédant**;
+      soit à un fournisseur de rentes autorisé afin d'acquérir une rente viagère différée à un âge avancé au profit du cédant;
 
-      soit à un régime enregistré d'épargne-retraite ou un fonds enregistré de revenu de retraite dont l'époux ou le conjoint de fait ou l'ex-époux ou ancien conjoint de fait du **cédant** est rentier, si le **cédant** et son époux ou conjoint de fait ou ex-époux ou ancien conjoint de fait vivent séparément et si le versement ou le transfert est effectué en vertu d'une ordonnance ou d'un jugement rendus par un tribunal compétent ou en vertu d'un accord écrit de séparation, visant à partager des biens entre le **cédant** et son époux ou conjoint de fait ou ex-époux ou ancien conjoint de fait, en règlement des droits découlant du mariage ou de l'union de fait ou de son échec.
+      soit à un régime enregistré d'épargne-retraite ou un fonds enregistré de revenu de retraite dont l'époux ou le conjoint de fait ou l'ex-époux ou ancien conjoint de fait du cédant est rentier, si le cédant et son époux ou conjoint de fait ou ex-époux ou ancien conjoint de fait vivent séparément et si le versement ou le transfert est effectué en vertu d'une ordonnance ou d'un jugement rendus par un tribunal compétent ou en vertu d'un accord écrit de séparation, visant à partager des biens entre le cédant et son époux ou conjoint de fait ou ex-époux ou ancien conjoint de fait, en règlement des droits découlant du mariage ou de l'union de fait ou de son échec.
 
-      Dans le cas où un tel versement ou transfert est effectué pour le compte du **cédant** avant l'échéance du régime, les règles suivantes s'appliquent :
+      Dans le cas où un tel versement ou transfert est effectué pour le compte du cédant avant l'échéance du régime, les règles suivantes s'appliquent :
 
-      le montant du versement ou du transfert ne peut, en raison seulement du versement ou du transfert, être inclus dans le calcul du revenu du **cédant** ou de son époux ou conjoint de fait ou ex-époux ou ancien conjoint de fait;
+      le montant du versement ou du transfert ne peut, en raison seulement du versement ou du transfert, être inclus dans le calcul du revenu du cédant ou de son époux ou conjoint de fait ou ex-époux ou ancien conjoint de fait;
 
   **(8)** Subsection 146(21.2) of the Act is replaced by the following:
 
-    **(21.2)** For the purposes of paragraph (8.2)(b), subsection (8.21), paragraphs (16)(a) and (b) and 18(1)(u), **section 60.011**, subparagraph (a)(i) of the definition excluded right or interest in subsection 128.1(10), paragraph (b) of the definition excluded premium in subsection 146.01(1), paragraph (c) of the definition excluded premium in subsection 146.02(1), subsections 146.3(14) and 147(19), section 147.3 and paragraphs 147.5(21)(c) and 212(1)(j.1) and (m) and for the purposes of any regulations made under subsection 147.1(18), an individual's account under a specified pension plan is deemed to be a registered retirement savings plan under which the individual is the annuitant.
+    **(21.2)** For the purposes of paragraph (8.2)(b), subsection (8.21), paragraphs (16)(a) and (b) and 18(1)(u), section 60.011, subparagraph (a)(i) of the definition excluded right or interest in subsection 128.1(10), paragraph (b) of the definition excluded premium in subsection 146.01(1), paragraph (c) of the definition excluded premium in subsection 146.02(1), subsections 146.3(14) and 147(19), section 147.3 and paragraphs 147.5(21)(c) and 212(1)(j.1) and (m) and for the purposes of any regulations made under subsection 147.1(18), an individual's account under a specified pension plan is deemed to be a registered retirement savings plan under which the individual is the annuitant.
 
   **(9)** Subsection (5) is deemed to have come into force on January 1, 2020.
 
@@ -3169,15 +3147,15 @@ The Act is amended by adding the following after section 127.42:
 
   **(1)** Paragraph (h) of the definition **regular eligible amount** in subsection 146.01(1) of the Act is replaced by the following:
 
-    the total of the amount and all other eligible amounts received by the individual in the calendar year that includes the particular time does not exceed $**60,000**, and
+    the total of the amount and all other eligible amounts received by the individual in the calendar year that includes the particular time does not exceed $60,000, and
 
   **(2)** Paragraph (g) of the definition **supplemental eligible amount** in subsection 146.01(1) of the Act is replaced by the following:
 
-    the total of the amount and all other eligible amounts received by the individual in the calendar year that includes the particular time does not exceed $**60,000**, and
+    the total of the amount and all other eligible amounts received by the individual in the calendar year that includes the particular time does not exceed $60,000, and
 
   **(3)** The portion of subsection 146.01(4) of the Act before the formula is replaced by the following:
 
-    **(4)** **Subject to subsection (4.1)**, there shall be included in computing an individual's income for a particular taxation year included in a particular participation period of the individual the amount determined by the formula
+    **(4)** Subject to subsection (4.1), there shall be included in computing an individual's income for a particular taxation year included in a particular participation period of the individual the amount determined by the formula
 
   **(4)** Section 146.01 of the Act is amended by adding the following after subsection (4):
 
@@ -3223,17 +3201,17 @@ The Act is amended by adding the following after section 127.42:
 
 The portion of subsection 146.3(6.4) of the French version of the Act before paragraph (a) is replaced by the following:
 
-**(6.4)** À moins que le ministre n'ait renoncé par écrit à appliquer le présent paragraphe à l'égard de tout ou partie de la somme déterminée selon le paragraphe (6.3) relativement à un fonds enregistré de revenu de retraite, ce paragraphe ne s'applique pas dans **l'une des** circonstances suivantes :
+**(6.4)** À moins que le ministre n'ait renoncé par écrit à appliquer le présent paragraphe à l'égard de tout ou partie de la somme déterminée selon le paragraphe (6.3) relativement à un fonds enregistré de revenu de retraite, ce paragraphe ne s'applique pas dans l'une des circonstances suivantes :
 
 ### Section 51
 
   **(1)** The portion of paragraph 146.4(4)(f) of the French version of the Act before subparagraph (i) is replaced by the following:
 
-    le régime ne permet pas que des cotisations y soient versées, **à un moment donné**, dans **l'une des** circonstances suivantes :
+    le régime ne permet pas que des cotisations y soient versées, à un moment donné, dans l'une des circonstances suivantes :
 
   **(2)** The portion of paragraph 146.4(4)(g) of the French version of the Act before subparagraph (i) is replaced by the following:
 
-    le régime ne permet pas qu'une cotisation y soit versée, **à un moment donné**, dans **l'une des** circonstances suivantes :
+    le régime ne permet pas qu'une cotisation y soit versée, à un moment donné, dans l'une des circonstances suivantes :
 
 ### Section 52
 
@@ -3241,7 +3219,7 @@ The portion of subsection 146.3(6.4) of the French version of the Act before par
 
     the contract does not permit premiums to be paid at or after that time, other than
 
-    a premium paid at that time out of or under the plan to purchase the contract, **or**
+    a premium paid at that time out of or under the plan to purchase the contract, or
 
     a premium paid after that time to acquire additional benefits consequential to proceedings commenced under the `Bankruptcy and Insolvency Act` or the `Companies' Creditors Arrangement Act`,
 
@@ -3251,7 +3229,7 @@ The portion of subsection 146.3(6.4) of the French version of the Act before par
 
   **(1)** Subsection 147.5(12) of the Act is replaced by the following:
 
-    **(12)** For the purposes of paragraph 18(1)(u), **section 60.011**, subparagraph (a)(i) of the definition excluded right or interest in subsection 128.1(10), paragraph 146(8.2)(b), subsection 146(8.21), paragraphs 146(16)(a) and (b), subparagraph 146(21)(a)(i), paragraph (b) of the definition excluded premium in subsection 146.01(1), paragraph (c) of the definition excluded premium in subsection 146.02(1), subsections 146.3(14) and 147(19) to (21), sections 147.3 and 160.2 and paragraphs 212(1)(j.1) and (m), and of regulations made under subsection 147.1(18), a member's account under a PRPP is deemed to be a registered retirement savings plan under which the member is the annuitant.
+    **(12)** For the purposes of paragraph 18(1)(u), section 60.011, subparagraph (a)(i) of the definition excluded right or interest in subsection 128.1(10), paragraph 146(8.2)(b), subsection 146(8.21), paragraphs 146(16)(a) and (b), subparagraph 146(21)(a)(i), paragraph (b) of the definition excluded premium in subsection 146.01(1), paragraph (c) of the definition excluded premium in subsection 146.02(1), subsections 146.3(14) and 147(19) to (21), sections 147.3 and 160.2 and paragraphs 212(1)(j.1) and (m), and of regulations made under subsection 147.1(18), a member's account under a PRPP is deemed to be a registered retirement savings plan under which the member is the annuitant.
 
   **(2)** Subsection (1) is deemed to have come into force on August 4, 2023.
 
@@ -3259,7 +3237,7 @@ The portion of subsection 146.3(6.4) of the French version of the Act before par
 
 Subsection 149.1(14.1) of the French version of the Act is replaced by the following:
 
-**(14.1)** Dans les six mois suivant la fin de son année d'imposition, l'organisation journalistique enregistrée doit présenter au ministre, sans avis ni mise en demeure, une déclaration de renseignements et une déclaration publique de renseignements pour l'année, selon le formulaire prescrit et renfermant les renseignements prescrits, y compris, pour la déclaration publique de renseignements, le nom de chaque **donateur** dont le total des dons à l'organisation pendant l'année dépasse 5 000 $ ainsi que le montant total des dons effectués par ce **donateur**.
+**(14.1)** Dans les six mois suivant la fin de son année d'imposition, l'organisation journalistique enregistrée doit présenter au ministre, sans avis ni mise en demeure, une déclaration de renseignements et une déclaration publique de renseignements pour l'année, selon le formulaire prescrit et renfermant les renseignements prescrits, y compris, pour la déclaration publique de renseignements, le nom de chaque donateur dont le total des dons à l'organisation pendant l'année dépasse 5 000 $ ainsi que le montant total des dons effectués par ce donateur.
 
 ### Section 55
 
@@ -3273,11 +3251,11 @@ Subsection 149.1(14.1) of the French version of the Act is replaced by the follo
 
   **(1)** Paragraph 152(1)(b) of the Act is replaced by the following:
 
-    the amount of tax, if any, deemed by any of subsections 120(2) or (2.2), 122.5(3) to (3.003), 122.51(2), 122.7(2) or (3), 122.72(1), 122.8(4), 122.9(2), 122.91(1), 125.4(3), 125.5(3), 125.6(2) or (2.1), 127.1(1), 127.41(3), **127.48(2)** or 210.2(3) or (4) to be paid on account of the taxpayer's tax payable under this Part for the year.
+    the amount of tax, if any, deemed by any of subsections 120(2) or (2.2), 122.5(3) to (3.003), 122.51(2), 122.7(2) or (3), 122.72(1), 122.8(4), 122.9(2), 122.91(1), 125.4(3), 125.5(3), 125.6(2) or (2.1), 127.1(1), 127.41(3), 127.48(2) or 210.2(3) or (4) to be paid on account of the taxpayer's tax payable under this Part for the year.
 
   **(2)** Paragraph 152(1)(b) of the Act, as enacted by subsection (1), is replaced by the following:
 
-    the amount of tax, if any, deemed by any of subsections 120(2) or (2.2), 122.5(3) to (3.003), 122.51(2), 122.7(2) or (3), 122.72(1), 122.8(4), 122.9(2), 122.91(1), 125.4(3), 125.5(3), 125.6(2) or (2.1), 127.1(1), 127.41(3), 127.48(2), **127.49(2)** or 210.2(3) or (4) to be paid on account of the taxpayer's tax payable under this Part for the year.
+    the amount of tax, if any, deemed by any of subsections 120(2) or (2.2), 122.5(3) to (3.003), 122.51(2), 122.7(2) or (3), 122.72(1), 122.8(4), 122.9(2), 122.91(1), 125.4(3), 125.5(3), 125.6(2) or (2.1), 127.1(1), 127.41(3), 127.48(2), 127.49(2) or 210.2(3) or (4) to be paid on account of the taxpayer's tax payable under this Part for the year.
 
   **(3)** Subsection 152(4) of the Act is amended by adding the following before paragraph (c):
 
@@ -3313,7 +3291,7 @@ Subsection 149.1(14.1) of the French version of the Act is replaced by the follo
 
   **(1)** Paragraph 153(1)(d.1) of the Act is replaced by the following:
 
-    an amount described in subparagraph 56(1)(a)(iv), (vii) **or (viii)**,
+    an amount described in subparagraph 56(1)(a)(iv), (vii) or (viii),
 
   **(2)** Section 153 of the Act is amended by adding the following after subsection (1.04):
 
@@ -3331,19 +3309,19 @@ Subsection 149.1(14.1) of the French version of the Act is replaced by the follo
 
   **(1)** Paragraph 157(3)(e) of the Act is replaced by the following:
 
-    1/12 of the total of the amounts each of which is deemed by subsection 125.4(3), 125.5(3), 125.6(2) or (2.1), 127.1(1), 127.41(3) or **127.48(2)** to have been paid on account of the corporation's tax payable under this Part for the year.
+    1/12 of the total of the amounts each of which is deemed by subsection 125.4(3), 125.5(3), 125.6(2) or (2.1), 127.1(1), 127.41(3) or 127.48(2) to have been paid on account of the corporation's tax payable under this Part for the year.
 
   **(2)** Paragraph 157(3)(e) of the Act, as enacted by subsection (1), is replaced by the following:
 
-    1/12 of the total of the amounts each of which is deemed by subsection 125.4(3), 125.5(3), 125.6(2) or (2.1), 127.1(1), 127.41(3), 127.48(2) or **127.49(2)** to have been paid on account of the corporation's tax payable under this Part for the year.
+    1/12 of the total of the amounts each of which is deemed by subsection 125.4(3), 125.5(3), 125.6(2) or (2.1), 127.1(1), 127.41(3), 127.48(2) or 127.49(2) to have been paid on account of the corporation's tax payable under this Part for the year.
 
   **(3)** Paragraph 157(3.1)(c) of the Act is replaced by the following:
 
-    1/4 of the total of the amounts each of which is deemed by subsection 125.4(3), 125.5(3), 125.6(2) or (2.1), 127.1(1), 127.41(3)or **127.48(2)** to have been paid on account of the corporation's tax payable under this Part for the taxation year.
+    1/4 of the total of the amounts each of which is deemed by subsection 125.4(3), 125.5(3), 125.6(2) or (2.1), 127.1(1), 127.41(3)or 127.48(2) to have been paid on account of the corporation's tax payable under this Part for the taxation year.
 
   **(4)** Paragraph 157(3.1)(c) of the Act, as enacted by subsection (3), is replaced by the following:
 
-    1/4 of the total of the amounts each of which is deemed by subsection 125.4(3), 125.5(3), 125.6(2) or (2.1), 127.1(1), 127.41(3), 127.48(2) or **127.49(2)** to have been paid on account of the corporation's tax payable under this Part for the taxation year.
+    1/4 of the total of the amounts each of which is deemed by subsection 125.4(3), 125.5(3), 125.6(2) or (2.1), 127.1(1), 127.41(3), 127.48(2) or 127.49(2) to have been paid on account of the corporation's tax payable under this Part for the taxation year.
 
   **(5)** Subsections (1) and (3) are deemed to have come into force immediately after the expiration of March 27, 2023.
 
@@ -3365,11 +3343,11 @@ Subsection 149.1(14.1) of the French version of the Act is replaced by the follo
 
     the amount, if any, by which
 
-    the amount that would be deemed by subsection 127.48(2) or **127.49(2)**, as the case may be, to be paid for the year by the person if that amount were calculated by reference to the information provided in the return or form filed for the year under that subsection
+    the amount that would be deemed by subsection 127.48(2) or 127.49(2), as the case may be, to be paid for the year by the person if that amount were calculated by reference to the information provided in the return or form filed for the year under that subsection
 
     exceeds
 
-    the amount that is deemed by subsection 127.48(2) or **127.49(2)**, as the case may be, to be paid for the year by the person,
+    the amount that is deemed by subsection 127.48(2) or 127.49(2), as the case may be, to be paid for the year by the person,
 
   **(3)** Subsection (1) is deemed to have come into force immediately after the expiration of March 27, 2023.
 
@@ -3379,11 +3357,11 @@ Subsection 149.1(14.1) of the French version of the Act is replaced by the follo
 
   **(1)** The portion of subsection 164(3) of the Act before paragraph (a) is replaced by the following:
 
-    **(3)** If, under this section, an amount in respect of a taxation year (other than an amount, or a portion of the amount, that can reasonably be considered to arise from the operation of **paragraph 60(n.2) or** section 122.5, 122.61, 122.72, 122.8 or 125.7) is refunded or repaid to a taxpayer or applied to another liability of the taxpayer, the Minister shall pay or apply interest on it at the prescribed rate for the period that begins on the day that is the latest of the days referred to in the following paragraphs and that ends on the day on which the amount is refunded, repaid or applied:
+    **(3)** If, under this section, an amount in respect of a taxation year (other than an amount, or a portion of the amount, that can reasonably be considered to arise from the operation of paragraph 60(n.2) or section 122.5, 122.61, 122.72, 122.8 or 125.7) is refunded or repaid to a taxpayer or applied to another liability of the taxpayer, the Minister shall pay or apply interest on it at the prescribed rate for the period that begins on the day that is the latest of the days referred to in the following paragraphs and that ends on the day on which the amount is refunded, repaid or applied:
 
   **(2)** The portion of subsection 164(3) of the Act before paragraph (a), as enacted by subsection (1), is replaced by the following:
 
-    **(3)** If, under this section, an amount in respect of a taxation year (other than an amount, or a portion of the amount, that can reasonably be considered to arise from the operation of paragraph 60(n.2) or section 122.5, 122.61, 122.72, 122.8, 125.7 or **127.421**) is refunded or repaid to a taxpayer or applied to another liability of the taxpayer, the Minister shall pay or apply interest on it at the prescribed rate for the period that begins on the day that is the latest of the days referred to in the following paragraphs and that ends on the day on which the amount is refunded, repaid or applied:
+    **(3)** If, under this section, an amount in respect of a taxation year (other than an amount, or a portion of the amount, that can reasonably be considered to arise from the operation of paragraph 60(n.2) or section 122.5, 122.61, 122.72, 122.8, 125.7 or 127.421) is refunded or repaid to a taxpayer or applied to another liability of the taxpayer, the Minister shall pay or apply interest on it at the prescribed rate for the period that begins on the day that is the latest of the days referred to in the following paragraphs and that ends on the day on which the amount is refunded, repaid or applied:
 
   **(3)** Subsection (1) applies to the 2019 and subsequent taxation years.
 
@@ -3391,15 +3369,15 @@ Subsection 149.1(14.1) of the French version of the Act is replaced by the follo
 
 Subsection 204.1(4) of the French version of the Act is replaced by the following:
 
-**(4)** Le ministre peut renoncer à l'impôt dont un particulier serait, compte non tenu du présent paragraphe, redevable pour un mois selon les paragraphes (1) ou (2.1), si celui-ci établit à la satisfaction du ministre que l'excédent ou l'excédent cumulatif qui est frappé de l'impôt fait suite à une erreur **raisonnable** et que **des** mesures **adéquates sont prises** pour éliminer l'excédent.
+**(4)** Le ministre peut renoncer à l'impôt dont un particulier serait, compte non tenu du présent paragraphe, redevable pour un mois selon les paragraphes (1) ou (2.1), si celui-ci établit à la satisfaction du ministre que l'excédent ou l'excédent cumulatif qui est frappé de l'impôt fait suite à une erreur raisonnable et que des mesures adéquates sont prises pour éliminer l'excédent.
 
 ### Section 62
 
   **(1)** Paragraph (b) of the description of H in subsection 204.2(1.2) of the Act is replaced by the following:
 
-    the total of the amounts, **each of which is an amount that is**
+    the total of the amounts, each of which is an amount that is
 
-    deducted in or before that preceding year, under subsections 146(5) and 146(5.1) in computing the individual's income for the immediately preceding taxation year, to the extent that each amount was deducted in respect of premiums paid under registered retirement savings plans, **or**
+    deducted in or before that preceding year, under subsections 146(5) and 146(5.1) in computing the individual's income for the immediately preceding taxation year, to the extent that each amount was deducted in respect of premiums paid under registered retirement savings plans, or
 
     contributed in the immediately preceding taxation year by the individual's employer or former employer to an account of the individual under a pooled registered pension plan,
 
@@ -3409,31 +3387,31 @@ Subsection 204.1(4) of the French version of the Act is replaced by the followin
 
 The portion of subsection 204.91(2) of the French version of the Act before paragraph (b) is replaced by the following:
 
-**(2)** Le ministre peut renoncer à tout ou partie de l'impôt dont le souscripteur d'un régime enregistré d'épargne-études serait redevable pour un mois selon le paragraphe (1), si ce n'était le présent paragraphe, **ou l'annuler en tout ou en partie**, dans le cas où il est juste et équitable de le faire compte tenu des circonstances, y compris :
+**(2)** Le ministre peut renoncer à tout ou partie de l'impôt dont le souscripteur d'un régime enregistré d'épargne-études serait redevable pour un mois selon le paragraphe (1), si ce n'était le présent paragraphe, ou l'annuler en tout ou en partie, dans le cas où il est juste et équitable de le faire compte tenu des circonstances, y compris :
 
-  le fait que l'impôt fasse suite à une erreur **raisonnable**;
+  le fait que l'impôt fasse suite à une erreur raisonnable;
 
 ### Section 64
 
 Subsection 205(3) of the French version of the Act is replaced by the following:
 
-**(3)** Le ministre peut renoncer à la totalité ou à une partie de l'impôt dont un particulier serait, compte non tenu du présent paragraphe, redevable pour un mois selon le paragraphe (2), **ou l'annuler en tout ou en partie**, si celui-ci établit à la satisfaction du ministre que l'excédent cumulatif qui est frappé de l'impôt fait suite à une erreur raisonnable et que **des** mesures **adéquates sont prises** pour éliminer l'excédent.
+**(3)** Le ministre peut renoncer à la totalité ou à une partie de l'impôt dont un particulier serait, compte non tenu du présent paragraphe, redevable pour un mois selon le paragraphe (2), ou l'annuler en tout ou en partie, si celui-ci établit à la satisfaction du ministre que l'excédent cumulatif qui est frappé de l'impôt fait suite à une erreur raisonnable et que des mesures adéquates sont prises pour éliminer l'excédent.
 
 ### Section 65
 
   **(1)** Subsection 207.01(10) of the Act is amended by striking out "and" after paragraph (c) and by replacing paragraph (d) with the following:
 
-    the transferor and the recipient — **or, if the property is transferred as a consequence of the death of the transferor, the transferor's legal representative and the recipient** — jointly elect in prescribed form that subsection (11) apply in respect of the property and the election is filed with the Minister on or before the day that is 90 days after the end of the
+    the transferor and the recipient — or, if the property is transferred as a consequence of the death of the transferor, the transferor's legal representative and the recipient — jointly elect in prescribed form that subsection (11) apply in respect of the property and the election is filed with the Minister on or before the day that is 90 days after the end of the
 
     recipient's taxation year that includes the transfer time, if the property is transferred as a consequence of the death of the transferor, or
 
-    transferor's taxation year that includes the transfer time, **in any other case**; and
+    transferor's taxation year that includes the transfer time, in any other case; and
 
-    an amount (in subsection (11) referred to as the "designated amount") **is designated on the prescribed form described in paragraph (d)** in respect of the property that
+    an amount (in subsection (11) referred to as the "designated amount") is designated on the prescribed form described in paragraph (d) in respect of the property that
 
     is not less than the adjusted cost base to the transferor trust of the property immediately before the transfer time, and
 
-    does not exceed the greater of the amount determined under **subparagraph (i)** and the fair market value of the property at the transfer time.
+    does not exceed the greater of the amount determined under subparagraph (i) and the fair market value of the property at the transfer time.
 
   **(2)** Subsection (1) is deemed to have come into force on January 1, 2020.
 
@@ -3441,11 +3419,11 @@ Subsection 205(3) of the French version of the Act is replaced by the following:
 
   **(1)** The portion of subsection 207.5(2) of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** Despite the definition refundable tax in subsection 207.5(1), where the custodian of a retirement compensation arrangement so elects in the return under this Part for a taxation year of an RCA trust under the arrangement and all the subject property, if any, of the arrangement (other than a right to claim a refund under subsection 164(1) or 207.7(2)) at the end of the year consists only of cash, debt obligations, shares listed on a designated stock exchange, **units of a mutual fund trust that are listed on a designated stock exchange**, or any combination thereof, an amount equal to the total of
+    **(2)** Despite the definition refundable tax in subsection 207.5(1), where the custodian of a retirement compensation arrangement so elects in the return under this Part for a taxation year of an RCA trust under the arrangement and all the subject property, if any, of the arrangement (other than a right to claim a refund under subsection 164(1) or 207.7(2)) at the end of the year consists only of cash, debt obligations, shares listed on a designated stock exchange, units of a mutual fund trust that are listed on a designated stock exchange, or any combination thereof, an amount equal to the total of
 
   **(2)** Paragraph 207.5(2)(c) of the Act is replaced by the following:
 
-    the fair market value of those shares **or units** at the end of the year
+    the fair market value of those shares or units at the end of the year
 
   **(3)** Subsections (1) and (2) apply to elections made in respect of the 2020 and subsequent taxation years.
 
@@ -3453,17 +3431,17 @@ Subsection 205(3) of the French version of the Act is replaced by the following:
 
 Paragraph 207.64(a) of the French version of the Act is replaced by the following:
 
-le fait que l'impôt fasse suite à une erreur **raisonnable**;
+le fait que l'impôt fasse suite à une erreur raisonnable;
 
 ### Section 68
 
   **(1)** Subsection 220(2.2) of the Act is replaced by the following:
 
-    **(2.2)** Subsection (2.1) does not apply in respect of a prescribed form, receipt or document, or prescribed information, that is filed with the Minister on or after the day specified, in respect of the form, receipt, document or information, in subsection 37(11), paragraph (m) of the definition investment tax credit in subsection 127(9) **or subsection 127.48(4)**.
+    **(2.2)** Subsection (2.1) does not apply in respect of a prescribed form, receipt or document, or prescribed information, that is filed with the Minister on or after the day specified, in respect of the form, receipt, document or information, in subsection 37(11), paragraph (m) of the definition investment tax credit in subsection 127(9) or subsection 127.48(4).
 
   **(2)** Subsection 220(2.2) of the Act, as enacted by subsection (1), is replaced by the following:
 
-    **(2.2)** Subsection (2.1) does not apply in respect of a prescribed form, receipt or document, or prescribed information, that is filed with the Minister on or after the day specified, in respect of the form, receipt, document or information, in subsection 37(11), paragraph (m) of the definition investment tax credit in subsection 127(9) or subsection 127.48(4) **or 127.49(3)**.
+    **(2.2)** Subsection (2.1) does not apply in respect of a prescribed form, receipt or document, or prescribed information, that is filed with the Minister on or after the day specified, in respect of the form, receipt, document or information, in subsection 37(11), paragraph (m) of the definition investment tax credit in subsection 127(9) or subsection 127.48(4) or 127.49(3).
 
   **(3)** Subsection (1) is deemed to have come into force immediately after the expiration of March 27, 2023.
 
@@ -3483,13 +3461,13 @@ Subsection 227(9.1) of the Act is replaced by the following:
 
 The portion of subsection 231.2(3) of the Act before paragraph (a) is replaced by the following:
 
-**(3)** A judge of the Federal Court may, on application by the Minister and subject to any conditions that the judge considers appropriate, authorize the Minister to impose on a third party a requirement under subsection (1) relating to an unnamed person or more than one unnamed person (in this **subsection** referred to as the "group") if the judge is satisfied by information on oath that
+**(3)** A judge of the Federal Court may, on application by the Minister and subject to any conditions that the judge considers appropriate, authorize the Minister to impose on a third party a requirement under subsection (1) relating to an unnamed person or more than one unnamed person (in this subsection referred to as the "group") if the judge is satisfied by information on oath that
 
 ### Section 72
 
 Paragraph (a) of the description of A in section 235 of the Act is replaced by the following:
 
-0.0005% of the corporation's taxable capital employed in Canada (**within the meaning assigned in Part I.3**) at the end of the taxation year, and
+0.0005% of the corporation's taxable capital employed in Canada (within the meaning assigned in Part I.3) at the end of the taxation year, and
 
 ### Section 73
 
@@ -3497,7 +3475,7 @@ Paragraph (a) of the description of A in section 235 of the Act is replaced by t
 
 ### Section 238
 
-      **(1)** Every person who has failed to file or make a return — **other than a return under section 237.3 or 237.4** — as and when required by or under this Act or a regulation or who has failed to comply with subsection 116(3), 127(3.1) or (3.2), 147.1(7) or 153(1), any of sections 230 to 232, 244.7 and 267 or a regulation made under subsection 147.1(18) or with an order made under subsection (2) is guilty of an offence and, in addition to any penalty otherwise provided, is liable on summary conviction to
+      **(1)** Every person who has failed to file or make a return — other than a return under section 237.3 or 237.4 — as and when required by or under this Act or a regulation or who has failed to comply with subsection 116(3), 127(3.1) or (3.2), 147.1(7) or 153(1), any of sections 230 to 232, 244.7 and 267 or a regulation made under subsection 147.1(18) or with an order made under subsection (2) is guilty of an offence and, in addition to any penalty otherwise provided, is liable on summary conviction to
 
   **(2)** Subsection (1) is deemed to have come into force on June 22, 2023.
 
@@ -3523,11 +3501,11 @@ Paragraph (a) of the description of A in section 235 of the Act is replaced by t
 
   **(6)** Paragraph 241(4)(h) of the Act is replaced by the following:
 
-    use, or provide to any person, taxpayer information solely for a purpose relating to the supervision, evaluation or discipline of an authorized person by **His** Majesty in right of Canada in respect of a period during which the authorized person was employed by or engaged by or on behalf of **His** Majesty in right of Canada to assist in the administration or enforcement of this Act, the `Canada Pension Plan` or the `Employment Insurance Act`, to the extent that the information is relevant for the purpose;
+    use, or provide to any person, taxpayer information solely for a purpose relating to the supervision, evaluation or discipline of an authorized person by His Majesty in right of Canada in respect of a period during which the authorized person was employed by or engaged by or on behalf of His Majesty in right of Canada to assist in the administration or enforcement of this Act, the `Canada Pension Plan` or the `Employment Insurance Act`, to the extent that the information is relevant for the purpose;
 
   **(7)** The definition **authorized person** in subsection 241(10) of the Act is replaced by the following:
 
-    **authorized person** means a person who is engaged or employed, or who was formerly engaged or employed, by or on behalf of **His** Majesty in right of Canada to assist in carrying out the provisions of this Act, the `Canada Pension Plan` or the `Employment Insurance Act`; (**personne autorisée**)
+    **authorized person** means a person who is engaged or employed, or who was formerly engaged or employed, by or on behalf of His Majesty in right of Canada to assist in carrying out the provisions of this Act, the `Canada Pension Plan` or the `Employment Insurance Act`; (**personne autorisée**)
 
   **(8)** Subsection (4) is deemed to have come into force on March 28, 2023, except that, before January 1, 2024, subparagraph 241(4)(d)(vi.2) of the Act (as enacted by subsection (4)) is to be read without reference to section 127.49.
 
@@ -3535,7 +3513,7 @@ Paragraph (a) of the description of A in section 235 of the Act is replaced by t
 
   **(1)** Paragraph (d) of the definition **automobile** in subsection 248(1) of the Act is replaced by the following:
 
-    except for the purposes of **sections** 6 **and 15**, a motor vehicle acquired to be sold, rented or leased in the course of carrying on a business of selling, renting or leasing motor vehicles or a motor vehicle used for the purpose of transporting passengers in the course of carrying on a business of arranging or managing funerals, and
+    except for the purposes of sections 6 and 15, a motor vehicle acquired to be sold, rented or leased in the course of carrying on a business of selling, renting or leasing motor vehicles or a motor vehicle used for the purpose of transporting passengers in the course of carrying on a business of arranging or managing funerals, and
 
   **(2)** Subsection (1) is deemed to have come into force on August 4, 2023.
 
@@ -3547,7 +3525,7 @@ Paragraph (a) of the description of A in section 235 of the Act is replaced by t
 
   **(2)** The portion of subsection 250(6.03) of the Act before paragraph (a) is replaced by the following:
 
-    **(6.03)** If this subsection applies for a taxation year, then for the purposes of subsection (6) and **paragraphs** 81(1)(c) **and (c.1)**,
+    **(6.03)** If this subsection applies for a taxation year, then for the purposes of subsection (6) and paragraphs 81(1)(c) and (c.1),
 
   **(3)** The definition **eligible entity** in subsection 250(6.04) of the Act is amended by striking out "or" at the end of paragraph (a) and by adding the following after that paragraph:
 
@@ -3570,7 +3548,7 @@ Paragraph (a) of the description of A in section 235 of the Act is replaced by t
 
   **(1)** Subclause (a)(i)(J)(I) of the definition **qualified zero-emission technology manufacturing activities** in section 5202 of the Regulations is replaced by the following:
 
-    would be a zero-emission vehicle (as defined in subsection 248(1) of the Act if that definition were read without reference to its paragraphs (b) **to (d)**), or
+    would be a zero-emission vehicle (as defined in subsection 248(1) of the Act if that definition were read without reference to its paragraphs (b) to (d)), or
 
   **(2)** Subsection (1) is deemed to have come into force on January 1, 2024.
 
@@ -3578,15 +3556,15 @@ Paragraph (a) of the description of A in section 235 of the Act is replaced by t
 
   **(1)** The portion of clause (d)(xviii)(A) of Class 43.1 in Schedule II to the Regulations before subclause (I) is replaced by the following:
 
-    is used by the taxpayer, or by a lessee of the taxpayer, primarily for the purpose of storing **and discharging** electrical energy
+    is used by the taxpayer, or by a lessee of the taxpayer, primarily for the purpose of storing and discharging electrical energy
 
   **(2)** Subclause (d)(xviii)(B)(I) of Class 43.1 in Schedule II to the Regulations is replaced by the following:
 
-    the electrical energy to be stored **and discharged** is **generated from other property that** is described in paragraph (c) or **in any other subparagraph of this paragraph**, or
+    the electrical energy to be stored and discharged is generated from other property that is described in paragraph (c) or in any other subparagraph of this paragraph, or
 
   **(3)** The portion of subparagraph (d)(xix) of Class 43.1 in Schedule II to the Regulations before clause (A) is replaced by the following:
 
-    a pumped hydroelectric energy storage installation all or substantially all of the use of which by the taxpayer, or by a lessee of the taxpayer, is to store **and discharge** electrical energy including reversing turbines, transmission equipment, dams, reservoirs and related structures, and that meets the condition in either subclause (d)(xviii)(B)(I) or (II) in this Class, but not including
+    a pumped hydroelectric energy storage installation all or substantially all of the use of which by the taxpayer, or by a lessee of the taxpayer, is to store and discharge electrical energy including reversing turbines, transmission equipment, dams, reservoirs and related structures, and that meets the condition in either subclause (d)(xviii)(B)(I) or (II) in this Class, but not including
 
   **(4)** Subparagraph (e)(i) of Class 43.1 in Schedule II to the Regulations is replaced by the following:
 
@@ -11194,7 +11172,7 @@ the `Global Minimum Tax Act`.
 
 Paragraph 462.48(2)(c) of the `Criminal Code` is replaced by the following:
 
-the type of information or book, record, writing, return or other document obtained by or on behalf of the Minister of National Revenue for the purposes of Part IX of the `Excise Tax Act`, the `Income Tax Act`, the `Excise Act, 2001`, the `Underused Housing Tax Act`, the `Select Luxury Items Tax Act` or **the `Global Minimum Tax Act`** to which access is sought or that is proposed to be examined or communicated; and
+the type of information or book, record, writing, return or other document obtained by or on behalf of the Minister of National Revenue for the purposes of Part IX of the `Excise Tax Act`, the `Income Tax Act`, the `Excise Act, 2001`, the `Underused Housing Tax Act`, the `Select Luxury Items Tax Act` or the `Global Minimum Tax Act` to which access is sought or that is proposed to be examined or communicated; and
 
 
 #### Excise Tax Act
@@ -11205,25 +11183,25 @@ Section 77 of the `Excise Tax Act` is replaced by the following:
 
 ### Section 77
 
-A refund shall not be paid, and a credit shall not be allowed, to a person under this Act until the person has filed with the Minister all returns and other records of which the Minister has knowledge that are required to be filed under the `Excise Tax Act`, the `Income Tax Act`, the `Air Travellers Security Charge Act`, the `Excise Act, 2001`, the `Underused Housing Tax Act`, the `Select Luxury Items Tax Act` and **the `Global Minimum Tax Act`**.
+A refund shall not be paid, and a credit shall not be allowed, to a person under this Act until the person has filed with the Minister all returns and other records of which the Minister has knowledge that are required to be filed under the `Excise Tax Act`, the `Income Tax Act`, the `Air Travellers Security Charge Act`, the `Excise Act, 2001`, the `Underused Housing Tax Act`, the `Select Luxury Items Tax Act` and the `Global Minimum Tax Act`.
 
 ### Section 86
 
 Subsection 229(2) of the Act is replaced by the following:
 
-**(2)** A net tax refund for a reporting period of a person shall not be paid to the person under subsection (1) at any time unless all returns of which the Minister has knowledge and that are required to be filed at or before that time by the person under this Act, the `Income Tax Act`, the `Air Travellers Security Charge Act`, the `Excise Act, 2001`, the `Underused Housing Tax Act`, the `Select Luxury Items Tax Act` and **the `Global Minimum Tax Act`** have been filed with the Minister.
+**(2)** A net tax refund for a reporting period of a person shall not be paid to the person under subsection (1) at any time unless all returns of which the Minister has knowledge and that are required to be filed at or before that time by the person under this Act, the `Income Tax Act`, the `Air Travellers Security Charge Act`, the `Excise Act, 2001`, the `Underused Housing Tax Act`, the `Select Luxury Items Tax Act` and the `Global Minimum Tax Act` have been filed with the Minister.
 
 ### Section 87
 
 Subsection 230(2) of the Act is replaced by the following:
 
-**(2)** An amount paid on account of net tax for a reporting period of a person shall not be refunded to the person under subsection (1) at any time unless all returns of which the Minister has knowledge and that are required to be filed at or before that time by the person under this Act, the `Income Tax Act`, the `Air Travellers Security Charge Act`, the `Excise Act, 2001`, the `Underused Housing Tax Act`, the `Select Luxury Items Tax Act` and **the `Global Minimum Tax Act`** have been filed with the Minister.
+**(2)** An amount paid on account of net tax for a reporting period of a person shall not be refunded to the person under subsection (1) at any time unless all returns of which the Minister has knowledge and that are required to be filed at or before that time by the person under this Act, the `Income Tax Act`, the `Air Travellers Security Charge Act`, the `Excise Act, 2001`, the `Underused Housing Tax Act`, the `Select Luxury Items Tax Act` and the `Global Minimum Tax Act` have been filed with the Minister.
 
 ### Section 88
 
 Subparagraph 238.1(2)(c)(iii) of the Act is replaced by the following:
 
-all amounts required under this Act (other than this Part), sections 21 and 33 of the `Canada Pension Plan`, the `Excise Act`, the `Customs Act`, the `Income Tax Act`, section 82 and Part VII of the `Employment Insurance Act`, the `Customs Tariff`, the `Excise Act, 2001`, the `Underused Housing Tax Act`, the `Select Luxury Items Tax Act` and **the `Global Minimum Tax Act`** to be remitted or paid before that time by the registrant have been remitted or paid, and
+all amounts required under this Act (other than this Part), sections 21 and 33 of the `Canada Pension Plan`, the `Excise Act`, the `Customs Act`, the `Income Tax Act`, section 82 and Part VII of the `Employment Insurance Act`, the `Customs Tariff`, the `Excise Act, 2001`, the `Underused Housing Tax Act`, the `Select Luxury Items Tax Act` and the `Global Minimum Tax Act` to be remitted or paid before that time by the registrant have been remitted or paid, and
 
 ### Section 89
 
@@ -11231,13 +11209,13 @@ Section 263.02 of the Act is replaced by the following:
 
 ### Section 263.02
 
-A rebate under this Part shall not be paid to a person at any time unless all returns of which the Minister has knowledge and that are required to be filed at or before that time by the person under this Act, the `Income Tax Act`, the `Air Travellers Security Charge Act`, the `Excise Act, 2001`, the `Underused Housing Tax Act`, the `Select Luxury Items Tax Act` and **the `Global Minimum Tax Act`** have been filed with the Minister.
+A rebate under this Part shall not be paid to a person at any time unless all returns of which the Minister has knowledge and that are required to be filed at or before that time by the person under this Act, the `Income Tax Act`, the `Air Travellers Security Charge Act`, the `Excise Act, 2001`, the `Underused Housing Tax Act`, the `Select Luxury Items Tax Act` and the `Global Minimum Tax Act` have been filed with the Minister.
 
 ### Section 90
 
 Subsection 296(7) of the Act is replaced by the following:
 
-**(7)** An amount under this section shall not be refunded to a person at any time unless all returns of which the Minister has knowledge and that are required to be filed at or before that time by the person under this Act, the `Income Tax Act`, the `Air Travellers Security Charge Act`, the `Excise Act, 2001`, the `Underused Housing Tax Act`, the `Select Luxury Items Tax Act` and **the `Global Minimum Tax Act`** have been filed with the Minister.
+**(7)** An amount under this section shall not be refunded to a person at any time unless all returns of which the Minister has knowledge and that are required to be filed at or before that time by the person under this Act, the `Income Tax Act`, the `Air Travellers Security Charge Act`, the `Excise Act, 2001`, the `Underused Housing Tax Act`, the `Select Luxury Items Tax Act` and the `Global Minimum Tax Act` have been filed with the Minister.
 
 
 #### Export Development Act
@@ -11246,7 +11224,7 @@ Subsection 296(7) of the Act is replaced by the following:
 
 Paragraph 24.3(2)(c) of the `Export Development Act` is replaced by the following:
 
-to the Minister of National Revenue solely for the purpose of administering or enforcing the `Excise Tax Act`, the `Income Tax Act`, the `Select Luxury Items Tax Act` or **the `Global Minimum Tax Act`**; or
+to the Minister of National Revenue solely for the purpose of administering or enforcing the `Excise Tax Act`, the `Income Tax Act`, the `Select Luxury Items Tax Act` or the `Global Minimum Tax Act`; or
 
 
 #### Financial Administration Act
@@ -11255,7 +11233,7 @@ to the Minister of National Revenue solely for the purpose of administering or e
 
 Paragraph 155.2(6)(c) of the `Financial Administration Act` is replaced by the following:
 
-an amount owing by a person to Her Majesty in right of Canada, or payable by the Minister of National Revenue to any person, under the `Excise Tax Act`, the `Income Tax Act`, the `Air Travellers Security Charge Act`, the `Excise Act, 2001`, the `Softwood Lumber Products Export Charge Act, 2006`, the `Underused Housing Tax Act`, the `Select Luxury Items Tax Act` or **the `Global Minimum Tax Act`**.
+an amount owing by a person to Her Majesty in right of Canada, or payable by the Minister of National Revenue to any person, under the `Excise Tax Act`, the `Income Tax Act`, the `Air Travellers Security Charge Act`, the `Excise Act, 2001`, the `Softwood Lumber Products Export Charge Act, 2006`, the `Underused Housing Tax Act`, the `Select Luxury Items Tax Act` or the `Global Minimum Tax Act`.
 
 
 #### Tax Court of Canada Act
@@ -11266,31 +11244,31 @@ an amount owing by a person to Her Majesty in right of Canada, or payable by the
 
 ### Section 12
 
-      **(1)** The Court has exclusive original jurisdiction to hear and determine references and appeals to the Court on matters arising under the `Canada Pension Plan`, the `Cultural Property Export and Import Act`, Part IX of the `Excise Tax Act`, the `Old Age Security Act`, the `Petroleum and Gas Revenue Tax Act`, Part V.1 of the `Customs Act`, the `Income Tax Act`, the `Employment Insurance Act`, the `Air Travellers Security Charge Act`, the `Excise Act, 2001`, the `Softwood Lumber Products Export Charge Act, 2006`, the `Disability Tax Credit Promoters Restrictions Act`, Part 1 of the `Greenhouse Gas Pollution Pricing Act`, the `Underused Housing Tax Act`, the `Select Luxury Items Tax Act` and **the `Global Minimum Tax Act`** when references or appeals to the Court are provided for in those Acts.
+      **(1)** The Court has exclusive original jurisdiction to hear and determine references and appeals to the Court on matters arising under the `Canada Pension Plan`, the `Cultural Property Export and Import Act`, Part IX of the `Excise Tax Act`, the `Old Age Security Act`, the `Petroleum and Gas Revenue Tax Act`, Part V.1 of the `Customs Act`, the `Income Tax Act`, the `Employment Insurance Act`, the `Air Travellers Security Charge Act`, the `Excise Act, 2001`, the `Softwood Lumber Products Export Charge Act, 2006`, the `Disability Tax Credit Promoters Restrictions Act`, Part 1 of the `Greenhouse Gas Pollution Pricing Act`, the `Underused Housing Tax Act`, the `Select Luxury Items Tax Act` and the `Global Minimum Tax Act` when references or appeals to the Court are provided for in those Acts.
 
   **(2)** Subsections 12(3) and (4) of the Act are replaced by the following:
 
-    **(3)** The Court has exclusive original jurisdiction to hear and determine questions referred to it under section 310 or 311 of the `Excise Tax Act`, section 97.58 of the `Customs Act`, section 173 or 174 of the `Income Tax Act`, section 51 or 52 of the `Air Travellers Security Charge Act`, section 204 or 205 of the `Excise Act, 2001`, section 62 or 63 of the `Softwood Lumber Products Export Charge Act, 2006`, section 121 or 122 of the `Greenhouse Gas Pollution Pricing Act`, section 45 or 46 of the `Underused Housing Tax Act`, section 105 or 106 of the `Select Luxury Items Tax Act` or **section 94 or 95 of the `Global Minimum Tax Act`**.
+    **(3)** The Court has exclusive original jurisdiction to hear and determine questions referred to it under section 310 or 311 of the `Excise Tax Act`, section 97.58 of the `Customs Act`, section 173 or 174 of the `Income Tax Act`, section 51 or 52 of the `Air Travellers Security Charge Act`, section 204 or 205 of the `Excise Act, 2001`, section 62 or 63 of the `Softwood Lumber Products Export Charge Act, 2006`, section 121 or 122 of the `Greenhouse Gas Pollution Pricing Act`, section 45 or 46 of the `Underused Housing Tax Act`, section 105 or 106 of the `Select Luxury Items Tax Act` or section 94 or 95 of the `Global Minimum Tax Act`.
 
-    **(4)** The Court has exclusive original jurisdiction to hear and determine applications for extensions of time under subsection 28(1) of the `Canada Pension Plan`, section 33.2 of the `Cultural Property Export and Import Act`, section 304 or 305 of the `Excise Tax Act`, section 97.51 or 97.52 of the `Customs Act`, section 166.2 or 167 of the `Income Tax Act`, subsection 103(1) of the `Employment Insurance Act`, section 45 or 47 of the `Air Travellers Security Charge Act`, section 197 or 199 of the `Excise Act, 2001`, section 115 or 117 of the `Greenhouse Gas Pollution Pricing Act`, section 39 or 41 of the `Underused Housing Tax Act`, section 99 or 101 of the `Select Luxury Items Tax Act` or **section 88 or 90 of the `Global Minimum Tax Act`**.
+    **(4)** The Court has exclusive original jurisdiction to hear and determine applications for extensions of time under subsection 28(1) of the `Canada Pension Plan`, section 33.2 of the `Cultural Property Export and Import Act`, section 304 or 305 of the `Excise Tax Act`, section 97.51 or 97.52 of the `Customs Act`, section 166.2 or 167 of the `Income Tax Act`, subsection 103(1) of the `Employment Insurance Act`, section 45 or 47 of the `Air Travellers Security Charge Act`, section 197 or 199 of the `Excise Act, 2001`, section 115 or 117 of the `Greenhouse Gas Pollution Pricing Act`, section 39 or 41 of the `Underused Housing Tax Act`, section 99 or 101 of the `Select Luxury Items Tax Act` or section 88 or 90 of the `Global Minimum Tax Act`.
 
 ### Section 94
 
 Paragraph 18.29(3)(a) of the Act is amended by adding the following after subparagraph (vi):
 
-**section 88 or 90 of the `Global Minimum Tax Act`,**
+section 88 or 90 of the `Global Minimum Tax Act`,
 
 ### Section 95
 
 Subsection 18.31(2) of the Act is replaced by the following:
 
-**(2)** If it is agreed under section 310 of the `Excise Tax Act`, section 97.58 of the `Customs Act`, section 51 of the `Air Travellers Security Act`, section 204 of the `Excise Act, 2001`, section 62 of the `Softwood Lumber Products Export Act, 2006`, section 121 of the `Greenhouse Gas Pollution Pricing Act`, section 45 of the `Underused Housing Tax Act`, section 105 of the `Select Luxury Items Tax Act` or **section 94 of the `Global Minimum Tax Act`** that a question should be determined by the Court, sections 17.1, 17.2 and 17.4 to 17.8 apply, with any modifications that the circumstances require, in respect of the determination of the question.
+**(2)** If it is agreed under section 310 of the `Excise Tax Act`, section 97.58 of the `Customs Act`, section 51 of the `Air Travellers Security Act`, section 204 of the `Excise Act, 2001`, section 62 of the `Softwood Lumber Products Export Act, 2006`, section 121 of the `Greenhouse Gas Pollution Pricing Act`, section 45 of the `Underused Housing Tax Act`, section 105 of the `Select Luxury Items Tax Act` or section 94 of the `Global Minimum Tax Act` that a question should be determined by the Court, sections 17.1, 17.2 and 17.4 to 17.8 apply, with any modifications that the circumstances require, in respect of the determination of the question.
 
 ### Section 96
 
 Subsection 18.32(2) of the Act is replaced by the following:
 
-**(2)** If an application has been made under section 311 of the `Excise Tax Act`, section 52 of the `Air Travellers Security Charge Act`, section 205 of the `Excise Act, 2001`, section 63 of the `Softwood Lumber Products Export Charge Act, 2006`, section 122 of the `Greenhouse Gas Pollution Pricing Act`, section 46 of the `Underused Housing Tax Act`, section 106 of the `Select Luxury Items Tax Act` or **section 95 of the `Global Minimum Tax Act`** for the determination of a question, the application or determination of the question must, subject to section 18.33, be determined in accordance with sections 17.1, 17.2 and 17.4 to 17.8, with any modifications that the circumstances require.
+**(2)** If an application has been made under section 311 of the `Excise Tax Act`, section 52 of the `Air Travellers Security Charge Act`, section 205 of the `Excise Act, 2001`, section 63 of the `Softwood Lumber Products Export Charge Act, 2006`, section 122 of the `Greenhouse Gas Pollution Pricing Act`, section 46 of the `Underused Housing Tax Act`, section 106 of the `Select Luxury Items Tax Act` or section 95 of the `Global Minimum Tax Act` for the determination of a question, the application or determination of the question must, subject to section 18.33, be determined in accordance with sections 17.1, 17.2 and 17.4 to 17.8, with any modifications that the circumstances require.
 
 
 #### Customs Act
@@ -11299,7 +11277,7 @@ Subsection 18.32(2) of the Act is replaced by the following:
 
 Paragraph 107(5)(g.1) of the `Customs Act` is replaced by the following:
 
-an official of the Canada Revenue Agency solely for a purpose relating to the administration or enforcement of the `Canada Pension Plan`, the `Excise Act`, the `Excise Tax Act`, the `Income Tax Act`, the `Employment Insurance Act`, the `Excise Act, 2001`, the `Underused Housing Tax Act`, the `Select Luxury Items Tax Act` or **the `Global Minimum Tax Act`**;
+an official of the Canada Revenue Agency solely for a purpose relating to the administration or enforcement of the `Canada Pension Plan`, the `Excise Act`, the `Excise Tax Act`, the `Income Tax Act`, the `Employment Insurance Act`, the `Excise Act, 2001`, the `Underused Housing Tax Act`, the `Select Luxury Items Tax Act` or the `Global Minimum Tax Act`;
 
 
 #### Income Tax Act
@@ -11314,13 +11292,13 @@ as interest under the `Global Minimum Tax Act`;
 
 Subsection 164(2.01) of the Act is replaced by the following:
 
-**(2.01)** The Minister shall not, in respect of a taxpayer, refund, repay, apply to other debts or set-off amounts under this Act at any time unless all returns of which the Minister has knowledge and that are required to be filed by the taxpayer at or before that time under this Act, the `Excise Tax Act`, the `Air Travellers Security Charge Act`, the `Excise Act, 2001`, the `Underused Housing Tax Act`, the `Select Luxury Items Tax Act` and **the `Global Minimum Tax Act`** have been filed with the Minister.
+**(2.01)** The Minister shall not, in respect of a taxpayer, refund, repay, apply to other debts or set-off amounts under this Act at any time unless all returns of which the Minister has knowledge and that are required to be filed by the taxpayer at or before that time under this Act, the `Excise Tax Act`, the `Air Travellers Security Charge Act`, the `Excise Act, 2001`, the `Underused Housing Tax Act`, the `Select Luxury Items Tax Act` and the `Global Minimum Tax Act` have been filed with the Minister.
 
 ### Section 100
 
 The portion of subsection 221.2(2) of the Act before paragraph (a) is replaced by the following:
 
-**(2)** If a particular amount was appropriated to an amount (in this section referred to as the "debt") that is or may become payable by a person under this Act, the `Excise Tax Act`, the `Air Travellers Security Charge Act`, the `Excise Act, 2001`, the `Underused Housing Tax Act`, the `Select Luxury Items Tax Act` or **the `Global Minimum Tax Act`**, the Minister may, on application by the person, appropriate the particular amount, or a part of it, to another amount that is or may become payable under any of those Acts and, for the purposes of any of those Acts,
+**(2)** If a particular amount was appropriated to an amount (in this section referred to as the "debt") that is or may become payable by a person under this Act, the `Excise Tax Act`, the `Air Travellers Security Charge Act`, the `Excise Act, 2001`, the `Underused Housing Tax Act`, the `Select Luxury Items Tax Act` or the `Global Minimum Tax Act`, the Minister may, on application by the person, appropriate the particular amount, or a part of it, to another amount that is or may become payable under any of those Acts and, for the purposes of any of those Acts,
 
 
 #### Canada Revenue Agency Act
@@ -11338,7 +11316,7 @@ the `Global Minimum Tax Act`; or
 
 Subsection 40(4) of the `Air Travellers Security Charge Act` is replaced by the following:
 
-**(4)** A refund shall not be paid until the person has filed with the Minister all returns and other records of which the Minister has knowledge that are required to be filed under this Act, the `Excise Tax Act`, the `Income Tax Act`, the `Excise Act, 2001`, the `Underused Housing Tax Act`, the `Select Luxury Items Tax Act` and **the `Global Minimum Tax Act`**.
+**(4)** A refund shall not be paid until the person has filed with the Minister all returns and other records of which the Minister has knowledge that are required to be filed under this Act, the `Excise Tax Act`, the `Income Tax Act`, the `Excise Act, 2001`, the `Underused Housing Tax Act`, the `Select Luxury Items Tax Act` and the `Global Minimum Tax Act`.
 
 
 #### Excise Act, 2001
@@ -11347,17 +11325,17 @@ Subsection 40(4) of the `Air Travellers Security Charge Act` is replaced by the 
 
   **(1)** Paragraph 188(6)(a) of the `Excise Act, 2001` is replaced by the following:
 
-    the Minister under this Act, the `Excise Act`, the `Excise Tax Act`, the `Income Tax Act`, the `Air Travellers Security Charge Act`, the `Underused Housing Tax Act`, the `Select Luxury Items Tax Act` and **the `Global Minimum Tax Act`**; or
+    the Minister under this Act, the `Excise Act`, the `Excise Tax Act`, the `Income Tax Act`, the `Air Travellers Security Charge Act`, the `Underused Housing Tax Act`, the `Select Luxury Items Tax Act` and the `Global Minimum Tax Act`; or
 
   **(2)** Clause 188(7)(b)(ii)(A) of the Act is replaced by the following:
 
-    the Minister under this Act, the `Excise Act`, the `Excise Tax Act`, the `Income Tax Act`, the `Air Travellers Security Charge Act`, the `Underused Housing Tax Act`, the `Select Luxury Items Tax Act` and **the `Global Minimum Tax Act`**, or
+    the Minister under this Act, the `Excise Act`, the `Excise Tax Act`, the `Income Tax Act`, the `Air Travellers Security Charge Act`, the `Underused Housing Tax Act`, the `Select Luxury Items Tax Act` and the `Global Minimum Tax Act`, or
 
 ### Section 104
 
 Subsection 189(4) of the Act is replaced by the following:
 
-**(4)** A refund shall not be paid until the person has filed with the Minister or the Minister of Public Safety and Emergency Preparedness all returns and other records of which the Minister has knowledge and that are required to be filed under this Act, the `Excise Act`, the `Excise Tax Act`, the `Customs Act`, the `Income Tax Act`, the `Air Travellers Security Charge Act`, the `Underused Housing Tax Act`, the `Select Luxury Items Tax Act` and **the `Global Minimum Tax Act`**.
+**(4)** A refund shall not be paid until the person has filed with the Minister or the Minister of Public Safety and Emergency Preparedness all returns and other records of which the Minister has knowledge and that are required to be filed under this Act, the `Excise Act`, the `Excise Tax Act`, the `Customs Act`, the `Income Tax Act`, the `Air Travellers Security Charge Act`, the `Underused Housing Tax Act`, the `Select Luxury Items Tax Act` and the `Global Minimum Tax Act`.
 
 
 #### Underused Housing Tax Act
@@ -11368,7 +11346,7 @@ Section 34 of the `Underused Housing Tax Act` is replaced by the following:
 
 ### Section 34
 
-An amount under section 33 is not to be paid to a person by the Minister at any time, unless all returns of which the Minister has knowledge and that are required to be filed at or before that time by the person under this Act, the `Excise Tax Act`, the `Income Tax Act`, the `Excise Act, 2001`, the `Air Travellers Security Charge Act`, Part 1 of the `Greenhouse Gas Pollution Pricing Act` and **the `Global Minimum Tax Act`** have been filed with the Minister.
+An amount under section 33 is not to be paid to a person by the Minister at any time, unless all returns of which the Minister has knowledge and that are required to be filed at or before that time by the person under this Act, the `Excise Tax Act`, the `Income Tax Act`, the `Excise Act, 2001`, the `Air Travellers Security Charge Act`, Part 1 of the `Greenhouse Gas Pollution Pricing Act` and the `Global Minimum Tax Act` have been filed with the Minister.
 
 
 #### Select Luxury Items Tax Act
@@ -11379,7 +11357,7 @@ Section 45 of the `Select Luxury Items Tax Act` is replaced by the following:
 
 ### Section 45
 
-A rebate under this Subdivision is not to be paid to a person at any time unless all returns of which the Minister has knowledge and that are required to be filed at or before that time by the person under this Act, the `Excise Tax Act`, the `Income Tax Act`, the `Air Travellers Security Charge Act`, the `Excise Act, 2001`, Part 1 of the `Greenhouse Gas Pollution Pricing Act` and **the `Global Minimum Tax Act`** have been filed with the Minister.
+A rebate under this Subdivision is not to be paid to a person at any time unless all returns of which the Minister has knowledge and that are required to be filed at or before that time by the person under this Act, the `Excise Tax Act`, the `Income Tax Act`, the `Air Travellers Security Charge Act`, the `Excise Act, 2001`, Part 1 of the `Greenhouse Gas Pollution Pricing Act` and the `Global Minimum Tax Act` have been filed with the Minister.
 
 ### Section 107
 
@@ -11387,19 +11365,19 @@ Section 48 of the Act is replaced by the following:
 
 ### Section 48
 
-If a trustee is appointed under the `Bankruptcy and Insolvency Act` to act in the administration of the estate or succession of a bankrupt, a rebate under this Division that the bankrupt was entitled to claim before the appointment must not be paid after the appointment unless all returns required to be filed in respect of the bankrupt under this Act, the `Excise Tax Act`, the `Income Tax Act`, the `Air Travellers Security Charge Act`, the `Excise Act, 2001`, Part 1 of the `Greenhouse Gas Pollution Pricing Act` and **the `Global Minimum Tax Act`** in respect of periods ending before the appointment have been filed and all amounts required to be paid under **that Part and those Acts** by the bankrupt in respect of those periods have been paid.
+If a trustee is appointed under the `Bankruptcy and Insolvency Act` to act in the administration of the estate or succession of a bankrupt, a rebate under this Division that the bankrupt was entitled to claim before the appointment must not be paid after the appointment unless all returns required to be filed in respect of the bankrupt under this Act, the `Excise Tax Act`, the `Income Tax Act`, the `Air Travellers Security Charge Act`, the `Excise Act, 2001`, Part 1 of the `Greenhouse Gas Pollution Pricing Act` and the `Global Minimum Tax Act` in respect of periods ending before the appointment have been filed and all amounts required to be paid under that Part and those Acts by the bankrupt in respect of those periods have been paid.
 
 ### Section 108
 
 The portion of subsection 53(3) of the Act before the formula is replaced by the following:
 
-**(3)** If, at any time, a person referred to in subsection (1) or (2) fails to give or maintain security in an amount satisfactory to the Minister, the Minister may retain as security, out of any amount that may be or may become payable to the person under this Act, the `Excise Tax Act`, the `Excise Act, 2001`, Part 1 of the `Greenhouse Gas Pollution Pricing Act` or **the `Global Minimum Tax Act`**, an amount not exceeding the amount determined by the formula
+**(3)** If, at any time, a person referred to in subsection (1) or (2) fails to give or maintain security in an amount satisfactory to the Minister, the Minister may retain as security, out of any amount that may be or may become payable to the person under this Act, the `Excise Tax Act`, the `Excise Act, 2001`, Part 1 of the `Greenhouse Gas Pollution Pricing Act` or the `Global Minimum Tax Act`, an amount not exceeding the amount determined by the formula
 
 ### Section 109
 
 Subsection 57(6) of the Act is replaced by the following:
 
-**(6)** A rebate under subsection (4) is not to be paid to a person at any time unless all returns of which the Minister has knowledge and that are required to be filed at or before that time by the person under this Act, the `Excise Tax Act`, the `Income Tax Act`, the `Air Travellers Security Charge Act`, the `Excise Act, 2001`, Part 1 of the `Greenhouse Gas Pollution Pricing Act` and **the `Global Minimum Tax Act`** have been filed with the Minister.
+**(6)** A rebate under subsection (4) is not to be paid to a person at any time unless all returns of which the Minister has knowledge and that are required to be filed at or before that time by the person under this Act, the `Excise Tax Act`, the `Income Tax Act`, the `Air Travellers Security Charge Act`, the `Excise Act, 2001`, Part 1 of the `Greenhouse Gas Pollution Pricing Act` and the `Global Minimum Tax Act` have been filed with the Minister.
 
 ### Section 110
 
@@ -11407,7 +11385,7 @@ Section 94 of the Act is replaced by the following:
 
 ### Section 94
 
-An amount under section 92 or 93 is not to be paid to a person by the Minister at any time, unless all returns of which the Minister has knowledge and that are required to be filed at or before that time by the person under this Act, the `Excise Tax Act`, the `Income Tax Act`, the `Air Travellers Security Charge Act`, the `Excise Act, 2001`, Part 1 of the `Greenhouse Gas Pollution Pricing Act` and **the `Global Minimum Tax Act`** have been filed with the Minister.
+An amount under section 92 or 93 is not to be paid to a person by the Minister at any time, unless all returns of which the Minister has knowledge and that are required to be filed at or before that time by the person under this Act, the `Excise Tax Act`, the `Income Tax Act`, the `Air Travellers Security Charge Act`, the `Excise Act, 2001`, Part 1 of the `Greenhouse Gas Pollution Pricing Act` and the `Global Minimum Tax Act` have been filed with the Minister.
 
 
 ### Coordinating Amendments
@@ -11657,11 +11635,11 @@ An amount under section 92 or 93 is not to be paid to a person by the Minister a
 
   **(1)** Subsection 38(3) of the `Excise Act, 2001` is replaced by the following:
 
-    **(3)** A container of manufactured tobacco does not require tobacco markings to be printed on or affixed to it if the brand of the tobacco is not commonly sold in Canada and is **specified by the Minister**.
+    **(3)** A container of manufactured tobacco does not require tobacco markings to be printed on or affixed to it if the brand of the tobacco is not commonly sold in Canada and is specified by the Minister.
 
   **(2)** Paragraph 38(4)(a) of the Act is replaced by the following:
 
-    cigarettes of the particular type or formulation exported under that brand are cigarettes **specified by the Minister**; and
+    cigarettes of the particular type or formulation exported under that brand are cigarettes specified by the Minister; and
 
   **(3)** Subsections (1) and (2) come into force on the first day of the month after the month in which this Act receives royal assent.
 
@@ -11669,11 +11647,11 @@ An amount under section 92 or 93 is not to be paid to a person by the Minister a
 
   **(1)** Paragraph 58(1)(a) of the Act is replaced by the following:
 
-    the tobacco product of that brand is **specified by the Minister**;
+    the tobacco product of that brand is specified by the Minister;
 
   **(2)** Paragraph 58(2)(a) of the Act is replaced by the following:
 
-    cigarettes of the particular type or formulation exported under that brand are **cigarettes specified by the Minister**; and
+    cigarettes of the particular type or formulation exported under that brand are cigarettes specified by the Minister; and
 
   **(3)** Subsections (1) and (2) come into force on the first day of the month after the month in which this Act receives royal assent.
 
@@ -11733,13 +11711,13 @@ An amount under section 92 or 93 is not to be paid to a person by the Minister a
 
 Subparagraph 211(6)(e)(x) of the Act is replaced by the following:
 
-to an official solely for the administration or enforcement of **the `Tobacco and Vaping Products Act` or** the `Cannabis Act`,
+to an official solely for the administration or enforcement of the `Tobacco and Vaping Products Act` or the `Cannabis Act`,
 
 ### Section 126
 
   **(1)** Paragraph 1(a) of Schedule 1 to the Act is replaced by the following:
 
-    $**0.92883**; or
+    $0.92883; or
 
   **(2)** Subsection (1) is deemed to have come into force on April 17, 2024.
 
@@ -11747,7 +11725,7 @@ to an official solely for the administration or enforcement of **the `Tobacco an
 
   **(1)** Paragraph 2(a) of Schedule 1 to the Act is replaced by the following:
 
-    $**0.18576**; or
+    $0.18576; or
 
   **(2)** Subsection (1) is deemed to have come into force on April 17, 2024.
 
@@ -11755,7 +11733,7 @@ to an official solely for the administration or enforcement of **the `Tobacco an
 
   **(1)** Paragraph 3(a) of Schedule 1 to the Act is replaced by the following:
 
-    $**11.61031**; or
+    $11.61031; or
 
   **(2)** Subsection (1) is deemed to have come into force on April 17, 2024.
 
@@ -11763,7 +11741,7 @@ to an official solely for the administration or enforcement of **the `Tobacco an
 
   **(1)** Paragraph 4(a) of Schedule 1 to the Act is replaced by the following:
 
-    $**40.43121**; or
+    $40.43121; or
 
   **(2)** Subsection (1) is deemed to have come into force on April 17, 2024.
 
@@ -11771,7 +11749,7 @@ to an official solely for the administration or enforcement of **the `Tobacco an
 
   **(1)** Subparagraph (a)(i) of Schedule 2 to the Act is replaced by the following:
 
-    $**0.14533**, or
+    $0.14533, or
 
   **(2)** Subsection (1) is deemed to have come into force on April 17, 2024.
 
@@ -11779,15 +11757,15 @@ to an official solely for the administration or enforcement of **the `Tobacco an
 
   **(1)** Subparagraphs 1(a)(i) and (ii) of Schedule 8 to the Act are replaced by the following:
 
-    for the first 10 millilitres of vaping substance in the vaping device or immediate container, $**1.12** per 2 millilitres of vaping substance or fraction thereof, and
+    for the first 10 millilitres of vaping substance in the vaping device or immediate container, $1.12 per 2 millilitres of vaping substance or fraction thereof, and
 
-    for any additional amount of vaping substance in the vaping device or immediate container, $**1.12** per 10 millilitres of vaping substance or fraction thereof; and
+    for any additional amount of vaping substance in the vaping device or immediate container, $1.12 per 10 millilitres of vaping substance or fraction thereof; and
 
   **(2)** Subparagraphs 1(b)(i) and (ii) of Schedule 8 to the Act are replaced by the following:
 
-    for the first 10 grams of vaping substance in the vaping device or immediate container, $**1.12** per 2 grams of vaping substance or fraction thereof, and
+    for the first 10 grams of vaping substance in the vaping device or immediate container, $1.12 per 2 grams of vaping substance or fraction thereof, and
 
-    for any additional amount of vaping substance in the vaping device or immediate container, $**1.12** per 10 grams of vaping substance or fraction thereof.
+    for any additional amount of vaping substance in the vaping device or immediate container, $1.12 per 10 grams of vaping substance or fraction thereof.
 
   **(3)** Subsections (1) and (2) come into force or are deemed to have come into force on July 1, 2024.
 
@@ -11795,15 +11773,15 @@ to an official solely for the administration or enforcement of **the `Tobacco an
 
   **(1)** Subparagraphs 2(a)(i) and (ii) of Schedule 8 to the Act are replaced by the following:
 
-    for the first 10 millilitres of vaping substance, $**1.12** per 2 millilitres of vaping substance or fraction thereof, and
+    for the first 10 millilitres of vaping substance, $1.12 per 2 millilitres of vaping substance or fraction thereof, and
 
-    for any additional amount of vaping substance, $**1.12** per 10 millilitres of vaping substance or fraction thereof; and
+    for any additional amount of vaping substance, $1.12 per 10 millilitres of vaping substance or fraction thereof; and
 
   **(2)** Subparagraphs 2(b)(i) and (ii) of Schedule 8 to the Act are replaced by the following:
 
-    for the first 10 grams of vaping substance, $**1.12** per 2 grams of vaping substance or fraction thereof, and
+    for the first 10 grams of vaping substance, $1.12 per 2 grams of vaping substance or fraction thereof, and
 
-    for any additional amount of vaping substance, $**1.12** per 10 grams of vaping substance or fraction thereof.
+    for any additional amount of vaping substance, $1.12 per 10 grams of vaping substance or fraction thereof.
 
   **(3)** Subsections (1) and (2) come into force or are deemed to have come into force on July 1, 2024.
 
@@ -11848,25 +11826,25 @@ to an official solely for the administration or enforcement of **the `Tobacco an
 
     **excluded owner** of a residential property for a calendar year means a person (other than a prescribed person) that, on December 31 of the calendar year, is an owner of the residential property
 
-    in **the person's** capacity as a trustee of **a trust** that is
+    in the person's capacity as a trustee of a trust that is
 
     a specified Canadian trust,
 
     a mutual fund trust as defined in subsection 248(1) of the `Income Tax Act`,
 
-    a real estate investment trust as defined in subsection 122.1(1) of **the** `**Income Tax** Act`, or
+    a real estate investment trust as defined in subsection 122.1(1) of the `Income Tax Act`, or
 
-    a SIFT trust as defined in subsection 122.1(1) of **the** `**Income Tax** Act`;
+    a SIFT trust as defined in subsection 122.1(1) of the `Income Tax Act`;
 
     in the person's capacity as a partner of a partnership that is a specified Canadian partnership;
 
-    in a capacity other than as a trustee of a trust or partner of a partnership **if** the **person** is
+    in a capacity other than as a trustee of a trust or partner of a partnership if the person is
 
     an individual who is a citizen or permanent resident,
 
     a specified Canadian corporation,
 
-    a corporation incorporated **or continued** under the laws of Canada or a province whose shares are listed on a stock exchange in Canada for which a designation under section 262 of the `Income Tax Act` is in effect,
+    a corporation incorporated or continued under the laws of Canada or a province whose shares are listed on a stock exchange in Canada for which a designation under section 262 of the `Income Tax Act` is in effect,
 
     a registered charity as defined in subsection 248(1) of the `Income Tax Act`,
 
@@ -11874,7 +11852,7 @@ to an official solely for the administration or enforcement of **the `Tobacco an
 
     an Indigenous governing body as defined in section 2 of the `Department of Indigenous Services Act`,
 
-    **His** Majesty in right of Canada or a province or an agent of **His** Majesty in right of Canada or a province,
+    His Majesty in right of Canada or a province or an agent of His Majesty in right of Canada or a province,
 
     a corporation incorporated or continued under the laws of Canada or a province, all or substantially all of the shares of which are owned or controlled by
 
@@ -11884,27 +11862,27 @@ to an official solely for the administration or enforcement of **the `Tobacco an
 
     any combination of corporations or trusts referred to in clauses (A) and (B); or
 
-    **if the person is**
+    if the person is
 
-    **an individual who is a citizen or permanent resident and** an owner of the residential property as a personal representative in respect of a deceased individual, or
+    an individual who is a citizen or permanent resident and an owner of the residential property as a personal representative in respect of a deceased individual, or
 
     a prescribed person. (**propriétaire exclu**)
 
   **(2)** The definition **ownership percentage** in section 2 of the Act is replaced by the following:
 
-    **ownership percentage**, in respect of a particular **person that is an** owner of a residential property for a calendar year, means
+    **ownership percentage**, in respect of a particular person that is an owner of a residential property for a calendar year, means
 
-    **if prescribed circumstances exist**, a prescribed percentage;
+    if prescribed circumstances exist, a prescribed percentage;
 
     if paragraph (a) does not apply, if section 4.1 applies in respect of the particular person, if the land registration system or other similar system applicable where the residential property is located does not separately indicate a percentage of the ownership in respect of the residential property for each capacity in respect of which this Act applies to the particular person as a separate person under section 4.1, if the particular person indicates a particular percentage in their return for the residential property for the calendar year and if the Minister is satisfied that the particular percentage reasonably reflects the particular person's percentage of the ownership in respect of the residential property, the particular percentage; and
 
-    **if paragraphs (a) and (b) do not apply,**
+    if paragraphs (a) and (b) do not apply,
 
-    if the land registration system or other similar system applicable where the residential property is located indicates that the particular **person** holds a percentage of the ownership in respect of the residential property, that percentage,
+    if the land registration system or other similar system applicable where the residential property is located indicates that the particular person holds a percentage of the ownership in respect of the residential property, that percentage,
 
     if the land registration system or other similar system applicable where the residential property is located indicates that a group of persons that includes the particular person holds a percentage of the ownership in respect of the residential property, that percentage divided by the total number of persons in the group, and
 
-    in any other case, the percentage **determined by the formula**
+    in any other case, the percentage determined by the formula
 
     is the sum of all percentages, each of which is a percentage of the ownership in respect of the residential property that is indicated in the land registration system or other similar system applicable where the residential property is located as being held by another person or a group of persons, and
 
@@ -11912,13 +11890,13 @@ to an official solely for the administration or enforcement of **the `Tobacco an
 
   **(3)** Paragraph (e) of the definition **owner** in section 2 of the Act is replaced by the following:
 
-    a person that gives continuous possession of the land on which the residential property is situated to **another person** referred to in paragraph (b) or (c), or
+    a person that gives continuous possession of the land on which the residential property is situated to another person referred to in paragraph (b) or (c), or
 
   **(4)** Paragraph (a) of the definition **specified Canadian partnership** in section 2 of the Act is replaced by the following:
 
     a partnership, each member of which is, on December 31 of the calendar year,
 
-    a **person referred** to **in** paragraph **(c)** of the definition excluded owner,
+    a person referred to in paragraph (c) of the definition excluded owner,
 
     a trust referred to in paragraph (a) of that definition, or
 
@@ -11958,13 +11936,13 @@ to an official solely for the administration or enforcement of **the `Tobacco an
 
   **(1)** The portion of subsection 6(3) of the Act before the formula is replaced by the following:
 
-    **(3)** Subject to this Act, every person that, on December 31 of a calendar year, is an owner of a residential property (other than an excluded owner **of the residential property**) must pay to **His** Majesty in right of Canada tax in respect of the residential property for the calendar year in the amount determined by the formula
+    **(3)** Subject to this Act, every person that, on December 31 of a calendar year, is an owner of a residential property (other than an excluded owner of the residential property) must pay to His Majesty in right of Canada tax in respect of the residential property for the calendar year in the amount determined by the formula
 
   **(2)** Paragraphs 6(7)(a) and (b) of the Act are repealed.
 
   **(3)** Paragraph 6(8)(b) of the Act is replaced by the following:
 
-    a child, of the individual or the individual's spouse or common-law partner, **who** occupies the **dwelling unit** for the **purpose** of authorized study at a designated learning institution as defined in section 211.1 of the `Immigration and Refugee Protection Regulations`.
+    a child, of the individual or the individual's spouse or common-law partner, who occupies the dwelling unit for the purpose of authorized study at a designated learning institution as defined in section 211.1 of the `Immigration and Refugee Protection Regulations`.
 
   **(4)** Subsection (2) is deemed to have come into force on January 1, 2023.
 
@@ -11976,13 +11954,13 @@ Subsection 7(1) of the Act is replaced by the following:
 
 ### Section 7
 
-  **(1)** A person that, on December 31 of a calendar year, is an owner of **a** residential **property** (other than an excluded owner **of the residential property**) is required to file a return for **the** residential property for the calendar year.
+  **(1)** A person that, on December 31 of a calendar year, is an owner of a residential property (other than an excluded owner of the residential property) is required to file a return for the residential property for the calendar year.
 
 ### Section 140
 
   **(1)** The portion of the definition **confidential information** in subsection 32(1) of the Act after paragraph (b) is replaced by the following:
 
-    but does not include information that does not directly or indirectly reveal the identity of the person to whom it relates and, for the purposes of applying subsections (3), (13) and (14) to a representative of a government entity that is not an official, includes only the information described in **paragraph 211(6)(j) of the `Excise Act, 2001`**. (**renseignement confidentiel**)
+    but does not include information that does not directly or indirectly reveal the identity of the person to whom it relates and, for the purposes of applying subsections (3), (13) and (14) to a representative of a government entity that is not an official, includes only the information described in paragraph 211(6)(j) of the `Excise Act, 2001`. (**renseignement confidentiel**)
 
   **(2)** Subsections 32(6) and (7) of the Act are replaced by the following:
 
@@ -12002,11 +11980,11 @@ Subsection 7(1) of the Act is replaced by the following:
 
   **(1)** Paragraph 47(1)(a) of the Act is replaced by the following:
 
-    $**1,000** if the person is an individual or $**2,000** if the person is not an individual; and
+    $1,000 if the person is an individual or $2,000 if the person is not an individual; and
 
   **(2)** Subsection 47(2) of the Act is replaced by the following:
 
-    **(2)** If a person fails to file a return in respect of a residential property for a particular calendar year by December 31 of the following calendar year, for the purpose of calculating the total referred to **in** paragraph (1)(b), the tax calculated under section 6 in respect of the residential property for the particular calendar year is to be determined without reference to paragraphs 6(7)(c) to (f) and subsections 6(8) and (9) **of this Act and paragraph 2(3)(a) of the `Underused Housing Tax Regulations`**.
+    **(2)** If a person fails to file a return in respect of a residential property for a particular calendar year by December 31 of the following calendar year, for the purpose of calculating the total referred to in paragraph (1)(b), the tax calculated under section 6 in respect of the residential property for the particular calendar year is to be determined without reference to paragraphs 6(7)(c) to (f) and subsections 6(8) and (9) of this Act and paragraph 2(3)(a) of the `Underused Housing Tax Regulations`.
 
   **(3)** Subsection (1) is deemed to have come into force on January 1, 2022.
 
@@ -12020,7 +11998,7 @@ Subsection 7(1) of the Act is replaced by the following:
 
   **(2)** Subsection 62(2) of the Act is amended by striking out "and" at the end of paragraph (a) and by replacing paragraph (b) with the following:
 
-    require any **person** to give the authorized person all reasonable assistance, to answer all proper questions **relating to the administration or enforcement of this Act** and
+    require any person to give the authorized person all reasonable assistance, to answer all proper questions relating to the administration or enforcement of this Act and
 
     to attend with the authorized person at a place designated by the authorized person, or by video-conference or by another form of electronic communication, and to answer the questions orally, and
 
@@ -12030,11 +12008,11 @@ Subsection 7(1) of the Act is replaced by the following:
 
   **(3)** Subsection 62(3) of the Act is replaced by the following:
 
-    **(3)** If any place referred to in **subsection (2)** is a dwelling-house, the authorized person may not enter that dwelling-house without the consent of the occupant, except under the authority of a warrant issued under subsection (4).
+    **(3)** If any place referred to in subsection (2) is a dwelling-house, the authorized person may not enter that dwelling-house without the consent of the occupant, except under the authority of a warrant issued under subsection (4).
 
   **(4)** Paragraph 62(4)(a) of the Act is replaced by the following:
 
-    there are reasonable grounds to believe that the dwelling-house is a place referred to in **subsection (2)**;
+    there are reasonable grounds to believe that the dwelling-house is a place referred to in subsection (2);
 
 ### Section 143
 
@@ -12070,7 +12048,7 @@ Subsection 7(1) of the Act is replaced by the following:
 
 Subsection 83(11) of the Act is replaced by the following:
 
-**(11)** For the purposes of this Act, if a notice or other communication in respect of a person, **other than a notice or other communication that refers to the business number of a person**, is made available in electronic format such that it can be read or perceived by a person or a computer system or other similar device, the notice or other communication is presumed to be sent to the person and received by the person on the date that an electronic message is sent, to the electronic address most recently provided before that date by the person to the Minister for the purposes of this subsection, informing the person that a notice or other communication requiring the person's immediate attention is available in the person's secure electronic account. A notice or other communication is considered to be made available if it is posted by the Minister in the person's secure electronic account and the person has authorized that notices or other communications may be made available in this manner and has not before that date revoked that authorization in a manner specified by the Minister.
+**(11)** For the purposes of this Act, if a notice or other communication in respect of a person, other than a notice or other communication that refers to the business number of a person, is made available in electronic format such that it can be read or perceived by a person or a computer system or other similar device, the notice or other communication is presumed to be sent to the person and received by the person on the date that an electronic message is sent, to the electronic address most recently provided before that date by the person to the Minister for the purposes of this subsection, informing the person that a notice or other communication requiring the person's immediate attention is available in the person's secure electronic account. A notice or other communication is considered to be made available if it is posted by the Minister in the person's secure electronic account and the person has authorized that notices or other communications may be made available in this manner and has not before that date revoked that authorization in a manner specified by the Minister.
 
 **(11.1)** For the purposes of this Act, a notice or other communication in respect of a person that is made available in electronic format such that it can be read or perceived by a person or computer system or other similar device and that refers to the business number of a person is presumed to be sent to the person and received by the person on the date that it is posted by the Minister in the secure electronic account in respect of the business number of the person, unless the person has requested, at least 30 days before that date, in a manner specified by the Minister, that such notices or other communications be sent by mail.
 
@@ -12098,9 +12076,9 @@ Subsection 83(11) of the Act is replaced by the following:
 
   **(1)** Paragraphs 2(2)(a) and (b) of the Regulations are replaced by the following:
 
-    an area that is, as determined in the census **for 2021 as** published by Statistics Canada, neither within a census metropolitan area nor within a specified census agglomeration; and
+    an area that is, as determined in the census for 2021 as published by Statistics Canada, neither within a census metropolitan area nor within a specified census agglomeration; and
 
-    an area that is, as determined in the census **for 2021 as** published by Statistics Canada
+    an area that is, as determined in the census for 2021 as published by Statistics Canada
 
     within a census metropolitan area or specified census agglomeration, and
 
@@ -12118,9 +12096,9 @@ Subsection 83(11) of the Act is replaced by the following:
 
   **(3)** Subsection 2(3) of the Regulations is replaced by the following:
 
-    **(3)** For the purposes of paragraph 6(7)(m) of the Act, **each** of **the following paragraphs sets out conditions** that **are** prescribed **conditions** for a calendar year and **for the person and the particular** residential property referred to in subsection **6(7)** of **the Act**:
+    **(3)** For the purposes of paragraph 6(7)(m) of the Act, each of the following paragraphs sets out conditions that are prescribed conditions for a calendar year and for the person and the particular residential property referred to in subsection 6(7) of the Act:
 
-      the **particular** residential property is used as a place of residence or lodging by the person or the **person's** spouse or common-law partner for at least 28 days during the calendar year; or
+      the particular residential property is used as a place of residence or lodging by the person or the person's spouse or common-law partner for at least 28 days during the calendar year; or
 
       the person, or another person that is related to the person, carries on business in Canada (in this paragraph referred to as the "operator") and the particular residential property is held during the calendar year primarily to provide a place of residence or lodging to an individual at a location at which the individual is required to be in the performance of the individual's duties as
 
@@ -12153,7 +12131,7 @@ Subsection 83(11) of the Act is replaced by the following:
 
   **(1)** The portion of the definition **confidential information** in subsection 107(1) of the `Greenhouse Gas Pollution Pricing Act` after paragraph (b) is replaced by the following:
 
-    but does not include information that does not directly or indirectly reveal the identity of the person to whom it relates and, for the purposes of applying subsections (3), (13) and (15) to a representative of a government entity that is not an official, includes only the information described in paragraph **211(6)(j) of the `Excise Act, 2001`**. (**renseignement confidentiel**)
+    but does not include information that does not directly or indirectly reveal the identity of the person to whom it relates and, for the purposes of applying subsections (3), (13) and (15) to a representative of a government entity that is not an official, includes only the information described in paragraph 211(6)(j) of the `Excise Act, 2001`. (**renseignement confidentiel**)
 
   **(2)** Subsections 107(6) and (7) of the Act are replaced by the following:
 
@@ -12177,7 +12155,7 @@ Subsection 83(11) of the Act is replaced by the following:
 
   **(3)** Paragraph 107(9)(a) of the Act is replaced by the following:
 
-    a representative of the government entity was provided with that information under **subsection** (6); and
+    a representative of the government entity was provided with that information under subsection (6); and
 
   **(4)** Section 107 of the Act is amended by adding the following after subsection (9):
 
@@ -12227,7 +12205,7 @@ Subsection 83(11) of the Act is replaced by the following:
 
 Subsection 134(2) of the Act is replaced by the following:
 
-**(2)** Every person to whom confidential information has been provided for a particular purpose under subsection 107(6) **or (7)** and that for any other purpose knowingly uses, provides to any person, allows the provision to any person of, or allows any person access to, that information is guilty of an offence and liable on summary conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months, or to both.
+**(2)** Every person to whom confidential information has been provided for a particular purpose under subsection 107(6) or (7) and that for any other purpose knowingly uses, provides to any person, allows the provision to any person of, or allows any person access to, that information is guilty of an offence and liable on summary conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months, or to both.
 
 
 ## Various Measures
@@ -12239,7 +12217,7 @@ Subsection 134(2) of the Act is replaced by the following:
 
 Subsection 237(2) of the `Budget Implementation Act, 2022, No. 1` is replaced by the following:
 
-**(2)** Section 236 comes into force on the **fourth** anniversary of the day on which section 235 comes into force.
+**(2)** Section 236 comes into force on the fourth anniversary of the day on which section 235 comes into force.
 
 
 ### Canada Mortgage Bonds Program
@@ -12253,11 +12231,11 @@ Section 11 of the `National Housing Act` is replaced by the following:
 
 ### Section 11
 
-**Despite** anything in this Act, the total of the outstanding insured amounts of all insured loans may not exceed the sum of
+Despite anything in this Act, the total of the outstanding insured amounts of all insured loans may not exceed the sum of
 
-**eight** hundred billion dollars, and
+eight hundred billion dollars, and
 
-any additional amounts authorized by Parliament under an appropriation Act or other Act of Parliament on or after **the day on which the `Budget Implementation Act, 2024, No. 1` receives royal assent**.
+any additional amounts authorized by Parliament under an appropriation Act or other Act of Parliament on or after the day on which the `Budget Implementation Act, 2024, No. 1` receives royal assent.
 
 ### Section 151
 
@@ -12270,7 +12248,7 @@ Section 11.1 of the Act is repealed.
 
 Paragraph 4(b) of the `Borrowing Authority Act` is replaced by the following:
 
-the total amount of money borrowed by way of the issue and sale of Canada Mortgage Bonds that are guaranteed by the Canada Mortgage and Housing Corporation, **except if they are purchased by the Minister and are not resold, other than for the purpose of providing a source of temporary liquidity**, and
+the total amount of money borrowed by way of the issue and sale of Canada Mortgage Bonds that are guaranteed by the Canada Mortgage and Housing Corporation, except if they are purchased by the Minister and are not resold, other than for the purpose of providing a source of temporary liquidity, and
 
 
 #### Coordinating Amendments
@@ -12307,7 +12285,7 @@ the total amount of money borrowed by way of the issue and sale of Canada Mortga
 The heading before section 11.1 of the `Canada Student Loans Act` is replaced by the following:
 
 
-## **Loan Forgiveness** — Underserved Rural or Remote Communities
+## Loan Forgiveness — Underserved Rural or Remote Communities
 
 ### Section 156
 
@@ -12315,7 +12293,7 @@ Subsection 11.1(1) of the Act is replaced by the following:
 
 ### Section 11.1
 
-  **(1)** The Minister may forgive an amount in respect of a guaranteed student loan to a borrower who meets the prescribed conditions **and** begins to work in an underserved rural or remote community as a
+  **(1)** The Minister may forgive an amount in respect of a guaranteed student loan to a borrower who meets the prescribed conditions and begins to work in an underserved rural or remote community as a
 
     family physician;
 
@@ -12347,7 +12325,7 @@ Subsection 11.1(1) of the Act is replaced by the following:
 
 Paragraph 17(r) of the Act is replaced by the following:
 
-defining the **words and** expressions **"dental hygienist", "dentist", "early childhood educator"**, "family physician", "full-time student", **"midwife"**, "nurse", "nurse practitioner", "part-time student", **"personal support worker", "pharmacist", "physiotherapist", "psychologist"**, "responsible officer of a lender", **"social worker", "teacher"** and "underserved rural or remote community" for the purposes of this Act;
+defining the words and expressions "dental hygienist", "dentist", "early childhood educator", "family physician", "full-time student", "midwife", "nurse", "nurse practitioner", "part-time student", "personal support worker", "pharmacist", "physiotherapist", "psychologist", "responsible officer of a lender", "social worker", "teacher" and "underserved rural or remote community" for the purposes of this Act;
 
 
 #### `Canada Student Financial Assistance Act`
@@ -12356,14 +12334,14 @@ defining the **words and** expressions **"dental hygienist", "dentist", "early c
 
 Subsection 2(2) of the `Canada Student Financial Assistance Act` is replaced by the following:
 
-**(2)** In this Act, the words and expressions "borrower", "consolidated student loan agreement", "course", **"dental hygienist", "dentist", "early childhood educator"**, "family income", "family physician", "financial assistance", "full-time student", "loan year", **"midwife"**, "nurse", "nurse practitioner", "part-time student", "period of studies", **"personal support worker", "pharmacist", "physiotherapist"**, "post-secondary school level", "program of studies", **"psychologist"**, "severe permanent disability", **"social worker"**, "student loan", "student loan agreement", **"teacher"** and "underserved rural or remote community" have the meanings assigned by the regulations.
+**(2)** In this Act, the words and expressions "borrower", "consolidated student loan agreement", "course", "dental hygienist", "dentist", "early childhood educator", "family income", "family physician", "financial assistance", "full-time student", "loan year", "midwife", "nurse", "nurse practitioner", "part-time student", "period of studies", "personal support worker", "pharmacist", "physiotherapist", "post-secondary school level", "program of studies", "psychologist", "severe permanent disability", "social worker", "student loan", "student loan agreement", "teacher" and "underserved rural or remote community" have the meanings assigned by the regulations.
 
 ### Section 159
 
 The heading before section 9.2 of the Act is replaced by the following:
 
 
-## **Loan Forgiveness** — Underserved Rural or Remote Communities
+## Loan Forgiveness — Underserved Rural or Remote Communities
 
 ### Section 160
 
@@ -12371,7 +12349,7 @@ Subsection 9.2(1) of the Act is replaced by the following:
 
 ### Section 9.2
 
-  **(1)** The Minister may forgive an amount in respect of a student loan to a borrower who meets the prescribed conditions **and** begins to work in an underserved rural or remote community as a
+  **(1)** The Minister may forgive an amount in respect of a student loan to a borrower who meets the prescribed conditions and begins to work in an underserved rural or remote community as a
 
     family physician;
 
@@ -12418,9 +12396,9 @@ The definition **primary caregiver** in subsection 2(1) of the `Canada Education
 
 **primary caregiver** means
 
-in the case of a beneficiary, **or a child referred to in subsections 6(1.1) to (1.3) and section 12.2**, who is a qualified dependant, the eligible individual in respect of the beneficiary **or child**; and
+in the case of a beneficiary, or a child referred to in subsections 6(1.1) to (1.3) and section 12.2, who is a qualified dependant, the eligible individual in respect of the beneficiary or child; and
 
-in the case of a beneficiary, **or a child referred to in subsections 6(1.1) to (1.3) and section 12.2**, in respect of whom a special allowance is payable under the `Children's Special Allowances Act`, the department, agency or institution that maintains the beneficiary **or child**. (**responsable**)
+in the case of a beneficiary, or a child referred to in subsections 6(1.1) to (1.3) and section 12.2, in respect of whom a special allowance is payable under the `Children's Special Allowances Act`, the department, agency or institution that maintains the beneficiary or child. (**responsable**)
 
 ### Section 163
 
@@ -12428,7 +12406,7 @@ in the case of a beneficiary, **or a child referred to in subsections 6(1.1) to 
 
 ### Section 6
 
-      **(1)** Subject to this Act and the regulations, on application to the Minister, in the form and manner approved by the Minister, the Minister may, in respect of a beneficiary under a registered education savings plan who was born after 2003 and is less than **31** years of age at the time of the application, pay to a trustee of a trust governed by the plan a Canada Learning Bond for the benefit of the trust. The **Canada Learning** Bond is to be paid on any terms and conditions that the Minister may specify by agreement between the Minister and the trustee.
+      **(1)** Subject to this Act and the regulations, on application to the Minister, in the form and manner approved by the Minister, the Minister may, in respect of a beneficiary under a registered education savings plan who was born after 2003 and is less than 31 years of age at the time of the application, pay to a trustee of a trust governed by the plan a Canada Learning Bond for the benefit of the trust. The Canada Learning Bond is to be paid on any terms and conditions that the Minister may specify by agreement between the Minister and the trustee.
 
   **(2)** Section 6 of the Act is amended by adding the following after subsection (1):
 
@@ -12450,7 +12428,7 @@ in the case of a beneficiary, **or a child referred to in subsections 6(1.1) to 
 
   **(4)** Subsection 6(4) of the Act is replaced by the following:
 
-    **(4)** The amount of a **Canada Learning** Bond **payable under subsection (1)** in respect of a benefit year is to be paid to the trustee of a trust designated, in the form and manner approved by the Minister, by the primary caregiver of the beneficiary, the primary caregiver's cohabiting spouse or common-law partner or, if the beneficiary is 18 years of age or more, the beneficiary.
+    **(4)** The amount of a Canada Learning Bond payable under subsection (1) in respect of a benefit year is to be paid to the trustee of a trust designated, in the form and manner approved by the Minister, by the primary caregiver of the beneficiary, the primary caregiver's cohabiting spouse or common-law partner or, if the beneficiary is 18 years of age or more, the beneficiary.
 
 ### Section 164
 
@@ -12458,7 +12436,7 @@ The portion of section 7 of the Act before paragraph (a) is replaced by the foll
 
 ### Section 7
 
-Neither a CES grant nor a Canada Learning Bond **payable under subsection 6(1)** may be paid in respect of a beneficiary under a registered education savings plan unless
+Neither a CES grant nor a Canada Learning Bond payable under subsection 6(1) may be paid in respect of a beneficiary under a registered education savings plan unless
 
 ### Section 165
 
@@ -12482,7 +12460,7 @@ Section 9 of the Act is replaced by the following:
 
 ### Section 9
 
-All amounts payable by the Minister under this Act, the regulations or an agreement entered into under section **7.1 or** 12 **must** be paid out of the Consolidated Revenue Fund.
+All amounts payable by the Minister under this Act, the regulations or an agreement entered into under section 7.1 or 12 must be paid out of the Consolidated Revenue Fund.
 
 ### Section 168
 
@@ -12539,9 +12517,9 @@ The Minister may collect the Social Insurance Number of any person who, as deter
 
 Paragraphs 8.3(5)(a) and (b) of the `Bretton Woods and Related Agreements Act` are replaced by the following:
 
-**fifteen billion dollars** in respect of any particular foreign state; and
+fifteen billion dollars in respect of any particular foreign state; and
 
-**twenty-two billion dollars** in respect of all foreign states.
+twenty-two billion dollars in respect of all foreign states.
 
 
 ### Measures Relating to Modernizing International Financial Institutions
@@ -12555,7 +12533,7 @@ Section 7 of the `Bretton Woods and Related Agreements Act` is replaced by the f
 
 ### Section 7
 
-The Minister of Finance may provide for payment out of the Consolidated Revenue Fund to the International Monetary Fund in the manner and at the times provided for by the Agreement set out in Schedule I of a sum or sums of money, not exceeding in the whole an amount equivalent to the subscriptions required from or permitted to be made by Canada, namely, **sixteen** billion, **five hundred thirty-five** million, nine hundred thousand Special Drawing Rights.
+The Minister of Finance may provide for payment out of the Consolidated Revenue Fund to the International Monetary Fund in the manner and at the times provided for by the Agreement set out in Schedule I of a sum or sums of money, not exceeding in the whole an amount equivalent to the subscriptions required from or permitted to be made by Canada, namely, sixteen billion, five hundred thirty-five million, nine hundred thousand Special Drawing Rights.
 
 
 #### `International Development (Financial Institutions) Assistance Act`
@@ -12564,7 +12542,7 @@ The Minister of Finance may provide for payment out of the Consolidated Revenue 
 
   **(1)** Paragraph 3(c) of the English version of the `International Development (Financial Institutions) Assistance Act` is replaced by the following:
 
-    the purchase on behalf of **His** Majesty in right of Canada of shares of the institution;
+    the purchase on behalf of His Majesty in right of Canada of shares of the institution;
 
   **(2)** Section 3 of the Act is amended by striking out "and" at the end of paragraph (b) and by adding the following after paragraph (c):
 
@@ -12579,7 +12557,7 @@ The Minister of Finance may provide for payment out of the Consolidated Revenue 
 
   **(1)** The portion of subsection 6(2) of the `European Bank for Reconstruction and Development Agreement Act` before paragraph (a) is replaced by the following:
 
-    **(2)** The Minister may provide **financial assistance** to the Bank by way of
+    **(2)** The Minister may provide financial assistance to the Bank by way of
 
   **(2)** Subsection 6(2) of the Act is amended by striking out "or" at the end of paragraph (a) and by adding the following after paragraph (b):
 
@@ -12591,7 +12569,7 @@ The Minister of Finance may provide for payment out of the Consolidated Revenue 
 
   **(3)** Subsection 6(3) of the Act is replaced by the following:
 
-    **(3)** The Minister may make payments out of the Consolidated Revenue Fund for the purposes of subsection (2) in an aggregate amount not exceeding, **in any given period, the** amount specified **for that purpose in respect of that period** in an appropriation **by Parliament**.
+    **(3)** The Minister may make payments out of the Consolidated Revenue Fund for the purposes of subsection (2) in an aggregate amount not exceeding, in any given period, the amount specified for that purpose in respect of that period in an appropriation by Parliament.
 
 
 ### `International Financial Assistance Act`
@@ -12637,7 +12615,7 @@ The Governor in Council may, on the recommendation of the Minister of Foreign Af
 
 ### Section 24
 
-      **(1)** Subject to subsection (2), in respect of transactions entered into under section 23, the total of the following liabilities and obligations **must not** at **any** time exceed **$100,000,000,000**:
+      **(1)** Subject to subsection (2), in respect of transactions entered into under section 23, the total of the following liabilities and obligations must not at any time exceed $100,000,000,000:
 
   **(2)** Subsections 24(1.1) and (1.2) of the Act are repealed.
 
@@ -12672,11 +12650,11 @@ Section 160 of the Act is renumbered as subsection 160(1) and is amended by addi
 
   **(1)** Paragraph 24.1(1)(a) of the `Federal-Provincial Fiscal Arrangements Act` is amended by striking out "and" at the end of subparagraph (iv) and by replacing the portion of subparagraph (v) before the formula with the following:
 
-    for each fiscal year beginning after March 31, 2017, the product, rounded to the nearest thousand, obtained by multiplying the cash contribution **determined under this subparagraph** for the immediately preceding fiscal year by the greater of 1.03 **and the amount determined by the formula**
+    for each fiscal year beginning after March 31, 2017, the product, rounded to the nearest thousand, obtained by multiplying the cash contribution determined under this subparagraph for the immediately preceding fiscal year by the greater of 1.03 and the amount determined by the formula
 
   **(2)** Paragraph 24.1(1)(a) of the Act is amended by striking out "and" at the end of subparagraph (v) and by adding the following after subparagraph (v):
 
-    **for each fiscal year in the period beginning on April 1, 2024, and ending on March 31, 2028, in respect of a qualifying province, the product, rounded to the nearest thousand, that is greater than zero, or zero in any other case, determined by the formula**
+    for each fiscal year in the period beginning on April 1, 2024, and ending on March 31, 2028, in respect of a qualifying province, the product, rounded to the nearest thousand, that is greater than zero, or zero in any other case, determined by the formula
 
     is the cash contribution determined under subparagraph (v) for the immediately preceding fiscal year,
 
@@ -12684,7 +12662,7 @@ Section 160 of the Act is renumbered as subsection 160(1) and is amended by addi
 
     is the cash contribution determined under subparagraph (v) for the current fiscal year,
 
-    **for the fiscal year beginning on April 1, 2028, in respect of a qualifying province, the product, rounded to the nearest thousand, determined by multiplying the cash contribution most recently determined under subparagraph (vi) that is greater than zero, or zero in any other case, by the greater of 1.03 and the amount determined by the formula**
+    for the fiscal year beginning on April 1, 2028, in respect of a qualifying province, the product, rounded to the nearest thousand, determined by multiplying the cash contribution most recently determined under subparagraph (vi) that is greater than zero, or zero in any other case, by the greater of 1.03 and the amount determined by the formula
 
     is the average of the annual rates of growth of the nominal gross domestic product of Canada for the calendar year that ends during the fiscal year in question and for the two previous calendar years, as determined by the Minister not later than three months before the beginning of that fiscal year, and
 
@@ -12708,13 +12686,13 @@ Section 24.21 of the Act is replaced by the following:
 
 ### Section 24.21
 
-  ****(1)**** The cash contribution **determined** under **subparagraphs 24.1(1)(a)(iv) or (v), as the case may be,** that may be provided to a province for each fiscal year beginning after March 31, 2014 is the amount determined by **the formula**
+  **(1)** The cash contribution determined under subparagraphs 24.1(1)(a)(iv) or (v), as the case may be, that may be provided to a province for each fiscal year beginning after March 31, 2014 is the amount determined by the formula
 
-    is the cash contribution **determined under the applicable subparagraph** for that fiscal year;
+    is the cash contribution determined under the applicable subparagraph for that fiscal year;
 
-    **is** the population of that province for that fiscal year; and
+    is the population of that province for that fiscal year; and
 
-    **is** the total of the population of all provinces for that fiscal year.
+    is the total of the population of all provinces for that fiscal year.
 
   **(2)** The cash contribution determined under subparagraph 24.1(1)(a)(vi), (vii) or (viii), as the case may be, that may be provided to a qualifying province for each fiscal year beginning after March 31, 2024 is the amount determined by the formula
 
@@ -12779,7 +12757,7 @@ Sections `184` and `185` come into force on a day or days to be fixed by order o
 
   **(1)** Paragraph (b) of the definition **child** in subsection 42(1) of the `Canada Pension Plan` is replaced by the following:
 
-    an individual **in respect of** whom, either legally or in fact, the contributor had, or immediately before the individual reached 21 years of age did have, **parenting time or decision-making responsibility**,
+    an individual in respect of whom, either legally or in fact, the contributor had, or immediately before the individual reached 21 years of age did have, parenting time or decision-making responsibility,
 
   **(2)** Paragraph (b) of the definition **dependent child** in subsection 42(1) of the Act is replaced by the following:
 
@@ -12823,7 +12801,7 @@ Section 57 of the Act is amended by adding the following after subsection (1.1):
 
 ### Section 59
 
-      ****(1)**** **Except in the case of a dependent child described in subparagraph (b)(ii) of the definition dependent child in subsection 42(1)**, a disabled contributor's child's benefit payable to the child of a disabled contributor and an orphan's benefit payable to the orphan of a contributor, is a basic monthly amount consisting of
+      **(1)** Except in the case of a dependent child described in subparagraph (b)(ii) of the definition dependent child in subsection 42(1), a disabled contributor's child's benefit payable to the child of a disabled contributor and an orphan's benefit payable to the orphan of a contributor, is a basic monthly amount consisting of
 
   **(2)** Section 59 of the Act is amended by adding the following after subsection (1):
 
@@ -12833,11 +12811,11 @@ Section 57 of the Act is amended by adding the following after subsection (1.1):
 
   **(1)** Subsection 60(3) of the Act is replaced by the following:
 
-    **(3)** **If** a disabled contributor's child's benefit would, if the application had been approved, have been payable to a child of a disabled contributor on application made prior to the death of the child or an orphan's benefit would, if the application had been approved, have been payable to an orphan of a contributor on application made prior to the death of the orphan and the child or orphan dies after December 31, 1977, not having reached 18 years of age, and no application has been made at the time of the death of the child or orphan, an application may be made within one year after the death by the person or agency having **decision-making responsibility in respect** of the child or orphan at the time of the death or, **if** there is at that time no **such** person or agency, by **any** person or agency **that** the Minister may direct.
+    **(3)** If a disabled contributor's child's benefit would, if the application had been approved, have been payable to a child of a disabled contributor on application made prior to the death of the child or an orphan's benefit would, if the application had been approved, have been payable to an orphan of a contributor on application made prior to the death of the orphan and the child or orphan dies after December 31, 1977, not having reached 18 years of age, and no application has been made at the time of the death of the child or orphan, an application may be made within one year after the death by the person or agency having decision-making responsibility in respect of the child or orphan at the time of the death or, if there is at that time no such person or agency, by any person or agency that the Minister may direct.
 
   **(2)** Paragraph 60(5)(b) of the Act is replaced by the following:
 
-    on the date of the death of a child or an orphan referred to in subsection (3) **if** the person **or agency** having **decision-making responsibility in respect** of the child or orphan did not make an application prior to the death of the child or orphan.
+    on the date of the death of a child or an orphan referred to in subsection (3) if the person or agency having decision-making responsibility in respect of the child or orphan did not make an application prior to the death of the child or orphan.
 
   **(3)** Section 60 of the Act is amended by adding the following after subsection (11):
 
@@ -12855,23 +12833,23 @@ Section 75 of the Act is replaced by the following:
 
 ### Section 75
 
-  ****(1)**** **If** a disabled contributor's child's benefit is payable to a child of a disabled contributor or an orphan's benefit is payable to an orphan of a contributor **and** the child or orphan has not reached 18 years of age, payment **of the benefit must** be made to the person or agency having **decision-making responsibility for** the child or orphan, or, **if** there is no person or agency having **decision-making responsibility for** the child or orphan, to **any** person or agency **that** the Minister may direct.
+  **(1)** If a disabled contributor's child's benefit is payable to a child of a disabled contributor or an orphan's benefit is payable to an orphan of a contributor and the child or orphan has not reached 18 years of age, payment of the benefit must be made to the person or agency having decision-making responsibility for the child or orphan, or, if there is no person or agency having decision-making responsibility for the child or orphan, to any person or agency that the Minister may direct.
 
-  ****(2)**** For the purposes of this Part, in the absence of any evidence to the contrary, the **following** person is presumed to have **decision-making responsibility for** the child or orphan, **as the case may be**:
+  **(2)** For the purposes of this Part, in the absence of any evidence to the contrary, the following person is presumed to have decision-making responsibility for the child or orphan, as the case may be:
 
-    the contributor, in relation to a disabled contributor's child, except **if** the contributor **has less than 20% of the parenting time in respect of** the child; and
+    the contributor, in relation to a disabled contributor's child, except if the contributor has less than 20% of the parenting time in respect of the child; and
 
-    the survivor, if any, of the contributor, in relation to an orphan, except **if** the survivor **has less than 20% of the parenting time in respect of** the orphan.
+    the survivor, if any, of the contributor, in relation to an orphan, except if the survivor has less than 20% of the parenting time in respect of the orphan.
 
 ### Section 194
 
   **(1)** Paragraph 76(1)(c) of the Act is replaced by the following:
 
-    the contributor's disability pension or post-retirement disability benefit ceases to be payable **for any reason other than that the contributor has reached 65 years of age**;
+    the contributor's disability pension or post-retirement disability benefit ceases to be payable for any reason other than that the contributor has reached 65 years of age;
 
   **(2)** Paragraph 76(1)(e) of the Act is replaced by the following:
 
-    the disabled contributor ceases to have **parenting time or decision-making responsibility in respect** of the child, **if** the child is a child as defined in subsection 42(1) by reason of the disabled contributor having had **that parenting time or decision-making responsibility**.
+    the disabled contributor ceases to have parenting time or decision-making responsibility in respect of the child, if the child is a child as defined in subsection 42(1) by reason of the disabled contributor having had that parenting time or decision-making responsibility.
 
 
 #### Consequential Amendment to the `Canada Pension Plan Regulations`
@@ -12880,9 +12858,9 @@ Section 75 of the Act is replaced by the following:
 
 Subparagraphs 52(i)(iii) and (iv) of the `Canada Pension Plan Regulations` are replaced by the following:
 
-was **a child, in respect of whom, either** legally or in fact, **the contributor had parenting time or decision-making responsibility**,
+was a child, in respect of whom, either legally or in fact, the contributor had parenting time or decision-making responsibility,
 
-is **a child, in respect** of **whom**, the disabled contributor, the survivor of the contributor or another person or agency **had decision-making responsibility**,
+is a child, in respect of whom, the disabled contributor, the survivor of the contributor or another person or agency had decision-making responsibility,
 
 
 #### Coming into Force
@@ -13134,7 +13112,7 @@ Section 2.1 of the Act is replaced by the following:
 
 ### Section 2.1
 
-The purpose of this Act is to ensure that financial institutions, the external complaints body, payment card network operators, **participating entities** and **the technical standards body** are supervised by an agency of the Government of Canada so as to contribute to the protection of consumers of financial products and services and the public **and to the safety and security of consumer-driven banking**, including by strengthening the financial literacy of Canadians.
+The purpose of this Act is to ensure that financial institutions, the external complaints body, payment card network operators, participating entities and the technical standards body are supervised by an agency of the Government of Canada so as to contribute to the protection of consumers of financial products and services and the public and to the safety and security of consumer-driven banking, including by strengthening the financial literacy of Canadians.
 
 ### Section 201
 
@@ -13160,7 +13138,7 @@ Subsection 5.1(1) of the Act is replaced by the following:
 
 ### Section 5.1
 
-  **(1)** The Minister may give a written direction to the Agency if **the Minister** is of the opinion that it can strengthen consumer protection and the public's confidence in that protection, **foster safe and secure consumer-driven banking** or enhance the financial literacy of Canadians.
+  **(1)** The Minister may give a written direction to the Agency if the Minister is of the opinion that it can strengthen consumer protection and the public's confidence in that protection, foster safe and secure consumer-driven banking or enhance the financial literacy of Canadians.
 
 ### Section 203
 
@@ -13201,7 +13179,7 @@ Section 10 of the Act is replaced by the following:
 
 ### Section 10
 
-The employees that are necessary to enable the Commissioner **and the Senior Deputy Commissioner** to perform **their** duties **are to** be appointed in accordance with the `Public Service Employment Act`.
+The employees that are necessary to enable the Commissioner and the Senior Deputy Commissioner to perform their duties are to be appointed in accordance with the `Public Service Employment Act`.
 
 ### Section 206
 
@@ -13209,7 +13187,7 @@ Subsection 11(1) of the Act is replaced by the following:
 
 ### Section 11
 
-  **(1)** In respect of persons appointed under sections **7.2**, 8 and 10, the Commissioner is authorized to exercise the powers and perform the functions of the Treasury Board that relate to human resources management within the meaning of paragraphs 7(1)(b) and (e) and section 11.1 of the `Financial Administration Act`, and those of deputy heads under subsection 12(2) of that Act, as that subsection reads without regard to any terms and conditions that the Governor in Council may direct, including the determination of terms and conditions of employment and the responsibility for employer and employee relations.
+  **(1)** In respect of persons appointed under sections 7.2, 8 and 10, the Commissioner is authorized to exercise the powers and perform the functions of the Treasury Board that relate to human resources management within the meaning of paragraphs 7(1)(b) and (e) and section 11.1 of the `Financial Administration Act`, and those of deputy heads under subsection 12(2) of that Act, as that subsection reads without regard to any terms and conditions that the Governor in Council may direct, including the determination of terms and conditions of employment and the responsibility for employer and employee relations.
 
 ### Section 207
 
@@ -13228,7 +13206,7 @@ The Act is amended by adding the following after section 12:
 
 Subsection 13(3) of the Act is replaced by the following:
 
-**(3)** If the Agency carries on any activity in furtherance of an object described in paragraph 3(2)(d) or (e) **or subsection 3(4)** on the Minister's recommendation, the Minister may on terms and conditions approved by the Treasury Board, in any fiscal year, make a payment out of the Consolidated Revenue Fund to the Agency for the purposes of the activity.
+**(3)** If the Agency carries on any activity in furtherance of an object described in paragraph 3(2)(d) or (e) or subsection 3(4) on the Minister's recommendation, the Minister may on terms and conditions approved by the Treasury Board, in any fiscal year, make a payment out of the Consolidated Revenue Fund to the Agency for the purposes of the activity.
 
 ### Section 209
 
@@ -13236,11 +13214,11 @@ Subsection 13(3) of the Act is replaced by the following:
 
 ### Section 14
 
-      **(1)** **The** Commissioner, **a** person appointed under subsection 4(4), **the Senior Deputy Commissioner, a person appointed under subsection 7.2(2)** or **a** Deputy Commissioner **must not** hold, directly or indirectly, any interest or right in any shares of any financial institution, any bank holding company, any insurance holding company, the external complaints body or any other body corporate, however created, carrying on any business in Canada that is substantially similar to any business carried on by any financial institution or the external complaints body.
+      **(1)** The Commissioner, a person appointed under subsection 4(4), the Senior Deputy Commissioner, a person appointed under subsection 7.2(2) or a Deputy Commissioner must not hold, directly or indirectly, any interest or right in any shares of any financial institution, any bank holding company, any insurance holding company, the external complaints body or any other body corporate, however created, carrying on any business in Canada that is substantially similar to any business carried on by any financial institution or the external complaints body.
 
   **(2)** The portion of subsection 14(2) of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** **The** Commissioner, **a** person appointed under subsection 4(4), **the Senior Deputy Commissioner, a person appointed under subsection 7.2(2)** or **a** Deputy Commissioner **must not**
+    **(2)** The Commissioner, a person appointed under subsection 4(4), the Senior Deputy Commissioner, a person appointed under subsection 7.2(2) or a Deputy Commissioner must not
 
 ### Section 210
 
@@ -13248,7 +13226,7 @@ Section 14.1 of the Act is replaced by the following:
 
 ### Section 14.1
 
-The Commissioner, a person appointed under subsection 4(4), **the Senior Deputy Commissioner, a person appointed under subsection 7.2(2)** or a Deputy Commissioner **must** not hold, directly or indirectly, any interest or right in any shares of a payment card network operator.
+The Commissioner, a person appointed under subsection 4(4), the Senior Deputy Commissioner, a person appointed under subsection 7.2(2) or a Deputy Commissioner must not hold, directly or indirectly, any interest or right in any shares of a payment card network operator.
 
 ### Section 15
 
@@ -13260,15 +13238,15 @@ The Commissioner, a person appointed under subsection 4(4), the Senior Deputy Co
 
 ### Section 16
 
-      **(1)** The Commissioner, a person appointed under subsection 4(4), **the Senior Deputy Commissioner, a person appointed under subsection 7.2(2)**, a Deputy Commissioner and any person appointed under section 10 **must** not accept or receive, directly or indirectly, any grant or gratuity from a financial institution, a bank holding company, an insurance holding company or the external complaints body or from a director, officer or employee of any of them and a financial institution, a bank holding company, an insurance holding company and the external complaints body, and any director, officer or employee of any of them, **must** not make or give any such grant or gratuity.
+      **(1)** The Commissioner, a person appointed under subsection 4(4), the Senior Deputy Commissioner, a person appointed under subsection 7.2(2), a Deputy Commissioner and any person appointed under section 10 must not accept or receive, directly or indirectly, any grant or gratuity from a financial institution, a bank holding company, an insurance holding company or the external complaints body or from a director, officer or employee of any of them and a financial institution, a bank holding company, an insurance holding company and the external complaints body, and any director, officer or employee of any of them, must not make or give any such grant or gratuity.
 
-      **(1.1)** The Commissioner, a person appointed under subsection 4(4), **the Senior Deputy Commissioner, a person appointed under subsection 7.2(2)**, a Deputy Commissioner and any person appointed under section 10 **must** not accept or receive, directly or indirectly, any grant or gratuity from a payment card network operator or any of its directors, officers or employees, and **a** payment card network operator or any of its directors, officers or employees **must not** make or give any such grant or gratuity.
+      **(1.1)** The Commissioner, a person appointed under subsection 4(4), the Senior Deputy Commissioner, a person appointed under subsection 7.2(2), a Deputy Commissioner and any person appointed under section 10 must not accept or receive, directly or indirectly, any grant or gratuity from a payment card network operator or any of its directors, officers or employees, and a payment card network operator or any of its directors, officers or employees must not make or give any such grant or gratuity.
 
-      **(1.2)** The Commissioner, a person appointed under subsection 4(4), the Senior Deputy Commissioner, a person appointed under subsection 7.2(2), a Deputy Commissioner and any person appointed under section 10 must not accept or receive, directly or indirectly, any grant or gratuity from a participating entity or **the technical standards body**, or any of their directors, officers or employees, and a participating entity or the technical standards body, or any of their directors, officers or employees, must not make or give any such grant or gratuity.
+      **(1.2)** The Commissioner, a person appointed under subsection 4(4), the Senior Deputy Commissioner, a person appointed under subsection 7.2(2), a Deputy Commissioner and any person appointed under section 10 must not accept or receive, directly or indirectly, any grant or gratuity from a participating entity or the technical standards body, or any of their directors, officers or employees, and a participating entity or the technical standards body, or any of their directors, officers or employees, must not make or give any such grant or gratuity.
 
   **(2)** The portion of subsection 16(2) of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** Every person, financial institution, bank holding company, insurance holding company, payment card network operator, **participating entity or technical standards body** that contravenes subsection (1), (1.1) or **(1.2)** is guilty of an offence and liable
+    **(2)** Every person, financial institution, bank holding company, insurance holding company, payment card network operator, participating entity or technical standards body that contravenes subsection (1), (1.1) or (1.2) is guilty of an offence and liable
 
 ### Section 212
 
@@ -13292,7 +13270,7 @@ Section 17 of the Act is amended by adding the following after subsection (4):
 
 ### Section 18
 
-      **(1)** The Commissioner **must**, before December 31 in each year, ascertain the total amount of expenses incurred during the immediately preceding fiscal year for or in connection with the administration of this Act and the consumer provisions — excluding the expenses incurred in connection with the objects described in **subsections** 3(3) **and (4)** — and the amounts of any prescribed categories of those expenses in relation to any prescribed group of financial institutions and the external complaints body.
+      **(1)** The Commissioner must, before December 31 in each year, ascertain the total amount of expenses incurred during the immediately preceding fiscal year for or in connection with the administration of this Act and the consumer provisions — excluding the expenses incurred in connection with the objects described in subsections 3(3) and (4) — and the amounts of any prescribed categories of those expenses in relation to any prescribed group of financial institutions and the external complaints body.
 
   **(2)** Section 18 of the Act is amended by adding the following after subsection (5.5):
 
@@ -13314,11 +13292,11 @@ Section 17 of the Act is amended by adding the following after subsection (4):
 
   **(2)** Paragraph 19(1)(c.1) of the Act is replaced by the following:
 
-    prescribing the circumstances in which the Commissioner **and Senior Deputy Commissioner must** not make public, under subsection 31(1), the name of the person who committed the violation; and
+    prescribing the circumstances in which the Commissioner and Senior Deputy Commissioner must not make public, under subsection 31(1), the name of the person who committed the violation; and
 
   **(3)** Subsection 19(2) of the Act is replaced by the following:
 
-    **(2)** The maximum penalty for a violation is $1,000,000 in the case of a violation that is committed by a natural person, and $10,000,000 in the case of a violation that is committed by a financial institution, a payment card network operator or **a participating entity**.
+    **(2)** The maximum penalty for a violation is $1,000,000 in the case of a violation that is committed by a natural person, and $10,000,000 in the case of a violation that is committed by a financial institution, a payment card network operator or a participating entity.
 
 ### Section 215
 
@@ -13326,11 +13304,11 @@ Sections 20.1 and 21 of the Act are replaced by the following:
 
 ### Section 20.1
 
-The purpose of the penalty is not to punish **but** to promote compliance with the consumer provisions, compliance agreements that have been entered into under an Act listed in Schedule 1, any terms and conditions, undertakings or directions referred to in subparagraph 3(2)(a)(ii) **or (4)(a)(ii)**, the provisions of the `Payment Card Networks Act`, **the `Consumer-Driven Banking Act`** or **their** regulations, and agreements entered into under section 7.1.
+The purpose of the penalty is not to punish but to promote compliance with the consumer provisions, compliance agreements that have been entered into under an Act listed in Schedule 1, any terms and conditions, undertakings or directions referred to in subparagraph 3(2)(a)(ii) or (4)(a)(ii), the provisions of the `Payment Card Networks Act`, the `Consumer-Driven Banking Act` or their regulations, and agreements entered into under section 7.1.
 
 ### Section 21
 
-If a contravention or non-compliance that is designated under paragraph 19(1)(a), (a.1) or **(a.3)** can be proceeded with either as a violation or as an offence, proceeding in one manner precludes proceeding in the other.
+If a contravention or non-compliance that is designated under paragraph 19(1)(a), (a.1) or (a.3) can be proceeded with either as a violation or as an offence, proceeding in one manner precludes proceeding in the other.
 
 ### Section 216
 
@@ -13338,29 +13316,29 @@ Section 22 of the Act is replaced by the following:
 
 ### Section 22
 
-  **(1)** Every contravention or non-compliance that is designated under paragraphs 19(1)(a) to (**a.3**) constitutes a violation and the person that commits the violation is liable to a penalty determined in accordance with sections 19 and 20.
+  **(1)** Every contravention or non-compliance that is designated under paragraphs 19(1)(a) to (a.3) constitutes a violation and the person that commits the violation is liable to a penalty determined in accordance with sections 19 and 20.
 
-  **(2)** If the Commissioner believes on reasonable grounds that a person has committed a violation **referred to in any of paragraphs 19(1)(a) to (a.2), they** may issue and **must** cause to be served on the person a notice of violation.
+  **(2)** If the Commissioner believes on reasonable grounds that a person has committed a violation referred to in any of paragraphs 19(1)(a) to (a.2), they may issue and must cause to be served on the person a notice of violation.
 
   **(2.1)** If the Senior Deputy Commissioner believes on reasonable grounds that a person has committed a violation referred to in paragraph 19(1)(a.3), they may issue and must cause to be served on the person a notice of violation.
 
-  **(3)** A notice of violation **must** name the person believed to have committed a violation, identify the violation and set out
+  **(3)** A notice of violation must name the person believed to have committed a violation, identify the violation and set out
 
-    the penalty that the Commissioner **or Senior Deputy Commissioner, as the case may be**, proposes to impose;
+    the penalty that the Commissioner or Senior Deputy Commissioner, as the case may be, proposes to impose;
 
-    the right of the person, within 30 days after the notice is served, or within any longer period that the Commissioner **or Senior Deputy Commissioner, as the case may be**, specifies, to pay the penalty or to make representations to the Commissioner **or Senior Deputy Commissioner, as the case may be**, with respect to the violation and the proposed penalty, and the manner for doing so; and
+    the right of the person, within 30 days after the notice is served, or within any longer period that the Commissioner or Senior Deputy Commissioner, as the case may be, specifies, to pay the penalty or to make representations to the Commissioner or Senior Deputy Commissioner, as the case may be, with respect to the violation and the proposed penalty, and the manner for doing so; and
 
-    the fact that, if the person does not pay the penalty or make representations in accordance with the notice, the person will be deemed to have committed the violation and the Commissioner **or Senior Deputy Commissioner, as the case may be**, may impose a penalty in respect of it.
+    the fact that, if the person does not pay the penalty or make representations in accordance with the notice, the person will be deemed to have committed the violation and the Commissioner or Senior Deputy Commissioner, as the case may be, may impose a penalty in respect of it.
 
 ### Section 217
 
 Subsections 23(2) to (4) of the Act are replaced by the following:
 
-**(2)** If the person makes representations in accordance with the notice, the Commissioner **or Senior Deputy Commissioner, as the case may be, must** decide, on a balance of probabilities, whether the person committed the violation and, if so, may, subject to any regulations made under paragraph 19(1)(b), impose the penalty **set out in the notice**, a lesser penalty or no penalty.
+**(2)** If the person makes representations in accordance with the notice, the Commissioner or Senior Deputy Commissioner, as the case may be, must decide, on a balance of probabilities, whether the person committed the violation and, if so, may, subject to any regulations made under paragraph 19(1)(b), impose the penalty set out in the notice, a lesser penalty or no penalty.
 
-**(3)** A person who neither pays the penalty nor makes representations in accordance with the notice is deemed to have committed the violation and the Commissioner **or Senior Deputy Commissioner, as the case may be**, may, subject to any regulations made under paragraph 19(1)(b), impose the penalty proposed, a lesser penalty or no penalty.
+**(3)** A person who neither pays the penalty nor makes representations in accordance with the notice is deemed to have committed the violation and the Commissioner or Senior Deputy Commissioner, as the case may be, may, subject to any regulations made under paragraph 19(1)(b), impose the penalty proposed, a lesser penalty or no penalty.
 
-**(4)** The Commissioner **or Senior Deputy Commissioner, as the case may be, must** cause notice of any decision made under subsection (2) or (3) to be issued and served on the person together with notice of the right of appeal under section 24.
+**(4)** The Commissioner or Senior Deputy Commissioner, as the case may be, must cause notice of any decision made under subsection (2) or (3) to be issued and served on the person together with notice of the right of appeal under section 24.
 
 ### Section 218
 
@@ -13372,7 +13350,7 @@ Subsections 23(2) to (4) of the Act are replaced by the following:
 
   **(2)** Subsection 24(2) of the Act is replaced by the following:
 
-    **(2)** In an appeal, the Court **must** take every reasonable precaution, including, when appropriate, conducting hearings in private, to avoid the disclosure by the Court or any person of confidential information referred to in subsection 17(1), (3) or **(5)**.
+    **(2)** In an appeal, the Court must take every reasonable precaution, including, when appropriate, conducting hearings in private, to avoid the disclosure by the Court or any person of confidential information referred to in subsection 17(1), (3) or (5).
 
   **(3)** Subsection 24(3) of the English version of the Act is replaced by the following:
 
@@ -13384,7 +13362,7 @@ Subsection 26(1) of the Act is replaced by the following:
 
 ### Section 26
 
-  **(1)** The unpaid amount of any debt referred to in subsection 25(1) may be certified by the Commissioner **or Senior Deputy Commissioner, as the case may be**.
+  **(1)** The unpaid amount of any debt referred to in subsection 25(1) may be certified by the Commissioner or Senior Deputy Commissioner, as the case may be.
 
 ### Section 220
 
@@ -13398,15 +13376,15 @@ Sections 30 and 31 of the Act are replaced by the following:
 
 ### Section 30
 
-  **(1)** No proceedings in respect of a violation may be commenced later than two years after the subject-matter of the proceedings became known to the Commissioner **or Senior Deputy Commissioner, as the case may be**.
+  **(1)** No proceedings in respect of a violation may be commenced later than two years after the subject-matter of the proceedings became known to the Commissioner or Senior Deputy Commissioner, as the case may be.
 
-  **(2)** A document appearing to have been issued by the Commissioner **or Senior Deputy Commissioner, as the case may be**, certifying the day on which the subject-matter of any proceedings became known to **them**, is admissible in evidence without proof of the signature or official character of the person appearing to have signed the document and is, in the absence of evidence to the contrary, proof of the matter asserted in it.
+  **(2)** A document appearing to have been issued by the Commissioner or Senior Deputy Commissioner, as the case may be, certifying the day on which the subject-matter of any proceedings became known to them, is admissible in evidence without proof of the signature or official character of the person appearing to have signed the document and is, in the absence of evidence to the contrary, proof of the matter asserted in it.
 
 ### Section 31
 
-  **(1)** Subject to any regulations, the Commissioner **or Senior Deputy Commissioner, as the case may be, must** make public the nature of a violation, the name of the person who committed it and the amount of the penalty imposed.
+  **(1)** Subject to any regulations, the Commissioner or Senior Deputy Commissioner, as the case may be, must make public the nature of a violation, the name of the person who committed it and the amount of the penalty imposed.
 
-  **(2)** In making public the nature of a violation, the Commissioner **or Senior Deputy Commissioner, as the case may be**, may include the reasons for **their** decision, including the relevant facts, analysis and considerations that formed part of the decision.
+  **(2)** In making public the nature of a violation, the Commissioner or Senior Deputy Commissioner, as the case may be, may include the reasons for their decision, including the relevant facts, analysis and considerations that formed part of the decision.
 
 ### Section 222
 
@@ -13414,7 +13392,7 @@ Section 33 of the Act is replaced by the following:
 
 ### Section 33
 
-No action lies against **His** Majesty, the Minister, the Commissioner, **the Senior Deputy Commissioner**, any Deputy Commissioner, any officer or employee of the Agency or any person acting under the direction of the Commissioner for anything done or omitted to be done in good faith in the administration or discharge of any powers or duties that under any Act of Parliament are intended or authorized to be executed or performed.
+No action lies against His Majesty, the Minister, the Commissioner, the Senior Deputy Commissioner, any Deputy Commissioner, any officer or employee of the Agency or any person acting under the direction of the Commissioner for anything done or omitted to be done in good faith in the administration or discharge of any powers or duties that under any Act of Parliament are intended or authorized to be executed or performed.
 
 ### Section 223
 
@@ -13422,7 +13400,7 @@ Section 33.1 of the Act is replaced by the following:
 
 ### Section 33.1
 
-The Commissioner, **the Senior Deputy Commissioner, any** Deputy Commissioner, any officer or employee of the Agency or any person acting under the instructions of the Commissioner is not a compellable witness in any civil proceedings in respect of any matter coming to their knowledge as a result of exercising any of their powers or performing any of their duties or functions under this Act or **an Act** listed in Schedule 1.
+The Commissioner, the Senior Deputy Commissioner, any Deputy Commissioner, any officer or employee of the Agency or any person acting under the instructions of the Commissioner is not a compellable witness in any civil proceedings in respect of any matter coming to their knowledge as a result of exercising any of their powers or performing any of their duties or functions under this Act or an Act listed in Schedule 1.
 
 ### Section 224
 
@@ -13452,11 +13430,11 @@ Sections `213` to `221` and `224` come into force on a day or days to be fixed b
 
   **(1)** Paragraph (b) of the definition **deposit-type instrument** in subsection 627.01(1) of the `Bank Act` is replaced by the following:
 
-    a variable rate of interest that is calculated on the basis of the institution's prime lending rate or **an interest** rate **benchmark**. (**instrument de type dépôt**)
+    a variable rate of interest that is calculated on the basis of the institution's prime lending rate or an interest rate benchmark. (**instrument de type dépôt**)
 
   **(2)** The portion of the definition **principal-protected note** in subsection 627.01(1) of the Act after paragraph (b) is replaced by the following:
 
-    A principal-protected note does not include a financial instrument that specifies that the interest or return on the instrument is determined solely on the basis of a fixed rate of interest or return or a variable rate of interest or return that is calculated on the basis of the institution's prime lending rate or **an interest** rate **benchmark**. (**billet à capital protégé**)
+    A principal-protected note does not include a financial instrument that specifies that the interest or return on the instrument is determined solely on the basis of a fixed rate of interest or return or a variable rate of interest or return that is calculated on the basis of the institution's prime lending rate or an interest rate benchmark. (**billet à capital protégé**)
 
   **(3)** Subsection 627.01(1) of the Act is amended by adding the following in alphabetical order:
 
@@ -13466,9 +13444,9 @@ Sections `213` to `221` and `224` come into force on a day or days to be fixed b
 
 Subparagraphs 627.78(1)(b)(ii) and (iii) of the Act are replaced by the following:
 
-the prime lending rate or the **interest** rate **benchmark**, as the case may be, that is used for the calculation of the rate of interest,
+the prime lending rate or the interest rate benchmark, as the case may be, that is used for the calculation of the rate of interest,
 
-the prime lending rate or the **interest** rate **benchmark** in effect when the information is disclosed, and
+the prime lending rate or the interest rate benchmark in effect when the information is disclosed, and
 
 
 ### `Office of the Superintendent of Financial Institutions Act`
@@ -13477,7 +13455,7 @@ the prime lending rate or the **interest** rate **benchmark** in effect when the
 
 Subsection 17(3) of the `Office of the Superintendent of Financial Institutions Act` is replaced by the following:
 
-**(3)** The aggregate of expenditures made under subsection (1) shall not at any time exceed by more than **$100,000,000**, or such other amount as may be specified in an appropriation Act, the total of the assessments and revenues referred to in subsection (2).
+**(3)** The aggregate of expenditures made under subsection (1) shall not at any time exceed by more than $100,000,000, or such other amount as may be specified in an appropriation Act, the total of the assessments and revenues referred to in subsection (2).
 
 
 ### `Bank of Canada Act`
@@ -13501,13 +13479,13 @@ No act of the Bank, including a transfer of property, is invalid by reason only 
 
 Subsection 21.1(6) of the `Canada Business Corporations Act` is replaced by the following:
 
-**(6)** A corporation that, without reasonable cause, contravenes this section is guilty of an offence and liable on summary conviction to a fine not exceeding **$100,000**.
+**(6)** A corporation that, without reasonable cause, contravenes this section is guilty of an offence and liable on summary conviction to a fine not exceeding $100,000.
 
 ### Section 233
 
 Subsection 21.31(5) of the Act is replaced by the following:
 
-**(5)** A corporation that, without reasonable cause, contravenes subsection (1) is guilty of an offence and liable on summary conviction to a fine of not more than **$100,000**.
+**(5)** A corporation that, without reasonable cause, contravenes subsection (1) is guilty of an offence and liable on summary conviction to a fine of not more than $100,000.
 
 ### Section 234
 
@@ -13515,9 +13493,9 @@ Subsection 21.4(5) of the Act is replaced by the following:
 
 **(5)** A person who commits an offence under any of subsections (1) to (4) is liable
 
-  on summary conviction **to a fine not exceeding $200,000 or to imprisonment for a term not exceeding two years, or to both; or**
+  on summary conviction to a fine not exceeding $200,000 or to imprisonment for a term not exceeding two years, or to both; or
 
-  **on conviction on indictment**, to a fine not exceeding $1,000,000 or to imprisonment for a term not exceeding five years, or to both.
+  on conviction on indictment, to a fine not exceeding $1,000,000 or to imprisonment for a term not exceeding five years, or to both.
 
 
 ### `Canada Labour Code` (Improving Access to Protections for Employees)
@@ -13551,7 +13529,7 @@ An employer is prohibited from treating an employee as if they were not their em
 
 Paragraph 97(1)(a) of the Act is replaced by the following:
 
-an employer, a person acting on behalf of an employer, a trade union, a person acting on behalf of a trade union or an employee has contravened or failed to comply with subsection 24(4) or 34(6) or section 37, 47.3, 50, 69, 87.5 or 87.6, subsection 87.7(2) or section 94, 95 or **96.1**; or
+an employer, a person acting on behalf of an employer, a trade union, a person acting on behalf of a trade union or an employee has contravened or failed to comply with subsection 24(4) or 34(6) or section 37, 47.3, 50, 69, 87.5 or 87.6, subsection 87.7(2) or section 94, 95 or 96.1; or
 
 ### Section 238
 
@@ -13559,7 +13537,7 @@ an employer, a person acting on behalf of an employer, a trade union, a person a
 
 ### Section 99
 
-      **(1)** **If**, under section 98, the Board determines that a party to a complaint has contravened or failed to comply with subsection 24(4) or 34(6), section 37, 47.3, 50 or 69, subsection 87.5(1) or (2), section 87.6, subsection 87.7(2) or section 94, 95, 96 or **96.1**, the Board may, by order, require the party to comply with or cease contravening that subsection or section and may
+      **(1)** If, under section 98, the Board determines that a party to a complaint has contravened or failed to comply with subsection 24(4) or 34(6), section 37, 47.3, 50 or 69, subsection 87.5(1) or (2), section 87.6, subsection 87.7(2) or section 94, 95, 96 or 96.1, the Board may, by order, require the party to comply with or cease contravening that subsection or section and may
 
   **(2)** Subsection 99(1) of the Act is amended by striking out "and" at the end of paragraph (e), by adding "and" at the end of paragraph (f) and by adding the following after paragraph (f):
 
@@ -13593,7 +13571,7 @@ An employer is prohibited from treating an employee as if they were not their em
 
 ### Section 127.1
 
-      **(1)** An employee who believes on reasonable grounds that there has been a contravention of this Part or that there is likely to be an accident, injury or illness arising out of, linked with or occurring in the course of employment shall, before exercising any other recourse available under this Part, except the rights conferred by **subsection (8.1) and** sections 128, 129 and 132, make a complaint to the employee's supervisor.
+      **(1)** An employee who believes on reasonable grounds that there has been a contravention of this Part or that there is likely to be an accident, injury or illness arising out of, linked with or occurring in the course of employment shall, before exercising any other recourse available under this Part, except the rights conferred by subsection (8.1) and sections 128, 129 and 132, make a complaint to the employee's supervisor.
 
   **(2)** Section 127.1 of the Act is amended by adding the following after subsection (8):
 
@@ -13601,7 +13579,7 @@ An employer is prohibited from treating an employee as if they were not their em
 
   **(3)** The portion of subsection 127.1(9) of the Act before paragraph (a) is replaced by the following:
 
-    **(9)** The Head shall investigate the complaint referred to in subsection (8) **or (8.1)** unless it relates to an occurrence of harassment and violence and the Head is of the opinion that
+    **(9)** The Head shall investigate the complaint referred to in subsection (8) or (8.1) unless it relates to an occurrence of harassment and violence and the Head is of the opinion that
 
 ### Section 242
 
@@ -13619,7 +13597,7 @@ An employer is prohibited from treating an employee as if they were not their em
 
 ### Section 167.2
 
-If, in any proceeding under this Part **other than a prosecution, or in any proceeding under Part IV** in respect of a **violation that is related to this Part, an** employer alleges that **a person** is not their employee, the burden of proof is on the employer.
+If, in any proceeding under this Part other than a prosecution, or in any proceeding under Part IV in respect of a violation that is related to this Part, an employer alleges that a person is not their employee, the burden of proof is on the employer.
 
 
 #### Transitional Provisions
@@ -13648,7 +13626,7 @@ a time limit for filling a vacant health and safety representative position.
 
 Paragraph 145(1)(a) of the English version of the Act is replaced by the following:
 
-terminate the contravention within the time that the **Head** may specify; and
+terminate the contravention within the time that the Head may specify; and
 
 ### Section 247
 
@@ -13703,15 +13681,27 @@ In accordance with any requirements prescribed by regulation, the employer must 
 
   **(3)** If an employee is affected by a condition that impairs their ability to receive the policy when it is provided by a method that would otherwise be sufficient under this Division, the employer must provide them with the policy by any method of communication that readily permits them to receive it, including braille, large print, audio recording, sign language and verbal communication.
 
+### Section 177.61
+
+It is prohibited for an employer or person acting on behalf of an employer to intimidate, dismiss, penalize, discipline or otherwise take reprisals against an employee, or threaten to take any such action against an employee, because the employee
+
+asks the employer to comply with the policy;
+
+makes inquiries about their rights under the policy;
+
+files a complaint under the policy; or
+
+exercises or attempts to exercise a right under the policy.
+
 ### Section 177.7
 
   **(1)** For greater certainty, this Act and the regulations prevail over the policy to the extent of any inconsistency between them.
 
   **(2)** For greater certainty, in the event of any inconsistency between the policy and a provision of a collective agreement that applies to employees to whom this Division applies, the collective agreement prevails to the extent of the inconsistency.
 
-### Section **177.8**
+### Section 177.8
 
-**The Governor in Council may make regulations**
+The Governor in Council may make regulations
 
 prescribing the form of the policy for the purposes of subsection 177.2(1) and section 177.3;
 
@@ -13823,7 +13813,7 @@ Sections `245` to `248` and `255` come into force on a day or days to be fixed b
 
 Subparagraph 12(2.3)(a)(i) of the `Employment Insurance Act` is replaced by the following:
 
-the date on which a benefit period for the claimant is established falls within the period beginning on September 26, 2021 and ending on October **24, 2026**,
+the date on which a benefit period for the claimant is established falls within the period beginning on September 26, 2021 and ending on October 24, 2026,
 
 
 ### `An Act for the Substantive Equality of Canada's Official Languages`
@@ -13834,7 +13824,7 @@ Section 61 of `An Act for the Substantive Equality of Canada's Official Language
 
 ### Section 19
 
-  **(1)** Subject to this section, sections 18 and 21 and subsections 26(2), 41(2) and (4) and 41.1(2) and (4), Part IX of the `Official Languages Act` applies with respect to a complaint made under subsection 18(1), **(1.1) or (1.2)** as if the federally regulated private business that is the subject of the complaint were a federal institution.
+  **(1)** Subject to this section, sections 18 and 21 and subsections 26(2), 41(2) and (4) and 41.1(2) and (4), Part IX of the `Official Languages Act` applies with respect to a complaint made under subsection 18(1), (1.1) or (1.2) as if the federally regulated private business that is the subject of the complaint were a federal institution.
 
 
 ### Indigenous Loan Guarantee Program
@@ -13895,31 +13885,31 @@ The long title of the `Impact Assessment Act` is replaced by the following:
 
 The preamble to the Act is replaced by the following:
 
-Whereas **Parliament** is committed to **having** an impact assessment process that **prevents or mitigates significant adverse effects within federal jurisdiction**;
+Whereas Parliament is committed to having an impact assessment process that prevents or mitigates significant adverse effects within federal jurisdiction;
 
 Whereas the Government of Canada is committed to implementing the United Nations Declaration on the Rights of Indigenous Peoples;
 
 Whereas the Government of Canada is committed to ensuring respect for the rights of the Indigenous peoples of Canada recognized and affirmed by section 35 of the `Constitution Act, 1982`;
 
-Whereas **Parliament** recognizes the importance of **implementing** the impact assessment process in a **manner** that
+Whereas Parliament recognizes the importance of implementing the impact assessment process in a manner that
 
-**supports coordinated action among** jurisdictions that have powers, duties and functions in relation to the assessment of the effects of designated projects,
+supports coordinated action among jurisdictions that have powers, duties and functions in relation to the assessment of the effects of designated projects,
 
-**fosters** reconciliation and working in partnership with the **Indigenous peoples** of Canada,
+fosters reconciliation and working in partnership with the Indigenous peoples of Canada,
 
-**integrates** scientific information and Indigenous knowledge,
+integrates scientific information and Indigenous knowledge,
 
-**fosters** meaningful public participation,
+fosters meaningful public participation,
 
 is transparent, efficient and timely and contributes to a positive investment climate in Canada,
 
-**encourages** the **use** of innovative approaches and technologies to **prevent or mitigate** adverse **effects within federal jurisdiction**, and
+encourages the use of innovative approaches and technologies to prevent or mitigate adverse effects within federal jurisdiction, and
 
-**contributes** to fostering sustainability and to the Government of Canada's ability to meet its environmental obligations and its commitments in respect of climate change;
+contributes to fostering sustainability and to the Government of Canada's ability to meet its environmental obligations and its commitments in respect of climate change;
 
 Whereas Parliament is committed, in order to prevent or mitigate significant adverse environmental effects, as defined in section 81, to having a process for the assessment of projects, as defined in that section, that are to be carried out on federal lands, or those that are outside Canada and that are to be carried out or financially supported by a federal authority;
 
-And whereas **Parliament** recognizes the importance of regional assessments in understanding the effects of existing or future physical activities and the importance of strategic assessments in assessing federal policies, plans or programs that are relevant to conducting impact assessments;
+And whereas Parliament recognizes the importance of regional assessments in understanding the effects of existing or future physical activities and the importance of strategic assessments in assessing federal policies, plans or programs that are relevant to conducting impact assessments;
 
 ### Section 271
 
@@ -13927,13 +13917,13 @@ And whereas **Parliament** recognizes the importance of regional assessments in 
 
   **(2)** The definition mitigation measures in section 2 of the Act is replaced by the following:
 
-    **mitigation measures** means measures to eliminate, reduce, control or offset adverse effects **within federal jurisdiction, direct** or **incidental adverse effects or adverse environmental effects, as defined in section 81**, and includes restitution for any damage caused by those effects through replacement, restoration, compensation or any other means. (**mesures d'atténuation**)
+    **mitigation measures** means measures to eliminate, reduce, control or offset adverse effects within federal jurisdiction, direct or incidental adverse effects or adverse environmental effects, as defined in section 81, and includes restitution for any damage caused by those effects through replacement, restoration, compensation or any other means. (**mesures d'atténuation**)
 
   **(3)** Section 2 of the Act is amended by adding the following in alphabetical order:
 
-    ****adverse** effects within federal jurisdiction** means, with respect to a physical activity or a designated project,
+    **adverse effects within federal jurisdiction** means, with respect to a physical activity or a designated project,
 
-    **a non-negligible adverse** change to the following components of the environment that are within the legislative authority of Parliament:
+    a non-negligible adverse change to the following components of the environment that are within the legislative authority of Parliament:
 
     fish and fish habitat, as defined in subsection 2(1) of the `Fisheries Act`,
 
@@ -13943,13 +13933,13 @@ And whereas **Parliament** recognizes the importance of regional assessments in 
 
     any other component of the environment that is set out in Schedule 3;
 
-    **a non-negligible adverse** change to the environment that would occur on federal lands;
+    a non-negligible adverse change to the environment that would occur on federal lands;
 
-    **a non-negligible adverse change to the marine environment that is caused by pollution and that would occur** outside Canada;
+    a non-negligible adverse change to the marine environment that is caused by pollution and that would occur outside Canada;
 
-    **a non-negligible adverse change — that is caused by pollution — to boundary waters or international waters, as those terms are defined in subsection 2(1) of the `Canada Water Act`, or to interprovincial waters;**
+    a non-negligible adverse change — that is caused by pollution — to boundary waters or international waters, as those terms are defined in subsection 2(1) of the `Canada Water Act`, or to interprovincial waters;
 
-    with respect to the Indigenous peoples of Canada, **a non-negligible adverse** impact — occurring in Canada and resulting from any change to the environment — on
+    with respect to the Indigenous peoples of Canada, a non-negligible adverse impact — occurring in Canada and resulting from any change to the environment — on
 
     physical and cultural heritage,
 
@@ -13957,13 +13947,13 @@ And whereas **Parliament** recognizes the importance of regional assessments in 
 
     any structure, site or thing that is of historical, archaeological, paleontological or architectural significance;
 
-    **a non-negligible adverse** change occurring in Canada to the health, social or economic conditions of the Indigenous peoples of Canada; and
+    a non-negligible adverse change occurring in Canada to the health, social or economic conditions of the Indigenous peoples of Canada; and
 
-    **a non-negligible adverse** change to a health, social or economic matter that is within the legislative authority of Parliament that is set out in Schedule 3.
+    a non-negligible adverse change to a health, social or economic matter that is within the legislative authority of Parliament that is set out in Schedule 3.
 
-    **In the case of a physical activity or a designated project that is carried out on federal lands or is a federal work or undertaking, as defined in subsection 3(1) of the `Canadian Environmental Protection Act, 1999`, this definition also includes the non-negligible adverse effects of that activity or project.** (**effets **négatifs** relevant d'un domaine de compétence fédérale**)
+    In the case of a physical activity or a designated project that is carried out on federal lands or is a federal work or undertaking, as defined in subsection 3(1) of the `Canadian Environmental Protection Act, 1999`, this definition also includes the non-negligible adverse effects of that activity or project. (**effets négatifs relevant d'un domaine de compétence fédérale**)
 
-    **direct or incidental adverse effects** means **non-negligible adverse** effects that are directly linked or necessarily incidental to a federal authority's exercise of a power or performance of a duty or function that would permit the carrying out, in whole or in part, of a physical activity or designated project, or to a federal authority's provision of financial assistance to a person for the purpose of enabling that activity or project to be carried out, in whole or in part. (**effets directs ou accessoires **négatifs****)
+    **direct or incidental adverse effects** means non-negligible adverse effects that are directly linked or necessarily incidental to a federal authority's exercise of a power or performance of a duty or function that would permit the carrying out, in whole or in part, of a physical activity or designated project, or to a federal authority's provision of financial assistance to a person for the purpose of enabling that activity or project to be carried out, in whole or in part. (**effets directs ou accessoires négatifs**)
 
 ### Section 272
 
@@ -13971,13 +13961,13 @@ Section 6 of the Act is replaced by the following:
 
 ### Section 6
 
-  **(1)** The **purpose** of this Act is to **prevent** or **mitigate significant** adverse effects within federal jurisdiction — and **significant** direct or incidental adverse effects — that may be caused by the carrying out of designated projects, **as well as** significant adverse environmental effects, as defined in section 81, that **may** be caused by the carrying out of projects, **as defined** in that section, by **establishing processes** to **anticipate, identify** and **assess** the **potential** effects of those projects in **order** to **inform** decision making under this or any other Act of Parliament in respect of those effects.
+  **(1)** The purpose of this Act is to prevent or mitigate significant adverse effects within federal jurisdiction — and significant direct or incidental adverse effects — that may be caused by the carrying out of designated projects, as well as significant adverse environmental effects, as defined in section 81, that may be caused by the carrying out of projects, as defined in that section, by establishing processes to anticipate, identify and assess the potential effects of those projects in order to inform decision making under this or any other Act of Parliament in respect of those effects.
 
-  **(2)** The Government of Canada, the Minister, the Agency and federal authorities, in the administration of this Act, must exercise their powers in a manner that fosters sustainability, respects the rights of the Indigenous peoples of Canada **recognized and affirmed by section 35 of the `Constitution Act, 1982`, takes into account Indigenous knowledge, considers the cumulative effects of physical activities**, applies the precautionary principle and **promotes cooperation among jurisdictions and with the Indigenous peoples of Canada**.
+  **(2)** The Government of Canada, the Minister, the Agency and federal authorities, in the administration of this Act, must exercise their powers in a manner that fosters sustainability, respects the rights of the Indigenous peoples of Canada recognized and affirmed by section 35 of the `Constitution Act, 1982`, takes into account Indigenous knowledge, considers the cumulative effects of physical activities, applies the precautionary principle and promotes cooperation among jurisdictions and with the Indigenous peoples of Canada.
 
   **(3)** The Government of Canada, the Minister, the Agency and federal authorities must, in the administration of this Act, exercise their powers in a manner that
 
-    **ensures that processes referred to in subsection (1) are fair, predictable and efficient; and**
+    ensures that processes referred to in subsection (1) are fair, predictable and efficient; and
 
     adheres to the principles of scientific integrity, honesty, objectivity, thoroughness and accuracy.
 
@@ -13987,11 +13977,11 @@ Section 6 of the Act is replaced by the following:
 
 ### Section 7
 
-      **(1)** Subject to subsection (3), the proponent of a designated project must not do any act or thing in connection with the carrying out of the designated project, in whole or in part, if that act or thing may cause any **adverse** effects within federal **jurisdiction**.
+      **(1)** Subject to subsection (3), the proponent of a designated project must not do any act or thing in connection with the carrying out of the designated project, in whole or in part, if that act or thing may cause any adverse effects within federal jurisdiction.
 
   **(2)** The portion of subsection 7(3) of the Act before paragraph (a) is replaced by the following:
 
-    **(3)** The proponent of a designated project may do an act or thing in connection with the carrying out of the designated project, in whole or in part, that may cause **adverse** effects **within federal jurisdiction** if
+    **(3)** The proponent of a designated project may do an act or thing in connection with the carrying out of the designated project, in whole or in part, that may cause adverse effects within federal jurisdiction if
 
   **(3)** Subsection 7(4) of the Act is repealed.
 
@@ -14001,11 +13991,11 @@ Section 8 of the Act is amended by striking out "or" at the end of paragraph (a)
 
 the decision statement with respect to the designated project that is issued to the proponent of the designated project under section 65 sets out that
 
-the **adverse** effects **within federal jurisdiction — and the direct or incidental adverse effects** — that are indicated in the report with respect to the impact assessment of that project are **not likely to be, to some extent, significant, or**
+the adverse effects within federal jurisdiction — and the direct or incidental adverse effects — that are indicated in the report with respect to the impact assessment of that project are not likely to be, to some extent, significant, or
 
-**the Minister has determined under paragraph 60(1)(b), or the Governor in Council has determined under paragraph 62(b), that the adverse effects within federal jurisdiction — and the direct or incidental adverse effects — that are the subject of the determination are justified in the public interest; or**
+the Minister has determined under paragraph 60(1)(b), or the Governor in Council has determined under paragraph 62(b), that the adverse effects within federal jurisdiction — and the direct or incidental adverse effects — that are the subject of the determination are justified in the public interest; or
 
-**the exercise of the power, the performance of the duty or function or the provision of financial assistance is for the purpose of authorizing the proponent to do an act or thing referred to in paragraph 7(3)(c).**
+the exercise of the power, the performance of the duty or function or the provision of financial assistance is for the purpose of authorizing the proponent to do an act or thing referred to in paragraph 7(3)(c).
 
 ### Section 275
 
@@ -14013,13 +14003,13 @@ Subsections 9(1) and (2) of the Act are replaced by the following:
 
 ### Section 9
 
-  **(1)** The Minister may, on request or on **the Minister's** own initiative, by order, designate a physical activity that is not prescribed by regulations made under paragraph 109(b) if, in **the Minister's** opinion, the carrying out of that physical activity may cause adverse effects within federal jurisdiction or direct or incidental adverse effects.
+  **(1)** The Minister may, on request or on the Minister's own initiative, by order, designate a physical activity that is not prescribed by regulations made under paragraph 109(b) if, in the Minister's opinion, the carrying out of that physical activity may cause adverse effects within federal jurisdiction or direct or incidental adverse effects.
 
   **(2)** If the Minister is of the opinion that the carrying out of the physical activity may cause adverse effects within federal jurisdiction or direct or incidental adverse effects, the Minister may, in deciding whether to make an order, consider
 
-    **public concerns related to the adverse effects within federal jurisdiction — or the direct or incidental adverse effects — that may be caused by the carrying out of the physical activity;**
+    public concerns related to the adverse effects within federal jurisdiction — or the direct or incidental adverse effects — that may be caused by the carrying out of the physical activity;
 
-    the adverse impacts that **the** physical activity may have on the rights of the Indigenous peoples of Canada — including Indigenous women — recognized and affirmed by section 35 of the `Constitution Act, 1982`;
+    the adverse impacts that the physical activity may have on the rights of the Indigenous peoples of Canada — including Indigenous women — recognized and affirmed by section 35 of the `Constitution Act, 1982`;
 
     any relevant assessment referred to in section 92, 93 or 95;
 
@@ -14033,21 +14023,21 @@ Subsections 15(1) and (2) of the Act are replaced by the following:
 
 ### Section 15
 
-  **(1)** The proponent must provide the Agency with a notice that sets out how it intends to address the issues referred to in section 14, **including any issues that relate to the adverse impact that the designated project may have on the rights of the Indigenous peoples of Canada recognized and affirmed by section 35 of the `Constitution Act, 1982`**.
+  **(1)** The proponent must provide the Agency with a notice that sets out how it intends to address the issues referred to in section 14, including any issues that relate to the adverse impact that the designated project may have on the rights of the Indigenous peoples of Canada recognized and affirmed by section 35 of the `Constitution Act, 1982`.
 
-  ****(1.1)**** **The Agency may require the proponent to include in the notice** a detailed description of the designated project that includes the information prescribed by regulations made under paragraph 112(1)(a) **if it is of the opinion that a decision cannot be made under subsection 16(1) without that description and information**.
+  **(1.1)** The Agency may require the proponent to include in the notice a detailed description of the designated project that includes the information prescribed by regulations made under paragraph 112(1)(a) if it is of the opinion that a decision cannot be made under subsection 16(1) without that description and information.
 
-  **(2)** The Agency may require the proponent to provide an amended notice that includes the information or details that the Agency specifies if **it** is of the opinion that a decision cannot be made under subsection 16(1) because
+  **(2)** The Agency may require the proponent to provide an amended notice that includes the information or details that the Agency specifies if it is of the opinion that a decision cannot be made under subsection 16(1) because
 
-    the **initial** description or the prescribed information **provided under subsection 10(1)** is incomplete or does not contain sufficient details; or
+    the initial description or the prescribed information provided under subsection 10(1) is incomplete or does not contain sufficient details; or
 
-    **if a detailed description and prescribed information are required, under subsection (1.1), to be included in the notice referred to in subsection (1), the detailed description or prescribed information included in that notice is incomplete or does not contain sufficient details.**
+    if a detailed description and prescribed information are required, under subsection (1.1), to be included in the notice referred to in subsection (1), the detailed description or prescribed information included in that notice is incomplete or does not contain sufficient details.
 
 ### Section 277
 
   **(1)** Paragraph 16(2)(b) of the Act is replaced by the following:
 
-    the adverse effects within federal jurisdiction — or **the** direct or incidental adverse effects — that may **be caused by** the carrying out of the designated project;
+    the adverse effects within federal jurisdiction — or the direct or incidental adverse effects — that may be caused by the carrying out of the designated project;
 
   **(2)** Subsection 16(2) of the Act is amended by striking out "and" at the end of paragraph (f) and by adding the following after that paragraph:
 
@@ -14061,13 +14051,13 @@ Subsections 15(1) and (2) of the Act are replaced by the following:
 
 Paragraph 23(c) of the Act is replaced by the following:
 
-a jurisdiction that, **in relation to** a designated project **in respect of which the Minister has** approved a **substitution** under section 31, conducts an assessment of the **effects of the designated project** or **undertakes activities** under **an agreement** or **arrangement referred to in paragraph 114(1)(f) in relation to the assessment of those effects**.
+a jurisdiction that, in relation to a designated project in respect of which the Minister has approved a substitution under section 31, conducts an assessment of the effects of the designated project or undertakes activities under an agreement or arrangement referred to in paragraph 114(1)(f) in relation to the assessment of those effects.
 
 ### Section 279
 
   **(1)** Subsection 28(3) of the Act is replaced by the following:
 
-    **(3)** The report must set out the effects that, in the Agency's opinion, are likely to be caused by the carrying out of the designated project. It must also indicate, from among the effects set out in the report, those that are adverse effects within federal jurisdiction and those that are direct or incidental adverse effects, and specify, **from among** those **adverse** effects **within federal jurisdiction and direct or incidental adverse effects, the ones that are likely to be, to some extent, significant** and the extent to which **they** are significant.
+    **(3)** The report must set out the effects that, in the Agency's opinion, are likely to be caused by the carrying out of the designated project. It must also indicate, from among the effects set out in the report, those that are adverse effects within federal jurisdiction and those that are direct or incidental adverse effects, and specify, from among those adverse effects within federal jurisdiction and direct or incidental adverse effects, the ones that are likely to be, to some extent, significant and the extent to which they are significant.
 
   **(2)** Paragraph 28(5)(a) of the Act is replaced by the following:
 
@@ -14075,9 +14065,9 @@ a jurisdiction that, **in relation to** a designated project **in respect of whi
 
   **(3)** Subsections 28(6) and (7) of the Act are replaced by the following:
 
-    **(6)** The Minister may extend the time limit referred to in subsection (2) or any time limit established under subsection (5) by any period — up to a maximum of 90 days — that is necessary to take into account circumstances that are specific to the designated project or to **allow** the Agency to cooperate with a jurisdiction referred to in section 21.
+    **(6)** The Minister may extend the time limit referred to in subsection (2) or any time limit established under subsection (5) by any period — up to a maximum of 90 days — that is necessary to take into account circumstances that are specific to the designated project or to allow the Agency to cooperate with a jurisdiction referred to in section 21.
 
-    **(7)** The Governor in Council may, on the recommendation of the Minister, extend the time limit extended under subsection (6) **by** any **period that is necessary to take into account circumstances that are specific to the designated project or to allow the Agency to cooperate with a jurisdiction referred to in section 21**.
+    **(7)** The Governor in Council may, on the recommendation of the Minister, extend the time limit extended under subsection (6) by any period that is necessary to take into account circumstances that are specific to the designated project or to allow the Agency to cooperate with a jurisdiction referred to in section 21.
 
 ### Section 280
 
@@ -14085,9 +14075,9 @@ Subsection 31(1) of the Act is replaced by the following:
 
 ### Section 31
 
-  **(1)** Subject to sections 32 and 33, the Minister may, on request of a jurisdiction referred to in any of paragraphs (c) to (g) of the definition jurisdiction in section 2 that has powers, duties or functions in relation to an assessment of the effects of a designated project and before the expiry of the time limit referred to in subsection 18(1), or any extension of that time limit, **do one of the following**:
+  **(1)** Subject to sections 32 and 33, the Minister may, on request of a jurisdiction referred to in any of paragraphs (c) to (g) of the definition jurisdiction in section 2 that has powers, duties or functions in relation to an assessment of the effects of a designated project and before the expiry of the time limit referred to in subsection 18(1), or any extension of that time limit, do one of the following:
 
-    if the Minister is of the opinion that a process for assessing the effects of designated projects that is followed by **the** jurisdiction would be an appropriate substitute, approve the substitution of that process for the impact assessment;
+    if the Minister is of the opinion that a process for assessing the effects of designated projects that is followed by the jurisdiction would be an appropriate substitute, approve the substitution of that process for the impact assessment;
 
     if the Minister is of the opinion that a process for assessing the effects of designated projects that is followed by the jurisdiction would, together with the activities undertaken under an agreement or arrangement referred to in paragraph 114(1)(f) in relation to the assessment of the effects of the designated project, be an appropriate substitute, approve the substitution of that process and those activities for the impact assessment.
 
@@ -14095,11 +14085,11 @@ Subsection 31(1) of the Act is replaced by the following:
 
   **(1)** Paragraph 33(1)(a) of the Act is replaced by the following:
 
-    the factors set out in subsection 22(1) will **be considered under** the process to be substituted **or under an agreement or arrangement referred to in paragraph 114(1)(f)**;
+    the factors set out in subsection 22(1) will be considered under the process to be substituted or under an agreement or arrangement referred to in paragraph 114(1)(f);
 
   **(2)** Paragraph 33(1)(d) of the Act is replaced by the following:
 
-    the process to be substituted will include consultations with any Indigenous group that may be affected by the carrying out of the designated project **or the consultations will be undertaken under an agreement or arrangement referred to in paragraph 114(1)(f)**;
+    the process to be substituted will include consultations with any Indigenous group that may be affected by the carrying out of the designated project or the consultations will be undertaken under an agreement or arrangement referred to in paragraph 114(1)(f);
 
   **(3)** Subsection 33(1) of the Act is amended by adding the following after paragraph (g):
 
@@ -14107,13 +14097,13 @@ Subsection 31(1) of the Act is replaced by the following:
 
   **(4)** Subsections 33(2) and (2.1) of the Act are replaced by the following:
 
-    **(2)** The Minister must be satisfied that the report that will be submitted to **the Minister** will set out the effects that are likely to be caused by the carrying out of the designated project. The Minister must also be satisfied that the report will
+    **(2)** The Minister must be satisfied that the report that will be submitted to the Minister will set out the effects that are likely to be caused by the carrying out of the designated project. The Minister must also be satisfied that the report will
 
       indicate, from among the effects set out in it, those that are adverse effects within federal jurisdiction and those that are direct or incidental adverse effects; and
 
-      specify, **from among** those **adverse** effects **within federal jurisdiction and direct or incidental adverse effects**, the **ones** that **are likely** to be, **to some extent, significant and** the extent to which **they** are significant.
+      specify, from among those adverse effects within federal jurisdiction and direct or incidental adverse effects, the ones that are likely to be, to some extent, significant and the extent to which they are significant.
 
-    **(2.1)** The Minister must be satisfied that the report that will be submitted to **the Minister** will set out how any Indigenous knowledge provided with respect to the designated project **was taken** into account and used in determining the effects that are likely to be caused by the carrying out of **that** project.
+    **(2.1)** The Minister must be satisfied that the report that will be submitted to the Minister will set out how any Indigenous knowledge provided with respect to the designated project was taken into account and used in determining the effects that are likely to be caused by the carrying out of that project.
 
 ### Section 282
 
@@ -14121,11 +14111,11 @@ Sections 34 and 35 of the Act are replaced by the following:
 
 ### Section 34
 
-The assessment **of** the **effects** of a **designated project in respect of which** the Minister **has approved a** substitution is considered to be an impact assessment under this Act and to satisfy any requirements of this Act and the regulations in respect of an impact assessment.
+The assessment of the effects of a designated project in respect of which the Minister has approved a substitution is considered to be an impact assessment under this Act and to satisfy any requirements of this Act and the regulations in respect of an impact assessment.
 
 ### Section 35
 
-If, with respect to the assessment **of the effects of** a designated project **in respect of which** the Minister **has** approved **a substitution**, the Agency is of the opinion that information is required for the **purpose** of **ensuring** that the **factors set out in subsection 22(1) will be considered or for** the purposes of subsection 60(1) **or (1.1)**, it may require the proponent of **that** project to provide the information to the Minister or may make a request to the jurisdiction that is **following or** followed the process — **or to any jurisdiction that** is **undertaking or undertook activities** under **an agreement or arrangement referred to in paragraph 114(1)(f) in relation** to the assessment of **effects** of **that project** — to provide that information to the Minister.
+If, with respect to the assessment of the effects of a designated project in respect of which the Minister has approved a substitution, the Agency is of the opinion that information is required for the purpose of ensuring that the factors set out in subsection 22(1) will be considered or for the purposes of subsection 60(1) or (1.1), it may require the proponent of that project to provide the information to the Minister or may make a request to the jurisdiction that is following or followed the process — or to any jurisdiction that is undertaking or undertook activities under an agreement or arrangement referred to in paragraph 114(1)(f) in relation to the assessment of effects of that project — to provide that information to the Minister.
 
 ### Section 283
 
@@ -14133,19 +14123,19 @@ If, with respect to the assessment **of the effects of** a designated project **
 
     **(2)** Subject to subsection (3), the total number of days for the time limits established under subsection (1) must not exceed 600 unless the Agency is of the opinion that more time is required to take into account circumstances that are specific to the designated project or to allow the review panel to cooperate with a jurisdiction referred to in section 21 with respect to the impact assessment of that project.
 
-    **(3)** The Minister may extend the time limit established under paragraph (1)(a) by any period — up to a maximum of 90 days — that is necessary to take into account circumstances that are specific to the designated project or to **allow** the review panel to cooperate with a jurisdiction referred to in section 21.
+    **(3)** The Minister may extend the time limit established under paragraph (1)(a) by any period — up to a maximum of 90 days — that is necessary to take into account circumstances that are specific to the designated project or to allow the review panel to cooperate with a jurisdiction referred to in section 21.
 
-    **(4)** The Governor in Council may, on the recommendation of the Minister, extend the time limit extended under subsection (3) **by** any **period that is necessary to take into account circumstances that are specific to the designated project or to allow the review panel to cooperate with a jurisdiction referred to in section 21**.
+    **(4)** The Governor in Council may, on the recommendation of the Minister, extend the time limit extended under subsection (3) by any period that is necessary to take into account circumstances that are specific to the designated project or to allow the review panel to cooperate with a jurisdiction referred to in section 21.
 
   **(2)** Paragraph 37(5)(c) of the Act is replaced by the following:
 
-    a notice of any extension granted under subsection (4), **including the Governor in Council's reasons for granting that extension**.
+    a notice of any extension granted under subsection (4), including the Governor in Council's reasons for granting that extension.
 
 ### Section 284
 
 Subsection 40(6) of the Act is replaced by the following:
 
-**(6)** Before making **any determination** under section 62 in relation to the proposal, the Governor in Council must take into account any report referred to in subsection (5) and any information that the Minister provides to the Governor in Council following the consultations referred to in that subsection.
+**(6)** Before making any determination under section 62 in relation to the proposal, the Governor in Council must take into account any report referred to in subsection (5) and any information that the Minister provides to the Governor in Council following the consultations referred to in that subsection.
 
 ### Section 285
 
@@ -14161,7 +14151,7 @@ The Act is amended by adding the following after section 43:
 
 Subparagraph 51(1)(d)(ii) of the Act is replaced by the following:
 
-indicates which of the effects referred to in subparagraph (i) are adverse effects within federal jurisdiction and which are direct or incidental adverse effects and specifies, **from among those adverse** effects **within federal jurisdiction and direct or incidental adverse effects, the ones that are likely to be, to some extent, significant** and the extent to which **they** are significant,
+indicates which of the effects referred to in subparagraph (i) are adverse effects within federal jurisdiction and which are direct or incidental adverse effects and specifies, from among those adverse effects within federal jurisdiction and direct or incidental adverse effects, the ones that are likely to be, to some extent, significant and the extent to which they are significant,
 
 ### Section 287
 
@@ -14169,13 +14159,13 @@ Section 56 of the Act is replaced by the following:
 
 ### Section 56
 
-The Minister may, before making a referral under section 61, require the proponent of the designated project to collect any information or undertake any studies that are necessary for the Governor in Council to make **any** determination under section 62.
+The Minister may, before making a referral under section 61, require the proponent of the designated project to collect any information or undertake any studies that are necessary for the Governor in Council to make any determination under section 62.
 
 ### Section 288
 
 Subsection 59(2) of the Act is replaced by the following:
 
-**(2)** The report must set out the effects that, in the Agency's opinion, are likely to be caused by the carrying out of the designated project. It must also indicate, from among the effects set out in the report, those that are adverse effects within federal jurisdiction and those that are direct or incidental adverse effects and specify, **from among** those **adverse** effects **within federal jurisdiction and direct or incidental adverse effects, the ones that are likely to be, to some extent, significant** and the extent to which **they** are significant.
+**(2)** The report must set out the effects that, in the Agency's opinion, are likely to be caused by the carrying out of the designated project. It must also indicate, from among the effects set out in the report, those that are adverse effects within federal jurisdiction and those that are direct or incidental adverse effects and specify, from among those adverse effects within federal jurisdiction and direct or incidental adverse effects, the ones that are likely to be, to some extent, significant and the extent to which they are significant.
 
 ### Section 289
 
@@ -14183,17 +14173,17 @@ Subsection 59(2) of the Act is replaced by the following:
 
 ### Section 60
 
-      **(1)** After taking into account the report with respect to the impact assessment of a designated project that is submitted to the Minister under subsection 28(2) or at the end of the assessment **of the effects of a designated project in respect of which the Minister has** approved **a substitution** under section 31, the Minister must
+      **(1)** After taking into account the report with respect to the impact assessment of a designated project that is submitted to the Minister under subsection 28(2) or at the end of the assessment of the effects of a designated project in respect of which the Minister has approved a substitution under section 31, the Minister must
 
-        determine, **after taking into account the implementation of any mitigation measures that the Minister considers appropriate**, whether the adverse effects within federal jurisdiction — and the direct or incidental adverse effects — that are indicated in the report are **likely to be, to some extent, significant** and, **if so, the** extent to which those effects are significant; **and**
+        determine, after taking into account the implementation of any mitigation measures that the Minister considers appropriate, whether the adverse effects within federal jurisdiction — and the direct or incidental adverse effects — that are indicated in the report are likely to be, to some extent, significant and, if so, the extent to which those effects are significant; and
 
-        **if the Minister determines that any** of the effects referred to in paragraph (a) are **likely to be, to some extent, significant, determine** whether the **effects so determined are**, in light of the extent to which the **Minister determined them to be** significant and the factors referred to in section 63, **justified** in the public interest.
+        if the Minister determines that any of the effects referred to in paragraph (a) are likely to be, to some extent, significant, determine whether the effects so determined are, in light of the extent to which the Minister determined them to be significant and the factors referred to in section 63, justified in the public interest.
 
       **(1.1)** After taking into account the report referred to in subsection (1) or at the end of the assessment of the effects of a designated project in respect of which the Minister has approved a substitution under section 31, the Minister may, instead of making the determinations under that subsection, refer to the Governor in Council the matter of making those determinations.
 
   **(2)** Subsection 60(2) of the French version of the Act is replaced by the following:
 
-    **(2)** Si le ministre renvoie **les questions** au gouverneur en conseil, il veille à ce qu'un avis à cet effet soit affiché sur le site Internet, motifs à l'appui.
+    **(2)** Si le ministre renvoie les questions au gouverneur en conseil, il veille à ce qu'un avis à cet effet soit affiché sur le site Internet, motifs à l'appui.
 
 ### Section 290
 
@@ -14203,9 +14193,9 @@ Subsection 61(1) of the Act is replaced by the following:
 
   **(1)** After taking into account the report with respect to the impact assessment of a designated project that the Minister receives under section 55 or that is submitted to the Minister under section 59, the Minister, in consultation with the responsible Minister, if any, must refer to the Governor in Council
 
-    the matter of determining, **after taking into account the implementation of any mitigation measures that the Governor in Council considers appropriate**, whether the adverse effects within federal jurisdiction — and the direct or incidental adverse effects — that are indicated in the report are **likely to be, to some** extent, significant and, **if so**, the **extent** to which those effects are **significant; and**
+    the matter of determining, after taking into account the implementation of any mitigation measures that the Governor in Council considers appropriate, whether the adverse effects within federal jurisdiction — and the direct or incidental adverse effects — that are indicated in the report are likely to be, to some extent, significant and, if so, the extent to which those effects are significant; and
 
-    **the matter of determining whether the effects, if any, that are likely to be, to some extent, significant are,** in light of the **extent to which they are significant and the** factors referred to in section 63, **justified** in the public interest.
+    the matter of determining whether the effects, if any, that are likely to be, to some extent, significant are, in light of the extent to which they are significant and the factors referred to in section 63, justified in the public interest.
 
 ### Section 291
 
@@ -14213,21 +14203,21 @@ Sections 62 and 63 of the Act are replaced by the following:
 
 ### Section 62
 
-If **a** matter is referred to the Governor in Council under **subsection** 60**(1.1)** or **61(1)**, the Governor in Council must, after taking into account the report with respect to the impact assessment of the designated project,
+If a matter is referred to the Governor in Council under subsection 60(1.1) or 61(1), the Governor in Council must, after taking into account the report with respect to the impact assessment of the designated project,
 
-determine, **after taking into account** the **implementation** of **any mitigation measures** that the **Governor in Council considers appropriate**, whether the adverse effects within federal jurisdiction — and the direct or incidental adverse effects — that are indicated in the report are **likely to be, to some** extent, significant and, **if so**, the extent to which those effects **are significant**; and
+determine, after taking into account the implementation of any mitigation measures that the Governor in Council considers appropriate, whether the adverse effects within federal jurisdiction — and the direct or incidental adverse effects — that are indicated in the report are likely to be, to some extent, significant and, if so, the extent to which those effects are significant; and
 
-**if the Governor in Council determines that any of the effects referred to in paragraph (a) are likely to be, to some extent, significant, determine whether the effects so determined are**, in light of the **extent to which the Governor in Council determined them to be significant and the** factors referred to in section 63, **justified** in the public interest.
+if the Governor in Council determines that any of the effects referred to in paragraph (a) are likely to be, to some extent, significant, determine whether the effects so determined are, in light of the extent to which the Governor in Council determined them to be significant and the factors referred to in section 63, justified in the public interest.
 
 ### Section 63
 
-The Minister's determination under paragraph 60(1)**(b)**, and the Governor in Council's determination under **paragraph** 62**(b)**, must be based on the report with respect to the impact assessment of the designated project and a consideration of the following factors:
+The Minister's determination under paragraph 60(1)(b), and the Governor in Council's determination under paragraph 62(b), must be based on the report with respect to the impact assessment of the designated project and a consideration of the following factors:
 
-the impact that the effects that are **likely** to **be caused by the carrying out** of that project may have on any Indigenous group and any adverse impact that **those effects** may have on the rights of the Indigenous peoples of Canada recognized and affirmed by section 35 of the `Constitution Act, 1982`;
+the impact that the effects that are likely to be caused by the carrying out of that project may have on any Indigenous group and any adverse impact that those effects may have on the rights of the Indigenous peoples of Canada recognized and affirmed by section 35 of the `Constitution Act, 1982`;
 
-the extent to which the effects **that** are **likely** to **be caused by the carrying out** of **that** project contribute to the Government of Canada's ability to meet its environmental obligations and its commitments in respect of climate change; and
+the extent to which the effects that are likely to be caused by the carrying out of that project contribute to the Government of Canada's ability to meet its environmental obligations and its commitments in respect of climate change; and
 
-the extent to which the effects **that are likely** to **be caused by the carrying out** of **that** project **contribute** to sustainability.
+the extent to which the effects that are likely to be caused by the carrying out of that project contribute to sustainability.
 
 ### Section 292
 
@@ -14235,71 +14225,71 @@ the extent to which the effects **that are likely** to **be caused by the carryi
 
 ### Section 64
 
-      **(1)** The Minister must, **based on any determination made by** the Minister under **subsection** 60(1) or **any determination made by** the Governor in Council under section 62, as the case may be, establish any **conditions** that the Minister considers appropriate in relation to the adverse effects within federal jurisdiction that are indicated in the report. The proponent of the designated project must comply with **those conditions**.
+      **(1)** The Minister must, based on any determination made by the Minister under subsection 60(1) or any determination made by the Governor in Council under section 62, as the case may be, establish any conditions that the Minister considers appropriate in relation to the adverse effects within federal jurisdiction that are indicated in the report. The proponent of the designated project must comply with those conditions.
 
-      **(2)** The Minister must, **based on any determination made by** the Minister under **subsection** 60(1) or any **determination made by** the Governor in Council under section 62, as the case may be, establish in relation to the direct or incidental adverse effects that are indicated in the report any **conditions** that the Minister considers appropriate **and** that **are** directly linked or necessarily incidental to the exercise of a power or performance of a duty or function by a federal authority that would permit the designated project to be carried out, in whole or in part, or to the provision of financial assistance by a federal authority to a person for the purpose of enabling the carrying out, in whole or in part, of that project. The proponent of the designated project must comply with **those conditions**.
+      **(2)** The Minister must, based on any determination made by the Minister under subsection 60(1) or any determination made by the Governor in Council under section 62, as the case may be, establish in relation to the direct or incidental adverse effects that are indicated in the report any conditions that the Minister considers appropriate and that are directly linked or necessarily incidental to the exercise of a power or performance of a duty or function by a federal authority that would permit the designated project to be carried out, in whole or in part, or to the provision of financial assistance by a federal authority to a person for the purpose of enabling the carrying out, in whole or in part, of that project. The proponent of the designated project must comply with those conditions.
 
   **(2)** Paragraph 64(4)(a) of the Act is replaced by the following:
 
-    the implementation of the mitigation measures that the Minister takes into account in making **any** determination under **subsection** 60(1), or that the Governor in Council takes into account in making **any** determination under section 62, other than those the implementation of which the Minister is satisfied will be ensured by another person or by a jurisdiction; and
+    the implementation of the mitigation measures that the Minister takes into account in making any determination under subsection 60(1), or that the Governor in Council takes into account in making any determination under section 62, other than those the implementation of which the Minister is satisfied will be ensured by another person or by a jurisdiction; and
 
 ### Section 293
 
   **(1)** Paragraph 65(1)(a) of the Act is replaced by the following:
 
-    informs the proponent of **any** determination made under **subsection** 60(1) or section 62 in relation to that project and the reasons for the determination;
+    informs the proponent of any determination made under subsection 60(1) or section 62 in relation to that project and the reasons for the determination;
 
   **(2)** Subsection 65(3) of the Act is replaced by the following:
 
-    **(3)** The Minister must issue the decision statement no later than 30 days after the day on which the report with respect to the impact assessment of the designated project, or a summary of that report, is posted on the Internet site **if the Minister**
+    **(3)** The Minister must issue the decision statement no later than 30 days after the day on which the report with respect to the impact assessment of the designated project, or a summary of that report, is posted on the Internet site if the Minister
 
-      makes a determination under paragraph 60(1)(a) **that the adverse effects within federal jurisdiction — and the direct or incidental adverse effects — that are indicated in the report are not likely to be, to some extent, significant; or**
+      makes a determination under paragraph 60(1)(a) that the adverse effects within federal jurisdiction — and the direct or incidental adverse effects — that are indicated in the report are not likely to be, to some extent, significant; or
 
       makes a determination under paragraph 60(1)(b).
 
   **(3)** The portion of subsection 65(4) of the Act before paragraph (a) is replaced by the following:
 
-    **(4)** **If** the Governor in Council makes a determination under **paragraph** 62**(a) that the adverse effects within federal jurisdiction — and the direct or incidental adverse effects — that are indicated in the report are not likely to be, to some extent, significant or makes a determination under paragraph 62(b)**, the Minister must issue the decision statement no later than 90 days after
+    **(4)** If the Governor in Council makes a determination under paragraph 62(a) that the adverse effects within federal jurisdiction — and the direct or incidental adverse effects — that are indicated in the report are not likely to be, to some extent, significant or makes a determination under paragraph 62(b), the Minister must issue the decision statement no later than 90 days after
 
   **(4)** Subsections 65(5) and (6) of the Act are replaced by the following:
 
-    **(5)** The Minister may extend the time limit referred to in subsection (3) or (4) by any period — up to a maximum of 90 days — that **is** necessary **to take into account circumstances that are specific to** the **designated project or to facilitate cooperation with a jurisdiction referred to in section 21**.
+    **(5)** The Minister may extend the time limit referred to in subsection (3) or (4) by any period — up to a maximum of 90 days — that is necessary to take into account circumstances that are specific to the designated project or to facilitate cooperation with a jurisdiction referred to in section 21.
 
-    **(6)** The Governor in Council may, on the recommendation of the Minister, extend the time limit extended under subsection (5) **by** any **period that is necessary to take into account circumstances that are specific to the designated project or to facilitate cooperation with a jurisdiction referred to in section 21**.
+    **(6)** The Governor in Council may, on the recommendation of the Minister, extend the time limit extended under subsection (5) by any period that is necessary to take into account circumstances that are specific to the designated project or to facilitate cooperation with a jurisdiction referred to in section 21.
 
 ### Section 294
 
 Paragraph 105(2)(c) of the Act is replaced by the following:
 
-the report with respect to the impact assessment that is taken into account by the Minister under subsection 60(1) **or (1.1)**, or a summary of the report and an indication of how a copy of the report may be obtained;
+the report with respect to the impact assessment that is taken into account by the Minister under subsection 60(1) or (1.1), or a summary of the report and an indication of how a copy of the report may be obtained;
 
 ### Section 295
 
 Paragraph 106(2)(c) of the Act is replaced by the following:
 
-the day on which the Minister issues a decision statement that informs the proponent of the designated project of the **Minister's**, or the Governor in Council's, determination that the effects **referred** to in **paragraph 60(1)(a)** or **62(a), as** the **case may be**, that **are** likely **to be, to some extent, significant** are not **justified** in the public interest; and
+the day on which the Minister issues a decision statement that informs the proponent of the designated project of the Minister's, or the Governor in Council's, determination that the effects referred to in paragraph 60(1)(a) or 62(a), as the case may be, that are likely to be, to some extent, significant are not justified in the public interest; and
 
 ### Section 296
 
 Paragraph 109(b) of the Act is replaced by the following:
 
-for the purpose of the definition designated project in section 2, designating a physical activity — or class of physical activities — **the carrying out of which may, in the Governor in Council's opinion, cause adverse effects within federal jurisdiction or direct or incidental adverse effects** and specifying which physical activity or class of physical activities may be designated by the Minister under paragraph 112(1)(a.2);
+for the purpose of the definition designated project in section 2, designating a physical activity — or class of physical activities — the carrying out of which may, in the Governor in Council's opinion, cause adverse effects within federal jurisdiction or direct or incidental adverse effects and specifying which physical activity or class of physical activities may be designated by the Minister under paragraph 112(1)(a.2);
 
 ### Section 297
 
 Paragraph 112(1)(a) of the Act is replaced by the following:
 
-prescribing the information that must be contained in the description referred to in subsection 10(1) or 15(**1.1**) and the documents referred to in paragraph 18(1)(b);
+prescribing the information that must be contained in the description referred to in subsection 10(1) or 15(1.1) and the documents referred to in paragraph 18(1)(b);
 
 ### Section 298
 
 Subsections 181(3) to (4.3) of the Act are replaced by the following:
 
-**(3)** If the proponent fails to provide the information or studies within the time limit referred to in subsection (2) or within any extension of that time limit **or notifies the Agency that it will fail to do so**, the **Agency may decide that** the environmental assessment **of the designated project is to be continued as an impact assessment under this Act or** is to **be** terminated.
+**(3)** If the proponent fails to provide the information or studies within the time limit referred to in subsection (2) or within any extension of that time limit or notifies the Agency that it will fail to do so, the Agency may decide that the environmental assessment of the designated project is to be continued as an impact assessment under this Act or is to be terminated.
 
-**(4)** The Agency must post on the Internet site a notice of **any decision made under subsection (3)**.
+**(4)** The Agency must post on the Internet site a notice of any decision made under subsection (3).
 
-**(4.1)** Despite subsection 36(1), the Minister is not permitted to refer to a review panel **an environmental assessment that**, in **accordance with subsection (3), is continued as** an impact assessment **under this Act**.
+**(4.1)** Despite subsection 36(1), the Minister is not permitted to refer to a review panel an environmental assessment that, in accordance with subsection (3), is continued as an impact assessment under this Act.
 
 ### Section 299
 
@@ -14491,11 +14481,11 @@ The Governor in Council may make any regulations that the Governor in Council co
 
   **(1)** Paragraph 24(3)(b) of the `Judges Act` is replaced by the following:
 
-    **79**, in the case of judges appointed to superior courts in the provinces other than appeal courts.
+    79, in the case of judges appointed to superior courts in the provinces other than appeal courts.
 
   **(2)** The portion of subsection 24(4) of the Act before paragraph (a) is replaced by the following:
 
-    **(4)** For the purposes of assisting the establishment of unified family courts in the provinces, a further number of salaries not greater than **58** at any one time may be paid in the case of judges appointed to courts described in paragraph (3)(b)
+    **(4)** For the purposes of assisting the establishment of unified family courts in the provinces, a further number of salaries not greater than 58 at any one time may be paid in the case of judges appointed to courts described in paragraph (3)(b)
 
 
 ### `Tax Court of Canada Act`
@@ -14506,7 +14496,7 @@ Subsection 17.1(1) of the `Tax Court of Canada Act` is replaced by the following
 
 ### Section 17.1
 
-  **(1)** **An individual who is** a party to a proceeding in respect of which this section applies may appear in person or be represented by counsel, but **if** the **individual** wishes to be represented by counsel, only a person who is referred to in subsection (2) shall represent the **individual**.
+  **(1)** An individual who is a party to a proceeding in respect of which this section applies may appear in person or be represented by counsel, but if the individual wishes to be represented by counsel, only a person who is referred to in subsection (2) shall represent the individual.
 
   **(1.1)** If a party to a proceeding in respect of which this section applies is not an individual, that party shall be represented by a person who is referred to in subsection (2) unless the Court under special circumstances grants leave to the party to be represented by a director, officer, employee, member or partner of the party.
 
@@ -14520,7 +14510,7 @@ Subsection 17.1(1) of the `Tax Court of Canada Act` is replaced by the following
 
   **(1)** Paragraph (c) of the definition **drogue** in section 2 of the French version of the `Food and Drugs Act` is replaced by the following:
 
-    à la désinfection des locaux où des aliments sont **fabriqués, préparés ou** gardés. (**drug**)
+    à la désinfection des locaux où des aliments sont fabriqués, préparés ou gardés. (**drug**)
 
   **(2)** Section 2 of the Act is amended by adding the following in alphabetical order:
 
@@ -14546,7 +14536,7 @@ Section 29.2 of the Act and the heading before it are repealed.
 
   **(3)** Subsection 30(1.4) of the Act is replaced by the following:
 
-    **(1.4)** Without limiting the power conferred by any other subsection of this section, the Governor in Council may make any regulations that the Governor in Council considers necessary for the purpose of preventing shortages of therapeutic products **or foods for a special dietary purpose** in Canada or alleviating those shortages or their effects, in order to protect human health.
+    **(1.4)** Without limiting the power conferred by any other subsection of this section, the Governor in Council may make any regulations that the Governor in Council considers necessary for the purpose of preventing shortages of therapeutic products or foods for a special dietary purpose in Canada or alleviating those shortages or their effects, in order to protect human health.
 
 ### Section 326
 
@@ -14557,7 +14547,7 @@ The Act is amended by adding the following after section 30:
 
 ### Section 30.01
 
-  **(1)** Subject to any regulations made under paragraph 30(1)(j.1) and if the Minister believes that the use of a therapeutic product, other than the intended use, may present a risk of injury to health, the Minister may, by order, establish rules in respect of the importation, sale, conditions of sale, advertising, manufacture, preparation, preservation, packaging, labelling, storage or testing of the therapeutic product for the purpose of preventing, managing or controlling the risk of injury to health.
+  **(1)** Subject to any regulations made under paragraph 30(1)(j.1) and if the Minister believes **on reasonable grounds** that the use of a therapeutic product, other than the intended use, may present a risk of injury to health, the Minister may, by order, establish rules in respect of the importation, sale, conditions of sale, advertising, manufacture, preparation, preservation, packaging, labelling, storage or testing of the therapeutic product for the purpose of preventing, managing or controlling the risk of injury to health.
 
   **(2)** For greater certainty, the Minister may, in the order, establish rules for the purpose of preventing the therapeutic product from being promoted for a use, other than the intended use, of a therapeutic product or preventing a use, other than the intended use, of a therapeutic product from being appealing.
 
@@ -14565,7 +14555,7 @@ The Act is amended by adding the following after section 30:
 
 ### Section 30.02
 
-  **(1)** Subject to any regulations made under paragraph 30(1)(j.1) and if the Minister believes that the use of a drug intended for an animal of a particular species, including a use other than the intended use, may present a risk of adverse effects to human beings, animals of a different species or the environment, the Minister may, by order, establish rules in respect of the importation, sale, conditions of sale, advertising, manufacture, preparation, preservation, packaging, labelling, storage or testing of the drug for the purpose of preventing, managing or controlling the risk of adverse effects.
+  **(1)** Subject to any regulations made under paragraph 30(1)(j.1) and if the Minister believes **on reasonable grounds** that the use of a drug intended for an animal of a particular species, including a use other than the intended use, may present a risk of adverse effects to human beings, animals of a different species or the environment, the Minister may, by order, establish rules in respect of the importation, sale, conditions of sale, advertising, manufacture, preparation, preservation, packaging, labelling, storage or testing of the drug for the purpose of preventing, managing or controlling the risk of adverse effects.
 
   **(2)** The Minister may make the order despite any uncertainty respecting the risk of adverse effects that the use of the drug, including a use other than the intended use, may present.
 
@@ -14584,7 +14574,7 @@ The Minister must ensure that any order made under subsection 30.01(1) or 30.02(
 
   **(1)** Subject to subsection (2) and any regulations made under paragraph 30(1)(j.1), the Minister may, by order, on any conditions that the Minister considers necessary, exempt — other than in relation to cosmetics — a class of foods, therapeutic products, persons or activities from the application of all or any of the provisions of Part I, section 37 or the regulations.
 
-  **(2)** The Minister may make an order only if the Minister believes that
+  **(2)** The Minister may make an order only if the Minister believes **on reasonable grounds** that
 
     it is necessary for a health or safety purpose or is otherwise in the public interest; and
 
@@ -14604,7 +14594,7 @@ The Minister must ensure that any order made under subsection 30.01(1) or 30.02(
 
   **(2)** The portion of subsection 30.05(2) of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** The Minister may make an order under subsection (1) or (1.1) only if the Minister believes that
+    **(2)** The Minister may make an order under subsection (1) or (1.1) only if the Minister believes **on reasonable grounds** that
 
   **(3)** Section 30.05 of the Act is amended by adding the following after subsection (3):
 
@@ -14623,7 +14613,7 @@ The Act is amended by adding the following after section 30.05:
 
   **(1)** Subject to subsection (2) and any regulations made under paragraph 30(1)(j.1), the Minister may, by order, deem that specified requirements of this Act or the regulations are met — in respect of a therapeutic product or food that belongs to a class specified in the order — on the basis of a decision of, or any information or document produced by, a foreign regulatory authority in respect of that therapeutic product or food.
 
-  **(2)** The Minister may make the order only if the Minister believes that
+  **(2)** The Minister may make the order only if the Minister believes**on reasonable grounds** that
 
     it is necessary for a health or safety purpose or is otherwise in the public interest; and
 
@@ -14656,7 +14646,7 @@ For the purposes of any provision of this Act, other than sections 30.01, 30.02,
 
 Subsection 30.1(5) of the Act is replaced by the following:
 
-**(5)** For the purpose of any provision of this Act other than this section **and section 30.05**, any reference to regulations made under this Act is deemed to include interim orders, and any reference to a regulation made under a specified provision of this Act is deemed to include a reference to the portion of an interim order containing any provision that may be contained in a regulation made under the specified provision.
+**(5)** For the purpose of any provision of this Act other than this section and section 30.05, any reference to regulations made under this Act is deemed to include interim orders, and any reference to a regulation made under a specified provision of this Act is deemed to include a reference to the portion of an interim order containing any provision that may be contained in a regulation made under the specified provision.
 
 ### Section 330
 
@@ -14668,7 +14658,7 @@ The heading before section 30.2 and sections 30.2 to 30.4 of the Act are repeale
 
 ### Section 30.5
 
-      **(1)** **The following instruments** may incorporate by reference any document, regardless of its source, either as it exists on a particular date or as it is amended from time to time:
+      **(1)** The following instruments may incorporate by reference any document, regardless of its source, either as it exists on a particular date or as it is amended from time to time:
 
         a regulation made under this Act with respect to a food or therapeutic product;
 
@@ -14743,13 +14733,13 @@ The limitation set out in paragraph 18.1(2)(a) of the `Statutory Instruments Act
 
 ### Section 347
 
-      **(1)** Despite any other Act of Parliament, every **person** who enters **or offers to enter** into an agreement or arrangement to receive interest at a criminal rate, **who advertises an offer to enter into an agreement or arrangement that provides for the receipt of interest at a criminal rate** or **who** receives a payment or partial payment of interest at a criminal rate is
+      **(1)** Despite any other Act of Parliament, every person who enters or offers to enter into an agreement or arrangement to receive interest at a criminal rate, who advertises an offer to enter into an agreement or arrangement that provides for the receipt of interest at a criminal rate or who receives a payment or partial payment of interest at a criminal rate is
 
   **(2)** The definitions **credit advanced** and **interest** in subsection 347(2) of the Act are replaced by the following:
 
-    **credit advanced** means the aggregate of the money and the monetary value of any goods, services or benefits actually advanced or to be advanced under an agreement or arrangement, **or that would be advanced if an agreement or arrangement — as offered, including in an advertisement — was entered into**, minus the aggregate of any required deposit balance and any fee, fine, penalty, commission and other similar charge or expense directly or indirectly incurred under the original or any collateral agreement or arrangement; (**capital prêté**)
+    **credit advanced** means the aggregate of the money and the monetary value of any goods, services or benefits actually advanced or to be advanced under an agreement or arrangement, or that would be advanced if an agreement or arrangement — as offered, including in an advertisement — was entered into, minus the aggregate of any required deposit balance and any fee, fine, penalty, commission and other similar charge or expense directly or indirectly incurred under the original or any collateral agreement or arrangement; (**capital prêté**)
 
-    **interest** means the aggregate of all charges and expenses, whether in the form of a fee, fine, penalty, commission or other similar charge or expense or in any other form, paid or payable for the advancing of credit under an agreement or arrangement, **or that would be paid or payable if such an agreement or arrangement was entered into**, by or on behalf of the person to whom the credit is or is to be advanced, **or would be advanced**, irrespective of the person to whom any such charges and expenses are or are to be paid or payable, **or would be paid or payable**, but does not include any repayment of credit advanced or any insurance charge, official fee, overdraft charge, required deposit balance or, in the case of a mortgage **or hypothec** transaction, any amount required to be paid on account of property taxes; (**intérêt**)
+    **interest** means the aggregate of all charges and expenses, whether in the form of a fee, fine, penalty, commission or other similar charge or expense or in any other form, paid or payable for the advancing of credit under an agreement or arrangement, or that would be paid or payable if such an agreement or arrangement was entered into, by or on behalf of the person to whom the credit is or is to be advanced, or would be advanced, irrespective of the person to whom any such charges and expenses are or are to be paid or payable, or would be paid or payable, but does not include any repayment of credit advanced or any insurance charge, official fee, overdraft charge, required deposit balance or, in the case of a mortgage or hypothec transaction, any amount required to be paid on account of property taxes; (**intérêt**)
 
   **(3)** Subsection 347(7) of the Act is repealed.
 
@@ -14757,9 +14747,9 @@ The limitation set out in paragraph 18.1(2)(a) of the `Statutory Instruments Act
 
 The portion of subsection 347.1(2) of the Act before paragraph (b) is replaced by the following:
 
-**(2)** Section 347 and section 2 of the `Interest Act` do not apply to a person, other than a financial institution within the meaning of paragraphs (a) to (d) of the definition financial institution in section 2 of the `Bank Act`, **who has** entered into **or has offered to enter into** a payday loan agreement to receive interest, **has advertised an offer to enter into a payday loan agreement** that **provides for** the **receipt of interest** or **has** received interest under **a payday loan** agreement, if
+**(2)** Section 347 and section 2 of the `Interest Act` do not apply to a person, other than a financial institution within the meaning of paragraphs (a) to (d) of the definition financial institution in section 2 of the `Bank Act`, who has entered into or has offered to enter into a payday loan agreement to receive interest, has advertised an offer to enter into a payday loan agreement that provides for the receipt of interest or has received interest under a payday loan agreement, if
 
-  the amount of money **that is or would be** advanced under the agreement is $1,500 or less and the term of the agreement is **or would be** 62 days or less;
+  the amount of money that is or would be advanced under the agreement is $1,500 or less and the term of the agreement is or would be 62 days or less;
 
 
 #### Coordinating Amendments
@@ -14918,7 +14908,7 @@ on conviction on indictment, to a fine of not more than $500,000 or to imprisonm
 
   **(2)** Paragraph 7(2)(d) of the Act is replaced by the following:
 
-    it was collected under paragraph (1)(a), (b), **(b.01)** or (e).
+    it was collected under paragraph (1)(a), (b), (b.01) or (e).
 
   **(3)** Subsection 7(3) of the Act is amended by adding the following after paragraph (d.2):
 
@@ -15045,7 +15035,7 @@ For greater certainty, this definition does not apply to securities or negotiabl
 
 The portion of subsection 231.3(7) of the `Income Tax Act` before paragraph (a) is replaced by the following:
 
-**(7)** **Subject to section 231.32, if** any document or thing seized under subsection (1) or (5) is brought before a judge or a report in respect **of any document or thing seized** is made to a judge, the judge may, of the judge's own motion or on summary application by a person with an interest in the document or thing on three clear days notice of application to the Deputy Attorney General of Canada, order that the document or thing be returned to the person from whom it was seized or the person who is otherwise legally entitled **to it** if the judge is satisfied that the document or thing
+**(7)** Subject to section 231.32, if any document or thing seized under subsection (1) or (5) is brought before a judge or a report in respect of any document or thing seized is made to a judge, the judge may, of the judge's own motion or on summary application by a person with an interest in the document or thing on three clear days notice of application to the Deputy Attorney General of Canada, order that the document or thing be returned to the person from whom it was seized or the person who is otherwise legally entitled to it if the judge is satisfied that the document or thing
 
 ### Section 353
 
@@ -15076,7 +15066,7 @@ The Act is amended by adding the following after section 231.3:
 
 The portion of subsection 290(7) of the `Excise Tax Act` before paragraph (a) is replaced by the following:
 
-**(7)** **Subject to section 290.2, if** any document or thing seized under subsection (1) or (5) is brought before a judge or a report in respect **of any document or thing seized** is made to a judge, the judge may, on the judge's own motion or on summary application by a person with an interest in the document or thing on three clear days notice of application to the Deputy Attorney General of Canada, order that the document or thing be returned to the person from whom it was seized or the person who is otherwise legally entitled **to it**, if the judge is satisfied that the document or thing
+**(7)** Subject to section 290.2, if any document or thing seized under subsection (1) or (5) is brought before a judge or a report in respect of any document or thing seized is made to a judge, the judge may, on the judge's own motion or on summary application by a person with an interest in the document or thing on three clear days notice of application to the Deputy Attorney General of Canada, order that the document or thing be returned to the person from whom it was seized or the person who is otherwise legally entitled to it, if the judge is satisfied that the document or thing
 
 ### Section 355
 
@@ -15176,7 +15166,7 @@ Subsection 487.019(1) of the Act is replaced by the following:
 
 ### Section 487.019
 
-  **(1)** An order made under any of sections 487.013 to 487.018 may contain any conditions that the justice or judge considers appropriate including, in the case of an order made under section 487.014 **or 487.0141**, conditions to protect a privileged communication between a person who is qualified to give legal advice and their client.
+  **(1)** An order made under any of sections 487.013 to 487.018 may contain any conditions that the justice or judge considers appropriate including, in the case of an order made under section 487.014 or 487.0141, conditions to protect a privileged communication between a person who is qualified to give legal advice and their client.
 
 ### Section 359
 
@@ -15184,7 +15174,7 @@ Subsections 487.0191(1) and (2) of the Act are replaced by the following:
 
 ### Section 487.0191
 
-  **(1)** On ex parte application made by a peace officer or public officer, a justice or judge may make an order prohibiting a person from disclosing the existence or some or all of the contents of a preservation demand made under section 487.012 or **an** order made under any of sections 487.013 to 487.018 during the period set out in the order.
+  **(1)** On ex parte application made by a peace officer or public officer, a justice or judge may make an order prohibiting a person from disclosing the existence or some or all of the contents of a preservation demand made under section 487.012 or an order made under any of sections 487.013 to 487.018 during the period set out in the order.
 
   **(2)** Before making the order, the justice or judge must be satisfied by information on oath in Form 5.009 that there are reasonable grounds to believe that the disclosure during that period would jeopardize the conduct of the investigation of the offence to which the demand or order relates.
 
@@ -15194,11 +15184,11 @@ Subsections 487.0191(1) and (2) of the Act are replaced by the following:
 
 ### Section 487.0192
 
-      **(1)** An order made under any of sections 487.014, **487.0141** and 487.016 to 487.018 must require a person, financial institution or entity to produce the document to a peace officer or public officer named in the order within the time, at the place and in the form specified in the order.
+      **(1)** An order made under any of sections 487.014, 487.0141 and 487.016 to 487.018 must require a person, financial institution or entity to produce the document to a peace officer or public officer named in the order within the time, at the place and in the form specified in the order.
 
   **(2)** Subsection 487.0192(5) of the Act is replaced by the following:
 
-    **(5)** Every copy of a document produced under section 487.014 **or 487.0141** is admissible in evidence in proceedings under this or any other Act of Parliament on proof by affidavit that it is a true copy and has the same probative force as the document would have if it were proved in the ordinary way.
+    **(5)** Every copy of a document produced under section 487.014 or 487.0141 is admissible in evidence in proceedings under this or any other Act of Parliament on proof by affidavit that it is a true copy and has the same probative force as the document would have if it were proved in the ordinary way.
 
 ### Section 361
 
@@ -15222,9 +15212,9 @@ Section 487.0195 of the Act is replaced by the following:
 
 ### Section 487.0195
 
-  **(1)** For greater certainty, no preservation demand, preservation order, **keep account open or active order** or production order is necessary for a peace officer or public officer to ask a person to voluntarily preserve data that the person is not prohibited by law from preserving, **to voluntarily keep an account open or active that the person is not prohibited by law from keeping open or active** or to voluntarily provide a document to the officer that the person is not prohibited by law from disclosing.
+  **(1)** For greater certainty, no preservation demand, preservation order, keep account open or active order or production order is necessary for a peace officer or public officer to ask a person to voluntarily preserve data that the person is not prohibited by law from preserving, to voluntarily keep an account open or active that the person is not prohibited by law from keeping open or active or to voluntarily provide a document to the officer that the person is not prohibited by law from disclosing.
 
-  **(2)** A person who preserves data, **keeps an account open or active** or provides a document in those circumstances does not incur any criminal or civil liability for doing so.
+  **(2)** A person who preserves data, keeps an account open or active or provides a document in those circumstances does not incur any criminal or civil liability for doing so.
 
 ### Section 363
 
@@ -15294,7 +15284,7 @@ Province of
 
 This is the information of (*name of peace officer or public officer*), of  ("the informant").
 
-The informant says that they have reasonable grounds to suspect (*or, if the application is for an order under section 487.014 **or 487.0141** of the `Criminal Code`,* reasonable grounds to believe)
+The informant says that they have reasonable grounds to suspect (*or, if the application is for an order under section 487.014 or 487.0141 of the `Criminal Code`,* reasonable grounds to believe)
 
 that an offence has been or will be committed under (*specify the provision of the `Criminal Code` or other Act of Parliament*); and
 
@@ -15467,7 +15457,7 @@ This Subdivision comes into force on the 90th day after the day on which this Ac
 
   **(1)** Subparagraph (a)(liv.1) of the definition **offence** in section 183 of the `Criminal Code` is replaced by the following:
 
-    **subsection** 333.1**(1)** (motor vehicle theft),
+    subsection 333.1(1) (motor vehicle theft),
 
     subsection 333.1(3) (motor vehicle theft when violence used, threatened or attempted),
 
@@ -15475,7 +15465,7 @@ This Subdivision comes into force on the 90th day after the day on which this Ac
 
   **(2)** Subparagraph (a)(lxxxiii) of the definition **offence** in section 183 of the Act is replaced by the following:
 
-    **subsection** 462.31**(1)** (laundering proceeds of crime),
+    subsection 462.31(1) (laundering proceeds of crime),
 
     subsection 462.31(2.1) (laundering proceeds of crime for criminal organization),
 
@@ -15513,13 +15503,13 @@ Subsection 462.31(3) of the Act is replaced by the following:
 
 **(2.1)** Everyone who commits an offence under subsection (1) for the benefit of, at the direction of or in association with a criminal organization is guilty of an indictable offence and liable to imprisonment for a term not exceeding 14 years.
 
-**(3)** A peace officer or a person acting under the direction of a peace officer is not guilty of an offence under subsection (1) **or (2.1)** if the peace officer or person does any of the things mentioned in that subsection for the purposes of an investigation or otherwise in the execution of the peace officer's duties.
+**(3)** A peace officer or a person acting under the direction of a peace officer is not guilty of an offence under subsection (1) or (2.1) if the peace officer or person does any of the things mentioned in that subsection for the purposes of an investigation or otherwise in the execution of the peace officer's duties.
 
 ### Section 372
 
 Paragraph 462.48(1.1)(f) of the French version of the Act is replaced by the following:
 
-soit une infraction **ou un acte criminel prévus** aux articles 354, 355.2, 355.4 ou 462.31 — ou le complot ou la tentative de commettre **une telle infraction ou** un tel acte ou la complicité après le fait à tel égard — qui aurait été **commis** à l'égard de biens, objets ou produits qui ont été obtenus ou proviennent directement ou indirectement de la perpétration au Canada d'une infraction **ou d'un acte criminel mentionnés** à l'un des alinéas a) à e) ou d'un acte ou d'une omission survenus à l'extérieur du Canada et qui, au Canada, aurait constitué une infraction **ou un acte criminel mentionnés** à l'un de ces alinéas.
+soit une infraction ou un acte criminel prévus aux articles 354, 355.2, 355.4 ou 462.31 — ou le complot ou la tentative de commettre une telle infraction ou un tel acte ou la complicité après le fait à tel égard — qui aurait été commis à l'égard de biens, objets ou produits qui ont été obtenus ou proviennent directement ou indirectement de la perpétration au Canada d'une infraction ou d'un acte criminel mentionnés à l'un des alinéas a) à e) ou d'un acte ou d'une omission survenus à l'extérieur du Canada et qui, au Canada, aurait constitué une infraction ou un acte criminel mentionnés à l'un de ces alinéas.
 
 ### Section 373
 
@@ -15535,11 +15525,11 @@ soit une infraction **ou un acte criminel prévus** aux articles 354, 355.2, 355
 
   **(3)** The definition **secondary designated offence** in section 487.04 of the Act is amended by adding the following after subparagraph (c)(viii.2):
 
-    **subsection** 333.1**(1)** (motor vehicle theft),
+    subsection 333.1(1) (motor vehicle theft),
 
-    **subsection** 333.2**(1)** (possession of device for purpose of committing theft),
+    subsection 333.2(1) (possession of device for purpose of committing theft),
 
-    **subsection** 333.2**(2)** (distribution of device linked to theft),
+    subsection 333.2(2) (distribution of device linked to theft),
 
 ### Section 374
 
@@ -15572,7 +15562,7 @@ evidence that the offender involved a person under the age of 18 years in the co
 
 The definition **money laundering offence** in subsection 2(1) of the `Proceeds of Crime (Money Laundering) and Terrorist Financing Act` is replaced by the following:
 
-**money laundering offence** means an offence under subsection 462.31(1) **or (2.1)** of the `Criminal Code`. (**infraction de recyclage des produits de la criminalité**)
+**money laundering offence** means an offence under subsection 462.31(1) or (2.1) of the `Criminal Code`. (**infraction de recyclage des produits de la criminalité**)
 
 
 ##### `Crimes Against Humanity and War Crimes Act`
@@ -15581,7 +15571,7 @@ The definition **money laundering offence** in subsection 2(1) of the `Proceeds 
 
 Subsection 9(3) of the `Crimes Against Humanity and War Crimes Act` is replaced by the following:
 
-**(3)** No proceedings for an offence under any of sections 4 to 7 of this Act, or under section 354 or subsection 462.31(1) **or (2.1)** of the `Criminal Code` in relation to property or proceeds obtained or derived directly or indirectly as a result of the commission of an offence under this Act, may be commenced without the personal consent in writing of the Attorney General or Deputy Attorney General of Canada, and those proceedings may be conducted only by the Attorney General of Canada or counsel acting on their behalf.
+**(3)** No proceedings for an offence under any of sections 4 to 7 of this Act, or under section 354 or subsection 462.31(1) or (2.1) of the `Criminal Code` in relation to property or proceeds obtained or derived directly or indirectly as a result of the commission of an offence under this Act, may be commenced without the personal consent in writing of the Attorney General or Deputy Attorney General of Canada, and those proceedings may be conducted only by the Attorney General of Canada or counsel acting on their behalf.
 
 
 #### Coordinating Amendments
@@ -15644,7 +15634,7 @@ The portion of section 15.1 of the Act before paragraph (a) is replaced by the f
 
 ### Section 15.1
 
-Every contravention of **any of subsections** 4(1), (3) **to (5) and** 5(1.5) constitutes a violation and the person who commits the violation is liable
+Every contravention of any of subsections 4(1), (3) to (5) and 5(1.5) constitutes a violation and the person who commits the violation is liable
 
 
 ### `Telecommunications Act`
@@ -15719,587 +15709,204 @@ This Division comes into force on a day to be fixed by order of the Governor in 
 
 ### Section 385
 
-Subsection 2(1) of the English version of the `Immigration and Refugee Protection Act` is amended by adding the following in alphabetical order:
-
-**prescribed** means prescribed by regulation. (**Version anglaise seulement**)
+[*Deleted*]
 
 ### Section 386
 
-The Act is amended by adding the following after section 6:
-
-### Section 6.1
-
-  **(1)** The Minister may, in the prescribed circumstances, designate a person to represent a person who is the subject of a prescribed proceeding or application if the person who is the subject of the proceeding or application is under 18 years of age or is unable, in the opinion of the Minister, to appreciate the nature of the proceeding or application. The power does not apply in respect of a proceeding before a Division of the Board.
-
-  **(2)** The Minister may disclose the personal information of the person who is the subject of the proceeding or application to the representative.
-
-  **(3)** The regulations may provide for any matter relating to the application of this section, may prescribe the circumstances in which, and the proceedings and applications for which, a representative may be designated and may include provisions respecting
-
-    the responsibilities of a representative and the requirements that must be met to be designated as a representative;
-
-    the circumstances in which a representative may make decisions on behalf of the person they represent; and
-
-    the remuneration of a representative.
+[*Deleted*]
 
 ### Section 387
 
-Subsection 14.1(6) of the English version of the Act is replaced by the following:
-
-**(6)** The instructions do not apply in respect of a prescribed class.
+[*Deleted*]
 
 ### Section 388
 
-Section 23 of the French version of the Act is replaced by the following:
-
-### Section 23
-
-L'**agent** peut **autoriser une personne à entrer au Canada** en vue du contrôle complémentaire ou de l'enquête prévus par la présente partie.
+[*Deleted*]
 
 ### Section 389
 
-The Act is amended by adding the following after section 23:
-
-### Section 23.1
-
-  **(1)** If a person makes a claim for refugee protection that is determined under subsection 100(1) to be eligible to be referred to the Refugee Protection Division, an officer must authorize the person to remain in Canada, or to enter and remain in Canada, until a final determination is made in respect of the claim.
-
-  **(2)** Subsection (1) does not apply if the person is the subject of a report on inadmissibility.
-
-  **(3)** If the officer authorizes the person to remain in Canada, the officer must impose the prescribed conditions and may impose any other conditions that the officer considers necessary.
-
-  **(4)** The conditions cease to apply only when
-
-    the person becomes the subject of a report on inadmissibility;
-
-    the person is detained;
-
-    a final determination is made to accept the person's claim for refugee protection;
-
-    if the person applies for protection under subsection 112(1) and is not an applicant described in subsection 112(3), a final determination is made to allow the application;
-
-    the person becomes a permanent resident; or
-
-    a removal order is enforced against the person in accordance with the regulations.
+[*Deleted*]
 
 ### Section 390
 
-Subsection 24(4) of the Act is amended by striking out "or" at the end of paragraph (a) and by adding the following after that paragraph:
-
-the day on which their claim was determined by the Minister to be withdrawn, in the case where no application was made to the Federal Court for leave to commence an application for judicial review;
-
-in any other case where their claim was determined by the Minister to be withdrawn, the later of
-
-the day on which the Minister made the determination or, if there was more than one such determination, the day on which the last one occurred, and
-
-the day on which the Federal Court refused their application for leave to commence an application for judicial review, or denied their application for judicial review, with respect to the Minister's determination; or
+[*Deleted*]
 
 ### Section 391
 
-Paragraph 25(1.2)(b) of the Act is replaced by the following:
-
-the foreign national has made a claim for refugee protection **that has been determined to be eligible to be referred to** the Refugee Protection Division or that is pending before **that Division** or the Refugee Appeal Division;
+[*Deleted*]
 
 ### Section 392
 
-Paragraph 38(2)(d) of the English version of the Act is replaced by the following:
-
-is, **if** prescribed, the spouse, common-law partner, child or other family member of a foreign national referred to in any of paragraphs (a) to (c).
+[*Deleted*]
 
 ### Section 393
 
-  **(1)** The Act is amended by adding the following after section 42.1:
-
-### Section 42.2
-
-    A foreign national who makes a claim for refugee protection is deemed to be inadmissible under paragraph 41(a) for failing to comply with the obligations set out in paragraph 20(1)(a) if
-
-    an officer gives notice under subsection 104(1);
-
-    the claim is rejected by the Refugee Protection Division under subsection 107(1);
-
-    in the case where the claim had been accepted by the Refugee Protection Division, the Refugee Appeal Division sets aside the determination of the Refugee Protection Division and rejects the claim; or
-
-    the claim is determined by the Refugee Protection Division to have been abandoned or withdrawn.
-
-  **(2)** Section 42.2 of the Act is amended by striking out "or" at the end of paragraph (c) and by adding the following after paragraph (d):
-
-    the claim is determined by the Minister to have been withdrawn; or
-
-    the claim is determined under subsection 100(3) to be ineligible to be referred to the Refugee Protection Division.
+[*Deleted*]
 
 ### Section 394
 
-  **(1)** Subsections 44(1) and (2) of the Act are replaced by the following:
-
-### Section 44
-
-      **(1)** **Subject to the regulations**, an officer who is of the opinion that a permanent resident or a foreign national who is in Canada is inadmissible may prepare a report setting out the relevant facts. **The** report **must** be transmitted to the Minister.
-
-      **(2)** If the Minister is of the opinion that the report is well-founded, the Minister may, **subject to the** regulations, refer the report to the Immigration Division for an admissibility hearing **or** make a removal order.
-
-  **(2)** Section 44 of the Act is amended by adding the following after subsection (5):
-
-    **(6)** If a foreign national who makes a claim for refugee protection becomes the subject of a report, or if a foreign national who is the subject of a report makes a claim for refugee protection, an officer must impose the prescribed conditions on the foreign national.
-
-    **(7)** The conditions imposed under subsection (6) cease to apply only when one of the following events occurs:
-
-      the foreign national is detained;
-
-      a final determination is made to accept the foreign national's claim for refugee protection;
-
-      if the foreign national applies for protection under subsection 112(1) and is not an applicant described in subsection 112(3), a final determination is made to allow the application;
-
-      the foreign national becomes a permanent resident; or
-
-      a removal order is enforced against the foreign national in accordance with the regulations.
+[*Deleted*]
 
 ### Section 395
 
-The Act is amended by adding the following before section 45:
-
-### Section 44.1
-
-The Immigration Division must not hold an admissibility hearing if the permanent resident or foreign national who is the subject of the hearing is not physically present in Canada.
+[*Deleted*]
 
 ### Section 396
 
-  **(1)** The Act is amended by adding the following after section 45:
-
-
-#### **Automatic Making of Removal Orders**
-
-### Section 45.1
-
-      **(1)** A removal order is automatically made against a foreign national who is deemed to be inadmissible under section 42.2.
-
-      **(2)** When the officer, the Refugee Protection Division, the Refugee Appeal Division or the Minister, as the case may be, makes the decision that results in the deemed inadmissibility, they must without delay provide the foreign national with notice in writing that the removal order has been made.
-
-      **(3)** The removal order made under subsection (1) is not subject to judicial review.
-
-      **(4)** A removal order made under subsection (1) is void if it was made as a result of the rejection of a claim for refugee protection under subsection 107(1) and, on appeal, the Refugee Appeal Division refers the matter to the Refugee Protection Division for re-determination.
-
-  **(2)** Section 45.1 of the Act is amended by adding the following after subsection (4):
-
-    **(5)** A removal order made under subsection (1) is void if it was made as a result of a determination that a claim for refugee protection has been withdrawn and the claim is subsequently reinstated.
+[*Deleted*]
 
 ### Section 397
 
-Section 47 of the Act is amended by striking out "or" at the end of paragraph (b) and by adding the following after that paragraph:
-
-if they make a claim for refugee protection inside Canada; or
+[*Deleted*]
 
 ### Section 398
 
-  **(1)** Subsection 49(1) of the English version of the Act is replaced by the following:
-
-### Section 49
-
-      **(1)** A removal order comes into force on
-
-        the day **on which it** is made, if there is no right to appeal;
-
-        the day **on which** the appeal period expires, if there is a right to appeal and no appeal is made; **or**
-
-        the day **on which a** final determination **is made that has the effect of confirming the removal order**, if an appeal is made.
-
-  **(2)** The portion of subsection 49(2) of the English version of the Act before paragraph (a) is replaced by the following:
-
-    **(2)** Despite subsection (1), a removal order made with respect to a refugee protection claimant is conditional and comes into force
-
-  **(3)** Paragraphs 49(2)(a) to (e) of the Act are replaced by the following:
-
-    **on** the day **on which notification is provided that the claim has been** determined to be ineligible only under paragraph 101(1)(e);
-
-    on the 7th day after the day on which notification is provided that the claim has otherwise been determined to be ineligible under subsection 101(1);
-
-    if the claim is rejected by the Refugee Protection Division and there is no right to appeal, on the 15th day after the day on which notification of the rejection is provided;
-
-    if the claim is rejected by the Refugee Protection Division **and the claimant does not file and perfect an appeal within the applicable time limits, on the later of**
-
-    **the day on which the applicable time limit expires, and**
-
-    **the 15th day after the day on which notification of the rejection is provided;**
-
-    on the 15th day after the day on which the Refugee Appeal Division provides notification that the claim is rejected;
-
-    on the day on which notification is provided that the claim has been determined to be withdrawn;
-
-    on the 15th day after the day on which notification is provided that the claim has been determined to be abandoned; or
-
-    on the 15th day after the day on which proceedings are terminated as a result of a notice given under paragraph 104(1)(c) or (d).
+[*Deleted*]
 
 ### Section 399
 
-Section 51 of the Act is replaced by the following:
-
-### Section 51
-
-A removal order that has not been enforced becomes void **in the prescribed circumstances or** if the foreign national **against whom it was made** becomes a permanent resident.
+[*Deleted*]
 
 ### Section 400
 
-The portion of section 53 of the Act before paragraph (a.1) is replaced by the following:
-
-### Section 53
-
-The regulations may provide for any matter relating to the application of this Division, **may define, for the purposes of this Act, any of the terms used in this Division** and may include provisions respecting
-
-the powers conferred by subsections 44(1) and (2), including the circumstances in which those powers must be exercised or are not permitted to be exercised;
-
-conditions that may or must be imposed, varied, or cancelled, individually or by class, on permanent residents and foreign nationals;
+[*Deleted*]
 
 ### Section 401
 
-Paragraph 55(3.1)(b) of the Act is replaced by the following:
-
-arrest and detain without a warrant — or issue a warrant for the arrest and detention of — a foreign national who, after their entry into Canada, becomes a designated foreign national as a result of the designation, was 16 years of age or older on the day of the arrival that is the subject of the designation **and has not previously been arrested and detained under this paragraph**.
+[*Deleted*]
 
 ### Section 402
 
-Section 56 of the Act is amended by adding the following after subsection (4):
-
-**(5)** If an officer orders the release of a foreign national who has made a claim for refugee protection, the officer must impose the prescribed conditions on the foreign national.
-
-**(6)** The conditions imposed under subsection (5) cease to apply only when one of the events described in paragraphs 44(7)(a) to (e) occurs.
+[*Deleted*]
 
 ### Section 403
 
-Section 57.1 of the Act is amended by adding the following after subsection (3):
-
-**(4)** Subsections (1) and (2) do not apply in respect of a designated foreign national who has, under this Division, been released from detention and is subsequently detained again.
+[*Deleted*]
 
 ### Section 404
 
-  **(1)** Subsection 58(4) of the Act is replaced by the following:
-
-    **(4)** If the Immigration Division orders the release of a designated foreign national who was 16 years of age or older on the day of the arrival that is the subject of the designation in question, it **must** impose **the** prescribed **conditions on the designated foreign national**.
-
-    **(4.1)** The conditions imposed under subsection (4) cease to apply only when
-
-      the designated foreign national is detained again;
-
-      a final determination is made to accept the designated foreign national's claim for refugee protection;
-
-      if the designated foreign national applies for protection under subsection 112(1) and is not an applicant described in subsection 112(3), a final determination is made to allow the application;
-
-      the designated foreign national becomes a permanent resident; or
-
-      a removal order is enforced against the designated foreign national in accordance with the regulations.
-
-  **(2)** Section 58 of the Act is amended by adding the following after subsection (6):
-
-    **(7)** If the Immigration Division orders the release of a foreign national who has made a claim for refugee protection, it must impose the prescribed conditions on the foreign national.
-
-    **(8)** The conditions imposed under subsection (7) cease to apply only when one of the events described in paragraphs 44(7)(a) to (e) occurs.
+[*Deleted*]
 
 ### Section 405
 
-Subsections 58.1(4) and (5) of the Act are replaced by the following:
-
-**(3.1)** If the Minister orders the release of a designated foreign national who was 16 years of age or older on the day of the arrival that is the subject of the designation in question, the Minister must impose the conditions that are prescribed for the purposes of subsection 58(4) on the designated foreign national.
-
-**(3.2)** The conditions imposed under subsection (3.1) cease to apply only when
-
-  the designated foreign national is detained again;
-
-  a final determination is made to accept the designated foreign national's claim for refugee protection;
-
-  if the designated foreign national applies for protection under subsection 112(1) and is not an applicant described in subsection 112(3), a final determination is made to allow the application;
-
-  the designated foreign national becomes a permanent resident; or
-
-  a removal order is enforced against the designated foreign national in accordance with the regulations.
-
-**(4)** If the Minister orders the release of a designated foreign national who is the subject of either a report on inadmissibility on grounds of security that is referred to the Immigration Division or a removal order for inadmissibility on grounds of security, the Minister must impose the conditions **that are prescribed for the purposes of subsection 58(5) on the designated foreign national**.
-
-**(5)** The conditions imposed under subsection (4) cease to apply only when one of the events described in paragraphs 44(5)(a) to (e) occurs.
-
-**(6)** If the Minister orders the release of a designated foreign national who has made a claim for refugee protection, the Minister must impose the conditions that are prescribed for the purposes of subsection 58(7) on the designated foreign national.
-
-**(7)** The conditions imposed under subsection (6) cease to apply only when one of the events described in paragraphs 44(7)(a) to (e) occurs.
+[*Deleted*]
 
 ### Section 406
 
-Paragraphs 61(a.1) to (a.3) of the Act are replaced by the following:
-
-the conditions that may **or must be imposed under this Division**;
+[*Deleted*]
 
 ### Section 407
 
-Subsection 97(2) of the English version of the Act is replaced by the following:
-
-**(2)** A person in Canada who is a member of a class of persons **that is** prescribed as being in need of protection is also a person in need of protection.
+[*Deleted*]
 
 ### Section 408
 
-Subsection 99(3.1) of the Act is repealed.
+[*Deleted*]
 
 ### Section 409
 
-The heading before section 100 is replaced by the following:
-
-
-#### **Consideration of Claims Prior to Referral**
+[*Deleted*]
 
 ### Section 410
 
-  **(1)** Subsection 100(1) of the Act is replaced by the following:
-
-### Section 100
-
-      **(1)** An officer **must**, after receiving a claim referred to in subsection 99(3), determine whether **it** is eligible to be referred to the Refugee Protection Division. **If it is determined to be eligible, the Minister must consider it further.**
-
-  **(2)** The portion of subsection 100(2) of the Act before paragraph (a) is replaced by the following:
-
-    **(2)** The officer **or the Minister must** suspend consideration of the person's claim if
-
-  **(3)** Paragraph 100(2)(b) of the Act is replaced by the following:
-
-    **the person** is charged with an offence under an Act of Parliament that is punishable by a maximum term of imprisonment of at least 10 years **and** the officer **or the Minister** considers it necessary to wait for a **court** decision with respect to **the charge**.
-
-  **(4)** Subsection 100(3) of the Act is replaced by the following:
-
-    **(3)** The Minister may, after considering a claim, determine that it is ineligible to be referred to the Refugee Protection Division despite the determination made under subsection (1).
-
-  **(5)** Subsection 100(4) of the Act is replaced by the following:
-
-    **(4)** A person who makes a claim for refugee protection **inside Canada** **— or who, before making a claim, submits any document or provides information with a view to making a claim inside Canada —** must, within the time limits provided for in the regulations **and in the manner specified by the Minister,** provide the **Minister** with the **documents and information specified by the Minister and** the documents and information required by the rules of the Board.
-
-  **(6)** Subsection 100(4.1) of the Act is repealed.
-
-  **(7)** Subsection 100(5) of the Act is repealed.
+[*Deleted*]
 
 ### Section 411
 
-The Act is amended by adding the following after section 100:
-
-### Section 100.1
-
-  **(1)** Subject to subsections 100(1) to (3) and section 102.2, the Minister must refer a claim for refugee protection to the Refugee Protection Division if
-
-    the claim has been determined to be eligible for referral;
-
-    the Minister has been provided with, and has had the opportunity to consider, the documents and information referred to in subsection 100(4); and
-
-    in the case where the person who made the claim has been requested to appear for an examination, they have appeared for the examination.
-
-  **(2)** The Refugee Protection Division is not authorized to consider a claim for the purposes of subsection 107(1) until the claim has been referred to it under subsection (1).
+[*Deleted*]
 
 ### Section 412
 
-The Act is amended by adding the following after section 102:
-
-
-#### **Abandonment and Withdrawal of Claims**
-
-### Section 102.1
-
-  **(1)** If a person who makes a claim for refugee protection inside Canada that has not been referred to the Refugee Protection Division and that has not been determined to be ineligible for referral fails to provide documents or information in accordance with subsection 100(4) or fails to appear for an examination when requested to do so, the Minister must transmit the claim to the Division to determine whether, as a result of the failure, the claim has been abandoned.
-
-  **(2)** Subject to subsection (6), the Refugee Protection Division must, in accordance with subsection 168(1), determine whether the claim has been abandoned.
-
-  **(3)** Despite section 165, the Refugee Protection Division cannot compel the Minister, an officer or any other person who is authorized to act on the Minister's behalf to appear for a hearing.
-
-  **(4)** If the Refugee Protection Division determines that the claim has not been abandoned, the person who made the claim must provide the necessary documents or information or appear for the examination, as the case may be, in accordance with the requirements imposed by or under the regulations.
-
-  **(5)** If the person who made the claim is required to comply with subsection (4) and fails to do so, the Refugee Protection Division must make a new determination under subsection (2).
-
-  **(6)** A proceeding under this section is terminated if
-
-    the person who made the claim provides the Minister with the necessary documents and information or appears for the examination, as the case may be;
-
-    the claim is determined under subsection 100(1) or (3) to be ineligible to be referred to the Refugee Protection Division; or
-
-    a prescribed circumstance exists.
-
-### Section 102.2
-
-  **(1)** The Minister may, at any time after a claim for refugee protection is determined to be eligible for referral and before the claim is referred to the Refugee Protection Division, determine that the claim has been withdrawn if the claimant provides the Minister with written notice of withdrawal.
-
-  **(2)** **Subject to the regulations, the Minister may, on application, reinstate a claim that the Minister has determined to be withdrawn.**
+[*Deleted*]
 
 ### Section 413
 
-Paragraph 104(1)(c) of the English version of the Act is replaced by the following:
-
-the claim was referred as a result of directly or indirectly misrepresenting or withholding material facts relating to a relevant matter and was not otherwise eligible to be referred to **the Refugee Protection** Division; or
+[*Deleted*]
 
 ### Section 414
 
-The Act is amended by adding the following after section 104:
-
-### Section 104.1
-
-  **(1)** The Refugee Protection Division must not commence, or must suspend, consideration of a claim for refugee protection for the purposes of subsection 107(1) if the claimant is not physically present in Canada.
-
-  **(2)** The Refugee Appeal Division must not commence, or must suspend, consideration of an appeal, other than an appeal by the Minister, if the person who is the subject of the appeal is not physically present in Canada.
+[*Deleted*]
 
 ### Section 415
 
-Section 109.1 of the Act and the heading before it are repealed.
+[*Deleted*]
 
 ### Section 416
 
-  **(1)** Paragraph 110(2)(d.1) of the Act is repealed.
-
-  **(2)** Subsections 110(3) and (3.1) of the Act are replaced by the following:
-
-    **(3)** Subject to subsections (4) and (6), the Refugee Appeal Division must proceed without a hearing, on the basis of the record of the proceedings of the Refugee Protection Division, and may accept documentary evidence and written submissions from the Minister and the person who is the subject of the appeal and, in the case of a matter that is conducted before a panel of three members, written submissions from a representative or agent **or mandatary** of the United Nations High Commissioner for Refugees and any other person described in the rules of the Board.
+[*Deleted*]
 
 ### Section 417
 
-Section 111 of the Act is amended by adding the following after subsection (2):
-
-**(3)** If the Refugee Appeal Division confirms a decision of the Refugee Protection Division to reject a claim for refugee protection, the decision of the Refugee Appeal Division is itself a decision to reject the claim.
+[*Deleted*]
 
 ### Section 418
 
-  **(1)** Paragraph 111.1(1)(a) of the Act is replaced by the following:
-
-    time limits for providing documents and information under subsection 100(4);
-
-  **(2)** Paragraph 111.1(1)(b) of the Act is repealed.
-
-  **(3)** Subsection 111.1(1) of the Act is amended by adding "and" at the end of paragraph (c), by striking out "and" at the end of paragraph (d) and by repealing paragraph (e).
-
-  **(4)** Subsection 111.1(2) of the Act is repealed.
+[*Deleted*]
 
 ### Section 419
 
-  **(1)** The portion of paragraph 112(2)(b.1) of the Act before subparagraph (i) is replaced by the following:
-
-    subject to subsection (2.1), less than 12 months have passed since
-
-  **(2)** Subsection 112(2) of the Act is amended by striking out "or" at the end of paragraph (b.1) and by adding the following after that paragraph:
-
-    subject to subsection (2.1), less than 12 months have passed since
-
-    the day on which their claim for refugee protection was determined to be withdrawn by the Minister, in the case where no application was made to the Federal Court for leave to commence an application for judicial review, or
-
-    in any other case where their claim for refugee protection was determined to be withdrawn by the Minister, the later of
-
-    the day on which the Minister made the determination or, if there was more than one such determination, the day on which the last determination occurred, and
-
-    the day on which the Federal Court refused their application for leave to commence an application for judicial review, or denied their application for judicial review, with respect to the Minister's determination; or
-
-  **(3)** The portion of paragraph 112(2)(c) of the Act before subparagraph (i) is replaced by the following:
-
-    subject to subsection (2.1), less than 12 months have passed since
+[*Deleted*]
 
 ### Section 420
 
-Subsection 144(1) of the English version of the Act is replaced by the following:
-
-### Section 144
-
-  **(1)** In addition to other procedures set out in this Act or in the `Criminal Code` for commencing a proceeding, proceedings in respect of any prescribed offence may be commenced in accordance with this section.
+[*Deleted*]
 
 ### Section 421
 
-Paragraph 159(1)(g) of the Act is replaced by the following:
-
-takes any action that may be necessary to ensure that the members of the Board carry out their duties efficiently and without undue delay, **including by specifying the manner in which decisions must be rendered and reasons for decisions must be given**;
+[*Deleted*]
 
 ### Section 422
 
-  **(1)** Paragraph 161(1)(a.1) of the Act is repealed.
-
-  **(2)** Subsection 161(1.1) of the Act is repealed.
+[*Deleted*]
 
 ### Section 423
 
-Section 168 of the Act is amended by adding the following after subsection (1):
-
-**(1.1)** For greater certainty, if the Refugee Protection Division or the Refugee Appeal Division is prevented from considering a claim or appeal under section 104.1, the Division may determine under subsection (1) that the claim or appeal has been abandoned.
+[*Deleted*]
 
 ### Section 424
 
-Paragraph 169(e) of the English version of the Act is replaced by the following:
-
-written reasons **for the decision** must be provided **to** the person who is the subject of **the decision and to** the Minister in circumstances **provided for** in the rules of the Board or **if the person or the Minister requests them** within 10 days of notification of the decision; and
+[*Deleted*]
 
 ### Section 425
 
-  **(1)** Paragraph 170(d) of the Act is repealed.
-
-  **(2)** Paragraph 170(f) of the Act is replaced by the following:
-
-    may, despite paragraph (b), **accept** a claim for refugee protection without a hearing if the Minister has not notified the Division of the Minister's intention to intervene;
+[*Deleted*]
 
 
 #### Transitional Provisions
 
 ### Section 426
 
-  **(1)** In this section and sections `427` to `430`, **Act** means the `Immigration and Refugee Protection Act`.
-
-  **(2)** Unless the context requires otherwise, words and expressions used in sections `427` to `430` have the same meaning as in the Act.
+[*Deleted*]
 
 ### Section 427
 
-Section 6.1 of the Act, as enacted by section `386`, applies to any proceedings or applications that are prescribed for the purposes of subsection 6.1(1) of that Act and that are pending or in progress on the day on which the regulations that prescribe those proceedings or applications come into force.
+[*Deleted*]
 
 ### Section 428
 
-A provision of the Act set out below applies in respect of claims for refugee protection whose eligibility to be referred to the Refugee Protection Division has not yet been determined on the day on which the provision comes into force or that have been determined to be eligible for referral but have not yet been referred to that Division on that day:
-
-section 23.1 of the Act, as enacted by section `389`;
-
-section 42.2 of the Act, as enacted by subsection `393`(1);
-
-paragraphs 42.2(e) and (f) of the Act, as enacted by subsection `393`(2);
-
-subsections 44(6) and (7) of the Act, as enacted by subsection `394`(2);
-
-section 45.1 of the Act, as enacted by subsection `396`(1);
-
-subsections 56(5) and (6) of the Act, as enacted by section `402`;
-
-subsections 58(7) and (8) of the Act, as enacted by subsection `404`(2);
-
-subsections 58.1(6) and (7) of the Act, as enacted by section `405`;
-
-subsection 100(1) of the Act, as enacted by subsection `410`(1);
-
-the portion of subsection 100(2) of the Act before paragraph (a), as enacted by subsection `410`(2);
-
-paragraph 100(2)(b) of the Act, as enacted by subsection `410`(3);
-
-subsection 100(3) of the Act, as enacted by subsection `410`(4);
-
-subsection 100(4) of the Act, as enacted by subsection `410`(5);
-
-section 100.1 of the Act, as enacted by section `411`; and
-
-sections 102.1 and 102.2 of the Act, as enacted by section `412`.
+[*Deleted*]
 
 ### Section 429
 
-  **(1)** Subsection 44(1) of the Act, as enacted by subsection `394`(1), applies if, before the day on which subsection `394`(1) comes into force, an officer prepares a report under subsection 44(1) of that Act but does not transmit it to the Minister before that day.
-
-  **(2)** Subsection 44(2) of the Act, as it read immediately before the day on which subsection `394`(1) comes into force, applies in respect of reports that are transmitted to the Minister under subsection 44(1) of that Act before that day and in respect of the permanent residents or foreign nationals who are the subjects of those reports.
+[*Deleted*]
 
 ### Section 430
 
-Section 44.1 of the Act, as enacted by section `395`, applies to hearings before the Immigration Division that have not yet been completed on the day on which section `395` comes into force.
+[*Deleted*]
 
 
 #### Coordinating Amendments
 
 ### Section 431
 
-  **(1)** If section `408` of this Act comes into force before the day on which subsection 284(2) of the `Budget Implementation Act, 2023, No. 1` comes into force, then that subsection 284(2) is repealed.
-
-  **(2)** If section `408` of this Act and subsection 284(2) of the `Budget Implementation Act, 2023, No. 1` come into force on the same day, then that subsection 284(2) is deemed never to have come into force and is repealed.
+[*Deleted*]
 
 
 #### Coming into Force
 
 ### Section 432
 
-  **(1)** Subject to subsection (2), the provisions of this Division, other than sections `385`, `387`, `388`, `392`, `395`, `398`, `399`, `407`, `413`, `414`, `417`, `420`, `421`, `423`, `424` and `426` to `431`, come into force on a day or days to be fixed by order of the Governor in Council.
-
-  **(2)** Section `412` comes into force on a day to be fixed by order of the Governor in Council but that day must not be before the day on which subsection `410`(5) comes into force.
+[*Deleted*]
 
 
 ### Immigrant Stations
@@ -16443,7 +16050,51 @@ The heading before section 94.1 and sections 94.1 to 94.8 of the Act are repeale
 
     **(3)** An area of a penitentiary, as defined in subsection 2(1) of the `Corrections and Conditional Release Act`, may be an immigrant station only if it is designated under subsection 94.4(1) of that Act.
 
-  **(2)** Subsections 142(2) and (3) of the Act are repealed.
+    **(4)** A person detained under this Act must not be detained in a designated immigrant station, as defined in section 94.1 of the `Corrections and Conditional Release Act`, unless, subject to subsections (5) to (7), the Minister determines that the person is to be detained in a designated immigrant station because the person requires a high degree of supervision and control, based on
+
+      the nature and level of the danger to the public that the person poses, having regard to any of the following factors:
+
+      any conviction in Canada under an Act of Parliament for a sexual offence or an offence involving violence or weapons,
+
+      any conviction outside Canada for an offence that, if committed in Canada, would constitute a sexual offence or an offence involving violence or weapons under an Act of Parliament,
+
+      any pending charges in Canada under an Act of Parliament for a sexual offence or an offence involving violence or weapons,
+
+      any pending charges outside Canada, for an offence that, if committed in Canada, would constitute a sexual offence or an offence involving violence or weapons under an Act of Parliament,
+
+      association with a *criminal organization*, within the meaning of subsection 121.1(1), or
+
+      association with an organization that engages, or has engaged, in terrorism; or
+
+      any serious non-compliance by the person with the rules, applicable in an immigrant station, any other detention facility or any correctional facility where the person is or has been detained, with respect to
+
+      the possession of weapons or the possession of or dealing in controlled substances, as defined in subsection 2(1) of the `Controlled Drugs and Substances Act`, or
+
+      violent or aggressive behaviour towards any other person.
+
+    **(5)** The Minister must not determine that a minor child detained under this Act is to be detained in a designated immigrant station.
+
+    **(6)** Before determining that a person detained under this Act is to be detained in a designated immigrant station, the Minister must
+
+      provide the person with a written notice informing them that the Minister is considering making a determination that the person is to be detained in a designated immigrant station and informing them of the right to make submissions and to retain and instruct counsel;
+
+      allow the person a reasonable opportunity to exercise the rights referred in paragraph (a); and
+
+      consider the person's state of health and health care needs, including with respect to their mental health.
+
+    **(7)** If the Minister determines that a person detained under this Act is to be detained in a designated immigrant station, the Minister must provide the person with written reasons for the determination before the person is detained in a designated immigrant station.
+
+    **(8)** Subsections (6) and (7) do not apply in an emergency in which a person detained under the Act must be immediately detained in a designated immigrant station because of a risk to the safety of the person or to other persons in, or a risk to the security of, the immigrant station where the person is or would otherwise be detained.
+
+    **(9)** If a person is detained in a designated immigrant station in the circumstances described in subsection (8), the Minister must
+
+      as soon as feasible after the person is detained in the designated immigrant station, provide the person with a written notice informing them that the Minister is considering making a determination that the person is to remain detained in a designated immigrant station and informing them of the right to make submissions and to retain and instruct counsel; and
+
+      allow the person a reasonable opportunity to exercise the rights referred in paragraph (a).
+
+    **(10)** If the Minister determines that a person detained in a designated immigrant station in the circumstances described in subsection (8) is to remain detained in the designated immigrant station, the Minister must provide the person with written reasons for the determination.
+
+  **(2)** Subsections 142(2) **to (10)** of the Act are repealed.
 
 
 #### Transitional Provision
@@ -16468,7 +16119,7 @@ Despite the definition visitor in subsection 2(1), in sections 59, 60 and 60.1 *
 
 ### Section 441
 
-Subsection `433`(2), sections `435` and `437` and subsection `438`(2) come into force on the fifth anniversary of the day on which this Act receives royal assent unless, before that fifth anniversary, on the recommendation of the Minister of Public Safety and Emergency Preparedness, the Governor in Council, by order, fixes another day on which those provisions are to come into force that is not after the 10th anniversary of the day on which this Act receives royal assent.
+Subsection `433`(2), sections `435` and `437` and subsection `438`(2) come into force on the fifth anniversary of the day on which this Act receives royal assent.
 
 
 ### Measures Related to Public Debt and the Borrowing of Money
@@ -16480,7 +16131,7 @@ Subsection `433`(2), sections `435` and `437` and subsection `438`(2) come into 
 
   **(1)** Subsection 44(3) of the French version of the `Financial Administration Act` is replaced by the following:
 
-    **(3)** **S'il l'estime** indiqué, le ministre peut, sous réserve des conditions éventuellement précisées par le gouverneur en conseil, conclure des contrats ou des accords, émettre des titres et prendre toute autre mesure **se rapportant** aux emprunts.
+    **(3)** S'il l'estime indiqué, le ministre peut, sous réserve des conditions éventuellement précisées par le gouverneur en conseil, conclure des contrats ou des accords, émettre des titres et prendre toute autre mesure se rapportant aux emprunts.
 
   **(2)** Section 44 of the Act is amended by adding the following after subsection (3):
 
@@ -16498,7 +16149,7 @@ The portion of section 4 of the `Borrowing Authority Act` before paragraph (a) i
 
 ### Section 4
 
-Despite section 3 and any other Act of Parliament, but subject to section 6, the total of the following amounts must not at any time exceed $**2,126,000,000,000**:
+Despite section 3 and any other Act of Parliament, but subject to section 6, the total of the following amounts must not at any time exceed $2,126,000,000,000:
 
 
 ##### Coordinating Amendments
@@ -16584,7 +16235,7 @@ The `Insurance Companies Act` is amended by adding the following after section 1
 The Act is amended by adding the following after section 795:
 
 
-##### **Disclosure Relating to Diversity**
+##### Disclosure Relating to Diversity
 
 ### Section 795.1
 
@@ -16611,7 +16262,7 @@ Subsection 20(1) of the `Trust and Loan Companies Act` is replaced by the follow
 
 ### Section 20
 
-  **(1)** Subject to subsections (2) and (4), companies shall not carry on business after June 30, **2026**.
+  **(1)** Subject to subsections (2) and (4), companies shall not carry on business after June 30, 2026.
 
 
 #### `Bank Act`
@@ -16622,7 +16273,7 @@ Subsection 21(1) of the `Bank Act` is replaced by the following:
 
 ### Section 21
 
-  **(1)** Subject to subsections (2) and (4), banks shall not carry on business, and authorized foreign banks shall not carry on business in Canada, after June 30, **2026**.
+  **(1)** Subject to subsections (2) and (4), banks shall not carry on business, and authorized foreign banks shall not carry on business in Canada, after June 30, 2026.
 
 ### Section 453
 
@@ -16630,7 +16281,7 @@ Subsection 670(1) of the Act is replaced by the following:
 
 ### Section 670
 
-  **(1)** Subject to subsections (2) and (4), bank holding companies shall not carry on business after June 30, **2026**.
+  **(1)** Subject to subsections (2) and (4), bank holding companies shall not carry on business after June 30, 2026.
 
 
 #### `Insurance Companies Act`
@@ -16641,7 +16292,7 @@ Subsection 21(1) of the `Insurance Companies Act` is replaced by the following:
 
 ### Section 21
 
-  **(1)** Subject to subsections (2) and (4), companies and societies shall not carry on business, and foreign companies shall not carry on business in Canada, after June 30, **2026**.
+  **(1)** Subject to subsections (2) and (4), companies and societies shall not carry on business, and foreign companies shall not carry on business in Canada, after June 30, 2026.
 
 ### Section 455
 
@@ -16649,7 +16300,7 @@ Subsection 707(1) of the Act is replaced by the following:
 
 ### Section 707
 
-  **(1)** Subject to subsections (2) and (4), insurance holding companies shall not carry on business after June 30, **2026**.
+  **(1)** Subject to subsections (2) and (4), insurance holding companies shall not carry on business after June 30, 2026.
 
 
 ### Measures Related to the Canada Disability Benefit
@@ -16730,15 +16381,15 @@ any regulations made under subsection 11(1) of the `Canada Disability Benefit Ac
 
   **(1)** Paragraph 55(1)(c) of the `Controlled Drugs and Substances Act` is replaced by the following:
 
-    respecting the issuance, suspension, cancellation, duration and terms and conditions of any licence **or authorization** or class of licences **or authorizations for any dealing in** any substance included in Schedule I, II, III, IV, V or VI or any class of those substances, **including** the importation into Canada, exportation from Canada, production, packaging, sale, provision, administration, **possession, transportation, sending** or **delivery of the substance or class of substances**;
+    respecting the issuance, suspension, cancellation, duration and terms and conditions of any licence or authorization or class of licences or authorizations for any dealing in any substance included in Schedule I, II, III, IV, V or VI or any class of those substances, including the importation into Canada, exportation from Canada, production, packaging, sale, provision, administration, possession, transportation, sending or delivery of the substance or class of substances;
 
   **(2)** Paragraph 55(1)(d.1) of the Act is replaced by the following:
 
-    authorizing the Minister to impose terms and conditions on any licence, **authorization** or permit, including existing licences, **authorizations** or permits, and to amend those terms and conditions;
+    authorizing the Minister to impose terms and conditions on any licence, authorization or permit, including existing licences, authorizations or permits, and to amend those terms and conditions;
 
   **(3)** Paragraph 55(1)(h) of the Act is replaced by the following:
 
-    respecting the qualifications of persons who are engaged in the production, preservation, testing, packaging, storage, selling, providing or otherwise dealing in any controlled substance or precursor or any class **of any controlled substance or precursor** and who do so under the supervision of a person licensed **or authorized** under the regulations to do any such thing;
+    respecting the qualifications of persons who are engaged in the production, preservation, testing, packaging, storage, selling, providing or otherwise dealing in any controlled substance or precursor or any class of any controlled substance or precursor and who do so under the supervision of a person licensed or authorized under the regulations to do any such thing;
 
   **(4)** Subsection 55(1.2) of the Act is repealed.
 
