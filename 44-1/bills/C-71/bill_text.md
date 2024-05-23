@@ -1,0 +1,224 @@
+# Bill C-71: An Act to amend the Citizenship Act (2024)
+
+**Sponsor**: MINISTER OF IMMIGRATION, REFUGEES AND CITIZENSHIP
+
+## Summary
+
+This enactment amends the `Citizenship Act` to, among other things,
+
+ensure that citizenship by descent is conferred on all persons who were born outside Canada before the coming into force of this enactment to a parent who was a citizen;
+
+confer citizenship by descent on persons born outside Canada after the first generation, on or after the coming into force of this enactment, to a parent who is a citizen and who had a substantial connection to Canada before the person's birth;
+
+allow citizenship to be granted under section 5.1 of that Act to all persons born outside Canada who were adopted before the coming into force of this enactment by a parent who was a citizen;
+
+allow citizenship to be granted under section 5.1 of that Act to persons born outside Canada who are adopted on or after the coming into force of this enactment by a parent who is a citizen and who had a substantial connection to Canada before the person's adoption;
+
+restore citizenship to persons who lost their citizenship because they did not make an application to retain it under the former section 8 of that Act or because they made an application under that section that was not approved; and
+
+allow certain persons who become citizens as a result of the coming into force of this enactment to access a simplified process to renounce their citizenship.
+
+His Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+## `Citizenship Act`
+
+### Section 1
+
+  **(1)** Paragraph 3(1)(f) of the `Citizenship Act` is amended by adding "or" at the end of subparagraph (i), by striking out "or" at the end of subparagraph (ii) and by repealing subparagraph (iii).
+
+  **(2)** Paragraph 3(1)(h) of the Act is replaced by the following:
+
+    the person was granted citizenship **on or after January 1, 1947 but before April 17, 2009**, the person would have, but for that grant, been a citizen under paragraph (g) and, if it was required, **the person** took the oath of citizenship;
+
+  **(3)** The portion of paragraph 3(1)(i) of the Act before subparagraph (i) is replaced by the following:
+
+    the person had been a citizen other than by way of grant, ceased to be a citizen for a reason other than the reasons referred to in subparagraphs (f)(i) **and** (**ii**), was subsequently granted citizenship before the coming into force of this paragraph under any of the following provisions and, if it was required, took the oath of citizenship:
+
+  **(4)** Section 3 of the Act is amended by adding the following after subsection (1.4):
+
+    **(1.5)** A person who would not become a citizen under one of the paragraphs of subsection (1) for the sole reason that their parent or both their parent and their parent's parent died before the coming into force of `An Act to amend the Citizenship Act (2024)` is a citizen under that paragraph if that parent — or both that parent and that parent's parent — but for their death, would have been a citizen as a result of the coming into force of that Act.
+
+  **(5)** Paragraphs 3(2.1)(a) and (b) of the Act are replaced by the following:
+
+    before January 1, 1947, the person made a declaration of alienage; or
+
+    the person became a citizen by way of grant on or after January 1, 1947 and subsequently renounced **their** citizenship under any of the provisions **referred to** in clauses (1)(f)(i)(A) to (F).
+
+  **(6)** Subsection 3(2.2) of the Act is replaced by the following:
+
+    **(2.2)** Paragraphs (1)(b), (g) and (h) do not apply to a person — who, but for this subsection, would be a citizen under one of those paragraphs for the sole reason that one or both of **their** parents are persons referred to in any of paragraphs (1)(k), (m), (o) and (q) — if the person became a citizen by way of grant on or after January 1, 1947 and subsequently renounced **their** citizenship under any of the provisions **referred to** in clauses (1)(f)(i)(A) to (F).
+
+  **(7)** Paragraphs 3(2.3)(a) and (b) of the Act are replaced by the following:
+
+    before April 1, 1949, the person made a declaration of alienage; or
+
+    the person became a citizen by way of grant on or after April 1, 1949 and subsequently renounced **their** citizenship under any of the provisions **referred to** in clauses (1)(f)(i)(A) to (F).
+
+  **(8)** Subsections 3(2.4) and (3) of the Act are replaced by the following:
+
+    **(2.4)** Paragraphs (1)(b), (g) and (h) do not apply to a person — who, but for this subsection, would be a citizen under one of those paragraphs for the sole reason that one or both of **their** parents are persons referred to in any of paragraphs (1)(l), (n), (p) and (r) — if the person became a citizen by way of grant on or after April 1, 1949 and subsequently renounced **their** citizenship under any of the provisions **referred to** in clauses (1)(f)(i)(A) to (F).
+
+    **(2.5)** Paragraphs (1)(b), (f) to (j), (q) and (r) do not apply to a person who became a citizen by way of grant before the day on which this subsection comes into force and subsequently renounced their citizenship under any of the provisions referred to in clauses (1)(f)(i)(A) to (F).
+
+    **(3)** Paragraph (1)(b) does not apply to a person born outside Canada on or after the day on which `An Act to amend the Citizenship Act (2024)` comes into force
+
+      if
+
+      at the time of **the person's** birth
+
+      only one of the person's parents was a citizen and that parent was a citizen under **any of** paragraphs (1)(b), (c.1), (e), (g) **to (j) and** (o) **to** (r) **and was born outside Canada**,
+
+      **only one of the person's parents was a citizen and that parent was a citizen under paragraph (1)(f) and was born outside Canada to a parent who was a citizen at the time of their birth, or**
+
+      **both of the person's parents were citizens under any of paragraphs (1)(b), (c.1), (e) to (j) and (o) to (r) and were born outside Canada and, in the case of a parent who was a citizen under paragraph (1)(f), that parent was born to a parent who was a citizen at the time of their birth, and**
+
+      **neither of the person's parents who was a citizen was physically present in Canada for at least 1,095 days before the person's birth; or**
+
+      if
+
+      at any time, only one of the person's parents was a citizen and that parent was a citizen under any of the following provisions or both of the person's parents were citizens under any of the following provisions:
+
+      paragraph 4(b) or 5(b) of the `Canadian Citizenship Act`, S.C. 1946, c. 15,
+
+      paragraph 5(1)(b) of the `Canadian Citizenship Act`, S.C. 1946, c. 15, as enacted by S.C. 1950, c. 29, s. 2,
+
+      paragraph 4(1)(b) of the `Canadian Citizenship Act`, S.C. 1946, c. 15, as enacted by S.C. 1952-53, c. 23, s. 2(1),
+
+      paragraph 5(1)(b) of the `Canadian Citizenship Act`, S.C. 1946, c. 15, as enacted by S.C. 1950, c. 29, s. 2 and amended by S.C. 1952-53, c. 23, s. 3(1),
+
+      paragraph 4(1)(b) of the `Canadian Citizenship Act`, R.S.C. 1952, c. 33, as enacted by S.C. 1952-53, c. 23, s. 13(1),
+
+      paragraph 5(1)(b) of the `Canadian Citizenship Act`, R.S.C. 1952, c. 33, as amended by S.C. 1952-53, c. 23, s. 14(1),
+
+      subsection 39B(1) of the `Canadian Citizenship Act`, R.S.C. 1952, c. 33, as enacted by S.C. 1967-68, c. 4, s. 10, or
+
+      paragraph 4(1)(b) or 5(1)(b) or subsection 42(1) of the former Act, and
+
+      **neither of the person's parents who was a citizen was physically present in Canada for at least 1,095 days before the person's birth.**
+
+  **(9)** Subsections 3(4) and (4.1) of the Act are repealed.
+
+  **(10)** Subsections 3(5.1) and (5.2) of the Act are repealed.
+
+  **(11)** Subsection 3(6.2) of the Act is replaced by the following:
+
+    **(6.2)** A person referred to in any of paragraphs (1)(k) to (r) — or a person referred to in paragraph (1)(b) or (g) who is a citizen under that paragraph for the sole reason that one or both of **their** parents are persons referred to in any of paragraphs (1)(k) to (n) — who became a citizen by way of grant before the coming into force of this subsection is deemed, except for the purposes of paragraph (2.1)(b), subsection (2.2), paragraph (2.3)(b), **subsections** (2.4) **and (2.5)** and subparagraphs 27**(1)**(j.1)(ii) **to** (**iv**), never to have been a citizen by way of grant.
+
+  **(12)** Section 3 of the Act is amended by adding the following after subsection (6.3):
+
+    **(6.4)** A person who is referred to in paragraph (1)(b) and also in paragraph (1)(f) is deemed to be a citizen only under paragraph (1)(f).
+
+    **(6.5)** A person who is referred to in any of paragraphs (1)(b), (f) to (j), (q) and (r) as a result of the coming into force of `An Act to amend the Citizenship Act (2024)` and who became a citizen by way of grant before the coming into force of that Act is deemed, except for the purposes of paragraphs (1)(h) to (j) and (2.1)(b), subsection (2.2), paragraph (2.3)(b), subsections (2.4) and (2.5) and subparagraph 27(1)(j.1)(iv), never to have been a citizen by way of grant.
+
+  **(13)** The portion of paragraph 3(7)(a) of the Act before subparagraph (i) is replaced by the following:
+
+    a person referred to in paragraph (1)(c) who was, before the coming into force of this subsection, granted citizenship under any of the following provisions after ceasing to be a citizen by way of grant for any reason other than the reasons referred to in subparagraphs (1)(f)(i) **and** (**ii**) is deemed to be a citizen under paragraph (1)(c) from the time that **the person** ceased to be a citizen:
+
+  **(14)** Paragraphs 3(7)(h) and (i) of the Act are replaced by the following:
+
+    a person referred to in paragraph (1)(b) is deemed to be a citizen under that paragraph from the time that **the person** was born;
+
+  **(15)** Subsection 3(9) of the Act is replaced by the following:
+
+    **(9)** In subsections (2.1) to (**2.5**), (6.2) and **(6.5)**, **by way of grant** means by way of grant under this Act or under prior legislation, by way of acquisition under this Act or by way of resumption under prior legislation.
+
+### Section 2
+
+Subsection 4(2) of the Act is replaced by the following:
+
+**(2)** For the purposes of paragraph 3(1)(b), subsection 3(2) and **subparagraph 3(3)(a)(i), if** a child is born after the death of either of **their** parents, the child **is** deemed to have been born before the death of that parent.
+
+
+> **Explanatory Note**:
+> Existing text of subsection 4(2):
+> *Existing Text*:
+> > For the purposes of paragraph 3(1)(b) and subsection 3(2), where a child is born after the death of either of his parents, the child shall be deemed to have been born before the death of that parent.
+
+### Section 3
+
+Paragraph 5(5)(a) of the Act is replaced by the following:
+
+is born outside Canada on or after the day on which `An Act to amend the Citizenship Act (2024)` comes into force;
+
+
+> **Explanatory Note**:
+> Relevant portion of subsection 5(5):
+> *Existing Text*:
+> > The Minister shall, on application, grant citizenship to a person who
+> > is born outside Canada after the coming into force of this subsection;
+
+### Section 4
+
+  **(1)** Subsection 5.1(4) of the Act is replaced by the following:
+
+    **(4)** No person who is adopted **on or after the day on which `An Act to amend the Citizenship Act (2024)` comes into force** may be granted citizenship under any of subsections (1) to (3)
+
+      if
+
+      at the time of **the person's** adoption
+
+      only one of the person's adoptive parents was a citizen and that adoptive parent was a citizen under **any of** paragraphs 3(1)(b), (c.1), (e), (g) **to (j) and** (o) **to** (r) **and was born outside Canada**,
+
+      only one of the person's adoptive parents was a citizen and that adoptive parent was a citizen under paragraph 3(1)(f) and was born outside Canada to a parent who was a citizen at the time of the adoptive parent's birth, or
+
+      both of the person's adoptive parents were citizens under any of paragraphs 3(1)(b), (c.1), (e) to (j) and (o) to (r) and were born outside Canada and, in the case of an adoptive parent who was a citizen under paragraph 3(1)(f), that adoptive parent was born to a parent who was a citizen at the time of the adoptive parent's birth, and
+
+      neither of the person's adoptive parents who was a citizen was physically present in Canada for at least 1,095 days before the person's adoption; or
+
+      if
+
+      at any time, only one of the **person's** adoptive parents was a citizen and that **adoptive** parent was a citizen under any of the provisions referred to in **clauses** 3(3)(b)(i)**(A) to (H)** or both of the **person's** adoptive parents were citizens under any of those provisions, and
+
+      neither of the person's adoptive parents who was a citizen was physically present in Canada for at least 1,095 days before the person's adoption.
+
+  **(2)** Subsection 5.1(6) of the Act is replaced by the following:
+
+    **(6)** A person who would not be granted citizenship under any of subsections (1) to (3) for the sole reason that their adoptive parent or both their adoptive parent and their adoptive parent's parent died before the coming into force of `An Act to amend the Citizenship Act (2024)` may be granted citizenship under that subsection if that adoptive parent — or both that adoptive parent and that adoptive parent's parent — but for their death, would have been a citizen as a result of the coming into force of that Act.
+
+### Section 5
+
+The portion of section 5.2 of the Act before paragraph (a) is replaced by the following:
+
+### Section 5.2
+
+A person born outside Canada who was adopted by a parent referred to in paragraph (a) or (b) and who is either a citizen under prior legislation or the former Act — other than under any provision referred to in any of **clauses** 3(3)(b)(i)**(A) to (H)** — or was granted citizenship under paragraph 5(2)(a) of this Act, as it read before April 17, 2009, or under subsection 5(1), (2), or (4) or 11(1) of this Act is deemed, as of the coming into force of this section, to have been granted citizenship under section 5.1:
+
+
+> **Explanatory Note**:
+> Relevant portion of section 5.2:
+> *Existing Text*:
+> > A person born outside Canada who was adopted by a parent referred to in paragraph (a) or (b) and who is either a citizen under prior legislation or the former Act — other than under any provision referred to in any of subparagraphs 3(3)(b)(i) to (viii) — or was granted citizenship under paragraph 5(2)(a) of this Act, as it read before April 17, 2009, or under subsection 5(1), (2), or (4) or 11(1) of this Act is deemed, as of the coming into force of this section, to have been granted citizenship under section 5.1:
+
+### Section 6
+
+Paragraph 27(1)(j.1) of the Act is amended by striking out "or" at the end of subparagraph (ii), by adding "or" at the end of subparagraph (iii) and by adding the following after subparagraph (iii):
+
+who are citizens as a result of the coming into force of `An Act to amend the Citizenship Act (2024)`, who were born before the day on which that Act comes into force and who did not, before that day, become citizens by way of grant as defined in subsection 3(9);
+
+
+> **Explanatory Note**:
+> Relevant portion of subsection 27(1):
+> *Existing Text*:
+> > The Governor in Council may make regulations
+> > 
+> > providing for the renunciation of citizenship by persons
+
+
+## Coordinating Amendments
+
+### Section 7
+
+  **(1)** Subsections (2) and (3) apply if Bill S-17, introduced in the 1st session of the 44th Parliament and entitled the `Miscellaneous Statute Law Amendment Act, 2023` (in this section referred to as the "other Act"), receives royal assent.
+
+  **(2)** If subsection `1`(11) of this Act comes into force before section 17 of the other Act, then that section 17 is deemed never to have come into force and is repealed.
+
+  **(3)** If section 17 of the other Act comes into force on the same day as subsection `1`(11) of this Act, then that section 17 is deemed to have come into force before that subsection `1`(11).
+
+
+## Coming into Force
+
+### Section 8
+
+This Act, other than section `7`, comes into force on a day to be fixed by order of the Governor in Council.
+
