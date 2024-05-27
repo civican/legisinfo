@@ -1,7 +1,5 @@
 # Bill C-58: An Act to amend the Canada Labour Code and the Canada Industrial Relations Board Regulations, 2012
 
-**Sponsor**: MINISTER OF LABOUR AND SENIORS
-
 ## Summary
 
 This enactment amends the `Canada Labour Code` to, among other things,
@@ -83,7 +81,7 @@ Section 87.2 of the Act is amended by adding the following after subsection (3):
 
   **(3)** Section 87.4 of the Act is amended by adding the following after subsection (6):
 
-    **(6.1)** Despite subsection 14.2(2), the Board must determine an application made under subsection (4) or a referral made under subsection (5), make any order under subsection (6) and send a copy of its decision and any order to the parties no later than **82** days after the day on which it received the application or referral.
+    **(6.1)** Despite subsection 14.2(2), the Board must determine an application made under subsection (4) or a referral made under subsection (5), make any order under subsection (6) and send a copy of its decision and any order to the parties no later than 82 days after the day on which it received the application or referral.
 
     **(6.2)** The failure of the Board to comply with the time limit does not affect the jurisdiction of the Board to continue with and determine the application or referral and any order or decision made by the Board after the time limit is not for that reason invalid.
 
@@ -97,7 +95,7 @@ Section 87.6 of the Act is replaced by the following:
 
 ### Section 87.6
 
-At the end of a strike or lockout not prohibited by this Part, the employer must reinstate employees in the bargaining unit who were on strike or locked out, in preference to any **other** person.
+At the end of a strike or lockout not prohibited by this Part, the employer must reinstate employees in the bargaining unit who were on strike or locked out, in preference to any other person.
 
 ### Section 8
 
@@ -115,7 +113,7 @@ the Board has determined any referral made pursuant to subsection 87.4(5); and
 
       any employee or any person who performs management functions or who is employed in a confidential capacity in matters related to industrial relations, if that employee or person is hired after the day on which notice to bargain collectively is given;
 
-      any contractor**,** other than a dependent contractor**,** or any employee of another employer;
+      any contractor, other than a dependent contractor, or any employee of another employer;
 
       any employee whose normal workplace is a workplace other than that at which the strike or lockout is taking place or who was transferred to the workplace at which the strike or lockout is taking place after the day on which notice to bargain collectively is given;
 
@@ -125,7 +123,7 @@ the Board has determined any referral made pursuant to subsection 87.4(5); and
 
     **(6)** Subject to subsection (7), during a strike or lockout not prohibited by this Part that, with the exception of work performed for the purpose of compliance with section 87.4 or 87.7, is intended to involve the cessation of work by all employees in the bargaining unit, no employer or person acting on behalf of an employer shall use the services of any employee in that unit for a purpose other than compliance with those sections.
 
-    **(7)** An employer or person acting on behalf of an employer who uses the services of **any** person referred to in **paragraphs** (4)(a) **to (d)** or of an employee referred to in subsection (6) does not contravene subsection (4) or (6) if
+    **(7)** An employer or person acting on behalf of an employer who uses the services of any person referred to in paragraphs (4)(a) to (d) or of an employee referred to in subsection (6) does not contravene subsection (4) or (6) if
 
       the services are used solely in order to deal with a situation that presents or could reasonably be expected to present an imminent or serious
 
@@ -135,7 +133,7 @@ the Board has determined any referral made pursuant to subsection 87.4(5); and
 
       threat of serious environmental damage affecting the employer's property or premises;
 
-      the use of the services is necessary in order to deal with the situation because the employer or person acting on behalf of an employer is unable to do so by any other means, such as by using the services of a person **who** is not referred to in **paragraphs** (4)(a) **to (d)** or in subsection (6); and
+      the use of the services is necessary in order to deal with the situation because the employer or person acting on behalf of an employer is unable to do so by any other means, such as by using the services of a person who is not referred to in paragraphs (4)(a) to (d) or in subsection (6); and
 
       in the case of the services of a person referred to in paragraphs (4)(a) to (d), the employer or person acting on behalf of an employer gave the employees in the bargaining unit on strike or locked out the opportunity to perform the necessary work before using the services of that person.
 
@@ -145,7 +143,7 @@ the Board has determined any referral made pursuant to subsection 87.4(5); and
 
 Paragraph 99(1)(b.3) of the Act is replaced by the following:
 
-in respect of a failure to comply with subsection 94(4), by order, require the employer to stop using, for the duration of the dispute, the services of any of the persons referred to in **paragraphs** 94(4)(a) **to (d)** to perform all or part of the duties of an employee who is in the bargaining unit on strike or locked out;
+in respect of a failure to comply with subsection 94(4), by order, require the employer to stop using, for the duration of the dispute, the services of any of the persons referred to in paragraphs 94(4)(a) to (d) to perform all or part of the duties of an employee who is in the bargaining unit on strike or locked out;
 
 in respect of a failure to comply with subsection 94(6), by order, require the employer to stop using, for the duration of the dispute, the services of any employee referred to in that subsection;
 
@@ -242,5 +240,5 @@ a copy of the notice of dispute, if any;
 
 ### Section 18
 
-This Act comes into force on the day that, in the **12th** month after the month in which it receives royal assent, has the same calendar number as the day on which it receives royal assent or, if that **12th** month has no day with that number, the last day of that **12th** month.
+This Act comes into force on the day that, in the 12th month after the month in which it receives royal assent, has the same calendar number as the day on which it receives royal assent or, if that 12th month has no day with that number, the last day of that 12th month.
 
