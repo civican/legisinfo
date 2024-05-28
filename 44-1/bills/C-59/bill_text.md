@@ -1,7 +1,5 @@
 # Bill C-59: An Act to implement certain provisions of the fall economic statement tabled in Parliament on November 21, 2023 and certain provisions of the budget tabled in Parliament on March 28, 2023
 
-**Sponsor**: DEPUTY PRIME MINISTER AND MINISTER OF FINANCE
-
 Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act to implement certain provisions of the fall economic statement tabled in Parliament on November 21, 2023 and certain provisions of the budget tabled in Parliament on March 28, 2023*".
 
 ## Summary
@@ -3152,7 +3150,7 @@ This Act may be cited as the `Fall Economic Statement Implementation Act, 2023`.
 
     the income of the new corporation (other than as a result of an amount of interest and financing expenses being deductible by the new corporation because of paragraph (a.1)) or any of its predecessors, or
 
-  **(8)** Subsection 87 of the Act is amended by adding the following after subsection (2.11)
+  **(8)** Subsection 87 of the Act is amended by adding the following after subsection (2.11):
 
     **(2.12)** Where there has been an amalgamation of two or more corporations, for the purpose of determining the amount for paragraph (h) in the description of B in the definition adjusted taxable income in subsection 18.2(1) in respect of an amount deducted by the new corporation under paragraph 111(1)(a) in computing its taxable income for a taxation year, the new corporation is deemed to be the same corporation as, and a continuation of, a particular predecessor corporation if it may reasonably be considered that
 
@@ -3176,7 +3174,7 @@ This Act may be cited as the `Fall Economic Statement Implementation Act, 2023`.
 
     for the purposes of section 127.44 and Part XII.7 at the end of any particular taxation year ending after the subsidiary was wound up, the parent is deemed to be the same corporation as, and a continuation of, the subsidiary;
 
-  **(2)** Paragraph 88(1)(e.31) of the Act, as enacted by subsection (1), is replaced by the following :
+  **(2)** Paragraph 88(1)(e.31) of the Act, as enacted by subsection (1), is replaced by the following:
 
     for the purposes of sections 127.44 and 127.45 and Part XII.7 at the end of any particular taxation year ending after the subsidiary was wound up, the parent is deemed to be the same corporation as, and a continuation of, the subsidiary;
 
@@ -5766,7 +5764,7 @@ for the entire amount, five years after that day; and
 
     an employee ownership trust,
 
-  **(3)** The portion of the definition **employee trust** in subsection 248(1) of the Act before paragraph (a) is replaced by the following :
+  **(3)** The portion of the definition **employee trust** in subsection 248(1) of the Act before paragraph (a) is replaced by the following:
 
     **employee trust** means an arrangement (other than an employee ownership trust, an employees profit sharing plan, a deferred profit sharing plan or a plan referred to in subsection 147(15) as a "revoked plan") established after 1979
 
@@ -10693,7 +10691,7 @@ Subsection 52(1.3) of the Act is replaced by the following:
 
   **(1)** Section 52.01 of the Act is amended by adding the following after subsection (4):
 
-    **(4.1)** For greater certainty, the making of a representation of a price that is not attainable due to fixed obligatory charges or fees constitutes a false or misleading representation, unless the obligatory charges or fees represent only an amount imposed **on a purchaser of the product referred to in subsections (1) to (3)** by or under an Act of Parliament or the legislature of a province.
+    **(4.1)** For greater certainty, the making of a representation of a price that is not attainable due to fixed obligatory charges or fees constitutes a false or misleading representation, unless the obligatory charges or fees represent only an amount imposed on a purchaser of the product referred to in subsections (1) to (3) by or under an Act of Parliament or the legislature of a province.
 
   **(2)** Subsection 52.01(8) of the Act is replaced by the following:
 
@@ -10725,7 +10723,7 @@ Subsection 67(4) of the Act is replaced by the following:
 
   **(1)** Subsection 74.01(1) of the Act is amended by striking out "or" at the end of paragraph (b) and by adding the following after that paragraph:
 
-    makes a representation to the public in the form of a statement, warranty or guarantee of a product's benefits for protecting **or restoring** the environment or mitigating the environmental, **social** and ecological **causes or** effects of climate change that is not based on an adequate and proper test, the proof of which lies on the person making the representation;
+    makes a representation to the public in the form of a statement, warranty or guarantee of a product's benefits for protecting or restoring the environment or mitigating the environmental, social and ecological causes or effects of climate change that is not based on an adequate and proper test, the proof of which lies on the person making the representation;
 
     makes a representation to the public with respect to the benefits of a business or business activity for protecting or restoring the environment or mitigating the environmental and ecological causes or effects of climate change that is not based on adequate and proper substantiation in accordance with internationally recognized methodology, the proof of which lies on the person making the representation; or
 
@@ -10735,7 +10733,7 @@ Subsection 67(4) of the Act is replaced by the following:
 
   **(2)** Subsection 74.01(3) of the Act is replaced by the following:
 
-    **(3)** A person engages in reviewable conduct who, for the purpose of promoting, directly or indirectly, the supply or use of a product or for the purpose of promoting, directly or indirectly, any business interest, by any means, makes a representation to the public as to the price at which a product or like products have been, are or will be ordinarily supplied by the person making the representation **unless** that person, having regard to the nature of the product and the relevant geographic market, **establishes that**
+    **(3)** A person engages in reviewable conduct who, for the purpose of promoting, directly or indirectly, the supply or use of a product or for the purpose of promoting, directly or indirectly, any business interest, by any means, makes a representation to the public as to the price at which a product or like products have been, are or will be ordinarily supplied by the person making the representation unless that person, having regard to the nature of the product and the relevant geographic market, establishes that
 
       they have sold a substantial volume of the product at that price or a higher price within a reasonable period of time before or after the making of the representation, as the case may be; or
 
@@ -10745,7 +10743,7 @@ Subsection 67(4) of the Act is replaced by the following:
 
 Section 74.011 of the Act is amended by adding the following after subsection (3):
 
-**(3.1)** For greater certainty, the making of a representation of a price that is not attainable due to fixed obligatory charges or fees constitutes a false or misleading representation, unless the obligatory charges or fees represent only an amount imposed **on a purchaser of the product referred to in subsections (1) to (3)** by or under an Act of Parliament or the legislature of a province.
+**(3.1)** For greater certainty, the making of a representation of a price that is not attainable due to fixed obligatory charges or fees constitutes a false or misleading representation, unless the obligatory charges or fees represent only an amount imposed on a purchaser of the product referred to in subsections (1) to (3) by or under an Act of Parliament or the legislature of a province.
 
 **(3.2)** For greater certainty, in determining whether or not the person who made the representation engaged in the reviewable conduct, it is not necessary to establish that any person was deceived or misled.
 
@@ -10941,7 +10939,7 @@ The Act is amended by adding the following after section 74.13:
 
 ### Section 75
 
-      **(1)** The Tribunal may, on application by the Commissioner or a person granted leave under section 103.1, order one or more suppliers of a product, including a means of diagnosis or repair, in a market to accept a person as a customer, **or to make the means of diagnosis or repair available to a person**, within a specified **period and** on **the** terms **that the Tribunal considers appropriate** if the Tribunal finds that
+      **(1)** The Tribunal may, on application by the Commissioner or a person granted leave under section 103.1, order one or more suppliers of a product, including a means of diagnosis or repair, in a market to accept a person as a customer, or to make the means of diagnosis or repair available to a person, within a specified period and on the terms that the Tribunal considers appropriate if the Tribunal finds that
 
         the person is substantially affected in the whole or part of their business or is precluded from carrying on business due to their inability to obtain adequate supplies of the product anywhere in the market on usual trade terms;
 
@@ -10981,7 +10979,7 @@ The Act is amended by adding the following after section 74.13:
 
     **(3)** The following definitions apply in this section.
 
-      **means of diagnosis or repair** includes diagnostic, **maintenance**, repair and **calibration** information, technical updates, diagnostic software or tools and any related documentation and service parts. (**moyen de diagnostic ou de réparation**)
+      **means of diagnosis or repair** includes diagnostic, maintenance, repair and calibration information, technical updates, diagnostic software or tools and any related documentation and service parts. (**moyen de diagnostic ou de réparation**)
 
       **trade terms** means terms in respect of payment, units of purchase and reasonable technical and servicing requirements. (**conditions de commerce**)
 
@@ -11105,7 +11103,7 @@ Subsection 77(3.1) of the Act is replaced by the following:
 
     prohibiting the person against whom the order is directed, should the merger or part thereof be completed, from doing any act or thing the prohibition of which the Tribunal determines to be necessary to ensure that the merger or part thereof does not prevent or lessen competition, or
 
-  **(2)** Subsection 92(2) of the Act is **replaced by the following**:
+  **(2)** Subsection 92(2) of the Act is replaced by the following:
 
     **(2)** For the purpose of this section, if the Tribunal finds, on a balance of probabilities, that a merger or proposed merger results or is likely to result in a significant increase in concentration or market share, the Tribunal shall also find that the merger or proposed merger prevents or lessens, or is likely to prevent or lessen, competition substantially, unless the contrary is proved on a balance of probabilities by the parties to the merger or proposed merger.
 
@@ -11121,7 +11119,7 @@ Subsection 77(3.1) of the Act is replaced by the following:
 
     **(4)** In subsection (3), **concentration index** means, in any relevant market, the sum of the squares of the market shares of the suppliers or customers.
 
-    **(5)** The Governor in Council may by regulation prescribe different values than those provided in **subsection** (3).
+    **(5)** The Governor in Council may by regulation prescribe different values than those provided in subsection (3).
 
 ### Section 250
 
