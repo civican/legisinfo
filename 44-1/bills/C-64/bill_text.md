@@ -1,7 +1,5 @@
 # Bill C-64: An Act respecting pharmacare
 
-**Sponsor**: MINISTER OF HEALTH
-
 Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act respecting pharmacare*".
 
 ## Summary
@@ -80,7 +78,7 @@ The Government of Canada commits to maintaining long-term funding for the provin
 
 ### Section 6
 
-  **(1)** The Minister **must**, if the Minister has entered into an agreement with a province or territory to do so, make payments to the province or territory in order to increase any existing public pharmacare coverage — and to provide universal, single-payer, first-dollar coverage — for specific prescription drugs and related products intended for contraception or the treatment of diabetes.
+  **(1)** The Minister must, if the Minister has entered into an agreement with a province or territory to do so, make payments to the province or territory in order to increase any existing public pharmacare coverage — and to provide universal, single-payer, first-dollar coverage — for specific prescription drugs and related products intended for contraception or the treatment of diabetes.
 
   **(2)** For greater certainty, any agreement referred to in subsection (1) with a province or territory is to provide for first-dollar coverage to patients.
 
@@ -91,7 +89,7 @@ The Government of Canada commits to maintaining long-term funding for the provin
 
 ### Section 7
 
-The Minister **must** seek advice from the Canadian Drug Agency on
+The Minister must seek advice from the Canadian Drug Agency on
 
 the clinical effectiveness and cost-effectiveness of prescription drugs and related products compared to other treatment options;
 
