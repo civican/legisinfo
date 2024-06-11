@@ -1,7 +1,5 @@
 # Bill C-20: An Act establishing the Public Complaints and Review Commission and amending certain Acts and statutory instruments
 
-**Sponsor**: MINISTER OF PUBLIC SAFETY
-
 Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act establishing the Public Complaints and Review Commission and amending certain Acts and statutory instruments*".
 
 ## Summary
@@ -435,7 +433,7 @@ This Act may be cited as the `Public Complaints and Review Commission Act.`
 
   **(1.1)** In making recommendations for appointments of members of the Commission, the Minister must seek to reflect the diversity of Canadian society and must take into account considerations such as gender equality and the overrepresentation of certain groups in the criminal justice system, including Indigenous peoples and Black persons.
 
-  **(2)** A person is not eligible to be a member of the Commission, **including the Chairperson or the Vice-chairperson**, if that person
+  **(2)** A person is not eligible to be a member of the Commission, including the Chairperson or the Vice-chairperson, if that person
 
     is or was a member, as defined in subsection 2(1) of the `Royal Canadian Mounted Police Act`;
 
@@ -492,9 +490,9 @@ The Commission must exercise the powers and perform the duties and functions tha
 
 ### Section 8
 
-  **(1)** The Commission, the RCMP **and union representatives of RCMP employees** must jointly establish service standards respecting the time limits within which reviews under subsection `28`(1) or section `29` are to be conducted and the time limits within which each of them is to deal with complaints made under this Act and specifying the circumstances under which those time limits do not apply or the circumstances under which they may be extended. The Commission must publish on its website those service standards that are related to communications with complainants.
+  **(1)** The Commission, the RCMP and union representatives of RCMP employees must jointly establish service standards respecting the time limits within which reviews under subsection `28`(1) or section `29` are to be conducted and the time limits within which each of them is to deal with complaints made under this Act and specifying the circumstances under which those time limits do not apply or the circumstances under which they may be extended. The Commission must publish on its website those service standards that are related to communications with complainants.
 
-  **(2)** The Commission, the Agency **and union representatives for CBSA employees** must jointly establish service standards respecting the time limits within which reviews under subsection `28`(2) are to be conducted and the time limits within which each of them is to deal with complaints made under this Act, and specifying the circumstances under which those time limits do not apply or the circumstances under which they may be extended. The Commission must publish on its website those service standards that are related to communications with complainants.
+  **(2)** The Commission, the Agency and union representatives for CBSA employees must jointly establish service standards respecting the time limits within which reviews under subsection `28`(2) are to be conducted and the time limits within which each of them is to deal with complaints made under this Act, and specifying the circumstances under which those time limits do not apply or the circumstances under which they may be extended. The Commission must publish on its website those service standards that are related to communications with complainants.
 
 ### Section 9
 
@@ -533,7 +531,7 @@ The Commission must implement public education and information programs to make 
 
   **(1)** The Commission may, on the request of the Minister or on its own initiative, provide the Minister with a special report, and a summary of the report, concerning any matter that relates to its powers, duties and functions under this Act.
 
-  **(2)** The Minister **must** provide a copy of the report or summary to the Commissioner **and the** President **on the same day as** the Minister **receives the report or summary**.
+  **(2)** The Minister must provide a copy of the report or summary to the Commissioner and the President on the same day as the Minister receives the report or summary.
 
   **(3)** The Commission must make the summary of the report public after at least 15 days have elapsed after the day on which the summary is provided to the Minister.
 
@@ -541,13 +539,13 @@ The Commission must implement public education and information programs to make 
 
 ### Section 13
 
-  **(1)** The Chairperson must, within **six** months after **March 31** each year, submit to the Minister a report of the activities of the Commission under this Act during that year, and its recommendations, if any. The Minister must cause a copy of the report to be tabled in each House of Parliament on any of the first 15 days on which that House is sitting after the day on which the Minister receives the report.
+  **(1)** The Chairperson must, within six months after March 31 each year, submit to the Minister a report of the activities of the Commission under this Act during that year, and its recommendations, if any. The Minister must cause a copy of the report to be tabled in each House of Parliament on any of the first 15 days on which that House is sitting after the day on which the Minister receives the report.
 
   **(2)** The report referred to in subsection (1) must
 
     contain information respecting the Commission's performance in relation to the service standards established under section `8`;
 
-    set out the number of complaints made under this Act by persons detained by the Agency and a summary of the nature, status and disposition of those complaints, **including those, if any, disposed of through the reconciliation process with Indigenous peoples**;
+    set out the number of complaints made under this Act by persons detained by the Agency and a summary of the nature, status and disposition of those complaints, including those, if any, disposed of through the reconciliation process with Indigenous peoples;
 
     to the extent known by the Chairperson, set out the number of complaints made by persons who are or have been detained on behalf of the Agency under an agreement or arrangement referred to in subsection 13(3) of the `Canada Border Services Agency Act` and who have made a complaint respecting their treatment during detention — or their conditions of detention — and a summary of the nature, status and disposition of those complaints;
 
@@ -557,13 +555,13 @@ The Commission must implement public education and information programs to make 
 
     set out the number of matters or complaints that were referred to the National Security and Intelligence Review Agency under subsections 31(2), 52(8) and 53(4);
 
-    contain data about complainants, including disaggregated **demographic and** race-based data, in a form that prevents data obtained from an identifiable person from being related to that person; and
+    contain data about complainants, including disaggregated demographic and race-based data, in a form that prevents data obtained from an identifiable person from being related to that person; and
 
     contain information prescribed by the regulations.
 
 ### Section 14
 
-  **(1)** The Commission must, for each fiscal year and in respect of each province the government of which has entered into an arrangement with the Minister under section 20 of the `Royal Canadian Mounted Police Act`, submit to the provincial minister who has the primary responsibility for policing in that province a report setting out the number and nature of complaints relating to conduct that occurred in that province and how those complaints were disposed of, **including those, if any, that were disposed of through the reconciliation process with Indigenous peoples**, and identifying trends, if any. The Commission must submit a copy of that report to the Minister and the Commissioner.
+  **(1)** The Commission must, for each fiscal year and in respect of each province the government of which has entered into an arrangement with the Minister under section 20 of the `Royal Canadian Mounted Police Act`, submit to the provincial minister who has the primary responsibility for policing in that province a report setting out the number and nature of complaints relating to conduct that occurred in that province and how those complaints were disposed of, including those, if any, that were disposed of through the reconciliation process with Indigenous peoples, and identifying trends, if any. The Commission must submit a copy of that report to the Minister and the Commissioner.
 
   **(2)** The report must contain information respecting the Commission's performance in relation to the service standards established under subsection `8`(1).
 
@@ -606,7 +604,7 @@ The Commission must implement public education and information programs to make 
 
     information or intelligence that is similar in nature to information or intelligence referred to in any of paragraphs (a) to (f) of the definition special operational information in subsection 8(1) of the `Security of Information Act` and that is in relation to, or is received from, any police force or Interpol or other similar international police organization;
 
-    medical information, **including information from mental health care professionals**, about a member, as defined in subsection 2(1) of the `Royal Canadian Mounted Police Act`, or other person appointed or employed under Part I of that Act; and
+    medical information, including information from mental health care professionals, about a member, as defined in subsection 2(1) of the `Royal Canadian Mounted Police Act`, or other person appointed or employed under Part I of that Act; and
 
     medical information about an officer or employee of the Canada Border Services Agency.
 
@@ -746,9 +744,9 @@ follow established procedures or practices, including any requirement found in a
 
     the information is used solely for the purpose of dealing with the complaint or initiating the complaint; and
 
-    use information obtained by the Commission under a review conducted under **subsection** 28**(1) or (2)** or section 29 of any activity that was, is or may be carried out by the RCMP or Agency if
+    use information obtained by the Commission under a review conducted under subsection 28(1) or (2) or section 29 of any activity that was, is or may be carried out by the RCMP or Agency if
 
-    the information is relevant and necessary to the conduct of a review under subsection 28(1) or (2) **or section 29** of any similar activity that was, is or may be carried out by the RCMP or Agency, and
+    the information is relevant and necessary to the conduct of a review under subsection 28(1) or (2) or section 29 of any similar activity that was, is or may be carried out by the RCMP or Agency, and
 
     the information is used solely for the purposes of the review referred to in subparagraph (i).
 
@@ -763,9 +761,9 @@ A current or former member, officer or employee of the Commission, or any person
 
 ### Section 28
 
-  **(1)** For the purpose of ensuring that the activities of the RCMP are carried out in accordance with the `Royal Canadian Mounted Police Act` or the `Witness Protection Program Act`, any regulations or ministerial directions made under them or any policy, procedure or guideline relating to the operation of the RCMP, the Commission may, on the request of the Minister **or a third party** or on its own initiative, conduct a review of specified activities of the RCMP and provide a report to the Minister and the Commissioner on the review.
+  **(1)** For the purpose of ensuring that the activities of the RCMP are carried out in accordance with the `Royal Canadian Mounted Police Act` or the `Witness Protection Program Act`, any regulations or ministerial directions made under them or any policy, procedure or guideline relating to the operation of the RCMP, the Commission may, on the request of the Minister or a third party or on its own initiative, conduct a review of specified activities of the RCMP and provide a report to the Minister and the Commissioner on the review.
 
-  **(2)** For the purpose of ensuring that the activities of the Agency are carried out in accordance with the `Canada Border Services Agency Act`, any ministerial directions made under that Act and any policy, procedure or guideline relating to the operation of the Agency, the Commission may, on the request of the Minister **or a third party** or on its own initiative, conduct a review of specified activities of the Agency and provide a report to the Minister and the President on the review.
+  **(2)** For the purpose of ensuring that the activities of the Agency are carried out in accordance with the `Canada Border Services Agency Act`, any ministerial directions made under that Act and any policy, procedure or guideline relating to the operation of the Agency, the Commission may, on the request of the Minister or a third party or on its own initiative, conduct a review of specified activities of the Agency and provide a report to the Minister and the President on the review.
 
   **(3)** In order to conduct a review on its own initiative, the Commission must be satisfied that no other review or inquiry has been undertaken on substantially the same issue by a federal or provincial entity.
 
@@ -773,7 +771,7 @@ A current or former member, officer or employee of the Commission, or any person
 
     [*Deleted*]
 
-  **(4)** Before conducting a review on its own initiative, the Commission must give a notice to the Minister indicating that the Commission is satisfied that the **condition** referred to in subsection (3) **has** been met and setting out the rationale for conducting the review.
+  **(4)** Before conducting a review on its own initiative, the Commission must give a notice to the Minister indicating that the Commission is satisfied that the condition referred to in subsection (3) has been met and setting out the rationale for conducting the review.
 
   **(5)** The Commission must include in the report any findings and recommendations that it sees fit regarding the adequacy, appropriateness, sufficiency or clarity of any policy, procedure or guideline relating to the operation of the RCMP or Agency, as the case may be.
 
@@ -819,17 +817,17 @@ If a review conducted under subsection `28`(2) concerns the detention of persons
 
 ### Section 33
 
-  **(1)** Any individual **or third party** may make a complaint concerning the conduct, in the performance of any duty or function under the `Royal Canadian Mounted Police Act` or the `Witness Protection Program Act`, of any person who, at the time that the conduct is alleged to have occurred, was an RCMP employee.
+  **(1)** Any individual or third party may make a complaint concerning the conduct, in the performance of any duty or function under the `Royal Canadian Mounted Police Act` or the `Witness Protection Program Act`, of any person who, at the time that the conduct is alleged to have occurred, was an RCMP employee.
 
-  **(2)** Any individual **or third party** may make a complaint concerning the conduct, in the exercise of any power of the Agency or the performance of any of its duties or functions under the `Canada Border Services Agency Act`, of any person who, at the time that the conduct is alleged to have occurred, was a CBSA employee.
+  **(2)** Any individual or third party may make a complaint concerning the conduct, in the exercise of any power of the Agency or the performance of any of its duties or functions under the `Canada Border Services Agency Act`, of any person who, at the time that the conduct is alleged to have occurred, was a CBSA employee.
 
-  **(3)** The complaint must be made within **two years** after the day on which the conduct is alleged to have occurred or any longer period permitted under subsection (4) or (5).
+  **(3)** The complaint must be made within two years after the day on which the conduct is alleged to have occurred or any longer period permitted under subsection (4) or (5).
 
   **(4)** The Commission or the Commissioner may extend the time limit for making a complaint under subsection (1) if the Commission or the Commissioner, as the case may be, is of the opinion that there are good reasons for doing so and that it is not contrary to the public interest.
 
   **(5)** The Commission or the President may extend the time limit for making a complaint under subsection (2) if the Commission or the President, as the case may be, is of the opinion that there are good reasons for doing so and that it is not contrary to the public interest.
 
-  **(6)** If a complaint is made after the end of the **two-year** period following the day on which the conduct is alleged to have occurred and the Commissioner or President does not extend the time limit for the making of the complaint, he or she must so notify the complainant **and their legal representative, if any**, and the Commission **and provide them with the reasons for not extending the time limit**.
+  **(6)** If a complaint is made after the end of the two-year period following the day on which the conduct is alleged to have occurred and the Commissioner or President does not extend the time limit for the making of the complaint, he or she must so notify the complainant and their legal representative, if any, and the Commission and provide them with the reasons for not extending the time limit.
 
   **(6.1)** The Commission may extend the time limit for the making of a complaint, even if the Commissioner or the President did not extend it, if the Commission considers it appropriate to do so.
 
@@ -849,7 +847,7 @@ If a review conducted under subsection `28`(2) concerns the detention of persons
 
   **(8.1)** For the purposes of subsections (7) and (8), a complaint that is referred to the Commission under regulations made under subparagraph 87(o.1)(ii) is deemed to be a complaint made to the Commission.
 
-  **(9)** As soon as feasible after a person or entity referred to in subsection (7) receives a complaint, the person or entity, as the case may be, must acknowledge the complaint in writing to the complainant **and their legal representative, if any**, and provide written notice of the complaint to
+  **(9)** As soon as feasible after a person or entity referred to in subsection (7) receives a complaint, the person or entity, as the case may be, must acknowledge the complaint in writing to the complainant and their legal representative, if any, and provide written notice of the complaint to
 
     if the complaint was received by the Commission, the Commissioner and the provincial authority referred to in paragraph (7)(c);
 
@@ -859,9 +857,9 @@ If a review conducted under subsection `28`(2) concerns the detention of persons
 
   **(10)** As soon as feasible after receiving a complaint under subsection (8),
 
-    the Commission must acknowledge the complaint in writing to the complainant **and their legal representative, if any**, and provide written notice of the complaint to the President; or
+    the Commission must acknowledge the complaint in writing to the complainant and their legal representative, if any, and provide written notice of the complaint to the President; or
 
-    the Agency must acknowledge the complaint in writing to the complainant **and their legal representative, if any**, and provide written notice of the complaint to the Commission.
+    the Agency must acknowledge the complaint in writing to the complainant and their legal representative, if any, and provide written notice of the complaint to the Commission.
 
   **(11)** The Commission, the RCMP and the Agency are authorized to acknowledge a complaint or otherwise deal with a complainant in a manner that does not reveal, or from which cannot be inferred, information concerning
 
@@ -875,7 +873,7 @@ As soon as feasible after being notified of a complaint, the Commissioner or Pre
 
 ### Section 35
 
-The Commission must, on the request of an individual **or third party that** wishes to make a complaint, arrange for the provision of assistance to that individual **or organization** in making the complaint.
+The Commission must, on the request of an individual or third party that wishes to make a complaint, arrange for the provision of assistance to that individual or organization in making the complaint.
 
 ### Section 35.1
 
@@ -937,9 +935,9 @@ Complaints made under this Act shall not be subject to a non-disclosure agreemen
 
   **(2)** The Commissioner must direct the RCMP — or the President must direct the Agency — to not commence an investigation of a complaint by an RCMP employee or CBSA employee if the complaint has been or could have been adequately dealt with, or could more appropriately be dealt with, according to a procedure provided for under any Act of Parliament — other than this Act — or any Act of the legislature of a province.
 
-  **(3)** If the Commissioner directs the RCMP — or the President directs the Agency — to not commence an investigation of a complaint, the Commissioner or President must give notice in writing to the complainant **and their legal representative, if any**, and the RCMP employee or CBSA employee whose conduct is the subject matter of the complaint of the decision and the reasons for it and the complainant's right to refer the complaint to the Commission for review, within 60 days after the day on which the complainant is notified of the decision, if the complainant is not satisfied with the decision.
+  **(3)** If the Commissioner directs the RCMP — or the President directs the Agency — to not commence an investigation of a complaint, the Commissioner or President must give notice in writing to the complainant and their legal representative, if any, and the RCMP employee or CBSA employee whose conduct is the subject matter of the complaint of the decision and the reasons for it and the complainant's right to refer the complaint to the Commission for review, within 60 days after the day on which the complainant is notified of the decision, if the complainant is not satisfied with the decision.
 
-  **(4)** If the RCMP or the Agency is directed to not commence an investigation of a complaint because the complaint could more appropriately be dealt with according to a procedure provided for under any Act of Parliament — other than this Act — or any Act of the legislature of a province, the notice given to the complainant **and their legal representative, if any**, under subsection (3) must identify that procedure.
+  **(4)** If the RCMP or the Agency is directed to not commence an investigation of a complaint because the complaint could more appropriately be dealt with according to a procedure provided for under any Act of Parliament — other than this Act — or any Act of the legislature of a province, the notice given to the complainant and their legal representative, if any, under subsection (3) must identify that procedure.
 
   **(5)** The Commissioner or President must notify the Commission of any action he or she takes under this section.
 
@@ -952,7 +950,7 @@ The Commissioner and the President may each make with the Commission rules gover
 
 ### Section 40
 
-  **(1)** A complainant may withdraw a complaint made under subsection `33`(1) at any time by sending a written notice **and the reasons for the withdrawal** to the Commission or the Commissioner.
+  **(1)** A complainant may withdraw a complaint made under subsection `33`(1) at any time by sending a written notice and the reasons for the withdrawal to the Commission or the Commissioner.
 
   **(2)** As soon as feasible after the Commission or the Commissioner receives a notice that a complaint made under subsection `33`(1) has been withdrawn under subsection (1), he or she must give written notice of the withdrawal to the other.
 
@@ -964,7 +962,7 @@ The Commissioner and the President may each make with the Commission rules gover
 
 ### Section 41
 
-  **(1)** A complainant may withdraw a complaint made under subsection `33`(2) at any time by sending a written notice **and the reasons for the withdrawal** to the Commission or the President.
+  **(1)** A complainant may withdraw a complaint made under subsection `33`(2) at any time by sending a written notice and the reasons for the withdrawal to the Commission or the President.
 
   **(2)** As soon as feasible after the Commission or the President receives a notice that a complaint made under subsection `33`(2) has been withdrawn under subsection (1), he or she must give written notice of the withdrawal to the other.
 
@@ -976,7 +974,7 @@ The Commissioner and the President may each make with the Commission rules gover
 
 ### Section 42
 
-The Commission must, on the request of an individual **or a third party that** wishes to withdraw a complaint made under subsection 33(1) or (2), arrange for the provision of assistance to that individual **or organization** in withdrawing the complaint.
+The Commission must, on the request of an individual or a third party that wishes to withdraw a complaint made under subsection 33(1) or (2), arrange for the provision of assistance to that individual or organization in withdrawing the complaint.
 
 
 ### Informal Resolution
@@ -1038,19 +1036,19 @@ The Commission must, on the request of an individual **or a third party that** w
 
   **(2)** The Commissioner must direct the RCMP — or the President must direct the Agency — to not continue an investigation of a complaint by an RCMP employee or CBSA employee if the complaint has been or could have been adequately dealt with, or could more appropriately be dealt with, according to a procedure provided for under any Act of Parliament — other than this Act — or any Act of the legislature of a province.
 
-  **(3)** If the Commissioner directs the RCMP — or the President directs the Agency — to not continue an investigation of a complaint, the Commissioner or President must give notice in writing to the complainant **and their legal representative, if any**, and the RCMP employee or CBSA employee whose conduct is the subject matter of the complaint of the decision and the reasons for it and the complainant's right to refer the complaint to the Commission for review, within 60 days after the day on which the complainant is notified of the decision, if the complainant is not satisfied with the decision.
+  **(3)** If the Commissioner directs the RCMP — or the President directs the Agency — to not continue an investigation of a complaint, the Commissioner or President must give notice in writing to the complainant and their legal representative, if any, and the RCMP employee or CBSA employee whose conduct is the subject matter of the complaint of the decision and the reasons for it and the complainant's right to refer the complaint to the Commission for review, within 60 days after the day on which the complainant is notified of the decision, if the complainant is not satisfied with the decision.
 
-  **(4)** If the RCMP or Agency is directed to not continue an investigation of a complaint because the complaint could more appropriately be dealt with according to a procedure provided for under any Act of Parliament — other than this Act — or any Act of the legislature of a province, the notice given to the complainant **and their legal representative, if any**, under subsection (3) must identify that procedure.
+  **(4)** If the RCMP or Agency is directed to not continue an investigation of a complaint because the complaint could more appropriately be dealt with according to a procedure provided for under any Act of Parliament — other than this Act — or any Act of the legislature of a province, the notice given to the complainant and their legal representative, if any, under subsection (3) must identify that procedure.
 
   **(5)** The Commissioner or President must notify the Commission of any action he or she takes under this section.
 
 ### Section 48
 
-The Commissioner and the President must, on the regular basis provided for in service standards established under subsection `8`(1) or (2), as the case may be, notify in writing the complainant **and their legal representative, if any**, and the RCMP employee or CBSA employee, as the case may be, whose conduct is the subject matter of the complaint of the status of the investigation unless, in the Commissioner's or President's opinion, as the case may be, to do so might compromise or hinder any investigation that is being or may be carried out in respect of the complaint.
+The Commissioner and the President must, on the regular basis provided for in service standards established under subsection `8`(1) or (2), as the case may be, notify in writing the complainant and their legal representative, if any, and the RCMP employee or CBSA employee, as the case may be, whose conduct is the subject matter of the complaint of the status of the investigation unless, in the Commissioner's or President's opinion, as the case may be, to do so might compromise or hinder any investigation that is being or may be carried out in respect of the complaint.
 
 ### Section 49
 
-As soon as feasible after the investigation of a complaint is completed, the Commissioner or President, as the case may be, must prepare and send to the complainant **and their legal representative, if any**, the RCMP employee or CBSA employee, as the case may be, whose conduct is the subject matter of the complaint and the Commission a report setting out
+As soon as feasible after the investigation of a complaint is completed, the Commissioner or President, as the case may be, must prepare and send to the complainant and their legal representative, if any, the RCMP employee or CBSA employee, as the case may be, whose conduct is the subject matter of the complaint and the Commission a report setting out
 
 a summary of the complaint;
 
@@ -1114,7 +1112,7 @@ the complainant's right to refer the complaint to the Commission for review, wit
 
     is not the individual at whom the conduct was directed,
 
-    is neither the guardian, tutor, curator or mandatary — under a protection mandate — of the individual at whom the conduct was directed nor a person **or a third party that** is appointed to act in a similar capacity on behalf of the individual,
+    is neither the guardian, tutor, curator or mandatary — under a protection mandate — of the individual at whom the conduct was directed nor a person or a third party that is appointed to act in a similar capacity on behalf of the individual,
 
     did not see or hear the conduct or its effects as a result of not being physically present at the time when and the place where the conduct or its effects occurred,
 
@@ -1130,9 +1128,9 @@ the complainant's right to refer the complaint to the Commission for review, wit
 
   **(4)** The Commission must refuse to deal with a complaint made under subsection `33`(1) by a member, as defined in subsection 2(1) of the `Royal Canadian Mounted Police Act`, or any other person appointed or employed under Part I of that Act if the complaint has been or could have been adequately dealt with, or could more appropriately be dealt with, according to a procedure provided for under the `Royal Canadian Mounted Police Act` or any other Act of Parliament.
 
-  **(5)** The Commission **may** refuse to deal with a complaint if the complaint has been or could have been adequately dealt with, or could more appropriately be dealt with, according to a procedure provided for under any Act of Parliament — other than this Act — or any Act of the legislature of a province.
+  **(5)** The Commission may refuse to deal with a complaint if the complaint has been or could have been adequately dealt with, or could more appropriately be dealt with, according to a procedure provided for under any Act of Parliament — other than this Act — or any Act of the legislature of a province.
 
-  **(6)** The Commission must refuse to deal with a complaint if, **in its opinion**, dealing with the complaint would compromise or seriously hinder
+  **(6)** The Commission must refuse to deal with a complaint if, in its opinion, dealing with the complaint would compromise or seriously hinder
 
     the administration or enforcement of program legislation; or
 
@@ -1148,11 +1146,11 @@ the complainant's right to refer the complaint to the Commission for review, wit
 
   **(1)** The Commission may decide to discontinue an investigation of a complaint if, in its opinion,
 
-    any of the reasons for which the Commission may refuse to deal with a complaint under paragraph 52(1)(a) or (b), **or subsection 52(5)** applies; or
+    any of the reasons for which the Commission may refuse to deal with a complaint under paragraph 52(1)(a) or (b), or subsection 52(5) applies; or
 
     having regard to all the circumstances, it is not necessary or reasonably practicable to continue to investigate the complaint.
 
-  **(2)** The Commission must discontinue an investigation of a complaint if, in its opinion, any of subsections 52(2) to **(4) or** (6) applies.
+  **(2)** The Commission must discontinue an investigation of a complaint if, in its opinion, any of subsections 52(2) to (4) or (6) applies.
 
   **(3)** If the Commission discontinues an investigation of a complaint under subsection (2), the Commission must give notice in writing of the discontinuance and the reasons for it to the complainant and to the Commissioner or President, as the case may be. If the reason for the discontinuance is that the complaint could more appropriately be dealt with according to a procedure provided for under any Act of Parliament — other than this Act — or any Act of the legislature of a province, the notice given to the complainant must identify that procedure.
 
@@ -1181,7 +1179,7 @@ The Commission must, on the regular basis provided for in the service standards 
 
     the Commission must notify the Commissioner or President, as the case may be, that the complaint has been referred to the Commission; and
 
-    the Commissioner or President, as the case may be, must, within the **prescribed** time, provide the Commission with a copy of
+    the Commissioner or President, as the case may be, must, within the prescribed time, provide the Commission with a copy of
 
     the notice given under subsection `38`(3) or `47`(3) or the report sent under section `49`, and
 
@@ -1244,7 +1242,7 @@ The Commission must, on the regular basis provided for in the service standards 
 
     that it is otherwise required by the circumstances of the case.
 
-  **(7)** The parties **and the union representatives for the RCMP employee or CBSA employee, as the case may be, whose conduct is the subject matter of the complaint**, and any other person who satisfies the Commission that they have a substantial and direct interest in a complaint before the Commission, must be allowed an opportunity, in person or by legal counsel, to present evidence, cross-examine witnesses and make representations at the hearing.
+  **(7)** The parties and the union representatives for the RCMP employee or CBSA employee, as the case may be, whose conduct is the subject matter of the complaint, and any other person who satisfies the Commission that they have a substantial and direct interest in a complaint before the Commission, must be allowed an opportunity, in person or by legal counsel, to present evidence, cross-examine witnesses and make representations at the hearing.
 
   **(8)** The Commission must permit any person who gives evidence at a hearing to be represented by legal counsel.
 
@@ -1285,7 +1283,7 @@ If a complaint concerns the detention of persons on behalf of the Agency under a
 
   **(1)** On completion of an investigation or a hearing, the Commission must prepare and send to the Commissioner or President, as the case may be, a report in writing setting out any findings and recommendations with respect to the complaint that it sees fit.
 
-  **(2)** The Commissioner or President, as the case may be, must, within six months after the day on which he or she receives the report, provide the Chairperson **and the Minister** with a written response indicating any further action that has been or will be taken with respect to the complaint. If the Commissioner or President decides not to act on any findings or recommendations set out in the report, the Commissioner or President must include in the response the reasons for not so acting.
+  **(2)** The Commissioner or President, as the case may be, must, within six months after the day on which he or she receives the report, provide the Chairperson and the Minister with a written response indicating any further action that has been or will be taken with respect to the complaint. If the Commissioner or President decides not to act on any findings or recommendations set out in the report, the Commissioner or President must include in the response the reasons for not so acting.
 
   **(3)** After considering the response, the Commission must prepare a final report in writing setting out any findings and recommendations with respect to the complaint that it sees fit and must send a copy of the report and a copy of the response to the Minister, the Commissioner or President, as the case may be, the complainant and the RCMP employee or CBSA employee, as the case may be, whose conduct is the subject matter of the complaint. If there is an arrangement between the government of a province and the Minister under section 20 of the `Royal Canadian Mounted Police Act`, the Commission must also send a copy of the report to the provincial minister who has the primary responsibility for policing in the province in which the conduct complained of occurred.
 
@@ -1651,7 +1649,7 @@ Sections 45.171 to 45.173 of the Act are replaced by the following:
 
 ### Section 45.171
 
-If an individual **or third party** makes a complaint under subsection 33(1) of the `Public Complaints and Review Commission Act` in respect of any conduct by a member that is also an alleged contravention of a provision of the Code of Conduct, the individual **or third party, as the case may be**, and the Commission are to be notified, as soon as feasible after a final decision is made under this Part in respect of the alleged contravention or the time for appealing any decision under this Part has expired, of the decision and what conduct measures, if any, have been imposed against the member.
+If an individual or third party makes a complaint under subsection 33(1) of the `Public Complaints and Review Commission Act` in respect of any conduct by a member that is also an alleged contravention of a provision of the Code of Conduct, the individual or third party, as the case may be, and the Commission are to be notified, as soon as feasible after a final decision is made under this Part in respect of the alleged contravention or the time for appealing any decision under this Part has expired, of the decision and what conduct measures, if any, have been imposed against the member.
 
 ### Section 45.172
 
@@ -2055,13 +2053,13 @@ to the Public Complaints and Review Commission, information that is obtained fro
 
 Subparagraph 8(1)(d)(ii) of the Act is replaced by the following:
 
-any complaint referred to the Agency under subsection 52(8) or 53(4) of the `Public Complaints and Review Commission Act` **or under regulations made under subparagraph 87(o.1)(ii) of that Act**,
+any complaint referred to the Agency under subsection 52(8) or 53(4) of the `Public Complaints and Review Commission Act` or under regulations made under subparagraph 87(o.1)(ii) of that Act,
 
 ### Section 138
 
 Paragraph 10(d) of the Act is replaced by the following:
 
-in relation to a complaint referred to it under subsection 52(8) or 53(4) of the `Public Complaints and Review Commission Act` **or under regulations made under subparagraph 87(o.1)(ii) of that Act**, any information that relates to the complaint and that is in the possession or under the control of the Public Complaints and Review Commission, the Royal Canadian Mounted Police, the Canadian Security Intelligence Service, the Communications Security Establishment or the Canada Border Services Agency.
+in relation to a complaint referred to it under subsection 52(8) or 53(4) of the `Public Complaints and Review Commission Act` or under regulations made under subparagraph 87(o.1)(ii) of that Act, any information that relates to the complaint and that is in the possession or under the control of the Public Complaints and Review Commission, the Royal Canadian Mounted Police, the Canadian Security Intelligence Service, the Communications Security Establishment or the Canada Border Services Agency.
 
 ### Section 139
 
@@ -2087,13 +2085,13 @@ Section 19 of the Act is replaced by the following:
 
 ### Section 19
 
-The Review Agency must receive and investigate a complaint referred to it under subsection 52(8) or 53(4) of the `Public Complaints and Review Commission Act` **or under regulations made under subparagraph 87(o.1)(ii) of that Act** if it is satisfied that the complaint is not trivial, frivolous or vexatious or made in bad faith.
+The Review Agency must receive and investigate a complaint referred to it under subsection 52(8) or 53(4) of the `Public Complaints and Review Commission Act` or under regulations made under subparagraph 87(o.1)(ii) of that Act if it is satisfied that the complaint is not trivial, frivolous or vexatious or made in bad faith.
 
 ### Section 142
 
 Paragraph 29(1)(c) of the Act is replaced by the following:
 
-on completion of an investigation in relation to a complaint referred to it under subsection 52(8) or 53(4) of the `Public Complaints and Review Commission Act` **or under regulations made under subparagraph 87(o.1)(ii) of that Act**, provide the appropriate Minister and the Commissioner of the Royal Canadian Mounted Police or the President of the Canada Border Services Agency, as the case may be, with a report containing the findings of the investigation and any recommendations that the Review Agency considers appropriate.
+on completion of an investigation in relation to a complaint referred to it under subsection 52(8) or 53(4) of the `Public Complaints and Review Commission Act` or under regulations made under subparagraph 87(o.1)(ii) of that Act, provide the appropriate Minister and the Commissioner of the Royal Canadian Mounted Police or the President of the Canada Border Services Agency, as the case may be, with a report containing the findings of the investigation and any recommendations that the Review Agency considers appropriate.
 
 
 #### `Avoiding Complicity in Mistreatment by Foreign Entities Act`
