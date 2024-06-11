@@ -1,7 +1,5 @@
 # Bill S-273: An Act to declare the Chignecto Isthmus Dykeland System and related works to be for the general advantage of Canada
 
-**Sponsor**: Senator QUINN
-
 ## Summary
 
 This enactment declares the Chignecto Isthmus Dykeland System and related works to be works for the general advantage of Canada.
@@ -11,6 +9,8 @@ Whereas the Chignecto Isthmus, located in Nova Scotia and New Brunswick, is an i
 Whereas the Intercolonial Railway constructed along the Chignecto Isthmus, in accordance with section 145 of the `Constitution Act, 1867`, physically united the Canadian federation by linking the province of Nova Scotia with the provinces of Ontario and Quebec;
 
 Whereas Parliament passed, in 1948, the `Maritime Marshland Rehabilitation Act`, which provided for the Government of Canada to construct and reconstruct dykes, aboiteaux and breakwaters;
+
+Whereas the Chignecto Isthmus is of critical cultural and historical significance to the Mi'kmaq and Acadian peoples;
 
 Whereas the Chignecto Isthmus is currently vulnerable to the effects of rising sea levels and increasingly intense severe weather events that threaten this interprovincial surface and rail trade corridor of national importance;
 
@@ -42,9 +42,28 @@ a dyke system intended for water management wholly situated in the New Brunswick
 
 **dyke** means a dyke, aboiteau or breakwater associated with the Chignecto Isthmus Dykeland System. (**digue**)
 
-**Minister** means the Minister of Housing, Infrastructure and Communities. (**ministre**)
+**Indigenous governing body** means a
+council, government or other entity that is
+authorized to act on behalf of an
+Indigenous group, community or people
+that holds rights recognized and affirmed
+by section 35 of the `Constitution Act, 1982`. (**corps dirigeant autochtone**)
 
-**person** means an individual, corporation, partnership or joint venture. (**personne**)
+**Indigenous organization** means an
+Indigenous governing body or any other
+entity that represents the interests of an
+Indigenous group and its members. (**organisation autochtone**)
+
+**Indigenous peoples** has the meaning
+assigned by the definition aboriginal
+peoples of Canada in subsection 35(2) of
+the `Constitution Act, 1982`. (**peuples autochtones**)
+
+**Minister** means the Minister of Infrastructure and Communities. (**ministre**)
+
+**person** means an individual, corporation, partnership, joint venture, Indigenous
+governing body or Indigenous
+organization. (**personne**)
 
 **related work** means any of the following:
 
@@ -54,21 +73,30 @@ a steel sheet pile wall; and
 
 any work that is useful for the maintenance or operation of a dyke or water level control structure. (**ouvrage connexe**)
 
+### Section 3
+
+For greater certainty, this Act is to be
+construed as upholding the Aboriginal and
+treaty rights of Indigenous peoples
+recognized and affirmed by section 35 of the
+`Constitution Act, 1982`, and not as abrogating
+or derogating from them.
+
 
 ## Application
 
-### Section 3
+### Section 4
 
 Except as otherwise provided in this Act, the Minister is responsible for the administration of this Act, and the Minister's powers, duties and functions include all matters relating to the Chignecto Isthmus Dykeland System and related works.
 
-### Section 4
+### Section 5
 
 The Chignecto Isthmus Dykeland System and related works are declared to be works for the general advantage of Canada.
 
 
 ## Agreements
 
-### Section 5
+### Section 6
 
   **(1)** The Minister of Public Works and Government Services may enter into an agreement with any person for any purpose relating to the design, construction or operation of the Chignecto Isthmus Dykeland System or any related work.
 
@@ -76,16 +104,19 @@ The Chignecto Isthmus Dykeland System and related works are declared to be works
 
   **(3)** A person who enters into an agreement with the Minister of Public Works and Government Services under this section is not an agent of His Majesty in right of Canada.
 
-### Section 6
+### Section 7
 
 The Minister may enter into any agreement that relates to the Chignecto Isthmus Dykeland System or related works, or any agreement that is necessary for the implementation of an agreement entered into under section 5, with any person or with the Government of Nova Scotia or the Government of New Brunswick or any municipality or agency of either province.
 
 
 ## Order in Council
 
-### Section 7
+### Section 8
 
-  **(1)** The Governor in Council may, by order, exempt any person, on any condition that the Governor in Council considers to be in the public interest, from any requirement under any federal Act to obtain a permit, licence, approval or other authorization in relation to the construction of the Chignecto Isthmus Dykeland System or any related work.
+  **(1)** In response to an emergency, the Governor in Council may, by order, exempt any person, on any condition that the Governor in Council considers to be in the interest of
+preventing damage to the environment or
+in the interest of public health or safety,
+from any requirement under any federal Act to obtain a permit, licence, approval or other authorization in relation to the construction of the Chignecto Isthmus Dykeland System or any related work.
 
 ### Section (2)
 
@@ -96,9 +127,16 @@ The `Statutory Instruments Act` does not apply to an order made under subsection
 After completion of the construction of the Chignecto Isthmus Dykeland System or of a related work, as the case may be, any authorization that would have been required in relation to its construction, if not for an exemption granted under subsection (1), is deemed to have been issued for the purpose of the application of the federal Act for which the exemption was granted.
 
 
-## Regulations
+## Coordinating Amendment
 
-### Section 8
+### Section 9
 
-The Minister may make regulations designating the contravention of any provision of this Act as an offence punishable on summary conviction and fixing the maximum fine payable for each offence.
+If Bill S-13, introduced in the 1st session
+of the 44th Parliament and entitled *An Act
+to amend the Interpretation Act and to
+make related amendments to other Acts*,
+receives royal assent, then on the first day
+on which both this Act and section 1 of
+that Act are in force, section 3 of this Act
+is repealed.
 
