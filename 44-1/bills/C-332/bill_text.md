@@ -1,4 +1,4 @@
-# Bill C-332: An Act to amend the Criminal Code (coercive 
+# Bill C-332: An Act to amend the Criminal Code (coercive control of intimate partner)
 
 ## Summary
 
@@ -23,7 +23,7 @@ The Act is amended by adding the following after section 264:
 
 ### Section 264.01
 
-  **(1)** Everyone commits an offence who engages in a **pattern of conduct referred to in subsection (2)**
+  **(1)** Everyone commits an offence who engages in a pattern of conduct referred to in subsection (2)
 
     with intent to cause their intimate partner to believe that the intimate partner's safety is threatened; or
 
