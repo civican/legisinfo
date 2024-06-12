@@ -4,7 +4,7 @@
 
 This enactment provides for the development of a national strategy to support and improve brain injury awareness, prevention and treatment as well as the rehabilitation and recovery of persons living with a brain injury.
 
-Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+His Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
 
 ## Short Title
@@ -24,7 +24,7 @@ This Act may be cited as the `National Strategy on Brain Injuries Act`.
 
     promote the implementation of preventive measures to reduce the risk of brain injuries;
 
-    identify the training, education and guidance needs of health care and other professionals related to brain injury prevention and treatment and the rehabilitation and recovery of persons living with a brain injury;
+    **assist in identifying** the training, education and guidance needs of health care and other professionals related to brain injury prevention and treatment and the rehabilitation and recovery of persons living with a brain injury;
 
     promote research and improve data collection on the incidence and treatment of brain injuries and on the rehabilitation and recovery of persons living with a brain injury;
 
@@ -40,7 +40,7 @@ This Act may be cited as the `National Strategy on Brain Injuries Act`.
 
     identify challenges resulting from brain injury, such as mental health problems, addiction, housing and homelessness issues and criminality, including intimate partner violence, and work to develop solutions in collaboration with stakeholders;
 
-    maintain, in collaboration with Brain Injury Canada, a national information website providing current facts, research and best practices related to the diagnosis and management of brain injuries, as well as other relevant resources; and
+    **develop, publish and maintain online** resources providing current facts, research and best practices related to brain injuries; and
 
     establish a task force to include policy makers, stakeholders, community agencies, brain injury associations and Indigenous groups, as well as persons who have experienced a brain injury and their families, to make recommendations in relation to the national strategy.
 
@@ -49,7 +49,7 @@ This Act may be cited as the `National Strategy on Brain Injuries Act`.
 
 ### Section 3
 
-  **(1)** Within one year after the day on which this Act comes into force, the Minister of Health must prepare a report setting out the strategy and cause the report to be tabled before each House of Parliament on any of the first 15 days on which that House is sitting after the report is completed.
+  **(1)** Within **18 months** after the day on which this Act comes into force, the Minister of Health must prepare a report setting out the strategy and cause the report to be tabled before each House of Parliament on any of the first 15 days on which that House is sitting after the report is completed.
 
   **(2)** The Minister must publish the report on the website of the Department of Health within 10 days after the day on which the report is tabled in both Houses of Parliament.
 
