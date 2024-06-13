@@ -1,7 +1,5 @@
 # Bill C-70: An Act respecting countering foreign interference
 
-**Sponsor**: MINISTER OF PUBLIC SAFETY, DEMOCRATIC INSTITUTIONS AND INTERGOVERNMENTAL AFFAIRS
-
 Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act respecting countering foreign interference*".
 
 ## Summary
@@ -230,6 +228,17 @@ Consultation
 
 Review of Act
 
+Response
+
+
+## Transitional Provisions
+
+Existing arrangements — federal processes
+
+Existing arrangements — provincial, territorial or municipal processes
+
+Existing arrangements — Indigenous processes
+
 
 ###### 
 
@@ -256,7 +265,7 @@ This Act may be cited as the `Countering Foreign Interference Act`.
 The heading before section 2 of the French version of the `Canadian Security Intelligence Service Act` is replaced by the following:
 
 
-## Définitions **et interprétation**
+## Définitions et interprétation
 
 ### Section 3
 
@@ -274,7 +283,7 @@ If this Act requires that a form be used, the form may incorporate any variation
 
   **(1)** Subsection 7(2) of the Act is replaced by the following:
 
-    **(2)** The Director or any employee who is designated by the Minister for the purpose of applying for a warrant under section 21, 21.1, **22.21** or 23 shall consult the Deputy Minister before applying for the warrant or, **if applicable**, the renewal of the warrant.
+    **(2)** The Director or any employee who is designated by the Minister for the purpose of applying for a warrant under section 21, 21.1, 22.21 or 23 shall consult the Deputy Minister before applying for the warrant or, if applicable, the renewal of the warrant.
 
   **(2)** Section 7 of the Act is amended by adding the following after subsection (2.1):
 
@@ -286,14 +295,14 @@ Section 10 of the Act is replaced by the following:
 
 ### Section 10
 
-The Director and every employee shall, before commencing the duties of office, take an oath of allegiance and the oaths set out in **Schedule 1**.
+The Director and every employee shall, before commencing the duties of office, take an oath of allegiance and the oaths set out in Schedule 1.
 
 ### Section 7
 
 The Act is amended by adding the following before section 11.01:
 
 
-#### **Datasets**
+#### Datasets
 
 ### Section 8
 
@@ -327,7 +336,7 @@ Subsections 11.03(1) and (2) of the Act are replaced by the following:
 
   **(1)** The Minister shall, by order, determine classes of Canadian datasets for which collection is authorized.
 
-  **(2)** The Minister may determine that a class of Canadian datasets is authorized to be collected if the Minister concludes that the querying or exploitation of **datasets** in the class could lead to results that are relevant to the performance of the Service's duties and functions under **section** 12, 12.1, **15 or** 16.
+  **(2)** The Minister may determine that a class of Canadian datasets is authorized to be collected if the Minister concludes that the querying or exploitation of datasets in the class could lead to results that are relevant to the performance of the Service's duties and functions under section 12, 12.1, 15 or 16.
 
   **(2.1)** An order under subsection (1) is valid for a period of not more than two years.
 
@@ -381,13 +390,13 @@ If a dataset is deemed to have been collected on more than one day under section
 
 ### Section 11.07
 
-      **(1)** If the Service collects a dataset under **section** 11.05, a designated employee shall, as soon as feasible but no later than the **180th** day after the day on which the dataset was collected, evaluate the dataset and confirm if it
+      **(1)** If the Service collects a dataset under section 11.05, a designated employee shall, as soon as feasible but no later than the 180th day after the day on which the dataset was collected, evaluate the dataset and confirm if it
 
   **(2)** Subsection 11.07(2) of the Act is replaced by the following:
 
     **(1.1)** If a dataset that is confirmed to be a foreign dataset includes information that relates to individuals within Canada or Canadians and the Service decides to treat it as a Canadian dataset, that dataset is deemed to be a Canadian dataset.
 
-    **(2)** In the case of a **Canadian** dataset, a designated employee shall evaluate the dataset and confirm whether it **belonged** to an approved class **on the day on which it was collected** and, if it **did** not, **the designated employee** shall take the measures set out in section 11.08.
+    **(2)** In the case of a Canadian dataset, a designated employee shall evaluate the dataset and confirm whether it belonged to an approved class on the day on which it was collected and, if it did not, the designated employee shall take the measures set out in section 11.08.
 
   **(3)** Section 11.07 of the Act is amended by adding the following after subsection (3):
 
@@ -403,11 +412,11 @@ If a dataset is deemed to have been collected on more than one day under section
 
 ### Section 11.08
 
-      **(1)** If a designated employee confirms that the dataset **did** not belong to **an** approved class **on the day on which it was collected**, the Service shall, without delay,
+      **(1)** If a designated employee confirms that the dataset did not belong to an approved class on the day on which it was collected, the Service shall, without delay,
 
   **(2)** Subsection 11.08(2) of the Act is replaced by the following:
 
-    **(2)** **If** the Service makes a request to the Minister under paragraph (1)(b), the **180**-day period referred to in subsection 11.07(1) is suspended for the period that begins on the day on which a designated employee confirms that the dataset **did** not belong to **an** approved class **on the day on which it was collected** and ends on the day on which the Commissioner approves, under the `Intelligence Commissioner Act`, the determination of the Minister in respect of a new class to which the dataset belongs.
+    **(2)** If the Service makes a request to the Minister under paragraph (1)(b), the 180-day period referred to in subsection 11.07(1) is suspended for the period that begins on the day on which a designated employee confirms that the dataset did not belong to an approved class on the day on which it was collected and ends on the day on which the Commissioner approves, under the `Intelligence Commissioner Act`, the determination of the Minister in respect of a new class to which the dataset belongs.
 
 ### Section 15
 
@@ -415,13 +424,13 @@ If a dataset is deemed to have been collected on more than one day under section
 
 ### Section 11.09
 
-      **(1)** If a designated employee confirms that a dataset is a Canadian dataset **or if a dataset is deemed to be a Canadian dataset under subsection 11.07(1.1)**, the Service shall make an application for judicial authorization under section 11.13 as soon as feasible but no later than the **180th** day referred to in subsection 11.07(1).
+      **(1)** If a designated employee confirms that a dataset is a Canadian dataset or if a dataset is deemed to be a Canadian dataset under subsection 11.07(1.1), the Service shall make an application for judicial authorization under section 11.13 as soon as feasible but no later than the 180th day referred to in subsection 11.07(1).
 
-      **(2)** If the designated employee confirms that **a** dataset is a foreign dataset, the Service shall ensure that the dataset is brought to the attention of the Minister or the designated person, as soon as feasible but no later than the **180th** day referred to in subsection 11.07(1), so as to enable the Minister or designated person to make a determination to authorize its retention under section 11.17.
+      **(2)** If the designated employee confirms that a dataset is a foreign dataset, the Service shall ensure that the dataset is brought to the attention of the Minister or the designated person, as soon as feasible but no later than the 180th day referred to in subsection 11.07(1), so as to enable the Minister or designated person to make a determination to authorize its retention under section 11.17.
 
   **(2)** Subsection 11.09(3) of the French version of the Act is replaced by the following:
 
-    **(3)** À l'expiration du délai de **cent quatre-vingts** jours, si le Service n'a pas agi conformément aux paragraphes (1) ou (2), il est tenu de détruire l'ensemble de données recueilli.
+    **(3)** À l'expiration du délai de cent quatre-vingts jours, si le Service n'a pas agi conformément aux paragraphes (1) ou (2), il est tenu de détruire l'ensemble de données recueilli.
 
 ### Section 16
 
@@ -429,19 +438,19 @@ If a dataset is deemed to have been collected on more than one day under section
 
 ### Section 11.1
 
-      **(1)** The Service shall **take reasonable measures to ensure that**
+      **(1)** The Service shall take reasonable measures to ensure that
 
-        any information in respect of which there is a reasonable expectation of privacy that relates to the physical or mental health of an individual **is deleted from** a Canadian dataset or a foreign dataset;
+        any information in respect of which there is a reasonable expectation of privacy that relates to the physical or mental health of an individual is deleted from a Canadian dataset or a foreign dataset;
 
-        any information that is subject to solicitor-client privilege or the professional secrecy of advocates and notaries **is deleted from** a Canadian dataset; and
+        any information that is subject to solicitor-client privilege or the professional secrecy of advocates and notaries is deleted from a Canadian dataset; and
 
-        any information that by its nature or attributes relates to a Canadian or a person in Canada **is removed from** a foreign dataset.
+        any information that by its nature or attributes relates to a Canadian or a person in Canada is removed from a foreign dataset.
 
   **(2)** Subsection 11.1(3) of the Act is replaced by the following:
 
     **(2.1)** Subsection (2) does not apply to information that is being retained under subsection 11.21(1).
 
-    **(3)** **A** dataset collected under paragraph (2)(b) **is** deemed to have been collected under **section 11.05** on the day on which the **information that constitutes** the **dataset** was removed **from the foreign dataset**.
+    **(3)** A dataset collected under paragraph (2)(b) is deemed to have been collected under section 11.05 on the day on which the information that constitutes the dataset was removed from the foreign dataset.
 
 ### Section 17
 
@@ -453,13 +462,13 @@ Section 11.11 of the Act is amended by adding the following after subsection (2)
 
 Paragraph 11.12(2)(a) of the Act is replaced by the following:
 
-the approved class to which the Canadian dataset belongs **or to which it belonged on the day on which it was collected**; and
+the approved class to which the Canadian dataset belongs or to which it belonged on the day on which it was collected; and
 
 ### Section 19
 
   **(1)** Paragraph 11.13(1)(a) of the Act is replaced by the following:
 
-    the retention of the dataset that is the subject of the application is likely to assist the Service in the performance of its duties and functions under **section** 12, 12.1, **15 or** 16; and
+    the retention of the dataset that is the subject of the application is likely to assist the Service in the performance of its duties and functions under section 12, 12.1, 15 or 16; and
 
   **(2)** Subsection 11.13(2) of the Act is amended by adding the following after paragraph (b):
 
@@ -473,25 +482,25 @@ Subsection 11.14(2) of the Act is replaced by the following:
 
 **(1.2)** Section 19 does not apply to the disclosure of the dataset.
 
-**(2)** **The** judicial authorization **is** valid for a period of not more than **five** years.
+**(2)** The judicial authorization is valid for a period of not more than five years.
 
 ### Section 21
 
 Subsections 11.15(3) to (5) of the Act are replaced by the following:
 
-**(3)** If the Service **does** not **request the Minister's approval** under section 11.12 **to make** a new application for a judicial authorization to retain a Canadian dataset before the period of the judicial authorization given in respect of that dataset expires, the Service shall destroy the dataset within 30 days after the expiry of that period.
+**(3)** If the Service does not request the Minister's approval under section 11.12 to make a new application for a judicial authorization to retain a Canadian dataset before the period of the judicial authorization given in respect of that dataset expires, the Service shall destroy the dataset within 30 days after the expiry of that period.
 
 **(3.1)** If the Service requests but does not obtain the Minister's approval under section 11.12 to make a new application for a judicial authorization for a Canadian dataset in respect of which the period of the judicial authorization has not expired, the Service shall destroy the dataset within 30 days after the later of the day on which the request was rejected by the Minister and the day on which the period of the judicial authorization expires.
 
-**(4)** If the Service requests **and obtains the Minister's approval** under section 11.12 **to make** a new application for a judicial authorization for a Canadian dataset in respect of which the period of the judicial authorization has not expired, the Service may, subject to subsection (5), retain **the dataset** until a decision is made in respect of the new application.
+**(4)** If the Service requests and obtains the Minister's approval under section 11.12 to make a new application for a judicial authorization for a Canadian dataset in respect of which the period of the judicial authorization has not expired, the Service may, subject to subsection (5), retain the dataset until a decision is made in respect of the new application.
 
-**(5)** If the period of a judicial authorization expires, in the circumstances under subsection **(3.1) or** (4), the Service shall neither query nor exploit the dataset until and unless a new authorization has been issued for the dataset.
+**(5)** If the period of a judicial authorization expires, in the circumstances under subsection (3.1) or (4), the Service shall neither query nor exploit the dataset until and unless a new authorization has been issued for the dataset.
 
 ### Section 22
 
   **(1)** Paragraph 11.17(1)(b) of the Act is replaced by the following:
 
-    that the retention of the dataset is likely to assist the Service in the performance of its duties and functions under **section** 12, 12.1, 15 **or** 16; and
+    that the retention of the dataset is likely to assist the Service in the performance of its duties and functions under section 12, 12.1, 15 or 16; and
 
   **(2)** Subsection 11.17(3) of the Act is replaced by the following:
 
@@ -499,21 +508,21 @@ Subsections 11.15(3) to (5) of the Act are replaced by the following:
 
     **(2.2)** Section 19 does not apply to the disclosure of the dataset.
 
-    **(3)** **The** authorization **is** valid for a period of not more than **10** years from the date on which the Commissioner approves it under the `Intelligence Commissioner Act`.
+    **(3)** The authorization is valid for a period of not more than 10 years from the date on which the Commissioner approves it under the `Intelligence Commissioner Act`.
 
 ### Section 23
 
 Subsections 11.2(2) and (3) of the Act are replaced by the following:
 
-**(2)** A designated employee may, to the extent that it is strictly necessary, query or exploit a Canadian dataset that is subject to a judicial authorization issued under section 11.13 to assist the Service in the performance of its duties and functions under **section** 12, 12.1 **or 15**.
+**(2)** A designated employee may, to the extent that it is strictly necessary, query or exploit a Canadian dataset that is subject to a judicial authorization issued under section 11.13 to assist the Service in the performance of its duties and functions under section 12, 12.1 or 15.
 
-**(3)** A designated employee may, to the extent that it is strictly necessary, query or exploit a foreign dataset that is the subject of an authorization under section 11.17 that has been approved by the Commissioner under the `Intelligence Commissioner Act`, to assist the Service in the performance of its duties and functions under **section** 12, 12.1 **or 15**.
+**(3)** A designated employee may, to the extent that it is strictly necessary, query or exploit a foreign dataset that is the subject of an authorization under section 11.17 that has been approved by the Commissioner under the `Intelligence Commissioner Act`, to assist the Service in the performance of its duties and functions under section 12, 12.1 or 15.
 
 ### Section 24
 
 Paragraph 11.21(1)(b) of the Act is replaced by the following:
 
-the retention is strictly necessary to assist the Service in the performance of its duties and functions under **section** 12.1 **or** 15; or
+the retention is strictly necessary to assist the Service in the performance of its duties and functions under section 12.1 or 15; or
 
 ### Section 25
 
@@ -521,58 +530,58 @@ the retention is strictly necessary to assist the Service in the performance of 
 
 ### Section 11.22
 
-      **(1)** The Director may authorize a designated employee to query **or exploit** a Canadian dataset that is not the subject of a valid judicial authorization issued under section 11.13 or a foreign dataset that is not the subject of a valid authorization under section 11.17 that has been approved by the Commissioner under the `Intelligence Commissioner Act`, if the Director concludes
+      **(1)** The Director may authorize a designated employee to query or exploit a Canadian dataset that is not the subject of a valid judicial authorization issued under section 11.13 or a foreign dataset that is not the subject of a valid authorization under section 11.17 that has been approved by the Commissioner under the `Intelligence Commissioner Act`, if the Director concludes
 
-        that the dataset was collected by the Service under **section 11.05**; and
+        that the dataset was collected by the Service under section 11.05; and
 
-        that there are exigent circumstances that require a query **or exploitation** of the dataset
+        that there are exigent circumstances that require a query or exploitation of the dataset
 
-        to **acquire intelligence for the purpose of preserving** the life or safety of any individual, or
+        to acquire intelligence for the purpose of preserving the life or safety of any individual, or
 
   **(2)** Paragraphs 11.22(2)(b) and (c) of the Act are replaced by the following:
 
-    a description of the dataset to be queried **or exploited**; and
+    a description of the dataset to be queried or exploited; and
 
-    the grounds on which the Director concludes that the query **or exploitation** is likely to produce the intelligence referred to in subparagraph (1)(b)(i) or (ii).
+    the grounds on which the Director concludes that the query or exploitation is likely to produce the intelligence referred to in subparagraph (1)(b)(i) or (ii).
 
   **(3)** The portion of subsection 11.22(2.1) of the Act before paragraph (a) is replaced by the following:
 
-    **(2.1)** The Service may retain the results of a query **or exploitation** performed under subsection (1) if
+    **(2.1)** The Service may retain the results of a query or exploitation performed under subsection (1) if
 
 ### Section 26
 
 Paragraphs 11.24(3)(b) and (c) of the Act are replaced by the following:
 
-limit access to those datasets to designated employees and take reasonable measures to ensure that any information that they obtained, or to which they had access, is only communicated for the purpose of performing **the Service's** duties **and** functions under this Act;
+limit access to those datasets to designated employees and take reasonable measures to ensure that any information that they obtained, or to which they had access, is only communicated for the purpose of performing the Service's duties and functions under this Act;
 
-establish record keeping requirements for those datasets with respect to the rationale for their collection and retention, the details of each query and exploitation, the results of those queries and exploitations, and if the results were retained for the purpose of performing **the Service's** duties **and** functions under section 12, 12.1, 15 or 16; and
+establish record keeping requirements for those datasets with respect to the rationale for their collection and retention, the details of each query and exploitation, the results of those queries and exploitations, and if the results were retained for the purpose of performing the Service's duties and functions under section 12, 12.1, 15 or 16; and
 
 ### Section 27
 
 Paragraph 11.25(c) of the Act is replaced by the following:
 
-in the case of a query **or exploitation** performed on the basis of exigent circumstances under section 11.22, give the Review Agency a copy of the Director's authorization under that section and indicate the results of the query **or exploitation** and any actions taken after obtaining those results.
+in the case of a query or exploitation performed on the basis of exigent circumstances under section 11.22, give the Review Agency a copy of the Director's authorization under that section and indicate the results of the query or exploitation and any actions taken after obtaining those results.
 
 ### Section 28
 
 The Act is amended by adding the following after section 11.25:
 
 
-#### **Threats to the Security of Canada**
+#### Threats to the Security of Canada
 
 ### Section 29
 
 The Act is amended by adding the following after section 12.2:
 
 
-#### **Security Assessments and Advice**
+#### Security Assessments and Advice
 
 ### Section 30
 
 The Act is amended by adding the following after section 15:
 
 
-#### **Assistance and Cooperation**
+#### Assistance and Cooperation
 
 ### Section 31
 
@@ -585,24 +594,24 @@ Section 16 of the Act is amended by adding the following after subsection (1):
 The Act is amended by adding the following after section 17:
 
 
-#### **Identity of Employees and Human Sources**
+#### Identity of Employees and Human Sources
 
 ### Section 33
 
 The Act is amended by adding the following after section 18.2:
 
 
-#### **Disclosure of Information**
+#### Disclosure of Information
 
 ### Section 34
 
   **(1)** Paragraph 19(2)(a) of the Act is replaced by the following:
 
-    where the information may be used in the investigation or prosecution of an alleged contravention of any law of Canada or a province, to **any person** having jurisdiction to investigate the alleged contravention and to the Attorney General of Canada and the Attorney General of the province in which proceedings in respect of the alleged contravention may be taken;
+    where the information may be used in the investigation or prosecution of an alleged contravention of any law of Canada or a province, to any person having jurisdiction to investigate the alleged contravention and to the Attorney General of Canada and the Attorney General of the province in which proceedings in respect of the alleged contravention may be taken;
 
   **(2)** Paragraph 19(2)(d) of the Act is replaced by the following:
 
-    where, in the opinion of the Minister, disclosure of the information to any **person or entity** is essential in the public interest and that interest clearly outweighs any invasion of privacy that could result from the disclosure, to that person or **entity**.
+    where, in the opinion of the Minister, disclosure of the information to any person or entity is essential in the public interest and that interest clearly outweighs any invasion of privacy that could result from the disclosure, to that person or entity.
 
   **(3)** Section 19 of the Act is amended by adding the following after subsection (2):
 
@@ -610,22 +619,22 @@ The Act is amended by adding the following after section 18.2:
 
       the information has already been provided to a federal department or agency that performs duties and functions to which the information is relevant;
 
-      the information does not contain any personal information, as defined in section 3 of the `Privacy Act`, of a Canadian citizen, a permanent resident within the meaning of subsection 2(1) of the `Immigration and Refugee Protection Act` or any individual in Canada;
+      the information does not contain any personal information, as defined in section 3 of the `Privacy Act`, of a Canadian citizen, a permanent resident within the meaning of subsection 2(1) of the `Immigration and Refugee Protection Act` or any individual in Canada, other than personal information of the individual to whom the information is disclosed;
 
-      the information does not contain the name of a corporation incorporated or continued under the laws of Canada or a province or the name of a Canadian entity.
+      the information does not contain the name of a corporation incorporated or continued under the laws of Canada or a province or the name of a Canadian entity, other than the name of the corporation or entity to which the information is disclosed.
 
 ### Section 35
 
 The Act is amended by adding the following after section 19:
 
 
-#### **Protection of Employees and Justification**
+#### Protection of Employees and Justification
 
 ### Section 36
 
 Paragraph 20.1(8)(b) of the Act is replaced by the following:
 
-the employee would be justified in committing **or directing another person to commit** an act or omission that would otherwise constitute an offence.
+the employee would be justified in committing or directing another person to commit an act or omission that would otherwise constitute an offence.
 
 ### Section 37
 
@@ -695,7 +704,7 @@ No criminal or civil proceedings lie against a person who voluntarily preserves 
 
   **(2)** A person or entity that is subject to a production order made under section 20.4 with respect to any information, record or document that they preserved under a preservation order made under section 20.3 shall destroy the information, record or document that would not be retained in the ordinary course of business and any document that is prepared for the purpose of preserving the information, record or document under that section as soon as feasible after the earlier of
 
-    the day on which the production order is revoked, and
+    the day on which the production order is revoked; and
 
     the day on which the information, record or document, or document prepared for the purpose of preserving the information, record or document, is produced under the production order.
 
@@ -709,7 +718,7 @@ No criminal or civil proceedings lie against a person who voluntarily preserves 
 
   **(3)** Paragraph 21(2)(h) of the Act is replaced by the following:
 
-    any previous application made under subsection (1) **or 22.21(1)** in relation to a person who is identified in the affidavit in accordance with paragraph (d), the date on which each such application was made, the name of the judge to whom it was made and the judge's decision on it.
+    any previous application made under subsection (1) or 22.21(1) in relation to a person who is identified in the affidavit in accordance with paragraph (d), the date on which each such application was made, the name of the judge to whom it was made and the judge's decision on it.
 
   **(4)** Subsection 21(3.01) of the Act is repealed.
 
@@ -783,7 +792,7 @@ Subsection 22.3(1) of the Act is replaced by the following:
 
 ### Section 22.3
 
-  **(1)** A judge may order any person to provide assistance if the person's assistance may reasonably be considered to be required to give effect to a warrant issued under section 21, 21.1, **22.21** or **23**.
+  **(1)** A judge may order any person to provide assistance if the person's assistance may reasonably be considered to be required to give effect to a warrant issued under section 21, 21.1, 22.21 or 23.
 
 ### Section 41
 
@@ -791,7 +800,7 @@ Section 23 of the Act is replaced by the following:
 
 ### Section 23
 
-  **(1)** If the Director or any employee who is designated by the Minister for the purpose **believes, on reasonable grounds**, that a warrant **under this section** is **required** to **enable** the **Service** to remove any thing from any place **where it was** installed in the **performance of** the **Service's duties and functions under section 12 or 16** or in accordance with a warrant issued under **section** 21, 21.1 or **22.21, the Director** or **employee** may **make an** application **in accordance with** subsection **(2)** to **a** judge **for** a warrant **under this section**.
+  **(1)** If the Director or any employee who is designated by the Minister for the purpose believes, on reasonable grounds, that a warrant under this section is required to enable the Service to remove any thing from any place where it was installed in the performance of the Service's duties and functions under section 12 or 16 or in accordance with a warrant issued under section 21, 21.1 or 22.21, the Director or employee may make an application in accordance with subsection (2) to a judge for a warrant under this section.
 
   **(2)** An application to a judge under subsection (1) shall be made in writing and be accompanied by an affidavit of the applicant deposing to the following matters:
 
@@ -831,23 +840,37 @@ Section 23 of the Act is replaced by the following:
 
     the terms and conditions that the judge considers advisable in the public interest.
 
+### Section 41.1
+
+  **(1)** The portion of section 24 of the Act before paragraph (a) is replaced by the following:
+
+### Section 24
+
+    Despite any other law, a warrant issued under section 21, 22.21 or 23
+
+  **(2)** Paragraph 24(a) of the Act is amended by striking out "or" at the end of subparagraph (i) and by replacing subparagraph (ii) with the following:
+
+    in the case of a warrant issued under section 22.21, to exercise the powers specified in the warrant for the purpose of obtaining information, records, documents or things of the type specified in the warrant, or
+
+    in the case of a warrant issued under section 23, to exercise the powers specified in the warrant for the purpose of removing the thing specified in the warrant; and
+
 ### Section 42
 
 Section 27 of the Act is replaced by the following:
 
 ### Section 27
 
-  ****(1)**** An application for a judicial authorization under section 11.13, **an application under section 20.3 for a preservation order, an application under section 20.4 for a production order**, an application under section 21, 21.1, **22.21** or 23 for a warrant, an application under section 22 or 22.1 for the renewal of a warrant or an application for an order under section 22.3 shall be **made ex parte and** heard in private in accordance with regulations made under section 28.
+  **(1)** An application for a judicial authorization under section 11.13, an application under section 20.3 for a preservation order, an application under section 20.4 for a production order, an application under section 21, 21.1, 22.21 or 23 for a warrant, an application under section 22 or 22.1 for the renewal of a warrant or an application for an order under section 22.3 shall be made ex parte and heard in private in accordance with regulations made under section 28.
 
-  **(2)** An application under section 20.5 for the revocation or variation of a production order shall be heard in private in accordance with regulations made under section 28.
+  **(2)** An application under section 20.5 for the revocation or variation of a production order may be heard in private in accordance with regulations made under section 28.
 
 ### Section 43
 
   **(1)** Paragraphs 28(a) and (b) of the Act are replaced by the following:
 
-    prescribing the form of judicial authorizations that may be issued under section 11.13 and of warrants that may be issued under section 21, 21.1, **22.21** or 23;
+    prescribing the form of judicial authorizations that may be issued under section 11.13 and of warrants that may be issued under section 21, 21.1, 22.21 or 23;
 
-    governing the practice and procedure of, and security requirements applicable to, hearings of applications for judicial authorization under section 11.13, for warrants that may be issued under section 21, 21.1, **22.21** or 23, for renewals of those warrants and for orders that may be made under section **20.3, 20.4 or** 22.3;
+    governing the practice and procedure of, and security requirements applicable to, hearings of applications for judicial authorization under section 11.13, for warrants that may be issued under section 21, 21.1, 22.21 or 23, for renewals of those warrants and for orders that may be made under section 20.3, 20.4 or 22.3;
 
   **(2)** Section 28 of the Act is amended by striking out "and" at the end of paragraph (b.1) and by adding the following after that paragraph:
 
@@ -858,7 +881,7 @@ Section 27 of the Act is replaced by the following:
 The Act is amended by adding the following after section 28:
 
 
-## **Parliamentary Review**
+## Parliamentary Review
 
 ### Section 29
 
@@ -889,7 +912,7 @@ Section 18 of the `Intelligence Commissioner Act` is replaced by the following:
 
 ### Section 18
 
-The Commissioner must review whether the conclusions — made under subsection 11.22(1) of the `Canadian Security Intelligence Service Act` and on the basis of which a query **or exploitation** of a dataset in exigent circumstances was authorized — are reasonable.
+The Commissioner must review whether the conclusions — made under subsection 11.22(1) of the `Canadian Security Intelligence Service Act` and on the basis of which a query or exploitation of a dataset in exigent circumstances was authorized — are reasonable.
 
 
 ## Measures to Counter Foreign Interference
@@ -909,23 +932,23 @@ The long title of the `Security of Information Act` is replaced by the following
 Section 1 of the Act and the heading before it are replaced by the following:
 
 
-## **Alternative** Title
+## Alternative Title
 
 ### Section 1
 
-This Act may be cited as the `**Foreign Interference and** Security of Information Act`.
+This Act may be cited as the `Foreign Interference and Security of Information Act`.
 
 ### Section 51
 
   **(1)** Paragraph (a) of the definition **person permanently bound to secrecy** in subsection 8(1) of the Act is replaced by the following:
 
-    a current or former member or employee of a department, division, branch or office of the federal public administration, or any of its parts, set out in Schedule **1**;
+    a current or former member or employee of a department, division, branch or office of the federal public administration, or any of its parts, set out in Schedule 1;
 
   **(2)** Paragraph (f) of the definition **special operational information** in subsection 8(1) of the Act is replaced by the following:
 
     the military vulnerabilities or advantages of the Canadian Forces, including the operational or technical vulnerabilities and advantages of any ally or adversary;
 
-    the means that the Government of Canada used, uses or intends to use, or is capable of using, to protect or exploit any information or intelligence referred to in any of paragraphs (a) to **(e.1)**, including, but not limited to, encryption and cryptographic systems, and any vulnerabilities or limitations of those means; or
+    the means that the Government of Canada used, uses or intends to use, or is capable of using, to protect or exploit any information or intelligence referred to in any of paragraphs (a) to (e.1), including, but not limited to, encryption and cryptographic systems, and any vulnerabilities or limitations of those means; or
 
   **(3)** The definition **person permanently bound to secrecy** in subsection 8(1) of the Act is amended by deleting "or" at the end of paragraph (a.2) and by adding the following after that paragraph:
 
@@ -939,7 +962,7 @@ Section 9 of the Act is replaced by the following:
 
 ### Section 9
 
-The Governor in Council may, by order, amend Schedule **1** by adding or deleting the name of any current or former department, division, branch or office of the federal public administration, or any of its parts, that, in the opinion of the Governor in Council, has or had a mandate that is primarily related to security and intelligence matters, or by modifying any name set out in the schedule.
+The Governor in Council may, by order, amend Schedule 1 by adding or deleting the name of any current or former department, division, branch or office of the federal public administration, or any of its parts, that, in the opinion of the Governor in Council, has or had a mandate that is primarily related to security and intelligence matters, or by modifying any name set out in the schedule.
 
 ### Section 9.1
 
@@ -954,11 +977,11 @@ a reference to any current or former position in the Canadian Forces, the powers
 Section 20 of the Act and the heading before it are replaced by the following:
 
 
-### Foreign-influenced or Terrorist-influenced **Intimidation**, Threats or Violence
+### Foreign-influenced or Terrorist-influenced Intimidation, Threats or Violence
 
 ### Section 20
 
-  **(1)** Every person commits an offence who, at the direction of, for the benefit of or in association with, a foreign entity or a terrorist group, induces or attempts to induce, by **intimidation**, threat or violence, any person to do anything or to cause anything to be done.
+  **(1)** Every person commits an offence who, at the direction of, for the benefit of or in association with, a foreign entity or a terrorist group, induces or attempts to induce, by intimidation, threat or violence, any person to do anything or to cause anything to be done.
 
   **(2)** Despite subsection 26(1), a person who commits an act referred to in subsection (1) while outside Canada is deemed to have committed it in Canada if
 
@@ -1121,11 +1144,11 @@ Section 20 of the Act and the heading before it are replaced by the following:
 
 ### Section 22
 
-      **(1)** Every person commits an offence who, for the purpose of committing an offence under **this Act, other than under subsection 13(1) or 18(1)**, does anything that is directed towards or done in preparation of the commission of the offence, including
+      **(1)** Every person commits an offence who, for the purpose of committing an offence under this Act, other than under subsection 13(1) or 18(1), does anything that is directed towards or done in preparation of the commission of the offence, including
 
   **(2)** Subsection 22(2) of the Act is replaced by the following:
 
-    **(2)** Every person who commits an offence under subsection (1) is guilty of an indictable offence and is liable to imprisonment for a term of not more than **five** years.
+    **(2)** Every person who commits an offence under subsection (1) is guilty of an indictable offence and is liable to imprisonment for a term of not more than five years.
 
 ### Section 55
 
@@ -1230,7 +1253,7 @@ The Act is amended by adding, after Schedule 1, the Schedule 2 set out in Schedu
 
 Paragraph 183.6(3)(c) of the `National Defence Act` is replaced by the following:
 
-an offence punishable under section 130 that is an offence under subsection 16(1) or (2), 17(1), 19(1), 20(1), **20.1(1), 20.2(1), 20.3(1), 20.4(1)** or 22(1) of the `**Foreign Interference and** Security of Information Act`;
+an offence punishable under section 130 that is an offence under subsection 16(1) or (2), 17(1), 19(1), 20(1), 20.1(1), 20.2(1), 20.3(1), 20.4(1) or 22(1) of the `Foreign Interference and Security of Information Act`;
 
 
 ##### `National Security Act, 2017`
@@ -1239,7 +1262,7 @@ an offence punishable under section 130 that is an offence under subsection 16(1
 
 Paragraph 82(1)(d) of the `National Security Act, 2017` is replaced by the following:
 
-Schedule **1** to the `**Foreign Interference and** Security of Information Act`;
+Schedule 1 to the `Foreign Interference and Security of Information Act`;
 
 
 ### `Criminal Code`
@@ -1250,7 +1273,7 @@ Schedule **1** to the `**Foreign Interference and** Security of Information Act`
 
 ### Section 52
 
-      **(1)** Every person is guilty of an indictable offence and liable to imprisonment for a term of not more than 10 years or is guilty of an offence punishable on summary conviction who does a prohibited act **with the intent** to **endanger**
+      **(1)** Every person is guilty of an indictable offence and liable to imprisonment for a term of not more than 10 years or is guilty of an offence punishable on summary conviction who does a prohibited act with the intent to endanger
 
   **(2)** Section 52 of the Act is amended by adding the following after subsection (4):
 
@@ -1270,7 +1293,7 @@ The Act is amended by adding the following after section 52:
 
     cause a serious risk to the health or safety of the public or any segment of the public.
 
-  **(2)** In this section, **essential infrastructure** means a facility or system, whether public or private, that provides or distributes services that are essential to the health, safety, security or economic well-being of persons in Canada, including the following:
+  **(2)** In this section, **essential infrastructure** means a facility or system, whether public or private, completed or under construction, that provides or distributes — or is intended to provide or distribute — services that are essential to the health, safety, security or economic well-being of persons in Canada, including the following:
 
     transportation infrastructure;
 
@@ -1332,7 +1355,7 @@ section 52.2 (sabotage — device),
 
   **(1)** Paragraph 185(1.1)(a) of the Act is replaced by the following:
 
-    an offence under section **52, 52.1, 52.2**, 467.11, 467.111, 467.12 or 467.13;
+    an offence under section 52, 52.1, 52.2, 467.11, 467.111, 467.12 or 467.13;
 
   **(2)** Subsection 185(1.1) of the Act is amended by striking out "or" at the end of paragraph (b) and by adding the following after that paragraph:
 
@@ -1342,7 +1365,7 @@ section 52.2 (sabotage — device),
 
   **(1)** Paragraph 186(1.1)(a) of the Act is replaced by the following:
 
-    an offence under section **52, 52.1, 52.2**, 467.11, 467.111, 467.12 or 467.13;
+    an offence under section 52, 52.1, 52.2, 467.11, 467.111, 467.12 or 467.13;
 
   **(2)** Subsection 186(1.1) of the Act is amended by striking out "or" at the end of paragraph (b) and by adding the following after that paragraph:
 
@@ -1352,7 +1375,7 @@ section 52.2 (sabotage — device),
 
   **(1)** Paragraph 186.1(a) of the Act is replaced by the following:
 
-    an offence under section **52, 52.1, 52.2**, 467.11, 467.111, 467.12 or 467.13;
+    an offence under section 52, 52.1, 52.2, 467.11, 467.111, 467.12 or 467.13;
 
   **(2)** Section 186.1 of the Act is amended by striking out "or" at the end of paragraph (b) and by adding the following after that paragraph:
 
@@ -1362,13 +1385,13 @@ section 52.2 (sabotage — device),
 
 Paragraph 196(5)(a) of the Act is replaced by the following:
 
-an offence under section **52, 52.1, 52.2**, 467.11, 467.111, 467.12 or 467.13,
+an offence under section 52, 52.1, 52.2, 467.11, 467.111, 467.12 or 467.13,
 
 ### Section 67
 
   **(1)** Paragraph 196.1(5)(a) of the Act is replaced by the following:
 
-    an offence under section **52, 52.1, 52.2**, 467.11, 467.12 or 467.13;
+    an offence under section 52, 52.1, 52.2, 467.11, 467.12 or 467.13;
 
   **(2)** Subsection 196.1(5) of the Act is amended by striking out "or" at the end of paragraph (b) and by adding the following after that paragraph:
 
@@ -1378,19 +1401,19 @@ an offence under section **52, 52.1, 52.2**, 467.11, 467.111, 467.12 or 467.13,
 
 Paragraph 462.48(1.1)(c) of the Act is replaced by the following:
 
-an offence against section **52, 52.1, 52.2**, 467.11, 467.111, 467.12 or 467.13, or a conspiracy or an attempt to commit, or being an accessory after the fact in relation to, such an offence;
+an offence against section 52, 52.1, 52.2, 467.11, 467.111, 467.12 or 467.13, or a conspiracy or an attempt to commit, or being an accessory after the fact in relation to, such an offence;
 
 ### Section 69
 
 Paragraph 486.5(2.1)(c) of the Act is replaced by the following:
 
-an offence under subsection 16(1) or (2), 17(1), 19(1), 20(1), **20.1(1), 20.2(1), 20.3(1), 20.4(1)** or 22(1) of the `**Foreign Interference and** Security of Information Act`; or
+an offence under subsection 16(1) or (2), 17(1), 19(1), 20(1), 20.1(1), 20.2(1), 20.3(1), 20.4(1) or 22(1) of the `Foreign Interference and Security of Information Act`; or
 
 ### Section 70
 
   **(1)** Subparagraph (c.1)(ii) of the definition primary designated offence in section 487.04 of the Act is replaced by the following:
 
-    subsection 20(1) (**intimidation**, threats or violence),
+    subsection 20(1) (intimidation, threats or violence),
 
     subsection 20.1(1) (intimidation, threats or violence outside Canada),
 
@@ -1410,17 +1433,17 @@ an offence under subsection 16(1) or (2), 17(1), 19(1), 20(1), **20.1(1), 20.2(1
 
   **(1)** Paragraph 515(4.1)(e) of the Act is replaced by the following:
 
-    an offence under subsection 20(1), **20.1(1), 20.2(1), 20.3(1) or 20.4(1)** of the `**Foreign Interference and** Security of Information Act`, or an offence under subsection 21(1) or 22(1) or section 23 of that Act that is committed in relation to an offence under subsection 20(1), **20.1(1), 20.2(1), 20.3(1) or 20.4(1)** of that Act,
+    an offence under subsection 20(1), 20.1(1), 20.2(1), 20.3(1) or 20.4(1) of the `Foreign Interference and Security of Information Act`, or an offence under subsection 21(1) or 22(1) or section 23 of that Act that is committed in relation to an offence under subsection 20(1), 20.1(1), 20.2(1), 20.3(1) or 20.4(1) of that Act,
 
   **(2)** Paragraph 515(4.3)(d) of the Act is replaced by the following:
 
-    an offence under subsection 20(1), **20.1(1), 20.2(1), 20.3(1) or 20.4(1)** of the `**Foreign Interference and** Security of Information Act`, or an offence under subsection 21(1) or 22(1) or section 23 of that Act that is committed in relation to an offence under subsection 20(1), **20.1(1), 20.2(1), 20.3(1) or 20.4(1)** of that Act.
+    an offence under subsection 20(1), 20.1(1), 20.2(1), 20.3(1) or 20.4(1) of the `Foreign Interference and Security of Information Act`, or an offence under subsection 21(1) or 22(1) or section 23 of that Act that is committed in relation to an offence under subsection 20(1), 20.1(1), 20.2(1), 20.3(1) or 20.4(1) of that Act.
 
   **(3)** Subparagraphs 515(6)(a)(iv) and (v) of the Act are replaced by the following:
 
-    that is an offence under subsection 16(1) or (2), 17(1), 19(1), 20(1), **20.1(1), 20.1(1), 20.3(1), 20.4(1)** or 22(1) of the `**Foreign Interference and** Security of Information Act`,
+    that is an offence under subsection 16(1) or (2), 17(1), 19(1), 20(1), 20.1(1), 20.1(1), 20.3(1), 20.4(1) or 22(1) of the `Foreign Interference and Security of Information Act`,
 
-    that is an offence under subsection 21(1) or section 23 of the `**Foreign Interference and** Security of Information Act` committed in relation to an offence referred to in subparagraph (iv),
+    that is an offence under subsection 21(1) or section 23 of the `Foreign Interference and Security of Information Act` committed in relation to an offence referred to in subparagraph (iv),
 
 
 ### Coordinating Amendments and Coming into Force
@@ -1484,7 +1507,7 @@ Section 36.1 of the `Canada Evidence Act` is replaced by the following:
 
 ### Section 36.1
 
-In sections 37 to **38.43**, **official** has the same meaning as in section 118 of the `Criminal Code`.
+In sections 37 to 38.43, **official** has the same meaning as in section 118 of the `Criminal Code`.
 
 ### Section 77
 
@@ -1492,17 +1515,17 @@ In sections 37 to **38.43**, **official** has the same meaning as in section 118
 
 ### Section 37.1
 
-      **(1)** **Subject to subsection (1.1)**, an appeal lies from a determination under any of subsections 37(4.1) to (6)
+      **(1)** Subject to subsection (1.1), an appeal lies from a determination under any of subsections 37(4.1) to (6)
 
   **(2)** Subsection 37.1(2) of the Act is replaced by the following:
 
     **(1.1)** A person who is charged with an offence may appeal a determination referred to in subsection (1) that is made in relation to a criminal trial or other criminal proceeding only if they are convicted of the offence.
 
-    **(2)** An appeal under **this section** shall be brought
+    **(2)** An appeal under this section shall be brought
 
       in the case of an appeal permitted under subsection (1.1), after conviction and within the same period in which the accused may appeal from their conviction or any further time that the court referred to in subsection (1) considers appropriate in the circumstances; or
 
-      **in any other case**, within **15** days after the **day on which** the determination appealed from **is made** or any further time that the court **referred to in subsection (1)** considers appropriate in the circumstances.
+      in any other case, within 15 days after the day on which the determination appealed from is made or any further time that the court referred to in subsection (1) considers appropriate in the circumstances.
 
     **(3)** Despite subsection (1.1) and paragraph (2)(a), the court referred to in subsection (1) may, on application by the person charged with the offence, permit the appeal to be brought before conviction if the court is satisfied that there are exceptional circumstances that justify doing so.
 
@@ -1517,13 +1540,13 @@ The Act is amended by adding the following before section 38:
 
 The definition **proceeding** in section 38 of the Act is replaced by the following:
 
-**proceeding** means a proceeding before a court, person or body with jurisdiction to compel the production of information, **but does not include a federal proceeding, as defined in section `38.2`**. (**instance**)
+**proceeding** means a proceeding before a court, person or body with jurisdiction to compel the production of information, but does not include a federal proceeding, as defined in section `38.2`. (**instance**)
 
 ### Section 80
 
 Subsection 38.03(3) of the Act is replaced by the following:
 
-**(3)** The Attorney General of Canada shall, within **30** days after the day on which **they** first **receive** a notice about information under any of subsections 38.01(1) to (4), notify in writing every person who provided notice under section 38.01 about that information of **their** decision with respect to disclosure of the information.
+**(3)** The Attorney General of Canada shall, within 30 days after the day on which they first receive a notice about information under any of subsections 38.01(1) to (4), notify in writing every person who provided notice under section 38.01 about that information of their decision with respect to disclosure of the information.
 
 ### Section 81
 
@@ -1531,15 +1554,15 @@ Section 38.09 of the Act is replaced by the following:
 
 ### Section 38.09
 
-  **(1)** **Subject to subsection (1.1)**, an order made under any of subsections 38.06(1) to (3) may be appealed to the Federal Court of Appeal.
+  **(1)** Subject to subsection (1.1), an order made under any of subsections 38.06(1) to (3) may be appealed to the Federal Court of Appeal.
 
   **(1.1)** A person who is charged with an offence may appeal an order referred to in subsection (1) that is made in relation to a criminal trial or other criminal proceeding only if they are convicted of the offence.
 
-  **(2)** An appeal **under this section** shall be brought
+  **(2)** An appeal under this section shall be brought
 
     in the case of an appeal permitted under subsection (1.1), after conviction and within the same period in which the accused may appeal from their conviction or any further time that the Court considers appropriate in the circumstances; or
 
-    **in any other case**, within **15** days after the **day on which** the order is made or any further time that the Court considers appropriate in the circumstances.
+    in any other case, within 15 days after the day on which the order is made or any further time that the Court considers appropriate in the circumstances.
 
   **(3)** Despite subsection (1.1) and paragraph (2)(a), the Court may, on application by the person charged with the offence, permit the appeal to be brought before conviction if the Court is satisfied that there are exceptional circumstances that justify doing so.
 
@@ -1547,13 +1570,13 @@ Section 38.09 of the Act is replaced by the following:
 
 Paragraph 38.1(a) of the Act is replaced by the following:
 
-an application for leave to appeal to the Supreme Court of Canada from a judgment made on appeal shall be made within **15** days after the day on which the judgment appealed from is made or within any further time that the Supreme Court of Canada considers appropriate in the circumstances; and
+an application for leave to appeal to the Supreme Court of Canada from a judgment made on appeal shall be made within 15 days after the day on which the judgment appealed from is made or within any further time that the Supreme Court of Canada considers appropriate in the circumstances; and
 
 ### Section 83
 
 Subsection 38.131(4) of the Act is replaced by the following:
 
-**(4)** **Despite** section 16 of the `Federal **Courts** Act`, for the purposes of the application, the Federal Court of Appeal consists of a single judge of that Court.
+**(4)** Despite section 16 of the `Federal Courts Act`, for the purposes of the application, the Federal Court of Appeal consists of a single judge of that Court.
 
 ### Section 84
 
@@ -1594,9 +1617,9 @@ in relation to a federal proceeding in the Federal Court, the Chief Justice of t
 
 **special counsel** means a person appointed as a special counsel under section `38.34`. (**conseiller juridique spécial**)
 
-### Section **38.21**
+### Section 38.21
 
-  ****(1)**** **Every participant who, in connection with a federal proceeding, is required to disclose, or expects to disclose or cause the disclosure of, information that the participant believes is sensitive information or potentially injurious information must, as soon as possible, notify the Attorney General of Canada in writing of the possibility of the disclosure, and of the nature, date and place of the federal proceeding.**
+  **(1)** Every participant who, in connection with a federal proceeding, is required to disclose, or expects to disclose or cause the disclosure of, information that the participant believes is sensitive information or potentially injurious information must, as soon as possible, notify the Attorney General of Canada in writing of the possibility of the disclosure, and of the nature, date and place of the federal proceeding.
 
   **(2)** Every participant who believes that sensitive information or potentially injurious information is about to be disclosed, whether by the participant or another person, in the course of a federal proceeding must raise the matter with the person presiding at the federal proceeding and notify the Attorney General of Canada in writing of the matter as soon as possible, whether or not notice has been given under subsection (1). In such circumstances, the person presiding at the federal proceeding must ensure that the information is not disclosed other than in accordance with this Act.
 
@@ -1636,7 +1659,7 @@ in relation to a federal proceeding in the Federal Court, the Chief Justice of t
 
   **(1)** The Attorney General of Canada may, at any time and subject to any conditions that they consider appropriate, authorize the disclosure of all or part of the information and facts the disclosure of which is prohibited under subsection `38.22`(1).
 
-  ****(2)**** **The Attorney General of Canada must, within 30 days after the day on which they first receive a notice about information under any of subsections `38.21`(1) to (4), notify in writing every person who provided notice under those subsections about that information of their decision with respect to disclosure of the information.**
+  **(2)** The Attorney General of Canada must, within 30 days after the day on which they first receive a notice about information under any of subsections `38.21`(1) to (4), notify in writing every person who provided notice under those subsections about that information of their decision with respect to disclosure of the information.
 
 ### Section 38.24
 
@@ -1916,11 +1939,11 @@ Items 2, 4 and 21 of the schedule to the Act are repealed.
 
 ### Section 69.1
 
-      **(1)** **If** a certificate under section 38.13 **or 38.41** of the `Canada Evidence Act` prohibiting the disclosure of information contained in a record is issued before a complaint is filed under this Part in respect of a request for access to that information, this Part does not apply to that information.
+      **(1)** If a certificate under section 38.13 or 38.41 of the `Canada Evidence Act` prohibiting the disclosure of information contained in a record is issued before a complaint is filed under this Part in respect of a request for access to that information, this Part does not apply to that information.
 
   **(2)** The portion of subsection 69.1(2) of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** **Despite** any other provision of this Part, **if** a certificate under section 38.13 **or 38.41** of the `Canada Evidence Act` prohibiting the disclosure of information contained in a record is issued after the filing of a complaint under this Part in relation to a request for access to that information,
+    **(2)** Despite any other provision of this Part, if a certificate under section 38.13 or 38.41 of the `Canada Evidence Act` prohibiting the disclosure of information contained in a record is issued after the filing of a complaint under this Part in relation to a request for access to that information,
 
 
 ##### `Criminal Code`
@@ -1945,13 +1968,13 @@ Section 83.06 of the Act is replaced by the following:
 
 ### Section 83.06
 
-  **(1)** For the purposes of subsection 83.05(6), any information **that is** obtained in confidence from a government, an institution or an agency of a foreign state, from an international organization of states or from an institution or an agency of an international organization of states and **that is provided to the judge by** the Minister of Public Safety and Emergency Preparedness shall be returned to counsel representing the Minister and shall not be considered by the judge in making the determination under paragraph 83.05(6)(d), if
+  **(1)** For the purposes of subsection 83.05(6), any information that is obtained in confidence from a government, an institution or an agency of a foreign state, from an international organization of states or from an institution or an agency of an international organization of states and that is provided to the judge by the Minister of Public Safety and Emergency Preparedness shall be returned to counsel representing the Minister and shall not be considered by the judge in making the determination under paragraph 83.05(6)(d), if
 
     the judge determines that the information is not relevant;
 
-    the judge determines that the information is relevant but should be summarized in **a** statement to be provided **to the applicant**; or
+    the judge determines that the information is relevant but should be summarized in a statement to be provided to the applicant; or
 
-    the Minister withdraws the **information**.
+    the Minister withdraws the information.
 
   **(2)** For greater certainty, sections 38.2 to 38.45 of the `Canada Evidence Act` apply to an application made under subsection 83.05(5).
 
@@ -1962,7 +1985,7 @@ Section 83.06 of the Act is replaced by the following:
 
 Paragraph 58(2)(c) of the `Canadian Human Rights Act` is replaced by the following:
 
-at any time, an objection to the disclosure is made, or a certificate is issued, in accordance with sections 38 to 38.13 **or 38.2 to 38.41** of that Act.
+at any time, an objection to the disclosure is made, or a certificate is issued, in accordance with sections 38 to 38.13 or 38.2 to 38.41 of that Act.
 
 
 ##### `Privacy Act`
@@ -1973,17 +1996,17 @@ at any time, an objection to the disclosure is made, or a certificate is issued,
 
 ### Section 70.1
 
-      **(1)** **If** a certificate under section 38.13 **or 38.41** of the `Canada Evidence Act` prohibiting the disclosure of personal information of a specific individual is issued before a complaint is filed by that individual under this Act in respect of a request for access to that information, the provisions of this Act respecting that individual's right of access to **their** personal information do not apply to the information that is subject to the certificate.
+      **(1)** If a certificate under section 38.13 or 38.41 of the `Canada Evidence Act` prohibiting the disclosure of personal information of a specific individual is issued before a complaint is filed by that individual under this Act in respect of a request for access to that information, the provisions of this Act respecting that individual's right of access to their personal information do not apply to the information that is subject to the certificate.
 
   **(2)** The portion of subsection 70.1(2) of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** **Despite** any other provision of this Act, **if** a certificate under section 38.13 **or 38.41** of the `Canada Evidence Act` prohibiting the disclosure of personal information of a specific individual is issued in respect of personal information after the filing of a complaint under this Act in relation to a request for access to that information,
+    **(2)** Despite any other provision of this Act, if a certificate under section 38.13 or 38.41 of the `Canada Evidence Act` prohibiting the disclosure of personal information of a specific individual is issued in respect of personal information after the filing of a complaint under this Act in relation to a request for access to that information,
 
   **(3)** Subsections 70.1(3) and (4) of the Act are replaced by the following:
 
-    **(3)** The Privacy Commissioner and every person acting on behalf or under the direction of the Privacy Commissioner, in carrying out their functions under this Act, shall not disclose information subject to a certificate issued under section 38.13 **or 38.41** of the `Canada Evidence Act` and shall take every reasonable precaution to avoid the disclosure of that information.
+    **(3)** The Privacy Commissioner and every person acting on behalf or under the direction of the Privacy Commissioner, in carrying out their functions under this Act, shall not disclose information subject to a certificate issued under section 38.13 or 38.41 of the `Canada Evidence Act` and shall take every reasonable precaution to avoid the disclosure of that information.
 
-    **(4)** The Privacy Commissioner may not, nor may an Assistant Privacy Commissioner, delegate the investigation of any complaint respecting information subject to a certificate issued under section 38.13 **or 38.41** of the `Canada Evidence Act` except to one of a maximum of four officers or employees of the Commissioner specifically designated by the Commissioner for the purpose of conducting that investigation.
+    **(4)** The Privacy Commissioner may not, nor may an Assistant Privacy Commissioner, delegate the investigation of any complaint respecting information subject to a certificate issued under section 38.13 or 38.41 of the `Canada Evidence Act` except to one of a maximum of four officers or employees of the Commissioner specifically designated by the Commissioner for the purpose of conducting that investigation.
 
 
 ##### `Personal Information Protection and Electronic Documents Act`
@@ -1994,17 +2017,17 @@ at any time, an objection to the disclosure is made, or a certificate is issued,
 
 ### Section 4.1
 
-      **(1)** **If** a certificate under section 38.13 **or 38.41** of the `Canada Evidence Act` prohibiting the disclosure of personal information of a specific individual is issued before a complaint is filed by that individual under this Part in respect of a request for access to that information, the provisions of this Part respecting that individual's right of access to **their** personal information do not apply to the information that is subject to the certificate.
+      **(1)** If a certificate under section 38.13 or 38.41 of the `Canada Evidence Act` prohibiting the disclosure of personal information of a specific individual is issued before a complaint is filed by that individual under this Part in respect of a request for access to that information, the provisions of this Part respecting that individual's right of access to their personal information do not apply to the information that is subject to the certificate.
 
   **(2)** The portion of subsection 4.1(2) of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** **Despite** any other provision of this Part, **if** a certificate under section 38.13 **or 38.41** of the `Canada Evidence Act` prohibiting the disclosure of personal information of a specific individual is issued after the filing of a complaint under this Part in relation to a request for access to that information:
+    **(2)** Despite any other provision of this Part, if a certificate under section 38.13 or 38.41 of the `Canada Evidence Act` prohibiting the disclosure of personal information of a specific individual is issued after the filing of a complaint under this Part in relation to a request for access to that information:
 
   **(3)** Subsections 4.1(3) and (4) of the Act are replaced by the following:
 
-    **(3)** The Commissioner and every person acting on behalf or under the direction of the Commissioner, in carrying out their functions under this Part, shall not disclose information subject to a certificate issued under section 38.13 **or 38.41** of the `Canada Evidence Act`, and shall take every reasonable precaution to avoid the disclosure of that information.
+    **(3)** The Commissioner and every person acting on behalf or under the direction of the Commissioner, in carrying out their functions under this Part, shall not disclose information subject to a certificate issued under section 38.13 or 38.41 of the `Canada Evidence Act`, and shall take every reasonable precaution to avoid the disclosure of that information.
 
-    **(4)** The Commissioner may not delegate the investigation of any complaint relating to information subject to a certificate issued under section 38.13 **or 38.41** of the `Canada Evidence Act` except to one of a maximum of four officers or employees of the Commissioner specifically designated by the Commissioner for the purpose of conducting that investigation.
+    **(4)** The Commissioner may not delegate the investigation of any complaint relating to information subject to a certificate issued under section 38.13 or 38.41 of the `Canada Evidence Act` except to one of a maximum of four officers or employees of the Commissioner specifically designated by the Commissioner for the purpose of conducting that investigation.
 
 
 ##### `Charities Registration (Security Information) Act`
@@ -2015,9 +2038,9 @@ Section 6 of the `Charities Registration (Security Information) Act` is replaced
 
 ### Section 6
 
-  ****(1)**** The following provisions govern the determination:
+  **(1)** The following provisions govern the determination:
 
-    any information or evidence **the disclosure of which** would be injurious to national security shall be returned to the Ministers and shall not be considered by the judge in determining whether the certificate is reasonable if either
+    any information or evidence the disclosure of which would be injurious to national security shall be returned to the Ministers and shall not be considered by the judge in determining whether the certificate is reasonable if either
 
     the judge determines that the information or evidence is not relevant or, if it is relevant, that it should be part of a summary of the information or evidence provided to the applicant or the registered charity, or
 
@@ -2078,13 +2101,13 @@ Section 2.3 of the Regulations is replaced by the following:
 
 ### Section 2.3
 
-  **(1)** For the purposes of **section 2.2**, any information **that is** obtained in confidence from a government, an institution or an agency of a foreign state, from an international organization of states or from an institution or an agency of an international organization of states and **that is provided to the judge by** the Minister shall be returned to counsel representing the Minister and shall not be considered by the judge in making the determination under paragraph 2.2(2)(d), if
+  **(1)** For the purposes of section 2.2, any information that is obtained in confidence from a government, an institution or an agency of a foreign state, from an international organization of states or from an institution or an agency of an international organization of states and that is provided to the judge by the Minister shall be returned to counsel representing the Minister and shall not be considered by the judge in making the determination under paragraph 2.2(2)(d), if
 
     the judge determines that the information is not relevant;
 
-    the judge determines that the information is relevant but should be summarized in **a** statement to be provided **to the applicant**; or
+    the judge determines that the information is relevant but should be summarized in a statement to be provided to the applicant; or
 
-    the Minister withdraws the **information**.
+    the Minister withdraws the information.
 
   **(2)** For greater certainty, sections 38.2 to 38.45 of the `Canada Evidence Act` apply to an application made under section 2.2.
 
@@ -2104,7 +2127,7 @@ be injurious to international relations, national defence or national security, 
 
 Subsection 77(2) of the `Immigration and Refugee Protection Act` is replaced by the following:
 
-**(2)** When the certificate is referred, the Minister shall file with the Court the information and other evidence that is relevant to the ground of inadmissibility stated in the certificate and on which the certificate is based, as well as a summary of information and other evidence that enables the person named in the certificate to be reasonably informed of the case made by the Minister but that does not include anything that, in the Minister's opinion, would be injurious to **international relations, national defence or** national security or endanger the safety of any person if disclosed.
+**(2)** When the certificate is referred, the Minister shall file with the Court the information and other evidence that is relevant to the ground of inadmissibility stated in the certificate and on which the certificate is based, as well as a summary of information and other evidence that enables the person named in the certificate to be reasonably informed of the case made by the Minister but that does not include anything that, in the Minister's opinion, would be injurious to international relations, national defence or national security or endanger the safety of any person if disclosed.
 
 ### Section 102
 
@@ -2112,7 +2135,7 @@ Subsection 79.1(1) of the Act is replaced by the following:
 
 ### Section 79.1
 
-  **(1)** Despite section 79, the Minister may, without it being necessary for the judge to certify that a serious question of general importance is involved, appeal, at any stage of the proceeding, any decision made in the proceeding requiring the disclosure of information or other evidence if, in the Minister's opinion, the disclosure would be injurious to **international relations, national defence or** national security or endanger the safety of any person.
+  **(1)** Despite section 79, the Minister may, without it being necessary for the judge to certify that a serious question of general importance is involved, appeal, at any stage of the proceeding, any decision made in the proceeding requiring the disclosure of information or other evidence if, in the Minister's opinion, the disclosure would be injurious to international relations, national defence or national security or endanger the safety of any person.
 
 ### Section 103
 
@@ -2120,29 +2143,29 @@ Subsection 82.31(1) of the Act is replaced by the following:
 
 ### Section 82.31
 
-  **(1)** Despite section 82.3, the Minister may, without it being necessary for the judge to certify that a serious question of general importance is involved, appeal, at any stage of the proceeding, any decision made in the proceeding requiring the disclosure of information or other evidence if, in the Minister's opinion, the disclosure would be injurious to **international relations, national defence or** national security or endanger the safety of any person.
+  **(1)** Despite section 82.3, the Minister may, without it being necessary for the judge to certify that a serious question of general importance is involved, appeal, at any stage of the proceeding, any decision made in the proceeding requiring the disclosure of information or other evidence if, in the Minister's opinion, the disclosure would be injurious to international relations, national defence or national security or endanger the safety of any person.
 
 ### Section 104
 
   **(1)** Paragraph 83(1)(c) of the Act is replaced by the following:
 
-    at any time during a proceeding, the judge may, on the judge's own motion — and shall, on each request of the Minister — hear information or other evidence in the absence of the public and of the permanent resident or foreign national and their counsel if, in the judge's opinion, its disclosure could be injurious to **international relations, national defence or** national security or endanger the safety of any person;
+    at any time during a proceeding, the judge may, on the judge's own motion — and shall, on each request of the Minister — hear information or other evidence in the absence of the public and of the permanent resident or foreign national and their counsel if, in the judge's opinion, its disclosure could be injurious to international relations, national defence or national security or endanger the safety of any person;
 
   **(2)** Paragraphs 83(1)(d) and (e) of the Act are replaced by the following:
 
-    the judge shall ensure the confidentiality of information and other evidence provided by the Minister if, in the judge's opinion, its disclosure would be injurious to **international relations, national defence or** national security or endanger the safety of any person;
+    the judge shall ensure the confidentiality of information and other evidence provided by the Minister if, in the judge's opinion, its disclosure would be injurious to international relations, national defence or national security or endanger the safety of any person;
 
-    throughout the proceeding, the judge shall ensure that the permanent resident or foreign national is provided with a summary of information and other evidence that enables them to be reasonably informed of the case made by the Minister in the proceeding but that does not include anything that, in the judge's opinion, would be injurious to **international relations, national defence or** national security or endanger the safety of any person if disclosed;
+    throughout the proceeding, the judge shall ensure that the permanent resident or foreign national is provided with a summary of information and other evidence that enables them to be reasonably informed of the case made by the Minister in the proceeding but that does not include anything that, in the judge's opinion, would be injurious to international relations, national defence or national security or endanger the safety of any person if disclosed;
 
   **(3)** Paragraph 83(1.2)(c) of the Act is replaced by the following:
 
-    the person has knowledge of information or other evidence whose disclosure would be injurious to **international relations, national defence or** national security or endanger the safety of any person and, in the circumstances, there is a risk of inadvertent disclosure of that information or other evidence.
+    the person has knowledge of information or other evidence whose disclosure would be injurious to international relations, national defence or national security or endanger the safety of any person and, in the circumstances, there is a risk of inadvertent disclosure of that information or other evidence.
 
 ### Section 105
 
 Paragraph 85.1(2)(a) of the Act is replaced by the following:
 
-the Minister's claim that the disclosure of information or other evidence would be injurious to **international relations, national defence or** national security or endanger the safety of any person; and
+the Minister's claim that the disclosure of information or other evidence would be injurious to international relations, national defence or national security or endanger the safety of any person; and
 
 ### Section 106
 
@@ -2150,7 +2173,7 @@ Subsection 86.1(1) of the Act is replaced by the following:
 
 ### Section 86.1
 
-  **(1)** The Minister may, at any stage of the proceeding, apply for judicial review of any decision made in a proceeding referred to in section 86 requiring the disclosure of information or other evidence if, in the Minister's opinion, the disclosure would be injurious to **international relations, national defence or** national security or endanger the safety of any person. The application may be made without an application for leave.
+  **(1)** The Minister may, at any stage of the proceeding, apply for judicial review of any decision made in a proceeding referred to in section 86 requiring the disclosure of information or other evidence if, in the Minister's opinion, the disclosure would be injurious to international relations, national defence or national security or endanger the safety of any person. The application may be made without an application for leave.
 
 ### Section 107
 
@@ -2158,7 +2181,7 @@ Subsection 87.01(1) of the Act is replaced by the following:
 
 ### Section 87.01
 
-  **(1)** The Minister may, without it being necessary for the judge to certify that a serious question of general importance is involved, appeal, at any stage of the proceeding, to the Federal Court of Appeal any decision made in a judicial review requiring the disclosure of information or other evidence if, in the Minister's opinion, the disclosure would be injurious to **international relations, national defence or** national security or endanger the safety of any person.
+  **(1)** The Minister may, without it being necessary for the judge to certify that a serious question of general importance is involved, appeal, at any stage of the proceeding, to the Federal Court of Appeal any decision made in a judicial review requiring the disclosure of information or other evidence if, in the Minister's opinion, the disclosure would be injurious to international relations, national defence or national security or endanger the safety of any person.
 
 
 ### Transitional Provisions, Coordinating Amendments and Coming into Force
@@ -2342,7 +2365,7 @@ This Act applies to arrangements relating to any of the following political or g
 
 federal political or governmental processes;
 
-provincial or territorial political or governmental processes;
+provincial, territorial, or municipal political or governmental processes;
 
 the political or governmental processes of
 
@@ -2395,15 +2418,19 @@ A person must not knowingly provide any false or misleading information to the C
 
   **(1)** The Governor in Council is to appoint an individual to be known as the Foreign Influence Transparency Commissioner, to be responsible for the administration and enforcement of this Act.
 
-  **(2)** The appointment is to be made after consultation with
+  **(2)** The appointment is to be made after
 
-    the Leader of the Government in the Senate or Government Representative in the Senate and the Leader of the Opposition in the Senate;
+    consultation with
 
-    the Leader or Facilitator of every other recognized party or parliamentary group in the Senate;
+    the Leader of the Government in the Senate or Government Representative in the Senate and the Leader of the Opposition in the Senate,
 
-    the Leader of the Opposition in the House of Commons; and
+    the Leader or Facilitator of every other recognized party or parliamentary group in the Senate,
 
-    the leader in the House of Commons of each party having at least 12 members in that House.
+    the Leader of the Opposition in the House of Commons, and
+
+    the leader in the House of Commons of each party having at least 12 members in that House; and
+
+    approval of the appointment by resolution of the Senate and House of Commons.
 
   **(3)** Subject to this section, the Commissioner holds office during good behaviour for a term of up to seven years, but may be removed for cause by the Governor in Council at any time.
 
@@ -2625,9 +2652,28 @@ respecting the disclosure of information for the purposes of paragraph 15(e).
 
 ### Section 31
 
-  **(1)** During the fifth year after the day on which this Act receives royal assent, and during the fifth year after the day on which a report is submitted under subsection (2), a comprehensive review of this Act and its operation must be undertaken by the committee of the Senate or of the House of Commons that is designated or established for that purpose.
+  **(1)** During the first year after a general election, a comprehensive review of this Act and its operation must be undertaken by the committee of the Senate or of the House of Commons that is designated or established for that purpose.
 
   **(2)** The committee must, within one year after the review is undertaken — or within any further period that the Senate or the House of Commons, as the case may be, authorizes — submit to the appropriate House a report on the review that includes a statement of any changes that the committee recommends.
+
+### Section 32
+
+The Minister must, no later than 120 days after the day on which the report referred to in subsection 31(2) is submitted, cause to be tabled in each House of Parliament a response that addresses each of the changes recommended in the report.
+
+
+## Transitional Provisions
+
+### Section 33
+
+If, before the day on which paragraph 4(a) comes into force, a person has entered into an arrangement with a foreign principal in relation to a process referred to in that paragraph and the arrangement is in force on that day, then subsection 5(1) applies to the person but the required information must be provided within 60 days after that day.
+
+### Section 34
+
+If, before the day on which paragraph 4(b) comes into force, a person has entered into an arrangement with a foreign principal in relation to a process referred to in that paragraph and the arrangement is in force on that day, then subsection 5(1) applies to the person but the required information must be provided within 60 days after that day.
+
+### Section 35
+
+If, before the day on which paragraph 4(c) comes into force, a person has entered into an arrangement with a foreign principal in relation to a process referred to in that paragraph and the arrangement is in force on that day, then subsection 5(1) applies to the person but the required information must be provided within 60 days after that day.
 
 
 ### Consequential Amendments
@@ -2646,7 +2692,7 @@ Part II of Schedule I to the `Public Service Superannuation Act` is amended by a
 
   **(1)** The definition **department** in section 2 of the `National Security and Intelligence Committee of Parliamentarians Act` is replaced by the following:
 
-    **department** means, except in subsection 25(2), a department named in Schedule I to the `Financial Administration Act`, a division or branch of the federal public administration — other than a review body or the office of the Intelligence Commissioner — set out in column I of Schedule I.1 to that Act, a corporation named in Schedule II to that Act, a parent Crown corporation as defined in subsection 83(1) of that Act, the Canadian Forces or **the Foreign Influence Transparency Commissioner appointed under subsection 9(1) of the `Foreign Influence Transparency and Accountability Act`**. (**ministère**)
+    **department** means, except in subsection 25(2), a department named in Schedule I to the `Financial Administration Act`, a division or branch of the federal public administration — other than a review body or the office of the Intelligence Commissioner — set out in column I of Schedule I.1 to that Act, a corporation named in Schedule II to that Act, a parent Crown corporation as defined in subsection 83(1) of that Act, the Canadian Forces or the Foreign Influence Transparency Commissioner appointed under subsection 9(1) of the `Foreign Influence Transparency and Accountability Act`. (**ministère**)
 
   **(2)** The definition **appropriate Minister** in section 2 of the Act is amended by striking out "or" at the end of paragraph (c.1), by adding "or" at the end of paragraph (d) and by adding the following after paragraph (d):
 
@@ -2659,7 +2705,7 @@ Part II of Schedule I to the `Public Service Superannuation Act` is amended by a
 
   **(1)** The definition **department** in section 2 of the `National Security and Intelligence Review Agency Act` is replaced by the following:
 
-    **department** means, other than in subsection 42(2), a department named in Schedule I to the `Financial Administration Act`, a division or branch of the federal public administration — other than a review body and the office of the Intelligence Commissioner — set out in column I of Schedule I.1 to that Act, a corporation named in Schedule II to that Act, a parent Crown corporation as defined in subsection 83(1) of that Act, the Canadian Forces or **the Foreign Influence Transparency Commissioner appointed under subsection 9(1) of the `Foreign Influence Transparency and Accountability Act`**. (**ministère**)
+    **department** means, other than in subsection 42(2), a department named in Schedule I to the `Financial Administration Act`, a division or branch of the federal public administration — other than a review body and the office of the Intelligence Commissioner — set out in column I of Schedule I.1 to that Act, a corporation named in Schedule II to that Act, a parent Crown corporation as defined in subsection 83(1) of that Act, the Canadian Forces or the Foreign Influence Transparency Commissioner appointed under subsection 9(1) of the `Foreign Influence Transparency and Accountability Act`. (**ministère**)
 
   **(2)** The definition **appropriate Minister** in section 2 of the Act is amended by striking out "or" at the end of paragraph (d), by adding "or" at the end of paragraph (e) and by adding the following after paragraph (e):
 
