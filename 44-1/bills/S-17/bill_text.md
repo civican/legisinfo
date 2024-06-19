@@ -1,7 +1,5 @@
 # Bill S-17: An Act to correct certain anomalies, inconsistencies, out-dated terminology and errors and to deal with other matters of a non-controversial and uncomplicated nature in the Statutes and Regulations of Canada and to repeal certain provisions that have expired, lapsed or otherwise ceased to have effect
 
-**Sponsor**: THE HONOURABLE SENATOR GOLD, P.C.
-
 ## Summary
 
 This enactment is the 13th in a series of bills introduced under the Miscellaneous Statute Law Amendment (MSLA) Program. It amends 58 Acts and three related regulations to correct errors in grammar, spelling, terminology and punctuation, erroneous cross-references, archaic wording and discrepancies between the English version and the French versions. It also updates the designation of professionals and the name of a tribunal. For example, it changes the name the Review Tribunal to the Canada Agricultural Review Tribunal to reflect the operational name of that tribunal. Other amendments correct the names of courts in certain provinces to reflect changes resulting from the reorganization of the courts in question. Finally, it repeals three provisions from Acts that no longer have any application, for example, the repeal of section 12 of the `Department of Transport Act`.
@@ -138,8 +136,6 @@ After committee review, an MSLA bill is drafted based on the reports of the two 
 
 `Proceeds of Crime (Money Laundering) and Terrorist Financing Act`
 
-`Crimes Against Humanity and War Crimes Act`
-
 `Canada Shipping Act, 2001`
 
 `Pest Control Products Act`
@@ -187,7 +183,7 @@ This Act may be cited as the `Miscellaneous Statute Law Amendment Act, 2023`.
 
   **(2)** Paragraph (d) of the definition **superior court** in subsection 3(1) of the Act is replaced by the following:
 
-    in the Provinces of Nova Scotia, British Columbia, Prince Edward Island and **Newfoundland and Labrador**, the Supreme Court of the Province, and
+    in the Provinces of Nova Scotia, British Columbia, Prince Edward Island and Newfoundland and Labrador, the Supreme Court of the Province, and
 
 ### Section 3
 
@@ -238,10 +234,6 @@ the heading before section 24.3 and sections 24.3 and 24.4; and
 section 24.8.
 
 
-> **Explanatory Note**:
-> *The replacement of "directeur" by "autorité" in the French version is needed in order to avoid confusion between the position of "directeur des enquêtes sur la navigabilité" with other positions of directors at lower levels of the military or ministerial hierarchy.*
-
-
 ### Bankruptcy and Insolvency Act
 
 ### Section 5
@@ -249,14 +241,6 @@ section 24.8.
 Paragraph 183(1)(g) of the `Bankruptcy and Insolvency Act` is replaced by the following:
 
 in the Province of Newfoundland and Labrador, the Supreme Court; and
-
-
-> **Explanatory Note**:
-> *This amendment reflects changes to the organization of courts made by provincial legislation (`Court of Appeal Act`, S.N.L. 2017, c. C-37.002).*
-> *Existing Text*:
-> > The following courts are invested with such jurisdiction at law and in equity as will enable them to exercise original, auxiliary and ancillary jurisdiction in bankruptcy and in other proceedings authorized by this Act during their respective terms, as they are now, or may be hereafter, held, and in vacation and in chambers:
-> > 
-> > in the Province of Newfoundland and Labrador, the Trial Division of the Supreme Court; and
 
 
 ### `Canada Deposit Insurance Corporation Act`
@@ -267,13 +251,7 @@ Section 43 of the French version of the `Canada Deposit Insurance Corporation Ac
 
 ### Section 43
 
-Le vérificateur général du Canada est **l'auditeur** de la Société.
-
-
-> **Explanatory Note**:
-> *The Auditing and Assurance Standards Board (AASB) of Canada establishes standards that apply to the auditors of Canadian entities. In 2010, the AASB adopted the International Standards on Auditing (ISA standards), published by the International Auditing and Assurance Standards Board, as the new Canadian Auditing Standards. The ISA standards use the French terms "audit", "auditeur" and "auditer" for the English terms "audit" and "auditor". This amendment to the French version is necessary in order to reflect the change in ISA terminology.*
-> *Existing Text*:
-> > Le vérificateur général du Canada est le vérificateur de la Société.
+Le vérificateur général du Canada est l'auditeur de la Société.
 
 ### Section 7
 
@@ -284,35 +262,19 @@ subsection 14(2.7); and
 paragraph 28(c).
 
 
-> **Explanatory Note**:
-> *These amendments to the French version are necessary in order to reflect the change in terminology in ISA standards to use the French terms "audit", "auditeur" and "auditer" for the English terms "audit" and "auditor".*
-
-
 ### Canadian Centre for Occupational Health and Safety Act
 
 ### Section 8
 
 Subsection 10(3) of the English version of the `Canadian Centre for Occupational Health and Safety Act` is replaced by the following:
 
-**(3)** **If** the person appointed President is a governor, **that person** ceases to be a governor on assuming the office of President.
-
-
-> **Explanatory Note**:
-> *This amendment modernizes the language in the English version to conform to current drafting standards of gender neutrality.*
-> *Existing Text*:
-> > Where the person appointed President is a governor, he ceases to be a governor on assuming the office of President.
+**(3)** If the person appointed President is a governor, that person ceases to be a governor on assuming the office of President.
 
 ### Section 9
 
 Subsection 11(2) of the English version of the Act is replaced by the following:
 
-**(2)** The President shall devote the whole of **the President's** time to the performance of the duties of the President under this Act.
-
-
-> **Explanatory Note**:
-> *This amendment modernizes the language in the English version to conform to current drafting standards of gender neutrality.*
-> *Existing Text*:
-> > The President shall devote the whole of his time to the performance of the duties of the President under this Act.
+**(2)** The President shall devote the whole of the President's time to the performance of the duties of the President under this Act.
 
 ### Section 10
 
@@ -320,25 +282,13 @@ Section 13 of the Act is replaced by the following:
 
 ### Section 13
 
-The President is eligible for re-appointment on the expiration of **a** term of office.
-
-
-> **Explanatory Note**:
-> *This amendment harmonizes the language in the French version with the English version and modernizes the language in the English version to conform to current drafting standards of gender neutrality.*
-> *Existing Text*:
-> > The President is eligible for re-appointment on the expiration of his term of office.
+The President is eligible for re-appointment on the expiration of a term of office.
 
 ### Section 11
 
 Subsection 26(2) of the English version of the Act is replaced by the following:
 
-**(2)** The Minister shall cause the report referred to in subsection (1) to be laid before Parliament not later than the 10th sitting day of Parliament after **receiving** it.
-
-
-> **Explanatory Note**:
-> *This amendment modernizes the language in the English version to conform to current drafting standards of gender neutrality.*
-> *Existing Text*:
-> > The Minister shall cause the report referred to in subsection (1) to be laid before Parliament not later than the tenth sitting day of Parliament after he receives it.
+**(2)** The Minister shall cause the report referred to in subsection (1) to be laid before Parliament not later than the 10th sitting day of Parliament after receiving it.
 
 ### Section 12
 
@@ -361,10 +311,6 @@ subsection 21(2); and
 subsections 23(1) and (4).
 
 
-> **Explanatory Note**:
-> *These amendments modernize the language in the English version to conform to current drafting standards of gender neutrality.*
-
-
 ### Canadian Security Intelligence Service Act
 
 ### Section 13
@@ -375,32 +321,19 @@ Subsection 11.14(1) of the English version of the `Canadian Security Intelligenc
 
   **(1)** A judicial authorization issued under section 11.13 shall
 
-    **contain** a description of the dataset;
+    contain a description of the dataset;
 
-    **establish** the manner in which the Service may update the dataset;
+    establish the manner in which the Service may update the dataset;
 
-    **establish** the period during which the judicial authorization is valid;
+    establish the period during which the judicial authorization is valid;
 
-    **establish** any terms and conditions that the judge considers necessary respecting
+    establish any terms and conditions that the judge considers necessary respecting
 
     the querying or exploitation of the dataset, or
 
     the destruction or retention of the dataset or a portion of it; and
 
-    **establish** any terms and conditions that the judge considers advisable in the public interest.
-
-
-> **Explanatory Note**:
-> *This amendment to the English version removes the verb "specify" in the portion of subsection 11.14(1) before paragraph (a) and adds a verb in each of the paragraphs to make the English version consistent with the French version.*
-> *Existing Text*:
-> > A judicial authorization issued under section 11.13 shall specify
-> > a description of the dataset;
-> > the manner in which the Service may update the dataset;
-> > the period during which the judicial authorization is valid;
-> > any terms and conditions that the judge considers necessary respecting
-> > the querying or exploitation of the dataset, or
-> > the destruction or retention of the dataset or a portion of it; and
-> > any terms and conditions that the judge considers advisable in the public interest.
+    establish any terms and conditions that the judge considers advisable in the public interest.
 
 ### Section 14
 
@@ -408,32 +341,19 @@ Subsection 11.17(2) of the English version of the Act is replaced by the followi
 
 **(2)** The authorization given under subsection (1) shall
 
-  **contain** a description of the dataset;
+  contain a description of the dataset;
 
-  **establish** the manner in which the Service may update the dataset;
+  establish the manner in which the Service may update the dataset;
 
-  **establish** the period during which the authorization is valid;
+  establish the period during which the authorization is valid;
 
-  **establish** any terms and conditions that the Minister or designated person considers necessary respecting
+  establish any terms and conditions that the Minister or designated person considers necessary respecting
 
   the querying or exploitation of the dataset, or
 
   the destruction or retention of the dataset or a portion of it; and
 
-  **establish** any terms and conditions that the Minister or designated person considers advisable in the public interest.
-
-
-> **Explanatory Note**:
-> *This amendment to the English version removes the verb "specify" in the portion of subsection 11.17(2) before paragraph (a) and adds a verb in each of the paragraphs to make the English version consistent with the French version.*
-> *Existing Text*:
-> > The authorization given under subsection (1) shall specify
-> > a description of the dataset;
-> > the manner in which the Service may update the dataset;
-> > the period during which the authorization is valid;
-> > any terms and conditions that the Minister or designated person considers necessary respecting
-> > the querying or exploitation of the dataset, or
-> > the destruction or retention of the dataset or a portion of it; and
-> > any terms and conditions that the Minister or designated person considers advisable in the public interest.
+  establish any terms and conditions that the Minister or designated person considers advisable in the public interest.
 
 ### Section 15
 
@@ -444,54 +364,25 @@ Section 11.18 of the English version of the Act is replaced by the following:
 The Minister or the designated person shall notify the Commissioner of the Minister's authorization under section 11.17 for the purposes of the Commissioner's review and approval under the `Intelligence Commissioner Act`.
 
 
-> **Explanatory Note**:
-> *This amendment removes the words "determination of an" from the English version to make it consistent with the French version.*
-> *Existing Text*:
-> > The Minister or the designated person shall notify the Commissioner of the Minister's determination of an authorization under section 11.17 for the purposes of the Commissioner's review and approval under the `Intelligence Commissioner Act`.
-
-
 ### Citizenship Act
 
 ### Section 16
 
 Subparagraph 2(2)(c)(i) of the `Citizenship Act` is replaced by the following:
 
-unless all rights of review by or appeal to the Immigration Appeal Division of the Immigration and Refugee Board, **the Federal Court**, the Federal Court of Appeal and the Supreme Court of Canada have been exhausted with respect to the order and the final result of those reviews or appeals is that the order has no force or effect, or
-
-
-> **Explanatory Note**:
-> *This amendment corrects an omission. A reference to the "Federal Court" should have been added by way of a consequential amendment when the `Immigration and Refugee Protection Act` was enacted.*
-> *Existing Text*:
-> > For the purposes of this Act,
-> > 
-> > a person against whom a removal order has been made remains under that order
-> > unless all rights of review by or appeal to the Immigration Appeal Division of the Immigration and Refugee Board, the Federal Court of Appeal and the Supreme Court of Canada have been exhausted with respect to the order and the final result of those reviews or appeals is that the order has no force or effect, or
+unless all rights of review by or appeal to the Immigration Appeal Division of the Immigration and Refugee Board, the Federal Court, the Federal Court of Appeal and the Supreme Court of Canada have been exhausted with respect to the order and the final result of those reviews or appeals is that the order has no force or effect, or
 
 ### Section 17
 
 Subsection 3(6.2) of the Act is replaced by the following:
 
-**(6.2)** A person referred to in any of paragraphs (1)(k) to (r) — or a person referred to in paragraph (1)(b) or (g) who is a citizen under that paragraph for the sole reason that one or both of **the** parents are persons referred to in any of paragraphs (1)(k) to (n) — who became a citizen by way of grant before the coming into force of this subsection is deemed, except for the purposes of paragraph (2.1)(b), subsection (2.2), paragraph (2.3)(b), subsection (2.4) and subparagraphs 27**(1)**(j.1)(ii) and (iii), never to have been a citizen by way of grant.
-
-
-> **Explanatory Note**:
-> *This amendment corrects a cross-reference and adds inclusive language. The `Strengthening Canadian Citizenship Act` amended section 27 by adding a subsection (2). Subsection 27(1)(j.1)(ii) was incorrectly cross-referenced in subsection 3(6.2).*
-> *Existing Text*:
-> > A person referred to in any of paragraphs (1)(k) to (r) — or a person referred to in paragraph (1)(b) or (g) who is a citizen under that paragraph for the sole reason that one or both of his or her parents are persons referred to in any of paragraphs (1)(k) to (n) — who became a citizen by way of grant before the coming into force of this subsection is deemed, except for the purposes of paragraph (2.1)(b), subsection (2.2), paragraph (2.3)(b), subsection (2.4) and subparagraphs 27(j.1)(ii) and (iii), never to have been a citizen by way of grant.
+**(6.2)** A person referred to in any of paragraphs (1)(k) to (r) — or a person referred to in paragraph (1)(b) or (g) who is a citizen under that paragraph for the sole reason that one or both of the parents are persons referred to in any of paragraphs (1)(k) to (n) — who became a citizen by way of grant before the coming into force of this subsection is deemed, except for the purposes of paragraph (2.1)(b), subsection (2.2), paragraph (2.3)(b), subsection (2.4) and subparagraphs 27(1)(j.1)(ii) and (iii), never to have been a citizen by way of grant.
 
 ### Section 18
 
 Paragraph 27(1)(c.1) of the Act is replaced by the following:
 
-providing for the circumstances in which an unfulfilled condition referred to in paragraph 5(1)(c), **subsection 5(1.2), paragraph 5**(2)(b) or 11(1)(d) **or subsection 11(1.1)** need not be fulfilled;
-
-
-> **Explanatory Note**:
-> *This amendment adds cross-references that should have been included in paragraph 27(1)(c.1) when it was added to the `Citizenship Act` by the `Strengthening Canadian Citizenship Act`.*
-> *Existing Text*:
-> > The Governor in Council may make regulations
-> > 
-> > providing for the circumstances in which an unfulfilled condition referred to in paragraph 5(1)(c), (2)(b) or 11(1)(d) need not be fulfilled;
+providing for the circumstances in which an unfulfilled condition referred to in paragraph 5(1)(c), subsection 5(1.2), paragraph 5(2)(b) or 11(1)(d) or subsection 11(1.1) need not be fulfilled;
 
 
 ### Competition Act
@@ -500,7 +391,7 @@ providing for the circumstances in which an unfulfilled condition referred to in
 
   **(1)** Paragraph (c) of the definition **judge** in section 30 of the `Competition Act` is replaced by the following:
 
-    in Nova Scotia, British Columbia, Prince Edward Island, **Newfoundland and Labrador**, Yukon and the Northwest Territories, a judge of the Supreme Court, and in Nunavut, a judge of the Nunavut Court of Justice;
+    in Nova Scotia, British Columbia, Prince Edward Island, Newfoundland and Labrador, Yukon and the Northwest Territories, a judge of the Supreme Court, and in Nunavut, a judge of the Nunavut Court of Justice;
 
   **(2)** The definition **judge** in section 30 of the Act is amended by adding "and" at the end of paragraph (d) and by repealing paragraph (e).
 
@@ -511,7 +402,7 @@ providing for the circumstances in which an unfulfilled condition referred to in
 
   **(1)** Paragraph (a) of the definition **court** in subsection 2(1) of the `Companies' Creditors Arrangement Act` is replaced by the following:
 
-    in Nova Scotia, British Columbia, Prince Edward Island and **Newfoundland and Labrador**, the Supreme Court,
+    in Nova Scotia, British Columbia, Prince Edward Island and Newfoundland and Labrador, the Supreme Court,
 
   **(2)** The definition **court** in subsection 2(1) of the Act is amended by adding "and" at the end of paragraph (c) and by repealing paragraph (c.1).
 
@@ -524,7 +415,7 @@ providing for the circumstances in which an unfulfilled condition referred to in
 
   **(2)** Paragraph (b) of the definition **court** in subsection 2(1) of the Act is replaced by the following:
 
-    in the Provinces of Nova Scotia, British Columbia, Prince Edward Island and **Newfoundland and Labrador**, the Supreme Court of the Province,
+    in the Provinces of Nova Scotia, British Columbia, Prince Edward Island and Newfoundland and Labrador, the Supreme Court of the Province,
 
 
 ### Criminal Code
@@ -533,7 +424,7 @@ providing for the circumstances in which an unfulfilled condition referred to in
 
   **(1)** Paragraph (c) of the definition **superior court of criminal jurisdiction** in section 2 of the `Criminal Code` is replaced by the following:
 
-    in the Provinces of Nova Scotia, British Columbia, Prince Edward Island and **Newfoundland and Labrador**, the Court of Appeal or the Supreme Court,
+    in the Provinces of Nova Scotia, British Columbia, Prince Edward Island and Newfoundland and Labrador, the Court of Appeal or the Supreme Court,
 
   **(2)** Paragraph (e) of the definition **superior court of criminal jurisdiction** in section 2 of the Act is replaced by the following:
 
@@ -543,11 +434,11 @@ providing for the circumstances in which an unfulfilled condition referred to in
 
   **(1)** Paragraph (b) of the definition **prohibited device** in subsection 84(1) of the Act is replaced by the following:
 
-    a handgun barrel that is equal to or less than 105 mm in length, but does not include any such handgun barrel that is prescribed, **if** the handgun barrel is for use in international sporting competitions governed by the rules of the International Shooting **Sport Federation**,
+    a handgun barrel that is equal to or less than 105 mm in length, but does not include any such handgun barrel that is prescribed, if the handgun barrel is for use in international sporting competitions governed by the rules of the International Shooting Sport Federation,
 
   **(2)** The portion of paragraph (a) after subparagraph (ii) of the definition **prohibited firearm** in subsection 84(1) of the Act is replaced by the following:
 
-    but does not include any such handgun that is prescribed, **if** the handgun is for use in international sporting competitions governed by the rules of the International Shooting **Sport Federation**,
+    but does not include any such handgun that is prescribed, if the handgun is for use in international sporting competitions governed by the rules of the International Shooting Sport Federation,
 
   **(3)** The definition **superior court** in subsection 84(1) of the Act is amended by adding "and" at the end of paragraph (c) and by replacing paragraphs (d) and (e) with the following:
 
@@ -559,20 +450,11 @@ Paragraphs (c) and (d) of the definition **court** in subsection 164(8) of the A
 
 in the Provinces of Nova Scotia, British Columbia, Prince Edward Island and Newfoundland and Labrador, in Yukon and in the Northwest Territories, the Supreme Court, and
 
-
-> **Explanatory Note**:
-> *This amendment reflects changes to the organization of courts made by provincial legislation (`Court of Appeal Act`, S.N.L. 2017, c. C-37.002).*
-> *Existing Text*:
-> > **court** means
-> > 
-> > in the Province of Newfoundland and Labrador, the Trial Division of the Supreme Court,
-> > in the Provinces of Nova Scotia, British Columbia and Prince Edward Island, in Yukon and in the Northwest Territories, the Supreme Court, and
-
 ### Section 25
 
   **(1)** Paragraph 188(4)(c) of the Act is replaced by the following:
 
-    in the Provinces of Nova Scotia, British Columbia, Prince Edward Island and **Newfoundland and Labrador**, in Yukon and *in* the Northwest Territories, the Chief Justice of the Supreme Court;
+    in the Provinces of Nova Scotia, British Columbia, Prince Edward Island and Newfoundland and Labrador, in Yukon and *in* the Northwest Territories, the Chief Justice of the Supreme Court;
 
   **(2)** Subsection 188(4) of the Act is amended by adding "and" at the end of paragraph (d) and by repealing paragraph (e).
 
@@ -582,28 +464,11 @@ Paragraph 204(8)(e) of the French version of the Act is replaced by the followin
 
 autoriser la tenue de paris mutuels et régir les conditions relatives à la tenue de ces paris, notamment par la délivrance de permis, par une association dans une salle de paris lui appartenant, ou louée par elle, dans toute province où le lieutenant-gouverneur en conseil, ou toute personne ou tout organisme provincial désigné par lui, a, à cette fin, délivré à l'association un permis pour la salle.
 
-
-> **Explanatory Note**:
-> *This amendment corrects a discrepancy between the English and French versions. The French version allows the Minister of Agriculture and Agri-Food to make regulations to "determine" ("déterminer") the conditions for parimutuel betting whereas the English version refers to regulations to "govern" them. The English version expresses the legislator's intent and the French version is amended accordingly. This amendment was proposed by the Standing Joint Committee for the Scrutiny of Regulations.*
-> *Existing Text*:
-> > Le ministre de l'Agriculture et de l'Agroalimentaire peut, par règlement :
-> > 
-> > autoriser et régir, notamment par la délivrance de permis, la tenue de paris mutuels, et déterminer les conditions relatives à la tenue de ces paris, par une association dans une salle de paris lui appartenant, ou louée par elle, dans toute province où le lieutenant-gouverneur en conseil, ou toute personne ou tout organisme provincial désigné par lui, a, à cette fin, délivré à l'association un permis pour la salle.
-
 ### Section 27
 
 Paragraphs (c) and (d) of the definition **court** in subsection 320(8) of the Act are replaced by the following:
 
 in the Provinces of Nova Scotia, British Columbia, Prince Edward Island and Newfoundland and Labrador, in Yukon and in the Northwest Territories, the Supreme Court, and
-
-
-> **Explanatory Note**:
-> *This amendment reflects changes to the organization of courts made by provincial legislation (`Court of Appeal Act`, S.N.L. 2017, c. C-37.002).*
-> *Existing Text*:
-> > **court** means
-> > 
-> > in the Province of Newfoundland and Labrador, the Supreme Court, Trial Division,
-> > in the Provinces of Nova Scotia, British Columbia and Prince Edward Island, in Yukon and in the Northwest Territories, the Supreme Court, and
 
 ### Section 28
 
@@ -611,27 +476,19 @@ Paragraph (h.1) of the definition **judge** in section 552 of the Act is replace
 
 in the Province of Newfoundland and Labrador, a judge of the Supreme Court,
 
-
-> **Explanatory Note**:
-> *This amendment reflects changes to the organization of courts made by provincial legislation (`Court of Appeal Act`, S.N.L. 2017, c. C-37.002).*
-> *Existing Text*:
-> > **judge** means
-> > 
-> > in the Province of Newfoundland and Labrador, a judge of the Trial Division of the Supreme Court,
-
 ### Section 29
 
   **(1)** Paragraph 745.6(3)(c) of the Act is repealed.
 
   **(2)** Paragraph 745.6(3)(e) of the Act is replaced by the following:
 
-    in relation to the Provinces of Nova Scotia, British Columbia, Prince Edward Island and **Newfoundland and Labrador**, the Chief Justice of the Supreme Court; and
+    in relation to the Provinces of Nova Scotia, British Columbia, Prince Edward Island and Newfoundland and Labrador, the Chief Justice of the Supreme Court; and
 
 ### Section 30
 
   **(1)** Paragraph 812(1)(c) of the Act is replaced by the following:
 
-    in the Provinces of Nova Scotia, British Columbia, Prince Edward Island and **Newfoundland and Labrador**, the Supreme Court;
+    in the Provinces of Nova Scotia, British Columbia, Prince Edward Island and Newfoundland and Labrador, the Supreme Court;
 
   **(2)** Paragraph 812(1)(g) of the Act is repealed.
 
@@ -640,25 +497,13 @@ in the Province of Newfoundland and Labrador, a judge of the Supreme Court,
 The reference to "The Trial Division of the Supreme Court" in column II of the schedule to Part XXV of the Act, opposite "Newfoundland and Labrador" in column I, is replaced by a reference to "The Supreme Court".
 
 
-> **Explanatory Note**:
-> *This amendment reflects changes to the organization of courts made by provincial legislation (`Court of Appeal Act`, S.N.L. 2017, c. C-37.002).*
-
-
 ### Federal Courts Act
 
 ### Section 32
 
 Paragraph 28(1)(b) of the `Federal Courts Act` is replaced by the following:
 
-the **Canada Agricultural** Review Tribunal continued by subsection 27(1) of the `Agriculture and Agri-Food Administrative Monetary Penalties Act`;
-
-
-> **Explanatory Note**:
-> *Since 2009, the Review Tribunal has been known under the operational name "Canada Agricultural Review Tribunal", which reflects the Tribunal's mandate more fully and accurately. This amendment is necessary in order to reflect that name change.*
-> *Existing Text*:
-> > The Federal Court of Appeal has jurisdiction to hear and determine applications for judicial review made in respect of any of the following federal boards, commissions or other tribunals:
-> > 
-> > the Review Tribunal continued by subsection 27(1) of the `Agriculture and Agri-Food Administrative Monetary Penalties Act`;
+the Canada Agricultural Review Tribunal continued by subsection 27(1) of the `Agriculture and Agri-Food Administrative Monetary Penalties Act`;
 
 
 ### Feeds Act
@@ -675,13 +520,7 @@ the **Canada Agricultural** Review Tribunal continued by subsection 27(1) of the
 
 Subsection 9(3) of the Act is replaced by the following:
 
-**(3)** **If** the **Canada Agricultural Review** Tribunal decides that a person has committed a violation, or a person is convicted of an offence under this Act, the Tribunal or the convicting court, as the case may be, may, in addition to any penalty or punishment imposed, order that any article by means of or in relation to which the violation or offence was committed be forfeited to **His** Majesty in right of Canada.
-
-
-> **Explanatory Note**:
-> *This amendment is necessary in order to reflect the name change of the Review Tribunal.*
-> *Existing Text*:
-> > Where the Tribunal decides that a person has committed a violation, or a person is convicted of an offence under this Act, the Tribunal or the convicting court, as the case may be, may, in addition to any penalty or punishment imposed, order that any article by means of or in relation to which the violation or offence was committed, be forfeited to Her Majesty in right of Canada.
+**(3)** If the Canada Agricultural Review Tribunal decides that a person has committed a violation, or a person is convicted of an offence under this Act, the Tribunal or the convicting court, as the case may be, may, in addition to any penalty or punishment imposed, order that any article by means of or in relation to which the violation or offence was committed be forfeited to His Majesty in right of Canada.
 
 
 ### Fertilizers Act
@@ -698,13 +537,7 @@ Subsection 9(3) of the Act is replaced by the following:
 
 Subsection 9(3) of the Act is replaced by the following:
 
-**(3)** **If** the **Canada Agricultural Review** Tribunal decides that a person has committed a violation, or a person is convicted of an offence under this Act, the Tribunal or the convicting court, as the case may be, may, in addition to any penalty or punishment imposed, order that any article by means of or in relation to which the violation or offence was committed be forfeited to **His** Majesty in right of Canada.
-
-
-> **Explanatory Note**:
-> *This amendment is necessary in order to reflect the name change of the Review Tribunal.*
-> *Existing Text*:
-> > Where the Tribunal decides that a person has committed a violation, or a person is convicted of an offence under this Act, the Tribunal or the convicting court, as the case may be, may, in addition to any penalty or punishment imposed, order that any article by means of or in relation to which the violation or offence was committed, be forfeited to Her Majesty in right of Canada.
+**(3)** If the Canada Agricultural Review Tribunal decides that a person has committed a violation, or a person is convicted of an offence under this Act, the Tribunal or the convicting court, as the case may be, may, in addition to any penalty or punishment imposed, order that any article by means of or in relation to which the violation or offence was committed be forfeited to His Majesty in right of Canada.
 
 
 ### Financial Administration Act
@@ -715,7 +548,7 @@ Subsection 9(3) of the Act is replaced by the following:
 
   **(2)** Paragraph 118(2)(d) of the Act is replaced by the following:
 
-    in the Provinces of Nova Scotia, British Columbia, Prince Edward Island and **Newfoundland and Labrador**, the Supreme Court of the Province; and
+    in the Provinces of Nova Scotia, British Columbia, Prince Edward Island and Newfoundland and Labrador, the Supreme Court of the Province; and
 
 
 ### Fisheries Act
@@ -727,28 +560,13 @@ Paragraphs (c) and (d) of the definition **judge** in section 74 of the `Fisheri
 in the Provinces of Nova Scotia, British Columbia, Prince Edward Island and Newfoundland and Labrador, in Yukon and in the Northwest Territories, a judge of the Supreme Court, and
 
 
-> **Explanatory Note**:
-> *This amendment reflects changes to the organization of courts made by provincial legislation (`Court of Appeal Act`, S.N.L. 2017, c. C-37.002).*
-> *Existing Text*:
-> > **judge** means
-> > 
-> > in the Province of Newfoundland and Labrador, a judge of the Trial Division of the Supreme Court,
-> > in the Provinces of Nova Scotia, British Columbia and Prince Edward Island, Yukon and the Northwest Territories, a judge of the Supreme Court, and
-
-
 ### Canadian Human Rights Act
 
 ### Section 39
 
 Subsection 42(2) of the `Canadian Human Rights Act` is replaced by the following:
 
-**(2)** Before deciding that a complaint will not be dealt with because a procedure referred to in paragraph 41**(1)**(a) has not been exhausted, the Commission shall satisfy itself that the failure to exhaust the procedure was attributable to the complainant and not to another.
-
-
-> **Explanatory Note**:
-> *This amendment corrects an incorrect cross-reference. The `Employment Equity Act` (1995, c. 44, s. 49) divided s. 41 into subsections and the necessary consequential amendment to subsection 42(2) was never made. The cross-reference should read 41(1)(a) not 41(a).*
-> *Existing Text*:
-> > Before deciding that a complaint will not be dealt with because a procedure referred to in paragraph 41(a) has not been exhausted, the Commission shall satisfy itself that the failure to exhaust the procedure was attributable to the complainant and not to another.
+**(2)** Before deciding that a complaint will not be dealt with because a procedure referred to in paragraph 41(1)(a) has not been exhausted, the Commission shall satisfy itself that the failure to exhaust the procedure was attributable to the complainant and not to another.
 
 
 ### Indian Act
@@ -760,15 +578,6 @@ Paragraphs 14.3(5)(c) and (d) of the `Indian Act` are replaced by the following:
 in the Province of Nova Scotia, British Columbia, Prince Edward Island or Newfoundland and Labrador, in Yukon or in the Northwest Territories, before the Supreme Court; or
 
 
-> **Explanatory Note**:
-> *This amendment reflects changes to the organization of courts made by provincial legislation (`Court of Appeal Act`, S.N.L. 2017, c. C-37.002).*
-> *Existing Text*:
-> > An appeal may be heard under this section
-> > 
-> > in the Province of Newfoundland and Labrador, before the Trial Division of the Supreme Court;
-> > in the Province of Nova Scotia, British Columbia or Prince Edward Island, in Yukon or in the Northwest Territories, before the Supreme Court; or
-
-
 ### Interpretation Act
 
 ### Section 41
@@ -777,7 +586,7 @@ in the Province of Nova Scotia, British Columbia, Prince Edward Island or Newfou
 
   **(2)** Paragraph (d) of the definition **superior court** in subsection 35(1) of the Act is replaced by the following:
 
-    in the Provinces of Nova Scotia, British Columbia, Prince Edward Island and **Newfoundland and Labrador**, the Court of Appeal and the Supreme Court of the Province, and
+    in the Provinces of Nova Scotia, British Columbia, Prince Edward Island and Newfoundland and Labrador, the Court of Appeal and the Supreme Court of the Province, and
 
 
 ### Judges Act
@@ -788,15 +597,15 @@ in the Province of Nova Scotia, British Columbia, Prince Edward Island or Newfou
 
 ### Section 21
 
-    The yearly salaries of the judges of the **Court of Appeal of Newfoundland and Labrador and of the** Supreme Court of Newfoundland and Labrador are as follows:
+    The yearly salaries of the judges of the Court of Appeal of Newfoundland and Labrador and of the Supreme Court of Newfoundland and Labrador are as follows:
 
   **(2)** Paragraphs 21(b) to (d) of the Act are replaced by the following:
 
-    the five *other* Judges of **the Court of** Appeal, $338,800 each;
+    the five *other* Judges of the Court of Appeal, $338,800 each;
 
-    the Chief Justice and the Associate Chief Justice of the **Supreme Court**, $371,400; and
+    the Chief Justice and the Associate Chief Justice of the Supreme Court, $371,400; and
 
-    the 18 other judges of the **Supreme Court**, $338,800 each.
+    the 18 other judges of the Supreme Court, $338,800 each.
 
 
 ### Merchant Seamen Compensation Act
@@ -808,47 +617,19 @@ Paragraph 21(c) of the `Merchant Seamen Compensation Act` is replaced by the fol
 if the employer resides or carries on business in the Province of Newfoundland and Labrador, the clerk of the Supreme Court of Newfoundland and Labrador,
 
 
-> **Explanatory Note**:
-> *This amendment reflects changes to the organization of courts made by provincial legislation (`Court of Appeal Act`, S.N.L. 2017, c. C-37.002).*
-> *Existing Text*:
-> > An order of the Minister for the payment of compensation by an employer or any other order of the Minister for the payment of money under this Act, or a copy of the order that is certified to be a true copy by a person who is duly authorized by the Minister, may be filed with
-> > 
-> > if the employer resides or carries on business in the Province of Newfoundland and Labrador, the clerk of the Trial Division of the Supreme Court of Newfoundland and Labrador,
-> > 
-> > and may be enforced as a judgment of that Court.
-
-
 ### Public Service Superannuation Act
 
 ### Section 44
 
 Paragraph 8(5)(a) of the French version of the `Public Service Superannuation Act` is replaced by the following:
 
-fait un choix en vertu de l'une de ces lois, avec l'intention de se conformer aux dispositions de cette loi et des règlements pris en vertu de celle-ci, que ce choix a été fait en toute bonne foi et qu'il était **nul** seulement en raison de circonstances non attribuables à une faute de cette personne;
-
-
-> **Explanatory Note**:
-> *This amendment corrects an error in the French version to make it consistent with the English version. The English version creates a coherent legal fiction while the French version creates one that is nonsensical.*
-> *Existing Text*:
-> > Nonobstant les autres dispositions de la présente loi ou de la `Loi sur la pension de retraite`, lorsque le gouverneur en conseil est d'avis qu'une personne a, selon le cas :
-> > 
-> > cette personne est réputée avoir fait un choix valide pour l'application des dispositions pertinentes de la présente loi ou de la `Loi sur la pension de retraite`, selon le cas, à une date et selon les modalités que le gouverneur en conseil peut prescrire.
+fait un choix en vertu de l'une de ces lois, avec l'intention de se conformer aux dispositions de cette loi et des règlements pris en vertu de celle-ci, que ce choix a été fait en toute bonne foi et qu'il était nul seulement en raison de circonstances non attribuables à une faute de cette personne;
 
 ### Section 45
 
 Subparagraph 11(1)(b)(iii) of the French version of the Act is replaced by the following:
 
-le **taux** annuel **de** traitement fixé par les règlements pris en vertu de l'alinéa 42.1(1)a), ou déterminé de la manière prévue par ces règlements, et en vigueur à la date où le contributeur a cessé en dernier lieu d'être employé dans la fonction publique.
-
-
-> **Explanatory Note**:
-> *This amendment corrects a terminological error in order to ensure internal consistency in the French version; the French equivalent of "annual rate of salary" is "taux annuel de traitement" in the other provisions of the Act.*
-> *Existing Text*:
-> > Le montant de toute pension à laquelle un contributeur peut devenir admissible en vertu de la présente partie est un montant égal au total des produits suivants :
-> > 
-> > le produit du sous-alinéa (i) par le moindre des sous-alinéas (ii) ou (iii) :
-> > 
-> > le traitement annuel moyen fixé par les règlements pris en vertu de l'alinéa 42.1(1)a), ou déterminé de la manière prévue par ces règlements, et en vigueur à la date où le contributeur a cessé en dernier lieu d'être employé dans la fonction publique.
+le taux annuel de traitement fixé par les règlements pris en vertu de l'alinéa 42.1(1)a), ou déterminé de la manière prévue par ces règlements, et en vigueur à la date où le contributeur a cessé en dernier lieu d'être employé dans la fonction publique.
 
 
 ### Seeds Act
@@ -865,13 +646,7 @@ le **taux** annuel **de** traitement fixé par les règlements pris en vertu de 
 
 Subsection 8(3) of the Act is replaced by the following:
 
-**(3)** **If** the **Canada Agricultural Review** Tribunal decides that a person has committed a violation, or a person is convicted of an offence under this Act, the Tribunal or the convicting court, as the case may be, may, in addition to any penalty or punishment imposed, order that any seed or package by means of or in relation to which the violation or offence was committed be forfeited to **His** Majesty in right of Canada.
-
-
-> **Explanatory Note**:
-> *This amendment is necessary in order to reflect the name change of the Review Tribunal.*
-> *Existing Text*:
-> > Where the Tribunal decides that a person has committed a violation, or a person is convicted of an offence under this Act, the Tribunal or the convicting court, as the case may be, may, in addition to any penalty or punishment imposed, order that any seed or package by means of or in relation to which the violation or offence was committed be forfeited to Her Majesty in right of Canada.
+**(3)** If the Canada Agricultural Review Tribunal decides that a person has committed a violation, or a person is convicted of an offence under this Act, the Tribunal or the convicting court, as the case may be, may, in addition to any penalty or punishment imposed, order that any seed or package by means of or in relation to which the violation or offence was committed be forfeited to His Majesty in right of Canada.
 
 
 ### Department of Transport Act
@@ -881,24 +656,13 @@ Subsection 8(3) of the Act is replaced by the following:
 Section 12 of the `Department of Transport Act` is repealed.
 
 
-> **Explanatory Note**:
-> *This amendment repeals section 12, which is unnecessary as it predates section 24 of the `Interpretation Act`, which, among other things, provides for the exercise of delegated ministerial powers.*
-> *Existing Text*:
-> > No deed, contract, document or writing relating to any matter under the control or direction of the Minister shall be binding on Her Majesty unless
-> > it is signed by the Minister;
-> > it is signed by the Deputy Minister and countersigned by the Secretary; or
-> > it is signed by a person specially authorized in writing by the Minister for that purpose.
-> > The authorization given by the Minister under paragraph (1)(c) to a person professing to act for the Minister shall not be called in question except by the Minister or by a person acting for the Minister or for Her Majesty.
-> > This section does not apply in respect of any instrument or act the execution of which is provided for by or under the `Federal Real Property and Federal Immovables Act`.
-
-
 ### Winding-up and Restructuring Act
 
 ### Section 49
 
   **(1)** Paragraph (a) of the definition **court** in subsection 2(1) of the `Winding-up and Restructuring Act` is replaced by the following:
 
-    in Nova Scotia, British Columbia, Prince Edward Island and **Newfoundland and Labrador**, the Supreme Court,
+    in Nova Scotia, British Columbia, Prince Edward Island and Newfoundland and Labrador, the Supreme Court,
 
   **(2)** The definition **court** in subsection 2(1) of the Act is amended by adding "and" at the end of paragraph (c) and by repealing paragraph (c.1).
 
@@ -909,7 +673,7 @@ Section 12 of the `Department of Transport Act` is repealed.
 
   **(1)** Paragraph (c) of the definition **court** in subsection 71(2) of the `Customs Act` is replaced by the following:
 
-    in the Provinces of Nova Scotia, British Columbia, Prince Edward Island and Newfoundland **and Labrador**, in Yukon and **in** the Northwest Territories, the Supreme Court,
+    in the Provinces of Nova Scotia, British Columbia, Prince Edward Island and Newfoundland and Labrador, in Yukon and in the Northwest Territories, the Supreme Court,
 
   **(2)** The definition **court** in subsection 71(2) of the Act is amended by adding "and" at the end of paragraph (d) and by repealing paragraph (f).
 
@@ -917,7 +681,7 @@ Section 12 of the `Department of Transport Act` is repealed.
 
   **(1)** Paragraph 139.1(2)(c) of the Act is replaced by the following:
 
-    in the Provinces of Nova Scotia, British Columbia, Prince Edward Island and **Newfoundland and Labrador, in** Yukon and **in** the Northwest Territories, the Supreme Court;
+    in the Provinces of Nova Scotia, British Columbia, Prince Edward Island and Newfoundland and Labrador, in Yukon and in the Northwest Territories, the Supreme Court;
 
   **(2)** Subsection 139.1(2) of the Act is amended by adding "and" at the end of paragraph (d) and by repealing paragraph (e).
 
@@ -930,7 +694,7 @@ Section 12 of the `Department of Transport Act` is repealed.
 
   **(2)** Paragraph (c) of the definition **court** in subsection 2(1) of the Act is replaced by the following:
 
-    for the Provinces of Nova Scotia, British Columbia, Prince Edward Island and **Newfoundland and Labrador**, the Supreme Court of the Province,
+    for the Provinces of Nova Scotia, British Columbia, Prince Edward Island and Newfoundland and Labrador, the Supreme Court of the Province,
 
 
 ### Pension Benefits Standards Act, 1985
@@ -939,13 +703,7 @@ Section 12 of the `Department of Transport Act` is repealed.
 
 The portion of subsection 4(2) of the French version of the `Pension Benefits Standards Act, 1985` before paragraph (a) is replaced by the following:
 
-**(2)** Pour l'application de la présente loi, **régime de pension** s'entend d'un régime de retraite ou autre institué et géré en vue d'assurer des prestations de pension aux salariés occupant un emploi inclus ainsi qu'aux anciens salariés, que le régime prévoie ou non d'autres prestations ou le paiement de prestations à d'autres personnes, et au titre duquel et conformément auquel l'employeur est tenu d'y verser des cotisations; est assimilé à un régime de pension tout régime complémentaire, **que** l'employeur **soit** tenu **ou non** d'y verser des cotisations, au titre **de ce régime** ou conformément **à celui-ci**, mais non :
-
-
-> **Explanatory Note**:
-> *This amendment corrects a discrepancy between the English and French versions. It is unclear in the French version of the definition "pension plan" that it includes supplemental pension plans whether or not the employer is required to make contributions. The English version expresses the legislator's intent and the French version is amended accordingly.*
-> *Existing Text*:
-> > Pour l'application de la présente loi, **régime de pension** s'entend d'un régime de retraite ou autre institué et géré en vue d'assurer des prestations de pension aux salariés occupant un emploi inclus ainsi qu'aux anciens salariés, que le régime prévoie ou non d'autres prestations ou le paiement de prestations à d'autres personnes, et au titre duquel et conformément auquel l'employeur est tenu d'y verser des cotisations; est assimilé à un régime de pension tout régime complémentaire, au titre duquel ou conformément auquel l'employeur est tenu d'y verser des cotisations, mais non :
+**(2)** Pour l'application de la présente loi, **régime de pension** s'entend d'un régime de retraite ou autre institué et géré en vue d'assurer des prestations de pension aux salariés occupant un emploi inclus ainsi qu'aux anciens salariés, que le régime prévoie ou non d'autres prestations ou le paiement de prestations à d'autres personnes, et au titre duquel et conformément auquel l'employeur est tenu d'y verser des cotisations; est assimilé à un régime de pension tout régime complémentaire, que l'employeur soit tenu ou non d'y verser des cotisations, au titre de ce régime ou conformément à celui-ci, mais non :
 
 
 ### Mutual Legal Assistance in Criminal Matters Act
@@ -956,7 +714,7 @@ The portion of subsection 4(2) of the French version of the `Pension Benefits St
 
   **(2)** The definition **judge** in subsection 2(1) of the Act is amended by striking out "and" at the end of paragraph (c) and by replacing paragraph (d) with the following:
 
-    in Nova Scotia, British Columbia, **Prince Edward Island**, Newfoundland **and Labrador**, Yukon and the Northwest Territories, a judge of the Supreme Court, **and**
+    in Nova Scotia, British Columbia, Prince Edward Island, Newfoundland and Labrador, Yukon and the Northwest Territories, a judge of the Supreme Court, and
 
     in Nunavut, a judge of the Nunavut Court of Justice; (**juge**)
 
@@ -970,28 +728,13 @@ Paragraphs (a.1) and (b) of the definition **superior court** in subsection 4(1)
 in the Provinces of Nova Scotia, British Columbia, Prince Edward Island and Newfoundland and Labrador, the Supreme Court of the Province,
 
 
-> **Explanatory Note**:
-> *This amendment reflects changes to the organization of courts made by provincial legislation (`Court of Appeal Act`, S.N.L. 2017, c. C-37.002).*
-> *Existing Text*:
-> > **superior court** means
-> > 
-> > in the Province of Newfoundland and Labrador, the Trial Division of the Supreme Court of the Province,
-> > in the Provinces of Nova Scotia, British Columbia and Prince Edward Island, the Supreme Court of the Province,
-
-
 ### Canadian Transportation Accident Investigation and Safety Board Act
 
 ### Section 56
 
 Subsection 18(4) of the French version of the `Canadian Transportation Accident Investigation and Safety Board Act` is replaced by the following:
 
-**(4)** Le Bureau et soit le ministre de la Défense nationale, soit **l'autorité** des enquêtes sur la navigabilité **désignée** en vertu de l'article 12 de la `Loi sur l'aéronautique` sont tenus de veiller, dans la mesure du possible, à la coordination des enquêtes sur les accidents de transport visés au paragraphe (3) qui sont menées par le Bureau et par le ministère de la Défense nationale, les Forces canadiennes ou une force étrangère présente au Canada.
-
-
-> **Explanatory Note**:
-> *The replacement of "directeur" by "autorité" in the French version is needed in order to avoid confusion between the position of "directeur des enquête sur la navigabilité" with other positions of directors at lower levels of the military or ministerial hierarchy.*
-> *Existing Text*:
-> > Le Bureau et soit le ministre de la Défense nationale, soit le directeur des enquêtes sur la navigabilité désigné en vertu de l'article 12 de la `Loi sur l'aéronautique` sont tenus de veiller, dans la mesure du possible, à la coordination des enquêtes sur les accidents de transport visés au paragraphe (3) qui sont menées par le Bureau et par le ministère de la Défense nationale, les Forces canadiennes ou une force étrangère présente au Canada.
+**(4)** Le Bureau et soit le ministre de la Défense nationale, soit l'autorité des enquêtes sur la navigabilité désignée en vertu de l'article 12 de la `Loi sur l'aéronautique` sont tenus de veiller, dans la mesure du possible, à la coordination des enquêtes sur les accidents de transport visés au paragraphe (3) qui sont menées par le Bureau et par le ministère de la Défense nationale, les Forces canadiennes ou une force étrangère présente au Canada.
 
 
 ### Health of Animals Act
@@ -1008,11 +751,11 @@ Subsection 18(4) of the French version of the `Canadian Transportation Accident 
 
   **(1)** Subsection 45(2) of the Act is replaced by the following:
 
-    **(2)** If proceedings are instituted in relation to an animal or thing seized under this Act and it has not been disposed of or forfeited under this Act, the owner of the animal or thing or the person having the possession, care or control of it at the time of its seizure may apply for an order that it be returned. The application may be made, in the case of a violation, to the **Canada Agricultural Review** Tribunal or, in the case of an offence, to the court before which the proceedings are being held.
+    **(2)** If proceedings are instituted in relation to an animal or thing seized under this Act and it has not been disposed of or forfeited under this Act, the owner of the animal or thing or the person having the possession, care or control of it at the time of its seizure may apply for an order that it be returned. The application may be made, in the case of a violation, to the Canada Agricultural Review Tribunal or, in the case of an offence, to the court before which the proceedings are being held.
 
   **(2)** Subsection 45(3) of the English version of the Act is replaced by the following:
 
-    **(3)** The **Canada Agricultural Review** Tribunal or court, as the case may be, may order that the animal or thing be returned to the applicant, subject to such conditions as the Tribunal or court may impose to ensure that it is preserved for any purpose for which it may subsequently be required, **if** the Tribunal or court is satisfied that sufficient evidence exists or may reasonably be obtained without detaining the animal or thing and that it is not, or is not suspected of being, affected or contaminated by a disease or toxic substance.
+    **(3)** The Canada Agricultural Review Tribunal or court, as the case may be, may order that the animal or thing be returned to the applicant, subject to such conditions as the Tribunal or court may impose to ensure that it is preserved for any purpose for which it may subsequently be required, if the Tribunal or court is satisfied that sufficient evidence exists or may reasonably be obtained without detaining the animal or thing and that it is not, or is not suspected of being, affected or contaminated by a disease or toxic substance.
 
 ### Section 59
 
@@ -1020,13 +763,7 @@ Subsection 46(1) of the Act is replaced by the following:
 
 ### Section 46
 
-  **(1)** **If** the **Canada Agricultural Review** Tribunal decides that a person has committed a violation, or a person is convicted of an offence under this Act, the Tribunal or the convicting court, as the case may be, may, on its own motion or at the request of any party to the proceedings, in addition to any penalty or punishment imposed, order that any animal or thing by means of or in relation to which the violation or offence was committed, or any proceeds realized from its disposition, be forfeited to **His** Majesty in right of Canada.
-
-
-> **Explanatory Note**:
-> *This amendment is necessary in order to reflect the name change of the Review Tribunal.*
-> *Existing Text*:
-> > Where the Tribunal decides that a person has committed a violation, or a person is convicted of an offence under this Act, the Tribunal or the convicting court, as the case may be, may, on its own motion or at the request of any party to the proceedings, in addition to any penalty or punishment imposed, order that any animal or thing by means of or in relation to which the violation or offence was committed, or any proceeds realized from its disposition, be forfeited to Her Majesty in right of Canada.
+  **(1)** If the Canada Agricultural Review Tribunal decides that a person has committed a violation, or a person is convicted of an offence under this Act, the Tribunal or the convicting court, as the case may be, may, on its own motion or at the request of any party to the proceedings, in addition to any penalty or punishment imposed, order that any animal or thing by means of or in relation to which the violation or offence was committed, or any proceeds realized from its disposition, be forfeited to His Majesty in right of Canada.
 
 ### Section 60
 
@@ -1034,13 +771,13 @@ Subsection 46(1) of the Act is replaced by the following:
 
 ### Section 47
 
-      **(1)** If the **Canada Agricultural Review** Tribunal or the court, as the case may be, orders the forfeiture of an animal or thing under subsection 46(1), the animal or thing shall be disposed of as the Minister may direct.
+      **(1)** If the Canada Agricultural Review Tribunal or the court, as the case may be, orders the forfeiture of an animal or thing under subsection 46(1), the animal or thing shall be disposed of as the Minister may direct.
 
-      **(2)** **If** the **Canada Agricultural Review** Tribunal or court, as the case may be, does not order the forfeiture of an animal or thing, it or any proceeds realized from its disposition shall be returned to **its** owner or the person having the possession, care or control of it at the time of its seizure.
+      **(2)** If the Canada Agricultural Review Tribunal or court, as the case may be, does not order the forfeiture of an animal or thing, it or any proceeds realized from its disposition shall be returned to its owner or the person having the possession, care or control of it at the time of its seizure.
 
   **(2)** The portion of subsection 47(3) of the English version of the Act before paragraph (a) is replaced by the following:
 
-    **(3)** **If** the **Canada Agricultural Review** Tribunal decides that the owner of an animal or thing or the person having the possession, care or control of it at the time of its seizure has committed a violation, or the owner of an animal or thing or the person having the possession, care or control of it at the time of its seizure is convicted of an offence under this Act, and a penalty or fine, as the case may be, is imposed,
+    **(3)** If the Canada Agricultural Review Tribunal decides that the owner of an animal or thing or the person having the possession, care or control of it at the time of its seizure has committed a violation, or the owner of an animal or thing or the person having the possession, care or control of it at the time of its seizure is convicted of an offence under this Act, and a penalty or fine, as the case may be, is imposed,
 
 
 ### Plant Protection Act
@@ -1057,11 +794,11 @@ Subsection 46(1) of the Act is replaced by the following:
 
   **(1)** Subsection 32(2) of the Act is replaced by the following:
 
-    **(2)** If proceedings are instituted in relation to a thing seized under this Act and it has not been disposed of or forfeited under this Act, the owner of the thing or the person having the possession, care or control of it at the time of its seizure may apply for an order that it be returned. The application may be made, in the case of a violation, to the **Canada Agricultural Review** Tribunal or, in the case of an offence, to the court before which the proceedings are being held.
+    **(2)** If proceedings are instituted in relation to a thing seized under this Act and it has not been disposed of or forfeited under this Act, the owner of the thing or the person having the possession, care or control of it at the time of its seizure may apply for an order that it be returned. The application may be made, in the case of a violation, to the Canada Agricultural Review Tribunal or, in the case of an offence, to the court before which the proceedings are being held.
 
   **(2)** Subsection 32(3) of the English version of the Act is replaced by the following:
 
-    **(3)** The **Canada Agricultural Review** Tribunal or court, as the case may be, may order that the thing be returned to the applicant, subject to such conditions as the Tribunal or court may impose to ensure that it is preserved for any purpose for which it may subsequently be required, **if** the Tribunal or court is satisfied that sufficient evidence exists or may reasonably be obtained without detaining the thing and that it is not a pest, is not infested with a pest and does not constitute a biological obstacle to the control of a pest.
+    **(3)** The Canada Agricultural Review Tribunal or court, as the case may be, may order that the thing be returned to the applicant, subject to such conditions as the Tribunal or court may impose to ensure that it is preserved for any purpose for which it may subsequently be required, if the Tribunal or court is satisfied that sufficient evidence exists or may reasonably be obtained without detaining the thing and that it is not a pest, is not infested with a pest and does not constitute a biological obstacle to the control of a pest.
 
 ### Section 63
 
@@ -1069,13 +806,7 @@ Subsection 33(1) of the Act is replaced by the following:
 
 ### Section 33
 
-  **(1)** **If** the **Canada Agricultural Review** Tribunal decides that a person has committed a violation, or a person is convicted of an offence under this Act, the Tribunal or the convicting court, as the case may be, may, on its own motion or at the request of any party to the proceedings, in addition to any penalty or punishment imposed, order that any thing by means of or in relation to which the violation or offence was committed, or any proceeds realized from its disposition, be forfeited to **His** Majesty in right of Canada.
-
-
-> **Explanatory Note**:
-> *This amendment is necessary in order to reflect the name change of the Review Tribunal.*
-> *Existing Text*:
-> > Where the Tribunal decides that a person has committed a violation, or a person is convicted of an offence under this Act, the Tribunal or the convicting court, as the case may be, may, on its own motion or at the request of any party to the proceedings, in addition to any penalty or punishment imposed, order that any thing by means of or in relation to which the violation or offence was committed, or any proceeds realized from its disposition, be forfeited to Her Majesty in right of Canada.
+  **(1)** If the Canada Agricultural Review Tribunal decides that a person has committed a violation, or a person is convicted of an offence under this Act, the Tribunal or the convicting court, as the case may be, may, on its own motion or at the request of any party to the proceedings, in addition to any penalty or punishment imposed, order that any thing by means of or in relation to which the violation or offence was committed, or any proceeds realized from its disposition, be forfeited to His Majesty in right of Canada.
 
 ### Section 64
 
@@ -1083,13 +814,13 @@ Subsection 33(1) of the Act is replaced by the following:
 
 ### Section 34
 
-      **(1)** If the **Canada Agricultural Review** Tribunal or the court, as the case may be, orders the forfeiture of a thing under subsection 33(1), the thing shall be disposed of as the Minister may direct.
+      **(1)** If the Canada Agricultural Review Tribunal or the court, as the case may be, orders the forfeiture of a thing under subsection 33(1), the thing shall be disposed of as the Minister may direct.
 
-      **(2)** **If** the **Canada Agricultural Review** Tribunal or court, as the case may be, does not order the forfeiture of a thing, it or any proceeds realized from its disposition shall be returned to the owner of the thing or the person having the possession, care or control of it at the time of its seizure.
+      **(2)** If the Canada Agricultural Review Tribunal or court, as the case may be, does not order the forfeiture of a thing, it or any proceeds realized from its disposition shall be returned to the owner of the thing or the person having the possession, care or control of it at the time of its seizure.
 
   **(2)** The portion of subsection 34(3) of the English version of the Act before paragraph (a) is replaced by the following:
 
-    **(3)** **If** the **Canada Agricultural Review** Tribunal decides that the owner of a thing or the person having the possession, care or control of it at the time of its seizure has committed a violation, or the owner of a thing or the person having the possession, care or control of it at the time of its seizure is convicted of an offence under this Act, and a penalty or fine, as the case may be, is imposed,
+    **(3)** If the Canada Agricultural Review Tribunal decides that the owner of a thing or the person having the possession, care or control of it at the time of its seizure has committed a violation, or the owner of a thing or the person having the possession, care or control of it at the time of its seizure is convicted of an offence under this Act, and a penalty or fine, as the case may be, is imposed,
 
 
 ### Trust and Loan Companies Act
@@ -1100,7 +831,7 @@ Subsection 33(1) of the Act is replaced by the following:
 
   **(2)** Paragraph (c) of the definition **court** in section 2 of the Act is replaced by the following:
 
-    in the Provinces of Nova Scotia, British Columbia, Prince Edward Island and **Newfoundland and Labrador**, the Supreme Court of the Province,
+    in the Provinces of Nova Scotia, British Columbia, Prince Edward Island and Newfoundland and Labrador, the Supreme Court of the Province,
 
   **(3)** The definition **court** in section 2 of the Act is amended by adding "and" at the end of paragraph (d) and by repealing paragraph (e).
 
@@ -1112,13 +843,7 @@ Subsection 33(1) of the Act is replaced by the following:
 
 Subsection 328(2) of the French version of the Act is replaced by the following:
 
-**(2)** Sauf spécification contraire du surintendant, **l'auditeur** applique les normes **d'audit** généralement reconnues et principalement celles qui sont énoncées dans le Manuel de Comptables professionnels agréés du Canada.
-
-
-> **Explanatory Note**:
-> *This amendment to the French version is necessary in order to reflect the change in terminology in ISA standards to use the French terms audit", "auditeur" and "auditer" for the English terms "audit" and "auditor".*
-> *Existing Text*:
-> > Sauf spécification contraire du surintendant, le vérificateur applique les normes de vérification généralement reconnues et principalement celles qui sont énoncées dans le Manuel de Comptables professionnels agréés du Canada.
+**(2)** Sauf spécification contraire du surintendant, l'auditeur applique les normes d'audit généralement reconnues et principalement celles qui sont énoncées dans le Manuel de Comptables professionnels agréés du Canada.
 
 ### Section 67
 
@@ -1126,16 +851,9 @@ Subsections 330(1) and (2) of the French version of the Act are replaced by the 
 
 ### Section 330
 
-  **(1)** Le surintendant peut exiger, par écrit, que **l'auditeur** de la société lui fasse rapport sur le type de procédure utilisé lors de **son audit** du rapport annuel; il peut en outre lui demander, par écrit, d'étendre la portée de **son audit** et lui ordonner de mettre en oeuvre, dans certains cas, d'autres types de procédure. **L'auditeur** est tenu de se conformer aux demandes du surintendant et de lui faire rapport à ce sujet.
+  **(1)** Le surintendant peut exiger, par écrit, que l'auditeur de la société lui fasse rapport sur le type de procédure utilisé lors de son audit du rapport annuel; il peut en outre lui demander, par écrit, d'étendre la portée de son audit et lui ordonner de mettre en oeuvre, dans certains cas, d'autres types de procédure. L'auditeur est tenu de se conformer aux demandes du surintendant et de lui faire rapport à ce sujet.
 
-  **(2)** Le surintendant peut exiger, par écrit, que **l'auditeur** de la société procède à **un audit spécial** visant à déterminer si la méthode utilisée par la société pour sauvegarder les intérêts de ses créanciers et de ses actionnaires est adéquate, ainsi qu'à **tout** autre **audit rendu** nécessaire, à son avis, par l'intérêt public, et lui fasse rapport à ce sujet.
-
-
-> **Explanatory Note**:
-> *This amendment to the French version is necessary in order to reflect the change in terminology in ISA standards to use the French terms "audit", "auditeur" and "auditer" for the English terms "audit" and "auditor".*
-> *Existing Text*:
-> > Le surintendant peut exiger, par écrit, que le vérificateur de la société lui fasse rapport sur le type de procédure utilisé lors de sa vérification du rapport annuel; il peut en outre lui demander, par écrit, d'étendre la portée de sa vérification et lui ordonner de mettre en oeuvre, dans certains cas, d'autres types de procédure. Le vérificateur est tenu de se conformer aux demandes du surintendant et de lui faire rapport à ce sujet.
-> > Le surintendant peut exiger, par écrit, que le vérificateur de la société procède à une vérification spéciale visant à déterminer si la méthode utilisée par la société pour sauvegarder les intérêts de ses créanciers et de ses actionnaires est adéquate, ainsi qu'à toute autre vérification rendue nécessaire, à son avis, par l'intérêt public, et lui fasse rapport à ce sujet.
+  **(2)** Le surintendant peut exiger, par écrit, que l'auditeur de la société procède à un audit spécial visant à déterminer si la méthode utilisée par la société pour sauvegarder les intérêts de ses créanciers et de ses actionnaires est adéquate, ainsi qu'à tout autre audit rendu nécessaire, à son avis, par l'intérêt public, et lui fasse rapport à ce sujet.
 
 ### Section 68
 
@@ -1143,25 +861,13 @@ Subsection 332(1) of the French version of the Act is replaced by the following:
 
 ### Section 332
 
-  **(1)** Si les actionnaires l'exigent, **l'auditeur** de la société **audite** tout état financier qui leur est soumis par le conseil d'administration; le rapport qu'il leur fait doit indiquer si, de l'avis **de l'auditeur**, l'état financier présente fidèlement les renseignements demandés.
-
-
-> **Explanatory Note**:
-> *This amendment to the French version is necessary in order to reflect the change in terminology in ISA standards to use the French terms "audit", "auditeur" and "auditer" for the English terms "audit" and "auditor".*
-> *Existing Text*:
-> > Si les actionnaires l'exigent, le vérificateur de la société vérifie tout état financier qui leur est soumis par le conseil d'administration; le rapport qu'il leur fait doit indiquer si, de l'avis du vérificateur, l'état financier présente fidèlement les renseignements demandés.
+  **(1)** Si les actionnaires l'exigent, l'auditeur de la société audite tout état financier qui leur est soumis par le conseil d'administration; le rapport qu'il leur fait doit indiquer si, de l'avis de l'auditeur, l'état financier présente fidèlement les renseignements demandés.
 
 ### Section 69
 
 Subsection 333(2) of the French version of the Act is replaced by the following:
 
-**(2)** **L'auditeur** transmet son rapport au premier dirigeant et au directeur financier de la société et en fournit simultanément un exemplaire au comité **d'audit** et au surintendant; le rapport est en outre présenté à la réunion suivante du conseil d'administration et il fait partie du procès-verbal de cette réunion.
-
-
-> **Explanatory Note**:
-> *This amendment to the French version is necessary in order to reflect the change in terminology in ISA standards to use the French terms "audit", "auditeur" and "auditer" for the English terms "audit" and "auditor".*
-> *Existing Text*:
-> > Le vérificateur transmet son rapport au premier dirigeant et au directeur financier de la société et en fournit simultanément un exemplaire au comité de vérification et au surintendant; le rapport est en outre présenté à la réunion suivante du conseil d'administration et il fait partie du procès-verbal de cette réunion.
+**(2)** L'auditeur transmet son rapport au premier dirigeant et au directeur financier de la société et en fournit simultanément un exemplaire au comité d'audit et au surintendant; le rapport est en outre présenté à la réunion suivante du conseil d'administration et il fait partie du procès-verbal de cette réunion.
 
 ### Section 70
 
@@ -1169,16 +875,9 @@ Section 335 of the French version of the Act is replaced by the following:
 
 ### Section 335
 
-  **(1)** **L'auditeur** a droit aux avis des réunions des comités **d'audit** et de révision de la société et peut y assister aux frais de celle-ci et y être entendu.
+  **(1)** L'auditeur a droit aux avis des réunions des comités d'audit et de révision de la société et peut y assister aux frais de celle-ci et y être entendu.
 
-  **(2)** À la demande de tout membre du comité **d'audit, l'auditeur** assiste à toutes réunions de ce comité tenues au cours du mandat de ce membre.
-
-
-> **Explanatory Note**:
-> *This amendment to the French version is necessary in order to reflect the change in terminology in ISA standards to use the French terms "audit", "auditeur" and "auditer" for the English terms "audit" and "auditor".*
-> *Existing Text*:
-> > Le vérificateur a droit aux avis des réunions des comités de vérification et de révision de la société et peut y assister aux frais de celle-ci et y être entendu.
-> > À la demande de tout membre du comité de vérification, le vérificateur assiste à toutes réunions de ce comité tenues au cours du mandat de ce membre.
+  **(2)** À la demande de tout membre du comité d'audit, l'auditeur assiste à toutes réunions de ce comité tenues au cours du mandat de ce membre.
 
 ### Section 71
 
@@ -1186,13 +885,7 @@ Subsection 336(1) of the French version of the Act is replaced by the following:
 
 ### Section 336
 
-  **(1)** Le comité **d'audit** peut être convoqué par l'un de ses membres ou par **l'auditeur**.
-
-
-> **Explanatory Note**:
-> *This amendment to the French version is necessary in order to reflect the change in terminology in ISA standards to use the French terms "audit", "auditeur" and "auditer" for the English terms "audit" and "auditor".*
-> *Existing Text*:
-> > Le comité de vérification peut être convoqué par l'un de ses membres ou par le vérificateur.
+  **(1)** Le comité d'audit peut être convoqué par l'un de ses membres ou par l'auditeur.
 
 ### Section 72
 
@@ -1200,37 +893,19 @@ Subsection 337(1) of the French version of the Act is replaced by the following:
 
 ### Section 337
 
-  **(1)** Tout administrateur ou dirigeant doit sans délai aviser le comité **d'audit** ainsi que **l'auditeur** des erreurs ou renseignements inexacts qu'il relève dans un rapport annuel ou tout autre état financier ayant fait l'objet d'un rapport de ce dernier ou de ses prédécesseurs.
-
-
-> **Explanatory Note**:
-> *This amendment to the French version is necessary in order to reflect the change in terminology in ISA standards to use the French terms "audit", "auditeur" and "auditer" for the English terms "audit" and "auditor".*
-> *Existing Text*:
-> > Tout administrateur ou dirigeant doit sans délai aviser le comité de vérification ainsi que le vérificateur des erreurs ou renseignements inexacts qu'il relève dans un rapport annuel ou tout autre état financier ayant fait l'objet d'un rapport de ce dernier ou de ses prédécesseurs.
+  **(1)** Tout administrateur ou dirigeant doit sans délai aviser le comité d'audit ainsi que l'auditeur des erreurs ou renseignements inexacts qu'il relève dans un rapport annuel ou tout autre état financier ayant fait l'objet d'un rapport de ce dernier ou de ses prédécesseurs.
 
 ### Section 73
 
 Subsection 473(5) of the French version of the Act is replaced by the following:
 
-**(5)** Lorsque la valeur qu'il a déterminée pour un élément de l'actif de la société ou de l'une de ses filiales comme étant sa juste valeur diffère de façon marquée de celle attribuée par la société ou la filiale, le surintendant la notifie par écrit à la société, à son **auditeur** et à son comité **d'audit**.
-
-
-> **Explanatory Note**:
-> *This amendment to the French version is necessary in order to reflect the change in terminology in ISA standards to use the French terms "audit", "auditeur" and "auditer" for the English terms "audit" and "auditor".*
-> *Existing Text*:
-> > Lorsque la valeur qu'il a déterminée pour un élément de l'actif de la société ou de l'une de ses filiales comme étant sa juste valeur diffère de façon marquée de celle attribuée par la société ou la filiale, le surintendant la notifie par écrit à la société, à son vérificateur et à son comité de vérification.
+**(5)** Lorsque la valeur qu'il a déterminée pour un élément de l'actif de la société ou de l'une de ses filiales comme étant sa juste valeur diffère de façon marquée de celle attribuée par la société ou la filiale, le surintendant la notifie par écrit à la société, à son auditeur et à son comité d'audit.
 
 ### Section 74
 
 Subsection 504.01(2) of the French version of the Act is replaced by the following:
 
-**(2)** Il est interdit au surintendant de communiquer un renseignement visé au paragraphe (1) à quiconque dont les attributions comprennent l'enquête **ou** la poursuite relatives à une infraction ou à une violation sous le régime de toute loi fédérale ou provinciale.
-
-
-> **Explanatory Note**:
-> *This amendment corrects a discrepancy between the English and French versions. The English version uses the expressions "the investigation *or* prosecution" and "the investigation of, *or* conduct of proceedings in respect of" whereas the French version uses "l'enquête *et* la poursuite". The English version expresses the legislator's intent and the French version is amended accordingly.*
-> *Existing Text*:
-> > Il est interdit au surintendant de communiquer un renseignement visé au paragraphe (1) à quiconque dont les attributions comprennent l'enquête et la poursuite relatives à une infraction ou à une violation sous le régime de toute loi fédérale ou provinciale.
+**(2)** Il est interdit au surintendant de communiquer un renseignement visé au paragraphe (1) à quiconque dont les attributions comprennent l'enquête ou la poursuite relatives à une infraction ou à une violation sous le régime de toute loi fédérale ou provinciale.
 
 ### Section 75
 
@@ -1304,10 +979,6 @@ paragraph 499(1)(h) and subsection 499(2); and
 
 paragraph 505(2)(b).
 
-
-> **Explanatory Note**:
-> *These amendments to the French version are necessary in order to reflect the change in terminology in ISA standards to use the French terms "audit", "auditeur" and "auditer" for the English terms "audit" and "auditor".*
-
 ### Section 76
 
 The French version of the Act is amended by replacing "vérification" with "audit", with any necessary modifications, in the following provisions:
@@ -1327,17 +998,13 @@ subsection 330(3); and
 paragraph 331(3)(a).
 
 
-> **Explanatory Note**:
-> *These amendments to the French version are necessary in order to reflect the change in terminology in ISA standards to use the French terms "audit", "auditeur" and "auditer" for the English terms "audit" and "auditor".*
-
-
 ### Bank Act
 
 ### Section 77
 
   **(1)** Paragraph (c) of the definition **court** in section 2 of the `Bank Act` is replaced by the following:
 
-    in the Provinces of Nova Scotia, British Columbia, Prince Edward Island and **Newfoundland and Labrador**, the Supreme Court of the Province,
+    in the Provinces of Nova Scotia, British Columbia, Prince Edward Island and Newfoundland and Labrador, the Supreme Court of the Province,
 
   **(2)** The definition **court** in section 2 of the Act is amended by adding "and" at the end of paragraph (d) and by repealing paragraph (e).
 
@@ -1345,13 +1012,7 @@ paragraph 331(3)(a).
 
 Subsection 323(2) of the French version of the Act is replaced by the following:
 
-**(2)** Sauf spécification contraire du surintendant, le ou les **auditeurs** appliquent les normes **d'audit** généralement reconnues et principalement celles qui sont énoncées dans le Manuel de Comptables professionnels agréés du Canada.
-
-
-> **Explanatory Note**:
-> *The Auditing and Assurance Standards Board (AASB) of Canada establishes standards that apply to the auditors of Canadian entities. In 2010, the AASB adopted the International Standards on Auditing (ISA standards), published by the International Auditing and Assurance Standards Board, as the new Canadian Auditing Standards. The ISA standards use the French terms "audit", "auditeur" and "auditer" for the English terms "audit" and "auditor". This amendment to the French version is necessary in order to reflect the change in ISA terminology.*
-> *Existing Text*:
-> > Sauf spécification contraire du surintendant, le ou les vérificateurs appliquent les normes de vérification généralement reconnues et principalement celles qui sont énoncées dans le Manuel de Comptables professionnels agréés du Canada.
+**(2)** Sauf spécification contraire du surintendant, le ou les auditeurs appliquent les normes d'audit généralement reconnues et principalement celles qui sont énoncées dans le Manuel de Comptables professionnels agréés du Canada.
 
 ### Section 79
 
@@ -1359,16 +1020,9 @@ Subsections 325(1) and (2) of the French version of the Act are replaced by the 
 
 ### Section 325
 
-  **(1)** Le surintendant peut exiger, par écrit, que le ou les **auditeurs** de la banque lui fassent rapport sur le type de procédure utilisé lors de leur **audit** du rapport annuel; il peut en outre leur demander, par écrit, d'étendre la portée de leur **audit** et leur ordonner de mettre en oeuvre, dans certains cas, d'autres types de procédure. Le ou les **auditeurs** sont tenus de se conformer aux demandes du surintendant et de lui faire rapport à ce sujet.
+  **(1)** Le surintendant peut exiger, par écrit, que le ou les auditeurs de la banque lui fassent rapport sur le type de procédure utilisé lors de leur audit du rapport annuel; il peut en outre leur demander, par écrit, d'étendre la portée de leur audit et leur ordonner de mettre en oeuvre, dans certains cas, d'autres types de procédure. Le ou les auditeurs sont tenus de se conformer aux demandes du surintendant et de lui faire rapport à ce sujet.
 
-  **(2)** Le surintendant peut exiger, par écrit, que le ou les **auditeurs** de la banque procèdent à **un audit spécial** visant à déterminer si la méthode utilisée par la banque pour sauvegarder les intérêts de ses créanciers, de ses actionnaires et, dans le cas d'une coopérative de crédit fédérale, de ses membres est adéquate, ainsi qu'à **tout** autre **audit rendu** nécessaire, à son avis, par l'intérêt public, et lui fassent rapport à ce sujet.
-
-
-> **Explanatory Note**:
-> *This amendment to the French version is necessary in order to reflect the change in terminology in ISA standards to use the French terms "audit", "auditeur" and "auditer" for the English terms "audit" and "auditor".*
-> *Existing Text*:
-> > Le surintendant peut exiger, par écrit, que le ou les vérificateurs de la banque lui fassent rapport sur le type de procédure utilisé lors de leur vérification du rapport annuel; il peut en outre leur demander, par écrit, d'étendre la portée de leur vérification et leur ordonner de mettre en oeuvre, dans certains cas, d'autres types de procédure. Le ou les vérificateurs sont tenus de se conformer aux demandes du surintendant et de lui faire rapport à ce sujet.
-> > Le surintendant peut exiger, par écrit, que le ou les vérificateurs de la banque procèdent à une vérification spéciale visant à déterminer si la méthode utilisée par la banque pour sauvegarder les intérêts de ses créanciers, de ses actionnaires et, dans le cas d'une coopérative de crédit fédérale, de ses membres est adéquate, ainsi qu'à toute autre vérification rendue nécessaire, à son avis, par l'intérêt public, et lui fassent rapport à ce sujet.
+  **(2)** Le surintendant peut exiger, par écrit, que le ou les auditeurs de la banque procèdent à un audit spécial visant à déterminer si la méthode utilisée par la banque pour sauvegarder les intérêts de ses créanciers, de ses actionnaires et, dans le cas d'une coopérative de crédit fédérale, de ses membres est adéquate, ainsi qu'à tout autre audit rendu nécessaire, à son avis, par l'intérêt public, et lui fassent rapport à ce sujet.
 
 ### Section 80
 
@@ -1376,25 +1030,13 @@ Subsection 327(1) of the French version of the Act is replaced by the following:
 
 ### Section 327
 
-  **(1)** Si les actionnaires ou, dans le cas d'une coopérative de crédit fédérale, les membres ou les actionnaires l'exigent, le ou les **auditeurs** de la banque **auditent** tout état financier soumis par le conseil d'administration aux actionnaires ou aux membres; le rapport que le ou les **auditeurs** leur font doit indiquer si, à leur avis, l'état financier présente fidèlement les renseignements demandés.
-
-
-> **Explanatory Note**:
-> *This amendment to the French version is necessary in order to reflect the change in terminology in ISA standards to use the French terms "audit", "auditeur" and "auditer" for the English terms "audit" and "auditor".*
-> *Existing Text*:
-> > Si les actionnaires ou, dans le cas d'une coopérative de crédit fédérale, les membres ou les actionnaires l'exigent, le ou les vérificateurs de la banque vérifient tout état financier soumis par le conseil d'administration aux actionnaires ou aux membres; le rapport que le ou les vérificateurs leur font doit indiquer si, à leur avis, l'état financier présente fidèlement les renseignements demandés.
+  **(1)** Si les actionnaires ou, dans le cas d'une coopérative de crédit fédérale, les membres ou les actionnaires l'exigent, le ou les auditeurs de la banque auditent tout état financier soumis par le conseil d'administration aux actionnaires ou aux membres; le rapport que le ou les auditeurs leur font doit indiquer si, à leur avis, l'état financier présente fidèlement les renseignements demandés.
 
 ### Section 81
 
 Subsection 328(2) of the French version of the Act is replaced by the following:
 
-**(2)** Le ou les **auditeurs** transmettent leur rapport au premier dirigeant et au directeur financier de la banque et en fournissent simultanément un exemplaire au comité **d'audit** et au surintendant; le rapport est en outre présenté à la réunion suivante du conseil d'administration et il fait partie du procès-verbal de cette réunion.
-
-
-> **Explanatory Note**:
-> *This amendment to the French version is necessary in order to reflect the change in terminology in ISA standards to use the French terms "audit", "auditeur" and "auditer" for the English terms "audit" and "auditor".*
-> *Existing Text*:
-> > Le ou les vérificateurs transmettent leur rapport au premier dirigeant et au directeur financier de la banque et en fournissent simultanément un exemplaire au comité de vérification et au surintendant; le rapport est en outre présenté à la réunion suivante du conseil d'administration et il fait partie du procès-verbal de cette réunion.
+**(2)** Le ou les auditeurs transmettent leur rapport au premier dirigeant et au directeur financier de la banque et en fournissent simultanément un exemplaire au comité d'audit et au surintendant; le rapport est en outre présenté à la réunion suivante du conseil d'administration et il fait partie du procès-verbal de cette réunion.
 
 ### Section 82
 
@@ -1402,16 +1044,9 @@ Section 330 of the French version of the Act is replaced by the following:
 
 ### Section 330
 
-  **(1)** Les **auditeurs** ont droit aux avis des réunions du comité désigné en vertu de l'alinéa 157(2)e), si les fonctions prévues à l'article 195.1 y seront exercées par celui-ci, du comité **d'audit** et du comité de révision et peuvent y assister aux frais de la banque et y être entendus.
+  **(1)** Les auditeurs ont droit aux avis des réunions du comité désigné en vertu de l'alinéa 157(2)e), si les fonctions prévues à l'article 195.1 y seront exercées par celui-ci, du comité d'audit et du comité de révision et peuvent y assister aux frais de la banque et y être entendus.
 
-  **(2)** À la demande de tout membre du comité **d'audit**, le ou les **auditeurs** assistent à toutes réunions de ce comité tenues au cours du mandat de ce membre.
-
-
-> **Explanatory Note**:
-> *This amendment to the French version is necessary in order to reflect the change in terminology in ISA standards to use the French terms "audit", "auditeur" and "auditer" for the English terms "audit" and "auditor".*
-> *Existing Text*:
-> > Les vérificateurs ont droit aux avis des réunions du comité désigné en vertu de l'alinéa 157(2)e), si les fonctions prévues à l'article 195.1 y seront exercées par celui-ci, du comité de vérification et du comité de révision et peuvent y assister aux frais de la banque et y être entendus.
-> > À la demande de tout membre du comité de vérification, le ou les vérificateurs assistent à toutes réunions de ce comité tenues au cours du mandat de ce membre.
+  **(2)** À la demande de tout membre du comité d'audit, le ou les auditeurs assistent à toutes réunions de ce comité tenues au cours du mandat de ce membre.
 
 ### Section 83
 
@@ -1419,13 +1054,7 @@ Subsection 331(1) of the French version of the Act is replaced by the following:
 
 ### Section 331
 
-  **(1)** Le comité **d'audit** peut être convoqué par l'un de ses membres ou par le ou les **auditeurs**.
-
-
-> **Explanatory Note**:
-> *This amendment to the French version is necessary in order to reflect the change in terminology in ISA standards to use the French terms "audit", "auditeur" and "auditer" for the English terms "audit" and "auditor".*
-> *Existing Text*:
-> > Le comité de vérification peut être convoqué par l'un de ses membres ou par le ou les vérificateurs.
+  **(1)** Le comité d'audit peut être convoqué par l'un de ses membres ou par le ou les auditeurs.
 
 ### Section 84
 
@@ -1433,49 +1062,31 @@ Subsection 332(1) of the French version of the Act is replaced by the following:
 
 ### Section 332
 
-  **(1)** Tout administrateur ou dirigeant doit sans délai aviser le comité **d'audit** ainsi que le ou les **auditeurs** des erreurs ou renseignements inexacts qu'il relève dans un rapport annuel ou tout autre état financier ayant fait l'objet d'un rapport de ces derniers ou de leurs prédécesseurs.
-
-
-> **Explanatory Note**:
-> *This amendment to the French version is necessary in order to reflect the change in terminology in ISA standards to use the French terms "audit", "auditeur" and "auditer" for the English terms "audit" and "auditor".*
-> *Existing Text*:
-> > Tout administrateur ou dirigeant doit sans délai aviser le comité de vérification ainsi que le ou les vérificateurs des erreurs ou renseignements inexacts qu'il relève dans un rapport annuel ou tout autre état financier ayant fait l'objet d'un rapport de ces derniers ou de leurs prédécesseurs.
+  **(1)** Tout administrateur ou dirigeant doit sans délai aviser le comité d'audit ainsi que le ou les auditeurs des erreurs ou renseignements inexacts qu'il relève dans un rapport annuel ou tout autre état financier ayant fait l'objet d'un rapport de ces derniers ou de leurs prédécesseurs.
 
 ### Section 85
 
 Subsection 485(5) of the French version of the Act is replaced by the following:
 
-**(5)** Lorsque la valeur qu'il a déterminée pour un élément de l'actif de la banque ou de l'une de ses filiales comme étant sa juste valeur diffère de façon marquée de celle attribuée par la banque ou la filiale, le surintendant la notifie par écrit à la banque, à son ou à ses **auditeurs** et à son comité **d'audit**.
-
-
-> **Explanatory Note**:
-> *This amendment to the French version is necessary in order to reflect the change in terminology in ISA standards to use the French terms "audit", "auditeur" and "auditer" for the English terms "audit" and "auditor".*
-> *Existing Text*:
-> > Lorsque la valeur qu'il a déterminée pour un élément de l'actif de la banque ou de l'une de ses filiales comme étant sa juste valeur diffère de façon marquée de celle attribuée par la banque ou la filiale, le surintendant la notifie par écrit à la banque, à son ou à ses vérificateurs et à son comité de vérification.
+**(5)** Lorsque la valeur qu'il a déterminée pour un élément de l'actif de la banque ou de l'une de ses filiales comme étant sa juste valeur diffère de façon marquée de celle attribuée par la banque ou la filiale, le surintendant la notifie par écrit à la banque, à son ou à ses auditeurs et à son comité d'audit.
 
 ### Section 86
 
   **(1)** Subsection 592(2) of the French version of the Act is replaced by the following:
 
-    **(2)** Sauf spécification contraire du surintendant, **l'auditeur** applique les normes **d'audit** visées au paragraphe 323(2) pour l'examen prévu au paragraphe (1).
+    **(2)** Sauf spécification contraire du surintendant, l'auditeur applique les normes d'audit visées au paragraphe 323(2) pour l'examen prévu au paragraphe (1).
 
   **(2)** Subsections 592(4) and (5) of the French version of the Act are replaced by the following:
 
-    **(4)** Le surintendant peut exiger, par écrit, que **l'auditeur** de la banque étrangère autorisée lui fasse rapport sur le type de procédure utilisé lors de **son audit** de l'état annuel; il peut en outre lui demander, par écrit, d'étendre la portée de **son audit** et lui ordonner de mettre en oeuvre, dans certains cas, d'autres types de procédure. **L'auditeur** est tenu de se conformer aux demandes du surintendant et de lui faire rapport à ce sujet.
+    **(4)** Le surintendant peut exiger, par écrit, que l'auditeur de la banque étrangère autorisée lui fasse rapport sur le type de procédure utilisé lors de son audit de l'état annuel; il peut en outre lui demander, par écrit, d'étendre la portée de son audit et lui ordonner de mettre en oeuvre, dans certains cas, d'autres types de procédure. L'auditeur est tenu de se conformer aux demandes du surintendant et de lui faire rapport à ce sujet.
 
-    **(5)** Le surintendant peut exiger, par écrit, que **l'auditeur** de la banque étrangère autorisée procède à **un audit spécial** visant à déterminer si la méthode utilisée par la banque étrangère autorisée, dans le cadre de l'exercice de ses activités au Canada, pour sauvegarder les intérêts de ses créanciers et déposants est adéquate, ainsi qu'à **tout** autre **audit rendu** nécessaire, à son avis, par l'intérêt public, et lui fasse rapport à ce sujet.
+    **(5)** Le surintendant peut exiger, par écrit, que l'auditeur de la banque étrangère autorisée procède à un audit spécial visant à déterminer si la méthode utilisée par la banque étrangère autorisée, dans le cadre de l'exercice de ses activités au Canada, pour sauvegarder les intérêts de ses créanciers et déposants est adéquate, ainsi qu'à tout autre audit rendu nécessaire, à son avis, par l'intérêt public, et lui fasse rapport à ce sujet.
 
 ### Section 87
 
 Subsection 855(2) of the French version of the Act is replaced by the following:
 
-**(2)** Sauf spécification contraire du surintendant, **l'auditeur** applique les normes **d'audit** généralement reconnues et principalement celles qui sont énoncées dans le Manuel de Comptables professionnels agréés du Canada.
-
-
-> **Explanatory Note**:
-> *This amendment to the French version is necessary in order to reflect the change in terminology in ISA standards to use the French terms "audit", "auditeur" and "auditer" for the English terms "audit" and "auditor".*
-> *Existing Text*:
-> > Sauf spécification contraire du surintendant, le vérificateur applique les normes de vérification généralement reconnues et principalement celles qui sont énoncées dans le Manuel de Comptables professionnels agréés du Canada.
+**(2)** Sauf spécification contraire du surintendant, l'auditeur applique les normes d'audit généralement reconnues et principalement celles qui sont énoncées dans le Manuel de Comptables professionnels agréés du Canada.
 
 ### Section 88
 
@@ -1483,16 +1094,9 @@ Subsections 857(1) and (2) of the French version of the Act are replaced by the 
 
 ### Section 857
 
-  **(1)** Le surintendant peut exiger, par écrit, que **l'auditeur** de la société de portefeuille bancaire lui fasse rapport sur le type de procédure utilisé lors de **son audit** du rapport annuel; il peut en outre lui demander, par écrit, d'étendre la portée de **son audit** et lui ordonner de mettre en oeuvre, dans certains cas, d'autres types de procédure. **L'auditeur** est tenu de se conformer aux demandes du surintendant et de lui faire rapport à ce sujet.
+  **(1)** Le surintendant peut exiger, par écrit, que l'auditeur de la société de portefeuille bancaire lui fasse rapport sur le type de procédure utilisé lors de son audit du rapport annuel; il peut en outre lui demander, par écrit, d'étendre la portée de son audit et lui ordonner de mettre en oeuvre, dans certains cas, d'autres types de procédure. L'auditeur est tenu de se conformer aux demandes du surintendant et de lui faire rapport à ce sujet.
 
-  **(2)** Le surintendant peut exiger, par écrit, que **l'auditeur** de la société de portefeuille bancaire procède à **un audit spécial** visant à déterminer si les méthodes utilisées par la société risquent de porter préjudice aux intérêts des déposants, souscripteurs ou créanciers d'une institution financière fédérale de son groupe, ainsi qu'à **tout** autre **audit rendu** nécessaire, à son avis, par l'intérêt public, et lui fasse rapport à ce sujet.
-
-
-> **Explanatory Note**:
-> *This amendment to the French version is necessary in order to reflect the change in terminology in ISA standards to use the French terms "audit", "auditeur" and "auditer" for the English terms "audit" and "auditor".*
-> *Existing Text*:
-> > Le surintendant peut exiger, par écrit, que le vérificateur de la société de portefeuille bancaire lui fasse rapport sur le type de procédure utilisé lors de sa vérification du rapport annuel; il peut en outre lui demander, par écrit, d'étendre la portée de sa vérification et lui ordonner de mettre en oeuvre, dans certains cas, d'autres types de procédure. Le vérificateur est tenu de se conformer aux demandes du surintendant et de lui faire rapport à ce sujet.
-> > Le surintendant peut exiger, par écrit, que le vérificateur de la société de portefeuille bancaire procède à une vérification spéciale visant à déterminer si les méthodes utilisées par la société risquent de porter préjudice aux intérêts des déposants, souscripteurs ou créanciers d'une institution financière fédérale de son groupe, ainsi qu'à toute autre vérification rendue nécessaire, à son avis, par l'intérêt public, et lui fasse rapport à ce sujet.
+  **(2)** Le surintendant peut exiger, par écrit, que l'auditeur de la société de portefeuille bancaire procède à un audit spécial visant à déterminer si les méthodes utilisées par la société risquent de porter préjudice aux intérêts des déposants, souscripteurs ou créanciers d'une institution financière fédérale de son groupe, ainsi qu'à tout autre audit rendu nécessaire, à son avis, par l'intérêt public, et lui fasse rapport à ce sujet.
 
 ### Section 89
 
@@ -1500,13 +1104,7 @@ Subsection 859(1) of the French version of the Act is replaced by the following:
 
 ### Section 859
 
-  **(1)** Si les actionnaires l'exigent, **l'auditeur** de la société de portefeuille bancaire **audite** tout état financier soumis par le conseil d'administration aux actionnaires; le rapport que **l'auditeur** leur fait doit indiquer si, à son avis, l'état financier présente fidèlement les renseignements demandés.
-
-
-> **Explanatory Note**:
-> *This amendment to the French version is necessary in order to reflect the change in terminology in ISA standards to use the French terms "audit", "auditeur" and "auditer" for the English terms "audit" and "auditor".*
-> *Existing Text*:
-> > Si les actionnaires l'exigent, le vérificateur de la société de portefeuille bancaire vérifie tout état financier soumis par le conseil d'administration aux actionnaires; le rapport que le vérificateur leur fait doit indiquer si, à son avis, l'état financier présente fidèlement les renseignements demandés.
+  **(1)** Si les actionnaires l'exigent, l'auditeur de la société de portefeuille bancaire audite tout état financier soumis par le conseil d'administration aux actionnaires; le rapport que l'auditeur leur fait doit indiquer si, à son avis, l'état financier présente fidèlement les renseignements demandés.
 
 ### Section 90
 
@@ -1514,16 +1112,9 @@ Section 861 of the French version of the Act is replaced by the following:
 
 ### Section 861
 
-  **(1)** **L'auditeur** a droit aux avis des réunions du comité **d'audit** de la société de portefeuille bancaire et peut y assister aux frais de celle-ci et y être entendu.
+  **(1)** L'auditeur a droit aux avis des réunions du comité d'audit de la société de portefeuille bancaire et peut y assister aux frais de celle-ci et y être entendu.
 
-  **(2)** À la demande de tout membre du comité **d'audit, l'auditeur** assiste à toutes réunions de ce comité tenues au cours du mandat de ce membre.
-
-
-> **Explanatory Note**:
-> *This amendment to the French version is necessary in order to reflect the change in terminology in ISA standards to use the French terms "audit", "auditeur" and "auditer" for the English terms "audit" and "auditor".*
-> *Existing Text*:
-> > Le vérificateur a droit aux avis des réunions du comité de vérification de la société de portefeuille bancaire et peut y assister aux frais de celle-ci et y être entendu.
-> > À la demande de tout membre du comité de vérification, le vérificateur assiste à toutes réunions de ce comité tenues au cours du mandat de ce membre.
+  **(2)** À la demande de tout membre du comité d'audit, l'auditeur assiste à toutes réunions de ce comité tenues au cours du mandat de ce membre.
 
 ### Section 91
 
@@ -1531,13 +1122,7 @@ Subsection 862(1) of the French version of the Act is replaced by the following:
 
 ### Section 862
 
-  **(1)** Le comité **d'audit** peut être convoqué par l'un de ses membres ou par **l'auditeur**.
-
-
-> **Explanatory Note**:
-> *This amendment to the French version is necessary in order to reflect the change in terminology in ISA standards to use the French terms "audit", "auditeur" and "auditer" for the English terms "audit" and "auditor".*
-> *Existing Text*:
-> > Le comité de vérification peut être convoqué par l'un de ses membres ou par le vérificateur.
+  **(1)** Le comité d'audit peut être convoqué par l'un de ses membres ou par l'auditeur.
 
 ### Section 92
 
@@ -1545,13 +1130,7 @@ Subsection 863(1) of the French version of the Act is replaced by the following:
 
 ### Section 863
 
-  **(1)** Tout administrateur ou dirigeant doit sans délai aviser le comité **d'audit** ainsi que **l'auditeur** des erreurs ou renseignements inexacts qu'il relève dans un rapport annuel ou tout autre état financier ayant fait l'objet d'un rapport de ce dernier ou de ses prédécesseurs.
-
-
-> **Explanatory Note**:
-> *This amendment to the French version is necessary in order to reflect the change in terminology in ISA standards to use the French terms "audit", "auditeur" and "auditer" for the English terms "audit" and "auditor".*
-> *Existing Text*:
-> > Tout administrateur ou dirigeant doit sans délai aviser le comité de vérification ainsi que le vérificateur des erreurs ou renseignements inexacts qu'il relève dans un rapport annuel ou tout autre état financier ayant fait l'objet d'un rapport de ce dernier ou de ses prédécesseurs.
+  **(1)** Tout administrateur ou dirigeant doit sans délai aviser le comité d'audit ainsi que l'auditeur des erreurs ou renseignements inexacts qu'il relève dans un rapport annuel ou tout autre état financier ayant fait l'objet d'un rapport de ce dernier ou de ses prédécesseurs.
 
 ### Section 93
 
@@ -1713,10 +1292,6 @@ paragraph 951(1)(g) and subsection 951(2); and
 
 paragraph 957(2)(b).
 
-
-> **Explanatory Note**:
-> *These amendments to the French version are necessary in order to reflect the change in terminology in ISA standards to use the French terms "audit", "auditeur" and "auditer" for the English terms "audit" and "auditor".*
-
 ### Section 94
 
 The French version of the Act is amended by replacing "vérification" with "audit", with any necessary modifications, in the following provisions:
@@ -1760,10 +1335,6 @@ subsection 857(3); and
 paragraph 858(3)(a).
 
 
-> **Explanatory Note**:
-> *These amendments to the French version are necessary in order to reflect the change in terminology in ISA standards to use the French terms "audit", "auditeur" and "auditer" for the English terms "audit" and "auditor".*
-
-
 ### Insurance Companies Act
 
 ### Section 95
@@ -1772,7 +1343,7 @@ paragraph 858(3)(a).
 
   **(2)** Paragraph (c) of the definition **court** in subsection 2(1) of the Act is replaced by the following:
 
-    in the Provinces of Nova Scotia, British Columbia, Prince Edward Island and **Newfoundland and Labrador**, the Supreme Court of the Province,
+    in the Provinces of Nova Scotia, British Columbia, Prince Edward Island and Newfoundland and Labrador, the Supreme Court of the Province,
 
   **(3)** The definition **court** in subsection 2(1) of the Act is amended by adding "and" at the end of paragraph (d) and by repealing paragraph (e).
 
@@ -1786,15 +1357,7 @@ paragraph 858(3)(a).
 
 Paragraph 145(1)(f) of the French version of the Act is replaced by the following:
 
-la description des fonctions de l'actuaire et **de l'auditeur** dans la préparation et **l'audit** des états financiers.
-
-
-> **Explanatory Note**:
-> *This amendment to the French version is necessary in order to reflect the change in terminology in ISA standards to use the French terms "audit", "auditeur" and "auditer" for the English terms "audit" and "auditor".*
-> *Existing Text*:
-> > Tous les points de l'ordre du jour des assemblées extraordinaires et annuelles sont réputés être des questions particulières; font exception à cette règle :
-> > 
-> > la description des fonctions de l'actuaire et du vérificateur dans la préparation et la vérification des états financiers.
+la description des fonctions de l'actuaire et de l'auditeur dans la préparation et l'audit des états financiers.
 
 ### Section 97
 
@@ -1802,39 +1365,19 @@ The portion of subsection 164.04(1) of the French version of the Act before para
 
 ### Section 164.04
 
-  **(1)** Les procurations ne peuvent être sollicitées qu'à l'aide de circulaires, conformes aux règlements, envoyées **à l'auditeur**, aux actionnaires ou aux souscripteurs faisant l'objet de la sollicitation et, en cas d'application de l'alinéa b), à la société ainsi :
-
-
-> **Explanatory Note**:
-> *This amendment to the French version is necessary in order to reflect the change in terminology in ISA standards to use the French terms "audit", "auditeur" and "auditer" for the English terms "audit" and "auditor".*
-> *Existing Text*:
-> > Les procurations ne peuvent être sollicitées qu'à l'aide de circulaires, conformes aux règlements, envoyées au vérificateur, aux actionnaires ou aux souscripteurs faisant l'objet de la sollicitation et, en cas d'application de l'alinéa b), à la société ainsi :
+  **(1)** Les procurations ne peuvent être sollicitées qu'à l'aide de circulaires, conformes aux règlements, envoyées à l'auditeur, aux actionnaires ou aux souscripteurs faisant l'objet de la sollicitation et, en cas d'application de l'alinéa b), à la société ainsi :
 
 ### Section 98
 
 Paragraph 331(1)(d) of the French version of the Act is replaced by the following:
 
-la description des rôles respectifs de l'actuaire et **de l'auditeur** de la société dans l'établissement et **l'audit** du rapport annuel;
-
-
-> **Explanatory Note**:
-> *This amendment to the French version is necessary in order to reflect the change in terminology in ISA standards to use the French terms "audit", "auditeur" and "auditer" for the English terms "audit" and "auditor".*
-> *Existing Text*:
-> > Le conseil d'administration doit, à l'assemblée annuelle, présenter aux actionnaires et aux souscripteurs :
-> > 
-> > la description des rôles respectifs de l'actuaire et du vérificateur de la société dans l'établissement et la vérification du rapport annuel;
+la description des rôles respectifs de l'actuaire et de l'auditeur de la société dans l'établissement et l'audit du rapport annuel;
 
 ### Section 99
 
 Subsection 346(2) of the French version of the Act is replaced by the following:
 
-**(2)** Sauf spécification contraire du surintendant, **l'auditeur** applique les normes **d'audit** généralement reconnues, principalement celles qui sont énoncées dans le Manuel de Comptables professionnels agréés du Canada.
-
-
-> **Explanatory Note**:
-> *This amendment to the French version is necessary in order to reflect the change in terminology in ISA standards to use the French terms "audit", "auditeur" and "auditer" for the English terms "audit" and "auditor".*
-> *Existing Text*:
-> > Sauf spécification contraire du surintendant, le vérificateur applique les normes de vérification généralement reconnues, principalement celles qui sont énoncées dans le Manuel de Comptables professionnels agréés du Canada.
+**(2)** Sauf spécification contraire du surintendant, l'auditeur applique les normes d'audit généralement reconnues, principalement celles qui sont énoncées dans le Manuel de Comptables professionnels agréés du Canada.
 
 ### Section 100
 
@@ -1842,16 +1385,9 @@ Subsections 348(1) and (2) of the French version of the Act are replaced by the 
 
 ### Section 348
 
-  **(1)** Le surintendant peut exiger, par écrit, que **l'auditeur** de la société lui fasse rapport sur le type de procédure utilisé lors de **son audit** du rapport annuel; il peut en outre lui demander, par écrit, d'étendre la portée de **son audit** et lui ordonner de mettre en oeuvre, dans certains cas, d'autres types de procédure. **L'auditeur** est tenu de se conformer aux demandes du surintendant et de lui faire rapport à ce sujet.
+  **(1)** Le surintendant peut exiger, par écrit, que l'auditeur de la société lui fasse rapport sur le type de procédure utilisé lors de son audit du rapport annuel; il peut en outre lui demander, par écrit, d'étendre la portée de son audit et lui ordonner de mettre en oeuvre, dans certains cas, d'autres types de procédure. L'auditeur est tenu de se conformer aux demandes du surintendant et de lui faire rapport à ce sujet.
 
-  **(2)** Le surintendant peut exiger, par écrit, que **l'auditeur** de la société procède à **un audit spécial** visant à déterminer si la méthode utilisée par la société pour sauvegarder les intérêts de ses créanciers, actionnaires et souscripteurs est adéquate, ainsi qu'à **tout** autre **audit rendu** nécessaire, à son avis, par l'intérêt public, et lui fasse rapport à ce sujet.
-
-
-> **Explanatory Note**:
-> *This amendment to the French version is necessary in order to reflect the change in terminology in ISA standards to use the French terms "audit", "auditeur" and "auditer" for the English terms "audit" and "auditor".*
-> *Existing Text*:
-> > Le surintendant peut exiger, par écrit, que le vérificateur de la société lui fasse rapport sur le type de procédure utilisé lors de sa vérification du rapport annuel; il peut en outre lui demander, par écrit, d'étendre la portée de sa vérification et lui ordonner de mettre en oeuvre, dans certains cas, d'autres types de procédure. Le vérificateur est tenu de se conformer aux demandes du surintendant et de lui faire rapport à ce sujet.
-> > Le surintendant peut exiger, par écrit, que le vérificateur de la société procède à une vérification spéciale visant à déterminer si la méthode utilisée par la société pour sauvegarder les intérêts de ses créanciers, actionnaires et souscripteurs est adéquate, ainsi qu'à toute autre vérification rendue nécessaire, à son avis, par l'intérêt public, et lui fasse rapport à ce sujet.
+  **(2)** Le surintendant peut exiger, par écrit, que l'auditeur de la société procède à un audit spécial visant à déterminer si la méthode utilisée par la société pour sauvegarder les intérêts de ses créanciers, actionnaires et souscripteurs est adéquate, ainsi qu'à tout autre audit rendu nécessaire, à son avis, par l'intérêt public, et lui fasse rapport à ce sujet.
 
 ### Section 101
 
@@ -1859,25 +1395,13 @@ Subsection 350(1) of the French version of the Act is replaced by the following:
 
 ### Section 350
 
-  **(1)** Si les actionnaires et les souscripteurs l'exigent, **l'auditeur** de la société **audite** tout état financier qui leur est soumis par le conseil d'administration; le rapport qu'il leur fait doit indiquer si, de l'avis **de l'auditeur**, l'état financier présente fidèlement les renseignements demandés.
-
-
-> **Explanatory Note**:
-> *This amendment to the French version is necessary in order to reflect the change in terminology in ISA standards to use the French terms "audit", "auditeur" and "auditer" for the English terms "audit" and "auditor".*
-> *Existing Text*:
-> > Si les actionnaires et les souscripteurs l'exigent, le vérificateur de la société vérifie tout état financier qui leur est soumis par le conseil d'administration; le rapport qu'il leur fait doit indiquer si, de l'avis du vérificateur, l'état financier présente fidèlement les renseignements demandés.
+  **(1)** Si les actionnaires et les souscripteurs l'exigent, l'auditeur de la société audite tout état financier qui leur est soumis par le conseil d'administration; le rapport qu'il leur fait doit indiquer si, de l'avis de l'auditeur, l'état financier présente fidèlement les renseignements demandés.
 
 ### Section 102
 
 Subsection 351(2) of the French version of the Act is replaced by the following:
 
-**(2)** **L'auditeur** transmet son rapport au premier dirigeant, au directeur financier et à l'actuaire de la société et en fournit simultanément un exemplaire au comité **d'audit** et au surintendant; le rapport est en outre présenté à la réunion suivante du conseil d'administration et il fait partie du procès-verbal de cette réunion.
-
-
-> **Explanatory Note**:
-> *This amendment to the French version is necessary in order to reflect the change in terminology in ISA standards to use the French terms "audit", "auditeur" and "auditer" for the English terms "audit" and "auditor"*
-> *Existing Text*:
-> > Le vérificateur transmet son rapport au premier dirigeant, au directeur financier et à l'actuaire de la société et en fournit simultanément un exemplaire au comité de vérification et au surintendant; le rapport est en outre présenté à la réunion suivante du conseil d'administration et il fait partie du procès-verbal de cette réunion.
+**(2)** L'auditeur transmet son rapport au premier dirigeant, au directeur financier et à l'actuaire de la société et en fournit simultanément un exemplaire au comité d'audit et au surintendant; le rapport est en outre présenté à la réunion suivante du conseil d'administration et il fait partie du procès-verbal de cette réunion.
 
 ### Section 103
 
@@ -1885,16 +1409,9 @@ Section 353 of the French version of the Act is replaced by the following:
 
 ### Section 353
 
-  **(1)** **L'auditeur** a droit aux avis des réunions des comités **d'audit** et de révision de la société et peut y assister aux frais de celle-ci et y être entendu.
+  **(1)** L'auditeur a droit aux avis des réunions des comités d'audit et de révision de la société et peut y assister aux frais de celle-ci et y être entendu.
 
-  **(2)** À la demande de tout membre du comité **d'audit, l'auditeur** assiste à toutes réunions de ce comité tenues au cours du mandat de ce membre.
-
-
-> **Explanatory Note**:
-> *This amendment to the French version is necessary in order to reflect the change in terminology in ISA standards to use the French terms "audit", "auditeur" and "auditer" for the English terms "audit" and "auditor".*
-> *Existing Text*:
-> > Le vérificateur a droit aux avis des réunions des comités de vérification et de révision de la société et peut y assister aux frais de celle-ci et y être entendu.
-> > À la demande de tout membre du comité de vérification, le vérificateur assiste à toutes réunions de ce comité tenues au cours du mandat de ce membre.
+  **(2)** À la demande de tout membre du comité d'audit, l'auditeur assiste à toutes réunions de ce comité tenues au cours du mandat de ce membre.
 
 ### Section 104
 
@@ -1902,13 +1419,7 @@ Subsection 354(1) of the French version of the Act is replaced by the following:
 
 ### Section 354
 
-  **(1)** Le comité **d'audit** peut être convoqué par l'un de ses membres ou par **l'auditeur**.
-
-
-> **Explanatory Note**:
-> *This amendment to the French version is necessary in order to reflect the change in terminology in ISA standards to use the French terms "audit", "auditeur" and "auditer" for the English terms "audit" and "auditor".*
-> *Existing Text*:
-> > Le comité de vérification peut être convoqué par l'un de ses membres ou par le vérificateur.
+  **(1)** Le comité d'audit peut être convoqué par l'un de ses membres ou par l'auditeur.
 
 ### Section 105
 
@@ -1916,13 +1427,7 @@ Subsection 355(1) of the French version of the Act is replaced by the following:
 
 ### Section 355
 
-  **(1)** Tout administrateur ou dirigeant doit sans délai aviser le comité **d'audit** ainsi que **l'auditeur** des erreurs ou renseignements inexacts qu'il relève dans un rapport annuel ou tout autre état financier ayant fait l'objet d'un rapport de ce dernier ou de ses prédécesseurs.
-
-
-> **Explanatory Note**:
-> *This amendment to the French version is necessary in order to reflect the change in terminology in ISA standards to use the French terms "audit", "auditeur" and "auditer" for the English terms "audit" and "auditor".*
-> *Existing Text*:
-> > Tout administrateur ou dirigeant doit sans délai aviser le comité de vérification ainsi que le vérificateur des erreurs ou renseignements inexacts qu'il relève dans un rapport annuel ou tout autre état financier ayant fait l'objet d'un rapport de ce dernier ou de ses prédécesseurs.
+  **(1)** Tout administrateur ou dirigeant doit sans délai aviser le comité d'audit ainsi que l'auditeur des erreurs ou renseignements inexacts qu'il relève dans un rapport annuel ou tout autre état financier ayant fait l'objet d'un rapport de ce dernier ou de ses prédécesseurs.
 
 ### Section 106
 
@@ -1930,13 +1435,7 @@ Section 517 of the French version of the Act is replaced by the following:
 
 ### Section 517
 
-Lorsque la valeur qu'il a déterminée pour un élément de l'actif de la société ou de l'une de ses filiales comme étant sa juste valeur diffère de façon marquée de celle attribuée par la société ou la filiale, le surintendant la notifie par écrit à la société, à son **auditeur**, à son actuaire et à son comité **d'audit**.
-
-
-> **Explanatory Note**:
-> *This amendment to the French version is necessary in order to reflect the change in terminology in ISA standards to use the French terms "audit", "auditeur" and "auditer" for the English terms "audit" and "auditor".*
-> *Existing Text*:
-> > Lorsque la valeur qu'il a déterminée pour un élément de l'actif de la société ou de l'une de ses filiales comme étant sa juste valeur diffère de façon marquée de celle attribuée par la société ou la filiale, le surintendant la notifie par écrit à la société, à son vérificateur, à son actuaire et à son comité de vérification.
+Lorsque la valeur qu'il a déterminée pour un élément de l'actif de la société ou de l'une de ses filiales comme étant sa juste valeur diffère de façon marquée de celle attribuée par la société ou la filiale, le surintendant la notifie par écrit à la société, à son auditeur, à son actuaire et à son comité d'audit.
 
 ### Section 107
 
@@ -1944,13 +1443,7 @@ Subsection 641(2) of the French version of the Act is replaced by the following:
 
 ### Section (2)
 
-Sauf spécification contraire du surintendant, **l'auditeur** applique les normes **d'audit** généralement reconnues, principalement celles qui sont énoncées dans le Manuel de Comptables professionnels agréés du Canada.
-
-
-> **Explanatory Note**:
-> *This amendment to the French version is necessary in order to reflect the change in terminology in ISA standards to use the French terms "audit", "auditeur" and "auditer" for the English terms "audit" and "auditor".*
-> *Existing Text*:
-> > Sauf spécification contraire du surintendant, le vérificateur applique les normes de vérification généralement reconnues, principalement celles qui sont énoncées dans le Manuel de Comptables professionnels agréés du Canada.
+Sauf spécification contraire du surintendant, l'auditeur applique les normes d'audit généralement reconnues, principalement celles qui sont énoncées dans le Manuel de Comptables professionnels agréés du Canada.
 
 ### Section 108
 
@@ -1958,25 +1451,13 @@ The portion of subsection 789(1) of the French version of the Act before paragra
 
 ### Section 789
 
-  **(1)** Les procurations ne peuvent être sollicitées qu'à l'aide de circulaires, conformes aux règlements, envoyées **à l'auditeur**, aux actionnaires faisant l'objet de la sollicitation et, en cas d'application de l'alinéa b), à la société de portefeuille d'assurances ainsi :
-
-
-> **Explanatory Note**:
-> *This amendment to the French version is necessary in order to reflect the change in terminology in ISA standards to use the French terms "audit", "auditeur" and "auditer" for the English terms "audit" and "auditor".*
-> *Existing Text*:
-> > Les procurations ne peuvent être sollicitées qu'à l'aide de circulaires, conformes aux règlements, envoyées au vérificateur, aux actionnaires faisant l'objet de la sollicitation et, en cas d'application de l'alinéa b), à la société de portefeuille d'assurances ainsi :
+  **(1)** Les procurations ne peuvent être sollicitées qu'à l'aide de circulaires, conformes aux règlements, envoyées à l'auditeur, aux actionnaires faisant l'objet de la sollicitation et, en cas d'application de l'alinéa b), à la société de portefeuille d'assurances ainsi :
 
 ### Section 109
 
 Subsection 902(2) of the French version of the Act is replaced by the following:
 
-**(2)** Sauf spécification contraire du surintendant, **l'auditeur** applique les normes **d'audit** généralement reconnues, principalement celles qui sont énoncées dans le Manuel de Comptables professionnels agréés du Canada.
-
-
-> **Explanatory Note**:
-> *This amendment to the French version is necessary in order to reflect the change in terminology in ISA standards to use the French terms "audit", "auditeur" and "auditer" for the English terms "audit" and "auditor".*
-> *Existing Text*:
-> > Sauf spécification contraire du surintendant, le vérificateur applique les normes de vérification généralement reconnues, principalement celles qui sont énoncées dans le Manuel de Comptables professionnels agréés du Canada.
+**(2)** Sauf spécification contraire du surintendant, l'auditeur applique les normes d'audit généralement reconnues, principalement celles qui sont énoncées dans le Manuel de Comptables professionnels agréés du Canada.
 
 ### Section 110
 
@@ -1984,13 +1465,7 @@ Subsection 906(1) of the French version of the Act is replaced by the following:
 
 ### Section 906
 
-  **(1)** Si les actionnaires l'exigent, **l'auditeur** de la société de portefeuille d'assurances **audite** tout état financier qui leur est soumis par le conseil d'administration; le rapport qu'il leur fait doit indiquer si, de l'avis **de l'auditeur**, l'état financier présente fidèlement les renseignements demandés.
-
-
-> **Explanatory Note**:
-> *This amendment to the French version is necessary in order to reflect the change in terminology in ISA standards to use the French terms "audit", "auditeur" and "auditer" for the English terms "audit" and "auditor".*
-> *Existing Text*:
-> > Si les actionnaires l'exigent, le vérificateur de la société de portefeuille d'assurances vérifie tout état financier qui leur est soumis par le conseil d'administration; le rapport qu'il leur fait doit indiquer si, de l'avis du vérificateur, l'état financier présente fidèlement les renseignements demandés.
+  **(1)** Si les actionnaires l'exigent, l'auditeur de la société de portefeuille d'assurances audite tout état financier qui leur est soumis par le conseil d'administration; le rapport qu'il leur fait doit indiquer si, de l'avis de l'auditeur, l'état financier présente fidèlement les renseignements demandés.
 
 ### Section 111
 
@@ -1998,16 +1473,9 @@ Section 908 of the French version of the Act is replaced by the following:
 
 ### Section 908
 
-  **(1)** **L'auditeur** a droit aux avis des réunions du comité **d'audit** de la société de portefeuille d'assurances et peut y assister aux frais de celle-ci et y être entendu.
+  **(1)** L'auditeur a droit aux avis des réunions du comité d'audit de la société de portefeuille d'assurances et peut y assister aux frais de celle-ci et y être entendu.
 
-  **(2)** À la demande de tout membre du comité **d'audit, l'auditeur** assiste à toutes réunions de ce comité tenues au cours du mandat de ce membre.
-
-
-> **Explanatory Note**:
-> *This amendment to the French version is necessary in order to reflect the change in terminology in ISA standards to use the French terms "audit", "auditeur" and "auditer" for the English terms "audit" and "auditor".*
-> *Existing Text*:
-> > Le vérificateur a droit aux avis des réunions du comité de vérification de la société de portefeuille d'assurances et peut y assister aux frais de celle-ci et y être entendu.
-> > À la demande de tout membre du comité de vérification, le vérificateur assiste à toutes réunions de ce comité tenues au cours du mandat de ce membre.
+  **(2)** À la demande de tout membre du comité d'audit, l'auditeur assiste à toutes réunions de ce comité tenues au cours du mandat de ce membre.
 
 ### Section 112
 
@@ -2015,13 +1483,7 @@ Subsection 909(1) of the French version of the Act is replaced by the following:
 
 ### Section 909
 
-  **(1)** Le comité **d'audit** peut être convoqué par l'un de ses membres ou par **l'auditeur**.
-
-
-> **Explanatory Note**:
-> *This amendment to the French version is necessary in order to reflect the change in terminology in ISA standards to use the French terms "audit", "auditeur" and "auditer" for the English terms "audit" and "auditor".*
-> *Existing Text*:
-> > Le comité de vérification peut être convoqué par l'un de ses membres ou par le vérificateur.
+  **(1)** Le comité d'audit peut être convoqué par l'un de ses membres ou par l'auditeur.
 
 ### Section 113
 
@@ -2029,13 +1491,7 @@ Subsection 910(1) of the French version of the Act is replaced by the following:
 
 ### Section 910
 
-  **(1)** Tout administrateur ou dirigeant doit sans délai aviser le comité **d'audit** ainsi que **l'auditeur** des erreurs ou renseignements inexacts qu'il relève dans un rapport annuel ou tout autre état financier ayant fait l'objet d'un rapport de ce dernier ou de ses prédécesseurs.
-
-
-> **Explanatory Note**:
-> *This amendment to the French version is necessary in order to reflect the change in terminology in ISA standards to use the French terms "audit", "auditeur" and "auditer" for the English terms "audit" and "auditor".*
-> *Existing Text*:
-> > Tout administrateur ou dirigeant doit sans délai aviser le comité de vérification ainsi que le vérificateur des erreurs ou renseignements inexacts qu'il relève dans un rapport annuel ou tout autre état financier ayant fait l'objet d'un rapport de ce dernier ou de ses prédécesseurs.
+  **(1)** Tout administrateur ou dirigeant doit sans délai aviser le comité d'audit ainsi que l'auditeur des erreurs ou renseignements inexacts qu'il relève dans un rapport annuel ou tout autre état financier ayant fait l'objet d'un rapport de ce dernier ou de ses prédécesseurs.
 
 ### Section 114
 
@@ -2199,10 +1655,6 @@ paragraph 994(1)(g) and subsection 994(2); and
 
 paragraph 1000(2)(b).
 
-
-> **Explanatory Note**:
-> *These amendments to the French version are necessary in order to reflect the change in terminology in ISA standards to use the French terms "audit", "auditeur" and "auditer" for the English terms "audit" and "auditor".*
-
 ### Section 115
 
 The French version of the Act is amended by replacing "vérification" with "audit", with any necessary modifications, in the following provisions:
@@ -2250,10 +1702,6 @@ subsection 904(3); and
 paragraph 905(3)(a).
 
 
-> **Explanatory Note**:
-> *These amendments to the French version are necessary in order to reflect the change in terminology in ISA standards to use the French terms "audit", "auditeur" and "auditer" for the English terms "audit" and "auditor".*
-
-
 ### Coasting Trade Act
 
 ### Section 116
@@ -2262,7 +1710,7 @@ paragraph 905(3)(a).
 
   **(2)** Paragraph (e) of the definition **court** in subsection 16(22) of the Act is replaced by the following:
 
-    in the Provinces of Nova Scotia, British Columbia, Prince Edward Island and **Newfoundland and Labrador**, the Supreme Court of the Province,
+    in the Provinces of Nova Scotia, British Columbia, Prince Edward Island and Newfoundland and Labrador, the Supreme Court of the Province,
 
 
 ### Motor Vehicle Safety Act
@@ -2273,26 +1721,13 @@ Subsection 10.61(1) of the English version of the `Motor Vehicle Safety Act` is 
 
 ### Section 10.61
 
-  **(1)** The Minister may, by order, require a company to ensure that any defect or non-compliance in a vehicle or equipment is corrected before the vehicle **or equipment** is offered for sale to the first retail purchaser, in accordance with any terms and conditions specified in the order.
-
-
-> **Explanatory Note**:
-> *This amendment corrects a discrepancy between the English and French versions by adding "or equipment" after the second mention of "vehicle" in the English version. The use of "ceux-ci" in the French version of the Act refers to "matériels", which is a term defined in the French version only to mean either a vehicle or equipment. The French version expresses the legislator's intent and the English version is amended accordingly.*
-> *Existing Text*:
-> > The Minister may, by order, require a company to ensure that any defect or non-compliance in a vehicle or equipment is corrected before the vehicle is offered for sale to the first retail purchaser, in accordance with any terms and conditions specified in the order.
+  **(1)** The Minister may, by order, require a company to ensure that any defect or non-compliance in a vehicle or equipment is corrected before the vehicle or equipment is offered for sale to the first retail purchaser, in accordance with any terms and conditions specified in the order.
 
 ### Section 118
 
 Paragraph 16.19(a) of the Act is replaced by the following:
 
-that the person has not committed a violation, in which case, subject to section **16.2**, no further proceedings under this Act shall be taken against the person in respect of the alleged violation; or
-
-
-> **Explanatory Note**:
-> *This amendment corrects an incorrect cross-reference.*
-> *Existing Text*:
-> > At the conclusion of a review, the member of the Tribunal who conducts the review shall without delay inform the Minister and the person who is alleged to have committed a violation
-> > that the person has not committed a violation, in which case, subject to section 16.19, no further proceedings under this Act shall be taken against the person in respect of the alleged violation; or
+that the person has not committed a violation, in which case, subject to section 16.2, no further proceedings under this Act shall be taken against the person in respect of the alleged violation; or
 
 ### Section 119
 
@@ -2300,32 +1735,17 @@ Subsection 16.2(1) of the Act is replaced by the following:
 
 ### Section 16.2
 
-  **(1)** Within 30 days after a determination is made under section **16.19**, the Minister or a person to whom it applies may appeal the determination to the Tribunal.
-
-
-> **Explanatory Note**:
-> *This amendment corrects an incorrect cross-reference.*
-> *Existing Text*:
-> > Within 30 days after a determination is made under section 16.18, the Minister or a person to whom it applies may appeal the determination to the Tribunal.
+  **(1)** Within 30 days after a determination is made under section 16.19, the Minister or a person to whom it applies may appeal the determination to the Tribunal.
 
 ### Section 120
 
 Paragraphs 16.21(a) to (c) of the Act are replaced by the following:
 
-to pay the amount of a penalty set out in a notice of violation or to file a request for a review under section **16.18**;
+to pay the amount of a penalty set out in a notice of violation or to file a request for a review under section 16.18;
 
-to pay an amount determined under paragraph **16.19(b)** or to file an appeal under section **16.2**; or
+to pay an amount determined under paragraph 16.19(b) or to file an appeal under section 16.2; or
 
-to pay an amount determined under subsection **16.2(4)**.
-
-
-> **Explanatory Note**:
-> *This amendment corrects incorrect cross-references.*
-> *Existing Text*:
-> > The Minister may obtain from the Tribunal or the member, as the case may be, a certificate in the form established by the Governor in Council setting out the amount of the penalty required to be paid by a person who fails, within the time required,
-> > 
-> > to pay an amount determined under paragraph 16.18(b) or to file an appeal under section 16.19; or
-> > to pay an amount determined under subsection 16.19(4).
+to pay an amount determined under subsection 16.2(4).
 
 ### Section 121
 
@@ -2333,13 +1753,7 @@ Subsection 16.22(1) of the Act is replaced by the following:
 
 ### Section 16.22
 
-  **(1)** On production in any superior court, a certificate issued under section **16.21** shall be registered in the court and, when so registered, a certificate has the same force and effect, and proceedings may be taken in connection with it, as if it were a judgment in that court obtained by **His** Majesty in right of Canada against the person who is named in the certificate for a debt of the amount set out in the certificate.
-
-
-> **Explanatory Note**:
-> *This amendment corrects an incorrect cross-reference.*
-> *Existing Text*:
-> > On production in any superior court, a certificate issued under section 16.2 shall be registered in the court and, when so registered, a certificate has the same force and effect, and proceedings may be taken in connection with it, as if it were a judgment in that court obtained by Her Majesty in right of Canada against the person who is named in the certificate for a debt of the amount set out in the certificate.
+  **(1)** On production in any superior court, a certificate issued under section 16.21 shall be registered in the court and, when so registered, a certificate has the same force and effect, and proceedings may be taken in connection with it, as if it were a judgment in that court obtained by His Majesty in right of Canada against the person who is named in the certificate for a debt of the amount set out in the certificate.
 
 
 ### Canada Student Financial Assistance Act
@@ -2347,12 +1761,6 @@ Subsection 16.22(1) of the Act is replaced by the following:
 ### Section 122
 
 Subsection 2(4) of the `Canada Student Financial Assistance Act` is repealed.
-
-
-> **Explanatory Note**:
-> *This amendment repeals a subsection in the `Canada Student Financial Assistance Act` that is redundant by reason of amendments made to the `Department of Employment and Social Development Act` by the `Economic Action Plan 2013 Act, No. 2` that also deal with documents or information in electronic form.*
-> *Existing Text*:
-> > A document or other communication under this Act or the regulations may be in electronic form, and a reference in this Act or the regulations to a document includes a document in electronic form.
 
 
 ### Agriculture and Agri-Food Administrative Monetary Penalties Act
@@ -2366,23 +1774,18 @@ Subsection 2(4) of the `Canada Student Financial Assistance Act` is repealed.
 
   **(2)** The definition **Tribunal** in section 2 of the English version of the Act is replaced by the following:
 
-    **Tribunal** means the **Canada Agricultural** Review Tribunal continued by subsection 27(1). )(****Tribunal****
+    **Tribunal** means the Canada Agricultural Review Tribunal continued by subsection 27(1). )(**Tribunal**
 
   **(3)** Section 2 of the French version of the Act is amended by adding the following in alphabetical order:
 
-    ****Tribunal** Le Tribunal de révision agricole du Canada prorogé par le paragraphe 27(1). (**Tribunal**)**
+    **Tribunal** Le Tribunal de révision agricole du Canada prorogé par le paragraphe 27(1). (**Tribunal**)
 
 ### Section 124
 
 The heading "Review Tribunal" before section 27 of the Act is replaced by the following:
 
 
-## **Canada Agricultural** Review Tribunal
-
-
-> **Explanatory Note**:
-> *This amendment is necessary in order to reflect the name change of the Review Tribunal.*
-> *Existing Text*:
+## Canada Agricultural Review Tribunal
 
 ### Section 125
 
@@ -2390,13 +1793,7 @@ Subsection 27(1) of the Act is replaced by the following:
 
 ### Section 27
 
-  **(1)** The Review Tribunal, continued by **this** subsection **as enacted by section 102** of the `**Safe Food for Canadians** Act`, is continued **under** the **name** Canada Agricultural **Review Tribunal**.
-
-
-> **Explanatory Note**:
-> *This amendment is necessary in order to reflect the name change of the Review Tribunal.*
-> *Existing Text*:
-> > The Review Tribunal, continued by subsection 4.1(1) of the `Canada Agricultural Products Act`, chapter 20 of the 4th Supplement to the Revised Statutes of Canada, 1985, is continued.
+  **(1)** The Review Tribunal, continued by this subsection as enacted by section 102 of the `Safe Food for Canadians Act`, is continued under the name Canada Agricultural Review Tribunal.
 
 ### Section 126
 
@@ -2441,10 +1838,6 @@ the portion of section 42 before paragraph (a); and
 sections 43 to 45.
 
 
-> **Explanatory Note**:
-> *These amendments to the French version are necessary in order to reflect the name change of the Review Tribunal.*
-
-
 #### Agriculture and Agri-Food Administrative Monetary Penalties Regulations
 
 ### Section 127
@@ -2460,10 +1853,6 @@ paragraph 13(a); and
 section 15 and the heading before it.
 
 
-> **Explanatory Note**:
-> *These amendments to the French version of the regulations are necessary in order to reflect the name change of the Review Tribunal.*
-
-
 #### Agriculture and Agri-Food Administrative Monetary Penalties Regulations Respecting the Pest Control Products Act and Regulations
 
 ### Section 128
@@ -2477,10 +1866,6 @@ section 12; and
 section 15 and the heading before it.
 
 
-> **Explanatory Note**:
-> *These amendments to the French version of the regulations are necessary in order to reflect the name change of the Review Tribunal.*
-
-
 ### Canada Transportation Act
 
 ### Section 129
@@ -2490,22 +1875,13 @@ Paragraphs (d) and (e) of the definition **superior court** in section 6 of the 
 in Nova Scotia, British Columbia, Prince Edward Island, Newfoundland and Labrador, Yukon and the Northwest Territories, the Supreme Court, and
 
 
-> **Explanatory Note**:
-> *This amendment reflects changes to the organization of courts made by provincial legislation (`Court of Appeal Act`, S.N.L. 2017, c. C-37.002).*
-> *Existing Text*:
-> > **superior court** means
-> > 
-> > in Nova Scotia, British Columbia, Prince Edward Island, Yukon and the Northwest Territories, the Supreme Court,
-> > in Newfoundland and Labrador, the Trial Division of the Supreme Court, and
-
-
 ### Canada Pension Plan Investment Board Act
 
 ### Section 130
 
   **(1)** Paragraph (c) of the definition **court** in section 2 of the `Canada Pension Plan Investment Board Act` is replaced by the following:
 
-    in the Provinces of Nova Scotia, British Columbia, **Prince Edward Island** and **Newfoundland and Labrador**, the Supreme Court of the Province;
+    in the Provinces of Nova Scotia, British Columbia, Prince Edward Island and Newfoundland and Labrador, the Supreme Court of the Province;
 
   **(2)** The definition **court** in section 2 of the Act is amended by adding "and" at the end of paragraph (d) and by repealing paragraph (e).
 
@@ -2518,7 +1894,7 @@ in Nova Scotia, British Columbia, Prince Edward Island, Newfoundland and Labrado
 
   **(2)** Paragraph (e) of the definition **court** in section 103 of the Act is replaced by the following:
 
-    the Supreme Court of Nova Scotia, British Columbia, Prince Edward Island and **Newfoundland and Labrador**;
+    the Supreme Court of Nova Scotia, British Columbia, Prince Edward Island and Newfoundland and Labrador;
 
 
 ### Extradition Act
@@ -2531,11 +1907,11 @@ in Nova Scotia, British Columbia, Prince Edward Island, Newfoundland and Labrado
 
   **(2)** Paragraph (a) of the definition **court** in section 2 of the Act is replaced by the following:
 
-    in Ontario, the **Superior** Court **of Justice**;
+    in Ontario, the Superior Court of Justice;
 
   **(3)** Paragraphs (d) and (e) of the definition **court** in section 2 of the Act are replaced by the following:
 
-    in Nova Scotia, British Columbia, Prince Edward Island, Newfoundland and **Labrador**, Yukon and the Northwest Territories, the Supreme Court; and
+    in Nova Scotia, British Columbia, Prince Edward Island, Newfoundland and Labrador, Yukon and the Northwest Territories, the Supreme Court; and
 
     in Nunavut, the Nunavut Court of Justice. (**tribunal**)
 
@@ -2546,7 +1922,7 @@ in Nova Scotia, British Columbia, Prince Edward Island, Newfoundland and Labrado
 
   **(1)** Paragraph (c) of the definition **judge** in subsection 2(1) of the `Canada Elections Act` is replaced by the following:
 
-    in relation to the Provinces of Nova Scotia, British Columbia, Prince Edward Island and **Newfoundland and Labrador**, a judge of the Supreme Court of the Province;
+    in relation to the Provinces of Nova Scotia, British Columbia, Prince Edward Island and Newfoundland and Labrador, a judge of the Supreme Court of the Province;
 
   **(2)** Paragraph (e) of the definition **judge** in subsection 2(1) of the Act is repealed.
 
@@ -2554,7 +1930,7 @@ in Nova Scotia, British Columbia, Prince Edward Island, Newfoundland and Labrado
 
   **(1)** Paragraph 311(1)(c) of the Act is replaced by the following:
 
-    in the Province of Nova Scotia, British Columbia, Prince Edward Island or **Newfoundland and Labrador**, to a judge of the Supreme Court of the Province; **and**
+    in the Province of Nova Scotia, British Columbia, Prince Edward Island or Newfoundland and Labrador, to a judge of the Supreme Court of the Province; and
 
   **(2)** Subsection 311(1) of the Act is amended by striking out "and" at the end of paragraph (d) and by repealing paragraph (e).
 
@@ -2562,7 +1938,7 @@ in Nova Scotia, British Columbia, Prince Edward Island, Newfoundland and Labrado
 
   **(1)** Paragraph 525(2)(c) of the Act is replaced by the following:
 
-    in the Provinces of Nova Scotia, British Columbia, Prince Edward Island and **Newfoundland and Labrador, in** Yukon and **in** the Northwest Territories, the Supreme Court;
+    in the Provinces of Nova Scotia, British Columbia, Prince Edward Island and Newfoundland and Labrador, in Yukon and in the Northwest Territories, the Supreme Court;
 
   **(2)** Subsection 525(2) of the Act is amended by adding "and" at the end of paragraph (d) and by repealing paragraph (e).
 
@@ -2573,169 +1949,116 @@ in Nova Scotia, British Columbia, Prince Edward Island, Newfoundland and Labrado
 
   **(1)** Paragraph 32(5)(c) of the `Proceeds of Crime (Money Laundering) and Terrorist Financing Act` is replaced by the following:
 
-    in the Provinces of Nova Scotia, British Columbia, Prince Edward Island and **Newfoundland and Labrador, in** Yukon and **in** the Northwest Territories, the Supreme Court;
+    in the Provinces of Nova Scotia, British Columbia, Prince Edward Island and Newfoundland and Labrador, in Yukon and in the Northwest Territories, the Supreme Court;
 
   **(2)** Subsection 32(5) of the Act is amended by adding "and" at the end of paragraph (d) and by repealing paragraph (e).
 
 
-### Crimes Against Humanity and War Crimes Act
+### Canada Shipping Act, 2001
 
 ### Section 137
 
-Subsection 9(3) of the French version of the `Crimes Against Humanity and War Crimes Act` is replaced by the following:
-
-**(3)** Les poursuites à l'égard des infractions visées aux articles 4 à 7 de la présente loi ou à l'article 354 ou au paragraphe **462.31(1)** du `Code criminel` à l'égard de biens ou de leur produit qui ont été obtenus ou qui proviennent directement ou indirectement de la perpétration d'une infraction prévue à la présente loi sont subordonnées au consentement personnel écrit du procureur général du Canada ou du sous-procureur général du Canada et sont menées par le procureur général du Canada ou en son nom.
-
-
-> **Explanatory Note**:
-> *This amendment corrects an incorrect cross-reference in the French version of the `Crimes Against Humanity and War Crimes Act`. The English version refers correctly to subsection 462.31(1) of the `Criminal Code` whereas the French version refers to subsection 462.23(1), which does not exist.*
-> *Existing Text*:
-> > No proceedings for an offence under any of sections 4 to 7 of this Act, or under section 354 or subsection 462.31(1) of the `Criminal Code` in relation to property or proceeds obtained or derived directly or indirectly as a result of the commission of an offence under this Act, may be commenced without the personal consent in writing of the Attorney General or Deputy Attorney General of Canada, and those proceedings may be conducted only by the Attorney General of Canada or counsel acting on their behalf.
-
-
-### Canada Shipping Act, 2001
-
-### Section 138
-
 The definition **Canadian maritime document** in section 2 of the English version of the `Canada Shipping Act, 2001` is replaced by the following:
 
-**Canadian maritime document** means a licence, permit, certificate or other document that is issued by the Minister of Transport under Part 1 (General), 3 (Personnel), 4 (Safety), 9 (Pollution Prevention — Department of Transport) or 11 (Enforcement — Department of Transport) **and establishes** that the person to whom or vessel to which it is issued has met requirements under that Part. (**document maritime canadien**)
+**Canadian maritime document** means a licence, permit, certificate or other document that is issued by the Minister of Transport under Part 1 (General), 3 (Personnel), 4 (Safety), 9 (Pollution Prevention — Department of Transport) or 11 (Enforcement — Department of Transport) and establishes that the person to whom or vessel to which it is issued has met requirements under that Part. (**document maritime canadien**)
 
-
-> **Explanatory Note**:
-> *This amendment corrects a discrepancy between the English and French versions by replacing "to verify" with "and establishes" in the English version of the definition "Canadian maritime document". The French version expresses the legislator's intent because the Minister of Transport may not issue a document referred to in that definition before verifying that the requirements for its issuance have been met.*
-> *Existing Text*:
-> > **Canadian maritime document** means a licence, permit, certificate or other document that is issued by the Minister of Transport under Part 1 (General), 3 (Personnel), 4 (Safety), 9 (Pollution Prevention — Department of Transport) or 11 (Enforcement — Department of Transport) to verify that the person to whom or vessel to which it is issued has met requirements under that Part. (**document maritime canadien**)
-
-### Section 139
+### Section 138
 
 Section 264 of the Act is replaced by the following:
 
 ### Section 264
 
-If there is no judge having jurisdiction in respect of writs of certiorari resident at or near the place where a conviction or an order is made, in Ontario, a judge of the Superior Court of Justice, in Nova Scotia, British Columbia, Prince Edward Island and Newfoundland and Labrador, a judge of the Supreme Court or, in New Brunswick, Manitoba, Saskatchewan or Alberta, a judge of the Court of **King's** Bench has power to hear and determine an application for a stay of proceedings on the conviction or order.
-
-
-> **Explanatory Note**:
-> *This amendment reflects changes to the organization of courts made by provincial legislation (`Court of Appeal Act`, S.N.L. 2017, c. C-37.002).*
-> *Existing Text*:
-> > If there is no judge having jurisdiction in respect of writs of certiorari resident at or near the place where a conviction or an order is made, in Ontario, a judge of the Ontario Superior Court of Justice, in Nova Scotia, British Columbia and Prince Edward Island, a judge of the Supreme Court, in Newfoundland and Labrador, a judge of the Trial Division of the Supreme Court, or, in New Brunswick, Manitoba, Saskatchewan or Alberta, a judge of the Court of Queen's Bench has power to hear and determine an application for a stay of proceedings on the conviction or order.
+If there is no judge having jurisdiction in respect of writs of certiorari resident at or near the place where a conviction or an order is made, in Ontario, a judge of the Superior Court of Justice, in Nova Scotia, British Columbia, Prince Edward Island and Newfoundland and Labrador, a judge of the Supreme Court or, in New Brunswick, Manitoba, Saskatchewan or Alberta, a judge of the Court of King's Bench has power to hear and determine an application for a stay of proceedings on the conviction or order.
 
 
 ### Pest Control Products Act
 
-### Section 140
+### Section 139
 
   **(1)** Paragraph (a) of the definition **étiquette** in subsection 2(1) of the French version of the `Pest Control Products Act` is replaced by the following:
 
-    qui sont placés ou à placer sur ou dans un emballage ou sur un produit antiparasitaire **ou** qui les accompagnent ou sont destinés à les accompagner;
+    qui sont placés ou à placer sur ou dans un emballage ou sur un produit antiparasitaire ou qui les accompagnent ou sont destinés à les accompagner;
 
   **(2)** Subsection 2(1) of the Act is amended by adding the following in alphabetical order:
 
     **Canada Agricultural Review Tribunal** means the Canada Agricultural Review Tribunal continued by subsection 27(1) of the `Agriculture and Agri-Food Administrative Monetary Penalties Act`. (**Tribunal de révision agricole du Canada**)
 
-### Section 141
+### Section 140
 
 Subsection 48(3) of the Act is replaced by the following:
 
-**(3)** An inspector and any person accompanying them may enter and pass through private property, other than a **dwelling-place** on that property, in order to gain entry to a place referred to in paragraph (1)(a).
+**(3)** An inspector and any person accompanying them may enter and pass through private property, other than a dwelling-place on that property, in order to gain entry to a place referred to in paragraph (1)(a).
 
-
-> **Explanatory Note**:
-> *This amendment replaces "dwelling house" with "dwelling-place" for internal consistency within the Act.*
-> *Existing Text*:
-> > An inspector and any person accompanying them may enter and pass through private property, other than a dwelling house on that property, in order to gain entry to a place referred to in paragraph (1)(a).
-
-### Section 142
+### Section 141
 
   **(1)** Subsection 53.2(1) of the Act is replaced by the following:
 
 ### Section 53.2
 
-      **(1)** Subject to subsection 55(1), if proceedings are instituted in relation to a pest control product or other thing seized under this Act, its owner or the person having possession, care or control of it at the time of its seizure may apply, in the case of a violation, to the **Canada Agricultural** Review Tribunal or, in the case of an offence, to the court before which the proceedings are being held, for an order that the thing be returned.
+      **(1)** Subject to subsection 55(1), if proceedings are instituted in relation to a pest control product or other thing seized under this Act, its owner or the person having possession, care or control of it at the time of its seizure may apply, in the case of a violation, to the Canada Agricultural Review Tribunal or, in the case of an offence, to the court before which the proceedings are being held, for an order that the thing be returned.
 
   **(2)** Subsection 53.2(2) of the English version of the Act is replaced by the following:
 
-    **(2)** If the **Canada Agricultural** Review Tribunal or court, as the case may be, is satisfied that sufficient evidence exists or may reasonably be obtained without the continued detention of the pest control product or other thing, the Tribunal or court may order it to be returned to the applicant, subject to any conditions the Tribunal or court may impose to ensure that it is preserved for any purpose for which it may subsequently be required.
+    **(2)** If the Canada Agricultural Review Tribunal or court, as the case may be, is satisfied that sufficient evidence exists or may reasonably be obtained without the continued detention of the pest control product or other thing, the Tribunal or court may order it to be returned to the applicant, subject to any conditions the Tribunal or court may impose to ensure that it is preserved for any purpose for which it may subsequently be required.
 
-### Section 143
+### Section 142
 
 Subsection 55(2) of the Act is replaced by the following:
 
-**(2)** If the **Canada Agricultural** Review Tribunal decides that a person has committed a violation, or if an offender is convicted of an offence under this Act, the Tribunal or the court, as the case may be, may, in addition to imposing a penalty or punishment, order that the pest control product or other thing that was involved in the violation or offence be forfeited to **His** Majesty in right of Canada, regardless of whether the product or thing was seized under this Act or not.
-
-
-> **Explanatory Note**:
-> *This amendment to the English version is necessary in order to reflect the name change of the Review Tribunal.*
-> *Existing Text*:
-> > If the Review Tribunal, continued by subsection 27(1) of the `Agriculture and Agri-Food Administrative Monetary Penalties Act`, decides that a person has committed a violation, or if an offender is convicted of an offence under this Act, the Tribunal or the court, as the case may be, may, in addition to imposing a penalty or punishment, order that the pest control product or other thing that was involved in the violation or offence be forfeited to Her Majesty in right of Canada, regardless of whether the product or thing was seized under this Act or not.
+**(2)** If the Canada Agricultural Review Tribunal decides that a person has committed a violation, or if an offender is convicted of an offence under this Act, the Tribunal or the court, as the case may be, may, in addition to imposing a penalty or punishment, order that the pest control product or other thing that was involved in the violation or offence be forfeited to His Majesty in right of Canada, regardless of whether the product or thing was seized under this Act or not.
 
 
 ### International Interests in Mobile Equipment (aircraft equipment) Act
 
-### Section 144
+### Section 143
 
 Article 30(3)(b) of Schedule 1 to the French version of the `International Interests in Mobile Equipment (aircraft equipment) Act` is replaced by the following:
 
-à toute règle de procédure relative à l'exercice **de** droits **sur des biens** soumis au contrôle ou à la surveillance de l'administrateur d'insolvabilité.
+à toute règle de procédure relative à l'exercice de droits sur des biens soumis au contrôle ou à la surveillance de l'administrateur d'insolvabilité.
 
-
-> **Explanatory Note**:
-> *This amendment corrects the French version of the `International Interests in Mobile Equipment (aircraft equipment) Act` to reflect the changes made to the Convention on International Interests in Mobile Equipment, which is set out in Schedule 1 to that Act.*
-> *Existing Text*:
-> > Aucune disposition du présent article ne porte atteinte :
-> > 
-> > à toute règle de procédure relative à l'exercice des droits de propriété soumis au contrôle ou à la surveillance de l'administrateur d'insolvabilité.
-
-### Section 145
+### Section 144
 
 Article 51(6) of Schedule 1 to the French version of the Act is replaced by the following:
 
-**6** **L'article 45 *bis* de** la présente Convention ne s'applique à un tel Protocole que si celui-ci le prévoit expressément.
-
-
-> **Explanatory Note**:
-> *This amendment corrects the French version of the `International Interests in Mobile Equipment (aircraft equipment) Act` to reflect the changes made to the Convention on International Interests in Mobile Equipment, which is set out in Schedule 1 to that Act.*
-> *Existing Text*:
-> > L'Annexe à la présente Convention ne s'applique à un tel Protocole que si celui-ci le prévoit expressément.
+**6** L'article 45 *bis* de la présente Convention ne s'applique à un tel Protocole que si celui-ci le prévoit expressément.
 
 
 ### Civil Marriage Act
 
-### Section 146
+### Section 145
 
   **(1)** Paragraph 6(c) of the `Civil Marriage Act` is replaced by the following:
 
-    for Nova Scotia, British Columbia, **Prince Edward Island** and **Newfoundland and Labrador**, the Supreme Court of the province;
+    for Nova Scotia, British Columbia, Prince Edward Island and Newfoundland and Labrador, the Supreme Court of the province;
 
   **(2)** Section 6 of the Act is amended by adding "and" at the end of paragraph (d) and by repealing paragraph (e).
 
 
 ### Canada Not-for-profit Corporations Act
 
-### Section 147
+### Section 146
 
   **(1)** Paragraph (a) of the definition **court** in subsection 2(1) of the `Canada Not-for-profit Corporations Act` is repealed.
 
   **(2)** Paragraph (c) of the definition **court** in subsection 2(1) of the Act is replaced by the following:
 
-    in Nova Scotia, British Columbia, Prince Edward Island and **Newfoundland and Labrador**, the Supreme Court of the province;
+    in Nova Scotia, British Columbia, Prince Edward Island and Newfoundland and Labrador, the Supreme Court of the province;
 
 
 ### Protection of Residential Mortgage or Hypothecary Insurance Act
 
-### Section 148
+### Section 147
 
   **(1)** Paragraph (c) of the definition **court** in section 2 of the `Protection of Residential Mortgage or Hypothecary Insurance Act` is replaced by the following:
 
-    in Nova Scotia, British Columbia, **Prince Edward Island** and **Newfoundland and Labrador**, the Supreme Court of the province;
+    in Nova Scotia, British Columbia, Prince Edward Island and Newfoundland and Labrador, the Supreme Court of the province;
 
   **(2)** The definition **court** in section 2 of the Act is amended by adding "and" at the end of paragraph (d) and by repealing paragraph (e).
 
 
 ### Safe Food for Canadians Act
 
-### Section 149
+### Section 148
 
   **(1)** The definition **Tribunal** in section 2 of the `Safe Food for Canadians Act` is repealed.
 
@@ -2743,97 +2066,70 @@ Article 51(6) of Schedule 1 to the French version of the Act is replaced by the 
 
     **Canada Agricultural Review Tribunal** means the Canada Agricultural Review Tribunal continued by subsection 27(1) of the `Agriculture and Agri-Food Administrative Monetary Penalties Act`. (**Tribunal de révision agricole du Canada**)
 
-### Section 150
+### Section 149
 
   **(1)** Subsection 31(1) of the Act is replaced by the following:
 
 ### Section 31
 
-      **(1)** Subject to section 35, if proceedings are instituted in relation to a thing seized under this Act, its owner or the person having possession, care or control of it at the time of its seizure may apply, in the case of a violation, to the **Canada Agricultural Review** Tribunal or, in the case of an offence, to the court before which the proceedings are being held, for an order that the thing be returned.
+      **(1)** Subject to section 35, if proceedings are instituted in relation to a thing seized under this Act, its owner or the person having possession, care or control of it at the time of its seizure may apply, in the case of a violation, to the Canada Agricultural Review Tribunal or, in the case of an offence, to the court before which the proceedings are being held, for an order that the thing be returned.
 
   **(2)** Subsection 31(2) of the English version of the Act is replaced by the following:
 
-    **(2)** If the **Canada Agricultural Review** Tribunal or court, as the case may be, is satisfied that sufficient evidence exists or may reasonably be obtained without the continued detention of the thing, the Tribunal or court may order it to be returned to the applicant, subject to any conditions the Tribunal or court may impose to ensure that it is preserved for any purpose for which it may subsequently be required.
+    **(2)** If the Canada Agricultural Review Tribunal or court, as the case may be, is satisfied that sufficient evidence exists or may reasonably be obtained without the continued detention of the thing, the Tribunal or court may order it to be returned to the applicant, subject to any conditions the Tribunal or court may impose to ensure that it is preserved for any purpose for which it may subsequently be required.
 
-### Section 151
+### Section 150
 
   **(1)** Subsection 36(1) of the Act is replaced by the following:
 
 ### Section 36
 
-      **(1)** If the **Canada Agricultural Review** Tribunal decides that a person has committed a violation or a person is convicted of an offence under this Act, the Tribunal or the convicting court, as the case may be, may, in addition to any punishment imposed, order that a thing by means of or in respect of which the violation or offence was committed, regardless of whether it was seized under this Act or not, be forfeited to **His** Majesty in right of Canada.
+      **(1)** If the Canada Agricultural Review Tribunal decides that a person has committed a violation or a person is convicted of an offence under this Act, the Tribunal or the convicting court, as the case may be, may, in addition to any punishment imposed, order that a thing by means of or in respect of which the violation or offence was committed, regardless of whether it was seized under this Act or not, be forfeited to His Majesty in right of Canada.
 
   **(2)** Subsection 36(3) of the English version of the Act is replaced by the following:
 
-    **(3)** If the **Canada Agricultural Review** Tribunal or court does not order the forfeiture of a thing that was seized, it must be returned to its owner or the person having possession, care or control of it at the time of its seizure.
+    **(3)** If the Canada Agricultural Review Tribunal or court does not order the forfeiture of a thing that was seized, it must be returned to its owner or the person having possession, care or control of it at the time of its seizure.
 
 
 ### Administrative Tribunals Support Service of Canada Act
 
-### Section 152
+### Section 151
 
 The schedule to the `Administrative Tribunals Support Service of Canada Act` is amended by repealing the following:
 
-
-> **Explanatory Note**:
-> *Since 2009, the Review Tribunal has been known under the operational name Canada Agricultural Review Tribunal, which represents more fully and accurately the Tribunal's mandate. These amendments are necessary in order to reflect that name change.*
-
-### Section 153
+### Section 152
 
 The schedule to the Act is amended by adding the following in alphabetical order:
 
 
-> **Explanatory Note**:
-> *This amendment is necessary in order to reflect the name change of the Review Tribunal.*
-
-
 ### Prevention of Terrorist Travel Act
 
-### Section 154
+### Section 153
 
 Subsection 4(1) of the `Prevention of Terrorist Travel Act` is replaced by the following:
 
 ### Section 4
 
-  **(1)** If the Minister has **decided** that a passport is to be cancelled under the `Canadian Passport Order` **because the Minister has reasonable** grounds to **suspect** that the cancellation is necessary to prevent the commission of a terrorism offence, as defined in section 2 of the `Criminal Code`, or for the national security of Canada or a foreign country or state, the person to whom the passport was issued may appeal that decision to a judge within 30 days after the day on which the person receives notice of the Minister's decision in respect of an application that was made under that Order to have the cancellation reconsidered.
+  **(1)** If the Minister has decided that a passport is to be cancelled under the `Canadian Passport Order` because the Minister has reasonable grounds to suspect that the cancellation is necessary to prevent the commission of a terrorism offence, as defined in section 2 of the `Criminal Code`, or for the national security of Canada or a foreign country or state, the person to whom the passport was issued may appeal that decision to a judge within 30 days after the day on which the person receives notice of the Minister's decision in respect of an application that was made under that Order to have the cancellation reconsidered.
 
-
-> **Explanatory Note**:
-> *This amendment makes subsection 4(1) more consistent with subsection 11.1(2) in the `Canadian Passport Order`. Subsection 11.1(2) is the subsection under which the Minister would make the decision referred to in subsection 4(1). This amendment was proposed by the Standing Joint Committee for the Scrutiny of Regulations.*
-> *Existing Text*:
-> > If a passport has been cancelled as a result of a decision of the Minister under the `Canadian Passport Order` that the passport is to be cancelled on the grounds that the cancellation is necessary to prevent the commission of a terrorism offence, as defined in section 2 of the `Criminal Code`, or for the national security of Canada or a foreign country or state, the person to whom the passport was issued may appeal that decision to a judge within 30 days after the day on which the person receives notice of the Minister's decision in respect of an application that was made under that Order to have the cancellation reconsidered.
-
-### Section 155
+### Section 154
 
 Paragraph 6(1)(a) of the Act is replaced by the following:
 
-a decision of the Minister under the `Canadian Passport Order` that a passport is not to be issued or is to be revoked **because** the **Minister has reasonable** grounds **to believe** that the refusal to issue or the revocation is necessary to prevent the commission of a terrorism offence, as defined in section 2 of the `Criminal Code`, or for the national security of Canada or a foreign country or state; and
-
-
-> **Explanatory Note**:
-> *This amendment makes paragraph 6(1)(a) more consistent with section 10.1 in the `Canadian Passport Order`. Section 10.1 is the section under which the Minister would make the decision referred to in paragraph 6(1)(a). This amendment was proposed by the Standing Joint Committee for the Scrutiny of Regulations.*
-> *Existing Text*:
-> > The rules set out in subsection (2) apply to judicial review proceedings in respect of the following decisions:
-> > a decision of the Minister under the `Canadian Passport Order` that a passport is not to be issued or is to be revoked on the grounds that the refusal to issue or the revocation is necessary to prevent the commission of a terrorism offence, as defined in section 2 of the `Criminal Code`, or for the national security of Canada or a foreign country or state; and
+a decision of the Minister under the `Canadian Passport Order` that a passport is not to be issued or is to be revoked because the Minister has reasonable grounds to believe that the refusal to issue or the revocation is necessary to prevent the commission of a terrorism offence, as defined in section 2 of the `Criminal Code`, or for the national security of Canada or a foreign country or state; and
 
 
 ### `Wrecked, Abandoned or Hazardous Vessels Act`
 
-### Section 156
+### Section 155
 
 The portion of section 89 of the French version of the `Wrecked, Abandoned or Hazardous Vessels Act` before paragraph (a) is replaced by the following:
 
 ### Section 89
 
-Aux articles 90 à **108**, **ministre** s'entend du ministre des Transports ou, selon le cas :
+Aux articles 90 à 108, **ministre** s'entend du ministre des Transports ou, selon le cas :
 
-
-> **Explanatory Note**:
-> *This amendment corrects a cross-reference in the French version.*
-> *Existing Text*:
-> > Aux articles 90 à 106, **ministre** s'entend du ministre des Transports ou, selon le cas :
-
-### Section 157
+### Section 156
 
 The portion of section 109 of the French version of the Act before paragraph (a) is replaced by the following:
 
@@ -2842,109 +2138,52 @@ The portion of section 109 of the French version of the Act before paragraph (a)
 Pour l'application des articles 90 à *108*, le gouverneur en conseil peut, par règlement, sur recommandation du ministre :
 
 
-> **Explanatory Note**:
-> *This amendment corrects a cross-reference in the French version.*
-> *Existing Text*:
-> > Pour l'application des articles 90 à 106, le gouverneur en conseil peut, par règlement, sur recommandation du ministre :
-
-
 ### `Impact Assessment Act`
 
-### Section 158
+### Section 157
 
-The portion of section 63 of the English version of the `Impact Assessment Act` before paragraph (a) is replaced by the following:
+Paragraph 112(1)(c) of the `Impact Assessment Act` is replaced by the following:
 
-### Section 63
-
-The Minister's determination under paragraph 60(1)(a) in respect of a designated project referred to in that **paragraph**, and the Governor in Council's determination under section 62 in respect of a designated project referred to in that **section**, must be based on the report with respect to the impact assessment and a consideration of the following factors:
-
-
-> **Explanatory Note**:
-> *This amendment corrects two errors of terminology in the English version.*
-> *Existing Text*:
-> > The Minister's determination under paragraph 60(1)(a) in respect of a designated project referred to in that subsection, and the Governor in Council's determination under section 62 in respect of a designated project referred to in that subsection, must be based on the report with respect to the impact assessment and a consideration of the following factors:
-
-### Section 159
-
-Paragraph 112(1)(c) of the Act is replaced by the following:
-
-prescribing, for the purposes of any of subsections 9(5), 18(**5**), 28(9), 36(3) and 37(6), any activity in respect of which a time limit may be suspended and respecting circumstances, in relation to an activity, in which a time limit may be suspended;
-
-
-> **Explanatory Note**:
-> *This amendment corrects an error in a cross-reference that occurred when section 18 was amended without a consequential amendment to paragraph 112(1)(c).*
-> *Existing Text*:
-> > The Minister may make regulations
-> > 
-> > prescribing, for the purposes of any of subsections 9(5), 18(6), 28(9), 36(3) and 37(6), any activity in respect of which a time limit may be suspended and respecting circumstances, in relation to an activity, in which a time limit may be suspended;
+prescribing, for the purposes of any of subsections 9(5), 18(5), 28(9), 36(3) and 37(6), any activity in respect of which a time limit may be suspended and respecting circumstances, in relation to an activity, in which a time limit may be suspended;
 
 
 ### Retail Payment Activities Act
 
-### Section 160
+### Section 158
 
 Subsection 105(2) of the `Retail Payment Activities Act` is replaced by the following:
 
-**(2)** If subsection 53.6(1) of the `Proceeds of Crime (Money Laundering) and Terrorist Financing Act`, as enacted by section **180** of the `Budget Implementation Act, 2021, No. 1`, comes into force before or during the transition period, the 30-day period referred to in that subsection is, in relation to an application for registration that is submitted during the transition period, suspended until the end of the transition period.
-
-
-> **Explanatory Note**:
-> *This amendment corrects an incorrect cross-reference. A clause was removed from the `Budget Implementation Act, 2021, No. 1` during the legislative process that resulted in other provisions being renumbered. Subsection 105(2) of the `Retail Payment Activities Act`, as enacted by section 177 of the `Budget Implementation Act, 2021, No. 1`, was not adjusted to reflect the new numbering. The cross-reference should read section 180, not section 181.*
-> *Existing Text*:
-> > If subsection 53.6(1) of the `Proceeds of Crime (Money Laundering) and Terrorist Financing Act`, as enacted by section 181 of the `Budget Implementation Act, 2021, No. 1`, comes into force before or during the transition period, the 30-day period referred to in that subsection is, in relation to an application for registration that is submitted during the transition period, suspended until the end of the transition period.
+**(2)** If subsection 53.6(1) of the `Proceeds of Crime (Money Laundering) and Terrorist Financing Act`, as enacted by section 180 of the `Budget Implementation Act, 2021, No. 1`, comes into force before or during the transition period, the 30-day period referred to in that subsection is, in relation to an application for registration that is submitted during the transition period, suspended until the end of the transition period.
 
 
 ### `Rules of the Review Tribunal (Canada Agricultural Review Tribunal)`
 
-### Section 161
+### Section 159
 
 The title of the `Rules of the Review Tribunal (Canada Agricultural Review Tribunal)` is replaced by the following:
 
 
 #### Rules of the Canada Agricultural Review Tribunal
 
-
-> **Explanatory Note**:
-> *This amendment to the title of the regulations is necessary in order to reflect the name change of the Review Tribunal.*
-> *Existing Text*:
-
-### Section 162
+### Section 160
 
 Subrule 10(2) of the French version of the Rules is replaced by the following:
 
-**(2)** **Il** peut, sur demande, permettre à une partie de remédier à une lacune ou une irrégularité, selon les modalités qu'**il** juge équitables, avant la fin de l'instance.
+**(2)** Il peut, sur demande, permettre à une partie de remédier à une lacune ou une irrégularité, selon les modalités qu'il juge équitables, avant la fin de l'instance.
 
-
-> **Explanatory Note**:
-> *These amendments to the French version of the regulations are necessary in order to reflect the name change of the Review Tribunal.*
-> *Existing Text*:
-> > Elle peut, sur demande, permettre à une partie de remédier à une lacune ou une irrégularité, selon les modalités qu'elle juge équitables, avant la fin de l'instance.
-
-### Section 163
+### Section 161
 
 The portion of subrule 32(2) of the French version of the Rules before paragraph (a) is replaced by the following:
 
-**(2)** Pour statuer sur l'admissibilité, **il** tient compte de tout facteur pertinent, notamment :
+**(2)** Pour statuer sur l'admissibilité, il tient compte de tout facteur pertinent, notamment :
 
-
-> **Explanatory Note**:
-> *These amendments to the French version of the regulations are necessary in order to reflect the name change of the Review Tribunal.*
-> *Existing Text*:
-> > Pour statuer sur l'admissibilité, elle tient compte de tout facteur pertinent, notamment :
-
-### Section 164
+### Section 162
 
 The portion of subrule 48(2) of the French version of the Rules before paragraph (a) is replaced by the following:
 
-**(2)** Pour statuer sur l'admissibilité, **il** tient compte de tout facteur pertinent, notamment :
+**(2)** Pour statuer sur l'admissibilité, il tient compte de tout facteur pertinent, notamment :
 
-
-> **Explanatory Note**:
-> *These amendments to the French version of the regulations are necessary in order to reflect the name change of the Review Tribunal.*
-> *Existing Text*:
-> > Pour statuer sur l'admissibilité, elle tient compte de tout facteur pertinent, notamment :
-
-### Section 165
+### Section 163
 
 The French version of the Rules is amended by replacing "Commission" with "Tribunal", with any necessary modifications, in the following provisions:
 
@@ -3027,8 +2266,4 @@ rule 54;
 subrule 55(1); and
 
 rules 56 and 57.
-
-
-> **Explanatory Note**:
-> *These amendments to the French version of the regulations are necessary in order to reflect the name change of the Review Tribunal.*
 
