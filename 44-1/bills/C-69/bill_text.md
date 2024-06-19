@@ -1,7 +1,5 @@
 # Bill C-69: An Act to implement certain provisions of the budget tabled in Parliament on April 16, 2024
 
-**Sponsor**: DEPUTY PRIME MINISTER AND MINISTER OF FINANCE
-
 Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act to implement certain provisions of the budget tabled in Parliament on April 16, 2024*".
 
 ## Summary
@@ -236,9 +234,7 @@ Division 36 of Part 4 amends the `Radiocommunication Act` to, among other things
 
 Division 37 of Part 4 amends the `Telecommunications Act` to, among other things, require telecommunications service providers to provide their subscribers with a self-service mechanism that allows them to cancel their contract for telecommunications services or modify their telecommunications service plan and to inform those subscribers before the expiry of their fixed-term contract, as well as in other specified circumstances, of other service plans that those providers offer. It also amends that Act to prohibit the charging of certain fees.
 
-[Deleted]
-
-Division 39 of Part 4 amends the `Corrections and Conditional Release Act` to, among other things,
+Division 38 of Part 4 amends the `Corrections and Conditional Release Act` to, among other things,
 
 provide that the Correctional Service of Canada is responsible for implementing any arrangement — approved by the Minister of Public Safety and Emergency Preparedness — entered into by the Commissioner of Corrections and the Canada Border Services Agency with respect to the support that the Service may provide to the Agency to assist in the exercise of certain powers or the performance of certain duties and functions;
 
@@ -250,19 +246,19 @@ It also amends the `Immigration and Refugee Protection Act` to define the term "
 
 Finally, it provides for the repeal of those amendments on a specified date and includes a transitional provision.
 
-Division 40 of Part 4 contains measures related to public debt and the borrowing of money.
+Division 39 of Part 4 contains measures related to public debt and the borrowing of money.
 
-Subdivision A of Division 40 amends the `Financial Administration Act` to clarify that certain regulations and directions do not apply to contracts related to the borrowing of money entered into by the Minister of Finance.
+Subdivision A of Division 39 amends the `Financial Administration Act` to clarify that certain regulations and directions do not apply to contracts related to the borrowing of money entered into by the Minister of Finance.
 
-Subdivision B of Division 40 amends the `Borrowing Authority Act` to increase the maximum amount of certain borrowings.
+Subdivision B of Division 39 amends the `Borrowing Authority Act` to increase the maximum amount of certain borrowings.
 
-Division 41 of Part 4 amends the `Trust and Loan Companies Act`, the `Bank Act` and the `Insurance Companies Act` to require certain financial institutions to make available information respecting diversity among directors and members of senior management.
+Division 40 of Part 4 amends the `Trust and Loan Companies Act`, the `Bank Act` and the `Insurance Companies Act` to require certain financial institutions to make available information respecting diversity among directors and members of senior management.
 
-Division 42 of Part 4 amends the `Trust and Loan Companies Act`, the `Bank Act` and the `Insurance Companies Act` to extend the period during which federal financial institutions governed by those Acts may carry on business.
+Division 41 of Part 4 amends the `Trust and Loan Companies Act`, the `Bank Act` and the `Insurance Companies Act` to extend the period during which federal financial institutions governed by those Acts may carry on business.
 
-Division 43 of Part 4 amends the `Federal Courts Act` to provide that the Federal Court has jurisdiction to hear applications for judicial review of decisions of the Social Security Tribunal on the extension of time to make a request for review or reconsideration under the `Canada Disability Benefit Act`. It also amends the `Tax Court of Canada Act` and the `Department of Employment and Social Development Act` to, among other things, provide the Tribunal with jurisdiction to hear appeals of decisions made under the `Canada Disability Benefit Act` and require that matters related to income raised in those appeals be referred to the Tax Court of Canada.
+Division 42 of Part 4 amends the `Federal Courts Act` to provide that the Federal Court has jurisdiction to hear applications for judicial review of decisions of the Social Security Tribunal on the extension of time to make a request for review or reconsideration under the `Canada Disability Benefit Act`. It also amends the `Tax Court of Canada Act` and the `Department of Employment and Social Development Act` to, among other things, provide the Tribunal with jurisdiction to hear appeals of decisions made under the `Canada Disability Benefit Act` and require that matters related to income raised in those appeals be referred to the Tax Court of Canada.
 
-Division 44 of Part 4 amends the `Controlled Drugs and Substances Act` to repeal provisions related to the ministerial power to exempt supervised consumption sites from the application of that Act. It also amends that Act to allow for the making of regulations respecting authorizations for supervised consumption and drug checking services and includes transitional provisions.
+Division 43 of Part 4 amends the `Controlled Drugs and Substances Act` to repeal provisions related to the ministerial power to exempt supervised consumption sites from the application of that Act. It also amends that Act to allow for the making of regulations respecting authorizations for supervised consumption and drug checking services and includes transitional provisions.
 
 
 ## TABLE OF PROVISIONS
@@ -1036,11 +1032,6 @@ Order in council
 
 
 ### `Telecommunications Act`
-
-
-
-
-### [*Deleted*]
 
 
 
@@ -14547,7 +14538,7 @@ The Act is amended by adding the following after section 30:
 
 ### Section 30.01
 
-  **(1)** Subject to any regulations made under paragraph 30(1)(j.1) and if the Minister believes **on reasonable grounds** that the use of a therapeutic product, other than the intended use, may present a risk of injury to health, the Minister may, by order, establish rules in respect of the importation, sale, conditions of sale, advertising, manufacture, preparation, preservation, packaging, labelling, storage or testing of the therapeutic product for the purpose of preventing, managing or controlling the risk of injury to health.
+  **(1)** Subject to any regulations made under paragraph 30(1)(j.1) and if the Minister believes on reasonable grounds that the use of a therapeutic product, other than the intended use, may present a risk of injury to health, the Minister may, by order, establish rules in respect of the importation, sale, conditions of sale, advertising, manufacture, preparation, preservation, packaging, labelling, storage or testing of the therapeutic product for the purpose of preventing, managing or controlling the risk of injury to health.
 
   **(2)** For greater certainty, the Minister may, in the order, establish rules for the purpose of preventing the therapeutic product from being promoted for a use, other than the intended use, of a therapeutic product or preventing a use, other than the intended use, of a therapeutic product from being appealing.
 
@@ -14555,7 +14546,7 @@ The Act is amended by adding the following after section 30:
 
 ### Section 30.02
 
-  **(1)** Subject to any regulations made under paragraph 30(1)(j.1) and if the Minister believes **on reasonable grounds** that the use of a drug intended for an animal of a particular species, including a use other than the intended use, may present a risk of adverse effects to human beings, animals of a different species or the environment, the Minister may, by order, establish rules in respect of the importation, sale, conditions of sale, advertising, manufacture, preparation, preservation, packaging, labelling, storage or testing of the drug for the purpose of preventing, managing or controlling the risk of adverse effects.
+  **(1)** Subject to any regulations made under paragraph 30(1)(j.1) and if the Minister believes on reasonable grounds that the use of a drug intended for an animal of a particular species, including a use other than the intended use, may present a risk of adverse effects to human beings, animals of a different species or the environment, the Minister may, by order, establish rules in respect of the importation, sale, conditions of sale, advertising, manufacture, preparation, preservation, packaging, labelling, storage or testing of the drug for the purpose of preventing, managing or controlling the risk of adverse effects.
 
   **(2)** The Minister may make the order despite any uncertainty respecting the risk of adverse effects that the use of the drug, including a use other than the intended use, may present.
 
@@ -14574,7 +14565,7 @@ The Minister must ensure that any order made under subsection 30.01(1) or 30.02(
 
   **(1)** Subject to subsection (2) and any regulations made under paragraph 30(1)(j.1), the Minister may, by order, on any conditions that the Minister considers necessary, exempt — other than in relation to cosmetics — a class of foods, therapeutic products, persons or activities from the application of all or any of the provisions of Part I, section 37 or the regulations.
 
-  **(2)** The Minister may make an order only if the Minister believes **on reasonable grounds** that
+  **(2)** The Minister may make an order only if the Minister believes on reasonable grounds that
 
     it is necessary for a health or safety purpose or is otherwise in the public interest; and
 
@@ -14594,7 +14585,7 @@ The Minister must ensure that any order made under subsection 30.01(1) or 30.02(
 
   **(2)** The portion of subsection 30.05(2) of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** The Minister may make an order under subsection (1) or (1.1) only if the Minister believes **on reasonable grounds** that
+    **(2)** The Minister may make an order under subsection (1) or (1.1) only if the Minister believes on reasonable grounds that
 
   **(3)** Section 30.05 of the Act is amended by adding the following after subsection (3):
 
@@ -14613,7 +14604,7 @@ The Act is amended by adding the following after section 30.05:
 
   **(1)** Subject to subsection (2) and any regulations made under paragraph 30(1)(j.1), the Minister may, by order, deem that specified requirements of this Act or the regulations are met — in respect of a therapeutic product or food that belongs to a class specified in the order — on the basis of a decision of, or any information or document produced by, a foreign regulatory authority in respect of that therapeutic product or food.
 
-  **(2)** The Minister may make the order only if the Minister believes**on reasonable grounds** that
+  **(2)** The Minister may make the order only if the Minister believes on reasonable grounds that
 
     it is necessary for a health or safety purpose or is otherwise in the public interest; and
 
@@ -15702,219 +15693,12 @@ The Commission may, subject to any conditions that it may specify, exempt any te
 This Division comes into force on a day to be fixed by order of the Governor in Council.
 
 
-### `Immigration and Refugee Protection Act` (In-Canada Asylum System)
-
-
-#### Amendments to the Act
-
-### Section 385
-
-[*Deleted*]
-
-### Section 386
-
-[*Deleted*]
-
-### Section 387
-
-[*Deleted*]
-
-### Section 388
-
-[*Deleted*]
-
-### Section 389
-
-[*Deleted*]
-
-### Section 390
-
-[*Deleted*]
-
-### Section 391
-
-[*Deleted*]
-
-### Section 392
-
-[*Deleted*]
-
-### Section 393
-
-[*Deleted*]
-
-### Section 394
-
-[*Deleted*]
-
-### Section 395
-
-[*Deleted*]
-
-### Section 396
-
-[*Deleted*]
-
-### Section 397
-
-[*Deleted*]
-
-### Section 398
-
-[*Deleted*]
-
-### Section 399
-
-[*Deleted*]
-
-### Section 400
-
-[*Deleted*]
-
-### Section 401
-
-[*Deleted*]
-
-### Section 402
-
-[*Deleted*]
-
-### Section 403
-
-[*Deleted*]
-
-### Section 404
-
-[*Deleted*]
-
-### Section 405
-
-[*Deleted*]
-
-### Section 406
-
-[*Deleted*]
-
-### Section 407
-
-[*Deleted*]
-
-### Section 408
-
-[*Deleted*]
-
-### Section 409
-
-[*Deleted*]
-
-### Section 410
-
-[*Deleted*]
-
-### Section 411
-
-[*Deleted*]
-
-### Section 412
-
-[*Deleted*]
-
-### Section 413
-
-[*Deleted*]
-
-### Section 414
-
-[*Deleted*]
-
-### Section 415
-
-[*Deleted*]
-
-### Section 416
-
-[*Deleted*]
-
-### Section 417
-
-[*Deleted*]
-
-### Section 418
-
-[*Deleted*]
-
-### Section 419
-
-[*Deleted*]
-
-### Section 420
-
-[*Deleted*]
-
-### Section 421
-
-[*Deleted*]
-
-### Section 422
-
-[*Deleted*]
-
-### Section 423
-
-[*Deleted*]
-
-### Section 424
-
-[*Deleted*]
-
-### Section 425
-
-[*Deleted*]
-
-
-#### Transitional Provisions
-
-### Section 426
-
-[*Deleted*]
-
-### Section 427
-
-[*Deleted*]
-
-### Section 428
-
-[*Deleted*]
-
-### Section 429
-
-[*Deleted*]
-
-### Section 430
-
-[*Deleted*]
-
-
-#### Coordinating Amendments
-
-### Section 431
-
-[*Deleted*]
-
-
-#### Coming into Force
-
-### Section 432
-
-[*Deleted*]
-
-
 ### Immigrant Stations
 
 
 #### `Corrections and Conditional Release Act`
 
-### Section 433
+### Section 385
 
   **(1)** Section 5 of the `Corrections and Conditional Release Act` is amended by striking out "and" at the end of paragraph (d), by adding "and" at the end of paragraph (e) and by adding the following after paragraph (e):
 
@@ -15922,7 +15706,7 @@ This Division comes into force on a day to be fixed by order of the Governor in 
 
   **(2)** Paragraph 5(f) of the Act is repealed.
 
-### Section 434
+### Section 386
 
 The Act is amended by adding the following before section 59:
 
@@ -15930,11 +15714,11 @@ The Act is amended by adding the following before section 59:
 
 Despite the definition visitor in subsection 2(1), in sections 59 and 60 **visitor** does not include an immigration detainee, as defined in section 94.1.
 
-### Section 435
+### Section 387
 
 Section 58.1 of the Act is repealed.
 
-### Section 436
+### Section 388
 
 The Act is amended by adding the following after section 94:
 
@@ -16035,14 +15819,14 @@ The definitions in this section apply in sections 94.2, 94.3 and 94.5 to 94.8.
 
 Every member of the House of Commons, every Senator and every judge of a court in Canada has the right to enter any designated immigrant station, visit any part of a designated immigrant station and visit any immigration detainee, with the consent of the immigration detainee, subject to such reasonable limits as are prescribed for protecting the security of the designated immigrant station or the safety of persons.
 
-### Section 437
+### Section 389
 
 The heading before section 94.1 and sections 94.1 to 94.8 of the Act are repealed.
 
 
 #### `Immigration and Refugee Protection Act`
 
-### Section 438
+### Section 390
 
   **(1)** Section 142 of the `Immigration and Refugee Protection Act` is renumbered as subsection 142(1) and is amended by adding the following:
 
@@ -16094,21 +15878,21 @@ The heading before section 94.1 and sections 94.1 to 94.8 of the Act are repeale
 
     **(10)** If the Minister determines that a person detained in a designated immigrant station in the circumstances described in subsection (8) is to remain detained in the designated immigrant station, the Minister must provide the person with written reasons for the determination.
 
-  **(2)** Subsections 142(2) **to (10)** of the Act are repealed.
+  **(2)** Subsections 142(2) to (10) of the Act are repealed.
 
 
 #### Transitional Provision
 
-### Section 439
+### Section 391
 
-On the coming into force of section `437`, any arrangement entered into under section 94.3 of `Corrections and Conditional Release Act` that is still in effect is terminated and any designation made under subsection 94.4(1) of that Act is revoked.
+On the coming into force of section `389`, any arrangement entered into under section 94.3 of `Corrections and Conditional Release Act` that is still in effect is terminated and any designation made under subsection 94.4(1) of that Act is revoked.
 
 
 #### Coordinating Amendment
 
-### Section 440
+### Section 392
 
-If section 18 of `An Act to amend the Corrections and Conditional Release Act and another Act` comes into force before section `435` of this Act, then, on the first day on which both that section 18 and section `434` of this Act are in force, section 58.1 of the `Corrections and Conditional Release Act` is replaced by the following:
+If section 18 of `An Act to amend the Corrections and Conditional Release Act and another Act` comes into force before section `387` of this Act, then, on the first day on which both that section 18 and section `386` of this Act are in force, section 58.1 of the `Corrections and Conditional Release Act` is replaced by the following:
 
 ### Section 58.1
 
@@ -16117,9 +15901,9 @@ Despite the definition visitor in subsection 2(1), in sections 59, 60 and 60.1 *
 
 #### Coming into Force
 
-### Section 441
+### Section 393
 
-Subsection `433`(2), sections `435` and `437` and subsection `438`(2) come into force on the fifth anniversary of the day on which this Act receives royal assent.
+Subsection `385`(2), sections `387` and `389` and subsection `390`(2) come into force on the fifth anniversary of the day on which this Act receives royal assent.
 
 
 ### Measures Related to Public Debt and the Borrowing of Money
@@ -16127,7 +15911,7 @@ Subsection `433`(2), sections `435` and `437` and subsection `438`(2) come into 
 
 #### `Financial Administration Act`
 
-### Section 442
+### Section 394
 
   **(1)** Subsection 44(3) of the French version of the `Financial Administration Act` is replaced by the following:
 
@@ -16143,7 +15927,7 @@ Subsection `433`(2), sections `435` and `437` and subsection `438`(2) come into 
 
 ##### Amendment to the Act
 
-### Section 443
+### Section 395
 
 The portion of section 4 of the `Borrowing Authority Act` before paragraph (a) is replaced by the following:
 
@@ -16154,11 +15938,11 @@ Despite section 3 and any other Act of Parliament, but subject to section 6, the
 
 ##### Coordinating Amendments
 
-### Section 444
+### Section 396
 
 If, on the day on which this Act receives royal assent, paragraph 4(b) of the `Borrowing Authority Act` is not amended by any other provision of this Act, then
 
-section `443` of this Act is deemed never to have come into force and is repealed; and
+section `395` of this Act is deemed never to have come into force and is repealed; and
 
 the portion of section 4 of the `Borrowing Authority Act` before paragraph (a) is replaced by the following:
 
@@ -16172,7 +15956,7 @@ Despite section 3 and any other Act of Parliament, but subject to section 6, the
 
 #### `Trust and Loan Companies Act`
 
-### Section 445
+### Section 397
 
 The `Trust and Loan Companies Act` is amended by adding the following after section 162:
 
@@ -16188,7 +15972,7 @@ The `Trust and Loan Companies Act` is amended by adding the following after sect
 
 #### `Bank Act`
 
-### Section 446
+### Section 398
 
 The `Bank Act` is amended by adding the following after section 214:
 
@@ -16201,7 +15985,7 @@ The `Bank Act` is amended by adding the following after section 214:
 
   **(2)** For the purposes of subsection (1), the Governor in Council may make regulations respecting the disclosure of information related to diversity among the directors and members of senior management of a bank of a prescribed class.
 
-### Section 447
+### Section 399
 
 The Act is amended by adding the following after section 801:
 
@@ -16217,7 +16001,7 @@ The Act is amended by adding the following after section 801:
 
 #### `Insurance Companies Act`
 
-### Section 448
+### Section 400
 
 The `Insurance Companies Act` is amended by adding the following after section 166:
 
@@ -16230,7 +16014,7 @@ The `Insurance Companies Act` is amended by adding the following after section 1
 
   **(2)** For the purposes of subsection (1), the Governor in Council may make regulations respecting the disclosure of information related to diversity among the directors and members of senior management of a company of a prescribed class.
 
-### Section 449
+### Section 401
 
 The Act is amended by adding the following after section 795:
 
@@ -16246,7 +16030,7 @@ The Act is amended by adding the following after section 795:
 
 #### Coming into Force
 
-### Section 450
+### Section 402
 
 This Division comes into force on a day to be fixed by order of the Governor in Council.
 
@@ -16256,7 +16040,7 @@ This Division comes into force on a day to be fixed by order of the Governor in 
 
 #### `Trust and Loan Companies Act`
 
-### Section 451
+### Section 403
 
 Subsection 20(1) of the `Trust and Loan Companies Act` is replaced by the following:
 
@@ -16267,7 +16051,7 @@ Subsection 20(1) of the `Trust and Loan Companies Act` is replaced by the follow
 
 #### `Bank Act`
 
-### Section 452
+### Section 404
 
 Subsection 21(1) of the `Bank Act` is replaced by the following:
 
@@ -16275,7 +16059,7 @@ Subsection 21(1) of the `Bank Act` is replaced by the following:
 
   **(1)** Subject to subsections (2) and (4), banks shall not carry on business, and authorized foreign banks shall not carry on business in Canada, after June 30, 2026.
 
-### Section 453
+### Section 405
 
 Subsection 670(1) of the Act is replaced by the following:
 
@@ -16286,7 +16070,7 @@ Subsection 670(1) of the Act is replaced by the following:
 
 #### `Insurance Companies Act`
 
-### Section 454
+### Section 406
 
 Subsection 21(1) of the `Insurance Companies Act` is replaced by the following:
 
@@ -16294,7 +16078,7 @@ Subsection 21(1) of the `Insurance Companies Act` is replaced by the following:
 
   **(1)** Subject to subsections (2) and (4), companies and societies shall not carry on business, and foreign companies shall not carry on business in Canada, after June 30, 2026.
 
-### Section 455
+### Section 407
 
 Subsection 707(1) of the Act is replaced by the following:
 
@@ -16308,7 +16092,7 @@ Subsection 707(1) of the Act is replaced by the following:
 
 #### `Federal Courts Act`
 
-### Section 456
+### Section 408
 
 Paragraph 28(1)(g.1) of the `Federal Courts Act` is replaced by the following:
 
@@ -16327,13 +16111,13 @@ any regulations made under subsection 11(1) of the `Canada Disability Benefit Ac
 
 #### `Tax Court of Canada Act`
 
-### Section 457
+### Section 409
 
 Section 12 of the `Tax Court of Canada Act` is amended by adding the following after subsection (1):
 
 **(1.1)** The Court has exclusive original jurisdiction to hear and determine references on matters arising under the `Canada Disability Benefit Act` and referred to in subsection 66(2) of the `Department of Employment and Social Development Act`.
 
-### Section 458
+### Section 410
 
 Subsection 18.29(1) of the Act is amended by striking out "and" at the end of paragraph (c), by adding "and" at the end of paragraph (d) and by adding the following after paragraph (d):
 
@@ -16342,7 +16126,7 @@ the `Canada Disability Benefit Act`, to the extent that a ground of the appeal i
 
 #### `Department of Employment and Social Development Act`
 
-### Section 459
+### Section 411
 
 The `Department of Employment and Social Development Act` is amended by adding the following after section 65:
 
@@ -16355,9 +16139,9 @@ The `Department of Employment and Social Development Act` is amended by adding t
 
 #### Coordinating Amendment
 
-### Section 460
+### Section 412
 
-On the first day on which both section 656 of the `Budget Implementation Act, 2023, No. 1` and section `456` of this Act are in force, paragraph 28(1)(g.1) of the `Federal Courts Act` is replaced by the following:
+On the first day on which both section 656 of the `Budget Implementation Act, 2023, No. 1` and section `408` of this Act are in force, paragraph 28(1)(g.1) of the `Federal Courts Act` is replaced by the following:
 
 the Appeal Division of the Social Security Tribunal established under section 44 of the `Department of Employment and Social Development Act`, unless the decision is made under subsection 54.2(2) or 57(2) or section 58.2 of that Act or relates to an appeal respecting a decision relating to further time to make a request under
 
@@ -16377,7 +16161,7 @@ any regulations made under subsection 11(1) of the `Canada Disability Benefit Ac
 
 #### Amendments to the Act
 
-### Section 461
+### Section 413
 
   **(1)** Paragraph 55(1)(c) of the `Controlled Drugs and Substances Act` is replaced by the following:
 
@@ -16393,28 +16177,28 @@ any regulations made under subsection 11(1) of the `Canada Disability Benefit Ac
 
   **(4)** Subsection 55(1.2) of the Act is repealed.
 
-### Section 462
+### Section 414
 
 Subsection 56(2) of the Act is repealed.
 
-### Section 463
+### Section 415
 
 Sections 56.1 and 56.2 of the Act are repealed.
 
 
 #### Transitional Provisions
 
-### Section 464
+### Section 416
 
-The following definitions apply in this section and sections `465` to `467`.
+The following definitions apply in this section and sections `417` to `419`.
 
-**commencement day** means the day on which subsection `461`(4) and sections `462` and `463` come into force. (**date de référence**)
+**commencement day** means the day on which subsection `413`(4) and sections `414` and `415` come into force. (**date de référence**)
 
 **previous version** means the `Controlled Drugs and Substances Act`, as it reads immediately before commencement day. (**version antérieure**)
 
 **regulatory scheme** means regulations that are made under subsection 55(1) of the `Controlled Drugs and Substances Act`, as it reads on the day on which this section comes into force, respecting authorizations for activities that could be allowed under an exemption granted under subsection 56.1(1) of the previous version. (**régime réglementaire**)
 
-### Section 465
+### Section 417
 
   **(1)** An exemption granted under subsection 56.1(1) of the previous version that is valid immediately before commencement day is deemed to be an authorization issued under the regulatory scheme on that day.
 
@@ -16422,18 +16206,18 @@ The following definitions apply in this section and sections `465` to `467`.
 
   **(3)** For greater certainty, the terms and conditions of the exemption are terms and conditions of the authorization. However, if there is a conflict between any of those terms and conditions and a requirement of the regulatory scheme, the requirement of the regulatory scheme prevails to the extent of the conflict.
 
-### Section 466
+### Section 418
 
 If an application for an exemption under subsection 56.1(1) of the previous version is submitted before commencement day and the minister responsible for the previous version has not, before that day, made a decision in relation to the application, the application is deemed to have been submitted on that day as an application for an authorization under the regulatory scheme.
 
-### Section 467
+### Section 419
 
 The Governor in Council may make any regulations that the Governor in Council considers necessary to provide for any other transitional matter arising from the coming into force of the regulatory scheme.
 
 
 #### Coming into Force
 
-### Section 468
+### Section 420
 
-Subsection `461`(4) and sections `462` and `463` come into force on a day to be fixed by order of the Governor in Council.
+Subsection `413`(4) and sections `414` and `415` come into force on a day to be fixed by order of the Governor in Council.
 
