@@ -1,7 +1,5 @@
 # Bill C-40: An Act to amend the Criminal Code, to make consequential amendments to other Acts and to repeal a regulation (miscarriage of justice reviews)
 
-**Sponsor**: MINISTER OF JUSTICE
-
 Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act to amend the Criminal Code, to make consequential amendments to other Acts and to repeal a regulation (miscarriage of justice reviews)*".
 
 ## Summary
@@ -96,13 +94,13 @@ The following definitions apply in this Part.
 
     an appeal of the finding or verdict lies to the Supreme Court of Canada on a question of law.
 
-  **(4)** Despite **subsection** (3), the Commission may decide that the application is admissible even if the finding or verdict was not appealed to **the court of appeal or** the Supreme Court of Canada. In making the decision, the Commission must take into account
+  **(4)** Despite subsection (3), the Commission may decide that the application is admissible even if the finding or verdict was not appealed to the court of appeal or the Supreme Court of Canada. In making the decision, the Commission must take into account
 
-    the amount of time that has passed since the final judgment of the **trial** court;
+    the amount of time that has passed since the final judgment of the trial court;
 
-    the reasons why the finding or verdict was not appealed to **the court of appeal or** the Supreme Court of Canada;
+    the reasons why the finding or verdict was not appealed to the court of appeal or the Supreme Court of Canada;
 
-    whether it would serve a useful purpose for an application to be made for an extension of the period within which a notice of appeal or a notice of application for leave to appeal, as the case may be, to the **court of appeal or the** Supreme Court of Canada may be served and filed;
+    whether it would serve a useful purpose for an application to be made for an extension of the period within which a notice of appeal or a notice of application for leave to appeal, as the case may be, to the court of appeal or the Supreme Court of Canada may be served and filed;
 
     whether the application is supported by a new matter of significance that
 
