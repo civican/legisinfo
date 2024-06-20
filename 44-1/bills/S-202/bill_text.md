@@ -4,7 +4,7 @@
 
 This enactment creates the position of Parliamentary Visual Artist Laureate. It also corrects a reference to the Canada Council for the Arts in the English version of the `Parliament of Canada Act`.
 
-Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+His Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
 
 ## Parliament of Canada Act
@@ -17,7 +17,7 @@ The `Parliament of Canada Act` is amended by adding the following after section 
 
   **(1)** There is hereby established the position of Parliamentary Visual Artist Laureate, the holder of which is an officer of the Library of Parliament.
 
-  **(2)** The Speaker of the Senate and the Speaker of the House of Commons, acting together, shall select the Parliamentary Visual Artist Laureate from a list of three names reflective of Canada's diversity and submitted in confidence by a committee chaired by the Parliamentary Librarian and also composed of the Director of the National Gallery of Canada, the Commissioner of Official Languages for Canada, the Chairperson of the Canada Council for the Arts and the President of the Royal Canadian Academy of Arts, or their designates.
+  **(2)** The Speaker of the Senate and the Speaker of the House of Commons, acting together, shall select the Parliamentary Visual Artist Laureate from a list of three names reflective of Canada's diversity, consistent with the principle that the primary official language spoken by the holder shall alternate and submitted in confidence by a committee chaired by the Parliamentary Librarian and also composed of the Director of the National Gallery of Canada, the Commissioner of Official Languages for Canada, the Chairperson of the Canada Council for the Arts and the President of the Royal Canadian Academy of Arts, or their designates.
 
   **(3)** The Parliamentary Visual Artist Laureate holds office for a term not exceeding two years, at the pleasure of the Speaker of the Senate and the Speaker of the House of Commons acting together.
 
@@ -33,7 +33,7 @@ The `Parliament of Canada Act` is amended by adding the following after section 
 
     perform such other related duties as are requested by either Speaker or the Parliamentary Librarian.
 
-  **(6)** In this section, **arts** means drawing, painting, sculpture, printmaking, design, crafts, photography, videography and filmmaking.
+  **(6)** In this section, **arts** means drawing, painting, sculpture, printmaking, design, crafts, photography, videography, filmmaking and digital creations that reflect the diversity of Canada, including with respect to the languages in use and its ethnocultural composition.
 
 ### Section 2
 
