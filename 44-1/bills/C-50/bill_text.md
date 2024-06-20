@@ -1,7 +1,5 @@
 # Bill C-50: An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy
 
-**Sponsor**: MINISTER OF NATURAL RESOURCES
-
 Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act respecting accountability, transparency and engagement to support the creation of sustainable jobs for workers and economic growth in a net-zero economy*".
 
 ## Summary
@@ -12,11 +10,11 @@ provides that the Governor in Council may designate a Minister for the purposes 
 
 establishes a Sustainable Jobs Partnership Council to provide the Minister and the specified Ministers, through a process of social dialogue, with independent advice with respect to measures to foster the creation of sustainable jobs, measures to support workers, communities and regions in the shift to a net-zero economy and matters referred to it by the Minister;
 
-requires the tabling of a Sustainable Jobs Action Plan in each House of Parliament no later than 2041 and by the end of each subsequent period of five years;
+requires the tabling of a Sustainable Jobs Action Plan in each House of Parliament no later than 2026 and by the end of each subsequent period of five years;
 
 provides for the establishment of a Sustainable Jobs Secretariat to support the implementation of the Act; and
 
-provides for a review of the Act within two years of its coming into force and by the end of each subsequent period of two years.
+provides for a review of the Act within ten years of its coming into force and by the end of each subsequent period of ten years.
 
 
 ## TABLE OF PROVISIONS
@@ -36,7 +34,10 @@ Preamble
 
 Definitions
 
-[*Deleted*]
+
+## Purpose
+
+Purpose
 
 
 ## Designation of Ministers
@@ -108,7 +109,7 @@ Whereas the Government of Canada recognizes that a net-zero-emissions future pre
 
 Whereas the Government of Canada is committed to seeing Canadians benefit from and contribute to the building of a net-zero economy;
 
-Whereas the Government of Canada is committed to taking action to achieve a fair and equitable net-zero economy in order to support the future and quality of life of workers and their communities, including by fostering the creation of sustainable jobs **and implementing measures to assist workers in the shift to a net-zero economy**;
+Whereas the Government of Canada is committed to taking action to achieve a fair and equitable net-zero economy in order to support the future and quality of life of workers and their communities, including by fostering the creation of sustainable jobs and implementing measures to assist workers in the shift to a net-zero economy;
 
 Whereas the Government of Canada recognizes that actions to mitigate and adapt to climate change will have varied effects across different regions, communities and sectors;
 
@@ -120,13 +121,13 @@ adequate, informed and ongoing dialogue on a labour force and people-centered su
 
 policies and programs in support of sustainable jobs should
 
-support the creation of decent work, meaning good-paying, high-quality jobs — including jobs in which workers are represented by a trade union **that has entered into a collective agreement** — as well as job security, social protection and social dialogue,
+support the creation of decent work, meaning good-paying, high-quality jobs — including jobs in which workers are represented by a trade union that has entered into a collective agreement — as well as job security, social protection and social dialogue,
 
 recognize local and regional needs,
 
 account for the cultural values, strengths and potential of workers and communities,
 
-provide an environment in which enterprises, workers, investors and consumers can contribute to achieving sustainable and inclusive economies and societies, **and**
+provide an environment in which enterprises, workers, investors and consumers can contribute to achieving sustainable and inclusive economies and societies, and
 
 advance the well-being of workers and communities, as well as the achievement of Canada's nationally determined contribution communicated in accordance with the Paris Agreement;
 
@@ -134,15 +135,15 @@ a sustainable jobs approach should be inclusive and address barriers to employme
 
 international cooperation should foster strengthened global efforts to advance the creation of sustainable jobs and ensure a level playing field and inform Canadian approaches to support workers and communities in the shift to a net-zero economy;
 
-Whereas the Government of Canada is committed to collaborating with Canadian workers, Indigenous peoples, trade unions, employers, industry, business, communities, **non-governmental organizations** and **the governments of the** provinces and territories, which all have a role to play in building a net-zero economy;
+Whereas the Government of Canada is committed to collaborating with Canadian workers, Indigenous peoples, trade unions, employers, industry, business, communities, non-governmental organizations and the governments of the provinces and territories, which all have a role to play in building a net-zero economy;
 
 Whereas the governments of the provinces and territories have an important role to play within their jurisdiction to support the shift to a net-zero economy;
 
 Whereas trade unions in particular have an important role to play in representing the interests of workers in building a net-zero economy;
 
-Whereas relevant federal entities, including those focused — at the national and regional level — on matters such as skills development, the labour market, rights at work, economic development and emissions reduction, are committed to working **in leadership roles in their respective areas of responsibility** to advance the creation of sustainable jobs in support of a net-zero economy;
+Whereas relevant federal entities, including those focused — at the national and regional level — on matters such as skills development, the labour market, rights at work, economic development and emissions reduction, are committed to working in leadership roles in their respective areas of responsibility to advance the creation of sustainable jobs in support of a net-zero economy;
 
-Whereas the Parliament of Canada enacted the `United Nations Declaration on the Rights of Indigenous Peoples Act` on June 21, 2021, and the Government of Canada is committed to strengthening its collaboration with Indigenous peoples with respect to a net-zero economy and the creation of sustainable jobs **and to taking the Indigenous knowledge of Indigenous peoples into account when carrying out the purposes of this Act**;
+Whereas the Parliament of Canada enacted the `United Nations Declaration on the Rights of Indigenous Peoples Act` on June 21, 2021, and the Government of Canada is committed to strengthening its collaboration with Indigenous peoples with respect to a net-zero economy and the creation of sustainable jobs and to taking the Indigenous knowledge of Indigenous peoples into account when carrying out the purposes of this Act;
 
 Whereas Canada ratified the United Nations Convention on the Rights of Persons with Disabilities on March 11, 2010, which recognizes the right of persons with disabilities to work on an equal basis with others;
 
@@ -182,9 +183,12 @@ The following definitions apply in this Act.
 
 **sustainable job** means any job that is compatible with Canada's pathway to achieving a net-zero-emissions and climate-resilient future and that reflects the concept of decent work, namely work — including a job in which the worker is represented by a trade union that has entered into a collective agreement — that can support the worker and their family over time and that includes elements such as fair income, job security, social protection and social dialogue. (**emploi durable**)
 
+
+## Purpose
+
 ### Section 3
 
-[*Deleted*]
+The purpose of this Act is to facilitate and promote economic growth, the creation of sustainable jobs and support for workers and communities in Canada in the shift to a net-zero economy through a framework to ensure transparency, accountability, engagement and action by relevant federal entities, including those focused – at the national and regional level – on matters such as skills development, the labour market, rights at work, economic development and emissions reduction.
 
 
 ## Designation of Ministers
@@ -206,13 +210,13 @@ The Governor in Council may, by order, designate one or more members of the King
 
     measures, consistent with the shift to a net-zero economy, to foster the creation of sustainable jobs;
 
-    measures to support workers, communities and regions in the shift to a net-zero economy, including through skills development, training, retraining and **economic development and diversification, as well as through national, regional, federal-provincial and federal-territorial initiatives related to the Sustainable Jobs Action Plans**; and
+    measures to support workers, communities and regions in the shift to a net-zero economy, including through skills development, training, retraining and economic development and diversification, as well as through national, regional, federal-provincial and federal-territorial initiatives related to the Sustainable Jobs Action Plans; and
 
     any matter referred to it by the Minister.
 
   **(2)** The Minister must, after consulting with the specified Ministers, establish the terms of reference of the Council.
 
-  **(3)** The Minister may, after consulting with the specified Ministers **and, unless their position is vacant, each co-chair of the Council**, amend the terms of reference.
+  **(3)** The Minister may, after consulting with the specified Ministers and, unless their position is vacant, each co-chair of the Council, amend the terms of reference.
 
   **(4)** The Minister must make the terms of reference and any amendments to them available to the public.
 
@@ -220,7 +224,7 @@ The Governor in Council may, by order, designate one or more members of the King
 
 The Council's responsibilities include
 
-advising the Minister and specified Ministers on strategies and measures to encourage growth in **sustainable** jobs in a net-zero economy;
+advising the Minister and specified Ministers on strategies and measures to encourage growth in sustainable jobs in a net-zero economy;
 
 advising the Minister and specified Ministers on ways to address labour force impacts, support workers and create opportunities for workers in the shift to a net-zero economy;
 
@@ -230,13 +234,13 @@ advising the Minister and specified Ministers on the effectiveness of relevant p
 
 advising the Minister and the specified Ministers on potential areas of cooperation with the governments of the provinces and territories and other governments in Canada in relation to the Sustainable Jobs Action Plan or the purpose of this Act;
 
-engaging relevant partners and stakeholders, **including at the national, regional, provincial, territorial and community levels**, in accordance with the terms of reference; and
+engaging relevant partners and stakeholders, including at the national, regional, provincial, territorial and community levels, in accordance with the terms of reference; and
 
 addressing any matter or undertaking any activity provided for in the terms of reference or requested by the Minister under section `14` or `15`.
 
 ### Section 8
 
-  **(1)** The Council consists of **13** members, who are to be appointed by the Governor in Council, on the recommendation of the Minister, to hold office on a part-time basis and at pleasure for a renewable term of up to three years.
+  **(1)** The Council consists of 13 members, who are to be appointed by the Governor in Council, on the recommendation of the Minister, to hold office on a part-time basis and at pleasure for a renewable term of up to three years.
 
   **(1.1)** The Council is composed of the following members:
 
@@ -258,7 +262,7 @@ addressing any matter or undertaking any activity provided for in the terms of r
 
     the need for members who have knowledge, expertise or experience in one or more of the following:
 
-    the key sectors **involved in** the shift to a net-zero economy,
+    the key sectors involved in the shift to a net-zero economy,
 
     the types of issues facing workers in the shift to a net-zero economy, including issues related to industrial change and technological transformation,
 
@@ -293,7 +297,7 @@ The members of the Council are deemed to be employees for the purposes of the `G
 
     in the case of the first report, no later than the date that is fixed by the Minister; and
 
-    in the case of each subsequent report, no later than 30 days after the day on which a fall economic statement is released or, in the event that no fall economic statement is released, no later than December 31.
+    in the case of each subsequent report, no later than October 15 of each year.
 
   **(2)** The annual report must include the advice of the Council and a summary of its activities
 
@@ -303,42 +307,42 @@ The members of the Council are deemed to be employees for the purposes of the `G
 
 ### Section 12
 
-The Minister must make public the annual report within **25** days after the day on which the Minister receives it.
+The Minister must make public the annual report within 30 days after the day on which the Minister receives it.
 
 ### Section 13
 
-  **(1)** The Minister must, after consulting with the specified Ministers and other relevant federal ministers, prepare a response to the Council's annual report and must make public the response within **100** days after the day on which the Minister receives the annual report.
+  **(1)** The Minister must, after consulting with the specified Ministers and other relevant federal ministers, prepare a written response to the Council's annual report and must make public the response within 120 days after the day on which the Minister receives the annual report.
 
   **(2)** The response must address the Council's advice included in the annual report.
 
 ### Section 14
 
-At the request of the Minister, the Council must research and report on any matter **relating to the creation of sustainable jobs or the shift to a net-zero economy that is** specified by the Minister and the Minister may make public the report.
+At the request of the Minister, the Council must research and report on any matter relating to the creation of sustainable jobs or the shift to a net-zero economy that is specified by the Minister and the Minister may make public the report.
 
 ### Section 15
 
-At the request of the Minister, the Council must provide the Minister with a **written** progress report on the activities specified by the Minister within **25** days afterthe day on which the request is made.
+At the request of the Minister, the Council must provide the Minister with a written progress report on the activities specified by the Minister within 30 days after the day on which the request is made.
 
 
 ## Sustainable Jobs Action Plan
 
 ### Section 16
 
-  **(1)** The Minister must prepare a Sustainable Jobs Action Plan no later than December 31, **2040** and must prepare a new Plan no later than **January 1** of every fifth year after that.
+  **(1)** The Minister must prepare a Sustainable Jobs Action Plan no later than December 31, 2025 and must prepare a new Plan no later than December 31 of every fifth year after that.
 
   **(2)** The Minister must cause each Plan to be tabled in each House of Parliament
 
-    in the case of the first Plan, no later than the fifteenth sitting day of that House after December 31, **2040**; and
+    in the case of the first Plan, no later than the fifteenth sitting day of that House after December 31, 2025; and
 
-    in the case of each subsequent Plan, no later than the fifteenth sitting day of that House after **January 1** of every fifth year after that.
+    in the case of each subsequent Plan, no later than the fifteenth sitting day of that House after December 31 of every fifth year after that.
 
   **(3)** Each Plan must
 
-    outline how the federal government will facilitate and promote economic growth, the creation of sustainable jobs and support for workers and communities in the shift to a net-zero economy over the following five-year period, **including through investments to decarbonize Canada's economy, the establishment of conditions for accessing federal economic incentives in relation to labour and the identification of pathways to sustainable jobs for workers**;
+    outline how the federal government will facilitate and promote economic growth, the creation of sustainable jobs and support for workers and communities in the shift to a net-zero economy over the following five-year period, including through investments to decarbonize Canada's economy, the establishment of conditions for accessing federal economic incentives in relation to labour and the identification of pathways to sustainable jobs for workers;
 
     describe how the federal government is upholding the guiding principles set out in the preamble;
 
-    set out the measures that the Minister, specified Ministers and other relevant federal ministers have identified to be implemented, — **including measures relating to skills development, economic and social measures and measures that support workers on an individual, regional, community and sectoral basis** — the milestones to be achieved by the federal entities for which they are responsible and the ways in which those ministers will implement those measures;
+    set out the measures that the Minister, specified Ministers and other relevant federal ministers have identified to be implemented, — including measures relating to skills development, economic and social measures and measures that support workers on an individual, regional, community and sectoral basis — the milestones to be achieved by the federal entities for which they are responsible and the ways in which those ministers will implement those measures;
 
     include a summary of data that is available within the federal government, that is related to economic growth and the labour market in a net-zero economy and that was used in the development of the Plan, including data related to equity, diversity and inclusion in the labour force, along with a description of how that data informed the development of the measures referred to in paragraph (b);
 
@@ -358,7 +362,7 @@ At the request of the Minister, the Council must provide the Minister with a **w
 
   **(1)** The Minister may amend a Sustainable Jobs Action Plan at any time.
 
-  **(2)** The Minister must cause the amended Plan to be tabled in each House of Parliament on any of the first **10** days on which that House is sitting after the amended Plan is prepared.
+  **(2)** The Minister must cause the amended Plan to be tabled in each House of Parliament on any of the first 15 days on which that House is sitting after the amended Plan is prepared.
 
 ### Section 18
 
@@ -366,7 +370,7 @@ The Minister must, when preparing or amending a Sustainable Jobs Action Plan,
 
 take into account advice from the Council;
 
-consult the specified Ministers and other relevant federal ministers, **including with respect to existing labour market analyses and the economic effects of existing and planned emissions reduction measures**;
+consult the specified Ministers and other relevant federal ministers, including with respect to existing labour market analyses and the economic effects of existing and planned emissions reduction measures;
 
 take into account the most recent greenhouse gas emissions reduction plan established under section 9 of the `Canadian Net-Zero Emissions Accountability Act`; and
 
@@ -374,11 +378,11 @@ provide the governments of the provinces and territories, Indigenous peoples and
 
 ### Section 19
 
-  **(1)** The Minister must prepare a progress report no later than June 1, **2043** and additional progress reports no later than June 1 of every fifth year after that.
+  **(1)** The Minister must prepare a progress report no later than June 1, 2028 and additional progress reports no later than June 1 of every fifth year after that.
 
-  **(2)** The Minister must cause each progress report to be tabled in each House of Parliament on any of the first **10** days on which that House is sitting after the report is prepared.
+  **(2)** The Minister must cause each progress report to be tabled in each House of Parliament on any of the first 15 days on which that House is sitting after the report is prepared.
 
-  **(3)** Each progress report must **contain an update on** the progress made towards achieving the milestones under **and implementing the measures set out in** the most recent Sustainable Jobs Action Plan **and include the details of any additional measures that are being or could be taken to increase the probability of achieving the milestones**.
+  **(3)** Each progress report must contain an update on the progress made towards achieving the milestones under and implementing the measures set out in the most recent Sustainable Jobs Action Plan and include the details of any additional measures that are being or could be taken to increase the probability of achieving the milestones.
 
   **(4)** The Minister must, when preparing a progress report,
 
@@ -395,11 +399,11 @@ provide the governments of the provinces and territories, Indigenous peoples and
 
   **(2)** The Secretariat's role includes
 
-    enabling policy and program coherence in the development and implementation of each Sustainable Jobs Action Plan, **supporting the work within the federal government to design the measures** set out in those Plans **and** coordinating the implementation of **those** measures across federal entities, **working in leadership roles in their respective areas of responsibility**, including those **entities responsible** — at the national and regional level — **for** matters **relating to** skills development, the labour market, rights at work, economic development and emissions reduction;
+    enabling policy and program coherence in the development and implementation of each Sustainable Jobs Action Plan, supporting the work within the federal government to design the measures set out in those Plans and coordinating the implementation of those measures across federal entities, working in leadership roles in their respective areas of responsibility, including those entities responsible — at the national and regional level — for matters relating to skills development, the labour market, rights at work, economic development and emissions reduction;
 
     supporting the preparation of the Plans and tracking progress on them;
 
-    coordinating specific federal-provincial and **federal-territorial** initiatives related to the Plans **and engaging with the governments of provinces and territories in areas of common interest**;
+    coordinating specific federal-provincial and federal-territorial initiatives related to the Plans and engaging with the governments of provinces and territories in areas of common interest;
 
     serving as a source of information and point of contact in respect of federal programs, funding and services for workers and employers with respect to sustainable jobs; and
 
@@ -410,7 +414,7 @@ provide the governments of the provinces and territories, Indigenous peoples and
 
 ### Section 21
 
-  **(1)** Within **two** years after the day on which this Act receives royal assent and by the end of each subsequent period of **two** years, the Minister must cause a review of this Act to be conducted.
+  **(1)** Within 10 years after the day on which this Act receives royal assent and by the end of each subsequent period of 10 years, the Minister must cause a review of this Act to be conducted.
 
-  **(2)** The Minister must cause a report of the review to be tabled in each House of Parliament on any of the first **two** days on which that House is sitting after the report has been completed.
+  **(2)** The Minister must cause a report of the review to be tabled in each House of Parliament on any of the first 15 days on which that House is sitting after the report has been completed.
 
