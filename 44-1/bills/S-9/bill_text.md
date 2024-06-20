@@ -4,7 +4,7 @@
 
 This enactment amends the `Chemical Weapons Convention Implementation Act` by deleting the schedule to that Act and the references to that schedule in that Act, in order to avoid potential discrepancies between the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on their Destruction, as amended from time to time, and the portions of that Convention that are reproduced in that schedule.
 
-Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+His Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
 
 ## `Chemical Weapons Convention Implementation Act`
