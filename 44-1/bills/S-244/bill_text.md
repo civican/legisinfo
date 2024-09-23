@@ -1,5 +1,7 @@
 # Bill S-244: An Act to amend the Department of Employment and Social Development Act and the Employment Insurance Act (Employment Insurance Council)
 
+**Sponsor**: Senator BELLEMARE
+
 ## Summary
 
 This enactment amends the `Department of Employment and Social Development Act` to establish the Employment Insurance Council. It also amends the `Employment Insurance Act` in respect of the Council.
@@ -51,13 +53,23 @@ The Act is amended by adding the following after subsection 24(1):
 
   working in concert with the government of each province in designing and implementing benefits and measures related to employment insurance.
 
+
+> **Explanatory Note**:
+> New.
+
 ### Section 3
 
 Subsection 25(1) of the Act is replaced by the following:
 
 ### Section 25
 
-  **(1)** The Commission may make rules respecting the calling of meetings of the Commission and generally respecting the conduct of its business or for the purpose of limiting the questions on which the Council may provide advice and make recommendations to the Commission.
+  **(1)** The Commission may make rules respecting the calling of meetings of the Commission and generally respecting the conduct of its business **or for the purpose of limiting the questions on which the Council may provide advice and make recommendations to the Commission**.
+
+
+> **Explanatory Note**:
+> Text of subsection 25(1):
+> *Existing Text*:
+> > The Commission may make rules respecting the calling of meetings of the Commission and generally respecting the conduct of its business.
 
 ### Section 4
 
@@ -92,9 +104,9 @@ The Act is amended by adding the following after section 29:
 
     the commissioners appointed under paragraphs 20(2)(c) and (d), who serve as co-chairs of the Council;
 
-    not fewer than five members — appointed by the Governor in Council on the recommendation of the commissioner for workers — who must be from the most representative labour organizations; and
+    not fewer than five members —  appointed by the Governor in Council on the recommendation of the commissioner for workers — who must be from the most representative labour organizations; and
 
-    not fewer than five members — appointed by the Governor in Council on the recommendation of the commissioner for employers — who must be from the most representative employer organizations.
+    not fewer than five members —  appointed by the Governor in Council on the recommendation of the commissioner for employers — who must be from the most representative employer organizations.
 
   **(5)** In addition to the members referred to in subsection (4), the co-chairs of the Council may invite the following persons to attend meetings of the Council as observers:
 
@@ -104,14 +116,15 @@ The Act is amended by adding the following after section 29:
 
   **(6)** The Chairperson and the Vice-Chairperson of the Commission may attend meetings of the Council as *ex officio* and non-voting members.
 
-  **(7)** The Council must hold at least three
-meetings every year.
+  **(7)** The members appointed under paragraphs 4(b) and (c) hold office during good behaviour for a renewable term not exceeding five years but may be removed for cause at any time by the Governor in Council.
 
-  **(8)** The members appointed under paragraphs 4(b) and (c) hold office during good behaviour for a renewable term not exceeding five years but may be removed for cause at any time by the Governor in Council.
+  **(8)** There is to be an Executive Committee of the Council that consists of the commissioners referred to in subsection 20(2).
 
-  **(9)** There is to be an Executive Committee of the Council that consists of the commissioners referred to in subsection 20(2).
+  **(9)** Nothing in this section provides any person with an entitlement to remuneration or benefits of any kind in relation to their service on the Council.
 
-  **(10)** Nothing in this section provides any person with an entitlement to remuneration or benefits of any kind in relation to their service on the Council.
+
+> **Explanatory Note**:
+> New.
 
 
 ## `Employment Insurance Act`
@@ -132,4 +145,8 @@ The Act is amended by adding the following after section 2:
 ### Section 2.1
 
 The Commission may seek advice and recommendations from the Council on any matter relating to the powers and functions of the Commission.
+
+
+> **Explanatory Note**:
+> New.
 
