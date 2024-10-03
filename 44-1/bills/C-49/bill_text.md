@@ -1,7 +1,5 @@
 # Bill C-49: An Act to amend the Canada–Newfoundland and Labrador Atlantic Accord Implementation Act and the Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act and to make consequential amendments to other Acts
 
-**Sponsor**: MINISTER OF NATURAL RESOURCES
-
 Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act to amend the Canada–Newfoundland and Labrador Atlantic Accord Implementation Act and the Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation Act and to make consequential amendments to other Acts*".
 
 ## Summary
@@ -619,7 +617,7 @@ A submerged land licence confers, with respect to the portions of the offshore a
 
     the bid satisfies the terms and conditions and is submitted in the form and manner specified in the call; and
 
-    the selection is made on the basis of the **criteria** specified in the call.
+    the selection is made on the basis of the criteria specified in the call.
 
   **(2)** If the Regulator selects a bid submitted in response to a call for bids, the Regulator shall publish a notice in accordance with section `96` setting out the terms and conditions of that bid.
 
@@ -1013,7 +1011,7 @@ The heading "Operating Licences and Authorization for Work" before section 138 o
 
 ### Section 62
 
-  ****(1)**** **Section** 138.01 of the Act **is** replaced by the following:
+  **(1)** Section 138.01 of the Act is replaced by the following:
 
 
 #### Offshore Renewable Energy Authorizations
@@ -1033,8 +1031,6 @@ The heading "Operating Licences and Authorization for Work" before section 138 o
         liability for loss, damage, costs or expenses related to debris, as defined in subsection 183.17(1);
 
         the carrying out of safety studies or environmental programs or studies; and
-
-        [*Deleted*]
 
         certificates of fitness and who may issue them.
 
@@ -1083,7 +1079,7 @@ The heading "Operating Licences and Authorization for Work" before section 138 o
 
       **(1)** The Regulator shall provide the Impact Assessment Agency of Canada, on request and within the period specified by the Agency under subsection 13(1) of the `Impact Assessment Act`, with any specialist or expert information or knowledge that the Regulator possesses.
 
-      **(2)** The Regulator shall, on the Agency's request **made under subsection 13(2) of the `Impact Assessment Act`**, engage the proponent of the designated project in order to specify to the proponent the information, if any, that the Regulator may require in order to exercise its powers or perform its duties or functions with respect to that project.
+      **(2)** The Regulator shall, on the Agency's request made under subsection 13(2) of the `Impact Assessment Act`, engage the proponent of the designated project in order to specify to the proponent the information, if any, that the Regulator may require in order to exercise its powers or perform its duties or functions with respect to that project.
 
       **(3)** The Chairperson of the Regulator shall provide the Agency with comments for any work or activity referred to in section 137 or 137.01 that is the subject of a notice posted under subsection 15(3) of the `Impact Assessment Act` in order to assist the Agency to decide whether an impact assessment of that work or activity is required.
 
@@ -1105,11 +1101,11 @@ The heading "Operating Licences and Authorization for Work" before section 138 o
 
 ### Section 138.013
 
-    The Regulator shall provide the Impact Assessment Agency of Canada or a review panel, on request and within the period specified by the Agency or **review** panel under section 23 of the `Impact Assessment Act`, with any specialist or expert information or knowledge that the Regulator possesses.
+    The Regulator shall provide the Impact Assessment Agency of Canada or a review panel, on request and within the period specified by the Agency or review panel under section 23 of the `Impact Assessment Act`, with any specialist or expert information or knowledge that the Regulator possesses.
 
 ### Section 138.014
 
-    If the Impact Assessment Agency of Canada or review panel **is to make** recommendations respecting a designated project to assist the Minister of the Environment in establishing conditions under section 64 of the `Impact Assessment Act`, including respecting mitigation measures, a follow-up program or an adaptive management plan, the Regulator shall provide the Agency or review panel, as the case may be, with comments respecting those conditions.
+    If the Impact Assessment Agency of Canada or review panel is to make recommendations respecting a designated project to assist the Minister of the Environment in establishing conditions under section 64 of the `Impact Assessment Act`, including respecting mitigation measures, a follow-up program or an adaptive management plan, the Regulator shall provide the Agency or review panel, as the case may be, with comments respecting those conditions.
 
 ### Section 62.2
 
@@ -1117,7 +1113,7 @@ The heading "Operating Licences and Authorization for Work" before section 138 o
 
 ### Section 138.015
 
-    Every federal authority, as defined in section 2 of the `Impact Assessment Act`, shall provide the Regulator, on request and within the period specified by the Regulator, with any specialist or expert information or knowledge **that** the authority possesses and that the Regulator may require in order to
+    Every federal authority, as defined in section 2 of the `Impact Assessment Act`, shall provide the Regulator, on request and within the period specified by the Regulator, with any specialist or expert information or knowledge that the authority possesses and that the Regulator may require in order to
 
     decide whether to authorize a work or activity under subsection 138(1) or 138.01(1);
 
@@ -1146,7 +1142,7 @@ The heading "Operating Licences and Authorization for Work" before section 138 o
 
 ### Section 138.019
 
-    The Regulator shall provide the Impact Assessment Agency of Canada or a committee, on request and within the period specified **by the Agency or committee** under section 100 of the `Impact Assessment Act`, with any specialist or expert information or knowledge that the Regulator possesses.
+    The Regulator shall provide the Impact Assessment Agency of Canada or a committee, on request and within the period specified by the Agency or committee under section 100 of the `Impact Assessment Act`, with any specialist or expert information or knowledge that the Regulator possesses.
 
 ### Section 138.02
 
@@ -1330,7 +1326,7 @@ The heading of Division II of Part III of the Act is replaced by the following:
 
     **expert** means a person who is appointed under subsection 183.16(2) and includes an expert panel appointed under subsection 183.16(3) or a person or arbitral tribunal who is appointed in accordance with any applicable treaty referred to under subsection 183.16(9); (**expert**)
 
-    **perimeter**, in relation to a pool, means the portion of the offshore area that is within 10 nautical miles of the limit of that offshore area; (**bande limitrophe**)
+    **perimeter**, in relation to a pool, means the portion of the offshore area that is within 10 nautical miles of the limit of that offshore area; (**bande limitrophe**)
 
     **transboundary** means extending beyond the Regulator's jurisdiction under this Act; (**transfrontalier**)
 
@@ -1417,7 +1413,7 @@ The Act is amended by adding the following after section 183:
 
   **(3)** The unit agreement shall include the details referred to in paragraphs 175(2)(a) to (d) and the unit operating agreement shall include the details referred to in paragraphs 175(3)(a) to (e).
 
-  **(4)** The Regulator and the appropriate authority **may approve** the unit agreement if all the royalty owners and all the working interest owners in the transboundary pool are parties to **it; the Regulator and the appropriate authority may approve** the unit operating agreement **if all the working interest owners in the transboundary pool** are **parties to it**.
+  **(4)** The Regulator and the appropriate authority may approve the unit agreement if all the royalty owners and all the working interest owners in the transboundary pool are parties to it; the Regulator and the appropriate authority may approve the unit operating agreement if all the working interest owners in the transboundary pool are parties to it.
 
   **(5)** An authorization under paragraph 138(1)(b) for a work or activity proposed to be carried on in relation to the exploitation of a transboundary pool shall not be issued if the unit agreement and the unit operating agreement have not been jointly approved by the Regulator and the appropriate authority.
 
@@ -1499,7 +1495,7 @@ When a joint exploitation agreement is entered into in respect of a transboundar
 
   **(5)** If the expert finds that, on the day on which the hearing begins, one or more working interest owners who own 65% or more of the working interests and one or more royalty owners who own 65% or more of the royalty interests in the unit area have consented to the proposed amendment, the expert may end the hearing and request that the Regulator amend the unitization order in accordance with the amendment. If the expert makes such a request, the expert shall also request that the appropriate authority amend its equivalent order in the same way.
 
-  **(6)** In respect of any transboundary pool extending into the jurisdiction of a foreign government, the interested persons referred to in subsection (3) are representatives of each country in question and, on the conclusion of the hearing, the expert shall request that the interested persons ensure that the **Regulator** and the appropriate authority take the measures referred to in subsections (4) and (5).
+  **(6)** In respect of any transboundary pool extending into the jurisdiction of a foreign government, the interested persons referred to in subsection (3) are representatives of each country in question and, on the conclusion of the hearing, the expert shall request that the interested persons ensure that the Regulator and the appropriate authority take the measures referred to in subsections (4) and (5).
 
 ### Section 183.14
 
@@ -3271,7 +3267,7 @@ The heading "Operating Licences and Authorization for Work" before section 142 o
 
 ### Section 170
 
-  ****(1)**** The Act **is amended** by **adding** the following **after section 142.01**:
+  **(1)** The Act is amended by adding the following after section 142.01:
 
 
 #### Offshore Renewable Energy Authorizations
@@ -3291,8 +3287,6 @@ The heading "Operating Licences and Authorization for Work" before section 142 o
         liability for loss, damage, costs or expenses related to debris, as defined in subsection 188.17(1);
 
         the carrying out of safety or environmental programs or studies; and
-
-        [*Deleted*]
 
         certificates of fitness and who may issue them.
 
@@ -3367,7 +3361,7 @@ The heading "Operating Licences and Authorization for Work" before section 142 o
 
 ### Section 142.015
 
-    If the Impact Assessment Agency of Canada or review panel **is to mak**e recommendations respecting a designated project to assist the Minister of the Environment in establishing conditions under section 64 of the `Impact Assessment Act`, including respecting mitigation measures, a follow-up program or an adaptive management plan, the Regulator shall provide the Agency or review panel, as the case may be, with comments respecting those conditions.
+    If the Impact Assessment Agency of Canada or review panel is to make recommendations respecting a designated project to assist the Minister of the Environment in establishing conditions under section 64 of the `Impact Assessment Act`, including respecting mitigation measures, a follow-up program or an adaptive management plan, the Regulator shall provide the Agency or review panel, as the case may be, with comments respecting those conditions.
 
 ### Section 170.2
 
@@ -3685,7 +3679,7 @@ The Act is amended by adding the following after section 188:
 
   **(3)** The unit agreement shall include the details referred to in paragraphs 180(2)(a) to (d) and the unit operating agreement shall include the details referred to in paragraphs 180(3)(a) to (e).
 
-  **(4)** The Regulator and the appropriate authority **may approve** the unit agreement if all the royalty owners and all the working interest owners in the transboundary pool are parties to **it; the Regulator and the appropriate authority may approve** the unit operating agreement **if all the working interest owners in the transboundary pool** are **parties to it**.
+  **(4)** The Regulator and the appropriate authority may approve the unit agreement if all the royalty owners and all the working interest owners in the transboundary pool are parties to it; the Regulator and the appropriate authority may approve the unit operating agreement if all the working interest owners in the transboundary pool are parties to it.
 
   **(5)** An authorization under paragraph 142(1)(b) for a work or activity proposed to be carried on in relation to the exploitation of a transboundary pool shall not be issued if the unit agreement and the unit operating agreement have not been jointly approved by the Regulator and the appropriate authority.
 
@@ -3767,7 +3761,7 @@ When a joint exploitation agreement is entered into in respect of a transboundar
 
   **(5)** If the expert finds that, on the day on which the hearing begins, one or more working interest owners who own 65% or more of the working interests and one or more royalty owners who own 65% or more of the royalty interests in the unit area have consented to the proposed amendment, the expert may end the hearing and request that the Regulator amend the unitization order in accordance with the amendment. If the expert makes such a request, the expert shall also request that the appropriate authority amend its equivalent order in the same way.
 
-  **(6)** In respect of any transboundary pool extending into the jurisdiction of a foreign government, the interested persons referred to in subsection (3) are representatives of each country in question and, on the conclusion of the hearing, the expert shall request that the interested persons ensure that the **Regulator** and the appropriate authority take the measures referred to in subsections (4) and (5).
+  **(6)** In respect of any transboundary pool extending into the jurisdiction of a foreign government, the interested persons referred to in subsection (3) are representatives of each country in question and, on the conclusion of the hearing, the expert shall request that the interested persons ensure that the Regulator and the appropriate authority take the measures referred to in subsections (4) and (5).
 
 ### Section 188.14
 
@@ -4843,7 +4837,7 @@ the schedule to the `Privacy Act`.
 
   **(4)** If subsection 2(3) of the other Act comes into force on the same day as section `108` of this Act, then that subsection 2(3) is deemed to have come into force before that section `108` and subsection (2) applies as a consequence.
 
-  **(5)** On the first day on which both subsection 2(3) of the other Act and section **170.1** of this Act are in force, subsections 142.013(5) and (6) of the `Canada–Nova Scotia Offshore Petroleum Resources Accord Implementation and Offshore Renewable Energy Management Act` are replaced by the following:
+  **(5)** On the first day on which both subsection 2(3) of the other Act and section 170.1 of this Act are in force, subsections 142.013(5) and (6) of the `Canada–Nova Scotia Offshore Petroleum Resources Accord Implementation and Offshore Renewable Energy Management Act` are replaced by the following:
 
     **(5)** If the Agency decides that an impact assessment of the designated project is required, the Chairperson of the Regulator shall provide the Agency with comments respecting the time limits referred to in subsection 37.1(1) of the `Impact Assessment Act` within which the impact assessment report shall be submitted to the Minister of the Environment and within which any recommendations shall be posted on the Internet site established by the Agency.
 
@@ -4927,13 +4921,13 @@ the schedule to the `Privacy Act`.
 
   **(8)** If subsection 2(4) of the other Act comes into force on the same day as section `2` of this Act, then that subsection 2(4) is deemed to have come into force before that section `2` and subsection (6) applies as a consequence.
 
-  **(9)** On the first day on which both subsection 2(4) of the other Act and section **62.1** of this Act are in force, subsections 138.012(5) and (6) of the `Canada–Newfoundland and Labrador Atlantic Accord Implementation and Offshore Renewable Energy Management Act` are replaced by the following:
+  **(9)** On the first day on which both subsection 2(4) of the other Act and section 62.1 of this Act are in force, subsections 138.012(5) and (6) of the `Canada–Newfoundland and Labrador Atlantic Accord Implementation and Offshore Renewable Energy Management Act` are replaced by the following:
 
     **(5)** If the Agency decides that an impact assessment of the designated project is required, the Chairperson of the Regulator shall provide the Agency with comments respecting the time limits referred to in subsection 37.1(1) of the `Impact Assessment Act` within which the impact assessment report shall be submitted to the Minister of the Environment and within which any recommendations shall be posted on the Internet site established by the Agency.
 
     **(6)** The Chairperson of the Regulator shall provide the Minister of the Environment with comments respecting any extension to the time limits that is considered in accordance with subsections 37(3) or (4) and 37.1(4) of the `Impact Assessment Act`.
 
-  **(10)** On the first day on which both section 6 of the other Act and section **170.1** of this Act are in force,
+  **(10)** On the first day on which both section 6 of the other Act and section 170.1 of this Act are in force,
 
     section 44 of the `Canada–Nova Scotia Offshore Petroleum Resources Accord Implementation and Offshore Renewable Energy Management Act` is amended by adding the following after subsection (2):
 
@@ -4959,7 +4953,7 @@ the schedule to the `Privacy Act`.
 
     If the Minister of the Environment consults the Federal Minister under subsection 61(1) of the `Impact Assessment Act` with respect to the referral to the Governor in Council of an impact assessment report for a designated project, the Federal Minister shall consult the Provincial Minister.
 
-  **(11)** On the first day on which both section 7 of the other Act and section **62.1** of this Act are in force,
+  **(11)** On the first day on which both section 7 of the other Act and section 62.1 of this Act are in force,
 
     section 44 of the `Canada–Newfoundland and Labrador Atlantic Accord Implementation and Offshore Renewable Energy Management Act` is amended by adding the following after subsection (2):
 
@@ -4990,13 +4984,13 @@ the schedule to the `Privacy Act`.
 
 ### Section 221
 
-  **(1)** Subject to subsections (2) **to (6)**, the provisions of this Act, other than sections `218` to `220`, come into force on a day or days to be fixed by order of the Governor in Council.
+  **(1)** Subject to subsections (2) to (6), the provisions of this Act, other than sections `218` to `220`, come into force on a day or days to be fixed by order of the Governor in Council.
 
-  **(2)** Sections 2, 3 and 210 to **213, paragraphs 214(1)(a) to (e) and (g) to (i), subsection 214(2) and paragraphs 215(a) and (c)** come into force on a day to be fixed by order of the Governor in Council.
+  **(2)** Sections 2, 3 and 210 to 213, paragraphs 214(1)(a) to (e) and (g) to (i), subsection 214(2) and paragraphs 215(a) and (c) come into force on a day to be fixed by order of the Governor in Council.
 
   **(2.1)** Subsections 47(6.1), 61(2) and 62(2) and section 62.1 come into force on a day to be fixed by order of the Governor in Council, but that day must not be before the day on which both subsection 62(1) and section 62.2 are in force.
 
-  **(3)** Sections 108 **and** 109 and **paragraphs 216(1)(a) to (e) and (g) and (h), subsection 216(2) and paragraphs 217(a), (b) and (d)** come into force on a day to be fixed by order of the Governor in Council.
+  **(3)** Sections 108 and 109 and paragraphs 216(1)(a) to (e) and (g) and (h), subsection 216(2) and paragraphs 217(a), (b) and (d) come into force on a day to be fixed by order of the Governor in Council.
 
   **(4)** Subsections 156(6.1), 169(2) and 170(2) and section 170.1 come into force on a day to be fixed by order of the Governor in Council, but that day must not be before the day on which both subsection 170(1) and section 170.2 are in force.
 
