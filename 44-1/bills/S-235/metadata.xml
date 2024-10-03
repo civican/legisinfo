@@ -1,0 +1,857 @@
+<Bills>
+  <Bill>
+    <Id>11558842</Id>
+    <NumberCode>S-235</NumberCode>
+    <NumberPrefix>S</NumberPrefix>
+    <Number>235</Number>
+    <LongTitleEn>An Act to amend the Citizenship Act and the Immigration and Refugee Protection Act</LongTitleEn>
+    <LongTitleFr>Loi modifiant la Loi sur la citoyenneté et la Loi sur l'immigration et la protection des réfugiés</LongTitleFr>
+    <LongTitle>An Act to amend the Citizenship Act and the Immigration and Refugee Protection Act</LongTitle>
+    <ShortTitleEn>
+    </ShortTitleEn>
+    <ShortTitleFr>
+    </ShortTitleFr>
+    <ShortTitle>
+    </ShortTitle>
+    <StatusId>349</StatusId>
+    <StatusNameEn>At second reading in the House of Commons</StatusNameEn>
+    <StatusNameFr>À la deuxième lecture à la Chambre des communes</StatusNameFr>
+    <StatusName>At second reading in the House of Commons</StatusName>
+    <LatestCompletedMajorStageId>60043</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>First reading</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Première lecture</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>First reading</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>First reading in the House of Commons</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>1</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>House of Commons</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Chambre des communes</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>House of Commons</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60029</OngoingStageId>
+    <OngoingStageNameEn>First reading</OngoingStageNameEn>
+    <OngoingStageNameFr>Première lecture</OngoingStageNameFr>
+    <OngoingStageName>First reading</OngoingStageName>
+    <LatestCompletedBillStageId>60029</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>First reading</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Première lecture</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>First reading</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>1</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>House of Commons</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Chambre des communes</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>House of Commons</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2024-10-23T15:44:00</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>44</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <BillDocumentTypeId>80760</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>Senate Public Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi d'intérêt public du Sénat</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>Senate Public Bill</BillDocumentTypeName>
+    <IsGovernmentBill>false</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>2</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>Senate</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Sénat</OriginatingChamberNameFr>
+    <OriginatingChamberName>Senate</OriginatingChamberName>
+    <IsHouseBill>false</IsHouseBill>
+    <IsSenateBill>true</IsSenateBill>
+    <SponsorSenateSystemAffiliationId>168</SponsorSenateSystemAffiliationId>
+    <SponsorPersonId>1415</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Mobina S.B.</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Jaffer</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Mobina S.B. Jaffer</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Senator</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>sénatrice</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Senator</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>3</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Senator</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>sénateur</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Senator</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>0</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>
+    </SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>
+    </SponsorConstituencyNameFr>
+    <SponsorConstituencyName>
+    </SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60111</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>First reading</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Première lecture</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60029</LatestBillEventStageId>
+    <LatestBillEventTypeName>First reading</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2024-10-23T14:00:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>1</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>House of Commons</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Chambre des communes</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>House of Commons</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>357</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2024-10-23T15:44:00</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime />
+    <PassedHouseThirdReadingDateTime />
+    <PassedSenateFirstReadingDateTime>2022-02-09T00:00:00</PassedSenateFirstReadingDateTime>
+    <PassedSenateSecondReadingDateTime>2023-06-01T21:06:00</PassedSenateSecondReadingDateTime>
+    <PassedSenateThirdReadingDateTime>2024-10-03T10:50:00</PassedSenateThirdReadingDateTime>
+    <ReceivedRoyalAssentDateTime />
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>true</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>true</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>false</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>false</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>false</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn />
+    <ShortLegislativeSummaryFr />
+    <ShortLegislativeSummary />
+    <IsFullLegislativeSummaryAvailable>false</IsFullLegislativeSummaryAvailable>
+    <StatuteYear />
+    <StatuteChapter />
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2024-10-23T15:44:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>First reading</NameEn>
+          <NameFr>Première lecture</NameFr>
+          <Name>First reading</Name>
+          <Number>357</Number>
+          <Date>2024-10-23T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60111</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>First reading</EventNameEn>
+          <EventNameFr>Première lecture</EventNameFr>
+          <EventName>First reading</EventName>
+          <EventDateTime>2024-10-23T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60111</EventTypeId>
+          <EventTypeNameEn>First reading</EventTypeNameEn>
+          <EventTypeNameFr>Première lecture</EventTypeNameFr>
+          <EventTypeName>First reading</EventTypeName>
+          <EventStartDateTime>2024-10-23T15:44:00</EventStartDateTime>
+          <EventEndDateTime>2024-10-23T15:44:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2024-10-23T15:44:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>2</State>
+        <StateNameEn>No activity</StateNameEn>
+        <StateNameFr>Aucune activité</StateNameFr>
+        <StateAsOfDate />
+        <StateName>No activity</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteint</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2022-02-09T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>16</Number>
+          <Date>2022-02-09T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2022-02-09T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2022-02-09T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2022-02-09T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2022-02-09T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2023-06-01T21:06:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16104</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires sociales, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>SOCI</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>49</Number>
+          <Date>2022-06-02T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>52</Number>
+          <Date>2022-06-09T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>114</Number>
+          <Date>2023-04-20T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>129</Number>
+          <Date>2023-06-01T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60120</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading</EventNameEn>
+          <EventNameFr>Deuxième lecture</EventNameFr>
+          <EventName>Second reading</EventName>
+          <EventDateTime>2023-06-01T21:06:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <SignificantEvents>
+          <EventTypeId>60123</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Referral to committee</EventNameEn>
+          <EventNameFr>Renvoi en comité</EventNameFr>
+          <EventName>Referral to committee</EventName>
+          <EventDateTime>2023-06-01T21:07:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60120</EventTypeId>
+          <EventTypeNameEn>Second reading</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture</EventTypeNameFr>
+          <EventTypeName>Second reading</EventTypeName>
+          <EventStartDateTime>2023-06-01T21:06:00</EventStartDateTime>
+          <EventEndDateTime>2023-06-01T21:06:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2023-06-01T21:07:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>1415</PersonId>
+          <PersonOfficialFirstName>Mobina S.B.</PersonOfficialFirstName>
+          <PersonOfficialLastName>Jaffer</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Mobina S.B. Jaffer</PersonName>
+          <SenateSystemAffiliationId>168</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Independent Senators Group</CaucusShortNameEn>
+          <CaucusShortNameFr>Groupe des sénateurs indépendants</CaucusShortNameFr>
+          <CaucusShortName>Independent Senators Group</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>49</MeetingNumber>
+          <SpeechDateTime>2022-06-02T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/441/debates/049db_2022-06-02-e?language=e#31</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/441/debates/049db_2022-06-02-f#31</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/441/debates/049db_2022-06-02-e?language=e#31</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>61439</PersonId>
+          <PersonOfficialFirstName>Victor</PersonOfficialFirstName>
+          <PersonOfficialLastName>Oh</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Victor Oh</PersonName>
+          <SenateSystemAffiliationId>3570</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>44</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>129</MeetingNumber>
+          <SpeechDateTime>2023-06-01T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/441/debates/129db_2023-06-01-e#85</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/441/debates/129db_2023-06-01-f#85</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/441/debates/129db_2023-06-01-e#85</Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>true</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2024-05-08T10:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16104</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires sociales, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>SOCI</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented with amendments</NameEn>
+          <NameFr>Présentation du rapport de comité avec des amendements</NameFr>
+          <Name>Committee report presented with amendments</Name>
+          <Number>199</Number>
+          <Date>2024-05-08T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16104</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires sociales, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>SOCI</CommitteeAcronym>
+          <Number>78</Number>
+          <Date>2023-11-23T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16104</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires sociales, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>SOCI</CommitteeAcronym>
+          <Number>81</Number>
+          <Date>2023-12-06T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16104</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires sociales, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>SOCI</CommitteeAcronym>
+          <Number>84</Number>
+          <Date>2024-02-07T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16104</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires sociales, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>SOCI</CommitteeAcronym>
+          <Number>90</Number>
+          <Date>2024-03-21T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16104</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires sociales, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>SOCI</CommitteeAcronym>
+          <Number>94</Number>
+          <Date>2024-05-01T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented with amendments</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité avec des amendements</EventNameFr>
+          <EventName>Committee report presented with amendments</EventName>
+          <EventDateTime>2024-05-08T10:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2024-05-08T10:00:00</EventStartDateTime>
+          <EventEndDateTime>2024-05-08T10:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2024-05-08T10:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2024-06-06T11:45:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16104</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires sociales, des sciences et de la technologie</CommitteeNameFr>
+          <CommitteeAcronym>SOCI</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Social Affairs, Science and Technology</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at consideration of committee report</NameEn>
+          <NameFr>Débat à l'étape de l'étude du rapport de comité</NameFr>
+          <Name>Debate at consideration of committee report</Name>
+          <Number>204</Number>
+          <Date>2024-05-28T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Committee report adopted</NameEn>
+          <NameFr>Adoption du rapport de comité</NameFr>
+          <Name>Committee report adopted</Name>
+          <Number>209</Number>
+          <Date>2024-06-06T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60130</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report adopted</EventNameEn>
+          <EventNameFr>Adoption du rapport de comité</EventNameFr>
+          <EventName>Committee report adopted</EventName>
+          <EventDateTime>2024-06-06T11:45:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60130</EventTypeId>
+          <EventTypeNameEn>Committee report adopted</EventTypeNameEn>
+          <EventTypeNameFr>Adoption du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report adopted</EventTypeName>
+          <EventStartDateTime>2024-06-06T11:45:00</EventStartDateTime>
+          <EventEndDateTime>2024-06-06T11:45:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2024-06-06T11:45:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>44</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2024-10-03T10:50:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>212</Number>
+          <Date>2024-06-13T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Third reading</NameEn>
+          <NameFr>Troisième lecture</NameFr>
+          <Name>Third reading</Name>
+          <Number>225</Number>
+          <Date>2024-10-03T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2024-10-03T10:50:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2024-10-03T10:50:00</EventStartDateTime>
+          <EventEndDateTime>2024-10-03T10:50:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2024-10-03T10:50:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+    </BillStages>
+    <Publications>
+      <PublicationId>11558843</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>13302520</PublicationId>
+      <PublicationTypeId>80703</PublicationTypeId>
+      <PublicationTypeNameEn>As passed by the Senate</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel qu'adopté par le Sénat</PublicationTypeNameFr>
+      <PublicationTypeName>As passed by the Senate</PublicationTypeName>
+    </Publications>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Immigration Status Matters: Updated - A Guide to Addressing Immigration Status Issues for Children and Youth in Care (Child Welfare Immigration Centre of Excellence, 2019)</TitleEn>
+      <TitleFr>Immigration Status Matters: Updated - A Guide to Addressing Immigration Status Issues for Children and Youth in Care (Child Welfare Immigration Centre of Excellence, 2019)(Disponible en anglais seulement.)</TitleFr>
+      <Title>Immigration Status Matters: Updated - A Guide to Addressing Immigration Status Issues for Children and Youth in Care (Child Welfare Immigration Centre of Excellence, 2019)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>http://www.oacas.org/wp-content/uploads/2020/06/Guide-Immigration-Status-Matters-September-2019.pdf</UrlEn>
+      <UrlFr>http://www.oacas.org/wp-content/uploads/2020/06/Guide-Immigration-Status-Matters-September-2019.pdf</UrlFr>
+      <Url>http://www.oacas.org/wp-content/uploads/2020/06/Guide-Immigration-Status-Matters-September-2019.pdf</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Free Abdoul Abdi!!! CCLA Fighting for Equality Rights in Halifax Today [press release], Canadian Civil Liberties Association, 19 June 2018</TitleEn>
+      <TitleFr>Libérez Abdoul Abdi!!! L'ACLC lutte pour les droits à l'égalité à Halifax aujourd'hui [communiqué], Association canadienne des libertés civiles, 19 juin 2018</TitleFr>
+      <Title>Free Abdoul Abdi!!! CCLA Fighting for Equality Rights in Halifax Today [press release], Canadian Civil Liberties Association, 19 June 2018</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://ccla.org/equality/immigration-refugees/free-abdoul-abdi-ccla-fighting-for-equality-rights-in-halifax/</UrlEn>
+      <UrlFr>https://ccla.org/fr/equality/immigration-refugees/free-abdoul-abdi-ccla-fighting-for-equality-rights-in-halifax/</UrlFr>
+      <Url>https://ccla.org/equality/immigration-refugees/free-abdoul-abdi-ccla-fighting-for-equality-rights-in-halifax/</Url>
+    </WebReferences>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>false</IsSessionOngoing>
+  </Bill>
+</Bills>
