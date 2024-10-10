@@ -11,19 +11,11 @@ His Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ### Section 1
 
-  **(1)** Section 515 of the Act is amended by adding the following after subsection (3):
-
-    **(3.1)** Before making an order under subsection (2) in respect of an accused who is charged with an offence in the commission of which violence was used, threatened or attempted against the accused's intimate partner, the justice must ask the prosecutor whether the intimate partner of the accused has been consulted about their safety and security needs.
-
-  **(2)** Subsection 515(4) of the Act is amended by adding the following after paragraph (e):
-
-    wear an electronic monitoring device, if the Attorney General makes the request;
-
-  **(3)** Paragraph 515(6)(b.1) of the Act is replaced by the following:
+  **(1)** Paragraph 515(6)(b.1) of the `Criminal Code` is replaced by the following:
 
     with an offence in the commission of which violence was allegedly used, threatened or attempted against their intimate partner, and the accused has been previously convicted or discharged under section 730 of an offence in the commission of which violence was used, threatened or attempted against any intimate partner of theirs;
 
-  **(4)** The Act is amended by adding the following after subsection 515(14):
+  **(2)** The Act is amended by adding the following after subsection 515(14):
 
     **(14.1)** Upon making an order under subsection (2), the justice must ask the prosecutor whether victims of the offence have been informed of their right to request a copy of the order.
 
@@ -33,31 +25,29 @@ The Act is amended by adding the following after section 810.02:
 
 ### Section 810.03
 
-  **(1)** A person who fears on reasonable grounds that their intimate partner will commit an offence that will cause personal injury to them, to their child or to a child of that intimate partner may lay an information before a provincial court judge.
+  **(1)** Any person who fears on reasonable grounds that another person will commit an offence that will cause personal injury to the intimate partner or a child of the other person, or to a child of the other person's intimate partner, may lay an information before a provincial court judge.
 
-  **(2)** The provincial judge who receives an information under subsection (1) may cause the informant and the person who is the subject of the information to appear before a provincial court judge.
+  **(2)** The provincial judge who receives an information under subsection (1) may cause the parties to appear before a provincial court judge.
 
-  **(3)** If the provincial court judge before whom the parties appear is satisfied by the evidence adduced that the informant has reasonable grounds for the fear, the judge may order the defendant to enter into a recognizance to keep the peace and be of good behaviour for a period of not more than two years.
+  **(3)** If the provincial court judge before whom the parties appear is satisfied by the evidence adduced that the informant has reasonable grounds for the fear, the judge may order the defendant to enter into a recognizance to keep the peace and be of good behaviour for a period of not more than 12 months.
 
-  **(4)** If the provincial court judge is satisfied that the defendant was previously convicted of an offence in the commission of which violence was used against any former or current intimate partner of the defendant or any child of any former or current intimate partner or of the defendant, the judge may order the defendant to enter into the recognizance for a period of not more than three years.
+  **(4)** If the provincial court judge is satisfied that the defendant was previously convicted of an offence in the commission of which violence was used against any former or current intimate partner of the defendant or any child of any former or current intimate partner or of the defendant, the judge may order the defendant to enter into the recognizance for a period of not more than two years.
 
-  **(5)** An order under either subsection (3) or (4) must be made in a timely manner.
+  **(4.1)** If the informant or the defendant is Indigenous, the provincial court judge shall consider whether, instead of making an order under subsection (3) or (4), it would be more appropriate to recommend that Indigenous support services, if any are available, be provided.
 
-  **(6)** The provincial court judge may commit the defendant to prison for a term not exceeding two years if the defendant fails or refuses to enter into the recognizance.
+  **(5)** The provincial court judge may commit the defendant to prison for a term not exceeding 12 months if the defendant fails or refuses to enter into the recognizance.
 
-  **(7)** The provincial court judge may add any reasonable conditions to the recognizance that that the judge considers desirable to ensure the good conduct of the defendant or to secure the safety and security of the informant, their child or a child of the defendant, including conditions requiring the defendant
+  **(6)** The provincial court judge may add any reasonable conditions to the recognizance that that the judge considers desirable to ensure the good conduct of the defendant or to secure the safety and security of the intimate partner or a child of the defendant, or a child of the defendant's intimate partner, including conditions requiring the defendant
 
     to attend, under the supervision of the court, a treatment program approved by the province where the accused resides, such as an addiction treatment program or a domestic violence counselling program;
 
     to remain within a specified geographic area unless written permission to leave that area is obtained from the judge;
 
-    to refrain from going to any specified place, except in accordance with any specified conditions that the judge considers necessary;
+    to refrain from going to any specified place or being within a specified distance of any specified place, except in accordance with any specified conditions that the judge considers necessary;
 
     to wear an electronic monitoring device, with the consent of the Attorney General;
 
-    to abstain from communicating, directly or indirectly, with the informant, a child of the informant or of the defendant or any relative or close friend of the informant, except in accordance with any specified conditions that the judge considers necessary;
-
-    to refrain from using social media;
+    to abstain from communicating, directly or indirectly, with the intimate partner, a child of the intimate partner or of the defendant or any relative or close friend of the intimate partner, except in accordance with any specified conditions that the judge considers necessary;
 
     to abstain from the consumption of drugs — except in accordance with a medical prescription — of alcohol or of any other intoxicating substance;
 
@@ -65,19 +55,17 @@ The Act is amended by adding the following after section 810.02:
 
     to provide, for the purpose of analysis, a sample of a bodily substance prescribed by regulation at regular intervals that are specified, in a notice in Form 51 served on the defendant, by a probation officer or a person designated under paragraph 810.3(2)(b) to specify them, if a condition of the recognizance requires the defendant to abstain from the consumption of drugs, alcohol or any other intoxicating substance.
 
-  **(8)** The informant may provide submissions in writing on the conditions that the judge may add to the recognizance under subsection (7).
+  **(7)** The provincial court judge shall consider whether it is desirable, in the interests of the intimate partner's safety or that of any other person, to prohibit the defendant from possessing any firearm, crossbow, prohibited weapon, restricted weapon, prohibited device, ammunition, prohibited ammunition or explosive substance, or all of those things. If the judge decides that it is desirable to do so, the judge shall add that condition to the recognizance and specify the period during which the condition applies.
 
-  **(9)** The provincial court judge shall consider whether it is desirable, in the interests of the informant's safety or that of any other person, to prohibit the defendant from possessing any firearm, crossbow, prohibited weapon, restricted weapon, prohibited device, ammunition, prohibited ammunition or explosive substance, or all of those things. If the judge decides that it is desirable to do so, the judge shall add that condition to the recognizance and specify the period during which the condition applies.
+  **(8)** If the provincial court judge adds a condition described in subsection (7) to a recognizance, the judge shall specify in the recognizance how the things referred to in that subsection that are in the defendant's possession shall be surrendered, disposed of, detained, stored or dealt with and how the authorizations, licences and registration certificates held by the defendant shall be surrendered.
 
-  **(10)** If the provincial court judge adds a condition described in subsection (9) to a recognizance, the judge shall specify in the recognizance how the things referred to in that subsection that are in the defendant's possession shall be surrendered, disposed of, detained, stored or dealt with and how the authorizations, licences and registration certificates held by the defendant shall be surrendered.
+  **(9)** If the provincial court judge does not add a condition described in subsection (7) to a recognizance, the judge shall include in the record a statement of the reasons for not adding the condition.
 
-  **(11)** If the provincial court judge does not add a condition described in subsection (9) to a recognizance, the judge shall include in the record a statement of the reasons for not adding the condition.
+  **(10)** A provincial court judge may, on application of the Attorney General, the informant, the person on whose behalf the information is laid or the defendant, vary the conditions fixed in the recognizance.
 
-  **(12)** A provincial court judge may, on application of the informant or the defendant, vary the conditions fixed in the recognizance.
+  **(11)** When the defendant makes an application under subsection (10), the provincial court judge must, before varying any conditions, consult the informant and the person on whose behalf the information is laid about their safety and security needs.
 
-  **(13)** When the defendant makes an application under subsection (12), the provincial court judge must, before varying any conditions, consult the informant about their safety and security needs.
-
-  **(14)** A warrant of committal to prison for failure or refusal to enter into the recognizance under subsection (3) may be in Form 23.
+  **(12)** A warrant of committal to prison for failure or refusal to enter into the recognizance under subsection (3) may be in Form 23.
 
 ### Section 3
 
@@ -89,9 +77,9 @@ The Act is amended by adding the following after section 810.02:
 
   **(2)** Subparagraphs 810.3(2)(a) and (b) of the Act are replaced by the following:
 
-    to make a demand for a sample of a bodily substance for the purposes of paragraphs 810(3.02)(b), 810.01(4.1)(f), 810.011(6)(e), 810.03(7)(h), 810.1(3.02)(h) and 810.2(4.1)(f); and
+    to make a demand for a sample of a bodily substance for the purposes of paragraphs 810(3.02)(b), 810.01(4.1)(f), 810.011(6)(e), 810.03(7)(g), 810.1(3.02)(h) and 810.2(4.1)(f); and
 
-    to specify the regular intervals at which a defendant must provide a sample of a bodily substance for the purposes of paragraphs 810(3.02)(c), 810.01(4.1)(g), 810.011(6)(f), 810.03(7)(i), 810.1(3.02)(i) and 810.2(4.1)(g).
+    to specify the regular intervals at which a defendant must provide a sample of a bodily substance for the purposes of paragraphs 810(3.02)(c), 810.01(4.1)(g), 810.011(6)(f), 810.03(7)(h), 810.1(3.02)(i) and 810.2(4.1)(g).
 
   **(3)** Subsections 810.3(3) and (4) of the Act are replaced by the following:
 
@@ -105,7 +93,7 @@ The Act is amended by adding the following after section 810.02:
 
   **(5)** Subsection 810.3(6) of the Act is replaced by the following:
 
-    **(6)** The notice referred to in paragraph 810(3.02)(c), 810.01(4.1)(g), 810.011(6)(f), 810.03(7)(i), 810.1(3.02)(i) or 810.2(4.1)(g) must specify the places and times at which and the days on which the defendant must provide samples of a bodily substance under a condition described in that paragraph. The first sample may not be taken earlier than 24 hours after the defendant is served with the notice, and subsequent samples must be taken at regular intervals of at least seven days.
+    **(6)** The notice referred to in paragraph 810(3.02)(c), 810.01(4.1)(g), 810.011(6)(f), 810.03(7)(h), 810.1(3.02)(i) or 810.2(4.1)(g) must specify the places and times at which and the days on which the defendant must provide samples of a bodily substance under a condition described in that paragraph. The first sample may not be taken earlier than 24 hours after the defendant is served with the notice, and subsequent samples must be taken at regular intervals of at least seven days.
 
 ### Section 4
 
@@ -141,13 +129,14 @@ Subsection 811.1(1) of the Act is replaced by the following:
 
   **(3)** Paragraph (f) of Form 32 of Part XXVIII of the Act after the heading "*List of Conditions*" is replaced by the following:
 
-    wears an electronic monitoring device (section 810.03 of the `Criminal Code`);
+    wears an electronic monitoring device (*if the Attorney General has consented to this condition*) (section 810.03 of the `Criminal Code`);
 
-    abstains from communicating, directly or indirectly, with the informant, the informant's child or any relative or close friend of the informant, except in accordance with any specified conditions that the judge considers necessary (section 801.03 of the `Criminal Code`);
-
-    refrains from using social media (section 801.03 of the `Criminal Code`);
+    abstains from communicating, directly or indirectly, with the intimate partner, a child of the intimate partner or of the defendant or any relative or close friend of the intimate partner, except in accordance with any specified conditions that the judge considers necessary (section 810.03 of the `Criminal Code`);
 
     remains within a specified geographic area unless written permission to leave that area is obtained from the judge (sections 810.01, 810.03 and 810.2 of the `Criminal Code`);
+
+    refrain from going to any specified place or being within a specified distance of any specified place, except in accordance with any
+specified conditions that the judge considers necessary (section 810.03 of the `Criminal Code`);
 
   **(4)** Paragraphs (h) and (i) of Form 32 of Part XXVIII of the Act after the heading "*List of Conditions*" are replaced by the following:
 
@@ -164,7 +153,7 @@ Form 51 in Part XXVIII of the Act is amended by replacing the references after t
 
 ### Section 8
 
-If an information has been laid under subsection 810(1) of the `Criminal Code` before the day on which this Act comes into force by a person who fears on reasonable grounds that their intimate partner will commit an offence that will cause personal injury to them, to their child or to a child of that intimate partner, and a provincial court judge has not made a final determination with respect to the information, the information is deemed, on that day, to have been laid under subsection 810.03(1) of that Act.
+If an information has been laid under subsection 810(1) of the `Criminal Code` before the day on which this Act comes into force by a person who fears on reasonable grounds that another person will commit an offence that will cause personal injury to the intimate partner or a child of the other person, or to a child of the other person's intimate partner, and a provincial court judge has not made a final determination with respect to the information, the information is deemed, on that day, to have been laid under subsection 810.03(1) of that Act.
 
 
 ## Consequential Amendments
@@ -189,13 +178,17 @@ in respect of an order under section 83.3 (recognizance — terrorist activity),
 
 ### Section 11
 
-  **(1)** Subsections (2) to (4) apply if Bill C-233, introduced in the 1st session of the 44th Parliament and entitled *An Act to amend the Criminal Code and the Judges Act (violence against an intimate partner)* (in this section referred to as the "other Act"), receives royal assent.
+  **(1)** Subsections (2) and (3) apply if Bill C-21, introduced in the 1st session of the 44th Parliament and entitled `An Act to amend certain Acts and to make certain consequential amendments (firearms)` (in this section referred to as the "other Act"), receives royal assent.
 
-  **(2)** If subsection 1(1) of the other Act comes into force before subsection 1(2) of this Act, then subsection 515(4.2) of the `Criminal Code` is amended by adding "or" at the end of paragraph (a.1) and by repealing paragraph (a.2).
+  **(2)** On the first day on which both subsection 1(5) of the other Act and section 2 of this Act are in force, subsection 810.03(7) of the `Criminal Code` is replaced by the following:
 
-  **(3)** If subsection 1(2) of this Act comes into force before subsection 1(1) of the other Act, then that subsection 1(1) is repealed.
+    **(7)** The provincial court judge shall consider whether it is desirable, in the interests of the intimate partner's safety or that of any other person, to prohibit the defendant from possessing any firearm, crossbow, prohibited weapon, restricted weapon, prohibited device, firearm part, ammunition, prohibited ammunition or explosive substance, or all of those things. If the judge decides that it is desirable to do so, the judge shall add that condition to the recognizance and specify the period during which the condition applies.
 
-  **(4)** If subsection 1(2) of this Act comes into force on the same day as subsection 1(1) of the other Act, then that subsection 1(1) is deemed never to have come into force and is repealed.
+  **(3)** On the first day on which both subsection 13.12(1) of the other Act and subsection 6(2) of this Act are in force, paragraph (c) of Form 32 of Part XXVIII of the `Criminal Code` after the heading "*List of Conditions*" is replaced by the following:
+
+    abstains from possessing a firearm, crossbow, prohibited weapon, restricted weapon, prohibited device, firearm part, ammunition, prohibited ammunition or explosive substance and surrenders those in their possession and surrenders any authorization, licence or registration certificate or other document enabling the acquisition or
+possession of a firearm (sections 83.3, 810, 810.01, 810.03, 810.1 and 810.2
+of the `Criminal Code`);
 
 
 ## Coming into Force
