@@ -767,10 +767,6 @@ A current or former member, officer or employee of the Commission, or any person
 
   **(3)** In order to conduct a review on its own initiative, the Commission must be satisfied that no other review or inquiry has been undertaken on substantially the same issue by a federal or provincial entity.
 
-    [*Deleted*]
-
-    [*Deleted*]
-
   **(4)** Before conducting a review on its own initiative, the Commission must give a notice to the Minister indicating that the Commission is satisfied that the condition referred to in subsection (3) has been met and setting out the rationale for conducting the review.
 
   **(5)** The Commission must include in the report any findings and recommendations that it sees fit regarding the adequacy, appropriateness, sufficiency or clarity of any policy, procedure or guideline relating to the operation of the RCMP or Agency, as the case may be.
@@ -1123,8 +1119,6 @@ the complainant's right to refer the complaint to the Commission for review, wit
     the complaint is from a third party that is not directly concerned by the subject matter of the complaint.
 
   **(2)** The Commission must refuse to deal with a complaint concerning any decision under Part IV of the `Royal Canadian Mounted Police Act`.
-
-  **(3)** [*Deleted*]
 
   **(4)** The Commission must refuse to deal with a complaint made under subsection `33`(1) by a member, as defined in subsection 2(1) of the `Royal Canadian Mounted Police Act`, or any other person appointed or employed under Part I of that Act if the complaint has been or could have been adequately dealt with, or could more appropriately be dealt with, according to a procedure provided for under the `Royal Canadian Mounted Police Act` or any other Act of Parliament.
 
@@ -1632,10 +1626,6 @@ Summary conviction proceedings in respect of an offence under this Part may be i
 Subsection 5(2) of the Act is replaced by the following:
 
 **(2)** The Commissioner may delegate to any member, subject to any terms and conditions that the Commissioner directs, any of the Commissioner's powers, duties or functions under this Act, except the power to delegate under this subsection and the power to make rules under this Act.
-
-### Section 95
-
-[*Deleted*]
 
 ### Section 96
 
