@@ -1,7 +1,5 @@
 # Bill S-16: An Act respecting the recognition of the Haida Nation and the Council of the Haida Nation
 
-**Sponsor**: THE HONOURABLE SENATOR GOLD, P.C.
-
 ## Summary
 
 This enactment implements certain sections of the agreement entitled "Nang K̲'uula • Nang K̲'úulaas Recognition Agreement".
