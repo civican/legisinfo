@@ -1,7 +1,5 @@
 # Bill C-78: An Act respecting temporary cost of living relief (affordability)
 
-**Sponsor**: DEPUTY PRIME MINISTER AND MINISTER OF FINANCE
-
 ## Summary
 
 This enactment amends the `Excise Tax Act` in order to implement a temporary GST/HST holiday between December 14, 2024 and February 15, 2025 inclusively in respect of certain taxable supplies.
