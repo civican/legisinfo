@@ -27,7 +27,12 @@ Definitions
 
 ## Rights
 
-Rights of Indigenous peoples
+Rights of First Nations peoples
+
+
+## Right to Clean and Safe Drinking Water
+
+Right on First Nation lands
 
 
 ## Purpose
@@ -65,6 +70,8 @@ Regulations
 ## Standards
 
 Drinking water quality
+
+Quality consistent with rights
 
 Water quantity
 
@@ -166,7 +173,7 @@ Bill S-13
 
 ## Coming into Force
 
-Order in council
+One year after royal assent
 
 Whereas the stewardship, the protection and the sustainable use of water are of fundamental value to First Nations;
 
@@ -181,6 +188,8 @@ Whereas it is desirable to establish national principles, including the principl
 Whereas Parliament affirms the need to take into account the lived experience, and to address the needs, of First Nations persons, including those of elders, parents, youth, children, persons with disabilities, women, men, gender-diverse persons and two-spirit persons, and specifically of those who have compromised health due to inadequate quality and quantity of drinking water, wastewater treatment and disposal and related infrastructure;
 
 Whereas Parliament recognizes that regulatory gaps, policy gaps and underfunding have resulted in inadequate infrastructure for the provision of drinking water and wastewater treatment and disposal on First Nation lands and that those gaps and that underfunding have contributed to social and health conditions that are not equal to those of other people in Canada and to long-term drinking water advisories on First Nation lands, and have left First Nations in vulnerable circumstances that must be addressed;
+
+Whereas Parliament recognizes that broad, concurrent action by all levels of government to protect First Nation waters from pollution, including that caused by certain persistent, toxic and bioaccumulative substances, is urgently required;
 
 Whereas Parliament recognizes that jurisdiction over water services by First Nations is a primary means of achieving self-determination by First Nations and that there is a need for a transparent and clear process for First Nations to exercise that jurisdiction;
 
@@ -204,7 +213,7 @@ that First Nations, the Government of Canada and provincial, territorial and mun
 
 that it is desirable that First Nations, the Government of Canada and provincial, territorial and municipal governments continually collaborate and engage with each other to ensure the protection and sustainable use of source water, the reliable access to clean and safe drinking water and the effective treatment and disposal of wastewater on First Nation lands;
 
-that it has committed to implement the United Nations Declaration on the Rights of Indigenous Peoples, including Articles 18, 19, 22, 28 and 29 as they relate to water, source water, drinking water, wastewater and related infrastructure on, in and under First Nation lands;
+that it has committed to implement the United Nations Declaration on the Rights of Indigenous Peoples, including Articles **3, 4**, 18, 19, 22, 28 and 29, **paragraph 2 of Article 32 and paragraph 1 of Article 37** as they relate to water, source water, drinking water, wastewater and related infrastructure on, in and under First Nation lands;
 
 that under the `United Nations Declaration on the Rights of Indigenous Peoples Act`, it must, in consultation and cooperation with Indigenous peoples, take all measures necessary to ensure that the laws of Canada are consistent with that Declaration;
 
@@ -256,18 +265,27 @@ The following definitions apply in this Act.
 
 **water services** means services and systems for, and infrastructure related to,
 
-the public or private collection, storage, treatment and distribution of water intended for drinking or for sanitation or hygiene purposes; and
+the public or private collection, storage, treatment and distribution of water intended for drinking **or cooking** or for sanitation or hygiene purposes;
 
-the collection, treatment and disposal of wastewater. (**services relatifs à l'eau**)
+the collection, treatment and disposal of wastewater; and
+
+the protection of groundwater and aquifers. (**services relatifs à l'eau**)
 
 
 ## Rights
 
 ### Section 3
 
-  **(1)** This Act is to be construed as upholding the rights of Indigenous peoples recognized and affirmed by section 35 of the `Constitution Act, 1982`, and not as abrogating or derogating from them.
+  **(1)** This Act is to be construed as upholding the rights of **First Nations** peoples recognized and affirmed by section 35 of the `Constitution Act, 1982`, and not as abrogating or derogating from them.
 
-  **(2)** For the purposes of subsection (1), **Indigenous peoples** has the meaning assigned by the definition aboriginal peoples of Canada in subsection 35(2) of the `Constitution Act, 1982`.
+  **(2)** For the purposes of subsection (1), ****First Nations** peoples** **means** the **Indian** peoples of Canada, **as referred to** in subsection 35(2) of the `Constitution Act, 1982`.
+
+
+## Right to Clean and Safe Drinking Water
+
+### Section 3.1
+
+It is recognized and affirmed that it is a human right of every individual on First Nations land to have access to clean and safe drinking water in accordance with this Act.
 
 
 ## Purpose
@@ -278,15 +296,15 @@ The purpose of this Act is to
 
 ensure that First Nations have reliable access to a sufficient, adequate and safe quantity and quality of drinking water — and reliable access to effective treatment and disposal of wastewater — to assist First Nations in achieving the highest attainable standard of health, safety and well-being;
 
-affirm the inherent right of First Nations to self-government, which includes jurisdiction in relation to water, source water, drinking water, wastewater and related infrastructure on, in and under First Nation lands;
+affirm the inherent right of First Nations to self-government, which includes jurisdiction in relation to water, source water, drinking water, wastewater and related infrastructure on, in and under First Nation lands, **and in relation to water and source water in protection zones**;
 
-ensure that laws in relation to water services on First Nation lands, and policies and practices implementing those laws, are consistent with section 35 of the `Constitution Act, 1982` and the United Nations Declaration on the Rights of Indigenous Peoples;
+ensure that laws in relation to water services on First Nation lands, and policies and practices implementing those laws, are consistent with section 35 of the `Constitution Act, 1982` and the United Nations Declaration on the Rights of Indigenous Peoples, **which must be meaningfully recognized and implemented**;
 
 establish principles applicable to decision making regarding water services on First Nation lands, minimum national standards for the provision of water services on First Nation lands and a federal regulatory regime respecting those services;
 
 facilitate the closing of the gaps with respect to infrastructure, socio-economic status, governance and health and well-being in relation to water services between First Nations persons and persons in non-Indigenous communities; and
 
-facilitate collaboration between First Nations and federal, provincial, territorial and municipal governments through transboundary source water protection planning and the entering into of agreements to protect source water.
+**ensure that the Government of Canada facilitates** collaboration between First Nations and federal, provincial, territorial and municipal governments through transboundary source water protection planning and the entering into of agreements to protect source water.
 
 
 ## Principles
@@ -321,7 +339,7 @@ facilitate collaboration between First Nations and federal, provincial, territor
 
     First Nations may, without discrimination, exercise their right to deliver water services through service delivery models designed by them to suit their needs, including through the adoption of innovative approaches and technology.
 
-  **(3)** The making of any decision under this Act is to be guided by the principle of free, prior and informed consent referred to in the United Nations Declaration on the Rights of Indigenous Peoples.
+  **(3)** The making of any decision under this Act is to be guided by the United Nations Declaration on the Rights of Indigenous Peoples, **including** the principle, referred to in the **Declaration**, of free, prior and informed consent**as well as Article 10, paragraph 2 of Article 29 and paragraph 2 of Article 32 of the Declaration**.
 
 
 ## Jurisdiction
@@ -332,7 +350,7 @@ facilitate collaboration between First Nations and federal, provincial, territor
 
     water, source water, drinking water, wastewater and related infrastructure on, in and under First Nation lands; and
 
-    water and source water in a protection zone that is adjacent to the First Nation lands of a First Nation, if a governing body of the First Nation, the Government of Canada and the government of the province or territory in which the First Nation lands are located have agreed on an approach to coordinate the application of the First Nation laws of that First Nation, federal laws and the laws of that province or territory in respect of the water and source water in the protection zone.
+    water and source water in a protection zone, if a First Nation governing body, the Government of Canada and the government of the province or territory in which the **protection zone is** located have agreed on an approach to coordinate the application of the First Nation laws of that First Nation, federal laws and the laws of that province or territory in respect of the water and source water in the protection zone.
 
   **(2)** The jurisdiction includes
 
@@ -380,9 +398,13 @@ Except as otherwise provided in regulations made under subsection `19`(1), a pro
 
 Subject to the choice specified by a First Nation governing body, the quality of drinking water on the First Nation lands of that First Nation must at least meet the guidelines set out in the Guidelines for Canadian Drinking Water Quality or the drinking water standards in place in the province or territory where the First Nation lands are located.
 
+### Section 14.1
+
+The quality of water and source water available on the First Nation lands of a First Nation and in a protection zone under the jurisdiction of that First Nation must be consistent with the rights recognized and affirmed by section 35 of the `Constitution Act, 1982`.
+
 ### Section 15
 
-The quantity of water available on the First Nation lands of a First Nation must meet the drinking, cooking, sanitation, hygiene, safety, fire protection and emergency management needs of the First Nation, based on its current and projected water usage needs.
+The quantity of water available on the First Nation lands of a First Nation must meet the drinking, cooking, sanitation, hygiene, safety, fire protection and emergency management needs of the First Nation, **taking into account its cultural and spiritual needs and** based on its current and projected water usage needs.
 
 ### Section 16
 
@@ -402,12 +424,14 @@ For greater certainty, sections `14` to `16` apply to both public and private wa
 
   **(2)** The Minister must make best efforts to begin the consultation and cooperation required by subsection (1) no later than the 90th day after the day on which this section comes into force.
 
+  **(3)** The Minister must obtain the consent of the First Nation governing body as identified through a band council resolution before applying the standards referred to in paragraph (1)(a) or (b).
+
 
 ## Regulations
 
 ### Section 19
 
-  **(1)** The Governor in Council may, on the Minister's recommendation, make regulations respecting water services on First Nation lands, including regulations respecting
+  **(1)** The Governor in Council may, on the Minister's recommendation **and in collaboration with First Nations**, make regulations respecting water services on First Nation lands, including regulations respecting
 
     the management of water services, including asset management plans;
 
@@ -435,25 +459,31 @@ For greater certainty, sections `14` to `16` apply to both public and private wa
 
   **(2)** A First Nation law may exclude the application of any regulations made under subsection (1) to First Nation lands in respect of which the law applies.
 
-  **(3)** Regulations made under paragraph (1)(l) may provide for different minimum standards for different locations to address local circumstances.
+  **(3)** Regulations made under paragraph (1)(l) may provide for different minimum standards for different locations **on the First Nation lands of a First Nation** to address local circumstances **only if all the minimum standards provided for are consistent with sections 14 to 16**.
+
+  **(4)** If, in respect of regulations made under paragraph (1)(k), the Minister obtains information or data relating to the insurability or the terms and conditions of insurance of water services on the First Nation lands of a First Nation, the Minister may provide data or that information to that First Nation to assist it in obtaining the best possible insurance protection for its infrastructure and community, consistent with paragraph 5(1)(e) and in compliance with ownership, control, access and possession.
 
 ### Section 20
 
-  **(1)** The Minister must consult and cooperate with First Nation governing bodies before making any recommendation under subsection `19`(1).
+  **(1)** The Minister must consult and cooperate with First Nation governing bodies before making any recommendation under subsection 19(1), **and any such recommendation must be co-developed with those bodies**.
 
-  **(2)** The Minister must make best efforts to begin the consultations and cooperation required by subsection (1) no later than the last day of the sixth month after the month in which this section comes into force.
+  **(2)** The Minister must make best efforts to begin the consultations, cooperation and **co-development** required by subsection (1) no later than the last day of the sixth month after the month in which this section comes into force.
 
 ### Section 21
 
-  **(1)** The Minister must make regulations defining "protection zone" for the purposes of this Act.
+  **(1)** The Minister must make regulations defining "protection zone" for the purposes of this Act. **In making such a regulation, the Minister must consider how a protection zone is to be connected to First Nation lands**.
 
   **(2)** Before making a regulation under subsection (1), the Minister must consult and cooperate with First Nation governing bodies, federal ministers and the governments of the provinces and territories.
 
+  **(3)** In relation to a regulation made under subsection (1), the Minister must begin consultation and cooperation to enter into agreements with First Nation governing bodies, and the governments of provinces and territories in defining "protection zone" no later than the last day of the sixth month after the month in which this section comes into force in a manner that is consistent with the articles of the United Nations Declaration on the Rights of Indigenous Peoples and respecting provincial and territorial jurisdiction.
+
 ### Section 22
 
-  **(1)** If requested to do so by a First Nation governing body, the Minister may make regulations respecting the administration and enforcement of the First Nation laws of that First Nation that apply in a protection zone adjacent to the First Nation lands of that First Nation, including regulations respecting the designation of officials for the administration and enforcement of those laws, the creation of offences that are punishable by indictment or on summary conviction and the imposition of penalties.
+  **(1)** If requested to do so by a First Nation governing body, the Minister may make regulations respecting the administration and enforcement of the First Nation laws of that First Nation that apply in a protection zone, including regulations respecting the designation of officials for the administration and enforcement of those laws, the creation of offences that are punishable by indictment or on summary conviction and the imposition of penalties.
 
-  **(2)** The Minister must consult and cooperate with a First Nation governing body of the First Nation and with the government of the province or territory in which the protection zone is located before making regulations under subsection (1).
+  **(2)** The Minister must consult and cooperate with a First Nation governing body of the First Nation and with the government of the province or territory in which the protection zone is located before making regulations under subsection (1), **and any such regulations must be co-developed with that body**.
+
+  **(3)** A regulation made under subsection (1) must not come into force unless the First Nation governing body provides free, prior and informed consent to it.
 
 
 ## Agreements
@@ -464,9 +494,11 @@ For greater certainty, sections `14` to `16` apply to both public and private wa
 
   **(2)** The agreement may include
 
-    fiscal arrangements in respect of the delivery of water services on First Nation lands; and
+    fiscal arrangements in respect of the delivery of water services on First Nation lands;
 
-    arrangements on information and data sharing, monitoring, reporting, enforcement and measurement of outcomes in relation to water services.
+    arrangements on information and data sharing, monitoring, reporting, enforcement and measurement of outcomes in relation to water services; and
+
+    plans and policies that address water, source water, clean and safe drinking water, wastewater and related infrastructure on First Nation lands.
 
 ### Section 24
 
@@ -480,7 +512,7 @@ A First Nation governing body may enter into an agreement with the Minister or a
 
     water services; and
 
-    the administration and enforcement of regulations made under subsection `19`(1).
+    the administration and enforcement **of First Nation laws and the administration and enforcement** of regulations made under subsection 19(1).
 
   **(2)** If a First Nation could be affected by an agreement under subsection (1) between the Minister and a provincial, territorial or municipal government, the First Nation must, subject to the choice of a First Nation governing body of the First Nation, be a party to the agreement or must be consulted before the agreement is entered into.
 
@@ -491,17 +523,17 @@ A First Nation governing body may enter into an agreement with the Minister or a
 
 ### Section 26
 
-The Minister, in consultation and cooperation with a First Nation governing body, must make best efforts to ensure that access to clean and safe drinking water, whether from a public or private water system, is provided to all residents, occupants and users of buildings located on the First Nation lands of the First Nation.
+The Minister, in consultation and cooperation with a First Nation governing body, must make best efforts to ensure that access to clean and safe drinking water, whether from a public or private water system, is provided to all residents, occupants and users of buildings located on the First Nation lands of the First Nation **in a manner that meets the obligations set out in sections 31, 33 and 34**.
 
 ### Section 27
 
-  **(1)** The Minister must consult and cooperate with First Nation governing bodies in respect of a framework for assessing needs — and the making and implementing of funding allocation decisions — respecting water services on First Nation lands.
+  **(1)** The Minister must consult and cooperate with First Nation governing bodies in respect of a framework for assessing needs — and the making and implementing of funding allocation decisions — respecting water services on First Nation lands **and must co-develop the framework with those bodies and meet the obligations set out in sections 31, 33 and 34**.
 
-  **(2)** The Minister's consultations and cooperation in respect of the framework for assessing needs may involve, among other things, the following matters:
+  **(2)** The Minister's consultations and cooperation in respect of the framework for assessing needs **and the co-development of the framework** may involve, among other things, the following matters:
 
     capital and upgrades;
 
-    operations and maintenance;
+    operations and maintenance, **including repairs and replacements**;
 
     monitoring;
 
@@ -509,15 +541,21 @@ The Minister, in consultation and cooperation with a First Nation governing body
 
     reporting;
 
+    requirements relating to legal fees for various tasks relating to the day-to-day operations of water services;
+
     actual costs;
+
+    remoteness costs, including the higher costs of providing water services in remote communities;
 
     governance;
 
-    capacity development; and
+    capacity development;
 
-    water services received by First Nation persons compared with those received by persons in non-Indigenous communities.
+    the insurance required to be maintained by First Nations in respect of water services and water services operators and the information required to be provided to First Nations about their insurance, including the analysis of the risks ascribed to First Nations by their insurers and past claims, to enable First Nations to better understand how their insurance premiums are set; and
 
-  **(3)** The Minister's consultations and cooperation with respect to the making of funding allocation decisions are to be guided by the principles that the funding for First Nations water services should
+    **standards applicable to** water services received by First Nation persons compared with **the most stringent standards applicable to water services** received by persons in non-Indigenous communities.
+
+  **(3)** The Minister's consultations and cooperation with respect to the making of funding allocation decisions **under subsection (1) must be consistent with** the **principle** that the funding for First Nations water services **is to**
 
     be adequate, predictable, stable, sustainable and needs-based;
 
@@ -527,11 +565,11 @@ The Minister, in consultation and cooperation with a First Nation governing body
 
     achieve positive long-term health outcomes; and
 
-    align with the use of clean and sustainable technologies to reduce the carbon footprint of water services.
+    align with the use of **up-to-date** clean and sustainable technologies to reduce the carbon footprint of water services.
 
   **(4)** After the Minister's consultations with respect to implementing funding allocation decisions, the Minister must publicly respond, if appropriate, in a report to be tabled in each House of Parliament, to the views submitted by the First Nation governing bodies during the consultations.
 
-  **(5)** The Minister must make best efforts to begin the consultations and cooperation required by subsection (1) no later than the last day of the sixth month after the month in which this section comes into force.
+  **(5)** The Minister must **complete the framework referred to in** subsection (1) no later than the **first anniversary of the day on** which this section comes into force **or** the last day of **any longer period requested by the Minister or First Nations governing bodies**.
 
 ### Section 28
 
@@ -546,11 +584,11 @@ The Minister must consult and cooperate with First Nation governing bodies with 
 
 ### Section 30
 
-The Government of Canada must make best efforts to provide funding that meets the needs assessed in the framework referred to in subsection `27`(1).
+The Government of Canada must make best efforts to provide funding **that meaningfully reflects the consultations and cooperation between the Minister and First Nation governing bodies under subsection 27(1) and** that meets the needs assessed in the framework referred to in subsection `27`(1).
 
 ### Section 31
 
-The Government of Canada must make best efforts to provide funding that is adequate, predictable, stable, sustainable and needs-based and that meets actual costs for water services on First Nation lands so that First Nation persons are able to receive water services comparable to those received by persons in non-Indigenous communities.
+The Government of Canada must make best efforts to provide funding **that meaningfully reflects the consultations and cooperation between the Minister and First Nation governing bodies under subsection 27(1)**, that is adequate, predictable, stable, sustainable and needs-based and that meets actual costs for water services on First Nation lands so that, **in accordance with the principle of substantive equality**, First Nation persons are able to receive water services comparable to those received by persons in non-Indigenous communities.
 
 ### Section 32
 
@@ -588,7 +626,9 @@ Any agreement entered into as a result of any framework referred to in subsectio
 
   **(1)** No action or other proceedings for damages lies or may be instituted against an employee of, or any person hired by, a First Nation governing body for anything done or omitted to be done by them in good faith in the performance, or intended performance, of their duties in relation to the provision of water services on the First Nation lands of the First Nation.
 
-  **(2)** Nothing in subsection (1) affects the liability of a First Nation governing body in relation to acts or omissions of any of its employees or any persons hired by it who are acting within the scope of their duties.
+  **(2)** A First Nation governing body is not liable for loss or damage in relation to acts or omissions of any of its employees or any persons hired by it who are acting within the scope of their duties in the provision of water services on the First Nation lands of the First Nation if the acts or omissions were committed in good faith and the Government of Canada did not make best efforts to provide adequate funding for water services on those First Nation lands.
+
+  **(3)** His Majesty in right of Canada is not liable for loss or damage in relation to acts or omissions of servants of the Crown for anything done or omitted to be done by them in good faith in the performance, or intended performance, of their duties in relation to the provision of water services on the First Nation lands of a First Nation — and no action or other proceedings for damages lies or may be instituted against such servants of the Crown — if the Government of Canada made best efforts to provide adequate funding for water services on those First Nation lands.
 
 
 ### Other Federal Ministers
@@ -606,9 +646,13 @@ Nothing in any regulation made under this Act or any agreement entered into unde
 
   **(2)** The terms of reference must provide that the corporation's articles of incorporation stipulate
 
-    that one of the corporation's purposes is to support the purpose and principles set out in this Act; and
+    that one of the corporation's purposes is to support the purpose and principles set out in this Act;
 
-    that the corporation must provide the Minister, no later than six months after its financial year end, an annual report describing its activities for that year, including its activities as they pertain to source water protection plans and agreements and the supporting of First Nations in the management of water services.
+    that the corporation must provide the Minister, no later than six months after its financial year end, an annual report describing its activities for that year, including its activities as they pertain to source water protection plans and agreements and the supporting of First Nations in the management of water services;
+
+    that the corporation may, at any time, make a special report to Parliament referring to and commenting on any matter within the scope of the powers and functions of the corporation where, in the opinion of the corporation, the matter is of such urgency or importance that a report on it should not be deferred until the time provided for transmission of the next annual report of the corporation; and
+
+    that the corporation must publish on its website, in both official languages as well as in as many Indigenous languages as possible, every report it provides to the Minister within 10 days after it is tabled in both Houses of Parliament.
 
   **(3)** The terms of reference may also provide that the corporation's purposes as set out in its articles of incorporation include, among other things, any of the following:
 
@@ -618,11 +662,15 @@ Nothing in any regulation made under this Act or any agreement entered into unde
 
     providing support and advice to First Nations in respect of certifications related to water services on First Nation lands;
 
-    making recommendations to the Government of Canada, provincial, territorial and municipal governments and First Nations in relation to drinking water and wastewater, including recommendations relating to laws, regulations, policies, guidelines and the drafting of model laws; and
+    making recommendations to the Government of Canada, provincial, territorial and municipal governments and First Nations in relation to drinking water and wastewater, including recommendations relating to laws, regulations, policies, guidelines and the drafting of model laws;
+
+    considering matters relating to water pollution on First Nation lands and making recommendations to the federal, provincial and territorial governments and First Nations in this regard by taking into account, among other things, existing frameworks and best practices related to pollution caused by certain dangerous substances discharged into the aquatic environments on First Nation lands; and
 
     providing other services in relation to planning, coordination and reporting with respect to drinking water, wastewater and source water on, in and under First Nation lands.
 
   **(4)** The Minister must make best efforts to begin the consultations and cooperation required by subsection (1) no later than the last day of the sixth month after the month in which this section comes into force.
+
+  **(5)** That the corporation must provide its services in both official languages and in any Indigenous language it considers necessary.
 
 ### Section 40
 
@@ -640,7 +688,7 @@ The Minister must, in consultation and cooperation with First Nations, produce a
 
 ### Section 42
 
-On the fifth anniversary of the day on which this section comes into force, the Minister must, in consultation and cooperation with First Nation governing bodies, cause a review of the provisions and operation of this Act to be conducted, and the Minister must cause a report of the review to be tabled in each House of Parliament before the sixth anniversary of the day on which this section comes into force.
+On the fifth anniversary of the day on which this section comes into force, the Minister must, in consultation and cooperation with First Nations, cause a review of the provisions and operation of this Act to be conducted **according to jointly developed criteria**, and the Minister must cause a report of the review to be tabled in each House of Parliament before the sixth anniversary of the day on which this section comes into force.
 
 
 ## Coordinating Amendment
@@ -654,5 +702,5 @@ If Bill S-13, introduced in the 1st session of the 44th Parliament and entitled 
 
 ### Section 44
 
-The provisions of this Act come into force on a day or days to be fixed by order of the Governor in Council.
+This Act comes into force one year after the day on which this Act receives royal assent.
 
