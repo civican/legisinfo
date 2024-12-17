@@ -1,16 +1,18 @@
 # Bill S-15: An Act to amend the Criminal Code and the Wild Animal and Plant Protection and Regulation of International and Interprovincial Trade Act
 
-**Sponsor**: THE HONOURABLE SENATOR GOLD, P.C.
-
 ## Summary
 
 This enactment amends the `Criminal Code` to create offences related to keeping elephants and great apes in captivity, subject to certain exceptions. It also amends the `Wild Animal and Plant Protection and Regulation of International and Interprovincial Trade Act` to, among other things, specify the circumstances in which the importation or exportation of living elephants and great apes may be permitted as well as the circumstances in which the keeping of these animals in captivity may be authorized.
 
-Whereas Parliament recognizes the evolution of public opinion on the captivity of certain animal species that are not domesticated;
+Whereas Parliament is of the view that certain animals,
+particularly elephants and great apes, should
+not be kept in captivity because of the risk of animal
+cruelty that such captivity presents;
 
-Whereas Parliament is of the view that the science establishes that certain animals, particularly elephants and great apes, should not, because of the cruelty it represents, be kept in captivity;
-
-And whereas Parliament recognizes that keeping these animals in captivity is justified in certain circumstances, including when it is in the best interests of their welfare or for the purpose of a scientific research or conservation program;
+And whereas Parliament recognizes that keeping elephants and great apes in captivity may be justified in
+certain circumstances, including when it is in the best
+interests of their welfare or for the purpose of a scientific
+research or conservation program;
 
 Now therefore, His Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
@@ -33,7 +35,7 @@ The `Criminal Code` is amended by adding the following after section 445.2:
 
     fails to perform the duty imposed by subsection (2); or
 
-    promotes, arranges, conducts, assists in, receives money for or takes part in any meeting, competition, exhibition, pastime, practice, display or event at or in the course of which elephants or great apes that are kept in captivity are used, in Canada, for entertainment in a performance.
+    promotes, arranges, conducts, assists in, receives money for or takes part in any meeting, competition, exhibition, pastime, practice, display or event at or in the course of which elephants or great apes that are kept in captivity are used, in Canada, for entertainment in a performance or for conveyance.
 
   **(2)** Every person who possesses an elephant or great ape that is kept in captivity is under a legal duty to take reasonable measures to prevent the natural breeding of the elephant or great ape.
 
@@ -45,7 +47,7 @@ The `Criminal Code` is amended by adding the following after section 445.2:
 
     a person who, under a permit issued by the Minister of the Environment under paragraph 10(1.2)(a) of the `Wild Animal and Plant Protection and Regulation of International and Interprovincial Trade Act`, possesses an elephant or great ape that is kept in captivity in the best interests of the elephant's or great ape's welfare;
 
-    a person who, under a permit issued by that Minister under paragraph 10(1.2)(b) of that Act, possesses an elephant or great ape that is kept in captivity in connection with a scientific research program;
+    a person who, under a permit issued by that Minister under paragraph 10(1.2)(b) of that Act, possesses an elephant or great ape that is kept in captivity in connection with a scientific research program for conservation purposes;
 
     a person who, under a permit issued by that Minister under paragraph 10(1.2)(c) of that Act, possesses an elephant or great ape that is kept in captivity in connection with a conservation program;
 
@@ -55,17 +57,17 @@ The `Criminal Code` is amended by adding the following after section 445.2:
 
   **(6)** Subparagraph (1)(a)(ii) does not apply to
 
-    a person who, under a permit issued by the Minister of the Environment under paragraph 10(1.2)(b) of the `Wild Animal and Plant Protection and Regulation of International and Interprovincial Trade Act`, breeds or impregnates an elephant or great ape that is kept in captivity in connection with a scientific research program; or
+    a person who, under a permit issued by the Minister of the Environment under paragraph 10(1.2)(b) of the `Wild Animal and Plant Protection and Regulation of International and Interprovincial Trade Act`, breeds or impregnates an elephant or great ape that is kept in captivity in connection with a scientific research program for conservation purposes; or
 
     a person who, under a permit issued by that Minister under paragraph 10(1.2)(c) of that Act, breeds or impregnates an elephant or great ape that is kept in captivity in connection with a conservation program.
 
   **(7)** Subparagraph (1)(a)(iii) does not apply to
 
-    a person who, under a permit issued by the Minister of the Environment under paragraph 10(1.2)(b) of the `Wild Animal and Plant Protection and Regulation of International and Interprovincial Trade Act`, permits natural breeding of an elephant or great ape that is kept in captivity in connection with a scientific research program; or
+    a person who, under a permit issued by the Minister of the Environment under paragraph 10(1.2)(b) of the `Wild Animal and Plant Protection and Regulation of International and Interprovincial Trade Act`, permits natural breeding of an elephant or great ape that is kept in captivity in connection with a scientific research program for conservation purposes; or
 
     a person who, under a permit issued by that Minister under paragraph 10(1.2)(c) of that Act, permits natural breeding of an elephant or great ape that is kept in captivity in connection with a conservation program.
 
-  **(8)** Paragraph (1)(a) does not apply to a person who, under a licence issued by a competent authority in a province, is participating in a scientific research program or conservation program.
+  **(8)** Paragraph (1)(a) does not apply to a person who, under a licence issued by a competent authority in a province, is participating in a scientific research program for conservation purposes or in a conservation program.
 
   **(9)** Every person who commits an offence under subsection (1) is guilty of an offence punishable on summary conviction and liable to a fine of not more than $200,000.
 
@@ -73,11 +75,23 @@ The `Criminal Code` is amended by adding the following after section 445.2:
 
     **elephant** means any species of the family Elephantidae. (**éléphant**)
 
-    **great ape** means any species of the family Hominidae, excluding the genus Homo. (**grand singe**)
+    **great ape** means any species of the genus Gorilla, Pan or Pongo, including a gorilla, bonobo, chimpanzee or orangutan. (**grand singe**)
 
+### Section 445.4
 
-> **Explanatory Note**:
-> New.
+  **(1)** The court imposing sentence on a person convicted of an offence under subsection 445.2(2) or (4) or 445.3(1) or discharging the offender under section 730 may, on application of the prosecutor or on its own motion, in addition to any other measure imposed on the offender, order that the offender carry out any action, at the offender's cost, that is necessary in the best interests of the animal involved in the offence, including
+
+    modifying the physical conditions in which the animal is kept;
+
+    relocating the animal to another facility or sanctuary;
+
+    modifying the social conditions in which the animal is kept; or
+
+    forfeiting ownership of the animal and surrendering the animal to an animal welfare authority named in the order.
+
+  **(2)** In determining whether to make an order under subsection (1), the court must ask for and consider expert evidence on the individual animal's welfare and conservation of its species.
+
+  **(3)** On its own motion or on application of the prosecutor, the court may make an order made under subsection (1) applicable to any other animals in the offender's possession if those animals are of the same species as or a species closely related to the animal in respect of which the offence was committed.
 
 
 ## Wild Animal and Plant Protection and Regulation of International and Interprovincial Trade Act
@@ -90,15 +104,11 @@ Section 2 of the `Wild Animal and Plant Protection and Regulation of Internation
 
 **great ape** has, for the purpose of subsections 6(2.1) and 10(1.1) and (1.2) and sections 11.1 to 11.3, the same meaning as in subsection 445.3(10) of the `Criminal Code`. (**grand singe**)
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 3
 
   **(1)** Subsection 6(2) of the French version of the Act is replaced by the following:
 
-    **(2)** Sous réserve des règlements, il est interdit d'importer au Canada ou d'exporter hors du Canada — **sauf en vertu d'un permis délivré en vertu du paragraphe 10(1) et conformément aux conditions qui s'y rattachent** — tout ou partie d'un animal, d'un végétal ou d'un produit qui en provient.
+    **(2)** Sous réserve des règlements, il est interdit d'importer au Canada ou d'exporter hors du Canada — sauf en vertu d'un permis délivré en vertu du paragraphe 10(1) et conformément aux conditions qui s'y rattachent — tout ou partie d'un animal, d'un végétal ou d'un produit qui en provient.
 
   **(2)** Section 6 of the Act is amended by adding the following after subsection (2):
 
@@ -106,19 +116,14 @@ Section 2 of the `Wild Animal and Plant Protection and Regulation of Internation
 
   **(3)** Subsection 6(3) of the French version of the Act is replaced by the following:
 
-    **(3)** Sous réserve des règlements, il est interdit d'acheminer d'une province à l'autre — **sauf en vertu d'un permis délivré en vertu du paragraphe 10(1) et conformément aux conditions qui s'y rattachent** — tout ou partie d'un animal, d'un végétal ou d'un produit qui en provient.
+    **(3)** Sous réserve des règlements, il est interdit d'acheminer d'une province à l'autre — sauf en vertu d'un permis délivré en vertu du paragraphe 10(1) et conformément aux conditions qui s'y rattachent — tout ou partie d'un animal, d'un végétal ou d'un produit qui en provient.
 
 ### Section 4
 
 The heading before section 10 of the French version of the Act is replaced by the following:
 
 
-## **Permis fédéral**
-
-
-> **Explanatory Note**:
-> Existing text of the heading:
-> *Existing Text*:
+## Permis fédéral
 
 ### Section 5
 
@@ -126,11 +131,11 @@ The heading before section 10 of the French version of the Act is replaced by th
 
 ### Section 10
 
-      **(1)** **Subject to subsection (1.1)**, the Minister may, on application and on **any** terms and conditions **that** the Minister thinks fit, issue a permit authorizing the importation, exportation or interprovincial transportation of an animal or plant, or any part or derivative of an animal or plant.
+      **(1)** Subject to subsection (1.1), the Minister may, on application and on any terms and conditions that the Minister thinks fit, issue a permit authorizing the importation, exportation or interprovincial transportation of an animal or plant, or any part or derivative of an animal or plant.
 
       **(1.1)** The Minister may, on application and on any terms and conditions that the Minister thinks fit, issue a permit authorizing the importation or exportation of a living elephant or great ape if the importation or exportation is
 
-        in connection with a scientific research program or conservation program; or
+        in connection with a scientific research program for conservation purposes or with a conservation program; or
 
         for the purpose of keeping the elephant or great ape in captivity in the best interests of the elephant's or great ape's welfare.
 
@@ -138,19 +143,19 @@ The heading before section 10 of the French version of the Act is replaced by th
 
         to possess an elephant or great ape that is kept in captivity in the best interests of the elephant's or great ape's welfare;
 
-        to possess, breed, impregnate or permit natural breeding of an elephant or great ape that is kept in captivity in connection with a scientific research program; or
+        to possess, breed, impregnate or permit natural breeding of an elephant or great ape that is kept in captivity in connection with a scientific research program for conservation purposes; or
 
         to possess, breed, impregnate or permit natural breeding of an elephant or great ape that is kept in captivity in connection with a conservation program.
 
   **(2)** Subsection 10(3) of the French version of the Act is replaced by the following:
 
-    **(3)** Après avoir donné à l'intéressé la possibilité de faire valoir ses observations, le ministre peut annuler ou suspendre **le permis** en cas de contravention à **toute condition** dont **il** est **assorti**.
+    **(3)** Après avoir donné à l'intéressé la possibilité de faire valoir ses observations, le ministre peut annuler ou suspendre le permis en cas de contravention à toute condition dont il est assorti.
 
   **(3)** Subsection 10(4) of the Act is replaced by the following:
 
-    **(4)** The Minister may delegate to any minister of the Crown in right of Canada or of a province or to any person who is employed by the Government of Canada, the government of a province or any other government in Canada any power conferred on the Minister under **subsection (1) or — insofar as the power relates** to permits **issued under that subsection — subsection (2) or (3)**. The minister or other person to whom the power is delegated may then exercise the power subject to any terms and conditions that the Minister specifies.
+    **(4)** The Minister may delegate to any minister of the Crown in right of Canada or of a province or to any person who is employed by the Government of Canada, the government of a province or any other government in Canada any power conferred on the Minister under subsection (1) or — insofar as the power relates to permits issued under that subsection — subsection (2) or (3). The minister or other person to whom the power is delegated may then exercise the power subject to any terms and conditions that the Minister specifies.
 
-    **(5)** The Minister may delegate to any minister of the Crown in right of Canada or to any person who is employed by the Government of Canada any power conferred on the Minister under **subsection (1.1) or (1.2)** or — insofar as the power relates to permits **issued under either of those subsections — subsection (2) or (3)**. The minister or other person to whom the power is delegated may then exercise the power subject to any terms and conditions that the Minister specifies.
+    **(5)** The Minister may delegate to any minister of the Crown in right of Canada or to any person who is employed by the Government of Canada any power conferred on the Minister under subsection (1.1) or (1.2) or — insofar as the power relates to permits issued under either of those subsections — subsection (2) or (3). The minister or other person to whom the power is delegated may then exercise the power subject to any terms and conditions that the Minister specifies.
 
 ### Section 6
 
@@ -183,35 +188,17 @@ notify the Minister of the fact that they possess an elephant or great ape, or b
 
 provide the Minister, in the manner specified by the Minister, with any information that the Minister may require in respect of the elephant or great ape.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 7
 
 Paragraph 21(1)(a) of the French version of the Act is replaced by the following:
 
-régir la délivrance, le renouvellement, l'annulation ou la suspension des **permis** et prévoir les cas de dispense;
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 21(1):
-> *Existing Text*:
-> > Le gouverneur en conseil peut, par règlements, prendre toute mesure utile à la réalisation de l'objet de la présente loi et, notamment :
-> > régir la délivrance, le renouvellement, l'annulation ou la suspension des licences, et prévoir les cas de dispense;
+régir la délivrance, le renouvellement, l'annulation ou la suspension des permis et prévoir les cas de dispense;
 
 ### Section 8
 
 Paragraph 22(1)(a) of the Act is replaced by the following:
 
-any provision of this Act, **other than any of sections 11.1 to 11.3**;
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 22(1):
-> *Existing Text*:
-> > Every person commits an offence who contravenes
-> > any provision of this Act;
+any provision of this Act, other than any of sections 11.1 to 11.3;
 
 ### Section 9
 
@@ -221,17 +208,11 @@ Subsection 22.01(1) of the Act is replaced by the following:
 
   **(1)** Every person commits an offence who contravenes
 
-    **any of sections 11.1 to 11.3;**
+    any of sections 11.1 to 11.3;
 
-    any provision of the regulations, other than a provision the contravention of which is an offence under subsection 22(1); **or**
+    any provision of the regulations, other than a provision the contravention of which is an offence under subsection 22(1); or
 
-    **a term or condition of a permit issued under subsection 10(1), (1.1) or (1.2).**
-
-
-> **Explanatory Note**:
-> Existing text of subsection 22.01(1):
-> *Existing Text*:
-> > Every person commits an offence who contravenes any provision of the regulations, other than a provision the contravention of which is an offence under subsection 22(1).
+    a term or condition of a permit issued under subsection 10(1), (1.1) or (1.2).
 
 
 ## Coordinating Amendments
@@ -267,4 +248,11 @@ Subsection 22.01(1) of the Act is replaced by the following:
   **(14)** If section `7` of this Act comes into force before subsection 84(1) of the other Act, then that subsection 84(1) is repealed.
 
   **(15)** If subsection 84(1) of the other Act comes into force on the same day as section `7` of this Act, then that section `7` is deemed never to have come into force and is repealed.
+
+
+## Coming into Force
+
+### Section 11
+
+This Act comes into force on a day to be fixed by order of the Governor in Council, but that day may not be earlier than the first anniversary of the day on which it receives royal assent.
 
