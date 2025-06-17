@@ -12,9 +12,11 @@ Part 2 enacts the `Building Canada Act`, which, among other things,
 
 authorizes the Governor in Council to add the name of a project and a brief description of it to a schedule to that Act if the Governor in Council is of the opinion, having regard to certain factors, that the project is in the national interest;
 
-provides that determinations and findings that have to be made and opinions that have to be formed under certain Acts of Parliament and regulations for an authorization to be granted in respect of a project that is named in Schedule 1 to that Act are deemed to have been made or formed, as the case may be, in favour of permitting the project to be carried out in whole or in part; and
+provides that determinations and findings that have to be made and opinions that have to be formed under certain Acts of Parliament and regulations for an authorization to be granted in respect of a project that is named in Schedule 1 to that Act are deemed to have been made or formed, as the case may be, in favour of permitting the project to be carried out in whole or in part;
 
-requires the minister who is designated under that Act to issue to the proponent of a project, if certain conditions are met, a document that sets out conditions that apply in respect of the project and that is deemed to be the authorizations, required under certain Acts of Parliament and regulations, that are specified in the document.
+requires the minister who is designated under that Act to issue to the proponent of a project, if certain conditions are met, a document that sets out conditions that apply in respect of the project and that is deemed to be the authorizations, required under certain Acts of Parliament and regulations, that are specified in the document; and
+
+requires that minister, each year, to cause an independent review to be conducted of the status of each national interest project.
 
 
 ## TABLE OF PROVISIONS
@@ -105,7 +107,10 @@ Order in council
 
 ## `Building Canada Act`
 
-Enactment of Act
+
+### Enactment of Act
+
+Enactment
 
 
 ## An Act respecting national interest projects
@@ -133,13 +138,19 @@ Purpose
 
 ## National Interest Projects
 
+National interest
+
 Power of Governor in Council
+
+Public Registry
 
 Deeming — favourable determinations, findings and opinions
 
 Duty to issue document
 
 Power to amend conditions
+
+Information available to public
 
 `Canada–Newfoundland and Labrador Atlantic Accord Implementation and Offshore Renewable Energy Management Act` — subsection 7(1)
 
@@ -190,9 +201,14 @@ Regulations — enactment
 Regulations — this Act
 
 
+## Annual Report
+
+Review : national interest project
+
+
 ## Review of Act
 
-Review and report
+Review by Parliamentary Review Committee
 
 
 ###### 
@@ -254,7 +270,7 @@ in relation to an occupation,
 
 a body that is empowered under an Act of Parliament to issue authorizations to practise the occupation, or
 
-a body designated by the regulations that issues authorizations to practise the occupation. (**organisme de réglementation fédéral**)
+a body designated by the regulations that issues authorizations to practise the occupation. (**organisme de réglementation fédéral**)
 
 **federal requirement** means a requirement established under an Act of Parliament or by a federal regulatory body. (**exigence fédérale**)
 
@@ -272,7 +288,7 @@ in relation to an occupation,
 
 a body that is empowered under an Act of the legislature of a province or territory to issue authorizations to practise the occupation, or
 
-a body designated by the regulations that issues authorizations to practise the occupation. (**organisme de réglementation** **provincial ou territorial**)
+a body designated by the regulations that issues authorizations to practise the occupation. (**organisme de réglementation** **provincial ou territorial**)
 
 **provincial or territorial requirement** means a requirement established under an Act of the legislature of a province or territory or by a provincial or territorial regulatory body. (**exigence provinciale ou territoriale**)
 
@@ -401,6 +417,9 @@ The `Free Trade and Labour Mobility in Canada Act` comes into force on a day to 
 
 ## `Building Canada Act`
 
+
+### Enactment of Act
+
 ### Section 4
 
 The `Building Canada Act`, whose text is as follows and whose Schedules 1 and 2 are set out in the schedule to this Act, is enacted:
@@ -411,7 +430,9 @@ foster the development of economic and trade corridors,
 
 connect different parts of the country and get goods to market,
 
-strengthen Canada's ability to trade, and
+strengthen Canada's ability to trade,
+
+create good-paying, unionized jobs, and
 
 enhance the development of Canada's natural resources as well as its energy production and infrastructure;
 
@@ -449,6 +470,8 @@ The following definitions apply in this Act.
 
 **national interest project** means a project named in Schedule 1. (**projet d'intérêt national**)
 
+**Parliamentary Review Committee** means the committee referred to in subsection 62(1) of the `Emergencies Act`. (**comité d'examen parlementaire**)
+
 
 ## Designation of Minister
 
@@ -466,11 +489,21 @@ The purpose of this Act is to enhance Canada's prosperity, national security, ec
 
 ## National Interest Projects
 
+### Section 4.1
+
+  **(1)** The Governor in Council may, by order, for the purposes of section 5, define national interest.
+
+  **(2)** In order to promote transparency and predictability, an order made under subsection (1) must set out specific criteria that must be met by the proponent of a project in order for the project to be found to be in the national interest.
+
+  **(3)** If an order is not made within 15 days after the day on which this Act comes into force, the Minister must, within five sitting days of the end of that period, cause to be tabled in each House of Parliament a report that sets out the reasons for the delay and the expected timeline for the making of the order.
+
 ### Section 5
 
-  **(1)** If the Governor in Council is of the opinion that a project is in the national interest, the Governor in Council may, on the recommendation of the Minister, by order, amend Schedule 1 to add the name of the project and a brief description of it, including the location where it is to be carried out.
+  **(1)** If the Governor in Council is of the opinion that a project is in the national interest, the Governor in Council may, on the recommendation of the Minister, by order, amend Schedule 1 to add the name of the project and a **detailed** description of it, including the location where it is to be carried out.
 
-  **(2)** The Governor in Council is not authorized to make an order under subsection (1) after the fifth anniversary of the day on which this section comes into force.
+  **(1.1)** Before adding the name of a project to Schedule 1, the Governor in Council must cause a notice of 30 days, that includes the name and description of the project, to be published in the `Canada Gazette` and must consult with the government of the province in which the project will be carried out, and obtain its written consent if the project falls within areas of exclusive provincial jurisdiction.
+
+  **(2)** The Governor in Council is not authorized to make an order under subsection (1) **while Parliament is prorogued or dissolved or** after the fifth anniversary of the day on which this section comes into force.
 
   **(3)** The Governor in Council may, on the recommendation of the Minister, by order, amend Schedule 1 to amend the name or the description of a national interest project.
 
@@ -490,11 +523,33 @@ The purpose of this Act is to enhance Canada's prosperity, national security, ec
 
     contribute to clean growth and to meeting Canada's objectives with respect to climate change.
 
+  **(6.1)** Before recommending that an order be made under subsection (1), the Minister must be satisfied that
+
+    the proponent of the project, or any director, officer or significant shareholder of the proponent, has not been found to have committed a violation under the `Conflict of Interest Act` and is not the subject of an ongoing proceeding in respect of a violation under that Act; and
+
+    every reporting public office holder, as defined in section 2 of that Act, who could be in a conflict of interest in relation to the proponent of the project has recused themselves under that Act to avoid the conflict.
+
   **(7)** Before recommending that an order be made under any of subsections (1), (3) and (4), the Minister must consult with any other federal minister and any provincial or territorial government that the Minister considers appropriate and with Indigenous peoples whose rights recognized and affirmed by section 35 of the `Constitution Act, 1982` may be adversely affected by the carrying out of the project to which the order relates.
 
   **(8)** The `Statutory Instruments Act` does not apply to an order made under subsection (1), (3) or (4).
 
   **(9)** An order made under subsection (1), (3) or (4), and the reasons for it, must be published in the `Canada Gazette` as soon as feasible after it is made.
+
+  **(10)** Within 30 days after an order is made under subsection (1), details of the project in respect of which the order is made must be published in the registry established under section 5.1.
+
+### Section 5.1
+
+  **(1)** The Minister must establish and maintain a public registry of national interest projects that is made accessible to the public through the Internet.
+
+  **(2)** The Minister must include in the registry in respect of each project
+
+    a detailed description of the project and the reasons why it is in the national interest;
+
+    the extent to which the project is expected to meet the outcomes set out in paragraphs 5(6)(a) to (d);
+
+    detailed cost estimates; and
+
+    the estimated timelines for completion of the project.
 
 ### Section 6
 
@@ -512,9 +567,15 @@ The purpose of this Act is to enhance Canada's prosperity, national security, ec
 
     the Minister must be satisfied that the proponent has taken all measures, including providing any information and paying any fees, that the proponent is required to take in respect of each authorization that is specified in the document;
 
-    the Minister must consult the minister who is responsible for the enactment under which each authorization is required with respect to the conditions that should be set out in the document; and
+    the Minister must consult the minister who is responsible for the enactment under which each authorization is required with respect to the conditions that should be set out in the document;
 
-    Indigenous peoples whose rights recognized and affirmed by section 35 of the `Constitution Act, 1982` may be adversely affected by the carrying out of the project to which the document relates must be consulted.
+    the Minister must undertake a national security review for all state-owned or foreign investments from hostile countries in any national interest project;
+
+    Indigenous peoples whose rights recognized and affirmed by section 35 of the `Constitution Act, 1982` may be adversely affected by the carrying out of the project to which the document relates must be consulted; and
+
+    the Minister must be satisfied that, with regard to any foreign investments in the project, all necessary measures have been taken to protect national security interests.
+
+  **(2.1)** For the purposes of consultations required under paragraph (2)(c), the Minister must ensure that a process is established that allows for the active and meaningful participation of the affected Indigenous peoples and that a report of the consultation process and results is made available to the public within 60 days after the day on which a document is issued under subsection (1).
 
   **(3)** With respect to each authorization that is specified in it, the document is deemed to be the authorization issued under the enactment under which the authorization is required and to meet all of the requirements, under any enactment, that relate to the issuance of the authorization.
 
@@ -528,6 +589,10 @@ The purpose of this Act is to enhance Canada's prosperity, national security, ec
 
   **(8)** The document, including any amendments to it, must be made available to the public in the manner determined by the Minister.
 
+  **(9)** All documents and information used to issue the document must also be made public.
+
+  **(10)** If the national interest project has not been substantially started within five years of the issuance of the document, the document expires.
+
 ### Section 8
 
   **(1)** The Minister may amend any condition that is set out in a document issued under subsection `7`(1).
@@ -539,6 +604,34 @@ The purpose of this Act is to enhance Canada's prosperity, national security, ec
     the minister who is responsible for the enactment under which each authorization to which the amendment relates is required; and
 
     Indigenous peoples whose rights recognized and affirmed by section 35 of the `Constitution Act, 1982` may be adversely affected by the amendment.
+
+  **(4)** The Minister is not authorized to amend a condition under subsection (1) while Parliament is prorogued or dissolved or after the fifth anniversary of the day on which this section comes into force.
+
+### Section 8.1
+
+  **(1)** When the Minister establishes the conditions for issuing the document that is deemed to be each authorization that is specified in the document in respect of a national interest project under section 7, the Minister must make public
+
+    all the conditions that apply to the project;
+
+    the full contents of the studies and impact assessments conducted regarding the project;
+
+    all the recommendations received from federal departments and agencies, provinces, territories and Indigenous peoples regarding the project;
+
+    in an accessible written document, the reasons some of the recommendations were not accepted; and
+
+    a description of the normal regulatory process that would have been followed if the project had not been designated as a national interest project.
+
+  **(2)** The document referred to in paragraph (1)(d) must include
+
+    a comparative analysis of the conditions imposed and the recommendations received;
+
+    an assessment of the risks of disregarding the recommendations that were not accepted; and
+
+    any alternative mitigation measures implemented.
+
+  **(3)** The Minister must, not later than 30 days after the document referred to in section 7 is issued, make public the information set out in paragraphs (1)(a) to (e).
+
+  **(4)** The Minister must table a report containing the information set out in paragraphs (1)(a) to (e) in the House of Commons and, at the request of 10 or more members of the House, must appear, to explain their decisions in establishing the conditions, before the committee of Parliament designated or established for that purpose.
 
 ### Section 9
 
@@ -613,33 +706,82 @@ An office may be established to coordinate the exercise of powers and the perfor
 
 ### Section 21
 
-The Governor in Council may, by order, amend Schedule 2 to add, amend or delete the name of an Act of Parliament or a regulation or the reference to a portion of an Act of Parliament or a regulation.
+  ****(1)**** **Subject to subsection (2)**, the Governor in Council may, by order, amend Schedule 2 to add, amend or delete the name of an Act of Parliament or a regulation or the reference to a portion of an Act of Parliament or a regulation.
+
+  **(2)** The Governor in Council is not authorized to amend Schedule 2 to add the name of any of the following Acts of Parliament or of any regulation made under any of those Acts, or a reference to a portion of any of those Acts or regulations:
+
+    the `Access to Information Act`;
+
+    the `Canada Elections Act`;
+
+    the `Conflict of Interest Act`;
+
+    the `Criminal Code`;
+
+    the `Foreign Influence Transparency and Accountability Act`;
+
+    the `Investment Canada Act`;
+
+    the `Lobbying Act`;
+
+    the `Official Languages Act`;
+
+    the `Use of French in Federally Regulated Private Businesses Act`;
+
+    the `Indian Act`;
+
+    the `Auditor General Act`;
+
+    the `Extractive Sector Transparency Measures Act`;
+
+    the `Railway Safety Act`;
+
+    the `Trade Unions Act`;
+
+    the `Explosives Act`; and
+
+    the `Hazardous Products Act`.
+
+  **(3)** The Governor in Council is not authorized to make an order under subsection (1) while Parliament is prorogued or dissolved or after the fifth anniversary of the day on which this section comes into force.
 
 
 ## Regulations
 
 ### Section 22
 
-The Governor in Council may, on the recommendation of the minister responsible for an enactment, make regulations
+  ****(1)**** The Governor in Council may, on the recommendation of the minister responsible for an enactment, make regulations
 
-exempting one or more national interest projects from the application of any provision of that enactment or any provision of regulations made under that enactment; and
+    exempting one or more national interest projects from the application of any provision of that enactment or any provision of regulations made under that enactment; and
 
-varying the application of any provision referred to in paragraph (a) in relation to one or more national interest projects.
+    varying the application of any provision referred to in paragraph (a) in relation to one or more national interest projects.
+
+  **(2)** The Governor in Council is not authorized to make regulations under subsection (1) while Parliament is prorogued or dissolved or after the fifth anniversary of the day on which this section comes into force.
 
 ### Section 23
 
-The Governor in Council may make regulations
+  ****(1)**** The Governor in Council may make regulations generally for carrying out the purposes and provisions of this Act.
 
-exempting one or more national interest projects from the application of any provision of this Act;
+  **(2)** The Governor in Council is not authorized to make regulations under subsection (1) while Parliament is prorogued or dissolved or after the fifth anniversary of the day on which this section comes into force.
 
-varying the application of any provision of this Act in relation to one or more national interest projects; and
 
-generally for carrying out the purposes and provisions of this Act.
+## Annual Report
+
+### Section 23.1
+
+  **(1)** Within 90 days after the end of each financial year, the Minister must cause an independent review to be conducted of the status of each national interest project that, in respect of each project, provides an assessment of the progress made on measurable outcomes, including in relation to timelines and budgets.
+
+  **(2)** The Minister must cause a report of the review to be tabled in each House of Parliament on any of the first 15 days on which that House is sitting after the review is completed.
+
+  **(3)** The Minister must publish the report on an Internet site that is available to the public within 10 days after the day on which it has been tabled in both Houses of Parliament.
 
 
 ## Review of Act
 
 ### Section 24
 
-Within five years after the day on which this Act comes into force, the Minister must complete a review of the provisions and operation of this Act, including subsection `5`(2), and of the efficacy of the federal regulatory system in relation to projects that are in the national interest and must cause a report on the review to be laid before each House of Parliament.
+  ****(1)**** **The Parliamentary Review Committee is to review the Governor in Council's and the Minister's exercise of their powers and performance of their duties and functions under this Act and to report to each House of Parliament the results of its review at least once every 180 days while Parliament is neither prorogued nor dissolved.**
+
+  ****(2)**** Within five years after the day on which this Act comes into force, the Minister must complete a review of the provisions and operation of this Act and must cause a report on the review to be laid before **the Parliamentary Review Committee and** each House of Parliament.
+
+  **(3)** The review is to be based on the common good of Canada, assured in part by the pursuit of the objectives set out in section 4 relating to shared jurisdiction, public safety, national and international security, the quality of the environment, public health, transparency, public participation and the protection of the rights of Indigenous peoples and linguistic communities.
 
