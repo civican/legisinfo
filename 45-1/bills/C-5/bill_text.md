@@ -1,7 +1,5 @@
 # Bill C-5: An Act to enact the Free Trade and Labour Mobility in Canada Act and the Building Canada Act
 
-**Sponsor**: PRESIDENT OF THE KING'S PRIVY COUNCIL FOR CANADA AND MINISTER RESPONSIBLE FOR CANADA–U.S. TRADE, INTERGOVERNMENTAL AFFAIRS AND ONE CANADIAN ECONOMY
-
 Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act to enact the Free Trade and Labour Mobility in Canada Act and the Building Canada Act*".
 
 ## Summary
@@ -203,7 +201,7 @@ Regulations — this Act
 
 ## Annual Report
 
-Review : national interest project
+Review: national interest project
 
 
 ## Review of Act
@@ -470,7 +468,7 @@ The following definitions apply in this Act.
 
 **national interest project** means a project named in Schedule 1. (**projet d'intérêt national**)
 
-**Parliamentary Review Committee** means the committee referred to in subsection 62(1) of the `Emergencies Act`. (**comité d'examen parlementaire**)
+**Parliamentary Review Committee** means the committee referred to in subsection 62(1) of the `Emergencies Act`. Its chair or joint chair, on the part of the House of Commons, shall be a member of that House who is not a member of the government party. (**comité d'examen parlementaire**)
 
 
 ## Designation of Minister
@@ -499,11 +497,11 @@ The purpose of this Act is to enhance Canada's prosperity, national security, ec
 
 ### Section 5
 
-  **(1)** If the Governor in Council is of the opinion that a project is in the national interest, the Governor in Council may, on the recommendation of the Minister, by order, amend Schedule 1 to add the name of the project and a **detailed** description of it, including the location where it is to be carried out.
+  **(1)** If the Governor in Council is of the opinion that a project is in the national interest, the Governor in Council may, on the recommendation of the Minister, by order, amend Schedule 1 to add the name of the project and a detailed description of it, including the location where it is to be carried out.
 
-  **(1.1)** Before adding the name of a project to Schedule 1, the Governor in Council must cause a notice of 30 days, that includes the name and description of the project, to be published in the `Canada Gazette` and must consult with the government of the province in which the project will be carried out, and obtain its written consent if the project falls within areas of exclusive provincial jurisdiction.
+  **(1.1)** Before adding the name of a project to Schedule 1, the Governor in Council must cause a notice of 30 days, that includes the name and description of the project, to be published in the `Canada Gazette` and must consult with the government of the province or territory in which the project will be carried out, and obtain its written consent if the project falls within areas of exclusive provincial or territorial jurisdiction.
 
-  **(2)** The Governor in Council is not authorized to make an order under subsection (1) **while Parliament is prorogued or dissolved or** after the fifth anniversary of the day on which this section comes into force.
+  **(2)** The Governor in Council is not authorized to make an order under subsection (1) while Parliament is prorogued or dissolved or after the fifth anniversary of the day on which this section comes into force.
 
   **(3)** The Governor in Council may, on the recommendation of the Minister, by order, amend Schedule 1 to amend the name or the description of a national interest project.
 
@@ -547,7 +545,7 @@ The purpose of this Act is to enhance Canada's prosperity, national security, ec
 
     the extent to which the project is expected to meet the outcomes set out in paragraphs 5(6)(a) to (d);
 
-    detailed cost estimates; and
+    detailed cost estimates that do not include private sector commercially sensitive financial information; and
 
     the estimated timelines for completion of the project.
 
@@ -615,7 +613,7 @@ The purpose of this Act is to enhance Canada's prosperity, national security, ec
 
     the full contents of the studies and impact assessments conducted regarding the project;
 
-    all the recommendations received from federal departments and agencies, provinces, territories and Indigenous peoples regarding the project;
+    all the recommendations received from federal departments and agencies regarding the project;
 
     in an accessible written document, the reasons some of the recommendations were not accepted; and
 
@@ -629,9 +627,9 @@ The purpose of this Act is to enhance Canada's prosperity, national security, ec
 
     any alternative mitigation measures implemented.
 
-  **(3)** The Minister must, not later than 30 days after the document referred to in section 7 is issued, make public the information set out in paragraphs (1)(a) to (e).
+  **(3)** The Minister must, not later than 30 days before the document referred to in section 7 is issued, make public the information set out in paragraphs (1)(a) to (e).
 
-  **(4)** The Minister must table a report containing the information set out in paragraphs (1)(a) to (e) in the House of Commons and, at the request of 10 or more members of the House, must appear, to explain their decisions in establishing the conditions, before the committee of Parliament designated or established for that purpose.
+  **(4)** The Minister must cause to be tabled  a report containing the information set out in paragraphs (1)(a) to (e) in each House of Parliament and, at the request of 10 or more members of that House, must appear, to explain the Minister's decisions in establishing the conditions, before the committee of Parliament designated or established for that purpose.
 
 ### Section 9
 
@@ -706,13 +704,15 @@ An office may be established to coordinate the exercise of powers and the perfor
 
 ### Section 21
 
-  ****(1)**** **Subject to subsection (2)**, the Governor in Council may, by order, amend Schedule 2 to add, amend or delete the name of an Act of Parliament or a regulation or the reference to a portion of an Act of Parliament or a regulation.
+  **(1)** Subject to subsection (2), the Governor in Council may, by order, amend Schedule 2 to add, amend or delete the name of an Act of Parliament or a regulation or the reference to a portion of an Act of Parliament or a regulation.
 
   **(2)** The Governor in Council is not authorized to amend Schedule 2 to add the name of any of the following Acts of Parliament or of any regulation made under any of those Acts, or a reference to a portion of any of those Acts or regulations:
 
     the `Access to Information Act`;
 
     the `Canada Elections Act`;
+
+    the `Canada Labour Code`;
 
     the `Conflict of Interest Act`;
 
@@ -749,7 +749,7 @@ An office may be established to coordinate the exercise of powers and the perfor
 
 ### Section 22
 
-  ****(1)**** The Governor in Council may, on the recommendation of the minister responsible for an enactment, make regulations
+  **(1)** The Governor in Council may, on the recommendation of the minister responsible for an enactment, make regulations
 
     exempting one or more national interest projects from the application of any provision of that enactment or any provision of regulations made under that enactment; and
 
@@ -759,7 +759,7 @@ An office may be established to coordinate the exercise of powers and the perfor
 
 ### Section 23
 
-  ****(1)**** The Governor in Council may make regulations generally for carrying out the purposes and provisions of this Act.
+  **(1)** The Governor in Council may make regulations generally for carrying out the purposes and provisions of this Act.
 
   **(2)** The Governor in Council is not authorized to make regulations under subsection (1) while Parliament is prorogued or dissolved or after the fifth anniversary of the day on which this section comes into force.
 
@@ -779,9 +779,9 @@ An office may be established to coordinate the exercise of powers and the perfor
 
 ### Section 24
 
-  ****(1)**** **The Parliamentary Review Committee is to review the Governor in Council's and the Minister's exercise of their powers and performance of their duties and functions under this Act and to report to each House of Parliament the results of its review at least once every 180 days while Parliament is neither prorogued nor dissolved.**
+  **(1)** The Parliamentary Review Committee is to review the Governor in Council's and the Minister's exercise of their powers and performance of their duties and functions under this Act and to report to each House of Parliament the results of its review at least once every 180 days while Parliament is neither prorogued nor dissolved.
 
-  ****(2)**** Within five years after the day on which this Act comes into force, the Minister must complete a review of the provisions and operation of this Act and must cause a report on the review to be laid before **the Parliamentary Review Committee and** each House of Parliament.
+  **(2)** Within five years after the day on which this Act comes into force, the Minister must complete a review of the provisions and operation of this Act and must cause a report on the review to be laid before the Parliamentary Review Committee and each House of Parliament.
 
   **(3)** The review is to be based on the common good of Canada, assured in part by the pursuit of the objectives set out in section 4 relating to shared jurisdiction, public safety, national and international security, the quality of the environment, public health, transparency, public participation and the protection of the rights of Indigenous peoples and linguistic communities.
 
