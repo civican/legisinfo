@@ -1,0 +1,182 @@
+# Bill C-9: An Act to amend the Criminal Code (hate propaganda, hate crime and access to religious or cultural places)
+
+**Sponsor**: MINISTER OF JUSTICE
+
+## Summary
+
+This enactment amends the `Criminal Code` to, among other things,
+
+repeal the requirement that the Attorney General consent to the institution of proceedings for hate propaganda offences;
+
+create an offence of wilfully promoting hatred against any identifiable group by displaying certain symbols in a public place;
+
+create a hate crime offence of committing an offence under that Act or any other Act of Parliament that is motivated by hatred based on certain factors;
+
+create an offence of intimidating a person in order to impede them from accessing certain places that are primarily used for religious worship or by an identifiable group for certain purposes; and
+
+create an offence of intentionally obstructing or interfering with a person's lawful access to such places.
+
+His Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+## Short Title
+
+### Section 1
+
+This Act may be cited as the `Combatting Hate Act`.
+
+
+## `Criminal Code`
+
+### Section 2
+
+Paragraph (a) of the definition **offence** in section 183 of the `Criminal Code` is amended by adding the following after subparagraph (lxxi.1):
+
+section 423.3 (intimidation — building used for religious worship, etc.),
+
+### Section 3
+
+Subsection 318(3) of the Act is repealed.
+
+### Section 4
+
+  **(1)** Section 319 of the Act is amended by adding the following after subsection (2.1):
+
+    **(2.2)** Everyone commits an offence who wilfully promotes hatred against any identifiable group by displaying, in any public place,
+
+      a symbol that is principally used by, or principally associated with, a listed entity, as defined in subsection 83.01(1);
+
+      the Nazi Hakenkreuz, also known as the Nazi swastika, or the Nazi double Sig-Rune, also known as the SS bolts; or
+
+      a symbol that so nearly resembles a symbol described in paragraph (a) or (b) that it is likely to be confused with that symbol.
+
+    **(2.3)** Everyone who commits an offence under subsection (2.2)
+
+      is guilty of an indictable offence and liable to imprisonment for a term not exceeding two years; or
+
+      is guilty of an offence punishable on summary conviction.
+
+  **(2)** Subsections 319(4) to (6) of the Act are replaced by the following:
+
+    **(3.2)** No person shall be convicted of an offence under subsection (2.2)
+
+      if the display of the symbol was for a legitimate purpose, including a legitimate purpose related to journalism, religion, education or art, that is not contrary to the public interest; or
+
+      if, in good faith, the display of the symbol was intended to point out, for the purpose of removal, matters producing or tending to produce feelings of hatred toward an identifiable group in Canada.
+
+    **(4)** If a person is convicted of an offence under subsection (1), (2), (2.1) or **(2.2)** or section 318, anything by means of or in relation to which the offence was committed, on such conviction, may, in addition to any other punishment imposed, be ordered by the presiding provincial court judge or judge to be forfeited to **His** Majesty in right of the province in which that person is convicted, for disposal as the Attorney General may direct.
+
+    **(5)** Subsections 199(6) and (7) apply, with any modifications that the circumstances require, to subsection (1), (2), (2.1) or **(2.2)** or section 318.
+
+    **(6)** For greater certainty, the communication of a statement does not incite or promote hatred, for the purposes of this section, solely because it discredits, humiliates, hurts or offends.
+
+  **(3)** Subsection 319(7) of the Act is amended by adding the following in alphabetical order:
+
+    **hatred** means the emotion that involves detestation or vilification and that is stronger than disdain or dislike; (**haine**)
+
+### Section 5
+
+The Act is amended by adding the following after section 320.1:
+
+
+### Hate Crime
+
+### Section 320.1001
+
+  **(1)** Everyone who commits an offence — referred to in this section as the "included offence" — under this Act or any other Act of Parliament, if the commission of the included offence is motivated by hatred based on race, national or ethnic origin, language, colour, religion, sex, age, mental or physical disability, sexual orientation or gender identity or expression, is
+
+    guilty of an indictable offence and liable to the punishment provided for in subsection (5); or
+
+    guilty of an offence punishable on summary conviction.
+
+  **(2)** In this section, **hatred** has the same meaning as in subsection 319(7).
+
+  **(3)** For greater certainty, the commission of an offence under this Act or any other Act of Parliament is not, for the purposes of this section, motivated by hatred based on any of the factors mentioned in subsection (1) solely because it discredits, humiliates, hurts or offends.
+
+  **(4)** No proceedings shall be commenced under subsection (1) by way of indictment if the included offence may be prosecuted only by way of summary conviction proceedings.
+
+  **(5)** Everyone who is found guilty of an indictable offence under subsection (1) is liable to a term of imprisonment of not more than
+
+    five years, if the maximum term of imprisonment for the included offence is two years or more but less than five years;
+
+    10 years, if the maximum term of imprisonment for the included offence is five years or more but less than 10 years;
+
+    14 years, if the maximum term of imprisonment for the included offence is 10 years or more but less than 14 years; or
+
+    life, if the maximum term of imprisonment for the included offence is 14 years or more and up to imprisonment for life.
+
+  **(6)** Subject to paragraphs (1)(a) and (b) and subsections (4) and (5), any provision of this Act or any other Act of Parliament — including one in respect of procedure, orders or consequences — that would have been applicable in relation to the included offence applies in relation to an offence under subsection (1).
+
+### Section 6
+
+The Act is amended by adding the following after section 423.2:
+
+### Section 423.3
+
+  **(1)** Every person commits an offence who engages in any conduct with the intent to provoke a state of fear in a person in order to impede their access to
+
+    a building or structure, or part of a building or structure, that is primarily used
+
+    for religious worship, or
+
+    by an identifiable group, as defined in subsection 318(4),
+
+    for administrative, social, cultural or sports activities or events,
+
+    as an educational institution, including a daycare centre, or
+
+    as a residence for seniors; or
+
+    a cemetery.
+
+  **(2)** Every person commits an offence who, without lawful authority, intentionally obstructs or interferes with another person's lawful access to a building or structure, or part of a building or structure, referred to in paragraph (1)(a) or to a cemetery.
+
+  **(3)** Every person who commits an offence under subsection (1) or (2) is
+
+    guilty of an indictable offence and liable to imprisonment for a term of not more than 10 years; or
+
+    guilty of an offence punishable on summary conviction.
+
+  **(4)** No person is guilty of an offence under subsection (2) by reason only that they attend at or near, or approach, a building or structure referred to in paragraph (1)(a) or a cemetery for the purpose only of obtaining or communicating information.
+
+### Section 7
+
+Subsections 430(4.1) and (4.101) of the Act are repealed.
+
+### Section 8
+
+Paragraph (c) of the definition **secondary designated offence** in section 487.04 of the Act is amended by adding the following after subparagraph (xi.01):
+
+subsection 423.3(1) (intimidation — building used for religious worship, etc.),
+
+### Section 9
+
+  **(1)** Subsection 515(4.1) of the Act is amended by adding the following after paragraph (b.11):
+
+    an offence under subsection 423.3(1) (intimidation — building used for religious worship, etc.),
+
+  **(2)** Paragraph 515(4.3)(b) of the Act is replaced by the following:
+
+    an offence described in section 264 or 423.1 or subsection 423.2(1) **or 423.3(1)**;
+
+### Section 10
+
+Section 662 of the Act is amended by adding the following after subsection (6):
+
+**(7)** For greater certainty, if a count charges an offence under subsection 320.1001(1) and the evidence does not prove that offence but proves an included offence, the accused may be found guilty of the offence that is proved.
+
+### Section 11
+
+The Act is amended by adding the following after section 726.2:
+
+### Section 726.21
+
+When an offender is found guilty of an offence under subsection 320.1001(1), the court shall endorse, on the information or indictment, as the case may be, the included offence that has been proved by the evidence and, in the absence of evidence to the contrary, the endorsement is proof of that fact.
+
+
+## Coming into Force
+
+### Section 12
+
+This Act comes into force on the 30th day after the day on which it receives royal assent.
+
