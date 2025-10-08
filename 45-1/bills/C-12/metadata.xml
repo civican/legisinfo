@@ -1,0 +1,1604 @@
+<Bills>
+  <Bill>
+    <Id>13632609</Id>
+    <NumberCode>C-12</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>12</Number>
+    <LongTitleEn>An Act respecting certain measures relating to the security of Canada's borders and the integrity of the Canadian immigration system and respecting other related security measures</LongTitleEn>
+    <LongTitleFr>Loi concernant certaines mesures liées à la sécurité de la frontière canadienne et à l'intégrité du système d'immigration canadien et d'autres mesures connexes liées à la sécurité</LongTitleFr>
+    <LongTitle>An Act respecting certain measures relating to the security of Canada's borders and the integrity of the Canadian immigration system and respecting other related security measures</LongTitle>
+    <ShortTitleEn>Strengthening Canada's Immigration System and Borders Act</ShortTitleEn>
+    <ShortTitleFr>Loi visant à renforcer le système d'immigration et la frontière du Canada</ShortTitleFr>
+    <ShortTitle>Strengthening Canada's Immigration System and Borders Act</ShortTitle>
+    <StatusId>357</StatusId>
+    <StatusNameEn>Royal assent received</StatusNameEn>
+    <StatusNameFr>Sanction royale reçue</StatusNameFr>
+    <StatusName>Royal assent received</StatusName>
+    <LatestCompletedMajorStageId>60046</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>Royal assent</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Sanction royale</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>Royal assent</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>Royal assent</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>2</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>Senate</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Sénat</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>Senate</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60050</OngoingStageId>
+    <OngoingStageNameEn>Royal assent</OngoingStageNameEn>
+    <OngoingStageNameFr>Sanction royale</OngoingStageNameFr>
+    <OngoingStageName>Royal assent</OngoingStageName>
+    <LatestCompletedBillStageId>60050</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Royal assent</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Sanction royale</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Royal assent</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>2</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>Senate</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Sénat</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>Senate</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2026-03-26T20:00:00</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>45</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>89449</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Gary</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Anandasangaree</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Gary Anandasangaree</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Public Safety</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre de la Sécurité publique</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Public Safety</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>4</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Minister</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>ministre</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Minister</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>1146</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Scarborough—Guildwood—Rouge Park</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Scarborough—Guildwood—Rouge Park</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Scarborough—Guildwood—Rouge Park</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60149</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Royal assent</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Sanction royale</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60050</LatestBillEventStageId>
+    <LatestBillEventTypeName>Royal assent</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2026-03-26T13:30:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>2</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>Senate</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Sénat</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>Senate</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>61</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2025-10-08T15:22:47.743</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime>2025-10-23T16:40:04</PassedHouseSecondReadingDateTime>
+    <PassedHouseThirdReadingDateTime>2025-12-11T16:06:57.797</PassedHouseThirdReadingDateTime>
+    <PassedSenateFirstReadingDateTime>2025-12-11T23:59:00</PassedSenateFirstReadingDateTime>
+    <PassedSenateSecondReadingDateTime>2026-02-05T10:45:00</PassedSenateSecondReadingDateTime>
+    <PassedSenateThirdReadingDateTime>2026-03-12T10:50:00</PassedSenateThirdReadingDateTime>
+    <ReceivedRoyalAssentDateTime>2026-03-26T20:00:00</ReceivedRoyalAssentDateTime>
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>true</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>true</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>true</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>true</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>true</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>&lt;div&gt;On Thursday, February 5, 2026,  the Senate adopted the following motion:&lt;br /&gt;&lt;br /&gt;That, notwithstanding any provision of the Rules, previous order or usual practice, if Bill C-12, An Act respecting certain measures relating to the security of Canada's borders and the integrity of the Canadian immigration system and respecting other related security measures, is adopted at second reading:
+
+&lt;br /&gt;&lt;br /&gt;1. it stand referred to the &lt;a href="https://sencanada.ca/en/committees/secd/" target="_blank"&gt;Standing Senate Committee on National Security, Defence and Veterans Affairs&lt;/a&gt;;
+
+&lt;br /&gt;&lt;br /&gt;2. the &lt;a href="https://sencanada.ca/en/committees/soci/" target="_blank"&gt;Standing Senate Committee on Social Affairs, Science and Technology&lt;/a&gt; be authorized to examine and report on the subject matter of Parts 5, 6, 7 and 8 of the bill;
+
+&lt;br /&gt;&lt;br /&gt;3. the &lt;a href="https://sencanada.ca/en/committees/secd/" target="_blank"&gt;Standing Senate Committee on National Security, Defence and Veterans Affairs&lt;/a&gt;:&lt;br /&gt;&lt;br /&gt;
+
+(a) be authorized to take into account any report from the &lt;a href="https://sencanada.ca/en/committees/soci/" target="_blank"&gt;Standing Senate Committee on Social Affairs, Science and Technology&lt;/a&gt; to the Senate on the subject matter of Parts 5, 6, 7 and 8, during its consideration of the bill; and&lt;br /&gt;&lt;br /&gt;
+
+(b) submit its final report to the Senate no later than the end of Routine Proceedings on February 24, 2026, after which it shall be deemed to have reported the bill without amendment, with the bill then being placed on the Orders of the Day for third reading at the next sitting of the Senate;
+
+&lt;br /&gt;&lt;br /&gt;4. the &lt;a href="https://sencanada.ca/en/committees/soci/" target="_blank"&gt;Standing Senate Committee on Social Affairs, Science and Technology&lt;/a&gt; be authorized to deposit its report with the Clerk of the Senate if the Senate is not then sitting; and
+
+&lt;br /&gt;&lt;br /&gt;5. for the purposes of these studies, both committees have the power to meet, even though the Senate may then be sitting or adjourned, and that rules 12-18(1) and 12-18(2) be suspended in relation thereto.&lt;/div&gt;</NotesEn>
+    <NotesFr>&lt;div&gt;&lt;div&gt;Le jeudi 5 février 2026, le Sénat a adopté la motion suivante :&lt;br /&gt;&lt;br /&gt;Que, nonobstant toute disposition du Règlement, tout ordre antérieur ou toute pratique habituelle, si le projet de loi C-12, Loi concernant certaines mesures liées à la sécurité de la frontière canadienne et à l'intégrité du système d'immigration canadien et d'autres mesures connexes liées à la sécurité, est adopté en deuxième lecture :&lt;br /&gt;&lt;br /&gt;1. il soit renvoyé au &lt;a href="https://sencanada.ca/fr/comites/secd/" target="_blank"&gt;Comité sénatorial permanent de la sécurité nationale, de la défense et des anciens combattants&lt;/a&gt;;&lt;br /&gt;&lt;br /&gt;2. le &lt;a href="https://sencanada.ca/fr/comites/soci/" target="_blank"&gt;Comité sénatorial permanent des affaires sociales, des sciences et de la technologie&lt;/a&gt; soit autorisé à étudier, afin d'en faire rapport, la teneur des parties 5, 6, 7 et 8 du projet de loi;&lt;br /&gt;&lt;br /&gt;3. le &lt;a href="https://sencanada.ca/fr/comites/secd/" target="_blank"&gt;Comité sénatorial permanent de la sécurité nationale, de la défense et des anciens combattants&lt;/a&gt; :&lt;br /&gt;&lt;br /&gt;
+
+a) soit autorisé à prendre en considération tout rapport du &lt;a href="https://sencanada.ca/fr/comites/soci/" target="_blank"&gt;Comité sénatorial permanent des affaires sociales, des sciences et de la technologie&lt;/a&gt; déposé au Sénat sur la teneur des parties 5, 6, 7 et 8 du projet de loi, au cours de son étude du projet de loi;&lt;br /&gt;&lt;br /&gt;
+
+b) soumette son rapport final au Sénat au plus tard à la fin des affaires courantes le 24 février 2026, sans quoi il soit réputé en avoir fait rapport sans amendement, le projet de loi étant alors inscrit à l'ordre du jour pour une troisième lecture à la prochaine séance du Sénat;&lt;br /&gt;&lt;br /&gt;4. le &lt;a href="https://sencanada.ca/fr/comites/soci/" target="_blank"&gt;Comité sénatorial permanent des affaires sociales, des sciences et de la technologie&lt;/a&gt; soit autorisé à déposer son rapport auprès de la greffière du Sénat si le Sénat ne siège pas à ce moment-là;&lt;br /&gt;&lt;br /&gt;5. aux fins de ces études, les deux comités soient autorisés à se réunir, même si le Sénat siège à ce moment-là ou est ajourné, l'application des articles 12-18(1) et 12-18(2) du Règlement étant suspendue à cet égard.&lt;/div&gt;&lt;/div&gt;</NotesFr>
+    <Notes>&lt;div&gt;On Thursday, February 5, 2026,  the Senate adopted the following motion:&lt;br /&gt;&lt;br /&gt;That, notwithstanding any provision of the Rules, previous order or usual practice, if Bill C-12, An Act respecting certain measures relating to the security of Canada's borders and the integrity of the Canadian immigration system and respecting other related security measures, is adopted at second reading:
+
+&lt;br /&gt;&lt;br /&gt;1. it stand referred to the &lt;a href="https://sencanada.ca/en/committees/secd/" target="_blank"&gt;Standing Senate Committee on National Security, Defence and Veterans Affairs&lt;/a&gt;;
+
+&lt;br /&gt;&lt;br /&gt;2. the &lt;a href="https://sencanada.ca/en/committees/soci/" target="_blank"&gt;Standing Senate Committee on Social Affairs, Science and Technology&lt;/a&gt; be authorized to examine and report on the subject matter of Parts 5, 6, 7 and 8 of the bill;
+
+&lt;br /&gt;&lt;br /&gt;3. the &lt;a href="https://sencanada.ca/en/committees/secd/" target="_blank"&gt;Standing Senate Committee on National Security, Defence and Veterans Affairs&lt;/a&gt;:&lt;br /&gt;&lt;br /&gt;
+
+(a) be authorized to take into account any report from the &lt;a href="https://sencanada.ca/en/committees/soci/" target="_blank"&gt;Standing Senate Committee on Social Affairs, Science and Technology&lt;/a&gt; to the Senate on the subject matter of Parts 5, 6, 7 and 8, during its consideration of the bill; and&lt;br /&gt;&lt;br /&gt;
+
+(b) submit its final report to the Senate no later than the end of Routine Proceedings on February 24, 2026, after which it shall be deemed to have reported the bill without amendment, with the bill then being placed on the Orders of the Day for third reading at the next sitting of the Senate;
+
+&lt;br /&gt;&lt;br /&gt;4. the &lt;a href="https://sencanada.ca/en/committees/soci/" target="_blank"&gt;Standing Senate Committee on Social Affairs, Science and Technology&lt;/a&gt; be authorized to deposit its report with the Clerk of the Senate if the Senate is not then sitting; and
+
+&lt;br /&gt;&lt;br /&gt;5. for the purposes of these studies, both committees have the power to meet, even though the Senate may then be sitting or adjourned, and that rules 12-18(1) and 12-18(2) be suspended in relation thereto.&lt;/div&gt;</Notes>
+    <ShortLegislativeSummaryEn>
+    </ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>
+    </ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>
+    </ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear>2026</StatuteYear>
+    <StatuteChapter>4</StatuteChapter>
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>45</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2025-10-08T15:22:47.743</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>36</Number>
+          <Date>2025-10-08T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2025-10-08T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2025-10-08T15:22:47.743</EventStartDateTime>
+          <EventEndDateTime>2025-10-08T15:22:47.743</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2025-10-08T15:22:47.743</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>45</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2025-10-23T16:40:04</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>30576</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Public Safety and National Security</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la sécurité publique et nationale</CommitteeNameFr>
+          <CommitteeAcronym>SECU</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Public Safety and National Security</CommitteeName>
+          <StudyActivityId>13202556</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>39</Number>
+          <Date>2025-10-20T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>40</Number>
+          <Date>2025-10-21T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>41</Number>
+          <Date>2025-10-22T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>42</Number>
+          <Date>2025-10-23T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>13193934</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>13640239</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>2nd reading and referral to committee - SECU</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>2e lecture et renvoi en comité - SECU</DecisionMotionTitleFr>
+          <DecisionMotionTitle>2nd reading and referral to committee - SECU</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>9</DecisionMethodId>
+          <DecisionMethodNameEn>On division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Avec dissidence</DecisionMethodNameFr>
+          <DecisionMethodName>On division</DecisionMethodName>
+          <DivisionNumber />
+          <DivisionVotesYeas />
+          <DivisionVotesNays />
+          <DivisionVotePaired />
+          <DecisionSittingDate>2025-10-23T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>42</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60121</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading and referral to committee</EventNameEn>
+          <EventNameFr>Deuxième lecture et renvoi en comité</EventNameFr>
+          <EventName>Second reading and referral to committee</EventName>
+          <EventDateTime>2025-10-23T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60121</EventTypeId>
+          <EventTypeNameEn>Second reading and referral to committee</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture et renvoi en comité</EventTypeNameFr>
+          <EventTypeName>Second reading and referral to committee</EventTypeName>
+          <EventStartDateTime>2025-10-23T16:40:04</EventStartDateTime>
+          <EventEndDateTime>2025-10-23T16:40:04</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2025-10-23T16:40:04</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>13177790</InterventionEventId>
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>89449</PersonId>
+          <PersonOfficialFirstName>Gary</PersonOfficialFirstName>
+          <PersonOfficialLastName>Anandasangaree</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Gary Anandasangaree</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>45</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>39</MeetingNumber>
+          <SpeechDateTime>2025-10-20T12:04:05</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>13177992</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>111007</PersonId>
+          <PersonOfficialFirstName>Frank</PersonOfficialFirstName>
+          <PersonOfficialLastName>Caputo</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Frank Caputo</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>45</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>39</MeetingNumber>
+          <SpeechDateTime>2025-10-20T12:29:59</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>13178365</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>35315</PersonId>
+          <PersonOfficialFirstName>Claude</PersonOfficialFirstName>
+          <PersonOfficialLastName>DeBellefeuille</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Claude DeBellefeuille</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Bloc Québécois</CaucusShortNameEn>
+          <CaucusShortNameFr>Bloc Québécois</CaucusShortNameFr>
+          <CaucusShortName>Bloc Québécois</CaucusShortName>
+          <ParliamentNumber>45</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>39</MeetingNumber>
+          <SpeechDateTime>2025-10-20T13:00:01</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>45</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2025-11-28T10:15:04.323</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>30576</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Public Safety and National Security</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la sécurité publique et nationale</CommitteeNameFr>
+          <CommitteeAcronym>SECU</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Public Safety and National Security</CommitteeName>
+          <StudyActivityId>13202556</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented with amendments</NameEn>
+          <NameFr>Présentation du rapport de comité avec des amendements</NameFr>
+          <Name>Committee report presented with amendments</Name>
+          <Number>63</Number>
+          <Date>2025-11-28T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>30576</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Public Safety and National Security</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la sécurité publique et nationale</CommitteeNameFr>
+          <CommitteeAcronym>SECU</CommitteeAcronym>
+          <Number>11</Number>
+          <Date>2025-11-04T00:00:00</Date>
+          <CommitteeName>Standing Committee on Public Safety and National Security</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>30576</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Public Safety and National Security</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la sécurité publique et nationale</CommitteeNameFr>
+          <CommitteeAcronym>SECU</CommitteeAcronym>
+          <Number>12</Number>
+          <Date>2025-11-06T00:00:00</Date>
+          <CommitteeName>Standing Committee on Public Safety and National Security</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>30576</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Public Safety and National Security</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la sécurité publique et nationale</CommitteeNameFr>
+          <CommitteeAcronym>SECU</CommitteeAcronym>
+          <Number>13</Number>
+          <Date>2025-11-18T00:00:00</Date>
+          <CommitteeName>Standing Committee on Public Safety and National Security</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>30576</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Public Safety and National Security</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la sécurité publique et nationale</CommitteeNameFr>
+          <CommitteeAcronym>SECU</CommitteeAcronym>
+          <Number>14</Number>
+          <Date>2025-11-20T00:00:00</Date>
+          <CommitteeName>Standing Committee on Public Safety and National Security</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>30576</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Public Safety and National Security</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la sécurité publique et nationale</CommitteeNameFr>
+          <CommitteeAcronym>SECU</CommitteeAcronym>
+          <Number>15</Number>
+          <Date>2025-11-25T00:00:00</Date>
+          <CommitteeName>Standing Committee on Public Safety and National Security</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented with amendments</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité avec des amendements</EventNameFr>
+          <EventName>Committee report presented with amendments</EventName>
+          <EventDateTime>2025-11-28T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId>13777189</CommitteeReportId>
+          <CommitteeReportNumber>2</CommitteeReportNumber>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2025-11-28T10:15:04.323</EventStartDateTime>
+          <EventEndDateTime>2025-11-28T10:15:04.323</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2025-11-28T10:15:04.323</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>45</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2025-12-11T16:00:51</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>71</Number>
+          <Date>2025-12-10T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>72</Number>
+          <Date>2025-12-11T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60285</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Concurrence at report stage</EventNameEn>
+          <EventNameFr>Adoption à l'étape du rapport</EventNameFr>
+          <EventName>Concurrence at report stage</EventName>
+          <EventDateTime>2025-12-11T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60285</EventTypeId>
+          <EventTypeNameEn>Concurrence at report stage</EventTypeNameEn>
+          <EventTypeNameFr>Adoption à l'étape du rapport</EventTypeNameFr>
+          <EventTypeName>Concurrence at report stage</EventTypeName>
+          <EventStartDateTime>2025-12-11T16:00:51</EventStartDateTime>
+          <EventEndDateTime>2025-12-11T16:00:51</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2025-12-11T16:00:51</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>45</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2025-12-11T16:06:57.797</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>72</Number>
+          <Date>2025-12-11T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>13308642</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>13640241</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>3rd reading</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>3e lecture</DecisionMotionTitleFr>
+          <DecisionMotionTitle>3rd reading</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>9</DecisionMethodId>
+          <DecisionMethodNameEn>On division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Avec dissidence</DecisionMethodNameFr>
+          <DecisionMethodName>On division</DecisionMethodName>
+          <DivisionNumber />
+          <DivisionVotesYeas />
+          <DivisionVotesNays />
+          <DivisionVotePaired />
+          <DecisionSittingDate>2025-12-11T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>72</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2025-12-11T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2025-12-11T16:06:57.797</EventStartDateTime>
+          <EventEndDateTime>2025-12-11T16:06:57.797</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2025-12-11T16:06:57.797</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>45</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2025-12-11T23:59:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>First reading</NameEn>
+          <NameFr>Première lecture</NameFr>
+          <Name>First reading</Name>
+          <Number>45</Number>
+          <Date>2025-12-11T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60111</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>First reading</EventNameEn>
+          <EventNameFr>Première lecture</EventNameFr>
+          <EventName>First reading</EventName>
+          <EventDateTime>2025-12-11T23:59:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60111</EventTypeId>
+          <EventTypeNameEn>First reading</EventTypeNameEn>
+          <EventTypeNameFr>Première lecture</EventTypeNameFr>
+          <EventTypeName>First reading</EventTypeName>
+          <EventStartDateTime>2025-12-11T23:59:00</EventStartDateTime>
+          <EventEndDateTime>2025-12-11T23:59:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2025-12-11T23:59:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>45</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2026-02-05T10:45:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16087</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de la sécurité nationale, de la défense et des anciens combattants</CommitteeNameFr>
+          <CommitteeAcronym>SECD</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>48</Number>
+          <Date>2026-02-05T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60120</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading</EventNameEn>
+          <EventNameFr>Deuxième lecture</EventNameFr>
+          <EventName>Second reading</EventName>
+          <EventDateTime>2026-02-05T10:45:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <SignificantEvents>
+          <EventTypeId>60123</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Referral to committee</EventNameEn>
+          <EventNameFr>Renvoi en comité</EventNameFr>
+          <EventName>Referral to committee</EventName>
+          <EventDateTime>2026-02-05T10:50:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60120</EventTypeId>
+          <EventTypeNameEn>Second reading</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture</EventTypeNameFr>
+          <EventTypeName>Second reading</EventTypeName>
+          <EventStartDateTime>2026-02-05T10:45:00</EventStartDateTime>
+          <EventEndDateTime>2026-02-05T10:45:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2026-02-05T10:50:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>95487</PersonId>
+          <PersonOfficialFirstName>Tony</PersonOfficialFirstName>
+          <PersonOfficialLastName>Dean</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Tony Dean</PersonName>
+          <SenateSystemAffiliationId>207804</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Independent Senators Group</CaucusShortNameEn>
+          <CaucusShortNameFr>Groupe des sénateurs indépendants</CaucusShortNameFr>
+          <CaucusShortName>Independent Senators Group</CaucusShortName>
+          <ParliamentNumber>45</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>48</MeetingNumber>
+          <SpeechDateTime>2026-02-05T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/451/debates/048db_2026-02-05-e#57</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/451/debates/048db_2026-02-05-f#57</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/451/debates/048db_2026-02-05-e#57</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>59283</PersonId>
+          <PersonOfficialFirstName>Yonah</PersonOfficialFirstName>
+          <PersonOfficialLastName>Martin</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Yonah Martin</PersonName>
+          <SenateSystemAffiliationId>2813</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>45</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>48</MeetingNumber>
+          <SpeechDateTime>2026-02-05T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/451/debates/048db_2026-02-05-e#57</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/451/debates/048db_2026-02-05-f#57</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/451/debates/048db_2026-02-05-e#57</Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>true</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>45</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2026-02-25T00:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16087</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de la sécurité nationale, de la défense et des anciens combattants</CommitteeNameFr>
+          <CommitteeAcronym>SECD</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented without amendment</NameEn>
+          <NameFr>Présentation du rapport de comité sans amendement</NameFr>
+          <Name>Committee report presented without amendment</Name>
+          <Number>53</Number>
+          <Date>2026-02-25T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16087</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de la sécurité nationale, de la défense et des anciens combattants</CommitteeNameFr>
+          <CommitteeAcronym>SECD</CommitteeAcronym>
+          <Number>10</Number>
+          <Date>2026-02-09T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16087</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de la sécurité nationale, de la défense et des anciens combattants</CommitteeNameFr>
+          <CommitteeAcronym>SECD</CommitteeAcronym>
+          <Number>11</Number>
+          <Date>2026-02-11T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16087</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de la sécurité nationale, de la défense et des anciens combattants</CommitteeNameFr>
+          <CommitteeAcronym>SECD</CommitteeAcronym>
+          <Number>12</Number>
+          <Date>2026-02-12T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16087</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent de la sécurité nationale, de la défense et des anciens combattants</CommitteeNameFr>
+          <CommitteeAcronym>SECD</CommitteeAcronym>
+          <Number>13</Number>
+          <Date>2026-02-23T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Security, Defence and Veterans Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented without amendment</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité sans amendement</EventNameFr>
+          <EventName>Committee report presented without amendment</EventName>
+          <EventDateTime>2026-02-25T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2026-02-25T00:00:00</EventStartDateTime>
+          <EventEndDateTime>2026-02-25T00:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2026-02-25T00:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>45</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2026-03-12T10:50:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>56</Number>
+          <Date>2026-03-10T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>57</Number>
+          <Date>2026-03-11T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>58</Number>
+          <Date>2026-03-12T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2026-03-12T10:50:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2026-03-12T10:50:00</EventStartDateTime>
+          <EventEndDateTime>2026-03-12T10:50:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2026-03-12T10:50:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <RoyalAssent>
+        <BillStageId>60050</BillStageId>
+        <BillStageNameEn>Royal assent</BillStageNameEn>
+        <BillStageNameFr>Sanction royale</BillStageNameFr>
+        <BillStageName>Royal assent</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>45</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>0</State>
+        <StateNameEn />
+        <StateNameFr />
+        <StateAsOfDate />
+        <StateName />
+        <Committee />
+        <Sittings>
+          <NameEn>Royal assent</NameEn>
+          <NameFr>Sanction royale</NameFr>
+          <Name>Royal assent</Name>
+          <Number>61</Number>
+          <Date>2026-03-26T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60149</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Royal assent</EventNameEn>
+          <EventNameFr>Sanction royale</EventNameFr>
+          <EventName>Royal assent</EventName>
+          <EventDateTime>2026-03-26T20:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60149</EventTypeId>
+          <EventTypeNameEn>Royal assent</EventTypeNameEn>
+          <EventTypeNameFr>Sanction royale</EventTypeNameFr>
+          <EventTypeName>Royal assent</EventTypeName>
+          <EventStartDateTime>2026-03-26T20:00:00</EventStartDateTime>
+          <EventEndDateTime>2026-03-26T20:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2026-03-26T20:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </RoyalAssent>
+      <InterChamberMessages>
+        <EventNameEn>Message sent to the House of Commons</EventNameEn>
+        <EventNameFr>Message envoyé à la Chambre des communes</EventNameFr>
+        <EventName>Message sent to the House of Commons</EventName>
+        <Date>2026-03-12T20:00:00</Date>
+        <ParliamentNumber>45</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>58</MeetingNumber>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Consideration of Senate amendments</EventNameEn>
+        <EventNameFr>Étude des amendements du Sénat</EventNameFr>
+        <EventName>Consideration of Senate amendments</EventName>
+        <Date>2026-03-26T13:06:44.247</Date>
+        <ParliamentNumber>45</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>100</MeetingNumber>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Concurrence in the motion respecting Senate amendments</EventNameEn>
+        <EventNameFr>Adoption de la motion relative aux amendements du Sénat</EventNameFr>
+        <EventName>Concurrence in the motion respecting Senate amendments</EventName>
+        <Date>2026-03-26T13:39:43.447</Date>
+        <ParliamentNumber>45</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>100</MeetingNumber>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>Consideration of House of Commons amendments</EventNameEn>
+        <EventNameFr>Étude des amendements de la Chambre des communes</EventNameFr>
+        <EventName>Consideration of House of Commons amendments</EventName>
+        <Date>2026-03-26T16:00:00</Date>
+        <ParliamentNumber>45</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>61</MeetingNumber>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+      </InterChamberMessages>
+      <InterChamberMessages>
+        <EventNameEn>The Senate does not insist on its amendment(s)</EventNameEn>
+        <EventNameFr>Le Sénat n'insiste pas sur ses amendements</EventNameFr>
+        <EventName>The Senate does not insist on its amendment(s)</EventName>
+        <Date>2026-03-26T16:10:00</Date>
+        <ParliamentNumber>45</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <MeetingNumber>61</MeetingNumber>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+      </InterChamberMessages>
+    </BillStages>
+    <Publications>
+      <PublicationId>13640879</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>13791361</PublicationId>
+      <PublicationTypeId>80702</PublicationTypeId>
+      <PublicationTypeNameEn>As amended by committee</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel que modifié par le comité</PublicationTypeNameFr>
+      <PublicationTypeName>As amended by committee</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>13834730</PublicationId>
+      <PublicationTypeId>80703</PublicationTypeId>
+      <PublicationTypeNameEn>As passed by the House of Commons</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel qu'adopté par la Chambre des communes</PublicationTypeNameFr>
+      <PublicationTypeName>As passed by the House of Commons</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>13998454</PublicationId>
+      <PublicationTypeId>80704</PublicationTypeId>
+      <PublicationTypeNameEn>Royal Assent</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Royal Assent</PublicationTypeNameFr>
+      <PublicationTypeName>Royal Assent</PublicationTypeName>
+    </Publications>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>56</DivisionNumber>
+      <DivisionSubjectEn>Bill C-12, An Act respecting certain measures relating to the security of Canada's borders and the integrity of the Canadian immigration system and respecting other related security measures (report stage amendment) (Motion No. 1)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-12, Loi concernant certaines mesures liées à la sécurité de la frontière canadienne et à l'intégrité du système d'immigration canadien et d'autres mesures connexes liées à la sécurité (amendement à l'étape du rapport) (Motion no 1)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-12, An Act respecting certain measures relating to the security of Canada's borders and the integrity of the Canadian immigration system and respecting other related security measures (report stage amendment) (Motion No. 1)</DivisionSubject>
+      <DivisionVotesYeas>147</DivisionVotesYeas>
+      <DivisionVotesNays>188</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>335</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2025-12-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>57</DivisionNumber>
+      <DivisionSubjectEn>Bill C-12, An Act respecting certain measures relating to the security of Canada's borders and the integrity of the Canadian immigration system and respecting other related security measures (report stage amendment) (Motion No. 2)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-12, Loi concernant certaines mesures liées à la sécurité de la frontière canadienne et à l'intégrité du système d'immigration canadien et d'autres mesures connexes liées à la sécurité (amendement à l'étape du rapport) (Motion no 2)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-12, An Act respecting certain measures relating to the security of Canada's borders and the integrity of the Canadian immigration system and respecting other related security measures (report stage amendment) (Motion No. 2)</DivisionSubject>
+      <DivisionVotesYeas>8</DivisionVotesYeas>
+      <DivisionVotesNays>327</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>335</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2025-12-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>58</DivisionNumber>
+      <DivisionSubjectEn>Bill C-12, An Act respecting certain measures relating to the security of Canada's borders and the integrity of the Canadian immigration system and respecting other related security measures (report stage amendment) (Motion No. 22)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-12, Loi concernant certaines mesures liées à la sécurité de la frontière canadienne et à l'intégrité du système d'immigration canadien et d'autres mesures connexes liées à la sécurité (amendement à l'étape du rapport) (Motion no 22)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-12, An Act respecting certain measures relating to the security of Canada's borders and the integrity of the Canadian immigration system and respecting other related security measures (report stage amendment) (Motion No. 22)</DivisionSubject>
+      <DivisionVotesYeas>327</DivisionVotesYeas>
+      <DivisionVotesNays>8</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>335</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2025-12-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>59</DivisionNumber>
+      <DivisionSubjectEn>Bill C-12, An Act respecting certain measures relating to the security of Canada's borders and the integrity of the Canadian immigration system and respecting other related security measures (report stage amendment) (Motion No. 48)</DivisionSubjectEn>
+      <DivisionSubjectFr>Projet de loi C-12, Loi concernant certaines mesures liées à la sécurité de la frontière canadienne et à l'intégrité du système d'immigration canadien et d'autres mesures connexes liées à la sécurité (amendement à l'étape du rapport) (Motion no 48)</DivisionSubjectFr>
+      <DivisionSubject>Bill C-12, An Act respecting certain measures relating to the security of Canada's borders and the integrity of the Canadian immigration system and respecting other related security measures (report stage amendment) (Motion No. 48)</DivisionSubject>
+      <DivisionVotesYeas>327</DivisionVotesYeas>
+      <DivisionVotesNays>8</DivisionVotesNays>
+      <DivisionVotePaired>0</DivisionVotePaired>
+      <DivisionVoteTotal>335</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2025-12-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>New immigration and asylum measures from Bill C-12 (the Strengthening Canada's Immigration System and Borders Act) have become law (2026-03-26 | Department of Citizenship and Immigration)</TitleEn>
+      <TitleFr>De nouvelles mesures en matière d'immigration et d'asile du projet de loi C-12 ( Loi visant à renforcer le système d'immigration et la frontière du Canada) sont entrées en vigueur (2026-03-26 | Ministère de la Citoyenneté et de l'Immigration)</TitleFr>
+      <Title>New immigration and asylum measures from Bill C-12 (the Strengthening Canada's Immigration System and Borders Act) have become law (2026-03-26 | Department of Citizenship and Immigration)</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/03/new-immigration-and-asylum-measures-from-bill-c-12-the-strengthening-canadas-immigration-system-and-borders-act-have-become-law.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/immigration-refugies-citoyennete/nouvelles/2026/03/de-nouvelles-mesures-en-matiere-dimmigration-et-dasile-du-projet-de-loi-c-12--loi-visant-a-renforcer-le-systeme-dimmigration-et-la-frontiere-du-can.html</UrlFr>
+      <Url>https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/03/new-immigration-and-asylum-measures-from-bill-c-12-the-strengthening-canadas-immigration-system-and-borders-act-have-become-law.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Legislation that strengthens the immigration system and border security receives Royal Assent (2026-03-27 | Department of Public Safety and Emergency Preparedness)</TitleEn>
+      <TitleFr>Une loi qui renforce le système d'immigration et la sécurité frontalière reçoit la sanction royale (2026-03-27 | Ministère de la Sécurité publique et de la Protection civile)</TitleFr>
+      <Title>Legislation that strengthens the immigration system and border security receives Royal Assent (2026-03-27 | Department of Public Safety and Emergency Preparedness)</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/public-safety-canada/news/2026/03/legislation-that-strengthens-the-immigration-system-and-border-security-receives-royal-assent.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/securite-publique-canada/nouvelles/2026/03/une-loi-qui-renforce-le-systeme-dimmigration-et-la-securite-frontaliere-recoit-la-sanction-royale.html</UrlFr>
+      <Url>https://www.canada.ca/en/public-safety-canada/news/2026/03/legislation-that-strengthens-the-immigration-system-and-border-security-receives-royal-assent.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Building the Canadian Coast Guard's role in National Security (2026-03-27 | Canadian Coast Guard [Department of National Defence])</TitleEn>
+      <TitleFr>Précision du rôle de la Garde côtière canadienne en matière de sécurité nationale (2026-03-27 | Garde côtière canadienne [Ministère de la Défense nationale])</TitleFr>
+      <Title>Building the Canadian Coast Guard's role in National Security (2026-03-27 | Canadian Coast Guard [Department of National Defence])</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/canadian-coast-guard/news/2026/03/building-the-canadian-coast-guards-role-in-national-security.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/garde-cotiere-canadienne/nouvelles/2026/03/precision-du-role-de-la-garde-cotiere-canadienne-en-matiere-de-securite-nationale.html</UrlFr>
+      <Url>https://www.canada.ca/en/canadian-coast-guard/news/2026/03/building-the-canadian-coast-guards-role-in-national-security.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Report - Reviewing the Administrative and Fiscal Impacts of the Interim Federal Health Program (Published 2026-05-26)</TitleEn>
+      <TitleFr>Rapport - Examen des répercussions administratives et financières du Programme fédéral de santé intérimaire (Publié 2026-05-26)</TitleFr>
+      <Title>Report - Reviewing the Administrative and Fiscal Impacts of the Interim Federal Health Program (Published 2026-05-26)</Title>
+      <WebReferenceTypeId>13</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Legislative Costing Note</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Note sur l'évaluation du coût d'une mesure législative</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Legislative Costing Note</WebReferenceTypeName>
+      <UrlEn>https://www.pbo-dpb.ca/en/publications/RP-2627-005-C--reviewing-administrative-fiscal-impacts-interim-federal-health-program--examen-repercussions-administratives-financieres-programme-federal-sante-interimaire?utm_source=posto&amp;utm_medium=email&amp;utm_campaign=RP-2627-005-C</UrlEn>
+      <UrlFr>https://www.pbo-dpb.ca/fr/publications/RP-2627-005-C--reviewing-administrative-fiscal-impacts-interim-federal-health-program--examen-repercussions-administratives-financieres-programme-federal-sante-interimaire</UrlFr>
+      <Url>https://www.pbo-dpb.ca/en/publications/RP-2627-005-C--reviewing-administrative-fiscal-impacts-interim-federal-health-program--examen-repercussions-administratives-financieres-programme-federal-sante-interimaire?utm_source=posto&amp;utm_medium=email&amp;utm_campaign=RP-2627-005-C</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Charter Statement - Bill C-12: An Act respecting certain measures relating to the security of Canada's borders and the integrity of the Canadian immigration system and respecting other related security measures (Tabled 2025-11-05)</TitleEn>
+      <TitleFr>Énoncé concernant la Charte - Projet de loi C-12 : Loi concernant certaines mesures liées à la sécurité de la frontière canadienne et à l'intégrité du système d'immigration canadien et d'autres mesures connexes liées à la sécurité (Déposé 2025-11-05)</TitleFr>
+      <Title>Charter Statement - Bill C-12: An Act respecting certain measures relating to the security of Canada's borders and the integrity of the Canadian immigration system and respecting other related security measures (Tabled 2025-11-05)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.justice.gc.ca/eng/csj-sjc/pl/charter-charte/c12_3.html</UrlEn>
+      <UrlFr>https://www.justice.gc.ca/fra/sjc-csj/pl/charte-charter/c12_3.html</UrlFr>
+      <Url>https://www.justice.gc.ca/eng/csj-sjc/pl/charter-charte/c12_3.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Canada–United States Border Security: Drug Trafficking and Irregular Migration, Sabrina Charland and Alexsandra Ferland, Library of Parliament, HillNote, 12 March 2025</TitleEn>
+      <TitleFr>La sécurité de la frontière canado-américaine : trafic de drogues et migration irrégulière, Sabrina Charland et Alexsandra Ferland, Bibliothèque du Parlement, Note de la Colline, 12 mars 2025</TitleFr>
+      <Title>Canada–United States Border Security: Drug Trafficking and Irregular Migration, Sabrina Charland and Alexsandra Ferland, Library of Parliament, HillNote, 12 March 2025</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://hillnotes.ca/2025/03/12/canada-united-states-border-security-drug-trafficking-and-irregular-migration/</UrlEn>
+      <UrlFr>https://notesdelacolline.ca/2025/03/12/la-securite-de-la-frontiere-canado-americaine-trafic-de-drogues-et-migration-irreguliere/</UrlFr>
+      <Url>https://hillnotes.ca/2025/03/12/canada-united-states-border-security-drug-trafficking-and-irregular-migration/</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Canada Border Services Agency enforcement action statistics (Canada Border Services Agency)</TitleEn>
+      <TitleFr>Statistiques sur les mesures d'exécution de la loi de l'Agence des services frontaliers du Canada (Agence des services frontaliers du Canada)</TitleFr>
+      <Title>Canada Border Services Agency enforcement action statistics (Canada Border Services Agency)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.cbsa-asfc.gc.ca/security-securite/seizure-saisie-eng.html</UrlEn>
+      <UrlFr>https://www.cbsa-asfc.gc.ca/security-securite/seizure-saisie-fra.html</UrlFr>
+      <Url>https://www.cbsa-asfc.gc.ca/security-securite/seizure-saisie-eng.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Canada's Anti-Money Laundering and Anti-Terrorist Financing Regime Strategy 2023-2026 (Department of Finance Canada)</TitleEn>
+      <TitleFr>Stratégie du Régime canadien de lutte contre le recyclage des produits de la criminalité et le financement des activités terroristes 2023-2026 (Ministère des Finances Canada)</TitleFr>
+      <Title>Canada's Anti-Money Laundering and Anti-Terrorist Financing Regime Strategy 2023-2026 (Department of Finance Canada)</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/department-finance/programs/financial-sector-policy/canadas-anti-money-laundering-and-anti-terrorist-financing-regime-strategy-2023-2026.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/ministere-finances/programmes/politique-secteur-financier/strategie-regime-canadien-lutte-contre-recyclage-produits-criminalite-et-financement-activites-terroristes-2023-2026.html</UrlFr>
+      <Url>https://www.canada.ca/en/department-finance/programs/financial-sector-policy/canadas-anti-money-laundering-and-anti-terrorist-financing-regime-strategy-2023-2026.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Government of Canada introduces new streamlined legislation to strengthen border security and keep Canadians safe  (2025-10-08 | Department of Public Safety and Emergency Preparedness)</TitleEn>
+      <TitleFr>Le gouvernement du Canada dépose une nouvelle législation simplifiée pour renforcer la sécurité de la frontière et assurer la sécurité des Canadiens (2025-10-08 | Ministère de la Sécurité publique et de la Protection civile)</TitleFr>
+      <Title>Government of Canada introduces new streamlined legislation to strengthen border security and keep Canadians safe  (2025-10-08 | Department of Public Safety and Emergency Preparedness)</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/public-safety-canada/news/2025/10/government-of-canada-introduces-new-streamlined-legislation-to-strengthen-border-security-and-keep-canadians-safe.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/securite-publique-canada/nouvelles/2025/10/le-gouvernement-du-canada-depose-une-nouvelle-legislation-simplifiee-pour-renforcer-la-securite-de-la-frontiere-et-assurer-la-securite-des-canadiens.html</UrlFr>
+      <Url>https://www.canada.ca/en/public-safety-canada/news/2025/10/government-of-canada-introduces-new-streamlined-legislation-to-strengthen-border-security-and-keep-canadians-safe.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Understanding Strengthening Canada's Immigration System and Borders Act, Bill C-12 (2025-10-08 | Government of Canada)</TitleEn>
+      <TitleFr>Comprendre la Loi visant à renforcer le système d'immigration et la frontière du Canada (projet de loi C-12) (2025-10-08 | Gouvernment du Canada</TitleFr>
+      <Title>Understanding Strengthening Canada's Immigration System and Borders Act, Bill C-12 (2025-10-08 | Government of Canada)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/services/defence/securingborder/strengthen-border-security/understanding-stregthening-canada-immigration-system-borders-act.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/services/defense/securiserfrontiere/renforcer-securite-frontaliere/comprendre-loi-visant-renforcer-systeme-immigration-frontiere-canada.html</UrlFr>
+      <Url>https://www.canada.ca/en/services/defence/securingborder/strengthen-border-security/understanding-stregthening-canada-immigration-system-borders-act.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Government of Canada. Strengthening border security. Canada.ca. https://www.canada.ca/en/services/defence/securingborder/strengthen-border-security.html [Website]</TitleEn>
+      <TitleFr>Gouvernment du Canada. Renforcer la sécurité frontalière. Canada.ca. https://www.canada.ca/fr/services/defense/securiserfrontiere/renforcer-securite-frontaliere.html [Site web]</TitleFr>
+      <Title>Government of Canada. Strengthening border security. Canada.ca. https://www.canada.ca/en/services/defence/securingborder/strengthen-border-security.html [Website]</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/services/defence/securingborder/strengthen-border-security.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/services/defense/securiserfrontiere/renforcer-securite-frontaliere.html</UrlFr>
+      <Url>https://www.canada.ca/en/services/defence/securingborder/strengthen-border-security.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Canada. Department of Foreign Affairs, Trade and Development. Canada's engagement with the United States. https://international.canada.ca/en/global-affairs/campaigns/canada-us-engagement [Website]</TitleEn>
+      <TitleFr>Canada. Ministère des Affaires étrangères, du Commerce et du Développement. L'engagement du Canada auprès des États-Unis. https://international.canada.ca/fr/affaires-mondiales/campagnes/engagement-canada-etats-unis [Site web]</TitleFr>
+      <Title>Canada. Department of Foreign Affairs, Trade and Development. Canada's engagement with the United States. https://international.canada.ca/en/global-affairs/campaigns/canada-us-engagement [Website]</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://international.canada.ca/en/global-affairs/campaigns/canada-us-engagement</UrlEn>
+      <UrlFr>https://international.canada.ca/fr/affaires-mondiales/campagnes/engagement-canada-etats-unis</UrlFr>
+      <Url>https://international.canada.ca/en/global-affairs/campaigns/canada-us-engagement</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Canada. Department of Public Safety and Emergency Preparedness. Launch of the Joint Operational Intelligence Cell. March 3, 2025. [Press release]</TitleEn>
+      <TitleFr>Canada. Ministère de la Sécurité publique et de la Protection civile. Lancement de la Cellule de coordination des opérations et de renseignement. 3 mars 2025. [Communiqué de presse]</TitleFr>
+      <Title>Canada. Department of Public Safety and Emergency Preparedness. Launch of the Joint Operational Intelligence Cell. March 3, 2025. [Press release]</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/public-safety-canada/news/2025/03/launch-of-the-joint-operational-intelligence-cell.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/securite-publique-canada/nouvelles/2025/03/lancement-de-la-cellule-de-coordination-des-operations-et-de-renseignement.html</UrlFr>
+      <Url>https://www.canada.ca/en/public-safety-canada/news/2025/03/launch-of-the-joint-operational-intelligence-cell.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Canada. Department of Public Safety and Emergency Preparedness. Financial crime investigators and prosecutors collaborate on latest money laundering threats. February 27, 2025. [Press release]</TitleEn>
+      <TitleFr>Canada. Ministère de la Sécurité publique et de la Protection civile. Des enquêteurs financiers et des procureurs collaborent pour faire face aux dernières menaces de blanchiment d'argent. 27 février 2025. [Communiqué de presse]</TitleFr>
+      <Title>Canada. Department of Public Safety and Emergency Preparedness. Financial crime investigators and prosecutors collaborate on latest money laundering threats. February 27, 2025. [Press release]</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/public-safety-canada/news/2025/02/financial-crime-investigators-and-prosecutors-collaborate-on-latest-money-laundering-threats.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/securite-publique-canada/nouvelles/2025/02/des-enqueteurs-financiers-et-des-procureurs-collaborent-pour-faire-face-aux-dernieres-menaces-de-blanchiment-dargent.html</UrlFr>
+      <Url>https://www.canada.ca/en/public-safety-canada/news/2025/02/financial-crime-investigators-and-prosecutors-collaborate-on-latest-money-laundering-threats.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Canada. Department of Public Safety and Emergency Preparedness. Government of Canada announces its plan to strengthen border security and our immigration system. December 17, 2024. [Presse release]</TitleEn>
+      <TitleFr>Canada. Ministère de la Sécurité publique et de la Protection civile. Le gouvernement du Canada annonce son plan visant à renforcer la sécurité des frontières et notre système d'immigration. 17 décembre 2024. [Communiqué de presse]</TitleFr>
+      <Title>Canada. Department of Public Safety and Emergency Preparedness. Government of Canada announces its plan to strengthen border security and our immigration system. December 17, 2024. [Presse release]</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/fr/securite-publique-canada/nouvelles/2024/12/le-gouvernement-du-canada-annonce-son-plan-visant-a-renforcer-la-securite-des-frontieres-et-notre-systeme-dimmigration.html</UrlEn>
+      <UrlFr>https://www.canada.ca/en/public-safety-canada/news/2024/12/government-of-canada-announces-its-plan-to-strengthen-border-security-and-our-immigration-system.html</UrlFr>
+      <Url>https://www.canada.ca/fr/securite-publique-canada/nouvelles/2024/12/le-gouvernement-du-canada-annonce-son-plan-visant-a-renforcer-la-securite-des-frontieres-et-notre-systeme-dimmigration.html</Url>
+    </WebReferences>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3466</BibliographicNoticeId>
+      <Title>The Strong Borders Act [C-2 / C-12] and the road ahead : charting Canada's AML [anti-money laundering] future</Title>
+      <Author>Hodine Williams</Author>
+      <Publication>Law360 Canada</Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>October 8, 2025</PublicationDate>
+      <Classification>Radar 44075774</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3467</BibliographicNoticeId>
+      <Title>The Strong Borders Act [C-2 / C-12] and the road ahead : charting Canada's AML [anti-money laundering] future</Title>
+      <Author>Hodine Williams</Author>
+      <Publication>Law360 Canada</Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>October 8, 2025</PublicationDate>
+      <Classification>Radar 20251021</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3468</BibliographicNoticeId>
+      <Title>Bill C-12 threatens thousands of business incubator applications under Start-Up Visa program</Title>
+      <Author>Colin R. Singer</Author>
+      <Publication>Law360 Canada</Publication>
+      <VolumePage>
+      </VolumePage>
+      <PublicationDate>October 31, 2025</PublicationDate>
+      <Classification>Radar 20251104</Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <BibliographicNotices>
+      <BillDocumentId>0</BillDocumentId>
+      <BibliographicNoticeId>3465</BibliographicNoticeId>
+      <Title>New federal Bill C-12 features immigration reforms carved out from contentious "strong borders" bill</Title>
+      <Author>Cristin Schmitz</Author>
+      <Publication>Law360 Canada</Publication>
+      <VolumePage>October 9, 2025</VolumePage>
+      <PublicationDate>September 17, 2025</PublicationDate>
+      <Classification>
+      </Classification>
+      <LanguageId>1</LanguageId>
+      <IsOnlineVersionAvailable>true</IsOnlineVersionAvailable>
+    </BibliographicNotices>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>true</IsSessionOngoing>
+  </Bill>
+</Bills>
