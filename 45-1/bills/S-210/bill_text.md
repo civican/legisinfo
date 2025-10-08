@@ -1,5 +1,7 @@
 # Bill S-210: An Act respecting Ukrainian Heritage Month
 
+**Sponsor**: Senator KUTCHER
+
 ## Summary
 
 This enactment designates the month of September as "Ukrainian Heritage Month".
