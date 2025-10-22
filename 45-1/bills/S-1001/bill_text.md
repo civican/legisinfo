@@ -1,7 +1,5 @@
 # Bill S-1001: An Act to authorize Gore Mutual Insurance Company to apply to be continued as a body corporate under the laws of the Province of Quebec
 
-**Sponsor**: Senator LOFFREDA
-
 ## Summary
 
 This enactment authorizes Gore Mutual Insurance Company to apply to be continued as a body corporate under the laws of the Province of Quebec.
