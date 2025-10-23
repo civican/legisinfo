@@ -12,7 +12,7 @@ Part 2 amends the `Controlled Drugs and Substances Act` to create a new temporar
 
 Part 3 amends the `Controlled Drugs and Substances Act` and the `Cannabis Act` to confirm that the Governor in Council may, on the recommendation of the Minister of Public Safety and Emergency Preparedness, make regulations exempting members of law enforcement from the application of any provision of the `Criminal Code` that creates drug-related inchoate offences when they are undertaking lawful investigations.
 
-Part 4 amends the `Oceans Act` to provide that coast guard services include activities related to security and to authorize the responsible minister to collect, analyze and disclose information and intelligence.
+Part 4 amends the `Oceans Act` to transfer the responsibility for the coast guard services from the Minister of Fisheries and Oceans to the Minister of National Defence, to provide that coast guard services include activities related to security and to authorize the responsible minister to collect, analyze and disclose information and intelligence.
 
 Part 5 amends the `Department of Citizenship and Immigration Act` to authorize the Minister of Citizenship and Immigration to disclose, for certain purposes and subject to any regulations, personal information under the control of the Department within the Department and to certain other federal and provincial government entities.
 
@@ -28,7 +28,7 @@ authorize the Refugee Protection Division of the Immigration and Refugee Board t
 
 provide the Minister of Citizenship and Immigration with the power to determine that claims for refugee protection that have not yet been referred to the Refugee Protection Division have been withdrawn in certain circumstances;
 
-require the Refugee Protection Division and the Refugee Appeal Division to suspend certain proceedings respecting a claim for refugee protection if the claimant is not present in Canada;
+prevent, if the claimant is not present in Canada, the Refugee Protection Division and the Refugee Appeal Division from commencing consideration of the claim or the appeal or to require them to deem the claim to have been abandoned in certain circumstances;
 
 clarify that decisions of the Immigration and Refugee Board must be rendered, and reasons for those decisions must be given, in the manner specified by its Chairperson; and
 
@@ -46,7 +46,7 @@ for the application of an order referred to in paragraph (b), require a person t
 
 authorize the Governor in Council to make regulations prescribing circumstances in which a document issued under that Act can be cancelled, suspended or varied, and in which officers may terminate the processing of certain applications made under that Act.
 
-Part 8 amends the `Immigration and Refugee Protection Act` to add two new grounds of ineligibility for claims for refugee protection as well as powers to make regulations respecting exceptions to those new grounds. It also includes a transitional provision respecting the retroactive application of those new grounds.
+Part 8 amends the `Immigration and Refugee Protection Act` to add two new grounds of ineligibility for claims for refugee protection as well as powers to make regulations respecting exceptions to those new grounds. It also requires the officer to terminate the processing of the claim if the claim is determined to be ineligible. It also includes a transitional provision respecting the retroactive application of those new grounds.
 
 Part 9 amends the `Proceeds of Crime (Money Laundering) and Terrorist Financing Act` to, among other things,
 
@@ -178,17 +178,17 @@ This Act may be cited as the `Strengthening Canada's Immigration System and Bord
 
   **(2)** Paragraphs 6(1)(a) and (b) of the English version of the Act are replaced by the following:
 
-    **an** international bridge or tunnel, for the use of which a toll or other charge is payable,
+    an international bridge or tunnel, for the use of which a toll or other charge is payable,
 
-    **a** railway operating internationally, or
+    a railway operating internationally, or
 
   **(3)** Subsection 6(1) of the Act is amended by replacing paragraph (c) and the portion after paragraph (c) with the following:
 
-    **an** airport, wharf or dock that receives conveyances operating internationally, **whether they are arriving in, departing from** or **expected to depart from Canada**, and in respect of which a customs office has been designated under section 5.
+    an airport, wharf or dock that receives conveyances operating internationally, whether they are arriving in, departing from or expected to depart from Canada, and in respect of which a customs office has been designated under section 5.
 
   **(4)** Subsection 6(3) of the French version of the Act is replaced by the following:
 
-    **(3)** Sous réserve du paragraphe (4), le gouverneur en conseil peut, par règlement, déterminer les locaux ou autres installations **qui sont adéquats** aux fins visées au paragraphe (1).
+    **(3)** Sous réserve du paragraphe (4), le gouverneur en conseil peut, par règlement, déterminer les locaux ou autres installations qui sont adéquats aux fins visées au paragraphe (1).
 
 ### Section 3
 
@@ -203,7 +203,19 @@ The Act is amended by adding the following after section 97:
 
 ### Section 97.01
 
-Every person who transports or causes to be transported within Canada goods destined for export must, at an officer's request, give the officer free access to any premises or place under the person's control that is attached to or forms part of any place where any goods destined for export are reported, loaded, unloaded or stored and open any package or container of those goods or remove any packaging from those goods.
+  ****(1)**** Every person who transports or causes to be transported within Canada goods destined for export must, at an officer's request, give the officer free access to any premises or place under the person's control that is attached to or forms part of any place where any goods destined for export are reported, loaded, unloaded or stored and open any package or container of those goods or remove any packaging from those goods.
+
+  **(2)** If any premises or place referred to in subsection (1) is a dwelling-house, an officer may not enter that dwelling-house without the consent of the occupant except under the authority of a warrant issued under subsection (3).
+
+  **(3)** On *ex parte* application by the Minister, a judge may issue a warrant authorizing an officer to enter a dwelling-house, subject to the conditions that may be specified in the warrant, if the judge is satisfied by information on oath that
+
+    there are reasonable grounds to believe that the dwelling-house is a premises or place referred to in subsection (1);
+
+    entry into the dwelling-house is necessary for any purpose related to the administration or enforcement of this Act; and
+
+    entry into the dwelling-house has been, or there are reasonable grounds to believe that entry into the dwelling-house will be, refused.
+
+  **(4)** In this section, **dwelling-house** has the same meaning as in subsection 42(1).
 
 ### Section 97.02
 
@@ -230,9 +242,9 @@ The operator of a sufferance warehouse or a bonded warehouse must, at an officer
 
 The definitions controlled substance and precursor in subsection 2(1) of the `Controlled Drugs and Substances Act` are replaced by the following:
 
-**controlled substance** means a substance included in **any of Schedules** I **to** IV or **in Part 1 of Schedule** V; (**substance désignée**)
+**controlled substance** means a substance included in any of Schedules I to IV or in Part 1 of Schedule V; (**substance désignée**)
 
-**precursor** means a substance included in **Part 2 of Schedule V or in** Schedule VI; (**précurseur**)
+**precursor** means a substance included in Part 2 of Schedule V or in Schedule VI; (**précurseur**)
 
 ### Section 7
 
@@ -289,25 +301,25 @@ the portion of section 5.2 before paragraph (a).
 
 The definitions Class A precursor and Class B precursor in section 1 of the `Precursor Control Regulations` are replaced by the following:
 
-**Class A precursor** means **any of the following precursors**:
+**Class A precursor** means any of the following precursors:
 
 a precursor included in Table 1 of Part 2 of Schedule V to the Act;
 
 a preparation or mixture included in Table 3 of Part 2 of Schedule V to the Act that contains a precursor included in Table 1 of Part 2 of that Schedule;
 
-**a precursor included** in Part 1 of Schedule VI to the Act;
+a precursor included in Part 1 of Schedule VI to the Act;
 
-**a** preparation or mixture **included** in Part 3 of Schedule VI to the Act that contains a **precursor included in Part 1 of that Schedule**. (**précurseur de catégorie A**)
+a preparation or mixture included in Part 3 of Schedule VI to the Act that contains a precursor included in Part 1 of that Schedule. (**précurseur de catégorie A**)
 
-**Class B precursor** means **any of the following precursors**:
+**Class B precursor** means any of the following precursors:
 
 a precursor included in Table 2 of Part 2 of Schedule V to the Act;
 
 a preparation or mixture included in Table 3 of Part 2 of Schedule V to the Act that contains a precursor included in Table 2 of Part 2 of that Schedule;
 
-**a precursor included** in Part 2 of Schedule VI to the Act;
+a precursor included in Part 2 of Schedule VI to the Act;
 
-**a** preparation or mixture **included** in Part 3 of Schedule VI to the Act that contains a **precursor included in Part 2 of that Schedule**. (**précurseur de catégorie B**)
+a preparation or mixture included in Part 3 of Schedule VI to the Act that contains a precursor included in Part 2 of that Schedule. (**précurseur de catégorie B**)
 
 ### Section 13
 
@@ -478,23 +490,29 @@ any regulations, made before the day on which this Act receives royal assent, am
 
 ### Amendments to the Act
 
+### Section 24.1
+
+Subsection 40(2) of the `Oceans Act` is replaced by the following:
+
+**(2)** For the purpose of subsection (1), the Minister shall encourage activities necessary to foster understanding, management and sustainable development of oceans and marine resources and the provision of hydrographic services to ensure the facilitation of marine trade, commerce and safety in collaboration with other ministers of the Government of Canada.
+
 ### Section 25
 
-  **(1)** The portion of subsection 41(1) of the `Oceans Act` before paragraph (a) is replaced by the following:
+  **(1)** The portion of subsection 41(1) of the Act before paragraph (a) is replaced by the following:
 
 ### Section 41
 
-      **(1)** The Minister, **or any other member of the King's Privy Council for Canada designated by the Governor in Council for the purposes of this section, is** responsible for coast guard services **and their** powers, duties and functions extend to and include all matters over which Parliament has jurisdiction, not assigned by law to any other department, board or agency of the Government of Canada, relating to
+      **(1)** The Minister **of National Defence** is responsible for coast guard services and their powers, duties and functions extend to and include all matters over which Parliament has jurisdiction, not assigned by law to any other department, board or agency of the Government of Canada, relating to
 
   **(2)** Subsection 41(1) of the Act is amended by striking out "and" at the end of paragraph (d) and by replacing paragraph (e) with the following:
 
-    the support of departments, boards and agencies of the Government of Canada through the provision of ships, aircraft and other services; **and**
+    the support of departments, boards and agencies of the Government of Canada through the provision of ships, aircraft and other services; and
 
     security, including security patrols and the collection, analysis and disclosure of information or intelligence.
 
   **(3)** Subsection 41(2) of the Act is replaced by the following:
 
-    **(2)** The Minister, **or any other member of the King's Privy Council for Canada designated under subsection (1)**, shall ensure that the services referred to in subparagraphs (1)(a)(i) to (iv) are provided in a cost-effective manner.
+    **(2)** The Minister **of National Defence** shall ensure that the services referred to in subparagraphs (1)(a)(i) to (iv) are provided in a cost-effective manner.
 
 ### Section 26
 
@@ -611,7 +629,7 @@ Section 23 of the French version of the Act is replaced by the following:
 
 ### Section 23
 
-L'**agent** peut **autoriser une personne à entrer au Canada** en vue du contrôle complémentaire ou de l'enquête prévus par la présente partie.
+L'agent peut autoriser une personne à entrer au Canada en vue du contrôle complémentaire ou de l'enquête prévus par la présente partie.
 
 ### Section 34
 
@@ -629,13 +647,13 @@ the day on which the Federal Court refused their application for leave to commen
 
 Paragraph 25(1.2)(b) of the Act is replaced by the following:
 
-the foreign national has made a claim for refugee protection **that has been determined to be eligible to be referred to** the Refugee Protection Division or that is pending before **that Division** or the Refugee Appeal Division;
+the foreign national has made a claim for refugee protection that has been determined to be eligible to be referred to the Refugee Protection Division or that is pending before that Division or the Refugee Appeal Division;
 
 ### Section 36
 
 Paragraph 38(2)(d) of the English version of the Act is replaced by the following:
 
-is, **if** prescribed, the spouse, common-law partner, child or other family member of a foreign national referred to in any of paragraphs (a) to (c).
+is, if prescribed, the spouse, common-law partner, child or other family member of a foreign national referred to in any of paragraphs (a) to (c).
 
 ### Section 37
 
@@ -659,11 +677,11 @@ The Immigration Division must not hold an admissibility hearing if the permanent
 
       **(1)** A removal order comes into force on
 
-        the day **on which it** is made, if there is no right to appeal;
+        the day on which it is made, if there is no right to appeal;
 
-        **the day after** the day **on which** the appeal period expires, if there is a right to appeal and no appeal is made; **or**
+        the day after the day on which the appeal period expires, if there is a right to appeal and no appeal is made; or
 
-        the day **on which a** final determination **is made that has the effect of confirming the removal order**, if an appeal is made.
+        the day on which a final determination is made that has the effect of confirming the removal order, if an appeal is made.
 
   **(2)** The portion of subsection 49(2) of the English version of the Act before paragraph (a) is replaced by the following:
 
@@ -671,9 +689,9 @@ The Immigration Division must not hold an admissibility hearing if the permanent
 
   **(3)** Paragraphs 49(2)(a) to (e) of the Act are replaced by the following:
 
-    **on** the day **on which notice** is **provided that** the claim **has been** determined to be ineligible only under paragraph 101(1)(e);
+    on the day on which notice is provided that the claim has been determined to be ineligible only under paragraph 101(1)(e);
 
-    seven days after **the day on which notice** is **provided that** the claim **has otherwise been** determined to be ineligible **under subsection 101(1)**;
+    seven days after the day on which notice is provided that the claim has otherwise been determined to be ineligible under subsection 101(1);
 
     if the claim is rejected by the Refugee Protection Division and there is no right to appeal, 15 days after the day on which notice of the rejection is provided;
 
@@ -687,15 +705,23 @@ The Immigration Division must not hold an admissibility hearing if the permanent
 
     on the day on which notice is provided that the claim has been determined to be withdrawn;
 
-    15 days after **the day on which notice** is **provided** that the claim **has been determined to be** abandoned; **or**
+    15 days after the day on which notice is provided that the claim has been determined to be abandoned; or
 
-    15 days after **the day on which** proceedings are terminated as a result of **a** notice **given** under paragraph 104(1)(c) or (d).
+    15 days after the day on which proceedings are terminated as a result of a notice given under paragraph 104(1)(c) or (d).
+
+  **(4)** Section 49 of the Act is amended by adding the following after subsection (2):
+
+    **(3)** The Minister must prepare a report in respect of each month of the year that sets out the number of removal orders that were enforced in that month, the number of removal orders that were not enforced in accordance with subsection (3) and the reasons for the delays.
+
+    **(4)** The report must also include countries of origin, age and gender breakdowns and criminal backgrounds of persons removed.
+
+    **(5)** The report must be tabled in each House of Parliament within 10 days after the last day of the month to which the report relates or, if a House is not then sitting, on any of the first 10 days on which that House is sitting after that day.
 
 ### Section 40
 
 Subsection 97(2) of the English version of the Act is replaced by the following:
 
-**(2)** A person in Canada who is a member of a class of persons **that is** prescribed as being in need of protection is also a person in need of protection.
+**(2)** A person in Canada who is a member of a class of persons that is prescribed as being in need of protection is also a person in need of protection.
 
 ### Section 41
 
@@ -706,7 +732,7 @@ Subsection 99(3.1) of the Act is repealed.
 The heading before section 100 of the Act is replaced by the following:
 
 
-#### **Consideration of Claims Prior to Referral**
+#### Consideration of Claims Prior to Referral
 
 ### Section 43
 
@@ -714,15 +740,15 @@ The heading before section 100 of the Act is replaced by the following:
 
 ### Section 100
 
-      **(1)** An officer **must**, after receiving a claim referred to in subsection 99(3), determine whether **it** is eligible to be referred to the Refugee Protection Division. **If it is determined to be eligible, the Minister must consider it further within the prescribed time limit.**
+      **(1)** An officer must, after receiving a claim referred to in subsection 99(3), determine whether it is eligible to be referred to the Refugee Protection Division. If it is determined to be eligible, the Minister must consider it further within the prescribed time limit.
 
   **(2)** The portion of subsection 100(2) of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** The officer **or the Minister must** suspend consideration of the person's claim if
+    **(2)** The officer or the Minister must suspend consideration of the person's claim if
 
   **(3)** Paragraph 100(2)(b) of the Act is replaced by the following:
 
-    **the person** is charged with an offence under an Act of Parliament that is punishable by a maximum term of imprisonment of at least 10 years **and** the officer **or the Minister** considers it necessary to wait for a **court** decision with respect to **the charge**.
+    the person is charged with an offence under an Act of Parliament that is punishable by a maximum term of imprisonment of at least 10 years and the officer or the Minister considers it necessary to wait for a court decision with respect to the charge.
 
   **(4)** Subsection 100(3) of the Act is replaced by the following:
 
@@ -730,7 +756,7 @@ The heading before section 100 of the Act is replaced by the following:
 
   **(5)** Subsection 100(4) of the Act is replaced by the following:
 
-    **(4)** A person who makes a claim for refugee protection **inside Canada — or who, before making a claim, submits any document or provides information with a view to making a claim inside Canada —** must, within the time limits provided for in the regulations **and in the manner specified by the Minister**, provide the **Minister** with the **documents and information specified by the Minister and** the documents and information required by the rules of the Board.
+    **(4)** A person who makes a claim for refugee protection inside Canada — or who, before making a claim, submits any document or provides information with a view to making a claim inside Canada — must, within the time limits provided for in the regulations and in the manner specified by the Minister, provide the Minister with the documents and information specified by the Minister and the documents and information required by the rules of the Board.
 
   **(6)** Subsection 100(4.1) of the Act is repealed.
 
@@ -757,7 +783,7 @@ The Act is amended by adding the following after section 100:
 The Act is amended by adding the following after section 102:
 
 
-#### **Abandonment and Withdrawal of Claims**
+#### Abandonment and Withdrawal of Claims
 
 ### Section 102.1
 
@@ -783,13 +809,13 @@ The Act is amended by adding the following after section 102:
 
   **(1)** The Minister may, at any time after a claim for refugee protection is determined to be eligible for referral and before the claim is referred to the Refugee Protection Division, determine that the claim has been withdrawn if the claimant provides the Minister with written notice of withdrawal.
 
-  **(2)** **Subject to the regulations, the Minister may, on application, reinstate a claim that the Minister has determined to be withdrawn.**
+  **(2)** Subject to the regulations, the Minister may, on application, reinstate a claim that the Minister has determined to be withdrawn.
 
 ### Section 46
 
 Paragraph 104(1)(c) of the English version of the Act is replaced by the following:
 
-the claim was referred as a result of **the direct or indirect misrepresentation** or withholding **of** material facts relating to a relevant matter and was not otherwise eligible to be referred to **the Refugee Protection** Division; or
+the claim was referred as a result of the direct or indirect misrepresentation or withholding of material facts relating to a relevant matter and was not otherwise eligible to be referred to the Refugee Protection Division; or
 
 ### Section 47
 
@@ -797,9 +823,17 @@ The Act is amended by adding the following after section 104:
 
 ### Section 104.1
 
-  **(1)** The Refugee Protection Division must not commence, or must suspend, consideration of a claim for refugee protection for the purposes of subsection 107(1) if the claimant is not physically present in Canada.
+  **(1)** For the purposes of subsection 107(1), if **a person making** a claim for refugee protection is not physically present in Canada, the Refugee Protection Division
 
-  **(2)** The Refugee Appeal Division must not commence, or must suspend, consideration of an appeal, other than an appeal by the Minister, if the person who is the subject of the appeal is not physically present in Canada.
+    in the case of a new claim, must not commence consideration of the claim; or
+
+    in the case of an ongoing claim where the person returns to their country of origin, must deem the claim to have been abandoned.
+
+  **(2)** If **a** person who is the subject of **an** appeal is not physically present in Canada, the Refugee Appeal Division
+
+    **in the case of a new appeal**, must not commence consideration of **the** appeal, other than an appeal by the Minister; **or**
+
+    in the case of an ongoing appeal where the person returns to their country of origin, must deem the claim to have been abandoned.
 
 ### Section 48
 
@@ -811,7 +845,7 @@ Section 109.1 of the Act and the heading before it are repealed.
 
   **(2)** Subsections 110(3) and (3.1) of the Act are replaced by the following:
 
-    **(3)** Subject to subsections (4) and (6), the Refugee Appeal Division must proceed without a hearing, on the basis of the record of the proceedings of the Refugee Protection Division, and may accept documentary evidence and written submissions from the Minister and the person who is the subject of the appeal and, in the case of a matter that is conducted before a panel of three members, written submissions from a representative or agent **or mandatary** of the United Nations High Commissioner for Refugees and any other person described in the rules of the Board.
+    **(3)** Subject to subsections (4) and (6), the Refugee Appeal Division must proceed without a hearing, on the basis of the record of the proceedings of the Refugee Protection Division, and may accept documentary evidence and written submissions from the Minister and the person who is the subject of the appeal and, in the case of a matter that is conducted before a panel of three members, written submissions from a representative or agent or mandatary of the United Nations High Commissioner for Refugees and any other person described in the rules of the Board.
 
 ### Section 50
 
@@ -823,7 +857,7 @@ Section 111 of the Act is amended by adding the following after subsection (2):
 
   **(1)** Paragraph 111.1(1)(a) of the Act is replaced by the following:
 
-    time limits for providing documents and information under subsection 100(4) **and the extension of those time limits, including extensions by the Minister**;
+    time limits for providing documents and information under subsection 100(4) and the extension of those time limits, including extensions by the Minister;
 
   **(2)** Subsection 111.1(1) is amended by adding the following after paragraph (a):
 
@@ -859,7 +893,7 @@ Section 111 of the Act is amended by adding the following after subsection (2):
 
   **(4)** The portion of subsection 112(2.1) of the Act before paragraph (a) is replaced by the following:
 
-    **(2.1)** The Minister may exempt from the application of paragraph (2)(b.1), **(b.2)** or (c)
+    **(2.1)** The Minister may exempt from the application of paragraph (2)(b.1), (b.2) or (c)
 
 ### Section 53
 
@@ -873,11 +907,15 @@ Subsection 144(1) of the English version of the Act is replaced by the following
 
 Paragraph 159(1)(g) of the Act is replaced by the following:
 
-takes any action that may be necessary to ensure that the members of the Board carry out their duties efficiently and without undue delay, **including by specifying the manner in which decisions must be rendered and reasons for decisions must be given**;
+takes any action that may be necessary to ensure that the members of the Board carry out their duties efficiently and without undue delay, including by specifying the manner in which decisions must be rendered and reasons for decisions must be given;
 
 ### Section 55
 
   **(1)** Paragraph 161(1)(a.1) of the Act is repealed.
+
+  **(1.1)** Subsection 161(1) of the Act is amended by adding the following after paragraph (a.1):
+
+    the manner in which a claim that is determined to be ineligible under subsection 101(1) is to be dealt with;
 
   **(2)** Subsection 161(1.1) of the Act is repealed.
 
@@ -891,7 +929,7 @@ Section 168 of the Act is amended by adding the following after subsection (1):
 
 Paragraph 169(e) of the English version of the Act is replaced by the following:
 
-written reasons **for the decision** must be provided **to** the person who is the subject of **the decision and to** the Minister in circumstances **provided for** in the rules of the Board or **if the person or the Minister requests them** within 10 days **after notice** of the decision **is provided**; and
+written reasons for the decision must be provided to the person who is the subject of the decision and to the Minister in circumstances provided for in the rules of the Board or if the person or the Minister requests them within 10 days after notice of the decision is provided; and
 
 ### Section 58
 
@@ -899,7 +937,7 @@ written reasons **for the decision** must be provided **to** the person who is t
 
   **(2)** Paragraph 170(f) of the Act is replaced by the following:
 
-    may, despite paragraph (b), **accept** a claim for refugee protection without a hearing if the Minister has not notified the Division of the Minister's intention to intervene;
+    may, despite paragraph (b), accept a claim for refugee protection without a hearing if the Minister has not notified the Division of the Minister's intention to intervene;
 
 
 ### Transitional Provisions
@@ -981,13 +1019,15 @@ The Act is amended by adding the following after section 20:
 
   **(2)** For greater certainty, subsection (1) does not affect any other lawful authority to cancel, suspend or vary a visa or other document.
 
+  **(3)** For greater certainty, the authority to vary under subsection (1) does not include the authority to grant permanent resident status.
+
 ### Section 68
 
 Subsection 24(1) of the French version of the Act is replaced by the following:
 
 ### Section 24
 
-  **(1)** Devient résident temporaire l'étranger, dont l'agent estime qu'il est interdit de territoire ou ne se conforme pas à la présente loi, à qui il délivre, s'il estime que les circonstances le justifient, un permis de séjour temporaire — titre **annulable** en tout temps.
+  **(1)** Devient résident temporaire l'étranger, dont l'agent estime qu'il est interdit de territoire ou ne se conforme pas à la présente loi, à qui il délivre, s'il estime que les circonstances le justifient, un permis de séjour temporaire — titre annulable en tout temps.
 
 ### Section 69
 
@@ -1018,7 +1058,7 @@ The regulations may prescribe the circumstances in which a foreign national who 
 
 Paragraph 47(c) of the Act is replaced by the following:
 
-on cancellation of their temporary resident permit, **other than cancellation by an order made under subsection 87.302(1)**.
+on cancellation of their temporary resident permit, other than cancellation by an order made under subsection 87.302(1).
 
 ### Section 72
 
@@ -1026,6 +1066,10 @@ The Act is amended by adding the following after section 87.3:
 
 
 #### Orders Made in the Public Interest
+
+### Section 87.3001
+
+For the purposes of subsections 87.301(1), 87.302(1) and 87.303(1) and (2), the making of an order is consistent with the public interest if its purpose is to address matters such as administrative errors, fraud, public health, public safety or national security.
 
 ### Section 87.301
 
@@ -1061,6 +1105,8 @@ The Act is amended by adding the following after section 87.3:
 
     impose or vary such conditions on temporary residents for the period set out in the order or, if a period is not set out, during the period for which the order is in force.
 
+  **(1.1)** For greater certainty, the authority to vary under subsection (1) does not include the authority to grant permanent resident status.
+
   **(2)** An order made under subsection (1) whose measures concern, in whole or in part, persons inside Canada must be made on the Minister's recommendation with the concurrence of the Minister of Public Safety and Emergency Preparedness.
 
   **(3)** An order made under subsection (1) may
@@ -1075,13 +1121,27 @@ The Act is amended by adding the following after section 87.3:
 
   **(1)** If the Governor in Council is of the opinion that it is in the public interest to do so, the Governor in Council may, by order, amend or repeal any order made under subsection 87.301(1) or 87.302(1).
 
-  **(2)** If the Governor in Council is of the opinion that it is in the public interest to do so, the Governor in Council may, by order, authorize the Minister, by order, to amend or repeal any order made under subsection 87.30**1**(1) or 87.302(1), subject to any conditions that the Governor in Council may specify.
+  **(2)** If the Governor in Council is of the opinion that it is in the public interest to do so, the Governor in Council may, by order, authorize the Minister, by order, to amend or repeal any order made under subsection 87.301(1) or 87.302(1), subject to any conditions that the Governor in Council may specify.
 
   **(3)** If the amendment or repeal concerns, in whole or in part, persons in Canada, then it requires,
 
     in the case of an amendment or repeal made by the Governor in Council, the Minister's recommendation with the concurrence of the Minister of Public Safety and Emergency Preparedness; or
 
     in the case of an amendment or repeal made by the Minister, the concurrence of the Minister of Public Safety and Emergency Preparedness.
+
+### Section 87.3031
+
+  **(1)** If an order is made under subsection 87.301(1), 87.302(1) or 87.303(1) or (2), the Minister must cause to be tabled in each House of Parliament, within the next seven sitting days of the House after the day on which the order is made, a report setting out
+
+    the reasons that the order was made;
+
+    the number of applications or documents affected; and
+
+    a description of the persons or groups affected by the order.
+
+  **(2)** The report stands referred to the committee of the Senate, of the House of Commons or of both Houses of Parliament that may be designated or established for the purpose of reviewing the report.
+
+  **(3)** At the request of the committee, the Minister must appear before it to explain the reasons for making the order and plans to prevent systemic fraud in the future.
 
 ### Section 87.304
 
@@ -1110,6 +1170,8 @@ An order made under subsection 87.301(1), 87.302(1) or 87.303(1) or (2), or a mi
   **(2)** Section 101 of the Act is amended by adding the following after subsection (1):
 
     **(1.1)** For the purposes of paragraph (1)(b.1), if the claimant has entered Canada more than once after June 24, 2020, the one-year period referred to in that paragraph begins on the day after the day of their first entry.
+
+    **(1.2)** If a claim is determined to be ineligible under subsection 101(1), the officer shall terminate the processing of the claim.
 
 ### Section 74
 
@@ -1148,14 +1210,14 @@ apply to a claim for refugee protection made during the period beginning on the 
 
   **(3)** Paragraph 2(2)(d) of the Act is replaced by the following:
 
-    identifying information, for the purposes of subsection 54.1(3) **or 54.2(3)**;
+    identifying information, for the purposes of subsection 54.1(3) or 54.2(3);
 
 ### Section 77
 
 The heading of Part 1 of the English version of the Act is replaced by the following:
 
 
-## Record Keeping, Verifying Identity, Reporting of Suspicious Transactions, Registration and **Enrolment**
+## Record Keeping, Verifying Identity, Reporting of Suspicious Transactions, Registration and Enrolment
 
 ### Section 78
 
@@ -1163,9 +1225,9 @@ Section 9.2 of the Act is replaced by the following:
 
 ### Section 9.2
 
-  ****(1)**** No person or entity referred to in section 5 shall open **an anonymous account or** an account for **an anonymous** client.
+  **(1)** No person or entity referred to in section 5 shall open an anonymous account or an account for an anonymous client.
 
-  ****(2)**** **A client is anonymous for the purposes of subsection (1)** if the person or entity cannot verify the identity of the client in accordance with the regulations **or if the client's name is obviously fictitious**.
+  **(2)** A client is anonymous for the purposes of subsection (1) if the person or entity cannot verify the identity of the client in accordance with the regulations or if the client's name is obviously fictitious.
 
 ### Section 79
 
@@ -1178,13 +1240,13 @@ Section 9.6 of the Act is amended by adding the following after subsection (1):
 The heading "Inscription" before section 11.1 of the French version of the Act is replaced by the following:
 
 
-### Inscription — **entreprises fournissant des services monétaires**
+### Inscription — entreprises fournissant des services monétaires
 
 ### Section 81
 
 Paragraph 11.11(1)(e.1) of the Act is replaced by the following:
 
-a person or entity that, having committed a **compliance order** violation **or a prescribed** violation and being liable to a penalty for it, and 30 days having elapsed since the day on which all proceedings in respect of the violation are ended, has still not paid the penalty together with any interest imposed under section 73.28;
+a person or entity that, having committed a compliance order violation or a prescribed violation and being liable to a penalty for it, and 30 days having elapsed since the day on which all proceedings in respect of the violation are ended, has still not paid the penalty together with any interest imposed under section 73.28;
 
 a person or entity that is acting on behalf of or in concert with a person or entity referred to in paragraph (e.1) for the purpose of evading the payment of a penalty; or
 
@@ -1291,7 +1353,7 @@ If the Centre determines that section 11.4001 applies to a person or entity that
 
 Subsection 39.02(6) of the Act is replaced by the following:
 
-**(6)** Any person or entity that imports or exports goods or that causes or arranges for goods to be imported or exported — for sale or for any industrial, occupational, commercial, institutional or other like use, or any other use that may be prescribed — or that produces, supplies, distributes, consumes or **holds** those goods for such a purpose shall keep at the person or entity's place of business in Canada, or at any other place that the Minister may designate, any records in respect of the goods in any manner and for any period of time that may be prescribed. The person or entity shall, if an officer so requests, make the records available to the officer, within the time specified by the officer, and answer any questions asked by the officer in respect of them.
+**(6)** Any person or entity that imports or exports goods or that causes or arranges for goods to be imported or exported — for sale or for any industrial, occupational, commercial, institutional or other like use, or any other use that may be prescribed — or that produces, supplies, distributes, consumes or holds those goods for such a purpose shall keep at the person or entity's place of business in Canada, or at any other place that the Minister may designate, any records in respect of the goods in any manner and for any period of time that may be prescribed. The person or entity shall, if an officer so requests, make the records available to the officer, within the time specified by the officer, and answer any questions asked by the officer in respect of them.
 
 ### Section 84
 
@@ -1299,7 +1361,7 @@ Section 39.14 of the Act is replaced by the following:
 
 ### Section 39.14
 
-A person or entity from which goods were seized under subsection 39.06(1), or the lawful owner of the goods, may — within 90 days after the date of the seizure **and** by giving notice to the Minister in writing or by any other means satisfactory to the Minister — request a decision of the Minister as to whether **the officer who seized** the goods **had reasonable grounds to believe that the goods were** proceeds of crime as defined in subsection 462.3(1) of the `Criminal Code` or **were** related to money laundering, to the financing of terrorist activities or to sanctions evasion.
+A person or entity from which goods were seized under subsection 39.06(1), or the lawful owner of the goods, may — within 90 days after the date of the seizure and by giving notice to the Minister in writing or by any other means satisfactory to the Minister — request a decision of the Minister as to whether the officer who seized the goods had reasonable grounds to believe that the goods were proceeds of crime as defined in subsection 462.3(1) of the `Criminal Code` or were related to money laundering, to the financing of terrorist activities or to sanctions evasion.
 
 ### Section 85
 
@@ -1307,7 +1369,7 @@ Subsection 39.18(1) of the Act is replaced by the following:
 
 ### Section 39.18
 
-  **(1)** Within 90 days after the **end** of the period referred to in subsection 39.17(2), the Minister shall decide whether **the officer who seized** the goods **had the reasonable grounds referred to in section 39.14**.
+  **(1)** Within 90 days after the end of the period referred to in subsection 39.17(2), the Minister shall decide whether the officer who seized the goods had the reasonable grounds referred to in section 39.14.
 
 ### Section 86
 
@@ -1315,29 +1377,29 @@ Sections 39.19 and 39.2 of the Act are replaced by the following:
 
 ### Section 39.19
 
-If the Minister decides that **the officer who seized** the goods **did not have the reasonable grounds referred to in section 39.14**, the Minister of Public Works and Government Services shall, on being informed of the Minister's decision, return the goods or an amount of money equal to their value at the time of the seizure, as the case may be.
+If the Minister decides that the officer who seized the goods did not have the reasonable grounds referred to in section 39.14, the Minister of Public Works and Government Services shall, on being informed of the Minister's decision, return the goods or an amount of money equal to their value at the time of the seizure, as the case may be.
 
 ### Section 39.2
 
-If the Minister decides that **the officer who seized** the goods **had the reasonable grounds referred to in section 39.14**, the Minister may, subject to the terms and conditions that the Minister may determine **and** subject to any order made under section 39.24 or 39.25, confirm that the goods are forfeited to His Majesty in right of Canada.
+If the Minister decides that the officer who seized the goods had the reasonable grounds referred to in section 39.14, the Minister may, subject to the terms and conditions that the Minister may determine and subject to any order made under section 39.24 or 39.25, confirm that the goods are forfeited to His Majesty in right of Canada.
 
 ### Section 87
 
   **(1)** Paragraph 53.6(1)(a) of the Act is replaced by the following:
 
-    has, during the five-year period before the day on which the application was submitted, been found guilty of **an offence under** section 74, 75 or 76, subsection 77(1) or section **77.01 or** 77.1 of this Act;
+    has, during the five-year period before the day on which the application was submitted, been found guilty of an offence under section 74, 75 or 76, subsection 77(1) or section 77.01 or 77.1 of this Act;
 
   **(2)** Paragraph 53.6(1)(c) of the French version of the Act is replaced by the following:
 
-    n'est pas inscrit sous le régime de **l'article 11.1 de** la présente loi.
+    n'est pas inscrit sous le régime de l'article 11.1 de la présente loi.
 
   **(3)** Paragraph 53.6(2)(a) of the Act is replaced by the following:
 
-    a payment service provider that is registered, as those expressions are defined in section 2 of the `Retail Payment Activities Act`, is found guilty of **an offence under** section 74, 75 or 76, subsection 77(1) or section **77.01 or** 77.1 of this Act;
+    a payment service provider that is registered, as those expressions are defined in section 2 of the `Retail Payment Activities Act`, is found guilty of an offence under section 74, 75 or 76, subsection 77(1) or section 77.01 or 77.1 of this Act;
 
   **(4)** Paragraph 53.6(2)(c) of the French version of the Act is replaced by the following:
 
-    le Centre a révoqué, au titre **des paragraphes 11.11(2), 11.13(2) ou 11.17(2) ou de l'article 11.171** de la présente loi, l'inscription d'un fournisseur de services de paiement enregistré, au sens de l'article 2 de la `Loi sur les activités associées aux paiements de détail`.
+    le Centre a révoqué, au titre des paragraphes 11.11(2), 11.13(2) ou 11.17(2) ou de l'article 11.171 de la présente loi, l'inscription d'un fournisseur de services de paiement enregistré, au sens de l'article 2 de la `Loi sur les activités associées aux paiements de détail`.
 
 ### Section 88
 
@@ -1381,7 +1443,7 @@ The portion of subsection 62(1) of the Act before paragraph (a) is replaced by t
 
 ### Section 62
 
-  **(1)** An authorized person may, from time to time, examine the records and inquire into the business and affairs of any person or entity referred to in section 5 **or any person or entity that the authorized person believes on reasonable grounds to be a person or entity referred to in that section** for the purpose of ensuring compliance with Part 1 or 1.1, and for that purpose may
+  **(1)** An authorized person may, from time to time, examine the records and inquire into the business and affairs of any person or entity referred to in section 5 or any person or entity that the authorized person believes on reasonable grounds to be a person or entity referred to in that section for the purpose of ensuring compliance with Part 1 or 1.1, and for that purpose may
 
 ### Section 92
 
@@ -1389,7 +1451,7 @@ Section 72.1 of the French version of the Act is replaced by the following:
 
 ### Section 72.1
 
-S'agissant d'une personne ou entité visée à l'alinéa 5h.1), il suffit, pour que les avis soient considérés comme signifiés par le Centre ou à sa demande, qu'ils soient signifiés à la personne dont le nom est indiqué dans la demande d'inscription **visée au paragraphe 11.12(1)** — ou qui est fourni conformément au paragraphe 11.13(1) — qui est autorisée à accepter, au nom de la personne ou entité visée à cet alinéa, des avis signifiés par le Centre en vertu de la présente loi ou que celui-ci fait signifier en vertu de celle-ci.
+S'agissant d'une personne ou entité visée à l'alinéa 5h.1), il suffit, pour que les avis soient considérés comme signifiés par le Centre ou à sa demande, qu'ils soient signifiés à la personne dont le nom est indiqué dans la demande d'inscription visée au paragraphe 11.12(1) — ou qui est fourni conformément au paragraphe 11.13(1) — qui est autorisée à accepter, au nom de la personne ou entité visée à cet alinéa, des avis signifiés par le Centre en vertu de la présente loi ou que celui-ci fait signifier en vertu de celle-ci.
 
 ### Section 93
 
@@ -1402,23 +1464,23 @@ respecting the enrolment referred to in sections 11.4001 to 11.4015;
 The heading of Part 4.1 of the Act is replaced by the following:
 
 
-## Notices of Violation, Compliance Agreements, **Compliance Orders** and Penalties
+## Notices of Violation, Compliance Agreements, Compliance Orders and Penalties
 
 ### Section 95
 
   **(1)** Paragraph 73.1(1)(b) of the Act is replaced by the following:
 
-    classifying each **prescribed** violation as a minor violation, a serious violation or a very serious violation and classifying a series of minor violations as a serious violation or a very serious violation;
+    classifying each prescribed violation as a minor violation, a serious violation or a very serious violation and classifying a series of minor violations as a serious violation or a very serious violation;
 
   **(2)** Paragraph 73.1(1)(c) of the English version of the Act is replaced by the following:
 
-    having regard to subsection (2), fixing a penalty, or a range of penalties, in respect of any **prescribed** violation;
+    having regard to subsection (2), fixing a penalty, or a range of penalties, in respect of any prescribed violation;
 
   **(3)** Paragraph 73.1(1)(d) of the Act is repealed.
 
   **(4)** Subsection 73.1(2) of the Act is replaced by the following:
 
-    **(2)** The maximum penalty for a **prescribed** violation is $**4,000,000** if the violation is committed by a person and $**20,000,000** if the violation is committed by an entity.
+    **(2)** The maximum penalty for a prescribed violation is $4,000,000 if the violation is committed by a person and $20,000,000 if the violation is committed by an entity.
 
     **(3)** The maximum penalty for all the prescribed violations identified on a notice of violation taken together is
 
@@ -1436,11 +1498,11 @@ Sections 73.11 to 73.13 of the Act are replaced by the following:
 
 Except if a penalty is fixed under paragraph 73.1(1)(c), the amount of a penalty shall, in each case, be determined taking into account
 
-**the fact** that penalties have as their purpose to encourage compliance with this Act rather than to punish;
+the fact that penalties have as their purpose to encourage compliance with this Act rather than to punish;
 
 the harm done by the violation;
 
-**the ability of the person or entity to pay the amount; and**
+the ability of the person or entity to pay the amount; and
 
 any other criteria that may be prescribed by regulation.
 
@@ -1458,19 +1520,19 @@ any other criteria that may be prescribed by regulation.
 
 ### Section 73.12
 
-If an **act or omission may** be proceeded with as a violation or as an offence, proceeding **with it** in one manner precludes proceeding **with it** in the other.
+If an act or omission may be proceeded with as a violation or as an offence, proceeding with it in one manner precludes proceeding with it in the other.
 
 ### Section 73.13
 
-Every contravention that is designated under paragraph 73.1(1)(a) constitutes a **prescribed** violation and the person or entity that commits the **prescribed** violation is liable to a penalty determined in accordance with sections 73.1 and 73.11.
+Every contravention that is designated under paragraph 73.1(1)(a) constitutes a prescribed violation and the person or entity that commits the prescribed violation is liable to a penalty determined in accordance with sections 73.1 and 73.11.
 
 ### Section 97
 
 The Act is amended by adding the following before section 73.14:
 
-### Section **73.131**
+### Section 73.131
 
-If the Centre believes on reasonable grounds that a person or entity has committed a **prescribed** violation or **a compliance order violation**, the Centre may issue and cause to be served on the person or entity a notice of violation.
+If the Centre believes on reasonable grounds that a person or entity has committed a prescribed violation or a compliance order violation, the Centre may issue and cause to be served on the person or entity a notice of violation.
 
 ### Section 98
 
@@ -1484,14 +1546,14 @@ The portion of subsection 73.14(1) of the Act before paragraph (a) is replaced b
 
 Subsection 73.15(4) of the Act is replaced by the following:
 
-**(4)** The Director shall cause notice of any decision made under subsection (2) or the penalty imposed under subsection (3) to be issued and served on the person or entity together with, in the case of a decision made under subsection (2) in respect of a serious violation, **a** very serious violation or **a compliance order violation**, notice of the right of appeal under subsection 73.21(1).
+**(4)** The Director shall cause notice of any decision made under subsection (2) or the penalty imposed under subsection (3) to be issued and served on the person or entity together with, in the case of a decision made under subsection (2) in respect of a serious violation, a very serious violation or a compliance order violation, notice of the right of appeal under subsection 73.21(1).
 
 ### Section 100
 
 The heading before section 73.16 and sections 73.16 to 73.2 of the Act are replaced by the following:
 
 
-### Compliance Agreements, **Compliance Orders and Compliance Order Violations**
+### Compliance Agreements, Compliance Orders and Compliance Order Violations
 
 ### Section 73.16
 
@@ -1543,7 +1605,7 @@ The heading before section 73.16 and sections 73.16 to 73.2 of the Act are repla
 
 ### Section 73.21
 
-      **(1)** A person or entity on which a notice of a decision made under subsection 73.15(2) is served, in respect of a serious violation, **a** very serious violation or **a compliance order violation**, may, within 30 days after the day on which the notice is served, or within any longer period that the Court allows, appeal the decision to the Federal Court.
+      **(1)** A person or entity on which a notice of a decision made under subsection 73.15(2) is served, in respect of a serious violation, a very serious violation or a compliance order violation, may, within 30 days after the day on which the notice is served, or within any longer period that the Court allows, appeal the decision to the Federal Court.
 
   **(2)** Subsection 73.21(3) of the Act is repealed.
 
@@ -1563,7 +1625,7 @@ Subsection 73.27(1) of the Act is replaced by the following:
 
 ### Section 73.27
 
-  **(1)** The Centre may, for the purpose of collecting penalties proposed in a notice of violation or imposed under this Part, enter into a contract, memorandum of understanding or other agreement with a department or an agency of the Government of Canada or the government of a province and with any other person or organization, inside Canada, in its own name or in the name of **His** Majesty in right of Canada.
+  **(1)** The Centre may, for the purpose of collecting penalties proposed in a notice of violation or imposed under this Part, enter into a contract, memorandum of understanding or other agreement with a department or an agency of the Government of Canada or the government of a province and with any other person or organization, inside Canada, in its own name or in the name of His Majesty in right of Canada.
 
 ### Section 104
 
@@ -1571,7 +1633,7 @@ Section 73.4 of the Act is replaced by the following:
 
 ### Section 73.4
 
-In a proceeding in respect of a violation or a prosecution for an offence, a notice of violation purporting to be issued under **section 73.131**, a notice of decision purporting to be issued under subsection 73.15(4) or a certificate purporting to be made under subsection 73.26(1) is admissible in evidence without proof of the signature or official character of the person appearing to have signed it.
+In a proceeding in respect of a violation or a prosecution for an offence, a notice of violation purporting to be issued under section 73.131, a notice of decision purporting to be issued under subsection 73.15(4) or a certificate purporting to be made under subsection 73.26(1) is admissible in evidence without proof of the signature or official character of the person appearing to have signed it.
 
 ### Section 105
 
@@ -1581,23 +1643,23 @@ In a proceeding in respect of a violation or a prosecution for an offence, a not
 
   **(3)** Paragraphs 74(1)(a) and (b) of the Act are replaced by the following:
 
-    on summary conviction, to a fine of not more than $**2,500,000** or to imprisonment for a term of not more than two years less a day, or to both; or
+    on summary conviction, to a fine of not more than $2,500,000 or to imprisonment for a term of not more than two years less a day, or to both; or
 
-    on conviction on indictment, to a fine of not more than $**5,000,000** or to imprisonment for a term of not more than five years, or to both.
+    on conviction on indictment, to a fine of not more than $5,000,000 or to imprisonment for a term of not more than five years, or to both.
 
   **(4)** Paragraphs 74(2)(a) and (b) of the Act are replaced by the following:
 
-    on summary conviction, to a fine of not more than $**2,500,000** or to imprisonment for a term of not more than two years less a day, or to both; or
+    on summary conviction, to a fine of not more than $2,500,000 or to imprisonment for a term of not more than two years less a day, or to both; or
 
-    on conviction on indictment, to a fine of not more than $**5,000,000** or to imprisonment for a term of not more than five years, or to both.
+    on conviction on indictment, to a fine of not more than $5,000,000 or to imprisonment for a term of not more than five years, or to both.
 
 ### Section 106
 
 Paragraphs 75(1)(a) and (b) of the Act are replaced by the following:
 
-on summary conviction, to a fine of not more than $**10,000,000** or to imprisonment for a term of not more than two years less a day, or to both; or
+on summary conviction, to a fine of not more than $10,000,000 or to imprisonment for a term of not more than two years less a day, or to both; or
 
-on conviction on indictment, to a fine of not more than $**20,000,000** or to imprisonment for a term of not more than five years, or to both.
+on conviction on indictment, to a fine of not more than $20,000,000 or to imprisonment for a term of not more than five years, or to both.
 
 ### Section 107
 
@@ -1611,7 +1673,7 @@ on conviction on indictment, to a fine of not more than $**20,000,000** or to im
 
     on summary conviction, to a fine of not more than $1,000,000 or to imprisonment for a term of not more than one year, or to both; or
 
-    **on conviction on indictment, to a fine** of **not more than $2,500,000** or to imprisonment for a term of not more than two years, **or to both**.
+    on conviction on indictment, to a fine of not more than $2,500,000 or to imprisonment for a term of not more than two years, or to both.
 
 ### Section 108
 
@@ -1619,61 +1681,61 @@ Sections 77 to 77.1 of the Act are replaced by the following:
 
 ### Section 77
 
-  **(1)** Every person or entity that contravenes subsection 9(1) or (3) is guilty of an offence and liable on summary conviction to a fine of not more than $**10,000,000**.
+  **(1)** Every person or entity that contravenes subsection 9(1) or (3) is guilty of an offence and liable on summary conviction to a fine of not more than $10,000,000.
 
-  **(2)** Every person or entity that contravenes section 11.43, only insofar as it relates to any required reporting measure as contemplated by paragraph 11.42(2)(e) and specified in a directive issued under subsection 11.42(1), is guilty of an offence and liable on summary conviction to a fine of not more than $**10,000,000**.
+  **(2)** Every person or entity that contravenes section 11.43, only insofar as it relates to any required reporting measure as contemplated by paragraph 11.42(2)(e) and specified in a directive issued under subsection 11.42(1), is guilty of an offence and liable on summary conviction to a fine of not more than $10,000,000.
 
 ### Section 77.01
 
 Every person or entity that knowingly contravenes section 9.92 or 9.93 is guilty of an offence and liable
 
-on summary conviction, to a fine of not more than $**2,500,000** or to imprisonment for a term of not more than two years less a day, or to both; or
+on summary conviction, to a fine of not more than $2,500,000 or to imprisonment for a term of not more than two years less a day, or to both; or
 
-on conviction on indictment, to a fine of not more than $**5,000,000** or to imprisonment for a term of not more than five years, or to both.
+on conviction on indictment, to a fine of not more than $5,000,000 or to imprisonment for a term of not more than five years, or to both.
 
 ### Section 77.1
 
-  ****(1)**** Every person or entity that, under this Act, **is required to provide** information to the Centre or to a person responsible for carrying out functions **under this Act** is guilty of an offence **if they** knowingly
+  **(1)** Every person or entity that, under this Act, is required to provide information to the Centre or to a person responsible for carrying out functions under this Act is guilty of an offence if they knowingly
 
-    **withhold material** information;
+    withhold material information;
 
-    **make a** false or misleading statement, **including by omission**; or
+    make a false or misleading statement, including by omission; or
 
-    **provide** false or misleading **information, including by omission**.
+    provide false or misleading information, including by omission.
 
-  ****(2)**** **Every person or entity that commits an offence under subsection (1) is liable**
+  **(2)** Every person or entity that commits an offence under subsection (1) is liable
 
-    on summary conviction, to a fine of not more than $**2,500,000** or to imprisonment for a term of not more than two years less a day, or to both; or
+    on summary conviction, to a fine of not more than $2,500,000 or to imprisonment for a term of not more than two years less a day, or to both; or
 
-    on conviction on indictment, to a fine of not more than $**5,000,000** or to imprisonment for a term of not more than five years, or to both.
+    on conviction on indictment, to a fine of not more than $5,000,000 or to imprisonment for a term of not more than five years, or to both.
 
 ### Section 109
 
   **(1)** The portion of subsection 77.2(2) of the English version of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** Every person or entity that commits an offence under subsection (1) **is liable**
+    **(2)** Every person or entity that commits an offence under subsection (1) is liable
 
   **(2)** Paragraphs 77.2(2)(a) and (b) of the Act are replaced by the following:
 
-    on summary conviction, **to a fine** of **not more than $1,000,000 or to imprisonment for a term of not more than one year, or to both**; or
+    on summary conviction, to a fine of not more than $1,000,000 or to imprisonment for a term of not more than one year, or to both; or
 
-    **on conviction on indictment, to a fine** of **not more than $2,500,000** or to imprisonment for a term of not more than five years, **or to both**.
+    on conviction on indictment, to a fine of not more than $2,500,000 or to imprisonment for a term of not more than five years, or to both.
 
 ### Section 110
 
 Paragraphs 77.3(3)(a) and (b) of the Act are replaced by the following:
 
-on summary conviction, to a fine **of not more than $1,000,000** or imprisonment for a term of not more than two years less a day, or to both; or
+on summary conviction, to a fine of not more than $1,000,000 or imprisonment for a term of not more than two years less a day, or to both; or
 
-on conviction on indictment, to a fine **of not more than $2,500,000** or imprisonment for a term of not more than five years, or to both.
+on conviction on indictment, to a fine of not more than $2,500,000 or imprisonment for a term of not more than five years, or to both.
 
 ### Section 111
 
 Paragraphs 77.4(a) and (b) of the Act are replaced by the following:
 
-on summary conviction, to a fine of not more than $**2,500,000** or to imprisonment for a term of not more than two years less a day, or to both; or
+on summary conviction, to a fine of not more than $2,500,000 or to imprisonment for a term of not more than two years less a day, or to both; or
 
-on conviction on indictment, to a fine of not more than $**5,000,000** or to imprisonment for a term of not more than five years, or to both.
+on conviction on indictment, to a fine of not more than $5,000,000 or to imprisonment for a term of not more than five years, or to both.
 
 ### Section 112
 
@@ -1681,7 +1743,7 @@ Subsection 81(1) of the Act is replaced by the following:
 
 ### Section 81
 
-  **(1)** Proceedings under paragraph 74(1)(a), 74(2)(a), 75(1)(a) or 76(a), subsection 77(1) or (2) or paragraph **77.1(2)(a)** or 77.2(2)(a) may be instituted within, but not after, five years after the time when the subject-matter of the proceedings arose.
+  **(1)** Proceedings under paragraph 74(1)(a), 74(2)(a), 75(1)(a) or 76(a), subsection 77(1) or (2) or paragraph 77.1(2)(a) or 77.2(2)(a) may be instituted within, but not after, five years after the time when the subject-matter of the proceedings arose.
 
 ### Section 113
 
@@ -1689,7 +1751,7 @@ Subsection 83.3(1) of the French version of the Act is replaced by the following
 
 ### Section 83.3
 
-  **(1)** Toute personne ou entité déterminée qui, à la date de référence, est inscrite auprès du Centre **en application de l'article 11.1** lui fournit, selon les modalités réglementaires, les documents visés aux alinéas 11.12(1)b) et c), au plus tard au deuxième anniversaire.
+  **(1)** Toute personne ou entité déterminée qui, à la date de référence, est inscrite auprès du Centre en application de l'article 11.1 lui fournit, selon les modalités réglementaires, les documents visés aux alinéas 11.12(1)b) et c), au plus tard au deuxième anniversaire.
 
 
 ### Consequential and Related Amendments
@@ -1701,17 +1763,17 @@ Subsection 83.3(1) of the French version of the Act is replaced by the following
 
 Paragraphs 48(1)(c) and (d) of the `Retail Payment Activities Act` are replaced by the following:
 
-the applicant has been found guilty of **an offence under** section 74, 75 or 76, subsection 77(1) or section **77.01 or** 77.1 of the `Proceeds of Crime (Money Laundering) and Terrorist Financing Act`;
+the applicant has been found guilty of an offence under section 74, 75 or 76, subsection 77(1) or section 77.01 or 77.1 of the `Proceeds of Crime (Money Laundering) and Terrorist Financing Act`;
 
-during the five-year period before the day on which the application was submitted, the Director of the Centre, under subsection 73.15(4) of that Act, caused a notice of a decision or of an imposed penalty to be issued and served on the applicant in respect of **a** serious violation, a very serious violation or **a compliance order** violation under that Act;
+during the five-year period before the day on which the application was submitted, the Director of the Centre, under subsection 73.15(4) of that Act, caused a notice of a decision or of an imposed penalty to be issued and served on the applicant in respect of a serious violation, a very serious violation or a compliance order violation under that Act;
 
 ### Section 115
 
 Paragraphs 52(b) and (c) of the Act are replaced by the following:
 
-the payment service provider has been found guilty of **an offence under** section 74, 75 or 76, subsection 77(1) or section **77.01 or** 77.1 of the `Proceeds of Crime (Money Laundering) and Terrorist Financing Act`;
+the payment service provider has been found guilty of an offence under section 74, 75 or 76, subsection 77(1) or section 77.01 or 77.1 of the `Proceeds of Crime (Money Laundering) and Terrorist Financing Act`;
 
-the Director of the Centre, under subsection 73.15(4) of that Act, has caused a notice of a decision or of an imposed penalty to be issued and served on the payment service provider in respect of a serious violation, **a** very serious violation or **a compliance order violation** under that Act;
+the Director of the Centre, under subsection 73.15(4) of that Act, has caused a notice of a decision or of an imposed penalty to be issued and served on the payment service provider in respect of a serious violation, a very serious violation or a compliance order violation under that Act;
 
 
 #### `Proceeds of Crime (Money Laundering) and Terrorist Financing Administrative Monetary Penalties Regulations`
@@ -1722,13 +1784,13 @@ The portion of section 3 of the `Proceeds of Crime (Money Laundering) and Terror
 
 ### Section 3
 
-The contravention of any of the following provisions is a violation that may be proceeded with under **Part 4.1** of the Act:
+The contravention of any of the following provisions is a violation that may be proceeded with under Part 4.1 of the Act:
 
 ### Section 117
 
 Subsection 4(2) of the Regulations is replaced by the following:
 
-**(2)** A series of minor violations identified on a notice of violation shall be considered to be a serious violation for the purpose of section 73.21 of the Act if the total of the penalties for the violations set out in the notice is equal to or greater than $**400,000**.
+**(2)** A series of minor violations identified on a notice of violation shall be considered to be a serious violation for the purpose of section 73.21 of the Act if the total of the penalties for the violations set out in the notice is equal to or greater than $400,000.
 
 ### Section 118
 
@@ -1736,13 +1798,13 @@ Section 5 of the Regulations is replaced by the following:
 
 ### Section 5
 
-Subject to **subsections** 73.1(2) **and (3)** of the Act, the range of penalties in respect of a violation is
+Subject to subsections 73.1(2) and (3) of the Act, the range of penalties in respect of a violation is
 
-$1 to $**40,000** in the case of a minor violation;
+$1 to $40,000 in the case of a minor violation;
 
-$1 to $**4,000,000** in the case of a serious violation; and
+$1 to $4,000,000 in the case of a serious violation; and
 
-$1 to $**20,000,000** in the case of a very serious violation.
+$1 to $20,000,000 in the case of a very serious violation.
 
 ### Section 119
 
@@ -1817,21 +1879,21 @@ The `Proceeds of Crime (Money Laundering) and Terrorist Financing Act` is amende
 
 ### Section 2
 
-      **(1)** The purpose of this Act is to help police services **and other law enforcement agencies** prevent and investigate crimes of a sexual nature by requiring the registration of certain information relating to sex offenders.
+      **(1)** The purpose of this Act is to help police services and other law enforcement agencies prevent and investigate crimes of a sexual nature by requiring the registration of certain information relating to sex offenders.
 
   **(2)** Paragraph 2(2)(a) of the Act is replaced by the following:
 
-    in the interest of protecting society through the effective prevention and investigation of crimes of a sexual nature, police services **and other law enforcement agencies** must have rapid access to certain information relating to sex offenders;
+    in the interest of protecting society through the effective prevention and investigation of crimes of a sexual nature, police services and other law enforcement agencies must have rapid access to certain information relating to sex offenders;
 
   **(3)** Subparagraph 2(2)(c)(i) of the Act is replaced by the following:
 
-    the information be collected only to enable police services **and other law enforcement agencies** to prevent or investigate crimes of a sexual nature, and
+    the information be collected only to enable police services and other law enforcement agencies to prevent or investigate crimes of a sexual nature, and
 
 ### Section 128
 
   **(1)** Paragraph (b) of the definition **member of a police service** in subsection 3(1) of the English version of the Act is replaced by the following:
 
-    in an area in which an **Indigenous** police service is responsible for policing, a member of that police service. (**membre d'un service de police**)
+    in an area in which an Indigenous police service is responsible for policing, a member of that police service. (**membre d'un service de police**)
 
   **(2)** Subsection 3(1) of the Act is amended by adding the following in alphabetical order:
 
@@ -1841,7 +1903,7 @@ The `Proceeds of Crime (Money Laundering) and Terrorist Financing Act` is amende
 
 Paragraph 4(1)(d) of the Act is replaced by the following:
 
-they are released from custody **on** the **expiry** of **the** sentence for the offence in connection with which the order is made **or on statutory release, full parole or day parole, as those terms are defined in subsection 99(1) of the `Corrections and Conditional Release Act`, or work release as defined in subsection 18(1) of that Act**.
+they are released from custody on the expiry of the sentence for the offence in connection with which the order is made or on statutory release, full parole or day parole, as those terms are defined in subsection 99(1) of the `Corrections and Conditional Release Act`, or work release as defined in subsection 18(1) of that Act.
 
 ### Section 130
 
@@ -1857,7 +1919,7 @@ they are released from custody **on** the **expiry** of **the** sentence for the
 
 Subsection 5(3) of the Act is replaced by the following:
 
-**(3)** When a sex offender reports to a registration centre in person, the person who collects the information referred to in subsection (1) may record any **physical** characteristic that may assist in the sex **offender's** identification, including their eye colour, hair colour and **any tattoos and distinguishing marks**, and may require that **the sex offender's** photograph be taken.
+**(3)** When a sex offender reports to a registration centre in person, the person who collects the information referred to in subsection (1) may record any physical characteristic that may assist in the sex offender's identification, including their eye colour, hair colour and any tattoos and distinguishing marks, and may require that the sex offender's photograph be taken.
 
 ### Section 132
 
@@ -1885,7 +1947,7 @@ in the case of an arrival in or departure from Canada by aircraft, the flight co
 
   **(1)** Paragraph 16(2)(b.1) of the Act is replaced by the following:
 
-    a **member or employee of, or a person retained by, a police service** who consults information at a registration centre designated under the `National Defence Act` to verify compliance by a sex offender who is subject to the Code of Service Discipline — or who is an officer, or non-commissioned member, of the primary reserve as defined in section 227 of the `National Defence Act` — with an order or with an obligation under section 490.019 or 490.02901 of the `Criminal Code`, section 227.06 of the `National Defence Act` or section 36.1 of the `International Transfer of Offenders Act`;
+    a member or employee of, or a person retained by, a police service who consults information at a registration centre designated under the `National Defence Act` to verify compliance by a sex offender who is subject to the Code of Service Discipline — or who is an officer, or non-commissioned member, of the primary reserve as defined in section 227 of the `National Defence Act` — with an order or with an obligation under section 490.019 or 490.02901 of the `Criminal Code`, section 227.06 of the `National Defence Act` or section 36.1 of the `International Transfer of Offenders Act`;
 
   **(2)** Subsection 16(2) of the Act is amended by adding the following after paragraph (c):
 
@@ -1893,19 +1955,19 @@ in the case of an arrival in or departure from Canada by aircraft, the flight co
 
   **(3)** The portion of paragraph 16(4)(c) of the Act before subparagraph (i) is replaced by the following:
 
-    unless the disclosure is to a member or employee of, or a person retained by, a **law enforcement agency** and **there are reasonable grounds to believe that the disclosure will**
+    unless the disclosure is to a member or employee of, or a person retained by, a law enforcement agency and there are reasonable grounds to believe that the disclosure will
 
   **(4)** Subparagraphs 16(4)(c)(i) to (iv) of the English version of the Act are replaced by the following:
 
-    **assist** them **in the investigation of** an offence under section 17 or **in the laying of** a charge for such an offence,
+    assist them in the investigation of an offence under section 17 or in the laying of a charge for such an offence,
 
-    **assist** them **in the verification of** the sex offender's compliance with section 5,
+    assist them in the verification of the sex offender's compliance with section 5,
 
-    **assist** them **in the prevention** or **investigation of** a crime of a sexual nature, an offence under section 119.1 of the `National Defence Act`, an offence under section 490.031 or 490.0311 of the `Criminal Code` or an offence under either of those provisions that is punishable under section 130 of the `National Defence Act` or **assist** them **in the laying of** a charge for such an offence,
+    assist them in the prevention or investigation of a crime of a sexual nature, an offence under section 119.1 of the `National Defence Act`, an offence under section 490.031 or 490.0311 of the `Criminal Code` or an offence under either of those provisions that is punishable under section 130 of the `National Defence Act` or assist them in the laying of a charge for such an offence,
 
-    **assist** them **in the investigation of** a criminal offence or a service offence, **as defined in** subsection 2(1) of the `National Defence Act` or **in the laying of** a charge for such an offence, as long as the investigation or charge results from an investigation referred to in subparagraph (ii), or
+    assist them in the investigation of a criminal offence or a service offence, as defined in subsection 2(1) of the `National Defence Act` or in the laying of a charge for such an offence, as long as the investigation or charge results from an investigation referred to in subparagraph (ii), or
 
-    **assist** them **in obtaining** a warrant under subsection 490.03121(1) of the `Criminal Code` and **executing** the warrant;
+    assist them in obtaining a warrant under subsection 490.03121(1) of the `Criminal Code` and executing the warrant;
 
   **(5)** Subsection 16(4) of the Act is amended by adding the following after paragraph (c):
 
@@ -1915,9 +1977,9 @@ in the case of an arrival in or departure from Canada by aircraft, the flight co
 
   **(6)** Paragraphs 16(4)(j.1) and (j.2) of the Act are replaced by the following:
 
-    unless the disclosure is to a member or employee of, or a person retained by, a **law enforcement agency** outside Canada and **there are reasonable grounds** to **believe the disclosure will** assist them in the prevention or investigation of a crime of a sexual nature;
+    unless the disclosure is to a member or employee of, or a person retained by, a law enforcement agency outside Canada and there are reasonable grounds to believe the disclosure will assist them in the prevention or investigation of a crime of a sexual nature;
 
-    unless the disclosure is to the Canada Border Services Agency, **it** is limited to the information referred to in paragraphs 5(1)(a), (b), (i) and (j) and **there are reasonable grounds** to **believe that it will** assist a member or employee of, or a person retained by, a **law enforcement agency** in the prevention or investigation of a crime of a sexual nature or an offence under section 490.031 or 490.0311 of the `Criminal Code` or in the laying of a charge for such an offence;
+    unless the disclosure is to the Canada Border Services Agency, it is limited to the information referred to in paragraphs 5(1)(a), (b), (i) and (j) and there are reasonable grounds to believe that it will assist a member or employee of, or a person retained by, a law enforcement agency in the prevention or investigation of a crime of a sexual nature or an offence under section 490.031 or 490.0311 of the `Criminal Code` or in the laying of a charge for such an offence;
 
 ### Section 135
 
@@ -1925,7 +1987,7 @@ Section 17 of the Act is replaced by the following:
 
 ### Section 17
 
-  ****(1)**** Every person who knowingly contravenes any of subsections 16(1) to (5) is guilty of an offence and liable on summary conviction to a fine of not more than $10,000 or to imprisonment for a term of not more than six months, or to both.
+  **(1)** Every person who knowingly contravenes any of subsections 16(1) to (5) is guilty of an offence and liable on summary conviction to a fine of not more than $10,000 or to imprisonment for a term of not more than six months, or to both.
 
   **(2)** For greater certainty, a person is not guilty of an offence under subsection (1) if they believed that they were acting in accordance with section 16.
 
