@@ -1,6 +1,8 @@
 # Bill S-233: An Act to amend the Criminal Code (assault against
 persons who provide health services and first responders)
 
+**Sponsor**: Senator HOUSAKOS
+
 ## Summary
 
 This enactment amends the `Criminal Code` to require a court to
@@ -38,4 +40,8 @@ to 269, it shall consider as an aggravating circumstance
 the fact that the victim of the offence was, at the time of
 the commission of the offence, a person who provides health services, including personal care services, or a first
 responder engaged in the performance of their duty.
+
+
+> **Explanatory Note**:
+> New.
 
