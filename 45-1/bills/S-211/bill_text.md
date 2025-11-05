@@ -1,5 +1,7 @@
 # Bill S-211: An Act respecting a national framework on sports betting advertising
 
+**Sponsor**: Senator DEACON (ONTARIO)
+
 ## Summary
 
 This enactment provides for the development of a national framework to regulate sports betting advertising in Canada and to set national standards for the prevention of risk for persons negatively impacted. It also provides for the Canadian Radio-television and Telecommunications Commission to review its regulations and policies to assess their adequacy and effectiveness in reducing the incidence of harms resulting from the proliferation of sports betting advertising.
