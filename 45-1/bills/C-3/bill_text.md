@@ -1,7 +1,5 @@
 # Bill C-3: An Act to amend the Citizenship Act (2025)
 
-**Sponsor**: MINISTER OF IMMIGRATION, REFUGEES AND CITIZENSHIP
-
 ## Summary
 
 This enactment amends the `Citizenship Act` to, among other things,
@@ -73,7 +71,7 @@ His Majesty, by and with the advice and consent of the Senate and House of Commo
 
       both of the person's parents were citizens under any of paragraphs (1)(b), (c.1), (e) to (j) and (o) to (r) and were born outside Canada and, in the case of a parent who was a citizen under paragraph (1)(f), that parent was born to a parent who was a citizen at the time of their birth, and
 
-      neither of the person's parents who was a citizen was physically present in Canada for at least 1,095 days **during any period of five consecutive years** before the person's birth; or
+      neither of the person's parents who was a citizen was physically present in Canada for at least 1,095 days before the person's birth; or
 
       if
 
@@ -95,15 +93,7 @@ His Majesty, by and with the advice and consent of the Senate and House of Commo
 
       paragraph 4(1)(b) or 5(1)(b) or subsection 42(1) of the former Act, and
 
-      neither of the person's parents who was a citizen was physically present in Canada for at least 1,095 days **during any period of five consecutive years** before the person's birth.
-
-    **(3.1)** Paragraph (1)(b) does not apply to a person born outside Canada on or after the day on which `An Act to amend the Citizenship Act (2025)` comes into force if the person
-
-      is 18 years of age or more but less than 55 years of age and does not have an adequate knowledge of one of the official languages of Canada;
-
-      is 18 years of age or more but less than 55 years of age and does not have an adequate knowledge of Canada and of the responsibilities and privileges of citizenship, as demonstrated in one of the official languages of Canada; or
-
-      is 18 years of age or more and has not undergone a security assessment to determine whether or not they would be inadmissible under any of sections 34 to 37 of the `Immigration and Refugee Protection Act`.
+      neither of the person's parents who was a citizen was physically present in Canada for at least 1,095 days before the person's birth.
 
   **(9)** Subsections 3(4) and (4.1) of the Act are repealed.
 
@@ -159,21 +149,13 @@ is born outside Canada on or after the day on which `An Act to amend the Citizen
 
       both of the person's adoptive parents were citizens under any of paragraphs 3(1)(b), (c.1), (e) to (j) and (o) to (r) and were born outside Canada and, in the case of an adoptive parent who was a citizen under paragraph 3(1)(f), that adoptive parent was born to a parent who was a citizen at the time of the adoptive parent's birth, and
 
-      neither of the person's adoptive parents who was a citizen was physically present in Canada for at least 1,095 days **during any period of five consecutive years** before the person's adoption; or
+      neither of the person's adoptive parents who was a citizen was physically present in Canada for at least 1,095 days before the person's adoption; or
 
       if
 
       at any time, only one of the person's adoptive parents was a citizen and that adoptive parent was a citizen under any of the provisions referred to in clauses 3(3)(b)(i)(A) to (H) or both of the person's adoptive parents were citizens under any of those provisions, and
 
-      neither of the person's adoptive parents who was a citizen was physically present in Canada for at least 1,095 days **during any period of five consecutive years** before the person's adoption.
-
-    **(4.1)** No person who is adopted on or after the day on which `An Act to amend the Citizenship Act (2025)` comes into force may be granted citizenship under any of subsections (1) to (3) if the person
-
-      is 18 years of age or more but less than 55 years of age at the date of his or her application and does not have an adequate knowledge of one of the official languages of Canada;
-
-      is 18 years of age or more but less than 55 years of age at the date of his or her application and does not have an adequate knowledge of Canada and of the responsibilities and privileges of citizenship, as demonstrated in one of the official languages of Canada; or
-
-      is 18 years of age or more and has not undergone a security assessment to determine whether or not they would be inadmissible under any of sections 34 to 37 of the `Immigration and Refugee Protection Act`.
+      neither of the person's adoptive parents who was a citizen was physically present in Canada for at least 1,095 days before the person's adoption.
 
   **(2)** Subsection 5.1(6) of the Act is replaced by the following:
 
@@ -187,35 +169,11 @@ The portion of section 5.2 of the Act before paragraph (a) is replaced by the fo
 
 A person born outside Canada who was adopted by a parent referred to in paragraph (a) or (b) and who is either a citizen under prior legislation or the former Act — other than under any provision referred to in any of clauses 3(3)(b)(i)(A) to (H) — or was granted citizenship under paragraph 5(2)(a) of this Act, as it read before April 17, 2009, or under subsection 5(1), (2), or (4) or 11(1) of this Act is deemed, as of the coming into force of this section, to have been granted citizenship under section 5.1:
 
-### Section 5.1
-
-The Act is amended by adding the following after section 26:
-
-### Section 26.1
-
-  **(1)** Within three months after the end of each fiscal year, the Minister must prepare a report for the previous year that sets out the number of persons who become citizens as a result of the coming into force of `An Act to amend the Citizenship Act (2025)`, their countries of citizenship other than Canada, if any, their most recent country of residence and the provisions of this Act under which they are citizens.
-
-  **(2)** The Minister must cause the report to be laid before each House of Parliament on any of the first 15 days on which that House is sitting after the report is completed.
-
 ### Section 6
 
-  **(1)** Subsection 27(1) of the Act is amended by adding the following after paragraph (c):
+Paragraph 27(1)(j.1) of the Act is amended by striking out "or" at the end of subparagraph (ii), by adding "or" at the end of subparagraph (iii) and by adding the following after subparagraph (iii):
 
-    respecting the length of physical presence in Canada required under subparagraphs 3(3)(a)(ii), 3(3)(b)(ii), 5.1(4)(a)(ii) and 5.1(4)(b)(ii), including the manner of calculating the length of physical presence, any documents required to demonstrate that a person meets the requirement and the circumstances in which the requirement does not apply;
-
-  **(**2**)** Paragraph 27(1)(j.1) of the Act is amended by striking out "or" at the end of subparagraph (ii), by adding "or" at the end of subparagraph (iii) and by adding the following after subparagraph (iii):
-
-    who are citizens as a result of the coming into force of `An Act to amend the Citizenship Act (2025)`, who were born before the day on which that Act comes into force and who did not, before that day, become citizens by way of grant as defined in subsection 3(9);
-
-### Section 6.1
-
-The Act is amended by adding the following after section 27:
-
-### Section 27.01
-
-  **(1)** Within three months after the end of each fiscal year, the Minister must prepare a report for the previous year that sets out the number of persons in respect of whom the requirement to undergo a security assessment under paragraphs 3(3.1)(c) or 5.1(4.1)(c) was waived and the reasons for which it was waived.
-
-  **(2)** The Minister must cause the report to be laid before each House of Parliament on any of the first 15 days on which that House is sitting after the report is completed.
+who are citizens as a result of the coming into force of `An Act to amend the Citizenship Act (2025)`, who were born before the day on which that Act comes into force and who did not, before that day, become citizens by way of grant as defined in subsection 3(9);
 
 
 ## Coming into Force
