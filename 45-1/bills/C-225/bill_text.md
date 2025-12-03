@@ -4,11 +4,13 @@
 
 This enactment amends the `Criminal Code` in order to:
 
-create specific offences in respect of intimate partner violence and to prohibit a peace officer from releasing a person arrested for an intimate partner offence if the person has committed an intimate partner offence in the preceding five years or is at large on a release order in respect of an intimate partner offence;
+create a new specific offence of murder in the first degree if the murder is committed against an intimate partner in the context of a pattern of coercive or controlling conduct;
 
-allow a court to order that an accused charged with an offence involving intimate partner violence be taken into custody for a risk-of-reoffending assessment at any stage of proceedings; and
+provide that, if an offender commits manslaughter against their intimate partner while engaging in, or after having engaged in, a pattern of coercive or controlling conduct, the court must consider whether to impose a sentence of imprisonment for life on the offender and, if that sentence is imposed, an adult offender is ineligible for parole for 10 to 25 years;
 
-increase the detention period of things seized under section 490 of the Act from three months to one year and to provide for circumstances in which notices to the person from whom the thing was seized may be dispensed with.
+create new offences in respect of included offences in which violence is used, threatened or attempted against an intimate partner; and
+
+increase the detention period of things seized under section 490 of the Act from three months to 180 days.
 
 His Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
@@ -19,141 +21,274 @@ His Majesty, by and with the advice and consent of the Senate and House of Commo
 
 Section 231 of the `Criminal Code` is amended by adding the following after subsection (3):
 
-**(3.1)** Irrespective of whether a murder is planned and deliberate on the part of any person, murder is first degree murder when the victim is that person's intimate partner.
+**(3.1)** Irrespective of whether a murder is planned and deliberate on the part of any person, murder is first degree murder when the victim is that person's intimate partner **and the death is caused by that person while engaging in, or after having engaged in, a pattern of coercive or controlling conduct with intent to cause the victim to believe that the victim's physical or psychological safety is threatened**.
+
+### Section 1.1
+
+Section 236 of the Act is renumbered as subsection 236(1) and is amended by adding the following:
+
+**(2)** The court that imposes a sentence for manslaughter shall consider imposing a sentence of imprisonment for life if the person committed the manslaughter against their intimate partner while engaging in, or after having engaged in, a pattern of coercive or controlling conduct with intent to cause their intimate partner to believe that their physical or psychological safety is threatened.
 
 ### Section 2
 
-The Act is amended by adding the following after section 264:
+The Act is amended by adding the following after section **263**:
 
-### Section 264.01
+### Section 263.1
 
-  **(1)** No person shall, without lawful authority and knowing that their intimate partner is harassed or being reckless as to whether their intimate partner is harassed, engage in any of the following conduct that causes their intimate partner reasonably, in all the circumstances, to fear for their safety or the safety of anyone known to their intimate partner:
+  **(1)** Everyone who commits an offence — referred to in this section as the "included offence" — in which violence is used, threatened or attempted against their intimate partner is
 
-    repeatedly following from place to place their intimate partner or anyone known to them;
+    guilty of an indictable offence and liable to the punishment provided for in subsection (3); or
 
-    repeatedly communicating with, either directly or indirectly, their intimate partner or anyone known to them;
+    guilty of an offence punishable on summary conviction.
 
-    besetting or watching the dwelling-house, or place where their intimate partner, or anyone known to them, resides, works, carries on business or happens to be; or
+  **(2)** No proceedings under subsection (1) shall be
 
-    engaging in threatening conduct directed at their intimate partner or any member of their intimate partner's family.
+    commenced by way of indictment if the included offence may be prosecuted only by way of summary conviction proceedings; or
 
-  **(2)** Every person who contravenes subsection (1) is guilty of
+    commenced by way of summary conviction proceedings if the included offence may be prosecuted only by way of indictment.
 
-    an indictable offence and is liable to imprisonment for a term not exceeding 10 years; or
+  **(3)** Everyone who is found guilty of an indictable offence under subsection (1) is liable to a term of imprisonment of not more than
 
-    an offence punishable on summary conviction.
+    five years, if the maximum term of imprisonment for the included offence is two years or more but less than five years;
+
+    10 years, if the maximum term of imprisonment for the included offence is five years or more but less than 10 years;
+
+    14 years, if the maximum term of imprisonment for the included offence is 10 years or more but less than 14 years; or
+
+    life, if the maximum term of imprisonment for the included offence is 14 years or more and up to imprisonment for life.
+
+  **(4)** Subject to paragraphs (1)(a) and (b) and subsections (2) and (3), any provision of this Act or any other Act of Parliament — including one in respect of procedure, orders or consequences — that would have been applicable in relation to the included offence applies in relation to an offence under subsection (1).
 
 ### Section 3
 
-The Act is amended by adding the following after section 264.1:
-
-### Section 264.2
-
-  **(1)** Everyone commits an offence who, in any manner, knowingly utters, conveys to their intimate partner or causes them to receive a threat
-
-    to cause death or bodily harm to any person;
-
-    to burn, destroy or damage real or personal property; or
-
-    to kill, poison or injure an animal or bird that is the property of any person.
-
-  **(2)** Everyone who commits an offence under paragraph (1)(a) is guilty of
-
-    an indictable offence and liable to imprisonment for a term not exceeding 10 years; or
-
-    an offence punishable on summary conviction.
-
-  **(3)** Everyone who commits an offence under paragraph (1)(b) or (c) is guilty of
-
-    an indictable offence and liable to imprisonment for a term not exceeding four years; or
-
-    an offence punishable on summary conviction.
+[*Deleted*]
 
 ### Section 4
 
-The Act is amended by adding the following after section 266:
-
-### Section 266.1
-
-Everyone who commits an assault against their intimate partner is guilty of
-
-an indictable offence and is liable to imprisonment for a term not exceeding 10 years; or
-
-an offence punishable on summary conviction.
+[*Deleted*]
 
 ### Section 5
 
-The Act is amended by adding the following after section 267:
-
-### Section 267.1
-
-  **(1)** Everyone commits an offence who, in committing an assault against their intimate partner,
-
-    carries, uses or threatens to use a weapon or an imitation of one;
-
-    causes bodily harm to the complainant; or
-
-    chokes, suffocates or strangles the complainant.
-
-  **(2)** Everyone who commits an offence under subsection (1) is guilty of
-
-    an indictable offence and liable to imprisonment for a term of not more than 12 years; or
-
-    an offence punishable on summary conviction.
+[*Deleted*]
 
 ### Section 6
 
-The Act is amended by adding the following after section 268:
-
-### Section 268.1
-
-  **(1)** Everyone commits an aggravated assault against their intimate partner who wounds, maims, disfigures or endangers the life of their intimate partner.
-
-  **(2)** Everyone who commits an aggravated assault against their intimate partner is guilty of an indictable offence and liable to imprisonment for a term not exceeding 14 years.
+[*Deleted*]
 
 ### Section 7
 
-  **(1)** The portion of subsection 490(2) of the Act before paragraph (a) is replaced by the following:
+The portion of subsection 490(2) of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** Nothing shall be detained under the authority of paragraph (1)(b) for a period of more than **one year** after the day of the seizure, or any longer period that ends when an application made under paragraph (a) is decided, unless
+**(2)** Nothing shall be detained under the authority of paragraph (1)(b) for a period of more than **180 days** after the day of the seizure, or any longer period that ends when an application made under paragraph (a) is decided, unless
 
-  **(2)** The portion of subsection 490(3) of the Act before paragraph (a) is replaced by the following:
+**(2)** [*Deleted*]
 
-    **(3)** More than one order for further detention may be made under paragraph (2)(a) but the cumulative period of detention shall not exceed **two years after** the day of the seizure, or any longer period that ends when an application made under paragraph (a) is decided, unless
+**(3)** [*Deleted*]
 
-  **(3)** Paragraph 490(3)(a) of the Act is replaced by the following:
-
-    a judge of a superior court of criminal jurisdiction or a judge as defined in section 552, on the making of a summary application to him after three clear days notice thereof to the person from whom the thing detained was seized, is satisfied that the further detention of the thing seized is warranted for a specified period and subject to such other conditions as the judge considers just, and the judge so orders; or
-
-  **(4)** Section 490 of the Act is amended by adding the following after subsection (3.1):
-
-    **(3.2)** Within 30 days after the day of the seizure, the prosecutor or the peace officer or other person having custody of the thing seized shall give notice, in the form prescribed by regulation, to the lawful owner or person who is lawfully entitled to possession of the thing seized of their right to challenge the detention of the thing seized.
-
-    **(3.3)** A justice, a judge of a superior court of criminal jurisdiction or a *judge* as defined in section 552 may proceed *ex parte* and hold a hearing *in camera* to determine an application for an order made under subsection (2) or (3) in the absence of the person from whom the thing detained was seized if the justice or judge is of the opinion that there are reasonable grounds to believe that the conduct of an investigation of the offence to which the thing seized relates would be jeopardized if the person were notified of the seizure.
+**(4)** [*Deleted*]
 
 ### Section 8
 
-The Act is amended by adding the following after section 499:
+[*Deleted*]
 
-### Section 499.1
+### Section 8.1
 
-  **(1)** Despite sections 498 and 499, a peace officer shall not release a person who has been arrested for an intimate partner offence if the person
+Paragraph 515(6)(b.1) of the Act is replaced by the following:
 
-    was convicted of an intimate partner offence in the five years preceding the day on which the arrest was made; or
+with an offence in the commission of which violence was allegedly used, threatened or attempted against their intimate partner, and the accused
 
-    was, immediately before the arrest, at large on a release order in respect of an intimate partner offence.
+has been previously convicted or discharged under section 730 of an offence in the commission of which violence was used, threatened or attempted against any intimate partner of the accused, or
 
-  **(2)** In this section, **intimate partner offence** means an offence under any of sections 264 to 268 if the victim is an intimate partner of the accused.
+was, at the time the offence is alleged to have been committed, subject to a recognizance entered into under section 810, 810.02, 810.03, 810.1 or 810.2, in the case where the information for the recognizance was laid on behalf of any intimate partner of the accused;
 
 ### Section 9
 
-The Act is amended by adding the following after section 523:
+[*Deleted*]
 
-### Section 523.01
+### Section 10
 
-  **(1)** A court having jurisdiction over an accused in respect of an offence in the commission of which violence was allegedly used, threatened or attempted against their intimate partner may order that the accused be detained in custody for seven days to undergo a risk-of-reoffending assessment, if it has reasonable grounds to believe that such evidence is necessary to determine whether to make an order under subsection 523(2) in order to protect the intimate partner.
+Section 662 of the Act is amended by adding the following after subsection (5):
 
-  **(2)** The court may make a risk-of-reoffending assessment order at any stage of proceedings against the accused of its own motion, on application of the prosecutor or on application of the accused's intimate partner.
+**(5.1)** For greater certainty, if a count charges an offence under subsection 263.1(1) and the evidence does not prove that offence but proves an included offence, the accused may be found guilty of the offence that is proved.
 
-  **(3)** An accused in respect of whom a risk-of-reoffending assessment order is made shall appear before the court that made the order as soon as practicable after the assessment is completed.
+### Section 11
+
+Paragraph (b) of the definition sentence in section 673 of the Act is replaced by the following:
+
+an order made under subsection 109(1) or 110(1), section 161, subsection 164.2(1) or 194(1), section 320.24 or 462.37, subsection 491.1(2), 730(1) or 737(2.1) or (3) or section 738, 739, 742.1, 742.3, 743.6, 745.4, 745.5 or 745.52,
+
+### Section 12
+
+  **(1)** Subsection 675(2) of the Act is replaced by the following:
+
+    **(2)** A person who has been convicted of second degree murder, or of manslaughter in the circumstances set out in subsection 236(2), and sentenced to imprisonment for life without eligibility for parole for a specified number of years in excess of 10 may appeal to the court of appeal against the number of years in excess of 10 of their imprisonment without eligibility for parole.
+
+  **(2)** Subsection 675(2.2) of the Act is replaced by the following:
+
+    **(2.2)** A person who was under the age of 18 at the time of the commission of the offence for which the person was convicted of first degree murder, second degree murder or manslaughter in the circumstances set out in subsection 236(2) and was sentenced to imprisonment for life without eligibility for parole until the person has served the period specified by the judge presiding at the trial may appeal to the court of appeal against the number of years in excess of the minimum number of years of imprisonment without eligibility for parole that are required to be served in respect of that person's case.
+
+### Section 13
+
+Subsection 676(4) of the Act is replaced by the following:
+
+**(4)** The Attorney General or counsel instructed by the Attorney General for the purpose may appeal to the court of appeal in respect of a conviction for second degree murder or manslaughter in the circumstances set out in subsection 236(2), against the number of years of imprisonment without eligibility for parole, being less than 25, that has been imposed as a result of that conviction.
+
+### Section 14
+
+Subsection 718.3(8) of the Act is repealed.
+
+### Section 15
+
+The Act is amended by adding the following after section 726.1:
+
+### Section 726.11
+
+When an offender is found guilty of an offence under subsection 263.1(1), the court shall endorse, on the information or indictment, the included offence that has been proved by the evidence and, in the absence of evidence to the contrary, the endorsement is proof of that fact.
+
+### Section 16
+
+Section 745 of the Act is amended by striking out "and" at the end of paragraph (c) and by adding the following after that paragraph:
+
+in respect of a person who has been convicted of manslaughter in the circumstances set out in subsection 236(2), that the person be sentenced to imprisonment for life without eligibility for parole until the person has served at least 10 years of the sentence or the greater number of years, not being more than 25 years, that has been substituted for that 10 years under paragraph 745.52(1)(a); and
+
+### Section 17
+
+  **(1)** The portion of section 745.1 of the Act before paragraph (a) is replaced by the following:
+
+### Section 745.1
+
+    The sentence to be pronounced against a person who was under the age of 18 at the time of the commission of the offence for which the person was convicted of first degree murder, second degree murder or manslaughter in the circumstances set out in subsection 236(2) and who is to be sentenced to imprisonment for life shall be that the person be sentenced to imprisonment for life without eligibility for parole until the person has served
+
+  **(2)** Paragraph 745.1(c) of the Act is replaced by the following:
+
+    seven years, in the case of a person who was convicted of second degree murder or of manslaughter in the circumstances set out in subsection 236(2) and who was 16 or 17 years of age at the time of the commission of the offence.
+
+### Section 18
+
+The Act is amended by adding the following after section 745.51:
+
+### Section 745.52
+
+  **(1)** At the time of sentencing under paragraph 745(c.1) or 745.1(a) of an offender who is convicted of manslaughter in the circumstances set out in subsection 236(2), the judge who presided at the trial of the offender — or, if that judge is unable to do so, any judge of the same court — may, by order and as the judge considers fit in the circumstances,
+
+    substitute for 10 years a greater number of years, of up to 25, of imprisonment without eligibility for parole, in the case of a sentencing under paragraph 745(c.1); or
+
+    decide the period of imprisonment the offender is to serve that is between five and seven years without eligibility for parole, in the case of a sentencing under paragraph 745.1(a).
+
+  **(2)** For the purposes of subsection (1), the judge shall have regard to the character of the offender, the nature of the offence and the circumstances surrounding its commission and, in respect of a decision under paragraph (1)(b), the age of the offender.
+
+### Section 19
+
+The portion of section 746 of the Act before paragraph (a) is replaced by the following:
+
+### Section 746
+
+In calculating the period of imprisonment served for the purposes of section 745, 745.1, 745.4, 745.5, 745.52 or 745.6, there shall be included any time spent in custody between
+
+
+## Transitional Provisions
+
+### Section 20
+
+Subsection 236(2) of the `Criminal Code` does not apply with respect to an offence that is committed before the 30th day after the day on which this Act receives royal assent.
+
+### Section 20.1
+
+Subsection 490(2) of the `Criminal Code`, as amended by section 7, applies with respect to any matter or proceeding that is ongoing on the 30th day after the day on which this Act receives royal assent.
+
+
+## Coordinating Amendments
+
+### Section 21
+
+  **(1)** This section applies if Bill C-16, introduced in the 1st session of the 45th Parliament and entitled the `Protecting Victims Act` (in this section referred to as the "other Act"), receives royal assent.
+
+  **(2)** If section 25 of the other Act comes into force before section 1 of this Act, then that section 1 is repealed.
+
+  **(3)** If section 1 of this Act comes into force before section 25 of the other Act, then, on the day on which that section 25 comes into force, subsection 231(3.1) of the `Criminal Code` is repealed.
+
+  **(4)** If section 25 of the other Act and section 1 of this Act come into force on the same day, then that section 1 is deemed never to have come into force and is repealed.
+
+### Section 22
+
+  **(1)** *This section applies if Bill C-16, introduced in the 1st session of the 45th Parliament and entitled the `Protecting Victims Act` (in this section referred to as the "other Act"), receives royal assent.*
+
+  **(2)** If section 26 of the other Act comes into force before section 1.1 of this Act, then that section 1.1 and section 20 of this Act are repealed.
+
+  **(3)** *If section 1.1 of this Act comes into force before section 26 of the other Act, then*
+
+    that section 26 is amended by replacing "Section 236 of the Act is renumbered as subsection 236(1) and is amended by adding" with "Subsection 236(2) of the Act is replaced by"; and
+
+    section 98 of the other Act is replaced with the following:
+
+    Paragraphs 236(2)(b) to (d) of the Act do not apply with respect to an offence that is committed before the commencement day.
+
+  **(4)** If section 26 of the other Act and section 1.1 of this Act come into force on the same day, then that section 1.1 and section 20 of this Act are deemed never to have come into force and are repealed.
+
+  **(5)** If section 55 of the other Act comes into force before section 11 of this Act, then that section 11 is repealed.
+
+  **(6)** If section 11 of this Act comes into force before section 55 of the other Act, then that section 55 is repealed.
+
+  **(7)** If section 55 of the other Act and section 11 of this Act come into force on the same day, then that section 11 is deemed never to have come into force and is repealed.
+
+  **(8)** If section 56 of the other Act comes into force before section 12 of this Act, then that section 12 is repealed.
+
+  **(9)** If section 56 of the other Act and section 12 of this Act come into force on the same day, then that section 12 is deemed never to have come into force and is repealed.
+
+  **(10)** If section 57 of the other Act comes into force before section 13 of this Act, then that section 13 is repealed.
+
+  **(11)** If section 57 of the other Act and section 13 of this Act come into force on the same day, then that section 13 is deemed never to have come into force and is repealed.
+
+  **(12)** If section 72 of the other Act comes into force before section 16 of this Act, then that section 16 is repealed.
+
+  **(13)** If section 16 of this Act comes into force before section 72 of the other Act, then that section 72 is amended by replacing "Section 745 of the Act is amended by striking out "and" at the end of paragraph (c) and by adding the following after that paragraph" with "Paragraph 745(c.1) of the Act is replaced by the following".
+
+  **(14)** If section 72 of the other Act and section 16 of this Act come into force on the same day, then that section 16 is deemed never to have come into force and is repealed.
+
+  **(15)** If section 73 of the other Act comes into force before section 17 of this Act, then that section 17 is repealed.
+
+  **(16)** If section 73 of the other Act and section 17 of this Act come into force on the same day, then that section 17 is deemed never to have come into force and is repealed.
+
+  **(17)** If section 74 of the other Act comes into force before section 18 of this Act, then that section 18 is repealed.
+
+  **(18)** If section 18 of this Act comes into force before section 74 of the other Act, then that section 74 is amended by replacing "The Act is amended by adding the following after section 745.51" with "Section 745.52 of the Act is replaced by the following".
+
+  **(19)** If section 74 of the other Act and section 18 of this Act come into force on the same day, then that section 18 is deemed never to have come into force and is repealed.
+
+  **(20)** If section 75 of the other Act comes into force before section 19 of this Act, then that section 19 is repealed.
+
+  **(21)** If section 19 of this Act comes into force before section 75 of the other Act, then that section 75 is repealed.
+
+  **(22)** If section 75 of the other Act and section 19 of this Act come into force on the same day, then that section 19 is deemed never to have come into force and is repealed.
+
+### Section 23
+
+  **(1)** *This section applies if Bill C-16, introduced in the 1st session of the 45th Parliament and entitled the `Protecting Victims Act` (in this section referred to as the "other Act"), receives royal assent.*
+
+  **(2)** *On the first day on which subsection 2(1) of the other Act and section 2 of this Act are in force, subsection 3.01(2) of the `Criminal Code` is amended by adding the following after paragraph (b):*
+
+    subsection 263.1(1);
+
+  **(3)** If subsection 2(1) of the other Act comes into force before section 14 of this Act, then, on the day on which section 14 comes into force, paragraph 3.01(2)(g) of the `Criminal Code` is repealed.
+
+  **(4)** If section 14 of this Act comes into force before subsection 2(1) of the other Act, then that subsection 2(1) is amended by repealing the paragraph 3.01(2)(g) that it enacts.
+
+  **(5)** If subsection 2(1) of the other Act and section 14 of this Act come into force on the same day, then that section 14 is deemed to have come into force before that subsection 2(1) and subsection (4) applies as a consequence.
+
+### Section 23.1
+
+  **(1)** This section applies if Bill C-16, introduced in the 1st session of the 45th Parliament and entitled the `Protecting Victims Act` (in this section referred to as the "other Act"), receives royal assent.
+
+  **(2)** If section 44 of the other Act comes into force before section 7 of this Act, then that section 7 and section 20.1 of this Act are repealed.
+
+  **(3)** If section 7 of this Act comes into force before section 44 of the other Act, then that section 44 and section 104 of the other Act are repealed.
+
+  **(4)** If section 44 of the other Act and section 7 of this Act come into force on the same day, then that section 7 and section 20.1 of this Act are deemed never to have come into force and are repealed.
+
+
+## Coming into Force
+
+### Section 24
+
+The provisions of this Act, other than the provisions that are coordinating amendments, come into force on the 30th day after the day on which this Act receives royal assent.
 
