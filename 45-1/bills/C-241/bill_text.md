@@ -12,7 +12,7 @@ Whereas current flood and drought forecasting in Canada is conducted by the prov
 
 Whereas advanced flood and drought forecasting models require sophisticated integration of spatially detailed hydrological management models and water-resource management models running on supercomputers with inputs from multiple meteorological forecast models as well as from onsite observations of rainfall, soil moisture, snowpacks, glaciers, lake levels, ice jams and streamflow;
 
-Whereas Canadian universities have developed sophisticated water-forecasting models, which are sought-after by the United States and around the world;
+Whereas Canadian universities have developed sophisticated water-forecasting models, which are sought-after by the United States **of America** and around the world;
 
 And whereas most technologically advanced countries have a national flood forecasting service;
 
@@ -32,9 +32,9 @@ This Act may be cited as the `National Strategy on Flood and Drought Forecasting
 
 The following definitions apply in this Act.
 
-**Indigenous governing body** means a council, government or other entity that is authorized to act on behalf of an Indigenous group, community or people that holds rights recognized and affirmed by section 35 of the `Constitution Act, 1982`. (**corps dirigeant autochtone**)
+**Indigenous governing body** means a council, government or other entity that is authorized to act on behalf of an Indigenous group, community or people that holds rights recognized and affirmed by section 35 of the `Constitution Act, 1982`. (**corps dirigeant autochtone**)
 
-**Minister** means the Minister of the Environment. (**ministre**)
+**Minister** means the Minister of the Environment. (**ministre**)
 
 
 ## National Strategy on Flood and Drought Forecasting
@@ -49,11 +49,11 @@ The following definitions apply in this Act.
 
     an assessment of the need for, and the benefits of, national coordination, new investment and the application of novel technologies in forecasting floods and droughts;
 
-    an assessment of the need for modelling that would identify properties and infrastructure at risk from floods;
+    an assessment of the need for modelling that would **support flood** and **drought forecasting**;
 
     an assessment of opportunities to develop national flood and drought forecasting across Canada in order to help meet the information needs of the provinces, municipalities, industry, including the insurance industry, and Indigenous communities in respect of short- and long-term flood and drought forecasting, including current and future flood-plain delineation; and
 
-    the preparation of a proposal for the establishment of a cooperative, national hydrological and water resources forecasting service and system based on the federal-provincial distributed model of the National Hydrological Service.
+    **measures that the Government of Canada may take in response to the assessments referred to in paragraphs (a) to (c), including** the preparation of a proposal for the establishment of a cooperative, national hydrological and water resources forecasting service and system based on the federal-provincial distributed model of the National **Hydrometric Program**.
 
 
 ## Reports to Parliament
@@ -62,11 +62,11 @@ The following definitions apply in this Act.
 
   **(1)** Within two years after the day on which this Act comes into force, the Minister must prepare a report setting out the strategy and cause the report to be tabled before each House of Parliament on any of the first 15 days on which that House is sitting after the report is completed.
 
-  **(2)** The Minister must publish the report on a Government of Canada website within 10 days after the day on which the report is tabled in both Houses of Parliament.
+  **(2)** The Minister must publish the report on a Government of Canada website within 10 **business** days after the day on which the report is tabled in both Houses of Parliament.
 
 ### Section 5
 
   **(1)** Within five years after the day on which the report referred to in section 4 is tabled, the Minister must, in consultation with the parties referred to in subsections 3(1) and (2), prepare a report on the effectiveness of the strategy that sets out the Minister's conclusions and recommendations, and cause the report to be tabled in each House of Parliament on any of the first 15 days on which that House is sitting after it is completed.
 
-  **(2)** The Minister must publish the report on a Government of Canada website within 10 days after the day on which the report is tabled in both Houses of Parliament.
+  **(2)** The Minister must publish the report on a Government of Canada website within 10 **business** days after the day on which the report is tabled in both Houses of Parliament.
 
