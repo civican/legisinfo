@@ -1,0 +1,1661 @@
+<Bills>
+  <Bill>
+    <Id>13813664</Id>
+    <NumberCode>C-16</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>16</Number>
+    <LongTitleEn>An Act to amend certain Acts in relation to criminal and correctional matters (child protection, gender-based violence, delays and other measures)</LongTitleEn>
+    <LongTitleFr>Loi modifiant certaines lois en matière pénale et correctionnelle (protection de l'enfance, violence fondée sur le sexe, délais et autres mesures)</LongTitleFr>
+    <LongTitle>An Act to amend certain Acts in relation to criminal and correctional matters (child protection, gender-based violence, delays and other measures)</LongTitle>
+    <ShortTitleEn>Protecting Victims Act</ShortTitleEn>
+    <ShortTitleFr>Loi visant à protéger les victimes</ShortTitleFr>
+    <ShortTitle>Protecting Victims Act</ShortTitle>
+    <StatusId>357</StatusId>
+    <StatusNameEn>Royal assent received</StatusNameEn>
+    <StatusNameFr>Sanction royale reçue</StatusNameFr>
+    <StatusName>Royal assent received</StatusName>
+    <LatestCompletedMajorStageId>60046</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>Royal assent</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Sanction royale</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>Royal assent</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>Royal assent</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>2</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>Senate</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Sénat</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>Senate</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60050</OngoingStageId>
+    <OngoingStageNameEn>Royal assent</OngoingStageNameEn>
+    <OngoingStageNameFr>Sanction royale</OngoingStageNameFr>
+    <OngoingStageName>Royal assent</OngoingStageName>
+    <LatestCompletedBillStageId>60050</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Royal assent</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Sanction royale</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Royal assent</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>2</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>Senate</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Sénat</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>Senate</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2026-06-18T11:45:00</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>45</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>88316</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Sean</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Fraser</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Sean Fraser</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Justice</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre de la Justice</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Justice</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>4</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Minister</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>ministre</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Minister</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>956</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Central Nova</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Nova-Centre</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Central Nova</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60149</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Royal assent</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Sanction royale</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60050</LatestBillEventStageId>
+    <LatestBillEventTypeName>Royal assent</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2026-06-18T13:30:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>2</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>Senate</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Sénat</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>Senate</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>86</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2025-12-09T10:04:56.76</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime>2026-02-02T12:15:15</PassedHouseSecondReadingDateTime>
+    <PassedHouseThirdReadingDateTime>2026-06-11T15:15:10</PassedHouseThirdReadingDateTime>
+    <PassedSenateFirstReadingDateTime>2026-06-11T10:55:00</PassedSenateFirstReadingDateTime>
+    <PassedSenateSecondReadingDateTime>2026-06-15T19:00:00</PassedSenateSecondReadingDateTime>
+    <PassedSenateThirdReadingDateTime>2026-06-18T11:05:00</PassedSenateThirdReadingDateTime>
+    <ReceivedRoyalAssentDateTime>2026-06-18T11:45:00</ReceivedRoyalAssentDateTime>
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>true</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>true</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>true</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>true</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>true</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>true</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>&lt;div&gt;&lt;div&gt;On Tuesday, June 9, 2026, the Senate adopted the following motion:&lt;p&gt;&lt;/p&gt;That, notwithstanding any provision of the Rules, previous order or usual practice:&lt;p&gt;&lt;/p&gt;1.	pursuant to rule 10-11(1), the &lt;a href="https://sencanada.ca/en/committees/lcjc/45-1"&gt;Standing Senate Committee on Legal and Constitutional Affairs&lt;/a&gt; be authorized to examine the subject matter of Bill C-16, An Act to amend certain Acts in relation to criminal and correctional matters (child protection, gender-based violence, delays and other measures), introduced in the House of Commons on December 9, 2025, in advance of the said bill coming before the Senate; and;&lt;p&gt;&lt;/p&gt;2.	for the purposes of its study, the committee be authorized to meet even though the Senate may then be sitting or adjourned, with the application of rules 12-18(1) and 12-18(2) being suspended in relation thereto.&lt;/div&gt;&lt;/div&gt;</NotesEn>
+    <NotesFr>&lt;div&gt;&lt;div&gt;Le mardi 9 juin 2026, le Sénat a adopté la motion suivante :&lt;p&gt;&lt;/p&gt;Que, nonobstant toute disposition du Règlement, tout ordre antérieur ou toute pratique habituelle :&lt;p&gt;&lt;/p&gt;1.	conformément à l'article 10-11(1) du Règlement, le &lt;a href="https://sencanada.ca/fr/comites/lcjc/45-1"&gt;Comité sénatorial permanent des affaires juridiques et constitutionnelles&lt;/a&gt; soit autorisé à étudier la teneur du projet de loi C-16, Loi modifiant certaines lois en matière pénale et correctionnelle (protection de l'enfance, violence fondée sur le sexe, délais et autres mesures), déposé à la Chambre des communes le 9 décembre 2025, avant que ce projet de loi soit soumis au Sénat;&lt;p&gt;&lt;/p&gt;2.	aux fins de son étude, le comité soit autorisé à se réunir, même si le Sénat siège à ce moment-là ou est alors ajourné, l'application des articles 12-18(1) et 12-18(2) du Règlement étant suspendue à cet égard.&lt;/div&gt;&lt;/div&gt;</NotesFr>
+    <Notes>&lt;div&gt;&lt;div&gt;On Tuesday, June 9, 2026, the Senate adopted the following motion:&lt;p&gt;&lt;/p&gt;That, notwithstanding any provision of the Rules, previous order or usual practice:&lt;p&gt;&lt;/p&gt;1.	pursuant to rule 10-11(1), the &lt;a href="https://sencanada.ca/en/committees/lcjc/45-1"&gt;Standing Senate Committee on Legal and Constitutional Affairs&lt;/a&gt; be authorized to examine the subject matter of Bill C-16, An Act to amend certain Acts in relation to criminal and correctional matters (child protection, gender-based violence, delays and other measures), introduced in the House of Commons on December 9, 2025, in advance of the said bill coming before the Senate; and;&lt;p&gt;&lt;/p&gt;2.	for the purposes of its study, the committee be authorized to meet even though the Senate may then be sitting or adjourned, with the application of rules 12-18(1) and 12-18(2) being suspended in relation thereto.&lt;/div&gt;&lt;/div&gt;</Notes>
+    <ShortLegislativeSummaryEn>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information, Education and Research Services of the Library of Parliament. Meanwhile, the following executive summary is available.&lt;br/&gt;&lt;br/&gt;On 9 December 2025, the Minister of Justice introduced Bill C-16, An Act to amend certain Acts in relation to criminal and correctional matters (child protection, gender-based violence, delays and other measures) (Protecting Victims Act) in the House of Commons and it was given first reading.   &lt;br/&gt;&lt;br/&gt;Bill C-16 amends various Acts in relation to criminal and correctional matters.&lt;br/&gt;&lt;br/&gt;It amends the Criminal Code to, among other things,&lt;br/&gt;&lt;br/&gt;(a) create a new offence that prohibits engaging in a pattern of coercive or controlling conduct toward an intimate partner;&lt;br/&gt;&lt;br/&gt;(b) provide that, in the following circumstances, murder — known as femicide when committed against a female person — is murder in the first degree:&lt;br/&gt;&lt;br/&gt;(i) the murder is committed against an intimate partner in the context of a pattern of coercive or controlling conduct,&lt;br/&gt;&lt;br/&gt;(ii) the murder is committed in the context of sexual violence,&lt;br/&gt;&lt;br/&gt;(iii) the murder is committed in the context of human trafficking, or&lt;br/&gt;&lt;br/&gt;(iv) the murder is motivated by hate;&lt;br/&gt;&lt;br/&gt;(c) provide that, if an offender commits manslaughter in those circumstances, the court must consider whether to impose a sentence of imprisonment for life on the offender and, if that sentence is imposed, an adult offender is ineligible for parole for 10 to 25 years;&lt;br/&gt;&lt;br/&gt;(d) remove from the criminal harassment offence the requirement to prove that the victim subjectively feared for their safety and replace it with a requirement to prove that the harassing conduct could reasonably be expected to cause the victim to believe that someone's safety is threatened;&lt;br/&gt;&lt;br/&gt;(e) amend the offence of non-consensual distribution of an intimate image to include, among such images, a visual representation showing an identifiable person depicted as nude, as exposing their sexual organs or as engaged in explicit sexual activity, if the depiction is likely to be mistaken for a visual recording of that person;&lt;br/&gt;&lt;br/&gt;(f) amend certain existing child sexual offences to include prohibiting a person from inviting a child to expose their own sexual organs for a sexual purpose;&lt;br/&gt;&lt;br/&gt;(g) criminalize the distribution of visual representations of bestiality;&lt;br/&gt;&lt;br/&gt;(h) create a new offence relating to the recruitment of a person under 18 years of age to be a party to an offence;&lt;br/&gt;&lt;br/&gt;(i) provide that victims of certain offences, such as offences in the commission of which violence was used, threatened or attempted against an intimate partner, are entitled to testimonial aids;&lt;br/&gt;&lt;br/&gt;(j) permit courts to order that an offender serve a period of imprisonment below a mandatory minimum term of imprisonment, but only if the mandatory minimum term of imprisonment would amount to cruel and unusual punishment for that particular offender;&lt;br/&gt;&lt;br/&gt;(k) create a new Part establishing a framework for applying alternative measures and restorative justice processes in appropriate cases;&lt;br/&gt;&lt;br/&gt;(l) create a new Part in respect of unreasonable delay that requires a court to consider specific factors in relation to case complexity, directs a court to exclude time periods in respect of specific applications and requires that a stay of proceedings be ordered only if a court is satisfied, taking into account a list of factors, that no other remedy would be appropriate and just;&lt;br/&gt;&lt;br/&gt;(m) streamline and strengthen the procedural rules in sexual offence trials that govern when evidence of a complainant's past sexual activity can be adduced and when certain private records, including therapeutic records, can be produced or adduced; and&lt;br/&gt;&lt;br/&gt;(n) allow the possibility of using affidavit evidence for certain cases involving identity theft and identity fraud.&lt;br/&gt;&lt;br/&gt;The enactment also makes consequential amendments to other Acts.&lt;br/&gt;&lt;br/&gt;The enactment also amends the Youth Criminal Justice Act to, among other things,&lt;br/&gt;&lt;br/&gt;(a) ensure that it better reflects the Canadian Victims Bill of Rights with respect to the rights and interests of victims;&lt;br/&gt;&lt;br/&gt;(b) modernize the principle requiring consideration of the needs of young persons, including by requiring particular attention to those of Aboriginal and Black young persons; and&lt;br/&gt;&lt;br/&gt;(c) allow youth justice courts to order that a young person enter into a recognizance if there is a reasonable fear that the young person will commit a child sexual offence.&lt;br/&gt;&lt;br/&gt;The enactment also amends the Canadian Victims Bill of Rights to&lt;br/&gt;&lt;br/&gt;(a) modify the preamble to affirm the importance of victim-centred and trauma-informed approaches;&lt;br/&gt;&lt;br/&gt;(b) provide victims with the right to be treated with respect, courtesy, compassion and fairness;&lt;br/&gt;&lt;br/&gt;(c) enable victims to receive information without being required to make a request;&lt;br/&gt;&lt;br/&gt;(d) provide that victims have the right to receive information about their rights under that Act and the protection measures that are available to them;&lt;br/&gt;&lt;br/&gt;(e) broaden the information that victims have the right to receive about available restorative justice processes; and&lt;br/&gt;&lt;br/&gt;(f) clarify the right of victims to present a victim impact statement at sentencing and a victim statement for consideration when decisions regarding parole or corrections are made about the offender who harmed them.&lt;br/&gt;&lt;br/&gt;The enactment also amends the National Defence Act to, among other things,&lt;br/&gt;&lt;br/&gt;(a) provide that victims of certain offences, such as offences in the commission of which violence was used, threatened or attempted against an intimate partner, are entitled to testimonial aids;&lt;br/&gt;&lt;br/&gt;(b) create a new Division in respect of unreasonable delay that requires a court martial to consider specific factors in relation to case complexity, directs a court martial to exclude time periods in respect of specific applications and requires that a stay of proceedings be ordered only if a court martial is satisfied, taking into account a list of factors, that no other remedy would be appropriate and just;&lt;br/&gt;&lt;br/&gt;(c) streamline and strengthen the procedural rules to align with the Criminal Code procedural rules in sexual offence trials that govern when evidence of a complainant's past sexual activity can be adduced and when certain private records, including therapeutic records, can be produced or adduced;&lt;br/&gt;&lt;br/&gt;(d) provide victims with the right to be treated with respect, courtesy, compassion and fairness;&lt;br/&gt;&lt;br/&gt;(e) provide that victims have the right to receive information about their rights under the Division of the National Defence Act entitled "Declaration of Victims Rights" and information about the protection measures that are available to them; and&lt;br/&gt;&lt;br/&gt;(f) enable victims to receive information from authorities in the military justice system without being required to make a request.&lt;br/&gt;&lt;br/&gt;The enactment also amends An Act respecting the mandatory reporting of Internet child sexual abuse and exploitation material by persons who provide an Internet service to, among other things,&lt;br/&gt;&lt;br/&gt;(a) clarify the types of Internet services covered by that Act;&lt;br/&gt;&lt;br/&gt;(b) require that transmission data be provided with the mandatory notification in cases where the material is manifestly child sexual abuse and exploitation material;&lt;br/&gt;&lt;br/&gt;(c) extend the period of preservation of data related to an offence; and&lt;br/&gt;&lt;br/&gt;(d) extend the limitation period for the prosecution of an offence under that Act.&lt;br/&gt;&lt;br/&gt;The enactment also amends the Firearms Act to clarify that an individual whose firearms licence or registration certificate has been revoked is required to deliver their firearm to a peace officer, firearms officer or chief firearms officer and to provide that an individual is not eligible to hold a licence under that Act if the chief firearms officer has reasonable grounds to suspect that the individual may have engaged in an act of domestic violence or stalking.&lt;br/&gt;&lt;br/&gt;The enactment also amends the Corrections and Conditional Release Act to, among other things, enhance the disclosure of information to victims and other components of the criminal justice system and provide for the submission of victim statements in certain instances.&lt;br/&gt;&lt;br/&gt;Finally, the enactment also amends the Mutual Legal Assistance in Criminal Matters Act to facilitate legal assistance between Canada and supranational bodies with responsibility for criminal investigations or prosecutions.&lt;/div&gt;</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>&lt;div&gt;Les Service d'information, d'éducation et de recherche parlementaires de la Bibliothèque du Parlement rédige actuellement le résumé législatif de ce projet de loi.  Entre-temps, le Service met à votre disposition le sommaire suivant.  &lt;br/&gt;&lt;br/&gt;Le 9 décembre 2025, le ministre de la Justice a déposé le projet de loi C-16, Loi modifiant certaines lois en matière pénale et correctionnelle (protection de l'enfance, violence fondée sur le sexe, délais et autres mesures) (Loi visant à protéger les victimes) à la Chambre des communes en première lecture. &lt;br/&gt;&lt;br/&gt;Le projet de loi C-16 modifie certaines lois en matière pénale et correctionnelle.&lt;br/&gt;&lt;br/&gt;Il modifie le Code criminel pour, notamment?:&lt;br/&gt;&lt;br/&gt;a) créer une nouvelle infraction interdisant à toute personne d'adopter un schéma de comportement contrôlant ou coercitif à l'égard d'un partenaire intime;&lt;br/&gt;&lt;br/&gt;b) assimiler au meurtre au premier degré le meurtre, qualifié de féminicide lorsque la victime est une femme, dans l'une ou l'autre des circonstances suivantes?:&lt;br/&gt;&lt;br/&gt;(i) le meurtre est commis par l'accusé contre son partenaire intime dans un contexte d'un schéma de comportement contrôlant ou coercitif,&lt;br/&gt;&lt;br/&gt;(ii) le meurtre est commis dans un contexte de violence sexuelle,&lt;br/&gt;&lt;br/&gt;(iii) le meurtre est commis dans un contexte de traite de personnes,&lt;br/&gt;&lt;br/&gt;(iv) le meurtre est motivé par la haine;&lt;br/&gt;&lt;br/&gt;c) prévoir que le tribunal est tenu, à l'égard des cas d'homicides involontaires coupables commis dans ces circonstances, d'envisager d'infliger l'emprisonnement à perpétuité et, le cas échéant, de prévoir que le contrevenant adulte ne peut bénéficier de la libération conditionnelle avant dix à vingt-cinq ans;&lt;br/&gt;&lt;br/&gt;d) supprimer la nécessité, dans le cas d'une infraction de harcèlement criminel, de prouver que la victime craignait subjectivement pour sa sécurité pour exiger plutôt que soit prouvé le fait que le comportement en cause pouvait raisonnablement faire croire à la victime que la sécurité d'une personne était en danger;&lt;br/&gt;&lt;br/&gt;e) modifier l'infraction de distribution non consensuelle d'une image intime afin de viser également toute représentation visuelle d'une personne identifiable présentée comme nue, exposant ses organes sexuels ou se livrant à une activité sexuelle explicite, si cette image est susceptible d'être confondue avec un enregistrement visuel de la personne;&lt;br/&gt;&lt;br/&gt;f) modifier certaines infractions existantes d'ordre sexuel à l'égard d'enfants afin d'y inclure l'interdiction d'inciter un enfant à exhiber ses organes sexuels dans un but sexuel;&lt;br/&gt;&lt;br/&gt;g) criminaliser la distribution de représentations visuelles d'actes de bestialité;&lt;br/&gt;&lt;br/&gt;h) créer une nouvelle infraction liée au recrutement d'une personne de moins de dix-huit ans en vue de sa participation à une infraction;&lt;br/&gt;&lt;br/&gt;i) prévoir que les victimes de certaines infractions, notamment celles perpétrées avec usage, tentative ou menace de violence contre un partenaire intime, ont droit à des mesures visant à faciliter leur témoignage;&lt;br/&gt;&lt;br/&gt;j) permettre au tribunal d'infliger au contrevenant une peine d'emprisonnement inférieure à la peine minimale d'emprisonnement, mais seulement lorsque cette peine minimale d'emprisonnement constituerait une peine cruelle et inusitée pour ce contrevenant;&lt;br/&gt;&lt;br/&gt;k) créer une nouvelle partie établissant un cadre pour l'application de mesures de rechange et de processus de justice réparatrice, s'il y a lieu;&lt;br/&gt;&lt;br/&gt;l) créer une nouvelle partie sur les délais déraisonnables qui exige que le tribunal considère certains facteurs relatifs à la complexité d'une affaire, exclue du calcul du délai certains jours liés à des demandes précises et n'ordonne un arrêt des procédures que s'il est convaincu, compte tenu de certains facteurs, qu'aucune autre réparation ne serait convenable et juste;&lt;br/&gt;&lt;br/&gt;m) simplifier et renforcer les règles de procédure qui sont applicables dans les procès pour infractions sexuelles et qui régissent l'admissibilité de la preuve du comportement sexuel antérieur du plaignant ainsi que la production et l'admissibilité de certains dossiers privés, y compris des dossiers thérapeutiques;&lt;br/&gt;&lt;br/&gt;n) permettre l'utilisation de preuves par affidavit pour certaines affaires de vol d'identité et de fraude à l'identité.&lt;br/&gt;&lt;br/&gt;De plus, il apporte des modifications corrélatives à d'autres lois.&lt;br/&gt;&lt;br/&gt;Il modifie également la Loi sur le système de justice pénale pour les adolescents pour, notamment?:&lt;br/&gt;&lt;br/&gt;a) mieux tenir compte de la Charte canadienne des droits des victimes en ce qui concerne les droits et intérêts des victimes;&lt;br/&gt;&lt;br/&gt;b) moderniser le principe qui exige la prise en compte des besoins des adolescents, notamment en exigeant qu'une attention particulière soit accordée à ceux des adolescents autochtones et noirs;&lt;br/&gt;&lt;br/&gt;c) permettre aux tribunaux pour adolescents d'ordonner à un adolescent de contracter un engagement s'il y a des motifs raisonnables de craindre qu'il commettra une infraction d'ordre sexuel à l'égard d'un enfant.&lt;br/&gt;&lt;br/&gt;Il modifie aussi la Charte canadienne des droits des victimes pour?:&lt;br/&gt;&lt;br/&gt;a) modifier le préambule afin d'y souligner l'importance des approches centrées sur la victime et tenant compte des répercussions des traumatismes;&lt;br/&gt;&lt;br/&gt;b) instaurer le droit, pour toute victime, d'être traitée avec respect, courtoisie, compassion et équité;&lt;br/&gt;&lt;br/&gt;c) permettre aux victimes de recevoir des renseignements sans avoir à en faire la demande;&lt;br/&gt;&lt;br/&gt;d) prévoir le droit des victimes d'avoir accès à des renseignements sur les droits que leur confère cette loi et sur les mesures de protection auxquelles elles ont accès;&lt;br/&gt;&lt;br/&gt;e) étoffer les renseignements auxquels les victimes ont droit sur les programmes de justice réparatrice disponibles;&lt;br/&gt;&lt;br/&gt;f) clarifier le droit des victimes de présenter une déclaration de la victime lors de la détermination de la peine et une déclaration de la victime à prendre en considération lors des décisions concernant la libération conditionnelle ou les mesures correctionnelles à l'égard du délinquant qui leur a fait du tort.&lt;br/&gt;&lt;br/&gt;Il modifie en outre la Loi sur la défense nationale pour, notamment?:&lt;br/&gt;&lt;br/&gt;a) prévoir que les victimes de certaines infractions, notamment celles perpétrées avec usage, tentative ou menace de violence contre un partenaire intime, ont droit à des mesures visant à faciliter leur témoignage;&lt;br/&gt;&lt;br/&gt;b) créer une nouvelle section sur les délais déraisonnables qui exige que la cour martiale considère certains facteurs relatifs à la complexité d'une affaire, exclue du calcul du délai certains jours liés à des demandes précises et n'ordonne un arrêt des procédures que si elle est convaincue, compte tenu de certains facteurs, qu'aucune autre réparation ne serait convenable et juste;&lt;br/&gt;&lt;br/&gt;c) simplifier et renforcer, afin de les harmoniser avec le Code criminel, les règles de procédure qui sont applicables dans les procès pour infractions sexuelles et qui régissent l'admissibilité de la preuve du comportement sexuel antérieur du plaignant ainsi que la production et l'admissibilité de certains dossiers privés, y compris des dossiers thérapeutiques;&lt;br/&gt;&lt;br/&gt;d) instaurer le droit, pour toute victime, d'être traitée avec respect, courtoisie, compassion et équité;&lt;br/&gt;&lt;br/&gt;e) prévoir le droit des victimes d'avoir accès à des renseignements sur les droits que leur confère la section de la Loi sur la défense nationale intitulée «?Déclaration des droits des victimes?» et sur les mesures de protection auxquelles elles ont accès;&lt;br/&gt;&lt;br/&gt;f) permettre aux victimes de recevoir des renseignements de la part des autorités du système de justice militaire sans avoir à en faire la demande.&lt;br/&gt;&lt;br/&gt;De plus, il modifie la Loi concernant la déclaration obligatoire de matériel d'abus et d'exploitation pédosexuels sur Internet par les personnes qui fournissent des services Internet pour, notamment?:&lt;br/&gt;&lt;br/&gt;a) préciser les types de services Internet visés par cette loi;&lt;br/&gt;&lt;br/&gt;b) exiger que les données de transmission soient jointes à l'avis obligatoire si celui-ci concerne du matériel qui est manifestement du matériel d'abus et d'exploitation pédosexuels;&lt;br/&gt;&lt;br/&gt;c) prolonger la période de préservation des données relatives à une infraction;&lt;br/&gt;&lt;br/&gt;d) prolonger le délai de prescription des poursuites pour les infractions à cette loi.&lt;br/&gt;&lt;br/&gt;D'autre part, il modifie la Loi sur les armes à feu pour préciser que le particulier dont le permis, ou le certificat d'enregistrement, délivré à l'égard d'armes à feu a été révoqué est tenu de remettre ses armes à feu à un agent de la paix, au préposé aux armes à feu ou au contrôleur des armes à feu et pour établir qu'aucun permis ne peut être délivré à un particulier au titre de cette loi si le contrôleur des armes à feu a des motifs raisonnables de soupçonner que celui-ci pourrait avoir participé à un acte de violence familiale ou avoir traqué quelqu'un.&lt;br/&gt;&lt;br/&gt;Il modifie également la Loi sur le système correctionnel et la mise en liberté sous condition pour, notamment, améliorer la communication de renseignements aux victimes et aux autres éléments du système de justice pénale et prévoir la possibilité pour la victime de présenter une déclaration dans certaines circonstances.&lt;br/&gt;&lt;br/&gt;Enfin, le texte modifie la Loi sur l'entraide juridique en matière criminelle afin de permettre l'entraide juridique entre le Canada et les organismes supranationaux chargés de procéder aux enquêtes ou aux poursuites en matière criminelle.&lt;/div&gt;</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information, Education and Research Services of the Library of Parliament. Meanwhile, the following executive summary is available.&lt;br/&gt;&lt;br/&gt;On 9 December 2025, the Minister of Justice introduced Bill C-16, An Act to amend certain Acts in relation to criminal and correctional matters (child protection, gender-based violence, delays and other measures) (Protecting Victims Act) in the House of Commons and it was given first reading.   &lt;br/&gt;&lt;br/&gt;Bill C-16 amends various Acts in relation to criminal and correctional matters.&lt;br/&gt;&lt;br/&gt;It amends the Criminal Code to, among other things,&lt;br/&gt;&lt;br/&gt;(a) create a new offence that prohibits engaging in a pattern of coercive or controlling conduct toward an intimate partner;&lt;br/&gt;&lt;br/&gt;(b) provide that, in the following circumstances, murder — known as femicide when committed against a female person — is murder in the first degree:&lt;br/&gt;&lt;br/&gt;(i) the murder is committed against an intimate partner in the context of a pattern of coercive or controlling conduct,&lt;br/&gt;&lt;br/&gt;(ii) the murder is committed in the context of sexual violence,&lt;br/&gt;&lt;br/&gt;(iii) the murder is committed in the context of human trafficking, or&lt;br/&gt;&lt;br/&gt;(iv) the murder is motivated by hate;&lt;br/&gt;&lt;br/&gt;(c) provide that, if an offender commits manslaughter in those circumstances, the court must consider whether to impose a sentence of imprisonment for life on the offender and, if that sentence is imposed, an adult offender is ineligible for parole for 10 to 25 years;&lt;br/&gt;&lt;br/&gt;(d) remove from the criminal harassment offence the requirement to prove that the victim subjectively feared for their safety and replace it with a requirement to prove that the harassing conduct could reasonably be expected to cause the victim to believe that someone's safety is threatened;&lt;br/&gt;&lt;br/&gt;(e) amend the offence of non-consensual distribution of an intimate image to include, among such images, a visual representation showing an identifiable person depicted as nude, as exposing their sexual organs or as engaged in explicit sexual activity, if the depiction is likely to be mistaken for a visual recording of that person;&lt;br/&gt;&lt;br/&gt;(f) amend certain existing child sexual offences to include prohibiting a person from inviting a child to expose their own sexual organs for a sexual purpose;&lt;br/&gt;&lt;br/&gt;(g) criminalize the distribution of visual representations of bestiality;&lt;br/&gt;&lt;br/&gt;(h) create a new offence relating to the recruitment of a person under 18 years of age to be a party to an offence;&lt;br/&gt;&lt;br/&gt;(i) provide that victims of certain offences, such as offences in the commission of which violence was used, threatened or attempted against an intimate partner, are entitled to testimonial aids;&lt;br/&gt;&lt;br/&gt;(j) permit courts to order that an offender serve a period of imprisonment below a mandatory minimum term of imprisonment, but only if the mandatory minimum term of imprisonment would amount to cruel and unusual punishment for that particular offender;&lt;br/&gt;&lt;br/&gt;(k) create a new Part establishing a framework for applying alternative measures and restorative justice processes in appropriate cases;&lt;br/&gt;&lt;br/&gt;(l) create a new Part in respect of unreasonable delay that requires a court to consider specific factors in relation to case complexity, directs a court to exclude time periods in respect of specific applications and requires that a stay of proceedings be ordered only if a court is satisfied, taking into account a list of factors, that no other remedy would be appropriate and just;&lt;br/&gt;&lt;br/&gt;(m) streamline and strengthen the procedural rules in sexual offence trials that govern when evidence of a complainant's past sexual activity can be adduced and when certain private records, including therapeutic records, can be produced or adduced; and&lt;br/&gt;&lt;br/&gt;(n) allow the possibility of using affidavit evidence for certain cases involving identity theft and identity fraud.&lt;br/&gt;&lt;br/&gt;The enactment also makes consequential amendments to other Acts.&lt;br/&gt;&lt;br/&gt;The enactment also amends the Youth Criminal Justice Act to, among other things,&lt;br/&gt;&lt;br/&gt;(a) ensure that it better reflects the Canadian Victims Bill of Rights with respect to the rights and interests of victims;&lt;br/&gt;&lt;br/&gt;(b) modernize the principle requiring consideration of the needs of young persons, including by requiring particular attention to those of Aboriginal and Black young persons; and&lt;br/&gt;&lt;br/&gt;(c) allow youth justice courts to order that a young person enter into a recognizance if there is a reasonable fear that the young person will commit a child sexual offence.&lt;br/&gt;&lt;br/&gt;The enactment also amends the Canadian Victims Bill of Rights to&lt;br/&gt;&lt;br/&gt;(a) modify the preamble to affirm the importance of victim-centred and trauma-informed approaches;&lt;br/&gt;&lt;br/&gt;(b) provide victims with the right to be treated with respect, courtesy, compassion and fairness;&lt;br/&gt;&lt;br/&gt;(c) enable victims to receive information without being required to make a request;&lt;br/&gt;&lt;br/&gt;(d) provide that victims have the right to receive information about their rights under that Act and the protection measures that are available to them;&lt;br/&gt;&lt;br/&gt;(e) broaden the information that victims have the right to receive about available restorative justice processes; and&lt;br/&gt;&lt;br/&gt;(f) clarify the right of victims to present a victim impact statement at sentencing and a victim statement for consideration when decisions regarding parole or corrections are made about the offender who harmed them.&lt;br/&gt;&lt;br/&gt;The enactment also amends the National Defence Act to, among other things,&lt;br/&gt;&lt;br/&gt;(a) provide that victims of certain offences, such as offences in the commission of which violence was used, threatened or attempted against an intimate partner, are entitled to testimonial aids;&lt;br/&gt;&lt;br/&gt;(b) create a new Division in respect of unreasonable delay that requires a court martial to consider specific factors in relation to case complexity, directs a court martial to exclude time periods in respect of specific applications and requires that a stay of proceedings be ordered only if a court martial is satisfied, taking into account a list of factors, that no other remedy would be appropriate and just;&lt;br/&gt;&lt;br/&gt;(c) streamline and strengthen the procedural rules to align with the Criminal Code procedural rules in sexual offence trials that govern when evidence of a complainant's past sexual activity can be adduced and when certain private records, including therapeutic records, can be produced or adduced;&lt;br/&gt;&lt;br/&gt;(d) provide victims with the right to be treated with respect, courtesy, compassion and fairness;&lt;br/&gt;&lt;br/&gt;(e) provide that victims have the right to receive information about their rights under the Division of the National Defence Act entitled "Declaration of Victims Rights" and information about the protection measures that are available to them; and&lt;br/&gt;&lt;br/&gt;(f) enable victims to receive information from authorities in the military justice system without being required to make a request.&lt;br/&gt;&lt;br/&gt;The enactment also amends An Act respecting the mandatory reporting of Internet child sexual abuse and exploitation material by persons who provide an Internet service to, among other things,&lt;br/&gt;&lt;br/&gt;(a) clarify the types of Internet services covered by that Act;&lt;br/&gt;&lt;br/&gt;(b) require that transmission data be provided with the mandatory notification in cases where the material is manifestly child sexual abuse and exploitation material;&lt;br/&gt;&lt;br/&gt;(c) extend the period of preservation of data related to an offence; and&lt;br/&gt;&lt;br/&gt;(d) extend the limitation period for the prosecution of an offence under that Act.&lt;br/&gt;&lt;br/&gt;The enactment also amends the Firearms Act to clarify that an individual whose firearms licence or registration certificate has been revoked is required to deliver their firearm to a peace officer, firearms officer or chief firearms officer and to provide that an individual is not eligible to hold a licence under that Act if the chief firearms officer has reasonable grounds to suspect that the individual may have engaged in an act of domestic violence or stalking.&lt;br/&gt;&lt;br/&gt;The enactment also amends the Corrections and Conditional Release Act to, among other things, enhance the disclosure of information to victims and other components of the criminal justice system and provide for the submission of victim statements in certain instances.&lt;br/&gt;&lt;br/&gt;Finally, the enactment also amends the Mutual Legal Assistance in Criminal Matters Act to facilitate legal assistance between Canada and supranational bodies with responsibility for criminal investigations or prosecutions.&lt;/div&gt;</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear>2026</StatuteYear>
+    <StatuteChapter>19</StatuteChapter>
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>45</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2025-12-09T10:04:56.76</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>70</Number>
+          <Date>2025-12-09T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2025-12-09T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2025-12-09T10:04:56.76</EventStartDateTime>
+          <EventEndDateTime>2025-12-09T10:04:56.76</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2025-12-09T10:04:56.76</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>45</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2026-02-02T12:15:15</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>30568</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Justice and Human Rights</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la justice et des droits de la personne</CommitteeNameFr>
+          <CommitteeAcronym>JUST</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Justice and Human Rights</CommitteeName>
+          <StudyActivityId>13329019</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>73</Number>
+          <Date>2026-01-26T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>76</Number>
+          <Date>2026-01-29T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>77</Number>
+          <Date>2026-02-02T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>13325822</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>13820929</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>2nd reading and referral to committee - JUST</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>2e lecture et renvoi en comité - JUST</DecisionMotionTitleFr>
+          <DecisionMotionTitle>2nd reading and referral to committee - JUST</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>9</DecisionMethodId>
+          <DecisionMethodNameEn>On division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Avec dissidence</DecisionMethodNameFr>
+          <DecisionMethodName>On division</DecisionMethodName>
+          <DivisionNumber />
+          <DivisionVotesYeas />
+          <DivisionVotesNays />
+          <DivisionVotePaired />
+          <DecisionSittingDate>2026-02-02T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>77</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60121</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading and referral to committee</EventNameEn>
+          <EventNameFr>Deuxième lecture et renvoi en comité</EventNameFr>
+          <EventName>Second reading and referral to committee</EventName>
+          <EventDateTime>2026-02-02T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60121</EventTypeId>
+          <EventTypeNameEn>Second reading and referral to committee</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture et renvoi en comité</EventTypeNameFr>
+          <EventTypeName>Second reading and referral to committee</EventTypeName>
+          <EventStartDateTime>2026-02-02T12:15:15</EventStartDateTime>
+          <EventEndDateTime>2026-02-02T12:15:15</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2026-02-02T12:15:15</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>13312385</InterventionEventId>
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>88316</PersonId>
+          <PersonOfficialFirstName>Sean</PersonOfficialFirstName>
+          <PersonOfficialLastName>Fraser</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Sean Fraser</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>45</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>73</MeetingNumber>
+          <SpeechDateTime>2026-01-26T12:04:27</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>13312661</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>110354</PersonId>
+          <PersonOfficialFirstName>Larry</PersonOfficialFirstName>
+          <PersonOfficialLastName>Brock</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Larry Brock</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>45</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>73</MeetingNumber>
+          <SpeechDateTime>2026-01-26T12:35:12</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>13312959</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>88605</PersonId>
+          <PersonOfficialFirstName>Rhéal Éloi</PersonOfficialFirstName>
+          <PersonOfficialLastName>Fortin</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Rhéal Éloi Fortin</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Bloc Québécois</CaucusShortNameEn>
+          <CaucusShortNameFr>Bloc Québécois</CaucusShortNameFr>
+          <CaucusShortName>Bloc Québécois</CaucusShortName>
+          <ParliamentNumber>45</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>73</MeetingNumber>
+          <SpeechDateTime>2026-01-26T13:06:30</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>45</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2026-05-25T14:43:38.043</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>30568</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Justice and Human Rights</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la justice et des droits de la personne</CommitteeNameFr>
+          <CommitteeAcronym>JUST</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Justice and Human Rights</CommitteeName>
+          <StudyActivityId>13329019</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented with amendments</NameEn>
+          <NameFr>Présentation du rapport de comité avec des amendements</NameFr>
+          <Name>Committee report presented with amendments</Name>
+          <Number>121</Number>
+          <Date>2026-05-25T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>30568</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Justice and Human Rights</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la justice et des droits de la personne</CommitteeNameFr>
+          <CommitteeAcronym>JUST</CommitteeAcronym>
+          <Number>21</Number>
+          <Date>2026-03-23T00:00:00</Date>
+          <CommitteeName>Standing Committee on Justice and Human Rights</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>30568</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Justice and Human Rights</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la justice et des droits de la personne</CommitteeNameFr>
+          <CommitteeAcronym>JUST</CommitteeAcronym>
+          <Number>22</Number>
+          <Date>2026-03-25T00:00:00</Date>
+          <CommitteeName>Standing Committee on Justice and Human Rights</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>30568</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Justice and Human Rights</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la justice et des droits de la personne</CommitteeNameFr>
+          <CommitteeAcronym>JUST</CommitteeAcronym>
+          <Number>23</Number>
+          <Date>2026-04-13T00:00:00</Date>
+          <CommitteeName>Standing Committee on Justice and Human Rights</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>30568</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Justice and Human Rights</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la justice et des droits de la personne</CommitteeNameFr>
+          <CommitteeAcronym>JUST</CommitteeAcronym>
+          <Number>24</Number>
+          <Date>2026-04-15T00:00:00</Date>
+          <CommitteeName>Standing Committee on Justice and Human Rights</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>30568</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Justice and Human Rights</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la justice et des droits de la personne</CommitteeNameFr>
+          <CommitteeAcronym>JUST</CommitteeAcronym>
+          <Number>25</Number>
+          <Date>2026-04-20T00:00:00</Date>
+          <CommitteeName>Standing Committee on Justice and Human Rights</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>30568</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Justice and Human Rights</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la justice et des droits de la personne</CommitteeNameFr>
+          <CommitteeAcronym>JUST</CommitteeAcronym>
+          <Number>26</Number>
+          <Date>2026-04-22T00:00:00</Date>
+          <CommitteeName>Standing Committee on Justice and Human Rights</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>30568</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Justice and Human Rights</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la justice et des droits de la personne</CommitteeNameFr>
+          <CommitteeAcronym>JUST</CommitteeAcronym>
+          <Number>27</Number>
+          <Date>2026-04-29T00:00:00</Date>
+          <CommitteeName>Standing Committee on Justice and Human Rights</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>30568</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Justice and Human Rights</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la justice et des droits de la personne</CommitteeNameFr>
+          <CommitteeAcronym>JUST</CommitteeAcronym>
+          <Number>28</Number>
+          <Date>2026-05-04T00:00:00</Date>
+          <CommitteeName>Standing Committee on Justice and Human Rights</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>30568</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Justice and Human Rights</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la justice et des droits de la personne</CommitteeNameFr>
+          <CommitteeAcronym>JUST</CommitteeAcronym>
+          <Number>29</Number>
+          <Date>2026-05-06T00:00:00</Date>
+          <CommitteeName>Standing Committee on Justice and Human Rights</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented with amendments</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité avec des amendements</EventNameFr>
+          <EventName>Committee report presented with amendments</EventName>
+          <EventDateTime>2026-05-25T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId>14065925</CommitteeReportId>
+          <CommitteeReportNumber>4</CommitteeReportNumber>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2026-05-25T14:43:38.043</EventStartDateTime>
+          <EventEndDateTime>2026-05-25T14:43:38.043</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2026-05-25T14:43:38.043</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>45</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2026-06-08T15:35:38</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>128</Number>
+          <Date>2026-06-03T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>129</Number>
+          <Date>2026-06-04T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>131</Number>
+          <Date>2026-06-08T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60285</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Concurrence at report stage</EventNameEn>
+          <EventNameFr>Adoption à l'étape du rapport</EventNameFr>
+          <EventName>Concurrence at report stage</EventName>
+          <EventDateTime>2026-06-08T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60285</EventTypeId>
+          <EventTypeNameEn>Concurrence at report stage</EventTypeNameEn>
+          <EventTypeNameFr>Adoption à l'étape du rapport</EventTypeNameFr>
+          <EventTypeName>Concurrence at report stage</EventTypeName>
+          <EventStartDateTime>2026-06-08T15:35:38</EventStartDateTime>
+          <EventEndDateTime>2026-06-08T15:35:38</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2026-06-08T15:35:38</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>45</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2026-06-11T15:15:10</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>132</Number>
+          <Date>2026-06-09T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>133</Number>
+          <Date>2026-06-10T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Third reading</NameEn>
+          <NameFr>Troisième lecture</NameFr>
+          <Name>Third reading</Name>
+          <Number>134</Number>
+          <Date>2026-06-11T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>13571447</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>13820931</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>3rd reading</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>3e lecture</DecisionMotionTitleFr>
+          <DecisionMotionTitle>3rd reading</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>10</DecisionMethodId>
+          <DecisionMethodNameEn>On recorded division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Suivant un vote par appel nominal</DecisionMethodNameFr>
+          <DecisionMethodName>On recorded division</DecisionMethodName>
+          <DivisionNumber>153</DivisionNumber>
+          <DivisionVotesYeas>192</DivisionVotesYeas>
+          <DivisionVotesNays>133</DivisionVotesNays>
+          <DivisionVotePaired>12</DivisionVotePaired>
+          <DecisionSittingDate>2026-06-11T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>134</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2026-06-11T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2026-06-11T15:15:10</EventStartDateTime>
+          <EventEndDateTime>2026-06-11T15:15:10</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2026-06-11T15:15:10</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60038</BillStageId>
+        <BillStageNameEn>Senate pre-study</BillStageNameEn>
+        <BillStageNameFr>Étude préalable au Sénat</BillStageNameFr>
+        <BillStageName>Senate pre-study</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>45</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2026-06-15T15:15:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Pre-study of House bill</NameEn>
+          <NameFr>Étude préalable d'un projet de loi émanant de la Chambre des communes</NameFr>
+          <Name>Pre-study of House bill</Name>
+          <Number>80</Number>
+          <Date>2026-06-09T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Pre-Study of Commons Bill Completed</NameEn>
+          <NameFr>Étude préalable d'un projet de loi émanant de la Chambre des communes complétée</NameFr>
+          <Name>Pre-Study of Commons Bill Completed</Name>
+          <Number>83</Number>
+          <Date>2026-06-15T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>44</Number>
+          <Date>2026-06-10T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>45</Number>
+          <Date>2026-06-11T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>46</Number>
+          <Date>2026-06-12T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>47</Number>
+          <Date>2026-06-12T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>48</Number>
+          <Date>2026-06-15T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>49</Number>
+          <Date>2026-06-15T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60109</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Pre-study of House bill</EventNameEn>
+          <EventNameFr>Étude préalable d'un projet de loi émanant de la Chambre des communes</EventNameFr>
+          <EventName>Pre-study of House bill</EventName>
+          <EventDateTime>2026-06-09T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>false</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <SignificantEvents>
+          <EventTypeId>90362</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Pre-Study of Commons Bill Completed</EventNameEn>
+          <EventNameFr>Étude préalable d'un projet de loi émanant de la Chambre des communes complétée</EventNameFr>
+          <EventName>Pre-Study of Commons Bill Completed</EventName>
+          <EventDateTime>2026-06-15T15:15:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>90362</EventTypeId>
+          <EventTypeNameEn>Pre-Study of Commons Bill Completed</EventTypeNameEn>
+          <EventTypeNameFr>Étude préalable d'un projet de loi émanant de la Chambre des communes complétée</EventTypeNameFr>
+          <EventTypeName>Pre-Study of Commons Bill Completed</EventTypeName>
+          <EventStartDateTime>2026-06-15T15:15:00</EventStartDateTime>
+          <EventEndDateTime>2026-06-15T15:15:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2026-06-15T15:15:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>45</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2026-06-11T10:55:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>First reading</NameEn>
+          <NameFr>Première lecture</NameFr>
+          <Name>First reading</Name>
+          <Number>82</Number>
+          <Date>2026-06-11T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60111</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>First reading</EventNameEn>
+          <EventNameFr>Première lecture</EventNameFr>
+          <EventName>First reading</EventName>
+          <EventDateTime>2026-06-11T10:55:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60111</EventTypeId>
+          <EventTypeNameEn>First reading</EventTypeNameEn>
+          <EventTypeNameFr>Première lecture</EventTypeNameFr>
+          <EventTypeName>First reading</EventTypeName>
+          <EventStartDateTime>2026-06-11T10:55:00</EventStartDateTime>
+          <EventEndDateTime>2026-06-11T10:55:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2026-06-11T10:55:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>45</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2026-06-15T19:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>83</Number>
+          <Date>2026-06-15T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60120</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading</EventNameEn>
+          <EventNameFr>Deuxième lecture</EventNameFr>
+          <EventName>Second reading</EventName>
+          <EventDateTime>2026-06-15T19:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <SignificantEvents>
+          <EventTypeId>60123</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Referral to committee</EventNameEn>
+          <EventNameFr>Renvoi en comité</EventNameFr>
+          <EventName>Referral to committee</EventName>
+          <EventDateTime>2026-06-15T20:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60120</EventTypeId>
+          <EventTypeNameEn>Second reading</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture</EventTypeNameFr>
+          <EventTypeName>Second reading</EventTypeName>
+          <EventStartDateTime>2026-06-15T19:00:00</EventStartDateTime>
+          <EventEndDateTime>2026-06-15T19:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2026-06-15T20:00:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>118533</PersonId>
+          <PersonOfficialFirstName>Manuelle</PersonOfficialFirstName>
+          <PersonOfficialLastName>Oudar</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Manuelle Oudar</PersonName>
+          <SenateSystemAffiliationId>233620</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Independent Senators Group</CaucusShortNameEn>
+          <CaucusShortNameFr>Groupe des sénateurs indépendants</CaucusShortNameFr>
+          <CaucusShortName>Independent Senators Group</CaucusShortName>
+          <ParliamentNumber>45</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>83</MeetingNumber>
+          <SpeechDateTime>2026-06-15T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/451/debates/083db_2026-06-15-e#74</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/451/debates/083db_2026-06-15-f#74</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/451/debates/083db_2026-06-15-e#74</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>29971</PersonId>
+          <PersonOfficialFirstName>Leo</PersonOfficialFirstName>
+          <PersonOfficialLastName>Housakos</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Leo Housakos</PersonName>
+          <SenateSystemAffiliationId>2818</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>45</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>84</MeetingNumber>
+          <SpeechDateTime>2026-06-16T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/451/debates/083db_2026-06-15-e#74</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/451/debates/083db_2026-06-15-f#74</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/451/debates/083db_2026-06-15-e#74</Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>true</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>45</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2026-06-17T10:05:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented without amendment</NameEn>
+          <NameFr>Présentation du rapport de comité sans amendement</NameFr>
+          <Name>Committee report presented without amendment</Name>
+          <Number>85</Number>
+          <Date>2026-06-17T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>50</Number>
+          <Date>2026-06-16T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>51</Number>
+          <Date>2026-06-16T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented without amendment</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité sans amendement</EventNameFr>
+          <EventName>Committee report presented without amendment</EventName>
+          <EventDateTime>2026-06-17T10:05:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2026-06-17T10:05:00</EventStartDateTime>
+          <EventEndDateTime>2026-06-17T10:05:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2026-06-17T10:05:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>45</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2026-06-18T11:05:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>86</Number>
+          <Date>2026-06-18T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2026-06-18T11:05:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2026-06-18T11:05:00</EventStartDateTime>
+          <EventEndDateTime>2026-06-18T11:05:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2026-06-18T11:05:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <RoyalAssent>
+        <BillStageId>60050</BillStageId>
+        <BillStageNameEn>Royal assent</BillStageNameEn>
+        <BillStageNameFr>Sanction royale</BillStageNameFr>
+        <BillStageName>Royal assent</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>45</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>0</State>
+        <StateNameEn />
+        <StateNameFr />
+        <StateAsOfDate />
+        <StateName />
+        <Committee />
+        <Sittings>
+          <NameEn>Royal assent</NameEn>
+          <NameFr>Sanction royale</NameFr>
+          <Name>Royal assent</Name>
+          <Number>86</Number>
+          <Date>2026-06-18T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60149</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Royal assent</EventNameEn>
+          <EventNameFr>Sanction royale</EventNameFr>
+          <EventName>Royal assent</EventName>
+          <EventDateTime>2026-06-18T11:45:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60149</EventTypeId>
+          <EventTypeNameEn>Royal assent</EventTypeNameEn>
+          <EventTypeNameFr>Sanction royale</EventTypeNameFr>
+          <EventTypeName>Royal assent</EventTypeName>
+          <EventStartDateTime>2026-06-18T11:45:00</EventStartDateTime>
+          <EventEndDateTime>2026-06-18T11:45:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2026-06-18T11:45:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </RoyalAssent>
+    </BillStages>
+    <Publications>
+      <PublicationId>13822994</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>14114151</PublicationId>
+      <PublicationTypeId>80702</PublicationTypeId>
+      <PublicationTypeNameEn>As amended by committee</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel que modifié par le comité</PublicationTypeNameFr>
+      <PublicationTypeName>As amended by committee</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>14178528</PublicationId>
+      <PublicationTypeId>80703</PublicationTypeId>
+      <PublicationTypeNameEn>As passed by the House of Commons</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel qu'adopté par la Chambre des communes</PublicationTypeNameFr>
+      <PublicationTypeName>As passed by the House of Commons</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>14204951</PublicationId>
+      <PublicationTypeId>80704</PublicationTypeId>
+      <PublicationTypeNameEn>Royal Assent</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Royal Assent</PublicationTypeNameFr>
+      <PublicationTypeName>Royal Assent</PublicationTypeName>
+    </Publications>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>134</DivisionNumber>
+      <DivisionSubjectEn>Time allocation for Bill C-16, An Act to amend certain Acts in relation to criminal and correctional matters (child protection, gender-based violence, delays and other measures)</DivisionSubjectEn>
+      <DivisionSubjectFr>Attribution de temps pour le projet de loi C-16, Loi modifiant certaines lois en matière pénale et correctionnelle (protection de l'enfance, violence fondée sur le sexe, délais et autres mesures)</DivisionSubjectFr>
+      <DivisionSubject>Time allocation for Bill C-16, An Act to amend certain Acts in relation to criminal and correctional matters (child protection, gender-based violence, delays and other measures)</DivisionSubject>
+      <DivisionVotesYeas>169</DivisionVotesYeas>
+      <DivisionVotesNays>164</DivisionVotesNays>
+      <DivisionVotePaired>6</DivisionVotePaired>
+      <DivisionVoteTotal>339</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2026-06-04T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>135</DivisionNumber>
+      <DivisionSubjectEn>C-16, An Act to amend certain Acts in relation to criminal and correctional matters (child protection, gender-based violence, delays and other measures) (report stage amendment) (Motion No. 1)</DivisionSubjectEn>
+      <DivisionSubjectFr>C-16, Loi modifiant certaines lois en matière pénale et correctionnelle (protection de l'enfance, violence fondée sur le sexe, délais et autres mesures) (amendement à l'étape du rapport) (Motion no 1)</DivisionSubjectFr>
+      <DivisionSubject>C-16, An Act to amend certain Acts in relation to criminal and correctional matters (child protection, gender-based violence, delays and other measures) (report stage amendment) (Motion No. 1)</DivisionSubject>
+      <DivisionVotesYeas>7</DivisionVotesYeas>
+      <DivisionVotesNays>323</DivisionVotesNays>
+      <DivisionVotePaired>10</DivisionVotePaired>
+      <DivisionVoteTotal>340</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2026-06-08T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>136</DivisionNumber>
+      <DivisionSubjectEn>C-16, An Act to amend certain Acts in relation to criminal and correctional matters (child protection, gender-based violence, delays and other measures) (report stage amendment) (Motion No. 2)</DivisionSubjectEn>
+      <DivisionSubjectFr>C-16, Loi modifiant certaines lois en matière pénale et correctionnelle (protection de l'enfance, violence fondée sur le sexe, délais et autres mesures) (amendement à l'étape du rapport) (Motion no 2)</DivisionSubjectFr>
+      <DivisionSubject>C-16, An Act to amend certain Acts in relation to criminal and correctional matters (child protection, gender-based violence, delays and other measures) (report stage amendment) (Motion No. 2)</DivisionSubject>
+      <DivisionVotesYeas>142</DivisionVotesYeas>
+      <DivisionVotesNays>189</DivisionVotesNays>
+      <DivisionVotePaired>10</DivisionVotePaired>
+      <DivisionVoteTotal>341</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2026-06-08T11:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>137</DivisionNumber>
+      <DivisionSubjectEn>Concurrence at report stage of Bill C-16, An Act to amend certain Acts in relation to criminal and correctional matters (child protection, gender-based violence, delays and other measures)</DivisionSubjectEn>
+      <DivisionSubjectFr>Adoption à l'étape du rapport du projet de loi C-16, Loi modifiant certaines lois en matière pénale et correctionnelle (protection de l'enfance, violence fondée sur le sexe, délais et autres mesures)</DivisionSubjectFr>
+      <DivisionSubject>Concurrence at report stage of Bill C-16, An Act to amend certain Acts in relation to criminal and correctional matters (child protection, gender-based violence, delays and other measures)</DivisionSubject>
+      <DivisionVotesYeas>195</DivisionVotesYeas>
+      <DivisionVotesNays>136</DivisionVotesNays>
+      <DivisionVotePaired>10</DivisionVotePaired>
+      <DivisionVoteTotal>341</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2026-06-08T11:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>153</DivisionNumber>
+      <DivisionSubjectEn>3rd reading and adoption of Bill C-16, An Act to amend certain Acts in relation to criminal and correctional matters (child protection, gender-based violence, delays and other measures)</DivisionSubjectEn>
+      <DivisionSubjectFr>3e lecture et adoption du projet de loi C-16, Loi modifiant certaines lois en matière pénale et correctionnelle (protection de l'enfance, violence fondée sur le sexe, délais et autres mesures)</DivisionSubjectFr>
+      <DivisionSubject>3rd reading and adoption of Bill C-16, An Act to amend certain Acts in relation to criminal and correctional matters (child protection, gender-based violence, delays and other measures)</DivisionSubject>
+      <DivisionVotesYeas>192</DivisionVotesYeas>
+      <DivisionVotesNays>133</DivisionVotesNays>
+      <DivisionVotePaired>12</DivisionVotePaired>
+      <DivisionVoteTotal>337</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2026-06-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Dominique Montpetit, "A Snapshot of Gender-Based Violence against Women in Canada," HillNotes, Library of Parliament, 4 December 2023.</TitleEn>
+      <TitleFr>Dominique Montpetit, "Portrait de la violence fondée sur le sexe à l'égard des femmes au Canada," Notes de la Colline, Bibliothèque du Parlement, 4 décembre 2023.</TitleFr>
+      <Title>Dominique Montpetit, "A Snapshot of Gender-Based Violence against Women in Canada," HillNotes, Library of Parliament, 4 December 2023.</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://hillnotes.ca/2023/12/04/a-snapshot-of-gender-based-violence-against-women-in-canada/</UrlEn>
+      <UrlFr>https://notesdelacolline.ca/2023/12/04/portrait-de-la-violence-fondee-sur-le-sexe-a-legard-des-femmes-au-canada/</UrlFr>
+      <Url>https://hillnotes.ca/2023/12/04/a-snapshot-of-gender-based-violence-against-women-in-canada/</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>House of Commons, Standing Committee on Justice and Human Rights. The Shadow Pandemic: Stopping Coercive and Controlling Behaviour in Intimate Relationships, Ninth Report, April 2021.</TitleEn>
+      <TitleFr>Chambre des communes, Comité permanent de la justice et des droits de la personne. La pandémie de l'ombre : mettre fin aux comportements coercitifs et contrôlants dans les relations intimes, Neuvième rapport, avril 2021.</TitleFr>
+      <Title>House of Commons, Standing Committee on Justice and Human Rights. The Shadow Pandemic: Stopping Coercive and Controlling Behaviour in Intimate Relationships, Ninth Report, April 2021.</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.ourcommons.ca/documentviewer/en/43-2/JUST/report-9</UrlEn>
+      <UrlFr>https://www.noscommunes.ca/documentviewer/fr/43-2/JUST/rapport-9</UrlFr>
+      <Url>https://www.ourcommons.ca/documentviewer/en/43-2/JUST/report-9</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Alexsandra Ferland, "Mandatory Minimum Sentences and Section 12 of the Canadian Charter of Rights and Freedoms: Supreme Court of Canada Case Law," HillNotes, Library of Parliament, 4 March 2025.</TitleEn>
+      <TitleFr>Alexsandra Ferland, "Les peines minimales obligatoires et l'article 12 de la Charte canadienne des droits et libertés : jurisprudence de la Cour suprême du Canada, " Notes de la Colline, Bibliothèque du Parlement, 4 mars 2025.</TitleFr>
+      <Title>Alexsandra Ferland, "Mandatory Minimum Sentences and Section 12 of the Canadian Charter of Rights and Freedoms: Supreme Court of Canada Case Law," HillNotes, Library of Parliament, 4 March 2025.</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://hillnotes.ca/2025/03/04/mandatory-minimum-sentences-and-section-12-of-the-canadian-charter-of-rights-and-freedoms-supreme-court-of-canada-case-law/</UrlEn>
+      <UrlFr>https://notesdelacolline.ca/2025/03/04/les-peines-minimales-obligatoires-et-larticle-12-de-la-charte-canadienne-des-droits-et-libertes-jurisprudence-de-la-cour-supreme-du-canada/</UrlFr>
+      <Url>https://hillnotes.ca/2025/03/04/mandatory-minimum-sentences-and-section-12-of-the-canadian-charter-of-rights-and-freedoms-supreme-court-of-canada-case-law/</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>House of Commons, Standing Committee on Canadian Heritage. Harms Caused By Illegal Sexually Explicit Material Online, Fourteenth report, November 2024.</TitleEn>
+      <TitleFr>Chambre des communes, Comité permanent du patrimoine canadien. Torts causés par le matériel sexuellement explicite illégal en ligne, Quatorzième rapport, novembre 2024.</TitleFr>
+      <Title>House of Commons, Standing Committee on Canadian Heritage. Harms Caused By Illegal Sexually Explicit Material Online, Fourteenth report, November 2024.</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.ourcommons.ca/documentviewer/en/44-1/CHPC/report-14</UrlEn>
+      <UrlFr>https://www.noscommunes.ca/documentviewer/fr/44-1/CHPC/rapport-14</UrlFr>
+      <Url>https://www.ourcommons.ca/documentviewer/en/44-1/CHPC/report-14</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Canada overhauls Criminal Code to protect victims and keep kids safe from predators (2025-12-09 | Department of Justice)</TitleEn>
+      <TitleFr>Le Canada procède à une révision du Code criminel pour protéger les victimes et garder les enfants à l'abri des personnes prédatrices (2025-12-09 | Ministère de la Justice)</TitleFr>
+      <Title>Canada overhauls Criminal Code to protect victims and keep kids safe from predators (2025-12-09 | Department of Justice)</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/department-justice/news/2025/12/canada-overhauls-criminal-code-to-protect-victims-and-keep-kids-safe-from-predators.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/ministere-justice/nouvelles/2025/12/le-canada-procede-a-une-revision-du-code-criminel-pour-proteger-les-victimes-et-garder-les-enfants-a-labri-des-personnes-predatrices.html</UrlFr>
+      <Url>https://www.canada.ca/en/department-justice/news/2025/12/canada-overhauls-criminal-code-to-protect-victims-and-keep-kids-safe-from-predators.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Protecting Victims Act: Proposed legislation to protect victims and keep kids safe from predators (2025-12-09 | Department of Justice)</TitleEn>
+      <TitleFr>Loi visant à protéger les victimes : Projet de loi visant à protéger les victimes et à garder les enfants à l'abri des personnes prédatrices (2025-12-09 | Ministère de la Justice)</TitleFr>
+      <Title>Protecting Victims Act: Proposed legislation to protect victims and keep kids safe from predators (2025-12-09 | Department of Justice)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.justice.gc.ca/eng/csj-sjc/pl/c16/index.html</UrlEn>
+      <UrlFr>https://www.justice.gc.ca/fra/sjc-csj/pl/c16/index.html</UrlFr>
+      <Url>https://www.justice.gc.ca/eng/csj-sjc/pl/c16/index.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Mandatory minimum penalties of imprisonment and Bill C-16 (2025-12-09 | Department of Justice)</TitleEn>
+      <TitleFr>Peines minimales obligatoires d'emprisonnement et projet de loi C-16 (2025-12-09 | Ministère de la Justice)</TitleFr>
+      <Title>Mandatory minimum penalties of imprisonment and Bill C-16 (2025-12-09 | Department of Justice)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.justice.gc.ca/eng/csj-sjc/pl/c16/mmpi-pmoe.html</UrlEn>
+      <UrlFr>https://www.justice.gc.ca/fra/sjc-csj/pl/c16/pmoe-mmpi.html</UrlFr>
+      <Url>https://www.justice.gc.ca/eng/csj-sjc/pl/c16/mmpi-pmoe.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Proposed changes to sentences in Bill C-16 (2025-12-09 | Department of Justice)</TitleEn>
+      <TitleFr>Modifications proposées aux peines dans le projet de loi C-16 (2025-12-09 | Ministère de la Justice)</TitleFr>
+      <Title>Proposed changes to sentences in Bill C-16 (2025-12-09 | Department of Justice)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.justice.gc.ca/eng/csj-sjc/pl/c16/pcs-mpp.html</UrlEn>
+      <UrlFr>https://www.justice.gc.ca/fra/sjc-csj/pl/c16/mpp-pcs.html</UrlFr>
+      <Url>https://www.justice.gc.ca/eng/csj-sjc/pl/c16/pcs-mpp.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Canada. Department of Justice. (n.d.) Infosheet: Federal, Provincial and Territorial Responsibilities in Canada's Criminal Justice System. Canada.ca. https://www.justice.gc.ca/eng/csj-sjc/pl/c14/infosheet-fiche.html  [Website]</TitleEn>
+      <TitleFr>Canada. Ministère de la Justice. (s.d.) Fiche d'information : Responsabilités des gouvernements fédéral, provinciaux et territoriaux au sein du système de justice pénale du Canada. Canada.ca. https://www.justice.gc.ca/fra/sjc-csj/pl/c14/fiche-infosheet.html [Site web]</TitleFr>
+      <Title>Canada. Department of Justice. (n.d.) Infosheet: Federal, Provincial and Territorial Responsibilities in Canada's Criminal Justice System. Canada.ca. https://www.justice.gc.ca/eng/csj-sjc/pl/c14/infosheet-fiche.html  [Website]</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.justice.gc.ca/eng/csj-sjc/pl/c14/infosheet-fiche.html</UrlEn>
+      <UrlFr>https://www.justice.gc.ca/fra/sjc-csj/pl/c14/fiche-infosheet.html</UrlFr>
+      <Url>https://www.justice.gc.ca/eng/csj-sjc/pl/c14/infosheet-fiche.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Canada. Department of Justice. (n.d.) Bail and Sentencing Reform Act: Proposed legislation to make bail laws stricter and toughen sentencing laws. Canada.ca. https://www.justice.gc.ca/eng/csj-sjc/pl/c14/index.html [Website]</TitleEn>
+      <TitleFr>Canada. Ministère de la Justice. (s.d.) Loi sur des mesures de réforme concernant la mise en liberté sous caution et la détermination de la peine : Projet de loi proposé visant à rendre les lois sur la mise en liberté sous caution plus strictes et les lois sur la détermination de la peine plus sévères. Canada.ca. https://www.justice.gc.ca/fra/sjc-csj/pl/c14/index.html [Site web]</TitleFr>
+      <Title>Canada. Department of Justice. (n.d.) Bail and Sentencing Reform Act: Proposed legislation to make bail laws stricter and toughen sentencing laws. Canada.ca. https://www.justice.gc.ca/eng/csj-sjc/pl/c14/index.html [Website]</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.justice.gc.ca/eng/csj-sjc/pl/c14/index.html</UrlEn>
+      <UrlFr>https://www.justice.gc.ca/fra/sjc-csj/pl/c14/index.html</UrlFr>
+      <Url>https://www.justice.gc.ca/eng/csj-sjc/pl/c14/index.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Canada. Department of Justice (n.d.). Fact sheets. Fact sheets - Victims' Rights in Canada. https://www.justice.gc.ca/eng/cj-jp/victims-victimes/factsheets-fiches/index.html [Website]</TitleEn>
+      <TitleFr>Canada. Ministère de la Justice. (s.d.) Fiches d'information – Droits des victimes au Canada. https://www.canada.ca/fr/ministere-justice/nouvelles/2025/12/le-canada-procede-a-une-revision-du-code-criminel-pour-proteger-les-victimes-et-garder-les-enfants-a-labri-des-personnes-predatrices.html [Site web]</TitleFr>
+      <Title>Canada. Department of Justice (n.d.). Fact sheets. Fact sheets - Victims' Rights in Canada. https://www.justice.gc.ca/eng/cj-jp/victims-victimes/factsheets-fiches/index.html [Website]</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.justice.gc.ca/eng/cj-jp/victims-victimes/factsheets-fiches/index.html</UrlEn>
+      <UrlFr>https://www.justice.gc.ca/fra/jp-cj/victimes-victims/fiches-factsheets/index.html</UrlFr>
+      <Url>https://www.justice.gc.ca/eng/cj-jp/victims-victimes/factsheets-fiches/index.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Charter Statement - Bill C-16: An Act to amend certain Acts in relation to criminal and correctional matters (child protection, gender-based violence, delays and other measures) (Tabled 2026-02-27)</TitleEn>
+      <TitleFr>Énoncé concernant la Charte - Projet de loi C-16 : Loi modifiant certaines lois en matière pénale et correctionnelle (protection de l'enfance, violence fondée sur le sexe, délais et autres mesures) (Déposé 2026-02-27)</TitleFr>
+      <Title>Charter Statement - Bill C-16: An Act to amend certain Acts in relation to criminal and correctional matters (child protection, gender-based violence, delays and other measures) (Tabled 2026-02-27)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.justice.gc.ca/eng/csj-sjc/pl/charter-charte/c16_3.html</UrlEn>
+      <UrlFr>https://www.justice.gc.ca/fra/sjc-csj/pl/charte-charter/c16_3.html</UrlFr>
+      <Url>https://www.justice.gc.ca/eng/csj-sjc/pl/charter-charte/c16_3.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Canada makes femicide first-degree murder as all three major Criminal Code reforms become law (2026-06-19 | Department of Justice)</TitleEn>
+      <TitleFr>Le Canada érige le féminicide en infraction de meurtre au premier degré alors que les trois principales réformes du Code criminel deviennent loi (2026-06-19 | Ministère de la Justice)</TitleFr>
+      <Title>Canada makes femicide first-degree murder as all three major Criminal Code reforms become law (2026-06-19 | Department of Justice)</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/department-justice/news/2026/06/canada-makes-femicide-first-degree-murder-as-all-three-major-criminal-code-reforms-become-law.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/ministere-justice/nouvelles/2026/06/le-canada-erige-le-feminicide-en-infraction-de-meurtre-au-premier-degre-alors-que-les-trois-principales-reformes-du-code-criminel-deviennent-loi.html</UrlFr>
+      <Url>https://www.canada.ca/en/department-justice/news/2026/06/canada-makes-femicide-first-degree-murder-as-all-three-major-criminal-code-reforms-become-law.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Canada restores mandatory minimums to keep kids safe from predators (2026-06-19 | Department of Justice)</TitleEn>
+      <TitleFr>Le Canada rétablit les peines minimales obligatoires afin de garder les enfants à l'abri des personnes prédatrices (2026-06-19 | Ministère de la Justice)</TitleFr>
+      <Title>Canada restores mandatory minimums to keep kids safe from predators (2026-06-19 | Department of Justice)</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/department-justice/news/2026/06/canada-restores-mandatory-minimums-to-keep-kids-safe-from-predators.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/ministere-justice/nouvelles/2026/06/le-canada-retablit-les-peines-minimales-obligatoires-afin-de-garder-les-enfants-a-labri-des-personnes-predatrices.html</UrlFr>
+      <Url>https://www.canada.ca/en/department-justice/news/2026/06/canada-restores-mandatory-minimums-to-keep-kids-safe-from-predators.html</Url>
+    </WebReferences>
+    <SenatePreStudyCommitteeDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+      <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+      <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+      <CommitteeAcronym>LCJC</CommitteeAcronym>
+      <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+      <StudyActivityId />
+      <OrganizationTypeId />
+      <ParentCommittee />
+      <IsSubCommittee>false</IsSubCommittee>
+      <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+      <IsSenateCommittee>false</IsSenateCommittee>
+      <IsJointCommittee>false</IsJointCommittee>
+    </SenatePreStudyCommitteeDetails>
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>true</IsSessionOngoing>
+  </Bill>
+</Bills>
