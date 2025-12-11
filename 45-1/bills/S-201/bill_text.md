@@ -1,5 +1,7 @@
 # Bill S-201: An Act respecting a national framework on sickle cell disease
 
+**Sponsor**: Senator MÉGIE
+
 ## Summary
 
 This enactment provides for the development of a national framework to support Canadians with sickle cell disease (also known as sickle cell anemia or drepanocytosis), their families and their caregivers.
