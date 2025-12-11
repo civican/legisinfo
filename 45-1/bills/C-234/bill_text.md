@@ -2,7 +2,7 @@
 
 ## Summary
 
-This enactment establishes a medal to be awarded to Canadian citizens and permanent residents who have donated one or more organs in Canada during their lifetime.
+This enactment establishes a medal to be awarded to admissible persons who have donated one of their organs during their lifetime without profiting from their donation.
 
 Whereas thousands of Canadians are currently awaiting life-saving organ transplants, and the generosity of living donors makes these organ transplants possible through the gift of life;
 
@@ -32,7 +32,7 @@ The following definitions apply in this Act.
 
 **Minister** means the member of the King's Privy Council for Canada designated under section 3. (**ministre**)
 
-**organ** includes any form of human tissue. (**organe**)
+**organ** **means** any form of human tissue, **including blood and bone marrow**. (**organe**)
 
 
 ## Designation
@@ -54,23 +54,19 @@ The Governor in Council may determine the design of the Medal and its associated
 
 ### Section 6
 
-  **(1)** The Governor in Council may award the Medal to any living Canadian citizen or permanent resident within the meaning of subsection 2(1) of the `Immigration and Refugee Protection Act` who has donated one or more organs in Canada.
+  **(1)** The Governor **General** may award the Medal to **a person** who has donated one **of their** organs **without profiting from the donation and is eligible for the Medal under the regulations**.
 
   **(2)** The Medal is not to be awarded more than once to the same person.
 
-  **(3)** The Medal is not to be awarded to any of the following persons:
-
-    a Senator;
-
-    a Member of Parliament;
-
-    a person excluded by the regulations; or
-
-    a person within a class of persons excluded by the regulations.
+  **(3)** [*Deleted*]
 
 ### Section 7
 
-In order to recognize and promote living organ donation, the Medal is to be presented to the recipient, whenever possible, by a representative of the Crown, a Senator or a Member of Parliament in a public ceremony.
+In order to recognize and promote living organ donation, the Medal is to be presented to the recipient, whenever possible, in a public ceremony **and** by a representative of the Crown, **a territorial commissioner**, a Senator, a member of **the House of Commons** or **a representative of an entity prescribed by regulation or of an entity of a prescribed class of entities. A public servant designated by the Office of the Governor General's Secretary determines whether the ceremony is public and the choice of presenter**.
+
+### Section 7.1
+
+A recipient of the Medal is entitled to use the post-nominal letters "L.D.M.".
 
 
 ## Regulations
@@ -79,13 +75,13 @@ In order to recognize and promote living organ donation, the Medal is to be pres
 
 The Governor in Council may make regulations
 
-respecting the process for nominating persons to be considered for award of the Medal;
+respecting the **eligibility criteria for** the Medal;
 
-prescribing persons or classes of persons who are excluded from eligibility for the Medal;
+prescribing **entities** or classes of **entities that are responsible for assessing** eligibility for the Medal **or assisting with that assessment**; and
 
-specifying how the Medal is to be presented; and
+prescribing entities or classes of entities for the purposes of section 7.
 
-providing for the use of post-nominals by recipients of the Medal.
+[*Deleted*]
 
 
 ## Prerogative
@@ -99,14 +95,12 @@ Nothing in this Act limits the right of the Governor General to exercise all pow
 
 ### Section 10
 
-Every year, the Minister must prepare a report setting out the number of recipients of the Medal in the previous year and cause it to be tabled in each House of Parliament on any of the first 15 sitting days of that House after April 15.
+[*Deleted*]
 
 
 ## Implementation
 
 ### Section 11
 
-  **(1)** The Minister must, in consultation with the Office of the Secretary to the Governor General, prepare a report on the implementation of this Act and cause it to be tabled in each House of Parliament on any of the first 15 sitting days of that House after the first anniversary of the day on which this Act comes into force.
-
-  **(2)** If no Medals have been awarded at the time the report is prepared, the report must include reasons for the delay.
+[*Deleted*]
 
