@@ -1,7 +1,5 @@
 # Bill C-12: An Act respecting certain measures relating to the security of Canada's borders and the integrity of the Canadian immigration system and respecting other related security measures
 
-**Sponsor**: MINISTER OF PUBLIC SAFETY
-
 Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act respecting certain measures relating to the security of Canada's borders and the integrity of the Canadian immigration system and respecting other related security measures*".
 
 ## Summary
@@ -203,7 +201,7 @@ The Act is amended by adding the following after section 97:
 
 ### Section 97.01
 
-  ****(1)**** Every person who transports or causes to be transported within Canada goods destined for export must, at an officer's request, give the officer free access to any premises or place under the person's control that is attached to or forms part of any place where any goods destined for export are reported, loaded, unloaded or stored and open any package or container of those goods or remove any packaging from those goods.
+  **(1)** Every person who transports or causes to be transported within Canada goods destined for export must, at an officer's request, give the officer free access to any premises or place under the person's control that is attached to or forms part of any place where any goods destined for export are reported, loaded, unloaded or stored and open any package or container of those goods or remove any packaging from those goods.
 
   **(2)** If any premises or place referred to in subsection (1) is a dwelling-house, an officer may not enter that dwelling-house without the consent of the occupant except under the authority of a warrant issued under subsection (3).
 
@@ -502,7 +500,7 @@ Subsection 40(2) of the `Oceans Act` is replaced by the following:
 
 ### Section 41
 
-      **(1)** The Minister **of National Defence** is responsible for coast guard services and their powers, duties and functions extend to and include all matters over which Parliament has jurisdiction, not assigned by law to any other department, board or agency of the Government of Canada, relating to
+      **(1)** The Minister of National Defence is responsible for coast guard services and their powers, duties and functions extend to and include all matters over which Parliament has jurisdiction, not assigned by law to any other department, board or agency of the Government of Canada, relating to
 
   **(2)** Subsection 41(1) of the Act is amended by striking out "and" at the end of paragraph (d) and by replacing paragraph (e) with the following:
 
@@ -512,7 +510,7 @@ Subsection 40(2) of the `Oceans Act` is replaced by the following:
 
   **(3)** Subsection 41(2) of the Act is replaced by the following:
 
-    **(2)** The Minister **of National Defence** shall ensure that the services referred to in subparagraphs (1)(a)(i) to (iv) are provided in a cost-effective manner.
+    **(2)** The Minister of National Defence shall ensure that the services referred to in subparagraphs (1)(a)(i) to (iv) are provided in a cost-effective manner.
 
 ### Section 26
 
@@ -823,17 +821,35 @@ The Act is amended by adding the following after section 104:
 
 ### Section 104.1
 
-  **(1)** For the purposes of subsection 107(1), if **a person making** a claim for refugee protection is not physically present in Canada, the Refugee Protection Division
+  **(1)** For the purposes of subsection 107(1), if a person making a claim for refugee protection is not physically present in Canada, the Refugee Protection Division
 
-    in the case of a new claim, must not commence consideration of the claim; or
+    in the case where the person has
+voluntarily returned to the country in
+respect of which they claimed refugee
+protection and the Refugee Protection
+Division has not yet made a decision in
+respect of the claim, must determine that
+the claim has been abandoned; and
 
-    in the case of an ongoing claim where the person returns to their country of origin, must deem the claim to have been abandoned.
+    in any other case, must not
+commence, or must suspend,
+consideration of the claim.
 
-  **(2)** If **a** person who is the subject of **an** appeal is not physically present in Canada, the Refugee Appeal Division
+  **(2)** If a person who is the subject of an appeal is not physically present in Canada, the Refugee Appeal Division
 
-    **in the case of a new appeal**, must not commence consideration of **the** appeal, other than an appeal by the Minister; **or**
+    in the case where the person has made
+the appeal and has voluntarily returned to
+the country in respect of which they
+claimed refugee protection and the
+Refugee Appeal Division has not yet made
+a decision in respect of the appeal, must
+determine that the appeal has been
+abandoned; and
 
-    in the case of an ongoing appeal where the person returns to their country of origin, must deem the claim to have been abandoned.
+    in any other case, must not commence,
+or must suspend, consideration of the
+appeal, other than an appeal by the
+Minister.
 
 ### Section 48
 
@@ -859,7 +875,7 @@ Section 111 of the Act is amended by adding the following after subsection (2):
 
     time limits for providing documents and information under subsection 100(4) and the extension of those time limits, including extensions by the Minister;
 
-  **(2)** Subsection 111.1(1) is amended by adding the following after paragraph (a):
+  **(2)** Subsection 111.1(1) of the Act is amended by adding the following after paragraph (a):
 
     time limits for the Minister to consider claims under subsection 100(1);
 
@@ -1105,7 +1121,7 @@ For the purposes of subsections 87.301(1), 87.302(1) and 87.303(1) and (2), the 
 
     impose or vary such conditions on temporary residents for the period set out in the order or, if a period is not set out, during the period for which the order is in force.
 
-  **(1.1)** For greater certainty, the authority to vary under subsection (1) does not include the authority to grant permanent resident status.
+  **(1.1)** For greater certainty, the authority to vary under subsection (1) does not include the authority to grant permanent resident status or to grant or extend study permits or work permits.
 
   **(2)** An order made under subsection (1) whose measures concern, in whole or in part, persons inside Canada must be made on the Minister's recommendation with the concurrence of the Minister of Public Safety and Emergency Preparedness.
 
