@@ -33,15 +33,7 @@ Comprehensive and Progressive Agreement for Trans-Pacific Partnership between Ca
 
 The definition **regulated foreign entity** in section 2 of the `Trust and Loan Companies Act` is replaced by the following:
 
-**regulated foreign entity** **has the same meaning as** in **section 2** of the `Bank Act`; (**entité étrangère réglementée**)
-
-
-> **Explanatory Note**:
-> Existing text of the definition:
-> *Existing Text*:
-> > **regulated foreign entity** means an entity that is
-> > incorporated or formed otherwise in a country or territory, other than Canada, in which a trade agreement listed in Schedule IV of the `Bank Act` is applicable, and
-> > subject to financial services regulation in that country or territory; (**entité étrangère réglementée**)
+**regulated foreign entity** has the same meaning as in section 2 of the `Bank Act`; (**entité étrangère réglementée**)
 
 
 ## `Bank Act`
@@ -50,14 +42,7 @@ The definition **regulated foreign entity** in section 2 of the `Trust and Loan 
 
 Paragraph (a) of the definition **regulated foreign entity** in section 2 of the `Bank Act` is replaced by the following:
 
-incorporated or formed otherwise in a country or territory, other than Canada, **that** is **referred to** in Schedule IV, and
-
-
-> **Explanatory Note**:
-> Relevant portion of the definition:
-> *Existing Text*:
-> > **regulated foreign entity** means an entity that is
-> > incorporated or formed otherwise in a country or territory, other than Canada, in which a trade agreement listed in Schedule IV is applicable, and
+incorporated or formed otherwise in a country or territory, other than Canada, that is referred to in Schedule IV, and
 
 ### Section 5
 
@@ -65,77 +50,39 @@ Section 14.11 of the Act is replaced by the following:
 
 ### Section 14.11
 
-For the purpose of implementing Canada's international trade obligations, the Governor in Council may, by order, amend Schedule IV by adding, deleting or **amending any item**.
-
-
-> **Explanatory Note**:
-> Existing text of section 14.11:
-> *Existing Text*:
-> > For the purpose of implementing Canada's international trade obligations, the Governor in Council may, by order, amend Schedule IV by adding or deleting the name of a trade agreement.
+For the purpose of implementing Canada's international trade obligations, the Governor in Council may, by order, amend Schedule IV by adding, deleting or amending any item.
 
 ### Section 6
 
 Subsection 239(3.1) of the Act is replaced by the following:
 
-**(3.1)** Subject to subsection 245(1.1), subsection (1) does not apply to a bank that is a subsidiary of a foreign bank incorporated or formed otherwise in a country or territory, other than Canada, **that** is **referred to** in Schedule IV or of a regulated foreign entity.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 239(3.1):
-> *Existing Text*:
-> > Subject to subsection 245(1.1), subsection (1) does not apply to a bank that is a subsidiary of a foreign bank incorporated or formed otherwise in a country or territory other than Canada in which a trade agreement listed in Schedule IV is applicable or of a regulated foreign entity.
+**(3.1)** Subject to subsection 245(1.1), subsection (1) does not apply to a bank that is a subsidiary of a foreign bank incorporated or formed otherwise in a country or territory, other than Canada, that is referred to in Schedule IV or of a regulated foreign entity.
 
 ### Section 7
 
 Subsection 251(3) of the Act is replaced by the following:
 
-**(3)** Subject to subsection 245(1.1), subsection (1) does not apply to a bank that is a subsidiary of a foreign bank incorporated or formed otherwise in a country or territory, other than Canada, **that** is **referred to** in Schedule IV or of a regulated foreign entity.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 251(3):
-> *Existing Text*:
-> > Subject to subsection 245(1.1), subsection (1) does not apply to a bank that is a subsidiary of a foreign bank incorporated or formed otherwise in a country or territory other than Canada in which a trade agreement listed in Schedule IV is applicable or of a regulated foreign entity.
+**(3)** Subject to subsection 245(1.1), subsection (1) does not apply to a bank that is a subsidiary of a foreign bank incorporated or formed otherwise in a country or territory, other than Canada, that is referred to in Schedule IV or of a regulated foreign entity.
 
 ### Section 8
 
 Paragraphs 597(2.1)(a) and (b) of the Act are replaced by the following:
 
-incorporated in a country or territory, other than Canada, **that** is **referred to** in Schedule IV; or
+incorporated in a country or territory, other than Canada, that is referred to in Schedule IV; or
 
-a subsidiary of a foreign bank incorporated or formed otherwise in a country or territory, other than Canada, **that** is **referred to** in Schedule IV or of a regulated foreign entity.
-
-
-> **Explanatory Note**:
-> Relevant portion of subsection 597(2.1):
-> *Existing Text*:
-> > Subject to subsection 245(1.1), subsection (2) does not apply to an authorized foreign bank that is:
-> > incorporated in a country or territory other than Canada in which a trade agreement listed in Schedule IV is applicable; or
-> > a subsidiary of a foreign bank incorporated or formed otherwise in a country or territory other than Canada in which a trade agreement listed in Schedule IV is applicable or of a regulated foreign entity.
+a subsidiary of a foreign bank incorporated or formed otherwise in a country or territory, other than Canada, that is referred to in Schedule IV or of a regulated foreign entity.
 
 ### Section 9
 
 Subsection 816(1.1) of the Act is replaced by the following:
 
-**(1.1)** Subject to subsection 822(1.1), subsection (1) does not apply to a bank holding company that is a subsidiary of a foreign bank incorporated or formed otherwise in a country or territory, other than Canada, **that** is **referred to** in Schedule IV or of a regulated foreign entity.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 816(1.1):
-> *Existing Text*:
-> > Subject to subsection 822(1.1), subsection (1) does not apply to a bank holding company that is a subsidiary of a foreign bank incorporated or formed otherwise in a country or territory other than Canada in which a trade agreement listed in Schedule IV is applicable or of a regulated foreign entity.
+**(1.1)** Subject to subsection 822(1.1), subsection (1) does not apply to a bank holding company that is a subsidiary of a foreign bank incorporated or formed otherwise in a country or territory, other than Canada, that is referred to in Schedule IV or of a regulated foreign entity.
 
 ### Section 10
 
 Subsection 828(3) of the Act is replaced by the following:
 
-**(3)** Subject to subsection 822(1.1), subsection (1) does not apply to a bank holding company that is a subsidiary of a foreign bank incorporated or formed otherwise in acountry or territory, other than Canada, **that** is **referred to** in Schedule IV or of a regulated foreign entity.
-
-
-> **Explanatory Note**:
-> Existing text of subsection 828(3):
-> *Existing Text*:
-> > Subject to subsection 822(1.1), subsection (1) does not apply to a bank holding company that is a subsidiary of a foreign bank incorporated or formed otherwise in a country or territory other than Canada in which a trade agreement listed in Schedule IV is applicable or of a regulated foreign entity.
+**(3)** Subject to subsection 822(1.1), subsection (1) does not apply to a bank holding company that is a subsidiary of a foreign bank incorporated or formed otherwise in acountry or territory, other than Canada, that is referred to in Schedule IV or of a regulated foreign entity.
 
 ### Section 11
 
@@ -148,15 +95,7 @@ Schedule IV to the Act is replaced by the Schedule IV set out in Schedule 1 to t
 
 The definition **regulated foreign entity** in subsection 2(1) of the `Insurance Companies Act` is replaced by the following:
 
-**regulated foreign entity** **has the same meaning as** in **section 2** of the `Bank Act`; (**entité étrangère réglementée**)
-
-
-> **Explanatory Note**:
-> Existing text of the definition:
-> *Existing Text*:
-> > **regulated foreign entity** means an entity that is
-> > incorporated or formed otherwise in a country or territory, other than Canada, in which a trade agreement listed in Schedule IV of the `Bank Act` is applicable; and
-> > subject to financial services regulation in that country or territory; (**entité étrangère réglementée**)
+**regulated foreign entity** has the same meaning as in section 2 of the `Bank Act`; (**entité étrangère réglementée**)
 
 
 ## `Customs Tariff`
@@ -165,21 +104,13 @@ The definition **regulated foreign entity** in subsection 2(1) of the `Insurance
 
 The definition **CPTPP tariff** in subsection 2(1) of the `Customs Tariff` is amended by striking out "and" at the end of paragraph (j), by adding "and" at the end of paragraph (k) and by adding the following after paragraph (k):
 
-**the Comprehensive and Progressive United Kingdom Tariff. (**tarif PTPGP**)**
-
-
-> **Explanatory Note**:
-> New.
+the Comprehensive and Progressive United Kingdom Tariff. (**tarif PTPGP**)
 
 ### Section 14
 
 Section 27 of the Act is amended by adding the following in alphabetical order:
 
 **CPUKT** refers to the Comprehensive and Progressive United Kingdom Tariff. (**TUKGP**)
-
-
-> **Explanatory Note**:
-> New.
 
 ### Section 15
 
@@ -250,15 +181,11 @@ The Act is amended by adding the following after section 52.81:
 
     may exempt goods from the conditions set out in subsection 24(1) and prescribe any conditions that apply.
 
-
-> **Explanatory Note**:
-> New.
-
 ### Section 16
 
   **(1)** The portion of paragraph 76(4)(b) of the Act before subparagraph (i) is replaced by the following:
 
-    may — **in respect of goods that are entitled to** the **Comprehensive and Progressive Trans-Pacific Partnership Tariff** — be in effect during the period beginning on **December 30, 2018** and ending
+    may — in respect of goods that are entitled to the Comprehensive and Progressive Trans-Pacific Partnership Tariff — be in effect during the period beginning on December 30, 2018 and ending
 
   **(2)** Subsection 76(4) of the Act is amended by adding the following after paragraph (b):
 
@@ -293,13 +220,7 @@ adding in the columns "Preferential Tariff / Initial Rate" and "Preferential Tar
 
 The definition **Agreement** in section 2 of the `Comprehensive and Progressive Agreement for Trans-Pacific Partnership Implementation Act` is replaced by the following:
 
-**Agreement** means the Comprehensive and Progressive Agreement for Trans-Pacific Partnership between Canada, Australia, Brunei, Chile, Japan, Malaysia, Mexico, New Zealand, Peru, Singapore and Vietnam, done at Santiago on March 8, 2018, **and any accession protocol that is listed in the schedule**. (**Accord**)
-
-
-> **Explanatory Note**:
-> Existing text of the definition:
-> *Existing Text*:
-> > **Agreement** means the Comprehensive and Progressive Agreement for Trans-Pacific Partnership between Canada, Australia, Brunei, Chile, Japan, Malaysia, Mexico, New Zealand, Peru, Singapore and Vietnam, done at Santiago on March 8, 2018. (**Accord**)
+**Agreement** means the Comprehensive and Progressive Agreement for Trans-Pacific Partnership between Canada, Australia, Brunei, Chile, Japan, Malaysia, Mexico, New Zealand, Peru, Singapore and Vietnam, done at Santiago on March 8, 2018, and any accession protocol that is listed in the schedule. (**Accord**)
 
 ### Section 20
 
@@ -307,17 +228,22 @@ Section 9 of the Act is renumbered as subsection 9(1) and is amended by adding t
 
 **(2)** For greater certainty, any accession protocol that is listed in the schedule is also approved.
 
+### Section 20.1
 
-> **Explanatory Note**:
-> New.
+The Act is amended by adding the following after section 13:
+
+
+### Review of Accession of United Kingdom
+
+### Section 13.1
+
+  **(1)** Three years after the coming into force of this Act, and at the end of every three-year period after that, a comprehensive review of the accession of the United Kingdom to the Agreement and of the provisions and operation of this Act, including the effect of those provisions, must be undertaken by a committee of the House of Commons that is designated or established by the House for that purpose.
+
+  **(2)** The committee must, within six months after the completion of the review, submit to the House of Commons a report setting out its findings and any changes it would recommend.
 
 ### Section 21
 
 Section 47 of the Act is repealed.
-
-
-> **Explanatory Note**:
-> The existing text of section 47 is not reproduced here because it is a provision that has produced its effect. Its repeal is consequential to clause 22 and ensures that spent schedule references in the Act are deleted.
 
 ### Section 22
 
