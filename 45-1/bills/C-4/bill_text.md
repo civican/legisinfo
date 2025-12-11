@@ -1,7 +1,5 @@
 # Bill C-4: An Act respecting certain affordability measures for Canadians and another measure
 
-**Sponsor**: MINISTER OF FINANCE AND NATIONAL REVENUE
-
 Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act respecting certain affordability measures for Canadians and another measure*".
 
 ## Summary
@@ -92,7 +90,7 @@ This Act may be cited as the `Making Life More Affordable for Canadians Act`.
 
     in the case of a residential unit situated outside Canada, a share of the capital stock of, or an interest in, an entity that is similar to a cooperative housing corporation, which share or interest entitles the other individual to possess the residential unit; (**acheteur d'une première habitation**)
 
-  **(2)** Subsection (1) is deemed to have come into force on **March 20**, 2025.
+  **(2)** Subsection (1) is deemed to have come into force on March 20, 2025.
 
 ### Section 4
 
@@ -102,7 +100,7 @@ This Act may be cited as the `Making Life More Affordable for Canadians Act`.
 
       a particular individual is entitled to claim a rebate under subsection (2) in respect of a residential complex that is a single unit residential complex or a residential condominium unit or would be so entitled if the references in paragraphs (2)(c) and (i) to "$450,000" were read as "$1,500,000",
 
-      the agreement of purchase and sale referred to in paragraph (2)(b) is entered into after **March 19**, 2025 and before 2031,
+      the agreement of purchase and sale referred to in paragraph (2)(b) is entered into after March 19, 2025 and before 2031,
 
       the construction or substantial renovation of the residential complex begins before 2031 and is substantially completed before 2036,
 
@@ -130,7 +128,7 @@ This Act may be cited as the `Making Life More Affordable for Canadians Act`.
 
       is the total consideration.
 
-  **(2)** Subsection (1) is deemed to have come into force on **March 20**, 2025.
+  **(2)** Subsection (1) is deemed to have come into force on March 20, 2025.
 
 ### Section 5
 
@@ -140,7 +138,7 @@ This Act may be cited as the `Making Life More Affordable for Canadians Act`.
 
       a particular individual is entitled to claim a rebate under subsection (2) in respect of a residential complex or would be so entitled if the references in paragraphs (2)(c) and (i) to "$472,500" were read as "$1,575,000",
 
-      the agreement referred to in paragraph (2)(a) is entered into after **March 19**, 2025 and before 2031,
+      the agreement referred to in paragraph (2)(a) is entered into after March 19, 2025 and before 2031,
 
       the construction or substantial renovation of the residential complex begins before 2031 and is substantially completed before 2036,
 
@@ -168,7 +166,7 @@ This Act may be cited as the `Making Life More Affordable for Canadians Act`.
 
       is the fair market value.
 
-  **(2)** Subsection (1) is deemed to have come into force on **March 20**, 2025.
+  **(2)** Subsection (1) is deemed to have come into force on March 20, 2025.
 
 ### Section 6
 
@@ -178,7 +176,7 @@ This Act may be cited as the `Making Life More Affordable for Canadians Act`.
 
       a particular individual is entitled to claim a rebate under subsection (2) in respect of a share of the capital stock of a cooperative housing corporation that entitles the particular individual to the possession of a residential unit in a residential complex or the particular individual would be entitled to claim a rebate under subsection (2) in respect of such a share if the references in paragraphs (2)(d) and (h) to "$472,500" were read as "$1,575,000",
 
-      the agreement of purchase and sale referred to in paragraph (2)(c) is entered into after **March 19**, 2025 and before 2031,
+      the agreement of purchase and sale referred to in paragraph (2)(c) is entered into after March 19, 2025 and before 2031,
 
       the construction or substantial renovation of the residential complex begins before 2031 and is substantially completed before 2036,
 
@@ -206,7 +204,7 @@ This Act may be cited as the `Making Life More Affordable for Canadians Act`.
 
       is the total consideration.
 
-  **(2)** Subsection (1) is deemed to have come into force on **March 20**, 2025.
+  **(2)** Subsection (1) is deemed to have come into force on March 20, 2025.
 
 ### Section 7
 
@@ -216,7 +214,7 @@ This Act may be cited as the `Making Life More Affordable for Canadians Act`.
 
       a particular individual is entitled to claim a rebate under subsection (2) in respect of a residential complex that is a single unit residential complex or a residential condominium unit or would be so entitled if the references in that subsection to "$450,000" were read as "$1,500,000",
 
-      the construction or substantial renovation of the residential complex begins after **March 19**, 2025 and before 2031 and is substantially completed before 2036, and
+      the construction or substantial renovation of the residential complex begins after March 19, 2025 and before 2031 and is substantially completed before 2036, and
 
       the particular individual
 
@@ -248,7 +246,7 @@ This Act may be cited as the `Making Life More Affordable for Canadians Act`.
 
     the particular individual is acquiring or importing the mobile home or floating home for use as the primary place of residence of the particular individual or of a relation of the particular individual, and
 
-  **(3)** Subsections (1) and (2) are deemed to have come into force on **March 20**, 2025.
+  **(3)** Subsections (1) and (2) are deemed to have come into force on March 20, 2025.
 
 ### Section 8
 
@@ -268,7 +266,7 @@ This Act may be cited as the `Making Life More Affordable for Canadians Act`.
 
     the amount of the rebate, if any, under subsection 255(2.1) that the recipient of the exempt supply of the unit was entitled to claim in respect of the unit.
 
-  **(3)** Subsections (1) and (2) are deemed to have come into force on **March 20**, 2025.
+  **(3)** Subsections (1) and (2) are deemed to have come into force on March 20, 2025.
 
 ### Section 9
 
@@ -284,7 +282,7 @@ This Act may be cited as the `Making Life More Affordable for Canadians Act`.
 
     only one of those individuals may apply for the rebate under subsection 254(2.1), 254.1(2.1), 255(2.1) or 256(2.1), as the case may be, in respect of the complex or share and the individual that applies for that rebate must meet the criteria set out in paragraph 254(2.1)(e), 254.1(2.1)(e), 255(2.1)(e) or 256(2.1)(c), as the case may be.
 
-  **(3)** Subsections (1) and (2) are deemed to have come into force on **March 20**, 2025.
+  **(3)** Subsections (1) and (2) are deemed to have come into force on March 20, 2025.
 
 ### Section 10
 
@@ -296,11 +294,11 @@ This Act may be cited as the `Making Life More Affordable for Canadians Act`.
 
       **(2)** A particular rebate under subsection 254(2.1), 254.1(2.1), 255(2.1) or 256(2.1), for which a particular individual makes an application, shall not be paid if
 
-        after **March 19**, 2025 and before the particular time referred to in subparagraph 254(2.1)(e)(iii), 254.1(2.1)(e)(iii), 255(2.1)(e)(iii) or 256(2.1)(c)(iv), as the case may be, the particular individual, or another individual who is at the particular time a spouse or common-law partner of the particular individual, makes an application for another rebate under any of those subsections; and
+        after March 19, 2025 and before the particular time referred to in subparagraph 254(2.1)(e)(iii), 254.1(2.1)(e)(iii), 255(2.1)(e)(iii) or 256(2.1)(c)(iv), as the case may be, the particular individual, or another individual who is at the particular time a spouse or common-law partner of the particular individual, makes an application for another rebate under any of those subsections; and
 
         the particular individual or the other individual, as the case may be, is entitled to the other rebate.
 
-      **(3)** If, after **March 19**, 2025, a particular individual makes an application for, and is entitled to, a rebate under subsection 254(2.1), 254.1(2.1), 255(2.1) or 256(2.1), if the rebate is payable to a group of individuals and if another individual who is a member of that group is a spouse or common-law partner of the particular individual at the particular time referred to in subparagraph 254(2.1)(e)(iii), 254.1(2.1)(e)(iii), 255(2.1)(e)(iii) or 256(2.1)(c)(iv), as the case may be, the other individual is deemed, for the purposes of subsection (2), to file at the particular time an application for the rebate and to be entitled to the rebate.
+      **(3)** If, after March 19, 2025, a particular individual makes an application for, and is entitled to, a rebate under subsection 254(2.1), 254.1(2.1), 255(2.1) or 256(2.1), if the rebate is payable to a group of individuals and if another individual who is a member of that group is a spouse or common-law partner of the particular individual at the particular time referred to in subparagraph 254(2.1)(e)(iii), 254.1(2.1)(e)(iii), 255(2.1)(e)(iii) or 256(2.1)(c)(iv), as the case may be, the other individual is deemed, for the purposes of subsection (2), to file at the particular time an application for the rebate and to be entitled to the rebate.
 
 ### Section 263.4
 
@@ -328,13 +326,13 @@ This Act may be cited as the `Making Life More Affordable for Canadians Act`.
 
         one or more members of the particular group are not dealing at arm's length with one or more members of the other group.
 
-      **(3)** For the purposes of subsections (4) and (5) and paragraphs 254(2.1)(b), 254.1(2.1)(b) and 255(2.1)(b), if an agreement of sale in respect of a residential complex is entered into before **March 20**, 2025 and the agreement of sale is later varied, altered or assigned such that it is considered to be entered into after **March 19**, 2025, the agreement of sale is deemed to have been entered into before **March 20**, 2025.
+      **(3)** For the purposes of subsections (4) and (5) and paragraphs 254(2.1)(b), 254.1(2.1)(b) and 255(2.1)(b), if an agreement of sale in respect of a residential complex is entered into before March 20, 2025 and the agreement of sale is later varied, altered or assigned such that it is considered to be entered into after March 19, 2025, the agreement of sale is deemed to have been entered into before March 20, 2025.
 
       **(4)** For the purposes of subsections (3) and (5) and paragraphs 254(2.1)(b), 254.1(2.1)(b) and 255(2.1)(b), if
 
-        before **March 20**, 2025, a particular person that is a builder or a cooperative housing corporation and a particular individual enter into a particular agreement of sale in respect of a particular residential complex,
+        before March 20, 2025, a particular person that is a builder or a cooperative housing corporation and a particular individual enter into a particular agreement of sale in respect of a particular residential complex,
 
-        after **March 19**, 2025,
+        after March 19, 2025,
 
         the particular person and the particular individual, either directly or indirectly, terminate the particular agreement of sale, and
 
@@ -348,13 +346,13 @@ This Act may be cited as the `Making Life More Affordable for Canadians Act`.
 
         the entering into of the other agreement of sale may not reasonably be considered for the particular individual, the other individual or the group, as the case may be, to have been undertaken or arranged primarily for bona fide purposes other than to obtain a rebate under any of subsections 254(2.1), 254.1(2.1) and 255(2.1),
 
-        the other agreement of sale is deemed to have been entered into before **March 20**, 2025.
+        the other agreement of sale is deemed to have been entered into before March 20, 2025.
 
       **(5)** For the purposes of subsections (3) and (4) and paragraphs 254(2.1)(b), 254.1(2.1)(b) and 255(2.1)(b), if
 
-        before **March 20**, 2025, a particular person that is a builder or a cooperative housing corporation and a particular group of individuals enter into a particular agreement of sale in respect of a particular residential complex,
+        before March 20, 2025, a particular person that is a builder or a cooperative housing corporation and a particular group of individuals enter into a particular agreement of sale in respect of a particular residential complex,
 
-        after **March 19**, 2025,
+        after March 19, 2025,
 
         the particular person and the particular group, either directly or indirectly, terminate the particular agreement of sale, and
 
@@ -368,9 +366,9 @@ This Act may be cited as the `Making Life More Affordable for Canadians Act`.
 
         the entering into of the other agreement of sale may not reasonably be considered for the particular group, the individual or the other group, as the case may be, to have been undertaken or arranged primarily for bona fide purposes other than to obtain a rebate under any of subsections 254(2.1), 254.1(2.1) and 255(2.1),
 
-        the other agreement of sale is deemed to have been entered into before **March 20**, 2025.
+        the other agreement of sale is deemed to have been entered into before March 20, 2025.
 
-  **(2)** Subsection (1) is deemed to have come into force on **March 20**, 2025.
+  **(2)** Subsection (1) is deemed to have come into force on March 20, 2025.
 
 
 ### `Nova Scotia HST Regulations, 2010`
@@ -379,7 +377,7 @@ This Act may be cited as the `Making Life More Affordable for Canadians Act`.
 
   **(1)** Sections 15 to 18 of the `Nova Scotia HST Regulations, 2010` are repealed.
 
-  **(2)** Subsection (1) is deemed to have come into force on **March 20**, 2025.
+  **(2)** Subsection (1) is deemed to have come into force on March 20, 2025.
 
 
 ### `New Harmonized Value-added Tax System Regulations, No. 2`
@@ -442,7 +440,7 @@ This Act may be cited as the `Making Life More Affordable for Canadians Act`.
 
     the references in the description of A in the formula in paragraph (f) and in the description of C in the formula in paragraph (g) of that subsection to "4.77%" are to be read as references to "4.35%".
 
-  **(2)** Subsection (1) is deemed to have come into force on **March 20**, 2025.
+  **(2)** Subsection (1) is deemed to have come into force on March 20, 2025.
 
 ### Section 13
 
@@ -502,7 +500,7 @@ This Act may be cited as the `Making Life More Affordable for Canadians Act`.
 
     the references in the description of A in the formula in paragraph (f) and in the description of C in the formula in paragraph (g) of that subsection to "4.77%" are to be read as references to "4.35%".
 
-  **(2)** Subsection (1) is deemed to have come into force on **March 20**, 2025.
+  **(2)** Subsection (1) is deemed to have come into force on March 20, 2025.
 
 
 ## Amendments to the `Greenhouse Gas Pollution Pricing Act` and the `Fuel Charge Regulations`
