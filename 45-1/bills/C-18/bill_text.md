@@ -12,9 +12,13 @@ approves the Agreement;
 
 provides that no recourse may be taken on the basis of certain provisions of the enactment or any order made under those provisions, or on the basis of the provisions of the Agreement, without the consent of the Attorney General of Canada;
 
-provides for payment by Canada of its share of the expenditures associated with the operation of the institutional and administrative aspects of the Agreement; and
+provides for payment by Canada of its share of the expenditures associated with the operation of the institutional and administrative aspects of the Agreement;
 
-gives the Governor in Council the power to make orders in accordance with the Agreement.
+gives the Governor in Council the power to make orders in accordance with the Agreement;
+
+requires the Minister for International Trade to ensure that Canadian companies comply with the principles and guidelines referred to in Article 22.15 of the Agreement; and
+
+requires a comprehensive review of the operation and effect of the Act and of the Agreement every three years.
 
 It also makes related amendments to certain Acts to bring them into conformity with Canada's obligations under the Agreement.
 
@@ -77,6 +81,16 @@ Payment of costs
 ## Orders
 
 Orders — Article 24.13 of Agreement
+
+
+## Compliance with Principles and Guidelines — Canadian Companies
+
+Principles and guidelines
+
+
+## Review and Report
+
+Review
 
 
 ## Related Amendments
@@ -259,6 +273,28 @@ the general expenses incurred by panels, committees, subcommittees, working grou
   **(2)** Unless repealed, an order made under subsection (1) has effect for the period specified in the order.
 
 
+## Compliance with Principles and Guidelines — Canadian Companies
+
+### Section 15.1
+
+  **(1)** The Minister must ensure that Canadian companies operating in Indonesia comply with the principles and guidelines referred to in Article 22.15 of the Agreement.
+
+  **(2)** The Minister must establish a process for receiving and responding to complaints of non-compliance with those principles and guidelines.
+
+  **(3)** On or before January 1 of each year starting in 2027, the Minister must prepare a report that summarizes the activities carried out in relation to the Minister's obligations under this section.
+
+  **(4)** The Minister must cause a copy of the report to be tabled in each House of Parliament on any of the first 30 days on which that House is sitting after the report is completed.
+
+
+## Review and Report
+
+### Section 15.2
+
+  **(1)** Within three years after the day on which this section comes into force, and every three years after that, a comprehensive review of the operation of this Act and of the Agreement, and of their effect, must be undertaken by a committee of the House of Commons that is designated or established by the House for that purpose.
+
+  **(2)** The committee must, within six months after the completion of the review, submit to the House of Commons a report setting out its findings and recommendations.
+
+
 ## Related Amendments
 
 
@@ -292,13 +328,13 @@ Subsection 2(1) of the `Customs Act` is amended by adding the following in alpha
 
 Subsection 35.1(3.1) of the Act is replaced by the following:
 
-**(3.1)** If an importer of goods for which preferential tariff treatment under the CPTPP, CUSMA or **CICEPA** will be claimed is the person who certifies that the goods meet the rules of origin set out in, or contemplated by, the CPTPP, CUSMA or **CICEPA**, the importer shall do so in writing, in the prescribed form with the prescribed information, and on the basis of supporting documents that the importer has or supporting documents that are provided by the exporter or producer.
+**(3.1)** If an importer of goods for which preferential tariff treatment under the CPTPP, CUSMA or CICEPA will be claimed is the person who certifies that the goods meet the rules of origin set out in, or contemplated by, the CPTPP, CUSMA or CICEPA, the importer shall do so in writing, in the prescribed form with the prescribed information, and on the basis of supporting documents that the importer has or supporting documents that are provided by the exporter or producer.
 
 ### Section 20
 
   **(1)** Subsection 97.1(1.1) of the Act is replaced by the following:
 
-    **(1.1)** If an exporter or producer of goods that are exported to a CPTPP country, **a** CUSMA country or **Indonesia** and for which preferential tariff treatment under the CPTPP, CUSMA or **CICEPA** will be claimed in accordance with the laws of that country is the person who certifies that the goods meet the rules of origin set out in, or contemplated by, the CPTPP, CUSMA or **CICEPA**, the exporter or producer shall do so in writing, in the prescribed form with the prescribed information, and
+    **(1.1)** If an exporter or producer of goods that are exported to a CPTPP country, a CUSMA country or Indonesia and for which preferential tariff treatment under the CPTPP, CUSMA or CICEPA will be claimed in accordance with the laws of that country is the person who certifies that the goods meet the rules of origin set out in, or contemplated by, the CPTPP, CUSMA or CICEPA, the exporter or producer shall do so in writing, in the prescribed form with the prescribed information, and
 
       in the case of an exporter, on the basis of supporting information that the exporter has or by relying on supporting information that the producer has; and
 
@@ -306,7 +342,7 @@ Subsection 35.1(3.1) of the Act is replaced by the following:
 
   **(2)** Subsection 97.1(3) of the English version of the Act is replaced by the following:
 
-    **(3)** A person who has completed and signed a certificate in accordance with subsection (1) or (1.1) and who has reason to believe that it contains incorrect information shall immediately notify each person and each country or **authority** to whom the certificate was given of the correct information.
+    **(3)** A person who has completed and signed a certificate in accordance with subsection (1) or (1.1) and who has reason to believe that it contains incorrect information shall immediately notify each person and each country or authority to whom the certificate was given of the correct information.
 
 ### Section 21
 
@@ -382,7 +418,7 @@ Section 21.1 of the Act is replaced by the following:
 
 ### Section 21.1
 
-In sections 23 to 30, **complaint** means a written complaint filed with the Tribunal under any of subsections 23(1) to (**1.098**) and, for the purposes of those sections, a complaint is properly documented if the Tribunal is satisfied that it contains or is accompanied by the information required by section 23.
+In sections 23 to 30, **complaint** means a written complaint filed with the Tribunal under any of subsections 23(1) to (1.098) and, for the purposes of those sections, a complaint is properly documented if the Tribunal is satisfied that it contains or is accompanied by the information required by section 23.
 
 ### Section 31
 
@@ -394,7 +430,7 @@ Section 23 of the Act is amended by adding the following after subsection (1.097
 
 Paragraph 25(2)(c) of the Act is replaced by the following:
 
-in the case of a complaint filed under subsection 23(1.06), (1.08), (1.083), (1.09), (1.091), (1.092), (1.096) or **(1.098)**, send to the Minister a copy of the complaint and the information examined by the Tribunal in making its determination.
+in the case of a complaint filed under subsection 23(1.06), (1.08), (1.083), (1.09), (1.091), (1.092), (1.096) or (1.098), send to the Minister a copy of the complaint and the information examined by the Tribunal in making its determination.
 
 ### Section 33
 
@@ -414,7 +450,7 @@ in the case of a complaint filed under subsection 23(1.098), the goods that are 
 
 ### Section 30.03
 
-      **(1)** The Tribunal shall cause to be published in the `Canada Gazette` a notice of the expiry date of any order that imposes a surtax on any goods under subsection 55(1), section 60, subsection 63(1), 74(1) or (2), **75(1)**, 76(1) or 77(1) of the `Customs Tariff` or includes any goods on the Import Control List under subsection 5(3), (3.2) or (4.1) of the `Export and Import Permits Act`, but no notice shall be published if
+      **(1)** The Tribunal shall cause to be published in the `Canada Gazette` a notice of the expiry date of any order that imposes a surtax on any goods under subsection 55(1), section 60, subsection 63(1), 74(1) or (2), 75(1), 76(1) or 77(1) of the `Customs Tariff` or includes any goods on the Import Control List under subsection 5(3), (3.2) or (4.1) of the `Export and Import Permits Act`, but no notice shall be published if
 
   **(2)** Subsection 30.03(1) of the Act is amended by striking out "or" at the end of paragraph (d), by adding "or" at the end of paragraph (e) and by adding the following after paragraph (e):
 
@@ -426,7 +462,7 @@ Subsection 30.04(1) of the Act is replaced by the following:
 
 ### Section 30.04
 
-  **(1)** Any domestic producer of goods that are like or directly competitive with any goods that are subject to an order referred to in subsection 30.03(1), or any person or association acting on behalf of any such domestic producer, may file with the Tribunal a written request that an extension order be made under subsection 63(1), 74(7), **75(3)**, 76(3) or 77(3) of the `Customs Tariff` or subsection 5(3.2) of the `Export and Import Permits Act` because an order continues to be necessary to prevent or remedy serious injury to domestic producers of like or directly competitive goods.
+  **(1)** Any domestic producer of goods that are like or directly competitive with any goods that are subject to an order referred to in subsection 30.03(1), or any person or association acting on behalf of any such domestic producer, may file with the Tribunal a written request that an extension order be made under subsection 63(1), 74(7), 75(3), 76(3) or 77(3) of the `Customs Tariff` or subsection 5(3.2) of the `Export and Import Permits Act` because an order continues to be necessary to prevent or remedy serious injury to domestic producers of like or directly competitive goods.
 
 
 ### `Customs Tariff`
@@ -545,7 +581,7 @@ The Act is amended by adding the following after section 49.7:
 The Act is amended by adding the following after section 74:
 
 
-#### **Bilateral Emergency Measures — Indonesia**
+#### Bilateral Emergency Measures — Indonesia
 
 ### Section 75
 
