@@ -24,7 +24,7 @@ provide that, if an offender commits manslaughter in those circumstances, the co
 
 remove from the criminal harassment offence the requirement to prove that the victim subjectively feared for their safety and replace it with a requirement to prove that the harassing conduct could reasonably be expected to cause the victim to believe that someone's safety is threatened;
 
-amend the offence of non-consensual distribution of an intimate image to include, among such images, a visual representation showing an identifiable person depicted as nude, as exposing their sexual organs or as engaged in explicit sexual activity, if the depiction is likely to be mistaken for a visual recording of that person;
+amend the offence of non-consensual distribution of an intimate image to include, among such images, a visual representation showing an identifiable person depicted as nude, as nearly nude, as exposing their sexual organs or as engaged in explicit sexual activity, if the depiction is likely to be mistaken for a visual recording of that person;
 
 amend certain existing child sexual offences to include prohibiting a person from inviting a child to expose their own sexual organs for a sexual purpose;
 
@@ -32,7 +32,7 @@ criminalize the distribution of visual representations of bestiality;
 
 create a new offence relating to the recruitment of a person under 18 years of age to be a party to an offence;
 
-provide that victims of certain offences, such as offences in the commission of which violence was used, threatened or attempted against an intimate partner, are entitled to testimonial aids;
+provide that victims of certain offences, such as offences committed against an intimate partner, are entitled to testimonial aids;
 
 permit courts to order that an offender serve a period of imprisonment below a mandatory minimum term of imprisonment, but only if the mandatory minimum term of imprisonment would amount to cruel and unusual punishment for that particular offender;
 
@@ -70,7 +70,7 @@ clarify the right of victims to present a victim impact statement at sentencing 
 
 The enactment also amends the `National Defence Act` to, among other things,
 
-provide that victims of certain offences, such as offences in the commission of which violence was used, threatened or attempted against an intimate partner, are entitled to testimonial aids;
+provide that victims of certain offences, such as offences committed against an intimate partner, are entitled to testimonial aids;
 
 create a new Division in respect of unreasonable delay that requires a court martial to consider specific factors in relation to case complexity, directs a court martial to exclude time periods in respect of specific applications and requires that a stay of proceedings be ordered only if a court martial is satisfied, taking into account a list of factors, that no other remedy would be appropriate and just;
 
@@ -198,6 +198,8 @@ Recognizance — section 810.1
 
 Review by Senate and House of Commons
 
+Review by Senate and House of Commons
+
 
 ## `Youth Criminal Justice Act`
 
@@ -322,19 +324,11 @@ This Act may be cited as the `Protecting Victims Act`.
 
         subsections 110(1) and (2.1);
 
-        subsection 486.1(1.1);
-
-        subsection 486.2(1.1);
-
-        subsection 486.3(2);
-
         subsections 515(3), (4.1), (4.3) and (6);
 
         subsection 718.3(8);
 
-        section 726.21;
-
-        subsection 729.2(1); and
+        section 726.21; and
 
         subsection 810.03(4).
 
@@ -346,13 +340,21 @@ This Act may be cited as the `Protecting Victims Act`.
 
 Subsection 7(4.1) of the Act is replaced by the following:
 
-**(4.1)** **Despite** anything in this Act or any other Act, every one who, outside Canada, commits an act or omission **against a person who is under the age of 18**, that, if committed in Canada, would be an offence **under** section 151, 152, 153 or 155, subsection 160(2) or (3), section 163.1, 170, 171, 171.1, 172.1, 172.2, 173, **271, 272** or **273** or subsection 286.1(2) shall be deemed to commit that act or omission in Canada if the person who commits the act or omission is a Canadian citizen or a permanent resident **as defined in** subsection 2(1) of the `Immigration and Refugee Protection Act`.
+**(4.1)** Despite anything in this Act or any other Act, every one who, outside Canada, commits an act or omission against a person who is under the age of 18, that, if committed in Canada, would be an offence under section 151, 152, 153 or 155, subsection 160(2) or (3), section 163.1, 170, 171, 171.1, 172.1, 172.2, 173, 271, 272 or 273 or subsection 286.1(2) shall be deemed to commit that act or omission in Canada if the person who commits the act or omission is a Canadian citizen or a permanent resident as defined in subsection 2(1) of the `Immigration and Refugee Protection Act`.
+
+### Section 3.1
+
+The Act is amended by adding the following after section 11:
+
+### Section 11.1
+
+For greater certainty, no agreement may prevent or restrict a person from disclosing any information that relates to the commission of an offence to a police officer.
 
 ### Section 4
 
 Paragraph 109(1)(b) of the Act is replaced by the following:
 
-an offence under subsection 85(1) (using firearm in commission of offence), 85(2) (using imitation firearm in commission of offence), 95(1) (possession of prohibited or restricted firearm with ammunition), 99(1) (weapons trafficking), 100(1) (possession for purpose of weapons trafficking), 102(1) (making automatic firearm), 102.1(1) (possession of computer data), 102.1(2) (distribution of computer data), 103(1) (importing or exporting knowing it is unauthorized) or 104.1(1) (altering cartridge magazine) or section 264 (criminal harassment) **or 264.01 (coercion or control of intimate partner)**,
+an offence under subsection 85(1) (using firearm in commission of offence), 85(2) (using imitation firearm in commission of offence), 95(1) (possession of prohibited or restricted firearm with ammunition), 99(1) (weapons trafficking), 100(1) (possession for purpose of weapons trafficking), 102(1) (making automatic firearm), 102.1(1) (possession of computer data), 102.1(2) (distribution of computer data), 103(1) (importing or exporting knowing it is unauthorized) or 104.1(1) (altering cartridge magazine) or section 264 (criminal harassment) or 264.01 (coercion or control of intimate partner),
 
 ### Section 5
 
@@ -362,13 +364,13 @@ Subsection 113(4) of the Act is amended by replacing "subsection 810(3)" with "s
 
 Section 150 of the Act is amended by adding the following in alphabetical order:
 
-**sexual organs** include breasts that are or appear to be female breasts and the anal region; (**organes sexuels**)
+**sexual organs** includes **genital organs**, breasts that are or appear to be female breasts and the anal region; (**organes sexuels**)
 
 ### Section 7
 
 Subsection 150.1(5) of the Act is replaced by the following:
 
-**(5)** It is not a defence to a charge under section 153, 170, 171, 172 or **279.011** or subsection **279.02(2), 279.03(2)**, 286.1(2), 286.2(2) or 286.3(2) that the accused believed that the complainant was 18 years of age or more at the time the offence is alleged to have been committed unless the accused took all reasonable steps to ascertain the age of the complainant.
+**(5)** It is not a defence to a charge under section 153, 170, 171, 172 or 279.011 or subsection 279.02(2), 279.03(2), 286.1(2), 286.2(2) or 286.3(2) that the accused believed that the complainant was 18 years of age or more at the time the offence is alleged to have been committed unless the accused took all reasonable steps to ascertain the age of the complainant.
 
 ### Section 8
 
@@ -380,9 +382,9 @@ The portion of section 152 of the Act before paragraph (a) is replaced by the fo
 
 ### Section 152
 
-  ****(1)**** Every person **commits an offence** who, for a sexual purpose, invites, counsels or incites a person under the age of 16 years to
+  **(1)** Every person commits an offence who, for a sexual purpose, invites, counsels or incites a person under the age of 16 years to
 
-    touch, directly or indirectly, with a part of the body or with an object, **their own** body, the body of the person who so invites, counsels or incites or the body of any **other** person; or
+    touch, directly or indirectly, with a part of the body or with an object, their own body, the body of the person who so invites, counsels or incites or the body of any other person; or
 
     expose their own sexual organs.
 
@@ -392,11 +394,11 @@ The portion of section 152 of the Act before paragraph (a) is replaced by the fo
 
   **(1)** Paragraph 153(1)(a) of the French version of the Act is replaced by the following:
 
-    **dans un but** sexuel, touche, directement ou indirectement, avec une partie de son corps ou avec un objet, une partie du corps de l'adolescent;
+    dans un but sexuel, touche, directement ou indirectement, avec une partie de son corps ou avec un objet, une partie du corps de l'adolescent;
 
   **(2)** Subsection 153(1) of the Act is amended by striking out "or" at the end of paragraph (a) and by replacing paragraph (b) by the following:
 
-    for a sexual purpose, invites, counsels or incites a young person to touch, directly or indirectly, with a part of the body or with an object, **their own** body, the body of the person who so invites, counsels or incites or the body of any **other** person; **or**
+    for a sexual purpose, invites, counsels or incites a young person to touch, directly or indirectly, with a part of the body or with an object, their own body, the body of the person who so invites, counsels or incites or the body of any other person; or
 
     for a sexual purpose, invites, counsels or incites the young person to expose their own sexual organs.
 
@@ -406,9 +408,9 @@ The portion of subsection 153.1(1) of the Act before paragraph (a) is replaced b
 
 ### Section 153.1
 
-  **(1)** Every person **commits an offence** who is in a position of trust or authority towards a person with a mental or physical disability or who is a person with whom a person with a mental or physical disability is in a relationship of dependency and who, for a sexual purpose, counsels or incites that person to, without that person's consent,
+  **(1)** Every person commits an offence who is in a position of trust or authority towards a person with a mental or physical disability or who is a person with whom a person with a mental or physical disability is in a relationship of dependency and who, for a sexual purpose, counsels or incites that person to, without that person's consent,
 
-    touch **their** own body, the body of the person who so counsels or incites or the body of any other person, directly or indirectly, with a part of the body or with an object; **or**
+    touch their own body, the body of the person who so counsels or incites or the body of any other person, directly or indirectly, with a part of the body or with an object; or
 
     expose their own sexual organs.
 
@@ -436,7 +438,7 @@ The portion of subsection 153.1(1) of the Act before paragraph (a) is replaced b
 
   **(2)** The portion of subsection 160(4) of the Act before paragraph (a) is replaced by the following:
 
-    **(4)** The court may, in addition to any other sentence that it may impose under any of subsections (1) to (3) **and (3.4)**,
+    **(4)** The court may, in addition to any other sentence that it may impose under any of subsections (1) to (3) and (3.4),
 
 ### Section 13
 
@@ -444,37 +446,41 @@ The portion of subsection 153.1(1) of the Act before paragraph (a) is replaced b
 
 ### Section 161
 
-      **(1)** When an offender is convicted, or is discharged on the conditions prescribed in a probation order under section 730, of an offence referred to in subsection (1.1) in respect of a person who is under the age of **18** years, the court that sentences the offender or directs that the accused be discharged, as the case may be, in addition to any other punishment that may be imposed for that offence or any other condition prescribed in the order of discharge, shall consider making and may make, subject to the conditions or exemptions that the court directs, an order prohibiting the offender from
+      **(1)** When an offender is convicted, or is discharged on the conditions prescribed in a probation order under section 730, of an offence referred to in subsection (1.1) in respect of a person who is under the age of 18 years, the court that sentences the offender or directs that the accused be discharged, as the case may be, in addition to any other punishment that may be imposed for that offence or any other condition prescribed in the order of discharge, shall consider making and may make, subject to the conditions or exemptions that the court directs, an order prohibiting the offender from
 
-        attending a public park or public swimming area where persons under the age of **18** years are present or can reasonably be expected to be present, or a daycare centre, schoolground, playground or community centre;
+        attending a public park or public swimming area where persons under the age of 18 years are present or can reasonably be expected to be present, or a daycare centre, schoolground, playground or community centre;
 
   **(2)** Paragraphs 161(1)(b) and (c) of the Act are replaced by the following:
 
-    seeking, obtaining or continuing any employment, whether or not the employment is remunerated, or becoming or being a volunteer in a capacity, that involves being in a position of trust or authority towards persons under the age of **18** years;
+    seeking, obtaining or continuing any employment, whether or not the employment is remunerated, or becoming or being a volunteer in a capacity, that involves being in a position of trust or authority towards persons under the age of 18 years;
 
-    having any contact — including communicating by any means — with a person who is under the age of **18** years, unless the offender does so under the supervision of a person whom the court considers appropriate; or
+    having any contact — including communicating by any means — with a person who is under the age of 18 years, unless the offender does so under the supervision of a person whom the court considers appropriate; or
 
   **(3)** Paragraph 161(1.1)(a) of the Act is replaced by the following:
 
-    an offence under section 151, 152, **153** or 155, subsection 160(2) or (3), section 163.1, 170, 171, 171.1, 172.1 or 172.2, subsection 173(2), section 271, 272, 273 or 279.011, subsection 279.02(2) or 279.03(2), section 280 or 281 or subsection 286.1(2), 286.2(2) or 286.3(2);
+    an offence under section 151, 152, 153 or 155, subsection 160(2) or (3), section 163.1, 170, 171, 171.1, 172.1 or 172.2, subsection 173(2), section 271, 272, 273 or 279.011, subsection 279.02(2) or 279.03(2), section 280 or 281 or subsection 286.1(2), 286.2(2) or 286.3(2);
 
 ### Section 14
 
   **(1)** Paragraphs 162(1)(a) and (b) of the Act are replaced by the following:
 
-    the person is in a place in which a person can reasonably be expected to be nude, to expose **their sexual** organs or to be engaged in explicit sexual activity;
+    the person is in a place in which a person can reasonably be expected to be nude **or nearly nude**, to expose their sexual organs or to be engaged in explicit sexual activity;
 
-    the person is nude, is exposing **their sexual** organs, or is engaged in explicit sexual activity, and the observation or recording is done for the purpose of observing or recording a person in such a state or engaged in such an activity; or
+    the person is nude, **is nearly nude**, is exposing their sexual organs, or is engaged in explicit sexual activity, and the observation or recording is done for the purpose of observing or recording a person in such a state or engaged in such an activity; or
 
   **(2)** Paragraph 162(5)(a) of the Act is replaced by the following:
 
-    is guilty of an indictable offence and liable to imprisonment for a term **of** not **more than 10** years; or
+    is guilty of an indictable offence and liable to imprisonment for a term of not more than 10 years; or
 
 ### Section 15
 
   **(1)** Paragraph 162.1(1)(a) of the Act is replaced by the following:
 
-    of an indictable offence and liable to imprisonment for a term of not more than **10** years; or
+    of an indictable offence and liable to imprisonment
+
+    for a term of not more than 10 years, or
+
+    for a term of not more than 14 years if the accused knew or ought to have known that, at the time the intimate image was made, aggravated sexual assault was being, or had just been, committed against the person depicted in the image; or
 
   **(2)** Subsection 162.1(2) of the Act is replaced by the following:
 
@@ -488,13 +494,13 @@ The portion of subsection 153.1(1) of the Act before paragraph (a) is replaced b
 
       a visual recording of a person made by any means including a photographic, film or video recording,
 
-      in which the person is nude, is exposing **their sexual** organs or is engaged in explicit sexual activity,
+      in which the person is nude, **is nearly nude**, is exposing their sexual organs or is engaged in explicit sexual activity,
 
       in respect of which, at the time of the recording, there were circumstances that gave rise to a reasonable expectation of privacy, and
 
-      in respect of which the person depicted retains a reasonable expectation of privacy at the time the offence is committed; **or**
+      in respect of which the person depicted retains a reasonable expectation of privacy at the time the offence is committed; or
 
-      a visual representation that is made by any electronic or mechanical means and that shows an identifiable person who is depicted as nude, as exposing their sexual organs or as engaged in explicit sexual activity, if the depiction is likely to be mistaken for a visual recording of that person.
+      a visual representation that is made by any electronic or mechanical means, **including by means of artificial intelligence software**, and that shows an identifiable person who is depicted as nude, **as nearly nude**, as exposing their sexual organs or as engaged in explicit sexual activity, if the depiction is likely to be mistaken for a visual recording of that person.
 
 ### Section 16
 
@@ -502,7 +508,7 @@ Subsection 162.2(1) of the Act is replaced by the following:
 
 ### Section 162.2
 
-  **(1)** When an offender is convicted, or is discharged on the conditions prescribed in a probation order under section 730, of an offence **under** subsection **160(3.1) or section** 162.1, the court that sentences or discharges the offender, in addition to any other punishment that may be imposed for that offence or any other condition prescribed in the order of discharge, may make, subject to the conditions or exemptions that the court directs, an order prohibiting the offender from using the Internet or other digital network, unless the offender does so in accordance with conditions set by the court.
+  **(1)** When an offender is convicted, or is discharged on the conditions prescribed in a probation order under section 730, of an offence under subsection 160(3.1) or section 162.1, the court that sentences or discharges the offender, in addition to any other punishment that may be imposed for that offence or any other condition prescribed in the order of discharge, may make, subject to the conditions or exemptions that the court directs, an order prohibiting the offender from using the Internet or other digital network, unless the offender does so in accordance with conditions set by the court.
 
 ### Section 17
 
@@ -524,23 +530,23 @@ Subsection 162.2(1) of the Act is replaced by the following:
 
 ### Section 164
 
-      **(1)** A judge may issue a warrant authorizing seizure of copies of any material — **including** a recording, publication or written material, or representation — if the judge is satisfied by information on oath that there are reasonable grounds to believe that
+      **(1)** A judge may issue a warrant authorizing seizure of copies of any material — including a recording, publication or written material, or representation — if the judge is satisfied by information on oath that there are reasonable grounds to believe that
 
         the material is illicit material; and
 
-        copies of the material are kept in premises within the jurisdiction of the court and, **in the case of material alleged to be illicit material described in any of paragraphs (a) to (d) of the definition of that term in subsection (8)**, are **so** kept for sale or distribution.
+        copies of the material are kept in premises within the jurisdiction of the court and, in the case of material alleged to be illicit material described in any of paragraphs (a) to (d) of the definition of that term in subsection (8), are so kept for sale or distribution.
 
-      **(2)** Within seven days of the **day on which the** warrant **is issued**, the judge shall issue a summons to the occupier of the premises requiring **them** to appear before the court and show cause why the seized **thing** should not be forfeited to **His** Majesty.
+      **(2)** Within seven days of the day on which the warrant is issued, the judge shall issue a summons to the occupier of the premises requiring them to appear before the court and show cause why the seized thing should not be forfeited to His Majesty.
 
-      **(3)** The owner and the maker of the seized **thing that is** alleged to be **illicit material** may appear and be represented in the proceedings to oppose the making of an order for the forfeiture of the **thing**.
+      **(3)** The owner and the maker of the seized thing that is alleged to be illicit material may appear and be represented in the proceedings to oppose the making of an order for the forfeiture of the thing.
 
-      **(4)** If the court is satisfied, on a balance of probabilities, that the **seized thing** is **illicit material**, it may make an order declaring the **thing to be** forfeited to His Majesty in right of the province in which the proceedings take place, for disposal as the Attorney General may direct.
+      **(4)** If the court is satisfied, on a balance of probabilities, that the seized thing is illicit material, it may make an order declaring the thing to be forfeited to His Majesty in right of the province in which the proceedings take place, for disposal as the Attorney General may direct.
 
-      **(5)** If the court is not satisfied that the **seized thing** is **illicit material**, it shall order that the **thing** be restored to the person from whom it was seized without delay after the time for final appeal has expired.
+      **(5)** If the court is not satisfied that the seized thing is illicit material, it shall order that the thing be restored to the person from whom it was seized without delay after the time for final appeal has expired.
 
   **(2)** Subsection 164(7) of the Act is replaced by the following:
 
-    **(7)** If an order is made under this section by a judge in a province with respect to one or more copies of **any material**, no proceedings shall be instituted or continued in that province under **subsection 160(3.1) or** section 162, 162.1, 163, 163.1, 286.4 or 320.103 with respect to those or other copies of the same **material** without the consent of the Attorney General.
+    **(7)** If an order is made under this section by a judge in a province with respect to one or more copies of any material, no proceedings shall be instituted or continued in that province under subsection 160(3.1) or section 162, 162.1, 163, 163.1, 286.4 or 320.103 with respect to those or other copies of the same material without the consent of the Attorney General.
 
   **(3)** The definitions **advertisement for conversion therapy**, **advertisement of sexual services**, **intimate image** and **voyeuristic recording** in subsection 164(8) of the Act are repealed.
 
@@ -568,17 +574,19 @@ Subsection 162.2(1) of the Act is replaced by the following:
 
 ### Section 164.1
 
-      **(1)** If a judge is satisfied by information on oath that there are reasonable grounds to believe that material, **consisting of illicit material** or **of** computer data that makes **illicit material** available, is stored on and made available through a computer system that is within the jurisdiction of the court, the judge may order the custodian of the computer system to
+      **(1)** If a judge is satisfied by information on oath that there are reasonable grounds to believe that material, consisting of illicit material or of computer data that makes illicit material available, is stored on and made available through a computer system that is within the jurisdiction of the court, the judge may order the custodian of the computer system to
 
   **(2)** Subsection 164.1(5) of the Act is replaced by the following:
 
-    **(5)** If the court is satisfied, on a balance of probabilities, that the material is **illicit material** or computer data that makes **illicit material** available, it may order the custodian of the computer system to delete the material.
+    **(5)** If the court is satisfied, on a balance of probabilities, that the material is illicit material or computer data that makes illicit material available, it may order the custodian of the computer system to delete the material.
+
+    **(5.1)** If the illicit material is an intimate image, as defined in subsection 162.1(2), in relation to which an offence was committed under section 162.1, the court must order the custodian of the computer system to delete the material within 48 hours after the order is made.
 
   **(3)** Subsections 164.1(7) and (8) of the Act are replaced by the following:
 
-    **(7)** If the court is not satisfied that the material is **illicit material** or computer data that makes **illicit material** available, the court shall order that the electronic copy be returned to the custodian of the computer system and terminate the order **made** under paragraph (1)(b).
+    **(7)** If the court is not satisfied that the material is illicit material or computer data that makes illicit material available, the court shall order that the electronic copy be returned to the custodian of the computer system and terminate the order made under paragraph (1)(b).
 
-    **(8)** Subsections 164(6) **and (7)** apply, with any modifications that the circumstances require, to this section.
+    **(8)** Subsections 164(6) and (7) apply, with any modifications that the circumstances require, to this section.
 
   **(4)** Section 164.1 of the Act is amended by adding the following after subsection (9):
 
@@ -608,13 +616,13 @@ The Act is amended by adding the following after section 169:
 
   **(1)** Subparagraph 171.1(5)(a)(ii) of the Act is replaced by the following:
 
-    the dominant characteristic of which is the depiction, for a sexual purpose, of a person's **sexual** organs;
+    the dominant characteristic of which is the depiction, for a sexual purpose, of a person's sexual organs;
 
   **(2)** Paragraphs 171.1(5)(b) and (c) of the Act are replaced by the following:
 
-    written material whose dominant characteristic is the description, for a sexual purpose, of explicit sexual activity **involving** a person; or
+    written material whose dominant characteristic is the description, for a sexual purpose, of explicit sexual activity involving a person; or
 
-    an audio recording whose dominant characteristic is the description, presentation or representation, for a sexual purpose, of explicit sexual activity **involving** a person.
+    an audio recording whose dominant characteristic is the description, presentation or representation, for a sexual purpose, of explicit sexual activity involving a person.
 
   **(3)** Section 171.1 of the Act is amended by adding the following after subsection (5):
 
@@ -624,13 +632,13 @@ The Act is amended by adding the following after section 169:
 
 Paragraph 172.1(1)(a) of the Act is replaced by the following:
 
-a person who is, or who the accused believes is, under the age of 18 years, for the purpose of facilitating the commission of an offence with respect to that person under subsection 153(1), section 155, 163.1, 170, 171 or 279.011 or subsection 279.02(2), 279.03(2), 286.1(2), 286.2(2) or 286.3(2) **or the commission of an offence with respect to that person under section 346 of a sexual nature or for a sexual purpose**;
+a person who is, or who the accused believes is, under the age of 18 years, for the purpose of facilitating the commission of an offence with respect to that person under subsection 153(1), section 155, 163.1, 170, 171 or 279.011 or subsection 279.02(2), 279.03(2), 286.1(2), 286.2(2) or 286.3(2) or the commission of an offence with respect to that person under section 346 of a sexual nature or for a sexual purpose;
 
 ### Section 23
 
   **(1)** The portion of subsection 173(2) of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** Every person who, in any place, for a sexual purpose, exposes **their sexual** organs to a person who is under the age of 16 years
+    **(2)** Every person who, in any place, for a sexual purpose, exposes their sexual organs to a person who is under the age of 16 years
 
   **(2)** Paragraph 173(2)(a) of the Act is amended by replacing "a term of not more than two years" with "a term of not more than 10 years".
 
@@ -644,7 +652,7 @@ a person who is, or who the accused believes is, under the age of 18 years, for 
 
   **(2)** Subparagraph (a)(xxvii.2) of the definition **offence** in section 183 of the Act is replaced by the following:
 
-    **subsection** 162.1**(1)** (intimate image — **publication, etc.**),
+    subsection 162.1(1) (intimate image — publication, etc.),
 
     subsection 162.1(1.1) (intimate image — threat to publish, etc.),
 
@@ -666,7 +674,7 @@ Subsection 231(6) of the Act is replaced by the following:
 
 **(5.1)** Irrespective of whether a murder is planned and deliberate on the part of any person, murder is first degree murder when the death is caused by that person
 
-  while engaging in, or after having engaged in, a pattern of coercive or controlling conduct with intent to cause the victim to **believe that** the victim's **physical or psychological safety is threatened, in the case where the victim is that person's intimate partner;**
+  while engaging in, or after having engaged in, a pattern of coercive or controlling conduct with intent to cause the victim to believe that the victim's physical or psychological safety is threatened, in the case where the victim is that person's intimate partner;
 
   while exercising control, direction or influence over the movements of the victim with intent to exploit the victim, within the meaning of section 279.04;
 
@@ -674,7 +682,7 @@ Subsection 231(6) of the Act is replaced by the following:
 
   while motivated by hate based on colour, race, religion, national or ethnic origin, age, sex, sexual orientation, gender identity or expression, or mental or physical disability.
 
-**(6)** Irrespective of whether a murder is planned and deliberate on the part of any person, murder is first degree murder when the death is caused by that person while committing or attempting to commit an offence under section 264 **(criminal harassment) with intent** to cause the **victim** to **believe that** the **victim's physical or psychological safety**, or the **physical or psychological** safety of anyone known to the **victim,** is threatened.
+**(6)** Irrespective of whether a murder is planned and deliberate on the part of any person, murder is first degree murder when the death is caused by that person while committing or attempting to commit an offence under section 264 (criminal harassment) with intent to cause the victim to believe that the victim's physical or psychological safety, or the physical or psychological safety of anyone known to the victim, is threatened.
 
 ### Section 26
 
@@ -682,7 +690,7 @@ Section 236 of the Act is renumbered as subsection 236(1) and is amended by addi
 
 **(2)** The court that imposes a sentence for manslaughter shall consider imposing a sentence of imprisonment for life if the person committed the manslaughter
 
-  while engaging in, or after having engaged in, a pattern of coercive or controlling conduct with intent to cause the victim to **believe that** the victim's **physical or psychological safety is threatened, in the case where the victim is that person's intimate partner;**
+  while engaging in, or after having engaged in, a pattern of coercive or controlling conduct with intent to cause the victim to believe that the victim's physical or psychological safety is threatened, in the case where the victim is that person's intimate partner;
 
   while exercising control, direction or influence over the movements of the victim with intent to exploit the victim, within the meaning of section 279.04;
 
@@ -696,11 +704,11 @@ Section 236 of the Act is renumbered as subsection 236(1) and is amended by addi
 
 ### Section 264
 
-      **(1)** **Everyone commits an offence who, with intent to harass** another person or **being reckless** as to whether **they could be harassing another** person, **engages** without lawful authority in conduct referred to in subsection (2) **if**, in all the circumstances, **the conduct could reasonably be** expected **to cause** that other person to **believe that the other person's** safety, or the safety of anyone known to **the other person, is threatened**.
+      **(1)** Everyone commits an offence who, with intent to harass another person or **knowing that**, or being reckless as to whether, they **would** be harassing another person, engages without lawful authority in conduct referred to in subsection (2) if, in all the circumstances, the conduct could reasonably be expected to cause that other person to believe that the other person's safety, or the safety of anyone known to the other person, is threatened.
 
   **(2)** The portion of subsection 264(2) of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** The conduct mentioned in subsection (1) consists of **doing any of the following in person, by a means of telecommunication or by any other means**:
+    **(2)** The conduct mentioned in subsection (1) consists of doing any of the following in person, by a means of telecommunication or by any other means:
 
   **(3)** Subsection 264(2) of the Act is amended by adding the following after paragraph (a):
 
@@ -708,19 +716,19 @@ Section 236 of the Act is renumbered as subsection 236(1) and is amended by addi
 
   **(4)** Paragraph 264(2)(d) of the Act is replaced by the following:
 
-    engaging in threatening conduct directed at the other person, **at anyone known to them** or **at any animal that is in their care or is their property**.
+    engaging in threatening conduct directed at the other person or at anyone or any animal known to them.
 
   **(5)** Subsection 264(3) of the English version of the Act is replaced by the following:
 
-    **(3)** Every person who **commits an offence under** this section is
+    **(3)** Every person who commits an offence under this section is
 
-      guilty of an indictable offence and liable to imprisonment for a term **of** not **more than** 10 years; or
+      guilty of an indictable offence and liable to imprisonment for a term of not more than 10 years; or
 
-      **guilty of** an offence punishable on summary conviction.
+      guilty of an offence punishable on summary conviction.
 
   **(6)** Paragraph 264(4)(a) of the Act is replaced by the following:
 
-    the terms or conditions of an order made **under** section 161 or a recognizance entered into **under** section 810, **810.03**, 810.1 or 810.2; or
+    the terms or conditions of an order made under section 161 or a recognizance entered into under section 810, 810.03, 810.1 or 810.2; or
 
   **(7)** Section 264 of the Act is amended by adding the following after subsection (5):
 
@@ -744,7 +752,7 @@ The Act is amended by adding the following after section 264:
 
     any other person known to the intimate partner, or
 
-    any animal that is in the care or is the property of the intimate partner;
+    any animal that is **known to** the intimate partner;
 
     coercing or attempting to coerce the intimate partner to engage in sexual activity;
 
@@ -760,9 +768,11 @@ The Act is amended by adding the following after section 264:
 
     controlling or attempting to control the intimate partner's expression of gender, physical appearance, manner of dress, diet, taking of medication or access to health services or to medication,
 
-    controlling or attempting to control the intimate partner's expression of their thoughts, their opinions, their religious, spiritual or other beliefs, or their culture, including the intimate partner's use of their language or their access to their linguistic, religious, spiritual or cultural community, or
+    controlling or attempting to control the intimate partner's expression of their thoughts, their opinions, their religious, spiritual or other beliefs, or their culture, including the intimate partner's use of their language or their access to their linguistic, religious, spiritual or cultural community,
 
-    threatening to die by suicide or to self-harm.
+    threatening to die by suicide or to self-harm, or
+
+    damaging, or threatening or attempting to damage, the intimate partner's property or the property of anyone known to them.
 
   **(3)** The circumstances referred to in paragraph (2)(c) include the nature of the relationship between the accused and the intimate partner, in particular whether the intimate partner is in a position of vulnerability in relation to the accused and whether the accused manipulated the intimate partner by targeting their vulnerabilities.
 
@@ -791,19 +801,23 @@ The Act is amended by adding the following after section 275:
 
 ### Section 276
 
-      **(1)** In proceedings in respect of an offence under section 151, 152, 153, 153.1 or 155, subsection 160(2) or (3) or section 170, 171, 172, 173, 271, 272 or 273 **or any other offence under this Act that is of a sexual nature or that is committed for a sexual purpose**, evidence that the complainant has engaged in sexual activity, whether with the accused or with any other person, is not admissible to support an inference that, by reason of the sexual nature of that activity, the complainant
+      **(1)** In proceedings in respect of an offence under section 151, 152, 153, 153.1 or 155, subsection 160(2) or (3) or section 170, 171, 172, 173, 271, 272 or 273 or any other offence under this Act, **or any other Act of Parliament**, that is of a sexual nature or that is committed for a sexual purpose, evidence that the complainant has engaged in sexual activity, whether with the accused or with any other person, is not admissible to support an inference that, by reason of the sexual nature of that activity, the complainant
 
   **(2)** Subsection 276(2) of the Act is replaced by the following:
 
-    **(2)** In proceedings in respect of an offence referred to in subsection (1), evidence that the complainant has engaged in sexual activity, other than the sexual activity that forms the subject matter of the charge, whether with the accused or with any other person, shall not be adduced unless the judge, provincial court judge or justice determines, in accordance with the procedures set out in sections **276.01, 276.06, 276.1, 278.3 and 278.35, as the case may be**, that the evidence is not being adduced for the purpose of supporting an inference described in subsection (1), is relevant to an issue at trial, is of specific instances of sexual activity and
+    **(2)** In proceedings in respect of an offence referred to in subsection (1), evidence that the complainant has engaged in sexual activity, other than the sexual activity that forms the subject matter of the charge, whether with the accused or with any other person, shall not be adduced unless the judge, provincial court judge or justice determines, in accordance with the procedures set out in sections 276.01, **276.02**, 276.06, 276.1, 278.3 and 278.35, as the case may be, that the evidence is not being adduced for the purpose of supporting an inference described in subsection (1), is relevant to an issue at trial, is of specific instances of sexual activity and
 
-      **if sought to be adduced** by or on behalf of the accused, has significant probative value that is not substantially outweighed by the danger of prejudice to the proper administration of justice; **or**
+      if sought to be adduced by or on behalf of the accused, has significant probative value that is not substantially outweighed by the danger of prejudice to the proper administration of justice; or
 
       if sought to be adduced by or on behalf of the prosecutor, has probative value that is not outweighed by the danger of prejudice to the proper administration of justice.
 
   **(3)** Subsection 276(4) of the French version of the Act is replaced by the following:
 
-    **(4)** Il est entendu que, pour l'application du présent article, **activité sexuelle** s'entend notamment de toute communication **effectuée dans un but** sexuel ou dont le contenu est de nature sexuelle.
+    **(4)** Il est entendu que, pour l'application du présent article, **activité sexuelle** s'entend notamment de toute communication effectuée dans un but sexuel ou dont le contenu est de nature sexuelle.
+
+  **(4)** Section 276 of the Act is amended by adding the following after subsection (4):
+
+    **(5)** For the purposes of this section, and for greater certainty, evidence of sexual activity includes evidence of sexual inactivity.
 
 ### Section 32
 
@@ -816,13 +830,13 @@ The Act is amended by adding the following after section 276:
 
   **(1)** Application may be made to the judge, provincial court judge or justice by or on behalf of the accused for a hearing under section 276.02 to determine whether evidence is admissible under subsection 276(2).
 
-  **(2)** The application must be made in writing and be accompanied by an affidavit setting out detailed particulars of the evidence that the accused seeks to adduce and the relevance of that evidence to an issue at trial, and a copy of the application and the affidavit must be given to the prosecutor and the complainant and filed with the clerk of the court.
+  **(2)** The application must be made in writing and be accompanied by an affidavit setting out detailed particulars of the evidence that the accused seeks to adduce and the relevance of that evidence to an issue at trial, and a copy of the application and the affidavit must be given to the prosecutor and filed with the clerk of the court.
 
   **(3)** The judge, provincial court judge or justice shall consider the application with the jury and the public excluded.
 
-  **(4)** If the judge, provincial court judge or justice is satisfied that the application was made in accordance with subsection (2), that a copy of the application was given to the prosecutor and to the complainant and filed with the clerk of the court at least 60 days previously or within any shorter interval that the judge, provincial court judge or justice may allow in the interests of justice, and that the evidence sought to be adduced is capable of being admissible under subsection 276(2), the judge, provincial court judge or justice shall grant the application and hold a hearing under section 276.02 to determine whether the evidence is admissible under subsection 276(2).
+  **(4)** If the judge, provincial court judge or justice is satisfied that the application was made in accordance with subsection (2), that a copy of the application was given to the prosecutor and filed with the clerk of the court at least 60 days previously or within any shorter interval that the judge, provincial court judge or justice may allow in the interests of justice, and that the evidence sought to be adduced is capable of being admissible under subsection 276(2), the judge, provincial court judge or justice shall grant the application and hold a hearing under section 276.02 to determine whether the evidence is admissible under subsection 276(2).
 
-  **(5)** The condition in subsection (4) that a copy of the application is given to the complainant is not met if the accused personally gives a copy of it to the complainant.
+  **(5)** If the judge, provincial court judge or justice grants the application and agrees to hold the hearing, the accused shall cause a copy of the application to be given to the complainant by a person other than the accused.
 
 ### Section 276.02
 
@@ -854,6 +868,14 @@ The Act is amended by adding the following after section 276:
 
     the determination made and the reasons provided under subsection 276.02(4), unless that determination is that evidence is admissible or the judge, provincial court judge or justice, after taking into account the complainant's right of privacy and the interests of justice, orders that the determination and the reasons may be published, broadcast or transmitted.
 
+  **(1.1)** Subsection (1) does not apply if the disclosure of any information referred to in paragraphs (1)(a) to (d) is
+
+    made in the course of the administration of justice when the purpose of the disclosure is not one of making the information known in the community;
+
+    made by the complainant or any witness and about that complainant or witness and their particulars, in any forum and for any purpose, and they did not intentionally or recklessly reveal the identity of or reveal particulars likely to identify any other person whose identity is protected by this section; or
+
+    made by the complainant or any witness when the purpose of the disclosure is not one of making the information known to the public, including when the disclosure is made to a legal professional, a health care professional or a person in a relationship of trust with the complainant or the witness.
+
   **(2)** Every person who contravenes subsection (1) is guilty of an offence punishable on summary conviction.
 
 ### Section 276.04
@@ -869,7 +891,7 @@ For the purposes of sections 675 and 676, a determination made under subsection 
 
 ### Section 276.06
 
-  **(1)** Application may be made to the judge, provincial court judge or justice by the prosecutor for a hearing to determine whether evidence is admissible under subsection 276(2).
+  **(1)** Application may be made to the judge, provincial court judge or justice by the prosecutor to determine whether evidence is admissible under subsection 276(2).
 
   **(2)** The application must be made in writing and must set out detailed particulars of the evidence that the prosecutor seeks to adduce and the relevance of that evidence to an issue at trial.
 
@@ -900,6 +922,14 @@ For the purposes of sections 675 and 676, a determination made under subsection 
     any evidence taken, the information given or the representations made at the consideration of an application made under subsection 276.06(1) or at a hearing under section 276.06;
 
     the determination made and the reasons provided under subsection 276.06(7), unless that determination is that evidence is admissible or the judge, provincial court judge or justice, after taking into account the complainant's right of privacy and the interests of justice, orders that the determination and the reasons may be published, broadcast or transmitted.
+
+  **(1.1)** Subsection (1) does not apply if the disclosure of any information referred to in paragraphs (1)(a) to (c) is
+
+    made in the course of the administration of justice when the purpose of the disclosure is not one of making the information known in the community;
+
+    made by the complainant or any witness and about that complainant or witness and their particulars, in any forum and for any purpose, and they did not intentionally or recklessly reveal the identity of or reveal particulars likely to identify any other person whose identity is protected by this section; or
+
+    made by the complainant or any witness when the purpose of the disclosure is not one of making the information known to the public, including when the disclosure is made to a legal professional, a health care professional or a person in a relationship of trust with the complainant or the witness.
 
   **(2)** Every person who contravenes subsection (1) is guilty of an offence punishable on summary conviction.
 
@@ -938,7 +968,9 @@ For the purposes of sections 675 and 676, a determination made under subsection 
 
   **(5)** If the judge, provincial court judge or justice is satisfied that the evidence of sexual activity is admissible under subsection 276(2), taking into account the factors set out in subsection 276(3), they shall grant the application. If they are not so satisfied, they shall hold a hearing under section 276.02 to determine whether the evidence is admissible under subsection 276(2).
 
-  **(6)** If evidence of sexual activity is determined to be admissible, the judge, provincial court judge or justice shall direct the applicants as to the uses that the they may and may not make of that evidence.
+  **(6)** If evidence of sexual activity is determined to be admissible, the judge, provincial court judge or justice shall direct the applicants as to the uses that they may and may not make of that evidence.
+
+  **(7)** For greater certainty, the complainant has the right to be represented by counsel.
 
 ### Section 276.11
 
@@ -949,6 +981,14 @@ For the purposes of sections 675 and 676, a determination made under subsection 
     any evidence taken, the information given or the representations made at the consideration of an application made under subsection 276.1(1);
 
     the determination made and the reasons provided under section 276.1, unless that determination is that evidence is admissible or the judge, provincial court judge or justice, after taking into account the complainant's right of privacy and the interests of justice, orders that the determination and the reasons may be published, broadcast or transmitted.
+
+  **(1.1)** Subsection (1) does not apply if the disclosure of any information referred to in paragraphs (1)(a) to (c) is
+
+    made in the course of the administration of justice when the purpose of the disclosure is not one of making the information known in the community;
+
+    made by the complainant or any witness and about that complainant or witness and their particulars, in any forum and for any purpose, and they did not intentionally or recklessly reveal the identity of or reveal particulars likely to identify any other person whose identity is protected by this section; or
+
+    made by the complainant or any witness when the purpose of the disclosure is not one of making the information known to the public, including when the disclosure is made to a legal professional, a health care professional or a person in a relationship of trust with the complainant or the witness.
 
   **(2)** Every person who contravenes subsection (1) is guilty of an offence punishable on summary conviction.
 
@@ -982,100 +1022,100 @@ Sections 278.1 to 278.97 of the Act are replaced by the following:
 
 ### Section 278.1
 
-**The following definitions apply in sections 278.11 to 278.36.**
+The following definitions apply in sections 278.11 to 278.36.
 
-**record** means any form of record that contains personal information for which there is a reasonable expectation of privacy and includes medical, education, employment, child welfare, adoption and social services records, personal journals and diaries, and any **record** containing personal information the production or disclosure of which is protected by any other Act of Parliament or a provincial legislature, but does not include records made by persons responsible for the investigation or prosecution of the offence. **(**dossier**)**
+**record** means any form of record that contains personal information for which there is a reasonable expectation of privacy and includes medical, education, employment, child welfare, adoption and social services records, personal journals and diaries, and any record containing personal information the production or disclosure of which is protected by any other Act of Parliament or a provincial legislature, but does not include records made by persons responsible for the investigation or prosecution of the offence. (**dossier**)
 
 **therapeutic record** means any form of record, regardless of its contents, that was produced in the course of psychiatric treatment or any therapy or counselling provided by a health care professional who is entitled under the laws of a province or of a foreign state to provide the treatment, therapy or counselling. (**dossier thérapeutique**)
 
 
 ##### Production to Accused of Records and Therapeutic Records in the Possession of Third Party
 
-### Section **278.11**
+### Section 278.11
 
-  **(1)** Except in accordance with sections **278.12** to **278.19**, no record **or therapeutic record** relating to a complainant or a witness **that is in the possession or control of a third party** shall be produced to an accused in any proceedings in respect of any of the following offences or in any proceedings in respect of two or more offences at least one of which is any of the following offences:
+  **(1)** Except in accordance with sections 278.12 to 278.19, no record or therapeutic record relating to a complainant or a witness that is in the possession or control of a third party shall be produced to an accused in any proceedings in respect of any of the following offences or in any proceedings in respect of two or more offences at least one of which is any of the following offences:
 
-    an offence under section 151, 152, 153, 153.1, 155, 160, 170, 171, 172, 173, 213, 271, 272, 273, 279.01, 279.011, 279.02, 279.03, 286.1, 286.2 or 286.3 **or any other offence under this Act that is of a sexual nature or that is committed for a sexual purpose**;
+    an offence under section 151, 152, 153, 153.1, 155, 160, 170, 171, 172, 173, 213, 271, 272, 273, 279.01, 279.011, 279.02, 279.03, 286.1, 286.2 or 286.3 or any other offence under this Act, **or any other Act of Parliament**, that is of a sexual nature or that is committed for a sexual purpose;
 
     any offence under this Act, as it read from time to time before the day on which this paragraph comes into force, if the conduct alleged would be an offence referred to in paragraph (a) if it occurred on or after that day.
 
   **(2)** In subsection (1), **third party** means a person other than the prosecutor or the accused.
 
-### Section **278.12**
+### Section 278.12
 
-  **(1)** An accused who seeks production of a record **or therapeutic record** referred to in **section 278.11** must make an application **for its production** to the judge before whom the accused is to be, or is being, tried.
+  **(1)** An accused who seeks production of a record or therapeutic record referred to in section 278.11 must make an application for its production to the judge before whom the accused is to be, or is being, tried.
 
-  **(2)** For greater certainty, **the** application **referred to in** subsection (1) **must** not be made to a judge, **provincial court judge** or justice presiding at any other proceedings, including a preliminary inquiry.
+  **(2)** For greater certainty, the application referred to in subsection (1) must not be made to a judge, provincial court judge or justice presiding at any other proceedings, including a preliminary inquiry.
 
-  **(3)** **The** application must be made in writing and **must** set out
+  **(3)** The application must be made in writing and must set out
 
-    particulars identifying the record **or the therapeutic record** that the accused seeks to have produced and the name of the person who has possession or control of **it**;
+    particulars identifying the record or the therapeutic record that the accused seeks to have produced and the name of the person who has possession or control of it;
 
-    **in the case of a record**, the grounds on which the accused relies to establish that the record is likely relevant to an issue at trial or to the competence of a witness to testify; and
+    in the case of a record, the grounds on which the accused relies to establish that the record is likely relevant to an issue at trial or to the competence of a witness to testify; and
 
     in the case of a therapeutic record, the grounds on which the accused relies to establish that the therapeutic record contains evidence that could raise a reasonable doubt as to the accused's guilt.
 
-  **(4)** Any one or more of the following assertions by the accused are not sufficient on their own to establish that the record is likely relevant to an issue at trial or to the competence of a witness to testify **or that the therapeutic record contains evidence that could raise a reasonable doubt as to the accused's guilt**:
+  **(4)** Any one or more of the following assertions by the accused are not sufficient on their own to establish that the record is likely relevant to an issue at trial or to the competence of a witness to testify or that the therapeutic record contains evidence that could raise a reasonable doubt as to the accused's guilt:
 
-    that the record **or therapeutic record** exists;
+    that the record or therapeutic record exists;
 
-    that the record **or therapeutic record** relates to medical or psychiatric treatment, therapy or counselling that the complainant or witness has received or is receiving;
+    that the record or therapeutic record relates to medical or psychiatric treatment, therapy or counselling that the complainant or witness has received or is receiving;
 
-    that the record **or therapeutic record** relates to the incident that is the subject matter of the proceedings;
+    that the record or therapeutic record relates to the incident that is the subject matter of the proceedings;
 
-    that the record **or therapeutic record** may disclose a prior inconsistent statement of the complainant or witness;
+    that the record or therapeutic record may disclose a prior inconsistent statement of the complainant or witness;
 
-    that the record **or therapeutic record** may relate to the credibility of the complainant or witness;
+    that the record or therapeutic record may relate to the credibility of the complainant or witness;
 
-    that the record **or therapeutic record** may relate to the reliability of the testimony of the complainant or witness merely because the complainant or witness has received or is receiving psychiatric treatment, therapy or counselling;
+    that the record or therapeutic record may relate to the reliability of the testimony of the complainant or witness merely because the complainant or witness has received or is receiving psychiatric treatment, therapy or counselling;
 
-    that the record **or therapeutic record** may reveal allegations of sexual abuse of the complainant by a person other than the accused;
+    that the record or therapeutic record may reveal allegations of sexual abuse of the complainant by a person other than the accused;
 
-    that the record **or therapeutic record** relates to the sexual activity of the complainant with any person, including the accused;
+    that the record or therapeutic record relates to the sexual activity of the complainant with any person, including the accused;
 
-    that the record **or therapeutic record** relates to the presence or absence of a recent complaint;
+    that the record or therapeutic record relates to the presence or absence of a recent complaint;
 
-    that the record **or therapeutic record** relates to the complainant's sexual reputation;
+    that the record or therapeutic record relates to the complainant's sexual reputation;
 
-    that the record **or therapeutic record** was made close in time to a complaint or to the activity that forms the subject matter of the charge against the accused.
+    that the record or therapeutic record was made close in time to a complaint or to the activity that forms the subject matter of the charge against the accused.
 
-  **(5)** The accused shall serve the application on the prosecutor, on the person who has possession or control of the record **or therapeutic record**, on the complainant or witness, as the case may be, and on any other person to whom, to the knowledge of the accused, the record **or therapeutic record** relates, at least 60 days before the hearing referred to in subsection **278.13(1)** or **within** any shorter interval that the judge may allow in the interests of justice. The accused shall also serve a subpoena issued under Part XXII in Form 16.1 on the person who has possession or control of the record **or therapeutic record** at the same time as the application is served.
+  **(5)** The accused shall serve the application on the prosecutor, on the person who has possession or control of the record or therapeutic record, on the complainant or witness, as the case may be, and on any other person to whom, to the knowledge of the accused, the record or therapeutic record relates, at least 60 days before the hearing referred to in subsection 278.13(1) or within any shorter interval that the judge may allow in the interests of justice. The accused shall also serve a subpoena issued under Part XXII in Form 16.1 on the person who has possession or control of the record or therapeutic record at the same time as the application is served.
 
-  **(6)** The judge may at any time order that the application be served on any person to whom the judge considers the record **or therapeutic record** may relate.
+  **(6)** The judge may at any time order that the application be served on any person to whom the judge considers the record or therapeutic record may relate.
 
   **(7)** The service requirement on the accused in subsection (5) is not fulfilled if the accused personally serves the application or a subpoena on the complainant.
 
-### Section **278.13**
+### Section 278.13
 
-  **(1)** The judge shall hold a hearing in camera to determine whether to order the person who has possession or control of the record **or therapeutic record** to produce it to the court for review by the judge.
+  **(1)** The judge shall hold a hearing in camera to determine whether to order the person who has possession or control of the record or therapeutic record to produce it to the court for review by the judge.
 
-  **(2)** The person who has possession or control of the record **or therapeutic record**, the complainant or witness, as the case may be, and any other person to whom the record **or therapeutic record** relates may appear and make submissions at the hearing, but they are not compellable as witnesses at the hearing.
+  **(2)** The person who has possession or control of the record or therapeutic record, the complainant or witness, as the case may be, and any other person to whom the record or therapeutic record relates may appear and make submissions at the hearing, but they are not compellable as witnesses at the hearing.
 
   **(3)** The judge shall, as soon as feasible, inform any person referred to in subsection (2) who participates in the hearing of their right to be represented by counsel.
 
-  ****(4)**** **An** order for costs **must not** be made against a person referred to in subsection (2) in respect of their participation in the hearing.
+  **(4)** An order for costs must not be made against a person referred to in subsection (2) in respect of their participation in the hearing.
 
-### Section **278.14**
+### Section 278.14
 
-  **(1)** The judge may order the person who has possession or control of the record **or therapeutic record** to produce **it**, or **any** part of **it**, to the court for review by the judge if, after the hearing referred to in **section 278.13**, the judge is satisfied that
+  **(1)** The judge may order the person who has possession or control of the record or therapeutic record to produce it, or any part of it, to the court for review by the judge if, after the hearing referred to in section 278.13, the judge is satisfied that
 
-    the application was made in accordance with subsections **278.12(2)** to (6);
+    the application was made in accordance with subsections 278.12(2) to (6);
 
-    **in the case of a record**, the accused has established that **it** is likely relevant to an issue at trial or to the competence of a witness to testify **or, in case of a therapeutic record, the accused has established that it contains evidence that could raise a reasonable doubt as to the accused's guilt**; and
+    in the case of a record, the accused has established that it is likely relevant to an issue at trial or to the competence of a witness to testify or, in case of a therapeutic record, the accused has established that it contains evidence that could raise a reasonable doubt as to the accused's guilt; and
 
-    the production of **all or any part of** the record **or therapeutic record** is necessary in the interests of justice.
+    the production of all or any part of the record or therapeutic record is necessary in the interests of justice.
 
-  **(2)** In determining whether to order the production of the record **or therapeutic record**, or part of **it**, for review, the judge shall consider the salutary and deleterious effects of the determination on the accused's right to make a full answer and defence and on the right to privacy, personal security and equality of the complainant or witness, as the case may be, and of any other person to whom the record **or therapeutic record** relates. In particular, the judge shall take the following factors into account:
+  **(2)** In determining whether to order the production of the record or therapeutic record, or part of it, for review, the judge shall consider the salutary and deleterious effects of the determination on the accused's right to make a full answer and defence and on the right to privacy, personal security and equality of the complainant or witness, as the case may be, and of any other person to whom the record or therapeutic record relates. In particular, the judge shall take the following factors into account:
 
-    the extent to which the record **or therapeutic record** is necessary for the accused to make a full answer and defence;
+    the extent to which the record or therapeutic record is necessary for the accused to make a full answer and defence;
 
-    the probative value of the record **or therapeutic record**;
+    the probative value of the record or therapeutic record;
 
-    the nature and extent of the reasonable expectation of privacy with respect to the record **or therapeutic record**;
+    the nature and extent of the reasonable expectation of privacy with respect to the record or therapeutic record;
 
-    whether production of the record **or therapeutic record** is based on a discriminatory belief or bias;
+    whether production of the record or therapeutic record is based on a discriminatory belief or bias;
 
-    the potential prejudice to the personal dignity and right to privacy of any person to whom the record **or therapeutic record** relates;
+    the potential prejudice to the personal dignity and right to privacy of any person to whom the record or therapeutic record relates;
 
     society's interest in encouraging the reporting of sexual offences;
 
@@ -1083,63 +1123,71 @@ Sections 278.1 to 278.97 of the Act are replaced by the following:
 
     the effect of the determination on the integrity of the trial process.
 
-### Section **278.15**
+### Section 278.15
 
-  **(1)** **If** the judge has ordered the production of the record **or therapeutic record**, or part of **it**, for review, the judge shall review it, **or the part of it,** in the absence of the parties in order to determine whether the record **or therapeutic record**, or **the** part, should be produced to the accused.
+  **(1)** If the judge has ordered the production of the record or therapeutic record, or part of it, for review, the judge shall review it, or the part of it, in the absence of the parties in order to determine whether the record or therapeutic record, or the part, should be produced to the accused.
 
   **(2)** The judge may hold a hearing in camera if the judge considers that it will assist in making the determination.
 
-  **(3)** Subsections **278.13(2)** to **(4)** apply in the case of a hearing under subsection (2).
+  **(3)** Subsections 278.13(2) to (4) apply in the case of a hearing under subsection (2).
 
-### Section **278.16**
+### Section 278.16
 
-  **(1)** **If** the judge is satisfied that the record, or part of **it**, is likely relevant to an issue at trial or to the competence of a witness to testify and **that** its production is necessary in the interests of justice, the judge may order that the record, or **the** part, that is likely relevant be produced to the accused, subject to any conditions that may be imposed **under** subsection (**4**).
+  **(1)** If the judge is satisfied that the record, or part of it, is likely relevant to an issue at trial or to the competence of a witness to testify and that its production is necessary in the interests of justice, the judge may order that the record, or the part, that is likely relevant be produced to the accused, subject to any conditions that may be imposed under subsection (4).
 
   **(2)** If the judge is satisfied that the therapeutic record, or part of it, contains evidence that is likely to raise a reasonable doubt as to the accused's guilt and that is not available from any other source, the judge may order that the therapeutic record, or the part, be produced to the accused, subject to any conditions that may be imposed under subsection (4).
 
-  **(3)** In determining whether to order the production of the record **or therapeutic record**, or part of **it**, to the accused, the judge shall consider the salutary and deleterious effects of the determination on the accused's right to make a full answer and defence and on the right to privacy, personal security and equality of the complainant or witness, as the case may be, and of any other person to whom the record **or therapeutic record** relates and, in particular, shall take the factors **set out** in paragraphs **278.14(2)(a)** to (h) into account.
+  **(3)** In determining whether to order the production of the record or therapeutic record, or part of it, to the accused, the judge shall consider the salutary and deleterious effects of the determination on the accused's right to make a full answer and defence and on the right to privacy, personal security and equality of the complainant or witness, as the case may be, and of any other person to whom the record or therapeutic record relates and, in particular, shall take the factors set out in paragraphs 278.14(2)(a) to (h) into account.
 
-  **(4)** If the judge orders the production of the record **or therapeutic record**, or part of **it**, to the accused, the judge may impose conditions on the production to protect the interests of justice and, to the greatest extent possible, the privacy, personal security and equality interests of the complainant or witness, as the case may be, and of any other person to whom the record **or therapeutic record** relates, including, for example, the following conditions:
+  **(4)** If the judge orders the production of the record or therapeutic record, or part of it, to the accused, the judge may impose conditions on the production to protect the interests of justice and, to the greatest extent possible, the privacy, personal security and equality interests of the complainant or witness, as the case may be, and of any other person to whom the record or therapeutic record relates, including, for example, the following conditions:
 
-    that the record **or therapeutic record** be edited as directed by the judge;
+    that the record or therapeutic record be edited as directed by the judge;
 
-    that a copy of the record **or therapeutic record**, rather than the original, be produced;
+    that a copy of the record or therapeutic record, rather than the original, be produced;
 
-    that the accused and counsel for the accused not disclose the contents of the record **or therapeutic record** to any other person, except with the approval of the court;
+    that the accused and counsel for the accused not disclose the contents of the record or therapeutic record to any other person, except with the approval of the court;
 
-    that the record **or therapeutic record** be viewed only at the offices of the court;
+    that the record or therapeutic record be viewed only at the offices of the court;
 
-    that no copies of the record **or therapeutic record** be made or that restrictions be imposed on the number of copies of **it** that may be made; and
+    that no copies of the record or therapeutic record be made or that restrictions be imposed on the number of copies of it that may be made; and
 
-    that information regarding any person named in the record **or therapeutic record**, such as their address, telephone number and place of employment, be severed from the record **or therapeutic record**.
+    that information regarding any person named in the record or therapeutic record, such as their address, telephone number and place of employment, be severed from the record or therapeutic record.
 
-  **(5)** **If** the judge orders the production of the record **or therapeutic record**, or part of **it**, to the accused, the judge shall direct that a copy of the record **or therapeutic record**, or **the** part, be provided to the prosecutor, unless the judge determines that it is not in the interests of justice to do so.
+  **(5)** If the judge orders the production of the record or therapeutic record, or part of it, to the accused, the judge shall direct that a copy of the record or therapeutic record, or the part, be provided to the prosecutor, unless the judge determines that it is not in the interests of justice to do so.
 
-  **(6)** The record **or therapeutic record**, or **the** part of **it**, that is produced to the accused **under** an order under subsection (1) **must** not be used in any other proceedings.
+  **(6)** The record or therapeutic record, or the part of it, that is produced to the accused under an order under subsection (1) must not be used in any other proceedings.
 
-  ****(7)**** **If** the judge refuses to order the production of the record **or therapeutic record**, or part of **it**, to the accused, the record **or therapeutic record**, or **the** part, **must**, unless a court orders otherwise, be kept in a sealed package by the court until the later of the **end** of the time for any appeal and the completion of any appeal in the proceedings against the accused, **at which time** the record **or therapeutic record**, or **the** part, **must** be returned to the person lawfully entitled to possession or control of it.
+  **(7)** If the judge refuses to order the production of the record or therapeutic record, or part of it, to the accused, the record or therapeutic record, or the part, must, unless a court orders otherwise, be kept in a sealed package by the court until the later of the end of the time for any appeal and the completion of any appeal in the proceedings against the accused, at which time the record or therapeutic record, or the part, must be returned to the person lawfully entitled to possession or control of it.
 
-### Section **278.17**
+### Section 278.17
 
-  **(1)** The judge shall provide reasons for ordering or refusing to order the production of the record **or therapeutic record**, or part of **it, under** subsection **278.14(1)** or **278.16(1) or (2)**.
+  **(1)** The judge shall provide reasons for ordering or refusing to order the production of the record or therapeutic record, or part of it, under subsection 278.14(1) or 278.16(1) or (2).
 
-  **(2)** The reasons **provided under** subsection (1) **must** be entered in the record of the proceedings or, **if** the proceedings are not recorded, **must** be provided in writing.
+  **(2)** The reasons provided under subsection (1) must be entered in the record of the proceedings or, if the proceedings are not recorded, must be provided in writing.
 
-### Section **278.18**
+### Section 278.18
 
   **(1)** No person shall publish in any document, or broadcast or transmit in any way, any of the following:
 
-    the contents of an application made under **subsection 278.12(1)**;
+    the contents of an application made under subsection 278.12(1);
 
-    any evidence taken, information given or submissions made at a hearing under subsection **278.13(1)** or **278.15(2)**;
+    any evidence taken, information given or submissions made at a hearing under subsection 278.13(1) or 278.15(2);
 
-    the determination of the judge **under** subsection **278.14(1)** or **278.16(1) or (2)** and the reasons provided **under** section **278.17**, unless the judge, after taking into account the interests of justice and the right to privacy of the person to whom the record **or therapeutic record** relates, orders that the determination **and the reasons** may be published, **broadcast or transmitted**.
+    the determination of the judge under subsection 278.14(1) or 278.16(1) or (2) and the reasons provided under section 278.17, unless the judge, after taking into account the interests of justice and the right to privacy of the person to whom the record or therapeutic record relates, orders that the determination and the reasons may be published, broadcast or transmitted.
+
+  **(1.1)** Subsection (1) does not apply if the disclosure of any information referred to in paragraphs (1)(a) to (c) is
+
+    made in the course of the administration of justice when the purpose of the disclosure is not one of making the information known in the community;
+
+    made by the complainant or any witness and about that complainant or witness and their particulars, in any forum and for any purpose, and they did not intentionally or recklessly reveal the identity of or reveal particulars likely to identify any other person whose identity is protected by this section; or
+
+    made by the complainant or any witness when the purpose of the disclosure is not one of making the information known to the public, including when the disclosure is made to a legal professional, a health care professional or a person in a relationship of trust with the complainant or the witness.
 
   **(2)** Every person who contravenes subsection (1) is guilty of an offence punishable on summary conviction.
 
-### Section **278.19**
+### Section 278.19
 
-For the purposes of sections 675 and 676, a determination to make or refuse to make an order **under** subsection **278.14(1)** or **278.16(1) or (2)** is deemed to be a question of law.
+For the purposes of sections 675 and 676, a determination to make or refuse to make an order under subsection 278.14(1) or 278.16(1) or (2) is deemed to be a question of law.
 
 
 ##### Production to Accused of Records and Therapeutic Records in the Possession of the Prosecutor
@@ -1148,11 +1196,11 @@ For the purposes of sections 675 and 676, a determination to make or refuse to m
 
   **(1)** Except in accordance with sections 278.21 to 278.28, no record or therapeutic record relating to a complainant or a witness that is in the possession or control of the prosecutor shall be produced to an accused in any proceedings in respect of any of the following offences or in any proceedings in respect of two or more offences at least one of which is any of the following offences:
 
-    an offence under section 151, 152, 153, 153.1, 155, 160, 170, 171, 172, 173, 213, 271, 272, 273, 279.01, 279.011, 279.02, 279.03, 286.1, 286.2 or 286.3 or any other offence under this Act that is of a sexual nature or that is committed for a sexual purpose; or
+    an offence under section 151, 152, 153, 153.1, 155, 160, 170, 171, 172, 173, 213, 271, 272, 273, 279.01, 279.011, 279.02, 279.03, 286.1, 286.2 or 286.3 or any other offence under this Act, **or any other Act of Parliament**, that is of a sexual nature or that is committed for a sexual purpose; or
 
     any offence under this Act, as it read from time to time before the day on which this paragraph comes into force, if the conduct alleged would be an offence referred to in paragraph (a) if it occurred on or after that day.
 
-  **(2)** The prosecutor may disclose to the accused
+  **(2)** The prosecutor may **produce** to the accused
 
     a record or part of a record, if the prosecutor intends to adduce the record or part in court or if the record or part directly relates to the activity that forms the subject matter of the charge against the accused;
 
@@ -1162,11 +1210,11 @@ For the purposes of sections 675 and 676, a determination to make or refuse to m
 
   **(3)** Subject to subsection (2), if a record or therapeutic record in respect of which this section applies is in the possession or control of the prosecutor, the prosecutor shall notify the accused that it is in the prosecutor's possession or control but, in doing so, the prosecutor shall not disclose its contents.
 
-  **(4)** Disclosure under subsection (2) does not affect the application of sections 278.29 to 278.38.
+  **(4)** **Production** under subsection (2) does not affect the application of sections 278.29 to 278.38.
 
 ### Section 278.21
 
-  **(1)** An accused who seeks production of a record **or therapeutic record** referred to in subsection 278.2(1) must make an application for its production to the judge before whom the accused is to be, or is being, tried.
+  **(1)** An accused who seeks production of a record or therapeutic record referred to in subsection 278.2(1) must make an application for its production to the judge before whom the accused is to be, or is being, tried.
 
   **(2)** For greater certainty, the application referred to in subsection (1) must not be made to a judge, provincial court judge or justice presiding at any other proceedings, including a preliminary inquiry.
 
@@ -1296,6 +1344,14 @@ For the purposes of sections 675 and 676, a determination to make or refuse to m
 
     the determination of the judge under subsection 278.23(1) or 278.25(1) or (2) and the reasons provided under section 278.26, unless the judge, after taking into account the interests of justice and the right to privacy of the person to whom the record or therapeutic record relates, orders that the determination and the reasons may be published, broadcast or transmitted.
 
+  **(1.1)** Subsection (1) does not apply if the disclosure of any information referred to in paragraphs (1)(a) to (c) is
+
+    made in the course of the administration of justice when the purpose of the disclosure is not one of making the information known in the community;
+
+    made by the complainant or any witness and about that complainant or witness and their particulars, in any forum and for any purpose, and they did not intentionally or recklessly reveal the identity of or reveal particulars likely to identify any other person whose identity is protected by this section; or
+
+    made by the complainant or any witness when the purpose of the disclosure is not one of making the information known to the public, including when the disclosure is made to a legal professional, a health care professional or a person in a relationship of trust with the complainant or the witness.
+
   **(2)** Every person who contravenes subsection (1) is guilty of an offence punishable on summary conviction.
 
 ### Section 278.28
@@ -1305,23 +1361,23 @@ For the purposes of sections 675 and 676, a determination to make or refuse to m
 
 ##### Admissibility of Records and Therapeutic Records in the Possession of the Accused
 
-### Section **278.29**
+### Section 278.29
 
-  **(1)** Except in accordance with this section, no record **or therapeutic record** relating to a complainant that is in the possession or control of the accused — and which the accused intends to adduce — shall be admitted in evidence in any proceedings in respect of any of the following offences or in any proceedings in respect of two or more offences at least one of which is any of the following offences:
+  **(1)** Except in accordance with this section, no record or therapeutic record relating to a complainant that is in the possession or control of the accused — and which the accused intends to adduce — shall be admitted in evidence in any proceedings in respect of any of the following offences or in any proceedings in respect of two or more offences at least one of which is any of the following offences:
 
-    an offence under section 151, 152, 153, 153.1, 155, 160, 170, 171, 172, 173, 213, 271, 272, 273, 279.01, 279.011, 279.02, 279.03, 286.1, 286.2 or 286.3 **or any other offence under this Act that is of a sexual nature or that is committed for a sexual purpose**; or
+    an offence under section 151, 152, 153, 153.1, 155, 160, 170, 171, 172, 173, 213, 271, 272, 273, 279.01, 279.011, 279.02, 279.03, 286.1, 286.2 or 286.3 or any other offence under this Act, **or any other Act of Parliament**, that is of a sexual nature or that is committed for a sexual purpose; or
 
     any offence under this Act, as it read from time to time before the day on which this paragraph comes into force, if the conduct alleged would be an offence referred to in paragraph (a) if it occurred on or after that day.
 
-  **(2)** The **record or therapeutic record** is inadmissible **in whole or in part** unless the judge, provincial court judge or justice determines, in accordance with the procedures set out in sections **278.3, 278.31 or 278.35**,
+  **(2)** The record or therapeutic record is inadmissible in whole or in part unless the judge, provincial court judge or justice determines, in accordance with the procedures set out in sections 278.3, 278.31 or 278.35,
 
-    if the admissibility of the **record or therapeutic record, or part of it**, is subject to section 276, that the evidence meets the conditions set out in subsection 276(2) while taking into account the factors set out in subsection (3);
+    if the admissibility of the record or therapeutic record, or part of it, is subject to section 276, that the evidence meets the conditions set out in subsection 276(2) while taking into account the factors set out in subsection (3);
 
-    that the **record, or part of it**, is relevant to an issue at trial and has significant probative value that is not substantially outweighed by the danger of prejudice to the proper administration of justice; or
+    that the record, or part of it, is relevant to an issue at trial and has significant probative value that is not substantially outweighed by the danger of prejudice to the proper administration of justice; **and**
 
-    that the **therapeutic record, or part of it,** is evidence that is likely to raise a reasonable doubt as to the accused's guilt and there is no other evidence that is capable of raising a reasonable doubt as to the accused's guilt.
+    that the therapeutic record, or part of it, is evidence that is likely to raise a reasonable doubt as to the accused's guilt and there is no other evidence that is capable of raising a reasonable doubt as to the accused's guilt.
 
-  **(3)** In determining whether **the record or therapeutic record, or part of it**, is admissible under subsection (2), the judge, provincial court judge or justice shall take into account **the following factors:**
+  **(3)** In determining whether the record or therapeutic record, or part of it, is admissible under subsection (2), the judge, provincial court judge or justice shall take into account the following factors:
 
     the interests of justice, including the right of the accused to make a full answer and defence;
 
@@ -1329,7 +1385,7 @@ For the purposes of sections 675 and 676, a determination to make or refuse to m
 
     society's interest in encouraging the obtaining of treatment by complainants of sexual offences;
 
-    whether there is a reasonable prospect that **the record or therapeutic record, or part of it**, will assist in arriving at a just determination in the case;
+    whether there is a reasonable prospect that the record or therapeutic record, or part of it, will assist in arriving at a just determination in the case;
 
     the need to remove from the fact-finding process any discriminatory belief or bias;
 
@@ -1341,67 +1397,75 @@ For the purposes of sections 675 and 676, a determination to make or refuse to m
 
     any other factor that the judge, provincial court judge or justice considers relevant.
 
-### Section **278.3**
+### Section 278.3
 
-  **(1)** Application may be made to the judge, provincial court judge or justice by or on behalf of the accused for a hearing under section **278.31** to determine whether **the record or therapeutic record, or part of it**, is admissible under subsection **278.29(2)**.
+  **(1)** Application may be made to the judge, provincial court judge or justice by or on behalf of the accused for a hearing under section 278.31 to determine whether the record or therapeutic record, or part of it, is admissible under subsection 278.29(2).
 
-  **(2)** **The** application must be made in writing **and must be accompanied by an affidavit** setting out
+  **(2)** The application must be made in writing and must be accompanied by an affidavit setting out
 
-    detailed particulars of the **record or the therapeutic record, or the part of it**, that the accused seeks to adduce;
+    detailed particulars of the record or the therapeutic record, or the part of it, that the accused seeks to adduce;
 
-    **in the case of a record, or a part of one**, the relevance of that evidence to an issue at trial; and
+    in the case of a record, or a part of one, the relevance of that evidence to an issue at trial; and
 
     in the case of a therapeutic record, or a part of one, how that evidence is likely to raise a reasonable doubt as to the accused's guilt.
 
-  **(3)** A copy of the application **and the affidavit** must be given to the prosecutor **and the complainant and filed with** the clerk of the court.
+  **(3)** A copy of the application and the affidavit must be given to the prosecutor and filed with the clerk of the court.
 
   **(4)** The judge, provincial court judge or justice shall consider the application with the jury and the public excluded.
 
-  ****(5)**** If the judge, provincial court judge or justice is satisfied that the application was made in accordance with subsection (2), that a copy of the application was given to the prosecutor **and to the complainant** and **filed with** the clerk of the court at least **60** days previously or **within** any shorter interval that the judge, provincial court judge or justice may allow in the interests of justice, and that the **record or therapeutic record, or the part of it**, sought to be adduced is capable of being admissible, the judge, provincial court judge or justice shall grant the application and hold a hearing under section **278.31** to determine whether the evidence is admissible under subsection **278.29(2)**.
+  **(5)** If the judge, provincial court judge or justice is satisfied that the application was made in accordance with subsection (2), that a copy of the application was given to the prosecutor and filed with the clerk of the court at least 60 days previously or within any shorter interval that the judge, provincial court judge or justice may allow in the interests of justice, and that the record or therapeutic record, or the part of it, sought to be adduced is capable of being admissible, the judge, provincial court judge or justice shall grant the application and hold a hearing under section 278.31 to determine whether the evidence is admissible under subsection 278.29(2).
 
-  **(6)** The condition in subsection (5) that a copy of the application be given to the complainant is not met if the accused personally gives a copy of the application to the complainant.
+  **(6)** If the judge, provincial court judge or justice grants the application and agrees to hold the hearing, the accused shall cause a copy of the application to be given to the complainant by a person other than the accused.
 
-### Section **278.31**
+### Section 278.31
 
-  ****(1)**** The jury and the public shall be excluded from a hearing to determine whether **the record or therapeutic record, or part of it**, is admissible under subsection **278.29(2)**.
+  **(1)** The jury and the public shall be excluded from a hearing to determine whether the record or therapeutic record, or part of it, is admissible under subsection 278.29(2).
 
   **(2)** The complainant is not a compellable witness at the hearing but may appear and make submissions.
 
-  **(3)** The judge, **provincial court judge or justice** shall, as soon as feasible, inform the complainant who participates in the hearing of their right to be represented by counsel.
+  **(3)** The judge, provincial court judge or justice shall, as soon as feasible, inform the complainant who participates in the hearing of their right to be represented by counsel.
 
-  **(4)** At the conclusion of the hearing, the judge, provincial court judge or justice shall determine whether the **record or therapeutic record**, or part of it, is admissible under subsection **278.29(2)** and shall provide reasons for that determination, and
+  **(4)** At the conclusion of the hearing, the judge, provincial court judge or justice shall determine whether the record or therapeutic record, or part of it, is admissible under subsection 278.29(2) and shall provide reasons for that determination, and
 
-    if not all of the **record or therapeutic record** is to be admitted, the reasons must state the part of **it** that is to be admitted;
+    if not all of the record or therapeutic record is to be admitted, the reasons must state the part of it that is to be admitted;
 
-    the reasons must state the factors referred to in subsection **278.29(3)** that affected the determination;
+    the reasons must state the factors referred to in subsection 278.29(3) that affected the determination;
 
-    if all or any part of **the record** is to be admitted, the reasons must state the manner in which that **it** is expected to be relevant to an issue at trial; and
+    if all or any part of the record is to be admitted, the reasons must state the manner in which that it is expected to be relevant to an issue at trial; and
 
     if all or any part of the therapeutic record is to be admitted, the reasons must state how it is likely to raise a reasonable doubt as to the accused's guilt and why the judge is of the opinion that there is no other evidence that is capable of raising a reasonable doubt as to the accused's guilt.
 
-  **(5)** The reasons provided under subsection (4) **must** be entered in the record of the proceedings or, if the proceedings are not recorded, shall be provided in writing.
+  **(5)** The reasons provided under subsection (4) must be entered in the record of the proceedings or, if the proceedings are not recorded, shall be provided in writing.
 
-### Section **278.32**
+### Section 278.32
 
-  ****(1)**** A person shall not publish in any document, or broadcast or transmit in any way, any of the following:
+  **(1)** A person shall not publish in any document, or broadcast or transmit in any way, any of the following:
 
-    the contents of an application made under subsection **278.3(1)**;
+    the contents of an application made under subsection 278.3(1);
 
-    any evidence taken, the information given **or** the representations made **at the consideration of** an application **made** under **subsection 278.3(1)** or at a hearing under section **278.31**;
+    any evidence taken, the information given or the representations made at the consideration of an application made under subsection 278.3(1) or at a hearing under section 278.31;
 
-    the decision of a judge, **provincial court judge** or justice under subsection **278.3(5)**, unless the judge, **provincial court judge** or justice, after taking into account the complainant's right of privacy and the interests of justice, orders that the decision may be published, broadcast or transmitted;
+    the decision of a judge, provincial court judge or justice under subsection 278.3(5), unless the judge, provincial court judge or justice, after taking into account the complainant's right of privacy and the interests of justice, orders that the decision may be published, broadcast or transmitted;
 
-    the determination made and the reasons provided under subsection **278.31(4)**, unless that determination is that evidence is admissible or the judge, **provincial court judge** or justice, after taking into account the complainant's right of privacy and the interests of justice, orders that the determination and **the** reasons may be published, broadcast or transmitted.
+    the determination made and the reasons provided under subsection 278.31(4), unless that determination is that evidence is admissible or the judge, provincial court judge or justice, after taking into account the complainant's right of privacy and the interests of justice, orders that the determination and the reasons may be published, broadcast or transmitted.
+
+  **(1.1)** Subsection (1) does not apply if the disclosure of any information referred to in paragraphs (1)(a) to (d) is
+
+    made in the course of the administration of justice when the purpose of the disclosure is not one of making the information known in the community;
+
+    made by the complainant or any witness and about that complainant or witness and their particulars, in any forum and for any purpose, and they did not intentionally or recklessly reveal the identity of or reveal particulars likely to identify any other person whose identity is protected by this section; or
+
+    made by the complainant or any witness when the purpose of the disclosure is not one of making the information known to the public, including when the disclosure is made to a legal professional, a health care professional or a person in a relationship of trust with the complainant or the witness.
 
   **(2)** Every person who contravenes subsection (1) is guilty of an offence punishable on summary conviction.
 
-### Section **278.33**
+### Section 278.33
 
-If evidence is admitted at trial on the basis of a determination made under subsection **278.31(4)**, the judge shall instruct the jury as to the uses that the jury may and may not make of that evidence.
+If evidence is admitted at trial on the basis of a determination made under subsection 278.31(4), the judge shall instruct the jury as to the uses that the jury may and may not make of that evidence.
 
-### Section **278.34**
+### Section 278.34
 
-For the purposes of sections 675 and 676, a determination made under subsection **278.31(4)** is deemed to be a question of law.
+For the purposes of sections 675 and 676, a determination made under subsection 278.31(4) is deemed to be a question of law.
 
 
 ##### Joint Application
@@ -1436,6 +1500,8 @@ For the purposes of sections 675 and 676, a determination made under subsection 
 
   **(7)** For greater certainty, this section does not apply to a therapeutic record.
 
+  **(8)** For greater certainty, the complainant or any witness has the right to be represented by counsel.
+
 ### Section 278.36
 
   **(1)** A person shall not publish in any document, or broadcast or transmit in any way, any of the following:
@@ -1445,6 +1511,14 @@ For the purposes of sections 675 and 676, a determination made under subsection 
     any evidence taken, the information given or the representations made at the consideration of an application made under subsection 278.35(1);
 
     the determination made and the reasons provided under section 278.35, unless that determination is that the record or part of it is admissible or the judge, provincial court judge or justice, after taking into account the complainant's right of privacy and the interests of justice, orders that the determination and the reasons may be published, broadcast or transmitted.
+
+  **(1.1)** Subsection (1) does not apply if the disclosure of any information referred to in paragraphs (1)(a) to (c) is
+
+    made in the course of the administration of justice when the purpose of the disclosure is not one of making the information known in the community;
+
+    made by the complainant or any witness and about that complainant or witness and their particulars, in any forum and for any purpose, and they did not intentionally or recklessly reveal the identity of or reveal particulars likely to identify any other person whose identity is protected by this section; or
+
+    made by the complainant or any witness when the purpose of the disclosure is not one of making the information known to the public, including when the disclosure is made to a legal professional, a health care professional or a person in a relationship of trust with the complainant or the witness.
 
   **(2)** Every person who contravenes subsection (1) is guilty of an offence punishable on summary conviction.
 
@@ -1463,19 +1537,23 @@ For the purposes of sections 675 and 676, a determination made under subsection 
 
   **(1)** Subsection 279.04(2) of the Act is replaced by the following:
 
-    **(2)** In determining whether an accused exploits **a complainant** under subsection (1), the Court **must** consider **all the circumstances, including the nature of the relationship between the accused and the complainant and all of the following facts with respect to which there is evidence**:
+    **(2)** In determining whether an accused exploits a complainant under subsection (1), the Court must consider all the circumstances, including the nature of the relationship between the accused and the complainant and all of the following facts with respect to which there is evidence:
 
-      **the accused** used, **or** threatened or **attempted** to use, force or another form of coercion;
+      the accused used, or threatened or attempted to use, force or another form of coercion;
 
-      **the accused** used deception;
+      the accused used deception;
 
-      **the accused** abused a position of trust, power or authority;
+      the accused abused a position of trust, power or authority;
 
       the accused engaged in controlling or directive behaviour, including with respect to finances, living conditions, appearance, communications with others, the labour or service provided or offered to be provided or the advertising of the labour or service or documents that establish or purport to establish the person's identity or immigration status;
 
       the accused subjected the complainant to degrading or humiliating behaviour;
 
-      the accused exposed the complainant to behaviour referred to in paragraphs (a) to (e) directed at another person;
+      the accused used, or threatened or attempted to use, violence against any animal known to the complainant;
+
+      the accused damaged, or threatened or attempted to damage, the complainant's property or the property of anyone known to the complainant;
+
+      the accused exposed the complainant to behaviour referred to in paragraphs (a) to (**e.2**) directed at another person;
 
       the accused received an undue benefit in relation to the labour or service;
 
@@ -1503,13 +1581,13 @@ Section 346 of the Act is amended by adding the following after subsection (1.3)
 
 ### Section 486.1
 
-      **(1)** In any proceedings against an accused, the judge or justice shall, on application of the prosecutor in respect of a witness who is under the age of 18 years or who has a mental or physical disability, or on application of such a witness, order that a support person of the **witness's** choice **or a support animal** be permitted to be present and to be close to the witness while the witness testifies, unless the judge or justice is of the opinion that the order would interfere with the proper administration of justice.
+      **(1)** In any proceedings against an accused, the judge or justice shall, on application of the prosecutor in respect of a witness who is under the age of 18 years or who has a mental or physical disability, or on application of such a witness, order that a support person of the witness's choice or a support animal be permitted to be present and to be close to the witness while the witness testifies, unless the judge or justice is of the opinion that the order would interfere with the proper administration of justice.
 
-      **(1.1)** In any proceedings against an accused in respect of an offence that is of a sexual nature or committed for a sexual purpose, an offence related to criminal harassment or trafficking in persons or an offence in the commission of which violence was used, threatened or attempted against their intimate partner, the judge or justice **shall**, on application of the prosecutor in respect of a witness who is a victim, or on application of such a witness, order that a support person **of the witness's choice or a support animal** be permitted to be present and to be close to the witness while the witness testifies, unless the judge or justice is of the opinion that the order would interfere with the proper administration of justice.
+      **(1.1)** In any proceedings against an accused in respect of an offence that is of a sexual nature or committed for a sexual purpose, an offence related to criminal harassment or trafficking in persons or an offence **committed** against their intimate partner, the judge or justice shall, on application of the prosecutor in respect of a witness who is a victim, or on application of such a witness, order that a support person of the witness's choice or a support animal be permitted to be present and to be close to the witness while the witness testifies, unless the judge or justice is of the opinion that the order would interfere with the proper administration of justice.
 
       **(1.2)** If an application for an order under subsection (1) or (1.1) is not made, the judge or justice shall inquire of the prosecutor whether reasonable steps have been taken to inform the witness that such an application may be made.
 
-      **(2)** In any proceedings against an accused, the judge or justice may, on application of the prosecutor in respect of a witness, or on application of a witness, order that a support person of the **witness's** choice **or a support animal** be permitted to be present and to be close to the witness while the witness testifies if the judge or justice is of the opinion that the order would facilitate the giving of a full and candid account by the witness of the acts complained of or would otherwise be in the interest of the proper administration of justice.
+      **(2)** In any proceedings against an accused, the judge or justice may, on application of the prosecutor in respect of a witness, or on application of a witness, order that a support person of the witness's choice or a support animal be permitted to be present and to be close to the witness while the witness testifies if the judge or justice is of the opinion that the order would facilitate the giving of a full and candid account by the witness of the acts complained of or would otherwise be in the interest of the proper administration of justice.
 
   **(2)** Subsection 486.1(2.1) of the English version of the Act is replaced by the following:
 
@@ -1525,13 +1603,13 @@ Section 346 of the Act is amended by adding the following after subsection (1.3)
 
 ### Section 486.2
 
-      **(1)** Despite section 650, in any proceedings against an accused, the judge or justice shall, on application of the prosecutor in respect of a witness who is under the age of 18 years or who is able to communicate evidence but may have difficulty doing so by reason of a mental or physical disability, or on application of such a witness, order that the witness testify, **at the option of the witness, either** outside the court room or behind a screen or other device that would allow the witness not to see the accused, unless the judge or justice is of the opinion that the order would interfere with the proper administration of justice.
+      **(1)** Despite section 650, in any proceedings against an accused, the judge or justice shall, on application of the prosecutor in respect of a witness who is under the age of 18 years or who is able to communicate evidence but may have difficulty doing so by reason of a mental or physical disability, or on application of such a witness, order that the witness testify, at the option of the witness, either outside the court room or behind a screen or other device that would allow the witness not to see the accused, unless the judge or justice is of the opinion that the order would interfere with the proper administration of justice.
 
-      **(1.1)** Despite section 650, in any proceedings against an accused in respect of an offence **that is of a sexual nature or committed for a sexual purpose, an offence related to criminal harassment or trafficking in persons or an offence in the commission of which violence was used, threatened or attempted against their intimate partner**, the judge or justice shall, on application of the prosecutor in respect of a witness who is a victim, or on application of such a witness, order that the witness testify, at the option of the witness, either outside the court room or behind a screen or other device that would allow the witness not to see the accused, unless the judge or justice is of the opinion that the order would interfere with the proper administration of justice.
+      **(1.1)** Despite section 650, in any proceedings against an accused in respect of an offence that is of a sexual nature or committed for a sexual purpose, an offence related to criminal harassment or trafficking in persons or an offence **committed** against their intimate partner, the judge or justice shall, on application of the prosecutor in respect of a witness who is a victim, or on application of such a witness, order that the witness testify, at the option of the witness, either outside the court room or behind a screen or other device that would allow the witness not to see the accused, unless the judge or justice is of the opinion that the order would interfere with the proper administration of justice.
 
       **(1.2)** If an application for an order under subsection (1) or (1.1) is not made, the judge or justice shall inquire of the prosecutor whether reasonable steps have been taken to inform the witness that such an application may be made.
 
-      **(2)** Despite section 650, in any proceedings against an accused, the judge or justice may, on application of the prosecutor in respect of a witness, or on application of a witness, order that the witness testify, **at the option of the witness, either** outside the court room or behind a screen or other device that would allow the witness not to see the accused if the judge or justice is of the opinion that the order would facilitate the giving of a full and candid account by the witness of the acts complained of or would otherwise be in the interest of the proper administration of justice.
+      **(2)** Despite section 650, in any proceedings against an accused, the judge or justice may, on application of the prosecutor in respect of a witness, or on application of a witness, order that the witness testify, at the option of the witness, either outside the court room or behind a screen or other device that would allow the witness not to see the accused if the judge or justice is of the opinion that the order would facilitate the giving of a full and candid account by the witness of the acts complained of or would otherwise be in the interest of the proper administration of justice.
 
   **(2)** Subsections 486.2(2.1) of the English version of the Act is replaced by the following:
 
@@ -1539,9 +1617,9 @@ Section 346 of the Act is amended by adding the following after subsection (1.3)
 
   **(3)** Subsections 486.2(5) and (6) of the Act are replaced by the following:
 
-    **(5)** A witness shall not testify outside the court room in accordance with an order made under subsection (1), **(1.1)** or (2) unless arrangements are made for the accused, the judge or justice and the jury to watch the testimony of the witness by means of closed-circuit television or **videoconference** and the accused is permitted to communicate with counsel while watching the testimony.
+    **(5)** A witness shall not testify outside the court room in accordance with an order made under subsection (1), (1.1) or (2) unless arrangements are made for the accused, the judge or justice and the jury to watch the testimony of the witness by means of closed-circuit television or videoconference and the accused is permitted to communicate with counsel while watching the testimony.
 
-    **(6)** No adverse inference **shall** be drawn from the fact that an order is, or is not, made under **this section**.
+    **(6)** No adverse inference shall be drawn from the fact that an order is, or is not, made under this section.
 
     **(7)** If the judge or justice does not make an order under this section, the judge or justice shall include the reasons for their decision, in writing, in the record.
 
@@ -1549,7 +1627,7 @@ Section 346 of the Act is amended by adding the following after subsection (1.3)
 
   **(1)** Subsection 486.3(2) of the Act is replaced by the following:
 
-    **(2)** In any proceedings against an accused in respect of an offence **that is of a sexual nature or committed for a sexual purpose, an offence related to criminal harassment or trafficking in persons or an offence in the commission of which violence was used, threatened or attempted against their intimate partner**, the judge or justice shall, on application of the prosecutor in respect of a witness who is a victim, or on application of such a witness, order that the accused not personally cross-examine the witness, unless the judge or justice is of the opinion that the proper administration of justice requires the accused to personally conduct the cross-examination. If such an order is made, the judge or justice shall appoint counsel to conduct the cross-examination.
+    **(2)** In any proceedings against an accused in respect of an offence that is of a sexual nature or committed for a sexual purpose, an offence related to criminal harassment or trafficking in persons or an offence **committed** against their intimate partner, the judge or justice shall, on application of the prosecutor in respect of a witness who is a victim, or on application of such a witness, order that the accused not personally cross-examine the witness, unless the judge or justice is of the opinion that the proper administration of justice requires the accused to personally conduct the cross-examination. If such an order is made, the judge or justice shall appoint counsel to conduct the cross-examination.
 
     **(2.1)** If an application for an order under subsection (1) or (2) is not made, the judge or justice shall inquire of the prosecutor whether reasonable steps have been taken to inform the witness that such an application may be made.
 
@@ -1581,7 +1659,7 @@ Section 489.1 of the Act is amended by adding the following after subsection (3)
 
 The portion of subsection 490(2) of the Act before paragraph (a) is replaced by the following:
 
-**(2)** Nothing shall be detained under the authority of paragraph (1)(b) for a period of more than **180 days** after the day of the seizure, or any longer period that ends when an application made under paragraph (a) is decided, unless
+**(2)** Nothing shall be detained under the authority of paragraph (1)(b) for a period of more than 180 days after the day of the seizure, or any longer period that ends when an application made under paragraph (a) is decided, unless
 
 ### Section 45
 
@@ -1589,7 +1667,7 @@ The portion of subsection 490(2) of the Act before paragraph (a) is replaced by 
 
     subsection 160(3.1) (representation of bestiality),
 
-    **subsection** 162.1**(1)** (intimate image — publication etc.),
+    subsection 162.1(1) (intimate image — publication etc.),
 
     subsection 162.1(1.1) (intimate image — threat to publish etc.),
 
@@ -1737,7 +1815,7 @@ For greater certainty, in determining the days that are not to be taken into acc
 
 Subsection 507.1(9) of the Act is replaced by the following:
 
-**(9)** Subsections (1) to (8) do not apply in respect of an information laid under section 810, **810.03** or 810.1.
+**(9)** Subsections (1) to (8) do not apply in respect of an information laid under section 810, 810.03 or 810.1.
 
 ### Section 48
 
@@ -1747,7 +1825,7 @@ Subsection 507.1(9) of the Act is replaced by the following:
 
   **(3)** Paragraph 515(4.3)(c) of the French version of the Act is replaced by the following:
 
-    infraction perpétrée avec usage, tentative ou menace de violence contre **une personne**, notamment le partenaire intime du prévenu;
+    infraction perpétrée avec usage, tentative ou menace de violence contre une personne, notamment le partenaire intime du prévenu;
 
 ### Section 49
 
@@ -1815,43 +1893,43 @@ The Act is amended by adding the following after section 672.501:
 
 Paragraph 672.81(1.3)(a) of the Act is replaced by the following:
 
-an indictable offence involving **any of the following in respect of** another person, **including the accused's intimate partner, a member of the intimate partner's family and a member of the accused's family**:
+an indictable offence involving any of the following in respect of another person, including the accused's intimate partner, a member of the intimate partner's family and a member of the accused's family:
 
-the use or attempted use of violence against **the other** person, or
+the use or attempted use of violence against the other person, or
 
-conduct endangering or likely to endanger the life or safety of — **or conduct** inflicting or likely to inflict severe psychological damage on — **the other** person; or
+conduct endangering or likely to endanger the life or safety of — or conduct inflicting or likely to inflict severe psychological damage on — the other person; or
 
 ### Section 55
 
 Paragraph (b) of the definition **sentence** in section 673 of the Act is replaced by the following:
 
-an order made under subsection 109(1) or 110(1), section 161, subsection 164.2(1) or 194(1), section 320.24 or 462.37, subsection 491.1(2), 730(1) or 737(2.1) or (3) or section 738, 739, 742.1, 742.3, 743.6, 745.4, 745.5 or **745.52**,
+an order made under subsection 109(1) or 110(1), section 161, subsection 164.2(1) or 194(1), section 320.24 or 462.37, subsection 491.1(2), 730(1) or 737(2.1) or (3) or section 738, 739, 742.1, 742.3, 743.6, 745.4, 745.5 or 745.52,
 
 ### Section 56
 
   **(1)** Subsection 675(2) of the Act is replaced by the following:
 
-    **(2)** A person who has been convicted of second degree murder, **or of manslaughter in the circumstances set out in any of paragraphs 236(2)(a) to (d)**, and sentenced to imprisonment for life without eligibility for parole for a specified number of years in excess of 10 may appeal to the court of appeal against the number of years in excess of 10 of **their** imprisonment without eligibility for parole.
+    **(2)** A person who has been convicted of second degree murder, or of manslaughter in the circumstances set out in any of paragraphs 236(2)(a) to (d), and sentenced to imprisonment for life without eligibility for parole for a specified number of years in excess of 10 may appeal to the court of appeal against the number of years in excess of 10 of their imprisonment without eligibility for parole.
 
   **(2)** Subsection 675(2.2) of the Act is replaced by the following:
 
-    **(2.2)** A person who was under the age of 18 at the time of the commission of the offence for which the person was convicted of first degree murder, second degree murder **or manslaughter in the circumstances set out in any of paragraphs 236(2)(a) to (d)** and **was** sentenced to imprisonment for life without eligibility for parole until the person has served the period specified by the judge presiding at the trial may appeal to the court of appeal against the number of years in excess of the minimum number of years of imprisonment without eligibility for parole that are required to be served in respect of that person's case.
+    **(2.2)** A person who was under the age of 18 at the time of the commission of the offence for which the person was convicted of first degree murder, second degree murder or manslaughter in the circumstances set out in any of paragraphs 236(2)(a) to (d) and was sentenced to imprisonment for life without eligibility for parole until the person has served the period specified by the judge presiding at the trial may appeal to the court of appeal against the number of years in excess of the minimum number of years of imprisonment without eligibility for parole that are required to be served in respect of that person's case.
 
 ### Section 57
 
 Subsection 676(4) of the Act is replaced by the following:
 
-**(4)** The Attorney General or counsel instructed by **the Attorney General** for the purpose may appeal to the court of appeal in respect of a conviction for second degree murder **or manslaughter in the circumstances set out in any of paragraphs 236(2)(a) to (d)**, against the number of years of imprisonment without eligibility for parole, being less than 25, that has been imposed as a result of that conviction.
+**(4)** The Attorney General or counsel instructed by the Attorney General for the purpose may appeal to the court of appeal in respect of a conviction for second degree murder or manslaughter in the circumstances set out in any of paragraphs 236(2)(a) to (d), against the number of years of imprisonment without eligibility for parole, being less than 25, that has been imposed as a result of that conviction.
 
 ### Section 58
 
   **(1)** Subsection 699(5.1) of the Act is replaced by the following:
 
-    **(5.1)** Despite anything in subsections (1) to (5), in the case of an offence referred to in **section 278.11**, a subpoena requiring a witness to bring to the court a record **or a therapeutic record** the production of which is governed by sections 278.1 to **278.19** must be issued by a judge and signed by the judge or the clerk of the court.
+    **(5.1)** Despite anything in subsections (1) to (5), in the case of an offence referred to in section 278.11, a subpoena requiring a witness to bring to the court a record or a therapeutic record the production of which is governed by sections 278.1 to 278.19 must be issued by a judge and signed by the judge or the clerk of the court.
 
   **(2)** Subsection 699(7) of the Act is replaced by the following:
 
-    **(7)** In the case of an offence referred to in **section 278.11**, a subpoena requiring a witness to bring anything to the court shall be in Form 16.1.
+    **(7)** In the case of an offence referred to in section 278.11, a subpoena requiring a witness to bring anything to the court shall be in Form 16.1.
 
 ### Section 59
 
@@ -1921,7 +1999,7 @@ measures that are taken under this Part take into account the personal circumsta
 
   **(1)** A prosecutor must, if it is appropriate in the circumstances and does not pose a risk to the safety of the public, while taking into account the interests of the victim, of society and of the person alleged to have committed an offence and having regard to the purpose and principles set out in sections 715.45 and 715.46, consider, before commencing or continuing judicial proceedings against the person alleged to have committed the offence,
 
-    issuing a warning; or
+    issuing a warning **to the person**; or
 
     with the consent of the person, referring them to a program or to an agency or another service provider in the community that may assist them or to an alternative measure.
 
@@ -2009,7 +2087,7 @@ they provide opportunities for understanding, healing and change and contribute 
   **(3)** For greater certainty, sections 715.49 to 715.52 apply when a restorative justice process is used as an alternative measure under this Part.
 
 
-#### **Conferences**
+#### Conferences
 
 ### Section 715.55
 
@@ -2026,7 +2104,7 @@ they provide opportunities for understanding, healing and change and contribute 
 
 ### Section 715.56
 
-Sections 715.57 to 715.6 apply only in respect of persons who have been issued a warning or a referral under section 715.47, regardless of the degree of their compliance with the terms and conditions of the alternative measures.
+Sections 715.57 to 715.6 apply only in respect of persons who have been issued a warning or a referral under section 715.47 **or 715.48**, regardless of the degree of their compliance with the terms and conditions of the alternative measures.
 
 ### Section 715.57
 
@@ -2098,7 +2176,7 @@ The heading before section 717 and sections 717 to 717.4 of the Act are repealed
 
 Subparagraph 718.2(a)(ii.2) of the Act is replaced by the following:
 
-evidence that the offender **counselled or otherwise** involved a person under the age of 18 years in the commission of the offence,
+evidence that the offender counselled or otherwise involved a person under the age of 18 years in the commission of the offence,
 
 ### Section 63
 
@@ -2120,9 +2198,9 @@ The Act is amended by adding the following after section 718.3:
 
 Subsection 720(2) of the Act is replaced by the following:
 
-**(2)** The court may, with the consent of the Attorney General and the offender and after considering the interests of justice and of any victim of the offence, delay sentencing to enable the offender to **participate in**, under the supervision of the court,
+**(2)** The court may, with the consent of the Attorney General and the offender and after considering the interests of justice and of any victim of the offence, delay sentencing to enable the offender to participate in, under the supervision of the court,
 
-  a treatment program approved by the province, such as an addiction treatment program or a domestic violence counselling program; **or**
+  a treatment program approved by the province, such as an addiction treatment program or a domestic violence counselling program; or
 
   a restorative justice process, as defined in section 715.44, approved by the province.
 
@@ -2130,17 +2208,17 @@ Subsection 720(2) of the Act is replaced by the following:
 
 Paragraph 721(3)(c) of the Act is replaced by the following:
 
-the history of any **alternative measure or restorative justice process, as those terms are defined in section 715.44, that is** used to deal with the offender, and the offender's response to those measures; and
+the history of any alternative measure or restorative justice process, as those terms are defined in section 715.44, that is used to deal with the offender, and the offender's response to those measures; and
 
 ### Section 66
 
   **(1)** Paragraph 722(5)(b) of the Act is replaced by the following:
 
-    reading it in the presence and close proximity of any support person of the victim's choice **or a support animal**;
+    reading it in the presence and close proximity of any support person of the victim's choice or a support animal;
 
   **(2)** Subsection 722(7) of the Act is replaced by the following:
 
-    **(7)** The victim shall not present the statement outside the court room unless arrangements are made for the offender and the judge or justice to watch the presentation by means of closed-circuit television or **videoconference** and the offender is permitted to communicate with counsel while watching the presentation.
+    **(7)** The victim shall not present the statement outside the court room unless arrangements are made for the offender and the judge or justice to watch the presentation by means of closed-circuit television or videoconference and the offender is permitted to communicate with counsel while watching the presentation.
 
 ### Section 67
 
@@ -2152,11 +2230,11 @@ the history of any **alternative measure or restorative justice process, as thos
 
   **(2)** Paragraph 722.2(3)(b) of the Act is replaced by the following:
 
-    reading it in the presence and close proximity of any support person of the individual's choice **or a support animal**;
+    reading it in the presence and close proximity of any support person of the individual's choice or a support animal;
 
   **(3)** Subsection 722.2(4) of the Act is replaced by the following:
 
-    **(4)** The individual making the statement shall not present it outside the court room unless arrangements are made for the offender and the judge or justice to watch the presentation by means of closed-circuit television or **videoconference** and the offender is permitted to communicate with counsel while watching the presentation.
+    **(4)** The individual making the statement shall not present it outside the court room unless arrangements are made for the offender and the judge or justice to watch the presentation by means of closed-circuit television or videoconference and the offender is permitted to communicate with counsel while watching the presentation.
 
   **(4)** Section 722.2 of the Act is amended by adding the following after subsection (5):
 
@@ -2175,11 +2253,11 @@ If a court determines that an offender is guilty of an offence in the commission
 The Act is amended by adding the following after section 729.1:
 
 
-### **Order Prohibiting Contact**
+### Order Prohibiting Contact
 
 ### Section 729.2
 
-  **(1)** When an offender is convicted, or is discharged under section 730 on the conditions prescribed in a probation order, of an offence that is of a sexual nature or committed for a sexual purpose, an offence related to criminal harassment or trafficking in persons or an offence in the commission of which violence was used, threatened or attempted against their intimate partner, the court that imposes a sentence on the offender or directs the discharge may make an order prohibiting the offender from having any contact — including by communicating by any means — with any victim, witness or other person identified in the order except in accordance with any conditions specified in the order that the court considers necessary.
+  **(1)** When an offender is convicted, or is discharged under section 730 on the conditions prescribed in a probation order, of an offence that is of a sexual nature or committed for a sexual purpose, an offence related to criminal harassment or trafficking in persons or an offence **committed** against their intimate partner, the court that imposes a sentence on the offender or directs the discharge may make an order prohibiting the offender from having any contact — including by communicating by any means — with any victim, witness or other person identified in the order except in accordance with any conditions specified in the order that the court considers necessary.
 
   **(2)** The prohibition may be for life or for any shorter duration that the court considers desirable.
 
@@ -2201,7 +2279,7 @@ The Act is amended by adding the following after section 729.1:
 
 Paragraph 738(1)(c) of the Act is replaced by the following:
 
-in the case of bodily **or psychological** harm or threat of **such** harm to the offender's intimate partner or child, or any other person, as a result of the commission of the offence or the arrest or attempted arrest of the offender, where the intimate partner, child or other person was a member of the offender's household at the relevant time, by paying to the person in question, independently of any amount ordered to be paid under paragraphs (a) and (b), an amount **of** not **more than the** actual and reasonable expenses incurred by that person, as a result of moving out of the offender's household, for temporary housing, food, child care and transportation, where the amount is readily ascertainable;
+in the case of bodily or psychological harm or threat of such harm to the offender's intimate partner or child, or any other person, as a result of the commission of the offence or the arrest or attempted arrest of the offender, where the intimate partner, child or other person was a member of the offender's household at the relevant time, by paying to the person in question, independently of any amount ordered to be paid under paragraphs (a) and (b), an amount of not more than the actual and reasonable expenses incurred by that person, as a result of moving out of the offender's household, for temporary housing, food, child care and transportation, where the amount is readily ascertainable;
 
 ### Section 71
 
@@ -2223,11 +2301,11 @@ in respect of a person who has been convicted of manslaughter in the circumstanc
 
 ### Section 745.1
 
-    The sentence to be pronounced against a person who was under the age of 18 at the time of the commission of the offence for which the person was convicted of first degree murder, second degree murder or **manslaughter in the circumstances set out in any of paragraphs 236(2)(a) to (d)** and who is to be sentenced to imprisonment for life shall be that the person be sentenced to imprisonment for life without eligibility for parole until the person has served
+    The sentence to be pronounced against a person who was under the age of 18 at the time of the commission of the offence for which the person was convicted of first degree murder, second degree murder or manslaughter in the circumstances set out in any of paragraphs 236(2)(a) to (d) and who is to be sentenced to imprisonment for life shall be that the person be sentenced to imprisonment for life without eligibility for parole until the person has served
 
   **(2)** Paragraph 745.1(c) of the Act is replaced by the following:
 
-    seven years, in the case of a person **who was** convicted of second degree murder **or of manslaughter in the circumstances set out in any of paragraphs 236(2)(a) to (d)** and who was 16 or 17 years of age at the time of the commission of the offence.
+    seven years, in the case of a person who was convicted of second degree murder or of manslaughter in the circumstances set out in any of paragraphs 236(2)(a) to (d) and who was 16 or 17 years of age at the time of the commission of the offence.
 
 ### Section 74
 
@@ -2239,7 +2317,7 @@ The Act is amended by adding the following after section 745.51:
 
     substitute for 10 years a greater number of years, of up to 25, of imprisonment without eligibility for parole, in the case of a sentencing under paragraph 745(c.1); or
 
-    decide the period of imprisonment the offender is to serve that is between five and seven years without eligibility for parole, in the case of a sentencing under paragraph section 745.1(a).
+    decide the period of imprisonment the offender is to serve that is between five and seven years without eligibility for parole, in the case of a sentencing under paragraph 745.1(a).
 
   **(2)** For the purposes of subsection (1), the judge shall have regard to the character of the offender, the nature of the offence and the circumstances surrounding its commission and, in respect of a decision under paragraph (1)(b), the age of the offender.
 
@@ -2249,19 +2327,19 @@ The portion of section 746 of the Act before paragraph (a) is replaced by the fo
 
 ### Section 746
 
-In calculating the period of imprisonment served for the purposes of section 745, 745.1, 745.4, 745.5, **745.52** or 745.6, there shall be included any time spent in custody between
+In calculating the period of imprisonment served for the purposes of section 745, 745.1, 745.4, 745.5, 745.52 or 745.6, there shall be included any time spent in custody between
 
 ### Section 76
 
 Paragraphs (a) and (b) of the definition **serious personal injury offence** in section 752 of the Act are replaced by the following:
 
-an indictable offence, other than high treason, treason, first degree or second degree murder, for which the offender may be sentenced to imprisonment for 10 years or more and involving **any of the following in respect of** another person, **including the offender's intimate partner, a member of the intimate partner's family and a member of the offender's family**:
+an indictable offence, other than high treason, treason, first degree or second degree murder, for which the offender may be sentenced to imprisonment for 10 years or more and involving any of the following in respect of another person, including the offender's intimate partner, a member of the intimate partner's family and a member of the offender's family:
 
-the use or attempted use of violence against **the other** person, or
+the use or attempted use of violence against the other person, or
 
-conduct endangering or likely to endanger the life or safety of — **or conduct** inflicting or likely to inflict severe psychological damage on — **the other** person, or
+conduct endangering or likely to endanger the life or safety of — or conduct inflicting or likely to inflict severe psychological damage on — the other person, or
 
-an offence or attempt to commit an offence mentioned in section **151 (sexual interference), 152 (invitation to sexual touching or exposure), 153 (sexual exploitation), 153.1 (sexual exploitation of person with disability), 171.1 (making sexually explicit material available to child), 172.1 (luring a child), 172.2 (agreement or arrangement — sexual offence against child)**, 271 (sexual assault), 272 (sexual assault with a weapon, threats to a third party or causing bodily harm) or 273 (aggravated sexual assault). (**sévices graves à la personne**)
+an offence or attempt to commit an offence mentioned in section 151 (sexual interference), 152 (invitation to sexual touching or exposure), 153 (sexual exploitation), 153.1 (sexual exploitation of person with disability), 171.1 (making sexually explicit material available to child), 172.1 (luring a child), 172.2 (agreement or arrangement — sexual offence against child), 271 (sexual assault), 272 (sexual assault with a weapon, threats to a third party or causing bodily harm) or 273 (aggravated sexual assault). (**sévices graves à la personne**)
 
 ### Section 77
 
@@ -2269,9 +2347,9 @@ Section 752.01 of the Act is replaced by the following:
 
 ### Section 752.01
 
-The prosecutor shall advise the court, as soon as feasible after the finding of guilt and in any event before sentence is imposed, whether the prosecutor intends to make an application under subsection 752.1(1), if the prosecutor is of the opinion that an offence for which an offender is **found guilty** is a serious personal injury offence and **that**
+The prosecutor shall advise the court, as soon as feasible after the finding of guilt and in any event before sentence is imposed, whether the prosecutor intends to make an application under subsection 752.1(1), if the prosecutor is of the opinion that an offence for which an offender is found guilty is a serious personal injury offence and that
 
-**the offence** is a designated offence and the offender was convicted previously at least twice of a designated offence and was sentenced to at least two years of imprisonment for each of those **previous** convictions; **or**
+the offence is a designated offence and the offender was convicted previously at least twice of a designated offence and was sentenced to at least two years of imprisonment for each of those previous convictions; or
 
 the offender committed the offence against their intimate partner, a member of their family or a member of their intimate partner's family, and the offender was convicted previously at least twice of an offence that was committed against any such person and that was a designated offence or serious personal injury offence.
 
@@ -2289,7 +2367,7 @@ Section 803 of the Act is amended by adding the following after subsection (1):
 
 Paragraph 810(1)(b) of the French version of the Act is replaced by the following:
 
-soit ne commette **une** infraction **prévue** à l'article 162.1.
+soit ne commette une infraction prévue à l'article 162.1.
 
 ### Section 81
 
@@ -2297,47 +2375,47 @@ soit ne commette **une** infraction **prévue** à l'article 162.1.
 
 ### Section 810.03
 
-      **(1)** Any person who fears on reasonable grounds that another person will commit an offence that will cause personal injury to the intimate partner or a child of the other person, or to a child of the other person's intimate partner, may lay an information before a **justice**.
+      **(1)** Any person who fears on reasonable grounds that another person will commit an offence that will cause personal injury to the intimate partner or a child of the other person, or to a child of the other person's intimate partner, may lay an information before a justice.
 
-      **(2)** The **justice** who receives an information under subsection (1) may cause the parties to appear before a **justice**.
+      **(2)** The justice who receives an information under subsection (1) may cause the parties to appear before a justice.
 
-      **(3)** If the **justice** before whom the parties appear is satisfied by the evidence adduced that the informant has reasonable grounds for the fear, the **justice** may order the defendant to enter into a recognizance to keep the peace and be of good behaviour for a period of not more than 12 months.
+      **(3)** If the justice before whom the parties appear is satisfied by the evidence adduced that the informant has reasonable grounds for the fear, the justice may order the defendant to enter into a recognizance to keep the peace and be of good behaviour for a period of not more than 12 months.
 
-      **(4)** **However**, if the **justice** is **also** satisfied that the defendant was previously convicted of an offence in the commission of which violence was used, **threatened or attempted** against any intimate partner of the defendant or any child of any intimate partner or of the defendant, the **justice** may order the defendant to enter into the recognizance for a period of not more than two years.
+      **(4)** However, if the justice is also satisfied that the defendant was previously convicted of an offence in the commission of which violence was used, threatened or attempted against any intimate partner of the defendant or any child of any intimate partner or of the defendant, the justice may order the defendant to enter into the recognizance for a period of not more than two years.
 
-      **(4.1)** If the defendant or **the person on whose behalf the information is laid** is Indigenous, the **justice** shall consider whether, instead of making an order under subsection (3) or (4), it would be more appropriate to recommend that Indigenous support services, if any are available, be provided.
+      **(4.1)** If the defendant or the person on whose behalf the information is laid is Indigenous, the justice shall consider whether, instead of making an order under subsection (3) or (4), it would be more appropriate to recommend that Indigenous support services, if any are available, be provided.
 
-      **(5)** The **justice** may commit the defendant to prison for a term not exceeding 12 months if the defendant fails or refuses to enter into the recognizance.
+      **(5)** The justice may commit the defendant to prison for a term not exceeding 12 months if the defendant fails or refuses to enter into the recognizance.
 
   **(2)** The portion of subsection 810.03(6) of the Act before paragraph (d) is replaced by the following:
 
-    **(6)** The **justice** may add any reasonable conditions to the recognizance that the **justice** considers desirable to ensure the good conduct of the defendant or to secure the safety and security of the intimate partner or a child of the defendant, or a child of the defendant's intimate partner, including conditions requiring the defendant
+    **(6)** The justice may add any reasonable conditions to the recognizance that the justice considers desirable to ensure the good conduct of the defendant or to secure the safety and security of the intimate partner or a child of the defendant, or a child of the defendant's intimate partner, including conditions requiring the defendant
 
       to attend a treatment program, such as an addiction treatment program or a domestic violence counselling program;
 
-      to remain within a specified geographic area unless written permission to leave that area is obtained from the **justice**;
+      to remain within a specified geographic area unless written permission to leave that area is obtained from the justice;
 
-      to refrain from going to any specified place or being within a specified distance of any specified place, except in accordance with any specified conditions that the **justice** considers necessary;
+      to refrain from going to any specified place or being within a specified distance of any specified place, except in accordance with any specified conditions that the justice considers necessary;
 
   **(3)** Paragraph 810.03(6)(e) of the Act is replaced by the following:
 
-    to abstain from communicating, directly or indirectly, with the intimate partner, a child of the intimate partner or of the defendant or any relative or close friend of the intimate partner, except in accordance with any specified conditions that the **justice** considers necessary;
+    to abstain from communicating, directly or indirectly, with the intimate partner, a child of the intimate partner or of the defendant or any relative or close friend of the intimate partner, except in accordance with any specified conditions that the justice considers necessary;
 
   **(4)** Subsection 810.03(7) of the Act is replaced by the following:
 
-    **(7)** The **justice** shall consider whether it is desirable, in the interests of the intimate partner's safety or that of any other person, to prohibit the defendant from possessing any firearm, crossbow, prohibited weapon, restricted weapon, prohibited device, firearm part, ammunition, prohibited ammunition or explosive substance, or all of those things. If the **justice** decides that it is desirable to do so, the **justice** shall add that condition to the recognizance and specify the period during which the condition applies.
+    **(7)** The justice shall consider whether it is desirable, in the interests of the intimate partner's safety or that of any other person, to prohibit the defendant from possessing any firearm, crossbow, prohibited weapon, restricted weapon, prohibited device, firearm part, ammunition, prohibited ammunition or explosive substance, or all of those things. If the justice decides that it is desirable to do so, the justice shall add that condition to the recognizance and specify the period during which the condition applies.
 
   **(5)** Subsection 810.03(8) of the English version of the Act is replaced by the following:
 
-    **(8)** If the **justice** adds a condition described in subsection (7) to a recognizance, the **justice** shall specify in the recognizance how the things referred to in that subsection that are in the defendant's possession shall be surrendered, disposed of, detained, stored or dealt with and how the authorizations, licences and registration certificates held by the defendant shall be surrendered.
+    **(8)** If the justice adds a condition described in subsection (7) to a recognizance, the justice shall specify in the recognizance how the things referred to in that subsection that are in the defendant's possession shall be surrendered, disposed of, detained, stored or dealt with and how the authorizations, licences and registration certificates held by the defendant shall be surrendered.
 
   **(6)** Subsections 810.03(9) to (11) of the Act are replaced by the following:
 
-    **(9)** If the **justice** does not add a condition described in subsection (7) to a recognizance, the **justice** shall include in the record a statement of the reasons for not adding the condition.
+    **(9)** If the justice does not add a condition described in subsection (7) to a recognizance, the justice shall include in the record a statement of the reasons for not adding the condition.
 
-    **(10)** A **justice** may, on application of the Attorney General, the informant, the person on whose behalf the information is laid or the defendant, vary the conditions fixed in the recognizance.
+    **(10)** A justice may, on application of the Attorney General, the informant, the person on whose behalf the information is laid or the defendant, vary the conditions fixed in the recognizance.
 
-    **(11)** **If** the defendant makes an application under subsection (10), the **justice shall**, before varying any conditions, **consider the** safety and security needs **of** the person on whose behalf the information is laid.
+    **(11)** If the defendant makes an application under subsection (10), the justice shall, before varying any conditions, consider the safety and security needs of the person on whose behalf the information is laid.
 
   **(7)** Section 810.03 is amended by adding the following after subsection (12):
 
@@ -2349,19 +2427,19 @@ soit ne commette **une** infraction **prévue** à l'article 162.1.
 
 ### Section 810.1
 
-      **(1)** Any person who fears on reasonable grounds that another person will commit an offence under section 151 or 152, subsection 153(1), section 155, subsection 160(2) or (3), section 163.1, 170, 171, 171.1, 172.1 or 172.2, subsection 173(2), section 271, 272, 273 or 279.011, subsection 279.02(2) or 279.03(2), section 280 or 281 or subsection 286.1(2), 286.2(2) or 286.3(2), in respect of one or more persons who are under the age of **18** years, may lay an information before a provincial court judge, whether or not the person or persons in respect of whom it is feared that the offence will be committed are named.
+      **(1)** Any person who fears on reasonable grounds that another person will commit an offence under section 151 or 152, subsection 153(1), section 155, subsection 160(2) or (3), section 163.1, 170, 171, 171.1, 172.1 or 172.2, subsection 173(2), section 271, 272, 273 or 279.011, subsection 279.02(2) or 279.03(2), section 280 or 281 or subsection 286.1(2), 286.2(2) or 286.3(2), in respect of one or more persons who are under the age of 18 years, may lay an information before a provincial court judge, whether or not the person or persons in respect of whom it is feared that the offence will be committed are named.
 
   **(2)** Subsection 810.1(3.01) of the Act is replaced by the following:
 
-    **(3.01)** However, if the provincial court judge is also satisfied that the defendant was convicted previously of a sexual offence in respect of a person who is under the age of **18** years, the judge may order that the defendant enter into the recognizance for a period **of** not **more than** two years.
+    **(3.01)** However, if the provincial court judge is also satisfied that the defendant was convicted previously of a sexual offence in respect of a person who is under the age of 18 years, the judge may order that the defendant enter into the recognizance for a period of not more than two years.
 
   **(3)** Paragraph 810.1(3.02)(a) of the Act is replaced by the following:
 
-    prohibit the defendant from having any contact — including communicating by any means — with a person under the age of **18** years, unless the defendant does so under the supervision of a person whom the judge considers appropriate;
+    prohibit the defendant from having any contact — including communicating by any means — with a person under the age of 18 years, unless the defendant does so under the supervision of a person whom the judge considers appropriate;
 
   **(4)** Paragraph 810.1(3.02)(b) of the Act is replaced by the following:
 
-    prohibit the defendant from attending a public park or public swimming area where persons under the age of **18** years are present or can reasonably be expected to be present, or a daycare centre, schoolground or playground;
+    prohibit the defendant from attending a public park or public swimming area where persons under the age of 18 years are present or can reasonably be expected to be present, or a daycare centre, schoolground or playground;
 
 ### Section 83
 
@@ -2389,13 +2467,13 @@ TAKE NOTE
 
 You are only required to bring the things specified above to the court on the date and at the time indicated, and you are not required to provide the things specified to any person or to discuss their contents with any person unless and until ordered by the court to do so.
 
-If anything specified above is a record **or therapeutic record**, as **those terms are** defined in section 278.1 of the `Criminal Code`, it may be subject to a determination by the court in accordance with sections 278.1 to **278.19** of the `Criminal Code` as to whether and to what extent it should be produced.
+If anything specified above is a record or therapeutic record, as those terms are defined in section 278.1 of the `Criminal Code`, it may be subject to a determination by the court in accordance with sections 278.1 to 278.19 of the `Criminal Code` as to whether and to what extent it should be produced.
 
-If anything specified above is a record **or therapeutic record**, as **those terms are** defined in section 278.1 of the `Criminal Code`, the production of which is governed by sections 278.1 to **278.19** of the `Criminal Code`, this subpoena must be accompanied by a copy of an application for the production of the record **or therapeutic record** made **under** section **278.12** of the `Criminal Code`, and you will have an opportunity to make submissions to the court concerning the production of the record **or therapeutic record**.
+If anything specified above is a record or therapeutic record, as those terms are defined in section 278.1 of the `Criminal Code`, the production of which is governed by sections 278.1 to 278.19 of the `Criminal Code`, this subpoena must be accompanied by a copy of an application for the production of the record or therapeutic record made under section 278.12 of the `Criminal Code`, and you will have an opportunity to make submissions to the court concerning the production of the record or therapeutic record.
 
-If anything specified above is a record **or therapeutic record**, as **those terms are** defined in section 278.1 of the `Criminal Code`, the production of which is governed by sections 278.1 to **278.19** of the `Criminal Code`, you are not required to bring it with you until a determination is made in accordance with those sections as to whether and to what extent it should be produced.
+If anything specified above is a record or therapeutic record, as those terms are defined in section 278.1 of the `Criminal Code`, the production of which is governed by sections 278.1 to 278.19 of the `Criminal Code`, you are not required to bring it with you until a determination is made in accordance with those sections as to whether and to what extent it should be produced.
 
-As defined in section 278.1 of the `Criminal Code`, **record** means any form of record that contains personal information for which there is a reasonable expectation of privacy and includes medical, education, employment, child welfare, adoption and social services records, personal journals and diaries, and **any record** containing personal information the production or disclosure of which is protected by any other Act of Parliament or a provincial legislature, but does not include records made by persons responsible for the investigation or prosecution of the offence.
+As defined in section 278.1 of the `Criminal Code`, **record** means any form of record that contains personal information for which there is a reasonable expectation of privacy and includes medical, education, employment, child welfare, adoption and social services records, personal journals and diaries, and any record containing personal information the production or disclosure of which is protected by any other Act of Parliament or a provincial legislature, but does not include records made by persons responsible for the investigation or prosecution of the offence.
 
 As defined in section 278.1 of the `Criminal Code`, **therapeutic record** means any form of record, regardless of its contents, that was produced in the course of psychiatric treatment or any therapy or counselling provided by a health care professional who is entitled under the laws of a province or of a foreign state to provide the treatment, therapy or counselling.
 
@@ -2413,19 +2491,19 @@ Form 23 of Part XXVIII of the Act is amended by replacing the references after t
 
   **(1)** Paragraphs (e.2) to (f.1) of Form 32 of Part XXVIII of the Act after the heading "List of Conditions" are replaced by the following:
 
-    abstains from communicating, directly or indirectly, with the intimate partner, a child of the intimate partner or of the defendant or any relative or close friend of the intimate partner, except in accordance with any specified conditions that the **justice** considers necessary (section 810.03 of the `Criminal Code`);
+    abstains from communicating, directly or indirectly, with the intimate partner, a child of the intimate partner or of the defendant or any relative or close friend of the intimate partner, except in accordance with any specified conditions that the justice considers necessary (section 810.03 of the `Criminal Code`);
 
-    remains within a specified geographic area unless written permission to leave that area is obtained from the judge **or justice** (sections 810.01, 810.03 and 810.2 of the `Criminal Code`);
+    remains within a specified geographic area unless written permission to leave that area is obtained from the judge or justice (sections 810.01, 810.03 and 810.2 of the `Criminal Code`);
 
-    refrain from going to any specified place or being within a specified distance of any specified place, except in accordance with any specified conditions that the **justice** considers necessary (section 810.03 of the `Criminal Code`);
+    refrain from going to any specified place or being within a specified distance of any specified place, except in accordance with any specified conditions that the justice considers necessary (section 810.03 of the `Criminal Code`);
 
   **(2)** Paragraph (j) of Form 32 of Part XXVIII of the Act after the heading "List of Conditions" is replaced by the following:
 
-    abstains from any contact — including communicating by any means — with a person under the age of **18** years, unless doing so under the supervision of a person whom the judge considers appropriate (section 810.1 of the `Criminal Code`);
+    abstains from any contact — including communicating by any means — with a person under the age of 18 years, unless doing so under the supervision of a person whom the judge considers appropriate (section 810.1 of the `Criminal Code`);
 
   **(3)** Paragraph (l) of Form 32 of Part XXVIII of the Act after the heading "List of Conditions" is replaced by the following:
 
-    abstains from attending a public park or public swimming area where persons under the age of **18** years are present or can reasonably be expected to be present, or a daycare centre, schoolground or playground (section 810.1 of the `Criminal Code`);
+    abstains from attending a public park or public swimming area where persons under the age of 18 years are present or can reasonably be expected to be present, or a daycare centre, schoolground or playground (section 810.1 of the `Criminal Code`);
 
 
 ### Minimum Punishments
@@ -2444,7 +2522,7 @@ For greater certainty, following the enactment of section 718.4 of the `Criminal
 
 Clause 295(5.04)(a)(i)(D) of the `Excise Tax Act` is replaced by the following:
 
-sections 144, 264, **264.01**, 271, 279, 279.02, 281 and 333.1, paragraphs 334(a) and 348(1)(e) and sections 349, 435 and 462.31 of the `Criminal Code`,
+sections 144, 264, 264.01, 271, 279, 279.02, 281 and 333.1, paragraphs 334(a) and 348(1)(e) and sections 349, 435 and 462.31 of the `Criminal Code`,
 
 
 #### `Income Tax Act`
@@ -2453,7 +2531,7 @@ sections 144, 264, **264.01**, 271, 279, 279.02, 281 and 333.1, paragraphs 334(a
 
 Clause 241(9.5)(a)(i)(D) of the `Income Tax Act` is replaced by the following:
 
-sections 144, 264, **264.01**, 271, 279, 279.02, 281 and 333.1, paragraphs 334(a) and 348(1)(e) and sections 349, 435 and 462.31 of the `Criminal Code`,
+sections 144, 264, 264.01, 271, 279, 279.02, 281 and 333.1, paragraphs 334(a) and 348(1)(e) and sections 349, 435 and 462.31 of the `Criminal Code`,
 
 
 #### `Corrections and Conditional Release Act`
@@ -2471,7 +2549,7 @@ section 264.01 (coercion or control of intimate partner);
 
 Subparagraph 5(2)(a)(iii) of the `Firearms Act` is replaced by the following:
 
-an offence under section 264 (criminal harassment) **or 264.01 (coercion or control of intimate partner)** of the `Criminal Code`,
+an offence under section 264 (criminal harassment) or 264.01 (coercion or control of intimate partner) of the `Criminal Code`,
 
 
 #### `Controlled Drugs and Substances Act`
@@ -2482,7 +2560,7 @@ Section 10.3 of the `Controlled Drugs and Substances Act` is replaced by the fol
 
 ### Section 10.3
 
-A prosecution may be commenced or continued against an individual alleged to have committed an offence under subsection 4(1) only if, having regard to the principles set out in section 10.1, the prosecutor is of the opinion that the use of a warning or referral under section 10.2, or of alternative measures as defined in section **715.44** of the `Criminal Code`, is not appropriate, and a prosecution is appropriate in the circumstances.
+A prosecution may be commenced or continued against an individual alleged to have committed an offence under subsection 4(1) only if, having regard to the principles set out in section 10.1, the prosecutor is of the opinion that the use of a warning or referral under section 10.2, or of alternative measures as defined in section 715.44 of the `Criminal Code`, is not appropriate, and a prosecution is appropriate in the circumstances.
 
 
 #### `Excise Act, 2001`
@@ -2491,7 +2569,7 @@ A prosecution may be commenced or continued against an individual alleged to hav
 
 Clause 211(6.4)(a)(i)(D) of the `Excise Act, 2001` is replaced by the following:
 
-sections 144, 264, **264.01**, 271, 279, 279.02, 281 and 333.1, paragraphs 334(a) and 348(1)(e) and sections 349, 435 and 462.31 of the `Criminal Code`,
+sections 144, 264, 264.01, 271, 279, 279.02, 281 and 333.1, paragraphs 334(a) and 348(1)(e) and sections 349, 435 and 462.31 of the `Criminal Code`,
 
 
 ### Terminology Changes
@@ -2563,7 +2641,7 @@ For greater certainty, paragraph 264(4)(a) of the Act, as enacted by subsection 
 
 ### Section 100
 
-Subsections 276(1) and (2) of the Act, as amended by section `31`, sections 276.01 to 276.13 of the Act and sections 278.1 to 278.38 of the Act, as enacted by section `34`, apply only to an offence in respect of which a charge is laid on or on or after the commencement day.
+Subsections 276(1) and (2) of the Act, as amended by section `31`, sections 276.01 to 276.13 of the Act, **as enacted by section 32**, and sections 278.1 to 278.38 of the Act, as enacted by section 34, apply only to an offence in respect of which a charge is laid on or after the commencement day.
 
 ### Section 101
 
@@ -2642,6 +2720,10 @@ Section 810.1 of the Act, as amended by section `82`, applies with respect to an
 
 ### Review
 
+### Section 118.1
+
+Five years after the day on which this Act receives royal assent, or as soon as feasible after that day, a comprehensive review of section 264.01 of the `Criminal Code` and its operation is to be commenced by a committee of the Senate, of the House of Commons or of both Houses of Parliament that may be designated or established by the Senate, the House of Commons or both Houses of Parliament, as the case may be, for that purpose. The review is to consider, among other things, the criminalization of coercive or controlling conduct in relationships other than intimate partner relationships.
+
 ### Section 119
 
 Five years after the day on which Part XV.1 of the `Criminal Code` comes into force, or as soon as feasible after that day, a comprehensive review of the provisions and operation of that Part is to be commenced by a committee of the Senate, of the House of Commons or of both Houses of Parliament that may be designated or established by the Senate, the House of Commons or both Houses of Parliament, as the case may be, for that purpose.
@@ -2656,13 +2738,13 @@ Five years after the day on which Part XV.1 of the `Criminal Code` comes into fo
 
 The fifth paragraph of the preamble to the `Youth Criminal Justice Act` is replaced by the following:
 
-AND WHEREAS Canadian society should have a youth criminal justice system that commands respect, takes into account the interests of victims **and the rights that they have under the `Canadian Victims Bill of Rights`**, fosters responsibility and ensures accountability through meaningful consequences and effective rehabilitation and reintegration, and that reserves its most serious intervention for the most serious crimes and reduces the over-reliance on incarceration for non-violent young persons;
+AND WHEREAS Canadian society should have a youth criminal justice system that commands respect, takes into account the interests of victims and the rights that they have under the `Canadian Victims Bill of Rights`, fosters responsibility and ensures accountability through meaningful consequences and effective rehabilitation and reintegration, and that reserves its most serious intervention for the most serious crimes and reduces the over-reliance on incarceration for non-violent young persons;
 
 ### Section 121
 
   **(1)** Subparagraph 3(1)(c)(ii) of the Act is replaced by the following:
 
-    encourage the repair of harm done to victims and the community, **including, where appropriate, through a restorative justice process**,
+    encourage the repair of harm done to victims and the community, including, where appropriate, through a restorative justice process,
 
   **(2)** Subparagraph 3(1)(c)(iv) of the Act is replaced by the following:
 
@@ -2670,9 +2752,9 @@ AND WHEREAS Canadian society should have a youth criminal justice system that co
 
   **(3)** Subparagraphs 3(1)(d)(ii) and (iii) of the Act are replaced by the following:
 
-    victims should be treated with courtesy, compassion, **fairness** and respect, **including respect** for their dignity and privacy, and **have their interest in timely justice considered during** their involvement with the youth criminal justice system,
+    victims should be treated with courtesy, compassion, fairness and respect, including respect for their dignity and privacy, and have their interest in timely justice considered during their involvement with the youth criminal justice system,
 
-    victims should be provided with information about **the youth criminal justice system and their role in it, the services and programs available to them as victims and** the proceedings and **be** given an opportunity to participate and be heard, and
+    victims should be provided with information about the youth criminal justice system and their role in it, the services and programs available to them as victims and the proceedings and be given an opportunity to participate and be heard, and
 
 ### Section 122
 
@@ -2680,7 +2762,7 @@ Subsection 6(1) of the Act is replaced by the following:
 
 ### Section 6
 
-  **(1)** A police officer shall, before starting judicial proceedings or taking any other measures under this Act against a young person alleged to have committed an offence, consider whether it would be sufficient, having regard to the principles set out in sections 4 and 4.1, to take no further action, warn the young person, administer a caution, if a program has been established under section 7, or, with the consent of the young person, refer the young person to a program or agency in the community that may assist the young person to **address their offending behaviour**.
+  **(1)** A police officer shall, before starting judicial proceedings or taking any other measures under this Act against a young person alleged to have committed an offence, consider whether it would be sufficient, having regard to the principles set out in sections 4 and 4.1, to take no further action, warn the young person, administer a caution, if a program has been established under section 7, or, with the consent of the young person, refer the young person to a program or agency in the community that may assist the young person to address their offending behaviour.
 
 ### Section 123
 
@@ -2698,7 +2780,7 @@ Section 9 of the Act is replaced by the following:
 
 ### Section 9
 
-Evidence that a young person has received a warning, caution or referral mentioned in **any of sections** 6 **to** 8 or that a police officer has taken no further action in respect of an offence, and evidence of the offence, is inadmissible for the purpose of proving prior offending behaviour in any proceedings before a court in respect of the young person.
+Evidence that a young person has received a warning, caution or referral mentioned in any of sections 6 to 8 or that a police officer has taken no further action in respect of an offence, and evidence of the offence, is inadmissible for the purpose of proving prior offending behaviour in any proceedings before a court in respect of the young person.
 
 ### Section 125
 
@@ -2706,7 +2788,7 @@ Subsection 10(1) of the Act is replaced by the following:
 
 ### Section 10
 
-  **(1)** An extrajudicial sanction may be used to deal with a young person alleged to have committed an offence only if the young person cannot be adequately dealt with by a warning, caution or referral mentioned in **any of sections** 6 **to** 8 because of the seriousness of the offence, the nature and number of previous offences committed by the young person or any other aggravating circumstances.
+  **(1)** An extrajudicial sanction may be used to deal with a young person alleged to have committed an offence only if the young person cannot be adequately dealt with by a warning, caution or referral mentioned in any of sections 6 to 8 because of the seriousness of the offence, the nature and number of previous offences committed by the young person or any other aggravating circumstances.
 
 ### Section 126
 
@@ -2714,19 +2796,19 @@ Section 12 of the Act is replaced by the following:
 
 ### Section 12
 
-If a young person is dealt with by an extrajudicial sanction, a police officer, the Attorney General, the provincial director or any organization established by a province to provide assistance to victims shall inform the victim of the identity of the young person and how the offence has been dealt with, **if the victim wishes to receive the information**.
+If a young person is dealt with by an extrajudicial sanction, a police officer, the Attorney General, the provincial director or any organization established by a province to provide assistance to victims shall inform the victim of the identity of the young person and how the offence has been dealt with, if the victim wishes to receive the information.
 
 ### Section 127
 
 Subsection 14(2) of the Act is replaced by the following:
 
-**(2)** A youth justice court has exclusive jurisdiction to make orders against a young person under sections 83.3 (recognizance — terrorist activity), 810 (recognizance — fear of injury or damage), 810.01 (recognizance — fear of certain offences), 810.011 (recognizance — fear of terrorism offence), 810.02 (recognizance — fear of forced marriage or marriage under age of 16 years), 810.03 (recognizance — fear of domestic violence), **810.1 (recognizance — fear of sexual offence)** and 810.2 (recognizance — fear of serious personal injury offence) of the `Criminal Code` and the provisions of this Act apply, with any modifications that the circumstances require. If the young person fails or refuses to enter into a recognizance referred to in any of those sections, the court may impose any one of the sanctions set out in subsection 42(2) (youth sentences) except that, in the case of an order under paragraph 42(2)(n) (custody and supervision order), it shall not exceed 30 days.
+**(2)** A youth justice court has exclusive jurisdiction to make orders against a young person under sections 83.3 (recognizance — terrorist activity), 810 (recognizance — fear of injury or damage), 810.01 (recognizance — fear of certain offences), 810.011 (recognizance — fear of terrorism offence), 810.02 (recognizance — fear of forced marriage or marriage under age of 16 years), 810.03 (recognizance — fear of domestic violence), 810.1 (recognizance — fear of sexual offence) and 810.2 (recognizance — fear of serious personal injury offence) of the `Criminal Code` and the provisions of this Act apply, with any modifications that the circumstances require. If the young person fails or refuses to enter into a recognizance referred to in any of those sections, the court may impose any one of the sanctions set out in subsection 42(2) (youth sentences) except that, in the case of an order under paragraph 42(2)(n) (custody and supervision order), it shall not exceed 30 days.
 
 ### Section 128
 
 Subsection 19(2) of the Act is replaced by the following:
 
-**(2)** The mandate of a conference may be, among other things, to give advice on appropriate extrajudicial measures, conditions for judicial interim release, sentences, including the review of sentences, and reintegration plans **or to facilitate the use of restorative justice processes**.
+**(2)** The mandate of a conference may be, among other things, to give advice on appropriate extrajudicial measures, conditions for judicial interim release, sentences, including the review of sentences, and reintegration plans or to facilitate the use of restorative justice processes.
 
 ### Section 129
 
@@ -2734,7 +2816,7 @@ Section 48 of the Act is replaced by the following:
 
 ### Section 48
 
-When a youth justice court imposes a youth sentence, it shall state its reasons for the sentence in the record of the case and shall give or cause to be given a copy of the sentence and the reasons for the sentence to the young person, the young person's counsel, a parent of the young person, the provincial director, the prosecutor, **the victim, if the victim wishes to receive the information**, and, in the case of a committal to custody under paragraph 42(2)(n), (o), (q) or (r), the review board.
+When a youth justice court imposes a youth sentence, it shall state its reasons for the sentence in the record of the case and shall give or cause to be given a copy of the sentence and the reasons for the sentence to the young person, the young person's counsel, a parent of the young person, the provincial director, the prosecutor, the victim, if the victim wishes to receive the information, and, in the case of a committal to custody under paragraph 42(2)(n), (o), (q) or (r), the review board.
 
 ### Section 48.1
 
@@ -2746,13 +2828,13 @@ Subsection 50(1) of the Act is replaced by the following:
 
 ### Section 50
 
-  **(1)** Subject to section 74 (application of `Criminal Code` to adult sentences), Part XXIII (sentencing) of the `Criminal Code` does not apply in respect of proceedings under this Act except for paragraph 718.2(e) (sentencing principle for **Aboriginal** offenders), sections 722 (victim impact **statement**), 722.1 (copy of statement) and 722.2 (**community impact statement**), subsection 730(2) (**period for which appearance notice, etc.**, continues in force) and sections 748 (**to whom pardon may be granted**), 748.1 (remission by the Governor in Council) and 749 (royal prerogative) of that Act, which provisions apply with any modifications that the circumstances require.
+  **(1)** Subject to section 74 (application of `Criminal Code` to adult sentences), Part XXIII (sentencing) of the `Criminal Code` does not apply in respect of proceedings under this Act except for paragraph 718.2(e) (sentencing principle for Aboriginal offenders), sections 722 (victim impact statement), 722.1 (copy of statement) and 722.2 (community impact statement), subsection 730(2) (period for which appearance notice, etc., continues in force) and sections 748 (to whom pardon may be granted), 748.1 (remission by the Governor in Council) and 749 (royal prerogative) of that Act, which provisions apply with any modifications that the circumstances require.
 
 ### Section 131
 
 Paragraph 83(2)(a) of the Act is replaced by the following:
 
-that the least restrictive measures **necessary to ensure** the protection of the public, of personnel working with young persons and of young persons, **and the safety and security of victims**, be used;
+that the least restrictive measures necessary to ensure the protection of the public, of personnel working with young persons and of young persons, and the safety and security of victims, be used;
 
 ### Section 132
 
@@ -2760,20 +2842,20 @@ Subsection 111(1) of the Act is replaced by the following:
 
 ### Section 111
 
-  **(1)** Subject to this section, no person shall publish the name of a child or young person, or any other information related to a child or a young person, **even if the child or young person is deceased**, if it would identify the child or young person as having been a victim of, or as having appeared as a witness in connection with, an offence committed or alleged to have been committed by a young person.
+  **(1)** Subject to this section, no person shall publish the name of a child or young person, or any other information related to a child or a young person, even if the child or young person is deceased, if it would identify the child or young person as having been a victim of, or as having appeared as a witness in connection with, an offence committed or alleged to have been committed by a young person.
 
 ### Section 133
 
 Paragraph 142(1)(a) of the Act is replaced by the following:
 
-in respect of an order under section 83.3 (recognizance — terrorist activity), 810 (recognizance — fear of injury or damage), 810.01 (recognizance — fear of certain offences), 810.011 (recognizance — fear of terrorism offence), 810.02 (recognizance — fear of forced marriage or marriage under age of 16 years), 810.03 (recognizance — fear of domestic violence), **810.1 (recognizance — fear of sexual offence)** or 810.2 (recognizance — fear of serious personal injury offence) of that Act or an offence under section 811 (breach of recognizance) of that Act;
+in respect of an order under section 83.3 (recognizance — terrorist activity), 810 (recognizance — fear of injury or damage), 810.01 (recognizance — fear of certain offences), 810.011 (recognizance — fear of terrorism offence), 810.02 (recognizance — fear of forced marriage or marriage under age of 16 years), 810.03 (recognizance — fear of domestic violence), 810.1 (recognizance — fear of sexual offence) or 810.2 (recognizance — fear of serious personal injury offence) of that Act or an offence under section 811 (breach of recognizance) of that Act;
 
 
 ### Transitional Provision
 
 ### Section 134
 
-Subsection 6(1), sections 6.1 and 9 and subsection 10(1) the `Youth Criminal Justice Act`, as enacted by sections `122` to `125`, apply with respect to any matter or proceeding that is ongoing on the day on which section `122` comes into force.
+Subsection 6(1), sections 6.1 and 9 and subsection 10(1) of the `Youth Criminal Justice Act`, as enacted by sections `122` to `125`, apply with respect to any matter or proceeding that is ongoing on the day on which section `122` comes into force.
 
 
 ## `Canadian Victims Bill of Rights`
@@ -2786,9 +2868,9 @@ Whereas it is important that every victim of crime be treated in a manner that t
 
 Whereas it is important that the criminal justice system include an approach that is victim-centred and considerate of the needs and concerns of victims of crime in order to avoid retraumatizing them;
 
-**Whereas delays in the criminal justice system have a detrimental impact on victims of crime and undermine the public's confidence in the administration of justice;**
+Whereas delays in the criminal justice system have a detrimental impact on victims of crime and undermine the public's confidence in the administration of justice;
 
-**Whereas victims of crime have an interest in timely trials and the timely resolution of matters relating to offences;**
+Whereas victims of crime have an interest in timely trials and the timely resolution of matters relating to offences;
 
 ### Section 136
 
@@ -2860,7 +2942,7 @@ The Act is amended by adding the following after section 8:
 
 ### Section 8.1
 
-The federal departments, agencies or bodies from which victims have a right to receive the information referred to in sections 6 to 8 include
+The federal departments, agencies or bodies from which victims have a right to receive the information referred to in sections 6 to 8 include, **but are not limited to**,
 
 the Royal Canadian Mounted Police;
 
@@ -2868,9 +2950,13 @@ the Office of the Director of Public Prosecutions;
 
 the Correctional Service of Canada;
 
-the Parole Board of Canada; and
+the Parole Board of Canada;
 
-the Miscarriage of Justice Review Commission.
+the Miscarriage of Justice Review Commission;
+
+the Canada Border Services Agency; and
+
+the Department of Justice.
 
 ### Section 8.2
 
@@ -2898,7 +2984,7 @@ Section 15 of the Act is replaced by the following:
 
 ### Section 15
 
-Every victim has the right to present a victim impact statement **to the court and, if applicable, a victim statement** to **other** appropriate authorities in the criminal justice system, **including the Correctional Service of Canada and the Parole Board of Canada**, and to have it considered.
+Every victim has the right to present a victim impact statement to the court and, if applicable, a victim statement to other appropriate authorities in the criminal justice system, including the Correctional Service of Canada and the Parole Board of Canada, and to have it considered.
 
 
 ## `National Defence Act`
@@ -2910,13 +2996,13 @@ Every victim has the right to present a victim impact statement **to the court a
 
   **(1)** Paragraphs (a) and (b) of the definition **serious personal injury offence** in subsection 2(1) of the `National Defence Act` are replaced by the following:
 
-    a serious offence, or an offence referred to in section 77, 86, 87, 92, 95, 113, 120, 124 or 127, involving **any of the following in respect of another person, including the accused person's intimate partner, a member of the intimate partner's family and a member of the accused person's family**:
+    a serious offence, or an offence referred to in section 77, 86, 87, 92, 95, 113, 120, 124 or 127, involving any of the following in respect of another person, including the accused person's intimate partner, a member of the intimate partner's family and a member of the accused person's family:
 
-    the use or attempted use of violence against **the other** person, or
+    the use or attempted use of violence against the other person, or
 
-    conduct endangering or likely to endanger the life or safety of — **or conduct** inflicting or likely to inflict severe psychological damage **on** — the other person, or
+    conduct endangering or likely to endanger the life or safety of — or conduct inflicting or likely to inflict severe psychological damage on — the other person, or
 
-    an offence punishable under section 130 that is an offence under section 151, 152, 153, 153.1, 155, 160, 170, 171, **171.1**, 172, **172.1, 172.2**, 271, 272 or 273 of the `Criminal Code`, or an attempt to commit such an offence; (**infraction grave contre la personne**)
+    an offence punishable under section 130 that is an offence under section 151, 152, 153, 153.1, 155, 160, 170, 171, 171.1, 172, 172.1, 172.2, 271, 272 or 273 of the `Criminal Code`, or an attempt to commit such an offence; (**infraction grave contre la personne**)
 
   **(2)** Subsection 2(1) of the Act is amended by adding the following in alphabetical order:
 
@@ -3015,7 +3101,7 @@ be informed of their right to apply to revoke or vary an order made to protect t
 The Act is amended by adding the following after section 119:
 
 
-#### **Offence in Relation to Orders Prohibiting Contact**
+#### Offence in Relation to Orders Prohibiting Contact
 
 ### Section 119.01
 
@@ -3025,13 +3111,13 @@ Every person who, without reasonable excuse, fails to comply with an order made 
 
 Subsection 158.6(1.2) of the Act is replaced by the following:
 
-**(1.2)** The custody review officer shall cause a copy of the direction to be given to a victim of the alleged offence **if the victim wishes to receive it**.
+**(1.2)** The custody review officer shall cause a copy of the direction to be given to a victim of the alleged offence if the victim wishes to receive it.
 
 ### Section 154
 
 Subsection 159.7(3) of the Act is replaced by the following:
 
-**(3)** The military judge shall cause a copy of the direction to be given to a victim of the alleged offence **if the victim wishes to receive it**.
+**(3)** The military judge shall cause a copy of the direction to be given to a victim of the alleged offence if the victim wishes to receive it.
 
 ### Section 155
 
@@ -3042,13 +3128,13 @@ The heading before section 180.01 and sections 180.01 to 180.08 of the Act are r
 
 ### Section 180.001
 
-  **(1)** In proceedings in respect of an offence punishable under section 130 that is an offence under section 151, 152, 153, 153.1 or 155, subsection 160(2) or (3) or section 170, 171, 172, 173, 271, 272 or 273 of the `Criminal Code` or any other offence under that Act that is of a sexual nature or that is committed for a sexual purpose, evidence that the complainant has engaged in sexual activity, whether with the accused person or with any other person, is not admissible to support an inference that, by reason of the sexual nature of that activity, the complainant
+  **(1)** In proceedings in respect of an offence punishable under section 130 that is an offence under section 151, 152, 153, 153.1 or 155, subsection 160(2) or (3) or section 170, 171, 172, 173, 271, 272 or 273 of the `Criminal Code` or any other offence under that Act **or any other Act of Parliament** that is of a sexual nature or that is committed for a sexual purpose, evidence that the complainant has engaged in sexual activity, whether with the accused person or with any other person, is not admissible to support an inference that, by reason of the sexual nature of that activity, the complainant
 
     is more likely to have consented to the sexual activity that forms the subject matter of the charge; or
 
     is less worthy of belief.
 
-  **(2)** In proceedings in respect of an offence referred to in subsection (1), evidence that the complainant has engaged in sexual activity, other than the sexual activity that forms the subject matter of the charge, whether with the accused person or with any other person, shall not be adduced unless the military judge determines, in accordance with the procedures set out in sections 180.002, 180.005, 180.007, 180.17 or 180.2, as the case may be, that the evidence is not being adduced for the purpose of supporting an inference described in subsection (1), is relevant to an issue at trial, is of specific instances of sexual activity and
+  **(2)** In proceedings in respect of an offence referred to in subsection (1), evidence that the complainant has engaged in sexual activity, other than the sexual activity that forms the subject matter of the charge, whether with the accused person or with any other person, shall not be adduced unless the military judge determines, in accordance with the procedures set out in sections 180.002, **180.003**, 180.005, 180.007, 180.17 or 180.2, as the case may be, that the evidence is not being adduced for the purpose of supporting an inference described in subsection (1), is relevant to an issue at trial, is of specific instances of sexual activity and
 
     if sought to be adduced by the accused person, has significant probative value that is not substantially outweighed by the danger of prejudice to the proper administration of military justice; or
 
@@ -3074,6 +3160,8 @@ The heading before section 180.01 and sections 180.01 to 180.08 of the Act are r
 
   **(4)** For the purpose of this section, **sexual activity** includes any communication made for a sexual purpose or whose content is of a sexual nature.
 
+  **(5)** For the purposes of this section, and for greater certainty, evidence of sexual activity includes evidence of sexual inactivity.
+
 
 ##### Procedure for Accused Person
 
@@ -3081,13 +3169,13 @@ The heading before section 180.01 and sections 180.01 to 180.08 of the Act are r
 
   **(1)** The accused person may apply to a military judge or, if the court martial has been convened, to the military judge assigned to preside at the court martial, for a hearing under section 180.003 to determine whether evidence is admissible under subsection 180.001(2).
 
-  **(2)** The application must be made in writing and be accompanied by an affidavit setting out detailed particulars of the evidence that the accused person seeks to adduce and the relevance of that evidence to an issue at trial, and a copy of the application **and the affidavit** must be given to the prosecutor and the complainant and filed with the Court Martial Administrator.
+  **(2)** The application must be made in writing and be accompanied by an affidavit setting out detailed particulars of the evidence that the accused person seeks to adduce and the relevance of that evidence to an issue at trial, and a copy of the application and the affidavit must be given to the prosecutor and filed with the Court Martial Administrator.
 
   **(3)** The military judge shall consider the application with the panel and the public excluded.
 
-  **(4)** If the military judge is satisfied that the application was made in accordance with subsection (2), that a copy of the application was given to the prosecutor and to the complainant and filed with the Court Martial Administrator at least 60 days previously or within any shorter interval that the military judge may allow in the interests of military justice, and that the evidence sought to be adduced is capable of being admissible under subsection 180.001(2), the military judge shall grant the application and hold a hearing under section 180.003 to determine whether the evidence is admissible under subsection 180.001(2).
+  **(4)** If the military judge is satisfied that the application was made in accordance with subsection (2), that a copy of the application was given to the prosecutor and filed with the Court Martial Administrator at least 60 days previously or within any shorter interval that the military judge may allow in the interests of military justice, and that the evidence sought to be adduced is capable of being admissible under subsection 180.001(2), the military judge shall grant the application and hold a hearing under section 180.003 to determine whether the evidence is admissible under subsection 180.001(2).
 
-  **(5)** The condition in subsection (4) that a copy of the application be given to the complainant is not met if the accused person personally gives a copy of the application to the complainant.
+  **(5)** If the military judge grants the application and agrees to hold the hearing, the accused person shall cause a copy of the application to be given to the complainant by a person other than the accused person.
 
 ### Section 180.003
 
@@ -3114,7 +3202,7 @@ If evidence is admitted at trial on the basis of a determination made under subs
 
 ### Section 180.005
 
-  **(1)** The prosecutor may apply to a military judge or, if the court martial has been convened, to the military judge assigned to preside at the court martial, for a hearing to determine whether evidence is admissible under subsection 180.001(2).
+  **(1)** The prosecutor may apply to a military judge or, if the court martial has been convened, to the military judge assigned to preside at the court martial, to determine whether evidence is admissible under subsection 180.001(2).
 
   **(2)** The application must be made in writing and must set out detailed particulars of the evidence that the prosecutor seeks to adduce and the relevance of that evidence to an issue at trial.
 
@@ -3165,7 +3253,9 @@ If evidence is admitted at trial on the basis of a determination made under subs
 
   **(5)** If the military judge is satisfied that the evidence of sexual activity is admissible under subsection 180.001(2), taking into account the factors set out in subsection 180.001(3), they shall grant the application. If they are not so satisfied, they shall hold a hearing under section 180.003 to determine whether the evidence is admissible under subsection 180.001(2).
 
-  **(6)** If evidence of sexual activity is determined to be admissible, the military judge shall direct the applicants as to the uses that the they may and may not make of that evidence.
+  **(6)** If evidence of sexual activity is determined to be admissible, the military judge shall direct the applicants as to the uses that they may and may not make of that evidence.
+
+  **(7)** For greater certainty, the complainant has the right to be represented by counsel.
 
 ### Section 180.008
 
@@ -3176,7 +3266,7 @@ If evidence is admitted at trial on the basis of a determination made under subs
 In proceedings in respect of an offence punishable under section 130 that is an offence under section 151, 152, 153, 153.1 or 155, subsection 160(2) or (3) or section 170, 171, 172, 173, 271, 272 or 273 of the `Criminal Code`, evidence of sexual reputation, whether general or specific, is not admissible for the purpose of challenging or supporting the credibility of the complainant.
 
 
-#### Production **and Admissibility** of Records **and Therapeutic Records**
+#### Production and Admissibility of Records and Therapeutic Records
 
 
 ##### Definitions
@@ -3185,7 +3275,7 @@ In proceedings in respect of an offence punishable under section 130 that is an 
 
 The following definitions apply in sections 180.02 to 180.2.
 
-**record** means any form of record that contains personal information for which there is a reasonable expectation of privacy and includes medical, education, employment, child welfare, adoption and social services records, personal journals and diaries, and **any record** containing personal information the production or disclosure of which is protected by any other Act of Parliament or a provincial legislature, but does not include records made by persons responsible for the investigation or prosecution of the service offence. **(**dossier**)**
+**record** means any form of record that contains personal information for which there is a reasonable expectation of privacy and includes medical, education, employment, child welfare, adoption and social services records, personal journals and diaries, and any record containing personal information the production or disclosure of which is protected by any other Act of Parliament or a provincial legislature, but does not include records made by persons responsible for the investigation or prosecution of the service offence. (**dossier**)
 
 **therapeutic record** means any form of record, regardless of its contents, that was produced in the course of psychiatric treatment or any therapy or counselling provided by a health care professional who is entitled under the laws of a province or of a foreign state to provide the treatment, therapy or counselling. (**dossier thérapeutique**)
 
@@ -3194,89 +3284,89 @@ The following definitions apply in sections 180.02 to 180.2.
 
 ### Section 180.02
 
-  **(1)** Except in accordance with sections 180.03 to 180.08, no record **or therapeutic record** relating to a complainant or a witness **that is in the possession or control of a third party** shall be produced to an accused **person** in any proceedings in respect of any of the following offences or in any proceedings in respect of two or more offences at least one of which is any of the following offences:
+  **(1)** Except in accordance with sections 180.03 to 180.08, no record or therapeutic record relating to a complainant or a witness that is in the possession or control of a third party shall be produced to an accused person in any proceedings in respect of any of the following offences or in any proceedings in respect of two or more offences at least one of which is any of the following offences:
 
-    an offence punishable under section 130 that is an offence under section 151, 152, 153, 153.1, 155, 160, 170, 171, 172, 173, 213, 271, 272, 273, 279.01, 279.011, 279.02, 279.03, 286.1, 286.2 or 286.3 of the `Criminal Code` **or any other offence under that Act that is of a sexual nature or that is committed for a sexual purpose**;
+    an offence punishable under section 130 that is an offence under section 151, 152, 153, 153.1, 155, 160, 170, 171, 172, 173, 213, 271, 272, 273, 279.01, 279.011, 279.02, 279.03, 286.1, 286.2 or 286.3 of the `Criminal Code` or any other offence under that Act, **or any other Act of Parliament**, that is of a sexual nature or that is committed for a sexual purpose;
 
-    **any** offence under **that Act**, as it read **from time to** time before the day on which this paragraph comes into force, if the conduct alleged would be an offence referred to in paragraph (a) if it occurred on or after that day.
+    any offence under that Act, as it read from time to time before the day on which this paragraph comes into force, if the conduct alleged would be an offence referred to in paragraph (a) if it occurred on or after that day.
 
   **(2)** In subsection (1), **third party** means a person other than the prosecutor or the accused person.
 
 ### Section 180.03
 
-  **(1)** An accused person who seeks production of a record **or therapeutic record referred to in section 180.02 must** make an application for its production to a military judge or, if the court martial has been convened, to the military judge assigned to preside at the court martial.
+  **(1)** An accused person who seeks production of a record or therapeutic record referred to in section 180.02 must make an application for its production to a military judge or, if the court martial has been convened, to the military judge assigned to preside at the court martial.
 
   **(2)** For greater certainty, the application referred to in subsection (1) must not be made in any other proceedings.
 
-  **(3)** The application must be made in writing and **must** set out
+  **(3)** The application must be made in writing and must set out
 
-    particulars identifying the record **or the therapeutic record** that the accused person seeks to have produced and the name of the person who has possession or control of **it**;
+    particulars identifying the record or the therapeutic record that the accused person seeks to have produced and the name of the person who has possession or control of it;
 
-    **in the case of a record**, the grounds on which the accused person relies to establish that the record is likely relevant to an issue at trial or to the competence of a witness to testify; and
+    in the case of a record, the grounds on which the accused person relies to establish that the record is likely relevant to an issue at trial or to the competence of a witness to testify; and
 
     in the case of a therapeutic record, the grounds on which the accused person relies to establish that the therapeutic record contains evidence that could raise a reasonable doubt as to the accused person's guilt.
 
-  **(4)** Any one or more of the following assertions by the accused person are not sufficient on their own to establish that the record is likely relevant to an issue at trial or to the competence of a witness to testify **or that the therapeutic record contains evidence that could raise a reasonable doubt as to the accused persons's guilt**:
+  **(4)** Any one or more of the following assertions by the accused person are not sufficient on their own to establish that the record is likely relevant to an issue at trial or to the competence of a witness to testify or that the therapeutic record contains evidence that could raise a reasonable doubt as to the accused persons's guilt:
 
-    **that** the record **or therapeutic record** exists;
+    that the record or therapeutic record exists;
 
-    **that** the record **or therapeutic record** relates to medical or psychiatric treatment, therapy or counselling that the complainant or witness has received or is receiving;
+    that the record or therapeutic record relates to medical or psychiatric treatment, therapy or counselling that the complainant or witness has received or is receiving;
 
-    **that** the record **or therapeutic record** relates to the incident that is the subject matter of the proceedings;
+    that the record or therapeutic record relates to the incident that is the subject matter of the proceedings;
 
-    **that** the record **or therapeutic record** may disclose a prior inconsistent statement of the complainant or witness;
+    that the record or therapeutic record may disclose a prior inconsistent statement of the complainant or witness;
 
-    **that** the record **or therapeutic record** may relate to the credibility of the complainant or witness;
+    that the record or therapeutic record may relate to the credibility of the complainant or witness;
 
-    **that** the record **or therapeutic record** may relate to the reliability of the testimony of the complainant or witness merely because the complainant or witness has received or is receiving psychiatric treatment, therapy or counselling;
+    that the record or therapeutic record may relate to the reliability of the testimony of the complainant or witness merely because the complainant or witness has received or is receiving psychiatric treatment, therapy or counselling;
 
-    **that** the record **or therapeutic record** may reveal allegations of sexual abuse of the complainant by a person other than the accused person;
+    that the record or therapeutic record may reveal allegations of sexual abuse of the complainant by a person other than the accused person;
 
-    **that** the record **or therapeutic record** relates to the sexual activity of the complainant with any person, including the accused person;
+    that the record or therapeutic record relates to the sexual activity of the complainant with any person, including the accused person;
 
-    **that** the record **or therapeutic record** relates to the presence or absence of a recent complaint;
+    that the record or therapeutic record relates to the presence or absence of a recent complaint;
 
-    **that** the record **or therapeutic record** relates to the complainant's sexual reputation;
+    that the record or therapeutic record relates to the complainant's sexual reputation;
 
-    **that** the record **or therapeutic record** was made close in time to **a** complaint or to the activity that forms the subject matter of the charge against the accused person.
+    that the record or therapeutic record was made close in time to a complaint or to the activity that forms the subject matter of the charge against the accused person.
 
-  **(5)** The accused person shall serve the application on the prosecutor, on the person who has possession or control of the record **or therapeutic record**, on the complainant or witness, as the case may be, and on any other person to whom, to the knowledge of the accused person, the record **or therapeutic** record relates, at least **60** days before the hearing referred to in subsection 180.04(1) or **within** any shorter interval that the military judge may allow in the interests of military justice. **The accused person shall also serve a summons on the person who has possession or control of the record or therapeutic record at the same time as the application is served**.
+  **(5)** The accused person shall serve the application on the prosecutor, on the person who has possession or control of the record or therapeutic record, on the complainant or witness, as the case may be, and on any other person to whom, to the knowledge of the accused person, the record or therapeutic record relates, at least 60 days before the hearing referred to in subsection 180.04(1) or within any shorter interval that the military judge may allow in the interests of military justice. The accused person shall also serve a summons on the person who has possession or control of the record or therapeutic record at the same time as the application is served.
 
-  ****(6)**** The military judge may at any time order that the application be served on any person to whom **the military judge** considers the record **or therapeutic record** may relate.
+  **(6)** The military judge may at any time order that the application be served on any person to whom the military judge considers the record or therapeutic record may relate.
 
   **(7)** The service requirement on the accused person in subsection (5) is not fulfilled if the accused personally serves the application or a summons on the complainant.
 
 ### Section 180.04
 
-  **(1)** The military judge shall hold a hearing in private to determine whether to order the person who has possession or control of the record **or therapeutic record** to produce it to the military judge for review.
+  **(1)** The military judge shall hold a hearing in private to determine whether to order the person who has possession or control of the record or therapeutic record to produce it to the military judge for review.
 
-  **(2)** The person who has possession or control of the record **or therapeutic record**, the complainant or witness, as the case may be, and any other person to whom the record **or therapeutic record** relates may appear and make submissions at the hearing, but they are not compellable as witnesses at the hearing.
+  **(2)** The person who has possession or control of the record or therapeutic record, the complainant or witness, as the case may be, and any other person to whom the record or therapeutic record relates may appear and make submissions at the hearing, but they are not compellable as witnesses at the hearing.
 
   **(3)** The military judge shall, as soon as feasible, inform any person referred to in subsection (2) who participates in the hearing of their right to be represented by counsel.
 
-  **(4)** **An** order for costs **must not** be made against a person referred to in subsection (2) in respect of their participation in the hearing.
+  **(4)** An order for costs must not be made against a person referred to in subsection (2) in respect of their participation in the hearing.
 
 ### Section 180.05
 
-  **(1)** The military judge may order the person who has possession or control of the record **or therapeutic record** to produce **it**, or **any** part of **it**, to the military judge for review if, after the hearing referred to **in section 180.04**, the military judge is satisfied that
+  **(1)** The military judge may order the person who has possession or control of the record or therapeutic record to produce it, or any part of it, to the military judge for review if, after the hearing referred to in section 180.04, the military judge is satisfied that
 
-    the application was made in accordance with subsections 180.03(2) to **(7)**;
+    the application was made in accordance with subsections 180.03(2) to (7);
 
-    **in the case of a record**, the accused person has established that **it** is likely relevant to an issue at trial or to the competence of a witness to testify **or, in the case of a therapeutic record, the accused person has established that it contains evidence that could raise a reasonable doubt as to the accused person's guilt**; and
+    in the case of a record, the accused person has established that it is likely relevant to an issue at trial or to the competence of a witness to testify or, in the case of a therapeutic record, the accused person has established that it contains evidence that could raise a reasonable doubt as to the accused person's guilt; and
 
-    the production of **all or any part of** the record or therapeutic record is necessary in the interests of military justice.
+    the production of all or any part of the record or therapeutic record is necessary in the interests of military justice.
 
-  **(2)** In determining whether to order **the production of the record or therapeutic record, or part of it, for review**, the military judge shall consider the salutary and deleterious effects of the determination on the accused person's right to make a full answer and defence and on the right to privacy, personal security and equality of the complainant or witness, as the case may be, and of any other person to whom the record **or therapeutic record** relates. In particular, the military judge shall take the following factors into account:
+  **(2)** In determining whether to order the production of the record or therapeutic record, or part of it, for review, the military judge shall consider the salutary and deleterious effects of the determination on the accused person's right to make a full answer and defence and on the right to privacy, personal security and equality of the complainant or witness, as the case may be, and of any other person to whom the record or therapeutic record relates. In particular, the military judge shall take the following factors into account:
 
-    the extent to which the record **or therapeutic record** is necessary for the accused person to make a full answer and defence;
+    the extent to which the record or therapeutic record is necessary for the accused person to make a full answer and defence;
 
-    the probative value of the record **or therapeutic record**;
+    the probative value of the record or therapeutic record;
 
-    the nature and extent of the reasonable expectation of privacy with respect to the record **or therapeutic record**;
+    the nature and extent of the reasonable expectation of privacy with respect to the record or therapeutic record;
 
-    whether production of the record **or therapeutic record** is based on a discriminatory belief or bias;
+    whether production of the record or therapeutic record is based on a discriminatory belief or bias;
 
-    the potential prejudice to the personal dignity and right to privacy of any person to whom the record **or therapeutic record** relates;
+    the potential prejudice to the personal dignity and right to privacy of any person to whom the record or therapeutic record relates;
 
     society's interest in encouraging the reporting of sexual offences;
 
@@ -3286,43 +3376,43 @@ The following definitions apply in sections 180.02 to 180.2.
 
 ### Section 180.06
 
-  **(1)** If the military judge has ordered the production of the record **or therapeutic record, or** part of **it**, for review, the military judge shall review it, or **the** part of **it**, in the absence of the parties **in order** to determine whether **the record or therapeutic record**, or **the** part, should be produced to the accused person.
+  **(1)** If the military judge has ordered the production of the record or therapeutic record, or part of it, for review, the military judge shall review it, or the part of it, in the absence of the parties in order to determine whether the record or therapeutic record, or the part, should be produced to the accused person.
 
-  **(2)** The military judge may hold a hearing in private if **the military judge** considers that it will assist in making the determination.
+  **(2)** The military judge may hold a hearing in private if the military judge considers that it will assist in making the determination.
 
   **(3)** Subsections 180.04(2) to (4) apply in the case of a hearing under subsection (2).
 
 ### Section 180.07
 
-  **(1)** If the military judge is satisfied that the record, or part of **it**, is likely relevant to an issue at trial or to the competence of a witness to testify and **that** its production is necessary in the interests of military justice, the military judge may order that the record, or the part, **that is likely relevant** be produced to the accused person, subject to any conditions that may be imposed under subsection **(4)**.
+  **(1)** If the military judge is satisfied that the record, or part of it, is likely relevant to an issue at trial or to the competence of a witness to testify and that its production is necessary in the interests of military justice, the military judge may order that the record, or the part, that is likely relevant be produced to the accused person, subject to any conditions that may be imposed under subsection (4).
 
   **(2)** If the military judge is satisfied that the therapeutic record, or part of it, contains evidence that is likely to raise a reasonable doubt as to the accused person's guilt and that is not available from any other source, the military judge may order that the therapeutic record, or the part, be produced to the accused person, subject to any conditions that may be imposed under subsection (4).
 
-  **(3)** In determining whether to order **the production of the record or therapeutic record, or part of it, to the accused person**, the military judge shall consider the salutary and deleterious effects of the determination on the accused person's right to make a full answer and defence and on the right to privacy, personal security and equality of the complainant or witness, as the case may be, and of any other person to whom the record **or therapeutic record** relates and, in particular, the military judge shall take the factors **set out** in **subsection** 180.05(2) into account.
+  **(3)** In determining whether to order the production of the record or therapeutic record, or part of it, to the accused person, the military judge shall consider the salutary and deleterious effects of the determination on the accused person's right to make a full answer and defence and on the right to privacy, personal security and equality of the complainant or witness, as the case may be, and of any other person to whom the record or therapeutic record relates and, in particular, the military judge shall take the factors set out in subsection 180.05(2) into account.
 
-  **(4)** **If** the military judge orders the production of the record **or therapeutic record**, or part of **it**, to the accused person, **the military judge** may impose conditions on the production to protect the interests of military justice and, to the greatest extent possible, the privacy, personal security and equality interests of the complainant or witness, as the case may be, and of any other person to whom the record **or therapeutic record** relates, including, **for example**, the following conditions:
+  **(4)** If the military judge orders the production of the record or therapeutic record, or part of it, to the accused person, the military judge may impose conditions on the production to protect the interests of military justice and, to the greatest extent possible, the privacy, personal security and equality interests of the complainant or witness, as the case may be, and of any other person to whom the record or therapeutic record relates, including, for example, the following conditions:
 
-    **that** the record **or therapeutic record** be edited as directed by the military judge;
+    that the record or therapeutic record be edited as directed by the military judge;
 
-    **that** a copy of the record **or therapeutic record**, rather than the original, be produced;
+    that a copy of the record or therapeutic record, rather than the original, be produced;
 
-    **that** the accused person and counsel for the accused person not disclose the contents of the record **or therapeutic record** to any other person, except with the approval of the military judge;
+    that the accused person and counsel for the accused person not disclose the contents of the record or therapeutic record to any other person, except with the approval of the military judge;
 
-    **that** the record **or therapeutic record** be viewed only at a location specified by the military judge;
+    that the record or therapeutic record be viewed only at a location specified by the military judge;
 
-    **that** no copies of the record **or therapeutic record** be made or **that restrictions be imposed on** the number of copies **of it that** may be made; and
+    that no copies of the record or therapeutic record be made or that restrictions be imposed on the number of copies of it that may be made; and
 
-    **that** information regarding any person named in the record **or therapeutic record**, such as their address, telephone number and place of employment, be severed from the record **or therapeutic record**.
+    that information regarding any person named in the record or therapeutic record, such as their address, telephone number and place of employment, be severed from the record or therapeutic record.
 
-  **(5)** If the military judge orders the production of the record **or therapeutic record**, or part of **it**, to the accused person, the military judge shall direct that a copy of the record **or therapeutic record**, or **the** part, be provided to the prosecutor, unless the military judge determines that it is not in the interests of military justice to do so.
+  **(5)** If the military judge orders the production of the record or therapeutic record, or part of it, to the accused person, the military judge shall direct that a copy of the record or therapeutic record, or the part, be provided to the prosecutor, unless the military judge determines that it is not in the interests of military justice to do so.
 
-  **(6)** The record **or therapeutic record**, or **the** part of **it**, that is produced to the accused person under an order made under subsection (1) **must** not be used in any other proceedings.
+  **(6)** The record or therapeutic record, or the part of it, that is produced to the accused person under an order made under subsection (1) must not be used in any other proceedings.
 
-  ****(7)**** If the military judge refuses to order the production of the record **or therapeutic record**, or part of **it**, to the accused person, the record or therapeutic record, or the part, must, unless **a** military judge orders otherwise, be kept by the military judge in a sealed package until the later of the **end** of the time for any appeal and the completion of any appeal in the proceedings against the accused person, at which time the record **or therapeutic record**, or **the** part, must be returned to the person lawfully entitled to possession or control of it.
+  **(7)** If the military judge refuses to order the production of the record or therapeutic record, or part of it, to the accused person, the record or therapeutic record, or the part, must, unless a military judge orders otherwise, be kept by the military judge in a sealed package until the later of the end of the time for any appeal and the completion of any appeal in the proceedings against the accused person, at which time the record or therapeutic record, or the part, must be returned to the person lawfully entitled to possession or control of it.
 
 ### Section 180.08
 
-The military judge shall provide reasons in writing for ordering or not ordering the production of the record **or therapeutic record**, or part of **it**, under subsection 180.05(1) or 180.07(1) **or (2)**.
+The military judge shall provide reasons in writing for ordering or not ordering the production of the record or therapeutic record, or part of it, under subsection 180.05(1) or 180.07(1) or (2).
 
 
 ##### Production to Accused Person of Records and Therapeutic Records in Possession of Prosecutor
@@ -3331,11 +3421,11 @@ The military judge shall provide reasons in writing for ordering or not ordering
 
   **(1)** Except in accordance with sections 180.1 to 180.15, no record or therapeutic record relating to a complainant or a witness that is in the possession or control of the prosecutor shall be produced to an accused person in any proceedings in respect of any of the following offences or in any proceedings in respect of two or more offences at least one of which is any of the following offences:
 
-    an offence punishable under section 130 that is an offence under section 151, 152, 153, 153.1, 155, 160, 170, 171, 172, 173, 213, 271, 272, 273, 279.01, 279.011, 279.02, 279.03, 286.1, 286.2 or 286.3 of the `Criminal Code` or any other offence under that Act that is of a sexual nature or that is committed for a sexual purpose;
+    an offence punishable under section 130 that is an offence under section 151, 152, 153, 153.1, 155, 160, 170, 171, 172, 173, 213, 271, 272, 273, 279.01, 279.011, 279.02, 279.03, 286.1, 286.2 or 286.3 of the `Criminal Code` or any other offence under that Act, **or any other Act of Parliament**, that is of a sexual nature or that is committed for a sexual purpose;
 
     any offence under that Act, as it read from time to time before the day on which this paragraph comes into force, if the conduct alleged would be an offence referred to in paragraph (a) if it occurred on or after that day.
 
-  **(2)** The prosecutor may disclose to the accused person
+  **(2)** The prosecutor may **produce** to the accused person
 
     a record or part of a record, if the prosecutor intends to adduce the record or part in court or if the record or part directly relates to the activity that forms the subject matter of the charge against the accused person;
 
@@ -3345,7 +3435,7 @@ The military judge shall provide reasons in writing for ordering or not ordering
 
   **(3)** Subject to subsection (2), if a record or therapeutic record in respect of which this section applies is in the possession or control of the prosecutor, the prosecutor shall notify the accused person that it is in the prosecutor's possession or control but, in doing so, the prosecutor shall not disclose its contents.
 
-  **(4)** Disclosure under subsection (2) does not affect the application of any of sections 180.16 to 180.21, paragraphs 230(i.01) and (i.1) and 230.1(j.01) and (j.1) and section 303.
+  **(4)** **Production** under subsection (2) does not affect the application of any of sections 180.16 to 180.21, paragraphs 230(i.01) and (i.1) and 230.1(j.01) and (j.1) and section 303.
 
 ### Section 180.1
 
@@ -3474,7 +3564,7 @@ The military judge shall provide reasons in writing for ordering or not ordering
 
   **(1)** Except in accordance with this section, no record or therapeutic record relating to a complainant that is in the possession or control of the accused person — and which the accused person intends to adduce — shall be admitted in evidence in any proceedings in respect of any of the following offences or in any proceedings in respect of two or more offences at least one of which is any of the following offences:
 
-    an offence punishable under section 130 that is an offence under section 151, 152, 153, 153.1, 155, 160, 170, 171, 172, 173, 213, 271, 272, 273, 279.01, 279.011, 279.02, 279.03, 286.1, 286.2 or 286.3 of the `Criminal Code` or any other offence under that Act that is of a sexual nature or that is committed for a sexual purpose; or
+    an offence punishable under section 130 that is an offence under section 151, 152, 153, 153.1, 155, 160, 170, 171, 172, 173, 213, 271, 272, 273, 279.01, 279.011, 279.02, 279.03, 286.1, 286.2 or 286.3 of the `Criminal Code` or any other offence under that Act **or any other Act of Parliament** that is of a sexual nature or that is committed for a sexual purpose; or
 
     any offence under that Act, as it read from time to time before the day on which this paragraph comes into force, if the conduct alleged would be an offence referred to in paragraph (a) if it occurred on or after that day.
 
@@ -3482,7 +3572,7 @@ The military judge shall provide reasons in writing for ordering or not ordering
 
     if the admissibility of the record or therapeutic record, or part of it, is subject to section 180.001, that the evidence meets the conditions set out in subsection 180.001(2) while taking into account the factors set out in subsection (3);
 
-    that the record, or part of it, is relevant to an issue at trial and has significant probative value that is not substantially outweighed by the danger of prejudice to the proper administration of military justice; or
+    that the record, or part of it, is relevant to an issue at trial and has significant probative value that is not substantially outweighed by the danger of prejudice to the proper administration of military justice; **and**
 
     that the therapeutic record, or part of it, is evidence that is likely to raise a reasonable doubt as to the accused person's guilt and there is no other evidence that is capable of raising a reasonable doubt as to the accused person's guilt.
 
@@ -3518,13 +3608,13 @@ The military judge shall provide reasons in writing for ordering or not ordering
 
     in the case of a therapeutic record, or a part of one, how that evidence is likely to raise a reasonable doubt as to the accused person's guilt.
 
-  **(3)** A copy of the application and the affidavit must be given to the prosecutor and the complainant and filed with the Court Martial Administrator.
+  **(3)** A copy of the application and the affidavit must be given to the prosecutor and filed with the Court Martial Administrator.
 
   **(4)** The military judge shall consider the application with the panel and the public excluded.
 
-  **(5)** If the military judge is satisfied that the application was made in accordance with subsection (2), that a copy of the application was given to the prosecutor and to the complainant and filed with the **Court Martial Administrator** at least 60 days previously or within any shorter interval that the military judge may allow in the interests of military justice, and that the record or therapeutic record, or the part of it, sought to be adduced is capable of being admissible, the military judge shall grant the application and hold a hearing under section 180.18 to determine whether the evidence is admissible under subsection 180.16(2).
+  **(5)** If the military judge is satisfied that the application was made in accordance with subsection (2), that a copy of the application was given to the prosecutor and filed with the Court Martial Administrator at least 60 days previously or within any shorter interval that the military judge may allow in the interests of military justice, and that the record or therapeutic record, or the part of it, sought to be adduced is capable of being admissible, the military judge shall grant the application and hold a hearing under section 180.18 to determine whether the evidence is admissible under subsection 180.16(2).
 
-  **(6)** The condition in subsection (5) that a copy of the application be given to the complainant is not met if the accused person personally gives a copy of the application to the complainant.
+  **(6)** If the military judge grants the application and agrees to hold the hearing, the accused person shall cause a copy of the application to be given to the complainant by a person other than the accused person.
 
 ### Section 180.18
 
@@ -3536,7 +3626,7 @@ The military judge shall provide reasons in writing for ordering or not ordering
 
   **(4)** At the conclusion of the hearing, the military judge shall determine whether the record or therapeutic record, or part of it, is admissible under subsection 180.16(2) and shall provide reasons in writing for that determination, and
 
-    if not all of the record or therapeutic record is to be admitted, the reasons must state the part of **it** that is to be admitted;
+    if not all of the record or therapeutic record is to be admitted, the reasons must state the part of it that is to be admitted;
 
     the reasons must state the factors referred to in subsection 180.16(3) that affected the determination;
 
@@ -3577,9 +3667,11 @@ If evidence is admitted at trial on the basis of a determination made under subs
 
   **(5)** If the military judge is satisfied that the record, or part of it, is admissible under subsection 180.16(2), the military judge shall grant the application. If the military judge is not so satisfied, they shall hold a hearing under section 180.18 to determine whether the evidence is admissible under subsection 180.16(2).
 
-  **(6)** If the record, or part of it, is determined to be admissible, the military judge shall direct the applicants as to the uses that the they may and may not make of that record or part.
+  **(6)** If the record, or part of it, is determined to be admissible, the military judge shall direct the applicants as to the uses that they may and may not make of that record or part.
 
   **(7)** For greater certainty, this section does not apply to a therapeutic record.
+
+  **(8)** For greater certainty, the complainant or any witness has the right to be represented by counsel.
 
 ### Section 180.21
 
@@ -3587,23 +3679,7 @@ If evidence is admitted at trial on the basis of a determination made under subs
 
 ### Section 156
 
-  **(1)** The Act is amended by adding the following after section 183:
-
-### Section 183.01
-
-    A reference in subsections 183.1(1.1), 183.2(1.1) and 183.3(2) to an offence in the commission of which violence was used, threatened or attempted against any person or class of persons includes a reference to any of the following offences:
-
-    an offence under the `Criminal Code` that is of a sexual nature or committed for a sexual purpose;
-
-    an offence under section 264 of that Act (criminal harassment);
-
-    an offence under section 279.01 of that Act (trafficking in persons); and
-
-    an offence under section 279.011 of that Act (trafficking of a person under the age of 18 years).
-
-  **(2)** Section 183.01 of the Act is amended by adding the following after paragraph (b):
-
-    an offence under section 264.01 of that Act (coercion or control of intimate partner);
+[*Deleted*]
 
 ### Section 157
 
@@ -3611,17 +3687,17 @@ If evidence is admitted at trial on the basis of a determination made under subs
 
 ### Section 183.1
 
-      **(1)** In proceedings against an accused person in respect of a service offence, a military judge or, if the court martial has been convened, the military judge assigned to preside at the court martial shall, on application of the prosecutor in respect of a witness who is under the age of 18 years or who has a mental or physical disability, or on application of such a witness, order that a support person of the witness's choice **or a support animal** be permitted to be present and to be close to the witness while the witness testifies, unless the military judge is of the opinion that the order would interfere with the proper administration of military justice.
+      **(1)** In proceedings against an accused person in respect of a service offence, a military judge or, if the court martial has been convened, the military judge assigned to preside at the court martial shall, on application of the prosecutor in respect of a witness who is under the age of 18 years or who has a mental or physical disability, or on application of such a witness, order that a support person of the witness's choice or a support animal be permitted to be present and to be close to the witness while the witness testifies, unless the military judge is of the opinion that the order would interfere with the proper administration of military justice.
 
-      **(1.1)** In proceedings against an accused person in respect of an offence punishable under section 130 that is an offence under the `Criminal Code` and that is also an offence of a sexual nature or committed for a sexual purpose, an offence related to criminal harassment or trafficking in persons or an offence in the commission of which violence was used, threatened or attempted against their intimate partner, a military judge — or, if the court martial has been convened, the military judge assigned to preside at the court martial — shall, on application of the prosecutor in respect of a witness who is a victim of such an offence or on application of such a witness, order that a support person **of the witness's choice or a support animal** be permitted to be present and to be close to the witness while the witness testifies, unless the military judge is of the opinion that the order would interfere with the proper administration of military justice.
+      **(1.1)** In proceedings against an accused person in respect of an offence punishable under section 130 that is an offence under the `Criminal Code` and that is also an offence of a sexual nature or committed for a sexual purpose, an offence related to criminal harassment or trafficking in persons or an offence **committed** against their intimate partner, a military judge — or, if the court martial has been convened, the military judge assigned to preside at the court martial — shall, on application of the prosecutor in respect of a witness who is a victim of such an offence or on application of such a witness, order that a support person of the witness's choice or a support animal be permitted to be present and to be close to the witness while the witness testifies, unless the military judge is of the opinion that the order would interfere with the proper administration of military justice.
 
       **(1.2)** If an application for an order under subsection (1) or (1.1) is not made, the military judge shall inquire of the prosecutor whether reasonable steps have been taken to inform the witness that such an application may be made.
 
-      **(2)** In proceedings against an accused person in respect of a service offence, a military judge or, if the court martial has been convened, the military judge assigned to preside at the court martial may, on application of the prosecutor in respect of a witness, or on application of a witness, order that a support person of the witness's choice **or a support animal** be permitted to be present and to be close to the witness while the witness testifies, if the military judge is of the opinion that the order would facilitate the giving of a full and candid account by the witness of the acts complained of or would otherwise be in the interest of the proper administration of military justice.
+      **(2)** In proceedings against an accused person in respect of a service offence, a military judge or, if the court martial has been convened, the military judge assigned to preside at the court martial may, on application of the prosecutor in respect of a witness, or on application of a witness, order that a support person of the witness's choice or a support animal be permitted to be present and to be close to the witness while the witness testifies, if the military judge is of the opinion that the order would facilitate the giving of a full and candid account by the witness of the acts complained of or would otherwise be in the interest of the proper administration of military justice.
 
   **(2)** Subsection 183.1(6) of the Act is replaced by the following:
 
-    **(6)** No adverse inference **shall** be drawn from the fact that an order is, or is not, made under **this section**.
+    **(6)** No adverse inference shall be drawn from the fact that an order is, or is not, made under this section.
 
 ### Section 158
 
@@ -3629,25 +3705,25 @@ If evidence is admitted at trial on the basis of a determination made under subs
 
 ### Section 183.2
 
-      **(1)** In proceedings against an accused person in respect of a service offence, a military judge or, if the court martial has been convened, the military judge assigned to preside at the court martial shall, on application of the prosecutor in respect of a witness who is under the age of 18 years or who is able to communicate evidence but may have difficulty doing so by reason of a mental or physical disability, or on application of such a witness, order that the witness testify, **at the option of the witness, either** outside the courtroom or behind a screen or other device that would allow the witness not to see the accused person, unless the military judge is of the opinion that the order would interfere with the proper administration of military justice.
+      **(1)** In proceedings against an accused person in respect of a service offence, a military judge or, if the court martial has been convened, the military judge assigned to preside at the court martial shall, on application of the prosecutor in respect of a witness who is under the age of 18 years or who is able to communicate evidence but may have difficulty doing so by reason of a mental or physical disability, or on application of such a witness, order that the witness testify, at the option of the witness, either outside the courtroom or behind a screen or other device that would allow the witness not to see the accused person, unless the military judge is of the opinion that the order would interfere with the proper administration of military justice.
 
-      **(1.1)** In proceedings against an accused person in respect of an offence punishable under section 130 that is an offence under the `Criminal Code` and that is also an offence of a sexual nature or committed for a sexual purpose, an offence related to criminal harassment or trafficking in persons or an offence in the commission of which violence was used, threatened or attempted against their intimate partner, a military judge — or, if the court martial has been convened, the military judge assigned to preside at the court martial — shall, on application of the prosecutor in respect of a witness who is a victim of such an offence, or on application of such a witness, order that the witness testify, at the option of the witness, either outside the courtroom or behind a screen or other device that would allow the witness not to see the accused person, unless the military judge is of the opinion that the order would interfere with the proper administration of military justice.
+      **(1.1)** In proceedings against an accused person in respect of an offence punishable under section 130 that is an offence under the `Criminal Code` and that is also an offence of a sexual nature or committed for a sexual purpose, an offence related to criminal harassment or trafficking in persons or an offence **committed** against their intimate partner, a military judge — or, if the court martial has been convened, the military judge assigned to preside at the court martial — shall, on application of the prosecutor in respect of a witness who is a victim of such an offence, or on application of such a witness, order that the witness testify, at the option of the witness, either outside the courtroom or behind a screen or other device that would allow the witness not to see the accused person, unless the military judge is of the opinion that the order would interfere with the proper administration of military justice.
 
       **(1.2)** If an application for an order under subsection (1) or (1.1) is not made, the military judge shall inquire of the prosecutor whether reasonable steps have been taken to inform the witness that such an application may be made.
 
-      **(2)** In proceedings against an accused person in respect of a service offence, a military judge or, if the court martial has been convened, the military judge assigned to preside at the court martial may, on application of the prosecutor in respect of a witness, or on application of a witness, order that the witness testify **at the option of the witness, either** outside the courtroom or behind a screen or other device that would allow the witness not to see the accused person, if the military judge is of the opinion that the order would facilitate the giving of a full and candid account by the witness of the acts complained of or would otherwise be in the interest of the proper administration of military justice.
+      **(2)** In proceedings against an accused person in respect of a service offence, a military judge or, if the court martial has been convened, the military judge assigned to preside at the court martial may, on application of the prosecutor in respect of a witness, or on application of a witness, order that the witness testify at the option of the witness, either outside the courtroom or behind a screen or other device that would allow the witness not to see the accused person, if the military judge is of the opinion that the order would facilitate the giving of a full and candid account by the witness of the acts complained of or would otherwise be in the interest of the proper administration of military justice.
 
   **(2)** Subsections 183.2(5) and (6) of the Act are replaced by the following:
 
-    **(5)** A witness shall not testify outside the courtroom in accordance with an order made under subsection (1), **(1.1)** or (2) unless arrangements are made for the accused person, the military judge and, if a General Court Martial has been convened, its panel to watch the testimony of the witness by means of closed-circuit television or otherwise and the accused person is permitted to communicate with counsel while watching the testimony.
+    **(5)** A witness shall not testify outside the courtroom in accordance with an order made under subsection (1), (1.1) or (2) unless arrangements are made for the accused person, the military judge and, if a General Court Martial has been convened, its panel to watch the testimony of the witness by means of closed-circuit television or otherwise and the accused person is permitted to communicate with counsel while watching the testimony.
 
-    **(6)** No adverse inference **shall** be drawn from the fact that an order is, or is not, made under **this section**.
+    **(6)** No adverse inference shall be drawn from the fact that an order is, or is not, made under this section.
 
 ### Section 159
 
 Subsection 183.3(2) of the Act is replaced by the following:
 
-**(2)** In proceedings against an accused person in respect of an offence punishable under section 130 that is an offence under the `Criminal Code` **and that is also an offence of a sexual nature or committed for a sexual purpose, an offence related to criminal harassment or trafficking in persons or an offence in the commission of which violence was used, threatened or attempted against their intimate partner, the** military judge shall, on application of the prosecutor in respect of a witness who is a victim, or on application of such a witness, order that the accused person not personally cross-examine the witness, unless the military judge is of the opinion that the proper administration of military justice requires the accused person to personally conduct the cross-examination. If such an order is made, the military judge shall direct the Director of Defence Counsel Services to provide counsel to conduct the cross-examination.
+**(2)** In proceedings against an accused person in respect of an offence punishable under section 130 that is an offence under the `Criminal Code` and that is also an offence of a sexual nature or committed for a sexual purpose, an offence related to criminal harassment or trafficking in persons or an offence **committed** against their intimate partner, the military judge shall, on application of the prosecutor in respect of a witness who is a victim, or on application of such a witness, order that the accused person not personally cross-examine the witness, unless the military judge is of the opinion that the proper administration of military justice requires the accused person to personally conduct the cross-examination. If such an order is made, the military judge shall direct the Director of Defence Counsel Services to provide counsel to conduct the cross-examination.
 
 **(2.1)** If an application for an order under subsection (1) or (2) is not made, the military judge shall inquire of the prosecutor whether reasonable steps have been taken to inform the witness that such an application may be made.
 
@@ -3793,7 +3869,7 @@ For greater certainty, in determining the days that are not to be taken into acc
 
 Paragraph 203.6(3)(b) of the Act is replaced by the following:
 
-reading it in the presence and close proximity of any support person of the victim's choice **or a support animal**;
+reading it in the presence and close proximity of any support person of the victim's choice or a support animal;
 
 ### Section 163
 
@@ -3817,11 +3893,11 @@ reading it in the presence and close proximity of any support person of the vict
 
   **(2)** The portion of subsection 203.72(3) of the Act before paragraph (a) is replaced by the following:
 
-    **(3)** **Unless the court martial considers that it would not be in the best interests of the administration of military justice**, the court martial shall, at the request of the individual who made the statement, permit the individual to present the statement by
+    **(3)** Unless the court martial considers that it would not be in the best interests of the administration of military justice, the court martial shall, at the request of the individual who made the statement, permit the individual to present the statement by
 
   **(3)** Paragraph 203.72(3)(b) of the Act is replaced by the following:
 
-    reading it in the presence and close proximity of any support person of the individual's choice **or a support animal**;
+    reading it in the presence and close proximity of any support person of the individual's choice or a support animal;
 
   **(4)** Section 203.72 of the Act is amended by adding the following after subsection (5):
 
@@ -3832,11 +3908,11 @@ reading it in the presence and close proximity of any support person of the vict
 The Act is amended by adding the following after section 203.72:
 
 
-#### **Order Prohibiting Contact**
+#### Order Prohibiting Contact
 
 ### Section 203.73
 
-  **(1)** When an offender is convicted of an offence punishable under section 130 that is an offence under the `Criminal Code` and that is also an offence of a sexual nature or committed for a sexual purpose, an offence related to criminal harassment or trafficking in persons or an offence in the commission of which violence was used, threatened or attempted against their intimate partner, the court martial that imposes a sentence on the offender may make an order prohibiting the offender from having any contact — including by communicating by any means — with any victim, witness or other person identified in the order except in accordance with any conditions specified in the order that the court martial considers necessary.
+  **(1)** When an offender is convicted of an offence punishable under section 130 that is an offence under the `Criminal Code` and that is also an offence of a sexual nature or committed for a sexual purpose, an offence related to criminal harassment or trafficking in persons or an offence **committed** against their intimate partner, the court martial that imposes a sentence on the offender may make an order prohibiting the offender from having any contact — including by communicating by any means — with any victim, witness or other person identified in the order except in accordance with any conditions specified in the order that the court martial considers necessary.
 
   **(2)** The prohibition may be for life or for any shorter duration that the court martial considers desirable.
 
@@ -3848,13 +3924,13 @@ The Act is amended by adding the following after section 203.72:
 
   **(6)** A court martial may require the offender to appear before it and, after giving the offender and the applicant an opportunity to make representations, may vary the order if, in its opinion, the variation is desirable because of changed circumstances after the conditions were prescribed.
 
-  **(7)** Section 183.01 also applies to the reference in subsection (1) to an offence in the commission of which violence was used, threatened or attempted.
+  **(7)** [*Deleted*]
 
 ### Section 166
 
 Subsection 215(1.2) of the Act is replaced by the following:
 
-**(1.2)** The court martial or the Court Martial Appeal Court, as the case may be, shall cause a copy of the decision to be given to a victim of the offence **if the victim wishes to receive it**.
+**(1.2)** The court martial or the Court Martial Appeal Court, as the case may be, shall cause a copy of the decision to be given to a victim of the offence if the victim wishes to receive it.
 
 ### Section 167
 
@@ -3862,7 +3938,7 @@ Paragraph 230(i.1) of the Act is replaced by the following:
 
 the legality of a decision under subsection 180.003(4), 180.005(7), 180.007(4) or (5), 180.18(4) or 180.2(4) or (5);
 
-the legality of a decision not to make an order under subsection 180.05(1) **or 180.12(1)** or of a decision to make or not to make an order under subsection 180.07(1) **or (2) or 180.14(1) or (2)**;
+the legality of a decision not to make an order under subsection 180.05(1) or 180.12(1) or of a decision to make or not to make an order under subsection 180.07(1) or (2) or 180.14(1) or (2);
 
 ### Section 168
 
@@ -3870,13 +3946,13 @@ Paragraph 230.1(j.1) of the Act is replaced by the following:
 
 the legality of a decision under subsection 180.003(4), 180.005(7), 180.007(4) or (5), 180.18(4) or 180.2(4) or (5);
 
-the legality of a decision to make an order under subsection 180.05(1), 180.07(1) **or (2), 180.12(1) or 180.14(1) or (2)**;
+the legality of a decision to make an order under subsection 180.05(1), 180.07(1) or (2), 180.12(1) or 180.14(1) or (2);
 
 ### Section 169
 
 Subsection 248.3(3) of the Act is replaced by the following:
 
-**(3)** The court martial, military judge or judge, as the case may be, shall cause a copy of the direction to be given to a victim of the alleged offence **if the victim wishes to receive it**.
+**(3)** The court martial, military judge or judge, as the case may be, shall cause a copy of the direction to be given to a victim of the alleged offence if the victim wishes to receive it.
 
 ### Section 170
 
@@ -3886,21 +3962,29 @@ Subsection 248.3(3) of the Act is replaced by the following:
 
       **(1)** No person shall publish in any document, or broadcast or transmit in any way, any of the following:
 
-        the contents of an application made under **subsection 180.002(1), 180.005(1), 180.007(1)**, 180.03**(1), 180.1(1), 180.17(1) or 180.2(1)**;
+        the contents of an application made under subsection 180.002(1), 180.005(1), 180.007(1), 180.03(1), 180.1(1), 180.17(1) or 180.2(1);
 
-        any evidence taken, the information given or the representations made at the consideration of an application made under subsection 180.002(1), 180.005(1), 180.007(1), 180.17(1) or 180.2(1) or at a hearing under subsection 180.003(1), section 180.005, **subsection 180.04(1), 180.06(2)**, 180.11(1) or 180.13(2) or section 180.18;
+        any evidence taken, the information given or the representations made at the consideration of an application made under subsection 180.002(1), 180.005(1), 180.007(1), 180.17(1) or 180.2(1) or at a hearing under subsection 180.003(1), section 180.005, subsection 180.04(1), 180.06(2), 180.11(1) or 180.13(2) or section 180.18;
 
         the determination made under subsection 180.002(4) or 180.17(5) unless the military judge, after taking into account the complainant's right to privacy and the interests of military justice, orders that the decision and the reasons may be published, broadcast or transmitted;
 
         the determination made and the reasons provided under subsection 180.003(4) or 180.005(7) or section 180.007 unless that determination is that evidence is admissible or the military judge, after taking into account the complainant's right to privacy and the interests of military justice, orders that the determination and the reasons may be published, broadcast or transmitted;
 
-        the determination **made** under subsection 180.05(1), 180.07(1) **or (2), 180.12(1) or 180.14(1) or (2)** and the reasons provided under section 180.08 **or 180.15**, unless the military judge, after taking into account the right to privacy of the person to whom the record **or therapeutic record** relates and the interests of military justice, orders that the determination **and the reasons** may be published, **broadcast or transmitted**;
+        the determination made under subsection 180.05(1), 180.07(1) or (2), 180.12(1) or 180.14(1) or (2) and the reasons provided under section 180.08 or 180.15, unless the military judge, after taking into account the right to privacy of the person to whom the record or therapeutic record relates and the interests of military justice, orders that the determination and the reasons may be published, broadcast or transmitted;
 
         the determination made and the reasons provided under subsection 180.18(4) or section 180.2, unless that determination is that evidence is admissible or the military judge, after taking into account the complainant's right to privacy and the interests of military justice, orders that the determination and the reasons may be published, broadcast or transmitted.
 
+      **(1.1)** Subsection (1) does not apply if the disclosure of any information referred to in paragraphs (1)(a) to (f) is
+
+        made in the course of the administration of military justice and it is made for a purpose other than to make the information known in the community;
+
+        made by the complainant or any witness and about that complainant or witness and their particulars, in any forum and for any purpose, and they did not intentionally or recklessly reveal the identity of or reveal particulars likely to identify any other person whose identity is protected by this section; or
+
+        made by the complainant or any witness and it is made for a purpose other than to make the information known in the community, including when the disclosure is made to a legal professional, a health care professional or a person in a relationship of trust with the complainant or the witness.
+
   **(2)** Subsection 303(3) of the Act is replaced by the following:
 
-    **(3)** In this section, **record** **and **therapeutic record** have** the same **meanings** as in section 180.01.
+    **(3)** In this section, **record** and **therapeutic record** have the same meanings as in section 180.01.
 
 ### Section 171
 
@@ -3957,7 +4041,7 @@ For greater certainty, section 203.73 of the Act applies only with respect to an
 `An Act respecting the mandatory reporting of Internet child sexual abuse and exploitation material by persons who provide an Internet service` is amended by adding the following before the heading before section 1:
 
 
-## **Short Title**
+## Short Title
 
 ### Section 0.1
 
@@ -3967,7 +4051,7 @@ This Act may be cited as the `Mandatory Reporting Act`.
 
 The definition **Internet service** in subsection 1(1) of the Act is replaced by the following:
 
-**Internet service** **includes**
+**Internet service** includes
 
 a service providing Internet access;
 
@@ -3981,27 +4065,31 @@ Sections 3 and 4 of the Act are replaced by the following:
 
 ### Section 3
 
-  ****(1)**** If a person who provides an Internet service to the public has reasonable grounds to believe that their Internet service is being or has been used to commit a child sexual abuse and exploitation material offence, the person must notify **the law enforcement body designated by the regulations** of that fact as soon as feasible and in accordance with the regulations.
+  **(1)** A person who provides an Internet service to the public **and who** has reasonable grounds to believe that their Internet service is being or has been used to commit a child sexual abuse and exploitation material offence must notify the law enforcement body designated by the regulations of that fact as soon as feasible and in accordance with the regulations, **if**
+
+    the offence has been committed by means of a computer system, as defined in subsection 342.1(2) of the `Criminal Code`, that is located in Canada;
+
+    the person has possession or control of the computer system; and
+
+    the child sexual abuse and exploitation material related to the offence is stored on the computer system.
 
   **(2)** If the material related to the offence is manifestly child sexual abuse and exploitation material, the person must include with the notification a document containing any transmission data, as defined in section 487.011 of the `Criminal Code`, related to the material that could assist in the investigation of the offence.
 
-  **(3)** For greater certainty, subsections (1) and (2) apply to persons who provide Internet services to the public and have a connection to Canada, including because the person
-
-    has possession or control of a computer system, as defined in subsection 342.1(2) of the `Criminal Code`, that is located in Canada;
-
-    is a corporation that is incorporated in Canada or whose head office is located in Canada; or
-
-    is a partnership or an unincorporated association or organization whose head office is located in Canada.
+  **(3)** [*Deleted*]
 
 ### Section 4
 
-  **(1)** A person who makes a notification under section 3 must preserve all computer data related to the notification that is in their possession or control for **one year** after the day on which the notification is made.
+  **(1)** A person who makes a notification under section 3 must preserve all computer data related to the notification that is in their possession or control for one year after the day on which the notification is made.
 
-  **(2)** The person must destroy the computer data that would not be retained in the ordinary course of business and any document that is prepared for the purpose of preserving computer data under subsection (1) as soon as feasible after the **end** of the **one-year** period, unless the person is required to preserve the computer data by a judicial order made under any other Act of Parliament or **any Act of** the legislature of a province.
+  **(2)** The person must destroy the computer data that would not be retained in the ordinary course of business and any document that is prepared for the purpose of preserving computer data under subsection (1) as soon as feasible after the end of the one-year period, unless the person is required to preserve the computer data by a judicial order made under any other Act of Parliament or any Act of the legislature of a province.
 
 ### Section 182
 
 The Act is amended by adding the following after section 9:
+
+### Section 9.01
+
+A person who provides an Internet service to the public and who reports, in compliance with an obligation under the laws of a foreign jurisdiction, information related to a child sexual abuse and exploitation material offence is not required to provide a notification under section 3 with respect to the offence.
 
 ### Section 9.1
 
@@ -4013,7 +4101,7 @@ Section 11 of the Act is replaced by the following:
 
 ### Section 11
 
-A prosecution for an offence under this Act cannot be commenced more than **five** years after the time when the act or omission giving rise to the prosecution occurred.
+A prosecution for an offence under this Act cannot be commenced more than five years after the time when the act or omission giving rise to the prosecution occurred.
 
 ### Section 184
 
@@ -4046,7 +4134,7 @@ Subject to section 70.3 and the regulations, an individual is not eligible to ho
 
 they are subject to a protection order;
 
-**they** have been convicted of an offence in the commission of which violence was used, threatened or attempted against their intimate partner or any member of their family; **or**
+they have been convicted of an offence in the commission of which violence was used, threatened or attempted against their intimate partner or any member of their family; or
 
 a chief firearms officer has reasonable grounds to suspect that the individual may have engaged in an act of domestic violence, as defined in subsection 70.1(2), or stalking.
 
@@ -4054,9 +4142,9 @@ a chief firearms officer has reasonable grounds to suspect that the individual m
 
 Subsections 72(4) and (5) of the Act are replaced by the following:
 
-**(4)** A notice given under subsection (1) in respect of a licence must specify that the applicant for or holder of the licence **must** deliver to a peace officer or a firearms officer or a chief firearms officer any firearm, prohibited weapon, restricted weapon, prohibited device or prohibited ammunition that the applicant for or holder of the licence possesses within 24 hours or, if that is not possible, within an extended period established by the chief firearms officer. Sections 91, 92 and 94 of the `Criminal Code` do not apply to the applicant or holder in relation to such a firearm, prohibited weapon, restricted weapon or prohibited device or such prohibited ammunition during that period.
+**(4)** A notice given under subsection (1) in respect of a licence must specify that the applicant for or holder of the licence must deliver to a peace officer or a firearms officer or a chief firearms officer any firearm, prohibited weapon, restricted weapon, prohibited device or prohibited ammunition that the applicant for or holder of the licence possesses within 24 hours or, if that is not possible, within an extended period established by the chief firearms officer. Sections 91, 92 and 94 of the `Criminal Code` do not apply to the applicant or holder in relation to such a firearm, prohibited weapon, restricted weapon or prohibited device or such prohibited ammunition during that period.
 
-**(5)** A notice given under subsection (1) in respect of a registration certificate for a prohibited firearm or a restricted firearm must specify that the applicant for or holder of the registration certificate **must** deliver to a peace officer or a firearms officer or a chief firearms officer the firearm to which the registration certificate relates within 24 hours or, if that is not possible, within an extended period established by the chief firearms officer. Sections 91, 92 and 94 of the `Criminal Code` do not apply to the applicant or holder in relation to such a prohibited firearm or restricted firearm during that period.
+**(5)** A notice given under subsection (1) in respect of a registration certificate for a prohibited firearm or a restricted firearm must specify that the applicant for or holder of the registration certificate must deliver to a peace officer or a firearms officer or a chief firearms officer the firearm to which the registration certificate relates within 24 hours or, if that is not possible, within an extended period established by the chief firearms officer. Sections 91, 92 and 94 of the `Criminal Code` do not apply to the applicant or holder in relation to such a prohibited firearm or restricted firearm during that period.
 
 
 ## `Corrections and Conditional Release Act`
@@ -4092,11 +4180,11 @@ Section 25 of the Act is replaced by the following:
 
 ### Section 25
 
-  **(1)** The Service **must** give, at the appropriate times, to the Parole Board of Canada, provincial governments, provincial parole boards, police and any body authorized by the Service to supervise offenders, all information, **including historical information**, under its control that is relevant to release decision-making or to the supervision or surveillance of offenders.
+  **(1)** The Service must give, at the appropriate times, to the Parole Board of Canada, provincial governments, provincial parole boards, police and any body authorized by the Service to supervise offenders, all information, including historical information, under its control that is relevant to release decision-making or to the supervision or surveillance of offenders.
 
-  **(2)** Before the release of an inmate on an unescorted temporary absence, parole or statutory release, the Service **must** notify the police.
+  **(2)** Before the release of an inmate on an unescorted temporary absence, parole or statutory release, the Service must notify the police.
 
-  **(3)** **If** the Service has reasonable grounds to believe that an **offender whose** sentence **or long-term supervision order** is about to **expire poses** a threat to any person, the Service **must**, prior to the **expiry** and on a timely basis, take all reasonable steps to give the police all information under its control that is relevant to that perceived threat.
+  **(3)** If the Service has reasonable grounds to believe that an offender whose sentence or long-term supervision order is about to expire poses a threat to any person, the Service must, prior to the expiry and on a timely basis, take all reasonable steps to give the police all information under its control that is relevant to that perceived threat.
 
 ### Section 25.1
 
@@ -4192,7 +4280,7 @@ the Service is accountable in respect of the disclosure of personal information 
 
   **(1)** Subparagraphs 26(1)(b)(ii) to (ii.2) of the Act are replaced by the following:
 
-    the name and location of the penitentiary — **and the security classification assigned under section 29.1 to the penitentiary or the area in the penitentiary** — in which the sentence is being served,
+    the name and location of the penitentiary — and the security classification assigned under section 29.1 to the penitentiary or the area in the penitentiary — in which the sentence is being served,
 
   **(2)** Subsection 26(1) of the Act is amended by striking out "and" at the end of subparagraph (c)(iii) and by adding the following after subparagraph (c)(iii):
 
@@ -4204,7 +4292,7 @@ the Service is accountable in respect of the disclosure of personal information 
 
   **(3)** Subsection 26(1.1) of the Act is replaced by the following:
 
-    **(1.1)** The Commissioner **must** disclose the information referred to in **subparagraphs** (1)(c)**(i) to (iii)** before the day on which the offender is released and, unless it is not practicable to do so, the Commissioner **must** disclose it at least 14 days before that day.
+    **(1.1)** The Commissioner must disclose the information referred to in subparagraphs (1)(c)(i) to (iii) before the day on which the offender is released and, unless it is not practicable to do so, the Commissioner must disclose it at least 14 days before that day.
 
     **(1.11)** The Commissioner must disclose the information referred to in subparagraph (1)(c)(v) before the day on which the offender is transferred, unless it is not practicable to do so.
 
@@ -4222,31 +4310,31 @@ the location of the penitentiary, if a victim has expressed concerns to the Serv
 
   **(1)** Subsection 133(3.2) of the Act is replaced by the following:
 
-    **(3.2)** If, **after receiving** a statement referred to in subsection (3.1), the releasing authority **decides** not to impose a **condition that is requested in the statement**, the releasing authority **must** provide written reasons for that decision.
+    **(3.2)** If, after receiving a statement referred to in subsection (3.1), the releasing authority decides not to impose a condition that is requested in the statement, the releasing authority must provide written reasons for that decision.
 
   **(2)** Paragraph 133(6)(b) of the English version of the Act is replaced by the following:
 
-    in respect of conditions imposed under subsection (3), **(3.1)**, (4) or (4.1), remove or vary any such condition.
+    in respect of conditions imposed under subsection (3), (3.1), (4) or (4.1), remove or vary any such condition.
 
 ### Section 194
 
   **(1)** The portion of subsection 140(13) of the Act before paragraph (a) is replaced by the following:
 
-    **(13)** Subject to any conditions specified by the Board, a victim, a person referred to in subsection 142(3) or **a person designated under subsection 142(3.1)** is entitled, on request, after a hearing in respect of a review referred to in paragraph (1)(a) or (b), to listen to an audio recording of the hearing, other than portions of the hearing that the Board considers
+    **(13)** Subject to any conditions specified by the Board, a victim, a person referred to in subsection 142(3) or a person designated under subsection 142(3.1) is entitled, on request, after a hearing in respect of a review referred to in paragraph (1)(a) or (b), to listen to an audio recording of the hearing, other than portions of the hearing that the Board considers
 
   **(2)** Paragraph 140(13)(b) of the Act is replaced by the following:
 
-    should not be heard by the victim, a person referred to in subsection 142(3) or **a person designated under subsection 142(3.1)**, because the privacy interest of any person clearly outweighs the interest of the victim or the person.
+    should not be heard by the victim, a person referred to in subsection 142(3) or a person designated under subsection 142(3.1), because the privacy interest of any person clearly outweighs the interest of the victim or the person.
 
 ### Section 195
 
   **(1)** Subparagraph 142(1)(a)(iv) of the Act is replaced by the following:
 
-    eligibility dates and review dates applicable to the offender under this Part in respect of unescorted temporary absences, parole or **escorted temporary absences that are authorized under section 17.1 or approved under section 746.1 of the `Criminal Code`**; and
+    eligibility dates and review dates applicable to the offender under this Part in respect of unescorted temporary absences, parole or escorted temporary absences that are authorized under section 17.1 or approved under section 746.1 of the `Criminal Code`; and
 
   **(2)** Subparagraph 142(1)(b)(iii) of the Act is replaced by the following:
 
-    the date, if any, on which the offender is to be released on unescorted temporary absence, escorted temporary absence if the Board approves the absence as required by **section** 746.1 of the `Criminal Code`, parole or statutory release,
+    the date, if any, on which the offender is to be released on unescorted temporary absence, escorted temporary absence if the Board approves the absence as required by section 746.1 of the `Criminal Code`, parole or statutory release,
 
   **(3)** Subparagraphs 142(1)(b)(v) and (vi) of the Act are replaced by the following:
 
@@ -4254,11 +4342,11 @@ the location of the penitentiary, if a victim has expressed concerns to the Serv
 
     the outcome of any decision made by the Board in respect of the conditional release of the offender under this Part or of a request for an escorted temporary absence authorized under section 17.1 or approved under section 746.1 of the `Criminal Code`,
 
-    the reasons for, and any of the conditions attached to, the offender's unescorted temporary absence or **escorted temporary absence authorized under section 17.1 or approved under section 746.1 of the `Criminal Code`**,
+    the reasons for, and any of the conditions attached to, the offender's unescorted temporary absence or escorted temporary absence authorized under section 17.1 or approved under section 746.1 of the `Criminal Code`,
 
     any of the conditions attached to the offender's parole or statutory release,
 
-    the destination of the offender **on any** unescorted temporary absence, parole, statutory release or **escorted temporary absence authorized under section 17.1 or approved under section 746.1 of the `Criminal Code`**, and whether the offender will be in the vicinity of the victim while travelling to that destination,
+    the destination of the offender on any unescorted temporary absence, parole, statutory release or escorted temporary absence authorized under section 17.1 or approved under section 746.1 of the `Criminal Code`, and whether the offender will be in the vicinity of the victim while travelling to that destination,
 
   **(4)** Section 142 of the Act is amended by adding the following after subsection (1):
 
@@ -4270,7 +4358,7 @@ Subsection 144(1) of the Act is replaced by the following:
 
 ### Section 144
 
-  **(1)** The Board **must** maintain a registry of the decisions it **renders** under **Part I or** this Part or under paragraph 746.1(2)(c) or (3)(c) of the `Criminal Code` and its reasons for those decisions.
+  **(1)** The Board must maintain a registry of the decisions it renders under Part I or this Part or under paragraph 746.1(2)(c) or (3)(c) of the `Criminal Code` and its reasons for those decisions.
 
 
 ### Transitional Provision
@@ -4294,13 +4382,13 @@ Section 4 of the Act is replaced by the following:
 
 ### Section 4
 
-  **(1)** The **following** are designated as states or entities for the **purposes** of this Act:
+  **(1)** The following are designated as states or entities for the purposes of this Act:
 
-    international criminal courts and tribunals that are named in the schedule; **and**
+    international criminal courts and tribunals that are named in the schedule; and
 
     supranational bodies with responsibility for investigating or prosecuting criminal matters that are named in the schedule.
 
-  **(2)** The Minister of Foreign Affairs may, with the agreement of the Minister, by order, add to the schedule the name of **any** international criminal **court or tribunal and of any supranational body with responsibility for investigating or prosecuting criminal matters** or delete **any name** from the schedule.
+  **(2)** The Minister of Foreign Affairs may, with the agreement of the Minister, by order, add to the schedule the name of any international criminal court or tribunal and of any supranational body with responsibility for investigating or prosecuting criminal matters or delete any name from the schedule.
 
 ### Section 200
 
@@ -4308,7 +4396,7 @@ Subsection 6(1) of the Act is replaced by the following:
 
 ### Section 6
 
-  **(1)** If there is no agreement between Canada and a state or entity, or **if** the **name of an international criminal court or tribunal or of a supranational body with responsibility for investigating or prosecuting criminal matters** does not appear in the schedule, the Minister of Foreign Affairs may, with the agreement of the Minister, enter into an administrative arrangement with the state or entity, **international criminal court** or **tribunal or supranational body** providing for legal assistance with respect to an investigation specified in the arrangement relating to an act that, if committed in Canada, would be an indictable offence.
+  **(1)** If there is no agreement between Canada and a state or entity, or if the name of an international criminal court or tribunal or of a supranational body with responsibility for investigating or prosecuting criminal matters does not appear in the schedule, the Minister of Foreign Affairs may, with the agreement of the Minister, enter into an administrative arrangement with the state or entity, international criminal court or tribunal or supranational body providing for legal assistance with respect to an investigation specified in the arrangement relating to an act that, if committed in Canada, would be an indictable offence.
 
 ### Section 201
 
@@ -4326,6 +4414,8 @@ European Public Prosecutor's Office
   **(2)** If subsection `48`(2) of this Act comes into force before subsection 9(2) of the other Act, then, on the day on which that subsection 9(2) comes into force, paragraph 515(4.3)(b) of the `Criminal Code` is amended by deleting "264" and by making any necessary modifications as a consequence.
 
   **(3)** If subsection 9(2) of the other Act comes into force on the same day as subsection `48`(2) of this Act, then that subsection 9(2) is deemed to come into force before that subsection `48`(2).
+
+  **(4)** On the first day on which both section 11 of the other Act and section 68 of this Act are in force, section 726.21 of the `Criminal Code`, as enacted by section 11 of the other Act, is renumbered as section 726.22 and is repositioned accordingly if required.
 
 ### Section 203
 
@@ -4392,7 +4482,7 @@ European Public Prosecutor's Office
 
   **(1)** Subject to subsections (2) to (4), the provisions of this Act, other than sections `202` to `205`, come into force on the 30th day after the day on which this Act receives royal assent.
 
-  **(2)** Subsection `2`(2), section `4`, subsection `24`(5), sections `28` and `42`, subsection `45`(2), sections `88` to `91` and `93` and subsection `156`(2) come into force on the second anniversary of the day on which this Act receives royal assent or on an earlier day to be fixed by order of the Governor in Council, but that earlier day must be after the 30th day referred to in subsection (1).
+  **(2)** Subsection `2`(2), section `4`, subsection `24`(5), sections `28` and `42`, subsection `45`(2) and sections `88` to `91` and `93` come into force on the second anniversary of the day on which this Act receives royal assent or on an earlier day to be fixed by order of the Governor in Council, but that earlier day must be after the 30th day referred to in subsection (1).
 
   **(3)** Sections `179` to `184` come into force on a day or days to be fixed by order of the Governor in Council.
 
