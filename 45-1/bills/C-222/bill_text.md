@@ -2,7 +2,7 @@
 
 ## Summary
 
-This enactment amends the `Employment Insurance Act` to provide that a person to whom employment insurance benefits are payable to care for a newborn child or a child placed with them for the purpose of adoption remains eligible to receive those benefits even if the child dies during the benefit period. It also amends the `Canada Labour Code` to provide that an employee who is entitled to maternity leave or to parental leave to care for a newborn child or a child who is in their care for the purpose of adoption remains entitled to the maternity leave or the parental leave even if the child dies during the period for which leave has been granted.
+This enactment amends the `Employment Insurance Act` to provide that a person to whom employment insurance benefits are payable to care for a newborn child or a child placed with them for the purpose of adoption remains eligible to receive those benefits even if the child dies during the benefit period. It also amends the `Canada Labour Code` to extend the period of bereavement leave to which an employee is entitled in the event of the death of a child of the employee or of their spouse or common-law partner.
 
 His Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
@@ -39,15 +39,50 @@ Section 152.05 of the Act is amended by adding the following after subsection (2
 
 ## Canada Labour Code
 
+
+### Amendments to the Act
+
 ### Section 4
 
-Section 206 of the `Canada Labour Code` is amended by adding the following after subsection (3):
-
-**(4)** If a newborn child of an employee who is on a leave of absence from employment under this section dies during the period following the actual date of confinement that is provided for under subsection (1), the employee remains entitled to the period of leave she would have taken under this section had that child not died.
+[*Deleted*]
 
 ### Section 5
 
-Section 206.1 of the Act is amended by adding the following after subsection (2):
+[*Deleted*]
 
-**(2.01)** For the purposes of subsection (1), if the child dies during the period referred to in subsection (2), the employee is deemed to care for that child until that period expires.
+### Section 6
+
+  **(1)** Subsection 210(1.01) of the `Canada Labour Code` is replaced by the following:
+
+    **(1.01)** Subject to subsection (1.011), every employee is entitled to and shall be granted, in the event of the death of a child of the employee or the death of a child of their spouse or common-law partner, a leave of absence from employment of up to 10 weeks that may be taken during the period that begins on the day on which the death occurs and ends 12 weeks after the latest of the days on which any funeral, burial or memorial service of the child occurs.
+
+    **(1.011)** Every employee is entitled to and shall be granted, in the event of the death of a child of the employee that occurs while the employee is on, or is entitled to be on, leave under section 206 in respect of that child, a leave of absence from employment of up to 10 weeks that may be taken during the period that begins on the day on which the death occurs and ends on the later of
+
+      12 weeks after the latest of the days on which any funeral, burial or memorial service of the child occurs; and
+
+      12 weeks after the end of the leave under section 206.
+
+  **(2)** The portion of subsection 210(1.02) of the Act before paragraph (a) is replaced by the following:
+
+    **(1.02)** In subsections (1.01) and (1.011), child means
+
+
+### Transitional Provisions
+
+### Section 7
+
+  **(1)** Section 210 of the `Canada Labour Code`, as amended by section 6, applies to an employee if, on the day on which section 6 comes into force,
+
+    the period during which the employee is entitled to take leave under subsection 210(1.01) of that Act, as it read immediately before section 6 comes into force, has not ended; or
+
+    the employee is on, or entitled to be on, leave under section 206 of that Act.
+
+  **(2)** For the purposes of subsection (1), an employee who has taken two periods of leave under subsection 210(1.2) of the `Canada Labour Code` before the day on which section 6 comes into force may, despite that subsection, take one additional period of leave.
+
+
+## Coming into Force
+
+### Section 8
+
+This Act comes into force on the first Sunday after the day that is six months after the day on which this Act receives royal assent or on an earlier day to be fixed by order of the Governor in Council.
 
