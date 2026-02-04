@@ -1,7 +1,5 @@
 # Bill C-19: An Act to amend the Income Tax Act
 
-**Sponsor**: MINISTER OF FINANCE AND NATIONAL REVENUE
-
 Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act to amend the `Income Tax Act`*".
 
 ## Summary
@@ -84,7 +82,7 @@ each of the amounts expressed in dollars in subsection 122.5(3.005), for a taxat
 
   **(3)** Subsection 122.5(3.2) of the Act is replaced by the following:
 
-    **(3.2)** If this subsection applies, the total of the amounts that would otherwise be deemed by **subsections** (3) **and (3.005)** to have been paid on account of the eligible individual's tax payable under this Part for the taxation year during the particular month specified for the taxation year, and during each subsequent month specified for the taxation year, is deemed to have been paid by the eligible individual on account of their tax payable under this Part for the taxation year during the particular specified month for the taxation year, and the amount deemed by **subsections** (3) **and (3.005)** to have been paid by the eligible individual during those subsequent months specified for the taxation year is deemed, except for the purpose of this subsection, not to have been paid to the extent that it is included in an amount deemed to have been paid by this subsection.
+    **(3.2)** If this subsection applies, the total of the amounts that would otherwise be deemed by subsections (3) and (3.005) to have been paid on account of the eligible individual's tax payable under this Part for the taxation year during the particular month specified for the taxation year, and during each subsequent month specified for the taxation year, is deemed to have been paid by the eligible individual on account of their tax payable under this Part for the taxation year during the particular specified month for the taxation year, and the amount deemed by subsections (3) and (3.005) to have been paid by the eligible individual during those subsequent months specified for the taxation year is deemed, except for the purpose of this subsection, not to have been paid to the extent that it is included in an amount deemed to have been paid by this subsection.
 
   **(4)** Section 122.5 of the Act is amended by adding the following after subsection (4.3):
 
@@ -98,21 +96,21 @@ each of the amounts expressed in dollars in subsection 122.5(3.005), for a taxat
 
   **(1)** Paragraph 152(1)(b) of the Act is replaced by the following:
 
-    the amount of tax, if any, deemed by any of subsections 120(2) or (2.2), 122.5(3) to **(3.005)**, 122.51(2), 122.7(2) or (3), 122.‍72(1), 122.8(4), 122.9(2), 122.91(1), 125.4(3), 125.5(3), 125.6(2) or (2.1), 127.1(1), 127.41(3), 127.44(2), 127.45(2), 127.48(2), 127.49(2) or 210.2(3) or (4) to be paid on account of the taxpayer's tax payable under this Part for the year.
+    the amount of tax, if any, deemed by any of subsections 120(2) or (2.2), 122.5(3) to (3.005), 122.51(2), 122.7(2) or (3), 122.‍72(1), 122.8(4), 122.9(2), 122.91(1), 125.4(3), 125.5(3), 125.6(2) or (2.1), 127.1(1), 127.41(3), 127.44(2), 127.45(2), 127.48(2), 127.49(2) or 210.2(3) or (4) to be paid on account of the taxpayer's tax payable under this Part for the year.
 
   **(2)** Paragraph 152(1.2)(d) of the Act is replaced by the following:
 
-    the Minister determines the amount deemed by any of subsections 122.5(3) to **(3.005)**, 122.‍72(1) or 122.8(4) to have been paid by an individual for a taxation year to be nil, subsection (2) does not apply to the determination unless the individual requests a notice of determination from the Minister.
+    the Minister determines the amount deemed by any of subsections 122.5(3) to (3.005), 122.‍72(1) or 122.8(4) to have been paid by an individual for a taxation year to be nil, subsection (2) does not apply to the determination unless the individual requests a notice of determination from the Minister.
 
   **(3)** Paragraph 152(4.2)(b) of the Act is replaced by the following:
 
-    redetermine the amount, if any, deemed by any of subsections 120(2) or (2.2), 122.5(3) to **(3.005)**, 122.51(2), 122.7(2) or (3), 122.8(4), 122.9(2), 122.91(1), 127.1(1), 127.41(3) or 210.2(3) or (4) to be paid on account of the taxpayer's tax payable under this Part for the year or deemed by subsection 122.61(1) to be an overpayment on account of the taxpayer's liability under this Part for the year.
+    redetermine the amount, if any, deemed by any of subsections 120(2) or (2.2), 122.5(3) to (3.005), 122.51(2), 122.7(2) or (3), 122.8(4), 122.9(2), 122.91(1), 127.1(1), 127.41(3) or 210.2(3) or (4) to be paid on account of the taxpayer's tax payable under this Part for the year or deemed by subsection 122.61(1) to be an overpayment on account of the taxpayer's liability under this Part for the year.
 
 ### Section 5
 
 Paragraph 160.1(1.1)(b) of the Act is replaced by the following:
 
-the total of the amounts deemed by **any of subsections** 122.5(3) or (3.002) **to (3.005)** to have been paid by the individual during those specified months.
+the total of the amounts deemed by any of subsections 122.5(3) or (3.002) to (3.005) to have been paid by the individual during those specified months.
 
 
 ## Coordinating Amendments
