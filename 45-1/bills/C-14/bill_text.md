@@ -1,7 +1,5 @@
 # Bill C-14: An Act to amend the Criminal Code, the Youth Criminal Justice Act and the National Defence Act (bail and sentencing)
 
-**Sponsor**: MINISTER OF JUSTICE
-
 Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act to amend the Criminal Code, the Youth Criminal Justice Act and the National Defence Act (bail and sentencing)*".
 
 ## Summary
@@ -205,7 +203,7 @@ The Act is amended by adding the following after section 493.1:
 
     a peace officer shall, if they release the accused, impose the least onerous conditions that are appropriate in the circumstances, namely, those that are necessary to address the risks posed by the accused as they relate to the purposes referred to in subsection 501(3), including the safety and security of any victim of or witness to the offence;
 
-    a justice or judge, as the case may be, shall not give primary consideration to the release of the accused at the earliest reasonable opportunity if the accused is one to whom subsection 515(6), 522(2), 523(2.1) or **524(4)**  applies;
+    a justice or judge, as the case may be, shall not give primary consideration to the release of the accused at the earliest reasonable opportunity if the accused is one to whom subsection 515(6), 522(2), 523(2.1) or 524(4)  applies;
 
     a justice or judge shall, if they release the accused, impose the least onerous conditions that are appropriate in the circumstances, namely, those that are necessary to address the risks posed by the accused as they relate to the grounds referred to in subsection 515(10), including the protection or safety of the public; and
 
@@ -495,7 +493,7 @@ A justice may, before or at any time during the course of any proceedings under 
 
     there are reasonable grounds to believe that the accused has committed an offence while being subject to the summons, appearance notice, undertaking or release order.
 
-  **(3)** **Subsection** 524(4) of the Act **is** replaced by the following:
+  **(3)** Subsection 524(4) of the Act is replaced by the following:
 
     **(4)** If the judge or justice cancels the summons, appearance notice, undertaking or release order, the judge or justice shall, in the following circumstances, order that the accused be detained in custody unless the accused, having been given a reasonable opportunity to do so, shows cause why their detention in custody is not justified under subsection 515(10) by clearly demonstrating that their proposed release plan addresses the risks posed by the accused as they relate to the grounds referred to in that subsection:
 
@@ -725,7 +723,7 @@ The reference to "The Trial Division of the Supreme Court" in column II of the s
 
 The paragraph of Form 6 of Part XXVIII of the Act that begins with "If you do not comply" and ends with "(Subsection 524(4) of the `Criminal Code`)." is replaced by the following:
 
-If you do not comply with this summons or are charged with committing an offence after it has been issued to you, this summons may be cancelled and, as a result, you may be detained in custody (**subsections** 524(4) **and (6.2)** of the `Criminal Code`).
+If you do not comply with this summons or are charged with committing an offence after it has been issued to you, this summons may be cancelled and, as a result, you may be detained in custody (subsections 524(4) and (6.2) of the `Criminal Code`).
 
 ### Section 48
 
@@ -735,17 +733,17 @@ If you are on interim release and do not comply with this summons or are charged
 
 ### Section 49
 
-**Paragraphs (d) and** (e) of Form 8 of Part XXVIII of the Act **are** replaced by the following:
+Paragraphs (d) and (e) of Form 8 of Part XXVIII of the Act are replaced by the following:
 
 (d) the accused has contravened or was about to contravene a (summons *or* appearance notice *or* undertaking *or* release order) and it was cancelled, and the detention of the accused in custody is justified [515(10), 523.1(3), 524(3), (4) and (6.2)];
 
-(e) there are reasonable grounds to believe that the accused has committed an offence after having become subject to the (summons *or* appearance notice *or* undertaking *or* release order) and the detention of the accused in custody is justified [515(10), 524(3), (4) and **(6.2)**];
+(e) there are reasonable grounds to believe that the accused has committed an offence after having become subject to the (summons *or* appearance notice *or* undertaking *or* release order) and the detention of the accused in custody is justified [515(10), 524(3), (4) and (6.2)];
 
 ### Section 50
 
 The paragraph of section 6 of Form 9 of Part XXVIII of the Act that begins with "If you do not comply" and ends with "(subsection 524(4) of the `Criminal Code`)." is replaced by the following:
 
-If you do not comply with this appearance notice or are charged with committing an offence after you have been released, this appearance notice may be cancelled and, as a result, you may be detained in custody (**subsections** 524(4) **and (6.2)** of the `Criminal Code`).
+If you do not comply with this appearance notice or are charged with committing an offence after you have been released, this appearance notice may be cancelled and, as a result, you may be detained in custody (subsections 524(4) and (6.2) of the `Criminal Code`).
 
 ### Section 51
 
@@ -757,7 +755,7 @@ If you do not comply with this appearance notice or are charged with committing 
 
   **(2)** The paragraph of section 9 of Form 10 of Part XXVIII of the Act that begins with "If you do not comply" and ends with "(subsection 524(4) of the `Criminal Code`)." is replaced by the following:
 
-    If you do not comply with this undertaking or are charged with committing an offence after you have been released, this undertaking may be cancelled and, as a result, you may be detained in custody (**subsections** 524(4) **and (6.2)** of the `Criminal Code`).
+    If you do not comply with this undertaking or are charged with committing an offence after you have been released, this undertaking may be cancelled and, as a result, you may be detained in custody (subsections 524(4) and (6.2) of the `Criminal Code`).
 
 ### Section 52
 
@@ -847,7 +845,7 @@ Signed on (*date*), at (*place*)
 
 The paragraph of item 8 of Form 11 of Part XXVIII of the Act that begins with "If you do not comply" and ends with "(subsection 524(4) of the `Criminal Code`)." is replaced by the following:
 
-If you do not comply with this release order or are charged with committing an offence after you have been released, this release order may be cancelled and, as a result, you may be detained in custody (**subsections** 524(4) **and (6.2)** of the `Criminal Code`).
+If you do not comply with this release order or are charged with committing an offence after you have been released, this release order may be cancelled and, as a result, you may be detained in custody (subsections 524(4) and (6.2) of the `Criminal Code`).
 
 ### Section 54
 
@@ -857,7 +855,7 @@ Form 12 of Part XXVIII of the Act is amended by adding the following after secti
 
 Annual Income ...................
 
-Assests (nature and value) ...................
+Assets (nature and value) ...................
 
 Other ...................
 
@@ -892,11 +890,11 @@ The provisions of the `Criminal Code`, as enacted by sections `41` and `42`, app
 
 ### Section 58
 
-  **(1)** For greater certainty, the provisions of the `Criminal Code`, as enacted by sections `8`, 9, 11, `37`, `**40**` and `43`, apply only with respect to an offence that is committed on or after the day on which those sections come into force.
+  **(1)** For greater certainty, the provisions of the `Criminal Code`, as enacted by sections `8`, 9, 11, `37`, `40` and `43`, apply only with respect to an offence that is committed on or after the day on which those sections come into force.
 
   **(2)** For greater certainty, the amendments to Parts XVI and XXVIII of the `Criminal Code` made by this Act apply with respect to any matter or proceeding under that Part XVI that is ongoing on the day on which section `12` comes into force.
 
-  **(3)** For greater certainty, the provisions of the `Criminal Code`, as enacted by sections `10`, `34` to `36`, `38` and `**39**`, also apply with respect to any matter or proceeding that is ongoing on the day on which those sections come into force.
+  **(3)** For greater certainty, the provisions of the `Criminal Code`, as enacted by sections `10`, `34` to `36`, `38` and `39`, also apply with respect to any matter or proceeding that is ongoing on the day on which those sections come into force.
 
 
 ## Department of Justice Act
@@ -925,7 +923,7 @@ The `Department of Justice Act` is amended by adding the following after section
 
 ### Section 59
 
-  **(**1**)** Paragraph (a) of the definition violent offence in subsection 2(1) of the `Youth Criminal Justice Act` is replaced by the following:
+  **(1)** Paragraph (a) of the definition violent offence in subsection 2(1) of the `Youth Criminal Justice Act` is replaced by the following:
 
     an offence in the commission of which a young person causes bodily harm;
 
@@ -1033,7 +1031,7 @@ Section 110 of the Act is amended by adding the following after subsection (4):
 
   the young person has committed or is likely to commit an indictable offence; and
 
-  the urgency of the situation is such that the immediate publication is necessary for **all of** the following reasons:
+  the urgency of the situation is such that the immediate publication is necessary for all of the following reasons:
 
   the young person is an imminent danger to the public and the publication could aid in the prevention of serious bodily harm or death,
 
@@ -1158,7 +1156,7 @@ Every person is guilty of an offence and liable, on summary conviction, to a fin
 
 ### Section 82
 
-  **(**1**)** For greater certainty, the provisions of the `National Defence Act`, as enacted by sections 79 **and 80, also** apply with respect to **any matter or proceeding** that is **ongoing** on the day on which those sections come into force.
+  **(1)** For greater certainty, the provisions of the `National Defence Act`, as enacted by sections 79 and 80, also apply with respect to any matter or proceeding that is ongoing on the day on which those sections come into force.
 
   **(2)** For greater certainty, section 302 of the `National Defence Act`, as enacted by section 81, applies only with respect to an offence that is committed on or after the day on which that section 81 comes into force.
 
