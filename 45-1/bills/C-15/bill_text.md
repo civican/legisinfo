@@ -1,7 +1,5 @@
 # Bill C-15: An Act to implement certain provisions of the budget tabled in Parliament on November 4, 2025
 
-**Sponsor**: MINISTER OF FINANCE AND NATIONAL REVENUE
-
 Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act to implement certain provisions of the budget tabled in Parliament on November 4, 2025*".
 
 ## Summary
@@ -3105,7 +3103,7 @@ Section 118.1 of the Act is amended by adding the following after subsection (28
 
   **(1)** The definition critical mineral in subsection 127(9) of the Act is replaced by the following:
 
-    **critical mineral** means bismuth, cesium, chromium, cobalt, copper, fluorspar, gallium, germanium, graphite, indium, lithium, magnesium, manganese, molybdenum, nickel, niobium, **phosphate**, a platinum group metal, a rare earth element, scandium, tantalum, tellurium, tin, titanium, tungsten, uranium, vanadium or zinc; (**minéral critique**)
+    **critical mineral** means bismuth, cesium, chromium, cobalt, copper, fluorspar, gallium, germanium, graphite, indium, lithium, magnesium, manganese, molybdenum, nickel, niobium, phosphate, a platinum group metal, a rare earth element, scandium, tantalum, tellurium, tin, titanium, tungsten, uranium, vanadium or zinc; (**minéral critique**)
 
   **(2)** The definition first term shared-use equipment in subsection 127(9) of the Act is replaced by the following:
 
@@ -8585,9 +8583,9 @@ Section 11 of the Act and the heading before it are replaced by the following:
 
 ### Section 11
 
-**The following definitions apply** in this Part.
+The following definitions apply in this Part.
 
-**entity** includes an individual, a corporation, a partnership, an unincorporated association or organization and His Majesty in right of Canada or of a province. (****entité****)
+**entity** includes an individual, a corporation, a partnership, an unincorporated association or organization and His Majesty in right of Canada or of a province. (**entité**)
 
 **excluded Act** means the `Access to Information Act`, the `Auditor General Act`, the `Canada Elections Act`, the `Conflict of Interest Act`, the `Criminal Code`, the `Export and Import Permits Act`, the `Financial Administration Act`, the `Foreign Influence Transparency and Accountability Act`, the `Investment Canada Act`, the `Lobbying Act`, the `Nuclear Safety and Control Act`, the `Privacy Act`, the `Proceeds of Crime (Money Laundering) and Terrorist Financing Act` or the `Public Servants Disclosure Protection Act`. (**loi exclue**)
 
@@ -8598,17 +8596,17 @@ Section 11 of the Act and the heading before it are replaced by the following:
 
   **(1)** Subject to subsections (3) and (7), a minister may, by order, for a specified validity period of not more than three years and on any terms that the minister considers appropriate, exempt an entity from the application of
 
-    a provision of an Act of Parliament, except **an excluded Act**, if the minister is responsible for the Act;
+    a provision of an Act of Parliament, except an excluded Act, if the minister is responsible for the Act;
 
-    a provision of an instrument made under an Act of Parliament, except an instrument made under **an excluded Act**, if
+    a provision of an instrument made under an Act of Parliament, except an instrument made under an excluded Act, if
 
     the minister is responsible for the Act, or
 
     the body that made the instrument is accountable, through the minister, to Parliament for the conduct of its affairs; or
 
-    a provision of an Act of Parliament, except **an excluded Act**, or a provision of an instrument made under **an excluded Act**, if the minister administers or enforces the provision.
+    a provision of an Act of Parliament, except an excluded Act, or a provision of an instrument made under an excluded Act, if the minister administers or enforces the provision.
 
-  **(2)** **Subject to section 12.1**, a minister is not required to consider a request for an exemption.
+  **(2)** Subject to section 12.1, a minister is not required to consider a request for an exemption.
 
   **(3)** A minister may make an order under subsection (1) only if
 
@@ -8616,7 +8614,7 @@ Section 11 of the Act and the heading before it are replaced by the following:
 
     the exemption is in the public interest,
 
-    the exemption would enable the testing of, among other things, a product, service, process, procedure or regulatory measure with the aim of facilitating the design, modification or administration of a regulatory regime to encourage innovation, competitiveness or economic growth **in the clean technology or financial technology sector**,
+    the exemption would enable the testing of, among other things, a product, service, process, procedure or regulatory measure with the aim of facilitating the design, modification or administration of a regulatory regime to encourage innovation, competitiveness or economic growth in the clean technology or financial technology sector,
 
     the benefits associated with the exemption outweigh the risks,
 
@@ -8628,13 +8626,13 @@ Section 11 of the Act and the heading before it are replaced by the following:
 
     the President of the Treasury Board has approved the exemption.
 
-  **(4)** For greater certainty, an exemption granted under subsection (1) continues in force until the end of the validity period specified in the order even if the testing referred to in **subparagraph** (3)**(a)(ii)** is completed before the end of that period.
+  **(4)** For greater certainty, an exemption granted under subsection (1) continues in force until the end of the validity period specified in the order even if the testing referred to in subparagraph (3)(a)(ii) is completed before the end of that period.
 
   **(5)** Subject to subsection (8), a minister who has made an order under subsection (1) may, by order and on any terms the minister considers appropriate, amend it or extend the validity period of the exemption for a total period not exceeding six years only if the minister is of the opinion that
 
-    the conditions set out in **subparagraphs** (3)(a)**(i)** and **(iii)** are met;
+    the conditions set out in subparagraphs (3)(a)(i) and (iii) are met;
 
-    the amended exemption or extension would enable the testing referred to in **subparagraph** (3)**(a)(ii)** to continue or, if such testing is already complete, would facilitate the design, modification or administration of a regulatory regime as a result of that testing;
+    the amended exemption or extension would enable the testing referred to in subparagraph (3)(a)(ii) to continue or, if such testing is already complete, would facilitate the design, modification or administration of a regulatory regime as a result of that testing;
 
     sufficient resources exist, and appropriate measures will be taken, to maintain oversight of any continuing testing, manage any risks associated with the amended exemption or extension, and protect public health and safety and the environment; and
 
@@ -8671,7 +8669,7 @@ For greater certainty, the power to make an order under section 12 does not prec
 
 ### Section 14
 
-  **(1)** Subject to subsections (2) and (3), a minister must, as soon as feasible **but no later than 30 days** after making an order under section 12, make the order and the following information publicly accessible:
+  **(1)** Subject to subsections (2) and (3), a minister must, as soon as feasible but no later than 30 days after making an order under section 12, make the order and the following information publicly accessible:
 
     a description of the decision-making process and a summary of the reasons for the order; and
 
@@ -9696,7 +9694,7 @@ A consumer's express consent may be valid for a period of not more than 12 month
 
   **(1)** A participating entity must renew a consumer's express consent within seven days after the day on which the period for which the consumer's consent was last obtained or renewed ends or within seven days after the day on which the participating entity becomes aware of any circumstance provided for in the regulations.
 
-  **(2)** Subsections `85`(2) to (**9**) apply to a renewal of express consent.
+  **(2)** Subsections `85`(2) to (9) apply to a renewal of express consent.
 
   **(3)** A participating entity that is required to renew a consumer's express consent under subsection (1) must immediately stop receiving the consumer's data until it has renewed the consumer's consent to do so.
 
@@ -11936,7 +11934,7 @@ Section 627.22 of the `Bank Act` is replaced by the following:
 
 ### Section 627.22
 
-An institution shall make the prescribed amount of all funds deposited by a cheque or other instrument into a retail deposit account available for withdrawal immediately or, if there is no prescribed amount, the first $**250**.
+An institution shall make the prescribed amount of all funds deposited by a cheque or other instrument into a retail deposit account available for withdrawal immediately or, if there is no prescribed amount, the first $250.
 
 
 #### Coming into Force
@@ -12684,10 +12682,6 @@ Section 32.2 of the Act is replaced by the following:
 
 All claims for awards under this Part shall be dealt with and determined by the Minister as defined in subsection 3(1) of the `Pension Act` in the same manner as claims under that Act. All provisions of that Act that are not inconsistent with this Part apply, with any necessary modifications, to any claim under this Part.
 
-### Section 32.3
-
-[*Deleted*]
-
 
 #### Related Provisions
 
@@ -12970,7 +12964,7 @@ Subject to the regulations, on the request of an individual, an organization sha
 
 ### Section 10.5
 
-The Governor in Council may, **after consulting with the Office of the Privacy Commissioner**, make regulations respecting the disclosure of personal information under section `10.4`, including regulations
+The Governor in Council may, after consulting with the Office of the Privacy Commissioner, make regulations respecting the disclosure of personal information under section `10.4`, including regulations
 
 respecting data mobility frameworks and prescribing
 
@@ -13560,13 +13554,13 @@ The Act is amended by adding the following after section 35:
 
     poses no undue risk to the health, safety or security of the public; and
 
-    is warranted by reason of exigent circumstances **related to the health, safety or security of the public**.
+    is warranted by reason of exigent circumstances related to the health, safety or security of the public.
 
-  **(2)** **An exemption ceases to have effect on the earliest of the following days**:
+  **(2)** An exemption ceases to have effect on the earliest of the following days:
 
-    **the day that is specified by the Minister in the exemption;**
+    the day that is specified by the Minister in the exemption;
 
-    **the day on which the Minister revokes the exemption; or**
+    the day on which the Minister revokes the exemption; or
 
     the day that is one year after the day on which the exemption takes effect.
 
