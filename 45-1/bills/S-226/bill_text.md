@@ -1,5 +1,7 @@
 # Bill S-226: An Act respecting Jury Duty Appreciation Week
 
+**Sponsor**: Senator MONCION
+
 ## Summary
 
 This enactment designates the second week of May in each and every year as "Jury Duty Appreciation Week".
