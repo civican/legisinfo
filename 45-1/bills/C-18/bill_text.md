@@ -1,7 +1,5 @@
 # Bill C-18: An Act to implement the Comprehensive Economic Partnership Agreement between Canada and Indonesia
 
-**Sponsor**: MINISTER OF INTERNATIONAL TRADE
-
 Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act to implement the Comprehensive Economic Partnership Agreement between Canada and Indonesia*".
 
 ## Summary
