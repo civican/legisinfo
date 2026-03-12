@@ -1,5 +1,7 @@
 # Bill S-212: An Act respecting a national strategy for children and youth in Canada
 
+**Sponsor**: Senator MOODIE
+
 ## Summary
 
 This enactment provides for the development of a national strategy to support children and youth in Canada.
@@ -12,49 +14,13 @@ Whereas the Government of Canada has implemented policies and programs that bene
 
 Whereas Canada has committed to Truth and Reconciliation with First Nations, Inuit and Métis peoples and must respect their sovereignty in matters pertaining to First Nations, Inuit and Métis children and youth;
 
-Whereas First Nations, Inuit and Métis
-children and youths have the right to
-grow up in a culturally safe environment
-and in their own respective cultures and
-languages;
-
 Whereas Canada has passed the `United Nations Declaration on the Rights of Indigenous Peoples Act` and has committed to an action plan that includes concrete measures to address injustices, combat prejudice and eliminate all forms of violence, racism and discrimination, against Indigenous children and youth;
-
-Whereas First Nations, Inuit and Métis
-children and families are best supported
-by programs and services that are
-culturally appropriate and led by
-Indigenous peoples and Canada is
-therefore committed to upholding the
-right of Indigenous peoples to be
-consulted to obtain their free, prior and
-informed consent for the content of the
-national strategy as it pertains to
-Indigenous children;
 
 Whereas children and youths are especially vulnerable to institutional racism and marginalization due to their race and ethnicity, indigeneity, gender, sexual orientation, disability or immigration status and this negatively impacts their social and economic outcomes;
 
-Whereas the well-being of Canada's
-children and youth cannot be achieved
-without a sustained focus on mental
-health, particularly in light of the urgency
-of the current mental health crisis across
-Canada;
-
-Whereas Canada has ratified the United
-Nations Convention on the Rights of
-Persons with Disabilities, which, in
-Article 7, sets out an obligation on States
-Parties to take all necessary measures to
-ensure the full enjoyment by children
-with disabilities of all human rights and
-fundamental freedoms on an equal basis
-with other children;
-
 Whereas children and youths can benefit from cross-jurisdictional collaboration to ensure their health and well-being;
 
-And whereas investing in the well-being,
-physical and mental health, and growth of Canada's children and youth is crucial to securing an equitable and prosperous Canada;
+And whereas investing in the well-being and growth of Canada's children and youth is crucial to securing an equitable and prosperous Canada;
 
 Now, therefore, His Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
@@ -96,31 +62,6 @@ The Governor in Council may, by order, designate any federal minister to be the 
 
     the complete elimination of child poverty,
 
-    equitable access to mental health
-services, resources and supports that
-respond to the diverse needs of all
-children and youth across Canada, with
-particular attention to the specific needs
-of children and youth from distinct
-communities and groups, including
-
-    First Nations, Inuit and Métis
-communities,
-
-    refugee or immigrant families,
-
-    persons living in rural or remote
-locations,
-
-    persons belonging to vulnerable
-groups,
-
-    Black persons and persons from
-other racialized communities, and
-
-    children and youth with
-disabilities,
-
     a high and consistent standard of living for children and youth across Canada, and
 
     full compliance with
@@ -129,25 +70,11 @@ disabilities,
 
     the Optional Protocol to the Convention on the Rights of the Child on the Involvement of Children in Armed Conflict, adopted by the United Nations General Assembly on May 25, 2000, and ratified by Canada on July 7, 2000,
 
-    the Optional Protocol to the Convention on the Rights of the Child on the Sale of Children, Child Prostitution and Child Pornography, adopted in the United Nations General Assembly on May 25, 2000, and ratified by Canada on September 14, 2005,
+    the Optional Protocol to the Convention on the Rights of the Child on the Sale of Children, Child Prostitution and Child Pornography, adopted in the United Nations General Assembly on May 25, 2000, and ratified by Canada on September 14, 2005, and
 
-    the United Nations Declaration on the Rights of Indigenous Peoples, adopted by the United Nations General Assembly on September 13, 2007, as it relates to children and youth, and
-
-    the United Nations Convention on the
-Rights of Persons with Disabilities
-adopted by the United Nations General
-Assembly on December 13, 2006, as it
-relates to children and youth;
+    the United Nations Declaration on the Rights of Indigenous Peoples, adopted by the United Nations General Assembly on September 13, 2007, as it relates to children and youth;
 
     identify a series of outcomes and quantifiable indicators that align with internationally accepted standards that would, if met, demonstrate that the Government of Canada's objectives have been met;
-
-    identify a series of outcomes and
-quantifiable indicators that are relevant to
-Indigenous children and youth, developed
-to reflect the unique realities and needs of
-First Nations, Inuit and Métis and
-informed by Indigenous perspectives and
-knowledge systems;
 
     provide an evidence-based assessment of whether the Government of Canada's objectives have been met;
 
@@ -171,9 +98,7 @@ knowledge systems;
 
     children and youths;
 
-    any ministers with responsibilities that are relevant to the well-being of children and youths in Canada, including the Minister of Health, the Minister of Justice, the Minister of Crown-Indigenous Relations, the Minister of
-Indigenous Services and the Minister of
-Employment and Social Development;
+    any ministers with responsibilities that are relevant to the well-being of children and youths in Canada, including the Minister of Health, the Minister of Justice and the Minister of Crown-Indigenous Relations;
 
     representatives of provincial and municipal governments, including those with responsibilities relevant to the well-being of children and youth;
 
@@ -183,36 +108,17 @@ Employment and Social Development;
 
     anyone else whom the Minister considers appropriate.
 
-  **(4)** In conducting consultations under
-paragraph (3)(a), the Minister must make
-every reasonable effort to ensure that
-child and youth participants are engaged
-in a culturally safe environment and in
-ways that respect their own respective cultures and that they are provided with
-the opportunity to participate in their own
-respective languages.
+  **(4)** The Minister must ensure that the children and youths consulted under paragraph (3)(a) accurately reflect the diversity of children and youth in Canada and their experiences.
 
-  **(5)** The Minister must ensure that the children and youths consulted under paragraph (3)(a) accurately reflect the diversity of children and youth in Canada and their experiences.
-
-  **(6)** In developing the strategy, the Minister must consider
+  **(5)** In developing the strategy, the Minister must consider
 
     Canada's human rights obligations;
 
     Jordan's Principle, as defined by the Canadian Human Rights Tribunal in `First Nations Child and Family Caring Society of Canada and Assembly of First Nations v. Attorney General of Canada (representing the Minister of Indian Affairs and Northern Development Canada)`;
 
-    the Inuit Child First Initiative;
+    the Inuit Child First Initiative; and
 
-    any relevant recommendations from the Truth and Reconciliation Commission and the National Inquiry into Missing and Murdered Indigenous Women and Girls;
-
-    the unique rights, interests, cultures
-and languages of First Nations, Inuit and
-Métis; and
-
-    any commitments made by the
-Government of Canada in relation to
-early learning and child care, including
-commitments specific to Indigenous early
-learning and child care.
+    any relevant recommendations from the Truth and Reconciliation Commission and the National Inquiry into Missing and Murdered Indigenous Women and Girls.
 
 
 ## Reports to Parliament
@@ -237,10 +143,5 @@ Within six months after the day on which this Act receives royal assent, and eve
 
     includes any other conclusions or recommendations about the strategy.
 
-  **(2)** In carrying out the duty referred to in
-subsection (1), the Minister shall consult
-with the persons identified in subsection 4(3)
-of this Act.
-
-  **(3)** The Minister must cause a copy of the report to be laid before each House of Parliament on any of the first 15 days on which that House is sitting following the report's completion.
+  **(2)** The Minister must cause a copy of the report to be laid before each House of Parliament on any of the first 15 days on which that House is sitting following the report's completion.
 
