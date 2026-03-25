@@ -1,14 +1,12 @@
 # Bill C-9: An Act to amend the Criminal Code (hate propaganda, hate crime and access to religious or cultural places)
 
-**Sponsor**: MINISTER OF JUSTICE
-
 ## Summary
 
 This enactment amends the `Criminal Code` to, among other things,
 
-repeal the requirement that the Attorney General consent to the institution of proceedings for hate propaganda offences;
-
 create an offence of wilfully promoting hatred against any identifiable group by displaying certain symbols in a public place;
+
+repeal the defence based on the expression of opinions on religious subjects or texts in relation to the offences of wilful promotion of hatred or antisemitism;
 
 create a hate crime offence of committing an offence under that Act or any other Act of Parliament that is motivated by hatred based on certain factors;
 
@@ -36,7 +34,9 @@ section 423.3 (intimidation — building used for religious worship, etc.),
 
 ### Section 3
 
-Subsection 318(3) of the Act is repealed.
+Subsection 318(3) of the Act is replaced by the following:
+
+**(3)** No proceeding shall be instituted under this section without the consent of the Attorney General.
 
 ### Section 4
 
@@ -46,9 +46,9 @@ Subsection 318(3) of the Act is repealed.
 
       a symbol that is principally used by, or principally associated with, a listed entity, as defined in subsection 83.01(1);
 
-      the Nazi Hakenkreuz, also known as the Nazi swastika, or the Nazi double Sig-Rune, also known as the SS bolts; or
+      the Nazi Hakenkreuz or the Nazi double Sig-Rune, also known as the SS bolts; or
 
-      a symbol that so nearly resembles a symbol described in paragraph (a) or (b) that it is likely to be confused with that symbol.
+      a symbol that so nearly resembles a symbol described in paragraph (a) or (b) that it is likely to be a symbol described in paragraph (a) or (b).
 
     **(2.3)** Everyone who commits an offence under subsection (2.2)
 
@@ -56,23 +56,31 @@ Subsection 318(3) of the Act is repealed.
 
       is guilty of an offence punishable on summary conviction.
 
+  **(1.1)** Paragraph 319(3)(b) of the Act is repealed.
+
+  **(1.2)** Paragraph 319(3.1)(b) of the Act is repealed.
+
   **(2)** Subsections 319(4) to (6) of the Act are replaced by the following:
 
     **(3.2)** No person shall be convicted of an offence under subsection (2.2)
 
-      if the display of the symbol was for a legitimate purpose, including a legitimate purpose related to journalism, religion, education or art, that is not contrary to the public interest; or
+      if the display of the symbol was for a legitimate purpose, including a legitimate purpose related to journalism, education or art, that is not contrary to the public interest; or
 
       if, in good faith, the display of the symbol was intended to point out, for the purpose of removal, matters producing or tending to produce feelings of hatred toward an identifiable group in Canada.
 
-    **(4)** If a person is convicted of an offence under subsection (1), (2), (2.1) or **(2.2)** or section 318, anything by means of or in relation to which the offence was committed, on such conviction, may, in addition to any other punishment imposed, be ordered by the presiding provincial court judge or judge to be forfeited to **His** Majesty in right of the province in which that person is convicted, for disposal as the Attorney General may direct.
+    **(4)** If a person is convicted of an offence under subsection (1), (2), (2.1) or (2.2) or section 318, anything by means of or in relation to which the offence was committed, on such conviction, may, in addition to any other punishment imposed, be ordered by the presiding provincial court judge or judge to be forfeited to His Majesty in right of the province in which that person is convicted, for disposal as the Attorney General may direct.
 
-    **(5)** Subsections 199(6) and (7) apply, with any modifications that the circumstances require, to subsection (1), (2), (2.1) or **(2.2)** or section 318.
+    **(5)** Subsections 199(6) and (7) apply, with any modifications that the circumstances require, to subsection (1), (2), (2.1) or (2.2) or section 318.
 
     **(6)** For greater certainty, the communication of a statement does not incite or promote hatred, for the purposes of this section, solely because it discredits, humiliates, hurts or offends.
 
+    **(6.1)** No proceeding for an offence under subsection (2), (2.1) or (2.2) shall be instituted without the consent of the Attorney General.
+
   **(3)** Subsection 319(7) of the Act is amended by adding the following in alphabetical order:
 
-    **hatred** means the emotion that involves detestation or vilification and that is stronger than disdain or dislike; (**haine**)
+    **hatred** means an emotion of an intense and
+extreme nature that is clearly associated with
+vilification and detestation; (**haine**)
 
 ### Section 5
 
@@ -139,10 +147,6 @@ The Act is amended by adding the following after section 423.2:
 
   **(4)** No person is guilty of an offence under subsection (2) by reason only that they attend at or near, or approach, a building or structure referred to in paragraph (1)(a) or a cemetery for the purpose only of obtaining or communicating information.
 
-### Section 7
-
-Subsections 430(4.1) and (4.101) of the Act are repealed.
-
 ### Section 8
 
 Paragraph (c) of the definition **secondary designated offence** in section 487.04 of the Act is amended by adding the following after subparagraph (xi.01):
@@ -157,7 +161,7 @@ subsection 423.3(1) (intimidation — building used for religious worship, etc.)
 
   **(2)** Paragraph 515(4.3)(b) of the Act is replaced by the following:
 
-    an offence described in section 264 or 423.1 or subsection 423.2(1) **or 423.3(1)**;
+    an offence described in section 264 or 423.1 or subsection 423.2(1) or 423.3(1);
 
 ### Section 10
 
@@ -172,6 +176,31 @@ The Act is amended by adding the following after section 726.2:
 ### Section 726.21
 
 When an offender is found guilty of an offence under subsection 320.1001(1), the court shall endorse, on the information or indictment, as the case may be, the included offence that has been proved by the evidence and, in the absence of evidence to the contrary, the endorsement is proof of that fact.
+
+
+## Clarification
+
+### Section 11.1
+
+  **(1)** For greater certainty, nothing in
+subsection 319(2) or (2.2) of the `Criminal Code`
+shall be construed as prohibiting a person from
+communicating a statement on a matter of public
+interest, including an educational, religious,
+political or scientific statement made in the course
+of a discussion, publication or debate, if they do
+not wilfully promote hatred against an identifiable
+group by communicating the statement.
+
+  **(2)** For greater certainty, nothing in subsection
+319(2.1) of the `Criminal Code` shall be construed
+as prohibiting a person from communicating a
+statement on a matter of public interest, including
+an educational, religious, political or scientific
+statement made in the course of a discussion,
+publication or debate, if they do not wilfully
+promote antisemitism by condoning, denying or
+downplaying the Holocaust.
 
 
 ## Coming into Force
