@@ -1,7 +1,5 @@
 # Bill C-8: An Act respecting cyber security, amending the Telecommunications Act and making consequential amendments to other Acts
 
-**Sponsor**: MINISTER OF PUBLIC SAFETY
-
 Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act respecting cyber security, amending the Telecommunications Act and making consequential amendments to other Acts*".
 
 ## Summary
@@ -587,13 +585,13 @@ For greater certainty, in sections 15.1, 15.2, 15.5 and 15.7, interference with 
 
 ### Section 15.1
 
-  **(1)** If the Governor in Council believes on reasonable grounds that it is necessary to do so to secure the Canadian telecommunications system against any threat, including that of interference, manipulation, disruption or degradation, **and that it is reasonable in relation to the gravity of that threat**, the Governor in Council may, by order and after consultation with the persons the Governor in Council considers appropriate,
+  **(1)** If the Governor in Council believes on reasonable grounds that it is necessary to do so to secure the Canadian telecommunications system against any threat, including that of interference, manipulation, disruption or degradation, and that it is reasonable in relation to the gravity of that threat, the Governor in Council may, by order and after consultation with the persons the Governor in Council considers appropriate,
 
     prohibit a telecommunications service provider from using all products and services provided by a specified person in, or in relation to, its telecommunications network or telecommunications facilities, or any part of those networks or facilities; or
 
     direct a telecommunications service provider to remove all products provided by a specified person from its telecommunications networks or telecommunications facilities, or any part of those networks or facilities.
 
-  **(2)** The provisions of the order must, in scope and substance, be **necessary and** reasonable in relation to the gravity of the threat, including that of interference, manipulation, disruption or degradation.
+  **(2)** The provisions of the order must, in scope and substance, be necessary and reasonable in relation to the gravity of the threat, including that of interference, manipulation, disruption or degradation.
 
   **(3)** The order may also include a provision prohibiting the disclosure of its existence, or some or all of its contents, by any person.
 
@@ -617,7 +615,7 @@ For greater certainty, in sections 15.1, 15.2, 15.5 and 15.7, interference with 
 
     its financial impact on the affected telecommunications service providers;
 
-    its effect on the provision of telecommunications services in Canada, **including on the confidentiality and security of telecommunications**;
+    its effect on the provision of telecommunications services in Canada, including on the confidentiality and security of telecommunications;
 
     its potential impacts on the privacy of Canadians; and
 
@@ -633,7 +631,7 @@ For greater certainty, in sections 15.1, 15.2, 15.5 and 15.7, interference with 
 
 ### Section 15.2
 
-  **(1)** If there are reasonable grounds to believe that it is necessary to do so to secure the Canadian telecommunications system against any threat, including that of interference, manipulation, disruption or degradation, **and that it is reasonable in relation to the gravity of that threat**, the Minister may, by order and after consultation with the Minister of Public Safety and Emergency Preparedness and with the persons the Minister considers appropriate,
+  **(1)** If there are reasonable grounds to believe that it is necessary to do so to secure the Canadian telecommunications system against any threat, including that of interference, manipulation, disruption or degradation, and that it is reasonable in relation to the gravity of that threat, the Minister may, by order and after consultation with the Minister of Public Safety and Emergency Preparedness and with the persons the Minister considers appropriate,
 
     prohibit a telecommunications service provider from providing any service to any specified person, including a telecommunications service provider; and
 
@@ -641,7 +639,7 @@ For greater certainty, in sections 15.1, 15.2, 15.5 and 15.7, interference with 
 
   **(1.1)** Despite paragraph (1)(b), no order may be made directing the suspension of service to an individual, unless the order is necessary to secure the Canadian telecommunications system against any specified threat of a technical nature.
 
-  **(2)** If the Minister believes on reasonable grounds that it is necessary to do so to secure the Canadian telecommunications system against any threat, including that of interference, manipulation, disruption or degradation, **and that it is reasonable to do so in relation to the gravity of that threat**, the Minister may, by order,
+  **(2)** If the Minister believes on reasonable grounds that it is necessary to do so to secure the Canadian telecommunications system against any threat, including that of interference, manipulation, disruption or degradation, and that it is reasonable to do so in relation to the gravity of that threat, the Minister may, by order,
 
     prohibit a telecommunications service provider from using any specified product or service in, or in relation to, its telecommunications network or telecommunications facilities, or any part of those networks or facilities;
 
@@ -673,7 +671,7 @@ For greater certainty, in sections 15.1, 15.2, 15.5 and 15.7, interference with 
 
   **(2.1)** Despite subsection (2), the Minister must not order the decoding of an encrypted private communication, as defined in section 183 of the `Criminal Code`.
 
-  **(3)** The provisions of an order made under subsection (1) or (2) must, in scope and substance, be **necessary and** reasonable in relation to the gravity of the threat, including that of interference, manipulation, disruption or degradation.
+  **(3)** The provisions of an order made under subsection (1) or (2) must, in scope and substance, be necessary and reasonable in relation to the gravity of the threat, including that of interference, manipulation, disruption or degradation.
 
   **(4)** For greater certainty, despite subsection (2), the Minister is not permitted to order a telecommunications service provider to intercept a private communication or a radio-based telephone communication, as those termsare defined in section 183 of the `Criminal Code`.
 
@@ -699,7 +697,7 @@ For greater certainty, in sections 15.1, 15.2, 15.5 and 15.7, interference with 
 
     its financial impact on the affected telecommunications service providers;
 
-    its effect on the provision of telecommunications services in Canada, **including on the confidentiality and security of telecommunications**;
+    its effect on the provision of telecommunications services in Canada, including on the confidentiality and security of telecommunications;
 
     its potential impacts on the privacy of Canadians; and
 
@@ -753,7 +751,7 @@ The Minister must, within 90 days after an order that includes a provision prohi
 
 ### Section 15.4
 
-The Minister may require any person to provide to the Minister or any person designated by the Minister, within any time and subject to any conditions that the Minister may specify, any information that the Minister believes on reasonable grounds is **reasonable to provide in relation to the gravity of the threat and necessary** for the purpose of making, amending or revoking an order under section `15.1` or `15.2` or a regulation under paragraph `15.8`(1)(a), or of verifying compliance or preventing non-compliance with such an order or regulation.
+The Minister may require any person to provide to the Minister or any person designated by the Minister, within any time and subject to any conditions that the Minister may specify, any information that the Minister believes on reasonable grounds is reasonable to provide in relation to the gravity of the threat and necessary for the purpose of making, amending or revoking an order under section `15.1` or `15.2` or a regulation under paragraph `15.8`(1)(a), or of verifying compliance or preventing non-compliance with such an order or regulation.
 
 ### Section 15.5
 
@@ -781,15 +779,15 @@ The Minister may require any person to provide to the Minister or any person des
 
   **(2.1)** Personal information and de-identified information that is not designated as confidential under subsection (1) is deemed, for the purposes of this Part, to be designated as such.
 
-  **(3)** Subject to **subsections** (4) **and (5)**, no person shall knowingly disclose or knowingly permit to be disclosed any information that is designated as confidential.
+  **(3)** Subject to subsections (4) and (5), no person shall knowingly disclose or knowingly permit to be disclosed any information that is designated as confidential.
 
-  **(4)** Information **referred to in any of paragraphs (1)(a) to (c)** that is designated as confidential may be disclosed, or be permitted to be disclosed, if
+  **(4)** Information referred to in any of paragraphs (1)(a) to (c) that is designated as confidential may be disclosed, or be permitted to be disclosed, if
 
     the disclosure is authorized or required by law;
 
     the person who designated the information as confidential consents to its disclosure;
 
-    the disclosure is necessary, in the Minister's opinion, **given the gravity of the threat**, to secure the Canadian telecommunications system, including against the threat of interference, manipulation or disruption; or
+    the disclosure is necessary, in the Minister's opinion, given the gravity of the threat, to secure the Canadian telecommunications system, including against the threat of interference, manipulation or disruption; or
 
     in the case of information referred to in paragraph (1)(d), the person to whom the information relates consents to its disclosure.
 
@@ -801,7 +799,7 @@ The Minister may require any person to provide to the Minister or any person des
 
 ### Section 15.6
 
-  **(1)** Despite section 15.5, to the extent that is **reasonable in relation to the gravity of the threat and**  necessary for any purpose related to the making, amending or revoking of an order under section `15.1` or `15.2` or a regulation under paragraph `15.8`(1)(a) — or to verifying compliance or preventing non-compliance with such an order or regulation — the following persons and entities may collect information from and disclose information to each other, including confidential information:
+  **(1)** Despite section 15.5, to the extent that is reasonable in relation to the gravity of the threat and  necessary for any purpose related to the making, amending or revoking of an order under section `15.1` or `15.2` or a regulation under paragraph `15.8`(1)(a) — or to verifying compliance or preventing non-compliance with such an order or regulation — the following persons and entities may collect information from and disclose information to each other, including confidential information:
 
     the Minister;
 
@@ -831,7 +829,7 @@ The Minister may require any person to provide to the Minister or any person des
 
   **(1)** Any information collected or obtained under this Act, other than information designated as confidential under subsection `15.5`(1), may be disclosed by the Minister under an agreement, a memorandum of understanding or an arrangement in writing between the Government of Canada and the government of a province or of a foreign state, an international organization of states or an international organization established by the governments of states, or any institution of any such government or organization, if
 
-    the Minister believes that the information may be relevant to securing the Canadian telecommunications system or the telecommunications system of a foreign state, including against the threat of interference, manipulation or disruption; **and**
+    the Minister believes that the information may be relevant to securing the Canadian telecommunications system or the telecommunications system of a foreign state, including against the threat of interference, manipulation or disruption; and
 
     the agreement, memorandum of understanding or arrangement provides for the disposal of that information once it is no longer necessary for the purpose for which it was disclosed.
 
@@ -2178,7 +2176,7 @@ Every designated operator or other person that contravenes or fails to comply wi
 
 The amount that may be fixed under any regulations made under paragraph `135`(1)(h) as the penalty for a violation must not be more than
 
-$**500,000**, in the case of an individual; and
+$500,000, in the case of an individual; and
 
 $15,000,000, in any other case.
 
@@ -2771,7 +2769,7 @@ to pay the amount determined under paragraph `131`(b).
 
     prescribing anything that is to be prescribed under this Act.
 
-  **(2)** In making regulations under subsection (1), the Governor in Council **must,** to **the extent possible**, ensure consistency with existing regulatory **and standards** regimes, such as those established by provincial regulatory agencies **or recognized industry standards development organizations**.
+  **(2)** In making regulations under subsection (1), the Governor in Council must, to the extent possible, ensure consistency with existing regulatory and standards regimes, such as those established by provincial regulatory agencies or recognized industry standards development organizations.
 
   **(3)** In making regulations under subsection (1), the Governor in Council may provide that compliance with a requirement under a regulatory or standards regime referred to in subsection (2) is deemed to be compliance with any corresponding requirement under this Act.
 
