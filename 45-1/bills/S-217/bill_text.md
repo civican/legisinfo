@@ -1,5 +1,7 @@
 # Bill S-217: An Act to amend the Canada Revenue Agency Act (reporting on unpaid income tax)
 
+**Sponsor**: Senator DOWNE
+
 ## Summary
 
 This enactment amends the `Canada Revenue Agency Act` to require the Canada Revenue Agency to list all convictions for tax evasion — including international tax evasion — in the annual report it submits to the Minister of National Revenue. It also requires the Agency, once every three years, to include statistics on the tax gap in the annual report. In addition, this enactment specifies that the Minister is to provide the Parliamentary Budget Officer with data on the tax gap.
@@ -47,4 +49,8 @@ The Act is amended by adding the following after section 88:
   **(3)** The Minister must provide the Parliamentary Budget Officer with the tax gap data collected and compiled under subsection (2) and any additional data that the Parliamentary Budget Officer considers relevant to conducting a further analysis of the tax gap.
 
   **(4)** Subsection 79.4(2) and sections 79.41 to 79.5 of the `Parliament of Canada Act` apply, with any necessary modifications, to the data referred to in subsection (3) as if that data were information requested under subsection 79.4(1) of that Act.
+
+
+> **Explanatory Note**:
+> New.
 
