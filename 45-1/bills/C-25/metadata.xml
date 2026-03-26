@@ -1,0 +1,1430 @@
+<Bills>
+  <Bill>
+    <Id>13986893</Id>
+    <NumberCode>C-25</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>25</Number>
+    <LongTitleEn>An Act to amend the Canada Elections Act and to enact An Act to change the names of certain electoral districts, 2026</LongTitleEn>
+    <LongTitleFr>Loi modifiant la Loi électorale du Canada et édictant la Loi de 2026 visant à changer le nom de certaines circonscriptions électorales</LongTitleFr>
+    <LongTitle>An Act to amend the Canada Elections Act and to enact An Act to change the names of certain electoral districts, 2026</LongTitle>
+    <ShortTitleEn>Strong and Free Elections Act</ShortTitleEn>
+    <ShortTitleFr>Loi visant à protéger nos élections et nos droits</ShortTitleFr>
+    <ShortTitle>Strong and Free Elections Act</ShortTitle>
+    <StatusId>357</StatusId>
+    <StatusNameEn>Royal assent received</StatusNameEn>
+    <StatusNameFr>Sanction royale reçue</StatusNameFr>
+    <StatusName>Royal assent received</StatusName>
+    <LatestCompletedMajorStageId>60046</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>Royal assent</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Sanction royale</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>Royal assent</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>Royal assent</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>2</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>Senate</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Sénat</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>Senate</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60050</OngoingStageId>
+    <OngoingStageNameEn>Royal assent</OngoingStageNameEn>
+    <OngoingStageNameFr>Sanction royale</OngoingStageNameFr>
+    <OngoingStageName>Royal assent</OngoingStageName>
+    <LatestCompletedBillStageId>60050</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Royal assent</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Sanction royale</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Royal assent</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>2</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>Senate</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Sénat</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>Senate</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2026-06-18T11:45:00</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>45</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>88468</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Steven</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>MacKinnon</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Steven MacKinnon</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Transport and Leader of the Government in the House of Commons</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre des Transports et leader du gouvernement à la Chambre des communes</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Transport and Leader of the Government in the House of Commons</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>96</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>HansardDisplay</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>HansardDisplay</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>HansardDisplay</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>999</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Gatineau</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Gatineau</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Gatineau</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60149</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Royal assent</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Sanction royale</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60050</LatestBillEventStageId>
+    <LatestBillEventTypeName>Royal assent</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2026-06-18T13:30:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>2</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>Senate</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Sénat</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>Senate</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>86</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2026-03-26T10:04:02.917</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime>2026-04-24T13:02:05</PassedHouseSecondReadingDateTime>
+    <PassedHouseThirdReadingDateTime>2026-06-11T19:50:35.54</PassedHouseThirdReadingDateTime>
+    <PassedSenateFirstReadingDateTime>2026-06-15T10:00:00</PassedSenateFirstReadingDateTime>
+    <PassedSenateSecondReadingDateTime>2026-06-16T11:00:00</PassedSenateSecondReadingDateTime>
+    <PassedSenateThirdReadingDateTime>2026-06-18T11:15:00</PassedSenateThirdReadingDateTime>
+    <ReceivedRoyalAssentDateTime>2026-06-18T11:45:00</ReceivedRoyalAssentDateTime>
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>true</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>true</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>true</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>true</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>true</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>true</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>&lt;div&gt;&lt;div&gt;On Thursday, May 7, 2026, the Senate adopted the following motion:&lt;p&gt;&lt;/p&gt;That, notwithstanding any provision of the Rules, previous order or usual practice:&lt;p&gt;&lt;/p&gt;1.	the &lt;a href="https://sencanada.ca/en/committees/banc/45-1" target="_blank"&gt;Standing Senate Committee on Banking, Commerce and the Economy&lt;/a&gt; be authorized to examine the subject matter of Bill C-20, An Act respecting the establishment of Build Canada Homes, introduced in the House of Commons on February 5, 2026, in advance of the said bill coming before the Senate, and that the committee submit its final report to the Senate no later than June 4, 2026;&lt;p&gt;&lt;/p&gt;2.	the &lt;a href="https://sencanada.ca/en/committees/lcjc/45-1" target="_blank"&gt;Standing Senate Committee on Legal and Constitutional Affairs&lt;/a&gt; be authorized to examine the subject matter of Bill C-25, An Act to amend the Canada Elections Act and to enact An Act to change the names of certain electoral districts, 2026, introduced in the House of Commons on March 26, 2026, in advance of the said bill coming before the Senate, and that the committee submit its final report to the Senate no later than June 4, 2026;&lt;p&gt;&lt;/p&gt;3.	the &lt;a href="https://sencanada.ca/en/committees/nffn/45-1" target="_blank"&gt;Standing Senate Committee on National Finance&lt;/a&gt; be authorized to examine the subject matter of Bill C-30, An Act to implement certain provisions of the spring economic update tabled in Parliament on April 28, 2026, introduced in the House of Commons on April 29, 2026, in advance of the said bill coming before the Senate, and that the committee submit its final report to the Senate no later than June 11, 2026;&lt;p&gt;&lt;/p&gt;4.	each of the aforementioned committees be authorized to deposit its report with the Clerk of the Senate if the Senate is not then sitting;&lt;p&gt;&lt;/p&gt;5.	as the report from each of the aforementioned committees is tabled in the Senate, it be placed on the Orders of the Day for consideration at the next sitting, provided that if a report is deposited with the Clerk, it be placed on the Orders of the Day for consideration at the next sitting following the one on which the depositing is recorded in the &lt;i&gt;Journals of the Senate&lt;/i&gt;; and&lt;p&gt;&lt;/p&gt;6.	for the purposes of its study, each of the aforementioned committees be authorized to meet even though the Senate may then be sitting or adjourned, with the application of rules 12-18(1) and 12-18(2) being suspended in relation thereto.&lt;/div&gt;&lt;/div&gt;</NotesEn>
+    <NotesFr>&lt;div&gt;Le jeudi 7 mai 2026, le Sénat a adopté la motion suivante :&lt;p&gt;&lt;/p&gt;Que, nonobstant toute disposition du Règlement, tout ordre antérieur ou toute pratique habituelle :&lt;p&gt;&lt;/p&gt;1.	le &lt;a href="https://sencanada.ca/fr/comites/banc/45-1" target="_blank"&gt;Comité sénatorial permanent des banques, du commerce et de l'économie&lt;/a&gt; soit autorisé à étudier la teneur du projet de loi C-20, Loi concernant la constitution de Maisons Canada, déposé à la Chambre des communes le 5 février 2026, avant que ce projet de loi soit soumis au Sénat, et que le comité soumette son rapport final au Sénat au plus tard le 4 juin 2026;&lt;p&gt;&lt;/p&gt;2.	le &lt;a href="https://sencanada.ca/fr/comites/lcjc/45-1" target="_blank"&gt;Comité sénatorial permanent des affaires juridiques et constitutionnelles&lt;/a&gt; soit autorisé à étudier la teneur du projet de loi C-25, Loi modifiant la Loi électorale du Canada et édictant la Loi de 2026 visant à changer le nom de certaines circonscriptions électorales, déposé à la Chambre des communes le 26 mars 2026, avant que ce projet de loi soit soumis au Sénat, et que le comité soumette son rapport final au Sénat au plus tard le 4 juin 2026;&lt;p&gt;&lt;/p&gt;3.	le &lt;a href="https://sencanada.ca/fr/comites/nffn/45-1" target="_blank"&gt;Comité sénatorial permanent des finances nationales&lt;/a&gt; soit autorisé à étudier la teneur du projet de loi C-30, Loi portant exécution de certaines dispositions de la mise à jour économique du printemps déposée au Parlement le 28 avril 2026, déposé à la Chambre des communes le 29 avril 2026, avant que ce projet de loi soit soumis au Sénat, et que le comité soumette son rapport final au Sénat au plus tard le 11 juin 2026;&lt;p&gt;&lt;/p&gt;4.	chacun des comités susmentionnés soit autorisé à déposer son rapport auprès de la greffière du Sénat si le Sénat ne siège pas à ce moment-là;&lt;p&gt;&lt;/p&gt;5.	au fur et à mesure que le rapport de chacun des comités susmentionnés est déposé au Sénat, il soit inscrit à l'ordre du jour pour étude à la prochaine séance, à condition que si un rapport est déposé auprès de la greffière, l'étude de ce rapport soit inscrite à l'ordre du jour de la séance qui suit celle où le dépôt est consigné aux &lt;i&gt;Journaux du Sénat&lt;/i&gt;;&lt;p&gt;&lt;/p&gt;6.	aux fins de son étude, chacun des comités susmentionnés soit autorisé à se réunir, même si le Sénat siège à ce moment-là ou est alors ajourné, l'application des articles 12-18(1) et 12-18(2) du Règlement étant suspendue à cet égard.&lt;/div&gt;</NotesFr>
+    <Notes>&lt;div&gt;&lt;div&gt;On Thursday, May 7, 2026, the Senate adopted the following motion:&lt;p&gt;&lt;/p&gt;That, notwithstanding any provision of the Rules, previous order or usual practice:&lt;p&gt;&lt;/p&gt;1.	the &lt;a href="https://sencanada.ca/en/committees/banc/45-1" target="_blank"&gt;Standing Senate Committee on Banking, Commerce and the Economy&lt;/a&gt; be authorized to examine the subject matter of Bill C-20, An Act respecting the establishment of Build Canada Homes, introduced in the House of Commons on February 5, 2026, in advance of the said bill coming before the Senate, and that the committee submit its final report to the Senate no later than June 4, 2026;&lt;p&gt;&lt;/p&gt;2.	the &lt;a href="https://sencanada.ca/en/committees/lcjc/45-1" target="_blank"&gt;Standing Senate Committee on Legal and Constitutional Affairs&lt;/a&gt; be authorized to examine the subject matter of Bill C-25, An Act to amend the Canada Elections Act and to enact An Act to change the names of certain electoral districts, 2026, introduced in the House of Commons on March 26, 2026, in advance of the said bill coming before the Senate, and that the committee submit its final report to the Senate no later than June 4, 2026;&lt;p&gt;&lt;/p&gt;3.	the &lt;a href="https://sencanada.ca/en/committees/nffn/45-1" target="_blank"&gt;Standing Senate Committee on National Finance&lt;/a&gt; be authorized to examine the subject matter of Bill C-30, An Act to implement certain provisions of the spring economic update tabled in Parliament on April 28, 2026, introduced in the House of Commons on April 29, 2026, in advance of the said bill coming before the Senate, and that the committee submit its final report to the Senate no later than June 11, 2026;&lt;p&gt;&lt;/p&gt;4.	each of the aforementioned committees be authorized to deposit its report with the Clerk of the Senate if the Senate is not then sitting;&lt;p&gt;&lt;/p&gt;5.	as the report from each of the aforementioned committees is tabled in the Senate, it be placed on the Orders of the Day for consideration at the next sitting, provided that if a report is deposited with the Clerk, it be placed on the Orders of the Day for consideration at the next sitting following the one on which the depositing is recorded in the &lt;i&gt;Journals of the Senate&lt;/i&gt;; and&lt;p&gt;&lt;/p&gt;6.	for the purposes of its study, each of the aforementioned committees be authorized to meet even though the Senate may then be sitting or adjourned, with the application of rules 12-18(1) and 12-18(2) being suspended in relation thereto.&lt;/div&gt;&lt;/div&gt;</Notes>
+    <ShortLegislativeSummaryEn>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information, Education and Research Services of the Library of Parliament. Meanwhile, the following executive summary is available.&lt;br/&gt;&lt;br/&gt;On 26 March 2026, the Minister of Transport and Leader of the Government in the House of Commons introduced Bill C-25, An Act to amend the Canada Elections Act and to enact An Act to change the names of certain electoral districts, 2026 (Strong and Free Elections Act) in the House of Commons and it was given first reading.   &lt;br/&gt;&lt;br/&gt;Bill C-25 amends the Canada Elections Act to, among other things,&lt;br/&gt;&lt;br/&gt;(a) establish new prohibitions and modify existing prohibitions, including in relation to foreign influence in the electoral process, accepting or offering a bribe, unauthorized use of a computer, making or publishing false or misleading information respecting elections and the candidate nomination process;&lt;br/&gt;&lt;br/&gt;(b) establish new prohibitions in relation to voting in a nomination contest or leadership contest;&lt;br/&gt;&lt;br/&gt;(c) prohibit the acceptance or use of certain contributions by political entities and third parties, including from anonymous sources;&lt;br/&gt;&lt;br/&gt;(d) provide for new requirements relating to political parties' policies for the protection of personal information; and&lt;br/&gt;&lt;br/&gt;(e) expand the scope of certain provisions relating to the administration and enforcement of that Act, including by increasing the maximum administrative monetary penalties that may be imposed for certain violations and by granting the Commissioner of Canada Elections certain powers in respect of any conspiracy or attempt to commit, or being an accessory after the fact or counselling in relation to, a contravention of that Act.&lt;br/&gt;&lt;br/&gt;The enactment also enacts a statute to change the name of certain electoral districts as a result of proposals by the members of the House of Commons who represent those electoral districts.&lt;/div&gt;</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>&lt;div&gt;Les Service d'information, d'éducation et de recherche parlementaires de la Bibliothèque du Parlement rédige actuellement le résumé législatif de ce projet de loi.  Entre-temps, le Service met à votre disposition le sommaire suivant.  &lt;br/&gt;&lt;br/&gt;Le 26 mars 2026, le ministre des Transports et leader du gouvernement à la Chambre des communes a déposé le projet de loi C-25, Loi modifiant la Loi électorale du Canada et édictant la Loi de 2026 visant à changer le nom de certaines circonscriptions électorales (Loi visant à protéger nos élections et nos droits) à la Chambre des communes en première lecture. &lt;br/&gt;&lt;br/&gt;Le projet de loi C-25 modifie la Loi électorale du Canada afin, notamment?:&lt;br/&gt;&lt;br/&gt;a) de créer de nouvelles interdictions et de modifier des interdictions existantes, entre autres en ce qui concerne l'influence étrangère sur le processus électoral, l'acceptation ou l'offre d'un pot-de-vin, l'utilisation non autorisée d'un ordinateur, la création et la publication de renseignements faux ou trompeurs concernant des élections et le processus d'investiture;&lt;br/&gt;&lt;br/&gt;b) de créer de nouvelles interdictions liées au vote à une course à l'investiture et à une course à la direction;&lt;br/&gt;&lt;br/&gt;c) d'interdire aux entités politiques et aux tiers d'accepter ou d'utiliser certaines contributions, y compris de sources anonymes;&lt;br/&gt;&lt;br/&gt;d) de prévoir de nouvelles exigences relatives aux politiques sur la protection des renseignements personnels des partis politiques;&lt;br/&gt;&lt;br/&gt;e) d'élargir la portée de certaines dispositions touchant l'exécution et le contrôle d'application de la loi, notamment en augmentant la valeur maximale des sanctions administratives pécuniaires pouvant être imposées pour certaines violations et en conférant au commissaire aux élections fédérales des pouvoirs concernant le complot en vue de commettre une contravention à la loi, la tentative de commettre une telle contravention, la complicité après le fait à son égard ou le conseil donné en vue de sa commission.&lt;br/&gt;&lt;br/&gt;Le texte édicte également une loi visant à changer le nom de certaines circonscriptions électorales en raison des propositions faites par les députés représentant ces circonscriptions.&lt;/div&gt;</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information, Education and Research Services of the Library of Parliament. Meanwhile, the following executive summary is available.&lt;br/&gt;&lt;br/&gt;On 26 March 2026, the Minister of Transport and Leader of the Government in the House of Commons introduced Bill C-25, An Act to amend the Canada Elections Act and to enact An Act to change the names of certain electoral districts, 2026 (Strong and Free Elections Act) in the House of Commons and it was given first reading.   &lt;br/&gt;&lt;br/&gt;Bill C-25 amends the Canada Elections Act to, among other things,&lt;br/&gt;&lt;br/&gt;(a) establish new prohibitions and modify existing prohibitions, including in relation to foreign influence in the electoral process, accepting or offering a bribe, unauthorized use of a computer, making or publishing false or misleading information respecting elections and the candidate nomination process;&lt;br/&gt;&lt;br/&gt;(b) establish new prohibitions in relation to voting in a nomination contest or leadership contest;&lt;br/&gt;&lt;br/&gt;(c) prohibit the acceptance or use of certain contributions by political entities and third parties, including from anonymous sources;&lt;br/&gt;&lt;br/&gt;(d) provide for new requirements relating to political parties' policies for the protection of personal information; and&lt;br/&gt;&lt;br/&gt;(e) expand the scope of certain provisions relating to the administration and enforcement of that Act, including by increasing the maximum administrative monetary penalties that may be imposed for certain violations and by granting the Commissioner of Canada Elections certain powers in respect of any conspiracy or attempt to commit, or being an accessory after the fact or counselling in relation to, a contravention of that Act.&lt;br/&gt;&lt;br/&gt;The enactment also enacts a statute to change the name of certain electoral districts as a result of proposals by the members of the House of Commons who represent those electoral districts.&lt;/div&gt;</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear>2026</StatuteYear>
+    <StatuteChapter>20</StatuteChapter>
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>45</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2026-03-26T10:04:02.917</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>100</Number>
+          <Date>2026-03-26T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2026-03-26T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2026-03-26T10:04:02.917</EventStartDateTime>
+          <EventEndDateTime>2026-03-26T10:04:02.917</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2026-03-26T10:04:02.917</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>45</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2026-04-24T13:02:05</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>30574</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Procedure and House Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la procédure et des affaires de la Chambre</CommitteeNameFr>
+          <CommitteeAcronym>PROC</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Procedure and House Affairs</CommitteeName>
+          <StudyActivityId>13475527</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>104</Number>
+          <Date>2026-04-16T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>110</Number>
+          <Date>2026-04-24T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>13469937</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>13992364</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>2nd reading and referral to committee - PROC</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>2e lecture et renvoi en comité - PROC</DecisionMotionTitleFr>
+          <DecisionMotionTitle>2nd reading and referral to committee - PROC</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>9</DecisionMethodId>
+          <DecisionMethodNameEn>On division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Avec dissidence</DecisionMethodNameFr>
+          <DecisionMethodName>On division</DecisionMethodName>
+          <DivisionNumber />
+          <DivisionVotesYeas />
+          <DivisionVotesNays />
+          <DivisionVotePaired />
+          <DecisionSittingDate>2026-04-24T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>110</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60121</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading and referral to committee</EventNameEn>
+          <EventNameFr>Deuxième lecture et renvoi en comité</EventNameFr>
+          <EventName>Second reading and referral to committee</EventName>
+          <EventDateTime>2026-04-24T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60121</EventTypeId>
+          <EventTypeNameEn>Second reading and referral to committee</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture et renvoi en comité</EventTypeNameFr>
+          <EventTypeName>Second reading and referral to committee</EventTypeName>
+          <EventStartDateTime>2026-04-24T13:02:05</EventStartDateTime>
+          <EventEndDateTime>2026-04-24T13:02:05</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2026-04-24T13:02:05</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>13443925</InterventionEventId>
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>88468</PersonId>
+          <PersonOfficialFirstName>Steven</PersonOfficialFirstName>
+          <PersonOfficialLastName>MacKinnon</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Steven MacKinnon</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>45</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>104</MeetingNumber>
+          <SpeechDateTime>2026-04-16T10:17:13</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>13444040</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>89219</PersonId>
+          <PersonOfficialFirstName>Michael</PersonOfficialFirstName>
+          <PersonOfficialLastName>Cooper</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Michael Cooper</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>45</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>104</MeetingNumber>
+          <SpeechDateTime>2026-04-16T10:46:49</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>13444319</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>104947</PersonId>
+          <PersonOfficialFirstName>Christine</PersonOfficialFirstName>
+          <PersonOfficialLastName>Normandin</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Christine Normandin</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Bloc Québécois</CaucusShortNameEn>
+          <CaucusShortNameFr>Bloc Québécois</CaucusShortNameFr>
+          <CaucusShortName>Bloc Québécois</CaucusShortName>
+          <ParliamentNumber>45</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>104</MeetingNumber>
+          <SpeechDateTime>2026-04-16T11:17:10</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>45</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2026-06-03T09:23:04.653</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>30574</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Procedure and House Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la procédure et des affaires de la Chambre</CommitteeNameFr>
+          <CommitteeAcronym>PROC</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Procedure and House Affairs</CommitteeName>
+          <StudyActivityId>13475527</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented with amendments</NameEn>
+          <NameFr>Présentation du rapport de comité avec des amendements</NameFr>
+          <Name>Committee report presented with amendments</Name>
+          <Number>128</Number>
+          <Date>2026-06-03T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>30574</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Procedure and House Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la procédure et des affaires de la Chambre</CommitteeNameFr>
+          <CommitteeAcronym>PROC</CommitteeAcronym>
+          <Number>32</Number>
+          <Date>2026-05-05T00:00:00</Date>
+          <CommitteeName>Standing Committee on Procedure and House Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>30574</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Procedure and House Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la procédure et des affaires de la Chambre</CommitteeNameFr>
+          <CommitteeAcronym>PROC</CommitteeAcronym>
+          <Number>33</Number>
+          <Date>2026-05-07T00:00:00</Date>
+          <CommitteeName>Standing Committee on Procedure and House Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>30574</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Procedure and House Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la procédure et des affaires de la Chambre</CommitteeNameFr>
+          <CommitteeAcronym>PROC</CommitteeAcronym>
+          <Number>34</Number>
+          <Date>2026-05-26T00:00:00</Date>
+          <CommitteeName>Standing Committee on Procedure and House Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>30574</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Procedure and House Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la procédure et des affaires de la Chambre</CommitteeNameFr>
+          <CommitteeAcronym>PROC</CommitteeAcronym>
+          <Number>35</Number>
+          <Date>2026-05-28T00:00:00</Date>
+          <CommitteeName>Standing Committee on Procedure and House Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>30574</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Procedure and House Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent de la procédure et des affaires de la Chambre</CommitteeNameFr>
+          <CommitteeAcronym>PROC</CommitteeAcronym>
+          <Number>36</Number>
+          <Date>2026-06-02T00:00:00</Date>
+          <CommitteeName>Standing Committee on Procedure and House Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented with amendments</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité avec des amendements</EventNameFr>
+          <EventName>Committee report presented with amendments</EventName>
+          <EventDateTime>2026-06-03T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId>14139407</CommitteeReportId>
+          <CommitteeReportNumber>29</CommitteeReportNumber>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2026-06-03T09:23:04.653</EventStartDateTime>
+          <EventEndDateTime>2026-06-03T09:23:04.653</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2026-06-03T09:23:04.653</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>45</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2026-06-10T21:36:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>133</Number>
+          <Date>2026-06-10T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60285</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Concurrence at report stage</EventNameEn>
+          <EventNameFr>Adoption à l'étape du rapport</EventNameFr>
+          <EventName>Concurrence at report stage</EventName>
+          <EventDateTime>2026-06-10T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60285</EventTypeId>
+          <EventTypeNameEn>Concurrence at report stage</EventTypeNameEn>
+          <EventTypeNameFr>Adoption à l'étape du rapport</EventTypeNameFr>
+          <EventTypeName>Concurrence at report stage</EventTypeName>
+          <EventStartDateTime>2026-06-10T21:36:00</EventStartDateTime>
+          <EventEndDateTime>2026-06-10T21:36:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2026-06-10T21:36:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>45</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2026-06-11T19:50:35.54</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>133</Number>
+          <Date>2026-06-10T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>134</Number>
+          <Date>2026-06-11T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>13576874</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>13992366</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>3rd reading</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>3e lecture</DecisionMotionTitleFr>
+          <DecisionMotionTitle>3rd reading</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId />
+          <DecisionMethodNameEn>
+          </DecisionMethodNameEn>
+          <DecisionMethodNameFr>
+          </DecisionMethodNameFr>
+          <DecisionMethodName>
+          </DecisionMethodName>
+          <DivisionNumber />
+          <DivisionVotesYeas />
+          <DivisionVotesNays />
+          <DivisionVotePaired />
+          <DecisionSittingDate>2026-06-11T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>134</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2026-06-11T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2026-06-11T19:50:35.54</EventStartDateTime>
+          <EventEndDateTime>2026-06-11T19:50:35.54</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2026-06-11T19:50:35.54</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60038</BillStageId>
+        <BillStageNameEn>Senate pre-study</BillStageNameEn>
+        <BillStageNameFr>Étude préalable au Sénat</BillStageNameFr>
+        <BillStageName>Senate pre-study</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>45</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2026-06-04T13:55:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Pre-study of House bill</NameEn>
+          <NameFr>Étude préalable d'un projet de loi émanant de la Chambre des communes</NameFr>
+          <Name>Pre-study of House bill</Name>
+          <Number>73</Number>
+          <Date>2026-05-07T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Pre-Study of Commons Bill Completed</NameEn>
+          <NameFr>Étude préalable d'un projet de loi émanant de la Chambre des communes complétée</NameFr>
+          <Name>Pre-Study of Commons Bill Completed</Name>
+          <Number>79</Number>
+          <Date>2026-06-04T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>40</Number>
+          <Date>2026-05-27T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>41</Number>
+          <Date>2026-05-28T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>42</Number>
+          <Date>2026-06-03T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60109</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Pre-study of House bill</EventNameEn>
+          <EventNameFr>Étude préalable d'un projet de loi émanant de la Chambre des communes</EventNameFr>
+          <EventName>Pre-study of House bill</EventName>
+          <EventDateTime>2026-05-07T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>false</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <SignificantEvents>
+          <EventTypeId>90362</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Pre-Study of Commons Bill Completed</EventNameEn>
+          <EventNameFr>Étude préalable d'un projet de loi émanant de la Chambre des communes complétée</EventNameFr>
+          <EventName>Pre-Study of Commons Bill Completed</EventName>
+          <EventDateTime>2026-06-04T13:55:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>90362</EventTypeId>
+          <EventTypeNameEn>Pre-Study of Commons Bill Completed</EventTypeNameEn>
+          <EventTypeNameFr>Étude préalable d'un projet de loi émanant de la Chambre des communes complétée</EventTypeNameFr>
+          <EventTypeName>Pre-Study of Commons Bill Completed</EventTypeName>
+          <EventStartDateTime>2026-06-04T13:55:00</EventStartDateTime>
+          <EventEndDateTime>2026-06-04T13:55:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2026-06-04T13:55:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>45</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2026-06-15T10:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>First reading</NameEn>
+          <NameFr>Première lecture</NameFr>
+          <Name>First reading</Name>
+          <Number>83</Number>
+          <Date>2026-06-15T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60111</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>First reading</EventNameEn>
+          <EventNameFr>Première lecture</EventNameFr>
+          <EventName>First reading</EventName>
+          <EventDateTime>2026-06-15T10:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60111</EventTypeId>
+          <EventTypeNameEn>First reading</EventTypeNameEn>
+          <EventTypeNameFr>Première lecture</EventTypeNameFr>
+          <EventTypeName>First reading</EventTypeName>
+          <EventStartDateTime>2026-06-15T10:00:00</EventStartDateTime>
+          <EventEndDateTime>2026-06-15T10:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2026-06-15T10:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>45</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2026-06-16T11:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>84</Number>
+          <Date>2026-06-16T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60120</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading</EventNameEn>
+          <EventNameFr>Deuxième lecture</EventNameFr>
+          <EventName>Second reading</EventName>
+          <EventDateTime>2026-06-16T11:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <SignificantEvents>
+          <EventTypeId>60123</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Referral to committee</EventNameEn>
+          <EventNameFr>Renvoi en comité</EventNameFr>
+          <EventName>Referral to committee</EventName>
+          <EventDateTime>2026-06-16T11:05:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60120</EventTypeId>
+          <EventTypeNameEn>Second reading</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture</EventTypeNameFr>
+          <EventTypeName>Second reading</EventTypeName>
+          <EventStartDateTime>2026-06-16T11:00:00</EventStartDateTime>
+          <EventEndDateTime>2026-06-16T11:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2026-06-16T11:05:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>122303</PersonId>
+          <PersonOfficialFirstName>Farah</PersonOfficialFirstName>
+          <PersonOfficialLastName>Mohamed</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Farah Mohamed</PersonName>
+          <SenateSystemAffiliationId>236848</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Independent Senators Group</CaucusShortNameEn>
+          <CaucusShortNameFr>Groupe des sénateurs indépendants</CaucusShortNameFr>
+          <CaucusShortName>Independent Senators Group</CaucusShortName>
+          <ParliamentNumber>45</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>84</MeetingNumber>
+          <SpeechDateTime>2026-06-16T00:00:00</SpeechDateTime>
+          <UrlEn>https://sencanada.ca/en/content/sen/chamber/451/debates/084db_2026-06-16-e#38</UrlEn>
+          <UrlFr>https://sencanada.ca/fr/content/sen/chamber/451/debates/084db_2026-06-16-f#38</UrlFr>
+          <Url>https://sencanada.ca/en/content/sen/chamber/451/debates/084db_2026-06-16-e#38</Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>2</ChamberOrganizationId>
+          <InterventionEventId />
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>29971</PersonId>
+          <PersonOfficialFirstName>Leo</PersonOfficialFirstName>
+          <PersonOfficialLastName>Housakos</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Leo Housakos</PersonName>
+          <SenateSystemAffiliationId>2818</SenateSystemAffiliationId>
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>45</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>84</MeetingNumber>
+          <SpeechDateTime>2026-06-16T00:00:00</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>true</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>45</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2026-06-18T10:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented without amendment</NameEn>
+          <NameFr>Présentation du rapport de comité sans amendement</NameFr>
+          <Name>Committee report presented without amendment</Name>
+          <Number>86</Number>
+          <Date>2026-06-18T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+          <CommitteeAcronym>LCJC</CommitteeAcronym>
+          <Number>52</Number>
+          <Date>2026-06-17T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented without amendment</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité sans amendement</EventNameFr>
+          <EventName>Committee report presented without amendment</EventName>
+          <EventDateTime>2026-06-18T10:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2026-06-18T10:00:00</EventStartDateTime>
+          <EventEndDateTime>2026-06-18T10:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2026-06-18T10:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>45</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2026-06-18T11:15:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>86</Number>
+          <Date>2026-06-18T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2026-06-18T11:15:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2026-06-18T11:15:00</EventStartDateTime>
+          <EventEndDateTime>2026-06-18T11:15:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2026-06-18T11:15:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <RoyalAssent>
+        <BillStageId>60050</BillStageId>
+        <BillStageNameEn>Royal assent</BillStageNameEn>
+        <BillStageNameFr>Sanction royale</BillStageNameFr>
+        <BillStageName>Royal assent</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>45</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>0</State>
+        <StateNameEn />
+        <StateNameFr />
+        <StateAsOfDate />
+        <StateName />
+        <Committee />
+        <Sittings>
+          <NameEn>Royal assent</NameEn>
+          <NameFr>Sanction royale</NameFr>
+          <Name>Royal assent</Name>
+          <Number>86</Number>
+          <Date>2026-06-18T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60149</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Royal assent</EventNameEn>
+          <EventNameFr>Sanction royale</EventNameFr>
+          <EventName>Royal assent</EventName>
+          <EventDateTime>2026-06-18T11:45:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60149</EventTypeId>
+          <EventTypeNameEn>Royal assent</EventTypeNameEn>
+          <EventTypeNameFr>Sanction royale</EventTypeNameFr>
+          <EventTypeName>Royal assent</EventTypeName>
+          <EventStartDateTime>2026-06-18T11:45:00</EventStartDateTime>
+          <EventEndDateTime>2026-06-18T11:45:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2026-06-18T11:45:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </RoyalAssent>
+    </BillStages>
+    <Publications>
+      <PublicationId>13992865</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>14147708</PublicationId>
+      <PublicationTypeId>80702</PublicationTypeId>
+      <PublicationTypeNameEn>As amended by committee</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel que modifié par le comité</PublicationTypeNameFr>
+      <PublicationTypeName>As amended by committee</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>14181453</PublicationId>
+      <PublicationTypeId>80703</PublicationTypeId>
+      <PublicationTypeNameEn>As passed by the House of Commons</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel qu'adopté par la Chambre des communes</PublicationTypeNameFr>
+      <PublicationTypeName>As passed by the House of Commons</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>14204974</PublicationId>
+      <PublicationTypeId>80704</PublicationTypeId>
+      <PublicationTypeNameEn>Royal Assent</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Royal Assent</PublicationTypeNameFr>
+      <PublicationTypeName>Royal Assent</PublicationTypeName>
+    </Publications>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>151</DivisionNumber>
+      <DivisionSubjectEn>Concurrence at report stage of Bill C-25, An Act to amend the Canada Elections Act and to enact An Act to change the names of certain electoral districts, 2026</DivisionSubjectEn>
+      <DivisionSubjectFr>Adoption à l'étape du rapport du projet de loi C-25, Loi modifiant la Loi électorale du Canada et édictant la Loi de 2026 visant à changer le nom de certaines circonscriptions électorales</DivisionSubjectFr>
+      <DivisionSubject>Concurrence at report stage of Bill C-25, An Act to amend the Canada Elections Act and to enact An Act to change the names of certain electoral districts, 2026</DivisionSubject>
+      <DivisionVotesYeas>314</DivisionVotesYeas>
+      <DivisionVotesNays>0</DivisionVotesNays>
+      <DivisionVotePaired>14</DivisionVotePaired>
+      <DivisionVoteTotal>328</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2026-06-10T14:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>154</DivisionNumber>
+      <DivisionSubjectEn>Time allocation for Bill C-25, An Act to amend the Canada Elections Act and to enact An Act to change the names of certain electoral districts, 2026</DivisionSubjectEn>
+      <DivisionSubjectFr>Attribution de temps pour le projet de loi C-25, Loi modifiant la Loi électorale du Canada et édictant la Loi de 2026 visant à changer le nom de certaines circonscriptions électorales</DivisionSubjectFr>
+      <DivisionSubject>Time allocation for Bill C-25, An Act to amend the Canada Elections Act and to enact An Act to change the names of certain electoral districts, 2026</DivisionSubject>
+      <DivisionVotesYeas>167</DivisionVotesYeas>
+      <DivisionVotesNays>156</DivisionVotesNays>
+      <DivisionVotePaired>12</DivisionVotePaired>
+      <DivisionVoteTotal>335</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2026-06-11T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Charter Statement - Bill C-25: An Act to amend the Canada Elections Act and to enact An Act to change the names of certain electoral districts (Tabled 2026-04-28)</TitleEn>
+      <TitleFr>Énoncé concernant la Charte - Projet de loi C-25 : Loi modifiant la Loi électorale du Canada et édictant la Loi de 2026 visant à changer le nom de certaines circonscriptions électorales (Déposé 2026-04-28)</TitleFr>
+      <Title>Charter Statement - Bill C-25: An Act to amend the Canada Elections Act and to enact An Act to change the names of certain electoral districts (Tabled 2026-04-28)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.justice.gc.ca/eng/csj-sjc/pl/charter-charte/c25_2.html</UrlEn>
+      <UrlFr>https://www.justice.gc.ca/fra/sjc-csj/pl/charte-charter/c25_2.html</UrlFr>
+      <Url>https://www.justice.gc.ca/eng/csj-sjc/pl/charter-charte/c25_2.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Office of the Chief Electoral Officer of Canada. Protecting Against Threats to the Electoral Process. November 2024.</TitleEn>
+      <TitleFr>Bureau du directeur général des élections du Canada. Protéger le processus électoral contre les menaces. Novembre 2024.</TitleFr>
+      <Title>Office of the Chief Electoral Officer of Canada. Protecting Against Threats to the Electoral Process. November 2024.</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://elections.ca/res/rep/oth/prthr/rpt/rpt_e.pdf</UrlEn>
+      <UrlFr>https://elections.ca/res/rep/oth/prthr/rpt/rpt_f.pdf</UrlFr>
+      <Url>https://elections.ca/res/rep/oth/prthr/rpt/rpt_e.pdf</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>House of Commons, Standing Committee on Access to Information, Privacy and Ethics. Foreign Interference and the Threats to the Integrity of Democratic Institutions, Intellectual Property and the Canadian State, 10th report, 1st session, 44th Parliament, October 2023.</TitleEn>
+      <TitleFr>Chambre des communes, Comité permanent de l'accès à l'information, de la protection des renseignements personnels et de l'éthique. L'ingérence étrangère et les menaces entourant l'intégrité des institutions démocratiques, de la propriété intellectuelle et de l'état canadien, Dixième rapport, 1re session, 44e législature, octobre 2023.</TitleFr>
+      <Title>House of Commons, Standing Committee on Access to Information, Privacy and Ethics. Foreign Interference and the Threats to the Integrity of Democratic Institutions, Intellectual Property and the Canadian State, 10th report, 1st session, 44th Parliament, October 2023.</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.ourcommons.ca/DocumentViewer/en/44-1/ETHI/report-10</UrlEn>
+      <UrlFr>https://www.noscommunes.ca/documentviewer/fr/44-1/ETHI/rapport-10</UrlFr>
+      <Url>https://www.ourcommons.ca/DocumentViewer/en/44-1/ETHI/report-10</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Government of Canada Strengthens Election Protections Following Royal Assent of Bill C-25, The Strong and Free Elections Act (Privy Council Office | 2026-06-18)</TitleEn>
+      <TitleFr>Le gouvernement du Canada peut mieux protéger les processus électoraux grâce à la sanction royale du projet de loi C-25, la Loi visant à protéger nos élections et nos droits (Bureau du Conseil privé | 2026-06-18)</TitleFr>
+      <Title>Government of Canada Strengthens Election Protections Following Royal Assent of Bill C-25, The Strong and Free Elections Act (Privy Council Office | 2026-06-18)</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/democratic-institutions/news/2026/06/government-of-canada-strengthens-election-protections-following-royal-assent-of-bill-c-25-the-strong-and-free-elections-act.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/institutions-democratiques/nouvelles/2026/06/le-gouvernement-du-canada-peut-mieux-proteger-les-processus-electoraux-grace-a-la-sanction-royale-du-projet-de-loi-c-25-la-loi-visant-a-proteger-no.html</UrlFr>
+      <Url>https://www.canada.ca/en/democratic-institutions/news/2026/06/government-of-canada-strengthens-election-protections-following-royal-assent-of-bill-c-25-the-strong-and-free-elections-act.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Government of Canada introduces measures to further protect Canada's electoral processes and strengthen democracy (Privy Council Office | 2026-03-26)</TitleEn>
+      <TitleFr>Le gouvernement du Canada annonce de nouvelles mesures visant à mieux protéger les processus électoraux et à renforcer la démocratie au Canada (Bureau du Conseil privé | 2026-03-26</TitleFr>
+      <Title>Government of Canada introduces measures to further protect Canada's electoral processes and strengthen democracy (Privy Council Office | 2026-03-26)</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/democratic-institutions/news/2026/03/government-of-canada-introduces-measures-to-further-protect-canadas-electoral-processes-and-strengthen-democracy.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/institutions-democratiques/nouvelles/2026/03/le-gouvernement-du-canada-annonce-de-nouvelles-mesures-visant-a-mieux-proteger-les-processus-electoraux-et-a-renforcer-la-democratie-au-canada.html</UrlFr>
+      <Url>https://www.canada.ca/en/democratic-institutions/news/2026/03/government-of-canada-introduces-measures-to-further-protect-canadas-electoral-processes-and-strengthen-democracy.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Strong and Free Elections Act - Amendments to the Canada Elections Act (Privy Council Office | 2026-03-26)</TitleEn>
+      <TitleFr>Projet de loi visant à assurer la tenue d'élections libres et robustes – Modifications à la Loi électorale du Canada (Bureau du Conseil privé | 2026-03-26)</TitleFr>
+      <Title>Strong and Free Elections Act - Amendments to the Canada Elections Act (Privy Council Office | 2026-03-26)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/democratic-institutions/news/2026/03/strong-and-free-elections-act---amendments-to-the-canada-elections-act.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/institutions-democratiques/nouvelles/2026/03/projet-de-loi-visant-a-assurer-la-tenue-delections-libres-et-robustes--modifications-a-la-loi-electorale-du-canada.html</UrlFr>
+      <Url>https://www.canada.ca/en/democratic-institutions/news/2026/03/strong-and-free-elections-act---amendments-to-the-canada-elections-act.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Canada. Privy Council Office. (n.d.). The plan to protect Canada's democracy. https://www.canada.ca/en/democratic-institutions/services/protecting-democracy.html</TitleEn>
+      <TitleFr>Canada. Bureau du Conseil privé. (s.d.). Plan pour protéger la démocratie canadienne. https://www.canada.ca/fr/institutions-democratiques/services/protection-democratie.html</TitleFr>
+      <Title>Canada. Privy Council Office. (n.d.). The plan to protect Canada's democracy. https://www.canada.ca/en/democratic-institutions/services/protecting-democracy.html</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/democratic-institutions/services/protecting-democracy.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/institutions-democratiques/services/protection-democratie.html</UrlFr>
+      <Url>https://www.canada.ca/en/democratic-institutions/services/protecting-democracy.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Canada. Department of Foreign Affairs, Trade and Development. (n.d.). Rapid Response Mechanism Canada: Global Affairs Canada. https://www.international.gc.ca/transparency-transparence/rapid-response-mechanism-mecanisme-reponse-rapide/index.aspx?lang=eng</TitleEn>
+      <TitleFr>Canada. Ministère des Affaires étrangères, du Commerce et du Développement. (s.d.). Mécanisme de réponse rapide du Canada : Affaires mondiales Canada. https://www.international.gc.ca/transparency-transparence/rapid-response-mechanism-mecanisme-reponse-rapide/index.aspx?lang=fra</TitleFr>
+      <Title>Canada. Department of Foreign Affairs, Trade and Development. (n.d.). Rapid Response Mechanism Canada: Global Affairs Canada. https://www.international.gc.ca/transparency-transparence/rapid-response-mechanism-mecanisme-reponse-rapide/index.aspx?lang=eng</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.international.gc.ca/transparency-transparence/rapid-response-mechanism-mecanisme-reponse-rapide/index.aspx?lang=eng</UrlEn>
+      <UrlFr>https://www.international.gc.ca/transparency-transparence/rapid-response-mechanism-mecanisme-reponse-rapide/index.aspx?lang=fra</UrlFr>
+      <Url>https://www.international.gc.ca/transparency-transparence/rapid-response-mechanism-mecanisme-reponse-rapide/index.aspx?lang=eng</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Canada. Privy Council Office. (n.d.). Keeping Canada's Election Free and Fair: Canada's Coordinated Response to Threats to Elections (CRTE). https://www.canada.ca/en/democratic-institutions/services/protecting-democracy/coordinated-response-threats-elections.html</TitleEn>
+      <TitleFr>Canada. Bureau du Conseil privé. (s.d.). Garantir des élections libres et justes au Canada : la réponse coordonnée aux menaces pesant sur les élections (RCME). https://www.canada.ca/fr/institutions-democratiques/services/protection-democratie/reponse-coordonnee-menaces-elections.html</TitleFr>
+      <Title>Canada. Privy Council Office. (n.d.). Keeping Canada's Election Free and Fair: Canada's Coordinated Response to Threats to Elections (CRTE). https://www.canada.ca/en/democratic-institutions/services/protecting-democracy/coordinated-response-threats-elections.html</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/democratic-institutions/services/protecting-democracy/coordinated-response-threats-elections.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/institutions-democratiques/services/protection-democratie/reponse-coordonnee-menaces-elections.html</UrlFr>
+      <Url>https://www.canada.ca/en/democratic-institutions/services/protecting-democracy/coordinated-response-threats-elections.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Canada. Privy Council Office. (n.d.). Cabinet Directive on the Coordinated Response to Threats to Elections (CRTE). https://www.canada.ca/en/democratic-institutions/services/protecting-democracy/coordinated-response-threats-elections/cabinet.html</TitleEn>
+      <TitleFr>Canada. Bureau du Conseil privé. (s.d.). Directive du Cabinet sur la réponse coordonnée aux menaces pesant sur les élections (RCME. https://www.canada.ca/fr/institutions-democratiques/services/protection-democratie/reponse-coordonnee-menaces-elections/cabinet.html.</TitleFr>
+      <Title>Canada. Privy Council Office. (n.d.). Cabinet Directive on the Coordinated Response to Threats to Elections (CRTE). https://www.canada.ca/en/democratic-institutions/services/protecting-democracy/coordinated-response-threats-elections/cabinet.html</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/democratic-institutions/services/protecting-democracy/coordinated-response-threats-elections/cabinet.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/institutions-democratiques/services/protection-democratie/reponse-coordonnee-menaces-elections/cabinet.html</UrlFr>
+      <Url>https://www.canada.ca/en/democratic-institutions/services/protecting-democracy/coordinated-response-threats-elections/cabinet.html</Url>
+    </WebReferences>
+    <SenatePreStudyCommitteeDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <CommitteeOrganizationId>16102</CommitteeOrganizationId>
+      <CommitteeNameEn>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeNameEn>
+      <CommitteeNameFr>Comité sénatorial permanent des affaires juridiques et constitutionnelles</CommitteeNameFr>
+      <CommitteeAcronym>LCJC</CommitteeAcronym>
+      <CommitteeName>Standing Senate Committee on Legal and Constitutional Affairs</CommitteeName>
+      <StudyActivityId />
+      <OrganizationTypeId />
+      <ParentCommittee />
+      <IsSubCommittee>false</IsSubCommittee>
+      <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+      <IsSenateCommittee>false</IsSenateCommittee>
+      <IsJointCommittee>false</IsJointCommittee>
+    </SenatePreStudyCommitteeDetails>
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>true</IsSessionOngoing>
+  </Bill>
+</Bills>
