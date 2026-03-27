@@ -82,6 +82,8 @@ clarify that a person who discloses information under section 16 of that Act wit
 
 It also makes a related amendment to the `Customs Act`.
 
+Part 12 provides for a parliamentary review, after five years, of the operation and effect of the amendments made by this enactment.
+
 
 ## TABLE OF PROVISIONS
 
@@ -145,6 +147,11 @@ It also makes a related amendment to the `Customs Act`.
 
 
 ## `Sex Offender Information Registration Act`
+
+
+
+
+## Review
 
 
 
@@ -1209,6 +1216,27 @@ do not apply to a claim for refugee protection made before the day on which Bill
 apply to a claim for refugee protection made during the period beginning on the day on which that Bill was introduced and ending on the day before the day on which this Act receives royal assent.
 
 
+### Report
+
+### Section 75.1
+
+  **(1)** At the start of the fifth year after the day on which this Part comes into force, the Minister of Citizenship and Immigration must prepare a report in respect of the application of paragraph 101(1)(b.1) of the `Immigration and Refugee Protection Act`.
+
+  **(2)** The Minister must cause the report to be tabled in each House of Parliament on any of the first 15 days on which that House is sitting after the day on which the report is prepared.
+
+  **(3)** The report must include
+
+    for the calendar year in which this Part came into force and each subsequent calendar year, the average number of days between the day on which a refugee protection claimant entered Canada and the day on which they made the claim, disaggregated by the type of immigration document held by the refugee protection claimant;
+
+    the number of refugee protection claimants whose claims were ineligible by reason of paragraph 101(1)(b.1) of the `Immigration and Refugee Protection Act`;
+
+    the proportion of refugee protection claimants referred to in paragraph (b) who ex-ited and re-entered Canada after the day of entry referred to in paragraph 101(1)(b.1) of that Act;
+
+    the number of refugee protection claimants referred to in paragraph (b) who applied for protection under subsection 112(1) of that Act, as well as the number of the claimants whose applications were allowed and the number of the claimants whose applications were not allowed; and
+
+    any recommendations for changes in relation to the application of paragraph 101(1)(b.1) of that Act.
+
+
 ## `Proceeds of Crime (Money Laundering) and Terrorist Financing Act`
 
 
@@ -2027,4 +2055,13 @@ paragraphs 8.2(1)(f) and (2)(g).
 Subsection 107(5) of the `Customs Act` is amended by adding the following after paragraph (l.3):
 
 any person who may receive information under section 15.2 or 15.3 of the `Sex Offender Information Registration Act`, solely for the purpose for which the information is provided;
+
+
+## Review
+
+### Section 138
+
+  **(1)** At the start of the fifth year after the day on which this Act receives royal assent, a comprehensive review of the operation and effect of the amendments made by this Act must be undertaken by the committee of the Senate, of the House of Commons or of both Houses of Parliament that is designated or established for that purpose.
+
+  **(2)** The committee must, within one year after the review is undertaken, submit to the House or Houses of Parliament of which it is a committee a report that includes a statement setting out any changes to the Acts amended by this Act that the committee recommends.
 
