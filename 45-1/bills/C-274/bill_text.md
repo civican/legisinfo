@@ -1,0 +1,102 @@
+# Bill C-274: An Act to amend the Citizenship Act and the Immigration and Refugee Protection Act
+
+## Summary
+
+This enactment amends the `Citizenship Act` to provide a path to citizenship for certain persons who were not citizens when they transitioned out of the care of a child welfare agency or foster parent. It also amends the `Immigration and Refugee Protection Act` to provide that a removal order cannot be enforced against such persons who are applying for citizenship until a final decision is made on their application.
+
+Whereas Canada is a State Party to the United Nations Convention on the Rights of the Child;
+
+Whereas protecting children and upholding their rights are fundamental values in Canadian society;
+
+Whereas the best interests of the child are a primary consideration under Canadian and international law in matters affecting children;
+
+Whereas there nonetheless remain significant inconsistencies and gaps in the protection of the rights of children who arrive in Canada as immigrants, refugees or asylum seekers;
+
+Whereas the vulnerability of children in care is compounded if those children also lack the security of citizenship;
+
+Whereas the State acts in the place of a parent in respect of children who are in its care, in foster care or under agreements to receive state services to improve their living conditions while not residing with a relative, and therefore has a legal obligation to provide care, guidance, counselling and other services generally expected of parents;
+
+Whereas citizenship is essential in helping to ensure that children in care are afforded their fundamental human rights in Canadian society, such as equal access to health care, education and employment;
+
+And whereas citizenship is required to ensure that persons who were in care as children do not face, following their transition out of care, an increased risk of removal from Canada to states with which they have no connection;
+
+Now, therefore, His Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+
+
+## Citizenship Act
+
+### Section 1
+
+Subsection 3(1) of the `Citizenship Act` is amended by adding the following after paragraph (c.1):
+
+the person has been granted citizenship under section 5.3;
+
+### Section 2
+
+The Act is amended by adding the following after section 5.2:
+
+### Section 5.3
+
+  **(1)** The Minister shall, on application, grant citizenship to a person who meets the requirements set out in subsection (2) and who was ordinarily resident in Canada on the day on which any of the following circumstances ceased to apply to the person:
+
+    the person resided in an institution — including a psychiatric or addiction treatment facility — a group foster home, the private home of a foster parent or the private home of a guardian, tutor or other individual occupying a similar role, under a decree, order or judgment of a competent tribunal, and that person was maintained by
+
+    a department or agency of the Government of Canada or a province mandated with the protection and care of children, or
+
+    an agency appointed by a province, including an authority established under the laws of a province, or by an agency appointed by such an authority, for the purpose of administering any law of the province for the protection and care of children;
+
+    the person resided in or was maintained by an institution licensed or otherwise authorized under the laws of a province to have the custody or care of children; or
+
+    the person was provided with services to improve their living conditions by an agency appointed by a province, including an authority established under the laws of a province, or by an agency appointed by such an authority, for the purpose of administering any law of the province for the protection and care of children.
+
+  **(2)** To be granted citizenship under subsection (1), the applicant must
+
+    not have been returned to the custody and care of their parent when any of the circumstances described in paragraphs (1)(a) to (c) ceased to apply to them, unless the return took place within 365 days of the date on which they reached the age of 18 years;
+
+    have been subject to one or more of the circumstances described in paragraphs (1)(a) to (c) for at least 365 days cumulatively;
+
+    have been physically present in Canada for at least 1,095 days before the date of their application; and
+
+    not have resided outside of Canada for more than 10 years since reaching the age of 18 years.
+
+  **(3)** A written statement by the applicant about the existence of any of the circumstances described in paragraphs (1)(a) to (c) is proof of those circumstances unless the Minister determines on a balance of probabilities that the circumstances did not exist.
+
+  **(4)** The Minister may, in their discretion, after having reviewed a person's particular circumstances, waive on compassionate grounds any of the requirements set out in subsection (2).
+
+### Section 3
+
+The portion of subsection 12(2) of the Act before paragraph (a) is replaced by the following:
+
+**(2)** After a person acquires citizenship as a result of an application under section 5, 5.1 or **5.3** or subsection 11(1), the Minister shall
+
+### Section 4
+
+Paragraphs 27(1)(d.1) to (d.3) of the Act are replaced by the following:
+
+providing for the factors to be considered in determining whether the requirements set out in section 5.1 **or 5.3** are met;
+
+providing for the circumstances in which the Minister shall determine that any of the requirements of subsections 5.1(1) and (2) **or 5.3(1) and (2)** are met;
+
+providing for the circumstances in which a review of an application under section 5.1 **or 5.3** is suspended;
+
+### Section 5
+
+Paragraph 27.2(d) of the Act is replaced by the following:
+
+requiring an applicant who seeks a waiver by the Minister under subsection 5(3), **5.3(4)** or 9(2) to request the waiver, specifying the time and manner for making the request and respecting the justification or evidence to be provided in support.
+
+
+## Immigration and Refugee Protection Act
+
+### Section 6
+
+Section 50 of the `Immigration and Refugee Protection Act` is amended by adding the following after paragraph (b):
+
+in the case of a foreign national who has made an application under section 5.3 of the `Citizenship Act`, until a final decision has been made on the application;
+
+### Section 7
+
+Section 51 of the Act is renumbered as subsection 51(1) and is amended by adding the following:
+
+**(2)** A removal order that has not been enforced becomes void if the foreign national is granted citizenship under section 5.3 of the `Citizenship Act`.
+
