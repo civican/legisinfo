@@ -100,7 +100,7 @@ Intelligence Commissioner
 
 Duration
 
-Review
+[*Deleted*]
 
 Compliance with order
 
@@ -115,6 +115,8 @@ Obligation to assist
 ## Confidentiality
 
 Prohibition on disclosure
+
+Authorization to disclose
 
 Confidential information
 
@@ -259,7 +261,7 @@ This Act may be cited as the `Lawful Access Act, 2026`.
 
 Subsection 462.32(3) of the `Criminal Code` is replaced by the following:
 
-**(3)** Subsections 487(2.1) to **(2.3) and (2.5) to** (3) and section 488 apply, with any modifications that the circumstances require, to a warrant issued under this section.
+**(3)** Subsections 487(2.1) to (2.3) and (2.5) to (3) and section 488 apply, with any modifications that the circumstances require, to a warrant issued under this section.
 
 ### Section 3
 
@@ -267,7 +269,7 @@ Subsection 462.32(3) of the `Criminal Code` is replaced by the following:
 
 ### Section 487
 
-      **(1)** A **judge or** justice who is satisfied by information on oath in Form 1 that there are reasonable grounds to believe that there is in a building, receptacle or place
+      **(1)** A judge or justice who is satisfied by information on oath in Form 1 that there are reasonable grounds to believe that there is in a building, receptacle or place
 
   **(2)** Subsection 487(1) of the Act is amended by replacing "a public officer who has been appointed or designated to administer or enforce a federal or provincial law and whose duties include the enforcement of this Act or any other Act of Parliament and who is named in the warrant" with "a public officer".
 
@@ -275,13 +277,13 @@ Subsection 462.32(3) of the `Criminal Code` is replaced by the following:
 
     **(2)** A warrant issued under subsection (1) may be executed at any place in Canada. A peace officer or public officer who executes the warrant must have authority to act in that capacity in the place where the warrant is executed.
 
-    **(2.1)** A person authorized under **a warrant issued under subsection (1)** to search a computer system in a building or place for **computer** data may
+    **(2.1)** A person authorized under a warrant issued under subsection (1) to search a computer system in a building or place for computer data may
 
-      use or cause to be used any computer system at the building or place to search any **computer** data contained in or available to the computer system; and
+      use or cause to be used any computer system at the building or place to search any computer data contained in or available to the computer system; and
 
-      seize any **computer** data for examination.
+      seize any computer data for examination.
 
-    **(2.2)** Every person who is in possession or control of any building or place in respect of which a search is carried out under **a warrant issued under subsection (1)** shall, on presentation of the warrant, permit the person carrying out the search **to perform any of the acts referred to in subsection (2.1)**.
+    **(2.2)** Every person who is in possession or control of any building or place in respect of which a search is carried out under a warrant issued under subsection (1) shall, on presentation of the warrant, permit the person carrying out the search to perform any of the acts referred to in subsection (2.1).
 
     **(2.3)** The judge or justice may, in a warrant issued under subsection (1), authorize the examination of any computer data seized under the warrant or contained in or available to a computer system seized under the warrant, if the judge or justice is satisfied that there are reasonable grounds to believe that the computer data will afford evidence with respect to the commission of the offence set out in the information.
 
@@ -327,7 +329,7 @@ Subsection 462.32(3) of the `Criminal Code` is replaced by the following:
 
 ### Section 487.011
 
-    The following definitions apply in this section and in sections 487.012 to 487.0199, **487.11, 492.1 and 492.2**.
+    The following definitions apply in this section and in sections 487.012 to 487.0199, 487.11, 492.1 and 492.2.
 
   **(2)** Section 487.011 of the Act is amended by adding the following in alphabetical order:
 
@@ -391,7 +393,13 @@ The Act is amended by adding the following after section 487.0141:
 
 ### Section 487.0142
 
-  **(1)** On ex parte application made by a peace officer or public officer, a justice or judge may order a person who provides services to the public to prepare and produce a document containing all the subscriber information that relates to any information, including transmission data, that is specified in the order and that is in their possession or control when they receive the order.
+  **(1)** On ex parte application made by a peace officer or public officer, a justice or judge may order a person who provides services to the public to prepare and produce a document containing the subscriber information **referred to in any of paragraphs (a) to (c) of the definition subscriber information in section 487.011**
+
+    that is specified by the justice or judge in the order;
+
+    that relates to any information, including transmission data, that is specified in the order; and
+
+    that is in **the person's** possession or control when they receive the order.
 
   **(2)** Before making the order, the justice or judge must be satisfied by information on oath in Form 5.004 that there are reasonable grounds to suspect that
 
@@ -427,7 +435,7 @@ Subsection 487.0191(1) of the Act is replaced by the following:
 
 ### Section 487.0191
 
-  **(1)** On ex parte application made by a peace officer or public officer, a justice or judge may make an order prohibiting a person from disclosing the existence or some or all of the contents of a preservation demand made under section 487.012, **a confirmation of service demand made under section 487.0121** or an order made under any of sections 487.013 to 487.018 during the period set out in the order.
+  **(1)** On ex parte application made by a peace officer or public officer, a justice or judge may make an order prohibiting a person from disclosing the existence or some or all of the contents of a preservation demand made under section 487.012, a confirmation of service demand made under section 487.0121 or an order made under any of sections 487.013 to 487.018 during the period set out in the order.
 
 ### Section 9
 
@@ -435,7 +443,7 @@ Subsection 487.0192(1) of the Act is replaced by the following:
 
 ### Section 487.0192
 
-  **(1)** An order made under any of sections 487.014, 487.0141, **487.0142** and 487.016 to 487.018 must require a person, financial institution or entity to produce the document to a peace officer or public officer named in the order within the time, at the place and in the form specified in the order.
+  **(1)** An order made under any of sections 487.014, 487.0141, 487.0142 and 487.016 to 487.018 must require a person, financial institution or entity to produce the document to a peace officer or public officer named in the order within the time, at the place and in the form specified in the order.
 
 ### Section 10
 
@@ -443,9 +451,9 @@ Subsections 487.0193(1) and (2) of the Act are replaced by the following:
 
 ### Section 487.0193
 
-  **(1)** A person, financial institution or entity required by an order made under any of sections 487.014 to 487.018 to produce a document may, before **the person, institution or entity is required to produce the document but not later than 10 business days after the day on which the order was received**, apply in writing to the justice or judge who made the order  —  or to a judge in the judicial district where the order was **received**  —  to revoke or vary the order.
+  **(1)** A person, financial institution or entity required by an order made under any of sections 487.014 to 487.018 to produce a document may, before the person, institution or entity is required to produce the document but not later than 10 business days after the day on which the order was received, apply in writing to the justice or judge who made the order — or to a judge in the judicial district where the order was received — to revoke or vary the order.
 
-  **(2)** The person, institution or entity may make the application only if, **before the application is made, the person, institution or entity gives** notice of their intention to **make the application** to a peace officer or public officer named in the order.
+  **(2)** The person, institution or entity may make the application only if, before the application is made, the person, institution or entity gives notice of their intention to make the application to a peace officer or public officer named in the order.
 
 ### Section 11
 
@@ -453,9 +461,9 @@ Section 487.0195 of the Act is replaced by the following:
 
 ### Section 487.0195
 
-  **(1)** For greater certainty, no preservation demand, preservation order, keep account open or active order or production order is necessary for a peace officer or public officer to ask a person to voluntarily preserve data that the person is not prohibited by law from preserving, to voluntarily keep an account open or active that the person is not prohibited by law from keeping open or active or to voluntarily provide a document **or information** to the officer that the person is not prohibited by law from disclosing.
+  **(1)** For greater certainty, no preservation demand, preservation order, keep account open or active order or production order is necessary for a peace officer or public officer to ask a person to voluntarily preserve data that the person is not prohibited by law from preserving, to voluntarily keep an account open or active that the person is not prohibited by law from keeping open or active or to voluntarily provide a document or information to the officer that the person is not prohibited by law from disclosing.
 
-  **(2)** A person who preserves data, keeps an account open or active or provides a document **or information** in those circumstances does not incur any criminal or civil liability for doing so.
+  **(2)** A person who preserves data, keeps an account open or active or provides a document or information in those circumstances does not incur any criminal or civil liability for doing so.
 
   **(3)** For greater certainty, no production order or warrant, or confirmation of service demand made under section 487.0121, is necessary for a peace officer or public officer to receive any information from a person or a telecommunications service provider, as the case may be, who is lawfully in possession of it, and to act on the information, if the person, without being asked for it, provides it voluntarily or is required by law, including a law of a foreign state, to provide it.
 
@@ -467,7 +475,7 @@ Section 487.0197 of the Act is replaced by the following:
 
 ### Section 487.0197
 
-A person who contravenes a preservation demand made under section 487.012 **or a confirmation of service demand made under section 487.0121** without lawful excuse is guilty of an offence punishable on summary conviction and is liable to a fine of not more than $5,000.
+A person who contravenes a preservation demand made under section 487.012 or a confirmation of service demand made under section 487.0121 without lawful excuse is guilty of an offence punishable on summary conviction and is liable to a fine of not more than $5,000.
 
 ### Section 13
 
@@ -487,9 +495,9 @@ Section 487.11 of the Act is replaced by the following:
 
 ### Section 487.11
 
-A peace officer or public officer may, in the course of **their** duties,
+A peace officer or public officer may, in the course of their duties,
 
-exercise any of the powers described in **section 487, 492.1** or **492.2** without a warrant if the conditions for obtaining a warrant exist but by reason of exigent circumstances it would be impracticable to obtain a warrant; **or**
+exercise any of the powers described in section 487, 492.1 or 492.2 without a warrant if the conditions for obtaining a warrant exist but by reason of exigent circumstances it would be impracticable to obtain a warrant; or
 
 seize any subscriber information that may be the subject of an order made under subsection 487.0142(1) or any data that may be the subject of an order made under subsection 487.016(1) or 487.017(1) if the conditions for obtaining an order exist but by reason of exigent circumstances it would be impracticable to obtain an order.
 
@@ -499,7 +507,7 @@ The portion of section 487.2 of the Act before paragraph (a) is replaced by the 
 
 ### Section 487.2
 
-If a search warrant is issued under **subsection** 487**(1)** or a search is made under such a warrant, everyone who publishes in any document, or broadcasts or transmits in any way, any information with respect to
+If a search warrant is issued under subsection 487(1) or a search is made under such a warrant, everyone who publishes in any document, or broadcasts or transmits in any way, any information with respect to
 
 ### Section 16
 
@@ -507,13 +515,13 @@ If a search warrant is issued under **subsection** 487**(1)** or a search is mad
 
 ### Section 488
 
-    A **search of a building, receptacle or place under a** warrant issued under **subsection** 487**(1)** shall **be carried out during the** day, unless
+    A search of a building, receptacle or place under a warrant issued under subsection 487(1) shall be carried out during the day, unless
 
-    the **judge or** justice is satisfied that there are reasonable grounds for **the search** to **be carried out at** night;
+    the judge or justice is satisfied that there are reasonable grounds for the search to be carried out at night;
 
   **(2)** Paragraph 488(c) of the Act is replaced by the following:
 
-    the warrant authorizes that **the search be carried out at** night.
+    the warrant authorizes that the search be carried out at night.
 
 ### Section 17
 
@@ -527,7 +535,7 @@ Subsection 492(1) of the Act is replaced by the following:
 
 ### Section 492
 
-  **(1)** Every person who executes a warrant issued under **subsection** 487**(1)** may seize any explosive substance that they suspect is intended to be used for an unlawful purpose, and shall, as soon as possible, remove to a place of safety anything that they seize under this section and detain it until they are ordered by a judge of a superior court to deliver it to some other person or an order is made under subsection (2).
+  **(1)** Every person who executes a warrant issued under subsection 487(1) may seize any explosive substance that they suspect is intended to be used for an unlawful purpose, and shall, as soon as possible, remove to a place of safety anything that they seize under this section and detain it until they are ordered by a judge of a superior court to deliver it to some other person or an order is made under subsection (2).
 
 ### Section 19
 
@@ -535,11 +543,11 @@ Subsection 492(1) of the Act is replaced by the following:
 
     **(2.1)** A justice or judge who authorizes a peace officer or public officer to obtain tracking data that relates to the location of a thing that a person uses, carries or wears may, in the warrant, authorize the peace officer or public officer to obtain tracking data that relates to the location of any similar thing that is unknown at the time the warrant is issued if the justice or judge is satisfied that there are reasonable grounds to suspect that the person will use, carry or wear that similar thing.
 
-    **(3)** The warrant authorizes the peace officer or public officer, or a person acting under their direction, to install, activate, use, maintain, monitor and remove the tracking device, including covertly. **The warrant also authorizes a person acting under the direction of the peace officer or public officer to obtain the tracking data that is authorized to be obtained under the warrant**.
+    **(3)** The warrant authorizes the peace officer or public officer, or a person acting under their direction, to install, activate, use, maintain, monitor and remove the tracking device, including covertly. The warrant also authorizes a person acting under the direction of the peace officer or public officer to obtain the tracking data that is authorized to be obtained under the warrant.
 
   **(2)** Subsection 492.1(8) of the Act is replaced by the following:
 
-    **(8)** In this section, **tracking device** means a device, including a computer program **as defined in** subsection 342.1(2), that may be used to obtain or record tracking data or to transmit it by a means of telecommunication.
+    **(8)** In this section, **tracking device** means a device, including a computer program as defined in subsection 342.1(2), that may be used to obtain or record tracking data or to transmit it by a means of telecommunication.
 
 ### Section 20
 
@@ -547,7 +555,7 @@ Subsection 492(1) of the Act is replaced by the following:
 
     **(1.1)** A justice or judge who authorizes a peace officer or public officer to obtain transmission data that relates to any means of telecommunication used by a person may, in the warrant, authorize the peace officer or public officer to obtain transmission data that relates to any means of telecommunication that is unknown at the time the warrant is issued but that is of a similar type to the means of telecommunication described in the warrant if the justice or judge is satisfied that there are reasonable grounds to suspect that the person will use that other means of telecommunication.
 
-    **(2)** The warrant authorizes the peace officer or public officer, or a person acting under their direction, to install, activate, use, maintain, monitor and remove the transmission data recorder, including covertly. **The warrant also authorizes a person acting under the direction of the peace officer or public officer to obtain the transmission data that is authorized to be obtained under the warrant**.
+    **(2)** The warrant authorizes the peace officer or public officer, or a person acting under their direction, to install, activate, use, maintain, monitor and remove the transmission data recorder, including covertly. The warrant also authorizes a person acting under the direction of the peace officer or public officer to obtain the transmission data that is authorized to be obtained under the warrant.
 
     **(2.1)** A warrant may contain any conditions that the justice or judge considers appropriate, including conditions to protect a person's interests.
 
@@ -555,7 +563,7 @@ Subsection 492(1) of the Act is replaced by the following:
 
     **(5.2)** The justice or judge may, in the warrant, authorize a peace officer or public officer to obtain from a person who provides services to the public any information referred to in paragraph (a) of the definition subscriber information in section 487.011 that relates to the transmission data that is authorized to be obtained under the warrant and that is in the person's possession or control.
 
-    **(6)** In this section, **transmission data recorder** means a device, including a computer program **as defined in** subsection 342.1(2), that may be used to obtain or record transmission data or to transmit it by a means of telecommunication.
+    **(6)** In this section, **transmission data recorder** means a device, including a computer program as defined in subsection 342.1(2), that may be used to obtain or record transmission data or to transmit it by a means of telecommunication.
 
 ### Section 21
 
@@ -567,11 +575,11 @@ Province of ,
 
 (*territorial division*).
 
-This is the information of A.B., of  in the (*territorial division*), (*occupation*), **in this information** called the informant, taken before me.
+This is the information of A.B., of  in the (*territorial division*), (*occupation*), in this information called the informant, taken before me.
 
-The informant says that (*describe things **or computer data** to be searched for and offence in respect of which search is to be made*), and that **they believe** on reasonable grounds that **those** things, or some part of them, **(*or that computer data*)** are in the (*dwelling-house, etc. **or computer system***) of C.D., of , in (*territorial division*). (*Here add the grounds of belief, whatever they may be*.)
+The informant says that (*describe things or computer data to be searched for and offence in respect of which search is to be made*), and that they believe on reasonable grounds that those things, or some part of them, (*or that computer data*) are in the (*dwelling-house, etc. or computer system*) of C.D., of , in (*territorial division*). (*Here add the grounds of belief, whatever they may be*.)
 
-The informant therefore requests that a search warrant be granted to search the (*dwelling-house, etc. **or computer system***) for **those** things **(*or that computer data*)**.
+The informant therefore requests that a search warrant be granted to search the (*dwelling-house, etc. or computer system*) for those things (*or that computer data*).
 
 (*or*)
 
@@ -579,11 +587,11 @@ The informant says that they believe on reasonable grounds that an offence has b
 
 The informant therefore requests that a warrant be granted to examine that computer data.
 
-Sworn before me on  **(*date*)**, at  **(*place*)**.
+Sworn before me on  (*date*), at  (*place*).
 
 (*Signature of Informant*)
 
-A (***judge or** justice*) in and for
+A (*judge or justice*) in and for
 
 ### Section 22
 
@@ -595,11 +603,11 @@ Province of ,
 
 (*territorial division*).
 
-To the peace officers in the (*territorial division*) or to the public officers **whose duties include the enforcement of (*specify an Act of Parliament*)**:
+To the peace officers in the (*territorial division*) or to the public officers whose duties include the enforcement of (*specify an Act of Parliament*):
 
-Whereas it appears on the oath of A.B., of  that there are reasonable grounds for believing that (*describe things **or computer data** to be searched for and offence in respect of which search is to be made*) are in  at , **in this warrant** called the premises;
+Whereas it appears on the oath of A.B., of  that there are reasonable grounds for believing that (*describe things or computer data to be searched for and offence in respect of which search is to be made*) are in  at , in this warrant called the premises;
 
-This **warrant authorizes** and **requires** you between the hours of (*as the **judge or** justice may direct*) to enter into the premises and to search for the things **referred to in this warrant** and to bring them before **a** justice.
+This warrant authorizes and requires you between the hours of (*as the judge or justice may direct*) to enter into the premises and to search for the things referred to in this warrant and to bring them before a justice.
 
 (*and, if applicable*)
 
@@ -615,9 +623,9 @@ This warrant authorizes the examination of that computer data.
 
 (*Specify any conditions to which the examination is subject.*)
 
-Dated  **(*date*)** at  **(*place*)**.
+Dated  (*date*) at  (*place*).
 
-A (***judge or** justice*) in and for
+A (*judge or justice*) in and for
 
 ### Section 23
 
@@ -841,7 +849,7 @@ Province of
 
 This is the information of (*name of peace officer or public officer*), of  ("the informant").
 
-The informant says that they have reasonable grounds to believe that the disclosure of the existence (or any of the contents or any of the following portion or portions) of (*identify the preservation demand made under section 487.012 of the `Criminal Code`, **the confirmation of service demand made under section 487.0121 of that Act** or the order made under any of sections 487.013 to 487.018 of that Act, as the case may be*) during (*identify the period*) would jeopardize the conduct of the investigation of the offence to which it relates:
+The informant says that they have reasonable grounds to believe that the disclosure of the existence (or any of the contents or any of the following portion or portions) of (*identify the preservation demand made under section 487.012 of the `Criminal Code`, the confirmation of service demand made under section 487.0121 of that Act or the order made under any of sections 487.013 to 487.018 of that Act, as the case may be*) during (*identify the period*) would jeopardize the conduct of the investigation of the offence to which it relates:
 
 (*specify portion or portions*)
 
@@ -863,7 +871,7 @@ Province of
 
 To (*name of person, financial institution or entity*), of :
 
-Whereas I am satisfied by information on oath of (*name of peace officer or public officer*), of , that there are reasonable grounds to believe that the disclosure of the existence (or any of the contents or any of the portion or portions, specified in the information,) of (*identify the preservation demand made under section 487.012 of the `Criminal Code`, **the confirmation of service demand made under section 487.0121 of that Act** or the order made under any of sections 487.013 to 487.018 of that Act, as the case may be*) during (*identify the period*) would jeopardize the conduct of the investigation of the offence to which it relates;
+Whereas I am satisfied by information on oath of (*name of peace officer or public officer*), of , that there are reasonable grounds to believe that the disclosure of the existence (or any of the contents or any of the portion or portions, specified in the information,) of (*identify the preservation demand made under section 487.012 of the `Criminal Code`, the confirmation of service demand made under section 487.0121 of that Act or the order made under any of sections 487.013 to 487.018 of that Act, as the case may be*) during (*identify the period*) would jeopardize the conduct of the investigation of the offence to which it relates;
 
 Therefore, you are prohibited from disclosing the existence (or any of the contents or any of the following portion or portions) of the demand (or the order) during a period of (*identify the period*) after the day on which this order is made.
 
@@ -926,7 +934,7 @@ The `Mutual Legal Assistance in Criminal Matters Act` is amended by adding the f
 
   **(8)** The designated person must
 
-    make a report concerning the execution of the decision to the justice or judge who made it enforceable —  or to another justice for the same territorial division or another judge in the judicial district where the decision was made enforceable —  accompanied by a general description of the transmission data or the subscriber information contained in the record and, if the justice or judge requires it, the record containing the transmission data or the subscriber information; and
+    make a report concerning the execution of the decision to the justice or judge who made it enforceable — or to another justice for the same territorial division or another judge in the judicial district where the decision was made enforceable — accompanied by a general description of the transmission data or the subscriber information contained in the record and, if the justice or judge requires it, the record containing the transmission data or the subscriber information; and
 
     send a copy of the report to the Minister without delay.
 
@@ -944,7 +952,7 @@ The `Mutual Legal Assistance in Criminal Matters Act` is amended by adding the f
 The heading of Part II of the `Canadian Security Intelligence Service Act` is replaced by the following:
 
 
-## **Confirmation of Service Demand and** Judicial Control
+## Confirmation of Service Demand and Judicial Control
 
 ### Section 31
 
@@ -956,7 +964,7 @@ In sections 20.22 to 20.26 and 20.5, **telecommunications service provider** has
 
 ### Section 20.22
 
-  **(1)** For the purpose of performing its duties and functions under section 12 or 16, the Service may make a demand in Form 0.1 of Schedule 2 to a telecommunications service provider requiring them to confirm, within the time and in the manner specified in the demand, whether or not they provide or have provided services to any subscriber or client, or to any account or identifier, specified in the demand.
+  **(1)** For the purpose of performing its duties and functions under section 12 or 16, the Service may make a demand in Form 0.1 of Schedule 2 to a telecommunications service provider requiring them to confirm, within the time and in the manner specified in the demand, whether or not they provide or have provided **telecommunications** services to any subscriber or client, or to any account or identifier, specified in the demand.
 
   **(2)** For greater certainty, a demand must not be made if the confirmation would disclose medical information or information that is subject to solicitor-client privilege or the professional secrecy of advocates and notaries.
 
@@ -1006,17 +1014,17 @@ No criminal or civil proceedings lie against a telecommunications service provid
 
 ### Section 20.5
 
-      **(1)** **Before a telecommunications service provider is required to provide a confirmation under an order made under section 20.24, or a person or entity is required to** produce any information, record or document under an order made under section 20.4, **but no later than 10 business days after the day on which they receive the order, the telecommunications service provider or the** person or entity, **as the case may be**, may apply in writing to a judge to revoke or vary the order.
+      **(1)** Before a telecommunications service provider is required to provide a confirmation under an order made under section 20.24, or a person or entity is required to produce any information, record or document under an order made under section 20.4, but no later than 10 business days after the day on which they receive the order, the telecommunications service provider or the person or entity, as the case may be, may apply in writing to a judge to revoke or vary the order.
 
-      **(2)** The **telecommunications service provider**, person or entity may make the application only if, **before the application is made, they give** notice of their intention to do so to a judge and to an employee in Form 5 of Schedule 2.
+      **(2)** The telecommunications service provider, person or entity may make the application only if, before the application is made, they give notice of their intention to do so to a judge and to an employee in Form 5 of Schedule 2.
 
-      **(3)** The **telecommunications service provider**, person or entity is not required to **provide the confirmation or to** produce the information, record or document, **as the case may be**, until a final decision is made with respect to the application.
+      **(3)** The telecommunications service provider, person or entity is not required to provide the confirmation or to produce the information, record or document, as the case may be, until a final decision is made with respect to the application.
 
   **(2)** Paragraphs 20.5(4)(a) and (b) of the Act are replaced by the following:
 
-    it is unreasonable in the circumstances to require the applicant to **provide the confirmation or** produce the information, record or document; or
+    it is unreasonable in the circumstances to require the applicant to provide the confirmation or produce the information, record or document; or
 
-    **provision of the confirmation or** production of the information, record or document would disclose information that is privileged or otherwise protected from disclosure by law.
+    provision of the confirmation or production of the information, record or document would disclose information that is privileged or otherwise protected from disclosure by law.
 
 ### Section 33
 
@@ -1024,19 +1032,19 @@ Section 27 of the Act is replaced by the following:
 
 ### Section 27
 
-  **(1)** An application for a judicial authorization under section 11.13, **an application for an order under section 20.24**, an application under section 20.3 for a preservation order, an application under section 20.4 for a production order, an application under section 21, 21.1, 22.21 or 23 for a warrant, an application under section 22 or 22.1 for the renewal of a warrant or an application for an order under section 22.3 shall be made ex parte and heard in private in accordance with regulations made under section 28.
+  **(1)** An application for a judicial authorization under section 11.13, an application for an order under section 20.24, an application under section 20.3 for a preservation order, an application under section 20.4 for a production order, an application under section 21, 21.1, 22.21 or 23 for a warrant, an application under section 22 or 22.1 for the renewal of a warrant or an application for an order under section 22.3 shall be made ex parte and heard in private in accordance with regulations made under section 28.
 
-  **(2)** An application **under section 20.23 for the revocation or variation of a confirmation of service demand or** under section 20.5 for the revocation or variation of **an order made under section 20.24 or** a production order **shall** be **made and** heard in accordance with regulations made under section 28 **and may be heard** in private **in accordance with those regulations**.
+  **(2)** An application under section 20.23 for the revocation or variation of a confirmation of service demand or under section 20.5 for the revocation or variation of an order made under section 20.24 or a production order shall be made and heard in accordance with regulations made under section 28 and may be heard in private in accordance with those regulations.
 
 ### Section 34
 
   **(1)** Paragraph 28(b) of the Act is replaced by the following:
 
-    governing the practice and procedure of, and security requirements applicable to, hearings of applications for judicial authorization under section 11.13, for warrants that may be issued under section 21, 21.1, 22.21 or 23, for renewals of those warrants and for orders that may be made under section **20.24**, 20.3, 20.4 or 22.3;
+    governing the practice and procedure of, and security requirements applicable to, hearings of applications for judicial authorization under section 11.13, for warrants that may be issued under section 21, 21.1, 22.21 or 23, for renewals of those warrants and for orders that may be made under section 20.24, 20.3, 20.4 or 22.3;
 
   **(2)** Paragraph 28(b.2) of the Act is replaced by the following:
 
-    governing the practice and procedure of, and security requirements applicable to, **the making** of applications for the revocation or variation of **a confirmation of service demand under section 20.22, an order under section 22.24 or a** production order under section 20.5 **and** hearings **of such applications**; and
+    governing the practice and procedure of, and security requirements applicable to, the making of applications under **sections 20.23** and 20.5 and **the hearing** of such applications; and
 
 ### Section 35
 
@@ -1072,15 +1080,15 @@ Dated (*date*), at (*place*).
 
 Form 5 of Schedule 2 to the Act is replaced by the following:
 
-*(Court File No. — to match **order under section 20.24 or** production order)*
+*(Court File No. — to match order under section 20.24 or production order)*
 
 FEDERAL COURT
 
-IN THE MATTER OF an application by (*Name*) for the revocation or variation of **an order under section 20.24 or a** production order under section 20.5 of the `Canadian Security Intelligence Service Act`, R.S.C. 1985, c. C-23
+IN THE MATTER OF an application by (*Name*) for the revocation or variation of an order under section 20.24 or a production order under section 20.5 of the `Canadian Security Intelligence Service Act`, R.S.C. 1985, c. C-23
 
 NOTICE
 
-This is a notice that (*name of **telecommunications service provider**, person or entity named in the order*) ("the applicant") intends to apply to the Federal Court for the revocation or variation of the **(*specify:* order under section 20.24 *or*** production order) made on (*date*) and **received by** the applicant on (*date*).
+This is a notice that (*name of telecommunications service provider, person or entity named in the order*) ("the applicant") intends to apply to the Federal Court for the revocation or variation of the (*specify:* order under section 20.24 *or* production order) made on (*date*) and received by the applicant on (*date*).
 
 A copy of this notice has been provided to an employee of the Canadian Security Intelligence Service on (*date*).
 
@@ -1152,7 +1160,7 @@ This Act may be cited as the `Supporting Authorized Access to Information Act`.
 
   **(1)** The following definitions apply in this Act.
 
-    **access**, in relation to information, includes obtaining a document containing information and, with respect to information related to a communication, intercepting the communication within the meaning of section 183 of the `Criminal Code`. (**accès**)
+    **access**, in relation to information, includes obtaining a document containing information and, with respect to information related to a communication, intercepting the communication within the meaning of section 183 of the `Criminal Code`. (**accès**)
 
     **authorized person** means a person having authority under the `Criminal Code` or the `Canadian Security Intelligence Service Act` to access information. (**personne autorisée**)
 
@@ -1176,11 +1184,13 @@ This Act may be cited as the `Supporting Authorized Access to Information Act`.
 
     **prescribed** means prescribed by the regulations. (**Version anglaise seulement**)
 
-    **systemic vulnerability** means a vulnerability in the electronic protections of an electronic service that creates a substantial risk that secure information could be accessed by a person who does not have any right or authority to do so. (**vulnérabilité systémique**)
+    **systemic vulnerability** means a vulnerability in the electronic protections of an electronic service that creates a **credible** risk, **based on recognized international technical standards**, that secure information could be accessed by a person who does not have any right or authority to do so, **other than a risk that relates only to information related to persons with respect to whom a warrant, order or other authority to access information conferred under the `Criminal Code` or the `Canadian Security Intelligence Service Act` — or any similar authority conferred under another Act of Parliament — applies**. (**vulnérabilité systémique**)
 
   **(2)** Nothing in this Act derogates from any authority to access information conferred under the `Criminal Code` or the `Canadian Security Intelligence Service Act` — or from any similar authority conferred under another Act of Parliament — or from any corresponding obligation imposed on an electronic service provider to assist in a person's exercise of such an authority.
 
   **(3)** Nothing in this Act derogates from any agreement or arrangement between an electronic service provider and a national security or law enforcement agency with respect to assistance to be provided to an authorized person in the exercise of the person's authority to access information, nor prevents entry into such an agreement or arrangement.
+
+  **(4)** No obligations under this Act are to be construed as compelling an electronic service provider to decrypt, or to ensure that an authorized person is able to decrypt, any information that is encrypted by a person to whom the electronic service provider provides services, unless the encryption was provided by the electronic service provider and the provider possesses the information necessary to decrypt the information.
 
 
 ## Purpose
@@ -1203,15 +1213,15 @@ This Act is binding on His Majesty in right of Canada or of a province.
 
   **(1)** The Governor in Council may, by regulation, amend the schedule by adding, amending or deleting a class of electronic service providers.
 
-  **(2)** The Governor in Council may make regulations respecting the obligations of core providers, including regulations respecting
+  **(2)** The Governor in Council may make regulations **relating to** the obligations of core providers, respecting
 
     the development, implementation, assessment, testing and maintenance of operational and technical capabilities, including capabilities related to extracting and organizing information that is authorized to be accessed and to providing access to such information to authorized persons;
 
-    the installation, use, operation, management, assessment, testing and maintenance of any device, equipment or other thing that may enable an authorized person to access information;
+    the installation, use, operation, management, assessment, testing and maintenance of any device, equipment or other thing **by core providers** that may enable an authorized person to access information;
 
     notices to be given to the Minister or other persons, including with respect to any capability referred to in paragraph (a) and any device, equipment or other thing referred to in paragraph (b); and
 
-    the retention of categories of metadata — including transmission data, as defined in section 487.011 of the `Criminal Code` — for reasonable periods of time not exceeding one year.
+    the retention of categories of metadata — including transmission data, as defined in section 487.011 of the `Criminal Code` — for reasonable periods of time not exceeding **six months**.
 
   **(3)** In making a regulation under subsection (2), the Governor in Council must take into account the following factors:
 
@@ -1235,11 +1245,17 @@ This Act is binding on His Majesty in right of Canada or of a province.
 
     a person's social media activities.
 
-  **(5)** A core provider is not required to comply with a provision of a regulation made under subsection (2), with respect to an electronic service, if compliance with that provision would require the provider to introduce a systemic vulnerability related to that service or prevent the provider from rectifying such a vulnerability.
+  **(4.1)** The Governor in Council may make a regulation requiring the retention of a category of metadata under paragraph (2)(d) only if the Governor in Council is satisfied that the category and all its elements are essential for facilitating effective and timely investigations under the `Criminal Code` or for facilitating the effective and timely exercise of powers or performance of duties and functions under the `Canadian Security Intelligence Service Act`.
+
+  **(5)** A core provider is not required to comply with a provision of a regulation made under subsection (2), with respect to an electronic service, if compliance with that provision would **have the effect of requiring** the provider to introduce a systemic vulnerability related to that service or **of preventing** the provider from rectifying such a vulnerability.
+
+  **(6)** For greater certainty, subsection (2) does not authorize the making of regulations that confer an authority to access personal information about the persons to whom the core provider provides services.
 
 ### Section 6
 
   **(1)** On application by a core provider, the Minister may, by order and on any terms that the Minister considers necessary, exempt the core provider, for a specified period, from the application of any provision of a regulation made under subsection `5`(2).
+
+  **(1.1)** The order may contain provisions respecting the disclosure of information contained in it and the disclosure of the fact that the core provider is subject to it.
 
   **(2)** The application must be submitted in the form and manner specified by the Minister and must contain
 
@@ -1255,7 +1271,7 @@ This Act is binding on His Majesty in right of Canada or of a province.
 
   **(3)** The provision with respect to which the exemption is sought does not apply to the core provider pending the determination of the application.
 
-  **(4)** As soon as feasible after the application is submitted, the Minister must make a decision in respect of it and give written notice of the decision to the core provider.
+  **(4)** **Within 90 days** after the **day on which the** application is submitted, **or within any other period that may be agreed on by the Minister and the core provider**, the Minister must make a decision in respect of it and give written notice of the decision to the core provider.
 
   **(5)** In a decision to deny the application, the Minister may specify the day by which the core provider must comply with the provision with respect to which the application was denied.
 
@@ -1266,11 +1282,13 @@ This Act is binding on His Majesty in right of Canada or of a province.
 
 ### Section 7
 
-  **(1)** Subject to section `8`, the Minister may make an order with respect to an electronic service provider and the order may contain any provision that may be contained in a regulation made under subsection `5`(2), whether or not the provider is a core provider. The order must specify the period during which it has effect.
+  **(1)** Subject to section `8`, the Minister may make an order with respect to an electronic service provider and the order may contain any provision that may be contained in a regulation made under subsection `5`(2), whether or not the provider is a core provider. The order must specify **a** period, **not exceeding two years**, during which it **is valid**.
 
-  **(2)** The order is valid when — if it is approved by the Intelligence Commissioner under paragraph 20(1)(a) of the `Intelligence Commissioner Act` — the Intelligence Commissioner provides the Minister with the written decision approving the order.
+  **(1.1)** The order may also contain provisions respecting the disclosure of information contained in it and the disclosure of the fact that the electronic service provider is subject to it.
 
-  **(3)** In making the order, the Minister must take into account the following factors:
+  **(2)** The order is **not** valid **unless** it is approved by the Intelligence Commissioner under paragraph 20(1)(a) of the `Intelligence Commissioner Act` **and** the Intelligence Commissioner provides the Minister with the written decision approving the order.
+
+  **(3)** In **deciding whether to make** the order, the Minister must take into account the following factors:
 
     the benefits of the order to the administration of justice, in particular to investigations under the `Criminal Code`, and to the exercise of powers and the performance of duties and functions under the `Canadian Security Intelligence Service Act`;
 
@@ -1286,7 +1304,7 @@ This Act is binding on His Majesty in right of Canada or of a province.
 
   **(4)** For the purpose of offsetting all or part of the costs referred to in paragraph (3)(c), in the order, the Minister may provide for compensation to be paid to the electronic service provider in an amount that the Minister considers appropriate and may include provisions with respect to the time and manner of payment.
 
-  **(5)** The electronic service provider is not required to comply with a provision of the order, with respect to an electronic service, if compliance with that provision would require the provider to introduce a systemic vulnerability related to that service or prevent the provider from rectifying such a vulnerability.
+  **(5)** The electronic service provider is not required to comply with a provision of the order, with respect to an electronic service, if compliance with that provision would **have the effect of requiring** the provider to introduce a systemic vulnerability related to that service or **of preventing** the provider from rectifying such a vulnerability.
 
   **(6)** The `Statutory Instruments Act` does not apply to an order made under subsection (1).
 
@@ -1300,21 +1318,23 @@ Before making an order under subsection `7`(1), the Minister must provide the el
 
   **(2)** The copy of the order constitutes notice of the order for the purposes of calculating the time limit referred to in paragraph 20(3)(b) of the `Intelligence Commissioner Act`.
 
+  **(3)** Within 30 days after the day on which a decision of the Intelligence Commissioner under paragraph 20(1)(a) of the `Intelligence Commissioner Act` is received, the Minister must provide the National Security and Intelligence Review Agency with a copy of the order, along with all the information that was provided to the Intelligence Commissioner under subsection 23(1) of the `Intelligence Commissioner Act`, for the purpose of assisting the Agency in fulfilling its mandate under paragraphs 8(1)(a) to (c) of the `National Security and Intelligence Review Agency Act`.
+
+  **(4)** For greater certainty, the disclosure under subsection (3) of any information that is subject to solicitor-client privilege or the professional secrecy of advocates and notaries or to litigation privilege does not constitute a waiver of those privileges or that secrecy.
+
 ### Section 10
 
-  **(1)** Unless revoked, an order made under subsection `7`(1) has effect for the period specified in the order.
+  **(1)** Unless revoked, an order made under subsection `7`(1) **is valid** for the period specified in the order.
 
-  **(2)** Subsection `7`(2) and sections `8` and `9` do not apply in respect of an order that only revokes another order made under subsection `7`(1) or only extends the period specified in another order made under subsection `7`(1).
+  **(2)** Subsection `7`(2) and sections `8` and `9` do not apply in respect of an order that only revokes another order made under subsection `7`(1).
 
 ### Section 11
 
-  **(1)** Before the order expires, the Minister must review the order to determine whether, taking into account the factors referred to in subsection `7`(3), the period specified in it should be extended.
-
-  **(2)** Before the order expires, an electronic service provider subject to it may submit to the Minister any information that is relevant to the review.
+[*Deleted*]
 
 ### Section 12
 
-An electronic service provider that is subject to an order made under subsection `7`(1) must comply with it.
+**Subject to subsection 7(5)**, an electronic service provider that is subject to an order made under subsection `7`(1) must comply with it.
 
 ### Section 13
 
@@ -1354,15 +1374,25 @@ information contained in an order made under subsection `6`(1) or `7`(1);
 
 information on which the Minister relied in making the order;
 
-the fact that the electronic service provider is subject to the order;
+the fact that the electronic service provider is **or was** subject to the order;
 
 information provided in the course of representations made under section `8` or in any response given by the Minister and the fact that the Minister has invited the representations;
 
 information contained in an application referred to in subsection `6`(1) or in a decision made under subsection `6`(4);
 
-information submitted under subsection `11`(2) and any information received from the Minister in response;
+[*Deleted*]
 
 any prescribed information.
+
+### Section 15.1
+
+  **(1)** At an electronic service provider's request, the Minister may issue a written authorization permitting, on any terms that the Minister considers reasonable, the electronic service provider to disclose any information referred to in section 15.
+
+  **(2)** However, if the information that is the subject of a request made under subsection (1) is relevant to the exercise of a regulatory authority's powers or to the performance of its duties or functions, the Minister must issue a written authorization permitting, on any terms that the Minister considers reasonable, the electronic service provider to disclose that information to that authority.
+
+  **(3)** The `Statutory Instruments Act` does not apply to an authorization issued under this section.
+
+  **(4)** In this section, **regulatory authority** means a person that has powers, duties or functions relating to the administration or enforcement of an Act of Parliament or of the legislature of a province and includes a person that is prescribed to be a regulatory authority.
 
 ### Section 16
 
@@ -1471,11 +1501,13 @@ The electronic service provider must comply with the order and provide to the de
 
   **(2)** The order must specify the time within which and the manner in which the electronic service provider may request a review of the order by the Minister.
 
+  **(2.1)** The electronic service provider is not required to comply with a provision of the order, with respect to an electronic service, if compliance with that provision would require the provider to introduce a systemic vulnerability related to that service or prevent the provider from rectifying such a vulnerability.
+
   **(3)** The `Statutory Instruments Act` does not apply to an order made under subsection (1).
 
 ### Section 25
 
-  **(1)** An electronic service provider that is subject to an order made under subsection `24`(1) must comply with it.
+  **(1)** **Subject to subsection 24(2.1)**, an electronic service provider that is subject to an order made under subsection `24`(1) must comply with it.
 
   **(2)** Once the electronic service provider complies with the order, it must notify the designated person of its compliance without delay.
 
@@ -1492,6 +1524,18 @@ The electronic service provider must comply with the order and provide to the de
   **(1)** On completion of a review, the Minister must confirm, amend, revoke or cancel the order and provide notice of the decision and the reasons for the decision to the electronic service provider.
 
   **(2)** If the Minister does not make a decision in respect of the request within 90 days after the day on which the request is received, or within any further period that is agreed on by the Minister and the electronic service provider, the Minister is deemed to have confirmed the order.
+
+  **(3)** Within 30 days after the day on which the time period referred to in subsection 26(2) ends, the Minister must, for the purpose of assisting the National Security and Intelligence Review Agency in fulfilling its mandate under paragraphs 8(1)(a) to (c) of the `National Security and Intelligence Review Agency Act`, notify the Agency of the following:
+
+    the fact that an order was made under subsection 24(1) and the identity of the electronic service provider that is subject to the order;
+
+    the provisions that were contravened, according to the order; and
+
+    any notification of compliance the electronic service provider gave under subsection 25(2).
+
+  **(4)** The notice must also include a statement indicating whether the electronic service provider made a request for review to the Minister under subsection 26(1) and setting out the grounds for review.
+
+  **(5)** If an electronic service provider makes a request for review under subsection 26(1), the Minister must, for the purpose of assisting the National Security and Intelligence Review Agency in fulfilling its mandate under paragraphs 8(1)(a) to (c) of the `National Security and Intelligence Review Agency Act`, notify the Agency of the decision and the reasons for it within 30 days after the day on which the review is completed.
 
 
 ### Administrative Monetary Penalties
@@ -1698,7 +1742,7 @@ in the case of any other person, to a fine of not more than $100,000 for a first
 
     respecting record-keeping and reporting by electronic service providers;
 
-    respecting the meaning of any term or expression for the purposes of this Act;
+    respecting the meaning of any term or expression for the purposes of this Act, **other than the terms and expressions defined in it**;
 
     respecting orders referred to in section `22` and reports referred to in section `23`;
 
@@ -1768,9 +1812,9 @@ For greater certainty, regulations made under this Act may establish classes of 
 
 Paragraphs 12(a) and (b) of the `Intelligence Commissioner Act` are replaced by the following:
 
-reviewing the conclusions on the basis of which certain authorizations are issued or amended, and certain determinations are made, under the `Communications Security Establishment Act` and the `Canadian Security Intelligence Service Act` **and on the basis of which certain orders are made under the `Supporting Authorized Access to Information Act`**; and
+reviewing the conclusions on the basis of which certain authorizations are issued or amended, and certain determinations are made, under the `Communications Security Establishment Act` and the `Canadian Security Intelligence Service Act` and on the basis of which certain orders are made under the `Supporting Authorized Access to Information Act`; and
 
-if those conclusions are reasonable, approving those authorizations, amendments, determinations and **orders**.
+if those conclusions are reasonable, approving those authorizations, amendments, determinations and orders.
 
 ### Section 43
 
@@ -1786,15 +1830,15 @@ The Commissioner must review whether the conclusions — made under subsection 7
 
 ### Section 20
 
-      **(1)** After conducting a review under any of sections 13 to 16 and 18 **to 19.1**, the Commissioner, in a written decision,
+      **(1)** After conducting a review under any of sections 13 to 16 and 18 to 19.1, the Commissioner, in a written decision,
 
-        must approve the authorization, amendment, determination or **order** if **the Commissioner** is satisfied that the conclusions at issue are reasonable, and must set out **the Commissioner's** reasons for doing so; or
+        must approve the authorization, amendment, determination or order if the Commissioner is satisfied that the conclusions at issue are reasonable, and must set out the Commissioner's reasons for doing so; or
 
-        must not approve the authorization, amendment, determination or **order** if **the Commissioner** is not so satisfied, and must set out **the Commissioner's** reasons for doing so.
+        must not approve the authorization, amendment, determination or order if the Commissioner is not so satisfied, and must set out the Commissioner's reasons for doing so.
 
   **(2)** Paragraph 20(3)(b) of the Act is replaced by the following:
 
-    within 30 days after the day on which the Commissioner receives notice of the authorization, amendment, determination or **order**, or within any other period that may be agreed on by the Commissioner and the person, in any other case.
+    within 30 days after the day on which the Commissioner receives notice of the authorization, amendment, determination or order, or within any other period that may be agreed on by the Commissioner and the person, in any other case.
 
 ### Section 45
 
@@ -1802,9 +1846,9 @@ Subsections 22(1) and (2) of the Act are replaced by the following:
 
 ### Section 22
 
-  **(1)** The Commissioner must, each calendar year, submit to the Prime Minister a report with respect to the Commissioner's activities during the previous calendar year. The report must include statistics, that the Commissioner considers appropriate, relating to the authorizations, amendments, determinations and **orders** that were approved and not approved.
+  **(1)** The Commissioner must, each calendar year, submit to the Prime Minister a report with respect to the Commissioner's activities during the previous calendar year. The report must include statistics, that the Commissioner considers appropriate, relating to the authorizations, amendments, determinations and orders that were approved and not approved.
 
-  **(2)** The Commissioner must consult with the Director of the Canadian Security Intelligence Service, the Chief of the Communications Security Establishment and **the Minister of Public Safety and Emergency Preparedness** in preparing the report in order to ensure that it does not contain information the disclosure of which would be injurious to national security, national defence or international relations or information that is subject to solicitor-client privilege or the professional secrecy of advocates and notaries or to litigation privilege.
+  **(2)** The Commissioner must consult with the Director of the Canadian Security Intelligence Service, the Chief of the Communications Security Establishment and the Minister of Public Safety and Emergency Preparedness in preparing the report in order to ensure that it does not contain information the disclosure of which would be injurious to national security, national defence or international relations or information that is subject to solicitor-client privilege or the professional secrecy of advocates and notaries or to litigation privilege.
 
 ### Section 46
 
@@ -1812,7 +1856,7 @@ Subsection 23(1) of the Act is replaced by the following:
 
 ### Section 23
 
-  **(1)** Despite any other Act of Parliament and subject to section 26, the person whose conclusions are being reviewed by the Commissioner under any of sections 13 to **19.1** must, for the purposes of the Commissioner's review, provide the Commissioner with all information that was before the person in issuing or amending the authorization or making the determination **or order** at issue, including information that is subject to any privilege under the law of evidence, solicitor-client privilege or the professional secrecy of advocates and notaries or to litigation privilege.
+  **(1)** Despite any other Act of Parliament and subject to section 26, the person whose conclusions are being reviewed by the Commissioner under any of sections 13 to 19.1 must, for the purposes of the Commissioner's review, provide the Commissioner with all information that was before the person in issuing or amending the authorization or making the determination or order at issue, including information that is subject to any privilege under the law of evidence, solicitor-client privilege or the professional secrecy of advocates and notaries or to litigation privilege.
 
 
 ### Coming into Force
