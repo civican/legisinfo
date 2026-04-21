@@ -1,7 +1,5 @@
 # Bill S-225: An Act to establish National Thanadelthur Day
 
-**Sponsor**: Senator M
-
 ## Summary
 
 This enactment designates the 5th day of February in each year as "National Thanadelthur Day".
