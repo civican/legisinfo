@@ -1,5 +1,7 @@
 # Bill S-230: An Act respecting the development of a national strategy for soil health protection, conservation and enhancement
 
+**Sponsor**: Senator BLACK
+
 ## Summary
 
 This enactment requires the Minister of Agriculture and Agri-Food to develop a national strategy to support and promote efforts across Canada to protect, conserve and enhance the health of soil. It also provides for reporting requirements in relation to the strategy.
@@ -57,20 +59,9 @@ The following definitions apply in this Act.
 
   **(3)** In developing the national strategy, the Minister must also engage in a public consultation process with
 
-    stakeholders;
-
-    Indigenous and non-Indigenous
-representatives of agricultural industry
-and organizations; and
+    stakeholders, including representatives of agricultural industry and organizations; and
 
     any interested persons.
-
-  **(4)** The Minister must ensure that the views
-of farmers representing different regions of
-Canada and the diversity of farm operations
-are taken into account in a meaningful way
-during the consultations referred to in
-subsection (3).
 
 ### Section 4
 
