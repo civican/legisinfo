@@ -32,7 +32,7 @@ The following definitions apply in this Act.
 
 **Minister** means the member of the King's Privy Council for Canada designated under section 3. (**ministre**)
 
-**organ** **means** any form of human tissue, **including blood and bone marrow**. (**organe**)
+**organ** means any form of human tissue, including blood and bone marrow. (**organe**)
 
 
 ## Designation
@@ -54,15 +54,13 @@ The Governor in Council may determine the design of the Medal and its associated
 
 ### Section 6
 
-  **(1)** The Governor **General** may award the Medal to **a person** who has donated one **of their** organs **without profiting from the donation and is eligible for the Medal under the regulations**.
+  **(1)** The Governor General may award the Medal to a person who has donated one of their organs without profiting from the donation and is eligible for the Medal under the regulations.
 
   **(2)** The Medal is not to be awarded more than once to the same person.
 
-  **(3)** [*Deleted*]
-
 ### Section 7
 
-In order to recognize and promote living organ donation, the Medal is to be presented to the recipient, whenever possible, in a public ceremony **and** by a representative of the Crown, **a territorial commissioner**, a Senator, a member of **the House of Commons** or **a representative of an entity prescribed by regulation or of an entity of a prescribed class of entities. A public servant designated by the Office of the Governor General's Secretary determines whether the ceremony is public and the choice of presenter**.
+In order to recognize and promote living organ donation, the Medal is to be presented to the recipient, whenever possible, in a public ceremony and by a representative of the Crown, a territorial commissioner, a Senator, a member of the House of Commons or a representative of an entity prescribed by regulation or of an entity of a prescribed class of entities. A public servant designated by the Office of the Governor General's Secretary determines whether the ceremony is public and the choice of presenter.
 
 ### Section 7.1
 
@@ -75,13 +73,11 @@ A recipient of the Medal is entitled to use the post-nominal letters "L.D.M.".
 
 The Governor in Council may make regulations
 
-respecting the **eligibility criteria for** the Medal;
+respecting the eligibility criteria for the Medal;
 
-prescribing **entities** or classes of **entities that are responsible for assessing** eligibility for the Medal **or assisting with that assessment**; and
+prescribing entities or classes of entities that are responsible for assessing eligibility for the Medal or assisting with that assessment; and
 
 prescribing entities or classes of entities for the purposes of section 7.
-
-[*Deleted*]
 
 
 ## Prerogative
@@ -89,18 +85,4 @@ prescribing entities or classes of entities for the purposes of section 7.
 ### Section 9
 
 Nothing in this Act limits the right of the Governor General to exercise all powers and authorities of His Majesty in respect of the Medal.
-
-
-## Report to Parliament
-
-### Section 10
-
-[*Deleted*]
-
-
-## Implementation
-
-### Section 11
-
-[*Deleted*]
 
