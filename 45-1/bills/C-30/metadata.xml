@@ -1,0 +1,1504 @@
+<Bills>
+  <Bill>
+    <Id>14049789</Id>
+    <NumberCode>C-30</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>30</Number>
+    <LongTitleEn>An Act to implement certain provisions of the spring economic update tabled in Parliament on April 28, 2026</LongTitleEn>
+    <LongTitleFr>Loi portant exécution de certaines dispositions de la mise à jour économique du printemps déposée au Parlement le 28 avril 2026</LongTitleFr>
+    <LongTitle>An Act to implement certain provisions of the spring economic update tabled in Parliament on April 28, 2026</LongTitle>
+    <ShortTitleEn>Spring Economic Update 2026 Implementation Act</ShortTitleEn>
+    <ShortTitleFr>Loi d'exécution de la mise à jour économique du printemps 2026</ShortTitleFr>
+    <ShortTitle>Spring Economic Update 2026 Implementation Act</ShortTitle>
+    <StatusId>357</StatusId>
+    <StatusNameEn>Royal assent received</StatusNameEn>
+    <StatusNameFr>Sanction royale reçue</StatusNameFr>
+    <StatusName>Royal assent received</StatusName>
+    <LatestCompletedMajorStageId>60046</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>Royal assent</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Sanction royale</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>Royal assent</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>Royal assent</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>2</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>Senate</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Sénat</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>Senate</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60050</OngoingStageId>
+    <OngoingStageNameEn>Royal assent</OngoingStageNameEn>
+    <OngoingStageNameFr>Sanction royale</OngoingStageNameFr>
+    <OngoingStageName>Royal assent</OngoingStageName>
+    <LatestCompletedBillStageId>60050</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>Royal assent</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Sanction royale</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>Royal assent</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>2</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>Senate</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Sénat</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>Senate</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2026-06-18T19:49:00</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>45</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>88633</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>François-Philippe</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Champagne</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>François-Philippe Champagne</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Finance and National Revenue</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre des Finances et du Revenu national</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Finance and National Revenue</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>4</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>Minister</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>ministre</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>Minister</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>1044</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Saint-Maurice—Champlain</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Saint-Maurice—Champlain</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Saint-Maurice—Champlain</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60149</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Royal assent</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Sanction royale</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60050</LatestBillEventStageId>
+    <LatestBillEventTypeName>Royal assent</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2026-06-18T13:30:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>2</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>Senate</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Sénat</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>Senate</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>86</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2026-04-29T16:17:25.233</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime>2026-05-26T15:30:00</PassedHouseSecondReadingDateTime>
+    <PassedHouseThirdReadingDateTime>2026-06-18T13:00:00</PassedHouseThirdReadingDateTime>
+    <PassedSenateFirstReadingDateTime>2026-06-18T14:05:00</PassedSenateFirstReadingDateTime>
+    <PassedSenateSecondReadingDateTime>2026-06-18T15:20:00</PassedSenateSecondReadingDateTime>
+    <PassedSenateThirdReadingDateTime>2026-06-18T19:05:00</PassedSenateThirdReadingDateTime>
+    <ReceivedRoyalAssentDateTime>2026-06-18T19:49:00</ReceivedRoyalAssentDateTime>
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>true</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>true</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>true</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>true</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>true</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>true</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>true</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>&lt;div&gt;&lt;div&gt;On Thursday, May 7, 2026, the Senate adopted the following motion:&lt;p&gt;&lt;/p&gt;That, notwithstanding any provision of the Rules, previous order or usual practice:&lt;p&gt;&lt;/p&gt;1.	the &lt;a href="https://sencanada.ca/en/committees/banc/45-1" target="_blank"&gt;Standing Senate Committee on Banking, Commerce and the Economy&lt;/a&gt; be authorized to examine the subject matter of Bill C-20, An Act respecting the establishment of Build Canada Homes, introduced in the House of Commons on February 5, 2026, in advance of the said bill coming before the Senate, and that the committee submit its final report to the Senate no later than June 4, 2026;&lt;p&gt;&lt;/p&gt;2.	the &lt;a href="https://sencanada.ca/en/committees/lcjc/45-1" target="_blank"&gt;Standing Senate Committee on Legal and Constitutional Affairs&lt;/a&gt; be authorized to examine the subject matter of Bill C-25, An Act to amend the Canada Elections Act and to enact An Act to change the names of certain electoral districts, 2026, introduced in the House of Commons on March 26, 2026, in advance of the said bill coming before the Senate, and that the committee submit its final report to the Senate no later than June 4, 2026;&lt;p&gt;&lt;/p&gt;3.	the &lt;a href="https://sencanada.ca/en/committees/nffn/45-1" target="_blank"&gt;Standing Senate Committee on National Finance&lt;/a&gt; be authorized to examine the subject matter of Bill C-30, An Act to implement certain provisions of the spring economic update tabled in Parliament on April 28, 2026, introduced in the House of Commons on April 29, 2026, in advance of the said bill coming before the Senate, and that the committee submit its final report to the Senate no later than June 11, 2026;&lt;p&gt;&lt;/p&gt;4.	each of the aforementioned committees be authorized to deposit its report with the Clerk of the Senate if the Senate is not then sitting;&lt;p&gt;&lt;/p&gt;5.	as the report from each of the aforementioned committees is tabled in the Senate, it be placed on the Orders of the Day for consideration at the next sitting, provided that if a report is deposited with the Clerk, it be placed on the Orders of the Day for consideration at the next sitting following the one on which the depositing is recorded in the &lt;i&gt;Journals of the Senate&lt;/i&gt;; and&lt;p&gt;&lt;/p&gt;6.	for the purposes of its study, each of the aforementioned committees be authorized to meet even though the Senate may then be sitting or adjourned, with the application of rules 12-18(1) and 12-18(2) being suspended in relation thereto.&lt;/div&gt;&lt;/div&gt;</NotesEn>
+    <NotesFr>&lt;div&gt;Le jeudi 7 mai 2026, le Sénat a adopté la motion suivante :&lt;p&gt;&lt;/p&gt;Que, nonobstant toute disposition du Règlement, tout ordre antérieur ou toute pratique habituelle :&lt;p&gt;&lt;/p&gt;1.	le &lt;a href="https://sencanada.ca/fr/comites/banc/45-1" target="_blank"&gt;Comité sénatorial permanent des banques, du commerce et de l'économie&lt;/a&gt; soit autorisé à étudier la teneur du projet de loi C-20, Loi concernant la constitution de Maisons Canada, déposé à la Chambre des communes le 5 février 2026, avant que ce projet de loi soit soumis au Sénat, et que le comité soumette son rapport final au Sénat au plus tard le 4 juin 2026;&lt;p&gt;&lt;/p&gt;2.	le &lt;a href="https://sencanada.ca/fr/comites/lcjc/45-1" target="_blank"&gt;Comité sénatorial permanent des affaires juridiques et constitutionnelles&lt;/a&gt; soit autorisé à étudier la teneur du projet de loi C-25, Loi modifiant la Loi électorale du Canada et édictant la Loi de 2026 visant à changer le nom de certaines circonscriptions électorales, déposé à la Chambre des communes le 26 mars 2026, avant que ce projet de loi soit soumis au Sénat, et que le comité soumette son rapport final au Sénat au plus tard le 4 juin 2026;&lt;p&gt;&lt;/p&gt;3.	le &lt;a href="https://sencanada.ca/fr/comites/nffn/45-1" target="_blank"&gt;Comité sénatorial permanent des finances nationales&lt;/a&gt; soit autorisé à étudier la teneur du projet de loi C-30, Loi portant exécution de certaines dispositions de la mise à jour économique du printemps déposée au Parlement le 28 avril 2026, déposé à la Chambre des communes le 29 avril 2026, avant que ce projet de loi soit soumis au Sénat, et que le comité soumette son rapport final au Sénat au plus tard le 11 juin 2026;&lt;p&gt;&lt;/p&gt;4.	chacun des comités susmentionnés soit autorisé à déposer son rapport auprès de la greffière du Sénat si le Sénat ne siège pas à ce moment-là;&lt;p&gt;&lt;/p&gt;5.	au fur et à mesure que le rapport de chacun des comités susmentionnés est déposé au Sénat, il soit inscrit à l'ordre du jour pour étude à la prochaine séance, à condition que si un rapport est déposé auprès de la greffière, l'étude de ce rapport soit inscrite à l'ordre du jour de la séance qui suit celle où le dépôt est consigné aux &lt;i&gt;Journaux du Sénat&lt;/i&gt;;&lt;p&gt;&lt;/p&gt;6.	aux fins de son étude, chacun des comités susmentionnés soit autorisé à se réunir, même si le Sénat siège à ce moment-là ou est alors ajourné, l'application des articles 12-18(1) et 12-18(2) du Règlement étant suspendue à cet égard.&lt;/div&gt;</NotesFr>
+    <Notes>&lt;div&gt;&lt;div&gt;On Thursday, May 7, 2026, the Senate adopted the following motion:&lt;p&gt;&lt;/p&gt;That, notwithstanding any provision of the Rules, previous order or usual practice:&lt;p&gt;&lt;/p&gt;1.	the &lt;a href="https://sencanada.ca/en/committees/banc/45-1" target="_blank"&gt;Standing Senate Committee on Banking, Commerce and the Economy&lt;/a&gt; be authorized to examine the subject matter of Bill C-20, An Act respecting the establishment of Build Canada Homes, introduced in the House of Commons on February 5, 2026, in advance of the said bill coming before the Senate, and that the committee submit its final report to the Senate no later than June 4, 2026;&lt;p&gt;&lt;/p&gt;2.	the &lt;a href="https://sencanada.ca/en/committees/lcjc/45-1" target="_blank"&gt;Standing Senate Committee on Legal and Constitutional Affairs&lt;/a&gt; be authorized to examine the subject matter of Bill C-25, An Act to amend the Canada Elections Act and to enact An Act to change the names of certain electoral districts, 2026, introduced in the House of Commons on March 26, 2026, in advance of the said bill coming before the Senate, and that the committee submit its final report to the Senate no later than June 4, 2026;&lt;p&gt;&lt;/p&gt;3.	the &lt;a href="https://sencanada.ca/en/committees/nffn/45-1" target="_blank"&gt;Standing Senate Committee on National Finance&lt;/a&gt; be authorized to examine the subject matter of Bill C-30, An Act to implement certain provisions of the spring economic update tabled in Parliament on April 28, 2026, introduced in the House of Commons on April 29, 2026, in advance of the said bill coming before the Senate, and that the committee submit its final report to the Senate no later than June 11, 2026;&lt;p&gt;&lt;/p&gt;4.	each of the aforementioned committees be authorized to deposit its report with the Clerk of the Senate if the Senate is not then sitting;&lt;p&gt;&lt;/p&gt;5.	as the report from each of the aforementioned committees is tabled in the Senate, it be placed on the Orders of the Day for consideration at the next sitting, provided that if a report is deposited with the Clerk, it be placed on the Orders of the Day for consideration at the next sitting following the one on which the depositing is recorded in the &lt;i&gt;Journals of the Senate&lt;/i&gt;; and&lt;p&gt;&lt;/p&gt;6.	for the purposes of its study, each of the aforementioned committees be authorized to meet even though the Senate may then be sitting or adjourned, with the application of rules 12-18(1) and 12-18(2) being suspended in relation thereto.&lt;/div&gt;&lt;/div&gt;</Notes>
+    <ShortLegislativeSummaryEn>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information, Education and Research Services of the Library of Parliament. Meanwhile, the following executive summary is available.&lt;br/&gt;&lt;br/&gt;On 29 April 2026, the Minister of Finance and National Revenue introduced Bill C-30, An Act to implement certain provisions of the spring economic update tabled in Parliament on April 28, 2026 (Spring Economic Update 2026 Implementation Act) in the House of Commons and it was given first reading.   &lt;br/&gt;&lt;br/&gt;Bill C-30 Part 1 implements certain measures in respect of the Income Tax Act and the Income Tax Regulations by&lt;br/&gt;&lt;br/&gt;(a) modifying the Labour Mobility Deduction for eligible tradespeople by increasing the annual limit on expenses that can be deducted and by reducing the distance threshold for eligibility;&lt;br/&gt;&lt;br/&gt;(b) making permanent the capital gains tax exemption for the sale of a business to an employee ownership trust or a worker co-operative;&lt;br/&gt;&lt;br/&gt;(c) extending the repayment grace period under the Home Buyers' Plan;&lt;br/&gt;&lt;br/&gt;(d) providing temporary immediate expensing for eligible greenhouse buildings; and&lt;br/&gt;&lt;br/&gt;(e) improving the interaction of the Electric Vehicle Affordability Program with existing tax rules.&lt;br/&gt;&lt;br/&gt;Part 2 amends the Excise Tax Act to temporarily set the excise tax rate on gasoline and aviation gasoline to $0.00 and on diesel fuel and aviation fuel to $0.00 for the period beginning on April 20, 2026 and ending on September 7, 2026. It also amends the Excise Act and the Excise Act, 2001 to implement an additional two-year extension of the 2% cap on the annual alcohol excise duty inflation adjustment, and of the 50% reduction on excise duty rates for the first 15,000 hectolitres of beer brewed in Canada, effective April 1, 2026.&lt;br/&gt;&lt;br/&gt;Part 3 amends several Acts in order to implement various measures.&lt;br/&gt;&lt;br/&gt;Division 1 of Part 3 amends the Bank Act to provide that the Investment Canada Act does not apply in respect of certain transactions made by foreign banks or entities associated with a foreign bank if the transactions are subject to an approval under the Bank Act, the Trust and Loan Companies Act or the Insurance Companies Act.&lt;br/&gt;&lt;br/&gt;Division 2 of Part 3 amends the Bank of Canada Act to combine into a single Act the Bank of Canada's powers, duties and functions related to the recovery of costs incurred by it for or in connection with the administration of certain Acts. It also makes related amendments to other Acts.&lt;br/&gt;&lt;br/&gt;Division 3 of Part 3 amends the Canadian Payments Act to provide immunity for the Canadian Payment Association and certain individuals from any civil liability, other than in contract, for anything done or omitted to be done in good faith in the administration or discharge of any powers or duties conferred under that Act.&lt;br/&gt;&lt;br/&gt;Division 4 of Part 3 amends the Employment Insurance Act to, among other things,&lt;br/&gt;&lt;br/&gt;(a) extend, until October 7, 2028, the duration of the measure that increases the maximum number of weeks for which benefits may be paid in a benefit period to certain seasonal workers;&lt;br/&gt;&lt;br/&gt;(b) remove the description of the regions in which the workers must be ordinarily resident to be eligible for the increase;&lt;br/&gt;&lt;br/&gt;(c) provide that those regions are established by regulation; and&lt;br/&gt;&lt;br/&gt;(d) provide that paragraph 12(2.3)(b) of that Act is repealed on November 7, 2027.&lt;br/&gt;&lt;br/&gt;Division 5 of Part 3 amends the Canada Pension Plan to reduce the contribution rate for employees, employers and self-employed persons for the year 2027 and each subsequent year.&lt;br/&gt;&lt;br/&gt;Division 6 of Part 3 amends the Canada Transportation Act to require certain individuals and entities to provide the Minister of Transport with information that that Minister considers necessary for the exercise of the powers and the performance of the duties and functions of that Minister or for the development of transportation policies. The Division also amends that Act to specify the individuals and entities to whom such information may be communicated.&lt;br/&gt;&lt;br/&gt;Division 7 of Part 3 amends the Canadian Food Inspection Agency Act to clarify the mandate of the Canadian Food Inspection Agency and authorize the Governor in Council to, in certain circumstances, exempt persons, things or activities, or classes of persons, things or activities, from the application of provisions of certain Acts of Parliament, or regulations made under those Acts, that are administered or enforced by the Agency. It also makes a consequential amendment to the Agriculture and Agri-Food Administrative Monetary Penalties Act.&lt;br/&gt;&lt;br/&gt;Division 8 of Part 3 amends the Pest Control Products Act to, among other things,&lt;br/&gt;&lt;br/&gt;(a) require the Minister of Health to consider, as appropriate, national economic security, regional economic security or national food security, for the purposes of that Act;&lt;br/&gt;&lt;br/&gt;(b) authorize the Governor in Council to, by order, after that Minister has decided that they do not consider the environmental risks of a pest control product to be acceptable, register or amend the product's registration to permit its use in the emergency control of a seriously detrimental infestation, or amend, reinstate, or both reinstate and amend the registration of the product, if the Governor in Council considers it necessary to do so to protect national economic security, regional economic security or national food security; and&lt;br/&gt;&lt;br/&gt;(c) provide that the Governor in Council may establish conditions in the order.&lt;/div&gt;</ShortLegislativeSummaryEn>
+    <ShortLegislativeSummaryFr>&lt;div&gt;Les Service d'information, d'éducation et de recherche parlementaires de la Bibliothèque du Parlement rédige actuellement le résumé législatif de ce projet de loi.  Entre-temps, le Service met à votre disposition le sommaire suivant.  &lt;br/&gt;&lt;br/&gt;Le 29 avril 2026, le ministre des Finances et du Revenu national à la Chambre des communes a déposé le projet de loi C-30, Loi portant exécution de certaines dispositions de la mise à jour économique du printemps déposée au Parlement le 28 avril 2026 (Loi d'exécution de la mise à jour économique du printemps 2026) à la Chambre des communes en première lecture. &lt;br/&gt;&lt;br/&gt;La partie 1 met en œuvre certaines mesures relatives à la Loi de l'impôt sur le revenu et au Règlement de l'impôt sur le revenu pour?:&lt;br/&gt;&lt;br/&gt;a) modifier la déduction pour la mobilité de la main-d'œuvre pour les gens de métier admissibles en augmentant la limite annuelle des dépenses pouvant être déduites et en réduisant le seuil de distance pour y être admissible;&lt;br/&gt;&lt;br/&gt;b) prolonger indéfiniment l'exonération cumulative des gains en capital réalisés sur la vente d'une entreprise à une fiducie collective des employés ou à une coopérative de travailleurs;&lt;br/&gt;&lt;br/&gt;c) prolonger le délai de grâce pour les remboursements dans le cadre du régime d'accession à la propriété;&lt;br/&gt;&lt;br/&gt;d) accorder une passation en charges immédiate temporaire pour les serres admissibles;&lt;br/&gt;&lt;br/&gt;e) améliorer l'interaction entre le Programme pour des véhicules électriques abordables et les règles fiscales existantes.&lt;br/&gt;&lt;br/&gt;La partie 2 modifie la Loi sur la taxe d'accise afin de fixer temporairement le taux de la taxe d'accise sur l'essence et l'essence d'aviation à 0,00?$ et celui sur le combustible diesel et le carburant d'aviation à 0,00?$ pour la période commençant le 20 avril 2026 et se terminant le 7 septembre 2026. Elle modifie également la Loi sur l'accise et la Loi de 2001 sur l'accise pour prolonger de deux ans le plafond de 2?% sur le rajustement annuel du droit d'accise sur l'alcool en fonction de l'inflation et la réduction de 50?% des taux du droit d'accise sur les 15?000 premiers hectolitres de bière brassée au Canada, à compter du 1er avril 2026.&lt;br/&gt;&lt;br/&gt;La partie 3 modifie plusieurs lois afin de mettre en œuvre diverses mesures.&lt;br/&gt;&lt;br/&gt;La section 1 de la partie 3 modifie la Loi sur les banques afin de prévoir que la Loi sur Investissement Canada ne s'applique pas à certaines opérations effectuées par des banques étrangères ou des entités liées à une banque étrangère, si ces opérations sont assujetties à un agrément aux termes de la Loi sur les banques, de la Loi sur les sociétés de fiducie et de prêt ou de la Loi sur les sociétés d'assurances.&lt;br/&gt;&lt;br/&gt;La section 2 de la partie 3 modifie la Loi sur la Banque du Canada pour y réunir dans une seule loi les attributions de la Banque du Canada relatives au recouvrement des coûts engagés par elle dans l'exécution de certaines lois. De plus, elle apporte des modifications connexes à d'autres lois.&lt;br/&gt;&lt;br/&gt;La section 3 de la partie 3 modifie la Loi canadienne sur les paiements afin de prévoir que l'Association canadienne des paiements et certains individus bénéficient de l'immunité en matière de responsabilité civile, à l'exception de la responsabilité civile contractuelle, pour les actes ou omissions commis de bonne foi dans l'exercice des pouvoirs ou fonctions conférés sous le régime de cette loi.&lt;br/&gt;&lt;br/&gt;La section 4 de la partie 3 modifie la Loi sur l'assurance-emploi afin, notamment?:&lt;br/&gt;&lt;br/&gt;a) de prolonger, jusqu'au 7 octobre 2028, la durée de la mesure prévoyant l'augmentation du nombre maximal de semaines pour lesquelles des prestations peuvent être versées à certains travailleurs saisonniers au cours d'une période de prestations;&lt;br/&gt;&lt;br/&gt;b) de retirer la description des régions où ces travailleurs doivent résider habituellement afin d'être admissibles à l'augmentation;&lt;br/&gt;&lt;br/&gt;c) de prévoir que ces régions sont identifiées par règlement;&lt;br/&gt;&lt;br/&gt;d) de prévoir que l'alinéa 12(2.3)b) de cette loi est abrogé le 7 novembre 2027.&lt;br/&gt;&lt;br/&gt;La section 5 de la partie 3 modifie le Régime de pensions du Canada afin de réduire le taux de cotisation des employés, des employeurs et des travailleurs autonomes pour l'année 2027 et chaque année subséquente.&lt;br/&gt;&lt;br/&gt;La section 6 de la partie 3 modifie la Loi sur les transports au Canada pour exiger de certaines personnes physiques et entités qu'elles fournissent au ministre des Transports des renseignements qu'il estime nécessaires à l'exercice de ses attributions ou à l'élaboration d'orientations en matière de transport. Elle précise également les personnes physiques et entités auxquelles de tels renseignements peuvent être communiqués.&lt;br/&gt;&lt;br/&gt;La section 7 de la partie 3 modifie la Loi sur l'Agence canadienne d'inspection des aliments afin de clarifier la mission de l'Agence canadienne d'inspection des aliments et d'autoriser le gouverneur en conseil, dans certaines circonstances, à soustraire des personnes, des choses ou des activités, ou des catégories de celles-ci, à l'application des dispositions de certaines lois fédérales dont l'Agence est chargée d'assurer ou de contrôler l'application ou des règlements pris en vertu de ces lois. Elle apporte également une modification corrélative à la Loi sur les sanctions administratives pécuniaires en matière d'agriculture et d'agroalimentaire.&lt;br/&gt;&lt;br/&gt;La section 8 de la partie 3 modifie la Loi sur les produits antiparasitaires afin, notamment?:&lt;br/&gt;&lt;br/&gt;a) d'exiger que le ministre de la Santé prenne en considération, au besoin et pour l'application de cette loi, la sécurité économique, à l'échelle nationale ou régionale, ou la sécurité alimentaire, à l'échelle nationale;&lt;br/&gt;&lt;br/&gt;b) d'autoriser le gouverneur en conseil, à la suite d'une décision de ce ministre selon laquelle il n'arrive pas à la conclusion que les risques environnementaux d'un produit antiparasitaire sont acceptables, à homologuer le produit ou à modifier son homologation, par décret, pour permettre son utilisation dans la lutte d'urgence contre une infestation gravement préjudiciable, ou à modifier, rétablir ou rétablir et modifier l'homologation du produit, par décret, si le gouverneur en conseil estime qu'il est nécessaire de le faire pour protéger la sécurité économique, à l'échelle nationale ou régionale, ou la sécurité alimentaire, à l'échelle nationale;&lt;br/&gt;&lt;br/&gt;c) de prévoir que le gouverneur en conseil peut énoncer des conditions dans les décrets.&lt;/div&gt;</ShortLegislativeSummaryFr>
+    <ShortLegislativeSummary>&lt;div&gt;A legislative summary is currently being prepared for this bill by the Parliamentary Information, Education and Research Services of the Library of Parliament. Meanwhile, the following executive summary is available.&lt;br/&gt;&lt;br/&gt;On 29 April 2026, the Minister of Finance and National Revenue introduced Bill C-30, An Act to implement certain provisions of the spring economic update tabled in Parliament on April 28, 2026 (Spring Economic Update 2026 Implementation Act) in the House of Commons and it was given first reading.   &lt;br/&gt;&lt;br/&gt;Bill C-30 Part 1 implements certain measures in respect of the Income Tax Act and the Income Tax Regulations by&lt;br/&gt;&lt;br/&gt;(a) modifying the Labour Mobility Deduction for eligible tradespeople by increasing the annual limit on expenses that can be deducted and by reducing the distance threshold for eligibility;&lt;br/&gt;&lt;br/&gt;(b) making permanent the capital gains tax exemption for the sale of a business to an employee ownership trust or a worker co-operative;&lt;br/&gt;&lt;br/&gt;(c) extending the repayment grace period under the Home Buyers' Plan;&lt;br/&gt;&lt;br/&gt;(d) providing temporary immediate expensing for eligible greenhouse buildings; and&lt;br/&gt;&lt;br/&gt;(e) improving the interaction of the Electric Vehicle Affordability Program with existing tax rules.&lt;br/&gt;&lt;br/&gt;Part 2 amends the Excise Tax Act to temporarily set the excise tax rate on gasoline and aviation gasoline to $0.00 and on diesel fuel and aviation fuel to $0.00 for the period beginning on April 20, 2026 and ending on September 7, 2026. It also amends the Excise Act and the Excise Act, 2001 to implement an additional two-year extension of the 2% cap on the annual alcohol excise duty inflation adjustment, and of the 50% reduction on excise duty rates for the first 15,000 hectolitres of beer brewed in Canada, effective April 1, 2026.&lt;br/&gt;&lt;br/&gt;Part 3 amends several Acts in order to implement various measures.&lt;br/&gt;&lt;br/&gt;Division 1 of Part 3 amends the Bank Act to provide that the Investment Canada Act does not apply in respect of certain transactions made by foreign banks or entities associated with a foreign bank if the transactions are subject to an approval under the Bank Act, the Trust and Loan Companies Act or the Insurance Companies Act.&lt;br/&gt;&lt;br/&gt;Division 2 of Part 3 amends the Bank of Canada Act to combine into a single Act the Bank of Canada's powers, duties and functions related to the recovery of costs incurred by it for or in connection with the administration of certain Acts. It also makes related amendments to other Acts.&lt;br/&gt;&lt;br/&gt;Division 3 of Part 3 amends the Canadian Payments Act to provide immunity for the Canadian Payment Association and certain individuals from any civil liability, other than in contract, for anything done or omitted to be done in good faith in the administration or discharge of any powers or duties conferred under that Act.&lt;br/&gt;&lt;br/&gt;Division 4 of Part 3 amends the Employment Insurance Act to, among other things,&lt;br/&gt;&lt;br/&gt;(a) extend, until October 7, 2028, the duration of the measure that increases the maximum number of weeks for which benefits may be paid in a benefit period to certain seasonal workers;&lt;br/&gt;&lt;br/&gt;(b) remove the description of the regions in which the workers must be ordinarily resident to be eligible for the increase;&lt;br/&gt;&lt;br/&gt;(c) provide that those regions are established by regulation; and&lt;br/&gt;&lt;br/&gt;(d) provide that paragraph 12(2.3)(b) of that Act is repealed on November 7, 2027.&lt;br/&gt;&lt;br/&gt;Division 5 of Part 3 amends the Canada Pension Plan to reduce the contribution rate for employees, employers and self-employed persons for the year 2027 and each subsequent year.&lt;br/&gt;&lt;br/&gt;Division 6 of Part 3 amends the Canada Transportation Act to require certain individuals and entities to provide the Minister of Transport with information that that Minister considers necessary for the exercise of the powers and the performance of the duties and functions of that Minister or for the development of transportation policies. The Division also amends that Act to specify the individuals and entities to whom such information may be communicated.&lt;br/&gt;&lt;br/&gt;Division 7 of Part 3 amends the Canadian Food Inspection Agency Act to clarify the mandate of the Canadian Food Inspection Agency and authorize the Governor in Council to, in certain circumstances, exempt persons, things or activities, or classes of persons, things or activities, from the application of provisions of certain Acts of Parliament, or regulations made under those Acts, that are administered or enforced by the Agency. It also makes a consequential amendment to the Agriculture and Agri-Food Administrative Monetary Penalties Act.&lt;br/&gt;&lt;br/&gt;Division 8 of Part 3 amends the Pest Control Products Act to, among other things,&lt;br/&gt;&lt;br/&gt;(a) require the Minister of Health to consider, as appropriate, national economic security, regional economic security or national food security, for the purposes of that Act;&lt;br/&gt;&lt;br/&gt;(b) authorize the Governor in Council to, by order, after that Minister has decided that they do not consider the environmental risks of a pest control product to be acceptable, register or amend the product's registration to permit its use in the emergency control of a seriously detrimental infestation, or amend, reinstate, or both reinstate and amend the registration of the product, if the Governor in Council considers it necessary to do so to protect national economic security, regional economic security or national food security; and&lt;br/&gt;&lt;br/&gt;(c) provide that the Governor in Council may establish conditions in the order.&lt;/div&gt;</ShortLegislativeSummary>
+    <IsFullLegislativeSummaryAvailable>true</IsFullLegislativeSummaryAvailable>
+    <StatuteYear>2026</StatuteYear>
+    <StatuteChapter>22</StatuteChapter>
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>45</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2026-04-29T16:17:25.233</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>113</Number>
+          <Date>2026-04-29T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2026-04-29T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2026-04-29T16:17:25.233</EventStartDateTime>
+          <EventEndDateTime>2026-04-29T16:17:25.233</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2026-04-29T16:17:25.233</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>45</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2026-05-26T15:30:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>30562</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+          <StudyActivityId>13525935</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>115</Number>
+          <Date>2026-05-01T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>118</Number>
+          <Date>2026-05-06T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>121</Number>
+          <Date>2026-05-25T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>122</Number>
+          <Date>2026-05-26T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>13517014</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>14058347</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>2nd reading and referral to committee - FINA</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>2e lecture et renvoi en comité - FINA</DecisionMotionTitleFr>
+          <DecisionMotionTitle>2nd reading and referral to committee - FINA</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>10</DecisionMethodId>
+          <DecisionMethodNameEn>On recorded division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Suivant un vote par appel nominal</DecisionMethodNameFr>
+          <DecisionMethodName>On recorded division</DecisionMethodName>
+          <DivisionNumber>125</DivisionNumber>
+          <DivisionVotesYeas>170</DivisionVotesYeas>
+          <DivisionVotesNays>164</DivisionVotesNays>
+          <DivisionVotePaired>6</DivisionVotePaired>
+          <DecisionSittingDate>2026-05-26T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>122</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60121</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading and referral to committee</EventNameEn>
+          <EventNameFr>Deuxième lecture et renvoi en comité</EventNameFr>
+          <EventName>Second reading and referral to committee</EventName>
+          <EventDateTime>2026-05-26T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60121</EventTypeId>
+          <EventTypeNameEn>Second reading and referral to committee</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture et renvoi en comité</EventTypeNameFr>
+          <EventTypeName>Second reading and referral to committee</EventTypeName>
+          <EventStartDateTime>2026-05-26T15:30:00</EventStartDateTime>
+          <EventEndDateTime>2026-05-26T15:30:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2026-05-26T15:30:00</LastStageEventStartDateTime>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>13487469</InterventionEventId>
+          <EventTypeId>60152</EventTypeId>
+          <EventTypeNameEn>Sponsor's speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours du parrain</EventTypeNameFr>
+          <EventTypeName>Sponsor's speech</EventTypeName>
+          <PersonId>105480</PersonId>
+          <PersonOfficialFirstName>Ryan</PersonOfficialFirstName>
+          <PersonOfficialLastName>Turnbull</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Ryan Turnbull</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Liberal</CaucusShortNameEn>
+          <CaucusShortNameFr>Libéral</CaucusShortNameFr>
+          <CaucusShortName>Liberal</CaucusShortName>
+          <ParliamentNumber>45</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>115</MeetingNumber>
+          <SpeechDateTime>2026-05-01T10:01:51</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>13487569</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>89130</PersonId>
+          <PersonOfficialFirstName>Pat</PersonOfficialFirstName>
+          <PersonOfficialLastName>Kelly</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Pat Kelly</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Conservative</CaucusShortNameEn>
+          <CaucusShortNameFr>Conservateur</CaucusShortNameFr>
+          <CaucusShortName>Conservative</CaucusShortName>
+          <ParliamentNumber>45</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>115</MeetingNumber>
+          <SpeechDateTime>2026-05-01T10:32:03</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <Speeches>
+          <BillId>0</BillId>
+          <ChamberOrganizationId>1</ChamberOrganizationId>
+          <InterventionEventId>13488034</InterventionEventId>
+          <EventTypeId>60153</EventTypeId>
+          <EventTypeNameEn>Response speech</EventTypeNameEn>
+          <EventTypeNameFr>Discours en réponse</EventTypeNameFr>
+          <EventTypeName>Response speech</EventTypeName>
+          <PersonId>88418</PersonId>
+          <PersonOfficialFirstName>Yves</PersonOfficialFirstName>
+          <PersonOfficialLastName>Perron</PersonOfficialLastName>
+          <PersonMiddleName>
+          </PersonMiddleName>
+          <PersonName>Yves Perron</PersonName>
+          <SenateSystemAffiliationId />
+          <CaucusShortNameEn>Bloc Québécois</CaucusShortNameEn>
+          <CaucusShortNameFr>Bloc Québécois</CaucusShortNameFr>
+          <CaucusShortName>Bloc Québécois</CaucusShortName>
+          <ParliamentNumber>45</ParliamentNumber>
+          <SessionNumber>1</SessionNumber>
+          <MeetingNumber>115</MeetingNumber>
+          <SpeechDateTime>2026-05-01T12:16:03</SpeechDateTime>
+          <UrlEn>
+          </UrlEn>
+          <UrlFr>
+          </UrlFr>
+          <Url>
+          </Url>
+        </Speeches>
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>45</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2026-06-16T11:13:38.38</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>30562</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+          <StudyActivityId>13525935</StudyActivityId>
+          <OrganizationTypeId>6</OrganizationTypeId>
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented with amendments</NameEn>
+          <NameFr>Présentation du rapport de comité avec des amendements</NameFr>
+          <Name>Committee report presented with amendments</Name>
+          <Number>137</Number>
+          <Date>2026-06-16T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>30562</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <Number>42</Number>
+          <Date>2026-06-01T00:00:00</Date>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>30562</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <Number>44</Number>
+          <Date>2026-06-04T00:00:00</Date>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>30562</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <Number>45</Number>
+          <Date>2026-06-08T00:00:00</Date>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>30562</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <Number>46</Number>
+          <Date>2026-06-10T00:00:00</Date>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>30562</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Committee on Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité permanent des finances</CommitteeNameFr>
+          <CommitteeAcronym>FINA</CommitteeAcronym>
+          <Number>48</Number>
+          <Date>2026-06-16T00:00:00</Date>
+          <CommitteeName>Standing Committee on Finance</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented with amendments</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité avec des amendements</EventNameFr>
+          <EventName>Committee report presented with amendments</EventName>
+          <EventDateTime>2026-06-16T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId>14160345</CommitteeReportId>
+          <CommitteeReportNumber>3</CommitteeReportNumber>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2026-06-16T11:13:38.38</EventStartDateTime>
+          <EventEndDateTime>2026-06-16T11:13:38.38</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2026-06-16T11:13:38.38</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>45</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2026-06-18T10:31:46</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at report stage</NameEn>
+          <NameFr>Débat à l'étape du rapport</NameFr>
+          <Name>Debate at report stage</Name>
+          <Number>139</Number>
+          <Date>2026-06-18T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60285</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Concurrence at report stage</EventNameEn>
+          <EventNameFr>Adoption à l'étape du rapport</EventNameFr>
+          <EventName>Concurrence at report stage</EventName>
+          <EventDateTime>2026-06-18T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60285</EventTypeId>
+          <EventTypeNameEn>Concurrence at report stage</EventTypeNameEn>
+          <EventTypeNameFr>Adoption à l'étape du rapport</EventTypeNameFr>
+          <EventTypeName>Concurrence at report stage</EventTypeName>
+          <EventStartDateTime>2026-06-18T10:31:46</EventStartDateTime>
+          <EventEndDateTime>2026-06-18T10:31:46</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2026-06-18T10:31:46</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>45</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2026-06-18T13:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>139</Number>
+          <Date>2026-06-18T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <Decisions>
+          <DecisionProceduralEventId>13592764</DecisionProceduralEventId>
+          <DecisionMotionDocumentId>14058349</DecisionMotionDocumentId>
+          <DecisionMotionTitleEn>3rd reading</DecisionMotionTitleEn>
+          <DecisionMotionTitleFr>3e lecture</DecisionMotionTitleFr>
+          <DecisionMotionTitle>3rd reading</DecisionMotionTitle>
+          <DecisionResultId>15</DecisionResultId>
+          <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+          <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+          <DecisionResultName>Agreed To</DecisionResultName>
+          <DecisionMethodId>10</DecisionMethodId>
+          <DecisionMethodNameEn>On recorded division</DecisionMethodNameEn>
+          <DecisionMethodNameFr>Suivant un vote par appel nominal</DecisionMethodNameFr>
+          <DecisionMethodName>On recorded division</DecisionMethodName>
+          <DivisionNumber>173</DivisionNumber>
+          <DivisionVotesYeas>166</DivisionVotesYeas>
+          <DivisionVotesNays>159</DivisionVotesNays>
+          <DivisionVotePaired>12</DivisionVotePaired>
+          <DecisionSittingDate>2026-06-18T00:00:00</DecisionSittingDate>
+          <DecisionSittingNumber>139</DecisionSittingNumber>
+        </Decisions>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2026-06-18T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2026-06-18T13:00:00</EventStartDateTime>
+          <EventEndDateTime>2026-06-18T13:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2026-06-18T13:00:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60038</BillStageId>
+        <BillStageNameEn>Senate pre-study</BillStageNameEn>
+        <BillStageNameFr>Étude préalable au Sénat</BillStageNameFr>
+        <BillStageName>Senate pre-study</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>45</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2026-06-11T10:00:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Pre-study of House bill</NameEn>
+          <NameFr>Étude préalable d'un projet de loi émanant de la Chambre des communes</NameFr>
+          <Name>Pre-study of House bill</Name>
+          <Number>73</Number>
+          <Date>2026-05-07T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <Sittings>
+          <NameEn>Committee report on subject matter of bill tabled</NameEn>
+          <NameFr>Dépôt du rapport de comité sur l'objet du projet de loi</NameFr>
+          <Name>Committee report on subject matter of bill tabled</Name>
+          <Number>82</Number>
+          <Date>2026-06-11T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>47</Number>
+          <Date>2026-05-26T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>48</Number>
+          <Date>2026-05-27T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>49</Number>
+          <Date>2026-05-28T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>50</Number>
+          <Date>2026-06-02T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>51</Number>
+          <Date>2026-06-03T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60109</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Pre-study of House bill</EventNameEn>
+          <EventNameFr>Étude préalable d'un projet de loi émanant de la Chambre des communes</EventNameFr>
+          <EventName>Pre-study of House bill</EventName>
+          <EventDateTime>2026-05-07T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>false</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <SignificantEvents>
+          <EventTypeId>60305</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report on subject matter of bill tabled</EventNameEn>
+          <EventNameFr>Dépôt du rapport de comité sur l'objet du projet de loi</EventNameFr>
+          <EventName>Committee report on subject matter of bill tabled</EventName>
+          <EventDateTime>2026-06-11T10:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <SignificantEvents>
+          <EventTypeId>90362</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Pre-Study of Commons Bill Completed</EventNameEn>
+          <EventNameFr>Étude préalable d'un projet de loi émanant de la Chambre des communes complétée</EventNameFr>
+          <EventName>Pre-Study of Commons Bill Completed</EventName>
+          <EventDateTime>2026-06-11T10:05:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60305</EventTypeId>
+          <EventTypeNameEn>Committee report on subject matter of bill tabled</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt du rapport de comité sur l'objet du projet de loi</EventTypeNameFr>
+          <EventTypeName>Committee report on subject matter of bill tabled</EventTypeName>
+          <EventStartDateTime>2026-06-11T10:00:00</EventStartDateTime>
+          <EventEndDateTime>2026-06-11T10:00:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2026-06-11T10:05:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>45</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2026-06-18T14:05:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>First reading</NameEn>
+          <NameFr>Première lecture</NameFr>
+          <Name>First reading</Name>
+          <Number>86</Number>
+          <Date>2026-06-18T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60111</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>First reading</EventNameEn>
+          <EventNameFr>Première lecture</EventNameFr>
+          <EventName>First reading</EventName>
+          <EventDateTime>2026-06-18T14:05:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60111</EventTypeId>
+          <EventTypeNameEn>First reading</EventTypeNameEn>
+          <EventTypeNameFr>Première lecture</EventTypeNameFr>
+          <EventTypeName>First reading</EventTypeName>
+          <EventStartDateTime>2026-06-18T14:05:00</EventStartDateTime>
+          <EventEndDateTime>2026-06-18T14:05:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2026-06-18T14:05:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>45</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2026-06-18T15:20:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Debate at second reading</NameEn>
+          <NameFr>Débat à l'étape de la deuxième lecture</NameFr>
+          <Name>Debate at second reading</Name>
+          <Number>86</Number>
+          <Date>2026-06-18T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60120</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Second reading</EventNameEn>
+          <EventNameFr>Deuxième lecture</EventNameFr>
+          <EventName>Second reading</EventName>
+          <EventDateTime>2026-06-18T15:20:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <SignificantEvents>
+          <EventTypeId>60123</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Referral to committee</EventNameEn>
+          <EventNameFr>Renvoi en comité</EventNameFr>
+          <EventName>Referral to committee</EventName>
+          <EventDateTime>2026-06-18T15:25:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60120</EventTypeId>
+          <EventTypeNameEn>Second reading</EventTypeNameEn>
+          <EventTypeNameFr>Deuxième lecture</EventTypeNameFr>
+          <EventTypeName>Second reading</EventTypeName>
+          <EventStartDateTime>2026-06-18T15:20:00</EventStartDateTime>
+          <EventEndDateTime>2026-06-18T15:20:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2026-06-18T15:25:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>true</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>45</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminé</StateNameFr>
+        <StateAsOfDate>2026-06-18T18:10:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee>
+          <BillDocumentId>0</BillDocumentId>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+          <StudyActivityId />
+          <OrganizationTypeId />
+          <ParentCommittee />
+          <IsSubCommittee>false</IsSubCommittee>
+          <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+          <IsSenateCommittee>false</IsSenateCommittee>
+          <IsJointCommittee>false</IsJointCommittee>
+        </Committee>
+        <Sittings>
+          <NameEn>Committee report presented without amendment</NameEn>
+          <NameFr>Présentation du rapport de comité sans amendement</NameFr>
+          <Name>Committee report presented without amendment</Name>
+          <Number>86</Number>
+          <Date>2026-06-18T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <CommitteeMeetings>
+          <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+          <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+          <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+          <CommitteeAcronym>NFFN</CommitteeAcronym>
+          <Number>55</Number>
+          <Date>2026-06-18T00:00:00</Date>
+          <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+        </CommitteeMeetings>
+        <SignificantEvents>
+          <EventTypeId>60124</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Committee report presented without amendment</EventNameEn>
+          <EventNameFr>Présentation du rapport de comité sans amendement</EventNameFr>
+          <EventName>Committee report presented without amendment</EventName>
+          <EventDateTime>2026-06-18T18:10:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60124</EventTypeId>
+          <EventTypeNameEn>Committee report presented</EventTypeNameEn>
+          <EventTypeNameFr>Présentation du rapport de comité</EventTypeNameFr>
+          <EventTypeName>Committee report presented</EventTypeName>
+          <EventStartDateTime>2026-06-18T18:10:00</EventStartDateTime>
+          <EventEndDateTime>2026-06-18T18:10:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2026-06-18T18:10:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>45</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2026-06-18T19:05:00</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Debate at third reading</NameEn>
+          <NameFr>Débat à l'étape de la troisième lecture</NameFr>
+          <Name>Debate at third reading</Name>
+          <Number>86</Number>
+          <Date>2026-06-18T00:00:00</Date>
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60134</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Third reading</EventNameEn>
+          <EventNameFr>Troisième lecture</EventNameFr>
+          <EventName>Third reading</EventName>
+          <EventDateTime>2026-06-18T19:05:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60134</EventTypeId>
+          <EventTypeNameEn>Third reading</EventTypeNameEn>
+          <EventTypeNameFr>Troisième lecture</EventTypeNameFr>
+          <EventTypeName>Third reading</EventTypeName>
+          <EventStartDateTime>2026-06-18T19:05:00</EventStartDateTime>
+          <EventEndDateTime>2026-06-18T19:05:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2026-06-18T19:05:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <RoyalAssent>
+        <BillStageId>60050</BillStageId>
+        <BillStageNameEn>Royal assent</BillStageNameEn>
+        <BillStageNameFr>Sanction royale</BillStageNameFr>
+        <BillStageName>Royal assent</BillStageName>
+        <ChamberOrganizationId>2</ChamberOrganizationId>
+        <ParliamentNumber>45</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>0</State>
+        <StateNameEn />
+        <StateNameFr />
+        <StateAsOfDate />
+        <StateName />
+        <Committee />
+        <Sittings>
+          <NameEn>Royal assent</NameEn>
+          <NameFr>Sanction royale</NameFr>
+          <Name>Royal assent</Name>
+          <Number>86</Number>
+          <Date>2026-06-18T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>false</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60149</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Royal assent</EventNameEn>
+          <EventNameFr>Sanction royale</EventNameFr>
+          <EventName>Royal assent</EventName>
+          <EventDateTime>2026-06-18T19:49:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60149</EventTypeId>
+          <EventTypeNameEn>Royal assent</EventTypeNameEn>
+          <EventTypeNameFr>Sanction royale</EventTypeNameFr>
+          <EventTypeName>Royal assent</EventTypeName>
+          <EventStartDateTime>2026-06-18T19:49:00</EventStartDateTime>
+          <EventEndDateTime>2026-06-18T19:49:00</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2026-06-18T19:49:00</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </RoyalAssent>
+    </BillStages>
+    <Publications>
+      <PublicationId>14058470</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>14191534</PublicationId>
+      <PublicationTypeId>80702</PublicationTypeId>
+      <PublicationTypeNameEn>As amended by committee</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel que modifié par le comité</PublicationTypeNameFr>
+      <PublicationTypeName>As amended by committee</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>14203357</PublicationId>
+      <PublicationTypeId>80703</PublicationTypeId>
+      <PublicationTypeNameEn>As passed by the House of Commons</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Tel qu'adopté par la Chambre des communes</PublicationTypeNameFr>
+      <PublicationTypeName>As passed by the House of Commons</PublicationTypeName>
+    </Publications>
+    <Publications>
+      <PublicationId>14205503</PublicationId>
+      <PublicationTypeId>80704</PublicationTypeId>
+      <PublicationTypeNameEn>Royal Assent</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Royal Assent</PublicationTypeNameFr>
+      <PublicationTypeName>Royal Assent</PublicationTypeName>
+    </Publications>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>120</DivisionNumber>
+      <DivisionSubjectEn>Time allocation for Bill C-30, An Act to implement certain provisions of the spring economic update tabled in Parliament on April 28, 2026</DivisionSubjectEn>
+      <DivisionSubjectFr>Attribution de temps pour le projet de loi C-30, Loi portant exécution de certaines dispositions de la mise à jour économique du printemps déposée au Parlement le 28 avril 2026</DivisionSubjectFr>
+      <DivisionSubject>Time allocation for Bill C-30, An Act to implement certain provisions of the spring economic update tabled in Parliament on April 28, 2026</DivisionSubject>
+      <DivisionVotesYeas>171</DivisionVotesYeas>
+      <DivisionVotesNays>167</DivisionVotesNays>
+      <DivisionVotePaired>2</DivisionVotePaired>
+      <DivisionVoteTotal>340</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2026-05-25T11:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>124</DivisionNumber>
+      <DivisionSubjectEn>2nd reading of Bill C-30, An Act to implement certain provisions of the spring economic update tabled in Parliament on April 28, 2026 (reasoned amendment)</DivisionSubjectEn>
+      <DivisionSubjectFr>2e lecture du projet de loi C-30, Loi portant exécution de certaines dispositions de la mise à jour économique du printemps déposée au Parlement le 28 avril 2026 (amendement motivé)</DivisionSubjectFr>
+      <DivisionSubject>2nd reading of Bill C-30, An Act to implement certain provisions of the spring economic update tabled in Parliament on April 28, 2026 (reasoned amendment)</DivisionSubject>
+      <DivisionVotesYeas>137</DivisionVotesYeas>
+      <DivisionVotesNays>197</DivisionVotesNays>
+      <DivisionVotePaired>6</DivisionVotePaired>
+      <DivisionVoteTotal>340</DivisionVoteTotal>
+      <DecisionResultId>16</DecisionResultId>
+      <DecisionResultNameEn>Negatived</DecisionResultNameEn>
+      <DecisionResultNameFr>Rejetée</DecisionResultNameFr>
+      <DecisionResultName>Negatived</DecisionResultName>
+      <DecisionDateTime>2026-05-26T10:00:00</DecisionDateTime>
+      <IsAgreedTo>false</IsAgreedTo>
+      <IsNegatived>true</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>125</DivisionNumber>
+      <DivisionSubjectEn>2nd reading of Bill C-30, An Act to implement certain provisions of the spring economic update tabled in Parliament on April 28, 2026</DivisionSubjectEn>
+      <DivisionSubjectFr>2e lecture du projet de loi C-30, Loi portant exécution de certaines dispositions de la mise à jour économique du printemps déposée au Parlement le 28 avril 2026</DivisionSubjectFr>
+      <DivisionSubject>2nd reading of Bill C-30, An Act to implement certain provisions of the spring economic update tabled in Parliament on April 28, 2026</DivisionSubject>
+      <DivisionVotesYeas>170</DivisionVotesYeas>
+      <DivisionVotesNays>164</DivisionVotesNays>
+      <DivisionVotePaired>6</DivisionVotePaired>
+      <DivisionVoteTotal>340</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2026-05-26T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <HouseVoteDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <DivisionNumber>173</DivisionNumber>
+      <DivisionSubjectEn>3rd reading and adoption of Bill C-30, An Act to implement certain provisions of the spring economic update tabled in Parliament on April 28, 2026</DivisionSubjectEn>
+      <DivisionSubjectFr>3e lecture et adoption du projet de loi C-30, Loi portant exécution de certaines dispositions de la mise à jour économique du printemps déposée au Parlement le 28 avril 2026</DivisionSubjectFr>
+      <DivisionSubject>3rd reading and adoption of Bill C-30, An Act to implement certain provisions of the spring economic update tabled in Parliament on April 28, 2026</DivisionSubject>
+      <DivisionVotesYeas>166</DivisionVotesYeas>
+      <DivisionVotesNays>159</DivisionVotesNays>
+      <DivisionVotePaired>12</DivisionVotePaired>
+      <DivisionVoteTotal>337</DivisionVoteTotal>
+      <DecisionResultId>15</DecisionResultId>
+      <DecisionResultNameEn>Agreed To</DecisionResultNameEn>
+      <DecisionResultNameFr>Adoptée</DecisionResultNameFr>
+      <DecisionResultName>Agreed To</DecisionResultName>
+      <DecisionDateTime>2026-06-18T10:00:00</DecisionDateTime>
+      <IsAgreedTo>true</IsAgreedTo>
+      <IsNegatived>false</IsNegatived>
+      <IsTied>false</IsTied>
+      <OrganizationId>0</OrganizationId>
+    </HouseVoteDetails>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Charter Statement - Bill C-30: An Act to implement certain provisions of the spring economic update tabled in Parliament on April 28, 2026 (Tabled 2026-05-08)</TitleEn>
+      <TitleFr>Énoncé concernant la Charte - Projet de loi C-30 : Loi portant exécution de certaines dispositions de la mise à jour économique du printemps déposée au Parlement le 28 avril 2026 (Déposé 2026-05-08)</TitleFr>
+      <Title>Charter Statement - Bill C-30: An Act to implement certain provisions of the spring economic update tabled in Parliament on April 28, 2026 (Tabled 2026-05-08)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.justice.gc.ca/eng/csj-sjc/pl/charter-charte/c30_2.html</UrlEn>
+      <UrlFr>https://www.justice.gc.ca/fra/sjc-csj/pl/charte-charter/c30_2.html</UrlFr>
+      <Url>https://www.justice.gc.ca/eng/csj-sjc/pl/charter-charte/c30_2.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>PricewaterhouseCoopers LLP (PwC). Fiscal discipline, stimulus: Canada's balancing act, April 29, 2026.</TitleEn>
+      <TitleFr>PricewaterhouseCoopers LLP (PwC). Discipline, relance?: équilibre délicat pour le Canada, 29 avril 2026.</TitleFr>
+      <Title>PricewaterhouseCoopers LLP (PwC). Fiscal discipline, stimulus: Canada's balancing act, April 29, 2026.</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.pwc.com/ca/en/services/tax/budgets/spring-economic-update.html</UrlEn>
+      <UrlFr>https://www.pwc.com/ca/fr/services/tax/budgets/spring-economic-update.html</UrlFr>
+      <Url>https://www.pwc.com/ca/en/services/tax/budgets/spring-economic-update.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>KPMG LLP. Highlights of the 2026 federal spring economic update, April-28-2026.</TitleEn>
+      <TitleFr>KPMG LLP. Mise à jour économique fédérale du printemps de 2026, 28 avril 2026.</TitleFr>
+      <Title>KPMG LLP. Highlights of the 2026 federal spring economic update, April-28-2026.</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://kpmg.com/ca/en/insights/2026/04/highlights-of-the-2026-federal-spring-economic-update.html</UrlEn>
+      <UrlFr>https://kpmg.com/ca/fr/insights/2026/04/highlights-of-the-2026-federal-spring-economic-update.html</UrlFr>
+      <Url>https://kpmg.com/ca/en/insights/2026/04/highlights-of-the-2026-federal-spring-economic-update.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Note: PBO Assessment of Spring Economic Update: Departmental Spending and New Measures (Published 2026-05-04)</TitleEn>
+      <TitleFr>Note : Évaluation par la DPB de la Mise à jour économique du printemps : dépenses ministérielles et nouvelles mesures (Publié 2026-05-04)</TitleFr>
+      <Title>Note: PBO Assessment of Spring Economic Update: Departmental Spending and New Measures (Published 2026-05-04)</Title>
+      <WebReferenceTypeId>13</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Legislative Costing Note</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Note sur l'évaluation du coût d'une mesure législative</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Legislative Costing Note</WebReferenceTypeName>
+      <UrlEn>https://www.pbo-dpb.ca/en/publications/NT-2627-004-S--pbo-assessment-spring-economic-update-departmental-spending-new-measures--evaluation-dpb-mise-jour-economique-printemps-depenses-ministerielles-nouvelles-mesures</UrlEn>
+      <UrlFr>https://www.pbo-dpb.ca/fr/publications/NT-2627-004-S--pbo-assessment-spring-economic-update-departmental-spending-new-measures--evaluation-dpb-mise-jour-economique-printemps-depenses-ministerielles-nouvelles-mesures</UrlFr>
+      <Url>https://www.pbo-dpb.ca/en/publications/NT-2627-004-S--pbo-assessment-spring-economic-update-departmental-spending-new-measures--evaluation-dpb-mise-jour-economique-printemps-depenses-ministerielles-nouvelles-mesures</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Note: PBO Assessment of Spring Economic Update: Economic and Fiscal Track (Published 2026-05-04)</TitleEn>
+      <TitleFr>Note : Évaluation par la DPB de la Mise à jour économique du printemps : profil d'évolution économique et financière (Publié 2026-05-04)</TitleFr>
+      <Title>Note: PBO Assessment of Spring Economic Update: Economic and Fiscal Track (Published 2026-05-04)</Title>
+      <WebReferenceTypeId>13</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Legislative Costing Note</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Note sur l'évaluation du coût d'une mesure législative</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Legislative Costing Note</WebReferenceTypeName>
+      <UrlEn>https://www.pbo-dpb.ca/en/publications/NT-2627-001-S--pbo-assessment-spring-economic-update-economic-fiscal-track--evaluation-dpb-mise-jour-economique-printemps-profil-evolution-economique-financiere</UrlEn>
+      <UrlFr>https://www.pbo-dpb.ca/fr/publications/NT-2627-001-S--pbo-assessment-spring-economic-update-economic-fiscal-track--evaluation-dpb-mise-jour-economique-printemps-profil-evolution-economique-financiere</UrlFr>
+      <Url>https://www.pbo-dpb.ca/en/publications/NT-2627-001-S--pbo-assessment-spring-economic-update-economic-fiscal-track--evaluation-dpb-mise-jour-economique-printemps-profil-evolution-economique-financiere</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Note: PBO Assessment of Spring Economic Update: Fiscal Anchors and Fiscal Sustainability (Published 2026-05-04)</TitleEn>
+      <TitleFr>Note : Évaluation par la DPB de la Mise à jour économique du printemps : cibles budgétaires et viabilité financière (Publié 2026-05-04)</TitleFr>
+      <Title>Note: PBO Assessment of Spring Economic Update: Fiscal Anchors and Fiscal Sustainability (Published 2026-05-04)</Title>
+      <WebReferenceTypeId>13</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Legislative Costing Note</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Note sur l'évaluation du coût d'une mesure législative</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Legislative Costing Note</WebReferenceTypeName>
+      <UrlEn>https://www.pbo-dpb.ca/en/publications/NT-2627-002-S--pbo-assessment-spring-economic-update-fiscal-anchors-fiscal-sustainability--evaluation-dpb-mise-jour-economique-printemps-cibles-budgetaires-viabilite-financiere</UrlEn>
+      <UrlFr>https://www.pbo-dpb.ca/fr/publications/NT-2627-002-S--pbo-assessment-spring-economic-update-fiscal-anchors-fiscal-sustainability--evaluation-dpb-mise-jour-economique-printemps-cibles-budgetaires-viabilite-financiere</UrlFr>
+      <Url>https://www.pbo-dpb.ca/en/publications/NT-2627-002-S--pbo-assessment-spring-economic-update-fiscal-anchors-fiscal-sustainability--evaluation-dpb-mise-jour-economique-printemps-cibles-budgetaires-viabilite-financiere</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Note: PBO Assessment of Spring Economic Update: Government's Major Capital Priorities (Publied 2026-05-04)</TitleEn>
+      <TitleFr>Note : Évaluation par la DPB de la Mise à jour économique du printemps : principales priorités d'investissement du gouvernement dans les immobilisations (Publié 2026-05-04)</TitleFr>
+      <Title>Note: PBO Assessment of Spring Economic Update: Government's Major Capital Priorities (Publied 2026-05-04)</Title>
+      <WebReferenceTypeId>13</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Legislative Costing Note</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Note sur l'évaluation du coût d'une mesure législative</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Legislative Costing Note</WebReferenceTypeName>
+      <UrlEn>https://www.pbo-dpb.ca/en/publications/NT-2627-003-S--pbo-assessment-spring-economic-update-government-major-capital-priorities--evaluation-dpb-mise-jour-economique-printemps-principales-priorites-investissement-gouvernement-dans</UrlEn>
+      <UrlFr>https://www.pbo-dpb.ca/fr/publications/NT-2627-003-S--pbo-assessment-spring-economic-update-government-major-capital-priorities--evaluation-dpb-mise-jour-economique-printemps-principales-priorites-investissement-gouvernement-dans</UrlFr>
+      <Url>https://www.pbo-dpb.ca/en/publications/NT-2627-003-S--pbo-assessment-spring-economic-update-government-major-capital-priorities--evaluation-dpb-mise-jour-economique-printemps-principales-priorites-investissement-gouvernement-dans</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Note: PBO Assessment of Spring Economic Update: Temporarily suspending the federal fuel excise tax (Published 2026-05-04)</TitleEn>
+      <TitleFr>Note : Évaluation par la DPB de la Mise à jour économique du printemps : suspendre temporairement la taxe d'accise fédérale sur le carburant (Publié 2026-05-04)</TitleFr>
+      <Title>Note: PBO Assessment of Spring Economic Update: Temporarily suspending the federal fuel excise tax (Published 2026-05-04)</Title>
+      <WebReferenceTypeId>13</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Legislative Costing Note</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Note sur l'évaluation du coût d'une mesure législative</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Legislative Costing Note</WebReferenceTypeName>
+      <UrlEn>https://www.pbo-dpb.ca/en/publications/NT-2627-005-S--pbo-assessment-spring-economic-update-temporarily-suspending-federal-fuel-excise-tax--evaluation-dpb-mise-jour-economique-printemps-suspendre-temporairement-taxe-accise-federale-carburan</UrlEn>
+      <UrlFr>https://www.pbo-dpb.ca/fr/publications/NT-2627-005-S--pbo-assessment-spring-economic-update-temporarily-suspending-federal-fuel-excise-tax--evaluation-dpb-mise-jour-economique-printemps-suspendre-temporairement-taxe-accise-federale-carburan</UrlFr>
+      <Url>https://www.pbo-dpb.ca/en/publications/NT-2627-005-S--pbo-assessment-spring-economic-update-temporarily-suspending-federal-fuel-excise-tax--evaluation-dpb-mise-jour-economique-printemps-suspendre-temporairement-taxe-accise-federale-carburan</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Legislation passes to implement measures from the Spring Economic Update 2026 (2026-06-19 | Department of Finance)</TitleEn>
+      <TitleFr>Adoption d'un projet de loi visant à mettre en œuvre des mesures de la Mise à jour économique du printemps de 2026 (2026-06-19 | Ministère des Finances)</TitleFr>
+      <Title>Legislation passes to implement measures from the Spring Economic Update 2026 (2026-06-19 | Department of Finance)</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/department-finance/news/2026/06/legislation-passes-to-implement-measures-from-the-spring-economic-update-2026.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/ministere-finances/nouvelles/2026/06/adoption-dun-projet-de-loi-visant-a-mettre-en-uvre-des-mesures-de-la-mise-a-jour-economique-du-printemps-de-2026.html</UrlFr>
+      <Url>https://www.canada.ca/en/department-finance/news/2026/06/legislation-passes-to-implement-measures-from-the-spring-economic-update-2026.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Government of Canada releases 2026 Spring Economic Update: Canada Strong For All (2026-04-28 | Department of Finance)</TitleEn>
+      <TitleFr>Le gouvernement du Canada publie la Mise à jour économique du printemps de 2026 – Un Canada fort pour tous (2026-04-28 | Ministère des Finances)</TitleFr>
+      <Title>Government of Canada releases 2026 Spring Economic Update: Canada Strong For All (2026-04-28 | Department of Finance)</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/department-finance/news/2026/04/government-of-canada-releases-2026-spring-economic-update-canada-strong-for-all.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/ministere-finances/nouvelles/2026/04/le-gouvernement-du-canada-publie-la-mise-a-jour-economique-du-printemps-de-2026--un-canada-fort-pour-tous.html</UrlFr>
+      <Url>https://www.canada.ca/en/department-finance/news/2026/04/government-of-canada-releases-2026-spring-economic-update-canada-strong-for-all.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Spring Economic Update 2026: Key Measures (2026-04-28 | Department of Finance)</TitleEn>
+      <TitleFr>Mise à jour économique du printemps de 2026 : principales mesures (2026-04-28 | Ministère des Finances)</TitleFr>
+      <Title>Spring Economic Update 2026: Key Measures (2026-04-28 | Department of Finance)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/department-finance/news/2026/04/spring-economic-update-2026-key-measures.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/ministere-finances/nouvelles/2026/04/mise-a-jour-economique-du-printemps-de-2026--principales-mesures.html</UrlFr>
+      <Url>https://www.canada.ca/en/department-finance/news/2026/04/spring-economic-update-2026-key-measures.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Spring Economic Update 2026 speech (2026-04-28 | Department of Finance)</TitleEn>
+      <TitleFr>Discours sur la Mise à jour économique du printemps de 2026 (2026-04-28 | Ministère des Finances)</TitleFr>
+      <Title>Spring Economic Update 2026 speech (2026-04-28 | Department of Finance)</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/department-finance/news/2026/04/spring-economic-update-2026-speech.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/ministere-finances/nouvelles/2026/04/discours-sur-la-mise-a-jour-economique-du-printemps-de-2026.html</UrlFr>
+      <Url>https://www.canada.ca/en/department-finance/news/2026/04/spring-economic-update-2026-speech.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Spring Economic Update 2026: Canada Strong for All (2026-04 | Department of Finance)</TitleEn>
+      <TitleFr>Mise à jour économique du printemps de 2026 : un Canada fort pour tous (2026-04 | Ministère des Finances)</TitleFr>
+      <Title>Spring Economic Update 2026: Canada Strong for All (2026-04 | Department of Finance)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://budget.canada.ca/update-miseajour/2026/home-accueil-en.html</UrlEn>
+      <UrlFr>https://budget.canada.ca/update-miseajour/2026/home-accueil-fr.html</UrlFr>
+      <Url>https://budget.canada.ca/update-miseajour/2026/home-accueil-en.html</Url>
+    </WebReferences>
+    <SenatePreStudyCommitteeDetails>
+      <BillDocumentId>0</BillDocumentId>
+      <CommitteeOrganizationId>16101</CommitteeOrganizationId>
+      <CommitteeNameEn>Standing Senate Committee on National Finance</CommitteeNameEn>
+      <CommitteeNameFr>Comité sénatorial permanent des finances nationales</CommitteeNameFr>
+      <CommitteeAcronym>NFFN</CommitteeAcronym>
+      <CommitteeName>Standing Senate Committee on National Finance</CommitteeName>
+      <StudyActivityId />
+      <OrganizationTypeId />
+      <ParentCommittee />
+      <IsSubCommittee>false</IsSubCommittee>
+      <IsHouseOfCommonsCommittee>true</IsHouseOfCommonsCommittee>
+      <IsSenateCommittee>false</IsSenateCommittee>
+      <IsJointCommittee>false</IsJointCommittee>
+    </SenatePreStudyCommitteeDetails>
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>true</IsSessionOngoing>
+  </Bill>
+</Bills>
