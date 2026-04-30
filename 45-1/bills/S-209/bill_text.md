@@ -1,8 +1,10 @@
 # Bill S-209: An Act to restrict young persons' online access to pornographic material
 
+**Sponsor**: Senator MIVILLE-DECHÊNE
+
 ## Summary
 
-This enactment makes it an offence for organizations to make pornographic material available to young persons on the Internet. Furthermore, it enables, among other things, a designated enforcement authority to take steps to prevent pornographic material from being made available to young persons on the Internet in Canada.
+This enactment makes it an offence for organizations to make pornographic material available to young persons on the Internet. It also enables a designated enforcement authority to take steps to prevent pornographic material from being made available to young persons on the Internet in Canada.
 
 Whereas pornographic material — including demeaning material and material depicting sexual violence — can be easily accessed on the Internet by young persons;
 
@@ -40,11 +42,7 @@ The following definitions apply in this Act.
 
 **organization** has the same meaning as in section 2 of the `Criminal Code`. (**organisation**)
 
-**pornographic material** means, with the exception of the material referred to in the definition of child sexual abuse and exploitation material in paragraph 163.1(1)(a) of the `Criminal Code`, any photographic, film, video or other visual representation, whether or not it was made by electronic or mechanical means, that
-
-shows the genital organs or anal region of a person engaged or depicted as engaged in explicit sexual activity; and
-
-is intended to cause sexual excitement. (**matériel pornographique**)
+**pornographic material** means any photographic, film, video or other visual representation, whether or not it was made by electronic or mechanical means, the dominant characteristic of which is the depiction, for a sexual purpose, of a person's genital organs or anal region or, if the person is female, her breasts, but does not include child pornography as defined in subsection 163.1(1) of the `Criminal Code`. (**matériel pornographique**)
 
 **prescribed** means prescribed by regulations. (**Version anglaise seulement**)
 
@@ -84,7 +82,8 @@ for a second or subsequent offence, to a fine of not more than $500,000.
 ### Section 6
 
 For greater certainty, for the purpose of
-section 5, an organization that incidentally provides a service that is used to
+section 5, an organization that incidentally and not
+deliberately provides a service that is used to
 search for, transmit, download, store or access
 content on the Internet that is alleged to constitute pornographic material does not make available
 pornographic material on the Internet for
@@ -119,9 +118,7 @@ The Governor in Council may, on the recommendation of the Minister, designate an
 
     that the organization must, within 20 days after the notice is issued, take the steps referred to in paragraph (c);
 
-    that, if the organization fails to take the steps referred to in paragraph (c) within the period set out in paragraph (d), the enforcement authority may apply to the Federal Court for an order requiring Internet service providers to prevent access to the pornographic material by young persons on the Internet in Canada;
-
-    any appropriate information in relation to a system of administrative monetary penalties made by regulation under paragraph 12(1)(c); and
+    that, if the organization fails to take the steps referred to in paragraph (c) within the period set out in paragraph (d), the enforcement authority may apply to the Federal Court for an order requiring Internet service providers to prevent access to the pornographic material by young persons on the Internet in Canada; and
 
     that the organization may make representations to the enforcement authority in relation to any element of the notice within the period set out in paragraph (d).
 
@@ -140,6 +137,12 @@ The Governor in Council may, on the recommendation of the Minister, designate an
     that organization has failed to take the steps referred to in paragraph 9(2)(c) within the period set out in paragraph 9(2)(d); and
 
     the services provided by the Internet service providers who would be subject to the order may be used, in Canada, to access the pornographic material made available by that organization.
+
+  **(5)** If the Federal Court determines that it is necessary to ensure that the pornographic material is not made available to young persons on the Internet in Canada, an order made under subsection (4) may have the effect of preventing persons in Canada from being able to access
+
+    material other than pornographic material made available by the organization that has been given notice under subsection 9(1); or
+
+    pornographic material made available by the organization that has been given notice under subsection 9(1) even if the person seeking to access the material is not a young person.
 
 
 ## Annual Report to Parliament
@@ -161,11 +164,9 @@ the outcome of applications made pursuant to subsection 10(1).
 
   **(1)** The Governor in Council may make regulations for carrying out the purposes and provisions of this Act, including regulations
 
-    specifying the circumstances in which pornographic material made available free of charge is not to be regarded as made available for commercial purposes;
+    specifying the circumstances in which pornographic material is or is not to be regarded as made available for commercial purposes, including circumstances in which pornographic material made available free of charge is or is not to be regarded as made available for commercial purposes; and
 
-    prescribing the age-verification and age-estimation methods referred to in subsection 7(1); and
-
-    designating as a violation the failure of an organization that receives a notice under subsection 9(1) to take the steps referred to in paragraph 9(2)(c) within the period set out in paragraph 9(2)(d), establishing a system of administrative monetary penalties applicable to those violations and setting a range of amounts for those penalties.
+    prescribing the age-verification and age-estimation methods referred to in subsection 7(1).
 
   **(2)** Before prescribing any age-verification or age-estimation method under paragraph (1)(b), the Governor in Council must ensure that the method
 
@@ -175,7 +176,7 @@ the outcome of applications made pursuant to subsection 10(1).
 
     maintains user privacy and protects user personal information;
 
-    collects and uses personal information solely for age-verification or age-estimation purposes;
+    collects and uses personal information solely for age-verification or age-estimation purposes, except to the extent required by law;
 
     limits the collection of personal information to what is strictly necessary for the age verification or age estimation;
 
@@ -183,12 +184,19 @@ the outcome of applications made pursuant to subsection 10(1).
 
     generally complies with best practices in the fields of age verification and age estimation, as well as privacy protection.
 
-  **(3)** In establishing the system of administrative monetary penalties referred to in paragraph (1)(c), the Governor in Council must ensure that any representation made pursuant to paragraph 9(2)(g) is taken into consideration when determining if an organization has committed a violation and in determining the amount of the penalty.
+
+## Coordinating Amendment
+
+### Section 13
+
+On the first day on which both this Act and `An Act to amend the Criminal Code and to make consequential amendments to other Acts (child sexual abuse and exploitation material)` are in force, the definition of pornographic material in section 2 of this Act is replaced with the following:
+
+**pornographic material** means any photographic, film, video or other visual representation, whether or not it was made by electronic or mechanical means, the dominant characteristic of which is the depiction, for a sexual purpose, of a person's genital organs or anal region or, if the person is female, her breasts, but does not include material that is child sexual abuse and exploitation material as defined in subsection 163.1(1) of the `Criminal Code`. (**matériel pornographique**)
 
 
 ## Coming into Force
 
-### Section 13
+### Section 14
 
-*This Act comes into force on a day to be fixed by order of the Governor in Council.*
+*This Act comes into force on the first anniversary of the day on which it receives royal assent.*
 
