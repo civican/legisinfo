@@ -1,7 +1,5 @@
 # Bill C-13: An Act to implement the Protocol on the Accession of the United Kingdom of Great Britain and Northern Ireland to the Comprehensive and Progressive Agreement for Trans-Pacific Partnership
 
-**Sponsor**: MINISTER OF INTERNATIONAL TRADE
-
 ## Summary
 
 This enactment implements the Protocol on the Accession of the United Kingdom of Great Britain and Northern Ireland to the Comprehensive and Progressive Agreement for Trans-Pacific Partnership, done at Auckland and Bandar Seri Begawan on July 16, 2023, by updating how that Agreement is defined or referred to in certain Acts and by amending other Acts to bring them into conformity with Canada's obligations under that Agreement and Protocol.
@@ -191,7 +189,7 @@ The Act is amended by adding the following after section 52.81:
 
     may — in respect of goods that are entitled to the Comprehensive and Progressive United Kingdom Tariff — be in effect during the period beginning on the day on which this subsection comes into force and ending
 
-    on the third anniversary of the first day on which the Comprehensive and Progressive Agreement on Trans-Pacific Partnership is in effect for the United Kingdom, if the order is in respect of goods for which the Comprehensive and Progressive United Kingdom Tariff is at its final rate of "Free" on that anniversary, and
+    on the third anniversary of the first day on which the Comprehensive and Progressive Agreement for Trans-Pacific Partnership is in effect for the United Kingdom, if the order is in respect of goods for which the Comprehensive and Progressive United Kingdom Tariff is at its final rate of "Free" on that anniversary, and
 
     on the day on which the Comprehensive and Progressive United Kingdom Tariff rate of customs duty is reduced to its final rate of "Free", if the order is in respect of goods for which the Comprehensive and Progressive United Kingdom Tariff rate of customs duty is not at its final rate of "Free" on the anniversary referred to in subparagraph (i).
 
