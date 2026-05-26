@@ -26,7 +26,7 @@ Division 1 of Part 3 amends the `Bank Act` to provide that the `Investment Canad
 
 Division 2 of Part 3 amends the `Bank of Canada Act` to combine into a single Act the Bank of Canada's powers, duties and functions related to the recovery of costs incurred by it for or in connection with the administration of certain Acts. It also makes related amendments to other Acts.
 
-Division 3 of Part 3 amends the `Canadian Payments Act` to provide immunity for the Canadian Payment Association and certain individuals from any civil liability, other than in contract, for anything done or omitted to be done in good faith in the administration or discharge of any powers or duties conferred under that Act.
+Division 3 of Part 3 amends the `Canadian Payments Act` to provide immunity for the Canadian Payments Association and certain individuals from any civil liability, other than in contract, for anything done or omitted to be done in good faith in the administration or discharge of any powers or duties conferred under that Act.
 
 Division 4 of Part 3 amends the `Employment Insurance Act` to, among other things,
 
@@ -135,11 +135,11 @@ This Act may be cited as the `Spring Economic Update 2026 Implementation Act`.
 
   **(1)** Subparagraph 8(1)(t)(i) of the `Income Tax Act` is replaced by the following:
 
-    $**10,000**, and
+    $10,000, and
 
   **(2)** Subparagraph 8(14)(c)(v) of the Act is replaced by the following:
 
-    the distance between the ordinary residence and each temporary work location of the taxpayer referred to in subparagraph (i) is not less than **120** kilometres greater than the distance between each temporary lodging referred **to** in subparagraph (iv) and each temporary work location of the taxpayer referred to in subparagraph (i);
+    the distance between the ordinary residence and each temporary work location of the taxpayer referred to in subparagraph (i) is not less than 120 kilometres greater than the distance between each temporary lodging referred to in subparagraph (iv) and each temporary work location of the taxpayer referred to in subparagraph (i);
 
   **(3)** Subsections (1) and (2) apply to the 2026 and subsequent taxation years.
 
@@ -169,13 +169,13 @@ the amount of $10,000 referred to in subparagraph 8(1)(t)(i), for a taxation yea
 
   **(1)** The portion of subsection 146.01(4.1) of the Act before paragraph (a) is replaced by the following:
 
-    **(4.1)** If the completion date in respect of an eligible amount received by an individual is after 2022 and before **2030**
+    **(4.1)** If the completion date in respect of an eligible amount received by an individual is after 2022 and before 2030
 
   **(2)** Paragraphs 146.01(4.2)(e) and (f) of the Act are replaced by the following:
 
-    the year is 2028 and the completion date in respect of the amount was in 2025, 2026 or **2027**;
+    the year is 2028 and the completion date in respect of the amount was in 2025, 2026 or 2027;
 
-    the year is 2029 and the completion date in respect of the amount was in 2026, **2027 or 2028**;
+    the year is 2029 and the completion date in respect of the amount was in 2026, 2027 or 2028;
 
     the year is 2030 and the completion date in respect of the amount was in 2027, 2028 or 2029;
 
@@ -217,11 +217,11 @@ the amount of $10,000 referred to in subparagraph 8(1)(t)(i), for a taxation yea
 
   **(3)** The portion of paragraph (a) of the description of A.1 in subsection 1100(2) of the Regulations before subparagraph (i) is replaced by the following:
 
-    if the property is not included in paragraph (1)(v) **or (ze)** or in any of Classes 12, 13, 14, 15, 43.1, 44, 46, 50, 53, 54, 55, 56 and 59 or in Class 43 in the circumstances described in paragraph (f),
+    if the property is not included in paragraph (1)(v) or (ze) or in any of Classes 12, 13, 14, 15, 43.1, 44, 46, 50, 53, 54, 55, 56 and 59 or in Class 43 in the circumstances described in paragraph (f),
 
   **(4)** Subsection 1100(3) of the Regulations is replaced by the following:
 
-    **(3)** Where a taxation year is less than 12 months, the amount allowed as a deduction under this section, other than under subsection (0.1) and any of paragraphs (1)(c), (e), (f), (g), (m), (w), (x), (y), (ya) and **(ze)**, shall not exceed that proportion of the maximum amount otherwise allowable that the number of days in the taxation year is of 365.
+    **(3)** Where a taxation year is less than 12 months, the amount allowed as a deduction under this section, other than under subsection (0.1) and any of paragraphs (1)(c), (e), (f), (g), (m), (w), (x), (y), (ya) and (ze), shall not exceed that proportion of the maximum amount otherwise allowable that the number of days in the taxation year is of 365.
 
   **(5)** Subsections (1) to (4) are deemed to have come into force on November 4, 2025.
 
@@ -240,15 +240,15 @@ the amount of $10,000 referred to in subparagraph 8(1)(t)(i), for a taxation yea
 
   **(1)** The portion of subsection 1102(20.1) of the Regulations before paragraph (b) is replaced by the following:
 
-    **(20.1)** For the purposes of subsections 1100(0.3), (2.02) and (2.021) and 1104**(2)**, (3.1), (4) and (4.01), a particular person or partnership and another person or partnership shall be considered not to be dealing at arm's length with each other in respect of the acquisition or ownership of a property if, in the absence of this subsection, they would be considered to be dealing at arm's length with each other and it may reasonably be considered that the principal purpose of any transaction or event, or a series of transactions or events, is to cause
+    **(20.1)** For the purposes of subsections 1100(0.3), (2.02) and (2.021) and 1104(2), (3.1), (4) and (4.01), a particular person or partnership and another person or partnership shall be considered not to be dealing at arm's length with each other in respect of the acquisition or ownership of a property if, in the absence of this subsection, they would be considered to be dealing at arm's length with each other and it may reasonably be considered that the principal purpose of any transaction or event, or a series of transactions or events, is to cause
 
-      the property to qualify as accelerated investment incentive property, reaccelerated investment incentive property, immediate expensing property **or an eligible greenhouse**; or
+      the property to qualify as accelerated investment incentive property, reaccelerated investment incentive property, immediate expensing property or an eligible greenhouse; or
 
   **(2)** Paragraph 1102(26)(b) of the Regulations is replaced by the following:
 
-    **the following are** prescribed **programs**:
+    the following are prescribed programs:
 
-    the federal purchase incentive announced on March 19, 2019, **and**
+    the federal purchase incentive announced on March 19, 2019, and
 
     the Electric Vehicle Affordability Program announced on February 5, 2026.
 
@@ -312,9 +312,11 @@ the amount of $10,000 referred to in subparagraph 8(1)(t)(i), for a taxation yea
 
 ### Section 9.2
 
-    If excise tax imposed under section 23 of the Act in respect of a quantity of unleaded gasoline, unleaded aviation gasoline, diesel fuel or aviation fuel becomes payable at a time that is after April 19, 2026 and before September 8, 2026, the following rules apply in determining the amount of that tax:
+    If excise tax imposed under section 23 of the Act in respect of a quantity of unleaded gasoline, unleaded aviation gasoline, **leaded aviation gasoline**, diesel fuel or aviation fuel becomes payable at a time that is after April 19, 2026 and before September 8, 2026, the following rules apply in determining the amount of that tax:
 
-    the reference to "$0.10" in paragraph 9(a) is to be read as a reference to "$0.00"; and
+    the reference to "$0.10" in paragraph 9(a) is to be read as a reference to "$0.00";
+
+    **the reference to "$0.11" in paragraph 9(b) is to be read as a reference to "$0.00"**; and
 
     the reference to "$0.04" in section 9.1 is to be read as a reference to "$0.00".
 
@@ -401,23 +403,23 @@ the amount of $10,000 referred to in subparagraph 8(1)(t)(i), for a taxation yea
 
 ### Section 522.34
 
-      **(1)** The `Investment Canada Act` does not apply in respect of any of the following, whether it occurs directly or indirectly, **if it is subject to approval under this Act, the `Trust and Loan Companies Act` or the `Insurance Companies Act`**:
+      **(1)** The `Investment Canada Act` does not apply in respect of any of the following, whether it occurs directly or indirectly, if it is subject to approval under this Act, the `Trust and Loan Companies Act` or the `Insurance Companies Act`:
 
         the acquisition of control of a Canadian business that is an entity referred to in any of paragraphs 468(1)(a) to (f) by a foreign bank or by an entity associated with a foreign bank;
 
-        the acquisition**, in whole or in part, of an entity referred to in paragraph 25.1(c) of the `Investment Canada Act`** that is an entity referred to in any of paragraphs 468(1)(a) to (f) by a foreign bank or by an entity associated with a foreign bank;
+        the acquisition, in whole or in part, of an entity referred to in paragraph 25.1(c) of the `Investment Canada Act` that is an entity referred to in any of paragraphs 468(1)(a) to (f) by a foreign bank or by an entity associated with a foreign bank;
 
-        the establishment of a new Canadian business, **or of an entity referred to in paragraph 25.1(c) of the `Investment Canada Act`**, that is the insurance business in Canada of a foreign insurance company that is a foreign bank, or an entity associated with a foreign bank, to which Part XII does not apply;
+        the establishment of a new Canadian business, or of an entity referred to in paragraph 25.1(c) of the `Investment Canada Act`, that is the insurance business in Canada of a foreign insurance company that is a foreign bank, or an entity associated with a foreign bank, to which Part XII does not apply;
 
         the acquisition of control of a Canadian business by an entity referred to in any of paragraphs 468(1)(a) to (f) that is controlled by a foreign bank or by an entity associated with a foreign bank;
 
-        the acquisition, **in whole or in part, of an entity referred to in paragraph 25.1(c) of the `Investment Canada Act`** by an entity referred to in any of paragraphs 468(1)(a) to (f) that is controlled by a foreign bank or by an entity associated with a foreign bank;
+        the acquisition, in whole or in part, of an entity referred to in paragraph 25.1(c) of the `Investment Canada Act` by an entity referred to in any of paragraphs 468(1)(a) to (f) that is controlled by a foreign bank or by an entity associated with a foreign bank;
 
-        the establishment of a new Canadian business, **or of an entity referred to in paragraph 25.1(c) of the `Investment Canada Act`**, by a foreign bank to which Part XII applies, or by an entity associated with a foreign bank to which that Part applies, that has a financial establishment in Canada or would have one by virtue of the establishment of the new Canadian business **or the entity**;
+        the establishment of a new Canadian business, or of an entity referred to in paragraph 25.1(c) of the `Investment Canada Act`, by a foreign bank to which Part XII applies, or by an entity associated with a foreign bank to which that Part applies, that has a financial establishment in Canada or would have one by virtue of the establishment of the new Canadian business or the entity;
 
-        the acquisition of control of a Canadian business by a foreign bank to which Part XII applies, or by an entity associated with a foreign bank to which that Part applies, that has a financial establishment in Canada or would have one by virtue of the acquisition; **and**
+        the acquisition of control of a Canadian business by a foreign bank to which Part XII applies, or by an entity associated with a foreign bank to which that Part applies, that has a financial establishment in Canada or would have one by virtue of the acquisition; and
 
-        the acquisition**, in whole or in part, of an entity referred to in paragraph 25.1(c) of the `Investment Canada Act`** by a foreign bank to which Part XII applies, or by an entity associated with a foreign bank to which that Part applies, that has a financial establishment in Canada or would have one by virtue of the acquisition.
+        the acquisition, in whole or in part, of an entity referred to in paragraph 25.1(c) of the `Investment Canada Act` by a foreign bank to which Part XII applies, or by an entity associated with a foreign bank to which that Part applies, that has a financial establishment in Canada or would have one by virtue of the acquisition.
 
   **(2)** Subsection 522.34(2) of the Act is amended by adding the following in alphabetical order:
 
@@ -568,13 +570,13 @@ Section 12.1 of the `Payment Clearing and Settlement Act` is repealed.
 
 ### Section 11
 
-      **(1)** If a provision of a federal or provincial Act or regulation applies to or in respect of a payment service provider that performs retail payment activities or a class of payment service providers that perform retail payment activities and the Governor is of the opinion that the provision is substantially similar to any of the following provisions of this Act **or** its regulations, or **of the `Bank of Canada Act` or its regulations**, then the Governor may, by order, specify the provision of this Act **or** its regulations, **or of the `Bank of Canada Act` or its regulations**, and the payment service provider or class of payment service provider:
+      **(1)** If a provision of a federal or provincial Act or regulation applies to or in respect of a payment service provider that performs retail payment activities or a class of payment service providers that perform retail payment activities and the Governor is of the opinion that the provision is substantially similar to any of the following provisions of this Act or its regulations, or of the `Bank of Canada Act` or its regulations, then the Governor may, by order, specify the provision of this Act or its regulations, or of the `Bank of Canada Act` or its regulations, and the payment service provider or class of payment service provider:
 
   **(2)** Paragraphs 11(1)(d) and (e) of the Act are replaced by the following:
 
-    sections 59, 94 and 95 **of this Act and sections 30.2 to 30.4 of the `Bank of Canada Act`**; and
+    sections 59, 94 and 95 of this Act and sections 30.2 to 30.4 of the `Bank of Canada Act`; and
 
-    a provision of the regulations **under this Act or the `Bank of Canada Act`** that is made for the purposes of any of the provisions referred to in paragraphs (a) to (d).
+    a provision of the regulations under this Act or the `Bank of Canada Act` that is made for the purposes of any of the provisions referred to in paragraphs (a) to (d).
 
 ### Section 24
 
@@ -584,7 +586,7 @@ Part 6 of the Act is repealed.
 
 Paragraph 101(1)(h) of the Act is replaced by the following:
 
-designating, as a violation that may be proceeded with under Part 5, the contravention of a specified provision of this Act or **its** regulations, **of sections 30.2 to 30.5 of the `Bank of Canada Act` or of regulations made for the purposes of section 30.2, 30.3 or 30.5 of that Act**;
+designating, as a violation that may be proceeded with under Part 5, the contravention of a specified provision of this Act or its regulations, of sections 30.2 to 30.5 of the `Bank of Canada Act` or of regulations made for the purposes of section 30.2, 30.3 or 30.5 of that Act;
 
 
 ##### `Consumer-Driven Banking Act`
@@ -595,7 +597,7 @@ Subsection 23(1) of the `Consumer-Driven Banking Act` is replaced by the followi
 
 ### Section 23
 
-  **(1)** The Bank may suspend a participating entity's accreditation if the Bank is satisfied that the participating entity has contravened this Act or **its** regulations, **sections 30.2 to 30.5 of the `Bank of Canada Act` or regulations made for the purposes of section 30.2, 30.3 or 30.5 of that Act**.
+  **(1)** The Bank may suspend a participating entity's accreditation if the Bank is satisfied that the participating entity has contravened this Act or its regulations, sections 30.2 to 30.5 of the `Bank of Canada Act` or regulations made for the purposes of section 30.2, 30.3 or 30.5 of that Act.
 
 ### Section 27
 
@@ -603,7 +605,7 @@ Section 25 of the Act is replaced by the following:
 
 ### Section 25
 
-The Bank may give a participating entity a notice of intent to revoke the participating entity's accreditation if the Bank is satisfied that the participating entity has contravened this Act or **its** regulations, **sections 30.2 to 30.5 of the `Bank of Canada Act` or regulations made for the purposes of section 30.2, 30.3 or 30.5 of that Act**. A notice of intent must include reasons.
+The Bank may give a participating entity a notice of intent to revoke the participating entity's accreditation if the Bank is satisfied that the participating entity has contravened this Act or its regulations, sections 30.2 to 30.5 of the `Bank of Canada Act` or regulations made for the purposes of section 30.2, 30.3 or 30.5 of that Act. A notice of intent must include reasons.
 
 ### Section 28
 
@@ -611,7 +613,7 @@ Subsection 36(1) of the Act is replaced by the following:
 
 ### Section 36
 
-  **(1)** The Bank may suspend an accredited third-party service provider's accreditation if the Bank is satisfied that the accredited third-party service provider has contravened this Act or **its** regulations, **sections 30.2 to 30.5 of the `Bank of Canada Act` or regulations made for the purposes of section 30.2, 30.3 or 30.5 of that Act**.
+  **(1)** The Bank may suspend an accredited third-party service provider's accreditation if the Bank is satisfied that the accredited third-party service provider has contravened this Act or its regulations, sections 30.2 to 30.5 of the `Bank of Canada Act` or regulations made for the purposes of section 30.2, 30.3 or 30.5 of that Act.
 
 ### Section 29
 
@@ -619,7 +621,7 @@ Section 38 of the Act is replaced by the following:
 
 ### Section 38
 
-The Bank may give an accredited third-party service provider a notice of intent to revoke the accredited third-party service provider's accreditation if the Bank is satisfied that the accredited third-party service provider has contravened this Act or **its** regulations, **sections 30.2 to 30.5 of the `Bank of Canada Act` or regulations made for the purposes of section 30.2, 30.3 or 30.5 of that Act**. A notice of intent must include reasons.
+The Bank may give an accredited third-party service provider a notice of intent to revoke the accredited third-party service provider's accreditation if the Bank is satisfied that the accredited third-party service provider has contravened this Act or its regulations, sections 30.2 to 30.5 of the `Bank of Canada Act` or regulations made for the purposes of section 30.2, 30.3 or 30.5 of that Act. A notice of intent must include reasons.
 
 ### Section 30
 
@@ -629,7 +631,7 @@ The heading before section 140 and sections 140 and 141 of the Act are repealed.
 
 Paragraph 155(1)(a) of the Act is replaced by the following:
 
-designating as a violation the contravention of a specified provision of this Act or **its** regulations — **or of sections 30.2 to 30.5 of the `Bank of Canada Act` or of regulations made for the purposes of section 30.2, 30.3 or 30.5 of that Act** — or the non-compliance with orders made, undertakings required, compliance agreements entered into or directions made under this Act;
+designating as a violation the contravention of a specified provision of this Act or its regulations — or of sections 30.2 to 30.5 of the `Bank of Canada Act` or of regulations made for the purposes of section 30.2, 30.3 or 30.5 of that Act — or the non-compliance with orders made, undertakings required, compliance agreements entered into or directions made under this Act;
 
 
 ##### `Stablecoin Act`
@@ -644,7 +646,7 @@ Section 64 of the Act is replaced by the following:
 
 ### Section 64
 
-The Bank may recommend to the Minister that the Minister make an order under subsection 74(1) prohibiting an issuer from issuing a stablecoin if the Bank is satisfied that the issuer has contravened this Act or **its** regulations — **or sections 30.2 to 30.5 of the `Bank of Canada Act` or regulations made for the purposes of section 30.2, 30.3 or 30.5 of that Act** — or that the issuer is committing an act or pursuing a course of conduct that is an unsafe or unsound practice in relation to its business.
+The Bank may recommend to the Minister that the Minister make an order under subsection 74(1) prohibiting an issuer from issuing a stablecoin if the Bank is satisfied that the issuer has contravened this Act or its regulations — or sections 30.2 to 30.5 of the `Bank of Canada Act` or regulations made for the purposes of section 30.2, 30.3 or 30.5 of that Act — or that the issuer is committing an act or pursuing a course of conduct that is an unsafe or unsound practice in relation to its business.
 
 ### Section 34
 
@@ -652,7 +654,7 @@ Section 79 of the Act is replaced by the following:
 
 ### Section 79
 
-Every contravention **of a provision of this Act or its regulations — or of sections 30.2 to 30.5 of the `Bank of Canada Act` or of regulations made for the purposes of section 30.2, 30.3 or 30.5 of that Act** — that is designated under the regulations constitutes a violation and the person that commits the violation is liable to a penalty determined in accordance with the regulations.
+Every contravention of a provision of this Act or its regulations — or of sections 30.2 to 30.5 of the `Bank of Canada Act` or of regulations made for the purposes of section 30.2, 30.3 or 30.5 of that Act — that is designated under the regulations constitutes a violation and the person that commits the violation is liable to a penalty determined in accordance with the regulations.
 
 ### Section 35
 
@@ -660,7 +662,7 @@ Every contravention **of a provision of this Act or its regulations — or of se
 
   **(2)** Paragraph 93(z.2) of the Act is replaced by the following:
 
-    designating as a violation the contravention of a specified provision of this Act or **its** regulations — **or of sections 30.2 to 30.5 of the `Bank of Canada Act` or of regulations made for the purposes of section 30.2, 30.3 or 30.5 of that Act** — or the non-compliance with orders made, undertakings required, compliance agreements entered into or directions made under this Act;
+    designating as a violation the contravention of a specified provision of this Act or its regulations — or of sections 30.2 to 30.5 of the `Bank of Canada Act` or of regulations made for the purposes of section 30.2, 30.3 or 30.5 of that Act — or the non-compliance with orders made, undertakings required, compliance agreements entered into or directions made under this Act;
 
 
 #### Coming into Force
@@ -706,11 +708,11 @@ The `Canadian Payments Act` is amended by adding the following after section 44:
 
   **(2)** Subparagraph 12(2.3)(a)(i) of the Act is replaced by the following:
 
-    the date on which a benefit period for the claimant is established falls within the period beginning on September 26, 2021 and ending on October **7, 2028**,
+    the date on which a benefit period for the claimant is established falls within the period beginning on September 26, 2021 and ending on October 7, 2028,
 
   **(3)** Subparagraph 12(2.3)(a)(ii) of the Act is replaced by the following:
 
-    on the date on which the benefit period is established, the claimant is ordinarily resident in a region **established by regulation and prescribed for the purpose of this subparagraph**,
+    on the date on which the benefit period is established, the claimant is ordinarily resident in a region established by regulation and prescribed for the purpose of this subparagraph,
 
   **(4)** Subsection 12(2.3) of the Act is amended by striking out "or" at the end of paragraph (a) and by repealing paragraph (b).
 
@@ -737,13 +739,13 @@ Schedule VI to the Act is repealed.
 
 Subsections 113.1(11.07) to (11.09) of the `Canada Pension Plan` are replaced by the following:
 
-**(11.07)** If neither A nor D is greater than **4.75**% and A is greater than D, the contribution rate for employees and employers for each year after the October 1 date referred to in subsection (11.05) is A plus C.
+**(11.07)** If neither A nor D is greater than 4.75% and A is greater than D, the contribution rate for employees and employers for each year after the October 1 date referred to in subsection (11.05) is A plus C.
 
-**(11.08)** If A is greater than **4.75**%, D is less than or equal to **4.75**% and the percentage determined by the formula
+**(11.08)** If A is greater than 4.75%, D is less than or equal to 4.75% and the percentage determined by the formula
 
   is less than or equal to 0.1%, then the contribution rate for employees and employers for each year after the October 1 date referred to in subsection (11.05) is the rate determined by the formula
 
-**(11.09)** If A is greater than **4.75**%, D is less than or equal to **4.75**% and the percentage determined by the formula
+**(11.09)** If A is greater than 4.75%, D is less than or equal to 4.75% and the percentage determined by the formula
 
   is greater than 0.1%, then the contribution rate for employees and employers is
 
@@ -816,7 +818,7 @@ an individual or entity that is not part of the federal public administration an
 The heading before section 11 of the English version of the `Canadian Food Inspection Agency Act` is replaced by the following:
 
 
-## **Mandate** of the Agency
+## Mandate of the Agency
 
 ### Section 48
 
@@ -845,11 +847,11 @@ The Act is amended by adding the following after section 11:
 
 ## Responsibilities
 
-### Section **11.1**
+### Section 11.1
 
 The Minister of Health is responsible for establishing policies and standards relating to the safety and nutritional quality of food sold in Canada and assessing the effectiveness of the Agency's activities related to food safety.
 
-### Section **11.2**
+### Section 11.2
 
 The Canada Border Services Agency is responsible for the enforcement of the program legislation referred to in paragraph (b) of the definition program legislation in section 2 of the `Canada Border Services Agency Act` as that program legislation relates to the delivery of initial passenger and import inspection services performed at airports and other Canadian border points other than import service centres.
 
@@ -876,7 +878,9 @@ The Act is amended by adding the following after section 31:
 
   **(3)** Before an order is made under subsection (1), a notice of the proposed order that includes the contents of the proposed order and the proposed duration of the order must be made public.
 
-  **(4)** An order made under subsection (1) must be made public.
+  **(4)** An order made under subsection (1) must be made public **as soon as practicable**.
+
+  **(4.1)** No later than 60 days after the order is made, reasons for making the order must also be made public.
 
   **(5)** The `Statutory Instruments Act` does not apply in respect of an order made under subsection (1).
 
@@ -905,7 +909,7 @@ The Act is amended by adding the following after section 31:
 
 Paragraph (b) of the definition Minister in section 2 of the `Agriculture and Agri-Food Administrative Monetary Penalties Act` is replaced by the following:
 
-it means the Minister of Public Safety and Emergency Preparedness in relation to a notice of violation issued in respect of the contravention of program legislation referred to in **section 11.2** of the `Canadian Food Inspection Agency Act`; (**ministre**)
+it means the Minister of Public Safety and Emergency Preparedness in relation to a notice of violation issued in respect of the contravention of program legislation referred to in section 11.2 of the `Canadian Food Inspection Agency Act`; (**ministre**)
 
 
 ### `Pest Control Products Act`
@@ -914,7 +918,7 @@ it means the Minister of Public Safety and Emergency Preparedness in relation to
 
 Paragraph (b) of the definition conditions of registration in subsection 2(1) of the `Pest Control Products Act` is replaced by the following:
 
-any other requirements stated by this Act, the regulations or **an order made under section 8.1 or 28.1** to be conditions of registration. (**conditions d'homologation**)
+any other requirements stated by this Act, the regulations or an order made under section 8.1 or 28.1 to be conditions of registration. (**conditions d'homologation**)
 
 ### Section 53
 
@@ -961,7 +965,9 @@ An order must not be made under section 8.1 if doing so would violate any intern
 
 ### Section 8.4
 
-An order made under section 8.1 must be made public.
+  ****(1)**** An order made under section 8.1 must be made public **as soon as practicable**.
+
+  **(2)** No later than 60 days after the order is made, reasons for making the order must also be made public.
 
 ### Section 8.5
 
@@ -985,9 +991,9 @@ Section 17 of the Act is amended by adding the following after subsection (1):
 
 The portion of subsection 21(5) of the Act before paragraph (b) is replaced by the following:
 
-**(5)** When cancelling the registration of a pest control product under this section or any other provision of this Act, **or when an order made under subsection 8.1(2) or 28.1(2) expires or is repealed**, the Minister may
+**(5)** When cancelling the registration of a pest control product under this section or any other provision of this Act, or when an order made under subsection 8.1(2) or 28.1(2) expires or is repealed, the Minister may
 
-  allow the continued possession, handling, storage, distribution and use of stocks of the product in Canada at the time of **the** cancellation, **expiration or repeal**, subject to any conditions, including disposal procedures, that the Minister considers necessary for carrying out the purposes of this Act;
+  allow the continued possession, handling, storage, distribution and use of stocks of the product in Canada at the time of the cancellation, expiration or repeal, subject to any conditions, including disposal procedures, that the Minister considers necessary for carrying out the purposes of this Act;
 
 ### Section 57
 
@@ -1058,5 +1064,5 @@ The portion of section 69 of the Act before paragraph (a) is replaced by the fol
 
 ### Section 69
 
-Every person who contravenes a provision of the regulations, **or a condition of an order made under section 8.1 or 28.1 that is not a condition of registration**, is guilty of an offence and liable
+Every person who contravenes a provision of the regulations, or a condition of an order made under section 8.1 or 28.1 that is not a condition of registration, is guilty of an offence and liable
 
