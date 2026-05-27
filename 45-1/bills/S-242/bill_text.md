@@ -1,5 +1,7 @@
 # Bill S-242: An Act respecting national action for the prevention of intimate partner violence
 
+**Sponsor**: Senator MANNING
+
 ## Summary
 
 This enactment provides for the continuation of national action for the prevention of intimate partner violence.
