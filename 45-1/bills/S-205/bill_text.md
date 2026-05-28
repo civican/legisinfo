@@ -1,10 +1,12 @@
 # Bill S-205: An Act to amend the Corrections and Conditional Release Act
 
+**Sponsor**: Senator PATE
+
 ## Summary
 
 This enactment amends the `Corrections and Conditional Release Act` to, among other things,
 
-provide that a person who is sentenced, transferred or committed to a penitentiary or a person who is transferred into a structured intervention unit must be referred for a mental health assessment by a person qualified to conduct such an assessment;
+require that, if a person who is sentenced, transferred or committed to a penitentiary has disabling mental health issues, they will be transferred to a hospital;
 
 ensure that a person may only be confined in a structured intervention unit for longer than 48 hours on an order of a superior court;
 
@@ -54,62 +56,109 @@ any area of a penitentiary where a person is separated from the mainstream popul
 
 a penitentiary or any area in a penitentiary that is designated under section 31. (**unité d'intervention structurée**)
 
+
+> **Explanatory Note**:
+> New.
+
 ### Section 3
 
 Subsection 15.1(2.01) of the Act is replaced by the following:
 
-**(2.01)** In order to ensure that the plan can be developed in a manner that takes into consideration any mental health needs of the person who is sentenced, transferred or committed to a penitentiary, the institutional head must, as soon as practicable after the day on which the person is received but not later than the 30th day after that day, refer the person for a mental health assessment.
+**(2.01)** In order to ensure that the plan can be developed in a manner that takes into consideration any mental health needs **of the person who is sentenced, transferred or committed to a penitentiary**, the institutional head **must**, as soon as practicable after the day on which the **person** is received but not later than the 30th day after that day, refer the **person** for a mental health assessment.
+
+**(2.02)** If a mental health assessment required under subsection (2.01) cannot be performed by a medical professional engaged by the Service who is qualified to do so, the institutional head must authorize the transfer of the person referred to in that subsection to a hospital, including any mental health facility, in accordance with an agreement entered into under paragraph 16(1)(a) and any applicable regulations, for the purposes of a mental health assessment.
+
+
+> **Explanatory Note**:
+> Text of subsection 15.1(2.01):
+> *Existing Text*:
+> > In order to ensure that the plan can be developed in a manner that takes any mental health needs of the offender into consideration, the institutional head shall, as soon as practicable after the day on which the offender is received but not later than the 30th day after that day, refer the offender's case to the portion of the Service that administers health care for the purpose of conducting a mental health assessment of the offender.
 
 ### Section 4
+
+The Act is amended by adding the following after section 29.01:
+
+### Section 29.02
+
+If a mental health assessment or an assessment by a registered health care professional concludes that a person sentenced, transferred or committed to a penitentiary has disabling mental health issues, as evidenced by one or more of the grounds for belief set out in section 37.11, the Commissioner must authorize that person's transfer to a hospital — including any mental health facility — in accordance with an agreement entered into under paragraph 16(1)(a) and any applicable regulations.
+
+
+> **Explanatory Note**:
+> New.
+
+### Section 5
 
 Section 33 of the Act is replaced by the following:
 
 ### Section 33
 
-  **(1)** Any confinement in a structured intervention unit is to end as soon as possible.
+  ****(1)**** **Any** confinement in a structured intervention unit is to end as soon as possible.
 
   **(2)** A person's confinement may not have a duration of more than 48 hours unless authorized by a superior court under subsection (3).
 
   **(3)** On application by the Service, a superior court may extend the duration of a person's confinement in a structured intervention unit beyond 48 hours if, in the court's opinion, the extension is necessary for a purpose described in subsection 32(1).
 
-### Section 5
 
-Paragraph 37.1(2)(a) of the Act is replaced by the following:
-
-a referral of the person transferred into a structured intervention unit, within 24 hours after their transfer, for a mental health assessment; and
+> **Explanatory Note**:
+> Text of section 33:
+> *Existing Text*:
+> > An inmate's confinement in a structured intervention unit is to end as soon as possible.
 
 ### Section 6
+
+  **(1)** Paragraph 37.1(2)(a) of the Act is replaced by the following:
+
+    a referral **of the person transferred** into **a** structured intervention unit, within 24 hours after **their** transfer, **for** a mental health assessment; and
+
+  **(2)** Section 37.1 of the Act is amended by adding the following after subsection (2):
+
+    **(3)** If a mental health assessment required under paragraph (2)(a) cannot be performed by a medical professional engaged by the Service who is qualified to do so, the institutional head must authorize the transfer of the person referred to in that paragraph to a hospital, including any mental health facility, in accordance with an agreement entered into under paragraph 16(1)(a) and any applicable regulations, for the purposes of a mental health assessment.
+
+
+> **Explanatory Note**:
+> New.
+
+### Section 7
 
 The heading before section 79 of the Act is replaced by the following:
 
 
-## Indigenous and Marginalized Populations
+## Indigenous **and Marginalized Populations**
 
-### Section 7
+
+> **Explanatory Note**:
+> Text of the heading:
+> *Existing Text*:
+
+### Section 8
 
 Section 79 of the Act is amended by adding the following in alphabetical order:
 
 **disadvantaged or minority population** includes any population that is or has been the subject of direct or indirect discrimination on the basis of race, national or ethnic origin, colour, religion, age, sex, sexual orientation, gender identity or expression, or disability. (**population défavorisée ou en situation minoritaire**)
 
-### Section 8
+
+> **Explanatory Note**:
+> New.
+
+### Section 9
 
 Section 81 of the Act is replaced by the following:
 
 ### Section 81
 
-  **(1)** The Minister or a person authorized by the Minister may, for the purposes of providing correctional services, enter into an agreement with
+  **(1)** The Minister or a person authorized by the Minister may, for **the purposes of providing** correctional services, enter into an agreement with
 
-    an Indigenous organization;
+    an Indigenous organization**;**
 
-    an Indigenous governing body;
+    an Indigenous governing body**;**
 
     a community group or organization that serves a disadvantaged or minority population; or
 
     any other entity that provides community-based support services.
 
-  **(2)** An agreement under subsection (1) may provide for payment by the Minister or a person authorized by the Minister in respect of the provision of those services.
+  **(2)** An agreement **under** subsection (1) may provide for **payment by the Minister or a person authorized by the Minister in respect of** the provision of **those** services.
 
-  **(3)** In accordance with any agreement entered into under subsection (1), the Commissioner may transfer a person who is committed to a penitentiary to the care and custody of an entity described in that subsection with the consent of that person and the entity.
+  **(3)** In accordance with any agreement entered into under subsection (1), the Commissioner may transfer**a person who is committed to a penitentiary** to the care and custody of an **entity described in that subsection** with the consent of **that person and the entity**.
 
   **(4)** The Commissioner must take all reasonable steps to
 
@@ -119,13 +168,21 @@ Section 81 of the Act is replaced by the following:
 
   **(5)** The Commissioner must not deny the transfer of a person committed to a penitentiary to an entity with which an agreement exists if the person and the entity consent unless the transfer is, as determined by a court of competent jurisdiction, not to be in the interests of justice.
 
-### Section 9
+
+> **Explanatory Note**:
+> Text of section 81:
+> *Existing Text*:
+> > The Minister, or a person authorized by the Minister, may enter into an agreement with an Indigenous governing body or any Indigenous organization for the provision of correctional services to Indigenous offenders and for payment by the Minister, or by a person authorized by the Minister, in respect of the provision of those services.
+> > Notwithstanding subsection (1), an agreement entered into under that subsection may provide for the provision of correctional services to a non-Indigenous offender.
+> > In accordance with any agreement entered into under subsection (1), the Commissioner may transfer an offender to the care and custody of an appropriate Indigenous authority, with the consent of the offender and of the appropriate Indigenous authority.
+
+### Section 10
 
 Section 84 of the Act is replaced by the following:
 
 ### Section 84
 
-  **(1)** If a person committed to a penitentiary requests the support, on being released, of an entity referred to in subsection (2), the Service must provide that entity with an opportunity to propose a plan for the person's release and integration into the community in which the person is to be released.
+  ****(1)**** If **a person committed to a penitentiary requests the support, on being released, of an entity referred to in subsection (2)**, the Service **must provide that entity with** an opportunity to propose a plan for the **person's** release and integration into **the** community **in which the person is to be released**.
 
   **(2)** The following are relevant entities for the purposes of subsection (1):
 
@@ -145,7 +202,15 @@ Section 84 of the Act is replaced by the following:
 
   **(4)** If the Parole Board of Canada makes any decision that is inconsistent with a plan proposed by an entity for the release and integration of a person under subsection (1), it must provide written reasons for its decision.
 
-### Section 10
+
+> **Explanatory Note**:
+> Text of section 84:
+> *Existing Text*:
+> > If an inmate expresses an interest in being released into an Indigenous community, the Service shall, with the inmate's consent, give the community's Indigenous governing body
+> > adequate notice of the inmate's parole review or their statutory release date, as the case may be; and
+> > an opportunity to propose a plan for the inmate's release and integration into that community.
+
+### Section 11
 
 The Act is amended by adding the following after section 198:
 
@@ -193,4 +258,8 @@ The Act is amended by adding the following after section 198:
     in relation to the decision, recommendation, act or omission; or
 
     within any other period of time that the court may establish, at its discretion and at any time, if that period is longer than the period referred to in paragraph (a).
+
+
+> **Explanatory Note**:
+> New.
 
