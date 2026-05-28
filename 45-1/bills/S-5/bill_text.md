@@ -1,5 +1,7 @@
 # Bill S-5: An Act respecting the interoperability of health information technology and to prohibit data blocking by health information technology vendors
 
+**Sponsor**: THE HONOURABLE SENATOR MOREAU, P.C.
+
 ## Summary
 
 This enactment aims, among other things, to ensure that health information technology that is licensed, sold or supplied as a service by a vendor is interoperable and to prohibit data blocking by the vendor in order to promote a connected, secure and person-centered health system.
@@ -14,9 +16,7 @@ Whereas Parliament recognizes the increased mobility of Canadians and health car
 
 Whereas Parliament recognizes that a health system that is connected, secure and that allows health information to be used efficiently will help governments, health care administrators and researchers make evidence-based decisions that will improve health care delivery and fuel innovation;
 
-Whereas Parliament wishes to promote cooperation and consultation among federal, provincial and territorial governments, First Nations, Inuit and Métis Peoples and key stakeholders to establish common interoperability standards in order to create a connected health system;
-
-And whereas Parliament affirms that the enabling of easy, complete and secure access to and use and exchange of electronic health information and the governance of data under this Act as that data relates to First Nations, Inuit and Métis Peoples must occur in a manner that respects Indigenous data sovereignty;
+And whereas Parliament wishes to promote cooperation and consultation among federal, provincial and territorial governments, Indigenous peoples and key stakeholders to establish common interoperability standards in order to create a connected health system;
 
 Now, therefore, His Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
