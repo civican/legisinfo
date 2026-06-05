@@ -1,5 +1,7 @@
 # Bill S-4: An Act to amend the Energy Efficiency Act
 
+**Sponsor**: THE HONOURABLE SENATOR MOREAU, P.C.
+
 ## Summary
 
 This enactment amends the `Energy Efficiency Act` to, among other things,
@@ -25,7 +27,7 @@ The long title of the `Energy Efficiency Act` is replaced by the following:
 
   **(2)** The definition **energy efficiency standard** in section 2 of the Act is replaced by the following:
 
-    **energy efficiency standard** means a standard prescribed under section 20 for an energy-using product or class of energy-using products that relates only to energy efficiency or the responsible use of energy, and, in particular, includes standards relating to
+    **energy efficiency standard** means a standard prescribed **under** section 20 for an energy-using product or class of energy-using products, **including** any **standard** for the **responsible use** of **energy and, in particular, any such standard that relates to**
 
     the durability of the product or class of products,
 
@@ -60,9 +62,9 @@ The Act is amended by adding the following after section 2.1:
 
 ## Purpose of Act
 
-### Section 2.2
+### Section **2.2**
 
-  **(1)** The purpose of this Act is to
+  **(1)** **The purpose of this Act is to**
 
     promote energy efficiency and the responsible use of energy;
 
@@ -84,17 +86,17 @@ The Act is amended by adding the following after section 2.1:
 
 ### Section 4
 
-      **(1)** It is prohibited for a commercial entity to ship an energy-using product from one province to another or import an energy-using product and for a dealer to engage in any of those activities for a commercial purpose, unless
+      **(1)** **It is prohibited for a commercial entity to** ship an energy-using product from one province to another or import an energy-using product **and** for **a** dealer to **engage in any of those activities for a commercial purpose**, unless
 
-        the product complies with the applicable energy efficiency standards; and
+        the product complies with the **applicable** energy efficiency **standards**; and
 
-        the product's label complies with the regulations.
+        the product's **label complies** with the regulations.
 
-      **(2)** A person shall not, before an energy-using product is sold to the first retail purchaser or leased to the first lessee, remove, deface, obscure or alter that product's label.
+      **(2)** **A** person shall **not**, before an energy-using product is sold to the first retail purchaser or leased to the first lessee, remove, deface, obscure or alter **that** product's label.
 
   **(2)** Subsection 4(3) of the French version of the Act is replaced by the following:
 
-    **(3)** Le fournisseur ne contrevient pas à l'alinéa (1)b) si les conditions d'étiquetage sont remplies avant que lui-même ou son dépositaire ne se dessaisissent du matériel consommateur d'énergie.
+    **(3)** Le fournisseur ne contrevient pas **à l'alinéa** (1)**b)** si les conditions d'étiquetage sont remplies avant que lui-même ou son dépositaire ne se dessaisissent du matériel consommateur d'énergie.
 
 ### Section 5
 
@@ -102,11 +104,11 @@ The Act is amended by adding the following after section 2.1:
 
 ### Section 5
 
-      **(1)** Every dealer or commercial entity that ships or imports energy-using products as described in subsection 4(1) shall provide the Minister, in the prescribed form and manner and at the prescribed time, with prescribed information respecting those products, including their energy efficiency and their shipment or importation.
+      **(1)** Every dealer **or commercial entity that** ships or imports energy-using products as described in subsection 4(1) shall provide the Minister, in the prescribed form and manner and at the prescribed time, with prescribed information respecting those products, including their energy efficiency and their shipment or importation.
 
   **(2)** The portion of subsection 5(2) of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** A dealer or commercial entity is not required to provide prescribed information in respect of the energy efficiency of any particular energy-using products if the Minister is satisfied that
+    **(2)** A dealer **or commercial entity** is not required to provide prescribed information in respect of the energy efficiency of any particular energy-using products if the Minister is satisfied that
 
 ### Section 6
 
@@ -122,9 +124,9 @@ Subsections 6(1) to (4) of the Act are replaced by the following:
 
 ### Section 6
 
-  **(1)** The Minister may, for a purpose related to verifying compliance or preventing non-compliance with this Act, require any dealer or commercial entity that ships or imports energy-using products as described in subsection 4(1) to
+  **(1)** The Minister may, **for a purpose related to verifying compliance or preventing non-compliance with this Act**, require any dealer or **commercial entity that** ships or imports energy-using products as described in subsection 4(1) to
 
-    make available, at any place that the Minister may specify, the number of those products that the Minister considers to be reasonably necessary for that purpose;
+    make available, at **any place that** the Minister may specify, the number of those products **that** the Minister considers to be reasonably necessary for **that purpose**;
 
     provide the Minister with any information or data necessary to examine or test those products and any calculation used to examine or test those products, as well as the results of any such examination or test; or
 
@@ -132,11 +134,11 @@ Subsections 6(1) to (4) of the Act are replaced by the following:
 
   **(1.1)** A dealer or commercial entity shall comply with any request made under subsection (1) without delay.
 
-  **(2)** The Minister may dismantle or examine — using any information or data provided to the Minister, or software or tool to which the Minister is provided access, under subsection (1) — any energy-using product made available under that subsection and conduct any tests on it that the Minister considers to be necessary to determine the product's energy efficiency.
+  **(2)** The Minister may dismantle **or** examine — **using any information or data provided to the Minister, or software or tool to which the Minister is provided access, under subsection (1)** — any energy-using product made available **under that** subsection and conduct **any** tests on it **that** the Minister considers to be necessary to determine the product's energy efficiency.
 
-  **(3)** The Minister shall not retain any energy-using product made available under subsection (1) longer than the Minister considers to be necessary to verify compliance or prevent non-compliance with this Act unless the dealer or commercial entity consents to the further retention.
+  **(3)** The Minister shall not retain any energy-using product **made available under subsection (1)** longer than the Minister considers to be necessary to **verify compliance or prevent non-compliance with this Act** unless the dealer **or commercial entity** consents to the further retention.
 
-  **(4)** Despite subsection (3), an inspector may seize and detain any energy-using product that is made available under subsection (1) for a purpose related to verifying compliance or preventing non-compliance with this Act.
+  **(4)** **Despite** subsection (3), an inspector may seize and detain any energy-using product that is **made available under subsection (1) for a purpose related** to **verifying compliance** or **preventing non-compliance with** this **Act**.
 
 ### Section 8
 
@@ -144,11 +146,11 @@ Sections 7 and 8 of the Act are replaced by the following:
 
 ### Section 7
 
-Every dealer or commercial entity that is required by section 5 to provide the Minister with prescribed information shall keep, at their place of business or other prescribed place in Canada, documents and records sufficient to enable the Minister to verify the accuracy and completeness of the information provided.
+Every dealer **or commercial entity that is** required by section 5 to provide the Minister with prescribed information shall keep, at **their** place of business or other prescribed place in Canada, documents and records sufficient to enable the Minister to verify the accuracy and completeness of the information provided.
 
 ### Section 8
 
-Every dealer or commercial entity that is required by section 7 to keep documents and records shall, unless authorized by the Minister, retain each one of those documents or records for a period of six years after the day on which the Minister is provided with the prescribed information.
+Every dealer **or commercial entity that is** required by section 7 to keep documents and records shall, unless authorized by the Minister, retain each one of those documents or records **for a period** of six years after the day on which the Minister is provided with the prescribed information.
 
 ### Section 9
 
@@ -156,7 +158,7 @@ Subsection 9(1) of the Act is replaced by the following:
 
 ### Section 9
 
-  **(1)** The Minister may designate as an inspector for the purpose of verifying compliance or preventing non-compliance with this Act any individual or class of individuals who, in the opinion of the Minister, is qualified to be so designated.
+  **(1)** The Minister may designate as an inspector for the purpose of **verifying compliance or preventing non-compliance** with this Act any individual **or class of individuals** who, in the opinion of the Minister, is qualified to be so designated.
 
 ### Section 10
 
@@ -164,25 +166,25 @@ Subsection 9(1) of the Act is replaced by the following:
 
 ### Section 10
 
-      **(1)** Subject to subsection (3), an inspector may, for a purpose related to verifying compliance or preventing non-compliance with this Act, at any reasonable time enter any place in which the inspector believes on reasonable grounds there is
+      **(1)** Subject to subsection (3), an inspector may, for a purpose **related to verifying** compliance **or preventing non-compliance** with this Act, at any reasonable time enter any place in which the inspector believes on reasonable grounds **there is**
 
         an activity that is regulated under this Act being conducted;
 
-        an energy-using product that is subject to a requirement under this Act and that is owned by or is on the premises of a commercial entity that ships or imports energy-using products as described in subsection 4(1) or a dealer or a consignee of imported energy-using products; or
+        an energy-using product that is subject to a requirement under this Act and that is owned by or is on the premises of a **commercial entity that ships or imports energy-using products as described in subsection 4(1)** or a dealer or a consignee of imported energy-using products; or
 
         any document or record required by section 7 to be kept.
 
       **(2)** In carrying out an inspection of a place under subsection (1), an inspector may
 
-        examine any energy-using product, or any other thing relevant to the verification of compliance or prevention of non-compliance with this Act, that is found in that place;
+        examine any energy-using product, or any other thing relevant to the **verification** of **compliance or prevention** of **non-compliance with** this Act, that is found in that place;
 
         open and examine any package or receptacle found in the place that the inspector believes on reasonable grounds contains an energy-using product;
 
-        examine any document or record that the inspector believes on reasonable grounds contains any information relevant to the verification of compliance or prevention of non-compliance with this Act and make copies of it or of extracts from it;
+        examine any document or record that the inspector believes on reasonable grounds contains any information relevant to the **verification** of **compliance or prevention of non-compliance with** this Act and make copies **of it** or of extracts **from it**;
 
         conduct any tests or take any measurements;
 
-        use or cause to be used any computer system at the place to examine any information contained in or available to the system that the inspector believes on reasonable grounds is relevant to the verification of compliance or prevention of non-compliance with this Act;
+        use or cause to be used any computer system at the place to examine any information contained in or available to the system that the inspector believes on reasonable grounds is relevant to the **verification** of **compliance or prevention of non-compliance with** this Act;
 
         reproduce any record or cause it to be reproduced from the information in the form of a printout or other intelligible output; and
 
@@ -194,7 +196,7 @@ Subsection 9(1) of the Act is replaced by the following:
 
   **(2)** Paragraph 10(4)(b) of the Act is replaced by the following:
 
-    entry to the dwelling-place is necessary for a purpose related to verifying compliance or preventing of non-compliance with this Act, and
+    entry to the dwelling-place is necessary for a purpose **related** to **verifying compliance or preventing of non-compliance with** this Act, and
 
   **(3)** Section 10 of the Act is amended by adding the following after subsection (4):
 
@@ -206,7 +208,7 @@ Subsection 11(1) of the Act is replaced by the following:
 
 ### Section 11
 
-  **(1)** In the course of an inspection under section 10, an inspector may, for a purpose related to verifying compliance or preventing non-compliance with this Act, seize and detain any energy-using product or other thing.
+  **(1)** In the course of an inspection under section 10, an inspector may, **for a purpose related** to **verifying compliance** or **preventing non-compliance with** this Act, seize and detain any energy-using product or other thing.
 
 ### Section 12
 
@@ -214,7 +216,7 @@ Subsection 12(1) of the Act is replaced by the following:
 
 ### Section 12
 
-  **(1)** The owner or person in charge of a place entered by an inspector under section 10, and every person present in that place, shall give the inspector all reasonable assistance to enable the inspector to carry out the inspector's duties and functions under this Act and shall provide the inspector with any information the inspector may reasonably require for a purpose related to verifying compliance or preventing non-compliance with this Act.
+  **(1)** The owner or person in charge of a place entered by an inspector under section 10, and every person present in that place, shall give the inspector all reasonable assistance to enable the inspector to carry out the inspector's duties and functions under this Act and shall **provide** the inspector with **any** information the inspector may reasonably require **for a purpose related** to **verifying compliance** or **preventing non-compliance with** this Act.
 
 ### Section 13
 
@@ -222,7 +224,7 @@ Section 18 of the Act is replaced by the following:
 
 ### Section 18
 
-  **(1)** If a thing has been forfeited under section 15 or 16, or an energy-using product has been forfeited under section 17, any person who claims a right or an interest in the thing or product — other than a person convicted of the offence that resulted in the forfeiture, a person from whom the thing or product was seized or an importer whose energy-using product was forfeited under subsection 17(2) — may, within 30 days after the day on which the thing or product was forfeited, apply by notice in writing to the court for an order under subsection (4).
+  **(1)** If a thing has been forfeited under section 15 or 16, or an energy-using product has been forfeited under section 17, any person who claims a right or an interest in the thing or product — other than a person convicted of the offence that resulted in the forfeiture, a person from whom the thing or product was seized or an importer whose energy-using product was forfeited under subsection 17(2) — may, within 30 days after the day on which the thing or product was seized, apply by notice in writing to the court for an order under subsection (4).
 
   **(2)** The judge to whom the application is made shall fix a day that is not less than 30 days after the day of the filing of the application for the hearing of the application.
 
@@ -276,19 +278,19 @@ Section 19 of the Act is replaced by the following:
 
 ### Section 19
 
-A disclosure relating to energy efficiency that is required to be made by a dealer or commercial entity under this Act in respect of tests conducted under this Act does not create an express or implied warranty by anyone, including His Majesty in right of Canada, that the energy efficiency established by those tests will be achieved under conditions of actual use.
+A disclosure relating to energy efficiency that is required to be made by a dealer **or commercial entity** under this Act in respect of tests conducted under this Act does not create an express or implied warranty by anyone, including **His** Majesty in right of Canada, that the energy efficiency established by those tests will be achieved under conditions of actual use.
 
 ### Section 15
 
   **(1)** Paragraph 20(1)(a) of the Act is replaced by the following:
 
-    prescribing as an energy-using product any product or system, or class of products or systems, that is designed to operate using electricity, oil, natural gas or any other form or source of energy or that affects or controls energy consumption;
+    prescribing as an energy-using product any product **or system**, or class of products **or systems**, that is designed to operate using electricity, oil, natural gas or any other form or source of energy or that affects or controls energy consumption;
 
   **(2)** Paragraphs 20(1)(c) and (d) of the Act are replaced by the following:
 
     respecting the labelling of energy-using products or classes of energy-using products;
 
-    providing for the testing of energy-using products to determine their energy efficiency, including through the use of software or of digital modelling or simulation tools;
+    providing for the testing of energy-using products to determine their energy efficiency, **including through the use of software or of digital modelling or simulation tools**;
 
   **(3)** Section 20 of the Act is amended by adding the following after subsection (2):
 
@@ -298,15 +300,15 @@ A disclosure relating to energy efficiency that is required to be made by a deal
 
   **(1)** The definitions **harmonize** and **requirement** in subsection 20.1(1) of the Act are replaced by the following:
 
-    **harmonize** means, with respect to requirements in the regulations, to make them correspond substantively with the requirements of a jurisdiction or to adapt the requirements of a jurisdiction to the Canadian context. (**harmoniser**)
+    **harmonize** means, with respect to requirements **in the regulations**, to make them correspond substantively **with the requirements of a jurisdiction or to adapt the requirements of a jurisdiction to the Canadian context**. (**harmoniser**)
 
-    **requirement** means an energy efficiency standard or a requirement respecting labelling, testing or the provision of information. (**exigence**)
+    **requirement** means **an** energy efficiency standard or **a requirement respecting labelling**, testing or **the provision of** information. (**exigence**)
 
   **(2)** Subsections 20.1(2) and (3) of the Act are replaced by the following:
 
-    **(2)** The Minister may, by regulation, with respect to energy-using products or classes of energy-using products that are specified in regulations made by the Governor in Council under paragraph 25(c), amend regulations made under this Act by adding any requirement or by removing or modifying any requirement to harmonize the requirements in the regulations.
+    **(2)** The Minister may, by regulation, with respect to energy-using products or classes of energy-using products that are specified in regulations made by the Governor in Council under paragraph 25(c), amend regulations made under **this Act by adding any requirement** or **by removing** or **modifying any** requirement **to harmonize** the requirements in the regulations.
 
-    **(3)** In exercising the power under subsection (2), the Minister may, among other things, prescribe as an energy-using product any product or system, or class of products or systems, that is designed to operate using electricity, oil, natural gas or energy in any other form or from any other source or that affects or controls energy consumption.
+    **(3)** In exercising the power under subsection (2), the Minister may, **among other things**, prescribe as an energy-using **product any** **product or system**, or **class** of products **or systems**, that is **designed to operate using electricity, oil, natural gas** or energy **in any other form or from any other source or that affects or controls energy consumption**.
 
 ### Section 17
 
@@ -314,7 +316,7 @@ Section 20.2 of the Act is replaced by the following:
 
 ### Section 20.2
 
-  **(1)** The following definitions apply in this section.
+  **(1)** **The following definitions apply** in this section.
 
     **technical standards document** means a document that is published in both official languages by the Minister and that adapts, combines or reproduces, in whole or in part, documents that are produced by jurisdictions, standards development organizations or industry associations and that, for energy-using products or classes of energy-using products, set out requirements or guidance related to those requirements. The adaptations may include modifications to the content of the originating document. (**document de normes techniques**)
 
@@ -330,14 +332,14 @@ Section 20.2 of the Act is replaced by the following:
 
     an order made under section 25.1 or subsection 25.2(1), (6) or (7). (**document réglementaire de référence**)
 
-  **(2)** Regulations made under any of paragraphs 20(1)(a) to (d) and 25(a) and (b) and subsection 20.1(2) may incorporate by reference, in whole or in part, a technical standards document or regulatory reference document, as it is amended from time to time.
+  ****(2)**** Regulations made under **any of** paragraphs 20(1)**(a)** to (d) **and** 25**(a) and** (b) and **subsection 20.1(2)** may incorporate by reference, in whole or in part, a technical standards document **or regulatory reference document**, as it is amended from time to time.
 
 ### Section 18
 
 The heading of Part II of the Act is replaced by the following:
 
 
-## Promotion of Energy Efficiency and Renewable or Emerging Energy Sources
+## Promotion of Energy Efficiency and **Emerging** Energy Sources
 
 ### Section 19
 
@@ -345,11 +347,11 @@ The heading of Part II of the Act is replaced by the following:
 
 ### Section 21
 
-    The Minister may, for the purpose of promoting the efficient and responsible use of energy, the transition from the production, distribution and consumption of certain types of energy to the production, distribution and consumption of other types of energy with the aim of accelerating energy efficiency and the use of renewable or emerging energy sources,
+    The Minister may, for the purpose of promoting the efficient and responsible use of energy, the transition from the production, distribution and consumption of certain types of energy to the production, distribution and consumption of other types of energy with the aim of accelerating energy efficiency and the use of emerging energy sources,
 
   **(2)** Paragraph 21(e) of the Act is replaced by the following:
 
-    undertake any other projects, programs and activities that, in the Minister's opinion, advance those purposes.
+    undertake **any** other projects, programs and activities **that**, in the Minister's opinion, advance **those purposes**.
 
 ### Section 20
 
@@ -357,13 +359,13 @@ Section 22 of the Act is replaced by the following:
 
 ### Section 22
 
-  **(1)** The Governor in Council may make regulations requiring a prescribed individual or entity to file with the Minister, in the prescribed form and manner, at the prescribed time and for each prescribed reporting period, a report setting out prescribed statistics and information respecting
+  ****(1)**** The Governor in Council may make regulations requiring a prescribed **individual or entity** to file with the Minister, in the prescribed form and manner, at the prescribed time and for each prescribed reporting period, a report setting out prescribed statistics and information respecting
 
     the value, quantity, type and use of energy, in any form and from any source, purchased, consumed, transferred or sold by that individual or entity, including statistics and information respecting the value, quantity, type and use of energy that has been purchased from or transferred or sold to a third party;
 
-    the expenditures of that individual or entity on the research, development, acquisition and operation of energy-using equipment and related technology;
+    the expenditures of that **individual or entity** on the research, development, acquisition and operation of energy-using equipment and related technology;
 
-    the sales of prescribed energy-using products or classes of energy-using products by that individual or entity, including the revenue from, and geographic distribution of, the sales;
+    the sales of prescribed energy-using products or classes of energy-using products by that **individual or entity**, including the revenue from, and geographic distribution of, the sales;
 
     energy management systems;
 
@@ -385,7 +387,7 @@ Section 22 of the Act is replaced by the following:
 
 The portion of subsection 23(2) of the Act before paragraph (a) is replaced by the following:
 
-**(2)** Except as provided in section 24, the statistics and information filed with the Minister under regulations made under subsection 22(1) are privileged and no official or authorized person shall knowingly
+**(2)** Except as provided in section 24, the statistics and information filed with the Minister **under** regulations made under **subsection** 22**(1)** are privileged and no official or authorized person shall knowingly
 
 ### Section 22
 
@@ -475,7 +477,7 @@ An order made under section 25.1 or subsection 25.2(1), (6) or (7) may incorpora
 For greater certainty, the power to make an order under section 25.1 or subsection 25.2(1), (6) or (7) does not preclude or limit the exercise of a power to exempt under another Act of Parliament and vice versa.
 
 
-### Corrective Measures
+### **Corrective Measures**
 
 ### Section 26
 
@@ -504,7 +506,7 @@ For greater certainty, the power to make an order under section 25.1 or subsecti
   **(6)** The Minister may designate any individual or class of individuals to exercise the powers and perform the functions set out in this section.
 
 
-### Review
+### **Review**
 
 ### Section 26.1
 
@@ -564,15 +566,15 @@ The Minister may designate any individual or a class of individuals as review of
 
   **(1)** Paragraphs 27(1)(a) and (b) of the Act are replaced by the following:
 
-    is guilty of an offence punishable on summary conviction and liable, for a first offence, to a fine not exceeding $250,000 and, for a subsequent offence, to a fine not exceeding $500,000; or
+    is guilty of an offence punishable on summary conviction and liable, **for a first offence**, to a fine not exceeding **$250,000 and, for a subsequent offence, to a fine not exceeding $500,000**; or
 
-    is guilty of an indictable offence and liable, for a first offence, to a fine not exceeding $2,000,000 and, for a subsequent offence, to a fine not exceeding $5,000,000.
+    is guilty of an indictable offence and liable, **for a first offence**, to a fine not exceeding **$2,000,000 and, for a subsequent offence, to a fine not exceeding $5,000,000**.
 
   **(2)** Subsections 27(2) to (4) of the Act are replaced by the following:
 
-    **(2)** Every person who contravenes any provision of this Act or the regulations made under this Act, other than subsection 4(1), is guilty of an offence punishable on summary conviction and liable, for a first offence, to a fine not exceeding $500,000 and, for a subsequent offence, to a fine not exceeding $1,000,000.
+    **(2)** Every person who contravenes any provision of this Act or the regulations made under this Act, other than subsection 4(1), is guilty of an offence punishable on summary conviction and liable, **for a first offence**, to a fine not exceeding **$500,000 and, for a subsequent offence, to a fine not exceeding $1,000,000**.
 
-    **(3)** Every person who, in purported compliance with this Act or the regulations, submits any report, statistic, information, document or record, makes any statement or answers any question knowing that the report, statistic, information, document, record, statement or answer is false or misleading, or misrepresents or fails to disclose a material fact, is guilty of an offence punishable on summary conviction and liable, for a first offence, to a fine not exceeding $500,000 and, for a subsequent offence, to a fine not exceeding $1,000,000.
+    **(3)** Every person who, in purported compliance with this Act or the regulations, submits any report, statistic, information, document or record, makes any statement or answers any question knowing that the report, statistic, information, document, record, statement or answer is false or misleading, or misrepresents or fails to disclose a material fact, is guilty of an offence punishable on summary conviction and liable, **for a first offence**, to a fine not exceeding **$500,000 and, for a subsequent offence, to a fine not exceeding $1,000,000**.
 
 ### Section 24
 
@@ -826,27 +828,19 @@ respecting the determination of a lesser amount than the penalty imposed that ma
 respecting the service of documents required or authorized under sections `37` to `54`, including the documents or types of documents that shall be served, the manner and proof of service and the circumstances under which documents are deemed to be served.
 
 
-### Reports to Parliament
+### **Reports** to Parliament
 
 ### Section 56
 
-The Minister shall, as soon as possible after the end of each period of two fiscal years not addressed by the previous report on the administration and enforcement of this Act, prepare and cause to be tabled in each House of Parliament a report on the administration and enforcement of this Act for that period.
+The Minister shall, as soon as possible after the end of each **period of two fiscal years not addressed by the previous report on the administration and enforcement of this Act**, prepare and cause to be **tabled in** each House of Parliament a report on the administration and enforcement of this Act for that **period**.
 
 ### Section 57
 
-The Minister shall, as soon as possible after the end of each period of three fiscal years not addressed by the previous report containing a comparison of energy efficiency standards, prepare and cause to be tabled in each House of Parliament a report that demonstrates the extent to which selected energy efficiency standards prescribed under this Act are as stringent as comparable standards. Those comparable standards can be established by a province, the United Mexican States, the United States, or any other national or subnational jurisdiction.
+**The Minister shall, as soon as possible after the end of each period of three fiscal years not addressed by the previous report containing a comparison of energy efficiency standards, prepare and cause to be tabled in each House of Parliament a report that demonstrates** the extent to which the energy efficiency standards prescribed under this Act are as stringent as comparable standards established by a province, the United Mexican States or the United States.
 
 ### Section 58
 
-  **(1)** The Minister shall, five years after the day on which this section comes into force and every five years after that, undertake a review of this Act and its administration and operation, including an assessment of
-
-    its effect on commercial entities;
-
-    the exemptions provided for under sections 25 to 25.7;
-
-    the corrective measures provided for under sections 26 to 26.2; and
-
-    the administrative monetary penalties provided for under sections 37 to 54.
+  **(1)** The Minister shall, 10 years after the day on which this section comes into force and every five years after that, undertake a review of the provisions of this Act.
 
   **(2)** The Minister shall, no later than one year after the day on which the review is undertaken, cause a report on the review to be tabled in each House of Parliament.
 
