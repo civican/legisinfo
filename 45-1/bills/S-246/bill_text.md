@@ -1,5 +1,7 @@
 # Bill S-246: An Act respecting the recognition of wartime service
 
+**Sponsor**: Senator YUSSUFF
+
 ## Summary
 
 This enactment provides for the development of a national framework for the recognition of certain military service as wartime service and for the designation by the Governor in Council of military service as wartime service if it meets the objective criteria set out in the national framework.
