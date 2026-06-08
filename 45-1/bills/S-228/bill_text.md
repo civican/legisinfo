@@ -1,7 +1,5 @@
 # Bill S-228: An Act to amend the Criminal Code (sterilization procedures)
 
-**Sponsor**: Senator BOYER
-
 ## Summary
 
 This enactment amends the `Criminal Code` to clarify that a sterilization procedure is an act that wounds or maims a person for the purposes of subsection 268(1).
@@ -35,8 +33,4 @@ on a person that results in the permanent
 prevention of reproduction, regardless of
 whether the procedure is reversible through
 a subsequent surgical procedure.
-
-
-> **Explanatory Note**:
-> New.
 
