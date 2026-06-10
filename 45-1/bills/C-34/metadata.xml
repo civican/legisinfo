@@ -1,0 +1,487 @@
+<Bills>
+  <Bill>
+    <Id>14159600</Id>
+    <NumberCode>C-34</NumberCode>
+    <NumberPrefix>C</NumberPrefix>
+    <Number>34</Number>
+    <LongTitleEn>An Act to enact the Digital Safety Act and the Digital Safety Commission of Canada Act and to make consequential amendments to other Acts</LongTitleEn>
+    <LongTitleFr>Loi édictant la Loi sur la sécurité numérique et la Loi sur la Commission canadienne de la sécurité numérique et apportant des modifications corrélatives à d'autres lois</LongTitleFr>
+    <LongTitle>An Act to enact the Digital Safety Act and the Digital Safety Commission of Canada Act and to make consequential amendments to other Acts</LongTitle>
+    <ShortTitleEn>Safe Social Media Act</ShortTitleEn>
+    <ShortTitleFr>Loi sur les médias sociaux sécuritaires</ShortTitleFr>
+    <ShortTitle>Safe Social Media Act</ShortTitle>
+    <StatusId>349</StatusId>
+    <StatusNameEn>At second reading in the House of Commons</StatusNameEn>
+    <StatusNameFr>À la deuxième lecture à la Chambre des communes</StatusNameFr>
+    <StatusName>At second reading in the House of Commons</StatusName>
+    <LatestCompletedMajorStageId>60043</LatestCompletedMajorStageId>
+    <LatestCompletedMajorStageNameEn>First reading</LatestCompletedMajorStageNameEn>
+    <LatestCompletedMajorStageNameFr>Première lecture</LatestCompletedMajorStageNameFr>
+    <LatestCompletedMajorStageName>First reading</LatestCompletedMajorStageName>
+    <LatestCompletedMajorStageNameWithChamberSuffix>First reading in the House of Commons</LatestCompletedMajorStageNameWithChamberSuffix>
+    <IsInSenatePreStudy>false</IsInSenatePreStudy>
+    <LatestCompletedMajorStageChamberOrganizationId>1</LatestCompletedMajorStageChamberOrganizationId>
+    <LatestCompletedMajorStageChamberNameEn>House of Commons</LatestCompletedMajorStageChamberNameEn>
+    <LatestCompletedMajorStageChamberNameFr>Chambre des communes</LatestCompletedMajorStageChamberNameFr>
+    <LatestCompletedMajorStageChamberName>House of Commons</LatestCompletedMajorStageChamberName>
+    <OngoingStageId>60029</OngoingStageId>
+    <OngoingStageNameEn>First reading</OngoingStageNameEn>
+    <OngoingStageNameFr>Première lecture</OngoingStageNameFr>
+    <OngoingStageName>First reading</OngoingStageName>
+    <LatestCompletedBillStageId>60029</LatestCompletedBillStageId>
+    <LatestCompletedBillStageNameEn>First reading</LatestCompletedBillStageNameEn>
+    <LatestCompletedBillStageNameFr>Première lecture</LatestCompletedBillStageNameFr>
+    <LatestCompletedBillStageName>First reading</LatestCompletedBillStageName>
+    <LatestCompletedBillStageChamberOrganizationId>1</LatestCompletedBillStageChamberOrganizationId>
+    <LatestCompletedBillStageChamberNameEn>House of Commons</LatestCompletedBillStageChamberNameEn>
+    <LatestCompletedBillStageChamberNameFr>Chambre des communes</LatestCompletedBillStageChamberNameFr>
+    <LatestCompletedBillStageChamberName>House of Commons</LatestCompletedBillStageChamberName>
+    <LatestCompletedBillStageDateTime>2026-06-10T16:17:46.567</LatestCompletedBillStageDateTime>
+    <ParliamentNumber>45</ParliamentNumber>
+    <SessionNumber>1</SessionNumber>
+    <BillDocumentTypeId>3</BillDocumentTypeId>
+    <BillDocumentTypeNameEn>House Government Bill</BillDocumentTypeNameEn>
+    <BillDocumentTypeNameFr>Projet de loi émanant du gouvernement (Cdc)</BillDocumentTypeNameFr>
+    <BillDocumentTypeName>House Government Bill</BillDocumentTypeName>
+    <IsGovernmentBill>true</IsGovernmentBill>
+    <OriginatingChamberOrganizationId>1</OriginatingChamberOrganizationId>
+    <OriginatingChamberNameEn>House of Commons</OriginatingChamberNameEn>
+    <OriginatingChamberNameFr>Chambre des communes</OriginatingChamberNameFr>
+    <OriginatingChamberName>House of Commons</OriginatingChamberName>
+    <IsHouseBill>true</IsHouseBill>
+    <IsSenateBill>false</IsSenateBill>
+    <SponsorSenateSystemAffiliationId />
+    <SponsorPersonId>88660</SponsorPersonId>
+    <SponsorPersonOfficialFirstName>Marc</SponsorPersonOfficialFirstName>
+    <SponsorPersonOfficialLastName>Miller</SponsorPersonOfficialLastName>
+    <SponsorPersonUsualFirstName>
+    </SponsorPersonUsualFirstName>
+    <SponsorPersonMiddleName>
+    </SponsorPersonMiddleName>
+    <SponsorPersonName>Marc Miller</SponsorPersonName>
+    <SponsorPersonShortHonorificEn>Hon.</SponsorPersonShortHonorificEn>
+    <SponsorPersonShortHonorificFr>L'hon.</SponsorPersonShortHonorificFr>
+    <SponsorPersonShortHonorific>Hon.</SponsorPersonShortHonorific>
+    <SponsorAffiliationTitleEn>Minister of Canadian Identity and Culture and Minister responsible for Official Languages</SponsorAffiliationTitleEn>
+    <SponsorAffiliationTitleFr>ministre de l'Identité et de la Culture canadiennes et ministre responsable des Langues officielles</SponsorAffiliationTitleFr>
+    <SponsorAffiliationTitle>Minister of Canadian Identity and Culture and Minister responsible for Official Languages</SponsorAffiliationTitle>
+    <SponsorAffiliationRoleId>96</SponsorAffiliationRoleId>
+    <SponsorAffiliationRoleNameEn>HansardDisplay</SponsorAffiliationRoleNameEn>
+    <SponsorAffiliationRoleNameFr>HansardDisplay</SponsorAffiliationRoleNameFr>
+    <SponsorAffiliationRoleName>HansardDisplay</SponsorAffiliationRoleName>
+    <SponsorConstituencyId>1051</SponsorConstituencyId>
+    <SponsorConstituencyNameEn>Ville-Marie—Le Sud-Ouest—Île-des-Soeurs</SponsorConstituencyNameEn>
+    <SponsorConstituencyNameFr>Ville-Marie—Le Sud-Ouest—Île-des-Soeurs</SponsorConstituencyNameFr>
+    <SponsorConstituencyName>Ville-Marie—Le Sud-Ouest—Île-des-Soeurs</SponsorConstituencyName>
+    <LatestBillEventEventTypeId>60110</LatestBillEventEventTypeId>
+    <LatestBillEventTypeNameEn>Introduction and first reading</LatestBillEventTypeNameEn>
+    <LatestBillEventTypeNameFr>Dépôt et première lecture</LatestBillEventTypeNameFr>
+    <LatestBillEventStageId>60029</LatestBillEventStageId>
+    <LatestBillEventTypeName>Introduction and first reading</LatestBillEventTypeName>
+    <LatestBillEventCommitteeDetails />
+    <LatestBillEventDateTime>2026-06-10T14:00:00</LatestBillEventDateTime>
+    <LatestBillEventChamberOrganizationId>1</LatestBillEventChamberOrganizationId>
+    <LatestBillEventChamberNameEn>House of Commons</LatestBillEventChamberNameEn>
+    <LatestBillEventChamberNameFr>Chambre des communes</LatestBillEventChamberNameFr>
+    <LatestBillEventChamberName>House of Commons</LatestBillEventChamberName>
+    <LatestBillEventNumberOfAmendments>0</LatestBillEventNumberOfAmendments>
+    <LatestBillEventAmendmentNoteId>0</LatestBillEventAmendmentNoteId>
+    <LatestBillEventMeetingNumber>133</LatestBillEventMeetingNumber>
+    <LatestBillEventAdditionalInformationEn>
+    </LatestBillEventAdditionalInformationEn>
+    <LatestBillEventAdditionalInformationFr>
+    </LatestBillEventAdditionalInformationFr>
+    <LatestBillEventAdditionalInformation>
+    </LatestBillEventAdditionalInformation>
+    <PassedHouseFirstReadingDateTime>2026-06-10T16:17:46.567</PassedHouseFirstReadingDateTime>
+    <PassedHouseSecondReadingDateTime />
+    <PassedHouseThirdReadingDateTime />
+    <PassedSenateFirstReadingDateTime />
+    <PassedSenateSecondReadingDateTime />
+    <PassedSenateThirdReadingDateTime />
+    <ReceivedRoyalAssentDateTime />
+    <DidReinstateFromPreviousSession>false</DidReinstateFromPreviousSession>
+    <ReinstatedFromBillDocumentId />
+    <ReinstatedFromBillNumberCode />
+    <DidReinstateInNextSession>false</DidReinstateInNextSession>
+    <ReinstatedAsBillDocumentId />
+    <ReinstatedAsBillNumberCode />
+    <PassedFirstChamberFirstReading>true</PassedFirstChamberFirstReading>
+    <PassedFirstChamberSecondReading>false</PassedFirstChamberSecondReading>
+    <PassedFirstChamberThirdReading>false</PassedFirstChamberThirdReading>
+    <PassedSecondChamberFirstReading>false</PassedSecondChamberFirstReading>
+    <PassedSecondChamberSecondReading>false</PassedSecondChamberSecondReading>
+    <PassedSecondChamberThirdReading>false</PassedSecondChamberThirdReading>
+    <ReceivedRoyalAssent>false</ReceivedRoyalAssent>
+    <ConsideredDuringPreviousSitting>false</ConsideredDuringPreviousSitting>
+    <IsProForma>false</IsProForma>
+    <BillFormId>10</BillFormId>
+    <BillFormNameEn>Regular</BillFormNameEn>
+    <BillFormNameFr>Ordinaire</BillFormNameFr>
+    <BillFormName>Regular</BillFormName>
+    <NotesEn>
+    </NotesEn>
+    <NotesFr>
+    </NotesFr>
+    <Notes>
+    </Notes>
+    <ShortLegislativeSummaryEn />
+    <ShortLegislativeSummaryFr />
+    <ShortLegislativeSummary />
+    <IsFullLegislativeSummaryAvailable>false</IsFullLegislativeSummaryAvailable>
+    <StatuteYear />
+    <StatuteChapter />
+    <BillStages>
+      <BillId>0</BillId>
+      <HouseBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>45</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>4</State>
+        <StateNameEn>Completed</StateNameEn>
+        <StateNameFr>Terminée</StateNameFr>
+        <StateAsOfDate>2026-06-10T16:17:46.567</StateAsOfDate>
+        <StateName>Completed</StateName>
+        <Committee />
+        <Sittings>
+          <NameEn>Introduction and first reading</NameEn>
+          <NameFr>Dépôt et première lecture</NameFr>
+          <Name>Introduction and first reading</Name>
+          <Number>133</Number>
+          <Date>2026-06-10T00:00:00</Date>
+          <AdditionalInformationEn />
+          <AdditionalInformationFr />
+          <AdditionalInformation />
+          <IsPublished>true</IsPublished>
+        </Sittings>
+        <SignificantEvents>
+          <EventTypeId>60110</EventTypeId>
+          <BillDocumentId>0</BillDocumentId>
+          <EventNameEn>Introduction and first reading</EventNameEn>
+          <EventNameFr>Dépôt et première lecture</EventNameFr>
+          <EventName>Introduction and first reading</EventName>
+          <EventDateTime>2026-06-10T00:00:00</EventDateTime>
+          <IsCompletionOfBillStage>true</IsCompletionOfBillStage>
+          <IsDefeatedEvent>false</IsDefeatedEvent>
+          <CommitteeReportId />
+          <CommitteeReportNumber />
+          <AdditionalInformationEn>
+          </AdditionalInformationEn>
+          <AdditionalInformationFr>
+          </AdditionalInformationFr>
+          <AdditionalInformation>
+          </AdditionalInformation>
+          <MeetingEventId />
+          <AmendmentNoteId />
+        </SignificantEvents>
+        <EndOfStageEvent>
+          <EventTypeId>60110</EventTypeId>
+          <EventTypeNameEn>Introduction and first reading</EventTypeNameEn>
+          <EventTypeNameFr>Dépôt et première lecture</EventTypeNameFr>
+          <EventTypeName>Introduction and first reading</EventTypeName>
+          <EventStartDateTime>2026-06-10T16:17:46.567</EventStartDateTime>
+          <EventEndDateTime>2026-06-10T16:17:46.567</EventEndDateTime>
+        </EndOfStageEvent>
+        <StageEventCount>1</StageEventCount>
+        <LastStageEventStartDateTime>2026-06-10T16:17:46.567</LastStageEventStartDateTime>
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>1</ChamberOrganizationId>
+        <ParliamentNumber>45</ParliamentNumber>
+        <SessionNumber>1</SessionNumber>
+        <State>2</State>
+        <StateNameEn>No activity</StateNameEn>
+        <StateNameFr>Aucune activité</StateNameFr>
+        <StateAsOfDate />
+        <StateName>No activity</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60049</BillStageId>
+        <BillStageNameEn>Consideration in committee</BillStageNameEn>
+        <BillStageNameFr>Examen en comité</BillStageNameFr>
+        <BillStageName>Consideration in committee</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteint</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60032</BillStageId>
+        <BillStageNameEn>Report stage</BillStageNameEn>
+        <BillStageNameFr>Étape du rapport</BillStageNameFr>
+        <BillStageName>Report stage</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <HouseBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </HouseBillStages>
+      <SenateBillStages>
+        <BillStageId>60029</BillStageId>
+        <BillStageNameEn>First reading</BillStageNameEn>
+        <BillStageNameFr>Première lecture</BillStageNameFr>
+        <BillStageName>First reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60030</BillStageId>
+        <BillStageNameEn>Second reading</BillStageNameEn>
+        <BillStageNameFr>Deuxième lecture</BillStageNameFr>
+        <BillStageName>Second reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+      <SenateBillStages>
+        <BillStageId>60031</BillStageId>
+        <BillStageNameEn>Third reading</BillStageNameEn>
+        <BillStageNameFr>Troisième lecture</BillStageNameFr>
+        <BillStageName>Third reading</BillStageName>
+        <ChamberOrganizationId>0</ChamberOrganizationId>
+        <ParliamentNumber>0</ParliamentNumber>
+        <SessionNumber>0</SessionNumber>
+        <State>1</State>
+        <StateNameEn>Not reached</StateNameEn>
+        <StateNameFr>Non atteinte</StateNameFr>
+        <StateAsOfDate />
+        <StateName>Not reached</StateName>
+        <Committee />
+        <EndOfStageEvent />
+        <StageEventCount>0</StageEventCount>
+        <LastStageEventStartDateTime />
+        <Speeches />
+        <ContainsReferralToCommitteeEvent>false</ContainsReferralToCommitteeEvent>
+        <ContainsRecommittalOfBillEvent>false</ContainsRecommittalOfBillEvent>
+      </SenateBillStages>
+    </BillStages>
+    <Publications>
+      <PublicationId>14173163</PublicationId>
+      <PublicationTypeId>80701</PublicationTypeId>
+      <PublicationTypeNameEn>First Reading</PublicationTypeNameEn>
+      <PublicationTypeNameFr>Première lecture</PublicationTypeNameFr>
+      <PublicationTypeName>First Reading</PublicationTypeName>
+    </Publications>
+    <HouseRulingAndStatements />
+    <SenateRulingAndStatements />
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Office of the Privacy Commissioner of Canada. Consultation on age assurance – What We Heard, 2025.</TitleEn>
+      <TitleFr>Commissariat à la protection de la vie privée du Canada. Consultation sur le contrôle de l'âge : ce que nous avons entendu, 2025.</TitleFr>
+      <Title>Office of the Privacy Commissioner of Canada. Consultation on age assurance – What We Heard, 2025.</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.priv.gc.ca/en/about-the-opc/what-we-do/consultations/completed-consultations/consultation-age/report_age_2025/</UrlEn>
+      <UrlFr>https://www.priv.gc.ca/fr/a-propos-du-commissariat/ce-que-nous-faisons/consultations/consultations-terminees/consultation-age/rapport_age_2025/</UrlFr>
+      <Url>https://www.priv.gc.ca/en/about-the-opc/what-we-do/consultations/completed-consultations/consultation-age/report_age_2025/</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Effects of Influencers and Social Media Content on Children and Adolescents [ongoing study]. House of Commons. Standing Committee on Canadian Heritage. 45th Parliament, 1st session</TitleEn>
+      <TitleFr>Effets des influenceurs et des contenus des réseaux sociaux sur les enfants et les adolescents [étude en cours]. Chambre des communes. Comité permanent du patrimoine canadien. 45e Législature, 1re session.</TitleFr>
+      <Title>Effects of Influencers and Social Media Content on Children and Adolescents [ongoing study]. House of Commons. Standing Committee on Canadian Heritage. 45th Parliament, 1st session</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.ourcommons.ca/committees/en/CHPC/StudyActivity?studyActivityId=13228558</UrlEn>
+      <UrlFr>https://www.noscommunes.ca/committees/fr/CHPC/StudyActivity?studyActivityId=13228558</UrlFr>
+      <Url>https://www.ourcommons.ca/committees/en/CHPC/StudyActivity?studyActivityId=13228558</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>House of Commons, Standing Committee on Access to Information, Privacy and Ethics. Oversight of Social Media Platforms: Enusring Privacy and Safety Online, Sixteenth Report, 1st session, 44th Parliament, December 2024.</TitleEn>
+      <TitleFr>Chambre des communes, Comité permanent de l'accès à l'information, de la protection des renseignements personnels et de l'éthique. Encadrement des plateformes de médias sociaux : Assurer la protection de la vie privée et la sécurité en ligne, Seizième rapport, 1ère session, 44e législature, décembre 2024.</TitleFr>
+      <Title>House of Commons, Standing Committee on Access to Information, Privacy and Ethics. Oversight of Social Media Platforms: Enusring Privacy and Safety Online, Sixteenth Report, 1st session, 44th Parliament, December 2024.</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.ourcommons.ca/DocumentViewer/en/44-1/ETHI/report-16/</UrlEn>
+      <UrlFr>https://www.noscommunes.ca/documentviewer/fr/44-1/ETHI/rapport-16</UrlFr>
+      <Url>https://www.ourcommons.ca/DocumentViewer/en/44-1/ETHI/report-16/</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Government of Canada introduces legislation to make social media services and AI chatbots safer for children (2026-06-10 | Department of Canadian Heritage)</TitleEn>
+      <TitleFr>Le gouvernement du Canada présente un projet de loi visant à rendre les services de médias sociaux et les robots conversationnels dotés d'IA plus sécuritaires pour les enfants (2026-06-10 | Ministère du Patrimoine canadien)</TitleFr>
+      <Title>Government of Canada introduces legislation to make social media services and AI chatbots safer for children (2026-06-10 | Department of Canadian Heritage)</Title>
+      <WebReferenceTypeId>5</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Press Release</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Communiqué de presse</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Press Release</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/canadian-heritage/news/2026/06/government-of-canada-introduces-legislation-to-make-social-media-services-and-ai-chatbots-safer-for-children.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2026/06/le-gouvernement-du-canada-presente-un-projet-de-loi-visant-a-rendre-les-services-de-medias-sociaux-et-les-robots-conversationnels-dotes-dia-plus-se.html</UrlFr>
+      <Url>https://www.canada.ca/en/canadian-heritage/news/2026/06/government-of-canada-introduces-legislation-to-make-social-media-services-and-ai-chatbots-safer-for-children.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Backgrounder: Government of Canada introduces legislation to combat online harms, particularly those impacting children (2026-06-10 | Department of Canadian Heritage)</TitleEn>
+      <TitleFr>Document d'information : Le gouvernement du Canada présente un projet de loi visant à lutter contre le contenu préjudiciable en ligne, en particulier celui qui touche les enfants (2026-06-10 | Ministère du Patrimoine canadien)</TitleFr>
+      <Title>Backgrounder: Government of Canada introduces legislation to combat online harms, particularly those impacting children (2026-06-10 | Department of Canadian Heritage)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/canadian-heritage/news/2026/06/government-of-canada-introduces-legislation-to-combat-online-harms-particularly-those-impacting-children.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/patrimoine-canadien/nouvelles/2026/06/le-gouvernement-du-canada-presente-un-projet-de-loi-visant-a-lutter-contre-le-contenu-prejudiciable-en-ligne-en-particulier-celui-qui-touche-les-en.html</UrlFr>
+      <Url>https://www.canada.ca/en/canadian-heritage/news/2026/06/government-of-canada-introduces-legislation-to-combat-online-harms-particularly-those-impacting-children.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Bill C-34, the Safe Social Media Act (2026 | Department of Canadian Heritage)</TitleEn>
+      <TitleFr>Projet de loi C-34, Loi sur les médias sociaux sécuritaires (2026 | Ministère du Patrimoine canadien)</TitleFr>
+      <Title>Bill C-34, the Safe Social Media Act (2026 | Department of Canadian Heritage)</Title>
+      <WebReferenceTypeId>7</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Background Documents</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Document(s) d'information</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Background Documents</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/canadian-heritage/services/safe-social-media-act.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/patrimoine-canadien/services/loi-medias-sociaux-securitaires.html</UrlFr>
+      <Url>https://www.canada.ca/en/canadian-heritage/services/safe-social-media-act.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Statistics Canada. "Study: Online Harms Faced by Youth and Young Adults: The Prevalence and Nature of Cybervictimization." The Daily, Government of Canada, 21 Feb. 2023, www150.statcan.gc.ca/n1/daily-quotidien/230221/dq230221c-eng.htm. Accessed 11 June 2026.</TitleEn>
+      <TitleFr>Statistique Canada. "Étude : Les Préjudices Subis En Ligne Par Les Jeunes et Les Jeunes Adultes : La Prévalence et La Nature de La Cybervictimisation." Le Quotidien, Gouvernment du Canada, 21 février 2023, www150.statcan.gc.ca/n1/daily-quotidien/230221/dq230221c-fra.htm. Consulté le 11 juin 2026.</TitleFr>
+      <Title>Statistics Canada. "Study: Online Harms Faced by Youth and Young Adults: The Prevalence and Nature of Cybervictimization." The Daily, Government of Canada, 21 Feb. 2023, www150.statcan.gc.ca/n1/daily-quotidien/230221/dq230221c-eng.htm. Accessed 11 June 2026.</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www150.statcan.gc.ca/n1/daily-quotidien/230221/dq230221c-eng.htm</UrlEn>
+      <UrlFr>https://www150.statcan.gc.ca/n1/daily-quotidien/230221/dq230221c-fra.htm</UrlFr>
+      <Url>https://www150.statcan.gc.ca/n1/daily-quotidien/230221/dq230221c-eng.htm</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Statistics Canada, et al. "Cybervictimization and Mental Health among Canadian Youth." Health Reports, Government of Canada, 20 Sept. 2023, www.doi.org/10.25318/82-003-x202300900001-eng. Accessed 11 June 2026.</TitleEn>
+      <TitleFr>Statistique Canada, et al. "La Cybervictimisation et La Santé Mentale Chez Les Jeunes Canadiens." Rapports Sur La Santé, Gouvernment du Canada, 20 septembre 2023, www.doi.org/10.25318/82-003-x202300900001-fra. Consulté le 11 juin 2026.</TitleFr>
+      <Title>Statistics Canada, et al. "Cybervictimization and Mental Health among Canadian Youth." Health Reports, Government of Canada, 20 Sept. 2023, www.doi.org/10.25318/82-003-x202300900001-eng. Accessed 11 June 2026.</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www150.statcan.gc.ca/n1/pub/82-003-x/2023009/article/00001-eng.htm</UrlEn>
+      <UrlFr>https://www150.statcan.gc.ca/n1/pub/82-003-x/2023009/article/00001-fra.htm</UrlFr>
+      <Url>https://www150.statcan.gc.ca/n1/pub/82-003-x/2023009/article/00001-eng.htm</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Department of Canadian Heritage. "What We Heard: The Government's Proposed Approach to Address Harmful Content Online." Canadian Heritage, Government of Canada, 3 Feb. 2022, www.canada.ca/en/canadian-heritage/campaigns/harmful-online-content/what-we-heard.html. Accessed 11 June 2026.</TitleEn>
+      <TitleFr>Ministère du Patrimoine canadien. "Ce Que Nous Avons Entendu : Approche Proposée Du Gouvernement Pour S'attaquer Au Contenu Préjudiciable En Ligne - Canada.ca." Patrimoine Canadien, Gouvernment du Canada, 3 février 2022, www.canada.ca/fr/patrimoine-canadien/campagnes/contenu-prejudiciable-en-ligne/ce-que-nous-avons-entendu.html. Consulté le 11 juin 2026.</TitleFr>
+      <Title>Department of Canadian Heritage. "What We Heard: The Government's Proposed Approach to Address Harmful Content Online." Canadian Heritage, Government of Canada, 3 Feb. 2022, www.canada.ca/en/canadian-heritage/campaigns/harmful-online-content/what-we-heard.html. Accessed 11 June 2026.</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www.canada.ca/en/canadian-heritage/campaigns/harmful-online-content/what-we-heard.html</UrlEn>
+      <UrlFr>https://www.canada.ca/fr/patrimoine-canadien/campagnes/contenu-prejudiciable-en-ligne/ce-que-nous-avons-entendu.html</UrlFr>
+      <Url>https://www.canada.ca/en/canadian-heritage/campaigns/harmful-online-content/what-we-heard.html</Url>
+    </WebReferences>
+    <WebReferences>
+      <BillDocumentId>0</BillDocumentId>
+      <TitleEn>Statistics Canada. " Police-Reported Incidents of Online Child Sexual Exploitation in Canada, 2024." The Daily, Government of Canada, March 10 2026, www150.statcan.gc.ca/n1/daily-quotidien/260310/dq260310a-eng.htm. Accessed 11 June 2026.</TitleEn>
+      <TitleFr>Statistique Canada. "Affaires d'Exploitation Sexuelle Des Enfants En Ligne Déclarées Par La Police Au Canada, 2024." Le Quotidien, Gouvernment du Canada, 10 mars 2026, www150.statcan.gc.ca/n1/daily-quotidien/260310/dq260310a-fra.htm. Consulté 11 juin 2026.</TitleFr>
+      <Title>Statistics Canada. " Police-Reported Incidents of Online Child Sexual Exploitation in Canada, 2024." The Daily, Government of Canada, March 10 2026, www150.statcan.gc.ca/n1/daily-quotidien/260310/dq260310a-eng.htm. Accessed 11 June 2026.</Title>
+      <WebReferenceTypeId>8</WebReferenceTypeId>
+      <WebReferenceTypeNameEn>Related Links</WebReferenceTypeNameEn>
+      <WebReferenceTypeNameFr>Liens connexes</WebReferenceTypeNameFr>
+      <WebReferenceTypeName>Related Links</WebReferenceTypeName>
+      <UrlEn>https://www150.statcan.gc.ca/n1/daily-quotidien/260310/dq260310a-eng.htm</UrlEn>
+      <UrlFr>https://www150.statcan.gc.ca/n1/daily-quotidien/260310/dq260310a-fra.htm</UrlFr>
+      <Url>https://www150.statcan.gc.ca/n1/daily-quotidien/260310/dq260310a-eng.htm</Url>
+    </WebReferences>
+    <SenatePreStudyCommitteeDetails />
+    <SimilarBills />
+    <IsDroppedFromSenateOrderPaper>false</IsDroppedFromSenateOrderPaper>
+    <IsSessionOngoing>true</IsSessionOngoing>
+  </Bill>
+</Bills>
