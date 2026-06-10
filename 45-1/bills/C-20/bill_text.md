@@ -1,7 +1,5 @@
 # Bill C-20: An Act respecting the establishment of Build Canada Homes
 
-**Sponsor**: MINISTER OF HOUSING AND INFRASTRUCTURE AND MINISTER RESPONSIBLE FOR PACIFIC ECONOMIC DEVELOPMENT CANADA
-
 Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act respecting the establishment of Build Canada Homes*".
 
 ## Summary
