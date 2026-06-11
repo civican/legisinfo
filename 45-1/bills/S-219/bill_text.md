@@ -1,7 +1,5 @@
 # Bill S-219: An Act to establish Judicial Independence Day
 
-**Sponsor**: Senator MOREAU
-
 ## Summary
 
 This enactment designates January 11th in each and every year as "Judicial Independence Day".
