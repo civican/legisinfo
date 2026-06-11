@@ -1,7 +1,5 @@
 # Bill C-25: An Act to amend the Canada Elections Act and to enact An Act to change the names of certain electoral districts, 2026
 
-**Sponsor**: MINISTER OF TRANSPORT AND LEADER OF THE GOVERNMENT IN THE HOUSE OF COMMONS
-
 Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act to amend the Canada Elections Act and to enact An Act to change the names of certain electoral districts, 2026*".
 
 ## Summary
@@ -41,7 +39,7 @@ Section 25 of the `Canada Elections Act` is replaced by the following:
 
 ### Section 25
 
-Between the 1st and 20th days of January in each year, the Chief Electoral Officer shall publish a list in the `Canada Gazette` of the name, **municipality, or its equivalent, and province of residence** and occupation of the returning officer for each electoral district in Canada.
+Between the 1st and 20th days of January in each year, the Chief Electoral Officer shall publish a list in the `Canada Gazette` of the name, municipality, or its equivalent, and province of residence and occupation of the returning officer for each electoral district in Canada.
 
 ### Section 3
 
@@ -69,7 +67,7 @@ No person shall sign, for a given election, as an elector referred to in paragra
 
 Subsection 93(1.1) of the Act is replaced by the following:
 
-**(1.1)** The Chief Electoral Officer shall make available in electronic form or in formats that include electronic form, to each registered party or eligible party that requests them, the preliminary lists of electors for an electoral district in respect of which a writ has been issued **if the party**
+**(1.1)** The Chief Electoral Officer shall make available in electronic form or in formats that include electronic form, to each registered party or eligible party that requests them, the preliminary lists of electors for an electoral district in respect of which a writ has been issued if the party
 
   was represented in the House of Commons on the day before the day on which the writ was issued;
 
@@ -79,22 +77,34 @@ Subsection 93(1.1) of the Act is replaced by the following:
 
 **(1.2)** For the purposes of paragraph (1.1)(b), if the boundaries of an electoral district are revised or a new electoral district is established as a result of a representation order referred to in section 25 of the `Electoral Boundaries Readjustment Act`, a candidate who, in one of those last two elections, was endorsed in an electoral district that coincides with all or part of the revised electoral district or new electoral district is considered to have been endorsed in the revised or new electoral district.
 
+### Section 5.1
+
+Subsection 175(5) of the Act is replaced by the following:
+
+**(4.1)** The candidates or their representatives may, when an advance polling station closes on each of the four days of advance polling, sign the seal on any ballot box that was used on that day.
+
+**(5)** Until the counting of the ballots on polling day, an election officer shall keep the sealed ballot box or boxes in their custody in accordance with the Chief Electoral Officer's instructions. The election officer shall
+
+  take every precaution to ensure the safekeeping of the sealed ballot box or boxes and to prevent any person from having unlawful access to the box or boxes; and
+
+  if they deliver the custody of the sealed ballot box or boxes into the custody of another election officer, make a record that they have done so and ensure that the candidates are notified in writing.
+
 ### Section 6
 
 The heading of Part 11.1 of the Act is replaced by the following:
 
 
-## Prohibitions in Relation to Voting **at an Election**
+## Prohibitions in Relation to Voting at an Election
 
 ### Section 7
 
   **(1)** Paragraph 281.7(1)(f) of the Act is replaced by the following:
 
-    alter, deface or destroy a ballot, **a special ballot**, the initials of the election officer that are signed on a ballot or the number of the polling division or advance polling district that is marked on a ballot;
+    alter, deface or destroy a ballot, a special ballot, the initials of the election officer that are signed on a ballot or the number of the polling division or advance polling district that is marked on a ballot;
 
   **(2)** Paragraph 281.7(1)(i) of the Act is replaced by the following:
 
-    destroy, take, open or otherwise interfere with a ballot box, **inner or outer envelope** or book or packet of ballots or special ballots otherwise than as provided by this Act or by instructions of the Chief Electoral Officer.
+    destroy, take, open or otherwise interfere with a ballot box, inner or outer envelope or book or packet of ballots or special ballots otherwise than as provided by this Act or by instructions of the Chief Electoral Officer.
 
 ### Section 8
 
@@ -102,11 +112,11 @@ The heading of Part 11.1 of the Act is replaced by the following:
 
 ### Section 282.4
 
-      **(1)** No person or entity referred to in any of paragraphs (a) to **(d)** shall unduly influence an elector to vote or refrain from voting, or to vote or refrain from voting for a particular candidate, **potential candidate**, registered party or **eligible party**, at **an** election:
+      **(1)** No person or entity referred to in any of paragraphs (a) to (d) shall unduly influence an elector to vote or refrain from voting, or to vote or refrain from voting for a particular candidate, potential candidate, registered party or eligible party, at an election:
 
   **(2)** Paragraph 282.4(1)(b) of the Act is replaced by the following:
 
-    a corporation or entity incorporated, formed or otherwise organized outside Canada **if it** does not carry on business in Canada or **one of the primary activities that it carries on** in Canada **consists of doing anything** to influence electors to vote or refrain from voting, or to vote or refrain from voting for a particular candidate, **potential candidate**, registered party or **eligible party**, at **an** election;
+    a corporation or entity incorporated, formed or otherwise organized outside Canada if it does not carry on business in Canada or one of the primary activities that it carries on in Canada consists of doing anything to influence electors to vote or refrain from voting, or to vote or refrain from voting for a particular candidate, potential candidate, registered party or eligible party, at an election;
 
   **(3)** Subsection 282.4(1) of the Act is amended by adding "or" at the end of paragraph (c) and by replacing paragraphs (d) and (e) with the following:
 
@@ -114,21 +124,21 @@ The heading of Part 11.1 of the Act is replaced by the following:
 
   **(4)** The portion of subsection 282.4(2) of the Act before paragraph (b) is replaced by the following:
 
-    **(2)** For the purposes of subsection (1), a person or entity unduly influences an elector to vote or refrain from voting, or to vote or refrain from voting for a particular candidate, **potential candidate**, registered party or **eligible party**, at an election if
+    **(2)** For the purposes of subsection (1), a person or entity unduly influences an elector to vote or refrain from voting, or to vote or refrain from voting for a particular candidate, potential candidate, registered party or eligible party, at an election if
 
-      they knowingly incur any expense to directly promote or oppose a candidate, **potential candidate**, registered party or **eligible party** or the leader of a registered party **or eligible party; or**
+      they knowingly incur any expense to directly promote or oppose a candidate, potential candidate, registered party or eligible party or the leader of a registered party or eligible party; or
 
   **(5)** The portion of subsection 282.4(3) of the Act before paragraph (a) is replaced by the following:
 
-    **(3)** For greater certainty, subsection (1) does not apply if the only thing done by the person or entity to influence the elector to vote or refrain from voting, or to vote or refrain from voting for the particular candidate, **potential candidate**, registered party or **eligible party**, consists of
+    **(3)** For greater certainty, subsection (1) does not apply if the only thing done by the person or entity to influence the elector to vote or refrain from voting, or to vote or refrain from voting for the particular candidate, potential candidate, registered party or eligible party, consists of
 
   **(6)** Paragraph 282.4(3)(b) of the Act is replaced by the following:
 
-    a statement by them that encourages the elector to vote or refrain from voting for any candidate, **potential candidate**, registered party or **eligible party** in the election; or
+    a statement by them that encourages the elector to vote or refrain from voting for any candidate, potential candidate, registered party or eligible party in the election; or
 
   **(7)** Subsection 282.4(5) of the Act is replaced by the following:
 
-    **(5)** No person or entity shall sell any advertising space to a person or entity to whom subsection (1) applies for the purpose of enabling that person or entity to transmit an election advertising message or **partisan advertising message** or to cause an election advertising message or **partisan advertising message** to be transmitted.
+    **(5)** No person or entity shall sell any advertising space to a person or entity to whom subsection (1) applies for the purpose of enabling that person or entity to transmit an election advertising message or partisan advertising message or to cause an election advertising message or partisan advertising message to be transmitted.
 
 ### Section 9
 
@@ -136,9 +146,9 @@ Section 282.7 of the Act is replaced by the following:
 
 ### Section 282.7
 
-  **(1)** No person shall, directly or indirectly, offer a bribe to influence an elector to vote or refrain from voting, or to vote or refrain from voting for a particular candidate, **potential candidate**, registered party or **eligible party**, at **an** election.
+  **(1)** No person shall, directly or indirectly, offer a bribe to influence an elector to vote or refrain from voting, or to vote or refrain from voting for a particular candidate, potential candidate, registered party or eligible party, at an election.
 
-  **(2)** No person shall accept or agree to accept a bribe that is offered to them to vote or refrain from voting, or to vote or refrain from voting for a particular candidate, **potential candidate**, registered party or **eligible party**, at **an** election.
+  **(2)** No person shall accept or agree to accept a bribe that is offered to them to vote or refrain from voting, or to vote or refrain from voting for a particular candidate, potential candidate, registered party or eligible party, at an election.
 
 ### Section 10
 
@@ -146,26 +156,26 @@ Subsection 330(1) of the Act is replaced by the following:
 
 ### Section 330
 
-  **(1)** No person shall, with intent to influence persons to vote or refrain from voting, or to vote or refrain from voting for a particular candidate, **potential candidate, nomination contestant, leadership contestant**, registered party or **eligible party**, at an election, **nomination contest or leadership contest**, use a broadcasting station outside Canada, or aid, abet, counsel or procure the use of a broadcasting station outside Canada, for the broadcasting of any matter having reference to an election, **nomination contest or leadership contest**.
+  **(1)** No person shall, with intent to influence persons to vote or refrain from voting, or to vote or refrain from voting for a particular candidate, potential candidate, nomination contestant, leadership contestant, registered party or eligible party, at an election, nomination contest or leadership contest, use a broadcasting station outside Canada, or aid, abet, counsel or procure the use of a broadcasting station outside Canada, for the broadcasting of any matter having reference to an election, nomination contest or leadership contest.
 
 ### Section 11
 
 The portion of paragraph (a) of the definition **third party** in section 349 of the Act before subparagraph (i) is replaced by the following:
 
-in **Divisions** 0.1 **and 0.2**, a person or a group other than
+in Divisions 0.1 and 0.2, a person or a group other than
 
 ### Section 12
 
 The heading of Division 0.1 of Part 17 of the Act is replaced by the following:
 
 
-### Prohibitions **in Relation to** Foreign **Property, Services and** Funds
+### Prohibitions in Relation to Foreign Property, Services and Funds
 
 ### Section 13
 
   **(1)** The portion of the definition advertising in subsection 349.01(1) of the Act before paragraph (a) is replaced by the following:
 
-    **advertising** means the transmission to the public by any means of an advertising message that promotes or opposes a registered party or eligible party or the election of a potential candidate, nomination contestant, **leadership contestant**, candidate or leader of a registered party or eligible party, otherwise than by taking a position on an issue with which any such party or person is associated. For greater certainty, it does not include
+    **advertising** means the transmission to the public by any means of an advertising message that promotes or opposes a registered party or eligible party or the election of a potential candidate, nomination contestant, leadership contestant, candidate or leader of a registered party or eligible party, otherwise than by taking a position on an issue with which any such party or person is associated. For greater certainty, it does not include
 
   **(2)** The definition advertising in subsection 349.01(1) of the Act is amended by striking out "or" at the end of paragraph (e), by adding "or" at the end of paragraph (f) and by adding the following after paragraph (f):
 
@@ -173,7 +183,7 @@ The heading of Division 0.1 of Part 17 of the Act is replaced by the following:
 
   **(3)** Paragraph (b) of the definition **foreign entity** in subsection 349.01(1) of the Act is replaced by the following:
 
-    a corporation or entity incorporated, formed or otherwise organized outside Canada **if it** does not carry on business in Canada or **one of the primary activities that it carries** on in Canada consists of doing anything to influence electors to vote or refrain from voting, or to vote or refrain from voting for a particular candidate, **potential candidate**, registered party or **eligible party**, at an election;
+    a corporation or entity incorporated, formed or otherwise organized outside Canada if it does not carry on business in Canada or one of the primary activities that it carries on in Canada consists of doing anything to influence electors to vote or refrain from voting, or to vote or refrain from voting for a particular candidate, potential candidate, registered party or eligible party, at an election;
 
   **(4)** The definition **foreign entity** in subsection 349.01(1) of the Act is amended by adding "or" at the end of paragraph (c) and by replacing paragraphs (d) and (e) with the following:
 
@@ -181,11 +191,11 @@ The heading of Division 0.1 of Part 17 of the Act is replaced by the following:
 
   **(5)** The portion of paragraph 349.01(2)(b) of the Act before subparagraph (i) is replaced by the following:
 
-    in relation to the election of a potential candidate, nomination contestant, **leadership contestant**, candidate or leader of a registered party or eligible party,
+    in relation to the election of a potential candidate, nomination contestant, leadership contestant, candidate or leader of a registered party or eligible party,
 
   **(6)** Subparagraph 349.01(2)(b)(i) of the French version of the Act is replaced by the following:
 
-    nommer le candidat potentiel, le candidat à l'investiture, **le candidat à la direction,** le candidat ou le chef de parti,
+    nommer le candidat potentiel, le candidat à l'investiture, le candidat à la direction, le candidat ou le chef de parti,
 
 ### Section 14
 
@@ -209,7 +219,7 @@ act in collusion with another person or entity for that purpose.
 
 ### Section 349.02
 
-No third party shall use **property, services or** funds for a partisan activity, for advertising, **including** election advertising **and partisan advertising**, or for an election survey if the source of the **property, services or** funds is a foreign entity.
+No third party shall use property, services or funds for a partisan activity, for advertising, including election advertising and partisan advertising, or for an election survey if the source of the property, services or funds is a foreign entity.
 
 ### Section 15
 
@@ -242,7 +252,7 @@ if it is not possible to return or destroy the contribution, convert it into mon
 
 Subparagraph 349.4(2)(b)(i) of the Act is replaced by the following:
 
-it does not carry on business in Canada or **one of the primary activities that it carries** on in Canada during a pre-election period consists of doing anything to influence electors during that period to vote or refrain from voting, or to vote or refrain from voting for a particular candidate, **potential candidate**, registered party or **eligible party**, at the following election, and
+it does not carry on business in Canada or one of the primary activities that it carries on in Canada during a pre-election period consists of doing anything to influence electors during that period to vote or refrain from voting, or to vote or refrain from voting for a particular candidate, potential candidate, registered party or eligible party, at the following election, and
 
 ### Section 17
 
@@ -310,7 +320,7 @@ The Act is amended by adding the following after section 349.94:
 
 Subparagraph 351.1(2)(b)(i) of the Act is replaced by the following:
 
-it does not carry on business in Canada or **one of the** primary **activities that it carries on** in Canada during an election period **consists of doing anything** to influence electors during that period to vote or refrain from voting, or to vote or refrain from voting for a particular candidate, **potential candidate**, registered party or **eligible party**, at the election, and
+it does not carry on business in Canada or one of the primary activities that it carries on in Canada during an election period consists of doing anything to influence electors during that period to vote or refrain from voting, or to vote or refrain from voting for a particular candidate, potential candidate, registered party or eligible party, at the election, and
 
 ### Section 21
 
@@ -500,7 +510,7 @@ Section 384.2 of the Act and the heading before it are replaced by the following
 
 Subsection 384.3(13) of the Act is replaced by the following:
 
-**(13)** The Chief Electoral Officer shall publish reports provided under subsections (1), (6) and (8), and any corrected or revised versions of those reports, as soon as feasible after receiving them, in the manner that he or she considers appropriate. **The reports that are published must limit the information on the location referred to in paragraph (2)(a) to the municipality, or its equivalent, and the province in which the event took place**.
+**(13)** The Chief Electoral Officer shall publish reports provided under subsections (1), (6) and (8), and any corrected or revised versions of those reports, as soon as feasible after receiving them, in the manner that he or she considers appropriate. The reports that are published must limit the information on the location referred to in paragraph (2)(a) to the municipality, or its equivalent, and the province in which the event took place.
 
 ### Section 30
 
@@ -524,13 +534,13 @@ Subsection 405(1) of the Act is replaced by the following:
 
 ### Section 405
 
-  **(1)** Within 30 days after the day on which there is a change in the information in respect of a registered party or an eligible party in the registry of political parties, the party shall report the change to the Chief Electoral Officer in writing. The report shall be certified by the **party's** leader **or chief agent**.
+  **(1)** Within 30 days after the day on which there is a change in the information in respect of a registered party or an eligible party in the registry of political parties, the party shall report the change to the Chief Electoral Officer in writing. The report shall be certified by the party's leader or chief agent.
 
 ### Section 34
 
 Paragraph 406(1)(a) of the Act is replaced by the following:
 
-a statement certified by its leader **or chief agent** confirming the validity of the information concerning the party in the registry of political parties; or
+a statement certified by its leader or chief agent confirming the validity of the information concerning the party in the registry of political parties; or
 
 ### Section 35
 
@@ -586,17 +596,17 @@ Section 476.75 of the Act is amended by adding the following after subsection (2
 
 ### Section 477.2
 
-    The following persons are ineligible to be an official agent **for a candidate**:
+    The following persons are ineligible to be an official agent for a candidate:
 
   **(2)** Section 477.2 of the Act is amended by adding the following after paragraph (b):
 
-    the official agent of any other candidate in the same electoral district;
+    the official agent of any other candidate in the same electoral district in respect of the same election;
 
 ### Section 40
 
   **(1)** Subparagraph 477.59(2)(a.4)(ii) of the Act is replaced by the following:
 
-    an indication of which of those expenses are expenses referred to in **any of** paragraphs 378(1)(c) **to (e)**, and
+    an indication of which of those expenses are expenses referred to in any of paragraphs 378(1)(c) to (e), and
 
   **(2)** Section 477.59 of the Act is amended by adding the following after subsection (2):
 
@@ -606,7 +616,7 @@ Section 476.75 of the Act is amended by adding the following after subsection (2
 
   **(1)** Paragraph 477.73(3)(c) of the Act is replaced by the following:
 
-    60% of the candidate's paid personal expenses, as set out in their electoral campaign return, other than childcare expenses or expenses referred to in **any of** paragraphs 378(1)(c) **to (e)**,
+    60% of the candidate's paid personal expenses, as set out in their electoral campaign return, other than childcare expenses or expenses referred to in any of paragraphs 378(1)(c) to (e),
 
   **(2)** Subsection 477.73(3) of the Act is amended by striking out "and" at the end of paragraph (e), by adding "and" at the end of paragraph (f) and by adding the following after paragraph (f):
 
@@ -616,7 +626,7 @@ Section 476.75 of the Act is amended by adding the following after subsection (2
 
   **(1)** Paragraph 477.74(2)(c) of the Act is replaced by the following:
 
-    60% of the candidate's paid personal expenses, as set out in their electoral campaign return, other than childcare expenses and expenses referred to in **any of** paragraphs 378(1)(c) **to (e)**,
+    60% of the candidate's paid personal expenses, as set out in their electoral campaign return, other than childcare expenses and expenses referred to in any of paragraphs 378(1)(c) to (e),
 
   **(2)** Subsection 477.74(2) of the Act is amended by striking out "and" at the end of paragraph (e), by adding "and" at the end of paragraph (f) and by adding the following after paragraph (f):
 
@@ -626,17 +636,17 @@ Section 476.75 of the Act is amended by adding the following after subsection (2
 
   **(1)** Paragraph 477.741(a) of the Act is replaced by the following:
 
-    60% of the candidate's personal expenses, as set out in their electoral campaign return, other than childcare expenses and expenses referred to **in any of paragraphs** 378(1)(c) **to (e)**, that were paid other than from the bank account referred to in subsection 477.46(1),
+    60% of the candidate's personal expenses, as set out in their electoral campaign return, other than childcare expenses and expenses referred to in any of paragraphs 378(1)(c) to (e), that were paid other than from the bank account referred to in subsection 477.46(1),
 
   **(2)** Section 477.741 of the Act is amended by adding "and" at the end of paragraph (b) and by adding the following after paragraph (b):
 
-    65% of the total of the candidate's expenses referred to in paragraph 378(1)(e) — to a maximum of $3,2500 — as set out in their electoral campaign return, that were paid other than from the bank account referred to in subsection 477.46(1).
+    65% of the total of the candidate's expenses referred to in paragraph 378(1)(e) — to a maximum of $3,250 — as set out in their electoral campaign return, that were paid other than from the bank account referred to in subsection 477.46(1).
 
 ### Section 44
 
 Subsection 477.94(3) of the Act is replaced by the following:
 
-**(3)** Subsection (2) does not prohibit the Commissioner from inspecting the statements referred to in that subsection, and any of those statements may be provided to the Director of Public Prosecutions and produced by the Director for the purpose of a prosecution for an offence under this Act **or for a conspiracy to commit, an attempt to commit, being an accessory after the fact in relation to, or any counselling in relation to, an offence under this Act**.
+**(3)** Subsection (2) does not prohibit the Commissioner from inspecting the statements referred to in that subsection, and any of those statements may be provided to the Director of Public Prosecutions and produced by the Director for the purpose of a prosecution for an offence under this Act or for a conspiracy to commit, an attempt to commit, being an accessory after the fact in relation to, or any counselling in relation to, an offence under this Act.
 
 ### Section 45
 
@@ -658,7 +668,7 @@ Subsection 480(1) of the Act is replaced by the following:
 
 ### Section 480
 
-  **(1)** Every person is guilty of an offence who, with the intention of delaying or obstructing the electoral process, contravenes this Act, otherwise than by committing an offence under subsection (2) or **any of** sections 480.1 **to** 482.1 or contravening a provision referred to in any of sections 484 to 499.
+  **(1)** Every person is guilty of an offence who, with the intention of delaying or obstructing the electoral process, contravenes this Act, otherwise than by committing an offence under subsection (2) or any of sections 480.1 to 482.1 or contravening a provision referred to in any of sections 484 to 499.
 
 ### Section 48
 
@@ -668,9 +678,9 @@ Section 480.1 of the Act is replaced by the following:
 
   **(1)** Every person is guilty of an offence who, with intent to mislead,
 
-    falsely represents themselves to be **any of the persons referred to in paragraph (2)**;
+    falsely represents themselves to be any of the persons referred to in paragraph (2);
 
-    causes anyone to falsely represent themselves to be **any of those persons**;
+    causes anyone to falsely represent themselves to be any of those persons;
 
     creates or causes to be created an image that is likely to be mistaken for an image of any of those persons;
 
@@ -678,13 +688,13 @@ Section 480.1 of the Act is replaced by the following:
 
     distributes, transmits or publishes an image referred to in paragraph (c) or imitation or audio recording referred to in paragraph (d).
 
-  ****(2)**** **For the purposes of paragraphs (1)(a) to (e), the persons are the following:**
+  **(2)** For the purposes of paragraphs (1)(a) to (e), the persons are the following:
 
     the Chief Electoral Officer, a member of the Chief Electoral Officer's staff or a person who is authorized to act on the Chief Electoral Officer's behalf;
 
     an election officer or a person who is authorized to act on an election officer's behalf;
 
-    a person who is authorized to act on behalf of the Office of the Chief Electoral Officer, **including the Commissioner**;
+    a person who is authorized to act on behalf of the Office of the Chief Electoral Officer, including the Commissioner;
 
     a leader of a registered party or eligible party;
 
@@ -700,7 +710,7 @@ Section 480.1 of the Act is replaced by the following:
 
     a leadership contestant.
 
-  ****(3)**** A person does not commit an offence under subsection (1) if they establish that the **image, imitation or** representation was manifestly for the purpose of parody or satire.
+  **(3)** A person does not commit an offence under subsection (1) if they establish that the image, imitation, audio recording or representation was manifestly for the purpose of parody or satire.
 
 ### Section 49
 
@@ -708,17 +718,17 @@ Subsections 481(1) and (2) of the Act are replaced by the following:
 
 ### Section 481
 
-  **(1)** Every person or entity is guilty of an offence that distributes, transmits or publishes any material that purports to be made, distributed, transmitted or published by or under the authority of the Chief Electoral Officer, **the Commissioner** or a returning officer, political party, **nomination contestant**, candidate, **potential candidate**, prospective candidate or **leadership contestant**, if
+  **(1)** Every person or entity is guilty of an offence that distributes, transmits or publishes any material that purports to be made, distributed, transmitted or published by or under the authority of the Chief Electoral Officer, the Commissioner or a returning officer, political party, nomination contestant, candidate, potential candidate, prospective candidate or leadership contestant, if
 
-    the person or entity was not authorized by the Chief Electoral Officer, **the Commissioner** or that returning officer, political party, **nomination contestant**, candidate, **potential candidate**, prospective candidate or **leadership contestant** to distribute, transmit or publish it; and
+    the person or entity was not authorized by the Chief Electoral Officer, the Commissioner or that returning officer, political party, nomination contestant, candidate, potential candidate, prospective candidate or leadership contestant to distribute, transmit or publish it; and
 
-    the person or entity distributes, transmits or publishes it with the intent of misleading the public into believing that it was made, distributed, transmitted or published by or under the authority of the Chief Electoral Officer, **the Commissioner** or that returning officer, political party, **nomination contestant**, candidate, **potential candidate**, prospective candidate or **leadership contestant**.
+    the person or entity distributes, transmits or publishes it with the intent of misleading the public into believing that it was made, distributed, transmitted or published by or under the authority of the Chief Electoral Officer, the Commissioner or that returning officer, political party, nomination contestant, candidate, potential candidate, prospective candidate or leadership contestant.
 
   **(2)** In determining whether a person or entity has committed an offence under subsection (1), the court may consider whether the material included the use of
 
-    a name, logo, social media account identifier, username or domain name that is distinctive and commonly associated with the Chief Electoral Officer, **the Commissioner**, a returning officer or the political party, **nomination contestant**, candidate, **potential candidate**, prospective candidate or **leadership contestant**, as the case may be; or
+    a name, logo, social media account identifier, username or domain name that is distinctive and commonly associated with the Chief Electoral Officer, the Commissioner, a returning officer or the political party, nomination contestant, candidate, potential candidate, prospective candidate or leadership contestant, as the case may be; or
 
-    the name, voice, image or signature of the Chief Electoral Officer, **the Commissioner**, a returning officer or the **nomination contestant**, candidate, **potential candidate**, prospective candidate or **leadership contestant** or of a public figure who is associated with the political party.
+    the name, voice, image or signature of the Chief Electoral Officer, the Commissioner, a returning officer or the nomination contestant, candidate, potential candidate, prospective candidate or leadership contestant or of a public figure who is associated with the political party.
 
 ### Section 50
 
@@ -726,7 +736,7 @@ The portion of subsection 482(1) of the Act before paragraph (a) is replaced by 
 
 ### Section 482
 
-  **(1)** Every person or entity is guilty of an offence that, fraudulently and with the intention of affecting the results **or disrupting the conduct** of an election, **nomination contest or leadership contest**,
+  **(1)** Every person or entity is guilty of an offence that, fraudulently and with the intention of affecting the results or disrupting the conduct of an election, nomination contest or leadership contest,
 
 ### Section 51
 
@@ -767,14 +777,14 @@ the preliminary, validated or official results of an election.
 The heading before section 491.1 of the Act is replaced by the following:
 
 
-#### Offences under Part 11.1 (Prohibitions in relation to Voting **at an Election**)
+#### Offences under Part 11.1 (Prohibitions in relation to Voting at an Election)
 
 ### Section 54
 
 The heading "Offences under Division 0.1 of Part 17 (Prohibition on Use of Foreign Funds by Third Parties)" before section 495.21 of the Act is replaced by the following:
 
 
-##### Offences under Division 0.1 of Part 17 (Prohibition **in Relation to** Foreign **Property, Services and** Funds)
+##### Offences under Division 0.1 of Part 17 (Prohibition in Relation to Foreign Property, Services and Funds)
 
 ### Section 55
 
@@ -866,7 +876,7 @@ The Act is amended by adding the following after section 496.1:
 
   **(1)** Subsection 497(1) of the Act is amended by adding the following after paragraph (h):
 
-    being a registered party, registered association, nomination contestant, candidate, or leadership contestant, contravenes section 372.1 (accepting a contribution that is in the form of a cryptoasset, money order or payment product);
+    being the chief agent of a registered party, the financial agent of a registered association, the official agent of a candidate, or the financial agent of a nomination contestant or leadership contestant, contravenes section 372.1 (accepting a contribution that is in the form of a cryptoasset, money order or payment product);
 
     being the chief agent of a registered party, the financial agent of a registered association, the official agent of a candidate, or the financial agent of a nomination contestant or leadership contestant, contravenes section 372.2 (failure to return a contribution that is in the form of a cryptoasset, money order or payment product);
 
@@ -884,21 +894,21 @@ Paragraphs 497.01(a) to (k) of the Act are repealed.
 
 ### Section 500
 
-      **(1)** Every person who is guilty of an offence under any of subsections 484(1), 489(1), 491(1), 492(1), 495(1), 495.1(1), 495.2(1), 495.21**(0.1) and** (1), **495.22(1)**, 495.3(1), 496(1), 496.1(1), 497(1), 497.1(1), 497.2(1), 497.3(1), 497.4(1), 497.5(1), 498(1) and 499(1) is liable on summary conviction to a fine of not more than $2,000 or to imprisonment for a term of not more than three months, or to both.
+      **(1)** Every person who is guilty of an offence under any of subsections 484(1), 489(1), 491(1), 492(1), 495(1), 495.1(1), 495.2(1), 495.21(0.1) and (1), 495.22(1), 495.3(1), 496(1), 496.1(1), 497(1), 497.1(1), 497.2(1), 497.3(1), 497.4(1), 497.5(1), 498(1) and 499(1) is liable on summary conviction to a fine of not more than $2,000 or to imprisonment for a term of not more than three months, or to both.
 
   **(2)** The portion of subsection 500(5) of the Act before paragraph (a) is replaced by the following:
 
-    **(5)** Every person who is guilty of an offence under any of subsections 480(1) and (2), 480.1(1), 481(1) and 482(1), **sections 482.01 and** 482.1, subsections 484(3), 485(2), 486(3) and (4), 487(2), 488(2) and 489(3), section 490, subsection 491(3), section 491.2, subsection 492(2), section 494, subsections 495(5), 495.1(2), 495.2(2), 495.21**(0.2) and** (2), **495.22(2)**, 495.3(2), 496(2) **and** 496.1(2), **section 496.2 and subsections** 497(2), 497.1(3), 497.2(3), 497.3(2), 497.4(2), 497.5(2), 498(2) and 499(2) is liable
+    **(5)** Every person who is guilty of an offence under any of subsections 480(1) and (2), 480.1(1), 481(1) and 482(1), sections 482.01 and 482.1, subsections 484(3), 485(2), 486(3) and (4), 487(2), 488(2) and 489(3), section 490, subsection 491(3), section 491.2, subsection 492(2), section 494, subsections 495(5), 495.1(2), 495.2(2), 495.21(0.2) and (2), 495.22(2), 495.3(2), 496(2) and 496.1(2), section 496.2 and subsections 497(2), 497.1(3), 497.2(3), 497.3(2), 497.4(2), 497.5(2), 498(2) and 499(2) is liable
 
   **(3)** Subsection 500(5.1) of the Act is replaced by the following:
 
-    **(5.1)** Every third party that is guilty of an offence under subsection 495.21(1) or (2) is, in addition to the punishment provided under subsection (1) or (5), liable to a fine of up to five times the amount of the funds, or five times the **commercial value of the property or services, involved in the commission of the offence**.
+    **(5.1)** Every third party that is guilty of an offence under subsection 495.21(1) or (2) is, in addition to the punishment provided under subsection (1) or (5), liable to a fine of up to five times the amount of the funds, or five times the commercial value of the property or services, involved in the commission of the offence.
 
 ### Section 63
 
 Subsection 502(2) of the Act is amended by adding the following after paragraph (h):
 
-being a nomination contestant or a leadership contestant, contravenes subsection 362.3(1) (offering bribe);
+being a nomination contestant, a leadership contestant or the financial agent of a nomination contestant or leadership contestant, contravenes subsection 362.3(1) (offering bribe);
 
 ### Section 64
 
@@ -906,7 +916,7 @@ Section 508 of the Act is replaced by the following:
 
 ### Section 508
 
-In a prosecution for an offence under this Act **or for a conspiracy to commit, an attempt to commit, being an accessory after the fact in relation to, or any counselling in relation to, an offence under this Act**, the written statement of the returning officer is, in the absence of evidence to the contrary, sufficient evidence of the holding of the election and of any person named in the certificate having been a candidate.
+In a prosecution for an offence under this Act or for a conspiracy to commit, an attempt to commit, being an accessory after the fact in relation to, or any counselling in relation to, an offence under this Act, the written statement of the returning officer is, in the absence of evidence to the contrary, sufficient evidence of the holding of the election and of any person named in the certificate having been a candidate.
 
 ### Section 65
 
@@ -914,9 +924,9 @@ Section 508.1 of the Act is replaced by the following:
 
 ### Section 508.1
 
-Every person or entity commits a violation and is liable to an administrative monetary penalty in an amount established in accordance with the provisions of this Act **if the person or entity**
+Every person or entity commits a violation and is liable to an administrative monetary penalty in an amount established in accordance with the provisions of this Act if the person or entity
 
-contravenes section **43.1, any of paragraphs 56(a) to (d), subsection 66(4), section 81, 81.1, 92.1, 92.2 or 92.3, subsection 136(4) or 166(1), section** 281.3, 281.4, 281.5 or **281.8** or a provision of any of Parts 16, 17 and 18;
+contravenes section 43.1, any of paragraphs 56(a) to (d), subsection 66(4), section 81, 81.1, 92.1, 92.2 or 92.3, subsection 136(4) or 166(1), section 281.3, 281.4, 281.5 or 281.8 or a provision of any of Parts 16, 17 and 18;
 
 conspires with any person or entity to contravene, or attempts to contravene, a provision referred to in paragraph (a);
 
@@ -924,7 +934,7 @@ counsels any person or entity to contravene a provision referred to in paragraph
 
 is an accessory after the fact to the contravention of a provision referred to in paragraph (a); or
 
-fails to comply with a requirement of the Chief Electoral Officer under any of Parts **16, 17 and 18**, a provision of a compliance agreement, a provision of an undertaking that has been accepted by the Commissioner **or a requirement of the Commissioner or the Commissioner's authorized representative under section 510.002**.
+fails to comply with a requirement of the Chief Electoral Officer under any of Parts 16, 17 and 18, a provision of a compliance agreement, a provision of an undertaking that has been accepted by the Commissioner or a requirement of the Commissioner or the Commissioner's authorized representative under section 510.002.
 
 ### Section 66
 
@@ -940,7 +950,7 @@ Section 508.5 of the Act is replaced by the following:
 
 ### Section 508.5
 
-  **(1)** Subject to **subsections** (2) **to (6)**, the maximum administrative monetary penalty for a violation is $**25,000**, in the case of an individual, and $**100,000**, in the case of a corporation or an entity.
+  **(1)** Subject to subsections (2) to (6), the maximum administrative monetary penalty for a violation is $25,000, in the case of an individual, and $100,000, in the case of a corporation or an entity.
 
   **(2)** The maximum administrative monetary penalty for a violation arising from the contravention of section 349.012, 349.013, 349.02 or 349.03 is an amount equal to twice the amount of the funds, or twice the commercial value of the property or services, involved in the contravention of that section, plus
 
@@ -948,11 +958,11 @@ Section 508.5 of the Act is replaced by the following:
 
     $100,000, in the case of a corporation or an entity.
 
-  ****(3)**** The maximum administrative monetary penalty for a violation arising from the contravention of section **349.04, 349.05**, 363, 367, **372.1** or **372.2** is an amount equal to twice the amount that was contributed — **accepted or not returned, not destroyed, or not converted and paid, as the case may be** — in contravention of that section, plus
+  **(3)** The maximum administrative monetary penalty for a violation arising from the contravention of section 349.04, 349.05, 363, 367, 372.1 or 372.2 is an amount equal to twice the amount that was contributed — accepted or not returned, not destroyed, or not converted and paid, as the case may be — in contravention of that section, plus
 
-    $**25,000**, in the case of an individual; and
+    $25,000, in the case of an individual; and
 
-    $**100,000**, in the case of a corporation or an entity.
+    $100,000, in the case of a corporation or an entity.
 
   **(4)** The maximum administrative monetary penalty for a violation arising from the contravention of subsection 349.4(1) or 351.1(1) is an amount equal to twice the amount of the expense incurred by the third party in contravention of that subsection, plus
 
@@ -962,9 +972,9 @@ Section 508.5 of the Act is replaced by the following:
 
   **(5)** The maximum administrative monetary penalty for a violation arising from the contravention of subsection 349.95(1) or 358(1) is an amount equal to twice the amount of the contribution that was used in contravention of that subsection, plus
 
-    $**25,000**, in the case of an individual; and
+    $25,000, in the case of an individual; and
 
-    $**100,000**, in the case of a corporation or an entity.
+    $100,000, in the case of a corporation or an entity.
 
   **(6)** The maximum administrative monetary penalty for a violation arising from the contravention of any of subsections 368(1) to (4) is an amount equal to twice the amount at issue in the contravention of that subsection, plus
 
@@ -1006,9 +1016,9 @@ administer oaths.
 
 ### Section 510.01
 
-      **(1)** If, on application of the Commissioner or **the Commissioner's** authorized representative, a judge is satisfied by information on oath that there are reasonable grounds to believe that this Act has been contravened or is about to be contravened — **or that there is or is about to be a conspiracy or attempt to contravene this Act or that a person or entity is or is about to be an accessory after the fact, or has counselled or is about to counsel, in relation to such a contravention** — and that an individual has or is likely to have information that will provide evidence of the contravention **or conduct in question**, a judge may order the individual to
+      **(1)** If, on application of the Commissioner or the Commissioner's authorized representative, a judge is satisfied by information on oath that there are reasonable grounds to believe that this Act has been contravened or is about to be contravened — or that there is or is about to be a conspiracy or attempt to contravene this Act or that a person or entity is or is about to be an accessory after the fact, or has counselled or is about to counsel, in relation to such a contravention — and that an individual has or is likely to have information that will provide evidence of the contravention or conduct in question, a judge may order the individual to
 
-        attend as specified in the order and be examined on oath by the Commissioner or the authorized representative on any matter that is relevant to the contravention **or conduct** before an individual, in sections 510.02 to 510.04 referred to as a "presiding officer", designated in the order;
+        attend as specified in the order and be examined on oath by the Commissioner or the authorized representative on any matter that is relevant to the contravention or conduct before an individual, in sections 510.02 to 510.04 referred to as a "presiding officer", designated in the order;
 
         preserve any records or other things specified in the order;
 
@@ -1016,7 +1026,7 @@ administer oaths.
 
   **(2)** Subsection 510.01(3) of the Act is replaced by the following:
 
-    **(3)** No order may be made under subsection (1) against **the** individual **whose conduct is being investigated**.
+    **(3)** No order may be made under subsection (1) against the individual whose conduct is being investigated.
 
 ### Section 72
 
@@ -1024,11 +1034,11 @@ administer oaths.
 
 ### Section 510.1
 
-      **(1)** Subject to **subsections** (2) **and (4)**, neither the Commissioner nor any person acting under **the Commissioner's** direction shall disclose any information relating to an investigation that comes to their knowledge in the exercise of their powers or the performance of their duties and functions under this Act, including information that reveals or from which may be inferred the name of the complainant, if any, the person whose conduct is being investigated or any witness.
+      **(1)** Subject to subsections (2) and (4), neither the Commissioner nor any person acting under the Commissioner's direction shall disclose any information relating to an investigation that comes to their knowledge in the exercise of their powers or the performance of their duties and functions under this Act, including information that reveals or from which may be inferred the name of the complainant, if any, the person whose conduct is being investigated or any witness.
 
   **(2)** Paragraph 510.1(2)(d) of the Act is replaced by the following:
 
-    information that is required to be disclosed in the course of a prosecution for an offence under this Act **or for a conspiracy to commit, an attempt to commit, being an accessory after the fact in relation to, or any counselling in relation to, an offence under this Act**;
+    information that is required to be disclosed in the course of a prosecution for an offence under this Act or for a conspiracy to commit, an attempt to commit, being an accessory after the fact in relation to, or any counselling in relation to, an offence under this Act;
 
   **(3)** Section 510.1 of the Act is amended by adding the following after subsection (3):
 
@@ -1050,9 +1060,9 @@ Section 511 of the Act is replaced by the following:
 
 ### Section 511
 
-  **(1)** If the Commissioner believes on reasonable grounds that an offence under this Act has been committed — **or that there has been a conspiracy to commit or an attempt to commit an offence under this Act or that a person or entity has been an accessory after the fact, or has counselled, in relation to an offence under this Act** — the Commissioner may institute a prosecution or cause one to be instituted.
+  **(1)** If the Commissioner believes on reasonable grounds that an offence under this Act has been committed — or that there has been a conspiracy to commit or an attempt to commit an offence under this Act or that a person or entity has been an accessory after the fact, or has counselled, in relation to an offence under this Act — the Commissioner may institute a prosecution or cause one to be instituted.
 
-  **(2)** **The** prosecution is instituted by the laying of an information in writing and under oath before a justice, as defined in section 2 of the `Criminal Code`.
+  **(2)** The prosecution is instituted by the laying of an information in writing and under oath before a justice, as defined in section 2 of the `Criminal Code`.
 
 ### Section 74
 
@@ -1060,7 +1070,7 @@ Subsection 512(1) of the Act is replaced by the following:
 
 ### Section 512
 
-  **(1)** No prosecution for an offence under this Act — **or for a conspiracy to commit, an attempt to commit, being an accessory after the fact in relation to, or any counselling in relation to, an offence under this Act** — may be instituted by a person, other than the Commissioner or a person acting under **the Commissioner's** direction, without the prior written consent of the Director of Public Prosecutions provided after consultation with the Commissioner.
+  **(1)** No prosecution for an offence under this Act — or for a conspiracy to commit, an attempt to commit, being an accessory after the fact in relation to, or any counselling in relation to, an offence under this Act — may be instituted by a person, other than the Commissioner or a person acting under the Commissioner's direction, without the prior written consent of the Director of Public Prosecutions provided after consultation with the Commissioner.
 
 ### Section 75
 
@@ -1068,11 +1078,11 @@ Subsection 512(1) of the Act is replaced by the following:
 
 ### Section 514
 
-      **(1)** Proceedings in respect of an offence under a provision set out in subsection 500(1) — **or in respect of a conspiracy to commit, an attempt to commit, being an accessory after the fact in relation to, or any counselling in relation to, such an offence** — may be commenced at any time within, but not later than, six years after the day on which the subject matter of the proceedings arose.
+      **(1)** Proceedings in respect of an offence under a provision set out in subsection 500(1) — or in respect of a conspiracy to commit, an attempt to commit, being an accessory after the fact in relation to, or any counselling in relation to, such an offence — may be commenced at any time within, but not later than, six years after the day on which the subject matter of the proceedings arose.
 
   **(2)** Subsection 514(3) of the Act is replaced by the following:
 
-    **(3)** Proceedings in respect of an offence under a provision set out in any of subsections 500(2) to (5) — **or in respect of a conspiracy to commit, an attempt to commit, being an accessory after the fact in relation to, or any counselling in relation to, such an offence** — may be commenced at any time.
+    **(3)** Proceedings in respect of an offence under a provision set out in any of subsections 500(2) to (5) — or in respect of a conspiracy to commit, an attempt to commit, being an accessory after the fact in relation to, or any counselling in relation to, such an offence — may be commenced at any time.
 
 ### Section 76
 
@@ -1080,15 +1090,15 @@ Subsection 512(1) of the Act is replaced by the following:
 
 ### Section 516
 
-      **(1)** If the Commissioner has reasonable grounds to believe that a person **or entity** has committed, is about to commit or is likely to commit an act or omission that is contrary to this Act — **or an act or omission that constitutes a conspiracy or attempt to contravene this Act or that constitutes being an accessory after the fact or counselling in relation to a contravention of this Act** — the Commissioner may, during an election period, after taking into account the nature and seriousness of the act or omission, the need to ensure fairness of the electoral process and the public interest, apply to a competent court described in subsection 525(1) for an injunction described in subsection (2).
+      **(1)** If the Commissioner has reasonable grounds to believe that a person or entity has committed, is about to commit or is likely to commit an act or omission that is contrary to this Act — or an act or omission that constitutes a conspiracy or attempt to contravene this Act or that constitutes being an accessory after the fact or counselling in relation to a contravention of this Act — the Commissioner may, during an election period, after taking into account the nature and seriousness of the act or omission, the need to ensure fairness of the electoral process and the public interest, apply to a competent court described in subsection 525(1) for an injunction described in subsection (2).
 
   **(2)** The portion of subsection 516(2) of the Act before paragraph (a) is replaced by the following:
 
-    **(2)** If the court, on application by the Commissioner under subsection (1), is satisfied that there are reasonable grounds to believe that a person **or entity** has committed, is about to commit or is likely to commit an act or omission **referred to in that subsection** and that the nature and seriousness of the act or omission, the need to ensure fairness of the electoral process and the public interest justify the issuing of an injunction, the court may issue an injunction ordering any person **or entity** named in the application to do one or both of the following:
+    **(2)** If the court, on application by the Commissioner under subsection (1), is satisfied that there are reasonable grounds to believe that a person or entity has committed, is about to commit or is likely to commit an act or omission referred to in that subsection and that the nature and seriousness of the act or omission, the need to ensure fairness of the electoral process and the public interest justify the issuing of an injunction, the court may issue an injunction ordering any person or entity named in the application to do one or both of the following:
 
   **(3)** Subsection 516(3) of the Act is replaced by the following:
 
-    **(3)** No injunction may be issued under subsection (2) unless at least 48 hours notice is given to each person **or entity** named in the application or the urgency of the situation is such that service of notice would not be in the public interest.
+    **(3)** No injunction may be issued under subsection (2) unless at least 48 hours notice is given to each person or entity named in the application or the urgency of the situation is such that service of notice would not be in the public interest.
 
 ### Section 77
 
@@ -1096,27 +1106,27 @@ Subsection 512(1) of the Act is replaced by the following:
 
 ### Section 517
 
-      **(1)** Subject to subsection (7), the Commissioner may enter into a compliance agreement, aimed at ensuring compliance with this Act, with a person or entity (in this section and sections 518 to 521 called the "contracting party") if the Commissioner believes on reasonable grounds that the person or entity has committed, is about to commit or is likely to commit an act or omission that could constitute an offence under this Act **or that could constitute a conspiracy or attempt to commit, or being an accessory after the fact or counselling in relation to, an offence under this Act.**
+      **(1)** Subject to subsection (7), the Commissioner may enter into a compliance agreement, aimed at ensuring compliance with this Act, with a person or entity (in this section and sections 518 to 521 called the "contracting party") if the Commissioner believes on reasonable grounds that the person or entity has committed, is about to commit or is likely to commit an act or omission that could constitute an offence under this Act or that could constitute a conspiracy or attempt to commit, or being an accessory after the fact or counselling in relation to, an offence under this Act.
 
   **(2)** Subsection 517(4) of the Act is replaced by the following:
 
-    **(4)** A compliance agreement may include a statement by the contracting party in which it admits responsibility for the act or omission **in question**.
+    **(4)** A compliance agreement may include a statement by the contracting party in which it admits responsibility for the act or omission in question.
 
 ### Section 78
 
 Paragraph 521.11(1)(b) of the Act is replaced by the following:
 
-identifies the provision of this Act, the requirement or the provision of the compliance agreement or undertaking **to which the violation relates**;
+identifies the provision of this Act, the requirement or the provision of the compliance agreement or undertaking to which the violation relates;
 
 ### Section 79
 
   **(1)** Paragraph 521.13(3)(a) of the Act is replaced by the following:
 
-    identifies the provision of this Act, the requirement or the provision of the compliance agreement or undertaking **to which the violation relates**;
+    identifies the provision of this Act, the requirement or the provision of the compliance agreement or undertaking to which the violation relates;
 
   **(2)** Paragraph 521.13(3)(b) of the English version of the Act is replaced by the following:
 
-    identifies the act or omission to which the **violation** relates; and
+    identifies the act or omission to which the violation relates; and
 
 ### Section 80
 
@@ -1124,15 +1134,15 @@ Paragraphs 521.14(a) and (b) of the Act are replaced by the following:
 
 request a review by the Commissioner with respect to the alleged violation or the penalty, or both, if the amount of the penalty is
 
-$**8,500** or less, in the case of an individual, or
+$8,500 or less, in the case of an individual, or
 
-$**30,000** or less, in the case of a corporation or an entity; or
+$30,000 or less, in the case of a corporation or an entity; or
 
 request a review by the Chief Electoral Officer with respect to the alleged violation or the penalty, or both, if the amount of the penalty is
 
-more than $**8,500**, in the case of an individual, or
+more than $8,500, in the case of an individual, or
 
-more than $**30,000**, in the case of a corporation or an entity.
+more than $30,000, in the case of a corporation or an entity.
 
 ### Section 81
 
@@ -1156,15 +1166,23 @@ Section 521.27 of the Act is replaced by the following:
 
     counsels that other person or entity to commit the violation.
 
-  ****(2)**** If **a corporation or** an entity commits a violation, any of **its** directors, officers or agents or mandataries who directed, authorized, assented to, acquiesced in or participated in the commission of the violation is a party to and liable for the violation.
+  **(2)** If a corporation or an entity commits a violation, any of its directors, officers or agents or mandataries who directed, authorized, assented to, acquiesced in or participated in the commission of the violation is a party to and liable for the violation.
 
-  ****(3)**** **Subsections (1) and (2) apply** whether or not the **person or** entity that actually committed the violation is proceeded against under this Act.
+  **(3)** Subsections (1) and (2) apply whether or not the person or entity that actually committed the violation is proceeded against under this Act.
 
 ### Section 83
 
 Subsection 540(4.1) of the Act is replaced by the following:
 
-**(4.1)** The Chief Electoral Officer may also disclose any of the documents referred to in subsection (3) to the Commissioner for the purposes of the exercise or performance of the Commissioner's powers, duties and functions under this Act and the Commissioner may, in turn, disclose any of those documents to the Director of Public Prosecutions, who may produce them for the purpose of a prosecution — or possible prosecution — by the Director for an offence under this Act **or for a conspiracy or attempt to commit, or being an accessory after the fact or counselling in relation to, an offence under this Act**.
+**(4.1)** The Chief Electoral Officer may also disclose any of the documents referred to in subsection (3) to the Commissioner for the purposes of the exercise or performance of the Commissioner's powers, duties and functions under this Act and the Commissioner may, in turn, disclose any of those documents to the Director of Public Prosecutions, who may produce them for the purpose of a prosecution — or possible prosecution — by the Director for an offence under this Act or for a conspiracy or attempt to commit, or being an accessory after the fact or counselling in relation to, an offence under this Act.
+
+### Section 83.1
+
+Subsection 541(1) of the Act is replaced by the following:
+
+### Section 541
+
+  **(1)** All documents referred to in section 359, 432, 437, 475.4, 476.75, 477.59 or 478.8, all other reports or statements, other than election documents received from election officers and reports provided under subsections 384.3(1), (6) and (8), all instructions issued by the Chief Electoral Officer under this Act and all decisions by the Chief Electoral Officer on points arising under this Act are public records and may be inspected by any person on request during business hours.
 
 
 ### Interpretation
@@ -1209,7 +1227,7 @@ Paragraph 387(d) of the Act, does not apply in respect of applications made unde
 
 ### Section 87
 
-Despite subsection 554(1) of the `Canada Elections Act`, the amendments to that Act made by sections `2` to `14`, `16`, `20`, `25`, `28` to `34`, `36`, `39`, `44`, `46` to `55`, `59` and `61` to `83` of this Act apply in an election for which the writ is issued within six months after the day on which this Act receives royal assent.
+Despite subsection 554(1) of the `Canada Elections Act`, the amendments to that Act made by sections `2` to `14`, `16`, `20`, `25`, `28` to `34`, `36`, `39`, `44`, `46` to `55`, `59` and `61` to `83.1` of this Act apply in an election for which the writ is issued within six months after the day on which this Act receives royal assent.
 
 
 ## An Act to change the names of certain electoral districts, 2026
@@ -1277,69 +1295,72 @@ The first representation order is amended by replacing the name "Brantford—Bra
 
 ### Section 8
 
-The first representation order is amended by replacing the name "Hastings—Lennox and Addington—Tyendinaga" with "Hastings—Lennox and Addington" in the heading of paragraph 40 of the part relating to Ontario.
-
-### Section 9
-
 The first representation order is amended by replacing the name "New Tecumseth—Gwillimbury" with "York—South Simcoe" in the heading of paragraph 69 of the part relating to Ontario.
 
-### Section 10
-
-The first representation order is amended by replacing the name "Sarnia—Lambton—Bkejwanong" with "Sarnia—Lambton" in the heading of paragraph 90 of the part relating to Ontario.
-
-### Section 11
+### Section 9
 
 The first representation order is amended by replacing the name "York Centre" with "North York" in the heading of paragraph 120 of the part relating to Ontario.
 
 
 ### Saskatchewan
 
-### Section 12
+### Section 10
 
 The first representation order is amended by replacing the name "Saskatoon—University" with "Saskatoon East" in the heading of paragraph 10 of the part relating to Saskatchewan.
 
 
 ### British Columbia
 
-### Section 13
+### Section 11
 
 The first representation order is amended by replacing the name "Cariboo—Prince George" with "Cariboo—Prince George—Omineca" in the heading of paragraph 4 of the part relating to British Columbia.
 
 
 ## Amendments to the Second Representation Order — Quebec
 
-### Section 14
+### Section 12
 
 The second representation order is amended by replacing the name "Argenteuil—La Petite‑Nation" with "Argenteuil—Papineau—Des Collines" in the heading of paragraph 5.
 
-### Section 15
+### Section 13
 
 The second representation order is amended by replacing the name "Beauharnois—Salaberry—Soulanges—Huntingdon" with "Vallée-du-Haut-Saint-Laurent" in the heading of paragraph 7.
 
-### Section 16
+### Section 14
 
 The second representation order is amended by replacing the name "Jonquière" with "Jonquière—Hébertville—Pays-des-Bleuets" in the heading of paragraph 30.
 
-### Section 17
+### Section 15
 
-The second representation order is amended by replacing the name "Longueuil—Charles-LeMoyne" with "Longueuil—Greenfield Park" in the heading of paragraph 41.
+The second representation order is amended by replacing the name "Longueuil—Charles-LeMoyne" with "Longueuil*—Charles-LeMoyne*—Greenfield Park" in the heading of paragraph 41.
 
-### Section 18
+### Section 16
 
 The second representation order is amended by replacing the name "Portneuf—Jacques-Cartier" with "Saint-Augustin—Portneuf—Jacques-Cartier" in the heading of paragraph 58.
 
-### Section 19
+### Section 17
 
-The second representation order is amended by replacing the name "Richmond—Arthabaska" with "Richmond—Arthabaska—Val-des-Sources" in the heading of paragraph 61.
+The second representation order is amended by replacing the name "Richmond—Arthabaska" with "Richmond—Arthabaska—des-Sources" in the heading of paragraph 61.
 
-### Section 20
+### Section 18
 
-The second representation order is amended by replacing the name "Rimouski—La Matapédia" with "Rimouski-Neigette—Mitis—Matapédia—Les Basques" in the heading of paragraph 62.
+The second representation order is amended by replacing the name "Rimouski—La Matapédia" with "Rimouski-Neigette—Mitis—Matapédia—Les Basques " in the heading of paragraph 62.
+
+
+### Related Amendments to the Canada Elections Act
+
+### Section 88.1
+
+Schedule 3 to the `Canada Elections Act` is amended by replacing "Cariboo—Prince George" with "Cariboo—Prince George—Omineca".
+
+### Section 88.2
+
+Schedule 3 to the Act is amended by replacing "Central Newfoundland" with "Coast of Bays—Central—Notre Dame".
 
 
 ### Coming into Force
 
 ### Section 89
 
-Section `88` comes into force on the 90th day after the day on which this Act receives royal assent.
+Sections 88 to 88.2 come into force on the 90th day after the day on which this Act receives royal assent.
 
