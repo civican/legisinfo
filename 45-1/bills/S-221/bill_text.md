@@ -1,7 +1,5 @@
 # Bill S-221: An Act to provide for the recognition of the Canada jay as the national bird of Canada
 
-**Sponsor**: Senator ATAULLAHJAN
-
 ## Summary
 
 This enactment recognizes the Canada jay as the national bird of Canada.
