@@ -9,7 +9,7 @@ This enactment amends the `Criminal Code` to, among other things,
 provide direction to peace officers, justices and judges when they apply the principle of restraint;
 
 provide that  a person must not be named as surety if the person was convicted
-of an indictable offence within ten years prior to a release order;
+of an indictable offence within ten years prior to a release order, except in certain circumstances;
 
 require a justice, before making a release order or a detention order in respect of an accused, to consider whether the accused is charged with an offence in the commission of which random and unprovoked violence was used or attempted;
 
@@ -299,7 +299,9 @@ If a justice is satisfied that there are reasonable grounds to believe that an a
 
   **(1.1)** Section 515 of the Act is amended by adding the following after subsection (2.1):
 
-    **(2.11)** Despite subsection (2.1), a judge, justice or court shall not name a person as surety if the person was convicted of an indictable offence within ten years before the day on which the release order is made.
+    **(2.11)** Despite subsection (2.1), a judge, justice or court shall not name a person as surety if the person was convicted of an indictable offence within ten years before the day on which the release order is made unless the judge, justice or court is satisfied that no other suitable surety is available and that doing so is in the interests of justice.
+
+    **(2.12)** If a judge, justice or court names a person described in subsection (2.11) as a surety, the judge, justice or court shall include in the record a statement of the reasons for doing so.
 
   **(2)** Subsection 515(3) of the Act is amended by striking out "or" at the end of paragraph (a) and by adding the following after that paragraph (a):
 
@@ -909,7 +911,7 @@ The `Department of Justice Act` is amended by adding the following after section
 
   **(2)** The report must include the following:
 
-    data on judicial interim release outcomes, including in respect of compliance with release conditions, recidivism by accused at large on release orders and incidents requiring public attention;
+    data on judicial interim release outcomes, including in respect of compliance with release conditions, recidivism by accused at large on release orders, rates of detention in custody before trial and incidents requiring public attention;
 
     an analysis of the effectiveness of release conditions; and
 
@@ -1200,5 +1202,7 @@ Every person is guilty of an offence and liable, on summary conviction, to a fin
 
 ### Section 84
 
-Sections `2` to `55`, `59` to `74` and `79` to `81` come into force on the 30th day after the day on which this Act receives royal assent.
+  **(1)** Sections `2` to `55`, `59` to `70`, `73`, `74` and `79` to `81` come into force on the 30th day after the day on which this Act receives royal assent.
+
+  **(2)** Sections `71` and `72` come into force on a day to be fixed by order of the Governor in Council.
 
