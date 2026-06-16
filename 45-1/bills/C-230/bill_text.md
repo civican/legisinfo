@@ -15,23 +15,23 @@ The `Financial Administration Act` is amended by adding the following after sect
 
 ### Section 25.1
 
-  **(1)** The President of the Treasury Board must establish and maintain a public registry in the form of an online, searchable database containing information **relating to** any debt or obligation owed by a corporation, trust company or partnership to His Majesty — and **to** any claim by His Majesty against a corporation, trust company or partnership — **that was**, in whole or in part, **remitted**, forgiven, written off or waived, under this or any other Act of Parliament, **in an amount of $2,000,000** or more.
+  **(1)** The President of the Treasury Board must establish and maintain a public registry in the form of an online, searchable database containing information relating to any debt or obligation owed by a corporation, trust company or partnership to His Majesty — and to any claim by His Majesty against a corporation, trust company or partnership — that was, in whole or in part, remitted, forgiven, written off or waived, under this or any other Act of Parliament, in an amount of $2,000,000 or more.
 
   **(2)** The registry must include the following information in relation to each debt, obligation or claim:
 
     the name, as well as any business name, of the corporation, trust company or partnership;
 
-    the amount that was **remitted**, forgiven, written off or waived;
+    the amount that was remitted, forgiven, written off or waived;
 
     an indication of whether the debt, obligation or claim was remitted, forgiven, written off or waived;
 
-    **the fiscal year in** which the debt, obligation or claim was **remitted, forgiven, written off or waived**;
+    the fiscal year in which the debt, obligation or claim was remitted, forgiven, written off or waived;
 
     the Act of Parliament or agreement, arrangement, contract or other instrument or act under which the debt, obligation or claim arose;
 
     the Act of Parliament under which the debt, obligation or claim was remitted, forgiven, written off or waived; and
 
-    any other information that the President of the Treasury Board **considers appropriate**.
+    any other information that the President of the Treasury Board considers appropriate.
 
   **(3)** Despite subsection (2), the President of the Treasury Board may exclude from the registry any information that, in their opinion, would be inappropriate to make publicly accessible for reasons related to the protection of confidential, personal or sensitive information.
 
