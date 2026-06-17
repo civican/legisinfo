@@ -21,7 +21,7 @@ His Majesty, by and with the advice and consent of the Senate and House of Commo
 
 Section 231 of the `Criminal Code` is amended by adding the following after subsection (3):
 
-**(3.1)** Irrespective of whether a murder is planned and deliberate on the part of any person, murder is first degree murder when the victim is that person's intimate partner **and the death is caused by that person while engaging in, or after having engaged in, a pattern of coercive or controlling conduct with intent to cause the victim to believe that the victim's physical or psychological safety is threatened**.
+**(3.1)** Irrespective of whether a murder is planned and deliberate on the part of any person, murder is first degree murder when the victim is that person's intimate partner and the death is caused by that person while engaging in, or after having engaged in, a pattern of coercive or controlling conduct with intent to cause the victim to believe that the victim's physical or psychological safety is threatened.
 
 ### Section 1.1
 
@@ -31,7 +31,7 @@ Section 236 of the Act is renumbered as subsection 236(1) and is amended by addi
 
 ### Section 2
 
-The Act is amended by adding the following after section **263**:
+The Act is amended by adding the following after section 263:
 
 ### Section 263.1
 
@@ -61,37 +61,11 @@ The Act is amended by adding the following after section **263**:
 
 ### Section 3
 
-[*Deleted*]
-
-### Section 4
-
-[*Deleted*]
-
-### Section 5
-
-[*Deleted*]
-
-### Section 6
-
-[*Deleted*]
-
-### Section 7
-
 The portion of subsection 490(2) of the Act before paragraph (a) is replaced by the following:
 
-**(2)** Nothing shall be detained under the authority of paragraph (1)(b) for a period of more than **180 days** after the day of the seizure, or any longer period that ends when an application made under paragraph (a) is decided, unless
+**(2)** Nothing shall be detained under the authority of paragraph (1)(b) for a period of more than 180 days after the day of the seizure, or any longer period that ends when an application made under paragraph (a) is decided, unless
 
-**(2)** [*Deleted*]
-
-**(3)** [*Deleted*]
-
-**(4)** [*Deleted*]
-
-### Section 8
-
-[*Deleted*]
-
-### Section 8.1
+### Section 4
 
 Paragraph 515(6)(b.1) of the Act is replaced by the following:
 
@@ -101,23 +75,19 @@ has been previously convicted or discharged under section 730 of an offence in t
 
 was, at the time the offence is alleged to have been committed, subject to a recognizance entered into under section 810, 810.02, 810.03, 810.1 or 810.2, in the case where the information for the recognizance was laid on behalf of any intimate partner of the accused;
 
-### Section 9
-
-[*Deleted*]
-
-### Section 10
+### Section 5
 
 Section 662 of the Act is amended by adding the following after subsection (5):
 
 **(5.1)** For greater certainty, if a count charges an offence under subsection 263.1(1) and the evidence does not prove that offence but proves an included offence, the accused may be found guilty of the offence that is proved.
 
-### Section 11
+### Section 6
 
 Paragraph (b) of the definition sentence in section 673 of the Act is replaced by the following:
 
 an order made under subsection 109(1) or 110(1), section 161, subsection 164.2(1) or 194(1), section 320.24 or 462.37, subsection 491.1(2), 730(1) or 737(2.1) or (3) or section 738, 739, 742.1, 742.3, 743.6, 745.4, 745.5 or 745.52,
 
-### Section 12
+### Section 7
 
   **(1)** Subsection 675(2) of the Act is replaced by the following:
 
@@ -127,17 +97,17 @@ an order made under subsection 109(1) or 110(1), section 161, subsection 164.2(1
 
     **(2.2)** A person who was under the age of 18 at the time of the commission of the offence for which the person was convicted of first degree murder, second degree murder or manslaughter in the circumstances set out in subsection 236(2) and was sentenced to imprisonment for life without eligibility for parole until the person has served the period specified by the judge presiding at the trial may appeal to the court of appeal against the number of years in excess of the minimum number of years of imprisonment without eligibility for parole that are required to be served in respect of that person's case.
 
-### Section 13
+### Section 8
 
 Subsection 676(4) of the Act is replaced by the following:
 
 **(4)** The Attorney General or counsel instructed by the Attorney General for the purpose may appeal to the court of appeal in respect of a conviction for second degree murder or manslaughter in the circumstances set out in subsection 236(2), against the number of years of imprisonment without eligibility for parole, being less than 25, that has been imposed as a result of that conviction.
 
-### Section 14
+### Section 9
 
 Subsection 718.3(8) of the Act is repealed.
 
-### Section 15
+### Section 10
 
 The Act is amended by adding the following after section 726.1:
 
@@ -145,13 +115,13 @@ The Act is amended by adding the following after section 726.1:
 
 When an offender is found guilty of an offence under subsection 263.1(1), the court shall endorse, on the information or indictment, the included offence that has been proved by the evidence and, in the absence of evidence to the contrary, the endorsement is proof of that fact.
 
-### Section 16
+### Section 11
 
 Section 745 of the Act is amended by striking out "and" at the end of paragraph (c) and by adding the following after that paragraph:
 
 in respect of a person who has been convicted of manslaughter in the circumstances set out in subsection 236(2), that the person be sentenced to imprisonment for life without eligibility for parole until the person has served at least 10 years of the sentence or the greater number of years, not being more than 25 years, that has been substituted for that 10 years under paragraph 745.52(1)(a); and
 
-### Section 17
+### Section 12
 
   **(1)** The portion of section 745.1 of the Act before paragraph (a) is replaced by the following:
 
@@ -163,7 +133,7 @@ in respect of a person who has been convicted of manslaughter in the circumstanc
 
     seven years, in the case of a person who was convicted of second degree murder or of manslaughter in the circumstances set out in subsection 236(2) and who was 16 or 17 years of age at the time of the commission of the offence.
 
-### Section 18
+### Section 13
 
 The Act is amended by adding the following after section 745.51:
 
@@ -177,7 +147,7 @@ The Act is amended by adding the following after section 745.51:
 
   **(2)** For the purposes of subsection (1), the judge shall have regard to the character of the offender, the nature of the offence and the circumstances surrounding its commission and, in respect of a decision under paragraph (1)(b), the age of the offender.
 
-### Section 19
+### Section 14
 
 The portion of section 746 of the Act before paragraph (a) is replaced by the following:
 
@@ -188,18 +158,18 @@ In calculating the period of imprisonment served for the purposes of section 745
 
 ## Transitional Provisions
 
-### Section 20
+### Section 15
 
 Subsection 236(2) of the `Criminal Code` does not apply with respect to an offence that is committed before the 30th day after the day on which this Act receives royal assent.
 
-### Section 20.1
+### Section 16
 
-Subsection 490(2) of the `Criminal Code`, as amended by section 7, applies with respect to any matter or proceeding that is ongoing on the 30th day after the day on which this Act receives royal assent.
+Subsection 490(2) of the `Criminal Code`, as amended by section 3, applies with respect to any matter or proceeding that is ongoing on the 30th day after the day on which this Act receives royal assent.
 
 
 ## Coordinating Amendments
 
-### Section 21
+### Section 17
 
   **(1)** This section applies if Bill C-16, introduced in the 1st session of the 45th Parliament and entitled the `Protecting Victims Act` (in this section referred to as the "other Act"), receives royal assent.
 
@@ -209,11 +179,11 @@ Subsection 490(2) of the `Criminal Code`, as amended by section 7, applies with 
 
   **(4)** If section 25 of the other Act and section 1 of this Act come into force on the same day, then that section 1 is deemed never to have come into force and is repealed.
 
-### Section 22
+### Section 18
 
   **(1)** *This section applies if Bill C-16, introduced in the 1st session of the 45th Parliament and entitled the `Protecting Victims Act` (in this section referred to as the "other Act"), receives royal assent.*
 
-  **(2)** If section 26 of the other Act comes into force before section 1.1 of this Act, then that section 1.1 and section 20 of this Act are repealed.
+  **(2)** If section 26 of the other Act comes into force before section 1.1 of this Act, then that section 1.1 and section 15 of this Act are repealed.
 
   **(3)** *If section 1.1 of this Act comes into force before section 26 of the other Act, then*
 
@@ -223,45 +193,45 @@ Subsection 490(2) of the `Criminal Code`, as amended by section 7, applies with 
 
     Paragraphs 236(2)(b) to (d) of the Act do not apply with respect to an offence that is committed before the commencement day.
 
-  **(4)** If section 26 of the other Act and section 1.1 of this Act come into force on the same day, then that section 1.1 and section 20 of this Act are deemed never to have come into force and are repealed.
+  **(4)** If section 26 of the other Act and section 1.1 of this Act come into force on the same day, then that section 1.1 and section 15 of this Act are deemed never to have come into force and are repealed.
 
-  **(5)** If section 55 of the other Act comes into force before section 11 of this Act, then that section 11 is repealed.
+  **(5)** If section 55 of the other Act comes into force before section 6 of this Act, then that section 6 is repealed.
 
-  **(6)** If section 11 of this Act comes into force before section 55 of the other Act, then that section 55 is repealed.
+  **(6)** If section 6 of this Act comes into force before section 55 of the other Act, then that section 55 is repealed.
 
-  **(7)** If section 55 of the other Act and section 11 of this Act come into force on the same day, then that section 11 is deemed never to have come into force and is repealed.
+  **(7)** If section 55 of the other Act and section 6 of this Act come into force on the same day, then that section 6 is deemed never to have come into force and is repealed.
 
-  **(8)** If section 56 of the other Act comes into force before section 12 of this Act, then that section 12 is repealed.
+  **(8)** If section 56 of the other Act comes into force before section 7 of this Act, then that section 7 is repealed.
 
-  **(9)** If section 56 of the other Act and section 12 of this Act come into force on the same day, then that section 12 is deemed never to have come into force and is repealed.
+  **(9)** If section 56 of the other Act and section 7 of this Act come into force on the same day, then that section 7 is deemed never to have come into force and is repealed.
 
-  **(10)** If section 57 of the other Act comes into force before section 13 of this Act, then that section 13 is repealed.
+  **(10)** If section 57 of the other Act comes into force before section 8 of this Act, then that section 8 is repealed.
 
-  **(11)** If section 57 of the other Act and section 13 of this Act come into force on the same day, then that section 13 is deemed never to have come into force and is repealed.
+  **(11)** If section 57 of the other Act and section 8 of this Act come into force on the same day, then that section 8 is deemed never to have come into force and is repealed.
 
-  **(12)** If section 72 of the other Act comes into force before section 16 of this Act, then that section 16 is repealed.
+  **(12)** If section 72 of the other Act comes into force before section 11 of this Act, then that section 11 is repealed.
 
-  **(13)** If section 16 of this Act comes into force before section 72 of the other Act, then that section 72 is amended by replacing "Section 745 of the Act is amended by striking out "and" at the end of paragraph (c) and by adding the following after that paragraph" with "Paragraph 745(c.1) of the Act is replaced by the following".
+  **(13)** If section 11 of this Act comes into force before section 72 of the other Act, then that section 72 is amended by replacing "Section 745 of the Act is amended by striking out "and" at the end of paragraph (c) and by adding the following after that paragraph" with "Paragraph 745(c.1) of the Act is replaced by the following".
 
-  **(14)** If section 72 of the other Act and section 16 of this Act come into force on the same day, then that section 16 is deemed never to have come into force and is repealed.
+  **(14)** If section 72 of the other Act and section 11 of this Act come into force on the same day, then that section 11 is deemed never to have come into force and is repealed.
 
-  **(15)** If section 73 of the other Act comes into force before section 17 of this Act, then that section 17 is repealed.
+  **(15)** If section 73 of the other Act comes into force before section 12 of this Act, then that section 12 is repealed.
 
-  **(16)** If section 73 of the other Act and section 17 of this Act come into force on the same day, then that section 17 is deemed never to have come into force and is repealed.
+  **(16)** If section 73 of the other Act and section 12 of this Act come into force on the same day, then that section 12 is deemed never to have come into force and is repealed.
 
-  **(17)** If section 74 of the other Act comes into force before section 18 of this Act, then that section 18 is repealed.
+  **(17)** If section 74 of the other Act comes into force before section 13 of this Act, then that section 13 is repealed.
 
-  **(18)** If section 18 of this Act comes into force before section 74 of the other Act, then that section 74 is amended by replacing "The Act is amended by adding the following after section 745.51" with "Section 745.52 of the Act is replaced by the following".
+  **(18)** If section 13 of this Act comes into force before section 74 of the other Act, then that section 74 is amended by replacing "The Act is amended by adding the following after section 745.51" with "Section 745.52 of the Act is replaced by the following".
 
-  **(19)** If section 74 of the other Act and section 18 of this Act come into force on the same day, then that section 18 is deemed never to have come into force and is repealed.
+  **(19)** If section 74 of the other Act and section 13 of this Act come into force on the same day, then that section 13 is deemed never to have come into force and is repealed.
 
-  **(20)** If section 75 of the other Act comes into force before section 19 of this Act, then that section 19 is repealed.
+  **(20)** If section 75 of the other Act comes into force before section 14 of this Act, then that section 14 is repealed.
 
-  **(21)** If section 19 of this Act comes into force before section 75 of the other Act, then that section 75 is repealed.
+  **(21)** If section 14 of this Act comes into force before section 75 of the other Act, then that section 75 is repealed.
 
-  **(22)** If section 75 of the other Act and section 19 of this Act come into force on the same day, then that section 19 is deemed never to have come into force and is repealed.
+  **(22)** If section 75 of the other Act and section 14 of this Act come into force on the same day, then that section 14 is deemed never to have come into force and is repealed.
 
-### Section 23
+### Section 19
 
   **(1)** *This section applies if Bill C-16, introduced in the 1st session of the 45th Parliament and entitled the `Protecting Victims Act` (in this section referred to as the "other Act"), receives royal assent.*
 
@@ -269,26 +239,26 @@ Subsection 490(2) of the `Criminal Code`, as amended by section 7, applies with 
 
     subsection 263.1(1);
 
-  **(3)** If subsection 2(1) of the other Act comes into force before section 14 of this Act, then, on the day on which section 14 comes into force, paragraph 3.01(2)(g) of the `Criminal Code` is repealed.
+  **(3)** If subsection 2(1) of the other Act comes into force before section 9 of this Act, then, on the day on which section 9 comes into force, paragraph 3.01(2)(g) of the `Criminal Code` is repealed.
 
-  **(4)** If section 14 of this Act comes into force before subsection 2(1) of the other Act, then that subsection 2(1) is amended by repealing the paragraph 3.01(2)(g) that it enacts.
+  **(4)** If section 9 of this Act comes into force before subsection 2(1) of the other Act, then that subsection 2(1) is amended by repealing the paragraph 3.01(2)(g) that it enacts.
 
-  **(5)** If subsection 2(1) of the other Act and section 14 of this Act come into force on the same day, then that section 14 is deemed to have come into force before that subsection 2(1) and subsection (4) applies as a consequence.
+  **(5)** If subsection 2(1) of the other Act and section 9 of this Act come into force on the same day, then that section 9 is deemed to have come into force before that subsection 2(1) and subsection (4) applies as a consequence.
 
-### Section 23.1
+### Section 20
 
   **(1)** This section applies if Bill C-16, introduced in the 1st session of the 45th Parliament and entitled the `Protecting Victims Act` (in this section referred to as the "other Act"), receives royal assent.
 
-  **(2)** If section 44 of the other Act comes into force before section 7 of this Act, then that section 7 and section 20.1 of this Act are repealed.
+  **(2)** If section 44 of the other Act comes into force before section 3 of this Act, then that section 3 and section 16 of this Act are repealed.
 
-  **(3)** If section 7 of this Act comes into force before section 44 of the other Act, then that section 44 and section 104 of the other Act are repealed.
+  **(3)** If section 3 of this Act comes into force before section 44 of the other Act, then that section 44 and section 104 of the other Act are repealed.
 
-  **(4)** If section 44 of the other Act and section 7 of this Act come into force on the same day, then that section 7 and section 20.1 of this Act are deemed never to have come into force and are repealed.
+  **(4)** If section 44 of the other Act and section 3 of this Act come into force on the same day, then that section 3 and section 16 of this Act are deemed never to have come into force and are repealed.
 
 
 ## Coming into Force
 
-### Section 24
+### Section 21
 
 The provisions of this Act, other than the provisions that are coordinating amendments, come into force on the 30th day after the day on which this Act receives royal assent.
 
