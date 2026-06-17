@@ -1,7 +1,5 @@
 # Bill C-26: An Act to authorize certain payments to be made out of the Consolidated Revenue Fund for the purpose of improving housing supply
 
-**Sponsor**: MINISTER OF FINANCE AND NATIONAL REVENUE
-
 Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act to authorize certain payments to be made out of the Consolidated Revenue Fund for the purpose of improving housing supply*".
 
 ## Summary
