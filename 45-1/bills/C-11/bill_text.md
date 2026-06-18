@@ -1,7 +1,5 @@
 # Bill C-11: An Act to amend the National Defence Act and other Acts
 
-**Sponsor**: MINISTER OF NATIONAL DEFENCE
-
 Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act to amend the National Defence Act and other Acts*".
 
 ## Summary
@@ -14,9 +12,9 @@ modify the process for appointing the Canadian Forces Provost Marshal, the Direc
 
 affirm the Judge Advocate General's respect for the independence of authorities in the military justice system in the exercise of the Judge Advocate General's superintendence of the administration of military justice;
 
-remove the court martial's jurisdiction to try a person in relation to an offence under the `Criminal Code` that is alleged to have been committed in Canada and that is of a sexual nature or committed for a sexual purpose and provide for exceptions;
+remove the court martial's jurisdiction to try a person in relation to an offence under the `Criminal Code` that is alleged to have been committed in Canada and that is of a sexual nature or committed for a sexual purpose;
 
-[*Deleted*]
+remove the Canadian Armed Forces' authority to investigate an offence under the `Criminal Code` that is alleged to have been committed in Canada and that is of a sexual nature or committed for a sexual purpose;
 
 expand the class of persons who are eligible to be appointed as a military judge;
 
@@ -98,131 +96,99 @@ The Provost Marshal General shall, within three months after the end of each fis
 
 ### Section 7
 
-  **(1)** The portion of section 70 of the Act before paragraph (a) is replaced by the following:
+Section 70 of the Act is amended by striking out "or" at the end of paragraph (b) and by adding the following after paragraph (c):
 
-### Section 70
+an offence under any of the following provisions of the `Criminal Code`:
 
-    Subject to subsection (2), a court martial does not have jurisdiction to try any person charged with any of the following offences committed in Canada:
+section 151 (sexual interference),
 
-  **(**2**)** Section 70 of the Act is amended by striking out "or" at the end of paragraph (b) and by adding the following after paragraph (c):
+section 152 (invitation to sexual touching),
 
-    an offence under any of the following provisions of the `Criminal Code`:
+section 153 (sexual exploitation),
 
-    section 151 (sexual interference),
+section 153.1 (sexual exploitation of person with disability),
 
-    section 152 (invitation to sexual touching),
+section 155 (incest),
 
-    section 153 (sexual exploitation),
+subsection 160(1) (bestiality),
 
-    section 153.1 (sexual exploitation of person with disability),
+subsection 160(2) (compelling the commission of bestiality),
 
-    section 155 (incest),
+subsection 160(3) (bestiality in presence of or by a child),
 
-    subsection 160(1) (bestiality),
+section 162 (voyeurism),
 
-    subsection 160(2) (compelling the commission of bestiality),
+section 162.1 (publication, etc., of an intimate image without consent),
 
-    subsection 160(3) (bestiality in presence of or by a child),
+section 163.1 (child pornography),
 
-    section 162 (voyeurism),
+section 170 (parent or guardian procuring sexual activity),
 
-    section 162.1 (publication, etc., of an intimate image without consent),
+section 171 (householder permitting prohibited sexual activity),
 
-    section 163.1 (child pornography),
+section 171.1 (making sexually explicit material available to child),
 
-    section 170 (parent or guardian procuring sexual activity),
+section 172.1 (luring a child),
 
-    section 171 (householder permitting prohibited sexual activity),
+section 172.2 (agreement or arrangement — sexual offence against child),
 
-    section 171.1 (making sexually explicit material available to child),
+subsection 173(2) (exposure),
 
-    section 172.1 (luring a child),
+section 271 (sexual assault),
 
-    section 172.2 (agreement or arrangement — sexual offence against child),
+section 272 (sexual assault with a weapon, threats to a third party or causing bodily harm),
 
-    subsection 173(2) (exposure),
+section 273 (aggravated sexual assault),
 
-    section 271 (sexual assault),
+section 273.3 (removal of a child from Canada),
 
-    section 272 (sexual assault with a weapon, threats to a third party or causing bodily harm),
+section 279.011 (trafficking — person under 18 years),
 
-    section 273 (aggravated sexual assault),
+subsection 279.02(2) (material benefit — trafficking of person under 18 years),
 
-    section 273.3 (removal of a child from Canada),
+subsection 279.03(2) (withholding or destroying documents — trafficking of person under 18 years),
 
-    section 279.011 (trafficking — person under 18 years),
+section 286.1 (obtaining sexual services for consideration),
 
-    subsection 279.02(2) (material benefit — trafficking of person under 18 years),
+section 286.2 (material benefit from sexual services),
 
-    subsection 279.03(2) (withholding or destroying documents — trafficking of person under 18 years),
+section 286.3 (procuring), and
 
-    section 286.1 (obtaining sexual services for consideration),
+section 286.4 (advertising sexual services);
 
-    section 286.2 (material benefit from sexual services),
+an offence under the `Criminal Code` — other than an offence referred to in paragraph (d) — that is of a sexual nature or that is committed for a sexual purpose;
 
-    section 286.3 (procuring), and
+an offence under the `Criminal Code`, as it read from time to time before the day on which this paragraph comes into force, if the conduct alleged would be an offence referred to in paragraph (d) or (e) if it occurred on or after that day;
 
-    section 286.4 (advertising sexual services);
+conspiring or attempting to commit an offence referred to in any of paragraphs (d) to (f) or being an accessory after the fact to such an offence; or
 
-    an offence under the `Criminal Code` — other than an offence referred to in paragraph (d) — that is of a sexual nature or that is committed for a sexual purpose;
-
-    an offence under the `Criminal Code`, as it read from time to time before the day on which this paragraph comes into force, if the conduct alleged would be an offence referred to in paragraph (d) or (e) if it occurred on or after that day;
-
-    conspiring or attempting to commit an offence referred to in any of paragraphs (d) to (f) or being an accessory after the fact to such an offence; or
-
-    counselling a person to commit an offence referred to in any of paragraphs (d) to (f) if the offence is not committed.
-
-  **(3)** Section 70 of the Act is renumbered as subsection 70(1) and is amended by adding the following:
-
-    **(2)** Despite any other provision of this Act and any other law, the victim of an offence referred to in any of paragraphs (1)(d) to (h), or an individual acting on their behalf, may choose whether the person charged with the offence is to be tried by a court martial or a civil court.
+counselling a person to commit an offence referred to in any of paragraphs (d) to (f) if the offence is not committed.
 
 ### Section 8
 
 The Act is amended by adding the following after section 70:
 
-### Section 70.01
-
-  **(1)** Despite section 70, a civil court may, at the request of a victim of an offence referred to in any of paragraphs 70(2)(d) to (h) or of an individual acting on their behalf, determine that a court martial should have jurisdiction to try the person charged if the court is of the opinion that it would not interfere with the proper administration of justice.
-
-  **(2)** In determining whether a court martial should have jurisdiction to try the person charged, the civil court shall consider the nature of the offence and the circumstances in which it was committed, as well as any other relevant factor, including whether
-
-    at the time of the commission of the alleged offence, the person charged was on duty or on a site under the authority of the Canadian Forces;
-
-    the victim explicitly expressed the wish to not have the matter transferred to a civil court and was subjected to any form of pressure that might influence a potential transfer to the court martial; and
-
-    the victim was informed of their rights and of the potential consequences of the court martial's having jurisdiction in the matter.
-
 ### Section 70.1
 
-  **(1)** **Despite any other provision of this Act and any other law, an officer or non-commissioned member may exercise** their powers or **perform** their duties and functions, before the arrival of the civilian authority having jurisdiction in the matter, to the extent necessary to prevent the commission, continuation or repetition of an offence referred to in any of paragraphs 70(2)(d) to (h) that, as the case may be, is being, was, or is alleged to have been committed in Canada, including
+Despite any other provision of this Act and any other law, an officer or non-commissioned member does not have authority to investigate, for the purposes of the laying of a charge under paragraph 130(1)(a) or an information under the `Criminal Code`, in relation to an offence referred to in any of paragraphs 70(d) to (h) that was, or is alleged to have been, committed in Canada.
+
+### Section 70.2
+
+  **(1)** Nothing in section 70.1 prevents an officer or non-commissioned member from exercising their powers or performing their duties and functions, before the arrival of the civilian authority having jurisdiction in the matter, to the extent necessary to prevent the commission, continuation or repetition of an offence referred to in any of paragraphs 70(d) to (h) that, as the case may be, is being, was, or is alleged to have been committed in Canada, including
 
     making an arrest in relation to the offence in accordance with Division 3 of Part III of this Act or section 494 or 495 of the `Criminal Code`; or
 
     if an arrest is made under paragraph (a), conducting a search incident to the arrest.
 
-  **(2)** **Despite any other provision of this Act and any other law**, an officer or non-commissioned member **may secure** or **preserve** any evidence of or relating to the offence referred to in subsection (1) before the arrival of the civilian authority having jurisdiction in the matter.
+  **(2)** Nothing in section 70.1 prevents an officer or non-commissioned member from securing or preserving any evidence of or relating to the offence referred to in subsection (1) before the arrival of the civilian authority having jurisdiction in the matter.
 
-  **(3)** Nothing in section 70.1 prevents an officer or non-commissioned member from securing or preserving — to the extent that their powers, duties and functions under this Act, other than under subsection (1) or (2), or any other law authorize them to do so — evidence of or relating to an offence referred to in any of paragraphs 70(2)(d) to (h) that was, or is alleged to have been, committed in Canada.
+  **(3)** Nothing in section 70.1 prevents an officer or non-commissioned member from securing or preserving — to the extent that their powers, duties and functions under this Act, other than under subsection (1) or (2), or any other law authorize them to do so — evidence of or relating to an offence referred to in any of paragraphs 70(d) to (h) that was, or is alleged to have been, committed in Canada.
 
-  **(4)** An officer or non-commissioned member shall, as soon as feasible, transfer a person arrested under paragraph (1)(a) to the custody of the civilian authority having jurisdiction in the matter and transfer to them any evidence secured or preserved under any of subsections (1) to (3), **unless the victim of the offence or an individual acting on their behalf has requested under subsection 70(2) that the person be tried by a court martial**.
-
-  **(5)** Every officer or non-commissioned member who wilfully or negligently causes an unreasonable delay in the transfer of evidence secured or preserved under any of subsections (1) to (3) to the custody of the civilian authority having jurisdiction in the matter or in the disclosure of all such evidence to the counsel representing the accused commits an offence under section 124.
-
-### Section 70.2
-
-**Despite any other provision of this Act and any other law**, an officer or non-commissioned member may **initiate** or **conduct** a private prosecution in relation to an offence referred to in any of paragraphs 70(2) to (h).
+  **(4)** An officer or non-commissioned member shall, as soon as feasible, transfer a person arrested under paragraph (1)(a) to the custody of the civilian authority having jurisdiction in the matter and transfer to them any evidence secured or preserved under any of subsections (1) to (3).
 
 ### Section 70.3
 
-  **(1)** Paragraphs 70(2)(d) to (h) and sections 70.1 and 70.2 cease to have effect at the end of the fourth anniversary of the day on which the `Military Justice System Modernization Act` receives royal assent unless, before the end of that fourth anniversary, the operation of those provisions is extended by resolution — whose text is established under subsection (4) — passed by both Houses of Parliament in accordance with the rules set out in subsection (5).
-
-  **(2)** A comprehensive review of paragraphs 70(2)(d) to (h) and sections 70.1 and 70.2 and their operation is to be undertaken by the committee of the Senate, of the House of Commons or of both Houses of Parliament that is designated or established by the Senate or the House of Commons, or by both Houses of Parliament, as the case may be, for that purpose.
-
-  **(3)** The committee must, no later than one year before the anniversary referred to in subsection (1), submit a report on the review to the appropriate House of Parliament, or to both Houses, as the case may be, including its recommendation with respect to extending the operation of the provisions referred to in subsection (1).
-
-  **(4)** The Governor in Council may, by order, establish the text of a resolution that provides for the extension of the operation of the provisions referred to in subsection (1) and that specifies the period of the extension, which may not exceed four years from the first day on which the resolution has been passed by both Houses of Parliament.
-
-  **(5)** A motion for the adoption of the resolution may be debated in both Houses of Parliament but may not be amended. At the conclusion of the debate, the Speaker of the House of Parliament must immediately put every question necessary to determine whether or not the motion is concurred in.
+Nothing in section 70.1 prevents an officer or non-commissioned member from initiating or conducting a private prosecution in relation to an offence referred to in any of paragraphs 70(d) to (h).
 
 ### Section 9
 
@@ -231,10 +197,6 @@ The Act is amended by adding the following after section 70:
 ### Section 71.16
 
       **(1)** Unless they are of the opinion that it is not possible to do so for operational reasons, a commanding officer shall, at the request of the victim or an individual acting on their behalf, appoint an officer or non-commissioned member, who satisfies the conditions established in regulations made by the Governor in Council, to be a liaison officer to assist the victim or individual as provided for in subsection (3). The commanding officer shall, to the extent possible, appoint the officer or non-commissioned member who has been requested by the victim or individual to be their liaison officer.
-
-  **(1.1)** Section 71.16 of the Act is amended by adding the following after subsection (1):
-
-    **(1.1)** Unless they are of the opinion that it is not possible to do so for operational reasons, a commanding officer shall, at the request of the victim or an individual acting on their behalf, appoint another officer or non-commissioned member to replace the liaison officer appointed under subsection (1).
 
   **(2)** Paragraphs 71.16(3)(a) and (b) of the Act are replaced by the following:
 
@@ -284,17 +246,61 @@ Section 165.1 of the Act is replaced by the following:
 
   **(1.1)** The appointment must be made within 120 days of the day on which the office of Director of Military Prosecutions becomes vacant.
 
-  **(2)** The Director of Military Prosecutions holds office during good behaviour for a term of not more than seven years but may be **removed by the Governor in Council at any time for cause** with **the support of a resolution of the House of Commons** to **that effect**.
+  **(2)** The Director of Military Prosecutions holds office during good behaviour for a term of not more than seven years but may be subject to remedial or disciplinary measures in accordance with section 165.101.
 
   **(3)** The Director of Military Prosecutions is not eligible to be reappointed.
 
-  **(4)** [*Deleted*]
+  **(4)** On receipt of a request referred to in subsection 165.101(1), the Governor in Council may, if the Governor in Council is of the opinion that there are exceptional circumstances that justify it, suspend the Director of Military Prosecutions from office until the Governor in Council decides whether to impose any remedial or disciplinary measures.
 
-  **(5)** [*Deleted*]
+  **(5)** For the purposes of subsection (4), **exceptional circumstances** include circumstances in which there are allegations of serious misconduct or allegations related to a risk to occupational health and safety or to a risk of injury to international relations, national defence or national security.
 
 ### Section 165.101
 
-[*Deleted*]
+  **(1)** The Minister may request of the Governor in Council that an inquiry be held to determine whether the Director of Military Prosecutions should be subject to remedial or disciplinary measures for any reason set out in paragraphs (12)(a) to (e).
+
+  **(2)** On receipt of a request, the Governor in Council may appoint a judge of a superior court to conduct the inquiry.
+
+  **(3)** The judge has all the powers, rights and privileges that are vested in a superior court, including the power to
+
+    issue a summons requiring any person to appear at the time and place specified in the summons in order to testify about all matters within the person's knowledge relative to the inquiry and to produce any document or thing relative to the inquiry that the person has or controls; and
+
+    administer oaths and examine any person on oath.
+
+  **(4)** The judge may engage the services of counsel and other persons having technical or specialized knowledge to assist the judge in conducting the inquiry, establish the terms and conditions of their engagement and, with the approval of the Treasury Board, fix and pay their remuneration and expenses.
+
+  **(5)** Subject to subsections (6) and (7), the inquiry shall be conducted in public.
+
+  **(6)** The judge may, on application, take any measures and make any order that the judge considers necessary to ensure the confidentiality of the inquiry if, after having considered all available alternative measures, the judge is satisfied that
+
+    there is a real and substantial risk that matters involving international relations, national defence or national security will be disclosed;
+
+    there is a real and substantial risk to the fairness of the inquiry such that the need to prevent disclosure outweighs the societal interest that the inquiry be conducted in public; or
+
+    there is a serious possibility that the life, liberty or security of a person will be endangered.
+
+  **(7)** If the judge considers it appropriate, the judge may take any measures and make any order that the judge considers necessary to ensure the confidentiality of a hearing held in respect of an application under subsection (6).
+
+  **(8)** The judge is not bound by any legal or technical rules of evidence and may receive, and base a decision on, evidence presented in the proceedings that they consider credible or trustworthy in the circumstances of the case.
+
+  **(9)** An interested party may, with leave of the judge, intervene in the inquiry on any terms and conditions that the judge considers appropriate.
+
+  **(10)** The Director of Military Prosecutions shall be given reasonable notice of the subject matter of the inquiry and of the time and place of any hearing and shall be given an opportunity, in person or by counsel, to be heard at the hearing, to cross-examine witnesses and to present evidence.
+
+  **(11)** After the inquiry has been completed, the judge shall submit a report containing their findings and recommendations, if any, to the Minister.
+
+  **(12)** The judge may, in the report, recommend that the Director of Military Prosecutions be suspended without pay or removed from office or that any other disciplinary measure or any remedial measure be taken if, in the judge's opinion, the Director
+
+    has become incapacitated from the proper execution of that office by reason of infirmity;
+
+    has committed misconduct;
+
+    has failed in the proper execution of that office;
+
+    has been placed, by conduct or otherwise, in a position that is incompatible with the due execution of that office; or
+
+    no longer satisfies the minimum standards and conditions of service applicable to officers.
+
+  **(13)** The Minister shall send the report to the Governor in Council who may, if the Governor in Council considers it appropriate, suspend the Director of Military Prosecutions without pay, remove the Director from office or impose any other disciplinary measure or any remedial measure.
 
 ### Section 16
 
@@ -306,11 +312,15 @@ If the Director of Military Prosecutions is absent or unable to act or the offic
 
 ### Section 17
 
-Subsections 165.17(5) and (6) of the Act are replaced by the following:
+  **(1)** Subsection 165.17(3) of the Act is replaced by the following:
 
-**(5)** The Director of Military Prosecutions may, if they consider it to be in the best interests of the administration of military justice, delay making an instruction or guideline issued under subsection (3), or any part of it, available to the public until the completion of the prosecution or any related prosecution.
+    **(3)** The Minister may issue instructions or guidelines in writing in respect of a particular prosecution.
 
-**(6)** The Judge Advocate General shall provide the Minister with a copy of every instruction and guideline issued under subsection (2).
+  **(2)** Subsections 165.17(5) and (6) of the Act are replaced by the following:
+
+    **(5)** The Director of Military Prosecutions may, if they consider it to be in the best interests of the administration of military justice, delay making an instruction or guideline issued under subsection (3), or any part of it, available to the public until the completion of the prosecution or any related prosecution.
+
+    **(6)** The Judge Advocate General shall provide the Minister with a copy of every instruction and guideline issued under subsection (2).
 
 ### Section 18
 
@@ -793,33 +803,65 @@ Section 249.18 of the Act is replaced by the following:
 
   **(1.1)** The appointment must be made within 120 days of the day on which the office of Director of Defence Counsel Services becomes vacant.
 
-  **(2)** The Director of Defence Counsel Services holds office during good behaviour for a term of not more than seven years but may be **removed by the Governor in Council at any time for cause** with **the support of a resolution of the House of Commons** to **that effect**.
+  **(2)** The Director of Defence Counsel Services holds office during good behaviour for a term of not more than seven years but may be subject to remedial or disciplinary measures in accordance with section 249.181.
 
   **(3)** The Director of Defence Counsel Services is not eligible to be reappointed.
 
-  **(4)** [*Deleted*]
+  **(4)** On receipt of a request referred to in subsection 249.181(1), the Governor in Council may, if the Governor in Council is of the opinion that there are exceptional circumstances that justify it, suspend the Director of Defence Counsel Services from office until the Governor in Council decides whether to impose any remedial or disciplinary measures.
 
-  **(5)** [*Deleted*]
+  **(5)** For the purposes of subsection (4), **exceptional circumstances** include circumstances in which there are allegations of serious misconduct or allegations related to a risk to occupational health and safety or to a risk of injury to international relations, national defence or national security.
 
 ### Section 249.181
 
-[*Deleted*]
+  **(1)** The Minister may request of the Governor in Council that an inquiry be held to determine whether the Director of Defence Counsel Services should be subject to remedial or disciplinary measures for any reason set out in paragraphs (12)(a) to (e).
+
+  **(2)** On receipt of a request, the Governor in Council may appoint a judge of a superior court to conduct the inquiry.
+
+  **(3)** The judge has all the powers, rights and privileges that are vested in a superior court, including the power to
+
+    issue a summons requiring any person to appear at the time and place specified in the summons in order to testify about all matters within the person's knowledge relative to the inquiry and to produce any document or thing relative to the inquiry that the person has or controls; and
+
+    administer oaths and examine any person on oath.
+
+  **(4)** The judge may engage the services of counsel and other persons having technical or specialized knowledge to assist the judge in conducting the inquiry, establish the terms and conditions of their engagement and, with the approval of the Treasury Board, fix and pay their remuneration and expenses.
+
+  **(5)** Subject to subsections (6) and (7), the inquiry shall be conducted in public.
+
+  **(6)** The judge may, on application, take any measures and make any order that the judge considers necessary to ensure the confidentiality of the inquiry if, after having considered all available alternative measures, the judge is satisfied that
+
+    there is a real and substantial risk that matters involving international relations, national defence or national security will be disclosed;
+
+    there is a real and substantial risk to the fairness of the inquiry such that the need to prevent disclosure outweighs the societal interest that the inquiry be conducted in public; or
+
+    there is a serious possibility that the life, liberty or security of a person will be endangered.
+
+  **(7)** If the judge considers it appropriate, the judge may take any measures and make any order that the judge considers necessary to ensure the confidentiality of a hearing held in respect of an application under subsection (6).
+
+  **(8)** The judge is not bound by any legal or technical rules of evidence and may receive, and base a decision on, evidence presented in the proceedings that they consider credible or trustworthy in the circumstances of the case.
+
+  **(9)** An interested party may, with leave of the judge, intervene in the inquiry on any terms and conditions that the judge considers appropriate.
+
+  **(10)** The Director of Defence Counsel Services shall be given reasonable notice of the subject matter of the inquiry and of the time and place of any hearing and shall be given an opportunity, in person or by counsel, to be heard at the hearing, to cross-examine witnesses and to present evidence.
+
+  **(11)** After the inquiry has been completed, the judge shall submit a report containing their findings and recommendations, if any, to the Minister.
+
+  **(12)** The judge may, in the report, recommend that the Director of Defence Counsel Services be suspended without pay or removed from office or that any other disciplinary measure or any remedial measure be taken if, in the judge's opinion, the Director
+
+    has become incapacitated from the proper execution of that office by reason of infirmity;
+
+    has committed misconduct;
+
+    has failed in the proper execution of that office;
+
+    has been placed, by conduct or otherwise, in a position that is incompatible with the due execution of that office; or
+
+    no longer satisfies the minimum standards and conditions of service applicable to officers.
+
+  **(13)** The Minister shall send the report to the Governor in Council who may, if the Governor in Council considers it appropriate, suspend the Director of Defence Counsel Services without pay, remove the Director from office or impose any other disciplinary measure or any remedial measure.
 
 ### Section 249.182
 
 If the Director of Defence Counsel Services is absent or unable to act or the office of Director of Defence Counsel Services is vacant, the Minister may authorize any officer who is a barrister or advocate with standing at the bar of a province to exercise the powers and perform the duties and functions of the Director of Defence Counsel Services, but that officer may act as the Director of Defence Counsel Services for a period of more than 90 days only with the approval of the Governor in Council.
-
-### Section 40.1
-
-Section 249.19 of the Act is replaced by the following:
-
-### Section 249.19
-
-The Director of Defence Counsel Services provides, and supervises and directs the provision of, legal services prescribed in regulations made by the Governor in Council to persons who are liable to be charged, dealt with and tried under the Code of Service Discipline, who have been charged with having committed a service infraction, or who are charged with an offence referred to in any of paragraphs 70(2)(d) to (h) that is alleged to have been committed while the person charged was acting in their role as a member of the Canadian Forces.
-
-### Section 40.2
-
-Section 249.2 of the Act is repealed.
 
 ### Section 41
 
@@ -1127,11 +1169,11 @@ An instruction or guideline issued under subsection 18.5(3) of the `National Def
 
 ### Section 60
 
-As soon as feasible after the day on which section `7` comes into force, but no later than 60 days after that day, the Canadian Forces must transfer to the civilian authority having jurisdiction in the matter responsibility for any ongoing investigation into an offence referred to in any of paragraphs 70(2)(d) to (h) of the `National Defence Act`, as enacted by that section `7`, that was, or is alleged to have been, committed in Canada and for which a charge has not been laid under that Act or an information has not been laid under the `Criminal Code` before that day.
+As soon as feasible after the day on which section `7` comes into force, but no later than 60 days after that day, the Canadian Forces must transfer to the civilian authority having jurisdiction in the matter responsibility for any ongoing investigation into an offence referred to in any of paragraphs 70(d) to (h) of the `National Defence Act`, as enacted by that section `7`, that was, or is alleged to have been, committed in Canada and for which a charge has not been laid under that Act or an information has not been laid under the `Criminal Code` before that day.
 
 ### Section 61
 
-The `National Defence Act`, as it read immediately before the day on which section `7` comes into force, continues to apply in respect of an offence referred to in any of paragraphs 70(2)(d) to (h) of that Act, as enacted by that section `7`, that was, or is alleged to have been, committed in Canada and for which a charge has been laid under that Act or an information has been laid under the `Criminal Code` before that day.
+The `National Defence Act`, as it read immediately before the day on which section `7` comes into force, continues to apply in respect of an offence referred to in any of paragraphs 70(d) to (h) of that Act, as enacted by that section `7`, that was, or is alleged to have been, committed in Canada and for which a charge has been laid under that Act or an information has been laid under the `Criminal Code` before that day.
 
 ### Section 62
 
@@ -1166,6 +1208,33 @@ No charge alleging the commission of a service infraction, laid before the day o
     is, despite subsection 249.18(3) of the `National Defence Act`, as amended by that section `40`, eligible on the expiry of that term to be appointed under that subsection 249.18(1) for a single additional term of not more than seven years.
 
   **(2)** An inquiry under subsections 249.18(2) and (2.1) of the `National Defence Act`, as they read immediately before the day on which section `40` comes into force, that, immediately before that day, had not been completed, is continued in accordance with those subsections except that the inquiry committee must make its recommendation to the Governor in Council and that the Governor in Council has the power referred to in that subsection 249.18(2) to remove the Director of Defence Counsel Services from office.
+
+
+## Review
+
+### Section 65.1
+
+  **(1)** Within three years after the day on which sections 7 and 8 come into force, the Minister of National Defence must, in consultation with the Minister of Justice, cause an independent review to be undertaken of paragraphs 70(d) to (h) and sections 70.1 to 70.3 of the `National Defence Act` and their application.
+
+  **(2)** Within one year after the review is undertaken, the Minister of National Defence must cause a report on the review to be tabled in each House of Parliament.
+
+  **(3)** The report must be informed by consultations with appropriate authorities in the military and civilian justice systems, victims, advocates, scholars and other stakeholders.
+
+  **(4)** The report must include
+
+    statistics on the number of cases involving offences that were prosecuted in the civilian justice system as a result of paragraphs 70(d) to (h) of the `National Defence Act`, the outcomes of those cases and any other relevant information respecting the application of those paragraphs and sections 70.1 to 70.3 of that Act;
+
+    an evaluation of the services available for members of the Canadian Armed Forces who are victims of offences that were prosecuted in the civilian justice system as a result of paragraphs 70(d) to (h) of that Act;
+
+    an evaluation of the advantages and disadvantages of the application of paragraphs 70(d) to (h) and sections 70.1 to 70.3 of that Act for the military justice system and the authorities in the military justice system, and measures that may be taken to address those disadvantages;
+
+    measures that may be taken to enhance access to justice for members of the Canadian Armed Forces in relation to offences referred to in paragraphs 70(d) to (h) of that Act; and
+
+    the Minister of National Defence's opinion as to whether paragraphs 70(d) to (h) and sections 70.1 to 70.3 of that Act should be repealed.
+
+  **(5)** The report stands referred to the committee of the Senate, the House of Commons or both Houses of Parliament that may be designated or established for the purpose of reviewing the report.
+
+  **(6)** If the report indicates that the Minister of National Defence is of the opinion that paragraphs 70(d) to (h) and sections 70.1 to 70.3 of the `National Defence Act` should be repealed, the Minister may cause to be filed with the Speaker of the Senate and the Speaker of the House of Commons a motion for the adoption by each House of Parliament of a resolution that that House agrees with the Minister's opinion and calls on the government to introduce a bill to repeal those paragraphs and sections.
 
 
 ## Coordinating Amendments
