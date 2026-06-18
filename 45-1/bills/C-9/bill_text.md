@@ -46,7 +46,7 @@ Subsection 318(3) of the Act is replaced by the following:
 
       a symbol that is principally used by, or principally associated with, a listed entity, as defined in subsection 83.01(1);
 
-      the Nazi Hakenkreuz or the Nazi double Sig-Rune, also known as the SS bolts; or
+      the Nazi Hakenkreuz, the Nazi double Sig-Rune, also known as the SS bolts, or a noose; or
 
       a symbol that so nearly resembles a symbol described in paragraph (a) or (b) that it is likely to be a symbol described in paragraph (a) or (b).
 
