@@ -1,7 +1,5 @@
 # Bill C-22: An Act respecting lawful access
 
-**Sponsor**: MINISTER OF PUBLIC SAFETY
-
 Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act respecting lawful access*".
 
 ## Summary
@@ -99,8 +97,6 @@ Representations
 Intelligence Commissioner
 
 Duration
-
-[*Deleted*]
 
 Compliance with order
 
@@ -393,13 +389,13 @@ The Act is amended by adding the following after section 487.0141:
 
 ### Section 487.0142
 
-  **(1)** On ex parte application made by a peace officer or public officer, a justice or judge may order a person who provides services to the public to prepare and produce a document containing the subscriber information **referred to in any of paragraphs (a) to (c) of the definition subscriber information in section 487.011**
+  **(1)** On ex parte application made by a peace officer or public officer, a justice or judge may order a person who provides services to the public to prepare and produce a document containing the subscriber information referred to in any of paragraphs (a) to (c) of the definition subscriber information in section 487.011
 
     that is specified by the justice or judge in the order;
 
     that relates to any information, including transmission data, that is specified in the order; and
 
-    that is in **the person's** possession or control when they receive the order.
+    that is in the person's possession or control when they receive the order.
 
   **(2)** Before making the order, the justice or judge must be satisfied by information on oath in Form 5.004 that there are reasonable grounds to suspect that
 
@@ -964,7 +960,7 @@ In sections 20.22 to 20.26 and 20.5, **telecommunications service provider** has
 
 ### Section 20.22
 
-  **(1)** For the purpose of performing its duties and functions under section 12 or 16, the Service may make a demand in Form 0.1 of Schedule 2 to a telecommunications service provider requiring them to confirm, within the time and in the manner specified in the demand, whether or not they provide or have provided **telecommunications** services to any subscriber or client, or to any account or identifier, specified in the demand.
+  **(1)** For the purpose of performing its duties and functions under section 12 or 16, the Service may make a demand in Form 0.1 of Schedule 2 to a telecommunications service provider requiring them to confirm, within the time and in the manner specified in the demand, whether or not they provide or have provided telecommunications services to any subscriber or client, or to any account or identifier, specified in the demand.
 
   **(2)** For greater certainty, a demand must not be made if the confirmation would disclose medical information or information that is subject to solicitor-client privilege or the professional secrecy of advocates and notaries.
 
@@ -1044,7 +1040,7 @@ Section 27 of the Act is replaced by the following:
 
   **(2)** Paragraph 28(b.2) of the Act is replaced by the following:
 
-    governing the practice and procedure of, and security requirements applicable to, the making of applications under **sections 20.23** and 20.5 and **the hearing** of such applications; and
+    governing the practice and procedure of, and security requirements applicable to, the making of applications under sections 20.23 and 20.5 and the hearing of such applications; and
 
 ### Section 35
 
@@ -1184,7 +1180,7 @@ This Act may be cited as the `Supporting Authorized Access to Information Act`.
 
     **prescribed** means prescribed by the regulations. (**Version anglaise seulement**)
 
-    **systemic vulnerability** means a vulnerability in the electronic protections of an electronic service that creates a **credible** risk, **based on recognized international technical standards**, that secure information could be accessed by a person who does not have any right or authority to do so, **other than a risk that relates only to information related to persons with respect to whom a warrant, order or other authority to access information conferred under the `Criminal Code` or the `Canadian Security Intelligence Service Act` — or any similar authority conferred under another Act of Parliament — applies**. (**vulnérabilité systémique**)
+    **systemic vulnerability** means a vulnerability in the electronic protections of an electronic service that creates a credible risk, based on recognized international technical standards, that secure information could be accessed by a person who does not have any right or authority to do so, other than a risk that relates only to information related to persons with respect to whom a warrant, order or other authority to access information conferred under the `Criminal Code` or the `Canadian Security Intelligence Service Act` — or any similar authority conferred under another Act of Parliament — applies. (**vulnérabilité systémique**)
 
   **(2)** Nothing in this Act derogates from any authority to access information conferred under the `Criminal Code` or the `Canadian Security Intelligence Service Act` — or from any similar authority conferred under another Act of Parliament — or from any corresponding obligation imposed on an electronic service provider to assist in a person's exercise of such an authority.
 
@@ -1213,15 +1209,15 @@ This Act is binding on His Majesty in right of Canada or of a province.
 
   **(1)** The Governor in Council may, by regulation, amend the schedule by adding, amending or deleting a class of electronic service providers.
 
-  **(2)** The Governor in Council may make regulations **relating to** the obligations of core providers, respecting
+  **(2)** The Governor in Council may make regulations relating to the obligations of core providers, respecting
 
     the development, implementation, assessment, testing and maintenance of operational and technical capabilities, including capabilities related to extracting and organizing information that is authorized to be accessed and to providing access to such information to authorized persons;
 
-    the installation, use, operation, management, assessment, testing and maintenance of any device, equipment or other thing **by core providers** that may enable an authorized person to access information;
+    the installation, use, operation, management, assessment, testing and maintenance of any device, equipment or other thing by core providers that may enable an authorized person to access information;
 
     notices to be given to the Minister or other persons, including with respect to any capability referred to in paragraph (a) and any device, equipment or other thing referred to in paragraph (b); and
 
-    the retention of categories of metadata — including transmission data, as defined in section 487.011 of the `Criminal Code` — for reasonable periods of time not exceeding **six months**.
+    the retention of categories of metadata — including transmission data, as defined in section 487.011 of the `Criminal Code` — for reasonable periods of time not exceeding six months.
 
   **(3)** In making a regulation under subsection (2), the Governor in Council must take into account the following factors:
 
@@ -1247,7 +1243,7 @@ This Act is binding on His Majesty in right of Canada or of a province.
 
   **(4.1)** The Governor in Council may make a regulation requiring the retention of a category of metadata under paragraph (2)(d) only if the Governor in Council is satisfied that the category and all its elements are essential for facilitating effective and timely investigations under the `Criminal Code` or for facilitating the effective and timely exercise of powers or performance of duties and functions under the `Canadian Security Intelligence Service Act`.
 
-  **(5)** A core provider is not required to comply with a provision of a regulation made under subsection (2), with respect to an electronic service, if compliance with that provision would **have the effect of requiring** the provider to introduce a systemic vulnerability related to that service or **of preventing** the provider from rectifying such a vulnerability.
+  **(5)** A core provider is not required to comply with a provision of a regulation made under subsection (2), with respect to an electronic service, if compliance with that provision would have the effect of requiring the provider to introduce a systemic vulnerability related to that service or of preventing the provider from rectifying such a vulnerability.
 
   **(6)** For greater certainty, subsection (2) does not authorize the making of regulations that confer an authority to access personal information about the persons to whom the core provider provides services.
 
@@ -1271,7 +1267,7 @@ This Act is binding on His Majesty in right of Canada or of a province.
 
   **(3)** The provision with respect to which the exemption is sought does not apply to the core provider pending the determination of the application.
 
-  **(4)** **Within 90 days** after the **day on which the** application is submitted, **or within any other period that may be agreed on by the Minister and the core provider**, the Minister must make a decision in respect of it and give written notice of the decision to the core provider.
+  **(4)** Within 90 days after the day on which the application is submitted, or within any other period that may be agreed on by the Minister and the core provider, the Minister must make a decision in respect of it and give written notice of the decision to the core provider.
 
   **(5)** In a decision to deny the application, the Minister may specify the day by which the core provider must comply with the provision with respect to which the application was denied.
 
@@ -1282,13 +1278,13 @@ This Act is binding on His Majesty in right of Canada or of a province.
 
 ### Section 7
 
-  **(1)** Subject to section `8`, the Minister may make an order with respect to an electronic service provider and the order may contain any provision that may be contained in a regulation made under subsection `5`(2), whether or not the provider is a core provider. The order must specify **a** period, **not exceeding two years**, during which it **is valid**.
+  **(1)** Subject to section `8`, the Minister may make an order with respect to an electronic service provider and the order may contain any provision that may be contained in a regulation made under subsection `5`(2), whether or not the provider is a core provider. The order must specify a period, not exceeding two years, during which it is valid.
 
   **(1.1)** The order may also contain provisions respecting the disclosure of information contained in it and the disclosure of the fact that the electronic service provider is subject to it.
 
-  **(2)** The order is **not** valid **unless** it is approved by the Intelligence Commissioner under paragraph 20(1)(a) of the `Intelligence Commissioner Act` **and** the Intelligence Commissioner provides the Minister with the written decision approving the order.
+  **(2)** The order is not valid unless it is approved by the Intelligence Commissioner under paragraph 20(1)(a) of the `Intelligence Commissioner Act` and the Intelligence Commissioner provides the Minister with the written decision approving the order.
 
-  **(3)** In **deciding whether to make** the order, the Minister must take into account the following factors:
+  **(3)** In deciding whether to make the order, the Minister must take into account the following factors:
 
     the benefits of the order to the administration of justice, in particular to investigations under the `Criminal Code`, and to the exercise of powers and the performance of duties and functions under the `Canadian Security Intelligence Service Act`;
 
@@ -1304,7 +1300,7 @@ This Act is binding on His Majesty in right of Canada or of a province.
 
   **(4)** For the purpose of offsetting all or part of the costs referred to in paragraph (3)(c), in the order, the Minister may provide for compensation to be paid to the electronic service provider in an amount that the Minister considers appropriate and may include provisions with respect to the time and manner of payment.
 
-  **(5)** The electronic service provider is not required to comply with a provision of the order, with respect to an electronic service, if compliance with that provision would **have the effect of requiring** the provider to introduce a systemic vulnerability related to that service or **of preventing** the provider from rectifying such a vulnerability.
+  **(5)** The electronic service provider is not required to comply with a provision of the order, with respect to an electronic service, if compliance with that provision would have the effect of requiring the provider to introduce a systemic vulnerability related to that service or of preventing the provider from rectifying such a vulnerability.
 
   **(6)** The `Statutory Instruments Act` does not apply to an order made under subsection (1).
 
@@ -1324,26 +1320,22 @@ Before making an order under subsection `7`(1), the Minister must provide the el
 
 ### Section 10
 
-  **(1)** Unless revoked, an order made under subsection `7`(1) **is valid** for the period specified in the order.
+  **(1)** Unless revoked, an order made under subsection `7`(1) is valid for the period specified in the order.
 
   **(2)** Subsection `7`(2) and sections `8` and `9` do not apply in respect of an order that only revokes another order made under subsection `7`(1).
 
 ### Section 11
 
-[*Deleted*]
+Subject to subsection 7(5), an electronic service provider that is subject to an order made under subsection `7`(1) must comply with it.
 
 ### Section 12
-
-**Subject to subsection 7(5)**, an electronic service provider that is subject to an order made under subsection `7`(1) must comply with it.
-
-### Section 13
 
 An order made under subsection `7`(1) prevails over any regulation made under subsection `5`(2) to the extent of any inconsistency.
 
 
 ## Obligation to Assist
 
-### Section 14
+### Section 13
 
   **(1)** On request made by the Minister, an electronic service provider must provide all reasonable assistance to a person or class of persons specified in the request to permit the assessment or testing of any device, equipment or other thing that may enable an authorized person to access information.
 
@@ -1366,7 +1358,7 @@ An order made under subsection `7`(1) prevails over any regulation made under su
 
 ## Confidentiality
 
-### Section 15
+### Section 14
 
 An electronic service provider and any person acting on its behalf must not disclose any of the following information except as permitted under this Act or the `Canada Evidence Act`:
 
@@ -1374,19 +1366,17 @@ information contained in an order made under subsection `6`(1) or `7`(1);
 
 information on which the Minister relied in making the order;
 
-the fact that the electronic service provider is **or was** subject to the order;
+the fact that the electronic service provider is or was subject to the order;
 
 information provided in the course of representations made under section `8` or in any response given by the Minister and the fact that the Minister has invited the representations;
 
 information contained in an application referred to in subsection `6`(1) or in a decision made under subsection `6`(4);
 
-[*Deleted*]
-
 any prescribed information.
 
-### Section 15.1
+### Section 15
 
-  **(1)** At an electronic service provider's request, the Minister may issue a written authorization permitting, on any terms that the Minister considers reasonable, the electronic service provider to disclose any information referred to in section 15.
+  **(1)** At an electronic service provider's request, the Minister may issue a written authorization permitting, on any terms that the Minister considers reasonable, the electronic service provider to disclose any information referred to in section 14.
 
   **(2)** However, if the information that is the subject of a request made under subsection (1) is relevant to the exercise of a regulatory authority's powers or to the performance of its duties or functions, the Minister must issue a written authorization permitting, on any terms that the Minister considers reasonable, the electronic service provider to disclose that information to that authority.
 
@@ -1412,9 +1402,9 @@ information contained in an audit report referred to in section `23`.
 
 The Governor in Council may make regulations respecting confidentiality and security requirements with which electronic service providers and persons acting on their behalf must comply, including regulations
 
-respecting the disclosure of information referred to in section `15` or `16`;
+respecting the disclosure of information referred to in section `14` or `16`;
 
-establishing rules of procedure for the protection of information referred to in section `15` or `16` in administrative or judicial proceedings;
+establishing rules of procedure for the protection of information referred to in section `14` or `16` in administrative or judicial proceedings;
 
 respecting requirements related to employees of electronic service providers and other persons whose services may be engaged by electronic service providers — who participate in activities in relation to requests for access to information that is authorized under the `Criminal Code` or the `Canadian Security Intelligence Service Act` or in relation to compliance with this Act — including with respect to their security clearance and location; and
 
@@ -1507,7 +1497,7 @@ The electronic service provider must comply with the order and provide to the de
 
 ### Section 25
 
-  **(1)** **Subject to subsection 24(2.1)**, an electronic service provider that is subject to an order made under subsection `24`(1) must comply with it.
+  **(1)** Subject to subsection 24(2.1), an electronic service provider that is subject to an order made under subsection `24`(1) must comply with it.
 
   **(2)** Once the electronic service provider complies with the order, it must notify the designated person of its compliance without delay.
 
@@ -1551,7 +1541,7 @@ The purpose of an administrative monetary penalty is to promote compliance with 
 
   **(1)** A person who contravenes any of the following provisions commits a violation and is liable to a penalty of an amount that is to be established by a designated person in accordance with the regulations:
 
-    section `12`, subsection `14`(1), section `15`, subsection `20`(5), section `23` or subsection `25`(1) or (2);
+    section `11`, subsection `13`(1), section `14`, subsection `20`(5), section `23` or subsection `25`(1) or (2);
 
     a provision of the regulations designated by a regulation made under paragraph `47`(1)(e).
 
@@ -1689,7 +1679,7 @@ If an act or omission may be proceeded with either as a violation or as an offen
 
   **(1)** A person who contravenes any of the following provisions commits an offence:
 
-    section `12`, subsection `14`(1), section `15`, subsection `20`(5), section `23` or subsection `25`(1) or (2);
+    section `11`, subsection `13`(1), section `14`, subsection `20`(5), section `23` or subsection `25`(1) or (2);
 
     a provision of the regulations designated by a regulation made under paragraph `47`(1)(f).
 
@@ -1711,7 +1701,7 @@ If a person other than an individual commits an offence under subsection `41`(1)
 
 A person commits an offence if they knowingly obstruct or hinder any of the following persons who are exercising powers or performing duties or functions under this Act:
 
-a person to whom assistance must be provided under subsection `14`(1);
+a person to whom assistance must be provided under subsection `13`(1);
 
 a person designated under subsection `19`(1).
 
@@ -1719,7 +1709,7 @@ a person designated under subsection `19`(1).
 
 A person commits an offence if they knowingly make a false or misleading statement, verbally or in writing, to any of the following persons who are exercising powers or performing duties or functions under this Act:
 
-a person to whom assistance must be provided under subsection `14`(1);
+a person to whom assistance must be provided under subsection `13`(1);
 
 a person designated under subsection `19`(1).
 
@@ -1742,7 +1732,7 @@ in the case of any other person, to a fine of not more than $100,000 for a first
 
     respecting record-keeping and reporting by electronic service providers;
 
-    respecting the meaning of any term or expression for the purposes of this Act, **other than the terms and expressions defined in it**;
+    respecting the meaning of any term or expression for the purposes of this Act, other than the terms and expressions defined in it;
 
     respecting orders referred to in section `22` and reports referred to in section `23`;
 
@@ -1797,7 +1787,7 @@ For greater certainty, regulations made under this Act may establish classes of 
 
     information relating to the compliance orders made and enforcement actions taken under this Act;
 
-    the number of requests for assistance made under subsection `14`(1) and the classes of persons to whom assistance was provided; and
+    the number of requests for assistance made under subsection `13`(1) and the classes of persons to whom assistance was provided; and
 
     any other prescribed information.
 
