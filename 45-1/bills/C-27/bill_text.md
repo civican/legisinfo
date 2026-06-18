@@ -1,7 +1,5 @@
 # Bill C-27: An Act to give effect to the Final Self-Government Agreement for the 
 
-**Sponsor**: MINISTER OF CROWN-INDIGENOUS RELATIONS
-
 Her Excellency the Governor General recommends to the House of Commons the appropriation of public revenue under the circumstances, in the manner and for the purposes set out in a measure entitled "*An Act to give effect to the Final Self-Government Agreement for the Tłegǫ́hłı̨ Got'įnę and to make consequential amendments to other Acts*".
 
 ## Summary
@@ -294,11 +292,11 @@ the Tłegǫ́hłı̨ Got'įnę Government, as defined in section 2 of the `Final
 
   **(1)** The definition local government in section 2 of the `Mackenzie Valley Resource Management Act` is replaced by the following:
 
-    **local government** means any local government established under the laws of the Northwest Territories, including a city, town, village, hamlet, charter community, settlement or government of a Tlicho community, whether incorporated or not, and includes the territorial government in the case where it is acting in the place of that local government in accordance with those laws. It also includes the Déline Got'ine Government in the case where it is exercising the jurisdiction and authority set out in 9.1 of the Déline Agreement **and the Tłegǫ́hłı̨ Got'įnę Government in the case where it is exercising the jurisdiction and authority set out in 47.1 of the Tłegǫ́hłı̨ Got'įnę Agreement**. (**administration locale**)
+    **local government** means any local government established under the laws of the Northwest Territories, including a city, town, village, hamlet, charter community, settlement or government of a Tlicho community, whether incorporated or not, and includes the territorial government in the case where it is acting in the place of that local government in accordance with those laws. It also includes the Déline Got'ine Government in the case where it is exercising the jurisdiction and authority set out in 9.1 of the Déline Agreement and the Tłegǫ́hłı̨ Got'įnę Government in the case where it is exercising the jurisdiction and authority set out in 47.1 of the Tłegǫ́hłı̨ Got'įnę Agreement. (**administration locale**)
 
   **(2)** The definition Sahtu First Nation in section 2 of the Act is replaced by the following:
 
-    **Sahtu First Nation** means the Sahtu Dene and Metis as represented by The Sahtu Secretariat Incorporated, a corporation without share capital under Part II of the `Canada Corporations Act`, R.S.C. 1970, c. C-32, being the successor, for the purposes of this Act, to the Sahtu Tribal Council referred to in the Sahtu Agreement, or by any successor to that corporation. It also includes the Déline Got'ine Government **and the Tłegǫ́hłı̨ Got'įnę Government** in the case where The Sahtu Secretariat Incorporated or its successor has made a delegation or assignment to **those governments** of any powers and functions conferred under this Act. (**première nation du Sahtu**)
+    **Sahtu First Nation** means the Sahtu Dene and Metis as represented by The Sahtu Secretariat Incorporated, a corporation without share capital under Part II of the `Canada Corporations Act`, R.S.C. 1970, c. C-32, being the successor, for the purposes of this Act, to the Sahtu Tribal Council referred to in the Sahtu Agreement, or by any successor to that corporation. It also includes the Déline Got'ine Government and the Tłegǫ́hłı̨ Got'įnę Government in the case where The Sahtu Secretariat Incorporated or its successor has made a delegation or assignment to those governments of any powers and functions conferred under this Act. (**première nation du Sahtu**)
 
   **(3)** Section 2 of the Act is amended by adding the following in alphabetical order:
 
@@ -330,7 +328,7 @@ Subsection 5(1) of the Act is replaced by the following:
 
 ### Section 5
 
-  **(1)** If there is any inconsistency or conflict between this Act and a land claim agreement, the Déline Agreement, **the Tłegǫ́hłı̨ Got'įnę Agreement**, an Act giving effect to any of those agreements or the `Indian Act`, then the land claim agreement, the Déline Agreement, **the Tłegǫ́hłı̨ Got'įnę Agreement**, the Act or the `Indian Act` prevails over this Act to the extent of the inconsistency or conflict.
+  **(1)** If there is any inconsistency or conflict between this Act and a land claim agreement, the Déline Agreement, the Tłegǫ́hłı̨ Got'įnę Agreement, an Act giving effect to any of those agreements or the `Indian Act`, then the land claim agreement, the Déline Agreement, the Tłegǫ́hłı̨ Got'įnę Agreement, the Act or the `Indian Act` prevails over this Act to the extent of the inconsistency or conflict.
 
 ### Section 26
 
@@ -338,13 +336,13 @@ Subsection 8(1) of the Act is replaced by the following:
 
 ### Section 8
 
-  **(1)** The federal Minister shall consult the first nations, the Tlicho Government, the Déline Got'ine Government and **the Tłegǫ́hłı̨ Got'įnę Government** with respect to the amendment of this Act.
+  **(1)** The federal Minister shall consult the first nations, the Tlicho Government, the Déline Got'ine Government and the Tłegǫ́hłı̨ Got'įnę Government with respect to the amendment of this Act.
 
 ### Section 27
 
 Subsection 16(2) of the Act is replaced by the following:
 
-**(2)** A member of a board is not placed in a material conflict of interest merely because of any status or entitlement conferred on the member under the Gwich'in Agreement, the Sahtu Agreement, the Tlicho Agreement or any other agreement between a first nation and **His** Majesty in right of Canada for the settlement of a claim to lands or under the Déline Agreement **or theTłegǫ́hłı̨ Got'įnęAgreement**.
+**(2)** A member of a board is not placed in a material conflict of interest merely because of any status or entitlement conferred on the member under the Gwich'in Agreement, the Sahtu Agreement, the Tlicho Agreement or any other agreement between a first nation and His Majesty in right of Canada for the settlement of a claim to lands or under the Déline Agreement or theTłegǫ́hłı̨ Got'įnęAgreement.
 
 ### Section 28
 
@@ -352,7 +350,7 @@ Section 22 of the Act is replaced by the following:
 
 ### Section 22
 
-Subject to any other federal or territorial law and any Tlicho law, Déline law or **Tłegǫ́hłı̨ Got'įnę law**, a board may obtain from any department or agency of the federal or territorial government, the Tlicho Government, Déline Got'ine Government or **Tłegǫ́hłı̨ Got'įnę Government** any information in the possession of the department, agency, Tlicho Government, Déline Got'ine Government or **Tłegǫ́hłı̨ Got'įnę Government** that the board requires for the performance of its functions.
+Subject to any other federal or territorial law and any Tlicho law, Déline law or Tłegǫ́hłı̨ Got'įnę law, a board may obtain from any department or agency of the federal or territorial government, the Tlicho Government, Déline Got'ine Government or Tłegǫ́hłı̨ Got'įnę Government any information in the possession of the department, agency, Tlicho Government, Déline Got'ine Government or Tłegǫ́hłı̨ Got'įnę Government that the board requires for the performance of its functions.
 
 ### Section 29
 
@@ -360,7 +358,7 @@ Subsection 31(1) of the Act is replaced by the following:
 
 ### Section 31
 
-  **(1)** Sections 3, 5 and 11 of the `Statutory Instruments Act` do not apply in respect of rules under section 30, a land use plan or amendment to a land use plan under Part 2, rules under subsection 49(2), policy directions under subsection 50.1(1) or 83(1), (2), (2.1) or **(2.2)**, guidelines or policies under section 65, directions under section 106, policy directions under section 109 or 109.1 or subsection 142.2(1) or guidelines under section 120.
+  **(1)** Sections 3, 5 and 11 of the `Statutory Instruments Act` do not apply in respect of rules under section 30, a land use plan or amendment to a land use plan under Part 2, rules under subsection 49(2), policy directions under subsection 50.1(1) or 83(1), (2), (2.1) or (2.2), guidelines or policies under section 65, directions under section 106, policy directions under section 109 or 109.1 or subsection 142.2(1) or guidelines under section 120.
 
 ### Section 30
 
@@ -380,11 +378,11 @@ Section 63 of the Act is amended by adding the following after subsection (5):
 
   **(3)** Subsection 83(5) of the Act is replaced by the following:
 
-    **(5)** If there is a conflict between policy directions given by the federal Minister under subsection (1) and policy directions given by the Tlicho Government under subsection (2), by the Déline Got'ine Government under subsection (2.1) or **by the Tłegǫ́hłı̨ Got'įnęGovernment under subsection (2.2)**, the policy directions given under subsection (2), (2.1) or **(2.2)**, as the case may be, prevail to the extent of the conflict.
+    **(5)** If there is a conflict between policy directions given by the federal Minister under subsection (1) and policy directions given by the Tlicho Government under subsection (2), by the Déline Got'ine Government under subsection (2.1) or by the Tłegǫ́hłı̨ Got'įnęGovernment under subsection (2.2), the policy directions given under subsection (2), (2.1) or (2.2), as the case may be, prevail to the extent of the conflict.
 
   **(4)** Subsection 83(6) of the English version of the Act is replaced by the following:
 
-    **(6)** If there is a conflict between policy directions given by the federal Minister, the Tlicho Government, the Déline Got'ine Government or **theTłegǫ́hłı̨ Got'įnę Government** under this section and the provisions of any Act of Parliament, of any regulations made under an Act of Parliament or of any territorial law, those provisions prevail to the extent of the conflict.
+    **(6)** If there is a conflict between policy directions given by the federal Minister, the Tlicho Government, the Déline Got'ine Government or theTłegǫ́hłı̨ Got'įnę Government under this section and the provisions of any Act of Parliament, of any regulations made under an Act of Parliament or of any territorial law, those provisions prevail to the extent of the conflict.
 
 ### Section 32
 
@@ -414,7 +412,7 @@ Section 95 of the Act is replaced by the following:
 
 ### Section 95
 
-Despite subsection 72.03(1) or any territorial law, the Gwich'in and Sahtu First Nations, the Tlicho Government, the Déline Got'ine Government and **theTłegǫ́hłı̨ Got'įnę Government** are not required to pay any fee in respect of the use of waters or the deposit of waste for non-commercial purposes on their first nation lands, Tlicho lands, Déline lands or **Tłegǫ́hłı̨ Got'įnę Settlement Lands**, as the case may be.
+Despite subsection 72.03(1) or any territorial law, the Gwich'in and Sahtu First Nations, the Tlicho Government, the Déline Got'ine Government and theTłegǫ́hłı̨ Got'įnę Government are not required to pay any fee in respect of the use of waters or the deposit of waste for non-commercial purposes on their first nation lands, Tlicho lands, Déline lands or Tłegǫ́hłı̨ Got'įnę Settlement Lands, as the case may be.
 
 ### Section 36
 
@@ -447,9 +445,9 @@ Section 118 of the Act is replaced by the following:
 
 ### Section 118
 
-  **(1)** A licence, permit or other authorization required for the carrying out of a development shall not be issued under any federal **or** territorial **law**, Tlicho **law**, Déline law or **Tłegǫ́hłı̨ Got'įnę law** unless the requirements of this Part have been complied with.
+  **(1)** A licence, permit or other authorization required for the carrying out of a development shall not be issued under any federal or territorial law, Tlicho law, Déline law or Tłegǫ́hłı̨ Got'įnę law unless the requirements of this Part have been complied with.
 
-  **(2)** If the Gwich'in or Sahtu First Nation, the Tlicho Government, the Déline Got'ine Government, **the Tłegǫ́hłı̨ Got'įnę Government,** a local government or a department or agency of the federal or territorial government proposes to carry out a development that does not require a licence, permit or other authorization under any federal **or** territorial **law**, Tlicho **law,** Déline law or **Tłegǫ́hłı̨ Got'įnę law**, it shall comply with the requirements of this Part before taking any irrevocable action in relation to the development.
+  **(2)** If the Gwich'in or Sahtu First Nation, the Tlicho Government, the Déline Got'ine Government, the Tłegǫ́hłı̨ Got'įnę Government, a local government or a department or agency of the federal or territorial government proposes to carry out a development that does not require a licence, permit or other authorization under any federal or territorial law, Tlicho law, Déline law or Tłegǫ́hłı̨ Got'įnę law, it shall comply with the requirements of this Part before taking any irrevocable action in relation to the development.
 
 ### Section 40
 
@@ -457,13 +455,13 @@ Section 121 of the Act is replaced by the following:
 
 ### Section 121
 
-The Review Board, a review panel of the Review Board, a review panel or joint panel established jointly by the Review Board and any other person or body, the federal Minister, a responsible minister, a designated regulatory agency, a regulatory authority, a department or agency of the federal or territorial government, a local government, the Gwich'in or Sahtu First Nation, the Tlicho Government, the Déline Got'ine Government or **theTłegǫ́hłı̨ Got'įnę Government** shall issue and make available to the public written reasons for any decision or recommendation made under the process established by this Part.
+The Review Board, a review panel of the Review Board, a review panel or joint panel established jointly by the Review Board and any other person or body, the federal Minister, a responsible minister, a designated regulatory agency, a regulatory authority, a department or agency of the federal or territorial government, a local government, the Gwich'in or Sahtu First Nation, the Tlicho Government, the Déline Got'ine Government or theTłegǫ́hłı̨ Got'įnę Government shall issue and make available to the public written reasons for any decision or recommendation made under the process established by this Part.
 
 ### Section 41
 
 Subsection 123.2(2) of the Act is replaced by the following:
 
-**(2)** A person is not placed in a material conflict of interest merely because of any status or entitlement conferred on the person under the Gwich'in Agreement, the Sahtu Agreement, the Tlicho Agreement or any other agreement between a first nation and **His** Majesty in right of Canada for the settlement of a claim to lands or under the Déline Agreement **or the Tłegǫ́hłı̨ Got'įnę Agreement**.
+**(2)** A person is not placed in a material conflict of interest merely because of any status or entitlement conferred on the person under the Gwich'in Agreement, the Sahtu Agreement, the Tlicho Agreement or any other agreement between a first nation and His Majesty in right of Canada for the settlement of a claim to lands or under the Déline Agreement or the Tłegǫ́hłı̨ Got'įnę Agreement.
 
 
 ### First Nations Goods and Services Tax Act
