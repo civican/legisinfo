@@ -1,7 +1,5 @@
 # Bill S-227: An Act respecting Arab Heritage Month
 
-**Sponsor**: Senator AL ZAIBAK
-
 ## Summary
 
 This enactment designates the month of April as "Arab Heritage Month".
