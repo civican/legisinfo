@@ -1,0 +1,45 @@
+name: Scrape LegisInfo Bills
+
+on:
+  schedule:
+    - cron: '0 6 * * *' # Run daily at 6:00 AM UTC
+  workflow_dispatch: # Allow manual triggers via the GitHub Actions UI
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Required to allow pushing commits back to the repo
+
+    steps:
+      - name: Checkout data repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Required to preserve version history and git diff checks
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install civican-scraper
+        run: |
+          uv tool install git+https://github.com/civican/civican-scraper.git
+
+      - name: Configure Git Committer
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Run Scraper
+        run: |
+          civican-scraper legisinfo --repo . --session 45-1
+
+      - name: Push commits
+        run: |
+          git push origin HEAD:main
