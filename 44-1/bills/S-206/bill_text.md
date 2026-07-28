@@ -4,7 +4,7 @@
 
 This enactment amends the `Criminal Code` to provide that the prohibition against the disclosure of information relating to jury proceedings does not apply, in certain circumstances, in respect of disclosure by jurors to health care professionals.
 
-Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+His Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
 
 ## `Criminal Code`

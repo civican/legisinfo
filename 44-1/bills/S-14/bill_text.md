@@ -1,5 +1,7 @@
 # Bill S-14: An Act to amend the Canada National Parks Act, the Canada National Marine Conservation Areas Act, the Rouge National Urban Park Act and the National Parks of Canada Fishing Regulations
 
+**Sponsor**: THE HONOURABLE SENATOR GOLD, P.C
+
 ## Summary
 
 This enactment amends the `Canada National Parks Act` to, among other things,
@@ -61,7 +63,15 @@ This Act may be cited as the `Protecting Canada's Natural Wonders Act`.
 
 Paragraph 16(1)(t) of the `Canada National Parks Act` is replaced by the following:
 
-the use, transportation and storage of pesticides and other toxic substances, including products treated with or containing any of those substances;
+the use, transportation and storage of pesticides and other toxic substances, **including products treated with or containing any of those substances**;
+
+
+> **Explanatory Note**:
+> Relevant portion of subsection 16(1):
+> *Existing Text*:
+> > The Governor in Council may make regulations respecting
+> > 
+> > the use, transportation and temporary storage of pesticides and other toxic substances;
 
 ### Section 3
 
@@ -69,28 +79,42 @@ The portion of subsection 24(1) of the Act before paragraph (a) is replaced by t
 
 ### Section 24
 
-  **(1)** Every person who contravenes section 13, subsection 32(1) or (2) or a provision of the regulations designated by regulations made under paragraph 16(1)(y) or who fails to take measures that they are ordered to take under subsection 32(3) is guilty of an offence and liable
+  **(1)** Every person who contravenes section 13, subsection 32(1) **or (2)** or a provision of the regulations designated by regulations made under paragraph 16(1)(y) **or who fails to take measures that they are ordered to take under subsection 32(3)** is guilty of an offence and liable
+
+
+> **Explanatory Note**:
+> Relevant portion of subsection 24(1):
+> *Existing Text*:
+> > Every person who contravenes section 13, subsection 32(1) or a provision of the regulations designated by regulations made under paragraph 16(1)(y) is guilty of an offence and liable
 
 ### Section 4
 
 Section 32 of the Act and the heading before it are replaced by the following:
 
 
-## Discharge or Deposit of Substances
+## **Discharge or Deposit of Substances**
 
 ### Section 32
 
   **(1)** It is prohibited to discharge or deposit a substance in a park if the discharge or deposit degrades the natural environment, injures fauna, flora or cultural resources, endangers human health or public safety or is likely to do any of those things.
 
-  **(2)** If the discharge or deposit of a substance in a park degrades the natural environment, injures fauna, flora or cultural resources, endangers human health or public safety or is likely to do any of those things, any person who has charge, management or control of the substance and any person who caused or contributed to the discharge or deposit shall
+  **(2)** **If** the **discharge or deposit** of a **substance in a park degrades** the natural environment, **injures** fauna, flora or cultural resources, **endangers human health or public safety or is likely to do any of those things**, any person who has charge, management or control of the substance **and** any **person who caused or contributed to the discharge or deposit** shall
 
     notify the superintendent without delay; and
 
     take reasonable measures to prevent, mitigate or remediate harm and to prevent or minimize danger, as the case may be.
 
-  **(3)** If the superintendent of the park is of the opinion that a person is not taking the measures required by paragraph (2)(b), the superintendent shall order the person to take those measures. If the person fails to take the measures that they are ordered to take, the Minister shall take the measures on behalf of His Majesty in right of Canada.
+  **(3)** If the superintendent of **the** park is of the opinion that a person is not taking the measures required by subsection **(2)(b)**, the superintendent may **order** the person to take those measures. If the person fails to **take the measures that they are ordered to take,** the Minister may **take the** measures on behalf of **His** Majesty in right of Canada.
 
-  **(4)** A person who fails to take the measures that they are ordered to take is liable for the expenses reasonably incurred by His Majesty in right of Canada in taking the measures. Those expenses may be recovered from the person, with costs, in proceedings brought in the name of His Majesty in any court of competent jurisdiction.
+  **(**4**)** A person who fails to **take the measures that they are ordered to take** is liable for the expenses reasonably incurred by **His** Majesty in right of Canada in taking the measures. Those expenses may be recovered from **the** person, with costs, in proceedings brought in the name of **His** Majesty in any court of competent jurisdiction.
+
+
+> **Explanatory Note**:
+> Existing text of the heading and section 32:
+> *Existing Text*:
+> > Where a substance that is capable of degrading the natural environment, injuring fauna, flora or cultural resources or endangering human health is discharged or deposited in a park, any person who has charge, management or control of the substance shall take reasonable measures to prevent any degradation of the natural environment and any danger to the fauna, flora or cultural resources or to persons that may result from the discharge or deposit.
+> > If the superintendent of a park is of the opinion that a person is not taking the measures required by subsection (1), the superintendent may direct the person to take those measures and, if the person fails to do so, the Minister may direct those measures to be taken on behalf of Her Majesty in right of Canada.
+> > A person who fails to comply with a direction given by a superintendent under subsection (2) is liable for the expenses reasonably incurred by Her Majesty in right of Canada in taking the measures directed, and those expenses may be recovered from that person, with costs, in proceedings brought in the name of Her Majesty in any court of competent jurisdiction.
 
 ### Section 5
 
@@ -98,7 +122,13 @@ Section 39 of the Act is replaced by the following:
 
 ### Section 39
 
-Subject to sections 40 to 41.7, this Act applies to a park reserve as if it were a park.
+Subject to sections 40 to **41.7**, this Act applies to a park reserve as if it were a park.
+
+
+> **Explanatory Note**:
+> Existing text of section 39:
+> *Existing Text*:
+> > Subject to sections 40 to 41.5, this Act applies to a park reserve as if it were a park.
 
 ### Section 6
 
@@ -112,11 +142,11 @@ Subject to sections 40 to 41.7, this Act applies to a park reserve as if it were
 
       **(3)** Those leases and licences of occupation may be renewed in accordance with their terms and conditions. If a lease or licence of occupation does not provide for its renewal, then it may be renewed in accordance with this Act.
 
-      **(4)** The Minister may enter into leases of public lands in Akami-Uapishkᵁ–KakKasuak–Mealy Mountains National Park Reserve of Canada for the personal use or occupation of existing cabins, or may issue licences for the personal use or occupation of existing cabins on those lands, and may renew or approve the assignment of those leases or licences.
+      **(4)** The Minister may enter into leases of public lands in Akami-Uapishkᵁ–KakKasuak–Mealy Mountains National Park Reserve of Canada for the personal use or occupation of cabins, or may issue licences for the personal use or occupation of cabins on those lands, and may renew or approve the assignment of those leases or licences.
 
-      **(5)** The Minister may enter into leases of public lands in Akami-Uapishkᵁ–KakKasuak–Mealy Mountains National Park Reserve of Canada for the personal use or occupation of existing tilts, or may issue licences for the personal use or occupation of existing tilts on those lands, and may renew or approve the assignment of those leases or licences.
+      **(5)** The Minister may enter into leases of public lands in Akami-Uapishkᵁ–KakKasuak–Mealy Mountains National Park Reserve of Canada for the establishment or personal use or occupation of tilts, or may issue licences for the establishment, personal use or occupation of tilts on those lands, and may renew or approve the assignment of those leases or licences.
 
-      **(6)** The superintendent of Akami-Uapishkᵁ–KakKasuak–Mealy Mountains National Park Reserve of Canada may authorize the personal use or occupation of existing cabins on public lands in the park reserve, or the personal use or occupation of existing tilts on those lands, and may renew or approve the assignment of those authorizations.
+      **(6)** The superintendent of Akami-Uapishkᵁ–KakKasuak–Mealy Mountains National Park Reserve of Canada may authorize the personal use or occupation of cabins on public lands in the park reserve, or the establishment, personal use or occupation of tilts on those lands, and may renew or approve the assignment of those authorizations.
 
 ### Section 41.7
 
@@ -212,6 +242,8 @@ Subject to sections 40 to 41.7, this Act applies to a park reserve as if it were
 
         a beneficiary, as defined in section 1.1.1 of the Agreement;
 
+        an individual who is a member of NunatuKavut Community Council Inc., a corporation without share capital incorporated under the laws of Newfoundland and Labrador;
+
         an individual who was born in the designated area;
 
         an individual who was born to a biological parent who, at the time of the individual's birth, was ordinarily resident in the designated area;
@@ -220,7 +252,7 @@ Subject to sections 40 to 41.7, this Act applies to a park reserve as if it were
 
         an individual who was or has been ordinarily resident in the designated area for at least 10 consecutive years; or
 
-        a child, spouse or common-law partner of an individual described in any of paragraphs (a) to (e). (**utilisateur traditionnel des terres**)
+        a child, spouse or common-law partner of an individual described in any of paragraphs (a) to (f). (**utilisateur traditionnel des terres**)
 
 ### Section 41.8
 
@@ -595,21 +627,29 @@ Schedule 1 to the `Canada National Marine Conservation Areas Act` is amended by 
 Section 17 of the `Rouge National Urban Park Act` and the heading before it are replaced by the following:
 
 
-## Discharge or Deposit of Substances
+## **Discharge or Deposit of Substances**
 
 ### Section 17
 
   **(1)** It is prohibited to discharge or deposit a substance in the Park if the discharge or deposit degrades the natural environment, injures natural or cultural resources, endangers human health or public safety or is likely to do any of those things.
 
-  **(2)** If the discharge or deposit of a substance in the Park degrades the natural environment, injures natural or cultural resources, endangers human health or public safety or is likely to do any of those things, any person who has charge, management or control of the substance and any person who caused or contributed to the discharge or deposit must
+  **(2)** **If the discharge** or **deposit** of **a substance in** the **Park degrades the** natural environment, **injures** natural **or** cultural resources, **endangers human health or public safety or is likely** to **do** any **of those things**, any person who has charge, management or control of the substance and any person who caused or contributed to the **discharge** or **deposit must**
 
     notify the superintendent without delay; and
 
     take reasonable measures to prevent, mitigate or remediate harm and to prevent or minimize danger, as the case may be.
 
-  **(3)** If the superintendent is of the opinion that a person is not taking the required measures, the superintendent must order the person to take those measures. If the person fails to take the measures that they are ordered to take, the Minister must take the measures on behalf of His Majesty in right of Canada.
+  **(3)** If the superintendent is of the opinion that a person is not taking the required measures, the superintendent may order the person to take those measures. If the person fails to **take the measures that they are ordered to take,** the Minister may take **the** measures on behalf of **His** Majesty in right of Canada.
 
-  **(4)** A person who fails to take the measures that they are ordered to take is liable for the expenses reasonably incurred by His Majesty in right of Canada in taking the measures. Those expenses may be recovered from the person, with costs, in proceedings brought in the name of His Majesty in any court of competent jurisdiction.
+  **(**4**)** A person who fails to **take** the **measures** that **they are ordered to take** is liable for the expenses reasonably incurred by **His** Majesty in right of Canada in taking the measures. Those expenses may be recovered from **the** person, with costs, in proceedings brought in the name of **His** Majesty in any court of competent jurisdiction.
+
+
+> **Explanatory Note**:
+> Existing text of the heading and section 17:
+> *Existing Text*:
+> > If a substance that is capable of degrading the natural environment, injuring natural or cultural resources or endangering human health is discharged or deposited in the Park, any person who has charge, management or control of the substance and any person who caused or contributed to the discharge or deposit must take reasonable measures to prevent any degradation of the natural environment and any danger to natural or cultural resources or to human health that may result from the discharge or deposit.
+> > If the superintendent is of the opinion that a person is not taking the required measures, the superintendent may order the person to take those measures and, if the person fails to do so, the Minister may take those measures on behalf of Her Majesty in right of Canada.
+> > A person who fails to comply with an order given by the superintendent is liable for the expenses reasonably incurred by Her Majesty in right of Canada in taking the measures, and those expenses may be recovered from that person, with costs, in proceedings brought in the name of Her Majesty in any court of competent jurisdiction.
 
 ### Section 20
 
@@ -617,7 +657,13 @@ Section 19 of the Act is replaced by the following:
 
 ### Section 19
 
-For greater certainty, subsections 17(1) and (2) and 18(2) do not prevent the carrying out of agricultural activities by a lessee of public lands in the Park in accordance with their lease.
+For greater certainty, subsections 17(1) **and (2)** and 18(2) do not prevent the carrying out of agricultural activities by a lessee of public lands in the Park in accordance with their lease.
+
+
+> **Explanatory Note**:
+> Existing text of section 19:
+> *Existing Text*:
+> > For greater certainty, subsections 17(1) and 18(2) do not prevent the carrying out of agricultural activities by a lessee of public lands in the Park in accordance with their lease.
 
 ### Section 21
 
@@ -625,7 +671,13 @@ The portion of subsection 33(1) of the Act before paragraph (a) is replaced by t
 
 ### Section 33
 
-  **(1)** Every person who contravenes subsection 17(1) or (2) or who fails to take measures that they are ordered to take under subsection 17(3) is guilty of an offence and liable
+  **(1)** Every person who contravenes subsection 17(1) **or (2) or who fails to take measures that they are ordered to take under subsection 17(3)** is guilty of an offence and liable
+
+
+> **Explanatory Note**:
+> Relevant portion of subsection 33(1):
+> *Existing Text*:
+> > Every person who contravenes subsection 17(1) is guilty of an offence and liable
 
 
 ## Consequential Amendments to the `National Parks of Canada Fishing Regulations`

@@ -49,6 +49,8 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
     **(2.1)** For the purposes of paragraph (2)(a), a mental illness is not considered to be an illness, disease or disability.
 
+  **(2.1)** Subsection 241.2(2.1) of the Act is repealed.
+
   **(3)** The portion of subsection 241.2(3) of the Act before paragraph (a) is replaced by the following:
 
     **(3)** Subject to subsection (3.2), before a medical practitioner or nurse practitioner provides medical assistance in dying to a person whose natural death is reasonably foreseeable, taking into account all of their medical circumstances, without a prognosis necessarily having been made as to the specific length of time that they have remaining, the medical practitioner or nurse practitioner must
@@ -168,9 +170,23 @@ A medical practitioner or nurse practitioner who, in providing medical assistanc
 
       **(2)** Unless they are exempted under regulations made under subsection (3), a pharmacist who dispenses a substance in connection with the provision of medical assistance in dying, or the person permitted to act as a pharmacy technician under the laws of a province who dispenses a substance to aid a medical practitioner or nurse practitioner in providing a person with medical assistance in dying, must, in accordance with those regulations, provide the information required by those regulations to the recipient designated in those regulations.
 
-  **(2)** Subparagraph 241.31(3)(a)(i) of the Act is replaced by the following:
+  **(2)** The portion of paragraph 241.31(3)(a) before subparagraph (ii) of the Act is replaced by the following:
 
-    the information to be provided, at various stages, by medical practitioners, nurse practitioners, persons referred to in subsection (1.1) who have the responsibility to carry out preliminary assessments, pharmacists and pharmacy technicians, or by a class of any of them, including the elements considered in the course of the assessments — preliminary or otherwise — of whether a person meets the criteria set out in subsection 241.2(1),
+    respecting the provision and collection, for the purpose of monitoring medical assistance in dying, of information relating to requests for, and the provision of, medical assistance in dying, including
+
+    the information to be provided, at various stages, by medical practitioners, nurse practitioners, persons referred to in subsection (1.1) who have the responsibility to carry out preliminary assessments, pharmacists and pharmacy technicians, or by a class of any of them, including
+
+    the elements considered in the course of the assessments — preliminary or otherwise — of whether a person meets the criteria set out in subsection 241.2(1),
+
+    information respecting the race or indigenous identity of a person who requests or receives medical assistance in dying, if the person consents to providing this information, and
+
+    information — other than information that must be provided in relation to the assessment of eligibility to receive medical assistance in dying and the application of safeguards — respecting any disability, as defined in section 2 of the `Accessible Canada Act`, of a person who requests or receives medical assistance in dying, if the person consents to providing that information,
+
+  **(2.1)** Paragraph 241.31(3)(b) of the Act is replaced by the following:
+
+    respecting the use, analysis and interpretation of that information, including for the purposes of determining the presence of any inequality — including systemic inequality — or disadvantage based on race, Indigenous identity, disability or other characteristics, in medical assistance in dying;
+
+    respecting the protection, publication, and disclosure of that information;
 
   **(3)** Paragraph 241.31(3)(d) of the Act is replaced by the following:
 
@@ -186,9 +202,44 @@ A medical practitioner or nurse practitioner who, in providing medical assistanc
 appropriate, consult with the minister responsible for the status of persons with disabilities.
 
 
+## Independent Review
+
+### Section 3.1
+
+  **(1)** The Minister of Justice and the Minister of Health must cause an independent review to be carried out by experts respecting recommended protocols, guidance and safeguards to apply to requests made for medical assistance in dying by persons who have a mental illness.
+
+  **(2)** A report containing the experts' conclusions and recommendations must be provided to the Ministers no later than the first anniversary of the day on which this Act receives royal assent.
+
+  **(3)** The Ministers must cause the report to be tabled in each House of Parliament within the first 15 days on which the House is sitting after the day on which they receive the report.
+
+
 ## Transitional Provision
 
 ### Section 4
 
 A medical practitioner or nurse practitioner who provides medical assistance in dying to a person who, before the day on which this Act receives royal assent, had signed and dated a written request for medical assistance in dying must provide it in accordance with section 241.2 of the `Criminal Code` as it read immediately before that day, other than paragraph 241.2(3)(g), and with subsections 241.2(3.2) to (3.5) of that Act, as enacted by this Act.
+
+
+## Review
+
+### Section 5
+
+  **(1)** A comprehensive review of the provisions of the `Criminal Code` relating to medical assistance in dying and their application, including but not limited to issues relating to mature minors, advance requests, mental illness, the state of palliative care in Canada and the protection of Canadians with disabilities must be undertaken by a Joint Committee of both Houses of Parliament.
+
+  **(2)** The Joint Committee shall be composed of five Members of the Senate and ten Members of the House of Commons, including five Members from the governing party, three Members of the Official Opposition, and two Members of the opposition who are not Members of the Official Opposition, with two Chairs of which the House Co-Chair shall be from the governing party and the Senate Co-Chair shall be determined by the Senate.
+
+  **(3)** The quorum of the Committee is to be eight Members whenever a vote, resolution or other decision is taken, so long as both Houses and one Member of the governing party in the House and one from the opposition in the House and one Member of the Senate are represented, and that the Joint Chairs be authorized to hold meetings, to receive evidence and authorize the printing thereof, whenever six Members are present, so long as both Houses and one Member of the governing party in the House and one Member from the opposition in the House and one Member of the Senate are represented.
+
+  **(4)** The Committee must commence its review within 30 days after the day on which this Act receives royal assent.
+
+  **(5)** The Committee must submit a report of its review — including a statement of any recommended changes — to Parliament no later than one year after the day on which it commenced the review.
+
+  **(6)** When the report, referenced in paragraph (5), has been tabled in both Houses, the Committee shall expire.
+
+
+## Coming into Force
+
+### Section 6
+
+Subsection 1(2.1) comes into force on the second anniversary of the day on which this Act receives royal assent.
 

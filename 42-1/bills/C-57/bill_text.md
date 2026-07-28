@@ -93,7 +93,7 @@ Subsection 7(2) of the Act is replaced by the following:
 
   **(3)** Subsection 8(3) of the Act is replaced by the following:
 
-    **(2.1)** The mandate of the Sustainable Development Advisory Council is to advise the Minister on any matter related to sustainable development that is referred to it by the Minister.
+    **(2.1)** The mandate of the Sustainable Development Advisory Council is to advise the Minister on any matter related to sustainable development, including matters referred to it by the Minister.
 
     **(3)** The representatives appointed to the Sustainable Development Advisory Council may be paid reasonable expenses incurred by them in connection with the business of the Council, subject to applicable Treasury Board dir­ectives.
 
@@ -206,6 +206,47 @@ The Act is amended by adding the following after section 13:
 ### Section 10
 
 The schedule to the Act is replaced by the schedule set out in the schedule to this Act.
+
+
+## Consequential Amendments to the Auditor General Act
+
+### Section 10.1
+
+  **(1)** The definition **category I department** in section 2 of the `Auditor General Act` is repealed.
+
+  **(2)** Section 2 of the Act is amended by adding the following in alphabetical order:
+
+    **designated entity** has the same meaning as in section 2 of the `Federal Sustainable Development Act`; (**entité désignée**)
+
+### Section 10.2
+
+The portion of section 21.1 of the Act before paragraph (a) is replaced by the following:
+
+### Section 21.1
+
+In addition to carrying out the functions referred to in subsection 23(3), the purpose of the Commissioner is to provide sustainable development monitoring and reporting on the progress of designated entities towards sustainable development, which is a continually evolving concept based on the integration of social, economic and environmental concerns, and which may be achieved by, among other things,
+
+### Section 10.3
+
+Subsection 22(1) of the Act is replaced by the following:
+
+### Section 22
+
+  **(1)** Where the Auditor General receives a petition in writing from a resident of Canada about an environmental matter in the context of sustainable development that is the responsibility of a designated entity, the Auditor General shall make a record of the petition and forward the petition within fifteen days after the day on which it is received to the appropriate Minister for the designated entity.
+
+### Section 10.4
+
+  **(1)** Paragraph 23(1)(a) of the Act is replaced by the following:
+
+    the extent to which designated entities have contributed to meeting the targets set out in the Federal Sustainable Development Strategy and have met the objectives, and implemented the plans, set out in their own sustainable development strategies laid before the Houses of Parliament under section 11 or 12 of the `Federal Sustainable Development Act`; and
+
+  **(2)** Paragraph 23(2)(a) of the Act is replaced by the following:
+
+    the extent to which designated entities have contributed to meeting the targets set out in the Federal Sustainable Development Strategy and have met the objectives, and implemented the plans, set out in their own sustainable development strategies laid before the Houses of Parliament under section 11 or 12 of the `Federal Sustainable Development Act`;
+
+  **(3)** Paragraph 23(2)(c) of the Act is replaced by the following:
+
+    the exercising of the authority of the Governor in Council under sections 12.2 and 12.3 of the `Federal Sustainable Development Act`.
 
 
 ## Transitional Provisions

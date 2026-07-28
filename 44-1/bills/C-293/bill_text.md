@@ -2,11 +2,9 @@
 
 ## Summary
 
-This enactment enacts the `Pandemic Prevention and Preparedness Act` to require the Minister of Health to establish an advisory committee to review the response to the COVID-19 pandemic in Canada in order to reduce the risks associated with future pandemics and inform a pandemic prevention and preparedness plan.
+This enactment enacts the `Pandemic Prevention and Preparedness Act` to require the Minister of Health to establish, in consultation with other ministers, a pandemic prevention and preparedness plan, which is to include information provided by those ministers.
 
-It also requires the Minister of Health to establish, in consultation with other ministers, a pandemic prevention and preparedness plan, which is to include information provided by those ministers.
-
-Finally, it amends the `Department of Health Act` to provide that the Minister of Health must appoint a national pandemic prevention and preparedness coordinator from among the officials of the Public Health Agency of Canada to coordinate the activities under the `Pandemic Prevention and Preparedness Act`.
+It also amends the `Department of Health Act` to provide that the Minister of Health must appoint a national pandemic prevention and preparedness coordinator from among the officials of the Public Health Agency of Canada to coordinate the activities under the `Pandemic Prevention and Preparedness Act`.
 
 Whereas the costs of prevention and preparedness measures are insignificant in comparison to the human and economic costs of a pandemic;
 
@@ -18,7 +16,7 @@ Whereas a One Health approach — a multisectoral and multidisciplinary collabor
 
 And whereas this approach requires sustained collaboration among various ministers, all levels of government and Indigenous communities;
 
-Now, therefore, Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+Now, therefore, His Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
 
 ## Short Title
@@ -35,30 +33,9 @@ This Act may be cited as the `Pandemic Prevention and Preparedness Act`.
 The purpose of this Act is to prevent the risk of and prepare for future pandemics and to promote transparency and accountability in relation to the Government of Canada's efforts to do so.
 
 
-## Comprehensive Review of the COVID-19 Response
-
-### Section 3
-
-  **(1)** Within 90 days after the day on which this Act comes into force, the Minister of Health must establish an advisory committee to review the response to the coronavirus disease 2019 (COVID-19) pandemic in Canada.
-
-  **(2)** The function of the advisory committee is to make recommendations for the improvement, throughout Canada, of preparedness efforts and response capabilities in relation to disease outbreaks in order to reduce the risks associated with future pandemics.
-
-  **(3)** The committee must be gender-balanced and is to be composed of persons who reflect a range of relevant backgrounds and disciplines.
-
-  **(4)** In conducting its review, the advisory committee is, among other things, to
-
-    assess the capability of the Public Health Agency of Canada and the Department of Health to respond to the coronavirus disease 2019 (COVID-19) pandemic before and during the pandemic;
-
-    in collaboration with provincial and municipal governments, assess the public health and pandemic response capabilities of those governments;
-
-    assess the effectiveness of the exercise of powers under any applicable federal laws before, during and after the pandemic and of the coordination of measures taken under those laws; and
-
-    analyse the health, economic and social factors relevant to the impact of the pandemic in Canada.
-
-
 ## Pandemic Prevention and Preparedness Plan
 
-### Section 4
+### Section 3
 
   **(1)** The Minister of Health must establish a pandemic prevention and preparedness plan.
 
@@ -138,7 +115,7 @@ The purpose of this Act is to prevent the risk of and prepare for future pandemi
 
   **(5)** The Minister of Health must publish the report on the website of the Department of Health within 10 days after it has been tabled in both Houses of Parliament.
 
-### Section 5
+### Section 4
 
   **(1)** The Minister of Health must update the pandemic prevention and preparedness plan at least once every three years and cause a report setting out the updated plan to be tabled in each House of Parliament on any of the first 15 days on which that House is sitting after it is completed.
 
@@ -146,16 +123,16 @@ The purpose of this Act is to prevent the risk of and prepare for future pandemi
 
     report on the progress that has been made towards preventing pandemic risk and improving preparedness efforts in Canada;
 
-    in collaboration with the relevant ministers, provide any relevant updates on the information described under subsection 4(2); and
+    in collaboration with the relevant ministers, provide any relevant updates on the information described under subsection 3(2); and
 
-    take into account the considerations set out in subsection 4(3).
+    take into account the considerations set out in subsection 3(3).
 
   **(3)** The Minister of Health must publish the report on the website of the Department of Health within 10 days after it has been tabled in both Houses of Parliament.
 
 
 ## Amendment to the Department of Health Act
 
-### Section 6
+### Section 5
 
 The `Department of Health Act` is amended by adding the following after section 4.1:
 

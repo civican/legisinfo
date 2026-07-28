@@ -10,7 +10,7 @@ specify that the Act does not apply in respect of programs uploaded to an online
 
 update the broadcasting policy for Canada set out in section 3 of the Act by, among other things, providing that the Canadian broadcasting system should
 
-serve the needs and interests of all Canadians, including Canadians from racialized communities and Canadians of diverse ethnocultural backgrounds, socio-economic statuses, abilities and disabilities, sexual orientations, gender identities and expressions, and ages, and
+serve the needs and interests of all Canadians, including Canadians from Black or other racialized communities and Canadians of diverse ethnocultural backgrounds, socio-economic statuses, abilities and disabilities, sexual orientations, gender identities and expressions, and ages, and
 
 provide opportunities to Indigenous persons, programming that reflects Indigenous cultures and that is in Indigenous languages, and programming that is accessible without barriers to persons with disabilities;
 
@@ -24,11 +24,17 @@ takes into account, among other things, the nature and diversity of the services
 
 ensures that any broadcasting undertaking that cannot make maximum or predominant use of Canadian creative and other human resources in the creation, production and presentation of programming contributes to those Canadian resources in an equitable manner,
 
+promotes innovation and is readily adaptable to
+scientific and technological change,
+
 facilitates the provision to Canadians of Canadian programs in both official languages, including those created and produced by official language minority communities in Canada, as well as Canadian programs in Indigenous languages,
 
 facilitates the provision of programs that are accessible without barriers to persons with disabilities,
 
-facilitates the provision to Canadians of programs created and produced by members of Black or other racialized communities, and
+facilitates the provision to Canadians of programs created and produced by members of Black or other racialized communities,
+
+protects the privacy of individuals who are
+members of the audience of programs broadcast, and
 
 takes into account the variety of broadcasting undertakings to which the Act applies and avoids imposing obligations on any class of broadcasting undertakings if that imposition will not contribute in a material manner to the implementation of the broadcasting policy;
 
@@ -50,7 +56,7 @@ allow for the imposition of administrative monetary penalties for violations of 
 
 The enactment also makes related and consequential amendments to other Acts.
 
-Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
+His Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
 
 
 ## Short Title
@@ -89,7 +95,7 @@ elected by the community; (**élément communautaire**)
 
     **control**, in the definition affiliate, in paragraph 9.1(1)(m) and in subparagraph 9.1(1)(n)(i), includes control in fact, whether or not through one or more persons; (**contrôle**)
 
-    **decision** means any measure of any kind taken by the Commission; (**décision**)
+    **decision** includes a determination made by the Commission in any form; (**décision**)
 
     **Indigenous peoples** has the meaning assigned by the definition aboriginal peoples of Canada in subsection 35(2) of the `Constitution Act, 1982`; (**peuples autochtones**)
 
@@ -116,7 +122,9 @@ communities outside Quebec; (**communauté de langue officielle en situation min
 
     **(3)** This Act shall be construed and applied in a manner that is consistent with
 
-      the freedom of expression and journalistic, creative and programming independence enjoyed by broadcasting undertakings; and
+      the freedom of expression and journalistic, creative and programming independence enjoyed by broadcasting undertakings and creators;
+
+      the right to privacy of individuals; and
 
       the commitment of the Government of Canada to enhance the vitality of official language minority communities and to support and assist their development, as well as to foster the full recognition and use of both English and French in Canadian society.
 
@@ -137,9 +145,9 @@ recognized that it includes foreign broadcasting undertakings that provide progr
 
     encourage the development of Canadian expression by providing a wide range of programming that reflects Canadian attitudes, opinions, ideas, values and artistic creativity, by displaying Canadian talent in entertainment programming and by offering information and analysis concerning Canada and other countries from a Canadian point of view, and foster an environment that encourages the development and export of Canadian programs globally,
 
-  **(3)** Subparagraph 3(1)(d)(iii) of the Act is replaced by the following:
+  **(3)** Subparagraphs 3(1)(d)(iii) and (iv) of the Act are replaced by the following:
 
-    through its programming and the employment opportunities arising out of its operations, serve the needs and interests of all Canadians — including Canadians from racialized communities and Canadians of diverse ethnocultural backgrounds, socio-economic statuses, abilities and disabilities, sexual orientations, gender identities and expressions, and ages — and reflect their circumstances and aspirations, including equal rights, the linguistic duality and multicultural and multiracial nature of Canadian society and the special place of Indigenous peoples within that society,
+    through its programming and the employment opportunities arising out of its operations, serve the needs and interests of all Canadians — including Canadians from Black or other racialized communities and Canadians of diverse ethnocultural backgrounds, socio-economic statuses, abilities and disabilities, sexual orientations, gender identities and expressions, and ages — and reflect their circumstances and aspirations, including equal rights, the linguistic duality and multicultural and multiracial nature of Canadian society and the special place of Indigenous peoples and languages within that society,
 
     provide opportunities to Indigenous persons to produce programming in Indigenous languages, English or French, or in any combination of them, and to carry on broadcasting undertakings,
 
@@ -155,13 +163,16 @@ broadcasting by members of those communities, including with respect to matters 
 
     ensure that Canadian independent broadcasting undertakings continue to be able to play a vital role within that system,
 
-    support the production and broadcasting of programs in a diversity of languages that reflect
-racialized communities and the diversity of the ethnocultural composition of Canadian society,
-including through broadcasting undertakings that are carried on by Canadians from racialized
-communities and diverse ethnocultural backgrounds,
+    support the production and broadcasting of programs in a diversity of languages that reflect Black and other racialized communities and the diversity of the ethnocultural composition of Canadian society,
+including through broadcasting undertakings that are carried on by Canadians from Black or other racialized communities and diverse ethnocultural backgrounds,
 
-    provide opportunities to Canadians from racialized communities and diverse ethnocultural
-backgrounds to produce and broadcast programs by and for those communities,
+    provide opportunities to Canadians from Black or other racialized communities and diverse ethnocultural backgrounds to produce and broadcast programs by and for those communities,
+
+    promote innovation and be readily adaptable to scientific and technological change,
+
+    reflect and be responsive to the preferences and interests of various audiences, and
+
+    ensure freedom of expression and journalistic independence;
 
   **(4)** Paragraphs 3(1)(f) to (h) of the Act are replaced by the following:
 
@@ -181,16 +192,13 @@ backgrounds to produce and broadcast programs by and for those communities,
 
     be drawn from local, regional, national and international sources, including, at the local level, from community broadcasters who, through collaboration with local organizations and community members, are in the unique position of being able to provide varied programming to meet the needs of specific audiences,
 
-    include programs produced by Canadians that cover news and current events — from the local and regional to the national and international — and that reflect the viewpoints of Canadians, including the viewpoints of Indigenous persons and of Canadians from racialized communities and diverse ethnocultural backgrounds,
+    include programs produced by Canadians that cover news and current events — from the local and regional to the national and international — and that reflect the viewpoints of Canadians, including the viewpoints of Indigenous persons and of Canadians from Black or other racialized communities and diverse ethnocultural backgrounds,
+
+    reflect the importance of Indigenous language revitalization by supporting the production and broadcasting of Indigenous language programming, in accordance with the United Nations Declaration on the Rights of Indigenous Peoples and in response to the Truth and Reconciliation Commission of Canada's Calls to Action,
 
   **(5.1)** Subparagraph 3(1)(i)(iv) of the Act is replaced by the following:
 
     provide a reasonable opportunity for the public to be exposed to the expression of differing views on matters of public concern and to directly participate in public dialogue on those matters including through the community element, and
-
-  **(5.2)** Subparagraph 3(1)(i)(v) of the Act is replaced by the following:
-
-    include the greatest possible contribution from the Canadian production sector, whether it is
-independent or affiliated with or owned by a broadcasting undertaking;
 
   **(6)** Paragraphs 3(1)(k) and (l) of the Act are replaced by the following:
 
@@ -206,7 +214,7 @@ communities,
 
   **(7)** Paragraphs 3(1)(o) to (s) of the Act are replaced by the following:
 
-    programming that reflects the Indigenous cultures of Canada and programming that is in Indigenous languages should be provided — including through broadcasting undertakings that are carried on by Indigenous persons — within community elements, which are positioned to serve smaller and remote communities, and other elements of the Canadian broadcasting system;
+    programming that reflects the Indigenous cultures of Canada and programming that is in Indigenous languages should be provided — including through broadcasting undertakings that are carried on by Indigenous persons — within community elements, which are positioned to serve smaller and remote communities, and other elements of the Canadian broadcasting system in order to serve Indigenous peoples where they live;
 
     programming that is accessible without barriers to persons with disabilities should be provided within the Canadian broadcasting system, including through community broadcasting, as well as the opportunity
 for them to develop their own content and voices;
@@ -238,8 +246,7 @@ programming,
     support new and emerging Canadian creative talent, as a cost-effective venue for learning new skills,
 taking risks and exchanging ideas,
 
-    through community participation, strengthen the democratic process and support
-countering disinformation, and
+    through community participation, strengthen the democratic process and support local journalism, and
 
     be available throughout Canada so that all Canadians can engage in dialogue on matters of public
 concern; and
@@ -295,6 +302,10 @@ programming, their contribution to the implementation of the broadcasting policy
 
     ensures that any broadcasting undertaking that cannot make maximum or predominant use of Canadian creative and other human resources in the creation, production and presentation of programming contributes to those Canadian resources in an equitable manner;
 
+  **(1.1)** Paragraph 5(2)(c) of the Act is replaced by the following:
+
+    promotes innovation and is readily adaptable to scientific and technological change;
+
   **(2)** Paragraph 5(2)(e) of the Act is replaced by the following:
 
     facilitates the provision to Canadians of Canadian programs created and produced in both official languages, including those created and produced by official language minority communities in Canada, as well as in Indigenous languages;
@@ -304,7 +315,9 @@ programming, their contribution to the implementation of the broadcasting policy
     facilitates the provision to Canadians of programs created and produced by members of Black or
 other racialized communities;
 
-  **(3)** Subsection 5(2) of the Act is amended by striking out "and" at the end of paragraph (f), by adding "and" at the end of paragraph (g) and by adding the following after paragraph (g):
+  **(3)** Subsection 5(2) of the Act is amended by striking out "and" at the end of paragraph (f) and by adding the following after paragraph (g):
+
+    protects the privacy of individuals who are members of the audience for programs broadcast by broadcasting undertakings; and
 
     takes into account the variety of broadcasting undertakings to which this Act applies and avoids imposing obligations on any class of broadcasting undertakings if that imposition will not contribute in a material manner to the implementation of the broadcasting policy set out in subsection 3(1).
 
@@ -338,12 +351,6 @@ In regulating and supervising the Canadian broadcasting system and exercising it
 
 ### Section 7
 
-Section 7 of the Act is amended by adding the following after subsection (6):
-
-**(7)** For greater certainty, an order may be made under subsection (1) with respect to orders made under subsection 9.1(1) or 11.1(2) or regulations made under subsection 10(1) or 11.1(1).
-
-### Section 8
-
   **(1)** Subsections 8(2) and (3) of the Act are replaced by the following:
 
     **(2)** The Minister shall
@@ -356,7 +363,7 @@ Section 7 of the Act is amended by adding the following after subsection (6):
 
   **(2)** Subsection 8(5) of the Act is repealed.
 
-### Section 9
+### Section 8
 
   **(1)** Paragraphs 9(1)(a) to (h) of the Act are replaced by the following:
 
@@ -378,7 +385,7 @@ Section 7 of the Act is amended by adding the following after subsection (6):
 
     **(5)** The Commission shall repeal or amend an exemption order made under subsection (4) if the Commission considers that doing so will contribute in a material manner to the implementation of the broadcasting policy set out in subsection 3(1).
 
-### Section 10
+### Section 9
 
 The Act is amended by adding the following after section 9:
 
@@ -449,7 +456,7 @@ broadcasting undertakings in a manner that is similar to a distribution undertak
 
   **(10)** The Commission may facilitate those negotiations at the request of either party to the negotiations.
 
-### Section 11
+### Section 10
 
   **(1)** The portion of subsection 10(1) of the French version of the Act before paragraph (a) is replaced by the following:
 
@@ -499,9 +506,7 @@ broadcasting undertakings in a manner that is similar to a distribution undertak
 
     **(1.1)** In making regulations under paragraph (1)(b), the Commission shall consider the following matters:
 
-      whether Canadian producers, including independent producers, have a right or interest in relation
-to a program, including copyright or any other right or interest, that allows them to control and benefit
-in a fair and equitable manner from the exploitation of the program;
+      whether Canadians, including independent producers, have a right or interest in relation to a program, including copyright, that allows them to control and benefit in a significant and equitable manner from the exploitation of the program;
 
       whether key creative positions in the production of a program are primarily held by Canadians;
 
@@ -509,7 +514,7 @@ in a fair and equitable manner from the exploitation of the program;
 
       the extent to which persons carrying on online undertakings or programming undertakings collaborate with independent Canadian producers, with persons carrying on Canadian broadcasting undertakings producing their own programs, with producers associated with Canadian broadcasting undertakings or with any
 other person involved in the Canadian program production industry, including Canadian owners of
-copyright in musical works or in sound recordings made in Canada; and
+copyright in musical works or in sound recordings; and
 
       any other matter that may be prescribed by regulation.
 
@@ -519,7 +524,7 @@ copyright in musical works or in sound recordings made in Canada; and
 
     **(3)** A copy of each regulation that the Commission proposes to make under subsection (1) shall be published in the `Canada Gazette` and a reasonable opportunity shall be given to persons carrying on broadcasting undertakings and other interested persons to make representations to the Commission with respect to the regulation.
 
-### Section 12
+### Section 11
 
 The Act is amended by adding the following after section 10:
 
@@ -527,7 +532,7 @@ The Act is amended by adding the following after section 10:
 
 For greater certainty, the Commission shall make orders under subsection 9.1(1) and regulations under subsection 10(1) in a manner that is consistent with the freedom of expression enjoyed by users of social media services that are provided by online undertakings.
 
-### Section 13
+### Section 12
 
   **(1)** The portion of subsection 11(1) of the French version of the Act before paragraph (a) is replaced by the following:
 
@@ -579,7 +584,7 @@ For greater certainty, the Commission shall make orders under subsection 9.1(1) 
 
     **(5)** A copy of each regulation that the Commission proposes to make under this section shall be published in the `Canada Gazette` and a reasonable opportunity shall be given to persons carrying on broadcasting undertakings and other interested persons to make representations to the Commission with respect to the regulation.
 
-### Section 14
+### Section 13
 
 The Act is amended by adding the following after section 11:
 
@@ -589,13 +594,17 @@ The Act is amended by adding the following after section 11:
 
     developing, financing, producing or promoting Canadian audio or audio-visual programs, including independent productions, for broadcasting by broadcasting undertakings;
 
-    supporting, promoting or training Canadian creators of audio or audio-visual programs for broadcasting by broadcasting undertakings; or
+    supporting, promoting or training Canadian creators of audio or audio-visual programs for broadcasting by broadcasting undertakings;
 
-    supporting participation by persons, groups of persons or organizations representing the public interest in proceedings before the Commission under this Act.
+    supporting broadcasting undertakings offering programming services that, in the Commission's opinion, are of exceptional importance to the achievement of the objectives of the broadcasting policy set out in subsection 3(1);
 
-  **(2)** The Commission may make an order respecting expenditures to be made by a particular person carrying on a broadcasting undertaking for any of the purposes set out in paragraphs (1)(a) to (c).
+    supporting participation by persons, groups of persons or organizations representing the public interest in proceedings before the Commission under this Act; or
 
-  **(3)** Regulations and orders made under this section for the purposes set out in paragraph (1)(a) shall prescribe the minimum share of expenditures that are to be allocated to French language original programs in the case of broadcasting undertakings that offer programs in both official languages.
+    supporting the development of initiatives — including tools — that, in the Commission's opinion, are efficient and necessary for the achievement of the objectives of the broadcasting policy set out in subsection 3(1).
+
+  **(2)** The Commission may make an order respecting expenditures to be made by a particular person carrying on a broadcasting undertaking for any of the purposes set out in paragraphs (1)(a) to (d).
+
+  **(3)** Regulations and orders made under this section for the purposes set out in paragraph (1)(a) shall prescribe the minimum share of expenditures that are to be allocated to Canadian original French language programs in the case of broadcasting undertakings that offer programs in both official languages.
 
   **(4)** A regulation made under this section may be made applicable to all persons carrying on broadcasting undertakings or to all persons carrying on broadcasting undertakings of any class established by the Commission in the regulation.
 
@@ -613,7 +622,7 @@ The Act is amended by adding the following after section 11:
 
   **(8)** The `Statutory Instruments Act` does not apply to orders made under subsection (2).
 
-### Section 15
+### Section 14
 
 Subsection 12(1) of the Act is replaced by the following:
 
@@ -629,13 +638,23 @@ Subsection 12(1) of the Act is replaced by the following:
 
     the circumstances may require the Commission to make any decision or order or to give any approval that it is authorized to make or give under this Part or under any regulation or order made under this Part.
 
+### Section 15
+
+  **(1)** Paragraph 18(1)(c) of the Act is replaced by the following:
+
+    the establishing of any performance objectives for the purposes of paragraphs 11(2)(b) and 11.1(6)(b); and
+
+  **(2)** Subsection 18(2) of the Act is replaced by the following:
+
+    **(2)** The Commission shall also hold a public hearing in connection with the following matters unless it is satisfied that such a hearing is not required in the public interest:
+
+      the amendment or renewal of a licence;
+
+      the making of an order under subsection 9.1(1) or 11.1(2); and
+
+      the making of any regulation under this Act.
+
 ### Section 16
-
-Paragraph 18(1)(c) of the Act is replaced by the following:
-
-the establishing of any performance objectives for the purposes of paragraphs 11(2)(b) and 11.1(6)(b); and
-
-### Section 17
 
   **(1)** Section 20 of the Act is amended by adding the following after subsection (1):
 
@@ -649,7 +668,7 @@ them in a conflict of interest.
 
     **(4)** The members of a panel established under subsection (1) shall consult with the Commission, and may consult with any officer of the Commission, for the purpose of ensuring a consistency of interpretation of the broadcasting policy set out in subsection 3(1), the regulatory policy set out in subsection 5(2), the orders made under section 9.1, the regulations made under sections 10 and 11 and the regulations and orders made under section 11.1.
 
-### Section 18
+### Section 17
 
 Section 21 of the French version of the Act is replaced by the following:
 
@@ -657,7 +676,7 @@ Section 21 of the French version of the Act is replaced by the following:
 
 Le Conseil peut établir des règles concernant l'instruction des affaires dont il est saisi, notamment la procédure applicable à la présentation des demandes d'attribution, de modification, de renouvellement, de suspension ou de révocation de licences, la présentation des observations et des plaintes et le déroulement des audiences.
 
-### Section 19
+### Section 18
 
 Subsections 23(1) to (3) of the Act are replaced by the following:
 
@@ -669,13 +688,13 @@ Subsections 23(1) to (3) of the Act are replaced by the following:
 
   **(3)** Subject to subsection (4), the Minister may, within 90 days after a condition, regulation or order is referred to the Minister under subsection (2), issue to the Commission a written directive with respect to the condition, regulation or order and the Commission shall comply with any such directive issued by the Minister.
 
-### Section 20
+### Section 19
 
 Paragraph 24(1)(a) of the Act is replaced by the following:
 
 the licensee has contravened any order made under subsection 9.1(1), 11.1(2) or 12(2) or any regulation made under this Part; or
 
-### Section 21
+### Section 20
 
 Subsection 25(1) of the Act is replaced by the following:
 
@@ -683,7 +702,7 @@ Subsection 25(1) of the Act is replaced by the following:
 
   **(1)** If the Commission is satisfied, after a public hearing on the matter, that the Corporation has contravened section 31.1, any order made under subsection 9.1(1), 11.1(2) or 12(2) or any regulation made under this Part, the Commission shall forward to the Minister a report setting out the circumstances of the contravention, the findings of the Commission and any observations or recommendations of the Commission in connection with the contravention.
 
-### Section 22
+### Section 21
 
 The Act is amended by adding the following after section 25:
 
@@ -744,7 +763,7 @@ Subject to section 25.3, the Commission shall proactively make available for pub
 
   **(7)** Designated information that is not disclosed or required to be disclosed under this section is not admissible in evidence in any judicial proceedings except proceedings for failure to submit information required to be submitted under this Act or for forgery, perjury or false declaration in relation to the submission of the information.
 
-### Section 23
+### Section 22
 
   **(1)** Subsection 28(1) of the Act is replaced by the following:
 
@@ -758,7 +777,7 @@ Subject to section 25.3, the Commission shall proactively make available for pub
 
   **(3)** Subsections 28(4) and (5) of the Act are repealed.
 
-### Section 24
+### Section 23
 
   **(1)** Subsection 29(1) of the Act is replaced by the following:
 
@@ -770,7 +789,7 @@ Subject to section 25.3, the Commission shall proactively make available for pub
 
     **(3)** The Commission shall establish and maintain a public register in which shall be kept a copy of each petition received by the Commission.
 
-### Section 25
+### Section 24
 
 The Act is amended by adding the following after section 31:
 
@@ -787,7 +806,7 @@ The Act is amended by adding the following after section 31:
 
   **(2)** Despite subsection (1), a person may carry on an online undertaking without a licence and without being so exempt.
 
-### Section 26
+### Section 25
 
 Sections 32 to 34 of the Act are replaced by the following:
 
@@ -824,7 +843,9 @@ Proceedings in respect of an offence under section 33 may be instituted within, 
 
   **(2)** The Commission shall publish the first report within seven years after the day on which this subsection comes into force and, subsequently, within seven years after the day on which the most recent report is published.
 
-### Section 27
+  **(3)** The Minister shall cause a copy of all reports published under subsections (1) and (2) to be tabled before each House of Parliament.
+
+### Section 26
 
 The Act is amended by adding the following after section 34.2:
 
@@ -832,7 +853,7 @@ The Act is amended by adding the following after section 34.2:
 
 A person is not to be found guilty of an offence under section 34.2 if they establish that they exercised due diligence to prevent the commission of the offence.
 
-### Section 28
+### Section 27
 
 The Act is amended by adding the following after section 34.3:
 
@@ -1078,7 +1099,7 @@ It is prohibited for any person to knowingly make a material misrepresentation o
 
   **(2)** Proceedings in respect of an offence under subsection (1) may be instituted within, but not after, two years after the day on which the subject matter of the proceedings arose.
 
-### Section 29
+### Section 28
 
   **(1)** Paragraphs 38(1)(a) to (c) of the Act are replaced by the following:
 
@@ -1098,7 +1119,7 @@ It is prohibited for any person to knowingly make a material misrepresentation o
 
       must be registered with the Commission under regulations made under paragraph 10(1)(i).
 
-### Section 30
+### Section 29
 
   **(1)** The portion of subsection 46(1) of the Act before paragraph (a) is replaced by the following:
 
@@ -1118,7 +1139,7 @@ appropriate, in accordance with any directions that the Governor in Council may 
 
     **(3)** The Corporation may, subject to any applicable orders and regulations of the Commission, act as an agent of Her Majesty in right of Canada, or as an agent or mandatary of Her Majesty in right of a province, in respect of any broadcasting operations that it may be directed by the Governor in Council to carry out.
 
-### Section 31
+### Section 30
 
 Subsection 51(1) of the French version of the Act is replaced by the following:
 
@@ -1144,12 +1165,11 @@ Subsection 51(1) of the French version of the Act is replaced by the following:
 
 ### Status of the Artist Act
 
-### Section 31.1
+### Section 31
 
-Section 6 of the `Status of the Artist Act` is amended by adding the following after subsection (2):
+Subparagraph 6(2)(a)(ii) of the `Status of the Artist Act` is replaced by the following:
 
-**(3)** This Part does not apply in respect of an online undertaking, as defined in subsection 2(1) of the
-`Broadcasting Act`.
+broadcasting undertakings, regulated under the `Broadcasting Act`, that are federal works, undertakings or businesses, as defined in section 2 of the `Canada Labour Code`, or that are corporations established to perform any function or duty on behalf of the Government of Canada;
 
 
 ### An Act to promote the efficiency and adaptability of the Canadian economy by regulating certain activities that discourage reliance on electronic means of carrying out commercial activities, and to amend the Canadian Radio-television and Telecommunications Commission Act, the Competition Act, the Personal Information Protection and Electronic Documents Act and the Telecommunications Act

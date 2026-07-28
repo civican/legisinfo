@@ -87,7 +87,7 @@ access to affordable early learning and child care programs and services enable 
 
 it is important for the Government of Canada to cooperate, collaborate and work in partnership with the provinces and Indigenous peoples and support them in their efforts to provide those programs and services; and
 
-First Nations, Inuit and Métis children and families are best supported by early learning and child care programs and services that are culturally appropriate, that are led by Indigenous peoples and that respect the right of Indigenous peoples to free, prior and informed consent in matters relating to children.
+First Nations, Inuit and Métis children and families are best supported by early learning and child care programs and services that are culturally appropriate, that are led by Indigenous peoples and that respect theright of Indigenous peoples to free, prior and informed consent in matters relating to children.
 
 
 ## Funding
@@ -110,7 +110,9 @@ First Nations, Inuit and Métis children and families are best supported by earl
 
 ### Section 8
 
-The Government of Canada commits to maintaining long-term funding for early learning and child care programs and services, including early learning and child care programs and services for Indigenous peoples. The funding must be provided primarily through agreements with the provincial governments, Indigenous governing bodies and other Indigenous entities that represent the interests of an Indigenous group and its members.
+  **(1)** The Government of Canada commits to maintaining long-term funding for early learning and child care programs and services, including early learning and child care programs and services for Indigenous peoples and for official language minority communities.
+
+  **(2)** The funding must be provided primarily through agreements with the provincial governments and Indigenous governing bodies and other Indigenous entities that represent the interests of an Indigenous group and its members.
 
 
 ## National Advisory Council on Early Learning and Child Care
