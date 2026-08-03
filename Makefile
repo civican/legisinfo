@@ -46,8 +46,16 @@ run:
 	fi
 
 docker-run:
-	@echo "Running API server container mounting current directory..."
-	docker run --rm -it -p 8001:8000 -v $$(pwd):/data -e LEGISINFO_DATA_PATH=/data $(DOCKER_IMAGE)
+	@if ! docker image inspect $(DOCKER_IMAGE) >/dev/null 2>&1; then \
+		echo "Docker image '$(DOCKER_IMAGE)' not found. Building image..."; \
+		if [ -d "../civican-server" ]; then \
+			docker build -t $(DOCKER_IMAGE) -f ../civican-server/Dockerfile ..; \
+		else \
+			echo "Error: Cannot build $(DOCKER_IMAGE), ../civican-server directory not found."; exit 1; \
+		fi; \
+	fi; \
+	echo "Running API server container mounting current directory..."; \
+	docker run --rm -it -p 8001:8000 -v $$(pwd):/data/legisinfo -e LEGISINFO_DATA_PATH=/data/legisinfo $(DOCKER_IMAGE)
 
 scrape:
 	@if echo "$(CIVICAN_SCRAPER_SOURCE)" | grep -q "git+"; then \
