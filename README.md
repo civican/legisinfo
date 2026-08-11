@@ -25,4 +25,4 @@ This repository contains a versioned history of Canadian legislative bills and t
 | 43rd Parliament, 1st session | [43-1](43-1/README.md) | Prerogative/Dissolved | 2026-07-27 21:14:22 |
 | 43rd Parliament, 2nd session | [43-2](43-2/README.md) | Prerogative/Dissolved | 2026-07-27 21:14:22 |
 | 44th Parliament, 1st session | [44-1](44-1/README.md) | Prerogative/Dissolved | 2026-07-27 21:14:22 |
-| 45th Parliament, 1st session | [45-1](45-1/README.md) | Active | 2026-08-10 07:09:45 |
+| 45th Parliament, 1st session | [45-1](45-1/README.md) | Active | 2026-08-11 06:46:31 |
